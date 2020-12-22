@@ -1,0 +1,86 @@
+<TextBlock 1 w:18 h:2>
+Ramsus
+"Sigurd!"<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Ramsus
+"Why are you abandoning
+this country!? <New>
+You were supposed to help
+us create an ideal
+nation!"<Close><End of Block>
+<TextBlock 3 w:38 h:2>
+Ramsus
+"...You traitor!!!"<Opcode 2 64><Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Sigurd
+"I'm not abandoning it.<New>
+I've been living here to
+steal this country's
+technology from the
+beginning.<New>
+Besides, there's someone
+waiting for me.<Delay 16>
+Don't be bitter."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Sigurd
+"It wasn't too bad going
+after the same ideals with
+you, for that short time."<Close><End of Block>
+<TextBlock 6 w:0 h:1>
+<End of Block>
+<TextBlock 7 w:0 h:0>
+<End of Block>
+<TextBlock 8 w:0 h:0>
+<End of Block>
+<TextBlock 9 w:0 h:0>
+<End of Block>
+<TextBlock 10 w:0 h:0>
+<End of Block>
+<TextBlock 11 w:0 h:0>
+<End of Block>
+<TextBlock 12 w:0 h:0>
+<End of Block>
+<TextBlock 13 w:0 h:0>
+<End of Block>
+<TextBlock 14 w:0 h:0>
+<End of Block>
+<TextBlock 15 w:0 h:0>
+<End of Block>
+<TextBlock 16 w:0 h:0>
+<End of Block>
+<TextBlock 17 w:0 h:0>
+<End of Block>
+<TextBlock 18 w:0 h:0>
+<End of Block>
+<TextBlock 19 w:0 h:0>
+<End of Block>
+<TextBlock 20 w:0 h:0>
+<End of Block>
+<TextBlock 21 w:0 h:0>
+<End of Block>
+<TextBlock 22 w:0 h:0>
+<End of Block>
+<TextBlock 23 w:0 h:0>
+<End of Block>
+<TextBlock 24 w:0 h:0>
+<End of Block>
+<TextBlock 25 w:0 h:0>
+<End of Block>
+<TextBlock 26 w:0 h:0>
+<End of Block>
+<TextBlock 27 w:0 h:0>
+<End of Block>
+<TextBlock 28 w:0 h:0>
+<End of Block>
+<TextBlock 29 w:0 h:0>
+<End of Block>
+<TextBlock 30 w:0 h:0>
+<End of Block>
+<TextBlock 31 w:0 h:0>
+<End of Block>
+<TextBlock 32 w:0 h:0>
+<End of Block>
+<TextBlock 33 w:0 h:0>
+<End of Block>
+<TextBlock 34 w:0 h:0>
+<Close><End of Block>

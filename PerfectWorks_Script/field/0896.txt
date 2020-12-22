@@ -1,0 +1,81 @@
+<TextBlock 1 w:42 h:3>
+We must rewrite all
+false history books
+on the monarchy.<New>
+We also must get rid
+of any books that
+might cause problems.<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+But now, any pre-Shakhan
+records are getting dated.
+Strange how the present
+becomes the past.<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+I am rearranging all the
+records that were hidden
+from Shakhan.<New>
+I was told to burn them,
+but I hid them instead.<Close><End of Block>
+<TextBlock 4 w:72 h:3>
+Do you know the history of Bledavik?
+    Yes, I do
+    No, I don't<Close><End of Block>
+<TextBlock 5 w:40 h:1>
+Wow, you know a lot.<Close><End of Block>
+<TextBlock 6 w:58 h:5>
+This city was built on a
+desert rockbed. This was
+partially to escape sand
+erosion, but that's not
+all.<New>
+An underground water basin
+wells up here. The rockbed
+is made of limestone, so
+the water level continued
+to rise to its present level.<New>
+Fatima Castle was originally
+built to protect the water
+source, but gradually the
+desert people started to
+live here.<New>
+They were soon joined by a
+steady flow of people from
+the northern lands.
+That is the story of this
+city, Bledavik.<Close><End of Block>
+<TextBlock 7 w:58 h:5>
+'Aveh's True History'<New>
+...In the dark days of the
+Fatima rule, the people had
+little to eat and even less
+to be happy about.<New>
+Their hardships peaked during
+the reign of Edbart IV...<New>
+Using the people's fury as
+his power base, Shakhan, the
+Prime Minister then, lead
+the armies that broke the
+tyrany of the Fatima dynasty.<New>
+Those heroes became the 
+nucleus of Aveh's current
+armed forces...<Close><End of Block>
+<TextBlock 8 w:62 h:4>
+It is said the founder of Aveh,
+one Roni Fatima, was part of a
+desert caravan, but he probably
+also had other sides to him.<New>
+The myths speak of the
+involvement of giants in
+battles that were part of
+a massive power struggle.<New>
+Almost all the records from
+that time have been lost, and
+what little remains is doubted
+as being historically correct.<New>
+But then Roni Fatima could have
+been behind altering things.<Close><End of Block>
+<TextBlock 9 w:70 h:3>
+<Opcode 1 255>There's probably a guard outside...
+    Open the door
+    Just take a peek<Close>
+   Just take a peek<Close><Close><End of Block>

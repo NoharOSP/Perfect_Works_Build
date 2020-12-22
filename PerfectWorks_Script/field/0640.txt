@@ -1,0 +1,122 @@
+<TextBlock 1 w:42 h:2>
+Fei
+"Where are you, doc?"<Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Fei
+"W, what's going on?"<Close><End of Block>
+<TextBlock 3 w:30 h:4>
+Fei
+"Doc!!<Delay 20>
+So that's where
+you were!"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Fei
+"Are you alright, doc?<Delay 20>
+What are you doing all
+the way up there?"<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Fei
+"Okay, doc, I will.
+But please hurry up.<New>
+It will get dark
+before you know it."<Close><End of Block>
+<TextBlock 6 w:34 h:3>
+Fei
+"Well,
+good night, doc."<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Fei
+"What's wrong, doc?<New>
+There is nothing to worry
+about!<Delay 20> Well, anyway, I'll
+see you tomorrow."<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Citan
+"Good night, Fei.<Delay 20>
+And do be careful!"<Close><End of Block>
+<TextBlock 9 w:34 h:3>
+Citan
+"Oh, Fei!<Delay 30>
+Good to see you."<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Citan
+"I thought I would try to
+restore this Land Crab.<New>
+Oh, and that explosion was
+nothing to worry about.<Delay 20>
+It happens all the time.
+Ha, ha, ha...!"<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Citan
+"Could you wait a while?<Delay 20>
+I am just about ready
+to call it a day.<New>
+Oh, yes. There is
+something interesting
+in the storeroom...<Delay 20>
+Why not take a look!?"<Close><End of Block>
+<TextBlock 12 w:36 h:2>
+Citan
+"Yes, good night."<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+Citan
+"Oh, Fei!
+Please be careful..."<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Citan
+"Ah, I mean...<Delay 20>
+the path is dangerous
+when it is so dark..."<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Citan
+"Well then,
+shall we go?<New>
+It is finally starting...<Delay 20>
+I wonder if we will make
+it back alive..."<Close><End of Block>
+<TextBlock 16 w:44 h:5>
+Ohhh! This is no good!<Delay 20>
+Why do they use such
+inferior parts?
+This is why their
+intervention strat...<Close><End of Block>
+<TextBlock 17 w:38 h:1>
+Found some Aquasol!<Close><End of Block>
+<TextBlock 18 w:40 h:1>
+Found Midori's Ring!<Close><End of Block>
+<TextBlock 19 w:40 h:2>
+<Perso1> put the
+ring away secretly.<Close><End of Block>
+<TextBlock 20 w:34 h:2>
+Found some hidden
+    pin money!<New>
+Received 120G!<Close><End of Block>
+<TextBlock 21 w:42 h:1>
+Found some bird seed!<Close><End of Block>
+<TextBlock 22 w:38 h:3>
+Tried a little bit,<Delay 20>
+but it didn't taste
+very good...<Close><End of Block>
+<TextBlock 23 w:42 h:1>
+Found some bird seed!<Close><End of Block>
+<TextBlock 24 w:36 h:3>
+Tried it again,<Delay 20>
+but the flavor
+hasn't improved...<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+"The shiny farhead is the
+pruf of justis! Stop the
+njections, yew quack."<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+"Injured, sick, all
+accepted. Come on in!
+But no deceased please."<Close><End of Block>
+<TextBlock 27 w:28 h:3>
+Go back down? <Delay 20>
+    Yes
+    No<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Do you want to look
+through the telescope?<Delay 20>
+    Sure
+    No<Close><Close><End of Block>

@@ -1,0 +1,29 @@
+<TextBlock 1 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 2 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Fei
+"...It looks like we can
+get out of our Gears and
+go in here on foot."<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Fei
+"...The city we saw from
+Emeralda's ruins...<New>
+...<Delay 32>We've come a
+long way from there..."<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

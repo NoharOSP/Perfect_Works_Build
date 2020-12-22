@@ -1,0 +1,133 @@
+<TextBlock 1 w:42 h:4>
+Maria
+"Father!?<Delay 40>
+Is it really you,
+Nikolai, my father!?"<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Maria
+"!!!<Delay 40>
+...Why did you do such
+a horrid thing!?"<Close><End of Block>
+<TextBlock 3 w:10 h:2>
+Maria
+"No!"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Maria
+"!?<Delay 60>
+<Delay 40>...<Delay 40>Seibzehn's trembling.<Delay 60>
+<Delay 40>...<Delay 40>Are you crying?<New>
+<Delay 40>...<Delay 40>Brainwashed by
+Solaris, my real
+father is already<Delay 40>...<New>
+<Delay 40>...<Delay 40> Achtzehn is<Delay 40>...<Delay 90>
+Not my father!"<Close><End of Block>
+<TextBlock 5 w:42 h:4>
+Maria
+"<Delay 40>...<Delay 40>Achtzehn!
+I will defeat you!!<Delay 60>
+Seibzehn, let's go!!"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Maria
+"!!<Delay 40> Father!<Delay 40>
+Have you come
+to your senses!?<New>
+No!<Delay 5>
+I can't do it!!<New>
+The Graviton Cannon<Delay 5>...<Delay 5>
+you yourself had it
+sealed up because of
+its destructive power.<New>
+Father, if I use
+that on you<Delay 40>..."<Close><End of Block>
+<TextBlock 7 w:40 h:4>
+Maria
+"...<Delay 30>I can't. 
+I can't bring
+myself to do it!!<New>
+Huh! Seibzehn!<Delay 30>
+Don't...<Delay 30> I can't
+control you!<Delay 30> Father,
+are you doing this!?<New>
+Please, don't make
+him shoot!!"<Close><End of Block>
+<TextBlock 8 w:44 h:2>
+Maria
+"...Faaaaaatheeerrr!!"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Achtzehn
+"Maria...<Delay 40>
+Have you been a
+good little girl?<New>
+Look, this is Achtzehn.<New>
+I've been able to merge
+myself with Achtzehn
+through the M Project
+research in Solaris.<New>
+Observe the birth of the
+ultimate in reflexive
+speed by the unification
+of man and machine!<New>
+No normal Gear could
+ever hope to defeat
+this Achtzehn!"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Achtzehn
+"Hmph. 'Horrid?'<Delay 40>
+No, Maria.<Delay 40>
+It is 'glorious.'<New>
+Yes, yes. I shall also
+modify you and your
+Seibzehn to become one
+entity, just like me."<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Achtzehn
+"Hah hah hah.<Delay 40> Rebelling?
+I see, you've already
+reached that age<Delay 40>...<New>
+Come now,<Delay 40> don't be so
+spoiled like that,<Delay 40>
+come<Delay 40>...<Delay 40> here.<New>
+Won't<Delay 40>... you listen
+to<Delay 40>... <Delay 40>YOUR FATHER!!
+COME HERE NOW!"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Achtzehn
+"What are you saying<Delay 40>...<Delay 40>
+It's me<Delay 40>...<Delay 40>
+Your father<Delay 40>... Nikolai..."<Close><End of Block>
+<TextBlock 13 w:40 h:4>
+Nikolai
+"Maria...<Delay 40>
+can you hear me?<New>
+I'm going to release
+your Graviton Cannon
+from its seal by
+remote control!<New>
+Use that to
+defeat me."<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Nikolai
+"Fire!!<Delay 10> It doesn't
+matter...<Delay 10> I,<Delay 5> Nikolai,<Delay 5>
+no longer exist...<New>
+Before I was brain-
+washed by Solaris, I
+implanted a conscience
+circuit in Achtzehn...<New>
+This would respond and
+activate in the presence
+of Seibzehn. My message
+is coming from there.<New>
+And, during the battle,
+I transferred all my
+data from there to
+Seibzehn.<New>
+I may have lost my body,<Delay 10>
+but my spirit is with
+Seibzehn,<Delay 90> no,<Delay 10> with you,
+Maria.<Delay 40> Now and forever!"<Close><End of Block>
+<TextBlock 15 w:46 h:4>
+Nikolai
+"Maria<Delay 40>...<Delay 40> I will always
+be with you.<Delay 40>
+Now and forever<Delay 40>...<Delay 40>"<Close><Close><Close><Close><End of Block>

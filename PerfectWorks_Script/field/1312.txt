@@ -1,0 +1,44 @@
+<TextBlock 1 w:28 h:2>
+Elly
+"It's locked."<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+Citan
+"It appears to be locked."<Close><End of Block>
+<TextBlock 3 w:28 h:2>
+Bart
+"It's locked."<Close><End of Block>
+<TextBlock 4 w:28 h:2>
+Billy
+"It's locked."<Close><End of Block>
+<TextBlock 5 w:30 h:2>
+Billy
+"The Pontiff!!"<Close><End of Block>
+<TextBlock 6 w:30 h:2>
+Billy
+"Damn you<Delay 5>...<Delay 5>!!"<Close><End of Block>
+<TextBlock 7 w:28 h:2>
+Rico
+"It's locked."<Close><End of Block>
+<TextBlock 8 w:56 h:2>
+Billy
+"The infirmary is this way."<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Pontiff
+"What is all this about!?
+Who are you all!?"<Close><End of Block>
+<TextBlock 10 w:40 h:2>
+Pontiff
+"It's been exposed?"<Close><End of Block>
+<TextBlock 11 w:26 h:2>
+Pontiff
+"Ghaaaaaaa!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:48 h:2>
+You're still pretending
+you don't know anything?<Close><End of Block>
+<TextBlock 13 w:50 h:2>
+Rebelling against us will
+cost you your life.<Close><End of Block>
+<TextBlock 14 w:52 h:3>
+You may be the leader of
+the 'Ethos', but you don't
+know when you're beaten.<Close><Close><End of Block>

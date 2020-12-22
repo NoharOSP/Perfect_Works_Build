@@ -1,0 +1,38 @@
+<TextBlock 1 w:50 h:4>
+Alice's Aunt
+"Why hello, Fei.<Delay 20> Have you
+come to visit our Alice?<Delay 20>
+She's upstairs right now.<Close><End of Block>
+<TextBlock 2 w:50 h:5>
+Alice's Aunt
+"But doesn't time fly...?
+It has already been ten
+years since my brother
+and his wife passed away.<New>
+We did our best to raise
+the two children in their
+place..."<Close><End of Block>
+<TextBlock 3 w:40 h:5>
+Alice's Aunt
+"But now, as far as
+Alice is concerned,
+I can finally say my
+job is done.<New>
+I know Timothy will
+take good care of
+her from here on...<New>
+Now all that's left
+is Dan...<Delay 20>
+I'm going to have a
+hard time raising
+him to adulthood."<Close><End of Block>
+<TextBlock 4 w:14 h:1>
+Sigh...<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Alice's Aunt
+"Tomorrow, please pray
+for Alice's happiness.<New>
+And, from here on as well,
+I want you to stay the best
+of friends with both Alice
+and Timothy.<Delay 20> Thanks, Fei!"<Close><Close><End of Block>

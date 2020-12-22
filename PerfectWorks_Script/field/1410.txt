@@ -1,0 +1,55 @@
+<TextBlock 1 w:54 h:4>
+Bart
+"The Thames' captain said
+the base of this lighthouse
+is thousands of years old.<New>
+It's sturdy so they put a
+light on top to make it a
+lighthouse, but nobody
+knows what's inside."<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Billy
+"The base of this light
+house was built several
+thousand years ago.<New>
+It's just the right height,
+so they made it a light-
+house... But nobody knows
+what's inside of it."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Rico
+"Hammer said this
+lighthouse base is
+thousands of years old.<New>
+It's sturdy, so they put
+a light on top of it to
+make it into a lighthouse.<New>
+But nobody knows what's
+inside of it."<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Maria
+"This tower was here long
+before Shevat flew into
+the wild, blue yonder.<New>
+People put a light on top
+of it to make it into a
+lighthouse. But no one
+knows what's inside."<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Citan
+"The base of this light
+house was built several
+thousand years ago.<New>
+Islanders added a light
+to make it into a light-
+house. But no one knows
+what it really is."<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Citan
+"The base of this light
+house was built several
+thousand years ago. <New>
+Islanders added a light
+to make it into a light-
+house. But no one knows
+what it really is."<Close><Close><End of Block>

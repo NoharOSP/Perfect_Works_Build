@@ -1,0 +1,76 @@
+<TextBlock 1 w:32 h:2>
+It is no good!
+We are done for!<Close><End of Block>
+<TextBlock 2 w:34 h:3>
+Fei
+"A few minutes...<Delay 32>
+Doc!!"<Close><End of Block>
+<TextBlock 3 w:28 h:3>
+Fei
+"Let's get out
+of here, doc!"<Close><End of Block>
+<TextBlock 4 w:16 h:2>
+Citan
+"Oh-oh!"<Opcode 2 32><Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Citan
+"Judging by the angle...<Delay 10>it
+seems as if a gun blast has
+made a hole in the hull...<New>
+We will probably sink
+within minutes."<Close><End of Block>
+<TextBlock 6 w:34 h:3>
+Citan
+"It is locked...<Delay 32>
+Somebody free us!<New>
+Argghh!!"<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+Citan
+"We are too late..."<Opcode 2 46><Close><End of Block>
+<TextBlock 8 w:54 h:4>
+Citan
+"There is a switch for the
+sand barrier door on the
+right hand side wall there!<New>
+But be careful...
+Once it is closed it cannot
+be opened again."<Opcode 2 150><Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Citan
+"Fei! If you close the
+barrier door now we will
+be buried alive here!"<Opcode 2 90><Close><End of Block>
+<TextBlock 10 w:32 h:2>
+Citan
+"Fei! Hurry up!"<Opcode 2 32><Close><End of Block>
+<TextBlock 11 w:40 h:2>
+Citan
+"Oh no, too late..."<Opcode 2 46><Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Citan
+"There is a switch for the
+sand barrier door on the
+right hand side wall there!<New>
+But be careful...
+Once it is closed it cannot
+be opened again."<Opcode 2 150><Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Citan
+"Fei! If you close the
+barrier door now we will
+be buried alive here!"<Opcode 2 90><Close><End of Block>
+<TextBlock 14 w:38 h:2>
+Citan
+"Fei! Hurry up...!"<Opcode 2 32><Close><End of Block>
+<TextBlock 15 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 16 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 17 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 18 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

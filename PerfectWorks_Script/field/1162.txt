@@ -1,0 +1,25 @@
+<TextBlock 1 w:42 h:3>
+Citan
+"No, Elly!
+Return immediately!!"<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Elly
+"I'm going to do this...
+So please, allow me to do
+it!"<Close><End of Block>
+<TextBlock 3 w:44 h:2>
+Citan
+"It is too dangerous!"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Elly
+"I know...<New>
+But, it's just like when
+Fei put his life on the
+line to save me...<New>
+It's my turn to save Fei...
+As long as it helps him,
+I don't care what happens
+to me!"<Close><End of Block>
+<TextBlock 5 w:18 h:2>
+Citan
+"Elly..."<Close><Close><End of Block>

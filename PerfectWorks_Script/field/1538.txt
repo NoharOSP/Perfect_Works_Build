@@ -1,0 +1,30 @@
+<TextBlock 1 w:54 h:4>
+Margie
+"Heh heh, I came here,
+too!<New>
+The inside of the Yggdrasil
+smells like a men's locker
+room.<Delay 20>
+I can't stand it anymore."<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Margie
+"This country is gentle
+and quiet...<Delay 20>but I can
+sense the sorrow within.<New>
+A sad echo from long ago
+...way out there...<Delay 20>
+What happened here 500
+years ago?"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Margie
+"So, what do you need?"<Delay 20>
+    Change party
+    Nothing<Close><End of Block>
+<TextBlock 4 w:36 h:3>
+Margie
+"O.K.<Delay 20>
+Well, be careful!"<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Want to rest in the bed?<Delay 20>
+    Sure!
+    No thanks<Close><Close><End of Block>

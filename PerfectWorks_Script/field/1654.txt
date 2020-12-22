@@ -1,0 +1,90 @@
+<TextBlock 1 w:14 h:2>
+Elly
+"Fei!?"<Close><End of Block>
+<TextBlock 2 w:16 h:2>
+Fei
+"Elly!!"<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Elly
+"Fei, you're so careless.<New>
+If you're trying to
+infiltrate the base,
+you have to be subtle.<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Fei
+"Sorry...<Delay 10>
+Well, where are we?"<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+Elly
+"We're in the 'Solaris 3rd
+Class F block'.<New>
+There's around 20 blocks
+each with land dwellers
+living in them.<New>
+We Solarians are privy
+to all personal info...<New>
+Everyone's DNA structure
+is inscribed on a molecular
+level.<New>
+And even their class...<Delay 10>
+You know what these
+citizens are called?"<Close><End of Block>
+<TextBlock 6 w:10 h:1>
+No...<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Elly
+"'Worker Bees'.<Delay 10>
+It came from the shape of
+their housing blocks.<New>
+These people provide the
+manual labor vital to the
+support of Solaris' core.<New>
+I took a field trip here
+once long ago. I remember
+thinking that their lives
+had nothing to do with me.<New>
+I never thought I would
+end up here like this..."<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Fei
+"Which means, you should
+know your way around here,
+Elly."<Close><End of Block>
+<TextBlock 9 w:54 h:3>
+Elly
+"Vaguely.<Delay 10>
+We need to escape first..."<Close><End of Block>
+<TextBlock 10 w:46 h:2>
+Fei
+"Oh yeah, where's doc?"<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Elly
+"He took a different pod
+looking for you...<New>
+He may have ended
+up in a different block."<Close><End of Block>
+<TextBlock 12 w:44 h:3>
+Fei
+"Damn...<Delay 10>
+We're all spread out."<Close><End of Block>
+<TextBlock 13 w:46 h:4>
+Elly
+"I wouldn't worry about
+Citan.<Delay 10> He knows this
+city better than I do."<Close><End of Block>
+<TextBlock 14 w:42 h:3>
+Fei
+"I wonder if Bart and
+them made it OK?"<Close><End of Block>
+<TextBlock 15 w:46 h:3>
+Elly
+"Jessie's with them, so
+they should be fine."<Close><End of Block>
+<TextBlock 16 w:28 h:2>
+Fei
+"I hope so..."<Close><End of Block>
+<TextBlock 17 w:48 h:2>
+Elly
+"Anyway, let's move on."<Close><End of Block>
+<TextBlock 18 w:0 h:1>
+<Close><End of Block>

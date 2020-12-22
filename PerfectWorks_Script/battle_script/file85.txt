@@ -1,0 +1,24 @@
+<TextBlock 1 w:42 h:4>
+Miang
+"Heh...<Delay 60> Well then...,
+let's start over from
+the beginning again.<New>
+You think you can
+beat me this time?"<Delay 30><Close><End of Block>
+<TextBlock 2 w:36 h:4>
+Fei
+"What the...!?
+I thought I
+defeated you...!?"<Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Krelian
+"Unless you can
+decompose her atomic
+structure,<New>
+you don't stand much
+of a chance.<New>
+Normal attacks are
+futile against one who
+has the ability to
+regenerate<New>
+using nanomachines."<Close><Close><Close><Close><.><Close><Close><End of Block>

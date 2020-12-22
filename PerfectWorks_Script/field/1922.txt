@@ -1,0 +1,273 @@
+<TextBlock 1 w:12 h:1>
+Doc...<Delay 255><Close><End of Block>
+<TextBlock 2 w:14 h:1>
+Bart...<Delay 255><Close><End of Block>
+<TextBlock 3 w:14 h:1>
+Rico...<Delay 255><Close><End of Block>
+<TextBlock 4 w:16 h:1>
+Billy...<Delay 255><Close><End of Block>
+<TextBlock 5 w:20 h:1>
+Wiseman...<Delay 255><Close><End of Block>
+<TextBlock 6 w:16 h:1>
+Grahf...<Opcode 2 200><Close><End of Block>
+<TextBlock 7 w:24 h:1>
+Wait for me!<Opcode 2 255><Close><End of Block>
+<TextBlock 8 w:16 h:2>
+Where...<Delay 30>
+Am I?<New>
+<Delay 30>Who...<Delay 30>
+am I?<Close><End of Block>
+<TextBlock 9 w:20 h:2>
+This is...<Delay 30>
+my memory?<Close><End of Block>
+<TextBlock 10 w:28 h:2>
+Everyone...<Delay 30>
+My<Delay 20>...<Delay 20>memories.<Close><End of Block>
+<TextBlock 11 w:10 h:1>
+Elly?<Close><End of Block>
+<TextBlock 12 w:14 h:1>
+Mother?<Close><End of Block>
+<TextBlock 13 w:24 h:1>
+Who are you?<Close><End of Block>
+<TextBlock 14 w:42 h:2>
+I'm surprised.
+That's pretty clever.<Close><End of Block>
+<TextBlock 15 w:20 h:2>
+You are...
+Id?<Close><End of Block>
+<TextBlock 16 w:42 h:5>
+I misjudged you.
+I didn't expect you,
+the fake personality,
+would create a fourth
+persona.<Close><End of Block>
+<TextBlock 17 w:30 h:1>
+Fourth persona?<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+He can't feel anything.
+He's shut up inside your
+ego.<New>
+The pressing facts and
+truths you won't face.<New>
+You're afraid of them, so
+you desired to completely
+shut yourself off from
+the outside world.<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+And so you formed
+a fourth persona.
+A fourth 'Fei'.
+The name...doesn't matter.<New>
+He's the one on the stage.
+He's the one who's in
+control of our body.<New>
+But it is a useless
+form of resistance.<Close><End of Block>
+<TextBlock 20 w:26 h:1>
+Come with me!<Close><End of Block>
+<TextBlock 21 w:20 h:3>
+Wait!
+What are
+you doing?<Close><End of Block>
+<TextBlock 22 w:30 h:3>
+He has the key.
+I merely want
+to borrow it.<New>
+I've got to
+go somewhere.<Close><End of Block>
+<TextBlock 23 w:22 h:2>
+Are you...
+coming too?<Close><End of Block>
+<TextBlock 24 w:32 h:2>
+This is as far
+as you can come.<Close><End of Block>
+<TextBlock 25 w:50 h:2>
+From here on is my world.
+You can't enter.<Close><End of Block>
+<TextBlock 26 w:34 h:1>
+What do you mean?<Close><End of Block>
+<TextBlock 27 w:42 h:3>
+You're a subordinate,
+fake persona...
+that's why.<Close><End of Block>
+<TextBlock 28 w:26 h:2>
+A subordinate
+fake persona?<Close><End of Block>
+<TextBlock 29 w:52 h:4>
+Yes<Delay 5>...<Delay 10>
+He has part of my
+memories from back then<Delay 5>...<New>
+He has sealed away
+the very meaning of
+my existence<Delay 5>...<New>
+my drive<Delay 5>...<Delay 10>
+my motivation<Delay 5>...<Delay 10>
+my subconscious<Delay 5> -Id-.<New>
+Because of that,
+I became a basic,
+blank persona.<New>
+And on top of that, I
+constructed a new persona
+based on my experiences
+since then...<New>
+That is what you are now!<Close><End of Block>
+<TextBlock 30 w:32 h:2>
+Him? 
+You mean father?<Close><End of Block>
+<TextBlock 31 w:40 h:2>
+You call him father?<New>
+He who never did
+anything for you?<Close><End of Block>
+<TextBlock 32 w:42 h:2>
+It was because of his
+cowardly behavior<Delay 5>...<New>
+If only he had been
+able to protect me<Delay 5>...<Close><End of Block>
+<TextBlock 33 w:56 h:2>
+If he had done that<Delay 5>...<Delay 10>
+mother wouldn't have died<Delay 5>...<Close><End of Block>
+<TextBlock 34 w:46 h:2>
+Didn't my mother die
+right after I was born?<New>
+What really happened to
+my mother?<Delay 5> Tell me Id!<Close><End of Block>
+<TextBlock 35 w:54 h:2>
+You don't need to know.
+You'll only disappear soon.<New>
+Along with your basic
+persona, the 'coward'.<New>
+I'll rule my being through
+the power of the Existence.<Close><End of Block>
+<TextBlock 36 w:4 h:1>
+??<Close><End of Block>
+<TextBlock 37 w:54 h:3>
+Of course you don't know.
+But it is etched in my
+metempsychotic memory.<New>
+Your persona is fake, so
+you'll never stand on the
+'stage' of consciousness.<New>
+You'll never be able to
+take charge of the memories
+from our past lives.<Close><End of Block>
+<TextBlock 38 w:42 h:3>
+I know the dreams and
+hallucinations! I've
+seen them many times!<Close><End of Block>
+<TextBlock 39 w:38 h:4>
+Them<Delay 5>...<Delay 5>
+I showed them to
+you on purpose.<New>
+To break the seal,
+I chose to weaken
+the power of your
+existence.<New>
+If your mental
+energy is weakened,<Delay 5>
+I can become free
+to do as I wish.<Close><End of Block>
+<TextBlock 40 w:10 h:1>
+What?<Close><End of Block>
+<TextBlock 41 w:50 h:3>
+There are still things
+inside you which you
+haven't been shown yet<Delay 5>...<Close><End of Block>
+<TextBlock 42 w:8 h:1>
+Huh?<Close><End of Block>
+<TextBlock 43 w:54 h:3>
+Someone's coming!
+It's probably your friends.
+They must have followed me.<Close><End of Block>
+<TextBlock 44 w:40 h:1>
+Where are you going?<Close><End of Block>
+<TextBlock 45 w:48 h:4>
+I came to reestablish
+contact with the
+Existence.<New>
+To tie together all the
+threads of your memories
+since ancient times<Delay 5>...<Delay 5>
+and then cut them off<Delay 5>...<New>
+That is the fate of the
+Contact<Delay 5>...<Delay 15> All is ready.
+It's time for the true
+awakening!<New>
+I will eliminate all
+those who were full of
+hypocrisy from the very
+beginning.<Close><End of Block>
+<TextBlock 46 w:32 h:2>
+Wait!
+Wait for me, Id!<Close><End of Block>
+<TextBlock 47 w:34 h:2>
+You just stay
+here and observe!<Close><End of Block>
+<TextBlock 48 w:54 h:3>
+Yes<Delay 10>...<Delay 10>
+This is inside Id.<New>
+A world filled with
+hatred and sadness.<New>
+That's all that's here<Delay 5>...<Delay 10>
+Yes<Delay 5>...<Delay 10>
+Now I understand, Id.<New>
+Why you hate the world.<New>
+Why there is nothing
+inside you<Delay 5>...<Delay 10>
+Nothing<Delay 5>...<New>
+Nothing was given to you<Delay 5>...<Delay 10>
+Deprived of<Delay 5>...<Delay 10>
+all the happy memories<Delay 5>...<New>
+And yet<Delay 5>...<Delay 10>
+It feels pleasant<Delay 5>...<Delay 10>
+It almost feels good<Delay 5>...<New>
+Now I get it<Delay 5>...!<Delay 10>
+There's no need to resist.<New>
+I was originally just an
+existence that was created
+as a cover to hide Id.<New>
+So it would be better to
+return to that place<Delay 5>...<New>
+Let's come together<Delay 5>...<New>
+To wipe away
+everything<Delay 5>...<Delay 10>
+Including ourselves<Delay 5>...<Close><End of Block>
+<TextBlock 49 w:36 h:3>
+Remember!
+Were you not going
+to help Elly?<Close><End of Block>
+<TextBlock 50 w:32 h:3>
+Think!
+Aren't you going
+to help Elly?<Close><End of Block>
+<TextBlock 51 w:40 h:4>
+Remember...!?
+It's for her...Elly!
+Aren't you going to
+help her!?<Close><End of Block>
+<TextBlock 52 w:34 h:3>
+Think kid, think!
+Aren't you going
+to help Elly?<Close><End of Block>
+<TextBlock 53 w:38 h:3>
+Remember!?
+Elly still there...
+Still waiting!"<Close><End of Block>
+<TextBlock 54 w:46 h:4>
+You mustn't forget!
+The one you love...
+Elly!
+You've gotchu help her!<Close><End of Block>
+<TextBlock 55 w:22 h:3>
+Remember...
+Elly needs
+you now!<Close><End of Block>
+<TextBlock 56 w:36 h:3>
+Remember!
+Were you not going
+to help Elly?<Close><End of Block>
+<TextBlock 57 w:32 h:3>
+Elly?<Delay 5>
+That's right<Delay 5>...!<Delay 10>
+Elly<Delay 5>...!<Close><End of Block>
+<TextBlock 58 w:44 h:1>
+I've got to save Elly!<Close><Close><End of Block>

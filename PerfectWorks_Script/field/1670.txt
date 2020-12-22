@@ -1,0 +1,51 @@
+<TextBlock 1 w:14 h:1>
+!%#?&+!<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Even Solaris' advanced
+science can't halt aging.<Delay 10>
+But they say the powerful
+have overcome it...<New>
+They already have great
+descendants, what more do
+they want?<Delay 10>
+Don't you agree?<Close><End of Block>
+<TextBlock 3 w:14 h:1>
+!%#?&+!<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+How was the Dedication?<Delay 10> 
+It must have been a lot
+better from the VIP seats.<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Huh?<Delay 10> You're the kids
+I gave the tickets to!<Delay 10>
+You're still here? You're
+gonna miss the Dedication!<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+I came to see the Emperor,
+and strained my back...<Delay 10>
+They can cure almost
+anything but a bad back.<New>
+And after putting up with
+all that to get tickets...<Close><End of Block>
+<TextBlock 7 w:62 h:4>
+Hey, you kids.<Delay 10>
+Need tickets to the Dedication?<New>
+Kids like you really should
+go see it!
+    Please
+    No thanks<Close><End of Block>
+<TextBlock 8 w:56 h:1>
+<Opcode 1 255>Received Dedication tickets.<Opcode 2 60><Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Forget the money. Just
+hurry or you'll miss it.<Delay 10>
+I'm going to watch it
+on Homevision. <Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Weird kids...<Delay 10>
+Better take them before
+I change my mind.<Delay 10><Close>
+You can't get them at
+Ticketmeister.<Close><End of Block>
+<TextBlock 11 w:0 h:1>
+<Close><End of Block>

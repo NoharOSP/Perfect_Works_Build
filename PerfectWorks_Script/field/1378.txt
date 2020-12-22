@@ -1,0 +1,21 @@
+<TextBlock 1 w:10 h:2>
+ here<Close>
+Here<Close><End of Block>
+<TextBlock 2 w:10 h:2>
+ here<Close>
+Here<Close><End of Block>
+<TextBlock 3 w:26 h:8>
+ <?>
+ <Extra2 255><Extra2 255><Extra2 255><Extra2 255>up
+ <Extra2 255><Extra2 255><Extra2 255><Extra2 255>down
+ <Extra2 255><Extra2 255><Extra2 255><Extra2 255>cancel
+?
+Up
+Down
+Cancel<Close><End of Block>
+<TextBlock 4 w:10 h:2>
+ here<Close>
+Here<Close><End of Block>
+<TextBlock 5 w:10 h:2>
+ here<Close>
+Here<Close><Close><End of Block>

@@ -1,0 +1,82 @@
+<TextBlock 1 w:42 h:2>
+Rico
+"Is...that kid...me?"<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Rico
+"My childhood memories...
+I've forgotten..."<Close><End of Block>
+<TextBlock 3 w:50 h:2>
+"...Get out!!<Delay 30>
+Go away you mutant child"<Opcode 2 60><Close><End of Block>
+<TextBlock 4 w:38 h:3>
+"Well that is,<Delay 40> your
+father is...<Delay 30> So...<Delay 20>
+that's<Delay 10>...why..."<Opcode 2 20><Close><End of Block>
+<TextBlock 5 w:48 h:2>
+Now listen to me! Your
+father is a great man...<Close><End of Block>
+<TextBlock 6 w:44 h:2>
+Someday, you'll follow
+in his footsteps...<Close><End of Block>
+<TextBlock 7 w:36 h:1>
+...cough..cough...<Opcode 2 40><Close><End of Block>
+<TextBlock 8 w:48 h:2>
+...!!<Delay 40>...No no...
+It's not...<Delay 30> like that...<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Oh god...<Delay 30> please...
+have mercy on this
+child...<Opcode 2 60><Close><End of Block>
+<TextBlock 10 w:20 h:1>
+Uuuuhhh...<Opcode 2 60><Close><End of Block>
+<TextBlock 11 w:38 h:1>
+Cough cough...<Delay 30>cough<Opcode 2 40><Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Here, listen...<Delay 30>
+carefully...<Delay 30> from now
+on...<Delay 30> you're going to be
+by yourself...<Opcode 2 40><Close><End of Block>
+<TextBlock 13 w:16 h:1>
+...ther.<Opcode 2 60><Close><End of Block>
+<TextBlock 14 w:18 h:1>
+...other.<Opcode 2 60><Close><End of Block>
+<TextBlock 15 w:52 h:2>
+Mother,<Delay 30> why does Jenny
+have a father but I don't?<Close><End of Block>
+<TextBlock 16 w:40 h:2>
+...other.
+...You have to rest.<Opcode 2 60><Close><End of Block>
+<TextBlock 17 w:18 h:2>
+!!<Delay 30>Mother,
+mother...<Opcode 2 60><Close><End of Block>
+<TextBlock 18 w:16 h:1>
+...ther.<Opcode 2 60><Close><End of Block>
+<TextBlock 19 w:38 h:1>
+...other. Mother...<Opcode 2 60><Close><End of Block>
+<TextBlock 20 w:44 h:2>
+...I'm, different from
+the other kids.<Opcode 2 60><Close><End of Block>
+<TextBlock 21 w:50 h:2>
+...Even my nails are long
+and look at my ears...<Close><End of Block>
+<TextBlock 22 w:56 h:4>
+...<Delay 30>Miyo from across the road
+keeps saying I'm not human
+and that when I get older
+I'll become a demi-human.<Close><End of Block>
+<TextBlock 23 w:48 h:3>
+I'm...<Delay 30>not human?
+...Then you're not my
+mother?...<New>
+No, I don't want that...<Close><End of Block>
+<TextBlock 24 w:40 h:2>
+!!<Delay 30> Waaaaahh! Mother,
+mother is...<Opcode 2 30><Close><End of Block>
+<TextBlock 25 w:24 h:2>
+...Mother...<Delay 30>
+I'm...<Close><End of Block>
+<TextBlock 26 w:8 h:1>
+I'm?<Close><End of Block>
+<TextBlock 27 w:16 h:2>
+I am...?<Close>
+ am...?<Close><Close><End of Block>

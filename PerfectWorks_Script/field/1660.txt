@@ -1,0 +1,121 @@
+<TextBlock 1 w:48 h:3>
+Fei
+"What're you going to do
+to me...?"<Close><End of Block>
+<TextBlock 2 w:40 h:2>
+As I suspected.
+You know nothing...!<Close><End of Block>
+<TextBlock 3 w:38 h:3>
+Fei
+"Doc!! <Delay 10>Citan,
+why are you here!?"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Citan
+"I saw Bart's image on
+the Birdvision in the
+dedication."<Close><End of Block>
+<TextBlock 5 w:48 h:2>
+Fei
+"You saw that too, doc?"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Citan
+"Yes.<Delay 10> But I did not
+see either of you.<New>
+Soon after, I heard
+there was an intruder
+at the 2nd floor of
+the Arebato Grounds.<New>
+I suspected
+it was probably you
+so I waited here.<New>
+After that,
+I did not hear anything
+about the capture of
+any intruders."<Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Fei
+"How did you know I was
+going to be here?"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Citan
+"The best possible way to
+sneak into the Palace
+is through the dust chute.<New>
+And to get back to
+the 3rd floor, one must
+pass through this
+observation tower.<New>
+I have always
+been thinking<Delay 5>...<Delay 5><New>
+Do you think you could
+possibly be a little more
+subtle?<New>
+When infiltrating
+enemy ground, the most
+basic thing to do is to
+be stealthy.<New>
+With the amount of
+activity you have stirred
+up, you could even wake
+up the dead."<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Fei
+"Well, I was actually
+trying to be subtle..."<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Citan
+"By the way, what
+happened to Elly?<Delay 10>
+Was she not with you?"<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Fei
+"Elly...<Delay 10> She went back
+home.<New>
+She really shouldn't have
+any relation with us land
+dwellers.<New>
+She already has such
+wonderful parents..."<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Citan
+"I see...<Delay 10><New>
+Yes. It may have been
+better for her that
+way. Let us head for
+the dust chute then."<Close><End of Block>
+<TextBlock 13 w:10 h:1>
+Yeah!<Opcode 2 30><Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Citan
+"Now Fei,<Delay 10> stay very close
+to me.<New>
+That way it does not pick
+up on your presence."<Close><End of Block>
+<TextBlock 15 w:4 h:1>
+?<Delay 5>?<Close><End of Block>
+<TextBlock 16 w:46 h:4>
+Fei
+"Doc, hold on. 
+How can you get 
+past here?<New>
+According to Elly, only
+1st Class citizens
+and military personnel
+can pass through...?"<Close><End of Block>
+<TextBlock 17 w:54 h:3>
+Citan
+"Uh!?<Delay 20> Well<Delay 10>...<Delay 10>that is...<New>
+P,<Delay 10> probably they have not
+deleted my ID from the days
+I was in the military <New>
+and it is still stored
+in the data bank."<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+My, how the Solaris
+monitors are sloppy...<Delay 10>
+Hahaha...<Close><End of Block>
+<TextBlock 19 w:14 h:2>
+Fei
+"<Delay 5>...<Delay 5>??"<Close><End of Block>
+<TextBlock 20 w:0 h:1>
+<Close><End of Block>

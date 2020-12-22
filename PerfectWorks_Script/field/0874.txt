@@ -1,0 +1,178 @@
+<TextBlock 1 w:30 h:3>
+Citan
+"This...
+is not good..."<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Bart
+"See ya, you bald geezer!
+We'll settle this later."<Opcode 2 20><Close><End of Block>
+<TextBlock 3 w:26 h:4>
+Bart
+"Till then...
+go get your
+head waxed!"<Opcode 2 80><Close><End of Block>
+<TextBlock 4 w:22 h:2>
+Bart
+"Let's go!"<Close><End of Block>
+<TextBlock 5 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 6 w:36 h:2>
+Sigurd
+"Crap! An ambush!"<Close><End of Block>
+<TextBlock 7 w:36 h:3>
+Citan
+"Oh-oh...!<Delay 100>
+Where is Kahr...?"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Miang
+"I see you are quick
+to catch on.<New>
+Ramsus should be taking
+care of all your divided
+forces out by the Nisan
+border as we speak.<New>
+Ramsus easily saw through
+your plan to use a feint
+attack by Kislev long ago.
+Don't underestimate us...<New>
+Hyuga, have you lived
+down here so long that
+your mind has slipped?<New>
+And Sigurd, who would have
+thought you would have
+joined the last survivors
+of the royal dynasty..."<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Sigurd
+"Damn it...why are you
+still backing Shakhan?<New>
+What does it matter to
+you who the king is?"<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Miang
+"Hah! You suggest the son
+of murdered King Fatima?
+He refused to cooperate!<New>
+You mean to say that now
+he wants to be our
+puppet all of a sudden?<New>
+That I don't believe...
+even coming from the mouth
+of a traitor like you.<New>
+Ha ha ha... Besides,
+stupidity in puppets
+has its advantages."<Close><End of Block>
+<TextBlock 11 w:36 h:4>
+Shakhan
+"Stu, stupidity!?
+Miang, what's that
+supposed to mean?"<Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Miang
+"Minister Shakhan, I'll let
+you handle this. You must
+protect your own position.<New>
+We don't care who is
+sitting on the throne.
+Any obedient sheep
+would be fine.<New>
+However, isn't there 
+something that you
+still have to do?<New>
+If you will only do that,
+then we'll help you as
+much as possible."<Close><End of Block>
+<TextBlock 13 w:44 h:3>
+Shakhan
+"Yes, you don't have
+to tell me.<New>
+One must take care of
+one's own country's
+criminals personally."<Close><End of Block>
+<TextBlock 14 w:36 h:4>
+Miang
+"Then, with your
+permission I shall
+take my leave..."<Close><End of Block>
+<TextBlock 15 w:32 h:3>
+Bart
+"Hey now! 
+Wait a minute!!"<Close><End of Block>
+<TextBlock 16 w:34 h:2>
+Miang
+"Goodbye...<Delay 50>boys."<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Shakhan
+"You pirate...no you're
+just a sandworm. You've
+caused me enough shame.<New>
+But this is the end. You
+didn't know your place
+and now all that awaits
+you is annihilation.<New>
+Prepare to fire...!"<Close><End of Block>
+<TextBlock 18 w:14 h:2>
+Shakhan
+"Wha!?"<Close><End of Block>
+<TextBlock 19 w:40 h:4>
+Maison
+"You wretched rebel,
+Shakhan!<New>
+Make one move and
+this gatling gun
+shall be spitting
+fire!"<Close><End of Block>
+<TextBlock 20 w:26 h:2>
+Bart
+"Old Maison!"<Close><End of Block>
+<TextBlock 21 w:44 h:4>
+Maison
+"Reinforcements have
+arrived, young master.
+Please come aboard."<Close><End of Block>
+<TextBlock 22 w:36 h:2>
+Maison
+"Shall we depart?"<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Shakhan
+"Is this some kind of joke?<Delay 100>
+Hmm, It seems sandworms
+can't fly after all.<New>
+Just surrender.
+Thanks for the laughs...
+I almost hate to have
+to shoot you."<Close><End of Block>
+<TextBlock 24 w:40 h:3>
+Bart
+"Crap! I guess we're
+gonna get mauled..."<Close><End of Block>
+<TextBlock 25 w:34 h:3>
+Maison
+"Everyone...
+please get down."<Close><End of Block>
+<TextBlock 26 w:28 h:3>
+Bart
+"Do you have a
+plan, Maison?"<Close><End of Block>
+<TextBlock 27 w:34 h:2>
+Maison
+"Leave it to me."<Close><End of Block>
+<TextBlock 28 w:40 h:3>
+Bart
+"Maison, you're just
+walking in circles."<Opcode 2 100><Close><End of Block>
+<TextBlock 29 w:44 h:2>
+Maison
+"Just leave it to me."<Opcode 2 60><Close><End of Block>
+<TextBlock 30 w:48 h:4>
+Bart
+"You've saved us the
+trouble of finding you,
+Shakhan! Now get ready!"<Close><End of Block>
+<TextBlock 31 w:30 h:3>
+Shakhan
+"We've been
+expecting you!"<Close><End of Block>
+<TextBlock 32 w:16 h:2>
+Bart
+"What!?"<Close><Close><End of Block>

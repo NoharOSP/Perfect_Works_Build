@@ -1,0 +1,46 @@
+<TextBlock 1 w:52 h:4>
+Elly
+"I wonder if we'd come
+first if we'd have stepped
+on it?"<Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Citan
+"Could it be a trap?"<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Billy
+"Maybe they're trying to
+bait us."<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Rico
+"I don't know, but it
+seems pretty fishy to me."<Close><End of Block>
+<TextBlock 5 w:42 h:2>
+Maria
+"Could it be a trap?"<Close><End of Block>
+<TextBlock 6 w:44 h:2>
+<Chu-Chu>
+"It's chu suspicious!"<Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Emeralda
+"I sense something very
+suspicious."<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Bart
+"What the!?<Delay 30>
+That hole wasn't there
+last time."<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Fei
+"They're survivors from
+the last battle!"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Fei
+"Those guys, it seemed
+like they were waiting
+for us."<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Bart
+"Regardless, we gotta go
+on! It's going to be an
+eternal embarrassment if<New>
+we let'em get away!"<Close><Close><End of Block>

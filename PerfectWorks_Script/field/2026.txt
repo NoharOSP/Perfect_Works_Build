@@ -1,0 +1,100 @@
+<TextBlock 1 w:34 h:2>
+I've been waiting
+for you, Fei!!<Close><End of Block>
+<TextBlock 2 w:36 h:4>
+Ramsus
+"Fei<Delay 5>...<Delay 20>
+If only you hadn't
+have been born<Delay 5>..."<Close><End of Block>
+<TextBlock 3 w:36 h:4>
+"I<Delay 5>...<Delay 20>
+I<Delay 5>...<Delay 20>
+We're going to
+settle this now!!"<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Fei
+"Stop it, Ramsus!<Delay 20>
+What reason is there to
+continue fighting me!?<New>
+Who are you fighting for!?<Delay 20>
+Why do you always have a
+bone to pick with me!?<Delay 20>
+Tell me why!"<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Ramsus
+"It is all because of
+you<Delay 5>...<New>
+If only you hadn't come
+in and destroyed my
+prospects in life<Delay 5>..."<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+My life<Delay 5>...<Delay 5>was given to
+me within a Nanoreactor
+in Krelian's laboratory. <New>
+To be born as the superior
+being, above all humans<Delay 5>...<Delay 30>
+But then<Delay 5>...<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Ramsus
+"Because of your existence,
+I was discarded<Delay 5>...!<New>
+I was destined to be the
+representative of god<Delay 5>...<Delay 5>
+having the might of the
+Emperor.<New>
+I was destined to be the
+ultimate existence, having
+the power to exercise
+absolute control over all!<New>
+But<Delay 5>...<Delay 30>
+I lost it all<Delay 5>...<Delay 5>
+because of you!!"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Fei
+"M, my mother<Delay 5>...?<Delay 20>
+How<Delay 5>...<Delay 5>do you know her<Delay 5>...?<Delay 20>
+Ramsus<Delay 5>...!"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Dominia
+"Commander!
+Please stop this!<New>
+Commander, if what you
+say is true, then that
+is even more of a reason
+not to fight!<New>
+You were just used by
+Krelian and<Delay 5>..."<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Ramsus
+"Silence!!<Delay 20>
+You<Delay 5>...<Delay 5>even you<Delay 5>...<Delay 5>
+dare to censure me!?<New>
+I saved you from nearly
+becoming a test subject
+and now you turn on me!?"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Dominia
+"You are mistaken!<Delay 20>
+We are only thinking of
+your best interests..."<Close><End of Block>
+<TextBlock 12 w:44 h:4>
+Ramsus
+"Silence!!<New>
+Ultimately, only
+I can help myself!<Delay 20>
+I am the only one that
+can correct this!"<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Ramsus
+"This is the end for you!!<Delay 20>
+En garde!<Delay 20>
+Cause, here I come, Fei!!"<Close><End of Block>
+<TextBlock 14 w:34 h:2>
+Fei
+"What's this<Delay 5>...?"<Close><End of Block>
+<TextBlock 15 w:20 h:2>
+Fei
+"Ramsus!?"<Close><End of Block>
+<TextBlock 16 w:34 h:2>
+Ramsus
+"Ghuuaaaahh...!!"<Opcode 2 20><Close><End of Block>

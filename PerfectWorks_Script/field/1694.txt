@@ -1,0 +1,13 @@
+<TextBlock 1 w:48 h:3>
+Fei
+"Phew,<Delay 40> we barely escaped
+from getting trashed."<Close><End of Block>
+<TextBlock 2 w:38 h:2>
+Fei
+"It hurts, dammit."<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 4 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

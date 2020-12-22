@@ -1,0 +1,62 @@
+<TextBlock 1 w:44 h:3>
+Fei
+"Whew!<Delay 20>
+That about does it..."<Close><End of Block>
+
+
+<TextBlock 2 w:26 h:4>
+Fei
+"Alright...
+Now for a
+short break."<Close><End of Block>
+<TextBlock 3 w:10 h:1>
+Whoa!<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:44 h:1>
+Received a Spider Web.<Close><End of Block>
+<TextBlock 5 w:34 h:3>
+Rest in your bed?
+    Yes
+    No<Close><End of Block>
+<TextBlock 6 w:46 h:1>
+Took your hidden money.<Close><End of Block>
+<TextBlock 7 w:28 h:1>
+Received 200G.<Close><End of Block>
+<TextBlock 8 w:56 h:3>
+Maid
+"But now, you're so
+healthy and strong...<New>
+And it's all thanks to our
+village chief, Lee.
+My, should you be grateful!"<Close><End of Block>
+<TextBlock 9 w:54 h:3>
+Maid
+"Hello, Fei.
+You're looking well today."<Close><End of Block>
+<TextBlock 10 w:64 h:4>
+Maid
+"My, how time flies!<Delay 20> Why, it
+has already been 3 years since
+you came to our village...<New>
+When they first saw you brought
+in all bloody and soaken, to
+tell you the truth, they didn't
+think you were going to make it.<New>
+And that strange masked man who
+carried you here that day...
+Do you think that maybe he was
+your real father?<New>
+Don't you remember anything?
+Why, they say you had terrible
+nightmares and constantly
+called out for your father."<Close><End of Block>
+<TextBlock 11 w:56 h:3>
+Maid
+"It's alright for you to
+like painting and all...<New>
+But please try not to make
+so much mess.<Delay 30> Cleaning isn't
+such an easy job you know!"<Close><End of Block>
+<TextBlock 12 w:34 h:1>
+Received Aquasol.<Close><End of Block>
+<TextBlock 13 w:34 h:1>
+Received Aquasol.<Close><Close><End of Block>

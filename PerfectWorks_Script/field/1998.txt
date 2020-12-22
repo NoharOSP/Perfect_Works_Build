@@ -1,0 +1,12 @@
+<TextBlock 1 w:50 h:4>
+I guess I wasn't supposed
+to have used this...<Delay 20>
+I'm sorry I caused you so
+much trouble.<New>
+Your lil' brother was
+really mad at me. <Delay 20>
+He asked us whether
+we had hearts or not.<New>
+I envy you having a
+brother with enough guts
+to be honest.<Close><Close><End of Block>

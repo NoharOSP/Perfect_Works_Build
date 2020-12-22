@@ -1,0 +1,36 @@
+<TextBlock 1 w:42 h:3>
+Margie
+"Then I'll be waiting
+here for you."<Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Bart
+"Thanks for waiting!"<Close><End of Block>
+<TextBlock 3 w:46 h:2>
+Margie
+"Alright, let's go in!"<Close><End of Block>
+<TextBlock 4 w:10 h:1>
+<Opcode 1 255>Nisan<Close><End of Block>
+<TextBlock 5 w:10 h:1>
+<Opcode 1 255>Nisan<Close><End of Block>
+<TextBlock 6 w:10 h:1>
+<Opcode 1 255>Nisan<Close><End of Block>
+<TextBlock 7 w:10 h:1>
+<Opcode 1 255>Nisan<Close><End of Block>
+<TextBlock 8 w:30 h:1>
+<Opcode 1 255>Nisan Cathedral<Close><End of Block>
+<TextBlock 9 w:18 h:1>
+<Opcode 1 255>World Map<Close><End of Block>
+<TextBlock 10 w:22 h:1>
+<Opcode 1 255>Secret Dock<Close><End of Block>
+<TextBlock 11 w:64 h:4>
+    With the help of Fei and his
+    colleagues, Nisan was freed
+        from Shakhan's army.<New>
+     However, the Fatima Jasper
+     and the legendary treasures
+       of the Aveh royal family
+        were still in danger.<New>
+     And now, he's going to play
+     his last card and Shakhan's
+       true intentions will be
+          brought to light.<Close><Close><End of Block>

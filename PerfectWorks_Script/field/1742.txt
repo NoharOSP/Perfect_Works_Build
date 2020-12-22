@@ -1,0 +1,52 @@
+<TextBlock 1 w:38 h:2>
+Hey, could you open
+the door?<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+What, it's easy.
+Just press on that
+panel over there.<Close><End of Block>
+<TextBlock 3 w:54 h:2>
+Thanks...<Delay 30>
+In return I'll...<Delay 40> Eat you!!<Opcode 2 20><Close><End of Block>
+<TextBlock 4 w:28 h:1>
+K, kill meeeee<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Help...<Delay 20> I can't
+control...<Delay 30> Don't kill
+me...<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:38 h:4>
+We were turned into
+the Wels as an
+experimenPO... Huh?
+PAPOPREPAMO...<Opcode 2 40><Close><End of Block>
+<TextBlock 7 w:30 h:2>
+Ouch, it hurts,
+it hurts...<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:40 h:1>
+Y, you look tasty...<Opcode 2 30><Close><End of Block>
+<TextBlock 9 w:40 h:2>
+A mutant in addition
+to a Wels...<Opcode 2 30><Close><End of Block>
+<TextBlock 10 w:50 h:2>
+W, Wels are pretty
+good...<Delay 30> H, how 'bout you?<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:34 h:2>
+I, I'm a human...<Delay 30>
+Used to be...<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:48 h:4>
+I, in the sewers...<Delay 30>
+You seemed to have taken
+good care of...<Delay 30> my
+brother...<Opcode 2 40><Close><End of Block>
+<TextBlock 13 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 14 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 15 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 16 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

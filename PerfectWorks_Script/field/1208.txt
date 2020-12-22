@@ -1,0 +1,457 @@
+<TextBlock 1 w:46 h:4>
+Bart
+"Hey, Margie!<New>
+Get rid of that strange
+stuffed animal sitting
+in front of the bridge.<Delay 10>
+It's in our way."<Close><End of Block>
+<TextBlock 2 w:40 h:4>
+Margie
+"It's not a 'strange
+stuffed animal'!<Delay 10>
+It has a name.<New>
+Its name is..."<Close><End of Block>
+<TextBlock 3 w:48 h:2>
+Margie
+"Her name is <Chu-Chu>!"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Margie
+"But, that's weird.<Delay 10>
+It was just here, where I
+put it, a moment ago..."<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Nice chu meet chu!!<Delay 10>
+I'm <Chu-Chu>!<New>
+I fell in love with you
+when I first saw you in
+Bledavik!!<Delay 10> Wherever you
+go, I shall go chu!<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Bart
+"What we thought was just
+a stuffed toy is actually
+a living animal! Weird!"<Close><End of Block>
+<TextBlock 7 w:40 h:3>
+Margie
+"No wonder it felt
+strangely lukewarm!"<Close><End of Block>
+<TextBlock 8 w:26 h:2>
+Fei
+"Wha, What!?"<Close><End of Block>
+<TextBlock 9 w:42 h:2>
+Bart
+"Looking good, Fei!!"<Close><End of Block>
+<TextBlock 10 w:22 h:2>
+Fei
+"Shut up!!"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Bart
+"It's all right.
+I, as the captain, give
+you my permission!"<Close><End of Block>
+<TextBlock 12 w:26 h:2>
+<Chu-Chu>
+"Yeah, yeah!"<Close><End of Block>
+<TextBlock 13 w:30 h:3>
+Fei
+"...<Delay 10>
+Suit yourself!"<Close><End of Block>
+<TextBlock 14 w:44 h:3>
+Bart
+"Ha, ha, ha!<New>
+Well, I don't want
+to interrupt you two,
+so I'll wait outside!"<Close><End of Block>
+<TextBlock 15 w:12 h:2>
+Margie
+"..."<Close><End of Block>
+<TextBlock 16 w:48 h:3>
+Margie
+"Thank you for your help
+at the castle.<New>
+I heard you really riled
+it up at the tournament.<New>
+Bart was bragging how
+you're both buddies and
+all."<Close><End of Block>
+<TextBlock 17 w:26 h:3>
+Fei
+"...<Delay 10>
+Re<Delay 10>...really?"<Close><End of Block>
+<TextBlock 18 w:40 h:3>
+Margie
+"I'm so ashamed...<New>
+I want to be of help
+to Bart but I ended
+up owing him again."<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Margie
+"Fei, have you seen Bart's
+back?<New>
+He's got scars all over
+his back and it looks so
+painful.<New>
+Long ago,<Delay 5> when the two of
+us got caught by Shakhan,
+Bart protected me from
+getting beaten..."<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Margie
+"At that time, I decided
+to be his follower...to
+serve and protect him!<New>
+But, he is the one who's
+always protecting me..."<Close><End of Block>
+<TextBlock 21 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 22 w:40 h:4>
+Margie
+"Uh, oh, so sorry...<Delay 10>
+Anyway, thanks a lot
+for saving me!"<Close><End of Block>
+<TextBlock 23 w:46 h:4>
+Margie
+"You're the only ones
+who can save us...<Delay 10>
+We're counting on you!"<Close><End of Block>
+<TextBlock 24 w:38 h:4>
+Margie
+"Young master...
+You better not die!<Delay 10>
+Promise me!!"<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Bart
+"Of course!<Delay 10> I'm not going
+to die!<Delay 10> Quit sayin'
+such weird stuff!"<Close><End of Block>
+<TextBlock 26 w:56 h:4>
+Margie
+"Sorry<Delay 5>...<Delay 10>
+Yeah<Delay 5>...<Delay 10>you're right<Delay 5>...<Delay 10>
+You'll make it back<Delay 5>...<New>
+When you come back, I'm
+going to<Delay 5>...<Delay 10>well<Delay 5>...<Delay 5>
+I just thought...<New>
+...maybe I could be<Delay 5>...<Delay 10>
+closer to you...<Delay 10>you know..."<Close><End of Block>
+<TextBlock 27 w:40 h:4>
+Bart
+"Hey, whoa! Quit it.<Delay 10>
+Do you know what
+you're saying!?"<Close><End of Block>
+<TextBlock 28 w:40 h:4>
+Margie
+"Heh, just kiddin'!!
+Young master, you're
+all panicked!!"<Close><End of Block>
+<TextBlock 29 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+Margie
+"Funny...<Delay 10>
+I don't see <Chu-Chu>
+anywhere!<New>
+Where'd she go off to?"<Close><End of Block>
+<TextBlock 31 w:44 h:3>
+Margie
+"Everyone...
+I'm really worried..."<Close><End of Block>
+<TextBlock 32 w:52 h:4>
+Margie
+"I feel kinda out of it!<Delay 10>
+But the important stuff is
+about to begin, right!?"<Close><End of Block>
+<TextBlock 33 w:50 h:3>
+Margie
+"I should be able to help
+Bart this time!"<Close><End of Block>
+<TextBlock 34 w:52 h:3>
+Margie
+"We may not see each other
+for a while."<Close><End of Block>
+<TextBlock 35 w:50 h:3>
+Margie
+"Fei?<Delay 10>
+No, he hasn't come here!"<Close><End of Block>
+<TextBlock 36 w:54 h:3>
+Margie
+"...I knew something was
+up with the 'Ethos'...<New>
+It's not permissible to use
+religion for wrong doing!"<Close><End of Block>
+<TextBlock 37 w:26 h:3>
+Margie
+"Wels...
+Kinda scary."<Close><End of Block>
+<TextBlock 38 w:50 h:3>
+Margie
+"Ghost ship, eh?<New>
+It reminds me of the days
+Bart and I used to dare
+each other..."<Close><End of Block>
+<TextBlock 39 w:50 h:3>
+Bart
+"Ma...Margie,<Delay 10>
+stop talking about that!"<Close><End of Block>
+<TextBlock 40 w:34 h:3>
+Margie
+"Heh, heh, heh!<Delay 10>
+If you insist..."<Close><End of Block>
+<TextBlock 41 w:32 h:2>
+Margie
+"What a relief!"<Close><End of Block>
+<TextBlock 42 w:54 h:3>
+Margie
+"I'm glad we've met up
+with such nice people.<New>
+Anyway, I'd better hurry
+and get back to my church!"<Close><End of Block>
+<TextBlock 43 w:48 h:4>
+Margie
+"Fei, go to Elly.
+You should be there for
+her in times like this."<Close><End of Block>
+<TextBlock 44 w:50 h:3>
+<Chu-Chu>
+"Don't chu want <Chu-Chu>
+to go with you chu?"<Close><End of Block>
+<TextBlock 45 w:32 h:2>
+Margie
+"You stay here!"<Close><End of Block>
+<TextBlock 46 w:52 h:4>
+Margie
+"I was the only one who
+escaped Shakhan's grip by
+fleeing Nisan with Bart...<New>
+I wonder if the sisters
+are all right...<Delay 10>
+The young master will help
+them too, won't he?"<Close><End of Block>
+<TextBlock 47 w:52 h:4>
+Margie
+"Even though it was the
+sect's wish, it still left
+a bitter feeling..."<Close><End of Block>
+<TextBlock 48 w:30 h:2>
+Margie
+"Thanks, Fei!!"<Close><End of Block>
+<TextBlock 49 w:46 h:4>
+Margie
+"How dare you come into
+a girl's room without
+knocking!"<Close><End of Block>
+<TextBlock 50 w:50 h:4>
+Margie
+"I'm not good enough to
+fight with Bart and his
+comrades...<New>
+But I can be a manager!<Delay 10>
+Let me know when you want
+to change party members!"<Close><End of Block>
+<TextBlock 51 w:46 h:4>
+Margie
+"Change party members?"
+    Yes
+    No<Close><End of Block>
+<TextBlock 52 w:44 h:3>
+Margie
+"Oops, sorry!
+You can't change now!"<Close><End of Block>
+<TextBlock 53 w:40 h:2>
+Margie
+"Let me know again!"<Close><End of Block>
+<TextBlock 54 w:46 h:4>
+<Chu-Chu>
+"I...may have been
+getting in everyone's
+way up chu now.<New>
+But, I can't stand chu
+think Fei and all his
+friends may perish away
+like us...<New>
+I'm going chu fight so
+that this kind of thing
+never happens chu
+anyone again!!"<Close><End of Block>
+<TextBlock 55 w:30 h:3>
+<Chu-Chu>
+"I am ready chu
+fight anytime!"<Close><End of Block>
+<TextBlock 56 w:52 h:4>
+<Chu-Chu>
+"...I admire Primera.<Delay 10>
+She's only a child yet she
+has been through so muchu.<New>
+But then you look at me...<Delay 10>
+I'd better start chu get
+my act chugether!"<Close><End of Block>
+<TextBlock 57 w:42 h:4>
+<Chu-Chu>
+"Stone was a baddie!?<Delay 10>
+I'll never be able
+chu forgive him!"<Close><End of Block>
+<TextBlock 58 w:52 h:4>
+<Chu-Chu>
+"The boat suddenly started
+chu roll, and now I don't
+feel chu good!!"<Close><End of Block>
+<TextBlock 59 w:46 h:3>
+<Chu-Chu>
+"It's fun chu see more
+and more people here!!"<Close><End of Block>
+<TextBlock 60 w:50 h:4>
+<Chu-Chu>
+"<Chu-Chu> can't do muchu
+anything either, so I'll
+just be a dependent chu!"<Close><End of Block>
+<TextBlock 61 w:54 h:4>
+<Chu-Chu>
+"Fei, still sleeping?<New>
+A maiden's kiss might
+wake him up.<Delay 10>
+Oh, what am I saying!?
+This is chu embarrassing!!"<Close><End of Block>
+<TextBlock 62 w:54 h:4>
+<Chu-Chu>
+"Fei, still sleeping?<New>
+A maiden's kiss might
+wake you up.<Delay 10>
+Oh, what am I saying!?
+This is chu embarrassing!!"<Close><End of Block>
+<TextBlock 63 w:52 h:3>
+<Chu-Chu>
+"Fei is sleeping now chu?<Delay 10>
+He is suchu a sleepyhead."<Close><End of Block>
+<TextBlock 64 w:54 h:4>
+<Chu-Chu>
+"If I break something,
+Fei will comfort me, right?
+So what should I break?"<Close><End of Block>
+<TextBlock 65 w:42 h:4>
+<Chu-Chu>
+"This place isn't
+chu familiar.<New>
+But it doesn't matter
+because I didn't know
+muchu about Aveh in
+the first place chu."<Close><End of Block>
+<TextBlock 66 w:46 h:3>
+<Chu-Chu>
+"It's chu noisy.<Delay 10> Is it
+some kind of festival?"<Close><End of Block>
+<TextBlock 67 w:46 h:4>
+<Chu-Chu>
+"Nobody's here, and
+there's nothing chu do!
+I'm so bored!"<Close><End of Block>
+<TextBlock 68 w:36 h:3>
+<Chu-Chu>
+"Wow!<Delay 10> A delicious
+looking spider..."<Close><End of Block>
+<TextBlock 69 w:26 h:1>
+Munchu munchu<Close><End of Block>
+<TextBlock 70 w:40 h:4>
+<Chu-Chu>
+"Presents are a way
+chu a woman's heart!<Delay 10>
+Here's your reward!"<Close><End of Block>
+<TextBlock 71 w:48 h:1>
+Received 'Ether Veiler'!<Close><End of Block>
+<TextBlock 72 w:46 h:4>
+<Chu-Chu>
+"My eyes dry out when
+pretending chu be a
+stuffed animal. Ouchu!"<Close><End of Block>
+<TextBlock 73 w:30 h:3>
+Oh my...<Delay 10>
+I just declared
+my love!!<Opcode 2 60><Close><End of Block>
+<TextBlock 74 w:14 h:2>
+Primera
+"..."<Close><End of Block>
+<TextBlock 75 w:14 h:2>
+Primera
+"..."<Close><End of Block>
+<TextBlock 76 w:50 h:4>
+Billy
+"Prim!
+Why are you here!?<Delay 10>
+Stay at the orphanage..."<Close><End of Block>
+<TextBlock 77 w:14 h:2>
+Primera
+"..."<Close><End of Block>
+<TextBlock 78 w:48 h:3>
+Billy
+"Prim...won't you listen
+to your brother?"<Close><End of Block>
+<TextBlock 79 w:48 h:4>
+Margie
+"Billy, Primera followed
+you here because she's
+worried about you.<New>
+Can't you see!?<Delay 10>
+Let her stay a little
+while,<Delay 10> okay?"<Close><End of Block>
+<TextBlock 80 w:10 h:1>
+"..."<Close><End of Block>
+<TextBlock 81 w:44 h:4>
+Billy
+"...Well then...<Delay 10>
+Don't you go anywhere,
+okay?"<Close><End of Block>
+<TextBlock 82 w:14 h:2>
+Primera
+"..."<Close><End of Block>
+<TextBlock 83 w:50 h:3>
+Billy
+"Margie, please take care
+of my little sister."<Close><End of Block>
+<TextBlock 84 w:34 h:3>
+<Chu-Chu>
+"Why don't chu
+ask me that chu?"<Close><End of Block>
+<TextBlock 85 w:46 h:4>
+She's holding a note...
+Read it?
+<Opcode 1 255>    Read it
+    No, better not!<Close><End of Block>
+<TextBlock 86 w:32 h:3>
+<Opcode 1 255>'PriMemo'
+Big brother,
+hang in there...<Close><End of Block>
+<TextBlock 87 w:54 h:4>
+<Opcode 1 255>'PriMemo'
+There are three types of
+guns that are standard
+equipment for you...<New>
+ Handgun,
+ Ether-gun,
+ Big-gun.<New>
+The only gun that can be
+re-equipped is the handgun.<New>
+You can power-up guns by
+upgrading their respective
+'ammo' or 'bullets'.<New>
+Equipping ammo is done by
+pressing the Left or Right
+Directional button at the
+equipment menu screen.<New>
+Doing this will switch the
+equipment window to a sub-
+window where you can change
+the type of ammo you use.<New>
+There is one thing you have
+to be careful of... There
+is a only a finite amount
+of each type of ammo!<New>
+Hence, it is important to
+keep an ample supply of
+ammo in reserve and reload
+as often as possible.<New>
+The only exception to this
+is the Ether gun, which can
+be shot an unlimited amount
+of times.<Close><End of Block>
+<TextBlock 88 w:0 h:1>
+<Close><End of Block>

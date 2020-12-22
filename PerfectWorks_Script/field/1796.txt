@@ -1,0 +1,19 @@
+<TextBlock 1 w:20 h:4>
+Fei
+"Elly!!<Delay 45>
+...<Delay 32>...
+You okay?"<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Elly
+"Fei...
+...Yes...<Delay 23>yes, I'm fine."<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Bart
+"Sorry to interrupt you
+two,<New>
+but this is not the
+time for a heartfelt
+reunion."<Close><End of Block>
+<TextBlock 4 w:40 h:2>
+Billy
+"Quickly, this way."<Close><Close><End of Block>

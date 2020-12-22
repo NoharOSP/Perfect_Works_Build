@@ -1,0 +1,234 @@
+<TextBlock 1 w:46 h:4>
+Elly
+"This is it.<New>
+If we can break through
+the palace network
+security by accessing
+this..."<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Elly
+"ID...<New>
+The password would 
+probably be something 
+related to me."<Close><End of Block>
+<TextBlock 3 w:36 h:2>
+Elly
+"'E <Delay 5>L <Delay 5>H <Delay 5>A <Delay 5>Y <Delay 5>M'..."<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+<]><Delay 10><]><Delay 10><]><Delay 10>
+Access denied. <Delay 10>
+Enter the correct password.<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Elly
+"That's no good. 
+Let's try it backwards...<Delay 20>
+'M <Delay 5>Y <Delay 5>A <Delay 5>H <Delay 5>L <Delay 5>E'"<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+<]><Delay 10><]><Delay 10><]><Delay 10>
+Welcome to Solaris Net...<Delay 10>
+You have 19 unread mails.<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Elly
+"Yes!<Delay 10> Got it!<Delay 10>
+Let's see, we were here 
+before so...<New>
+Wow, <Delay 10>
+it connects to here!"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Elly
+"Fei, we should be able
+to get to where everyone
+is,<New>
+from a trash chute in the
+3rd Class citizen level!"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Fei
+"That means, we're going
+back to that first 
+location."<Close><End of Block>
+<TextBlock 10 w:52 h:3>
+Elly
+"Now we know where we are!<Delay 10>
+Let's hurry!"<Close><End of Block>
+<TextBlock 11 w:40 h:2>
+Elly,
+Where are you going?<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:18 h:2>
+Elly
+"Father!"<Close><End of Block>
+<TextBlock 13 w:54 h:3>
+Elly's father Erich
+"What're you doing Elly...?<New>
+I told you before not to
+come in here and touch
+that machine."<Close><End of Block>
+<TextBlock 14 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Erich
+"Is this the guard?<Delay 10>
+It's me, Erich.<New>
+A burglar broke in here,<Delay 20>
+yeah, come quickly."<Close><End of Block>
+<TextBlock 16 w:46 h:3>
+Elly
+"Father...!!<Delay 10>
+Fei is not a burglar!!"<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Erich
+"Then, what is he?<Delay 10>
+A strange man in my room...<Delay 10>
+Isn't he a burglar?"<Close><End of Block>
+<TextBlock 18 w:40 h:3>
+Elly
+"There's a reason...<Delay 10>
+!!"<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Elly
+"Please! Don't shoot him!
+Fei just wants to save
+his captured friends!<New>
+They're my friends too!"<Close><End of Block>
+<TextBlock 20 w:52 h:3>
+Erich
+"No! Even if he is your 
+friend,<New>
+I can't overlook
+a land dweller who tries
+to sneak into the palace!"<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Elly
+"Fine.<Delay 10> 
+Then I'm also a traitor.
+Go ahead and shoot me!"<Close><End of Block>
+<TextBlock 22 w:48 h:3>
+Erich
+"No!<Delay 10>
+You're staying here!<New>
+Now, <Delay 10>move out of the way<Delay 10>
+Elly!!"<Close><End of Block>
+<TextBlock 23 w:10 h:2>
+Elly
+"No!"<Close><End of Block>
+<TextBlock 24 w:12 h:1>
+...<Delay 5>...<Opcode 2 30><Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Erich
+"You know how traitors're 
+punished even if they're 
+1st Class citizens!<New>
+You'll be safe if we kill 
+the intruders who know 
+about us. <Delay 10>I'm worried 
+about your safety..."<Close><End of Block>
+<TextBlock 26 w:54 h:4>
+Elly
+"You're lying!<Delay 10>
+You just hate being in any
+postion that endangers you.<New>
+Isn't that why you didn't 
+want me to join Jugend?<New>
+You <Delay 10>just didn't want 
+everyone to see your 
+own daughter!"<Close><End of Block>
+<TextBlock 27 w:38 h:2>
+"Because I'm half a
+land dweller...!"<Close><End of Block>
+<TextBlock 28 w:4 h:1>
+!!<Opcode 2 10><Close><End of Block>
+<TextBlock 29 w:50 h:3>
+Erich
+"I can't believe you 
+still...?<New>
+How dare you say that in
+front of your mother...!"<Close><End of Block>
+<TextBlock 30 w:26 h:2>
+Elly
+"Because...!"<Close><End of Block>
+<TextBlock 31 w:50 h:3>
+Fei
+"Stop it!!<New>
+I don't want to see a
+father and a daughter
+fight because of me.<New>
+I won't cause you anymore
+trouble.
+I came of my own will.<New>
+I'm an intruder.
+If I just get out of here
+it'll be fine."<Close><End of Block>
+<TextBlock 32 w:14 h:2>
+Elly
+"Fei!?"<Close><End of Block>
+<TextBlock 33 w:48 h:4>
+Fei
+"Elly, <Delay 10>
+you shouldn't say that
+in front of your mother.<New>
+I don't know the truth, 
+but she is your mother,
+not a stranger.
+Isn't that right?"<Close><End of Block>
+<TextBlock 34 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 35 w:52 h:4>
+Fei
+"Now, get out of the way.<New>
+I hafta hurry to save my 
+friends. But if you intend
+to shoot me, I'll put up a
+big fight."<Close><End of Block>
+<TextBlock 36 w:22 h:3>
+Elly
+"?<Delay 10>
+Father...?"<Close><End of Block>
+<TextBlock 37 w:52 h:3>
+Erich
+"The intruder has escaped.<Delay 10>
+Now get outta here.<New>
+It'll be a while until the
+guards get here."<Close><End of Block>
+<TextBlock 38 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 39 w:48 h:4>
+Erich
+"You may be an intruder,
+but the fact is, you 
+protected my daughter.<New>
+If I shoot you, I'll 
+lose her."<Close><End of Block>
+<TextBlock 40 w:22 h:2>
+Elly
+"Father..."<Close><End of Block>
+<TextBlock 41 w:48 h:2>
+Elly
+"Let me go with Fei...!"<Close><End of Block>
+<TextBlock 42 w:40 h:3>
+Erich
+"No. <Delay 10>
+I can't let you go."<Close><End of Block>
+<TextBlock 43 w:18 h:2>
+Elly
+"But...!"<Close><End of Block>
+<TextBlock 44 w:44 h:4>
+Fei
+"That's alright.
+This is a land dweller
+problem now.<New>
+We won't trouble you
+any further.<Delay 10>
+I'll go by myself."<Close><End of Block>
+<TextBlock 45 w:14 h:2>
+Elly
+"Fei!!"<Close><End of Block>
+<TextBlock 46 w:46 h:4>
+Fei
+"Elly, this time leave
+the military.<Delay 10>
+Thanks for everything."<Close><End of Block>
+<TextBlock 47 w:16 h:2>
+Elly
+"Fei..."<Close><End of Block>
+<TextBlock 48 w:0 h:1>
+<Close><End of Block>

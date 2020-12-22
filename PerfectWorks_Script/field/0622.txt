@@ -1,0 +1,87 @@
+<TextBlock 1 w:46 h:3>
+Fei
+"Lahan...I like it.<New>
+The village leader,
+Chief Lee, has taken
+such good care of me...<New>
+Everyone in the village
+has warmly accepted
+me..."<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Fei
+"Regardless of where I may
+have been born and raised,
+Lahan is now my home."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Fei
+"I don't dislike Lahan.<Delay 20>
+The people here are good
+people."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Fei
+"But, someday, I'd really
+like to leave and find my
+true home...<New>
+To walk upon the land I
+was born on, I want to meet
+those who've known me...<New>
+I want to know who
+my true self is."<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Fei
+"As it is now, it feels
+like there's some kinda
+empty void within me..."<Close><End of Block>
+<TextBlock 6 w:36 h:3>
+Fei
+"Of course.<Delay 20> 
+I'd never forget."<Close><End of Block>
+<TextBlock 7 w:52 h:5>
+This town may be hidden
+away deep within the
+mountains without anything
+else...<Delay 20> But, I still love
+it...Lahan.<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Well if it isn't Fei.<Delay 20>
+Isn't it exciting to know
+that Timothy's wedding is
+going to be tomorrow?<New>
+I think it's time you
+found a wonderful girl
+like Alice yourself.
+Hah hah.<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+By the way, Fei. What
+do you think of Lahan?<Delay 20>
+    I like it
+    I don't dislike it...<Close><End of Block>
+<TextBlock 10 w:48 h:2>
+Ah, yes.<Delay 20> It makes me
+happy to just hear that.<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Here, take this as an
+allowance.<Delay 20> Don't squander
+it all at once.<Close><End of Block>
+<TextBlock 12 w:28 h:1>
+Received 120G!<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+That's unfortunate.<Delay 20>
+But I'm sure there are
+people out there waiting
+for your return...<Close><End of Block>
+<TextBlock 14 w:50 h:4>
+If the day comes and
+that happens, think about
+us once in a while and
+remember our village.<Close><End of Block>
+<TextBlock 15 w:52 h:3>
+But let's forget that
+for now.<Delay 10> That won't come
+along for a while. <New>
+It's not good for an elder
+like me to be so hasty,
+hah hah.<Close><End of Block>
+<TextBlock 16 w:26 h:2>
+Too bad.
+It was empty.<Close><Close><End of Block>

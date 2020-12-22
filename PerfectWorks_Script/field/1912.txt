@@ -1,0 +1,38 @@
+<TextBlock 1 w:44 h:8>
+It was determined, by
+examining the inside
+of the wreckage, that
+some kind of accident
+occured on this ship
+about 10,000 years ago
+<Delay 5>...<Delay 5>which forced it to
+crash onto our planet.<Close><End of Block>
+<TextBlock 2 w:54 h:9>
+"Alien beings that came
+to our planet from a far
+off galaxy, aeons ago<Delay 5>..."
+ <Delay 60>
+Could it possibly have been
+that our ancestors were the
+passengers of this ship and
+had crash landed here on
+this planet<Delay 5>...<Close><End of Block>
+<TextBlock 3 w:60 h:4>
+Seeking god and his divine
+wisdom...'Razael's Tree'...
+which, it is said, lie here in
+Mahanon, we proceeded further.<Close><End of Block>
+<TextBlock 4 w:40 h:1>
+Do you wish to save?<Delay 30><Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Continue <Delay 5>with the game?<Delay 30>
+    Wait
+    Continue<Delay 15><Close><End of Block>
+<TextBlock 6 w:42 h:3>
+    Open a menu
+    Change members
+    Continue the game<Delay 15><Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Continue <Delay 5>with the game?<Delay 30>
+    Wait
+    Continue<Delay 15><Close><Close><End of Block>

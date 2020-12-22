@@ -1,0 +1,124 @@
+<TextBlock 1 w:26 h:4>
+Fei
+"Huh? <Delay 30>
+Ahh...well...
+sort of..."<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Fei
+"Well...<Delay 32>
+I suppose you could
+say I was hurt..."<Close><End of Block>
+<TextBlock 3 w:28 h:3>
+Fei
+"There is that
+too, but..."<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Fei
+"It's the other stuff he
+said...<New>
+What happened at Lahan...
+was all planned to get me
+to ride in that Gear...
+Or so he claimed.<New>
+That's got me worried..."<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Fei
+"All I know is what the
+maids at my home in Lahan
+told me...<New>
+One night a strange masked
+man carried me to Lahan.
+I was heavily wounded at
+the time...<New>
+In my delirium I called out
+for my father...
+That's all they could tell
+me about my background.<New>
+I don't remember anything
+of my father or my past...
+So I guess I'm not really
+all that lonely or sad..."<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Fei
+"Doc, before the village
+was destroyed, I lived
+without doubting myself.<New>
+But it's different now.<Delay 32>
+I don't...<Delay 15>know who I am.
+I've never felt like this
+before..."<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Fei
+"Doc, why didn't I notice
+that I had no memories up
+until now?"<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Citan
+"To get you to ride
+in that Gear...?"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Citan
+"Well we cannot do anything
+as long as we are prisoners
+...even if we wanted to."<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Let us rest a little.
+Maybe it will sort your
+feelings out a little.<New>
+     Good idea
+     Let's talk more<Close><End of Block>
+<TextBlock 11 w:42 h:3>
+Let us rest a little.
+     Good idea
+     Let's talk more<Close><End of Block>
+<TextBlock 12 w:10 h:2>
+Citan
+"..."<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+Let us rest a little.
+     Good idea
+     Let's talk more<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Citan
+"How are you, Fei?<Delay 10>
+Did you sleep well?"<Close><End of Block>
+<TextBlock 15 w:42 h:4>
+Citan
+"Sorry I messed up...
+I was careless.<New>
+That Gear is a top
+secret experimental
+model from Kislev...<New>
+It was only natural
+that Aveh would also
+be madly searching
+for it."<Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Citan
+"Fei? Are you hurt?
+You do not look so well."<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Citan
+"That man in black...spoke
+of your father's fate...
+Is that what is wrong?"<Close><End of Block>
+<TextBlock 18 w:38 h:3>
+Citan
+"Are you worried
+about your father?"<Close><End of Block>
+<TextBlock 19 w:56 h:3>
+Citan
+"...<New>
+(It was him! No mistake...<Delay 32>
+That was no coincidence...)<New>
+(Could it be that we are
+approaching...<Delay 32>the
+-Time- of the<Delay 16> -Gospel-...?)"<Close><End of Block>
+<TextBlock 20 w:42 h:3>
+Citan
+"(Majesty...
+is this the end...?)"<Close><End of Block>
+<TextBlock 21 w:34 h:3>
+Citan
+"Look!
+What is that...?"<Close><Close><End of Block>

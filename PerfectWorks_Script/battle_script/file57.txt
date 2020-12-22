@@ -1,0 +1,53 @@
+<TextBlock 1 w:16 h:2>
+Fei
+"Bart!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Margie
+"Ba-arty!"<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Margie
+"No!
+I'll fight too!"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Bart
+"Oh yeah?
+You know about me,
+huh?<New>
+Heh! It's not such a bad
+feeling having your name
+known by someone as
+beautiful as you."<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Bart
+"That's nice to know.
+But I can't accept it.<New>
+See, for me,
+'either way' is bad."<Close><End of Block>
+<TextBlock 6 w:32 h:4>
+Bart
+"Tch...<Delay 20> Margie!
+Hide back behind
+there!"<Close><End of Block>
+<TextBlock 7 w:28 h:3>
+Bart
+"I don't care,
+just hide!"<Close><End of Block>
+<TextBlock 8 w:26 h:3>
+Ramsus
+"...Then it's
+decided."<Close><End of Block>
+<TextBlock 9 w:42 h:4>
+Miang
+"If you truly want to
+protect that child,
+then surrender...<New>
+Prince Bartholomew!"<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Miang
+"You may have had your
+problems with Shakhan,<New>
+but we won't treat you
+badly.<New>
+Concerning Shakhan, it
+really doesn't matter
+'either way' to us."<Close><Close><Close><End of Block>

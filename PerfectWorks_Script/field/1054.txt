@@ -1,0 +1,166 @@
+<TextBlock 1 w:26 h:4>
+Rico
+"<Delay 5>...<Delay 5>?<Delay 30>
+<Delay 5>...<Delay 5>Must be my
+imagination."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Rico
+"Who woulda thought I'd
+be Battling using only my
+body<Delay 5>...<Delay 5>...<Opcode 2 150><Close><End of Block>
+<TextBlock 3 w:28 h:3>
+Rico
+"That's not my
+imagination<Delay 5>...<Delay 15><New>
+What's<Delay 5>...<Delay 5>this
+vibration?"<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Rico
+"A Gear doesn't vibrate
+like this<Delay 5>...<Delay 15>It can't<Delay 5>...<Delay 5>
+be."<Close><End of Block>
+<TextBlock 5 w:24 h:3>
+Rico
+"That's a<Delay 5>...<Delay 15>
+Rankar!?"<Opcode 2 120><Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Rico
+"Crap! You gotta be
+kiddin' me!! I'm supposed
+to fight that without a<New>
+Gear!?"<Opcode 2 120><Close><End of Block>
+<TextBlock 7 w:44 h:4>
+Rico
+"Huh?<Delay 15>
+<Delay 5>...<Delay 5>That sound...a Gear
+in flight!?"<Opcode 2 90><Close><End of Block>
+<TextBlock 8 w:32 h:3>
+Rico
+"A black Gear<Delay 10>...<Delay 5>
+Him<Delay 5>...!?"<Opcode 2 90><Close><End of Block>
+<TextBlock 9 w:32 h:2>
+Fei
+"Yaaaaahhhrrr!!"<Opcode 2 90><Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Rico
+"You! What're you doin'
+here?"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Fei
+"To get this back.<Delay 15> I
+didn't come to save
+you<Delay 5>...<Delay 5>The elevator I<New>
+used to escape happened
+to lead me out here. I
+didn't plan on saving
+you<Delay 5>...<Delay 5>but I did."<Close><End of Block>
+<TextBlock 12 w:38 h:4>
+Rico
+"For a coincidence,
+that's a convenient
+story<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 13 w:48 h:3>
+Fei
+"It's up to you what you
+think of it<Delay 5>...<Delay 15><New>
+So, what're you gonna
+do now?"<Close><End of Block>
+<TextBlock 14 w:26 h:2>
+Rico
+"...Do what?"<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Fei
+"I just barged into
+the arena.<Delay 15> We're also
+fugitives from the<New>
+empire<Delay 5>...<Delay 5>That's why I
+must escape. If you stick
+around, they'll probably
+make you battle that<New>
+monster again. This time
+you're gonna die<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Fei
+"Is that what you want to
+do?"<Close><End of Block>
+<TextBlock 17 w:10 h:2>
+Rico
+"<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 18 w:42 h:4>
+Fei
+"Even you should have
+things that were left
+undone! But in your<New>
+present situation<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 19 w:50 h:3>
+Rico
+"Silence!<Delay 10> Shut up!
+Twice! Twice you have<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 20 w:50 h:5>
+Rico
+"<Delay 5>...<Delay 5>If you want to escape
+from the empire, you two
+should go. I have no
+intentions of leaving.<Delay 15><New>
+Even if it is going to
+end here for me!!"<Close><End of Block>
+<TextBlock 21 w:36 h:3>
+Citan
+"<Delay 5>...<Delay 5>Hmn!?
+Wait a minute.<New>
+Something<Delay 5>...<Delay 15>is not
+right."<Opcode 2 90><Close><End of Block>
+<TextBlock 22 w:48 h:3>
+Fei
+"Is that<Delay 5>...<Delay 5>a rumbling?<Delay 15>
+What is this vibration?"<Opcode 2 90><Close><End of Block>
+<TextBlock 23 w:46 h:3>
+Rico
+"This vibration<Delay 5>...<Delay 15>
+isn't from the ground."<Opcode 2 90><Close><End of Block>
+<TextBlock 24 w:52 h:3>
+Citan
+"Atmospheric vibrations<Delay 5>...<Delay 5><New>
+There is something coming
+over the skies of the
+empire!"<Opcode 2 90><Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Fei
+"Doc,<Delay 15> these noises<Delay 5>...<Delay 15>
+They don't sound good."<Opcode 2 90><Close><End of Block>
+<TextBlock 26 w:46 h:2>
+Fei
+"Wh<Delay 5>...<Delay 5>what's going on?"<Close><End of Block>
+<TextBlock 27 w:50 h:3>
+Citan
+"That earlier shaking and
+that echo<Delay 5>...<Delay 15><New>
+I am positive that the
+empire is being attacked
+by someone."<Close><End of Block>
+<TextBlock 28 w:48 h:3>
+Rico
+"Ridiculous!!<New>
+How did they negotiate
+the Imperial air defense
+net?"<Close><End of Block>
+<TextBlock 29 w:50 h:4>
+Citan
+"I do not know.<Delay 15><New>
+The only thing that comes
+to mind is that they
+probably used some
+special technology to<New>
+avoid being seen."<Close><End of Block>
+<TextBlock 30 w:44 h:4>
+Fei
+"<Delay 5>...<Delay 5>Whatever it is, we
+can't just let it be.
+Doc,<Delay 5> I'm gonna go."<Close><End of Block>
+<TextBlock 31 w:46 h:4>
+Citan
+"I understand.<New>
+Under the present
+situation I think I can
+get out by myself.<Delay 15>
+Please go,<Delay 5> Fei."<Close><Close><End of Block>

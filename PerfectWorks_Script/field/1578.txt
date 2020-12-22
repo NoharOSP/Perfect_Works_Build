@@ -1,0 +1,150 @@
+<TextBlock 1 w:12 h:2>
+Fei
+"Doc!"<Close><End of Block>
+<TextBlock 2 w:16 h:2>
+Elly
+"Citan!"<Close><End of Block>
+<TextBlock 3 w:12 h:2>
+Fei
+"Doc!"<Close><End of Block>
+<TextBlock 4 w:18 h:2>
+Bart
+"Margie!"<Close><End of Block>
+<TextBlock 5 w:16 h:2>
+Billy
+"Citan!"<Close><End of Block>
+<TextBlock 6 w:16 h:2>
+Rico
+"Citan!"<Close><End of Block>
+<TextBlock 7 w:16 h:2>
+Maria
+"Citan!"<Close><End of Block>
+<TextBlock 8 w:36 h:2>
+<Chu-Chu>
+"Citan, it's chu!"<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+Sigurd
+"Come, we must go to
+Marguerite!"<Close><End of Block>
+<TextBlock 10 w:30 h:2>
+Citan
+"Let us hurry!"<Close><End of Block>
+<TextBlock 11 w:6 h:1>
+ ! <Close><End of Block>
+<TextBlock 12 w:6 h:1>
+ ! <Close><End of Block>
+<TextBlock 13 w:40 h:4>
+Bart
+"...<Delay 30>It's locked.<Delay 30>
+Where do you open it
+from?"<Close><End of Block>
+<TextBlock 14 w:44 h:2>
+You can't hold anymore
+<Opcode 4 20><Close><End of Block>
+<TextBlock 15 w:38 h:1>
+Received <Opcode 4 20><Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Bart
+"One after the other...<Delay 30>
+Don't these guys give up?"<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Shakhan
+"Most impressive, Prince
+Bartholomew.<Delay 30>
+But you'll go no further."<Close><End of Block>
+<TextBlock 18 w:52 h:3>
+Bart
+"The central area's gone.<Delay 30>
+What can you do now?<New>
+How about killing yourself
+honorably?<New>
+What a fitting death
+for a clergyman."<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Shakhan
+"There's much more to
+the 'Ethos' than you
+would know.<New>
+We're not a single unit.
+We each have an agenda.<New>
+We have no need to admit
+defeat just because the
+central area's gone.<Delay 30>
+I have my own motives.<New>
+And it is for them, that
+I used Aveh and Gebler.
+Now, the treasure's mine.<Delay 30>
+I suggest you retreat now."<Close><End of Block>
+<TextBlock 20 w:20 h:2>
+Bart
+"...<Delay 30>Crap!"<Close><End of Block>
+<TextBlock 21 w:24 h:1>
+"After her!"<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+Shakhan
+"Hmph...<Delay 30>
+You're actually trying
+to protect the Omnigear?<New>
+What do you think one
+little girl can do?<New>
+As they say, out of the
+frying pan and into the
+fire...idiot!"<Close><End of Block>
+<TextBlock 23 w:50 h:3>
+Shakhan
+"I'm going to take care
+of this once and for all!<New>
+That detestable girl has
+made a fool of me for the
+last time. I'll send her<New>
+and everything with her
+to the depths of hell."<Close><End of Block>
+<TextBlock 24 w:36 h:4>
+Bart
+"Dammit...<Delay 30>
+Get the hell outta
+my way!"<Close><End of Block>
+<TextBlock 25 w:46 h:1>
+You've gone far enough.<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Bart
+"Sig!<Delay 30>
+What're you doin' here!?"<Close><End of Block>
+<TextBlock 27 w:46 h:3>
+Sigurd
+"I left Maison in
+charge of the capital.<New>
+I was worried about you
+so I returned here."<Close><End of Block>
+<TextBlock 28 w:46 h:3>
+Sigurd
+"Shakhan,<Delay 30><New>
+it's only a matter of
+time until Bledavik
+returns to us.<New>
+At this point, you have
+nowhere to go."<Close><End of Block>
+<TextBlock 29 w:44 h:3>
+Shakhan
+"Errrgh...<Delay 30>
+It's not over yet!<New>
+I've still got Margie.<New>
+For now, she'll once
+again be my hostage<New>
+until I get that
+Omnigear."<Close><End of Block>
+<TextBlock 30 w:14 h:2>
+Bart
+"Wait!"<Close><End of Block>
+<TextBlock 31 w:54 h:3>
+Bart
+"Damn,<Delay 30> it won't open!<Delay 30>
+It's locked on the inside."<Close><End of Block>
+<TextBlock 32 w:56 h:2>
+Sigurd
+"Young master, please wait!"<Close><End of Block>
+<TextBlock 33 w:46 h:4>
+Sigurd
+"Where were you going!?
+Marguerite is in grave
+danger!"<Close><Close><End of Block>

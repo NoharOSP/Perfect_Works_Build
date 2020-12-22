@@ -1,0 +1,14 @@
+<TextBlock 1 w:32 h:3>
+Fei
+"Reinforcements,
+huh?!"<Close><End of Block>
+<TextBlock 2 w:40 h:4>
+Fei
+"On my right too!<Delay 20>
+Damn it!<Delay 20> How many of
+them are there<Delay 8>.<Delay 8>.<Delay 8>.<Delay 8>?"<Close><End of Block>
+<TextBlock 3 w:40 h:4>
+Fei
+"I guess<Delay 8>.<Delay 8>.<Delay 8>.<Delay 8>
+there's no choice<Delay 8>.<Delay 8>.<Delay 8>.<Delay 60>
+but to fight<Delay 8>.<Delay 8>.<Delay 8>."<Close><Close><Close><Close><Close><End of Block>

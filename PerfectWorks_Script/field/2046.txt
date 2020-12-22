@@ -1,0 +1,89 @@
+<TextBlock 1 w:30 h:7>
+    <Opcode 1 255>start game
+    to lahan
+    to shitan
+    to kislev
+    to alulu
+    orgel event
+    quit<Close><End of Block>
+<TextBlock 2 w:58 h:7>
+    <Opcode 1 255>shitan at night
+    attack on lahan
+    lahan ruin
+    now making
+    shevat for the first time
+    to shevat a spy comes
+    quit<Close><End of Block>
+<TextBlock 3 w:48 h:12>
+    <Opcode 1 255>a spy came
+    a gear dock
+    AHAZEHN came
+    the throne screen
+    battle at generaters
+    attack on Soralis 
+    a justice
+    runaway
+    a hole in melcover
+    melcover angels
+    zeus
+    quit<Close><End of Block>
+<TextBlock 4 w:58 h:10>
+    <Opcode 1 255>chuchu's angry
+    chuchu vs AHAZEHN
+    maria vs AHAZEHN
+    maria goes to Soralis
+    golgoda
+    carbonated sleep
+    the carbonated broke down
+    snow hideout
+    other
+    quit<Close><End of Block>
+<TextBlock 5 w:42 h:6>
+pasward <Delay 10>
+    quit
+    quit
+    to start
+    test with face
+    test with no face<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+chuchu
+"This is a test for
+ Xenogears english version.<New>
+ Need love to feel alive
+ and good.
+ Its only love that
+ alone can make me good."<Close><End of Block>
+<TextBlock 7 w:68 h:7>
+ This is a test for  Xenogears
+ english version.
+ Now in your face, many wonders,
+ many treasures.
+ I can find a trace of saddnes
+ passing by.
+ Need love to feel alive and good.<New>
+ Yet there are moments in ones
+ memory. When a vague scene from
+ previous grandeur comes back
+ beggars then withdraw their hand
+ as if sufficient unto the day
+ the gain thereof.<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 242><Extra1 60><UNKNOWN CHUNK 192><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 185><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 228><Extra2 255><Extra2 255><°>
+<C><Extra1 35><Extra1 6><Extra1 56><UNKNOWN CHUNK 185><Extra2 255><Extra2 255><Extra2 255><Extra2 255><°>
+<X><Extra1 35><Extra1 6><Extra1 56><UNKNOWN CHUNK 185><Extra2 255><Extra2 255><Extra1 41><Extra1 60><Extra1 16><UNKNOWN CHUNK 157><UNKNOWN CHUNK 219><UNKNOWN CHUNK 190><UNKNOWN CHUNK 163><UNKNOWN CHUNK 208><UNKNOWN CHUNK 171><°><Wait>
+<UNKNOWN CHUNK 175><UNKNOWN CHUNK 222><UNKNOWN CHUNK 185><UNKNOWN CHUNK 193><`><Extra2 255><Extra2 255><UNKNOWN CHUNK 228><Extra2 255><Extra2 255><UNKNOWN CHUNK 169><UNKNOWN CHUNK 184><UNKNOWN CHUNK 161><UNKNOWN CHUNK 178><UNKNOWN CHUNK 167><UNKNOWN CHUNK 150><°><Close><End of Block>
+<TextBlock 9 w:24 h:1>
+<Extra1 16><UNKNOWN CHUNK 231><UNKNOWN CHUNK 239><Extra1 60><Extra1 30><Extra1 56><Extra2 255><Extra2 255><Opcode 2 20><Close><End of Block>
+<TextBlock 10 w:45 h:2>
+<Extra1 24><Extra1 0><Extra1 54><Extra1 60><Extra1 16><UNKNOWN CHUNK 158><UNKNOWN CHUNK 179><UNKNOWN CHUNK 158><UNKNOWN CHUNK 150><UNKNOWN CHUNK 208><UNKNOWN CHUNK 171><°>
+<Extra2 255><UNKNOWN CHUNK 169><UNKNOWN CHUNK 150><Extra2 255><Extra2 255><UNKNOWN CHUNK 228><Extra2 255><Extra2 255><UNKNOWN CHUNK 169><UNKNOWN CHUNK 184><UNKNOWN CHUNK 161><UNKNOWN CHUNK 178><UNKNOWN CHUNK 167><UNKNOWN CHUNK 150><°><Close><End of Block>
+<TextBlock 11 w:27 h:3>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 228><UNKNOWN CHUNK 214><UNKNOWN CHUNK 211><UNKNOWN CHUNK 208><UNKNOWN CHUNK 171><UNKNOWN CHUNK 157><?><Delay 10>
+    <UNKNOWN CHUNK 214><UNKNOWN CHUNK 211><UNKNOWN CHUNK 221>
+    <UNKNOWN CHUNK 214><UNKNOWN CHUNK 211><UNKNOWN CHUNK 188><UNKNOWN CHUNK 150><Close><End of Block>
+<TextBlock 12 w:26 h:5>
+<Opcode 1 255>change weight
+    yase
+    futuu
+    futome
+    davy<Close><Close><End of Block>

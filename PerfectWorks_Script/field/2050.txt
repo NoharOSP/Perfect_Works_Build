@@ -1,0 +1,246 @@
+<TextBlock 1 w:40 h:5>
+<Opcode 1 20>Mapjump
+    Nisan's town
+    Nsan's cathedral
+    wait<!>
+    to Map00<Close><End of Block>
+<TextBlock 2 w:50 h:12>
+    <Opcode 1 20>nisan<UNKNOWN CHUNK 144>town<UNKNOWN CHUNK 145>
+    nis-11
+    nis-21
+    nis-31
+    nis-41
+    nis-51
+    nis-61
+    nis-71
+    nis-doc
+    For kikoshi
+    Map test for explain 
+    Back<Close><End of Block>
+<TextBlock 3 w:26 h:3>
+<Opcode 1 255>scenario flag
+    Tactics1
+    Go on<Close><End of Block>
+<TextBlock 4 w:26 h:5>
+<Opcode 1 255>scenario flag
+    Tactics4
+    Tactics5
+    Tactics6
+    Go on<Close><End of Block>
+<TextBlock 5 w:70 h:1>
+Clearing scenario flag for Nisan...<Close><End of Block>
+<TextBlock 6 w:40 h:3>
+Bits off
+    arrive in a dock
+    Dock in<Close><End of Block>
+<TextBlock 7 w:58 h:1>
+Setting scenario flag...<New>
+"sets Meet Elly again  (084)"<New>
+Arrive in a hidden dock...<Close><End of Block>
+<TextBlock 8 w:78 h:7>
+    <Opcode 1 20>seido1(SW-map for Nsan's cathedral)
+    sei-11 (cathedral
+    sei-12 (monastery
+    sei-13 (room of picture
+    stairs1
+    stairs2
+    Back<Close><End of Block>
+<TextBlock 9 w:60 h:12>
+<Opcode 1 255>flag configuration ... g-nisan
+    Meeting1
+    Meeting2
+    Picture1
+    Picture2
+    Picture3
+    Picture4
+    Picture5
+    Picture7
+    Picture8
+    Pause
+    Go on<Close><End of Block>
+<TextBlock 10 w:56 h:3>
+<Opcode 1 255>Do you enter the cathedral ?
+    Yes
+    No<Close><End of Block>
+<TextBlock 11 w:26 h:3>
+<Opcode 1 255>Scenario flag
+    Picture9
+    Go on<Close><End of Block>
+<TextBlock 12 w:44 h:5>
+<Opcode 1 20>Map jump
+    Immigrant ship
+    Fortress of jasper
+    Wait!
+    Back to map-00<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+<Opcode 1 255>Rdiel's room
+    Outer map of ship
+    Back<Close><End of Block>
+<TextBlock 14 w:48 h:11>
+    <Opcode 1 255>Rescue the Nisan
+    Outer  bulkhead
+    Grand graveyard
+    Bulkhead1
+    Bart's omnigear
+    Control room
+    Rissing
+    Assault of Shakhan 1
+    Assault of Shakhan 2
+    Wake up the Omnigear
+    Next page<Close><End of Block>
+<TextBlock 15 w:66 h:5>
+<Opcode 1 255>Outer map for fortress
+    Charging the conon
+    ICB
+        Before entering to Jasper
+        Exit<Close><End of Block>
+<TextBlock 16 w:24 h:4>
+<Opcode 1 255>Set KAZ-GORG
+    Nisan
+    Nisan2
+    Exit<Close><End of Block>
+<TextBlock 17 w:64 h:11>
+<Opcode 1 255>Init(0)
+    Arrive in the hidden dock
+    Meeting1
+    Picture1
+    Picture9
+    Pause
+    Tactics2
+    Carry out1
+    Carry out5
+    Departure from a hidden dock
+    Exit<Close><End of Block>
+<TextBlock 18 w:24 h:1>
+g-nisan = 0 <Close><End of Block>
+<TextBlock 19 w:70 h:1>
+g-nisan = Arrive in the hidden dock<Close><End of Block>
+<TextBlock 20 w:36 h:1>
+g-nisan = Meeting1<Close><End of Block>
+<TextBlock 21 w:36 h:1>
+g-nisan = Picture1<Close><End of Block>
+<TextBlock 22 w:36 h:1>
+g-nisan = Picture9<Close><End of Block>
+<TextBlock 23 w:30 h:1>
+g-nisan = Pause<Close><End of Block>
+<TextBlock 24 w:34 h:1>
+g-nisan =Tactics2<Close><End of Block>
+<TextBlock 25 w:40 h:1>
+g-nisan = Carry out1<Close><End of Block>
+<TextBlock 26 w:40 h:1>
+g-nisan = Carry out5<Close><End of Block>
+<TextBlock 27 w:76 h:1>
+g-nisan = Departure from a hidden dock<Close><End of Block>
+<TextBlock 28 w:60 h:12>
+<Opcode 1 255>Recapturing the Nisan
+    Sister Agnes's talk
+    Open the gate
+    Open the bulkhead
+    Enter the con-room
+    Sucsessfull of start up
+    Shakhan appeared
+    Battle of Roni's Omnigear1
+    Drived back
+    Go to the hall
+    Comming a ease
+    Exit<Close><End of Block>
+<TextBlock 29 w:66 h:1>
+set g-nisan Recapturing the Nisan<Close><End of Block>
+<TextBlock 30 w:62 h:1>
+set g-nisan Sister Agnes's talk<Close><End of Block>
+<TextBlock 31 w:50 h:1>
+set g-nisan Open the gate<Close><End of Block>
+<TextBlock 32 w:58 h:1>
+set g-nisan Open the bulkhead<Close><End of Block>
+<TextBlock 33 w:60 h:1>
+set g-nisan Enter the con-room<Close><End of Block>
+<TextBlock 34 w:70 h:1>
+set g-nisan Sucsessfull of start up<Close><End of Block>
+<TextBlock 35 w:56 h:1>
+set g-nisan Shakhan appeared<Close><End of Block>
+<TextBlock 36 w:76 h:1>
+set g-nisan Battle of Roni's Omnigear1<Close><End of Block>
+<TextBlock 37 w:46 h:1>
+set g-nisan Drived back<Close><End of Block>
+<TextBlock 38 w:52 h:1>
+set g-nisan Go to the hall<Close><End of Block>
+<TextBlock 39 w:50 h:6>
+<Opcode 1 255>Clear flags
+    KAZ-GORG(scenario)
+    Global
+    KAZ-GORG(tmp)
+    Set the member of ICB
+    Exit<Close><End of Block>
+<TextBlock 40 w:44 h:4>
+<Opcode 1 255>All clear flags
+    Nisan
+    Fortress of jasper
+    Exit<Close><End of Block>
+<TextBlock 41 w:64 h:7>
+    <Opcode 1 255>Escape from Aveh(Dock in)
+    Arrive a Nisan
+    Looked a pictue
+    Taaactics
+    Rescue a Nisan
+    Destruction the Babel's gate
+    Exit<Close><End of Block>
+<TextBlock 42 w:20 h:4>
+    <Opcode 1 255>on-ev
+    on-ev2
+    ev-tk
+    end<Close><End of Block>
+<TextBlock 43 w:22 h:1>
+ party make<Close><End of Block>
+<TextBlock 44 w:3 h:1>
+ <Close><End of Block>
+<TextBlock 45 w:24 h:9>
+   <Opcode 1 255>Fei
+   Elly
+   Citan
+   Bart
+   Billy
+   Rico
+   Emeralda
+   <Chu-Chu>
+   next page<Close><End of Block>
+<TextBlock 46 w:22 h:8>
+   <Opcode 1 255>Maria
+   Citan2
+   ------
+   ------
+   ------
+   ------
+   Emerada2
+   <Extra2 255><Extra1 33><Extra1 60><UNKNOWN CHUNK 253><Close><End of Block>
+<TextBlock 47 w:22 h:1>
+Party is...<Close><End of Block>
+<TextBlock 48 w:6 h:1>
+<Opcode 1 255>Fei<Close><End of Block>
+<TextBlock 49 w:8 h:1>
+<Opcode 1 255>Elly<Close><End of Block>
+<TextBlock 50 w:10 h:1>
+<Opcode 1 255>Citan<Close><End of Block>
+<TextBlock 51 w:8 h:1>
+<Opcode 1 255>Bart<Close><End of Block>
+<TextBlock 52 w:10 h:1>
+<Opcode 1 255>Billy<Close><End of Block>
+<TextBlock 53 w:8 h:1>
+<Opcode 1 255>Rico<Close><End of Block>
+<TextBlock 54 w:14 h:1>
+<Opcode 1 255>Emerada<Close><End of Block>
+<TextBlock 55 w:18 h:1>
+<Opcode 1 255><Chu-Chu><Close><End of Block>
+<TextBlock 56 w:10 h:1>
+<Opcode 1 255>Maria<Close><End of Block>
+<TextBlock 57 w:12 h:1>
+<Opcode 1 255>Citan2<Close><End of Block>
+<TextBlock 58 w:12 h:1>
+<Opcode 1 255>Dminia<Close><End of Block>
+<TextBlock 59 w:10 h:1>
+<Opcode 1 255>Lakan<Close><End of Block>
+<TextBlock 60 w:8 h:1>
+<Opcode 1 255>Roni<Close><End of Block>
+<TextBlock 61 w:16 h:1>
+<Opcode 1 255>Kalerlen<Close><End of Block>
+<TextBlock 62 w:16 h:1>
+<Opcode 1 255>Emerada2<Close><Close><End of Block>

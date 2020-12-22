@@ -1,0 +1,2153 @@
+<TextBlock 1 w:2 h:1>
+<Opcode 1 255>1<Opcode 2 210><Close><End of Block>
+<TextBlock 2 w:2 h:1>
+<Opcode 1 255>2<Opcode 2 210><Close><End of Block>
+<TextBlock 3 w:2 h:1>
+<Opcode 1 255>3<Opcode 2 210><Close><End of Block>
+<TextBlock 4 w:2 h:1>
+<Opcode 1 255>4<Opcode 2 210><Close><End of Block>
+<TextBlock 5 w:2 h:1>
+<Opcode 1 255>5<Opcode 2 210><Close><End of Block>
+<TextBlock 6 w:2 h:1>
+<Opcode 1 255>6<Opcode 2 210><Close><End of Block>
+<TextBlock 7 w:2 h:1>
+<Opcode 1 255>7<Opcode 2 210><Close><End of Block>
+<TextBlock 8 w:2 h:1>
+<Opcode 1 255>8<Opcode 2 210><Close><End of Block>
+<TextBlock 9 w:2 h:1>
+<Opcode 1 255>9<Opcode 2 210><Close><End of Block>
+<TextBlock 10 w:4 h:1>
+<Opcode 1 255>10<Opcode 2 210><Close><End of Block>
+<TextBlock 11 w:4 h:1>
+<Opcode 1 255>11<Opcode 2 210><Close><End of Block>
+<TextBlock 12 w:4 h:1>
+<Opcode 1 255>12<Opcode 2 210><Close><End of Block>
+<TextBlock 13 w:4 h:1>
+<Opcode 1 255>13<Opcode 2 210><Close><End of Block>
+<TextBlock 14 w:4 h:1>
+<Opcode 1 255>14<Opcode 2 210><Close><End of Block>
+<TextBlock 15 w:4 h:1>
+<Opcode 1 255>15<Opcode 2 210><Close><End of Block>
+<TextBlock 16 w:4 h:1>
+<Opcode 1 255>16<Opcode 2 210><Close><End of Block>
+<TextBlock 17 w:4 h:1>
+<Opcode 1 255>17<Opcode 2 210><Close><End of Block>
+<TextBlock 18 w:4 h:1>
+<Opcode 1 255>18<Opcode 2 210><Close><End of Block>
+<TextBlock 19 w:4 h:1>
+<Opcode 1 255>19<Opcode 2 210><Close><End of Block>
+<TextBlock 20 w:4 h:1>
+<Opcode 1 255>20<Opcode 2 210><Close><End of Block>
+<TextBlock 21 w:4 h:1>
+<Opcode 1 255>21<Opcode 2 210><Close><End of Block>
+<TextBlock 22 w:4 h:1>
+<Opcode 1 255>22<Opcode 2 210><Close><End of Block>
+<TextBlock 23 w:4 h:1>
+<Opcode 1 255>23<Opcode 2 210><Close><End of Block>
+<TextBlock 24 w:4 h:1>
+<Opcode 1 255>24<Opcode 2 210><Close><End of Block>
+<TextBlock 25 w:4 h:1>
+<Opcode 1 255>25<Opcode 2 210><Close><End of Block>
+<TextBlock 26 w:4 h:1>
+<Opcode 1 255>26<Opcode 2 210><Close><End of Block>
+<TextBlock 27 w:4 h:1>
+<Opcode 1 255>27<Opcode 2 210><Close><End of Block>
+<TextBlock 28 w:4 h:1>
+<Opcode 1 255>28<Opcode 2 210><Close><End of Block>
+<TextBlock 29 w:4 h:1>
+<Opcode 1 255>29<Opcode 2 210><Close><End of Block>
+<TextBlock 30 w:4 h:1>
+<Opcode 1 255>30<Opcode 2 210><Close><End of Block>
+<TextBlock 31 w:4 h:1>
+<Opcode 1 255>31<Opcode 2 210><Close><End of Block>
+<TextBlock 32 w:4 h:1>
+<Opcode 1 255>32<Opcode 2 210><Close><End of Block>
+<TextBlock 33 w:4 h:1>
+<Opcode 1 255>33<Opcode 2 210><Close><End of Block>
+<TextBlock 34 w:4 h:1>
+<Opcode 1 255>34<Opcode 2 210><Close><End of Block>
+<TextBlock 35 w:4 h:1>
+<Opcode 1 255>35<Opcode 2 210><Close><End of Block>
+<TextBlock 36 w:4 h:1>
+<Opcode 1 255>36<Opcode 2 210><Close><End of Block>
+<TextBlock 37 w:4 h:1>
+<Opcode 1 255>37<Opcode 2 210><Close><End of Block>
+<TextBlock 38 w:4 h:1>
+<Opcode 1 255>38<Opcode 2 210><Close><End of Block>
+<TextBlock 39 w:4 h:1>
+<Opcode 1 255>39<Opcode 2 210><Close><End of Block>
+<TextBlock 40 w:4 h:1>
+<Opcode 1 255>40<Opcode 2 210><Close><End of Block>
+<TextBlock 41 w:4 h:1>
+<Opcode 1 255>41<Opcode 2 210><Close><End of Block>
+<TextBlock 42 w:4 h:1>
+<Opcode 1 255>42<Opcode 2 210><Close><End of Block>
+<TextBlock 43 w:4 h:1>
+<Opcode 1 255>43<Opcode 2 210><Close><End of Block>
+<TextBlock 44 w:4 h:1>
+<Opcode 1 255>44<Opcode 2 210><Close><End of Block>
+<TextBlock 45 w:4 h:1>
+<Opcode 1 255>45<Opcode 2 210><Close><End of Block>
+<TextBlock 46 w:4 h:1>
+<Opcode 1 255>46<Opcode 2 210><Close><End of Block>
+<TextBlock 47 w:4 h:1>
+<Opcode 1 255>47<Opcode 2 210><Close><End of Block>
+<TextBlock 48 w:4 h:1>
+<Opcode 1 255>48<Opcode 2 210><Close><End of Block>
+<TextBlock 49 w:4 h:1>
+<Opcode 1 255>49<Opcode 2 210><Close><End of Block>
+<TextBlock 50 w:4 h:1>
+<Opcode 1 255>50<Opcode 2 210><Close><End of Block>
+<TextBlock 51 w:4 h:1>
+<Opcode 1 255>51<Opcode 2 210><Close><End of Block>
+<TextBlock 52 w:4 h:1>
+<Opcode 1 255>52<Opcode 2 210><Close><End of Block>
+<TextBlock 53 w:4 h:1>
+<Opcode 1 255>53<Opcode 2 210><Close><End of Block>
+<TextBlock 54 w:4 h:1>
+<Opcode 1 255>54<Opcode 2 210><Close><End of Block>
+<TextBlock 55 w:4 h:1>
+<Opcode 1 255>55<Opcode 2 210><Close><End of Block>
+<TextBlock 56 w:4 h:1>
+<Opcode 1 255>56<Opcode 2 210><Close><End of Block>
+<TextBlock 57 w:4 h:1>
+<Opcode 1 255>57<Opcode 2 210><Close><End of Block>
+<TextBlock 58 w:4 h:1>
+<Opcode 1 255>58<Opcode 2 210><Close><End of Block>
+<TextBlock 59 w:4 h:1>
+<Opcode 1 255>59<Opcode 2 210><Close><End of Block>
+<TextBlock 60 w:4 h:1>
+<Opcode 1 255>60<Opcode 2 210><Close><End of Block>
+<TextBlock 61 w:4 h:1>
+<Opcode 1 255>61<Opcode 2 210><Close><End of Block>
+<TextBlock 62 w:4 h:1>
+<Opcode 1 255>62<Opcode 2 210><Close><End of Block>
+<TextBlock 63 w:4 h:1>
+<Opcode 1 255>63<Opcode 2 210><Close><End of Block>
+<TextBlock 64 w:18 h:1>
+<Opcode 1 255>saitohome<Close><End of Block>
+<TextBlock 65 w:16 h:1>
+<Opcode 1 255>youkoso!<Close><End of Block>
+<TextBlock 66 w:20 h:6>
+<Opcode 1 255>wahtrank?
+    Arank
+    Brank
+    Crank1
+    Crank2
+    Drank<Close><End of Block>
+<TextBlock 67 w:16 h:1>
+<Opcode 1 255>demoflag<Close><End of Block>
+<TextBlock 68 w:24 h:1>
+<Opcode 1 255>memberchange<Close><End of Block>
+<TextBlock 69 w:30 h:10>
+<Opcode 1 255>whatmenu?
+    demoflag
+    battring
+    musicmode
+    party+
+    member+
+    change
+    moviemode
+    HPMPrecover
+    quit!<Close><End of Block>
+<TextBlock 70 w:20 h:1>
+plesewait!<Close><End of Block>
+<TextBlock 71 w:8 h:1>
+ByBy<Close><End of Block>
+<TextBlock 72 w:18 h:4>
+<Opcode 1 255>demoflag?
+    def
+    off
+    on<Close><End of Block>
+<TextBlock 73 w:10 h:1>
+next?<Close><End of Block>
+<TextBlock 74 w:26 h:3>
+<Opcode 1 255>battringmode?
+    non
+    year<Close><End of Block>
+<TextBlock 75 w:10 h:1>
+next?<Close><End of Block>
+<TextBlock 76 w:40 h:6>
+<Opcode 1 255>sflag?
+    giganto
+    kyojintaoshita
+    sharkarntaoshita
+    deus
+    last<Close><End of Block>
+<TextBlock 77 w:8 h:1>
+<Opcode 1 255>1set<Close><End of Block>
+<TextBlock 78 w:8 h:1>
+<Opcode 1 255>2set<Close><End of Block>
+<TextBlock 79 w:8 h:1>
+<Opcode 1 255>3set<Close><End of Block>
+<TextBlock 80 w:8 h:1>
+<Opcode 1 255>4set<Close><End of Block>
+<TextBlock 81 w:8 h:1>
+<Opcode 1 255>5set<Close><End of Block>
+<TextBlock 82 w:36 h:1>
+<Opcode 1 255>battringomakemode!<Close><End of Block>
+<TextBlock 83 w:22 h:12>
+<Opcode 1 255>party?
+    ellie
+    shitan
+    barto
+    rico
+    billy
+    eme
+    chuchu
+    maria
+    shitan2
+    eme2
+    quit<Close><End of Block>
+<TextBlock 84 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 85 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 86 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 87 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 88 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 89 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 90 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 91 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 92 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 93 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 94 w:22 h:12>
+<Opcode 1 255>memberset
+    ellie
+    shitan
+    barto
+    billy
+    rico
+    eme
+    chuchu
+    maria
+    shitan2
+    eme2
+    quit<Close><End of Block>
+<TextBlock 95 w:18 h:11>
+<Opcode 1 255>movieview
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    page2
+    quit<Close><End of Block>
+<TextBlock 96 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 97 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 98 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 99 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 100 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 101 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 102 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 103 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 104 w:20 h:11>
+<Opcode 1 255>movieview2
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    page3
+    quit<Close><End of Block>
+<TextBlock 105 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 106 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 107 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 108 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 109 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 110 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 111 w:10 h:1>
+<Opcode 1 255>disk1<Close><End of Block>
+<TextBlock 112 w:20 h:11>
+<Opcode 1 255>movieview3
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    page4
+    quit<Close><End of Block>
+<TextBlock 113 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 114 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 115 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 116 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 117 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 118 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 119 w:20 h:11>
+<Opcode 1 255>movieview4
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    page5
+    quit<Close><End of Block>
+<TextBlock 120 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 121 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 122 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 123 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 124 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 125 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 126 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 127 w:20 h:11>
+<Opcode 1 255>movieview5
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    top
+    back
+    quit<Close><End of Block>
+<TextBlock 128 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 129 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 130 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 131 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 132 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 133 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 134 w:10 h:1>
+<Opcode 1 255>disk2<Close><End of Block>
+<TextBlock 135 w:18 h:11>
+<Opcode 1 255>musicmode
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    quit<Close><End of Block>
+<TextBlock 136 w:16 h:11>
+<Opcode 1 255>music1
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    quit<Close><End of Block>
+<TextBlock 137 w:3 h:1>
+<Opcode 1 255>1<Close><End of Block>
+<TextBlock 138 w:3 h:1>
+<Opcode 1 255>2<Close><End of Block>
+<TextBlock 139 w:3 h:1>
+<Opcode 1 255>3<Close><End of Block>
+<TextBlock 140 w:3 h:1>
+<Opcode 1 255>4<Close><End of Block>
+<TextBlock 141 w:3 h:1>
+<Opcode 1 255>5<Close><End of Block>
+<TextBlock 142 w:3 h:1>
+<Opcode 1 255>6<Close><End of Block>
+<TextBlock 143 w:3 h:1>
+<Opcode 1 255>7<Close><End of Block>
+<TextBlock 144 w:3 h:1>
+<Opcode 1 255>8<Close><End of Block>
+<TextBlock 145 w:16 h:11>
+<Opcode 1 255>music2
+    21
+    22
+    23
+    24
+    25
+    26
+    27
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 146 w:4 h:1>
+<Opcode 1 255>21<Close><End of Block>
+<TextBlock 147 w:4 h:1>
+<Opcode 1 255>22<Close><End of Block>
+<TextBlock 148 w:4 h:1>
+<Opcode 1 255>23<Close><End of Block>
+<TextBlock 149 w:4 h:1>
+<Opcode 1 255>24<Close><End of Block>
+<TextBlock 150 w:4 h:1>
+<Opcode 1 255>25<Close><End of Block>
+<TextBlock 151 w:4 h:1>
+<Opcode 1 255>26<Close><End of Block>
+<TextBlock 152 w:4 h:1>
+<Opcode 1 255>27<Close><End of Block>
+<TextBlock 153 w:16 h:11>
+<Opcode 1 255>music3
+    31
+    32
+    33
+    34
+    35
+    36
+    37
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 154 w:4 h:1>
+<Opcode 1 255>31<Close><End of Block>
+<TextBlock 155 w:4 h:1>
+<Opcode 1 255>32<Close><End of Block>
+<TextBlock 156 w:4 h:1>
+<Opcode 1 255>33<Close><End of Block>
+<TextBlock 157 w:4 h:1>
+<Opcode 1 255>34<Close><End of Block>
+<TextBlock 158 w:4 h:1>
+<Opcode 1 255>35<Close><End of Block>
+<TextBlock 159 w:4 h:1>
+<Opcode 1 255>36<Close><End of Block>
+<TextBlock 160 w:4 h:1>
+<Opcode 1 255>37<Close><End of Block>
+<TextBlock 161 w:16 h:11>
+<Opcode 1 255>music4
+    41
+    42
+    43
+    44
+    45
+    46
+    47
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 162 w:4 h:1>
+<Opcode 1 255>41<Close><End of Block>
+<TextBlock 163 w:4 h:1>
+<Opcode 1 255>42<Close><End of Block>
+<TextBlock 164 w:4 h:1>
+<Opcode 1 255>43<Close><End of Block>
+<TextBlock 165 w:4 h:1>
+<Opcode 1 255>44<Close><End of Block>
+<TextBlock 166 w:4 h:1>
+<Opcode 1 255>45<Close><End of Block>
+<TextBlock 167 w:4 h:1>
+<Opcode 1 255>46<Close><End of Block>
+<TextBlock 168 w:4 h:1>
+<Opcode 1 255>47<Close><End of Block>
+<TextBlock 169 w:16 h:11>
+<Opcode 1 255>music5
+    51
+    52
+    53
+    54
+    55
+    56
+    57
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 170 w:4 h:1>
+<Opcode 1 255>51<Close><End of Block>
+<TextBlock 171 w:4 h:1>
+<Opcode 1 255>52<Close><End of Block>
+<TextBlock 172 w:4 h:1>
+<Opcode 1 255>53<Close><End of Block>
+<TextBlock 173 w:4 h:1>
+<Opcode 1 255>54<Close><End of Block>
+<TextBlock 174 w:4 h:1>
+<Opcode 1 255>55<Close><End of Block>
+<TextBlock 175 w:4 h:1>
+<Opcode 1 255>56<Close><End of Block>
+<TextBlock 176 w:4 h:1>
+<Opcode 1 255>57<Close><End of Block>
+<TextBlock 177 w:16 h:11>
+<Opcode 1 255>music6
+    61
+    62
+    63
+    64
+    65
+    66
+    67
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 178 w:4 h:1>
+<Opcode 1 255>61<Close><End of Block>
+<TextBlock 179 w:4 h:1>
+<Opcode 1 255>62<Close><End of Block>
+<TextBlock 180 w:4 h:1>
+<Opcode 1 255>63<Close><End of Block>
+<TextBlock 181 w:4 h:1>
+<Opcode 1 255>64<Close><End of Block>
+<TextBlock 182 w:4 h:1>
+<Opcode 1 255>65<Close><End of Block>
+<TextBlock 183 w:4 h:1>
+<Opcode 1 255>66<Close><End of Block>
+<TextBlock 184 w:4 h:1>
+<Opcode 1 255>67<Close><End of Block>
+<TextBlock 185 w:16 h:11>
+<Opcode 1 255>music7
+    71
+    72
+    73
+    74
+    75
+    76
+    77
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 186 w:4 h:1>
+<Opcode 1 255>71<Close><End of Block>
+<TextBlock 187 w:4 h:1>
+<Opcode 1 255>72<Close><End of Block>
+<TextBlock 188 w:4 h:1>
+<Opcode 1 255>73<Close><End of Block>
+<TextBlock 189 w:4 h:1>
+<Opcode 1 255>74<Close><End of Block>
+<TextBlock 190 w:4 h:1>
+<Opcode 1 255>75<Close><End of Block>
+<TextBlock 191 w:4 h:1>
+<Opcode 1 255>76<Close><End of Block>
+<TextBlock 192 w:4 h:1>
+<Opcode 1 255>77<Close><End of Block>
+<TextBlock 193 w:16 h:11>
+<Opcode 1 255>music8
+    81
+    82
+    83
+    84
+    85
+    86
+    87
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 194 w:4 h:1>
+<Opcode 1 255>81<Close><End of Block>
+<TextBlock 195 w:4 h:1>
+<Opcode 1 255>82<Close><End of Block>
+<TextBlock 196 w:4 h:1>
+<Opcode 1 255>83<Close><End of Block>
+<TextBlock 197 w:4 h:1>
+<Opcode 1 255>84<Close><End of Block>
+<TextBlock 198 w:4 h:1>
+<Opcode 1 255>85<Close><End of Block>
+<TextBlock 199 w:4 h:1>
+<Opcode 1 255>86<Close><End of Block>
+<TextBlock 200 w:4 h:1>
+<Opcode 1 255>87<Close><End of Block>
+<TextBlock 201 w:16 h:9>
+<Opcode 1 255>music9
+    91
+    92
+    93
+    94
+    95
+    top
+    back
+    quit<Close><End of Block>
+<TextBlock 202 w:4 h:1>
+<Opcode 1 255>91<Close><End of Block>
+<TextBlock 203 w:4 h:1>
+<Opcode 1 255>92<Close><End of Block>
+<TextBlock 204 w:4 h:1>
+<Opcode 1 255>93<Close><End of Block>
+<TextBlock 205 w:4 h:1>
+<Opcode 1 255>94<Close><End of Block>
+<TextBlock 206 w:4 h:1>
+<Opcode 1 255>95<Close><End of Block>
+<TextBlock 207 w:20 h:11>
+karel
+item?<Delay 30>
+    <Opcode 1 255>1
+    2
+    3
+    4
+    5
+    6
+    battle
+    next
+    quit<Close><End of Block>
+<TextBlock 208 w:10 h:2>
+karel
+isee<Close><End of Block>
+<TextBlock 209 w:16 h:11>
+karel
+item?<Delay 30>
+    <Opcode 1 255>1
+    2
+    3
+    4
+    5
+    6
+    rea
+    top
+    quit<Close><End of Block>
+<TextBlock 210 w:10 h:2>
+karel
+isee<Close><End of Block>
+<TextBlock 211 w:24 h:6>
+<Opcode 1 255>testmode?
+    animset
+    battring
+    yug4
+    ellie
+    quit<Close><End of Block>
+<TextBlock 212 w:24 h:3>
+<Opcode 1 255>battringevt?
+    no
+    yes<Close><End of Block>
+<TextBlock 213 w:18 h:3>
+<Opcode 1 255>yug4test?
+    no
+    yes<Close><End of Block>
+<TextBlock 214 w:14 h:3>
+<Opcode 1 255>ellie
+    no
+    yes<Close><End of Block>
+<TextBlock 215 w:8 h:1>
+isee<Close><End of Block>
+<TextBlock 216 w:22 h:12>
+<Opcode 1 255>who?
+    fei
+    shitan
+    ellie
+    barto
+    billy
+    rico
+    eme
+    chuchu
+    maria
+    shitan2
+    eme2<Close><End of Block>
+<TextBlock 217 w:14 h:10>
+<Opcode 1 255>houkou?
+    def
+    n
+    ne
+    e
+    se
+    s
+    sw
+    w
+    nw<Close><End of Block>
+<TextBlock 218 w:20 h:5>
+<Opcode 1 255>menuchange
+    kyotsu
+    senyou
+    houkou
+    quit<Close><End of Block>
+<TextBlock 219 w:24 h:3>
+<Opcode 1 255>who?
+    sonomama
+    henkou<Close><End of Block>
+<TextBlock 220 w:22 h:8>
+<Opcode 1 255>who?
+    fei
+    shitan
+    ellie
+    barto
+    chuchu
+    next
+    topmenu<Close><End of Block>
+<TextBlock 221 w:16 h:8>
+<Opcode 1 255>allpage7
+    1
+    2
+    3
+    4
+    5
+    6
+    7<Close><End of Block>
+<TextBlock 222 w:16 h:5>
+<Opcode 1 255>allpage4
+    1
+    2
+    3
+    4<Close><End of Block>
+<TextBlock 223 w:16 h:7>
+<Opcode 1 255>allpage6
+    1
+    2
+    3
+    4
+    5
+    6<Close><End of Block>
+<TextBlock 224 w:16 h:5>
+<Opcode 1 255>allpage4
+    1
+    2
+    3
+    4<Close><End of Block>
+<TextBlock 225 w:16 h:8>
+<Opcode 1 255>allpage7
+    1
+    2
+    3
+    4
+    5
+    6
+    7<Close><End of Block>
+<TextBlock 226 w:18 h:8>
+<Opcode 1 255>who?
+    eme
+    eme2
+    maria
+    rico
+    billy
+    back
+    manu<Close><End of Block>
+<TextBlock 227 w:16 h:4>
+<Opcode 1 255>allpage3
+    1
+    2
+    3<Close><End of Block>
+<TextBlock 228 w:16 h:2>
+<Opcode 1 255>allpage1
+    1<Close><End of Block>
+<TextBlock 229 w:16 h:3>
+<Opcode 1 255>allpage2
+    1
+    2<Close><End of Block>
+<TextBlock 230 w:16 h:4>
+<Opcode 1 255>allpage3
+    1
+    2
+    3<Close><End of Block>
+<TextBlock 231 w:16 h:4>
+<Opcode 1 255>allpage3
+    1
+    2
+    3<Close><End of Block>
+<TextBlock 232 w:14 h:10>
+<Opcode 1 255>houkou?
+    def
+    n
+    ne
+    e
+    se
+    s
+    sw
+    w
+    nw<Close><End of Block>
+<TextBlock 233 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu<Close><End of Block>
+<TextBlock 234 w:20 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    format
+    back
+    menu<Close><End of Block>
+<TextBlock 235 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu<Close><End of Block>
+<TextBlock 236 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 237 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 238 w:10 h:3>
+    <Opcode 1 255>1
+    2
+    3<Close><End of Block>
+<TextBlock 239 w:18 h:4>
+<Opcode 1 255>janken?
+    goo
+    choki
+    par<Close><End of Block>
+<TextBlock 240 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 241 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 242 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 243 w:16 h:9>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    top
+    back
+    menu<Close><End of Block>
+<TextBlock 244 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu<Close><End of Block>
+<TextBlock 245 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 246 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 247 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 248 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 249 w:16 h:6>
+<Opcode 1 255>paturn?
+    1
+    2
+    top
+    back
+    menu<Close><End of Block>
+<TextBlock 250 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu<Close><End of Block>
+<TextBlock 251 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 252 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 253 w:16 h:8>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    top
+    back
+    menu<Close><End of Block>
+<TextBlock 254 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu<Close><End of Block>
+<TextBlock 255 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 256 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 257 w:16 h:10>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    menu<Close><End of Block>
+<TextBlock 258 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu<Close><End of Block>
+<TextBlock 259 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 260 w:16 h:4>
+<Opcode 1 255>paturn?
+    1
+    back
+    menu<Close><End of Block>
+<TextBlock 261 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu<Close><End of Block>
+<TextBlock 262 w:16 h:9>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    back
+    menu<Close><End of Block>
+<TextBlock 263 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    menu<Close><End of Block>
+<TextBlock 264 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu<Close><End of Block>
+<TextBlock 265 w:16 h:10>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    next
+    menu<Close><End of Block>
+<TextBlock 266 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu<Close><End of Block>
+<TextBlock 267 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 268 w:16 h:4>
+<Opcode 1 255>paturn?
+    1
+    back
+    menu<Close><End of Block>
+<TextBlock 269 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu<Close><End of Block>
+<TextBlock 270 w:16 h:11>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu<Close><End of Block>
+<TextBlock 271 w:16 h:7>
+<Opcode 1 255>paturn?
+    1
+    2
+    3
+    4
+    back
+    menu<Close><End of Block>
+<TextBlock 272 w:20 h:4>
+<Opcode 1 255>menuhenkou
+    def
+    houkou
+    menu<Close><End of Block>
+<TextBlock 273 w:16 h:1>
+<Opcode 1 255>mapedit2<Close><End of Block>
+<TextBlock 274 w:20 h:5>
+<Opcode 1 255>what?
+    aflag
+    sflag
+    format
+    quit<Close><End of Block>
+<TextBlock 275 w:4 h:1>
+<Opcode 1 255>ok<Close><End of Block>
+<TextBlock 276 w:14 h:1>
+<Opcode 1 255>gokorou<Close><End of Block>
+<TextBlock 277 w:26 h:8>
+<Opcode 1 255>what?
+    yamamichi
+    jiken
+    kega
+    kakoowari
+    organ
+    next
+    <Close><End of Block>
+<TextBlock 278 w:22 h:1>
+<Opcode 1 255>yamamichion<Close><End of Block>
+<TextBlock 279 w:14 h:1>
+<Opcode 1 255>jikenon<Close><End of Block>
+<TextBlock 280 w:12 h:1>
+<Opcode 1 255>kegaon<Close><End of Block>
+<TextBlock 281 w:18 h:1>
+<Opcode 1 255>kakoowari<Close><End of Block>
+<TextBlock 282 w:14 h:1>
+<Opcode 1 255>organon<Close><End of Block>
+<TextBlock 283 w:28 h:11>
+<Opcode 1 255>what?
+    taoshita
+    jouhou
+    dashu
+    kyuushitsu
+    hehito
+    koujou
+    ubatta
+    yug3
+    last
+    edit2<Close><End of Block>
+<TextBlock 284 w:20 h:1>
+<Opcode 1 255>taoshitaon<Close><End of Block>
+<TextBlock 285 w:16 h:1>
+<Opcode 1 255>jouhouon<Close><End of Block>
+<TextBlock 286 w:14 h:1>
+<Opcode 1 255>dashuon<Close><End of Block>
+<TextBlock 287 w:20 h:1>
+<Opcode 1 255>kyuushitsu<Close><End of Block>
+<TextBlock 288 w:16 h:1>
+<Opcode 1 255>hehitoon<Close><End of Block>
+<TextBlock 289 w:16 h:1>
+<Opcode 1 255>koujouon<Close><End of Block>
+<TextBlock 290 w:16 h:1>
+<Opcode 1 255>ubattaon<Close><End of Block>
+<TextBlock 291 w:12 h:1>
+<Opcode 1 255>yug3on<Close><End of Block>
+<TextBlock 292 w:12 h:1>
+<Opcode 1 255>laston<Close><End of Block>
+<TextBlock 293 w:16 h:1>
+<Opcode 1 255>mapedit1<Close><End of Block>
+<TextBlock 294 w:24 h:7>
+<Opcode 1 255>what?
+    evtflag
+    money
+    endstart
+    disk2
+    format
+    quit<Close><End of Block>
+<TextBlock 295 w:14 h:4>
+<Opcode 1 255>money?
+    def
+    non
+    yes<Close><End of Block>
+<TextBlock 296 w:10 h:1>
+<Opcode 1 255>turn!<Close><End of Block>
+<TextBlock 297 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 298 w:22 h:1>
+<Opcode 1 255>9999999Gget<Close><End of Block>
+<TextBlock 299 w:14 h:1>
+<Opcode 1 255>format!<Close><End of Block>
+<TextBlock 300 w:8 h:1>
+<Opcode 1 255>byby<Close><End of Block>
+<TextBlock 301 w:18 h:10>
+<Opcode 1 255>allpage7
+flagpage?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    quit<Close><End of Block>
+<TextBlock 302 w:30 h:11>
+<Opcode 1 255>flagon?
+    minka
+    enntotsu
+    test
+    kaigi2
+    totsunyuu
+    yuugata
+    shinngataki
+    shosennmae
+    next
+    quit<Close><End of Block>
+<TextBlock 303 w:14 h:1>
+<Opcode 1 255>minkaon<Close><End of Block>
+<TextBlock 304 w:20 h:1>
+<Opcode 1 255>enntotsuon<Close><End of Block>
+<TextBlock 305 w:12 h:1>
+<Opcode 1 255>teston<Close><End of Block>
+<TextBlock 306 w:16 h:1>
+<Opcode 1 255>kaigi2on<Close><End of Block>
+<TextBlock 307 w:22 h:1>
+<Opcode 1 255>totsunyuuon<Close><End of Block>
+<TextBlock 308 w:18 h:1>
+<Opcode 1 255>yuugataon<Close><End of Block>
+<TextBlock 309 w:26 h:1>
+<Opcode 1 255>shinngatakion<Close><End of Block>
+<TextBlock 310 w:24 h:1>
+<Opcode 1 255>shosennmaeon<Close><End of Block>
+<TextBlock 311 w:30 h:11>
+<Opcode 1 255>flagon?
+    resshabotsu
+    zennyasai
+    botsukaiwa
+    saijoi
+    joe
+    joukennka
+    boukyuusai
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 312 w:26 h:1>
+<Opcode 1 255>resshabotsuon<Close><End of Block>
+<TextBlock 313 w:22 h:1>
+<Opcode 1 255>zennyasaion<Close><End of Block>
+<TextBlock 314 w:24 h:1>
+<Opcode 1 255>botsukaiwaon<Close><End of Block>
+<TextBlock 315 w:16 h:1>
+<Opcode 1 255>saijoion<Close><End of Block>
+<TextBlock 316 w:10 h:1>
+<Opcode 1 255>joeon<Close><End of Block>
+<TextBlock 317 w:22 h:1>
+<Opcode 1 255>joukennkaon<Close><End of Block>
+<TextBlock 318 w:24 h:1>
+<Opcode 1 255>boukyuusaion<Close><End of Block>
+<TextBlock 319 w:22 h:11>
+<Opcode 1 255>flagon?
+    kaigi1
+    mezame1
+    taimenn
+    battle
+    mezame2
+    reo
+    hai
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 320 w:16 h:1>
+<Opcode 1 255>kaigi1on<Close><End of Block>
+<TextBlock 321 w:18 h:1>
+<Opcode 1 255>mezame1on<Close><End of Block>
+<TextBlock 322 w:18 h:1>
+<Opcode 1 255>taimennon<Close><End of Block>
+<TextBlock 323 w:16 h:1>
+<Opcode 1 255>battleon<Close><End of Block>
+<TextBlock 324 w:18 h:1>
+<Opcode 1 255>mezame2on<Close><End of Block>
+<TextBlock 325 w:10 h:1>
+<Opcode 1 255>reoon<Close><End of Block>
+<TextBlock 326 w:10 h:1>
+<Opcode 1 255>haion<Close><End of Block>
+<TextBlock 327 w:32 h:11>
+<Opcode 1 255>flagon?
+    bal
+    suza
+    choutatsuya
+    iinnkai
+    uwasabanashi
+    daisennsei
+    daishippai
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 328 w:10 h:1>
+<Opcode 1 255>balon<Close><End of Block>
+<TextBlock 329 w:12 h:1>
+<Opcode 1 255>suzaon<Close><End of Block>
+<TextBlock 330 w:26 h:1>
+<Opcode 1 255>choutatsuyaon<Close><End of Block>
+<TextBlock 331 w:18 h:1>
+<Opcode 1 255>iinnkaion<Close><End of Block>
+<TextBlock 332 w:28 h:1>
+<Opcode 1 255>uwasabanashion<Close><End of Block>
+<TextBlock 333 w:24 h:1>
+<Opcode 1 255>daisennseion<Close><End of Block>
+<TextBlock 334 w:24 h:1>
+<Opcode 1 255>daishippaion<Close><End of Block>
+<TextBlock 335 w:30 h:11>
+<Opcode 1 255>flagon?
+    Bketsui
+    tougijou
+    ookega
+    akakikemono
+    king
+    miss
+    doore
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 336 w:18 h:1>
+<Opcode 1 255>Bketsuion<Close><End of Block>
+<TextBlock 337 w:20 h:1>
+<Opcode 1 255>tougijouon<Close><End of Block>
+<TextBlock 338 w:16 h:1>
+<Opcode 1 255>ookegaon<Close><End of Block>
+<TextBlock 339 w:26 h:1>
+<Opcode 1 255>akakikemonoon<Close><End of Block>
+<TextBlock 340 w:12 h:1>
+<Opcode 1 255>kingon<Close><End of Block>
+<TextBlock 341 w:12 h:1>
+<Opcode 1 255>misson<Close><End of Block>
+<TextBlock 342 w:14 h:1>
+<Opcode 1 255>dooreon<Close><End of Block>
+<TextBlock 343 w:30 h:11>
+<Opcode 1 255>flagon?
+    doorw
+    ressha
+    shuusenn2
+    shuusenn3
+    tennboutou
+    kitoushi
+    saishuusenn
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 344 w:14 h:1>
+<Opcode 1 255>doorwon<Close><End of Block>
+<TextBlock 345 w:16 h:1>
+<Opcode 1 255>resshaon<Close><End of Block>
+<TextBlock 346 w:22 h:1>
+<Opcode 1 255>shuusenn2on<Close><End of Block>
+<TextBlock 347 w:22 h:1>
+<Opcode 1 255>shuusenn3on<Close><End of Block>
+<TextBlock 348 w:24 h:1>
+<Opcode 1 255>tennboutouon<Close><End of Block>
+<TextBlock 349 w:20 h:1>
+<Opcode 1 255>kitoushion<Close><End of Block>
+<TextBlock 350 w:28 h:1>
+<Opcode 1 255>saiishuusennon<Close><End of Block>
+<TextBlock 351 w:34 h:11>
+<Opcode 1 255>flagon?
+    shitennshi
+    rennsatsu1
+    rennsatsu2
+    jikannjiku
+    kaigennrei
+    yumeshoumetsu
+    keibihei
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 352 w:24 h:1>
+<Opcode 1 255>shitennshion<Close><End of Block>
+<TextBlock 353 w:24 h:1>
+<Opcode 1 255>rennsatsu1on<Close><End of Block>
+<TextBlock 354 w:24 h:1>
+<Opcode 1 255>rennsatsu2on<Close><End of Block>
+<TextBlock 355 w:24 h:1>
+<Opcode 1 255>jikannjikuon<Close><End of Block>
+<TextBlock 356 w:24 h:1>
+<Opcode 1 255>kaigennreion<Close><End of Block>
+<TextBlock 357 w:30 h:1>
+<Opcode 1 255>yumeshoumetsuon<Close><End of Block>
+<TextBlock 358 w:20 h:1>
+<Opcode 1 255>keibiheion<Close><End of Block>
+<TextBlock 359 w:30 h:11>
+<Opcode 1 255>what?
+    mezame
+    iinnkai
+    daisennsei
+    nightmear
+    houmonn
+    akakikemono
+    kennja
+    king
+    hehito
+    quit<Close><End of Block>
+<TextBlock 360 w:24 h:7>
+<Opcode 1 255>where?
+    kislevA
+    kislevD
+    pastevt
+    subworld
+    mapno0
+    quit<Close><End of Block>
+<TextBlock 361 w:30 h:13>
+<Opcode 1 255>where?
+    def
+    minnka2
+    minnka2toto
+    heisha1fa
+    heisha1fb
+    heisha2f
+    ber
+    weapon
+    item
+    minnka1
+    tower
+    quit<Close><End of Block>
+<TextBlock 362 w:22 h:3>
+<Opcode 1 255>kannkyou?
+    def
+    yuugata<Close><End of Block>
+<TextBlock 363 w:20 h:3>
+<Opcode 1 255>evt?
+    def
+    kaigi1<Close><End of Block>
+<TextBlock 364 w:6 h:1>
+<Opcode 1 255>def<Close><End of Block>
+<TextBlock 365 w:6 h:1>
+<Opcode 1 255>def<Close><End of Block>
+<TextBlock 366 w:6 h:1>
+<Opcode 1 255>def<Close><End of Block>
+<TextBlock 367 w:20 h:4>
+<Opcode 1 255>evt?
+    def
+    kaigi1
+    kaigi2<Close><End of Block>
+<TextBlock 368 w:14 h:1>
+<Opcode 1 255>minnka2<Close><End of Block>
+<TextBlock 369 w:14 h:1>
+<Opcode 1 255>minnka2<Close><End of Block>
+<TextBlock 370 w:14 h:1>
+<Opcode 1 255>minnka2<Close><End of Block>
+<TextBlock 371 w:22 h:1>
+<Opcode 1 255>minnka2toto<Close><End of Block>
+<TextBlock 372 w:18 h:1>
+<Opcode 1 255>heisha1fa<Close><End of Block>
+<TextBlock 373 w:18 h:1>
+<Opcode 1 255>heisha1fb<Close><End of Block>
+<TextBlock 374 w:16 h:1>
+<Opcode 1 255>heisha2f<Close><End of Block>
+<TextBlock 375 w:6 h:1>
+<Opcode 1 255>ber<Close><End of Block>
+<TextBlock 376 w:12 h:1>
+<Opcode 1 255>weapon<Close><End of Block>
+<TextBlock 377 w:8 h:1>
+<Opcode 1 255>item<Close><End of Block>
+<TextBlock 378 w:14 h:1>
+<Opcode 1 255>minnka1<Close><End of Block>
+<TextBlock 379 w:10 h:1>
+<Opcode 1 255>tower<Close><End of Block>
+<TextBlock 380 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 381 w:26 h:1>
+<Opcode 1 255>endstartking!<Close><End of Block>
+<TextBlock 382 w:46 h:11>
+<Opcode 1 255>where?
+    def
+    shukushaima
+    shukushaitem
+    shukushashinnshitsu
+    shukushayokushitsu
+    kyoukai1
+    kyoukai2
+    ber
+    next
+    quit<Close><End of Block>
+<TextBlock 383 w:6 h:1>
+<Opcode 1 255>def<Close><End of Block>
+<TextBlock 384 w:18 h:3>
+<Opcode 1 255>where?
+    doore
+    doorw<Close><End of Block>
+<TextBlock 385 w:24 h:1>
+<Opcode 1 255>shukushaimae<Close><End of Block>
+<TextBlock 386 w:24 h:1>
+<Opcode 1 255>shukushaimaw<Close><End of Block>
+<TextBlock 387 w:24 h:1>
+<Opcode 1 255>shukushaitem<Close><End of Block>
+<TextBlock 388 w:38 h:1>
+<Opcode 1 255>shukushashinnshitsu<Close><End of Block>
+<TextBlock 389 w:36 h:1>
+<Opcode 1 255>shukushayokushitsu<Close><End of Block>
+<TextBlock 390 w:16 h:1>
+<Opcode 1 255>kyoukai1<Close><End of Block>
+<TextBlock 391 w:16 h:1>
+<Opcode 1 255>koyukai2<Close><End of Block>
+<TextBlock 392 w:6 h:1>
+<Opcode 1 255>ber<Close><End of Block>
+<TextBlock 393 w:30 h:11>
+<Opcode 1 255>evt?
+    shouzounoma
+    daiseidou
+    nisannmachi
+    kennkyuujo
+    ronitaishou
+    monolog
+    gennsho
+    mahanonn
+    next
+    quit<Close><End of Block>
+<TextBlock 394 w:22 h:1>
+<Opcode 1 255>shouzounoma<Close><End of Block>
+<TextBlock 395 w:20 h:1>
+<Opcode 1 255>daiseiidou<Close><End of Block>
+<TextBlock 396 w:22 h:1>
+<Opcode 1 255>nisannmachi<Close><End of Block>
+<TextBlock 397 w:20 h:1>
+<Opcode 1 255>kennkyuujo<Close><End of Block>
+<TextBlock 398 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 399 w:22 h:1>
+<Opcode 1 255>ronitaishou<Close><End of Block>
+<TextBlock 400 w:22 h:1>
+<Opcode 1 255>ronitaishou<Close><End of Block>
+<TextBlock 401 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 402 w:22 h:11>
+<Opcode 1 255>party?
+    ellie
+    shitan
+    barto
+    rico
+    billy
+    eme
+    chuchu
+    maria
+    shitan2
+    eme2<Close><End of Block>
+<TextBlock 403 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 404 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 405 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 406 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 407 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 408 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 409 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 410 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 411 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 412 w:16 h:1>
+<Opcode 1 255>boo!boo!<Close><End of Block>
+<TextBlock 413 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 414 w:14 h:1>
+<Opcode 1 255>gennsho<Close><End of Block>
+<TextBlock 415 w:14 h:1>
+<Opcode 1 255>gennsho<Close><End of Block>
+<TextBlock 416 w:16 h:1>
+<Opcode 1 255>mahanonn<Close><End of Block>
+<TextBlock 417 w:16 h:1>
+<Opcode 1 255>subworld<Close><End of Block>
+<TextBlock 418 w:26 h:11>
+<Opcode 1 255>homeselect?
+    katou
+    etou
+    kazuomi
+    toshiaki
+    tane
+    koumoto
+    kigoshi
+    uchimichi
+    matsuhara
+    mapnodoor<Close><End of Block>
+<TextBlock 419 w:10 h:1>
+<Opcode 1 255>katou<Close><End of Block>
+<TextBlock 420 w:8 h:1>
+<Opcode 1 255>etou<Close><End of Block>
+<TextBlock 421 w:14 h:1>
+<Opcode 1 255>kazuomi<Close><End of Block>
+<TextBlock 422 w:16 h:1>
+<Opcode 1 255>toshiaki<Close><End of Block>
+<TextBlock 423 w:8 h:1>
+<Opcode 1 255>tane<Close><End of Block>
+<TextBlock 424 w:14 h:1>
+<Opcode 1 255>koumoto<Close><End of Block>
+<TextBlock 425 w:14 h:1>
+<Opcode 1 255>kigoshi<Close><End of Block>
+<TextBlock 426 w:18 h:1>
+<Opcode 1 255>uchimichi<Close><End of Block>
+<TextBlock 427 w:18 h:1>
+<Opcode 1 255>matsuhara<Close><End of Block>
+<TextBlock 428 w:18 h:1>
+<Opcode 1 255>mapnodoor<Close><End of Block>
+<TextBlock 429 w:36 h:11>
+<Opcode 1 255>evt?
+    rahann
+    aisurumono
+    hametsu
+    setsugenn
+    gorugodagisei
+    gorugodakyouki
+    ekusubrig
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 430 w:12 h:1>
+<Opcode 1 255>rahann<Close><End of Block>
+<TextBlock 431 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 432 w:20 h:1>
+<Opcode 1 255>aisurumono<Close><End of Block>
+<TextBlock 433 w:20 h:1>
+<Opcode 1 255>aisurumono<Close><End of Block>
+<TextBlock 434 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 435 w:14 h:1>
+<Opcode 1 255>hametsu<Close><End of Block>
+<TextBlock 436 w:14 h:1>
+<Opcode 1 255>hametsu<Close><End of Block>
+<TextBlock 437 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 438 w:18 h:1>
+<Opcode 1 255>setsugenn<Close><End of Block>
+<TextBlock 439 w:18 h:1>
+<Opcode 1 255>setsugenn<Close><End of Block>
+<TextBlock 440 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 441 w:26 h:1>
+<Opcode 1 255>gorugodagisei<Close><End of Block>
+<TextBlock 442 w:26 h:1>
+<Opcode 1 255>gorugodagisei<Close><End of Block>
+<TextBlock 443 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 444 w:28 h:1>
+<Opcode 1 255>gorugodakyouki<Close><End of Block>
+<TextBlock 445 w:28 h:1>
+<Opcode 1 255>gorugodakyouki<Close><End of Block>
+<TextBlock 446 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 447 w:16 h:1>
+<Opcode 1 255>ekusbrig<Close><End of Block>
+<TextBlock 448 w:16 h:1>
+<Opcode 1 255>ekusbrig<Close><End of Block>
+<TextBlock 449 w:32 h:9>
+<Opcode 1 255>evt?
+    shouzounoma2
+    shouzounoma3
+    ronitaishou2
+    nisannmachi2
+    daiseidou2
+    kennkyuujo
+    back
+    quit<Close><End of Block>
+<TextBlock 450 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 451 w:24 h:1>
+<Opcode 1 255>shouzounoma2<Close><End of Block>
+<TextBlock 452 w:24 h:1>
+<Opcode 1 255>shouzounoma2<Close><End of Block>
+<TextBlock 453 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 454 w:24 h:1>
+<Opcode 1 255>shouzounoma3<Close><End of Block>
+<TextBlock 455 w:24 h:1>
+<Opcode 1 255>shouzounoma3<Close><End of Block>
+<TextBlock 456 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 457 w:24 h:1>
+<Opcode 1 255>ronitaishou2<Close><End of Block>
+<TextBlock 458 w:24 h:1>
+<Opcode 1 255>ronitaishou2<Close><End of Block>
+<TextBlock 459 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 460 w:24 h:1>
+<Opcode 1 255>nisannmachi2<Close><End of Block>
+<TextBlock 461 w:24 h:1>
+<Opcode 1 255>nisannmachi2<Close><End of Block>
+<TextBlock 462 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 463 w:22 h:1>
+<Opcode 1 255>daiseiidou2<Close><End of Block>
+<TextBlock 464 w:22 h:1>
+<Opcode 1 255>daiseiidou2<Close><End of Block>
+<TextBlock 465 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 466 w:22 h:1>
+<Opcode 1 255>kennkyuujo2<Close><End of Block>
+<TextBlock 467 w:22 h:1>
+<Opcode 1 255>kennkyuujo2<Close><End of Block>
+<TextBlock 468 w:38 h:10>
+<Opcode 1 255>where?
+    ricoroom
+    ricoshinnshitsu
+    minnka1
+    gild1
+    gild2
+    battring1
+    battring2
+    back
+    quit<Close><End of Block>
+<TextBlock 469 w:16 h:1>
+<Opcode 1 255>ricoroom<Close><End of Block>
+<TextBlock 470 w:30 h:1>
+<Opcode 1 255>ricoshinnshitsu<Close><End of Block>
+<TextBlock 471 w:14 h:1>
+<Opcode 1 255>minnka1<Close><End of Block>
+<TextBlock 472 w:10 h:1>
+<Opcode 1 255>gild1<Close><End of Block>
+<TextBlock 473 w:10 h:1>
+<Opcode 1 255>gild2<Close><End of Block>
+<TextBlock 474 w:18 h:1>
+<Opcode 1 255>battring1<Close><End of Block>
+<TextBlock 475 w:18 h:1>
+<Opcode 1 255>battring2<Close><End of Block>
+<TextBlock 476 w:26 h:5>
+<Opcode 1 255>monologstory?
+    1
+    2
+    3
+    quit<Close><End of Block>
+<TextBlock 477 w:16 h:1>
+<Opcode 1 255>monolog1<Close><End of Block>
+<TextBlock 478 w:16 h:1>
+<Opcode 1 255>monolog2<Close><End of Block>
+<TextBlock 479 w:16 h:1>
+<Opcode 1 255>monolog3<Close><End of Block>
+<TextBlock 480 w:24 h:11>
+<Opcode 1 255>evt?
+    memory
+    nano
+    yug4
+    seibo
+    anima
+    nisann
+    hito
+    mahanonn
+    next
+    quit<Close><End of Block>
+<TextBlock 481 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 482 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 483 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 484 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 485 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 486 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 487 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 488 w:26 h:4>
+<Opcode 1 255>evtstory?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 489 w:34 h:11>
+<Opcode 1 255>evtselect
+    fuyuutairiku
+    ellieketsui
+    gorugodanochi
+    melcover
+    karbonight
+    zoharu
+    powermind
+    worlddeth
+    back
+    quit<Close><End of Block>
+<TextBlock 490 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 491 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 492 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 493 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 494 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 495 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 496 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 497 w:26 h:4>
+<Opcode 1 255>evtstart?
+    backstory
+    def
+    quit<Close><End of Block>
+<TextBlock 498 w:28 h:1>
+<Opcode 1 255>jyukaitsuiraku<Close><End of Block>
+<TextBlock 499 w:12 h:1>
+<Opcode 1 255>memory<Close><End of Block>
+<TextBlock 500 w:16 h:1>
+<Opcode 1 255>bahamurt<Close><End of Block>
+<TextBlock 501 w:8 h:1>
+<Opcode 1 255>nano<Close><End of Block>
+<TextBlock 502 w:10 h:1>
+<Opcode 1 255>nano2<Close><End of Block>
+<TextBlock 503 w:8 h:1>
+<Opcode 1 255>yug4<Close><End of Block>
+<TextBlock 504 w:14 h:1>
+<Opcode 1 255>soirent<Close><End of Block>
+<TextBlock 505 w:10 h:1>
+<Opcode 1 255>seibo<Close><End of Block>
+<TextBlock 506 w:10 h:1>
+<Opcode 1 255>gazel<Close><End of Block>
+<TextBlock 507 w:10 h:1>
+<Opcode 1 255>anima<Close><End of Block>
+<TextBlock 508 w:12 h:1>
+<Opcode 1 255>ramsas<Close><End of Block>
+<TextBlock 509 w:12 h:1>
+<Opcode 1 255>nisann<Close><End of Block>
+<TextBlock 510 w:10 h:1>
+<Opcode 1 255>gazel<Close><End of Block>
+<TextBlock 511 w:8 h:1>
+<Opcode 1 255>hito<Close><End of Block>
+<TextBlock 512 w:10 h:1>
+<Opcode 1 255>gazel<Close><End of Block>
+<TextBlock 513 w:16 h:1>
+<Opcode 1 255>mahanonn<Close><End of Block>
+<TextBlock 514 w:16 h:1>
+<Opcode 1 255>yasuragi<Close><End of Block>
+<TextBlock 515 w:24 h:1>
+<Opcode 1 255>fuyuutairiku<Close><End of Block>
+<TextBlock 516 w:26 h:1>
+<Opcode 1 255>fuyuutairiku3<Close><End of Block>
+<TextBlock 517 w:22 h:1>
+<Opcode 1 255>ellieketsui<Close><End of Block>
+<TextBlock 518 w:22 h:1>
+<Opcode 1 255>ellieketsui<Close><End of Block>
+<TextBlock 519 w:26 h:1>
+<Opcode 1 255>gorugodanochi<Close><End of Block>
+<TextBlock 520 w:10 h:1>
+<Opcode 1 255>gazel<Close><End of Block>
+<TextBlock 521 w:16 h:1>
+<Opcode 1 255>melkaver<Close><End of Block>
+<TextBlock 522 w:16 h:1>
+<Opcode 1 255>melkaver<Close><End of Block>
+<TextBlock 523 w:18 h:1>
+<Opcode 1 255>carbonite<Close><End of Block>
+<TextBlock 524 w:4 h:1>
+<Opcode 1 255>id<Close><End of Block>
+<TextBlock 525 w:10 h:1>
+<Opcode 1 255>zohar<Close><End of Block>
+<TextBlock 526 w:10 h:1>
+<Opcode 1 255>final<Close><End of Block>
+<TextBlock 527 w:22 h:1>
+<Opcode 1 255>powerofmind<Close><End of Block>
+<TextBlock 528 w:18 h:1>
+<Opcode 1 255>terraform<Close><End of Block>
+<TextBlock 529 w:24 h:1>
+<Opcode 1 255>world'sdeath<Close><End of Block>
+<TextBlock 530 w:34 h:11>
+<Opcode 1 255>evttest
+    feidream
+    mezameD
+    taimenn
+    sennrei
+    mezameB
+    iinnkai
+    shitan
+    shitanshippai
+    next
+    quit<Close><End of Block>
+<TextBlock 531 w:18 h:3>
+<Opcode 1 255>joutaiha?
+    1
+    2<Close><End of Block>
+<TextBlock 532 w:16 h:1>
+<Opcode 1 255>feidream<Close><End of Block>
+<TextBlock 533 w:16 h:1>
+feidream<Close><End of Block>
+<TextBlock 534 w:14 h:1>
+<Opcode 1 255>mezameD<Close><End of Block>
+<TextBlock 535 w:14 h:1>
+<Opcode 1 255>taimenn<Close><End of Block>
+<TextBlock 536 w:14 h:1>
+<Opcode 1 255>sennrei<Close><End of Block>
+<TextBlock 537 w:14 h:1>
+<Opcode 1 255>mezameB<Close><End of Block>
+<TextBlock 538 w:14 h:1>
+<Opcode 1 255>iinnkai<Close><End of Block>
+<TextBlock 539 w:12 h:1>
+<Opcode 1 255>shitan<Close><End of Block>
+<TextBlock 540 w:18 h:3>
+<Opcode 1 255>where?
+    doore
+    doorw<Close><End of Block>
+<TextBlock 541 w:24 h:1>
+<Opcode 1 255>shukushaimae<Close><End of Block>
+<TextBlock 542 w:24 h:1>
+<Opcode 1 255>shukushaimaw<Close><End of Block>
+<TextBlock 543 w:26 h:1>
+<Opcode 1 255>shitanshippai<Close><End of Block>
+<TextBlock 544 w:12 h:1>
+<Opcode 1 255>cancel<Close><End of Block>
+<TextBlock 545 w:36 h:11>
+<Opcode 1 255>evttest
+    battring
+    shinngataki
+    ookege
+    jikennshinnsou
+    kenja
+    king
+    shinngataki2
+    back
+    next
+    quit<Close><End of Block>
+<TextBlock 546 w:16 h:1>
+<Opcode 1 255>battring<Close><End of Block>
+<TextBlock 547 w:24 h:3>
+<Opcode 1 255>evt?
+    iinnkai
+    toujouki<Close><End of Block>
+<TextBlock 548 w:22 h:1>
+<Opcode 1 255>shinngataki<Close><End of Block>
+<TextBlock 549 w:22 h:1>
+<Opcode 1 255>shinngataki<Close><End of Block>
+<TextBlock 550 w:12 h:1>
+<Opcode 1 255>ookega<Close><End of Block>
+<TextBlock 551 w:28 h:1>
+<Opcode 1 255>jikennshinnsou<Close><End of Block>
+<TextBlock 552 w:10 h:1>
+<Opcode 1 255>kenja<Close><End of Block>
+<TextBlock 553 w:8 h:1>
+<Opcode 1 255>king<Close><End of Block>
+<TextBlock 554 w:22 h:3>
+<Opcode 1 255>evt?
+    tower
+    minnka2<Close><End of Block>
+<TextBlock 555 w:24 h:1>
+<Opcode 1 255>shinngataki2<Close><End of Block>
+<TextBlock 556 w:24 h:1>
+<Opcode 1 255>shinngataki2<Close><End of Block>
+<TextBlock 557 w:12 h:1>
+<Opcode 1 255>cancel<Close><End of Block>
+<TextBlock 558 w:32 h:9>
+<Opcode 1 255>evttest
+    plese
+    sennyuu
+    rankerattack
+    shukusei
+    kislevbroken
+    back
+    top
+    quit<Close><End of Block>
+<TextBlock 559 w:10 h:1>
+<Opcode 1 255>plese<Close><End of Block>
+<TextBlock 560 w:22 h:4>
+<Opcode 1 255>evt?
+    start
+    miokuri
+    rakkago<Close><End of Block>
+<TextBlock 561 w:14 h:1>
+<Opcode 1 255>sennyuu<Close><End of Block>
+<TextBlock 562 w:24 h:1>
+<Opcode 1 255>rankerattack<Close><End of Block>
+<TextBlock 563 w:16 h:1>
+<Opcode 1 255>shukusei<Close><End of Block>
+<TextBlock 564 w:24 h:3>
+<Opcode 1 255>evt?
+    saikai
+    boo!boo!<Close><End of Block>
+<TextBlock 565 w:24 h:1>
+<Opcode 1 255>kislevbroken<Close><End of Block>
+<TextBlock 566 w:24 h:1>
+<Opcode 1 255>kislevbroken<Close><End of Block>
+<TextBlock 567 w:28 h:2>
+<Opcode 1 255>cancel<Close>
+peed(-1)cancel<Close><Close><End of Block>

@@ -1,0 +1,27 @@
+<TextBlock 1 w:18 h:2>
+Fei
+"Grahf!?"<Close><End of Block>
+<TextBlock 2 w:8 h:1>
+STOP<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Grahf
+"The Goliath wasn't
+built for you to use.<New>
+You must remain on this
+land a little longer.
+I can't allow you to
+leave..."<Close><End of Block>
+<TextBlock 4 w:36 h:4>
+Grahf
+"So, you can now
+draw upon more of
+your power...<New>
+If that's the case
+then..."<Close><End of Block>
+<TextBlock 5 w:14 h:2>
+Grahf
+"Huh!?"<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:44 h:3>
+Citan
+"Fei!
+Hold on tightly now!!"<Close><Close><Close><UNKNOWN CHUNK 247><Close><End of Block>

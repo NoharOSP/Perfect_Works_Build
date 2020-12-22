@@ -1,0 +1,139 @@
+<TextBlock 1 w:48 h:4>
+Roni
+"Why don't you go get
+some rest,<Delay 15> Krel<Delay 5>...?<New>
+You haven't slept since
+the day before yesterday
+have you?<Delay 5> You shouldn't
+do that to yourself!"<Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Krelian
+"I'm fine, <Delay 10>it's not
+a problem<Delay 5>..."<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Roni
+"Look, I'll watch over her,
+so you go sleep.<New>
+What will we do if you also
+fall ill?<Delay 15> Do not forget you
+are the head of the sect's
+military forces."<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Krelian
+"Okay<Delay 5>...<Delay 5>
+I suppose you are right."<Close><End of Block>
+<TextBlock 5 w:30 h:3>
+Lacan
+"Elly<Delay 5>...<Delay 10>
+I am so sorry."<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Lacan
+"I<Delay 5>...<Delay 15>
+It was my misjudgement
+that did this to you."<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Lacan
+"I was terrified<Delay 5>...<Delay 15><New>
+It was like you could see
+right through me<Delay 5>...<Delay 15>
+Your eyes<Delay 5>... <Delay 15>
+That look<Delay 5>...<New>
+That was me that was
+being reflected back
+in your eyes<Delay 5>...<New>
+I was looking at myself<Delay 5>...<Delay 15>
+And thus painting myself<Delay 5>...<Delay 15>
+I couldn't stand it!<Delay 45>
+So that's why<Delay 5>...<New>
+Oh Elly<Delay 5>...<Delay 15>
+What in the heavens did
+you find inside of me?"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Lacan
+"When you wake up, I think
+I will ask you that<Delay 5>...<Delay 45>
+On second thought,<Delay 5> no<Delay 5>...<New>
+No,<Delay 5> I don't want to burden
+you with my concerns<Delay 5>...<Delay 30>
+Besides I wouldn't be able
+to ask you<Delay 5>...<New>
+One look into your eyes
+and I can't say a thing<Delay 5>...<Delay 45>
+I<Delay 5> wouldn't even be able to
+tell you<Delay 5> how I feel<Delay 5>..."<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Sophia
+"You are the sweetest
+person<Delay 5>..."<Close><End of Block>
+<TextBlock 10 w:20 h:2>
+Lacan
+"Elly<Delay 5>...!"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Elly
+"You are someone who cannot
+bear to see others hurt by
+your own actions.<New>
+So you hold everything in
+and bear all the burden.<Delay 15>
+If you get hurt in the end,
+you think that is fine<Delay 5>..."<Close><End of Block>
+<TextBlock 12 w:22 h:4>
+Elly
+"That's<Delay 5>...<Delay 15>
+what I like
+about you."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Lacan
+"Stop! <Delay 10>Don't say that.<Delay 15>
+If you become just another
+human, everyone will<Delay 5>..."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Elly
+"Humans<Delay 5>...<Delay 5>aren't all that
+frail you know.<New>
+They don't need a symbol
+who is just appearances
+only.<New>
+I believe that if you have
+light in your heart,<Delay 5> you
+can overcome any hardship.<New>
+What I have been doing is<Delay 5>
+simply showing people that
+such light exists in the
+hearts of everyone."<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Elly
+"I'm just a woman.<New>
+And to fulfill my womanhood<Delay 10>
+I am prepared to throw away
+anything<Delay 5>...<Delay 5>
+even this position.<New>
+I'm just playing the role
+of Sophia.<Delay 15>
+But I am still me.<New>
+I haven't changed<Delay 5>...<Delay 15>
+a cowardly, selfish,
+crybaby<Delay 5>...<Delay 10>
+I am still the same."<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Elly
+"Could you live a lie like
+that and still be happy<Delay 5>...?
+I<Delay 5>...<Delay 5>don't want to do that."<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Elly
+"Oh, Lacan<Delay 5>...<Delay 15>
+I want to live more
+honestly with myself<Delay 5>...<New>
+To be able to tell the
+man that I love that I do
+love him.<Delay 15> And I don't care
+if I get hurt or rejected.<New>
+You only have one life.<Delay 5>
+I don't want to turn around
+later and regret not having
+done such things<Delay 5>..."<Close><End of Block>
+<TextBlock 18 w:16 h:3>
+Lacan
+"I<Delay 5>...<Delay 15>
+   I<Delay 5>..."<Close><Close><End of Block>

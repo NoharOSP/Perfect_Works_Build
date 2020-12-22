@@ -1,0 +1,62 @@
+<TextBlock 1 w:10 h:1>
+<Opcode 1 255>Dazil<Close><End of Block>
+<TextBlock 2 w:30 h:2>
+<Opcode 1 255>  - Bledavik -
+Capital of Aveh<Close><End of Block>
+<TextBlock 3 w:22 h:1>
+<Opcode 1 255>Bart's Lair<Close><End of Block>
+<TextBlock 4 w:16 h:2>
+<Opcode 1 255>The Road
+to Nisan<Close><End of Block>
+<TextBlock 5 w:10 h:1>
+<Opcode 1 255>Nisan<Close><End of Block>
+<TextBlock 6 w:26 h:1>
+<Opcode 1 255>Hermit's Hole<Close><End of Block>
+<TextBlock 7 w:38 h:1>
+<Opcode 1 255>Cave to Ignas' Gate<Close><End of Block>
+<TextBlock 8 w:34 h:2>
+<Opcode 1 255>   - Nortune -
+Capital of Kislev<Close><End of Block>
+<TextBlock 9 w:30 h:1>
+<Opcode 1 255>Goliath Factory<Close><End of Block>
+<TextBlock 10 w:20 h:1>
+<Opcode 1 255>Ft. Jasper<Close><End of Block>
+<TextBlock 11 w:18 h:1>
+<Opcode 1 255>Orphanage<Close><End of Block>
+<TextBlock 12 w:22 h:1>
+<Opcode 1 255>Babel Tower<Close><End of Block>
+<TextBlock 13 w:46 h:1>
+<Opcode 1 255>'Ethos' Excavation Site<Close><End of Block>
+<TextBlock 14 w:20 h:1>
+<Opcode 1 255>Lighthouse<Close><End of Block>
+<TextBlock 15 w:22 h:2>
+<Opcode 1 255>The 'Ethos'
+    H.Q.<Close><End of Block>
+<TextBlock 16 w:14 h:1>
+<Opcode 1 255>Solaris<Close><End of Block>
+<TextBlock 17 w:34 h:1>
+<Opcode 1 255>Snowfield Hideout<Close><End of Block>
+<TextBlock 18 w:22 h:2>
+<Opcode 1 255>Anima Relic
+ Dungeon 1<Close><End of Block>
+<TextBlock 19 w:22 h:2>
+<Opcode 1 255>Anima Relic
+ Dungeon 2<Close><End of Block>
+<TextBlock 20 w:8 h:1>
+<Opcode 1 255>Deus<Close><End of Block>
+<TextBlock 21 w:18 h:1>
+<Opcode 1 255>Bethlehem<Close><End of Block>
+<TextBlock 22 w:26 h:1>
+<Opcode 1 255>Taura's House<Close><End of Block>
+<TextBlock 23 w:22 h:1>
+<Opcode 1 255>Mass Driver<Close><End of Block>
+<TextBlock 24 w:26 h:1>
+<Opcode 1 255>Lahan Village<Close><End of Block>
+<TextBlock 25 w:26 h:1>
+<Opcode 1 255>Citan's House<Close><End of Block>
+<TextBlock 26 w:18 h:1>
+<Opcode 1 255>Yggdrasil<Close><End of Block>
+<TextBlock 27 w:12 h:1>
+<Opcode 1 255>Shevat<Close><End of Block>
+<TextBlock 28 w:12 h:1>
+<Opcode 1 255>Thames<Close><Close><End of Block>

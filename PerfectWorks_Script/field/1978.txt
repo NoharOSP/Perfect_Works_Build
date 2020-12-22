@@ -1,0 +1,123 @@
+<TextBlock 1 w:50 h:4>
+There may be a few things
+we can do.<New>
+But I've been a soldier
+all my life.<New>
+I can't sit still as
+long as there are
+people to protect and
+enemies to fight.<Close><End of Block>
+<TextBlock 2 w:54 h:5>
+...It's a different system
+from what humans have been
+creating. In other words,
+it should be called a
+machine made by non-humans.<Opcode 2 60><Close><End of Block>
+<TextBlock 3 w:52 h:4>
+It wasn't made by humans.
+That I can see. But what I
+want to know is if it's a
+machine to begin with.<Opcode 2 60><Close><End of Block>
+<TextBlock 4 w:52 h:5>
+It doesn't matter whether
+it's a machine or a
+creature. Nothing can't be
+broken. The question is
+how we can damage it.<Opcode 2 60><Close><End of Block>
+<TextBlock 5 w:38 h:4>
+Be quiet!<Delay 30>
+Sister!<Delay 30>
+Please take the
+children elsewhere.<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+You want the children to
+stand in the cold hallway!?<Delay 50>
+This is the warmest room.
+Why can't they stay here?<Close><End of Block>
+<TextBlock 7 w:44 h:3>
+We're having a very
+important meeting.
+They're disturbing us.<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Please don't get so upset.<Delay 50>
+I really appreciate that
+you're trying to protect
+us.<New>
+But you know those people
+are the only ones who can 
+change our fate...<Delay 50>
+don't you?<Close><End of Block>
+<TextBlock 9 w:54 h:2>
+Really, how can we fight
+against an enemy like that?<Close><End of Block>
+<TextBlock 10 w:56 h:4>
+You think it's just going to
+sit there while we gather
+all of Aveh's and Kislev's
+armies...?<Close><End of Block>
+<TextBlock 11 w:46 h:2>
+I'm prepared to protect
+everyone here.<Close><End of Block>
+<TextBlock 12 w:44 h:3>
+I want to help people.
+But all I know how to
+do is fight.<Close><End of Block>
+<TextBlock 13 w:54 h:3>
+I had doubts about fighting
+before, but not about
+protecting the people here.<Close><End of Block>
+<TextBlock 14 w:50 h:1>
+If we had more weapons...<Close><End of Block>
+<TextBlock 15 w:48 h:1>
+We gotta do what we can.<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+The children are annoying,
+but, they're the reason
+why I'm here.<Close><End of Block>
+<TextBlock 17 w:52 h:2>
+Kids are all the same
+in Kislev, Aveh and Nisan.<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+We both no longer have
+anything to lose.<New>
+Do as you wish.<Delay 60>
+I hope you'll have
+help from heaven.<Close><End of Block>
+<TextBlock 19 w:50 h:3>
+Now more than ever I feel
+as if each child is very
+important.<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+This is the first time
+I've seen snow.<New>
+It's so light and white,
+and a beautiful pattern
+appears for an instant
+then it melts on my palm.<New>
+It's amazing...<Close><End of Block>
+<TextBlock 21 w:54 h:1>
+I wanna see my mom and dad.<Close><End of Block>
+<TextBlock 22 w:36 h:2>
+What is it?
+Can I do that too?<Close><End of Block>
+<TextBlock 23 w:44 h:2>
+Her outfit is so cute,
+isn't it?<Close><End of Block>
+<TextBlock 24 w:48 h:3>
+My grandma made this for
+my mom when she was a
+child. It's really warm.<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Good luck to you too.<Delay 30>
+I...<Delay 10>will protect these
+people, so don't worry.<Close><End of Block>
+<TextBlock 26 w:38 h:2>
+Uh...<Delay 30>I'll play with
+the sister.<Delay 30><Close><End of Block>
+<TextBlock 27 w:34 h:3>
+I am Yggdrasil X!
+Come on! Catch me
+if you can!<Opcode 2 60><Close><End of Block>
+<TextBlock 28 w:38 h:2>
+Hey!
+Give my candy back!<Opcode 2 60><Close><End of Block>

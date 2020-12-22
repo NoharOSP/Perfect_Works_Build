@@ -1,0 +1,379 @@
+<TextBlock 1 w:44 h:4>
+Rico
+"If you're looking for
+Citan, he was at the
+Gear Shop..."<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+<Chu-Chu>
+"I'm exhauschued chu!<Delay 10>
+Since you're here...<Delay 10>
+I'd like a massage!!<New>
+Just kidding..."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+<Chu-Chu>
+"Elly, she was so kind...
+I know I'm not the only
+one chu miss her.<New>
+I know Bart, Margie,
+Billy, Citan, Rico,
+Maria, Emeralda, and
+Fei all do chu...<New>
+Although they don't say
+it, I can feel it...
+Standing here, I remember
+her kind and gentle smile.<New>
+Elly will return, won't
+she?"<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Fei
+"...
+Thanks, <Chu-Chu>...<New>
+Thanks for trying to
+reduce all this tension
+in the air for me.<Delay 5>
+I'll remember this...<New>
+Anyway...<Delay 5>
+Elly's gotta be alive!
+Right?"<Close><End of Block>
+<TextBlock 5 w:18 h:2>
+<Chu-Chu>
+"Fei..."<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+Fei
+"Let's go back to the room.
+Margie seemed worried."<Close><End of Block>
+<TextBlock 7 w:30 h:3>
+<Chu-Chu>
+"Okay.
+I'll come chu!"<Close><End of Block>
+<TextBlock 8 w:48 h:5>
+What do you want to do?
+<Opcode 1 255>    View Gear from here
+    View Gear from front
+    Hear lowdown on Gear
+    Nothing<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+This is <Stier>.
+It's the Battling Champ,
+Rico's Gear.<New>
+Height 19 sharls
+Base Weight 20.8 kahnns
+Full Weight 27.5 kahnns<New>
+Although it appears slow,
+it's actually quite nimble
+with the Grind-rollers.<New>
+Since it's built for
+Battling, it's got the
+best endurance.<New>
+The Drillclaw on the left
+arm has the ability to tear
+through steel plates of up
+to 0.8 sharls.<Close><End of Block>
+<TextBlock 10 w:60 h:4>
+This is <Stier-2>.
+It is Rico's Gear.<New>
+Height 19.2 sharls
+Base Weight 22.2 kahnns
+Full Weight 26.7 kahnns<New>
+Like the other Omnigears,
+it was at one point an Anima
+Relic absorbed by Deus and
+deactivated...<New>
+However, using the data taken
+from Xenogears as a base, the
+sages of Shevat, Balthasar
+and Mechior, reconstructed it.<New>
+Thanks to that, its
+capabilities have increased
+compared to the prior version.<New>
+Its standard weapon is the
+same as it was before its
+reconstruction.<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+This is <Vierge>.
+It's the Gear for that
+girl from Solaris.<New>
+Height 15.7 sharls
+Base Weight 10.2 kahnns
+Full Weight 14.7 kahnns<New>
+The frame along with the
+armor have been minimized
+for reduced weight.<New>
+But within all that lies
+the impressive technology
+of Solaris.<New>
+It's a lot more resistant
+to damage than what its
+appearance suggests.<New>
+Rather than physical
+damage, it's more
+specialized for Ether
+attacks.<New>
+This is especially so with
+the tail stabilizers and
+equipped side skirts which
+are used...<New>
+...for the explosively
+damaging Ether guidance
+weapons, 'Aerods'.<New>
+It basically reflects
+that young lady's Ether
+power directly.<Close><End of Block>
+<TextBlock 12 w:46 h:3>
+<Renmazuo>
+It is Billy's Gear.<New>
+Height 15.9 sharls
+Base Weight 11.6 kahnns
+Full Weight 16.1 kahnns<New>
+It's still under
+investigation so I
+don't know the details.<Close><End of Block>
+<TextBlock 13 w:52 h:5>
+<Renmazuo>
+This is Billy's Gear.<New>
+Height 15.9 sharl
+Base Weight 11.6 kahnns
+Full Weight 16.1 kahnns<New>
+Although on the outside
+it looks like an 'Ethos'
+-type Gear, inside, it
+is entirely Solaris-type.<New>
+Since it's for Etone use,
+that Stone character most
+likely brought it here
+directly after its
+creation in Solaris.<New>
+But, because of that,
+its capabilities are
+really impressive.<New>
+Especially those anti-Wels
+Revolver Cannons equipped
+in both arms.
+They are very destructive.<New>
+An average Gear would be
+junk after taking one hit.<Close><End of Block>
+<TextBlock 14 w:60 h:4>
+<Renmazuo2>
+This is Billy's Gear.<New>
+Height 18.8 sharl
+Base Weight 14.9 kahnns
+Full Weight 19.3 kahnns<New>
+Like the other Omnigears it
+was at one point an Anima
+Relic that was absorbed by
+Deus and thus deactivated.<New>
+However, using the data taken
+from Xenogears as a base, the
+sages of Shevat, Balthasar and
+Mechior could reconstruct it.<New>
+Thanks to that, its
+capabilities have increased
+compared to the prior version.<New>
+The standard weapon is the
+same as before reconstruction.
+Billy's father's Buntline
+Cannon can still be used too.<Close><End of Block>
+<TextBlock 15 w:54 h:5>
+<Crescens>
+It's Emeralda's Gear.<New>
+Height 15.4 sharl
+Base Weight 9.7 kahnns
+Full Weight 13.3 kahnns<New>
+This Gear's controls are
+quite unique.<New>
+The colony of nanomachines
+from Emeralda's body
+physically merges with the
+Gear for direct control.<New>
+Theoretically, this Gear
+shouldn't require repairs
+but it seems they don't try
+to repair anything except
+Emeralda herself.<New>
+So, we're left with no
+other choice but to have
+to maintain the Gear.<New>
+The surface hovering and
+flight capabilties are
+quite impressive.<Close><End of Block>
+<TextBlock 16 w:38 h:4>
+This is...
+huh, <Chu-Chu>!?
+What in the world
+are you doing here!<New>
+You don't need any
+maintenance work!!<New>
+You're in the way!
+Go eat some food
+and take a nap or
+sumthin'!<Close><End of Block>
+<TextBlock 17 w:48 h:3>
+Change this Gear's name?
+    Yes
+    Not now<Close><End of Block>
+<TextBlock 18 w:42 h:4>
+Hmm, <Chu-Chu> isn't
+exactly an object.
+There's nothing I can
+do for you there.<Close><End of Block>
+<TextBlock 19 w:32 h:2>
+Bart
+"Y, you know..."<Close><End of Block>
+<TextBlock 20 w:12 h:2>
+Bart
+"Hey?"<Close><End of Block>
+<TextBlock 21 w:6 h:1>
+...<Opcode 2 30><Close><End of Block>
+<TextBlock 22 w:54 h:3>
+Bart
+"Quit the silent treatment!<Delay 10>
+I came here to apologize!"<Close><End of Block>
+<TextBlock 23 w:44 h:3>
+Rico
+"...<New>
+What's your problem!?
+I thought I dealt with
+you a while ago.<New>
+I'm not the type to
+dwell on the past."<Close><End of Block>
+<TextBlock 24 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Rico
+"I'm more concerned about
+those two Gears there...<Delay 10>
+Who the hell are you?<New>
+I'm amazed you tune them
+to run so well!<New>
+I thought Fei and I were
+the only ones who could
+work Gears that well..."<Close><End of Block>
+<TextBlock 26 w:46 h:4>
+Bart
+"Wow you really are the
+Battling Champ... <Delay 5>Oops,<Delay 5>
+I mean ex-Champ...<New>
+I'm amazed how you can
+tell how good a Gear is
+just by looking at it."<Close><End of Block>
+<TextBlock 27 w:54 h:4>
+Rico
+"I guess you can't learn
+all about the world inside
+a dark prison.<New>
+Really interesting.<Delay 10>
+I was gonna move on but
+now I've changed my mind...<Delay 10>
+Let me join you,<Delay 5> boss."<Close><End of Block>
+<TextBlock 28 w:50 h:2>
+Bart
+"I guess it's alright..."<Close><End of Block>
+<TextBlock 29 w:46 h:2>
+I thought it was about
+time for you to come...<Close><End of Block>
+<TextBlock 30 w:42 h:4>
+Elly
+"It's no use trying
+to stop me.<New>
+Even if it is you,
+if you get in my way,
+I have no choice but
+to...!!"<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Citan
+"That is no way for a lady
+to speak.<Delay 10> I just came here
+to see you off."<Close><End of Block>
+<TextBlock 32 w:2 h:1>
+?<Opcode 2 20><Close><End of Block>
+<TextBlock 33 w:50 h:4>
+Citan
+"I refueled <Weltall>.<Delay 10>
+We are ready to go
+anytime."<Close><End of Block>
+<TextBlock 34 w:22 h:2>
+Elly
+"...Citan."<Close><End of Block>
+<TextBlock 35 w:50 h:4>
+Citan
+"...But,<Delay 10> Elly,<Delay 10> you cannot
+use your Gear while it is
+under repairs."<Close><End of Block>
+<TextBlock 36 w:52 h:2>
+Elly
+"What?<Delay 10> Then<Delay 10> what am I...?"<Close><End of Block>
+<TextBlock 37 w:52 h:3>
+Citan
+"You know that Omnigear...<Delay 10>
+What if you borrow it..."<Close><End of Block>
+<TextBlock 38 w:44 h:4>
+Fei
+"No way.<Delay 10> I can't take
+Shevat's property
+without permission..."<Close><End of Block>
+<TextBlock 39 w:36 h:4>
+Citan
+"Elly is the only
+appropriate person
+for the Gear.<New>
+Nobody else can
+operate it."<Close><End of Block>
+<TextBlock 40 w:10 h:1>
+No...<Close><End of Block>
+<TextBlock 41 w:48 h:3>
+Elly
+"Never!!
+I won't ride it, ever!!"<Close><End of Block>
+<TextBlock 42 w:28 h:3>
+Fei
+"Elly...?<Delay 10>
+What's wrong?"<Close><End of Block>
+<TextBlock 43 w:44 h:4>
+Elly
+"I'm so scared...<Delay 20>
+That's why...<Delay 10> I'll
+never want to do it!!"<Close><End of Block>
+<TextBlock 44 w:44 h:2>
+Citan
+"This is a problem..."<Close><End of Block>
+<TextBlock 45 w:28 h:2>
+How about if I
+ride with you?<Close><End of Block>
+<TextBlock 46 w:28 h:2>
+Fei
+"Everyone...?"<Close><End of Block>
+<TextBlock 47 w:28 h:2>
+Bart
+"Sorry...<Delay 10>Fei."<Close><End of Block>
+<TextBlock 48 w:28 h:2>
+Billy
+"I'm sorry..."<Close><End of Block>
+<TextBlock 49 w:20 h:2>
+Margie
+"Sorry..."<Close><End of Block>
+<TextBlock 50 w:36 h:3>
+Fei
+"No...<Delay 10>
+Thanks, everyone."<Close><End of Block>
+<TextBlock 51 w:48 h:4>
+Citan
+"Now, I know you hate to
+leave, but we should get
+going before dawn.<New>
+I did some work on the
+radar, so it
+should work fine!"<Close><End of Block>
+<TextBlock 52 w:44 h:2>
+Citan
+"...They have left..."<Close><End of Block>
+<TextBlock 53 w:32 h:2>
+Emeralda
+"Fei<Delay 5>...<Delay 10>where<Delay 5>..."<Close><End of Block>
+<TextBlock 54 w:42 h:2>
+Citan
+"They went far away."<Close><End of Block>
+<TextBlock 55 w:22 h:2>
+Emeralda
+"I<Delay 5>...<Delay 10>go<Delay 5>..."<Close><End of Block>
+<TextBlock 56 w:0 h:1>
+<Close><End of Block>

@@ -1,0 +1,109 @@
+<TextBlock 1 w:28 h:2>
+Elly
+"It's dark..."<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+Elly
+"What's that weird smell?"<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+Elly
+"Scared?"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Elly
+"Wels?
+By the way Billy, do
+you have any equipment?"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Elly
+"You mean you don't fight
+physically? How strange."<Close><End of Block>
+<TextBlock 6 w:30 h:2>
+Citan
+"It is dark..."<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+Citan
+"What is that odor?"<Close><End of Block>
+<TextBlock 8 w:28 h:2>
+Citan
+"Is it scary?"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Citan
+"Wels?
+Billy are you equipped
+for this?"<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Citan
+"You say you do not fight
+physically? How rare."<Close><End of Block>
+<TextBlock 11 w:28 h:2>
+Bart
+"It's dark..."<Close><End of Block>
+<TextBlock 12 w:52 h:2>
+Bart
+"Woo, something stinks..."<Close><End of Block>
+<TextBlock 13 w:18 h:2>
+Bart
+"Scared?"<Close><End of Block>
+<TextBlock 14 w:32 h:4>
+Bart
+"Wels?
+So Billy, do you
+have equipment?"<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Bart
+"You don't fight hand to
+hand? You're a rare one."<Close><End of Block>
+<TextBlock 16 w:28 h:2>
+Rico
+"It's dark..."<Close><End of Block>
+<TextBlock 17 w:52 h:2>
+Rico
+"What's that nasty smell?"<Close><End of Block>
+<TextBlock 18 w:18 h:2>
+Rico
+"Scared?"<Close><End of Block>
+<TextBlock 19 w:34 h:4>
+Rico
+"Wels?
+Hey, Billy do you
+have equipment?"<Close><End of Block>
+<TextBlock 20 w:52 h:3>
+Rico
+"You don't fight with your
+fists? That's rare."<Close><End of Block>
+<TextBlock 21 w:38 h:2>
+Light on.
+Opened door-lock A.<Close><End of Block>
+<TextBlock 22 w:32 h:3>
+Billy
+"Shall we return
+to Yggdrasil?"<New>
+    Go back
+    Stay<Close><End of Block>
+<TextBlock 23 w:18 h:1>
+A locked.<Close><End of Block>
+<TextBlock 24 w:44 h:3>
+Billy
+"This unusual smell is
+that of the Wels.<New>
+It sure looks like 
+they attacked..."<Close><End of Block>
+<TextBlock 25 w:46 h:4>
+Billy
+"One more thing.
+On the room's middle
+wall is a red switch.<New>
+Push the switch to turn
+on the lights."<Close><End of Block>
+<TextBlock 26 w:30 h:4>
+Billy
+"...<Delay 30>
+No...<Delay 30>
+Just a little."<Close><End of Block>
+<TextBlock 27 w:40 h:1>
+The door won't open.<Close><End of Block>
+<TextBlock 28 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 29 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

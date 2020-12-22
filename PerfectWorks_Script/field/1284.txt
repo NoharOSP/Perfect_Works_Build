@@ -1,0 +1,209 @@
+<TextBlock 1 w:36 h:3>
+Fei
+"Can't we go into 
+the cathedral?"<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Elly
+"Can't we go into 
+the cathedral?"<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Elly
+"It's no use...
+He can't survive
+with those wounds."<Close><End of Block>
+<TextBlock 4 w:28 h:3>
+Elly
+"It's possible
+with him."<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Citan
+"Are we not allowed
+inside the cathedral?"<Close><End of Block>
+<TextBlock 6 w:36 h:3>
+Citan
+"...Unfortunately,
+he passed away."<Close><End of Block>
+<TextBlock 7 w:52 h:2>
+Citan
+"It is possible with him."<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Bart
+"Can't we go into 
+the cathedral?"<Close><End of Block>
+<TextBlock 9 w:22 h:3>
+Bart
+"Forget it.
+He's dead."<Close><End of Block>
+<TextBlock 10 w:50 h:2>
+Bart
+"It's possible with him."<Close><End of Block>
+<TextBlock 11 w:52 h:3>
+Billy
+"T,<Delay 10> this is<Delay 10>...!
+What<Delay 10>, what happened here?"<Close><End of Block>
+<TextBlock 12 w:34 h:3>
+Billy
+"Are you alright?<Delay 10>
+What happened?"<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Billy
+"Hey, <Delay 20>hang in there!<Delay 10>
+Hey!"<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Billy
+"Why...<Delay 10>
+Why did this happen?<New>
+<Delay 10>...<Delay 10>...<Delay 10>...<Delay 10>...
+...This is...?"<Close><End of Block>
+<TextBlock 15 w:44 h:4>
+Billy
+"This is father's
+shell casing<Delay 10>...<New>
+Dammit... Don't tell
+me he stormed into the
+'Ethos' headquarters
+in desperation?"<Close><End of Block>
+<TextBlock 16 w:46 h:3>
+Rico
+"Guess we can't get in 
+the cathedral."<Close><End of Block>
+<TextBlock 17 w:48 h:2>
+Rico
+"I guess it's too late."<Close><End of Block>
+<TextBlock 18 w:40 h:2>
+Rico
+"I can't deny that."<Close><End of Block>
+<TextBlock 19 w:54 h:3>
+Billy
+"The infirmary is this way.
+Let's go."<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+Billy
+"We have been waiting
+for you.<New>
+I received permission
+to treat Fei so long as
+it is in the practice
+hall's infirmary.<New>
+Let us 'Ethos' staff
+take care of the rest."<Close><End of Block>
+<TextBlock 21 w:54 h:3>
+Elly
+"Please,
+take care of Fei for me<Delay 4>..."<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Billy
+"The brothers from the
+'Ethos' are looking after
+Fei in the infirmary.<New>
+Let me take you there.
+Please follow me,<Delay 15>
+this way."<Close><End of Block>
+<TextBlock 23 w:22 h:2>
+Billy
+"This way."<Close><End of Block>
+<TextBlock 24 w:10 h:2>
+Billy
+"..."<Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Billy
+"We are father and son in
+blood only!<Delay 10> I have nothing
+to do with that man<Delay 5>..."<Close><End of Block>
+<TextBlock 26 w:52 h:4>
+Billy
+"...<Delay 10>That father of mine...<Delay 10>
+I wish he'd think about my
+position before acting."<Close><End of Block>
+<TextBlock 27 w:42 h:4>
+Verlaine
+"Billy, I hear your
+father has been
+rather active again."<Close><End of Block>
+<TextBlock 28 w:54 h:5>
+Verlaine
+"It is said that there was
+an attack on an excavation
+site which injured many of
+my 'brothers' and workers."<Close><End of Block>
+<TextBlock 29 w:52 h:5>
+Verlaine
+"Well, you're such a fine
+Etone - destroying Reapers
+and proving the justice of
+the 'Ethos' to the world.<New>
+But your father is..."<Close><End of Block>
+<TextBlock 30 w:40 h:4>
+Verlaine
+"Don't get me wrong.
+I don't suspect you,
+our good 'brother'.<New>
+I just wanted to
+inform you about
+your father."<Close><End of Block>
+<TextBlock 31 w:48 h:3>
+This is a practice hall.
+This facility was built 
+for us Etone.<Close><End of Block>
+<TextBlock 32 w:54 h:5>
+No.
+Only 'Ethos' members or
+those with known identities
+can enter the cathedral
+and its related facilities.<New>
+The same thing applies to
+this practice hall, but the
+bishop made an exception
+for brother Billy.<Close><End of Block>
+<TextBlock 33 w:22 h:1>
+B, <Delay 20>Billy<Delay 10>...<Close><End of Block>
+<TextBlock 34 w:68 h:2>
+I<Delay 10> don't know<Delay 10>...<Delay 10>...
+Suddenly, <Delay 10>I heard a gun shot<Delay 20>...<Delay 30>...<Delay 50><Close><End of Block>
+<TextBlock 35 w:42 h:2>
+True faith comes from
+a stern doctrine.<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+The peace and order here
+in Aquvy is getting worse
+day by day.<New>
+Saving people who have
+nowhere else to turn...<Delay 15>
+This too is a duty of
+the 'Ethos'.<Close><End of Block>
+<TextBlock 37 w:46 h:4>
+Many people visit the 
+'Ethos' to get help.
+...They're the same as 
+us Etone.<New>
+We also came to the
+'Ethos' with hearts 
+filled with sorrow.<Close><End of Block>
+<TextBlock 38 w:52 h:4>
+The 'Ethos' was created
+to save people--
+to save people's souls and
+revive lost technology.<New>
+We wish happiness to all
+the people of the world.<Close><End of Block>
+<TextBlock 39 w:46 h:3>
+I used to live in Aveh,
+but I lost my house in
+the war with Kislev.<New>
+The 'Ethos' accepted
+me as a believer.
+This is my home now.<Close><End of Block>
+<TextBlock 40 w:46 h:3>
+Reapers destroyed my
+village...<New>
+I'll become an Etone
+and create a world with
+no hardships!<Close><End of Block>
+<TextBlock 41 w:38 h:2>
+Da--dd--y.
+Where did mommy go?<Close><End of Block>
+<TextBlock 42 w:40 h:4>
+We don't know Fei's 
+condition yet.<Delay 30>
+... Let's stay here
+a little longer.<Close><Close><End of Block>

@@ -1,0 +1,149 @@
+<TextBlock 1 w:42 h:3>
+Citan
+"Everyone, over here!
+Hurry!"<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Hammer
+"Master, there're people
+over there that can't get
+out! We're doomed!"<Close><End of Block>
+<TextBlock 3 w:52 h:5>
+Citan
+"Don't give up, Hammer!
+Fei is fighting too!<New>
+Fei<Delay 10>...<Delay 10>no longer wants to
+watch innocent people lose
+their homes, their town,
+those that are important
+to them..."<Close><End of Block>
+<TextBlock 4 w:18 h:3>
+Rico
+"My<Delay 10>...<Delay 10>
+<Delay 10>...<Delay 10>town?"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Rico
+"Hmph, don't make me laugh.
+Who gives a damn about this
+crap town..."<Close><End of Block>
+<TextBlock 6 w:46 h:2>
+Even you must have
+things left to do here!<Close><End of Block>
+<TextBlock 7 w:22 h:3>
+Rico
+"...<Delay 10>...<Delay 10>I'm,<Delay 10>
+crap too."<Close><End of Block>
+<TextBlock 8 w:22 h:2>
+Fei
+"Let's go!"<Close><End of Block>
+<TextBlock 9 w:14 h:3>
+Elly
+"Ouch! 
+What?"<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+Fei
+"Just come!"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Fei
+"Look at this town!
+Take a good long look! 
+This is what you've done?<New>
+Does the word, 'duty'
+justify all of this?
+Does it!?<Close><End of Block>
+<TextBlock 12 w:14 h:2>
+Fei
+"Elly!"<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Elly
+"But that's all that
+was left!"<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Fei
+"You're still saying
+that?"<Close><End of Block>
+<TextBlock 15 w:52 h:3>
+Fei
+"...<Delay 15>...<Delay 15>
+It's just not like you.<New>
+If you don't want to then 
+don't do it.<New>
+You shouldn't have to 
+force it just to have a
+place to belong..."<Close><End of Block>
+<TextBlock 16 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Fei
+"What was I fighting
+you for just now?
+...<Delay 10>...<Delay 10>You wanted to know?<New>
+I don't really know. I
+know I was helping Bart
+and the others.<New>
+But I still don't know
+what I should do.
+Maybe I'm just looking
+for a place to fit in.<New>
+But I think it's better
+to fight than do nothing.
+If fighting helps you or
+your friends even a bit,<New>
+then it's worthwhile. 
+That's<Delay 10>...<Delay 10>...<Delay 10>
+not nothing.<Delay 10>
+...<Delay 10>...<Delay 10>it's something."<Close><End of Block>
+<TextBlock 18 w:12 h:2>
+Elly
+"Fei!"<Close><End of Block>
+<TextBlock 19 w:24 h:2>
+Fei
+"I'm going."<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Elly
+"No! You can't! 
+Dominia is not like
+the other soldiers!<New>
+She is an elite within
+the Gebler elite.
+She's one of the Elements,
+Ramsus' personal guard!<New>
+You won't stand a chance!"<Close><End of Block>
+<TextBlock 21 w:36 h:3>
+Fei
+"Still, I have to 
+stop this."<Close><End of Block>
+<TextBlock 22 w:16 h:2>
+Elly
+"Fei..."<Close><End of Block>
+<TextBlock 23 w:48 h:4>
+Fei
+"Citan and Hammer
+have nothing to do
+with Kislev...<New>
+but they're trying
+desperately to get the
+civilians to safety.<New>
+Even Rico, who must hate
+this town, still stays
+with me. That's why I
+have to go."<Close><End of Block>
+<TextBlock 24 w:16 h:2>
+Elly
+"Fei..."<Close><End of Block>
+<TextBlock 25 w:30 h:3>
+Save your data?<Delay 30>
+    Save
+    Don't save<Close><End of Block>
+<TextBlock 26 w:22 h:3>
+Resume?<Delay 30>
+    Wait
+    Resume <Delay 15><Close><End of Block>
+<TextBlock 27 w:38 h:3>
+    Go to the menu?
+    Member change
+    Resume <Delay 15><Close><End of Block>
+<TextBlock 28 w:22 h:3>
+Resume?<Delay 30>
+    Wait
+    Resume <Delay 15><Close><Close><End of Block>

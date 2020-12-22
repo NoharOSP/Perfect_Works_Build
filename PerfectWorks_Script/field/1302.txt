@@ -1,0 +1,12 @@
+<TextBlock 1 w:50 h:2>
+Billy, we got beat. They
+just attacked suddenly...<Close><End of Block>
+<TextBlock 2 w:40 h:2>
+Heh, heh, heh.
+Here comes our prey.<Close><End of Block>
+<TextBlock 3 w:28 h:2>
+Heh, heh, heh.
+Kill it!!<Close><End of Block>
+<TextBlock 4 w:36 h:2>
+Heh, heh, heh.
+This could be fun!<Close><Close><End of Block>

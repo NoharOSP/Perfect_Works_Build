@@ -1,0 +1,214 @@
+<TextBlock 1 w:50 h:4>
+Ramsus
+"Cancel the alert status.
+Begin repairs and
+resupply immediately."<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Miang
+"The Prime Minister and
+General Vanderkaum are here
+to see you, Commander."<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Ramsus
+"Hmph, what a
+dismal welcome."<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Miang
+"What do you expect?
+We're on the 'surface'."<Close><End of Block>
+<TextBlock 5 w:26 h:3>
+Ramsus
+"Miang, let's
+disembark."<Close><End of Block>
+<TextBlock 6 w:22 h:2>
+Miang
+"Yes, sir."<Close><End of Block>
+<TextBlock 7 w:58 h:3>
+We have the coordinates
+of those recent
+dimensional vibrations.<New>
+N24, E92, Ignas, in the
+Lahan region, the
+northeast ocean.<New>
+From the wave pattern,
+it's definitely a Gatekeeper.<Close><End of Block>
+<TextBlock 8 w:40 h:2>
+There are no regular
+mainland flights.<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Ramsus
+"Could it be Shevat's
+Aphel Aura?"<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+No. The mass is
+different. It's a much
+smaller pattern.<Close><End of Block>
+<TextBlock 11 w:42 h:4>
+I can't believe that
+the Lambs have a ship
+equipped with a
+Gatekeeper. <Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Ramsus
+"It probably is Kislev's.
+The last purge was not 
+complete."<Close><End of Block>
+<TextBlock 13 w:26 h:2>
+Ramsus
+"Damn you..."<Close><End of Block>
+<TextBlock 14 w:46 h:2>
+Grahf
+"Shouldn't you pursue?"<Close><End of Block>
+<TextBlock 15 w:14 h:2>
+Ramsus
+"What?"<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+Grahf
+"The one who caused
+you so much pain and 
+grief is on that ship.<New>
+And it's headed for
+Aquvy."<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Ramsus
+"Put all the crew members
+on emergency alert. We're
+attacking the Kislev ship."<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Miang
+"We can't, Commander!
+We don't have orders 
+from the capital yet.<New>
+If we move from here..."<Close><End of Block>
+<TextBlock 19 w:36 h:4>
+Ramsus
+"I don't care!
+I won't allow them
+to escape!"<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+We will take the boundary
+between gates 1 and 2,
+it's the shortest way to
+Aquvy.<Close><End of Block>
+<TextBlock 21 w:14 h:2>
+Ramsus
+"Fine."<Close><End of Block>
+<TextBlock 22 w:44 h:4>
+Message from Kelvena.<New>
+Dominia is withdrawing
+in Haishao. She will
+pursue the aerial
+battleship.<Close><End of Block>
+<TextBlock 23 w:40 h:4>
+Dimensional 
+vibrations, level 8!
+A huge formation is 
+coming this way!<Close><End of Block>
+<TextBlock 24 w:46 h:4>
+Miang
+"Here is the engagement
+report between Haishao
+and the enemy Gear."<Close><End of Block>
+<TextBlock 25 w:30 h:3>
+Ramsus
+"!!
+This is the..."<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Miang
+"I'm sure of it.<New>
+It's currently at Thames.
+If not, somewhere in the
+ocean nearby."<Close><End of Block>
+<TextBlock 27 w:38 h:3>
+Ramsus
+"Change course!
+Head for Thames..."<Close><End of Block>
+<TextBlock 28 w:48 h:4>
+Miang
+"Wait. Their mother ship
+Yggdrasil seems to be
+able to submerge.<New>
+If they submerge,
+they'll have the upper
+hand on Haishao.<New>
+Any attack we might make
+would just be wasted
+since they could
+simply dive.<New>
+But if we eliminate that
+function first, it's
+still not too late.<New>
+I've already made the
+proper 'arrangements'."<Close><End of Block>
+<TextBlock 29 w:30 h:2>
+Ramsus
+"Arrangements?"<Close><End of Block>
+<TextBlock 30 w:22 h:2>
+Miang
+"Yes, sir."<Close><End of Block>
+<TextBlock 31 w:46 h:3>
+Ramsus
+"All right.
+We'll try it your way."<Close><End of Block>
+<TextBlock 32 w:46 h:2>
+Miang
+"Thank you, Commander."<Close><End of Block>
+<TextBlock 33 w:48 h:4>
+Ramsus
+"By the way... What
+happened between you and
+Dominia? She was livid."<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Miang
+"I'm sorry. It had to
+do with that Yggdrasil
+incident earlier.<New>
+Those girls work hard.
+Especially for you...
+It's my job to be hated."<Close><End of Block>
+<TextBlock 35 w:32 h:3>
+Ramsus
+"Out of the way!<Delay 30>
+Let me through!<New>
+That bastard!<Delay 30>
+I'll hunt him
+out myself...!"<Close><End of Block>
+<TextBlock 36 w:36 h:3>
+Kelvena
+"Please calm down,
+Commander!"<Close><End of Block>
+<TextBlock 37 w:42 h:3>
+Tolone
+"We'll take care of
+him and his friends!"<Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Ramsus
+"What could you fools do?
+Imbeciles!<Delay 50>
+Only I can beat him!<New>
+Only I, who transcends
+all other humans, can
+possibly take him down!"<Close><End of Block>
+<TextBlock 39 w:16 h:2>
+Ramsus
+"Move!!"<Opcode 2 50><Close><End of Block>
+<TextBlock 40 w:22 h:3>
+Dominia
+"Commander!
+Wait!!!"<Close><End of Block>
+<TextBlock 41 w:28 h:2>
+Begin docking 
+procedure. <Opcode 2 50><Close><End of Block>
+<TextBlock 42 w:26 h:1>
+Hull secure. <Opcode 2 50><Close><End of Block>
+<TextBlock 43 w:26 h:1>
+Hull secure. <Opcode 2 50><Close><End of Block>
+<TextBlock 44 w:38 h:2>
+Hull, all sections 
+secure. <Opcode 2 50><Close><End of Block>
+<TextBlock 45 w:36 h:1>
+Docking complete. <Opcode 2 50><Close><End of Block>
+<TextBlock 46 w:42 h:3>
+Gravity distribution
+normal. Shutting down
+propulsion system. <Opcode 2 50><Close><End of Block>

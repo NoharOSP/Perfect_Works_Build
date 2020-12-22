@@ -1,0 +1,72 @@
+<TextBlock 1 w:50 h:4>
+15 years ago, in the
+Empire, there was a great
+riot. There were many
+casualties<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Ricardo was one of the
+many casualties<Delay 5>...<Delay 5><New>
+He had a lot of friends
+but most were lost in
+that great riot.<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+It was said that the cause
+of the riot was due to the
+friction between the
+'Ethos' and the Kaiser.<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+During the riot in the
+Empire, homes and families
+were lost<Delay 5>...<Delay 5><New>
+Those fragmented memories
+still remain as scars to
+many of the children.<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+The only thing brought
+about by war are wasted
+lives that only act as
+reparations for the<New>
+destruction.<Delay 30> What is
+there to gain in a world
+wrought with
+destruction<Delay 5>...<Delay 5>We, the<New>
+people, stand upon a long
+history of conflict and
+war<Delay 5>...<Delay 30>Is it but only an
+illusionary world where<New>
+we may all embrace each
+other and live in a world
+of cooperation?<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+<Delay 5>...<Delay 5>Sob.<Delay 10>I<Delay 5> wish I could
+go outside<Delay 5>...<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Um,<Delay 5> did you see my
+brother outside?<Delay 15> I'm<Delay 5>...<Delay 5>
+always the one left
+behind.<Delay 15> They won't play<New>
+with me. They say it's
+too dangerous for me to
+go outside<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 8 w:44 h:3>
+This place<Delay 5>...?<Delay 5>
+It's a Nisan facility.
+Who are you?<Close><End of Block>
+<TextBlock 9 w:48 h:5>
+I'm<Delay 5>...<Delay 5>not lonely...<Delay 5>
+Even without a mother or
+father...<Delay 15>I have a lot of
+friends here.<Delay 15> Even the
+sisters...<Delay 5>Sob...<Delay 5><Close><End of Block>
+<TextBlock 10 w:48 h:3>
+The fire<Delay 10> enveloped
+everyone.<Delay 15> Papa,<Delay 5> mama,<Delay 5> my
+home<Delay 5>...everything.<Delay 30> <New>
+I don't know<Delay 5>...after
+that...<Delay 5>I was here.<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+I hate<Delay 5>...<Delay 5>fire,<Delay 5> I hate
+everyone<Delay 5>...<Delay 5> Papa and mama
+were<Delay 5>...<Delay 5>eaten by the fire!<New>
+Water<Delay 5>...<Delay 5>if there were
+only lots of water<Delay 5>...<Close><Close><End of Block>

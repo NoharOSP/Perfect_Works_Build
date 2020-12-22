@@ -1,0 +1,180 @@
+<TextBlock 1 w:20 h:2>
+Fei
+"Ramsus!?"<Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Fei
+"Ramsus!!"<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Bart
+"Fei, sorry we're late.<Delay 20>
+Our Omnigears broke down.<New>
+Anyway, let's hurry up
+and save Elly!"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Rico
+"Too bad we missed the
+action.<Delay 20> Our Omnigears
+gave out on the way here.<New>
+Anyways...
+Let's hurry up and save
+Elly!"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Citan
+"Forgive us for being late.
+My Omnigear gave out on the
+way in here.<New>
+Well, anyway, let us hurry
+and save Elly!"<Close><End of Block>
+<TextBlock 6 w:42 h:4>
+Billy
+"I am sorry!
+My Omnigear broke
+down on the way here.<New>
+Now, we better help
+Elly down before it's
+too late!"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+<Chu-Chu>
+"Didn't mean chu make you
+wait. Now let's go take
+down the big cheese.<New>
+But first, we have chu
+save Elly!"<Close><End of Block>
+<TextBlock 8 w:16 h:2>
+Fei
+"Elly!!"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Fei
+"What are you talking
+about!?<Delay 20> Why does Elly
+have to be sacrificed!?"<Close><End of Block>
+<TextBlock 10 w:12 h:2>
+Fei
+"Ah!?"<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:20 h:2>
+Fei
+"Ramsus!?"<Close><End of Block>
+<TextBlock 12 w:28 h:2>
+Fei
+"Yes, I know!"<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Fei
+"Hang in there, Elly!
+I'm letting you down now."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Krelian
+"I would have liked to
+have been able to commend
+you for making it here<Delay 5>...<New>
+But your efforts were all
+in vain.<Delay 20>
+The resurrection of -Deus-
+is imminent.<New>
+Sacrificing this girl will
+bring about the awakening
+of 'god'."<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Krelian
+"There's no need for you
+to know.<Delay 20> For all of you,
+it will all end here<Delay 5>..."<Close><End of Block>
+<TextBlock 16 w:34 h:3>
+Krelian
+"Hmph...<Delay 20>
+It's just you..."<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Krelian
+"A pathetic excuse for a
+life.<Delay 20>
+Why, you aren't even human!<New>
+Kahaha...<Delay 20>
+Hah hahaha...!"<Close><End of Block>
+<TextBlock 18 w:14 h:2>
+Krelian
+"..."<Close><End of Block>
+<TextBlock 19 w:38 h:3>
+Miang
+"What are you doing
+here,<Delay 20> Kahr?"<Close><End of Block>
+<TextBlock 20 w:54 h:4>
+Miang
+"There was only one purpose
+to your existence...<Delay 20>
+To eliminate Emperor Cain.<New>
+Cain's will had become too
+much like that of humans'.
+He was too concerned about
+them.<New>
+He had forgotten his
+mission to revive god.
+That is why you were
+created.<New>
+You were only made
+to remove our main
+hindrance<Delay 5>...<Delay 5>Cain.<New>
+But, as the original
+living being, Cain
+had absolute power.<New>
+To make you turn on
+Cain, it was necessary
+to focus your mind on
+a single point.<New>
+However, being an
+artificial life form, you
+were mentally unstable.<New>
+That is why<Delay 5>...<Delay 5>we used
+Fei's existence.<Delay 20>
+Resentment<Delay 5>...<Delay 10> That is the
+source of your strength.<New>
+And you have excelled
+superbly at fulfilling
+our expectations of you.<New>
+But<Delay 5>...<Delay 5>we no longer have
+any more use for you.<Delay 10>
+Haven't you realized that
+yet?<New>
+You're a piece of trash.
+And being the reject that
+you are, why don't you just
+leave? <Delay 20>Hah hah hah."<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+Miang
+"Now, what to do with the
+lot of you<Delay 5>...<New>
+Well,<Delay 5> I can't just kill
+you all<Delay 5>...<Delay 5>seeing as you
+have served me so well.<New>
+So,<Delay 5> as a reward,<Delay 5> I'll allow
+you to be sacrificed too<Delay 5>...<Delay 5>
+To be assimilated into Deus
+along with this girl<Delay 5>..."<Close><End of Block>
+<TextBlock 22 w:22 h:2>
+Miang
+"Guhh...!?"<Opcode 2 40><Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Miang
+"Good<Delay 5>...<Delay 5>
+This is how I wanted it,
+Kahr<Delay 5>...<New>
+I am fated so as not to
+be able to kill myself<Delay 5>...<New>
+Now<Delay 5>...<Delay 5>all<Delay 5>...<Delay 5>my<Delay 5>...<Delay 5>wishes<Delay 20>
+have<Delay 5>...<Delay 5>come<Delay 5>...<Delay 5>true.<Delay 30>
+Thanks<Delay 5>...<Delay 5>to<Delay 5>...<Delay 5>you<Delay 5>...!"<Close><End of Block>
+<TextBlock 24 w:44 h:4>
+Ramsus
+"What about me<Delay 5>...?<Delay 20>
+My existence<Delay 5>...<Delay 5>
+What was its purpose?"<Close><End of Block>
+<TextBlock 25 w:46 h:4>
+Ramsus
+"I... I...<Delay 20>
+What was I born for?<Delay 20>
+What was I living for?"<Close><End of Block>
+<TextBlock 26 w:18 h:3>
+Ramsus
+"...<Delay 20>
+Miang..."<Close><End of Block>
+<TextBlock 27 w:46 h:2>
+Ramsus
+"Uh, uhaaaaaaaahhhhh!!"<Close><Close><End of Block>

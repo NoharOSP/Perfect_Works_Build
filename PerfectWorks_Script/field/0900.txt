@@ -1,0 +1,191 @@
+<TextBlock 1 w:46 h:4>
+Citan
+"This time when the 
+government changes, the
+implications are huge.<New>
+We must succeed at all
+costs."<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Bart
+"...Sig and I will
+take two men and head
+for the top floor.<New>
+Citan, you take the two
+remaining men and open
+the castle gate to let
+in our main force.<New>
+If we can catch Shakhan
+we are sure to succeed."<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Citan
+"Right. When you capture 
+Shakhan give the signal.<New>
+It is probably best to 
+open the gate at that 
+time."<Close><End of Block>
+<TextBlock 4 w:36 h:4>
+Bart
+"Above us is the
+Castle Bailey.<New>
+The keep must fall
+quickly.
+Shakhan should be
+on the top floor."<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Sigurd
+"...In the room that
+used to be used by the
+young master's father.<New>
+Try not to damage the
+castle, avoid all need-
+less combat, and above
+all, remember - speed!"<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+Bart
+"That's why there are so
+few of us.<New>
+Our objective is Shakhan!
+So ignore the Gebler and
+Aveh soldiers."<Close><End of Block>
+<TextBlock 7 w:30 h:3>
+Bart
+"Alright, let's
+move on out!"<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Sigurd
+"Young master, don't
+try to be a hero...
+just get the job done."<Close><End of Block>
+<TextBlock 9 w:54 h:5>
+Damn Shakhan...
+When I get a hold of him
+I'll swing him around by
+his hair...after I've given
+him a hair transplant.<Close><End of Block>
+<TextBlock 10 w:46 h:1>
+Pull yourself together.<Close><End of Block>
+<TextBlock 11 w:46 h:3>
+Let's not fight with
+our cousins in the Aveh
+army and finish this.<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Soon I'll return to the
+castle! I wonder if the
+old man from the dining
+hall is still alive?<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Congratulations on your
+return, your Highness.<New>
+I knew this day would come
+and have been protecting
+the water reservoir.<New>
+I knew you didn't die.<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Even though the war
+is over, this old man
+has no home or family
+to return to.<New>
+My only family is this
+stray cat.<Close><End of Block>
+<TextBlock 15 w:46 h:4>
+Kid, how many times
+must I tell you...hmm?<New>
+How many years has it
+been?<New>
+Well, haven't you grown
+up? Are you really the
+child I used to play
+hide-and-seek with?<New>
+Is this some sort of
+joke...?
+Well, answer me!?<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Bart
+"What're you babblin'
+on about?<New>
+Old man, even back when
+I was a child you used
+to ramble on and on. But
+I see it's gotten worse."<Close><End of Block>
+<TextBlock 17 w:56 h:4>
+What!?
+Ramble!?
+Did you say I rambled on?
+Why you little brat.<New>
+The only people who I ever
+allowed to call me a rambler
+were my late mother and the
+young prince.<New>
+His Highness...
+what was his name?<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Bart
+"You mean his Highness
+'Prince Bartholomew'."<Close><End of Block>
+<TextBlock 19 w:50 h:3>
+Yes, his Highness Prince
+Bartholomew! Boy, you 
+certainly know a lot.<New>
+If Bartholomew was still
+alive he'd be just about
+your age...<New>
+Did you know that both
+he and his family were
+killed by that Shakhan?<New>
+You won't beat me, 
+Shakhan. I'll protect
+Aveh's water till I die.<New>
+In rememberance of the 
+kindness of the king and 
+the young prince.<Close><End of Block>
+<TextBlock 20 w:56 h:4>
+I'll protect Aveh's water 
+till I die. In rememberance 
+of the kindness of the king 
+and the young prince.<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+Bart
+"Really? Thanks old man. 
+Father would be glad."<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+?<Delay 50> 
+...Whaddya mean, father?
+Are you the son of an
+acquaintance of mine?<New>
+Wait wait, I remember...<Delay 200>
+<!><Delay 30> 
+No, no, that's not it.<New>
+I don't recall the king
+having any secret sons.<Close><End of Block>
+<TextBlock 23 w:48 h:4>
+Bart
+"Sorry but I don't have 
+time to explain. You'll 
+remember. See ya!"<Close><End of Block>
+<TextBlock 24 w:32 h:1>
+Who was that...?<Close><End of Block>
+<TextBlock 25 w:44 h:3>
+Could this be<Delay 5>...<Delay 5>His
+Highness Bartholomew?<Delay 50>
+It's been a long time.<New>
+You were still a child
+when your father, the
+King, passed away.<New>
+How I miss those days.
+I am glad to see that
+you are still alive!<Close><End of Block>
+<TextBlock 26 w:46 h:3>
+Bart
+"Old man, that was then
+but this is now.<New>
+When things calm down,
+I'll come back."<Close><End of Block>
+<TextBlock 27 w:48 h:3>
+What!? Playing in the
+reservoir again? Get up 
+out of there now, boy!<Close><End of Block>
+<TextBlock 28 w:46 h:4>
+What!?
+You can't go in there! 
+Everyone drinks from
+that water!<Close><Close><End of Block>

@@ -1,0 +1,37 @@
+<TextBlock 1 w:42 h:4>
+Hammer
+"Looks like some bad
+guys are comin' out.
+I'll try to help too.<New>
+What do you want?"
+    Party change
+    Shop
+    Nothing<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Hammer
+"Well, good luck. I'll
+catch up with you later."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Hammer
+"Muahahah! Hey bro, I
+went ahead and opened up
+the locks for you.<New>
+What? The Gear? Nah, don't
+worry about the details.
+I'm the information man!<New>
+There's nothing outta my
+reach.<New>
+But hey, there aren't
+any enemies though.
+Something's suspicious.<New>
+Oh yeah, you can
+change your party and
+even shop.<New>
+Need anything?"
+    Party change
+    Shop
+    Nothing<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Hammer
+"Go get'em. I'll catch
+up with you later."<Close><Close><End of Block>

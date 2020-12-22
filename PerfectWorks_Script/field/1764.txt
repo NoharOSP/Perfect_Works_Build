@@ -1,0 +1,676 @@
+<TextBlock 1 w:26 h:3>
+Fei
+"Uh,
+wha, what..."<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:26 h:2>
+Fei
+"Th, this..."<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:28 h:2>
+Fei
+"Uhhaaaaaahhh"<Opcode 2 50><Close><End of Block>
+<TextBlock 4 w:16 h:2>
+Fei
+"Unh..."<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:22 h:3>
+Fei
+"Huh!?
+This is..."<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:24 h:2>
+Fei
+"Guh...gr.."<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:18 h:3>
+Fei
+"Can't...
+get it."<Opcode 2 40><Close><End of Block>
+<TextBlock 8 w:22 h:3>
+Fei
+"Uh...<Delay 30>
+This is..."<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+Fei
+"What is this!?<Delay 20>
+Why are you showing 
+me this!?<New>
+Who!? 
+Who did this!?<New>
+Elly!
+Doc!<New>
+Where are you!?
+Where..."<Close><End of Block>
+<TextBlock 10 w:18 h:2>
+Fei
+"Wha...?"<Close><End of Block>
+<TextBlock 11 w:30 h:2>
+Fei
+"Doc!?<New>
+Th, these guys?
+What is this!?"<Close><End of Block>
+<TextBlock 12 w:16 h:2>
+Fei
+"Bart!?"<Opcode 2 40><Close><End of Block>
+<TextBlock 13 w:16 h:2>
+Fei
+"Billy!"<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Fei
+"Doc!!<Delay 20>
+What's going on!?<New>
+What are you all...?<Delay 30>
+Doc! Answer me!"<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Fei
+"Solaris Guardian Angel?<Delay 30>
+Monitoring me?"<Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Fei
+"The bodies of Bart and
+the others belong to you?<New>
+Is that true!?
+Doc!<New>
+What they are saying?"<Close><End of Block>
+<TextBlock 17 w:6 h:2>
+Fei
+"?"<Close><End of Block>
+<TextBlock 18 w:26 h:2>
+Fei
+"...Revenge?"<Close><End of Block>
+<TextBlock 19 w:44 h:2>
+Fei
+"Is...<Delay 20> that it...?<New>
+You were in with these
+guys...<New>
+That's why you,
+everyone..."<Close><End of Block>
+<TextBlock 20 w:52 h:3>
+Fei
+"Why!<New>
+You've had your way all
+this time with us land
+dwellers!<New>
+You already own the world!<New>
+What more do you want?"<Close><End of Block>
+<TextBlock 21 w:54 h:3>
+Fei
+"Aerial Paradise Mahanon?<Delay 30>
+The place fell to earth..."<Close><End of Block>
+<TextBlock 22 w:40 h:2>
+Fei
+"What do you mean!?"<Close><End of Block>
+<TextBlock 23 w:42 h:2>
+Fei
+"That's ridiculous!?"<Close><End of Block>
+<TextBlock 24 w:14 h:2>
+Fei
+"...!?"<Close><End of Block>
+<TextBlock 25 w:34 h:4>
+Fei
+"...So you're not
+planning on using
+Solaris'<New>
+power to dominate
+the world?"<Close><End of Block>
+<TextBlock 26 w:16 h:2>
+Fei
+"Ugh..."<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+Fei
+"What're you gonna do to
+me? To Bart and them?
+Where is Elly?"<Close><End of Block>
+<TextBlock 28 w:28 h:4>
+Fei
+"Damnit...<Delay 30>
+This...<Delay 30>
+What was I..."<Close><End of Block>
+<TextBlock 29 w:52 h:4>
+Fei
+"Godammit!
+We weren't born to be used
+by them!<New>
+We didn't come all the way
+to Solaris for that!<New>
+I, we, everyone...we just
+want to make a place where
+we can belong...<New>
+That's what we were
+fighting for...
+But now..."<Close><End of Block>
+<TextBlock 30 w:22 h:2>
+Fei
+"I...<Delay 40> I..."<Close><End of Block>
+<TextBlock 31 w:30 h:2>
+Fei
+"Stop! Please!"<Close><End of Block>
+<TextBlock 32 w:40 h:2>
+Citan
+"Are you conscious?"<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Citan
+"It is impossible to move.
+This machine has physically
+cut your nerve signals.<New>
+You will not be able to
+lift a finger regardless
+of what your minds says."<Close><End of Block>
+<TextBlock 34 w:48 h:4>
+Citan
+"Do not worry...
+They have their roles...<Delay 30>
+you have yours.<New>
+I simply investigate."<Close><End of Block>
+<TextBlock 35 w:52 h:3>
+Citan
+"So the battle has been
+fought...you say?<New>
+That was discussed earlier
+by the Ministry..."<Close><End of Block>
+<TextBlock 36 w:52 h:4>
+Citan
+"It is much easier to be
+given a place to belong
+than to make one yourself.<New>
+You do not even
+understand a simple
+concept like that?"<Close><End of Block>
+<TextBlock 37 w:54 h:4>
+Citan
+"Childish ideals pale when
+placed before reality.<New>
+But actually many are
+satisfied with that.<New>
+Being given one's place,
+frees one from any risks.<New>
+Misfortunes may be blamed
+on others.<New>
+Do you know why people can
+not exist alone but only
+under some bigger concept
+such as a group or country?<New>
+People need a place to go
+to be themselves...<New>
+The more stable it is the
+more effective it is."<Close><End of Block>
+<TextBlock 38 w:54 h:4>
+Citan
+"The Ministry gives them
+such a place.<New>
+Under total surveilance,
+there is no need to bear
+the risk of maintaining 
+one's own individuality.<New>
+They simply live under the
+delusion of being an
+'individual'. What could
+be easier?<New>
+Facts are facts so let's
+just accept them. It will
+be easier for all of us.<New>
+Resistance is futile. It
+only makes things painful."<Close><End of Block>
+<TextBlock 39 w:54 h:4>
+Citan
+"Do you still intend to
+do something about it?<New>
+Look at yourself...<New>
+What do you think you could
+possibly do at this stage?
+You cannot move.<New>
+You could not even protect
+your friends who fought
+with you, when they needed
+you.<New>
+You could not even protect
+the most important person
+in your life, Elly."<Close><End of Block>
+<TextBlock 40 w:42 h:2>
+Citan
+"You can do nothing."<Close><End of Block>
+<TextBlock 41 w:18 h:2>
+Fei
+"Elly..."<Close><End of Block>
+<TextBlock 42 w:22 h:3>
+Fei
+"Doc...
+You there?"<Close><End of Block>
+<TextBlock 43 w:44 h:2>
+You brought about this
+spectacle.<Close><End of Block>
+<TextBlock 44 w:42 h:2>
+That voice is the one
+which haunts you...<Close><End of Block>
+<TextBlock 45 w:52 h:1>
+Cursed, untouchable one...<Close><End of Block>
+<TextBlock 46 w:46 h:3>
+Oh god's beloved child,
+those who prevent our
+prayers...<Close><End of Block>
+<TextBlock 47 w:12 h:1>
+Get...<Close><End of Block>
+<TextBlock 48 w:20 h:1>
+Destroy...<Close><End of Block>
+<TextBlock 49 w:46 h:1>
+Burn with god's fire...<Close><End of Block>
+<TextBlock 50 w:40 h:4>
+Elder
+"One of the Solaris
+Guardian Angels is
+here, Hyuga Ricdeau.<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Elder
+"This man is Cain...<Delay 30>
+Receiving the orders from
+the one known as Emperor,<New>
+You've entered his realm,
+and have been under his 
+continued supervision..."<Close><End of Block>
+<TextBlock 52 w:48 h:4>
+Elder
+"Oh yes.<New>
+We've guided Solaris and
+even selected the
+'Animus' which have been
+drawn to you.<New>
+And guided you here to
+Solaris."<Close><End of Block>
+<TextBlock 53 w:54 h:3>
+Elder
+"The 'Animus' is needed for
+our resurrection...<New>
+These are our bodies...
+This what we possess."<Close><End of Block>
+<TextBlock 54 w:44 h:3>
+Elder
+"Yes, this is the only
+reason we exist..."<Close><End of Block>
+<TextBlock 55 w:48 h:2>
+Elder
+"Why so apprehensive?<New>
+Is it that you were sold
+out by one you trusted?"<Close><End of Block>
+<TextBlock 56 w:46 h:3>
+Fei
+"I'm not talking to you
+guys! <Delay 30>Doc, answer me!"<Close><End of Block>
+<TextBlock 57 w:24 h:2>
+Citan
+"3 years..."<Close><End of Block>
+<TextBlock 58 w:52 h:3>
+Citan
+"For three years I have
+been by your side.<New>
+I had to determine whether
+you were going to be our
+enemy or not..."<Close><End of Block>
+<TextBlock 59 w:52 h:4>
+Elder
+"Yes, the enemy.
+Your existence is a threat
+to us..."<Close><End of Block>
+<TextBlock 60 w:50 h:3>
+Elder
+"It was necessary to keep
+an eye on you."<Close><End of Block>
+<TextBlock 61 w:54 h:3>
+Elder
+"The one who ordered you to
+be watched was Cain..."<Close><End of Block>
+<TextBlock 62 w:54 h:4>
+Elder
+"We were planning on the
+maturation of the 'Animus',
+and your termination.<New>
+We also sent Hyuga to you."<Close><End of Block>
+<TextBlock 63 w:54 h:3>
+Elder
+"However, every attempt to
+terminate you has failed...<New>
+Because of that good for
+nothing trash..."<Close><End of Block>
+<TextBlock 64 w:48 h:3>
+Elder
+"Even so, we now possess
+'Animus'.<New>
+Hyuga has fulfilled his
+duties well."<Close><End of Block>
+<TextBlock 65 w:52 h:3>
+Elder
+"You must know by now that
+we plan to resurrect god."<Close><End of Block>
+<TextBlock 66 w:52 h:4>
+Elder
+"God will awaken from his
+long slumber after man has
+populated the land...<New>
+Then, Mahanon too will
+awaken..."<Close><End of Block>
+<TextBlock 67 w:54 h:3>
+Elder
+"Paradise...
+Hah hah hah.<New>
+That may be a proper
+description...
+Our ark...<New>
+In the center block lord
+'Mahanon' is sealed in.<New>
+That is the source of god's
+wisdom...A paradise of
+knowledge..."<Close><End of Block>
+<TextBlock 68 w:54 h:4>
+Elder
+"Using that knowledge, we
+will resurrect the awakened
+god and build our 'ark'<New>
+to take us both into the
+great universe."<Close><End of Block>
+<TextBlock 69 w:54 h:3>
+Elder
+"The construction of
+our ark...<New>
+To reign over god's
+forces in this great
+universe...<New>
+The creation of the angel
+'Malakh'. The M Project was
+for that very purpose..."<Close><End of Block>
+<TextBlock 70 w:50 h:3>
+Elder
+"We are orphans in this
+universe.<New>
+We were thrown away onto
+this planet in
+solitude along with god."<Close><End of Block>
+<TextBlock 71 w:54 h:4>
+Elder
+"We humans were not born
+on this planet.<New>
+Long ago, we came here from
+another heavenly body. We
+are beings from an alien
+planet."<Close><End of Block>
+<TextBlock 72 w:54 h:4>
+Elder
+"This is true.
+You have seen the various
+regions of this world.<New>
+Why do you think there are
+no records of humans 
+before 10,000 years ago..."<Close><End of Block>
+<TextBlock 73 w:54 h:3>
+Elder
+"This is the will of god.<New>
+The god's revival has been 
+fated since before the 
+time before genesis..."<Close><End of Block>
+<TextBlock 74 w:54 h:3>
+Elder
+"We will be one with god.<New>
+Attaining a new 'Animus'...
+We will once again return
+to the starry skies..."<Close><End of Block>
+<TextBlock 75 w:40 h:3>
+Elder
+"That is the meaning
+of our existence."<Close><End of Block>
+<TextBlock 76 w:40 h:3>
+Elder
+"That is our supreme
+objective."<Close><End of Block>
+<TextBlock 77 w:54 h:3>
+Elder
+"Of course.<New>
+What meaning is there in
+having control of a planet
+as insignificant as this?<New>
+God has given us the right
+to rule over the universe."<Close><End of Block>
+<TextBlock 78 w:56 h:4>
+Elder
+"Yes.
+Only we, who do not carry
+impure blood, have the right<New>
+to a pardon..."<Close><End of Block>
+<TextBlock 79 w:56 h:2>
+Elder
+"So, we will resurrect god."<Close><End of Block>
+<TextBlock 80 w:44 h:4>
+Elder
+"It's been an eternity
+since our exile from
+paradise.<New>
+If the time of god's 
+revival does not come,<New>
+we will have to
+follow the path to
+destruction. But..."<Close><End of Block>
+<TextBlock 81 w:54 h:4>
+Elder
+"Having attained 'Animus',
+our resurrection is near...<Delay 30>
+Next is god's resurrection"<Close><End of Block>
+<TextBlock 82 w:22 h:2>
+Fei
+"Krelian!?"<Close><End of Block>
+<TextBlock 83 w:48 h:3>
+Krelian
+"This one only waits for
+the awakening..."<Close><End of Block>
+<TextBlock 84 w:18 h:2>
+Fei
+"Elly!!?"<Close><End of Block>
+<TextBlock 85 w:28 h:2>
+Fei
+"Doc...<Close>
+Th, this...!?"<Close><End of Block>
+<TextBlock 86 w:38 h:2>
+Fei
+"Only the true...!"<Close><End of Block>
+<TextBlock 87 w:30 h:2>
+Fei
+"Quit...<Delay 30> it..."<Close><End of Block>
+<TextBlock 88 w:46 h:3>
+Citan
+"Now, we may take our
+time and talk...<Delay 30> Id..."<Opcode 2 60><Close><End of Block>
+<TextBlock 89 w:40 h:3>
+Citan
+"...There is nothing
+you can do."<Close><End of Block>
+<TextBlock 90 w:52 h:4>
+Id
+"You understand well.
+Just as I expected, Citan,
+...or was it 'doc'?"<Close><End of Block>
+<TextBlock 91 w:54 h:4>
+Citan
+"I have been wanting to
+meet you, Id. I wanted to
+talk with you.<New>
+I guess it is all due to
+this machine which cuts the
+nerve connections.<New>
+Anyway, what is Fei doing
+as of now?"<Close><End of Block>
+<TextBlock 92 w:46 h:3>
+Id
+"Fei?
+Which Fei do you mean?"<Close><End of Block>
+<TextBlock 93 w:50 h:2>
+Citan
+"There is more than one?"<Close><End of Block>
+<TextBlock 94 w:10 h:2>
+Id
+"..."<Close><End of Block>
+<TextBlock 95 w:10 h:2>
+Citan
+"Id?"<Close><End of Block>
+<TextBlock 96 w:48 h:3>
+Id
+"The one you call Fei is
+asleep."<Close><End of Block>
+<TextBlock 97 w:22 h:2>
+Citan
+"Sleeping?"<Close><End of Block>
+<TextBlock 98 w:56 h:2>
+Id
+"When I am awake, he sleeps.<New>
+That is why he has no
+memory of what I do."<Close><End of Block>
+<TextBlock 99 w:46 h:2>
+Citan
+"Why does he not know?"<Close><End of Block>
+<TextBlock 100 w:50 h:3>
+Id
+"It's obvious.
+He is my subordinate.<New>
+He cannot peer into my
+memories. He should not,
+in actuality, even exist.<New>
+That man forcibly created
+his personality.<New>
+Fei is a tenant in the
+room of cowardice..."<Close><End of Block>
+<TextBlock 101 w:22 h:2>
+Citan
+"That man?"<Close><End of Block>
+<TextBlock 102 w:54 h:3>
+Id
+"Our father, Khan.<New>
+He sealed up my personality
+in the deepest recesses of
+my consciousness.<New>
+Through some inexplicable
+reason, that is when the
+present Fei was born."<Close><End of Block>
+<TextBlock 103 w:50 h:3>
+Citan
+"When you said cowardice,
+what did you mean?"<Close><End of Block>
+<TextBlock 104 w:40 h:3>
+Id
+"...
+Why ask about him?<New>
+You think you can do
+something?"<Close><End of Block>
+<TextBlock 105 w:56 h:3>
+Citan
+"It is rare to be able to
+talk a real schizophrenic.<New>
+As a scholar, I am extremely
+intrigued."<Close><End of Block>
+<TextBlock 106 w:52 h:4>
+Id
+"With friends like you...
+eh, doctor?<New>
+I like you, Citan.
+But, he is insignificant.<New>
+After all, he is just a
+failure. A coward like
+him does not deserve to
+be 'Fei's existence'.<New>
+A pathetic one who has
+always fled from reality.<New>
+He never did one thing
+against me when I control
+him.<New>
+A coward who refused to
+live.<New>
+He should've been erased.
+But he continues to exist!
+Why won't he disappear?<New>
+Dammit...it makes my skin
+crawl just being in the
+same body as him."<Close><End of Block>
+<TextBlock 107 w:54 h:3>
+Citan
+"Let us change the subject.<New>
+I would like to know how
+and why your personalities
+were split.<New>
+Since you are the one in
+control, I would assume
+you would know the story.<New>
+Normally, personalities do
+not split as they did with
+you.<New>
+Unless there was some sort
+of past trauma."<Close><End of Block>
+<TextBlock 108 w:52 h:4>
+Id
+"You want me to talk about
+my memories? Don't 
+misunderstand.<New>
+I haven't given you the
+right to question me.<New>
+Just because I'm held down
+by this machine, don't
+push your luck.<New>
+If I really wanted to, I
+could break the restraints
+and crush you.<New>
+Don't you forget it."<Close><End of Block>
+<TextBlock 109 w:42 h:2>
+Citan
+"Then why not do it?"<Close><End of Block>
+<TextBlock 110 w:10 h:2>
+Id
+"..."<Close><End of Block>
+<TextBlock 111 w:54 h:4>
+Citan
+"Shall I tell you why?<New>
+You do not have complete
+control over Fei do you?<New>
+Your control of him is
+incomplete.<New>
+To break those bonds would
+require a tremendous amount
+of mental energy.<New>
+Having used up your energy,
+Fei would return again.<New>
+Basically, you would have
+to leave the stage.<New>
+Obviously, the day you
+would be able to return
+is indeterminate.
+Hence, you will not do it.<New>
+Am I mistaken?"<Close><End of Block>
+<TextBlock 112 w:50 h:3>
+Id
+"So you know me too well.
+I don't have complete..."<Close><End of Block>
+<TextBlock 113 w:40 h:2>
+Citan
+"What is wrong, Id?"<Close><End of Block>
+<TextBlock 114 w:50 h:3>
+Id
+"You forced me on stage.<New>
+He's waking. Under normal
+circumstances, I would've
+been able to hold on.<New>
+But I can't. This is all
+that woman's fault.<New>
+Her existence makes Fei
+resistant."<Close><End of Block>
+<TextBlock 115 w:32 h:2>
+Citan
+"You mean Elly?"<Close><End of Block>
+<TextBlock 116 w:46 h:4>
+Id
+"That woman...the same.
+Everyone. Must...
+eliminate..."<Close><End of Block>
+<TextBlock 117 w:50 h:3>
+Citan
+"I do not understand.
+I do not understand, Id."<Close><End of Block>
+<TextBlock 118 w:50 h:3>
+Id
+"You don't need to
+understand.<New>
+But when the time comes,
+just take it as it comes.
+Reality and death..."<Close><End of Block>
+<TextBlock 119 w:46 h:3>
+Id
+"I'll eventually get to
+you...Be seein' ya."<Close>
+ou...Be seein' ya."<Close><Close><End of Block>

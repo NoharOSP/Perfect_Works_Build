@@ -1,0 +1,141 @@
+<TextBlock 1 w:32 h:3>
+Who will play?
+    <Perso1>
+    <Perso2><Close><End of Block>
+<TextBlock 2 w:32 h:4>
+Who will play?
+    <Perso1>
+    <Perso2>
+    <Perso3><Close><End of Block>
+<TextBlock 3 w:14 h:1>
+One-two<Close><End of Block>
+<TextBlock 4 w:24 h:3>
+Really quit?
+    No
+    Yes<Close><End of Block>
+<TextBlock 5 w:14 h:1>
+Ready? <Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:12 h:1>
+Start!<Close><End of Block>
+<TextBlock 7 w:44 h:6>
+You thought I'd battle
+right off? Get real!
+Only the fast do well
+at this game.
+It's a card game for
+'men of the sea'.<Close><End of Block>
+<TextBlock 8 w:60 h:3>
+I'll explain the rules to you.
+First I deal you and your
+opponent 26 cards each.<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Then I will place 4 cards
+in front of each player
+as your current hands.<Close><End of Block>
+<TextBlock 10 w:56 h:3>
+And then, I place another
+card on the left hand side
+looking from your viewpoint.<Close><End of Block>
+<TextBlock 11 w:60 h:5>
+Up to here I do automatically
+for you. But from here on the
+game starts.<New>
+You must take your first 4
+cards and the remaining 21
+cards and place them all on
+top of the two center cards
+faster than your opponent can.<New>
+Of course there are certain
+rules for placing the cards.<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Place a card on top of
+another card if it is
+numerically in order.
+Like one number higher...<Close><End of Block>
+<TextBlock 13 w:50 h:2>
+In this case, where there
+is a 3 you can play a 4.<Close><End of Block>
+<TextBlock 14 w:44 h:1>
+Or one number lower...<Close><End of Block>
+<TextBlock 15 w:50 h:2>
+In this case, where there
+is a 4 you can play a 3.<Close><End of Block>
+<TextBlock 16 w:36 h:2>
+But if the numbers
+aren't in order...<Close><End of Block>
+<TextBlock 17 w:58 h:3>
+you can't play the card. But,
+if there is a K (13) you can
+play an A (1) and vice versa.<Close><End of Block>
+<TextBlock 18 w:56 h:6>
+Now I'll teach you how
+to control the cards.
+First...<New>
+To move a card from your
+deck into an empty position
+in the hand of 4 cards in
+front of you, use Left and
+Right on the Directional
+button to pick the position.<New>
+Then use either the
+<S> button, <T> button,
+L1 button, or R1 button
+to place the card.<Close><End of Block>
+<TextBlock 19 w:46 h:3>
+And to play a card, 
+move on top of the card
+you want to play...<Close><End of Block>
+<TextBlock 20 w:46 h:3>
+And press the <T> button
+or R1 button to play on
+the right...<Close><End of Block>
+<TextBlock 21 w:46 h:3>
+Or press the <S> button
+or L1 button to play on
+the left.<Close><End of Block>
+<TextBlock 22 w:48 h:2>
+Of course your opponent 
+is also playing cards.<Close><End of Block>
+<TextBlock 23 w:58 h:4>
+What if neither of you
+can play a card, even
+after replacing the set of
+4 cards in front of you?<New>
+In this case there will be a
+call of 'one-two', and a card
+will be played directly from
+your remaining pile of cards.<Close><End of Block>
+<TextBlock 24 w:14 h:1>
+One-two<Close><End of Block>
+<TextBlock 25 w:56 h:2>
+If both players still can't
+play, this will be repeated.<Close><End of Block>
+<TextBlock 26 w:56 h:3>
+If there are no remaining
+cards on your pile to play
+at the 'one-two' call...<New>
+then the left-most card from
+the set of cards in front of
+you will be played directly.<Close><End of Block>
+<TextBlock 27 w:14 h:1>
+One-two<Close><End of Block>
+<TextBlock 28 w:12 h:1>
+And...<Close><End of Block>
+<TextBlock 29 w:48 h:3>
+The first player to use
+up all their cards wins.
+In this case you lose.<Close><End of Block>
+<TextBlock 30 w:58 h:4>
+Oh, and one more thing.<New>
+By pushing the Select button,
+you can quit a game midway
+through. But of course this
+will mean you lose.<Close><End of Block>
+<TextBlock 31 w:48 h:4>
+By the way, there are
+lots of good players
+onboard the Thames.<New>
+How about starting off
+by playing my mate here?
+    Sure
+    No thanks<Close><End of Block>

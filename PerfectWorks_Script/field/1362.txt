@@ -1,0 +1,37 @@
+<TextBlock 1 w:54 h:4>
+Elly
+"'Oh vessel for a new soul!
+  May the soul who resideth
+  in you find peace.'     "<Close><End of Block>
+<TextBlock 2 w:42 h:3>
+Elly
+"Citan...<Delay 45>
+Who...am I...?<New>
+What am I doing?
+What am I saying...?"<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Citan
+"...<Delay 90>
+No matter what, we 
+need a password..."<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Citan
+"...It is well hidden...<Delay 32>
+in the data gaps...<New>
+No...'flee'?...
+...'with my own will'...
+What is this?"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Citan
+"...<Delay 90>
+Is this...a wild
+computer?<New>
+No, a structural record
+of life...<New>
+No, not that...
+An organism..."<Close><End of Block>
+<TextBlock 6 w:38 h:4>
+Citan
+"No, Elly!
+We do not know
+what could happen!"<Close><Close><End of Block>

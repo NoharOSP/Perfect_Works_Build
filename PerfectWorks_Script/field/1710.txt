@@ -1,0 +1,106 @@
+<TextBlock 1 w:26 h:3>
+Fei
+"Th...this...
+can't be..."<Opcode 2 20><Close><End of Block>
+<TextBlock 2 w:56 h:3>
+Fei
+"What...is this...<Delay 40>
+What...<Delay 20>the hell is this...!!<Opcode 2 40><Close><End of Block>
+<TextBlock 3 w:28 h:2>
+Fei
+"Wo-o-o-o-o-!"<Opcode 2 50><Close><End of Block>
+<TextBlock 4 w:54 h:3>
+Fei
+"Could...this be...true...?
+Doc..."<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Elly
+"No...
+You must be kidding..."<Opcode 2 20><Close><End of Block>
+<TextBlock 6 w:14 h:2>
+Elly
+"Uh..."<Opcode 2 20><Close><End of Block>
+<TextBlock 7 w:44 h:2>
+Elly
+"Don't be ridiculous!<New>
+My father'd never take
+part in such a thing!"<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Elly
+My father...<Delay 40>
+did that...<Delay 30>
+No, it can't be true..."<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Citan
+"Soylent System.<New>
+The organism experiment
+lab and its disposal
+facility in Solaris."<Close><End of Block>
+<TextBlock 10 w:56 h:4>
+Citan
+"And the production facility
+for food and medicine to
+maintain the Limiter seal.<New>
+Aquvy's Wels Reapers
+were also made here."<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Citan
+"Elly, do you remember
+Dominia's words during our
+infiltration of Shevat?<New>
+Here is the answer.<New>
+People of her native
+country served as one of
+the origins for Wels...
+the M plan.<New>
+They were used that
+way because of their
+peculiar abilites.<New>
+She is the last survivor.<New>
+Elly, your father, Erich
+used to be the
+superintendent of this
+facility.<New>
+He was involved
+in the research with
+Maria's father.<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Citan
+"Naturally, Erich always
+had pangs of guilt.<New>
+So he kept as many land
+dwellers as possible under
+his protection as 3rd
+Class citizens.<New>
+Then he resigned.
+That's why he is on the
+administrative staff of
+the Special Forces now."<Close><End of Block>
+<TextBlock 13 w:54 h:3>
+Citan
+"Now, get up, Fei.<Delay 30>
+Get up and look it over..."<Close><End of Block>
+<TextBlock 14 w:40 h:2>
+Citan
+"..This is reality."<Close><End of Block>
+<TextBlock 15 w:22 h:2>
+Citan
+"Let's go."<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Citan
+"To end a person's life,<Delay 30>
+and then consume their
+flesh.<New>
+Is that, <Delay 20>permissible...?"<Close><End of Block>
+<TextBlock 17 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 18 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 19 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 20 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

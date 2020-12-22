@@ -1,0 +1,113 @@
+<TextBlock 1 w:36 h:4>
+Citan
+"Let us borrow a
+room here for our
+planning session."<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Ah...
+Excuse me but...<Delay 60>aren't 
+you Prince Bartholomew?<Close><End of Block>
+<TextBlock 4 w:34 h:2>
+Bart
+"...And you are?"<Close><End of Block>
+<TextBlock 5 w:42 h:4>
+I was sent here by
+the Nisan Sect. <Delay 60> 
+I'm here to check up
+on Mother Marguerite.<New>
+Prince Bartholomew,
+I knew you would come
+sooner or later...<Opcode 2 60><Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Citan
+"Well, <Delay 30>let us not just
+stand here chatting. 
+Shall we use a room?"<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+You must be tired. 
+I'll be in my room, 
+please come by later.<Close><End of Block>
+<TextBlock 8 w:42 h:1>
+That's my room there.<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Yeah, after bein' in the
+army for so long even
+after I got out I just
+didn't feel like working.<New>
+But watching mom work
+like this, it makes me
+think I might want to
+again.<Close><End of Block>
+<TextBlock 10 w:38 h:3>
+Citan
+"Let us hurry to
+the meeting place."<Close><End of Block>
+<TextBlock 11 w:56 h:3>
+I'm sorry, we're full today.<Delay 60>
+If you can wait till evening
+I'll have something then...<Close><End of Block>
+<TextBlock 12 w:16 h:1>
+Welcome.<Close><End of Block>
+<TextBlock 13 w:40 h:4>
+I'll mark it down to
+40G per person.
+    Thanks
+    No way<Close><End of Block>
+<TextBlock 14 w:54 h:4>
+How about 50G a person?
+    Okay
+    No way
+    I have a recommendation<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+How about 50G per person?
+    Okay
+    No way<Close><End of Block>
+<TextBlock 16 w:32 h:4>
+Whose sent you?
+    Ari
+    Shiffer
+    I don't know<Close><End of Block>
+<TextBlock 17 w:72 h:4>
+Aw, she never gives her name. But...
+okay, I'll mark it down to 40G each.
+    Thanks
+    No way<Close><End of Block>
+<TextBlock 18 w:36 h:4>
+I don't know her! 
+50G per person.
+    Okay
+    No way<Close><End of Block>
+<TextBlock 19 w:56 h:2>
+That's <Opcode 10 1> people, 
+it'll be <Opcode 10 0>G.<Close><End of Block>
+<TextBlock 20 w:30 h:2>
+You don't have 
+enough money.<Close><End of Block>
+<TextBlock 21 w:22 h:1>
+Come again!<Close><End of Block>
+<TextBlock 22 w:46 h:1>
+Hey, don't pull my leg.<Close><End of Block>
+<TextBlock 23 w:54 h:2>
+It's old and nearly broken,
+so stop messin' with it!<Close><End of Block>
+<TextBlock 24 w:46 h:2>
+See? You broke it! Now
+you have to pay for it!<Close><End of Block>
+<TextBlock 25 w:32 h:1>
+That'll be 100G.<Close><End of Block>
+<TextBlock 26 w:42 h:2>
+What, you 
+don't even have 100G?<Close><End of Block>
+<TextBlock 27 w:14 h:4>
+    <Opcode 1 255>OFF
+    LOW
+    MID
+    HI<Close><End of Block>
+<TextBlock 28 w:24 h:1>
+It's locked.<Close><End of Block>
+<TextBlock 29 w:46 h:3>
+Citan
+"Let us go hear what
+the sister has to say."<Close><Close><End of Block>

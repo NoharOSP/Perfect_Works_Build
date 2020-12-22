@@ -1,0 +1,77 @@
+<TextBlock 1 w:40 h:4>
+Pirate
+"Hm. Can't you make
+a better plea for
+your life?<New>
+You come jumping out
+of an Aveh ship and
+claim that you are
+not Aveh soldiers!<New>
+Stop trying
+to fool me!"<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Pirate
+"Tsk.
+How pathetic are you?!<New>
+Even if you're the
+pettiest of soldiers,
+how's about showing 
+a little spine...<New>
+...and put up a
+decent fight!"<Close><End of Block>
+<TextBlock 3 w:36 h:4>
+Pirate
+"How nauseating!
+Why don't you stop
+grumbling,<New>
+leave the Gear and
+run away?"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Pirate
+"For someone who doesn't
+want to fight, you're
+quite powerful...<New>
+I see,
+an all-environment
+model... so that's it,
+huh?<New>
+Now I want it
+even more!"<Close><End of Block>
+<TextBlock 5 w:38 h:3>
+Pirate
+"Oh-no!<Delay 30>
+This is not good!!"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Pirate
+"In the heat of battle,
+I go get caught in
+quicksand!<New>
+Darn.
+Me of all people!"<Close><End of Block>
+<TextBlock 7 w:40 h:3>
+Pirate
+"Damn!
+It's all your fault!<New>
+Boy are you going to
+get it later.
+So be darn ready!"<Close><End of Block>
+<TextBlock 8 w:34 h:4>
+Fei
+"Wait one moment!
+We're not
+Aveh soldiers!"<Close><End of Block>
+<TextBlock 9 w:24 h:3>
+Fei
+"I tell you,
+it's true!"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Fei
+"Stop it! I'm telling
+you I'm no soldier!  I
+don't want to fight!"<Close><End of Block>
+<TextBlock 11 w:8 h:2>
+Fei
+"!?"<Close><End of Block>
+<TextBlock 12 w:12 h:2>
+Fei
+"Why!"<Close><Close><Close><UNKNOWN CHUNK 182><Wait><Close><Close>)<Close><End of Block>

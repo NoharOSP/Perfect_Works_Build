@@ -1,0 +1,53 @@
+<TextBlock 1 w:34 h:3>
+Bart
+"We're gonna get
+caught up in it!?<New>
+Yggdrasil!!
+Get moving!!"<Close><End of Block>
+<TextBlock 2 w:32 h:3>
+Bart
+"...<Delay 32>...<Delay 32>...<Delay 32>...<Delay 32>
+...<Delay 32>Phew...!<New>
+We made it...<Delay 10>
+...somehow...!?"<Close><End of Block>
+<TextBlock 3 w:32 h:2>
+Bart
+"Wha, what the?"<Close><End of Block>
+<TextBlock 4 w:32 h:2>
+Bart
+"Damn!<New>
+We're spotted!!"<Close><End of Block>
+<TextBlock 5 w:38 h:4>
+Bart
+"Citan!
+What now?
+What should we do?"<Close><End of Block>
+<TextBlock 6 w:16 h:2>
+Bart
+"What!?"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Citan
+"Quick!
+Take cover!<New>
+The Solarian based energy
+descending from the upper
+atmosphere is equivalent
+to a reactive weapon!"<Close><End of Block>
+<TextBlock 8 w:18 h:3>
+Citan
+"...Elly?<Delay 45>
+...!"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Citan
+"Huh?<Delay 24>
+What... You are asking
+me what to do?"<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Franz
+"It's that red Gear...!!
+It's coming this way!!!!"<Close><End of Block>
+<TextBlock 11 w:32 h:4>
+Franz
+"There's someone
+on the deck...
+It's... Elly!?"<Close><Close><End of Block>

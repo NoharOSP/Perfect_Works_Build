@@ -1,0 +1,170 @@
+<TextBlock 1 w:50 h:3>
+Elly
+"They're catching up with
+us!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:8 h:2>
+Elly
+"!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Ramsus
+"Slow, too slow!"<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:52 h:2>
+Ramsus
+"Your performance is sad!"<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:24 h:2>
+Ramsus
+"Elhaym<Delay 5>...<Delay 5>?"<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Krelian
+"Yes.<Delay 10> This is the place.<Delay 10>
+I want you to
+bring her here.<New>
+She is an important woman
+to me."<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+Ramsus
+"Don't be ridiculous.<Delay 10>
+Why do I have to
+listen to you?<New>
+If you need her,
+go get her yourself!"<Close><End of Block>
+<TextBlock 8 w:46 h:5>
+Krelian
+"You're quite right.<Delay 10>
+But, can you say
+the same thing
+after looking at this?"<Close><End of Block>
+<TextBlock 9 w:32 h:2>
+Ramsus
+"Th,<Delay 10> this is<Delay 5>..."<Close><End of Block>
+<TextBlock 10 w:42 h:4>
+Krelian
+"Your Gear and the
+Anima Relic have been
+aligned<Delay 5>...<Delay 10><New>
+This is the Omnigear.<Delay 10>
+Now, she is
+with Fei now."<Close><End of Block>
+<TextBlock 11 w:16 h:2>
+Ramsus
+"What!?"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Krelian
+"Losing those battles
+against Fei again and
+again<Delay 5>...<Delay 10><New>
+I believe<Delay 10> it's because of
+the difference<Delay 5>
+in the performance
+of the Gears.<New>
+I think<Delay 5> you'll be
+able to use 100% of it's
+abilities.<New>
+So how about it?<Delay 10>
+However, if you still fail
+with this,
+you are truly 'trash'."<Close><End of Block>
+<TextBlock 13 w:12 h:2>
+Ramsus
+"<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 14 w:44 h:2>
+Krelian
+"Ramsus,<Delay 10> will you go?"<Close><End of Block>
+<TextBlock 15 w:44 h:2>
+Miang
+"Kahr,<Delay 10> are you going?"<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Ramsus
+"Yes.<Delay 10>
+I must get rid of him
+with my own hands."<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Miang
+"Be careful.<Delay 10>
+I believe in you
+no matter what others say."<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+'Fei'!<Delay 20>
+What a loathsome name.<Delay 20>
+I worked my way up on
+my own.<New>
+But he ruined it again<Delay 5>...<Close><End of Block>
+<TextBlock 19 w:40 h:3>
+Ramsus
+"!?<Delay 10>
+That signal...!<New>
+It's him!<Delay 10>
+I'm not trash!
+I'm not worthless!!"<Close><End of Block>
+<TextBlock 20 w:44 h:3>
+Fei
+"What kinda...<Delay 5><Delay 10>Gear is 
+that<Delay 5>...?"<Close><End of Block>
+<TextBlock 21 w:4 h:1>
+!!<Close><End of Block>
+<TextBlock 22 w:56 h:4>
+Elly
+"Omnigear!!
+And according to the
+readings<Delay 5>...<New>
+It's clearly different from 
+the one Bart's using or
+the one in Shevat<Delay 5>...<New>
+<Delay 5>...You think it's the!?<Delay 10>
+Perfect Gear!?"<Close><End of Block>
+<TextBlock 23 w:32 h:1>
+Perfect Gear<Delay 5>...?<Close><End of Block>
+<TextBlock 24 w:56 h:3>
+Elly
+"Remember what Citan said?<New>
+He said that
+the Omnigears are controlled
+by mental waves.<New>
+The power...the potential
+varies depending on the
+rate of synchronism.<New>
+The numbers indicate
+complete synchronization."<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Ramsus
+"Hmph<Delay 5>...<Delay 10>
+I knew you'd be there."<Close><End of Block>
+<TextBlock 26 w:20 h:2>
+Fei
+"Ramsus!?"<Close><End of Block>
+<TextBlock 27 w:34 h:3>
+Ramsus
+"Turn Lt. Elhaym<Delay 10>
+over to me,<Delay 10> Fei!"<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Fei
+"What!? Why do we have to
+turn Elly over to
+you...!?<New>
+Oh, I get it, it's
+Krelian's idea, isn't it?<New>
+I don't think so!
+You can't expect me
+to comply!"<Close><End of Block>
+<TextBlock 29 w:50 h:4>
+Ramsus
+"I can take her by force,
+if you wish.<New>
+But<Delay 5> then,<Delay 5>
+don't ever expect to be
+able to hold her in your
+arms<Delay 10> ever again!"<Close><End of Block>
+<TextBlock 30 w:10 h:1>
+Fei!!<Close><End of Block>
+<TextBlock 31 w:36 h:3>
+Fei
+"Don't worry.<Delay 10>
+I'll protect you."<Close><End of Block>
+<TextBlock 32 w:40 h:3>
+Ramsus
+"Impressive words.<New>
+Fei, I intend to
+take everything away
+from you!!"<Close><End of Block>
+<TextBlock 33 w:0 h:1>
+<Close><End of Block>

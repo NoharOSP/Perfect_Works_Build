@@ -1,0 +1,482 @@
+<TextBlock 1 w:22 h:3>
+Fei
+"This is...<Delay 10>
+Dazil..."<Close><End of Block>
+<TextBlock 2 w:48 h:2>
+Fei
+"Repair <Weltall>..."<Close><End of Block>
+<TextBlock 3 w:32 h:4>
+Fei
+"Yeah, okay doc,<Delay 15>
+let's check this
+place out then."<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Fei
+"...<Delay 10>
+Doc, do you have a moment?
+I need to talk to you."<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Fei
+"...<Delay 10>
+Well doc, it's about
+<Weltall>...<New>
+We can't find the parts
+we need, so is it alright
+if we just don't fix it?"<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Fei
+"Well, we've been able to
+come as far as Dazil on
+our own...<New>
+So doesn't that show that
+we don't need <Weltall>
+as much as we thought.<New>
+Actually, I've been
+thinking that once things
+cool down I want to go back
+to Lahan and help rebuild.<New>
+That's all I feel I can
+do now<Delay 10>..."<Close><End of Block>
+<TextBlock 7 w:36 h:4>
+Fei
+"Move it away?
+But why do we need
+to do that, doc?"<Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Fei
+"Special Force<Delay 10>...<Delay 10>
+You mean Elly's group?"<Close><End of Block>
+<TextBlock 9 w:34 h:2>
+Fei
+"New technology?"<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Fei
+"Hold on, doc!<Delay 15>
+Won't the Kislev army
+still be in Lahan too!"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Fei
+"The armies will fight over
+who gets <Weltall>...<Delay 10>
+And right near Lahan too."<Close><End of Block>
+<TextBlock 12 w:46 h:3>
+Fei
+"But, we can't fix it
+in order to move it..."<Close><End of Block>
+<TextBlock 13 w:38 h:3>
+Fei
+"What do you intend
+on doing, doc?"<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Fei
+"So then doc, what do
+you plan on doing with
+this sand buggy?"<Close><End of Block>
+<TextBlock 15 w:26 h:2>
+Fei
+"Sand buggy?"<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Fei
+"The 'Ethos'? <Delay 10>
+What do Gears have to
+do with the 'Ethos'?"<Close><End of Block>
+<TextBlock 17 w:12 h:2>
+Fei 
+"Huh?"<Close><End of Block>
+<TextBlock 18 w:52 h:3>
+Citan
+"Yes, that is right.<Delay 15> 
+The desert town of Dazil."<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Citan
+"We should be able to find
+out what both Aveh and
+Kislev are up to, here.<New>
+And we also have to gather
+the things we need to
+repair <Weltall>."<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Citan
+"Yes. We must exchange
+the broken parts to fix
+<Weltall>...<New>
+Otherwise it will not be
+able to function at all!<New>
+There is an 'Ethos'
+workshop in the southern
+part of this town.<Delay 10>
+Let us go there, Fei."<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Citan
+"Only the 'Ethos' has the
+technology to maintain
+generator driven Gear.<New>
+The 'Ethos' decides which
+Gear gets which generator
+in which country..."<Close><End of Block>
+<TextBlock 22 w:48 h:2>
+Citan
+"Yes,<Delay 5> of course,<Delay 5> Fei..."<Close><End of Block>
+<TextBlock 23 w:52 h:3>
+Citan
+"So Fei, what did you want
+to talk to me about?"<Close><End of Block>
+<TextBlock 24 w:52 h:3>
+Citan
+"Do not repair it?
+What is the problem, Fei?"<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Citan
+"...<Delay 10>I see.
+If that is what you want,
+Fei, then fine.<New>
+But I think we should
+try and move <Weltall>
+as far away from there
+as possible."<Close><End of Block>
+<TextBlock 26 w:54 h:4>
+Citan
+"It is only my
+speculation, but...<New>
+I suspect the incident that
+evening occured because the
+Gebler Special Force stole
+a Kislev Military Gear."<Close><End of Block>
+<TextBlock 27 w:54 h:4>
+Citan
+"Exactly.<New>
+When I examined the broken
+Gear in the village, I
+realized the Gebler pilot
+was riding a Kislev Gear.<New>
+It must have had some new
+technology involved in it
+for the Kislev army to send
+pursuit forces after it."<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Citan
+"I suspect that the Gebler
+Force was out to steal a
+new experimental Gear."<Close><End of Block>
+<TextBlock 29 w:52 h:4>
+Citan
+"I am sure news of the
+Special Force's failure
+has reached the capital.<New>
+They will be investigating
+the Lahan area to reclaim
+whatever parts of the new
+Gear that they can find."<Close><End of Block>
+<TextBlock 30 w:52 h:4>
+Citan
+"Most probably.<New>
+And in that case, there
+will be a conflict between
+Aveh's inspection team and
+Kislev's pursuit troops.<New>
+If they find where we have
+hidden <Weltall>..."<Close><End of Block>
+<TextBlock 31 w:54 h:4>
+Citan
+"So, to avoid any problems,
+we should move <Weltall>
+somewhere else right away!"<Close><End of Block>
+<TextBlock 32 w:54 h:4>
+Citan
+"Right.
+But staying here will
+solve nothing.<New>
+Fortunately, this is the
+center of all excavation
+work in this country.<New>
+There is bound to be some
+information on where we
+can find parts...<New>
+Anyway, the fear is often
+worse than the danger
+itself... We should not let
+such fears hold us back!"<Close><End of Block>
+<TextBlock 33 w:48 h:3>
+Citan
+"This a sand buggy.<New>
+<Delay 10>...<Delay 10>
+That is it, Fei!<New>
+I have thought of a good
+way to get the parts we
+need for <Weltall>.<New>
+Let us go back to the
+rental shop and rent out
+this buggy."<Close><End of Block>
+<TextBlock 34 w:48 h:3>
+Citan
+"This is a sand buggy.<New>
+<Delay 10>...<Delay 10>
+That is it Fei!<New>
+I have thought of a good
+way to get the parts we 
+need for <Weltall>.<New>
+First, we have got to
+find out who will rent
+us this buggy."<Close><End of Block>
+<TextBlock 35 w:52 h:4>
+Citan
+"A sand buggy is a special
+car made for the desert.<New>
+Its tires do not sink into
+the sand, so it is a must
+for long trips into the
+desert."<Close><End of Block>
+<TextBlock 36 w:46 h:3>
+Citan
+"Well, leave it to me.
+Just you wait and see."<Close><End of Block>
+<TextBlock 37 w:44 h:3>
+With that truce with
+Kislev, the war is
+basically over.<New>
+Now our job will be to
+protect the people
+from desert pirates.<Close><End of Block>
+<TextBlock 38 w:46 h:4>
+Three weeks ago Kislev
+raided the ruins to the
+north. They're probably
+coming here next.<New>
+Be careful if you go 
+digging at the ruins.<Close><End of Block>
+<TextBlock 39 w:48 h:3>
+Hey, I haven't seen you
+round here before.<New>
+Don't think that if you
+cause trouble you'll get
+away with it!<New>
+We're Aveh Army Guards!
+...Remember that!<Close><End of Block>
+<TextBlock 40 w:52 h:3>
+Feels like the war's over.
+Now thing's should get
+better. I'm so relieved.<Close><End of Block>
+<TextBlock 41 w:50 h:3>
+This is the Aveh Guard
+station.<New>
+This town is important
+because it's the base for
+excavating the ruins. <New>
+The elite of our army 
+are stationed here.<Close><End of Block>
+<TextBlock 42 w:48 h:3>
+Hey, I haven't seen you
+round here before.<New>
+Don't think that if you
+cause trouble you'll get
+away with it!<New>
+We're Aveh Army Guards!
+...Remember that!<Close><End of Block>
+<TextBlock 43 w:24 h:1>
+All's clear!<Close><End of Block>
+<TextBlock 44 w:38 h:1>
+No enemies sighted!<Close><End of Block>
+<TextBlock 45 w:48 h:4>
+Peace...
+The war's not over yet
+though.<New>
+Still, it's like heaven
+compared to when we were
+always expecting enemy
+attacks.<Close><End of Block>
+<TextBlock 46 w:54 h:3>
+There's a story floating
+around that the Kislev army
+is looking for buried Gear.<New>
+Be careful if you go
+digging in the ruins.<Close><End of Block>
+<TextBlock 47 w:48 h:3>
+Hey, I haven't seen you
+round here before.<New>
+Don't think that if you
+cause trouble you'll get
+away with it!<New>
+We're Aveh Army Guards!
+...Remember that!<Close><End of Block>
+<TextBlock 48 w:46 h:3>
+Someone named Sigurd is
+in charge until the
+change to a republic.<New>
+...Do you think a
+republic is a good
+idea?<New>
+Anyway, I'm just glad
+that an end to the war
+is in sight.<Close><End of Block>
+<TextBlock 49 w:58 h:3>
+The battle with Kislev the
+other day in the desert ended
+in a complete victory for us.<New>
+We need the army because they
+get us generators from the
+Gears found in the ruins.<New>
+We'll never give this town
+or our ruins to Kislev.<Close><End of Block>
+<TextBlock 50 w:48 h:3>
+Hey, I haven't seen you
+'round here before.<New>
+Don't think that if you
+cause trouble you'll get
+away with it!<New>
+We're Aveh Army Guards!
+...Remember that!<Close><End of Block>
+<TextBlock 51 w:52 h:3>
+There are burglars out
+looking for treasure
+in the desert ruins!<New>
+<Delay 5>...<Delay 5>Brrr<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>Shivers<Delay 5>...!<Delay 5>
+Oh,<Delay 5> I just wet my pants.<New>
+You better be careful too.<Close><End of Block>
+<TextBlock 52 w:52 h:3>
+There's a lotta people
+who get lost in the desert
+and die of starvation!<New>
+<Delay 5>...<Delay 5>Brrr<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>Shivers<Delay 5>...!<Delay 5>
+Oh,<Delay 5> I just pooed my pants.<New>
+You better be careful too.<Close><End of Block>
+<TextBlock 53 w:34 h:2>
+Gee, I wanna
+climb up there...<Close><End of Block>
+<TextBlock 54 w:20 h:1>
+ Welcome! <Close><End of Block>
+<TextBlock 55 w:54 h:3>
+I counted on the war so I
+bought a lot of stuff...<New>
+So what happens to my money
+when we become a republic?
+I'm gonna get wiped out!<Close><End of Block>
+<TextBlock 56 w:50 h:3>
+Lately there's rumors of
+all out war with Kislev.<New>
+I'm gonna stock up while
+there're still just small
+border skirmishes.<Close><End of Block>
+<TextBlock 57 w:48 h:2>
+Hmm, the prices are a
+little high.<New>
+But we need these things
+to cross the desert...<Close><End of Block>
+<TextBlock 58 w:52 h:3>
+Shakhan who had been
+ruling this country
+has been chased out!<New>
+The war with Kislev might
+end, and life will be easy
+again. I'm so happy.<Close><End of Block>
+<TextBlock 59 w:50 h:3>
+Since those Gebler forces
+came, Aveh's hardly ever
+lost to Kislev.<New>
+I wish the 'Ethos' would
+give out some of those
+new powerful Gears.<Close><End of Block>
+<TextBlock 60 w:50 h:4>
+Hmm, you look tired.
+You can stay overnight at
+the bar, so why don't you
+rest there a little bit?<New>
+Travelling all worn and
+tired, might just get you
+killed.<Close><End of Block>
+<TextBlock 61 w:46 h:2>
+Hey, why the long face?
+Something bad happen?<New>
+It's times like this,
+you need a drink...<New>
+<Delay 20>or two,<Delay 20> or three<Delay 20>...<Close><End of Block>
+<TextBlock 62 w:50 h:3>
+The army's been sending a
+lot of guys down here...<New>
+But surely, there has to
+be a more efficient way
+to excavate those ruins!<Close><End of Block>
+<TextBlock 63 w:42 h:3>
+I'm in a 'fix'...
+The generator sensor
+is broken...<New>
+It's the only thing
+that can sense buried
+Gear generators...<New>
+Without that, I'm
+'ruin'ed!<Close><End of Block>
+<TextBlock 64 w:48 h:4>
+There's a buncha thieves
+out in the desert called
+Sandmen... So you gotta
+equip yourself properly.<New>
+If you don't, you only
+have yourself to blame.<Close><End of Block>
+<TextBlock 65 w:52 h:4>
+There's a buncha pirates
+in a sand cruiser out in
+the desert... So you gotta
+equip yourself properly.<New>
+If you don't, you only
+have yourself to blame.<Close><End of Block>
+<TextBlock 66 w:52 h:3>
+Taking excavated parts to
+the workshop doesn't pay
+so well anymore.<New>
+I hear they might downsize
+the workshop...times are
+tough, I tell ya.<Close><End of Block>
+<TextBlock 67 w:56 h:3>
+Big profits for little work!
+That's the best way to make
+money... That's the knack!<New>
+We make our money selling
+the parts we excavate to
+the 'Ethos'.<New>
+The rarer the parts, the
+better the price!<Delay 20>
+'Dig it'!?<Close><End of Block>
+<TextBlock 68 w:24 h:3>
+So...
+What do you
+want to buy?<Close><End of Block>
+<TextBlock 69 w:42 h:2>
+Fei
+"This town's lively."<Close><End of Block>
+<TextBlock 70 w:50 h:4>
+Citan
+"This is the center for
+all excavations in Aveh.<New>
+People come from all over
+Ignas to try and find the
+resources buried in the
+ruins around here."<Close><End of Block>
+<TextBlock 71 w:44 h:2>
+Treasure Hunter Assoc.
+  Dazil Chapter <Close><End of Block>
+<TextBlock 72 w:36 h:2>
+  -Lucky Avenue-  
+ 'A relaxing bar' <Close><End of Block>
+<TextBlock 73 w:34 h:1>
+ Workshop Admin. <Close><End of Block>
+<TextBlock 74 w:20 h:1>
+ Workshop <Close><End of Block>
+<TextBlock 75 w:54 h:7>
+     Extra, extra!
+War in the desert again?
+ 
+   A new unit has been
+   assigned to a Kislev
+   base on the border.
+   An elite Kislev force...<Close><End of Block>
+<TextBlock 76 w:48 h:4>
+Citan
+"Let us go the that shop
+we visited earlier and
+rent the buggy."<Close><End of Block>
+<TextBlock 77 w:46 h:4>
+Citan
+"Fei, let us first find
+the person who will
+rent us this buggy."<Close><Close><End of Block>

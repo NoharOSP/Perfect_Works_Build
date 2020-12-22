@@ -1,0 +1,13 @@
+<TextBlock 1 w:8 h:1>
+Here<Close><End of Block>
+<TextBlock 2 w:8 h:1>
+Here<Close><End of Block>
+<TextBlock 3 w:12 h:4>
+?
+Up
+Down
+Cancel<Close><End of Block>
+<TextBlock 4 w:8 h:1>
+Here<Close><End of Block>
+<TextBlock 5 w:8 h:1>
+Here<Close><Close><End of Block>

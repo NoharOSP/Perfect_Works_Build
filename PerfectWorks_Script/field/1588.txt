@@ -1,0 +1,545 @@
+<TextBlock 1 w:50 h:4>
+Fei
+"For being in storage for
+so long, this thing's in
+great condition!"<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Fei
+"...<Delay 30> It kinda looks
+a lot like Bart's Gear."<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Fei
+"The drive unit's been
+sealed..."<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+Fei
+"Now, how do I get it
+out?"<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+Fei
+"You<Delay 30> said it would appear
+above if it read the eyes.<New>
+You think you can move this
+building?"<Close><End of Block>
+<TextBlock 6 w:22 h:2>
+Fei
+"Let's go!"<Close><End of Block>
+<TextBlock 7 w:14 h:2>
+Fei!
+"Yeah!"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Elly
+"For being in storage for
+so long, this thing's in
+great condition!"<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Elly
+"This...<Delay 30> looks
+a lot like your Gear."<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+Elly
+"Is the drive unit
+sealed?"<Close><End of Block>
+<TextBlock 11 w:54 h:2>
+Elly
+"How do I get it out next?"<Close><End of Block>
+<TextBlock 12 w:56 h:4>
+Elly
+"Earlier...<Delay 30> you
+said that it would appear
+above if it read the eyes...<Delay 30><New>
+You think this structure
+might be able to move?"<Close><End of Block>
+<TextBlock 13 w:22 h:2>
+Elly
+"Let's go!"<Close><End of Block>
+<TextBlock 14 w:12 h:2>
+Elly
+"Yes!"<Close><End of Block>
+<TextBlock 15 w:56 h:3>
+Citan
+"Such excellent condition...
+incredible!"<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Citan
+"Wait a minute...<Delay 30>
+it resembles...<New>
+Bart's Gear. There must be
+a connection."<Close><End of Block>
+<TextBlock 17 w:48 h:3>
+Citan
+"It looks like the drive
+unit is sealed."<Close><End of Block>
+<TextBlock 18 w:42 h:3>
+Citan
+"Now, how shall I get
+this out?"<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Citan
+"You...<Delay 30>spoke about
+letting it read your eyes
+to make it appear above...<New>
+Can this structure move?"<Close><End of Block>
+<TextBlock 20 w:38 h:2>
+Citan
+"We should all go!"<Close><End of Block>
+<TextBlock 21 w:12 h:2>
+Citan
+"Yes!"<Close><End of Block>
+<TextBlock 22 w:20 h:2>
+Billy
+"...This!"<Close><End of Block>
+<TextBlock 23 w:36 h:3>
+Billy
+"But...<Delay 30> it looks
+like Bart's Gear."<Close><End of Block>
+<TextBlock 24 w:38 h:2>
+Billy
+"So it's sealed..."<Close><End of Block>
+<TextBlock 25 w:44 h:4>
+Billy
+"I must get this thing
+out.<Delay 30> What am I
+going to do?"<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+"You...<Delay 30>said it would
+show itself above if it
+read the eyes...<Delay 30><New>
+You think this structure
+can move?"<Close><End of Block>
+<TextBlock 27 w:30 h:2>
+Billy
+"We should go!"<Close><End of Block>
+<TextBlock 28 w:14 h:2>
+Billy
+"Yeah!"<Close><End of Block>
+<TextBlock 29 w:32 h:2>
+Rico
+"...Incredible!"<Close><End of Block>
+<TextBlock 30 w:40 h:4>
+Rico
+"Hey...<Delay 30> doesn't
+this look a lot like
+yours?"<Close><End of Block>
+<TextBlock 31 w:46 h:3>
+Rico
+"Yeah, the drive unit's
+locked..."<Close><End of Block>
+<TextBlock 32 w:48 h:3>
+Rico
+"How am I gonna get this
+sucker out?"<Close><End of Block>
+<TextBlock 33 w:52 h:4>
+Rico
+"Didn't you...<Delay 30>say that
+it would show itself above
+if it read the eyes...<Delay 30><New>
+You think this structure
+can move?"<Close><End of Block>
+<TextBlock 34 w:38 h:2>
+Rico
+"Hey, we're going!"<Close><End of Block>
+<TextBlock 35 w:14 h:2>
+Rico
+"Yeah!"<Close><End of Block>
+<TextBlock 36 w:44 h:3>
+Maria
+"...What an impressive
+machine!"<Close><End of Block>
+<TextBlock 37 w:50 h:3>
+Maria
+"It kinda feels like your
+machine, Bart."<Close><End of Block>
+<TextBlock 38 w:46 h:3>
+Maria
+"Is there anything else
+we should do?"<Close><End of Block>
+<TextBlock 39 w:46 h:3>
+Maria
+"We're going to let him
+out, right?"<Close><End of Block>
+<TextBlock 40 w:56 h:4>
+Maria
+""Earlier...<Delay 30> you
+said that it would appear
+above if it read the eyes...<Delay 30><New>
+You think this structure
+might be able to move?"<Close><End of Block>
+<TextBlock 41 w:22 h:2>
+Maria
+"Let's go!"<Close><End of Block>
+<TextBlock 42 w:28 h:2>
+Maria
+"We're going!"<Close><End of Block>
+<TextBlock 43 w:48 h:3>
+<Chu-Chu>
+"Waaahaaaooow!<Delay 30>
+This is chu impressive!"<Close><End of Block>
+<TextBlock 44 w:38 h:3>
+<Chu-Chu>
+"It sure looks like
+Bart's Gear!"<Close><End of Block>
+<TextBlock 45 w:50 h:3>
+<Chu-Chu>
+"The ancestors haven't
+given us permission chu!"<Close><End of Block>
+<TextBlock 46 w:46 h:2>
+<Chu-Chu>
+"Now, chu let chu out."<Close><End of Block>
+<TextBlock 47 w:50 h:4>
+<Chu-Chu>
+"You said before...<Delay 30>
+'it shall appear above 
+if it reads the eyes'...<New>
+Are you thinking that
+this structure can move?"<Close><End of Block>
+<TextBlock 48 w:36 h:2>
+<Chu-Chu>
+"We're going chu!"<Close><End of Block>
+<TextBlock 49 w:18 h:2>
+<Chu-Chu>
+"Go!"<Close><End of Block>
+<TextBlock 50 w:16 h:2>
+Emeralda
+"...<Delay 30>!"<Close><End of Block>
+<TextBlock 51 w:56 h:2>
+Emeralda
+"It looks like Bart's Gear."<Close><End of Block>
+<TextBlock 52 w:40 h:3>
+Emeralda
+"There're still some
+active locks..."<Close><End of Block>
+<TextBlock 53 w:50 h:3>
+Emeralda
+"Next, I guess it's going
+out."<Close><End of Block>
+<TextBlock 54 w:38 h:2>
+Emeralda
+"Doesn't this fly?"<Close><End of Block>
+<TextBlock 55 w:22 h:2>
+Emeralda
+"Let's go!"<Close><End of Block>
+<TextBlock 56 w:18 h:2>
+Emeralda
+"Uh huh!"<Close><End of Block>
+<TextBlock 57 w:54 h:4>
+Bart
+"Huh?<Delay 30>
+Oh yeah...<Delay 30>
+Now that you mention it...<New>
+Well,<Delay 30> if you trace my
+<Brigandier>'s history, it
+was a Gear originaly made
+in Aveh, that I customized.<New>
+It wouldn't surprise me if
+there was some connection."<Close><End of Block>
+<TextBlock 58 w:54 h:5>
+Bart
+"Yeah well...<Delay 30>
+Looks like there's no power
+drawn here except for the
+emergency lights."<Close><End of Block>
+<TextBlock 59 w:48 h:3>
+Fei
+"This Gear too...<Delay 30>
+No power in the lights."<Close><End of Block>
+<TextBlock 60 w:48 h:4>
+Bart
+"Hmm.<Delay 30>
+The control panels down
+there didn't do much...<New>
+Meaning there's probably
+something around here."<Close><End of Block>
+<TextBlock 61 w:48 h:4>
+Bart
+"Hmm.<Delay 30>
+There might be something
+around here."<Close><End of Block>
+<TextBlock 62 w:46 h:3>
+Bart
+"All right, this should
+work."<Close><End of Block>
+<TextBlock 63 w:46 h:3>
+Margie
+"Now, how am I going to
+get this out?"<Close><End of Block>
+<TextBlock 64 w:14 h:2>
+Bart
+"Yeah."<Close><End of Block>
+<TextBlock 65 w:46 h:3>
+Bart
+"Okay, let's go back
+downstairs and try it."<Close><End of Block>
+<TextBlock 66 w:46 h:2>
+Bart
+"OK, this should work."<Close><End of Block>
+<TextBlock 67 w:42 h:4>
+Bart
+"No.<Delay 30> That last room
+looked like a bridge.<Delay 30>
+Let's check it out!"<Close><End of Block>
+<TextBlock 68 w:54 h:4>
+Bart
+"No.<Delay 30>
+There's gotta be some sorta
+control room here.<Delay 30><New>
+Let's find it!"<Close><End of Block>
+<TextBlock 69 w:50 h:3>
+Bart
+"Father,<Delay 30> looks like we're
+gonna have to move this.<New>
+Sorry, but I'll have to
+borrow it."<Close><End of Block>
+<TextBlock 70 w:28 h:4>
+Bart
+"Margie!?<Delay 30>
+Is that you...<Delay 30>
+moving it?"<Close><End of Block>
+<TextBlock 71 w:20 h:2>
+Bart
+"...Crap!"<Close><End of Block>
+<TextBlock 72 w:24 h:2>
+Bart
+"You okay!?"<Close><End of Block>
+<TextBlock 73 w:54 h:4>
+Margie
+"My leg...<Delay 30>got shot.<Delay 30>
+Heh...<Delay 30>looks like I'm
+causing you trouble again."<Close><End of Block>
+<TextBlock 74 w:44 h:4>
+Bart
+"Stupid!<Delay 30>
+Why'd you put yourself
+in danger like that!?"<Close><End of Block>
+<TextBlock 75 w:52 h:4>
+Margie
+"I...<Delay 30>it wasn't much,
+I just thought this is the
+least I could do for you."<Close><End of Block>
+<TextBlock 76 w:28 h:3>
+Bart
+"...<Delay 30>Dumb...<New>
+Stupid!
+<Delay 30>You're the
+biggest fool!"<Close><End of Block>
+<TextBlock 77 w:28 h:2>
+Margie
+"...<Delay 30>heh, heh."<Close><End of Block>
+<TextBlock 78 w:36 h:2>
+Bart
+"...<Delay 30>Can you move?"<Close><End of Block>
+<TextBlock 79 w:38 h:2>
+Margie
+"Uh huh...<Delay 30>I guess."<Close><End of Block>
+<TextBlock 80 w:42 h:3>
+Shakhan
+"Minor damage can be
+repaired.<New>
+Aim for the cockpit!"<Close><End of Block>
+<TextBlock 81 w:18 h:2>
+Bart
+"Dammit!"<Close><End of Block>
+<TextBlock 82 w:50 h:4>
+Bart
+"It's too dangerous to go
+outside now.<Delay 30>
+Can you hold on?"<Close><End of Block>
+<TextBlock 83 w:24 h:3>
+Margie
+"Don't worry<Delay 30>
+about me."<Close><End of Block>
+<TextBlock 84 w:20 h:2>
+Bart
+"...<Delay 30>Damn!"<Close><End of Block>
+<TextBlock 85 w:52 h:3>
+Bart
+"Wha,<Delay 30> what the!?<Delay 30>
+There's no control stick!<New>
+How am I gonna move this?"<Close><End of Block>
+<TextBlock 86 w:30 h:2>
+"Are you okay,
+young master!?"<Close><End of Block>
+<TextBlock 87 w:44 h:4>
+Bart
+"...<Delay 30>Sig!?
+Ya know how to operate
+this thing?"<Delay 30><Close><End of Block>
+<TextBlock 88 w:46 h:2>
+Sigurd
+"...What do you mean!?"<Close><End of Block>
+<TextBlock 89 w:46 h:3>
+Bart
+"There are no controls!
+What am I gonna do?"<Close><End of Block>
+<TextBlock 90 w:26 h:2>
+Bart
+"Uuuaaaaahh!"<Close><End of Block>
+<TextBlock 91 w:40 h:2>
+Shakhan
+"Impudent little..."<Close><End of Block>
+<TextBlock 92 w:32 h:3>
+Bart
+"H,<Delay 30> how!?<Delay 30>
+How'd it move!?"<Close><End of Block>
+<TextBlock 93 w:54 h:2>
+"I got it!<Delay 30>
+Young one, you must think!"<Close><End of Block>
+<TextBlock 94 w:46 h:2>
+Bart
+"That voice...<Delay 30> Citan!?"<Close><End of Block>
+<TextBlock 95 w:50 h:5>
+Citan
+"Apparently, the Omnigear
+does not function by
+mechanical controls, but
+mental ones.<New>
+Remember how Elly and the
+Omnigear in Shevat
+responded?"<Close><End of Block>
+<TextBlock 96 w:22 h:2>
+Bart
+"...<Delay 30>But..."<Close><End of Block>
+<TextBlock 97 w:54 h:3>
+Citan
+"Margie probably moved it
+through the same means.<New>
+Young one, try and
+envision the Gear moving.<New>
+Then the Gear should react
+to the image in your head."<Close><End of Block>
+<TextBlock 98 w:38 h:2>
+Bart
+"Now that I know...<New>
+...<Delay 30>here goes!"<Close><End of Block>
+<TextBlock 99 w:32 h:2>
+Shakhan
+"Damn you, boy!"<Close><End of Block>
+<TextBlock 100 w:54 h:4>
+Citan
+"Fortunately, the bullet
+passed through.<Delay 30> I will
+apply some first aid.<New>
+Later, when we return to
+the city, we should have
+it looked over thoroughly."<Close><End of Block>
+<TextBlock 101 w:42 h:2>
+Bart
+"Good...<Delay 30>I'm glad.<Delay 30><New>
+When she passed out I
+thought the worst."<Close><End of Block>
+<TextBlock 102 w:20 h:2>
+Margie
+"...<Delay 30>Bart."<Close><End of Block>
+<TextBlock 103 w:40 h:2>
+Bart
+"...<Delay 30>How ya feelin'?"<Close><End of Block>
+<TextBlock 104 w:52 h:3>
+Margie
+"...<Delay 30>Okay.<New>
+You know,<Delay 30> when I
+passed out, I still heard
+your voice.<New>
+For some strange reason...
+your cries reached me.<New>
+That's why I thought I had
+to help you..."<Close><End of Block>
+<TextBlock 105 w:50 h:3>
+Bart
+"...<Delay 30>Oh.<New>
+We were fighting together
+weren't we? You<Delay 30> 
+protected me."<Delay 30><Close><End of Block>
+<TextBlock 106 w:50 h:4>
+Bart
+"But,<Delay 30> is this
+really the legendary Gear
+in the scroll of our<New>
+founding nation?"<Close><End of Block>
+<TextBlock 107 w:48 h:4>
+Bart
+"The way it handles,
+it feels just like my
+<Brigandier>...<New>
+...Except maybe it's
+a little more powerful."<Close><End of Block>
+<TextBlock 108 w:52 h:4>
+Citan
+"Perhaps...<New>
+The controls, output and
+weapons are similar and
+adjust to the strength of
+the pilot's mental waves."<Close><End of Block>
+<TextBlock 109 w:54 h:4>
+Citan
+"If so, the pilot must be
+skilled at mentally merging
+with the Gear to gain its<New>
+true power.
+Marguerite was able to move
+the Gear through her strong
+desire to help you.<New>
+It was her strength
+that moved it."<Close><End of Block>
+<TextBlock 110 w:50 h:3>
+Bart
+"Meaning, I'd have to get
+used to it?"<Close><End of Block>
+<TextBlock 111 w:50 h:2>
+Citan
+"That would be the case."<Close><End of Block>
+<TextBlock 112 w:44 h:4>
+Bart
+"Ergh.<Delay 30> I already
+went through a lot of
+trouble getting it..."<Close><End of Block>
+<TextBlock 113 w:52 h:4>
+Citan
+"Do not be discouraged.<New>
+We now know that these
+Omnigears were used in the
+battle between the land
+and Solaris.<New>
+Even now, the 'Ethos' and
+Solaris are seeking the
+Omnigears.<New>
+At least, this one did not
+fall into their hands.<New>
+Eventually, you will be
+able to unleash its power.<New>
+Let us hope you use it
+for the right reasons."<Close><End of Block>
+<TextBlock 114 w:60 h:7>
+ 
+     "Peace to all those
+        who come here.<Delay 30>
+   Fearing great calamity,
+    we sealed this legacy,
+ entrusting its fate to you." 
+ <Close><End of Block>
+<TextBlock 115 w:12 h:2>
+Bart
+"...?"<Close><End of Block>
+<TextBlock 116 w:54 h:2>
+Bart
+"Something's written here."<Close><End of Block>
+<TextBlock 117 w:54 h:2>
+Bart
+"Does anyone have a light?"<Close><End of Block>
+<TextBlock 118 w:46 h:3>
+Bart
+"This...<Delay 30>
+There's an inscription.<New>
+It's in old Fatima.
+<Delay 30>...<Delay 30>...It's my
+ancestors'."<Close><End of Block>
+<TextBlock 119 w:38 h:2>
+Margie
+"What does it say?"<Close><End of Block>
+<TextBlock 120 w:60 h:7>
+ 
+     "Peace to all those
+        who come here.<Delay 30>
+   Fearing great calamity,
+    we sealed this legacy,
+ entrusting its fate to you." 
+ <Close><Close><End of Block>

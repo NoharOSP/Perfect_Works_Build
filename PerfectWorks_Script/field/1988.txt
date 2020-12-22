@@ -1,0 +1,96 @@
+<TextBlock 1 w:40 h:3>
+I don't know why but
+recently, families
+keep increasing.<Close><End of Block>
+<TextBlock 2 w:54 h:3>
+I wasn't planning on living
+here,<Delay 60> but my son's family
+is with me.<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+I never thought I'd live
+here...<Delay 50>I wanted to make
+my parents happy.<Close><End of Block>
+<TextBlock 4 w:56 h:4>
+After losing our home in
+Kislev...we lost our home
+in Aveh, too. So we decided
+to stay here for a while.<New>
+But next time, I want to
+live somewhere that's green.<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+It's not bad. There are
+a lot of people, and it's
+fun to play in the snow.<Close><End of Block>
+<TextBlock 6 w:50 h:2>
+I like this house because
+there are lots of cats!<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+This isn't bad at all
+compared to military camp
+and the cat house.<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+We had a hard time
+evacuating because my
+daughter begged us to take
+all the cats with us.<Close><End of Block>
+<TextBlock 9 w:48 h:2>
+It's tremendously lonely
+without cats.<Close><End of Block>
+<TextBlock 10 w:22 h:1>
+<End of Block>
+<TextBlock 11 w:0 h:0>
+<End of Block>
+<TextBlock 12 w:0 h:0>
+<End of Block>
+<TextBlock 13 w:0 h:0>
+<End of Block>
+<TextBlock 14 w:0 h:0>
+<End of Block>
+<TextBlock 15 w:0 h:0>
+<End of Block>
+<TextBlock 16 w:0 h:0>
+<End of Block>
+<TextBlock 17 w:0 h:0>
+<End of Block>
+<TextBlock 18 w:0 h:0>
+<End of Block>
+<TextBlock 19 w:0 h:0>
+<End of Block>
+<TextBlock 20 w:0 h:0>
+<End of Block>
+<TextBlock 21 w:0 h:0>
+<End of Block>
+<TextBlock 22 w:0 h:0>
+<End of Block>
+<TextBlock 23 w:0 h:0>
+<End of Block>
+<TextBlock 24 w:0 h:0>
+<End of Block>
+<TextBlock 25 w:0 h:0>
+<End of Block>
+<TextBlock 26 w:0 h:0>
+<End of Block>
+<TextBlock 27 w:0 h:0>
+<End of Block>
+<TextBlock 28 w:0 h:0>
+<End of Block>
+<TextBlock 29 w:0 h:0>
+<End of Block>
+<TextBlock 30 w:0 h:0>
+<End of Block>
+<TextBlock 31 w:0 h:0>
+<End of Block>
+<TextBlock 32 w:0 h:0>
+<End of Block>
+<TextBlock 33 w:0 h:0>
+<End of Block>
+<TextBlock 34 w:0 h:0>
+<End of Block>
+<TextBlock 35 w:0 h:0>
+<End of Block>
+<TextBlock 36 w:0 h:0>
+<End of Block>
+<TextBlock 37 w:0 h:0>
+<End of Block>
+<TextBlock 38 w:0 h:0>
+    roll = <Opcode 12 0><Close><Close><End of Block>

@@ -1,0 +1,79 @@
+<TextBlock 1 w:36 h:4>
+Maison
+"Oh, young master!
+You still haven't
+rested yet?" <Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Bart
+"Old Maison, there is
+one thing I want to
+ask you."<Close><End of Block>
+<TextBlock 3 w:26 h:2>
+Maison
+"What is it?"<Close><End of Block>
+<TextBlock 4 w:48 h:2>
+Bart
+"Where was Sigurd born?"<Close><End of Block>
+<TextBlock 5 w:46 h:2>
+Maison
+"Young master, that..."<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Bart
+"He has blue eyes...
+it's the Fatima Jasper."<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Maison
+"...Well...<Delay 50>
+It was long ago.<New>
+When his Majesty and
+I were still young...<New>
+Long before his Majesty
+knew my young master's
+mother.<New>
+His Majesty was in love
+with a certain girl
+from a small religious
+sect east of Aveh.<New>
+This sect was quite
+different from Nisan and
+the 'Ethos' but she was
+very beautiful.<New>
+Then...
+she just disappeared.
+Later there were rumors
+of her having a child."<Close><End of Block>
+<TextBlock 8 w:48 h:3>
+Bart
+"She disappeared?
+Did father abandon her?"<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Maison
+"As far as I know, it was
+the opposite. His Majesty
+was abandoned."<Close><End of Block>
+<TextBlock 10 w:38 h:3>
+Bart
+"Sig is from Aveh's
+eastern desert..."<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Maison
+"Indeed. When he was 10, he
+was assigned to his Majesty
+King Edbart, as a squire."<Close><End of Block>
+<TextBlock 12 w:48 h:3>
+Oh my, Major Vanderkaum!
+Bringing this thing
+into the room...<New>
+It's going to be so
+difficult to clean
+with this here.<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+I thought Maison would
+clean that up for me, 
+but instead, when he saw
+it, he got so excited.<New>
+Men...<Close><End of Block>
+<TextBlock 14 w:70 h:3>
+<Opcode 1 255>There's probably a guard outside...
+    Open the door
+    Just take a peek<Close><Close><End of Block>

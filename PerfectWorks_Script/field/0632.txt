@@ -1,0 +1,250 @@
+<TextBlock 1 w:44 h:7>
+<Opcode 1 255>
+ 
+ 
+ 
+ 
+In the next episode of
+     "XENOGEARS"...<Opcode 2 180><Opcode 2 180><Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Fei
+"Yeah tomorrow, huh...
+Your wedding with Alice!
+Now that is a big day!"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Fei
+"Hey, errh, Timothy.
+I just want to thank
+both you and Alice...<New>
+3 years ago, I woke up
+in this village without
+a trace of my memory...<New>
+I didn't know who I was,
+where I had been or what
+I had been doing up until
+that day...<New>
+I couldn't recall a
+single thing..."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Fei
+"Despite that, you and
+Alice sympathized with me
+and encouraged me to go on.<New>
+If the two of you hadn't
+have been there for me,
+I don't know what would
+have become of me..."<Close><End of Block>
+<TextBlock 5 w:42 h:4>
+Fei
+"Timothy...<Delay 20>
+From the bottom of my
+heart, I thank you!<New>
+Now, you and Alice
+had better live
+happily ever after!"<Close><End of Block>
+<TextBlock 6 w:24 h:2>
+Fei
+"Of course!"<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Fei
+"Yeah, sure!
+I'll do that...<Delay 20> Anyway,
+I'll see you later.<New>
+Oh, and I am really
+looking forward to the
+ceremony tomorrow."<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Fei
+"Why, hello there Dan!<Delay 20>
+You're lively today...
+as you are everyday!"<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Fei
+"What is it, Dan?<Delay 20>
+It sounds serious!"<Close><End of Block>
+<TextBlock 10 w:40 h:3>
+Fei
+"Huh...?<Delay 30> 
+What's up with him?"<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Timothy
+"So how was Alice?<Delay 30> I still
+can't believe we're really
+getting married tomorrow!<New>
+It's such a weird feeling.<Delay 30>
+We've always been together
+ever since we were just
+little kids..."<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Timothy
+"Could you go check up
+on Alice for me...?<New>
+The old man and I have
+still got to discuss
+things with her uncle
+and the village chief."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Timothy
+"Yo! Hi there, Fei.
+Sorry for us all using
+your house like this.<New>
+But, we have to talk about
+the big day tomorrow with
+the village chief."<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Timothy
+"Yeah... right...<Delay 20>
+But it still hasn't hit
+me as reality though."<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Timothy
+"Hah! Quit it will ya!
+You don't have to go and
+get all mushy on me...<New>
+Anyway, to me it feels
+like I've always been
+friends with you ever
+since we were kids."<Close><End of Block>
+<TextBlock 16 w:48 h:3>
+Timothy
+"And we will go on being
+friends forever, right?"<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Timothy
+"Oh yeah, Fei...
+Could you stop by
+and check on Alice?<New>
+I still have stuff to
+discuss with my old man
+and the village chief.<New>
+But I'm sure she'll
+be glad to have some
+company."<Close><End of Block>
+<TextBlock 18 w:46 h:4>
+Timothy
+"Dan!<Delay 30> Don't be so rude.
+What's this barging in
+and all?"<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Timothy
+"As of tomorrow, I'm
+going to be that kid's
+brother-in-law...<New>
+Hah!
+That part isn't going
+to be no honeymoon!"<Close><End of Block>
+<TextBlock 20 w:44 h:3>
+"So there you are!<Delay 30> 
+Fei, I have to talk to
+you about something!"<Close><End of Block>
+<TextBlock 21 w:32 h:3>
+Dan
+"Argh! Timothy's
+here too."<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+Dan
+"Butt out, Timothy!<New>
+Until you marry my
+sister, you have
+nothing to do
+with me at all!<New>
+I just have some
+business here with
+my friend Fei!"<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Dan
+"So anyway Fei, I errh...
+I have something to talk
+to ya about later..."<Close><End of Block>
+<TextBlock 24 w:50 h:3>
+Dan
+"Yeah, that's why I can't
+talk about it here...<New>
+There's a certain person
+listening in who could
+cause us trouble...!"<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Dan
+"It's really important!<Delay 20>
+We gotta talk,<Delay 20> seriously,<Delay 20>
+one-on-one, man-to-man!<New>
+I'll be hanging around
+outside. So I'll see
+ya there later, OK!"<Close><End of Block>
+<TextBlock 26 w:46 h:4>
+Dan
+"Be seein' ya, Timothy!<Delay 30>
+Take care of yourself
+until tomorrow..."<Close><End of Block>
+<TextBlock 27 w:42 h:4>
+Chief Lee
+"Oh, it's you, Fei.<New>
+We're in the middle
+of discussing Timothy
+and Alice's wedding
+arrangements."<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Chief Lee
+"Hey, why don't you bring
+a girlfriend or two home
+once in a while?<New>
+Just because you live with
+an old man like me doesn't
+mean you have to hold back
+now, you hear!?<New>
+Why, when I was as young
+as you are, it seemed like
+everyday I would..."<Close><End of Block>
+<TextBlock 29 w:10 h:2>
+Ahem!<Delay 20>
+Ohum!<Opcode 2 40><Close><End of Block>
+<TextBlock 30 w:48 h:4>
+Chief Lee
+"Oh, errh... never mind.<New>
+Now, we still have
+important things to
+discuss...<Delay 20> so don't
+get in the way now."<Close><End of Block>
+<TextBlock 31 w:38 h:4>
+Chief Lee
+"We still have many
+important things to
+talk about...<New>
+So you had better
+not bother us now."<Close><End of Block>
+<TextBlock 32 w:46 h:4>
+Timothy's Father
+"Hello there, Fei.<New>
+Our Timothy is a really
+lucky boy to be able to
+marry such a beautiful
+girl like Alice!<New>
+I hope you come up with
+some embarrassing tales
+to tell in your speech!
+Hah haah haaah!"<Close><End of Block>
+<TextBlock 33 w:56 h:3>
+Alice's Uncle
+"I don't know whether to be
+happy or sad...<New>
+Tomorrow, our little Alice
+is going to become someone's
+wife...<New>
+I knew this day would come!<Delay 20>
+...This is the worst part of
+bringing up a little girl!"<Close><End of Block>
+<TextBlock 34 w:14 h:1>
+Sigh...<Opcode 2 20><Close><End of Block>
+<TextBlock 35 w:56 h:3>
+You know Fei, I am sure that
+our village chief thinks of
+you as his own grandson...<New>
+Not having any family for
+all those years, and living
+on his own for oh so long...<New>
+That's why he cares so very
+dearly about you!<Close><End of Block>
+<TextBlock 36 w:62 h:3>
+Please, never do anything that
+would break his poor old heart!<Delay 20>
+You promise me that, Fei!?<Close><Close><End of Block>

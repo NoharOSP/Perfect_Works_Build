@@ -1,0 +1,79 @@
+<TextBlock 1 w:46 h:4>
+Bart
+"Huh! What an idiot.
+Trying to scare us with
+all show and no power,<New>
+eh, Fei!"<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Bart
+"Anyway...looks like
+that's the exit.<New>
+So, it'll soon be adios
+to this old cavern!"<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+Bart
+"What the...!?"<Close><End of Block>
+<TextBlock 4 w:26 h:4>
+Bart
+"Woooh! What
+the hell did
+you just do?"<Close><End of Block>
+<TextBlock 5 w:14 h:2>
+Bart
+"Hey!!"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Bart
+"What do you mean
+'huh?'!? What in blazes
+was that?<New>
+... Don't you know?"<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Bart
+"That was incredible!
+You just blew that huge
+thing to pieces!<New>
+Why didn't you use
+that technique a bit
+earlier?"<Close><End of Block>
+<TextBlock 8 w:44 h:3>
+Bart
+"Hmm. Oh well, I guess
+that doesn't matter.<New>
+Anyway...
+thanks for helping
+me out!"<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Bart
+"So, now that we've got
+rid of that nuisance,<New>
+let's get out of here,
+eh, Fei!"<Close><End of Block>
+<TextBlock 10 w:28 h:3>
+"............"<Close>
+Fei
+".<Delay 20>.<Delay 20>.<Delay 20>.<Delay 20>.<Delay 20>.<Delay 20>.<Delay 20>.<Delay 20>.<Delay 20>.<Delay 20>.<Delay 20>."<Delay 90><Close><End of Block>
+<TextBlock 11 w:8 h:2>
+Fei
+"!?"<Close><End of Block>
+<TextBlock 12 w:30 h:3>
+Fei
+"Get out of the
+way, Bart!!"<Close><End of Block>
+<TextBlock 13 w:16 h:2>
+Fei
+"......"<Close><End of Block>
+<TextBlock 14 w:24 h:2>
+Fei
+"......huh?"<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+Fei
+"...No,<Delay 30> I<Delay 30> err,<Delay 30>
+......I don't know."<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Fei
+"... I don't know that
+technique... I have no
+idea how I even did it!"<Close><End of Block>
+<TextBlock 17 w:22 h:2>
+Fei
+"........."<Close><Close><Close><Close>B<End of Block>

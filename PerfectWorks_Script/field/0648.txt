@@ -1,0 +1,168 @@
+<TextBlock 1 w:10 h:1>
+Wow!?<Opcode 2 40><Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Fei
+"W,<Delay 30> what is this...?"<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Fei
+"So this is what doc
+was talking about.<New>
+Let me see...<Delay 30>
+what's so interesting
+about it..."<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+Fei
+"This music...?<Delay 20>
+I've<Delay 10> heard it before
+somewhere...?"<Close><End of Block>
+<TextBlock 5 w:16 h:2>
+Fei
+"Doc..."<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Citan
+"Hello again Fei. Sorry
+to have kept you waiting."<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Citan
+"Music is a mysterious
+thing...<New>
+Sometimes, it makes people
+remember things that they
+do not expect.<New>
+Many thoughts,
+feelings, memories... 
+things almost forgotten...<New>
+Regardless of whether
+the listener desires to
+remember them or not..."<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Citan
+"It was excavated from
+some old ruins, and is
+still under repair.<New>
+Obviously it is an audio
+device of some type."<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Citan
+"Long ago people would
+listen to this melody,
+just as we are doing now...<New>
+At times they would have
+been cheered up...
+While at times they would
+have been made to cry."<Close><End of Block>
+<TextBlock 10 w:48 h:3>
+Citan
+"By the way, what brings
+you here today?"<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Citan
+"Oh yes. 
+Her wedding is
+tomorrow, right...?"<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Citan
+"Understood.
+Well, we had better
+get them ready then."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Citan
+"Oh, and dinner should be
+ready soon.<Delay 20> Would you like
+to join us?"<Close><End of Block>
+<TextBlock 14 w:42 h:4>
+Citan
+"I still have some
+cleaning up to do
+out here.<New>
+Would you mind giving
+Midori some company
+back in the house?"<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Citan
+"Ha, ha, ha.
+Go right ahead.<New>
+But, I will not be held
+responsible if you get a
+stomachache from eating
+my wife Yui's cooking."<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Citan
+"That just may be because
+you have someone living
+inside of you...<New>
+... And he too must have
+liked this music a long
+time ago before he became
+a part of you...<Close>
+ <Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Citan
+"Is Timothy and Alice's
+wedding really tomorrow...<New>
+It might actually be
+better to live an ordinary
+life, in this condition...<Delay 30>
+As a son of man..."<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Citan
+"Well, anyway. I suppose
+I had better adjust the
+gyro at least..."<Close><End of Block>
+<TextBlock 19 w:22 h:2>
+Citan
+"Huh....!?"<Opcode 2 50><Close><End of Block>
+<TextBlock 20 w:36 h:4>
+Citan
+"This cannot be...<Delay 60>
+Is...is this...
+an omen...?"<Close><End of Block>
+<TextBlock 21 w:36 h:4>
+Citan
+"...<Delay 40>
+Now, what is going
+to happen...?"<Close><End of Block>
+<TextBlock 22 w:36 h:2>
+What do you think?<Delay 30>
+Not bad, huh?<Close><End of Block>
+<TextBlock 23 w:46 h:2>
+Fei
+"Doc, what is this...?"<Close><End of Block>
+<TextBlock 24 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 25 w:48 h:3>
+Fei
+"Oh yeah, that's right!<New>
+Alice asked me to borrow
+some camera equipment
+from you."<Close><End of Block>
+<TextBlock 26 w:30 h:4>
+Fei
+"Would I ever!<Delay 30>
+I was hoping
+you would ask."<Close><End of Block>
+<TextBlock 27 w:44 h:3>
+Fei
+"Okay.
+Take your time, doc.<New>
+I'll go ahead and eat
+when dinner is ready!"<Close><End of Block>
+<TextBlock 28 w:46 h:4>
+Fei
+"Doc...<Delay 20>
+I feel strange when I
+listen to this music...<New>
+I feel something warm
+inside..."<Close><End of Block>
+<TextBlock 29 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 30 w:38 h:3>
+Something is carved
+in small letters in
+the corner...<Close><End of Block>
+<TextBlock 31 w:68 h:3>
+" Celebrating my daughter's birth
+ ...may all the dreams, courage
+ & love in the world be yours... "<Close><Close><End of Block>

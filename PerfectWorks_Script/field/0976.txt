@@ -1,0 +1,3 @@
+<TextBlock 1 w:36 h:2>
+Vanderkaum
+"I <Delay 16>will <Delay 16>kill <Delay 16>you<Delay 16>!"<Close><Close><End of Block>

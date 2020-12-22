@@ -1,0 +1,45 @@
+<TextBlock 1 w:50 h:4>
+Elly
+"I'm so glad...
+everybody is safe and
+sound...<New>
+What about my father...?"<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Citan
+"The hangar is just 
+over there."<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Bart
+"I guess we're almost
+there."<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Billy 
+"Even if we make it back
+home...will Prim and her
+friends be safe?" <Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Rico
+"All right!
+Almost there, Hammer!"<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+Emeralda
+"Exit! Exit! Exit!"<Close><End of Block>
+<TextBlock 7 w:38 h:3>
+<Chu-Chu>
+"Whew,
+the sky is blue..."<Close><End of Block>
+<TextBlock 8 w:40 h:3>
+Medena
+"Saying good-bye to
+Solaris...is hard...<New>
+This is my home no 
+matter what..."<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Hammer
+"Here I am.
+I came all the way..."<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Jessie
+"This is the last of the
+last. Don't let your
+guard down yet!"<Close><Close><End of Block>

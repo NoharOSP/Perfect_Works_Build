@@ -1,0 +1,174 @@
+<TextBlock 1 w:38 h:3>
+Fei
+"Alright.<Delay 20>
+Let's go up there."<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+Fei
+"Balthasar...?<Delay 20>
+I've heard of that name
+before."<Close><End of Block>
+<TextBlock 3 w:28 h:4>
+Fei
+"That's right!
+Ol' man Bal,
+the hermit."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Fei
+"That reminds me, the Gear
+I saw resembles Bal's Gear,
+Calamity."<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Fei
+"I just happened to come
+across him in the cavern
+underneath Aveh's desert.<New>
+I didn't know him that
+well...<Delay 20>
+So you're Ol' man Bal's
+grandchild."<Close><End of Block>
+<TextBlock 6 w:34 h:4>
+Fei
+"Nope...<Delay 20>
+This doesn't work
+either."<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+Fei
+"No...<Delay 20>
+This is no time to go
+down."<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Citan
+"You are right...<New>
+We came this far,
+we cannot turn back
+now, Fei."<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Fei
+"Shevat...<Delay 20>the only
+organization that stands
+against Solaris..."<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Bart
+"Okay, let's bring 
+20-30 of those Gears that
+kid was riding on, home!"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Bart
+"Hey, Fei. Isn't that the
+same name as the
+eccentric old man?<New>
+Remember the crazy old
+man playing with Gears
+underground Aveh?"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Bart
+"But, the crazy o....
+your grandpa looked just
+fine.<New>
+He's the kind that never
+dies.<Delay 20> Don't worry,
+squirt."<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Bart
+"Sorry.
+Don't get mad, squi...<Delay 20>
+Maria.<New>
+I didn't meant to offend.
+I apologize.<Delay 20>
+Sorry, sorry."<Close><End of Block>
+<TextBlock 14 w:6 h:1>
+...<Opcode 2 30><Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Rico
+"A country that's a flying
+saucer, eh...<Delay 20>I never
+thought we'd end up here."<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+Billy
+"The cursed land,
+Shevat...<Delay 20> The answer's
+gotta be here."<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Girl
+"This is the dock floor
+located at the lowest
+layer of Shevat."<Close><End of Block>
+<TextBlock 18 w:42 h:4>
+Girl
+"I met you a little
+while ago.<Delay 20> My name is
+Maria Balthasar."<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Maria
+"Calamity!?<Delay 20>
+That's the prototype Gear
+my grandfather made."<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+Maria
+"Do you know my grandpa?<Delay 20>
+Where is he now!?"<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Maria
+"Yes...but I haven't seen
+him for the past few
+years..."<Close><End of Block>
+<TextBlock 22 w:46 h:4>
+Maria
+"He said he was looking
+for something very
+important.<New>
+And he left by himself
+...<New>
+My father was captured
+by Solaris and his
+whereabouts are not
+known either..."<Close><End of Block>
+<TextBlock 23 w:44 h:3>
+Maria
+"I'm not a 'squirt'!!<New>
+Besides, my grandpa 
+isn't a crazy old man,
+I know it!!"<Close><End of Block>
+<TextBlock 24 w:46 h:4>
+Maria
+"I heard you say sorry
+once already. You don't
+need to say it again."<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+Maria
+"Anyhow...
+Queen Zephyr is waiting.<New>
+Please go ahead and take
+the elevator to go 
+upstairs.<New>
+I still have to finish
+inspecting <Seibzehn>."<Close><End of Block>
+<TextBlock 26 w:46 h:3>
+Maria
+"I'm glad Grandpa Bal's
+doing fine."<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Maria
+"Please go ahead and
+take the elevator to
+go upstairs.<New>
+I still have to finish
+inspecting <Seibzehn>."<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Maria
+"I'll show you the way
+to the Palace when the
+time comes.<New>
+Till then, please take
+a look around town."<Close><End of Block>
+<TextBlock 29 w:42 h:2>
+Maria
+"I'll see you later."<Close><End of Block>
+<TextBlock 30 w:46 h:3>
+Do you want to go down?
+    Yes
+    No<Close><End of Block>
+<TextBlock 31 w:42 h:3>
+Do you want to go up?
+    Yes
+    No<Close><Close><End of Block>

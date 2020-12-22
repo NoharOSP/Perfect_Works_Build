@@ -1,0 +1,6 @@
+<TextBlock 1 w:50 h:2>
+Meditating in a dark room
+can clear your mind.<Close><End of Block>
+<TextBlock 2 w:44 h:2>
+Whatever happens, I'll
+never move from here.<Close><Close><End of Block>

@@ -1,0 +1,64 @@
+<TextBlock 1 w:48 h:4>
+My son has gone<Delay 5>...<Delay 15>
+And when tomorrow comes,
+my daughter will leave
+our home.<Close><End of Block>
+<TextBlock 2 w:26 h:1>
+<Delay 5>...<Delay 5>...sigh...<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+<Delay 5>...<Delay 5>I should've known<Delay 15>
+it was a mistake.<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+<Delay 5>...<Delay 5>Huh?<Delay 15> Who might you
+be?<Delay 5> That's awfully rude
+to come in my home. <New>
+I guess it'd be useless 
+to tell this to a
+criminal<Delay 5>...<Delay 15> Now, please
+leave.<Close><End of Block>
+<TextBlock 5 w:14 h:1>
+Sigh<Delay 5>...<Opcode 2 45><Close><End of Block>
+<TextBlock 6 w:50 h:4>
+I guess it was a mistake
+to build my dream home in
+D Block even though it
+was dirt cheap<Delay 5>...<Opcode 2 60><Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Aside from my son, my
+daughter's only 5<Delay 5>...<Delay 5><New>
+She won't be leaving for
+a long time.<Delay 30> Always so
+worried<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 8 w:50 h:3>
+It's true that this
+house itself isn't bad<Delay 5>...<Delay 15><New>
+But was it really
+necessary to build it in
+this prison block?<Close><End of Block>
+<TextBlock 9 w:46 h:4>
+I'm finally an
+imperial soldier.<Delay 15> I was
+a burden on my parents.
+But I'll make it up to<New>
+them by working hard.<Delay 5>
+Someday, I'm gonna live
+in A Block.<Close><End of Block>
+<TextBlock 10 w:42 h:4>
+And get a beautiful
+bride<Delay 5>...<Delay 5>and a close
+family<Delay 5>...<Delay 5>Hey! What're
+you making me say!?<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+Hrnoww,<Delay 5> me eyes're
+spinnin'.<Delay 30> Everyone's
+turnin'<Delay 15>...<Delay 5> Nope.<Close><End of Block>
+<TextBlock 12 w:55 h:4>
+They only let me out
+when we go to church on
+the weekends...I'm bored
+cooped up in the house.<Delay 5><...><Delay 5><...><°><New>
+I wish I could go and play
+with the church folk.<Close><End of Block>
+<TextBlock 13 w:32 h:2>
+Boring, boring.
+I'm soooo bored!<Close><Close><End of Block>

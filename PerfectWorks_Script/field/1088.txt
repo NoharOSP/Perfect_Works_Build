@@ -1,0 +1,195 @@
+<TextBlock 1 w:24 h:2>
+Fei
+"A bell...?"<Close><End of Block>
+<TextBlock 2 w:48 h:2>
+Fei
+"Do you know something?"<Close><End of Block>
+<TextBlock 3 w:26 h:2>
+Fei
+"Here too..."<Close><End of Block>
+<TextBlock 4 w:46 h:3>
+Fei
+"I seem to smell some 
+burnt odor...<New>
+I've smelled something 
+like it before."<Close><End of Block>
+<TextBlock 5 w:28 h:2>
+Fei
+"What's this?"<Close><End of Block>
+<TextBlock 6 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 7 w:14 h:2>
+Fei
+"...!?"<Close><End of Block>
+<TextBlock 8 w:30 h:3>
+Fei
+"It doesn't
+look broken..."<Close><End of Block>
+<TextBlock 9 w:34 h:4>
+Fei
+"Ha!
+There's something
+inside.<New>
+...!?<Delay 30>
+Got it!"<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Fei
+"Ha!
+There's something inside.<New>
+!?<Delay 30>
+What's this?"<Close><End of Block>
+<TextBlock 11 w:34 h:3>
+Fei
+"Can we open that
+door with these?"<Close><End of Block>
+<TextBlock 12 w:40 h:3>
+Fei
+"I wonder what these
+keys are for?"<Close><End of Block>
+<TextBlock 13 w:38 h:2>
+Fei
+"Let's go and see."<Close><End of Block>
+<TextBlock 14 w:32 h:3>
+Fei
+"This is covered
+in slime."<Close><End of Block>
+<TextBlock 15 w:20 h:2>
+Fei
+"Here...?"<Close><End of Block>
+<TextBlock 16 w:14 h:2>
+Citan
+"...!?"<Opcode 2 60><Close><End of Block>
+<TextBlock 17 w:38 h:4>
+Citan
+"A tinkle sound...<Delay 40>
+I heard some kind
+of a tinkle sound!"<Close><End of Block>
+<TextBlock 18 w:28 h:3>
+Citan
+"Burnt...?<Delay 30>
+Hmm, I see..."<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Citan
+"It appears this slime
+was left behind by the
+monster."<Close><End of Block>
+<TextBlock 20 w:30 h:2>
+Citan
+"What is this?"<Opcode 2 60><Close><End of Block>
+<TextBlock 21 w:52 h:3>
+Citan
+"...<Delay 30>We took the keys out, 
+why is it not moving?"<Close><End of Block>
+<TextBlock 22 w:50 h:2>
+Citan
+"Sewage treatment plant?"<Close><End of Block>
+<TextBlock 23 w:38 h:2>
+Citan
+"That is strange...<New>
+Where is it?"<Close><End of Block>
+<TextBlock 24 w:42 h:3>
+Citan
+"Yes. 
+It must be the same."<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+Rico
+"What's wrong, Citan...<Delay 30>
+is there something here?"<Close><End of Block>
+<TextBlock 26 w:22 h:3>
+Rico
+"A bell! <Delay 30> 
+A bell...?"<Close><End of Block>
+<TextBlock 27 w:44 h:3>
+Rico
+"Now that you mention
+it... <New>
+There is a rumor of a 
+strange ringing sound 
+down here..."<Close><End of Block>
+<TextBlock 28 w:44 h:3>
+Rico
+"Ugh! ...<Delay 40>There's that
+smell again.<New>
+It's like something's 
+burning..."<Close><End of Block>
+<TextBlock 29 w:40 h:2>
+Rico
+"Hey, look at this."<Close><End of Block>
+<TextBlock 30 w:34 h:3>
+Rico
+"This is a rat-
+sweeper machine."<Close><End of Block>
+<TextBlock 31 w:48 h:3>
+Rico
+"We call them the
+'Catless Rat Removers'!"<Close><End of Block>
+<TextBlock 32 w:42 h:4>
+Rico
+"No...<Delay 60>
+It's not broken...<Delay 60>
+Why isn't it moving?"<Close><End of Block>
+<TextBlock 33 w:30 h:2>
+Rico
+"Lemme see it."<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Rico
+"!!<Delay 20>...These were Vargas'
+pass keys to the sewer.<New>
+They must've gotten 
+caught up in this thing.<Delay 20> 
+That's why it wasn't 
+moving?"<Close><End of Block>
+<TextBlock 35 w:52 h:3>
+Rico
+"These are the keys to the
+sewage treatment plant."<Close><End of Block>
+<TextBlock 36 w:44 h:3>
+Rico
+"That's where all the 
+sewage ends up."<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Rico
+"From here it's northeast
+through the door and near
+the furthest waterfall."<Close><End of Block>
+<TextBlock 38 w:54 h:2>
+Rico
+"Yeah, it should be there."<Close><End of Block>
+<TextBlock 39 w:30 h:2>
+Rico
+"Move, dammit!"<Close><End of Block>
+<TextBlock 40 w:38 h:3>
+Rico
+"The slime is over
+by that drain too."<Close><End of Block>
+<TextBlock 41 w:54 h:3>
+<Opcode 1 255>                           
+        "NO ENTRY!"        
+                           <Close><End of Block>
+<TextBlock 42 w:28 h:3>
+<Opcode 1 255> 
+Received Keys.
+ <Close><End of Block>
+<TextBlock 43 w:4 h:1>
+-3<Opcode 2 20><Close><End of Block>
+<TextBlock 44 w:4 h:1>
+-5<Opcode 2 20><Close><End of Block>
+<TextBlock 45 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 46 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 47 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 48 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 49 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 50 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

@@ -1,0 +1,30 @@
+<TextBlock 1 w:22 h:2>
+Fei
+"Hiyaaaaa!"<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Fei
+"Huff,<Delay 8> huff<Delay 8>.<Delay 2>.<Delay 2>.<Delay 4>
+That's one down!?"<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Fei
+"What on earth are you?<New>
+No matter how often
+I knock you down
+you still get up!"<Close><End of Block>
+<TextBlock 4 w:24 h:4>
+Fei
+"Guh!
+Boy are you
+persistent!"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Fei
+"Huff,<Delay 10> huff<Delay 10>.<Delay 10>.<Delay 10>.<Delay 10> Damn it!<Delay 30>
+How come...?<Delay 90> Why did it
+have to come to this?"<Close><End of Block>
+<TextBlock 6 w:24 h:4>
+Citan
+"Fei!<Delay 30> Stop!<Delay 30>
+You must not
+fight here!"<Close><End of Block>
+<TextBlock 7 w:44 h:1>
+v12.x Preview Release6<Close><Close><End of Block>

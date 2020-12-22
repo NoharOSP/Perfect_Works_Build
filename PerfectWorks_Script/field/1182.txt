@@ -1,0 +1,984 @@
+<TextBlock 1 w:54 h:4>
+Maison
+"...sob...sob...
+Oh to think that Marguerite
+has now returned...<New>
+Come to think of it, this
+is the second time we have
+had to flee from the Royal
+Capital.<New>
+It seems an awful long
+time ago...
+That night that I took
+them with me to escape..."<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Bart
+"Yeah and on top of that he
+was bold enough to steal
+this ship along the way.<New>
+You know this used to be
+the kingdom's flagship?"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Maison
+"Yes, it was all Sigurd's
+doing.<Delay 10> So courageous of him
+even at such a young age.<New>
+Anyway, this Yggdrasil can
+be considered as a keepsake
+of the late king for the
+young master."<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+Bart
+"It kinda feels like you're
+stuck to me for life.<New>
+Even though you used to be
+my personal knight, right?
+Now I'm just a kid pirate!"<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Maison
+"But eventually you will
+become a proud lord."<Close><End of Block>
+<TextBlock 6 w:42 h:4>
+Bart
+"I gotta hurry up and
+grow up or I'll never
+be proud of myself.<New>
+And I won't be able
+to win against him!"<Close><End of Block>
+<TextBlock 7 w:12 h:2>
+Maison
+"..."<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Masion
+"Oh, aren't you going
+to rest up a little?"<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Maison
+"It appears the final
+hour is approaching...<New>
+If need be, this Maison
+will also take up arms
+and come to your aid!!"<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Maison
+"We may not be able to come
+along, but will be praying
+for your safety."<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Maison
+"...
+I have nothing to look
+back on that I regret!"<Close><End of Block>
+<TextBlock 12 w:42 h:3>
+Maison
+"My, hasn't it gotten
+lively around here."<Close><End of Block>
+<TextBlock 13 w:44 h:2>
+Maison
+"Do be careful now..."<Close><End of Block>
+<TextBlock 14 w:32 h:4>
+Maison
+"Master Billy is
+waiting for you
+over yonder..."<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Maison
+"A mature yet modern
+atmosphere... That is
+what I offer you...<New>
+A bartender's life isn't
+all that bad you know!"<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Maison
+"For people from a heathen
+nation like us to receive
+such charity...<New>
+My word, god is so very,
+very tolerant...<Close><End of Block>
+<TextBlock 17 w:52 h:3>
+Maison
+"Miss Elly...
+and then Master Fei...<New>
+Why do we continue to have
+misfortunes like this?"<Close><End of Block>
+<TextBlock 18 w:36 h:4>
+Maison
+"Miss Elly...<Delay 10>
+What kind of spell
+was used on her?"<Close><End of Block>
+<TextBlock 19 w:42 h:3>
+Maison
+"Y...young master!<Delay 10>
+I heard all about it.<New>
+International amity
+with the Thames!?<Delay 10>
+Indeed..."<Close><End of Block>
+<TextBlock 20 w:44 h:3>
+(...Sob...sob...<Delay 10>
+This old man's efforts
+weren't all wasted!)<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Maison
+"I have no idea where we
+are.<Delay 10> It's not on the map, 
+either..."<Close><End of Block>
+<TextBlock 22 w:42 h:4>
+Maison
+"Oh! Doctor Uzuki.<Delay 10>
+I'm sorry to put you
+out so much...<New>
+We should've stopped
+the young master...<Delay 10>
+I am terribly sorry!"<Close><End of Block>
+<TextBlock 23 w:44 h:4>
+(Uh<Delay 5>...uh<Delay 5>...uh...<Delay 5>...<Delay 5>!<Delay 10>
+My chronic lumbago has
+gotten worse since
+I hustled in Aveh...)<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Maison
+"At long last we are
+heading to Bledavik
+tomorrow...<New>
+Though he is the prince,
+our young master doesn't
+know the Royal Capital
+very well<Delay 5>...<New>
+I'd always felt that was
+an awful pity. But despite
+that, I tried my best to
+raise him as Crown Prince.<New>
+However, looking back, I
+might have put too much of
+the 'burdens of kingship'
+on him too early in life...<New>
+And it might have been too
+much for a child with a
+future like his to handle.
+<Delay 5>...<New>
+I must be the most
+terrible minder ever!"<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Citan
+"My dear Lord Maison...<Delay 10>
+I hardly think that
+is right!<New>
+The young one would have
+taken the burden off of
+himself had he not wanted
+to bear it any longer!<New>
+He is a fine man now...
+far capable of handling
+any such burdens or
+pressures.<New>
+And I believe you are
+the very ones who have
+given him the strength
+to do so."<Close><End of Block>
+<TextBlock 26 w:32 h:3>
+Maison
+"Oh my good
+Doctor Uzuki..."<Close><End of Block>
+<TextBlock 27 w:52 h:3>
+Maison
+"Let us head for Aveh.<Delay 10>
+To save Miss Marguerite!!"<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Maison
+"I hope you are not
+too taken back?<New>
+Lately, there are far too
+many barbaria<Delay 10>...<Delay 5> I mean...<Delay 5>
+highly energetic lads,
+around the young master.<New>
+So, yours truly, who is
+in charge of education,
+demanded to have this
+room created!!"<Close><End of Block>
+<TextBlock 29 w:44 h:3>
+(But, because of that,
+I ended up having to
+take a side job...)<Close><End of Block>
+<TextBlock 30 w:52 h:4>
+"How may I be of service?"
+<Opcode 1 255>    Items
+    Weapons/Accessories
+    Nothing now, thanks.<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+"How may I be of service?"
+<Opcode 1 255>    Items
+    Weapons/Accessories
+    Nothing now, thanks.<Close><End of Block>
+<TextBlock 32 w:52 h:4>
+"How may I be of service?"
+<Opcode 1 255>    Items
+    Weapons/Accessories
+    Nothing now, thanks.<Close><End of Block>
+<TextBlock 33 w:40 h:3>
+Maison
+"I hope I can be of
+such service again!"<Close><End of Block>
+<TextBlock 34 w:56 h:22>
+Maison
+"<Opcode 1 2>Oh, young master...!
+If the young master doesn't
+come here more often to
+receive an education fit for
+a prince, then old Maison,
+who is in charge of his
+upbringing, will disgrace
+the very memory of King
+Edbart IV... god bless him.
+Typical of the young master
+not to even listen to me!
+The king was peace-loving,
+a very generous person...
+On the contrary, not only
+does the young master, put
+his name on a missile, but
+goes and shoots an unknown
+airplane with it.
+To make the matters worse,
+his good friend Fei and
+company were onboard it..."<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+Maison
+"Anyway, one must apologize
+to Doctor Uzuki and his
+friend Master Rico, right!?<New>
+They were on their way
+toward the Gear Hangar..."<Close><End of Block>
+<TextBlock 36 w:52 h:4>
+Citan
+"I am sure Elly is alive
+and well.<Delay 10> If we just go on
+believing it...!"<Close><End of Block>
+<TextBlock 37 w:44 h:3>
+Citan
+"I would be more than
+happy to come along!!"<Close><End of Block>
+<TextBlock 38 w:40 h:3>
+Citan
+"No one can stop our
+old friend now...!"<Close><End of Block>
+<TextBlock 39 w:44 h:3>
+Citan
+"I would be more than
+happy to come along!!"<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+Citan
+"Young one,<Delay 10>
+I see you got on well with
+the captain of the Thames.<New>
+I guess that was expected.<Delay 10>
+He is a man of the sea,
+the type of person you
+would admire..."<Close><End of Block>
+<TextBlock 41 w:48 h:4>
+Sigurd
+"...<Delay 10>
+Oh, yes... It's time for
+you to depart, right.<New>
+I'm sorry, old friend,
+but I have a job I must
+do..."<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Jessie
+"Oh god, is it that time
+already?<Delay 10> Well then, before
+we go let's do the usual...<New>
+You know...<Delay 5> the 'paint the
+face on your stomach and
+dance around trick'...?<Delay 5>
+The three of us together!"<Close><End of Block>
+<TextBlock 43 w:46 h:4>
+Citan
+"!!<Delay 10>
+Well, actually, we are
+in a hurry so, errh...<New>
+We will talk about that
+some other time..."<Close><End of Block>
+<TextBlock 44 w:46 h:4>
+Jessie
+"Oh? Is that right?<Delay 10>
+Well then, I oughta get
+outta here too, huh!"<Close><End of Block>
+<TextBlock 45 w:44 h:3>
+Citan
+"There is something I
+want to ask you too...<New>
+So let us get together
+when we have more
+time...!"<Close><End of Block>
+<TextBlock 46 w:42 h:4>
+Jessie
+"Yeah.<Delay 10>
+I hope I live to have
+the opportunity..."<Close><End of Block>
+<TextBlock 47 w:10 h:2>
+Citan
+"..."<Close><End of Block>
+<TextBlock 48 w:16 h:1>
+CRASH!!!<Opcode 2 15><Close><End of Block>
+<TextBlock 49 w:28 h:3>
+Elly
+"AAAAAAHHHHH!!<Delay 10>
+Sigurd is...!"<Close><End of Block>
+<TextBlock 50 w:44 h:4>
+Citan
+"Again!?<Delay 10>
+Sigurd gets drunk so
+easily...!<New>
+Well that blows it!
+We cannot leave today,<Delay 10>
+perhaps tomorrow..."<Close><End of Block>
+<TextBlock 51 w:12 h:2>
+Sigurd
+"..."<Close><End of Block>
+<TextBlock 52 w:52 h:4>
+Jessie
+"The keywords are Nikolai,<Delay 10>
+Maria, <Delay 10>
+a huge Gear<Delay 10>...<Delay 5> eh!?"<Close><End of Block>
+<TextBlock 53 w:52 h:4>
+Jessie
+"Hah...!<Delay 10> Just goes to show
+the kid needs his parents
+around him all the time!"<Close><End of Block>
+<TextBlock 54 w:52 h:4>
+Jessie
+"Ha, ha, ha!!
+I haven't hit the booze
+for a long while!<New>
+It's all cause my son
+doesn't let me drink! <Delay 10>
+This is a great bar you've
+got here... old codger!"<Close><End of Block>
+<TextBlock 55 w:26 h:4>
+Maison
+"Why... errh,
+thank you,
+my good man."<Close><End of Block>
+<TextBlock 56 w:54 h:4>
+Jessie
+"This old codger, has good
+character...<Delay 10>like his booze!<Delay 10>
+I like him!! Ha, ha, ha!"<Close><End of Block>
+<TextBlock 57 w:24 h:1>
+Ha, ha, ha! <Opcode 2 10><Close><End of Block>
+<TextBlock 58 w:24 h:1>
+Ha, ha, ha! <Opcode 2 10><Close><End of Block>
+<TextBlock 59 w:54 h:4>
+Shevat Agent
+"Originally, Shevat was a
+town situated on top of
+'Babel Tower'...<New>
+They say there was a
+communication facility
+to contact what now is
+Shevat on top of the tower.<New>
+If only it still exists
+and still works now..."<Close><End of Block>
+<TextBlock 60 w:48 h:3>
+Phew! I no longer have
+to listen to the roars
+of the old man any more.<Close><End of Block>
+<TextBlock 61 w:50 h:3>
+The engine's restoration
+is finally finished.<New>
+Why don't you go down
+the stairs to take a look
+at our beautiful engine.<Close><End of Block>
+<TextBlock 62 w:50 h:4>
+Billy
+"It was a long journey...<Delay 10>
+But what we did was not
+in vain. Let's prove it!"<Close><End of Block>
+<TextBlock 63 w:48 h:4>
+Billy
+"I want to journey with
+you and find out the
+truth about this world!!<New>
+You can count on me to
+help you anytime!"<Close><End of Block>
+<TextBlock 64 w:52 h:4>
+Sigurd
+"...<Delay 10>
+Now I see why you came
+down to the surface...<New>
+Alright, I understand you.
+But Kahran Ramsus...
+taking over the post of
+Aveh is pretty annoying."<Close><End of Block>
+<TextBlock 65 w:38 h:4>
+Citan
+"The home country
+might have had some
+special reasons."<Close><End of Block>
+<TextBlock 66 w:22 h:3>
+Sigurd
+"Yeah...<Delay 10>
+obviously."<Close><End of Block>
+<TextBlock 67 w:54 h:4>
+Citan
+"But perhaps there is still
+a chance of success...<New>
+You and I, who used to be
+called 'Elements' at the
+commander's training school
+'Jugend', are both here!"<Close><End of Block>
+<TextBlock 68 w:46 h:2>
+Sigurd
+"Hope you are right..."<Close><End of Block>
+<TextBlock 69 w:34 h:3>
+Citan
+"By the way, 
+she is still...?"<Close><End of Block>
+<TextBlock 70 w:52 h:4>
+Sigurd
+"According to Fei,
+there was a female aide
+on Kahr's side...<New>
+And he said that she had
+Indigo blue eyes and hair.
+... 
+So it must be her..."<Close><End of Block>
+<TextBlock 71 w:52 h:4>
+Citan
+"So all the old 'Elements'
+members are on the surface
+world now..."<Close><End of Block>
+<TextBlock 72 w:30 h:2>
+Sigurd
+"I guess so..."<Close><End of Block>
+<TextBlock 73 w:50 h:4>
+Sigurd
+"Hyuga<Delay 5>...<Delay 10>
+To be honest with you<Delay 5>...<Delay 5>
+she scares me.<New>
+She supports Kahr and
+is kind to anyone, 
+I know that very well.<New>
+But sometimes I felt
+a strange fear in her.
+That bothers me more than
+Kahr being in this land."<Close><End of Block>
+<TextBlock 74 w:46 h:3>
+Citan
+"That cannot be true...
+Not in her..."<Close><End of Block>
+<TextBlock 75 w:52 h:3>
+Sigurd
+"Yeah, I don't want to 
+believe it, either...<New>
+But don't you remember how
+I could always sense these
+things quite accurately?"<Close><End of Block>
+<TextBlock 76 w:20 h:2>
+Citan
+"Right..."<Close><End of Block>
+<TextBlock 77 w:52 h:3>
+Citan
+"By the way, have you told
+the young one yet...?"<Close><End of Block>
+<TextBlock 78 w:52 h:4>
+Sigurd
+"No, not yet.<New>
+I don't want him to worry
+until we know exactly what
+Solaris' objectives really
+are.<New>
+But I have to tell him 
+eventually though...<Delay 10>
+Anyway, Hyuga, have you
+gotten any information?"<Close><End of Block>
+<TextBlock 79 w:54 h:4>
+Citan
+"Not really....<Delay 10>
+I left there before going
+into the center section..."<Close><End of Block>
+<TextBlock 80 w:14 h:1>
+(Fei!!)<Opcode 2 30><Close><End of Block>
+<TextBlock 81 w:40 h:3>
+Fei
+(Oh, it's you Bart!?<Delay 10>
+Don't scare me...!)<Close><End of Block>
+<TextBlock 82 w:54 h:4>
+Bart
+(Sorry-dorry.<New>
+It sounds like Sig and your
+doctor friend know each
+other pretty darn well...<New>
+Sig<Delay 5>...<Delay 5>
+Damn, I thought I knew
+everything about that
+guy!)<Close><End of Block>
+<TextBlock 83 w:52 h:2>
+Fei
+(When did doc get back..?)<Close><End of Block>
+<TextBlock 84 w:50 h:4>
+Jessie
+"I see.<Delay 10>
+This is the place you
+begged to return to, eh?"<Close><End of Block>
+<TextBlock 85 w:28 h:2>
+Sigurd
+"Well, yes..."<Close><End of Block>
+<TextBlock 86 w:38 h:3>
+Jessie
+"After you left,
+Billy cried a lot."<Close><End of Block>
+<TextBlock 87 w:22 h:3>
+Sigurd
+"...<Delay 10>
+I'm sorry."<Close><End of Block>
+<TextBlock 88 w:54 h:4>
+Citan
+"When you left Solaris,
+the same thing happened.<Delay 10>
+Kahr was quite upset then."<Close><End of Block>
+<TextBlock 89 w:34 h:3>
+Sigurd
+"I didn't mean to
+betray him..."<Close><End of Block>
+<TextBlock 90 w:40 h:4>
+Citan
+"His misanthropy has
+gotten even worse
+because of that."<Close><End of Block>
+<TextBlock 91 w:44 h:3>
+Citan
+"Now, enough about old
+times, old friend.<New>
+I did not expect to
+find you loitering in
+this land..."<Close><End of Block>
+<TextBlock 92 w:18 h:1>
+Everyone!<Close><End of Block>
+<TextBlock 93 w:48 h:3>
+Billy
+"Good morning.<New>
+They said you were still
+sleeping, so I went
+ahead and came in."<Close><End of Block>
+<TextBlock 94 w:48 h:3>
+Bart
+"You're dressed lightly.
+Is that enough?"<Close><End of Block>
+<TextBlock 95 w:48 h:3>
+Rico
+"You're dressed lightly.
+Is that enough?"<Close><End of Block>
+<TextBlock 96 w:48 h:4>
+Billy
+"We Etones have some
+rather unique equipment.<New>
+Let me explain about the
+equipment since we're 
+going to be working
+together."<Close><End of Block>
+<TextBlock 97 w:56 h:4>
+Billy
+"First of all, my basic
+equipment are guns.
+There're three kinds...<New>
+'Handgun',<Delay 10>
+'Ether-gun',<Delay 10>
+and 'Big-gun'.<New>
+The handgun is the only one
+that can be replaced with
+other versions of the same
+kind.<New>
+I made the other two kinds
+of guns myself, so there
+are no others to replace
+them with.<New>
+You can power-up a gun's
+attack force by changing
+its 'ammo' or 'bullets'
+with more powerful ones!<New>
+To load ammo, press Right
+or Left on the Directional
+button at the Equip Menu
+Screen.<New>
+This will display a sub-
+window in place of the
+main Equip window, where
+you can select your ammo.<New>
+One thing you have to be
+careful of is that the
+number of bullets for
+each gun is limited.<New>
+To successfully manage your
+ammo, you must keep an
+ample supply and reload
+frequently!<New>
+But now that I have said
+this, note that Ether-guns
+do not have such a limit.<Delay 20>
+Well that's about it...<New>
+Did you understand?
+    <Opcode 1 255>Yes
+    No, please explain again<Delay 10><Close><End of Block>
+<TextBlock 98 w:54 h:4>
+Bart
+"I understood it roughly.
+But it's a bit complicated,
+isn't it?"<Close><End of Block>
+<TextBlock 99 w:44 h:3>
+Rico
+"...I see.<Delay 10>
+That's very unique..."<Close><End of Block>
+<TextBlock 100 w:46 h:4>
+Billy
+"...<Delay 5>This is a fine gun
+indeed.<Delay 10> I'm sure it has
+a significant history."<Close><End of Block>
+<TextBlock 101 w:54 h:3>
+Bart
+"Of course!<New>
+It's the famous rifle
+'Machiganater', handed down
+in the Fatima family."<Close><End of Block>
+<TextBlock 102 w:52 h:4>
+Billy
+"What a waste...<Delay 10>
+It's too good for you who
+just brandishes a whip..."<Close><End of Block>
+<TextBlock 103 w:38 h:4>
+Bart
+"Hey!<Delay 10>
+Why are you getting
+sharp with me!?"<Close><End of Block>
+<TextBlock 104 w:52 h:4>
+Billy
+"Oh, sorry...<Delay 10> It's just...<Delay 10>
+I didn't think you would
+have an interest in guns."<Close><End of Block>
+<TextBlock 105 w:48 h:3>
+Elly
+"Well anyway...<Delay 10>
+Billy...<New>
+I'd like to know why you
+became an Etone..."<Close><End of Block>
+<TextBlock 106 w:46 h:2>
+Bart
+(I'm not interested...)<Opcode 2 30><Close><End of Block>
+<TextBlock 107 w:52 h:4>
+Billy
+"...<New>
+Hmm, I see...
+Etones help out strangers,
+so I suppose that would
+make you curious..."<Close><End of Block>
+<TextBlock 108 w:54 h:4>
+Elly
+"No, I don't mean that.<Delay 10>
+I'm curious about your own 
+intentions, personally.<New>
+I don't know...
+I just didn't expect you
+to be an Etone at all..."<Close><End of Block>
+<TextBlock 109 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 110 w:50 h:4>
+Billy
+"I see...<New>
+Well, since our job is
+rather unusual, I'll tell
+you about that too as I
+explain..."<Close><End of Block>
+<TextBlock 111 w:38 h:4>
+Bart
+"...<Delay 10>
+Looks like we've
+made it already..."<Close><End of Block>
+<TextBlock 112 w:32 h:4>
+Citan
+"...<Delay 10>
+It looks like we
+have arrived..."<Close><End of Block>
+<TextBlock 113 w:52 h:4>
+Billy
+"Can it be...?<Delay 10>
+The transport ship's being
+attacked by Reapers..."<Close><End of Block>
+<TextBlock 114 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 115 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 116 w:42 h:2>
+Billy
+"Can anyone help us?"<Close><End of Block>
+<TextBlock 117 w:54 h:5>
+Billy
+"Hah!
+This is going to sound
+pathetic, but...<New>
+I almost went so far as
+to sell my body to support
+Prim, since we only had
+each other for so long...<New>
+Despite that, Prim still
+prefers the father that she
+never knew... The one who
+suddenly appeared out of
+nowhere..."<Close><End of Block>
+<TextBlock 118 w:52 h:4>
+Bart
+"'Almost sold your body'!?
+Don't you know, kid...!?<New>
+There're things you can
+get back once sold, and
+there are things you just
+can't!<New>
+Couldn't you see that!?"<Close><End of Block>
+<TextBlock 119 w:52 h:4>
+Billy
+"Of course I refrained.<Delay 10>
+But they said they'd give
+me 3000G for one night..."<Close><End of Block>
+<TextBlock 120 w:54 h:4>
+Bart
+"You fool!<Delay 10> Listen...<Delay 10> Next
+time you and your sister
+need help, come to my ship.<New>
+We're self-sufficient, so
+at least you don't need to
+worry about food and a
+place to sleep!<New>
+Now, don't you ever say
+'sell your body' in front
+of me ever again...!<Delay 10>
+You understand!?"<Close><End of Block>
+<TextBlock 121 w:42 h:4>
+Billy
+"Could this be...?<Delay 10>
+Maybe you are a 'nice
+guy' after all...?"<Close><End of Block>
+<TextBlock 122 w:38 h:4>
+Bart
+"Why don't you just
+come out and say
+'thank you'?<Delay 10> Geez!"<Close><End of Block>
+<TextBlock 123 w:54 h:4>
+Billy
+"Uh...<Delay 10>errh...<Delay 10>well...<Delay 10>
+you haven't taken care of
+us yet,<Delay 10> so I won't say it!"<Close><End of Block>
+<TextBlock 124 w:42 h:1>
+Cute, kid, REAL cute!<Close><End of Block>
+<TextBlock 125 w:42 h:2>
+Elly
+"'Sold your body'<Delay 10>...?<Close><End of Block>
+<TextBlock 126 w:50 h:3>
+Billy
+"Of course I refrained
+from actually doing it.<New>
+But they said they'd
+give me 3000G a night..."<Close><End of Block>
+<TextBlock 127 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 128 w:54 h:4>
+Jessie
+"When I was in Solaris, I
+found out about the secret
+plan...<New>
+That was the 'Malakh' (M)
+Plan.<Delay 20>
+And it was done under the
+command of Krelian...<New>
+In order to proceed with
+the plan, many Lambs were
+gathered by the 'Ethos',
+to become guinea pigs.<New>
+Or, should I say, to become
+Reapers or -Wels-..."<Close><End of Block>
+<TextBlock 129 w:54 h:4>
+Jessie
+"Since I was disgusted with
+Solaris' methods, I decided
+to investigate it further.<New>
+I found out that the main
+scientist central to the M
+Plan moved the true facts
+about it into a test-Gear.<New>
+Then he let that test-Gear
+escape with his daughter,<Delay 5>
+so that the truth would
+not be discovered...<New>
+And that,<Delay 5> I'm afraid,<Delay 5> was
+the last information that
+I was able to obtain..."<Close><End of Block>
+<TextBlock 130 w:48 h:4>
+Jessie
+"Because of what I found
+out, I came down to the
+surface world...<New>
+And this is where I hid,
+along with my wife,
+Racquel, and son Billy.<New>
+I've been looking for
+that Gear and the girl
+ever since."<Close><End of Block>
+<TextBlock 131 w:52 h:4>
+Jessie
+"Finally,<Delay 10> I found out that
+the scientist's daughter
+and Gear may be in Shevat.<New>
+All very well, except now
+I don't know how in blazes
+to get there, or even how
+to contact the place.<New>
+Well, Shevat is protected
+by a strong barrier that
+even Solaris can't do
+anything about...<New>
+So I guess you can say
+it can't be helped...<Delay 10>
+It's just my luck!"<Close><End of Block>
+<TextBlock 132 w:32 h:3>
+That girl's name
+wouldn't happen
+to be Maria...?<Close><End of Block>
+<TextBlock 133 w:50 h:4>
+Billy
+"Oh, are you two alright?<Delay 10>
+Shouldn't you get some
+more rest...?"<Close><End of Block>
+<TextBlock 134 w:42 h:4>
+Shevat Agent
+"Yes, I can stand and
+can even walk now...
+Thank you."<Close><End of Block>
+<TextBlock 135 w:38 h:2>
+Fei
+"I'm alright, too."<Close><End of Block>
+<TextBlock 136 w:54 h:4>
+Jessie
+"Maria, eh...?<Delay 10> Hmm...<Delay 10>
+If I remember right, her
+father's name was Nikolai?"<Close><End of Block>
+<TextBlock 137 w:52 h:4>
+Shevat Agent
+"I don't know that much...<Delay 10>
+But I have heard rumors
+about a girl and a Gear."<Close><End of Block>
+<TextBlock 138 w:52 h:4>
+Jessie
+"Hmm,<Delay 10> it's got to be them.<Delay 10>
+So that huge Gear is in
+Shevat then!"<Close><End of Block>
+<TextBlock 139 w:52 h:4>
+Jessie
+"So then...<Delay 10> how can we get
+to this Shevat? Is there a
+way to contact the place?"<Close><End of Block>
+<TextBlock 140 w:54 h:4>
+Shevat Agent 
+"Unfortunately since I was
+taken captive I have no way
+of contacting them either."<Close><End of Block>
+<TextBlock 141 w:16 h:1>
+I see...<Close><End of Block>
+<TextBlock 142 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 143 w:58 h:5>
+Shevat Agent
+"There just may be a way...!
+Originally, Shevat was
+situated on top of
+Babel Tower.<New>
+They say there is a
+communication facility to
+contact Shevat's native
+country on top of the tower.<Delay 10> 
+If only it still exists..."<Close><End of Block>
+<TextBlock 144 w:46 h:4>
+Citan
+"Hmm...<New>
+There is a good
+possibility the
+facility may have
+been destroyed...<New>
+Especially when you
+consider the fact
+that the tower was
+sealed by the 'Ethos'."<Close><End of Block>
+<TextBlock 145 w:42 h:3>
+Jessie
+"You're being
+pessimistic again..."<Close><End of Block>
+<TextBlock 146 w:32 h:3>
+Citan
+"I am just being
+realistic."<Close><End of Block>
+<TextBlock 147 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 148 w:54 h:4>
+Bart
+"I guess we have no choice
+but try and go there.<New>
+As long as the gate exists,
+we can't escape from
+Solaris' influence anyway.<New>
+In other words, even if we
+recover Aveh from Shakhan,
+it wouldn't immediatley be
+a happy ending."<Close><End of Block>
+<TextBlock 149 w:42 h:4>
+Billy
+"I think we have no
+choice but to try
+and go there...<New>
+Either way, as long
+as the gate exists we
+can't escape from the
+shadow of Solaris."<Close><End of Block>
+<TextBlock 150 w:46 h:3>
+Citan
+"Their 'secret plan' 
+bothers me, too...<New>
+The real secret is that
+they are using humans
+gathered from earth..."<Close><End of Block>
+<TextBlock 151 w:54 h:4>
+Fei
+"But I don't quite get this<Delay 5>
+secret plan<Delay 5> and <Delay 5>the 'Ethos'
+involvement<Delay 5> and so on...<New>
+What in the hell does
+Solaris think us surface
+dwelling humans are!?"<Close><End of Block>
+<TextBlock 152 w:48 h:4>
+Fei
+"...Sorry.<Delay 10>
+I totally forgot that it
+was your country..."<Close><End of Block>
+<TextBlock 153 w:54 h:4>
+Elly
+"What my country's doing...<Delay 10>
+has nothing to do with me.<New>
+I myself thought something
+was wrong there, and that's
+why I came here...<Delay 10>
+So, don't worry about me.<Close><End of Block>
+<TextBlock 154 w:54 h:4>
+Fei
+"We've got nothing to lose,
+so let's try to go there.<New>
+We need to find the truth
+about those documents found
+in the 'Ethos' H.Q. and
+what Billy's father said.<New>
+And I must go to Shevat
+too for my own personal
+reasons anyway."<Close><End of Block>
+<TextBlock 155 w:52 h:4>
+Fei
+"No time like the present,
+huh!?<Delay 10> Let's go to Babel
+Tower right away!"<Close><End of Block>
+<TextBlock 156 w:3 h:1>
+ <Close><Close><End of Block>

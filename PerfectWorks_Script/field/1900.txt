@@ -1,0 +1,32 @@
+<TextBlock 1 w:48 h:3>
+Fei
+"If we just stand still,
+we will be okay."<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:14 h:3>
+Fei
+"What!?
+Again?"<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:20 h:3>
+Fei
+"Huh? 
+Now what?"<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:8 h:2>
+Fei
+"!?"<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:20 h:3>
+Fei
+"Look out!
+Jump!"<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:34 h:4>
+Fei
+"Damn!
+The ceiling's
+dropping again!!"<Opcode 2 40><Close><End of Block>
+<TextBlock 7 w:30 h:4>
+Fei
+"Yikes!
+The ceiling!
+It's falling!!"<Opcode 2 40><Close><End of Block>
+<TextBlock 8 w:42 h:2>
+Show some courage and
+  stand your ground!<Close><Close><End of Block>

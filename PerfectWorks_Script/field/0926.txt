@@ -1,0 +1,49 @@
+<TextBlock 1 w:46 h:4>
+Miang
+"What's wrong?<Delay 50>
+You look like you have
+just had a nightmare...<New>
+It wasn't that same
+dream again, was it?"<Close><End of Block>
+<TextBlock 2 w:32 h:3>
+Ramsus
+"No...<Delay 30>
+It was nothing."<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+Miang
+"Kahr..."<Opcode 2 50><Close><End of Block>
+<TextBlock 4 w:30 h:4>
+Miang
+"Peeping is not
+very becoming,
+you know...!?"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Miang
+"Heh heh... I saw the boy
+that you are after fight
+in the Tournament...<New>
+I could tell right away.
+He resembles you greatly."<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Grahf
+"You used the influence
+of the Ministry to set
+you up with that man...<New>
+I don't know what you are
+up to, but don't you dare
+think about plotting
+against me.<New>
+You stay out of this!"<Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Miang
+"Oh, I see the news has
+already reached you...<New>
+As usual, you're the
+first to hear about
+everything.<New>
+But don't worry<Delay 5>...<Delay 5>
+I won't steal your
+'prized possession'.<New>
+I'll cooperate<Delay 5>...<Delay 10>
+Besides, you and I
+go back a long way<Delay 5>..."<Close><Close><End of Block>

@@ -1,0 +1,64 @@
+<TextBlock 1 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 2 w:36 h:4>
+Bart
+"Boy!<Delay 10> What's up
+with this Fei guy?<New>
+I try and become
+his friend and he
+suddenly explodes
+in anger..."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Bart
+"Well, looks like he's
+got a lot on his mind.<Delay 10>
+I don't want to force him.<New>
+But he would be fun to
+fight<Delay 5>...<Delay 20> 
+Maybe I'll ask again."<Close><End of Block>
+<TextBlock 4 w:42 h:2>
+If I lie in wait
+under the elevator...<Close><End of Block>
+<TextBlock 5 w:20 h:3>
+Bart
+"What!?
+Get out!!"<Close><End of Block>
+<TextBlock 6 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Bart
+"Arrgghh, 
+what a pain!"wemd(60)<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Fei
+"This is<Delay 5>...
+Bart's eyepatch!?"<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Fei
+"The pictures look like
+Bart when he was a boy...<New>
+The girl next to him...<Delay 10>
+she must be Margie!!"<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Fei
+"Both of the pictures
+look like Bart when he
+was a kid...<New>
+The girl next to him...<Delay 10>
+It must be the girl that
+they were talking about!"<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Fei
+"Who is this picture of? <Delay 30>
+A little boy and girl..."<Close><End of Block>
+<TextBlock 12 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 13 w:3 h:1>
+ <Close><End of Block>
+<TextBlock 14 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 15 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

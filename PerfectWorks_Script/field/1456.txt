@@ -1,0 +1,213 @@
+<TextBlock 1 w:34 h:2>
+What am I doing?
+...huff...<Delay 30>puff...<Close><End of Block>
+<TextBlock 2 w:34 h:2>
+Can't you tell!?
+...huff...<Delay 30>puff...<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+I'm working out.
+...huff...<Delay 30>puff...<Close><End of Block>
+<TextBlock 4 w:50 h:2>
+Gonna kick Solaris' butt.
+...huff...<Delay 30>puff...<Close><End of Block>
+<TextBlock 5 w:48 h:2>
+I have to get pumped up.
+...huff...<Delay 30>puff...<Close><End of Block>
+<TextBlock 6 w:46 h:2>
+It's all over for them.
+...huff...<Delay 30>puff...<Close><End of Block>
+<TextBlock 7 w:50 h:2>
+My last death blow skill.
+...huff...<Delay 30>puff...<Close><End of Block>
+<TextBlock 8 w:34 h:3>
+If I only had my
+Cyrus Punch!
+...huff...<Delay 30>puff...<Close><End of Block>
+<TextBlock 9 w:48 h:2>
+You just leave it to me.
+...huff...<Delay 30>puff...<Close><End of Block>
+<TextBlock 10 w:48 h:2>
+Take a nap or something.
+...huff...<Delay 30>puff...<Close><End of Block>
+<TextBlock 11 w:42 h:2>
+Wahahaha...ha...ha...
+...huff...<Delay 30>puff...<Close><End of Block>
+<TextBlock 12 w:60 h:13>
+"   Down with Solaris!!
+     The world is ours!<Delay 20>
+ 
+ But before all that...<Delay 40><Opcode 1 255>
+   No gambling!
+   No heavy drinking!
+   Meet the deadlines
+   Never give up!
+   Take a bath!
+   Don't listen to cry babies!
+   Attend every morning!
+   No unplanned trips!
+   Keep the ocean clean!"<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Hey, haven't seen you
+before. You new?<Delay 20>
+Welcome to the Shevat
+Liberation barracks!!<New>
+...But in actuality, we
+aren't as glorious as the
+name may suggest.<Delay 20> Hahaha...<New>
+But it is true that this
+is the barracks for the
+anti-Solaris troops.<Delay 20> Think
+of this as home and relax.<Close><End of Block>
+<TextBlock 14 w:54 h:4>
+But...we're in an odd
+situation.<New>
+We're picking a fight with
+an organization that has
+the power to manipulate
+the world from the shadows.<Close><End of Block>
+<TextBlock 15 w:54 h:5>
+Heh, and to think we're
+all just a motley crew of
+rioters from the land
+below.<New>
+We're just a bunch of 
+people who've lived most of
+our lives without knowing 
+the existence of Shevat or
+Solaris...<New>
+Come to think of it, 
+it almost sounds like a
+joke.<Close><End of Block>
+<TextBlock 16 w:58 h:6>
+So where did you fellas
+come from? From the looks
+of it, I'd guess you're
+from the Ignas continent.<New>
+Were you saved by the people
+here too?<Delay 20> I understand. We 
+were all in the same
+situation.<New>
+Everyone's got their unique
+story on how they got
+involved in this fiasco with
+the Gebler and the 'Ethos'
+and all.<New>
+The usual pattern here is
+that many of the people were
+almost eliminated for some 
+reason they don't know but 
+were saved by the people here
+before they were doomed.<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+That's basically it.<Delay 20> 
+From now on we're all on
+the same boat. <Delay 20>
+Welcome aboard!<Close><End of Block>
+<TextBlock 18 w:50 h:5>
+Back in Kislev, I used
+to deal with homemade
+medicines.<New>
+By the way, I've heard 
+rumors that the enemy
+has some really cool
+medicines.<New>
+I wanted to learn some of
+those techniques, so I
+snuck into their shop
+but...<Delay 20>I was a little
+clumsy...heh.<Close><End of Block>
+<TextBlock 19 w:56 h:6>
+I got desperate and somehow
+managed to escape, and make
+my way to Thames - the city
+I had heard stories about.<Delay 20>
+That's where the good people
+here picked me up.<New>
+If they hadn't picked me up
+then, without a doubt, I 
+would've been a guinea pig 
+for their experimental 
+drugs...<Delay 20>
+Because I'm so cute.<Close><End of Block>
+<TextBlock 20 w:52 h:5>
+Yeah!<Delay 20> Even if I were to
+have returned back to the
+land, they would probably
+try to capture me again.<New>
+It wouldn't matter how
+many lives I had, it still
+wouldn't be enough.<New>
+So I've decided to stick
+around here.
+That's probably the case
+for the majority of the
+people here.<Close><End of Block>
+<TextBlock 21 w:54 h:5>
+And anyway, don't you wanna
+make the bad guys pay for
+it?<Delay 20> They gotta be crazy if
+they think we'll just take
+this lying down!<Close><End of Block>
+<TextBlock 22 w:54 h:4>
+Yo, this house is basically
+an apartment for us land
+dwellers that were saved.<New>
+I've heard that there
+aren't that many pure
+Shevites in this town
+anymore.<New>
+Basically, it's been said
+that a majority of them
+were lost in that war with
+Solaris 500 years ago.<Close><End of Block>
+<TextBlock 23 w:52 h:3>
+Well, if we're not careful
+ourselves, our fates may
+be similar too. Heh.<Close><End of Block>
+<TextBlock 24 w:10 h:1>
+Ha...<Opcode 2 10><Close><End of Block>
+<TextBlock 25 w:60 h:5>
+Yeah, they say this city used
+to be like any other city 
+when it was on the ground 
+500 years ago.<New>
+But after losing to Solaris, 
+they launched just the 
+palace block of the city up 
+into the sky.<New>
+It's basically an unbelievable
+story, but in reality we're 
+riding on that part of the 
+city, and floating out in the
+sky right now.<New>
+In life, you never know what
+to expect.<Close><End of Block>
+<TextBlock 26 w:56 h:5>
+This is just between you and
+me but, I am the one and 
+only hope for Shevat.
+I am the secret agent man...<Delay 20>
+In other words, I'm a spy!<New>
+Well? Ain't I cool?<Delay 20>
+...But, come to think of it,
+if you're here too, you 
+guys are probably no
+different than me...sigh...<Close><End of Block>
+<TextBlock 27 w:50 h:3>
+Have you already met with
+Queen Zephyr?<Delay 20> A very nice
+person she is.<New>
+We are all able to live
+like this because the
+Queen saved us.<Close><End of Block>
+<TextBlock 28 w:58 h:7>
+That large white statue of
+an angel at the entrance 
+of the palace is a 
+representation of a
+particular woman who
+sacrificed herself in that
+war 500 years ago.<New>
+It's so sad.<Delay 20> She was probably
+the beloved heroine of
+the rebellion back then.<Close><Close><End of Block>

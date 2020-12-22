@@ -1,0 +1,189 @@
+<TextBlock 1 w:38 h:2>
+Fei
+"You girls again!?"<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Fei
+"You knew what Solaris
+was doing to the surface
+dwellers...<New>
+And you know what the
+situation is like now
+on the earth...
+And yet you..."<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Fei
+"Power and ability have
+nothing to do with it.<New>
+It was pure coincidence
+that we didn't mutate."<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+Elly
+"Dominia...<Delay 30>
+Do you truly believe that?"<Close><End of Block>
+<TextBlock 5 w:44 h:4>
+Elly
+"You were all once
+surface dwellers.<New>
+Weren't you all forced
+to live under the
+oppression of Solaris?<New>
+I KNOW that you know
+how it feels to be a
+'have-not', so why do
+you...?"<Close><End of Block>
+<TextBlock 6 w:42 h:4>
+Elly
+"That is just the
+providence of those
+who are the 'haves'!"<Close><End of Block>
+<TextBlock 7 w:22 h:2>
+Billy
+"Elements!"<Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Billy
+"People are people.
+Nothing more or less.<New>
+I admit that there are
+the weak and powerless.<New>
+But that's no reason
+for us to forsake them.<New>
+We are all the same
+human beings!"<Close><End of Block>
+<TextBlock 9 w:54 h:3>
+Elly
+"Dominia...<Delay 30>
+Do you truly believe that?"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Elly
+"You were all once
+surface dwellers.<New>
+Weren't you all forced
+to live under the
+oppression of Solaris?<New>
+I KNOW that you know
+how it feels to be a
+'have-not', so why do
+you...?"<Close><End of Block>
+<TextBlock 11 w:42 h:4>
+Elly
+"That is just the
+providence of those
+who are the 'haves'!"<Close><End of Block>
+<TextBlock 12 w:22 h:2>
+Billy
+"Elements!"<Close><End of Block>
+<TextBlock 13 w:46 h:3>
+Billy
+"People are people.
+Nothing more or less.<New>
+I admit that there are
+the weak and powerless.<New>
+But that's no reason
+for us to forsake them.<New>
+We are all the same
+human beings!"<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Dominia
+"I see you've gained a new
+Gear that has been aligned
+with an Anima Relic."<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Dominia
+"What the Gazel do or what-
+ever happens to the Lambs,
+are not my concerns.<New>
+Each of us have our own
+obligations to fulfill.<New>
+We don't have time to deal
+with affairs concerning you
+weak and inferior people."<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Dominia
+"Yes.
+Look at yourselves,
+for instance...<New>
+You, the strong and the
+superior, were the first
+to preserve yourselves,
+without any mutations.<New>
+Is that not right?"<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Dominia
+"So...
+You wish to give a hand to
+those who would be saved?"<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Dominia
+"Hmph.<New>
+So be it then, show me
+this providence of yours
+that wishes to save the
+meager 'have-nots'!"<Close><End of Block>
+<TextBlock 19 w:28 h:2>
+Dominia
+"Here I come!"<Opcode 2 30><Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Dominia
+"Hah...<New>
+We may have fared poorly
+when we fought in the
+flesh, but we will finish
+you off in our Gears!"<Close><End of Block>
+<TextBlock 21 w:22 h:3>
+Dominia
+"Come!
+Follow me!"<Close><End of Block>
+<TextBlock 22 w:52 h:4>
+Kelvena
+"You know that we should
+have been the ones to have
+it...<New>
+We need stronger powers in
+order for Commander Ramsus
+to realize his long-
+cherished desires."<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Kelvena
+"How commendable.
+But...<Delay 20>is that really
+what's best for mankind?"<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Kelvena
+"People must be able to
+stand on their own in any
+circumstances they are in.<New>
+Overprotection only stunts
+the will to be independent.<New>
+This stunts the growth of
+the people and the world.
+We've experienced that
+first hand.<New>
+Live by one's own strength,
+stand on one's own feet!
+It's sad but true that the
+weak will be weeded out...<New>
+But we cannot look back.
+That is the providence of
+human existence."<Close><End of Block>
+<TextBlock 25 w:32 h:3>
+Seraphita
+"So, c'mon...
+let us have it!"<Close><End of Block>
+<TextBlock 26 w:33 h:3>
+Seraphita
+"You're so ni<~>ce
+and ki<~>nd!"<Close><End of Block>
+<TextBlock 27 w:54 h:4>
+Tolone
+"Yes, for the building of
+our ideal country, we can't
+allow you to take it."<Close><End of Block>
+<TextBlock 28 w:34 h:2>
+Door Lock System 
+Area B<Close><End of Block>
+<TextBlock 29 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 30 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

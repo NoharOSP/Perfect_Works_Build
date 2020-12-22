@@ -1,0 +1,46 @@
+<TextBlock 1 w:40 h:4>
+Bart
+"Wow...
+I never thought we'd
+end up here..."<Close><End of Block>
+<TextBlock 2 w:30 h:2>
+Fei
+"Where are we?"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Bart
+"You see the twin
+mountains way over there?<New>
+That's where Bledavik, the
+Royal Capital of Aveh, and
+Fatima Castle are located.<New>
+Currently, there's no king
+living there though.<Delay 20>
+Anyway, that's my old home
+town."<Close><End of Block>
+<TextBlock 4 w:28 h:2>
+Fei
+"Home town..."<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+Bart
+"I'd like to go ahead and
+settle our dispute but...<New>
+considering how close we
+are to the capital of Aveh,
+we'd probably get caught."<Close><End of Block>
+<TextBlock 6 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Bart
+"Hey, stop looking so
+glum, chum.<New>
+I guess I'll have to get
+you back to your friend
+soon or you'll die from
+fretting or something.<New>
+Anyway, the rendezvous
+point with the Yggdrasil
+is right over there.<New>
+Don't worry, you'll be
+meeting your friend in
+no time at all."<Close><Close><End of Block>

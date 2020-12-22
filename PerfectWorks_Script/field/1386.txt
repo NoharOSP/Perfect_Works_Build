@@ -1,0 +1,82 @@
+<TextBlock 1 w:10 h:2>
+Kim
+"..."<Close><End of Block>
+<TextBlock 2 w:52 h:3>
+Kim
+"...It's no good...
+...It's not gonna work..."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Kim
+"Somehow we must break the
+spell or the humans on
+this planet will die out.<New>
+No, I don't care about
+humans... Life itself will
+be ruined if we don't do
+something..."<Close><End of Block>
+<TextBlock 4 w:28 h:4>
+Kim
+"Some...<Delay 45>
+pure life...<Delay 15>
+not cursed..."<Close><End of Block>
+<TextBlock 5 w:32 h:2>
+Kim
+"A pure life..."<Close><End of Block>
+<TextBlock 6 w:0 h:1>
+<End of Block>
+<TextBlock 7 w:0 h:0>
+<End of Block>
+<TextBlock 8 w:0 h:0>
+<End of Block>
+<TextBlock 9 w:0 h:0>
+<End of Block>
+<TextBlock 10 w:0 h:0>
+<End of Block>
+<TextBlock 11 w:0 h:0>
+<End of Block>
+<TextBlock 12 w:0 h:0>
+<End of Block>
+<TextBlock 13 w:0 h:0>
+<End of Block>
+<TextBlock 14 w:0 h:0>
+<End of Block>
+<TextBlock 15 w:0 h:0>
+<End of Block>
+<TextBlock 16 w:0 h:0>
+<End of Block>
+<TextBlock 17 w:0 h:0>
+<End of Block>
+<TextBlock 18 w:0 h:0>
+<End of Block>
+<TextBlock 19 w:0 h:0>
+<End of Block>
+<TextBlock 20 w:0 h:0>
+<End of Block>
+<TextBlock 21 w:0 h:0>
+<End of Block>
+<TextBlock 22 w:0 h:0>
+<End of Block>
+<TextBlock 23 w:0 h:0>
+<End of Block>
+<TextBlock 24 w:0 h:0>
+<End of Block>
+<TextBlock 25 w:0 h:0>
+<End of Block>
+<TextBlock 26 w:0 h:0>
+<End of Block>
+<TextBlock 27 w:0 h:0>
+<End of Block>
+<TextBlock 28 w:0 h:0>
+<End of Block>
+<TextBlock 29 w:0 h:0>
+<End of Block>
+<TextBlock 30 w:0 h:0>
+<End of Block>
+<TextBlock 31 w:0 h:0>
+<End of Block>
+<TextBlock 32 w:0 h:0>
+<End of Block>
+<TextBlock 33 w:0 h:0>
+<End of Block>
+<TextBlock 34 w:0 h:0>
+<Close><End of Block>

@@ -1,0 +1,11 @@
+<TextBlock 1 w:52 h:4>
+This is a machine created
+to put brutal criminals
+and dangerous monsters to
+sleep.<New>
+It isn't expected to be
+used again but it is ready
+anytime just in case.<New>
+Anyone who has no business
+here should leave.<Delay 20>
+Get out, right now.<Close><Close><End of Block>

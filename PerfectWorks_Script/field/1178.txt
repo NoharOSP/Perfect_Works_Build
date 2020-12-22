@@ -1,0 +1,145 @@
+<TextBlock 1 w:16 h:2>
+Fei
+"Elly!!"<Opcode 2 32><Close><End of Block>
+<TextBlock 2 w:16 h:2>
+Fei
+"Elly!!"<Opcode 2 32><Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Fei
+"Doc!
+What is this..."<Close><End of Block>
+<TextBlock 4 w:28 h:2>
+Fei
+"Hypnosis...?"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Bart
+"I don't get it. At least
+when I saw her up there,<New>
+she didn't have the eyes
+of a traitor."<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Bart
+"It broke again just after
+getting restored. What am
+I gonna do..."<Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Bart
+"I knew it all along...
+This moll's a mole!"<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Bart
+"Damn it! What the hell
+did she do!? What am I
+gonna do!!"<Close><End of Block>
+<TextBlock 9 w:38 h:4>
+Bart
+"Fei!!<Delay 45>
+Are you leaving her
+here like this?"<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+Bart
+"Fei!!<Delay 45>
+Where are you going?"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Bart
+"Fei!!<Delay 45>
+This is no time to play
+with Martle!!"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Bart
+"...Citan, if you thought
+it was suspicious, you
+shoulda stopped her."<Close><End of Block>
+<TextBlock 13 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+Elly
+"It's an animal, so
+it can't help it.<New>
+By the way, the first
+mate wants to see you."<Close><End of Block>
+<TextBlock 15 w:16 h:3>
+Elly
+"...<Delay 32>
+Fei...?"<Opcode 2 45><Close><End of Block>
+<TextBlock 16 w:44 h:3>
+Citan
+"...<Delay 32>She was given some
+strong hypnosis."<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Citan
+"It is a special hypnotism
+that makes a person behave
+in a pre-programmed way.<New>
+A special condition serves
+as a switch to act...but
+until then no strange
+behavior can be detected.<New>
+She looked strange when
+coming out of the medical
+room, so I followed her."<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+Citan
+"Well, if you forcibly
+stop the behavior while
+imprinting,<New>
+occasionally
+it destroys the mind...<New>
+But it is true that I
+reacted a little late..."<Close><End of Block>
+<TextBlock 19 w:46 h:3>
+Citan
+"It may take a while to
+fix it..."<Close><End of Block>
+<TextBlock 20 w:54 h:4>
+Citan
+"Anyhow, we will take her
+to the medical room first.<New>
+Fei, go to the room when
+you are done here. No need
+to worry. The hypnotist
+must have been a good one.<New>
+There are no mental scars."<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Citan
+"Wait! Do not worry about
+her. Stopping this is our
+priority."<Close><End of Block>
+<TextBlock 22 w:30 h:3>
+Citan
+"There...
+How is this..."<Close><End of Block>
+<TextBlock 23 w:36 h:4>
+Did she do this...<New>
+Hypnosis?
+...That's pretty
+damned underhanded
+even for Solaris!<Close><End of Block>
+<TextBlock 24 w:48 h:4>
+How badly are the main
+engines damaged? I need
+more time to see them
+closely...<New>
+But it looks pretty bad.
+It may take a while.<Close><End of Block>
+<TextBlock 25 w:48 h:2>
+Whaaat's up? Martle? Eh?<Delay 32>
+Huh?<Close><End of Block>
+<TextBlock 26 w:46 h:2>
+Hey, Miss.<New>
+I heard you got caught.
+Are you okay?<Close><End of Block>
+<TextBlock 27 w:44 h:4>
+Easy, Martle!
+It's just the Solarian
+girl. You don't need
+to bark!<Close><End of Block>
+<TextBlock 28 w:20 h:3>
+...Oh?<Delay 32>
+Oh, I see.
+Sorry.<Close><End of Block>
+<TextBlock 29 w:46 h:2>
+Wha, what's going on?<New>
+Young master,
+have you done it again?<Close><Close><End of Block>

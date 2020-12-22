@@ -1,0 +1,5 @@
+<TextBlock 1 w:8 h:1>
+Ev24<Close><End of Block>
+<TextBlock 2 w:18 h:1>
+BattleEnd<Close><Close>l
+<Close><Close><End of Block>

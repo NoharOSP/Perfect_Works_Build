@@ -1,0 +1,23 @@
+<TextBlock 1 w:46 h:3>
+Krelian
+"You're neglecting
+yourself too much!<New>
+Why aren't you kinder
+to yourself, Mistress?"<Close><End of Block>
+<TextBlock 2 w:18 h:2>
+Krelian
+"Sophia!"<Close><End of Block>
+<TextBlock 3 w:22 h:2>
+Krelian
+"Sophia<Delay 5>..."<Close><End of Block>
+<TextBlock 4 w:38 h:3>
+Krelian
+"Lacan!
+What are you doing?<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+You keep back!<Delay 10>
+I knew we couldn't leave
+Sophia in your care!<New>
+I'll protect her<Delay 5>...<Delay 5>
+even if it costs me
+my life!"<Close><Close><End of Block>

@@ -1,0 +1,9 @@
+<TextBlock 1 w:40 h:1>
+Used the Master Key.<Close><End of Block>
+<TextBlock 2 w:24 h:1>
+It's locked.<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+ 
+ Received Beam Coat.<Close><End of Block>
+<TextBlock 4 w:24 h:1>
+It's locked.<Close><Close><End of Block>

@@ -1,0 +1,84 @@
+<TextBlock 1 w:34 h:2>
+Helmholz
+"Prep complete!!"<Close><End of Block>
+<TextBlock 2 w:30 h:2>
+Stratski
+"OK over here!"<Close><End of Block>
+<TextBlock 3 w:30 h:4>
+Broyer
+"Confirmed!<Delay 10>
+It's their
+base, alright."<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+Helmholz
+"That rock was easy
+to break through.<New>
+I thought it would be
+a little harder..."<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Stratski
+"These surface-dwelling
+-Lambs- sure live in a
+nice place..."<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+Renk
+"Look at that...!<New>
+They built this place 
+far better than the 
+facilities at Bledavik. <New>
+It's probably a hidden
+fort built when their old
+king was still around..."<Close><End of Block>
+<TextBlock 7 w:40 h:4>
+Vance
+"Who cares...?<Delay 10>
+Let's just get this
+over and done with!"<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Stratski
+"So...<Delay 10>
+where are the Gears?"<Close><End of Block>
+<TextBlock 9 w:24 h:2>
+Stratski
+"Over here?"<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+Helmholz
+"To the right!<Delay 10>
+There's a hangar!"<Close><End of Block>
+<TextBlock 11 w:16 h:2>
+Stratski
+"!!"<Close><End of Block>
+<TextBlock 12 w:28 h:2>
+Vance
+"Found them!!"<Close><End of Block>
+<TextBlock 13 w:44 h:4>
+Helmholz
+"These are 'Deurmods'.
+They're standard
+pirate Gears."<Close><End of Block>
+<TextBlock 14 w:40 h:4>
+Vance
+"Ha!<Delay 10>
+Ignore those! We can
+take them out fast."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Stratski
+"Why not take a few?<Delay 10>
+Even if we only get those,
+it was worth sneaking in."<Close><End of Block>
+<TextBlock 16 w:38 h:4>
+Renk
+"Alright!<Delay 10>
+Schpariel is now in
+place at the back!<New>
+Get ready to take
+out anything that
+gets in our way!"<Close><End of Block>
+<TextBlock 17 w:36 h:2>
+Broyer
+"Anytime is fine!"<Close><End of Block>
+<TextBlock 18 w:12 h:2>
+Renk
+"GO!!"<Opcode 2 40><Close><End of Block>
+<TextBlock 19 w:0 h:1>
+<Close><End of Block>

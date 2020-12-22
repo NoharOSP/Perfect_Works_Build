@@ -1,0 +1,51 @@
+<TextBlock 1 w:52 h:2>
+Listen, Hyuga.<Delay 20>
+I'm going to Solaris, too.<Close><End of Block>
+<TextBlock 2 w:44 h:2>
+Fei
+"Why<Delay 20>...are you here!?"<Close><End of Block>
+<TextBlock 3 w:42 h:4>
+Citan
+"Yes...<Delay 20>
+I will be counting on
+that."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Jessie
+"Don't misunderstand me.<Delay 20>
+It doesn't mean I'll help
+you.<New>
+I don't know what you're
+thinking or trying to
+do...<New>
+But, if you take their
+side, I'll kill you without
+a doubt.<Delay 20> Even from the
+back..."<Close><End of Block>
+<TextBlock 5 w:38 h:3>
+Jessie
+"Heh...<Delay 20>
+so discouraging..."<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Wiseman
+"Fei, 
+go with Shevat.<New>
+Your father, Kahn
+would've wanted you to..."<Close><End of Block>
+<TextBlock 7 w:36 h:2>
+Wiseman
+"Go ahead, go in."<Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Wiseman
+"You're finally here...<Delay 20>
+Where have you been?"<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Wiseman
+"I've told you before.<New>
+I learned martial arts
+with your father in
+Shevat.<New>
+The Queen is waiting.
+Go ahead."<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Maria
+"Please come in."<Close><Close><End of Block>

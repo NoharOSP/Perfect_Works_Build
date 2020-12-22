@@ -1,0 +1,128 @@
+<TextBlock 1 w:32 h:2>
+Fei
+"Hey, that's..."<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Rico
+"Oh come on, Citan.<New>
+Just when I thought
+we were saved, now we're
+gonna be turned into
+Swiss cheese."<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Citan
+"We are not<Delay 10> particularly
+liked here,<Delay 10> are we?"<Opcode 2 40><Close><End of Block>
+<TextBlock 4 w:3 h:1>
+!<Close><End of Block>
+<TextBlock 5 w:38 h:4>
+Citan
+"Fei!
+Elly!
+You are all right."<Close><End of Block>
+<TextBlock 6 w:20 h:2>
+Elly
+"Somehow."<Close><End of Block>
+<TextBlock 7 w:40 h:3>
+Rico
+"This is no time for
+tearful reunions."<Close><End of Block>
+<TextBlock 8 w:28 h:3>
+Fei
+"Yeah...
+Where's Bart?"<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Citan
+"He is fighting below.<New>
+He said he was going to
+hold them back until the
+depth charges were ready.<New>
+But he left without the
+proper hydropreps...
+We are busy trying to
+ready the depth charges.<New>
+Your Gears should be able
+to handle underwater
+warfare to some extent.
+Go help him out."<Close><End of Block>
+<TextBlock 10 w:32 h:3>
+Fei
+"Got it.
+Elly, let's go."<Close><End of Block>
+<TextBlock 11 w:30 h:3>
+Citan
+"Fei,
+where is Elly?"<Close><End of Block>
+<TextBlock 12 w:26 h:3>
+Fei
+"The enemy<Delay 5>...<Delay 10>
+took her."<Close><End of Block>
+<TextBlock 13 w:32 h:3>
+Bart
+"Heh,
+I doubt that..."<Close><End of Block>
+<TextBlock 14 w:36 h:3>
+Fei
+"Bart, what do you
+mean!?"<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Citan
+"Stop it!!
+Fei!<New>
+This is no time for
+bickering.<New>
+For now, we must find a
+place to finish repairing
+the Yggdrasil."<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Fei
+"...<Delay 10>...<Delay 10>Don't worry.
+The ship that saved
+us is nearby.<New>
+They call it the Thames,
+and it's about the size of
+a small city.
+Their Captain can help us."<Close><End of Block>
+<TextBlock 17 w:30 h:3>
+Rico
+"That's<Delay 10>...<Delay 10>...<Delay 10>
+the Thames...?"<Close><End of Block>
+<TextBlock 18 w:36 h:2>
+Dominia
+"If you hadn't..."<Close><End of Block>
+<TextBlock 19 w:38 h:2>
+Dominia
+"...been around..."<Close><End of Block>
+<TextBlock 20 w:38 h:3>
+Dominia
+"I'll never forgive
+you..."<Close><End of Block>
+<TextBlock 21 w:16 h:2>
+Dominia
+"You..."<Close><End of Block>
+<TextBlock 22 w:22 h:2>
+Dominia
+"TRAITOR!!"<Close><End of Block>
+<TextBlock 23 w:34 h:2>
+Bart
+"Here they come!"<Close><End of Block>
+<TextBlock 24 w:32 h:2>
+Elly
+"Hey, that's..."<Close><End of Block>
+<TextBlock 25 w:32 h:4>
+Bart
+"...Whew.
+She doesn't know
+when to quit."<Close><End of Block>
+<TextBlock 26 w:20 h:2>
+Elly
+"Wh-what?"<Close><End of Block>
+<TextBlock 27 w:16 h:2>
+Fei
+"Below!"<Close><End of Block>
+<TextBlock 28 w:44 h:3>
+Bart
+"Is it what I think it
+is?"<Close><End of Block>
+<TextBlock 29 w:10 h:2>
+Elly
+"..."<Close><Close><End of Block>

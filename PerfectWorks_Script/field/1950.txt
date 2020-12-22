@@ -1,0 +1,227 @@
+<TextBlock 1 w:48 h:3>
+Lacan
+"<Delay 5>...<Delay 5>What did you say?<Delay 15><New>
+What's the name of the 
+teacher you're studying 
+under?"<Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Krelian
+"Melchior"<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Lacan
+"But still,
+why are you studying?"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Krelian
+"Sophia told me the best 
+way to calm the heart is
+to read a book<Delay 5>...<Delay 5><New>
+It's a good opportunity.
+And it has sparked my
+interest in studying."<Close><End of Block>
+<TextBlock 5 w:40 h:4>
+Krelian
+"<Delay 5>...<Delay 5>Now,<Delay 15>
+I'm reading 3 books 
+a day."<Close><End of Block>
+<TextBlock 6 w:36 h:3>
+Lacan
+"If it can change,
+it will."<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+Lacan
+"<Delay 5>...<Delay 5>The art of war,<Delay 15>
+that's all you think 
+about<Delay 5>...<Delay 5>..."<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Krelian
+"Hey, <Delay 5>that's mean.<Delay 15>
+You know, I'm the best of
+all of his students."<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Lacan
+"I see<Delay 5>...<Delay 5>...<Delay 15><New>
+That's great,<Delay 5>
+it sounds like you found 
+something to put your 
+heart into<Delay 5>...<Delay 5>..."<Close><End of Block>
+<TextBlock 10 w:38 h:2>
+Krelian
+"What do you mean?"<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Krelian
+"You have something.<New>
+Your pictures are 
+splendid.<Delay 15>
+You should be 
+thankful<Delay 5>...<Delay 5>..."<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Krelian
+"Sophia first showed me
+that books are the best
+way to calm the heart<Delay 5>...<New>
+...<Delay 5>and now I'm hooked on
+reading."<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Krelian
+"I'm not trying to brag<Delay 5>...<Delay 15>
+but I've learned a lot of
+things I never knew before.<New>
+Lately, I've been reading
+this."<Close><End of Block>
+<TextBlock 14 w:26 h:2>
+Lacan
+"What is it?"<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Krelian
+"Something I borrowed 
+from Melchior.<New>
+It's about a form of
+molecular engineering<Delay 5>...<Delay 5>
+nanotechnology.<New>
+I believe it's a book found
+in the ancient ruins of the
+Zeboim civilization.<New>
+It's a copy of someone's
+research report,<Delay 5> but it's
+incomplete.<New>
+I think there were even
+more wonderful things
+written in it, but we'll
+never know now<Delay 5>..."<Close><End of Block>
+<TextBlock 16 w:32 h:4>
+Margie
+"Elly.<Delay 30>
+Are you okay
+about this?<New>
+Don't you want
+to be with him?"<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Elly
+"Yes<Delay 5>...<Delay 5>
+But, <Delay 10>it's because
+I believe in him.<New>
+Just being close to a
+person is not in itself
+an indication of love,
+is it?"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Margie
+"But<Delay 5>...<Delay 5>
+men are selfish<Delay 5>...<New>
+When something big happens,<Delay 10>
+they say<Delay 5>...<Delay 10>
+ 'It's too dangerous<Delay 5>...<Delay 5>
+  You can't come!'<New>
+They treat women like we
+are weaklings."<Close><End of Block>
+<TextBlock 19 w:48 h:4>
+Margie
+"Although, it is true
+I can't help Bart and
+friends much anymore<Delay 5>..."<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Elly
+"That's not true.<Delay 15>
+Everyone, <Delay 5>wants someone 
+special waiting for them.<New>
+Someone who will protect
+a place they can return
+to.<New>
+If you don't have that
+peace of mind, then you
+would not be able to get
+anything done<Delay 5>..."<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Elly
+"Men try to tough it out
+as much as they can, and
+then some...<New>
+They're cute the way they
+do that, aren't they?"<Close><End of Block>
+<TextBlock 22 w:32 h:3>
+Margie
+"Yeah,<Delay 15>
+you're right<Delay 5>..."<Close><End of Block>
+<TextBlock 23 w:48 h:3>
+Elly
+"Anyway, we have things
+we have to do too, now.<New>
+And,<Delay 5> while we do them,<Delay 5>
+let's pray that everyone
+comes back safely."<Close><End of Block>
+<TextBlock 24 w:18 h:2>
+Margie
+"To god?"<Close><End of Block>
+<TextBlock 25 w:44 h:3>
+Elly
+"No<Delay 5>...<New>
+To your own innermost
+feelings that everyone
+believes in<Delay 5>..."<Close><End of Block>
+<TextBlock 26 w:30 h:2>
+Elly
+"What's wrong?"<Close><End of Block>
+<TextBlock 27 w:44 h:3>
+Margie
+"I knew it<Delay 5>...<Delay 15>
+Yes,<Delay 5> that must be it!"<Close><End of Block>
+<TextBlock 28 w:14 h:2>
+Elly
+"What?"<Close><End of Block>
+<TextBlock 29 w:54 h:4>
+Margie
+"Elly, it's like everyone
+says!<Delay 10> You must be a
+reincarnation of Sophia!<New>
+You have no way of knowing
+the Nisan Sect's teachings,
+but what you say<Delay 5>...<New>
+...<Delay 5>well, it's exactly the
+same as what Sophia always
+said."<Close><End of Block>
+<TextBlock 30 w:36 h:3>
+Elly
+"Yes<Delay 5>...<Delay 30>
+That might be it."<Close><End of Block>
+<TextBlock 31 w:44 h:4>
+Elly
+"The first time I
+visited here I had the
+most amazing feeling."<Opcode 2 150><Close><End of Block>
+<TextBlock 32 w:54 h:3>
+Elly
+"Familiar<Delay 5>...<Delay 15>
+Sad<Delay 5>...<Delay 15><New>
+Like I had visited here
+many times in my dreams<Delay 5>..."<Close><End of Block>
+<TextBlock 33 w:48 h:3>
+Elly
+"I know where each room
+is<Delay 10> and what's in them.<New>
+I just know I must have
+been here in the distant
+past<Delay 5>..."<Close><End of Block>
+<TextBlock 34 w:52 h:4>
+Elly
+"Before, if you had spoken
+of this I'd have brushed
+it off with a laugh.<New>
+But now<Delay 5>..."<Close><End of Block>
+<TextBlock 35 w:36 h:2>
+Now, I can more or
+less believe it.<Close><End of Block>
+<TextBlock 36 w:44 h:3>
+Elly
+"The things I couldn't
+do then...<New>
+I'm probably trying to
+do now<Delay 5>..."<Close><End of Block>
+<TextBlock 37 w:40 h:3>
+Margie
+"Things you couldn't
+do<Delay 5>...?"<Opcode 2 150><Close><End of Block>
+<TextBlock 38 w:48 h:3>
+Elly
+"<Delay 5>...<Delay 5>Yes.
+Things I couldn't do<Delay 5>..."<Close><Close><End of Block>

@@ -1,0 +1,39 @@
+<TextBlock 1 w:50 h:3>
+Citan
+"The main Solaris army...<Delay 32>
+why...all this...<New>
+Well let us get down."<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Elly
+"I heard there's nothing
+in this excavation site."<Close><End of Block>
+<TextBlock 3 w:50 h:2>
+Bart
+"There's nothin' in here.<New>
+Why's Solaris coming 
+here?"<Close><End of Block>
+<TextBlock 4 w:32 h:2>
+Billy
+"Citan,<New>
+what is Solaris 
+trying to do?"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Rico
+"Hey Citan,<New>
+I heard there's nothin'
+here. If Solaris's comin'
+let's get outta here.<New>
+I hate dark cramped 
+places..."<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+<Chu-Chu>
+"Hey, hey!?
+Is there something tasty
+left on the ground?"<Close><End of Block>
+<TextBlock 7 w:46 h:1>
+I said you can't go in.<Close><End of Block>
+<TextBlock 8 w:46 h:2>
+No entry.
+'Ethos' personnel only.<Close><End of Block>
+<TextBlock 9 w:46 h:1>
+I said you can't go in.<Close><Close><End of Block>

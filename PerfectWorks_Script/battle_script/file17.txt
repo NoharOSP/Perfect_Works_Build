@@ -1,0 +1,166 @@
+<TextBlock 1 w:40 h:4>
+Fei
+"You're kidding?
+What are you doing
+here, Elly?<New>
+I thought you agreed
+to get out of the
+military!"<Close><End of Block>
+<TextBlock 2 w:40 h:4>
+Fei
+"Then, you're saying
+this is also one of
+your duties!?"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Fei
+"Are you serious?
+You do know what you're
+doing, don't you!?<New>
+How can you say that
+knowing where that ship
+is headed and what the
+outcome may be...?"<Close><End of Block>
+<TextBlock 4 w:30 h:3>
+Fei
+"C'mon, Elly!
+Say something!"<Close><End of Block>
+<TextBlock 5 w:18 h:2>
+Fei
+"Then..."<Close><End of Block>
+<TextBlock 6 w:20 h:3>
+Fei
+"Freedom? 
+Me?"<Close><End of Block>
+<TextBlock 7 w:40 h:3>
+Fei
+"Then why don't you
+do that too, Elly!?"<Close><End of Block>
+<TextBlock 8 w:18 h:2>
+Fei
+"Elly..."<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Fei
+"I don't have a place
+I belong in either..."<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Fei
+"... Bart and crew,
+even their whole ship,
+are all missing...<New>
+They disappeared after
+the battle with Gebler.
+So, I don't have a place
+to belong to anymore..."<Close><End of Block>
+<TextBlock 11 w:46 h:2>
+Fei
+"...Do you enjoy this?"<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Fei
+"Barging into someone
+else's country, and
+destroying the place...<New>
+Dragging innocent
+people into
+becoming victims...<New>
+Do you enjoy fighting
+that much!? Is it that
+much fun for you to
+watch people die!?"<Close><End of Block>
+<TextBlock 13 w:44 h:3>
+Fei
+"If that's the case...
+then come with me!"<Close><End of Block>
+<TextBlock 14 w:30 h:4>
+Fei
+"Just forget
+everything and
+come with me!!"<Close><End of Block>
+<TextBlock 15 w:44 h:4>
+Elly
+"That's asking for too
+much! I'm an officer
+of the Gebler forces!"<Close><End of Block>
+<TextBlock 16 w:36 h:4>
+Elly
+"Yes!
+My duty is to
+escort the Hecht.<New>
+And to eliminate
+all enemies that
+get in its way...<New>
+So you better get
+out of the way...<New>
+Cause if you don't
+move then I'll
+have no choice but
+to eliminate you!"<Close><End of Block>
+<TextBlock 17 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 18 w:32 h:4>
+Elly
+"I know!
+I do understand
+what I'm doing!"<Close><End of Block>
+<TextBlock 19 w:30 h:4>
+Elly
+"Change.<Delay 30>
+How I wanted
+to change<Delay 20>...<New>
+I've thought of
+changing, but
+I couldn't<Delay 10>...<New>
+I don't have
+the freedom
+like you do!<Close><End of Block>
+<TextBlock 20 w:42 h:4>
+Elly
+"Yes! Am I wrong?
+To be able to choose
+where you belong...<New>
+To be able to fight
+alongside those who
+believe in their
+own cause...<New>
+Even if you have
+much more anguish
+to deal with...<New>
+At least you have the
+freedom to choose
+your own path!
+Unlike me...!"<Close><End of Block>
+<TextBlock 21 w:46 h:4>
+Elly
+"If I could, I would
+already be doing it!
+But I can't...<New>
+This is my place. And
+that's how it is here!"<Close><End of Block>
+<TextBlock 22 w:36 h:3>
+Elly
+"... So... please,
+understand..."<Close><End of Block>
+<TextBlock 23 w:12 h:2>
+Elly
+"Huh?"<Close><End of Block>
+<TextBlock 24 w:34 h:4>
+Elly
+"Really...
+Then, why are you
+fighting now?<New>
+Who are you
+fighting for...?"<Close><End of Block>
+<TextBlock 25 w:10 h:2>
+Elly
+" ? "<Close><End of Block>
+<TextBlock 26 w:42 h:4>
+Elly
+"Don't be ridiculous!
+I would never find
+pleasure in that!"<Close><End of Block>
+<TextBlock 27 w:24 h:4>
+Elly
+"Wha!?
+What are
+you doing!?"<Close><Close><Close><UNKNOWN CHUNK 197>
+<Close><End of Block>

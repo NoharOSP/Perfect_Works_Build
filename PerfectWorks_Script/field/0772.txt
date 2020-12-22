@@ -1,0 +1,48 @@
+<TextBlock 1 w:14 h:2>
+Citan
+"Fei!!"<Close><End of Block>
+<TextBlock 2 w:26 h:3>
+Bart
+"I knew you'd
+come round!!"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Fei
+"We'll talk later!
+We've got big trouble
+coming down on us now!"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Citan
+"I know I am a little
+rusty...<New>
+There is a limit to what
+I can learn seeing as I
+started so late in life.<New>
+Even so, I hit that guy
+hard and he did not go
+down. They must be using
+'that stuff'."<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Citan
+"Young one!<Delay 10>
+They are using -Drive-!<New>
+They are battle
+enhancement drugs.<Delay 10>
+Normal attacks will
+not hurt them!"<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+Bart
+"Are you serious?
+So that's how they
+keep at it, huh?<New>
+Crap...
+This'll never end!<Close><End of Block>
+<TextBlock 7 w:14 h:2>
+Citan
+"Fei!!"<Close><End of Block>
+<TextBlock 8 w:26 h:4>
+Bart
+"It's okay!
+We'll get by
+without him!"<Close><End of Block>
+<TextBlock 9 w:0 h:1>
+<Close><End of Block>

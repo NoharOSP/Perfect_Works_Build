@@ -1,0 +1,168 @@
+<TextBlock 1 w:16 h:1>
+...<Delay 5>Live!<Opcode 2 90><Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Krelian
+"We were sacrificed as
+pawns<Delay 5>...<New>
+In order to protect their
+own authority<Delay 5>...<Delay 5>
+Sophia was<Delay 5>...<New>
+Is this the ideal world
+we've been searching for?<Delay 15>
+What have we been doing?<New>
+Heading toward Sophia's
+ideals<Delay 5>...?<Delay 30>
+Is this our salvation?"<Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Krelian
+"This isn't fair<Delay 5>...<Delay 15>
+Sophia was sacrificed
+for those bastards<Delay 5>..."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Krelian
+"Sophia said,<Delay 5> if you just
+have faith the path to what
+you hope for will open.<New>
+But look at reality.<Delay 15>
+God didn't answer our
+prayers<Delay 5>...<New>
+Is that because we didn't
+have faith?<New>
+Even if we didn't have
+faith, <Delay 5>Sophia did.<Delay 15>
+Why did she have to
+be sacrificed?<New>
+Is god dead<Delay 5>...?<Delay 15>
+Is he just not there<Delay 5>...?<Delay 15>
+Maybe god never even
+existed to begin with!"<Close><End of Block>
+<TextBlock 5 w:42 h:4>
+Krelian
+"Ha, ha, ha, ha<Delay 5>...<Delay 5>
+I see<Delay 5>...<Delay 30>
+That's it<Delay 5>...<New>
+If god doesn't exist
+in our world, then<Delay 5>...<Delay 5>
+I will create god
+with my own hands!"<Close><End of Block>
+<TextBlock 6 w:24 h:2>
+Lacan
+"Krelian<Delay 5>..."<Close><End of Block>
+<TextBlock 7 w:40 h:3>
+Krelian
+"Sophia<Delay 5>...<Delay 30>
+Please guide me<Delay 5>...<New>
+I will destroy all
+such false pretenses
+of love,<Delay 5> for you<Delay 5>..."<Close><End of Block>
+<TextBlock 8 w:54 h:3>
+Roni
+"We need to gather all
+our surviving comrades.<New>
+We'll never beat them if we
+fight them individually<Delay 5>...<New>
+So let us create a country
+that can some day stand up
+against them<Delay 5>..."<Close><End of Block>
+<TextBlock 9 w:52 h:3>
+Roni
+"What are you going to do,<Delay 30>
+Lacan<Delay 5>...?"<Close><End of Block>
+<TextBlock 10 w:12 h:2>
+Lacan
+"I<Delay 5>..."<Close><End of Block>
+<TextBlock 11 w:64 h:3>
+Lacan
+"<Delay 5>...<Delay 5>What...<Delay 5>is...this...<Delay 5>place<Delay 5>...?<Delay 15>
+<Delay 5>...<Delay 5>My execution site<Delay 5>...?"<Close><End of Block>
+<TextBlock 12 w:54 h:3>
+Lacan
+"<Delay 5>...<Delay 5>Why do you turn on me?<Delay 15>
+I thought we were friends!"<Close><End of Block>
+<TextBlock 13 w:20 h:3>
+Lacan
+"Who<Delay 5>...<Delay 15>
+is it<Delay 5>...?"<Close><End of Block>
+<TextBlock 14 w:56 h:4>
+Lacan
+"Did I<Delay 5>...<Delay 5>
+cause this<Delay 5>...?<Delay 15>
+What has happened to me<Delay 5>...?"<Close><End of Block>
+<TextBlock 15 w:28 h:2>
+What<Delay 5>...<Delay 5>have<Delay 5>...<Delay 5>
+I<Delay 5>...<Delay 5>become<Delay 5>...?<Close><End of Block>
+<TextBlock 16 w:40 h:2>
+Lacan
+"...<Delay 5>I will<Delay 5> live<Delay 5>...!"<Close><End of Block>
+<TextBlock 17 w:44 h:4>
+Lacan
+"Even if I go to hell,<Delay 15>
+I will live till the
+end of this world.<New>
+And if the world does
+not come to an end<Delay 5>...<Delay 5>
+I will destroy it
+with my own hands!"<Close><End of Block>
+<TextBlock 18 w:42 h:4>
+If god doesn't exist
+in our world, then<Delay 5>...<Delay 5>
+I will create god
+with my own hands!<Opcode 2 180><Close><End of Block>
+<TextBlock 19 w:0 h:1>
+<End of Block>
+<TextBlock 20 w:0 h:0>
+<End of Block>
+<TextBlock 21 w:48 h:32>
+<End of Block>
+<TextBlock 22 w:32 h:80>
+<End of Block>
+<TextBlock 23 w:49 h:10>
+<End of Block>
+<TextBlock 24 w:32 h:48>
+<End of Block>
+<TextBlock 25 w:0 h:0>
+<End of Block>
+<TextBlock 26 w:0 h:0>
+<End of Block>
+<TextBlock 27 w:0 h:0>
+<End of Block>
+<TextBlock 28 w:0 h:0>
+<End of Block>
+<TextBlock 29 w:52 h:32>
+<End of Block>
+<TextBlock 30 w:32 h:32>
+<End of Block>
+<TextBlock 31 w:53 h:81>
+<End of Block>
+<TextBlock 32 w:32 h:32>
+<End of Block>
+<TextBlock 33 w:54 h:82>
+<End of Block>
+<TextBlock 34 w:32 h:32>
+<End of Block>
+<TextBlock 35 w:55 h:83>
+<End of Block>
+<TextBlock 36 w:32 h:32>
+<End of Block>
+<TextBlock 37 w:56 h:84>
+<End of Block>
+<TextBlock 38 w:32 h:32>
+<End of Block>
+<TextBlock 39 w:57 h:85>
+<End of Block>
+<TextBlock 40 w:10 h:32>
+<End of Block>
+<TextBlock 41 w:48 h:86>
+<End of Block>
+<TextBlock 42 w:48 h:32>
+<End of Block>
+<TextBlock 43 w:32 h:87>
+<End of Block>
+<TextBlock 44 w:50 h:32>
+<End of Block>
+<TextBlock 45 w:48 h:88>
+<End of Block>
+<TextBlock 46 w:32 h:32>
+<End of Block>
+<TextBlock 47 w:32 h:89>
+<Close><End of Block>

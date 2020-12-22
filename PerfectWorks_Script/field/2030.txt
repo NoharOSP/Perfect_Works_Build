@@ -1,0 +1,206 @@
+<TextBlock 1 w:16 h:2>
+<Opcode 1 255>Fei
+"Elly!!"<Close><End of Block>
+<TextBlock 2 w:28 h:3>
+Citan
+"Wait!!<Delay 20>
+Fei!<New>
+Do not release
+the system!!"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Bart
+"Citan, wait!!<New>
+We are only endangering
+ourselves!<Delay 20>
+Let's get outta here
+for now!!"<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Miang
+"Now, the time has come
+for the great awakening!"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Miang
+"This is the true meaning
+of the -Anima Relics-...<New>
+To attain their respective
+-Animus- and return to the
+-Persona-.<New>
+The Anima Relics are really
+one set of parts that make
+up -Deus-, the physical
+manifestation of god.<New>
+They regain their original
+powers or functions by
+aligning themselves with
+their destined partner...<New>
+An Omnigear that has lost
+its respective Anima Relic,
+is but a puppet.<New>
+It becomes a mere vessel
+or container in which there
+are no contents."<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Krelian
+"And this girl too was
+destined to become one
+with god...<New>
+You see...Elyhaym is
+really one of the parts
+of god as well..."<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Krelian
+"Put simply, you served to
+help bring all the parts of
+god together, here, for me.<New>
+You're a bunch of stupid
+fools.<Delay 20> It's as if you're
+all clowns..."<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Miang
+"You believed the legend
+of how our world and the
+universe was created...<New>
+But the Ministry and I
+fabricated that very myth
+a long time ago to suit
+our purposes."<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Miang
+"I think you'll find that
+your friends' Omnigears
+are all dead too...<New>
+I'm talking about your
+friends who split up and
+took a different path than
+you into this place...<New>
+They were all parts of god
+that were disassembled in
+the past, but once again,
+are all gathered here."<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Krelian
+"Yes.
+It is indeed the time for
+the resurrection of god."<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+W, what was it all for...<Delay 20>
+Everything that I have
+done up until now...<Close><End of Block>
+<TextBlock 12 w:34 h:4>
+Fei
+"What is this...?<Delay 30>
+...!!<Delay 30>
+That's <Delay 20>Elly!!"<Close><End of Block>
+<TextBlock 13 w:34 h:3>
+Fei
+"Damn,<Delay 5>
+what's going on!?<New>
+Huh!?<Delay 20>
+Hey<Delay 5>...<Delay 5>
+Is that<Delay 5>...!?"<Close><End of Block>
+<TextBlock 14 w:38 h:3>
+Fei
+"Our Omni<Delay 5>...?<Delay 20>
+No, that's not it!!<New>
+Is that<Delay 5>...<Delay 20>
+our Anima Relics!?"<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Fei
+"Being consumed by...
+Deus...!?"<Close><End of Block>
+<TextBlock 16 w:34 h:4>
+Fei
+"Deus is...
+swallowing up our
+Anima Relics!?"<Close><End of Block>
+<TextBlock 17 w:40 h:3>
+Fei
+"What the hell are
+you talking about!?"<Close><End of Block>
+<TextBlock 18 w:50 h:3>
+Fei
+"That's a lie!!<Delay 20>
+How can that be true...?"<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Citan
+"Gwah...!<Delay 20>
+Could...this be the!?"<Close><End of Block>
+<TextBlock 20 w:38 h:3>
+Bart
+"W, what the!?<New>
+M, my body...<Delay 20>
+It feels like it's
+bein' torn apart!!"<Close><End of Block>
+<TextBlock 21 w:38 h:3>
+Bart
+"It, it's...<Delay 5>
+pulling me in...!!"<Close><End of Block>
+<TextBlock 22 w:34 h:4>
+Bart
+"What's going on?<Delay 20>
+My Omnigear<Delay 5>...<Delay 5>
+won't move!?<New>
+It's like it's
+dead<Delay 5>...!?"<Close><End of Block>
+<TextBlock 23 w:38 h:4>
+Rico
+"Gwah...!?<Delay 20>
+Wh, what's this
+terrible pain...!?"<Close><End of Block>
+<TextBlock 24 w:52 h:3>
+Rico
+"That Deus thing!?<Delay 20>
+Is it trying swallow us!?"<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Rico
+"Crap, what's going on?
+My Omnigear won't move!<New>
+It's like it's...dead."<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Billy
+"Argh...!?<Delay 20>
+I'm getting torn apart!?"<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Billy
+"That thing...!<Delay 20>
+That thing is trying...
+to eat us all!?"<Close><End of Block>
+<TextBlock 28 w:42 h:4>
+Billy
+"What's going on?
+My Omnigear...
+It's not moving.<New>
+I think it's dead..."<Close><End of Block>
+<TextBlock 29 w:22 h:2>
+Emeralda
+"Grrr...!!"<Close><End of Block>
+<TextBlock 30 w:30 h:3>
+<Chu-Chu>
+"...?<Delay 20>
+What's wrong!?"<Close><End of Block>
+<TextBlock 31 w:34 h:3>
+Maria
+"Uh...!!<Delay 20>
+What's this...!?"<Close><End of Block>
+<TextBlock 32 w:26 h:3>
+Citan
+"It is our...<Delay 20>
+Omnigears!?"<Close><End of Block>
+<TextBlock 33 w:46 h:4>
+Citan
+"Is it trying to detach
+the Anima Relics from
+our Omnigears!?"<Close><End of Block>
+<TextBlock 34 w:52 h:3>
+Citan
+"...<New>
+It seems the Anima Relics
+have fallen into the hands
+of the enemy."<Close><End of Block>
+<TextBlock 35 w:22 h:2>
+Emeralda
+"Grrr...!!"<Close><End of Block>
+<TextBlock 36 w:54 h:3>
+Do you want to jump inside?<Delay 20>
+    Yes
+    No<Close><Close><End of Block>

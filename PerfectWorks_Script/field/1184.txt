@@ -1,0 +1,297 @@
+<TextBlock 1 w:48 h:4>
+It's beyond my ability
+to understand, but...<Delay 10>
+regardless, I'm counting
+on you!<New>
+No one else can do this!<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+We won't see each other
+for a while, but I will
+pray for your success!<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+We're gonna break up...<Delay 10>is
+what I'd like to say but,
+at this point, we'll stick
+with you to the end!!<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+I didn't think it
+really could fly!
+Who would've guessed!?<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+(I hope I'll have
+a pretty bride!)<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+Let's finish them
+in one stroke!!<Close><End of Block>
+<TextBlock 7 w:58 h:4>
+The nurse came looking for
+Fei...<Delay 10>
+But perhaps the nurse's care
+was so bad that Fei ran away!<Close><End of Block>
+<TextBlock 8 w:50 h:2>
+It's more like a monster
+ship than a ghost ship...<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Ghost ship...<Delay 10>
+I bet it's one those things
+where you get<Delay 10> blood coming
+out of the showers...<New>
+Watch out for the shower!<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Who was that man...?<Delay 10>
+I could hear his voice
+echo from the hall.<Close><End of Block>
+<TextBlock 11 w:38 h:3>
+What!<Delay 10>
+Fei has recovered!?
+That's a miracle!!<Close><End of Block>
+<TextBlock 12 w:42 h:3>
+Fei was a nice guy...<Delay 10>
+I'll never forget
+your kindness...<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Elly would never do
+anything like that!!<Delay 10>
+I believe in her...<Close><End of Block>
+<TextBlock 14 w:48 h:5>
+Elly is resting in the
+medical room across from
+here.<Delay 10> I bet she can't
+sleep in a shabby place
+like this.<Close><End of Block>
+<TextBlock 15 w:52 h:3>
+Even in a foreign country,
+there are people willing
+to help.<New>
+I bet this place has an
+understanding boss.<Delay 10>
+I'm so touched by it...<Close><End of Block>
+<TextBlock 16 w:60 h:5>
+They blame us for destroying
+Aveh's troops! I don't get it!<Delay 10>
+The explosion of the Gebler
+sand cruiser's reactor was to
+blame, wasn't it?<New>
+Even if we return to Ignas, we
+are just going to be targets
+for them!
+This sucks!!<Close><End of Block>
+<TextBlock 17 w:50 h:3>
+You were on the Goliath?<Delay 10>
+Hey, I tried stopping the
+young master, ya know.<Close><End of Block>
+<TextBlock 18 w:48 h:3>
+Professor, we have a big
+job to do tomorrow! <New>
+Even if you can't sleep,
+you should at least lie
+down!<Close><End of Block>
+<TextBlock 19 w:54 h:2>
+(Actually, I'm too excited 
+to go to sleep myself...)<Close><End of Block>
+<TextBlock 20 w:40 h:3>
+Marguerite's become
+stronger since the
+last time I saw her.<New>
+She is indeed the
+true Great Mother
+of Nisan.<Close><End of Block>
+<TextBlock 21 w:32 h:1>
+Here I go again!<Close><End of Block>
+<TextBlock 22 w:52 h:2>
+We're almost at the base!<Delay 10>
+Whew, finally we can rest!<Close><End of Block>
+<TextBlock 23 w:50 h:2>
+I've got to work hard
+for my daughter's future!<Close><End of Block>
+<TextBlock 24 w:46 h:4>
+In this mission, the
+Yggdrasil won't be able
+to act as a lifeboat...<Delay 10>
+So be careful!<Close><End of Block>
+<TextBlock 25 w:40 h:3>
+I've never been so
+touched since my
+daughter was born...<New>
+We've been through
+many hardships, and
+lost many friends...<New>
+but I now know it
+was all for a just
+cause!<Close><End of Block>
+<TextBlock 26 w:34 h:3>
+That Shakhan,
+better have his
+tombstone ready!!<Close><End of Block>
+<TextBlock 27 w:34 h:2>
+We must stay here
+for a while...<Close><End of Block>
+<TextBlock 28 w:38 h:3>
+I thought the Gear
+left a while ago...<Delay 10>
+Didn't it...?<Close><End of Block>
+<TextBlock 29 w:50 h:1>
+That was one huuuge Wels!<Close><End of Block>
+<TextBlock 30 w:38 h:3>
+Ghost ship!?<Delay 10>
+Yeesh, now I feel
+like a real pirate!<Close><End of Block>
+<TextBlock 31 w:58 h:4>
+Sigurd headed toward the
+gun room with some strange
+man just a minute ago...<Delay 10>
+Sigurd didn't look too happy.<Close><End of Block>
+<TextBlock 32 w:42 h:3>
+I see, I see,<Delay 10>
+so you're alright...<New>
+But I wouldn't depend
+on the nurse.<Delay 10>
+Ha, ha, ha!!<Close><End of Block>
+<TextBlock 33 w:42 h:3>
+What? First the girl,
+and now Fei...!?<Delay 10>
+This is horrible!<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+Did she lose her temper
+and almost destroy the
+engine room?<New>
+Young girls these days
+just don't know when to
+stop!<Close><End of Block>
+<TextBlock 35 w:52 h:3>
+Elly was acting strangely.<Delay 10>
+Did she have a fight...?<New>
+Being young is great.<Delay 10>
+I used to be like that
+when I was your age.<Close><End of Block>
+<TextBlock 36 w:46 h:3>
+We're real 'pirates' at
+last.<Delay 10> But, now I kinda
+miss life in the sand.<Close><End of Block>
+<TextBlock 37 w:44 h:3>
+Young master, it's a
+great feeling to see
+a renewed Yggdrasil.<New>
+But it still feels the
+same since we only
+relocated our habitat.<Close><End of Block>
+<TextBlock 38 w:44 h:4>
+Many of our friends
+have passed away...<New>
+We sometimes wonder if
+what we're doing is
+right, but someday, I
+know peace will come!<Close><End of Block>
+<TextBlock 39 w:52 h:4>
+When the young master
+becomes a king,<Delay 10> I wonder
+if they'll forget about my
+bill at the bar in Aveh.<Close><End of Block>
+<TextBlock 40 w:48 h:4>
+They said to stand by
+inside the ship.<Delay 10>
+But I want to get off at
+Nisan.<Close><End of Block>
+<TextBlock 41 w:48 h:3>
+Hey?<Delay 10>
+That professor dressed
+in green isn't with you?<Close><End of Block>
+<TextBlock 42 w:52 h:4>
+When will I be able to see
+my daughter again?<Delay 10>
+I guess I'm gonna have to
+end this war first...!!<Close><End of Block>
+<TextBlock 43 w:46 h:4>
+My daughter is waiting
+for me at the base.<New>
+It's been so long since
+I've seen her! So we're
+going to spend a lot of
+time together.<Close><End of Block>
+<TextBlock 44 w:38 h:3>
+Get enough rest and
+be ready for the
+decisive battle!<Close><End of Block>
+<TextBlock 45 w:52 h:3>
+Young master, you want to
+sleep here, too?<Delay 10> Trust me,
+you shouldn't do that...<Close><End of Block>
+<TextBlock 46 w:48 h:4>
+Oh! Are you Rico, the
+Battling Champ? I'm
+originally from Kislev.
+It's great to meet you!!<Close><End of Block>
+<TextBlock 47 w:46 h:3>
+Well, I'm no longer the
+Champ.<Delay 10> So there's no
+need to get so excited.<Close><End of Block>
+<TextBlock 48 w:58 h:3>
+I may not be so handsome,
+but I do have a fiancee
+back home...<New>
+but my hometown is Kislev.<New>
+When the young master becomes
+the king of Aveh, I wonder
+if I'll be able to see her?<Close><End of Block>
+<TextBlock 49 w:50 h:4>
+This is where we rest.
+Do you want to rest, too?<Delay 10>
+    Yes
+    No thanks<Close><End of Block>
+<TextBlock 50 w:38 h:2>
+It's a little messy
+so bear with it.<Close><End of Block>
+<TextBlock 51 w:14 h:1>
+See ya.<Close><End of Block>
+<TextBlock 52 w:34 h:3>
+See you later.
+Let me know when
+you want to rest.<Close><End of Block>
+<TextBlock 53 w:44 h:4>
+My goodness, Bart!
+Where is Fei?
+You had a fight again?
+Oh my...<Close><End of Block>
+<TextBlock 54 w:48 h:2>
+As long as you're alive,
+I'll be happy.<Close><End of Block>
+<TextBlock 55 w:52 h:4>
+My goodness, Bart did such
+an admirable act!<Delay 10>
+He used to be such a
+mischievous child...<New>
+When he was young he was
+so stubborn! But he had a
+strong sense of justice.
+I'm so proud of him.<Close><End of Block>
+<TextBlock 56 w:50 h:4>
+I have no idea what Bart
+and you are doing, but if
+something happens, I'll
+back you up! No worries!<Close><End of Block>
+<TextBlock 57 w:52 h:3>
+I've decided to work here,
+I hope you don't mind...<New>
+So, have you met my stupid
+husband acting all big and
+mighty in the engine room?<New>
+He's got a bad mouth, but
+deep down he's a good man.<Close><End of Block>
+<TextBlock 58 w:44 h:3>
+I guess there are many
+things in the world
+I've never seen.<New>
+I'll probably discover
+them if I try hard
+enough on my own...<Close><End of Block>
+<TextBlock 59 w:32 h:1>
+Her-her-her-her!<Close><End of Block>
+<TextBlock 60 w:46 h:2>
+Helen, so courageous...<Delay 10>
+So moving...<Close><End of Block>
+<TextBlock 61 w:54 h:3>
+The Mary card collection...<Delay 10>
+I'm having a difficult
+time collecting them all...<Close><End of Block>
+<TextBlock 62 w:0 h:1>
+<Close><End of Block>

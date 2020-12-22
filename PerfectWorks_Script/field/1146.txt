@@ -1,0 +1,280 @@
+<TextBlock 1 w:24 h:1>
+I'm slippin'<Opcode 2 40><Close><End of Block>
+<TextBlock 2 w:48 h:2>
+Hammer
+"Yiiiiiiiiikkkessssss!!"<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+Fei
+"Yeah<Delay 5>..."<Delay 80><Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Fei
+"What happened, doc...<Delay 15>
+...<Delay 15>!!"<Close><End of Block>
+<TextBlock 5 w:28 h:2>
+Fei
+"...<Delay 10>It's him."<Close><End of Block>
+<TextBlock 6 w:38 h:3>
+Fei
+"I'm going out with
+the Gear..."<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Fei
+"...<Delay 20>Doc. I don't know how
+to say this but...I've got
+a bad feeling."<Close><End of Block>
+<TextBlock 8 w:44 h:3>
+Fei
+"It's not that.
+It's not like...<New>
+It's like this feeling
+of uneasiness that
+I've had before..."<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Fei
+"And I feel like we're
+being watched..."<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Citan
+"Are you thinking of
+that man in black?<New>
+Thinking about him will
+not get you anywhere.
+First of all, it is not
+like you..."<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+Citan
+"You too!?<New>
+Well, to tell the truth,
+I am getting a terrible
+feeling of deja vu..."<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Citan
+"The shaking has
+subsided. We should be
+in good shape for now."<Close><End of Block>
+<TextBlock 13 w:10 h:3>
+Citan
+"!!
+Fei!"<Close><End of Block>
+<TextBlock 14 w:30 h:3>
+Citan
+"If it is them,
+they are okay.<New>
+Nevermind that,
+Hammer, go to
+that trigger!"<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+Citan
+"You must fire.
+Look, it is coming."<Close><End of Block>
+<TextBlock 16 w:46 h:4>
+Citan
+"Hammer! Calm down and
+concentrate. It is
+heading straight at us.<New>
+All you have to do is
+aim well, pull the
+trigger and fire."<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Citan
+"Good, keep it there and
+do not move your aim.
+Get ready to fire in..."<Close><End of Block>
+<TextBlock 18 w:40 h:2>
+<Opcode 1 255>5...<Delay 80>4...<Delay 80>3...<Delay 80>2...<Delay 80>1...<Delay 80>
+Fire!!<Opcode 2 60><Close><End of Block>
+<TextBlock 19 w:10 h:2>
+Rico
+"..."<Close><End of Block>
+<TextBlock 20 w:24 h:2>
+<Opcode 1 255>Rico
+"Shut up!!!"<Delay 120><Close><End of Block>
+<TextBlock 21 w:42 h:4>
+Elly
+"That person...<Delay 30>wasn't
+aiming for me.
+Why...<Delay 10>?"<Close><End of Block>
+<TextBlock 22 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 23 w:30 h:2>
+Elly
+"Th, that's..."<Close><End of Block>
+<TextBlock 24 w:44 h:3>
+Elly
+"Fei,
+where are you going!?"<Close><End of Block>
+<TextBlock 25 w:12 h:2>
+Elly
+"Fei!"<Close><End of Block>
+<TextBlock 26 w:50 h:4>
+Hammer
+"Awww, Master Rico...
+please don't be mad.
+It was just a joke.<New>
+Master Rico, it's because
+of you I am what I am.
+C'mon..."<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Hammer
+"Geeze!<Delay 20> Why am I the one
+getting yelled at when it
+was me who took'm out..."<Close><End of Block>
+<TextBlock 28 w:46 h:4>
+Hammer
+"Bro, what're we gonna
+do now?
+Go to Aveh as planned?"<Close><End of Block>
+<TextBlock 29 w:26 h:2>
+Hammer
+"M, Master!?"<Close><End of Block>
+<TextBlock 30 w:28 h:2>
+Hammer
+"Even Elly..."<Close><End of Block>
+<TextBlock 31 w:54 h:4>
+Hammer
+"Aaaaaaah!
+Looook ooouut!!<New>
+Master Citan!! It's alright
+to throw the black creep,
+but bro and Master Rico as
+well...?"<Close><End of Block>
+<TextBlock 32 w:42 h:4>
+Hammer
+"Trigger<Delay 5>...?<Delay 5>
+You mean this?
+What do I do with..."<Close><End of Block>
+<TextBlock 33 w:3 h:1>
+?<Close><End of Block>
+<TextBlock 34 w:38 h:2>
+Hammer
+"The<~>y're he<~>re!!"<Close><End of Block>
+<TextBlock 35 w:22 h:2>
+Hammer
+"Aiming..."<Close><End of Block>
+<TextBlock 36 w:30 h:2>
+Hammer
+"L, like this?"<Close><End of Block>
+<TextBlock 37 w:50 h:3>
+Hammer
+"Y,<Delay 15> ye,<Delay 15> ye,<Delay 25>
+aaaaaawwww yeeeaaahhh!!!"<Close><End of Block>
+<TextBlock 38 w:50 h:3>
+Hammer
+"Master, sir, did you
+just see my MAD SKILLZ!?<New>
+I just might be a genius!<Delay 10>
+...<Delay 20>Wha?"<Close><End of Block>
+<TextBlock 39 w:44 h:3>
+Hammer
+"By the way, what's up
+with bro and the gang?<New>
+You don't think they
+fell off?"<Close><End of Block>
+<TextBlock 40 w:44 h:3>
+Hammer
+"Well, at least you
+still got me.<New>
+It should be a piece
+o'cake with me around.
+Right, Master, sir?"<Close><End of Block>
+<TextBlock 41 w:14 h:1>
+SMACK!!<Close><End of Block>
+<TextBlock 42 w:30 h:2>
+Elly
+"What's wrong?"<Close>
+Fei."<Close><End of Block>
+<TextBlock 43 w:38 h:2>
+Fei
+"Oh, it's nothing."<Close><End of Block>
+<TextBlock 44 w:42 h:2>
+Elly
+"Okay... I'm glad..."<Close><End of Block>
+<TextBlock 45 w:44 h:4>
+Elly
+"Anyway, Citan is it
+okay? We're flying in
+such a large ship. <New>
+What if Kislev or Aveh
+finds us..."<Close><End of Block>
+<TextBlock 46 w:52 h:4>
+Citan
+"We are fine. I thought
+ahead and picked a course
+over the sea.<New>
+There are not any military
+units stationed out here.<New>
+Even then, this thing is
+not something that will
+go down so easily..."<Close><End of Block>
+<TextBlock 47 w:48 h:3>
+Citan
+"This cannot be right!?<Delay 10>
+Are we being attacked!?"<Close><End of Block>
+<TextBlock 48 w:22 h:2>
+Fei
+"Enemies!?"<Close><End of Block>
+<TextBlock 49 w:50 h:4>
+Citan
+"I do not know. But I did
+not think they would be
+submerged here..."<Close><End of Block>
+<TextBlock 50 w:30 h:2>
+Elly
+"Are we okay!?"<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Citan
+"...Unfortunately, there
+is no way we can avoid
+descending.<New>
+Fei, Elly, get out first.
+I will follow later."<Close><End of Block>
+<TextBlock 52 w:16 h:2>
+Fei
+"But..."<Close><End of Block>
+<TextBlock 53 w:52 h:4>
+Citan
+"We have no time for a
+debate now, Fei!!<New>
+Do you think you have the
+skills needed to keep the
+Goliath in the air as long
+as possible!?"<Close><End of Block>
+<TextBlock 54 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 55 w:28 h:3>
+Citan
+"Then hurry up
+and get out."<Close><End of Block>
+<TextBlock 56 w:26 h:2>
+Citan
+"Now then<Delay 10>...<Delay 10>"<Close><End of Block>
+<TextBlock 57 w:48 h:3>
+Citan
+"...And you too, Hammer!
+You are going too!"<Close><End of Block>
+<TextBlock 58 w:34 h:2>
+Hammer
+"Y, yy, yessir!!"<Close><End of Block>
+<TextBlock 59 w:42 h:3>
+Rico
+"Argh! Quit dawdling.
+We're going."<Close><End of Block>
+<TextBlock 60 w:20 h:2>
+Hammer
+"Yessir!!"<Close><End of Block>
+<TextBlock 61 w:32 h:3>
+Citan
+"Now...where did
+they..."<Close><End of Block>
+<TextBlock 62 w:26 h:3>
+Citan
+"!!<Delay 20>
+That ship<Delay 10>...<Delay 10>"<Close><End of Block>
+<TextBlock 63 w:44 h:3>
+Citan
+"Sigurd<Delay 10>...<Delay 10><New>
+I think you need to
+rethink your method of
+disciplining<Delay 10>...<Delay 10>"<Close><Close><End of Block>

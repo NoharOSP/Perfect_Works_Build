@@ -1,0 +1,122 @@
+<TextBlock 1 w:54 h:4>
+Ramsus
+"Once their effect-fins are
+destroyed they will remain
+buried and unable to move.<New>
+Surfacing was a smart move.
+Sand-Torpedo Chief! Well
+done on lowering their
+fighting power. Brilliant!"<Close><End of Block>
+<TextBlock 2 w:32 h:4>
+Ramsus
+"Well...<Delay 16>
+what shall we do
+with them...?"<Close><End of Block>
+<TextBlock 3 w:56 h:3>
+Ramsus
+"I promised an old friend...
+I must take it easy..."<Close><End of Block>
+<TextBlock 4 w:38 h:3>
+Ramsus
+"An old...friend...<Delay 32>
+..."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Ramsus
+"Comm officer!<New>
+Use my name and urge them
+to surrender. Tell them to
+surrender if they desire
+the safety of Nisan."<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Ramsus
+"All divisions cease fire,
+but remain on alert!<New>
+If any enemy vessel
+attempts to attack, shoot
+it individually!"<Close><End of Block>
+<TextBlock 7 w:46 h:2>
+Ramsus
+"...Can't help it, eh?"<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Ramsus
+"All divisions, holding
+pattern cancelled!<Delay 16>
+...Resume attack!"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Ramsus
+"Th, that Gear! No mistake!
+It's him! Demon of Elru...!<Delay 50>
+Miang! Let's go!"<Close><End of Block>
+<TextBlock 10 w:26 h:3>
+Ramsus
+"Ah...<Delay 16>
+That is...!!"<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Miang
+"Oh?<Delay 24>
+It's unusual for you
+to get lost."<Close><End of Block>
+<TextBlock 12 w:52 h:2>
+Miang
+"Commander?...Ha, Ha, Ha."<Close><End of Block>
+<TextBlock 13 w:56 h:3>
+Miang
+"Calm down. <Delay 32>Put the analyzed
+picture on the monitor."<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Miang
+"Commander! Please wait!
+Commander!!"<Close><End of Block>
+<TextBlock 15 w:22 h:2>
+Miang
+"Ha, ha..."<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Confirmed, vessel
+destruction noise.<New>
+...followed by a rapid
+blowing noise. Enemy vessel
+is probably floating
+rapidly to the surface.<Close><End of Block>
+<TextBlock 17 w:56 h:4>
+Confirmed, one enemy Gear
+engaged. Direct course.
+Enemy vessel engine noise
+increasing...Speed increase,<New>
+steering noise confirmed,
+course change...
+Taking evasive action.<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+W, wait!!!<Delay 32><New>
+Explosions along the
+perimeter of the fleet,
+confirmed. Multiple vessel
+destruction noises!<New>
+High energy reactions...
+What kind of gain is this!?
+Commander!! I can't believe
+this! This...Gear...?<New>
+It's like reactive rounds
+are flying around...<Close><End of Block>
+<TextBlock 19 w:24 h:1>
+Y, yessir...<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Fluid static around enemy
+vessel is decreasing.
+Sand maneuverability of
+enemy vessel down 60%.<New>
+...Looks like the main
+engine and effect-fins
+have been disabled.<Close><End of Block>
+<TextBlock 21 w:42 h:1>
+Sorry to trouble you.<Close><End of Block>
+<TextBlock 22 w:56 h:4>
+Bow torpedo tubes 1-3,
+Namthal missile.
+Set 1 and 2 for homing,
+3 for anti-radar.<New>
+Tubes 4-6, Makara Mk5
+sand torpedoes. After
+acquiring target set all
+to passive homing.<New>
+All units, begin defensive
+fire. Aim for the main ship.<Close><Close><End of Block>

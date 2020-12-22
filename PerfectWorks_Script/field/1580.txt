@@ -1,0 +1,46 @@
+<TextBlock 1 w:46 h:3>
+Bart
+"There's another Jasper
+lock..."<Close><End of Block>
+<TextBlock 2 w:38 h:2>
+Margie
+"Let's try it out."<Close><End of Block>
+<TextBlock 3 w:32 h:4>
+Bart
+"Argh!<Delay 30>
+I only have one 
+Fatima Jasper!"<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+Sigurd
+"Relax, young master!"<Close><End of Block>
+<TextBlock 5 w:38 h:3>
+Bart
+"Sig...<Delay 30>
+What should I do!?"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Sigurd
+"Pass the light through
+your good eye!<Delay 30>
+I'll do the other half!"<Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Bart
+"...<Delay 30>What're you?"<Close><End of Block>
+<TextBlock 8 w:26 h:2>
+Sigurd
+"Just do it!"<Close><End of Block>
+<TextBlock 9 w:42 h:2>
+Bart
+"Yes!<Delay 30> It's unlocked."<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Bart
+"?<Delay 30>
+Sig...!<Delay 30>
+How did YOUR eye work!?"<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Sigurd
+"We running out of time!<Delay 30>
+We must return to
+Marguerite at once!"<Close><End of Block>
+<TextBlock 12 w:12 h:2>
+Bart
+"...?"<Close><Close><End of Block>

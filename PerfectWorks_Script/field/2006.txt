@@ -1,0 +1,112 @@
+<TextBlock 1 w:54 h:4>
+Fei
+"Elly will be back to
+her usual self! I will
+go on believing that.<New>
+But even if that doesn't
+happen...I will still...
+...Well, let's just say
+I'm prepared for that too!"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Zephyr
+"You don't have to do
+this if you don't want
+to, you know.<New>
+Your opponent is the
+person you love...
+If you decide to quit now,
+no one will blame you."<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Fei
+"To quit would be
+meaningless.<New>
+All that I have fought for,
+and all that I live for,
+would come to have no
+meaning at all...<New>
+People should be free. With
+no one bound by others, and
+no one binding others...<New>
+Inside of me, there is a
+part of me that desires
+that freedom, and a part
+of me that gives me hope.<New>
+So, I shall fight to
+win true freedom!
+For we are still alive!<New>
+We fight to live.
+That is the reason
+why I fight.
+It's proof I'm human.<New>
+I promised my father, and
+myself too, that I would
+free Elly from Deus' binds,
+that I would save her..."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Zephyr
+"I understand.<Delay 20>
+So, let's keep believing...
+And hope for a miracle..."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Fei
+"According to what the doc
+says, his condition has
+gotten a lot better.<New>
+It seems like Kahr has
+regained his will to
+live again."<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Fei
+"So much has happened
+between him and I...<New>
+When this battle ends, I
+want to face Ramsus one
+on one in sport, not war,
+as a martial artist."<Close><End of Block>
+<TextBlock 7 w:24 h:2>
+Fei
+"Perhaps..."<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Citan
+"Yes, well, at first, he
+had lost faith in himself
+but now he is better.<New>
+Kahr has revived himself,
+and has found some real
+meaning in his life.<New>
+If he decides to fight on
+our side then our total
+fighting power shall be
+greatly increased."<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Zephyr
+"The snow keeps falling...<Delay 20>
+Softly covering up
+everything in this world...<New>
+Our sorrow, our defilement,
+our mistakes...<Delay 20> If only we
+could wipe away these
+things as easily as that...<New>
+What have we...<Delay 20>have I...<Delay 20>
+been doing...<Delay 20>
+been pursuing...<Delay 20>
+for these past 500 years?"<Close><End of Block>
+<TextBlock 10 w:42 h:4>
+Zephyr
+"By the way...<Delay 20>
+How is the person you
+rescued from Merkava?<New>
+I heard he recovered
+consciousness..."<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+Zephyr
+"I am sure he wishes
+the same thing too."<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Zephyr
+"Fei...
+May I ask you something?<New>
+About Elly...<Delay 20>
+What if, even if we break
+Zohar's spell, she doesn't
+return to normal..."<Close><Close><End of Block>

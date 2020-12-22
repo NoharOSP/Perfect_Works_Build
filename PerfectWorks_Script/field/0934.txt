@@ -1,0 +1,175 @@
+<TextBlock 1 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 2 w:20 h:3>
+Elly
+"Hurry!
+This way!"<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+Elly
+"Whew..."<Close><End of Block>
+<TextBlock 4 w:28 h:4>
+Renk
+"What's wrong?
+Something 
+bugging you?"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Elly
+"Sorry I'm so edgy.<New>
+Those self-detonating
+bombs are just air units
+with Kief class bombs
+on board.<New>
+I don't see why they
+need to use them all of
+a sudden...<New>
+There are just too many.
+One of those alone would
+have enough firepower,
+but 8 of them is overkill.<New>
+They haven't told us our
+target yet, and we're not
+just going to drop them
+for fun.<New>
+You bet I'm worried."<Close><End of Block>
+<TextBlock 6 w:32 h:3>
+Helmholz
+"Maybe to purge 
+the Lambs?"<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Elly
+"They're human...
+the same as us, right?<New>
+They have to give us a
+reason. I can't go along
+with this just because
+it's an order."<Close><End of Block>
+<TextBlock 8 w:16 h:2>
+Renk
+"Hmm..."<Close><End of Block>
+<TextBlock 9 w:14 h:2>
+Elly
+"What?"<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+Renk
+"Nothing..."<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Renk
+"Even though we are called
+Solarians, we are 3rd Class
+Citizens or 'Worker Bees'.<New>
+Us 3rd Class Citizens have
+our origins in the 'Lambs'.
+I can understand us having
+doubts in such orders...<New>
+But you, you're different.
+You're a pure 1st Class
+Citizen and come from a
+good family.<New>
+I've heard your father
+has a lot of pull in the
+military..."<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Elly
+"My family and father
+have nothing to do
+with it."<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Renk
+"Well, if you ask me,
+a 1st Class citizen
+thinking like this is...<New>
+a little unusual."<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Elly
+"Not really...
+It's quite natural."<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Helmholz
+"...So, how about it?
+Are you gonna do it?"<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Stratski
+"The army will demote
+us all back to being
+3rd Class citizens!"<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Elly
+"Don't worry. I'll just
+do my duty. But I'm only
+escorting the Hecht.<New>
+I won't help with 
+anything else."<Close><End of Block>
+<TextBlock 18 w:48 h:3>
+Helmholz
+"...But, what if
+something happens?<New>
+You're just backing
+yourself into a corner."<Close><End of Block>
+<TextBlock 19 w:40 h:3>
+Elly
+"...Can't be helped,
+I guess..."<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Renk
+"Well, either is fine
+for us. Just do what
+you're told.<New>
+Nothing else matters."<Close><End of Block>
+<TextBlock 21 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 22 w:12 h:2>
+Elly
+"Fei!"<Close><End of Block>
+<TextBlock 23 w:30 h:4>
+Fei
+"You're...Elly?
+What are you
+doing here?"<Close><End of Block>
+<TextBlock 24 w:24 h:3>
+Elly
+"I should be
+asking you!"<Close><End of Block>
+<TextBlock 25 w:42 h:3>
+Elly
+"Don't tell me you're
+the intruders, Fei?"<Close><End of Block>
+<TextBlock 26 w:12 h:2>
+Fei
+"Huh?"<Close><End of Block>
+<TextBlock 27 w:42 h:3>
+Bart
+"If she's in our way,
+just..."<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Fei
+"Wait a second, Bart!"
+She<Delay 5>...<Delay 10>Elly is not an
+enemy!"<Close><End of Block>
+<TextBlock 29 w:52 h:4>
+Bart
+"Not an enemy? Are you
+sane? Look at her uniform!
+She's a Gebler officer!"<Close><End of Block>
+<TextBlock 30 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 31 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 32 w:42 h:2>
+Elly
+"Wait here a second."<Close><End of Block>
+<TextBlock 33 w:40 h:3>
+Elly
+"The coast is clear!
+Quick, follow me!"<Close><End of Block>
+<TextBlock 34 w:36 h:1>
+They ran in here! <Opcode 2 60><Close><End of Block>
+<TextBlock 35 w:40 h:4>
+Dominia
+"Krelian<Delay 5>...?<Delay 50>
+A countervailing
+existence<Delay 5>...?<New>
+That Miang<Delay 5>...<Delay 5>
+what's she up to<Delay 5>...?<Delay 50>
+I had better warn
+the Commander<Delay 5>...!"<Close><Close><End of Block>

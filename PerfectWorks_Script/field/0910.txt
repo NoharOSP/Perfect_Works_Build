@@ -1,0 +1,116 @@
+<TextBlock 1 w:12 h:3>
+Margie
+"Bart!
+Look!"<Close><End of Block>
+<TextBlock 2 w:16 h:3>
+Bart
+"Crap!
+Gebler!"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Ramsus
+"Looks like we have rats.
+Where do you plan on
+taking that girl, boy?"<Close><End of Block>
+<TextBlock 4 w:42 h:4>
+Bart
+"Boy? Hah, boy!?!<New>
+Let's see you try and
+call me that again!
+Who the hell are you
+anyway?"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Ramsus
+"You do have spunk. But
+I don't need to give my
+name to rats like you."<Close><End of Block>
+<TextBlock 6 w:14 h:2>
+Bart
+"What?"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Ramsus
+"Now hand over the girl.
+She is a very important
+guest.<New>
+Until she tells us where a
+certain piece of the Fatima
+Jasper is, we can't allow
+her to be taken away."<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Bart
+"Gimme a break! You think
+I'm gonna hand her over
+just 'cause you say to?<New>
+Pull your head out, you
+Gebler geek!"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Ramsus
+"Hmm. I assume you know
+where such abusive
+language will lead you."<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Fei
+"You okay, Bart?"<Close><End of Block>
+<TextBlock 11 w:46 h:2>
+Bart
+"Glad you're here Fei!"<Close><End of Block>
+<TextBlock 12 w:12 h:2>
+Ramsus
+"Fei?"<Close><End of Block>
+<TextBlock 13 w:44 h:4>
+Fei
+"What's wrong, Bart?
+I thought this was
+just a simple rescue."<Close><End of Block>
+<TextBlock 14 w:52 h:3>
+Bart
+"Shut up! This jerk butted
+in and slowed me down!"<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Ramsus
+(The way he attacked...
+It reminds me of someone
+from my past...)<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Ramsus
+"Enough talk!
+Battling will reveal
+the truth about you."<Close><End of Block>
+<TextBlock 17 w:36 h:4>
+Bart
+"Careful Fei!
+This Gebler jerk's
+pretty strong."<Close><End of Block>
+<TextBlock 18 w:12 h:2>
+Fei
+"Now!"<Opcode 2 30><Close><End of Block>
+<TextBlock 19 w:34 h:4>
+Ramsus
+(Is it 'him'?
+Or do I only want
+to think so...<New>
+If it is 'him'...
+I...
+I am...)<Close><End of Block>
+<TextBlock 20 w:30 h:2>
+...Worthless...
+...A reject...<Close><End of Block>
+<TextBlock 21 w:44 h:3>
+Ramsus
+"GUARD! Double the
+guards on both shifts.<New>
+Don't let those rats
+in here again."<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+Shakhan
+"Open the door.
+Commander Ramsus is
+here to see her."<Close><End of Block>
+<TextBlock 23 w:40 h:2>
+Shakhan
+"Commander, please."<Close><End of Block>
+<TextBlock 24 w:3 h:1>
+<!><Opcode 2 20><Close><End of Block>
+<TextBlock 25 w:3 h:1>
+<!><Opcode 2 30><Close><End of Block>
+<TextBlock 26 w:22 h:1>
+No response<Close><Close><End of Block>

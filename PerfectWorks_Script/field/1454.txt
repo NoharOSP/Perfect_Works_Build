@@ -1,0 +1,230 @@
+<TextBlock 1 w:50 h:4>
+Fei
+"Uh...it doesn't move.<Delay 20>
+Is it broken...?<New>
+...?<Delay 20>
+There's something small
+written here...<New>
+'The one who attains the
+dawn, the dusk, and the
+darkness shall climb the
+path to heaven...<Delay 20>Wiseman'<New>
+What is this?"<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Fei
+"Alright, then...
+Set those three stones we
+found into here..."<Close><End of Block>
+<TextBlock 3 w:52 h:2>
+The stepping stone has
+been brought back to life.<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Oh, we rarely have
+visitors from the surface.<New>
+Welcome to the wandering 
+city in the sky, Aphel 
+Aura.<Close><End of Block>
+<TextBlock 5 w:56 h:5>
+This city used to be the
+capital of Shevat, an
+independent liberal country 
+that fought against Solaris.<New>
+A place that turns
+yesterday's tears into
+tomorrow's smiles...<Delay 20>
+That's what they called
+this city a long time ago...<New>
+But now, those hopes and
+despairs have been worn
+away long ago...<New>
+Probably the only things
+that remain are the echoes
+of resentment...<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+You might be able to find
+something that can solve
+your troubles and sadness.<New>
+But fate can be cruel
+sometimes...<Delay 20>
+Don't forget that.<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+And, that stone plate
+floating there is called
+a Stepping Stone.<Delay 20> It
+moves with people on it.<New>
+Try and get on it and
+talk to the stone.<Delay 20>
+It'll be glad to give
+three of you a ride.<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+<Opcode 1 255>Do you want to go up?<Delay 10>
+    Yes
+    No<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+<Opcode 1 255>Do you want to go down?<Delay 10>
+    Yes
+    No<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+<Opcode 1 255>Do you want to go down?<Delay 10>
+    Yes
+    No<Close><End of Block>
+<TextBlock 11 w:42 h:3>
+<Opcode 1 255>Do you want to go up?<Delay 20>
+    Yes
+    No<Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Oh, are you new?<Delay 20>
+It's been so long since
+last time we had a visitor
+from the surface.<New>
+This is a 'Plant Shell'.<Delay 20>
+Vegetables and fruits
+needed in Shevat are grown 
+in it.<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Since we live away from
+the land, we must put
+more effort to get food.<New>
+Right now, it's a dusty
+season so only the staff
+members are allowed to 
+go in.<New>
+Humans are good carriers 
+of germs, you know.<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+I'll bring some fresh
+Thunder Strawberries for
+you to eat.<Delay 20> So look
+forward to it.<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+<Opcode 1 255>Hello, what can I do for
+you?<Delay 20>
+    I want thread!
+    Hear a story<Close><End of Block>
+<TextBlock 16 w:46 h:3>
+<Opcode 1 255>After all, pain only
+causes more pain and
+sadness...<New>
+How come those guys up
+there don't understand
+such a simple thing...?<New>
+Just relax, have fun
+fishing like that sage
+who disappeared.<Close><End of Block>
+<TextBlock 17 w:40 h:3>
+<Opcode 1 255>Do you like fishing?<Delay 20>
+    Yes
+    Not really...<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+<Opcode 1 255>I see. Then, do you want
+to try catching some fish
+in the plaza?<Delay 20> Fishing is
+prohibited there though.<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+<Opcode 1 255>I see...<Delay 20>
+The sage loved fishing.
+He used to go to the plaza
+and catch Leviathans.<New>
+After catching the fish,
+he'd feed it some small
+black stone and let it
+go... <New>
+I wonder if that was 
+just fish food.<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+<Opcode 1 255>I have some good thread.
+Want it for 50G?<Delay 20>
+    I'll buy it!!
+    No thanks...<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+<Opcode 1 255>Hey, you already have some
+good spider thread.<New>
+Try hanging the line in
+the center of the plaza.<Delay 20>
+You'll catch a fish if
+you're good.<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+<Opcode 1 255>Here you go.
+Thanks.<New>
+Try hanging the line in
+the center of the plaza.<Delay 20>
+You'll catch a fish if
+you're good.<Close><End of Block>
+<TextBlock 23 w:40 h:1>
+Received Spider Web!<Close><End of Block>
+<TextBlock 24 w:44 h:2>
+<Opcode 1 255>You have no money?<Delay 20>
+Come back when you do.<Close><End of Block>
+<TextBlock 25 w:38 h:2>
+<Opcode 1 255>Are you sure?
+It's good thread...<Close><End of Block>
+<TextBlock 26 w:54 h:4>
+This city has been
+wandering the sky like
+this for 500 years...<New>
+Just watching the 
+everchanging countries, 
+the world, and those who
+appeared and disappeared...<New>
+The people in Shevat lost
+power, so that's all they
+could do...<New>
+Being able to observe may
+have been a reward for
+those people here.<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+The people in this city
+had dreamed of going
+down to the land again
+for a long time...<New>
+They dreamed of the day
+when they could go down
+to the free world after
+fleeing from Solaris...<New>
+I have a hunch the day
+may not be <Delay 20>too far away.<Close><End of Block>
+<TextBlock 28 w:48 h:4>
+Why do humans hate and
+hurt each other?<Delay 20>
+Everyone lives under
+the same blue sky...<New>
+Will there ever be any
+relief from the pain of
+losing what was precious
+to us?<New>
+When will it be the day 
+we can understand what
+all this loneliness and
+sorrow was for?<New>
+In short, we may be
+repeating the same 
+mistake we made
+500 years ago...<Close><End of Block>
+<TextBlock 29 w:46 h:4>
+This is the end of the
+city.<Delay 20> If you're not
+leaving yet, you better
+turn back.<Close><End of Block>
+<TextBlock 30 w:44 h:4>
+Oh, so you're waiting
+to meet up with Maria?<Delay 10>
+    Yes, that's right!
+    No, we're not.<Close><End of Block>
+<TextBlock 31 w:54 h:3>
+If that's the case then...
+under there is a house that
+no one lives in anymore.<Close><End of Block>
+<TextBlock 32 w:56 h:4>
+Maria often used to go there
+and sit all alone in the
+second floor of that house
+and think about things.<New>
+Why don't you check out the
+place and see what you can
+find while you wait for her
+there...<Close><End of Block>
+<TextBlock 33 w:50 h:4>
+Oh? So you're not?<Delay 10> Sorry.<Delay 20>
+Well anyway, why not rest
+up and unwind in our fair
+city...<Close><Close><End of Block>

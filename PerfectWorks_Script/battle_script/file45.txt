@@ -1,0 +1,21 @@
+<TextBlock 1 w:8 h:1>
+Hold<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Ramsus
+"I've finally found you!
+Now, I must
+challenge you!!"<Close><End of Block>
+<TextBlock 3 w:36 h:4>
+Ramsus
+"Guaaah!
+This can't be!
+You m, monster..."<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Ramsus
+"...Guha!<Delay 30>
+D...<Delay 30> damn you...<Delay 30> If it
+weren't for you<Delay 30>...<Delay 30>"<Close><End of Block>
+<TextBlock 5 w:24 h:3>
+Bart
+"Tch!
+Keep back!!"<Close><Close><End of Block>

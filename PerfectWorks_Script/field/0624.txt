@@ -1,0 +1,292 @@
+<TextBlock 1 w:28 h:3>
+Fei
+"???<Delay 20>
+What is that?"<Close><End of Block>
+<TextBlock 2 w:34 h:2>
+Fei
+"Sea of sand...?"<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Fei
+"Hmmm...<Delay 20>
+Well, whatever."<Close><End of Block>
+<TextBlock 4 w:34 h:3>
+Fei
+"Well then,
+thanks for this."<Close><End of Block>
+<TextBlock 5 w:48 h:5>
+Barkeep
+"Aaarh, Fei!
+That's the back door!<Delay 20>
+Go around and come in
+through the front door!"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Barkeep
+"Hey, it's Fei.
+How's it going?<New>
+I ain't got any drinks
+for kids, ya know!<Delay 20> 
+Come back when you're
+older, alright!!?"<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Barkeep
+"Here's a tip, Fei.
+Be very cautious of
+alcohol and women.<New>
+Behind those sweet and
+beautiful appearances
+lies a deep, dark swamp.<New>
+Before you realize it,
+you are trapped, and
+lose your freedom.<New>
+They are the most
+fearsome demons
+in this world."<Close><End of Block>
+<TextBlock 8 w:32 h:4>
+Barkeep
+"Hey, Ellen!<Delay 20>
+Quit teasing the
+innocent kid!"<Close><End of Block>
+<TextBlock 9 w:44 h:5>
+Hmmm...!!<Delay 20>
+Young one, beware!
+I can see it...<New>
+There is a dark and
+icy wind that blows
+where you are going.<New>
+A wind that nurtures
+grief and resentment,
+inviting death from
+which there is no
+salvation...<New>
+No one will be able
+to escape from it!
+But you, and only you,
+must eventually face
+up to that dark wind!<Close><End of Block>
+<TextBlock 10 w:38 h:3>
+... Just kidding!<Delay 20>
+I've always wanted
+to try saying that!<New>
+Did I scare you?<Delay 10>
+I'm really sorry!
+Wahaha...<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+But in reality, these
+premonitions of misfortune
+tend to take on their own
+shape once uttered.<New>
+You ought to be
+prepared...<New>
+... Hah hah! Just kidding!<Delay 20>
+It's also a joke!<Delay 20>
+Don't let it get to you.<Close><End of Block>
+<TextBlock 12 w:40 h:4>
+Instead of believing
+what others say, you
+should follow your
+own path.<New>
+After all, your
+fate will be what
+you make of it.<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+But, do you want to hear
+my prediction again? Eh?<Delay 20>
+    Yeah, from the top!
+    No, enough already!<Close><End of Block>
+<TextBlock 14 w:36 h:4>
+Oh good!
+That's the spirit!
+Well, here goes...<Delay 20>
+Are you ready?<Close><End of Block>
+<TextBlock 15 w:38 h:3>
+How boring.<Delay 20>
+A guy like you will
+never be popular.<Close><End of Block>
+<TextBlock 16 w:38 h:4>
+Gramps always makes
+things out to be
+easier than they
+really are!<New>
+It's actually quite
+a tremendous feat
+to get through that
+Blackmoon Forest...<New>
+All those dangerous
+beasts and fearsome
+fire-eating lizards
+live there...<New>
+I tell you, it's
+better if you don't
+go near the place!<Close><End of Block>
+<TextBlock 17 w:54 h:5>
+South of here is the
+'Blackmoon Forest'.
+If you can make it through
+there, you'll come to Aveh,
+the great land of fire!<New>
+I shouldn't be wasting my
+time here in this little
+country village.
+Why, I oughta go to Aveh
+and work there...!<New>
+Beautiful women and good
+liquor...<Delay 15>
+And if I work hard enough,
+I'll be rich in no time!<New>
+Hehehe...
+Wouldn't that be good!<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Pay no attention to
+the fool!
+He's always saying all
+this carefree stuff.<New>
+In reality, it's an
+incredibly hard task
+to get through the
+Blackmoon Forest...<New>
+Lots of dangerous
+beasts and fearsome
+fire-eating lizards
+make their home there!<New>
+It'd be better for
+you to stay away
+from there!<Close><End of Block>
+<TextBlock 19 w:52 h:5>
+If you get through the
+'Blackmoon Forest' to
+the south of here, you
+will find the kingdom of
+fire, 'Aveh'.<New>
+Instead of just wasting
+away here in this little
+mountain village, I should
+go have some fun in Aveh!<New>
+Beautiful girls, tasty
+liquor...<Delay 15>
+Why, a gentleman like
+myself is bound to draw
+the babes wherever I go!<New>
+Haw-haw-haw...
+Wouldn't that be good!<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Have you heard the
+latest rumors!?<New>
+It's said that, in the
+southern desert of Aveh
+there is buried treasure
+all over the place!<New>
+There's hundreds of
+people who are trying
+to strike it rich by
+digging everywhere!<New>
+A single strike could 
+make you totally rich.<Close><End of Block>
+<TextBlock 21 w:42 h:3>
+But then again, you
+never can tell how
+much is the truth...<New>
+In life, if it sounds
+too good to be true,
+it usually is. Bah.<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+You gotta problem with
+me<Delay 5>, hic,<Delay 5> drinkin' at
+midday?<Delay 20> How can I not be
+drinkin'<Delay 5>... Damn it...<Close><End of Block>
+<TextBlock 23 w:44 h:6>
+Nobody knows...<Delay 10>
+In the depths...<Delay 10>
+of the sea...<Delay 15>
+a tear...drop...<Delay 15>
+shed by...<Delay 15>
+a mermaid...<New>
+It's not some dream...
+You idiots...<Delay 20>
+Hic...<Close><End of Block>
+<TextBlock 24 w:64 h:4>
+You got a problem, boy?<Delay 20>
+    No... Go, go, go for it!!
+    Yeah... I hate drunks!
+    Drinking won't help matters!<Close><End of Block>
+<TextBlock 25 w:48 h:3>
+Hya hah hah...
+I like you, boy!<Delay 20> Now go
+away and leave me alone.<Close><End of Block>
+<TextBlock 26 w:50 h:4>
+Hah!
+The feeling's mutual...<New>
+I hate nosy people!
+Since we both hate each
+other, why don't you just
+leave me alone then, eh?<Close><End of Block>
+<TextBlock 27 w:46 h:3>
+Shut up! 
+What would you know!?<New>
+You don't know how I
+feel.<Delay 20> I wouldn't want
+you to know.<Delay 20> Damn it...<Close><End of Block>
+<TextBlock 28 w:26 h:2>
+No...<Delay 15>
+Wait up, boy!<Close><End of Block>
+<TextBlock 29 w:38 h:2>
+I'll give you this.<Delay 20>
+Take it.<Close><End of Block>
+<TextBlock 30 w:46 h:3>
+I have no use for it...<Delay 20>
+Don't worry 'bout it.
+Just take it.<Close><End of Block>
+<TextBlock 31 w:32 h:6>
+Nobody knows...<Delay 20>
+In the depths...<Delay 15>
+of the sea...<Delay 15>
+a tear...drop...<Delay 25>
+shed by...<Delay 15>
+a mermaid...<Close><End of Block>
+<TextBlock 32 w:52 h:1>
+Received a 'Mermaid Tear'!<Close><End of Block>
+<TextBlock 33 w:44 h:4>
+My, that drunk had the
+most beautiful stone!<Delay 20>
+Hmmm...
+I wonder what it was?<Close><End of Block>
+<TextBlock 34 w:48 h:4>
+Welcome, Fei.
+You wanna have some fun?<Delay 20>
+I give the best service
+in Lahan, you know!?<Close><End of Block>
+<TextBlock 35 w:48 h:4>
+Oh my! Welcome Fei...
+You wanna have some fun?
+I give the best service
+in Lahan, you know!?<Close><End of Block>
+<TextBlock 36 w:38 h:3>
+Yeah, yeah! I know!<Delay 20>
+It's just a joke...
+you blockhead!<Close><End of Block>
+<TextBlock 37 w:48 h:3>
+Gee, he's got sharp
+hearing!<Delay 20> Anyway...<New>
+(Maybe next time, okay,
+Fei!?<Delay 20> I'll be waiting...<Delay 14>
+Rowrrr!)<Close><End of Block>
+<TextBlock 38 w:48 h:3>
+(Maybe next time, okay,
+Fei!?<Delay 20> I'll be waiting...<Delay 14>
+Rowrrr...)<Close><End of Block>
+<TextBlock 39 w:44 h:4>
+There he goes again...<Delay 20>
+How could there be a
+mermaid in the middle
+of the sea of sand?<Close><End of Block>
+<TextBlock 40 w:50 h:4>
+What's this, Fei?
+You've never seen
+the sea of sand?<New>
+This is what the
+sea of sand is...
+It's a vast, swirling,
+bottomless desert.<New>
+More than half the world
+is this sea of sand.<Wait>
+I'm surprised you haven't
+heard anything about it.<Close><Close><End of Block>

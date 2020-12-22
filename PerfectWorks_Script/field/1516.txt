@@ -1,0 +1,21 @@
+<TextBlock 1 w:48 h:4>
+Fei
+"That's a rather old
+picture.<Delay 20> Is it a picture
+of a family?<New>
+Parents, a girl and a
+younger brother...<Delay 20>
+Everyone's seems to be
+smiling happily."<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Fei
+"It's an old picture...<Delay 20>
+It looks like a picture of
+Queen Zephyr's family.<New>
+Fine looking parents
+and...<Delay 20>Is that her brother
+next to the Queen...?<Delay 20>
+Everyone is smiling.<New>
+Only the Queen hasn't
+changed...<Delay 20>for 500
+years..."<Close><Close><End of Block>

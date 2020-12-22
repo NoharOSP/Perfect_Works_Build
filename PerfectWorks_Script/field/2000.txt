@@ -1,0 +1,94 @@
+<TextBlock 1 w:38 h:4>
+Fei
+"It's alright, Dan.
+...Enough already.<Delay 20>
+I understand.<New>
+It is my fault.<Delay 20>
+I'm sorry I caused
+you such pain..."<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Fei
+"I'm just glad that I could
+finally make peace with
+you.<Delay 20> Take care, kiddo."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Fei
+"Midori! I had better give
+this back to you...<Delay 20> It's 
+your precious ring, right?<New>
+Be a good little girl,
+and listen to your mother,
+Yui, alright, Midori!<New>
+Oh and...<Delay 20>
+look after Dan
+for me, OK!?"<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Fei
+"Yeah...<Delay 20>
+I guess you're right!"<Close><End of Block>
+<TextBlock 5 w:40 h:4>
+Fei
+"Okay...<Delay 20>
+Well, I'm going now.
+So see you later!"<Close><End of Block>
+<TextBlock 6 w:10 h:2>
+Dan
+"..."<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Dan
+"In the prison, when I saw
+you change into a monster,
+I understood everything.<New>
+Living inside of you, Fei,
+there is a monster that's
+not you... He's the bad
+one... He's to blame..."<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Dan
+"So...<Delay 20>to forgive you, or
+not to forgive you... Well
+...that's not the problem!<New>
+It's not like it's gonna
+turn back things the way
+they were...<Delay 20>but...<Delay 20>
+errh, it's just...<New>
+I don't know how to say it
+properly, but<Delay 20> I'm sorry...<Delay 20>
+I...I, errh...<Delay 20>
+I...!"<Close><End of Block>
+<TextBlock 9 w:10 h:2>
+Dan
+"..."<Close><End of Block>
+<TextBlock 10 w:36 h:2>
+Midori
+"Be careful, Fei."<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Midori
+"Fei...<Delay 20>
+I was scared a little,
+but not really scared.<New>
+Cause I knew that inside
+of that monster, you were
+doing all you could to
+fight it, Fei. I knew it."<Close><End of Block>
+<TextBlock 12 w:32 h:3>
+Midori
+"Yep, we, <Delay 20>
+are all fine.<New>
+Fei, you be
+careful too.<New>
+I'm sure your
+voice will reach
+her too, Fei..."<Close><End of Block>
+<TextBlock 13 w:28 h:4>
+Midori
+"Here...<Delay 20>
+I got this
+from Chu-chu.<New>
+Fei, you can 
+have it.<Delay 20>
+I'll trade you
+for my ring."<Close><End of Block>
+<TextBlock 14 w:28 h:2>
+  Received a
+Hercules Ring!<Close><Close><End of Block>

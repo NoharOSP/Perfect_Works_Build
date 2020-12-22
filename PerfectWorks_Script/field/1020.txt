@@ -1,0 +1,45 @@
+<TextBlock 1 w:52 h:3>
+Locked with a special key.<Delay 30>
+It doesn't look like it's
+going to open.<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Tool Guy
+"Better keep your promise.<Delay 15>
+It doesn't matter what it
+is, just buy anything.<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Tool Guy
+"Sorry I yelled at you
+earlier.<Delay 15>
+That key was just a joke."<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+Tool Guy
+"<Delay 5>...<Delay 5>Come by next time
+when it's not night."<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Tool Guy
+"We're the tool shop. We've
+got what you need for long
+trips or just everyday!"<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Tool Guy
+"Thanks!<Delay 5> Come again."<Close><End of Block>
+<TextBlock 7 w:42 h:1>
+Busy busy,<Delay 10> busy busy.<Opcode 2 45><Close><End of Block>
+<TextBlock 8 w:44 h:2>
+Th, this goes there<Delay 5>...<Delay 15>
+This<Delay 5>...<Delay 10> over there!<Opcode 2 45><Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Dad's always like that to
+customers who come late.<Delay 5> <New>
+It's my hobby to see the 
+look on their face when 
+it happens.<Close><End of Block>
+<TextBlock 10 w:42 h:1>
+Ah hahaha,<Delay 5> ooh sorry.<Close><End of Block>
+<TextBlock 11 w:54 h:3>
+Kuhehehe<Delay 10>...<Delay 5>welcome.<Delay 15>
+If you buy something
+I'll open the lock for you.<Close><End of Block>
+<TextBlock 12 w:36 h:1>
+I locked the door!<Opcode 2 30><Close><End of Block>

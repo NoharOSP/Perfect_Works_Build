@@ -1,0 +1,11 @@
+<TextBlock 1 w:32 h:3>
+Citan
+"Fei, go for the
+dustchute!"<Close><End of Block>
+<TextBlock 2 w:4 h:1>
+??<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+Fei
+"Where am I now...?"<Close><End of Block>
+<TextBlock 4 w:16 h:1>
+<Opcode 1 255>Continue<Close><End of Block>

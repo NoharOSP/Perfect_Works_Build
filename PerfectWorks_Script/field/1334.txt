@@ -1,0 +1,20 @@
+<TextBlock 1 w:48 h:3>
+ Miang
+"...Did you notice? 
+His Gear is reawakening.<New>
+Soon, he himself will
+awaken also."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+ Miang
+"His friends are heading 
+for Zeboim. It's been 
+sealed up for 4000 years.<New>
+You know what's there 
+better than I do. <New>
+He probably won't give
+anyone anything. But it's
+something we both need.
+You know what I mean?"<Close><End of Block>
+<TextBlock 3 w:32 h:2>
+ Miang
+"...so, please."<Close><Close><End of Block>

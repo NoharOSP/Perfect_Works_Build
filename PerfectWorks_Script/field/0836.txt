@@ -1,0 +1,100 @@
+<TextBlock 1 w:52 h:4>
+Sorry, he's gone a little
+senile...<Delay 60> You see, our son
+'went on holidays' to get
+out of joining the army.<New>
+But we haven't heard from
+him in 10 years...<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Things have picked up
+around here all of a
+sudden. I feel young
+again.<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+...The neighbor's kids
+all came back. <Delay 60>
+But not my son...<Close><End of Block>
+<TextBlock 4 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:44 h:2>
+See, my son came back,
+just like I said.<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+My son's fighting for
+the country. He won't be
+back soon...<Delay 60>
+It must be a tough job.<New>
+Yep, I'll bet he's a
+general by now.<Close><End of Block>
+<TextBlock 7 w:2 h:1>
+!<Opcode 2 60><Close><End of Block>
+<TextBlock 8 w:42 h:3>
+...hmph...<Delay 30>
+I thought my son came
+back.<Close><End of Block>
+<TextBlock 9 w:12 h:1>
+You...<Close><End of Block>
+<TextBlock 10 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:42 h:4>
+While I was gone mom 
+and pop got old...<Delay 50>
+They have to take it 
+easy now.<Close><End of Block>
+<TextBlock 12 w:18 h:1>
+I'm back.<Close><End of Block>
+<TextBlock 13 w:28 h:1>
+Pop, I'm back.<Close><End of Block>
+<TextBlock 14 w:26 h:3>
+Ohh...<Delay 30>
+You're back. <Delay 50>
+Welcome home.<Close><End of Block>
+<TextBlock 15 w:28 h:1>
+Mom, I'm back.<Close><End of Block>
+<TextBlock 16 w:42 h:3>
+Is it really you? <Delay 50>
+You never wrote us.
+What were you doing? <Close><End of Block>
+<TextBlock 17 w:46 h:3>
+Sorry...<Delay 60>
+I was in Kislev. 
+I sent letters but...<New>
+I guess they never got 
+here.<Close><End of Block>
+<TextBlock 18 w:48 h:2>
+Oh, I see. 
+It must have been rough.<Close><End of Block>
+<TextBlock 19 w:44 h:2>
+There's someone I want
+you two to meet.<Close><End of Block>
+<TextBlock 20 w:32 h:1>
+This is my wife.<Close><End of Block>
+<TextBlock 21 w:36 h:2>
+Nice to meet you. <Delay 30>
+Father, mother.<Close><End of Block>
+<TextBlock 22 w:18 h:1>
+My son...<Opcode 2 50><Close><End of Block>
+<TextBlock 23 w:26 h:1>
+And daughter.<Close><End of Block>
+<TextBlock 24 w:36 h:2>
+Hello gran'ma and 
+gran'pa.<Close><End of Block>
+<TextBlock 25 w:16 h:1>
+Hello...<Close><End of Block>
+<TextBlock 26 w:24 h:2>
+Oh...
+Hello there.<Close><End of Block>
+<TextBlock 27 w:40 h:3>
+Welcome back.
+I'm so glad you made
+it back.<Close><End of Block>
+<TextBlock 28 w:50 h:3>
+Our house in Kislev
+burned down so we thought
+we'd live here.<New>
+I'm so glad the war
+is over.<Close><End of Block>
+<TextBlock 29 w:28 h:1>
+A new house...<Close><End of Block>
+<TextBlock 30 w:38 h:1>
+It's a new house...<Close><Close><End of Block>

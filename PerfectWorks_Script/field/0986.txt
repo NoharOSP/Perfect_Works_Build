@@ -1,0 +1,38 @@
+<TextBlock 1 w:26 h:2>
+Bart
+(Behind me!?)<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Bart
+"<Delay 10>.<Delay 10>.<Delay 10>.<Delay 45>
+What are you suddenly
+attacking me for!?"<Close><End of Block>
+<TextBlock 3 w:48 h:2>
+Bart
+"No, I don't know 'him'!<New>
+...But even if I did, I
+sure wouldn't tell you!"<Close><End of Block>
+<TextBlock 4 w:30 h:2>
+Heh heh, fine.
+Then play dumb!<Close><End of Block>
+<TextBlock 5 w:28 h:1>
+You, strong...<New>
+Huh?<Close><End of Block>
+<TextBlock 6 w:30 h:2>
+You strong? 
+I'm asking you.<Close><End of Block>
+<TextBlock 7 w:34 h:4>
+Ramsus
+"You there...
+pirate boy!
+Do you know him!?<New>
+That's right...
+Weren't you with
+that punk, Fei?"<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Ramsus
+"Good!
+Then you won't mind if
+I take care of him."<Close><End of Block>
+<TextBlock 9 w:44 h:2>
+Ramsus
+"I owe 'him' greatly!"<Close><Close><End of Block>

@@ -1,0 +1,78 @@
+<TextBlock 1 w:46 h:4>
+Elly
+"If it gives Fei and
+them even the slightest
+chance of escape...<New>
+Then I will fight!
+I don't care if it even
+costs me my life!!"<Close><End of Block>
+<TextBlock 2 w:40 h:2>
+Elly
+"They're too fast!!"<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Elly
+"Outmatched...
+Even in my Omnigear...<New>
+But...I can't just...
+No...not like this..."<Close><End of Block>
+<TextBlock 4 w:32 h:2>
+Elly
+"I can't lose!!"<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Elly
+"M, must... somehow...
+stop... movement..."<Close><End of Block>
+<TextBlock 6 w:32 h:4>
+Elly
+"Stopped!?
+Now's my chance!
+Haaaaaaaaaah!"<Close><End of Block>
+<TextBlock 7 w:30 h:2>
+Elly
+"Did I do it!?"<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Elly
+"H, how could that...!?
+I thought it had some
+sort of effect..."<Close><End of Block>
+<TextBlock 9 w:18 h:2>
+Elly
+"Gaah..."<Opcode 2 60><Close><End of Block>
+<TextBlock 10 w:22 h:4>
+Elly
+"Guh...!
+... Huff...
+Huff..."<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+"Girl, that hurt!
+I'll get you back!!"<New>
+"It was wrong of you
+to underestimate
+our power!"<Close><End of Block>
+<TextBlock 12 w:42 h:3>
+"Hmmm, I'm getting no
+results. It can't be
+helped, Mugwort.<New>
+It's about time to
+finish the job."<Close><End of Block>
+<TextBlock 13 w:46 h:3>
+"Gahahahah! 
+Downed yet!?"<New>
+"It's to be expected.
+Multiple fractures,
+major blood loss...<New>
+I wouldn't be surprised
+if the cockpit is a sea
+of blood."<New>
+"At worst, death!
+Geh hah hah hah!!"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+"What the... !?
+There's no way you could
+stand after taking that
+much damage..."<Close><End of Block>
+<TextBlock 15 w:30 h:1>
+"M, Mugwort!!?"<Close><End of Block>
+<TextBlock 16 w:46 h:2>
+"Why you! How dare you
+do that to my partner!"<Close><Close><End of Block>

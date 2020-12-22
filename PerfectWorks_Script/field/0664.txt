@@ -1,0 +1,14 @@
+<TextBlock 1 w:46 h:3>
+This is the waterworks.<Delay 10>
+All of Dazil's water 
+comes from this pump.<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+Water is needed for the
+maintenance of Gears.<New>
+So our waterworks was
+also built to provide a
+steady supply of water
+to the workshop.<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+ This month's water
+  supply schedule.  <Close><Close><End of Block>

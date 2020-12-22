@@ -1,0 +1,39 @@
+<TextBlock 1 w:36 h:4>
+Miang
+"...<Delay 20>I see...
+So that's what was
+going on."<Close><End of Block>
+<TextBlock 2 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Miang
+"Since I have other
+matters to attend to,<New>
+would you mind staying
+here for awhile?"<Close><End of Block>
+<TextBlock 4 w:26 h:2>
+Elly
+"Not at all."<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Miang
+"You don't have to worry
+about a thing. Leave the
+rest to me. <New>
+What you need is to 
+recover from your fatigue."<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Miang
+"Crystalline, blue... 
+like the surface of a
+lake..."<Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Elly
+"Uh...excuse me?"<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Miang
+"Your eyes...
+They're beautiful."<Close><End of Block>
+<TextBlock 9 w:14 h:2>
+Elly
+"What?"<Close><Close><End of Block>

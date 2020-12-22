@@ -1,0 +1,71 @@
+<TextBlock 1 w:40 h:2>
+Fei
+"What...no ceiling?"<Close><End of Block>
+<TextBlock 2 w:36 h:4>
+Fei
+"Oh yeah! 
+Is there any comm
+equipment nearby?"<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+Fei
+"Gebler?"<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:38 h:3>
+Fei
+"Wait a minute.
+We just want to..."<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Fei
+"So this is where Shevat
+used to be."<Close><End of Block>
+<TextBlock 6 w:42 h:3>
+Fei
+"There are marks from
+some huge thing..."<Close><End of Block>
+<TextBlock 7 w:20 h:3>
+Fei
+"...Huh!<Delay 30>
+Up there!"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Elly
+"It seems that it's true.
+Shevat was here before.<Delay 30>
+Look around."<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Elly
+"There are marks from 
+some huge thing..."<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+Elly
+"I don't see anything
+else but..."<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Elly
+"Fei! Look up!<Delay 30> 
+Something is closing in!
+...It's a Gear!"<Opcode 2 20><Close><End of Block>
+<TextBlock 12 w:46 h:3>
+Mystery Girl
+"From here is Shevat's 
+territory.<New>
+Many people have tried
+to get in, but Seibzehn
+and I remove them."<Close><End of Block>
+<TextBlock 13 w:24 h:2>
+Mystery Girl
+"Get ready!"<Close><End of Block>
+<TextBlock 14 w:30 h:4>
+Mystery Girl
+"Sorry. Just
+wanted to test
+your strength."<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Mystery Girl
+"The queen is awaiting
+for your arrival above."<Close><End of Block>
+<TextBlock 16 w:40 h:2>
+Mystery Girl
+"Yes, Queen Zephyr."<Opcode 2 40><Close><End of Block>
+<TextBlock 17 w:34 h:3>
+That's enough,
+Maria. Bring them
+in.<Opcode 2 40><Close><End of Block>

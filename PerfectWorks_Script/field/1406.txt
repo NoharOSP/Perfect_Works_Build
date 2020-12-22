@@ -1,0 +1,40 @@
+<TextBlock 1 w:46 h:4>
+Kim
+"Congratulations Elly. 
+Another year has
+come and past."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Kim
+"No, well,<Delay 12> this time last
+year I never thought the
+war would come this far."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Kim
+"But, it's not over yet.
+Why, at this very moment
+people are still dying."<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Kim
+"Yes, well...today, at
+least, I want to spend
+a day without worrying."<Close><End of Block>
+<TextBlock 5 w:42 h:4>
+Elly
+"Yes, Happy New Year,
+Kim!<New>
+I don't know what it
+is, but just now...
+you sounded like an
+old person speaking."<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Elly
+"...Yes.<Delay 32> 
+But we managed to get by
+without getting involved."<Close><End of Block>
+<TextBlock 7 w:54 h:3>
+Elly
+"...Let's stop talking
+about this...<New>
+Let's not dwell on the past
+year... Not at the start of
+a new year"<Close><Close><End of Block>

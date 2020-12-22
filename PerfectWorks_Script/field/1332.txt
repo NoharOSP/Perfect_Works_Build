@@ -1,0 +1,24 @@
+<TextBlock 1 w:54 h:4>
+Bart
+"Damn...just in time.
+That guy and Wiseman...
+They're really going at it.<New>
+I can feel the Ether Power
+all the way up here!"<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Billy
+"Wow...just in time.
+The man and Wiseman...<New>
+They're really fighting 
+it out.
+The Ether Power reaches
+all the way up here..."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Rico
+"Damn...just in time.
+That red guy and Wiseman 
+are really going at it.<New>
+The Ether Power's blowing 
+all the way up here..."<Close><End of Block>
+<TextBlock 4 w:12 h:1>
+Broken<Close><Close><End of Block>

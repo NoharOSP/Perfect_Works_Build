@@ -1,0 +1,100 @@
+<TextBlock 1 w:26 h:3>
+Fei
+"Whoa!
+What the...?"<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Fei
+"Hammer, is that you?
+What are you doing in
+that outfit?"<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Fei
+"What are you 
+saying, Hammer?"<Close><End of Block>
+<TextBlock 4 w:27 h:2>
+Fei
+"Hamme<~>r...!"<Close><End of Block>
+<TextBlock 5 w:36 h:2>
+Rico
+"Stop it, Hammer!"<Close><End of Block>
+<TextBlock 6 w:24 h:2>
+Rico
+"Hammer...!"<Close><End of Block>
+<TextBlock 7 w:22 h:2>
+Rico
+"You knew?"<Close><End of Block>
+<TextBlock 8 w:36 h:2>
+Rico
+"Stop it, Hammer!"<Close><End of Block>
+<TextBlock 9 w:24 h:2>
+Rico
+"Hammer...!"<Close><End of Block>
+<TextBlock 10 w:22 h:2>
+Rico
+"You knew?"<Close><End of Block>
+<TextBlock 11 w:26 h:2>
+Hammer
+"Hey, bro..."<Close><End of Block>
+<TextBlock 12 w:36 h:4>
+Hammer
+"Heh heh heh. 
+It's been a long
+time no see, bro!"<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Hammer
+"I was finally able to get
+it... Super-strength...
+Just like you, bro!<New>
+It feels so good...
+being one with your Gear.
+Krelian did this for me.<New>
+Anyway, just leave that
+Gear and Miss Elly for me.<New>
+Resistance is useless.
+I'm much too powerful for
+you now..."<Close><End of Block>
+<TextBlock 14 w:42 h:4>
+Hammer
+"What? You're not
+handing them over?
+...I see.<New>
+Then I'll just have
+to use force and take
+the girl and the Gear
+from you!"<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Hammer
+"Even you, 'Champ', won't
+win against me now."<Close><End of Block>
+<TextBlock 16 w:28 h:2>
+Hammer
+"Here I come!"<Opcode 2 20><Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Hammer
+"Heh heh...
+That's my bro...
+Far too strong...<New>
+Even for me...
+Just when I thought I
+finally got powerful
+enough to beat you too!"<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+Hammer
+"Champ...
+Promise me you'll go back
+to Nortune one day...<New>
+You are...
+the next in line...
+to be the Kaiser..."<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Hammer
+"Don't underestimate
+the power of my
+information network<Delay 5>...<New>
+But<Delay 5>...<Delay 5>
+it's no use now<Delay 5>...<Delay 5>
+I<Delay 5>...<New>
+For a bit player<Delay 5>...<Delay 30>
+like me<Delay 5>...<Delay 5>this is<Delay 5>
+probably<Delay 5>...<Delay 30>the end<Delay 5>...<Delay 30>
+I deserve<Delay 5>..."<Close><Close><End of Block>

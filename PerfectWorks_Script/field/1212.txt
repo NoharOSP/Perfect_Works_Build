@@ -1,0 +1,462 @@
+<TextBlock 1 w:50 h:4>
+Elly
+"Wait a minute!<Delay 10>
+You want me to stay here?<Delay 10>
+No, I'm going with you!"<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Fei
+"No.<Delay 10>
+It's too dangerous<Delay 5>..."<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Elly
+"Why?<Delay 10> I've been in many
+dangerous situations.<Delay 10>
+This isn't the first time!"<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Fei
+"I said NO!<Delay 10>
+We can't take you.<New>
+Please, understand!"<Close><End of Block>
+<TextBlock 5 w:38 h:2>
+Elly
+"No, I want to go!"<Close><End of Block>
+<TextBlock 6 w:46 h:3>
+Elly
+"We've been fighting
+together all this time!<New>
+And suddenly you're
+telling me not to go!?
+I just don't get it!!"<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Fei
+"This isn't like any other
+fight!<New>
+It's a battle for the
+wisdom created by god.
+It's life or death.<New>
+Whoever controls it,
+becomes the true dominator
+of the world!<New>
+It's obvious the Ministry
+will bring the strongest
+possible troops.<New>
+There is no guarantee
+you'll come back alive!"<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Elly
+"That's exactly why
+I want to go<Delay 5>..."<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Fei
+"You don't have the
+slightest idea<Delay 5>..."<Close><End of Block>
+<TextBlock 10 w:54 h:2>
+Elly
+"What don't I understand!?"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Fei
+"If the enemy were only the
+Ministry or just mechanical
+weapons it would be okay.<New>
+But most of the enemies
+will be made up of what
+were once humans<Delay 5>...<Delay 5> Humans
+just like you and I!"<Close><End of Block>
+<TextBlock 12 w:3 h:1>
+!<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Fei
+"I saw them at those
+facilities<Delay 5>...<Delay 5> Gears that
+were made out of humans.<New>
+They were the same as
+Hammer<Delay 5>...<Delay 10>
+Could you now destroy them
+after knowing this!?<New>
+In order to save ourselves,
+can you truly say that you
+could kill those who were
+once our friends!?<New>
+So, do you still want to go
+now!?"<Close><End of Block>
+<TextBlock 14 w:24 h:2>
+Elly
+"W,<Delay 10> well<Delay 5>..."<Close><End of Block>
+<TextBlock 15 w:54 h:3>
+Fei
+"You can't even kill one
+person.<New>
+Your presence would be
+a burden during the fight."<Close><End of Block>
+<TextBlock 16 w:4 h:1>
+!?<Close><End of Block>
+<TextBlock 17 w:30 h:3>
+Fei
+"You'd<Delay 5> just get
+in the way<Delay 20>..."<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Bart
+"Hey, Fei!
+Don't you think you went
+a little too far there?"<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Citan
+"We cannot blame her.<Delay 10>
+At least we should
+understand her feelings."<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Fei
+"I know how Elly feels.<New>
+I knew she wouldn't have
+listened to me if I had
+just said, <Delay 5>
+'You're not coming!'.<New>
+Seeing as she has worked
+together with us for such
+a long time and all<Delay 5>...<New>
+That's why I had to
+explain it to her like
+that<Delay 5>..."<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+Fei
+"The people gathered in
+Nisan need Elly.<New>
+She's gotta realize how
+much people are depending
+on her.<New>
+I can't put her in a
+dangerous situation<Delay 5>..."<Close><End of Block>
+<TextBlock 22 w:46 h:3>
+Margie
+"But the way you said
+it was a little harsh."<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Billy
+"You didn't have to be so
+cold.<Delay 10> She was crying,<Delay 10> you
+know?"<Close><End of Block>
+<TextBlock 24 w:16 h:2>
+Fei
+"But<Delay 5>..."<Close><End of Block>
+<TextBlock 25 w:30 h:3>
+Citan
+"I am sure she
+realizes that."<Close><End of Block>
+<TextBlock 26 w:48 h:4>
+Bart
+"I agree.<Delay 10>
+Maybe <Delay 5>you<Delay 5> are the one
+who doesn't understand?"<Close><End of Block>
+<TextBlock 27 w:40 h:3>
+Fei
+"Me?...<Delay 10>
+I don't understand?"<Close><End of Block>
+<TextBlock 28 w:44 h:2>
+Margie
+"A lady's<Delay 5>...<Delay 5>heart<Delay 5>...?"<Close><End of Block>
+<TextBlock 29 w:44 h:4>
+Billy
+"She wants to go,
+to be with you, Fei...<Delay 10>
+Until the end."<Close><End of Block>
+<TextBlock 30 w:10 h:1>
+Yeah.<Close><End of Block>
+<TextBlock 31 w:40 h:4>
+Bart
+"If I were you<Delay 5>...<Delay 10>
+I'd hold her tight
+and say<Delay 5>...<New>
+'Let's go together!'
+...<Delay 5>Just like that!"<Close><End of Block>
+<TextBlock 32 w:18 h:2>
+Margie
+"Really?"<Close><End of Block>
+<TextBlock 33 w:22 h:4>
+Bart
+"Um<Delay 10>...<Delay 5>no...<Delay 10>
+I<Delay 10> mean<Delay 5>...
+errh..."<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+Maison
+"Young master, don't
+overdo yourself now<Delay 5>..."<Close><End of Block>
+<TextBlock 35 w:24 h:1>
+Ah, shut up!<Close><End of Block>
+<TextBlock 36 w:50 h:3>
+Bart
+"Anyhow, why don't you go
+ask her to come with you?<New>
+Whether she'll go or not,
+you should express your
+feelings in words.<New>
+If you really care about
+her, you have to go tell
+her."<Close><End of Block>
+<TextBlock 37 w:50 h:3>
+Citan
+"Express your feelings<Delay 5>...<Delay 10>
+right?"<Close><End of Block>
+<TextBlock 38 w:44 h:2>
+Fei
+"I, I didn't mean<Delay 5>...!"<Close><End of Block>
+<TextBlock 39 w:38 h:3>
+Bart
+"Too late now.
+Everyone knows it."<Close><End of Block>
+<TextBlock 40 w:46 h:3>
+Citan
+"You are not being true
+to yourself, are you?"<Close><End of Block>
+<TextBlock 41 w:20 h:2>
+Margie
+"I agree."<Close><End of Block>
+<TextBlock 42 w:32 h:3>
+Emeralda
+"Fei...<Delay 5>say it...<Delay 10>
+straight out<Delay 5>...<Delay 10>"<Close><End of Block>
+<TextBlock 43 w:52 h:4>
+Margie
+"Go ahead...
+Go chase after her!<Delay 10>
+What are you waiting for?"<Close><End of Block>
+<TextBlock 44 w:54 h:4>
+Citan
+"So...<Delay 10>
+There is only one gate left
+on the surface..."<Close><End of Block>
+<TextBlock 45 w:38 h:3>
+Bart
+"The problem is its
+location."<Close><End of Block>
+<TextBlock 46 w:50 h:4>
+Fei
+"But Queen Zephyr said
+there are three on earth,
+and one in Solaris..."<Close><End of Block>
+<TextBlock 47 w:40 h:3>
+Sigurd
+"According to
+Shakhan's report,<New>
+each gate is
+placed in a triangle
+around Solaris..."<Close><End of Block>
+<TextBlock 48 w:48 h:3>
+Citan
+"Let us look at the map
+given by the Queen,<New>
+which describes the area
+before the gates were
+placed."<Close><End of Block>
+<TextBlock 49 w:52 h:3>
+Bart
+"What if we try both ways?
+Isn't that all it takes?"<Close><End of Block>
+<TextBlock 50 w:50 h:4>
+Sigurd
+"That would be difficult.
+I doubt they expected the
+2nd gate to be destroyed.<New>
+So I'm sure they'll be
+serious next time.<Delay 10>
+We'd better plan it
+carefully but quickly."<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Citan
+"In any case, we will not
+be able to avoid Gebler's
+interference, will we?"<Close><End of Block>
+<TextBlock 52 w:36 h:4>
+Fei
+"Doc,<Delay 10> Elly,<Delay 10> where
+exactly is Solaris
+located?"<Close><End of Block>
+<TextBlock 53 w:46 h:3>
+Elly
+"There is only a map of
+Solaris in Solaris.<New>
+I didn't even know the
+area of this land until
+I arrived here."<Close><End of Block>
+<TextBlock 54 w:34 h:2>
+Fei
+"Even in Gebler?"<Close><End of Block>
+<TextBlock 55 w:48 h:4>
+Elly
+"The relations with
+earth are only revealed 
+to commanders."<Close><End of Block>
+<TextBlock 56 w:46 h:4>
+Bart
+"If that's the case,
+even Billy's father may
+not know it."<Close><End of Block>
+<TextBlock 57 w:50 h:3>
+Sigurd
+"Jesiah left there in the
+middle of it."<Close><End of Block>
+<TextBlock 58 w:50 h:4>
+Citan
+"Sigurd and I were
+smugglers<New>
+and did not have the time
+to look out the window.<New>
+On top of that,
+when going through the
+gate from Solaris,<New>
+we transferred to other
+places by using the
+environmental plane
+between each gate.<New>
+Remember when we made
+contact with the Kislev
+gate in the Goliath?<New>
+The same thing happens
+and we lose all sense of
+where we were before."<Close><End of Block>
+<TextBlock 59 w:52 h:4>
+Fei
+"Even if the gate divides
+the other space, can't you
+recognize its topography?<New>
+Like mountains, jungles
+and so on?"<Close><End of Block>
+<TextBlock 60 w:54 h:3>
+Elly
+"...I don't think<Delay 10> there
+were mountains.<New>
+More like we were
+surrounded by the ocean..."<Close><End of Block>
+<TextBlock 61 w:46 h:4>
+Bart
+"Ocean...<Delay 20>
+Then it can't be the
+north?<New>
+This is the pole. It's
+all covered with snow."<Close><End of Block>
+<TextBlock 62 w:54 h:4>
+Fei
+"Then it's settled.<Delay 10>
+The location of the gate
+is south of here.<New>
+The center of the triangle
+is only the ocean.<New>
+If the gates are placed
+in the highest point in the
+north, the center will be
+the continent.<New>
+Hence, it coincides with
+Elly's story."<Close><End of Block>
+<TextBlock 63 w:38 h:2>
+Citan
+"You may be right."<Close><End of Block>
+<TextBlock 64 w:50 h:4>
+Sigurd
+"Wait a minute.<Delay 10> There
+shouldn't be any facility
+over the ocean."<Close><End of Block>
+<TextBlock 65 w:38 h:2>
+Elly
+"Then, underwater?"<Close><End of Block>
+<TextBlock 66 w:50 h:4>
+Sigurd
+"Hmm...<Delay 10>
+But the whole area around
+here is deep.<New>
+If it exists,
+it must be deep down."<Close><End of Block>
+<TextBlock 67 w:46 h:4>
+Fei
+"The Yggdrasil is a
+submarine, right?<Delay 10> Then,
+what's the problem?"<Close><End of Block>
+<TextBlock 68 w:52 h:4>
+Bart
+"You're crazy!
+It is a submarine but
+not a bathyscaphe.<New>
+It isn't made for deep
+sea exploration. The water
+pressure would crush us
+instantaneously."<Close><End of Block>
+<TextBlock 69 w:44 h:2>
+Fei
+"We have a problem..."<Close><End of Block>
+<TextBlock 70 w:52 h:4>
+Citan
+"We may be able to use the
+bathyscaphes or Gears used
+by the Salvagers..."<Close><End of Block>
+<TextBlock 71 w:24 h:4>
+Bart
+"'Salvager'?
+Right!<Delay 10>
+That's it!"<Close><End of Block>
+<TextBlock 72 w:4 h:1>
+??<Close><End of Block>
+<TextBlock 73 w:52 h:3>
+Bart
+"The captain of the Thames
+must have tons of them.<New>
+He owes us from last time.<Delay 10>
+Let's go to the Thames."<Close><End of Block>
+<TextBlock 74 w:42 h:4>
+Citan
+"It may be our best
+choice for now. Shall
+we go to the Thames?"<Close><End of Block>
+<TextBlock 75 w:50 h:4>
+Citan
+"Fei<Delay 5>...<Delay 10>is it not the time
+for you to come out with
+your feelings now?"<Close><End of Block>
+<TextBlock 76 w:22 h:3>
+Bart
+"C'mon now!<Delay 10>
+Go for it!"<Close><End of Block>
+<TextBlock 77 w:44 h:3>
+Billy
+"You don't know how to
+treat a lady, do you?"<Close><End of Block>
+<TextBlock 78 w:48 h:3>
+Rico
+"I don't know much about
+this kinda thing<Delay 5>...<New>
+...<Delay 5>but Hammer used to
+tell me to<Delay 5>
+'be nice to women!'<Delay 5>..."<Close><End of Block>
+<TextBlock 79 w:26 h:2>
+Emeralda
+"Fei<Delay 5>...<Delay 10>go<Delay 5>..."<Close><End of Block>
+<TextBlock 80 w:52 h:4>
+<Chu-Chu>
+"Don't chu worry about me.
+Please hurry and go chu
+her!!"<Close><End of Block>
+<TextBlock 81 w:38 h:3>
+Maria
+"That's not the way
+to treat her!"<Close><End of Block>
+<TextBlock 82 w:34 h:3>
+Margie
+"Women don't like
+insensitive men!"<Close><End of Block>
+<TextBlock 83 w:46 h:3>
+Maison
+"I'm not well versed in
+the art of romance."<Close><End of Block>
+<TextBlock 84 w:42 h:4>
+Margie
+"Don't run away!
+Be a man and confront
+the problem!!"<Close><End of Block>
+<TextBlock 85 w:48 h:4>
+Citan
+"If you go to the engine
+room, the old man will
+smack you one!!"<Close><End of Block>
+<TextBlock 86 w:42 h:3>
+Bart
+"Hey, stupid!<Delay 10>
+It's the other room."<Close><End of Block>
+<TextBlock 87 w:0 h:1>
+<Close><End of Block>

@@ -1,0 +1,110 @@
+<TextBlock 1 w:34 h:2>
+Associate
+"Soldier 0 here."<Close><End of Block>
+<TextBlock 2 w:34 h:2>
+Associate
+"Soldier 1 here."<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Associate
+"Soldier 4 here."<Close><End of Block>
+<TextBlock 4 w:34 h:2>
+Associate
+"Soldier 5 here."<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+Associate
+"Soldier 6 here."<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+Associate
+"Soldier 7 here."<Close><End of Block>
+<TextBlock 7 w:36 h:2>
+Associate
+"Soldier 71 here."<Close><End of Block>
+<TextBlock 8 w:34 h:2>
+Associate
+"Soldier 8 here."<Close><End of Block>
+<TextBlock 9 w:34 h:2>
+Associate
+"Soldier 9 here."<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Masked Woman
+"Yes. If you use that,
+you can pass through
+the barrier.<New>
+You will be free to
+go where and when you
+please."<Close><End of Block>
+<TextBlock 11 w:44 h:4>
+Masked Woman
+"He's rather busy now.
+I was assigned to be
+his representative."<Close><End of Block>
+<TextBlock 12 w:48 h:3>
+Masked Woman
+"I've told you before.<New>
+I simply wish to observe
+what is in store for the
+world.<New>
+There are so many things
+you people must know.
+I am merely your guide.<New>
+I cannot directly assist
+you. How you use it is
+entirely up to you."<Close><End of Block>
+<TextBlock 13 w:30 h:4>
+Masked Woman
+"Let me see...
+Well then, how
+about this...?"<Close><End of Block>
+<TextBlock 14 w:40 h:2>
+Masked Woman
+"Well, I must go..."<Close><End of Block>
+<TextBlock 15 w:38 h:4>
+Sigmund
+"I am the Kaiser of
+Kislev, Sigmund.
+Hah hah hah."<Close><End of Block>
+<TextBlock 16 w:26 h:2>
+Sigmund
+"Is that it?"<Close><End of Block>
+<TextBlock 17 w:48 h:3>
+Sigmund
+"That man...what was it?
+Grahf? Is he around?"<Close><End of Block>
+<TextBlock 18 w:50 h:3>
+Sigmund
+"I will ask you this
+once. Why do you help us?<New>
+Who are you people?"<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Sigmund
+"So you're telling me
+you do not require any
+recompense?"<Close><End of Block>
+<TextBlock 20 w:46 h:3>
+Sigmund
+"...But, what a strange
+thing to ask for."<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Sigmund
+"They want me to transfer
+that Gear we captured and
+its pilot to D Block..."<Close><End of Block>
+<TextBlock 22 w:50 h:3>
+Sigmund
+"I don't know either.<New>
+...But, we still owe them
+a favor. We just can't
+deny them. So see to it!"<Close><End of Block>
+<TextBlock 23 w:34 h:2>
+Associate
+"Associate here."<Close><End of Block>
+<TextBlock 24 w:38 h:2>
+Associate
+"What did she say?"<Close><End of Block>
+<TextBlock 25 w:28 h:3>
+Associate
+"D Block?
+I wonder why?"<Close><End of Block>
+<TextBlock 26 w:26 h:2>
+Associate
+"Yes, sir..."<Close><Close><End of Block>

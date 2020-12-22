@@ -1,0 +1,23 @@
+<TextBlock 1 w:44 h:3>
+Bart
+"How many Gears
+are there!?!<New>
+I think I took out
+most of the small fry,
+but...!"<Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Bart
+"Dammit!!"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Bart's Officer
+"There are at least
+four, maybe five of
+them left!<New>
+Their performance and
+technique is far greater
+than any of the ones
+we faced before!"<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Bart's Officer
+"Young master!!
+They're approaching!!"<Close><Close><Close><Close><Close><UNKNOWN CHUNK 213><End of Block>

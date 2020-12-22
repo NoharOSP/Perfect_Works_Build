@@ -1,0 +1,60 @@
+<TextBlock 1 w:30 h:2>
+Fei
+"What is that?"<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Citan
+"Fei, it is an aerial
+attack by Aveh, or
+should I say, Gebler!<New>
+They really are intent
+on attacking the
+Imperial capital..."<Close><End of Block>
+<TextBlock 3 w:30 h:4>
+Fei
+"What!?
+What about the 
+civilians?"<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Citan
+"They plan on directly 
+attacking the Imperial
+capital, Nortune<Delay 10>...<New>
+<Delay 10>...<Delay 10>oh my god!"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Citan
+"That ship is heading...
+to the power plant! Oh no!
+That is a nuclear reactor!<New>
+Most likely that ship is
+their main line of attack!
+If they drop something on
+the reactor...<New>
+the whole Imperial capital
+will<Delay 10>...!"<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+Fei
+"<Delay 15>...<Delay 15>Be blown away!"<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Fei
+"If we can change their 
+course, will that help?"<Close><End of Block>
+<TextBlock 8 w:34 h:2>
+Citan
+"Yes, however..."<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+Fei
+"Doc, I'm gonna try.
+We can't just...<Delay 15>
+turn and run away."<Close><End of Block>
+<TextBlock 10 w:32 h:3>
+Citan
+"<Delay 15>...<Delay 15>Alright.
+Be careful now."<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Citan
+"If those civilians 
+do not hurry and 
+get out..."<Close><End of Block>
+<TextBlock 12 w:10 h:2>
+Rico
+"..."<Close><Close><End of Block>

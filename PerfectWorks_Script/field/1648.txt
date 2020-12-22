@@ -1,0 +1,8 @@
+<TextBlock 1 w:54 h:3>
+Argh!!<Delay 10>
+Because of him I'm probably
+going to get 'rearranged'!!<New>
+God,<Delay 10> if you're there...
+Please save me!<Close><End of Block>
+<TextBlock 2 w:0 h:1>
+<Close><End of Block>

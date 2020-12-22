@@ -1,0 +1,35 @@
+<TextBlock 1 w:46 h:6>
+.....<Delay 10>XafbEW<Delay 10>fadJZ<Delay 10>.....<Delay 10>
+...<Delay 30>Linguistic Modifier
+       enabled.<New>
+Identified<:>
+  Lamb, Ignas dialect
+No piloting exp.
+  <R>Easy Mode Set<New>
+Synchronizing
+ input interface
+ with pilot's normal
+ reflex time<New>
+Warning to Pilot<:>
+  C O M B A T   M O D E
+About to enter combat!<Delay 20>
+1200 units of fuel left<New>
+Utilize Command Ring in
+upper left of screen to
+select ATTACK<New>
+then
+ <T>,<S> and <X> buttons to
+commence auto-attack
+sequence.<New>
+Power and fuel usage
+differs with type of
+attack (button)<:>
+   <T>10   <S>20   <X>30
+(CHARGE restores
+        30 fuel units)<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+WARNING!
+ Enemy Gears are now
+ preparing to attack!
+ Terminating Help Mode.<Close><Close>
+<End of Block>

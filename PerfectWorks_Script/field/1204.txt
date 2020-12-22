@@ -1,0 +1,405 @@
+<TextBlock 1 w:50 h:3>
+Argh... If only I wasn't
+wounded, I'd also be able
+to...!<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Argh... If only I wasn't
+wounded, I'd also be able
+to...!<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Oh yeaahh!
+We're going to give it all
+we've got for the young
+master!!<Close><End of Block>
+<TextBlock 4 w:10 h:1>
+Whoa!<Opcode 2 15><Close><End of Block>
+<TextBlock 5 w:54 h:4>
+You may have realized it,
+but I was only pretending
+to be sick...<New>
+When I saw <Chu-Chu> trying
+so hard it made me feel
+ashamed. From now on,
+I'll be more courageous!<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+If I didn't have this
+wound...<Close><End of Block>
+<TextBlock 7 w:44 h:3>
+Ghost ship expedition?<Delay 10>
+If I didn't have this
+wound I'd...<Close><End of Block>
+<TextBlock 8 w:48 h:3>
+Fei seems to be alright,
+eh.<Delay 10> If I didn't have
+this wound...<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Fei looks terrible...<Delay 10>
+If I didn't have
+this wound I'd...<Close><End of Block>
+<TextBlock 10 w:22 h:2>
+Elly,<Delay 10>
+why did...?<Close><End of Block>
+<TextBlock 11 w:38 h:2>
+There<Delay 10> was something
+wrong with Elly.<Close><End of Block>
+<TextBlock 12 w:50 h:3>
+It looks like a fun place
+to be.<Delay 10> If I only
+didn't have this wound...<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Oh, young master!<Delay 5>
+I'm not trying to hide.<Delay 10>
+If only I didn't have this
+wound...<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+You are the ex-Battling
+Champ?<Delay 10> If I didn't have
+this wound even I...<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+If the young master became
+the king tomorrow<Delay 5>...<Delay 10>what
+would happen to us? I'm
+tired of being a soldier.<New>
+I wanna start a business 
+or something<Delay 5>...<Delay 10> If I
+didn't have this wound<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Nisan, eh...<Delay 10>
+It's been so long.<Delay 10>
+If I didn't have this
+wound I'd...<Close><End of Block>
+<TextBlock 17 w:44 h:4>
+You won at the martial
+arts tournament?  
+Well done!<Delay 10> If I didn't
+have this wound...<Close><End of Block>
+<TextBlock 18 w:46 h:3>
+You did great. If only 
+I didn't have this
+wound...<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Is this wound from the
+battle, you ask?<Delay 10> No, I
+fell off the bed next
+door.<Delay 10> So pathetic...<Close><End of Block>
+<TextBlock 20 w:52 h:3>
+Fight to your heart's
+content and go get injured
+to your heart's content!<Close><End of Block>
+<TextBlock 21 w:50 h:2>
+<Delay 5>...What?<Delay 10>  Later.<Delay 10>
+<Delay 5>...I'm afraid of heights.<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Listen, you've only been
+checking your weight.
+Do you want me to examine
+inside for a change?<New>
+Early detection, early
+prevention is important,
+you know.<Close><End of Block>
+<TextBlock 23 w:50 h:2>
+Ghosts don't get injured.
+That's no fun, is it?<Close><End of Block>
+<TextBlock 24 w:48 h:2>
+Fei...<Delay 10> You're alright,
+aren't you?<New>
+Oh, I'm so happy! It's
+wonderful to be a nurse!<Close><End of Block>
+<TextBlock 25 w:28 h:2>
+Fei...<Delay 10>
+Is he alright?<Close><End of Block>
+<TextBlock 26 w:30 h:2>
+Elly...
+Is she alright?<Close><End of Block>
+<TextBlock 27 w:40 h:2>
+Elly was lying down 
+till a minute ago...<Delay 10><Close><End of Block>
+<TextBlock 28 w:48 h:2>
+Now that you mention it,
+I wonder where she went.<Close><End of Block>
+<TextBlock 29 w:54 h:5>
+Why?<Delay 10> Why?<Delay 10> Why is everyone
+going to see the doctor on
+the Thames while a pretty,
+talented doctor like myself
+is here?<New>
+Maybe I should operate on
+fish instead.
+Sob...<Close><End of Block>
+<TextBlock 30 w:48 h:4>
+When you get hurt, don't
+soak yourself in sea
+water!<Delay 10> Come here right
+away.<Close><End of Block>
+<TextBlock 31 w:44 h:3>
+Oh, young master!<Delay 10>
+Could you increase the
+medical fees, please!?<Close><End of Block>
+<TextBlock 32 w:42 h:3>
+Interesting customer!<Delay 10>
+You're an ex-Battling
+Champ, right?<New>
+So, you always have
+fresh wounds, don't
+you? Uh hmm...<Close><End of Block>
+<TextBlock 33 w:46 h:4>
+Finally, tomorrow is
+the day for the<Delay 5> blood
+blowing,<Delay 5> um,<Delay 5> flesh
+falling<Delay 5>...<New>
+No,<Delay 5> I mean,<Delay 5> the blood-
+boiling,<Delay 5> flesh-dancing
+battle to recapture the
+capital,<Delay 5> right?<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Yeah!! I can finally get
+supplies in Nisan.<Delay 10> I made
+so many mistakes that I
+ran out of needles...<Close><End of Block>
+<TextBlock 35 w:48 h:3>
+I hear you won at the
+martial arts tournament.<New>
+That's great!<Delay 10>
+By the way...<Delay 15>
+did you get hurt?<New>
+Oh, you didn't?<Delay 5>
+Too bad...<Delay 10>
+I mean...<Delay 5> that's good.<Close><End of Block>
+<TextBlock 36 w:52 h:3>
+You did a great job!?
+By the way...<Delay 10>
+did you get hurt?<New>
+Oh, you didn't?<Delay 10>
+Too bad...<Delay 10>
+I mean<Delay 5>...<Delay 5>that's good.<New>
+But if you do get injured,
+let me know right away.
+I'll heal you!<Close><End of Block>
+<TextBlock 37 w:50 h:2>
+How do you do! I'm the
+nurse from the Yggdrasil.<New>
+I'll do the best I can.
+So come by sometime!!<Close><End of Block>
+<TextBlock 38 w:52 h:2>
+(Heh, hee, hee. My first
+impression was excellent!)<Close><End of Block>
+<TextBlock 39 w:50 h:5>
+<Opcode 1 255>Who do you want to weigh?
+    <Perso1>
+    <Perso2>
+    <Perso3>
+    No one<Close><End of Block>
+<TextBlock 40 w:32 h:1>
+No one is there.<Close><End of Block>
+<TextBlock 41 w:52 h:1>
+Oh please, no one's there.<Close><End of Block>
+<TextBlock 42 w:48 h:2>
+Hum...you're too skinny.<Delay 10>
+You need more nutrition.<Close><End of Block>
+<TextBlock 43 w:30 h:2>
+Good!!<Delay 10>
+Perfect weight.<Close><End of Block>
+<TextBlock 44 w:38 h:2>
+You're too fat.<Delay 10>
+Cut down on sweets!<Close><End of Block>
+<TextBlock 45 w:50 h:3>
+Oh my!<Delay 10>
+This is what they call<Delay 10>...
+You'd better watch it!<Close><End of Block>
+<TextBlock 46 w:48 h:4>
+Citan
+"We can use this machine
+for now, but it is just
+for temporary use."<Close><End of Block>
+<TextBlock 47 w:34 h:3>
+Citan
+"She was able to
+get up just now."<Close><End of Block>
+<TextBlock 48 w:42 h:4>
+Elly
+"I'm a little worried
+about Fei...<Delay 10>but I'll
+help you anytime!"<Close><End of Block>
+<TextBlock 49 w:32 h:4>
+Elly
+"I, I...<Delay 10>
+How in the world
+did I get here?"<Close><End of Block>
+<TextBlock 50 w:18 h:2>
+Fei
+"Elly..."<Close><End of Block>
+<TextBlock 51 w:8 h:1>
+Yes!<Close><End of Block>
+<TextBlock 52 w:18 h:1>
+Uh, no...<Opcode 2 30><Close><End of Block>
+<TextBlock 53 w:52 h:4>
+Sigurd
+"Young master, the radar
+has picked up a huge Gear!<Delay 10>
+It's headed right for us!"<Close><End of Block>
+<TextBlock 54 w:26 h:3>
+Bart
+"What!?<Delay 10>
+Them again!?"<Close><End of Block>
+<TextBlock 55 w:54 h:2>
+Sigurd
+"That shape looks like...!"<Close><End of Block>
+<TextBlock 56 w:52 h:4>
+Bart
+"Alright!<Delay 10> I owe so much to
+the Thames. I can't let it
+turn into a battle field.<New>
+Launch the Yggdrasil
+immediately!<Delay 10>
+We'll go out in our
+Gears!"<Close><End of Block>
+<TextBlock 57 w:20 h:1>
+Yes, sir!!<Opcode 2 30><Close><End of Block>
+<TextBlock 58 w:42 h:3>
+Bart
+"Fei,<Delay 10> Citan,<Delay 10>
+I'm counting on you!"<Close><End of Block>
+<TextBlock 59 w:12 h:1>
+Wait!!<Opcode 2 20><Close><End of Block>
+<TextBlock 60 w:46 h:3>
+Citan
+"Elly should rest here.<Delay 10>
+We will..."<Close><End of Block>
+<TextBlock 61 w:52 h:4>
+Elly
+"Wait!!<Delay 10>
+Because I came here this
+all happened...<New>
+This is my responsibility!<Delay 10>
+So...<Delay 10>
+So let me go too!"<Close><End of Block>
+<TextBlock 62 w:16 h:1>
+Elly...?<Close><End of Block>
+<TextBlock 63 w:46 h:3>
+Bart
+"What the hell are
+you talking about!<New>
+Don't you remember
+what you just did...!?"<Close><End of Block>
+<TextBlock 64 w:20 h:1>
+Young one!<Opcode 2 30><Close><End of Block>
+<TextBlock 65 w:46 h:3>
+Citan
+"Elly,<Delay 10> our trust in you
+depends on this battle.<New>
+For your honor, you
+should fight!"<Close><End of Block>
+<TextBlock 66 w:22 h:3>
+Bart
+"But Citan!<Delay 10>
+I...!"<Close><End of Block>
+<TextBlock 67 w:32 h:4>
+Citan
+"Young one,<Delay 10>
+please trust
+Elly this time."<Close><End of Block>
+<TextBlock 68 w:52 h:4>
+Citan
+"Elly,<Delay 10> if you try anything
+suspicious, I will be the
+one to shoot you.<New>
+Is that clear?"<Close><End of Block>
+<TextBlock 69 w:8 h:1>
+Yes.<Opcode 2 15><Close><End of Block>
+<TextBlock 70 w:46 h:3>
+Citan
+"Is that okay with you,
+young one?"<Close><End of Block>
+<TextBlock 71 w:38 h:4>
+Bart
+"...<Delay 15>
+Alright. <Delay 5>Fei,<Delay 5> Elly,<Delay 5>
+let's go!!"<Close><End of Block>
+<TextBlock 72 w:12 h:1>
+Yeah!!<Close><End of Block>
+<TextBlock 73 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 74 w:38 h:2>
+Elly
+"Fei, I'm sorry..."<Close><End of Block>
+<TextBlock 75 w:52 h:4>
+Citan
+"Kahr<Delay 5>...<Delay 10>
+Please listen to me!<New>
+Right now, we must forget
+about being friend or foe.
+We all must support one
+another, regardless...<New>
+Right now,
+we need your help!"<Close><End of Block>
+<TextBlock 76 w:44 h:3>
+Ramsus
+"...
+I...am...just trash...<New>
+...a...reject..."<Close><End of Block>
+<TextBlock 77 w:48 h:4>
+Citan
+"Stop feeling sorry
+for yourself and pull
+yourself together man!!"<Close><End of Block>
+<TextBlock 78 w:32 h:3>
+Sigurd
+"Hyuga!?<Delay 10>
+What are you<Delay 5>..."<Close><End of Block>
+<TextBlock 79 w:54 h:3>
+Citan
+"Trash<Delay 5>...
+Reject<Delay 5>...<New>
+You can take pity and call
+yourself that all you want,
+but what about them!?"<Close><End of Block>
+<TextBlock 80 w:52 h:4>
+Citan
+"Are these women stupid,
+or trash, or rejects too
+for believing in you?<New>
+The reasons why you helped
+the girls, who had no one
+to turn to, may not have
+been that noble...<New>
+But in spite of that,
+they stuck with you.<Delay 10>
+Do you know why?"<Close><End of Block>
+<TextBlock 81 w:50 h:4>
+They know you better than
+anybody else. They know
+the true kindness that
+exists<Delay 10> inside your heart.<New>
+They know because they
+want to be loved.<Delay 10>
+That is why they won't
+leave you.<New>
+Kahr<Delay 5>...<Delay 10>
+Do not make them into the
+trash or rejects that you
+speak of.<Close><End of Block>
+<TextBlock 82 w:28 h:2>
+Dominia
+"Commander<Delay 5>..."<Close><End of Block>
+<TextBlock 83 w:30 h:2>
+Ramsus
+"All of you<Delay 5>..."<Close><End of Block>
+<TextBlock 84 w:38 h:4>
+Citan
+"Needless to say, 
+you are not trash
+or a reject...<New>
+We know that better
+than anyone does."<Close><End of Block>
+<TextBlock 85 w:52 h:4>
+Ramsus
+"I<Delay 5>...<Delay 10>I didn't realize<Delay 5> that
+what I've been looking for<Delay 5>
+...<Delay 5>was so close to me<Delay 5>...<New>
+I'm<Delay 5>...<Delay 5>sorry<Delay 5>...<Delay 10>
+for not<Delay 5> realizing sooner!"<Close><End of Block>
+<TextBlock 86 w:40 h:2>
+Dominia
+"Oh, Commander...!!"<Close><End of Block>
+<TextBlock 87 w:0 h:1>
+<Close><End of Block>

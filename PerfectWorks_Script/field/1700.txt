@@ -1,0 +1,51 @@
+<TextBlock 1 w:46 h:3>
+Fei
+"Whoa...
+I can't eat anymore..."<Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Fei
+"That reminds me...
+I'm hungry..."<Close><End of Block>
+<TextBlock 3 w:50 h:2>
+Fei
+"Let's have a bite here."<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+Fei
+"What about you, doc?"<Close><End of Block>
+<TextBlock 5 w:38 h:3>
+Fei
+"Are you sure?
+Then, excuse us..."<Close><End of Block>
+<TextBlock 6 w:24 h:2>
+Fei
+"Let's eat."<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:20 h:3>
+Fei
+"Whew,
+I'm full."<Close><End of Block>
+<TextBlock 8 w:22 h:3>
+Fei
+"Well then,
+let's go!"<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Elly
+"You're right...<New>
+We don't know what'll
+happen, so we shouldn't
+ask too much."<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+Elly
+"Let's eat."<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:52 h:2>
+Citan
+"No, I am fine thank you."<Close><End of Block>
+<TextBlock 12 w:48 h:3>
+Fei
+"Wow!
+There's some food here."<Opcode 2 60><Close><End of Block>
+<TextBlock 13 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 14 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

@@ -1,0 +1,142 @@
+<TextBlock 1 w:36 h:2>
+Sigurd
+"Young master...?"<Close><End of Block>
+<TextBlock 2 w:44 h:2>
+Bart
+"Yeah, I can't sleep."<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Sigurd
+"Yes, so much has 
+happened at once."<Close><End of Block>
+<TextBlock 4 w:38 h:3>
+Bart
+"Hey Sig...<Delay 60>what was
+your mother like?"<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Sigurd
+"...She died when I was
+but a child, <Delay 30> why?"<Close><End of Block>
+<TextBlock 6 w:38 h:3>
+Bart
+"Do you have any 
+memories of her?<New>
+What kind of person
+was she?"<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Sigurd
+"Hmmm, well...<Delay 30> 
+she was very kind...<New>
+but when I was born it
+seems the doctor told 
+her she did not have
+long to live.<New>
+She lived in constant
+fear of that.<New>
+As a result, even if she
+met someone she liked,
+her fear of death was
+her drawback.<New>
+She worried that she
+could not be with me
+to the very end..."<Close><End of Block>
+<TextBlock 8 w:50 h:2>
+Bart
+"What about your father?"<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Sigurd
+"He isn't supposed to
+know that I was born.<New>
+However, even for not
+knowing he still
+treated me like a son."<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Bart
+"Why didn't you tell
+him you were his son?"<Close><End of Block>
+<TextBlock 11 w:44 h:4>
+Sigurd
+"If my mother hid that
+fact, there had to be
+a reason."<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Bart
+"There is more to my
+father's will than what
+I declared today.<New>
+I must share my
+inheritance with
+my brother.<New>
+He also said...
+'You must split you
+and your brother's
+share with the people.'"<Close><End of Block>
+<TextBlock 13 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 14 w:50 h:4>
+Bart
+"That had always bugged
+me up until now. I didn't
+know what he meant.<New>
+That's all I wanted to
+say...<Delay 60>
+Good night!"<Close><End of Block>
+<TextBlock 15 w:24 h:1>
+It's locked.<Opcode 2 30><Close><End of Block>
+<TextBlock 16 w:24 h:1>
+It's locked.<Opcode 2 30><Close><End of Block>
+<TextBlock 17 w:24 h:1>
+It's locked.<Opcode 2 30><Close><End of Block>
+<TextBlock 18 w:20 h:2>
+    Go out
+    Return<Close><End of Block>
+<TextBlock 19 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 20 w:40 h:2>
+Hey, what is it that
+we're guarding here?<Close><End of Block>
+<TextBlock 21 w:38 h:4>
+We're here to chase
+out anyone from the
+Tournament who gets
+lost in the castle.<Close><End of Block>
+<TextBlock 22 w:42 h:5>
+Babysitters, huh? <Delay 30>
+Well, when it gets to
+the pre-semi-finals
+we'll go check out
+the Tournament.<Close><End of Block>
+<TextBlock 23 w:28 h:2>
+Yeah, 
+let's do that.<Close><End of Block>
+<TextBlock 24 w:30 h:2>
+Oh man, if that
+guy wins...<Close><End of Block>
+<TextBlock 25 w:26 h:1>
+That's right.<Close><End of Block>
+<TextBlock 26 w:38 h:1>
+Gimme my 100G back!<Close><End of Block>
+<TextBlock 27 w:26 h:2>
+Oh well.
+What a waste.<Close><End of Block>
+<TextBlock 28 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 29 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 30 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 31 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 32 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 33 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 34 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 35 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 36 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 37 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 38 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>

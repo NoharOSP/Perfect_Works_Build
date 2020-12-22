@@ -1,0 +1,299 @@
+<TextBlock 1 w:32 h:2>
+Elly
+"Where am I...?"<Close><End of Block>
+<TextBlock 2 w:50 h:2>
+Elly
+"K, Krelian...Commander?"<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+Elly
+"Please, stop!"<Close><End of Block>
+<TextBlock 4 w:12 h:2>
+Elly
+"...?"<Close><End of Block>
+<TextBlock 5 w:38 h:2>
+Elly
+"My other self...?"<Close><End of Block>
+<TextBlock 6 w:44 h:3>
+Elly
+"Where's Fei? Where is
+everyone...?"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Elly
+"You're planning on sending
+them to the same fate as...<New>
+...those people in that
+research facility!<New>
+Doing all this for your
+own selfish ambitions...<Delay 30>
+Do you know what you're
+doing!?<New>
+People playing with other
+people's lives. That's
+deplorable!"<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+Elly
+"What do you think of
+accomplishing by using that
+molecular machine?<New>
+What connection do I have
+with it?"<Close><End of Block>
+<TextBlock 9 w:24 h:2>
+Elly
+"Mother...?"<Close><End of Block>
+<TextBlock 10 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 11 w:26 h:2>
+Elly
+"Commander!?"<Close><End of Block>
+<TextBlock 12 w:30 h:2>
+Elly
+"What're you!?"<Close><End of Block>
+<TextBlock 13 w:14 h:2>
+Elly
+"What?"<Close><End of Block>
+<TextBlock 14 w:32 h:4>
+Elly
+"Th, that hurts!
+P, please!
+Please stop!"<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Elly
+"Who're you referring to
+when you say that man...<Delay 30>
+Are you talking about Fei?"<Close><End of Block>
+<TextBlock 16 w:54 h:3>
+Elly
+"R, Ramsus...<Delay 20>that drug...<Delay 30>
+A mental stabilizer...?<New>
+Why are you so shook up
+like that? What's forcing
+you to go through all this?<New>
+What happened between you
+and Fei..."<Close><End of Block>
+<TextBlock 17 w:22 h:2>
+Elly
+"Ramsus..."<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Krelian
+"I've looked into your
+records."<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Krelian
+"Elhaym Van Houten.
+That incident at the Jugend
+one year ago...<New>
+Case 102. The release of
+your latent powers from
+that systematic...<New>
+...administration of mental
+enhancment drugs.<New>
+In that instant, your Ether
+value had increased beyond
+400.<New>
+And in that moment, 2
+were critically wounded
+and 3 required recycling.<New>
+Am I right?"<Close><End of Block>
+<TextBlock 20 w:54 h:3>
+Krelian
+"But, this record is wrong.<New>
+This wasn't the usual
+uncontrollable mental
+side effects."<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Krelian
+"This was caused by the
+'awakening of your other
+inner self'."<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Krelian
+"They will be used as an
+offering for the...<New>
+...resurrection of the
+Gazel Ministry.<New>
+The same fate awaits that
+girl, the artificial
+organism.<New>
+I've already taken enough
+samples from her.<New>
+I'm already well into the
+fourth stage of my plan.
+All I need now is the
+final factor.<New>
+Hence, your friends are
+no longer of any use to
+me.<Delay 30> They're worthless.<New>
+But, you are different."<Close><End of Block>
+<TextBlock 23 w:52 h:4>
+Krelian
+"I see...<Delay 30>
+So you've seen the
+research facility.<New>
+Presently, the Solaris
+researchers are working
+on genetic engineering
+down there.<New>
+It's just a nest for fools
+who've learned the
+despicable pleasure of...<New>
+...playing with their own
+organic creations. They
+seek only serendipity and
+inhumanity.<New>
+That is not my place.
+I specialize in
+molecular engineering...
+Nanotechnology."<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Krelian
+"Do you know what this is?
+A nanomachine...a molecular
+machine.<New>
+This is the assembler,
+which is one of those
+nanomachine machines.<New>
+It can break down molecules
+and atoms and reconstruct
+it into anything.<New>
+Each of these spheres are
+equivalent to an atom.<New>
+Until recently, we were
+only able to produce...<New>
+...materials which were
+several times the
+size of this.<New>
+Thanks to that girl, the
+one we obtained from the
+ruins of the Zeboim
+civilization,<New>
+we are now able to make it
+this compact and elaborate.<New>
+To think that such a
+mechanism was created 4000
+years ago. It's quite
+astonishing.<New>
+Up until we discovered
+this, the work was rather
+crude.<New>
+The best we could possibly
+do until now was to apply
+amino acid solutions to
+wounded areas for...<New>
+...amelioration or to seal
+up any peculiar abilities.<New>
+I'm sure you've had some
+exposure to genetics when
+you were in the Jugend.<New>
+Each type of those enzymes
+inside the DNA...are also
+molecular machines that
+were created by nature.<New>
+That is, if we are indeed
+the progeny of the very
+first organism."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Krelian
+"Although the nanomachines
+up until now could
+recombine DNA...<New>
+...they couldn't uncover
+any information in the
+intron which are located
+in the replacements...<New>
+...of the double helix.
+However, the newer
+nanomachines easily
+discovered this data.<New>
+Data that originally
+'should not have existed'.
+And we are about to see the
+results of that."<Close><End of Block>
+<TextBlock 26 w:46 h:4>
+Krelian
+"Hmm, according to the
+tranferred record, it
+depicts...<New>
+...a similar wave
+frequency as expected."<Close><End of Block>
+<TextBlock 27 w:52 h:3>
+Krelian
+"And...yes, the Urobolus
+Ring...!<New>
+That is it, isn't it...?<New>
+Miang, and Lacan's
+actions...<Delay 40>
+This explains everything."<Close><End of Block>
+<TextBlock 28 w:50 h:3>
+Krelian
+"Elhaym...
+You were the 'mother'..."<Close><End of Block>
+<TextBlock 29 w:54 h:4>
+Krelian
+"Yes.<New>
+This is what your genetic
+exon looked like before
+replacement...<New>
+This is the conceptualized
+form of the intron which
+carries information that
+isn't supposed to exist.<New>
+Observe. This is the
+Urobulos Ring which
+contains 'intron
+information' which only...<New>
+...exists in 'certain
+people'. Urobolus...if
+we were to anatomize such
+a thing...<New>
+Wouldn't you be interested
+in what type of information
+it would have to offer us?"<Close><End of Block>
+<TextBlock 30 w:54 h:4>
+Krelian
+"Elhaym, you are beautiful.<New>
+When I look at you, I
+appreciate the artistic
+aspect of the human form,
+its elaborateness...<New>
+I can't help but feel the
+importance of that.<New>
+As if my molecular machine
+is unworthy of you.<New>
+You haven't changed
+'since then'.<New>
+Just like the 'other one',
+Lacan..."<Close><End of Block>
+<TextBlock 31 w:26 h:2>
+Ramsus
+"Wh...re...?"<Close><End of Block>
+<TextBlock 32 w:28 h:4>
+Ramsus
+"Where...?
+I'm asking you
+where!!"<Close><End of Block>
+<TextBlock 33 w:32 h:3>
+Ramsus
+"Where is he!?
+Where!?<New>
+I know you know!
+Take me to him!"<Close><End of Block>
+<TextBlock 34 w:46 h:2>
+Ramsus
+"Fei, Fei, Fei...<New>
+Fei this...Fei that..."<Close><End of Block>
+<TextBlock 35 w:44 h:4>
+Ramsus
+"Fei...!<Delay 20>
+In what way is he more
+superior than I!?<New>
+I will not accept it.
+I will not!!"<Close><End of Block>
+<TextBlock 36 w:22 h:2>
+Ramsus
+"Errrrg..."<Close><End of Block>
+<TextBlock 37 w:32 h:4>
+Ramsus
+"Dammit Fei...<Delay 30>
+I'll show you...<Delay 30>
+I..."<Close><Close><End of Block>

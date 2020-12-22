@@ -1,0 +1,13 @@
+<TextBlock 1 w:52 h:4>
+Don't rabble-rouse here...<Delay 10>
+Just work,<Delay 10> eat,<Delay 10> and sleep.<Delay 10>
+Just keep doin' that, and
+you'll live...<New>
+If anyone complains, 
+our entire unit will
+be punished too.<Delay 10><New>
+Which means, we all get
+'rearranged'.<Delay 10>
+You'll never come back.<Close><End of Block>
+<TextBlock 2 w:0 h:1>
+<Close><End of Block>

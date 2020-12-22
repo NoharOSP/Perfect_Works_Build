@@ -1,0 +1,97 @@
+<TextBlock 1 w:52 h:4>
+Sigurd
+"Marguerite is straining
+herself. Young master, you
+should be kinder to her."<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Sigurd
+"...I'll stay here a
+little longer. I have
+some thinking to do."<Close><End of Block>
+<TextBlock 3 w:52 h:3>
+Sigurd
+"Citan?
+No, I haven't seen him...<New>
+You don't need to worry
+about him. He'll be fine."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Sigurd
+"Well, Marguerite, now that
+we have saved you, may we
+ask you one thing...?<New>
+Why did you go up against
+the enemy by yourself?"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Sigurd
+"Obviously a groundless
+rumor started by the enemy
+in order to lure you out."<Close><End of Block>
+<TextBlock 6 w:30 h:2>
+Sigurd
+"Marguerite..."<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Sigurd
+"Marguerite is straining
+herself. Young master,
+you should be kind to her."<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Bart
+"Then...<Delay 24>you thought you
+could save them alone!?
+That was stupid!!"<Close><End of Block>
+<TextBlock 9 w:20 h:2>
+Bart
+"Margie!!"<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Bart
+"Next time, let us know!!
+We'll go for you!"<Close><End of Block>
+<TextBlock 11 w:42 h:4>
+Margie
+"Sorry...but...
+I heard a rumor in
+town that day...<New>
+It was said that the
+Sect's sisters who
+were captured by Aveh
+were still alive..."<Close><End of Block>
+<TextBlock 12 w:30 h:4>
+Margie
+"I believed it!
+So what!?
+I was wrong.<New>
+But..."<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+Margie
+"But...grandma and mom
+were already executed..."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Margie
+"Sorry...<Delay 32>to drag everybody
+into this. I'll never do
+it again..."<Close><End of Block>
+<TextBlock 15 w:28 h:3>
+Margie
+"Yeah...<Delay 32>
+I'll do that."<Close><End of Block>
+<TextBlock 16 w:36 h:4>
+Maison
+"Please, don't be
+so hard on her...<New>
+The Nisan Sect is
+Marguerite's home.
+It's perfectly
+understandable."<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Maison
+"At any rate, Marguerite
+is here unhurt.
+That's the main thing!<New>
+Before luck runs out,
+let's take Marguerite
+to Nisan. We can talk
+more there.<New>
+Now, I'll go prepare
+Marguerite's room...<Delay 10>
+Miss Marguerite, may I
+ask you to accompany me?"<Close><Close><End of Block>

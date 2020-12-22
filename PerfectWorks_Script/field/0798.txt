@@ -1,0 +1,207 @@
+<TextBlock 1 w:54 h:4>
+Sigurd
+"Our comrades in Nisan will
+hit the western guard in
+Kislev uniforms<Delay 20> as planned.<New>
+We'll wait for the right
+moment, then head for the
+palace in the Yggdrasil!"<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Bart
+"Got it.<Delay 30>
+But avoid any unnecessary
+deaths.<New>
+This especially goes for
+the Aveh troops<Delay 30> and also
+the people from Gebler."<Close><End of Block>
+<TextBlock 3 w:30 h:3>
+Sigurd
+"Yes.<Delay 30>
+We understand."<Close><End of Block>
+<TextBlock 4 w:42 h:4>
+Fei
+"I guess I'm going to
+raise some hell in my
+<Weltall> then."<Close><End of Block>
+<TextBlock 5 w:48 h:2>
+Sigurd
+"We're counting on you!"<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Margie
+"Next time we meet I won't
+be able to call you 'Bart'<Delay 10>
+or 'young master'.<New>
+Maybe,<Delay 10> 'Your Majesty'<Delay 10>...?"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Bart
+"Cut it out.<Delay 15>
+Bart's fine...<Delay 30>
+'Great<Delay 10> Mother<Delay 10> of<Delay 10> Nisan'!"<Close><End of Block>
+<TextBlock 8 w:30 h:4>
+Margie
+"Hey...!<Delay 30>
+You know I hate
+that title!"<Close><End of Block>
+<TextBlock 9 w:22 h:2>
+Bart
+"Ha ha ha!"<Close><End of Block>
+<TextBlock 10 w:50 h:2>
+Bart
+"Well, we're outta here!"<Close><End of Block>
+<TextBlock 11 w:22 h:3>
+Margie
+"Okay.
+Good luck!"<Close><End of Block>
+<TextBlock 12 w:32 h:3>
+Agnes
+"Marguerite and 
+Bartholomew...<New>
+Seeing you two
+brings my hopes
+up."<Close><End of Block>
+<TextBlock 13 w:58 h:3>
+Agnes
+"Long ago<Delay 30> before the Fatimas
+of Aveh were called Fatima...<New>
+The royal brothers and their
+wives oversaw many prosperous
+reigns or eras.<New>
+I'm looking forward to the
+day, when as the Great Mother
+of the Nisan Sect...<New>
+you will take your place on
+the throne as Bartholomew's
+wife."<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Margie
+"What!? <Delay 15>Hey, <Delay 5>hold on!<Delay 10>
+I hate talking about
+queens and romance...!<New>
+Bart and I are best
+friends!"<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Agnes
+"Ha ha, <Delay 30>marriage IS
+the best friendship."<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Agnes
+"Well Marguerite, at the
+rate that you are maturing
+into a beautiful woman...<New>
+...I don't think Bart will
+be able to ignore you much
+longer."<Close><End of Block>
+<TextBlock 17 w:34 h:3>
+Margie
+"Stop it, <Delay 30>you're
+embarrassing me!"<Close><End of Block>
+<TextBlock 18 w:36 h:4>
+Sigurd
+"I'll complete the
+remaining checks
+onboard.<New>
+I'll leave the
+rest up to you,
+Maison."<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Maison
+"As you wish...
+I will have the honor of
+accompanying the others."<Close><End of Block>
+<TextBlock 20 w:40 h:2>
+Bartholomew, healthy
+as ever I hope?<Close><End of Block>
+<TextBlock 21 w:32 h:3>
+Bart
+"Yeah.
+How's the town?"<Close><End of Block>
+<TextBlock 22 w:50 h:6>
+Since we got word several
+days ago that there might
+be an army advancing from
+the Royal Capital the
+Sect's representatives
+have been in discussion.<Close><End of Block>
+<TextBlock 23 w:30 h:3>
+Bart
+"What have they
+come up with?"<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+For now, they just plan to
+improve the local defenses.<New>
+Also, anti-Shakhan people
+have been gathering here...
+probably because they heard
+about what's going on.<Close><End of Block>
+<TextBlock 25 w:40 h:2>
+Bart
+"That's reassuring."<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Yes.<New>
+However the residents are
+starting to feel uneasy.<New>
+People are starting to
+take refuge up north
+in the mountains.<Close><End of Block>
+<TextBlock 27 w:38 h:2>
+Bart
+"Can't blame them."<Close><End of Block>
+<TextBlock 28 w:36 h:2>
+By the way, how's 
+Marguerite...?<Close><End of Block>
+<TextBlock 29 w:48 h:4>
+Bart
+"Better than we thought.
+But I know she was in a
+lot of grief."<Close><End of Block>
+<TextBlock 30 w:24 h:3>
+Marguerite!
+I'm so glad
+you're safe.<Close><End of Block>
+<TextBlock 31 w:18 h:2>
+Margie
+"Thanks."<Close><End of Block>
+<TextBlock 32 w:46 h:3>
+All the townspeople are
+overjoyed by the Great
+Mother's return.<Close><End of Block>
+<TextBlock 33 w:20 h:2>
+(...<Delay 30>...<Delay 30>...<Delay 30>
+...<Delay 30>...<Delay 30>z<Delay 30>z<Delay 30>z<Close><End of Block>
+<TextBlock 34 w:22 h:1>
+...<Delay 30>o...Oh!!<Close><End of Block>
+<TextBlock 35 w:42 h:1>
+N, no problems, sir!!<Close><End of Block>
+<TextBlock 36 w:36 h:1>
+No problems, sir!!<Close><End of Block>
+<TextBlock 37 w:30 h:3>
+Board the ship?
+    Yes
+    No<Close><End of Block>
+<TextBlock 38 w:52 h:3>
+Preparations for the
+campaign are done, just
+finishing one final check.<New>
+The young master is
+taking Marguerite to
+Nisan.<Close><End of Block>
+<TextBlock 39 w:40 h:1>
+Everything is ready.<Close><End of Block>
+<TextBlock 40 w:34 h:1>
+No problems sir!!<Close><End of Block>
+<TextBlock 41 w:34 h:1>
+No problems sir!!<Close><End of Block>
+<TextBlock 42 w:46 h:2>
+The sisters are waiting
+in the cathedral.<Close><End of Block>
+<TextBlock 43 w:26 h:1>
+Welcome back.<Close><End of Block>
+<TextBlock 44 w:26 h:1>
+Welcome back.<Close><End of Block>
+<TextBlock 45 w:26 h:1>
+Welcome back.<Close><End of Block>
+<TextBlock 46 w:26 h:1>
+Welcome back.<Close><End of Block>
+<TextBlock 47 w:36 h:2>
+    Leave port now
+    To the bridge<Close><Close><End of Block>

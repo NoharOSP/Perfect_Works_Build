@@ -1,0 +1,10 @@
+<TextBlock 1 w:46 h:4>
+Falkon
+"Just past this line of
+ships is the flagship
+Kefeinzel!"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Falkon
+"Alright! Dodge the escort!
+The ship in front of
+you is the Kefeinzel!"<Close><Close><End of Block>

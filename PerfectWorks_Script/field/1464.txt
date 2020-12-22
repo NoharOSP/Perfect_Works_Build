@@ -1,0 +1,86 @@
+<TextBlock 1 w:50 h:5>
+If you want to do some
+thinking quietly, turn
+the light down by pushing
+the box's switch located
+in the back.<Close><End of Block>
+<TextBlock 2 w:52 h:3>
+"Broken mirror,
+a million shades of light,
+The old echo fades away.<New>
+But just you and I
+can find 'the answer'
+someday..."<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+'A distant promise'...<Delay 20>
+A poem composed long
+ago...<New>
+Can you find 'the answer'
+which supposedly exists
+somewhere...?<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+We're all part of a larger
+world, as one of its
+countless fragments.<New>
+All their shapes and
+colors are unique...<Delay 20>
+It's nice yet sad...<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Long time ago, one of the
+three sages said
+something like that.<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+A part of you remains at
+a place you love.<Delay 20>
+A fragment of you calls
+for you to return.<New>
+That is why one returns
+to the place he loves
+again and again.<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+A part of you may be
+calling you to the place
+you loved.<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Look at these birds.<Delay 20>
+They have forgotten how
+to fly during the long
+history of evolution.<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+We humans are the same.<Delay 20>
+We threw away our broken
+wings, and forgot how to
+fly...<New>
+But I doubt it will end
+like this.<Delay 20> We'll remember
+the sky again, someday.<New>
+Running into the deep,
+vast blue sky forever...<Delay 20>
+The day will come again.<Close><End of Block>
+<TextBlock 10 w:38 h:1>
+Don't you think so?<Delay 15><Close><End of Block>
+<TextBlock 11 w:48 h:5>
+Oh, it's you guys?<Delay 20>
+Sorry, but although the
+"Deep Sea Bros" is open,
+we aren't doing any
+business for a while.<Close><End of Block>
+<TextBlock 12 w:50 h:5>
+Hello and welcome...<Delay 20>
+As you can see, the "Deep
+Sea Bros" is open...it's
+just that we aren't doing
+any business right now.<Close><End of Block>
+<TextBlock 13 w:22 h:3>
+Insert 20G.<Delay 20>
+    Okay
+    Don't<Close><End of Block>
+<TextBlock 14 w:34 h:1>
+Not enough money.<Close><End of Block>
+<TextBlock 15 w:62 h:6>
+<Opcode 1 255>    The Valley of the Wind
+    A Distant Promise
+    Lost... Screeching Shards
+    Our Village is No.1
+    We Wounded Follow the Light
+    The strong seek dreams<Close><Close><End of Block>

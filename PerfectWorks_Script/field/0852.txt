@@ -1,0 +1,159 @@
+<TextBlock 1 w:38 h:5>
+Welcome!
+What can I get you?
+    Bartweiser
+    Marguerita
+    Nothing<Close><End of Block>
+<TextBlock 2 w:30 h:1>
+That'll be 40G.<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+Downed a Bartweiser 
+in a single gulp.<Close><End of Block>
+<TextBlock 4 w:46 h:1>
+Gained a bit of weight.<Close><End of Block>
+<TextBlock 5 w:28 h:3>
+Hang on!
+You don't have
+any money!?<Close><End of Block>
+<TextBlock 6 w:30 h:1>
+That'll be 50G.<Close><End of Block>
+<TextBlock 7 w:24 h:3>
+Drank a
+Marguerita
+in one gulp.<Close><End of Block>
+<TextBlock 8 w:46 h:1>
+Gained a bit of weight.<Close><End of Block>
+<TextBlock 9 w:28 h:3>
+What the--?
+You don't have
+any money?<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+I haven't been to town
+in so long Sarge, I 
+don't know what to do.<Close><End of Block>
+<TextBlock 11 w:46 h:2>
+Yeah...<Delay 30>
+How about the festival?<Close><End of Block>
+<TextBlock 12 w:32 h:1>
+The festival...?<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+The festival to celebrate
+the truce with Kislev,<New>
+Prince Bartholomew's
+return and founding of
+the Republic.<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Oh yeah. <Delay 30> 
+Let's go. <Delay 30> 
+We couldn't make it 
+back for the last one.<Close><End of Block>
+<TextBlock 15 w:24 h:2>
+OK, I'm all 
+ready to go!<Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Yeah, I'm glad they had
+this festival, aren't you
+Sarge?<Close><End of Block>
+<TextBlock 17 w:44 h:3>
+Stop calling me Sarge,
+we're not in the army 
+anymore.<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+Fish are so pretty. I
+could watch them all day.
+    You said it
+    I'd like to eat 'em<Close><End of Block>
+<TextBlock 19 w:50 h:3>
+The guy that used to
+work here came back from
+the army...<New>
+And said he would take
+me to the sea.<New>
+He said the water goes
+on forever just like 
+the desert.<New>
+He also said we could see
+lots of pretty fish.
+I can't wait to go...<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+Your order?
+    Something delicious
+    Something cheap
+    Something fast<Close><End of Block>
+<TextBlock 21 w:26 h:1>
+Just a moment<Close><End of Block>
+<TextBlock 22 w:14 h:1>
+Enjoy. <Opcode 2 50><Close><End of Block>
+<TextBlock 23 w:14 h:1>
+Thanks.<Close><End of Block>
+<TextBlock 24 w:50 h:1>
+That'll be <Opcode 10 0>G.<Close><End of Block>
+<TextBlock 25 w:36 h:2>
+Thank you, 
+please come again.<Close><End of Block>
+<TextBlock 26 w:42 h:2>
+Hey, you don't have 
+enough money, do you?<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+In the old days, I'd
+run to the owner's place
+and they'd all run out
+on me.<New>
+Now it's different.
+The guy that worked here
+before told me,<New>
+just grab something
+of theirs whenever that
+happens.<Close><End of Block>
+<TextBlock 28 w:36 h:1>
+...<Delay 10>...<Delay 10>...<Delay 10>...<Delay 10>...<Delay 10>...<Opcode 2 10><Close><End of Block>
+<TextBlock 29 w:48 h:3>
+...Well, you don't have 
+anything that's worth 
+the piece of the meal.<New>
+Just bring some money 
+the next time.<Close><End of Block>
+<TextBlock 30 w:28 h:1>
+This is nice. <Opcode 2 30><Close><End of Block>
+<TextBlock 31 w:40 h:1>
+<Opcode 4 16>was taken.<Close><End of Block>
+<TextBlock 32 w:50 h:2>
+That's still not 
+enough to cover the meal.<Close><End of Block>
+<TextBlock 33 w:38 h:4>
+This will pay for 
+the meal. <Delay 50>
+Next time please 
+bring enough money.<Close><End of Block>
+<TextBlock 34 w:46 h:1>
+HP/MP fully restored!<New>
+Gained a bit of weight!<Close><End of Block>
+<TextBlock 35 w:46 h:1>
+HP/MP restored a bit!<New>
+Gained a lot of weight!<Close><End of Block>
+<TextBlock 36 w:50 h:1>
+HP/MP partially restored!<New>
+Gained a bit of weight!<Close><End of Block>
+<TextBlock 37 w:28 h:1>
+That was good.<Close><End of Block>
+<TextBlock 38 w:52 h:2>
+Oh, sorry. Table for
+how many? This way please.<Close><End of Block>
+<TextBlock 39 w:52 h:2>
+Boss! We've got bilkers
+dining and dashing, again!<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+You know...<Delay 50>
+Since all the men came
+back my son and I feel
+so ashamed.<New>
+But compared to wives
+whose sons and husbands
+died or came back wounded,<New>
+we're pretty happy.<Close><End of Block>
+<TextBlock 41 w:48 h:3>
+I've been thinking...
+about quitting drinking.<New>
+The reason I became an 
+alcoholic was to get out
+of going to war.<Close><Close><End of Block>

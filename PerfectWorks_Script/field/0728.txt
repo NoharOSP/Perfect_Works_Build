@@ -1,0 +1,62 @@
+<TextBlock 1 w:50 h:4>
+Save yourselves but leave
+your friends to sink in a
+sea of sand... Don't you
+believe in comradeship?<Close><End of Block>
+<TextBlock 2 w:18 h:2>
+Citan
+"Wooh..."<Close><End of Block>
+<TextBlock 3 w:22 h:2>
+Citan
+"Whoops..."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Citan
+"Ha ha ha...<Delay 16>
+Well, Doctor Citan Uzuki!<New>
+Feels like you have sacked
+your saccules, and tickled
+your utricles enough for
+one life time! Wow, dizzy!"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Citan
+"Fei, I was only joking.<Delay 18>
+Riding in the hand was
+not so bad.<New>
+I can see what is so
+good about this top
+secret experimental
+Kislev machine."<Close><End of Block>
+<TextBlock 6 w:24 h:3>
+Citan
+"Really...?<Delay 24>
+Amazing...!"<Close><End of Block>
+<TextBlock 7 w:10 h:3>
+Citan
+"?
+..."<Opcode 2 32><Close><End of Block>
+<TextBlock 8 w:22 h:4>
+Fei
+"C'mon doc!
+Over here!
+Hurry up!"<Close><End of Block>
+<TextBlock 9 w:40 h:2>
+Fei
+"Are you okay, doc?"<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Fei
+"Sorry about that, doc!
+I didn't have time to
+open up the cockpit...<New>
+Are you really okay, doc?"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Fei
+"Yeah,<Delay 16> when I started it
+up, it began doing all
+kinds of stuff by itself...<New>
+The environmental response
+system and weight-reduction
+hovering kicked in straight
+away<Delay 5>...<Delay 5>automatically!"<Close><End of Block>
+<TextBlock 12 w:16 h:2>
+Fei
+"!!?..."<Opcode 2 32><Close><End of Block>

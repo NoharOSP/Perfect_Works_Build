@@ -1,0 +1,27 @@
+<TextBlock 1 w:52 h:6>
+Ahh...I see,
+so you're the son of Kahn.<Delay 20>
+Have you met Queen Zephyr
+yet?<New>
+She still can't forget
+about the tragedy in Nisan
+during the great war, 500
+years ago.<Delay 20> Even though
+it's not her fault...<New>
+I assume she can't forgive
+herself for betraying and
+abandoning her fellow 
+members though she had no
+knowledge of what was
+going on...<Close><End of Block>
+<TextBlock 2 w:50 h:6>
+Oh, I may have said too
+much. I'm not supposed to
+know anything.<Delay 20> Anyhow,
+keep up the good work in
+overthrowing Solaris,
+young man!<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Keep it up the good work
+in overthrowing Solaris.<Delay 20>
+I'm counting on you.<Close><Close><End of Block>

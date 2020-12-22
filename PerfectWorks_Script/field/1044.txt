@@ -1,0 +1,30 @@
+<TextBlock 1 w:38 h:3>
+<Delay 5>...<Delay 5>I can rest here.<Delay 15>
+    Don't
+    Rest<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Citan
+"No time for that.<Delay 15>
+We must hurry<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Citan
+"Hold on,<Delay 5> Fei.<Delay 5>
+Are you fully prepared?<Delay 15><New>
+You know there is no
+turning back now."<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Fei
+"Huh?<Delay 5> Yeah,<Delay 5> you're right."<Delay 15>
+    Go get prepped
+    I'm ready <Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Citan
+"<Delay 5>...<Delay 5>Good.<Delay 15>
+Shall we go?<Delay 5>
+There is not much time."<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Citan
+"<Delay 5>...<Delay 5>There is still some
+time before the train
+arrives<Delay 5>...<Delay 15> Let us rest<New>
+here for a while."<Close><Close><End of Block>

@@ -1,0 +1,31 @@
+<TextBlock 1 w:28 h:1>
+So busy, busy.<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:42 h:3>
+A war?
+It's war all the time
+in here.<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+We're undermanned
+here.<Close><End of Block>
+<TextBlock 4 w:40 h:2>
+Hey! Keep your hands
+off that food.<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Hey, do you know
+anything about the battle
+...in Lahan?<New>
+No one's telling me
+anything...<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+...He'll come back,
+I know he will...<Close><End of Block>
+<TextBlock 7 w:46 h:1>
+My daddy went to war...<New>
+I wish he'd come back.<Close><End of Block>
+<TextBlock 8 w:20 h:1>
+I'm hungry<Close><End of Block>
+<TextBlock 9 w:14 h:1>
+Argh...<Close><End of Block>
+<TextBlock 10 w:44 h:2>
+There's nothing of any
+use...<Close><Close><End of Block>

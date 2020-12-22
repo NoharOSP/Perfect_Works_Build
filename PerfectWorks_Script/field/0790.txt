@@ -1,0 +1,45 @@
+<TextBlock 1 w:42 h:2>
+I alternate gate duty
+with the guy outside.<Close><End of Block>
+<TextBlock 2 w:52 h:3>
+You people...<Delay 30>
+You're not residents here.<New>
+I know from your aura.<Delay 30>
+I too, once lived near
+the Royal Capital.<New>
+I swindled people using
+fake goods when I lived
+there.<New>
+I came to hate doing
+those things...<New>
+Then I heard of this place
+from some pilgrims.<New>
+I alternate gate duty
+with the guy outside but,
+it's pretty interesting.<New>
+Everyday I see the
+pilgrim's faces and get
+impressions, like<New>
+this person is very
+troubled, <Delay 30>...and such.<New>
+I used to use that
+ability to get money
+from people...<New>
+Now I'd never think of 
+doing that.<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+I'm from the royal army
+stationed down south.<New>
+I may work for the current
+government but my heart
+belongs to Nisan. I cannot
+desert it.<New>
+I hear there are lots of
+people like me who are
+gathering here.<New>
+The residents here are
+kindly renting me this
+room...<New>
+Now I'm waiting here
+until something starts
+happening.<Close><Close><End of Block>

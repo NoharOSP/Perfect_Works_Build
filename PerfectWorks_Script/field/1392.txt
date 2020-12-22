@@ -1,0 +1,37 @@
+<TextBlock 1 w:50 h:3>
+Big Joe
+"How do ya like my shop? 
+Pretty good, huh?"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+It's Joe's shop, so of 
+course it's all Joe brand.
+     <Opcode 1 255>Items
+     Gear parts<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Big Joe
+"So? How do ya like it?
+Come again sometime!!"<Close><End of Block>
+<TextBlock 4 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 5 w:38 h:2>
+ 
+Received <Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:38 h:2>
+ 
+Received <Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:38 h:2>
+ 
+Received <Opcode 4 20><Close><End of Block>
+<TextBlock 10 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:38 h:2>
+ 
+Received <Opcode 4 20><Close><Close><End of Block>

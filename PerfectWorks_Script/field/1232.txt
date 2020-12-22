@@ -1,0 +1,177 @@
+<TextBlock 1 w:48 h:4>
+Doctor
+"What, are you injured?"
+    Yes
+    No<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Doctor
+"I see. Just plop down
+and sleep over there."<Close><End of Block>
+<TextBlock 3 w:46 h:2>
+Doctor
+"Don't ever come back."<Close><End of Block>
+<TextBlock 4 w:34 h:4>
+Doctor
+"Then you have no
+business here.
+Out, get out!"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Doctor
+"Jeez, only drunkards 
+and bullies come here..."<Close><End of Block>
+<TextBlock 6 w:50 h:5>
+Doctor
+"Then get out.
+There are lots of injured
+people from that big
+fishbowl thing."<Close><End of Block>
+<TextBlock 7 w:38 h:3>
+The wind...
+is calling my name.<Delay 10>
+...<Delay 10>Sigh<Delay 10>...<Close><End of Block>
+<TextBlock 8 w:22 h:3>
+The sea...
+is weeping.<Delay 10>
+...<Delay 10>Sigh<Delay 10>...<Close><End of Block>
+<TextBlock 9 w:52 h:2>
+Only I...<Delay 10>...<Delay 10>survived.<New>
+My comrades were taken off
+and eaten by the Wels...<Close><End of Block>
+<TextBlock 10 w:56 h:4>
+Boy was it a shock. We were
+all enthused about being
+able to finally dig up stuff
+at the excavation site.<New>
+Then...ZAP!...
+This beam went by!<New>
+It was so bright, I thought
+my eyes were gonna burn up.
+But then a Gear from Thames
+saved me.<New>
+Boy am I ever thankful...!
+But why did that fishbowl
+thing attack us? Was it
+trying to get at the site?"<Close><End of Block>
+<TextBlock 11 w:52 h:2>
+When I'm drunk I don't get
+any further than this bed.<Close><End of Block>
+<TextBlock 12 w:54 h:5>
+Anna
+"My husband was eaten by
+that Reaper -Wels- thing...
+We three were the only ones
+saved. What do we do now?"<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+Lance
+"Hey, are you picking
+on my mom?"<Close><End of Block>
+<TextBlock 14 w:34 h:2>
+Kanna
+"What about dad?"<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Doctor
+"...<Delay 15>I don't know.<Delay 10> 
+But for now he's on life 
+support<Delay 10>...<Delay 10>..."<Close><End of Block>
+<TextBlock 16 w:46 h:3>
+Citan
+"...<Delay 20>You mean...<Delay 5> 
+He will be alright<Delay 10>...?"<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Doctor
+"...<Delay 20>I guarantee nothing.<Delay 10> 
+I don't know why he's like
+this in the first place."<Close><End of Block>
+<TextBlock 18 w:10 h:2>
+Bart
+"..."<Close><End of Block>
+<TextBlock 19 w:26 h:3>
+Elly
+"...<Delay 30>My fault<Delay 20>?<Delay 15>
+...<Delay 30>I<Delay 10>...<Delay 10>"<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Doctor
+"...Then there is hope
+...at the infirmary in
+the 'Ethos' headquarters."<Close><End of Block>
+<TextBlock 21 w:3 h:1>
+!<Close><End of Block>
+<TextBlock 22 w:36 h:3>
+Elly
+"Fei...
+Can you save Fei?"<Close><End of Block>
+<TextBlock 23 w:52 h:5>
+Doctor
+"I cannot guarantee it.
+But if we were to take
+him to the 'Ethos'
+headquarters' hospital..."<Close><End of Block>
+<TextBlock 24 w:50 h:2>
+Elly
+"Then could we save him?"<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Doctor
+"I think then that he
+would most probably
+pull through alright...<New>
+But unfortunately, ordinary
+citizens are only allowed
+into the main hall at
+the 'Ethos' headquarters.<New>
+You would have to become a
+monk, or be introduced by
+someone in the 'Ethos'<Delay 5>..."<Close><End of Block>
+<TextBlock 26 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Doctor
+"Ah, I just remembered.<New>
+I heard that the Etone,
+-'atoners of sin'-,
+are coming to Thames
+from the 'Ethos' H.Q...."<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Citan
+"What purpose do such
+Etone from the 'Ethos'
+have here?"<Close><End of Block>
+<TextBlock 29 w:40 h:4>
+Doctor
+"They're coming here
+to do some type of
+investigation."<Close><End of Block>
+<TextBlock 30 w:30 h:3>
+Bart
+"Etone...
+What are they?"<Close><End of Block>
+<TextBlock 31 w:56 h:5>
+Doctor
+"They are religious people
+from the 'Ethos' who cleanse
+away the 'Reapers' or -Wels-
+that appear here in Aquvy."<Close><End of Block>
+<TextBlock 32 w:54 h:2>
+Elly
+"So why don't we ask them?"<Close><End of Block>
+<TextBlock 33 w:52 h:4>
+Doctor
+"I'll ask them if they can
+help us, but I don't know
+if they will...<New>
+I guess there is no harm
+in asking though..."<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+Elly
+"Alright. Let's go look
+for them."<Close><End of Block>
+<TextBlock 35 w:50 h:4>
+Citan
+"I will go with Fei and
+the life support machines
+to the Yggdrasil.<New>
+Bart and Elly, you two go
+look for the Etone."<Close><End of Block>
+<TextBlock 36 w:22 h:2>
+Bart
+"...Right."<Close><Close><End of Block>

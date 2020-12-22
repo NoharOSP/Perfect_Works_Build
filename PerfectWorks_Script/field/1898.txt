@@ -1,0 +1,33 @@
+<TextBlock 1 w:52 h:2>
+Writing on the wall.<New>
+"There is a secret in the
+third hole from the door."<Close><End of Block>
+<TextBlock 2 w:50 h:2>
+Writing on the wall.<New>
+"Find the hidden passage
+in this room to proceed."<Close><End of Block>
+<TextBlock 3 w:46 h:2>
+Writing on the wall.<New>
+"The hidden passage is 
+in the third hole."<Close><End of Block>
+<TextBlock 4 w:48 h:2>
+Writing on the wall.<New>
+"The secret is in the
+wall of the third hole."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+"Fear not the darkness of
+the walls of the pit, for
+if you keep moving forward
+the path you will find..."<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

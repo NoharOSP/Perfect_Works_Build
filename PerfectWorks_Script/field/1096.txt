@@ -1,0 +1,198 @@
+<TextBlock 1 w:14 h:3>
+Fei
+"Elly!?
+You<Delay 10>..."<Close><End of Block>
+<TextBlock 2 w:22 h:2>
+Rico
+"NOOOOOO!!"<Delay 100><Delay 100><Close><End of Block>
+<TextBlock 3 w:42 h:2>
+Fei
+"You're in the way!!"<Close><End of Block>
+<TextBlock 4 w:16 h:2>
+Fei
+"MOVE!!"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Fei
+"We must change the rear
+ship's course or<Delay 10>...<Delay 10>
+<Delay 10>...<Delay 10>!! <New>
+<Delay 10>...<Delay 10>What,<Delay 20>
+...you again!?"<Close><End of Block>
+<TextBlock 6 w:26 h:3>
+Fei
+"This is<Delay 15>...<Delay 15>
+meaningless!"<Close><End of Block>
+<TextBlock 7 w:26 h:3>
+Fei
+"Arrgh<Delay 15>...<Delay 15>
+I've had it!"<Close><End of Block>
+<TextBlock 8 w:28 h:3>
+Fei
+"Only two<Delay 10>...<Delay 10>
+enemies, huh?"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Rico
+"Hmph, what a joke...
+Wasting time on a couple
+of guys like these."<Close><End of Block>
+<TextBlock 10 w:14 h:2>
+Fei
+"Rico?"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Rico
+"I don't need a reason
+to beat the crap out of
+anyone who pisses me off.<New>
+And of course that means
+you too."<Close><End of Block>
+<TextBlock 12 w:26 h:3>
+Fei
+"That's also,<Delay 20>
+one reason."<Close><End of Block>
+<TextBlock 13 w:20 h:3>
+Rico
+"Shut up, 
+let's go."<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Fei
+"OK, now to change the
+last ship's course<Delay 10>...<Delay 10>
+<Delay 10>..<Delay 10>"<Close><End of Block>
+<TextBlock 15 w:14 h:2>
+Fei
+"Elly!"<Close><End of Block>
+<TextBlock 16 w:28 h:4>
+Fei
+"...<Delay 20>...<Delay 30>Rico,
+sorry, but you
+go on ahead."<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Rico
+"What!?
+You've come this far 
+and now you're scared?"<Close><End of Block>
+<TextBlock 18 w:52 h:3>
+Fei
+"I'll catch up, I promise.
+<Delay 10>...<Delay 20>Please."<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Rico
+"...<Delay 10>Well, even without
+you, I can make do by
+myself."<Close><End of Block>
+<TextBlock 20 w:46 h:3>
+Rico
+"Then...I guess I'll go
+on ahead."<Close><End of Block>
+<TextBlock 21 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 22 w:44 h:4>
+Fei
+"There's no time! 
+Rico, hurry and change
+the course."<Close><End of Block>
+<TextBlock 23 w:30 h:2>
+Fei
+"Whooooaaaaaa!"<Close><End of Block>
+<TextBlock 24 w:46 h:3>
+Fei
+"Damn!!
+There's too much mass!"<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Elly
+"Hold on!<New>
+We can avoid a direct
+hit on the reactor with
+three Gears."<Close><End of Block>
+<TextBlock 26 w:22 h:2>
+Fei
+"Ah, ahhh."<Close><End of Block>
+<TextBlock 27 w:52 h:4>
+Rico
+"OK, we've steered it away
+from the power station.
+Let's bail out! Fei!"<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Fei
+"But, now it's heading
+right for the residential
+district!"<Close><End of Block>
+<TextBlock 29 w:48 h:3>
+Elly
+"He's right! <New>
+We need to bring it down
+somewhere where it won't
+cause so much damage."<Close><End of Block>
+<TextBlock 30 w:52 h:4>
+Rico
+"Impossible!
+We can't change its course
+anymore than we have!"<Close><End of Block>
+<TextBlock 31 w:36 h:4>
+Fei
+"No! We've got to
+hold it up as long
+as we can!"<Close><End of Block>
+<TextBlock 32 w:42 h:2>
+Rico
+"What are you, deaf?"<Close><End of Block>
+<TextBlock 33 w:38 h:3>
+Rico
+"Huh!?
+We're overheating!"<Close><End of Block>
+<TextBlock 34 w:18 h:3>
+Fei
+"Damn! 
+Not now!"<Close><End of Block>
+<TextBlock 35 w:52 h:4>
+Rico
+"There's nothin' more we
+can do! Hanging on anymore
+will just be suicide!"<Close><End of Block>
+<TextBlock 36 w:16 h:2>
+Fei
+"But..."<Close><End of Block>
+<TextBlock 37 w:46 h:3>
+Rico
+"That's it, I'm bailing
+out! C'mon!"<Close><End of Block>
+<TextBlock 38 w:14 h:2>
+Fei
+"Elly!"<Close><End of Block>
+<TextBlock 39 w:38 h:4>
+Fei
+"Stop! 
+What're you doing? 
+If you do that..."<Close><End of Block>
+<TextBlock 40 w:50 h:4>
+Elly
+"Don't worry. 
+My Gear is from Solaris. 
+It's still...all right."<Close><End of Block>
+<TextBlock 41 w:38 h:4>
+Fei
+"Elly! What are you
+doing? If you keep
+going you'll...!"<Close><End of Block>
+<TextBlock 42 w:46 h:3>
+Elly
+"But...<Delay 10>...<Delay 10>what else 
+can we do?<New>
+At least it will reduce
+the damage.
+...<Delay 10>...<Delay 10>Sorry.<New>
+It's better than doing 
+nothing."<Close><End of Block>
+<TextBlock 43 w:30 h:2>
+Fei
+"Ellllllllly!!"<Close><End of Block>
+<TextBlock 44 w:48 h:4>
+Elly
+"...<Delay 60>
+Just hold on a bit more!
+Please!"<Close><End of Block>
+<TextBlock 45 w:34 h:3>
+Elly
+"<Delay 10>...<Delay 10>!<Delay 30>
+Is this<Delay 10>...<Delay 10>it<Delay 10>...?"<Close><Close><End of Block>

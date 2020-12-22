@@ -1,0 +1,22 @@
+<TextBlock 1 w:54 h:4>
+Fei
+"That's amazing.<Delay 10>
+They're doing digging right
+next to this town too?"<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Citan
+"This is an Aveh-run
+excavation site.<New>
+The machines and Gears
+found here are valuable
+resources that could turn
+the tide of the war.<New>
+They are indispensible
+to the war effort."<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Citan
+"Anyway Fei...<Delay 10>
+Let us move on.<New>
+We have more pressing
+matters to do than
+taking in the 'sites'!"<Close><Close><End of Block>

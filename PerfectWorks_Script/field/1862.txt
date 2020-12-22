@@ -1,0 +1,124 @@
+<TextBlock 1 w:44 h:3>
+Fei
+"What meaning is there
+in fighting again!?"<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Elly
+"Stop this useless
+fighting!"<Close><End of Block>
+<TextBlock 3 w:56 h:4>
+Elly
+"Some things only the weak
+can feel...<New>
+But weakness does not make
+them servile.<New>
+It's because they are weak,
+that they can develop
+kindness...and never look
+down on people.<New>
+That is where real human
+interaction comes from.
+Everyone has weaknesses.
+Even you did at first.<New>
+Your weakness drew you to
+each other...<New>
+And made you grow strong.
+Never forget those feelings.
+When you all lived together
+side by side..."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Elly
+"You've got us all wrong,
+Dominia.<New>
+Our paths may be different,
+but our goals are the same.<New>
+That's why I can't fight
+you anymore. There's no
+reason for me to...
+That's all."<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+Dominia
+"What took you!?"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Dominia
+"Silence!
+Now we have no choice
+but to fight.<New>
+Now we will show you
+the true power of the
+Elements! Get ready...
+because here we come!"<Close><End of Block>
+<TextBlock 7 w:44 h:2>
+Elements in unison
+"Elements' Formation!"<Opcode 2 40><Close><End of Block>
+<TextBlock 8 w:14 h:2>
+Dominia
+"Wait!"<Opcode 2 30><Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Dominia
+"Are you trying to show
+us mercy? Or are you just
+trying to show off...?"<Close><End of Block>
+<TextBlock 10 w:18 h:2>
+Dominia
+"Hmph..."<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+Kelvena
+"Let us merge and
+combine our forces!"<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Kelvena
+"Well<Delay 5>...<Delay 10>it looks like
+they sure showed us a
+thing or two!"<Close><End of Block>
+<TextBlock 13 w:38 h:3>
+Shopkeep Johnny
+"Whoa!
+I'm not the enemy!"<Close><End of Block>
+<TextBlock 14 w:54 h:4>
+Shopkeep Johnny
+"My family's been merchants
+for generations, and we got
+our own ways to fight.<New>
+And this is my battle."<Close><End of Block>
+<TextBlock 15 w:44 h:3>
+Shopkeep Johnny
+"Wanna buy something?
+I even service Gears."<Close><End of Block>
+<TextBlock 16 w:26 h:3>
+    <Opcode 1 255>Character
+    Gear
+    Forget it<Close><End of Block>
+<TextBlock 17 w:26 h:4>
+    <Opcode 1 255>Item
+    Accessory
+    Go back
+    Forget it<Close><End of Block>
+<TextBlock 18 w:30 h:3>
+Shopkeep Johnny
+"Thanks for
+your patron."<Close><End of Block>
+<TextBlock 19 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 20 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 21 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 22 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 23 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 24 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 25 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 26 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

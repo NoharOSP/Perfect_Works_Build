@@ -1,0 +1,50 @@
+<TextBlock 1 w:24 h:2>
+Elly
+"This is..."<Close><End of Block>
+<TextBlock 2 w:24 h:2>
+Elly
+"This is..."<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+Billy
+"The Anima Relic..."<Close><End of Block>
+<TextBlock 4 w:40 h:2>
+Billy
+"The Anima Relic..."<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Billy
+"Who is it?
+Who's calling me?<New>
+I don't know.
+I don't know...<New>
+What should I do...?
+You were waiting?
+For me...?"<Close><End of Block>
+<TextBlock 6 w:40 h:3>
+Billy
+"Who is it?
+Who's calling me?<New>
+I don't know.
+I don't know...<New>
+What should I do...?
+You were waiting?
+For me...?"<Close><End of Block>
+<TextBlock 7 w:16 h:2>
+Fei
+"Billy?"<Close><End of Block>
+<TextBlock 8 w:36 h:4>
+Billy
+"Did you see that?
+It looked like...
+my Gear?"<Close><End of Block>
+<TextBlock 9 w:36 h:4>
+Billy
+"Did you see that?
+It looked like...
+my Gear?"<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Fei
+"Maybe something has
+happened to your Gear.<New>
+Let's head for the exit
+and see if any change
+has taken place."<Close><Close><End of Block>

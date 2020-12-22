@@ -1,0 +1,53 @@
+<TextBlock 1 w:48 h:4>
+Rico
+"Is that all you can do?
+What? Don't you want to
+fight!?"<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Rico
+"What's wrong? If you
+don't resist, I'll end
+up breakin' yer neck!"<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Rico
+"Hm? What's that?
+I can't hear you!"<Close><End of Block>
+<TextBlock 4 w:34 h:3>
+Rico
+"Hmph. Well then,
+this is the end!"<Close><End of Block>
+<TextBlock 5 w:16 h:2>
+Rico
+"What!?"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Rico
+"Hah hah hah.<Delay 30>
+That's more like it...<Delay 30>
+You're quite good.<New>
+You're the first one to
+ever injure me.<Delay 30>
+Now I don't have to
+hold back.<New>
+I'm looking forward to
+this!"<Close><End of Block>
+<TextBlock 7 w:18 h:3>
+Fei
+"Guh<Delay 30>.... <Delay 30>
+gah<Delay 30>...<Delay 30>"<Close><End of Block>
+<TextBlock 8 w:26 h:2>
+Fei
+"N<Delay 30>...<Delay 30>, no<Delay 30>.<Delay 10>.<Delay 10>.<Delay 10>"<Close><End of Block>
+<TextBlock 9 w:24 h:4>
+Fei
+"No<Delay 30>...<Delay 30> I<Delay 30>...<Delay 30> 
+won't<Delay 30>... <Delay 30>
+fight!"<Close><End of Block>
+<TextBlock 10 w:22 h:3>
+Fei
+"Guh<Delay 30>...<Delay 30> uh,<Delay 30>
+uh<Delay 30>...<Delay 30>"<Close><End of Block>
+<TextBlock 11 w:34 h:1>
+...Outta the way!<Close><End of Block>
+<TextBlock 12 w:30 h:2>
+Fei
+"...<Delay 30> I<Delay 60>... I<Delay 30>...<Delay 30>"<Close><Close><End of Block>

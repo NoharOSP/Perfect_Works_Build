@@ -1,0 +1,186 @@
+<TextBlock 1 w:52 h:2>
+Bart
+"Hey, this is huge.<New>
+What can we do with this?
+I doubt you can break it."<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Bart
+"My sensors detect what
+appears to be a huge cave
+on the other side of here.<New>
+If we could only do some-
+thing about this boulder...<Delay 30>
+But I doubt we can just
+smash it to pieces!<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Fei
+"I guess<Delay 30> we could
+try pushing it..."<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Bart
+"Wait, no matter how
+you look at it<Delay 30>...<Delay 30>"<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Bart
+"Hey, Fei!<Delay 30>
+My sensors are responding
+to something.<New>
+There appears to be quite
+a large cavern on the
+other side of here."<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Bart
+"If we can get rid of this
+rock...<Delay 30>but I don't think
+it's possible."<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Bart
+"The hydromechanic pipe for
+my knee joint is on the
+verge of breaking down.<New>
+It's all because of that
+fall from the ceiling...
+followed by pushing this
+mega-colossal boulder.<New>
+It won't be funny if my
+Gear malfunctions in a
+huge cavern like this."<Close><End of Block>
+<TextBlock 8 w:40 h:3>
+Bart
+"I don't like you
+very much...<New>
+Damn it!
+I'll get you when we
+get outta here."<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Fei
+"Looks like even a person
+couldn't fit through..."<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Fei
+"Looks like even a person
+couldn't fit through..."<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Fei
+"We can get by if we help
+each other.<New>
+Let's keep it up so we
+can get out of here."<Close><End of Block>
+<TextBlock 12 w:38 h:3>
+Fei
+"Your friends won't
+come and help us?"<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Bart
+"It'd be a waste of time
+waiting.<Delay 30> They probably
+won't come."<Close><End of Block>
+<TextBlock 14 w:44 h:3>
+Fei
+"But, aren't they your
+friends?"<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Bart
+"We believe in a
+liberal upbringing.<New>
+They'll think we can
+escape by ourselves."<Close><End of Block>
+<TextBlock 16 w:32 h:3>
+Fei
+"I wonder if doc
+is okay."<Close><End of Block>
+<TextBlock 17 w:46 h:3>
+Bart
+"Don't worry about the
+man you were with.<New>
+I'm sure our guys saved
+him by now."<Close><End of Block>
+<TextBlock 18 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 19 w:26 h:2>
+Bart
+"What is it?"<Close><End of Block>
+<TextBlock 20 w:46 h:3>
+Fei
+"...<Delay 30><New>
+We wouldn't have fallen
+in here if you had only
+listened to me."<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Bart
+"Don't blame it on me!
+You should've surrendered
+instead of challenging me.<New>
+All I wanted was your
+Gear."<Close><End of Block>
+<TextBlock 22 w:52 h:3>
+Fei
+"Don't be ridiculous!<New>
+You're the one who blindly
+attacked me. What else was
+I supposed to do?<New>
+I thought I might die if
+I didn't fight you."<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Bart
+"I was taking it easy on
+you. Couldn't you tell?<Delay 10>
+Then you're a bit dense."<Close><End of Block>
+<TextBlock 24 w:50 h:3>
+Fei
+"Don't lie to me.
+I know you were serious."<Close><End of Block>
+<TextBlock 25 w:44 h:4>
+Bart
+"What! You want some!?
+Let's have it out!
+Right here!"<Close><End of Block>
+<TextBlock 26 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Bart
+"Wait! Settling it
+right here comes first.<New>
+I won't be able to get
+anything done until we
+settle this once and
+for all!"<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Fei
+"I thought you wanted a
+truce for now? Getting out
+of here should come first!<New>
+Once we're out of here,
+then I'll fight you all
+you want.<Delay 30> Let's hurry up
+and move on out of here!"<Close><End of Block>
+<TextBlock 29 w:60 h:3>
+<Opcode 1 255> 
+ - GREAT HALL SAND SENSOR -
+                              <Close><End of Block>
+<TextBlock 30 w:66 h:4>
+Detected amounts of falling sand
+above the standard safety figure.<New>
+The sand barrier on the south
+wall of the Terrace Stones has
+been sealed to prevent sand from
+penetrating the excavation site.<New>
+Until the barrier is reopened,
+please assemble at the safety
+shelter to the east of the
+barrier wall. Thank-you.<Close><End of Block>
+<TextBlock 31 w:22 h:1>
+Disengaged!<Close><End of Block>
+<TextBlock 32 w:44 h:4>
+Fei
+"What the heck are you
+doing? Hurry up and
+help!!"<Close><End of Block>
+<TextBlock 33 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 34 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

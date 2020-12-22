@@ -1,0 +1,59 @@
+<TextBlock 1 w:6 h:1>
+"!"<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Citan
+"Hey...Fei, wait a
+minute."<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+Fei
+"What's wrong, doc?"<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Citan
+"This is a part that
+allows a Gear to recover
+30% of its HP. <New>
+If you have this equipped,
+you can activate this
+during battle. It is a
+highly useful item but<New>
+the drawback is that you
+will use fuel, so you must
+use it with caution."<Close><End of Block>
+<TextBlock 5 w:44 h:4>
+Fei
+"That really doesn't
+matter unless we get
+back the Gear, doc.<New>
+There's no one here so
+let's hurry up and get
+out of here."<Close><End of Block>
+<TextBlock 6 w:42 h:3>
+Citan
+"Uh, oh yes. My usual
+habit...<New>
+Well, we should take
+it anyway since we
+have the chance."<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Hey, make sure you
+return the Master Key back
+to the shelf.<Close><End of Block>
+<TextBlock 8 w:48 h:3>
+Oh, it's already
+starting. There's no way
+we can miss this.<Close><End of Block>
+<TextBlock 9 w:18 h:1>
+Yes, sir.<Close><End of Block>
+<TextBlock 10 w:40 h:1>
+This should do it...<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Heeeey, did ya'll hear?
+The battle between the
+ex-Champ and the beast
+is about to begin.<Close><End of Block>
+<TextBlock 12 w:42 h:2>
+ 
+ Received Master Key.<Close><End of Block>
+<TextBlock 13 w:42 h:2>
+ 
+ Received Frame HP30.<Close><Close><End of Block>

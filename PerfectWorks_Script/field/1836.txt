@@ -1,0 +1,259 @@
+<TextBlock 1 w:16 h:1>
+Taura...<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:14 h:2>
+Citan
+"Fei!!"<Close><End of Block>
+<TextBlock 3 w:14 h:2>
+Fei
+"Doc!!"<Delay 30><Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Citan
+"I heard from Taura and
+hurried right over here!<New>
+Boy, was that lucky.<Delay 10>
+You were fortunate to have
+come down near Taura's
+research facility<Delay 5>..."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Taura
+"Hm...<Delay 5> This is no
+research facility. <Delay 10>
+It is 'a man's hideaway'!"<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+Taura
+"Citan told me about you.<New>
+I was shocked to see a
+couple lying down with
+blood all over them."<Close><End of Block>
+<TextBlock 7 w:22 h:1>
+A couple...<Close><End of Block>
+<TextBlock 8 w:34 h:4>
+Citan
+"At any rate,
+you had a narrow
+escape.<New>
+Fei, make sure
+you thank Taura!"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Fei
+"Taura,<Delay 10>
+thank you very much<Delay 5>...<Delay 10>
+for helping Elly<Delay 5>..."<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Fei
+"Both Elly and I were
+hurt so badly...<Delay 30>
+What is that machine...?"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Taura
+"It's called a Nanoreactor.<New>
+It is a device that can
+rebuild substances at
+the molecular level.<New>
+Not only can it just heal
+humans, but theoretically
+it should also be able to
+create many substances."<Close><End of Block>
+<TextBlock 12 w:52 h:3>
+Fei
+"Is that the same thing
+as that guy in Solaris...?<New>
+I mean...
+Is that the same thing
+as Krelian is studying?"<Close><End of Block>
+<TextBlock 13 w:40 h:2>
+Taura
+"Yes, that's right."<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Taura
+"I<Delay 10> was the one who taught
+Nanotechnology to him..."<Close><End of Block>
+<TextBlock 15 w:20 h:2>
+Fei
+"You did?"<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Taura
+"We shouldn't waste time
+talking about such an<Delay 10>
+unimportant subject.<New>
+Looks like her treatment
+is done."<Close><End of Block>
+<TextBlock 17 w:34 h:4>
+Taura
+"Oh, you don't
+need to come.<Delay 10>
+Just wait there."<Close><End of Block>
+<TextBlock 18 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 19 w:16 h:2>
+Citan
+"Fei..."<Close><End of Block>
+<TextBlock 20 w:16 h:2>
+Fei
+"Elly!!"<Close><End of Block>
+<TextBlock 21 w:14 h:3>
+Elly
+"Fei...<Delay 20>
+I..."<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Taura
+"Ahem! Now, why don't you
+two go get some fresh air
+outside?<New>
+It ought to ease the
+shock of the change."<Close><End of Block>
+<TextBlock 23 w:42 h:3>
+Shevat Emissary
+"Fei...!<Delay 10>
+We've got problems!!"<Close><End of Block>
+<TextBlock 24 w:52 h:4>
+Shevat Emissary
+"Today, a peace settlement
+between Aveh and Kislev
+is being held at Shevat...<New>
+But, Solaris' mobile
+weapons are approaching
+Shevat as we speak!<Delay 10>
+Please, help us!"<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Taura
+"That has nothing to do
+with this young man!!"<Close><End of Block>
+<TextBlock 26 w:30 h:2>
+Shevat Emissary
+"Taura!!"<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+Taura
+"You're getting on my
+nerves for being so
+selfish.<New>
+Citan told me about you.
+You showed up after
+finding out that Id is
+now controllable...<New>
+Aren't you ashamed? You
+haven't changed since
+then. You only care
+about yourselves."<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Taura
+"Fei! You don't need to
+listen to these guys who
+once tried to kill you!!"<Close><End of Block>
+<TextBlock 29 w:16 h:2>
+Fei
+"But..."<Close><End of Block>
+<TextBlock 30 w:10 h:2>
+Citan
+"..."<Close><End of Block>
+<TextBlock 31 w:30 h:4>
+Elly
+"Please go.
+I'll go to the
+Mass-driver..."<Close><End of Block>
+<TextBlock 32 w:14 h:2>
+Fei
+"Elly?"<Close><End of Block>
+<TextBlock 33 w:52 h:4>
+Elly
+"No matter what happened
+before, Shevat needs your
+help now.<New>
+Although you may be saving
+some selfish people...<New>
+there is still the world
+and its countries with
+many more innocent people.<New>
+Please,
+don't forget that."<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Elly
+"Bart and his people are
+fighting to protect those
+same lives, aren't they?<New>
+So, please go help them!"<Close><End of Block>
+<TextBlock 35 w:32 h:3>
+Fei
+"Are you sure?<Delay 10>
+What about you?"<Close><End of Block>
+<TextBlock 36 w:44 h:3>
+Elly
+"Don't worry about me.<Delay 10>
+I'll manage somehow."<Close><End of Block>
+<TextBlock 37 w:50 h:2>
+Fei
+"But, all by yourself..."<Close><End of Block>
+<TextBlock 38 w:50 h:3>
+Citan
+"I will accompany Elly.<Delay 10>
+You do not need to worry.<New>
+I have brought along my
+own Omnigear."<Close><End of Block>
+<TextBlock 39 w:46 h:2>
+Fei
+"Your own Omnigear...?"<Close><End of Block>
+<TextBlock 40 w:48 h:4>
+Citan
+"Yes my Omnigear,
+'<Fenrir>'.<New>
+It is the same one I
+brought from Solaris.
+I left it with Gaspar
+in case of emergencies."<Close><End of Block>
+<TextBlock 41 w:40 h:4>
+Fei
+"Doc...<Delay 30>
+Alright.<Delay 10> Please take
+care of her for me."<Close><End of Block>
+<TextBlock 42 w:38 h:2>
+Fei
+"Elly,<Delay 10> be careful."<Close><End of Block>
+<TextBlock 43 w:18 h:2>
+Elly
+"I will."<Close><End of Block>
+<TextBlock 44 w:50 h:3>
+Shevat Emissary
+"We are truly grateful
+for your kindness,<Delay 10> Fei!!"<Close><End of Block>
+<TextBlock 45 w:34 h:3>
+Taura
+"Hmph!<Delay 10>
+Suit yourselves."<Close><End of Block>
+<TextBlock 46 w:30 h:2>
+Fei
+"Ignas, right?"<Close><End of Block>
+<TextBlock 47 w:56 h:4>
+Shevat Emissary
+"Yes.<Delay 10>
+The goal of the enemy is to
+destroy the cities in Ignas.<New>
+They have already destroyed
+half of Bledavik and will
+probably reach Nisan in 
+about four hours.<New>
+Shevat will try to drive
+them back with all the
+power it has!"<Close><End of Block>
+<TextBlock 48 w:50 h:3>
+Fei
+"Four hours...<Delay 10>
+That's cutting it close!"<Close><End of Block>
+<TextBlock 49 w:54 h:4>
+Taura
+"No need to worry.
+Balthasar and I fixed your
+Gear with the nanomachines.<New>
+It's much more powerful
+than it ever was before.
+Why, you should get there
+in half the time."<Close><End of Block>
+<TextBlock 50 w:42 h:3>
+Fei
+"What?<Delay 10>
+Is old man Bal here?"<Close><End of Block>
+<TextBlock 51 w:54 h:2>
+Citan
+"Emeralda is here as well."<Close><End of Block>
+<TextBlock 52 w:0 h:1>
+<Close><End of Block>

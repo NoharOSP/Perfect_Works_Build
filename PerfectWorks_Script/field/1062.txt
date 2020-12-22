@@ -1,0 +1,83 @@
+<TextBlock 1 w:44 h:3>
+Fei
+"Using this crane as a
+boost..."<Close><End of Block>
+<TextBlock 2 w:34 h:2>
+Fei
+"What's this...?"<Close><End of Block>
+<TextBlock 3 w:14 h:2>
+Fei
+"Whoa!"<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:28 h:2>
+Fei
+"Scared me..."<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+"Go out once.
+By the time you return,
+I'll reset it."<Close><End of Block>
+<TextBlock 6 w:26 h:2>
+    Switch on
+    Forget it<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Damn, why isn't it
+moving?<Delay 30> How am I supposed
+to get the cargo out?<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+If we move the crane
+up here, maybe we could
+use it as a step so we
+can get in further.<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+The crane is out of
+order. Once it starts
+moving, it won't stop
+until it hits something.<New>
+It'll move by that
+panel to the left, but
+you'll only be able to
+move it left or right.<Close><End of Block>
+<TextBlock 10 w:38 h:2>
+You can't take that
+without permission!<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+He's back, I know it.<New>
+But his soul's not...<Delay 40>
+or his...hands...legs...<Delay 40>
+It's horrible...<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Is that old man in charge
+of the railway in D Block
+still there? I owe him a
+big favor.<Close><End of Block>
+<TextBlock 13 w:52 h:2>
+The hell you tryin' to do?
+Kill somebody!?<Opcode 2 40><Close><End of Block>
+<TextBlock 14 w:54 h:4>
+Please don't tell me to
+go down to the Gear dock!<New>
+How that supply train
+shakes! Just thinking about
+it makes me<Delay 40>...<Delay 30>
+...ulp!<Close><End of Block>
+<TextBlock 15 w:54 h:3>
+Hey, I'll give you that
+stuff over there if you
+don't tell anyone I'm here.<Close><End of Block>
+<TextBlock 16 w:38 h:1>
+"Nothing useful..."<Close><End of Block>
+<TextBlock 17 w:36 h:1>
+"Wow! Hey this..."<Close><End of Block>
+<TextBlock 18 w:18 h:1>
+"Darn..."<Close><End of Block>
+<TextBlock 19 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 20 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 21 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 22 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

@@ -1,0 +1,119 @@
+<TextBlock 1 w:30 h:4>
+Fei
+"Stop!
+Keep your hands
+off of 'Elly'!"<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Fei
+"Are you alright!?
+Hang in there!"<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Mysterious Woman
+"Errh...<Delay 30>
+Turn around!"<Close><End of Block>
+<TextBlock 4 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 5 w:32 h:3>
+Mysterious Woman
+"I said...
+turn around!"<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Fei
+"...Are you shaking?"<Close><End of Block>
+<TextBlock 7 w:32 h:2>
+Mysterious Woman
+"Be quiet!"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Mysterious Woman
+"...You don't seem to be
+one of the Kislev soldiers
+who are after me...<Delay 50>but..."<Opcode 2 100><Close><End of Block>
+<TextBlock 9 w:32 h:2>
+Mysterious Woman
+"Don't move!"<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Mysterious Woman
+"I have orders to kill all
+surface dwellers, -Lambs-,
+I come in contact with...<New>
+It's part of my mission.
+It's nothing personal."<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Mysterious Woman
+"I have a question for you.<Delay 40>
+...How do I get out of this
+forest?"<Close><End of Block>
+<TextBlock 12 w:34 h:2>
+Fei
+"Are you...lost?"<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Mysterious Woman
+"Just answer my question!
+How do I get out of here?"<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Fei
+"Sorry...
+but I'm looking for the
+way out of here too."<Close><End of Block>
+<TextBlock 15 w:32 h:2>
+Mysterious Woman
+"Oh..."<Close><End of Block>
+<TextBlock 16 w:40 h:4>
+Fei
+"How long are you
+just going to stand
+there like that?<New>
+If you're going to
+shoot me, then hurry
+up and do it."<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Mysterious Woman
+"What an odd thing to say!
+Don't you understand the
+situation you are in?"<Close><End of Block>
+<TextBlock 18 w:40 h:4>
+Fei
+"I don't care about
+my situation...<New>
+I'm just a guy whose
+life is worthless...
+There's no point in
+me living anyway!"<Close><End of Block>
+<TextBlock 19 w:34 h:2>
+Mysterious Woman
+"Sta, <Delay 10>stay back!"<Opcode 2 60><Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Fei
+"What are you aiming at?<Delay 30> 
+Here! Shoot me here!<Delay 50>
+C'mon..."<Close><End of Block>
+<TextBlock 21 w:40 h:3>
+Mysterious Woman
+"Are...<Delay 10>
+are you mocking me?"<Opcode 2 80><Close><End of Block>
+<TextBlock 22 w:32 h:3>
+Mysterious Woman
+"What's this?
+Who are you?"<Opcode 2 30><Close><End of Block>
+<TextBlock 23 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 24 w:4 h:1>
+-5<Opcode 2 10><Close><End of Block>
+<TextBlock 25 w:32 h:2>
+Mysterious Woman
+"You're weird!"<Opcode 2 80><Close><End of Block>
+<TextBlock 26 w:34 h:3>
+Mysterious Woman
+"Something's very
+wrong with you!"<Opcode 2 30><Close><End of Block>
+<TextBlock 27 w:42 h:3>
+Mysterious Woman
+"You should at least
+resist a little bit!"<Opcode 2 80><Close><End of Block>
+<TextBlock 28 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 29 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

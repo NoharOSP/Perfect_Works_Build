@@ -1,0 +1,173 @@
+<TextBlock 1 w:28 h:2>
+Elly
+"That Gear..."<Opcode 2 24><Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Elly
+"...I know, I know it
+well... Yes...the cavern
+city Zeboim...<New>
+When we were buried in
+that vast mausoleum."<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Elly
+"Huh?...What?<New>
+...<Delay 32>Did I just..."<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Citan
+"That voice...<Delay 25>Wiseman!<New>
+...<Delay 32>
+...Go!!
+Everyone, hurry!"<Close><End of Block>
+<TextBlock 5 w:32 h:3>
+Citan
+"Elly!
+Elly!<New>
+What is wrong!!"<Close><End of Block>
+<TextBlock 6 w:32 h:3>
+Citan
+"No...<Delay 32>
+Hurry on ahead."<Close><End of Block>
+<TextBlock 7 w:30 h:3>
+Citan
+"Bishop Stone!!
+Wait!!"<Close><End of Block>
+<TextBlock 8 w:26 h:2>
+Bart
+"Hey, Citan!"<Opcode 2 24><Close><End of Block>
+<TextBlock 9 w:56 h:3>
+Bart
+"A city...
+A city beneath the ground...<New>
+Is this...a ruin too?"<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Bart
+"...That Gear..."<Opcode 2 32><Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Bart
+"Who the hell are you?<New>
+I haven't forgotten to
+pay you back for what you
+did to the Yggdrasil! At
+least give us your name!!"<Close><End of Block>
+<TextBlock 12 w:28 h:3>
+Bart
+"Too strong...<Delay 32>
+Huh?"<Close><End of Block>
+<TextBlock 13 w:26 h:2>
+Billy
+"What the..."<Opcode 2 24><Close><End of Block>
+<TextBlock 14 w:38 h:3>
+Billy
+"These are ruins of
+a city...<New>
+I've heard of it
+but..."<Close><End of Block>
+<TextBlock 15 w:34 h:4>
+Billy
+"Who are you?
+At least give us 
+your name!"<Close><End of Block>
+<TextBlock 16 w:34 h:3>
+Billy
+"You're strong...<Delay 32>
+Huh?"<Close><End of Block>
+<TextBlock 17 w:36 h:3>
+Rico
+"Hey! Citan!
+...Ah, nevermind."<Opcode 2 32><Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Rico
+"!!!?<Delay 16>
+What the hell!<New>
+We're supposed to be 
+underground, how'd we 
+end up in the air?"<Close><End of Block>
+<TextBlock 19 w:14 h:3>
+Rico
+"!!!?<Delay 16>
+Him..."<Opcode 2 32><Close><End of Block>
+<TextBlock 20 w:34 h:3>
+Rico
+"You're strong...<Delay 32>
+Huh?"<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+Rico
+"Who d'ya think you are?
+What's your name?"<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+<Chu-Chu>
+"Wow! Neato!!
+There's more ground
+underground chu!"<Close><End of Block>
+<TextBlock 23 w:30 h:3>
+Give it back,
+give it back,
+give it back...<Opcode 2 45><Close><End of Block>
+<TextBlock 24 w:46 h:3>
+Wiseman
+"I got him!
+Hurry, go after them!!"<Close><End of Block>
+<TextBlock 25 w:28 h:3>
+Wiseman
+"Huh?
+...Oh...no..."<Close><End of Block>
+<TextBlock 26 w:50 h:4>
+Stone
+"Hah.
+Elements, you're not even
+as good as they say...<New>
+Can't even buy me some
+time."<Close><End of Block>
+<TextBlock 27 w:10 h:2>
+Stone
+"?"<Close><End of Block>
+<TextBlock 28 w:42 h:3>
+Stone
+"W, what do you want?
+Wh, who're you?"<Close><End of Block>
+<TextBlock 29 w:46 h:3>
+Stone
+"Now is our chance!!
+Get back to Krelian..."<Close><End of Block>
+<TextBlock 30 w:36 h:3>
+Ha hah...<Delay 32>
+Hyah ha ha...<Delay 42>
+Har hahahahahaha!!<Close><End of Block>
+<TextBlock 31 w:28 h:3>
+Ha ha...
+That is mine.
+Give it back!!<Close><End of Block>
+<TextBlock 32 w:40 h:2>
+To you, it is just a
+used up toy.<New>
+So give it back.
+It belongs to me..."<Close><End of Block>
+<TextBlock 33 w:50 h:2>
+Names do not matter...<New>
+However, if you insist...<Delay 50>
+...Id...<Close><End of Block>
+<TextBlock 34 w:28 h:3>
+Id
+"!!<Delay 32>
+...You...?..."<Close><End of Block>
+<TextBlock 35 w:46 h:3>
+Id
+"Hmph, a little early
+isn't it?<New>
+...I see, it was that
+woman...<New>
+Fine.
+You will do fine, as my
+toy...for today."<Close><End of Block>
+<TextBlock 36 w:34 h:3>
+Id
+"Hah ha
+Hyah ha ha ha..."<Close><End of Block>
+<TextBlock 37 w:18 h:2>
+Id
+"Hmph..."<Close><End of Block>
+<TextBlock 38 w:32 h:1>
+...Give it back.<Opcode 2 32><Close><End of Block>
+<TextBlock 39 w:30 h:2>
+Give it back,
+give it back...<Opcode 2 50><Close><End of Block>

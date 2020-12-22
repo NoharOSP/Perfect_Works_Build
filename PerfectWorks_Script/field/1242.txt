@@ -1,0 +1,272 @@
+<TextBlock 1 w:46 h:3>
+Ya know, awhile ago,
+I found treasure that's
+thi<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 20>s<Delay 30> big.<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+What're you talkin'
+about? I found one that's
+thi<Delay 3>-<Delay 3>-<Delay 3><Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 20>s<Delay 30> big!<Close><End of Block>
+<TextBlock 3 w:38 h:2>
+I found one that's <Delay 30>
+thi<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 100><Close><End of Block>
+<TextBlock 4 w:42 h:2>
+...-<Delay 3>-<Delay 3>-<Delay 3>s...<Delay 20>pant...<Delay 20>pant<Delay 20>
+...big.<Close><End of Block>
+<TextBlock 5 w:30 h:3>
+Well I got one <Delay 30>
+thi-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>
+-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 100><Close><End of Block>
+<TextBlock 6 w:50 h:3>
+...-<Delay 3>-<Delay 3>-<Delay 3>s...<Delay 30>pant...<Delay 30>pant...<Delay 30>
+pant<Delay 30>...<Delay 60>? Huh?<Delay 30>
+What was I talkin' about?<Close><End of Block>
+<TextBlock 7 w:10 h:1>
+HEY!!<Delay 100><Close><End of Block>
+<TextBlock 8 w:22 h:2>
+Oh noooooo!
+B...boss!!<Opcode 2 80><Close><End of Block>
+<TextBlock 9 w:34 h:2>
+You have too many
+Micas.<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+ 
+ Received a Mica.<Close><End of Block>
+<TextBlock 11 w:34 h:2>
+You have too many
+Lunar Rods.<Close><End of Block>
+<TextBlock 12 w:44 h:2>
+ 
+ Received a Lunar Rod.<Close><End of Block>
+<TextBlock 13 w:34 h:2>
+You have too many
+SerpentGWhips.<Close><End of Block>
+<TextBlock 14 w:48 h:2>
+ 
+Received a SerpentGWhip.<Close><End of Block>
+<TextBlock 15 w:34 h:2>
+You have too many
+D Circuits.<Close><End of Block>
+<TextBlock 16 w:44 h:2>
+ 
+ Received a D Circuit.<Close><End of Block>
+<TextBlock 17 w:38 h:3>
+Not quite!!
+You thought there'd
+be treasure.<Close><End of Block>
+<TextBlock 18 w:34 h:1>
+Whoa, a customer?<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Whoa, a customer?
+We've got a lot of new
+parts.<Close><End of Block>
+<TextBlock 20 w:34 h:1>
+Well, come again.<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+...<Delay 30>You're
+awesome! You're probably
+the best salvager in the
+world...<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+R...really?
+Looks like you're finally
+beginning to appreciate
+my greatness.<Close><End of Block>
+<TextBlock 23 w:46 h:4>
+They say that girl is
+crazy about treasure.<New>
+Someday, I'll become a
+world renowned treasure
+hunter and give her all
+my treasure.<Close><End of Block>
+<TextBlock 24 w:36 h:2>
+I wonder what they
+brought in today?<Close><End of Block>
+<TextBlock 25 w:18 h:2>
+Cranes...<Delay 30>
+are cool!<Close><End of Block>
+<TextBlock 26 w:44 h:4>
+Hey pal, will ya
+listen to my problems?
+    Sure
+    Nah<Close><End of Block>
+<TextBlock 27 w:54 h:4>
+Until recently, I've always
+wanted to be a seaman and
+navigate the Thames!!
+That was my plan...<New>
+But, lookin' at all that
+treasure and stuff bein'
+moved around...<New>
+...Well, it made me wanna
+become a master crane
+operator so I could control
+that machine at my will...<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+What'ya think I should do?
+    Become a crane master
+    Be a seaman
+    I don't know<Close><End of Block>
+<TextBlock 29 w:42 h:2>
+Yeah, you're right...
+a crane master.<Close><End of Block>
+<TextBlock 30 w:42 h:2>
+Yeah, you're right...
+a seaman.<Close><End of Block>
+<TextBlock 31 w:42 h:3>
+Yeah, you're right...
+It'd be best if I
+decided myself.<Close><End of Block>
+<TextBlock 32 w:50 h:3>
+Hmph! Don't need your
+help. I can figure it out
+on my own.<Close><End of Block>
+<TextBlock 33 w:44 h:3>
+The other day, I saw
+a Gear fighting and<New>
+it made me want to be
+a Gear pilot...sigh...
+So many choices.<Close><End of Block>
+<TextBlock 34 w:50 h:3>
+Humph! Him... He's always
+drinkin' in the middle
+of the day!<Close><End of Block>
+<TextBlock 35 w:46 h:3>
+Oh yeah!!! <Delay 30>
+I...don't need ta do no
+job..bu!<Close><End of Block>
+<TextBlock 36 w:46 h:3>
+Yeah!!! <Delay 30>
+I...on't nee..tooo...do
+...job...<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+This gun is totally
+coooool! With this, I can
+blow away any bad guy!<New>
+BAM! <Delay 15>
+BLAM! <Delay 15>BOOM! <Delay 15>
+Just thinking about it
+gives me a rush!<Close><End of Block>
+<TextBlock 38 w:50 h:3>
+That's it! I'm gonna
+be a Wels hunter!
+BLAM! <Delay 15>BAM! <Delay 15>KABLAM!<New>
+Wast'em all! Just call me
+the Wels Lady Hunter...<Close><End of Block>
+<TextBlock 39 w:42 h:2>
+Hmmm...I've got a bad
+feeling about this...<Close><End of Block>
+<TextBlock 40 w:58 h:4>
+This new job the 'Ethos' sent
+me on is my first BIG job.
+I'm a little worried whether
+I'll be able to do it or not.<New>
+They want me to go down
+deeeep and get something
+unimaginably big. Something
+awesome's down there.<Close><End of Block>
+<TextBlock 41 w:48 h:3>
+That job from the
+'Ethos' was ruined.<New>
+Unfortunately, I'll have
+to delay that job...but
+I'm a bit relieved.<Close><End of Block>
+<TextBlock 42 w:60 h:2>
+This is the supply entrance...
+Uh, I already told you that.<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+This is the supply
+entrance.<New>
+This is where all the
+treasure, armor and other
+materials are brought up
+from the sea.<Close><End of Block>
+<TextBlock 44 w:48 h:3>
+This is the supply
+entrance...Uh,
+I already told you that.<Close><End of Block>
+<TextBlock 45 w:50 h:4>
+This is the supply
+entrance.<New>
+This is where all the
+treasure, armor and other
+materials are brought up
+from the sea.<Close><End of Block>
+<TextBlock 46 w:34 h:1>
+<Opcode 10 0> OK. <Opcode 2 80><Close><End of Block>
+<TextBlock 47 w:34 h:2>
+Out of the way!
+Let me do my job!<Close><End of Block>
+<TextBlock 48 w:46 h:4>
+My job is to watch over
+the supplies that pass 
+through here. I check
+everything.<New>
+Isn't it an important
+job?
+    Yes
+    No<Close><End of Block>
+<TextBlock 49 w:34 h:3>
+Really? Then
+out of the way!
+Let me do my job!<Close><End of Block>
+<TextBlock 50 w:46 h:4>
+What!? You're saying
+my job ain't important?
+Without me...
+<Delay 3>...<Delay 3>...<Delay 3>...<Delay 3>...<Delay 3>...<Delay 3>...<Delay 3>...<Delay 3><New>
+...<Delay 3>...<Delay 3>...
+A N Y W A Y!! My job is
+of extraordinary
+magnitude!! Move! <New>
+I gotta do my job!<Close><End of Block>
+<TextBlock 51 w:46 h:4>
+Man! Just when I
+thought I could get all
+the treasure from that
+excavation out of this<New>
+supply entrance...<Close><End of Block>
+<TextBlock 52 w:42 h:4>
+Darn!
+This sucks.
+But I'll give this to
+you anyway.<Close><End of Block>
+<TextBlock 53 w:48 h:2>
+ 
+ Received Super Goggles.<Close><End of Block>
+<TextBlock 54 w:24 h:2>
+Huh?
+What a wimp.<Close><End of Block>
+<TextBlock 55 w:42 h:2>
+Hmph, you've
+had enough for today.<Close><End of Block>
+<TextBlock 56 w:46 h:4>
+Wait a minute, you want
+me to show you?
+    Yes
+    No<Close><End of Block>
+<TextBlock 57 w:18 h:3>
+For real?
+    Yes
+    No<Close><End of Block>
+<TextBlock 58 w:28 h:3>
+Really really?
+    Yes
+    No<Close><End of Block>
+<TextBlock 59 w:36 h:2>
+Hmph, go away.
+I'm busy training.<Close><End of Block>
+<TextBlock 60 w:28 h:2>
+Whaaaaat?
+You're a wimp.<Close><End of Block>
+<TextBlock 61 w:32 h:2>
+Oh alright!
+I'll teach you!!<Close><End of Block>
+<TextBlock 62 w:20 h:2>
+Well then,
+en garde!!<Close><End of Block>
+<TextBlock 63 w:52 h:3>
+This supply
+entrance has 4
+treasure boxes. <New>
+They're in plain view, but
+can you get them all?<Close><Close><End of Block>

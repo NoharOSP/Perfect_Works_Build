@@ -1,0 +1,41 @@
+<TextBlock 1 w:50 h:3>
+Elly
+"I do not think we should
+leave Shevat just yet."<Close><End of Block>
+<TextBlock 2 w:36 h:4>
+Citan
+"Fei,<Delay 20>
+where do you think
+you are going?"<Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Bart
+"You're not saying we
+should get out of here
+already, are you?"<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Rico
+"Fei, we have no business
+being here now."<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Billy
+"Let's go back.<Delay 20>
+There're things we ought
+to do first."<Close><End of Block>
+<TextBlock 6 w:44 h:3>
+Emeralda
+"...<Delay 20>
+What are we here for?"<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+<Chu-Chu>
+"It's chu dark in here.<Delay 20>
+<Chu-Chu> doesn't like
+dark places."<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Maria
+"Let's go.<Delay 20>
+We mustn't waste time
+in a place like this."<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Do you want to go up?
+    Yes
+    No<Close><Close><End of Block>

@@ -1,0 +1,95 @@
+<TextBlock 1 w:52 h:5>
+Which mission will you do?<Delay 20>
+    The Generator 1
+    The Generator 2
+    The Generator 3
+    The Generator 4 <Close><End of Block>
+<TextBlock 2 w:40 h:4>
+This enemy unit has
+already been driven
+back.<Delay 20> Choose another
+generator.<Close><End of Block>
+<TextBlock 3 w:40 h:4>
+This enemy unit has
+already been driven
+back.<Delay 20> Choose another
+generator.<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+This enemy unit has
+already been driven
+back.<Delay 20> Choose another
+generator.<Close><End of Block>
+<TextBlock 5 w:40 h:4>
+This enemy unit has
+already been driven
+back.<Delay 20> Choose another
+generator.<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+Want to check your
+equipment?<Delay 20>
+    Yes
+    No<Close><End of Block>
+<TextBlock 7 w:36 h:4>
+Want to check your
+equipment?<Delay 20>
+    Yes
+    No<Close><End of Block>
+<TextBlock 8 w:36 h:4>
+Want to check your
+equipment?<Delay 20>
+    Yes
+    No<Close><End of Block>
+<TextBlock 9 w:36 h:4>
+Want to check your
+equipment?<Delay 20>
+    Yes
+    No<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Fei
+"Alright, I can do it!<Delay 20>
+I'm ready anytime!"<Close><End of Block>
+<TextBlock 11 w:38 h:3>
+Citan
+"I will be your
+opponent.<Delay 20> Come on!"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Elly
+"I don't have anything
+against you, but I can't
+turn back now!"<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Bart
+"Come on! Who's gonna be 
+first?<New>
+There's no way a pathetic
+unit like yours could ever
+beat the likes of me!!"<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Rico
+"Hmph!<Delay 20> I'll take you all
+down at once!!"<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Billy
+"Rest in peace, agents of
+evil. May all of you turn
+to dust."<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Fei
+"We did it!<Delay 20>
+All four Gate Generators
+are safe!"<Close><End of Block>
+<TextBlock 17 w:42 h:3>
+We're under emergency
+conditions now.<Delay 20>
+You can't go in.<Close><End of Block>
+<TextBlock 18 w:42 h:2>
+<Opcode 1 255>Old Capital of Shevat
+    Aphel Aura<Close><End of Block>
+<TextBlock 19 w:26 h:2>
+<Opcode 1 255> Entrance to
+Shevat Palace<Close><End of Block>
+<TextBlock 20 w:36 h:1>
+Found a Dawn Rock!<Close><End of Block>
+<TextBlock 21 w:42 h:2>
+<Opcode 1 255>  Shevat Lower Floor
+Central Dock Entrance<Close><End of Block>

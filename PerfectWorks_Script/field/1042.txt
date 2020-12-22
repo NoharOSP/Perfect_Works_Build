@@ -1,0 +1,513 @@
+<TextBlock 1 w:50 h:4>
+Fei
+"<Delay 5>...<Delay 5>I am Fei Fong Wong.<Delay 15>
+And what's your name?<New>
+I know it's not really
+'Champ'?
+I at least have the right
+to know that much<Delay 5>..."<Close><End of Block>
+<TextBlock 2 w:42 h:1>
+No good. It's locked.<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Suzarn
+"Champ, we've brought
+him to you."<Close><End of Block>
+<TextBlock 4 w:30 h:3>
+Suzarn
+"Why you...!? 
+How insolent!!"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+A man called 'Champ'
+"Thanks Suzarn.<Delay 20>
+Hmmm, so you're the
+new inmate<Delay 5>...<New>
+We don't know or care what
+you did to get put in here,
+but welcome to D Block<Delay 5>...<Delay 5>
+So what name do you go by?"<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+Champ
+"Calm down Suzarn.
+I don't mind<Delay 5>...<Delay 30>
+The name's Rico."<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Rico
+"Kid<Delay 5>...<Delay 5>
+It's good to have guts<Delay 5>...<Delay 5>
+if it's the real thing<Delay 5>...<New>
+We know it's a bit sudden,
+but we need to see how
+strong you really are<Delay 5>..."<Close><End of Block>
+<TextBlock 8 w:22 h:2>
+Rico
+"Heinrich!"<Close><End of Block>
+<TextBlock 9 w:18 h:2>
+Rico
+"Vargas!"<Close><End of Block>
+<TextBlock 10 w:22 h:2>
+Rico
+"Leonardo!"<Close><End of Block>
+<TextBlock 11 w:18 h:2>
+Rico
+"Suzarn!"<Close><End of Block>
+<TextBlock 12 w:54 h:3>
+Rico
+"Let's begin his 'Baptism'!
+Take him outside!"<Close><End of Block>
+<TextBlock 13 w:30 h:3>
+Hammer
+"B,b, <Delay 5>bro-!!<Delay 15>
+Are you he-re?"<Opcode 2 45><Close><End of Block>
+<TextBlock 14 w:56 h:4>
+Rue
+"Anyway...
+This room is yours to use.<Delay 15>
+Next door is your bedroom.<New>
+Oh<Delay 5>...<Delay 5>and, Fei.<Delay 15>
+Now you will be given the
+title of Champion<Delay 5> as well as
+special S Rank priviledges."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Rue
+"Well, congratulations
+on winning the Battling
+championship<Delay 5>...<New>
+We were able to take some
+very good data<Delay 5>...<Delay 5>
+Ha ha hm.<Delay 30>
+One more thing, <Delay 5>good news.<New>
+Kaiser Sigmund would like 
+to meet you, Champion Fei.<New>
+Please stop by the Central
+Administrative District.<Close><End of Block>
+<TextBlock 16 w:38 h:2>
+Rue
+"Well<Delay 5>...<Delay 5> good bye."<Close><End of Block>
+<TextBlock 17 w:40 h:4>
+Fei
+"There is still some
+time until the train
+passes by<Delay 5>..."<Close><End of Block>
+<TextBlock 18 w:46 h:4>
+Citan
+"Well,<Delay 5> if everything is
+ready then,<Delay 5> why not
+take a light nap?"<Close><End of Block>
+<TextBlock 19 w:48 h:4>
+Citan
+"So, you are now free in
+both name and<Delay 15>...<Delay 5>reality,<Delay 5>
+right?"<Close><End of Block>
+<TextBlock 20 w:36 h:4>
+Hammer
+"So, <Delay 5>what are you
+gonna do now, <Delay 5>bro?<Delay 15>
+Leave Nortune?"<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Citan
+"We are not yet finished.
+There is one thing left
+to do here."<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Fei
+"<Delay 5>...<Delay 5>I know.<Delay 15>
+It's <Weltall>, right?<New>
+We can't just leave
+it here.<Delay 15>
+We have to get it 
+back somehow<Delay 5>..."<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Citan
+"It is best if we assume
+<Weltall> has been moved
+to a different dock<Delay 5>..."<Close><End of Block>
+<TextBlock 24 w:40 h:4>
+Citan
+"So,<Delay 5> I guess that is
+where you come in,<Delay 5>
+... <Delay 10>Hammer!"<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Hammer
+"Got it,<Delay 5> doctor!<New>
+I'll find out where your
+Gear is... I'll bet my name
+as the 'Imperial capital's 
+No.1 Supplier' on it!"<Close><End of Block>
+<TextBlock 26 w:44 h:3>
+Fei
+"Okay then, let's
+work separately.<New>
+I'll work by myself,<Delay 10>
+while you,<Delay 5> Hammer and
+doc,<Delay 5> work together<Delay 5>..."<Close><End of Block>
+<TextBlock 27 w:44 h:4>
+Hammer
+"Bro,<Delay 5> don't you trust
+me or something?<New>
+I work better alone!<Delay 15>
+Nothing against Citan,
+but he'll just get in
+the way, <Delay 5>bro."<Close><End of Block>
+<TextBlock 28 w:50 h:3>
+Hammer
+"So then<Delay 5>...<Delay 5>
+just leave it to me,<Delay 5> OK!"<Opcode 2 60><Close><End of Block>
+<TextBlock 29 w:32 h:2>
+Fei
+"That Hammer<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 30 w:28 h:4>
+Citan
+"<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 15>
+We should make
+a move too."<Close><End of Block>
+<TextBlock 31 w:48 h:3>
+Fei
+"<Delay 5>...<Delay 5> This room!?<Delay 15>
+This is the Champ's<Delay 5>...?"<Close><End of Block>
+<TextBlock 32 w:48 h:5>
+Rue
+"Yes, <Delay 5>the room given to 
+the Champion<Delay 5>...<Delay 15> 
+Is it not to your
+satisfaction?"<Close><End of Block>
+<TextBlock 33 w:40 h:3>
+Fei
+"No, <Delay 5>it's not that.
+What about Rico<Delay 5>...?"<Close><End of Block>
+<TextBlock 34 w:56 h:4>
+Rue
+"<Delay 5>...<Delay 5> Rico?<Delay 15>
+He's the 'ex-Champion'<Delay 5>...<Delay 15>
+Now you are 'the Champion'!"<Close><End of Block>
+<TextBlock 35 w:38 h:3>
+Fei
+"But,<Delay 5> what happened
+to him<Delay 5>...?"<Close><End of Block>
+<TextBlock 36 w:56 h:5>
+Rue
+"After the Finals League,
+during the group league
+bouts, his Gear went out
+of control.<New>
+The out of control Gear
+crashed into the Kaiser's
+box seat,<Delay 5> and was damaged.<New>
+Nothing has been heard
+from the former Champion,
+Ricardo,<Delay 10> and no one has seen
+him since the incident<Delay 5>..."<Close><End of Block>
+<TextBlock 37 w:16 h:2>
+Fei
+"<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>."<Close><End of Block>
+<TextBlock 38 w:52 h:5>
+Rue
+"There are no Battling
+competitions for a while
+so you can rest up a bit.<New>
+The explosive collar has
+been removed.<Delay 15>
+How about taking a walk
+around 'A Block' - the
+civilian area of Nortune?"<Close><End of Block>
+<TextBlock 39 w:32 h:3>
+Fei
+"<Delay 5>...<Delay 5>'A Block'...
+civilian area?"<Close><End of Block>
+<TextBlock 40 w:54 h:5>
+Rue
+"The southeast part of
+the Imperial capital...<Delay 15>
+It is called A Block or the
+ordinary civilian area<Delay 5>..."<Close><End of Block>
+<TextBlock 41 w:40 h:3>
+Rue
+"Well then,<Delay 5> we shall
+take our leave<Delay 5>..."<Close><End of Block>
+<TextBlock 42 w:36 h:3>
+Fei
+"So<Delay 5>...<Delay 5> what do you
+want with us?"<Close><End of Block>
+<TextBlock 43 w:50 h:3>
+Amazoness
+"The Champ<Delay 5>...<Delay 5>no I mean<Delay 5>...<Delay 15>
+Rico needs your help."<Close><End of Block>
+<TextBlock 44 w:46 h:2>
+Citan
+"Help<Delay 5> the Champion<Delay 5>...?"<Close><End of Block>
+<TextBlock 45 w:36 h:3>
+Fei
+"Hang on,<Delay 15>
+what do you mean?"<Close><End of Block>
+<TextBlock 46 w:58 h:4>
+Battler
+"Y'know what just happened...<Delay 15>
+The special broadcast on the
+dorm's vid by the Committee!"<Close><End of Block>
+<TextBlock 47 w:56 h:6>
+Battler
+"Yeah, y'know, the broadcast
+said somthin' like this<Delay 5>...<New>
+This evening,<Delay 5> the former
+Champion was found guilty
+of attempting to assassinate
+the Kaiser,<Delay 5> as well as
+breaking Imperial Code
+section B<Delay 5>..."<Close><End of Block>
+<TextBlock 48 w:58 h:2>
+Thus,<Delay 15> a public execution
+will be held at the arena<Delay 15>..."<Close><End of Block>
+<TextBlock 49 w:54 h:3>
+Fei
+"Yes, I know he got caught,<Delay 5>
+and was arrested<Delay 5>...<New>
+But,<Delay 5> what's this about an
+attempted assassination
+of the Kaiser!?"<Close><End of Block>
+<TextBlock 50 w:54 h:4>
+Battler
+"Those committee members<Delay 5>...<Delay 15>
+The Champ probably got in
+their way somehow<Delay 5>..."<Close><End of Block>
+<TextBlock 51 w:32 h:3>
+Citan
+"<Delay 5>...<Delay 5>The Battling
+Committee?"<Close><End of Block>
+<TextBlock 52 w:52 h:4>
+Amazoness
+"The Battling Committee is
+made up mostly of people
+from the 'Ethos'.<New>
+They used to have a lot of
+pull in the government<Delay 5>...<New>
+But the current Kaiser,
+Sigmund, ousted almost all
+of the 'Ethos' influence
+from the government."<Close><End of Block>
+<TextBlock 53 w:54 h:5>
+Battler
+"On top of that, these
+past few years<Delay 5>...<New>
+In order to strengthen the
+military or something, the
+Kaiser has started to
+interfere with the Battling
+operated by the 'Ethos'."<Close><End of Block>
+<TextBlock 54 w:54 h:5>
+Battler
+"The Kaiser probably got in
+the way of them operating
+the Battling smoothly.<Delay 15>
+So, they used the Champ<Delay 5>..."<Close><End of Block>
+<TextBlock 55 w:28 h:2>
+Fei
+"Why Rico<Delay 5>...?"<Close><End of Block>
+<TextBlock 56 w:54 h:4>
+Amazoness
+"Rico was originally
+born in this town<Delay 5>...<New>
+But because Sigmund whipped
+up anti-demihuman sentiment
+Rico was chased out of this
+town when he was young."<Close><End of Block>
+<TextBlock 57 w:52 h:4>
+Amazoness
+"So Rico hated the Kaiser,
+the capital Nortune, and
+the whole Kislev Empire."<Close><End of Block>
+<TextBlock 58 w:40 h:3>
+Fei
+"And that's why they
+went after Rico<Delay 5>..."<Close><End of Block>
+<TextBlock 59 w:54 h:4>
+Battler
+"In the past, the Champ has
+had many chances to kill
+the Kaiser.<New>
+That the earlier crash into
+the box seat was disguised
+as an accident<Delay 5>..."<Close><End of Block>
+<TextBlock 60 w:44 h:5>
+Amazoness
+"But that failed too.
+The committee, fearing
+being exposed, used
+Rico<Delay 5>..."<Close><End of Block>
+<TextBlock 61 w:38 h:4>
+Battler
+"The Champ is being
+manipulated by the
+committee.<New>
+Please, <Delay 5>Fei!
+Help the Champ."<Close><End of Block>
+<TextBlock 62 w:38 h:4>
+Battler
+"Now,<Delay 5> you are the
+Battling Champ, <Delay 15>but
+our Champ is<Delay 5>...<Opcode 2 60><Close><End of Block>
+<TextBlock 63 w:50 h:4>
+Hammer
+"<Delay 5>...<Delay 5>Wha?<Delay 15>
+Hey bro, <Delay 5>what are you
+doing talking with them?"<Close><End of Block>
+<TextBlock 64 w:44 h:2>
+Fei
+"Hold on a minute.<New>
+Hammer, <Delay 5>tell me about 
+those supply trains."<Close><End of Block>
+<TextBlock 65 w:50 h:4>
+Hammer
+"Huh?<Delay 10>
+Is it<Delay 5>...<Delay 5>alright?<Delay 15>
+With these outsiders<Delay 5>...?"<Close><End of Block>
+<TextBlock 66 w:44 h:3>
+Citan
+"It is alright,<Delay 5>
+they are our friends."<Close><End of Block>
+<TextBlock 67 w:48 h:4>
+Hammer
+"Oh, <Delay 5>really?<New>
+Well, <Delay 5>okay<Delay 5>...<Delay 15>
+The next supply train's
+operating date is<Delay 5>...<Delay 15>
+tonight!<New>
+But<Delay 5>...<Delay 5>
+if that's too soon,<Delay 15>
+then the next one is<Delay 5>..."<Close><End of Block>
+<TextBlock 68 w:50 h:4>
+Fei
+"Hammer,<Delay 5> did you say that
+a supply train will pass
+by here tonight?"<Close><End of Block>
+<TextBlock 69 w:48 h:4>
+Hammer
+"What? <Delay 10>Tonight?<Delay 15>
+Well<Delay 5> there are trains
+passing through<Delay 5>...<New>
+Um, <Delay 5>but bro...<Delay 15>
+we need a thorough plan.
+Tonight is impossible!"<Close><End of Block>
+<TextBlock 70 w:54 h:4>
+Fei
+"The situation has changed,<Delay 5>
+and so have our plans.<Delay 15>
+We move tonight!!"<Close><End of Block>
+<TextBlock 71 w:40 h:4>
+Hammer
+"We move tonight<Delay 5>...?<Delay 15>
+What the<Delay 5>...?<Delay 5>
+Are you <Delay 5>serious?"<Close><End of Block>
+<TextBlock 72 w:44 h:4>
+Citan
+"<Delay 5>...<Delay 5> Did you hear any
+interesting tidbits of
+information outside?"<Close><End of Block>
+<TextBlock 73 w:52 h:4>
+Hammer
+"Well<Delay 5>...<Delay 15>the dorms are in
+an uproar over that Master
+Rico thing<Delay 5>..."<Close><End of Block>
+<TextBlock 74 w:54 h:4>
+Citan
+"Do you know any details?
+Rico is to be executed at
+the arena, tonight, right?"<Close><End of Block>
+<TextBlock 75 w:40 h:4>
+Hammer
+"Master Rico's going
+to be executed<Delay 5>...<Delay 15>
+is this true?"<Close><End of Block>
+<TextBlock 76 w:42 h:3>
+Fei
+"Didn't you say there
+was one more route?"<Close><End of Block>
+<TextBlock 77 w:56 h:4>
+Hammer
+"Huh?<Delay 15> Oh yeah,<Delay 5> you mean
+via the arena,<Delay 5> right<Delay 5>...<Delay 15>
+Bro!<Delay 5> You're not thinking<Delay 5>..."<Close><End of Block>
+<TextBlock 78 w:42 h:4>
+Fei
+"Yes I am thinking
+exactly that!<New>
+You said it may be
+possible to get out 
+through the Battling 
+Arena,<Delay 5> right?"<Close><End of Block>
+<TextBlock 79 w:34 h:4>
+Citan
+"I see! <Delay 5>Then we 
+probably can help
+the Champion<Delay 5>..."<Close><End of Block>
+<TextBlock 80 w:12 h:2>
+Fei
+"Doc."<Close><End of Block>
+<TextBlock 81 w:40 h:3>
+Citan
+"Hmm<Delay 5>...<Delay 15>
+It might just work!"<Close><End of Block>
+<TextBlock 82 w:42 h:4>
+Hammer
+"Wait a minute!<New>
+Might just work<Delay 5>...?<Delay 15>
+You don't intend to
+just go bursting into
+the arena, do you?"<Close><End of Block>
+<TextBlock 83 w:54 h:4>
+Fei
+"Either way,<Delay 5> we were going
+to escape via the arena,<Delay 5> so
+it's on our way<Delay 5>...<Delay 15> right!?"<Close><End of Block>
+<TextBlock 84 w:42 h:2>
+Amazoness
+"Then that means<Delay 5>...?"<Close><End of Block>
+<TextBlock 85 w:54 h:4>
+Fei
+"No problem. It's just one
+more thing to do on the way
+to getting my Gear back..."<Close><End of Block>
+<TextBlock 86 w:54 h:4>
+Citan
+"Leave the rest to us.<Delay 15>
+And I would like you all to
+go to the arena tonight.<New>
+We will leave Nortune, but
+if they think you were all
+involved with us, I do not
+know what they might do..."<Close><End of Block>
+<TextBlock 87 w:50 h:3>
+Battler
+"We're counting on you
+...<Delay 5>for the Champ's sake."<Opcode 2 45><Close><End of Block>
+<TextBlock 88 w:42 h:3>
+Amazoness
+"Sorry,<Delay 15> we had to ask
+you to do this<Delay 5>..."<Opcode 2 45><Close><End of Block>
+<TextBlock 89 w:44 h:3>
+Battler
+"We really appreciate 
+what you're doing<Delay 5>...<New>
+Here<Delay 5>...<Delay 5>
+Please take this."<Close><End of Block>
+<TextBlock 90 w:30 h:1>
+Received 2000G!<Close><End of Block>
+<TextBlock 91 w:54 h:4>
+Hammer
+"The supply train times,<Delay 5>
+dates and destinations!<Delay 15>
+I got them all... no prob!"<Opcode 2 60><Close><End of Block>
+<TextBlock 92 w:50 h:4>
+Fei
+"Hammer, you hide
+yourself somewhere.<New>
+When we get out into the
+arena, I'm just going to
+go wild in my Gear...<New>
+We'll play it by ear from
+there to escape from the
+Imperial capital<Delay 5>...<Delay 30>
+You got it, Hammer?"<Close><End of Block>
+<TextBlock 93 w:40 h:4>
+Hammer
+"I got you, bro!<Delay 15>
+Show them your stuff
+for me too,<Delay 5> bro!"<Close><Close><End of Block>

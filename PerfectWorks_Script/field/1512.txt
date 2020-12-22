@@ -1,0 +1,855 @@
+<TextBlock 1 w:36 h:3>
+Your Majesty,
+something dreadful
+has...!!<Close><End of Block>
+<TextBlock 2 w:32 h:4>
+Fei
+"Your Majesty...<Delay 20>
+You...
+The child...?"<Close><End of Block>
+<TextBlock 3 w:28 h:4>
+Fei
+"522...!?<Delay 20>
+Is that really
+possible...?"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Fei
+"I see...
+You're quite right.<New>
+But, there's no guarantee
+that you aren't the same
+as Solaris, right?<New>
+Even if Solaris were to be
+defeated, the people of the
+surface may just as well
+encounter a new dominator."<Close><End of Block>
+<TextBlock 5 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 6 w:20 h:2>
+Fei
+"Huh...!?"<Opcode 2 20><Close><End of Block>
+<TextBlock 7 w:44 h:3>
+Fei
+"What was that shaking
+all about...!?"<Close><End of Block>
+<TextBlock 8 w:16 h:2>
+Fei
+"What!?"<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Fei
+"Then should we go down
+with Maria?<New>
+It's the Gebler, right?<Delay 20>
+I'm still ticked off at
+them. I'll take'em on."<Close><End of Block>
+<TextBlock 10 w:32 h:3>
+Fei
+"Then, let's get
+going, Maria."<Close><End of Block>
+<TextBlock 11 w:42 h:4>
+Fei
+"Alright, I got it.<Delay 20>
+Then one of us should
+stay behind."<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Fei
+"Yeah...
+I know, doc.<Delay 20>
+We'll go!<New>
+We're already involved.<Delay 20>
+And, we can't just stand
+by and watch these
+people die."<Close><End of Block>
+<TextBlock 13 w:36 h:3>
+Fei
+"...?<Delay 20>
+Going chu help...?<New>
+<Chu-Chu>, what're
+you doing here?"<Close><End of Block>
+<TextBlock 14 w:54 h:3>
+Fei
+"What am I gonna do...<Delay 20>
+This isn't a game.<New>
+It's dangerous, so go back
+to the Yggdrasil.<Delay 20> Okay,
+<Chu-Chu>? Be a good girl."<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Fei
+"Tch, alright...<Delay 20> Don't come
+crying to me when things
+get outta hand."<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Fei
+"I'll go too.<Delay 20> I'm a little
+concerned if it's Elly."<Close><End of Block>
+<TextBlock 17 w:32 h:4>
+Elly
+"Your Majesty...<Delay 20>
+Y, you...?
+You're the...?"<Close><End of Block>
+<TextBlock 18 w:28 h:4>
+Elly
+"...<Delay 20>
+Yes...
+I understand."<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Bart
+"Thank you for coming...?<Delay 20>
+What is this?
+It's just a kid."<Close><End of Block>
+<TextBlock 20 w:54 h:3>
+Bart
+"Tch.
+Something's not right.<New>
+This fight for independence
+from a tyrant. The battle
+for freedom.<New>
+I see, you make it seem
+like your intentions are
+noble.<New>
+In reality though, maybe
+you're no different than
+Solaris?<New>
+Anyway, I'm too busy with
+trying to take Aveh back
+from that bastard, Shakhan.<New>
+Hate to break this to you,
+but I don't have the time!"<Close><End of Block>
+<TextBlock 21 w:14 h:2>
+Bart
+"Uh..."<Close><End of Block>
+<TextBlock 22 w:52 h:4>
+Rico
+"Hmph... Alright. Your
+story sounds quite noble.<New>
+But, what is there to stop
+Shevat from taking up a
+dictatorship after Solaris
+falls?<New>
+Those taking down the seat
+of power usually become...<New>
+...infatuated with their
+own power and make its
+people suffer.<Close><End of Block>
+<TextBlock 23 w:48 h:3>
+Rico
+"Hmm...<Delay 20>
+I see, now.<New>
+So you want to take down
+our common enemy first."<Close><End of Block>
+<TextBlock 24 w:32 h:3>
+Billy
+"Your Majesty...<Delay 20>
+Y, you...?"<Close><End of Block>
+<TextBlock 25 w:42 h:3>
+<Chu-Chu>
+"Alright! <Chu-Chu>'s
+going chu help too!"<Close><End of Block>
+<TextBlock 26 w:52 h:4>
+<Chu-Chu>
+"Uh hmm... <Chu-Chu>'s not
+a good girl.<Delay 20> I'm in that
+dangerous age right now."<Close><End of Block>
+<TextBlock 27 w:28 h:3>
+<Chu-Chu>
+"And <Chu-Chu>
+can help chu!<New>
+I'm going with
+all of you.<Delay 20>
+Yeah? Yeah?"<Close><End of Block>
+<TextBlock 28 w:54 h:3>
+<Chu-Chu>
+"R, really?<Delay 20>
+They're all here?<New>
+Yaaay! I finally found
+them!! <Chu-Chu>'s friends.
+They're here!!"<Close><End of Block>
+<TextBlock 29 w:46 h:3>
+<Chu-Chu>
+"Now, let's put
+everything into it.<New>
+Everyone, we have chu
+give it our best shot!"<Close><End of Block>
+<TextBlock 30 w:50 h:3>
+Maria
+"Heh, so they call you
+<Chu-Chu> also.<New>
+Many of your friends live
+in this city.<Delay 20> You want to
+go meet them later?"<Close><End of Block>
+<TextBlock 31 w:48 h:3>
+Maria
+"Your Majesty, I will go
+with <Seibzehn>!"<Close><End of Block>
+<TextBlock 32 w:28 h:3>
+Maria
+"Fine...<Delay 20>
+I understand."<Close><End of Block>
+<TextBlock 33 w:48 h:4>
+Maria
+"Yes!<Delay 20>
+<Seibzehn> is ready to
+go any time!"<Close><End of Block>
+<TextBlock 34 w:52 h:3>
+Zephyr
+"Break the Gate and open
+the path to Solaris.<New>
+That will lead to the land
+dweller's freedom.<Delay 20> Please,
+Fei."<Close><End of Block>
+<TextBlock 35 w:40 h:3>
+Zephyr
+"Now go and get some
+rest for now."<Close><End of Block>
+<TextBlock 36 w:44 h:4>
+Zephyr
+"As usual, be careful.<Delay 20>
+And take care of Maria
+for us."<Close><End of Block>
+<TextBlock 37 w:52 h:4>
+Zephyr
+"Have you decided?"<Delay 10>
+    My heart is set!
+    Let me think some more<Close><End of Block>
+<TextBlock 38 w:40 h:4>
+Zephyr
+"Alright.<Delay 20>
+Allow me to hear out
+your decision."<Close><End of Block>
+<TextBlock 39 w:50 h:4>
+Zephyr
+"Take your time and think
+about it to your heart's
+content.<New>
+To make sure there are no
+regrets."<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+Zephyr
+"Thank you for coming such
+a long way.<Delay 20> I am the Queen
+of Shevat, Zephyr."<Close><End of Block>
+<TextBlock 41 w:48 h:4>
+Zephyr
+"I may appear to be like
+this, but I am actually
+522 years old."<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Zephyr
+"Yes...<New>
+I and a select few of the
+vassals have undergone some
+special life-extending
+treatments.<New>
+We were required to
+continue living...<Delay 20> Until
+that final day approaches.<Delay 20>
+Because of one man...<New>
+To continue living...<Delay 20>
+This is our atonement...
+for that tragedy
+500 years ago..."<Close><End of Block>
+<TextBlock 43 w:54 h:4>
+Zephyr
+"Let us discontinue this
+discussion of the past.<New>
+I've heard many things
+about all of you from
+Wiseman.<New>
+Wiseman has been conducting
+his operations on the
+surface under my orders...<New>
+...to keep an eye on that
+man's activities.<New>
+Also, he was ordered to
+bring anyone from the
+surface who would be of
+help to us to Shevat...<New>
+500 years ago we fought
+against Solaris for the
+freedom of the land
+dwellers.<New>
+Even after that, we
+continue to resist Solaris
+although we are short of
+any real power."<Close><End of Block>
+<TextBlock 44 w:50 h:4>
+Zephyr
+"Land dwellers, can you
+find it in your heart
+to help us?<New>
+We must free mankind from
+the grasps of Solaris...<New>
+We must gain true freedom
+and build a peacful world
+to live in."<Close><End of Block>
+<TextBlock 45 w:52 h:4>
+Zephyr
+"Hmm...You are apparently
+nothing like the calm and
+quiet Roni Fatima, Bart.<New>
+Yet, you are so similar to
+Roni at the same time...<Delay 20>
+There is logic behind what
+you say, though."<Close><End of Block>
+<TextBlock 46 w:54 h:4>
+Zephyr
+"However, I tell no lie...<New>
+...when I say we are doing
+this purely for the future
+of the land dwellers.<New>
+If you still cannot believe
+us, then defeat Solaris,
+gain back the independence
+of the land dwellers...<New>
+...and then see if we still
+embrace the heavens
+together.<New>
+The pretexts of the past,
+the discord between
+nations. Why be concerned
+at such a small scale?<New>
+You must look at the bigger
+picture!"<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Zephyr
+"However, I tell no lie...<New>
+...when I say we are doing
+this purely for the future
+of the land dwellers.<New>
+If you still cannot believe
+us, then defeat Solaris,
+gain back the independence
+of the land dwellers...<New>
+...and then see if we still
+embrace the heavens
+together."<Close><End of Block>
+<TextBlock 48 w:54 h:4>
+Zephyr
+"It should do you some good
+if you rest in the palace
+and think about it.<New>
+You must think about what
+you ought to do.<New>
+But remember, Solaris has
+been quite active lately.<Delay 20>
+So we don't have much time
+for leisure."<Close><End of Block>
+<TextBlock 49 w:52 h:4>
+Zephyr
+"As for you, Elly...
+Your family and friends...<New>
+You must understand that
+they will all have to be
+your enemies.<New>
+Without this clear
+understanding...<New>
+...You may be placing your
+companions in a situation
+where it may cost them
+their lives..."<Close><End of Block>
+<TextBlock 50 w:52 h:3>
+Zephyr
+"Very well then.<Delay 20>
+Now go and get some rest."<Close><End of Block>
+<TextBlock 51 w:44 h:3>
+Zephyr
+"What's the meaning of
+this?"<Close><End of Block>
+<TextBlock 52 w:54 h:4>
+Yes! That is...<Delay 20> We have an
+intruder in the dock area!
+The Gate generator has been
+destroyed...!<Close><End of Block>
+<TextBlock 53 w:54 h:2>
+Zephyr
+"What's the damage report?"<Close><End of Block>
+<TextBlock 54 w:50 h:4>
+Y, yes! Sub-systems are
+destroyed...<Delay 20>
+Gate generation has
+dropped 70% from normal!<New>
+We're devoting everything
+to fire fighting and
+repairs...<Delay 20> It will still
+take some time!<Close><End of Block>
+<TextBlock 55 w:46 h:2>
+Zephyr
+"What of the intruder?"<Close><End of Block>
+<TextBlock 56 w:50 h:3>
+Yes, we believe it's just
+a lone Gebler soldier.<New>
+It seems the individual
+has escaped to the number
+17 hangar!<Close><End of Block>
+<TextBlock 57 w:28 h:2>
+Zephyr
+"Maria, wait!"<Close><End of Block>
+<TextBlock 58 w:40 h:3>
+Zephyr
+"It is too dangerous
+to go by yourself."<Close><End of Block>
+<TextBlock 59 w:52 h:4>
+Your Majesty, we have our
+hands full just trying to
+fight the fire on the
+shield generator.<New>
+If someone doesn't do
+something, it's possible
+we'll have more losses...!<Close><End of Block>
+<TextBlock 60 w:46 h:4>
+Zephyr
+"Maria, what can you do
+now when you don't even
+have <Seibzehn>?"<Close><End of Block>
+<TextBlock 61 w:52 h:3>
+Zephyr
+"...
+Is it fine with you, Fei?<New>
+Please take care of Maria.<Delay 20>
+And be careful out there."<Close><End of Block>
+<TextBlock 62 w:48 h:3>
+Who will you leave here?<Delay 20>
+    Leave <Perso2>
+    Leave <Perso3><Close><End of Block>
+<TextBlock 63 w:54 h:1>
+Maria has joined the party!<Close><End of Block>
+<TextBlock 64 w:16 h:2>
+Zephyr
+"Fei..."<Close><End of Block>
+<TextBlock 65 w:38 h:3>
+Zephyr
+"Allow me to put it
+on screen."<Close><End of Block>
+<TextBlock 66 w:54 h:4>
+We are finally able to
+locate and see Solaris
+after destroying the 3
+Gates on the surface.<New>
+However, unless we destroy
+the final main generator on
+the Solaris homeland...<New>
+...we cannot completely
+wipeout their Gate.<Close><End of Block>
+<TextBlock 67 w:52 h:4>
+It seems the intruder has
+escaped to the hangar bay.<Delay 20>
+If something happens to
+<Seibzehn>...!<Close><End of Block>
+<TextBlock 68 w:54 h:4>
+Umm, this may be asking for
+too much, but would it be
+possible to have one of you
+stay behind with the Queen?<Close><End of Block>
+<TextBlock 69 w:52 h:4>
+We do not have the combat
+experience and...<Delay 20>if
+something ever happened to
+the Queen...<Close><End of Block>
+<TextBlock 70 w:42 h:2>
+Maria
+"Was that enemy...!?"<Close><End of Block>
+<TextBlock 71 w:46 h:3>
+Maria
+"Number 17 hangar bay!?<Delay 20>
+<Seibzehn>...!!"<Close><End of Block>
+<TextBlock 72 w:34 h:4>
+Maria
+"But...
+We can't just let
+the spy be...!"<Close><End of Block>
+<TextBlock 73 w:46 h:3>
+Maria
+"I'll be fine.<Delay 20>
+I can go it alone...!!"<Close><End of Block>
+<TextBlock 74 w:14 h:3>
+Maria
+"...!<Delay 20>
+But..."<Close><End of Block>
+<TextBlock 75 w:38 h:3>
+Maria
+"Then, let's all go
+together."<Close><End of Block>
+<TextBlock 76 w:42 h:4>
+Elly
+"Shall I come along?"<Delay 20>
+    Change
+    Don't change<Close><End of Block>
+<TextBlock 77 w:52 h:1>
+Elly has joined the party!<Close><End of Block>
+<TextBlock 78 w:50 h:4>
+Elly
+"Yes...!
+We'll do what we can to
+protect the people here!"<Close><End of Block>
+<TextBlock 79 w:52 h:4>
+Elly
+"Well...
+In all the bustle,
+she somehow tagged along."<Close><End of Block>
+<TextBlock 80 w:38 h:4>
+Elly
+"Yes...<Delay 20>
+I can guide you...
+through Solaris..."<Close><End of Block>
+<TextBlock 81 w:44 h:4>
+Elly
+"What are you...?<Delay 20>
+Wait, I didn't mean it
+like..."<Close><End of Block>
+<TextBlock 82 w:14 h:3>
+Elly
+"...<Delay 30>
+Yes..."<Close><End of Block>
+<TextBlock 83 w:44 h:4>
+Bart
+"You want me to come?"<Delay 20>
+    Change
+    Don't change<Close><End of Block>
+<TextBlock 84 w:52 h:1>
+Bart has joined the party!<Close><End of Block>
+<TextBlock 85 w:50 h:4>
+Bart
+"I don't like the idea of
+working for free...<New>
+...but I don't like the
+idea of turning tail and
+running from them even
+more!<New>
+Let's do it!<Delay 20> It doesn't
+matter who they are. I'll
+take'em all down in my
+<Brigandier>!!"<Close><End of Block>
+<TextBlock 86 w:44 h:4>
+Billy
+"Should I come along?"<Delay 20>
+    Change
+    Don't change<Close><End of Block>
+<TextBlock 87 w:54 h:1>
+Billy has joined the party!<Close><End of Block>
+<TextBlock 88 w:52 h:4>
+Billy
+"I will go too!<Delay 20> The enemy
+was able to get in because
+they let the Yggdrasil in.<New>
+We can't allow the people
+of this country to be in
+danger because of us..."<Close><End of Block>
+<TextBlock 89 w:48 h:3>
+Billy
+"Shut up!<Delay 20> Dad, could you
+not say anything!?"<Close><End of Block>
+<TextBlock 90 w:40 h:4>
+Rico
+"You want me to go?"<Delay 20>
+    Change
+    Don't change<Close><End of Block>
+<TextBlock 91 w:52 h:1>
+Rico has joined the party!<Close><End of Block>
+<TextBlock 92 w:54 h:4>
+Rico
+"Tch. Since the day I met
+you all, there's been
+nothing but trouble...<New>
+But I've come this far with
+you all. I guess there's no
+point in bitching about it.<New>
+I'll show them what happens
+when they tick the great
+Rico off."<Close><End of Block>
+<TextBlock 93 w:44 h:4>
+Citan
+"Should I come along?"<Delay 20>
+    Change
+    Don't change<Close><End of Block>
+<TextBlock 94 w:54 h:1>
+Citan has joined the party!<Close><End of Block>
+<TextBlock 95 w:54 h:4>
+Citan
+"The Solaris Gear units are
+on a high speed...<New>
+...interception course with
+Shevat.<New>
+It would be reasonable to
+believe that their main
+targets are going to be the
+4 Gate generators.<New>
+They are probably planning
+on finishing us off since
+Dominia's demolition has
+weakened the Gate output.<New>
+We have scrambled our
+interceptor units, but I
+do not know how they will
+fare...<New>
+The people of Shevat are
+not accustomed to Gear
+tactics.<New>
+I want to avoid unnecessary
+sacrifices if at all
+possible."<Close><End of Block>
+<TextBlock 96 w:54 h:4>
+Citan
+"Here is the breakdown of
+the enemy Gear units...<New>
+As I have explained before,
+4 separate units are each
+headed for their respective
+generators.<New>
+From the information
+collected in Shevat...<New>
+...we have a good idea
+of the capabilities and
+composition of the Gear
+units...<New>
+However, there is one giant
+Gear that they are holding
+back that we have no
+information about."<Close><End of Block>
+<TextBlock 97 w:52 h:4>
+Citan
+"Maria, this is where you
+and <Seibzehn> come in.<New>
+Now that the Gate is
+weakened, we can use
+<Seibzehn>'s heavy
+particle cannon...<New>
+...to distort space
+and neutralize the Gate
+for a brief moment!<New>
+Upon penetrating into
+Solaris, it would be best
+to move about...<New>
+...in small groups so that
+we do not attract
+attention.<New>
+Well, if possible I would
+like to..."<Close><End of Block>
+<TextBlock 98 w:54 h:3>
+Citan
+"Understood!<New>
+Then Elly, Fei, and I will
+move about together.<New>
+The rest will form a
+separate group to sneak in.<New>
+Maria, it looks like you
+and <Seibzehn> will wait
+outside on standby."<Close><End of Block>
+<TextBlock 99 w:46 h:3>
+Citan
+"Well, let us break up
+for now.<New>
+Once you are all ready,
+we should all meet here
+before we take off..."<Close><End of Block>
+<TextBlock 100 w:52 h:3>
+Are you prepped and ready?
+    Let's go!
+    Not yet<Close><End of Block>
+<TextBlock 101 w:34 h:3>
+Citan
+"Good.<Delay 20>
+Then we are off."<Close><End of Block>
+<TextBlock 102 w:50 h:3>
+Citan
+"We are depending on you,
+Maria.<New>
+Please transport us to
+Solaris on the
+<Seibzehn>."<Close><End of Block>
+<TextBlock 103 w:44 h:4>
+Citan
+"Please hurry.<Delay 20>
+We are taking off the
+moment you are ready."<Close><End of Block>
+<TextBlock 104 w:54 h:3>
+Citan
+"I am sorry.<New>
+I did not want to say
+anything until I was sure.<New>
+I was on a secret mission
+by orders of Emperor Cain
+to monitor Fei.<New>
+He ordered me to determine
+whether Fei would be a
+threat to the world or not.<New>
+'The Contact'...
+That is what the Emperor
+calls Fei..."<Close><End of Block>
+<TextBlock 105 w:54 h:4>
+Citan
+"The emotional portion of
+Fei's present personality
+was sealed up by...<New>
+...his father through
+some method...<New>
+And now with the cleared
+foundation of Id's
+personality... In computer
+terms...<New>
+...it is like constructing
+a mock personality on top
+of the compatible portion
+of the OS.<New>
+That is the reason Fei has
+no memory of his past.<New>
+Those 10 or so years of
+memories are under the
+supervision of Id.<New>
+As long as Id does not
+willingly hand over the
+memories...<New>
+There is no way for Fei
+to know since he did not
+even exist before the
+time Id was sealed up.<New>
+The present Fei's
+personality is an
+underdeveloped one which
+was built upon within... <New>
+...the 3 years of living in
+Lahan, studying and
+acquiring other people's
+reactions.<New>
+Hence, he does not know how
+to fully cope with sudden
+or emotional situations.<New>
+Elly, you are the one who
+has spent the most time
+with Fei so I would assume
+you would understand this.<New>
+Were there not times when
+he would be psychologically
+unstable?<New>
+For example, he would be
+manicly depressive and then
+have sudden fits of
+rage..."<Close><End of Block>
+<TextBlock 106 w:52 h:4>
+Citan
+"That is not what I am
+saying. The present Fei
+is one single personality.<New>
+It is just that structure-
+wise, his personality was
+constructed on top of
+Id's...<New>
+...hence placing Fei at a
+lower hierarchy.<New>
+That is why when Id is
+active, Fei has no
+recollection of it."<Close><End of Block>
+<TextBlock 107 w:54 h:4>
+Citan
+"Yes, if it were only Id
+and Fei. But that does not
+seem to be the case.<New>
+Id only manifests when
+Fei's mental energy is in
+a weakened state.<New>
+It is a mystery in itself
+that the lower level
+personality of Fei...<New>
+...has any control over
+the upper level
+personality of Id.<New>
+It is obvious that there
+exists a third personality.
+Id calls this existence
+the coward.<New>
+In my observation, this
+coward may be the
+fundamental personality
+of Fei.<New>
+In other words, Id's
+manifestation is not
+controlled by Fei...<New>
+...but is controlled by
+the personality known
+as the coward."<Close><End of Block>
+<TextBlock 108 w:54 h:4>
+Citan
+"At the same time Id 
+resents this coward, he
+also obviously fears it.<New>
+From a certain point of
+view, this coward is the
+one assisting in keeping
+the present Fei in control.<New>
+I do not know the reason
+why this third personality,
+excuse me...<New>
+...Fei's fundamental
+personality does not come
+out...<New>
+If this one awakens, it
+will become one with Id.<New>
+...In other words, there
+is a possibility that the
+complete original
+personality...<New>
+...may be restored."<Close><End of Block>
+<TextBlock 109 w:54 h:4>
+Citan
+"Probably. But I do not
+know how to awaken it.<New>
+Before I had the
+opportunity, Id disappeared
+and he has been like that
+since.<New>
+Basically, as long as
+nothing happens to Fei that
+would challenge his
+existence...<New>
+...Fei can be himself.<New>
+But his surroundings do
+not allow him that
+opportunity.<New>
+It would be best for him
+to live in a place that
+is peaceful..."<Close><End of Block>
+<TextBlock 110 w:34 h:2>
+Jessie
+"Go get'em guys."<Close><End of Block>
+<TextBlock 111 w:50 h:4>
+Jessie
+"Yeah, right on!
+Go for it young'uns!
+We're depending on you.<New>
+Especially since my life
+also depends on it.
+I have no intentions of
+kickin' the bucket here."<Close><End of Block>
+<TextBlock 112 w:38 h:3>
+Jessie
+"Alright alright, I
+know."<Close><End of Block>
+<TextBlock 113 w:34 h:3>
+Jessie
+"Why can't you be
+more nicer?"<Close><End of Block>
+<TextBlock 114 w:44 h:4>
+Jessie
+"An unidentified giant
+Gear...?<Delay 20>
+It can't be..."<Close><End of Block>
+<TextBlock 115 w:50 h:4>
+Jessie
+"Then his present
+personality is but only a
+temporary one?"<Close><End of Block>
+<TextBlock 116 w:50 h:4>
+Jessie
+"Then that means he might
+eventually be overtaken
+by Id?"<Close><End of Block>
+<TextBlock 117 w:40 h:3>
+Jessie
+"...Then that means,
+what?"<Close><End of Block>
+<TextBlock 118 w:38 h:2>
+Jessie
+"Is that for sure?"<Close><End of Block>
+<TextBlock 119 w:36 h:2>
+Maria
+"Your Majesty...!"<Opcode 2 30><Close><End of Block>

@@ -1,0 +1,56 @@
+<TextBlock 1 w:16 h:2>
+Elly
+"Oh!..."<Opcode 2 24><Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Elly
+"Y, yes...
+...I wonder why...?<New>
+It's terribly lonely...
+and familiar."<Close><End of Block>
+<TextBlock 3 w:32 h:4>
+Citan
+"Elly...
+Do you remember 
+seeing this?"<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+<Opcode 1 255>Connection to the
+database has been
+unexpectedly ended.<New>
+If this cannot be fixed,
+please contact the system
+administrator.<Close><End of Block>
+<TextBlock 5 w:34 h:4>
+<Opcode 1 255>Reactor internal
+safety confirmed.
+Please reset
+emergency level.<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+<Opcode 1 255>Reset emergency level?
+ 
+     Reset
+     Cancel<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+<Opcode 1 255>Please wait.<Delay 32>
+Reset complete.
+Presently, emergency 
+level is normal.<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+<Opcode 1 255>Failure to reset
+the emergency level will
+prevent use of the main
+laboratory facilities.<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+<Opcode 1 255>Emergency level 5<New>
+Presently, access to all
+main laboratory databases
+is denied.<Close><End of Block>
+<TextBlock 10 w:46 h:2>
+<Opcode 1 255>Emergency level 5<New>
+Presently, the central 
+reactor is isolated.<Close><End of Block>
+<TextBlock 11 w:48 h:2>
+Can't receive <Opcode 4 18>
+you have too many.<Close><End of Block>
+<TextBlock 12 w:38 h:2>
+ 
+Received <Opcode 4 20><Close><Close><End of Block>

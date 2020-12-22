@@ -1,0 +1,50 @@
+<TextBlock 1 w:50 h:3>
+Actually Nisan is a
+pretty popular place
+among artists.<New>
+Part of the reason is the
+scenery but it's mostly
+because of the portrait<New>
+of the Great Mother that
+is said to be in the
+cathedral.<New>
+Unfortunately, the public
+is not permitted to go
+see it.<Close><End of Block>
+<TextBlock 2 w:54 h:1>
+No...<Delay 30>something's not right.<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+...Sorry, but please
+don't talk to me now.<New>
+Yesterday morning's view
+from the lake.<Delay 30>
+I'm remembering the
+sensation of that light.<Close><End of Block>
+<TextBlock 4 w:24 h:1>
+...I forgot.<Close><End of Block>
+<TextBlock 5 w:40 h:1>
+Oh...I'm remebering.<Close><End of Block>
+<TextBlock 6 w:18 h:1>
+I got it!<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+I was thinking of putting
+the arrival of a new era
+into a picture.<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Fei
+(Paint brushes...<Delay 30>
+I haven't touched them
+since I left the village.)<Close><End of Block>
+<TextBlock 9 w:28 h:2>
+Hm?...<Delay 30>Are you
+an artist too?<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+Fei
+"Ah...<Delay 30>no..."<Close><End of Block>
+<TextBlock 11 w:26 h:2>
+Oh...<Delay 30>pictures
+are great.<Close><End of Block>
+<TextBlock 12 w:28 h:3>
+Fei
+"Oh...<Delay 30>
+Oh, <Delay 30>really..."<Close><Close><End of Block>

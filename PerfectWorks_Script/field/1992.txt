@@ -1,0 +1,4 @@
+<TextBlock 1 w:46 h:3>
+Do you want to go down?<Delay 10>
+    Yes
+    No<Close><Close><End of Block>

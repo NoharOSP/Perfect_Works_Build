@@ -1,0 +1,36 @@
+<TextBlock 1 w:48 h:4>
+Sigurd
+"Young master! Depth
+charges will be dropped!
+Please stand back!"<Close><End of Block>
+<TextBlock 2 w:32 h:4>
+Kelvena
+"Enough already!
+Dominia!
+Retreat!"<Close><End of Block>
+<TextBlock 3 w:32 h:4>
+Dominia
+"Come on Elhaym!<Delay 30>
+Show me your
+true self!!"<Opcode 2 40><Close><End of Block>
+<TextBlock 4 w:36 h:4>
+Dominia
+"Hyah!
+That was nothing.
+Come on, come on!"<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Dominia
+"Tch!
+I was so close.<New>
+But...<Delay 10>don't think I'll
+be leaving empty-handed,
+now!"<Close><End of Block>
+<TextBlock 6 w:24 h:2>
+Elly
+"Wh, what!?"<Close><End of Block>
+<TextBlock 7 w:30 h:2>
+Elly
+"Aaaaaahhhhhh!"<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:16 h:2>
+Fei
+"Elly!?"<Close><Close><Close><_><Wait><Close><Close>)<Close><End of Block>

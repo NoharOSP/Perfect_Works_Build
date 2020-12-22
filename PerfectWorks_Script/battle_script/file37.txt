@@ -1,0 +1,122 @@
+<TextBlock 1 w:38 h:4>
+Ramsus
+"This is your final
+warning. Hand over
+Lt. Elhaym, now!"<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Ramsus
+"Are you sure you
+want to refuse me?<New>
+It'll be too late
+for you to change
+your mind later!"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Ramsus
+"Humm...<Delay 20> Well then,
+I'll have to show you
+if I'm boasting or not!<New>
+So be it.<Delay 20>
+No holding back!<Delay 20>
+And no holds barred!"<Close><End of Block>
+<TextBlock 4 w:38 h:4>
+Ramsus
+"Come on, come on!
+What poor form!
+What's wrong, Fei!?<New>
+In the presence of
+my 'Vendetta', your
+<Weltall> is but
+only a infant!"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Ramsus
+"Incredible!
+This undeniable
+difference in power!<New>
+Miang!
+Are you watching this!?"<Close><End of Block>
+<TextBlock 6 w:40 h:4>
+Ramsus
+"At this rate...
+And with this power,
+I can defeat him!"<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Ramsus
+"Hm Hm Hm Hm Hmm...
+Wah hah hah hah hah!"<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Ramsus
+"Hyah hah hah hah hah!
+Win! I can win! I am
+not the worthless one!!"<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Ramsus
+"It's over for you!
+Fei Fong Wong!"<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Ramsus
+"Nuah hah hah hah! I am
+not the worthless one!<Delay 40>
+Hah! <Delay 30>Uha,<Delay 40> haah...<Delay 50> haah<New>
+... Huh?"<Close><End of Block>
+<TextBlock 11 w:42 h:4>
+Ramsus
+"!!<Delay 30>
+I've even taken out
+the lieutenant too<Delay 30>...<New>
+Damn,<Delay 30>
+I forgot my orders<Delay 30>...<New>
+Hmph<Delay 5>...<Delay 30>
+Oh well<Delay 5>...<Delay 30>
+To hell with
+Krelian's orders..."<Close><End of Block>
+<TextBlock 12 w:28 h:2>
+Fei
+"I refuse to!"<Close><End of Block>
+<TextBlock 13 w:34 h:3>
+Fei
+"Stop your stupid
+boasting!"<Close><End of Block>
+<TextBlock 14 w:44 h:3>
+Fei
+"What are you saying!?
+If you do that..."<Close><End of Block>
+<TextBlock 15 w:24 h:4>
+Fei
+"Ramsus...!?
+Can't you
+hear us...?"<Close><End of Block>
+<TextBlock 16 w:30 h:4>
+Elly
+"<Delay 30>...<Delay 30>
+Ramsus, listen!
+I surrender!!<New>
+So please stop
+attacking us
+this instant!"<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Elly
+"It is me he wants!
+I can't drag you into
+danger just over me!"<Close><End of Block>
+<TextBlock 18 w:42 h:3>
+Elly
+"Stop attacking!
+Ramsus!<New>
+If I'm what you want,
+then just take me!"<Close><End of Block>
+<TextBlock 19 w:24 h:2>
+Elly
+"Eeeeyaaah!"<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Elly
+"He's lost himself in
+the overwhelming power
+of that gear of his...<New>
+Fei, we had
+better run!"<Close><End of Block>
+<TextBlock 21 w:36 h:4>
+Fei
+"Uuaaaaaahhhhhh!!"
+Elly
+"Eeeeyyyaaahhhh!!"<Close><Close>)
+<Close><Close><End of Block>

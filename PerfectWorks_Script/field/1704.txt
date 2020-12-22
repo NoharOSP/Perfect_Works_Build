@@ -1,0 +1,50 @@
+<TextBlock 1 w:52 h:3>
+Fei
+"There's something written
+on the wall..."<Close><End of Block>
+<TextBlock 2 w:34 h:5>
+<Opcode 1 255>View which data?
+    Lock off-code
+    How to input
+    Code specs
+    Nothing<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Foreign object detector
+lock off-code
+'0101'<New>
+Item 1 lock-off code
+'1001'<New>
+Item 2 lock off-code
+'1111'<Close><End of Block>
+<TextBlock 4 w:52 h:2>
+Input upper row code only.
+Select from 1 to 4.<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Select 'End input' to
+see calculation result
+in the lower row.<Close><End of Block>
+<TextBlock 6 w:56 h:4>
+When inputing the upper row,
+according to the value of
+the lower row, the value of
+the lower row is determined.<Close><End of Block>
+<TextBlock 7 w:42 h:2>
+When light is on, 1.
+When light is off, 0.<Close><End of Block>
+<TextBlock 8 w:11 h:4>
+0<=>0=1
+1<=>1=0
+1<=>0=0
+0<=>1=0<Close><End of Block>
+<TextBlock 9 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 10 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 12 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

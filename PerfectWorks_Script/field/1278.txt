@@ -1,0 +1,50 @@
+<TextBlock 1 w:48 h:4>
+Billy
+"Looks <Delay 10>like <Delay 2>blood <Delay 2>...<Delay 2>...
+What happened on this 
+transport...<New>
+No wait, this is...<Delay 25>
+water with rust in it.<Delay 15>
+Let's hurry on ahead." <Close><End of Block>
+<TextBlock 2 w:50 h:2>
+It's unlocked but the 
+door is rusted shut.<New>
+Maybe if you ran into it?<Close><End of Block>
+<TextBlock 3 w:50 h:1>
+Maybe if you ran into it?<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Unlock it?
+    Yes
+    Hold on a second<Close><End of Block>
+<TextBlock 5 w:36 h:1>
+It's rusted shut!!<Close><End of Block>
+<TextBlock 6 w:48 h:2>
+It's rusted...<Delay 20>
+but it rattles a little.<Close><End of Block>
+<TextBlock 7 w:48 h:2>
+It's locked
+but it rattles a little.<Close><End of Block>
+<TextBlock 8 w:42 h:1>
+If you run into it...<Close><End of Block>
+<TextBlock 9 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 10 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 12 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 13 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 14 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 15 w:40 h:1>
+The door won't open.<Close><End of Block>
+<TextBlock 16 w:40 h:1>
+The door won't open.<Close><Close><End of Block>

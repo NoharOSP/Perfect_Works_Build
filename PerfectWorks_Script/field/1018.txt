@@ -1,0 +1,40 @@
+<TextBlock 1 w:48 h:4>
+All you need to protect
+yourself from various
+status effects, is right
+here in my shop!<Close><End of Block>
+<TextBlock 2 w:36 h:1>
+Please come again.<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+<Delay 5>...<Delay 5>A decent selection.
+Oh yes, the accessories
+are all treasures, so
+buying them's no loss.<Delay 45><New>
+But remember, I don't work
+for the store though.<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+All these weapons,<Delay 5>and none
+that fit me.<Delay 30>Guns are too
+dangerous,<Delay 5>and swords are
+heavy and bulky<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Sigh<Delay 5>...<Delay 5>isn't there a
+weapon that's safe, light
+and easy to use?<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+This is it,<Delay 5>...<Delay 5>
+the ideal weapon.<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+He's travelled various
+countries looking for his
+ideal weapon.<Delay 15> I'm
+just a woman attracted by<New>
+his ardor<Delay 5>...<Delay 5> He said
+he'd continue on until he
+found this weapon.<Delay 15> His
+journey may never end.<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+We've travelled through
+most of Ignas...<Delay 5> When
+will he ever look at me,
+and not these weapons...?<Close><Close><End of Block>

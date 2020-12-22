@@ -1,0 +1,169 @@
+<TextBlock 1 w:38 h:2>
+<Opcode 14 1>There are intruders<Delay 10>
+in the base!<Opcode 2 20><Close><End of Block>
+<TextBlock 2 w:56 h:1>
+<Opcode 14 1>There are three intruders...<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:40 h:2>
+<Opcode 14 1>...presently heading<Delay 10>
+for the dock area.<Opcode 2 20><Close><End of Block>
+<TextBlock 4 w:56 h:1>
+<Opcode 14 1>The two men may be killed...<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:56 h:1>
+<Opcode 14 1>...but do not harm the girl.<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:32 h:3>
+Elly
+"It sounds like
+they've gone..."<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+Bart
+"Fei, can you explain
+to me how you know a
+Gebler officer?"<Close><End of Block>
+<TextBlock 8 w:18 h:2>
+Fei
+"Well..."<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Bart
+"I don't know where you
+met her, but no matter
+how you look at it...<New>
+she's a Gebler officer!
+Not an enemy? Where do
+you get off saying that?"<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Elly
+"Yes.
+Special Forces of the
+Sacred Empire of Solaris...<New>
+also known as Gebler...
+I'm Lt. Elhaym Van Houten
+of the Ignas Army's Third
+Assault Division.<New>
+And...while returning from
+a mission to capture the
+newest model Gear from a
+Kislev military factory...<New>
+...I was attacked by
+pursuing Kislev Gears and
+crash-landed in your
+village..."<Close><End of Block>
+<TextBlock 11 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Elly
+"I wanted to tell you,
+but I just couldn't
+bring myself to...<New>
+When I heard what my
+crash-landing in your
+village had caused...
+I couldn't tell you..."<Close><End of Block>
+<TextBlock 13 w:24 h:2>
+Fei
+"...I knew."<Close><End of Block>
+<TextBlock 14 w:14 h:3>
+Elly
+"!? <Delay 20>
+Fei..."<Close><End of Block>
+<TextBlock 15 w:36 h:3>
+Fei
+"I overheard you
+talking with doc."<Close><End of Block>
+<TextBlock 16 w:22 h:2>
+Elly
+"Then why?"<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Fei
+"It was...all my fault.
+But I lashed out at you 
+with my own feelings...<New>
+I'm sorry."<Close><End of Block>
+<TextBlock 18 w:34 h:2>
+Elly
+"No it wasn't..."<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Fei
+"Just forget about it.
+You couldn't help it...
+You had your own problems."<Close><End of Block>
+<TextBlock 20 w:24 h:4>
+Elly
+"But, Fei...
+why are you
+with them?"<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+Fei
+"I'm cooperating with 
+Bart and his crew.<New>
+We came to rescue Margie
+who was taken prisoner
+in the castle here."<Close><End of Block>
+<TextBlock 22 w:20 h:2>
+Elly
+"I see..."<Close><End of Block>
+<TextBlock 23 w:40 h:4>
+Bart
+"Hey! Just a minute!
+Where do you think 
+you're going?"<Close><End of Block>
+<TextBlock 24 w:50 h:3>
+Elly
+"You want to get out of
+the castle, right?<New>
+In this confusion you can
+escape through the Gear
+launch door."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Bart
+"Great idea! But...
+do we really buy that?<New>
+I don't think so! She talks
+sweet, but she's probably
+planning to turn us over to
+that old bald geezer.<New>
+It's a trick, Fei!"<Close><End of Block>
+<TextBlock 26 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 27 w:54 h:3>
+Margie
+"Wait Bart!
+She's not a bad person.<New>
+She said she'd help us,
+so let's go with her plan."<Close><End of Block>
+<TextBlock 28 w:34 h:4>
+Bart
+"You're always
+like this!<New>
+Can't you see...
+she's in Gebler!?
+Don't be so damn
+trusting!"<Close><End of Block>
+<TextBlock 29 w:38 h:3>
+Margie
+"That's not true...
+is it, Elly?"<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+Bart
+"Oh yeah? Look where
+your ability to judge
+characters got you...!"<Close><End of Block>
+<TextBlock 31 w:42 h:3>
+Bart
+"Fei, what about you?
+Do you believe her?"<Close><End of Block>
+<TextBlock 32 w:30 h:3>
+Fei
+"I made up my
+mind long ago."<Close><End of Block>
+<TextBlock 33 w:16 h:2>
+Elly
+"Fei..."<Close><End of Block>
+<TextBlock 34 w:44 h:3>
+Bart
+"Gah!
+First you, now her!<New>
+The whole lot of you
+can go jump off a
+cliff for all I care!"<Close><Close><End of Block>

@@ -1,0 +1,228 @@
+<TextBlock 1 w:40 h:3>
+Fei
+"I don't know how...<Delay 30>
+but I beat them!"<Close><End of Block>
+<TextBlock 2 w:28 h:2>
+Fei
+"W, what the?"<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Fei
+"You're the one from...<Delay 40>
+Lahan...!!"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Fei
+"How much power I had?
+What are you talking
+about!"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Fei
+"To get me in that Gear!?
+It was planned by you!?"<Close><End of Block>
+<TextBlock 6 w:42 h:4>
+Fei
+"As a catalyst!?
+You mean you caused
+that intentionally!?"<Close><End of Block>
+<TextBlock 7 w:18 h:2>
+Fei
+"Crap..."<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Fei
+"You said you need my
+power? What were you
+intending to do with it!?"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Fei
+"What did you do to my
+father!? What happened
+between you two!?"<Close><End of Block>
+<TextBlock 10 w:16 h:2>
+Fei
+"What!?"<Close><End of Block>
+<TextBlock 11 w:36 h:4>
+Fei
+"W, wait!
+We're not finished
+talking yet!!"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Fei
+"You mean you attacked my
+village just to get me in
+that Gear!? <New>
+Why!?<Delay 20>
+Why did the villagers
+have to die...?"<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Fei
+"No!!<Delay 30>
+I was just trying to save
+the village and its people!<New>
+I never intended to destroy
+it!!"<Close><End of Block>
+<TextBlock 14 w:40 h:4>
+Fei
+"Shut up!<New>
+Even if that were
+true, aren't you
+still the one who
+caused it!?<New>
+If you hadn't come,
+the village wouldn't
+have suffered the
+way it did!"<Close><End of Block>
+<TextBlock 15 w:34 h:2>
+Fei
+"D, destroy god?"<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Fei
+"Don't be ridiculous!
+I won't get involved
+in such a thing!<New>
+If you want to destroy
+your god, or whatever
+it is you're on about...
+do it by yourself!!"<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Fei
+"My father?<Delay 25>
+You mean my dad?<Delay 30>
+You know my father!?"<Close><End of Block>
+<TextBlock 18 w:14 h:2>
+Fei
+"What?"<Close><End of Block>
+<TextBlock 19 w:42 h:2>
+Citan
+"Here we go again..."<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Man In Black
+"Your hot blooded desire
+for battle has not been
+tamed, I see."<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Man In Black
+"My name is <Delay 10>Grahf<Delay 10>...<Delay 10>
+The seeker of power.<New>
+You certainly showed how
+much power you had back
+there in Lahan, didn't
+you, Fei!?"<Close><End of Block>
+<TextBlock 22 w:54 h:4>
+Grahf
+"A greater power...
+is what I need to
+fulfill my mission.<New>
+I sent those Gears into
+that land as a catalyst to 
+awaken the power in you...
+To make contact with you."<Close><End of Block>
+<TextBlock 23 w:44 h:4>
+Grahf
+"Yes.<Delay 10>
+A catalyst was needed
+to awaken your power."<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Grahf
+"That's right.<Delay 10>
+The death of your loved
+ones...<New>
+And you powerless against
+it happening...<Delay 10> The grief,<Delay 10>
+the screams from your heart
+born out of the tragedy...<New>
+There!<Delay 10>
+That was the catalyst for
+triggering your power."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Grahf
+"Who cares why!
+It does not matter how
+many of them died...<New>
+They were wretched vermin,
+only living from day to day
+without ever fulfilling
+their prescribed destinies!<New>
+And have you forgotten?<Delay 10>
+You were the one who
+destroyed the village.<Delay 10>
+I did not lift a finger."<Close><End of Block>
+<TextBlock 26 w:50 h:4>
+Grahf
+"Is that really so?<Delay 15>
+Surely you have heard it?<New>
+It is the very essence of
+you...the voice of desire
+from within you that
+craves destruction."<Close><End of Block>
+<TextBlock 27 w:52 h:4>
+Grahf
+"Ah, so now you resort
+to blame? I see...<New>
+That sounds like something
+'you' would say.
+That's good. Your basic
+nature remains unchanged."<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Grahf
+"You know very well...<Delay 10>
+It is to destroy...<Delay 30>
+mother <Delay 10>god<Delay 10>..."<Close><End of Block>
+<TextBlock 29 w:52 h:4>
+Grahf
+"Yes, we will destroy god.
+That is our purpose...
+That is our destiny!"<Close><End of Block>
+<TextBlock 30 w:34 h:4>
+Grahf
+"Hah, hah, hah...
+You resemble your
+father."<Close><End of Block>
+<TextBlock 31 w:50 h:4>
+Grahf
+"That was...
+a most delightful scream.
+I was enthralled by it.<New>
+Nothing is more beautiful
+than a scream of death."<Close><End of Block>
+<TextBlock 32 w:50 h:4>
+Grahf
+"Hmph, do you really wish
+to know? There is no use
+in you knowing it now."<Close><End of Block>
+<TextBlock 33 w:42 h:4>
+Grahf
+"Your power is still
+beneath that needed
+for my purposes.<New>
+Anything unusable
+must be tried until
+it becomes suitable."<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Grahf
+"What will you do, Fei?
+If you die here, then
+so be it.<New>
+You may indeed gain some
+happiness from not knowing.
+But surely, that is not
+what you truly want...?<New>
+If you want to know the
+truth...and that is what
+you want, isn't it Fei...
+then this is what to do...<New>
+You must show me that you
+have attained the level of
+strength I require...<New>
+To do that you must destroy
+others by using your own
+strength!<New>
+Then you will gain all
+that was lost in exchange
+for that scream of death!<Delay 15>
+Ha, ha, ha, ha!!"<Close><End of Block>
+<TextBlock 35 w:38 h:1>
+HA, HA, HA, HA, HA!<Close><End of Block>
+<TextBlock 36 w:24 h:4>
+Fei
+"!!
+What in hell
+is that!?"<Close><Close><End of Block>

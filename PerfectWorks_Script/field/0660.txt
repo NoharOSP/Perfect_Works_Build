@@ -1,0 +1,30 @@
+<TextBlock 1 w:54 h:2>
+Damn them...<Delay 60>
+They're still giving chase.<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:62 h:2>
+We've entered Aveh territory...<Delay 60>
+I'm not giving up now.<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:52 h:1>
+This Gear's too important.<Opcode 2 5><Close><End of Block>
+<TextBlock 4 w:52 h:2>
+...That's done it!<Delay 60>
+I'm at a disadvantage now.<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:22 h:1>
+Van Houten!<Opcode 2 20><Close><End of Block>
+<TextBlock 6 w:44 h:1>
+What's wrong? Respond!<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:54 h:1>
+Damn it! Everyone land now!<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:52 h:2>
+Regroup on the ground.<Delay 60>
+We'll have to engage them!<Opcode 2 30><Close><End of Block>
+<TextBlock 9 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 10 w:40 h:4>
+Elly
+"Sh, shrapnel...
+in my back.<New>
+My thrusters' output
+is dropping.<Delay 20>
+I can't maintain
+altitude."<Opcode 2 50><Close><End of Block>

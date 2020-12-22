@@ -1,0 +1,407 @@
+<TextBlock 1 w:48 h:3>
+Hans
+"Geez...
+When it comes to him..."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Fei
+"So, what's happened with
+you lately. I didn't know
+you had a son?<New>
+The kid who just left...
+seemed pretty angry about
+something."<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Hans
+"I'm embarrassed you just
+saw that. <New>
+I got married just before
+the Thames went down."<Close><End of Block>
+<TextBlock 4 w:52 h:5>
+Hans
+"Her name is Anna. She's
+my wife. She was saved by
+the Thames when the ships
+were attacked by Reapers.<New>
+Unfortunately, that's when
+she lost her husband<Delay 10>...
+Don't misunderstand me.<New>
+It wasn't out of feeling
+sorry for her or anything
+like that<Delay 10>...<Delay 20> Or...<Delay 10>
+Well, perhaps it was...<New>
+I just wanted to protect
+her, that's all. If you
+call that feeling sorry,
+then I suppose I don't
+mind.<New>
+The Captain teased me
+mercilessly. He said...<New>
+ 'What! A cold guy like
+ you, seducing a widow?
+ Just make sure the kid
+ doesn't hate you...'<New>
+Ha, ha... I guess the
+Captain was right.
+My stepson doesn't like
+me yet. 
+But I'm hoping someday..."<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Fei
+"I see<Delay 10>...<Delay 10>
+Boy, you've changed!"<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Hans
+"Ha, ha. You've changed
+too, Fei. I don't know
+how to explain it, but...<New>
+As for me...well, I don't
+know what it is...
+I guess I've always had
+someone protecting me..."<Close><End of Block>
+<TextBlock 7 w:18 h:2>
+Fei
+"Hans..."<Close><End of Block>
+<TextBlock 8 w:38 h:2>
+Hans
+"Fei, I believe..."<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Hans
+"I believe that one day,
+the Captain will come
+down that stairway...<New>
+Tap-tap-tapping
+with his cane..."<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Hans
+"And he'll say...<New>
+ 'Haaaans! It looks like
+ we'll get our hands on
+ a priceless treasure!<New>
+ What kind of face is
+ that? You don't believe
+ me, huh? This time it's
+ true...honest!'"<Close><End of Block>
+<TextBlock 11 w:22 h:3>
+Hans
+"<Delay 10>...<Delay 10>Maybe<Delay 10>
+someday..."<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Captain
+"Haaaans! It looks like
+we'll get our hands on
+a priceless treasure!"<Close><End of Block>
+<TextBlock 13 w:3 h:1>
+!<Close><End of Block>
+<TextBlock 14 w:30 h:3>
+Captain
+"What kind of
+face is that!?"<Close><End of Block>
+<TextBlock 15 w:32 h:2>
+Hans
+"Ca, ca, <Delay 10>cap..."<Close><End of Block>
+<TextBlock 16 w:34 h:2>
+Hans
+"Captain------!!"<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Hans
+"What's this shouting out
+'Ca,ca captain------!!'?
+Cut it out, you fool!"<Close><End of Block>
+<TextBlock 18 w:48 h:3>
+Hans
+"Do, <Delay 10>you know how much I
+was worried about you!?"<Close><End of Block>
+<TextBlock 19 w:34 h:4>
+Captain
+"Hah!
+I've been telling
+you all along.<New>
+Don't you get it?
+Now listen..."<Close><End of Block>
+<TextBlock 20 w:18 h:2>
+Captain
+"Men...!"<Close><End of Block>
+<TextBlock 21 w:32 h:2>
+Captain
+"Of the sea...!"<Close><End of Block>
+<TextBlock 22 w:32 h:2>
+Captain
+"Never say die!"<Close><End of Block>
+<TextBlock 23 w:50 h:2>
+Captain
+"Gha, ha, ha, ha-a-a-a!!"<Close><End of Block>
+<TextBlock 24 w:26 h:3>
+Hans
+"You...<Delay 10>are...<Delay 10>
+such...a...."<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Captain
+"Hans!
+This time it's true!<New>
+It's an island with
+buried treasure.
+It's called 'Duneman
+Isle'.<New>
+An ancient hero defeated
+a monster there, and now
+legend has it, his fabled
+sword rests there."<Close><End of Block>
+<TextBlock 26 w:54 h:4>
+Hans
+"What info. do you have...?
+Do you know where the place
+is? What about a ship?"<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Captain
+"Don't know where it is!
+Don't have a ship!
+Don't worry with details!<New>
+Don't you know that
+attitude of yours is why
+that kid won't take to
+you?"<Close><End of Block>
+<TextBlock 28 w:30 h:3>
+Hans
+"That's none of
+your business!"<Close><End of Block>
+<TextBlock 29 w:48 h:4>
+Captain
+"Well, by the time that
+kid actually decides to
+like you...<New>
+I'll have managed to get
+a new ship. Till then,
+give it all for your
+family, lad!!<New>
+Give your family the
+love they need while you
+still have the chance.
+Ghar, har, har!!"<Close><End of Block>
+<TextBlock 30 w:50 h:4>
+Anna
+"It hasn't been that long
+since my husband died<Delay 10>...<New>
+Please don't think I'm a
+loose woman...<Delay 10> But it's
+because of this man that
+I<Delay 10>...(blush)..."<Close><End of Block>
+<TextBlock 31 w:40 h:4>
+Lance
+"He is teaching me
+about the spirit of
+the men of the sea!"<Close><End of Block>
+<TextBlock 32 w:48 h:3>
+Lance
+"I wish you were my dad.
+Can I call you Dad?"<Close><End of Block>
+<TextBlock 33 w:36 h:3>
+Captain
+"Ghar, har, har!
+That's a laugh...<New>
+A walrus with a
+penguin for a son!
+Ghar, har, har!"<Close><End of Block>
+<TextBlock 34 w:38 h:3>
+Lance
+"I'm not a penguin!
+I'm a dolphin!!"<Close><End of Block>
+<TextBlock 35 w:38 h:3>
+Captain
+"Oh?
+Hans is a penguin."<Close><End of Block>
+<TextBlock 36 w:54 h:4>
+Lance
+"My dad is a dolphin, too!<New>
+Oops...<Delay 10> Forget what I just
+said.<Delay 10> I didn't mean to call
+him dad!<Delay 10> Who would want a
+father like him!"<Close><End of Block>
+<TextBlock 37 w:52 h:2>
+Captain
+"Ghar, har, har, ha-a-a!!"<Close><End of Block>
+<TextBlock 38 w:32 h:3>
+Lance
+"I'll never call
+him 'Dad'."<Close><End of Block>
+<TextBlock 39 w:44 h:4>
+Kanna
+"Enough, enough!
+I give in, already!
+I'm no match for you."<Close><End of Block>
+<TextBlock 40 w:46 h:4>
+Kanna
+"Some flashy woman in
+Thames taught me a card
+game.<New>
+Do you wanna play?"
+    Yes
+    No thanks<Close><End of Block>
+<TextBlock 41 w:44 h:1>
+Then it's a challenge!<Close><End of Block>
+<TextBlock 42 w:16 h:1>
+Chicken.<Close><End of Block>
+<TextBlock 43 w:38 h:1>
+You're not my dad!!<Close><End of Block>
+<TextBlock 44 w:14 h:1>
+Lance!!<Close><End of Block>
+<TextBlock 45 w:28 h:3>
+Fei
+"Hans!
+Is that you!?"<Close><End of Block>
+<TextBlock 46 w:30 h:3>
+Hans
+"You...!
+You're alive!?"<Close><End of Block>
+<TextBlock 47 w:48 h:4>
+Fei
+"Yeah, you too...
+But if you're here that
+means the Thames was..."<Close><End of Block>
+<TextBlock 48 w:50 h:4>
+Hans
+"The Thames<Delay 10>...<Delay 10>
+sank.
+The 'Angels' attacked...<New>
+The Thames withstood the
+onslaught of Reapers, but
+was defenseless against
+those 'Angels'<Delay 10>...<New>
+Hardly anyone got out in
+time...<Delay 10> They went down
+with the Thames<Delay 10>..."<Close><End of Block>
+<TextBlock 49 w:46 h:4>
+Bart
+"Wha...wait a minute.
+What about the Captain?
+He's okay, right?"<Close><End of Block>
+<TextBlock 50 w:44 h:4>
+Fei
+"What...? By the way,
+where is the Captain?
+What happened to him?"<Close><End of Block>
+<TextBlock 51 w:54 h:4>
+Hans
+"The Captain...<Delay 10>said...<Delay 10>he'd
+watch the end of the Thames<Delay 10>
+with his own eyes<Delay 10>..."<Close><End of Block>
+<TextBlock 52 w:52 h:4>
+Bart
+"Y, you're kidding, right?
+That ol' guy died...
+No way..."<Close><End of Block>
+<TextBlock 53 w:44 h:3>
+Fei
+"The Captain's dead...
+No, that can't be..."<Close><End of Block>
+<TextBlock 54 w:42 h:5>
+Hans
+"No!<Delay 20>
+The Captain is alive.
+He is the kind that
+never keels over..."<Close><End of Block>
+<TextBlock 55 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 56 w:50 h:4>
+Captain
+"What? How did I survive?
+Don't worry about those
+minor details!!<New>
+If you worry about such
+things then kids'll hate
+you, just like they hate
+Hans, heh!"<Close><End of Block>
+<TextBlock 57 w:44 h:3>
+Everyone's gonna die!!
+Booze!!
+Bring booze-e-e-e-e!!<Close><End of Block>
+<TextBlock 58 w:46 h:4>
+Hey you, it's freezing
+in here. Can't you do
+something? This is not
+good for my complexion!<Close><End of Block>
+<TextBlock 59 w:56 h:3>
+Plenty of good men are
+dead now...<New>
+What kind of doctor am I
+if I can't save people dying
+right in front of me!?<New>
+Why should an old man like
+me survive that...<Close><End of Block>
+<TextBlock 60 w:42 h:4>
+Everyone's down, and
+they're the only ones
+looking happy.
+Annoying, isn't it?<Close><End of Block>
+<TextBlock 61 w:54 h:4>
+A town without prisoners...
+How boring.
+But then again, the world
+itself is like a prison.<Close><End of Block>
+<TextBlock 62 w:48 h:4>
+Kanna
+"I give up!
+I never thought I'd lose
+five times in a row.<New>
+You're pretty good.
+I'll give you this."<Close><End of Block>
+<TextBlock 63 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 64 w:66 h:4>
+Kanna
+"Gee, you're good!!
+You're having a <Opcode 10 0> game
+winning streak!!<New>
+Do you wanna continue?"
+    Sure
+    No thanks<Close><End of Block>
+<TextBlock 65 w:50 h:3>
+Kanna
+"Your winning record will
+be wiped out if you do.<New>
+Is that okay?"
+    Continue the game
+    No, I'll stop<Close><End of Block>
+<TextBlock 66 w:40 h:4>
+Kanna
+"Hey!
+Are you running away
+with the winnings?"<Close><End of Block>
+<TextBlock 67 w:28 h:2>
+Kanna
+"You're good."<Close><End of Block>
+<TextBlock 68 w:38 h:3>
+Kanna
+"You're real good!
+Here, take this..."<Close><End of Block>
+<TextBlock 69 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 70 w:48 h:4>
+Kanna
+"Do you wanna continue?"
+    Sure
+    No thanks<Close><End of Block>
+<TextBlock 71 w:34 h:3>
+Kanna
+"You're no good.
+Come back later."<Close><End of Block>
+<TextBlock 72 w:46 h:4>
+Kanna
+"Hum, pretty good.
+Well, it's a tie
+so far for today.<New>
+Do you wanna continue?"
+    Sure
+    No thanks<Close><End of Block>
+<TextBlock 73 w:50 h:3>
+Kanna
+"Your winning record will
+be wiped out if you do.<New>
+Is that okay?"
+    Continue the game
+    No, I'll stop<Close><End of Block>
+<TextBlock 74 w:44 h:3>
+Kanna
+"Hey!
+Are you running away?"<Close><Close><End of Block>

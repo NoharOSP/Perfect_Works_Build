@@ -1,0 +1,20 @@
+<TextBlock 1 w:58 h:11>
+  Go to those facilities and
+  you will be freed from the
+  unbearable agony...
+ 
+So people gathered, seeking a
+fulfillment of this promise.<Delay 30>
+ 
+  There is salvation there...<Delay 30>
+ 
+The news spread...although
+no one actually uttered it.<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Their mutated blood
+probably told such
+people to 'gather'
+there...<Close><End of Block>
+<TextBlock 3 w:48 h:2>
+We went there to destroy
+the Soylent System...<Close><Close><End of Block>

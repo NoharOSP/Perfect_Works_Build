@@ -1,0 +1,398 @@
+<TextBlock 1 w:38 h:3>
+(Hyuga...<Delay 10>
+I don't know why
+you are here.<New>
+But if you try
+anything funny...<Delay 10>
+Do you understand?)<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+(I also left his land.
+Since we just met, I do
+not blame you for not
+trusting me, but...)<Close><End of Block>
+<TextBlock 3 w:50 h:5>
+Oh, young master!
+It's unusual for you
+to be alone.
+It's already been fixed, 
+so please don't worry.<Close><End of Block>
+<TextBlock 4 w:48 h:5>
+What do you want to do?
+<Opcode 1 255>    View Gear from here
+    View Gear from front
+    Hear lowdown on Gear
+    Nothing<Close><End of Block>
+<TextBlock 5 w:52 h:5>
+This is <Weltall>.
+Height 16.3 sharls
+Base Weight 17.8 kahnns
+Full Weight 22.7 kahnns
+when fully equipped.<New>
+A well balanced Gear in
+offensive, defensive,
+and Ether abilities.<New>
+But it has some parts that
+cannot be disassembled...
+I guess you can call them
+'blackboxes'...?<New>
+They don't cause problems
+in maintenance, but they
+just get on my mind every
+time that I see them.<Close><End of Block>
+<TextBlock 6 w:42 h:1>
+This is <Weltall-2>.<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+This is <Xenogears>.
+It is Fei's Gear.<New>
+Height 19.8 sharls
+Base Weight 18.9 kahnns
+Full Weight 21.4 kahnns
+when fully equipped.<New>
+<Weltall-2> was
+transformed after its
+contact with Zohar.<New>
+Detailed specs cannot be
+ascertained by the
+measuring devices here.<New>
+But then again, I wonder
+whether this Gear has a
+limited ability to measure
+at all?<New>
+It almost seems that this
+Gear gets stronger and
+stronger as Fei's mental
+powers increase...<New>
+Anyhow, the engine seems
+to have been left in there
+from before, so it should
+require fuel as before...<New>
+But it wouldn't surprise
+me if this thing doesn't
+actually need fuel anymore!<Close><End of Block>
+<TextBlock 8 w:50 h:5>
+This is <Brigandier>,
+our boss, the young
+master's Gear.<New>
+Height 17.0 sharls
+Base Weight 13.9 kahnns
+Full Weight 18.6 kahnns
+when fully equipped.<New>
+It is specially tuned for
+desert battles. The power
+of the Hover-thrusters in
+the legs are especially
+worthy of attention...<New>
+Oh, and the eyepatch and
+feather decorations were
+added later at the young
+master's request.<Close><End of Block>
+<TextBlock 9 w:54 h:6>
+We didn't know what to do
+when young master said,<Delay 10>
+"Destroy one sensor and
+put an eyepatch over it
+...without weakening the
+ability to reconnoiter..."!<Close><End of Block>
+<TextBlock 10 w:58 h:4>
+This is <Andvari>,
+the young master's Gear...<New>
+Height 18.3 sharls
+Base Weight 15.2 kahnns
+Full Weight 19.1 kahnns
+when fully equipped.<New>
+This is an Omnigear that
+was left by Roni Fatima,
+the ancestor of our young
+master...<New>
+They say this Omnigear was
+created by uniting that...
+Anima Relic (or whatever it
+is called...) and a machine.<New>
+But by the looks of it, this
+frame also used to be some
+kind of Gear before it was
+transformed...<New>
+All exterior work and 60% of
+the interior was changed to
+unknown materials, but the
+base was a regular machine.<New>
+So that means the basic
+performance can be improved
+by using different parts.<New>
+But then again, it moves by
+spiritual power so such parts
+may not influence its real
+overall power that much.<Close><End of Block>
+<TextBlock 11 w:56 h:5>
+This is <Andvari>,
+the young master's Gear...<New>
+Height 18.3 sharls
+Base Weight 15.2 kahnns
+Full Weight 19.1 kahnns
+when fully equipped.<New>
+It was created by two of
+the sages of Shevat,
+Balthasar and Melchior...<New>
+They made it using the data
+on the Omnigear left by Roni
+Fatima, an ancestor of the
+young master, and the data
+obtained from <Xenogears>.<New>
+It is a combination of the
+latest Gear technology and
+nanotechnology. But the
+performance is the same as
+when it was an Omnigear.<New>
+Even when it was found
+hidden in the underground
+in Nisan, its basic weapon
+equipment was the whip.<New>
+That must mean, the young
+master's ancestors must've
+used whips and rods too...
+I guess it's in the blood,
+huh!?<Close><End of Block>
+<TextBlock 12 w:56 h:4>
+This is <Heimdal>,
+Doctor Citan Uzuki's Gear.<New>
+Height 16.9 sharls
+Base Weight 14.0 kahnns
+Full Weight 18.1 kahnns
+when fully equipped.<New>
+The basic frame was
+excavated at the same time
+as the young master's Gear.<New>
+But its output was
+proportionately too powerful
+for the body, so it took a
+long time to adjust it...<New>
+Actually many of my team
+members were injured
+because of it.<New>
+But doc solved the problem
+so easily, and can control
+it so well now...
+It was just amazing.<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+This is <Fenrir>,
+Doctor Citan Uzuki's Gear.<New>
+Height 18.6 sharls
+Base Weight 17.2 kahnns
+Full Weight 20.4 kahnns
+when fully equipped.<New>
+It was created by two of
+the sages of Shevat,
+Balthasar and Melchior.<New>
+They used the data from the
+Omnigear, Fenril, brought
+from Solalis by the Doctor,
+and Fei's <Xenogears>.<New>
+It is a union of Gear and
+nanotechnology. But the
+performance is the same as
+when it was an Omnigear.<New>
+The default equipment is
+the sword...which seems
+to be the doctor's weapon
+of choice.<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Want to rename this Gear?
+<Opcode 1 255>    Yes, I'd like to!
+    No, not now thanks!<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Citan
+"Fei!
+I was worried about you!"<Close><End of Block>
+<TextBlock 16 w:16 h:2>
+Fei
+"Doc..."<Close><End of Block>
+<TextBlock 17 w:54 h:3>
+Welcome to the sand cruiser
+"Yggdrasil". We apologize
+for that earlier incident.<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+Maison
+"I'm sure everyone has
+already had the courtesy
+to introduce themselves. <New>
+But allow me to introduce
+the sand pirates' leader,
+Master Bartholomew."<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Maison
+"By the way, may I ask,
+young master, did you
+apologize to Master Fei?" <Close><End of Block>
+<TextBlock 20 w:42 h:4>
+Bart
+"What?  Uhh...yeah...<Delay 10>
+I told him I was
+'wrong'...<Delay 10> Right?"<Close><End of Block>
+<TextBlock 21 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 22 w:52 h:4>
+Just telling someone you
+were 'wrong' after the
+event isn't going to solve
+everything, young master.<Close><End of Block>
+<TextBlock 23 w:54 h:5>
+First Mate
+"I'm sorry I've delayed
+introducing myself...<New>
+My name is "Sigurd", the
+First Mate of this sand
+cruiser.<Close>
+Fei<Delay 10>...that was your name,
+right?<Delay 10> Hyu... I mean,
+Citan told me a little
+about what happened.<New>
+We caused you so much
+trouble because we acted
+recklessly.<Delay 10> I sincerely
+apologize to you.<New>
+As recompense, allow us to
+give you a ride to what-
+ever destination you want.<New>
+But, please excuse us for
+a while as we make a detour
+to go back to our base for
+supplies.<New>
+In the mean time, enjoy a
+pleasant cruise...or should
+I say, 'sand cruise'.<New>
+It must be fate that we
+met like this..."<Close><End of Block>
+<TextBlock 24 w:54 h:3>
+Maison
+"Well then, please let me
+know if you need anything."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Bart
+"...That's the situation...<Delay 10>
+So now, forgive me, will
+ya!?"<Close><End of Block>
+<TextBlock 26 w:44 h:3>
+Sigurd
+"Young master!
+Stay out of mischief."<Close><End of Block>
+<TextBlock 27 w:40 h:2>
+"Ouch ouch ouch!!
+Don't pull my ears!"<Opcode 2 15><Close><End of Block>
+<TextBlock 28 w:52 h:3>
+Citan
+"Let us go and wait in our
+cabin until we arrive...<New>
+It is well-made and
+comfortable."<Close><End of Block>
+<TextBlock 29 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 30 w:30 h:3>
+Citan
+"What is wrong?
+You look down."<Close><End of Block>
+<TextBlock 31 w:16 h:3>
+Fei
+"No...<Delay 10>
+Well..."<Close><End of Block>
+<TextBlock 32 w:42 h:2>
+Citan
+"Something happened?"<Close><End of Block>
+<TextBlock 33 w:28 h:2>
+Fei
+"No, nothing."<Close><End of Block>
+<TextBlock 34 w:34 h:2>
+Fei
+"<Opcode 14 1>I...must go<Delay 5>...!!<Close><End of Block>
+<TextBlock 35 w:52 h:4>
+Citan
+"You are in no condition
+to participate...<Delay 10>
+Let us take care of this!"<Close><End of Block>
+<TextBlock 36 w:48 h:4>
+Billy
+"Looks like it's time to
+settle the score... But,
+Fei should be resting."<Close><End of Block>
+<TextBlock 37 w:48 h:4>
+Billy
+"Looks like it's time to
+settle the score... But,
+Fei should be resting."<Close><End of Block>
+<TextBlock 38 w:52 h:4>
+Citan
+"Yes. <Delay 10>
+I shall take Fei to the
+infirmary.<New>
+Billy, please take care of
+the rest of things."<Close><End of Block>
+<TextBlock 39 w:44 h:3>
+Billy
+"Please help us if you
+can."<Close><End of Block>
+<TextBlock 40 w:10 h:1>
+Fei!?<Close><End of Block>
+<TextBlock 41 w:24 h:2>
+Fei
+"Uh,<Delay 20> doc..."<Close><End of Block>
+<TextBlock 42 w:48 h:3>
+Citan
+"Fei, 
+feeling better already?"<Close><End of Block>
+<TextBlock 43 w:24 h:3>
+Fei
+"Yeah...<Delay 20>
+Probably..."<Close><End of Block>
+<TextBlock 44 w:52 h:4>
+Elly
+"I take my eyes off of you
+for a second and this is
+what you go and do...<New>
+What are you doing riding
+a Gear when you're only
+just recovering?"<Close><End of Block>
+<TextBlock 45 w:52 h:4>
+Elly
+"What are you doing riding
+a Gear when you're only
+just recovering?"<Close><End of Block>
+<TextBlock 46 w:52 h:4>
+Billy
+"Why are you up and about?
+I thought you were only
+just recovering?<New>
+You shouldn't be doing
+that!"<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Bart
+"What are you moving around
+for when you've only just
+recovered?<New>
+Aren't sick people supposed
+to rest in bed!!"<Close><End of Block>
+<TextBlock 48 w:54 h:4>
+Rico
+"Why are you moving around?
+You've only just recovered!<Delay 10>
+Get back to bed!!"<Close><End of Block>
+<TextBlock 49 w:52 h:3>
+Fei
+"I don't know what I'm
+doing here myself...<New>
+I don't have a clear head,
+yet..."<Close><End of Block>
+<TextBlock 50 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 51 w:14 h:1>
+Uhhh...<Close><End of Block>
+<TextBlock 52 w:40 h:4>
+Citan
+"Fei!!<Delay 10>
+You should not be
+moving around yet!!"<Close><End of Block>
+<TextBlock 53 w:52 h:3>
+Alkanshel located straight
+ahead!!<Delay 10>
+Prepare Gears for launch!!<Close><End of Block>
+<TextBlock 54 w:0 h:1>
+<Close><End of Block>

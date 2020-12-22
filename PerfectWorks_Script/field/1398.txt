@@ -1,0 +1,74 @@
+<TextBlock 1 w:42 h:2>
+Fei
+"...Where are we<Delay 32>...?"<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Fei
+"...That's right...<New>
+The memory in my soul...
+It was left in me for
+your sake..."<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Fei
+"...Yes, you are the child
+I, or Kim, wished for.<New>
+Kim has been a part of me,
+in my blood - passing his
+memory down the generations
+- for the past 4000 years.<New>
+Existing for the day that
+the child, who Kim was
+never able to embrace for
+so long, would be born."<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Emeralda
+"...I, remember...<New>
+long ago... you...
+...Kim,...died...<New>
+right before town
+died... It was because
+soldiers of town...
+tried use me..."<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Emeralda
+"While I being held...
+Krelian told that I...<New>
+  ...the ultimate
+  'work of art' that
+  technology gave
+  birth to...      <New>
+Yes, I knew I was thing.
+Look, my body...<New>
+Different from Maria,
+Margie...and Elly.
+...Human imitation...
+...but different.<New>
+Kim and Elly said...
+I was angel..."<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Emeralda
+"Fei! Thank for being
+substitute Kim till now!
+But, it okay...<New>
+I be strong and make
+Kim and Elly proud
+that I their child!"<Close><End of Block>
+<TextBlock 7 w:32 h:2>
+Emeralda
+"...W, wha...?<New>
+Fei...<Delay 32>body...
+so...h...hot..."<Close><End of Block>
+<TextBlock 8 w:36 h:4>
+Emeralda
+"Fei...<Delay 45>
+hold me...tight...<Delay 23>
+Don't let go."<Close><End of Block>
+<TextBlock 9 w:16 h:3>
+Emeralda
+" Fei...<Delay 32>
+body..."<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+Emeralda
+"...I became adult
+...adult...I...<New>
+I not get in your
+way anymore!!"<Close><Close><End of Block>

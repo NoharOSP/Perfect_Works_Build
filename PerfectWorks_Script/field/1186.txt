@@ -1,0 +1,1401 @@
+<TextBlock 1 w:54 h:4>
+Sigurd
+"Young master, according to
+Margie, there's quite a
+troublemaker in Gebler."<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Bart
+"Yeah...
+So, who the heck is he?"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Sigurd
+"Kahran Ramsus<Delay 10> of the Holy
+Solaris Empire's Special
+Foreign Affairs Agency<Delay 5>...<New>
+In other words, he's the
+commander in chief of
+Gebler.<New>
+It seems that Gebler isn't
+just after the excavation
+sites around Aveh after
+all."<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Bart
+"You mean, they're not
+after the Jasper?"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Sigurd
+"If that's their only goal
+they wouldn't need to send
+an important man like him!<New>
+Young master, this could
+become unexpectedly
+complicated..."<Close><End of Block>
+<TextBlock 6 w:36 h:3>
+Fei
+"Doc hasn't come
+back yet, has he?"<Close><End of Block>
+<TextBlock 7 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+Sigurd
+"Hyu...<Delay 10> I mean,<Delay 10> 'doc'...<Delay 10>
+No need to worry about him.
+He'll join us soon."<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Sigurd
+"Deus integrated with
+Zohar and awoke...<New>
+But we've found out Deus
+is in the center of the
+giant structure created
+out of the fallen Merkava.<New>
+The only way we can think
+of to destroy Deus is to
+penetrate into there and
+make our way to the center.<New>
+That structure used to be
+Merkava itself, but we
+must assume the inside has
+changed significantly.<New>
+We don't know what dangers
+await inside of there.<Delay 10>
+Please be very careful.<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Fei
+"Yeah, thanks Sigurd.
+Let me take care of it.<New>
+I will destroy Deus.<Delay 30>
+Even if it costs me
+everything I have..."<Close><End of Block>
+<TextBlock 11 w:24 h:4>
+Bart
+"Fei...<Delay 30>
+Are you sure
+about this?"<Close><End of Block>
+<TextBlock 12 w:20 h:2>
+Fei
+"Bart...?"<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Bart
+"I know what you must be
+thinking now.
+If you destroy Deus...<New>
+...the proliferation of the
+nanomachines that are out
+to turn this planet itself
+into a weapon will stop...<New>
+But, if you end up losing
+Elly who was united with
+Deus for that very purpose,
+then what good will it be?"<Close><End of Block>
+<TextBlock 14 w:24 h:4>
+Bart
+"Fei...<Delay 30>
+Are you sure
+about this?"<Close><End of Block>
+<TextBlock 15 w:20 h:2>
+Fei
+"Bart...?"<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Bart
+"I know what you must be
+thinking now.
+If you destroy Deus...<New>
+...the proliferation of the
+nanomachines that are out
+to turn this planet itself
+into a weapon will stop...<New>
+But, if you end up losing
+Elly who was united with
+Deus for that very purpose,
+then what good will it be?"<Close><End of Block>
+<TextBlock 17 w:16 h:2>
+Fei
+"But..."<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Sigurd
+"That's right, Fei.<Delay 20>
+She's our friend who's been
+through a lot with us too.<New>
+I think that saving a dear
+friend is just as important
+as protecting our planet or
+saving the world...<New>
+What better reason is there
+to fight? If you can't even
+save your friends, then how
+could you save the world?<New>
+Don't you agree?"<Close><End of Block>
+<TextBlock 19 w:46 h:4>
+Bart
+"Yeah, Sig's right!<Delay 20>
+Don't you ever give up,
+Fei, no matter what!<New>
+You're the only one
+who can release Elly
+from Deus' spell.<New>
+But, we'll give you as
+much backup as we can.<Delay 10>
+So..."<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+Bart
+"Yeah, Sig's right!<Delay 20>
+Don't you ever give up,
+Fei, no matter what!<New>
+You're the only one
+who can release Elly
+from Deus' spell.<New>
+But, we'll give you as
+much backup as we can.<Delay 10>
+So..."<Close><End of Block>
+<TextBlock 21 w:34 h:4>
+Fei
+"Thanks a lot.<Delay 20>
+Bart, Sigurd...<Delay 10>
+I won't give up."<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Sigurd
+"You volunteered to fight
+for the young master and
+the rest of us.<New>
+So it's our turn to fight
+for you and Elly.
+Let's go, Fei...<Delay 10>
+to gain true freedom!!"<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Sigurd
+"We don't have much time
+left.<Delay 10> Let's go, to win
+ourselves true freedom!!"<Close><End of Block>
+<TextBlock 24 w:52 h:4>
+Sigurd
+"Ready to go to Sargasso?"
+    Sure!
+    Wait a minute!<Close><End of Block>
+<TextBlock 25 w:42 h:3>
+Sigurd
+"It seems Fei isn't
+in the infirmary...<New>
+But he must be
+onboard somewhere..."<Close><End of Block>
+<TextBlock 26 w:36 h:3>
+Sigurd
+"Let's head to the
+excavation site."<Close><End of Block>
+<TextBlock 27 w:30 h:3>
+Sigurd
+"Let's hurry to
+the Thames!!"<Close><End of Block>
+<TextBlock 28 w:42 h:4>
+Sigurd
+"Some new parts were
+brought into our Gear
+Shop down below.<New>
+Why don't you go and
+check them out!?"<Close><End of Block>
+<TextBlock 29 w:50 h:4>
+Sigurd
+"We have arrived at the
+transport ship.<Delay 10>
+Be careful now, Billy..."<Close><End of Block>
+<TextBlock 30 w:34 h:4>
+Sigurd
+"Good morning.<Delay 10>
+Billy is waiting
+in the gun room."<Close><End of Block>
+<TextBlock 31 w:50 h:2>
+(U...ugh...<Delay 10>
+Feels like a hangover...)<Close><End of Block>
+<TextBlock 32 w:34 h:3>
+Sigurd
+"Billy is waiting
+in the gun room."<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Sigurd
+"I see. So, Fei'll recover
+if he continues to rest.
+I'm relieved to hear that.<New>
+It seems the orphanage is
+located to the southeast of
+the 'Ethos' headquarters."<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Sigurd
+"It appears the 'Ethos'
+headquarters is located
+to the north of the Thames.<New>
+We must hurry up and take
+Fei there..."<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+Sigurd
+"That reminds me... Margie
+says that she has something
+to talk to you about..."<Close><End of Block>
+<TextBlock 36 w:48 h:2>
+Sigurd
+"Fei is unconscious...?"<Close><End of Block>
+<TextBlock 37 w:52 h:4>
+Sigurd
+"How careless of me.<Delay 10>
+I never thought Elly would
+do a thing like that...<New>
+Why don't you go and
+see how she is, Fei?"<Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Sigurd
+"Young master, where did
+you go while we were so
+busy...?<New>
+An international goodwill
+visit with the Thames?
+Well, whatever...<New>
+Now about those supplies
+for the submarine..."<Close><End of Block>
+<TextBlock 39 w:50 h:4>
+Bart
+"Oh, that?<Delay 10>
+Let me see...order an
+additional 16 torpedoes!"<Close><End of Block>
+<TextBlock 40 w:22 h:2>
+Sigurd
+"Yes, sir."<Close><End of Block>
+<TextBlock 41 w:52 h:4>
+Sigurd
+"The young master has
+finally started to realize
+his position as a king."<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Sigurd
+"Fei, sorry to ask but...<Delay 10>
+Would you mind telling the
+young master to come here?"<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Sigurd
+"Young master...
+You shouldn't play pranks
+in an unknown land!"<Close><End of Block>
+<TextBlock 44 w:52 h:3>
+Sigurd
+"Where one god disdains,
+another god shows mercy.<New>
+We have to appreciate
+people's good intentions."<Close><End of Block>
+<TextBlock 45 w:40 h:4>
+Sigurd
+"Young master...
+You should apologize
+to the two of them."<Close><End of Block>
+<TextBlock 46 w:42 h:4>
+Sigurd
+"Forgive me, Hyuga...<Delay 10>
+I couldn't save Fei
+and Elly..."<Close><End of Block>
+<TextBlock 47 w:50 h:4>
+Sigurd
+"We shall have to enter
+into Nisan through the
+secret road.<New>
+Let's keep on the lookout
+for a lone tree in the
+desert as a sign of where
+the road lies buried...!"<Close><End of Block>
+<TextBlock 48 w:46 h:4>
+Sigurd
+"It's time to sneak
+into Aveh at last.<New>
+First of all, our party
+should inspect the town
+and work out a plan of
+action."<Close><End of Block>
+<TextBlock 49 w:44 h:3>
+Sigurd
+"We're almost at the
+hideout...<New>
+We'll probably stop
+there for a while for
+supplies and repairs."<Close><End of Block>
+<TextBlock 50 w:34 h:3>
+Sigurd
+"Shall we launch
+the Yggdrasil?"<New>
+    <Opcode 1 255>Go ahead!
+    Wait a while.<Close><End of Block>
+<TextBlock 51 w:44 h:3>
+Sigurd
+"We are currently
+anchored at Shevat..."<New>
+    <Opcode 1 255>Leave Shevat.
+    Changed my mind.<Close><End of Block>
+<TextBlock 52 w:50 h:3>
+Bart
+"Our Yggdrasil was reborn
+with Shevat technology.<New>
+This vessel will be
+named 'the Third'!"<Close><End of Block>
+<TextBlock 53 w:50 h:3>
+Bart
+"Our Yggdrasil was reborn
+with Shevat technology.<New>
+This vessel will be
+named 'the Third'!"<Close><End of Block>
+<TextBlock 54 w:44 h:4>
+Sigurd
+"The operations are a
+bit different from the
+previous Yggdrasil.<New>
+So you'll have to
+learn the workings
+all over again!"<Close><End of Block>
+<TextBlock 55 w:32 h:2>
+Yes!<Delay 10>
+I'll do my best!<Close><End of Block>
+<TextBlock 56 w:50 h:3>
+Sigurd
+"We're currently anchored
+at the Thames..."<New>
+    <Opcode 1 255>Leave Thames.
+    Changed my mind.<Close><End of Block>
+<TextBlock 57 w:44 h:4>
+Sigurd
+"So this is your first
+time to see our new
+Yggdrasil II...<New>
+Let me show you our
+reborn vessel's
+improved performance!"<Close><End of Block>
+<TextBlock 58 w:40 h:3>
+Sigurd
+"Currently anchored
+at Nisan...<New>
+    <Opcode 1 255>Leave Nisan.
+    Changed my mind.<Close><End of Block>
+<TextBlock 59 w:44 h:3>
+Sigurd
+"Currently anchored
+at our hideout..."<New>
+    <Opcode 1 255>Leave the hideout.
+    Changed my mind.<Close><End of Block>
+<TextBlock 60 w:46 h:4>
+Bart
+"We went through a
+lot together...<New>
+But this one's going to
+be really tough...<Delay 10>
+But, we won't die! <Delay 10>
+We'll come back alive!<New>
+I'll be asking you to
+join me again when
+this is all over!"<Close><End of Block>
+<TextBlock 61 w:38 h:2>
+Bart
+"I can go anytime!"<Close><End of Block>
+<TextBlock 62 w:38 h:3>
+Bart
+"Sig is drinking in
+the gun room."<Close><End of Block>
+<TextBlock 63 w:38 h:2>
+Bart
+"I can go anytime!"<Close><End of Block>
+<TextBlock 64 w:32 h:3>
+Bart
+"We're almost at
+my hideout!"<Close><End of Block>
+<TextBlock 65 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 66 w:44 h:2>
+If Sigurd passes away,
+I will...!<Close><End of Block>
+<TextBlock 67 w:42 h:3>
+Young master, would
+you let me steer once
+in a while, please!?<Close><End of Block>
+<TextBlock 68 w:42 h:3>
+Yahoo!!<Delay 10>
+He'll let me be an
+apprentice helmsman!"<Close><End of Block>
+<TextBlock 69 w:48 h:4>
+Yggdrasil III can fly
+now, thanks to Shevat's 
+technology but...<New>
+The operations have
+changed a little so
+I've gotta study
+them all over again.<New>
+Wanna see my notes?
+    <Opcode 1 255>Let me see them
+    Not right now<Close><End of Block>
+<TextBlock 70 w:53 h:4>
+<Opcode 1 255>1)<Delay 10> The <T> button is the
+   accelerator.
+   It moves you forward
+   really fast!!<New>
+2)<Delay 10> If you press the
+   Directional button with
+   the <T> button held down,
+   you can...<New>
+ go down by pressing Up,
+ go up by pressing Down,
+ and change direction by
+ pressing Left or Right.<New>
+3)<Delay 10> When you want to turn
+ quickly, also press the
+ L1 button for left, or
+ the R1 button for right.<New>
+4)<Delay 10> You can reverse by
+   pressing the R2 button.<New>
+5)<Delay 10> Press the <S> button
+   to go to the bridge.
+   Press the <C> button
+   to land.<New>
+ But note...
+ There are places where
+ you cannot land, such as
+ mountains and forests.<New>
+ But then again that was
+ the same conditions the
+ Yggdrasil had when it
+ was a Sand Cruiser.<Close><End of Block>
+<TextBlock 71 w:58 h:4>
+My name is Bingo, the
+apprentice helmsman.<Delay 10>
+Sigurd has been teaching me
+how to operate the Yggdrasil!<New>
+Do you want to see my notes?
+    <Opcode 1 255>Yeah, let me see them
+    Not right now, thanks<Close><End of Block>
+<TextBlock 72 w:62 h:5>
+<Opcode 1 255>1)<Delay 10> The Yggdrasil can be
+   operated just as if you are
+   walking... Just use the
+   Directional button to move
+   in the direction you want.<New>
+2)<Delay 10> While cruising, if you want
+   to stop and disembark in
+   your Gear, then just press
+   the <C> button.<New>
+   To stop and come back to
+   the bridge (that is, here),
+   press the <S> button.<New>
+   From the bridge, you can go
+   into the rest of the vessel<Delay 5>
+   to rest,<Delay 5> tune up a Gear,<Delay 5>
+   weigh yourself<Delay 5> and so on!<New>
+3)<Delay 10> While cruising, press the
+   Select button to activate
+   the Remote Sensing System.<Delay 10>
+   It will map your current
+   position.<New>
+4)<Delay 10> When you don't know how to
+   get to where you want to go,
+   ask the navigation officer,
+   Mr. Alei, who's looking in
+   the binoculars there.<New>
+   He will be able to show you
+   the ship's charts.<Close><End of Block>
+<TextBlock 73 w:54 h:2>
+I can't wait until I become
+a fully-fledged helmsman...<Close><End of Block>
+<TextBlock 74 w:54 h:2>
+The ship's missiles might
+not work on that monster...<Close><End of Block>
+<TextBlock 75 w:48 h:5>
+Suddenly we've gone from
+land to air travel...
+From two dimensions to
+three dimensions...
+This is difficult...<Close><End of Block>
+<TextBlock 76 w:54 h:4>
+Exchange all the torpedo
+tubes to missile launchers.
+We can shoot Gungany...I
+mean, 'Bart Missiles', too!<Close><End of Block>
+<TextBlock 77 w:40 h:2>
+By the way, how do
+you shoot downwards?<Close><End of Block>
+<TextBlock 78 w:46 h:4>
+So how's the status of
+our ammo supplies...
+Hmm, maybe we need more
+anti-aircraft shells...<Close><End of Block>
+<TextBlock 79 w:56 h:4>
+The compass we received
+from Shevat is great.
+You can aim at 15 different 
+targets simultaniously!<Close><End of Block>
+<TextBlock 80 w:34 h:2>
+My dear artillery
+guns, keep it up!<Close><End of Block>
+<TextBlock 81 w:50 h:6>
+The command of view is
+better than the desert...
+It's ideal for observing
+missile detonation.
+The giant splashes should
+be really easy to spot.<Close><End of Block>
+<TextBlock 82 w:50 h:4>
+Water torpedoes are
+built much more simply
+than sand torpedoes.<New>
+Thanks to that, their
+power is double that of
+our previous ship's arms.
+But they're expensive.<Close><End of Block>
+<TextBlock 83 w:24 h:2>
+Man, my legs
+move great!<Close><End of Block>
+<TextBlock 84 w:58 h:4>
+Do they have ammo that
+works with our vessel here?
+It's about time to change the
+radar to water software too!<Close><End of Block>
+<TextBlock 85 w:58 h:4>
+I didn't think they would
+have such a variety of water
+torpedoes. Their normal
+torpedoes are not bad either.<New>
+There're so many of them
+that I can't decide...!<Close><End of Block>
+<TextBlock 86 w:52 h:4>
+When it comes to cannons, 
+you don't know where the
+shells will fly to until
+you've actually shot'em.<New>
+But, they're suitable
+for the pirating trade
+because they're cheap
+yet intimidating...<New>
+On the other hand though,
+torpedoes blow everything
+to blazes and are down-
+right expensive too...<Close><End of Block>
+<TextBlock 87 w:50 h:3>
+It's dry in the desert so
+gunpowder burns steadily
+and easy to predict.<New>
+It'd be great if the
+temperature would stay
+the same day and night.<Close><End of Block>
+<TextBlock 88 w:48 h:4>
+This ship's mast is low.<Delay 10>
+So it'd help if we could
+get a Gear to observe
+the shells' impacts...<New>
+And when the catapults
+are opened, you can't
+use the main cannon.<Delay 10>
+Ahh, so many problems...<Close><End of Block>
+<TextBlock 89 w:52 h:4>
+The azimuth compass wasn't
+in its proper position.
+I'd better fix it while we
+are at an anchorage...<Close><End of Block>
+<TextBlock 90 w:50 h:5>
+I want to change this to
+a firing radar with a
+better filter...
+Oh, and I'd love a bigger
+torpedo tube, too...<Close><End of Block>
+<TextBlock 91 w:40 h:4>
+Franz
+"Oh, young master!<Delay 10>
+I...I'm not loafing
+on the job! Honest!"<Close><End of Block>
+<TextBlock 92 w:6 h:1>
+...<Opcode 2 10><Close><End of Block>
+<TextBlock 93 w:52 h:4>
+Franz
+"Oh, <Delay 10>sorry...<Delay 10>
+I didn't realize that you
+were there! <New>
+Wanna hear some hot sounds
+that I have recorded?"
+    <Opcode 1 255>Sure.
+    No thanks.<Close><End of Block>
+<TextBlock 94 w:46 h:4>
+Franz
+"Wanna hear some more?"
+    <Opcode 1 255>Yeah, this is cool!
+    No, enough already!<Close><End of Block>
+<TextBlock 95 w:42 h:3>
+Franz
+"Ahh...
+Well that's too bad."<Close><End of Block>
+<TextBlock 96 w:52 h:4>
+Franz
+"That's too bad...<Delay 10>
+You could have seen the
+world between the static!"<Close><End of Block>
+<TextBlock 97 w:48 h:2>
+<Opcode 1 255>'The Franz Collection'
+     Number <Opcode 10 0><Close><End of Block>
+<TextBlock 98 w:48 h:4>
+I'm finally getting used
+to being in the sky...<Delay 10>
+But I shouldn't get too
+relaxed yet!<Close><End of Block>
+<TextBlock 99 w:52 h:3>
+I still break into a cold 
+sweat everytime I take off
+and land.<Close><End of Block>
+<TextBlock 100 w:54 h:3>
+...In short, it flies
+cause it has wings, right?
+This is hard to understand!<Close><End of Block>
+<TextBlock 101 w:54 h:4>
+Hmm, so in water the rudder
+has to be gently engaged
+before trying to turn.
+Guess I learned something.<Close><End of Block>
+<TextBlock 102 w:46 h:4>
+Wow, to think something
+like a Lemora would be
+in the ocean... It was
+covered in shells!<Close><End of Block>
+<TextBlock 103 w:54 h:4>
+I had a competition going  
+on with the young master
+the other day to see who
+could tip the boat further.<New>
+Old Maison literally was
+white as a sheet, saying
+all the teacups were
+destroyed...<Close><End of Block>
+<TextBlock 104 w:50 h:5>
+There was a desert Lemora
+plastered all over the 
+bottom of the ship.
+No wonder we didn't get 
+any speed...<Close><End of Block>
+<TextBlock 105 w:30 h:3>
+...<Delay 10>
+Let's put more
+oomph into it!!<Close><End of Block>
+<TextBlock 106 w:62 h:4>
+High-speed three-dimensional
+maneuvering? ... Impossible!
+I'm not a Gear pilot! Hah! But
+then again, I've got no choice!<Close><End of Block>
+<TextBlock 107 w:34 h:4>
+With the booster,
+the acceleration
+is monsterous!
+It's fun though.<Close><End of Block>
+<TextBlock 108 w:48 h:5>
+How to use the rudder...
+Deploy the slats
+simultaneously...
+like this... Hmm?
+What's a Vortex Flow?<Close><End of Block>
+<TextBlock 109 w:44 h:4>
+...Wingtip-stalls...
+hammerhead-stalls...
+the Helpst maneuver...
+grumble... grumble...<Close><End of Block>
+<TextBlock 110 w:58 h:4>
+Hmmm, the rudder doesn't work
+as well as it did in sand...
+It doesn't feel secure or
+seem to be reliable at all!<Close><End of Block>
+<TextBlock 111 w:58 h:3>
+I'm kind of used to it now.
+You can move more freely in
+the water, once you know how!<Close><End of Block>
+<TextBlock 112 w:52 h:4>
+It's a lot harder to
+control the ship after the
+young master steered it.
+He is so reckless...<Close><End of Block>
+<TextBlock 113 w:60 h:3>
+We had a lot happen this time.
+I'd better take a good look
+at those propulsion wheels!<Close><End of Block>
+<TextBlock 114 w:46 h:2>
+All I've heard is
+static since then...<New>
+I hope people are still
+alive out there...<Close><End of Block>
+<TextBlock 115 w:50 h:5>
+Shevat uses a special
+communication method...<Delay 10>
+I was ordered to work out
+a system to decode it on
+our ship...<Delay 10> I hope I can!<Close><End of Block>
+<TextBlock 116 w:44 h:3>
+Three dimension radio
+wave lighthouse?<Delay 10>
+We need new Navi-soft!<New>
+And they expect me to
+create it all...
+Yeah, right...!?<Close><End of Block>
+<TextBlock 117 w:36 h:2>
+Franz is sulky and
+won't help me...<Close><End of Block>
+<TextBlock 118 w:62 h:5>
+Shevat's communication decoder,<Delay 10>
+charts of angular cordinates of
+the radio wave lighthouse and
+it's pulses,<Delay 10> table of guidance
+communication code settings...<New>
+There're so many things we
+need to buy.<Delay 10>
+Things have gotten a lot more
+complicated and expensive,
+now that we can fly!<Close><End of Block>
+<TextBlock 119 w:44 h:2>
+Laser communication...<Delay 10>
+I, <Delay 5>I want it so bad...<Close><End of Block>
+<TextBlock 120 w:52 h:3>
+We had a lot of trouble
+with static electricity in
+the desert causing noise.<Close><End of Block>
+<TextBlock 121 w:52 h:4>
+We can use high frequency
+radio waves in the water,
+but the resolution is low,
+so it's hard to make out.<Close><End of Block>
+<TextBlock 122 w:48 h:4>
+...With the increase in
+usable radio waves, my
+work load has increased.<Delay 10>
+I'm happy but I'm busy!<Close><End of Block>
+<TextBlock 123 w:52 h:5>
+We increased the antennas,
+but now I can't keep track
+of everything because I
+don't have enough selector
+channels...<Delay 10> Drats!!<Close><End of Block>
+<TextBlock 124 w:54 h:4>
+Once I get to a good
+stopping point I guess I'll
+go get me a standard
+communications oscillator.<Close><End of Block>
+<TextBlock 125 w:52 h:4>
+The usable electric waves
+have increased, so now the
+layout of the antenna mast
+needs to be changed too!<Close><End of Block>
+<TextBlock 126 w:54 h:4>
+While under the sand, there
+is nothing but static...<Delay 10>
+As a matter of fact, there
+is nothing to do either...<Close><End of Block>
+<TextBlock 127 w:48 h:5>
+Sand conducts sound much
+better than air does.<Delay 10>
+Why, I can hear every
+gripe Shakhan says!<Delay 10>
+Ha... Just kidding!<Close><End of Block>
+<TextBlock 128 w:42 h:2>
+Our maps are not much
+of a help anymore...<Close><End of Block>
+<TextBlock 129 w:50 h:3>
+Young master, do you have
+any idea where we are?<Delay 10>
+It's not on my map!<Close><End of Block>
+<TextBlock 130 w:44 h:2>
+It's not on the map...<Delay 10>
+Where the heck are we?<Close><End of Block>
+<TextBlock 131 w:32 h:1>
+I got a new map!<Close><End of Block>
+<TextBlock 132 w:36 h:4>
+Do you want to see
+the ship's chart?
+    <Opcode 1 255>Yeah, show me!
+    No thanks.<Close><End of Block>
+<TextBlock 133 w:52 h:4>
+Alright then...<Delay 10>
+Let me know when you
+want to see it...<Delay 10>
+It's no loss to me anyway.<Close><End of Block>
+<TextBlock 134 w:48 h:3>
+That Jerico is serious!<Delay 10>
+I should put more oomph 
+into it, too!<Close><End of Block>
+<TextBlock 135 w:56 h:4>
+I thought I'd have more free
+time. But I have to fix up
+Jerico's mistakes, so now
+I'm busier than before...<Close><End of Block>
+<TextBlock 136 w:50 h:3>
+I hope Jerico doesn't go
+learning any more strange
+things ever again...<Close><End of Block>
+<TextBlock 137 w:60 h:4>
+I don't have to do delicate
+effect wing movements anymore,
+but it's harder to keep
+balance than it was on sand.<Close><End of Block>
+<TextBlock 138 w:46 h:3>
+I must inspect the
+extended main tank now.
+I'm not used to it yet.<Close><End of Block>
+<TextBlock 139 w:54 h:3>
+This ship uses innumerable
+effect wings to pulverize
+sand and wade through it.<New>
+If our balance is lost, 
+we roll over in the desert.<Delay 10>
+It's all up to our skill!<Close><End of Block>
+<TextBlock 140 w:54 h:4>
+I have to repair some of
+the pumps that died now.
+Oh, I also have to re-cover
+the effect wings...<Close><End of Block>
+<TextBlock 141 w:40 h:3>
+The map needs to be
+rewritten because of
+what's happened!<Close><End of Block>
+<TextBlock 142 w:46 h:3>
+If you ignore the time 
+scale, there isn't much
+change in the workload.<Close><End of Block>
+<TextBlock 143 w:52 h:5>
+Look! Look!
+The aerial picture matches
+the map I made a long time
+ago...exactly! I'm filled
+with such deep emotion.<Close><End of Block>
+<TextBlock 144 w:46 h:3>
+It's a small world.
+I already remember all
+the land, sea and air!!<Close><End of Block>
+<TextBlock 145 w:50 h:2>
+A chart! 
+I need to go buy a chart!<Close><End of Block>
+<TextBlock 146 w:44 h:4>
+The captain here is a
+good guy! He taught me
+a lot about the sea.
+But he's a mean drunk!<Close><End of Block>
+<TextBlock 147 w:50 h:3>
+I was kind of discouraged
+that there are so many
+unmapped places...<New>
+But at the same time,
+I was happy to be able
+to write new charts...<Close><End of Block>
+<TextBlock 148 w:46 h:4>
+The ocean is so huge...
+The desert at least had
+some kind of landmarks
+to look for...<New>
+Now I can't just rely
+on knowing the land.
+I've also got to master
+celestial measurement.<Close><End of Block>
+<TextBlock 149 w:46 h:3>
+Jerico has been careful
+lately, so navigation
+has been made easier.<Close><End of Block>
+<TextBlock 150 w:54 h:6>
+Oh, that's the chief
+navigator's banana boat.
+Look at the map.<Delay 10>
+The desert may seem to be
+flat and boring but it's
+actually quite complicated.<New>
+It's even worse when you
+dive underground...
+Unexpected boulders and
+underground waterways...
+You can't take your eyes
+off that map for a second!<Close><End of Block>
+<TextBlock 151 w:48 h:4>
+That Jerico! He lets the
+Yggdrasil drift, so that
+the time and routes we
+take end up being off...<Close><End of Block>
+<TextBlock 152 w:56 h:4>
+The desert changes everyday.
+So I rewrite the map with
+the information we collect
+whenever we're out there.<Close><End of Block>
+<TextBlock 153 w:56 h:5>
+The map box is the greatest
+treasure in the Yggdrasil!<Delay 10>
+This ship can run amuck
+because it has these maps.<Delay 10>
+They're all hand-made by me!<Close><End of Block>
+<TextBlock 154 w:52 h:4>
+Bart
+"Well if it isn't Doctor
+Citan Uzuki and<Delay 10>...errh,<Delay 10>
+his very big friend!<New>
+I see you've finally woken
+up.<Delay 10> I am terribly sorry
+about what happened...<Delay 10>
+Please forgive me..."<Close><End of Block>
+<TextBlock 155 w:54 h:4>
+Rico
+"I have a name, you know...<Delay 10>
+It's Ricardo Banderas...<Delay 10>
+But everyone calls me Rico!<New>
+So, what are you
+apologizing to us for?"<Close><End of Block>
+<TextBlock 156 w:54 h:4>
+Bart
+"...<Delay 10>
+I suppose I had better stop
+beating around the bush...<New>
+I'm not usually this frank
+or apologetic but, well..."<Close><End of Block>
+<TextBlock 157 w:50 h:4>
+Citan
+"What he is trying to
+say is this<Delay 5>...<New>
+The people who shot us
+down, and the people who
+saved us, are one in the
+same<Delay 5>...<Delay 5>this ship's crew!"<Close><End of Block>
+<TextBlock 158 w:46 h:3>
+Rico
+"...?<Delay 10><Delay 10>
+You don't mean...<New>
+That Goliath which we
+were riding in was shot
+down by...?"<Close><End of Block>
+<TextBlock 159 w:52 h:4>
+Bart
+"Yes, you're a bit slow
+there...<Delay 5>errh,<Delay 5> big friend!<New>
+Actually our Yggdrasil II
+did a good job in shooting
+down that monster of an
+airplane!!<Delay 5> It was great!"<Close><End of Block>
+<TextBlock 160 w:46 h:3>
+"You should've seen it!<Delay 10>
+Wow!<Delay 10> My 'Bart Missiles'
+sure were awesome...!!"<Close><End of Block>
+<TextBlock 161 w:32 h:4>
+Rico
+"AAAARRRGGHHH!!<Delay 10>
+I won't forgive
+you so easily!!"<Opcode 2 60><Close><End of Block>
+<TextBlock 162 w:46 h:4>
+Sigurd
+"Fei, the young master
+hasn't come back yet.
+What's he up to?<New>
+Would it be too much to
+ask for you to go and
+call him for me?"<Close><End of Block>
+<TextBlock 163 w:46 h:3>
+Fei
+"No problem!<New>
+He's probably wining
+and dining with the
+Captain of the Thames!"<Close><End of Block>
+<TextBlock 164 w:60 h:3>
+I've detected a rescue signal!<Delay 10>
+It seems the Thames is being
+attacked by a pack of Reapers!<Close><End of Block>
+<TextBlock 165 w:46 h:4>
+Bart
+"So this is the purging
+by Solaris that Stone
+was talking about!?"<Close><End of Block>
+<TextBlock 166 w:46 h:4>
+Bart
+"So this is the purging
+by Solaris that Stone
+was talking about!?"<Close><End of Block>
+<TextBlock 167 w:50 h:4>
+Citan
+"Let us make haste!<Delay 10>
+Otherwise the Thames will
+be destroyed by Reapers!"<Close><End of Block>
+<TextBlock 168 w:50 h:4>
+Citan
+"Let us make haste!<Delay 10>
+Otherwise the Thames will
+be destroyed by Reapers!"<Close><End of Block>
+<TextBlock 169 w:48 h:4>
+Jessie
+"What about the 'Ethos'?
+They've completely
+devastated themselves!<New>
+That mob just goes from
+bad to worse!"<Close><End of Block>
+<TextBlock 170 w:52 h:4>
+Citan
+"Do you not think it is
+about time you told your
+son the truth, old friend?<New>
+You were not just
+wandering around drinking
+and picking fights, were
+you?<New>
+I am sure he wants to
+know what you have been
+up to...<Delay 10>
+Is that right, Billy?"<Close><End of Block>
+<TextBlock 171 w:52 h:4>
+Citan
+"Do you not think it is
+about time you told your
+son the truth, old friend?<New>
+You were not just
+wandering around drinking
+and picking fights, were
+you?<New>
+I am sure he wants to
+know what you have been
+up to...<Delay 10>
+Is that right, Billy?"<Close><End of Block>
+<TextBlock 172 w:52 h:4>
+Billy
+"Yes, it would certainly
+make me feel a lot better.<New>
+I now know my dad was
+worried about me the whole
+time, but I haven't worked
+out my feelings yet..."<Close><End of Block>
+<TextBlock 173 w:38 h:2>
+Jessie
+"What do you mean?"<Close><End of Block>
+<TextBlock 174 w:54 h:4>
+Billy
+"Well I'm glad Prim can
+speak now, but she only
+calls out for her father...<New>
+But I am the one who has
+been taking care of her
+all this time...<Delay 10>
+What's wrong with her...?"<Close><End of Block>
+<TextBlock 175 w:54 h:4>
+Citan
+"Calm down,<Delay 10> Billy...<Delay 10>
+I am sure she is just
+being shy.<New>
+She will start calling out
+for you soon.<Delay 10> Why, my own
+daughter does not even call
+out her father's name!"<Close><End of Block>
+<TextBlock 176 w:42 h:4>
+Citan
+"So, old friend...<Delay 10>
+Why were you working
+alone all that time?"<Close><End of Block>
+<TextBlock 177 w:54 h:4>
+Citan
+"Calm down,<Delay 10> Billy....<Delay 10>
+I am sure she is just
+being shy.<New>
+She will start calling out
+for you soon.<Delay 10> Why, my own
+daughter does not even call
+out her father's name!"<Close><End of Block>
+<TextBlock 178 w:42 h:4>
+Citan
+"So, old friend...<Delay 10>
+Why were you working
+alone all that time?"<Close><End of Block>
+<TextBlock 179 w:52 h:4>
+Jessie
+"It couldn't be helped...<Delay 10>
+Anyway, I'll probably need
+your help from here on..."<Close><End of Block>
+<TextBlock 180 w:54 h:4>
+Jessie
+"Okay, I'll tell you more.<Delay 10>
+Let's go to the gun room...<Delay 10>
+to get something to drink."<Close><End of Block>
+<TextBlock 181 w:32 h:2>
+Fei
+"That <Delay 10>can't be!"<Close><End of Block>
+<TextBlock 182 w:30 h:3>
+Billy
+"A secondary
+explosion...!?"<Close><End of Block>
+<TextBlock 183 w:54 h:4>
+Citan
+"Oh no!<Delay 10>
+I should have known better.
+What a miscalculation!!<New>
+The explosion was too big.<Delay 10>
+It reacted with the main
+condenser right under
+the main cannon...<New>
+...and induced a
+secondary explosion...<Delay 10>
+How could I have been
+so stupid!?"<Close><End of Block>
+<TextBlock 184 w:32 h:3>
+Bart
+"You mean,<Delay 10>
+we overdid it!?"<Close><End of Block>
+<TextBlock 185 w:38 h:3>
+Citan
+"Why did I not
+realize it sooner!?<New>
+This means...<Delay 10>
+We might have...
+Oh no, Elly...!"<Close><End of Block>
+<TextBlock 186 w:38 h:3>
+Fei
+"Oh...<Delay 10>oh my gosh...<Delay 10>
+Elly...!!"<Close><End of Block>
+<TextBlock 187 w:28 h:3>
+Billy
+"W,what is it,<Delay 10>
+this time?"<Close><End of Block>
+<TextBlock 188 w:36 h:4>
+Bart
+"Hey, <Delay 10>Citan!
+What more is going
+to happen!?"<Close><End of Block>
+<TextBlock 189 w:52 h:4>
+Citan
+"Something is happening in
+the center of Merkava...<Delay 10>
+What could it be...!?"<Close><End of Block>
+<TextBlock 190 w:46 h:4>
+Billy
+"Thank you for helping
+me, everyone.<New>
+To be honest, that was
+too dangerous for me on
+my own. I couldn't have
+done it without you..."<Close><End of Block>
+<TextBlock 191 w:50 h:4>
+Bart
+"Is your job always this
+dangerous?<New>
+Hah, I never thought you
+would call a Gear!?<Delay 10>
+But, what in hell is the
+'Ethos' thinking anyway?"<Close><End of Block>
+<TextBlock 192 w:50 h:4>
+Bart
+"Is your job always this
+dangerous?<New>
+Hah, I never thought you
+would call a Gear!?<Delay 10>
+But, what in hell is the
+'Ethos' thinking anyway?"<Close><End of Block>
+<TextBlock 193 w:42 h:4>
+Billy
+"!!<Delay 10> ...<Delay 5>We Etones
+are merely fulfilling
+our divine mission!"<Close><End of Block>
+<TextBlock 194 w:52 h:4>
+Bart
+"Sorry...<Delay 10> It was wrong of
+me to say that.<Delay 10> Don't take
+it so seriously!<New>
+So, you're going to report
+back to the 'Ethos' about
+your job's results, right?<New>
+Well, if you like we shall
+give you a ride to the
+'Ethos' H.Q...<Delay 10>
+It's on our way."<Close><End of Block>
+<TextBlock 195 w:52 h:4>
+Bart
+"Sorry...<Delay 10> It was wrong of
+me to say that.<Delay 10> Don't take
+it so seriously!<New>
+So, you're going to report
+back to the 'Ethos' about
+your job's results, right?<New>
+Well, if you like we shall
+give you a ride to the
+'Ethos' H.Q...<Delay 10>
+It's on our way."<Close><End of Block>
+<TextBlock 196 w:42 h:4>
+Billy
+"That would be great,
+so long as it doesn't
+put you out...<New>
+I have something to
+give you as a sign of
+my gratitude.<New>
+So please accompany
+me into the 'Ethos'
+headquarters.
+Let's go..."<Close><End of Block>
+<TextBlock 197 w:52 h:4>
+Citan
+"'Anonelbe'...<New>
+The long awaited man of
+god, who will take the
+people born in this world
+with him to a new horizon.<New>
+Such is the destiny of
+the 'Contact'.<Delay 10>
+That is what the emperor
+called Fei...<New>
+He did not tell me why he
+called Fei that though..."<Close><End of Block>
+<TextBlock 198 w:52 h:2>
+Sigurd
+"Who the heck is he then?"<Close><End of Block>
+<TextBlock 199 w:54 h:4>
+Citan
+"He is Fei.<Delay 30>
+But he is also the one
+who...<New>
+destroyed Elru,<Delay 10> caused Kahr
+serious injury,<Delay 10> sank the
+Yggdrasil,<Delay 10> killed Rico's
+subordinate's in Kislev...<New>
+...<Delay 10>
+Need I continue further?<Delay 10>
+He is<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 10>Id.<Close><End of Block>
+<TextBlock 200 w:38 h:3>
+Sigurd
+"What did you say!?<Delay 10>
+Id!?"<Close><End of Block>
+<TextBlock 201 w:38 h:2>
+Jessie
+"What do you mean?"<Close><End of Block>
+<TextBlock 202 w:54 h:4>
+Citan
+"He<Delay 5>...<Delay 10>Fei that is,<Delay 10> has
+Disassociative Identity
+Disorder...<New>
+Also known more commonly as
+multiple personalities."<Close><End of Block>
+<TextBlock 203 w:30 h:2>
+Jessie
+"D...<Delay 5>disas...?"<Close><End of Block>
+<TextBlock 204 w:52 h:4>
+Citan
+"Disassociative Identity
+Disorder...<Delay 10>
+or multiple personalities.<New>
+It is a mental disorder
+where one person has
+multiple personalities."<Close><End of Block>
+<TextBlock 205 w:46 h:2>
+Sigurd
+"That can't be real..."<Close><End of Block>
+<TextBlock 206 w:52 h:4>
+Citan
+"Oh but it is very real!<Delay 10>
+Fei is living proof of it.<New>
+I have been watching over
+Fei, who has a destroyer
+personality within him
+named 'Id'."<Close><End of Block>
+<TextBlock 207 w:54 h:4>
+Citan
+"In the beginning he was
+stable...<New>
+His disassociation did not
+occur at all while he
+lived in Lahan for those
+three years.<New>
+But then, after Lahan was
+attacked, things changed.<New>
+Little by little, the
+number of incidences of his
+disassociation and their
+length began to increase.<New>
+And then at Solaris, a
+complete manifestation
+of Id occurred."<Close><End of Block>
+<TextBlock 208 w:46 h:4>
+Sigurd
+"What brought it about?<Delay 10>
+He was fine when he
+was in Lahan, right?"<Close><End of Block>
+<TextBlock 209 w:54 h:4>
+Citan
+"My guess is that<Delay 5>...<Delay 10>
+the appearance of Grahf
+affected Fei somehow.<New>
+You probably know that Fei
+worked with Grahf as the
+assasin 'Id' before he was
+brought to live in Lahan.<New>
+It was then that Elru,<Delay 5>
+the homeland of Dominia,<Delay 5>
+was utterly obliterated.<New>
+Grahf was intentionally
+provoking the manifestation
+of Id<Delay 10> 'within'<Delay 5>...<Delay 5>for want
+of a better word<Delay 5>...<Delay 10>Fei."<Close><End of Block>
+<TextBlock 210 w:38 h:2>
+Jessie
+"For what purpose?"<Close><End of Block>
+<TextBlock 211 w:54 h:4>
+Citan
+"To destroy God<Delay 5>...<Delay 10>
+That is what Grahf
+was saying...<New>
+That is all I know...
+Although there might be
+more to it...<Delay 10>
+But one thing is certain...<New>
+Grahf was encouraging the
+manifestation of Id, but
+did not have adequate
+control over him."<Close><End of Block>
+<TextBlock 212 w:40 h:4>
+Sigurd
+"In other words, it
+was too much for him
+to handle?"<Close><End of Block>
+<TextBlock 213 w:12 h:2>
+Citan
+"Yes."<Close><End of Block>
+<TextBlock 214 w:54 h:4>
+Jessie
+"You said, 'That's all you
+know, although there might
+be more to it.'...<New>
+What did you mean by that?"<Close><End of Block>
+<TextBlock 215 w:54 h:4>
+Citan
+"I shall go on to explain
+that now.<Delay 10> Actually, that is
+the most important point."<Close><End of Block>
+<TextBlock 216 w:36 h:3>
+Billy
+"Well then...
+shall we go, too?"<Close><End of Block>
+<TextBlock 217 w:66 h:5>
+I've picked up the 'Ethos' fleet
+and the Thames on the radar, sir.<Delay 10>
+They're on the sea south of here.<Delay 10>
+If we travel at full speed we can
+reach them in an hour.<Close><End of Block>
+<TextBlock 218 w:42 h:3>
+Sigurd
+"Alright!<Delay 10>
+Set sail for Thames!"<Close><End of Block>
+<TextBlock 219 w:28 h:1>
+Aye, aye, sir!<Close><End of Block>
+<TextBlock 220 w:34 h:2>
+First mate!<Delay 10>
+The radar sir...!<Close><End of Block>
+<TextBlock 221 w:28 h:2>
+Sigurd
+"What is it!?"<Close><End of Block>
+<TextBlock 222 w:46 h:4>
+The radar just detected
+an enormous object!<Delay 10>
+It appeared straight
+above the fleet!<Close><End of Block>
+<TextBlock 223 w:44 h:3>
+Bart
+"Don't tell me Stone's
+there already!?"<Close><End of Block>
+<TextBlock 224 w:44 h:3>
+Bart
+"Don't tell me Stone's
+there already!?"<Close><End of Block>
+<TextBlock 225 w:36 h:4>
+No, it is much
+bigger than that!<Delay 10>
+I estimate it's at
+least 2000 sharls!<Close><End of Block>
+<TextBlock 226 w:38 h:4>
+Billy
+"That's gigantic...<Delay 10>
+What in the heavens
+is happening...?"<Close><End of Block>
+<TextBlock 227 w:3 h:1>
+ <Close><Close><End of Block>

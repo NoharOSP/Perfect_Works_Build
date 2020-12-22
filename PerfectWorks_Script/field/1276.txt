@@ -1,0 +1,120 @@
+<TextBlock 1 w:42 h:3>
+Elly
+"What? 
+There's something..."<Close><End of Block>
+<TextBlock 2 w:46 h:2>
+Elly
+"Billy, who's 'buddy'?"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Elly
+"There's nothing there.
+Don't scare me. It's just
+fish jumping around.<New>
+But the sea is great.
+The breeze is so cool...
+So different from the
+desert!!"<Close><End of Block>
+<TextBlock 4 w:50 h:5>
+Elly
+"!! 
+Didn't you just say we
+couldn't stand a chance
+against it by ourselves?"<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Citan
+"Huh? 
+Something behind..."<Close><End of Block>
+<TextBlock 6 w:48 h:2>
+Citan
+"Billy...who is 'buddy'?<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Citan
+"There is nothing there.
+Just fish jumping around.<New>
+Ahh...the sea. The cool
+breeze...so different from
+the desert!!"<Close><End of Block>
+<TextBlock 8 w:52 h:3>
+Citan
+"!!<New>
+You did say that we would
+not stand much of a chance
+against it by ourselves?"<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+Bart
+"Huh? 
+Something there...?"<Close><End of Block>
+<TextBlock 10 w:54 h:2>
+Bart
+"Yo Billy, what's 'buddy'?"<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Bart
+"There's nothing there but
+some fish jumping around.<New>
+I love the sea. The cool
+breeze...so different from
+the desert. From now on
+I'm a man of the sea."<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Bart
+"Hey!<New>
+What now? Didn't you just
+say that we wouldn't stand
+a chance against that by
+ourselves?"<Close><End of Block>
+<TextBlock 13 w:34 h:2>
+Rico
+"What's that...?"<Close><End of Block>
+<TextBlock 14 w:50 h:2>
+Rico
+"Hey Billy, who's buddy?"<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Rico
+"Huh? It's just a fish.<New>
+Aah, I love the sea.
+The breeze is so cool...
+Nothing like Kislev."<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Rico
+"Hey!<New>
+What now? Didn't you just
+say that we wouldn't stand
+a chance against that by
+ourselves?"<Close><End of Block>
+<TextBlock 17 w:48 h:3>
+Billy
+"Just as I thought. This
+transport's infested.<New>
+I must go to the
+'Ethos' and tell
+Bishop Stone..."<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Billy
+"...Hmm, it's probably
+its brethren. A giant
+Wels.<New>
+An entity we wouldn't stand
+much of a chance against by
+ourselves. But don't worry,
+they're pretty slow.<New>
+Even if that Wels called
+it, it probably won't
+reach us in time.<New>
+But I called for my Gear
+anyway just to be safe."<Close><End of Block>
+<TextBlock 19 w:46 h:4>
+Billy
+"...<Delay 20>...<Delay 20>
+Faster than I expected.
+Well, here it comes."<Close><End of Block>
+<TextBlock 20 w:36 h:3>
+Billy
+"It should be any 
+time now."<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Billy
+"Great timing on the part
+of the kids. I owe them
+one.<New>
+Well, get ready cause here
+it come."<Close><Close><End of Block>

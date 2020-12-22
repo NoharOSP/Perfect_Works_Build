@@ -1,0 +1,16 @@
+<TextBlock 1 w:38 h:1>
+The door is locked.<Close><End of Block>
+<TextBlock 2 w:38 h:1>
+The door is locked.<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 4 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 5 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

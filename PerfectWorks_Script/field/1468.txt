@@ -1,0 +1,130 @@
+<TextBlock 1 w:46 h:3>
+Fei
+"Argh!<Delay 20>
+I'm not gonna lose it."<Close><End of Block>
+<TextBlock 2 w:26 h:3>
+Fei
+"Argh!<Delay 20>
+ here we go!"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Fei
+"Are you sure we can
+catch fish?<Delay 20> Even without
+bait?"<Close><End of Block>
+<TextBlock 4 w:10 h:2>
+Fei
+"..."<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Fei
+"Huh!?<Delay 20>
+The fish is biting!"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+What do you want to do?<Delay 20>
+    Reel it in!
+    Check around
+    Be patient<Close><End of Block>
+<TextBlock 7 w:38 h:2>
+Fei
+"Okay, here we go!"<Close><End of Block>
+<TextBlock 8 w:22 h:2>
+Fei
+"I did it!"<Close><End of Block>
+<TextBlock 9 w:34 h:3>
+Fei
+"Darn it!<Delay 20>
+It cut the line!"<Close><End of Block>
+<TextBlock 10 w:22 h:2>
+Fei
+"I did it!"<Close><End of Block>
+<TextBlock 11 w:28 h:3>
+Fei
+"Okay, then...
+Like this..."<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Fei
+"Yeah...<Delay 20>
+Is it gonna work...?<New>
+The pro's technique is to
+read the opponent's moves
+and make it tired at the
+same time!"<Close><End of Block>
+<TextBlock 13 w:34 h:3>
+Fei
+"Darn it!<Delay 20>
+It cut the line!"<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+Fei
+"Hmm...<Delay 20>
+Almost...<New>
+I can feel a strong tug
+on the line...<Delay 20>
+It's a big one."<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Fei
+"Alright...
+Impatience is taboo."<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+Fei
+"Hmm...not yet...?<Delay 20>
+Tenacity makes all the
+difference."<Close><End of Block>
+<TextBlock 17 w:26 h:3>
+Fei
+"Huh...!?<Delay 20>
+What the...?"<Close><End of Block>
+<TextBlock 18 w:34 h:3>
+Fei
+"Darn it!<Delay 20>
+It cut the line!"<Close><End of Block>
+<TextBlock 19 w:26 h:3>
+Fei
+"...<Delay 20>
+There, now!!"<Close><End of Block>
+<TextBlock 20 w:42 h:4>
+Fei
+"I can't believe it!<Delay 20>
+Now, open your mouth 
+and let me see it...<New>
+I found it!<Delay 20>
+This is it!"<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+Fei
+"...<Delay 30>Y, you aren't getting
+away that easily...!!"<Close><End of Block>
+<TextBlock 22 w:40 h:3>
+Fei
+"He-he!
+A reasonable catch!"<Close><End of Block>
+<TextBlock 23 w:56 h:4>
+Yes, yes...<Delay 50>
+I'm listening, dear.<New>
+It reminds me of the good
+old days.<Delay 60> This is the
+place you and I met for
+our first date, isn't it?<New>
+I recall that on that day,
+you dear, read me a poem
+that you said you wrote
+all by yourself...<New>
+I thought it funny that
+such a romantic still
+exists in our day and age...<Delay 30>
+But I was delighted by it...<New>
+Nothing has changed here...<Delay 60>
+Truly important things
+can't be taken away by
+anyone...<Close><End of Block>
+<TextBlock 24 w:36 h:2>
+Dark Rock has been
+received already.<Close><End of Block>
+<TextBlock 25 w:36 h:1>
+Lost Spider Web...<Close><End of Block>
+<TextBlock 26 w:38 h:1>
+Received Dark Rock!<Close><End of Block>
+<TextBlock 27 w:44 h:2>
+Released the fish that
+was caught.<Close><End of Block>
+<TextBlock 28 w:42 h:3>
+Do you want to go up?<Delay 10>
+    Yes
+    No<Close><Close><End of Block>

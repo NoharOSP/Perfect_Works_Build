@@ -1,0 +1,86 @@
+<TextBlock 1 w:34 h:1>
+To the next scene<Close><End of Block>
+<TextBlock 2 w:62 h:4>
+When Fei and the others arrived
+at the deepest part of Mahanon,<Delay 30>
+I was looking after the newly
+mutating people in Nisan<Delay 5>...<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+People mutating, one
+after the other...<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Like some eternal nightmare
+that made me wonder just
+how long we would have
+to keep on nursing them.<Close><End of Block>
+<TextBlock 5 w:30 h:2>
+Margie
+"Are you okay?"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Margie
+"You haven't had
+any rest have you?<New>
+I can handle things
+on my own for a while.
+Why don't you go out
+for a walk?"<Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Elly
+"Thank you.<Delay 30>
+But I'll be alright.<New>
+I'd rather keep busy
+so that I won't worry
+about things too much."<Close><End of Block>
+<TextBlock 8 w:26 h:2>
+Margie
+"Is that it?"<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Margie
+"Hey!<Delay 30>
+Elly, what's that?"<Close><End of Block>
+<TextBlock 10 w:14 h:2>
+Elly
+"This?"<Close><End of Block>
+<TextBlock 11 w:30 h:2>
+Margie
+"Can I see it?"<Close><End of Block>
+<TextBlock 12 w:52 h:3>
+Margie
+"Just as I thought...
+It's the Pendant of Nisan.<New>
+But, why do you have it,
+Elly?"<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Elly
+"It's Fei's. I'm holding
+on to it for him...<Delay 30>
+But...<New>
+It feels as if I have
+always worn it..."<Close><End of Block>
+<TextBlock 14 w:16 h:2>
+Margie
+"Hmm..."<Close><End of Block>
+<TextBlock 15 w:40 h:4>
+Margie
+"When you wear that,
+you look even more
+like Sophia!"<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Elly
+"Really? Hmm...
+Flattery won't get you
+anything, you know?<New>
+Anyway, we need to hurry up
+and test the new mutation
+suppressant assembler on
+those other people there.<New>
+We can't afford to have
+them change any further."<Close><End of Block>
+<TextBlock 17 w:10 h:2>
+Elly
+"Ah!"<Close><End of Block>
+<TextBlock 18 w:46 h:4>
+Elly
+"Oh-no...
+Something has happened
+to Fei and the others!"<Close><Close><End of Block>

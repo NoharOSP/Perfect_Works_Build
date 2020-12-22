@@ -1,0 +1,414 @@
+<TextBlock 1 w:44 h:3>
+Citan
+"Good work. Get plenty
+of rest for tomorrow."<Close><End of Block>
+<TextBlock 2 w:34 h:3>
+Going out again?
+    Yes
+    Get some rest<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Citan
+"Are you sure?
+Please do not come 
+back too late."<Close><End of Block>
+<TextBlock 4 w:32 h:4>
+Citan
+"Good.
+Save your energy
+for tomorrow."<Close><End of Block>
+<TextBlock 5 w:40 h:4>
+Citan
+"Come back after you
+have registered for
+the Tournament."<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Citan
+"Good morning.
+Operation 'Rescue Margie'
+is now underway!"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Citan
+"First Fei and I will
+prepare for the Tournament
+at the arena.<New>
+When the Tournament starts,
+Bart will enter the water-
+way through the well and
+head for the castle.<New>
+If you swim against the
+current you should reach
+the castle.<New>
+I am certain there will
+still be some guards
+there, so please dispose
+of them quietly.<New>
+We will make a good show
+at the Tournament to draw
+the guards' attention as
+long as possible.<New>
+During that time, you can
+rescue Margie."<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Any questions?
+    Got it
+    Once more, please<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Citan
+"Then let us go.
+Be careful, young one!"<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Bart
+"Fei, no matter what, 
+you gotta win!"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Bart
+"Well, I'm all ready so
+I'm gonna get some sleep.
+Man, I'm beat."<Close><End of Block>
+<TextBlock 12 w:34 h:4>
+More sightseeing 
+in Aveh?
+    Yes
+    Rest<Close><End of Block>
+<TextBlock 13 w:46 h:3>
+Bart
+"Really?<New>
+If we succeed tomorrow
+I won't be  comin' back
+here for a while."<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Bart
+"Yeah, tomorrow will be 
+tough for both of us."<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Bart
+"Did you register for
+the Tournament? What?<New>
+Not yet! Go hurry and
+sign up."<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Bart
+"It's about to start!
+I guess I better go
+get ready too."<Close><End of Block>
+<TextBlock 17 w:38 h:2>
+Is this plan really
+going to work?<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Bart
+"It's already started. 
+If something's wrong now,
+then that's tough!<New>
+What're you worried about?
+Fei'll do okay.
+Besides Citan's with him,
+too.<New>
+Now, all I gotta do is
+sneak into the castle
+through the well.
+No problem."<Close><End of Block>
+<TextBlock 19 w:20 h:1>
+I pray so.<Close><End of Block>
+<TextBlock 20 w:34 h:4>
+Bart
+"Well, I'm going.
+Margie's waiting
+in the citadel."<Close><End of Block>
+<TextBlock 21 w:34 h:3>
+Well then...
+do be careful.<New>
+And thank you for
+helping Mother
+Marguerite.<Close><End of Block>
+<TextBlock 22 w:40 h:4>
+Bart
+"No sweat!
+You'd better get
+outta Aveh now too.<New>
+Things are gonna get
+outta hand soon."<Close><End of Block>
+<TextBlock 23 w:20 h:1>
+Thank you.<Close><End of Block>
+<TextBlock 24 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 25 w:44 h:4>
+What's going on!?
+How dare you come into
+other people's rooms
+through the window...<Close><End of Block>
+<TextBlock 26 w:38 h:1>
+Prince Bartholomew!<Close><End of Block>
+<TextBlock 27 w:44 h:3>
+...I'm sorry. I heard
+Prince Bartholomew was
+coming here...<New>
+I just never expected
+it would be through
+the window...<Close><End of Block>
+<TextBlock 28 w:30 h:1>
+Please come in.<Close><End of Block>
+<TextBlock 29 w:30 h:2>
+Excuse me but
+who are they...<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+<Opcode 14 1>Bart
+"Oh, this is Fei and
+Citan. They're going to
+help rescue Margie."<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Thank you for coming here
+in this desert heat.
+I am a servant of the
+Nisan Sect.<New>
+Ever since Shakhan took
+Mother Marguerite I've
+been looking into ways
+to get her back.<New>
+I've been trying to find
+out where she is being
+held.<New>
+I've been busy listening
+to workers talk about
+the comings and goings
+from the castle...<New>
+And giving food to the
+guards who are preparing
+for the Tournament to
+loosen their lips too.<New>
+Finally yesterday, I got
+some information...
+Margie's in the citadel.<New>
+The problem is how to 
+slip into the castle...<New>
+I thought about it a lot
+but it looks pretty bleak.
+I'm sorry.<Close><End of Block>
+<TextBlock 32 w:50 h:3>
+Bart
+"No big deal. At least
+we know where she is now.<New>
+You just relax, we'll
+find a way to slip into
+the castle."<Close><End of Block>
+<TextBlock 33 w:54 h:3>
+My apologies. If there
+is anything else I can do
+to help just ask...<New>
+Do you have any good leads?<Close><End of Block>
+<TextBlock 34 w:38 h:2>
+Did you find a way 
+into the castle?<Close><End of Block>
+<TextBlock 35 w:40 h:2>
+Did you find a way 
+to use the festival?<Close><End of Block>
+<TextBlock 36 w:40 h:2>
+Any new information?
+Good ideas?<Close><End of Block>
+<TextBlock 37 w:32 h:2>
+Any luck finding
+the well key?<Close><End of Block>
+<TextBlock 38 w:48 h:3>
+Bart
+"Yeah, the old guy next 
+to the well had it."<Close><End of Block>
+<TextBlock 39 w:44 h:3>
+Citan
+"Not yet. We are going
+to look for it again."<Close><End of Block>
+<TextBlock 40 w:44 h:4>
+Bart
+"Not yet. We're gonna
+hit the streets for
+info. now.<New>
+Then we'll think
+about the rest later."<Close><End of Block>
+<TextBlock 41 w:50 h:4>
+I see. I'm very relieved
+that you are all here.
+Please come see me again
+if you hear anything new.<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Bart
+"I just remembered where
+Bledavik's water supply
+comes from...<New>
+Spring water rises up from
+under the castle and flows
+to the town via a series
+of underground waterways.<New>
+We can sneak into the
+castle by going through
+these underground
+waterways.<New>
+We can get into them from
+the town's well. The water-
+ways should lead right up
+to the castle's reservoir.<New>
+If we are able to get that
+far, we should be able to
+sneak into the other rooms
+of the castle from there."<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Citan
+"A good idea, except I
+have one more suggestion.<New>
+There is a festival going
+on now. There must be a
+way we can use it to our
+advantage." <Close><End of Block>
+<TextBlock 44 w:3 h:1>
+<!><Opcode 2 30><Close><End of Block>
+<TextBlock 45 w:40 h:3>
+North of town is a
+plaza. The castle is
+beyond that.<New>
+I'm sure we'll find
+something there.<Close><End of Block>
+<TextBlock 46 w:52 h:4>
+Citan
+"Tomorrow is the 
+Tournament. There will
+be betting at the arena.<New>
+Surely, the soldiers'
+minds will be more on the
+Tournament than their job.<New>
+We must use this to our
+advantage."<Close><End of Block>
+<TextBlock 47 w:34 h:1>
+What do you mean?<Close><End of Block>
+<TextBlock 48 w:44 h:4>
+Citan
+"Fei will participate.
+We will have him put
+on a big show there."<Close><End of Block>
+<TextBlock 49 w:54 h:4>
+Bart
+"Tomorrow's the Tournament.<New>
+Nothing's more popular than
+gambling at these things.<New>
+All the guards will be
+betting. They'll all be
+gambling.<New>
+They'll be more interested
+in the fight than their
+jobs. We gotta use this.
+Fei! You've gotta fight!"<Close><End of Block>
+<TextBlock 50 w:20 h:2>
+Fei
+"Huh? Me?"<Close><End of Block>
+<TextBlock 51 w:54 h:4>
+Bart
+"Everyone would know me.
+Besides, I know the castle
+well so I should sneak in."<Close><End of Block>
+<TextBlock 52 w:46 h:4>
+I'm sure today's the
+last day to sign up for
+the Tournament. You'd
+better register soon.<Close><End of Block>
+<TextBlock 53 w:48 h:3>
+Citan
+"No need to worry.
+Fei already registered."<Close><End of Block>
+<TextBlock 54 w:50 h:4>
+Citan
+"Even if using that as a
+ploy, how will you really
+get into the castle?"<Close><End of Block>
+<TextBlock 55 w:52 h:4>
+Bart
+"...We gotta get more
+info.<Delay 30> I'm sure we'll get a
+good idea from somewhere."<Close><End of Block>
+<TextBlock 56 w:52 h:3>
+Citan
+"Very well.<New>
+If we get any good ideas
+we will meet back here and
+plan our strategy."<Close><End of Block>
+<TextBlock 57 w:52 h:4>
+Citan
+"Tomorrow Fei will be in
+the Tournament at Fatima
+castle.<New>
+We will put on a good show
+to distract the guards.<New>
+Then Bart will infiltrate
+the castle through the
+underground waterways
+by way of the well.<New>
+I will accompany Fei to
+the Tournament. I will
+also help work the crowd
+and secure our escape."<Close><End of Block>
+<TextBlock 58 w:50 h:4>
+Citan
+"Sounds good.<New>
+Fei is in the Tournament.
+He will draw the guards'
+attention.<New>
+Then Bart will enter the
+castle through the
+waterways via the well.<New>
+After that he will rescue
+Marguerite from the
+citadel.<New>
+I will accompany Fei to
+the Tournament. I will 
+also help work the crowd
+and secure our escape."<Close><End of Block>
+<TextBlock 59 w:50 h:4>
+Citan
+"...<Delay 50>There is one problem.
+The well is locked. First
+we must find the key."<Close><End of Block>
+<TextBlock 60 w:48 h:3>
+Bart
+"Let's go find the key, 
+and fast!"<Close><End of Block>
+<TextBlock 61 w:50 h:4>
+Citan
+"Preparations for our
+plan are complete.<New>
+Tonight we will stay in
+the hotel and start out
+tomorrow.<New>
+We are free to do what we
+like for now. 
+Let us have a look around
+the town."<Close><End of Block>
+<TextBlock 62 w:42 h:3>
+Citan
+"Now to register for
+the Tournament.<New>
+Fei, pretend you are
+looking around and
+head for the castle."<Close><End of Block>
+<TextBlock 63 w:46 h:1>
+Sorry I can't help you.<Close><End of Block>
+<TextBlock 64 w:40 h:3>
+Please take care. 
+I wish you the best 
+of luck.<Close><End of Block>
+<TextBlock 65 w:34 h:4>
+Please take care.
+I will pray for
+all of you to
+return safely.<Close><End of Block>
+<TextBlock 66 w:2 h:1>
+!<Delay 30><Close><End of Block>
+<TextBlock 67 w:48 h:4>
+Wh, who are you!?
+Just barging into a
+lady's room.
+And from the window!<New>
+Oh, I think I'm going to
+faint. How rude you are!<Delay 30>
+What a dangerous town.
+Get out, now!<Close><End of Block>
+<TextBlock 68 w:44 h:2>
+What are you doing? 
+Get out of here, now! <Opcode 2 30><Close><End of Block>
+<TextBlock 69 w:44 h:2>
+No, don't come any 
+closer! Get out, now! <Opcode 2 30><Close><End of Block>

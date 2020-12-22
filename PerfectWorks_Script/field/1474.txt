@@ -1,0 +1,139 @@
+<TextBlock 1 w:26 h:2>
+Fei
+"This is...!"<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Fei
+"They were killed by
+Solaris..."<Close><End of Block>
+<TextBlock 3 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 4 w:32 h:2>
+Fei
+"H...<Delay 20>hey, wait!"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Citan
+"I guess...<Delay 20>
+it was a child's room..."<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Citan
+"What kind of dreams did
+the children in this room 
+have for the future...?"<Close><End of Block>
+<TextBlock 7 w:28 h:2>
+Citan
+"That girl..."<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Citan
+"That is alright.<Delay 20>
+Shall we go to the palace
+now?"<Close><End of Block>
+<TextBlock 9 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 10 w:52 h:3>
+Elly
+"We're fighting over lives
+aren't we...<New>
+And at times involving 
+those that have nothing to
+do with this struggle..."<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+Elly
+"Let's go toward the
+palace, shall we?"<Close><End of Block>
+<TextBlock 12 w:44 h:3>
+Bart
+"Tch...!<Delay 20>
+To hell with them...!"<Close><End of Block>
+<TextBlock 13 w:48 h:3>
+Bart
+"Damn it...!!<New>
+All you want is to win!?<Delay 20>
+Don't you care
+about anything else?"<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+Bart
+"...<Delay 20>
+Disagreeable squirt..."<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Rico
+"This is too much for me
+<Delay 20>to bear..."<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Rico
+"But we might be doing the
+same thing they're doing if
+we change our perpective."<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Rico
+"...<Delay 20> The girl's probably
+going through an awful lot
+of pain..."<Close><End of Block>
+<TextBlock 18 w:52 h:3>
+Billy
+"Innocent, blameless lives
+are taken away...<New>
+It's the same
+everywhere..."<Close><End of Block>
+<TextBlock 19 w:48 h:3>
+Billy
+"Why was this allowed
+to happen...?<New>
+Why does this never end?<Delay 20>
+What are we..."<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+Emeralda
+"...?<Delay 20>
+Humans were broken, too?"<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+<Chu-Chu>
+"Wow, a huge window!<Delay 20>
+Neigh! There's even a
+nice wooden horsey chu."<Close><End of Block>
+<TextBlock 22 w:44 h:4>
+<Chu-Chu>
+"But, where did the
+children go chu?<Delay 20>
+They went for a walk?"<Close><End of Block>
+<TextBlock 23 w:34 h:3>
+Maria
+"...<Delay 20>
+Damn Solaris...!"<Close><End of Block>
+<TextBlock 24 w:30 h:4>
+Emeralda
+"...<Delay 20>
+I can hear life
+ending..."<Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Maria
+"There are a lot of people
+who don't care if they
+hurt others..."<Close><End of Block>
+<TextBlock 26 w:38 h:4>
+Maria
+"There's no...<Delay 20>
+no end...<Delay 20>to war and
+resentment..."<Close><End of Block>
+<TextBlock 27 w:36 h:3>
+Maria
+"So, this is where
+you all were."<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Maria
+"The Queen said this house
+was destroyed in the great
+war 500 years ago.<New>
+This house has been kept
+like this on purpose as
+a reminder of the war."<Close><End of Block>
+<TextBlock 29 w:50 h:4>
+Maria
+"Thank you for waiting.<Delay 20>
+Please come to the Palace
+with me."<Close><End of Block>
+<TextBlock 30 w:46 h:2>
+Found a 'Child's memory
+from long ago'.<New>
+But nobody could take
+that away.<Close><Close><End of Block>

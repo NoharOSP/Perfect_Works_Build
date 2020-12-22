@@ -1,0 +1,124 @@
+<TextBlock 1 w:40 h:4>
+Big Joe
+"I lose. 
+Here's your present.
+Adios."<Close><End of Block>
+<TextBlock 2 w:46 h:2>
+ 
+ Received LongDarkCoat.<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Big Joe
+"Ha, how easy it is
+to beat you, amigo!
+Go away."<Close><End of Block>
+<TextBlock 4 w:36 h:4>
+Big Joe
+"Ha...a draw.
+Very lucky for you
+senor..."<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+Big Joe
+"Hey, hombre. You
+disturbin' our amore time?"<New>
+    Yes
+    No<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Big Joe
+"Si? Maybe you need some
+manners, muchacho!"<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+Big Joe
+"Well then go away."<Close><End of Block>
+<TextBlock 8 w:34 h:1>
+Oh Joe, mi amore!<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Bart
+"Sorry about what I
+said earlier..."<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Fei
+"It's alright. I was at
+fault too. I haven't seen
+you in such a long time.<New>
+We shouldn't be fighting."<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Bart
+"Sigh<Delay 5>...<Delay 5><New>
+The Yggdrasil II was
+constructed so quickly
+we had no time to ready
+its depth charges.<New>
+Also it was my fault we
+didn't have depth charges
+because I prioritized the
+Bart Missiles over...<New>
+...everything else."<Close><End of Block>
+<TextBlock 12 w:32 h:2>
+Fei
+"Bart Missiles?"<Close><End of Block>
+<TextBlock 13 w:36 h:4>
+Bart
+"Oh uh...um, well,
+they're not that
+great anyway."<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Fei
+"?<Delay 20>
+Anyway, I'm glad you're
+okay.<New>
+I always knew that you'd
+be alive."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Bart
+"Of course.
+I'm Bart the immortal.
+Whaddya trying to say<Delay 5>...?<New>
+But this time I got reamed
+by a red Gear monster."<Close><End of Block>
+<TextBlock 16 w:30 h:2>
+Fei
+"A red Gear..."<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Bart
+"Yeah. He beat me and then
+left us to sink into the
+sand.<New>
+But this next part sounds
+wild.<New>
+We sank into this huge cave
+under the sand! <Delay 10>And then
+a sand cruiser just like
+the Yggdrasil was there!<New>
+We replaced the usable
+parts and the bridge and
+remodeled it."<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Citan
+"Frankly, I do not believe
+it myself. It looks
+the same but it can float.<New>
+Most likely it is the
+Yggdrasil's prototype."<Close><End of Block>
+<TextBlock 19 w:48 h:5>
+Bart
+"People lived there
+long ago and they
+had many weapons.
+That's how we got them."<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Citan
+"Bart already showed me.
+Those weapons are most
+likely...<Delay 10>from Shevat."<Close><End of Block>
+<TextBlock 21 w:46 h:3>
+Fei
+"Shevat...<Delay 5>...<Delay 5>
+you mean the aerial..."<Close><End of Block>
+<TextBlock 22 w:42 h:4>
+Bart
+"More importantly, we
+should go say 'ahoy'
+to the Captain."<Close><End of Block>
+<TextBlock 23 w:20 h:2>
+Fei
+"...Yeah."<Close><Close><End of Block>

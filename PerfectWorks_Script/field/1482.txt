@@ -1,0 +1,71 @@
+<TextBlock 1 w:54 h:3>
+Fei
+"Isn't there another way to
+go down to the hangar?"<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Fei
+"I don't care.<Delay 20>
+We can't waste time here
+anyway."<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Fei
+"Fine!<Delay 20>
+Then, let's go!"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Citan
+"You are right.<Delay 20>
+It is not like the enemy
+is going to wait for us."<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Elly
+"You're right.<Delay 20>
+They won't wait for us."<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Bart
+"That's right!<Delay 20>
+They won't wait for us."<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Rico
+"That's right.<Delay 20>
+They won't wait for us."<Close><End of Block>
+<TextBlock 8 w:48 h:3>
+Billy
+"That's right.<Delay 20>
+They won't wait for us."<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+Emeralda
+"...<Delay 20>
+We're wasting time."<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+<Chu-Chu>
+"That's right!<Delay 20> Chu go out
+there and chu blow them
+away as quickly as we can.<New>
+That's the best way chu
+do it!"<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Maria
+"It's no use!<Delay 20>
+The defensive shutter is
+closed..."<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Maria
+"We may be able to go
+down if we use the 
+emergency shaft. <New>
+But it's not normally
+used..."<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Maria
+"I see.<Delay 20>
+The entrance to the shaft
+is just above here."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Maria
+"This is it.<Delay 20>
+We can go down by entering
+the shaft from here."<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Do you want to go up?
+    Yes
+    No<Close><Close><End of Block>

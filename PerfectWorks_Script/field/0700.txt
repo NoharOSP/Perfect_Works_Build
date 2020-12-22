@@ -1,0 +1,129 @@
+<TextBlock 1 w:18 h:1>
+Hey, hey!<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:48 h:1>
+Hey, I'm not your enemy.<Opcode 2 60><Close><End of Block>
+<TextBlock 3 w:52 h:2>
+Hey you, can you come here
+for a minute?<Opcode 2 60><Close><End of Block>
+<TextBlock 4 w:52 h:4>
+I have a favor to ask you.
+Will you listen to me?
+    Alright
+    No<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+I'm stuck in the sand.
+Can you push from the back?
+    Sure
+    No<Close><End of Block>
+<TextBlock 6 w:56 h:6>
+That was a big help, thanks.
+I'm going to the outlet of
+this island.
+Do you want a ride?
+    Yes
+    No thanks<Close><End of Block>
+<TextBlock 7 w:32 h:1>
+Alright. Get in.<Close><End of Block>
+<TextBlock 8 w:48 h:5>
+It'd be difficult to get
+out of this desert.
+Are you sure?
+    Give me a ride
+    I'll be fine<Close><End of Block>
+<TextBlock 9 w:32 h:1>
+Alright. Get in.<Close><End of Block>
+<TextBlock 10 w:44 h:2>
+Alright,
+from here you could...<Close><End of Block>
+<TextBlock 11 w:48 h:2>
+...You'll be able to get
+out if you go this way.<Close><End of Block>
+<TextBlock 12 w:22 h:1>
+Take care!!<Close><End of Block>
+<TextBlock 13 w:10 h:1>
+Jerk!<Close><End of Block>
+<TextBlock 14 w:36 h:3>
+Thanks.
+Push, once I start
+the engine.<Close><End of Block>
+<TextBlock 15 w:48 h:1>
+Okay, go ahead and push.<Close><End of Block>
+<TextBlock 16 w:54 h:1>
+Push harder! A little more.<Close><End of Block>
+<TextBlock 17 w:32 h:1>
+Alright. Get in.<Close><End of Block>
+<TextBlock 18 w:16 h:1>
+Dunemen!<Opcode 2 50><Close><End of Block>
+<TextBlock 19 w:24 h:1>
+Eastside yo!<Opcode 2 50><Close><End of Block>
+<TextBlock 20 w:32 h:1>
+turf! Ahhh yeah!<Opcode 2 50><Close><End of Block>
+<TextBlock 21 w:48 h:1>
+no place for Gears here!<Opcode 2 50><Close><End of Block>
+<TextBlock 22 w:22 h:1>
+a changin'!<Opcode 2 50><Close><End of Block>
+<TextBlock 23 w:28 h:1>
+not even sure!<Opcode 2 50><Close><End of Block>
+<TextBlock 24 w:34 h:1>
+really dangerous!<Opcode 2 50><Close><End of Block>
+<TextBlock 25 w:22 h:1>
+like y'all!<Opcode 2 50><Close><End of Block>
+<TextBlock 26 w:18 h:1>
+GO!<Delay 30> HOME!<Opcode 2 60><Close><End of Block>
+<TextBlock 27 w:18 h:1>
+stubborn!<Opcode 2 50><Close><End of Block>
+<TextBlock 28 w:16 h:1>
+Dunemen!<Opcode 2 50><Close><End of Block>
+<TextBlock 29 w:24 h:1>
+Westside ho!<Opcode 2 80><Close><End of Block>
+<TextBlock 30 w:32 h:1>
+turf! Ahhh yeah!<Opcode 2 70><Close><End of Block>
+<TextBlock 31 w:48 h:1>
+no place for Gears here!<Opcode 2 70><Close><End of Block>
+<TextBlock 32 w:22 h:1>
+a changin'!<Opcode 2 70><Close><End of Block>
+<TextBlock 33 w:10 h:1>
+We're<Opcode 2 70><Close><End of Block>
+<TextBlock 34 w:14 h:1>
+it'd be<Opcode 2 70><Close><End of Block>
+<TextBlock 35 w:30 h:1>
+place for wimps<Opcode 2 70><Close><End of Block>
+<TextBlock 36 w:44 h:1>
+Listen very carefully.<Opcode 2 100><Close><End of Block>
+<TextBlock 37 w:18 h:1>
+stubborn!<Opcode 2 60><Close><End of Block>
+<TextBlock 38 w:3 h:1>
+?<Close><End of Block>
+<TextBlock 39 w:28 h:2>
+Yo!<Delay 30>
+We're da merry<Opcode 2 60><Close><End of Block>
+<TextBlock 40 w:46 h:1>
+Lookin' for treasure...<Opcode 2 65><Close><End of Block>
+<TextBlock 41 w:22 h:1>
+This is our<Opcode 2 68><Close><End of Block>
+<TextBlock 42 w:36 h:1>
+Nah nah nah, ain't<Opcode 2 53><Close><End of Block>
+<TextBlock 43 w:22 h:1>
+The land is<Opcode 2 26><Close><End of Block>
+<TextBlock 44 w:8 h:1>
+Why?<Opcode 2 75><Close><End of Block>
+<TextBlock 45 w:18 h:1>
+Anyway...<Opcode 2 70><Close><End of Block>
+<TextBlock 46 w:26 h:1>
+This ain't no<Opcode 2 95><Close><End of Block>
+<TextBlock 47 w:54 h:1>
+If ya still don't get it...<Opcode 2 110><Close><End of Block>
+<TextBlock 48 w:46 h:3>
+Do you want to go back?
+    Yes
+    No<Close><End of Block>
+<TextBlock 49 w:26 h:1>
+You're sooooo<Opcode 2 70><Close><End of Block>
+<TextBlock 50 w:34 h:3>
+Leave the desert?
+    Yes
+    No<Close><End of Block>
+<TextBlock 51 w:34 h:3>
+Leave the desert?
+    Yes
+    No<Close><End of Block>

@@ -1,0 +1,33 @@
+<TextBlock 1 w:48 h:4>
+On my way to Ignas,
+   I re-encountered him.
+<Delay 30>
+       Kahran Ramsus...<New>
+Ramsus once again
+   stood in my way,
+      in his Omnigear
+         'Vendetta'...<Close><End of Block>
+<TextBlock 2 w:44 h:5>
+It was an unavoidable
+battle.<Delay 60> I released the
+new function that was
+added to my Mark II
+Gear<Delay 10>...<Delay 30> 'System Id'!<Close><End of Block>
+<TextBlock 3 w:46 h:5>
+Ramsus'
+   absolute confidence
+      was shattered...<New>
+Leaving only his
+   cry of disbelief
+      and resentment,<New>
+Ramsus' machine
+   disappeared into
+      a sea of foliage.<New>
+Why he was so
+   fixated on me...
+      I know not why.
+         But he did say
+            this...<Close><End of Block>
+<TextBlock 4 w:36 h:2>
+If only you
+   didn't exist<Delay 30>...<Opcode 2 60><Close><Close>0<UNKNOWN CHUNK 4><Close><End of Block>

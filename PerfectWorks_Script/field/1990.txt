@@ -1,0 +1,79 @@
+<TextBlock 1 w:52 h:5>
+I don't wanchu to think...<Delay 10>
+what am I doing at a time
+like this...<Delay 10> If I don't do
+this, I can't keep my
+composure!<Close><End of Block>
+<TextBlock 2 w:14 h:1>
+Yahoo!!<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Oh, brother Billy!<Delay 10>
+We barely made it out
+with our lives.<New>
+We hadn't seen Primera
+in a while and now she
+can talk.<Delay 10>
+We're so surprised!<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+But,<Delay 10> we won't be able to
+launch or play with your
+Gear anymore...<Delay 10>
+We're gonna miss that...<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Billy
+"Yes,<Delay 10> that is unfortunate,<Delay 10>
+but now you've got a lot of
+friends here, right Bobby?<New>
+Didn't you say your goal
+was to 'make 100 friends
+this year'?<Delay 10> Well, you will
+have to make them here."<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Uh huh!<Delay 10>
+But, someday I'd like to
+launch your new Gear,<Delay 10>
+Billy!<Close><End of Block>
+<TextBlock 7 w:58 h:3>
+Dis is the first time for
+me to see snow and boy is it
+cowld, shlippery, and fuuun!!<Close><End of Block>
+<TextBlock 8 w:56 h:3>
+Just when I thought I
+could ride the UFO, it's
+not flying anymore!!<New>
+On top of that<Delay 10> this guy
+keeps saying annoying stuff!<Close><End of Block>
+<TextBlock 9 w:52 h:5>
+<Opcode 14 2>We are to be judged!!<Delay 10>
+The last day is nigh...<Delay 10>
+You too should be careful.<Delay 10>
+It's all according to 
+prophecy...<Close><End of Block>
+<TextBlock 10 w:54 h:3>
+I've heard rumors that a
+part of Nortune, the old
+capital of Kislev survived!<New>
+I wonder if they're still
+conducting that barbaric
+'Bartelling' thing...?<New>
+Really, I ask you, what
+are we to do with our
+menfolk these days...?<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Just when I thought
+Prince Bartholomew would 
+return and bring peace
+to the land of Aveh...<New>
+Just goes to show, you
+never know what might
+happen in this world...<Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Oh Queen...<Delay 10> What do you see
+with those eyes...<Delay 10>
+That look of sorrow,<Delay 10> as if
+you've lost something...<New>
+But within that, there
+lies a kindness which
+would forgive all...<Close><End of Block>
+<TextBlock 13 w:20 h:1>
+NO<Extra2 255>MASSAGE<Close><Close><End of Block>

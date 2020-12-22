@@ -1,0 +1,99 @@
+<TextBlock 1 w:28 h:2>
+Sophia
+"Lacan! Live!"<Opcode 2 120><Close><End of Block>
+<TextBlock 2 w:42 h:3>
+Krelian
+"Sophia!!<Delay 15>
+What are you doing!?"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Sophia
+"I am ending this<Delay 5>...<Delay 15>
+You won't need to fight
+anymore<Delay 5>...<New>
+So, Krelian<Delay 5>...<New>
+Please <Delay 5>open your fist<Delay 5>...<Delay 15>
+and with your open hand
+gently hold the people who
+will continue to live<Delay 5>..."<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Lacan
+"Don't be foolish!<Delay 5>
+We'll help you escape!<Delay 5>
+So please stop<Delay 5>...!"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Sophia
+"Thank you, <Delay 5>Lacan<Delay 5>...<Delay 15>
+But<Delay 5>...<Delay 5>sorry<Delay 5>...<Delay 15>
+There's no other way<Delay 5>..."<Close><End of Block>
+<TextBlock 6 w:14 h:2>
+Lacan
+"Elly!"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Sophia
+"People support each other
+to live<Delay 5>...<Delay 5> It's what brings
+us happiness<Delay 5>...<New>
+So share that happiness<Delay 5>...<Delay 5>
+and please<Delay 5>...<Delay 30>
+<Opcode 1 255>Lacan! Live!"<Close><End of Block>
+<TextBlock 8 w:19 h:2>
+Lacan
+"Ell<~>y!!"<Opcode 2 180><Close><End of Block>
+<TextBlock 9 w:0 h:1>
+<End of Block>
+<TextBlock 10 w:0 h:0>
+<End of Block>
+<TextBlock 11 w:0 h:0>
+<End of Block>
+<TextBlock 12 w:0 h:0>
+<End of Block>
+<TextBlock 13 w:0 h:0>
+<End of Block>
+<TextBlock 14 w:0 h:0>
+<End of Block>
+<TextBlock 15 w:0 h:0>
+<End of Block>
+<TextBlock 16 w:0 h:0>
+<End of Block>
+<TextBlock 17 w:0 h:0>
+<End of Block>
+<TextBlock 18 w:0 h:0>
+<End of Block>
+<TextBlock 19 w:0 h:0>
+<End of Block>
+<TextBlock 20 w:0 h:0>
+<End of Block>
+<TextBlock 21 w:0 h:0>
+<End of Block>
+<TextBlock 22 w:0 h:0>
+<End of Block>
+<TextBlock 23 w:0 h:0>
+<End of Block>
+<TextBlock 24 w:0 h:0>
+<End of Block>
+<TextBlock 25 w:0 h:0>
+<End of Block>
+<TextBlock 26 w:0 h:0>
+<End of Block>
+<TextBlock 27 w:0 h:0>
+<End of Block>
+<TextBlock 28 w:0 h:0>
+<End of Block>
+<TextBlock 29 w:0 h:0>
+<End of Block>
+<TextBlock 30 w:0 h:0>
+<End of Block>
+<TextBlock 31 w:0 h:0>
+<End of Block>
+<TextBlock 32 w:0 h:0>
+<End of Block>
+<TextBlock 33 w:0 h:0>
+<End of Block>
+<TextBlock 34 w:0 h:0>
+<End of Block>
+<TextBlock 35 w:0 h:0>
+<End of Block>
+<TextBlock 36 w:0 h:0>
+<End of Block>
+<TextBlock 37 w:0 h:0>
+<Close><End of Block>

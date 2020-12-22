@@ -1,0 +1,34 @@
+<TextBlock 1 w:50 h:4>
+Citan
+"There seem to be people.
+It may be best not to go
+in through here..."<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Citan
+"Someone is approaching.
+We should hide."<Close><End of Block>
+<TextBlock 3 w:52 h:3>
+Everyday work, work, work.
+Doesn't anything fun ever
+happen around here?<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+No doubt...<New>
+That last champion looks
+like he's been matched with
+the beast.<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Now that's something.
+Let's get this work done
+and go check it out.<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Yeah. We need to do
+that, we've been workin'
+too much lately.<Close><End of Block>
+<TextBlock 7 w:26 h:1>
+It is locked.<Close><End of Block>
+<TextBlock 8 w:46 h:1>
+It is already unlocked.<Close><End of Block>
+<TextBlock 9 w:40 h:1>
+Used the Master Key.<Close><End of Block>
+<TextBlock 10 w:32 h:1>
+You have no key.<Close><Close><End of Block>

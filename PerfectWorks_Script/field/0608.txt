@@ -1,0 +1,516 @@
+<TextBlock 1 w:48 h:4>
+Fei
+"Oh, he's just hanging
+about over there...<New>
+He's thinking about his
+sister's marriage and
+doesn't seem to be able
+to calm down.<New>
+He likes to talk and act
+big, but he really is
+still just a kid...
+It's kinda cute, huh?"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Fei
+"He's probably around here
+somewhere... getting up
+to his usual mischief!"<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Fei
+"Phew!
+That was a close one...<New>
+This well is dangerous...<Delay 20>
+Perhaps it's better if I
+don't go near it again."<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Fei
+"Hey...<Delay 20>
+What are you talking
+about, Dan?<New>
+Timothy and Alice are both
+my best friends.<Delay 20>
+You know I can't do that!"<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Fei
+"Alright Dan,
+you've got it...<New>
+I guess I'll just go sweep
+Alice away and make a run
+for it!"<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+"Timothy is a balding
+headed fool! And his dad
+is bald and stupid too!"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+"Mountain path ahead!
+Beware of the HP
+gobbling hob-gobs!!<New>
+Those wishing to see the
+doctor on the mountain top
+should proceed with courage
+and conviction."<Close><End of Block>
+<TextBlock 8 w:32 h:2>
+"Alice and Fei
+are in looove!!"<Close><End of Block>
+<TextBlock 9 w:36 h:3>
+"From all the cool
+people of Lahan...
+  Buon giorno!"<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+"- The Laughing Fox  
+   & Piglet Tavern - 
+   Drunks welcome!  "<Close><End of Block>
+<TextBlock 11 w:58 h:3>
+" - Lahan's General Store - 
+    You want it?
+    We've got it...(maybe)! "<Close><End of Block>
+<TextBlock 12 w:50 h:3>
+Received a chill from the
+depths of the cistern!
+Oh 'well'...!<Close><End of Block>
+<TextBlock 13 w:48 h:2>
+'Well, well, well!'
+You found a Power Ring!!<Close><End of Block>
+<TextBlock 14 w:56 h:2>
+'All's well that ends well!'
+You found an Aquasol S!!<Close><End of Block>
+<TextBlock 15 w:24 h:3>
+'Well' done!<Delay 20>
+You found a
+weird item!!<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+'High' there Fei!<New>
+Did you know that beyond
+that black forest lies the
+great kingdom of Aveh?<New>
+It's got a big capital
+city with lots of people
+living there.<New>
+My father is working
+somewhere in Aveh.<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Soon, my father is going
+to come pick mother and
+me up so that we can all
+live together in Aveh.<Close><End of Block>
+<TextBlock 18 w:48 h:2>
+Oh, father!
+Please come home soon...<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Hey hey, Fei!
+Let's go catch some
+scampi again sometime!<Close><End of Block>
+<TextBlock 20 w:36 h:1>
+I'm gonna get you!<Opcode 2 40><Close><End of Block>
+<TextBlock 21 w:44 h:4>
+Hey hey, Fei!
+Help me find another
+elephantsparrow's
+nest sometime, okay!!?<Close><End of Block>
+<TextBlock 22 w:18 h:1>
+Run away!<Opcode 2 40><Close><End of Block>
+<TextBlock 23 w:42 h:3>
+Hey, Fei. Next time,
+teach me more of your
+kung fu stuff.<Close><End of Block>
+<TextBlock 24 w:36 h:1>
+I'm gonna get you!<Opcode 2 40><Close><End of Block>
+<TextBlock 25 w:32 h:3>
+Hey, Fei!
+Let's go tease
+the girls again!<Close><End of Block>
+<TextBlock 26 w:18 h:1>
+Run away!<Opcode 2 40><Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Birds are great...<Delay 20>
+They can fly so high in
+the sky and go wherever
+they want to...<Close><End of Block>
+<TextBlock 28 w:40 h:4>
+You know Fei...<Delay 20> Mom
+was saying that you
+might have come from
+a far away place...<Close><End of Block>
+<TextBlock 29 w:38 h:4>
+If you were a bird,
+you could fly back
+to your real home
+anytime you wanted.<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+Dan
+"Well, the least we can
+do is pray for Alice's
+happiness, hey Fei!"<Close><End of Block>
+<TextBlock 31 w:46 h:3>
+Dan
+"So Fei, you up to it?<New>
+C'mon, let's do it!<Delay 20>
+    Let's do it!!
+    Quit bein' foolish <Close><End of Block>
+<TextBlock 32 w:36 h:3>
+Dan
+"Oh good, Fei!
+Ya ready to talk?"<Close><End of Block>
+<TextBlock 33 w:52 h:4>
+Dan
+"As you know, tomorrow's
+finally the day of my
+sister's wedding...<New>
+So, what I want to talk
+to you about is exactly
+that... Alice's marriage!"<Close><End of Block>
+<TextBlock 34 w:42 h:3>
+Dan
+"Fei, to be perfectly
+honest with you...<New>
+I've always wished
+you could have been
+my brother."<Close><End of Block>
+<TextBlock 35 w:50 h:4>
+Dan
+"It's still not too late.<New>
+You could go steal Alice
+and run off with her!<Delay 20>
+If you need me to help,
+I'd be glad to!"<Close><End of Block>
+<TextBlock 36 w:56 h:4>
+Dan
+"It may be odd for me to say
+this, but my sister's
+beautiful and a good cook...<New>
+(and this is just between
+you and me but, she's
+well endowed too!<Delay 20> 
+Heh heh heh!)"<Close><End of Block>
+<TextBlock 37 w:42 h:4>
+Dan
+"So c'mon! Go for it!
+    Let's do it!!
+    That's crazy <Close><End of Block>
+<TextBlock 38 w:48 h:4>
+Dan
+"Really!?
+I knew I liked you, Fei!
+That's the spirit!"<Close><End of Block>
+<TextBlock 39 w:50 h:4>
+Dan
+"... But, if only
+it was that easy...<New>
+It's not like we can
+change their feelings...<Delay 40>
+And you would need to
+have love for her too..."<Close><End of Block>
+<TextBlock 40 w:52 h:3>
+Dan
+"But, I'm not gonna
+forget this, Fei!<New>
+You were really willing to
+go that far to help me...
+Fei, you're a good guy!"<Close><End of Block>
+<TextBlock 41 w:46 h:4>
+Dan
+"Tch, yeah I know that.
+Well if you're gonna be
+like that..."<Close><End of Block>
+<TextBlock 42 w:48 h:4>
+Dan
+"But, if you change your
+mind, come and talk to
+me!"<Close><End of Block>
+<TextBlock 43 w:54 h:2>
+That Dan...!
+When will he ever grow up!?<Close><End of Block>
+<TextBlock 44 w:42 h:3>
+Oh, Fei!<Delay 20>
+Maybe you can help...
+Have you seen Dan?<Close><End of Block>
+<TextBlock 45 w:54 h:3>
+Oh really?
+I'm a little suspicious
+though...<New>
+Alice was saying she needed
+him for something...<Delay 15>
+I bet he's avoiding me...<Close><End of Block>
+<TextBlock 46 w:54 h:4>
+Alice was saying she needed
+him for something...<New>
+How could a brat like
+him possibly be related
+to Alice?<Delay 15>
+Oh, brother...!<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+You're right! I've got my
+whole life ahead of me!<Delay 20>
+I've got to strive harder
+to fulfil my goals in life.<Close><End of Block>
+<TextBlock 48 w:48 h:2>
+Sigh...<Delay 20> The never ending
+hardships of a woman.<Close><End of Block>
+<TextBlock 49 w:42 h:4>
+Alice and Timothy's
+wedding tommorow is
+the talk of the town.<New>
+I guess it's to be
+expected though...<Delay 20>
+It is one of life's
+biggest events.<Close><End of Block>
+<TextBlock 50 w:50 h:4>
+The women of the village
+are born, raised, married
+and live out the rest of
+their lives here.<New>
+There must be some
+happiness in that, but...<Delay 24>
+I've been thinking from
+time to time.<New>
+Sometimes I wish I were
+born a man so I could
+travel the world and live
+an ever-changing life...<Close><End of Block>
+<TextBlock 51 w:56 h:3>
+Heh... It's weird, isn't it?<Delay 12>
+    Yeah, that is weird!
+    No, of course not! <Close><End of Block>
+<TextBlock 52 w:46 h:3>
+Ooooooh! You think so?<Delay 20>
+Maybe I need to rethink
+this...<Close><End of Block>
+<TextBlock 53 w:46 h:4>
+Really? Do you mean it?<Delay 30>
+Hah, I knew you'd say
+that for me, Fei.<New>
+Here, this is my very
+own homemade Aquasol.
+Our bearcows love it!<Delay 20> 
+Try it out sometime!<Close><End of Block>
+<TextBlock 54 w:46 h:2>
+Received Aquasol, the
+choice of all bearcows.<Close><End of Block>
+<TextBlock 55 w:42 h:3>
+Hello, Fei.
+Tomorrow is Alice and
+Timothy's big day.<New>
+Isn't it exciting!
+I know Alice will
+make a lovely bride.<New>
+Ahh... I hope a
+handsome prince comes
+into my life soon.<Close><End of Block>
+<TextBlock 56 w:38 h:3>
+Hey! Stop pushing!<Delay 30>
+What are you...some
+kind of pervert!?<Opcode 2 60><Close><End of Block>
+<TextBlock 57 w:50 h:4>
+That doctor is weird!<Delay 20>
+Why would anyone want to
+live up on that mountain
+peak?<New>
+He should live closer to
+the village...<New>
+Hey, you're good friends
+with the doctor.<Delay 20> Why
+don't you ask him to move
+closer to the village!<Close><End of Block>
+<TextBlock 58 w:54 h:4>
+Lately, my legs have
+gotten weaker...<Delay 20>
+It's causing me a great
+deal of trouble.<New>
+I would like to go and
+have Doctor Uzuki take
+a look and see if he
+can help me...<New>
+But it's a tremendous task
+to go up that mountain path
+to visit the doctor.<Delay 20>
+I must be getting old...<Close><End of Block>
+<TextBlock 59 w:48 h:4>
+That doctor's eccentric!<Delay 20>
+Why else would anyone
+live up on a mountain
+peak like that?<New>
+He should have moved
+closer to the village!<New>
+Fei, you're good friends
+with the doctor...<Delay 20>
+Ask him to move closer
+to our village for us!<Close><End of Block>
+<TextBlock 60 w:56 h:4>
+Lately, my legs have been
+giving me trouble.<Delay 20>
+It's really getting to me!<New>
+I would like to go and have
+Doctor Citan Uzuki take a
+look at them and tell me
+what's wrong...<New>
+But it's a dreadful chore
+to climb that mountain path
+to visit the doctor.<Delay 20>
+It must be a sign of my age.<Close><End of Block>
+<TextBlock 61 w:54 h:4>
+Uuh... Sob...<Delay 10>
+How could Alice go and get
+married...<Delay 30>and to that
+muscle head, Timothy...!!<New>
+I...<Delay 20>I've loved her...<Delay 20>
+since I was a baby...!!<Delay 20><Wait>
+What am I supposed to do?
+How am I supposed to live!?<Close><End of Block>
+<TextBlock 62 w:42 h:1>
+<Opcode 14 2>AAAAAARRRRRGGGGHHH!!<Opcode 1 0> <Opcode 2 120><Close><End of Block>
+<TextBlock 63 w:38 h:2>
+Sob...<Delay 30> Life...
+can be so unfair...<Close><End of Block>
+<TextBlock 64 w:26 h:2>
+Uh... Sob...<Delay 20>
+Woe is me...!<Close><End of Block>
+<TextBlock 65 w:32 h:1>
+Zzzzzz, snore...<Close><End of Block>
+<TextBlock 66 w:34 h:3>
+Uh, uhn...?<Delay 20>
+Oh, it's you Fei!
+What do you want?<Close><End of Block>
+<TextBlock 67 w:38 h:3>
+Finally, at my age,
+I've become able to
+live in peace.<New>
+At this rate, I'll
+probably live to be
+a hundred! Hahahah!<Close><End of Block>
+<TextBlock 68 w:42 h:3>
+No, no!<Delay 20>
+Don't waste perfectly
+good food like that!<Opcode 2 50><Close><End of Block>
+<TextBlock 69 w:46 h:3>
+Fei!!<Delay 10>
+I thought I told you
+not to step on my food!<Opcode 2 60><Close><End of Block>
+<TextBlock 70 w:54 h:3>
+You know you won't come out
+in one piece if you try and
+pull anything on the bride!<Close><End of Block>
+<TextBlock 71 w:30 h:3>
+Why, hello Fei.
+Are you here
+to see Alice?<Close><End of Block>
+<TextBlock 72 w:58 h:4>
+Actually, it's customary
+that we don't let any men
+in to see the bride today...<Delay 40>
+But, you can be an exception.<Close><End of Block>
+<TextBlock 73 w:44 h:3>
+Welcome to the village
+of Lah...<Delay 40>
+Oh, it's you, Fei!?<Close><End of Block>
+<TextBlock 74 w:46 h:4>
+Oh, don't worry...
+We already consider
+you a proud member of
+the Lahan community!<New>
+So, how about finding a
+wife and settling down
+in our village too?<New>
+I'm sure if you live a
+peaceful life here your
+memory will be bound to
+come back one day.<Close><End of Block>
+<TextBlock 75 w:56 h:5>
+You have a natural ability
+to paint and can do martial
+arts rather well, I hear!<Delay 20>
+I bet it's because your body
+remembers these things.<New>
+You'll be able to breathe
+a sigh of relief when your
+memory returns to you...<Delay 20>
+And don't you worry!
+I'm sure it will!<Close><End of Block>
+<TextBlock 76 w:46 h:3>
+Yo, Fei!
+Alice has sure
+gotten pretty, huh!<New>
+Come to think of it...
+Alice, Timothy and you
+were always together.<New>
+I bet you also had a
+crush on Alice too, eh?<Delay 20>
+Am I right? Hahahaha!<Close><End of Block>
+<TextBlock 77 w:46 h:4>
+Oh, hello there, Fei.<New>
+Come to think of it,
+it's already been quite
+a while since you first
+came to our village...<New>
+I take it you still
+don't remember anything
+prior to your coming
+here though?<New>
+It must be terrible
+not knowing your true
+identity and all...<New>
+Oh, I'm sorry.
+I'm being rude...<Delay 20>
+Please don't take it
+the wrong way.<Close><End of Block>
+<TextBlock 78 w:44 h:4>
+Sorry.
+That's all the
+Aquasol I have.<New>
+But I've got plenty of
+my special fertilizer.
+Ya want some?
+Hahaha!<Close><End of Block>
+<TextBlock 79 w:46 h:1>
+Oh alright. Here ya go!<Close><End of Block>
+<TextBlock 80 w:34 h:1>
+Received Aquasol.<Close><End of Block>
+<TextBlock 81 w:38 h:4>
+Oh yeah, I forgot!
+Here's some of my
+homemade Aquasol!<New>
+I used my special
+fertilizer in it so
+it should work real
+well! Haw-haw-haw!<Close><End of Block>
+<TextBlock 82 w:34 h:1>
+Received Aquasol.<Close><End of Block>
+<TextBlock 83 w:40 h:3>
+Hmmm...<Delay 20> Oh I'm just
+contemplating what I
+should plant next.<Close><End of Block>
+<TextBlock 84 w:50 h:4>
+It's a lot of work just
+trying to raise crops.
+But it's an excellent
+feeling, Fei.<New>
+In this great open land,
+new life emerges...<Delay 20>
+I'm not saying we're
+doing it.<New>
+It's just the earth, 
+rain and sun combining 
+together to nurture 
+these striving new lives.<New>
+We're just helping 
+them out.<Close><End of Block>
+<TextBlock 85 w:44 h:4>
+Pumpkinberry...
+Applelily... radish...
+Hmmm,<Delay 40> they all seem
+good...<Close><End of Block>
+<TextBlock 86 w:48 h:4>
+This is the village
+consultant's house.<Delay 20>
+He can teach you
+all kinds of things.<New>
+Before you step outside
+of our village, it might
+be wise to stop by here
+for some advice first.<Close><End of Block>
+<TextBlock 87 w:52 h:3>
+This is the general store.<Delay 20>
+Although they don't have
+much of a selection...<New>
+But then again, we're out
+in the country...<Delay 20> so we
+can't complain<Delay 20> (too much).<Close><Close><End of Block>

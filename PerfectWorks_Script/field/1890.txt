@@ -1,0 +1,50 @@
+<TextBlock 1 w:46 h:3>
+Shopkeep Johnny
+"Hi there!
+Nice to see you again."<Close><End of Block>
+<TextBlock 2 w:52 h:3>
+Shopkeep Johnny
+"If you say 'dungeons', I
+say 'traveling merchants'!<New>
+You say 'traveling
+merchants'...and I say
+'Shopkeep Johnny'!"<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+Shopkeep Johnny
+"Hey!
+I'm not your enemy!"<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+Shopkeep Johnny
+"My family's been merchants
+for generations. <New>
+There is a way of fighting
+among merchants too...
+And this is my battle!"<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Shopkeep Johnny
+"Wanna buy something,
+or fix up your Gear?"<Close><End of Block>
+<TextBlock 6 w:26 h:3>
+    <Opcode 1 255>Character
+    Gear
+    Nothing<Close><End of Block>
+<TextBlock 7 w:30 h:4>
+    <Opcode 1 255>Items
+    Accessories
+    Go back
+    Nothing<Close><End of Block>
+<TextBlock 8 w:30 h:2>
+Shopkeep Johnny
+"Thank ya."<Close><End of Block>
+<TextBlock 9 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 10 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 12 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

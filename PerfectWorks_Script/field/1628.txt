@@ -1,0 +1,11 @@
+<TextBlock 1 w:50 h:3>
+Maria
+"This is the... barrier!!
+Please, <Delay 5><Seibzehn>!!"<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Maria
+"A grav field <Delay 5>is opening!<Delay 10>
+The space distortion
+correction is starting!"<Close><End of Block>
+<TextBlock 3 w:3 h:1>
+ <Close><Close><End of Block>

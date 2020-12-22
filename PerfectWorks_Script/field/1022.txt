@@ -1,0 +1,29 @@
+<TextBlock 1 w:46 h:4>
+When the war is over,
+he'll come back<Delay 5>...<Delay 5> He
+didn't leave because he
+couldn't bear the war.<Delay 15><New>
+I know<Delay 5>...<Delay 5>he'll be back.<Close><End of Block>
+<TextBlock 2 w:52 h:3>
+The war will end, grandma.
+It's almost over<Delay 5>...<Delay 5> So
+don't say 'before I die'.'<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+My daughter was engaged to
+a man, but he left the
+Empire because he couldn't
+stand this long war.<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+This war will never end.<Delay 5>
+...<Delay 5> Before I die, I
+want to see the face of my
+grandchild.<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+'W-a-r'. I'm not really
+sure what it means, but I
+think it's just beating the
+enemy, right?<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+A portrait<Delay 5><...><Delay 5><...>
+...? I've seen that face
+before.<Close><Close><End of Block>

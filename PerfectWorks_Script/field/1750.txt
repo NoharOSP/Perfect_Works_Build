@@ -1,0 +1,28 @@
+<TextBlock 1 w:24 h:2>
+Fei
+"A...Gear!?"<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+Fei
+"But, this thing is huge!"<Close><End of Block>
+<TextBlock 3 w:30 h:3>
+Elly
+"What...is this
+thing...?"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Elly
+"No...
+Look! The surface of the
+armor isn't segmented...<New>
+It's the same as Bart's
+Gear <Andvari> and the
+Gear we saw in Shevat...
+It's an Omnigear!"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Elly
+"Yes. It's got to be
+around 3 times as
+powerful as our Gears."<Close><End of Block>
+<TextBlock 6 w:44 h:3>
+Citan
+"So...This is Solaris'
+Omnigear."<Close><Close><End of Block>

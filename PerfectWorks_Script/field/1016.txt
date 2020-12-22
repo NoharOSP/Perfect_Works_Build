@@ -1,0 +1,348 @@
+<TextBlock 1 w:50 h:3>
+Ya know, that disk is
+broken.<Delay 15> The box itself
+is as good as new. All we<New>
+need is a new disk so we
+can listen to it<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 2 w:40 h:1>
+Pfh, <Delay 5>ah hah hah hah!<Opcode 2 45><Close><End of Block>
+<TextBlock 3 w:48 h:3>
+That's the new waitress
+that's supposed to start
+today. She still<New>
+needs a lot of training,
+so go easy on her today!<Close><End of Block>
+<TextBlock 4 w:40 h:2>
+Yeah,<Delay 5> that's how you
+do it.<Delay 5> Good.<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+I'm trying to work,<Delay 5>
+could you get out of the
+way? By the way,<Delay 5> <New>
+I'm tired of that kind
+of stuff.<Close><End of Block>
+<TextBlock 6 w:30 h:1>
+Out of the way!<Opcode 2 45><Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Uh,<Delay 5> excuse me. Could
+you please move?<Delay 15> You're
+in the waaaay.<Opcode 2 60><Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Hey you,<Delay 5> you've got an
+interesting disk.<Delay 15> Lemme
+see.<Delay 5> Lemme see.<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+This<Delay 15>...<Delay 15>is a really
+special type. You won't
+be able to use it on any
+other box<Delay 5> except for this<New>
+one<Delay 5>...<Delay 5>In addition, I'm
+getting some kind of
+Ether response<Delay 15>...<Delay 5><New>
+You think it's an Ether
+coated premium disk?<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Hunh?<Delay 5> Who are youuu?<Delay 15>
+Me?<Delay 5> I'm child of the
+dragon tribe.<Delay 15> In the
+dragon tribe,<Delay 5> when you<New>
+get older, you become
+something incredible!<Close><End of Block>
+<TextBlock 11 w:36 h:2>
+Of course you know
+that though!<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+G<Delay 5>...<Delay 5>good afternoon.<Delay 10>
+W,<Delay 5> welcome to the
+'Wildcat'. It must be
+tough travelling in such<New>
+a<Delay 5> big group. W, would you
+like to change your
+organization?<Delay 15> I'm not
+used to this<Delay 5>...<Delay 5>sob...<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Um<Delay 5>...<Delay 5> would you like<New>
+to change members?<Delay 15>
+    No
+    Change party<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+H, how could you<Delay 5>...<Delay 5>
+so<Delay 15>...<Delay 5>Please come
+again. But<Delay 5>...<Delay 5>next time
+please reorganize.<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Th, thank you! Well
+then<Delay 5>...<Delay 5>Master, please
+handle it.<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+I heard there was a
+title match.<Delay 15> Man, I
+could've shown off my
+graceful Gear fighting<New>
+and take down the
+infamous Champ but<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 17 w:48 h:4>
+When I reached the
+Empire, the tournament
+was already over.<Delay 15> <New>
+It seems I arrived after
+the infamous Champ was 
+already taken down<Delay 15>
+...<Delay 5>oouuhh.<Close><End of Block>
+<TextBlock 18 w:48 h:3>
+So<Delay 5>...<Delay 5> cute.<Delay 30>
+Kniqupnii.<Delay 5> It's too much
+for me!<Close><End of Block>
+<TextBlock 19 w:38 h:1>
+Don't you think so?<Close><End of Block>
+<TextBlock 20 w:36 h:1>
+Oooooh<Delay 15>...<Delay 5>too cute.<Close><End of Block>
+<TextBlock 21 w:46 h:4>
+Argh<Delay 5>...<Delay 5>damn Aveh.
+Because of that attack,
+Josephine was crushed
+under a chair<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 22 w:42 h:1>
+You okay<Delay 5>...<Delay 15>Josephine?<Close><End of Block>
+<TextBlock 23 w:34 h:2>
+Oooh<Delay 5>...<Delay 15>Alright<Delay 15>...<Delay 5>
+alright.<Close><End of Block>
+<TextBlock 24 w:46 h:4>
+After being a mercenary
+for Aveh, I was going
+to make money at the
+Imperial Battling<Delay 5>...<Delay 15><New>
+But the Battling's been
+stopped for now.<Close><End of Block>
+<TextBlock 25 w:46 h:1>
+<Delay 5>...It's too bad for me.<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+The attack on the
+Empire by Aveh is sure to
+start a war<Delay 5>...<Delay 15><New>
+A mercenary like me can't
+make a living without
+some conflict.<Close><End of Block>
+<TextBlock 27 w:46 h:3>
+Kislev and Aveh<Delay 5>...<Delay 15>
+Which one should I suck
+the blood from<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 28 w:60 h:5>
+If the enemy capital is called
+the 'Desert Fortress'...<Delay 15>
+then our Imperial capital,
+Nortune, would be the
+'Fortress of Steam and Steel'.<Close><End of Block>
+<TextBlock 29 w:40 h:2>
+That sounds<Delay 5>...<Delay 5>pretty
+impressive<Delay 15>...boss.<Close><End of Block>
+<TextBlock 30 w:48 h:4>
+I was surprised by the
+Aveh attack,<Delay 5> but I was
+lucky my comrad was from
+the mole tribe.<Close><End of Block>
+<TextBlock 31 w:34 h:2>
+I'm embarrased<Delay 5>...<Delay 5>
+boss.<Close><End of Block>
+<TextBlock 32 w:30 h:2>
+Well, what ever
+happens<Delay 5>...<Close><End of Block>
+<TextBlock 33 w:50 h:4>
+Hmmm, from the looks
+of it, you look like Gear
+pilots. Did you hear
+about some Battling done<New>
+around here from
+somewhere?<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+I'm not too sure of
+the details, but this
+time it seems like they
+are going run with some<New>
+kind of 'point' system. I
+wonder if you can win
+prizes with that?<Close><End of Block>
+<TextBlock 35 w:50 h:3>
+Welcome to the 'Wildcat'.
+Make yerself comfortable.<Delay 15>
+And<Delay 5> leave the cat alone!<Close><End of Block>
+<TextBlock 36 w:44 h:2>
+Maybe with this we can
+listen to it?<Close><End of Block>
+<TextBlock 37 w:32 h:3>
+See if it works?
+    Don't
+    Listen<Close><End of Block>
+<TextBlock 38 w:42 h:2>
+<Delay 5>...<Delay 5>A jukebox. There's
+only one disk<Delay 5>...<Close><End of Block>
+<TextBlock 39 w:32 h:3>
+See if it works?
+    Don't
+    Listen<Close><End of Block>
+<TextBlock 40 w:42 h:1>
+The disk seems broken<Close><End of Block>
+<TextBlock 41 w:26 h:9>
+<Opcode 1 255>Music Change
+    A Theme
+    A Battle
+    Dungeon
+    Nature
+    The World
+    Requiem
+    Emotion
+    Cancel<Close><End of Block>
+<TextBlock 42 w:14 h:1>
+Track00<Close><End of Block>
+<TextBlock 43 w:14 h:1>
+Track01<Close><End of Block>
+<TextBlock 44 w:14 h:1>
+Track02<Close><End of Block>
+<TextBlock 45 w:14 h:1>
+Track03<Close><End of Block>
+<TextBlock 46 w:14 h:1>
+Track04<Close><End of Block>
+<TextBlock 47 w:14 h:1>
+Track05<Close><End of Block>
+<TextBlock 48 w:14 h:1>
+Track06<Close><End of Block>
+<TextBlock 49 w:14 h:1>
+Track07<Close><End of Block>
+<TextBlock 50 w:14 h:1>
+Track08<Close><End of Block>
+<TextBlock 51 w:14 h:1>
+Track09<Close><End of Block>
+<TextBlock 52 w:14 h:1>
+Track10<Close><End of Block>
+<TextBlock 53 w:14 h:1>
+Track00<Close><End of Block>
+<TextBlock 54 w:14 h:1>
+Track01<Close><End of Block>
+<TextBlock 55 w:14 h:1>
+Track02<Close><End of Block>
+<TextBlock 56 w:14 h:1>
+Track00<Close><End of Block>
+<TextBlock 57 w:14 h:1>
+Track01<Close><End of Block>
+<TextBlock 58 w:14 h:1>
+Track02<Close><End of Block>
+<TextBlock 59 w:14 h:1>
+Track03<Close><End of Block>
+<TextBlock 60 w:14 h:1>
+Track04<Close><End of Block>
+<TextBlock 61 w:14 h:1>
+Track05<Close><End of Block>
+<TextBlock 62 w:14 h:1>
+Track06<Close><End of Block>
+<TextBlock 63 w:14 h:1>
+Track07<Close><End of Block>
+<TextBlock 64 w:14 h:1>
+Track00<Close><End of Block>
+<TextBlock 65 w:14 h:1>
+Track01<Close><End of Block>
+<TextBlock 66 w:14 h:1>
+Track02<Close><End of Block>
+<TextBlock 67 w:14 h:1>
+Track03<Close><End of Block>
+<TextBlock 68 w:14 h:1>
+Track04<Close><End of Block>
+<TextBlock 69 w:14 h:1>
+Track05<Close><End of Block>
+<TextBlock 70 w:14 h:1>
+Track06<Close><End of Block>
+<TextBlock 71 w:14 h:1>
+Track07<Close><End of Block>
+<TextBlock 72 w:14 h:1>
+Track00<Close><End of Block>
+<TextBlock 73 w:14 h:1>
+Track01<Close><End of Block>
+<TextBlock 74 w:14 h:1>
+Track02<Close><End of Block>
+<TextBlock 75 w:14 h:1>
+Track03<Close><End of Block>
+<TextBlock 76 w:14 h:1>
+Track04<Close><End of Block>
+<TextBlock 77 w:14 h:1>
+Track05<Close><End of Block>
+<TextBlock 78 w:14 h:1>
+Track06<Close><End of Block>
+<TextBlock 79 w:14 h:1>
+Track07<Close><End of Block>
+<TextBlock 80 w:14 h:1>
+Track08<Close><End of Block>
+<TextBlock 81 w:14 h:1>
+Track09<Close><End of Block>
+<TextBlock 82 w:14 h:1>
+Track10<Close><End of Block>
+<TextBlock 83 w:14 h:1>
+Track11<Close><End of Block>
+<TextBlock 84 w:14 h:1>
+Track12<Close><End of Block>
+<TextBlock 85 w:14 h:1>
+Track13<Close><End of Block>
+<TextBlock 86 w:14 h:1>
+Track14<Close><End of Block>
+<TextBlock 87 w:14 h:1>
+Track00<Close><End of Block>
+<TextBlock 88 w:14 h:1>
+Track01<Close><End of Block>
+<TextBlock 89 w:14 h:1>
+Track02<Close><End of Block>
+<TextBlock 90 w:14 h:1>
+Track03<Close><End of Block>
+<TextBlock 91 w:14 h:1>
+Track04<Close><End of Block>
+<TextBlock 92 w:14 h:1>
+Track05<Close><End of Block>
+<TextBlock 93 w:14 h:1>
+Track06<Close><End of Block>
+<TextBlock 94 w:14 h:1>
+Track07<Close><End of Block>
+<TextBlock 95 w:14 h:1>
+Track00<Close><End of Block>
+<TextBlock 96 w:14 h:1>
+Track01<Close><End of Block>
+<TextBlock 97 w:14 h:1>
+Track02<Close><End of Block>
+<TextBlock 98 w:14 h:1>
+Track03<Close><End of Block>
+<TextBlock 99 w:14 h:1>
+Track04<Close><End of Block>
+<TextBlock 100 w:46 h:4>
+B,<Delay 5> boss<Delay 5>...<Delay 5> I, I've done
+as much as I can<Delay 5>...<Delay 5>
+This feeling in my
+heart<Delay 5>...<Close><End of Block>
+<TextBlock 101 w:42 h:2>
+<Delay 5>...<Delay 5>Sorry, forgive me.<Delay 15>
+I've said too much<Delay 5>...<Close><End of Block>
+<TextBlock 102 w:42 h:3>
+B, boss<Delay 5>...<Delay 5> I, my
+heart<Delay 5>...<Delay 10>P, pp,<Delay 15> please
+listen.<Close><End of Block>
+<TextBlock 103 w:50 h:4>
+I see,<Delay 5> this is a
+surprise<Delay 5>...<Delay 5>It's that<Delay 5>...
+You've fallen in love
+with someone haven't you?<Close><End of Block>
+<TextBlock 104 w:50 h:3>
+I,<Delay 5> I'm<Delay 5> from mole tribe
+but,<Delay 5> I've fallen for that
+dragon tribe beauty.<Close><End of Block>
+<TextBlock 105 w:46 h:2>
+Can a mole love another
+tribe?<Delay 5> I...<Delay 5>I...<Delay 5><Close><End of Block>
+<TextBlock 106 w:46 h:3>
+<Opcode 1 255>...I'll permit it!!
+Do whatever you have to
+do.<Close><End of Block>
+<TextBlock 107 w:50 h:3>
+Wh, whatever<Delay 5>...<Delay 5>I have
+to do? Right now, I don't
+think I could<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 108 w:44 h:3>
+<Delay 5>...<Delay 5>Okay I will.<Delay 15> We'll
+take it long,<Delay 10> slow<Delay 10> and
+imminently<Delay 10>...right?<Close><End of Block>
+<TextBlock 109 w:20 h:1>
+Yes<Delay 5>...<Delay 5>sir.<Close><Close><End of Block>

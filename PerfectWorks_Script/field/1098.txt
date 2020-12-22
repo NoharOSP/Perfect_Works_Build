@@ -1,0 +1,63 @@
+<TextBlock 1 w:44 h:4>
+Broyer
+"Wha? Who's that? 
+Aren't those the Aveh 
+pirates?"<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Elly
+"!? That's...<Delay 10>...<Delay 10>...<Delay 10>
+Fei!
+What the...!?"<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Stratski
+"Hey, this is Kislev!
+What's he doing here?"<Close><End of Block>
+<TextBlock 4 w:38 h:3>
+Helmholz
+"He seems to follow
+us everywhere!"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Vance
+"What's with this guy? 
+A little too persistent,
+perhaps?"<Close><End of Block>
+<TextBlock 6 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Broyer
+"Third times a charm!
+Let's get 'em!"<Close><End of Block>
+<TextBlock 8 w:12 h:3>
+Elly
+"Ah! 
+Wait!"<Close><End of Block>
+<TextBlock 9 w:16 h:2>
+Elly
+"Renk!?"<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Renk
+"From our last incident, I
+can tell that your friends
+with that Gear's pilot.<New>
+But, there's no way we can
+stop. It doesn't matter
+that we're escorting the
+Hecht.<New>
+I wanna fight him, not as
+enemy soldiers, but as
+rival competitors...<New>
+We're the Gebler special
+forces and we won't be
+beaten!"<Close><End of Block>
+<TextBlock 11 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 12 w:44 h:4>
+Renk
+"Sorry, I'm gonna have
+to kick his butt. 
+Any objections?"<Close><End of Block>
+<TextBlock 13 w:12 h:2>
+Elly
+"I..."<Close><Close><End of Block>

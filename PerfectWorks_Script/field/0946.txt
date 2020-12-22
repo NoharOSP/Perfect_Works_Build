@@ -1,0 +1,146 @@
+<TextBlock 1 w:34 h:3>
+Renk
+"Hey look, check 
+this out..."<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Stratski
+"There's only one
+control ship...<New>
+The other 7 are all
+Ether guided.<New>
+Just who the hell is
+controlling all them?"<Close><End of Block>
+<TextBlock 3 w:48 h:2>
+I never thought you'd
+be the escort commander.<Close><End of Block>
+<TextBlock 4 w:22 h:2>
+Elly
+"Dominia!?"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Helmholz
+"...Dominia, who's that?<Delay 30>
+Hey, not the one from
+the Elements...?"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Dominia
+"It's been a long time 
+Elhaym. The last time
+was Jugend, wasn't it?"<Close><End of Block>
+<TextBlock 7 w:28 h:3>
+Elly
+"What are you 
+doing here?"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Dominia
+"This is a vital mission,
+ordered from central.<New>
+I already have Ramsus'
+orders. The Hecht is not
+to be piloted by a
+common soldier.<New>
+I will take the Hecht."<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Dominia
+"I didn't even need an
+escort, but this was
+also part of the plan.<New>
+This will be a
+good fight."<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Elly
+"Wait! Tell me what our
+target is!
+You should know."<Close><End of Block>
+<TextBlock 11 w:52 h:3>
+Dominia
+"That's restricted...<Delay 30>
+but I guess I can tell.<New>
+The electric generator
+in the eastern sector of
+Kislev's Imperial capital.<New>
+The target is a reactor
+left there by an ancient
+civilization."<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Elly
+"The reactor!? If you
+attack that then Kislev
+will..."<Close><End of Block>
+<TextBlock 13 w:46 h:3>
+Dominia
+"Probably most of it
+will be destroyed.<New>
+The rest will be
+uninhabitable
+for hundreds of years."<Close><End of Block>
+<TextBlock 14 w:50 h:2>
+Elly
+"Why are you doing this?"<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Dominia
+"To purge, why else?
+You may know this already,
+Kislev has the Gatekeeper.<New>
+The original gate is
+controlled by those
+vulgar Lambs.<New>
+This land barrier was
+made by our predecessors.
+The Lambs are trying to
+destroy the gate.<New>
+Are you going to
+allow that?"<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Elly
+"That may be so...<Delay 30>
+but do we have the right
+to get involved?"<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Dominia
+"Does that bother you?
+Since when did you have
+a conscience?<New>
+War, strife, betrayal,
+deceit are all that are
+on the Lamb's minds.<New>
+Surely you should know
+that by looking at the
+fools in this country.<New>
+Just let them loose and
+see what they'd do.<New>
+They would pillage and
+loot our world acting as
+if they owned it.<New>
+Advanced knowledge or
+tools aren't necessary
+for common house pets.<New>
+We must lead them where
+they belong."<Close><End of Block>
+<TextBlock 18 w:40 h:4>
+Elly
+"You were originally
+a land dweller.
+So why...?"<Close><End of Block>
+<TextBlock 19 w:40 h:3>
+Dominia
+"I was chosen by the
+Commander!<New>
+Don't look at
+me the same as those
+stupid Lambs!"<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+Dominia
+"Yes, well...<New>
+You've shirked the duty
+that was instilled in you
+since your Jugend days.<New>
+Arguing with you is a
+waste of time."<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Dominia
+"I was a surface dweller
+myself, but I'm going to
+purge the -Lambs-.<New>
+I want you, the Shepherds,
+-Abel-, to see with your
+own eyes what I can do."<Close><Close><End of Block>

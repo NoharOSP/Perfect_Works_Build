@@ -1,0 +1,75 @@
+<TextBlock 1 w:24 h:1>
+<Opcode 1 255>Armor Ground<Close><End of Block>
+<TextBlock 2 w:30 h:1>
+<Opcode 1 255>Supply Entrance<Close><End of Block>
+<TextBlock 3 w:28 h:1>
+<Opcode 1 255>Screw Elevator<Close><End of Block>
+<TextBlock 4 w:44 h:5>
+What're you runnin'
+around for? Don't know
+where to go eh?
+    Yes
+    No<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Hmph!
+Then get outta here.
+I got work to do.<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+The Reapers are good
+from afar but afar from
+good. <New>
+It's the biggest mistake
+they'll ever make
+if they miss with a
+beefcake like me.<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Doh!! That is
+pathetic.<New>
+Now listen to me very
+carefully, I'm only going
+to tell you once.<Close><End of Block>
+<TextBlock 8 w:34 h:1>
+This is the deck!<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+This is the entrance to
+the screw elevator which
+allows you to get to the
+bridge.<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+This is a supply
+entrance but it also
+serves as a Gear Shop!!<Close><End of Block>
+<TextBlock 11 w:42 h:2>
+Now you know. Now get
+out of here!! G'wan!<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Another day on the
+job...Submerged under
+the sea day to
+day<Delay 10>...<Delay 10>...<Delay 10>sigh...<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Having that job from
+the 'Ethos' ruined,<New>
+I guess there's no other
+way for me to make a
+living 'cept diving...
+sigh...<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Before going in though,
+I'll have to do some
+warming-up exercises.
+Ha, ho, ha, ho...<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+With my warm up
+exercises, I'll be able
+to save all the drowning
+people. Yeah...<New>
+exercise...
+Ha, ho, ha, ho...<Close><End of Block>
+<TextBlock 16 w:20 h:3>
+Fei
+"Okay<Delay 5>...<Delay 10>
+Let's go."<Close><End of Block>
+<TextBlock 17 w:22 h:2>
+Elly
+"W-wait..."<Close><Close><End of Block>

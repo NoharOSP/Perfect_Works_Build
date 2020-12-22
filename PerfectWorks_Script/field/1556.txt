@@ -1,0 +1,20 @@
+<TextBlock 1 w:48 h:4>
+Fei
+"I didn't know there was
+a hidden path behind the
+cathedral."<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Bart
+"Yeah.<Delay 30>
+It's usually closed off."<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Fei
+"So the mausoleum's in
+there?"<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Bart
+"Oh yeah.<New>
+If the city's ever in
+danger, the people are
+supposed to take refuge
+in here."<Close><Close><End of Block>

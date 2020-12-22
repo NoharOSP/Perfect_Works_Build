@@ -1,0 +1,36 @@
+<TextBlock 1 w:46 h:4>
+Medena
+"Elly...<Delay 10>
+I'm so happy...<Delay 10>
+Let me see you...<New>
+Your father said
+you'd be back.
+I almost gave up hope."<Close><End of Block>
+<TextBlock 2 w:24 h:2>
+Elly
+"...Mother."<Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Medena
+"Are you staying for a
+while? This time you
+should relax.<New>
+Your father will be
+so happy."<Close><End of Block>
+<TextBlock 4 w:32 h:2>
+Elly
+"Yes...<Delay 5>I guess."<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Medena
+"Let's have a nice meal.<Delay 10>
+Fei, would you like to
+join us?<New>
+Elly never invites
+her friends over. <Delay 10>
+I'm glad you're here."<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Medena
+"Well,<Delay 10> I'm going
+shopping, so make
+yourself comfortable."<Close><End of Block>
+<TextBlock 7 w:0 h:1>
+<Close><End of Block>

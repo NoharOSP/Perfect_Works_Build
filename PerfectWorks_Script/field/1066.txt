@@ -1,0 +1,153 @@
+<TextBlock 1 w:48 h:4>
+Citan
+"Hammer should have been
+able get that
+information by now."<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Citan
+"Let us go check out the
+Wildcat."<Close><End of Block>
+<TextBlock 3 w:36 h:2>
+Rico
+"No one's around."<Close><End of Block>
+<TextBlock 4 w:56 h:3>
+Rico
+"I thought so. Security's
+been lightened to lure Fei."<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Rico
+"Hmm...I suppose knocking
+on the front door's out?"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Rico
+"Guess I'll get in
+through that air duct up
+there."<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Soldier
+"The attack on Aveh upset
+the military balance.<New>
+Now only army personnel
+can enter the Central
+District.<Delay 15> I'm sorry,<Delay 5> but
+you will have to leave."<Close><End of Block>
+<TextBlock 8 w:56 h:4>
+Imperial Guard
+"With the attack on Aveh,
+the entire area is under
+martial law.<New>
+Only army personnel may pass
+through the Central 
+District. <Delay 15> I'm sorry,<Delay 5>
+but you must leave."<Close><End of Block>
+<TextBlock 9 w:36 h:2>
+Soldier
+"Come back again."<Close><End of Block>
+<TextBlock 10 w:54 h:2>
+Soldier
+"Fei, will you be leaving?"<Close><End of Block>
+<TextBlock 11 w:40 h:2>
+Soldier
+"Come back anytime."<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Soldier
+"The Kaiser may be a
+lenient man, but please,
+avoid any discourtesy."<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Soldier
+"This is the Kislev
+Central District.
+Only authorized perso...<New>
+Huh? Well, if isn't the
+Battling Champ, Fei."<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+Soldier
+"I apologize for that. 
+Please, enter."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Soldier
+"Only authorized personnel
+may enter the Central
+District. Please, leave."<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Soldier
+"This is the Kislev
+Central District.
+Only authorized perso...<New>
+Huh? Well, if isn't the
+Battling Champ, Fei."<Close><End of Block>
+<TextBlock 17 w:46 h:2>
+Soldier
+"The Kaiser's waiting."<Close><End of Block>
+<TextBlock 18 w:48 h:2>
+Soldier
+"Please, come this way."<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Soldier
+"The attack on Aveh upset
+the military balance.<New>
+Now only army personnel
+can enter the Central
+District.<Delay 15> I'm sorry,<Delay 5> but
+you will have to leave."<Close><End of Block>
+<TextBlock 20 w:56 h:4>
+Imperial Guard
+"With the attack on Aveh,
+the entire area is under
+martial law.<New>
+Only army personnel may pass
+through the Central 
+District.<Delay 15> I'm sorry,<Delay 5>
+but you must leave."<Close><End of Block>
+<TextBlock 21 w:54 h:3>
+Soldier
+"Come by and visit us
+anytime. We'll be waiting."<Close><End of Block>
+<TextBlock 22 w:48 h:2>
+Soldier
+"Oh! Fei, heading home?"<Close><End of Block>
+<TextBlock 23 w:46 h:3>
+Soldier
+"Stop on by anytime you
+feel like it."<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Soldier
+"The Kaiser may be lenient,
+but please be cautious of
+what you say."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Soldier
+"No, no! Only authorized...
+Huh? Oh it's Fei, the
+Battling Champ."<Close><End of Block>
+<TextBlock 26 w:28 h:3>
+Soldier
+"Pardon me.
+You can pass."<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Soldier
+"No, no!
+Only authorized personnel
+are permitted in."<Close><End of Block>
+<TextBlock 28 w:54 h:4>
+Soldier
+"He's...back again...<New>
+His owner died recently.
+...He still doesn't know so
+he always waits for his
+master's return..."<Close><End of Block>
+<TextBlock 29 w:46 h:1>
+"...wimper...wimper..."<Close><End of Block>
+<TextBlock 30 w:42 h:1>
+"...wimper...wimper."<Opcode 2 30><Close><End of Block>
+<TextBlock 31 w:32 h:2>
+Initiating
+decontamination.<Opcode 2 30><Close><End of Block>
+<TextBlock 32 w:36 h:2>
+Please wait in the
+center area.<Opcode 2 30><Close><End of Block>
+<TextBlock 33 w:30 h:3>
+Decontamination
+completed.<Opcode 2 30>
+ompleted.<Opcode 2 30><Close><End of Block>

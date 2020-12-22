@@ -1,0 +1,130 @@
+<TextBlock 1 w:12 h:1>
+...Yo.<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Fei
+"Good, you finally woke up!
+You didn't move for so long
+that I started to worry..."<Close><End of Block>
+<TextBlock 3 w:32 h:2>
+Mysterious Woman
+"..."<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+Fei
+"How are you feeling?"<Close><End of Block>
+<TextBlock 5 w:32 h:2>
+Mysterious Woman
+"..."<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Fei
+"Do you still intend to
+kill me? Then go right
+ahead and shoot me!<New>
+But you'd better not do it
+while we're in this forest.
+Forest monsters hate loud
+noises, you know!?"<Close><End of Block>
+<TextBlock 7 w:32 h:2>
+Mysterious Woman
+"..."<Close><End of Block>
+<TextBlock 8 w:42 h:4>
+Fei
+"Fine.
+Don't talk to me if
+you don't want to...<New>
+But it wouldn't kill
+you to thank me for
+tending your wounds."<Close><End of Block>
+<TextBlock 9 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Mysterious Woman
+"Th...thanks...<Delay 30>
+but you shouldn't
+have helped me.<New>
+Don't think it will
+save your life though.
+It really doesn't
+change a thing."<Close><End of Block>
+<TextBlock 11 w:28 h:3>
+Fei
+"What are you
+so afraid of?"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Mysterious Woman
+"I'm not afraid...
+I'm just being cautious.<New>
+It's natural for me to be
+this cautious considering
+I've met such a suspicious
+surface dwelling -Lamb-."<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Fei
+"Hm... Don't you worry.
+I'm not gonna do anything.<New>
+Besides you're much more
+suspicious than I am."<Close><End of Block>
+<TextBlock 14 w:32 h:2>
+Mysterious Woman
+"Huh...?"<Close><End of Block>
+<TextBlock 15 w:46 h:2>
+Fei
+"So, what's your name?"<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Mysterious Woman
+"I won't give my name to
+a surface dweller -Lamb-."<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Fei
+"What's with you and
+this 'Lamb' thing?<New>
+We're both lost in this
+forest, surrounded by
+dangerous monsters...<New>
+Shouldn't we at least
+be cooperating with
+each other until we
+get out of here?"<Close><End of Block>
+<TextBlock 18 w:32 h:2>
+Mysterious Woman
+"..."<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Fei
+"Good.<Delay 20>
+So what's your name?<New>
+It's going to be hard for
+us to cooperate with one
+another without at least
+knowing each other's names.<New>
+Anyway, my name is
+Fei Fong Wong.<Delay 100>
+You can call me Fei."<Close><End of Block>
+<TextBlock 20 w:32 h:4>
+Mysterious Woman
+"I'm...Elhaym.
+But my parents
+call me Elly."<Close><End of Block>
+<TextBlock 21 w:34 h:4>
+Fei
+"'Elly', huh?<Delay 20>
+Somehow I already<Delay 20>
+'knew'<Delay 20> that."<Close><End of Block>
+<TextBlock 22 w:4 h:1>
+??<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Fei
+"Anyway, it's too dangerous
+to travel in these parts
+this late at night...<New>
+Let's wait till daybreak
+before we continue looking
+for a way out of here...<Delay 20>
+If that's okay with you?"<Close><End of Block>
+<TextBlock 24 w:36 h:3>
+Elly
+"I guess we have
+no choice, do we?"<Close><End of Block>
+<TextBlock 25 w:36 h:4>
+Fei
+"Okay then Elly...<Delay 20>
+How about having
+something to eat."<Close><Close><End of Block>

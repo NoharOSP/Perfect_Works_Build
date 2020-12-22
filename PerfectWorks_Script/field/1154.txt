@@ -1,0 +1,96 @@
+<TextBlock 1 w:50 h:2>
+Allowing the contact with
+Shevat<Delay 5>...<Delay 5>...<Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Not only Shevat.
+The Ignas defeat,
+the Thames retreat.<New>
+And yes, even Elru,
+you<Delay 5>...<Delay 5>...<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+Useless...
+as always<Delay 5>...<Delay 5>...<Close><End of Block>
+<TextBlock 4 w:26 h:2>
+A failure to
+begin with<Delay 5>...<Close><End of Block>
+<TextBlock 5 w:20 h:1>
+'Trash'<Delay 5>...<Close><End of Block>
+<TextBlock 6 w:52 h:2>
+Ramsus
+"W-what did you just say?"<Close><End of Block>
+<TextBlock 7 w:30 h:2>
+Hmph...
+It's the truth.<Close><End of Block>
+<TextBlock 8 w:42 h:4>
+And just what is that
+attitude?<Delay 5>...<Delay 5>...
+You should show
+some loyalty.<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Ramsus
+"H, how dare you ridicule
+me by calling me 'trash'?
+Damn you!"<Close><End of Block>
+<TextBlock 10 w:30 h:2>
+Ramsus
+"Guh...guhaah."<Close><End of Block>
+<TextBlock 11 w:54 h:3>
+Miang
+"Calm down, Commander!
+It's not good for you.<New>
+You still haven't recovered
+from the last battle!"<Close><End of Block>
+<TextBlock 12 w:38 h:1>
+It does not matter.<Close><End of Block>
+<TextBlock 13 w:34 h:4>
+The Lambs are
+probably on their
+way to destroying
+the gate.<New>
+But, not
+this time<Delay 5>...<Close><End of Block>
+<TextBlock 14 w:48 h:2>
+I'd like to see
+your 'intrinsic' powers.<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+If you aren't the
+'trash' we think you
+are<Delay 5>...<Delay 5>...<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Ramsus
+"Miang<Delay 5>...<Delay 5>...<Delay 5>
+Launch the ship<Delay 5>...<Delay 5>...<Delay 5>
+Get to him<Delay 5>...<Delay 5>..."<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Ramsus
+"This time<Delay 5>...<Delay 5>
+I'll go myself<Delay 5>...<Delay 5>and
+I'll bring him down<Delay 5>..."<Close><End of Block>
+<TextBlock 18 w:50 h:3>
+Miang
+"Commander, you can't go 
+out there like that!"<Close><End of Block>
+<TextBlock 19 w:40 h:4>
+Kelvena
+"Commander, request
+permission to handle
+the situation?"<Close><End of Block>
+<TextBlock 20 w:20 h:2>
+Miang
+"You all?"<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+Dominia
+"We'll do our best to
+meet your expectations."<Close><End of Block>
+<TextBlock 22 w:40 h:4>
+Kelvena
+"Commander please,
+you must get medical
+attention<Delay 5>...<Delay 5>..."<Close><End of Block>
+<TextBlock 23 w:38 h:3>
+Dominia
+"To make our ideals
+a reality."<Close><End of Block>
+<TextBlock 24 w:48 h:2>
+Kelvena
+"Well then, we are off."<Close><Close><End of Block>

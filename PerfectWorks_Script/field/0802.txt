@@ -1,0 +1,147 @@
+<TextBlock 1 w:54 h:3>
+Citan
+"Oh my...
+What an exquisite portrait!<New>
+And the beautiful young
+lady portrayed is quite
+beyond comparison too..."<Close><End of Block>
+<TextBlock 2 w:34 h:4>
+Citan
+"What is more...<Delay 30>
+this looks rather
+familiar...!"<Close><End of Block>
+<TextBlock 3 w:50 h:2>
+Citan
+"What do you think, Fei?"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Fei
+"Yes, I was just thinking
+the same thing.<New>
+The hair is a different
+color, but the atmosphere
+or personality about her
+is exactly the same."<Close><End of Block>
+<TextBlock 5 w:36 h:4>
+Citan
+"What? <Delay 30>
+Hair color?<Delay 30>
+What do you mean?"<Close><End of Block>
+<TextBlock 6 w:38 h:3>
+Fei
+"What do I mean?
+Look...!<New>
+It's the girl I met
+in the forest..."<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Fei
+"It's Elly! I mean...
+there's something about her
+that's just like Elly..."<Close><End of Block>
+<TextBlock 8 w:48 h:2>
+Fei
+"You don't think so...?"<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Citan
+"Yes, now that you mention
+it...
+She does resemble Elly."<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Citan
+"But that is not what I
+was talking about...<New>
+I meant that the brush
+techniques and overall
+style used in this picture
+is similar to yours."<Close><End of Block>
+<TextBlock 11 w:24 h:2>
+Fei
+"...Really?"<Close><End of Block>
+<TextBlock 12 w:26 h:2>
+Fei
+"Does it...?"<Close><End of Block>
+<TextBlock 13 w:38 h:4>
+Fei
+"First of all...
+I'm nowhere near
+as good an artist."<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Citan
+"No...it is very similar
+to your style."<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Citan
+"But somehow I can sense
+an atmosphere of sadness
+in this picture."<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Citan
+"She is smiling, but in a
+way, gives the impression
+that she is anxious."<Close><End of Block>
+<TextBlock 17 w:54 h:3>
+Citan
+"Perhaps the picture is
+reflecting her inner self?"<Close><End of Block>
+<TextBlock 18 w:46 h:4>
+Citan
+"Or perhaps it is the
+inner feelings of the
+artist being conveyed."<Close><End of Block>
+<TextBlock 19 w:42 h:4>
+Citan
+"Ahh...<New>
+If you look closely,
+you will notice that
+the painting is not
+completely finished."<Close><End of Block>
+<TextBlock 20 w:42 h:3>
+"The artist put his
+brushes down when it
+was near completion."<Close><End of Block>
+<TextBlock 21 w:34 h:2>
+Citan
+"...Why is that?"<Close><End of Block>
+<TextBlock 22 w:36 h:3>
+Margie
+"I don't know...<New>
+But my grandmother
+might have known
+about it..."<Close><End of Block>
+<TextBlock 23 w:52 h:3>
+Margie
+"Oh! What if we ask Agnes?
+She may know something."<Close><End of Block>
+<TextBlock 24 w:44 h:3>
+Margie
+"Alright then, I'll
+be with Sister Agnes."<Close><End of Block>
+<TextBlock 25 w:42 h:4>
+Bart
+"Well...shall we head
+back to the town for
+now?"<Close><End of Block>
+<TextBlock 26 w:44 h:3>
+Citan
+"Yes, alright...<New>
+But this painting has
+caught my curiosity.<New>
+Do you mind if I speak
+to Sister Agnes before
+we head back to town?"<Close><End of Block>
+<TextBlock 27 w:42 h:4>
+Bart
+"Yeah, okay...
+We'll stop by her
+room on the way out."<Close><End of Block>
+<TextBlock 28 w:32 h:1>
+        La<Delay 10>ca<Delay 10>n<Delay 10>...<Close><End of Block>
+<TextBlock 29 w:50 h:4>
+Citan
+"Is something wrong, Fei?
+You look like you are
+daydreaming..."<Close><End of Block>
+<TextBlock 30 w:32 h:4>
+Fei
+"Huh?
+No...
+It's nothing..."<Close><Close><End of Block>

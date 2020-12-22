@@ -1,0 +1,168 @@
+<TextBlock 1 w:44 h:4>
+"We've got sonar.
+...<Delay 10>...<Delay 10><New>
+That's not it. This
+type...It matches with
+the Aveh pirate ship,
+Yggdrasil."<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Dominia
+"Yggdrasil?
+Wasn't she sunk in 
+another battle?"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+"There's no record of
+its sinking. We were too
+busy fighting that red
+Gear to try to confirm it."<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Dominia
+"Then, there is a chance
+that it did not sink...<New>
+I believe the data shows
+the Yggdrasil was the
+carrier for that Gear."<Close><End of Block>
+<TextBlock 5 w:44 h:2>
+"One moment<Delay 30>...<Delay 30>...<Delay 30>
+Yes, that is correct."<Close><End of Block>
+<TextBlock 6 w:44 h:3>
+Dominia
+"Excellent.
+Give me the controls."<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+"Excellent?
+What are you planning on
+doing?"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Dominia
+"Sink it, of course.
+She will never trouble the
+Commander again."<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+"Wait. The Commander's
+orders were to investigate
+the disappearance of that
+flying battleship. <New>
+We can't deviate from 
+our mission.<New>
+Besides, we are low on
+fuel and need to refuel."<Close><End of Block>
+<TextBlock 10 w:40 h:3>
+Dominia
+"We have enough.
+I'll take her down."<Close><End of Block>
+<TextBlock 11 w:44 h:4>
+"...Groan... Once you
+start, there is no
+stopping you is there?<New>
+I hope you know that
+fighting in water is
+totally different than
+fighting on land."<Close><End of Block>
+<TextBlock 12 w:36 h:3>
+Dominia
+"Of course. Sorry,
+Kelvena."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Bart
+"Dammit! I can barely
+maneuver and you're movin'
+all over the place..."<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Fei
+"Looks like you're having
+a tough fight, Bart."<Close><End of Block>
+<TextBlock 15 w:30 h:3>
+Bart
+"Fei!?
+You're alive!?"<Close><End of Block>
+<TextBlock 16 w:44 h:2>
+Fei
+"Hey, that's my line."<Close><End of Block>
+<TextBlock 17 w:46 h:2>
+Elly
+"What about that Gear?"<Close><End of Block>
+<TextBlock 18 w:36 h:4>
+Dominia
+"Elhaym!!
+What are you doing
+here?"<Close><End of Block>
+<TextBlock 19 w:36 h:3>
+Elly
+"Dominia!?
+Why are you here?"<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Dominia
+"Why? We Gebler need no
+special reasons to sink
+an enemy ship!<New>
+It is our divine duty to
+rule those crass land
+dwelling Lambs."<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+Elly
+"But why?
+How are they different from
+us Shepherds, the -Abel- ?"<Close><End of Block>
+<TextBlock 22 w:50 h:3>
+Dominia
+"To me -Lambs- and -Abel-
+are the same.<New>
+The only definite
+differenece is
+personal ability.<New>
+The ignorant must
+be lead by the wise.
+That is our job.<New>
+Look what you've gained
+as an Element, Elly.
+Why do you even question?<New>
+Your superiority
+is obvious!"<Close><End of Block>
+<TextBlock 23 w:46 h:4>
+Elly
+"...So the wise harming
+the weak is a sign of
+ability?<New>
+I didn't want that...<Delay 30>
+That's all!!"<Close><End of Block>
+<TextBlock 24 w:34 h:3>
+Fei
+"Elly,
+are you alright?"<Close><End of Block>
+<TextBlock 25 w:46 h:4>
+Dominia
+"That Gear, you're the
+one? Hah! So that's how
+it is.<New>
+How amusing, Elhaym.
+All this for a man?
+I guess that story was
+true after all.<New>
+You were born of those
+lowly Lambs."<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+Elly
+"Stop!
+Don't say another word!"<Close><End of Block>
+<TextBlock 27 w:50 h:3>
+Dominia
+"Hmph, what are you going
+to do about it, mongrel!?<New>
+Are you going to use the
+power you used in that
+incident on me now?<New>
+Go ahead. Show me.
+Show me your true power!"<Close><End of Block>
+<TextBlock 28 w:30 h:4>
+Elly
+"...I will.<New>
+If you Gebler
+are wise...<Delay 20>
+then <Delay 30>I'd rather
+be a fool!!"<Close><End of Block>
+<TextBlock 29 w:48 h:4>
+Dominia
+"Then so be it. Then you
+shall be dealt with as
+the traitor you are."<Close><Close><End of Block>

@@ -1,0 +1,112 @@
+<TextBlock 1 w:38 h:3>
+<Chu-Chu>
+"I'm changing, so
+don't chu come in."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Citan
+"This room seems to be
+for ladies' use only.
+Let us excuse ourselves."<Close><End of Block>
+<TextBlock 3 w:38 h:2>
+Bart
+"Maybe not here..."<Close><End of Block>
+<TextBlock 4 w:46 h:2>
+Fei isn't here!<Delay 10>
+I wonder where he went?<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+So-o-o-rry.<Delay 10>
+The Shevat agent is in
+intensive care...<Delay 5> So...<Delay 10>
+No visitors are allowed!!<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+(I've always wanted to say
+that...!<Delay 10>
+ "No visitors are allowed!"<Delay 10>
+Now I'm so<Delay 5>-o-<Delay 5>o-o<Delay 5> happy!!)<Close><End of Block>
+<TextBlock 7 w:56 h:3>
+Gawd... I've been standing
+here for such a long time...<New>
+Was I of any help to you?
+    Of course
+    Hmmm, I dunno<Close><End of Block>
+<TextBlock 8 w:44 h:3>
+Well I'm happy to hear
+that... Even if you're
+not being truthful!<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Oh yeah...!?<Delay 10>
+Well...there are a lot of
+people who get lost around
+here, y'know...<Delay 10> Hah!<New>
+(Now where was I...!?)<Close><End of Block>
+<TextBlock 10 w:36 h:2>
+Young master, I've
+learned my lesson!<Close><End of Block>
+<TextBlock 11 w:50 h:5>
+What? Why am I here?
+Well never mind that!
+(It's not like I'm hiding
+the fact that I broke the
+wall or anything.)<New>
+Oh, and by the way...
+You can go through this
+door to the Gun Room, or
+go down the stairs to the
+Engine Room.<Close><End of Block>
+<TextBlock 12 w:54 h:3>
+I'll remember to obey
+lights-out from now on...<Delay 10>
+So, please come back alive.<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+What?<Delay 10> Can't find Fei?
+N,<Delay 5> no,<Delay 5> I wouldn't know.<Delay 10>
+(Not that I was sleeping
+on the job or anything...)<Close><End of Block>
+<TextBlock 14 w:40 h:2>
+Young master, c'mon,
+forgive me! Please!<Close><End of Block>
+<TextBlock 15 w:58 h:4>
+What? Why am I here?<Delay 10>
+Can't we put that behind us?<New>
+It's not like I'm being made
+to stand here as punishment
+for not obeying lights-out,
+or anything like that, is it?<New>
+Beyond this door is the
+Gear Hangar.<Delay 10>
+The Gear Shop is located
+in the Gear Hangar too!<New>
+Now be careful...!<Delay 10>
+The Gears are so big that
+you'll look very small and
+you might get lost.<Close><End of Block>
+<TextBlock 16 w:56 h:4>
+You may not have noticed it,
+but even since the time you
+guys came here, that tree's
+grown a little bit.<New>
+It may only be little by
+little, but it still means
+our hopes and dreams are
+also growing to fruition!<Close><End of Block>
+<TextBlock 17 w:50 h:2>
+Oh, young master!<Delay 10>
+This one's gotten bigger!<New>
+Right now, it's taller
+than you, young master.<Close><End of Block>
+<TextBlock 18 w:42 h:1>
+Grow bigger! Grow...!<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+This tree was planted
+when the young master was
+born. It grew along with
+the young master.<New>
+With it, our hopes and
+dreams grow to fruition
+too...<New>
+Anyhow, the door next to
+you is the elevator.<Delay 10>
+Use the switch inside to
+go up or down.<Close><End of Block>
+<TextBlock 20 w:0 h:1>
+<Close><End of Block>

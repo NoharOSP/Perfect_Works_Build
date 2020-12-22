@@ -1,0 +1,134 @@
+<TextBlock 1 w:6 h:1>
+<Delay 2>.<Delay 2>.<Delay 2>.<Close><End of Block>
+<TextBlock 2 w:14 h:1>
+Ouch<Delay 5>...<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Bart
+"I guess the Bart Missiles
+weren't such a good idea,
+huh...<New>
+We were able to save you
+and your friends, Citan<Delay 5>...<Delay 10>
+But I wonder what happened
+to Fei and Elly<Delay 5>..."<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Bart
+"I'm sure<Delay 5>...<Delay 15>they're alive
+somewhere...<Delay 15>
+And, once again..."<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Bart
+"Man!<Delay 10><New>
+The sea breeze stings my
+eye<Delay 5>...<Delay 10> So this is what
+they call the sea<Delay 5>..."<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Bart
+"First of all, I have to
+apologize to those two."<Close><End of Block>
+<TextBlock 7 w:16 h:2>
+Billy
+"Dad..."<Close><End of Block>
+<TextBlock 8 w:42 h:4>
+Citan
+"Billy...<Delay 10>
+I should not have
+made such a thing..."<Close><End of Block>
+<TextBlock 9 w:42 h:4>
+Citan
+"Billy...<Delay 10>
+I should not have
+made such a thing..."<Close><End of Block>
+<TextBlock 10 w:28 h:3>
+Billy
+"No, it's not
+your fault..."<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+Billy
+"This's the best way
+to see father off."<Close><End of Block>
+<TextBlock 12 w:30 h:2>
+You're right...<Delay 10>
+Thanks, son.<Close><End of Block>
+<TextBlock 13 w:18 h:2>
+Billy
+"D, dad!"<Close><End of Block>
+<TextBlock 14 w:34 h:3>
+Citan
+"Old friend!<Delay 10>
+Are you alright?"<Close><End of Block>
+<TextBlock 15 w:34 h:3>
+Citan
+"Old friend!<Delay 10>
+Are you alright?"<Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Jessie
+"You'd better believe it!<New>
+I ain't gonna leave that
+stupid junk alone!
+I<Delay 10> improved it!"<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Jessie
+"Ouchy-wow-wow!!<Delay 10>
+But I never wanna do
+that again though..."<Close><End of Block>
+<TextBlock 18 w:46 h:4>
+Citan
+"But still...<Delay 5>
+talking about hell...<New>
+I am surprised to know
+an irreligious person
+like you would believe
+in life after death..."<Close><End of Block>
+<TextBlock 19 w:46 h:4>
+Citan
+"But still...<Delay 5>
+talking about hell...<New>
+I am surprised to know
+an irreligious person
+like you would believe
+in life after death..."<Close><End of Block>
+<TextBlock 20 w:44 h:3>
+Jessie
+"Oh?<Delay 10>
+So you were listening?<New>
+That was a curse.<Delay 10>
+Isn't that a fitting
+end for him?"<Close><End of Block>
+<TextBlock 21 w:34 h:3>
+Citan
+"It is definitely
+your style."<Close><End of Block>
+<TextBlock 22 w:34 h:3>
+Citan
+"It is definitely
+your style."<Close><End of Block>
+<TextBlock 23 w:24 h:2>
+Primera
+"Pa<Delay 5>...pa<Delay 5>..."<Close><End of Block>
+<TextBlock 24 w:22 h:2>
+Billy
+"P, Prim!?"<Close><End of Block>
+<TextBlock 25 w:30 h:4>
+Billy
+"Prim, what did
+you just say?<Delay 10>
+Huh, Prim?"<Close><End of Block>
+<TextBlock 26 w:24 h:2>
+Primera
+"Pa...<Delay 5>pa...<Delay 5>"<Close><End of Block>
+<TextBlock 27 w:54 h:4>
+Jessie
+"Ha, ha, did you hear that?<Delay 10>
+Primera's problem seems to
+have been solved!"<Close><End of Block>
+<TextBlock 28 w:34 h:4>
+Billy
+"Hah...!<Delay 10>
+Prim talked!<Delay 10>
+Prim just talked!<New>
+Hey, Prim...<Delay 10>
+Now say my name.<Delay 10>
+Say 'Billy'!"<Close><End of Block>
+<TextBlock 29 w:0 h:1>
+<Close><End of Block>

@@ -1,0 +1,649 @@
+<TextBlock 1 w:40 h:2>
+Bart
+"I guess that's it."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Bart
+"Oh yeah? <Delay 30>
+So looks like we've got a
+real fanatic here, huh!"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Bart
+"What's an old man like
+you doing in a place 
+like this?"<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Bart
+"A collector, huh?
+Sounds interesting."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Bart
+"The things on this shelf,
+are they some of the stuff
+you have found?"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Ol' man Bal
+"You mean the fossils?
+They're one of the 
+things I collect.<New>
+Feel free to have a
+look at them."<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Ol' man Bal
+"Around here you can dig up
+ancient machines along with
+human and animal fossils. <New>
+Notice anything particular
+on these shelves? They go
+from oldest on the left,
+to newest on the right."<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+Bart
+"Are you an archaeologist
+or something, old man?<New>
+I don't quite see what
+you're talking about.<New>
+They just look like a
+bunch of old bones to me.
+Fei, what do you think?"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Fei
+"...Let me see.<Delay 30>
+First, there are no
+human bones up to here.<New>
+Then, from here on over
+to the right, something
+is slightly different...
+I guess."<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Ol' man Bal
+"Yes, from a certain point
+in time, human fossils
+suddenly no longer appear.<New>
+That point is roughly
+10,000 years ago."<Close><End of Block>
+<TextBlock 11 w:44 h:2>
+Bart
+"What does that mean?"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Ol' man Bal
+"Don't ask me.
+I don't know for sure...<New>
+But my guess is, there
+were no humans on this
+planet before then.<Delay 30>
+At least it appears so."<Close><End of Block>
+<TextBlock 13 w:44 h:4>
+Bart
+"How could that be?
+What about all that
+talk about evolution?"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Ol' man Bal
+"You mean the theory of
+evolution as taught by
+the 'Ethos', right?<New>
+You can't trust that!
+Rather, I believe in the
+old legends and myths."<Close><End of Block>
+<TextBlock 15 w:18 h:3>
+Fei
+"Legends?
+Myths?"<Close><End of Block>
+<TextBlock 16 w:36 h:3>
+Ol' man Bal
+"Haven't you heard
+of this story...?"<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Ol' man Bal
+"They say that humans and
+god lived together in a
+paradise in the sky.<New>
+With god's protection,
+there was no fear of death
+and natural disasters were
+entirely unknown.<New>
+Then one day, the humans
+ate a forbidden fruit
+which gave them incredible
+wisdom.<New>
+But god drove mankind from
+the paradise for their sin.<New>
+Bitter at having been
+driven out of paradise,
+humans used the wisdom they
+had gained to make giants.<New>
+With these giants, they
+planned to challenge god
+himself. But god poured
+his wrath down on them.<New>
+All who defied god were
+destroyed. 
+But god himself did not
+escape unharmed.<New>
+Taking paradise with him,
+the wounded god buried
+himself deep beneath the
+ocean to sleep for eons.<New>
+Before going to sleep, god
+used his remaining power to
+create right-hearted humans
+to live on this planet.<New>
+These people are said to
+be...<Delay 30>our ancestors."<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Ol' man Bal
+"Well, anyway, I'll
+stop my rambling now."<Close><End of Block>
+<TextBlock 19 w:36 h:3>
+Fei
+"By the way, does 
+this cave have..."<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Ol' man Bal
+"An exit?<New>
+There is an exit in the
+excavation site beyond the
+sand barrier. You can get
+outside through there."<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Bart
+"Sand barrier? You mean
+that huge wall you can
+see from your entrance?"<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Ol' man Bal
+"Yes, that's it.
+On the other side is an
+old Aveh excavation site.<New>
+They built the wall when
+Aveh was excavating here
+to keep the sand from
+falling in from above.<New>
+But they've stopped work
+there now."<Close><End of Block>
+<TextBlock 23 w:48 h:3>
+Fei
+"So, how do we open such
+a huge thing like that?"<Close><End of Block>
+<TextBlock 24 w:32 h:4>
+Bart
+"If it's a wall,
+you can probably
+break it down."<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+Ol' man Bal
+"Hold your horses
+there young'uns.<New>
+No matter how good a Gear
+you have, you'll never
+break that wall down.<New>
+It's much too strong.<Delay 30>
+So...
+let's make a deal." <Close><End of Block>
+<TextBlock 26 w:18 h:2>
+Bart
+"A deal?"<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Ol' man Bal
+"The wall was closed
+due to the reaction of
+the 'Sand Sensors'.<New>
+Thanks to that, now I
+can't get through to
+the other side either.<New>
+Maybe it happened when
+you two fell in here.
+Were you boys fighting
+up there or something?"<Close><End of Block>
+<TextBlock 28 w:40 h:3>
+Fei
+"You seem to be able
+to tell everything!<New>
+Anyway, so what can
+we do about it?"<Close><End of Block>
+<TextBlock 29 w:54 h:4>
+Ol' man Bal
+"It's very simple.
+You just have to turn off
+the Sand Sensor switches.<New>
+Doing that will keep the
+barrier from closing again.<Delay 30>
+While you two are doing
+that, I'll open it up."<Close><End of Block>
+<TextBlock 30 w:32 h:2>
+Fei
+"Right, got it."<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Ol' man Bal
+"The sensors are in two
+places. You should see
+their flashing red lights.<New>
+Well, good luck then." <Close><End of Block>
+<TextBlock 32 w:32 h:2>
+Fei
+"Let's go Bart."<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Ol' man Bal
+"Oh, before you go...<New>
+I can share some parts
+and fuel with you.<Delay 20>
+Just talk to me whenever
+you need something, right."<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Bart
+"Thanks, old man.<Delay 20>
+Well, we'll go and finish
+our part of the deal then!"<Close><End of Block>
+<TextBlock 35 w:42 h:2>
+Fei
+"Well done, old man!"<Close><End of Block>
+<TextBlock 36 w:38 h:2>
+Ol' man Bal
+"Our deal is done."<Close><End of Block>
+<TextBlock 37 w:38 h:4>
+Bart
+"Hey, old man.
+There's one thing I
+want to ask you."<Close><End of Block>
+<TextBlock 38 w:26 h:2>
+Ol' man Bal
+"What is it?"<Close><End of Block>
+<TextBlock 39 w:52 h:4>
+Bart
+"I've heard somewhere on
+this planet is a Gear far
+superior to all others.<New>
+I've heard that it was
+called 'the god Gear' and
+was made in ancient times
+but hidden away somewhere.<New>
+Do you know anything
+about it?"<Close><End of Block>
+<TextBlock 40 w:54 h:4>
+Ol' man Bal
+"A man-made god, created
+with the wisdom of god!<New>
+Such a Gear would have the
+power of a thousand Gears.
+In a wave of its arm, it
+could destroy whole cities.<New>
+Its battle cries would
+thunder in the heavens.<New>
+You must be speaking of
+the 'Omnigear'."<Close><End of Block>
+<TextBlock 41 w:52 h:4>
+Bart
+"You know of it? <New>
+Then perhaps it was what
+you were speaking about in
+that tale you told us of
+the battle with god..."<Close><End of Block>
+<TextBlock 42 w:50 h:4>
+Ol' man Bal
+"Goodness gracious,
+you too, boy?<New>
+Those stories were made
+to inspire man's soul.
+But they're just legends.
+They don't really exist."<Close><End of Block>
+<TextBlock 43 w:44 h:3>
+Ol' man Bal
+"Anyway, allow me take
+a look at your Gears.<New>
+It'll only take a
+little while, so
+wait here please."<Close><End of Block>
+<TextBlock 44 w:38 h:3>
+Bart
+"Hey, wait!<Delay 30>
+Arhh, he's gone..."<Close><End of Block>
+<TextBlock 45 w:54 h:4>
+Fei
+"Hey Bart. Do you think the
+Gear in that story's buried
+in the ground somewhere?"<Close><End of Block>
+<TextBlock 46 w:34 h:3>
+Bart
+"I think that's
+what I've heard."<Close><End of Block>
+<TextBlock 47 w:52 h:3>
+Fei
+"Could one of the Gears we
+are using possibly be it?"<Close><End of Block>
+<TextBlock 48 w:40 h:4>
+Bart
+"Yeah, right!
+What are the chances
+of that happening?<Close><End of Block>
+<TextBlock 49 w:6 h:2>
+Fei
+"?"<Close><End of Block>
+<TextBlock 50 w:50 h:4>
+Bart
+"The Gears that are
+excavated lately...<New>
+...are usually only a
+few hundred years old.
+Nowhere nearly as old as
+the Gear in that legend."<Close><End of Block>
+<TextBlock 51 w:38 h:3>
+Fei
+"Then why were they
+in the ground...?"<Close><End of Block>
+<TextBlock 52 w:44 h:4>
+Bart
+"I don't know.
+There are no records.<Delay 30> 
+Except..."<Close><End of Block>
+<TextBlock 53 w:28 h:2>
+Fei
+"Except what?"<Close><End of Block>
+<TextBlock 54 w:54 h:4>
+Bart
+"There must be some truth
+in the tales that they were
+buried after a great war...<New>
+The bullet wounds covering
+most of the Gear's armor
+would appear to confirm
+that."<Close><End of Block>
+<TextBlock 55 w:48 h:4>
+Fei
+"You mean that there are
+no records from the last
+several hundred years?<New>
+How about before that?"<Close><End of Block>
+<TextBlock 56 w:50 h:4>
+Bart
+"None from either period.<New>
+The 'Ethos' controls
+all the records from
+that time period.<New>
+Maybe they have some very
+ancient records too...<New>
+All we know about our
+history is from the
+little pieces that we
+find for ourselves."<Close><End of Block>
+<TextBlock 57 w:48 h:3>
+Bart
+"Anyway Fei, what do you
+make of the old man?"<Close><End of Block>
+<TextBlock 58 w:44 h:2>
+Fei
+"What do you mean...?"<Close><End of Block>
+<TextBlock 59 w:46 h:4>
+Bart
+"Why would such an old 
+man live all alone in
+this abandoned cave?"<Close><End of Block>
+<TextBlock 60 w:46 h:4>
+Fei
+"I don't know.<Delay 30> Probably
+digging for ancient
+Gears or something?"<Close><End of Block>
+<TextBlock 61 w:42 h:3>
+Bart
+"Right!
+So you think so too?"<Close><End of Block>
+<TextBlock 62 w:54 h:3>
+Fei
+"Hey!
+I just said that as a joke.<New>
+Don't take all that stuff 
+seriously. They're only
+legends, you know."<Close><End of Block>
+<TextBlock 63 w:40 h:3>
+Bart
+"No...that old man 
+is up to something!"<Close><End of Block>
+<TextBlock 64 w:36 h:2>
+Ol' man Bal
+"This can't be..."<Close><End of Block>
+<TextBlock 65 w:8 h:2>
+Fei
+"??"<Close><End of Block>
+<TextBlock 66 w:48 h:2>
+Bart
+"What's wrong, old man?"<Close><End of Block>
+<TextBlock 67 w:40 h:2>
+Ol' man Bal
+"Is this your Gear?"<Close><End of Block>
+<TextBlock 68 w:22 h:3>
+Fei
+"Well, 
+sort of..."<Close><End of Block>
+<TextBlock 69 w:46 h:2>
+Ol' man Bal
+"Where did you get it?"<Close><End of Block>
+<TextBlock 70 w:48 h:2>
+Fei
+"I'm just borrowing it."<Close><End of Block>
+<TextBlock 71 w:20 h:1>
+This is...<Opcode 2 30><Close><End of Block>
+<TextBlock 72 w:46 h:2>
+the<Delay 5> host<Delay 5> for<Delay 5> the<Delay 5> spirit<Delay 5>
+of<Delay 5> the<Delay 5> slayer<Delay 5> of<Delay 30> god<Delay 30>...<Opcode 2 30><Close><End of Block>
+<TextBlock 73 w:46 h:3>
+Fei
+"Wait a moment! 
+What did you just say?"<Close><End of Block>
+<TextBlock 74 w:48 h:3>
+Ol' man Bal
+"Nothing.
+I didn't say anything!!"<Close><End of Block>
+<TextBlock 75 w:52 h:3>
+Fei
+"No! I heard you!
+You said, slayer of god...<New>
+That's what you said,
+isn't it old man!!"<Close><End of Block>
+<TextBlock 76 w:52 h:4>
+Ol' man Bal
+"Your Gears are fixed.
+You have no more
+business here.<New>
+This is a bad time for me.
+Be on your way!"<Close><End of Block>
+<TextBlock 77 w:52 h:3>
+Fei
+"Be on our way...?
+Listen here, old man...!!"<Close><End of Block>
+<TextBlock 78 w:48 h:4>
+Fei
+"You mean, you can tell
+what's wrong just by the
+sound of its footsteps?"<Close><End of Block>
+<TextBlock 79 w:3 h:1>
+a<Close><End of Block>
+<TextBlock 80 w:44 h:4>
+Ol' man Bal
+"I told you to leave!"
+    Tell us some more
+    Sell us Gear parts<Close><End of Block>
+<TextBlock 81 w:54 h:3>
+Ol' man Bal
+"I have nothing more to say
+to you, so just leave."<Close><End of Block>
+<TextBlock 82 w:54 h:4>
+Ol' man Bal
+"When Calamity beats you,
+I'll just get these parts
+back anyway...<New>
+If you don't mind that then
+I'll sell them to you...!"
+    For Gear
+    For characters<Close><End of Block>
+<TextBlock 83 w:40 h:3>
+Ol' man Bal
+"First, try changing
+the engine."<Close><End of Block>
+<TextBlock 84 w:52 h:4>
+Ol' man Bal
+"Now hurry and shut off
+the Sand Sensors.<New>
+Or do you have something
+else you want to ask?"<New>
+    Where are the sensors?
+    About Gear functions
+    Got any parts to sell?
+    Nothing<Close><End of Block>
+<TextBlock 85 w:50 h:4>
+Ol' man Bal
+"Hmm, which do you want?"
+    For Gear use
+    For character use<Close><End of Block>
+<TextBlock 86 w:52 h:4>
+Ol' man Bal
+"You seem to have shut off
+the 'Sand Sensor' on the
+ledge in the Great Hall...<New>
+But there's another 'Sand
+Sensor' on the road from
+which you can see the
+waterfalls.<New>
+It's on a rock ledge,
+northwest of where my
+repair robot stands.<New>
+Anything else you want?"
+    Explain Gear functions
+    Got any parts to sell?
+    Nothing<Close><End of Block>
+<TextBlock 87 w:48 h:4>
+Ol' man Bal
+"Hmm, what do you want?"
+    Parts for Gears
+    Character items<Close><End of Block>
+<TextBlock 88 w:54 h:4>
+Ol' man Bal
+"You seem to have shut
+off the Sand Sensor in
+Waterfall Grotto. <New>
+But there's still one more,
+above the big boulder in
+the Great Hall. I think
+you've seen it already.<New>
+Anything else?"
+    Explain Gear functions
+    Got any parts to sell?
+    Nothing<Close><End of Block>
+<TextBlock 89 w:48 h:4>
+Ol' man Bal
+"Hmm, what do you want?"
+    Parts for Gears
+    Character items<Close><End of Block>
+<TextBlock 90 w:50 h:4>
+Ol' man Bal
+"Oh, good timing.
+I was just about to open
+up the sand barrier now."<Close><End of Block>
+<TextBlock 91 w:48 h:3>
+"It's been a while since
+I last serviced a Gear.
+This should be fun."<Close><End of Block>
+<TextBlock 92 w:54 h:4>
+Ol' man Bal
+"A Gear's strength changes
+with the parts equipped and
+how the pilot handles it.<New>
+First, let's talk about
+the Engine.<New>
+With a good Engine your
+Attack Power and fuel 
+capacity go up.<New>
+HP depends on the Frame
+and Defense Ability on
+the Armor equipped.<New>
+Here's a tip for when your
+fuel is low: use 'Charge'
+to replenish it a little
+as you defend yourself.<New>
+When you are fighting a
+strong enemy, use 'Booster'
+to increase your mobility
+and power.<New>
+If you use Booster too
+much though, your fuel
+will run out.<New>
+So think carefully and
+try to find your own
+style of fighting."<Close><End of Block>
+<TextBlock 93 w:46 h:3>
+Ol' man Bal
+"First, changing the
+engine is a good idea."<Close><End of Block>
+<TextBlock 94 w:44 h:4>
+It's been a long time
+since my last visitor.
+What happened? Did you
+fall from the surface?<Close><End of Block>
+<TextBlock 95 w:50 h:3>
+I see...
+That's too bad. <New>
+I can tell from the sound
+that you both ride good
+Gears...<New>
+But the legs seem to be
+playing up a bit.<Close><End of Block>
+<TextBlock 96 w:48 h:4>
+Ha ha ha.
+It's easy to know what's
+wrong with Gears by the
+sounds they make.<New>
+My guess is that one
+of them needs a new
+hydromechanic pipe
+in its joints.<New>
+It's making a
+nasty sound.
+It must be hard to
+walk with too.<New>
+Oh, by the way, the
+name's Balthazar,
+but you can call me
+Ol' man Bal.<Close><End of Block>
+<TextBlock 97 w:54 h:4>
+Ol' man Bal
+"I guess you can call me a
+'fossicker' or a 'collector
+of things'.<New>
+There is much to be found
+lying around in this here
+stalactite cavern."<Close><End of Block>
+<TextBlock 98 w:50 h:4>
+Bart
+"Hey, Fei! This is a
+surprise! There's someone
+living in this place!"<Close><End of Block>
+<TextBlock 99 w:52 h:4>
+Hmm, it's been a while,
+but I thought I could hear
+the sound of Gears.
+I assume they are yours?<New>
+Well anyway, come on back
+in here and make yourself
+at home.<Close><End of Block>
+<TextBlock 100 w:48 h:3>
+Fei
+"I don't know where they
+are. Can you tell me?"<Close><End of Block>
+<TextBlock 101 w:54 h:4>
+Ol' man Bal
+"One is up on the rock
+ledge above the boulder
+in the 'Great Hall'.<New>
+You can find it by climbing
+the 'Terrace Stones' out
+there and heading into the
+passage on northwest wall.<New>
+The other sensor is on
+the road from which you
+can see the waterfalls.<New>
+You can get to it by going
+northwest from the place
+where the Gear is standing.
+It is on a rock ledge.<New>
+You can tell that it is a
+Sand Sensor by its square
+shape and the flashing red
+light it emits."<Close><Close><End of Block>

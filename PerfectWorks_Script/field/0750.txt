@@ -1,0 +1,116 @@
+<TextBlock 1 w:10 h:1>
+What?<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:50 h:4>
+"Hey, come down here now!<Delay 30>
+I'm not gonna kill you.<Delay 30>
+All I want is for you to
+leave this Gear<Delay 60>...<Delay 60> Huh?"<Close><End of Block>
+<TextBlock 3 w:28 h:3>
+"Hey!?<Delay 30>
+You're<Delay 20> not an
+Aveh soldier?"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Fei
+"I told you that in my
+intercom transmission
+earlier.<New>
+You're the one who
+refused to listen to
+me, right?"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+"Hah, ha, ha. Sorry, sorry.
+Yes, I remember you were
+saying something like that.<New>
+I went off half-cocked and
+thought you were the enemy.<New>
+Uhh, ahem...
+My name is Bart.
+I'm the pirate that works
+this territory."<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Fei
+"My name is Fei.<New>
+I was arrested for no
+apparent reason, shoved
+into that Aveh transport
+ship...<New>
+...And was nearly going to
+be sent to a concentration
+camp until you went and
+blew the thing to blazes.<New>
+Anyway...
+I'm just glad to have
+been able to survive."<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Bart
+"I see...
+Well, I'm glad I at least
+helped you out a little.<New>
+But I didn't expect a
+civilian like you would
+be riding in a military
+Gear.<New>
+Besides, this Gear is a
+brand new model.
+I've never seen this type
+before."<Close><End of Block>
+<TextBlock 8 w:40 h:4>
+Fei
+"Let's just say that
+a lot of things have
+happened...<New>
+It wasn't like I
+wanted to pilot it!"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Fei
+"Where are we anyway?
+Looks like we fell into
+one weird place.<New>
+I've never heard of huge
+stalactite caves such as
+this existing under the
+desert before."<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Bart
+"What? You don't know
+anything, do you?<Delay 30>
+Where are you from?<New>
+The desert only covers
+around 1000 sharls of the
+outer layer of the earth.<New>
+The stratum underneath
+that consists of igneous
+rock."<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Fei
+"From a sea of trees to
+a sea of sand...and now
+a stalactite cave...<New>
+What's next...?"<Close><End of Block>
+<TextBlock 12 w:30 h:3>
+Bart
+"What are you
+talking about?"<Close><End of Block>
+<TextBlock 13 w:30 h:3>
+Fei
+"Oh, nothing...<Delay 30>
+Never mind..."<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Bart
+"We're in trouble...<Delay 30>
+Look, the hole we fell
+through has disappeared.<New>
+We'd better find some
+other way out...<Delay 30>
+So, you wanna call a
+truce for now?<New>
+...At least until we
+find an exit and get
+out of here."<Close><End of Block>
+<TextBlock 15 w:46 h:3>
+Fei
+"Yes...
+agreed.<New>
+First, we gotta find
+the way out of here...
+So, let's get going..."<Close><Close><End of Block>

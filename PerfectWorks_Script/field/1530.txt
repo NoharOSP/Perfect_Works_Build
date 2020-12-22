@@ -1,0 +1,29 @@
+<TextBlock 1 w:54 h:4>
+Oh, and you are...?<Delay 20>
+I feel like I've met you
+before...<New>
+Hmm...you resemble Kahn,
+the one who taught us the
+art of fighting.<New>
+Nobody knows his
+whereabouts after he went
+down to the surface on
+the Queen's mission...<New>
+I doubt something bad
+happened to him considering
+his skills.<Delay 20>
+But, I wonder where he is?<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+You just arrived from
+the surface, didn't
+you?<Delay 20>
+I've heard about you.<New>
+They say you saved our
+colleague captured by the
+'Ethos'.<Delay 20> Thank you very
+much for that.<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+I wish they'd give me a
+mission!<Delay 20> 
+I'd teach those
+Solarians a lesson...<Close><Close><End of Block>

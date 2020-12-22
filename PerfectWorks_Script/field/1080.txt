@@ -1,0 +1,304 @@
+<TextBlock 1 w:40 h:3>
+Fei
+"You...?<Delay 20>
+How do you know me?"<Close><End of Block>
+<TextBlock 2 w:28 h:3>
+Fei
+"Uh, no...<Delay 40>
+We weren't..."<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Fei
+"Huh?
+What do you mean?"<Close><End of Block>
+<TextBlock 4 w:32 h:3>
+Rico
+"Tchi!
+Don't like him!"<Close><End of Block>
+<TextBlock 5 w:10 h:2>
+Rico
+"Ah!"<Opcode 2 20><Close><End of Block>
+<TextBlock 6 w:22 h:2>
+Rico
+"Not good!"<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:28 h:3>
+Rico
+"Coming again!
+Laaater..."<Opcode 2 20><Close><End of Block>
+<TextBlock 8 w:34 h:3>
+Rico
+"Because a mutant
+like me is here."<Close><End of Block>
+<TextBlock 9 w:14 h:2>
+Sigmund
+"Yes."<Close><End of Block>
+<TextBlock 10 w:36 h:2>
+Sigmund
+"Found it, eh...?"<Close><End of Block>
+<TextBlock 11 w:16 h:2>
+Sigmund
+"I see."<Close><End of Block>
+<TextBlock 12 w:46 h:2>
+Sigmund
+"How can you say that?"<Close><End of Block>
+<TextBlock 13 w:28 h:4>
+Sigmund
+"Pirates?
+You mean the
+young prince?"<Close><End of Block>
+<TextBlock 14 w:22 h:2>
+Sigmund
+"Uh huh..."<Close><End of Block>
+<TextBlock 15 w:28 h:2>
+Sigmund
+"Black boxes?"<Close><End of Block>
+<TextBlock 16 w:34 h:2>
+Sigmund
+"So that's it..."<Close><End of Block>
+<TextBlock 17 w:14 h:2>
+Sigmund
+"What?"<Close><End of Block>
+<TextBlock 18 w:36 h:3>
+Sigmund
+"Are you trying to
+destroy Kislev?"<Close><End of Block>
+<TextBlock 19 w:48 h:3>
+Sigmund
+"Indeed it would be easy
+to take down Aveh.<New>
+But it would exhaust our
+resources also."<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Sigmund
+"Even if we beat Shakhan,
+Solaris would only replace
+him with another puppet.<New>
+What if we exhausted our
+resources and found our-
+selves under attack?<New>
+Anyway, we must still be
+concerned with Nisan.
+There is nothing to gain
+by doing anything now.<Close><End of Block>
+<TextBlock 21 w:32 h:3>
+Sigmund
+"It seems 'they'
+have arrived..."<Close><End of Block>
+<TextBlock 22 w:28 h:2>
+Sigmund
+"Who are you?"<Close><End of Block>
+<TextBlock 23 w:34 h:3>
+Sigmund
+"!!<Delay 30> I see...
+So you are Fei...<New>
+Welcome."<Close><End of Block>
+<TextBlock 24 w:44 h:4>
+Sigmund
+"Ha ha hah. Excuse me.
+I am the Kaiser of
+Kislev, Sigmund."<Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Sigmund
+"This may sound sudden but
+would you like to join
+forces?<New>
+I need your assistance."<Close><End of Block>
+<TextBlock 26 w:32 h:2>
+Sigmund
+"!? Huh...?<New>
+It's YOU! Rico!"<Close><End of Block>
+<TextBlock 27 w:44 h:4>
+Sigmund
+"...Mutant!<Delay 20>
+Security!!
+Arrest this intruder!"<Opcode 2 20><Close><End of Block>
+<TextBlock 28 w:40 h:3>
+Sigmund
+"He wasn't with you,
+was he?"<Close><End of Block>
+<TextBlock 29 w:56 h:2>
+Associate
+"Kaiser, we have some news."<Close><End of Block>
+<TextBlock 30 w:54 h:4>
+Associate
+"We investigated the cause
+of the recent explosion at
+the southern Aveh border.<New>
+Our data showed a large
+amount of radiation was
+released at the epicenter.<New>
+It was probably caused by
+an overload of a battleship
+class slave generator.<New>
+The cause of this is still
+unknown.<New>
+The shockwaves from that
+explosion took out two
+thirds of the Aveh and 
+Gebler forces combined.<New>
+Now, Aveh is in the process
+of regrouping their reserve
+units, but that should take
+at least several days."<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Associate
+"Concerning your order,
+the scouts have arrived at
+the area you requested..."<Close><End of Block>
+<TextBlock 32 w:22 h:2>
+Associate
+"Yes, sir."<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Associate
+"We know the Gear found was
+stolen from the 11th base
+by the Gebler unit in Aveh.<New>
+And in the investigation of
+the machine, we also caught
+the unconscious pilot.<New>
+The seized Gear has been
+transported to the capital.<New>
+From the circumstances, we
+believe information was
+leaked to Aveh."<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Associate
+"All the Gears except this
+were destroyed at Lahan.<New>
+Judging from the ID signal,
+this one wasn't with Aveh
+but was part of a pirate
+group."<Close><End of Block>
+<TextBlock 35 w:22 h:2>
+Associate
+"Yes, sir."<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+Associate
+"We're now analyzing the
+combat data.<New>
+However, we've discovered
+some black boxes which
+are likely to delay the
+analysis."<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Associate
+"That Gear wasn't made by
+us. The stock body was
+brought in by 'them'."<Close><End of Block>
+<TextBlock 38 w:34 h:2>
+Associate
+"...Uh<Delay 40>...Kaiser?"<Close><End of Block>
+<TextBlock 39 w:40 h:3>
+Associate
+"Shouldn't we begin
+an assault on Aveh?"<Close><End of Block>
+<TextBlock 40 w:18 h:2>
+Associate
+"Huh?"<Close><End of Block>
+<TextBlock 41 w:46 h:3>
+Associate
+"But we can't afford
+to miss this chance..."<Close><End of Block>
+<TextBlock 42 w:20 h:1>
+Excuse me!<Opcode 2 40><Close><End of Block>
+<TextBlock 43 w:10 h:1>
+Whew.<Close><End of Block>
+<TextBlock 44 w:10 h:1>
+Whew.<Close><End of Block>
+<TextBlock 45 w:54 h:4>
+Elder
+"Sigmund made it this
+far on his own even after
+the loss of his wife.<New>
+But, not a day goes by that
+he doesn't think of her.<New>
+...It is so sad...<Delay 20>
+...sob... sob..."<Close><End of Block>
+<TextBlock 46 w:58 h:4>
+Elder
+"Oh my...<Delay 40>That cat only
+liked Sigmund and his wife...
+why does he come to you?"<Close><End of Block>
+<TextBlock 47 w:52 h:3>
+'Metronome Piggy Bank'
+Stop the arm in the middle
+and you'll get money.<Close><End of Block>
+<TextBlock 48 w:44 h:2>
+Do it in a row, you'll
+get even more money.<Close><End of Block>
+<TextBlock 49 w:46 h:1>
+0G left. Unable to pay.<Close><End of Block>
+<TextBlock 50 w:26 h:2>
+    Try it
+    Forget it<Close><End of Block>
+<TextBlock 51 w:24 h:1>
+Received 1G.<Close><End of Block>
+<TextBlock 52 w:24 h:1>
+Received 1G.<Close><End of Block>
+<TextBlock 53 w:63 h:5>
+<Opcode 1 255>    Stop already!
+    Once more
+This is your <Opcode 10 0> time
+<C>Longest run <Opcode 10 2> times
+<C>You have <Opcode 10 1>G<Close><End of Block>
+<TextBlock 54 w:46 h:2>
+His wife was carrying
+a child when she left.<New>
+If it were a boy, he
+would've been the heir.<Close><End of Block>
+<TextBlock 55 w:40 h:1>
+Jackpot! 3 in a row!<Close><End of Block>
+<TextBlock 56 w:26 h:1>
+Received 10G.<Close><End of Block>
+<TextBlock 57 w:40 h:1>
+Jackpot! 5 in a row!<Close><End of Block>
+<TextBlock 58 w:28 h:1>
+Received 100G.<Close><End of Block>
+<TextBlock 59 w:42 h:1>
+Jackpot! 10 in a row!<Close><End of Block>
+<TextBlock 60 w:28 h:1>
+Received 500G.<Close><End of Block>
+<TextBlock 61 w:38 h:1>
+You're pretty good.<Close><End of Block>
+<TextBlock 62 w:42 h:1>
+Jackpot! 20 in a row!<Close><End of Block>
+<TextBlock 63 w:30 h:1>
+Received 1000G.<Close><End of Block>
+<TextBlock 64 w:42 h:1>
+Jackpot! 30 in a row!<Close><End of Block>
+<TextBlock 65 w:30 h:1>
+Received 2000G.<Close><End of Block>
+<TextBlock 66 w:46 h:1>
+Cool! Cooler than cool!<Close><End of Block>
+<TextBlock 67 w:42 h:1>
+Jackpot! 40 in a row!<Close><End of Block>
+<TextBlock 68 w:30 h:1>
+Received 3000G.<Close><End of Block>
+<TextBlock 69 w:54 h:2>
+Now you're in the domain of
+the immortals.<Close><End of Block>
+<TextBlock 70 w:44 h:1>
+Jackpot! 100 in a row!<Close><End of Block>
+<TextBlock 71 w:40 h:2>
+Capacity overload...
+Unable to compute...<Close><End of Block>
+<TextBlock 72 w:44 h:1>
+Se..self-destructing..<Close>.<Close><End of Block>
+<TextBlock 73 w:24 h:1>
+3...<Delay 20>2...<Delay 20>1...<Opcode 2 30><Close><End of Block>
+<TextBlock 74 w:30 h:1>
+Kabooooooom!!!!<Opcode 2 30><Close><End of Block>
+<TextBlock 75 w:36 h:1>
+...Juuust kidding.<Close><End of Block>
+<TextBlock 76 w:46 h:2>
+You've used up a
+lifetime worth of luck.<Close><End of Block>
+<TextBlock 77 w:26 h:1>
+Counter stop!<Close><End of Block>
+<TextBlock 78 w:46 h:1>
+You cheated didn't you?<Close><End of Block>
+<TextBlock 79 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 80 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

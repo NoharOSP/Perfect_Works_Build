@@ -1,0 +1,86 @@
+<TextBlock 1 w:32 h:3>
+Mystery Man
+"Hey Mister, are
+you from Lahan?"<Close><End of Block>
+<TextBlock 2 w:8 h:2>
+Fei
+"??"<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Mystery Man
+"Seems like you and
+that  boy have some
+kind of problem..."<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Fei
+"Who do you think you are?
+Mind your own business!"<Close><End of Block>
+<TextBlock 5 w:26 h:2>
+Mystery Man
+"Ha ha ha..."<Close><End of Block>
+<TextBlock 6 w:36 h:2>
+Fei
+"What's so funny?"<Close><End of Block>
+<TextBlock 7 w:38 h:4>
+Mystery Man
+"Nothing...<New>
+Just wondering what
+kind  of fight you
+will have with that
+boy...<New>
+Well, I'm looking
+forward to it,
+'Fei'."<Close><End of Block>
+<TextBlock 8 w:14 h:2>
+Fei
+"Huh!?"<Opcode 2 50><Close><End of Block>
+<TextBlock 9 w:36 h:3>
+Fei
+(How does that guy
+know my name...?<New>
+I didn't enter my 
+real name...)<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+Fei
+"D, Dan..." <Opcode 2 50><Close><End of Block>
+<TextBlock 11 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:24 h:3>
+Fei
+"Dan...<Delay 60>
+Dan!<New>
+What are you
+doing here?"<Close><End of Block>
+<TextBlock 13 w:48 h:3>
+Dan
+"...It's your fault that
+Alice...<New>
+I'll never forgive you.
+I'm gonna kill you!"<Close><End of Block>
+<TextBlock 14 w:22 h:2>
+Fei
+"...Dan..."<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Dan
+"You're the enemy of 
+everyone in Lahan!<New>
+I'm gonna kick your butt
+in front of everyone!
+And don't be runnin' 
+away either!!"<Close><End of Block>
+<TextBlock 16 w:46 h:3>
+The human body is 
+weak. I always fight 
+against rock and metal!<New>
+There is no way I can 
+lose.<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Everyone is so excited...
+Isn't there a big
+festival or something?
+Isn't there?<Close><End of Block>
+<TextBlock 18 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 19 w:54 h:3>
+Attention all participants.
+We will be starting soon.
+Please enter the arena.<Close><Close><End of Block>

@@ -1,0 +1,75 @@
+<TextBlock 1 w:3 h:1>
+ <Close><End of Block>
+<TextBlock 2 w:3 h:1>
+ <Close><End of Block>
+<TextBlock 3 w:3 h:1>
+ <Close><End of Block>
+<TextBlock 4 w:62 h:8>
+<Opcode 1 255>menu
+    exit
+    dajill
+    wc<Extra2 255>
+    schebat<Extra2 255>
+    melkaber
+    the history of human racing
+    houin<Close><End of Block>
+<TextBlock 5 w:68 h:5>
+    <Opcode 1 255>exit
+    gear's remains
+    new entry
+    as free
+    after the Shakhan's adjustment<Close><End of Block>
+<TextBlock 6 w:62 h:6>
+    <Opcode 1 255>exit
+    Fein in injury<Extra2 255>
+    as free
+    houin , after charch broken
+    secret of charch
+    work<Close><End of Block>
+<TextBlock 7 w:63 h:8>
+<Extra2 255><Extra2 255><Extra2 255><Opcode 1 255><Extra2 255><UNKNOWN CHUNK 163><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 252><UNKNOWN CHUNK 236><Extra1 23><Extra1 15><=><UNKNOWN CHUNK 237><Extra1 51><Extra1 32><Extra1 60><Extra1 6><UNKNOWN CHUNK 252><Extra1 42><Extra1 28><Extra1 15><1>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 252><UNKNOWN CHUNK 236><Extra1 23><Extra1 15><=><UNKNOWN CHUNK 237><Extra1 51><Extra1 32><Extra1 60><Extra1 6><UNKNOWN CHUNK 252><Extra1 42><Extra1 28><Extra1 15><2>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 252><UNKNOWN CHUNK 236><Extra1 23><Extra1 15><=><UNKNOWN CHUNK 237><Extra1 51><Extra1 32><Extra1 60><Extra1 6><UNKNOWN CHUNK 252><Extra1 42><Extra1 28><Extra1 15><3>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 252><UNKNOWN CHUNK 236><Extra1 23><Extra1 15><=><UNKNOWN CHUNK 237><Extra1 51><Extra1 32><Extra1 60><Extra1 6><UNKNOWN CHUNK 252><Extra1 42><Extra1 28><Extra1 15><4>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 252><UNKNOWN CHUNK 236><Extra1 23><Extra1 15><=><UNKNOWN CHUNK 237><Extra1 51><Extra1 32><Extra1 60><Extra1 6><UNKNOWN CHUNK 252><Extra1 42><Extra1 28><Extra1 15><5>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 252><UNKNOWN CHUNK 236><Extra1 23><Extra1 15><=><UNKNOWN CHUNK 237><Extra1 51><Extra1 32><Extra1 60><Extra1 6><UNKNOWN CHUNK 252><Extra1 42><Extra1 28><Extra1 15><Extra2 255><Extra2 255><1>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 252><UNKNOWN CHUNK 236><Extra1 23><Extra1 15><=><UNKNOWN CHUNK 237><Extra1 51><Extra1 32><Extra1 60><Extra1 6><UNKNOWN CHUNK 252><Extra1 42><Extra1 28><Extra1 15><Extra2 255><Extra2 255><2><Extra2 255><Close><End of Block>
+<TextBlock 8 w:60 h:9>
+<Extra2 255><Extra2 255><Extra2 255><Opcode 1 255><Extra2 255><UNKNOWN CHUNK 163><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 40><Extra1 50><UNKNOWN CHUNK 240><Extra1 23><Extra1 60><=><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra1 37><Extra1 10><Extra1 30>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 40><Extra1 50><UNKNOWN CHUNK 240><Extra1 23><Extra1 60><=><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra1 37><Extra1 10><Extra1 30><UNKNOWN CHUNK 175><UNKNOWN CHUNK 192><2>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 40><Extra1 50><UNKNOWN CHUNK 240><Extra1 23><Extra1 60><=><Extra1 22><Extra1 18><UNKNOWN CHUNK 240><Extra1 39><Extra2 255><Extra2 255><Extra1 37><Extra1 10><Extra1 30>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 40><Extra1 50><UNKNOWN CHUNK 240><Extra1 23><Extra1 60><=><UNKNOWN CHUNK 252><Extra1 42><Extra1 28><Extra1 15><Extra1 37><Extra1 10><Extra1 30>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 40><Extra1 50><UNKNOWN CHUNK 240><Extra1 23><Extra1 60><=><Extra2 255><Extra2 255><UNKNOWN CHUNK 252><Extra1 17><Extra1 30><Extra1 0><Extra1 37><Extra1 10><Extra1 30>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 40><Extra1 50><UNKNOWN CHUNK 240><Extra1 23><Extra1 60><=><Extra2 255><Extra2 255><Extra2 255><2><-><1><Extra1 37><Extra1 10><Extra1 30>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 40><Extra1 50><UNKNOWN CHUNK 240><Extra1 23><Extra1 60><=><Extra2 255><Extra2 255><Extra2 255><2><-><2><Extra1 37><Extra1 10><Extra1 30>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 40><Extra1 50><UNKNOWN CHUNK 240><Extra1 23><Extra1 60><=><UNKNOWN CHUNK 252><Extra1 42><Extra1 28><Extra1 15><Extra1 37><Extra1 10><Extra1 30><UNKNOWN CHUNK 175><UNKNOWN CHUNK 192><2><Extra2 255><Close><End of Block>
+<TextBlock 9 w:51 h:7>
+<Extra2 255><Extra2 255><Extra2 255><Opcode 1 255><Extra2 255><UNKNOWN CHUNK 163><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 192><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 192><Extra2 255></><UNKNOWN CHUNK 243><UNKNOWN CHUNK 231><UNKNOWN CHUNK 248><UNKNOWN CHUNK 244><Extra1 27><Extra1 10><Extra1 15>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 48><UNKNOWN CHUNK 240><Extra1 56><UNKNOWN CHUNK 192><Extra2 255><UNKNOWN CHUNK 209>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 192><Extra2 255></><Extra1 4><Extra1 28><UNKNOWN CHUNK 232><UNKNOWN CHUNK 231><UNKNOWN CHUNK 228><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 192><Extra2 255></><UNKNOWN CHUNK 240><Extra1 51><Extra1 50><Extra1 51><Extra1 56><UNKNOWN CHUNK 192><Extra2 255><UNKNOWN CHUNK 220><Extra2 255>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 48><Extra1 22><Extra1 56><Extra2 255></><UNKNOWN CHUNK 245><Extra1 48><Extra1 60><Extra1 28><UNKNOWN CHUNK 186><Extra1 28><UNKNOWN CHUNK 236><UNKNOWN CHUNK 233><Close><End of Block>
+<TextBlock 10 w:51 h:12>
+<Extra2 255><Extra2 255><Extra2 255><Opcode 1 255><Extra2 255><UNKNOWN CHUNK 163><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255>FIX<1><:><Extra1 28><UNKNOWN CHUNK 236><UNKNOWN CHUNK 233><UNKNOWN CHUNK 192><Extra2 255><Extra2 255><UNKNOWN CHUNK 169><UNKNOWN CHUNK 177><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><Extra2 255>FIX<2><:><Extra2 255><Extra2 255><UNKNOWN CHUNK 240><UNKNOWN CHUNK 233><Extra1 56><UNKNOWN CHUNK 186><UNKNOWN CHUNK 192><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><Extra2 255>FIX<3><:><(><Extra2 255><Extra2 255><)><UNKNOWN CHUNK 192><Extra2 255><Extra2 255><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><Extra2 255>FIX<4><:><Extra2 255><Extra2 255><UNKNOWN CHUNK 171><UNKNOWN CHUNK 221><UNKNOWN CHUNK 240><Extra1 51><Extra1 50><Extra1 51><Extra1 56>
+<Extra2 255><Extra2 255><Extra2 255>FIX<5><:><UNKNOWN CHUNK 231><Extra1 22><Extra1 11><UNKNOWN CHUNK 236><Extra1 56><Extra2 255><Extra2 255><UNKNOWN CHUNK 171><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255>FIX<6><:><Extra2 255><Extra2 255><UNKNOWN CHUNK 167><UNKNOWN CHUNK 222><UNKNOWN CHUNK 221><Extra1 48><Extra1 39><UNKNOWN CHUNK 250><Extra1 0>
+<Extra2 255><Extra2 255><Extra2 255>FIX<7><:><'><Extra2 255><'><UNKNOWN CHUNK 192><'><Extra2 255><Extra2 255><Extra2 255><'>
+<Extra2 255><Extra2 255><Extra2 255>FIX<8><:><UNKNOWN CHUNK 233><Extra1 16><UNKNOWN CHUNK 192><Extra2 255><Extra2 255><UNKNOWN CHUNK 211><UNKNOWN CHUNK 186><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><Extra2 255>FIX<9><:><Extra2 255><UNKNOWN CHUNK 159><UNKNOWN CHUNK 184><UNKNOWN CHUNK 150><UNKNOWN CHUNK 177><`><Extra1 28><UNKNOWN CHUNK 236><UNKNOWN CHUNK 233>
+<Extra2 255><Extra2 255><Extra2 255>FIX10<:><Extra1 49><Extra1 38><Extra1 10><Extra1 6><Extra1 60><Extra2 255><Extra2 255><UNKNOWN CHUNK 167><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 192><Extra1 33><Extra1 60><UNKNOWN CHUNK 253><UNKNOWN CHUNK 202><Close><End of Block>
+<TextBlock 11 w:52 h:6>
+<Extra2 255><Extra2 255><Extra2 255><Opcode 1 255><Extra2 255><UNKNOWN CHUNK 163><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255>FIX11<:><Extra2 255><Extra2 255><UNKNOWN CHUNK 186><UNKNOWN CHUNK 240><UNKNOWN CHUNK 233><Extra1 56><UNKNOWN CHUNK 192><Extra2 255><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><Extra2 255>FIX12<:><Extra1 38><UNKNOWN CHUNK 231><Extra1 56><UNKNOWN CHUNK 202><UNKNOWN CHUNK 192><Extra2 255><Extra2 255><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><Extra2 255>FIX13<:><Extra1 48><Extra1 39><UNKNOWN CHUNK 250><Extra1 0><`><Extra2 255><UNKNOWN CHUNK 179><Extra2 255><UNKNOWN CHUNK 210>
+<Extra2 255><Extra2 255><Extra2 255>FIX15<:><UNKNOWN CHUNK 247><Extra1 60><Extra1 13><UNKNOWN CHUNK 232><UNKNOWN CHUNK 231><UNKNOWN CHUNK 192><Extra2 255><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><Extra2 255>FIX16<:><[><Extra2 255><Extra2 255><Extra2 255><Extra2 255><]><UNKNOWN CHUNK 192><Extra2 255><Extra2 255><Close><Close><End of Block>

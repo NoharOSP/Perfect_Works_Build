@@ -1,0 +1,123 @@
+<TextBlock 1 w:14 h:2>
+Fei
+"...!?"<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Rico
+"No.
+Down's not good..."<Close><End of Block>
+<TextBlock 3 w:30 h:3>
+Rico
+"I'll hide over
+there for now."<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Rico
+"Hey!
+The Kaiser's calling you."<Close><End of Block>
+<TextBlock 5 w:40 h:2>
+Rico
+"Hey, it does open."<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Rico
+"Nothing...<Delay 30>
+I just came in through
+the entrance."<Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Rico
+"Well... I'll be seein'
+ya around sometime."<Close><End of Block>
+<TextBlock 8 w:18 h:1>
+DNA error<Opcode 2 40><Close><End of Block>
+<TextBlock 9 w:54 h:1>
+The Kaiser is in this room.<Close><End of Block>
+<TextBlock 10 w:54 h:2>
+This is the Kaiser's wife's
+room.<New>
+No one's been allowed in
+ever since she disappeared.<New>
+Please, leave.<Close><End of Block>
+<TextBlock 11 w:38 h:1>
+What! Is that true?<Close><End of Block>
+<TextBlock 12 w:48 h:3>
+...Yeah<New>
+This door won't open for
+anyone except the Kaiser
+and his wife.<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Ridiculous!
+It shouldn't open unless it
+scans the right DNA. It
+couldn't open that easily!<Close><End of Block>
+<TextBlock 14 w:14 h:1>
+Yessir!<Opcode 2 20><Close><End of Block>
+<TextBlock 15 w:52 h:3>
+No one knows what happened
+to his wife. Even now, the
+Kaiser doesn't know.<Close><End of Block>
+<TextBlock 16 w:54 h:2>
+This is the Kaiser's wife's
+room.<New>
+No one's been allowed in
+ever since she disappeared.<New>
+Please, leave.<Close><End of Block>
+<TextBlock 17 w:32 h:1>
+Hey! Is it okay?<Opcode 2 30><Close><End of Block>
+<TextBlock 18 w:14 h:1>
+Yessir!<Opcode 2 20><Close><End of Block>
+<TextBlock 19 w:50 h:3>
+Sigmund
+"You...<Delay 30>
+How did you get in here?"<Close><End of Block>
+<TextBlock 20 w:42 h:3>
+Sigmund
+"...It was probably a
+malfunction."<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Sigmund
+"It doesn't matter...<Delay 30>
+Arrest the intruder.<New>
+The Battling Committee
+is after him for breaking
+his contract. Let them
+deal with him."<Close><End of Block>
+<TextBlock 22 w:30 h:3>
+Sigmund
+"...No<Delay 30>...can't
+possibly<Delay 20> be..."<Close><End of Block>
+<TextBlock 23 w:54 h:3>
+Sigmund
+"That man was suspected of
+trying to assassinate me.<New>
+The police are looking into
+the matter now.<New>
+Well, I have some sudden
+matters to attend to, so
+if you'll excuse me.<New>
+Please tour the district at
+your leisure. Oh, and about
+my proposition...<New>
+I'll be awaiting a positive
+response."<Close><End of Block>
+<TextBlock 24 w:22 h:2>
+Sigmund
+"Good day."<Close><End of Block>
+<TextBlock 25 w:40 h:3>
+Nice work.
+This is the tactical
+command room.<Close><End of Block>
+<TextBlock 26 w:48 h:4>
+Good job.
+On the right hand side,
+you can get to the 3rd
+pathway in the basement.<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Good.
+Above us is the bridge,
+the Kaiser's room and
+other related facilities.<Close><End of Block>
+<TextBlock 28 w:48 h:3>
+Soldier
+"This is the Central
+District.<New>
+The Kaiser's room is up
+this elevator and up the
+west wing stairs."<Close><Close><End of Block>

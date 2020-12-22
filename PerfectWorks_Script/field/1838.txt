@@ -1,0 +1,270 @@
+<TextBlock 1 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Citan
+"Fei, it is alright."<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Taura
+"The fate of the world is
+in your hands.<Delay 10>
+We're counting on you...!<New>
+In the mean time, I will
+just watch from here..."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Taura
+"Thanks for visiting.<Delay 10>
+You're looking mighty
+healthy.<New>
+I want to help you more...<Delay 10>
+but this body can't survive
+unless it breathes the air
+here...<New>
+Looks like I'm just about
+ready to meet my maker,
+huh...<Delay 5>
+Ho, hoh, hoh!"<Close><End of Block>
+<TextBlock 5 w:24 h:1>
+Oh, Taura...<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Taura
+"Don't worry, I'll stop my
+moaning. Besides, I have a
+nice present for you."<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+ 
+ <Opcode 1 255>Received Manly Mantle!!<Opcode 2 60>
+ <Close><End of Block>
+<TextBlock 8 w:48 h:3>
+ 
+ <Opcode 1 255>Received Goddess Robe!!<Opcode 2 60>
+ <Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Taura
+"Was that a visitor
+I heard?"<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+Mysterious old man
+"Hmm...<Delay 10> He's
+finally awake..."<Close><End of Block>
+<TextBlock 11 w:28 h:1>
+Here you go...<Close><End of Block>
+<TextBlock 12 w:12 h:1>
+Mmm...<Close><End of Block>
+<TextBlock 13 w:24 h:1>
+Hmm...hmm...<Close><End of Block>
+<TextBlock 14 w:34 h:2>
+Fei
+"I'm...healed..."<Opcode 2 20><Close><End of Block>
+<TextBlock 15 w:42 h:4>
+Mysterious old man
+"You've been sleeping
+in this Nanoreactor
+for three weeks."<Close><End of Block>
+<TextBlock 16 w:32 h:3>
+Fei
+"Nanoreactor?<Delay 10>
+Who are you...?"<Close><End of Block>
+<TextBlock 17 w:36 h:2>
+Mysterious old man
+"Me...?"<Close><End of Block>
+<TextBlock 18 w:40 h:4>
+Mysterious old man
+"I forgot my name...<Delay 10>
+Some people call me
+Taura..."<Close><End of Block>
+<TextBlock 19 w:54 h:3>
+Taura
+"You seemed to have
+recovered completely.<Delay 10><New>
+Those were terrible wounds,
+but maybe your youth and
+strength helped..."<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Taura
+"But your friend's wounds
+are more serious and may
+take a while longer..."<Close><End of Block>
+<TextBlock 21 w:30 h:2>
+Fei
+"My friend...?"<Opcode 2 30><Close><End of Block>
+<TextBlock 22 w:12 h:1>
+Elly!!<Opcode 2 20><Close><End of Block>
+<TextBlock 23 w:18 h:2>
+Fei
+"Elly..."<Close><End of Block>
+<TextBlock 24 w:50 h:4>
+Taura
+"Hey!
+Quit staring at the naked
+girl and come over here!"<Close><End of Block>
+<TextBlock 25 w:20 h:2>
+Fei
+"Elly...?"<Close><End of Block>
+<TextBlock 26 w:42 h:3>
+Taura
+"How do you feel now?<New>
+The fresh forest air
+should have refreshed
+you somewhat, heh?"<Close><End of Block>
+<TextBlock 27 w:44 h:4>
+Taura
+"Anyway...
+It's about the removal
+of the seal...<New>
+I found out it can be
+released by using the
+Nanotechnology that
+regenerated you two."<Close><End of Block>
+<TextBlock 28 w:46 h:3>
+Taura
+"The Nanoassemblers are
+enclosed in this pod."<Close><End of Block>
+<TextBlock 29 w:54 h:3>
+Citan
+"If only we could scatter
+them all over the world..."<Close><End of Block>
+<TextBlock 30 w:54 h:4>
+Taura
+"There's an ancient
+military installation
+nearby...<New>
+We might be able to use the
+'Mass-driver' located in
+there to launch this pod
+into the upper atmosphere.<New>
+Once the Nanoassemblers
+are released up there, the
+convection currents should
+spread 'em over the world!"<Close><End of Block>
+<TextBlock 31 w:54 h:4>
+Taura
+"I wish I could go do it...
+but I am getting much too
+old for that type of thing.<New>
+Then again, it's for your
+future.<Delay 10> An old man should
+not butt in. You young ones
+must do it for yourselves!"<Close><End of Block>
+<TextBlock 32 w:14 h:2>
+Taura
+"Here."<Close><End of Block>
+<TextBlock 33 w:38 h:4>
+Taura
+"And, of course,
+I'm not asking you
+to do it for free.<New>
+Try this wrist band
+on."<Close><End of Block>
+<TextBlock 34 w:3 h:1>
+?<Close><End of Block>
+<TextBlock 35 w:30 h:2>
+Citan
+"What is that?"<Close><End of Block>
+<TextBlock 36 w:54 h:4>
+Taura
+"This is an 'Emotion
+Control Device' in which
+nanotechnology is applied.<New>
+From this machine shaped as
+a wrist band, nanomachines
+are infused through your
+epidermis into your brain.<New>
+There they refine the SSRI
+intracerebral substances,
+such as Serotonin, that
+control emotions."<Close><End of Block>
+<TextBlock 37 w:4 h:1>
+?<Delay 5>?<Opcode 2 15><Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Taura
+"Well, I suppose it's
+rather difficult for
+you to understand...<New>
+But in short, it means
+that the manifestation of
+your second personality,
+'Id', can be suppressed."<Close><End of Block>
+<TextBlock 39 w:14 h:2>
+Fei
+"Id..."<Close><End of Block>
+<TextBlock 40 w:16 h:2>
+Elly
+"Fei..."<Close><End of Block>
+<TextBlock 41 w:54 h:4>
+Taura
+"Well, it's all theoretical
+though...<Delay 10> Oh, and I did one
+more thing as well...!<New>
+I installed the same
+control device in your
+Gear..."<Close><End of Block>
+<TextBlock 42 w:46 h:3>
+Citan
+"You mean, it can
+release Id at will...?"<Close><End of Block>
+<TextBlock 43 w:48 h:4>
+Taura
+"Yes.<Delay 10>
+I called it 'System Id'.<New>
+But of course it should
+not be over-used.<Delay 10>
+Use it only as a last
+resort."<Close><End of Block>
+<TextBlock 44 w:22 h:3>
+Fei
+"Elly,<Delay 10> doc,<Delay 10>
+I..."<Close><End of Block>
+<TextBlock 45 w:52 h:4>
+Citan
+"Fei,<Delay 10> there was nothing
+you could do...<New>
+It will never happen again
+with Taura's technology
+though. He is one of the
+three Shevat sages."<Close><End of Block>
+<TextBlock 46 w:48 h:3>
+Taura
+"Whether you believe it
+or not, it's up to you."<Close><End of Block>
+<TextBlock 47 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 48 w:34 h:4>
+Taura
+"Oh?<Delay 10>
+It sounds like
+we have a guest!"<Close><End of Block>
+<TextBlock 49 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 50 w:34 h:2>
+Taura
+"I thought so..."<Close><End of Block>
+<TextBlock 51 w:54 h:4>
+Taura
+"So, you were the one who
+brought Fei and his girl
+to me...<New>
+I realized it the minute
+I saw the two of them.<Delay 10>
+Why, how could I help but
+notice...<New>
+They looked the spitting
+image of you and<Delay 5> her.<Delay 10>
+Yes, just as you yourselves
+looked way back then<Delay 5>..."<Close><End of Block>
+<TextBlock 52 w:36 h:2>
+Taura
+"Right, Lacan...?"<Close><End of Block>
+<TextBlock 53 w:46 h:3>
+Krelian
+"Lacan, look at this.<Delay 10>
+I finally completed it.<Delay 10><New>
+This will save people's
+lives."<Close><End of Block>
+<TextBlock 54 w:48 h:4>
+Krelian
+"Isn't that right,<Delay 10>
+Melchior?<Delay 10> With this even
+Sophia will..."<Close><End of Block>
+<TextBlock 55 w:3 h:1>
+ <Close><Close><End of Block>

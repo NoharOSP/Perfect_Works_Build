@@ -1,0 +1,11 @@
+<TextBlock 1 w:14 h:3>
+Fei
+"!<Delay 30>
+Hey..."<Close><End of Block>
+<TextBlock 2 w:42 h:2>
+This is the automated
+Gear Shop.<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Thank you and we hope
+to be of service to you
+again.<Close><Close><End of Block>

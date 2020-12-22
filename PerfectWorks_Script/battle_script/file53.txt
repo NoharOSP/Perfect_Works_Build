@@ -1,0 +1,5 @@
+<TextBlock 1 w:24 h:3>
+Grahf
+"Nnnuuahh<Delay 30>...<Delay 60>
+Ghaa!"<Opcode 2 60><Close><UNKNOWN CHUNK 4><Wait><Close><Close>)<Close>
+<End of Block>

@@ -1,0 +1,21 @@
+<TextBlock 1 w:50 h:3>
+He's got too much pride.<Delay 15>
+It's not like we've ever
+been overly proud of him.<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Probably doesn't want
+to lose to anyone else.<Delay 15>
+Well,<Delay 5> it doesn't matter
+to me. If you keep taking<New>
+those people seriously
+everytime, it's not going
+to be worth it<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Damn! Why's his rank higher
+than mine, just because
+he's good at Gear combat?
+I'm still his senior.<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+<Delay 5>...<Delay 5>Life isn't fair.<Delay 15>
+What's so great about
+Battlers!?<Delay 5> Dammit!<Close><Close><End of Block>

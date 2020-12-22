@@ -1,0 +1,162 @@
+<TextBlock 1 w:34 h:2>
+Bart
+"Hello, grandma."<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Bartholomew, I heard from
+my husband.<Delay 30> Things were
+pretty tough for you!<New>
+Oh...<Delay 30>
+just thinking about...
+Shakhan gets my goat!<New>
+You get him Bartholomew!<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Not too many people are
+returning to town.<Delay 30>
+So business is a little...<New>
+But, <Delay 30>that must mean the
+atmosphere is changing for
+the better everywhere in
+the country.<New>
+Not like before, <Delay 30>
+where people were taking
+refuge here.<New>
+Well if you think about
+it that way...<Delay 30>
+I think things might be
+pretty good.<New>
+Oh, I keep talking and
+talking.<Delay 30>
+Sorry, hahahaha!<Close><End of Block>
+<TextBlock 4 w:42 h:2>
+Lately, this town has
+gotten lonely.<New>
+But I'm stubborn, I
+won't close up shop!<Close><End of Block>
+<TextBlock 5 w:22 h:1>
+Come on in!<Close><End of Block>
+<TextBlock 6 w:30 h:4>
+Looking for...
+    Items
+    Accessories
+    Nothing<Close><End of Block>
+<TextBlock 7 w:38 h:1>
+Thank you very much<Close><End of Block>
+<TextBlock 8 w:38 h:1>
+Thank you very much<Close><End of Block>
+<TextBlock 9 w:22 h:1>
+Come again!<Close><End of Block>
+<TextBlock 10 w:30 h:5>
+Looking for...
+    Items
+    Accessories
+    Gear parts
+    Nothing<Close><End of Block>
+<TextBlock 11 w:22 h:1>
+Come again!<Close><End of Block>
+<TextBlock 12 w:22 h:1>
+Come again!<Close><End of Block>
+<TextBlock 13 w:22 h:1>
+Come again!<Close><End of Block>
+<TextBlock 14 w:22 h:1>
+Come again!<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Fei
+"Oh well, there's nobody 
+around.<New>
+I guess I'll just leave 
+the money here."<Close><End of Block>
+<TextBlock 16 w:30 h:3>
+    Items
+    Accessories
+    Nothing<Close><End of Block>
+<TextBlock 17 w:50 h:3>
+Young master, the old man
+from the Gun Room sent me
+here for supplies.<New>
+If you want, I can also
+get Gear parts you may
+need. Just tell me.<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Bart
+"Whoa, good preparations!
+If that's the case, please
+get the parts we need."<Close><End of Block>
+<TextBlock 19 w:46 h:3>
+The old man from the
+Gun Room sent me
+here for supplies.<New>
+If you want, I can also
+get Gear parts you may
+need. Just tell me.<Close><End of Block>
+<TextBlock 20 w:40 h:3>
+There's no souvenir
+shop in this town...<New>
+This isn't a
+tourist attraction?<Delay 30>
+I guess not.<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+Sigh... That guy there...<New>
+Once in a while we get
+those ignorant types
+coming to our town.<Close><End of Block>
+<TextBlock 22 w:46 h:3>
+They have no idea about
+what kind of situation
+we're all in.<Close><End of Block>
+<TextBlock 23 w:46 h:4>
+I hate them...
+Those people who are so
+ignorant about what's
+happening in the world.<New>
+Don't tell me you guys
+are like that too?<Close><End of Block>
+<TextBlock 24 w:52 h:2>
+This place has gotten
+to be a pain.<New>
+My family is fleeing north
+to the mountains.<New>
+I'm here to buy supplies.<Close><End of Block>
+<TextBlock 25 w:52 h:4>
+I came here in the hopes
+of finding some souvenirs.<New>
+In the off chance that
+there is some military
+clash, I'll hold out and
+defend this place.<New>
+If Shakhan is crushed, the
+country will change.<New>
+If that happens I'll go 
+home, propose to my girl 
+and start a new job.<Close><End of Block>
+<TextBlock 26 w:38 h:2>
+Hey, aren't you the
+young master?<Close><End of Block>
+<TextBlock 27 w:16 h:1>
+Hey you!<Close><End of Block>
+<TextBlock 28 w:8 h:1>
+Huh?<Close><End of Block>
+<TextBlock 29 w:8 h:1>
+Huh!<Close><End of Block>
+<TextBlock 30 w:38 h:1>
+It's Bartholomew!<New>
+Are you doing well?<Close><End of Block>
+<TextBlock 31 w:28 h:2>
+Bart
+"Good enough!"<Close><End of Block>
+<TextBlock 32 w:40 h:2>
+Don't try to 
+overdo it.<New>
+Hey, are those your 
+friends back there?<Close><End of Block>
+<TextBlock 33 w:30 h:3>
+Bart
+"Yeah.
+Fei and Citan."<Close><End of Block>
+<TextBlock 34 w:54 h:2>
+Friends of the young master
+are friends of ours.<New>
+Take your time and 
+look around.<Close><End of Block>
+<TextBlock 35 w:18 h:2>
+Bart
+"Thanks."<Close><Close><End of Block>

@@ -1,0 +1,142 @@
+<TextBlock 1 w:52 h:4>
+Elly
+"He said survivor,<Delay 10> didn't 
+he? That means, people 
+from the 'Ethos' are<Delay 10>...<Delay 10>"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Elly
+"Come on, Billy.<Delay 10>
+There have to be survivors.
+Let's help them."<Close><End of Block>
+<TextBlock 3 w:42 h:4>
+Elly
+"Yes<Delay 10>...<Delay 10>
+It looks like he is
+going to be alright."<Close><End of Block>
+<TextBlock 4 w:50 h:2>
+Citan
+"Elly, how is Fei doing?"<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Citan
+"I see. Then, let us
+go to the infirmary."<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Citan
+"Are the people from the 
+'Ethos' alright? They 
+mentioned survivors but..."<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Citan
+"Billy, pull yourself
+together.<Delay 10><New>
+There must be people
+who could not escape.
+Let us go help them."<Close><End of Block>
+<TextBlock 8 w:40 h:3>
+Citan
+"Elly, how is Fei's 
+condition?"<Close><End of Block>
+<TextBlock 9 w:36 h:4>
+Citan
+"I see.
+Then, let us go
+to the infirmary."<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Citan
+"Are the people from the 
+'Ethos' alright? They 
+mentioned survivors but..."<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Citan
+"Billy, pull yourself 
+together.<Delay 10><New>
+There must be people who 
+could not escape.
+Let us go help them."<Close><End of Block>
+<TextBlock 12 w:38 h:3>
+Bart
+"Elly, did Fei get 
+medical treatment?"<Close><End of Block>
+<TextBlock 13 w:54 h:3>
+Bart
+"Come on.
+Let's go to the infirmary."<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Bart
+"Watch out, Billy.
+These guys are 
+professional assassins."<Close><End of Block>
+<TextBlock 15 w:42 h:4>
+Bart
+"Hey, Billy, come on!
+We're gonna help the
+survivors. Let's go!"<Close><End of Block>
+<TextBlock 16 w:26 h:3>
+Billy
+"Don't move!<Delay 25>
+Who are you?"<Close><End of Block>
+<TextBlock 17 w:42 h:3>
+Billy
+"Who<Delay 10>...<Delay 10>
+are these guys?<New>
+Why're they attacking
+the 'Ethos'?"<Close><End of Block>
+<TextBlock 18 w:36 h:3>
+Billy
+"What!<Delay 10>
+Then, everyone<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 19 w:50 h:3>
+Rico
+"Looks like they finished
+patching up Fei."<Close><End of Block>
+<TextBlock 20 w:36 h:3>
+Rico
+"Then, let's go to
+the infirmary."<Close><End of Block>
+<TextBlock 21 w:28 h:3>
+Rico
+"They're pros.
+Real killers."<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+Rico
+"Come on.<Delay 10>
+We've gotta go save
+the survivors."<Close><End of Block>
+<TextBlock 23 w:22 h:2>
+Billy
+"This way."<Close><End of Block>
+<TextBlock 24 w:54 h:3>
+Billy
+"The infirmary is this way.
+Let's go."<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+Billy
+"Let's hurry to the sick 
+bay. This way, please."<Close><End of Block>
+<TextBlock 26 w:52 h:1>
+There are still survivors?<Close><End of Block>
+<TextBlock 27 w:14 h:1>
+Wagggh!<Close><End of Block>
+<TextBlock 28 w:56 h:4>
+Billy
+"<Perso1>, the infirmary
+is not that way.
+It's this way."<Close><End of Block>
+<TextBlock 29 w:44 h:3>
+Billy
+"That's the wrong way.
+Take these steps."<Close><End of Block>
+<TextBlock 30 w:56 h:4>
+Billy
+"That's the confession room.
+If you have a problem, we 
+can discuss it later."<Close><End of Block>
+<TextBlock 31 w:48 h:4>
+Billy
+"That's the library.
+Right now isn't it more 
+important to visit Fei?"<Close><End of Block>
+<TextBlock 32 w:44 h:3>
+Billy
+"That's the cafeteria.
+<Delay 10>...<Delay 10>Are you hungry?"<Close><Close><End of Block>

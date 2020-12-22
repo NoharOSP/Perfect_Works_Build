@@ -1,0 +1,193 @@
+<TextBlock 1 w:12 h:1>
+Rock!!<Close><End of Block>
+<TextBlock 2 w:20 h:1>
+Scissors!!<Close><End of Block>
+<TextBlock 3 w:14 h:1>
+Paper!!<Close><End of Block>
+<TextBlock 4 w:62 h:3>
+I see you've beaten my husband!<Delay 20>
+Well, this should stifle some
+of his manic love for the game.<New>
+But now I see you've come to
+have a passion for RPS too!<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Sigh...<Delay 20> 
+My husband's love for the
+rock-paper-scissors, or
+'RPS' game is ruining us...<New>
+Just recently, he even said
+he had a dream of receiving
+the hero title from the
+'RPS King'...<New>
+If only someone could
+utterly defeat him to
+make him see reality...<Delay 25>
+But he's just so good...<Close><End of Block>
+<TextBlock 6 w:50 h:2>
+I give up.<Delay 20> I completely
+lost to you, Fei.<New>
+It just goes to show that
+I need more training.<Close><End of Block>
+<TextBlock 7 w:38 h:4>
+Uuuhh... I give up!
+It's my loss, Fei.<Delay 20>
+Here, as promised
+I'll give you this!<Close><End of Block>
+<TextBlock 8 w:54 h:2>
+Fei received the
+'Mythical RPS Hero Badge'!!<New>
+Although, no one has any
+idea what use it has...<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+What the...?
+Ya don't even have 50G!<Delay 20>
+Come back and talk to me
+when ya have money, OK!<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Argh... I can't afford
+to lose the next turn.<Delay 20>
+This time I'm getting
+serious... Ready?<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+Tisk... Lost three times
+in a row! Not bad, Fei.<Delay 20>
+But, it's not over yet.<Close><End of Block>
+<TextBlock 12 w:54 h:2>
+We're just getting started!
+Are you ready to 'rock'!?<Close><End of Block>
+<TextBlock 13 w:46 h:5>
+Yo! You want to play
+rock-paper-scissors?
+It's 50G per challenge.<Delay 20>
+    Let's do it!
+    No thanks!<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+What the...?
+Ya don't even have 50G!<Delay 20>
+Come back and talk to me
+when ya have money, OK!<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Yeah, that's the way, Fei!<Delay 20>
+If ya manage to beat me 5
+times in a row, I'll give
+ya a special reward!<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+I need some kind of risk
+to make things interesting
+against such an amateur.<Delay 20>
+Hehehe...<Close><End of Block>
+<TextBlock 17 w:22 h:1>
+Here we go!<Close><End of Block>
+<TextBlock 18 w:24 h:4>
+One, two...<Delay 10><Opcode 1 255>
+    Rock
+    Scissors
+    Paper <Opcode 13 128><Opcode 2 1><Close><End of Block>
+<TextBlock 19 w:12 h:1>
+Rock!!<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+Whoa, you did rock too!?
+Not bad! Not bad!
+Let's do it again...<Opcode 2 30><Close><End of Block>
+<TextBlock 21 w:20 h:1>
+Scissors!!<Close><End of Block>
+<TextBlock 22 w:28 h:1>
+Aww no, rock!?<Close><End of Block>
+<TextBlock 23 w:42 h:3>
+Darn, you got me!
+I can't believe this!
+Aarrgh...!!<Close><End of Block>
+<TextBlock 24 w:14 h:1>
+Paper!!<Close><End of Block>
+<TextBlock 25 w:26 h:2>
+Rock!?
+You did rock?<Close><End of Block>
+<TextBlock 26 w:32 h:4>
+Muahaha.
+Are you serious?
+Yesss! I win!!
+Ah-hahaha...!!<Close><End of Block>
+<TextBlock 27 w:12 h:1>
+Rock!!<Close><End of Block>
+<TextBlock 28 w:36 h:2>
+Scissors!
+You did scissors!?<Close><End of Block>
+<TextBlock 29 w:40 h:3>
+Yesss! I win!<Delay 20> 
+I did it baby! 
+You can kiss my...!!<Close><End of Block>
+<TextBlock 30 w:20 h:1>
+Scissors!!<Close><End of Block>
+<TextBlock 31 w:65 h:3>
+Hey, you did scissors too, huh?
+Hmmm... So that's how you play?<Wait>
+Anyway, here we go again...<Opcode 2 30><Close><End of Block>
+<TextBlock 32 w:14 h:1>
+Paper!!<Close><End of Block>
+<TextBlock 33 w:36 h:2>
+Doh! Scissors?<Delay 20>
+You did scissors!?<Close><End of Block>
+<TextBlock 34 w:40 h:3>
+Uuuaaahh! I, I lost!<Delay 20>
+How could this be!! 
+What a snot!<Close><End of Block>
+<TextBlock 35 w:12 h:1>
+Rock!!<Close><End of Block>
+<TextBlock 36 w:36 h:2>
+What the!? Paper!?<Delay 20>
+Paper!?<Close><End of Block>
+<TextBlock 37 w:42 h:3>
+Me? Lose!?<Delay 20> 
+This's ridiculous...!
+Oh-my-gobrino!<Close><End of Block>
+<TextBlock 38 w:50 h:3>
+Grraaaaahhh!!
+I lost to an amateur!?<Delay 20>
+M, me...!? MEEEEEEEE...!!<Close><End of Block>
+<TextBlock 39 w:26 h:1>
+Received 50G.<Close><End of Block>
+<TextBlock 40 w:54 h:4>
+Guh!? I lost 4 in a row!?
+How could I...!?<Wait>
+This is not good!!
+If I lose the next one...!!<Close><End of Block>
+<TextBlock 41 w:24 h:3>
+...<Delay 30>
+......<Delay 50>
+It's over...<Close><End of Block>
+<TextBlock 42 w:20 h:1>
+Scissors!!<Close><End of Block>
+<TextBlock 43 w:30 h:2>
+Oh, paper!<Delay 20>
+You did paper!?<Close><End of Block>
+<TextBlock 44 w:48 h:3>
+Yesss! I win, so pay up!<Delay 20>
+Hallebalooyah! Boy...
+that was too easy!!<Close><End of Block>
+<TextBlock 45 w:58 h:3>
+Gyahahahaha!! Too bad, Fei!<Delay 20>
+You're 100 years too early
+to even try to win 5 in row!!<Close><End of Block>
+<TextBlock 46 w:18 h:1>
+Lost 50G.<Close><End of Block>
+<TextBlock 47 w:14 h:1>
+Paper!!<Close><End of Block>
+<TextBlock 48 w:50 h:3>
+Oh my, you did paper too.
+Hmmm, well I see...<Wait>
+Here we go again...<Opcode 2 30><Close><End of Block>
+<TextBlock 49 w:42 h:3>
+Here...!!<Delay 40> Hey! 
+You were late!!
+You cheezy cheater!!<New>
+Only cowards do that.<Delay 20>
+The penalty's 15G.
+C'mon, cough up!<Close><End of Block>
+<TextBlock 50 w:18 h:1>
+Lost 15G.<Close><End of Block>
+<TextBlock 51 w:56 h:2>
+Tch! Ya don't even have 15G!<Delay 20>
+What are ya, a pauper?<Delay 20> Boy!<Close><End of Block>
+<TextBlock 52 w:48 h:2>
+Humph. 
+Well, see ya later then.<Close><Close><End of Block>

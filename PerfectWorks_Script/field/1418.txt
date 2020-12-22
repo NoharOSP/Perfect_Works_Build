@@ -1,0 +1,38 @@
+<TextBlock 1 w:22 h:2>
+Fei
+"That's..."<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Fei
+"It appears to be some 
+kind of relay station."<Close><End of Block>
+<TextBlock 3 w:64 h:6>
+<Opcode 1 255>Up Directional button: 
+                Stop rope
+Left, Right Directional button: 
+                Swing rope
+Left, Right Directional button
+and <T> button:  Jump<Close><End of Block>
+<TextBlock 4 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 5 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 10 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

@@ -1,0 +1,261 @@
+<TextBlock 1 w:30 h:3>
+It<Delay 3>...<Delay 3>seems like<Delay 8>
+we've drifted
+further off.<Close><End of Block>
+<TextBlock 2 w:50 h:2>
+<Delay 3>...<Delay 5>Constantly<Delay 5> drifting<Delay 5>...<Delay 10>
+Sounds like me right now.<Close><End of Block>
+<TextBlock 3 w:34 h:1>
+What do you mean?<Close><End of Block>
+<TextBlock 4 w:46 h:3>
+I've just been <Delay 3>drifting
+around...being lead by
+circumstances.<Close><End of Block>
+<TextBlock 5 w:36 h:4>
+No<Delay 3>...<Delay 3>
+that's not right.<New>
+In Aveh,<Delay 3>
+you helped Bart
+when he needed it.<New>
+And in Kislev,<Delay 3>
+you gave your all
+to defend,<Delay 8> to
+save everyone.<New>
+You've even shown
+concern<Delay 3> for me
+many times.<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+No<Delay 3>...<Delay 8>
+I'm <Delay 3>just no good.<Close><End of Block>
+<TextBlock 7 w:8 h:1>
+Why?<Delay 3><Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Probably deep inside,
+I'm not really trying
+to help.<New>
+Somehow, I get the
+feeling that all I've
+done I did because I
+wanted to be needed.<New>
+That if I did something
+for them<Delay 3>...<Delay 3>then maybe,
+<Delay 3>I'd <Delay 3>have a
+place to belong<Delay 3>...<New>
+There's a side of me that
+comforts itself like that.<New>
+That doesn't mean I don't
+want to help.<Delay 8> But, <Delay 3>that
+doesn't mean I really want
+to help either.<New>
+It might not be 'nothing',
+but it sure isn't the
+'whole' either.<New>
+I'd been drifting, led
+around until I met you,
+Elly.<New>
+Now, we're stranded out
+in the ocean.<New>
+I'm sorry<Delay 3>...<Delay 8>I got
+you involved.<Close><End of Block>
+<TextBlock 9 w:46 h:5>
+It's okay.<Delay 3>
+Don't worry about me.<New>
+I've been thinking<Delay 3>
+why I'm here.<Delay 3><New>
+I could've just
+gone back.<Delay 3>
+But for some reason<Delay 3>
+I didn't...<New>
+Probably because
+you said it's better
+to do something
+than nothing.<New>
+I think that's why
+I felt I had to do
+something.<New>
+It's OK not to
+feel 'whole'.<Delay 3><New>
+Even if you only feel
+partly complete, if
+you repeat that enough,
+eventually it'll be
+'whole'.<New>
+A part<Delay 3>...<Delay 3>
+is better than
+zero.<Close><End of Block>
+<TextBlock 10 w:30 h:2>
+You're right<Delay 3>...<Delay 8>
+I'm sorry<Delay 3>...<Close><End of Block>
+<TextBlock 11 w:36 h:3>
+Fei
+"If we're saved...<Delay 10>
+will you go back?"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Elly
+"I probably won't go back
+to my squad.<New>
+Right now, I really don't
+want to be there<Delay 5>...<New>
+Besides,<Delay 3> I could probably
+do something else...<Delay 5>
+I don't have to be in the
+army.<New>
+So, I'm thinking of going
+back to my country."<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+Fei
+"Is that possible?
+But what about the army?"<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Elly
+"It's not like anyone
+knows what I did.<New>
+They've probably already
+classified me as MIA."<Close><End of Block>
+<TextBlock 15 w:30 h:4>
+Fei
+"Hmm.
+I hope at least
+you'll survive.<New>
+I'm sure you'll
+find what you
+want to do in
+your life."<Close><End of Block>
+<TextBlock 16 w:36 h:4>
+Elly
+"You said...
+something about...
+being<Delay 20> comforted."<Close><End of Block>
+<TextBlock 17 w:12 h:2>
+Fei
+"Yes."<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Elly
+"Don't be too hard on
+yourself.<Delay 5> Everyone wants
+to be needed at times.<New>
+All of us want to give
+something inside ourselves
+to others to be accepted.<New>
+...<Delay 10>Even me.<Delay 10>
+Remember how you forced
+yourself to eat those
+emergency rations?"<Close><End of Block>
+<TextBlock 19 w:22 h:1>
+UUUURRRGHH!<Close><End of Block>
+<TextBlock 20 w:42 h:2>
+Elly
+"Hey...<Delay 10>are you okay?"<Close><End of Block>
+<TextBlock 21 w:44 h:4>
+Elly
+"I told you not to eat
+such a gross looking
+animal."<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Fei
+"It tastes horrible. The
+last time I had food this
+bad was doc's cooking."<Close><End of Block>
+<TextBlock 23 w:3 h:1>
+?<Close><End of Block>
+<TextBlock 24 w:34 h:4>
+Fei
+"But unless we do
+something we're
+going to die."<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Elly
+"I guess there's no other
+way. I was hoping to save
+this a little longer..."<Close><End of Block>
+<TextBlock 26 w:54 h:3>
+Elly
+"This should hold us
+for another day...<New>
+But it's only for emergency
+calories so I can't promise
+how good it'll taste."<Close><End of Block>
+<TextBlock 27 w:44 h:4>
+Fei
+"Huh!?<Delay 10>
+What?<Delay 10>
+It's dry and crumbly?"<Close><End of Block>
+<TextBlock 28 w:36 h:4>
+Elly
+"I thought so...
+You don't like it,
+do you?"<Close><End of Block>
+<TextBlock 29 w:42 h:4>
+Fei
+"Wha? N, no...<Delay 10>
+It's good.
+Yeah, ah, it's great.<New>
+Whatever you'd share
+with me couldn't be
+that bad, could it?"<Close><End of Block>
+<TextBlock 30 w:52 h:4>
+Elly
+"You forced yourself to
+eat those rations earlier,
+didn't you?<New>
+For me to survive, it
+would have been better
+not to share it.<New>
+But, watching you eat it
+even though it tasted bad
+comforted me.<New>
+I felt glad that I shared
+it with you... It made me
+feel a little better."<Close><End of Block>
+<TextBlock 31 w:40 h:2>
+Fei
+"For your own sake?"<Close><End of Block>
+<TextBlock 32 w:54 h:4>
+Elly
+"Yes,<Delay 5> for my own sake.<Delay 10>
+Selfish, I admit.<New>
+But, I think it's okay to
+be that way at first.<New>
+But little by little you
+learn about your own
+happiness...<New>
+And someday you are able to
+share that important part
+of you with someone else.
+Some...<Delay 20>day."<Close><End of Block>
+<TextBlock 33 w:14 h:2>
+Elly
+"Ah<Delay 5>..."<Close><End of Block>
+<TextBlock 34 w:22 h:3>
+Fei
+"?<Delay 10>
+What's up?"<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+Elly
+"...Nothing. It just felt
+as though I've told you
+the same thing long ago...<New>
+It must be my imagination.
+I couldn't have said it to
+you before, because we've
+only just met, haven't we?"<Close><End of Block>
+<TextBlock 36 w:46 h:3>
+Elly
+"Yes, it's probably
+just my imagination<Delay 10>..."<Close><End of Block>
+<TextBlock 37 w:20 h:4>
+Fei
+"Elly!
+Hey, Elly!
+Wake up!"<Close><End of Block>
+<TextBlock 38 w:38 h:3>
+Elly
+"Good morning, Fei.
+You're up early."<Close><End of Block>
+<TextBlock 39 w:50 h:3>
+Fei
+"No time for formalities.
+Look at that!!"<Close><End of Block>
+<TextBlock 40 w:12 h:2>
+Elly
+"Huh?"<Close><Close><End of Block>

@@ -1,0 +1,383 @@
+<TextBlock 1 w:44 h:4>
+Whatever the case...<Delay 32>
+There's no way we are
+going to let that
+Shakhan guy have it...<Close><End of Block>
+<TextBlock 2 w:14 h:1>
+Gunner!<Close><End of Block>
+<TextBlock 3 w:12 h:1>
+Franz!<Close><End of Block>
+<TextBlock 4 w:22 h:1>
+Marseilles!<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Maitreya's units are on
+standby at the catapults.<New>
+They'll all be able to
+launch one minute
+after we resurface!<Close><End of Block>
+<TextBlock 6 w:24 h:2>
+Good!
+Let's do it!<Close><End of Block>
+<TextBlock 7 w:32 h:1>
+BattCon level 1!<Close><End of Block>
+<TextBlock 8 w:44 h:1>
+Surface-combat, ready!<Opcode 2 32><Close><End of Block>
+<TextBlock 9 w:40 h:1>
+Torpedo room, ready!<Opcode 2 32><Close><End of Block>
+<TextBlock 10 w:44 h:1>
+Anti-Gear guns, ready!<Opcode 2 32><Close><End of Block>
+<TextBlock 11 w:52 h:2>
+Navigation and Engineering
+are also ready!<Opcode 2 32><Close><End of Block>
+<TextBlock 12 w:52 h:3>
+Battle stations, everyone!
+Surface navigation, begin
+operating the sand pump!<New>
+Prepare to fire starboard
+cannons upon surfacing!<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Trim to the right!<Delay 16>
+The wind is strong up
+there and we may be
+blown off balance!<New>
+...<Delay 32>
+Jerico!
+Hand the helm over to me!<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Bart
+"Either way,<Delay 32> no need to
+let him go so fast...
+right...?"<Close><End of Block>
+<TextBlock 15 w:18 h:2>
+Bart
+"Gunner!"<Close><End of Block>
+<TextBlock 16 w:16 h:2>
+Bart
+"Franz!"<Close><End of Block>
+<TextBlock 17 w:34 h:2>
+Bart
+"Here we go!<New>
+BattCon level 1!"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Bart
+"Battle stations, everyone!
+Surface navigation!
+Close the vents!<New>
+Blow the main tank!<Delay 32>
+Prepare for anti-aircraft
+battle upon surfacing!"<Close><End of Block>
+<TextBlock 19 w:46 h:4>
+Bart
+"Surface-combat!
+Stand by with the
+anti-aircraft guns.<New>
+Gunner!
+Give me the trigger
+for the Bart Missiles!"<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Awww yeah!<New>
+Switch modes over to
+salvos after the
+initial shots!<New>
+Let's slow'em down.
+Get ready to give them
+a spankin' they won't
+forget!<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Let me handle this!<Wait>
+Whether it's a warship or
+not, it's carrying a new
+Gear!<Close><End of Block>
+<TextBlock 22 w:34 h:2>
+Gunner!
+Let 'em have it!!<Close><End of Block>
+<TextBlock 23 w:24 h:2>
+Bart
+"What's up?"<Close><End of Block>
+<TextBlock 24 w:50 h:4>
+Bart
+"We're near the capital.
+It's probably just some
+kind of ship from there."<Close><End of Block>
+<TextBlock 25 w:48 h:4>
+Bart
+"Under the sand?<Delay 16>
+This is the only sand
+cruiser in all of Aveh!"<Close><End of Block>
+<TextBlock 26 w:50 h:4>
+Bart
+"...Alright!
+We'll start!
+Ready the shuttle boats!"<Delay 16><Close><End of Block>
+<TextBlock 27 w:30 h:3>
+Bart
+"When we land,
+hide the ship!"<Close><End of Block>
+<TextBlock 28 w:28 h:3>
+Bart
+"It's alright,
+Old Maison."<Close><End of Block>
+<TextBlock 29 w:50 h:2>
+Bart
+"We'll go back to Nisan!"<Close><End of Block>
+<TextBlock 30 w:52 h:4>
+Bart
+"Margie and them are still
+there. We'll go back!
+We have to!<New>
+That reminds me...
+What about Fei and his
+guys? If they're alright,
+we could..."<Close><End of Block>
+<TextBlock 31 w:50 h:3>
+Bart
+"Dammit!
+This can't be happening!"<Close><End of Block>
+<TextBlock 32 w:24 h:2>
+Bart
+"Behind...?"<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Bart
+"Something's coming
+from behind!<New>
+Jerico! Give me the helm...
+No, you keep it!
+Just hurry up and pull
+either way!!"<Close><End of Block>
+<TextBlock 34 w:44 h:4>
+Bart
+"Battle stations!
+Deploy the maskers!
+Ready the noisemaker!"<Close><End of Block>
+<TextBlock 35 w:52 h:1>
+Battle stations, everyone!<Close><End of Block>
+<TextBlock 36 w:50 h:3>
+Bart
+"Emit noisemaker! Prepare
+to stop the engine!"<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Bart
+"Helm...<Delay 24> NOW! Steer
+to the opposite direction
+as far as you can!<New>
+Stop the engine!
+Crash alarm!!"<Close><End of Block>
+<TextBlock 38 w:34 h:2>
+Stop the engine! 
+Crash alarm!!<Close><End of Block>
+<TextBlock 39 w:54 h:4>
+I don't hear anything other
+than the flowing sound of
+the sand... No suspicious
+radar activity detected!<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+Franz
+"I don't hear anything
+other than the surface
+wind waves and our engine.<New>
+Threat is minimal from
+looking at the radar
+and sonar."<Close><End of Block>
+<TextBlock 41 w:12 h:1>
+Oh...?<Close><End of Block>
+<TextBlock 42 w:42 h:4>
+Franz
+"No...for a moment, I
+thought I caught some
+unnatural sounds..."<Close><End of Block>
+<TextBlock 43 w:44 h:4>
+Franz
+"But it's not from the
+surface... It's from
+under the sand!"<Close><End of Block>
+<TextBlock 44 w:54 h:4>
+Franz
+"...I can't catch it again.
+It could have been a sand-
+whale..."<Close><End of Block>
+<TextBlock 45 w:46 h:4>
+Franz
+"There...
+On the surface layer!<New>
+I'm detecting sounds of
+anchors being weighed
+in and engines being
+activated!<New>
+The Royal Capital's
+defense fleet must
+be departing...!"<Close><End of Block>
+<TextBlock 46 w:48 h:4>
+Franz
+"We've had no contact
+since we confirmed their
+order to charge..."<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Franz
+"Aft of our stern! 300!
+I'm picking up the sound
+of torpedoes being readied!<New>
+A sand cruiser!? It's big!
+Speed 60! Relative route
+0-0-0! They were hiding
+behind some baffles!"<Close><End of Block>
+<TextBlock 48 w:54 h:4>
+Franz
+"I'm picking up some high
+speed propulsion, breaking
+away from the enemy's ship!<New>
+Torpedoes!? Two of them!
+Speed 87!
+Torpedoes confirmed with
+the sonar.<New>
+They've shifted over to
+active homing!"<Close><End of Block>
+<TextBlock 49 w:38 h:4>
+Franz
+"Torpedo...1, still
+pursuing! Dammit!
+Impact in 3!!"<Close><End of Block>
+<TextBlock 50 w:56 h:4>
+Turret A 'Anton' and Turret
+B 'Belta'<Delay 16> can initiate their
+ectropometers twenty seconds
+after opening their hatches.<Close><End of Block>
+<TextBlock 51 w:52 h:3>
+Gungany...
+No, Bart Missile, fueling!<New>
+It'll take fifteen seconds
+from opening the hatch
+to engage the illuminator!<Close><End of Block>
+<TextBlock 52 w:48 h:3>
+Alternate firing between
+A 'Anton' and B 'Belta'!<Delay 16>
+Calculating adjustments!<Close><End of Block>
+<TextBlock 53 w:52 h:3>
+Young master!
+I'm detecting an increase
+in the use of F Band!<New>
+That's the Royal Capital's
+defense force's frequency!<Close><End of Block>
+<TextBlock 54 w:42 h:4>
+We also intercepted a
+transmission from the
+patrol at the border
+with Kislev!<New>
+They're requesting
+immediate backup from
+the Royal Capital!<New>
+Looks like we've
+really raised some
+hell at the border!<Close><End of Block>
+<TextBlock 55 w:40 h:3>
+Open jammer!
+Noisemaker, 2nd, 4th
+tube<Delay 16>...Standby!<Close><End of Block>
+<TextBlock 56 w:56 h:5>
+But first mate!
+Now with the effect-fins out
+of order, if you run at full
+speed, the ship wouldn't be
+able to stand the friction!!<Close><End of Block>
+<TextBlock 57 w:24 h:1>
+First mate!!<Close><End of Block>
+<TextBlock 58 w:36 h:4>
+Y, young master!<Delay 16>
+What is happening?
+What was the alarm
+all about...<Close><End of Block>
+<TextBlock 59 w:34 h:1>
+Y, young master!!<Opcode 2 96><Close><End of Block>
+<TextBlock 60 w:48 h:3>
+Maison
+"Y, young master!
+The Gungany Missiles...<New>
+You need permission from
+more than a half of the
+crew members to..."<Opcode 2 120><Close><End of Block>
+<TextBlock 61 w:36 h:3>
+Maison
+"Y, young master!<Delay 16>
+What is happening?<New>
+What was the alarm
+all about...?"<Close><End of Block>
+<TextBlock 62 w:52 h:4>
+Young master, please wait!
+It may just be a
+requisitioned ship,
+not a warship...<Close><End of Block>
+<TextBlock 63 w:42 h:3>
+Maison
+"Y, young master!<New>
+I have an awfully bad
+feeling about this<Delay 5>...<Delay 10>
+Do be very careful!"<Close><End of Block>
+<TextBlock 64 w:52 h:4>
+Maison
+"Y, yes...young master...<New>
+I hear when they attacked
+the fort at the border,
+the Gebler, led by Ramsus,
+routed them.<New>
+We'd better withdraw for
+now, and reconsider..."<Close><End of Block>
+<TextBlock 65 w:34 h:2>
+Maison
+"Young master..."<Close><End of Block>
+<TextBlock 66 w:34 h:3>
+Not again...?
+Young master!
+Hold on a second!<Close><End of Block>
+<TextBlock 67 w:28 h:1>
+Young master!!<Opcode 2 96><Close><End of Block>
+<TextBlock 68 w:48 h:2>
+Sigurd
+"Young master! Again!!?"<Close><End of Block>
+<TextBlock 69 w:38 h:3>
+Sigurd
+"Just doesn't know
+when to give up..."<Opcode 2 96><Close><End of Block>
+<TextBlock 70 w:54 h:4>
+Sigurd
+"We haven't heard anything
+about a new ship even from
+the spies at Aveh Naval HQ.<New>
+Franz, can you try again
+and confirm what it is?"<Close><End of Block>
+<TextBlock 71 w:28 h:3>
+Sigurd
+"It's useless!
+Young master!"<Close><End of Block>
+<TextBlock 72 w:36 h:2>
+Sigurd
+"Young master...?"<Close><End of Block>
+<TextBlock 73 w:14 h:2>
+Sigurd
+"Kahr!"<Close><End of Block>
+<TextBlock 74 w:34 h:2>
+Sigurd
+"Young master!!!"<Opcode 2 32><Close><End of Block>
+<TextBlock 75 w:46 h:4>
+Sigurd
+"Engine, ready for full
+power!! Jerico! Give me
+the helm over here!"<Close><End of Block>
+<TextBlock 76 w:52 h:4>
+Sigurd
+"It can 'jump' due to the
+Bernoulli effect on the
+wings' surfaces instead!!"<Close><End of Block>
+<TextBlock 77 w:50 h:4>
+Sigurd
+"Never mind that!
+The Yggdrasil is nothing
+without the young master!<New>
+Full power!!
+Maximum speed!!"<Close><End of Block>
+<TextBlock 78 w:46 h:3>
+Sigurd
+"Eeeeeaaaaarrrrgghh!!!!
+Come on, GO!!!"<Opcode 2 64><Close><End of Block>
+<TextBlock 79 w:38 h:3>
+Sigurd
+"Seems like they're
+watching us."<Close><Close><End of Block>

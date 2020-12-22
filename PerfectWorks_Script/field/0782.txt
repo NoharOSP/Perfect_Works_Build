@@ -1,0 +1,700 @@
+<TextBlock 1 w:50 h:2>
+Bart
+"Let's split up!<New>
+I'll go to the mausoleum.<Delay 30>
+I'll take Fei and..."<Delay 30><Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Bart
+"I see, that'll be good.<Delay 30>
+Then please go help Sig!"<Close><End of Block>
+<TextBlock 3 w:46 h:2>
+"So, if that's the case
+then..."<Close><End of Block>
+<TextBlock 4 w:52 h:2>
+Bart
+"Alright! That decides it!<New>
+Everyone else cooperate
+with Sig!"<Close><End of Block>
+<TextBlock 5 w:40 h:4>
+Bart
+"Huh?<Delay 30>
+You don't have to...<Delay 30>
+Oh, yeah.<New>
+Sorry Margie.
+Come along with us."<Close><End of Block>
+<TextBlock 6 w:42 h:3>
+Bart
+"Alright I'm counting
+on all of you!<New>
+He's a dead man the
+next time I see him!"<Close><End of Block>
+<TextBlock 7 w:30 h:1>
+How's Bledavik?<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+It's under martial law so
+it's gotten progressively
+harder to contact our
+agents in the city.<New>
+According to the info we
+finally got just a while
+ago, there's no major
+activity. <New>
+We think they've found
+some reason to attack and
+are getting ready now..."<Close><End of Block>
+<TextBlock 9 w:44 h:1>
+The possiblity exists.<Close><End of Block>
+<TextBlock 10 w:52 h:3>
+However I've heard that
+Shakhan's powerbase in the
+capital is erroding away.<New>
+He's probably weaker than
+we thought.<Close><End of Block>
+<TextBlock 11 w:50 h:2>
+Anyway, it's happened and
+we're committed now.<Close><End of Block>
+<TextBlock 12 w:40 h:1>
+I feel the same way.<Close><End of Block>
+<TextBlock 13 w:52 h:2>
+Now that I think about it,
+12 years ago...<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Ever since the coup d'etat
+by Shakhan, there's been
+a lot of tension in our
+country.<New>
+With Marguerite back now, 
+I agree that the former
+dynasty should be returned
+to power.<Close><End of Block>
+<TextBlock 15 w:56 h:2>
+Everyone feels the same
+but we must look at reality.<New>
+Do we have the strength to
+do that now?<Close><End of Block>
+<TextBlock 16 w:52 h:6>
+Now I hear Bartholomew,
+the one who brought back
+Marguerite, has started
+moving around out in the
+open. I'm certain Shakhan
+is preparing a large army.<Close><End of Block>
+<TextBlock 17 w:42 h:2>
+Shakhan may be coming
+here soon...<Close><End of Block>
+<TextBlock 18 w:10 h:1>
+ ... <Close><End of Block>
+<TextBlock 19 w:50 h:2>
+What's gonna happen to us
+if he captures this area?<Close><End of Block>
+<TextBlock 20 w:48 h:1>
+Will everyone be killed?<Close><End of Block>
+<TextBlock 21 w:52 h:5>
+I seriously doubt that.<Delay 30>
+Even he won't want to risk
+provoking any kind of
+outrage with the citizens.<New>
+Especially in this
+situation, he will
+definitely want to avoid
+putting himself in a
+compromising situation.<Close><End of Block>
+<TextBlock 22 w:50 h:2>
+We should set up a hiding
+place just in case...<Close><End of Block>
+<TextBlock 23 w:28 h:1>
+Maybe there...<Close><End of Block>
+<TextBlock 24 w:48 h:4>
+Sigurd
+"I went to the tool shop
+to borrow a table.<New>
+The owner said...
+'if we need anything for
+the young master, just
+ask for it.'"<Close><End of Block>
+<TextBlock 25 w:30 h:2>
+Bart
+"I'm grateful."<Close><End of Block>
+<TextBlock 26 w:50 h:4>
+Bart
+"When I was a kid, <Delay 30>I
+borrowed stuff from there
+and got in big trouble."<Close><End of Block>
+<TextBlock 27 w:36 h:3>
+Fei
+"Borrowed...<Delay 30>
+What did you take?<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Bart
+"A toy boat.<Delay 30>
+...I think that's what
+it was.<New>
+I put fireworks in it and
+let it float on the
+cathedral's lake. I always
+used to play 'navy'."<Close><End of Block>
+<TextBlock 29 w:48 h:4>
+Bart
+"I'm not sure, but I
+think I pretended the
+lake was the open sea...<New>
+...and I was the fleet
+commander."<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+Bart
+"Anyway...forget those
+old stories.<Delay 30>
+We should get started."<Close><End of Block>
+<TextBlock 31 w:26 h:4>
+Bart
+"First...<Delay 30>
+Gebler is the
+big problem."<Close><End of Block>
+<TextBlock 32 w:46 h:4>
+Citan
+"Yes, Ramsus is headed
+towards achieving his
+goals.<New>
+That he is now the
+commander of Gebler
+is proof of that.<New>
+A normal man<Delay 10> could not
+progress so quickly
+through that country's
+organization.<New>
+And now he is presently
+located here in Ignas."<Close><End of Block>
+<TextBlock 33 w:46 h:3>
+Citan
+"Frankly, the situation
+is not very favorable.<New>
+We need to somehow find
+a weak spot and attack
+it with all our might."<Close><End of Block>
+<TextBlock 34 w:48 h:4>
+Bart
+"First, let's just
+concentrate on Shakhan.<New>
+Once he's out of the way
+and Aveh is safe again,
+we can think about how
+to deal with Gebler."<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+Bart
+"With our present strength
+we should be able to hold
+off the royal guard forces.<New>
+The problem is how to deal
+with Gebler in the mean
+time...<New>
+They will most likely move
+at Shakhan's request.
+They're not just gonna sit
+by and watch quietly."<Close><End of Block>
+<TextBlock 36 w:38 h:3>
+Citan
+"...May I have a
+look there please?"<Close><End of Block>
+<TextBlock 37 w:52 h:3>
+Citan
+"In short, we want Gebler
+to leave for a while...<New>
+At least until we are able
+to take back the Royal
+Capital, Bledavik."<Close><End of Block>
+<TextBlock 38 w:50 h:3>
+Sigurd
+"But the problem is...<New>
+will attacking the border
+guards be enough to set
+the center in motion?"<Close><End of Block>
+<TextBlock 39 w:48 h:4>
+Citan
+"To be sure then, Nisan
+will just have to appear
+to align with Kislev.<New>
+If they see it that way,
+they will certainly make
+a move."<Close><End of Block>
+<TextBlock 40 w:46 h:4>
+Bart
+"You're saying that you
+intend to use Nisan as
+bait?"<Close><End of Block>
+<TextBlock 41 w:14 h:2>
+Fei
+"Doc!?"<Close><End of Block>
+<TextBlock 42 w:48 h:4>
+Sigurd
+"Shakhan is very
+sensitive to Nisan's
+and Kislev's actions.<New>
+If Nisan starts moving
+he will probably leave
+it up to Gebler, but..."<Close><End of Block>
+<TextBlock 43 w:42 h:4>
+Citan
+"Of course I do not
+wish to do that from
+the beginning.<New>
+But looking at the
+situation, we have to
+be willing to go that
+far."<Close><End of Block>
+<TextBlock 44 w:12 h:1>
+Hmm...<Close><End of Block>
+<TextBlock 45 w:42 h:4>
+Bart
+"First, we infiltrate
+into the capital.<New>
+To take out Shakhan,
+we'll have to meet
+up with our agents
+already in the city."<Close><End of Block>
+<TextBlock 46 w:46 h:3>
+Citan
+"We are forgetting
+one thing...<New>
+The front line units
+along Kislev's border."<Close><End of Block>
+<TextBlock 47 w:12 h:2>
+Bart
+"...!"<Close><End of Block>
+<TextBlock 48 w:40 h:4>
+Bart
+"Damn...<Delay 30>
+That puts everything
+in jeopardy!"<Close><End of Block>
+<TextBlock 49 w:48 h:4>
+Citan
+"Do not feel so down.<New>
+I simply wanted you
+to see the current 
+distribution of force
+in the area.<New>
+Even in the worst case
+that they do come, it
+will not be such a great
+problem."<Close><End of Block>
+<TextBlock 50 w:38 h:2>
+Bart
+"What do you mean?"<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Citan
+"I have some additional
+information about Aveh's
+border fleet.<New>
+The former Aveh supreme
+commander was transferred
+there.<New>
+Not really transferred,<Delay 30>
+more like <Delay 30>demoted...<Delay 30>
+His name is Vanderkaum."<Close><End of Block>
+<TextBlock 52 w:30 h:2>
+Sigurd
+"Vanderkaum..."<Close><End of Block>
+<TextBlock 53 w:38 h:4>
+Sigurd
+"You don't mean the
+Vanderkaum that was
+in Jugend?"<Close><End of Block>
+<TextBlock 54 w:32 h:2>
+Citan
+"The very same."<Close><End of Block>
+<TextBlock 55 w:54 h:4>
+Citan
+"Young one, he has not been
+able to adapt to the change
+in tactics...<New>
+particularly following the
+introduction of Gears...<New>
+He is a man who will never
+stray from his dependence
+on large naval guns."<Close><End of Block>
+<TextBlock 56 w:50 h:4>
+Bart
+"You mean, he's stubborn.<New>
+He is all size and no
+real military power.
+An excellent target for
+pirates."<Close><End of Block>
+<TextBlock 57 w:42 h:4>
+Maison
+"Young master!<Delay 30>
+This is not going to
+be an act of piracy!"<Close><End of Block>
+<TextBlock 58 w:30 h:2>
+Bart
+"Just kidding."<Close><End of Block>
+<TextBlock 59 w:56 h:4>
+Citan
+"Actually, the number of
+Gears assigned to the fleet
+seems to have been reduced."<Close><End of Block>
+<TextBlock 60 w:44 h:4>
+Citan
+"Even with that...<Delay 30>
+how gallant of him to
+be so self-righteous."<Close><End of Block>
+<TextBlock 61 w:42 h:4>
+Bart
+"Is he that much of
+a muscle head? It'll
+be fun taunting him."<Close><End of Block>
+<TextBlock 62 w:30 h:2>
+Maison
+"Young master!"<Close><End of Block>
+<TextBlock 63 w:42 h:3>
+Bart
+"I know! I know!<New>
+Anyway, Citan, do you
+think he can strike
+our Gear forces?"<Close><End of Block>
+<TextBlock 64 w:50 h:3>
+Citan
+"It is not a problem.<New>
+Even with Vanderkaum, we
+have enough forces left
+to pull off the feint.<New>
+However, it would not be
+wise to underestimate our
+opponents."<Close><End of Block>
+<TextBlock 65 w:18 h:2>
+Fei
+"Me...!?"<Close><End of Block>
+<TextBlock 66 w:50 h:4>
+Sigurd
+"Hold on now!<Delay 30>
+There's no reason to
+involve you all in this!"<Close><End of Block>
+<TextBlock 67 w:36 h:2>
+Fei
+"...I'll do it.<New>
+Yes, let me do it.
+When do we leave?"<Close><End of Block>
+<TextBlock 68 w:36 h:2>
+Bart
+"...Are you sure?"<Close><End of Block>
+<TextBlock 69 w:46 h:4>
+Fei
+"We've come this far...
+Hey, we're friends to
+the end, now!"<Close><End of Block>
+<TextBlock 70 w:42 h:4>
+Citan
+"Speed is everything.
+We should do this as
+soon as possible."<Close><End of Block>
+<TextBlock 71 w:40 h:2>
+Bart
+"Alright, tomorrow!"<Close><End of Block>
+<TextBlock 72 w:46 h:4>
+Sigurd
+"I am truly grateful...<Delay 30>
+Fei...<Delay 30>
+Citan."<Close><End of Block>
+<TextBlock 73 w:14 h:2>
+Bart
+"Yeah!"<Close><End of Block>
+<TextBlock 74 w:36 h:4>
+Bart
+"There's no way we
+can lose!<Delay 30> No one
+will die in vain!"<Close><End of Block>
+<TextBlock 75 w:28 h:3>
+Maison
+"Well put,
+young master!"<Close><End of Block>
+<TextBlock 76 w:50 h:3>
+Margie
+"You okay?<Delay 30>
+Sister, are you wounded?"<Close><End of Block>
+<TextBlock 77 w:54 h:4>
+Sister Agnes
+"I'm fine. <Delay 30>
+Marguerite and Bartholomew,
+I'm sorry..."<Close><End of Block>
+<TextBlock 78 w:48 h:4>
+Sigurd
+"I took some troops and
+searched the area, but I
+couldn't find anyone."<Close><End of Block>
+<TextBlock 79 w:18 h:2>
+Bart
+"Really?"<Close><End of Block>
+<TextBlock 80 w:54 h:3>
+Sister Agnes
+"Earlier, <Delay 30>
+after everyone came out..."<Close><End of Block>
+<TextBlock 81 w:46 h:4>
+Sister Agnes
+"Over half of the
+residents have fled
+from Nisan.<New>
+After that, Shakhan's
+position in the country
+was compromised so...<New>
+he didn't care about
+reputations anymore and
+attacked this land."<Close><End of Block>
+<TextBlock 82 w:50 h:4>
+Citan
+"I see. <Delay 30>
+A last desperate plan to
+reverse the situation..."<Close><End of Block>
+<TextBlock 83 w:46 h:4>
+Bart
+"Sister, I assume the
+people remaining in the
+town are...?"<Close><End of Block>
+<TextBlock 84 w:50 h:3>
+Sister Agnes
+"Yes. <Delay 30>
+Hiding in the mausoleum."<Close><End of Block>
+<TextBlock 85 w:38 h:3>
+Fei
+"Mausoleum...?<Delay 30>
+Hiding in a grave?"<Close><End of Block>
+<TextBlock 86 w:44 h:4>
+Margie
+"The Great Mothers and
+Kings of Aveh of old
+are revered there."<Close><End of Block>
+<TextBlock 87 w:54 h:3>
+Bart
+"It's not just some regular
+grave or anything."<Close><End of Block>
+<TextBlock 88 w:28 h:3>
+Sister Agnes
+"Bartholomew,
+about that..."<Close><End of Block>
+<TextBlock 89 w:42 h:3>
+Sister Agnes
+"Shakhan and
+the Fatima Jasper...<New>
+He's after the Fatima
+Treasure."<Close><End of Block>
+<TextBlock 90 w:54 h:4>
+Citan
+"Treasure...?<Delay 30> If he
+wants the treasure what is
+he doing attacking here..."<Close><End of Block>
+<TextBlock 91 w:26 h:2>
+Bart
+"Huh?<Delay 30> Ahh..."<Delay 30><Close><End of Block>
+<TextBlock 92 w:48 h:4>
+Bart
+"Actually, the Fatima
+Treasure is in the
+mausoleum.<New>
+There was even father's
+will there, but I didn't
+tell anyone..."<Close><End of Block>
+<TextBlock 93 w:52 h:3>
+Fei
+"Treasure...<New>
+You mean that thing in the
+picture scrolls you showed
+me earlier in your base?"<Close><End of Block>
+<TextBlock 94 w:52 h:4>
+Bart
+"Yeah.<New>
+If you follow that legend,
+you're supposed to get
+your hands on some great
+power."<Close><End of Block>
+<TextBlock 95 w:36 h:3>
+Sigurd
+"We must stop them
+somehow."<Close><End of Block>
+<TextBlock 96 w:40 h:3>
+Bart
+"There's no problem.
+The Jasper is..."<Close><End of Block>
+<TextBlock 97 w:50 h:3>
+Sister Agnes
+"They plan to use the
+former Mother's retinas."<Close><End of Block>
+<TextBlock 98 w:28 h:2>
+Bart
+"Wha...<Delay 30>what!!"<Close><End of Block>
+<TextBlock 99 w:40 h:4>
+Sister Agnes
+"Remove the deceased
+Mother's retina,<Delay 30> and
+break the seal."<Close><End of Block>
+<TextBlock 100 w:50 h:3>
+Bart
+"Use the body of Margie's
+mother?"<Close><End of Block>
+<TextBlock 101 w:24 h:2>
+Margie
+"Mom's...!!"<Close><End of Block>
+<TextBlock 102 w:52 h:4>
+Sister Agnes
+"I'm sorry. They used
+innocent citizens and sect
+followers as a shield.<New>
+There was no other way...<New>
+The truth we heard
+previously from Margie
+about the Jasper's true
+form and how it's used.<New>
+They know now...<Delay 30>
+I am truly sorry."<Close><End of Block>
+<TextBlock 103 w:38 h:4>
+Bart
+"Well...<Delay 30>
+I don't blame you.
+They had hostages!"<Close><End of Block>
+<TextBlock 104 w:44 h:4>
+Citan
+"Wait a moment.<Delay 30>
+Retinas...what are you
+speaking of?"<Close><End of Block>
+<TextBlock 105 w:50 h:4>
+Bart
+"The Fatima Jasper is the
+topaz blue pupils of the
+Fatima dynasty...<New>
+In other words...<Delay 30>
+our retinal pattern.<New>
+The doors to the treasure
+are opened by that...<Delay 30>
+Or so it is said."<Close><End of Block>
+<TextBlock 106 w:52 h:4>
+Bart
+"However no one has ever
+used it. It's not to be
+used for minor conflicts.<New>
+The doors are to be opened
+only when the kingdom is
+truly in danger.<New>
+So neither I, <Delay 30>
+nor my father, <Delay 30>
+nor grandfather,<New>
+nor my great grandfather
+have ever used it."<Close><End of Block>
+<TextBlock 107 w:44 h:3>
+Citan
+"So, that <Delay 30>is the true
+form of the Jasper..."<Close><End of Block>
+<TextBlock 108 w:14 h:2>
+Bart
+"Damn!"<Close><End of Block>
+<TextBlock 109 w:56 h:4>
+Bart
+"That old coot, <Delay 30>he wants to
+profane a holy person's
+corpse? That's unthinkable!"<Close><End of Block>
+<TextBlock 110 w:48 h:4>
+Citan
+"It is a closely guarded
+secret but the 'Ethos'
+people are not holy men.<New>
+They simply supervise."<Close><End of Block>
+<TextBlock 111 w:46 h:3>
+Fei
+"Yes, of course they
+wouldn't feel anything!<New>
+Let's go Bart!<Delay 30>
+Before the mausoleum is
+trashed."<Close><End of Block>
+<TextBlock 112 w:20 h:2>
+Bart
+"Alright!"<Close><End of Block>
+<TextBlock 113 w:38 h:3>
+Sigurd
+"Young master!<Delay 30>
+I have a proposal."<Close><End of Block>
+<TextBlock 114 w:34 h:2>
+Bart
+"What is it Sig?"<Close><End of Block>
+<TextBlock 115 w:50 h:4>
+Sigurd
+"Currently Aveh is in
+confusion with Shakhan
+running amok.<New>
+It should be very easy
+to bring down the center
+with no Gebler units
+around.<New>
+It'll be the best time to
+make our return to the
+capital."<Close><End of Block>
+<TextBlock 116 w:52 h:4>
+Citan
+"That is a good idea.<New>
+Shakhan is most likely
+thinking of the Fatima
+Jasper as his last card.<New>
+While we prevent the young
+one from handing over the
+treasure to Shakhan...<New>
+a separate force will take
+back the capital.
+Then he will have nowhere
+else to go."<Close><End of Block>
+<TextBlock 117 w:42 h:3>
+Bart
+"I got it...<Delay 30>
+Sounds good.<New>
+We can pay everything
+back in one shot!"<Close><End of Block>
+<TextBlock 118 w:26 h:6>
+    Elly
+    Citan
+    Billy
+    Rico
+    Maria
+    <Chu-Chu><Close><End of Block>
+<TextBlock 119 w:32 h:2>
+Elly
+"Fine, I'll go."<Close><End of Block>
+<TextBlock 120 w:52 h:4>
+Citan
+"If possible, I would like
+to return to the capital
+with Sigurd.<New>
+Two former Solarians will
+dethrone the 'Ethos'...
+How very ironic."<Close><End of Block>
+<TextBlock 121 w:20 h:2>
+Billy
+"I'll go."<Close><End of Block>
+<TextBlock 122 w:34 h:2>
+Rico
+"Leave it to me."<Close><End of Block>
+<TextBlock 123 w:36 h:2>
+Maria
+"I will help out."<Close><End of Block>
+<TextBlock 124 w:38 h:3>
+<Chu-Chu>
+"There's no choice 
+but for me chu go!"<Close><End of Block>
+<TextBlock 125 w:26 h:5>
+    Elly
+    Billy
+    Rico
+    Maria
+    <Chu-Chu><Close><End of Block>
+<TextBlock 126 w:20 h:2>
+Elly
+"I'll go."<Close><End of Block>
+<TextBlock 127 w:20 h:2>
+Billy
+"I'll go."<Close><End of Block>
+<TextBlock 128 w:34 h:2>
+Rico
+"Leave it to me."<Close><End of Block>
+<TextBlock 129 w:36 h:2>
+Maria
+"I will help out."<Close><End of Block>
+<TextBlock 130 w:38 h:3>
+<Chu-Chu>
+"There's no choice
+but for me chu go!"<Close><End of Block>
+<TextBlock 131 w:30 h:3>
+Margie
+"Hold on.<Delay 30>
+I'm going too!"<Close><Close><End of Block>

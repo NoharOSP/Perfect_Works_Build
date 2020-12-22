@@ -1,0 +1,233 @@
+<TextBlock 1 w:30 h:4>
+Citan
+"Oh, young one.<Delay 10>
+Did you want to
+talk to me?"<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Bart
+"Um...<Delay 5> About my shooting
+down the Goliath...<Delay 10> I'm,<Delay 5>
+errh,<Delay 5> really,<Delay 5> errh<Delay 5>..."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Citan
+"Oh, is that it?
+I guess it could not be
+helped...<New>
+But, jumping the gun is
+your bad habit.<Delay 10>
+A king should always keep
+calm and judge carefully!"<Close><End of Block>
+<TextBlock 4 w:58 h:1>
+(Maison says the same thing.)<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Bart
+"Yeah, I know, I know!<Delay 10>
+By the way, I have
+something to ask you..."<Close><End of Block>
+<TextBlock 6 w:34 h:3>
+Citan
+"Oh?<Delay 10>
+That is unusual."<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Bart
+"Well, it's about this
+warship we're on...<New>
+...which is the same type
+as the Yggdrasil.<New>
+Years ago, my old man told
+me it was scrapped because
+the peace talks with Kislev
+made progress.<New>
+So I knew it existed..."<Close><End of Block>
+<TextBlock 8 w:30 h:4>
+Citan
+"Hmm.<Delay 10>
+Then, what is
+bothering you?"<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Bart
+"The symbol on the ship...<Delay 10>
+It's not our Royal Crest!<Delay 10>
+Look at this."<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+Citan
+"This is..."<Close><End of Block>
+<TextBlock 11 w:46 h:3>
+Bart
+"I thought you knew it.<Delay 10>
+Whose crest is it?"<Close><End of Block>
+<TextBlock 12 w:48 h:3>
+Citan
+"I am not positive but
+it looks like Shevat's."<Close><End of Block>
+<TextBlock 13 w:36 h:3>
+Bart
+"Shevat?<Delay 10>
+What do you mean?"<Close><End of Block>
+<TextBlock 14 w:50 h:4>
+Citan
+"The Yggdrasil may not
+have been made by your
+father.<New>
+At that time, much of the
+potential technology was
+not understood and hence,<Delay 10>
+was hidden.<New>
+Maybe your father might
+have been scared of its
+power and so sealed it
+away."<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Bart
+"Hmm, I see.<Delay 10>
+So this may not have been
+ours from the start.<New>
+If so, I wanna meet
+the guys who made this
+amazing baby."<Close><End of Block>
+<TextBlock 16 w:40 h:4>
+Citan
+"Actually, they may
+be closer to you
+than you suspect..."<Close><End of Block>
+<TextBlock 17 w:36 h:3>
+Bart
+"Huh?<Delay 5>
+What did you say?"<Close><End of Block>
+<TextBlock 18 w:42 h:4>
+Citan
+"Nothing...I was just
+wondering if Fei and
+Elly are alright."<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Bart
+"...<Delay 10>
+Sorry, it's my fault."<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+Citan
+"N, no,<Delay 10>
+I did not mean to...<New>
+I am sure<Delay 10> they are fine."<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+Bart
+"Though there's no proof to
+back it up, I feel better
+now that you said that...<New>
+Even though I know you're
+probably lying through your
+teeth to make me feel less
+worried..."<Close><End of Block>
+<TextBlock 22 w:54 h:4>
+Citan
+"Anyway, enough worrying...<Delay 10>
+But I do think you should
+apologize to Rico.<New>
+You may get more than a
+bruise this time though."<Close><End of Block>
+<TextBlock 23 w:14 h:2>
+Bart
+"Yeah."<Close><End of Block>
+<TextBlock 24 w:36 h:3>
+Citan
+"Rico was checking
+on his Gear."<Close><End of Block>
+<TextBlock 25 w:40 h:2>
+What do you wanna do
+with your Gear?<Close><End of Block>
+<TextBlock 26 w:22 h:1>
+Come again.<Close><End of Block>
+<TextBlock 27 w:54 h:3>
+Oh, Bart!
+Thank you for letting me
+ride on your Yggdrasil!<New>
+I've always wanted to ride
+it... It's OK. The children
+are safe in Nisan's care!<Close><End of Block>
+<TextBlock 28 w:48 h:3>
+I heard there was a
+shortage of people so I
+decided to participate!<Delay 10><New>
+Actually, I got fed up
+with my job in the small
+hideout...<Close><End of Block>
+<TextBlock 29 w:40 h:2>
+What do you wanna do
+with your Gear?<Close><End of Block>
+<TextBlock 30 w:36 h:2>
+You must come back
+now, ya hear!?<Close><End of Block>
+<TextBlock 31 w:22 h:1>
+Come again!<Close><End of Block>
+<TextBlock 32 w:44 h:4>
+If something should
+happen, I'll go too!
+That's the spirit of
+Yggdrasil Gear troops!<Close><End of Block>
+<TextBlock 33 w:48 h:4>
+I no longer have a place
+in Gear combat, but I'd
+better be ready for it
+anyway!<Close><End of Block>
+<TextBlock 34 w:52 h:5>
+I'll go buy parts for the
+Gears.<Delay 10> General Maitreya'll
+be upset if we don't try 
+to put another Gear unit
+together.<Close><End of Block>
+<TextBlock 35 w:48 h:4>
+Hey, you haven't seen
+Maria's Gear, have you?<New>
+It's too big to fit in
+this hangar, so it's on
+the deck.<New>
+Speaking of which...<New>
+Do you wanna change the 
+name of <Seibzehn>?
+    <Opcode 1 255>Yeah, why not!?
+    No, not now...<Close><End of Block>
+<TextBlock 36 w:36 h:4>
+General Maitreya,
+Falkon and Farrant
+are gone.<Delay 10>
+...I miss them.<Close><End of Block>
+<TextBlock 37 w:42 h:4>
+We don't have enough
+underwater equipment,
+Gears, or pilots.<Delay 10>
+I'm glad you're here.<Close><End of Block>
+<TextBlock 38 w:54 h:3>
+When I come here at night I
+sometimes hear Maitreya and
+them talking and laughing.<New>
+But when I get closer, the
+voices disappear.<Delay 10> I'm sure
+they are lonely,<Delay 10> too.<Close><End of Block>
+<TextBlock 39 w:44 h:4>
+Maitreya admired your
+dive technique.<Delay 10>
+I hear your zoom
+technique is flawless.<New>
+Do you think you
+can train me on
+my next watch?<Close><End of Block>
+<TextBlock 40 w:52 h:3>
+Now, I must ready the Gear
+parts.<Delay 10> Maitreya's strict
+with this sort of thing.<Close><End of Block>
+<TextBlock 41 w:46 h:3>
+That Gear with the
+slender build withstood
+<Brigandier>'s rod?<New>
+What kind of armor did
+they use to cover it?<Close><End of Block>
+<TextBlock 42 w:62 h:4>
+Hey? Did you see this month's
+edition of "Gear Fan Magazine"?<Delay 10>
+They say, 'Hovering' is all
+the rage right now'!<New>
+Until a while back, it used
+to be special equipment that
+only the young master had
+equipped on his Gear!<Close><End of Block>
+<TextBlock 43 w:0 h:1>
+<Close><End of Block>

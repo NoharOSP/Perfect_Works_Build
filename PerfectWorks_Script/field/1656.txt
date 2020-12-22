@@ -1,0 +1,106 @@
+<TextBlock 1 w:46 h:3>
+Citan
+"We can probably get in
+with this switch..."<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Card needed to activate
+the Vac-Sys...<Delay 10>
+Please insert card.<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Citan
+"...<Delay 5>...No go.<Delay 10>
+What shall we do...?"<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Fei
+"What shall we do??
+Didn't you have a plan?"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Citan
+"No, I am afraid not...<Delay 10>
+I assumed we would just
+figure something out."<Close><End of Block>
+<TextBlock 6 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 7 w:12 h:1>
+Wait!!<Opcode 2 20><Close><End of Block>
+<TextBlock 8 w:44 h:2>
+Citan
+"Why Elly, it is you!"<Close><End of Block>
+<TextBlock 9 w:48 h:3>
+Fei
+"Elly!?
+What're you doing here?"<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Elly
+"Well...<Delay 10>after that, when I
+was crying, my mother came
+to me and said...<New>
+'go with them'..."<Close><End of Block>
+<TextBlock 11 w:20 h:3>
+Elly
+"Father,<Delay 10>
+mother..."<Close><End of Block>
+<TextBlock 12 w:18 h:2>
+Fei
+"Elly..."<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+Citan
+"...The 'Ministry'...<Delay 5>
+...<Delay 5>"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Elly
+"'Ministry'!?<Delay 10>
+Father said that too!!<Delay 10>
+What is the 'Ministry'?"<Close><End of Block>
+<TextBlock 15 w:24 h:3>
+Citan
+"...<Delay 5>You will
+find out."<Close><End of Block>
+<TextBlock 16 w:38 h:3>
+Fei
+"Let's go back!<Delay 10>
+We gotta save him!"<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Elly
+"We can't!<Delay 10>
+If you go now, they'll
+catch you too.<New>
+My parents will be fine.
+Their military record
+should protect them.<New>
+...If necessary I'll turn
+myself in after everyone
+is rescued and that will
+settle it."<Close><End of Block>
+<TextBlock 18 w:16 h:2>
+Fei
+"But..."<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Elly
+"Let's go.<New>
+Something might happen
+to them while we're
+just talking here."<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+Citan
+"I am worried for Elly's
+family, but...<New>
+Her father risked his
+life to get us this card.
+We must go on!"<Close><End of Block>
+<TextBlock 21 w:10 h:1>
+Yeah!<Close><End of Block>
+<TextBlock 22 w:52 h:3>
+Citan
+"But in this filthy place?
+Spare me.<New>
+What I would not give
+for my old bath-tub now!
+Do you not agree, Fei?"<Close><End of Block>
+<TextBlock 23 w:2 h:1>
+?<Opcode 2 30><Close><End of Block>
+<TextBlock 24 w:30 h:2>
+Fei
+"OK, let's go!"<Close><End of Block>
+<TextBlock 25 w:0 h:1>
+<Close><End of Block>

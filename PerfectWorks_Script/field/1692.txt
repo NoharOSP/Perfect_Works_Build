@@ -1,0 +1,32 @@
+<TextBlock 1 w:30 h:2>
+Fei
+"Where are we?"<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Elly
+"The 1st Class citizen
+level.<New>
+This is where the
+Solaris people called
+Gazel live.
+Follow me."<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Fei
+"W...wait.<New>
+The guard robot may get 
+you again if you go in 
+there..."<Close><End of Block>
+<TextBlock 4 w:36 h:3>
+Elly
+"Don't worry.<Delay 10>
+This is my house."<Close><End of Block>
+<TextBlock 5 w:32 h:4>
+Fei
+"Y...your house?<Delay 10>
+This big house 
+is yours?"<Close><End of Block>
+<TextBlock 6 w:24 h:3>
+Elly
+"Yep.<Delay 10>
+Come on in."<Close><End of Block>
+<TextBlock 7 w:0 h:1>
+<Close><End of Block>

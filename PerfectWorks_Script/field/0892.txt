@@ -1,0 +1,176 @@
+<TextBlock 1 w:34 h:2>
+I'm busy!
+Get outta my way!<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+I thought I'd have 
+lots of free time
+once the war ended.<New>
+But these guys are
+always in the dining
+hall.<New>
+So I'm real busy! 
+Outta my way!<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+While this is warming,
+I'll get this ready...<Delay 30> 
+Was I cutting vegetables?<New>
+No, wait... Hey, your
+talking to me got me all
+mixed up.<Close><End of Block>
+<TextBlock 4 w:38 h:3>
+I wonder how the 
+Tournament's going?<New>
+I'd like to go see
+it  but the head
+chef won't let me.<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+I wonder if the
+'Dragon Slaying Boxer'
+is winning?<Close><End of Block>
+<TextBlock 6 w:44 h:3>
+I wonder if the
+'Dragon Slaying Youth'
+is winning?<Close><End of Block>
+<TextBlock 7 w:46 h:3>
+I wonder if the
+'Dragon Slaying Squire'
+is winning?<Close><End of Block>
+<TextBlock 8 w:48 h:3>
+I wonder if the
+'Dragon Slaying Slacker'
+is winning?<Close><End of Block>
+<TextBlock 9 w:36 h:3>
+I wonder if the
+'Ponytailed Boxer'
+is winning?<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+I wonder if the
+'Ponytailed Youth'
+is winning?<Close><End of Block>
+<TextBlock 11 w:38 h:3>
+I wonder if the
+'Ponytailed Squire'
+is winning?<Close><End of Block>
+<TextBlock 12 w:40 h:3>
+I wonder if the
+'Ponytailed Slacker'
+is winning?<Close><End of Block>
+<TextBlock 13 w:34 h:3>
+I wonder if the
+'Wandering Boxer'
+is winning?<Close><End of Block>
+<TextBlock 14 w:34 h:3>
+I wonder if the
+'Wandering Youth'
+is winning?<Close><End of Block>
+<TextBlock 15 w:36 h:3>
+I wonder if the
+'Wandering Squire'
+is winning?<Close><End of Block>
+<TextBlock 16 w:38 h:3>
+I wonder if the
+'Wandering Slacker'
+is winning?<Close><End of Block>
+<TextBlock 17 w:30 h:3>
+I wonder if the
+'Beloved Boxer'
+is winning?<Close><End of Block>
+<TextBlock 18 w:30 h:3>
+I wonder if the
+'Beloved Youth'
+is winning?<Close><End of Block>
+<TextBlock 19 w:32 h:3>
+I wonder if the
+'Beloved Squire'
+is winning?<Close><End of Block>
+<TextBlock 20 w:34 h:3>
+I wonder if the
+'Beloved Slacker'
+is winning?<Close><End of Block>
+<TextBlock 21 w:46 h:2>
+Hey, you're the
+'Dragon Slaying Boxer'.<Close><End of Block>
+<TextBlock 22 w:46 h:2>
+Hey, you're the
+'Dragon Slaying Youth'.<Close><End of Block>
+<TextBlock 23 w:48 h:2>
+Hey, you're the
+'Dragon Slaying Squire'.<Close><End of Block>
+<TextBlock 24 w:50 h:2>
+Hey, you're the
+'Dragon Slaying Slacker'.<Close><End of Block>
+<TextBlock 25 w:38 h:2>
+Hey, you're the
+'Ponytailed Boxer'.<Close><End of Block>
+<TextBlock 26 w:38 h:2>
+Hey, you're the
+'Ponytailed Youth'.<Close><End of Block>
+<TextBlock 27 w:40 h:2>
+Hey, you're the
+'Ponytailed Squire'.<Close><End of Block>
+<TextBlock 28 w:42 h:2>
+Hey, you're the
+'Ponytailed Slacker'.<Close><End of Block>
+<TextBlock 29 w:36 h:2>
+Hey, you're the
+'Wandering Boxer'.<Close><End of Block>
+<TextBlock 30 w:36 h:2>
+Hey, you're the
+'Wandering Youth'.<Close><End of Block>
+<TextBlock 31 w:38 h:2>
+Hey, you're the
+'Wandering Squire'.<Close><End of Block>
+<TextBlock 32 w:40 h:2>
+Hey, you're the
+'Wandering Slacker'.<Close><End of Block>
+<TextBlock 33 w:32 h:2>
+Hey, you're the
+'Beloved Boxer'.<Close><End of Block>
+<TextBlock 34 w:32 h:2>
+Hey, you're the
+'Beloved Youth'.<Close><End of Block>
+<TextBlock 35 w:34 h:2>
+Hey, you're the
+'Beloved Squire'.<Close><End of Block>
+<TextBlock 36 w:36 h:2>
+Hey, you're the
+'Beloved Slacker'.<Close><End of Block>
+<TextBlock 37 w:38 h:3>
+Hey, thanks to you 
+I hit it big. 
+Thank you.<Close><End of Block>
+<TextBlock 38 w:46 h:2>
+Ma yelled at me because
+you lost so quickly!<Close><End of Block>
+<TextBlock 39 w:54 h:3>
+This is enough seasoning. 
+They will all be tired out 
+from today's Tournament.<Close><End of Block>
+<TextBlock 40 w:46 h:3>
+Can't fight on an
+empty stomach...<New>
+Even without a fight,
+you still can't do much
+when you're hungry.<Close><End of Block>
+<TextBlock 41 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 42 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 43 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 44 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 45 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 46 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 47 w:70 h:3>
+<Opcode 1 255>There's probably a guard outside...
+    Open the door
+    Just take a peek<Close><Close><End of Block>

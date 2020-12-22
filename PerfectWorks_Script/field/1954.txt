@@ -1,0 +1,134 @@
+<TextBlock 1 w:44 h:4>
+Roni
+"C'mon guys, <Delay 5>eat up.<New>
+You haven't been able
+to get this kinda food
+around here lately,
+have ya?" <Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Roni
+"Well, this is also due
+to my business savvy."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Rene
+"...<Delay 5>What's wrong,<Delay 5> Lacan?<Delay 15>
+You look kinda down.<Delay 15>
+What's bothering you?<New>
+Are you worried about
+something?"<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Lacan
+"It's nothing<Delay 5>...<Delay 15>
+I'm just thinking about
+painting Sophia.<New>
+I don't know why I agreed 
+to do her portrait<Delay 5>..."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Rene
+"Sophia<Delay 5>...<Delay 5> You mean your
+childhood friend who's now
+the Holy Mother of Nisan?"<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Lacan
+"She's not really a
+childhood friend<Delay 5>...<New>
+...<Delay 5>I just made her
+acquaintance at the
+monastery near my home
+when I was a child<Delay 5>...<New>
+She went to the clinic
+there for convalescence."<Close><End of Block>
+<TextBlock 7 w:32 h:2>
+Lacan
+"She was <Delay 5>frail."<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Rene
+"So<Delay 5>...<Delay 15>
+what are you worried
+about painting her for?"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Lacan
+"She<Delay 5> does not wish <Delay 15>
+herself to become a 
+symbol of her sect.<New>
+...<Delay 5>Actually,<Delay 10> it seems
+she wasn't interested
+in having her portrait
+painted at first.<New>
+But,<Delay 5> when she heard I
+would be the painter,<Delay 5>
+she turned around and
+agreed.<New>
+That's what I don't
+understand<Delay 5>..."<Close><End of Block>
+<TextBlock 10 w:20 h:2>
+Roni
+"I see<Delay 5>..."<Close><End of Block>
+<TextBlock 11 w:28 h:3>
+Roni
+"Then<Delay 5> she must
+like you<Delay 5>..."<Close><End of Block>
+<TextBlock 12 w:30 h:3>
+Lacan
+"What are you
+talking about?"<Close><End of Block>
+<TextBlock 13 w:48 h:3>
+Roni
+"That's how women are<Delay 5>...<Delay 15>
+Right, Krelian<Delay 5>...?"<Close><End of Block>
+<TextBlock 14 w:24 h:2>
+Roni
+"Hey,<Delay 5> Krel!"<Close><End of Block>
+<TextBlock 15 w:14 h:2>
+Krelian
+"Huh?"<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+Rene
+"...<Delay 5>What's up?<Delay 15>
+You're not having any?<Delay 30>
+It's ready to eat."<Close><End of Block>
+<TextBlock 17 w:26 h:2>
+Krelian
+"Ah,<Delay 5> yeah<Delay 5>..."<Close><End of Block>
+<TextBlock 18 w:36 h:4>
+Roni
+"The Holy Mother
+of Nisan,<Delay 5> huh?<New>
+What, are you out
+to offend divine
+providence or
+something, Lacan?"<Close><End of Block>
+<TextBlock 19 w:30 h:4>
+Lacan
+"Cut it out<Delay 5>...!<Delay 15>
+It's not<Delay 5>...<Delay 5>
+like that<Delay 5>..."<Close><End of Block>
+<TextBlock 20 w:22 h:2>
+Lacan
+"Wh, <Delay 5>what?"<Close><End of Block>
+<TextBlock 21 w:40 h:2>
+You've gotta lighten
+up a little<Delay 5>...<Opcode 2 120><Close><End of Block>
+<TextBlock 22 w:52 h:4>
+Krelian
+"Even so, there was a
+time  when I did some
+pretty vicious things.<New>
+I lashed out at random<Delay 5>...<Delay 15>
+Everyone around me
+feared me<Delay 5>...<Delay 5>
+Even my friends.<New>
+I lived a life surrounded
+by people who looked at me
+with fear in their eyes."<Close><End of Block>
+<TextBlock 23 w:52 h:4>
+Krelian
+"But she was the only one
+who wasn't afraid of me.<Delay 15>
+She would just smile.<New>
+Peace of mind<Delay 5>...<Delay 15>
+She was the one who taught
+me what that was and how I
+could receive it<Delay 5>...<New>
+She taught me how to live
+as a human<Delay 5>..."<Close><Close><End of Block>

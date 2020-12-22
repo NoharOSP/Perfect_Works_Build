@@ -1,0 +1,43 @@
+<TextBlock 1 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 2 w:58 h:6>
+Sophia
+"Faith<Delay 0> in<Delay 0> god<Delay 0>...<Delay 45>
+Do<Delay 0> not<Delay 0> look<Delay 0> for<Delay 0> it<Delay 0> on<Delay 0> the<Delay 0>
+outside<Delay 0>...<Delay 30>
+For<Delay 0> it<Delay 0> is<Delay 0> something<Delay 0> one<Delay 0> must<Delay 0>
+build<Delay 0> from<Delay 0> within<Delay 0> oneself<Delay 0>..."<Opcode 2 120><Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Krelian
+"It's been a long 
+time <Delay 5>Lacan."<Close><End of Block>
+<TextBlock 4 w:26 h:3>
+Lacan
+"Krelian. <Delay 15>
+You're back?"<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Krelian
+"I just got back 
+last night.<Delay 15><New>
+You came back home 
+to get paints, right?<New>
+Sophia told me.<Delay 30>
+Allow me to accompany
+you."<Close><End of Block>
+<TextBlock 6 w:30 h:2>
+Lacan
+"Is that okay?"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Krelian
+"Yeah.<Delay 10>
+I'll leave someone else
+in command of my unit.<New>
+Because of Solaris,
+things are a lot more
+dangerous these days.<Delay 30><New>
+Anyway,<Delay 5> wouldn't you feel
+more secure if you were
+with me?"<Close><End of Block>
+<TextBlock 8 w:24 h:2>
+Lacan
+"<Delay 5>...<Delay 5>Thanks."<Close><Close><End of Block>

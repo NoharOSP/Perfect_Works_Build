@@ -1,0 +1,38 @@
+<TextBlock 1 w:32 h:4>
+Verlaine
+"Hahahm, Billy.
+How is your
+beloved father?"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Verlaine
+"...I have no business with
+people not associated with
+the 'Ethos'."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+This is the Pontiff's
+room. The general public
+is not allowed in here.
+Please leave.<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+This is the Pontiff's
+room. The general public
+is not allowed in here.
+Please leave.<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+The Bishop's been worried
+about Reapers, refugees,
+Etone, the faith...<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+("<Delay 10>...Too many Wels are out 
+there now. More than we 
+can handle...<Delay 20><New>
+What are 'they'
+thinking?")<Close><End of Block>
+<TextBlock 7 w:32 h:1>
+Purge! Purge...!<Close><End of Block>
+<TextBlock 8 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

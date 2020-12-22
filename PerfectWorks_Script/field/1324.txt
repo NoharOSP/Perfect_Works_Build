@@ -1,0 +1,1107 @@
+<TextBlock 1 w:38 h:4>
+Elly
+"No mistake!<Delay 30>
+This has to be the
+'Ethos' data bank!"<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Elly
+"<Delay 5>...<Delay 10>Wait a minute!<Delay 15>
+...<Delay 10>This is Solaris'
+equipment!"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Elly
+"Don't be so surprised!<New>
+No matter how vast this
+world is, such advanced
+equipment as this could
+only come from Solaris."<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Elly
+"<Opcode 1 255>Look, here! <Opcode 1 0><New>
+The destinations of all
+resources collected by
+the 'Ethos' through
+trade with each area...<New>
+All the resources are
+being sent on to the
+Solaris homeland."<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+Elly
+"I<Delay 5> don't<Delay 5> know..."<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Elly
+"This is in the Solarian
+language, but it's been
+encoded.<New>
+Hold on<Delay 5>...<Delay 5>...<Delay 5>
+Ummm<Delay 5>...<Delay 5>...<Delay 5>
+What is this<Delay 5>...<Delay 5>...?<Delay 5>
+...<Delay 5>...<Delay 5>...<Delay 5>...<Delay 5>..."<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Elly
+"Hold on!
+It's hard to translate
+this stuff!<New>
+Ummm<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>'Lambs'<Delay 5>...<Delay 5>
+great war<Delay 5>...<Delay 5>collapse<Delay 5>...<Delay 5>
+re-education<Delay 5>...<New>
+...<Delay 5>postwar rehab plan<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>based on<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>schedule for building
+'Gate' foundations<Delay 5>...<New>
+'Lambs'<Delay 5>...<Delay 5>02-04 to Ignas
+<Delay 5>...<Delay 5>05-08 to Aquvy<Delay 5>...<Delay 5>
+11-16<Delay 5> to be uniformly
+distributed<Delay 5>...<New>
+Put into practice<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>'Ethos' established
+as an organization<Delay 5>...<New>
+<Delay 5>...<Delay 5>Supervision by elders
+<Delay 5>...<Delay 5>conference<Delay 5>...<Delay 5>
+supervision by the Gazel!?<New>
+The 'Ethos' is<Delay 5>...!?"<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+Elly
+"In short,<Delay 5>
+it's like this<Delay 5>...<New>
+500 years ago, there was
+a great war that occurred
+between Solaris and the
+land dwellers.<New>
+It's not clear what the
+outcome was, but after the
+war, Solaris feared another
+land dweller revolt<Delay 5>...<New>
+So Solaris built a 'Gate',<Delay 5>
+or barrier,<Delay 5> that separates
+Solaris' land from the
+rest of the world's land.<New>
+The land dwellers who lived
+within this Gate were made
+to dwell as separate races
+and were thus supervised.<New>
+To carry out the actual
+supervision, Solaris
+established the 'Ethos'.<New>
+So the 'Ethos' is actually
+controlled by the 'Gazel
+Ministry',<Delay 5> or Solaris'
+highest governmental body.<New>
+So,<Delay 5> yes,<Delay 5> the 'Ethos' is
+really a 'front',<Delay 5> or a
+subsidiary organization,<Delay 5>
+working for Solaris!<New>
+Excavation findings, goods
+and natural resources from
+the surface are transported
+to Solaris by the 'Ethos'.<New>
+This also includes 'human
+resources', or people used
+for manual labor and so on.<New>
+Basically, this here is the
+window between the planet's
+surface and Solaris up
+there in the skies above.<New>
+According to these records,
+there's been an enormous
+amount of goods and people
+tranferred to Solaris!"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Elly
+"The rest is mainly about
+population distribution
+and excavation records.<New>
+The amount of detailed
+information about races and
+their biological data kind
+of concerns me though..."<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Elly
+"There are facilities in
+Solaris for accommodating
+surface dwellers... I know!<New>
+The 3rd class citizen level
+- Earth dwellers of various
+races are regularly sent
+there as manual labor."<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Elly
+"So, do you think Solaris
+is responsible for this
+attack on the 'Ethos'?"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Elly
+"We're going to
+go on further...<New>
+Bart and Rico, could
+you please accompany
+the person from 'Shevat'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Elly
+"We're going to
+go on further...<New>
+Citan and Rico, could
+you please accompany
+the person from 'Shevat'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Elly
+"We're going to
+go on further...<New>
+Citan and Bart, could
+you please accompany
+the person from 'Shevat'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Elly
+"We're going to
+go on further...<New>
+Bart and Rico, could
+you please accompany
+the person from 'Shevat'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Elly
+"We're going to
+go on further...<New>
+Citan and Rico, could
+you please accompany
+the person from 'Shevat'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Elly
+"We're going to
+go on further...<New>
+Citan and Bart, could
+you please accompany
+the person from 'Shevat'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Elly
+"While I was checking
+the database I found
+out something...<New>
+There seems to be a person
+from 'Shevat' being held
+here by the 'Ethos'.
+We're going further on...<New>
+Bart and Rico, can you
+please rescue and
+accompany that 'Shevite'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Elly
+"While I was checking
+the database I found
+out something...<New>
+There seems to be a person
+from 'Shevat' being held
+here by the 'Ethos'.
+We're going further on...<New>
+Citan and Rico, can
+you please rescue and
+accompany that 'Shevite'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Elly
+"While I was checking
+the database I found
+out something...<New>
+There seems to be a person
+from 'Shevat' being held
+here by the 'Ethos'.
+We're going further on...<New>
+Citan and Bart, can
+you please rescue and
+accompany that 'Shevite'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Elly
+"While I was checking
+the database I found
+out something...<New>
+There seems to be a person
+from 'Shevat' being held
+here by the 'Ethos'.
+We're going further on...<New>
+Bart and Rico, can
+you please rescue and
+accompany that 'Shevite'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 22 w:52 h:4>
+Elly
+"While I was checking
+the database I found
+out something...<New>
+There seems to be a person
+from 'Shevat' being held
+here by the 'Ethos'.
+We're going further on...<New>
+Citan and Rico, can
+you please rescue and
+accompany that 'Shevite'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 23 w:52 h:4>
+Elly
+"While I was checking
+the database I found
+out something...<New>
+There seems to be a person
+from 'Shevat' being held
+here by the 'Ethos'.
+We're going further on...<New>
+Citan and Bart, can
+you please rescue and
+accompany that 'Shevite'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 24 w:38 h:4>
+Citan
+"I am sure of it.<Delay 30>
+This has to be the
+'Ethos' data bank."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Citan
+"I say...<Delay 5>a facility of
+this magnitude would even
+be hard to find in Solaris.<New>
+Why would the 'Ethos'
+have such a set up?"<Close><End of Block>
+<TextBlock 26 w:42 h:3>
+Citan
+"Hmm<Delay 5>...<Delay 10>
+the plot thickens<Delay 5>..."<Close><End of Block>
+<TextBlock 27 w:52 h:4>
+Citan
+"Here is a relatively
+recent record<Delay 5>...<New>
+It also indicates that
+there has been a large
+amount of people
+sent to Solaris<Delay 5>...<New>
+The majority of them were
+people who had come to the
+'Ethos' seeking help or
+spiritual salvation."<Close><End of Block>
+<TextBlock 28 w:30 h:3>
+Citan
+"This could be
+your answer..."<Close><End of Block>
+<TextBlock 29 w:14 h:2>
+Billy
+"What?"<Close><End of Block>
+<TextBlock 30 w:48 h:2>
+Citan
+"The 44th salvage plan."<Close><End of Block>
+<TextBlock 31 w:46 h:3>
+Bart
+"The 44th salvage plan?<New>
+Isn't that what the
+captain of the Thames
+was talking about?"<Close><End of Block>
+<TextBlock 32 w:48 h:4>
+Citan
+"This is the only plan
+that is not linked to
+Solaris...<New>
+It must have been
+initiated by the 'Ethos'
+itself, as a completely
+independent project.<New>
+It was commenced about
+... 19 years ago.<Wait>
+Allow me to display
+the data..."<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Citan
+"So, from this, it appears
+that under Aquvy lies an
+ultra-ancient civilization.<New>
+They have been doing a huge
+number of test-digs and
+obtained a vast quantity of
+resources from the ruins.<New>
+Biological weapons<Delay 5>...<Delay 5>
+reactive weapons<Delay 5>...<Delay 5>
+Hmm<Delay 5>...<Delay 5>I see, so this must
+be their intention<Delay 5>...<New>
+My assessment of the
+circumstances is that the
+'Ethos' is attempting to
+break away from Solaris<Delay 5>...<New>
+And once freed from its
+master,<Delay 5> it is likely to
+attempt<Delay 5> world
+domination<Delay 5> on its own."<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Rico
+"Attempt a breakaway<Delay 5>...<Delay 5>and
+attempt world domination<Delay 5>...<Delay 5>
+That's a rather ambitious!"<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+Citan
+"Yes, but the real 
+intentions of the 'Ethos'
+are quite obvious<Delay 5>...<New>
+The fact that they are
+not reporting the results,<Delay 5>
+let alone the site's very
+existence,<Delay 5> gives it away<Delay 5>...<New>
+The 'Ethos' is planning
+to revolt by monopolizing
+this ultra-advanced
+civilization's resources!<New>
+Actually, such rebellions
+have been quite common<Delay 5>..."<Close><End of Block>
+<TextBlock 36 w:55 h:4>
+Citan
+"Yes, that is probably it.<Wait>
+Shall we move along? There
+could be more to find yet!"<Close><End of Block>
+<TextBlock 37 w:48 h:4>
+Citan
+"It is okay.<Delay 10> I have
+adjusted the computer
+to keep that lock open."<Close><End of Block>
+<TextBlock 38 w:48 h:2>
+Bart
+"The 'Ethos' data bank?"<Close><End of Block>
+<TextBlock 39 w:48 h:4>
+Bart
+"Anyway, this isn't
+something we can just
+check all on our own.<New>
+We should bring everyone
+here we can."<Close><End of Block>
+<TextBlock 40 w:30 h:2>
+Bart
+"So that's it."<Close><End of Block>
+<TextBlock 41 w:46 h:4>
+Bart
+"Yeah, but even then<Delay 5>...<Delay 10>
+this place is damn well
+equipped.<Delay 10> Look at it!"<Close><End of Block>
+<TextBlock 42 w:30 h:2>
+Bart
+"So, <Delay 10>Solaris!?"<Close><End of Block>
+<TextBlock 43 w:44 h:3>
+Bart
+"What's going on here?
+What is this place?<New>
+Hey,<Delay 10> Billy!
+You know anything
+about this!?"<Close><End of Block>
+<TextBlock 44 w:46 h:3>
+Bart
+"Citan, what is that
+being displayed there?"<Close><End of Block>
+<TextBlock 45 w:42 h:4>
+Citan
+"It looks like some
+transmission record
+from somewhere<Delay 5>...<New>
+We might be able to
+find some clues here.<Delay 10>
+Wait one moment<Delay 5>..."<Close><End of Block>
+<TextBlock 46 w:50 h:4>
+Citan
+"Alright...
+Now I am able to transmit
+it to the main displays."<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Bart
+"What the heck is this!?
+Why's the 'Ethos' looking
+into this kinda stuff?<New>
+On top of that,<Opcode 1 255> that<Delay 20>
+<Opcode 1 0>Shakhan's a bishop!?<Delay 30> Wasn't
+he excommunicated from the
+'Ethos' 17 years ago!?"<Close><End of Block>
+<TextBlock 48 w:52 h:3>
+Bart
+"There's a terminal switch
+over here too. <Delay 10>...<Delay 10>Huh?<New>
+What's with these letters?<Delay 10>
+I can't read this."<Close><End of Block>
+<TextBlock 49 w:36 h:2>
+Bart
+"C'mon, hurry up!"<Close><End of Block>
+<TextBlock 50 w:12 h:2>
+Bart
+"Huh?"<Close><End of Block>
+<TextBlock 51 w:28 h:4>
+Bart
+"So...<Delay 20>
+what does this
+all mean?"<Close><End of Block>
+<TextBlock 52 w:54 h:4>
+Bart
+"Surely not all of them?<Delay 10>
+What happened to the ones
+that didn't become Etones?"<Close><End of Block>
+<TextBlock 53 w:34 h:2>
+Billy
+"Well<Delay 15>...<Delay 15>arrh<Delay 15>...?"<Close><End of Block>
+<TextBlock 54 w:40 h:4>
+Bart
+"It's all becoming
+clear then, eh...<Delay 10>
+How about it, Elly?"<Close><End of Block>
+<TextBlock 55 w:46 h:3>
+Rico
+"So this is the source
+of their labor supply."<Close><End of Block>
+<TextBlock 56 w:54 h:4>
+Billy
+"Judging from our position,
+this room is right under
+the cathedral...<New>
+Which could mean that this
+is the 'Ethos'<Delay 10> data bank?"<Close><End of Block>
+<TextBlock 57 w:52 h:4>
+Billy
+"This data bank holds all
+the information concerning
+the 'Ethos'.<New>
+From the past to the
+present... everything!<Delay 10>
+This facility is strictly
+off limits to us.<New>
+Only the Bishop class
+can ever enter this area."<Close><End of Block>
+<TextBlock 58 w:54 h:4>
+Billy
+"Don't ask me<Delay 5>...<Delay 10>
+How would I know<Delay 5>...<Delay 10> This is
+my first time in here<Delay 5>...!"<Close><End of Block>
+<TextBlock 59 w:44 h:4>
+Billy
+"B, but, why would the
+'Ethos' be sending
+supplies to Solaris!?"<Close><End of Block>
+<TextBlock 60 w:36 h:4>
+Billy
+"This can't be!<Delay 5>
+I've heard nothing
+of the sort!"<Close><End of Block>
+<TextBlock 61 w:44 h:3>
+Billy
+"They became Etones...
+like me..."<Close><End of Block>
+<TextBlock 62 w:52 h:3>
+Billy
+"But that's impossible<Delay 5>...!<Delay 5>
+How could that be<Delay 5>..."<Close><End of Block>
+<TextBlock 63 w:54 h:4>
+Billy
+"Even<Delay 5> if that was the case,<Delay 5>
+who would kill all those
+'Ethos' people,<Delay 5> and why!?"<Close><End of Block>
+<TextBlock 64 w:30 h:4>
+Billy
+"The 'Ethos'<Delay 5>...<Delay 5>
+My 'Ethos'<Delay 5>...<Delay 5>
+My faith<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 65 w:48 h:3>
+Bart
+"Hey, Billy!<New>
+How long you plannin'
+on being like that?
+Get a hold of yourself!"<Close><End of Block>
+<TextBlock 66 w:52 h:4>
+Citan
+"This is all just
+speculation based on
+circumstantial evidence.<New>
+It would be best for you
+to confirm what is the
+truth with your own eyes."<Close><End of Block>
+<TextBlock 67 w:40 h:3>
+Billy
+"B, but, that door
+is locked though..."<Close><End of Block>
+<TextBlock 68 w:24 h:2>
+Rico
+"Data bank?"<Close><End of Block>
+<TextBlock 69 w:42 h:3>
+Rico
+"Regardless, we can't
+do this by ourselves.<New>
+Let's go get the rest
+of the gang."<Close><End of Block>
+<TextBlock 70 w:52 h:2>
+Rico
+"Yeah, as I thought, huh."<Close><End of Block>
+<TextBlock 71 w:46 h:3>
+Rico
+"The 'Ethos' has been
+assaulted by someone<Delay 5>...<New>
+And in the basement<Delay 5>...<Delay 10>
+we find a Solarian
+facility<Delay 5>..."<Close><End of Block>
+<TextBlock 72 w:34 h:3>
+Rico
+"Then let's
+investigate...!?"<Close><End of Block>
+<TextBlock 73 w:46 h:4>
+Rico
+"That can't be the case
+if he's been sending in
+regular reports."<Close><End of Block>
+<TextBlock 74 w:46 h:3>
+Rico
+"It's all a front!<New>
+The 'Ethos' is really a
+subsidiary organization
+of Solaris."<Close><End of Block>
+<TextBlock 75 w:52 h:4>
+Rico
+"So, the 'Ethos' has
+been manipulating us, heh.<Delay 20>
+Anything else?"<Close><End of Block>
+<TextBlock 76 w:48 h:4>
+Rico
+"So what happened to all
+those people you've seen
+coming here for help?"<Close><End of Block>
+<TextBlock 77 w:50 h:4>
+Elly
+"We'll handle this here.<Delay 10>
+You three should go on
+further and investigate."<Close><End of Block>
+<TextBlock 78 w:38 h:4>
+Elly
+"I am sure of it!<Delay 30>
+This has to be the
+'Ethos' data bank!"<Close><End of Block>
+<TextBlock 79 w:38 h:4>
+Elly
+"<Delay 5>...<Delay 10>Wait a minute!<Delay 15>
+...<Delay 10>This is Solaris'
+equipment!"<Close><End of Block>
+<TextBlock 80 w:48 h:4>
+Elly
+"Don't act so surprised!<New>
+No matter how vast this
+world is, such advanced
+equipment as this could
+only come from Solaris."<Close><End of Block>
+<TextBlock 81 w:46 h:4>
+Elly
+"<Opcode 1 255>Look, here! <Opcode 1 0><New>
+The destinations of all
+resources collected by
+the 'Ethos' through
+trade with each area...<New>
+All the resources are
+being sent on to the
+Solaris homeland."<Close><End of Block>
+<TextBlock 82 w:34 h:2>
+Elly
+"I<Delay 5> don't<Delay 5> know..."<Close><End of Block>
+<TextBlock 83 w:48 h:4>
+Elly
+"This is in the Solarian
+language, but it's been
+encoded.<New>
+Hold on<Delay 5>...<Delay 5>...<Delay 5>
+Ummm<Delay 5>...<Delay 5>...<Delay 5>
+What is this<Delay 5>...<Delay 5>...?<Delay 5>
+...<Delay 5>...<Delay 5>...<Delay 5>...<Delay 5>..."<Close><End of Block>
+<TextBlock 84 w:52 h:4>
+Elly
+"Hold on!
+It's hard to translate
+this stuff!<New>
+Ummm<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>'Lambs'<Delay 5>...<Delay 5>
+great war<Delay 5>...<Delay 5>collapse<Delay 5>...<Delay 5>
+re-education<Delay 5>...<New>
+...<Delay 5>postwar rehab plan<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>based on<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>schedule for building
+'Gate' foundations<Delay 5>...<New>
+'Lambs'<Delay 5>...<Delay 5>02-04 to Ignas
+<Delay 5>...<Delay 5>05-08 to Aquvy<Delay 5>...<Delay 5>
+11-16<Delay 5> to be uniformly
+distributed<Delay 5>...<New>
+Put into practice<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>'Ethos' established
+as an organization<Delay 5>...<New>
+<Delay 5>...<Delay 5>Supervision by elders
+<Delay 5>...<Delay 5>conference<Delay 5>...<Delay 5>
+supervision by the Gazel!?<New>
+The 'Ethos' is<Delay 5>...!?"<Close><End of Block>
+<TextBlock 85 w:54 h:4>
+Elly
+"In short,<Delay 5>
+it's like this<Delay 5>...<New>
+500 years ago, there was
+a great war that occurred
+between Solaris and the
+land dwellers.<New>
+It's not clear what the
+outcome was, but after the
+war, Solaris feared another
+land dweller revolt<Delay 5>...<New>
+So Solaris built a 'Gate',<Delay 5>
+or barrier,<Delay 5> that separates
+Solaris' land from the
+rest of the world's land.<New>
+The land dwellers who lived
+within this Gate were made
+to dwell as separate races
+and were thus supervised.<New>
+To carry out the actual
+supervision, Solaris
+established the 'Ethos'.<New>
+So the 'Ethos' is actually
+controlled by the 'Gazel
+Ministry',<Delay 5> or Solaris'
+highest governmental body.<New>
+So,<Delay 5> yes,<Delay 5> the 'Ethos' is
+really a 'front',<Delay 5> or a
+subsidiary organization,<Delay 5>
+working for Solaris!<New>
+Excavation findings, goods
+and natural resources from
+the surface are transported
+to Solaris by the 'Ethos'.<New>
+This also includes 'human
+resources', or people used
+for manual labor and so on.<New>
+Basically, this here is the
+window between the planet's
+surface and Solaris up
+there in the skies above.<New>
+According to these records,
+there's been an enormous
+amount of goods and people
+tranferred to Solaris!"<Close><End of Block>
+<TextBlock 86 w:54 h:4>
+Elly
+"The rest is mainly about
+population distribution
+and excavation records.<New>
+The amount of detailed
+information about races and
+their biological data kind
+of concerns me though..."<Close><End of Block>
+<TextBlock 87 w:54 h:4>
+Elly
+"There are facilities in
+Solaris for accommodating
+surface dwellers... I know!<New>
+The 3rd class citizen level
+- Earth dwellers of various
+races are regularly sent
+there as manual labor."<Close><End of Block>
+<TextBlock 88 w:50 h:4>
+Elly
+"So, do you think Solaris
+is responsible for this
+attack on the 'Ethos'?"<Close><End of Block>
+<TextBlock 89 w:42 h:3>
+Elly
+"You go on ahead.<New>
+Rico and I will take
+the 'Shevite' back to
+the Yggdrasil."<Close><End of Block>
+<TextBlock 90 w:42 h:3>
+Elly
+"You go on ahead.<New>
+Bart and I will take
+the 'Shevite' back to
+the Yggdrasil."<Close><End of Block>
+<TextBlock 91 w:42 h:3>
+Elly
+"You go on ahead.<New>
+Rico and I will take
+the 'Shevite' back to
+the Yggdrasil."<Close><End of Block>
+<TextBlock 92 w:42 h:3>
+Elly
+"You go on ahead.<New>
+Citan and I will take
+the 'Shevite' back to
+the Yggdrasil."<Close><End of Block>
+<TextBlock 93 w:42 h:3>
+Elly
+"You go on ahead.<New>
+Bart and I will take
+the 'Shevite' back to
+the Yggdrasil."<Close><End of Block>
+<TextBlock 94 w:42 h:3>
+Elly
+"You go on ahead.<New>
+Citan and I will take
+the 'Shevite' back to
+the Yggdrasil."<Close><End of Block>
+<TextBlock 95 w:52 h:4>
+Elly
+"While I was checking
+the database I found
+out something...<New>
+There seems to be a person
+from 'Shevat' being held
+here by the 'Ethos'.
+We're going further on...<New>
+Bart and Rico, can
+you please rescue and
+accompany that 'Shevite'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 96 w:52 h:4>
+Elly
+"While I was checking
+the database I found
+out something...<New>
+There seems to be a person
+from 'Shevat' being held
+here by the 'Ethos'.
+We're going further on...<New>
+Bart and Rico, can
+you please rescue and
+accompany that 'Shevite'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 97 w:52 h:4>
+Elly
+"While I was checking
+the database I found
+out something...<New>
+There seems to be a person
+from 'Shevat' being held
+here by the 'Ethos'.
+We're going further on...<New>
+Bart and Rico, can
+you please rescue and
+accompany that 'Shevite'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 98 w:52 h:4>
+Elly
+"While I was checking
+the database I found
+out something...<New>
+There seems to be a person
+from 'Shevat' being held
+here by the 'Ethos'.
+We're going further on...<New>
+Bart and Rico, can
+you please rescue and
+accompany that 'Shevite'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 99 w:52 h:4>
+Elly
+"While I was checking
+the database I found
+out something...<New>
+There seems to be a person
+from 'Shevat' being held
+here by the 'Ethos'.
+We're going further on...<New>
+Bart and Rico, can
+you please rescue and
+accompany that 'Shevite'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 100 w:52 h:4>
+Elly
+"While I was checking
+the database I found
+out something...<New>
+There seems to be a person
+from 'Shevat' being held
+here by the 'Ethos'.
+We're going further on...<New>
+Bart and Rico, can
+you please rescue and
+accompany that 'Shevite'
+to the Yggdrasil?"<Close><End of Block>
+<TextBlock 101 w:50 h:4>
+Citan
+"If the 'Ethos' is indeed
+under the control of
+Solaris, as we suspect...<New>
+...then there should be
+something in here that
+would prove their
+connection to each other.<New>
+You should go on further
+and see if you can find
+any more clues."<Close><End of Block>
+<TextBlock 102 w:38 h:4>
+Citan
+"I am sure of it.<Delay 30>
+This has to be the
+'Ethos' data bank."<Close><End of Block>
+<TextBlock 103 w:54 h:4>
+Citan
+"I say...<Delay 5> a facility of
+this magnitude would even
+be hard to find in Solaris.<New>
+Why would the 'Ethos'
+have such a set up?"<Close><End of Block>
+<TextBlock 104 w:42 h:3>
+Citan
+"Hmm<Delay 5>...<Delay 10>
+the plot thickens<Delay 5>..."<Close><End of Block>
+<TextBlock 105 w:52 h:4>
+Citan
+"Here is a relatively
+recent record<Delay 5>...<New>
+It also indicates that
+there has been a large
+amount of people
+sent to Solaris<Delay 5>...<New>
+The majority of them were
+people who had come to the
+'Ethos' seeking help or
+spiritual salvation."<Close><End of Block>
+<TextBlock 106 w:30 h:3>
+Citan
+"This could be
+your answer..."<Close><End of Block>
+<TextBlock 107 w:14 h:2>
+Billy
+"What?"<Close><End of Block>
+<TextBlock 108 w:48 h:2>
+Citan
+"The 44th salvage plan."<Close><End of Block>
+<TextBlock 109 w:46 h:3>
+Bart
+"The 44th salvage plan?<New>
+Isn't that what the
+captain of the Thames
+was talking about?"<Close><End of Block>
+<TextBlock 110 w:48 h:4>
+Citan
+"This is the only plan
+that is not linked to
+Solaris...<New>
+It must have been
+initiated by the 'Ethos'
+itself, as a completely
+independent project.<New>
+It was commenced about
+...19 years ago.<Wait>
+Allow me to display
+the data..."<Close><End of Block>
+<TextBlock 111 w:54 h:4>
+Citan
+"So, from this, it appears
+that under Aquvy lies an
+ultra-ancient civilization.<New>
+They have been doing a huge
+number of test-digs and
+obtained a vast quantity of
+resources from the ruins.<New>
+Biological weapons<Delay 5>...<Delay 5>
+reactive weapons<Delay 5>...<Delay 5>
+Hmm<Delay 5>...<Delay 5>I see, so this must
+be their intention<Delay 5>...<New>
+My assessment of the
+circumstances is that the
+'Ethos' is attempting to
+break away from Solaris<Delay 5>...<New>
+And once free from its
+master,<Delay 5> it is likely it
+will attempt<Delay 5> world
+domination<Delay 5> on its own."<Close><End of Block>
+<TextBlock 112 w:54 h:4>
+Rico
+"Attempt a breakaway<Delay 5>...<Delay 5>and
+attempt world domination<Delay 5>...<Delay 5>
+That's an incredible plan."<Close><End of Block>
+<TextBlock 113 w:54 h:4>
+Citan
+"Yes, but the real 
+intentions of the 'Ethos'
+are quite obvious<Delay 5>...<New>
+The fact that they are
+not reporting the results,<Delay 5>
+let alone the site's very
+existence,<Delay 5> gives it away<Delay 5>...<New>
+The 'Ethos' is planning
+to revolt by monopolizing
+this ultra-advanced
+civilization's resources!<New>
+Actually, such rebellions
+have been quite common<Delay 5>..."<Close><End of Block>
+<TextBlock 114 w:55 h:4>
+Citan
+"Yes, that is probably it.<Wait>
+Shall we move along? There
+could be more to find yet!"<Close><End of Block>
+<TextBlock 115 w:48 h:4>
+Citan
+"It is okay. I have
+adjusted the computer to
+keep that lock open."<Close><End of Block>
+<TextBlock 116 w:46 h:4>
+Bart
+"But who would've guess
+that Solaris was behind
+the 'Ethos'?<New>
+Looks like there's more
+than meets the eye with
+this case."<Close><End of Block>
+<TextBlock 117 w:42 h:3>
+Bart
+"Yeah, so it seems...
+This is a surprise."<Close><End of Block>
+<TextBlock 118 w:46 h:4>
+Bart
+"Yeah, but even then<Delay 5>...<Delay 10>
+this place is damn well
+equipped.<Delay 10> Look at it!"<Close><End of Block>
+<TextBlock 119 w:30 h:2>
+Bart
+"So, <Delay 10>Solaris!?"<Close><End of Block>
+<TextBlock 120 w:44 h:3>
+Bart
+"What's going on here?
+What is this place?<New>
+Hey,<Delay 10> Billy!
+You know anything
+about this!?"<Close><End of Block>
+<TextBlock 121 w:46 h:3>
+Bart
+"Citan, what is that
+being displayed there?"<Close><End of Block>
+<TextBlock 122 w:42 h:4>
+Citan
+"It looks like some
+transmission record
+from somewhere<Delay 5>...<New>
+We might be able to
+find some clues here.<Delay 10>
+Wait one moment<Delay 5>..."<Close><End of Block>
+<TextBlock 123 w:50 h:4>
+Citan
+"Alright...
+Now I am able to transmit
+it to the main displays."<Close><End of Block>
+<TextBlock 124 w:54 h:4>
+Bart
+"What the heck is this!?
+Why's the 'Ethos' looking
+into this kinda stuff?<New>
+On top of that,<Opcode 1 255> that<Delay 20>
+<Opcode 1 0>Shakhan's a bishop!?<Delay 30> Wasn't
+he excommunicated from the
+'Ethos' 17 years ago!?"<Close><End of Block>
+<TextBlock 125 w:52 h:4>
+Bart
+"There's a terminal switch
+over here too.<Delay 10>
+...<Delay 10>Huh?<New>
+What's with these letters?<Delay 10>
+I can't read this."<Close><End of Block>
+<TextBlock 126 w:36 h:2>
+Bart
+"C'mon, hurry up!"<Close><End of Block>
+<TextBlock 127 w:12 h:2>
+Bart
+"Huh?"<Close><End of Block>
+<TextBlock 128 w:28 h:4>
+Bart
+"So...<Delay 20>
+what does this
+all mean?"<Close><End of Block>
+<TextBlock 129 w:54 h:4>
+Bart
+"Surely not all of them?<Delay 10>
+What happened to the ones
+that didn't become Etones?"<Close><End of Block>
+<TextBlock 130 w:34 h:2>
+Billy
+"Well<Delay 15>...<Delay 15>arrh<Delay 15>...?"<Close><End of Block>
+<TextBlock 131 w:40 h:4>
+Bart
+"It's all becoming
+clear then, eh...<Delay 10>
+How about it, Elly?"<Close><End of Block>
+<TextBlock 132 w:46 h:3>
+Rico
+"So this is the source
+of their labor supply."<Close><End of Block>
+<TextBlock 133 w:52 h:4>
+Rico
+"It's a strange feeling to
+think our history may have
+been directed by Solaris."<Close><End of Block>
+<TextBlock 134 w:26 h:2>
+Rico
+"Apparently."<Close><End of Block>
+<TextBlock 135 w:46 h:3>
+Rico
+"The 'Ethos' has been
+assaulted by someone<Delay 5>...<New>
+And in the basement<Delay 5>...<Delay 10>
+we find a Solarian
+facility<Delay 5>..."<Close><End of Block>
+<TextBlock 136 w:34 h:3>
+Rico
+"Then let's
+investigate...!?"<Close><End of Block>
+<TextBlock 137 w:46 h:4>
+Rico
+"That can't be the case
+if he's been sending in
+regular reports."<Close><End of Block>
+<TextBlock 138 w:46 h:3>
+Rico
+"It's all a front!<New>
+The 'Ethos' is really a
+subsidiary organization
+of Solaris."<Close><End of Block>
+<TextBlock 139 w:52 h:4>
+Rico
+"So, the 'Ethos' has
+been manipulating us, heh.<Delay 20>
+Anything else?"<Close><End of Block>
+<TextBlock 140 w:48 h:4>
+Rico
+"So what happened to all
+those people you've seen
+coming here for help?"<Close><End of Block>
+<TextBlock 141 w:68 h:11>
+<Opcode 14 2>      IGNAS CONFLICT STATUS: 
+37th arms supplement -  upgrading
+Aveh's Gears from level D2 to D3.
+Maintain Kislev Gears at level D2.
+Current balance = 4 : 6 ...
+     REPORT BY BISHOP SHAKHAN
+       OF THE IGNAS DIOCESE: 
+Due to the intervention of an
+uncertain factor, correction is
+needed. Progress of the operation
+has declined by 30%...<Opcode 2 40><Close><End of Block>
+<TextBlock 142 w:68 h:7>
+<Opcode 14 2><Delay 5>...<Delay 5>Completed investigation of
+the Zeboim city which sank to the
+bottom of the sea approximately
+4000 years ago<Delay 5>...<Delay 5><Wait>
+After over 100 test digs, the city
+center has been ascertained<Delay 5>...<Delay 5>
+Excavation planned to begin<Delay 5>...<Close><End of Block>
+<TextBlock 143 w:66 h:1>
+<Opcode 14 2>Report No. 50224 from Nortune's D<Close><End of Block>
+<TextBlock 144 w:64 h:6>
+Transferring all Battler data.
+Also transferring to Solaris all
+data concerning the A Class
+Battler's health conditions and
+estimated adaption rates for
+Type Y demihuman deployment...<Opcode 2 30><Close><End of Block>
+<TextBlock 145 w:66 h:1>
+<Opcode 14 1>Report No. 50227 from Nortune's D<Close><End of Block>
+<TextBlock 146 w:62 h:9>
+Sigmund's forceful expulsion of
+the 'Ethos' from the central
+district's government has made
+coordination difficult.
+Planning to eliminate Sigmund
+when no longer useful.
+Requesting permission to use
+Battling test subject Ricardo
+to implement the elimination...<Opcode 2 30><Close><End of Block>

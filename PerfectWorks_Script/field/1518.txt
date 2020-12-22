@@ -1,0 +1,184 @@
+<TextBlock 1 w:52 h:4>
+Nikolai
+"I see...<Delay 20> You're a giant
+native lifeform of this
+planet...<New>
+You're not...<Delay 20>a young
+rankar.<New>
+Species name,
+dotesque<Chu-Chu>polin
+(intellect, astronomically
+low)!<New>
+They still haven't gone
+extinct yet?<New>
+But, through genetic
+engineering, they're
+supposed to have been
+minimized in size...<New>
+Probably one of the
+survivors that had their
+Limiters removed by the
+wisemen from Shevat.<New>
+Intriguing... You'd make
+an excellent guinea pig.
+I'll use you for many
+experiments!"<Close><End of Block>
+<TextBlock 2 w:28 h:3>
+Maria
+"No <Chu-Chu>!<Delay 20>
+Don't!"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Maria
+"Are you finished talking
+to the Queen?<New>
+What do you all plan on
+doing...?<Delay 20> Are you going to
+fight alongside the people
+of Shevat against Solaris?"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Maria
+"Everyone is searching for
+a reason to live, a reason
+to fight.<New>
+To understand better the
+meaning of death...<New>
+However, that is something
+we must find on our own,
+and make it our own...<New>
+That is what my grandfather
+said. Though I don't
+understand what he meant
+by it..."<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Maria
+"It's already been 5 years
+since my grandfather
+brought me to Shevat.<New>
+Grandfather and the Queen
+always told me not to leave
+Shevat.<Delay 20> That I must not go
+to Solaris alone...<New>
+There's no way I could
+lose to any other Gear in
+my <Seibzehn>...<Delay 20>
+There's no way...!<New>
+I'll step on all those
+Solarians with
+<Seibzehn>...<Delay 10> Beat them
+down, beat them all down!!"<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Maria
+"Why does grandfather and
+the Queen stop me?<New>
+Don't they care what
+happens to father...?<Delay 20> Are
+they just going to stand by
+and watch him die?<New>
+I can't forgive those
+people who tortured father,<Delay 20>
+and those who silently
+stand by and watch...!"<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+Maria
+"Even as we speak, my
+father in Solaris may
+be..."<Close><End of Block>
+<TextBlock 8 w:10 h:2>
+Maria
+"..."<Close><End of Block>
+<TextBlock 9 w:26 h:2>
+Maria
+"<Chu-Chu>!!"<Close><End of Block>
+<TextBlock 10 w:20 h:2>
+Maria
+"Midori!?"<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Maria
+"No, you shouldn't be
+here!!<Delay 20> It's dangerous here
+so stay in..."<Close><End of Block>
+<TextBlock 12 w:20 h:2>
+Maria
+"What...?"<Close><End of Block>
+<TextBlock 13 w:10 h:2>
+Maria
+"..."<Close><End of Block>
+<TextBlock 14 w:14 h:2>
+Maria
+"...!!"<Close><End of Block>
+<TextBlock 15 w:32 h:2>
+Maria
+"<Seibzehn>!!"<Opcode 2 90><Close><End of Block>
+<TextBlock 16 w:34 h:4>
+Nikolai
+"What's with this
+astronomically
+unintellectual...<New>
+looking low level
+animal...?"<Close><End of Block>
+<TextBlock 17 w:54 h:3>
+<Chu-Chu>
+"Leave it up chu me, Maria.<Delay 20>
+No sweat!"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+<Chu-Chu>
+"Don't chu be rude to me.
+I'm not a low level animal.<Delay 20>
+I'm <Chu-Chu>."<Close><End of Block>
+<TextBlock 19 w:54 h:3>
+<Chu-Chu>
+"Well, let's get ready chu
+rumble, you bad boy!<New>
+Get your butt ready chu be
+kicked across the other end
+of the horizon!!"<Close><End of Block>
+<TextBlock 20 w:38 h:1>
+Big sister Maria...<Close><End of Block>
+<TextBlock 21 w:30 h:3>
+Midori
+"Calling...<Delay 20>
+Your father..."<Close><End of Block>
+<TextBlock 22 w:54 h:3>
+Midori
+"Uh uh...<Delay 20>
+No...<New>
+It's not...<Delay 20>that scary thing
+over there."<Close><End of Block>
+<TextBlock 23 w:52 h:3>
+Citan
+"Yes...<Delay 20>
+I have chosen my own path.<New>
+There is no turning
+back..."<Close><End of Block>
+<TextBlock 24 w:52 h:4>
+Citan
+"Indeed...<Delay 20>
+But I could not find any
+other path to choose...<New>
+If I happen to be overcome
+by the dark side...<Delay 20> At
+that point, I have
+already..."<Close><End of Block>
+<TextBlock 25 w:38 h:4>
+Citan
+"Then you too...<Delay 30>
+Please take care of
+Midori."<Close><End of Block>
+<TextBlock 26 w:42 h:3>
+Yui
+"You're going aren't
+you...<Delay 20> To Solaris..."<Close><End of Block>
+<TextBlock 27 w:52 h:3>
+Yui
+"You will be hurt...<Delay 20>
+They will also be hurt..."<Close><End of Block>
+<TextBlock 28 w:50 h:3>
+Yui
+"Don't say anything more.<Delay 20>
+I already know..."<Close><End of Block>
+<TextBlock 29 w:48 h:3>
+Yui
+"Now, here.<Delay 20>
+This is your sword...<New>
+Please...<Delay 20>
+Please come back alive!"<Close><Close><End of Block>

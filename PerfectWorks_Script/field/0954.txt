@@ -1,0 +1,117 @@
+<TextBlock 1 w:38 h:2>
+Fei!
+A Gebler Gear unit!<Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Fei
+"Let me handle this!"<Close><End of Block>
+<TextBlock 3 w:18 h:1>
+B, but...<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Fei
+"We don't have time!<New>
+While we're wasting time
+here, Bart's team is
+already on their way
+to the castle. Hurry!"<Close><End of Block>
+<TextBlock 5 w:18 h:1>
+R, roger.<Close><End of Block>
+<TextBlock 6 w:26 h:4>
+Elly
+"That Gear!?
+Don't tell me
+it's Fei!?"<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Broyer
+"Hey, is that him?
+The guy from before?"<Close><End of Block>
+<TextBlock 8 w:40 h:3>
+Renk
+"Yep.
+That's him alright."<Close><End of Block>
+<TextBlock 9 w:54 h:3>
+Broyer
+"Good.
+It's time for a rematch.<New>
+Don't fall behind, sister."<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Renk
+"You're in the way.
+Why don't you stay over
+there and just watch."<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Stratski
+"Yeah, yeah.
+We can take care of
+these guys on our own."<Close><End of Block>
+<TextBlock 12 w:38 h:2>
+Helmholz
+"Sorry about this."<Close><End of Block>
+<TextBlock 13 w:40 h:2>
+Vance
+"Get outta the way."<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Elly
+"Y, all of you! Hold!
+I haven't given out any
+orders to attack yet!"<Close><End of Block>
+<TextBlock 15 w:26 h:2>
+Vance
+"Uuaaaaaaah!"<Close><End of Block>
+<TextBlock 16 w:30 h:3>
+Renk
+"Vance! Helm!
+You two okay!?"<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Vance
+"Why am I losing to a Lamb?
+Something's wrong...
+way wrong!!"<Close><End of Block>
+<TextBlock 18 w:48 h:3>
+Renk
+"Vance!!
+Get a hold of yourself!"<Close><End of Block>
+<TextBlock 19 w:44 h:2>
+Vance
+"Oh yeah!?<New>
+I just need more!
+I need more 'Drive'!!"<Close><End of Block>
+<TextBlock 20 w:36 h:4>
+Elly
+"...<Delay 20>I can't do it.
+I can't...fight
+Fei...but..."<Close><End of Block>
+<TextBlock 21 w:48 h:5>
+Elly
+"The only thing left...<Delay 20>
+is to use the 'Drive'...<Delay 30>
+ 
+         <Opcode 14 2>But..."<Delay 250><Close><End of Block>
+<TextBlock 22 w:52 h:4>
+Renk
+"Don't!
+Anymore 'Drive' and you'll
+waste your mind!!"<Close><End of Block>
+<TextBlock 23 w:52 h:3>
+Vance
+"I don't care! I'm already
+messed up as it is!!"<Close><End of Block>
+<TextBlock 24 w:44 h:3>
+Elly
+"Stop this now, Vance.
+...<Delay 20>I'll handle it."<Close><End of Block>
+<TextBlock 25 w:10 h:1>
+Vance<Close><End of Block>
+<TextBlock 26 w:16 h:1>
+Helmholz<Close><End of Block>
+<TextBlock 27 w:20 h:2>
+Helmholz
+"Guuaahh!"<Opcode 2 60><Close><End of Block>
+<TextBlock 28 w:8 h:1>
+Renk<Close><End of Block>
+<TextBlock 29 w:12 h:1>
+Broyer<Close><End of Block>
+<TextBlock 30 w:16 h:1>
+Stratski<Close><End of Block>
+<TextBlock 31 w:14 h:2>
+Fei
+"What?"<Close><Close><End of Block>

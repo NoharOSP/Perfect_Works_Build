@@ -1,0 +1,88 @@
+<TextBlock 1 w:34 h:3>
+Dominia
+"Cease your naive
+utterances!"<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+Elly
+"I've said nothing wrong!"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Dominia
+"I have no intention of
+discussing this matter
+further with you!<New>
+Your traitorous actions
+are already apparent!
+I will beat you down
+right here!!"<Close><End of Block>
+<TextBlock 4 w:32 h:1>
+Stop it at once.<Close><End of Block>
+<TextBlock 5 w:30 h:2>
+Miang
+"Are you okay?"<Close><End of Block>
+<TextBlock 6 w:40 h:4>
+Dominia
+"Miang!
+What are you doing!?
+She is a traitor!"<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Miang
+"Such acts will not be
+allowed on a ship under
+Ramsus' command...<New>
+No matter the reason!<New>
+I have examined the
+records of the battle
+between the Haishao and
+<Vierge>...<New>
+From what I can tell,
+it was you who attacked
+first, wasn't it?<New>
+She had no choice but to
+defend herself after you
+took it upon yourself to
+attack without permission.<New>
+Above all, you were meant
+to be under Kelvena's
+command. Were you obeying
+Kelvena's orders?"<Close><End of Block>
+<TextBlock 8 w:14 h:2>
+Dominia
+"..."<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Miang
+"You are not to prosecute
+any soldier for treason
+without proper authority.<New>
+Even if you both are
+Elements.<Delay 10> Further<Delay 5>...<Delay 5><New>
+Isn't your attitude toward
+the lieutenant, nothing
+more than your own
+personal prejudice<Delay 5>...<Delay 5><New>
+Or am I mistaken?"<Close><End of Block>
+<TextBlock 10 w:34 h:3>
+Dominia
+"What!?
+I would never..."<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Miang
+"Thus far, we still cannot
+determine whether or not
+she is guilty of treason.<New>
+To investigate the truth
+of this matter further, I
+am placing the lieutenant
+under my supervision.<New>
+Is that clear?"<Close><End of Block>
+<TextBlock 12 w:40 h:3>
+Dominia
+"How dare you!
+By what authority!?"<Close><End of Block>
+<TextBlock 13 w:22 h:2>
+Miang
+"Let's go."<Close><End of Block>
+<TextBlock 14 w:40 h:4>
+Dominia
+"<Delay 5>...<Delay 30>
+Wha<Delay 5>...<Delay 5>what was that?
+Those eyes<Delay 5>...<Delay 5>"<Close><Close><End of Block>

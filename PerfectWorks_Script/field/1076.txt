@@ -1,0 +1,125 @@
+<TextBlock 1 w:48 h:3>
+Captain
+"Our war isn't over yet.<New>
+The Central District
+exists to do battle with
+the real enemy."<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Captain
+"When will we be able to
+use our real power...?"<Close><End of Block>
+<TextBlock 3 w:52 h:2>
+Why do you think we have a
+bridge here? Hah hah hah?<Close><End of Block>
+<TextBlock 4 w:48 h:2>
+Many were injured in the
+last Kislev-Aveh war.<New>
+Even my family...<New>
+War only leaves misery.<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+The power of the 'Ethos'
+still exists as strong
+as ever in Kislev...<New>
+But many ordinary citizens
+died trying to oppose the
+influence of the 'Ethos'.<Close><End of Block>
+<TextBlock 6 w:44 h:2>
+A peace treaty has
+been signed with Aveh.<New>
+Let's hope it lasts...<Close><End of Block>
+<TextBlock 7 w:52 h:2>
+Kislev and Aveh almost had
+a truce once before. <New>
+But the relationship 
+worsened due to Gebler.<Close><End of Block>
+<TextBlock 8 w:54 h:3>
+Ever hear of a red Gear?
+I hear it took out a Gebler
+unit.<New>
+If only he'd be our savior.<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Lately, the Kaiser's been
+shutting himself out from
+the world.<New>
+Imagine how happy he'd be
+if his family returned...<Close><End of Block>
+<TextBlock 10 w:54 h:3>
+The 'Ethos' has been using
+a human rights movement to
+usurp political power.<New>
+In a recent parade, there
+was an attempt on the life
+of the Kaiser.<New>
+Fortunately, they failed,
+but we don't know when they
+might strike again...<Close><End of Block>
+<TextBlock 11 w:52 h:2>
+I never went on even one
+mission.<New>
+I don't know whether to be
+happy or sad.<Close><End of Block>
+<TextBlock 12 w:54 h:3>
+Never knowing when you may
+get a mission can drive you
+nuts.<New>
+If I knew it was gonna be
+like this, I woulda stayed
+at the docks fixing Gears.<Close><End of Block>
+<TextBlock 13 w:54 h:2>
+I may not have deserved to,
+but I made it back alive.<Close><End of Block>
+<TextBlock 14 w:56 h:2>
+I'm going on a mission soon.<New>
+I may not make it back, but
+I'm still ready for it.<Close><End of Block>
+<TextBlock 15 w:52 h:2>
+Now I'm even more confused
+with the way things are.<New>
+Peace with Aveh probably
+won't last.<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+The lower ranks don't know
+how the war's going...<New>
+Some of them are panicky
+making them very hard to
+lead...<New>
+What would we do if they
+attacked now?<Close><End of Block>
+<TextBlock 17 w:44 h:2>
+Hey!<Delay 30> The train oughtta
+be coming 'round now.<Close><End of Block>
+<TextBlock 18 w:8 h:1>
+Why?<Close><End of Block>
+<TextBlock 19 w:38 h:2>
+Oh yeah...<Delay 40> You were
+in D Block, right?<Close><End of Block>
+<TextBlock 20 w:44 h:3>
+Even nameless soldiers
+have lives to live.
+Remember that...<Close><End of Block>
+<TextBlock 21 w:44 h:3>
+Even nameless soldiers
+have lives to live.
+Remember that...<Close><End of Block>
+<TextBlock 22 w:50 h:1>
+Oh, Gear maintainence...?<New>
+I quit that job.<Close><End of Block>
+<TextBlock 23 w:56 h:3>
+I don't wanna go to D Block.
+I got bad memories there.<New>
+Anyhow, they'd send me back
+if they found out I made it
+this high up.<Close><End of Block>
+<TextBlock 24 w:50 h:2>
+A Gear decimated an elite
+unit of Gears in Lahan.<Close><End of Block>
+<TextBlock 25 w:50 h:2>
+A Gear decimated an elite
+unit of Gears in Lahan.<Close><End of Block>
+<TextBlock 26 w:54 h:3>
+Actually, there was one
+survivor from Lahan.<New>
+But he seems to be going
+through a mental breakdown.
+What happened there...?<Close>
+hat happened there...?<Close><Close><End of Block>

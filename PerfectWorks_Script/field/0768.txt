@@ -1,0 +1,34 @@
+<TextBlock 1 w:52 h:4>
+Maison
+"Both Aveh and Kislev are
+devoted to excavating the
+ruins.<New>
+Each country's strength
+is increasing daily.<New>
+Even if we could get the
+help of all our comrades
+to start a revolution...<New>
+...the combined strength
+of all of us would still
+not be enough.<New>
+We would certainly be
+suppressed by Shakhan's
+guards in no time at all."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+We needed power.<New>
+We tried excavating the
+ruins using the Yggdrasil
+but it didn't work as
+well as we expected.<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Excavating requires
+tremendous amounts of
+time, labor and capital.<New>
+The best we can do with
+our sand cruiser is find
+small items in the sand.<Close><End of Block>
+<TextBlock 4 w:38 h:2>
+Citan
+"And the piracy..."<Close><End of Block>
+<TextBlock 5 w:0 h:1>
+<Close><End of Block>

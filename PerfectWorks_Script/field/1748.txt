@@ -1,0 +1,33 @@
+<TextBlock 1 w:52 h:2>
+Looks like it's controlled
+by that adjacent panel.<Close><End of Block>
+<TextBlock 2 w:14 h:2>
+    Up?
+    No<Close><End of Block>
+<TextBlock 3 w:46 h:1>
+The elevator is locked.<Close><End of Block>
+<TextBlock 4 w:44 h:1>
+Bbbbaababababbbaabu...<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:44 h:1>
+Bbbpbpbpobpobpobpobpyo<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:46 h:2>
+I...<Delay 20> kinda feel...<Delay 30> like
+eating you up...<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 10 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 12 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

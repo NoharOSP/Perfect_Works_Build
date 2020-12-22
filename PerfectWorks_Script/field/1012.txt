@@ -1,0 +1,50 @@
+<TextBlock 1 w:54 h:4>
+Hmm,<Delay 5> no matter how much
+I sleep, it's not enough.
+I still feel weak<Delay 5>...<Delay 15><New>
+The more I sleep the more
+lethargic I get.
+They say sleep makes strong
+children...is that true?<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Uuuh, now I can't fall
+asleep<Delay 5>...<Delay 15> I keep
+thinking Aveh might attack
+any minute now I can't get<New>
+to sleep<Delay 5>...<Delay 30>
+Ahh,<Delay 5>I hope this war
+ends soon.<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Now we're training<Delay 5>
+for the Kaiser Sigmund
+defense parade<Delay 5>...<Delay 5>
+and...hey, who're you?<New>
+There are a lot of high
+officials in this room,<Delay 5>
+we want to impress them
+and get promotions.<Delay 5><New>
+So beat it.<Close><End of Block>
+<TextBlock 4 w:40 h:2>
+Now,<Delay 5> start again!<Delay 15>
+Hey,<Delay 5> out of the way!<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Well,<Delay 5>they liked me
+fairly well, <Delay 5>but
+the officer pressing for
+my promotion<Delay 5> died in the<New>
+last air assault. <Close><End of Block>
+<TextBlock 6 w:50 h:3>
+That opportunity was
+right in front of me.<Delay 45>
+<Delay 5>...<Delay 5>Life is harsh.<Delay 15> At this<New>
+rate,<Delay 5> they're going to
+send me out to the battle
+field.<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Hmm, that young one
+over there<Delay 5>...<Delay 5>
+It's a shame to keep him
+a private<Delay 5>...<Delay 5><New>
+But, that one over there's
+been sitting there all
+this time. Who is he?<Close><Close><End of Block>

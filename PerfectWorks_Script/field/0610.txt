@@ -1,0 +1,249 @@
+<TextBlock 1 w:16 h:2>
+Fei
+"Whoa!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:12 h:1>
+Doc!! <Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:14 h:2>
+Citan
+"Dan!?"<Close><End of Block>
+<TextBlock 4 w:38 h:4>
+Citan
+"Are you alright!?<Delay 20> 
+What on earth are
+you doing here!?<New>
+Do you not know
+how worried Alice
+and Timothy are!?"<Close><End of Block>
+<TextBlock 5 w:42 h:4>
+Citan
+"Let us evacuate to a
+safer spot while Fei
+has their attention!"<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+Citan
+"Fei is bound...<Delay 20>
+by the dark, cruel
+destiny of god..."<Close><End of Block>
+<TextBlock 7 w:16 h:3>
+Dan
+"...<Delay 20>
+Fei...?"<Close><End of Block>
+<TextBlock 8 w:36 h:4>
+Citan
+"Come on now, Dan!
+We had better get
+away from here."<Close><End of Block>
+<TextBlock 9 w:14 h:2>
+Timothy
+"Dan!!"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Timothy
+"I knew you were still
+in the village!<Delay 20> Boy,
+I'm glad you're okay!"<Close><End of Block>
+<TextBlock 11 w:20 h:3>
+Citan
+"Oh no...!<Delay 20>
+Timothy!!"<Close><End of Block>
+<TextBlock 12 w:16 h:2>
+Timothy
+"Uh...!"<Opcode 2 20><Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Fei
+"Stop it!!
+These people have nothing
+to do with you!"<Close><End of Block>
+<TextBlock 14 w:26 h:3>
+Fei
+"No!<Delay 30>
+Lahan's...!?"<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Fei
+"It's just as doc says.
+The two of you should get
+out of the village now!<New>
+Don't worry about Dan.<Delay 10>
+Knowing him, he has
+already evacuated and
+is waiting for you!"<Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Fei
+"Yeah, don't worry.<New>
+If he still happens to be
+in the village, I'll be
+sure to save him!"<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Fei
+"Alright!
+But doc...
+You be careful, okay!!?"<Close><End of Block>
+<TextBlock 18 w:16 h:3>
+Fei
+"...<Delay 20>
+Ah...!?"<Close><End of Block>
+<TextBlock 19 w:38 h:3>
+Fei
+"...<Delay 20>
+What's with this!?"<Close><End of Block>
+<TextBlock 20 w:18 h:2>
+Fei
+"Ah...!?"<Opcode 2 10><Close><End of Block>
+<TextBlock 21 w:10 h:2>
+Fei
+"..."<Opcode 2 30><Close><End of Block>
+<TextBlock 22 w:28 h:3>
+Fei
+"Wait!!<Delay 10>
+Don't shoot!!"<Close><End of Block>
+<TextBlock 23 w:20 h:3>
+Citan
+"Alice!?
+Timothy!!"<Close><End of Block>
+<TextBlock 24 w:46 h:4>
+Citan
+"I know.<Delay 15> What on earth
+are they doing starting
+a battle here...!?<New>
+Are you all okay?"<Close><End of Block>
+<TextBlock 25 w:42 h:4>
+Citan
+"No, Timothy, wait!!<New>
+You, Alice and the
+rest of the villagers
+should evacuate to a
+safer location!"<Close><End of Block>
+<TextBlock 26 w:54 h:4>
+Citan
+"I understand how you feel,
+but leave the rest up to
+Fei and me!<New>
+The primary thing you
+should be concerned with
+is your own safety...<New>
+Timothy, your
+responsibility is
+to protect Alice!"<Close><End of Block>
+<TextBlock 27 w:36 h:3>
+Citan
+"Now, both of you,
+hurry!!"<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Citan
+"I will go check inside
+the houses to see if there
+is anyone left behind.<New>
+Fei, please go around
+the village and guide
+the stragglers to a
+safe location!"<Close><End of Block>
+<TextBlock 29 w:30 h:2>
+Citan
+"You too, Fei!"<Close><End of Block>
+<TextBlock 30 w:14 h:3>
+Citan
+"Huh...
+Fei!?"<Close><End of Block>
+<TextBlock 31 w:26 h:2>
+Citan
+"Wait, Fei!!"<Close><End of Block>
+<TextBlock 32 w:42 h:4>
+Citan
+"Do not do this, Fei!<Delay 20>
+You must not
+fight here...!!"<Close><End of Block>
+<TextBlock 33 w:14 h:2>
+Citan
+"Fei!!"<Opcode 2 20><Close><End of Block>
+<TextBlock 34 w:54 h:3>
+Citan
+"Fei...!!<Delay 30>
+The way you are fighting...<New>
+Oh no...
+This is not good!<Delay 20>
+If 'he' awakens here..."<Close><End of Block>
+<TextBlock 35 w:38 h:4>
+Citan
+"You returned to
+save your sister's
+wedding dress...!?"<Close><End of Block>
+<TextBlock 36 w:52 h:4>
+Citan
+"Heh...
+You are such a sentimental
+little boy...!"<Close><End of Block>
+<TextBlock 37 w:38 h:4>
+Citan
+"It appears that
+they are after that
+Gear Fei is in..."<Close><End of Block>
+<TextBlock 38 w:30 h:3>
+Alice
+"Doctor Uzuki!?<Delay 10>
+Fei!!"<Close><End of Block>
+<TextBlock 39 w:40 h:4>
+Alice
+"Yes!
+But it's Dan...<Delay 20>
+We can't find him!!"<Close><End of Block>
+<TextBlock 40 w:24 h:2>
+Alice
+"Timothy..."<Close><End of Block>
+<TextBlock 41 w:38 h:4>
+Alice
+"...<Delay 20>
+Yes, okay.<Delay 10>
+Thank you, Doctor!"<Close><End of Block>
+<TextBlock 42 w:50 h:3>
+Alice
+"But, Fei...<Delay 10>
+Please look out for Dan!"<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Timothy
+"Doctor!<Delay 20> They just came
+outta nowhere and landed
+right in our village...!"<Close><End of Block>
+<TextBlock 44 w:52 h:4>
+Timothy
+"I'll go look one more
+time!<Delay 20> Alice, go ahead and 
+get out of the village."<Close><End of Block>
+<TextBlock 45 w:32 h:4>
+Timothy
+"Doc,<Delay 10> you know I
+can't just leave
+Dan behind!"<Close><End of Block>
+<TextBlock 46 w:14 h:3>
+Timothy
+"...<Delay 20>
+But..."<Close><End of Block>
+<TextBlock 47 w:48 h:3>
+Timothy
+"...<Delay 30>
+I guess you're right..."<Close><End of Block>
+<TextBlock 48 w:46 h:4>
+Timothy
+"Okay!<Delay 10> Alice, let's let
+Doctor Uzuki and Fei
+handle it from here!"<Close><End of Block>
+<TextBlock 49 w:16 h:1>
+Huh...!?<Opcode 2 20><Close><End of Block>
+<TextBlock 50 w:54 h:4>
+Dan
+"I'm sorry Doctor Uzuki!
+I got out of the village
+earlier, but I came back...<New>
+... I just couldn't bear
+to think of leaving my
+sister's wedding dress
+behind here..."<Close><End of Block>
+<TextBlock 51 w:14 h:2>
+Dan
+"...!?"<Opcode 2 20><Close><End of Block>
+<TextBlock 52 w:44 h:3>
+Dan
+"Fei's...<Delay 20>
+inside that monster!?"<Close><End of Block>
+<TextBlock 53 w:30 h:3>
+Fei
+"Huff...huff...<Delay 20>
+Damn you...!!"<Close><Close><End of Block>

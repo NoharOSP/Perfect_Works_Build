@@ -1,0 +1,115 @@
+<TextBlock 1 w:46 h:4>
+Shakhan
+"There is a customary
+Tournament after the
+dedication ceremony..."<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Ramsus
+"What about the incident
+in that report?"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Shakhan
+"What? Oh, you mean the
+500-year-old mobile weapon
+excavated from the ruins?<New>
+Thanks to the help of the
+'Ethos', the repairs are
+complete.<New>
+I thought we could announce
+it on the day of the
+dedication ceremony..."<Close><End of Block>
+<TextBlock 4 w:46 h:3>
+Ramsus
+"Toys like that should
+be given to Vanderkaum.<New>
+I'm talking about the
+'Fatima Jasper'."<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Shakhan
+"I already have obtained
+one half of the crest.<New>
+But I haven't been able
+to get her to tell me
+where the other half is.<New>
+She is a rather strong-
+willed girl..."<Close><End of Block>
+<TextBlock 6 w:46 h:3>
+Ramsus
+"You're not being rough
+with her, are you?"<Close><End of Block>
+<TextBlock 7 w:44 h:4>
+Shakhan
+"Of course not. I know
+how you despise vulgar
+acts like that."<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Ramsus
+"You said that girl is the
+Holy Mother of Nisan...<Delay 50>
+Is she upstairs?"<Close><End of Block>
+<TextBlock 9 w:24 h:3>
+Shakhan
+"Yes, in the
+east tower."<Close><End of Block>
+<TextBlock 10 w:28 h:4>
+Ramsus
+"Miang, could
+it possibly be
+a 'Relic'?"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Miang
+"Yes. But there is still no
+response. There seems to be
+a barrier or something.<New>
+However, we do know from
+the 500-year-old records
+that one certainly exists
+in this vicinity.<New>
+It's probably well
+preserved too."<Close><End of Block>
+<TextBlock 12 w:42 h:3>
+Ramsus
+"...Let's meet her.<New>
+I want to talk to her
+directly. Miang, you
+come with me."<Close><End of Block>
+<TextBlock 13 w:20 h:2>
+Miang
+"Yes sir."<Close><End of Block>
+<TextBlock 14 w:42 h:4>
+Grahf
+"I believe I already
+said your tricks will
+do you no good."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Miang
+"I'm just trying to help.
+Didn't I help get those
+'shackles' off?<New>
+Now, you know the 'vessel'
+will only respond to the
+chosen one.<New>
+They don't know this.
+But...he's necessary for
+Kahr.<New>
+He's the very meaning of
+Kahr's existence."<Close><End of Block>
+<TextBlock 16 w:46 h:4>
+Miang
+"Yes, I must thank you.
+After all, you did help
+me didn't you?"<Close><End of Block>
+<TextBlock 17 w:10 h:2>
+Grahf
+"..."<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Miang
+"Was it for me?
+Or for him?
+...Or...for yourself?"<Close><End of Block>
+<TextBlock 19 w:46 h:3>
+Margie
+"No! I don't want to go
+back up there"<Close><End of Block>
+<TextBlock 20 w:24 h:1>
+No response.<Close><Close><End of Block>

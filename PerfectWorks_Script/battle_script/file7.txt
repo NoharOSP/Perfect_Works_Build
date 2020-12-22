@@ -1,0 +1,11 @@
+<TextBlock 1 w:20 h:2>
+Fei
+"Timothy!"<Close><End of Block>
+<TextBlock 2 w:32 h:3>
+Fei
+"Out of the way,
+you bastards!"<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+Fei
+"Stop it!
+I said sto-p i---t!"<Close><Close><End of Block>

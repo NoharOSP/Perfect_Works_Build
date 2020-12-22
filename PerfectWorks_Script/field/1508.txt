@@ -1,0 +1,322 @@
+<TextBlock 1 w:38 h:2>
+Maria
+"This way, please."<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+We aren't permitted to
+leave here no matter what.<New>
+So please, take good care
+of Maria for us!<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+How's the surface doing,
+lately?<New>
+I'm sure the people down
+there are living blindly
+yet peacefully as usual.<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Are you the newcomers from
+the outside?<Delay 20> Maria isn't
+with you?<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+It's truly unfortunate
+about Professor Nikolai...<New>
+But thanks to you all, we
+were able to repel the
+enemy.<New>
+Thank you.<Delay 20> And let's
+continue to work together
+to take down Solaris!<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+In hopes of making contact
+with you and your friends
+on the ocean surface...<New>
+...the shields were
+apparently dropped.<New>
+That's when they took
+advantage of the situation.<New>
+Who would've ever thought
+there would actually be a
+spy that would get in!?<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+I seriously doubt any spy
+would be able to get in.<New>
+And as I expected, since
+we have new people from
+the surface, there's
+increased security.<New>
+And you never know what
+might happen...<Delay 20> If anything
+ever happened to the Queen,
+it'd be disastrous.<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+From here on, I cannot
+allow you to freely enter
+or leave.<Delay 20> I am sorry.<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+This is the library where
+many books are gathered.<New>
+This place is packed with
+many ancient books that
+you cannot find on the
+surface.<New>
+If you're a book fanatic,
+you'd drool over books
+like our first run prints,
+limited books, autograph...<New>
+...books, banned books, and
+mountains of hard to find
+books, and more mountains
+and mountains of books...!<New>
+Ahhh! It's too much!<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Well, setting that aside...<New>
+If there's something you
+want to know about from the
+past, it'd be good to go in
+and talk to the librarians.<New>
+Don't worry.<Delay 20> It's their
+job anyway to tell the new
+people from the surface
+about the past.<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+...Sigh... Will the day
+ever come when I will be
+able to live peacefully
+on the surface?<Close><End of Block>
+<TextBlock 12 w:54 h:3>
+Welcome to Shevat.<Delay 20> We've
+already heard that you are
+our guests.<New>
+Please use this room as you
+please.<Delay 20> You are welcome to
+use the bed to rest.<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+When Maria leaves, this
+town's going to be just
+that much more lonelier.<New>
+But, I guess there's no
+way around it.<New>
+There comes a time, for
+everyone, when they must
+embark on their own path.<Close><End of Block>
+<TextBlock 14 w:54 h:4>
+Maria has truly done so
+much for us. As of now...<New>
+...many of us consider her
+to be the guardian angel
+of Shevat.<New>
+Regardless of how well
+she can control
+<Seibzehn>, she's
+only a 13 years old girl.<New>
+She's probably worried sick
+about her father who's been
+captured by Solaris...<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Who would've ever thought
+that would happen to
+Professor Nikolai...<New>
+What are we to say to
+Maria?<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Balthasar has strongly told
+Maria not to leave Shevat
+under any circumstances.<New>
+He probably said that
+because he knows that if
+provided with the chance...<New>
+...that child would
+immediately try to fly off
+to Solaris...<New>
+All by herself, to rescue
+her captured father,
+riding on the
+<Seibzehn>...<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+The powerless are maimed
+and slaughtered all because
+those crazed leaders give
+out one bloodlusted order.<New>
+It doesn't matter how
+advanced their technology
+or culture is.<New>
+It's the same thing. Not
+one thing has changed over
+the years.<New>
+It's gotten so sad, you can
+almost laugh! Hah! How long
+does this have to last...?<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+To protect Shevat from the
+outside, the ancient
+technology of the Gate is
+used.<New>
+It's fundamentally the same
+thing as the stuff Solaris
+has planted on the surface.<New>
+Even with Solaris'
+technology, the Gate cannot
+be broken through.<New>
+But at times, I come to
+think about whether this
+Gate is only for protecting
+us from Solaris?<New>
+Maybe that man left this
+Gate behind to separate us.
+To isolate us from the rest
+of the world.<New>
+If that was his intention,
+then Krelian is indeed
+dreadful... Does that man's
+resentment run that deep...<Close><End of Block>
+<TextBlock 19 w:48 h:4>
+Krelian holds the true
+power in Solaris is what
+I'm saying... The irony
+of fate.<New>
+Once, that man fought
+alongside Roni Fatima,
+Queen Zephyr and Lacan
+against Solaris...<Close><End of Block>
+<TextBlock 20 w:54 h:4>
+Uuhhh, so hungry... Is the
+meal ready yet?<Delay 20> Whatever
+you do, it all goes back to
+food. You got that? Food!<New>
+For me, I get the feeling
+I'm most alive when I'm
+eating.<Delay 20> Isn't it the same
+with you guys?<New>
+You eat to live or live to
+eat. We don't even know,
+do we?<New>
+I bet those Solarians are
+always eating all the good
+stuff.<Delay 20> Argh!
+That's unforgivable!!<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+That great war 500 years
+ago, I can remember it
+like it was yesterday...<New>
+That's something I can't
+get myself to forget.<New>
+Many lives were lost...
+Much love, many dreams,
+friends, those...<New>
+...irreplaceably important
+things in our lives were
+scarred and left to
+bleed...<New>
+Are those days going to
+return once again...?<New>
+I don't want my children or
+grandchildren to go through
+that nightmare...<Close><End of Block>
+<TextBlock 22 w:50 h:3>
+You humans are truly
+unusual living beings,
+aren't chu?<New>
+You're all like shattered
+fragments of a mirror.<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Further down is the prison.<Delay 20>
+It hasn't been used for
+several hundred years
+though.<New>
+It isn't anything worth
+seeing.<New>
+Well, I guess you could
+say we had a similar
+barbaric phase like the
+land dwellers!<Close><End of Block>
+<TextBlock 24 w:52 h:4>
+This is the tactical
+command room.<New>
+Currently, we are keeping
+track of the activities of
+both Solaris and the
+land and collecting data.<New>
+However, who would have
+thought they'd attack in
+such a way...<Delay 20> Aren't they
+being a bit hasty?<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+This is the tactical
+command room.<New>
+Currently, we are keeping
+track of the activities of
+both Solaris and the
+land and collecting data.<New>
+Lately, there's been a lot
+of unusual activity down on
+the surface...<New>
+Hmm. You think Solaris
+found something?<Close><End of Block>
+<TextBlock 26 w:48 h:4>
+Yeah, that was an
+incredible battle.<Delay 20>
+Thanks to you all, we're
+somehow still here.<New>
+Thank you so much.<Delay 20> We're
+depending on you till
+the day we bring freedom
+back to the surface.<Close><End of Block>
+<TextBlock 27 w:52 h:3>
+So you're the newcomers
+from the surface?<Delay 20> Hmm...<New>
+It seems you all aren't
+like the usual land
+dwellers we get.<New>
+But we're always happy to
+have more friends to fight
+against Solaris.<New>
+I look forward to working
+with you.<Close><End of Block>
+<TextBlock 28 w:16 h:3>
+Go down?<Delay 20>
+    Yes
+    No<Close><End of Block>
+<TextBlock 29 w:54 h:4>
+Oh my, this has gotten
+serious.<Delay 20> It seems you can't
+get in because of the
+emergency security.<New>
+But, you are all lucky.<Delay 20>
+A legendary vendor like
+me happens to be here
+through coincidence.<New>
+I've got a line of quality
+goods, sir... So, if you've
+got anything you need,<Delay 20>
+don't hesitate to ask.<Close><End of Block>
+<TextBlock 30 w:36 h:2>
+Alright, then what
+shall it be?<Close><End of Block>
+<TextBlock 31 w:32 h:4>
+    Items
+    Weapon/Armor
+    Gear Parts
+    Nevermind<Close><End of Block>
+<TextBlock 32 w:46 h:4>
+Thank you very much.<Delay 20>
+If there's anything you
+need, please come by
+again.<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Looong ago, I've heard that
+a lone Chu-chu was taken
+from the town by a wise
+man...<New>
+It looks like she's been
+well.<Delay 20> On top of that, she's
+gotten so big and grand...<New>
+It's truly a surprise!<Delay 20>
+Wonder what she was eating.<Close><End of Block>
+<TextBlock 34 w:46 h:4>
+Looong ago, I've heard
+that a lone Chu-chu was
+taken from the town by
+Wiseman...<New>
+I haven't heard what
+happened after that.<Delay 20>
+I hope that Chu-chu
+is doing well...<Close><Close><End of Block>

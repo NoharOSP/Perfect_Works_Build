@@ -1,0 +1,171 @@
+<TextBlock 1 w:50 h:4>
+Imperial Guard
+"Up ahead is the northern
+gate of A Block, but it
+is closed off due to<New>
+contruction."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Imperial Guard
+"We deeply apologize, but
+there are 3 other gates.<New>
+The west, north and the
+south. Please enter
+through any one of
+those."<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Imperial Guard
+"The sun has already gone
+down.<Delay 15> It is far too
+dangerous outside the<New>
+capital so I cannot
+permit you passage."<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Imperial Guard
+"It's unfortunate, but
+it's my job.<Delay 15> Please,
+leave the presmises<Delay 5>..."<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Imperial Guard
+"The sun has already gone
+down.<Delay 15> It is far too
+dangerous outside the<New>
+capital so I cannot
+permit you passage."<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Imperial Guard
+"It's unfortunate, but
+it's my job.<Delay 15> Please,
+leave the presmises<Delay 5>..."<Close><End of Block>
+<TextBlock 7 w:50 h:5>
+Imperial Guard
+"The sun has already gone
+down.<Delay 15> Only authorizes
+personnel are permitted
+passage. Please present<New>
+your passes."<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Imperial Guard
+"I'm sorry.<Delay 5> Regardless of
+whether you're the Champ
+or not, unauthorized<New>
+passage is not permitted.<Delay 15>
+Please, leave the
+premises<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Imperial Guard
+"The sun has already gone
+down.<Delay 15> I am sincerely
+sorry, but passage<New>
+through the front gate is
+not possible."<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Imperial Guard
+"When the sun goes down,
+of the 3 gates, the
+northern and the southern<New>
+gates are closed and it
+becomes possible to pass
+through only the western
+gate."<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Imperial Guard
+"The sun has already gone
+down.<Delay 15> I am sincerely
+sorry, but passage<New>
+through the front gate is
+not possible."<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Imperial Guard
+"When the sun goes down,
+of the 3 gates, the
+northern and the southern<New>
+gates are closed and it
+becomes possible to pass
+through only the western
+gate."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Imperial Guard
+"The Battling Champ.<Delay 15> I was
+in awe when I watched
+your title match.<Delay 15> <New>
+Please forgive my past
+discourtesy to you. The
+single stretch of road
+going north and south<New>
+will take you out of the
+Imperial capital. The
+middle is the Central
+District and to the<New>
+southwest is the Imperial
+A Block."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Imperial Guard
+"From here on,<Delay 5> prisoner
+Battlers are not
+permitted<Delay 5>...<Delay 5> <New>
+The only area you can go
+to is the Battling arena."<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Imperial Guard
+"This is a warning.<Delay 5><New>
+As long as you have that
+bomb around your neck,
+putting your foot out
+there is the last thing<New>
+you want to do. <Delay 15>
+If you don't want to die,
+don't go near it."<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Imperial Guard
+"The Battling Champ.<Delay 15> I was
+in awe when I watched
+your title match.<Delay 15> <New>
+Please forgive my past
+discourtesy to you. The
+single stretch of road
+going north and south<New>
+will take you out of the
+Imperial capital. The
+middle is the Central 
+District and to the<New>
+southwest is the Imperial
+A Block."<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Imperial Guard
+"From here on,<Delay 5> prisoner
+Battlers are not
+permitted<Delay 5>...<Delay 5> <New>
+The only area you can go
+to is the Battling arena."<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+Imperial Guard
+"This is a warning.<Delay 5><New>
+As long as you have that
+bomb around your neck,
+putting your foot out
+there is the last thing<New>
+you want to do. <Delay 15>
+If you don't want to die,
+don't go near it."<Close><End of Block>
+<TextBlock 19 w:18 h:1>
+<Opcode 1 255>World Map<Close><End of Block>
+<TextBlock 20 w:18 h:1>
+<Opcode 1 255>World Map<Close><End of Block>
+<TextBlock 21 w:54 h:2>
+<Opcode 1 255>Prisoner Detention Facility
+Imperial capital D Block<Close><End of Block>
+<TextBlock 22 w:54 h:2>
+<Opcode 1 255>Imperial capital C Block
+Recreation & Battling Arena<Close><End of Block>
+<TextBlock 23 w:42 h:2>
+<Opcode 1 255>Central District
+Kislev's Kaiser Govt.<Close><End of Block>
+<TextBlock 24 w:36 h:2>
+<Opcode 1 255>Imperial capital
+A Block North Gate<Close><End of Block>
+<TextBlock 25 w:36 h:2>
+<Opcode 1 255>Imperial capital
+A Block Front Gate<Close><End of Block>
+<TextBlock 26 w:34 h:2>
+<Opcode 1 255>Imperial capital 
+A Block West Gate<Close><End of Block>

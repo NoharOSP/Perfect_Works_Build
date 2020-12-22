@@ -1,0 +1,431 @@
+<TextBlock 1 w:32 h:1>
+Hmm <Delay 20>mmm <Delay 20>mmm <Delay 20>mmm <Opcode 2 20><Close><End of Block>
+<TextBlock 2 w:34 h:3>
+Citan
+"Fei, we can have
+fun later."<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Citan
+"Fei, what shall we do?"
+    Let the two of us go.
+    Go to the castle later.<Close><End of Block>
+<TextBlock 4 w:38 h:2>
+Bart
+"Okay, be careful."<Close><End of Block>
+<TextBlock 5 w:12 h:2>
+Bart
+"Fei!"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Bart
+"The castle's up ahead.
+If I go, it'll cause 
+problems.<New>
+If you're going to go,
+the two of you should
+go by yourselves.
+I'll wait here."<Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Bart
+"Well, let's go."<Close><End of Block>
+<TextBlock 8 w:46 h:2>
+    Stay
+    Go back underground<Close><End of Block>
+<TextBlock 9 w:34 h:2>
+Don't talk to me!
+I just choked!<Close><End of Block>
+<TextBlock 10 w:40 h:2>
+Blue flames are 
+flames of the heart.<Close><End of Block>
+<TextBlock 11 w:34 h:2>
+Don't talk to me!
+I just choked!<Close><End of Block>
+<TextBlock 12 w:38 h:2>
+Red flames are 
+flames of the body.<Close><End of Block>
+<TextBlock 13 w:32 h:3>
+You want to try?
+    Try it
+    No thanks<Close><End of Block>
+<TextBlock 14 w:45 h:3>
+Hold down the <X> button
+while pushing the R2 
+button.<Close><End of Block>
+<TextBlock 15 w:12 h:1>
+Yes...<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Hey, have you ever
+seen a flying saucer?
+    Yep
+    Nope<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Hey, have you ever
+seen a flying saucer?
+    Yes I have
+    I've ridden on it too<Close><End of Block>
+<TextBlock 18 w:42 h:4>
+...The gods fell from
+the sky, lost their
+memory and created
+everything anew...<Close><End of Block>
+<TextBlock 19 w:52 h:3>
+...People of that
+country feared war on
+earth and fled to the sky.<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+...Giants driven from
+the heavens brought fire
+on the earth...<Close><End of Block>
+<TextBlock 21 w:58 h:5>
+Yes, that is the country of
+the great ancients.
+They came from a star farther
+than heaven and created us.<New>
+They ruled this land as gods.
+But, man gained knowledge and
+strife erupted everywhere.<New>
+The ruins are proof of those
+struggles. The descendants of
+the gods fled this land of
+conflict making their place
+in the sky.<New>
+It was a peaceful place, with
+a civilization far more
+advanced than ours.<Delay 60>
+...Are you listening?
+They are still alive.<New>
+Have you noticed that
+sometimes people disappear?
+They're taken by what I call
+Sky People.<New>
+They are trained as soldiers
+to rule over the earth again.
+The time is near.<New>
+God's army will appear out of
+nowhere. Haven't you heard?
+Don't defy them, you can't
+win.<New>
+They will make a paradise
+on earth again. 
+That's what my research
+has shown about the Sky
+People and the saucer.<Close><End of Block>
+<TextBlock 22 w:42 h:3>
+...<Delay 60>That's because you
+live looking down.
+...<Delay 30>Pitiful.<New>
+The day of judgement
+is near you know!?<Close><End of Block>
+<TextBlock 23 w:50 h:3>
+!<Delay 60>
+...HUH!...<Delay 30>
+Hmph, you can't fool me.<New>
+Look people in the eye
+and say what's on your
+mind. I am a pro at that.<Close><End of Block>
+<TextBlock 24 w:50 h:4>
+Inside the tent is a 
+whole other world...<Delay 50>
+My heart is a balloon...
+flying up into the sky...<Opcode 2 50><Close><End of Block>
+<TextBlock 25 w:48 h:4>
+What!?
+How embarrassing.
+A grown man walking
+around with a balloon...<Close><End of Block>
+<TextBlock 26 w:40 h:3>
+I'm going to see the
+Tournament. Fighting
+is a man's game.<Close><End of Block>
+<TextBlock 27 w:44 h:3>
+Where's my dad? If he
+doesn't get here soon
+the festival will end.<Close><End of Block>
+<TextBlock 28 w:44 h:2>
+That's a nice red
+balloon you got there.<Close><End of Block>
+<TextBlock 29 w:40 h:3>
+The guy in front of
+that tent is giving 
+out balloons.<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+I feel so happy.
+I thought balloons were
+lame but now that I got
+one...<Close><End of Block>
+<TextBlock 31 w:38 h:3>
+I've been playing
+all day and didn't
+even get yelled at.<New>
+That's because mom
+is playing too.<Close><End of Block>
+<TextBlock 32 w:60 h:4>
+It's great that dad came back,
+but he's always telling me...
+"Do your chores!
+Do your homework!".<New>
+I have to play as much as I
+can on festival days.<Close><End of Block>
+<TextBlock 33 w:40 h:5>
+Hic!
+Drinkin' Bartweiser
+in broad daylight...
+Thash my favorite
+part of feshtivals!<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+...hic...
+It's been a while since
+I last drank outside.<Close><End of Block>
+<TextBlock 35 w:26 h:2>
+You shouldn't
+spoil kids.<Close><End of Block>
+<TextBlock 36 w:36 h:2>
+Hey daddy, buy me
+one of those toys.<Close><End of Block>
+<TextBlock 37 w:48 h:4>
+No, nope.
+Wait till the Tournament
+is over. I'll buy you
+something better then.<Close><End of Block>
+<TextBlock 38 w:42 h:3>
+Hey, you're the one
+who bought me the toy
+earlier!<Delay 50> Thanks.<Close><End of Block>
+<TextBlock 39 w:44 h:3>
+The stuff they sell in
+stores never changes.<New>
+When I grow up I wanna
+have a toy store and
+always make new toys.<Close><End of Block>
+<TextBlock 40 w:40 h:2>
+Thanks for the toy.
+I'll keep it always.<Close><End of Block>
+<TextBlock 41 w:38 h:3>
+I want the toys in 
+that store...
+I wanna play army.<Close><End of Block>
+<TextBlock 42 w:50 h:3>
+Wow!<Delay 30>
+That figurine you have...<Delay 30>
+...it's really neat.<Close><End of Block>
+<TextBlock 43 w:40 h:3>
+Wow!<Delay 30>
+That gun you have...<Delay 30>
+...it's really neat.<Close><End of Block>
+<TextBlock 44 w:40 h:3>
+I wanted that...<Delay 60>
+    Here, it's yours
+    Yeah, well...<Close><End of Block>
+<TextBlock 45 w:14 h:1>
+Really!<Close><End of Block>
+<TextBlock 46 w:46 h:4>
+I'll have to wait 
+until after the 
+Tournament.<Delay 30>
+I hope my dad wins big.<Close><End of Block>
+<TextBlock 47 w:42 h:2>
+Thanks mister.
+I'll keep it forever.<Close><End of Block>
+<TextBlock 48 w:50 h:4>
+That's it!<Delay 30>
+As thanks I'll tell
+you a secret.<New>
+I heard this from my
+grandpa...you know that
+restaurant in town with
+the fish tank?<New>
+And that treasure box in
+the tank? <Delay 50>
+Inside it...<Delay 50>there's a
+gold nugget! Good, huh?<New>
+Here's the best part...<Delay 30>
+There's a secret entrance
+to it through the
+underground waterways!<New>
+This is TOP secret, OK?
+And you're the only one
+I've told...<Delay 30>
+...really, thank you.<Close><End of Block>
+<TextBlock 49 w:52 h:5>
+<Opcode 1 255>They're toys. They're fun.
+Which do you want?
+    Toy gun      80G
+    Gear figure  120G
+    No thanks<Close><End of Block>
+<TextBlock 50 w:34 h:1>
+Not enough money.<Close><End of Block>
+<TextBlock 51 w:34 h:1>
+Not enough money.<Close><End of Block>
+<TextBlock 52 w:14 h:1>
+Thanks.<Close><End of Block>
+<TextBlock 53 w:22 h:1>
+Come again!<Close><End of Block>
+<TextBlock 54 w:38 h:4>
+Hey bud! Care for a
+'Bartweiser Lite'?
+    Sure
+    No thanks<Close><End of Block>
+<TextBlock 55 w:18 h:1>
+It's 50G.<Close><End of Block>
+<TextBlock 56 w:36 h:2>
+    Chugged a
+'Bartweiser Lite'!<Close><End of Block>
+<TextBlock 57 w:28 h:2>
+Wow! You're a 
+good drinker!<Close><End of Block>
+<TextBlock 58 w:46 h:1>
+Gained a little weight.<Close><End of Block>
+<TextBlock 59 w:30 h:2>
+What? You don't
+have any money!<Close><End of Block>
+<TextBlock 60 w:54 h:6>
+<Opcode 1 255>If you don't want to die of
+thirst then buy a drink!
+    Durian Juice  10G
+    Nisan Water   10G
+    Aveh Water    10G
+    No thanks<Close><End of Block>
+<TextBlock 61 w:44 h:1>
+Not enough money, huh.<Close><End of Block>
+<TextBlock 62 w:44 h:1>
+Not enough money, huh.<Close><End of Block>
+<TextBlock 63 w:44 h:1>
+Not enough money, huh.<Close><End of Block>
+<TextBlock 64 w:42 h:1>
+Hey, don't get crazy.<Close><End of Block>
+<TextBlock 65 w:22 h:1>
+Come again!<Close><End of Block>
+<TextBlock 66 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 67 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 68 w:48 h:4>
+<Opcode 1 255>Want some steamed cakes?
+    Spiced cake  20G
+    Iced cake    30G
+    No thanks<Close><End of Block>
+<TextBlock 69 w:30 h:1>
+That'll be 20G.<Close><End of Block>
+<TextBlock 70 w:44 h:2>
+Fei
+"Wow! That's h,h,hot!"<Opcode 2 50><Close><End of Block>
+<TextBlock 71 w:46 h:1>
+Gained a little weight.<Close><End of Block>
+<TextBlock 72 w:30 h:1>
+That'll be 30G.<Close><End of Block>
+<TextBlock 73 w:44 h:2>
+Fei
+"Brrr, it's c,c,cold."<Opcode 2 50><Close><End of Block>
+<TextBlock 74 w:52 h:1>
+You hate steamed cakes...?<Close><End of Block>
+<TextBlock 75 w:34 h:1>
+Not enough money.<Close><End of Block>
+<TextBlock 76 w:42 h:1>
+Lost a little weight.<Close><End of Block>
+<TextBlock 77 w:48 h:4>
+<Opcode 14 1>Ohmm, <Delay 30>I'm a fortune 
+teller.<Delay 30>
+My specialty is finding 
+things.<New>
+I delve into your 
+subconscious to search.
+Ohmm,<Delay 30> 1 try is 50G.<Close><End of Block>
+<TextBlock 78 w:40 h:3>
+<Opcode 1 1>Ohmmm, let me delve?
+    Delve away
+    That's okay<Close><End of Block>
+<TextBlock 79 w:50 h:2>
+<Opcode 14 1>Ohmm, <Delay 30>I sense
+you don't have any money.<Close><End of Block>
+<TextBlock 80 w:32 h:1>
+<Opcode 14 1>Ohmm, <Delay 30> good bye.<Close><End of Block>
+<TextBlock 81 w:20 h:1>
+I am back.<Close><End of Block>
+<TextBlock 82 w:28 h:1>
+I have delved.<Close><End of Block>
+<TextBlock 83 w:44 h:4>
+Ohmm<Delay 30>...a small girl...<Delay 50>
+locked away...<Delay 50>
+...in a high tower 
+to the north...<Close><End of Block>
+<TextBlock 84 w:46 h:4>
+Ohmm,<Delay 30>two points of
+a triangle...<Delay 50>
+...a huge puzzle hidden
+in the center...<New>
+one point is south 
+by southwest...<Delay 50>
+one more is in the
+south sea...<Close><End of Block>
+<TextBlock 85 w:42 h:2>
+Hey!
+Well if it isn't Fei!<Close><End of Block>
+<TextBlock 86 w:6 h:1>
+!! <Opcode 2 30><Close><End of Block>
+<TextBlock 87 w:52 h:5>
+It's me. <New>
+Moulten from the Laughing 
+Pig Pub. <Delay 30>You'd never
+know it from the way I 
+look now though...
+Ha ha ha ha.<New>
+So how's my wife and 
+daughter doing back in
+the village?<Close><End of Block>
+<TextBlock 88 w:32 h:1>
+...Ahh, <Delay 30>...um...<Opcode 2 50><Close><End of Block>
+<TextBlock 89 w:52 h:4>
+Of course, they're fine.
+That's the only thing 
+they do well.
+Ha ha ha ha.<New>
+I want to return soon
+but I still don't have
+the money to bring them
+to Aveh.<New>
+I'm done getting the
+festival ready, and now
+I've got another job.
+I'm really busy.<New>
+It'd be nice to have a
+little lodge in a small
+village like Lahan.<New>
+To get the money together,
+I started a business and
+now I'm really busy.<New>
+I want to send my girl
+to school and buy nice
+things for my wife...<New>
+I guess I'm talking
+too much.
+Ha ha ha.<Close><End of Block>
+<TextBlock 90 w:42 h:3>
+...If I don't go soon
+the boss'll get mad. <Delay 60>
+Well, see you Fei.<New>
+Say 'hi' to my wife
+and daughter for me.<Close><End of Block>
+<TextBlock 91 w:6 h:1>
+...<Opcode 2 30><Close><End of Block>
+<TextBlock 92 w:66 h:4>
+Hey, you're not from around here.
+How do you like Bledavik?
+    I like it
+    Don't like it<Close><End of Block>
+<TextBlock 93 w:38 h:2>
+Well, great.
+Enjoy the festival.<Close><End of Block>
+<TextBlock 94 w:48 h:3>
+Oh...
+That's because the war's
+put everyone on edge.<New>
+Bledavik's a really nice
+place in peace time.<Close><End of Block>
+<TextBlock 95 w:46 h:2>
+This festival is really
+great. Peace is good.<Close><End of Block>
+<TextBlock 96 w:50 h:3>
+Be careful. There are 
+lots of strange shops at 
+the festival.<Close><Close><End of Block>

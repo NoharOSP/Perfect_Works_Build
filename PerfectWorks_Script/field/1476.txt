@@ -1,0 +1,53 @@
+<TextBlock 1 w:44 h:4>
+Hello, surface people.
+Look at this picture.<Delay 20>
+It's me and my wife a
+long time ago.<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+It may be hard to believe
+but there was a time when
+we were young too,<Delay 20>
+full of dreams and hopes.<New>
+My wife died two years ago.<Delay 20>
+So, I asked the people in
+the world below to bury
+her ashes in the earth.<New>
+My time will also come
+soon...<Delay 20> Could you young
+people bury my ashes in
+the earth for me too...?<New>
+I'm tired of...waiting...
+and believing...<Delay 20>
+I want to rest in peace
+in the earth.<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+But I was wondering
+what it would be like to
+live without getting old
+like Queen Zephyr...<New>
+What has she seen,
+and heard for the past
+500 years?<New>
+Did what she see and
+hear really bring her
+happiness...?<Delay 20>
+That, I don't know.<Close><End of Block>
+<TextBlock 4 w:56 h:4>
+This country's been
+through a lot.<Delay 20>
+We no longer have enough
+strength to fight Solaris...<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+You people from the
+world below should go
+to the royal palace.<New>
+Queen Zephyr will listen
+to your wishes and show
+you the way.<New>
+You may be the new hope
+for those who're against
+Solaris...<Close><End of Block>
+<TextBlock 6 w:46 h:3>
+Do you want to go down?<Delay 10>
+    Yes
+    No<Close><Close><End of Block>

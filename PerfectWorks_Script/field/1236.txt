@@ -1,0 +1,338 @@
+<TextBlock 1 w:50 h:3>
+Fei
+"Are you always wandering
+the seas like this?"<Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Fei
+"Why is the 'Ethos'
+involved...?"<Close><End of Block>
+<TextBlock 3 w:6 h:1>
+...<Opcode 2 100><Close><End of Block>
+<TextBlock 4 w:20 h:2>
+Elly
+"Big job?"<Close><End of Block>
+<TextBlock 5 w:6 h:1>
+...<Opcode 2 100><Close><End of Block>
+<TextBlock 6 w:30 h:2>
+Bart
+"Wah ha ha ha."<Opcode 2 80><Close><End of Block>
+<TextBlock 7 w:50 h:5>
+Bart
+"They came out...
+one after another...slam,<Delay 10>
+bam,<Delay 10> crash...<Delay 10>that's 
+how it happened..."<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+Captain
+"Took you a while,<Delay 5> but
+things aren't ready yet."<Close><End of Block>
+<TextBlock 9 w:36 h:4>
+Captain
+"Hey, hurry it up!
+Don't make our
+guests wait."<Close><End of Block>
+<TextBlock 10 w:48 h:3>
+Captain
+"Sorry, there's no place
+to sit around here."<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Captain
+"But, isn't the view just
+splendid from here? This
+beer hall is Thames' pride.<New>
+You probably think it's a
+wee bit peculiar having a
+beer hall right next to the
+bridge, but tis fine by me.<New>
+If you don't take time in
+life to enjoy a drink, you
+will be swallowed by the
+waves of anxiety<Delay 5>...<New>
+...<Delay 5>But we don't have that
+problem.<Delay 5> Thanks to this
+beer hall, everyone here is
+too sloshed to worry!"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Captain
+"Well, normally.
+There is that crane that
+fished you out. <New>
+We use that or the Gears
+to pull up treasure from
+the sea. We're Salvagers.<New>
+Recently however,
+there has been almost
+no treasure...<Delay 10>
+just little things.<New>
+Since we've started the
+big job, well, that's all
+we've had."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Captain
+"Oh, that's a job for the
+'Ethos'.<New>
+The 'Ethos' is planning
+a really big salvage next.<New>
+I don't know the details
+but, looks like we'll be
+searching for some buried
+treasure."<Close><End of Block>
+<TextBlock 14 w:50 h:4>
+Captain
+"Who knows... But, we're
+dependent on the 'Ethos'
+to buy our stuff.<New>
+So, it won't look good
+if we turn the job down."<Close><End of Block>
+<TextBlock 15 w:46 h:3>
+Captain
+"Well, dinner's finally
+ready. Let's eat."<Close><End of Block>
+<TextBlock 16 w:24 h:2>
+Captain
+"Gahahahha."<Opcode 2 80><Close><End of Block>
+<TextBlock 17 w:40 h:2>
+Captain, your first
+mate is calling you.<Close><End of Block>
+<TextBlock 18 w:52 h:3>
+Bart
+"They came out...
+one after another...<New>
+slam,<Delay 10> bam,<Delay 10> crash...<Delay 10>
+that's how it happened..."<Close><End of Block>
+<TextBlock 19 w:42 h:3>
+Fei
+"Hey Bart, Sigurd was
+asking about you..."<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+Captain
+"Gahahahahaha.<New>
+Of course, if you're not 
+strong, you can't be a
+man of the sea."<Close><End of Block>
+<TextBlock 21 w:42 h:3>
+Bart
+"Yeah, check this arm
+out<Delay 15>...<Delay 15>"<Close><End of Block>
+<TextBlock 22 w:12 h:1>
+Proof!<Close><End of Block>
+<TextBlock 23 w:22 h:1>
+Of the men!<Close><End of Block>
+<TextBlock 24 w:24 h:1>
+Of the sea!!<Close><End of Block>
+<TextBlock 25 w:40 h:2>
+Captain, your first
+mate is calling you.<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Captain
+"Oi, he's interrupting
+our men of the sea story.<New>
+That Hans, he's such
+an unrefined chap.
+What does he want now?"<Close><End of Block>
+<TextBlock 27 w:38 h:2>
+Our Lady seems
+to have returned...<Close><End of Block>
+<TextBlock 28 w:38 h:3>
+Fei
+"Our Lady<Delay 10>...<Delay 30>
+Oh, you mean Elly!"<Close><End of Block>
+<TextBlock 29 w:34 h:4>
+Captain
+"Fool! 
+Why didn't you
+tell me earlier."<Close><End of Block>
+<TextBlock 30 w:14 h:1>
+Well...<Close><End of Block>
+<TextBlock 31 w:34 h:2>
+Fei
+"Well, let's go."<Close><End of Block>
+<TextBlock 32 w:50 h:4>
+Elly
+"I know you haven't eaten
+for a while but how can
+you eat so much?"<Close><End of Block>
+<TextBlock 33 w:44 h:4>
+Captain
+"Gah ha ha ha ha...
+This is great, 
+this is great. <New>
+I like how you eat.
+You weren't drifting 
+around for nuthin'..."<Close><End of Block>
+<TextBlock 34 w:18 h:1>
+Men have!<Close><End of Block>
+<TextBlock 35 w:16 h:1>
+Courage!<Close><End of Block>
+<TextBlock 36 w:38 h:1>
+And have Appetites!<Close><End of Block>
+<TextBlock 37 w:30 h:2>
+Captain
+"Gah ha hah..."<Close><End of Block>
+<TextBlock 38 w:38 h:3>
+Elly
+"?<Delay 30>
+Did we just shake?"<Close><End of Block>
+<TextBlock 39 w:54 h:2>
+Fei
+"You're just imagining it."<Close><End of Block>
+<TextBlock 40 w:38 h:2>
+Elly
+"I don't think so!"<Close><End of Block>
+<TextBlock 41 w:32 h:3>
+Captain
+"Got it.
+I'm on the way."<Close><End of Block>
+<TextBlock 42 w:48 h:4>
+Captain
+"Looks like something's
+up. Sorry, but I have to
+return to the bridge."<Close><End of Block>
+<TextBlock 43 w:36 h:3>
+Captain
+"But please, 
+enjoy yourselves."<Close><End of Block>
+<TextBlock 44 w:34 h:3>
+Fei
+"Elly, is that a 
+water spout?"<Close><End of Block>
+<TextBlock 45 w:46 h:4>
+Elly
+"It's too far, I can't 
+see very well. But it
+looks like...<Delay 10>a battle!"<Close><End of Block>
+<TextBlock 46 w:34 h:3>
+Fei
+"Let's go to the 
+bridge too."<Close><End of Block>
+<TextBlock 47 w:14 h:2>
+Elly
+"Okay."<Close><End of Block>
+<TextBlock 48 w:48 h:2>
+There's nuttin' betta
+than a drink after work.<Close><End of Block>
+<TextBlock 49 w:50 h:2>
+Hey, hey, I've never seen
+you workin' around here.<Close><End of Block>
+<TextBlock 50 w:44 h:3>
+Huh? Well, don't worry
+'bout the details
+too much.<Close><End of Block>
+<TextBlock 51 w:44 h:2>
+Well, let's toast to
+the Thames' survival!"<Close><End of Block>
+<TextBlock 52 w:32 h:2>
+Now we can drink
+some more.<Close><End of Block>
+<TextBlock 53 w:26 h:1>
+Amen to that!<Close><End of Block>
+<TextBlock 54 w:32 h:3>
+Awwwww man!
+I'd die for this
+glass of booze.<Close><End of Block>
+<TextBlock 55 w:42 h:2>
+Hey, how many times
+do you plan on dying?<Close><End of Block>
+<TextBlock 56 w:22 h:1>
+No kidding.<Close><End of Block>
+<TextBlock 57 w:36 h:2>
+But what will our 
+next job be?<Close><End of Block>
+<TextBlock 58 w:32 h:1>
+What's your job?<Close><End of Block>
+<TextBlock 59 w:36 h:2>
+Oh, this and that.
+Forget about that.<Close><End of Block>
+<TextBlock 60 w:40 h:2>
+Kids these days are
+such wimpy drinkers.<Close><End of Block>
+<TextBlock 61 w:50 h:4>
+They're such wimpy
+drinkers, that's why they
+got beat by the fishbowl
+thing.<Close><End of Block>
+<TextBlock 62 w:34 h:2>
+Hey, you're doing
+pretty good.<Close><End of Block>
+<TextBlock 63 w:46 h:2>
+ 
+Received Premier Shoes.<Close><End of Block>
+<TextBlock 64 w:26 h:2>
+Ha, you're no
+competition.<Close><End of Block>
+<TextBlock 65 w:34 h:2>
+Hey let's take it
+easy today.<Close><End of Block>
+<TextBlock 66 w:42 h:4>
+You're new!
+Want me to teach you?
+    Yeah
+    No thanks<Close><End of Block>
+<TextBlock 67 w:20 h:3>
+<Delay 10>...<Delay 10>Really?
+    Yes
+    No<Close><End of Block>
+<TextBlock 68 w:18 h:3>
+<Delay 10>...<Delay 10>Do it?
+    Yes
+    No<Close><End of Block>
+<TextBlock 69 w:30 h:1>
+Hmmph, beat it.<Close><End of Block>
+<TextBlock 70 w:50 h:1>
+Hmmph, you have no pride.<Close><End of Block>
+<TextBlock 71 w:54 h:1>
+Well, I'll teach you then!!<Close><End of Block>
+<TextBlock 72 w:46 h:1>
+Hmmph, don't regret it!<Close><End of Block>
+<TextBlock 73 w:38 h:2>
+Hey, are yush 
+lishenin' t' me...!<Close><End of Block>
+<TextBlock 74 w:42 h:2>
+Hey, yush din't drink
+yous, dat wash mine.<Close><End of Block>
+<TextBlock 75 w:46 h:2>
+Hey, do something about
+this old drunk.<Close><End of Block>
+<TextBlock 76 w:48 h:3>
+Hey, do something with 
+this old drunk. He's
+worse company than Wels.<Close><End of Block>
+<TextBlock 77 w:48 h:2>
+Nope.
+I'm not trying to drink.<Close><End of Block>
+<TextBlock 78 w:50 h:3>
+What, you didn't drink
+anything? Well then don't
+worry 'bout it.<Close><End of Block>
+<TextBlock 79 w:50 h:3>
+Hey man, I've got a good 
+cure for drinking too
+much.<Close><End of Block>
+<TextBlock 80 w:36 h:2>
+ 
+ Received Mentsol.<Close><End of Block>
+<TextBlock 81 w:32 h:3>
+Men are stupid.
+They're so happy
+with that crap.<Close><End of Block>
+<TextBlock 82 w:50 h:4>
+Men are so weak. 
+They try to forget about
+their fear of the Reapers
+with that crap.<Close><End of Block>
+<TextBlock 83 w:33 h:3>
+I am <Delay 30>the maste<~>r<Delay 45>
+The best <Delay 30>maste<~>r<Delay 45>
+Thames' <Delay 45>maste<~>r.<Close><End of Block>
+<TextBlock 84 w:40 h:1>
+Hey, I'm nosh drunk.<Close><End of Block>
+<TextBlock 85 w:50 h:3>
+I've never been on dry 
+land since I was born.<New>
+Think about it. You have 
+dirt on your feet. 
+How can you do that?<Close><End of Block>
+<TextBlock 86 w:48 h:3>
+I didn't go ashore this 
+time either. Even though
+I thought I would.<Close><Close><End of Block>

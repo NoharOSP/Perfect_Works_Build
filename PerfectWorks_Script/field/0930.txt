@@ -1,0 +1,99 @@
+<TextBlock 1 w:56 h:5>
+...The number one gate
+generator is 200 kelt
+southwest of Nortune and
+4000 sharl underground.<New>
+Its interference waves make
+guided weapon use impossible
+in this area. So up to the
+last minute the Hecht must
+be piloted manually.<New>
+After canceling stealth
+mode, you will provide
+direct escort for the Hecht
+inside the enemy defense
+zone. Any questions?<Close><End of Block>
+<TextBlock 2 w:18 h:2>
+Elly
+"Well..."<Close><End of Block>
+<TextBlock 3 w:30 h:1>
+Yes Lieutenant?<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Elly
+"I understand our escort
+orders but what is our
+main objective?"<Close><End of Block>
+<TextBlock 5 w:38 h:1>
+That is classified.<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Elly 
+"But without knowing our
+objective, our response to
+any orders will be slow.<New>
+Even if we're just ordered
+to provide cover.
+We need to at least know
+the attack objective..."<Close><End of Block>
+<TextBlock 7 w:56 h:4>
+The objective will be issued
+during the mission.
+It will be relayed directly
+to the Hecht's pilots.<Close><End of Block>
+<TextBlock 8 w:16 h:2>
+Elly
+"But..."<Close><End of Block>
+<TextBlock 9 w:52 h:5>
+Your only concern is to
+protect the Hecht from
+the enemy's anti-aircraft 
+weapons. <Delay 60>
+Any problems with that?<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Elly
+"...No...
+if that's the case..."<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:28 h:1>
+Anything else?<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+...Then this ends the 
+main briefing.<New>
+Confirm terrain, weather
+and enemy defense details
+with the information at
+hand.<New>
+The mission starts at
+1700.
+Until then wait in your
+assigned units.<New>
+I shouldn't have to
+remind you that this
+mission is a purge.<New>
+Remember, we have
+complete authority
+over the Lambs.<Delay 60> 
+Dismissed.<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Stratski
+"This sucks Lieutenant.<New>
+How can we go along with
+this? What's he mean the
+objective has nothing to
+do with us?"<Close><End of Block>
+<TextBlock 14 w:28 h:3>
+Elly
+"Be quiet!
+I'm thinking!"<Close><End of Block>
+<TextBlock 15 w:38 h:2>
+Stratski
+"Don't snap at me."<Close><End of Block>
+<TextBlock 16 w:52 h:2>
+Vance
+"I hate hysterical women."<Opcode 2 60><Close><End of Block>
+<TextBlock 17 w:44 h:4>
+Elly
+"Are you ready to take
+the consequences for
+that remark?"<Close><End of Block>
+<TextBlock 18 w:14 h:2>
+Vance
+"Uh..."<Opcode 2 30><Close><End of Block>

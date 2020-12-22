@@ -1,0 +1,67 @@
+<TextBlock 1 w:48 h:4>
+Fei
+"...Don't call me 'son'.
+Cuz you sure ain't my
+pops."<Close><End of Block>
+<TextBlock 2 w:24 h:2>
+Fei
+"You too..."<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Fei
+"...<Delay 5>Don't jinx yourself!<Delay 32>
+It's not like you<Delay 5>...<New>
+But<Delay 5>...<Delay 5>I'll take care
+of them.<Delay 10> Don't worry."<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Bart
+"Though the warship is
+outdated, you're only
+going in as a small unit.<New>
+It's going to be a tough
+fight, but you could
+change Aveh's future.
+I'm counting on you."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Bart
+"Fei,<Delay 5> it's odd for me to
+say this since I'm the one
+who got you involved<Delay 5>...<New>
+but<Delay 5>...<Delay 5>be careful,<Delay 5> okay!?"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Bart
+"If<Delay 5>...<Delay 5>anything happens
+to me<Delay 5>...<Delay 5>take care of
+Margie and them for me!"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Maitreya
+"Each squad of Gears take
+off, in order, from here
+to avoid being picked up.<New>
+We'll meet at the Rockies
+by the border tomorrow at
+1200.
+Got it?"<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+Maitreya
+"Leave it up to us,
+young master! <New>
+We'll drag Vanderkaum's 
+tail around and around!!"<Close><End of Block>
+<TextBlock 9 w:28 h:2>
+Maitreya
+"Right, son!?"<Close><End of Block>
+<TextBlock 10 w:48 h:2>
+Maitreya
+"Huh? Ha, ha, ha, ha..."<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Maitreya
+"Well, young master...we
+promise to make something
+out of this battle!"<Close><End of Block>
+<TextBlock 12 w:10 h:1>
+O.K.!<Opcode 2 32><Close><End of Block>
+<TextBlock 13 w:22 h:1>
+I'm pumped!<Opcode 2 32><Close><End of Block>
+<TextBlock 14 w:26 h:2>
+The time has
+finally come.<Opcode 2 32><Close><End of Block>

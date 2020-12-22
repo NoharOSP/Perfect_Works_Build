@@ -1,0 +1,18 @@
+<TextBlock 1 w:40 h:4>
+Fei
+"This appears to be 
+the relay station 
+control room."<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Fei
+"Let's try a few 
+things around here..."<Close><End of Block>
+<TextBlock 3 w:14 h:2>
+Fei
+"Oh..."<Close><End of Block>
+<TextBlock 4 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 5 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

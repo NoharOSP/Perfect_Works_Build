@@ -1,0 +1,138 @@
+<TextBlock 1 w:30 h:2>
+Fei
+"What's that!?"<Close><End of Block>
+<TextBlock 2 w:32 h:2>
+Fei
+"A Gebler ship?"<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+Fei
+"What is that Gear?"<Opcode 2 40><Close><End of Block>
+<TextBlock 4 w:48 h:2>
+Fei
+"...Huh? What was that?"<Opcode 2 60><Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Fei
+"Felt like an air attack.<Delay 30> 
+I'll go see..."<Opcode 2 60><Close><End of Block>
+<TextBlock 6 w:42 h:3>
+Fei
+"How did they know we
+were here?"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Fei
+"Our back's to the wall, 
+we can't run. I guess 
+we have to fight..."<Close><End of Block>
+<TextBlock 8 w:26 h:2>
+Fei
+"Here we go!"<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Fei
+"Doc,
+what should we do?"<Close><End of Block>
+<TextBlock 10 w:40 h:4>
+Elly
+"But I removed the
+recognition code and
+tracking."<Close><End of Block>
+<TextBlock 11 w:36 h:3>
+Elly
+"Looks like an air
+attack. Let's go."<Close><End of Block>
+<TextBlock 12 w:40 h:4>
+Elly
+"But I removed the
+recognition code and
+tracking."<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Elly
+"Felt like an air attack. 
+Let's go see." <Opcode 2 60><Close><End of Block>
+<TextBlock 14 w:20 h:2>
+Citan
+"Look up."<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Citan
+"That is a reflection 
+mirror.<New>
+The Ft. Jasper beam will
+be reflected off that
+and destroy the gate."<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Citan
+"Let us hurry to the
+control room while our
+pursuers are still gone." <Close><End of Block>
+<TextBlock 17 w:44 h:3>
+Miang
+"It's impossible with 
+that wound."<Close><End of Block>
+<TextBlock 18 w:40 h:4>
+Miang
+"Bridge! Secure the 
+retreat! Main gun, 
+elevation 0.8.<New>
+Support fire 30! 
+Fire!"<Close><End of Block>
+<TextBlock 19 w:16 h:4>
+Miang
+"Up?<Delay 40>  
+On no!?
+Bridge!"<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Miang
+"...It's Shevat! 
+Change heading, 180 
+degrees. Now!<New>
+All ships full speed! 
+Retreat from this 
+position!"<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+Ramsus
+"I've been waiting, Fei.<New>
+Last time at sea, I was
+rendered unconscious by
+a surprise traitor, but<New>
+that won't happen this
+time. I won't let you
+go up."<Close><End of Block>
+<TextBlock 22 w:50 h:2>
+Ramsus
+"It's not over! Not yet!"<Close><End of Block>
+<TextBlock 23 w:50 h:3>
+Ramsus
+"Let go Miang! I, I can't
+retreat now...<Delay 40><New>
+Augh...guh...!"<Close><End of Block>
+<TextBlock 24 w:30 h:3>
+Miang
+"No Commander! 
+Pull out!"<Close><End of Block>
+<TextBlock 25 w:42 h:3>
+Miang
+"It's impossible with
+your wounds."<Close><End of Block>
+<TextBlock 26 w:40 h:4>
+Miang
+"Bridge! Secure the 
+retreat! Main gun, 
+elevation 0.8. <New>
+Support fire 30! 
+Fire!"<Close><End of Block>
+<TextBlock 27 w:42 h:4>
+Miang
+"From above!?<Delay 40>
+No...it couldn't be!?
+Bridge!"<Close><End of Block>
+<TextBlock 28 w:46 h:3>
+Miang
+"...Just as I feared...
+Shevat!<New>
+Change heading, 180 
+degrees. Now! <New>
+All ships full speed! 
+Retreat from this 
+position!"<Close><End of Block>
+<TextBlock 29 w:36 h:2>
+This door is 
+completely rusted.<Close><Close><End of Block>

@@ -1,0 +1,29 @@
+<TextBlock 1 w:42 h:3>
+Fei
+"Is it the thing we
+usually use to save?"<Close><End of Block>
+<TextBlock 2 w:38 h:2>
+Fei
+"What's it for...?"<Close><End of Block>
+<TextBlock 3 w:38 h:3>
+Elly
+"What's this!?
+Memory cube data!?"<Close><End of Block>
+<TextBlock 4 w:42 h:4>
+Elly
+"This facility is the
+Integration Control
+Center?"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Citan
+"The information of all
+the people who have
+accessed the memory cube<New>
+from all over the world
+is being sent here now."<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

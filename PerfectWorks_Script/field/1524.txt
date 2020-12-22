@@ -1,0 +1,131 @@
+<TextBlock 1 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 2 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Bart
+"What!?<Delay 20>
+Collecting combat data!?<New>
+Then, this war that's
+lasted for hundreds of
+years on the Ignas
+continent...<New>
+It was just a farce 
+plotted by Solaris!?"<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Rico
+"...I see...that's how
+it was."<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Billy
+"The 'Ethos'...
+supervised...?<New>
+The land dwellers...like
+domestic animals...?<Delay 30>
+Then I was..."<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+The Limiter restrains the
+Lambs' abilities. But there
+may be a way to remove it.<New>
+Taura Melchior, he used
+to be one of the three 
+sages of Shevat.<New>
+He must know a way to
+remove the Limiter.<Close><End of Block>
+<TextBlock 7 w:54 h:5>
+The scientists of Solaris
+had bitter experiences in
+the revolt by the Lambs
+500 years ago. <New>
+So they decided to do
+some work on the Lambs.<Delay 20>
+They inserted various
+Limiters so that they would
+never be able to revolt.<New>
+For the past 500 years,
+Solaris controlled the
+Lambs' consciousness,
+behavior and all.<New>
+Naturally, Lambs don't
+know anything about it.<Delay 20>
+That makes it even more
+unforgivable!!<Delay 20> Although
+it's highly efficient...<Close><End of Block>
+<TextBlock 8 w:50 h:6>
+This land is a testing
+ground for Solaris.<Delay 20>
+Their objectives are
+genetic engineering,
+crossbreeding, and mind
+control...<New>
+They want to collect data
+for the newly created 
+organisms and general 
+combat data.<New>
+Lambs are mere livestock
+to be raised for Solaris'
+purposes.<Delay 20>
+The 'Ethos' was
+established mainly to
+control the Lambs.<Close><End of Block>
+<TextBlock 9 w:54 h:5>
+It's not a farce.<Delay 20>
+To them, it's an important
+simulation under strict
+restrictions.<New>
+Creating appropriate
+organisms that can align
+themselves with the
+'Anima Relics' is one of
+their important objectives.<New>
+In any case, the Lambs will
+continue to be Solaris'
+guinea pigs unless someone
+stops them.<Close><End of Block>
+<TextBlock 10 w:54 h:5>
+They're not doing this
+for fun, either.<Delay 20>
+It's an important
+simulation.<New>
+Creating appropriate
+organisms that can align
+themselves with the
+'Anima Relics' is one of
+their important objectives.<New>
+In any case, the Lambs will
+continue to be Solaris'
+guinea pigs unless someone
+stops them.<Close><End of Block>
+<TextBlock 11 w:52 h:5>
+You land dwellers better
+think seriously about it.<Delay 20>
+The Lambs'll continue to
+be Solaris' guinea pigs
+unless someone stops them.<Close><End of Block>
+<TextBlock 12 w:56 h:4>
+The whereabouts of the three
+sages, Melchior, Balthasar
+and Gaspar have not been
+known since the great war.<New>
+There's even a rumor that
+they lost faith in humans
+because of the tragedy in
+Nisan.<New>
+Solaris' activities have
+increased once again...<Delay 20>
+I wonder where they are
+and what they're up to.<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+A man named Krelian was
+the mastermind behind
+the planting of the
+Limiter in the Lambs.<New>
+He was originally a Lamb.
+He learned molecular
+engineering from the sage,
+Melchior, personally.<New>
+But he misused it for
+such a terrible act!<Delay 20>
+An unbelievable monster!<Close><Close><End of Block>

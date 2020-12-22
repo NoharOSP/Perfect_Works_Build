@@ -1,0 +1,15 @@
+<TextBlock 1 w:46 h:4>
+Bart
+"Rah hah hah!!
+That's the power of the
+Bart Missile!!<New>
+Even Kislev's prototype
+can't stand up to it!!"<Close><End of Block>
+<TextBlock 2 w:14 h:3>
+Bart
+"...Uh,
+hey<Delay 10>..."<Close><End of Block>
+<TextBlock 3 w:30 h:3>
+Bart
+"S-stay back<Delay 10>...<Delay 10>
+Keep away!!"<Close><Close><End of Block>

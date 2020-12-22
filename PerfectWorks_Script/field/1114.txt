@@ -1,0 +1,11 @@
+<TextBlock 1 w:30 h:1>
+No one is here.<Close><End of Block>
+<TextBlock 2 w:6 h:1>
+Oh.<Close><End of Block>
+<TextBlock 3 w:32 h:1>
+Aahhh forget it!<Close><End of Block>
+<TextBlock 4 w:36 h:2>
+What're you doing?
+We're going.<Close><End of Block>
+<TextBlock 5 w:28 h:1>
+Received 100G.<Close><Close><End of Block>

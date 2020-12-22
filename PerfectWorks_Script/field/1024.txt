@@ -1,0 +1,569 @@
+<TextBlock 1 w:52 h:5>
+Haagh!<Delay 5> Just when I thought
+I could finally earn a
+living, along comes a
+humongously strong monster
+in the sewers<Delay 5>...<Delay 5> D-oh!<Delay 5>...<Close><End of Block>
+<TextBlock 2 w:56 h:5>
+It seems that Champ beat the
+monster, but that doesn't
+mean it was the only one<Delay 5>...<Delay 30>
+I don't like the idea,<Delay 5> but
+I need the money.<Delay 10> Damn it!<Close><End of Block>
+<TextBlock 3 w:54 h:5>
+Ah,<Delay 10> should I earn my living
+in the sewers?<Delay 15>
+Or should I follow my true 
+calling in life?<Delay 15>
+Ooooh,<Delay 10> I'm sooo confused!<Close><End of Block>
+<TextBlock 4 w:52 h:5>
+I lost the preliminaries
+of the Imperial Games, but
+my prisoner ranking went
+up by 1.<Delay 15> As a result my
+reward money went up too!<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+It makes me want to try
+harder at sewer monster
+extermination!<Delay 5> Haha-!<Close><End of Block>
+<TextBlock 6 w:56 h:5>
+Today's earnings are 40
+'Hob-Jerky' and 10 'Scales'.
+You also collected 13
+'Fangs' and 'Eyeballs'.<Delay 15>
+Total reward is<Delay 10> 14595G !!<Close><End of Block>
+<TextBlock 7 w:54 h:5>
+Hmmm, as I thought! When ya
+rank goes up, suddenly ya
+motivation increases too!
+Now I'll work like mad to
+make my fortune!<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Today's earnings are<Delay 5>... 15
+'Eyeballs' and 22 'Fangs'?
+Total reward is<Delay 5>...<Delay 15>ummmh<Delay 5>...<Delay 45>
+3150G.<Delay 5> Not bad<Delay 5>...<Delay 5>perhaps.<Close><End of Block>
+<TextBlock 9 w:56 h:3>
+You also earned a lot, hey?<Delay 30>
+Oh how the money you risk ya
+life for warms the heart!<Close><End of Block>
+<TextBlock 10 w:56 h:5>
+Today's earnings are<Delay 5>...<Delay 5>
+3 'Scales' and <Delay 10>8 'Hob-Meat'?
+Total reward is 2700G
+<Delay 5>...<Delay 5>Not much is it!?<New>
+'Hob-Meat' is quite a rare
+booty around here but it
+is not registered with the
+B-Info. Center for exchange
+with prisoner class people.<Close><End of Block>
+<TextBlock 11 w:28 h:1>
+Aah<Delay 5>...<Delay 5>too bad!<Close><End of Block>
+<TextBlock 12 w:58 h:3>
+'Battling' - that's what
+Nortune is famous for!<Delay 15> Need
+parts to customize your Gear?<New>
+The best Gear parts are
+found here at the Imperial
+capital's 'B-Info. Center'!<Close><End of Block>
+<TextBlock 13 w:66 h:6>
+Just in time for the movement to
+strengthen our military power in 
+opposition to Aveh's assaults on 
+our Imperial capital<Delay 5>...<Delay 5>
+we have new lines of GEAR PARTS!<Delay 5>
+Don't miss out on getting yours!<Close><End of Block>
+<TextBlock 14 w:54 h:3>
+For all your Gear needs
+come to the B-Info. Center!<Delay 15>
+We await your next custom!<Close><End of Block>
+<TextBlock 15 w:58 h:4>
+<Delay 5>...<Delay 5>I'd like to help but
+prisoners don't have Gears,
+do they!?<Delay 15> Come back when you 
+become a 'Battler', OK!<Close><End of Block>
+<TextBlock 16 w:58 h:4>
+Operator
+"Welcome to B-Info. Center!
+We give the best prices for
+whatever spoils are on offer!<New>
+Huh-huh, and by the looks of
+it you've seen your fair
+share of battles! I expect
+you'll earn a pretty penny!"<Close><End of Block>
+<TextBlock 17 w:54 h:5>
+Operator
+"How's it going,<Delay 5> newcomer?<Delay 10>
+Think you earned your keep?<Delay 5>
+Anyway, let's see what you
+have got to exchange..."<Close><End of Block>
+<TextBlock 18 w:54 h:7>
+Operator
+"Choose items to exchange:"<Delay 30>
+<Opcode 1 255>    <=>Hob-Jerky:  50G
+    <=>Fang     : 100G
+    <=>Eyeball  : 150G
+    <=>Scale    :1200G
+    Nothing now, thanks!<Close><End of Block>
+<TextBlock 19 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 20 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 21 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 22 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 23 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 24 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 25 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 26 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 28 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 29 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 31 w:54 h:7>
+Operator
+"Choose items to exchange:"<Delay 30>
+<Opcode 1 255>    <=>Hob-Jerky:  45G
+    <=>Fang     :  90G
+    <=>Eyeball  : 125G
+    <=>Scale    :1000G
+    Nothing now, thanks!<Close><End of Block>
+<TextBlock 32 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 33 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 34 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 35 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 36 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 37 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 38 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 39 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 40 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 41 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 42 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 43 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 44 w:54 h:7>
+Operator
+"Choose items to exchange:"<Delay 30>
+<Opcode 1 255>    <=>Hob-Jerky: 30G
+    <=>Fang     : 75G
+    <=>Eyeball  :100G
+    <=>Scale    :900G
+    Nothing now, thanks!<Close><End of Block>
+<TextBlock 45 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 46 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 47 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 48 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 49 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 50 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 51 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 52 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 53 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 54 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 55 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 56 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 57 w:54 h:7>
+Operator
+"Choose items to exchange:"<Delay 30>
+<Opcode 1 255>    <=>Hob-Jerky: 20G
+    <=>Fang     : 60G
+    <=>Eyeball  : 90G
+    <=>Scale    :750G
+    Nothing now, thanks!<Close><End of Block>
+<TextBlock 58 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 59 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 60 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 61 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 62 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 63 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 64 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 65 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 66 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 67 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 68 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 69 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 70 w:54 h:8>
+Operator
+"Choose items to exchange:"<Delay 30>
+<Opcode 1 255>    <=>Hob-Jerky:  65G
+    <=>Fang     : 150G
+    <=>Eyeball  : 200G
+    <=>Scale    :1500G
+    <=>Rare Items:????G
+    Nothing now, thanks!<Close><End of Block>
+<TextBlock 71 w:54 h:7>
+Operator
+"Choose items to exchange:"<Delay 30>
+<Opcode 1 255>    <=>Hob-Meat  :200G
+    <=>Hob-Steak :450G
+    <=>Ivory :2000G
+    <=>Items :????G
+    Nothing now, thanks!<Close><End of Block>
+<TextBlock 72 w:52 h:5>
+Operator
+"<Delay 5>...<Delay 5>Oh, too bad.<Delay 15>
+Well, anyway, whenever you
+want to exchange, you know
+where we are!"<Close><End of Block>
+<TextBlock 73 w:56 h:4>
+Operator
+"Sorry but we are not able
+to deal in that booty for
+a little while.<New>
+There's an over-supply this
+time of year!<Delay 15> And somebody's
+been stocking up on them in
+the city of Bledavik <Delay 5>then...<New>
+...<Delay 5>bringing them all the way
+to the Imperial Capital and
+trying to sell them here!<Delay 15>
+That's why they got banned!"<Close><End of Block>
+<TextBlock 74 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 75 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 76 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 77 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 78 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 79 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 80 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 81 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 82 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 83 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 84 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 85 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 86 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 87 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 88 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 89 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 90 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 91 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 92 w:58 h:4>
+Operator
+"<Delay 5>...<Delay 5>Yes, we'll trade them in!<Delay 15>
+You can exchange up to 30 at
+a time!<Delay 30> Here's your payment!"<Close><End of Block>
+<TextBlock 93 w:58 h:4>
+Operator
+"Total reward money we pay<Delay 5>...<Delay 45>
+  Total reward: <Opcode 10 0>G<Delay 30>
+Keep up the good work now!"<Close><End of Block>
+<TextBlock 94 w:46 h:4>
+Operator
+"Oh?<Delay 5> But you don't have
+any to cash in!<Delay 15> Too bad
+but no goods, no deal!"<Close><End of Block>
+<TextBlock 95 w:52 h:6>
+Informer
+"B-Info. Center<Delay 5>...<Delay 10>
+What do you want to know?"<Delay 15>
+<Opcode 1 255>    Exchangeable items
+    How to exchange
+    Nothing thanks<Close><End of Block>
+<TextBlock 96 w:56 h:7>
+Informer
+"There are four exchangeable
+items, as follows<Delay 5>..."<Delay 30>
+<Opcode 1 255>  <=>Hob-Jerky:  65G
+  <=>Fangs    : 150G
+  <=>Eyeballs : 200G
+  <=>Scales   :1500G<Close><End of Block>
+<TextBlock 97 w:56 h:6>
+Also there are the following
+'Rare Items'<Delay 5>...<Delay 30>
+  <=>Hob-Meat : 200G
+  <=>Hob-Steak: 450G
+  <=>Ivory    :2000G<New>
+To make a total of 7 items
+we exchange.<Delay 15> So if you find
+any of these items during 
+your travels,<Delay 5> don't forget 
+to bring them here,<Delay 5> to the
+B-Info. Center'!"<Close><End of Block>
+<TextBlock 98 w:56 h:6>
+Informer
+"These are the top rewards
+we pay to ordinary Battlers.
+Prisoners are paid differing
+awards according to their
+Prisoner Rank!"<Close><End of Block>
+<TextBlock 99 w:56 h:5>
+Informer
+"Here at the B-Info. Center,
+we exchange G for the proof
+of extermination of sewer
+monsters.<New>
+But for 'Battlers' and other
+special customers, we also
+pay G for the 'booty' or
+proof of the extermination
+of other monsters too.<New>
+<End of Block>
+<TextBlock 100 w:56 h:5>
+'Scales','Eyeballs','Fangs'
+& 'Hob-Jerky'. So bring such
+booty here to cash them in.
+You can earn lots of G!<Close><End of Block>
+<TextBlock 101 w:88 h:130>
+Informer
+"...Well, if you're stuck
+for money, you know where to
+go! As we always say...
+It pays to 'B Info-rmed'!"<Close><Close><End of Block>

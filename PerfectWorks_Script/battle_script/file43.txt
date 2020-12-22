@@ -1,0 +1,24 @@
+<TextBlock 1 w:40 h:3>
+Elly
+"Guh...!
+... Huff... Huff..."<Close><End of Block>
+<TextBlock 2 w:46 h:2>
+"Heh heh heh heh heeeh!
+The final blow!!"<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+"Heh heh heh. Downed!"<New>
+"It's to be expected.
+Multiple fractures,
+and major blood loss...<New>
+I wouldn't be surprised
+if the cockpit is a sea
+of blood."<New>
+"At worst, death?
+Geh hah hah hah!!"<Close><End of Block>
+<TextBlock 4 w:14 h:1>
+"Heh??"<Close><End of Block>
+<TextBlock 5 w:10 h:1>
+"!!!"<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+"H, how dare you!
+You, you little...!!"<Close><Close><Close><Close><End of Block>

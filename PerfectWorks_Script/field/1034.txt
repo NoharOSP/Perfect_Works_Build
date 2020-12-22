@@ -1,0 +1,47 @@
+<TextBlock 1 w:52 h:4>
+The shower room's out of
+order permanently.<Delay 15>
+<Delay 5>...<Delay 5>Actually, it's broken.<Delay 45>
+Someone to fix it?<Delay 15> I wish.<Close><End of Block>
+<TextBlock 2 w:52 h:6>
+A-ton Weight Scale
+"Who are you gonna weigh?"
+<Opcode 1 255>    <Perso1>
+    <Perso2>
+    <Perso3>
+    Don't weigh anybody<Close><End of Block>
+<TextBlock 3 w:46 h:2>
+A-ton Weight Scale
+"<Perso1><Delay 5>...<Delay 5>right?"<Close><End of Block>
+<TextBlock 4 w:52 h:2>
+A-ton Weight Scale
+"<Delay 5>...<Delay 5>There's no one there."<Close><End of Block>
+<TextBlock 5 w:46 h:2>
+A-ton Weight Scale
+"<Perso2><Delay 5>...<Delay 5>right?"<Close><End of Block>
+<TextBlock 6 w:52 h:2>
+A-ton Weight Scale
+"<Delay 5>...<Delay 5>There's no one there."<Close><End of Block>
+<TextBlock 7 w:46 h:2>
+A-ton Weight Scale
+"<Perso3><Delay 5>...<Delay 5>right?"<Close><End of Block>
+<TextBlock 8 w:38 h:2>
+A-ton Weight Scale
+"<Delay 5>...<Delay 5>Come by again."<Close><End of Block>
+<TextBlock 9 w:48 h:3>
+A-ton Weight Scale
+"You're too light<Delay 5>...<Delay 15> You
+need more nutrition."<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+A-ton Weight Scale
+"Hmm,<Delay 5> my my.<Delay 30>...Be glad.
+<Delay 10>You're at your ideal
+weight."<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+A-ton Weight Scale
+"Hmm,<Delay 5> well well.<Delay 15> A little
+overweight,<Delay 5> but don't
+worry about it."<Close><End of Block>
+<TextBlock 12 w:50 h:2>
+A-ton Weight Scale
+"<Delay 5>...<Delay 30>Better not over eat."<Close><Close><End of Block>

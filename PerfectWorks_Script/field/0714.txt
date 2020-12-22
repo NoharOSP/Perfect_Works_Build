@@ -1,0 +1,86 @@
+<TextBlock 1 w:50 h:3>
+Fei
+"Uh, umm...<Delay 30>
+What was that all about?"<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Fei
+"What's with you guys?<New>
+Aren't you overreacting a
+little for just stealing
+a motorcycle..."<Close><End of Block>
+<TextBlock 3 w:16 h:2>
+Fei
+"Ah...!"<Close><End of Block>
+<TextBlock 4 w:32 h:3>
+Fei
+"Doc!<Delay 10>
+You're alright?"<Close><End of Block>
+<TextBlock 5 w:24 h:3>
+Fei
+"Hurry and
+do what...?"<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+Fei
+"...A, a, alright."<Close><End of Block>
+<TextBlock 7 w:40 h:4>
+Fei
+"<Delay 10>...<Delay 40>I'm fine<Delay 10>...<Delay 30>
+The Gear seems to be
+broken though<Delay 10>..."<Close><End of Block>
+<TextBlock 8 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+Citan
+"Fei!<Delay 5> I was looking
+everywhere for you."<Close><End of Block>
+<TextBlock 10 w:38 h:2>
+Citan
+"Yes, of course..."<Close><End of Block>
+<TextBlock 11 w:3 h:1>
+!<Close><End of Block>
+<TextBlock 12 w:42 h:3>
+Citan
+"Looks like we do not
+have time to chat."<Close><End of Block>
+<TextBlock 13 w:26 h:2>
+Citan
+"Fei, hurry!"<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Citan
+"I cannot use <Weltall>
+very well! Only you can
+use its full potential... <New>
+Hurry up and get on
+board!"<Close><End of Block>
+<TextBlock 15 w:36 h:3>
+Citan
+"Fei!
+Are you alright!?"<Close><End of Block>
+<TextBlock 16 w:12 h:2>
+Citan
+"Fei!"<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Citan
+"I am so glad that you are
+unharmed.<New>
+The Gear had only temporary
+repairs made on it. They
+were not made to survive an
+outright battle like that."<Close><End of Block>
+<TextBlock 18 w:12 h:2>
+Citan
+"Fei?"<Close><End of Block>
+<TextBlock 19 w:36 h:4>
+Citan
+"Oh no!
+The Aveh Military!
+Not now...!"<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+Citan
+"Fei, I think we should
+remain calm<Delay 15>...<Delay 15>
+<Delay 15>...<Delay 40>?"<Close><End of Block>
+<TextBlock 21 w:12 h:2>
+Citan
+"Fei?"<Close><End of Block>

@@ -1,0 +1,4 @@
+<TextBlock 1 w:70 h:3>
+<Opcode 1 255>There's probably a guard outside...
+    Open the door
+    Just take a peak<Close><Close><End of Block>

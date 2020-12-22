@@ -1,0 +1,221 @@
+<TextBlock 1 w:50 h:3>
+Ah, Bartholomew. <Delay 10>
+"The Gear are all aboard 
+the Yggdrasil."<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Good work. <Delay 10>
+Without your backup, this 
+base wouldn't be here. 
+Let's board the Yggdrasil.<Close><End of Block>
+<TextBlock 3 w:30 h:1>
+Thank you sir!!<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+This Gear is called
+<Heimdal>. It was
+excavated together
+with <Brigandier>.<New>
+But we could never get it
+to run very well. Three
+test pilots were injured
+in trying. <New>
+I guess no one can
+tame it.<Close><End of Block>
+<TextBlock 5 w:60 h:2>
+<Brigandier> is a star
+of hope for us pirates.<New>
+The bright red body-color
+represents Bart's ambition.<New>
+But since Bart always overdoes
+things, maintenance is a pain.<Close><End of Block>
+<TextBlock 6 w:68 h:3>
+This is a mass produced model
+based on Bart's <Brigandier>,
+that's simplified to reduce costs.<New>
+If you tune them up they're
+pretty good.<Delay 10> That's when we 
+can really show our skills.<Close><End of Block>
+<TextBlock 7 w:44 h:3>
+No, the specs on this
+Gear are unknown...<Delay 10><New>
+And this kind of stuff
+isn't anything I can
+understand.<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+Looks like someone really
+knew how to tune up your
+Gear...<New>
+Attack,<Delay 10> defense,<Delay 10> 
+Ether amplification...<Delay 10> 
+an exceptionally balanced
+machine.<New>
+But we don't seem to be
+able to dismantle some
+parts to see what they
+do...<New>
+I guess you could call
+them<Delay 5>...<Delay 10>black boxes.<New>
+There are quite a number
+of them on this machine<Delay 5>...<Delay 10> 
+Do you have any idea what
+they actually do?<Close><End of Block>
+<TextBlock 9 w:14 h:2>
+Fei
+"<Opcode 14 2>No..."<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+This is your Gear,
+right?<Delay 10> This one's
+worth tinkering with!<New>
+It makes use of some
+incredible technology.<New>
+I'm gonna look over it
+a bit, so can you come
+back later?<Close><End of Block>
+<TextBlock 11 w:44 h:4>
+Finally all the Gears
+are on board the
+Yggdrasil.<Delay 10>
+Yours is on board too.<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Boss, let us mess with 
+the Gears a little...
+Craftsmen have to keep
+practicing their skills!<Close><End of Block>
+<TextBlock 13 w:32 h:2>
+I'm going to the
+next hangar.<Close><End of Block>
+<TextBlock 14 w:26 h:1>
+Thanks, Fei!!<Close><End of Block>
+<TextBlock 15 w:32 h:2>
+Wow!<Delay 10>
+Cleaning is fun!<Close><End of Block>
+<TextBlock 16 w:16 h:1>
+Thanks!!<Close><End of Block>
+<TextBlock 17 w:42 h:2>
+When I grow up,
+I wanna be a pilot...<Close><End of Block>
+<TextBlock 18 w:32 h:3>
+Citan
+"Maison, does
+this Gear work?"<Close><End of Block>
+<TextBlock 19 w:32 h:3>
+Maison
+"Pardon? <Delay 10>Yes,
+it works but..."<Close><End of Block>
+<TextBlock 20 w:16 h:1>
+Alright!<Close><End of Block>
+<TextBlock 21 w:44 h:4>
+Maison
+"Out of the question! <Delay 10>
+It is still under
+maintenance.<New>
+It is nowhere near 
+operational..."<Close><End of Block>
+<TextBlock 22 w:46 h:2>
+Sigurd
+"It's alright, Maison."<Opcode 2 40><Close><End of Block>
+<TextBlock 23 w:40 h:4>
+Maison
+"Master Sigurd!<Delay 10>
+But, for a gent like
+the good doctor...?"<Close><End of Block>
+<TextBlock 24 w:36 h:3>
+Sigurd
+"It's fine.<Delay 10>
+He'll be okay.<New>
+It may not even be
+enough for him."<Close><End of Block>
+<TextBlock 25 w:34 h:1>
+Master Sigurd...?<Close><End of Block>
+<TextBlock 26 w:44 h:4>
+Citan
+"Well...<Delay 10>
+It has been 5 years
+since I last fought...<New>
+I hope I can still
+remember..."<Close><End of Block>
+<TextBlock 27 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 28 w:10 h:1>
+Fei! <Opcode 2 30><Close><End of Block>
+<TextBlock 29 w:30 h:3>
+Fei
+"Sigurd, doc...<Delay 10>
+What's up...?"<Close><End of Block>
+<TextBlock 30 w:28 h:4>
+Sigurd
+"We would like
+to have a word
+with you..."<Close><End of Block>
+<TextBlock 31 w:22 h:2>
+Fei
+"Oh, okay!"<Close><End of Block>
+<TextBlock 32 w:32 h:3>
+Bart
+"...<Delay 10>
+Th,<Delay 10> th,<Delay 10> thank...<Delay 10><Close><End of Block>
+<TextBlock 33 w:20 h:3>
+Bart
+"Thanks...<Delay 10>
+Fei."<Close><End of Block>
+<TextBlock 34 w:18 h:2>
+Fei
+"Bart..."<Close><End of Block>
+<TextBlock 35 w:52 h:4>
+Sigrud
+"Thank you, Fei.<Delay 10>
+Don't know how we could 
+have done it without you."<Close><End of Block>
+<TextBlock 36 w:30 h:4>
+Fei
+"I...<Delay 10>still
+don't know what
+I should do."<Close><End of Block>
+<TextBlock 37 w:16 h:2>
+Sigurd
+"Fei..."<Close><End of Block>
+<TextBlock 38 w:42 h:4>
+Fei
+"What Bart's doing
+isn't for his own
+gain.<New>
+He walks the path
+he believes in, one
+step at a time...<New>
+...wishing only for
+the happiness of
+those around him. I,
+on the other hand..."<Close><End of Block>
+<TextBlock 39 w:12 h:2>
+Sigurd
+"..."<Close><End of Block>
+<TextBlock 40 w:48 h:4>
+Fei
+"I thought I didn't have
+a path that I could take
+laid out before me.<New>
+But like he said, that's
+just running away. <Delay 10>
+I must find my own path.<Delay 10>
+Right, doc?"<Close><End of Block>
+<TextBlock 41 w:52 h:4>
+Fei
+"If Bart wishes, I'll 
+cooperate with you guys.<Delay 10>
+That's all I can do now.<New>
+But I think I'll find
+the path I should follow
+as I help others like you.<New>
+Moreover, I can't turn my
+back and ignore what such
+a terrible group of people
+are doing to others."<Close><End of Block>
+<TextBlock 42 w:26 h:2>
+Sigurd
+"Thanks Fei."<Close><End of Block>
+<TextBlock 43 w:36 h:3>
+<Opcode 1 255>Go up to the dock?
+    Go up
+    No<Close><End of Block>
+<TextBlock 44 w:0 h:1>
+<Close><End of Block>

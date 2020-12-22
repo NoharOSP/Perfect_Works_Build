@@ -1,0 +1,34 @@
+<TextBlock 1 w:50 h:3>
+Is that waitress stupid? 
+She said she has to go 
+to block off the exit...<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+My big brother worked in
+that restaurant.
+He caught so many bilkers
+who try to dine and dash.<New>
+He said he could tell who
+would do that kinda thing.
+Since he went into the army
+there's a new waitress...<New>
+I want to make it easy for
+him to get his job back
+when he returns.<New>
+I mainly bug the waitress
+and help the bilkers who
+dine and dash get away.<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+My big brother came back
+but he's not working at
+the restaurant.<New>
+I'm doing my best to get
+him a job soon. He says
+he's gonna be a gardener.<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Yep, home is best.
+No enemy bullets or
+sergeant's fists. And
+best of all is my family.<New>
+The army taught me that
+you have to do what you
+want while you can.<Close><Close><End of Block>

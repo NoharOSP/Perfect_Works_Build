@@ -1,0 +1,217 @@
+<TextBlock 1 w:24 h:2>
+Fei
+"What's up?"<Close><End of Block>
+<TextBlock 2 w:30 h:2>
+Fei
+"You moved it?"<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+Elly
+"What's wrong?"<Close><End of Block>
+<TextBlock 4 w:30 h:2>
+Elly
+"You moved it?"<Close><End of Block>
+<TextBlock 5 w:30 h:2>
+Fei
+"What's wrong?"<Close><End of Block>
+<TextBlock 6 w:36 h:3>
+Citan
+"Young master was
+operating that..."<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Bart
+"No doubt...<Delay 30>
+it's something...<Delay 30>
+I accidentally pushed."<Close><End of Block>
+<TextBlock 8 w:30 h:2>
+Billy
+"What's wrong?"<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Billy
+"Probably because of your
+skillful piloting."<Close><End of Block>
+<TextBlock 10 w:22 h:2>
+Rico
+"What now?"<Close><End of Block>
+<TextBlock 11 w:42 h:3>
+Rico
+"Hey, 
+what are you saying?"<Close><End of Block>
+<TextBlock 12 w:30 h:2>
+<Chu-Chu>
+"What's wrong?"<Close><End of Block>
+<TextBlock 13 w:48 h:2>
+<Chu-Chu>
+"Hey, you're moving it!"<Close><End of Block>
+<TextBlock 14 w:16 h:2>
+Emeralda
+"...?"<Close><End of Block>
+<TextBlock 15 w:16 h:2>
+Emeralda
+"...?"<Close><End of Block>
+<TextBlock 16 w:30 h:2>
+Maria
+"What's wrong?"<Close><End of Block>
+<TextBlock 17 w:42 h:3>
+Maria
+"Isn't it because you
+were controlling it?"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Tolone
+"Alright already.<New>
+So you were serious!?
+You're really gonna reflect
+a big laser off a mirror...
+Pretty stupid."<Close><End of Block>
+<TextBlock 19 w:50 h:2>
+Tolone
+"Angling it...?<New>
+...for the drop ratio?<New>
+Drop ratio in the
+atmosphere will be huge."<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+Tolone
+"...Don't you even say a
+word to me!<New>
+...whatever you're up to
+Tolone's Gear 'Skyghene'
+will surely crush you!"<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Tolone
+"Hmmph,<Delay 30> I can't believe
+you'd even think of such a
+stupid plan."<Close><End of Block>
+<TextBlock 22 w:54 h:3>
+Tolone
+"Keep talking while you
+can.<New>
+Dominia and Kelvena should
+have taken over Babel Tower
+by now.<New>
+You get outta here now!"<Close><End of Block>
+<TextBlock 23 w:48 h:3>
+Seraphita
+"Tolone, Tolone!!
+Oh, oh, there you are!!"<Close><End of Block>
+<TextBlock 24 w:52 h:3>
+Seraphita
+"Inverted pull-ups are
+really tough!!!<New>
+But, I can do 300 pull-ups
+you know."<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Seraphita
+"Oh yeah, yeah!
+That's it! I remember!<New>
+It's tofu soup,<Delay 30> right?"<Close><End of Block>
+<TextBlock 26 w:42 h:2>
+Seraphita
+"Who'd have thought?"<Close><End of Block>
+<TextBlock 27 w:22 h:2>
+Seraphita
+"...Good!!"<Close><End of Block>
+<TextBlock 28 w:38 h:2>
+Bart
+"Now Billy, shoot!"<Close><End of Block>
+<TextBlock 29 w:38 h:2>
+Rico
+"Now Billy, shoot!"<Close><End of Block>
+<TextBlock 30 w:38 h:2>
+<Chu-Chu>
+"Billy, shoot now!"<Close><End of Block>
+<TextBlock 31 w:44 h:2>
+Maria
+"Now Billy, shoot it!"<Close><End of Block>
+<TextBlock 32 w:52 h:3>
+Bart
+"Hey! <Delay 30>
+Never know until you try."<Close><End of Block>
+<TextBlock 33 w:46 h:3>
+Rico
+"We'll find out if it's
+dumb or not right now."<Close><End of Block>
+<TextBlock 34 w:38 h:3>
+<Chu-Chu>
+"Don't chu make fun
+of Bart's Jasper!"<Close><End of Block>
+<TextBlock 35 w:54 h:3>
+Maria
+"You don't know if you
+don't try it.<New>
+Aren't you the ones who are
+underestimating the land
+dwellers?"<Close><End of Block>
+<TextBlock 36 w:40 h:2>
+Bart
+"Calm down and aim!"<Close><End of Block>
+<TextBlock 37 w:28 h:4>
+Rico
+"Take it easy.
+There's still 
+energy left."<Close><End of Block>
+<TextBlock 38 w:36 h:3>
+<Chu-Chu>
+"Billy, you'll get
+the next one!!"<Close><End of Block>
+<TextBlock 39 w:54 h:3>
+Maria
+"Don't worry about it.
+There's still energy left."<Close><End of Block>
+<TextBlock 40 w:30 h:2>
+Bart
+"They're back!"<Close><End of Block>
+<TextBlock 41 w:30 h:2>
+Rico
+"They're back!"<Close><End of Block>
+<TextBlock 42 w:32 h:2>
+<Chu-Chu>
+"They are back."<Close><End of Block>
+<TextBlock 43 w:42 h:2>
+Maria
+"Those two are back."<Close><End of Block>
+<TextBlock 44 w:32 h:1>
+<Opcode 1 255>To the Yggdrasil<Close><End of Block>
+<TextBlock 45 w:32 h:1>
+<Opcode 1 255>To the Yggdrasil<Close><End of Block>
+<TextBlock 46 w:32 h:1>
+<Opcode 1 255>To the Yggdrasil<Close><End of Block>
+<TextBlock 47 w:32 h:1>
+<Opcode 1 255>To the Yggdrasil<Close><End of Block>
+<TextBlock 48 w:32 h:1>
+<Opcode 1 255>To the Yggdrasil<Close><End of Block>
+<TextBlock 49 w:32 h:1>
+<Opcode 1 255>To the Yggdrasil<Close><End of Block>
+<TextBlock 50 w:32 h:1>
+<Opcode 1 255>To the Yggdrasil<Close><End of Block>
+<TextBlock 51 w:48 h:2>
+Bart
+"We've surfaced!<New>
+Next open the sky dome."<Close><End of Block>
+<TextBlock 52 w:18 h:2>
+Bart
+"...Huh?"<Close><End of Block>
+<TextBlock 53 w:14 h:2>
+Bart
+"What?"<Close><End of Block>
+<TextBlock 54 w:42 h:3>
+Bart
+"Huh?<Delay 30> No,<Delay 30>
+it's already moving."<Close><End of Block>
+<TextBlock 55 w:32 h:2>
+Bart
+"No.<New>
+That's not why."<Close><End of Block>
+<TextBlock 56 w:48 h:2>
+Ft. Jasper's already up.<New>
+You'd better go to Babel
+and check the systems.<Close><End of Block>
+<TextBlock 57 w:32 h:3>
+Tolone
+"Ha!<Delay 30>
+Lambs' taste..."<Close><End of Block>
+<TextBlock 58 w:30 h:2>
+Seraphita
+"...Taste...!!"<Close><End of Block>
+<TextBlock 59 w:34 h:3>
+Tolone
+"I thought I told
+you to shut up!"<Close><Close><End of Block>

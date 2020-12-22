@@ -1,0 +1,100 @@
+<TextBlock 1 w:42 h:3>
+Fei
+    I'll help!
+    Uh, better not...<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Fei
+"Doc, do you know
+how to operate it!?"<Close><End of Block>
+<TextBlock 3 w:14 h:1>
+Errr...<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Citan
+"Are you going to think
+ahead? Or are you going
+to help?"<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Citan
+"Well then, shall we go?"
+    Yeah, let's go
+    Hang on a sec.<Close><End of Block>
+<TextBlock 6 w:42 h:4>
+Citan
+"Well everyone, this
+could be dangerous,
+so please be seated."<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Citan
+"Call out if you are all
+ready."<Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Citan
+"...<Delay 30>Uh, let us just say
+I accepted it."<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Citan
+"Just stay calm for a
+little longer."<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+Citan
+"I think we can do
+this."<Close><End of Block>
+<TextBlock 11 w:52 h:3>
+Citan
+"...<Delay 60>
+Shall we see if it works?"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Citan
+"Not really...<Delay 30>
+But, Fei...<New>
+You were not thinking of
+stealing this big thing
+without knowing how to
+operate it, were you?"<Close><End of Block>
+<TextBlock 13 w:34 h:2>
+Citan
+"Well, anyway..."<Close><End of Block>
+<TextBlock 14 w:40 h:2>
+Citan
+"Is everyone ready?"<Close><End of Block>
+<TextBlock 15 w:32 h:3>
+Citan
+"It will...<Delay 30>
+shake a little."<Close><End of Block>
+<TextBlock 16 w:10 h:2>
+Rico
+"..."<Close><End of Block>
+<TextBlock 17 w:44 h:3>
+Rico
+"Hmph. So when are you
+going to let me down?"<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Rico
+"Get a load of this!
+I can't believe they'd
+make such a thing..."<Close><End of Block>
+<TextBlock 19 w:26 h:3>
+Rico
+"Couldn't you
+tell us..."<Delay 60><Close><End of Block>
+<TextBlock 20 w:42 h:4>
+Elly
+"So they were this
+close to having it up
+and operational..."<Close><End of Block>
+<TextBlock 21 w:32 h:2>
+Elly
+"Fei, let's go."<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+Hammer
+"Bro, this thing is
+incredible... Boy
+is this exciting."<Close><End of Block>
+<TextBlock 23 w:50 h:3>
+Hammer
+"We're almost there, bro.
+I'm a little nervous."<Close><End of Block>
+<TextBlock 24 w:32 h:3>
+Hammer
+"...<Delay 15>
+a bit sooner..."<Close><Close><End of Block>

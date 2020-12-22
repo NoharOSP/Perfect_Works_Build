@@ -1,0 +1,26 @@
+<TextBlock 1 w:44 h:4>
+Fei
+"This is the Tower of
+Babel...<Delay 40>
+The path to heaven..."<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Fei
+"Wah...<Delay 30>I can't even 
+see the top."<Opcode 2 40><Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Fei
+"Why on earth was this 
+huge thing built here?"<Close><End of Block>
+<TextBlock 4 w:36 h:3>
+Fei
+"Darn!
+The 'Ethos' seal!"<Close><End of Block>
+<TextBlock 5 w:36 h:4>
+Fei
+"Damn, this sucks!
+If we can't break 
+this seal..."<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Fei
+"Crap! What, what's this?<Delay 40> 
+What is this tower...?"<Close><Close><End of Block>

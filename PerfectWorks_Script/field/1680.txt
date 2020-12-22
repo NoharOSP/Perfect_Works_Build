@@ -1,0 +1,114 @@
+<TextBlock 1 w:10 h:1>
+Fei!!<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:14 h:2>
+Elly
+"...!!"<Close><End of Block>
+<TextBlock 3 w:56 h:4>
+Bart
+"It's dangerous to move in
+a big group.<Delay 10>
+We'll take separate routes."<Close><End of Block>
+<TextBlock 4 w:16 h:2>
+Citan
+"Right."<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Hammer
+"Don't worry, I'm good at 
+gathering info!"<Close><End of Block>
+<TextBlock 6 w:56 h:4>
+Rico
+"You just like to watch 
+others' misery!!<Delay 10>
+You'll just get in the way."<Close><End of Block>
+<TextBlock 7 w:32 h:3>
+Hammer
+"Forgive me...!!<Delay 10>
+Sorry!!"<Close><End of Block>
+<TextBlock 8 w:20 h:2>
+Citan
+"Maria..."<Close><End of Block>
+<TextBlock 9 w:24 h:3>
+Maria
+"Yes,<Delay 10>
+what is it?"<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Citan
+"The disorder <Seibzehn>
+caused when breaking the
+gate has almost cleared up.<New>
+You and everyone else
+must leave before the
+enemy detection system
+activates again.<New>
+We will take care of
+the rest."<Close><End of Block>
+<TextBlock 11 w:24 h:3>
+Maria
+"Okay, <Delay 10>
+be careful."<Close><End of Block>
+<TextBlock 12 w:52 h:3>
+Fei
+"Seems like the world's
+upside down, it's creepy."<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Elly
+"Solaris' gravity is the
+opposite that of the land.<New>
+We don't have time to
+explain, you'll get used
+to it.<New>
+It's uncomfortable for us
+on the surface at first."<Close><End of Block>
+<TextBlock 14 w:38 h:2>
+Fei
+"Hey, what's this?"<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Elly
+"It looks like some kind
+of storage or distribution
+center. I'm not sure but...<New>
+...it's probably used to
+ship off extra supplies,
+materials and fuel
+gathered from the surface.<New>
+These are the technology
+and products you land
+dwellers receive from
+the 'Ethos'..."<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Citan
+"For now, shall we gather 
+some information..."<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Fei
+"Is this a container from
+the transport system Elly
+was talking about?"<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Elly
+"Well...I'm not sure.<Delay 10> 
+But I think I've seen 
+this before..."<Close><End of Block>
+<TextBlock 19 w:32 h:3>
+Fei
+"Shall we...<Delay 5> 
+...<Delay 10>take a look?"<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Elly
+"What are you saying? 
+We don't have time
+for that.<New>
+We have to get out
+of here quickly."<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+Fei
+"Didn't you say we had 
+to gather information?<New>
+We could probably sneak 
+in using this thing."<Close><End of Block>
+<TextBlock 22 w:10 h:1>
+Wha!!<Opcode 2 30><Close><End of Block>
+<TextBlock 23 w:10 h:1>
+Fei!!<Opcode 2 20><Close><End of Block>
+<TextBlock 24 w:0 h:1>
+<Close><End of Block>

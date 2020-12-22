@@ -1,0 +1,206 @@
+<TextBlock 1 w:16 h:2>
+Elly
+"No---!"<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Fei
+"...That voice!?<Delay 10>
+.<Delay 3>.<Delay 3>.<Delay 20>Elly?<Delay 10>
+Elly, is that you?!?"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Fei
+"Elly!?<Delay 20>
+Your face<Delay 20>...!?<Delay 20>
+What's wrong?<New>
+Don't tell me you're
+using that personality-
+changing drug<New>
+that Bart told us
+about!?"<Close><End of Block>
+<TextBlock 4 w:30 h:4>
+Fei
+"Elly, stop it!
+Why must we
+fight!?"<Close><End of Block>
+<TextBlock 5 w:34 h:3>
+Fei
+"Elly,
+snap out of it!<New>
+Your emotions are
+being controlled
+by the drug!"<Close><End of Block>
+<TextBlock 6 w:40 h:4>
+Fei
+"That's a lie!
+You once felt
+responsible,<New>
+blaming yourself for
+causing the incident
+in Lahan by landing
+there.<New>
+You were considerate
+of me when I was
+troubled...<New>
+The real you would
+never say anything
+like that!!"<Close><End of Block>
+<TextBlock 7 w:38 h:4>
+Fei
+"...Argh!<Delay 20>
+Elly<Delay 10>...<Delay 20>
+Must I fight you!?"<Close><End of Block>
+<TextBlock 8 w:36 h:4>
+Fei
+"...What happened?
+There's something
+wrong with Elly.<New>
+I can probably
+stop her now!!"<Close><End of Block>
+<TextBlock 9 w:32 h:4>
+Fei
+"Elly!<Delay 10>
+Wake up and
+snap out of it!"<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+Fei
+"Are you okay!? Elly!
+What!?<New>
+Are the effects of
+the drug wearing
+off?"<Close><End of Block>
+<TextBlock 11 w:36 h:4>
+Fei
+"Is that it? Elly!<Delay 20>
+Is that what's
+happening!?"<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Fei
+"Hang in there, Elly!<Delay 10>
+Don't let go of your
+true self!"<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+Elly
+"It has nothing to do
+with you.<New>
+And would you quit
+trying to be so
+friendly!"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Elly
+"Why? It's obvious.
+It's divine
+providence!<New>
+We are the chosen
+people, the Abel...<New>
+Our purpose of existence
+is to subordinate
+the earth dwelling
+'Lambs'.<New>
+...Those who stand
+in our way must be
+eliminated!"<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Elly
+"This is my true nature!
+There is no other!"<Close><End of Block>
+<TextBlock 16 w:38 h:4>
+Elly
+"You talk as if you
+would know... Yet
+you know nothing!"<Close><End of Block>
+<TextBlock 17 w:44 h:4>
+Elly
+"Hahaha! Writhe!
+Dance!! Die and rot in
+obscurity here!"<Close><End of Block>
+<TextBlock 18 w:32 h:4>
+Elly
+"It looks like
+it's over for
+you.<New>
+I'll put you out
+of your misery
+now!"<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Elly
+"Fear not!<New>
+In return for treating
+me so kindly, I will
+kill you painlessly.
+Farewell,<Delay 20> Fei<Delay 20>...<Delay 20>"<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Elly
+"Fei<Delay 20>...<Delay 20>
+What're you doing? You
+shouldn't be here!"<Close><End of Block>
+<TextBlock 21 w:44 h:3>
+Elly
+"!!<New>
+That's<Delay 20>...<Delay 20>not<Delay 20>...<Delay 20>true<Delay 20>...<Delay 20>
+I<Delay 20>...<Delay 20> No<Delay 20>...<Delay 20>I<Delay 20>...<Delay 20>don't<Delay 20>
+want<Delay 20> this...<Delay 20> Guh!"<Close><End of Block>
+<TextBlock 22 w:40 h:4>
+Elly
+"H,<Delay 20> hel...<Delay 20>p...<Delay 20>
+Th,<Delay 20> this<Delay 20>... isn't...<Delay 20>
+This isn't<Delay 20>...<Delay 20> me..."<Close><End of Block>
+<TextBlock 23 w:28 h:4>
+Elly
+"Uhh!...<Delay 10>
+Aagh<Delay 10>...<Delay 20> Ah...<Delay 10>
+M,<Delay 10> my head..."<Close><End of Block>
+<TextBlock 24 w:34 h:3>
+Elly
+"Ugh!...<Delay 30> Silence!
+Impertinent fool!<New>
+I will not listen
+to a Lamb..."<Close><End of Block>
+<TextBlock 25 w:16 h:2>
+Elly
+"Uuahh!"<Close><End of Block>
+<TextBlock 26 w:38 h:3>
+Elly
+"Sh,<Delay 10> shut up!<New>
+I've no need for
+outward appearances
+of compassion.<New>
+...<Delay 20>I,<Delay 20> I, ...<Delay 20> erh<Delay 20>
+F<Delay 20>...<Delay 20>Fe...<Delay 20>i...<Delay 20>"<Close><End of Block>
+<TextBlock 27 w:38 h:3>
+Broyer
+"Wow!
+Did you see that?!"<Close><End of Block>
+<TextBlock 28 w:40 h:2>
+Renk
+"Those were Aerods!"<Close><End of Block>
+<TextBlock 29 w:18 h:2>
+Vance
+"Aerods?"<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+Helmholz
+"Animum Ether Response-
+Offensive Drones...<New>
+Commonly known as
+Aerods...<New>
+Within Gebler, there
+are only a handful of
+people capable of
+using them...<New>
+From what I hear,
+it should only be
+people from the
+Elements Class."<Close><End of Block>
+<TextBlock 31 w:44 h:4>
+Stratski
+"B, but isn't it like,
+a side effect of the
+'Drive'?<New>
+It's no big deal,
+right...?"<Close><End of Block>
+<TextBlock 32 w:44 h:5>
+Renk
+"...No, the Drive can
+only draw upon the
+potential that already
+exists in her.<New>
+Your looking at...
+the real thing boys!"<Close><Close><Close><Close><Close><End of Block>

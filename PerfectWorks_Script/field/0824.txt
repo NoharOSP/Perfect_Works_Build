@@ -1,0 +1,44 @@
+<TextBlock 1 w:48 h:3>
+Since the war started
+you can really tell who
+is stupid and isn't.<New>
+The stupid ones have
+been forced out of
+business.<New>
+But if you change your
+view, war can be good
+business.<New>
+When there aren't enough
+people or goods, you can
+sell at a higher price.<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+A republic...<Delay 50>
+I could support that.
+No wait, I'd rather
+be a candidate.<New>
+Prime Minister of the
+Republic of Aveh...<Delay 50>
+What a great job!<New>
+And I wouldn't have
+to pay taxes either!<Close><End of Block>
+<TextBlock 3 w:46 h:2>
+...That makes 5 mining 
+Gears and 10 miners.<Close><End of Block>
+<TextBlock 4 w:36 h:3>
+And make it quick!
+I need some miners
+without families.<Close><End of Block>
+<TextBlock 5 w:46 h:6>
+Well...<Delay 60> When guys with
+families get killed on
+a dangerous job, I have
+to pay compensation to
+the families.
+It's a real pain.<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+So that's it. <Delay 60>
+If you find some tell me.
+I'm counting on you.<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+What's with you all?
+Outta my way!<Close><Close><End of Block>

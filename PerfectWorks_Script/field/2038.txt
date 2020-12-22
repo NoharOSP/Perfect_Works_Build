@@ -1,0 +1,25 @@
+<TextBlock 1 w:50 h:3>
+Fei
+"It looks like this shaft
+connects to the outside.<New>
+We can probably get out
+through here."<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+Fei
+"Looks like this shaft
+somehow connects to the
+outside.<New>
+But we don't have time 
+to turn back.<Delay 20> 
+Let's hurry ahead."<Close><End of Block>
+<TextBlock 3 w:40 h:4>
+What would you like?<Delay 20>
+    Character items
+    Gear items
+    Nothing<Close><End of Block>
+<TextBlock 4 w:46 h:5>
+What would you like?<Delay 20>
+        Character items
+        Gear items
+        Go outside
+        Nothing<Close><Close><End of Block>

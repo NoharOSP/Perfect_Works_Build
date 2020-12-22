@@ -1,0 +1,213 @@
+<TextBlock 1 w:22 h:1>
+...<Delay 24>A purge!<Opcode 2 50><Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Ramsus
+"You<Delay 5>...<Delay 32>
+If you didn't exist<Delay 5>...<Delay 5>
+I<Delay 5>...<New>
+That's why...<Delay 32>
+I must<Delay 5>...<Delay 5>
+get rid<Delay 5>...<Delay 5>
+of you<Delay 5>...<New>
+Only then will I be
+able to beat him<Delay 5>..."<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Ramsus
+"Uuuuaaaahhhhh!!"<Close><End of Block>
+<TextBlock 4 w:36 h:4>
+Krelian
+"Of course he can.<Delay 32>
+He was made to be
+able to do so."<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Krelian
+"Oh, really now...<New>
+I don't care about a group
+of old geezers who are so
+obsessed with clinging onto
+their dear little lives...<New>
+...that they had to resort
+to turning themselves into
+data on the SOL-9000 in
+order to survive.<New>
+That's not why<Delay 5>...<Delay 5>
+Your existence obstructs
+me from reaching my goal.
+That's all<Delay 5>..."<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Krelian
+"Yes, that's right.<New>
+I try to lead the
+people in 'my own way'.
+That hasn't changed
+in the least."<Close><End of Block>
+<TextBlock 7 w:20 h:3>
+Krelian
+"Kill him,
+'Ramses'!"<Close><End of Block>
+<TextBlock 8 w:38 h:2>
+Citan
+"Our final prayer?"<Close><End of Block>
+<TextBlock 9 w:38 h:4>
+Citan
+"Yes.<Delay 10>
+Twice<Delay 5>...<Delay 5>no<Delay 5>...<Delay 12>three
+times to be exact."<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Citan
+"His whereabouts have not
+been verified."<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+Citan
+"May I ask you this...?<New>
+Why would he be moved to
+a place like this...?<Delay 45>
+Was it the elders?"<Close><End of Block>
+<TextBlock 12 w:18 h:2>
+Citan
+"Then..."<Close><End of Block>
+<TextBlock 13 w:42 h:4>
+Citan
+"It would be hasty to
+dispose of him now.<New>
+I do not think it is
+too late to wait
+until we find out
+his purpose..."<Close><End of Block>
+<TextBlock 14 w:38 h:3>
+Citan
+"Your will is my
+will, your Majesty.<New>
+Well then, allow
+me to..."<Close><End of Block>
+<TextBlock 15 w:18 h:2>
+Citan
+"Yes...?"<Close><End of Block>
+<TextBlock 16 w:50 h:2>
+Citan
+"...<Delay 32>What is it, then...?"<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Citan
+"Yes, your Majesty.
+This is the answer
+that I chose myself."<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Citan
+"Yes.<New>
+Humans have the
+potential. Managers
+are no longer needed."<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Citan
+"Yes, as you say your
+Majesty, if Fei is..."<Close><End of Block>
+<TextBlock 20 w:54 h:4>
+Emperor
+"Yes, the -Gospel-.<New>
+<Delay 64>We are the people expelled
+from paradise and forced
+to live on the cruel
+surface of the earth.<New>
+We who fill this land will
+once again return to the
+presence of god in paradise
+and live there eternally.<New>
+That is the -Time- of the
+-Gospel-.
+That -Time- is at hand."<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Emperor
+"We the Gazel, must find
+god's resting place by
+then and resurrect him.<New>
+That is our final prayer
+..."<Close><End of Block>
+<TextBlock 22 w:54 h:4>
+Emperor
+"Our final prayer to escape
+from the -Fate- that was
+determined at our genesis."<Close><End of Block>
+<TextBlock 23 w:38 h:2>
+Emperor
+"Has he awoken...?"<Close><End of Block>
+<TextBlock 24 w:16 h:2>
+Emperor
+"I see."<Close><End of Block>
+<TextBlock 25 w:28 h:2>
+Emperor
+"Over here..."<Close><End of Block>
+<TextBlock 26 w:48 h:4>
+Emperor
+"Nay.
+They're hoping for a
+more immediate disposal.<New>
+I don't blame them.<Delay 32>
+They have a deeply
+etched fear of him."<Close><End of Block>
+<TextBlock 27 w:24 h:3>
+Emperor
+"Yes. <Delay 12>
+Probably..."<Close><End of Block>
+<TextBlock 28 w:32 h:4>
+Emperor
+"If that is your
+judgment, then,
+so be it."<Close><End of Block>
+<TextBlock 29 w:36 h:2>
+Emperor
+"Wait a moment..."<Close><End of Block>
+<TextBlock 30 w:26 h:2>
+Emperor
+"...I see..."<Close><End of Block>
+<TextBlock 31 w:48 h:3>
+Emperor
+"Their judgement...<Delay 23>
+has been handed down..."<Close><End of Block>
+<TextBlock 32 w:30 h:3>
+Emperor
+"This is your 
+conclusion...?"<Close><End of Block>
+<TextBlock 33 w:50 h:3>
+Emperor
+"Anonelbe...
+You think you can do it?"<Close><End of Block>
+<TextBlock 34 w:38 h:3>
+Emperor
+"The contact is not
+our enemy?"<Close><End of Block>
+<TextBlock 35 w:40 h:3>
+Emperor
+"Then I leave it up
+to you...<New>
+I atone for my crime
+by doing so..."<Close><End of Block>
+<TextBlock 36 w:40 h:3>
+Emperor Cain
+"What do you want...
+Ramsus...?"<Close><End of Block>
+<TextBlock 37 w:36 h:4>
+Emperor Cain
+"What do you think
+you're doing?
+Ramsus...!?"<Close><End of Block>
+<TextBlock 38 w:44 h:4>
+Emperor Cain
+"That's absurd!
+Do you think you can
+neutralize my power!?"<Close><End of Block>
+<TextBlock 39 w:40 h:4>
+Emperor Cain
+"Krelian...!?
+Surely you're not on
+their side now!?"<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+Emperor Cain
+"Haven't you been working
+for humanity's future...
+for humans to live longer?<New>
+That is why I assisted
+you..."<Close><End of Block>
+<TextBlock 41 w:36 h:3>
+Emperor Cain
+"Krelian, what's
+got into you...!?"<Close><Close><End of Block>

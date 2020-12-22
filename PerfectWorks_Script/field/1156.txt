@@ -1,0 +1,303 @@
+<TextBlock 1 w:34 h:3>
+Franz
+"The third bridge
+...it's ruined!!"<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Franz
+"Then, damage control 
+won't be able to move!!<New>
+The hole won't be
+covered!!"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+The hangar section, the
+armament section, and even
+the pressure shell have
+been destroyed!!<New>
+We can't stop the sand
+from flowing in!<Close><End of Block>
+<TextBlock 4 w:46 h:3>
+Sir!!<Delay 45>
+The Gear's moving by
+itself in the hangar...<Close><End of Block>
+<TextBlock 5 w:56 h:5>
+Main engine, support engine,
+engage the auto scram.
+Switch power to batteries.
+Output ratio 0.5,
+operating time...500!!<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+The sand pump, effect-fins
+and propulsion-drills are
+all out of commission!!<Close><End of Block>
+<TextBlock 7 w:38 h:2>
+Maison
+"This way, please."<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Sigurd
+"Seems like they're
+watching us."<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Sigurd
+"Close each section down
+completely and commence
+independent operation!!"<Close><End of Block>
+<TextBlock 10 w:38 h:3>
+Sigurd
+"That's alright!!<New>
+...Either way, it's
+impossible to save
+the entire ship.<New>
+Our priority is to
+secure the bridge!!<New>
+Gather everyone
+into the bridge
+immediately!"<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Sigurd
+"...Hyuga... No...
+you're Citan now.<New>
+You need to get out.
+I'll have Maison
+guide you to an
+escape-pod."<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Sigurd
+"We have no right to keep
+you here and get you
+involved.<New>
+...If you see Kahr and
+Miang, make sure you
+pay'em back for me."<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+Sigurd
+"Maison...
+Please show him the way."<Close><End of Block>
+<TextBlock 14 w:28 h:3>
+Sigurd
+"What?
+More details!"<Close><End of Block>
+<TextBlock 15 w:38 h:3>
+Citan
+"I cannot leave you
+all like this...!?"<Close><End of Block>
+<TextBlock 16 w:45 h:11>
+<Opcode 1 255><Extra2 255><Extra2 255><Extra2 255>mapjump
+<Extra2 255><Extra2 255><Extra2 255>flying CAMERA
+<Extra2 255><Extra2 255><Extra2 255>global FLAG clear
+<Extra2 255><Extra2 255><Extra2 255>MENU
+<Extra2 255><Extra2 255><Extra2 255>ucon + endcamera
+<Extra2 255><Extra2 255><Extra2 255>setVsync
+<Extra2 255><Extra2 255><Extra2 255>battle ENCOUNT off
+<Extra2 255><Extra2 255><Extra2 255>PRINT
+<Extra2 255><Extra2 255><Extra2 255>c<Extra2 255>and<Extra2 255>f.src<Extra2 255>off
+<Extra2 255><Extra2 255><Extra2 255>DEMOFLAG on
+<Extra2 255><Extra2 255><Extra2 255>EXIT    [11/01]<Close><End of Block>
+<TextBlock 17 w:39 h:1>
+<UNKNOWN CHUNK 248><Extra1 60><Extra1 16><UNKNOWN CHUNK 158><UNKNOWN CHUNK 185><UNKNOWN CHUNK 159><UNKNOWN CHUNK 221><UNKNOWN CHUNK 208><UNKNOWN CHUNK 185><UNKNOWN CHUNK 156><Extra2 255><UNKNOWN CHUNK 209><Extra2 255><Close><End of Block>
+<TextBlock 18 w:18 h:1>
+<UNKNOWN CHUNK 244><Extra1 49><UNKNOWN CHUNK 231><UNKNOWN CHUNK 169><UNKNOWN CHUNK 177><UNKNOWN CHUNK 218><Close><End of Block>
+<TextBlock 19 w:15 h:4>
+<Opcode 1 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 220>
+<Extra2 255><Extra2 255>1/20
+<Extra2 255><Extra2 255>1/15
+<Extra2 255><Extra2 255>exit<Close><End of Block>
+<TextBlock 20 w:28 h:9>
+<Opcode 1 255><Extra2 255><Extra2 255>0    wakeup
+<Extra2 255><Extra2 255>01   wakeup
+<Extra2 255><Extra2 255>012  wakeup
+<Extra2 255><Extra2 255>0123 wakeup
+<Extra2 255><Extra2 255>0    sleep
+<Extra2 255><Extra2 255>01   sleep
+<Extra2 255><Extra2 255>012  sleep
+<Extra2 255><Extra2 255>0123 sleep
+<Extra2 255><Extra2 255>exit<Close><End of Block>
+<TextBlock 21 w:27 h:12>
+<Opcode 1 255><UNKNOWN CHUNK 187><UNKNOWN CHUNK 165><UNKNOWN CHUNK 185><UNKNOWN CHUNK 212><UNKNOWN CHUNK 170><UNKNOWN CHUNK 213><UNKNOWN CHUNK 147><UNKNOWN CHUNK 229><UNKNOWN CHUNK 201>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 165><UNKNOWN CHUNK 192><Extra1 37><Extra1 10><Extra1 30>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 229><UNKNOWN CHUNK 179>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255>0<~>99
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255>100<~>199
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255>200<~>299
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255>300<~>399
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255>400<~>499
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255>500<~>599
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255>600<~>699
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255>700<~>799
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 214><UNKNOWN CHUNK 211><UNKNOWN CHUNK 177><Close><End of Block>
+<TextBlock 22 w:23 h:12>
+<Opcode 1 255><UNKNOWN CHUNK 159><UNKNOWN CHUNK 157><UNKNOWN CHUNK 161>testmap
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 157><UNKNOWN CHUNK 186><UNKNOWN CHUNK 152>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 154><UNKNOWN CHUNK 186><UNKNOWN CHUNK 152>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 171><UNKNOWN CHUNK 172><UNKNOWN CHUNK 159><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 171><UNKNOWN CHUNK 172><UNKNOWN CHUNK 159><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 177><UNKNOWN CHUNK 191>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 165><UNKNOWN CHUNK 152><UNKNOWN CHUNK 212><UNKNOWN CHUNK 186>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 159><UNKNOWN CHUNK 166><UNKNOWN CHUNK 169>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 152><UNKNOWN CHUNK 179><UNKNOWN CHUNK 209><UNKNOWN CHUNK 179>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 167><UNKNOWN CHUNK 150><UNKNOWN CHUNK 186><UNKNOWN CHUNK 152>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 208><UNKNOWN CHUNK 182><UNKNOWN CHUNK 193><UNKNOWN CHUNK 219>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 214><UNKNOWN CHUNK 211><UNKNOWN CHUNK 177><Close><End of Block>
+<TextBlock 23 w:74 h:11>
+<Opcode 1 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0>00<~><Opcode 10 0>09
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0>10<~><Opcode 10 0>19
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0>20<~><Opcode 10 0>29
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0>30<~><Opcode 10 0>39
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0>40<~><Opcode 10 0>49
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0>50<~><Opcode 10 0>59
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0>60<~><Opcode 10 0>69
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0>70<~><Opcode 10 0>79
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0>80<~><Opcode 10 0>89
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0>90<~><Opcode 10 0>99<Close><End of Block>
+<TextBlock 24 w:65 h:11>
+<Opcode 1 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0><Opcode 10 1>0
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0><Opcode 10 1>1
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0><Opcode 10 1>2
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0><Opcode 10 1>3
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0><Opcode 10 1>4
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0><Opcode 10 1>5
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0><Opcode 10 1>6
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0><Opcode 10 1>7
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0><Opcode 10 1>8
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Opcode 10 0><Opcode 10 1>9<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+<Opcode 1 255><Extra1 37><Extra1 10><Extra1 30><Extra1 17><Extra1 56><Extra1 23><Extra1 60><Opcode 10 2><UNKNOWN CHUNK 178><UNKNOWN CHUNK 191><?>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 152><UNKNOWN CHUNK 229>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 148><`><UNKNOWN CHUNK 208><UNKNOWN CHUNK 179><UNKNOWN CHUNK 158><UNKNOWN CHUNK 154><UNKNOWN CHUNK 179><UNKNOWN CHUNK 213><UNKNOWN CHUNK 181><UNKNOWN CHUNK 177>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 214><UNKNOWN CHUNK 181><UNKNOWN CHUNK 195><UNKNOWN CHUNK 220><UNKNOWN CHUNK 214><UNKNOWN CHUNK 211><UNKNOWN CHUNK 218><UNKNOWN CHUNK 152><UNKNOWN CHUNK 157><UNKNOWN CHUNK 188><Close><End of Block>
+<TextBlock 26 w:39 h:8>
+<Opcode 1 255><Extra1 37><Extra1 10><Extra1 30><Extra1 24><Extra1 48><Extra1 40><Extra1 60><Extra1 6><Extra2 255><Extra2 255><UNKNOWN CHUNK 193>(0)
+map=<Opcode 12 1>,<Opcode 12 2> 
+para=<Opcode 12 0>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 253><Extra1 42><Extra1 56><Extra1 30><UNKNOWN CHUNK 171><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255>plus
+<Extra2 255><Extra2 255><Extra2 255>minus
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 243><UNKNOWN CHUNK 231><Extra1 37><Extra1 10><Extra1 30><UNKNOWN CHUNK 253><Extra1 42><Extra1 56><Extra1 30>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 214><UNKNOWN CHUNK 211><UNKNOWN CHUNK 221><Close><End of Block>
+<TextBlock 27 w:39 h:7>
+<Opcode 1 255><Extra1 40><Extra1 18><Extra1 44><Extra1 60><UNKNOWN CHUNK 248><Extra1 60><Extra1 50>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 21><Extra1 60><Extra1 37><Extra1 50><Extra1 40><Extra1 18><Extra1 44><Extra1 60>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 252><Extra1 46><Extra1 10><Extra1 30>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 40><Extra1 56><Extra1 11><Extra2 255><Extra2 255><UNKNOWN CHUNK 144><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 145>
+<Extra2 255><Extra2 255><Extra2 255>load game
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 214><UNKNOWN CHUNK 211><UNKNOWN CHUNK 177><Close><End of Block>
+<TextBlock 28 w:42 h:10>
+<Opcode 1 255><UNKNOWN CHUNK 242><Extra1 42><Extra1 48><UNKNOWN CHUNK 228><Extra2 255><UNKNOWN CHUNK 229><UNKNOWN CHUNK 185>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 28><UNKNOWN CHUNK 236><UNKNOWN CHUNK 233><Extra2 255><Extra2 255><Extra1 28><UNKNOWN CHUNK 236><UNKNOWN CHUNK 233><C><C><C>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 237><Extra1 49><UNKNOWN CHUNK 232><Extra2 255><Extra2 255><Elly>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 252><Extra1 6><Extra1 56><Extra2 255><Extra2 255><Citan>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 23><Extra1 50><Extra1 15><Extra2 255><Extra2 255><Bart>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 26><Extra1 49><Extra1 60><Extra2 255><Extra2 255><Billy>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 49><UNKNOWN CHUNK 248><Extra2 255><Extra2 255><Extra2 255><Rico>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 237><Extra1 40><Extra1 48><Extra1 7><Extra2 255><Emeralda>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 8><Extra1 44><Extra1 8><Extra1 44><Extra2 255><Extra1 8><Extra1 44><Extra1 8><Extra1 44><C><C>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 214><UNKNOWN CHUNK 211><UNKNOWN CHUNK 177><Close><End of Block>
+<TextBlock 29 w:60 h:7>
+<Opcode 1 255><UNKNOWN CHUNK 252><Extra1 46><Extra1 10><Extra1 30><Extra1 13><Extra1 0><Extra1 15><Extra2 255>now = <Opcode 10 0>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 177><UNKNOWN CHUNK 171>  <Extra2 255>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 196><UNKNOWN CHUNK 161>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 242><Extra1 42><Extra1 48><UNKNOWN CHUNK 252><Extra1 46><Extra1 10><Extra1 30><UNKNOWN CHUNK 189><Extra2 255><UNKNOWN CHUNK 221><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 243><UNKNOWN CHUNK 231><UNKNOWN CHUNK 252><Extra1 46><Extra1 10><Extra1 30><UNKNOWN CHUNK 189><Extra2 255><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 156><UNKNOWN CHUNK 157><UNKNOWN CHUNK 191><UNKNOWN CHUNK 164><UNKNOWN CHUNK 181><UNKNOWN CHUNK 186><UNKNOWN CHUNK 155>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 190><UNKNOWN CHUNK 163><UNKNOWN CHUNK 221><Close><End of Block>
+<TextBlock 30 w:48 h:1>
+<Opcode 1 255><UNKNOWN CHUNK 240><Extra1 40><Extra1 48><UNKNOWN CHUNK 185><Extra2 255><UNKNOWN CHUNK 200><UNKNOWN CHUNK 176><Extra1 41><Extra1 60><Extra1 16>[Ver.2.8]<Close><End of Block>
+<TextBlock 31 w:47 h:9>
+<Extra2 255><Extra2 255><Extra2 255><Opcode 1 255><Extra2 255>angle = <Opcode 12 0> , dip = <Opcode 12 1>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 188><UNKNOWN CHUNK 189><UNKNOWN CHUNK 212><UNKNOWN CHUNK 169><UNKNOWN CHUNK 188><UNKNOWN CHUNK 150>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 154><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 154><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 214><UNKNOWN CHUNK 181><UNKNOWN CHUNK 184><UNKNOWN CHUNK 209><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 14><Extra1 60><Extra1 6><Extra2 255><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 51><Extra1 56><Extra1 1>/<Extra1 0><Extra1 27><Extra1 60><Extra1 16><Extra2 255><UNKNOWN CHUNK 154><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255>Look<Extra2 255>AT<UNKNOWN CHUNK 189><UNKNOWN CHUNK 231><UNKNOWN CHUNK 244><Extra1 6><Extra1 60><UNKNOWN CHUNK 228><Extra2 255><UNKNOWN CHUNK 161>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 240><Extra1 40><Extra1 48>END<Close><End of Block>
+<TextBlock 32 w:48 h:14>
+<Opcode 1 255>    eyespeed <Opcode 12 2> , atspeed <Opcode 12 3>
+<Extra2 255> <Extra2 255> eye +1
+<Extra2 255> <Extra2 255>     -1
+<Extra2 255> <Extra2 255>     +5
+<Extra2 255> <Extra2 255>     -5
+<Extra2 255> <Extra2 255>     x2
+<Extra2 255> <Extra2 255>     /2
+<Extra2 255>  <Extra2 255>at  +1
+<Extra2 255> <Extra2 255>     -1
+<Extra2 255> <Extra2 255>     +5
+<Extra2 255>  <Extra2 255>    -5
+<Extra2 255> <Extra2 255>     x2
+<Extra2 255> <Extra2 255>     /2
+<Extra2 255>   <Extra2 255>play<Close><End of Block>
+<TextBlock 33 w:36 h:4>
+<Opcode 1 255><UNKNOWN CHUNK 240><Extra1 40><Extra1 48><UNKNOWN CHUNK 192><Extra1 14><Extra1 60><Extra1 6>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 188><UNKNOWN CHUNK 150>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 196><UNKNOWN CHUNK 186><UNKNOWN CHUNK 182><UNKNOWN CHUNK 178><UNKNOWN CHUNK 163><Extra2 255><UNKNOWN CHUNK 177><UNKNOWN CHUNK 150><UNKNOWN CHUNK 188><UNKNOWN CHUNK 147><Close><End of Block>
+<TextBlock 34 w:50 h:8>
+<Extra2 255><Extra2 255><Opcode 1 255><UNKNOWN CHUNK 214><UNKNOWN CHUNK 181><UNKNOWN CHUNK 195><UNKNOWN CHUNK 150><UNKNOWN CHUNK 150><UNKNOWN CHUNK 214>
+<Extra2 255><Extra2 255>start AT  pos
+<Extra2 255><Extra2 255>      EYE pos
+<Extra2 255><Extra2 255>      parameter
+<Extra2 255><Extra2 255>end   AT  pos
+<Extra2 255><Extra2 255>      EYE pos
+<Extra2 255><Extra2 255>      parameter
+<Extra2 255><Extra2 255>runcamera speed & roll<Close><End of Block>
+<TextBlock 35 w:46 h:10>
+<Opcode 1 255><Extra1 51><Extra1 56><Extra1 1><Extra2 255><Extra2 255><UNKNOWN CHUNK 193><Extra2 255><Extra2 255><UNKNOWN CHUNK 242><Extra1 60><UNKNOWN CHUNK 185><Extra2 255><UNKNOWN CHUNK 150><UNKNOWN CHUNK 208><UNKNOWN CHUNK 171>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 51><Extra1 56><Extra1 1><Extra2 255><Extra2 255><Extra1 0><Extra1 6><Extra1 60><Extra1 15>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 51><Extra1 56><Extra1 1><Extra2 255><Extra2 255>END
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 192><Extra2 255><Extra2 255><UNKNOWN CHUNK 202>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 52><Extra1 60><Extra1 50><UNKNOWN CHUNK 171><UNKNOWN CHUNK 221>
+<Extra2 255><Extra2 255><Extra2 255><Extra1 52><Extra1 60><Extra1 50><UNKNOWN CHUNK 169><UNKNOWN CHUNK 188><UNKNOWN CHUNK 150>
+<Extra2 255><Extra2 255><Extra2 255><2><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><Extra2 255><1></><2><Extra2 255><Extra2 255>
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 190><UNKNOWN CHUNK 163><UNKNOWN CHUNK 221>
+now speed = <Opcode 12 0> , angle = <Opcode 12 1><Close><End of Block>
+<TextBlock 36 w:23 h:9>
+<Opcode 1 255><Extra2 255><Extra2 255><Extra2 255>wakeup
+<Extra2 255><Extra2 255><Extra2 255>sleep
+<Extra2 255><Extra2 255><Extra2 255>+16len
+<Extra2 255><Extra2 255><Extra2 255>-16len
+<Extra2 255><Extra2 255><Extra2 255>+64len
+<Extra2 255><Extra2 255><Extra2 255>-64len
+<Extra2 255><Extra2 255><Extra2 255>+256len
+<Extra2 255><Extra2 255><Extra2 255>-256len
+now length <Opcode 12 0><Close><End of Block>
+<TextBlock 37 w:36 h:2>
+<Opcode 1 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 240><Extra1 40><Extra1 48><Extra2 255><UNKNOWN CHUNK 169><UNKNOWN CHUNK 184>END
+<Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 240><Extra1 40><Extra1 48><UNKNOWN CHUNK 175><UNKNOWN CHUNK 192><UNKNOWN CHUNK 208><UNKNOWN CHUNK 208>END<Close><End of Block>
+<TextBlock 38 w:36 h:4>
+<Opcode 1 255>START eye POSITION
+ eye X = <Opcode 12 0>
+     Z = <Opcode 12 1>
+     Y = <Opcode 12 2><Close><End of Block>
+<TextBlock 39 w:34 h:4>
+<Opcode 1 255>START at POSITION
+  at X = <Opcode 12 0>
+     Z = <Opcode 12 1>
+     Y = <Opcode 12 2><Close><End of Block>
+<TextBlock 40 w:30 h:4>
+<Opcode 1 255>START PARAMETER
+    angle = <Opcode 12 0>
+    dip   = <Opcode 12 1>
+    len   = <Opcode 12 2><Close><End of Block>
+<TextBlock 41 w:32 h:4>
+<Opcode 1 255>END eye POSITION
+ eye X = <Opcode 12 0>
+     Z = <Opcode 12 1>
+     Y = <Opcode 12 2><Close><End of Block>
+<TextBlock 42 w:30 h:4>
+<Opcode 1 255>END at POSITION
+  at X = <Opcode 12 0>
+     Z = <Opcode 12 1>
+     Y = <Opcode 12 2><Close><End of Block>
+<TextBlock 43 w:26 h:4>
+<Opcode 1 255>END PARAMETER
+    angle = <Opcode 12 0>
+    dip   = <Opcode 12 1>
+    len   = <Opcode 12 2><Close><End of Block>
+<TextBlock 44 w:36 h:3>
+<Opcode 1 255>RUN CAMERA SPEED
+    eye  = <Opcode 12 2> ,at = <Opcode 12 3>
+    roll = <Opcode 12 0><Close><Close><End of Block>

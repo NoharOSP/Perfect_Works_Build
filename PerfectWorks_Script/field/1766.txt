@@ -1,0 +1,100 @@
+<TextBlock 1 w:42 h:2>
+Fei
+"What is this place?"<Close><End of Block>
+<TextBlock 2 w:52 h:3>
+Fei
+"Why are there holograms
+of us in a Solaris place?"<Close><End of Block>
+<TextBlock 3 w:50 h:2>
+Elly
+"H, holograms of us...!?"<Close><End of Block>
+<TextBlock 4 w:56 h:8>
+<Opcode 1 255><S> Fei
+ Lambs Number 001589750
+ Fei Fong Wong
+ Ether Response...Infinite
+ Anima Alignment...Infinite
+ Comments
+ Contact.
+ Immediate disposal desired.<Close><End of Block>
+<TextBlock 5 w:56 h:9>
+<Opcode 1 255><S> Elly
+ Minister Number 6920188-2
+ Elhaym Van Houten
+ Ether Response...Infinite
+ Anima Alignment...Infinite
+ Comments
+ Possible Antitype.
+ Approval for retrieval and
+ necessary analysis granted.<Close><End of Block>
+<TextBlock 6 w:46 h:7>
+<Opcode 1 255><S> Citan
+ Lambs Number 584921547
+ Hyuga Ricdeau
+ Ether Response...240
+ Anims Alignment...98
+ Comments
+ None.<Close><End of Block>
+<TextBlock 7 w:48 h:9>
+<Opcode 1 255><S> Bart
+ Lambs Number 221589542
+ Bartholomew Fatima
+ Ether Response...210
+ Anima Alignment...90
+ Comments
+ Upon 'Dan' Anima's
+ retrieval, schedule for
+ Animus adjustment.<Close><End of Block>
+<TextBlock 8 w:52 h:8>
+<Opcode 1 255><S> Billy
+ Minister Number 321658-11
+ Billy Black
+ Ether Response...290
+ Anima Alignment...92
+ Comments
+ Schedule for Animus
+ adjustment.<Close><End of Block>
+<TextBlock 9 w:62 h:13>
+<Opcode 1 255><S> Rico
+ Test Mixture Number 000-215914
+ Ricardo Banderas
+ Ether Response...160
+ Anima Alignment...85
+ Comments
+ Created by the 'Ethos' as
+ an a experimental mixture.
+ Used by the Kislev Battling
+ Assoc. to measure battle
+ potential. The data has
+ been transferred. Schedule
+ for Animus adjustment.<Close><End of Block>
+<TextBlock 10 w:58 h:7>
+<Opcode 1 255><S> Emeralda
+ Codename Emeralda
+ Ether Response...N/A
+ Anima Alignment...None
+ Comments Nanomachine Colony.
+ Data analysis complete.
+ Annul and dispose.<Close><End of Block>
+<TextBlock 11 w:44 h:7>
+<Opcode 1 255><S> <Chu-Chu>
+ Primitive Animal
+ Ether Response...N/A
+ Anima Alignment...N/A
+ Comments
+ Unusable.
+ Annul and dispose.<Close><End of Block>
+<TextBlock 12 w:44 h:7>
+<Opcode 1 255><S> Maria
+ Lambs Number 54109854
+ Maria Balthasar
+ Ether Response...170
+ Anima Alignment...74
+ Comments
+ Unusable.<Close><End of Block>
+<TextBlock 13 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 14 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

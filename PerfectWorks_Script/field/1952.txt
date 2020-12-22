@@ -1,0 +1,182 @@
+<TextBlock 1 w:32 h:4>
+Krelian
+"Hmm<Delay 5>...<Delay 15>
+'This time' your
+body is young."<Close><End of Block>
+<TextBlock 2 w:34 h:2>
+"<Delay 5>...<Delay 5>The previous
+one got too old."<Close><End of Block>
+<TextBlock 3 w:36 h:2>
+Krelian
+"...<Delay 5>And the name?"<Close><End of Block>
+<TextBlock 4 w:46 h:3>
+"Karen<Delay 5>...<Delay 15>
+but individual names
+have no meaning to me."<Close><End of Block>
+<TextBlock 5 w:22 h:4>
+Krelian
+"So<Delay 5>...<Delay 5>
+what brings
+you here?"<Close><End of Block>
+<TextBlock 6 w:42 h:4>
+Karen
+"Is that thing inside
+the Nanoreactor there
+<Delay 5>...<Delay 5>the one?"<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Krelian
+"Huh?<Delay 5> Oh<Delay 5>...<Delay 15>
+Recogniton code
+0808191 - 'Ramses'.<New>
+The Emperor's been told
+it's a prototype for an
+artificial 'Contact'."<Close><End of Block>
+<TextBlock 8 w:40 h:2>
+Karen
+"What's its status?"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Krelian
+"It has entered the so-
+called first growth stage.<New>
+From now until the binding,
+its growth will be several
+times faster than that of
+an ordinary human.<New>
+But its psychological
+development will be a
+little difficult to
+control<Delay 5>..."<Close><End of Block>
+<TextBlock 10 w:54 h:3>
+Krelian
+"It is a replica<Delay 5>...<Delay 5>
+so that is to be expected."<Close><End of Block>
+<TextBlock 11 w:32 h:3>
+Karen
+"It is moving<Delay 5>...<Delay 15>
+Can it hear us?"<Close><End of Block>
+<TextBlock 12 w:34 h:4>
+Krelian
+"Yes<Delay 5>...<Delay 15>
+It already has a
+will of its own."<Close><End of Block>
+<TextBlock 13 w:44 h:4>
+Karen
+"Then<Delay 5>...<Delay 15>
+I have a better way<Delay 5>...<Delay 15>
+Let us dispose of it."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Karen
+"We do not need this<Delay 5>...<Delay 15>
+We have my child.<Delay 15> My child
+will be 4 this year."<Close><End of Block>
+<TextBlock 15 w:26 h:4>
+Krelian
+"Your having
+a child is<Delay 5>...<Delay 30>
+significant?"<Close><End of Block>
+<TextBlock 16 w:40 h:3>
+Karen
+"Yes<Delay 5>...<New>
+I checked it out...
+There is no mistake,
+it's a 'Contact'."<Close><End of Block>
+<TextBlock 17 w:36 h:2>
+Krelian
+"What's its name?"<Close><End of Block>
+<TextBlock 18 w:34 h:4>
+Karen
+"My child's name
+is<Delay 5>...<Delay 30>
+'Fei'.<New>
+So<Delay 5>...<Delay 5>
+you understand
+what this means?"<Close><End of Block>
+<TextBlock 19 w:34 h:3>
+Krelian
+"A corresponding
+'Antitype' is<Delay 5>..."<Close><End of Block>
+<TextBlock 20 w:32 h:4>
+Karen
+"Yes<Delay 5>...<Delay 30>
+probably already
+born somewhere."<Close><End of Block>
+<TextBlock 21 w:38 h:2>
+Karen
+"<Delay 5>...<Delay 5>The final one!"<Close><End of Block>
+<TextBlock 22 w:32 h:4>
+Krelian
+"Then<Delay 5>...<Delay 15>
+this thing is<Delay 5>...<Delay 5>
+worthless."<Close><End of Block>
+<TextBlock 23 w:46 h:2>
+Karen
+"Yes, totally useless."<Close><End of Block>
+<TextBlock 24 w:54 h:3>
+Karen
+"Ha-ha<Delay 5>...<Delay 15>
+Chase after it, <Delay 5>'boy'.<New>
+A love that's unattainable
+for you, no matter how hard
+you try to pursue it."<Close><End of Block>
+<TextBlock 25 w:26 h:1>
+Until then<Delay 5>...<Close><End of Block>
+<TextBlock 26 w:54 h:4>
+Miang
+"The chains that restrained
+humankind have been removed
+because of you."<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Krelian
+"But that doesn't mean
+there is anything wrong
+with our plan...<New>
+Everything is still
+under control."<Close><End of Block>
+<TextBlock 28 w:54 h:4>
+Krelian
+"In the event of the
+explosion in the capital
+of Solaris earlier...<New>
+...I had set up a nano-
+machine virus to diffuse
+into the atmosphere.<New>
+I knew they were eventually
+going to break the seal<Delay 5>...<Delay 15>
+But the timing was a little
+close for comfort<Delay 5>...<New>
+The current mutations of
+the humans are an initial
+response to the virus<Delay 5>...<New>
+Once the virus we spread
+over the world germinates
+inside of the humans they
+are no longer the same.<New>
+They change into a
+controllable form.<New>
+We need humans that do
+not depend on the key's
+invocation in order to
+awaken.<New>
+In other words, a being
+to take the place of the
+original body of god<Delay 5>..."<Close><End of Block>
+<TextBlock 29 w:56 h:4>
+Miang
+"It's like a trojan horse
+released at the time of the
+assimilation with god<Delay 5>...<Delay 5><New>
+A literal virus<Delay 5>...<Delay 15>
+But<Delay 5>...<Delay 5>isn't it different
+from what they intended<Delay 5>...<Delay 5>?"<Close><End of Block>
+<TextBlock 30 w:52 h:4>
+Krelian
+"Of course.<Delay 15> We can't let
+them have it their way.<Delay 30>
+The 'Ark of god' is mine."<Close><End of Block>
+<TextBlock 31 w:50 h:3>
+Miang
+"<Delay 5>...<Delay 5>Either way is fine by
+me.<New>
+I will just side with
+whichever is the more
+certain one anyway<Delay 5>...<Delay 5>"<Close><Close><End of Block>

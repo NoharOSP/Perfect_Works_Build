@@ -1,0 +1,27 @@
+<TextBlock 1 w:48 h:4>
+Well, now that my motor
+coil's warmed up...<Delay 40>
+...let's start the main 
+event!!<Opcode 2 150><Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Bart
+"Today's my unlucky day.
+Why does this have to
+happen now?<New>
+Oh well...
+Let's get it over with!"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Ramsus
+"Don't do anything 
+unwarranted, Miang! 
+I still have one arm!!"<Close><End of Block>
+<TextBlock 4 w:32 h:3>
+Miang
+"Commander...
+let's pull out!"<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Miang
+"We're pulling out!<New>
+...That mad dog seems
+to have a new toy to
+play with."<Close><Close><End of Block>

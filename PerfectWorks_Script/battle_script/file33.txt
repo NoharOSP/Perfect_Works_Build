@@ -1,0 +1,152 @@
+<TextBlock 1 w:50 h:4>
+Spectators
+"Boo~! Boo~!"
+"Booooring!"
+"C'mon, fight properly!!"<Close><End of Block>
+<TextBlock 2 w:52 h:5>
+Spectators
+"...grumble grumble..."<New>
+Referee
+"...<Delay 30>Uhh,<Delay 45> ahem.<Delay 30>
+It appears that
+competitor Wiseman
+has forfeited...<New>
+The remaining
+competitor will
+automatically be
+awarded victory!"<New>
+Spectators
+"What!? Are you serious!?"
+"Booo! Booooo!!"
+"Yeah! I won the bet!!"<Close><End of Block>
+<TextBlock 3 w:46 h:1>
+Tournament's Final Bout<Opcode 2 60><Close><End of Block>
+<TextBlock 4 w:36 h:3>
+Fei
+(This is not good.<Delay 30>
+At this rate...)<Close><End of Block>
+<TextBlock 5 w:8 h:2>
+Fei
+"??"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Fei
+"Who cares where...
+Come on, now...
+Put up a serious fight!"<Close><End of Block>
+<TextBlock 7 w:28 h:3>
+Fei
+"Why do you
+ask that for?"<Close><End of Block>
+<TextBlock 8 w:36 h:4>
+Fei
+"My reasons for
+fighting are none
+of your business!"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Fei
+"Would you shut up!
+I'm in the middle of
+finding for my purpose!"<Close><End of Block>
+<TextBlock 10 w:16 h:2>
+Fei
+"What!?"<Close><End of Block>
+<TextBlock 11 w:26 h:3>
+Fei
+"How would
+you know...?"<Close><End of Block>
+<TextBlock 12 w:20 h:3>
+Fei
+"Argh!
+Shut up!!"<Close><End of Block>
+<TextBlock 13 w:46 h:4>
+Fei
+"!!<Delay 30>
+How do you
+know my name!?<New>
+I deliberately didn't
+use my real name when
+I entered this contest.<New>
+And that thing about
+me recovering from my
+wounds<Delay 20>...<Delay 40>!?<Delay 20> You aren't<Delay 20>
+who I think you are!?"<Close><End of Block>
+<TextBlock 14 w:24 h:4>
+Fei
+"!! Wait!
+I want to
+ask you...!"<Close><End of Block>
+<TextBlock 15 w:24 h:2>
+Fei
+"Wiseman..."<Close><End of Block>
+<TextBlock 16 w:46 h:2>
+Wiseman
+"...Just as I thought."<Close><End of Block>
+<TextBlock 17 w:44 h:3>
+Wiseman
+"You, where did you
+learn that technique?"<Close><End of Block>
+<TextBlock 18 w:30 h:4>
+Wiseman
+"Hmm.
+So then why
+do you fight?<New>
+For yourself?
+Or for the sake
+of others?"<Close><End of Block>
+<TextBlock 19 w:46 h:4>
+Wiseman
+"Doesn't there have to
+be a reason or a goal,
+for a person to fight?"<Close><End of Block>
+<TextBlock 20 w:32 h:4>
+Wiseman
+"So, you are you
+fighting for no
+reason or goal?"<Close><End of Block>
+<TextBlock 21 w:42 h:4>
+Wiseman
+"... Then forget it!
+For there's no way
+you could find such."<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+Wiseman
+"You appear to be
+looking forward...<New>
+...but in reality,
+you are only
+looking downward!<New>
+You're only looking
+at yourself.
+Like that, you will
+find nothing."<Close><End of Block>
+<TextBlock 23 w:48 h:4>
+Wiseman
+"I know... By exchanging
+blows with you, I can
+tell a great deal..."<Close><End of Block>
+<TextBlock 24 w:48 h:4>
+Wiseman
+"Weak, weak... You won't
+even graze me with those
+kinds of attacks...<New>
+But superficially, at
+least, it seems you've
+matured physically."<Close><End of Block>
+<TextBlock 25 w:42 h:4>
+Wiseman
+"You've done well in
+recovering from those
+wounds,<Delay 45> Fei..."<Close><End of Block>
+<TextBlock 26 w:18 h:2>
+Wiseman
+"...Hm!?"<Close><End of Block>
+<TextBlock 27 w:40 h:4>
+Wiseman
+"Oh my...<Delay 30>
+Is it already
+that time...?<New>
+...<Delay 30> I guess it can't
+be helped...<Delay 45>
+I've got to be
+on my way!"<Close><Close><UNKNOWN CHUNK 179>
+<Close><Close>)<End of Block>

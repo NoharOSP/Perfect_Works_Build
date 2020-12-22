@@ -1,0 +1,48 @@
+<TextBlock 1 w:32 h:1>
+It's lukewarm...<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Bart
+"That Margie...!<New>
+Leaving a strange stuffed
+animal in a place like
+this!<Delay 10> Because of this, we
+can't get into the bridge."<Close><End of Block>
+<TextBlock 3 w:34 h:1>
+<Opcode 1 255>It's not strange!<Opcode 2 15><Close><End of Block>
+<TextBlock 4 w:36 h:4>
+Bart
+"Hey, Fei!!<Delay 10>
+Stop the funny
+voices, will ya!?"<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Fei
+"Huh? 
+<Delay 10>I<Delay 10> didn't say anything."<Close><End of Block>
+<TextBlock 6 w:34 h:3>
+Bart
+"...<Delay 10>
+That's weird...<New>
+Anyway, let's ask
+Margie to get rid
+of it."<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Get on the transport ship?
+    Yes
+    Wait a minute<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+<Opcode 1 255>Preparing for launch.
+Do not open hatch!
+              -Sigurd<Close><End of Block>
+<TextBlock 9 w:34 h:3>
+<Opcode 1 255>Do not open hatch
+while in motion.
+          -Sigurd<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Elly
+"They can't launch the
+Yggdrasil cause Sigurd
+isn't there...<New>
+He must be in the Gun
+Room or somewhere."<Close><End of Block>
+<TextBlock 11 w:0 h:1>
+<Close><End of Block>

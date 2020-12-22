@@ -1,0 +1,26 @@
+<TextBlock 1 w:34 h:1>
+...sniff...sniff.<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Don't tell anyone I'm
+keeping a pet down here.<New>
+I found him on the
+outskirts of Lahan on the
+verge of death.<New>
+But, look at him now.<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+He is gone now...<Delay 40>
+and...left this.<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+...This guy,<Delay 30> no matter
+how much I tell him, he
+won't understand...Hey! He,<Delay 30>
+he's...Damn...<Delay 30>sob...<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+He's gone...<New>
+The dog he owned keeps
+waiting for him to come
+home at the entrance,<New>
+always waiting for him
+...always.<Close><End of Block>
+<TextBlock 6 w:42 h:1>
+"Hey it's...dog food"<Close><Close><End of Block>

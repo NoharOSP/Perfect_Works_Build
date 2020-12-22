@@ -1,0 +1,73 @@
+<TextBlock 1 w:52 h:3>
+Krelian
+"Children of the Emperor,<Delay 10> 
+please open your heart."<Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Elly
+"Krelian!"<Close><End of Block>
+<TextBlock 3 w:12 h:2>
+Fei
+"Huh?"<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+Elly
+"That's Krelian.<Delay 10> 
+He's the real leader
+of Solaris.<New>
+He doesn't appear
+in public very
+often.<Delay 10>
+That's all I know."<Close><End of Block>
+<TextBlock 5 w:32 h:4>
+Fei
+"He's<Delay 5>...<Delay 5>
+the leader
+of Solaris?<New>
+What<Delay 5>...<Delay 10>
+Why do I feel<Delay 5>...<Delay 5>
+Something seems
+familiar."<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Krelian
+"...The gate we control
+was removed by will of
+the Emperor. <New>
+However, there are 
+foolish beasts here 
+defiling our holy land 
+with their feet.<New>
+These beasts destroyed
+the gate and want to remove
+the Emperor from the throne
+in the confusion.<New>
+This is a grave matter,
+the Emperor's throne
+has been polluted.
+We cannot rest yet.<New>
+Those imbeciles have
+been caught and shackled
+like the dogs they are!"<Close><End of Block>
+<TextBlock 7 w:64 h:11>
+<Opcode 14 1>     My beloved children, you
+     can be at ease. The Gazel
+     Ministry and I planned
+     the destruction of the
+     gate long ago.
+     The people chosen by god...<Delay 10>
+     we, the Gazel, will return
+     to god's paradise. To the
+     sleeping mother god...<Delay 10>
+     The time for our
+     immortality has come.<New>
+     We have opened the the door
+     to 'Mahanon'...the place
+     where god rests, the source
+     of wisdom and power. The
+     surface dwellers will no
+     doubt use this opportunity
+     to seize its power.
+     However, there is no need
+     to be concerned...
+     As long as Solaris has
+     this power...<Close><End of Block>
+<TextBlock 8 w:0 h:1>
+<Close><End of Block>

@@ -1,0 +1,39 @@
+<TextBlock 1 w:30 h:2>
+Fei
+"What is this?"<Close><End of Block>
+<TextBlock 2 w:34 h:2>
+Fei
+"I have no idea."<Close><End of Block>
+<TextBlock 3 w:16 h:2>
+Citan
+"Hmm..."<Close><End of Block>
+<TextBlock 4 w:56 h:3>
+Citan
+"That sound we heard in the
+other room is the password."<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Citan
+"There must be a password
+in one of the rooms."<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+<Opcode 1 255>There is a console for
+inputting the password.<Delay 10>
+    Input
+    Don't<Close><End of Block>
+<TextBlock 7 w:54 h:3>
+<Opcode 1 255>Activate the audio signal
+with the Up, Down, Left and
+Right Directional buttons.<New>
+Press <X> button to finish.
+Press <C> button to  exit.
+Please enter signal now...<Close><End of Block>
+<TextBlock 8 w:46 h:2>
+Audio signal confirmed.
+Deactivating door lock.<Close><End of Block>
+<TextBlock 9 w:64 h:2>
+<Opcode 1 255>Incorrect password.
+Please input the correct signal.<Close><End of Block>
+<TextBlock 10 w:34 h:3>
+<Opcode 1 255>Cancel inputting?<Delay 10>
+    Quit
+    Don't quit<Close><Close><End of Block>

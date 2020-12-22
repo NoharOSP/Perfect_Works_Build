@@ -1,0 +1,142 @@
+<TextBlock 1 w:30 h:3>
+Fei
+"Mmmm!<Delay 30>
+That was good!"<Close><End of Block>
+<TextBlock 2 w:40 h:4>
+Fei
+"Your cooking never
+fails to impress me,
+Yui!"<Close><End of Block>
+<TextBlock 3 w:38 h:3>
+Fei
+"Thank you for such
+a delicious meal!"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Yui
+"You're welcome.<New>
+If you like my cooking
+that much, then I'd be
+happy to cook for you
+anytime, Fei!"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Yui
+"Oh, and the bread tasted
+really good because I used
+that egg you brought us."<Close><End of Block>
+<TextBlock 6 w:56 h:3>
+Fei gained a bit of weight,<Delay 5>
+but felt he did a bad thing.<Delay 20>
+...<Delay 5> Well,<Delay 5> just a little bit!<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Fei
+"Well,
+nothing in particular..."<Close><End of Block>
+<TextBlock 8 w:32 h:3>
+Fei
+"Hello, Yui.
+Where's doc...?"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Fei
+"I should have guessed!
+Doesn't he ever get sick of
+playing with that stuff!"<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Fei
+"Well, okay then, I'll go
+out into the backyard and
+see if I can find him."<Close><End of Block>
+<TextBlock 11 w:42 h:4>
+Fei
+"Oh, I nearly forgot!<Delay 20>
+Yui, I found this on
+the mountain path...<New>
+Please use it to make
+a tasty egg dish for
+doc and Midori."<Close><End of Block>
+<TextBlock 12 w:34 h:4>
+Fei
+"Hi, Midori.
+It's a nice day
+to play outside.<New>
+How about we feed
+the birds later?"<Close><End of Block>
+<TextBlock 13 w:38 h:4>
+Fei
+"...<Delay 20>
+Where have I heard
+that line before!?"<Close><End of Block>
+<TextBlock 14 w:56 h:4>
+Fei
+"That's alright by me...<Delay 30>
+Well, see you tomorrow, doc!<Delay 30>
+Good night, Yui, Midori!"<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Citan
+"I will bring the equipment
+you need to the village
+tomorrow morning, myself...<New>
+It does not exactly make me
+feel comfortable to have
+you handle such delicate
+instruments, I am afraid!"<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Yui
+"My darling husband is
+probably tinkering with his
+junk out in the backyard...<New>
+Didn't you see him there?"<Close><End of Block>
+<TextBlock 17 w:36 h:4>
+Yui
+"Oh, welcome, Fei.<Delay 30>
+What brings you
+here today?"<Close><End of Block>
+<TextBlock 18 w:46 h:4>
+Yui
+"I see...<Delay 20>
+Well, anyway, please
+make yourself at home."<Close><End of Block>
+<TextBlock 19 w:36 h:2>
+Yui
+"Oh Fei, welcome."<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Yui
+"My husband is tinkering
+with his junk out in the
+backyard."<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Yui
+"Oh, what a nutritious
+looking egg!<Delay 20> Thank you.
+I'll use it for dinner."<Close><End of Block>
+<TextBlock 22 w:46 h:2>
+Gave the egg you worked
+so hard for to Yui.<Close><End of Block>
+<TextBlock 23 w:46 h:3>
+Yui
+"Good night.<Delay 20>
+See you tomorrow, Fei."<Close><End of Block>
+<TextBlock 24 w:54 h:3>
+Yui
+"I wonder what happened...?<Delay 20>
+Be careful now, Fei!"<Close><End of Block>
+<TextBlock 25 w:44 h:4>
+Yui
+"You're welcome.<New>
+If you like my cooking
+that much, then I'd be
+happy to cook for you
+anytime, Fei!"<Close><End of Block>
+<TextBlock 26 w:46 h:4>
+Yui
+"Good night.<Delay 20>
+We're looking forward
+to tomorrow's wedding."<Close><End of Block>
+<TextBlock 27 w:12 h:2>
+Midori
+"..."<Close><End of Block>
+<TextBlock 28 w:12 h:2>
+Midori
+"..."<Close><End of Block>
+<TextBlock 29 w:12 h:2>
+Midori
+"..."<Close><Close><End of Block>

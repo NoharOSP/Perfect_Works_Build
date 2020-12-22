@@ -1,0 +1,85 @@
+<TextBlock 1 w:44 h:4>
+Fei
+"Wow...
+So this is the 'Ethos'
+workshop, heh, doc?"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Citan
+"Yes. The 'Ethos' workshops
+are the only places that
+officially repair Gears.<New>
+Let us see if we can get
+the parts we need to fix
+<Weltall> here.<New>
+As they say, time is money!
+...So we should do whatever
+we can do as soon as we are
+able to."<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Citan
+"Sorry to bother you.<New>
+Our Gear has broken down,
+so I would like to buy
+some parts to fix it."<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Citan
+"Yes, we are hoping to
+replace an X-29 model
+injection bypass circuit."<Close><End of Block>
+<TextBlock 5 w:28 h:4>
+Citan 
+"I see.
+Sorry to have
+bothered you."<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+These days the 'Ethos'
+technology has become
+indispensable in people's
+day-to-day lives.<New>
+We thought we'd use these 
+left over facilites and 
+try and help everyone as 
+much as we can.<Close><End of Block>
+<TextBlock 7 w:58 h:3>
+You two again?<New>
+As you can see, this facility
+is for the repair of worker
+Gears only.<New>
+We simply can't help you out
+with the new model military
+Gear that you have.<Close><End of Block>
+<TextBlock 8 w:60 h:4>
+This town was orginally a
+haven for treasure hunters
+searching the ruins.<New>
+Our workshop can hardly keep
+up with the demand for repairs
+on the worker Gears used in
+the excavation of the ruins.<Close><End of Block>
+<TextBlock 9 w:40 h:2>
+Huh?
+How can we help you?<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Tough luck, huh?
+Can you tell me what make
+of parts you are after?<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+X-29 model injection
+circuit?<New>
+That's only used on the
+latest military models.
+We don't keep those kind
+of parts in stock here.<New>
+You can only get such
+special parts by placing
+an order at the 'Ethos'
+headquarters.<New>
+This workshop is only
+for the repair of
+civilian Gears...<Close><End of Block>
+<TextBlock 12 w:30 h:2>
+Sorry that we
+can't help you.<Close><End of Block>
+<TextBlock 13 w:44 h:2>
+Please don't touch it.
+It's being repaired.<Close><Close><End of Block>

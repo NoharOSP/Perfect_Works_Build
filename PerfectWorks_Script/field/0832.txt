@@ -1,0 +1,26 @@
+<TextBlock 1 w:46 h:3>
+My brother is such a 
+child, always playing
+hide-and-seek. <New>
+What a laugh. I wonder 
+where he's hiding now?<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+My brother says he's
+over playing hide-and-
+seek. But now he has
+nothing to do.<New>
+He's probably just
+wandering around the
+area. He's still such
+a child.<Close><End of Block>
+<TextBlock 3 w:42 h:5>
+That kid is amazing. 
+Since her father has 
+been away she's been 
+running the store all
+by herself.<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+My dad came back. <Delay 50>
+I was helping him in the
+store but he told me to
+go play somewhere.<Close><Close><End of Block>

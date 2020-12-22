@@ -1,0 +1,91 @@
+<TextBlock 1 w:36 h:3>
+So this is where
+Fei's being held!?<Delay 20>
+He deserves it!<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Dan
+"Let me pray on his weeping
+face as if it were an idol!
+Heh, heh... As if I would!"<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+...Gah!<Delay 20>
+Argh...!!<Opcode 2 80><Close><End of Block>
+<TextBlock 4 w:24 h:2>
+St...stop...<Delay 20>
+Stop... it!!<Opcode 2 80><Close><End of Block>
+<TextBlock 5 w:24 h:2>
+D a n...<Delay 20>
+Mi do ri...!<Opcode 2 80><Close><End of Block>
+<TextBlock 6 w:26 h:3>
+R...<Delay 20>run...<Delay 30>
+Hurry...<Delay 20>
+Run a...way!!<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:36 h:4>
+Dan
+"Yech...!<Delay 20>
+What,
+what is this...!?"<Close><End of Block>
+<TextBlock 8 w:40 h:3>
+Dan
+"...<Delay 20>
+This is terrible..."<Close><End of Block>
+<TextBlock 9 w:34 h:4>
+Dan
+"No matter what,
+this is going
+way too far...<New>
+He's still...
+alive...?<Delay 20>
+How could you
+possibly be!?<New>
+You're human too,
+aren't you!?
+Darn...!"<Close><End of Block>
+<TextBlock 10 w:26 h:4>
+Dan
+"...<Delay 30>
+Fei...<Delay 20>
+Oh, Fei...!?"<Close><End of Block>
+<TextBlock 11 w:20 h:2>
+Dan
+"Huh...!?"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Dan
+"Midori, it's you...<Delay 20>
+Phew...
+Don't scare me like that!"<Close><End of Block>
+<TextBlock 13 w:26 h:4>
+Dan
+"Crying...?
+Who's crying?<Delay 20>
+...!?"<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Dan
+"You mean our friend
+Fei is crying?"<Close><End of Block>
+<TextBlock 15 w:40 h:2>
+Dan
+"What do you mean!?"<Close><End of Block>
+<TextBlock 16 w:28 h:3>
+Dan
+"Whoa...!
+What the...!?"<Close><End of Block>
+<TextBlock 17 w:14 h:2>
+Dan
+"Fei!?"<Close><End of Block>
+<TextBlock 18 w:24 h:2>
+Dan
+"Yikes...!?"<Opcode 2 20><Close><End of Block>
+<TextBlock 19 w:18 h:1>
+Crying...<Close><End of Block>
+<TextBlock 20 w:42 h:3>
+Midori
+"Angry...<Delay 20>
+Hurt...<New>
+He'll wake up soon...<Delay 20>
+It's calling him..."<Close><End of Block>
+<TextBlock 21 w:46 h:2>
+There's nothing here.<Delay 20>
+He's long gone already.<New>
+But, wow, to make
+a hole this big...<Close><Close><End of Block>

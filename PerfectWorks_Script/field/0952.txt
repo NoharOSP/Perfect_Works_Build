@@ -1,0 +1,37 @@
+<TextBlock 1 w:50 h:4>
+Repair Bot
+"I seem to have become
+a little lost in here.<New>
+Oh and I saw some really
+strong-looking Gears
+flying around above here.<New>
+By the way, I found these
+things during my travels.
+See anything you like...?<New>
+    Gear parts
+    Character items
+    Can't trust you
+    Ignore<Close><End of Block>
+<TextBlock 2 w:28 h:3>
+Repair Bot
+"I hope to see
+you again."<Close><End of Block>
+<TextBlock 3 w:28 h:3>
+Repair Bot
+"I hope to see
+you again."<Close><End of Block>
+<TextBlock 4 w:28 h:2>
+Repair Bot
+"How cruel..."<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

@@ -1,0 +1,21 @@
+<TextBlock 1 w:52 h:3>
+Now that we have peace 
+the kids can play outside.
+Isn't it great?<Close><End of Block>
+<TextBlock 2 w:40 h:2>
+Lately the town has
+become so lively.<New>
+It's nice to see the
+children so happy.<Close><End of Block>
+<TextBlock 3 w:54 h:3>
+Hey, has something good
+happened? All the soldiers
+have been smiling lately.<New>
+They've all become so nice!
+It's great!<Close><End of Block>
+<TextBlock 4 w:50 h:2>
+Hey, are all the soldiers
+here to dig up the ruins?<New>
+I thought they were after
+the bad 'Kiss-led' men...<New>
+Guess I was wrong.<Close><Close><End of Block>

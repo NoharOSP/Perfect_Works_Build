@@ -1,0 +1,113 @@
+<TextBlock 1 w:16 h:1>
+Samson!!<Opcode 2 15><Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Samson
+"Not bad.<Delay 10> I think I'll
+let myself go on ahead!"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Elly
+"Wait!<Delay 10> 
+You're not a Gazel! <Delay 10>
+What're you going to do?"<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Samson
+"Not a problem. I used 
+undergound tech to
+re-write my ID."<Close><End of Block>
+<TextBlock 5 w:6 h:1>
+...<Opcode 2 10><Close><End of Block>
+<TextBlock 6 w:27 h:2>
+<]><Delay 10><]><Delay 10><]><Delay 10>ID error.
+Eliminate.<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:26 h:2>
+W, wait!!<Delay 10>
+Ughaaaaaahhh!<Opcode 2 10><Close><End of Block>
+<TextBlock 8 w:4 h:1>
+!!<Close><End of Block>
+<TextBlock 9 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Fei
+"Damn you!!<Delay 10>
+I'm gonna destroy it!!"<Close><End of Block>
+<TextBlock 11 w:6 h:1>
+No!<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:12 h:1>
+Waah!!<Opcode 2 30><Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Elly
+"It's useless to do that.<New>
+You won't be able to get
+through without either a
+1st Class citizen ID or 
+a military ID..."<Close><End of Block>
+<TextBlock 14 w:44 h:3>
+Fei
+"Then what're we going
+to do...?"<Close><End of Block>
+<TextBlock 15 w:52 h:3>
+Elly
+"Well we can't just stand
+here...<New>
+I guess it's going to have
+to be all or nothing."<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Fei
+"If it doesn't work out,<New>
+we'll worry about it
+later...is what you're
+saying?<Delay 10> Isn't that kinda
+sounding like<Delay 10> Bart?"<Close><End of Block>
+<TextBlock 17 w:38 h:4>
+Fei
+"How rude. It's not
+like I always go in
+without a plan."<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+<]><Delay 10><]><Delay 10><]><Delay 10>1st Class citizen,
+Gazel, confirmed.<Delay 10> Please
+pass through in an
+orderly fashion.<Close><End of Block>
+<TextBlock 19 w:42 h:2>
+Fei
+"We can get through!"<Close><End of Block>
+<TextBlock 20 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 21 w:28 h:3>
+Fei
+"?<Delay 10>
+What's wrong?"<Close><End of Block>
+<TextBlock 22 w:44 h:4>
+Elly
+"Huh?<Delay 10> Uh well...<Delay 10> <New>
+I've done so much, I'm
+surprised they haven't
+labeled me as a
+traitor yet..."<Close><End of Block>
+<TextBlock 23 w:50 h:3>
+Fei
+"You think it's because
+they haven't reported it?<New>
+To the Gebler, it would
+be like admitting failure
+and all."<Close><End of Block>
+<TextBlock 24 w:28 h:2>
+Elly
+"I hope so..."<Close><End of Block>
+<TextBlock 25 w:40 h:2>
+Fei
+"Anyway, let's go!!"<Close><End of Block>
+<TextBlock 26 w:40 h:3>
+Elly
+"Okay.<Delay 20> Oh, stay very
+close to me.<New>
+That way,
+it shouldn't pick up
+your presence."<Close><End of Block>
+<TextBlock 27 w:38 h:3>
+Elly
+"Fei, where are you
+going?"<Close><End of Block>
+<TextBlock 28 w:0 h:1>
+<Close><End of Block>

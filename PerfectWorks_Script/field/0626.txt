@@ -1,0 +1,15 @@
+<TextBlock 1 w:32 h:3>
+...<Delay 40>I wonder how
+he's doing...<New>
+Aveh's so far...
+...<Delay 30>
+...sigh...<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+I wouldn't need anything
+else if I could only live
+together with my family.
+Just the three of us...<New>
+Why can't men understand<Delay 20>
+something so simple...<Close><End of Block>
+<TextBlock 3 w:20 h:1>
+...sigh...<Opcode 2 30><Close><End of Block>

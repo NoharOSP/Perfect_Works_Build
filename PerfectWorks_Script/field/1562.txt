@@ -1,0 +1,166 @@
+<TextBlock 1 w:12 h:1>
+nam<Extra2 255>00<Close><End of Block>
+<TextBlock 2 w:16 h:1>
+Laddie!?<Close><End of Block>
+<TextBlock 3 w:8 h:1>
+...!<Close><End of Block>
+<TextBlock 4 w:30 h:1>
+Yes, somehow...<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Oh yes, Shakhan?<Delay 30>
+No, I haven't seen him...<New>
+The only people that came
+here were those soldiers
+that threatened me to
+stay quiet...<Delay 30><New>
+I'm sorry laddie.<Delay 30>
+If only I'd been braver.<Close><End of Block>
+<TextBlock 6 w:36 h:2>
+The town's OK now.
+Let's go back up!<Close><End of Block>
+<TextBlock 7 w:32 h:2>
+Collect all your
+belongings!<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Laddie,<Delay 30>
+be careful out there!<New>
+I know you'll make it ok.<New>
+And when you do...<Delay 30>
+you have to promise that
+you'll come out and
+announce who you are.<New>
+I want to see you stand
+on the terrace of Castle
+Fatima, proudly!<Close><End of Block>
+<TextBlock 9 w:44 h:1>
+You gotta win lad.<New>
+You've got my support!<Close><End of Block>
+<TextBlock 10 w:12 h:1>
+nam<Extra2 255>01<Close><End of Block>
+<TextBlock 11 w:12 h:1>
+nam<Extra2 255>02<Close><End of Block>
+<TextBlock 12 w:12 h:1>
+nam<Extra2 255>03<Close><End of Block>
+<TextBlock 13 w:12 h:1>
+nam<Extra2 255>04<Close><End of Block>
+<TextBlock 14 w:12 h:1>
+nam<Extra2 255>05<Close><End of Block>
+<TextBlock 15 w:44 h:2>
+It's Bartholomew!<New>
+Marguerite is with him
+too!<Close><End of Block>
+<TextBlock 16 w:28 h:2>
+Hey, everyone!<Delay 30>
+It's OK!<Close><End of Block>
+<TextBlock 17 w:50 h:3>
+Bartholomew,<Delay 30>
+you're indeed powerful.<New>
+I've seen you come and go
+from time to time and I
+didn't think much of it.<New>
+Exactly who are you?<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+You're going to defeat
+Shakhan!?
+The...<Delay 30>late
+king...?<Close><End of Block>
+<TextBlock 19 w:28 h:1>
+Then you're...<Close><End of Block>
+<TextBlock 20 w:12 h:1>
+nam<Extra2 255>06<Close><End of Block>
+<TextBlock 21 w:12 h:1>
+nam<Extra2 255>07<Close><End of Block>
+<TextBlock 22 w:12 h:1>
+nam<Extra2 255>08<Close><End of Block>
+<TextBlock 23 w:12 h:1>
+nam<Extra2 255>09<Close><End of Block>
+<TextBlock 24 w:38 h:3>
+The ground...<Delay 30>
+What's happening to
+the town now!?<Close><End of Block>
+<TextBlock 25 w:28 h:1>
+Is that true!?<Close><End of Block>
+<TextBlock 26 w:16 h:2>
+    Up
+    Exit<Close><End of Block>
+<TextBlock 27 w:6 h:1>
+ ! <Close><End of Block>
+<TextBlock 28 w:40 h:3>
+Bart
+"They've gotten this
+far!"<Close><End of Block>
+<TextBlock 29 w:36 h:4>
+Bart
+"The casket!?<Delay 30>
+Is Margie's mother
+safe!?"<Close><End of Block>
+<TextBlock 30 w:50 h:3>
+Margie
+"It's fine!<Delay 30>
+She hasn't been touched."<Close><End of Block>
+<TextBlock 31 w:30 h:3>
+Bart
+"Whew...<Delay 30> OK.<Delay 30>
+What a relief."<Close><End of Block>
+<TextBlock 32 w:38 h:2>
+Bart
+"Is everyone...<Delay 30>OK?"<Close><End of Block>
+<TextBlock 33 w:36 h:3>
+Bart
+"Shakhan...<Delay 30>
+Where did he go!?"<Close><End of Block>
+<TextBlock 34 w:36 h:3>
+Bart
+"He isn't here yet<Delay 30>
+...that's odd."<Close><End of Block>
+<TextBlock 35 w:50 h:3>
+Bart
+"I took care of upstairs.<Delay 30>
+It's OK to go back!"<Close><End of Block>
+<TextBlock 36 w:44 h:3>
+Bart
+"Everyone, I need your
+attention! My..."<Close><End of Block>
+<TextBlock 37 w:46 h:4>
+Bart
+"...My friends are
+currently headed for
+Bledavik.<New>
+They're on a mission to
+take down Shakhan from
+his seat of power."<Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Bart
+"There is a need to
+rebuild this country from
+scratch again.<New>
+I've,<Delay 30> I've
+inherited that task from
+our late king."<Close><End of Block>
+<TextBlock 39 w:48 h:4>
+Bart
+"If all goes well, we'll
+soon be able to make
+it a reality.<New>
+Please, believe me,
+and wait for me."<Close><End of Block>
+<TextBlock 40 w:10 h:2>
+Bart
+"..."<Close><End of Block>
+<TextBlock 41 w:48 h:4>
+Bart
+"I don't know what
+happened or what made me
+say the things I did.<New>
+That wasn't like me to
+say that stuff..."<Close><End of Block>
+<TextBlock 42 w:46 h:4>
+Margie
+"You could have just
+told them that you were
+<Delay 30>the prince."<Close><End of Block>
+<TextBlock 43 w:50 h:2>
+Bart
+"No,<Delay 30> I can't do that yet.<New>
+I need to fulfill my
+father's last request."<Close><Close><End of Block>

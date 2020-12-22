@@ -1,0 +1,44 @@
+<TextBlock 1 w:28 h:3>
+Wanna go back?
+    Yes
+    No<Close><End of Block>
+<TextBlock 2 w:28 h:3>
+This is...
+'Merry Go Pop'
+1 time is 10G<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+Do you want to play?
+    Play
+    No way<Close><End of Block>
+<TextBlock 4 w:32 h:4>
+Who will play?
+    <Perso1>
+    <Perso2>
+    <Perso3><Close><End of Block>
+<TextBlock 5 w:38 h:1>
+Not enough money...<Close><End of Block>
+<TextBlock 6 w:32 h:3>
+This is...
+'Whose Balloons'
+1 time is 10G.<Close><End of Block>
+<TextBlock 7 w:40 h:3>
+Do you want to play?
+    Play
+    No way<Close><End of Block>
+<TextBlock 8 w:32 h:4>
+Who will play?
+    <Perso1>
+    <Perso2>
+    <Perso3><Close><End of Block>
+<TextBlock 9 w:38 h:1>
+Not enough money...<Close><End of Block>
+<TextBlock 10 w:34 h:3>
+This is...
+'Mirror of Truth'
+1 time is 10G.<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+Do you want to play?
+    Play
+    No way<Close><End of Block>
+<TextBlock 12 w:38 h:1>
+Not enough money...<Close><Close><End of Block>

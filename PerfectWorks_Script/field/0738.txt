@@ -1,0 +1,6 @@
+<TextBlock 1 w:50 h:4>
+Bart
+"Who'd have thought there
+would be someone living
+in a place like this!<New>
+Let's check it out!"<Close><Close><End of Block>

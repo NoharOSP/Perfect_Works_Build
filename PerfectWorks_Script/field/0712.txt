@@ -1,0 +1,22 @@
+<TextBlock 1 w:50 h:3>
+Fei
+"W, what are they!?<Delay 10>
+Are they Aveh Gears?<New>
+<Delay 10>...<Delay 10>
+I'm worried about doc<Delay 10>..."<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Fei
+"Guess I may as well
+follow those Gears."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Fei
+"A different unit?
+Are they going toward the
+direction the saucer went?<New>
+I'd better follow them
+so as not to lose sight
+of them..."<Close><End of Block>
+<TextBlock 4 w:34 h:3>
+Leave the desert?
+    Yes
+    No<Close><End of Block>

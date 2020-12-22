@@ -1,0 +1,295 @@
+<TextBlock 1 w:28 h:3>
+<Opcode 1 255>demoflag down?
+      down
+      no<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+      <Opcode 1 255>return
+      memberchange
+      partychange<Close><End of Block>
+<TextBlock 3 w:20 h:3>
+      <Opcode 1 255>plus
+      new
+      end<Close><End of Block>
+<TextBlock 4 w:34 h:1>
+<Opcode 1 255>Please make party<Close><End of Block>
+<TextBlock 5 w:38 h:1>
+<Opcode 1 255>select party member<Close><End of Block>
+<TextBlock 6 w:26 h:12>
+      <Opcode 1 255>Fei
+      Elly
+      Citan
+      Bart
+      Billy
+      Rico
+      Emer
+      Chu-chu
+      Maria
+      Citan2
+      Emer2
+      end<Close><End of Block>
+<TextBlock 7 w:24 h:12>
+      <Opcode 1 255>Fei
+      Elly
+      Citan
+      Bart
+      Billy
+      Rico
+      Emer
+      Chuchu
+      Maria
+      Citan2
+      Emer2
+<Close><End of Block>
+<TextBlock 8 w:32 h:1>
+<Opcode 1 255>Your party is...<Close><End of Block>
+<TextBlock 9 w:6 h:1>
+Fei<Close><End of Block>
+<TextBlock 10 w:8 h:1>
+Elly<Close><End of Block>
+<TextBlock 11 w:10 h:1>
+Citan<Close><End of Block>
+<TextBlock 12 w:8 h:1>
+Bart<Close><End of Block>
+<TextBlock 13 w:10 h:1>
+Billy<Close><End of Block>
+<TextBlock 14 w:8 h:1>
+Rico<Close><End of Block>
+<TextBlock 15 w:8 h:1>
+Emer<Close><End of Block>
+<TextBlock 16 w:14 h:1>
+Chu-chu<Close><End of Block>
+<TextBlock 17 w:10 h:1>
+Maria<Close><End of Block>
+<TextBlock 18 w:12 h:1>
+Citan2<Close><End of Block>
+<TextBlock 19 w:10 h:1>
+Emer2<Close><End of Block>
+<TextBlock 20 w:32 h:1>
+<Opcode 1 255>Your party is...<Close><End of Block>
+<TextBlock 21 w:6 h:1>
+Fei<Close><End of Block>
+<TextBlock 22 w:8 h:1>
+Elly<Close><End of Block>
+<TextBlock 23 w:10 h:1>
+Citan<Close><End of Block>
+<TextBlock 24 w:8 h:1>
+Bart<Close><End of Block>
+<TextBlock 25 w:10 h:1>
+Billy<Close><End of Block>
+<TextBlock 26 w:8 h:1>
+Rico<Close><End of Block>
+<TextBlock 27 w:8 h:1>
+Emer<Close><End of Block>
+<TextBlock 28 w:14 h:1>
+Chu-chu<Close><End of Block>
+<TextBlock 29 w:10 h:1>
+Maria<Close><End of Block>
+<TextBlock 30 w:12 h:1>
+Citan2<Close><End of Block>
+<TextBlock 31 w:10 h:1>
+Emer2<Close><End of Block>
+<TextBlock 32 w:44 h:12>
+<Opcode 1 255>Jump to planner's map
+          no thank you
+          to kato
+          to eto
+          to kazuomi
+          to suzuki
+          to tane
+          to koumoto
+          to kigoshi
+          to uchimichi
+          to saito
+          to matu<Close><End of Block>
+<TextBlock 33 w:26 h:10>
+<Opcode 1 255>dokodemo door
+      return
+      0-99
+      100-199
+      200-299
+      300-399
+      400-499
+      500-599
+      600-699
+      700-799<Close><End of Block>
+<TextBlock 34 w:70 h:11>
+      <Opcode 1 255>return
+      <Opcode 10 0>00-<Opcode 10 0>09
+      <Opcode 10 0>10-<Opcode 10 0>19
+      <Opcode 10 0>20-<Opcode 10 0>29
+      <Opcode 10 0>30-<Opcode 10 0>39
+      <Opcode 10 0>40-<Opcode 10 0>49
+      <Opcode 10 0>50-<Opcode 10 0>59
+      <Opcode 10 0>60-<Opcode 10 0>69
+      <Opcode 10 0>70-<Opcode 10 0>79
+      <Opcode 10 0>80-<Opcode 10 0>89
+      <Opcode 10 0>90-<Opcode 10 0>99<Close><End of Block>
+<TextBlock 35 w:62 h:11>
+      <Opcode 1 255>return
+      <Opcode 10 0><Opcode 10 1>0
+      <Opcode 10 0><Opcode 10 1>1
+      <Opcode 10 0><Opcode 10 1>2
+      <Opcode 10 0><Opcode 10 1>3
+      <Opcode 10 0><Opcode 10 1>4
+      <Opcode 10 0><Opcode 10 1>5
+      <Opcode 10 0><Opcode 10 1>6
+      <Opcode 10 0><Opcode 10 1>7
+      <Opcode 10 0><Opcode 10 1>8
+      <Opcode 10 0><Opcode 10 1>9<Close><End of Block>
+<TextBlock 36 w:49 h:14>
+<Opcode 1 255>map<Opcode 10 2><`>mappara?
+      <Opcode 10 0>0
+      <Opcode 10 0>1
+      <Opcode 10 0>2
+      <Opcode 10 0>3
+      <Opcode 10 0>4
+      <Opcode 10 0>5
+      <Opcode 10 0>6
+      <Opcode 10 0>7
+      <Opcode 10 0>8
+      <Opcode 10 0>9
+      +10
+      at random
+      do again<Close><End of Block>
+<TextBlock 37 w:30 h:1>
+please honest!!<Close><End of Block>
+<TextBlock 38 w:26 h:3>
+<Opcode 1 255>to Lahan?
+          yes
+          no<Close><End of Block>
+<TextBlock 39 w:36 h:3>
+<Opcode 1 255>View the preview ?
+    yes
+    no<Close><End of Block>
+<TextBlock 40 w:26 h:3>
+<Opcode 1 255>to Dazil?
+          yes
+          no<Close><End of Block>
+<TextBlock 41 w:32 h:3>
+<Opcode 1 255>to Citan's home?
+          yes
+          no<Close><End of Block>
+<TextBlock 42 w:36 h:4>
+<Opcode 1 255>listen to...
+      music
+      sound effect
+      return<Close><End of Block>
+<TextBlock 43 w:66 h:11>
+    <Opcode 1 255>return
+    <Opcode 10 0>00-<Opcode 10 0>09
+    <Opcode 10 0>10-<Opcode 10 0>19
+    <Opcode 10 0>20-<Opcode 10 0>29
+    <Opcode 10 0>30-<Opcode 10 0>39
+    <Opcode 10 0>40-<Opcode 10 0>49
+    <Opcode 10 0>50-<Opcode 10 0>59
+    <Opcode 10 0>60-<Opcode 10 0>69
+    <Opcode 10 0>70-<Opcode 10 0>79
+    <Opcode 10 0>80-<Opcode 10 0>89
+    <Opcode 10 0>90-<Opcode 10 0>99<Close><End of Block>
+<TextBlock 44 w:58 h:11>
+    <Opcode 1 255>return
+    <Opcode 10 0><Opcode 10 1>0
+    <Opcode 10 0><Opcode 10 1>1
+    <Opcode 10 0><Opcode 10 1>2
+    <Opcode 10 0><Opcode 10 1>3
+    <Opcode 10 0><Opcode 10 1>4
+    <Opcode 10 0><Opcode 10 1>5
+    <Opcode 10 0><Opcode 10 1>6
+    <Opcode 10 0><Opcode 10 1>7
+    <Opcode 10 0><Opcode 10 1>8
+    <Opcode 10 0><Opcode 10 1>9<Close><End of Block>
+<TextBlock 45 w:78 h:12>
+<Opcode 1 255>music number <Opcode 10 0>  change <Opcode 10 1>
+          next
+          head
+          before
+          info
+          vol
+          pitch
+          tempo
+          return
+push R1 up
+     L1 dowm
+     X default<Close><End of Block>
+<TextBlock 46 w:40 h:1>
+<Opcode 1 255>you can change 'vol'<Close><End of Block>
+<TextBlock 47 w:44 h:1>
+<Opcode 1 255>you can change 'pitch'<Close><End of Block>
+<TextBlock 48 w:44 h:1>
+<Opcode 1 255>you can change 'tempo'<Close><End of Block>
+<TextBlock 49 w:50 h:4>
+<Opcode 1 255>              now  /  def
+vol        <Opcode 12 0>       /127
+pitch      <Opcode 12 1>       /0 
+tempo      <Opcode 12 2>       /256<Close><End of Block>
+<TextBlock 50 w:22 h:7>
+    <Opcode 1 255>return
+    0-99
+    100-199
+    200-299
+    300-399
+    400-499
+    500-599<Close><End of Block>
+<TextBlock 51 w:66 h:11>
+    <Opcode 1 255>return
+    <Opcode 10 0>00-<Opcode 10 0>09
+    <Opcode 10 0>10-<Opcode 10 0>19
+    <Opcode 10 0>20-<Opcode 10 0>29
+    <Opcode 10 0>30-<Opcode 10 0>39
+    <Opcode 10 0>40-<Opcode 10 0>49
+    <Opcode 10 0>50-<Opcode 10 0>59
+    <Opcode 10 0>60-<Opcode 10 0>69
+    <Opcode 10 0>70-<Opcode 10 0>79
+    <Opcode 10 0>80-<Opcode 10 0>89
+    <Opcode 10 0>90-<Opcode 10 0>99<Close><End of Block>
+<TextBlock 52 w:58 h:11>
+    <Opcode 1 255>return
+    <Opcode 10 0><Opcode 10 1>0
+    <Opcode 10 0><Opcode 10 1>1
+    <Opcode 10 0><Opcode 10 1>2
+    <Opcode 10 0><Opcode 10 1>3
+    <Opcode 10 0><Opcode 10 1>4
+    <Opcode 10 0><Opcode 10 1>5
+    <Opcode 10 0><Opcode 10 1>6
+    <Opcode 10 0><Opcode 10 1>7
+    <Opcode 10 0><Opcode 10 1>8
+    <Opcode 10 0><Opcode 10 1>9<Close><End of Block>
+<TextBlock 53 w:50 h:7>
+<Opcode 1 255>SE number is <Opcode 10 2>
+          one more
+          next
+          before
+          music on
+          music off
+          return<Close><End of Block>
+<TextBlock 54 w:56 h:7>
+<Opcode 1 255>face test
+    show  now = <Opcode 10 0>
+    +1
+    -1
+    +10
+    -10
+    return<Close><End of Block>
+<TextBlock 55 w:40 h:4>
+<Opcode 1 255>  now = <Opcode 10 0>
+    +1
+    -1
+    return<Close><End of Block>
+<TextBlock 56 w:26 h:5>
+<Opcode 1 255>gear
+      all on
+      all off
+      each
+      end<Close><End of Block>
+<TextBlock 57 w:22 h:11>
+<Opcode 1 255>C is chr
+G is gear
+      C C C
+      G C C
+      C G C
+      C C G
+      C G G
+      G C G
+      G G C
+      G G G
+      end<Close><End of Block>

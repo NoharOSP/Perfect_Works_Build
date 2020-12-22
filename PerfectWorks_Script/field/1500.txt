@@ -1,0 +1,20 @@
+<TextBlock 1 w:28 h:3>
+Fei
+"Hey!
+It's moving!?"<Opcode 2 70><Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Do you want to go down?<Delay 10>
+    Yes
+    No<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 4 w:38 h:2>
+ 
+Received <Opcode 4 20><Close><End of Block>
+<TextBlock 5 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:38 h:2>
+ 
+Received <Opcode 4 20><Close><Close><End of Block>

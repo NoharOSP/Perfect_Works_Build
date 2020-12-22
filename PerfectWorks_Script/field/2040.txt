@@ -1,0 +1,445 @@
+<TextBlock 1 w:42 h:3>
+Fei
+"Do we need the power
+of <Xenogears>?"<Close><End of Block>
+<TextBlock 2 w:24 h:3>
+Fei
+"This
+is...<Delay 20>Deus!?"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Fei
+"...<Delay 20>
+Thanks everyone.<New>
+To attack Deus directly...<Delay 10>
+or, to take out its
+supports first...<Delay 10>
+I wonder which is best?"<Close><End of Block>
+<TextBlock 4 w:32 h:4>
+Citan
+"As I thought...<Delay 20>
+The power of
+<Xenogears>..."<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Bart
+"Do we need the power
+of <Xenogears>?"<Close><End of Block>
+<TextBlock 6 w:40 h:4>
+Billy
+"As I thought...<Delay 20>
+Do we need the power
+of <Xenogears>?"<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Rico
+"If we only had the power
+of <Xenogears>..."<Close><End of Block>
+<TextBlock 8 w:32 h:4>
+Emeralda
+"I knew it...<Delay 20>
+The power of...
+<Xenogears>..."<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+<Chu-Chu>
+"Can't do it without
+<Xenogears>?..."<Close><End of Block>
+<TextBlock 10 w:32 h:4>
+Maria
+"I knew it...<Delay 20>
+The power of
+<Xenogears>..."<Close><End of Block>
+<TextBlock 11 w:32 h:4>
+Emeralda
+"I knew it...<Delay 20>
+The power of...
+<Xenogears>..."<Close><End of Block>
+<TextBlock 12 w:22 h:2>
+Citan
+"Probably."<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Citan
+"Striking directly at the
+center rather than using
+fuel unnecessarily...<New>
+That is one strategy. But,
+I believe another plan of
+attack would be to defeat
+its surroundings first.<New>
+If we decide to attack
+the supporting orbs first,
+then it might be wise to
+leave the battles up to us.<New>
+We should be able to do
+something about them
+without using up Fei's
+power."<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Bart
+"Who cares about those
+orbs. Let's just crush
+the core."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Billy
+"Whether we do a direct
+strike to the core or take
+down the supports first...<New>
+I guess that is best left
+up to Fei to decide..."<Close><End of Block>
+<TextBlock 16 w:46 h:4>
+Rico
+"So that means that big
+thing in the middle is
+the core of Deus?"<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Emeralda
+"That'll allow him to
+use the full power of
+<Xenogears>...<New>
+...To defeat Deus.<Delay 20>
+And yes,<Delay 5> of course,<Delay 5>
+to save Elly!"<Close><End of Block>
+<TextBlock 18 w:36 h:4>
+<Chu-Chu>
+"What are those
+four orbs spinning
+around it?"<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Maria
+"It seems as if the power
+of those four things is
+supporting the center."<Close><End of Block>
+<TextBlock 20 w:36 h:2>
+Fei
+"What...<Delay 20>happened?"<Close><End of Block>
+<TextBlock 21 w:30 h:3>
+Rico
+"My Gear won't
+budge anymore."<Close><End of Block>
+<TextBlock 22 w:46 h:3>
+Citan
+"The Zohar Modifier
+has ceased functioning.<New>
+That is probably the
+reason why our Gears
+cannot move anymore. <New>
+There is only a slight
+energy response coming
+from the core now."<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Fei
+"What about Elly?
+What's happening to her
+inside of that thing?<New>
+The Deus system's bind
+on her should have worn
+off now. <New>
+So why aren't we getting
+any kind of response!?<Delay 10>
+You don't think we hurt her
+in that battle too...!?"<Close><End of Block>
+<TextBlock 24 w:46 h:3>
+Citan
+"Fei, calm down!<New>
+The sensors are picking
+up a response from a
+life form within Deus.<New>
+It is probably Elly.<Delay 20>
+So do not worry...<Delay 10>
+I believe she is okay!"<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Fei
+"Elly!<Delay 20>
+Can you hear me, Elly!?
+Deus is no longer active.<New>
+It's all over now...<Delay 20>
+So come out of there.
+Show me your face! 
+Elly!<Delay 20> Elly!"<Close><End of Block>
+<TextBlock 26 w:44 h:3>
+Bart
+"W,<Delay 20> what the...?
+What's happening...!?"<Close><End of Block>
+<TextBlock 27 w:32 h:4>
+Fei
+"Doc!?
+What's going on?
+What's wrong?"<Close><End of Block>
+<TextBlock 28 w:54 h:4>
+Citan
+"I am now detecting a
+tremendous amount of energy
+coming from within Deus.<New>
+It seems as if something
+that was sealed up till now
+has suddenly been freed and
+is growing enormously..."<Close><End of Block>
+<TextBlock 29 w:46 h:3>
+Fei
+"It couldn't be...<Delay 20>
+the 'Wave Existence'!?"<Close><End of Block>
+<TextBlock 30 w:46 h:2>
+Bart
+"The 'Wave Existence'?"<Close><End of Block>
+<TextBlock 31 w:50 h:4>
+Fei
+"That's gotta be it.<New>
+The 'Wave Existence' was
+just freed from its 'cage
+of fleshly existence' in
+Zohar...<New>
+It's probably attempting
+to return to the higher
+dimension that it
+originally came from."<Close><End of Block>
+<TextBlock 32 w:44 h:4>
+Citan
+"Which means...<Delay 20>this is
+the aftereffect of the
+dimensional shift!?"<Close><End of Block>
+<TextBlock 33 w:40 h:3>
+Rico
+"What do you mean...
+'aftereffect'!?"<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Citan
+"It is like a shock wave
+that is induced by the
+dimensional displacement.<New>
+But...<Delay 5>so much energy!?<Delay 10>
+If this much energy is
+unleashed here now..."<Close><End of Block>
+<TextBlock 35 w:52 h:4>
+Fei
+"...If so much energy is
+unleashed...then what will
+happen, doc!? Tell us!"<Close><End of Block>
+<TextBlock 36 w:44 h:4>
+Citan
+"...Then this planet
+will be annihilated!<New>
+These numbers indicate
+that it has more than
+enough energy to take
+out a whole planet!"<Close><End of Block>
+<TextBlock 37 w:32 h:2>
+<Chu-Chu>
+"Whatchu mean!?"<Close><End of Block>
+<TextBlock 38 w:48 h:2>
+Bart
+"You can't be serious!?"<Close><End of Block>
+<TextBlock 39 w:36 h:4>
+Billy
+"We all fought so
+hard...<Delay 10>only to see
+this happen...!?"<Close><End of Block>
+<TextBlock 40 w:40 h:4>
+Fei
+"Isn't there...
+isn't there anything
+we can do?<New>
+Can't we stop the
+aftereffect!?"<Close><End of Block>
+<TextBlock 41 w:54 h:4>
+Citan
+"Unfortunately, there
+is nothing we can do...<New>
+Almost all machinery,
+including our Gears, are
+out of commission due to
+Zohar having been shutdown.<New>
+This time, there is nothing
+we can do...<Delay 10>
+To put it to you straight<Delay 20>
+...this is the end for us!"<Close><End of Block>
+<TextBlock 42 w:50 h:4>
+Bart
+"This is freakin' stupid!
+How the hell could it all
+end like this!?<New>
+What were we all fighting
+for up to now!?"<Close><End of Block>
+<TextBlock 43 w:40 h:3>
+Billy
+"Th, the vibrations
+are intensifying..."<Close><End of Block>
+<TextBlock 44 w:44 h:4>
+Rico
+"Hold on a sec...!
+No, these vibrations
+are different!<New>
+It has to be something
+else causing it..."<Close><End of Block>
+<TextBlock 45 w:14 h:2>
+Maria
+"Look!"<Close><End of Block>
+<TextBlock 46 w:26 h:2>
+Bart
+"Deus is...!"<Close><End of Block>
+<TextBlock 47 w:36 h:2>
+Fei
+"Deus is rising!?"<Close><End of Block>
+<TextBlock 48 w:24 h:3>
+<Chu-Chu>
+"What is it
+this time!?"<Close><End of Block>
+<TextBlock 49 w:52 h:4>
+Citan
+"Deus is releasing its
+remaining energy and is
+beginning to accelerate...<New>
+If it continues to
+accelerate at this rate,
+it will soon leave the
+atmosphere..."<Close><End of Block>
+<TextBlock 50 w:44 h:2>
+Fei
+"You don't think...!?"<Close><End of Block>
+<TextBlock 51 w:28 h:2>
+Bart
+"Think what!?"<Close><End of Block>
+<TextBlock 52 w:48 h:3>
+Fei
+"That it's Elly!?
+Elly is moving Deus...!"<Close><End of Block>
+<TextBlock 53 w:32 h:2>
+Rico
+"Are you sure!?"<Close><End of Block>
+<TextBlock 54 w:44 h:3>
+Fei
+"I'm sure of it!<New>
+Elly is trying to save
+us by moving Deus away
+from our planet!<New>
+She's going to
+sacrifice herself..."<Close><End of Block>
+<TextBlock 55 w:34 h:3>
+Maria
+"That can't be...
+Oh, Elly..."<Close><End of Block>
+<TextBlock 56 w:54 h:4>
+Billy
+"Can't we do anything...?
+We can't just sit here and
+watch this happen, can we?"<Close><End of Block>
+<TextBlock 57 w:10 h:2>
+Citan
+"..."<Close><End of Block>
+<TextBlock 58 w:40 h:4>
+Fei
+"Wait...<Delay 5>
+There is still
+something I can do!"<Close><End of Block>
+<TextBlock 59 w:38 h:2>
+<Chu-Chu>
+"What is it, Fei!?"<Close><End of Block>
+<TextBlock 60 w:52 h:4>
+Fei
+"My Gear still works.<New>
+Without Zohar, the power
+source for your Gears, the
+only Gear that now remains
+active is mine.<New>
+Just like Deus, my Gear
+and I made contact with
+Zohar. We are the only
+one's who can move now.<New>
+I am going to go save
+Elly!"<Close><End of Block>
+<TextBlock 61 w:52 h:4>
+Citan
+"That is absurd!<New>
+Even if you were able to
+catch up to Deus, you will
+not have enough energy to
+make it back!"<Close><End of Block>
+<TextBlock 62 w:52 h:4>
+Fei
+"Even so, I still must go.
+Elly's taking the whole
+burden upon herself!<New>
+If anything happens to
+her...<Delay 10>
+I want to be there with
+her..."<Close><End of Block>
+<TextBlock 63 w:54 h:4>
+Bart
+"Hey!
+Just wait a minute!<New>
+You know I'm not gonna
+stand by and let you commit
+double suicide...if that's
+what you're planning!"<Close><End of Block>
+<TextBlock 64 w:18 h:2>
+Fei
+"Bart..."<Close><End of Block>
+<TextBlock 65 w:46 h:4>
+Bart
+"...<Delay 20>
+You better come back
+alive, you hear!?<New>
+Promise me!!
+Promise me that you
+will come back...
+Then I'll let you go!!"<Close><End of Block>
+<TextBlock 66 w:36 h:3>
+Fei
+"...<Delay 20>Thanks, Bart.<Delay 10>
+I promise.<New>
+I promise you that
+I will return...<Delay 10>
+with Elly!"<Close><End of Block>
+<TextBlock 67 w:26 h:2>
+Bart
+"You better."<Close><End of Block>
+<TextBlock 68 w:36 h:2>
+Fei
+"Yeah, of course!"<Close><End of Block>
+<TextBlock 69 w:32 h:3>
+Bart
+"Alright!
+Then get goin'!"<Close><End of Block>
+<TextBlock 70 w:18 h:2>
+Citan
+"But...!"<Close><End of Block>
+<TextBlock 71 w:50 h:3>
+Bart
+"Let's let him go, Citan.<New>
+At this point, Fei's the
+only one that'll be able
+to bring Elly back.<New>
+There's nothing we can
+say or do about it."<Close><End of Block>
+<TextBlock 72 w:46 h:3>
+Citan
+"...You are right.<Delay 20> Fei,
+keep your promise..."<Close><End of Block>
+<TextBlock 73 w:38 h:2>
+Billy
+"No matter what..."<Close><End of Block>
+<TextBlock 74 w:34 h:2>
+Maria
+"Fei and Elly..."<Close><End of Block>
+<TextBlock 75 w:32 h:2>
+Emeralda
+"Both of you..."<Close><End of Block>
+<TextBlock 76 w:38 h:2>
+Rico
+"Come back home..."<Close><End of Block>
+<TextBlock 77 w:34 h:3>
+<Chu-Chu>
+"We'll be waiting
+for you chu!"<Close><End of Block>
+<TextBlock 78 w:44 h:4>
+Fei
+"I appreciate this...<Delay 20>
+Bart...<Delay 20>
+and the rest of you...<New>
+Well I had better get
+going now...<Delay 10>
+But don't worry!
+I will be back soon!"<Close><End of Block>
+<TextBlock 79 w:44 h:4>
+Fei
+"I guess this will be
+the last journey you
+and I make together...<New>
+I'm counting on you...
+partner!"<Close><Close><End of Block>

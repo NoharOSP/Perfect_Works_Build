@@ -1,0 +1,463 @@
+<TextBlock 1 w:14 h:1>
+Margie!<Close><End of Block>
+<TextBlock 2 w:14 h:1>
+Margie!<Close><End of Block>
+<TextBlock 3 w:42 h:2>
+Margie
+"I'm back, everyone!"<Close><End of Block>
+<TextBlock 4 w:56 h:1>
+Oh, Margie...<New>
+We're so glad you're safe...<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Margie
+"Yes, it is all thanks
+to Bart and his men."<Close><End of Block>
+<TextBlock 6 w:48 h:2>
+We just received word...<New>
+So we were singing a
+hymn of praise and joy.<New>
+We're so happy...
+Oh, what a relief!<Close><End of Block>
+<TextBlock 7 w:54 h:3>
+Sister Agnes
+"Welcome back, Margie.<New>
+We had faith that you and
+your cousin Bart would one
+day return safely...<New>
+We and your other friends
+have been waiting for you."<Close><End of Block>
+<TextBlock 8 w:30 h:2>
+Margie
+"Sister Agnes!"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Sister Agnes
+"Unfortunately, your
+mother and the blessed
+Royal Mother..."<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Margie
+"I know, Sister Agnes<Delay 5>...<Delay 60>
+I heard about it at
+the Royal Capital<Delay 5>..."<Close><End of Block>
+<TextBlock 11 w:52 h:3>
+Margie
+"...But at least I
+have made it back...<New>
+I'll never go anywhere,
+or leave you from now on!<New>
+I won't make you all worry
+anymore...ever again!"<Close><End of Block>
+<TextBlock 12 w:44 h:2>
+Sister Agnes
+"Bless you my dear..."<Close><End of Block>
+<TextBlock 13 w:48 h:3>
+Margie
+"Sister Agnes, this just
+isn't like you at all!<New>
+Here I am back
+safe and sound.<New>
+Can't you rebuke
+me just a little,
+for old time's sake?"<Close><End of Block>
+<TextBlock 14 w:38 h:3>
+Sister Agnes
+"Ha...
+I'm sorry...<New>
+But I'm just so
+happy that I cannot
+help but..."<Close><End of Block>
+<TextBlock 15 w:22 h:1>
+"Sister..."<Close><End of Block>
+<TextBlock 16 w:54 h:3>
+Sister Agnes
+"...There is no reason
+to be so solemnly quiet..."<Close><End of Block>
+<TextBlock 17 w:38 h:3>
+Margie
+"...Thank you,
+and bless you all!"<Close><End of Block>
+<TextBlock 18 w:48 h:3>
+Margie
+"Oh, yes, Sister...<Delay 30>
+May I go upstairs?<New>
+It's been oh so long,
+so I want to have a look
+around up there too."<Close><End of Block>
+<TextBlock 19 w:54 h:2>
+Sister Agnes
+"Oh, but of course, dear!<New>
+Don't even think of holding
+back from anything...<New>
+Except for one thing...<New>
+Never stay away so long
+like that again."<Close><End of Block>
+<TextBlock 20 w:44 h:3>
+Margie
+"Ha, ha!
+I knew you'd say that.<New>
+Now that's the Agnes
+I know!'<Close><End of Block>
+<TextBlock 21 w:46 h:1>
+"Margie, I am so glad."<Close><End of Block>
+<TextBlock 22 w:52 h:3>
+Bart
+"It's been a while since
+the last time I was here."<Close><End of Block>
+<TextBlock 23 w:50 h:2>
+Bart
+"...?<New>
+Something wrong, Margie?"<Close><End of Block>
+<TextBlock 24 w:26 h:2>
+Margie
+"...Nothing.<New>
+It's just..."<Close><End of Block>
+<TextBlock 25 w:38 h:4>
+Margie
+"I guess I got a 
+little emotional...
+Heh, heh, heh..."<Close><End of Block>
+<TextBlock 26 w:10 h:2>
+Bart
+"..."<Close><End of Block>
+<TextBlock 27 w:38 h:3>
+Bart
+"Anyhow, take it
+easy for a while.<New>
+...You've put up
+with enough, okay."<Close><End of Block>
+<TextBlock 28 w:52 h:3>
+Margie
+"...If you are trying to
+make me cry, you'll fail."<Close><End of Block>
+<TextBlock 29 w:46 h:3>
+Margie
+"Oh yes!<New>
+I'll show Fei and Citan
+around our cathedral...<Delay 10>
+Follow me!"<Close><End of Block>
+<TextBlock 30 w:44 h:3>
+Citan
+"What a strong
+girl she is...<New>
+It is obvious that she
+really wants to just
+break down and cry..."<Close><End of Block>
+<TextBlock 31 w:48 h:3>
+Bart
+"Yeah, you're right...<New>
+That's just the way
+she has always been.<New>
+For all her talk, she
+understands her position
+well...<New>
+Maybe there are a few
+things I could learn
+from her too."<Close><End of Block>
+<TextBlock 32 w:42 h:2>
+Citan
+"...How magnificent!"<Close><End of Block>
+<TextBlock 33 w:50 h:4>
+Margie
+"If we ever got scolded
+for pranks as kids, Bart
+and I used to hide here."<Close><End of Block>
+<TextBlock 34 w:38 h:4>
+Bart
+"Hey, stop telling
+those old stories.
+It's embarrassing!"<Close><End of Block>
+<TextBlock 35 w:50 h:3>
+Margie
+"But to me, Bart hasn't
+changed much since then."<Close><End of Block>
+<TextBlock 36 w:46 h:4>
+Bart
+"What!?
+You mean that you think
+I'm still a kid!?"<Close><End of Block>
+<TextBlock 37 w:42 h:3>
+Margie
+"I like the view from
+here the best."<Close><End of Block>
+<TextBlock 38 w:28 h:3>
+Citan
+"Yes, this is
+breathtaking!"<Close><End of Block>
+<TextBlock 39 w:54 h:4>
+Citan
+"Light from outside shining
+through the stained glass
+of the cathedral's front...<New>
+What a brilliant piece of
+artistry this is."<Close><End of Block>
+<TextBlock 40 w:48 h:4>
+Margie
+"Did you notice that the
+two great angels only
+have one wing each...?"<Close><End of Block>
+<TextBlock 41 w:54 h:3>
+   According to a legend
+  handed down in Nisan...<New>
+  God could have created
+    humans perfectly...<New>
+But then, humans would not
+ have helped each other...<New>
+So that is what these great
+   single-winged angels
+       symbolizes...<New>
+ In order to fly, they are
+ dependent on one another.<Close><End of Block>
+<TextBlock 42 w:50 h:4>
+Citan
+"Ah, so that is the
+reason for it.<New>
+I see...<Delay 5>
+On further inspection,
+the left angel looks
+somewhat masculine...<New>
+...while the right one
+looks somewhat feminine."<Close><End of Block>
+<TextBlock 43 w:46 h:3>
+Citan
+"Now that is an unusual
+feature, is it not?"<Close><End of Block>
+<TextBlock 44 w:52 h:3>
+Citan
+"Usually these depictions
+are not gender-specific.<New>
+But these angels are
+clearly distinguishable as
+having opposing genders."<Close><End of Block>
+<TextBlock 45 w:44 h:4>
+Citan
+"And the space between
+them is the path from
+where god advents..."<Close><End of Block>
+<TextBlock 46 w:42 h:3>
+Citan
+"Or could it be the
+path leading to god?<New>
+Well...I do not know,
+it could be either,
+or even both."<Close><End of Block>
+<TextBlock 47 w:30 h:2>
+Citan
+"...Now I see!"<Close><End of Block>
+<TextBlock 48 w:48 h:3>
+Citan
+"This all coincides with
+the teachings of Nisan."<Close><End of Block>
+<TextBlock 49 w:54 h:4>
+Margie
+"Ha, ha, ha!
+Why Doctor Citan Uzuki!
+You are an amusing fellow!"<Close><End of Block>
+<TextBlock 50 w:50 h:3>
+Citan
+"Oh!
+Excuse me.<New>
+It is a habit of mine..."<Close><End of Block>
+<TextBlock 51 w:48 h:3>
+Fei
+"The doc knows a lot
+about a lot of things...<New>
+Sometimes I can't even
+understand what he's
+talking about..."<Close><End of Block>
+<TextBlock 52 w:46 h:4>
+Bart
+"...Hah!
+Forcing them to fly
+together...?<New>
+It would be less
+bothersome if they
+could fly on their own,
+don't you think, Fei?"<Close><End of Block>
+<TextBlock 53 w:54 h:4>
+Margie
+"Bart!
+You miss the deeper meaning
+and beauty of it!"<Close><End of Block>
+<TextBlock 54 w:46 h:4>
+Margie
+"Someday I wish I could
+be of help to someone
+like that..."<Close><End of Block>
+<TextBlock 55 w:52 h:4>
+Margie
+"Oh, we haven't visited
+the 'Room of Sophia' yet,
+have we?<New>
+You're really supposed to
+go through some procedures
+before you can see it...<New>
+But this time I think it
+will be alright if I make
+a special exception."<Close><End of Block>
+<TextBlock 56 w:18 h:2>
+Fei
+"Sophia?"<Close><End of Block>
+<TextBlock 57 w:44 h:4>
+Margie
+"Yes, Sophia.<New>
+She is revered as the
+founding mother of the
+Nisan nation...<New>
+and the founder of the
+Nisan religion who set
+forth its teachings.<New>
+There is a special
+room upstairs that
+has a portrait of
+Mother Sophia in it."<Close><End of Block>
+<TextBlock 58 w:50 h:4>
+Citan
+"I would definitely like
+to view that! Fei, let us
+go have a look at it!<Close><End of Block>
+<TextBlock 59 w:48 h:4>
+Margie
+"We go up to the gallery
+on the second floor from
+here..."<Close><End of Block>
+<TextBlock 60 w:34 h:2>
+Sister Agnes
+"Well, everyone!"<Close><End of Block>
+<TextBlock 61 w:56 h:3>
+Sister Agnes
+"To celebrate the return
+of our dear sister Margie...<New>
+and to express our joy to
+heaven, let us finish
+singing our hymn."<Close><End of Block>
+<TextBlock 62 w:48 h:3>
+(...You must have
+been through so much
+at the Royal Capital...)<Close><End of Block>
+<TextBlock 63 w:46 h:2>
+No unauthorized persons
+   beyond this point.<Close><End of Block>
+<TextBlock 64 w:44 h:3>
+To come here when you
+are so young is a sign
+of your interest!<Close><End of Block>
+<TextBlock 65 w:14 h:1>
+( ... )<Close><End of Block>
+<TextBlock 66 w:34 h:3>
+Hey, hey!
+Don't go up there
+like that!<Close><End of Block>
+<TextBlock 67 w:54 h:3>
+I moved from another
+town to live here...<New>
+But they say some young
+people do the opposite
+and move away from here.<New>
+I wonder if it is because
+they want something more
+than peace in their hearts?<New>
+I guess that is just how
+young people are today!<Close><End of Block>
+<TextBlock 68 w:58 h:3>
+My husband was a soldier in
+the Royal Capital's army...<New>
+But he died a few years back,
+near the border of Kislev.<New>
+Since then, I have been
+coming here every year on
+the anniversary of his death.<Close><End of Block>
+<TextBlock 69 w:56 h:3>
+I live in the Royal Capital,<Delay 30>
+but my oh my...<Delay 30>, this was
+definitely worth the trip!<New>
+I never knew it was
+so beautiful!<Close><End of Block>
+<TextBlock 70 w:54 h:1>
+Who's that guy you're with?<New>
+What's his problem...!?<New>
+(...<Delay 30> 'castle fetish'!?)<Close><End of Block>
+<TextBlock 71 w:28 h:4>
+Fei
+"Huh?<Delay 30>
+Ah... Maybe...
+<Delay 30>I think."<Close><End of Block>
+<TextBlock 72 w:56 h:3>
+I live in the Royal Capital,<Delay 30>
+but my oh my...<Delay 30>, this was
+definitely worth the trip!<New>
+I never knew it was
+so beautiful!<Close><End of Block>
+<TextBlock 73 w:36 h:3>
+Bart
+(Hmm...
+Yes you're right!)<Close><End of Block>
+<TextBlock 74 w:38 h:2>
+Fatima Castle is no
+comparison to this.<Close><End of Block>
+<TextBlock 75 w:40 h:3>
+Bart
+(Hmm...
+Yes you're...<Delay 60> What!)<Close><End of Block>
+<TextBlock 76 w:42 h:4>
+Bart
+"Hey you!<Delay 30>
+Are you putting
+down Fatima Castle!?"<Close><End of Block>
+<TextBlock 77 w:50 h:1>
+No, I didn't mean that...<Close><End of Block>
+<TextBlock 78 w:34 h:1>
+Who is this guy!?<Close><End of Block>
+<TextBlock 79 w:30 h:2>
+Fei
+"H, hey! Bart!"<Close><End of Block>
+<TextBlock 80 w:50 h:4>
+Bart
+"Don't you be dissin' me.
+You don't even know
+who you're looking at!"<Close><End of Block>
+<TextBlock 81 w:40 h:3>
+Bart
+"Damn... Never mind,
+just forget it!"<Close><End of Block>
+<TextBlock 82 w:50 h:4>
+I'm on a pilgrimage all
+over this country, and
+recently traveled to the
+Royal Capital area.<New>
+I just got back here a
+few days ago, but will
+probably be leaving here
+again in a few days time.<Close><End of Block>
+<TextBlock 83 w:46 h:3>
+I want to see with my
+own eyes what will
+become of this country.<Close><End of Block>
+<TextBlock 84 w:64 h:5>
+Preparations should be starting
+near the border of this sect's
+country for the charge by
+the Royal Capital's army.<New>
+But a miscalculated move
+directed on the enemy is
+certain to backfire
+on us, so we'll be taking covert
+action for a while.<New>
+I'm on my way there now, but I
+thought I'd offer a prayer
+before I go.<Close><End of Block>
+<TextBlock 85 w:54 h:4>
+As a matter of fact, the
+guy next to me and I were
+born here.<New>
+Years ago, we both got
+tired of the peaceful but
+boring life here, so we
+ran away from home.<New>
+But we both ended up
+enlisting in the army.<New>
+It's not that we have any
+particularly happy memories
+or whatever here...<New>
+it's just that, after all,
+this is the land of our
+birth, so well y'know...<Close><Close><End of Block>

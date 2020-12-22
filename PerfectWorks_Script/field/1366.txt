@@ -1,0 +1,27 @@
+<TextBlock 1 w:38 h:3>
+...I just can't...
+hand our child...
+...over...to you...<Opcode 2 150><Close><End of Block>
+<TextBlock 2 w:22 h:1>
+...Live...!<Opcode 2 150><Close><End of Block>
+<TextBlock 3 w:48 h:2>
+ ...Our cursed existence
+ bound to the earth...<Opcode 2 84><Close><End of Block>
+<TextBlock 4 w:56 h:3>
+ ...Oh vessel for a new soul
+ ...created to remove that
+ 'yoke'...<Opcode 2 84><Close><End of Block>
+<TextBlock 5 w:38 h:3>
+...I just can't...
+hand our child...
+...over...to you...<Opcode 2 150><Close><End of Block>
+<TextBlock 6 w:40 h:3>
+...!
+  ...!
+   ...! No! Stop it!<Opcode 2 150><Close><End of Block>
+<TextBlock 7 w:34 h:2>
+...! No!
+Stop...I beg you!<Opcode 2 90><Close><End of Block>
+<TextBlock 8 w:40 h:2>
+Huh?
+Where did Fei go...?<Close><Close><End of Block>

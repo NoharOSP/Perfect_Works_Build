@@ -1,0 +1,273 @@
+<TextBlock 1 w:44 h:2>
+ 
+ Received Gold Nugget.<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Hey! <Delay 3>
+If you need something
+from my store, go talk
+to my stupid son.<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Hey!<Delay 3>
+I'm not closing down even
+if the Wels show up.<New>
+If you need something,
+talk to my stupid son.<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Hey!<Delay 3>
+You've got your eyes on
+something good...Damn.<Delay 3>
+You know what this is?<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+...is what it is.
+Pretty cool, huh?<Close><End of Block>
+<TextBlock 6 w:6 h:1>
+...<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Hey, wait a minute.
+This isn't for sale.
+Sorry, I can't sell it.<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Hey!<Delay 3>
+For being so young you
+have good taste. Damn.<Delay 3>
+This is...<Close><End of Block>
+<TextBlock 9 w:40 h:2>
+...is what it is.
+Isn't this just bad?<Close><End of Block>
+<TextBlock 10 w:6 h:1>
+...<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:46 h:3>
+Hey, wait a minute.
+This is not for sale.
+Sorry, I can't sell it.<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Hey!<Delay 3>
+I'm damn sure you'll like
+this.<Delay 3>
+This is...<Close><End of Block>
+<TextBlock 13 w:6 h:1>
+Oh?<Opcode 2 20><Close><End of Block>
+<TextBlock 14 w:10 h:1>
+Ohhh?<Opcode 2 20><Close><End of Block>
+<TextBlock 15 w:44 h:2>
+...is what it is.
+Isn't this just great?<Close><End of Block>
+<TextBlock 16 w:6 h:1>
+...<Opcode 2 30><Close><End of Block>
+<TextBlock 17 w:46 h:3>
+Hey, wait a minute.
+This is not for sale.
+Sorry, I can't sell it.<Close><End of Block>
+<TextBlock 18 w:46 h:4>
+Whaddya saying?<Delay 3>
+Stupid kid!!<New>
+There ain't no way you
+could ever understand
+the soul and romance of
+a Thames' man!<Close><End of Block>
+<TextBlock 19 w:32 h:1>
+Hey, come on in.<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+Damn!!
+You dumb old man.<New>
+All you make is useless
+crap! Why don't you make
+something that'll sell!?<Close><End of Block>
+<TextBlock 21 w:54 h:3>
+What the?
+The soul of a Thames' man!?<New>
+If they were all as dumb as
+you, the Thames'd have gone
+under long ago!"<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+Hey, have you met the
+Captain yet? He is sooo
+cool! I wanna grow up to
+be just like him.<Close><End of Block>
+<TextBlock 23 w:10 h:1>
+I am!<Close><End of Block>
+<TextBlock 24 w:12 h:1>
+A man!<Close><End of Block>
+<TextBlock 25 w:36 h:2>
+of the sea<Delay 10>...<Delay 10>
+...Hey wait? Oops.<Close><End of Block>
+<TextBlock 26 w:34 h:3>
+It's over here.
+I still need more
+practice.<Close><End of Block>
+<TextBlock 27 w:48 h:3>
+I'm sure the Wels are
+followin' us 'cus of the
+Captain.<Close><End of Block>
+<TextBlock 28 w:8 h:1>
+Men!<Close><End of Block>
+<TextBlock 29 w:22 h:1>
+of the sea!<Close><End of Block>
+<TextBlock 30 w:32 h:2>
+never lose...<Delay 10>...<Delay 10>
+...Hey!<Close><End of Block>
+<TextBlock 31 w:48 h:2>
+Ah, here,
+yep, just a little more.<Close><End of Block>
+<TextBlock 32 w:46 h:3>
+Hey, welcome.
+Rare finds from the sea
+bottom on parade.<Close><End of Block>
+<TextBlock 33 w:32 h:1>
+Come again soon.<Close><End of Block>
+<TextBlock 34 w:50 h:3>
+My lil' sister pushed me.
+She always picks on me.
+I'm so scared.<Close><End of Block>
+<TextBlock 35 w:54 h:3>
+My lil' sister pushed me.
+She always bullies me.
+I'm so scared.<New>
+I'm scared of the Wels too.<Close><End of Block>
+<TextBlock 36 w:46 h:3>
+My big brother's a real
+wimp, he's scared of
+heights...<New>
+Pathetic. 
+Just calm down.<Close><End of Block>
+<TextBlock 37 w:54 h:3>
+My big brother is so scared
+of the Wels he won't go to
+the bathroom alone.<New>
+Pathetic.
+Just calm down.<Close><End of Block>
+<TextBlock 38 w:28 h:1>
+It's so<Delay 10>...<Delay 10>hot.<Close><End of Block>
+<TextBlock 39 w:48 h:1>
+The Reapers<Delay 10>...<Delay 10>are scary.<Close><End of Block>
+<TextBlock 40 w:28 h:1>
+It's so<Delay 10>...<Delay 10>hot.<Close><End of Block>
+<TextBlock 41 w:48 h:1>
+The Reapers<Delay 10>...<Delay 10>are scary.<Close><End of Block>
+<TextBlock 42 w:34 h:3>
+I lost.
+You get this.
+Let's play again.<Close><End of Block>
+<TextBlock 43 w:46 h:2>
+ 
+ Received a Zetasol DX.<Close><End of Block>
+<TextBlock 44 w:50 h:2>
+ 
+ Received a Physimentsol.<Close><End of Block>
+<TextBlock 45 w:40 h:2>
+ 
+ Received a Rosesol.<Close><End of Block>
+<TextBlock 46 w:44 h:2>
+ 
+ Received a Rosesol S.<Close><End of Block>
+<TextBlock 47 w:40 h:2>
+ 
+ Received a Zetasol.<Close><End of Block>
+<TextBlock 48 w:46 h:2>
+ 
+ Received an Aquasol S.<Close><End of Block>
+<TextBlock 49 w:48 h:2>
+ 
+Received a DeathBlower1.<Close><End of Block>
+<TextBlock 50 w:30 h:2>
+Hmm, you're not
+ready yet.<Close><End of Block>
+<TextBlock 51 w:30 h:2>
+Hmm, you're not
+ready yet.<Close><End of Block>
+<TextBlock 52 w:36 h:3>
+Hey you look good.<New>
+Wanna play?
+    Okay
+    Nope<Close><End of Block>
+<TextBlock 53 w:32 h:2>
+Sigh,
+you'll be sorry.<Close><End of Block>
+<TextBlock 54 w:34 h:2>
+I see, it must be
+for your health.<Close><End of Block>
+<TextBlock 55 w:50 h:7>
+Wow, you suck. Why don't
+you come back when you've
+gotten a little better!<New>
+You'd better practice
+somewhere other than
+Thames. What? You don't
+know what I'm talking
+about? Hah! I KNOW you
+know what I'm talking
+about!<Close><End of Block>
+<TextBlock 56 w:42 h:1>
+Queenie is so strong.<Close><End of Block>
+<TextBlock 57 w:48 h:1>
+Queenie is so beautiful.<Close><End of Block>
+<TextBlock 58 w:46 h:3>
+I was so surprised
+there are people living
+afloat on the vast sea.<New>
+On top of that, you
+were with two Gears.
+That's unheard of.<Close><End of Block>
+<TextBlock 59 w:42 h:3>
+Elly
+"Thanks. 
+You helped us out..."<Close><End of Block>
+<TextBlock 60 w:52 h:4>
+You'd better thank the
+Captain. <New>
+The one who gave the order
+for us to pull you two
+floaters out was the
+Captain o' the Thames.<Close><End of Block>
+<TextBlock 61 w:24 h:3>
+Fei
+"Thames? <Delay 5>
+Captain...?"<Close><End of Block>
+<TextBlock 62 w:56 h:3>
+The Thames, the city at sea.
+That is where you are now.<New>
+The captain here is a bit
+of a strange old chap.<New>
+You'll see when you meet
+him. That's not to say
+he's a bad old blighter.<Close><End of Block>
+<TextBlock 63 w:44 h:3>
+Elly
+"Um...
+What about our Gears?"<Close><End of Block>
+<TextBlock 64 w:52 h:3>
+Don't worry about it. We
+put them inside the Thames
+through the supply dock.<New>
+Sea water got inside so
+it'll take some time to
+fix them.<Close><End of Block>
+<TextBlock 65 w:36 h:3>
+Fei
+"You're repairing 
+them for us?"<Close><End of Block>
+<TextBlock 66 w:48 h:3>
+Pretty strange for us to
+be so nice, I bet that's
+what you're thinking.<New>
+But really, we had no
+choice because it's the
+Captain's orders...<Close><End of Block>
+<TextBlock 67 w:52 h:3>
+Well, I have to go now.
+I'm a busy guy, y'know!<New>
+Come to the bridge after
+you've looked around the
+ship a while.<New>
+I'm sure the Captain would
+want to meet you.<Close><End of Block>
+<TextBlock 68 w:28 h:3>
+Elly
+"Fei, 
+what's wrong?"<Close><End of Block>
+<TextBlock 69 w:44 h:4>
+Fei
+"I feel like I've seen
+that guy somewhere
+before...<Delay 10><New>
+Never mind."<Close><Close><End of Block>

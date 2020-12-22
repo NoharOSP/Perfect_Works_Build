@@ -1,0 +1,327 @@
+<TextBlock 1 w:48 h:4>
+Citan
+"Are you ready? <Delay 10>
+I am going later so get 
+some rest before then."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Citan
+"Fei, there is no need to
+be mad at Bart. <Delay 10>
+Just forgive him."<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Citan
+"Fei, there is no reason 
+to be mad at Bart. <Delay 10>
+Just forgive him."<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+Sigurd
+"We set out early tomorrow.<Delay 10><New>
+It's best to get ready
+today and rest up in our
+rooms from the journey."<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Sigurd
+"I'm searching the 
+information network <New>
+for reports on
+Aveh's condition."<Close><End of Block>
+<TextBlock 6 w:54 h:7>
+Sigurd
+"What do you want to know?<Delay 10>
+    <Opcode 1 255>Who is Margie?
+    Who is Shakhan?
+    What's a Fatima Jasper?
+    More about Nisan
+    Nothing<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Sigurd
+"Margie is Mother 
+Marguerite of Nisan.<New>
+But Shakhan of Aveh has
+locked her up and is
+looking for the Fatima
+Jasper now. <New>
+Bart may not look it,
+but he's very worried."<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Sigurd
+"Shakhan was the Prime
+Minister of Aveh.<New>
+But he is the defacto
+leader now.<Delay 10>
+His rule is what has
+put our Aveh in turmoil."<Close><End of Block>
+<TextBlock 9 w:48 h:3>
+Sigurd
+"Margie has half of the 
+Fatima Jasper.<New>
+Shakhan wants it because
+it tells the location of
+the great treasure."<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Sigurd
+"Nisan is a small,
+sacred country in the
+west of Ignas.<New>
+In its center is a huge
+cathedral beautifully
+ornamented. <New>
+The country was founded
+by Sophia.<New>
+She is called the
+'Mother of Knowledge'
+by her followers, the
+-Kahal-.<New>
+She was also Nisan's 
+first Mother."<Close><End of Block>
+<TextBlock 11 w:38 h:2>
+Sending the latest 
+information!<Close><End of Block>
+<TextBlock 12 w:40 h:2>
+We are praying for a
+successful rescue!<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Escape route 4 is for
+civilians, all civilians
+in the dock area take
+refuge in the Yggdrasil!<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+12 years ago Sigurd 
+fled Aveh with the young
+master. <New>
+We've been good friends
+ever since.<Close><End of Block>
+<TextBlock 15 w:38 h:2>
+Sending the latest 
+information!<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+We'll forward the latest
+info. on to the Yggdrasil.
+Good luck rescuing Margie!<Close><End of Block>
+<TextBlock 17 w:46 h:1>
+They've entered gate 4.<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+We have an unidentifed
+heat reading in the 
+ventilation shaft. <Delay 10><New>
+They're Gears! Gate 3 
+has been destroyed!<Close><End of Block>
+<TextBlock 19 w:48 h:2>
+Main power source cut!!<Delay 10> 
+Switch to backup!<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+I wonder if Margie's
+alright?<Delay 10> I Hope she's not
+hurt? We're only operators
+but we still worry.<New>
+We can't do anything.<Delay 10>
+...Sniff...<Close><End of Block>
+<TextBlock 21 w:38 h:2>
+Sending the latest 
+information!<Close><End of Block>
+<TextBlock 22 w:38 h:2>
+Good luck rescuing 
+Margie!<Close><End of Block>
+<TextBlock 23 w:44 h:4>
+Gears have been lost! 
+Operational Gear: 5 
+In service: 1 
+Guest: 1 <New>
+All pilots report 
+immediately to the 
+Gear dock!<Close><End of Block>
+<TextBlock 24 w:22 h:1>
+All clear!!<Close><End of Block>
+<TextBlock 25 w:52 h:3>
+Citan
+"This place is incredible!<New>
+They probably do not even
+have equipment like this
+in the capital."<Close><End of Block>
+<TextBlock 26 w:42 h:4>
+Bart
+"Heh heh. Surprised? <Delay 10>
+All this technology
+is thanks to Sig."<Close><End of Block>
+<TextBlock 27 w:52 h:4>
+Bart
+"Hey, Fei!<Delay 10>
+Don't stand on the screen.<Delay 10>
+We won't be able to see!"<Close><End of Block>
+<TextBlock 28 w:46 h:4>
+Bart
+"Alright men!<Delay 10>
+Display my special file
+on the main screen."<Close><End of Block>
+<TextBlock 29 w:36 h:2>
+Citan
+"What is this...?"<Close><End of Block>
+<TextBlock 30 w:50 h:4>
+Bart
+"A picture scroll, nearly
+500 years old.<New>
+This is King Fatima I...<Delay 10>
+'body cloaked in flames
+making a blood oath with
+giants'.<New>
+They say he used the
+strength of the giants
+to found Aveh."<Close><End of Block>
+<TextBlock 31 w:54 h:4>
+Citan
+"It is amazing that such an
+ancient scroll exists...
+and in such good state too!<New>
+I thought the 'Ethos'
+controlled all such things
+as these..."<Close><End of Block>
+<TextBlock 32 w:38 h:3>
+Bart
+"Normally, yes.<New>
+But this was one of
+my father's prized
+possessions."<Close><End of Block>
+<TextBlock 33 w:14 h:2>
+Bart
+"Next!"<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Bart
+"After founding the
+country, Fatima forced the
+giants into slumber<Delay 5>...<New>
+...<Delay 5>to protect his kingdom's
+people if needed in the
+future.<Delay 15> But we don't know
+where they are hidden.<New>
+In another record, one of
+the giants is called the
+'Great Fatima Treasure'."<Close><End of Block>
+<TextBlock 35 w:28 h:3>
+Citan
+"What about
+the 'Jasper'?"<Close><End of Block>
+<TextBlock 36 w:40 h:3>
+Bart
+"Hey...<Delay 10>
+you sure know a lot.<New>
+Perhaps you're one
+of Shakhan's spies?"<Close><End of Block>
+<TextBlock 37 w:52 h:4>
+Citan
+"Of course not.<Delay 10>
+It is only an intellectual
+interest..."<Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Bart
+"Just kidding.<Delay 10> It appears
+the Jasper is the key to
+finding our treasure."<Close><End of Block>
+<TextBlock 39 w:38 h:3>
+Citan
+"A key...<New>
+Could that be what
+Shakhan is looking 
+for?"<Close><End of Block>
+<TextBlock 40 w:32 h:4>
+Bart
+"Not just him.<Delay 10>
+Gebler is also
+looking for it."<Close><End of Block>
+<TextBlock 41 w:38 h:3>
+Citan
+"Really?<New>
+Then we must rescue
+Marguerite as soon
+as possible."<Close><End of Block>
+<TextBlock 42 w:40 h:2>
+Bart
+"You're telling me!"<Close><End of Block>
+<TextBlock 43 w:52 h:4>
+Bart
+"Since we helped you<Delay 5>...<Delay 10>I
+was wondering if I could,
+in turn, ask you a favor?"<Close><End of Block>
+<TextBlock 44 w:36 h:4>
+Citan
+"Would that be<Delay 5>...<Delay 5>
+for us to help you
+rescue her<Delay 10>...?"<Close><End of Block>
+<TextBlock 45 w:50 h:4>
+Bart
+"Bright boy!<Delay 10>
+That's exactly it.<New>
+I heard from Sigurd<Delay 5>...<Delay 10>
+it seems that both Aveh
+and Kislev are after you!<New>
+So we can help you and
+you can help us<Delay 5>...<Delay 10>
+How about it?<Delay 10> 
+It's not much to ask."<Close><End of Block>
+<TextBlock 46 w:52 h:4>
+Citan
+"Well, if it pays for my
+room and board then I will
+help in any way I can..."<Close><End of Block>
+<TextBlock 47 w:48 h:4>
+Citan
+"What do you think, Fei?<Delay 10>
+You have not said
+anything for a while..."<Close><End of Block>
+<TextBlock 48 w:52 h:4>
+Bart
+"Yeah.<Delay 10>
+You were great back there
+in that stalactite cavern.<New>
+Your strength alone is
+greater than ten or twenty
+of Shakhan's guards."<Close><End of Block>
+<TextBlock 49 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 50 w:34 h:4>
+Bart
+"I'd love to have
+your power on my
+side!"<Close><End of Block>
+<TextBlock 51 w:46 h:3>
+Fei
+"Why does everyone want
+to make me fight?"<Close><End of Block>
+<TextBlock 52 w:42 h:4>
+Bart
+"H, huh...<Delay 10>
+What's wrong with you
+all of a sudden?"<Close><End of Block>
+<TextBlock 53 w:8 h:1>
+Fei?<Close><End of Block>
+<TextBlock 54 w:54 h:4>
+Fei 
+"I just don't feel like it!
+'Love to have my power'?<Delay 10>
+I don't have any!<New>
+What's wrong with you,<Delay 5>
+doc,<Delay 5> everyone<Delay 5>...<Delay 10>
+You're driving me to the
+brink.<New>
+Then there's that Gear<Delay 5>...<Delay 5>
+Grahf and my father<Delay 5>...<New>
+I don't have the time to
+help you out with your
+problems when I've got
+enough of my own!!"<Close><End of Block>
+<TextBlock 55 w:34 h:4>
+Bart
+"What's with him?<Delay 10>
+Is he always that
+short-tempered?"<Close><End of Block>
+<TextBlock 56 w:48 h:4>
+Citan
+"No, that is not it...<Delay 10>
+I am sorry.<New>
+Things have happened so
+fast that he has not had
+time to deal with it all
+yet.<Delay 10> Try to understand."<Close><End of Block>
+<TextBlock 57 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 58 w:0 h:1>
+<Close><End of Block>

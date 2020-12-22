@@ -1,0 +1,119 @@
+<TextBlock 1 w:36 h:1>
+Barrier Terminated<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Citan
+"I knew it! Jesiah is
+planning on using it!
+He must be stopped!<New>
+Billy, can you hear me!?<Delay 30>
+Billy!?...<Delay 45> No good...
+There is no response!!"<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Citan
+"Too late...!
+Billy!<New>
+That is a weapon that
+uses its pilot as the
+warhead!"<Close><End of Block>
+<TextBlock 4 w:22 h:2>
+Billy
+"Father..."<Close><End of Block>
+<TextBlock 5 w:30 h:4>
+Billy
+"What!?
+Th, then,
+father is...<New>
+...Oh my <Delay 30>god!!"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Jessie
+"Billy, if we merge
+our Gears
+together...<New>
+...then we can break
+through that barrier
+with our combined
+attack.<New>
+I'm gonna borrow your
+shoulder for a moment,
+so start aiming now."<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Jessie
+"Billy, you know
+now don't you? <New>
+Stein's teachings
+were all a deception.<New>
+That fabricated faith was
+just a worldly system for
+compensating those people
+with fragile souls.<New>
+But, faith and god aren't
+things which are given to
+you from others, right?<New>
+They are things you
+have to discover
+within yourself,
+and by yourself.<New>
+Things that cannot
+be put into words,
+things that cannot
+be expressed...<New>
+Isn't that what god is
+all about? 'Question
+not thy god, for thy
+god doth not respond.'"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Jessie
+"The reason I taught you
+how to use a gun as a 
+child was to save people.<New>
+You say that guns
+are just tools for
+killing people.
+But you are wrong.<New>
+'Guns' don't kill people.
+'People' kill people.<New>
+Have you ever looked at
+the expressions on the
+faces of those reapers
+you have destroyed?<New>
+It is an excruciating
+process to be turned
+into a reaper.<New>
+To ease their torturous
+pain, they seek human
+blood, and attack people
+in order to get it.<New>
+But, that does not
+vanquish the true pain
+within their hearts.<New>
+There is only one way to
+be saved from the pain.
+That is by termination.<New>
+Didn't all those reapers
+put out of their misery
+by you have peaceful
+looks on their faces?<New>
+Your gun saved those
+people who were turned
+into reapers. It's not
+something anyone can do.<New>
+The faith that enabled
+you to accomplish that
+was no deception...
+God exists within you!"<Close><End of Block>
+<TextBlock 9 w:28 h:4>
+Jessie
+"Alright, now!
+Let's go,
+Billy, go!"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Jessie
+"Let's wrap this up once
+and for all, eh Stein?<New>
+But, I want you to know
+that you aren't gonna
+see Racquel when you
+die...!<New>
+That's because your
+destination is going
+to be hell!"<Close><Close><Close><End of Block>

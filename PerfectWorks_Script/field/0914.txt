@@ -1,0 +1,143 @@
+<TextBlock 1 w:48 h:4>
+Ramsus
+"I am Ramsus, she is
+Miang. We would like to
+ask you some questions."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Margie
+"I'm Margie.
+Actually it's Marguerite.
+What do you want to know?<New>
+My favorite food? I like
+cake, Chiffon Nisan is my
+favorite. I haven't had
+it in so long..."<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Ramsus
+"Marguerite, we want to
+ask you about the Fatima
+family treasure...<New>
+I'm talking about the
+'Fatima Jasper'. You see,
+I'm keeping the piece
+you had in a safe place.<New>
+But I don't know where
+the other piece is.
+Do you?"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Margie
+"Nope.
+The one I had you took
+from me.<New>
+You didn't even give
+me anything for it.<New>
+Hey, the next time you
+come, could you bring
+some Chiffon Nisan?<New>
+I used to eat it
+everyday in Nisan.
+I don't think they
+make it in Aveh.<New>
+Aveh used to have such
+good bakers, but I
+guess they must have
+all died in the war."<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Ramsus
+"That is too bad.<New>
+I don't know much about
+cake, but I'll see if I
+can find some for you
+next time."<Close><End of Block>
+<TextBlock 6 w:36 h:3>
+Margie
+"Thank you Ramsus.
+I'll be waiting."<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Ramsus
+"Is there anything else
+you need?<New>
+If there's something you
+want I'll bring it next
+time."<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Margie
+"No. I just want to go
+back to Nisan. They must
+be so worried about me."<Close><End of Block>
+<TextBlock 9 w:42 h:4>
+Ramsus
+"I'm sorry but please
+wait a little longer.<New>
+We want you to stay
+here until we find
+the other half of the
+'Fatima Jasper'."<Close><End of Block>
+<TextBlock 10 w:2 h:1>
+?<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:24 h:1>
+Who are you?<Close><End of Block>
+<TextBlock 12 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 13 w:14 h:2>
+Margie
+"Bart!"<Close><End of Block>
+<TextBlock 14 w:26 h:3>
+Bart
+"Let's go
+home Margie!"<Close><End of Block>
+<TextBlock 15 w:38 h:3>
+Margie
+"I just knew you'd 
+come for me!"<Close><End of Block>
+<TextBlock 16 w:36 h:4>
+Bart
+"I'm getting
+you outta here!
+C'mon, follow me!"<Close><End of Block>
+<TextBlock 17 w:14 h:2>
+Margie
+"Okay."<Close><End of Block>
+<TextBlock 18 w:20 h:3>
+Margie
+"Oh, wait
+a second."<Close><End of Block>
+<TextBlock 19 w:22 h:3>
+Margie
+"I really
+like this."<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+Thank you so much
+for rescuing Mother
+Marguerite.<New>
+All of us in the Nisan
+Sect are deeply indebted
+to you.<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Today we came to pray to
+god for peace in Aveh,
+Nisan and Kislev. <Delay 60>
+Peace be with you all.<Close><End of Block>
+<TextBlock 22 w:42 h:1>
+Please wait a moment.<Opcode 2 30><Close><End of Block>
+<TextBlock 23 w:52 h:3>
+We are grateful to you
+for rescuing Mother
+Marguerite.<New>
+Thanks to you, we can
+return to Nisan overjoyed.<Close><End of Block>
+<TextBlock 24 w:42 h:1>
+Please wait a moment.<Opcode 2 30><Close><End of Block>
+<TextBlock 25 w:44 h:3>
+We would like to build
+Nisan churches in
+Bledavik and Dazil.<Close><End of Block>
+<TextBlock 26 w:42 h:1>
+Please wait a moment.<Opcode 2 30><Close><End of Block>
+<TextBlock 27 w:44 h:3>
+This is the room 
+Mother Marguerite was 
+locked away in.<New>
+She must have been so
+terrified.<Close>
+errified.<Close><Close><End of Block>

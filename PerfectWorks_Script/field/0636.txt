@@ -1,0 +1,191 @@
+<TextBlock 1 w:34 h:4>
+Fei
+"...?<Delay 60>
+W, what was that,
+just now...?"<Close><End of Block>
+<TextBlock 2 w:36 h:1>
+Oh, it's you Fei!!<Close><End of Block>
+<TextBlock 3 w:62 h:4>
+The cliff's edge collapsed from
+the heavy rain we had recently.<Delay 30>
+You're alright Fei, you can do
+a big jump to get across it...<New>
+But I'm too scared...<Delay 30>
+    Hey, what's a big jump?
+    It's easy, watch me!!<Close><End of Block>
+<TextBlock 4 w:50 h:5>
+How could you forget...?<Delay 30>
+A big jump is done by
+pressing the <T> button
+while running with the
+<C> button held down.<New>
+You can jump much further
+than with a regular jump.<Delay 30>
+...Fei, you never have
+any problems.<Delay 30>
+It's not fair.<Close><End of Block>
+<TextBlock 5 w:32 h:2>
+Say hello to the
+Doctor for me!<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+That'a boy Fei...!
+Champion of the 12th Lahan
+Village Jumping Tournament!<Close><End of Block>
+<TextBlock 7 w:38 h:1>
+Found a bird nest!!<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Take the egg?
+    Of course!!
+    No, that's cruel!<Close><End of Block>
+<TextBlock 9 w:42 h:2>
+<Opcode 1 255>Received a nutritious
+    'bird egg'!!<Opcode 2 90><Close><End of Block>
+<TextBlock 10 w:48 h:4>
+<Opcode 1 255>Cheep, cheep!!!
+(Return the egg!!)
+    OK, I give it back!!
+    No way, never!!<Close><End of Block>
+<TextBlock 11 w:28 h:4>
+Fei
+"Ouch!
+Sorry, I'll
+give it back!"<Close><End of Block>
+<TextBlock 12 w:50 h:2>
+Cheep, cheep, cheep!
+(Good! You got the hint!)<Close><End of Block>
+<TextBlock 13 w:14 h:1>
+No way!<Close><End of Block>
+<TextBlock 14 w:36 h:1>
+<Opcode 1 255>Caught a 'spider'!<Opcode 2 60><Close><End of Block>
+<TextBlock 15 w:56 h:4>
+<Opcode 1 255><U>This way: Walking course.
+  Watch out for the cliffs!!
+<L>That way: Doctor's house.
+  ...Right after the bridge.<Close><End of Block>
+<TextBlock 16 w:56 h:4>
+<Opcode 1 255><U>This way: Walking course.
+  Watch out for the cliffs!!
+<L>That way: Doctor's house.
+  ...Right after the bridge.<Close><End of Block>
+<TextBlock 17 w:56 h:4>
+<Opcode 1 255><U>This way: Walking course.
+  Watch out for the cliffs!!
+<D>That way: Doctor's house.
+  ...Right after the bridge.<Close><End of Block>
+<TextBlock 18 w:56 h:4>
+<Opcode 1 255><L>This way: Walking course.
+  Watch out for the cliffs!!
+<R>That way: Doctor's house.
+  ...Right after the bridge.<Close><End of Block>
+<TextBlock 19 w:56 h:4>
+<Opcode 1 255><L>This way: Walking course.
+  Watch out for the cliffs!!
+<R>That way: Doctor's house.
+  ...Right after the bridge.<Close><End of Block>
+<TextBlock 20 w:56 h:4>
+<Opcode 1 255><D>This way: Walking course.
+  Watch out for the cliffs!!
+<U>That way: Doctor's house.
+  ...Right after the bridge.<Close><End of Block>
+<TextBlock 21 w:56 h:4>
+<Opcode 1 255><R>This way: Walking course.
+  Watch out for the cliffs!!
+<U>That way: Doctor's house.
+  ...Right after the bridge.<Close><End of Block>
+<TextBlock 22 w:56 h:4>
+<Opcode 1 255><R>This way: Walking course.
+  Watch out for the cliffs!!
+<L>That way: Doctor's house.
+  ...Right after the bridge.<Close><End of Block>
+<TextBlock 23 w:20 h:3>
+Fei
+"Alright!
+Let's go!"<Close><End of Block>
+<TextBlock 24 w:45 h:2>
+<Opcode 1 255>This way to Doctor
+Citan Uzuki's house! <U><Close><End of Block>
+<TextBlock 25 w:45 h:2>
+<Opcode 1 255>This way to Doctor
+Citan Uzuki's house! <L><Close><End of Block>
+<TextBlock 26 w:45 h:2>
+<Opcode 1 255>This way to Doctor
+Citan Uzuki's house! <L><Close><End of Block>
+<TextBlock 27 w:45 h:2>
+<Opcode 1 255>This way to Doctor
+Citan Uzuki's house! <L><Close><End of Block>
+<TextBlock 28 w:45 h:2>
+<Opcode 1 255>This way to Doctor
+Citan Uzuki's house! <D><Close><End of Block>
+<TextBlock 29 w:45 h:2>
+<Opcode 1 255>This way to Doctor
+Citan Uzuki's house! <D><Close><End of Block>
+<TextBlock 30 w:45 h:2>
+<Opcode 1 255>This way to Doctor
+Citan Uzuki's house! <R><Close><End of Block>
+<TextBlock 31 w:45 h:2>
+<Opcode 1 255>This way to Doctor
+Citan Uzuki's house! <R><Close><End of Block>
+<TextBlock 32 w:4 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 33 w:34 h:2>
+Fei
+"What's that...?"<Opcode 2 30><Close><End of Block>
+<TextBlock 34 w:24 h:2>
+Fei
+"Giants...?"<Close><End of Block>
+<TextBlock 35 w:10 h:1>
+Fei!!<Opcode 2 30><Close><End of Block>
+<TextBlock 36 w:40 h:4>
+Fei
+"Doc!
+Some flying objects
+went toward Lahan!!"<Close><End of Block>
+<TextBlock 37 w:52 h:4>
+Citan
+"So you saw them too!<Delay 10><New>
+Judging by their shadows,
+they appear to be a group
+of Gears from our neighbor
+country, Kislev."<Close><End of Block>
+<TextBlock 38 w:28 h:3>
+Fei
+"Those were...
+Gears...?"<Close><End of Block>
+<TextBlock 39 w:44 h:4>
+Citan
+"!!<Delay 10>
+Oh no! They are headed
+directly for Lahan!" <Close><End of Block>
+<TextBlock 40 w:44 h:2>
+Fei
+"The ones I just saw?"<Close><End of Block>
+<TextBlock 41 w:40 h:2>
+Citan
+"Let us make haste!"<Close><End of Block>
+<TextBlock 42 w:16 h:2>
+Fei
+"Right!"<Close><End of Block>
+<TextBlock 43 w:42 h:4>
+Fei
+"Doc Uzuki's house
+is over the bridge
+and up to the north."<Close><End of Block>
+<TextBlock 44 w:42 h:4>
+Fei
+"Doc Uzuki's house
+is over the bridge
+and up to the north."<Close><End of Block>
+<TextBlock 45 w:3 h:1>
+ <Close><End of Block>
+<TextBlock 46 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 47 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 48 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 49 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

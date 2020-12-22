@@ -1,0 +1,42 @@
+<TextBlock 1 w:40 h:3>
+Damn!
+<Weltall>'s stuck
+in the sand...<Close><End of Block>
+<TextBlock 2 w:22 h:1>
+"Waawwwww!"<Opcode 2 16><Close><End of Block>
+<TextBlock 3 w:10 h:1>
+"Oh!"<Opcode 2 16><Close><End of Block>
+<TextBlock 4 w:10 h:1>
+"Ah!"<Opcode 2 16><Close><End of Block>
+<TextBlock 5 w:10 h:1>
+"Oh!"<Opcode 2 16><Close><End of Block>
+<TextBlock 6 w:18 h:1>
+"Whew..."<Opcode 2 16><Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Fei
+"Doc!?
+Where did you go, doc!?"<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Fei
+"Here we go again...<Delay 32>
+You and I seem to have
+a fated relationship!"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Fei
+"...I got you, doc!
+But when you're done, you
+hurry up there too, okay!?"<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Citan
+"Fei! Can you hear me? I
+am moving the crane towards
+<Weltall>'s cockpit.<New>
+Hurry!
+Go up the crane to
+<Weltall>!
+We are going under fast!"<Close><End of Block>
+<TextBlock 11 w:34 h:4>
+Citan
+"Fei!
+There is no time 
+to go back!"<Close><Close><End of Block>

@@ -1,0 +1,105 @@
+<TextBlock 1 w:54 h:4>
+Billy
+"What's going on<Delay 5>...<Delay 5><New>
+The Etone are in charge
+of the 'Ethos' military
+but they've been killed
+without signs of struggle."<Close><End of Block>
+<TextBlock 2 w:54 h:3>
+Reapers are humans turned
+into things by god to pay
+for their crimes.<Delay 15><New>
+They're sealed in the
+cursed land of the heavens,
+Shevat.<Close><End of Block>
+<TextBlock 3 w:52 h:3>
+People belonging to the 
+'Ethos' must act modestly
+with generosity.<New>
+To do that we often read
+from the sacred scripts
+to return to a purer soul.<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+This room was prepared 
+for people who have no 
+one to turn to.<New>
+We hope to save their 
+souls and give them hope
+to live.<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+They say Babel Tower is 
+connected to Shevat. The 
+exit is under close watch 
+by our people.<New>
+In spite of that, 
+cursed Reapers continue to 
+appear in this land.<Delay 15><New>
+That's why the Etone are 
+here to eliminate them.<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+We, the Etone, are the
+swords and shields of the
+'Ethos' so to speak.<New>
+We fight with enemies
+such as Reapers<New>
+and thieves to save 
+people with faith in god.<Close><End of Block>
+<TextBlock 7 w:44 h:3>
+Billy!Does your dad
+hold a grudge against
+the 'Ethos'?<New>
+They say the 'Ethos'
+supply dump was bombed
+again.<Close><End of Block>
+<TextBlock 8 w:52 h:3>
+Aha! You!<New>
+Ask Billy if his dad holds
+a grudge against the 
+'Ethos' or not.<New>
+They say his father bombed
+the 'Ethos' supply dump.
+Oh, my head hurts.<Close><End of Block>
+<TextBlock 9 w:50 h:6>
+Plundered by war and
+salvagers... Destruction
+by the Reapers...<Delay 10>
+We must meet the people's
+expectations toward the 
+'Ethos'.<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Why does Jessie attack
+the 'Ethos' buildings?<Delay 10>
+I heard he was once an
+amazing Etone...<Close><End of Block>
+<TextBlock 11 w:34 h:2>
+What's happening?
+I'm scared.<Close><End of Block>
+<TextBlock 12 w:12 h:1>
+Mom...<Close><End of Block>
+<TextBlock 13 w:50 h:2>
+What happened to the man
+from the 'Ethos'?<New>
+He hasn't been back since
+he left the room earlier.<Close><End of Block>
+<TextBlock 14 w:42 h:3>
+Um...someone from the
+'Ethos' got in a huge
+Gear and saved me.<New>
+Some man named master
+attacked us...It was
+very frightening.<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+What's going on outside?
+Suddenly, men in black 
+stormed in here.<New>
+Etones are fighting back
+for us now...<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Please tell me, young man.
+Can't you have happiness
+without sacrifice?<New>
+Can't you go through life
+without misery...?<Close><End of Block>
+<TextBlock 17 w:28 h:2>
+Everyone...
+Everyone died.<Close><Close><End of Block>

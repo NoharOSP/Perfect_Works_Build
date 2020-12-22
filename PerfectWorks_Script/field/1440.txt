@@ -1,0 +1,115 @@
+<TextBlock 1 w:34 h:3>
+Fei
+"Is it going to
+be okay, doc...?"<Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Fei
+"Alright! 
+Let's do our part."<Close><End of Block>
+<TextBlock 3 w:48 h:2>
+Fei
+"Communications are up."<Close><End of Block>
+<TextBlock 4 w:24 h:2>
+Fei
+"What the!?"<Close><End of Block>
+<TextBlock 5 w:56 h:3>
+Citan
+"I will control the mirror,<Delay 30> 
+you hold off the enemy."<Close><End of Block>
+<TextBlock 6 w:32 h:2>
+Citan
+"We must do it."<Close><End of Block>
+<TextBlock 7 w:46 h:2>
+Citan
+"I am counting on you."<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Citan
+"Billy...Billy... 
+do you read? <New>
+We are ready here. 
+Commence firing."<Close><End of Block>
+<TextBlock 9 w:14 h:2>
+Citan
+"Whoa!"<Opcode 2 30><Close><End of Block>
+<TextBlock 10 w:20 h:2>
+Citan
+"Oh no..."<Opcode 2 40><Close><End of Block>
+<TextBlock 11 w:28 h:4>
+Citan
+"Fei...Fei! 
+Do you read!? 
+Get out, now!"<Close><End of Block>
+<TextBlock 12 w:24 h:3>
+Citan
+"No good...<Delay 40>
+Too late..."<Close><End of Block>
+<TextBlock 13 w:20 h:2>
+Citan
+"Whoa!..."<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Citan
+"Whew...
+That was close.<Delay 40> We did
+not get a direct hit."<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Citan
+"Billy,<Delay 30> we cannot
+hold out much longer.<New>
+If you miss this one,
+it is over.
+Aim well."<Close><End of Block>
+<TextBlock 16 w:46 h:3>
+Citan
+"...Only one shot left,<Delay 30>
+Do not<Delay 20>...miss..."<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Citan
+"Our plan failed failed...<Delay 40>
+We have tried everything
+we could think of."<Close><End of Block>
+<TextBlock 18 w:26 h:3>
+Citan
+"Whew...
+That helped."<Close><End of Block>
+<TextBlock 19 w:42 h:3>
+Citan
+"Billy,<Delay 30> we cannot
+hold out much longer.<New>
+If you miss this one,
+it's over. 
+Aim well."<Close><End of Block>
+<TextBlock 20 w:42 h:3>
+Citan
+"Billy, you did it...<Delay 40>
+The plan succeeded!"<Close><End of Block>
+<TextBlock 21 w:16 h:2>
+Citan
+"Here!!"<Opcode 2 10><Close><End of Block>
+<TextBlock 22 w:12 h:2>
+Citan
+"Go!!"<Close><End of Block>
+<TextBlock 23 w:28 h:2>
+Door lock has 
+been cleared.<Close><End of Block>
+<TextBlock 24 w:22 h:1>
+Lock clear.<Close><End of Block>
+<TextBlock 25 w:10 h:1>
+DONE!<Close><End of Block>
+<TextBlock 26 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 27 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 28 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 29 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 30 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 31 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

@@ -1,0 +1,36 @@
+<TextBlock 1 w:40 h:3>
+Billy
+"<Delay 10>...<Delay 10>No good.<Delay 15>
+He has passed away."<Close><End of Block>
+<TextBlock 2 w:24 h:1>
+Ug<Delay 10>gghh<Delay 10>...<Delay 10>...<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+There are tons of books
+collected by the 'Ethos'
+stored in this library.<New>
+It's a real treasure
+house of information.<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Do you know about the huge
+tower called Babel Tower?<New>
+They say it's built by
+people who tried to reach
+a god in the sky.<New>
+According to tradition, god
+became angry with their
+disrespect and his thunder
+destroyed the tower.<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+People who built Babel
+Tower were so afraid of
+god's revenge they ran
+away to the sky.<New>
+That place is Shevat, the
+'house of sinning hermits'.<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+I've been assigned to
+go to the excavation
+site in Dazil.<New>
+I'm to review the
+technical information
+of the ruins once again.<Close><Close><End of Block>

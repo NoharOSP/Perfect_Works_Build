@@ -1,0 +1,177 @@
+<TextBlock 1 w:38 h:3>
+Elly
+"This is the Gear's
+start up code.<New>
+You can start any
+standard Gear with
+this code."<Close><End of Block>
+<TextBlock 2 w:14 h:2>
+Fei
+"Elly?"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Elly
+"This is all I can do
+for you. The rest is up
+to fate..."<Close><End of Block>
+<TextBlock 4 w:50 h:2>
+Bart
+"Alright! Let's go, Fei!"<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Bart
+"What are you doing?
+Hurry up!"<Close><End of Block>
+<TextBlock 6 w:28 h:3>
+Fei
+"Elly!
+Come with us!"<Close><End of Block>
+<TextBlock 7 w:8 h:2>
+Elly
+"!?"<Close><End of Block>
+<TextBlock 8 w:40 h:4>
+Fei
+"You're not the type
+of person suited to
+a place like this!"<Close><End of Block>
+<TextBlock 9 w:16 h:2>
+Elly
+"Fei..."<Close><End of Block>
+<TextBlock 10 w:48 h:3>
+Bart
+"You're just wasting
+time talking!<New>
+They're coming!
+We're gonna get caught!"<Close><End of Block>
+<TextBlock 11 w:18 h:2>
+Fei
+"Elly..."<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Elly
+"Thanks, but it's
+impossible. I'm...
+a Solaris soldier...<New>
+This is where I belong.
+I can't go with you."<Close><End of Block>
+<TextBlock 13 w:14 h:2>
+Fei
+"Elly!"<Close><End of Block>
+<TextBlock 14 w:36 h:4>
+Elly
+"Fei, the next
+time we meet...<Delay 5>
+we'll be enemies."<Close><End of Block>
+<TextBlock 15 w:22 h:1>
+Commander!!<Opcode 2 60><Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Renk
+"What? This little girl's
+our commanding officer?"<Close><End of Block>
+<TextBlock 17 w:34 h:4>
+Broyer
+"She's said to be
+an elite from out
+of Jugend."<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Stratski
+"She returned single-
+handedly from the Kislev
+infiltration operation."<Close><End of Block>
+<TextBlock 19 w:46 h:4>
+Helmholz
+"And 'empty-handedly' I
+hear! No souvenirs for
+the Commander, huh?"<Close><End of Block>
+<TextBlock 20 w:38 h:4>
+Renk
+"Yep, what a pretty
+face. She's not the
+soldier type."<Close><End of Block>
+<TextBlock 21 w:46 h:4>
+Elly
+"You there!
+Is that how you address
+a superior officer?<New>
+Remember your rank!"<Close><End of Block>
+<TextBlock 22 w:24 h:2>
+Renk
+"Oh, scary!"<Close><End of Block>
+<TextBlock 23 w:48 h:4>
+Vance
+"We don't care much for
+rank<Delay 5>...<Delay 5>and we don't care
+much for Renk either!<New>
+But just because you're
+beautiful doesn't mean
+you have to be cocky."<Close><End of Block>
+<TextBlock 24 w:32 h:3>
+Broyer
+"Ha! This jerk's
+just jealous."<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+Vance
+"What? I'm much prettier!
+How could I be jealous?"<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+Stratski
+"Hey, shut that perv up!
+He gives me the creeps."<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+Renk
+"And that's how it is...<Delay 10>
+So don't get in our way,
+'Miss Lieutenant'."<Close><End of Block>
+<TextBlock 28 w:10 h:2>
+Elly
+"..."<Opcode 2 100><Close><End of Block>
+<TextBlock 29 w:44 h:3>
+Renk
+"...Anyway, let's just
+get this thing moving.<New>
+Can't tell what it can
+do just by looking at
+it."<Close><End of Block>
+<TextBlock 30 w:48 h:4>
+Stratski
+"What kind of machine is
+this? I've never seen it
+before."<Close><End of Block>
+<TextBlock 31 w:54 h:4>
+Renk
+"It's a new model Gear,
+called <Vierge>, that's
+for officers' use only.<New>
+It's said that people
+with normal mental
+power can't operate it."<Close><End of Block>
+<TextBlock 32 w:44 h:4>
+Stratski
+"So, she's still a
+'Jugend' regardless
+of having no ability?"<Close><End of Block>
+<TextBlock 33 w:42 h:4>
+Vance
+"Hah, this looks like
+fun. Let's see what
+she can do!"<Close><End of Block>
+<TextBlock 34 w:44 h:4>
+Ramsus
+"Miang, get my Wyvern
+powered up now!
+I must pursue them..."<Opcode 2 200><Close><End of Block>
+<TextBlock 35 w:40 h:3>
+Ramsus
+"Stop the power up!<New>
+Recall all men back
+to base and wait
+for further orders!"<Opcode 2 200><Close><End of Block>
+<TextBlock 36 w:36 h:4>
+Ramsus
+"...That fool.
+What is he doing
+down here now...?"<Opcode 2 100><Close><End of Block>
+<TextBlock 37 w:28 h:3>
+(Commander...
+I've a message
+from Hyu...)<Opcode 2 100><Close><End of Block>
+<TextBlock 38 w:22 h:2>
+Ramsus
+"...What!?"<Opcode 2 60><Close><End of Block>

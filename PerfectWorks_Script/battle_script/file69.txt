@@ -1,0 +1,82 @@
+<TextBlock 1 w:34 h:2>
+Fei
+"Uh! You again!?"<Close><End of Block>
+<TextBlock 2 w:32 h:3>
+Fei
+"What are you
+talking about!?"<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+Fei
+"Uuaaaaahhhhh!"<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:14 h:2>
+Elly
+"Fei!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:14 h:2>
+Elly
+"Fei!!"<Close><End of Block>
+<TextBlock 6 w:26 h:3>
+Ramsus
+"Miang,
+is that him?"<Close><End of Block>
+<TextBlock 7 w:28 h:3>
+Ramsus
+"Right.
+I've got him!"<Close><End of Block>
+<TextBlock 8 w:32 h:4>
+Ramsus
+"I have been
+looking for you!
+My arch rival!!"<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+Ramsus
+"...I see you have a
+different machine...<New>
+So, what happened to
+your 'other Gear'!?"<Close><End of Block>
+<TextBlock 10 w:42 h:4>
+Ramsus
+"Not to matter...<New>
+At any rate, until
+I eliminate you,
+there will never be
+any 'light' for me!!"<Close><End of Block>
+<TextBlock 11 w:44 h:4>
+Ramsus
+"Tch!
+Is that all you
+have to give!!<New>
+Well too bad!
+No matter what...
+I can't let you live!"<Close><End of Block>
+<TextBlock 12 w:36 h:3>
+Ramsus
+"And now for the
+'coup de grace'!!"<Close><End of Block>
+<TextBlock 13 w:26 h:4>
+Ramsus
+"Wh, what!?
+Aerods!?
+Who the...!?"<Close><End of Block>
+<TextBlock 14 w:24 h:3>
+Ramsus
+"!!
+Uuuooohhhh!"<Close><End of Block>
+<TextBlock 15 w:34 h:4>
+Ramsus
+"Tch!
+My main tank...
+I almost had him!<New>
+Dammit!
+...We have to
+retreat, Miang!"<Close><End of Block>
+<TextBlock 16 w:34 h:4>
+Miang
+"Yes, he's in the
+black Gear in the
+center there."<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+<]>Armor breach<Delay 30>
+ Water flooding cockpit!<Delay 30>
+ Pilot's vital signs
+ are declining...<Opcode 2 120><Close><Close>5<New>
+<Close><End of Block>

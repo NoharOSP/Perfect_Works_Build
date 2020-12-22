@@ -1,0 +1,815 @@
+<TextBlock 1 w:32 h:2>
+Bart
+"Are you ready?"<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+Bart
+"I'll be waiting here,
+so call me when you are
+ready to go."<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Sigurd
+"The cave Shakhan is
+heading for is directly
+west of Nisan.<New>
+It's possible the
+remainder of his forces
+are gathering there."<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Sigurd
+"There's still some time
+until we leave. Why don't
+you make preparations?"<Close><End of Block>
+<TextBlock 5 w:32 h:4>
+Sigurd
+"I should have
+been honest with
+him sooner..."<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+Citan
+"It is best not to
+worry about it.<New>
+You did all you
+could at the time.
+The young one will
+understand."<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Maison
+"I am sure the young
+master would never have
+dreamed of such a tale."<Close><End of Block>
+<TextBlock 8 w:30 h:3>
+Fei
+"...<Delay 30>I guess you
+already knew?"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Maison
+"Well, now that you ask...
+yes I did.<New>
+However, when Sigurd was
+telling his story I thought
+it was best to stay quiet.<New>
+Please try and help the
+young master come to terms
+with all that he has just
+heard."<Close><End of Block>
+<TextBlock 10 w:52 h:3>
+Maison
+"I have been waiting for
+this day for a long time."<Close><End of Block>
+<TextBlock 11 w:26 h:2>
+Margie
+"Be careful."<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Margie
+"Bart told me.
+You're helping out
+with the plan too?<New>
+So you're caught up
+in this now as well?"<Close><End of Block>
+<TextBlock 13 w:40 h:4>
+Fei
+"I've come this far,
+so I might as well
+stay till the end."<Close><End of Block>
+<TextBlock 14 w:30 h:4>
+Margie
+"Thanks.
+I know you'll
+do a good job!"<Close><End of Block>
+<TextBlock 15 w:50 h:2>
+Agnes
+"Be careful Bartholomew."<Close><End of Block>
+<TextBlock 16 w:42 h:3>
+Agnes
+"Marguerite and
+Bartholomew...<New>
+I'm so happy to see
+you two getting along
+so well."<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Margie
+"Sister, please stop!<Delay 30>
+You're embarrassing
+me again."<Close><End of Block>
+<TextBlock 18 w:50 h:3>
+Agnes
+"It's not embarrassing.<New>
+Since long ago, the Nisan
+Mother and King of Aveh
+have always...<Close><End of Block>
+<TextBlock 19 w:40 h:3>
+Margie
+"Hey!<Delay 30>
+Enough about this...<New>
+Hey...!<Delay 30>
+Ouch ouch ouch!"<Close><End of Block>
+<TextBlock 20 w:30 h:3>
+Bart
+"Just sit still
+like I said."<Close><End of Block>
+<TextBlock 21 w:34 h:3>
+Margie
+"Ohhhhh!<Delay 30>
+You're a meanie!"<Close><End of Block>
+<TextBlock 22 w:14 h:1>
+Sigurd!<Close><End of Block>
+<TextBlock 23 w:14 h:1>
+Got it!<Close><End of Block>
+<TextBlock 24 w:38 h:3>
+Elly
+"I want to see the
+gate's true shape."<Close><End of Block>
+<TextBlock 25 w:36 h:4>
+Elly
+"Let me come too?"
+    Okay
+    Sorry!<Close><End of Block>
+<TextBlock 26 w:40 h:4>
+Citan
+"Hmm...<Delay 30>
+Actually, I would
+also like to see it.<New>
+May I come along?<Delay 30>
+I promise not to get
+in the way."<Close><End of Block>
+<TextBlock 27 w:38 h:4>
+Citan
+"Exchange with me?"
+    Sure
+    No way<Close><End of Block>
+<TextBlock 28 w:52 h:3>
+Rico
+"This is Shakhan's last.<New>
+When he kick's the bucket
+things in Kislev and Aveh
+should calm down a little.<New>
+Everything'll be normal."<Close><End of Block>
+<TextBlock 29 w:46 h:4>
+Rico
+"I'm coming too, okay?"
+    Great!
+    Well...<Close><End of Block>
+<TextBlock 30 w:36 h:4>
+Billy
+"The 'Ethos' was
+controlling two of
+the three gates!"<Close><End of Block>
+<TextBlock 31 w:34 h:4>
+"Will you take me
+along too?"
+    Alright!
+    Sorry, but...<Close><End of Block>
+<TextBlock 32 w:50 h:3>
+Maria
+"Soon we'll be certain
+of the gate's true form."<Close><End of Block>
+<TextBlock 33 w:48 h:4>
+Maria
+"Do you want to change?"
+    Please
+    That's okay<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+<Chu-Chu>
+"<Chu-Chu> is raring chu 
+go like a big bonfire!<New>
+Fei, I'll protect chu
+anywhere, in the heart
+of a fire or under the
+sea chu!"<Close><End of Block>
+<TextBlock 35 w:42 h:4>
+<Chu-Chu>
+"So I wanna go chu!"
+    I guess it's okay
+    Sorry!<Close><End of Block>
+<TextBlock 36 w:52 h:3>
+Traveling?
+Surely it is tiring.<New>
+You're going to that inn?
+I'm sure they'll have good
+food for you.<Close><End of Block>
+<TextBlock 37 w:48 h:2>
+We work in the cathedral
+over there.<Close><End of Block>
+<TextBlock 38 w:46 h:2>
+Fei
+"...So you're sisters?"<Close><End of Block>
+<TextBlock 39 w:56 h:3>
+Yes, that is correct.<New>
+We are wandering the land...<New>
+searching for the
+connection between Nisan
+and the outside world.<Close><End of Block>
+<TextBlock 40 w:48 h:3>
+Sigurd
+"Whenever I come here it
+always calms my heart."<Close><End of Block>
+<TextBlock 41 w:54 h:4>
+Sigurd
+"Anyway, young master<Delay 5>...<Delay 5>
+I want to work out what our
+plans from here on are."<Close><End of Block>
+<TextBlock 42 w:50 h:3>
+Bart
+"Alright.<New>
+But before we do that...
+there is something I want
+to ask you."<Close><End of Block>
+<TextBlock 43 w:16 h:2>
+Sigurd
+"...Me?"<Close><End of Block>
+<TextBlock 44 w:14 h:2>
+Bart
+"Yeah."<Close><End of Block>
+<TextBlock 45 w:46 h:4>
+Bart
+"Sig...<New>
+What's up with you and
+that Gebler officer?
+What's the connection
+between you and him...?<New>
+You know,<Delay 30> you sure know
+a lot about Gebler for
+some reason!"<Close><End of Block>
+<TextBlock 46 w:30 h:3>
+Sigurd
+"...Alright.
+<Delay 30>I'll tell you."<Close><End of Block>
+<TextBlock 47 w:30 h:3>
+Sigurd
+"Me and...<Delay 30>
+Citan, here...<New>
+We used to live
+in Solaris."<Close><End of Block>
+<TextBlock 48 w:42 h:2>
+Bart
+"Solaris...<New>
+...<Delay 30>You mean...
+<Delay 30>where Gebler's from?"<Close><End of Block>
+<TextBlock 49 w:30 h:2>
+Sigurd
+"That's right."<Close><End of Block>
+<TextBlock 50 w:46 h:4>
+Sigurd
+"Solaris...
+calls foreigners
+'Lambs'...<New>
+They are used as manual
+labor. Basically it's
+slavery."<Close><End of Block>
+<TextBlock 51 w:20 h:2>
+Bart
+"Slavery?"<Close><End of Block>
+<TextBlock 52 w:26 h:2>
+Fei
+"...Lambs..."<Close><End of Block>
+<TextBlock 53 w:36 h:3>
+Fei
+"Elly used that
+term earlier too."<Close><End of Block>
+<TextBlock 54 w:28 h:3>
+Bart
+"Is that where
+you met him?"<Close><End of Block>
+<TextBlock 55 w:40 h:2>
+Citan
+"Yes, it was there."<Close><End of Block>
+<TextBlock 56 w:42 h:4>
+Sigurd
+"We worked for the
+Solaris government
+for a short while...<New>
+But we learned to
+dislike their methods
+and escaped the first
+chance we had."<Close><End of Block>
+<TextBlock 57 w:28 h:4>
+Bart
+"...<Delay 30>You were
+friends with
+these people?"<Close><End of Block>
+<TextBlock 58 w:54 h:4>
+Bart
+"I met you when I was a kid
+and we've been together
+ever since then...<New>
+So this would have had to
+have happened even before
+then."<Close><End of Block>
+<TextBlock 59 w:50 h:4>
+Bart
+"I probably wouldn't have
+understood this if I had
+heard it earlier but...<New>
+...Why didn't you think I
+could deal with it now?
+Surely you could have
+told me about this?<New>
+Especially when you had
+something to do with the
+people who are backing
+that Shakhan idiot!"<Close><End of Block>
+<TextBlock 60 w:32 h:3>
+Bart
+"I wish you'd
+told me sooner."<Close><End of Block>
+<TextBlock 61 w:46 h:3>
+Sigurd
+"...<Delay 30>There's nothing I
+can do about that now."<Close><End of Block>
+<TextBlock 62 w:48 h:4>
+Sigurd
+"But, there's one thing
+I want you to believe...<New>
+We left Solaris on our
+own will and for our own
+reasons.<New>
+Now they've appeared
+before us, we can't
+just sit back and do
+nothing.<New>
+If need be, I will give
+my life to stop them."<Close><End of Block>
+<TextBlock 63 w:46 h:4>
+Bart
+"Alright, I understand.<Delay 10>
+But can you elaborate
+a little more?"<Close><End of Block>
+<TextBlock 64 w:44 h:4>
+    Where is Solaris?
+    What are Lambs?
+    Who is that man?
+    Why did you leave?<Close><End of Block>
+<TextBlock 65 w:32 h:2>
+    Ask again
+    I understand<Close><End of Block>
+<TextBlock 66 w:42 h:4>
+Bart
+"What bugs me is this<Delay 30>
+'Surface Dwellers'
+thing...<New>
+It's as if Solaris is
+in another location.
+Like up in the clouds
+or something?"<Close><End of Block>
+<TextBlock 67 w:28 h:2>
+Sigurd
+"Yes, well..."<Close><End of Block>
+<TextBlock 68 w:48 h:4>
+Sigurd
+"The city of Solaris is
+covered by a giant dome.<New>
+And guessing from the
+scenery that's visible,
+I think it's somewhere
+up high in the sky."<Close><End of Block>
+<TextBlock 69 w:46 h:3>
+Bart
+"You think...<Delay 30>
+Didn't you live there?"<Close><End of Block>
+<TextBlock 70 w:56 h:4>
+Sigurd
+"It's completely cut off
+from the outside world so
+I don't know too well.<New>
+There's a special way to
+get there from the surface."<Close><End of Block>
+<TextBlock 71 w:50 h:4>
+Sigurd
+"To get to Aveh we stowed
+away on a regular flight
+to the surface."<Close><End of Block>
+<TextBlock 72 w:36 h:3>
+Citan
+"I came much later
+than Sigurd did...<New>
+But I also escaped
+in the same way."<Close><End of Block>
+<TextBlock 73 w:54 h:4>
+Sigurd
+"That is the word Solarians
+use to indicate those who
+live on the earth.<New>
+As I said before, such
+'surface dwellers' or
+'earth dwellers' are used
+for manual labor there."<Close><End of Block>
+<TextBlock 74 w:54 h:4>
+Sigurd
+"Manual labor could be
+anything from soldiers to
+administrative jobs.<New>
+Solaris gathers its
+workforce from the land
+dwellers. Jobs are divided
+up by who is most suitable.<New>
+Sometimes people are
+brainwashed."<Close><End of Block>
+<TextBlock 75 w:30 h:2>
+Bart
+"Brainwashed!?"<Close><End of Block>
+<TextBlock 76 w:46 h:4>
+Sigurd
+"I...<Delay 5>
+When you, young master,
+were still an infant...<New>
+I was used as a test
+subject. There was
+probably something they
+valued inside of me."<Close><End of Block>
+<TextBlock 77 w:30 h:2>
+Fei
+"You too, doc?"<Close><End of Block>
+<TextBlock 78 w:46 h:3>
+Citan
+"No...<New>
+I was born in the lower
+city levels. It is not
+a complete secret...<New>
+But I guess I am a
+Solarian<Delay 5>..."<Close><End of Block>
+<TextBlock 79 w:54 h:4>
+Bart
+"So why were you collecting
+people? <New>
+With that much scientific
+technology you'd think they
+wouldn't need to use
+people..."<Close><End of Block>
+<TextBlock 80 w:48 h:4>
+Citan
+"You see<Delay 5>...<Delay 5>
+You still need people
+to run a country<Delay 5>...<New>
+...<Delay 5>No matter how
+scientifically advanced
+you are, you have no
+support without people."<Close><End of Block>
+<TextBlock 81 w:50 h:3>
+Sigurd
+"Pure Solarians are rare.<New>
+They would not even make
+up a quarter of Aveh's
+total population.<New>
+So, they support their
+country by stealing
+surface dwellers."<Close><End of Block>
+<TextBlock 82 w:42 h:3>
+Sigurd
+"His name is, Kahr...
+<Delay 30>Kahran Ramsus.<New>
+As you know he's the
+Gebler Commander."<Close><End of Block>
+<TextBlock 83 w:24 h:2>
+Bart
+"Ramsus...?"<Close><End of Block>
+<TextBlock 84 w:46 h:3>
+Sigurd
+"We call him Kahr.<New>
+In Solaris there is an
+officer training school
+called 'Jugend'.<New>
+He became the commander
+after leaving there."<Close><End of Block>
+<TextBlock 85 w:50 h:3>
+Citan
+"He is a lower level
+citizen, the same as me.<New>
+However, with his amazing
+abilities...<New>
+After graduating, he rose
+through the ranks with
+unparalleled speed."<Close><End of Block>
+<TextBlock 86 w:54 h:3>
+Sigurd
+"That man had one ideal.<New>
+To achieve a consolidation
+of all his colleagues.<New>
+Even land dwellers, if they
+had talent, were brought
+into the army."<Close><End of Block>
+<TextBlock 87 w:42 h:3>
+Bart
+"So you two were
+picked by Ramsus...?"<Close><End of Block>
+<TextBlock 88 w:46 h:4>
+Citan
+"No,<Delay 5> we were not picked
+by him<Delay 5>...<Delay 5>we aligned
+ourselves with him."<Close><End of Block>
+<TextBlock 89 w:40 h:3>
+Sigurd
+"At that time<Delay 5>...<Delay 5>
+we agreed with him."<Close><End of Block>
+<TextBlock 90 w:46 h:4>
+Citan
+"At the time,
+Ramsus was our hope.<New>
+He had high ideals and
+wanted to change the
+system in Solaris.<New>
+To us test subjects and
+lower level citizens,
+he was truly all that
+we wished for."<Close><End of Block>
+<TextBlock 91 w:30 h:2>
+Bart
+"A benefactor?"<Close><End of Block>
+<TextBlock 92 w:42 h:4>
+Sigurd
+"Yes...<Delay 30>even I, a test
+subject, was changed
+by his ideals."<Close><End of Block>
+<TextBlock 93 w:38 h:4>
+Bart
+"So why was it that
+you wanted to flee
+from Solaris?"<Close><End of Block>
+<TextBlock 94 w:54 h:4>
+Sigurd
+"We were placed in key
+military positions by
+Ramsus...<New>
+And thanks to that, we came
+to know the relationship
+between Solaris and the
+surface dwellers."<Close><End of Block>
+<TextBlock 95 w:44 h:2>
+Bart
+"You mean...Lambs...?"<Close><End of Block>
+<TextBlock 96 w:54 h:4>
+Sigurd
+"They weren't just using us
+'Lambs' for slave labor...<New>
+They also selected some of
+us, like me, to be used as
+subjects in experiments to
+refine their drugs...<New>
+Drugs that change people's
+personalities, to make them
+more aggressive and to draw
+out their latent abilities.<New>
+They were using us as human
+guinea pigs to test their
+psychological alteration
+drugs!"<Close><End of Block>
+<TextBlock 97 w:50 h:3>
+Bart
+"Human guinea pigs...!?
+Experimenting on humans?"<Close><End of Block>
+<TextBlock 98 w:50 h:4>
+Sigurd
+"Yes, for example...
+'Drive'!<New>
+That drug, and all others
+like it that are used
+now, are by-products of
+human experimentation..."<Close><End of Block>
+<TextBlock 99 w:50 h:3>
+Citan
+"However that is not the
+test subjects only role."<Close><End of Block>
+<TextBlock 100 w:52 h:4>
+Fei
+"This 'Drive' drug is
+something that anyone in
+the Solaris army can use?"<Close><End of Block>
+<TextBlock 101 w:50 h:4>
+Citan
+"At least anyone in the
+Gebler forces who is sent
+to the surface..."<Close><End of Block>
+<TextBlock 102 w:32 h:3>
+Bart
+"You're worried
+about her, huh?"<Close><End of Block>
+<TextBlock 103 w:12 h:2>
+Fei
+"...!"<Close><End of Block>
+<TextBlock 104 w:28 h:3>
+Bart
+"I saw some<Delay 5>...<Delay 5>
+in her room."<Close><End of Block>
+<TextBlock 105 w:14 h:2>
+Fei
+"No..."<Close><End of Block>
+<TextBlock 106 w:54 h:4>
+Bart
+"...<Delay 5>Anyway<Delay 5>...<Delay 5>using slaves
+as guinea pigs<Delay 5>...<Delay 5>
+How low are these guys<Delay 5>...?"<Close><End of Block>
+<TextBlock 107 w:32 h:3>
+Bart
+"Hmm...<Delay 30>I think I
+get most of it."<Close><End of Block>
+<TextBlock 108 w:42 h:3>
+Bart
+"Old Maison!<New>
+Go reserve the town
+hall for us. We'll
+finish talking there.<New>
+I'm going outside to
+get some air."<Close><End of Block>
+<TextBlock 109 w:50 h:4>
+Sigurd
+"To get to Aveh we stowed
+away on a regular flight
+to the surface."<Close><End of Block>
+<TextBlock 110 w:36 h:3>
+Citan
+"I came much later
+than Sigurd did...<New>
+But I also escaped
+in the same way."<Close><End of Block>
+<TextBlock 111 w:52 h:4>
+Fei
+"This 'Drive' drug is
+something that anyone in
+the Solaris army can use?"<Close><End of Block>
+<TextBlock 112 w:50 h:4>
+Citan
+"At least anyone in the
+Gebler forces who is sent
+to the surface..."<Close><End of Block>
+<TextBlock 113 w:32 h:3>
+Bart
+"You're worried
+about her, huh?"<Close><End of Block>
+<TextBlock 114 w:12 h:2>
+Fei
+"...!"<Close><End of Block>
+<TextBlock 115 w:28 h:3>
+Bart
+"I saw some<Delay 5>...<Delay 5>
+in her room."<Close><End of Block>
+<TextBlock 116 w:14 h:2>
+Fei
+"No..."<Close><End of Block>
+<TextBlock 117 w:54 h:4>
+Bart
+"...<Delay 5>Anyway<Delay 5>...<Delay 5>using slaves
+as guinea pigs<Delay 5>...<Delay 5>
+How low are these guys<Delay 5>...?"<Close><End of Block>
+<TextBlock 118 w:14 h:2>
+Bart
+"Damn!"<Close><End of Block>
+<TextBlock 119 w:30 h:2>
+Margie
+"Good morning!"<Close><End of Block>
+<TextBlock 120 w:46 h:4>
+Margie
+"What's with the long
+face? Not feeling well?<New>
+Or are you feeling sad
+about saying goodbye?
+Or maybe you're just
+nervous?"<Close><End of Block>
+<TextBlock 121 w:34 h:3>
+Bart
+"Shut up, stupid!
+Don't bug me!"<Close><End of Block>
+<TextBlock 122 w:20 h:2>
+Margie
+"Hee hee."<Close><End of Block>
+<TextBlock 123 w:36 h:3>
+Margie
+"Well...
+It's almost time."<Close><End of Block>
+<TextBlock 124 w:30 h:2>
+Bart
+"Yeah, yeah..."<Close><End of Block>
+<TextBlock 125 w:50 h:3>
+Bart
+"Is everyone ready to go?<New>
+I'll be waiting here,
+so let me know when you
+are through preparing."<Close><End of Block>
+<TextBlock 126 w:44 h:4>
+Bart
+"No activites for you.<Delay 30>
+You'll have to settle
+down for awhile."<Close><End of Block>
+<TextBlock 127 w:36 h:3>
+Margie
+"What do you mean,
+once in awhile?"<Close><End of Block>
+<TextBlock 128 w:44 h:3>
+Bart
+"Don't get so excited.<Delay 30>
+Ha ha ha ha!"<Close><End of Block>
+<TextBlock 129 w:18 h:2>
+Margie
+"Meanie!"<Close><End of Block>
+<TextBlock 130 w:48 h:2>
+Sigurd
+"...<Delay 30>Alright.<New>
+Please tell Maison we'll
+be here a while longer."<Close><End of Block>
+<TextBlock 131 w:50 h:4>
+Sigurd
+"We've heard from our
+units in Bledavik.<New>
+Things are unfolding
+smoothly.
+They have entered the
+castle.<New>
+They are investigating
+Shakhan's private room
+on the top floor of the
+castle.<New>
+One more thing, <Delay 30>Yggdrasil
+is on station nearby and
+has picked up several
+Gears on radar."<Close><End of Block>
+<TextBlock 132 w:20 h:2>
+Bart
+"Shakhan!"<Close><End of Block>
+<TextBlock 133 w:50 h:3>
+Sigurd
+"Most certainly.<New>
+But those Gears went to
+the capital then turned
+and came back toward us."<Close><End of Block>
+<TextBlock 134 w:44 h:4>
+Fei
+"He saw things weren't
+looking too good and
+ran away."<Close><End of Block>
+<TextBlock 135 w:46 h:4>
+Bart
+"Yeah.<Delay 30>
+But it sounds like he's
+coming back here."<Close><End of Block>
+<TextBlock 136 w:34 h:2>
+Fei
+"What's here...?"<Close><End of Block>
+<TextBlock 137 w:40 h:4>
+Sigurd
+"About that,<Delay 30>
+the info from the
+capital...<New>
+Isn't there a -Gate-
+in the area?"<Close><End of Block>
+<TextBlock 138 w:22 h:2>
+Fei
+"A -Gate-?"<Close><End of Block>
+<TextBlock 139 w:16 h:2>
+Citan
+"Where?"<Close><End of Block>
+<TextBlock 140 w:50 h:2>
+Sigurd
+"Directly west of Nisan."<Close><End of Block>
+<TextBlock 141 w:52 h:3>
+Sigurd
+"Young master, do you know
+the big cave over there?"<Close><End of Block>
+<TextBlock 142 w:50 h:4>
+Bart
+"Cave...<Delay 30>
+On the western continent?
+It's near the ocean.<New>
+If I remember it's big
+enough for a Gear to walk
+into."<Close><End of Block>
+<TextBlock 143 w:54 h:3>
+Sigurd
+"Yes, there.<New>
+They found evidence that
+there is some large
+building inside that cave."<Close><End of Block>
+<TextBlock 144 w:46 h:3>
+Fei
+"Shakhan is heading for
+there..."<Close><End of Block>
+<TextBlock 145 w:36 h:2>
+Fei
+"What's he doing?"<Close><End of Block>
+<TextBlock 146 w:38 h:3>
+Bart
+"I guess we'll have
+to go and see!"<Close><End of Block>
+<TextBlock 147 w:14 h:2>
+Fei
+"Okay!"<Close><End of Block>
+<TextBlock 148 w:46 h:3>
+Sigurd
+"I'll wait here for
+info from the capital."<Close><End of Block>
+<TextBlock 149 w:54 h:4>
+Citan
+"A gate!<New>
+Of course I would like to
+actually see it...<Delay 30>but this
+time I will pass.<New>
+There are two more left...
+And besides...<New>
+Just in case things do not
+go well, it might be better
+if we stay here and protect
+Marguerite."<Close><End of Block>
+<TextBlock 150 w:50 h:3>
+Bart
+"Got it.<Delay 30>
+I leave the rest to you!"<Close><End of Block>
+<TextBlock 151 w:24 h:2>
+    Alright!
+    Not yet.<Close><Close><End of Block>

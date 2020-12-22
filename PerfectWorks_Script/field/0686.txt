@@ -1,0 +1,167 @@
+<TextBlock 1 w:38 h:4>
+Citan
+"Why, this man sure
+likes to make his
+presence felt!"<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Big Joe
+"<Delay 10>...<Delay 10>Hic<Delay 30>...<Delay 10>
+Where's your friend?<New>
+There's a war on in the
+desert and he just goes
+wandering off there?<New>
+If your friends are
+important to you, then
+don't let them get away.<New>
+Especially if it's a
+lady friend...
+Gahahaha!"<Close><End of Block>
+<TextBlock 3 w:54 h:3>
+Big Joe
+"<Delay 10>...<Delay 10>hic<Delay 10>...<Delay 30>
+<Delay 30>You drinkin' too?<New>
+Booze is my life companion!<Delay 30>
+Especially in a sucky
+world like this.<New>
+Everyone's searching for
+dough and dynamite... 
+Ha, how unromantic."<Close><End of Block>
+<TextBlock 4 w:42 h:2>
+Big Joe
+"Me? <New>
+What am I doing here?<New>
+...Whatever I please,
+I guess."<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Big Joe
+"You think you know 
+about yourself?<New>
+I could introduce myself
+right now, and by tomorrow
+be a different person.<New>
+If you didn't understand
+that, I'll repeat...<Delay 30>
+...Hic!<Delay 30><New>
+Don't count your chickens 
+before they hatch."<Close><End of Block>
+<TextBlock 6 w:22 h:1>
+"Shaddap!!"<Close><End of Block>
+<TextBlock 7 w:22 h:1>
+"...hic..."<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+Why're you all yappin'
+when Big Joe is here
+trying to drink in peace?<New>
+Can't ya'll shuddup...?<Delay 10>
+...<Delay 10>Hic!<Close><End of Block>
+<TextBlock 9 w:30 h:2>
+Big Joe
+"Gahahahahaha!"<Close><End of Block>
+<TextBlock 10 w:50 h:2>
+Big Joe
+"Yeah, you sure talk big.<New>
+Can you dig for treasure
+as good as you talk?"<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Big Joe
+"You're so tough...<New>
+Always lookin' for junk 
+laying around... Why don't
+you do somethin' more
+productive for once!?"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Big Joe
+"Gahahahaha!<Delay 20> 
+That's right... Run home 
+to momma, little boys!"<Close><End of Block>
+<TextBlock 13 w:30 h:4>
+Big Joe
+"Ha! <Delay 20>
+Cowardly little
+punks!"<Close><End of Block>
+<TextBlock 14 w:46 h:2>
+Lately...<Delay 30>we haven't
+had much luck, have we?<Close><End of Block>
+<TextBlock 15 w:34 h:1>
+Ha-ha! We did it!<Opcode 2 30><Close><End of Block>
+<TextBlock 16 w:38 h:2>
+I didn't think it
+would go so well...<Opcode 2 30><Close><End of Block>
+<TextBlock 17 w:42 h:2>
+Follow after the army
+excavation teams...<Opcode 2 30><Close><End of Block>
+<TextBlock 18 w:50 h:1>
+and steal their treasure!<Opcode 2 30><Close><End of Block>
+<TextBlock 19 w:28 h:1>
+Wahahahahahha.<Opcode 2 30><Close><End of Block>
+<TextBlock 20 w:46 h:3>
+Who'dya think ya are?<New>
+I don't care if you're
+Big Joe or Big Shmoe!
+You don't mess with me!<Close><End of Block>
+<TextBlock 21 w:40 h:1>
+What's that ya'say!?<Close><End of Block>
+<TextBlock 22 w:38 h:2>
+If you ask me, 
+You're a big pus--!<Close><End of Block>
+<TextBlock 23 w:40 h:2>
+Aw, shawdup!
+Just shut your trap!<Close><End of Block>
+<TextBlock 24 w:26 h:2>
+Uwup...!<New>
+Da-damn you! 
+You'll keep!<Close><End of Block>
+<TextBlock 25 w:42 h:3>
+I'm wondering whether
+I should give up this
+job some time soon...<Close><End of Block>
+<TextBlock 26 w:32 h:1>
+Yeah, we did it!<Opcode 2 30><Close><End of Block>
+<TextBlock 27 w:44 h:1>
+Who'd have thought it?<Opcode 2 30><Close><End of Block>
+<TextBlock 28 w:48 h:1>
+Sneaking in the night...<Opcode 2 30><Close><End of Block>
+<TextBlock 29 w:46 h:1>
+Just like that... Poof!<Opcode 2 30><Close><End of Block>
+<TextBlock 30 w:28 h:1>
+Gyahahahahaha.<Opcode 2 30><Close><End of Block>
+<TextBlock 31 w:40 h:1>
+Hey, stop it...<New>
+This guy's trouble.<New>
+He's lookin' wild...<Close><End of Block>
+<TextBlock 32 w:10 h:1>
+Hicc!<Close><End of Block>
+<TextBlock 33 w:28 h:4>
+10G a night...
+Wanna stay?
+    Yes
+    No<Close><End of Block>
+<TextBlock 34 w:42 h:2>
+You don' have enough 
+money. Get out!<Close><End of Block>
+<TextBlock 35 w:30 h:6>
+  - Menu -
+ 
+  Bledavik Beer
+  Aveh Ale
+  Hob-Jerky
+  Cheese Plate<Close><End of Block>
+<TextBlock 36 w:32 h:3>
+Fei
+"...This sure is
+a noisy place!"<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Citan
+"Well, in a place like
+this you have to expect
+this kind of atmosphere."<Close><End of Block>
+<TextBlock 38 w:44 h:2>
+Fei
+"Yeah, but even so..."<Close><End of Block>
+<TextBlock 39 w:12 h:1>
+Yikes!<Opcode 2 25><Close><End of Block>
+<TextBlock 40 w:50 h:2>
+Heh heh.
+Booze is great, ain't it?<New>
+I just live for that
+first drink after work.<Close><Close><End of Block>

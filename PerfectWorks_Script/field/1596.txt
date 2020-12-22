@@ -1,0 +1,272 @@
+<TextBlock 1 w:48 h:3>
+Elly
+"Hold on!<Delay 30><New>
+Isn't this the barrier
+generator we heard about
+in Shevat!?"<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Elly
+"??<Delay 30>
+Something's not right."<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Elly
+"It's falling apart.<Delay 30>
+We need to get out!!"<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Citan
+"Could this be the barrier
+generator we heard about
+in Shevat!?"<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Citan
+"Something is not quite
+right."<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Citan
+"It is collapsing.<Delay 30>
+We must leave at once!!"<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Billy
+"Could this possibly be
+the machine that makes
+the barrier we heard<New>
+about in Shevat!?"<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Billy
+"Don't you think
+something's wrong?"<Close><End of Block>
+<TextBlock 9 w:36 h:3>
+Billy
+"It's coming down.<Delay 30>
+We must escape!!"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Rico
+"Hey, isn't this the
+machine that generated
+the barrier we heard<New>
+about in Shevat!?"<Close><End of Block>
+<TextBlock 11 w:24 h:2>
+Rico
+"What the!?"<Close><End of Block>
+<TextBlock 12 w:36 h:4>
+Rico
+"Not good!<Delay 30>
+We better bail out
+now!!"<Close><End of Block>
+<TextBlock 13 w:56 h:4>
+<Chu-Chu>
+"Isn't that the whachama-
+callit machine the people in
+Shevat were talking about!?"<Close><End of Block>
+<TextBlock 14 w:42 h:2>
+<Chu-Chu>
+"Is something wrong?"<Close><End of Block>
+<TextBlock 15 w:38 h:2>
+<Chu-Chu>
+"We have chu run!!"<Close><End of Block>
+<TextBlock 16 w:44 h:3>
+Emeralda
+"This...Isn't this the
+gate?"<Close><End of Block>
+<TextBlock 17 w:42 h:2>
+Emeralda
+"Something...<Delay 30> wrong?"<Close><End of Block>
+<TextBlock 18 w:34 h:2>
+Emeralda
+"Let's go back!!"<Close><End of Block>
+<TextBlock 19 w:36 h:4>
+Maria
+"Might this be the
+barrier generator
+Zephyr was talking<New>
+about!?"<Close><End of Block>
+<TextBlock 20 w:10 h:2>
+Maria
+"???"<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+Shakhan
+"This can't be!?
+This is ridiculous!?<New>
+It should be able to pull
+an adequate amount of
+energy from the gate!<New>
+There shouldn't have been
+any problems in the design.
+Why!?
+Why doesn't it move?"<Close><End of Block>
+<TextBlock 22 w:22 h:2>
+Shakhan
+"Wha, <Delay 7>Who!"<Close><End of Block>
+<TextBlock 23 w:46 h:3>
+Shakhan
+"Power?
+What kind of power!?<New>
+I have the power of the
+gate! As long as I get
+this machine to move!!"<Close><End of Block>
+<TextBlock 24 w:42 h:3>
+Shakhan
+"What are you saying?
+Superficial power?"<Close><End of Block>
+<TextBlock 25 w:44 h:2>
+Shakhan
+"Ghunnnuuuaaaaaahh..."<Opcode 2 50><Close><End of Block>
+<TextBlock 26 w:44 h:3>
+Grahf
+"My fist is the divine
+breath!"<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+Grahf
+"Blossom, o fallen seed,
+and draw upon thy hidden
+powers!!"<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Grahf
+"Grant unto thee the
+power of the glorious
+'Mother of Destruction'!"<Close><End of Block>
+<TextBlock 29 w:46 h:4>
+Grahf
+"I am Grahf, the seeker
+of power.<Delay 32> Doth
+thou desire the power?"<Close><End of Block>
+<TextBlock 30 w:48 h:4>
+Grahf
+"Your powers are merely
+superficial. The tools
+in which you produced<New>
+with your immature
+intellect... Now, do you
+think you can win?"<Close><End of Block>
+<TextBlock 31 w:50 h:4>
+Grahf
+"The meager efforts of
+you land dwellers are
+insignificant next to the<New>
+true and only power."<Close><End of Block>
+<TextBlock 32 w:46 h:3>
+Grahf
+"I shall endow you with
+my true powers!"<Close><End of Block>
+<TextBlock 33 w:34 h:3>
+Fei
+"This is...<Delay 30> the
+gate generator!?"<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+Bart
+"Punk...<Delay 30><New>
+Not only was he sitting
+on the Aveh throne, he
+also controlled this."<Close><End of Block>
+<TextBlock 35 w:20 h:2>
+Shakhan
+"Exactly."<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+Shakhan
+"To think you knew about
+the existence of the
+gate...very interesting."<Close><End of Block>
+<TextBlock 37 w:54 h:4>
+Shakhan
+"The gate which divided
+Solaris from the earth was
+under the supervision of...<New>
+the 'Ethos'."<Close><End of Block>
+<TextBlock 38 w:54 h:4>
+Shakhan
+"In the beginning, it was
+supervised without any true
+knowledge of what it did.<New>
+However, over the years,
+the 'Ethos' did their own
+experiments to reveal its
+true nature."<Close><End of Block>
+<TextBlock 39 w:48 h:3>
+Shakhan
+"They learned how to use
+it."<Close><End of Block>
+<TextBlock 40 w:46 h:4>
+Shakhan
+"For the sake of
+freeing ourselves from
+Solaris, we discovered<New>
+a new way of using it!"<Close><End of Block>
+<TextBlock 41 w:44 h:4>
+Bart
+"You!<Delay 30>
+This was your original
+intention."<Close><End of Block>
+<TextBlock 42 w:50 h:3>
+Fei
+"He probably entered
+through this cavern!<New>
+He just wanted the energy
+from the gate generator!"<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Shakhan
+"This can't be!?<New>
+This is ridiculous!?<New>
+This thing should be able
+to pull an adequate
+amount of energy from the
+gate!"<Close><End of Block>
+<TextBlock 44 w:44 h:4>
+Shakhan
+"There shouldn't
+have been any problems
+in the design!<New>
+Why?"<Close><End of Block>
+<TextBlock 45 w:44 h:2>
+Shakhan
+"Why doesn't it move?"<Close><End of Block>
+<TextBlock 46 w:54 h:3>
+Bart
+"What, did you mess up?<New>
+If my father knew I was set
+up by a jerk like this, 
+he'd turn in his grave."<Close><End of Block>
+<TextBlock 47 w:54 h:2>
+Shakhan
+"I didn't need this anyway!<New>
+I'll take you myself!"<Close><End of Block>
+<TextBlock 48 w:30 h:3>
+Shakhan
+"How...<Delay 30>
+This can't be!"<Close><End of Block>
+<TextBlock 49 w:54 h:4>
+Bart
+"Shakhan!!<New>
+12 years ago, if you
+weren't so hungry for
+power, Margie would
+still have her family...<New>
+...and wouldn't have had
+to live out in the desert!"<Close><End of Block>
+<TextBlock 50 w:50 h:3>
+Shakhan
+"What would you know, you
+throne born brat!?"<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Bart
+"Throne? You can have it!<New>
+A king's gotta carry the
+heaviest responsibilities
+of all!
+It's a tough racket!<New>
+Something you'd never
+understand, punk!!"<Close><End of Block>
+<TextBlock 52 w:36 h:2>
+Shakhan
+"Uwwaaaaaaaahhh!!"<Close><End of Block>
+<TextBlock 53 w:48 h:2>
+Fei
+"The gate's on fire...!"<Close><End of Block>
+<TextBlock 54 w:66 h:1>
+     Do you <Delay 16>not desire the power?<Opcode 2 84><Close><End of Block>
+<TextBlock 55 w:26 h:2>
+Bart
+"Him again!?"<Close><End of Block>
+<TextBlock 56 w:32 h:3>
+Fei
+"How'd he get in
+here!?"<Close><Close><End of Block>

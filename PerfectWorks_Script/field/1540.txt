@@ -1,0 +1,156 @@
+<TextBlock 1 w:46 h:4>
+Fei
+"I heard about it from
+doc.
+Id...<New>
+...Who would've ever
+thought within me, lies
+another me..."<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Fei
+"They say I'm the second
+advent of Grahf.<New>
+The one who destroyed all
+of this world...<New>
+It seems Grahf used to be
+a land dweller named
+Lacan..."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Fei
+"Grahf called me the one
+who would destroy god<New>
+In a way, I can
+understand what he means
+now.<New>
+Though my Id power isn't
+good enough, if it has
+the same quality as
+Grahf's...I..."<Close><End of Block>
+<TextBlock 4 w:36 h:3>
+Fei
+"If you did that, 
+you'd be..."<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Fei
+"Thanks Elly, but no.<New>
+Even if I left the
+battle field, there's
+no guarantee that Id'll
+never appear again.<New>
+Besides...
+I tried to kill you...
+You're still okay with
+that?"<Close><End of Block>
+<TextBlock 6 w:18 h:2>
+Fei
+"Elly..."<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Elly
+"But you're the same Fei
+I've always known.<New>
+You returned to your old
+self. Please don't be
+obsessed with it."<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Elly
+"They're not thinking
+about what they're
+saying!<New>
+They're just confused by
+your powers!"<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+Elly
+"Let's escape.<New>
+If Grahf, or the war
+brings out Id, let's
+go to a place where
+no wars exist."<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Elly
+"That's alright...<Delay 20>
+I don't have a place to
+go back, either..."<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Elly
+"Then you could've killed
+me if you really wanted
+to, right?<New>
+The other you, Id's power
+is nothing like that.<Delay 20>
+But you still didn't go
+through with it.<New>
+You knew when it was
+enough. Isn't that
+because your will was in
+effect?"<Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Elly
+"If you're to be controlled
+by Id and all those around
+you became your enemies...<New>
+I'd still be by your side.
+...Because...<Delay 30>
+Because...<Delay 20>I know it's
+lonely to be by yourself."<Close><End of Block>
+<TextBlock 13 w:36 h:3>
+Elly
+"I'll open it now.<Delay 20>
+Let's go, Fei."<Close><End of Block>
+<TextBlock 14 w:56 h:5>
+This is where we keep the
+criminals in their cells.<Delay 20>
+It's been said that
+soldiers from Solaris were
+locked up in here long ago.<New>
+I've heard we've even done
+many atrocious things at
+that time.<Delay 20> 
+War is like that. It
+abolishes good and bad.<New>
+One betrays friends,
+neighbors, even his own
+flesh and blood...<Delay 20>
+War turns even good, kind
+humans into crazed monsters.<Close><End of Block>
+<TextBlock 15 w:50 h:6>
+This is a Carbonite Cage
+that petrifies humans
+alive.<Delay 20> Regardless of
+whether it was only used
+on criminals, it is still
+heinous.<New>
+No matter how you look at
+it, they've sure thought
+of cruel things.<Close><End of Block>
+<TextBlock 16 w:46 h:4>
+By the way, you land
+dwellers know about the
+Nisan tragedy during
+the great war?<New>
+Did you hear anything
+from the higher ups?
+    Yes
+    No<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+I'm surprised they told
+you. So, you know what it
+is, don't you?<New>
+Don't believe everything
+those old men say.<Delay 20>
+Nothing good will come
+of it.<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+I doubt they told you.
+Those old men politely
+avoid talking about it.<New>
+Do they think the truth
+will disappear if they
+turn away from the past?<Delay 20>
+Bunch of fools!<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Be careful, land dweller.
+You'll have a terrible time
+if you open up your heart 
+to those old men.<New>
+Just like they did in
+Nisan, 500 years ago...<Close><Close><End of Block>

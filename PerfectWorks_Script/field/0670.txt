@@ -1,0 +1,15 @@
+<TextBlock 1 w:46 h:3>
+I've heard a rumor that
+Master Sigurd is really
+handsome...<New>
+...Is it true?<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+I've heard a rumor that
+the Kislev army attacked
+a nearby village...<New>
+...Is it true?<Close><End of Block>
+<TextBlock 3 w:40 h:4>
+Wots of adults come
+to dig up the wuins.
+They all come widing
+in big 'Geeaars'.<Close><Close><End of Block>

@@ -1,0 +1,29 @@
+<TextBlock 1 w:16 h:1>
+Yow...!?<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Oh, it's only you.
+Don't scare me.<Delay 20>
+Damn it, where is the
+booze? Booze!!<Close><End of Block>
+<TextBlock 3 w:16 h:1>
+Yow...!?<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:56 h:4>
+Who are you, a new face?
+Don't scare me...<Delay 20>
+I was wondering if there're 
+some drinks in here.<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Are the higher ups still
+planning on fighting with
+some country called
+Solaris?<New>
+Aren't they the scary
+guys who actually control
+the world from the 
+shadows?<New>
+Uhh...this is crazy.<Delay 20>
+Just when I thought I was
+able to survive.<Delay 20>
+I can't take it anymore.<Close><End of Block>
+<TextBlock 6 w:0 h:1>
+<Close><End of Block>

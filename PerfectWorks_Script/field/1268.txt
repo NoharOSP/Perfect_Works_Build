@@ -1,0 +1,103 @@
+<TextBlock 1 w:40 h:3>
+Hey, you're going
+to the 'Hideout for 
+skinful termites'?<Close><End of Block>
+<TextBlock 2 w:32 h:2>
+Zephyr will eat 
+you up...!<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Hey, read me this book...
+    Alright!
+    Maybe next time!<Close><End of Block>
+<TextBlock 4 w:13 h:1>
+Ye<~>y!!<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+<Perso1>
+"Long, long ago there was
+a woman named Zephyr. <New>
+She wanted to be a god
+so she built a tower that
+reached up to heaven.<New>
+Then she built a city at
+the top. But god got mad
+and destroyed her tower.<New>
+So she then had to live
+in a 'hideout for sinful
+hermits'.<New>
+After that she never 
+returned to the earth
+again... The end."<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+Is there really a
+'Hideout for
+skinful termites'?
+It sounds scary!<Close><End of Block>
+<TextBlock 7 w:56 h:5>
+You made a promise now!
+If you don't read it to me
+next time then that's a lie!
+And if you lie, you have to
+stick a needle in your eye!<Close><End of Block>
+<TextBlock 8 w:10 h:1>
+Shhh!<Close><End of Block>
+<TextBlock 9 w:48 h:2>
+Billy's come out from 
+behind the book shelves!<Opcode 2 30><Close><End of Block>
+<TextBlock 10 w:34 h:3>
+Really?<Delay 10> 
+He sure does some
+weird things...<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:34 h:1>
+Don't eavesdrop!!<Close><End of Block>
+<TextBlock 13 w:46 h:1>
+Boys are such monsters.<Opcode 2 30><Close><End of Block>
+<TextBlock 14 w:40 h:2>
+Yes.<Delay 10>
+They're so stuck up.<Opcode 2 30><Close><End of Block>
+<TextBlock 15 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 16 w:34 h:1>
+Don't eavesdrop!!<Close><End of Block>
+<TextBlock 17 w:42 h:2>
+Will Uncle Stone ever
+come back...?<Close><End of Block>
+<TextBlock 18 w:30 h:2>
+The start of my
+youth...<Close><End of Block>
+<TextBlock 19 w:28 h:1>
+Don't listen!!<Close><End of Block>
+<TextBlock 20 w:34 h:1>
+Isn't Bobby cool?<Close><End of Block>
+<TextBlock 21 w:44 h:3>
+Yeah, and that cool
+jump! You know he runs
+everyday...<Close><End of Block>
+<TextBlock 22 w:28 h:1>
+Don't listen!!<Close><End of Block>
+<TextBlock 23 w:46 h:4>
+This bed's so fluffy!! 
+Ya wanna fluff it?
+    I wanna fluff
+    No thanks<Close><End of Block>
+<TextBlock 24 w:16 h:1>
+Go ahead<Close><End of Block>
+<TextBlock 25 w:32 h:1>
+It's so fluffy!!<Close><End of Block>
+<TextBlock 26 w:28 h:1>
+Wait a minute.<Close><End of Block>
+<TextBlock 27 w:50 h:3>
+There wasn't any paper so
+I used this book. <Delay 10>
+Did you wanna use it?<Close><End of Block>
+<TextBlock 28 w:58 h:1>
+Received an 'Old Comic Book'.<Close><End of Block>
+<TextBlock 29 w:48 h:1>
+I said, 'Toilet taken!'!<Close><End of Block>
+<TextBlock 30 w:26 h:1>
+Toilet taken!<Close><End of Block>
+<TextBlock 31 w:30 h:1>
+Take your time.<Close><End of Block>
+<TextBlock 32 w:0 h:1>
+<Close><End of Block>

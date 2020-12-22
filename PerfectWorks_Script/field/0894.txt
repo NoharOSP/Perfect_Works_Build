@@ -1,0 +1,104 @@
+<TextBlock 1 w:40 h:2>
+We're not interested
+in gambling, right?<Close><End of Block>
+<TextBlock 2 w:40 h:2>
+We're not interested
+in politics, right?<Close><End of Block>
+<TextBlock 3 w:6 h:1>
+Yep<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+What do you think of
+those two in front?
+    Kinda strange
+    Nothing<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Actually those two 
+are...<Delay 50>twins.<New>
+You should see them 
+infiltrate enemy 
+positions. Their timing
+is simply amazing.<Close><End of Block>
+<TextBlock 6 w:36 h:2>
+Yeah...?<Delay 50> Well,
+to each his own...<Close><End of Block>
+<TextBlock 7 w:44 h:3>
+I wonder how long it's
+gonna take to fix the 
+fan above the table?<Close><End of Block>
+<TextBlock 8 w:40 h:2>
+The fan's completely
+stopped.<Close><End of Block>
+<TextBlock 9 w:48 h:2>
+Look! <Delay 30>
+The fan's finally fixed.<Close><End of Block>
+<TextBlock 10 w:52 h:3>
+Whenever we've got nothing
+to do, we all tend to hang
+around this room.<Close><End of Block>
+<TextBlock 11 w:30 h:2>
+Yep, a festival
+means liquor.<Close><End of Block>
+<TextBlock 12 w:22 h:1>
+You got it!<Close><End of Block>
+<TextBlock 13 w:44 h:3>
+Oh man...
+The guy we all bet on 
+lost his first fight.<New>
+Now all we can do is
+drink.<Close><End of Block>
+<TextBlock 14 w:22 h:1>
+You got it!<Close><End of Block>
+<TextBlock 15 w:38 h:1>
+What's an election?<Close><End of Block>
+<TextBlock 16 w:34 h:2>
+We can choose any
+ol' king we want.<Close><End of Block>
+<TextBlock 17 w:16 h:1>
+Oh yeah?<Close><End of Block>
+<TextBlock 18 w:50 h:1>
+Everyone in Aveh decides?<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Everyone picks one guy
+and the most popular
+one becomes king.<Close><End of Block>
+<TextBlock 20 w:16 h:1>
+Oh yeah?<Close><End of Block>
+<TextBlock 21 w:34 h:3>
+Hmm, interesting.
+I wonder who I
+should pick?<Close><End of Block>
+<TextBlock 22 w:38 h:1>
+I'm pickin' my mom.<Close><End of Block>
+<TextBlock 23 w:28 h:2>
+What!?
+Don't do that!<Close><End of Block>
+<TextBlock 24 w:44 h:3>
+If we were ever under
+enemy attack then we
+couldn't rest, right?<New>
+That's the time when a
+leisurely meal is a 
+real luxury.<Close><End of Block>
+<TextBlock 25 w:50 h:2>
+This much free time makes
+the body soft.<Close><End of Block>
+<TextBlock 26 w:42 h:2>
+The castle cook makes
+excellent food.<Close><End of Block>
+<TextBlock 27 w:46 h:2>
+Of course! He cooks for
+the king, don't he?<Close><End of Block>
+<TextBlock 28 w:38 h:2>
+I wish my wife's 
+food was this good.<Close><End of Block>
+<TextBlock 29 w:36 h:2>
+My old lady's food
+is edible but...<Close><End of Block>
+<TextBlock 30 w:70 h:3>
+<Opcode 1 255>There's probably a guard outside...
+    Open the door
+    Just take a peek<Close><End of Block>
+<TextBlock 31 w:70 h:3>
+<Opcode 1 255>There's probably a guard outside...
+    Open the door
+    Just take a peek<Close><Close><End of Block>

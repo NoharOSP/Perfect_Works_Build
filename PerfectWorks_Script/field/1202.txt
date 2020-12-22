@@ -1,0 +1,136 @@
+<TextBlock 1 w:46 h:4>
+Rico
+"I'll never forgive
+what they did to him...<Delay 10>
+He did nothing wrong!"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Rico
+"There's nothin' to do now.<Delay 10>
+I could help you, if you
+want me to..."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Rico
+"I'm the one who's going
+to beat Fei!<Delay 10> So I can't
+let him die like this!"<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Rico
+"Do what you need to do.<Delay 10>
+It's none of my business."<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Rico
+"That girl<Delay 5> had the
+eyes of a prisoner."<Close><End of Block>
+<TextBlock 6 w:40 h:4>
+Rico
+"Don't get me wrong.<Delay 10>
+That doesn't mean 
+I'm on your side."<Close><End of Block>
+<TextBlock 7 w:50 h:2>
+Hammer
+"I'll be supporting you."<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Hammer
+"G, ghost ship...?<Delay 10>
+I'll stay here!"<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+Hammer
+"Kinda strange for a
+village to only have
+kids, isn't it? "<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+Hammer
+"Oh, feeling better!?<Delay 10>
+That's good to hear!"<Close><End of Block>
+<TextBlock 11 w:44 h:3>
+Hammer
+"My bro's unconscious?<Delay 10>
+Are you serious?<New>
+Who's the enemy that
+could beat the
+Battling Champ...?"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Hammer
+"Typical of a Solarian...<Delay 10>
+We'll never know what
+Elly'll do next..."<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Rico
+"Hammer,<Delay 5> you rat!<New>
+I'll crush your head
+if you ever say that
+again!!"<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+Hammer
+"S, s, sorry!!<Delay 10>
+Pleeze forgive me...!!"<Close><End of Block>
+<TextBlock 15 w:42 h:4>
+Hammer
+"Where is this place?<Delay 10>
+Never heard of the
+'Thames' before."<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Hammer
+"So you're Bart, the
+'pirate', huh...<New>
+Hammer, the 'supplier',
+has great information for
+you...<Delay 10> Shakhan still
+controls Aveh...<New>
+He's planning military
+intervention in Nisan.<Delay 10>
+But for some reason,
+Gebler is stopping him...<New>
+...Oh,<Delay 5> so you already
+knew that?"<Close><End of Block>
+<TextBlock 17 w:46 h:2>
+Hammer
+"I'm staying put here."<Close><End of Block>
+<TextBlock 18 w:30 h:2>
+Hammer
+"Where are we?"<Close><End of Block>
+<TextBlock 19 w:16 h:3>
+Hammer,<Delay 10>
+Rico...<Delay 10>
+Wake up!<Close><End of Block>
+<TextBlock 20 w:40 h:3>
+Rico
+"What is this place?<Delay 10>
+Something smells."<Close><End of Block>
+<TextBlock 21 w:46 h:3>
+Citan
+"We are inside the ship
+of Bart and his crew.<New>
+They rescued us after
+we were shot down in
+the Goliath."<Close><End of Block>
+<TextBlock 22 w:42 h:3>
+Rico
+"Who the heck are
+'Bart and his crew'?"<Close><End of Block>
+<TextBlock 23 w:46 h:3>
+Citan
+"Let us say<Delay 5>...they are
+bandits...<Delay 5>robbing Aveh.<New>
+Bart is their leader,<Delay 10>
+though he is still a
+young man."<Close><End of Block>
+<TextBlock 24 w:44 h:4>
+Rico
+"A robber in this day
+and age?<Delay 10> A man with an
+attitude. I like it!!"<Close><End of Block>
+<TextBlock 25 w:48 h:4>
+Citan
+"...<Delay 10>
+Do you want to start off
+by going to meet Bart?"<Close><End of Block>
+<TextBlock 26 w:36 h:3>
+Rico
+"Hmm...<Delay 10>
+You read my mind!"<Close><End of Block>
+<TextBlock 27 w:38 h:2>
+Hammer
+"I'm staying here!"<Close><End of Block>
+<TextBlock 28 w:0 h:1>
+<Close><End of Block>

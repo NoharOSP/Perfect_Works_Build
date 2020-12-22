@@ -1,0 +1,145 @@
+<TextBlock 1 w:32 h:3>
+Fei
+"I'm<Delay 5>...<Delay 10>so <Delay 10>
+very...<Delay 10>tired<Delay 5>..."<Close><End of Block>
+<TextBlock 2 w:42 h:3>
+They must've followed
+us from the Cavern!<Delay 10>
+We screwed up!<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+That look...<Delay 10> 
+You must think we're a 
+bunch of murderers?<Delay 30> 
+Well, we ain't...<New>
+We don't murder.
+Hell, we even save the
+lives of our enemies. 
+This is Bart's police.<Close><End of Block>
+<TextBlock 4 w:40 h:1>
+(I mean, 'Policy'??)<Close><End of Block>
+<TextBlock 5 w:36 h:1>
+Damn it!! Gebler!!<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+We'll leave first thing
+tomorrow. Are you ready?
+    <Opcode 1 255>Wait
+    Alright<Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Let me know when 
+you're ready.<Close><End of Block>
+<TextBlock 8 w:48 h:3>
+Did you forget anything?
+    <Opcode 1 255>Wait a sec
+    I'm okay<Close><End of Block>
+<TextBlock 9 w:34 h:2>
+Let me know when 
+you're ready.<Close><End of Block>
+<TextBlock 10 w:34 h:1>
+Okay. Sleep well.<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+You wanna rest in a 
+place like this?<New>
+You've gotta be
+kidding...<Delay 30>
+    <Opcode 1 255>Let me rest
+    Maybe later<Close><End of Block>
+<TextBlock 12 w:46 h:2>
+Hey! I know it's a 
+dump, but tough it out.<Close><End of Block>
+<TextBlock 13 w:48 h:2>
+Whenever you wanna rest 
+just lemme know.<Close><End of Block>
+<TextBlock 14 w:44 h:1>
+That's what I thought.<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+Huh? <Delay 30>
+I thought it was our
+snoring.<Close><End of Block>
+<TextBlock 16 w:36 h:2>
+...sniff, sniff...<Delay 10>
+Poor Helen...<Close><End of Block>
+<TextBlock 17 w:4 h:1>
+!!<Opcode 2 10><Close><End of Block>
+<TextBlock 18 w:42 h:1>
+I'm reading, beat it!<Close><End of Block>
+<TextBlock 19 w:32 h:2>
+This is no time 
+for sleeping!!<Close><End of Block>
+<TextBlock 20 w:46 h:3>
+You gotta rest when you
+can so you can act when
+you gotta. <Delay 10><New>
+Knowing when to do what
+is important.<Close><End of Block>
+<TextBlock 21 w:44 h:1>
+Which bed's better...?<Opcode 2 60><Close><End of Block>
+<TextBlock 22 w:34 h:2>
+Oh my god! 
+We've been found!<Close><End of Block>
+<TextBlock 23 w:48 h:3>
+We were just one step
+from peace between Aveh
+and Kislev. <New>
+Then, it is said, Bart's
+father, Edbart IV, was
+assassinated by Shakhan.<Close><End of Block>
+<TextBlock 24 w:38 h:2>
+You won't get away 
+with this Shakhan!!<Close><End of Block>
+<TextBlock 25 w:46 h:1>
+He makes my blood boil!<Close><End of Block>
+<TextBlock 26 w:40 h:2>
+Almost all the Gear 
+are under repair!!<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+...Sigh... This injury
+is so pathetic...<Delay 30>
+I can't let the Master 
+see me like this.<Close><End of Block>
+<TextBlock 28 w:46 h:2>
+Owwww!!<Delay 30>
+Please be more careful.<Close><End of Block>
+<TextBlock 29 w:42 h:4>
+Good medicine always
+tastes bad.<Delay 10> 
+Everyone knows that.<Delay 10> 
+Next is your shot!<Close><End of Block>
+<TextBlock 30 w:44 h:1>
+Yipes, you're glaring!<Close><End of Block>
+<TextBlock 31 w:20 h:1>
+Huh, what?<Close><End of Block>
+<TextBlock 32 w:48 h:4>
+When you are sick, just 
+tell me. I'll give you a
+big shot and fix you up
+right away.<Close><End of Block>
+<TextBlock 33 w:32 h:2>
+This is no time 
+for games!<Close><End of Block>
+<TextBlock 34 w:34 h:2>
+Hey, do you have 
+Margarita's card?<Close><End of Block>
+<TextBlock 35 w:36 h:2>
+Nope, I don't. <Delay 10>
+But I have Beth's.<Close><End of Block>
+<TextBlock 36 w:48 h:1>
+Has the base been found?<Close><End of Block>
+<TextBlock 37 w:50 h:2>
+I can't seem to get any.<Delay 30>
+(I mean cards, you fool!)<Close><End of Block>
+<TextBlock 38 w:34 h:1>
+What is it, what?<Close><End of Block>
+<TextBlock 39 w:32 h:1>
+A little rest...<Close><End of Block>
+<TextBlock 40 w:40 h:1>
+What was that crash?<Close><End of Block>
+<TextBlock 41 w:46 h:3>
+Gears have entered the
+Yggdrasil's dock!<New>
+5 Gebler special force
+Gears, and one single
+unidentifed large Gear.<New>
+All pilots report to
+the Gear Hangar!<Close><End of Block>
+<TextBlock 42 w:0 h:1>
+<Close><End of Block>

@@ -1,0 +1,193 @@
+<TextBlock 1 w:44 h:2>
+Fei
+"Elly, you are awake."<Close><End of Block>
+<TextBlock 2 w:30 h:2>
+Elly
+"Ah, oooooh..."<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Elly
+"Where am I...?<New>
+I was with Fei, heading
+for the rear block...<Delay 20>
+Fei...!
+Where are you, Fei?"<Close><End of Block>
+<TextBlock 4 w:26 h:1>
+Rumble rumble<Opcode 2 60><Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Elly
+"Am I awake...?
+What were you doing!?"<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Fei
+"I was looking around
+inside here. There's
+less than<Delay 20> 2 days worth..."<Close><End of Block>
+<TextBlock 7 w:20 h:2>
+Elly
+"Of what?"<Close><End of Block>
+<TextBlock 8 w:32 h:4>
+Fei
+"Food.
+We're lucky we
+even found any."<Close><End of Block>
+<TextBlock 9 w:54 h:3>
+Elly
+"But, where is everyone!?
+Are we the only survivors?"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Fei
+"We gotta do something.
+Guess I'll go catch some
+fish."<Close><End of Block>
+<TextBlock 11 w:12 h:2>
+Elly
+"Fei!"<Close><End of Block>
+<TextBlock 12 w:36 h:2>
+Fei
+"...<Delay 70>They're okay."<Close><End of Block>
+<TextBlock 13 w:14 h:2>
+Elly
+"What?"<Close><End of Block>
+<TextBlock 14 w:54 h:4>
+Fei
+"They're okay...<Delay 45>doc,<Delay 30> Rico,<Delay 30>
+Hammer,<Delay 30> everyone...<Delay 45> They're
+all going to be okay."<Close><End of Block>
+<TextBlock 15 w:28 h:1>
+You little...!<Opcode 2 60><Close><End of Block>
+<TextBlock 16 w:16 h:1>
+Hold it!<Opcode 2 60><Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Elly
+"I knew it...<Delay 20>I thought
+this thing was floating
+unusually...<New>
+But even knowing that,
+there's no way we can get
+them out...<Delay 20>right?<New>
+They're right under us,
+but covered by water and
+a thick wall."<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Elly
+"It's probably
+<Weltall> and
+<Vierge>.<New>
+For better or worse, they
+have stuck by us this far.
+...But, they are useless
+now at this point though."<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Elly
+"It appears our Gears
+are underneath here, Fei.
+But, we can't reach them...<New>
+...<Delay 30>What're you doing, Fei?"<Close><End of Block>
+<TextBlock 20 w:54 h:4>
+Fei
+"What am I doing?
+Can't you tell...?
+I'm trying to catch a fish!<New>
+This one's been jumping up
+and down, right in front of
+me, trying to make me look
+like a fool..."<Close><End of Block>
+<TextBlock 21 w:34 h:3>
+Fei
+"You little punk!
+I see you!"<Close><End of Block>
+<TextBlock 22 w:42 h:4>
+Elly
+"Uh,<Delay 5> umm,<Delay 5> you're not
+going to catch it and
+eat it are you?"<Close><End of Block>
+<TextBlock 23 w:48 h:4>
+Fei
+"If we don't eat,
+we're gonna die<Delay 15>...<Delay 15>
+<Delay 15>...Alright!! I gotcha!!"<Close><End of Block>
+<TextBlock 24 w:34 h:3>
+Elly
+"You're joking.
+You'll get sick."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Fei
+"You're not gonna eat?
+Let me see... We need
+something to cook it with."<Close><End of Block>
+<TextBlock 26 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Elly
+"Hey, come on, stop it.
+I'm not to blame if you
+get sick and die."<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Fei
+"Don't worry.
+Once it's in your stomach
+it's all the same."<Close><End of Block>
+<TextBlock 29 w:42 h:3>
+Elly
+"I'm not going to<Delay 10>...<Delay 10>
+Fei!! Look, there<Delay 10>..."<Close><End of Block>
+<TextBlock 30 w:46 h:3>
+Fei
+"What!?
+Did the fish get away?"<Close><End of Block>
+<TextBlock 31 w:40 h:3>
+Fei
+"What're you talking
+about?<New>
+It's still there<Delay 10>...<Delay 10>
+What the<Delay 10>...<Delay 10>!?
+<Delay 10>...<Delay 10>That's...!"<Close><End of Block>
+<TextBlock 32 w:52 h:4>
+Fei
+"That's...that thing I saw
+in the desert. It's flying
+a lot higher this time."<Close><End of Block>
+<TextBlock 33 w:54 h:3>
+Elly
+"It's Shevat...
+That's its usual altitude."<Close><End of Block>
+<TextBlock 34 w:52 h:4>
+Fei
+"Shevat...<Delay 30>
+Where have I heard...<Delay 30>
+Yeah, that's right...<New>
+That weird masked man!
+He said my father was
+in its military...<New>
+So that saucer is what doc
+and that masked man said
+was the country my father
+and mother lived in?"<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+Elly
+"Really? I wouldn't know...
+It's a country outside the
+reach of Solaris.<New>
+Shevat uses the same kind
+of barrier that Solaris
+does, so you can't reach
+it by conventional means."<Close><End of Block>
+<TextBlock 36 w:46 h:4>
+Fei
+"How can something that
+flys that high in the
+sky be a 'country'?"<Close><End of Block>
+<TextBlock 37 w:54 h:4>
+Elly
+"Yes. I don't blame you
+for being so surprised.<New>
+It usually hovers over
+the region known as the
+Aquvy islands area.<New>
+You probably saw it on some
+sort of special mission.
+That's why it was flying so
+low..."<Close><End of Block>
+<TextBlock 38 w:22 h:2>
+Fei
+"Shevat..."<Delay 120><Opcode 2 120><Close><End of Block>

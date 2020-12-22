@@ -1,0 +1,2 @@
+<TextBlock 1 w:16 h:1>
+Welcome.<Close><Close><End of Block>

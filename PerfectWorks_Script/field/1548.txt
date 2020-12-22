@@ -1,0 +1,21 @@
+<TextBlock 1 w:48 h:6>
+We've been flying up in
+the sky, right?<Delay 20>
+It isn't easy getting
+supplies.<Delay 20> We can't just
+go and get all our own
+supplies either.<New>
+We made it this far
+somehow, but if the
+situation continues like
+this...<Delay 20>Hmm...we'd better
+do something...<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Hmm...this month is going
+to be very tight too.<Delay 20> We
+must cut down on rations
+a little to make it...<New>
+But everyone will
+probably gripe about
+that...<Delay 20>
+What am I gonna do...?<Close><Close><End of Block>

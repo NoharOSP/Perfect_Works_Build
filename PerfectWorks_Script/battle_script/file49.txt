@@ -1,0 +1,61 @@
+<TextBlock 1 w:30 h:2>
+Wiseman
+"Are you okay?"<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Wiseman
+"It's already
+too late!<New>
+Assist me!
+For I am about to...<Delay 20>
+exterminate Id."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Wiseman
+"Zohar is Deus' core.<New>
+The slave generators
+and ether<Delay 20>...<Delay 20>
+it's the source of
+all their energy.<New>
+After attaining its
+power, the freshly
+awakened Id intends to
+annihilate this world!<New>
+The contact with Zohar
+was meant to have been
+done after the unifying
+Fei's true personality!"<Close><End of Block>
+<TextBlock 4 w:22 h:3>
+Wiseman
+"Hah!?
+Keep back!"<Close><End of Block>
+<TextBlock 5 w:14 h:2>
+Wiseman
+"..."<Close><End of Block>
+<TextBlock 6 w:56 h:4>
+Id
+"Hmm, you again?
+You are always getting
+in my way.<New>
+But I cannot be stopped
+by you. You who couldn't
+even protect his own
+wife and son!<New>
+You can not even bear
+to show your face to
+your son.<New>
+That's why you wear
+a mask,<Delay 5> isn't it<Delay 5>...<Delay 30> Khan!?!"<Close><End of Block>
+<TextBlock 7 w:40 h:3>
+Id
+"That's right!<New>
+This man is Fei's<Delay 5>...<Delay 20>
+no,<Delay 5> I mean,<Delay 5> my
+father,<Delay 30> Khan Wong!!"<Close><End of Block>
+<TextBlock 8 w:24 h:2>
+<Perso1>
+"Wiseman!?"<Close><End of Block>
+<TextBlock 9 w:24 h:2>
+<Perso1>
+"!?"<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+<Perso1>
+"Son!?"<Close><Close><Close><`><Close><Close><End of Block>

@@ -1,0 +1,108 @@
+<TextBlock 1 w:32 h:1>
+Uaaaaaaaaaahhh!!<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:50 h:2>
+N, noooo!!<Delay 10>
+Can't handle it anymore!!<Close><End of Block>
+<TextBlock 3 w:60 h:3>
+Something's wrong with
+all of you!<Delay 10> Working
+like machines day after day...<New>
+You have no will! <Delay 10>
+This isn't living!!<Delay 10>
+This is...<Delay 10> is...<Close><End of Block>
+<TextBlock 4 w:16 h:2>
+Stop it!<Delay 10>
+Let go!<Close><End of Block>
+<TextBlock 5 w:36 h:3>
+<Opcode 1 255> Return to 14-1-6?
+    Yes
+    No<Close><End of Block>
+<TextBlock 6 w:52 h:1>
+Block under maintenance...<Close><End of Block>
+<TextBlock 7 w:36 h:3>
+<Opcode 1 255> Return to 13-6-1?
+    Yes
+    No<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+<Opcode 1 255> Return to 12-3-6?
+    Yes
+    No<Close><End of Block>
+<TextBlock 9 w:36 h:3>
+<Opcode 1 255> Return to 11-1-1?
+    Yes
+    No<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+<Opcode 1 255> Return to 10-4-1?
+    Yes
+    No<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+What a fool... <Delay 10>
+If he hadn't bucked the
+system, he coulda lived
+peacefully.<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+How can you not be happy
+with all this?<Delay 10>
+Do as you're told
+and get promoted.<New>
+What is there to be
+discontented about?<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+All our fates are tied
+together... <Delay 10> It's
+malcontents like him that
+get us all punished.<New>
+It kills me to think that
+all our work to raise our
+block's rank is ruined.<Close><End of Block>
+<TextBlock 14 w:56 h:4>
+I want to move up a rank
+to 2nd Class citizen.<Delay 10>
+Then I can finally live with
+the 2nd Class.<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+K block...<Delay 10>
+They're all bein' 
+'rearranged'.<New>
+Poor guys...and they
+worked so hard too.<Close><End of Block>
+<TextBlock 16 w:44 h:3>
+Even if we think so,
+that doesn't mean the
+Administration does...<Close><End of Block>
+<TextBlock 17 w:50 h:3>
+It's best to follow the
+Administration. It could
+affect your rank, y'know.<Close><End of Block>
+<TextBlock 18 w:50 h:3>
+A lot of people have
+tried to change their IDs
+and escape lately...<New>
+They usually get caught
+and 'rearranged', or 
+re-educated.<New>
+Don't you even think
+of trying to escape.<Close><End of Block>
+<TextBlock 19 w:56 h:4>
+This is the dust chute. <Delay 10>
+3rd Class citizens have
+nothing to do with this. <Delay 10>
+Go back where you came from.<Close><End of Block>
+<TextBlock 20 w:28 h:3>
+(...hey...<Delay 10>
+It's me...me. <Delay 10>
+Ready to go?<Close><End of Block>
+<TextBlock 21 w:50 h:2>
+You've got no business at
+the watchtower. <Delay 10>Beat it.<Close><End of Block>
+<TextBlock 22 w:56 h:2>
+What are you doing!?<Delay 10>
+You were ordered to return!!<Close><End of Block>
+<TextBlock 23 w:44 h:2>
+Return to your 'shell'
+immediately!<Close><End of Block>
+<TextBlock 24 w:44 h:2>
+Return to your 'shell'
+immediately!<Close><End of Block>
+<TextBlock 25 w:0 h:1>
+<Close><End of Block>

@@ -1,0 +1,51 @@
+<TextBlock 1 w:44 h:3>
+Elly
+"So there is an Anima
+Relic in these ruins."<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Elly
+"So there is an Anima
+Relic in these ruins."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Rico
+"Hmph, so ancient people
+worshipped meaningless 
+things too, huh?"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Rico
+"Hmph, so ancient people
+worshipped meaningless 
+things too, huh?"<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+Rico
+"Who's that?
+Wha'd you say?<New>
+Say something I understand!
+Who're you!?
+Get outta my head!"<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+Rico
+"Who's that?
+Wha'd you say?<New>
+Say something I understand!
+Who're you!?
+Get outta my head!"<Close><End of Block>
+<TextBlock 7 w:22 h:3>
+Fei
+"Rico, are 
+you okay?"<Close><End of Block>
+<TextBlock 8 w:44 h:3>
+Rico
+"I've seen that shape 
+somewhere before."<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Rico
+"I've seen that shape 
+somewhere before."<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Fei
+"Wasn't that Rico's Gear? 
+So it looks like it was
+your turn, Rico!<New>
+Well anyway, we'll soon
+see when we go outside."<Close><Close><End of Block>

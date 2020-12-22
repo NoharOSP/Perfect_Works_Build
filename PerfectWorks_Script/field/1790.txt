@@ -1,0 +1,4 @@
+<TextBlock 1 w:44 h:3>
+"During the alarm, the
+maintenance hatch will
+be closed."<Close><Close><End of Block>

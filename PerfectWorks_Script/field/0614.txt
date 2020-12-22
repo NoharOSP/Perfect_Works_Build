@@ -1,0 +1,66 @@
+<TextBlock 1 w:56 h:3>
+The remote village of Lahan,
+ in the outskirts of Aveh,
+near the border with Kislev.<Opcode 2 160><Close><End of Block>
+<TextBlock 2 w:56 h:1>
+This is where it all begins.<Opcode 2 150><Close><End of Block>
+<TextBlock 3 w:68 h:12>
+The continent of Ignas, in the
+northern hemisphere of our world.<Delay 30>
+On this, the largest continent,
+a war has been raging between two
+countries for hundreds of years.<Delay 30>
+In the north of the continent lies
+the Kislev Empire, in the south
+lies the desert kingdom of Aveh.<Delay 30>
+The war has gone on for so long
+that the people have forgotten the
+cause, knowing only the pointless
+circle of hostility and tragedy.<Delay 200><Delay 200><Delay 200><Close><End of Block>
+<TextBlock 4 w:68 h:11>
+The chronic war obsession was soon
+to encounter a devastating change.<Delay 30>
+This was due to the 'Ethos',<Delay 10> an
+institution that preserves our
+world's culture,<Delay 10> repairing tools
+and weapons excavated from the
+ruins of an ancient civilization.<Delay 30>
+At once both countries excavated
+these ruins, and had the 'Ethos'
+repair the discoveries, in order
+to increase their military power.<Delay 200><Delay 220><Delay 220><Close><End of Block>
+<TextBlock 5 w:68 h:10>
+The various weapons excavated from
+the ruins greatly changed the form
+of warfare.<Delay 30>
+The outcome of the battles between
+the two countries was no longer
+determined by man-to-man combat,
+but by 'Gears'<Delay 10> - giant humanoid
+fighting machines -<Delay 10> that were
+obtained from deep within the
+ruins.<Delay 200><Delay 200><Delay 200><Close><End of Block>
+<TextBlock 6 w:68 h:11>
+Eventually,<Delay 10> after continuous
+swings in the state of the war,<Delay 10>
+Kislev gained the upper hand.<Delay 30>
+The major factor behind this lay
+in the enormous difference in the
+amount of resources buried within
+their ruins.<Delay 30>
+But suddenly a mysterious military
+force appeared in the continent of
+Ignas.<Delay 20> Called 'Gebler', this force
+decided to make contact with Aveh.<Delay 200><Delay 200><Delay 200><Close><End of Block>
+<TextBlock 7 w:68 h:11>
+With the assistance of this Gebler
+military force,<Delay 5> Aveh was able to
+recover from being hopelessly out-
+numbered to being back on an even
+standing with Kislev.<Delay 30>
+Then,<Delay 10> taking further advantage of
+its newly gained momentum,<Delay 10> Aveh
+started to capture one territory
+after another from Kislev,<Delay 10> showing
+no indication of slowing down in
+their invasion campaign.<Delay 200><Delay 220><Delay 220><Close><End of Block>

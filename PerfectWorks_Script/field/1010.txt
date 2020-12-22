@@ -1,0 +1,195 @@
+<TextBlock 1 w:56 h:4>
+A reactor that cannot be
+controlled by man is just
+like a double-edged sword.
+We will hurt even ourselves.<Close><End of Block>
+<TextBlock 2 w:60 h:5>
+In the northern part of the
+capital, in the industrial
+block lies a relic from an
+ancient civilization...
+a giant 'reactor'.<New>
+That reactor produces power
+beyond our ability to control.
+It's something man will
+never be able to wield...<Close><End of Block>
+<TextBlock 3 w:64 h:4>
+It's become apparent that the
+primary target in the attack
+on the Empire was to bomb that
+reactor in the industrial block.<New>
+If<Delay 5> they had a direct hit on the
+reactor<Delay 5>...<Delay 5>the entire capital
+would've been turned to ashes.<New>
+It would've been a hell on
+earth<Delay 5> where no living thing
+could exist."<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+There's been some
+information that
+suggests Aveh is doing
+something suspicious.<New>
+This balance we've 
+had with them isn't
+going to last<Delay 5>...<Close><End of Block>
+<TextBlock 5 w:50 h:5>
+During the assault on the
+Empire, it was said that
+the new imperial Gear was
+stolen from the D Block
+area Gear dock<Delay 5>...<New>
+According to the higher
+ups, I accidentally heard
+that it was the same Gear
+that was stolen by that
+commando unit.<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Just a while ago I was
+pretty active in the
+Battling tournament.<New>
+Then those people from the
+committee scouted me out.
+Heh, it's good to be a
+soldier.<Close><End of Block>
+<TextBlock 7 w:44 h:5>
+My Gear was primarily
+customized for ground
+combat and they used
+that to assign me to
+the rescue unit.<New>
+Although I wasn't able
+to fight in my Gear,
+it's a pretty good
+feeling knowing my job
+is saving people.<Close><End of Block>
+<TextBlock 8 w:56 h:5>
+For today's lecture we will
+discuss the movement of
+Gears on the world map.<New>
+I understand that most of
+you are ex-Battlers and are
+well acquainted with Gears,
+but it should be no loss for
+you to re-learn the basics.<New>
+First, the limits to the
+area of movement of Gears...<Delay 5>
+It is impossible to walk
+through dense forests in
+a Gear!<New>
+Instead of being hasty, just
+press the L2 and R2 buttons
+simultaneously and you will
+all get off your Gears.<New>
+Once you pass through the
+forest, you may once again
+get on your Gears! That is
+all for this lecture...<Delay 5>
+Any questions?<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+<Delay 5>...<Delay 5>If there are no
+questions, class is
+dismissed.<Delay 15> Oh yes, I
+forgot one thing...<New>
+This is common sense,<Delay 5>
+but movement over
+water is not possible.<Close><End of Block>
+<TextBlock 10 w:48 h:3>
+Whew,<Delay 5> it was another
+wonderful lecture today.
+I'm even awed at myself.<New>
+<Delay 5>...<Delay 5>I'm sure looking
+forward to tomorrow's 
+lecture.<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Hmm,<Delay 5> I noticed you were all
+diligently listening to my
+lecture.<New>
+Now don't forget,<Delay 15> getting
+on and off your Gears is
+done by pressing the L2 and
+R2 buttons simultaneously!!<Close><End of Block>
+<TextBlock 12 w:60 h:5>
+Battler Soldier
+"The lecture's about to begin.
+Although it's short, it's such
+a bother. Please don't talk
+to me right now."<Close><End of Block>
+<TextBlock 13 w:50 h:5>
+Battler Soldier
+"The officer's lecture is
+always the same<Delay 5>...<Delay 15>It's
+hard on us people who
+have to listen to him.<New>
+Not just that,<Delay 5> he keeps
+adding to the rules,
+regulations and control
+of activities.<New>
+I wish I could go back to
+my days as a Battler."<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Amazon Soldier
+"Shut up,<Delay 5> I'm trying to
+listen so quit talking
+to me."<Close><End of Block>
+<TextBlock 15 w:50 h:5>
+Amazon Soldier
+"Argh,<Delay 5> this sucks.<Delay 15> He
+thinks it's a lecture<Delay 5> but
+all he does is say the
+same thing everyday.<New>
+Compared to this, I was
+fighting a lot more in my
+Battling days.<New>
+Now that was living.
+Maybe I should quit the
+military..."<Close><End of Block>
+<TextBlock 16 w:58 h:4>
+Army Cook
+"Patriotism is a necessary
+component to drafting many
+young soldiers.<New>
+But because of that, we get
+some young ones that over do
+it. By the time that happens,
+it's usually too late<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 17 w:48 h:5>
+Army Cook
+"I'm the cook for the
+Imperial barracks.
+I can get in trouble for
+having you guys in here.<New>
+If you have no business
+here, please leave.
+Moreover, you aren't
+even soldiers.<New>
+I thought that I told
+them strictly not to
+allow civilians in.<New>
+Man...what am I going
+to do."<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Argh!<Delay 5> I failed<Delay 5> again.<Delay 15>
+Hmmm,<Delay 5> there's just
+something not right with
+the special sauce.<New>
+Ether cuisine has a lot
+of depth to it.<Close><End of Block>
+<TextBlock 19 w:54 h:5>
+Failure is an important
+step to my path to success!<Delay 15>
+It's my dream to become
+just like that first Ether
+cook over in D Block.<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+<Delay 5>...<Delay 5>I volunteered so
+that I could protect my
+country<Delay 5>...<Delay 5> But this<Delay 5>...<Delay 5>
+I didn't join for this.<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+I'm a new recruit for the
+Kislev military. I just
+graduated from the Imperial
+officer school as an elite!<New>
+So, why did they put me in
+A Block working under the
+chief cook?<Close><Close><End of Block>

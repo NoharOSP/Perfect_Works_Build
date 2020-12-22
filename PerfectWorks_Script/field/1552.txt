@@ -1,0 +1,945 @@
+<TextBlock 1 w:28 h:2>
+Became friends
+with Maria!<Close><End of Block>
+<TextBlock 2 w:36 h:4>
+Fei
+"...!?<Delay 20>
+<Weltall> won't
+move!?"<Close><End of Block>
+<TextBlock 3 w:38 h:3>
+Elly
+"<Vierge> isn't
+responding either!"<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Bart
+"Damn!
+What's going on?<New>
+<Brigandier> is not
+working right at all!"<Close><End of Block>
+<TextBlock 5 w:38 h:3>
+Bart
+"<Brigandier> won't
+move...!?"<Close><End of Block>
+<TextBlock 6 w:38 h:3>
+Elly
+"<Vierge> isn't
+responding either!"<Close><End of Block>
+<TextBlock 7 w:36 h:3>
+Fei
+"Doc, what's going
+on...!?"<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Elly
+"<Vierge> won't
+move...!?"<Close><End of Block>
+<TextBlock 9 w:36 h:3>
+Fei
+"Doc, what's going
+on...!?"<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+Bart
+"Damn!
+What's going on?<New>
+<Brigandier> is not
+working right at all!<Close><End of Block>
+<TextBlock 11 w:38 h:3>
+Billy
+"This one's no good
+either...!!"<Close><End of Block>
+<TextBlock 12 w:40 h:2>
+Rico
+"Is this his doing?"<Close><End of Block>
+<TextBlock 13 w:34 h:3>
+Citan
+"Then, could this
+be...?"<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Fei
+"At this rate, I can't
+do anything!<New>
+Are you saying we have
+to sit here and take it?"<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Citan
+"That is not what I mean.<Delay 20>
+Maybe...
+Maria could..."<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Fei
+"Got it!<Delay 20>
+We've come this far, we're
+not gonna get beaten now!"<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Fei
+"Crap!!<Delay 20>
+At this rate, I can't
+do anything!"<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Fei
+"Queen Zephyr, we will
+also fight to bring
+down Solaris.<New>
+To begin with, where
+is Solaris?<Delay 20>
+How do you get there?"<Close><End of Block>
+<TextBlock 19 w:38 h:4>
+Fei
+"I see.<Delay 20>
+I can't leave Nisan
+to its fate.<New>
+Okay, first let's
+head to Nisan!"<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Fei
+"I got it.
+Let's go together,
+Maria.<New>
+We're friends from
+now on, <Delay 20>
+you and...
+you and <Seibzehn> too."<Close><End of Block>
+<TextBlock 21 w:22 h:2>
+Fei
+"I got it."<Close><End of Block>
+<TextBlock 22 w:30 h:3>
+Fei
+"Okay, let's go
+everyone!"<Close><End of Block>
+<TextBlock 23 w:24 h:2>
+<Chu-Chu>
+"I'm going."<Close><End of Block>
+<TextBlock 24 w:48 h:3>
+<Chu-Chu>
+"So...
+please let me go along."<Close><End of Block>
+<TextBlock 25 w:28 h:4>
+<Chu-Chu>
+"No problem.<Delay 20>
+The gods will
+look after us.<New>
+Let's go."<Close><End of Block>
+<TextBlock 26 w:32 h:2>
+Maria
+"Th, this is..."<Close><End of Block>
+<TextBlock 27 w:30 h:2>
+Maria
+"Achtzehn...!?"<Close><End of Block>
+<TextBlock 28 w:54 h:4>
+Maria
+"Achtzehn...<Delay 30>
+is the 2nd Gear my father
+designed...<New>
+<Seibzehn>'s
+sister Gear.<Delay 20>
+But Achtzehn wasn't
+completed...!<New>
+Other than <Seibzehn>
+father didn't make anymore,
+he was supposed to have
+burned the plans...!<New>
+So...<Delay 20>
+Why...!?"<Close><End of Block>
+<TextBlock 29 w:28 h:4>
+Maria
+"That voice...<Delay 30>
+No...<Delay 10>
+Father!?"<Close><End of Block>
+<TextBlock 30 w:38 h:3>
+Maria
+"Why that...!!<Delay 30>
+Why is father...!?"<Close><End of Block>
+<TextBlock 31 w:40 h:4>
+Maria
+"But...!!<Delay 30>
+But... <Delay 20>
+Father's voice...!?"<Close><End of Block>
+<TextBlock 32 w:14 h:3>
+Maria
+"...!!<Delay 30>
+But..."<Close><End of Block>
+<TextBlock 33 w:28 h:4>
+Maria
+"...<Delay 30>
+Okay...
+I understand."<Close><End of Block>
+<TextBlock 34 w:10 h:2>
+Maria
+"..."<Close><End of Block>
+<TextBlock 35 w:28 h:2>
+Maria
+"Stop it...!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 36 w:26 h:3>
+Maria
+"Why...?<Delay 20>
+Why this...?"<Close><End of Block>
+<TextBlock 37 w:18 h:2>
+Maria
+"Waghhh!"<Opcode 2 30><Close><End of Block>
+<TextBlock 38 w:14 h:2>
+Maria
+"...!!"<Close><End of Block>
+<TextBlock 39 w:24 h:4>
+Maria
+"Stop it!!
+You wouldn't
+know!!"<Close><End of Block>
+<TextBlock 40 w:48 h:4>
+Maria
+"Even though, it may be,
+I...<Delay 30>
+to me..."<Close><End of Block>
+<TextBlock 41 w:26 h:3>
+Maria
+"...<Delay 20>
+I'm sorry..."<Close><End of Block>
+<TextBlock 42 w:38 h:4>
+Maria
+"...!?<Delay 20>
+What are you saying
+<Chu-Chu>!?"<Close><End of Block>
+<TextBlock 43 w:32 h:2>
+Maria
+"<Chu-Chu>...!?"<Close><End of Block>
+<TextBlock 44 w:10 h:3>
+Maria
+"...<Delay 20>
+..."<Close><End of Block>
+<TextBlock 45 w:10 h:3>
+Maria
+"...<Delay 20>
+Yes."<Close><End of Block>
+<TextBlock 46 w:52 h:5>
+Maria
+"Umm...<Delay 20>
+Can you take me along
+with you?"<Close>
+I hate just sitting here,
+waiting patiently.<Delay 20>
+I want to do something...
+Take me and <Seibzehn>!"<Close><End of Block>
+<TextBlock 47 w:12 h:2>
+Maria
+"Yes."<Close><End of Block>
+<TextBlock 48 w:34 h:2>
+People of Shevat!<Delay 20>
+Hear me!<Close><End of Block>
+<TextBlock 49 w:54 h:4>
+Nikolai
+"I'd heard some interesting
+rats had run into there...<New>
+Just in time to test
+out Achtzehn.<Delay 20>
+I can take you and Shevat
+out all at once!<New>
+Hello, little rats,
+come on out.<Delay 20>
+Come on my cute little
+guinea pigs."<Close><End of Block>
+<TextBlock 50 w:46 h:3>
+Nikolai
+"So you can be test
+subjects for this guy."<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Nikolai
+"Achtzehn's new weapon...<Delay 20>
+the anti-Gear Psycho
+Jammer!"<Close><End of Block>
+<TextBlock 52 w:52 h:4>
+Nikolai
+"That much time is enough
+to erase you from the face
+of the earth."<Close><End of Block>
+<TextBlock 53 w:50 h:3>
+Nikolai
+"Humans are an imperfect,
+foolish life form...<New>
+I will show the greatness
+of a perfect life form!<New>
+Achtzehn, the combination
+of human wisdom and the
+strength of steel."<Close><End of Block>
+<TextBlock 54 w:46 h:2>
+Zephyr
+"Calm down, Maria!!<New>
+It doesn't mean that
+Dr. Nikolai is inside!"<Close><End of Block>
+<TextBlock 55 w:46 h:4>
+Zephyr
+"Maria!!<Delay 20>
+Get a hold of yourself!<New>
+You intend to lose even
+before you fight...?<Delay 20>
+Against the very people
+who made you suffer?"<Close><End of Block>
+<TextBlock 56 w:32 h:3>
+Zephyr
+"Maria...<Delay 20>
+You, wait here."<Close><End of Block>
+<TextBlock 57 w:36 h:3>
+Zephyr
+"Everyone, please.<Delay 20>
+Be careful."<Close><End of Block>
+<TextBlock 58 w:50 h:4>
+Zephyr
+"...<Delay 20>
+Listen, Maria...<New>
+If the other Gears become
+immoblie, you and
+<Seibzehn> are the
+only hope.<New>
+You're full of spirit...<Delay 20>
+You can decide what to
+do yourself."<Close><End of Block>
+<TextBlock 59 w:52 h:4>
+Zephyr
+"Thank you, everyone.<New>
+The generator is repaired
+and the gate is developing
+as usual.<New>
+And Maria...
+You did very well.<Delay 20>
+It is very regretful
+about Dr. Nikolai...<New>
+Solaris put the doctor
+through all of that.<New>
+We must defeat them as
+soon as possible and
+restore freedom!"<Close><End of Block>
+<TextBlock 60 w:52 h:4>
+Zephyr
+"Solaris is hidden from
+human eyes by three
+gates.<New>
+One of the gates is under
+the 'Ethos' H.Q. but...<Delay 20>
+It is unreachable, even
+with Gears.<New>
+I don't know where the
+other two are yet.<Delay 20><New>
+Until we destroy the 3
+gates, the path to Solaris
+will not open.<New>
+In addition we've received
+some disturbing news.<Delay 20>
+Aveh has invaded Nisan."<Close><End of Block>
+<TextBlock 61 w:50 h:3>
+Zephyr
+"Their target is probably
+somewhere in the earth.<New>
+The secret royal
+treasure of Aveh.<New>
+An Omnigear, sealed up
+by Roni Fatima!"<Close><End of Block>
+<TextBlock 62 w:42 h:4>
+Zephyr
+"Your ship has been
+equipped with an
+aerial module.<New>
+Originally it was the
+ship used by Bart's
+ancestor Roni.
+Make free use of it."<Close><End of Block>
+<TextBlock 63 w:54 h:4>
+Zephyr
+"I have one request.<Delay 20>
+Fei, take Maria along
+with you.<New>
+This child, since her youth
+has been destined with no
+choice but to fight.<New>
+Until she settles her own
+fights, she will not be
+able move on with her life.<New>
+Go Maria, <Delay 20>
+and find your purpose in
+life...on your own."<Close><End of Block>
+<TextBlock 64 w:54 h:4>
+Zephyr
+"One of the sages,
+Gaspar, has returned.<New>
+Gaspar is the one who
+taught martial arts to
+Kahn and Wiseman.<New>
+I'm sure he will be able
+to teach you new techniques
+that will be of help to
+you on your journey.<New>
+I've already told Gaspar.
+Before you leave you should
+learn from him."<Close><End of Block>
+<TextBlock 65 w:44 h:4>
+Jessie
+"Okay, it's ready.<Delay 20>
+So, the last one is...
+this."<Close><End of Block>
+<TextBlock 66 w:44 h:3>
+Jessie
+"What's Achtzehn gonna
+do next?<Close><End of Block>
+<TextBlock 67 w:28 h:3>
+Jessie
+"Shevat's Gear
+forces...!!"<Close><End of Block>
+<TextBlock 68 w:44 h:4>
+Jessie
+"Beat it!<Delay 10>
+This isn't an opponent
+for you!!"<Close><End of Block>
+<TextBlock 69 w:46 h:3>
+Jessie
+"Damn it...!<Delay 20>
+I'm gonna mess you up!"<Close><End of Block>
+<TextBlock 70 w:22 h:2>
+Jessie
+"Umph...!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 71 w:42 h:2>
+Jessie
+"This is not good..."<Close><End of Block>
+<TextBlock 72 w:54 h:4>
+Jessie
+"The Gears' response
+circuits are acting strange
+because of a strong shock.<New>
+Don't worry, it's
+only momentary."<Close><End of Block>
+<TextBlock 73 w:52 h:3>
+Jessie
+"Achtzehn and its sister
+Gear <Seibzehn>...<New>
+So, it's normal there is
+an anti-jamming shield..."<Close><End of Block>
+<TextBlock 74 w:38 h:4>
+Jessie
+"More than that...<Delay 20>
+I don't wanna say
+it but...<New>
+Your father is no
+longer in there..."<Close><End of Block>
+<TextBlock 75 w:40 h:4>
+Jessie
+"I see...oh well...<Delay 20>
+Might as well expect
+the worst then."<Close><End of Block>
+<TextBlock 76 w:36 h:2>
+Elly
+"Shall we change?"<Close><End of Block>
+<TextBlock 77 w:38 h:2>
+Bart
+"You wanna change?"<Close><End of Block>
+<TextBlock 78 w:40 h:3>
+Bart
+"What's with that
+creepy Gear...?<New>
+Do you know anything
+Maria?"<Close><End of Block>
+<TextBlock 79 w:26 h:3>
+Bart
+"What the...?<Delay 20>
+Shakhan?"<Close><End of Block>
+<TextBlock 80 w:40 h:4>
+Bart
+"Damn!!<Delay 20>
+This is no place
+to hesitate!<New>
+I'm going to Nisan!<Delay 20>
+We can't let Shakhan
+have his way!"<Close><End of Block>
+<TextBlock 81 w:36 h:2>
+Billy
+"Shall we change?"<Close><End of Block>
+<TextBlock 82 w:38 h:2>
+Rico
+"You wanna change?"<Close><End of Block>
+<TextBlock 83 w:36 h:2>
+Citan
+"Shall we change?"<Close><End of Block>
+<TextBlock 84 w:38 h:4>
+Citan
+"Well that is fine.<Delay 20>
+Let us consider our
+next move!"<Close><End of Block>
+<TextBlock 85 w:50 h:4>
+Citan
+"We must repulse the Gear
+forces and protect the
+generator."<Close><End of Block>
+<TextBlock 86 w:56 h:4>
+Citan
+"To do that let us split
+into four teams, and
+intercept the enemy.<New>
+The four of us will attack
+independently and defend
+each generator to the death.<Delay 20>
+The other two, wait here.<New>
+It is dangerous...but we
+cannot turn back now.<Delay 20>
+If even one generator falls
+it is a defeat for us."<Close><End of Block>
+<TextBlock 87 w:28 h:3>
+Citan
+"...
+Please Maria."<Close><End of Block>
+<TextBlock 88 w:46 h:4>
+Citan
+"Next, the formation of
+the enemy Gear forces.<New>
+At Generator 1, there
+are two small Gears and
+a complement of Solaris
+troops...<New>
+If you do not hit them
+fast and hard you will
+get bogged down in a
+firefight.<New>
+At Generator 2, there
+are 3 White Knights.<Delay 20>
+They are very fast
+and maneuverable.<New>
+At Generator 3 there
+is a large Gear and a
+White Knight.<New>
+Be careful, the large
+Gear has some kind of
+special attack.<New>
+At Generator 4, there
+is a large Gear and a
+White Knight.<New>
+The large Gear seems to
+be a power Gear."<Close><End of Block>
+<TextBlock 89 w:40 h:10>
+<Opcode 1 255>Citan
+"So, who will go to
+Generator 1?"<Delay 10>
+    Fei
+    Citan
+    Elly
+    Bart
+    Rico
+    Billy
+    Hear enemy info.<Close><End of Block>
+<TextBlock 90 w:42 h:3>
+Citan
+"Fei is already going
+to another generator.<Close><End of Block>
+<TextBlock 91 w:44 h:3>
+Citan
+"I am already going
+to another generator."<Close><End of Block>
+<TextBlock 92 w:44 h:3>
+Citan
+"Elly is already going
+to another generator."<Close><End of Block>
+<TextBlock 93 w:44 h:3>
+Citan
+"Bart is already going
+to another generator."<Close><End of Block>
+<TextBlock 94 w:44 h:3>
+Citan
+"Rico is already going
+to another generator."<Close><End of Block>
+<TextBlock 95 w:46 h:3>
+Citan
+"Billy is already going
+to another generator."<Close><End of Block>
+<TextBlock 96 w:46 h:11>
+<Opcode 1 255>Generator 1
+    Two small Gears
+    and Solaris troops
+Generator 2
+    3 White Knights
+Generator 3
+    Special attack Gear
+    and 1 White Knight
+Generator 4
+    Power Gear and
+    1 White Knight<Close><End of Block>
+<TextBlock 97 w:40 h:11>
+<Opcode 1 255>Citan
+"Who will go to
+Generator 2?"<Delay 10>
+    Fei
+    Citan
+    Elly
+    Bart
+    Rico
+    Billy
+    Hear enemy info.
+    Start over<Close><End of Block>
+<TextBlock 98 w:44 h:3>
+Citan
+"Fei is already going
+to another generator."<Close><End of Block>
+<TextBlock 99 w:44 h:3>
+Citan
+"I am already going
+to another generator."<Close><End of Block>
+<TextBlock 100 w:44 h:3>
+Citan
+"Elly is already going
+to another generator."<Close><End of Block>
+<TextBlock 101 w:44 h:3>
+Citan
+"Bart is already going
+to another generator."<Close><End of Block>
+<TextBlock 102 w:44 h:3>
+Citan
+"Rico is already going
+to another generator."<Close><End of Block>
+<TextBlock 103 w:46 h:3>
+Citan
+"Billy is already going
+to another generator."<Close><End of Block>
+<TextBlock 104 w:46 h:11>
+<Opcode 1 255>Generator 1
+    Two small Gears and
+    Solaris troops
+Generator 2
+    3 White Knights
+Generator 3
+    Special attack Gear
+    and 1 White Knight
+Generator 4
+    Power Gear and
+    1 White Knight<Close><End of Block>
+<TextBlock 105 w:50 h:4>
+Citan
+"Change the assignments?"
+   No, this is fine
+   Yes, start again<Close><End of Block>
+<TextBlock 106 w:40 h:11>
+<Opcode 1 255>Citan
+"Who will go to
+Generator 3?"<Delay 10>
+    Fei
+    Citan
+    Elly
+    Bart
+    Rico
+    Billy
+    Hear enemy info.
+    Start over<Close><End of Block>
+<TextBlock 107 w:44 h:3>
+Citan
+"Fei is already going
+to another generator."<Close><End of Block>
+<TextBlock 108 w:44 h:3>
+Citan
+"I am already going to
+another generator."<Close><End of Block>
+<TextBlock 109 w:50 h:3>
+Citan
+"Elly is already going to
+another generator."<Close><End of Block>
+<TextBlock 110 w:50 h:3>
+Citan
+"Bart is already going to
+another generator."<Close><End of Block>
+<TextBlock 111 w:50 h:3>
+Citan
+"Rico is already going to
+another generator."<Close><End of Block>
+<TextBlock 112 w:52 h:3>
+Citan
+"Billy is already going to
+another generator."<Close><End of Block>
+<TextBlock 113 w:46 h:11>
+<Opcode 1 255>Generator 1
+    Two small Gears and
+    Solaris troops
+Generator 2
+    3 White Knights
+Generator 3
+    Special attack Gear
+    and 1 White Knight
+Generator 4
+    Power Gear and
+    1 White Knight<Close><End of Block>
+<TextBlock 114 w:50 h:4>
+Citan
+"Change the assignments?"
+   No, this is fine
+   Yes, start again<Close><End of Block>
+<TextBlock 115 w:40 h:11>
+<Opcode 1 255>Citan
+"Who will go to
+Generator 4?"<Delay 10>
+    Fei
+    Citan
+    Elly
+    Bart
+    Rico
+    Billy
+    Hear enemy info.
+    Start over<Close><End of Block>
+<TextBlock 116 w:44 h:3>
+Citan
+"Fei is already going
+to another generator."<Close><End of Block>
+<TextBlock 117 w:44 h:3>
+Citan
+"I am already going
+to another generator."<Close><End of Block>
+<TextBlock 118 w:44 h:3>
+Citan
+"Elly is already going
+to another generator."<Close><End of Block>
+<TextBlock 119 w:44 h:3>
+Citan
+"Bart is already going
+to another generator."<Close><End of Block>
+<TextBlock 120 w:44 h:3>
+Citan
+"Rico is already going
+to another generator."<Close><End of Block>
+<TextBlock 121 w:46 h:3>
+Citan
+"Billy is already going
+to another generator."<Close><End of Block>
+<TextBlock 122 w:46 h:11>
+<Opcode 1 255>Generator 1
+    Two small Gears and
+    Solaris troops
+Generator 2
+    3 White Knights
+Generator 3
+    Special attack Gear
+    and 1 White Knight
+Generator 4
+    Power Gear and
+    1 White Knight<Close><End of Block>
+<TextBlock 123 w:50 h:4>
+Citan
+"Change the assignments?"
+   No, this is fine
+   Yes, start again<Close><End of Block>
+<TextBlock 124 w:44 h:4>
+Citan
+"Understood.<Delay 20>
+The target assignments
+are..."<Close><End of Block>
+<TextBlock 125 w:22 h:2>
+Generator 1
+    Fei<Close><End of Block>
+<TextBlock 126 w:22 h:2>
+Generator 1
+   Citan<Close><End of Block>
+<TextBlock 127 w:22 h:2>
+Generator 1
+    Elly<Close><End of Block>
+<TextBlock 128 w:22 h:2>
+Generator 1
+    Bart<Close><End of Block>
+<TextBlock 129 w:22 h:2>
+Generator 1
+    Rico<Close><End of Block>
+<TextBlock 130 w:22 h:2>
+Generator 1
+    Billy<Close><End of Block>
+<TextBlock 131 w:22 h:2>
+Generator 2
+    Fei<Close><End of Block>
+<TextBlock 132 w:22 h:2>
+Generator 2
+   Citan<Close><End of Block>
+<TextBlock 133 w:22 h:2>
+Generator 2
+    Elly<Close><End of Block>
+<TextBlock 134 w:22 h:2>
+Generator 2
+    Bart<Close><End of Block>
+<TextBlock 135 w:22 h:2>
+Generator 2
+    Rico<Close><End of Block>
+<TextBlock 136 w:22 h:2>
+Generator 2
+   Billy<Close><End of Block>
+<TextBlock 137 w:22 h:2>
+Generator 3
+    Fei<Close><End of Block>
+<TextBlock 138 w:22 h:2>
+Generator 3
+   Citan<Close><End of Block>
+<TextBlock 139 w:22 h:2>
+Generator 3
+    Elly<Close><End of Block>
+<TextBlock 140 w:22 h:2>
+Generator 3
+    Bart<Close><End of Block>
+<TextBlock 141 w:22 h:2>
+Generator 3
+    Rico<Close><End of Block>
+<TextBlock 142 w:22 h:2>
+Generator 3
+   Billy<Close><End of Block>
+<TextBlock 143 w:22 h:2>
+Generator 4
+    Fei<Close><End of Block>
+<TextBlock 144 w:22 h:2>
+Generator 4
+   Citan<Close><End of Block>
+<TextBlock 145 w:22 h:2>
+Generator 4
+    Elly<Close><End of Block>
+<TextBlock 146 w:22 h:2>
+Generator 4
+    Bart<Close><End of Block>
+<TextBlock 147 w:22 h:2>
+Generator 4
+    Rico<Close><End of Block>
+<TextBlock 148 w:22 h:2>
+Generator 4
+   Billy<Close><End of Block>
+<TextBlock 149 w:54 h:4>
+Citan
+"Are these assignments OK?"
+    Yes, so let's go!
+    No, I wanna change'em!<Close><End of Block>
+<TextBlock 150 w:44 h:4>
+Citan
+"Please hurry and get
+the preparations for
+the battle in order.<New>
+Now, is this alright?"<Delay 10>
+    Let me get ready
+    Yes, let's go!<Close><End of Block>
+<TextBlock 151 w:40 h:4>
+Citan
+"When you are ready,
+we will leave for
+the battle...<New>
+Please hurry, now!<Delay 20>
+The enemy is almost
+there!"<Close><End of Block>
+<TextBlock 152 w:46 h:3>
+Citan
+"Understood.<New>
+Those defending the
+generators, should now
+depart in their Gears!"<Close><End of Block>
+<TextBlock 153 w:52 h:4>
+Citan
+"Well, the enemy is
+almost there!<New>
+Are you ready now?"<Delay 20>
+    Need a little longer
+    I'm ready, let's go!
+    Change the assignments<Close><End of Block>
+<TextBlock 154 w:40 h:4>
+Citan
+"When you are ready,
+we will attack.<Delay 20>
+Please hurry!"<Close><End of Block>
+<TextBlock 155 w:46 h:3>
+Citan
+"Well alright then...<New>
+Those defending the
+generators, should now
+depart in their Gears!"<Close><End of Block>
+<TextBlock 156 w:38 h:4>
+Citan
+"Understood.<Delay 20>
+The current battle
+assignments are..."<Close><End of Block>
+<TextBlock 157 w:22 h:2>
+Generator 1
+    Fei<Close><End of Block>
+<TextBlock 158 w:22 h:2>
+Generator 1
+   Citan<Close><End of Block>
+<TextBlock 159 w:22 h:2>
+Generator 1
+    Elly<Close><End of Block>
+<TextBlock 160 w:22 h:2>
+Generator 1
+    Bart<Close><End of Block>
+<TextBlock 161 w:22 h:2>
+Generator 1
+    Rico<Close><End of Block>
+<TextBlock 162 w:22 h:2>
+Generator 1
+   Billy<Close><End of Block>
+<TextBlock 163 w:22 h:2>
+Generator 2
+    Fei<Close><End of Block>
+<TextBlock 164 w:22 h:2>
+Generator 2
+   Citan<Close><End of Block>
+<TextBlock 165 w:22 h:2>
+Generator 2
+    Elly<Close><End of Block>
+<TextBlock 166 w:22 h:2>
+Generator 2
+    Bart<Close><End of Block>
+<TextBlock 167 w:22 h:2>
+Generator 2
+    Rico<Close><End of Block>
+<TextBlock 168 w:22 h:2>
+Generator 2
+   Billy<Close><End of Block>
+<TextBlock 169 w:22 h:2>
+Generator 3
+    Fei<Close><End of Block>
+<TextBlock 170 w:22 h:2>
+Generator 3
+   Citan<Close><End of Block>
+<TextBlock 171 w:22 h:2>
+Generator 3
+    Elly<Close><End of Block>
+<TextBlock 172 w:22 h:2>
+Generator 3
+    Bart<Close><End of Block>
+<TextBlock 173 w:22 h:2>
+Generator 3
+    Rico<Close><End of Block>
+<TextBlock 174 w:22 h:2>
+Generator 3
+   Billy<Close><End of Block>
+<TextBlock 175 w:22 h:2>
+Generator 4
+    Fei<Close><End of Block>
+<TextBlock 176 w:22 h:2>
+Generator 4
+   Citan<Close><End of Block>
+<TextBlock 177 w:22 h:2>
+Generator 4
+    Elly<Close><End of Block>
+<TextBlock 178 w:22 h:2>
+Generator 4
+    Bart<Close><End of Block>
+<TextBlock 179 w:22 h:2>
+Generator 4
+    Rico<Close><End of Block>
+<TextBlock 180 w:22 h:2>
+Generator 4
+   Billy<Close><End of Block>
+<TextBlock 181 w:54 h:4>
+Citan
+"Are these assignments OK?"
+    Yes, so let's go!
+    No, I wanna change'em!<Close><End of Block>
+<TextBlock 182 w:40 h:2>
+Citan
+"What was that...!?"<Close><End of Block>
+<TextBlock 183 w:50 h:4>
+Citan
+"Powerful eletrical waves
+are interfering with the
+Gears' response circuits.<New>
+Dont' worry, it will
+soon pass.<Delay 20>
+But..."<Close><End of Block>
+<TextBlock 184 w:50 h:4>
+Citan
+"That is not what I mean.<Delay 20>
+What if...
+If <Seibzehn>..."<Close><End of Block>
+<TextBlock 185 w:54 h:4>
+Citan
+"If <Seibzehn> is
+Achtzehn's sister Gear...
+then maybe...just maybe...<New>
+...What I am saying is that
+it would not be surprising
+if it is equipped with an
+anti-jamming shield."<Close><Close><End of Block>

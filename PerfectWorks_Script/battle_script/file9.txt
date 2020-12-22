@@ -1,0 +1,37 @@
+<TextBlock 1 w:15 h:1>
+"Fe~i!"<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Citan
+"Fei! I have been
+searching for you!
+Here, You can use this!"<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Citan
+"Fei...
+Let us pray that
+that won't happen!"<Close><End of Block>
+<TextBlock 4 w:38 h:3>
+Fei
+"Elly!
+Are you alright?!<New>
+Darn!
+She's unconscious!"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Fei
+"Hey! Hold on a second!
+To tell me I can use
+it is one thing..."<Close><End of Block>
+<TextBlock 6 w:18 h:3>
+Fei
+"Elly...<Delay 15>
+Damn it!"<Close><End of Block>
+<TextBlock 7 w:44 h:4>
+Fei
+"Doc.
+I have a favor to ask!<New>
+I will defeat this
+monster!<New>
+But, if it looks like
+I'll go out of control
+like last time,
+then shoot me!"<Close><Close><Close><Close><Close><...><End of Block>

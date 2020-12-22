@@ -1,0 +1,1328 @@
+<TextBlock 1 w:36 h:3>
+Fei
+"<Delay 5>...<Delay 5>So<Delay 15> this is the
+Battling Arena."<Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Fei
+"<Delay 5>...<Delay 5>Hmn!?"<Close><End of Block>
+<TextBlock 3 w:56 h:4>
+Gate Keeper
+"Beyond here is the
+competitors' Gear storage
+paddock.<New>
+Sorry, but to prevent pilots
+from cheating, unauthorized
+entry is not permitted."<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Supervisor
+"<Delay 5>...<Delay 5>Beyond here is the
+competitors' Gear storage
+paddock.<New>
+To prevent cheating,
+unauthorized entry is
+prohibited. Please
+keep back<Delay 5>..."<Close><End of Block>
+<TextBlock 5 w:56 h:4>
+Supervisor
+"The Battling Contest is now
+in recess. I'm afraid I'll 
+have to ask you to leave."<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Informationist
+"Nothing learned nothing 
+gained. Ask and you shall
+receive<Delay 5>...<Delay 5>perhaps.<New>
+Anyway, 'Battler', what do
+you need to know about the
+Battling Contest?"<Close><End of Block>
+<TextBlock 7 w:46 h:5>
+Informationist
+"What shall I explain?"<Delay 15>
+<Opcode 1 255>    What's Battling?
+    Basic controls
+    I'm alright thanks!<Close><End of Block>
+<TextBlock 8 w:54 h:5>
+Informationist
+"...<Delay 5>Fei, sir,<Delay 5> you haven't
+registered your Gear yet.<Delay 30>
+But I can explain the basic
+controls if you like<Delay 5>...?<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Fei
+"Battling control method?"<Delay 5>
+    Please explain
+    No thank you<Close><End of Block>
+<TextBlock 10 w:36 h:4>
+Informationist
+"<Delay 5>...<Delay 5>Oh<Delay 5>...<Delay 5>well<Delay 5>...<Delay 15>
+Anything else you 
+want to know?"<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Receptionist
+"Today's Battling matches
+have all finished. <Delay 15> Please
+come again."<Close><End of Block>
+<TextBlock 12 w:64 h:1>
+Received '2500G' in prize money!<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 14 w:44 h:1>
+Received '800G' bonus!<Close><End of Block>
+<TextBlock 15 w:64 h:1>
+Received '2000G' in prize money!<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 17 w:44 h:1>
+Received '500G' bonus!<Close><End of Block>
+<TextBlock 18 w:64 h:1>
+Received '1500G' in prize money!<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 20 w:44 h:1>
+Received '400G' bonus!<Close><End of Block>
+<TextBlock 21 w:64 h:1>
+Received '2500G' in prize money!<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 23 w:46 h:1>
+Received '1000G' bonus!<Close><End of Block>
+<TextBlock 24 w:64 h:1>
+Received '2000G' in prize money!<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 26 w:44 h:1>
+Received '600G' bonus!<Close><End of Block>
+<TextBlock 27 w:64 h:1>
+Received '1500G' in prize money!<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 29 w:44 h:1>
+Received '500G' bonus!<Close><End of Block>
+<TextBlock 30 w:64 h:1>
+Received '2500G' in prize money!<Close><End of Block>
+<TextBlock 31 w:64 h:1>
+Received '2000G' in prize money!<Close><End of Block>
+<TextBlock 32 w:64 h:1>
+Received '1500G' in prize money!<Close><End of Block>
+<TextBlock 33 w:64 h:1>
+Received '1000G' in prize money!<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 35 w:44 h:1>
+Received '300G' bonus!<Close><End of Block>
+<TextBlock 36 w:62 h:1>
+Received '750G' in prize money!<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 38 w:44 h:1>
+Received '200G' bonus!<Close><End of Block>
+<TextBlock 39 w:64 h:1>
+Received '1000G' in prize money!<Close><End of Block>
+<TextBlock 40 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 41 w:44 h:1>
+Received '400G' bonus!<Close><End of Block>
+<TextBlock 42 w:62 h:1>
+Received '750G' in prize money!<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 44 w:44 h:1>
+Received '300G' bonus!<Close><End of Block>
+<TextBlock 45 w:64 h:1>
+Received '1000G' in prize money!<Close><End of Block>
+<TextBlock 46 w:62 h:1>
+Received '750G' in prize money!<Close><End of Block>
+<TextBlock 47 w:62 h:1>
+Received '500G' in prize money!<Close><End of Block>
+<TextBlock 48 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 49 w:44 h:1>
+Received '200G' bonus!<Close><End of Block>
+<TextBlock 50 w:62 h:1>
+Received '300G' in prize money!<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 52 w:44 h:1>
+Received '100G' bonus!<Close><End of Block>
+<TextBlock 53 w:62 h:1>
+Received '500G' in prize money!<Close><End of Block>
+<TextBlock 54 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 55 w:44 h:1>
+Received '300G' bonus!<Close><End of Block>
+<TextBlock 56 w:62 h:1>
+Received '300G' in prize money!<Close><End of Block>
+<TextBlock 57 w:50 h:4>
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"<Close><End of Block>
+<TextBlock 58 w:44 h:1>
+Received '200G' bonus!<Close><End of Block>
+<TextBlock 59 w:62 h:1>
+Received '500G' in prize money!<Close><End of Block>
+<TextBlock 60 w:62 h:1>
+Received '300G' in prize money!<Close><End of Block>
+<TextBlock 61 w:32 h:4>
+Rue
+"Are you ready?"<Delay 15>
+<Opcode 1 255>    Not yet!
+    You bet!<Close><End of Block>
+<TextBlock 62 w:56 h:3>
+Rue
+"As I said before, there's
+not much time,<Delay 5> so do hurry!"<Close><End of Block>
+<TextBlock 63 w:42 h:3>
+Rue
+"Very well then<Delay 5>...<Delay 15>
+Over there please<Delay 5>..."<Close><End of Block>
+<TextBlock 64 w:38 h:2>
+Rue
+"<Delay 5>...<Delay 5>It's that way!"<Close><End of Block>
+<TextBlock 65 w:52 h:3>
+Rue
+"Beyond there is the Gear
+paddock<Delay 5>...<Delay 5><New>
+Not much time till the
+first bout. You had better
+hurry<Delay 5>..."<Close><End of Block>
+<TextBlock 66 w:54 h:3>
+Subordinate
+"If your preparations are
+complete then talk to Rue."<Close><End of Block>
+<TextBlock 67 w:22 h:2>
+Subordinate
+"???"<Opcode 2 45><Close><End of Block>
+<TextBlock 68 w:62 h:2>
+Subordinate
+"Rue, ma'am, <Delay 5>what shall we do?"<Close><End of Block>
+<TextBlock 69 w:26 h:2>
+Subordinate
+"Yes,<Delay 5> ma'am!"<Opcode 2 45><Close><End of Block>
+<TextBlock 70 w:54 h:4>
+Subordinate
+"There's not much time till
+the first bout so please 
+don't leave the arena."<Opcode 2 60><Close><End of Block>
+<TextBlock 71 w:54 h:3>
+Subordinate
+"If your preparations are
+complete then talk to Rue."<Close><End of Block>
+<TextBlock 72 w:22 h:2>
+Subordinate
+"???"<Opcode 2 45><Close><End of Block>
+<TextBlock 73 w:62 h:2>
+Subordinate
+"Rue, ma'am, <Delay 5>what shall we do?"<Close><End of Block>
+<TextBlock 74 w:26 h:2>
+Subordinate
+"Yes,<Delay 5> ma'am!"<Opcode 2 45><Close><End of Block>
+<TextBlock 75 w:54 h:4>
+Subordinate
+"There's not much time till
+the first bout so please 
+dont't leave the arena."<Opcode 2 60><Close><End of Block>
+<TextBlock 76 w:56 h:4>
+Hammer
+"I'm a mechanic, <Delay 5>so I took
+the liberty to set up shop
+here for a while.<New>
+Let's not waste time, <Delay 5>bro,<Delay 10>
+care to to make a purchase?"<Delay 15>
+<Opcode 1 255>    Not now!
+    'spose I have to.<Close><End of Block>
+<TextBlock 77 w:50 h:4>
+Hammer
+"Oh yeah, <Delay 5>and while I'm 
+here I deal in Gear parts
+instead of accessories."<Close><End of Block>
+<TextBlock 78 w:42 h:4>
+Hammer
+"Yeah! <Delay 5>That's my bro!<Delay 10>
+You're too kind man!
+Much appreciated!"<Close><End of Block>
+<TextBlock 79 w:52 h:4>
+Hammer
+"What you be needin' bro?"<Delay 15>
+<Opcode 1 255>    Hammer's items
+    Hammer's Gear parts<Close><End of Block>
+<TextBlock 80 w:52 h:4>
+Hammer
+"The procedures were quite
+sudden so the approval for<New>
+servicing Gear parts won't
+make it in time for the 
+first bouts.<New>
+Oh and bro, you haven't 
+been allocated a Gear yet.
+<Delay 5>...<Delay 5>I wonder what Gear they
+will give you<Delay 5>...?"<Close><End of Block>
+<TextBlock 81 w:54 h:4>
+Hammer
+"Thanks bro, but how about
+buying something else apart
+from items?<New>
+It'll help Hammer out too!<Delay 30>
+<Opcode 1 255>    Enough already!
+    Hammer's items
+    Hammer's Gear Parts<Close><End of Block>
+<TextBlock 82 w:52 h:4>
+Hammer
+"OK, <Delay 5>now for the Battling.
+Do your best, <Delay 5>bro!<Delay 15>
+For Hammer's future t<Delay 5>..."<Close><End of Block>
+<TextBlock 83 w:4 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 84 w:24 h:2>
+<Opcode 1 255>Hammer
+"Forget it!"<Close><End of Block>
+<TextBlock 85 w:52 h:4>
+Hammer
+"The procedures were quite
+sudden so the approval for<New>
+servicing Gear parts won't
+make it in time for the 
+first bouts.<New>
+Oh and bro, you haven't 
+been allocated a Gear yet.
+<Delay 5>...<Delay 5>I wonder what Gear they
+will provide you with<Delay 5>...<Delay 5>?"<Close><End of Block>
+<TextBlock 86 w:54 h:4>
+Hammer
+"Thanks bro, but how about
+buying something else apart
+from Gear parts?<New>
+It'll help Hammer out too!<Delay 30>
+<Opcode 1 255>    Enough already!
+    Hammer's items
+    Hammer's Gear Parts<Close><End of Block>
+<TextBlock 87 w:52 h:4>
+Hammer
+"OK, <Delay 5>now for the Battling.
+Do your best, <Delay 5>bro.!<Delay 15>
+For Hammer's future t<Delay 5>..."<Close><End of Block>
+<TextBlock 88 w:4 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 89 w:24 h:2>
+<Opcode 1 255>Hammer
+"Forget it!"<Close><End of Block>
+<TextBlock 90 w:52 h:4>
+Hammer
+"The procedures were quite
+sudden so the approval for<New>
+servicing Gear parts won't
+make it in time for the
+first bouts.<New>
+Oh and bro, you haven't
+been allocated a Gear yet.
+<Delay 5>...<Delay 5>I wonder what Gear they
+will provide you with<Delay 5>...<Delay 5>?"<Close><End of Block>
+<TextBlock 91 w:40 h:3>
+Citan
+"<Delay 5>...<Delay 5>Or the reception
+area to be exact."<Close><End of Block>
+<TextBlock 92 w:54 h:5>
+Receptionist
+"This year's Imperial Games
+are held over 5 days. The
+first 3 days are decided 
+with a 2 match victory<Delay 5>...<New>
+The qualifiers go on to
+compete in the second and
+third days' bouts<Delay 5>...<New>
+Those who win 3 battles in
+the semi-final bouts on the
+fourth day, qualify for the
+last-day's Finals League."<Close><End of Block>
+<TextBlock 93 w:56 h:5>
+Receptionist
+"By the way, Fei, sir, your
+opponents in today's matches
+are<Delay 5>...<Delay 5>Leonardo Sniper in the
+first bout<Delay 5>...<New>
+and if you win against him 
+then for the second bout you
+fight<Delay 5>...<Delay 5>Heinrich Clive."<Close><End of Block>
+<TextBlock 94 w:56 h:5>
+Receptionist
+"Your entry has already been
+made. <Delay 15>Please follow the
+supervisor's instructions to
+compete in your first bout."<Close><End of Block>
+<TextBlock 95 w:56 h:5>
+Receptionist
+"Due to sudden mechanical
+trouble, your competitor for
+yesterday, Leonardo Sniper,
+has had to drop out<Delay 5>...<New>
+Heinrich Clive has also had
+mechanical problems and has
+pulled out. <Delay 15>This means you,
+Fei, win by default and can
+compete in day 2's bouts!"<Close><End of Block>
+<TextBlock 96 w:56 h:5>
+Receptionist
+"If you win 2 matches today,
+the second day of the games,
+you can progress on to the
+third set of bouts.<New>
+Do you want to enter the 
+bouts for day two?"<Delay 15>
+<Opcode 1 255>    Don't enter
+    Let me Enter!<Close><End of Block>
+<TextBlock 97 w:56 h:4>
+Receptionist
+"It's the last bout for day
+two. Win this to qualify for
+day three's bouts.<New>
+Do you want to enter the 
+day's final bout?"<Delay 15>
+<Opcode 1 255>    Don't enter
+    Go for it!<Close><End of Block>
+<TextBlock 98 w:52 h:5>
+Receptionist
+"Today is the third day of
+the games. Win 2 bouts and
+you qualify for tomorrow's
+semi-finals.<New>
+Do you want to enter day
+three's bouts?"<Delay 15>
+<Opcode 1 255>    Don't enter
+    Let me at'em!<Close><End of Block>
+<TextBlock 99 w:54 h:4>
+Receptionist
+"It's the last bout for day
+three. Win this to qualify
+for tomorrow's semi-finals.<New>
+Do you wish to enter the
+day's final bout?"<Delay 15>
+<Opcode 1 255>    Don't enter
+    Let's do it!<Close><End of Block>
+<TextBlock 100 w:50 h:4>
+Receptionist
+"Today's the semi-finals.
+Win 3 matches to qualify
+for the Finals League.<New>
+Do you want to enter the
+semi-finals?<Delay 15>
+<Opcode 1 255>    Don't enter
+    Give it a try<Close><End of Block>
+<TextBlock 101 w:54 h:4>
+Receptionist
+"<Delay 5>...<Delay 5>2 matches to win before
+you qualify for tomorrow's
+Finals League."<New>
+Enter the second bout of 
+the semi-finals?<Delay 15>
+<Opcode 1 255>    Don't enter
+    I'll enter!<Close><End of Block>
+<TextBlock 102 w:52 h:4>
+Receptionist
+"It's the last bout of the
+day! Win this to qualify
+for the Finals League!<New>
+Do you want to enter the
+day's final bout?"<Delay 15>
+<Opcode 1 255>    Don't enter
+    'course I'll enter!<Close><End of Block>
+<TextBlock 103 w:56 h:5>
+Receptionist
+"Today's the last day of the
+games...The Finals League!
+You get to challenge...<Delay 5>
+ Ricardo Banderas !!! "<New>
+Do you desire to enter the
+Finals League?<Delay 15>
+<Opcode 1 255>    Don't enter
+    Let me at him!<Close><End of Block>
+<TextBlock 104 w:54 h:4>
+Receptionist
+"I have confirmed the entry
+of pilot 'Fei'. <Delay 15>
+One moment please<Delay 5>..."<Close><End of Block>
+<TextBlock 105 w:46 h:4>
+The Gear '<Weltall>'
+has been sent to
+the storage paddock.
+Standby for boarding!<Close><End of Block>
+<TextBlock 106 w:56 h:2>
+Pilot Fei, please proceed to
+the competitor's paddock!<Close><End of Block>
+<TextBlock 107 w:54 h:4>
+Informationist
+"Okeydokey!<Delay 15>
+Well then, I'll now explain
+a bit about 'Battling'."<Close><End of Block>
+<TextBlock 108 w:56 h:5>
+Informationist
+"Battling is the sport of
+fighting one-on-one with
+Gears and is held in the
+Imperial capital's arena.<New>
+The rules of the sport are
+simple - fight until one or
+the other breaks down.<Delay 10>
+In other words, just bash
+your rival to pieces!<New>
+But you don't have to fight
+till you trash your Gear.<Delay 5>
+You are allowed to give up
+during a match...so if you
+can't win<Delay 10>...<Delay 5>well, you know!"<Close><End of Block>
+<TextBlock 109 w:44 h:4>
+Informationist
+"Well that's the rough
+explanation<Delay 5>...I guess.<Delay 30>
+Did you get the drift?<Close><End of Block>
+<TextBlock 110 w:50 h:4>
+Fei
+"Well, errh<Delay 5>..."<Delay 15>
+<Opcode 1 255>    Sure, no problem!
+    Sorry I don't get it!<Close><End of Block>
+<TextBlock 111 w:56 h:5>
+Informationist
+"The next thing to do is to
+gain experience by actually
+Battling. <Delay 15>The key is to
+get used to the controls!<New>
+But<Delay 5> perhaps jumping straight
+into an actual battle is too
+much for you?<Delay 15> Well then,<Delay 5> why
+not try our 'practice mode'
+for help with the controls?<New>
+This is a simulation mode
+where you can practice the
+basic control methods.<Delay 15>
+We recommend that beginners
+should train here first!<New>
+Also, there is a 'tutorial
+mode' that provides easy 
+lessons, from the basic 
+controls through to an 
+explanation of the screen."<Close><End of Block>
+<TextBlock 112 w:54 h:3>
+Informationist
+"Is there anything else you
+want to ask about?"<Close><End of Block>
+<TextBlock 113 w:58 h:4>
+Informationist
+"Huh?<Delay 5> You didn't understand?<Delay 10>
+That's strange! Well, once
+again from the beginning...<New>
+(Gee and I thought this guy
+had it in him?<Delay 5> ...Obviously I
+was wrong...<Delay 5> Is his head OK?)<Delay 10>
+Anyway, listen closely now!"<Close><End of Block>
+<TextBlock 114 w:58 h:7>
+Informationist
+"Right, the basic controls!
+Well,<Delay 5> what do you want to do?<Delay 15>
+<Opcode 1 255>    Ask about button controls
+    Tutorial Mode
+    Practice Mode
+    Ask about something else<Close><End of Block>
+<TextBlock 115 w:54 h:4>
+Informationist
+"Okay, the button controls.
+I'll explain each button's
+functions accordingly...<Close><End of Block>
+<TextBlock 116 w:54 h:4>
+Informationist
+"Well, I'll now explain the
+basic control methods using
+the actual screen."<Close><End of Block>
+<TextBlock 117 w:56 h:3>
+Informationist
+"So, <Delay 10>you want to try out the
+actual controls, huh..."<Close><End of Block>
+<TextBlock 118 w:52 h:4>
+Informationist
+"Oh,<Delay 5> well<Delay 5>...have your way!<Delay 15>
+What else do you want to
+enquire about?"<Close><End of Block>
+<TextBlock 119 w:50 h:8>
+"Which button do you need
+an explanation of?<Delay 15>
+<Opcode 1 255>    Directional button
+    <X> button
+    <S> button
+    <T> button
+    <C> button
+    Next page<Close><End of Block>
+<TextBlock 120 w:50 h:7>
+"Which shall I explain to
+you about?"<Delay 15>
+<Opcode 1 255>    L1 button
+    R1 button
+    Start button
+    Back to first page
+    End explanation<Close><End of Block>
+<TextBlock 121 w:52 h:4>
+Informationist
+"Oh<Delay 5>...had enough already?
+Anything else you need to
+know?<Delay 15> Don't be afraid now!<Close><End of Block>
+<TextBlock 122 w:56 h:4>
+Informationist
+"<Delay 5>...Oh,<Delay 5> is that how it is?<Delay 10>
+Well,<Delay 5> is there anything else
+you want to inquire about?"<Close><End of Block>
+<TextBlock 123 w:56 h:5>
+Informationist
+"O.K.,<Delay 5> about the Directional
+button...<Delay 15>assuming that your
+opponent is on your right
+(from your viewpoint) then:<New>
+<=> UP moves your Gear back
+ away from the screen.<Delay 45>
+<=> DOWN moves your Gear in
+ towards the screen.<New>
+<=> RIGHT moves your Gear
+ towards your opponent.<Delay 45>
+<=> LEFT moves your Gear
+ away from your opponent.<Close><End of Block>
+<TextBlock 124 w:56 h:5>
+Informationist
+"Lastly, when you're close
+to your opponent, pressing
+LEFT invokes a special move
+momentary back acceleration!<New>
+This momentarily distances
+you from your opponent (or
+allows you to 'run away')!<Delay 30>
+Just remember the opposite
+direction to your opponent.<Close><End of Block>
+<TextBlock 125 w:54 h:5>
+Informationist
+"That's it in a nutshell!<Delay 30>
+It's probably easier to get
+the idea by actually trying
+your hand at the controls!"<Close><End of Block>
+<TextBlock 126 w:56 h:4>
+Informationist
+"The <X> button is ATTACK.<Delay 15>
+(There are 3 attack buttons
+and <X> is one of them.)<New>
+It changes from Gear to Gear
+but is mainly meant for
+close combat.<Delay 15> And you're not
+limited to just one blow.<New>
+By combining the <X> and <S>
+buttons you are able to make
+a chain of attacks up to
+three long!<New>
+All together there are 14
+such combinations that you
+can use!"<Close><End of Block>
+<TextBlock 127 w:56 h:4>
+Informationist
+"The <S> button is ATTACK.<Delay 15>
+(There are 3 attack buttons
+and <S> is one of them.)<New>
+It differs from Gear to Gear
+but is mainly utilized for
+close combat.<Delay 15> And you're not
+limited to just one blow.<New>
+By combining the <X> and <S>
+buttons you are able to make
+a chain of attacks up to
+three in length!<New>
+All together there are 14
+such combinations that you
+can try out!"<Close><End of Block>
+<TextBlock 128 w:56 h:4>
+Informationist
+"The <T> button is for JUMP!<Delay 5>
+Your movement controls are
+the same during jumps.<New>
+Also, you are able to attack
+with the <X> and <S> buttons
+during jumps!<New>
+Oh, and it's alright to use
+the R1 button to make Ether
+Bullet attacks too!<Close><End of Block>
+<TextBlock 129 w:53 h:4>
+Informationist
+"The <C> button is for DASH.<Delay 10>
+Your movement controls are
+the same as usual.<New>
+The only thing is that you
+cannot continue running
+indefinitely."<Close><End of Block>
+<TextBlock 130 w:54 h:5>
+Informationist
+"For more details, try
+the 'Tutorial Mode', where
+you'll get an explanation 
+from a different official."<Close><End of Block>
+<TextBlock 131 w:56 h:6>
+Informationist
+"Attacking isn't everything!<Delay 10>
+Although it is said that 
+'offense is the best form
+of defense', at times it is
+important to defend oneself.<New>
+That's why we have the L1 
+button to GUARD you! <Delay 15> But,<Delay 5> 
+it doesn't prevent all of 
+the damage so be careful!"<Close><End of Block>
+<TextBlock 132 w:58 h:5>
+Informationist
+"The R1 button launches a 
+special attack called 'Ether 
+Bullet'.<Delay 15> It's good for long
+range attacks on your foe!<New>
+'Ether Bullets' have homing
+ability so you may tend to
+rely on them, but you might
+regret it if you use them 
+too much! Do be careful!"<Close><End of Block>
+<TextBlock 133 w:56 h:5>
+Informationist
+"For more details, try our 
+'Tutorial Mode', where you
+will get an explanation from
+a different official."<Close><End of Block>
+<TextBlock 134 w:56 h:4>
+Informationist
+"The Start button will
+permit you to pause the
+battle.<New>
+At this time, you may select
+the 'GIVE UP' option if you 
+think you won't win."<Close><End of Block>
+<TextBlock 135 w:46 h:5>
+Informationist
+"What shall I explain?"<Delay 15>
+<Opcode 1 255>    Battling
+    Basic controls
+    I'm alright thanks!<Close><End of Block>
+<TextBlock 136 w:54 h:5>
+Informationist
+"...<Delay 5>Fei, sir,<Delay 5> you haven't
+registered your Gear yet.<Delay 30>
+But I can explain the basic
+controls if you like...?<Close><End of Block>
+<TextBlock 137 w:52 h:4>
+Fei
+"Battling control method?"<Delay 5>
+    Please explain
+    No need, thanks<Close><End of Block>
+<TextBlock 138 w:52 h:4>
+Informationist
+"Oh,<Delay 5> well<Delay 5>...have your way!<Delay 15>
+What else do you want to
+enquire about?"<Close><End of Block>
+<TextBlock 139 w:56 h:4>
+Informationist
+"Yes,<Delay 5> I thought you wouldn't
+have any problems! <Delay 10>Anyway,<Delay 5>
+give it your best shot, now!<Close><End of Block>
+<TextBlock 140 w:56 h:4>
+Informationist
+"...<Delay 5>You finally made it to
+the Battling Finals League!
+Come'on now! You can do it!"<Close><End of Block>
+<TextBlock 141 w:54 h:3>
+Informationist
+"Only a little way to go to
+the Battling Finals League!<New>
+With your ability, you just
+might become 'Battling
+Champion'! Good Luck!<Close><End of Block>
+<TextBlock 142 w:54 h:5>
+Informationist
+"<Delay 5>...Are you sure you don't
+need to hear what I've got
+to say?<Delay 30> If you have trouble
+don't blame it on me!"<Close><End of Block>
+<TextBlock 143 w:46 h:5>
+Informationist
+"What shall I explain?"<Delay 15>
+<Opcode 1 255>    Battling
+    Basic controls
+    I'm alright thanks!<Close><End of Block>
+<TextBlock 144 w:56 h:4>
+Receptionist
+"Here's the prize money paid
+to winners of a Battling 
+bout. It's well earned!"<Close><End of Block>
+<TextBlock 145 w:54 h:4>
+Rico's Henchman
+"Hey, your machine has been
+rigged! I'm gonna tell the
+Committee on you!"<Close><End of Block>
+<TextBlock 146 w:56 h:5>
+Rico's Henchman
+"Yeah, he's definitely had
+his Gear equipped with parts
+that are in violation of the
+rules, or somethin'!"<Close><End of Block>
+<TextBlock 147 w:22 h:2>
+Rico
+"Shut up!!"<Close><End of Block>
+<TextBlock 148 w:56 h:3>
+Rico
+"<Delay 5>...<Delay 5>Don't embarrass me any
+further<Delay 5>...<New>
+How could such special parts
+exist in the Imperial
+capital anyway!?<New>
+Especially since you can't
+leave the Imperial Capital 
+with these collars on!"<Close><End of Block>
+<TextBlock 149 w:32 h:3>
+Rico's Henchman
+"B,b,but<Delay 15>,
+Rico<Delay 5>...<Delay 5>then...!?<Close><End of Block>
+<TextBlock 150 w:50 h:3>
+Rico
+"I thought I told you to 
+stop! <Delay 5>...<Delay 5>Keep quiet!"<Close><End of Block>
+<TextBlock 151 w:46 h:4>
+Hammer
+"That's right!<Delay 5>
+It's impossible!<New>
+Bro won on his
+own strength!<Delay 15>
+Stop trying to trump up
+false accusations!<Close><End of Block>
+<TextBlock 152 w:30 h:2>
+Rico's Henchman
+"Uh<Delay 5>...<Delay 5>bro<Delay 5>..."<Close><End of Block>
+<TextBlock 153 w:50 h:2>
+Fei
+"Enough already, Hammer!"<Close><End of Block>
+<TextBlock 154 w:52 h:4>
+Fei
+"I won because of luck... 
+and because I had a good 
+teacher!"<Close><End of Block>
+<TextBlock 155 w:56 h:4>
+Fei
+"<Delay 5>...Also the wound to your 
+arm hasn't completely healed
+yet, has it?<New>
+If it wasn't for that wound
+I am sure you would have
+won instead..."<Close><End of Block>
+<TextBlock 156 w:56 h:4>
+Rico
+"Defeat is defeat... 
+My wound is no excuse. The
+Battling Champion is<Delay 5>...<Delay 5>you!"<Close><End of Block>
+<TextBlock 157 w:24 h:2>
+Fei
+"<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>. "<Close><End of Block>
+<TextBlock 158 w:54 h:4>
+Rico
+"<Delay 5>...<Delay 5>Well,<Delay 5> I have something 
+I must see to. I'll be off
+now."<Close><End of Block>
+<TextBlock 159 w:44 h:3>
+Rico's Henchman
+"Champ! <Delay 5>Wait up!<Delay 15>
+Let us go with you<Delay 5>..."<Close><End of Block>
+<TextBlock 160 w:56 h:4>
+Rico
+"I am no longer the champ!
+You guys will just get in my
+way! <Delay 15>Don't follow me!<Delay 5> OK!?"<Close><End of Block>
+<TextBlock 161 w:56 h:2>
+Rico's Henchman
+"In your way...? But Champ!"<Close><End of Block>
+<TextBlock 162 w:30 h:2>
+Rico's Henchman
+"<Delay 5>...<Delay 5>Ri-co--!"<Close><End of Block>
+<TextBlock 163 w:54 h:5>
+Hammer
+"This means I am acquitted!<Delay 5>
+I am cleared!<Delay 15> 
+Oh, <Delay 5>how the free world
+outside beckons us!"<Opcode 2 120><Close><End of Block>
+<TextBlock 164 w:46 h:4>
+Rico
+"<Delay 5>...<Delay 5>Don't give me that!<Delay 15>
+Your strength<Delay 5>...?<Delay 5>
+Is that your attitude?"<Close><End of Block>
+<TextBlock 165 w:24 h:2>
+Fei
+"<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>. "<Close><End of Block>
+<TextBlock 166 w:56 h:3>
+Rico
+"C'mon, fight me again!<New>
+You seemed a lot stronger
+in the sewers!
+Show me your true strength!"<Close><End of Block>
+<TextBlock 167 w:48 h:3>
+Rico
+"<Delay 5>...<Delay 5>Don't give me that!<Delay 15>
+What are you scared of?"<Close><End of Block>
+<TextBlock 168 w:24 h:2>
+Fei
+"<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>. "<Close><End of Block>
+<TextBlock 169 w:56 h:3>
+Rico
+"C'mon man, fight me again!<New>
+You seemed a lot stronger
+in those sewers!
+Show me your true strength!"<Close><End of Block>
+<TextBlock 170 w:50 h:4>
+Hammer
+"Yo, Bro<~>!<Delay 15>
+You forgot your mechanic!<Delay 15>
+Wait up a little!"<Opcode 2 75><Close><End of Block>
+<TextBlock 171 w:52 h:4>
+Rue
+"Welcome to the Battling
+Arena<Delay 5>...<Delay 5>
+Fei, Sir<Delay 5>...<New>
+Several days ago you were
+adamant about not piloting
+Gears<Delay 5>...<New>
+Has something happened in 
+the last few days to make
+you change your mind in
+such a large way?"<Close><End of Block>
+<TextBlock 172 w:56 h:4>
+Fei
+"Well, I have my reasons.<Delay 15>
+For starters, you can't say 
+prison life is that easy."<Close><End of Block>
+<TextBlock 173 w:54 h:3>
+Fei
+"<Delay 5>...<Delay 5>And then there's the 
+matter of personal safety!"<Close><End of Block>
+<TextBlock 174 w:54 h:4>
+Fei
+"Living the rest of my life
+with sewer monsters is not 
+that bad<Delay 5>...<New>
+it's just, <Delay 5>well,
+<Delay 5>...there are many factors."<Close><End of Block>
+<TextBlock 175 w:56 h:3>
+Fei
+"Then there's this collar!<Delay 15>
+It gets in the way so much!"<Close><End of Block>
+<TextBlock 176 w:34 h:2>
+Rue
+"Your collar<Delay 5>...<Delay 5>?"<Close><End of Block>
+<TextBlock 177 w:56 h:3>
+Rue
+"Hahahmm<Delay 5>...<Delay 5>
+You're amusing!<New>
+Are you intending to aim for
+victory despite it being 
+your first try at Battling?"<Close><End of Block>
+<TextBlock 178 w:42 h:2>
+Fei
+"<Delay 5>...<Delay 5>Is that strange?"<Close><End of Block>
+<TextBlock 179 w:54 h:4>
+Rue
+"No, no! Not the least...<Delay 15>
+Please excuse me!<New>
+You seem to have quite some
+confidence in fighting with
+Gears...<Delay 5>
+I'm looking forward to<Delay 5>..."<Close><End of Block>
+<TextBlock 180 w:4 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 181 w:54 h:3>
+Rue
+"Oops<Delay 15>...<Delay 5>excuse me!<Delay 15><New>
+Well, I guess I'll show you
+the way to the paddocks.
+We don't have much time<Delay 5>..."<Close><End of Block>
+<TextBlock 182 w:36 h:2>
+Fei
+"The paddocks<Delay 5>...?"<Close><End of Block>
+<TextBlock 183 w:54 h:4>
+Rue
+"What, you're thinking that
+you're going to fight with
+flesh and blood?<New>
+<Delay 5>...<Delay 5>Hahahmm, not that I 
+wouldn't mind seeing it, 
+but<Delay 5>..."<Close><End of Block>
+<TextBlock 184 w:54 h:4>
+Rue
+"We told you before that
+the committee would prepare
+a machine for you<Delay 5>...<Delay 15><New>
+What did you forget?"<Close><End of Block>
+<TextBlock 185 w:54 h:4>
+Fei
+"Oh, <Delay 5>err<Delay 5>...<Delay 15>
+The Gear I'm going to pilot
+will be, <Delay 5>err<Delay 5>..."<Close><End of Block>
+<TextBlock 186 w:38 h:3>
+Rue
+"Well, come on now.
+Walk this way..."<Close><End of Block>
+<TextBlock 187 w:48 h:4>
+Citan
+"Hold on! We are not
+ready yet<Delay 5>...<Delay 5> Can you
+spare us a little time?"<Close><End of Block>
+<TextBlock 188 w:56 h:4>
+Rue
+"<Delay 5>...<Delay 5>Understood. <Delay 15>But we don't
+have much time to spare, so
+please hurry up now<Delay 5>..."<Close><End of Block>
+<TextBlock 189 w:56 h:5>
+Rue
+"Report to the officials.<Delay 15>
+Pilot confirmation complete.
+Suggest first bout opponent
+to be the black Gear..."<Close><End of Block>
+<TextBlock 190 w:56 h:4>
+Hammer
+"You finished the day's
+Battling safely, hey, bro?<New>
+Why not return to your
+quarters and rest up a bit?<New>
+Or you could buy something!"<Delay 15>
+    Hammer's items
+    Hammer's Gear parts
+    I'm alright for now!<Close><End of Block>
+<TextBlock 191 w:56 h:4>
+Hammer
+"Hey hey!<Delay 5> Thanks again man!<Delay 15>
+That warms me pockets! <Delay 10>So...<Delay 5>
+are you heading back now?"<Close><End of Block>
+<TextBlock 192 w:56 h:4>
+Hammer
+"Hey hey!<Delay 5> Thanks again man!<Delay 15>
+That warms me pockets! <Delay 10>So...<Delay 5>
+are you heading back now?"<Close><End of Block>
+<TextBlock 193 w:56 h:3>
+Hammer
+"Well then, no use
+hanging around.<New>
+We'd better head
+back to our lodgings as 
+early as possible.<New>
+After all that exercise,
+the best thing for you
+is to go beddy-byes!<New>
+You had better
+sleep off the day's fatigue,
+cause tommorow's a big day!"<Close><End of Block>
+<TextBlock 194 w:54 h:4>
+Hammer
+"Bro,<Delay 5> you did it! You won!
+You're the Battling Champ!
+<Delay 5>...<Delay 5>or, close enough anyway!<New>
+Victory is in reach! If you
+just win tomorrow's Finals
+League we'll have our names
+cleared and be released!"<Close><End of Block>
+<TextBlock 195 w:54 h:4>
+Fei
+"But Hammer,<Delay 5> you know my 
+opponent is no pushover!<Delay 5>
+His power is incredible<Delay 5>...<New>
+He's been Battling Champion
+for three years straight!
+Beating him's going to be
+no easy task<Delay 5>...<New>
+Up till today I've managed
+to win somehow,<Delay 5> but
+tomorrow is another matter!<Delay 5>
+I doubt that I will win."<Close><End of Block>
+<TextBlock 196 w:54 h:4>
+Hammer
+"<Delay 5>...<Delay 5>If that's your attitude
+you'll lose even if you
+could've won!<New>
+Come on bro,<Delay 5>
+show some fighting spirit!"<Close><End of Block>
+<TextBlock 197 w:52 h:4>
+Fei
+"<Delay 5>...<Delay 5>Hahaha,<Delay 15> I didn't think
+you'd be the type to say
+something like that!"<Close><End of Block>
+<TextBlock 198 w:52 h:4>
+Fei
+"You're right!<Delay 5>
+I'll never win with these
+pre-battle blues.<New>
+Thanks Hammer!<Delay 15>
+Well then,<Delay 5> let's head back
+to our lodgings now."<Close><End of Block>
+<TextBlock 199 w:56 h:4>
+Hammer
+"I'd like to be able to say
+'no problem', but tomorrow's
+Finals League is important!<New>
+Don't you think you should
+take care in servicing and
+customizing your Gear?
+Our fates depend on it!"<Close><End of Block>
+<TextBlock 200 w:52 h:4>
+Fei
+"...Gear servicing, heh?
+Leaving it just to one
+mechanic worries me a bit.<New>
+I'll ask the doc to give
+us a hand also!"<Close><End of Block>
+<TextBlock 201 w:54 h:3>
+Hammer
+"A bit of a worry!?<New>
+That's not so Bro! <Delay 15>
+This here mechanic is doing
+the best he can, y'know!<Close><End of Block>
+<TextBlock 202 w:54 h:4>
+Fei
+"I didn't mean it that way,
+so don't get all upset now,
+Hammer!<New>
+Anyway, <Delay 5>let's go back to 
+our barracks and call the 
+doc, shall we!?"<Close><End of Block>
+<TextBlock 203 w:56 h:4>
+Hammer
+"Wait! <Delay 15>Don't you think you 
+should save your Battling
+record in the 'Memory Cube'!<Close><End of Block>
+<TextBlock 204 w:46 h:2>
+Fei
+"I suppose I should..."<Close><End of Block>
+<TextBlock 205 w:54 h:4>
+Hammer
+"Oh and bro!<Delay 15> You did save
+your Battling record in the
+'Memory Cube' didn't you?"<Close><End of Block>
+<TextBlock 206 w:36 h:2>
+Receptionist
+"Match forfeited!"<Close><End of Block>
+<TextBlock 207 w:46 h:3>
+Receptionist
+"Hmm, not a bad battle!
+Keep up the good work!"<Close><End of Block>
+<TextBlock 208 w:56 h:5>
+Receptionist
+"Wow, you're sooo strooong!
+Boy, was he ever outmatched!
+Ooh, I get pins and needles
+at your overwhelming power!"<Close><End of Block>
+<TextBlock 209 w:52 h:4>
+Receptionist
+"So this is what they mean
+by 'taking great risks'?
+Well done on a close win!"<Close><End of Block>
+<TextBlock 210 w:56 h:4>
+Receptionist
+"Too bad, you lose! It was
+not due to any obvious flaw,
+so you might win next time.<Close><End of Block>
+<TextBlock 211 w:56 h:5>
+Receptionist
+"I'll give you some advice!<Delay 15>
+You're not limited to just
+the <X> and <S> button's
+physical attacks!<New>
+There is another attack work
+called 'Ether Bullets' that
+are useful on distant foes.<Delay 15>
+They are simple to use,<Delay 5> just
+press the 'R1 button',<Delay 5> OK!"<Close><End of Block>
+<TextBlock 212 w:54 h:4>
+Receptionist
+"Right, just remember to
+press the 'R1 button' to
+shoot 'Ether Bullets'!<New>
+This will increase your
+chances of winning for 
+sure!<Delay 30> (...or so we hope!?)"<Close><End of Block>
+<TextBlock 213 w:48 h:3>
+Receptionist
+"Attacking while jumping
+is awesome! Master it!"<Close><End of Block>
+<TextBlock 214 w:56 h:5>
+Receptionist
+"One weakness that I can see
+from watching your bout is
+that you seem to use your
+'Ether Bullets' too much.<New>
+You should better understand
+the nature of the attack...
+'Ether Bullets' raise your
+'Heat Gauge (H.G.)' by quite
+a large percentage.<New>
+Three shots will easily send
+your H.G. to the MAX 
+condition. If you continue 
+to attack in that condition,
+your machine overheats.<New>
+The excess heat begins to
+cause damage, so if you
+don't take care, your HP
+will fall to zero before
+you realize it!"<Close><End of Block>
+<TextBlock 215 w:50 h:4>
+Receptionist
+"The heat accumulated by
+your Gear is shown in the
+on-screen H.G..<New>
+Manage your heat during
+battle with the aid of 
+this H.G.. Oh, and don't
+forget to stay cool now!"<Close><End of Block>
+<TextBlock 216 w:56 h:6>
+Receptionist
+"The main cause of your loss
+is this: your over-reliance
+on 'Dash' movement! Simply
+put, you run round too much!<New>
+Dashing about may be a good
+strategy but you'll notice
+that the 'Heat Gauge (H.G.)'
+which shows your Gear's heat
+level, climbs much faster!<New>
+You can continue to DASH
+even after your H.G. reaches
+the MAX condition, but as 
+your Gear overheats more and
+more, it will cause damage!<Close>
+If you don't take care, then
+your H.P. will fall to zero,
+and before you know it, you
+will lose the use of both
+'Dash' and 'Ether Bullets'!"<Close><End of Block>
+<TextBlock 217 w:50 h:4>
+Receptionist
+"The heat accumulated by
+your Gear is shown in the
+on-screen H.G..<New>
+Manage your heat during
+battle with the aid of 
+this H.G.. Oh, and don't
+forget to keep cool now!"<Close><End of Block>
+<TextBlock 218 w:54 h:4>
+Receptionist
+"<Delay 5>...<Delay 5>You do realize why you
+lost don't you?<Delay 15> If not then
+I'll tell you if you want!"<Close><End of Block>
+<TextBlock 219 w:56 h:4>
+Receptionist
+"Want to know why you lost?"<Delay 15>
+<Opcode 1 255>    No I don't!
+    Of course I do!<Close><End of Block>
+<TextBlock 220 w:56 h:5>
+Receptionist
+"There are two reasons for
+your loss. First, your over-
+reliance on the 'R1 button'
+to shoot 'Ether bullets'.<New>
+'Ether Bullets' are useful
+when your foe is far away,
+but using them too much will
+cause problems with your own
+Gear's heat level!<New>
+Second is your over-use of
+'Dash movement'. The use of
+either of these when your
+'Heat Gauge' is at MAX will
+cause your Gear to overheat!<New>
+Whilever your overheating,
+you will be taking damage,
+so if you're not careful,
+before you know it, your 
+H.P. will fall to zero!"<Close><End of Block>
+<TextBlock 221 w:52 h:4>
+Receptionist
+"The point is the over-use
+of either ability is bad 
+for your Gear!<New>
+"The heat accumulated by
+your Gear is shown in the
+on-screen 'Heat Gauge'.<New>
+Refer to this Heat Gauge
+(H.G.) to help you manage
+your heat during battle.
+'Keep your cool'!"<Close><End of Block>
+<TextBlock 222 w:56 h:4>
+Receptionist
+"<Delay 5>...<Delay 5>Knowing the reasons for
+your defeat will help you to
+fight better next time!"<Close><End of Block>
+<TextBlock 223 w:52 h:4>
+Receptionist
+"Obviously the Gears were
+unevenly matched...!
+Or was it the pilots?<New>
+Sorry to say this to you, 
+but either-way, your not 
+much of an opponent!"<Close><End of Block>
+<TextBlock 224 w:56 h:4>
+Receptionist
+"Practice makes perfect! 
+We recommend our 'Practice 
+Mode' to you. Try it today!"<Close><End of Block>
+<TextBlock 225 w:42 h:4>
+Receptionist
+"So near yet so far! 
+Too bad!
+You almost had him!"<Close><End of Block>
+<TextBlock 226 w:54 h:5>
+Receptionist
+"That was a good match! 
+Either of you could have 
+easily won! Now try harder 
+to win on the rebound!"<Close><End of Block>
+<TextBlock 227 w:56 h:5>
+Receptionist
+"<Delay 5>...<Delay 5>Are you a pacifist?
+<Delay 5>...<Delay 5>Or don't know how to 
+control a Gear?<New>
+You need to know the basic
+controls, so perhaps you 
+should try out our Practice 
+Mode! Speak to the girl at 
+the counter next to me."<Close><End of Block>
+<TextBlock 228 w:54 h:5>
+Receptionist
+"You can't just do nothing
+and expect to win!
+You need to practice first 
+to get the hang of it!"<Close><Close><End of Block>

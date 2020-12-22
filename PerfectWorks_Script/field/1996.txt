@@ -1,0 +1,162 @@
+<TextBlock 1 w:46 h:3>
+Hey, I've got all kinds
+of good stuff here.<Delay 20>
+Hey, you need anything?<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Hey, many thanks!<Delay 20>
+Come on back anytime you
+need anything...hey!?<Close><End of Block>
+<TextBlock 3 w:34 h:3>
+Hey-hey, welcome.
+What can I do for
+you today, hey?<Close><End of Block>
+<TextBlock 4 w:24 h:2>
+Hey, thanks.
+Come again.<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+It's gotten awfully cold.<Delay 20>
+I hate the cold!
+It's killing me...<New>
+If the temperature keeps
+dropping like this, we'll
+all be frozen before Deus
+can finish us off.<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Us people of Shevat have
+always dreamed of coming
+down to live on the
+planet's surface...<New>
+But we didn't ever imagine
+this would be how we would
+realize that dream!<Delay 20>
+...This is unbearable!<Close><End of Block>
+<TextBlock 7 w:52 h:5>
+Though this base is the
+last refuge for humans...<Delay 20>
+as you can no doubt see we
+have almost no supplies.<New>
+Anyway, we're using a
+fallen piece of Shevat
+as the main base...<Delay 20>
+But you probably could
+have guessed that, huh.<New>
+If we can take out Deus
+even one day sooner...<Delay 20>
+We can't hold out much
+longer like this.<Close><End of Block>
+<TextBlock 8 w:56 h:5>
+Aveh, Kislev, Nisan...
+We've been feuding for such
+a long time, but finally we
+are coming together as one
+like this...<New>
+But it's probably already
+too late...<Delay 20>
+It's always the case.
+By the time we notice 
+anything, it's way too late.<New>
+How could we possibly
+stand up to god's army?<Delay 20>
+The situation's
+really hopeless.<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+So many have died...<Delay 20>
+If this continues,
+even more will die.<New>
+It's the same as 500 years
+ago. <Delay 20>That tragedy and
+hardship is being repeated
+again...<New>
+What's going to happen
+to our world...<Delay 20>
+What's going to happen
+to us...!<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Burn, burn...!<Delay 20>
+Burn up this
+whole world...!<New>
+My home, my whole family,
+everything's been
+destroyed by them...<New>
+Who cares anymore,
+burn it all up!!
+Hahahaha...<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+It's not like we're
+born just to die...?<New>
+What's going to
+happen to us now? <Delay 20>
+To this world...<New>
+We can't carry on without
+at least drinking...<Delay 20>
+It's scary and lonely...<Close><End of Block>
+<TextBlock 12 w:44 h:2>
+Did you say you still
+needed something else?<Close><End of Block>
+<TextBlock 13 w:44 h:3>
+Hey buddy, did you
+need something?<New>
+If you need something
+come talk to me at the
+counter.<New>
+I have to make things
+really clear or else
+it gets on my nerves.<Close><End of Block>
+<TextBlock 14 w:44 h:3>
+Hey buddy!
+You need something?<Delay 20>
+Hey, hang on a minute!<Close><End of Block>
+<TextBlock 15 w:46 h:5>
+Thanks.
+Come again and I'll
+give you a better deal.<Delay 20>
+(Yeah... Better you 
+than me... Haha!)<Close><End of Block>
+<TextBlock 16 w:50 h:3>
+I'm not giving you your
+money back!<Delay 20> They ran away
+after I sold them to you.<Close><End of Block>
+<TextBlock 17 w:54 h:3>
+Hey, aren't these Picotiles
+cute?<Delay 20> They're going 'cheap,
+cheap' too! How about it?<Close><End of Block>
+<TextBlock 18 w:46 h:3>
+Wanna buy my Picotiles?<Delay 20>
+    Buy Picotiles!
+    Don't buy any<Close><End of Block>
+<TextBlock 19 w:42 h:4>
+Alright!
+20000G for the lot!<Delay 20>
+And no haggling for a
+discount! So pay up!<Close><End of Block>
+<TextBlock 20 w:42 h:1>
+Forced to pay 20000G.<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+Thanks.<Delay 20>
+They're really delicious
+if you grill them...<Close><End of Block>
+<TextBlock 22 w:28 h:1>
+Aaaaaaaah...!!<Opcode 2 60><Close><End of Block>
+<TextBlock 23 w:30 h:2>
+I know nothing!<Delay 10>
+...<Delay 5>Nothing!<Close><End of Block>
+<TextBlock 24 w:56 h:3>
+You don't have enough money.
+Well maybe next time then...
+'Cheepskate'!<Close><End of Block>
+<TextBlock 25 w:54 h:3>
+Tsk, are you mocking me?
+This isn't a game you know!
+Get outta here!<Close><End of Block>
+<TextBlock 26 w:52 h:4>
+Argh! Burning! Burning!<Delay 20>
+All of my rare first
+edition books and
+valuable autographs!!<New>
+I know supplies are short,<Delay 20>
+but I can't believe they
+are burning my treasures!<Close><End of Block>
+<TextBlock 27 w:42 h:3>
+Do you want to go up?<Delay 10>
+    Yes
+    No<Close><Close><End of Block>

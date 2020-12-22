@@ -1,0 +1,1638 @@
+<TextBlock 1 w:56 h:4>
+Fei
+"I guess I can rest here<Delay 5>..."<Delay 15>
+    Rest up!
+    Not yet.<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Fei
+"...Hey, and rank doesn't
+matter anymore!
+So, which bed shall I use?"<New>
+    Rank A bed
+    Rank B bed
+    Rank C bed
+    Rank D bed<Close><End of Block>
+<TextBlock 3 w:56 h:4>
+Fei
+"I guess I can rest here<Delay 5>..."<Delay 15>
+    Rest up!
+    Not yet.<Close><End of Block>
+<TextBlock 4 w:46 h:2>
+Fei
+"The rank A bed it is!"<Close><End of Block>
+<TextBlock 5 w:46 h:2>
+Fei
+"The rank B bed it is!"<Close><End of Block>
+<TextBlock 6 w:46 h:2>
+Fei
+"The rank C bed it is!"<Close><End of Block>
+<TextBlock 7 w:46 h:2>
+Fei
+"The rank C bed it is!"<Close><End of Block>
+<TextBlock 8 w:46 h:2>
+Fei
+"The rank D bed it is!"<Close><End of Block>
+<TextBlock 9 w:40 h:2>
+Fei
+"<Delay 5>...<Delay 5>Wh, where am I?"<Opcode 2 30><Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Fei
+"<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>Okay.<Delay 30>
+I'll do what you want!"<Close><End of Block>
+<TextBlock 11 w:56 h:4>
+Fei
+"Huh? <Delay 5>... <Delay 5>
+Someone's coming downstairs.<Delay 10>
+<Delay 5>...<Delay 5>I guess it'll be Hammer."<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Citan
+"We do not have such 
+time to spare!<Delay 15>
+We have got to hurry<Delay 5>..."<Close><End of Block>
+<TextBlock 13 w:56 h:4>
+Hammer
+"How are you feeling, bro?
+All this running backwards
+and forwards is killing me!<New>
+I know it's a bit sudden but
+how about buying something?"<Delay 15>
+    Not now Hammer!
+    I guess I'll have to!<Close><End of Block>
+<TextBlock 14 w:56 h:4>
+Hammer
+"So<Delay 5>...<Delay 5>maybe not today, but
+there's always tomorrow!<Delay 15> Buy
+something next time, huh!"<Close><End of Block>
+<TextBlock 15 w:40 h:4>
+Hammer
+"Yes! That's my bro!<Delay 10>
+You're too kind man!
+Much appreciated!"<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Hammer
+"What do you need bro?"<Delay 15>
+    Hammer's items
+    Hammer's accessories<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Hammer
+"Thanks bro, but how about
+buying something else apart
+from items?<New>
+It'll help Hammer out too!"<Delay 30>
+<Opcode 1 255>    Enough already!
+    Hammer's items
+    Hammer's accessories<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+Hammer
+"Thanks again bro!<Delay 15> Man,<Delay 5>
+so long as I am with you,<Delay 5>
+money's no problem, heh!"<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Hammer
+"Thanks bro, but how about
+buying something else apart
+from accessories?<New>
+It'll help Hammer out too!"<Delay 30>
+<Opcode 1 255>    Enough already!
+    Hammer's items
+    Hammer's accessories<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Hammer
+"Thanks again bro!<Delay 15> Man,<Delay 5>
+so long as I am with you,<Delay 5>
+money's no problem, heh!"<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+Hammer
+"The sound of an opening
+door!<Delay 15> It seems that the new
+doc was in the next room!"<Opcode 2 60><Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Hammer
+"Well<Delay 5>...<Delay 20> If that's how it
+is then I'll just go off
+and register you now!"<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Doctor
+"How do you feel? If you
+need a rest, you can always
+lie down in the next room!"<Close><End of Block>
+<TextBlock 24 w:66 h:3>
+Doctor 
+"Not the 'Baptismal Ceremony'!?
+This patient has only just awoke!<New>
+It is unthinkable that you would
+try and suddenly carry out your 
+'Baptismal Ceremony' on him!!!"<Close><End of Block>
+<TextBlock 25 w:48 h:4>
+Doctor
+"I am so sorry!<Delay 10> I can't
+go against the Battlers!<Delay 5>
+Please forgive me..."<Opcode 2 45><Close><End of Block>
+<TextBlock 26 w:56 h:5>
+The lady-doctor Diana
+"Yoo-hoo! How are you going?
+As I always thought, having
+plenty of work to do is what
+brings the most happiness!<New>
+I'll keep doing my best, so
+you too keep up the fight!
+As I promised at Nortune<Delay 5>...<Delay 5>
+that's what I will do!"<Close><End of Block>
+<TextBlock 27 w:56 h:5>
+Suzarn
+"Oh look, what good timing!
+Prince Charming has woke up!<Delay 30>
+This may be sudden, but you
+have to come along with us!"<Close><End of Block>
+<TextBlock 28 w:58 h:4>
+Suzarn
+"You don't have a choice in
+this!<Delay 15> If you oppose us, the
+fair doctor will cop it too!"<Close><End of Block>
+<TextBlock 29 w:52 h:4>
+Suzarn
+"Oh, what a sensible lad!
+That saves us a bit of
+trouble.<New>
+Anyway, come along now,
+the 'Champ' is waiting!
+And don't worry! We'll
+let you return here soon."<Close><End of Block>
+<TextBlock 30 w:36 h:2>
+Suzarn
+"Hurry up then<Delay 5>..."<Opcode 2 45><Close><End of Block>
+<TextBlock 31 w:38 h:2>
+Suzarn
+"Fo-rwa-rd ma-rch!"<Opcode 2 45><Close><End of Block>
+<TextBlock 32 w:52 h:4>
+Vargas
+"Come off it! Just a sec!
+That guy's been thrown in 
+'ere as a crim, ain't 'e?<New>
+You should be thanking
+us for 'aving the kind and
+compassionate 'eart to let
+'im rest up a few days!"<Close><End of Block>
+<TextBlock 33 w:58 h:4>
+Heinrich
+"Yeah, that's right!<Delay 15> As long
+as he's come here as a crim, 
+he's gotta follow the rules!"<Close><End of Block>
+<TextBlock 34 w:56 h:5>
+Leonardo
+"<Delay 5>...<Delay 5>That's the way it is! 
+So without further ado,
+we'll borrow him for a 
+little while. <New>
+Don't worry, we will return 
+him to you straight away!
+Once we're through with 
+him, that is!"<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+Citan
+"<Delay 5>...<Delay 5>Are you absolutely sure
+you want to go through with
+this, Fei?<New>
+Do you not want to think it
+through first?<Delay 30> Just to be
+sure, I mean!<Delay 20> Though you
+can trust me<Delay 5>...<Delay 5>I hope!"<Close><End of Block>
+<TextBlock 36 w:56 h:4>
+Citan
+"What is going on out there?
+This is a place for rest!<Delay 15>
+Can you be a bit quieter<Delay 5>..."<Close><End of Block>
+<TextBlock 37 w:34 h:3>
+Rico
+"<Delay 5>...<Delay 5>Long time no 
+see, huh, Kid!"<Close><End of Block>
+<TextBlock 38 w:48 h:4>
+Rico
+"For the sake of my men
+too, I am about to check
+out the sewers.<New>
+I've said what I 
+wanted to say<Delay 5>..."<Close><End of Block>
+<TextBlock 39 w:44 h:4>
+Rico
+"You want to tag
+along, huh?
+I don't care.<New>
+But you've got to look
+after your own neck!"<Close><End of Block>
+<TextBlock 40 w:56 h:4>
+Rico
+"<Delay 5>...The doctor too? I don't
+take any responsibility if
+anything happens to you<Delay 5>...!"<Close><End of Block>
+<TextBlock 41 w:56 h:4>
+Citan
+"<Delay 5>...<New>
+(Finally, it is the last day
+of the Games<Delay 5>...the finals!<Delay 30>
+Remember what you-know-who
+taught you!)"<Close>        <Close><End of Block>
+<TextBlock 42 w:56 h:4>
+Citan
+"(So, be on your way<Delay 5>...<Delay 20> I
+must stay here but I will be
+praying for a good fight!)"<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Citan
+"<Delay 5>...<Delay 30>
+(You are doing well Fei.
+Now go to bed and rest!)"<Close><End of Block>
+<TextBlock 44 w:54 h:4>
+Citan
+"(The Games are not over
+yet, so try to rest up
+before tommorow's bouts.)" <Close><End of Block>
+<TextBlock 45 w:54 h:4>
+Citan
+"<Delay 5>...<New>
+(For the time being, I am
+a doctor and you are a
+prisoner<Delay 5>...<Delay 15> We should split
+up and act separately!)"<Close><End of Block>
+<TextBlock 46 w:54 h:3>
+Citan
+"Well hello, Fei!
+Are you wide awake yet<Delay 5>...<Delay 5>?"<Close><End of Block>
+<TextBlock 47 w:56 h:1>
+WWWAAAAAAAAAARRRGGGHHH---!!!<Close><End of Block>
+<TextBlock 48 w:10 h:2>
+Citan
+"<Delay 5>.<Delay 5>.<Delay 5>."<Close><End of Block>
+<TextBlock 49 w:56 h:2>
+Fei
+"<Delay 5>.<Delay 5>.<Delay 5>.<New>
+(He's deep in thought<Delay 5>...<Delay 15>
+I don't think he heard me.)"<Close><End of Block>
+<TextBlock 50 w:54 h:4>
+Citan
+"Fei! Where are you off to?
+We have not yet finished
+this discussion!"<Close><End of Block>
+<TextBlock 51 w:48 h:4>
+Citan
+"Fei! Let us finish this
+discussion first before
+you go to bed!"<Close><End of Block>
+<TextBlock 52 w:36 h:1>
+<Delay 5>...<Delay 5>RATTLE! RATTLE!<Opcode 2 30><Close><End of Block>
+<TextBlock 53 w:34 h:4>
+Citan
+"Mmm<Delay 5>...<Delay 15>This is<Delay 5>...<Delay 20>
+harder than<Delay 5>...<Delay 20>
+I thought!"<Close><End of Block>
+<TextBlock 54 w:60 h:1>
+<Delay 5>...<Delay 5>CLATTER! CLATTER! <Delay 5>...<Delay 5>CLANG!<Opcode 2 30><Close><End of Block>
+<TextBlock 55 w:36 h:3>
+Fei
+"Uuuh<Delay 5>...<Delay 10> Aaah<Delay 5>...<Delay 10>
+Gasp<Delay 5>...<Delay 10> Uuuugh<Delay 5>..."<Opcode 2 240><Close><End of Block>
+<TextBlock 56 w:38 h:4>
+Fei
+"<Delay 5>.<Delay 5>.<Delay 5>.<Delay 30>
+Where am I<Delay 5>...<Delay 15>
+Oh, the infirmary?"<Close><End of Block>
+<TextBlock 57 w:46 h:4>
+Fei
+"Doc<Delay 5>...<Delay 15>
+What happened to me<Delay 5>...?<Delay 15>
+How did I get here<Delay 5>...?"<Close><End of Block>
+<TextBlock 58 w:52 h:4>
+Citan
+"During the Battling match
+<Delay 5>...<Delay 5>there was a sudden
+explosion<Delay 5>...<Delay 5>remember?"<Close><End of Block>
+<TextBlock 59 w:46 h:4>
+Fei
+"<Delay 5>...<Delay 5>That's right<Delay 5>...<Delay 5>
+In that explosion<Delay 5>...<Delay 5>
+I lost consciousness!?"<Close><End of Block>
+<TextBlock 60 w:52 h:4>
+Citan
+"It was a large explosion,
+but you were fortunate the
+Gear was <Weltall><Delay 5>...!<New>
+Any other Gear and I
+would hate to think<Delay 5>...<Delay 30>
+Anyway, you are safe,
+that is what matters!"<Close><End of Block>
+<TextBlock 61 w:38 h:3>
+Fei
+"Thanks to<Delay 5>...<Delay 30>
+<Weltall>,<Delay 5> huh?"<Close><End of Block>
+<TextBlock 62 w:38 h:4>
+Fei
+"<Delay 5>...<Delay 5>Doc.
+How many days have
+passed since then?"<Close><End of Block>
+<TextBlock 63 w:48 h:3>
+Citan
+"Only a day has elapsed
+since the accident.<New>
+Your injuries were 
+relatively minor, so<Delay 5>..."<Close><End of Block>
+<TextBlock 64 w:32 h:3>
+Fei
+"Only one day<Delay 5>...<Delay 15>
+<Delay 5>.<Delay 5>.<Delay 5>.<Delay 5>"<Close><End of Block>
+<TextBlock 65 w:42 h:3>
+Citan
+"What is the matter, 
+Fei<Delay 5>...<Delay 5>?"<Close><End of Block>
+<TextBlock 66 w:56 h:4>
+Fei
+"I had an awful dream<Delay 5>...<Delay 10>
+I can't remember it, but<Delay 5>...<Delay 5>
+I just know it was awful<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 67 w:26 h:2>
+Citan
+"A dream...?"<Close><End of Block>
+<TextBlock 68 w:56 h:3>
+Fei
+"...It was nothing, I guess.
+Don't worry about it, doc."<Close><End of Block>
+<TextBlock 69 w:10 h:2>
+Citan
+"<Delay 5>.<Delay 5>.<Delay 5>."<Close><End of Block>
+<TextBlock 70 w:48 h:3>
+Fei
+"Doc, I've got to get
+back to the Battling.<New>
+I want to get this
+explosive collar off
+of me as soon as I can."<Close><End of Block>
+<TextBlock 71 w:50 h:4>
+Citan
+"Fei, how is your health
+holding up?<Delay 15> I do not want
+you to push yourself<Delay 5>..."<Close><End of Block>
+<TextBlock 72 w:56 h:4>
+Fei
+"There's no use saying that.
+Time is not going to wait!
+I can't just do nothing<Delay 5>..."<Close><End of Block>
+<TextBlock 73 w:56 h:4>
+Citan
+"<Delay 5>...<Delay 5>I suppose you are
+right. I understand what you
+mean, Fei.<New>
+We have got to try and get
+out of here as soon as
+we possibly can."<Close><End of Block>
+<TextBlock 74 w:54 h:4>
+Citan
+"But that does not mean you
+have to over-exert yourself
+again, straight away!<New>
+Take time to rest up
+a little more..."<Close><End of Block>
+<TextBlock 75 w:50 h:4>
+Fei
+"You're the doc,<Delay 5> ...<Delay 5>doc!<Delay 15>
+I'll try<Delay 5>...<Delay 5> and get<Delay 5>...
+a little more<Delay 5>...<Delay 5> rest<Delay 5>..."<Opcode 2 45><Close><End of Block>
+<TextBlock 76 w:50 h:3>
+Fei
+"Hey, you're<Delay 5>...<Delay 15>Rico!?<Delay 15>
+What are you doing here?"<Close><End of Block>
+<TextBlock 77 w:42 h:4>
+Rico
+"Calm down, kid!<Delay 15>
+I didn't come here
+to fight with you<Delay 5>..."<Close><End of Block>
+<TextBlock 78 w:52 h:4>
+Fei
+"Then what purpose do you 
+have here?<Delay 15> What other
+reason could you have?"<Close><End of Block>
+<TextBlock 79 w:50 h:4>
+Citan
+"Why, it is only you Fei!
+And<Delay 5>...<Delay 5>
+the Battling Champion?"<Close><End of Block>
+<TextBlock 80 w:52 h:4>
+Citan
+"What would the likes of
+you have to do coming to
+a prison barracks?<New>
+There must be some special
+reason for you to grace 
+us with your presence?"<Close><End of Block>
+<TextBlock 81 w:54 h:4>
+Rico
+"Yes there is.<New>
+<Delay 5>...<Delay 5>I came in regards to the
+incident of the explosion
+during the first rounds of
+the Battling contest."<Close><End of Block>
+<TextBlock 82 w:48 h:4>
+Fei
+"Explosion incident?<Delay 15>
+<Delay 5>...<Delay 5>Oh, you mean what
+happened the other day!"<Close><End of Block>
+<TextBlock 83 w:56 h:4>
+Citan
+"The explosion accident that
+Fei was enveloped in during
+that bout?<New>
+What has that got to do
+with you?"<Close><End of Block>
+<TextBlock 84 w:50 h:4>
+Rico
+"<Delay 5>...<Delay 5>I'm sorry.
+That 'accident' was set
+up by my subordinates!<New>
+After the results of your
+'Baptismal Ceremony', it
+seems my men didn't come
+to like you very much<Delay 5>..."<Close><End of Block>
+<TextBlock 85 w:52 h:4>
+Citan
+"So they made it look like
+an accident, but it really
+was meant to kill Fei<Delay 5>...<New>
+But why tell us now?<Delay 15>
+Did they come clean and
+confess the crimes they 
+committed?"<Close><End of Block>
+<TextBlock 86 w:56 h:4>
+Rico
+"...They're no 
+longer with us!<New>
+You're the doctor, don't you
+know what's been happening?<Delay 20>
+What's going on here in the
+Imperial capital's D Block?"<Close><End of Block>
+<TextBlock 87 w:50 h:4>
+Citan
+"You mean the series of
+mysterious murders that
+happened in the sewers!?"<Close><End of Block>
+<TextBlock 88 w:54 h:4>
+Rico
+"<Delay 5>...<Delay 5>Yes.<Delay 20> A line of skilled
+Battlers have been murdered
+one after the other!<New>
+All of the victims that
+have been killed were
+my subordinates<Delay 5>..."<Close><End of Block>
+<TextBlock 89 w:50 h:3>
+Rico
+"Kid<Delay 5>...<Delay 5>
+I mean, Fei<Delay 5>...!<New>
+They were the very people
+who had set that trap to 
+kill you!"<Close><End of Block>
+<TextBlock 90 w:52 h:4>
+Fei
+"So what are you trying to
+say? That their deaths are
+connected to me somehow!?"<Close><End of Block>
+<TextBlock 91 w:54 h:4>
+Citan
+"Let us see<Delay 5>...<Delay 5> The murdered
+Battlers had set a trap to
+try and kill Fei<Delay 5>...<New>
+When Fei comes to know of
+this he has good reason 
+to kill them<Delay 5>...<New>
+Out of hatred of his would-
+be killers, he plots
+revenge on the Battlers.
+And turns to 'murder'!"<Close><End of Block>
+<TextBlock 92 w:34 h:3>
+Fei
+"<Delay 5>...<Delay 5>People think
+I am the killer?"<Close><End of Block>
+<TextBlock 93 w:54 h:4>
+Rico
+"Exactly!<Delay 30>
+This morning there was yet
+another victim<Delay 5>...<Delay 5>the fifth!<New>
+It's not unusual for people
+to die in the sewers.
+If you become weak, you die
+<Delay 5>...<Delay 5>that's providence!<New>
+But 5 Battlers were killed
+in a row!<Delay 15>
+That this is unprecedented
+alone casts doubt on you.<New>
+To say that I don't doubt
+you would be lying, but
+I don't think you are
+guilty, either.<New>
+The only thing that can
+prove your innocence is
+if there is any truth in
+that story going round...<New>
+The story of a monster in
+the sewers that is strong
+enough to kill 5 Battlers!"<Close><End of Block>
+<TextBlock 94 w:54 h:3>
+Fei
+"Wait up! Let me<Delay 5>...<Delay 5>
+Let me go with you!<New>
+I want to prove to you that
+I am innocent myself!"<Close><End of Block>
+<TextBlock 95 w:54 h:4>
+Citan
+"It is up to Fei himself
+to prove that he has 
+been falsely suspected<Delay 5>...<New>
+<Delay 5>...There is no alternative,
+then.<Delay 30> Please allow me to
+accompany you in solving
+this sewer murder case!"<Close><End of Block>
+<TextBlock 96 w:50 h:4>
+Citan
+"Hey,<Delay 5> Fei.<Delay 5> Are you fully
+prepared now?<Delay 15> There is no
+turning back after this!"<Close><End of Block>
+<TextBlock 97 w:52 h:4>
+Fei
+"Well,  I errh..."
+    Still got stuff to do!
+    I am totally prepared!<Close><End of Block>
+<TextBlock 98 w:48 h:4>
+Citan
+"<Delay 5>...<Delay 5>Is that so?<Delay 15>
+Well, get moving!<Delay 5>
+Time is of the essence!"<Close><End of Block>
+<TextBlock 99 w:56 h:4>
+Citan
+"<Delay 5>...<Delay 5>There is still some time
+before the train comes<Delay 5>...<Delay 15>
+Let us rest here a little!"<Close><End of Block>
+<TextBlock 100 w:54 h:4>
+Doctor
+"Life here is tough, but
+first it might be better
+if you meet with Hammer!<New>
+Hammer is a 'provider' of
+things and information.
+He might appear strange but
+he is good on the inside.<New>
+He's probably hanging out
+at the bar, so it might be
+best to check there first.
+I'm sure he'll be of help!"<Close><End of Block>
+<TextBlock 101 w:54 h:4>
+Doctor
+"Oh, I forgot to tell you!
+You should go and thank
+Hammer.<New>
+He's the one that carried
+you here from that back
+alley where you collapsed!<New>
+Hammer's the local 
+'supplier' of things 
+and information.<New>
+He's probably hanging out
+at the bar, so it might be
+best to check there first!"<Close><End of Block>
+<TextBlock 102 w:54 h:4>
+Doctor
+"Oh, I forgot to tell you!
+You should go and thank
+Hammer.<New>
+He's the one that carried
+you here from that back
+alley where you collapsed!<New>
+Hammer's the local 
+'supplier' of things 
+and information.<New>
+He's probably hanging out
+at the bar, so it might be
+best to check there first!"<Close><End of Block>
+<TextBlock 103 w:54 h:4>
+Doctor
+"Oh, I forgot to tell you!
+You should go and thank
+Hammer.<New>
+He's the one that carried
+you here from that back
+alley where you collapsed!<New>
+Hammer's the local 
+'supplier' of things 
+and information.<New>
+He's probably hanging out
+at the bar, so it might be
+best to check there first!"<Close><End of Block>
+<TextBlock 104 w:54 h:4>
+Doctor
+"Oh, I forgot to tell you!
+You should go and thank
+Hammer.<New>
+He's the one that carried
+you here from that back
+alley where you collapsed!<New>
+Hammer's the local 
+'supplier' of things 
+and information.<New>
+He's probably hanging out
+at the bar, so it might be
+best to check there first!"<Close><End of Block>
+<TextBlock 105 w:60 h:4>
+Good, you've finally woken up!<Delay 15>
+<Delay 5>...<Delay 5>You have been unconscious
+for four days, so I had begun
+to fear the worst.<Close><End of Block>
+<TextBlock 106 w:46 h:4>
+Fei
+"<Delay 5>...<Delay 5>Who are you?<Delay 30>
+And where am I?<Delay 15>
+How did I get here<Delay 5>...<Delay 5>?"<Close><End of Block>
+<TextBlock 107 w:22 h:3>
+Fei
+"Ah,<Delay 15>
+uuuugh<Delay 5>...<Delay 5>!"<Close><End of Block>
+<TextBlock 108 w:54 h:3>
+You've only just gained
+consciousness, so don't
+push yourself too much!<New>
+I am a doctor.<Delay 30>
+You are in Nortune, the
+Imperial capital of Kislev.<New>
+This is the detention area
+for criminals<Delay 5>...<Delay 5>commonly 
+known as 'D block'.<Close><End of Block>
+<TextBlock 109 w:44 h:3>
+Fei
+"Detention area for<Delay 5>...
+<Delay 5>...<Delay 5>criminals?"<Close><End of Block>
+<TextBlock 110 w:58 h:4>
+Doctor
+"You are now in a living 
+quarters for prisoners in
+D block...<New>
+Judging by the way you were
+brought here under the heavy
+guard of the Kislev army, you
+are no ordinary criminal...!"<Close><End of Block>
+<TextBlock 111 w:14 h:2>
+Doctor
+"Huh!?"<Close><End of Block>
+<TextBlock 112 w:44 h:3>
+Fei
+"Uuugh<Delay 5>...<Delay 5> ?<Delay 25>
+Where am I this time?"<Close><End of Block>
+<TextBlock 113 w:58 h:4>
+Doctor
+"...You're in the same place,
+just in a different room!
+You've had a rough day, heh?"<Close><End of Block>
+<TextBlock 114 w:54 h:4>
+Fei
+"Ah! <Delay 5>...<Delay 5>Oh it's you?<Delay 20>
+It looks like I needed your
+assistance again, huh<Delay 5>...?"<Close><End of Block>
+<TextBlock 115 w:50 h:4>
+Doctor
+"Yes, but don't worry. I
+don't mind - it's my job!<Delay 30>
+Anyway, how do you feel?"<Close><End of Block>
+<TextBlock 116 w:56 h:4>
+Fei
+"Hm? <Delay 5>Aaah<Delay 5>...<Delay 20>
+I'm in a bit of pain, but
+nothing I can't cope with<Delay 5>...<New>
+Lately I've been getting
+used to this kind of thing.<Delay 10>
+Aah<Delay 5>...!<New>
+The last thing I remember 
+was those guys speaking of 
+what 'rank' they think I am
+worthy of."<Close><End of Block>
+<TextBlock 117 w:42 h:4>
+Doctor
+"Oh,<Delay 15>
+I think I better tell
+you about that<Delay 5>..."<Close><End of Block>
+<TextBlock 118 w:50 h:3>
+Fei
+"What? 
+You know what rank I am?"<Close><End of Block>
+<TextBlock 119 w:56 h:5>
+Doctor
+"You're quite strong, aren't
+you!? To defeat four people
+in your condition...it's no 
+wonder they gave you rank A!<New>
+But to go up against
+the Champ...? 
+It's amazing that you 
+came back alive at all!"<Close><End of Block>
+<TextBlock 120 w:54 h:4>
+Fei
+"The fight was meaningless.<Delay 30>
+I had no reason to <Delay 5>...<Delay 5>
+I didn't want to fight<Delay 5>..."<Close><End of Block>
+<TextBlock 121 w:42 h:3>
+Doctor
+"<Delay 5>...<Delay 5>What happened?<Delay 10>
+You look a bit pale."<Close><End of Block>
+<TextBlock 122 w:54 h:4>
+Fei
+"It's nothing. Don't worry.
+<Delay 5>...<Delay 5>By the way, what's this 
+thing around my neck?"<Close><End of Block>
+<TextBlock 123 w:62 h:4>
+Doctor
+"I was surprised! Your rank is
+B! They say you defeated three
+people, and in your condition!"<Close><End of Block>
+<TextBlock 124 w:56 h:4>
+Fei
+"Yeah, I beat three of them.
+But I ran out of energy
+when I came to the fourth."<Close><End of Block>
+<TextBlock 125 w:56 h:3>
+Doctor
+"But that was incredible!<New>
+It makes me wonder how you 
+would have gone if you had 
+recovered fully beforehand."<Close><End of Block>
+<TextBlock 126 w:54 h:4>
+Fei
+"Hmm, I wonder too<Delay 5>...<Delay 15>
+<Delay 5>...<Delay 5>By the way, what's this 
+thing around my neck?"<Close><End of Block>
+<TextBlock 127 w:56 h:5>
+Doctor
+"I think you were ranked C.<Delay 15>
+I doubt they would give you
+anything higher if you only 
+beat one or two people."<Close><End of Block>
+<TextBlock 128 w:40 h:4>
+Fei
+"<Delay 5>...<Delay 5>C Rank?<Delay 20>
+Huh, that would be 
+about right for me."<Close><End of Block>
+<TextBlock 129 w:54 h:4>
+Doctor
+"Don't put yourself down.
+You'll never survive here
+if you have that attitude!"<Close><End of Block>
+<TextBlock 130 w:54 h:4>
+Fei
+"<Delay 5>...<Delay 5>Survive here?<Delay 20> ...<Delay 5>Huh?
+<Delay 5>...<Delay 5>By the way, what's this 
+thing around my neck?"<Close><End of Block>
+<TextBlock 131 w:54 h:5>
+Doctor
+"I believe you were rank C.
+But in your condition, you
+did well just to beat one
+opponent!"<Close><End of Block>
+<TextBlock 132 w:50 h:4>
+Fei
+"<Delay 5>...<Delay 5>Rank C?<Delay 20>
+Can I ask you a question?<Delay 10>
+Is rank that important?"<Close><End of Block>
+<TextBlock 133 w:56 h:4>
+Doctor
+"Most think that stronger 
+is better, but<Delay 5>...<Delay 5>
+well<Delay 5>...<New>
+It allows you to rise above
+living as a normal citizen.
+If that's important to you 
+then rank is important too!"<Close><End of Block>
+<TextBlock 134 w:54 h:4>
+Fei
+"I see<Delay 5>...!<Delay 15>
+<Delay 5>...<Delay 5>By the way, what's this 
+thing around my neck?"<Close><End of Block>
+<TextBlock 135 w:54 h:4>
+Doctor
+"<Delay 5>...<Delay 5>You're rank D.<Delay 20>
+But that's understandable
+considering your condition.<New>
+The very idea of 'Baptism'
+is absurd to begin with!"<Close><End of Block>
+<TextBlock 136 w:42 h:3>
+Fei
+"<Delay 5>...<Delay 5>You mean<Delay 5>...<Delay 5>
+I'm the lowest rank?"<Close><End of Block>
+<TextBlock 137 w:50 h:2>
+Doctor
+"To put it bluntly, yes!"<Close><End of Block>
+<TextBlock 138 w:54 h:4>
+Fei
+"Hmm<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>By the way, what's this 
+thing around my neck?"<Close><End of Block>
+<TextBlock 139 w:50 h:4>
+Doctor
+"Oh that? 
+It's a bomb...<New>
+The moment you leave the 
+vicinity of the Imperial 
+capital, that collar goes
+'BOOM'!<New>
+Too bad, but while
+you have that on, you 
+will never be able to 
+escape from Nortune.<New>
+Apart from the civilians
+of D Block and a select
+few Battlers, everybody
+has to wear them..."<Close><End of Block>
+<TextBlock 140 w:52 h:4>
+Doctor
+"<Delay 5>...<Delay 5>Here in D Block, 
+that is the only chain 
+that binds the prisoners."<Close><End of Block>
+<TextBlock 141 w:52 h:4>
+Fei
+"Huh, a bomb?<Delay 30> So no matter
+how much I struggle, I'll 
+never escape from here."<Opcode 2 60><Close><End of Block>
+<TextBlock 142 w:56 h:5>
+Doctor
+"Anyway, you should try and
+get some rest today.<Delay 15>
+You'll have to get used to 
+life in this town soon too."<Opcode 2 60><Close><End of Block>
+<TextBlock 143 w:42 h:4>
+Fei
+"You say a new doctor
+has come, but<Delay 5>...<Delay 15>
+there's nobody here!"<Close><End of Block>
+<TextBlock 144 w:46 h:4>
+Hammer
+"Huh? That's strange<Delay 5>...<Delay 5>
+according to my sources
+he should be here<Delay 5>...!"<Close><End of Block>
+<TextBlock 145 w:50 h:4>
+Fei
+"Too bad he's not here,
+huh Hammer!<New>
+Looks like you'll have to
+forget about those black
+market medical treatment
+routes you were<Delay 5>..."<Close><End of Block>
+<TextBlock 146 w:4 h:1>
+!!<Opcode 2 15><Close><End of Block>
+<TextBlock 147 w:4 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 148 w:52 h:4>
+Fei
+"D, d, doc?<Delay 5>
+Citan?<Delay 5>
+What are you doing here!?"<Close><End of Block>
+<TextBlock 149 w:56 h:4>
+Citan
+"I monitored Kislev's
+radio communications<Delay 5>...<New>
+I heard them talking about
+a Gear they recovered in
+Kislev that fit the
+description of <Weltall><Delay 5>.<New>
+They said they transported
+it to their capital, so I
+came here on the off chance
+I might also find you here!"<Close><End of Block>
+<TextBlock 150 w:46 h:4>
+Hammer
+"Huh? You wouldn't by
+any chance know this
+doctor, would you bro?"<Close><End of Block>
+<TextBlock 151 w:32 h:4>
+Citan
+"So anyway, Fei,
+have you taken
+any action yet?"<Close><End of Block>
+<TextBlock 152 w:42 h:4>
+Fei
+"...Taken any action?
+What do you mean by 
+that, doc?"<Close><End of Block>
+<TextBlock 153 w:50 h:3>
+Citan
+"You cannot stay in here 
+forever, can you?<New>
+Are you not going to
+escape?"<Close><End of Block>
+<TextBlock 154 w:18 h:2>
+Fei
+"Escape?"<Close><End of Block>
+<TextBlock 155 w:54 h:4>
+Citan
+"Fei! You are not intending
+to spend the rest of your
+life here are you?<New>
+You do not mind breaking
+your promise, then?"<Close><End of Block>
+<TextBlock 156 w:36 h:2>
+Fei
+"What promise<Delay 5>...?"<Close><End of Block>
+<TextBlock 157 w:52 h:4>
+Citan
+"Oh my! How could you
+forget such an important
+thing as that?<New>
+You promised Bart that you
+would protect Margie and
+the people of Nisan if
+anything happened to him!"<Close><End of Block>
+<TextBlock 158 w:46 h:3>
+Fei
+"Oh that?<Delay 5> I did promise
+that, didn't I<Delay 5>...<Delay 5>!?<New>
+But<Delay 5>...<Delay 5>has something
+happened to Bart?"<Close><End of Block>
+<TextBlock 159 w:54 h:4>
+Citan
+"I am afraid to say so.
+He fought bravely against
+the enemy's new forces...<New>
+But it was in vain! 
+The Yggdrasil was badly
+damaged and sank to the
+bottom of the sea of sand.<New>
+Just before the ship sank,
+I jumped in an escape-pod
+and jettisoned out of there
+so that I was not engulfed.<New>
+Since then, I regret to say
+I could find out nothing of
+the others' whereabouts or
+fates..."<Close><End of Block>
+<TextBlock 160 w:52 h:3>
+Fei
+"Who would have thought...
+What was I doing...?"<Close><End of Block>
+<TextBlock 161 w:40 h:3>
+Citan
+"What in the heavens
+happened, Fei?"<Close><End of Block>
+<TextBlock 162 w:54 h:4>
+Fei
+"Once again<Delay 5>...<Delay 5>
+I lost all memory<Delay 5>...<Delay 5>
+and all sense of time<Delay 5>...<New>
+While I was fighting that
+Vanderkaum guy,<Delay 5> he,<Delay 5> Grahf,<Delay 5>
+appeared<Delay 5>...<Delay 15> Then I realized
+Bart and the crew's plight.<New>
+The other guys with me were
+defeated by Vanderkaum and
+his giant-sized Gear<Delay 5>...<Delay 15>
+After that<Delay 5>...<New>
+After that<Delay 5>...<Delay 5>it was like
+Lahan village over again!<Delay 20>
+When I woke up, I was in
+Nortune's prison block<Delay 5>..."<Close><End of Block>
+<TextBlock 163 w:54 h:4>
+Fei
+"Doc, what happened
+to the squadron at
+the borderlands?<New>
+What is the meaning of my
+being here and <Weltall>
+having been recovered in
+Kislev<Delay 5>...<Delay 5>?"<Close><End of Block>
+<TextBlock 164 w:50 h:4>
+Citan
+"<Delay 5>...<Delay 5>That squadron
+was annihilated!<New>
+There was also wreckage
+of a giant-sized Gear<Delay 5>...<Delay 5>
+the likes of which I have
+never seen before!"<Close><End of Block>
+<TextBlock 165 w:10 h:2>
+Fei
+"<Delay 5>.<Delay 5>.<Delay 5>."<Close><End of Block>
+<TextBlock 166 w:50 h:4>
+Citan
+"Come on now Fei!
+Nobody is pointing
+their finger at you!<New>
+It might have been caused
+by something else!"<Close><End of Block>
+<TextBlock 167 w:52 h:4>
+Fei
+"It's alright, doc.
+Little by little I've been
+coming to understand it."<Close><End of Block>
+<TextBlock 168 w:44 h:4>
+Fei
+"Just maybe...<Delay 10>
+No<Delay 5>...<Delay 5>most surely...<Delay 10>
+I've done it again<Delay 5>..."<Close><End of Block>
+<TextBlock 169 w:24 h:2>
+Citan
+"Oh, Fei<Delay 5>..."<Close><End of Block>
+<TextBlock 170 w:48 h:4>
+Fei
+"I'll keep my promise<Delay 5>...<New>
+Otherwise I'd never be 
+able to look Bart in the
+face again<Delay 5>...<New>
+Cause Bart and them are
+alive somewhere<Delay 5>...<Delay 10>
+I just know that they
+are!"<Close><End of Block>
+<TextBlock 171 w:36 h:2>
+Citan
+"So that means<Delay 5>..."<Close><End of Block>
+<TextBlock 172 w:52 h:4>
+Fei
+"I'm gonna do whatever it
+takes to get out of here!
+Will you help me out doc?"<Close><End of Block>
+<TextBlock 173 w:48 h:3>
+Citan
+"Of course.
+It will be my pleasure!"<Close><End of Block>
+<TextBlock 174 w:44 h:4>
+Hammer
+"No, bro,<Delay 5> I doubt it!<Delay 10>
+Any thought of leaving
+here is just a dream!"<Close><End of Block>
+<TextBlock 175 w:44 h:2>
+Citan
+"Why do you say that?"<Close><End of Block>
+<TextBlock 176 w:52 h:3>
+Hammer
+"Cause of these things!
+They're explosive collars!<New>
+As long as we are wearing 
+these, we'll never be able
+to set foot out of here!"<Close><End of Block>
+<TextBlock 177 w:44 h:4>
+Citan
+"Explosive collars<Delay 5>...?<Delay 15>
+That is dangerous
+of them, is it not!?<New>
+Allow me to have a 
+little look at it, 
+please."<Close><End of Block>
+<TextBlock 178 w:48 h:4>
+Citan
+"<Delay 5>...<Delay 5>Let me see<Delay 15>...<Delay 5>Hmmm<Delay 5>...<Delay 15>
+Well, well<Delay 5>...<Delay 10>Ah, ha<Delay 5>...<Delay 20>
+Ohhh<Delay 5>...<Delay 5>Humph<Delay 5>..."<Close><End of Block>
+<TextBlock 179 w:52 h:4>
+Citan
+"We might just possibly be
+able to do something about
+these."<Close><End of Block>
+<TextBlock 180 w:50 h:4>
+Hammer
+"Re, really!?<Delay 20> ...<Delay 5>Even
+mechanical engineers gave
+up on these in despair!"<Close><End of Block>
+<TextBlock 181 w:50 h:4>
+Fei
+"Doc was always good at
+tinkering with machines.
+So I guess there's hope!"<Close><End of Block>
+<TextBlock 182 w:54 h:4>
+Hammer
+"I don't know, bro!
+Let's leave them alone!
+No matter how good he is...<New>
+One tiny mistake and it's
+BOOM! BANG! Game Over, man!
+Get Hammer's drift, bro!?"<Close><End of Block>
+<TextBlock 183 w:36 h:3>
+Fei
+"<Delay 5>...<Delay 5>It's alright.
+I believe in doc!"<Close><End of Block>
+<TextBlock 184 w:40 h:3>
+Citan
+"<Delay 5>...<Delay 5>Well then, shall
+we give it a try?"<Close><End of Block>
+<TextBlock 185 w:44 h:3>
+Fei
+"So, let's<Delay 5>..."<New>
+    Take a rest first!
+    Do it now, doc!
+    Forget about it!<Close><End of Block>
+<TextBlock 186 w:50 h:5>
+Citan
+"Yes, let us rest up a
+little first. In the
+meantime, think carefully
+about it!"<Close><End of Block>
+<TextBlock 187 w:52 h:4>
+Fei
+"<Delay 5>...<Delay 5>Yeah, I'm ready to do
+it now. We may as well get
+it over with then, huh!"<Close><End of Block>
+<TextBlock 188 w:54 h:4>
+Citan
+"...I can understand that.
+There is no reason to try
+something so dangerous yet!<New>
+We have not explored all
+the other possibilities.
+There may be another way!"<Close><End of Block>
+<TextBlock 189 w:50 h:4>
+Hammer
+"Oh bro! Please don't!
+No matter how you look at
+it, it's too dangerous!"<Close><End of Block>
+<TextBlock 190 w:34 h:4>
+Citan
+"Well then, Fei,
+have you made up 
+your mind yet?"<Close><End of Block>
+<TextBlock 191 w:54 h:3>
+Fei
+"Yes, well, errh, let's<Delay 5>..."<New>
+    Wait a bit longer!
+    Do it now, doc!
+    Not do this, doc!<Close><End of Block>
+<TextBlock 192 w:54 h:4>
+Citan
+"<Delay 5>...<Delay 5>Well then, when you
+you are ready, let me know 
+as soon as possible, OK!"<Close><End of Block>
+<TextBlock 193 w:54 h:4>
+Fei
+"<Delay 5>...<Delay 5>Yeah.
+Ready when you are doc!
+No turning back, now, huh!"<Close><End of Block>
+<TextBlock 194 w:54 h:4>
+Citan
+"<Delay 5>...<Delay 5>I can understand that.
+There is no reason to try
+something so dangerous yet!<New>
+We have not explored all
+the other possibilities.
+There may be another way!"<Close><End of Block>
+<TextBlock 195 w:32 h:3>
+Citan
+"Fei!!<Delay 15>
+What is wrong!?"<Close><End of Block>
+<TextBlock 196 w:54 h:4>
+Fei
+"Errh,<Delay 10> arrh<Delay 5>...<Delay 5>doc?<Delay 15>
+Wh,<Delay 5> wh,<Delay 5> what just happened?<Delay 10>
+Wh,<Delay 5> what<Delay 10> was that?"<Close><End of Block>
+<TextBlock 197 w:54 h:4>
+Citan
+"You scared the heck out of
+me, suddenly shouting like
+that.<Delay 20> Is everything O.K.?<New>
+Anyway, are you absolutely
+sure now? <Delay 15>
+I will start removing the
+explosive collar then<Delay 5>..."<Close><End of Block>
+<TextBlock 198 w:56 h:4>
+Fei
+"Let's not do this!<Delay 15>
+I've a bad feeling about it.<Delay 30>
+Sorry, doc<Delay 5>..."<Close><End of Block>
+<TextBlock 199 w:54 h:4>
+Citan
+"<Delay 5>...<Delay 5>I can understand that.
+There is no reason to try
+something so dangerous yet!<New>
+We have not explored all
+the other possibilities.
+There may be another way!"<Close><End of Block>
+<TextBlock 200 w:50 h:4>
+Citan
+"Well then... You are
+sure you want to 
+go through with it so<Delay 5>..."<Close><End of Block>
+<TextBlock 201 w:36 h:2>
+Hammer
+"<Delay 5>...<Delay 5>Oooh, broooo!"<Close><End of Block>
+<TextBlock 202 w:26 h:4>
+Citan
+"Well then<Delay 5>...<Delay 15>
+let us give
+it a go<Delay 5>..."<Close><End of Block>
+<TextBlock 203 w:12 h:1>
+CLANK!<Close><End of Block>
+<TextBlock 204 w:28 h:3>
+Citan
+"Ah!<Delay 10>
+oop<Delay 5>...<Delay 5> Oh-oh!"<Close><End of Block>
+<TextBlock 205 w:52 h:4>
+Fei
+"Doc! What was that sound?
+<Delay 5>...<Delay 5>And<Delay 5>...<Delay 5>what's that
+behind your back?"<Close><End of Block>
+<TextBlock 206 w:48 h:4>
+Citan
+"Huh? Oh, err<Delay 5>...<Delay 5>
+It is nothing, Fei.
+Hahaha, nothing at all!"<Close><End of Block>
+<TextBlock 207 w:52 h:4>
+Hammer
+"Tha,<Delay 10> tha,<Delay 5> that part is<Delay 5>...<Delay 5>
+the explosive collar's
+safety device, isn't it!?"<Close><End of Block>
+<TextBlock 208 w:32 h:3>
+Citan
+"<Delay 5>...S,<Delay 5> sorry.
+I did what I<Delay 5>..."<Close><End of Block>
+<TextBlock 209 w:56 h:4>
+Fei
+"It's alright, doc.
+It doesn't matter if you
+take off one or two parts<Delay 5>...<New>
+We are going to take the
+whole thing off anyway!"<Close><End of Block>
+<TextBlock 210 w:56 h:4>
+Citan
+"<Delay 5>...<Delay 5>Err, well Fei<Delay 5>...<Delay 5>
+What I just removed was 
+the bomb's safety device<Delay 5>..."<Close><End of Block>
+<TextBlock 211 w:36 h:3>
+Fei
+"Safety device<Delay 5>...?<Delay 15>
+What does it do?"<Close><End of Block>
+<TextBlock 212 w:54 h:4>
+Hammer
+"Well bro<Delay 5>...<Delay 15>put simply, a
+safety device is what stops
+a bomb from exploding.<New>
+When you remove a safety
+device from a bomb...<Delay 20>
+it means the bomb could
+explode at any time!"<Close><End of Block>
+<TextBlock 213 w:10 h:2>
+Fei
+"<Delay 5>.<Delay 5>.<Delay 5>."<Opcode 2 45><Close><End of Block>
+<TextBlock 214 w:42 h:4>
+Fei
+"This is bad!?<Delay 15>
+Hurry up and get this
+thing off of me doc!"<Close><End of Block>
+<TextBlock 215 w:54 h:4>
+Citan
+"Now that it has no
+safety device, if I mess up
+while tampering with it<Delay 5>...<New>
+then it is the end of us!
+There is nothing more 
+that I can do, Fei!
+<Delay 5>...<Delay 5>I am so sorry!"<Close><End of Block>
+<TextBlock 216 w:54 h:4>
+Citan
+"It seems that these bombs
+will not explode unless
+given a very strong shock.<New>
+They are delicate when you
+mess inside them, but they
+are extremely good at
+'shock absorption'<Delay 5>...<New>
+...as you can tell from the
+fact that even competitors
+wear them in the Battling
+Tournaments."<Close><End of Block>
+<TextBlock 217 w:54 h:4>
+Fei
+"But, no matter how shock
+absorbant it is, it's still
+dangerous in this state!?"<Close><End of Block>
+<TextBlock 218 w:34 h:4>
+Citan
+"That is true...<New>
+If only there was
+something else we
+could do besides
+risky tinkering!"<Close><End of Block>
+<TextBlock 219 w:54 h:4>
+Hammer
+"Excuse me, doctor, but<Delay 5>...<Delay 5>
+would you mind giving 
+me that safety device?<New>
+It would fetch a fair price
+if sold to a collector.
+Of course I'd be willing
+to pay you for it!"<Close><End of Block>
+<TextBlock 220 w:46 h:4>
+Citan
+"<Delay 5>...<Delay 5>This thing? 
+Well I do not mind.<Delay 15>
+What do you think Fei?"<Close><End of Block>
+<TextBlock 221 w:50 h:4>
+Fei
+"Well it's of no value to
+us to keep it now, is it?
+<Delay 5>...<Delay 5>He can have it, doc!"<Close><End of Block>
+<TextBlock 222 w:30 h:3>
+Citan
+"Well then, 
+here you go<Delay 5>..."<Close><End of Block>
+<TextBlock 223 w:50 h:3>
+Hammer
+"Hee-hee. Thank you, man!
+Take this as payment..."<Close><End of Block>
+<TextBlock 224 w:30 h:1>
+Received 4000G!<Close><End of Block>
+<TextBlock 225 w:30 h:1>
+Received 3500G!<Close><End of Block>
+<TextBlock 226 w:30 h:1>
+Received 3000G!<Close><End of Block>
+<TextBlock 227 w:30 h:1>
+Received 2500G!<Close><End of Block>
+<TextBlock 228 w:30 h:1>
+Received 2000G!<Close><End of Block>
+<TextBlock 229 w:30 h:1>
+Received 1500G!<Close><End of Block>
+<TextBlock 230 w:30 h:1>
+Received 2000G!<Close><End of Block>
+<TextBlock 231 w:30 h:1>
+Received 1500G!<Close><End of Block>
+<TextBlock 232 w:30 h:1>
+Received 1000G!<Close><End of Block>
+<TextBlock 233 w:30 h:1>
+Received 1250G!<Close><End of Block>
+<TextBlock 234 w:52 h:3>
+Citan
+"...But, we are still left
+with the same problem.<New>
+If only there was a better
+way of getting rid of that
+explosive collar<Delay 5>...<Delay 5>!?"<Close><End of Block>
+<TextBlock 235 w:16 h:1>
+CL<Delay 15>...<Delay 5>ANK<Close><End of Block>
+<TextBlock 236 w:26 h:3>
+Citan
+"Ah!<Delay 10>
+<Delay 5>...<Delay 5>Oh, dear!"<Opcode 2 30><Close><End of Block>
+<TextBlock 237 w:52 h:2>
+Hammer
+"Th,<Delay 10> th,<Delay 10> that part is<Delay 5>...<Delay 5>!"<Opcode 2 45><Close><End of Block>
+<TextBlock 238 w:52 h:4>
+Hammer
+"Oh, I forgot to tell you!
+There is a way of having
+these collars removed<Delay 5>...<New>
+It requires you winning a
+'Special Pardon' in the
+Imperial Games, though<Delay 5>..."<Close><End of Block>
+<TextBlock 239 w:42 h:2>
+Citan
+"A 'Special Pardon'?"<Close><End of Block>
+<TextBlock 240 w:54 h:4>
+Hammer
+"Yes. Every year they
+hold the Imperial Games
+of Battling.<New>
+The Kaiser himself watches
+over the Battling matches
+and cancels any sentence
+the winner is serving.<New>
+Also the winner is given
+a position as a military
+officer as an added bonus!"<Close><End of Block>
+<TextBlock 241 w:56 h:4>
+Citan
+"Well then, all we have to 
+do is win at the Games then!
+Do we not, Fei?"<Close><End of Block>
+<TextBlock 242 w:54 h:3>
+Hammer
+"I am telling you it is 
+hopeless!<New>
+To do that you will have 
+to defeat the current 
+champion, Master Rico!<New>
+But our bro here was
+totally beaten by that
+very person just days ago!"<Close><End of Block>
+<TextBlock 243 w:50 h:3>
+Hammer
+"I am telling you it is
+hopeless!<New>
+To do that you will have
+to defeat the current
+champion, Master Rico!<New>
+But our bro, here was
+just beaten by one of the
+Champ's subordinates!<New>
+We don't even know
+how strong the Champ
+himself is yet<Delay 5>..."<Close><End of Block>
+<TextBlock 244 w:52 h:4>
+Hammer
+"I am telling you it is
+hopeless!<New>
+To do that you will have
+to defeat the current
+champion, Master Rico!<New>
+The Champ's prison ranking
+is rank S! 
+That's well above rank A 
+even!<New>
+Our bro here is only rank
+C. Our bro could very well
+die if he attempts to
+challenge the Champ!"<Close><End of Block>
+<TextBlock 245 w:52 h:4>
+Hammer
+"I am telling you it is
+hopeless!<New>
+To do that you will have
+to defeat the current 
+champion, Master Rico!<New>
+The Champ's prison ranking
+is rank S! 
+That's well above rank A
+even!<New>
+Our bro here is only rank
+C. Our bro could very well
+die if he attempts to 
+challenge the Champ!"<Close><End of Block>
+<TextBlock 246 w:56 h:4>
+Hammer
+"I am telling you it is
+hopeless!<New>
+To do that you will have
+to defeat the current
+champion, Master Rico!<New>
+But our bro here, is the
+same as I am...Rank D! The
+difference from the Champ to
+us is like man and mouse!"<Close><End of Block>
+<TextBlock 247 w:54 h:4>
+Hammer
+"And this time we're 
+talking about Battling!
+With Gears, bro, Gears!<New>
+There's no assurance of
+your safety.<Delay 15> He could very
+well kill you by pretending
+to cause an accident!"<Close><End of Block>
+<TextBlock 248 w:10 h:2>
+Fei
+"<Delay 5>..."<Close><End of Block>
+<TextBlock 249 w:18 h:2>
+Citan
+"Really?"<Close><End of Block>
+<TextBlock 250 w:48 h:4>
+Fei
+"Yeah<Delay 5>...<Delay 5>but last time
+I didn't have the desire
+to fight them<Delay 5>...<New>
+Yet if I were to come up
+against him seriously<Delay 5>...<Delay 5>
+I am not sure whether I
+could win or not."<Close><End of Block>
+<TextBlock 251 w:54 h:4>
+Fei
+"Yeah<Delay 5>...<Delay 5>but last time
+I didn't have the desire
+to fight them<Delay 5>...<Delay 5><New>
+I defeated 3 Battlers, but
+I lost to the fourth, that
+Suzarn woman<Delay 5>...<Delay 5> I might be
+able to beat her, perhaps."<Close><End of Block>
+<TextBlock 252 w:48 h:4>
+Fei
+"Yeah<Delay 5>...<Delay 5>but last time
+I didn't have the desire
+to fight them<Delay 5>..."<Close><End of Block>
+<TextBlock 253 w:48 h:4>
+Fei
+"Yeah<Delay 5>...<Delay 5>but last time
+I didn't have the desire
+to fight them<Delay 5>..."<Close><End of Block>
+<TextBlock 254 w:50 h:4>
+Fei
+"Yeah<Delay 5>...<Delay 5>but last time
+I didn't have the desire
+to fight them<Delay 5>...<New>
+I don't wan't to hide
+behind the excuse that I
+had not recovered from my
+injuries at the time<Delay 5>...<New>
+But the truth is I didn't
+even beat one of them!<Delay 15>
+Who knows whether I could
+beat them next time<Delay 5>...!?"<Close><End of Block>
+<TextBlock 255 w:54 h:4>
+Citan
+"Is he really that much
+stronger than the other 4
+Battlers, this Champ chap?"<Close><End of Block>
+<TextBlock 256 w:54 h:4>
+Hammer
+"Put it this way<Delay 5>...<New>
+He's the undefeated king,
+reigning at the summit of
+the Imperial capital's 
+Battling Tournaments!<New>
+With a history of 40 bouts
+ending in 40 K.O.s, most of
+which occured within 30
+seconds from start time<Delay 5>...<New>
+If he wins this year's
+Imperial Games then he'll
+be the reigning champion
+for three years running!"<Close><End of Block>
+<TextBlock 257 w:34 h:4>
+Citan
+"Just one second!
+Is this person a <Delay 15>
+prisoner?"<Close><End of Block>
+<TextBlock 258 w:24 h:2>
+Hammer
+"Yes he is."<Close><End of Block>
+<TextBlock 259 w:48 h:4>
+Citan
+"That is strange... The
+winner is supposed to
+receive a pardon, right?<New>
+Why is he still a
+prisoner now then?"<Close><End of Block>
+<TextBlock 260 w:52 h:4>
+Hammer
+"That's the thing!<Delay 20> Master
+Rico could have said good-
+bye to prison life by now!<New>
+But they say he turned
+down his pardon.
+I guess he must like his
+fighting a great deal<Delay 5>...!"<Close><End of Block>
+<TextBlock 261 w:54 h:4>
+Fei
+"Well, we can't just stand
+round here talking about
+it.<New>
+I don't care whether it is
+Battling or whatever! If
+there is a chance then I am
+going to try and take it!"<Close><End of Block>
+<TextBlock 262 w:36 h:2>
+Hammer
+"Are you serious?"<Close><End of Block>
+<TextBlock 263 w:24 h:2>
+Fei
+"Yes, I am."<Close><End of Block>
+<TextBlock 264 w:54 h:2>
+Hammer
+"Do you think you can win?"<Close><End of Block>
+<TextBlock 265 w:40 h:4>
+Fei
+"No, I don't.<Delay 20>
+But, for now, I can
+only give it a try!"<Close><End of Block>
+<TextBlock 266 w:44 h:4>
+Fei
+"That Hammer<Delay 5>...<Delay 15>
+He looked very pleased
+all of a sudden!"<Close><End of Block>
+<TextBlock 267 w:54 h:4>
+Citan
+"<Delay 5>...<Delay 5>But are you alright
+about this?
+As we spoke about before<Delay 5>...<New>
+Whether you are forced to
+or not<Delay 5>...<Delay 5>you did not
+want to do this, right?<Delay 15>
+Fight with Gears, I mean!?"<Close><End of Block>
+<TextBlock 268 w:10 h:2>
+Fei
+"<Delay 5>.<Delay 5>.<Delay 5>."<Close><End of Block>
+<TextBlock 269 w:48 h:4>
+Citan
+"There are most probably
+other ways to get out of
+here.<New>
+Fei, I do not want to
+push you into anything 
+you do not want to do!"<Close><End of Block>
+<TextBlock 270 w:56 h:4>
+Fei
+"I know doc.
+I still don't like Gears.
+That much hasn't changed.<New>
+When I pilot them, I become
+aware of how unstable my
+very 'being' is<Delay 5>...<Delay 5>even if
+I don't want to think of it!<New>
+But at the same time, it is
+also a connection with some
+lost 'part' of me.<New>
+If that's the case then,
+recently, I decided I would
+stick with it to the end.<New>
+Elly also had been troubled
+by the same thing. And if I
+just stay depressed about
+it, nothing will improve!"<Close><End of Block>
+<TextBlock 271 w:50 h:4>
+Citan
+"Is that how you feel<Delay 5>...<Delay 5>?
+I think I understand
+you better now, Fei.<New>
+Anyway, let us get
+some rest today.
+We are going to
+become busy!"<Close><Close><End of Block>

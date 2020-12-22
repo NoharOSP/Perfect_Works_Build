@@ -1,0 +1,36 @@
+<TextBlock 1 w:46 h:3>
+<Opcode 1 255>Please reset the 
+emergency level at the 
+nearest terminal.<Close><End of Block>
+<TextBlock 2 w:58 h:4>
+<Opcode 1 255>Emergency level5<New>
+<Opcode 1 255>The emergency button
+inside the reactor was
+activated 34999999 hours
+ago.<New>
+From this point there is
+danger of nano contamination.<New>
+<Opcode 1 255>When entering the room,
+please execute a manual scan
+and confirm safety.<New>
+<Opcode 1 255>After confirming, please
+reset the emergency level
+at the nearest terminal.<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+Execute manual scan?
+     Execute
+     Cancel<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+<Opcode 1 255>Please wait.<Delay 32>
+..<Delay 32>.<Delay 32>...<Delay 32>..<Delay 32>....<Delay 32>..<Delay 32>..<Delay 32>..<Delay 32><New>
+Scan complete.
+Confirmed, no nano
+contamination.<New>
+<Opcode 1 255>You can reenter the room
+by resetting the
+emergency level at
+the nearest terminal.<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+<Opcode 1 255>When entering the room
+you must execute a
+manual scan.<Close><Close><End of Block>

@@ -1,0 +1,45 @@
+<TextBlock 1 w:44 h:1>
+Do you <Delay 16>want the power?<Opcode 2 84><Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Grahf
+"My fist is the divine 
+breath!"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Grahf
+"Blossom, o fallen seed, 
+and draw upon thy hidden 
+powers!!"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Grahf
+"Grant unto thee the
+power of the glorious
+'Mother of Destruction'!"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Grahf
+"I am Grahf, the seeker 
+of power. Doth thou 
+desire the power?"<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+Grahf
+"Yes,<Delay 16> the power."<Close><End of Block>
+<TextBlock 7 w:22 h:2>
+Grahf
+"So be it!"<Close><End of Block>
+<TextBlock 8 w:22 h:2>
+Vanderkaum
+"Uh...I..."<Close><End of Block>
+<TextBlock 9 w:38 h:2>
+Vanderkaum
+"Wh, who <Delay 7>are you!?"<Close><End of Block>
+<TextBlock 10 w:28 h:2>
+Vanderkaum
+"The power..."<Close><End of Block>
+<TextBlock 11 w:38 h:3>
+Vanderkaum
+"P, power...
+...the power...<New>
+I want it...I want 
+the POWER!"<Close><End of Block>
+<TextBlock 12 w:30 h:2>
+Vanderkaum
+"Urrgghhhhh..."<Opcode 2 50><Close><End of Block>

@@ -1,0 +1,74 @@
+<TextBlock 1 w:42 h:2>
+Fei
+(The part fits well.)<Close><End of Block>
+<TextBlock 2 w:54 h:2>
+Fei
+(Replaced the broken part.)<Close><End of Block>
+<TextBlock 3 w:42 h:4>
+Fei
+(It appears that some
+kind of 'fuse'-like
+device has blown.)<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+Fei
+(Nothing conspicuous.)<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Fei
+(Found a 'fuse'-like
+device part.)<Close><End of Block>
+<TextBlock 6 w:42 h:3>
+Fei
+(Some kind of device
+part is inside here.)<Close><End of Block>
+<TextBlock 7 w:44 h:2>
+Fei
+(The power's cut off.)<Close><End of Block>
+<TextBlock 8 w:40 h:4>
+Fei
+(Looks as if we will
+have to replace the
+broken part.)<Close><End of Block>
+<TextBlock 9 w:42 h:4>
+Fei
+"I wonder if there is
+a replacement in that
+room back there?"<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Fei
+"Huh?<Delay 30>
+What's that there...?"<Close><End of Block>
+<TextBlock 11 w:36 h:4>
+Fei
+"Hmm.
+That door needs to
+be unlocked..."<Close><End of Block>
+<TextBlock 12 w:32 h:4>
+Fei
+"Guess I'll look
+somewhere around
+here for it."<Close><End of Block>
+<TextBlock 13 w:32 h:2>
+Door Lock System
+Area A<Close><End of Block>
+<TextBlock 14 w:32 h:2>
+Door Lock System
+Area A<Close><End of Block>
+<TextBlock 15 w:32 h:2>
+Door Lock System
+Area A<Close><End of Block>
+<TextBlock 16 w:38 h:1>
+Area A is unlocked.<Close><End of Block>
+<TextBlock 17 w:38 h:2>
+Door Lock System
+is now operational.<Close><End of Block>
+<TextBlock 18 w:32 h:2>
+Door Lock Area A
+deactivated.<Close><End of Block>
+<TextBlock 19 w:10 h:1>
+Done!<Close><End of Block>
+<TextBlock 20 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 21 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

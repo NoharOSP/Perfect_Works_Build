@@ -1,0 +1,86 @@
+<TextBlock 1 w:36 h:3>
+Rico
+"<Delay 5>...<Delay 5>Why?<Delay 15>
+Why are you here?"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Fei
+"To get this back.<Delay 15>
+It's not that I came here
+to save you<Delay 5>...<Delay 5> <New>
+The elevator I happened
+to use to escape put me in
+the arena. I saw you were
+getting attacked.<Delay 15> That's<New>
+why I saved you<Delay 5>...<Delay 5>
+nothing more than that."<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Rico
+"For a coincidence,
+that's a convenient
+story<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Fei
+"It's up to you what you
+think of it<Delay 5>...<Delay 5><New>
+So,<Delay 30> what're you gonna
+do now?"<Close><End of Block>
+<TextBlock 5 w:26 h:2>
+Rico
+"...Do what?"<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Fei
+"I barged into the arena.<Delay 15>
+We're also fugitives<Delay 5>...<Delay 5>
+that's why we must<New>
+escape. If you stay,
+they'll probably make you
+fight that monster again.<New>
+This time you're gonna
+die<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 7 w:48 h:2>
+Fei
+"Is that what you want?"<Close><End of Block>
+<TextBlock 8 w:10 h:2>
+Rico
+"<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 9 w:34 h:4>
+Fei
+"Even you must
+have things
+left to do here!<New>
+But in your
+state of mind<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 10 w:38 h:4>
+Rico
+"Silence! Shut up!<Delay 30>
+Twice.<Delay 15> That's twice
+you've<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Rico
+"<Delay 5>...<Delay 5>If you want to escape
+from the Empire, do it
+now. I have no intentions<New>
+of leaving.<Delay 15> Even if this
+is going to be the end
+for me!!"<Close><End of Block>
+<TextBlock 12 w:32 h:3>
+Fei
+"<Delay 5>...<Delay 5>Hmn?
+What's that<Delay 5>...<Delay 5>?"<Opcode 2 60><Close><End of Block>
+<TextBlock 13 w:46 h:3>
+Fei
+"A<Delay 5>...<Delay 5>rumbling?<Delay 15>
+What's<Delay 5> this vibration?"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Rico
+"This vibration<Delay 5>...<Delay 15>
+That's<Delay 5>...<Delay 5>no?<Delay 15> It's not
+coming from the ground."<Close><End of Block>
+<TextBlock 15 w:44 h:3>
+Rico
+"Is it the<Delay 5>...<Delay 5>vibration<Delay 15>
+in the atmosphere?"<Close><End of Block>
+<TextBlock 16 w:44 h:3>
+Fei
+"...Whoa. That doesn't
+sound good."<Opcode 2 90><Close><End of Block>

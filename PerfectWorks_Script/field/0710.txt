@@ -1,0 +1,7 @@
+<TextBlock 1 w:30 h:3>
+Draw the sword?
+    Yes
+    No<Close><End of Block>
+<TextBlock 2 w:50 h:2>
+ 
+ Received 'Yamato Sword'.<Close><Close><End of Block>

@@ -1,0 +1,505 @@
+<TextBlock 1 w:28 h:1>
+<Delay 5>...<Delay 5>La<Delay 5>...<Delay 5>can<Delay 5>...<Close><End of Block>
+<TextBlock 2 w:46 h:1>
+"Lacan,<Delay 5> what is wrong?"<Close><End of Block>
+<TextBlock 3 w:16 h:1>
+"Lacan?"<Close><End of Block>
+<TextBlock 4 w:56 h:4>
+In that dream,
+I was called 'Lacan'<Delay 5>...<Delay 15>
+ 
+I was an artist<Delay 5>...<New>
+I had become recognized as a
+talented artist and now was
+painting the portrait of the
+Nisan Mother, 'Sophia'<Delay 5>...<Close><End of Block>
+<TextBlock 5 w:30 h:3>
+Lacan
+"Huh<Delay 5>...<Delay 5>no,<Delay 10>
+it is nothing."<Close><End of Block>
+<TextBlock 6 w:56 h:3>
+"<Delay 5>...<Delay 5>Let us finish for today.<Delay 30>
+You look rather tired.<Delay 15>
+<Delay 5>...<Delay 5>Are you alright?"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Lacan
+"I am fine,<Delay 5> thank you<Delay 5>...<Delay 15>
+But,<Delay 5> now that you mention
+it<Delay 5>..."<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+Lacan
+"Shall we stop for the day?<Delay 20>
+You must be the one who is
+tired,<Delay 5> 'Mother Sophia'?"<Close><End of Block>
+<TextBlock 9 w:44 h:2>
+Sophia
+"Enough of that, now."<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Sophia
+"When it is just the two of
+us, would you stop calling
+me that.<New>
+Just call me 'Elly'<Delay 5>...<Delay 15> As
+you used to do in the old
+days<Delay 5>...<Delay 30> And you don't have
+to be so stiff and formal."<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Lacan
+"Oh, <Delay 5>errh, <Delay 10>alright.<Delay 15>
+Very wel<Delay 5>...<Delay 5>no, I mean<Delay 5>...<Delay 5>
+Yes,<Delay 5> let's do that<Delay 5> 'Elly'!"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Lacan
+"I think I might go back
+home<Delay 5>...<Delay 10>
+only for a week or so."<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Elly
+"Oh,<Delay 5> really?<Delay 5>
+What is the matter?"<Close><End of Block>
+<TextBlock 14 w:42 h:4>
+Lacan
+"I ran out of paint.<Delay 15>
+So<Delay 5>...<Delay 5>I, errh, need to
+go make some more."<Close><End of Block>
+<TextBlock 15 w:46 h:3>
+Elly
+"You're going all that
+way<Delay 5>...<Delay 5>just to do that?"<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+Lacan
+"If I don't go there,<Delay 5>
+I won't be able to get
+the right pigments."<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Elly
+"Oh<Delay 5>...<New>
+Then how about I have
+one of my followers,<Delay 5>
+the -Kahal-,<Delay 5> take you
+in one of our Gears?"<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Elly
+"You'll arrive quicker<Delay 15>
+and you'll be much
+more safe."<Close><End of Block>
+<TextBlock 19 w:48 h:6>
+I lied...<Delay 30>
+I wasn't out of paint.<Delay 15>
+I just feared I would
+finish the portrait.<Delay 15>
+I wanted to keep on
+painting<Delay 5>...<Delay 5>forever.<New>
+So I wanted to buy
+time<Delay 5>...<Delay 15>
+She'd probably despise
+me for that<Delay 5>...<New>
+No,<Delay 5>
+she'd probably just
+give me her usual smile.<Delay 15>
+She was that kind of
+woman<Delay 5>...<Close><End of Block>
+<TextBlock 20 w:28 h:1>
+<Delay 5>...<Delay 5>La<Delay 5>...<Delay 5>can<Delay 5>...<Close><End of Block>
+<TextBlock 21 w:46 h:1>
+"Lacan,<Delay 5> what is wrong?"<Close><End of Block>
+<TextBlock 22 w:16 h:1>
+"Lacan?"<Close><End of Block>
+<TextBlock 23 w:58 h:4>
+In that dream,<Delay 5>
+I was called 'Sophia'<Delay 5>...<Delay 15>
+ 
+Mother Sophia<Delay 5>...<New>
+A symbolic name<Delay 5>...<Delay 15>
+Crowned upon the person who
+would be the people's hope<Delay 5>...<New>
+A name I was destined to have<Delay 5>
+Whether I wanted it or not<Delay 5>...<Close><End of Block>
+<TextBlock 24 w:30 h:3>
+Lacan
+"Huh<Delay 5>...<Delay 5>no,<Delay 10>
+it is nothing."<Close><End of Block>
+<TextBlock 25 w:56 h:3>
+"<Delay 5>...<Delay 5>Let us finish for today.<Delay 30>
+You look rather tired.<Delay 15>
+<Delay 5>...<Delay 5>Are you alright?"<Close><End of Block>
+<TextBlock 26 w:50 h:4>
+Lacan
+"I am fine,<Delay 5> thank you<Delay 5>...<Delay 15>
+But,<Delay 5> now that you mention
+it<Delay 5>..."<Close><End of Block>
+<TextBlock 27 w:54 h:4>
+Lacan
+"Shall we stop for the day?<Delay 20>
+You must be the one who is
+tired,<Delay 5> 'Mother Sophia'?"<Close><End of Block>
+<TextBlock 28 w:44 h:2>
+Sophia
+"Enough of that, now."<Close><End of Block>
+<TextBlock 29 w:54 h:4>
+Sophia
+"When it is just the two of
+us, would you stop calling
+me that.<New>
+Just call me 'Elly'<Delay 5>...<Delay 15> As
+you used to do in the old
+days<Delay 5>...<Delay 30> And you don't have
+to be so stiff and formal."<Close><End of Block>
+<TextBlock 30 w:54 h:4>
+Lacan
+"Oh, <Delay 5>errh, <Delay 10>alright.<Delay 15>
+Very wel<Delay 5>...<Delay 5>no, I mean<Delay 5>...<Delay 5>
+Yes,<Delay 5> let's do that<Delay 5> 'Elly'!"<Close><End of Block>
+<TextBlock 31 w:48 h:4>
+Lacan
+"I think I might go back
+home<Delay 5>...<Delay 10>
+only for a week or so."<Close><End of Block>
+<TextBlock 32 w:40 h:3>
+Elly
+"Oh, really?<Delay 5>
+What is the matter?"<Close><End of Block>
+<TextBlock 33 w:42 h:4>
+Lacan
+"I ran out of paint.<Delay 15>
+So<Delay 5>...<Delay 5>I, errh, need to
+go make some more."<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+Elly
+"You're going all that
+way<Delay 5>...<Delay 5>just to do that?"<Close><End of Block>
+<TextBlock 35 w:44 h:4>
+Lacan
+"If I don't go there,<Delay 5>
+I won't be able to get
+the right pigments."<Close><End of Block>
+<TextBlock 36 w:42 h:4>
+Elly
+"Oh<Delay 5>...<New>
+Then how about I have
+one of my followers,<Delay 5>
+the -Kahal-,<Delay 5> take you
+in one of our Gears?"<Close><End of Block>
+<TextBlock 37 w:44 h:4>
+Elly
+"You'll arrive quicker<Delay 15>
+and you'll be much
+more safe."<Close><End of Block>
+<TextBlock 38 w:64 h:9>
+I wonder when it started<Delay 5>...<Delay 30>
+ 
+That he started refusing me<Delay 5>...<Delay 15>
+The walls between us<Delay 5>...<Delay 30>
+Our 'positions'<Delay 5>...<Delay 5>
+Our 'circumstances'<Delay 5>...<Delay 15>
+He refused to recognize these<Delay 5>...<Delay 45>
+ 
+No<Delay 5>...<Delay 5>maybe it was me<Delay 5>...<Close><End of Block>
+<TextBlock 39 w:56 h:11>
+Therefore<Delay 5>...<Delay 5>
+I didn't want them<Delay 5>...<Delay 30>
+ 
+I wanted the two of us
+to be ourselves<Delay 5>...<Delay 45>
+ 
+That is what I wished for<Delay 5>...<Delay 15>
+So,<Delay 5>
+I had him paint me<Delay 5>...<Delay 30>
+ 
+The way I really am<Delay 5>...<Close><End of Block>
+<TextBlock 40 w:48 h:3>
+Elly
+"What's wrong?<Delay 15>
+You don't look so good."<Close><End of Block>
+<TextBlock 41 w:54 h:4>
+Elly
+"Lately, you've seemed
+melancholy almost everyday.<Delay 15>
+Has something happened?"<Close><End of Block>
+<TextBlock 42 w:36 h:4>
+Lacan
+"I don't know.<Delay 15>
+I just can't paint
+right now.<New>
+Sorry,<Delay 5> but do you
+mind if we stop
+here for today<Delay 5>..."<Close><End of Block>
+<TextBlock 43 w:44 h:4>
+Elly
+"I see<Delay 5>...<Delay 5>
+It is not good to push
+yourself too hard<Delay 5>...<New>
+Why don't you rest up
+for a little while?<Delay 30>
+I'll have Krelian take
+you<Delay 5>..."<Close><End of Block>
+<TextBlock 44 w:26 h:3>
+Krelian
+"What are you
+doing<Delay 5> Lacan?"<Close><End of Block>
+<TextBlock 45 w:50 h:4>
+Lacan
+"Oh<Delay 5> it's you,<Delay 5> Krelian<Delay 5>...<Delay 15>
+I was thinking<Delay 5>...<Delay 5>I'd stop
+painting the portrait<Delay 5>..."<Close><End of Block>
+<TextBlock 46 w:36 h:2>
+Krelian
+"Why stop now<Delay 5>...?"<Close><End of Block>
+<TextBlock 47 w:50 h:4>
+Lacan
+"It's the circumstances.<Delay 15>
+I shouldn't be painting
+her at a time like this."<Close><End of Block>
+<TextBlock 48 w:50 h:4>
+Lacan
+"Eventually she too must
+stand at the front lines.<Delay 15>
+So<Delay 5>..."<Close><End of Block>
+<TextBlock 49 w:30 h:3>
+Krelian
+"Is that really
+the problem?"<Close><End of Block>
+<TextBlock 50 w:10 h:2>
+Lacan
+"<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 51 w:22 h:2>
+Krelian
+"Lacan<Delay 5>...?"<Close><End of Block>
+<TextBlock 52 w:52 h:4>
+Lacan
+"<Delay 5>...<Delay 5>
+Her smile<Delay 5>...<Delay 5>
+it's killing me.<New>
+The more she smiles at me,
+the more I<Delay 5>...<Delay 5>I feel my
+very being become
+insignificant.<New>
+Inside my heart there is
+this empty existence.<Delay 15>
+Other than painting,<Delay 5>
+I have no worth<Delay 5>...<New>
+Yet, she continues to
+accept my presence.<Delay 15>
+I feel like I'm getting
+smaller and smaller."<Close><End of Block>
+<TextBlock 53 w:54 h:4>
+Lacan
+"I didn't have this
+feeling in the beginning.<New>
+I just wanted to paint her<Delay 5>
+one more minute<Delay 5>...<Delay 5>
+one more second longer<Delay 5>...<New>
+I wanted to keep on
+painting forever.<Delay 15>
+But,<Delay 5> suddenly I couldn't.<New>
+As the picture neared
+completion, the empty part
+of me started to manifest
+itself in my brush strokes.<New>
+I was meant to be painting
+her as she really is<Delay 5>...<Delay 15>
+but<Delay 5>...<Delay 5>this picture is<Delay 5>...<Delay 10>
+my own self<Delay 5>...<New>
+My empty self has begun to
+appear within there.<Delay 15>
+That's why<Delay 5>...<Delay 5>
+I've got to stop now."<Close><End of Block>
+<TextBlock 54 w:38 h:2>
+Krelian
+"Your own self<Delay 5>...?"<Close><End of Block>
+<TextBlock 55 w:54 h:4>
+Krelian
+"You're just running away!<Delay 15>
+You can't bear it when
+she smiles at you.<New>
+By painting her portrait,<Delay 5>
+you noticed the gap between
+your own inner emptiness
+and her inner abundance.<New>
+And you could not fill that
+gap<Delay 5>...<Delay 15>
+That's why you are quitting
+your painting.<New>
+You are refusing her!<Delay 15>
+Even so, you still can't
+bring yourself to leave
+her, can you?<New>
+In spite of that<Delay 5>...<Delay 5>
+why is it that she
+continues to smile at you?<New>
+You who can't accept her
+feelings<Delay 5>...<Delay 15>
+You who won't accept her
+feelings<Delay 5>..."<Close><End of Block>
+<TextBlock 56 w:40 h:3>
+Krelian
+"Tell me why!?<New>
+If it was me<Delay 5>...<Delay 30>
+who was receiving<Delay 5>...<Delay 15>
+such feelings<Delay 5>..."<Close><End of Block>
+<TextBlock 57 w:42 h:3>
+Roni
+"<Delay 5>...<Delay 5>Is this really
+her true expression?"<Close><End of Block>
+<TextBlock 58 w:54 h:4>
+Lacan
+"Yeah<Delay 5>...<Delay 5>
+To people who don't know
+her that well<Delay 5>...<Delay 5>I guess<Delay 5>..."<Close><End of Block>
+<TextBlock 59 w:54 h:4>
+Roni
+"Her smile<Delay 5>...<Delay 15>
+I don't know<Delay 5>...<New>
+The smile in this picture
+is somehow different from
+the one she usually shows
+us.<New>
+I realize Lacan's feelings
+are in there, but<Delay 5>...<New>
+I don't think she has ever
+opened herself up and shown
+her inner self to others
+like this before."<Close><End of Block>
+<TextBlock 60 w:54 h:4>
+Roni
+"You've been painting such
+a beautiful expression of
+Sophia<Delay 5>...<New>
+I just can't see the reason
+why you want to stop."<Close><End of Block>
+<TextBlock 61 w:34 h:4>
+Lacan
+"Beautiful<Delay 5>...?<New>
+Forget it.<Delay 10>
+This picture<Delay 5>...!?<Delay 5>
+It's anything but
+beautiful<Delay 5>..."<Close><End of Block>
+<TextBlock 62 w:50 h:4>
+Roni
+"Lacan,<Delay 5> you say you're
+empty.<Delay 15> Then why do you
+come along with us?<New>
+What we've been doing
+up till now,<Delay 5> are not
+just acts of mercy<Delay 5>...<Delay 15>
+It's a fight for freedom.<New>
+Time and again you've
+been through life
+threatening situations
+with us<Delay 5>..."<Close><End of Block>
+<TextBlock 63 w:52 h:4>
+Roni
+"A man who has nothing in
+his heart couldn't do that
+kind of thing<Delay 30>...<Delay 5>right?"<Close><End of Block>
+<TextBlock 64 w:50 h:4>
+Lacan
+"Roni, you're giving me
+too much credit.<New>
+As long as you do some-
+thing to keep yourself
+occupied<Delay 5>...<Delay 5>you can ignore
+the hollowness inside."<Close><End of Block>
+<TextBlock 65 w:48 h:4>
+Lacan
+"From the beginning, my
+very existence itself
+was an emptiness.<New>
+It wouldn't matter if I
+were to die right now<Delay 5>...<Delay 15>
+You live,<Delay 5> you die<Delay 5>...<Delay 5>
+That's all<Delay 5>..."<Close><End of Block>
+<TextBlock 66 w:44 h:4>
+Roni
+"Pessimistic as usual,<Delay 10>
+Lacan<Delay 5>...<Delay 15>
+And now you're lying."<Close><End of Block>
+<TextBlock 67 w:10 h:2>
+Lacan
+"<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 68 w:54 h:4>
+Roni
+"It is just that you're not
+good at expressing your own
+feelings.<New>
+You're not empty.<Delay 15>
+She knows that.<Delay 15>
+That's why she shows only
+you her true smile."<Close><End of Block>
+<TextBlock 69 w:44 h:4>
+Lacan
+"I don't deserve to
+see her true smile.<New>
+She is the hope of the
+people.<Delay 15> Their support.<Delay 15>
+There is so much more
+for her to do."<Close><End of Block>
+<TextBlock 70 w:46 h:4>
+Lacan
+"Why would she open her
+heart to a mere artist
+like me<Delay 5>..."<Close><End of Block>
+<TextBlock 71 w:25 h:2>
+Rene
+"Bro!<Delay 15> Bro<~>!"<Opcode 2 60><Close><End of Block>
+<TextBlock 72 w:24 h:4>
+Rene
+"Hey, bro<Delay 5>...<Delay 5>
+What are you
+doing here?"<Close><End of Block>
+<TextBlock 73 w:24 h:2>
+Roni
+"What's up?"<Close><End of Block>
+<TextBlock 74 w:50 h:3>
+Zephyr
+"The Council of Elders of
+Shevat issued a decision.<New>
+Tomorrow we will leave
+for Soylent."<Close><End of Block>
+<TextBlock 75 w:42 h:3>
+Roni
+"Soylent?<Delay 15>
+That's in Solaris<Delay 5>..."<Close><End of Block>
+<TextBlock 76 w:38 h:4>
+Rene
+"Yes.<Delay 15>
+And<Delay 5>...<Delay 5>Sophia will
+be coming with us."<Close><End of Block>
+<TextBlock 77 w:40 h:2>
+Krelian
+"That's ridiculous!"<Close><End of Block>
+<TextBlock 78 w:54 h:4>
+Krelian
+"The refugees are still
+increasing! <Delay 5>We can't afford
+to have Sophia leave Nisan!<New>
+And <Delay 5>going to Soylent!<Delay 5>
+That's plain foolish!<Delay 10>
+It's too dangerous!<New>
+What are the elders
+thinking?"<Close><End of Block>
+<TextBlock 79 w:32 h:4>
+Zephyr
+"No.<Delay 15>
+It wasn't the
+council's wish."<Close><End of Block>
+<TextBlock 80 w:52 h:4>
+Zephyr
+"It was Sophia's will. It
+appears that she expressed
+this desire herself."<Close><End of Block>
+<TextBlock 81 w:44 h:3>
+Krelian
+"That can't be<Delay 5>...<Delay 5>
+What is she thinking?"<Close><End of Block>
+<TextBlock 82 w:34 h:4>
+Rene
+"Originally, we 
+talked about it
+being just us<Delay 5>..."<Close><End of Block>
+<TextBlock 83 w:26 h:2>
+Krelian
+"Just us<Delay 5>...?"<Close><End of Block>
+<TextBlock 84 w:10 h:2>
+Lacan
+"<Delay 5>..."<Close><Close><End of Block>

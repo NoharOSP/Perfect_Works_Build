@@ -1,0 +1,58 @@
+<TextBlock 1 w:40 h:4>
+Do you think women
+are weaker than men?
+    I think so
+    Not really<Close><End of Block>
+<TextBlock 2 w:44 h:2>
+What? Don't you under-
+estimate desert women!<Close><End of Block>
+<TextBlock 3 w:38 h:2>
+You're just saying
+that to impress me.<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Aren't you nervous?
+I've had to pee a couple
+times already.<New>
+I have to go again. <Delay 50>
+...again.<Close><End of Block>
+<TextBlock 5 w:28 h:3>
+I am strong...
+I am strong...
+I am strong...<Close><End of Block>
+<TextBlock 6 w:40 h:3>
+Do you know my name?
+    Yes I do
+    Nope<Close><End of Block>
+<TextBlock 7 w:34 h:3>
+That's right...
+I am the one and
+only...'Big Joe'!<Close><End of Block>
+<TextBlock 8 w:34 h:3>
+What, you don't 
+remember? I am...<Delay 50>
+Big Joe!<New>
+The man who
+controls 
+the world.<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Big Joe
+"Hey, boy.
+Do you know the
+secret of strength? <New>
+It's...<Delay 30>
+Gratitude to all your
+fans. Their love gives
+me strength."<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Hey, boy. Do you have
+anyone cheering for you?
+    Yes
+    No<Close><End of Block>
+<TextBlock 11 w:36 h:3>
+Big Joe
+"OK, don't forget 
+to thank them."<Close><End of Block>
+<TextBlock 12 w:42 h:3>
+Big Joe
+"Oh boy. Life is too 
+long to walk alone."<Close><Close><End of Block>

@@ -1,0 +1,51 @@
+<TextBlock 1 w:44 h:4>
+Oh, hi Fei!
+Welcome!<New>
+The big day's finally
+approaching, huh...?<Delay 20>
+Alice and Timothy's
+wedding is tomorrow!<New>
+Hey, how about gettin'
+them a stamina drink
+of courage and love...<Delay 10>
+What do you think?<New>
+C'mon, you've gotta
+get'em a present here!<Delay 30>
+We're the only shop
+in town, you know!?<Close><End of Block>
+<TextBlock 2 w:48 h:2>
+Hello and welcome again!<Delay 20>
+Was there anything else?<Close><End of Block>
+<TextBlock 3 w:32 h:2>
+Thanks again.
+Come by anytime!<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Just becawse Awice is
+getting mawwied doesn't
+mean you have to be sad.<New>
+Fwei, when I get bwigger,
+I'll be your bwide.<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Will you wait for me?<Delay 20>
+    Sure, I'll wait!
+    Sorry, I can't!<Close><End of Block>
+<TextBlock 6 w:56 h:3>
+Weally, you mean it!?<Delay 20>
+Then cwoss your hweart...!<New>
+Hope to dwie.
+Stick a needwle in your eye!<New>
+It's all set then...!<Delay 20>
+Our bwurning love has been
+tied by unbweakable bonds!<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+So you dwon't care what
+happens to me, Fwei...<Delay 20>
+You're so cowld-hearted!<Delay 20>
+Dwon't tawlk to me! Hmph!<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Tee-hee...<Delay 20>
+Dwon't fworget our
+pwomise, Fwei.<Close><End of Block>
+<TextBlock 9 w:36 h:2>
+I dwon't wike you!
+Go away, Fwei!<Close><Close><End of Block>

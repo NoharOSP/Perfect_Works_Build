@@ -1,0 +1,92 @@
+<TextBlock 1 w:40 h:5>
+Here's something...<Delay 20>
+Though it's a little
+different from the
+treasure I am
+searching for.<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+I'm digging like crazy.
+I can't wait till
+I find something!<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Nope...
+Didn't find anything.<Delay 20>
+It always felt like it was
+just beyond my grasp...<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Hey, you have some Gold
+Bullion there don't you?<Delay 20>
+If you give it to me I'll
+try digging a little more.<New>
+Otherwise it looks like
+I'll have to  give up...
+What do you think?<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Hand over Gold Bullion?<Delay 20>
+    Hand it over
+    No way<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+Okay!<Delay 20>
+I'll get digging right now.
+Expect something good!<Close><End of Block>
+<TextBlock 7 w:50 h:1>
+Handed over Gold Bullion.<Close><End of Block>
+<TextBlock 8 w:28 h:3>
+Really?<Delay 20>
+Well, do what
+ever you like.<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+This rock is harder than I
+thought. It's hard to dig,
+so you'll have to wait a
+little bit more.<Close><End of Block>
+<TextBlock 10 w:48 h:3>
+Hmmmm...
+I think I smell treasure
+over here.<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Hey, don't you have a
+Gold Nugget?<Delay 20>
+If you give it to me,
+I'll dig some more here.<New>
+I'm sure something
+good will come up.
+How about it?<Close><End of Block>
+<TextBlock 12 w:44 h:3>
+Hand over Gold Nugget?<Delay 20>
+    Hand it over
+    No way<Close><End of Block>
+<TextBlock 13 w:44 h:4>
+Alright, got it!<Delay 20>
+Well, I'll try digging
+around here then...
+Expect something good!<Close><End of Block>
+<TextBlock 14 w:48 h:1>
+Handed over Gold Nugget.<Close><End of Block>
+<TextBlock 15 w:28 h:3>
+Really?<Delay 20>
+Well, do what
+ever you like.<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+<Opcode 1 255>"Super Deluxe Music Box"
+  Please insert 100G
+    OK, I will
+    No thanks<Close><End of Block>
+<TextBlock 17 w:36 h:3>
+Hey you, don't kid
+around.<Delay 20> You don't
+have enough money!<Close><End of Block>
+<TextBlock 18 w:62 h:13>
+    <Opcode 1 255>The Valley of the Wind
+    A Distant Promise
+    Lost... Screeching Shards
+    Our Village is No.1
+    We Wounded Follow the Light
+    The Brave Seek Dreams
+    September Mermaid
+    The Sky, the Clouds and You
+    A Nest of Dreams
+    An Ancient Dance
+    Tears of Stars and Memories
+    Shards Calling One Another
+    Prayers of Wind and Fire<Close><Close><End of Block>

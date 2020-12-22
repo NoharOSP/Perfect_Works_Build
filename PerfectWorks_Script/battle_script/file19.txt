@@ -1,0 +1,78 @@
+<TextBlock 1 w:38 h:3>
+Took possession of
+ Alice's
+   'Wedding Dress'!<Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Fei
+"What are you doing
+here, Dan!?"<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Fei
+"...Please, Dan.
+Stop it!"<Close><End of Block>
+<TextBlock 4 w:32 h:4>
+Fei
+"Ergh<Delay 20>...<Delay 20>
+What do you want
+me to do...?"<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Fei
+"...<Delay 20>I can't.<New>
+There's no way I could
+ever bring myself to
+strike you, Dan..."<Close><End of Block>
+<TextBlock 6 w:14 h:3>
+Fei
+"Dan<Delay 20>...<Delay 20>
+I<Delay 20>...<Delay 20>"<Close><End of Block>
+<TextBlock 7 w:38 h:4>
+Dan
+"Hmph!
+I escaped from
+Yui's place!<New>
+I'm here to avenge
+my sister's death!"<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Dan
+"Shut ya mouth! I will
+never forgive you.<Delay 20>
+...You murderer!!"<Close><End of Block>
+<TextBlock 9 w:30 h:4>
+Dan
+"Damn you, Fei!
+Why don't you
+fight back?<New>
+C'mon,
+I challenged
+you!"<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Dan
+"...Darn!<New>
+Taking you down so
+easily like this isn't
+going to satisfy<New>
+the souls of my sister
+or Timothy!<New>
+Blast! I'll save this
+duel for later.<New>
+The next time I meet
+you, it's going to be
+your funeral! Scum!<New>
+Until then,
+hang on to this!<New>
+Every time you look
+at it,<New>
+I want you to suffer
+and feel the guilt for
+what you did !"<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Dan
+"Shut up!
+I don't want to hear
+your stupid excuses!<New>
+Fei, you're such
+a bastard!!"<Close><End of Block>
+<TextBlock 12 w:22 h:2>
+Tournament
+Semi-Finals<Opcode 2 60><Close><Close>?<New>
+<End of Block>

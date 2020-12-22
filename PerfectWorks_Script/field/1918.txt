@@ -1,0 +1,102 @@
+<TextBlock 1 w:20 h:2>
+Fei
+"Uhhhh..."<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Grahf
+"I guess that's all
+you can take for now.<Delay 30>
+Are you frustrated?<New>
+But that is<Delay 5>...<Delay 5>
+'only natural'.<Delay 10>
+After all, you are
+imperfect."<Close><End of Block>
+<TextBlock 3 w:26 h:2>
+Fei
+"Imperfect!?"<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+Grahf
+"Yes.
+You are lacking now.<New>
+The absence of wrath
+is an impediment to
+you utilizing your
+true strength!"<Close><End of Block>
+<TextBlock 5 w:28 h:2>
+Fei
+"W, wrath...?"<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Grahf
+"The drive to massacre and
+annihilate, the compulsion
+to destroy your opponent...<New>
+Such wrath is power for the
+soul! By eliminating your
+foe, you attain your first
+sublimation of that drive.<New>
+It is this very sublimation
+that draws out the hidden
+powers within oneself!<Delay 20>
+But,<Delay 5> clinging to reason<Delay 5>...<New>
+...<Delay 5>suppressing your wrath
+and desire, makes releasing
+your true power a dream
+within a dream for you.<New>
+You already know this...
+When wrath appeared in
+your heart, the machine
+responded, did it not?<New>
+What drew out such power
+from your machine was
+truly the drive of your
+soul<Delay 5>...<Delay 5> It was your 'Id'.<New>
+The sign of the purpose
+you've been seeking<Delay 5>...<Delay 5>
+The mark of a natural
+born assassin!"<Close><End of Block>
+<TextBlock 7 w:34 h:4>
+Fei
+"You're wrong!<Delay 20>
+That's absolutely
+untrue!"<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Fei
+"I, I am not 'Id'!
+I..."<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Grahf
+"The time has come...<New>
+I'll take your soul,
+and draw its power
+out to the limit!"<Close><End of Block>
+<TextBlock 10 w:18 h:2>
+Krelian
+"Enough!"<Close><End of Block>
+<TextBlock 11 w:36 h:4>
+Grahf
+"Huh?
+What are you
+stopping me for!?"<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Krelian
+"He is bait.<New>
+If you kill the bait,
+the precious bird we
+wish to capture will
+fly away.<New>
+You know<Delay 5>...<Delay 5>a very
+important bird<Delay 5>...<Delay 5>
+'needed to fulfill my
+earnest desire'<Delay 5>...<New>
+You understand, don't
+you,<Delay 10> Lacan<Delay 10>...?"<Close><End of Block>
+<TextBlock 13 w:30 h:3>
+Grahf
+"...<Delay 30>
+Suit yourself."<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Krelian
+"We shall crucify them.<New>
+In the land of Golgoda,
+to the west of here.
+Collect all the broken
+Gears!"<Close><Close><End of Block>

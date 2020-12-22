@@ -1,0 +1,92 @@
+<TextBlock 1 w:32 h:3>
+Fei
+"...Those little
+punks!!"<Close><End of Block>
+<TextBlock 2 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:22 h:4>
+Citan
+"Again...!<Delay 10>
+Fei, hurry,
+jump off!!"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Citan
+"Whew, that was a close
+one! We almost got thrown
+off."<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Fei
+"It's all because of
+those mischievous punks!<New>
+When the old man's gone
+they always do this.
+Oh well."<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Citan
+"Kind of odd hearing that
+from a mischievous 'you
+know who'."<Close><End of Block>
+<TextBlock 7 w:28 h:3>
+Fei
+"Huh? You say 
+something<Delay 10>?"<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Citan
+"Well, anyway we should
+be alright if we take
+this all the way.<New>
+As for the mission,
+so far so good."<Close><End of Block>
+<TextBlock 9 w:40 h:2>
+Fei
+"What's that sound?"<Close><End of Block>
+<TextBlock 10 w:36 h:4>
+Citan
+"The connector...!<Delay 10>
+Fei, hurry up
+and jump off!!"<Close><End of Block>
+<TextBlock 11 w:56 h:4>
+Citan
+"This train is almost
+falling apart.<Delay 10>
+That was another close one."<Close><End of Block>
+<TextBlock 12 w:38 h:4>
+Fei
+"What if it derails
+before we get to
+the Gear dock..."<Close><End of Block>
+<TextBlock 13 w:4 h:1>
+!!<Close><End of Block>
+<TextBlock 14 w:52 h:3>
+Citan
+"This car is unstable too.<Delay 10>
+Let us get to the front!!"<Close><End of Block>
+<TextBlock 15 w:38 h:3>
+Citan
+"One disaster after
+another..."<Close><End of Block>
+<TextBlock 16 w:36 h:3>
+Fei
+"Pretty unreliable
+train."<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Citan
+"The entrance to the
+ventilation shaft
+that leads to the Gear dock<New>
+should be
+coming up soon."<Close><End of Block>
+<TextBlock 18 w:28 h:2>
+Citan
+"Here we go!!"<Opcode 2 90><Close><End of Block>
+<TextBlock 19 w:32 h:1>
+There it goes...<Opcode 2 90><Close><End of Block>
+<TextBlock 20 w:32 h:1>
+There it goes...<Opcode 2 90><Close><End of Block>
+<TextBlock 21 w:36 h:4>
+Uuuaaaaaaaaaaaaaa <Delay 10>
+   aaaaaaaaaaaa <Delay 10>
+     aaaaaaaa <Delay 10>
+       aah! <Opcode 2 30><Close><End of Block>
+<TextBlock 22 w:0 h:1>
+<Close><End of Block>

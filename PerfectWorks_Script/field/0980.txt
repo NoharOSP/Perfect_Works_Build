@@ -1,0 +1,103 @@
+<TextBlock 1 w:50 h:4>
+Maison
+"Well said, young master!
+This old man will follow
+you to the pits of hell!"<Close><End of Block>
+<TextBlock 2 w:56 h:4>
+Engineer
+"The main engine and effect-
+fins' oscillators are mostly
+unharmed...<New>
+...but the electrical
+connections between them
+are wasted.<New>
+We are bypassing the main
+connection and trying to
+scrape together all the 
+energy we can.<New>
+But it will only give us
+70% of our usual maximum
+power at best.<New>
+The propulsion-drills are
+not damaged, but if the
+sand can't be granulated
+they might as well be.<New>
+We'll make battle speed 3
+...only barely."<Close><End of Block>
+<TextBlock 3 w:52 h:3>
+Sigurd
+"He's been quiet since the
+first surrender demand."<Close><End of Block>
+<TextBlock 4 w:30 h:2>
+Sigurd
+"Young master!"<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+Sigurd
+"It sure looks that way...<New>
+Perhaps they have political
+motives that involve Margie
+or the young master..."<Close><End of Block>
+<TextBlock 6 w:56 h:4>
+Engineer
+"Young master...emergency
+connections are complete.
+Use the engine as you wish."<Close><End of Block>
+<TextBlock 7 w:20 h:4>
+Bart
+"...What? 
+Who are
+you...?"<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Bart
+"Surrounded, huh?
+How are the repairs?"<Close><End of Block>
+<TextBlock 9 w:46 h:4>
+Bart
+"Sig! What has Gebler's
+'Mister Puniverse' got
+to say?"<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Bart
+"...<New>
+All personnel to battle
+stations. Break through
+is planned after the
+connectors are up."<Close><End of Block>
+<TextBlock 11 w:54 h:3>
+Bart
+"Sig! Listen!<New>
+Surrendering isn't going to
+change Nisan's fate.<New>
+We'll lose the Yggdrasil,
+the core of our power in
+saving Aveh and Margie.<New>
+I know it looks bad, but
+you can still count on us!"<Close><End of Block>
+<TextBlock 12 w:54 h:3>
+Bart
+"Sorry, Old Maison,
+I'm not dying today!!<New>
+Besides they don't look
+like they're gonna hit us."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Bart
+"That's probably it, Sig!<New>
+But they're forgetting one
+thing...<Delay 10>
+It's harder to bring in an
+animal alive than dead!"<Close><End of Block>
+<TextBlock 14 w:42 h:2>
+Bart
+"Thanks!!<New>
+Alright let's...<Delay 16>
+go get those fools!!"<Close><End of Block>
+<TextBlock 15 w:38 h:2>
+Bart
+"W, what happened?"<Close><End of Block>
+<TextBlock 16 w:46 h:2>
+Bart
+"Is it heading...<Delay 16>here?"<Close><End of Block>
+<TextBlock 17 w:30 h:1>
+Are you strong?<Close><End of Block>
+<TextBlock 18 w:54 h:1>
+I asked, 'Are you strong?'!<Close><Close><End of Block>

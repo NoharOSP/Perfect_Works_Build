@@ -1,0 +1,654 @@
+<TextBlock 1 w:48 h:4>
+Maison
+"Thank you, Master Fei!!
+And please take care of
+my young master, Bart."<Close><End of Block>
+<TextBlock 2 w:28 h:3>
+Maison
+"Master Fei,
+please relax."<Close><End of Block>
+<TextBlock 3 w:12 h:2>
+Maison
+"<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+What?<Delay 10>
+Don't get all excited.<Close><End of Block>
+<TextBlock 5 w:56 h:3>
+Hey, newcomer! 
+Where ya from? <Delay 10>
+Lahan? <Delay 10> Don't know it.<New>
+Hey, I was a 
+Kislev soldier. <New>
+I didn't like the way 
+they did things in the army 
+so they kicked me out. <New>
+The young master's got 
+lots of power and
+ambition, just like me.<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+This guy was once an
+Aveh soldier.<Delay 10> 
+You just can't predict
+destiny, can ya?<New>
+We used to fight each
+other but now we're pals
+sharing a meal together.
+How about that, eh...!?<Close><End of Block>
+<TextBlock 7 w:36 h:2>
+Speaking of food, 
+I'm hungry<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 8 w:22 h:1>
+This's bad!<Close><End of Block>
+<TextBlock 9 w:56 h:4>
+You from Aveh? <Delay 10>
+Oh, you're not. 
+Well I was an Aveh soldier.<New>
+Aveh's Prime Minister,
+Shakhan, has so much
+military clout that he can
+send us students off to war.<New>
+I wasn't happy with Shakhan.
+So I got out of the army
+and became a pirate.<Close><End of Block>
+<TextBlock 10 w:46 h:2>
+I wonder if Francois is
+doing well at home<Delay 5>...<Delay 5>?<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+What?<Delay 5> No! Yuck...
+She's not my girlfriend.
+She's my dog.<Close><End of Block>
+<TextBlock 12 w:38 h:3>
+In that earlier 
+commotion my model 
+got broken<Delay 5>...<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Bart
+"Are you still here?
+Get going!"<Close><End of Block>
+<TextBlock 14 w:44 h:3>
+Ooh, if this shaking
+keeps up, our precious
+model will...!!<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+This model is really
+nice. Just look at
+the detail work<Delay 5>...<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Hey Fei!! Don't you
+think this is great?<Delay 10>
+    It's pretty cool!
+    No big deal<Close><End of Block>
+<TextBlock 17 w:58 h:4>
+It is pretty cool, isn't it?<Delay 10> 
+There's a story behind this
+model.
+Let me tell you about it...<New>
+Twelve years ago, Sigurd took
+Bart out of Aveh. They stole
+Aveh's most powerful warship
+and totally remodeled it.<New>
+They renamed it the
+'Yggdrasil'.<New>
+This is the Yggdrasil
+before the improvements.<Delay 10>
+I have it here to remind 
+me of the hopes I had then.<Close><End of Block>
+<TextBlock 18 w:50 h:3>
+(Heh heh...it was worth
+the work that the first
+mate and I put in on it.)<Close><End of Block>
+<TextBlock 19 w:52 h:2>
+Hmph, a minute ago you
+said it wasn't so great<Delay 5>...<Close><End of Block>
+<TextBlock 20 w:58 h:4>
+No big deal?<Delay 10>
+Well, let me tell you the
+story behind it, cause might
+just change your mind...<New>
+Twelve years ago, Sigurd took
+Bart out of Aveh. They stole
+Aveh's most powerful warship
+and totally remodeled it.<New>
+They renamed it the
+'Yggdrasil'.
+This is the Yggdrasil before
+the improvements.<New>
+I have it here to remind 
+me of the hopes I had then.
+But it's not important now,
+I guess...<Close><End of Block>
+<TextBlock 21 w:52 h:2>
+(Sigh...The first mate and
+I worked so hard on this!)<Close><End of Block>
+<TextBlock 22 w:48 h:2>
+Is that how you really 
+feel? You're a liar Fei.<Close><End of Block>
+<TextBlock 23 w:46 h:2>
+I want to make another 
+Yggdrasil model...<Close><End of Block>
+<TextBlock 24 w:44 h:3>
+Hey! Fei, 
+you did a great job! 
+We're counting on you!<Close><End of Block>
+<TextBlock 25 w:52 h:3>
+Oh no!<Delay 10>
+All the Gears are supposed
+to be under repair!!<Close><End of Block>
+<TextBlock 26 w:52 h:3>
+Do you know why such a
+small child is here?
+She is a war orphan...<New>
+She was found crying in
+the desert. They brought
+her here in the Yggdrasil.<New>
+We must stop the fighting
+from making any more
+orphans like her.<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Margie, you came back!<Delay 10> 
+I'm so happy! <Delay 10>
+I'll come by and see
+you later!<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+I hear you all did a good
+job in protecting us<Delay 5>...<Delay 5>
+I'm sorry I can't give you
+a break, but I just can't.<Close><End of Block>
+<TextBlock 29 w:42 h:3>
+Come back when you
+rescue little Margie!
+Good luck, Bart dear!<Close><End of Block>
+<TextBlock 30 w:36 h:4>
+Bart
+"Got it!<Delay 10>
+Hold down the fort
+for us know!"<Close><End of Block>
+<TextBlock 31 w:54 h:3>
+The enemy's coming?<Delay 10> 
+This place is impregnable, 
+you don't have to worry!!<Close><End of Block>
+<TextBlock 32 w:34 h:2>
+It's best if you 
+take refuge now.<Close><End of Block>
+<TextBlock 33 w:42 h:3>
+You look tired.<Delay 10>
+Maybe shopping will
+perk you up.<New>
+(Even though they're
+Bart's friends I have
+to charge them!)<Close><End of Block>
+<TextBlock 34 w:42 h:2>
+If you want anything 
+just let me know.<Close><End of Block>
+<TextBlock 35 w:34 h:5>
+What do you want?
+<Opcode 1 255>    Items
+    Accessories
+    Gear parts
+    Leave<Close><End of Block>
+<TextBlock 36 w:42 h:3>
+Bart dear!<Delay 10>
+I was wondering when 
+you'd show up!<Close><End of Block>
+<TextBlock 37 w:38 h:2>
+Are you doing well,
+Bart dear?<Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Oh! Fei dear!
+I believed in you.
+You said you'd help Bart.<Delay 10>
+And thanks from me too.<Close><End of Block>
+<TextBlock 39 w:50 h:4>
+Bart dear, you don't find
+many friends like this!<Delay 10>
+So you'd better be nice
+to him, now!<Close><End of Block>
+<TextBlock 40 w:44 h:4>
+Bart
+"Yeah. The next time I
+come back here, it'll
+be with Margie...<New>
+So I'll be expecting
+you to make something
+good."<Close><End of Block>
+<TextBlock 41 w:44 h:2>
+Alright dear, you just
+leave it to Granny!<Close><End of Block>
+<TextBlock 42 w:48 h:4>
+Fei dear!!
+Did you see a little boy
+and girl? I wonder where
+they went?<Close><End of Block>
+<TextBlock 43 w:50 h:3>
+Well now aren't you Fei? 
+Bart dear said he made a 
+'big strong friend'.<Close><End of Block>
+<TextBlock 44 w:6 h:1>
+<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 45 w:48 h:4>
+Be friends with Bart.
+He's such a sweet child.<Delay 10>
+    Ahh, sure
+    Not interested<Close><End of Block>
+<TextBlock 46 w:18 h:2>
+Fei
+"I know."<Close><End of Block>
+<TextBlock 47 w:30 h:2>
+I'm counting on
+you, Fei dear.<Close><End of Block>
+<TextBlock 48 w:36 h:3>
+Fei
+"It has nothing to
+do with me<Delay 5>..."<Close><End of Block>
+<TextBlock 49 w:46 h:4>
+Well, I see you're
+just like Bart, you
+stand your own ground.<Delay 10> 
+You'll do fine.<Close><End of Block>
+<TextBlock 50 w:40 h:2>
+If you're with Bart 
+you'll do fine.<Close><End of Block>
+<TextBlock 51 w:20 h:2>
+Fei dear,<Delay 10>
+<Delay 5>...<Delay 5>thanks.<Close><End of Block>
+<TextBlock 52 w:12 h:1>
+Whoa!!<Close><End of Block>
+<TextBlock 53 w:22 h:2>
+Granny!
+I'm scared!<Close><End of Block>
+<TextBlock 54 w:24 h:1>
+Hey, Granny.<Close><End of Block>
+<TextBlock 55 w:38 h:4>
+Oops<Delay 5>...<Delay 5>
+I'm so embarrassed.<Delay 10>
+But this is how I
+am with children<Delay 5>...<Close><End of Block>
+<TextBlock 56 w:46 h:3>
+It's been a long time 
+since we last had fun.<Delay 10>
+Let's play in the sand!<Close><End of Block>
+<TextBlock 57 w:24 h:2>
+Dad, this is
+the desert!!<Close><End of Block>
+<TextBlock 58 w:44 h:3>
+Wahahaha!<Delay 10>
+You got a lot funnier
+since I saw you last!!<Close><End of Block>
+<TextBlock 59 w:28 h:1>
+Well, see ya!!<Close><End of Block>
+<TextBlock 60 w:38 h:2>
+Presents, presents!
+Wee! Weeee!<Close><End of Block>
+<TextBlock 61 w:44 h:4>
+Me, I'm waiting for
+my dad to get back.
+But I'm not gonna cry!<Delay 10>
+Pretty good, huh?<Close><End of Block>
+<TextBlock 62 w:46 h:2>
+Fei
+"That's really good<Delay 5>..."<Close><End of Block>
+<TextBlock 63 w:14 h:1>
+Daddy!!<Delay 10><Close><End of Block>
+<TextBlock 64 w:42 h:1>
+Welcome home, Daddy!!<Close><End of Block>
+<TextBlock 65 w:44 h:3>
+There, there. Have you
+been a good girl by
+obeying the nice lady?<Close><End of Block>
+<TextBlock 66 w:10 h:1>
+Yes!!<Close><End of Block>
+<TextBlock 67 w:44 h:2>
+I was good, <Delay 5>so...<Delay 5>
+where are my presents?<Close><End of Block>
+<TextBlock 68 w:46 h:2>
+Presents!?<Delay 10> Look, here's
+a pirate dress up kit!!<Close><End of Block>
+<TextBlock 69 w:24 h:2>
+Wow!<Delay 10>
+Thanks dad!!<Close><End of Block>
+<TextBlock 70 w:54 h:3>
+Maison
+"This is the dining hall.<Delay 10>
+I'm sorry it is so gauche."<Close><End of Block>
+<TextBlock 71 w:42 h:2>
+Maison
+"Please take a seat."<Close><End of Block>
+<TextBlock 72 w:50 h:4>
+Maison
+"Perhaps you would like 
+some of my famous tea?<Delay 10> 
+Master Fei?<Delay 10> Good Doctor?"<Close><End of Block>
+<TextBlock 73 w:50 h:4>
+Maison
+"Young visitors are rare
+indeed, the young master
+must be very happy.<New>
+If things were normal we
+wouldn't be living in the
+desert, but rather back
+in the royal palace<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 74 w:54 h:4>
+Citan
+"Royal palace<Delay 5>...?<Delay 10> You mean
+that young one is connected
+to the old Fatima dynasty?"<Close><End of Block>
+<TextBlock 75 w:18 h:2>
+Maison
+"Pardon?"<Close><End of Block>
+<TextBlock 76 w:52 h:4>
+Maison
+"N,<Delay 5> no...<Delay 10>
+I'm just a senile old fool
+who talks too much<Delay 5>...<New>
+Pay no attention to what
+I just said...
+Ha<Delay 5>ha<Delay 5>ha<Delay 5>..."<Close><End of Block>
+<TextBlock 77 w:40 h:4>
+Citan
+"But...that one-eyed
+youth does have a
+certain bearing."<Close><End of Block>
+<TextBlock 78 w:48 h:4>
+Maison
+"Oh<Delay 5>...<Delay 5>oh<Delay 5>...<Delay 5>oh<Delay 5>...!<Delay 10>
+Well spoken Sir! Awfully
+good of you to notice!"<Close><End of Block>
+<TextBlock 79 w:52 h:3>
+Maison
+"If I may...
+I would like to tell you.<New>
+The young gent is the last
+forgotten reminder of the
+once proud Fatima dynasty.<New>
+...That is, before it was
+destroyed by Shakhan's
+minions...<Close><End of Block>
+<TextBlock 80 w:24 h:3>
+Prince <Delay 10>
+Bartholomew <Delay 10>
+Fatima.<Close><End of Block>
+<TextBlock 81 w:48 h:3>
+Citan
+"Bartholomew?<Delay 10>
+Edbart IV's successor<Delay 5>...<New>
+I am sure they announced
+Bartholomew died of an
+illness 12 years ago<Delay 5>..."<Close><End of Block>
+<TextBlock 82 w:54 h:3>
+Maison
+"Officially, yes.<New>
+However in reality, we
+rescued the young prince
+from Shakhan's evil grasp."<Close><End of Block>
+<TextBlock 83 w:52 h:4>
+Citan
+"Then why must the prince,
+the rightful heir, resort
+to piracy<Delay 5>...?"<Close><End of Block>
+<TextBlock 84 w:12 h:2>
+Maison
+"<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 85 w:50 h:3>
+Maison
+"Since fleeing here, we
+have had only one wish<Delay 5>...<New>
+...<Delay 5>that the young master
+would grow up to be a
+great man<Delay 5>..."<Close><End of Block>
+<TextBlock 86 w:40 h:3>
+Citan
+"Not to<Delay 5>...<Delay 10>
+reclaim the throne?"<Close><End of Block>
+<TextBlock 87 w:50 h:4>
+Maison
+"That is correct.<New>
+Of course, to say we have
+absolutely no desire to
+restore his rule<Delay 5>...<Delay 5>
+would be a lie.<New>
+We have plans for that
+as well."<Close><End of Block>
+<TextBlock 88 w:50 h:3>
+Citan
+"And part of those plans
+would include piracy...?"<Close><End of Block>
+<TextBlock 89 w:42 h:4>
+Maison
+"Well, yes<Delay 5>...<Delay 10> 
+But there is a reason
+for that<Delay 5>..."<Close><End of Block>
+<TextBlock 90 w:50 h:4>
+Maison
+"Regardless of who gains
+the ruins' technology,
+one thing is certain...<New>
+Both Kislev and Aveh will
+simply use that power to
+oppress the other.<New>
+I agreed with the young
+master's idea of creating
+a new power to balance
+things out a little."<Close><End of Block>
+<TextBlock 91 w:50 h:4>
+Citan
+"I see...<New>
+It is far more effective
+to plunder from the
+shadows, than to excavate
+the technology oneself."<Close><End of Block>
+<TextBlock 92 w:50 h:4>
+Maison
+"Of course pillaging is
+an unpardonable act.<New>
+However<Delay 5>...<Delay 5>
+for Aveh,<Delay 5>
+for Ignas, <Delay 5>
+to continue like this<Delay 5>..."<Close><End of Block>
+<TextBlock 93 w:46 h:2>
+"I'm sorry if it sounds
+rather self-righteous."<Close><End of Block>
+<TextBlock 94 w:52 h:4>
+Citan
+"That is something which
+outsiders like ourselves
+cannot comment upon.<New>
+From what you have told
+me, I feel that the result
+of what you are doing will
+be good.<New>
+Seeing your children here
+tells me that."<Close><End of Block>
+<TextBlock 95 w:40 h:3>
+Maison
+"I am much relieved 
+by your words."<Close><End of Block>
+<TextBlock 96 w:42 h:2>
+Maison
+"Another cup of tea?"<Close><End of Block>
+<TextBlock 97 w:24 h:3>
+Citan
+"Yes please.<Delay 10>
+Thank you."<Close><End of Block>
+<TextBlock 98 w:46 h:4>
+Citan
+"You mentioned you had
+plans. Why have you not
+put them into action?"<Close><End of Block>
+<TextBlock 99 w:38 h:4>
+Maison
+"With Miss Margie
+imprisoned, we dare
+not do anything."<Close><End of Block>
+<TextBlock 100 w:28 h:4>
+Citan
+"She would not
+happen to be<Delay 10>
+Nisan's<Delay 5>...?"<Close><End of Block>
+<TextBlock 101 w:46 h:4>
+Maison
+"You are well informed,
+my dear doctor. <New>
+She is the Great Mother
+Marguerite of Nisan<Delay 5>...<Delay 10>
+and the young master's
+cousin, as well."<Close><End of Block>
+<TextBlock 102 w:36 h:3>
+Citan
+"Why would Shakhan
+take her captive?"<Close><End of Block>
+<TextBlock 103 w:52 h:2>
+Maison
+"For the 'Fatima Jasper'!"<Close><End of Block>
+<TextBlock 104 w:46 h:4>
+Citan
+"The Fatima Jasper that
+is said to show where
+great treasure is?"<Close><End of Block>
+<TextBlock 105 w:50 h:4>
+Maison
+"My, good Doctor!<Delay 10>
+You do know an awful lot.<Delay 10>
+I am most impressed."<Close><End of Block>
+<TextBlock 106 w:26 h:4>
+Fei
+"No<Delay 5>...<Delay 5>
+I'm just not
+thirsty now!"<Close><End of Block>
+<TextBlock 107 w:46 h:4>
+Maison
+"Well, we have no idea
+what the great treasure
+actually is...<New>
+But it is said to be
+strong enough to save
+our kingdom if it is
+ever in plight!"<Close><End of Block>
+<TextBlock 108 w:42 h:4>
+Citan
+"And Marguerite has
+the Jasper that tells
+the location?"<Close><End of Block>
+<TextBlock 109 w:38 h:4>
+Maison
+"Only half of it,
+to be precise.<New>
+The young master
+and Miss Marguerite
+each have half.<New>
+Only by combining
+the two halves will
+anyone know where
+the treasure is."<Close><End of Block>
+<TextBlock 110 w:38 h:4>
+Citan
+"What exactly is
+the Fatima Jasper?<New>
+When you say a half
+of the Jasper, I
+imagine some kind
+of necklace<Delay 5>..."<Close><End of Block>
+<TextBlock 111 w:46 h:4>
+Maison
+"Only the heirs to Aveh
+and Nisan know what it
+really looks like."<Close><End of Block>
+<TextBlock 112 w:42 h:4>
+Citan
+"I see.<Delay 10>
+So that is why they
+have her locked up.<New>
+My guess is that when
+they do find out, her
+chances of living are
+not<Delay 5>..."<Close><End of Block>
+<TextBlock 113 w:42 h:4>
+Citan
+"Ah, I apologize. <Delay 10>
+I simply,<Delay 10>
+I mean<Delay 5>...<New>
+I was only supposing
+the worst case. 
+So please do not take
+it to heart<Delay 5>..."<Close><End of Block>
+<TextBlock 114 w:46 h:3>
+Maison
+"No, that is a terribly
+realistic scenario."<Close><End of Block>
+<TextBlock 115 w:10 h:2>
+Citan
+"<Delay 5>..."<Close><End of Block>
+<TextBlock 116 w:48 h:4>
+Citan
+"Ahem.<Delay 10>
+What exactly do you mean
+by great treasure<Delay 5>...?"<Close><End of Block>
+<TextBlock 117 w:52 h:3>
+Maison
+"Well,<Delay 10>
+I haven't the foggiest...<Delay 5>"<Close><End of Block>
+<TextBlock 118 w:36 h:3>
+The Gear...!
+He means the Gear!<Delay 10>
+It has to be it!<Close><End of Block>
+<TextBlock 119 w:46 h:3>
+Maison
+"Young master<Delay 5>...<Delay 10>
+are the Gears alright?"<Close><End of Block>
+<TextBlock 120 w:46 h:4>
+Bart
+"Yeah...<New>
+Even though they were
+sealed, sand's gotten
+into the joints.<New>
+It's a pain in the neck
+to fix, so I'm having
+the crew take care of
+it now.<New>
+My job is just to pilot
+them anyway.<New>
+Besides, I'm bad with 
+machines,<Delay 10> so I'd just
+get in the way."<Close><End of Block>
+<TextBlock 121 w:30 h:1>
+Young master<Delay 5>...<Close><End of Block>
+<TextBlock 122 w:30 h:4>
+Bart
+"Anyway...
+What were we
+talking about?"<Close><End of Block>
+<TextBlock 123 w:36 h:4>
+Citan
+"Whether the great
+treasure could be
+a<Delay 5>...<Delay 5>Gear?"<Close><End of Block>
+<TextBlock 124 w:52 h:3>
+Bart
+"Oh, yeah.<New>
+You know, something like
+that is drawn in one of
+the Aveh picture scrolls."<Close><End of Block>
+<TextBlock 125 w:36 h:2>
+Citan
+"Picture scrolls?"<Close><End of Block>
+<TextBlock 126 w:6 h:1>
+<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 127 w:54 h:4>
+Bart
+"Well,<Delay 5> if you're interested<Delay 10>
+then let's go to the
+planning room<Delay 5>...<New>
+I'll show you what I
+mean<Delay 5>...<Delay 5>since you're my
+special guests."<Close><End of Block>
+<TextBlock 128 w:26 h:3>
+Citan
+"That sounds
+interesting."<Close><End of Block>
+<TextBlock 129 w:2 h:1>
+!<Opcode 2 60><Close><End of Block>
+<TextBlock 130 w:48 h:3>
+Maison
+"You do not like my tea,<Delay 10>
+Master Fei?"<Close><End of Block>
+<TextBlock 131 w:0 h:1>
+<Close><End of Block>

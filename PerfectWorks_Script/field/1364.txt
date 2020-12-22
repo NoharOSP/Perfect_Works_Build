@@ -1,0 +1,414 @@
+<TextBlock 1 w:12 h:2>
+Citan
+"! <New>
+Elly!"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Citan
+"Blood...?<New>
+It certainly is covered
+in blood... And this...
+scorching heat... No,
+maybe it is radiation?<New>
+Perhaps it is an emergency
+disinfection system...
+These marks are evidence
+that it has been used..."<Close><End of Block>
+<TextBlock 3 w:12 h:2>
+Citan
+"! <New>
+Elly!"<Close><End of Block>
+<TextBlock 4 w:26 h:2>
+Citan
+"What the..."<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Citan
+"This girl appears to be an
+artificial lifeform created
+inside the reactor.<New>
+She was probably assembled
+in the reactor by using
+that series in the database
+in the control room...<New>
+Her body is most likely..."<Close><End of Block>
+<TextBlock 6 w:40 h:2>
+Citan
+"Wait right there!!"<Opcode 2 16><Close><End of Block>
+<TextBlock 7 w:34 h:4>
+Citan
+"Then, even their
+conversation was
+planned..."<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Citan
+"...I believe, we have
+inadvertently helped
+you out."<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+Citan
+"What do you plan to
+do with this girl?
+What is she?"<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Citan
+"'Salvation'?<Delay 45>
+Nice choice of words...<New>
+But coming from you, I
+only smell the taint
+of blood within that
+word."<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Citan
+"Be careful!!
+The Elements may look
+harmless!<New>
+But underestimate them 
+and it will cost you
+dearly!"<Close><End of Block>
+<TextBlock 12 w:38 h:4>
+Elly
+"...Blood...<Delay 63>
+covered in blood...<Delay 45>
+my...<Delay 45>blood...<New>
+There was no pain.
+Just...coldness
+and sadness..."<Close><End of Block>
+<TextBlock 13 w:36 h:4>
+Elly
+"She has been here
+all by herself for
+all this time..."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Elly
+"Be careful!!
+The Elements are Ramsus'
+elite fighters...<New>
+They look harmless but
+they're really dangerous."<Close><End of Block>
+<TextBlock 15 w:44 h:3>
+Elly
+"No, that's how they
+are normally!<New>
+That's what makes them
+REALLY dangerous!!"<Close><End of Block>
+<TextBlock 16 w:40 h:4>
+Elly
+"No!
+We can't allow them
+to take this child!"<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Bart
+"Citan...what is...this?
+Not even rogue clusters 
+can regenerate this fast."<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Bart
+"What the...
+Don't go mouthing off!
+Get outta my way!"<Close><End of Block>
+<TextBlock 19 w:30 h:4>
+Bart
+"...<Delay 45>
+Are you serious
+about this..."<Close><End of Block>
+<TextBlock 20 w:40 h:3>
+Billy
+"Citan...<Delay 10>
+This girl...?<New>
+How did she suddenly
+change into human
+form...?"<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Billy
+"Who in heavens are you!?
+We don't have time to
+waste talking to you!"<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Billy
+"...<Delay 45>Do you guys just have
+too much free time on
+your hands?"<Close><End of Block>
+<TextBlock 23 w:22 h:2>
+Billy
+"Bishop..."<Close><End of Block>
+<TextBlock 24 w:52 h:4>
+Billy
+"An honorable person?
+I certainly do not think
+you are honorable anymore.<New>
+Eliminating the 'Ethos'
+and any surface-dwelling
+humans who don't agree
+with your own will..."<Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Billy
+"...There is something
+very wrong with that.<New>
+Salvation by faith is
+something that everyone
+should have an equal
+opportunity at attaining."<Close><End of Block>
+<TextBlock 26 w:10 h:2>
+Billy
+"..."<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Billy
+"Salvation or not...
+What are you planning on
+doing with this girl!?<New>
+I just know your deeds
+are not honorable.<New>
+Bishop...I am sorry to
+say this but...I cannot
+be a part of what
+you are intent on doing."<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Rico
+"What's with this thing?
+Us demi-humans can't even
+heal at that speed."<Close><End of Block>
+<TextBlock 29 w:50 h:3>
+Rico
+"You're don't know what
+you're sayin'...<New>
+You really wanna fight?
+I'd prefer it if you'd
+just move outta the way."<Close><End of Block>
+<TextBlock 30 w:44 h:4>
+Rico
+"...<Delay 45>If you're gonna be
+talking for a while,
+lemme go on ahead."<Close><End of Block>
+<TextBlock 31 w:48 h:3>
+<Chu-Chu>
+"What is it? What is it?<New>
+What's wrong with this
+girl? How come she's
+ready so soon?"<Close><End of Block>
+<TextBlock 32 w:32 h:3>
+<Chu-Chu>
+"I think they're
+insulting us..."<Close><End of Block>
+<TextBlock 33 w:36 h:3>
+<Chu-Chu>
+"How dare you say
+that chu a lady!!<New>
+We don't have the
+time chu play now!
+Out of the way!"<Close><End of Block>
+<TextBlock 34 w:36 h:2>
+<Chu-Chu>
+"...Can I go now?"<Close><End of Block>
+<TextBlock 35 w:48 h:4>
+Stone
+"...Constructed from
+autonomic machines
+on a molecular scale...<New>
+In other words, a colony
+of nanomachines."<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+Stone
+"I'll be taking that
+nanomachine colony
+with me, thank you...<New>
+That is the existence, or
+key -factor-, which god
+will guide us by to free
+humanity from its yoke."<Close><End of Block>
+<TextBlock 37 w:52 h:2>
+Stone
+"So, if you don't mind..."<Close><End of Block>
+<TextBlock 38 w:54 h:4>
+Stone
+"Ah, Brother Billy.
+You're here too.
+This makes matters simple.<New>
+I know you'll understand...
+This nanomachine colony 
+needs to be in the hands 
+of an honorable person.<New>
+It's destined to be the
+'salvation of humanity'."<Close><End of Block>
+<TextBlock 39 w:50 h:4>
+Stone
+"What is the problem with
+eliminating those people
+not fit for 'salvation'?<New>
+Why, isn't our very faith
+based on the precept that
+'only the chosen will be
+saved'?"<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+Stone
+"Are you saying that you
+can save all of humankind?<New>
+If Krelian uses the
+nanomachine colony, at
+least we can save some
+chosen people.<New>
+But you don't understand
+how to utilize this.
+You can't save anyone.<New>
+Are you willing to take
+the responsibility for
+the loss you will cause
+humankind?"<Close><End of Block>
+<TextBlock 41 w:50 h:4>
+Stone
+"My job now is to bring
+this nanomachine colony
+back to Krelian.<New>
+You see, unlike the
+'Ethos', our aim is not
+the ancient weapons that
+lay in the city ruins.<New>
+I don't think we conflict
+with your interests."<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Stone
+"I see that I couldn't
+make you understand...<Delay 32>
+Then it cannot be helped...<New>
+I don't have the time to
+convince you further.
+Please excuse me, as I
+must hurry on ahead."<Close><End of Block>
+<TextBlock 43 w:48 h:3>
+Stone
+"Sorry to have kept you 
+two ladies waiting...<New>
+It's time for you to do
+your job, Elements."<Close><End of Block>
+<TextBlock 44 w:38 h:4>
+Stone
+"Tolone! Seraphita!
+Buy me as much time
+as possible!"<Close><End of Block>
+<TextBlock 45 w:30 h:4>
+Stone
+"Thanks.
+I'm hopeless
+with machines."<Close><End of Block>
+<TextBlock 46 w:50 h:3>
+Stone
+"Actually, Krelian hasn't
+told me very much.<New>
+Nothing apart from the
+'Salvation of Humankind'.<New>
+Anyway, even if I knew
+I wouldn't tell you..."<Close><End of Block>
+<TextBlock 47 w:16 h:1>
+...Hmph!<Close><End of Block>
+<TextBlock 48 w:36 h:4>
+Tolone
+"We know, we know!
+Stop ordering us
+around, already!"<Close><End of Block>
+<TextBlock 49 w:40 h:4>
+Tolone
+"Yeah, right.
+It's only because it
+is on Ramsus orders.<New>
+Jeez...!
+Now he's got us
+protecting this
+garbage."<Close><End of Block>
+<TextBlock 50 w:50 h:4>
+Tolone
+"Well, that's how it is
+folks...It'll help us if
+you'd hurry up and lose."<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Tolone
+"Well, excu<~>se us!
+But we can't let you go
+just yet...<New>
+We really don't care much
+for Krelian, but if we do
+a crappy job it'll make
+Ramsus look bad.<New>
+But, thanks to you fools
+reviving her, we can get
+this mission over with
+sooner than we thought."<Close><End of Block>
+<TextBlock 52 w:52 h:4>
+Tolone
+"Oh Sera...
+Don't tell them that!<New>
+Just as I was building
+things up to make us sound
+psychologically superior
+to them! Damn..."<Close><End of Block>
+<TextBlock 53 w:52 h:4>
+Tolone
+"That's 'Positronic-photon
+Brain', you idiot!<New>
+'Gin n'tonic Futon'...?
+You make me sound like I'm
+a sleepy drunk!<New>
+(It's already bad enough
+as it is...
+'Positronic-photon Brain
+Cyborg'...<New>
+That's bound to get us
+into trouble with the
+makers of 'Star Trech'!)"<Close><End of Block>
+<TextBlock 54 w:32 h:2>
+Tolone
+"Uh oh!! Sorry."<Close><End of Block>
+<TextBlock 55 w:26 h:2>
+Tolone
+"That's it!!"<Close><End of Block>
+<TextBlock 56 w:36 h:4>
+Tolone
+"Seraphita!!
+Enough already!<New>
+We've done the job
+that was required
+of us.
+Let's pull out!!"<Close><End of Block>
+<TextBlock 57 w:52 h:4>
+Seraphita
+"Hey, Tolone. Let's hurry
+up and get this over with
+so we can get outta here!<New>
+I don't like dark places!"<Close><End of Block>
+<TextBlock 58 w:44 h:3>
+Seraphita
+"Hey! Tolone!
+It's so cute<Delay 16>...<New>
+But on second thought,
+it's creepy!!"<Close><End of Block>
+<TextBlock 59 w:52 h:4>
+Seraphita
+"Yeah, we didn't know how
+to operate that machinery,
+so we were so confused!<New>
+Thank you very much
+for your kind help!"<Close><End of Block>
+<TextBlock 60 w:52 h:4>
+Seraphita
+"What!...But...<New>
+When people do you a
+kindness you should always
+say thank you. That's what
+grandma always said..."<Close><End of Block>
+<TextBlock 61 w:54 h:3>
+Seraphita
+"But, I'm impressed Tolone!
+'Psychologically superior'?<New>
+Your 'Gin n'tonic Futon
+Brain' cyborg inplants
+sure make you smart!"<Close><End of Block>
+<TextBlock 62 w:18 h:2>
+Seraphita
+"Sorry!!"<Close><End of Block>
+<TextBlock 63 w:38 h:4>
+Seraphita
+"...Tolone,
+do we want to be 
+called 'harmless'?"<Close><End of Block>
+<TextBlock 64 w:26 h:4>
+Seraphita
+"A<~>hh!
+Tolone!
+Wait for me!"<Close><Close><End of Block>

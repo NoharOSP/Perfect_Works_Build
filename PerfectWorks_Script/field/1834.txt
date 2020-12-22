@@ -1,0 +1,231 @@
+<TextBlock 1 w:44 h:2>
+Fei
+"I knew it was you..."<Close><End of Block>
+<TextBlock 2 w:18 h:2>
+Elly
+"Fei...?"<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Fei
+"When you came in the
+room just then...<New>
+I was afraid you may have
+forgotten about me and
+everything else..."<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+Elly
+"What do you mean...?"<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Fei
+"I mean...because...
+Elly, you seemed a little
+different than before..."<Close><End of Block>
+<TextBlock 6 w:48 h:2>
+Elly
+"Has my face<Delay 10>...changed?"<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Fei
+"No, that's not it...
+It's more like..."<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Fei
+"I mean your atmosphere or
+impression is different...<Delay 30>
+just a little..."<Close><End of Block>
+<TextBlock 9 w:48 h:3>
+Fei
+"But, I felt something
+familiar...<New>
+I felt the same way when
+I met you for the first
+time...<New>
+Some peculiar feeling
+like we've met before,
+somewhere..."<Close><End of Block>
+<TextBlock 10 w:16 h:2>
+Elly
+"Fei..."<Close><End of Block>
+<TextBlock 11 w:12 h:2>
+Fei
+"Yes?"<Close><End of Block>
+<TextBlock 12 w:44 h:4>
+Elly
+"I don't remember much
+what happened after we
+were shot down..."<Close><End of Block>
+<TextBlock 13 w:46 h:2>
+Fei
+"It's better that way."<Close><End of Block>
+<TextBlock 14 w:54 h:3>
+Elly
+"But I heard someone
+calling my name...<New>
+I felt I was covered with<Delay 10>
+something very warm...<New>
+I remember that clearly..."<Close><End of Block>
+<TextBlock 15 w:10 h:2>
+Fei
+"..."<Close><End of Block>
+<TextBlock 16 w:34 h:2>
+Elly
+"Thank you, Fei."<Close><End of Block>
+<TextBlock 17 w:18 h:2>
+Fei
+"Elly..."<Close><End of Block>
+<TextBlock 18 w:16 h:2>
+Elly
+"Fei..."<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Taura
+"Hey, it's almost time
+for you to come back.<New>
+There's something
+important we need to
+talk to you about."<Close><End of Block>
+<TextBlock 20 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 21 w:28 h:3>
+Fei
+"A,<Delay 5> alright,<Delay 5>
+we're coming!"<Close><End of Block>
+<TextBlock 22 w:30 h:4>
+Fei
+"Well,<Delay 5> Elly,<Delay 5>
+shall we go
+see what's up?"<Close><End of Block>
+<TextBlock 23 w:24 h:2>
+Elly
+"S,<Delay 5> sure..."<Close><End of Block>
+<TextBlock 24 w:52 h:3>
+Citan
+"Are you sure you want to
+go through with this?<New>
+You wanted to live quietly
+away from the battle
+field, did you not?"<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Elly
+"I noticed<Delay 10> myself running
+away from reality...<New>
+At first, I thought
+my situation was
+similar to his.<New>
+I thought Fei would<Delay 10>
+understand my feelings<Delay 5>...<Delay 5>
+I didn't know if my love
+for him was real...<New>
+I might have been desperate
+after losing my mother and
+father..."<Close><End of Block>
+<TextBlock 26 w:18 h:2>
+Citan
+"Elly..."<Close><End of Block>
+<TextBlock 27 w:46 h:3>
+Elly
+"Despite all that<Delay 5>...<Delay 10>
+I may still love him<Delay 5>...<New>
+That's why, I want to
+see what Fei can do<Delay 5>
+and what I can do.<New>
+I want us to be apart
+and think about
+ourselves again."<Close><End of Block>
+<TextBlock 28 w:42 h:3>
+Elly
+"I want to see<Delay 5>...<Delay 10>
+how I really feel<Delay 5>..."<Close><End of Block>
+<TextBlock 29 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 30 w:50 h:3>
+Citan
+"You have changed a lot,
+Elly.<New>
+What happened to you
+in the past three weeks?"<Close><End of Block>
+<TextBlock 31 w:32 h:4>
+Elly
+"Really?<Delay 10>
+I don't think
+I've changed..."<Close><End of Block>
+<TextBlock 32 w:40 h:4>
+Citan
+"Yes, you have.<Delay 10>
+I should say<Delay 10>...
+you have matured<Delay 10>...<New>
+...Like a mother..."<Close><End of Block>
+<TextBlock 33 w:44 h:3>
+Elly
+"Excuse me!<Delay 10>
+I'm only 18 years old.<New>
+I'm nowhere near the
+age of being your
+mother!"<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Citan
+"Sorry.<Delay 10>
+You gave me that
+impression. That is all."<Close><End of Block>
+<TextBlock 35 w:30 h:3>
+Elly
+"Anyway Citan,<Delay 10>
+I'm going now."<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+Citan
+"Alright.<Delay 10>
+I will follow you as soon
+as I finish off here..."<Close><End of Block>
+<TextBlock 37 w:30 h:2>
+Emeralda
+"I,<Delay 10> I go, too."<Close><End of Block>
+<TextBlock 38 w:10 h:1>
+What?<Close><End of Block>
+<TextBlock 39 w:10 h:1>
+I go!<Close><End of Block>
+<TextBlock 40 w:50 h:4>
+Elly
+"Emeralda, I can't take
+anyone else along with me
+for something like this.<New>
+I'll be fine on my own."<Close><End of Block>
+<TextBlock 41 w:44 h:4>
+Emeralda
+"If Elly go, I go too.<Delay 10>
+Emeralda have to go
+with you."<Close><End of Block>
+<TextBlock 42 w:28 h:2>
+Elly
+"Emeralda...?"<Close><End of Block>
+<TextBlock 43 w:34 h:3>
+Emeralda
+"No!
+Emeralda go too!"<Close><End of Block>
+<TextBlock 44 w:52 h:4>
+Citan
+"Why not let her go?<Delay 10>
+I am sure Solaris has a
+hunch about the Limiter.<New>
+They may interfere,<Delay 10> so
+you may feel uneasy going
+it alone.<Delay 10> I think Emeralda
+is cut out for this job."<Close><End of Block>
+<TextBlock 45 w:50 h:4>
+Citan
+(...Besides, she is going
+to want to go no matter
+what.<New>
+Take care of her until I
+can join you,<Delay 10> please?)<Close><End of Block>
+<TextBlock 46 w:46 h:4>
+Elly
+"Okay, you win.<Delay 10>
+Let's help each other, 
+alright?"<Close><End of Block>
+<TextBlock 47 w:38 h:3>
+Emeralda
+"I can do it alone.<Delay 10>
+You just watch."<Close><End of Block>
+<TextBlock 48 w:52 h:3>
+Elly
+"Fei, where are you going?
+Taura is calling you!"<Close><End of Block>
+<TextBlock 49 w:0 h:1>
+<Close><End of Block>

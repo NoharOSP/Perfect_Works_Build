@@ -1,0 +1,332 @@
+<TextBlock 1 w:42 h:3>
+It's enough work just
+to change those fuses
+here and there...<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:42 h:3>
+More than a specified
+output isn't supposed
+to be generated.<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:46 h:2>
+Aww man!<Delay 10> The levitron's
+coil is also burnt...<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:48 h:4>
+The coil'll break if the
+toroid is cooled down
+suddenly...<Delay 60> It's big,
+but it's delicate...<Opcode 2 60><Close><End of Block>
+<TextBlock 5 w:40 h:2>
+The electric circuit
+is optimized and...<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:42 h:4>
+The levitron's not in
+a good mood today.<Delay 10>
+The plasma cools down
+too quickly...<Opcode 2 60><Close><End of Block>
+<TextBlock 7 w:40 h:1>
+Is the fuse alright?<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:48 h:5>
+It's almost time<Delay 5>...<Delay 10>
+We may not be able to do
+much on the front line,
+but we'll give you the
+best support we can!<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+There's a new gadget
+in the aft...!<New>
+I'm lucky to be able
+to work on something
+that awesome at my
+age... <Delay 10>Hehehe.<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Don't worry.
+It's going great!<Close><End of Block>
+<TextBlock 11 w:32 h:3>
+You're going to
+some ghost ship?<Delay 10>
+Be careful, now!<Close><End of Block>
+<TextBlock 12 w:30 h:4>
+Elly
+"Chief...
+I'm very sorry.<Delay 10>
+I..."<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+That's alright.<Delay 10>
+Everybody makes mistakes.<New>
+I don't find it a problem
+with young people making
+mistakes!<Close><End of Block>
+<TextBlock 14 w:56 h:2>
+(But, if you do it again,
+you're gonna be in deep...!)<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+I've been working on
+these engines for many
+long years...<New>
+But I can't figure out
+why high energy plasma
+is produced in the
+Slave Generators...<New>
+Actually nobody knows the
+generators' mechanism of
+either ships or Gears.<New>
+But perhaps that Solaris
+may know what Slave
+Generators really are...<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Good, good!!<Delay 10> It's better
+than before, since we can
+now use water for cooling.<New>
+But because of that,
+there's more labor needed.<Close><End of Block>
+<TextBlock 17 w:50 h:3>
+Young master<Delay 5>...<Delay 10>doesn't
+this place remind you of
+the day of that accident?<Close><End of Block>
+<TextBlock 18 w:52 h:3>
+Well the Yggdrasil sank...<Delay 10>
+But fortunately we were
+able to find this one...<New>
+But whenever I work on
+this engine I get this
+mysterious feeling...<New>
+Like this ship is somehow
+'related' to the previous
+one...<Delay 10> Strange, huh!?<Close><End of Block>
+<TextBlock 19 w:48 h:3>
+You failed...<Delay 10>
+Well, everyone has their
+ups and downs in life.<Close><End of Block>
+<TextBlock 20 w:52 h:3>
+Young master, forget about
+the past... What's more
+important is the future.<New>
+Today's battle isn't over
+yet.<Close><End of Block>
+<TextBlock 21 w:46 h:4>
+A mechanic's greatest
+moment is the night
+before a mission!<New>
+Tomorrow is that once
+in a life time day when
+this ship can show what
+it's really made of...<New>
+I'm gonna make you
+beautiful, old girl!<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Marguerite has returned
+and it sounds like it's
+time to settle the score.<New>
+Engine!<Delay 5> I'm counting on
+you!<Delay 10> When it's over, you
+and I can have plenty of
+rest...<Delay 10> Good rest...<Close><End of Block>
+<TextBlock 23 w:44 h:3>
+Good job!<Delay 10>
+We saved Marguerite!<New>
+I hear some guy called
+Fei, a martial artist,
+helped us out there.<Close><End of Block>
+<TextBlock 24 w:46 h:4>
+Y, you, quit loafing
+around here and go
+concentrate on training
+like that guy Fei!!<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Here we go!
+This time you're going
+to save Marguerite!<New>
+I gave you enough fuel
+...so let's go get her!<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Phew, finally I can let
+her rest. Take plenty of
+rest while you still can!<Close><End of Block>
+<TextBlock 27 w:52 h:3>
+Nobody touches the machine
+here except myself.
+Even the young master!<Close><End of Block>
+<TextBlock 28 w:44 h:1>
+Uhh... Young master...<Close><End of Block>
+<TextBlock 29 w:30 h:2>
+Whoa whoa!!
+That<Delay 10> was close!<Opcode 2 30><Close><End of Block>
+<TextBlock 30 w:36 h:1>
+Engine Full Power!<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Guys from Shevat installed
+tons of stuff for me...<Delay 10>
+so it's much more fun to
+work on!<Close><End of Block>
+<TextBlock 32 w:28 h:1>
+See you later!<Close><End of Block>
+<TextBlock 33 w:60 h:3>
+...<Delay 10>
+You're alright, aren't you?<Delay 10>
+You're the normal Elly, right?<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+Awh shoot!!<Delay 10>
+I must restore it again
+because of that girl!!<Close><End of Block>
+<TextBlock 35 w:56 h:3>
+Phew...
+It's somehow moving alright.
+Now, I've got to restore it.<Close><End of Block>
+<TextBlock 36 w:52 h:3>
+Young master<Delay 5>...<Delay 5>do you
+think the sunken Yggdrasil
+is resting in peace now?<Close><End of Block>
+<TextBlock 37 w:54 h:3>
+I wonder if the engine of
+our old sunken Yggdrasil is
+weeping in the deep sand...<Close><End of Block>
+<TextBlock 38 w:48 h:4>
+No, she's resting there.
+We ought to believe it
+must be the best place
+for her,<Delay 10> otherwise...<Close><End of Block>
+<TextBlock 39 w:60 h:3>
+This Yggdrasil is still here.<Delay 10>
+As long as it's in good shape,
+we can do many more rematches!<Close><End of Block>
+<TextBlock 40 w:44 h:4>
+That old man is all
+fired up with zeal...<Delay 10>
+I sure hope his blood
+vessels don't burst...<Close><End of Block>
+<TextBlock 41 w:44 h:4>
+No need to worry!<Delay 10>
+His blood vessels are
+made of duralumin and
+oil flows inside them.<Close><End of Block>
+<TextBlock 42 w:40 h:2>
+Finally, the engine 
+can take a rest.<Close><End of Block>
+<TextBlock 43 w:58 h:3>
+When we get to Nisan, we can
+give the engine a rest again.<New>
+See the big donut-shape
+running along the six poles
+standing underneath here?<New>
+The plasma generated inside
+there is the power source
+for the ship.<New>
+The same goes for the Gears.<Close><End of Block>
+<TextBlock 44 w:34 h:2>
+The old man's in
+a good old mood!!<Close><End of Block>
+<TextBlock 45 w:38 h:2>
+You shouldn't go up
+there. Trust me.<Close><End of Block>
+<TextBlock 46 w:50 h:3>
+He's always like that.
+Don't take it personally.
+He's not a bad person.<Close><End of Block>
+<TextBlock 47 w:50 h:3>
+Once again, final checks!<Delay 10>
+Every second counts!<Delay 5>
+The young master forever!<Close><End of Block>
+<TextBlock 48 w:54 h:3>
+When we had engine trouble
+a long time ago, the young
+master jumped in to fix it.<New>
+Sigurd tried to help the
+young master and they both
+ended up injuring one eye.<Close><End of Block>
+<TextBlock 49 w:52 h:3>
+We are proud of the young
+master, but<Delay 5>...<Delay 5>he sometimes
+rushes into things.<New>
+The chief thinks it's
+all his own fault.<Close><End of Block>
+<TextBlock 50 w:48 h:2>
+The chief has a weakness
+for young women.<Close><End of Block>
+<TextBlock 51 w:54 h:3>
+W, what! It's expected for
+a man to be kind to women, 
+isn't it!?<Close><End of Block>
+<TextBlock 52 w:36 h:3>
+(Grrr!!<Delay 5>
+But you're cold to
+your own wife!!)<Close><End of Block>
+<TextBlock 53 w:36 h:1>
+Engine Full Power!<Close><End of Block>
+<TextBlock 54 w:58 h:3>
+I asked the guys from Shevat
+about it...<Delay 10> But it sounds
+like they don't even know.<New>
+They told me nobody knows how
+their country flies anymore.<Close><End of Block>
+<TextBlock 55 w:56 h:3>
+A machine that's kept moving
+since ancient times, without
+any maintenance, eh...<New>
+I must uncover the secret of
+its mechanism.<Close><End of Block>
+<TextBlock 56 w:22 h:1>
+Be careful!<Close><End of Block>
+<TextBlock 57 w:36 h:3>
+!!<Delay 10>
+Please don't break
+it this time.<Close><End of Block>
+<TextBlock 58 w:46 h:3>
+How could he figure out
+this complicated device
+so easily...?<New>
+Generally, more than a
+specified output can't
+be produced.<New>
+What kind of hypnosis
+was he under?<Close><End of Block>
+<TextBlock 59 w:44 h:3>
+The Thames sounds like
+a fun place to visit.<Delay 10>
+I'm gonna sneak out...<Close><End of Block>
+<TextBlock 60 w:48 h:3>
+What the hell are you
+sneaking out for!?<Delay 10> Wait
+till you're independent!<Close><End of Block>
+<TextBlock 61 w:34 h:1>
+Man,<Delay 10> he heard me!<Close><End of Block>
+<TextBlock 62 w:22 h:1>
+Work,<Delay 10> work!<Close><End of Block>
+<TextBlock 63 w:46 h:3>
+She'll carry on the
+will and mission of its
+sister ship, proudly!!<Close><End of Block>
+<TextBlock 64 w:50 h:3>
+Sorry, but I really don't
+want to talk about it.<Delay 10>
+Please leave me alone...<Close><End of Block>
+<TextBlock 65 w:50 h:3>
+Oh, young master, you're
+alright!<Delay 10> What's your plan
+from now on?<Close><End of Block>
+<TextBlock 66 w:40 h:3>
+Shoot!<Delay 10> I found a bug
+at a time like this!
+What should I do<Delay 5>...<New>
+I wonder if I'll be
+able to fix it by
+tomorrow...<Close><End of Block>
+<TextBlock 67 w:42 h:1>
+It's falling apart...<Close><End of Block>
+<TextBlock 68 w:46 h:2>
+We're almost at Nisan!!<Delay 10>
+Come on, engine!<Close><End of Block>
+<TextBlock 69 w:52 h:1>
+Engine's doing fantastic!!<Close><End of Block>
+<TextBlock 70 w:52 h:2>
+You shouldn't go up there.<Close>
+Trust me!<Close><End of Block>
+<TextBlock 71 w:56 h:4>
+He yelled at you, didn't he?
+He gets mad at us, too.
+He only opens his heart to
+his dog, Martle.<Close><End of Block>
+<TextBlock 72 w:28 h:3>
+Amateurs don't
+belong here.<Delay 10>
+So get lost!<Close><End of Block>
+<TextBlock 73 w:0 h:1>
+<Close><End of Block>

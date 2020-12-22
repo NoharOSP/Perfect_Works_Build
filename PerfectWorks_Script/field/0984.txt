@@ -1,0 +1,48 @@
+<TextBlock 1 w:4 h:1>
+!!<Opcode 2 32><Close><End of Block>
+<TextBlock 2 w:30 h:2>
+That was pretty
+interesting.<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+But dropping a warship
+on me is cheating...
+Take it back!<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Bart
+"Don't over do it, Sig...<Delay 31>
+Trying to make our ship
+'fly'...!?<New>
+When we get back it'll 
+take a month to get this 
+heap of junk working 
+again."<Close><End of Block>
+<TextBlock 5 w:32 h:4>
+Bart
+"...Shees!!<Delay 45>
+What was that
+monster anyway?"<Close><End of Block>
+<TextBlock 6 w:34 h:3>
+Bart
+"Sig!
+What's going on?"<Close><End of Block>
+<TextBlock 7 w:36 h:3>
+Bart
+"Sig!! Maison!!...<Delay 32>
+Uah..."<Opcode 2 24><Close><End of Block>
+<TextBlock 8 w:30 h:3>
+Sigurd
+"Young master! 
+Are you okay!?"<Close><End of Block>
+<TextBlock 9 w:26 h:4>
+Sigurd
+"Ha..ha ha...<Delay 32>
+You seem to
+be okay!"<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Sigurd
+"What...the ship?<Delay 45> 
+The engine should have 
+fallen out, but..."<Close><End of Block>
+<TextBlock 11 w:38 h:2>
+Sigurd
+"What in the hell?"<Opcode 2 45><Close><End of Block>

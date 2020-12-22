@@ -1,0 +1,11 @@
+<TextBlock 1 w:56 h:5>
+Falkon
+"Aim for the flagship
+heading west! <Wait>
+Don't engage the destroyer!
+I'll back off and help out!"<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+Falkon
+"Get away from the
+destroyer! I am going
+to use reactive shots!"<Close><Close><End of Block>

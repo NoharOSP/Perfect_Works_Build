@@ -1,0 +1,12 @@
+<TextBlock 1 w:48 h:2>
+It's probably controlled
+by that adjacent panel.<Close><End of Block>
+<TextBlock 2 w:48 h:2>
+It's probably controlled
+by that adjacent panel.<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+    Down?
+    No<Close><End of Block>
+<TextBlock 4 w:18 h:2>
+    Down?
+    No<Close><Close><End of Block>

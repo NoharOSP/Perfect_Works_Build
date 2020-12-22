@@ -1,0 +1,104 @@
+<TextBlock 1 w:22 h:2>
+Stop it!
+Cut it out!<New>
+Dad!
+Dad!<Close><End of Block>
+<TextBlock 2 w:32 h:3>
+Mom!<Delay 10>
+Help dad! <New>
+Hey, mom!<Delay 10>
+Why aren't you
+helping dad?<New>
+Dad...<Delay 10>
+Dad's gonna die!<Close><End of Block>
+<TextBlock 3 w:38 h:3>
+Grahf came seeking
+the power that
+exists within me.<New>
+To return to his
+own body.<New>
+You understand now,
+don't you<Delay 5>...?<Delay 10>
+Grahf is<Delay 5>...<Delay 20>Lacan.<Close><End of Block>
+<TextBlock 4 w:50 h:5>
+We, his descendants who
+inherited his lingering
+thoughts and memories
+from him, know only too
+well...<New>
+Divided 500 years ago...
+He would became a part
+of us both...<New>
+Lacan became Grahf.
+He destroyed everything
+on the face of the earth.<New>
+He then mastered how
+to possess the bodies
+of others by dwelling
+in their minds.<New>
+He was probably enabled
+to do this after his
+contact with the
+'Existence'.<New>
+The bodies died but
+Lacan's spirit
+continued living by
+possessing others.<New>
+He had come that day
+to return his soul, at
+last, to the perfect
+reincarnation of his
+physical body...<New>
+The body of 'Fei'.<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Father<Delay 10>...<Delay 10>
+fought him.<New>
+But he couldn't
+protect mother or I.<New>
+He pitifully fought
+on while coughing
+up his life blood.<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Grahf made a mockery of
+father and mother would
+not even help him when
+he needed her the most.<New>
+As for their son...
+'He' couldn't take what
+was happening any more...<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+He gave into his feelings
+and released his power.
+And as a result...<Close><End of Block>
+<TextBlock 8 w:30 h:1>
+<Delay 10>...<Delay 10>Mother died.<Close><End of Block>
+<TextBlock 9 w:8 h:1>
+<Opcode 1 255>Mom!<Opcode 2 90><Close><End of Block>
+<TextBlock 10 w:40 h:4>
+And 'he', off-loaded
+the results of his
+actions onto me.<New>
+To avoid taking the
+responsibility for
+killing mother, he
+used me as a shield.<Close><End of Block>
+<TextBlock 11 w:46 h:1>
+<Opcode 14 1>"I <Delay 30>also killed mother."<Close><End of Block>
+<TextBlock 12 w:38 h:4>
+Thanks.
+Pass it back to me.
+I'm playing with
+mother.<Close><End of Block>
+<TextBlock 13 w:28 h:2>
+This is not<Delay 10>...<Delay 10>
+reality!!<Close><End of Block>
+<TextBlock 14 w:28 h:1>
+<Opcode 1 255>It's all lies!<Opcode 2 10><Close><End of Block>
+<TextBlock 15 w:28 h:1>
+<Opcode 1 255>It's all fake!<Opcode 2 10><Close><End of Block>
+<TextBlock 16 w:36 h:1>
+<Opcode 1 255>It's all a trick!!<Opcode 2 10><Close><End of Block>
+<TextBlock 17 w:26 h:3>
+All of it!<Delay 10>
+All of it!<Delay 10>
+All of it...!<Delay 100><Close><End of Block>

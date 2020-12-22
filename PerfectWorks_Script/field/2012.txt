@@ -1,0 +1,13 @@
+<TextBlock 1 w:38 h:4>
+Fei
+"The mapping of
+the inside of Deus
+is now complete.<New>
+Okay!<Delay 20>
+Let's go everyone!"<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+<Opcode 1 255>Do you want to go back?
+    Yes
+    No<Close><End of Block>
+<TextBlock 3 w:20 h:1>
+It's 1006.<Close><End of Block>

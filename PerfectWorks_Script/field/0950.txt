@@ -1,0 +1,30 @@
+<TextBlock 1 w:36 h:2>
+Fei
+"I gotta hurry..."<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Repair Bot
+"I watched you from
+the shadows.
+You're very powerful!<New>
+I've only got the
+same items as before.
+Anything you like?<New>
+    Gear parts
+    Character items
+    Can't trust you
+    Ignore<Close><End of Block>
+<TextBlock 3 w:28 h:3>
+Repair Bot
+"I hope to see
+you again."<Close><End of Block>
+<TextBlock 4 w:28 h:3>
+Repair Bot
+"I hope to see
+you again."<Close><End of Block>
+<TextBlock 5 w:28 h:2>
+Repair Bot
+"How cruel..."<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Fei
+"Looks like the mountain
+peak is right above here!"<Close><Close><End of Block>

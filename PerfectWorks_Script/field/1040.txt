@@ -1,0 +1,737 @@
+<TextBlock 1 w:48 h:3>
+Fei
+"<Delay 5>...<Delay 5>Not here either...<Delay 15>
+Must have left already?"<Close><End of Block>
+<TextBlock 2 w:12 h:2>
+Fei
+"Huh?"<Close><End of Block>
+<TextBlock 3 w:32 h:2>
+Fei
+"...Gears, huh?"<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:16 h:2>
+Fei
+"Whoa!?"<Opcode 2 15><Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Hammer
+"Bro, doesn't it seem like
+there's something missing
+here in D Block?<New>
+Something, or things, that
+you could find elsewhere,
+but can't find here?<New>
+Yeah, yeah?
+Don't you think so, bro?"<Delay 20>
+    ...No, not really
+    Come to think of it<Close><End of Block>
+<TextBlock 6 w:32 h:4>
+Hammer
+"Wha, what? No?
+Not really? Hmm.
+That's strange."<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Hammer
+"Yeah, what's missing are
+item shops, oh, and don't
+forget the weapon shops..."<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Hammer
+"Ya need anything, bro?"<Delay 15>
+    Hammer's items
+    Hammer's accessories<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Hammer
+"It's too expensive
+elsewhere! Yep.<New>
+You know it's gotta be
+'Hammer's Ether Bag'!"<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Hammer
+"It's too expensive
+elsewhere! Yep.<New>
+You know it's gotta be
+'Hammer's Ether Bag'!"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Beastoid man
+"Oh, allow me to introduce
+myself... They call me,
+'Hammer - the Supplier'.<New>
+It's been a long time since
+such a powerful criminal
+has been sent to D Block!<New>
+Heh-heh, so that makes you
+pretty famous in this town.
+In other words, you're the
+center of attention, bro!"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Beastoid man
+"Oh, allow me to introduce
+myself... They call me,
+'Hammer - the Supplier'.<New>
+Actually, it's the second
+time we've met<Delay 5>...<Delay 12>
+The first time, bro, you
+were knocked out cold<Delay 5>..."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Beastoid man
+"Oh, allow me to introduce
+myself... They call me,
+'Hammer - the Supplier'.<New>
+Actually, it's the second
+time we've met<Delay 5>...<Delay 12>
+The first time, bro, you
+were knocked out cold<Delay 5>..."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Beastoid man
+"Oh, allow me to introduce
+myself... They call me,
+'Hammer - the Supplier'.<New>
+Actually, it's the second
+time we've met<Delay 5>...<Delay 12>
+The first time, bro, you
+were knocked out cold<Delay 5>..."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Beastoid man
+"Oh, allow me to introduce
+myself... They call me,
+'Hammer - the Supplier'.<New>
+Actually, it's the second
+time we've met<Delay 5>...<Delay 12>
+The first time, bro, you
+were knocked out cold<Delay 5>..."<Close><End of Block>
+<TextBlock 16 w:24 h:2>
+Beastoid man
+"Ah!?"<Close><End of Block>
+<TextBlock 17 w:46 h:3>
+Beastoid man
+"Hey brother! You, bro!
+<Delay 5>...<Delay 5>Here, over here!"<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Hammer
+"Hey, bro!<New>
+You have that look in your
+eyes as if you're looking
+for something, right?<New>
+I knew it, bro! You're
+looking to buy some items.
+    Not now
+    Whatcha got?<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Hammer
+"That's odd... You don't
+need anything? Well, there
+is always next time, heh!"<Close><End of Block>
+<TextBlock 20 w:38 h:4>
+Hammer
+"I knew it!
+My eyes are as keen
+as a hawk, heh!"<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Hammer
+"So whatcha need, bro?"<Delay 15>
+    Hammer's items
+    Hammer's accessories<Close><End of Block>
+<TextBlock 22 w:44 h:3>
+Hammer
+"It's too expensive
+elsewhere! Yep.<New>
+You know it's gotta be
+'Hammer's Ether Bag'!"<Close><End of Block>
+<TextBlock 23 w:44 h:3>
+Hammer
+"It's too expensive
+elsewhere! Yep.<New>
+You know it's gotta be
+'Hammer's Ether Bag'!"<Close><End of Block>
+<TextBlock 24 w:46 h:2>
+'Hammer - the Supplier'
+"Oh<Delay 5>...<Delay 5>bro."<Opcode 2 15><Close><End of Block>
+<TextBlock 25 w:62 h:5>
+Latina
+"I knew your power was genuine!
+You even took out the Champ.
+It explains why I couldn't
+win against you. <Delay 5>Figures."<Close><End of Block>
+<TextBlock 26 w:54 h:6>
+Latina
+"Youch ouch ouch<Delay 5>...<Delay 15>
+W<Delay 5>, welcome,<Delay 5> Fei.
+That last fight you had
+with me was<Delay 5> good fun,<Delay 5> heh?
+Huh,<Delay 5> you don't remember<Delay 5>...?<New>
+Aww well<Delay 5>...<Delay 5>
+The last bout you fought
+before the finals was <Delay 5>meee.<Delay 5>
+Ouch<Delay 5> ouch ouch<Delay 5>...<Delay 5> Hahahaha,<Delay 5>
+I feel so pathetic...<New>
+I'm looking forward to the
+final round.<Delay 15> I think you
+might actually be able to
+defeat the Champ, Ricardo.<Delay 15>
+It's hurts to say this, but
+do your best for me, too!"<Close><End of Block>
+<TextBlock 27 w:62 h:5>
+Latina
+"Looks like the sewer homicide
+cases have all been wrapped up!
+It was rumored within D Block
+that you were the culprit.<New>
+But, it's good to know that
+we can all put this thing
+behind us...
+I'm glad for you too.<New>
+Oh, and, they removed the
+suspension of the Battling
+Tournament!
+The fruits of your efforts have
+made a lot of people happy!"<Close><End of Block>
+<TextBlock 28 w:48 h:4>
+Latina
+"That explosion incident
+at the tournament really
+surprised me.<New>
+That was no accide<Delay 5>...<Delay 15>
+Ah, never mind<Delay 5>...<Delay 30>
+Are you feeling better?"<Close><End of Block>
+<TextBlock 29 w:44 h:5>
+Latina
+"So you're going to be
+participating in the
+Battling too, huh?<Delay 30>
+Hehe, <Delay 5>good luck!"<Close><End of Block>
+<TextBlock 30 w:54 h:3>
+Latina
+"Welcome to 'Latina's Bar'.<Delay 15>
+Make yourself comfortable!"<Close><End of Block>
+<TextBlock 31 w:54 h:5>
+Latina
+"Oh, Fei, wait a sec.<Delay 15>
+Hammer just went but he
+left a message for you.<New>
+He wants you to meet him at
+the 'Wildcat' bar, in the
+civilian part of the city,
+once you've taken care of
+everything. You got that!?"<Close><End of Block>
+<TextBlock 32 w:56 h:4>
+Mystery woman
+"<Delay 5>...<Delay 5>I finally get to meet
+you. You're Fei, right?<Delay 45>
+<Delay 5>...<Delay 5>And, uh, outta the way!!"<Close><End of Block>
+<TextBlock 33 w:56 h:5>
+Woman called Ms. Cohen
+"You men are hopeless!<Delay 15>
+This is why I didn't want
+to come with you two.<New>
+Huhmm,<Delay 15> allow me to introduce
+myself.<Delay 10> I'm Rue Cohen from
+the 'Imperial Battling
+Committee' in B Block of
+this, the Imperial capital."<Close><End of Block>
+<TextBlock 34 w:42 h:3>
+Committee Member Rue
+"Oh, shush!
+You two keep quiet!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 35 w:48 h:3>
+Committee Member Rue
+"Well then,<Delay 20> hope to talk
+to you again...soon!"<Opcode 2 20><Close><End of Block>
+<TextBlock 36 w:8 h:1>
+ !? <Opcode 2 15><Close><End of Block>
+<TextBlock 37 w:58 h:2>
+Woman's subordinate?
+"Uh, forgive us, Ms. Cohen!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 38 w:52 h:2>
+Subordinate
+"Indeed, we ask too much!"<Opcode 2 20><Close><End of Block>
+<TextBlock 39 w:48 h:2>
+Subordinate
+"Uh, sorry, Ms. Cohen!!"<Opcode 2 20><Close><End of Block>
+<TextBlock 40 w:8 h:1>
+ !? <Opcode 2 15><Close><End of Block>
+<TextBlock 41 w:58 h:2>
+Woman's subordinate?
+"Uh, forgive us, Ms. Cohen!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 42 w:52 h:2>
+Subordinate
+"Indeed, we ask too much!"<Opcode 2 20><Close><End of Block>
+<TextBlock 43 w:48 h:2>
+Subordinate
+"Uh, sorry, Ms. Cohen!!"<Opcode 2 20><Close><End of Block>
+<TextBlock 44 w:50 h:2>
+Tina<Delay 5>...<Delay 5> Latina... <Delay 5>hic...<Delay 5>
+...Gimme<Delay 5> anudder<Delay 5> drink...<Close><End of Block>
+<TextBlock 45 w:60 h:4>
+Latina is lookin' good as
+always.
+She's our block's Venus.
+Don't you think so too?<New>
+And on top of that, she's
+a certified Amazoness<Delay 5>...<Delay 30>
+I wouldn't mind being beaten
+up<Delay 5>...<Delay 5>only if it was by Latina!<Close><End of Block>
+<TextBlock 46 w:52 h:4>
+Oh,<Delay 5> if it isn't<Delay 5>...<Delay 5>you!<Delay 5>
+Hey,<Delay 5> aren't you the
+B<Delay 5>attling Champ!?<New>
+I, is there something I
+can do for you? Please<Delay 5>
+forgive me for any
+disrespect in the past.<New>
+Oh yeah,<Delay 5> by the way, you
+can exchange monster items
+for prizes at the Imperial
+capital's B-Info...<Delay 5> uh<Delay 5>...<New>
+What am I saying!?<Close><End of Block>
+<TextBlock 47 w:56 h:5>
+You look like you're new
+here so I'll give you
+some special advice.<New>
+Around here, if you don't
+work, you're not gonna
+earn your day's keep.
+'If you don't work, you
+don't eat', is how it is!<New>
+That's where prisoners like
+you come into things<Delay 5>...<Delay 10>
+Your job is to clean up the
+sewers.<Delay 10> It's not like there
+aren't any other jobs<Delay 5>...<New>
+Oh yeah, don't get me wrong.<Delay 20>
+When I say cleaning I don't
+mean you use a mop to polish
+the floors, or whatever<Delay 5>...<New>
+Here in D Block,
+'cleaning' is what we
+call exterminating all
+the monsters that live
+down in the sewers.<New>
+As long as you get rid of
+those monsters down there,
+you shouldn't have a problem
+makin' a living around here.<Delay 15>
+The rest is up to you<Delay 5>...<Close><End of Block>
+<TextBlock 48 w:60 h:3>
+By the way,<Delay 5> I'm no prisoner.<Delay 15>
+I'm a freelancing profiteer
+you can find almost anywhere.<New>
+Even if you're not a prisoner,<Delay 5>
+you can always exchange items
+for money here.<Close><End of Block>
+<TextBlock 49 w:62 h:5>
+If you're sent here, you're
+pretty much sentenced for life.<Delay 15>
+...<Delay 5>I'll probably never be able
+to set foot on my homeland
+again<Delay 5>...<Delay 5>sigh...<Close><End of Block>
+<TextBlock 50 w:52 h:3>
+I know you shouldn't drown
+your sorrows in liquor<Delay 5>...<Delay 5>
+I know<Delay 15>...<Delay 5>but I can't stop!<Close><End of Block>
+<TextBlock 51 w:62 h:4>
+Around here, the criminals are
+higher up than the residents<Delay 5>...
+The powerless have no other
+choice but to kneel down.<Close><End of Block>
+<TextBlock 52 w:46 h:6>
+<Delay 5>...<Delay 5>Who were you again?<Delay 15>
+Huh? <Delay 5>...<Delay 5>Battling Champ?
+I have no interest
+in such things.
+By the way, is
+that stuff good?<Close><End of Block>
+<TextBlock 53 w:58 h:4>
+You're an unfamiliar face.<Delay 15>
+But then again, I don't care
+much for remembering each and
+every face I see anyway<Delay 5>...<Close><End of Block>
+<TextBlock 54 w:46 h:4>
+Guard
+"I used to be in charge
+of security in the
+civilian area<Delay 5>...<New>
+But because of a minor
+mistake, they shipped
+me off to look after
+D Block<Delay 5>..."<Close><End of Block>
+<TextBlock 55 w:28 h:4>
+Guard
+"Maybe I'm<Delay 5>...<Delay 15>
+not cut out
+for this job?"<Close><End of Block>
+<TextBlock 56 w:42 h:4>
+Hammer's gone.
+Without him around<Delay 10>...<Delay 15>
+you know,<Delay 5> it's<Delay 5> kinda
+lonely in this bar.<Close><End of Block>
+<TextBlock 57 w:50 h:3>
+I kinda feel like I'm
+gettin' ripped off by
+Hammer.<New>
+Are his items really that
+cheap<Delay 5>...?<Delay 5> Hmm.<Close><End of Block>
+<TextBlock 58 w:52 h:3>
+Fei
+"<Delay 5>...<Delay 5>Could you stop calling
+me 'bro'?<Delay 20> My name is Fei!"<Close><End of Block>
+<TextBlock 59 w:50 h:4>
+'Hammer - the Supplier'
+"<Delay 5>...<Delay 5>What's wrong with it?
+It's not like I'm putting
+you down.<New>
+What, would you prefer
+me to call you 'sir'
+or something?"<Close><End of Block>
+<TextBlock 60 w:52 h:3>
+Fei
+"<Delay 5>...<Delay 5>
+Oh, do whatever you wish."<Close><End of Block>
+<TextBlock 61 w:54 h:4>
+'Hammer - the Supplier'
+"Then it's decided.
+I'll continue to call
+you bro from now on!<New>
+By the way, bro, I hear
+you're really strong.
+Not many get rank A, you
+know! I'm pretty impressed!<New>
+<Delay 5>...<Delay 5>And what's more, bro,
+you seem different from
+the other prisoners."<Close><End of Block>
+<TextBlock 62 w:40 h:4>
+Fei
+"<Delay 5>...<Delay 5>Different, huh?
+Well you don't look
+so normal yourself!"<Close><End of Block>
+<TextBlock 63 w:52 h:4>
+'Hammer - the Supplier'
+"It's not meant to be an
+insult<Delay 5>...<Delay 5> Just a feeling
+I have.<Delay 15> No deep meaning!<New>
+Oh, and if you have any
+problems, talk to me!<Delay 15>
+Since I'm a supplier, I've
+got all the connections!"<Close><End of Block>
+<TextBlock 64 w:48 h:4>
+Fei
+"So you're Hammer<Delay 5>...<New>
+I heard your name from
+the doctor<Delay 5>...<Delay 5>
+But I didn't expect you
+not to be<Delay 5>, errh,<Delay 5> human."<Close><End of Block>
+<TextBlock 65 w:48 h:4>
+'Hammer - the Supplier'
+"That's cruel.
+Humans, beastoids...
+we're all living beings!<New>
+But of course we do
+look different on
+the outside though."<Close><End of Block>
+<TextBlock 66 w:48 h:4>
+Fei
+"I, I'm sorry.
+You're the guy who saved
+me and all I do is<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 67 w:54 h:4>
+'Hammer - the Supplier'
+"Oh, uh, it's okay.<Delay 15>
+Oh yes, about the results
+of your Baptism!<New>
+Awesome!<Delay 5> They say you took
+down that despicable Vargas
+guy like he was nothing.
+Now that's a big deal!<New>
+It even makes me feel good!<Delay 15>
+But he tends to be the type
+to hold a grudge so<Delay 5>...<Delay 5>
+you had better be careful!"<Close><End of Block>
+<TextBlock 68 w:54 h:4>
+'Hammer - the Supplier'
+"I know this is all sudden
+and all but, I'm gonna call
+you 'bro' from now on!"<Close><End of Block>
+<TextBlock 69 w:48 h:4>
+Fei
+"Wait a minute!
+What's this 'bro' thing?<Delay 20>
+My name is Fei."<Close><End of Block>
+<TextBlock 70 w:50 h:4>
+'Hammer - the Supplier'
+"What's wrong with it?
+You don't wanna be called
+'bro' that badly?"<Close><End of Block>
+<TextBlock 71 w:34 h:3>
+Fei
+"It's not that I
+don't like it<Delay 5>..."<Close><End of Block>
+<TextBlock 72 w:52 h:4>
+'Hammer - the Supplier'
+"Well, then it's settled!<Delay 20>
+Oh, and if you have any
+problems, come talk to me.<New>
+Since I am a supplier,
+I've got all the right
+connections!<New>
+So whenever your in a jam,
+Hammer, 'the Supplier',
+will do whatever he can!"<Close><End of Block>
+<TextBlock 73 w:50 h:4>
+Fei
+"Oh, so you're Hammer<Delay 5>...<Delay 5>
+Boy, do you look strange!
+What's with the costume?"<Close><End of Block>
+<TextBlock 74 w:50 h:4>
+'Hammer - the Supplier'
+"Costume<Delay 5>...?<Delay 20> Lay off bro,
+I'm a beastoid! That's
+kinda rude, ya know."<Close><End of Block>
+<TextBlock 75 w:52 h:4>
+Fei
+"Huh? Oh, I'm sorry.
+<Delay 5>...<Delay 5>A beastoid, huh?
+So you're not human then?"<Close><End of Block>
+<TextBlock 76 w:54 h:4>
+'Hammer - the Supplier'
+"Anyway, about that
+Baptism thing...<New>
+Don't you feel tricked when
+regardless of whether you
+defeat one or two people,
+you're given the same rank?<New>
+I heard you were injured
+when you went through it...
+That means we have yet to
+see your full potential!"<Close><End of Block>
+<TextBlock 77 w:32 h:4>
+Fei
+"<Delay 5>...<Delay 5>Who knows?
+It's not as easy
+as you think<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 78 w:54 h:4>
+'Hammer - the Supplier'
+"You seem kinda down, bro.
+It'll only make life harder
+if you be like that!"<Close><End of Block>
+<TextBlock 79 w:44 h:4>
+Fei
+"<Delay 5>...<Delay 5>Didn't I tell you?
+The name's Fei.<Delay 15>
+Don't call me 'bro'!"<Close><End of Block>
+<TextBlock 80 w:48 h:4>
+'Hammer - the Supplier'
+"Don't get all mad, bro.
+Hammer's just tryin' to
+help, you know."<Close><End of Block>
+<TextBlock 81 w:48 h:4>
+Fei
+"<Delay 5>...<Delay 5>Sorry. So much is
+happening at once that
+I'm becoming irritated."<Close><End of Block>
+<TextBlock 82 w:50 h:3>
+'Hammer - the Supplier'
+"<Delay 5>...<Delay 5>Umm, you don't<Delay 5>...<Delay 5>want
+me to call you<Delay 5>...<Delay 5>'bro'?"<Close><End of Block>
+<TextBlock 83 w:44 h:4>
+Fei
+"Hah<Delay 5>...<Delay 5>sure, why not.<Delay 5>
+Call me what you want,
+<Delay 5>...<Delay 5>I won't get mad."<Close><End of Block>
+<TextBlock 84 w:52 h:4>
+'Hammer - the Supplier'
+"<Delay 5>...<Delay 5>Oh good!<Delay 15>
+And bro, if you have any
+problems, come talk to me!<New>
+I promise to do whatever I
+can, or else my name isn't
+'Hammer - the Supplier'.<New>
+And although I may look
+like this, I am still a
+supplier, so I've got all
+the right connections!"<Close><End of Block>
+<TextBlock 85 w:46 h:4>
+Fei
+"<Delay 5>...<Delay 5>Supplier?<Delay 15> If you're
+here, then that means
+you're a prisoner too?"<Close><End of Block>
+<TextBlock 86 w:54 h:4>
+'Hammer - the Supplier'
+"Heh, I slipped up and got
+caught, OK!<Delay 5> ...<Delay 20> By the way,
+how are your wounds?"<Close><End of Block>
+<TextBlock 87 w:52 h:3>
+Fei
+"Huh?
+Oh, fine thanks to you...<New>
+Oh yeah, I haven't thanked
+you yet... Sorry I caused
+you so much trouble<Delay 5>..."<Close><End of Block>
+<TextBlock 88 w:52 h:4>
+'Hammer - the Supplier'
+"You don't have to thank
+me! Just to let you know,
+I'm also rank D!<New>
+But then again, how could
+a supplier like me beat
+Battlers like them! That's
+how it goes, heh, bro!?"<Close><End of Block>
+<TextBlock 89 w:52 h:4>
+Fei
+"What's with this 'bro'?<Delay 15>
+My name is Fei. Could you
+stop calling me 'bro'<Delay 5>...?"<Close><End of Block>
+<TextBlock 90 w:52 h:4>
+'Hammer - the Supplier'
+"C'mon. We're both D rank,
+right? Let's be friends!
+Pleeeze!"<Close><End of Block>
+<TextBlock 91 w:34 h:3>
+Fei
+"<Delay 5>...<Delay 5>
+Oh, do whatever!"<Close><End of Block>
+<TextBlock 92 w:52 h:4>
+'Hammer - the Supplier'
+"Oh wait! Bro!<Delay 20> If you've
+got any problems, come
+and talk to me!<New>
+There's nothing I don't
+know about this D block!
+And I am a supplier, so
+I've got the connections!"<Close><End of Block>
+<TextBlock 93 w:52 h:4>
+Fei
+"<Delay 5>...<Delay 5>Imperial Battling
+Committee?<Delay 15>
+What do you want with me?"<Close><End of Block>
+<TextBlock 94 w:56 h:4>
+Committee Member Rue
+"<Delay 5>...<Delay 5>I'll cut to the point.
+We want you to participate
+in the Battling tournament."<Close><End of Block>
+<TextBlock 95 w:28 h:2>
+Fei
+"<Delay 5>...<Delay 5>Battling?"<Close><End of Block>
+<TextBlock 96 w:56 h:6>
+Committee Member Rue
+"It's a recreational sport,
+where Gear fights against
+Gear, or even Gear fights
+against monster depending
+on the program.<New>
+Currently, there are no
+regulations for eligibility.<Delay 10>
+And we, the committee,
+rarely interact with the
+participants directly.<Delay 10>
+You should be honored.<New>
+You are in luck that your
+little incident with the
+'Champ' caught our
+attention so soon.<New>
+<Delay 5>...<Delay 5>So how about it?<Delay 25>
+Better a Battler than 
+a prisoner<Delay 5>...<Delay 10>
+It's not a bad deal 
+at all."<Close><End of Block>
+<TextBlock 97 w:54 h:4>
+Fei
+"<Delay 5>...<Delay 5>I'm sorry, but I
+don't like Gears.<New>
+I have no interest in such
+recreational tournaments.<New>
+And above all, I don't even
+have a Gear, so even if I
+wanted to participate, I
+can't. You ask too much!"<Close><End of Block>
+<TextBlock 98 w:44 h:4>
+Committee Member Rue
+"Hmm,<Delay 10> forgive me<Delay 5>...<Delay 5>
+But do not worry about
+the latter problem.<New>
+The Gear you require
+for the Battling will
+be provided by the
+committee.<New>
+<Delay 5>...<Delay 5>So, will you
+participate then?"<Close><End of Block>
+<TextBlock 99 w:42 h:3>
+Fei
+"Don't make me repeat
+myself.<New>
+I hate Gears and I'm
+not interested in
+that kind of stuff!"<Close><End of Block>
+<TextBlock 100 w:60 h:5>
+Committee Member Rue
+"If you won't change your
+mind then you'll<Delay 5>...<Delay 15>
+Well, you're still new here.
+I'll give you more time.<New>
+Perhaps we may have been
+too pushy<Delay 5>...<Delay 20> But please,
+think about this offer
+seriously. I'll be looking
+forward to a favorable reply."<Close><End of Block>
+<TextBlock 101 w:28 h:2>
+Fei
+"Ha, Hammer!?"<Close><End of Block>
+<TextBlock 102 w:42 h:3>
+Hammer
+"Why did you do that,
+bro?"<Close><End of Block>
+<TextBlock 103 w:30 h:4>
+Fei
+"Wait, Hammer.
+What are you 
+talking about?"<Close><End of Block>
+<TextBlock 104 w:52 h:4>
+Hammer
+"I overheard it all with
+my own ears! Why did you
+reject their invitation?<New>
+It's truly a rare occasion
+for the committee to
+personally make contact!<New>
+It's still not too late!
+Do it, bro. We can still
+make it, <Delay 10>right?<Delay 15> You'll be
+a Battler...<Delay 5> A Battler!!"<Close><End of Block>
+<TextBlock 105 w:48 h:4>
+Fei
+"Oh, that<Delay 5>...<Delay 15>
+If you overheard, you
+should already know.<New>
+I don't like fighting.
+And Gears, well<Delay 5>...!<Delay 20>
+Moreover, there is no
+reason for me to do it."<Close><End of Block>
+<TextBlock 106 w:50 h:4>
+Hammer
+"If you become a Battler,
+you can leave the prison
+and live in luxury!<New>
+Power is everything here!
+The powerless<Delay 5>...<Delay 5>the weak
+are just oppressed!!<Delay 20>
+So c'mon,<Delay 5> give it a try!"<Close><End of Block>
+<TextBlock 107 w:32 h:2>
+Fei
+"<Delay 5>...<Delay 5><New>
+<Delay 5>...<Delay 5>Is that all?"<Close><End of Block>
+<TextBlock 108 w:36 h:3>
+Hammer
+"Huh? 
+What do you mean?"<Close><End of Block>
+<TextBlock 109 w:36 h:2>
+Fei
+"<Delay 5>...<Delay 5>Are you done?"<Close><End of Block>
+<TextBlock 110 w:20 h:2>
+Hammer
+"<Delay 5>...<Delay 5>Done?"<Close><End of Block>
+<TextBlock 111 w:52 h:4>
+Fei
+"You've said enough<Delay 5>...<Delay 15>
+Now could you move
+out of the way?<New>
+Hammer, sorry, but I doubt
+my feelings will change<Delay 5>...<Delay 30>
+Fighting and Gears, I hate
+them both. So too bad!"<Close><Close><End of Block>

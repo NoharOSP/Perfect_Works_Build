@@ -1,0 +1,396 @@
+<TextBlock 1 w:40 h:2>
+Etone? I saw him
+earlier but he left.<Close><End of Block>
+<TextBlock 2 w:34 h:3>
+Margie
+"Really? 
+Where'd they go?"<Close><End of Block>
+<TextBlock 3 w:30 h:1>
+I don't know...<Close><End of Block>
+<TextBlock 4 w:28 h:3>
+Bart
+"What're you 
+doing Margie?"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Margie
+"Hi, Bart. I just heard
+from Citan. I also was
+looking for that Etone.<New>
+This person's seen that
+Etone before."<Close><End of Block>
+<TextBlock 6 w:18 h:2>
+Bart
+"Really?"<Close><End of Block>
+<TextBlock 7 w:42 h:1>
+Hey, quit resistin'!!<Close><End of Block>
+<TextBlock 8 w:14 h:3>
+Elly
+"Bart!!
+Look!!"<Close><End of Block>
+<TextBlock 9 w:48 h:2>
+If you wouldn't resist I
+could sell you for more.<Close><End of Block>
+<TextBlock 10 w:42 h:2>
+Elly
+"What are you doing?"<Close><End of Block>
+<TextBlock 11 w:24 h:2>
+What the?
+Who are you?<Close><End of Block>
+<TextBlock 12 w:38 h:3>
+Instead of the brat
+why don't I sell
+you off?<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+Bart
+"What! You want some!?
+Come get some ya losers!"<Close><End of Block>
+<TextBlock 14 w:40 h:2>
+You think you're all
+that!?<Close><End of Block>
+<TextBlock 15 w:8 h:1>
+Wha!<Close><End of Block>
+<TextBlock 16 w:20 h:1>
+What the!?<Close><End of Block>
+<TextBlock 17 w:36 h:2>
+You!
+What're you doing?<Close><End of Block>
+<TextBlock 18 w:26 h:2>
+Wait,
+this guy's<Delay 10>...<Close><End of Block>
+<TextBlock 19 w:16 h:2>
+Oh no<Delay 10>...
+Jesiah!!<Close><End of Block>
+<TextBlock 20 w:38 h:2>
+Damn,
+I'll remember this!<Close><End of Block>
+<TextBlock 21 w:38 h:3>
+Bart
+"What do you think 
+you're doing?"<Close><End of Block>
+<TextBlock 22 w:26 h:2>
+Jesiah
+"Don't move."<Close><End of Block>
+<TextBlock 23 w:26 h:2>
+Margie
+"Wa, wait..."<Close><End of Block>
+<TextBlock 24 w:40 h:3>
+Jesiah
+"Shut up, 
+you dog of Solaris."<Close><End of Block>
+<TextBlock 25 w:10 h:2>
+Elly
+"..."<Close><End of Block>
+<TextBlock 26 w:12 h:1>
+Wait!!<Close><End of Block>
+<TextBlock 27 w:40 h:4>
+Citan
+"A carbine rifle,
+that gun technique,
+you must be Jesiah.<New>
+No Jesiah, you are
+misunderstanding.<New>
+You always rush into
+things. She was only
+helping the girl."<Close><End of Block>
+<TextBlock 28 w:46 h:4>
+Jesiah
+"What? 
+Butt kissin' talker, is
+that you Hyuga<Delay 10>...<Delay 10>"<Close><End of Block>
+<TextBlock 29 w:10 h:2>
+Girl
+"..."<Close><End of Block>
+<TextBlock 30 w:42 h:4>
+Jesiah
+"Yeh yeah, I know,
+Primera.
+My misunderstanding."<Close><End of Block>
+<TextBlock 31 w:38 h:3>
+Jesiah
+"Sorry, young lady.
+Please, stand up."<Close><End of Block>
+<TextBlock 32 w:54 h:4>
+Jesiah
+"Looks like you were 
+just trying to help. That's
+what she says.<New>
+Sorry about the
+misunderstanding. This is
+Primera. My daughter.<New>
+I am...
+Call me Jessie. It's
+enough that the little
+brats call me Jesiah."<Close><End of Block>
+<TextBlock 33 w:14 h:2>
+Primera
+"..."<Close><End of Block>
+<TextBlock 34 w:8 h:2>
+Elly
+"?"<Close><End of Block>
+<TextBlock 35 w:50 h:3>
+Jessie
+"She says thank you.<New>
+Something happened to her
+and she hasn't spoken 
+since then."<Close><End of Block>
+<TextBlock 36 w:46 h:4>
+Citan
+"...Is this the girl
+that brought about your
+shotgun wedding?"<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Jessie
+"That's a damn rude thing
+to ask! Look at how old
+she is.<New>
+Primera is my
+second child. That other
+kid is already 16."<Close><End of Block>
+<TextBlock 38 w:36 h:3>
+Citan
+"Please excuse me.
+How is your wife?"<Close><End of Block>
+<TextBlock 39 w:46 h:4>
+Jessie
+"...<Delay 10>She's dead.
+I wasn't even there for
+her when she died."<Close><End of Block>
+<TextBlock 40 w:50 h:3>
+Citan
+"I see...<Delay 10>
+What are you doing here?"<Close><End of Block>
+<TextBlock 41 w:50 h:3>
+Jessie
+"I have to go shopping 
+sometime.<New>
+Besides my son 
+has some unsavory
+business in this area..."<Close><End of Block>
+<TextBlock 42 w:54 h:3>
+Ah...
+That Etone you were looking
+for has just arrived.<Close><End of Block>
+<TextBlock 43 w:30 h:2>
+Bart
+"What!? Where?"<Close><End of Block>
+<TextBlock 44 w:50 h:4>
+Doctor
+"...<Delay 10>...<Delay 10>is the reason why,
+so somehow, we need your
+help."<Close><End of Block>
+<TextBlock 45 w:26 h:2>
+Etone
+"I see<Delay 10>...<Delay 10>..."<Close><End of Block>
+<TextBlock 46 w:48 h:3>
+Jessie
+"Quit beating 'round the
+bush and just help."<Close><End of Block>
+<TextBlock 47 w:28 h:3>
+Etone
+"Fa, father?
+And Prim too?"<Close><End of Block>
+<TextBlock 48 w:46 h:2>
+Jessie
+"This is my son Billy."<Close><End of Block>
+<TextBlock 49 w:52 h:3>
+Billy
+"Where have you been until
+now?<New>
+Things are pretty
+serious at the
+headquarters."<Close><End of Block>
+<TextBlock 50 w:52 h:3>
+Jessie
+"What do you mean serious?<New>
+What's wrong with going
+out shopping with my
+daughter?"<Close><End of Block>
+<TextBlock 51 w:56 h:4>
+Billy
+"I don't know the details
+but you have been labeled as
+an undesirable element.<New>
+What did you do this time?
+Fight? Gamble? 
+Go after someone's wife
+again!?"<Close><End of Block>
+<TextBlock 52 w:50 h:4>
+Jessie
+"Hmmph, that's just a
+rumor about me. A rumor.<New>
+Don't you believe that.
+Ever since you went into
+the 'Ethos' you've become
+such a stiff."<Close><End of Block>
+<TextBlock 53 w:10 h:2>
+Billy
+"..."<Close><End of Block>
+<TextBlock 54 w:40 h:4>
+Jessie
+"This lady prevented
+Primera from getting
+kidnapped.<New>
+Why don't you just
+help out?"<Close><End of Block>
+<TextBlock 55 w:42 h:4>
+Elly
+"Well...can we get an
+introduction to the
+'Ethos' then?"<Close><End of Block>
+<TextBlock 56 w:54 h:4>
+Billy
+"Oh yes, please excuse my
+rudeness. I didn't know
+you saved my sister.<New>
+Let me contact the
+medical department
+at my headquarters.<New>
+I have other matters I
+must attend to, considering
+I am not only a priest but
+also an Etone...<New>
+So I cannot make any
+promises."<Close><End of Block>
+<TextBlock 57 w:44 h:3>
+Elly
+"Then you'll introduce
+us?"<Close><End of Block>
+<TextBlock 58 w:46 h:4>
+Billy
+"Yes. Let's stop by the
+'Ethos' headquarters
+after this."<Close><End of Block>
+<TextBlock 59 w:50 h:4>
+Margie
+"Hmm. A priest and an
+Etone at the same time...
+Isn't that unsual?<New>
+The 'Ethos' is obviously
+very different from my
+Nisan Sect."<Close><End of Block>
+<TextBlock 60 w:42 h:3>
+Billy
+"Your Nisan Sect? Are
+you from Nisan?"<Close><End of Block>
+<TextBlock 61 w:52 h:3>
+Margie
+"Yep, I'm Marguerite. 
+Nice to meet you, Father."<Close><End of Block>
+<TextBlock 62 w:50 h:4>
+Billy
+"The pleasure is mine.<New>
+I've never had a proper
+chance to speak to others
+about their religions.
+Can we talk later?"<Close><End of Block>
+<TextBlock 63 w:48 h:3>
+Margie
+"Sure, that's fine. <New>
+But I can't take that 
+much time. I'm a little 
+busy now."<Close><End of Block>
+<TextBlock 64 w:46 h:3>
+Billy
+"Thank you.<New>
+Hmm...Marguerite? 
+Where have I heard that
+name before?"<Close><End of Block>
+<TextBlock 65 w:38 h:3>
+Bart
+"Forget about it,
+relax...<New>
+I came here to talk
+to the 'Ethos'.
+Let's get moving."<Close><End of Block>
+<TextBlock 66 w:50 h:3>
+Billy
+"What an impolite fellow.<New>
+You should learn how to
+speak a little more
+politely."<Close><End of Block>
+<TextBlock 67 w:20 h:2>
+Bart
+"Why you!"<Close><End of Block>
+<TextBlock 68 w:44 h:4>
+Billy
+"Well everyone, <New>
+I'll go tell the
+'Ethos' headquarters
+that you're coming.<New>
+When you've taken
+care of business here,
+please come by the
+'Ethos'."<Close><End of Block>
+<TextBlock 69 w:34 h:3>
+Bart
+"I know, I know. 
+Let's go." <Close><End of Block>
+<TextBlock 70 w:48 h:4>
+Jessie
+"Hey Billy, I have 
+some business to take 
+care of.<New>
+If you're going back to 
+the headquarters can you
+take Primera back to the
+brat house for me?"<Close><End of Block>
+<TextBlock 71 w:30 h:3>
+Billy
+"...<Delay 10>...<Delay 30>Alright.
+Let's go Prim."<Close><End of Block>
+<TextBlock 72 w:50 h:3>
+Jessie
+"Alright, well I've got
+to get going.<New>
+Later Hyuga.
+I know I'll be seein' you
+around."<Close><End of Block>
+<TextBlock 73 w:32 h:2>
+Citan
+"Uh, who knows."<Close><End of Block>
+<TextBlock 74 w:44 h:3>
+Jessie
+"Well, whatever.
+See you ladies later."<Close><End of Block>
+<TextBlock 75 w:42 h:2>
+Citan
+"He never changes..."<Close><End of Block>
+<TextBlock 76 w:48 h:4>
+Citan
+"Sigurd said he would be
+done with the Yggdrasil
+soon."<Close><End of Block>
+<TextBlock 77 w:50 h:4>
+Bart
+"What, really?
+Alright, this time we can
+really leave port."<Close><End of Block>
+<TextBlock 78 w:40 h:3>
+Elly
+"Are we returning...<Delay 10>
+to Aveh?"<Close><End of Block>
+<TextBlock 79 w:50 h:4>
+Bart
+"Are you kidding?
+We've got to take
+care of Fei first.<New>
+That smart aleck kid
+said he'd introduce
+us to the 'Ethos'.<New>
+So I guess we'll just
+have to go to the 'Ethos'
+headquarters then..."<Close><End of Block>
+<TextBlock 80 w:30 h:2>
+Elly
+"...<Delay 10>Thank you."<Close><End of Block>
+<TextBlock 81 w:42 h:3>
+Bart
+"Why do I have to get
+thanked by you?"<Close><End of Block>
+<TextBlock 82 w:38 h:3>
+Margie
+"Heh, that's right,
+Elly."<Close><End of Block>
+<TextBlock 83 w:46 h:2>
+Elly
+"...Yes, you're right."<Close><Close><End of Block>

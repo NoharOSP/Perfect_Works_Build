@@ -1,0 +1,33 @@
+<TextBlock 1 w:28 h:2>
+    Input code
+    Quit<Close><End of Block>
+<TextBlock 2 w:34 h:5>
+    <Opcode 1 255>1
+    2
+    3
+    4
+    End inputting<Close><End of Block>
+<TextBlock 3 w:52 h:1>
+Foreign object scanner: ON<Close><End of Block>
+<TextBlock 4 w:54 h:1>
+Foreign object scanner: OFF<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:48 h:2>
+Foreign object scanner: 
+Lock-off code [0101]<Close><End of Block>
+<TextBlock 10 w:52 h:3>
+Lock-off code data is in
+the Data Room on the other
+side.<Close>
+ide.<Close><Close><End of Block>

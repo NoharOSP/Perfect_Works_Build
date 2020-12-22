@@ -1,0 +1,701 @@
+<TextBlock 1 w:48 h:4>
+Margie
+"Wow!
+It's been such a long
+time since I left here."<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Citan
+"Well...<New>
+First of all, we should
+accompany Marguerite up
+to meet the sisters!"<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Bart
+"...Huh?<Delay 30>
+What is it old Maison?"<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Maison
+"Sniff...
+Goodness gracious me...!<New>
+To think that little Miss
+Marguerite was finally
+able to return here...<New>
+...<Delay 30>
+It is so awfully moving!"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Bart
+"H...<Delay 10>hey!
+Pull yourself together,
+old man!"<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Maison
+"F...<Delay 10>forgive me.
+How terribly embarrassing!<Delay 10>
+I couldn't help it..."<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Maison
+"I...<New>
+I shall go back and give
+some instructions to the
+men left on the ship.<New>
+Please, young master,
+go ahead and escort
+Miss Marguerite up to
+see the sisters.<New>
+...Excuse me now."<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Bart
+"Please, don't either of
+you talk about this in
+front of Margie...<New>
+She's only just got back
+from her long time in
+captivity...<New>
+I don't want her to have
+to worry...
+I want her to be happy 
+for a little longer."<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Citan
+"You should not be overly
+worried yourself!<New>
+You have just got to think
+about what is best for the
+future of this land...<New>
+What is done is done!
+You only did what you
+believed was right...
+Put the past behind you."<Close><End of Block>
+<TextBlock 10 w:26 h:3>
+Bart
+"Huh...
+I'm alright!"<Close><End of Block>
+<TextBlock 11 w:58 h:4>
+  Sigurd
+  "Etrenank, the captial
+  of the Solaris empire is
+  located in the skies above.<New>
+  Solaris is separated from
+  the land by dimensional
+  distortion fields known
+  as 'Gates'.<New>
+  Passing between the two
+  requires special means of
+  transportation...<Delay 30>
+  such as an airship."<Close><End of Block>
+<TextBlock 12 w:58 h:4>
+  Sigurd
+  "We were placed in key
+  military positions by
+  Ramsus...<New>
+  And thanks to that, we came
+  to know the relationship
+  between Solaris and the
+  surface dwellers."<Close><End of Block>
+<TextBlock 13 w:50 h:2>
+  Bart
+  "The...<Delay 30>'Lambs'...right?<Close><End of Block>
+<TextBlock 14 w:68 h:4>
+       Sigurd
+       "They weren't just using us
+       'Lambs' for slave labor...<New>
+       They also selected some of
+       us, like me, to be used as
+       subjects in experiments to
+       refine their drugs...<New>
+       Drugs that change people's
+       personalities, to make them
+       more aggressive and to draw
+       out their latent abilities.<New>
+       They were using us as human
+       guinea pigs to test their
+       psychological alteration
+       drugs!"<Close><End of Block>
+<TextBlock 15 w:54 h:3>
+  Bart
+  "Human guinea pigs...!?
+  Experimenting on humans?"<Close><End of Block>
+<TextBlock 16 w:44 h:2>
+  Sigurd
+  "Yes, for example...<Close><End of Block>
+<TextBlock 17 w:44 h:1>
+               'Drive'<Close><End of Block>
+<TextBlock 18 w:60 h:4>
+     That drug, and all others
+     like it that are used
+     now, are by-products of
+     human experimentation..."<Close><End of Block>
+<TextBlock 19 w:62 h:4>
+     Citan
+     "However, the role of such
+     experimental subjects was
+     not limited to just that!"<Close><End of Block>
+<TextBlock 20 w:40 h:3>
+Citan
+"There is a new wind
+blowing today..."<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Sigurd
+"Well, we will go ahead
+and prepare the ship for
+launch."<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+The town representatives
+have been meeting at the
+assembly hall since this
+morning.<Close><End of Block>
+<TextBlock 23 w:52 h:3>
+I hear it is because
+Marguerite has returned...<New>
+They are trying to decide
+how to deal with Aveh as
+the 'Nisan parish'.<Close><End of Block>
+<TextBlock 24 w:50 h:2>
+I can understand why
+everyone is worried.<New>
+But the Great Mother
+has finally returned...<New>
+We should be celebrating,
+shouldn't we?<Close><End of Block>
+<TextBlock 25 w:42 h:4>
+Margie
+"These are the people
+who took care of me
+when I was small."<Close><End of Block>
+<TextBlock 26 w:48 h:4>
+Margie
+"I won't be able to call
+you 'young master' the
+next time I see you.<New>
+It'll probably have to
+be 'Your Majesty'<Delay 5>...<Delay 10>
+But it doesn't quite
+sound right, does it?"<Close><End of Block>
+<TextBlock 27 w:38 h:3>
+Bart
+"Whatever...
+It doesn't matter."<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Maison
+"The people of Nisan were
+most generous to allow us
+to rent this house.<New>
+So there will be no need
+to seek lodgings at the
+inn for a while.<New>
+Also, Master Sigurd
+wishes a word with you
+regarding your next move,
+if he may..."<Close><End of Block>
+<TextBlock 29 w:34 h:3>
+Bart
+"Alright...
+So where is Sig?"<Close><End of Block>
+<TextBlock 30 w:52 h:3>
+Maison
+"The good Master Sigurd is
+ waiting for you inside."<Close><End of Block>
+<TextBlock 31 w:44 h:2>
+Bart
+"Okay, thanks Maison."<Close><End of Block>
+<TextBlock 32 w:42 h:3>
+Maison
+"Master Sigurd awaits
+you inside, sir..."<Close><End of Block>
+<TextBlock 33 w:10 h:2>
+Bart
+"Ah!"<Close><End of Block>
+<TextBlock 34 w:38 h:2>
+Maison
+"Yo-ung ma--ste-r!"<Close><End of Block>
+<TextBlock 35 w:38 h:3>
+Bart
+"I had no idea Sig 
+had such a past..."<Close><End of Block>
+<TextBlock 36 w:28 h:4>
+Citan
+"Are you still
+suspicious of
+Sigurd...?"<Close><End of Block>
+<TextBlock 37 w:54 h:4>
+Bart
+"Well...I mean...
+it was just so sudden.<New>
+I kind of expected to hear
+something different...
+like that we were childhood
+rivals or something...<New>
+But that's nothing compared
+to the story he just told
+us, is it?"<Close><End of Block>
+<TextBlock 38 w:54 h:4>
+Citan
+"Hmm.<Delay 30> So hearing his story
+has you confused because it
+was not so simple...<New>
+There was a time when he
+was cooperating with one
+of Gebler's generals...<New>
+Furthermore, behind Gebler
+was a country that you had
+never even heard of..."<Close><End of Block>
+<TextBlock 39 w:38 h:3>
+Bart
+"Hey, what are you
+picking on me for?"<Close><End of Block>
+<TextBlock 40 w:54 h:4>
+Citan
+"No I am not picking on you
+or blaming anything on you.
+What I am saying is this...<New>
+If you think about how he
+feels, then you should see
+why he could not talk about
+this with you till now."<Close><End of Block>
+<TextBlock 41 w:54 h:4>
+Citan
+"Looking at the activities
+of Solaris toward other
+countries up until now...<New>
+...It has never gone
+beyond simply maintaining
+their own empire, or
+'self-preservation'.<New>
+And as you have seen, their
+military power is immense.
+So Sigurd was probably
+thinking ahead...<New>
+First he was probably
+concentrating on taking
+care of the problems here
+on the continent of Ignas.<New>
+Once things were settled
+here, it would give him
+a stronger foundation to
+deal with Solaris later.<New>
+Which is a much better plan
+than rushing straight into
+a war he knew we could not
+win. Quite logical, really.<Close><End of Block>
+<TextBlock 42 w:54 h:3>
+Bart
+"Sounds like you understand
+one another pretty well."<Close><End of Block>
+<TextBlock 43 w:54 h:4>
+Citan
+"Well it is not like we are
+newly acquainted, is it?<New>
+And we had talked about a
+lot of things up until we
+decided to escape from
+Solaris."<Close><End of Block>
+<TextBlock 44 w:44 h:4>
+Bart
+"Speaking of that...
+Why did you leave?<New>
+That Ramsus guy was
+supposed to be a 'Star
+of Hope' or something,
+wasn't he?"<Close><End of Block>
+<TextBlock 45 w:54 h:4>
+Citan
+"Yes, I certainly thought
+so at first.<New>
+But then I realized his way
+of thinking really was not
+that much of a change from
+the previous system.<New>
+Basically, the only
+difference was whether they
+stressed people's rank and
+class, or their skill.<New>
+The words had changed, but
+it was still no different
+from what Solaris itself
+had been doing until then.<New>
+He had no intentions of
+bringing everyone a
+better way of life."<Close><End of Block>
+<TextBlock 46 w:48 h:4>
+Bart
+"In other words, he's an
+elitist. I don't think
+I like him much either."<Close><End of Block>
+<TextBlock 47 w:36 h:4>
+Bart
+"So, Citan...<Delay 30>
+Do you think I can
+beat Gebler?"<Close><End of Block>
+<TextBlock 48 w:44 h:3>
+Citan
+"Why? Are you planning
+on fighting them?"<Close><End of Block>
+<TextBlock 49 w:50 h:4>
+Bart
+"As long as they're
+working with Shakhan,
+there's no way around it.<New>
+The way things are going,
+I'm sure we'll have to
+fight them sooner or
+later."<Close><End of Block>
+<TextBlock 50 w:54 h:4>
+Citan
+"Hmm...
+I suppose so, but...<New>
+Even if we were to defeat
+the Gebler forces here,
+there is still Solaris,
+to deal with.<New>
+If we are not careful, it
+is possible that we may get
+involved in a longer war
+than that with Shakhan.<New>
+Do you not agree that
+continuing the way we
+have been going is rather
+hard on everyone?<New>
+I think it is time we
+try to get help from
+a greater number of
+people."<Close><End of Block>
+<TextBlock 51 w:46 h:4>
+Bart
+"So defeating Shakhan's
+not going to get rid of
+the likes of Gebler..."<Close><End of Block>
+<TextBlock 52 w:46 h:3>
+Bart
+"I know what you're
+trying to say...<New>
+'To vanquish Gebler,
+first gain thy throne!'
+...Right?"<Close><End of Block>
+<TextBlock 53 w:54 h:3>
+Citan
+"Hmm...
+You could put it that way."<Close><End of Block>
+<TextBlock 54 w:48 h:4>
+Bart
+"What do you mean...
+'You could put it that
+way'?<New>
+But then again, maybe it
+is time I did something
+about that."<Close><End of Block>
+<TextBlock 55 w:34 h:2>
+This road leads
+to the cathedral.<Close><End of Block>
+<TextBlock 56 w:42 h:2>
+Oh, Bart!
+I'm glad you're well.<Close><End of Block>
+<TextBlock 57 w:54 h:2>
+I've already contacted the
+monastery.<New>
+Please take Margie up
+there as soon as possible.<New>
+She'll be so happy...
+not to mention the sisters!<Close><End of Block>
+<TextBlock 58 w:34 h:3>
+Margie
+"I must hurry and
+see the sisters."<Close><End of Block>
+<TextBlock 59 w:50 h:2>
+I've already contacted
+the monastery.<New>
+Go to them quickly and
+show them you're alright.<New>
+I'm sure they'll be
+happy to see you!<Close><End of Block>
+<TextBlock 60 w:26 h:1>
+Welcome back!<Close><End of Block>
+<TextBlock 61 w:52 h:3>
+The people at the hidden
+port contacted us just
+before you came into town.<Close><End of Block>
+<TextBlock 62 w:48 h:1>
+I'm so glad you're safe!<Close><End of Block>
+<TextBlock 63 w:54 h:2>
+My dad always says,
+"It's peaceful here."...<New>
+But what is 'peace' anyway?
+I don't really understand.<Close><End of Block>
+<TextBlock 64 w:22 h:1>
+Mr. Pirate!<Close><End of Block>
+<TextBlock 65 w:42 h:2>
+Will you let me ride
+in your ship someday?<Close><End of Block>
+<TextBlock 66 w:40 h:4>
+Bart
+"Hahaha!
+Maybe when you get a
+little older, kid!"<Close><End of Block>
+<TextBlock 67 w:34 h:2>
+Are bad people
+coming to get us?<Close><End of Block>
+<TextBlock 68 w:46 h:4>
+Hey, you're a stranger,
+aren't you?<New>
+My mom said that there
+are lots of strangers
+who do bad things, so
+I should be careful.<New>
+Are you a bad person?<Close><End of Block>
+<TextBlock 69 w:42 h:1>
+Margie has come back!<Close><End of Block>
+<TextBlock 70 w:44 h:4>
+My dad was saying that
+there was going to be
+a war, so we should
+move somewhere else.<Close><End of Block>
+<TextBlock 71 w:52 h:1>
+How's my young lord going?<Close><End of Block>
+<TextBlock 72 w:28 h:3>
+Bart
+"Don't call me
+'young lord'!"<Close><End of Block>
+<TextBlock 73 w:48 h:3>
+(Oh! I forgot...<Delay 10>
+Your true identity is
+supposed to be a secret.<New>
+There's only a handful
+of people in this town
+who know who you are...<New>
+I'll be more careful,
+my young lord!<Delay 30>
+...<Delay 30>Oops.)<Close><End of Block>
+<TextBlock 74 w:52 h:3>
+If it isn't my young lord!
+I hear you gave them quite
+a show this time!<Close><End of Block>
+<TextBlock 75 w:48 h:4>
+Bart
+(Shhh! Keep it down!
+My true identity is
+supposed to be a secret!<New>
+What if a spy from the
+Royal Capital snuck in
+here and heard you!?)<Close><End of Block>
+<TextBlock 76 w:40 h:2>
+(Oh... I hadn't
+thought about that!)<Close><End of Block>
+<TextBlock 77 w:44 h:4>
+My young lord!
+I've heard that the
+time has finally come.<New>
+But now I won't be
+able to call you my
+young lord anymore...
+...Your Majesty!<Close><End of Block>
+<TextBlock 78 w:52 h:4>
+Bart
+"Well...<Delay 30>let's keep it as
+young lord.<Delay 10> 'Your Majesty'
+is going a bit too far!<New>
+Not that I'm suited to,
+or like to be called,
+either title anyway!"<Close><End of Block>
+<TextBlock 79 w:36 h:2>
+How are you,
+my young lord?<New>
+I knew you'd come
+back in one piece!<Close><End of Block>
+<TextBlock 80 w:38 h:3>
+Are you a pilgrim?
+Young pilgrims like
+you are very rare.<Close><End of Block>
+<TextBlock 81 w:42 h:2>
+How is my young lord?<New>
+I knew you'd all
+come back alive!<Close><End of Block>
+<TextBlock 82 w:54 h:4>
+You're friends of my young
+lord, right? Since you are
+friends with him, I'm sure
+you already know, but...<New>
+He'll be the leader of this
+country one day!
+I had a chance to take care
+of him when he was small.<New>
+That's why I call him my
+'young lord'.
+Please look after him for
+me!<Close><End of Block>
+<TextBlock 83 w:50 h:3>
+You should try new things
+while you're still young!<New>
+If you don't expand your
+horizons, you'll regret
+it when you get old.<Close><End of Block>
+<TextBlock 84 w:52 h:4>
+So you're going to make
+your move eh, Bartholomew?<New>
+But somehow I don't think
+that man's just going to
+stand by and let you do
+as you please though.<Close><End of Block>
+<TextBlock 85 w:22 h:2>
+Fei
+"That man?"<Close><End of Block>
+<TextBlock 86 w:42 h:2>
+Bart
+"He means 'Shakhan'!"<Close><End of Block>
+<TextBlock 87 w:46 h:3>
+Yes.
+It's alright to try and
+avenge your father...<New>
+...but I don't think
+things will be that
+easy, though!<Close><End of Block>
+<TextBlock 88 w:38 h:3>
+Bart
+"I don't want to
+hurt anyone.<New>
+I want you to know
+I'm always thinking
+about that."<Close><End of Block>
+<TextBlock 89 w:26 h:1>
+Do your best!<Close><End of Block>
+<TextBlock 90 w:26 h:1>
+Do your best!<Close><End of Block>
+<TextBlock 91 w:50 h:3>
+You should try new things
+while you're still young!<New>
+If you don't expand your
+horizons, you'll regret
+it when you get old.<Close><End of Block>
+<TextBlock 92 w:50 h:3>
+I've had enough troubles.
+I just want to live life
+peacefully.<Close><End of Block>
+<TextBlock 93 w:60 h:2>
+You must be from another land.
+How's the outside world?<New>
+Rumor has it that political
+instability is growing...<New>
+But that's hardly surprising,
+given the current governments.<Close><End of Block>
+<TextBlock 94 w:54 h:5>
+So it has finally begun.
+My late father always said,
+"Don't miss the greater
+happiness by being misled
+by minor sufferings."!<New>
+It hurts me to see our
+children placed in danger.
+But if it moves our country
+in the right direction,
+then it's in their benefit.<Close><End of Block>
+<TextBlock 95 w:52 h:1>
+Ahh, it's such a nice day.<Close><End of Block>
+<TextBlock 96 w:50 h:3>
+Oh, so you're the ones?
+Everyone in town is
+talking about you!<New>
+Something about the
+Great Mother returning...<New>
+Since they call her the
+Great Mother she must
+be really old and frail!<Close><End of Block>
+<TextBlock 97 w:58 h:3>
+I had no idea...
+Why, the Great Mother
+is younger than I am!?<New>
+I'm new here, so I don't
+know much...<New>
+I don't know exactly what
+is going on, but let's just
+avoid any trouble now, okay!?<Close><End of Block>
+<TextBlock 98 w:50 h:3>
+This land...
+extends aaaaall the way
+around the lake...<New>
+Which extends aaaaall the
+way around the cathedral.<New>
+Just for fun, you might
+want to go aaaaall the
+way around it yourself.<New>
+Not that there's much to
+see at aaaaall, mind you.<Close><End of Block>
+<TextBlock 99 w:44 h:3>
+It does the heart good
+to see the innocent
+play of children.<Close><End of Block>
+<TextBlock 100 w:54 h:2>
+Most of the families with
+children have evacuated.<New>
+They were afraid of getting
+caught up in a battle here.<New>
+It's so lonely now.
+How I miss them...<Close><End of Block>
+<TextBlock 101 w:44 h:3>
+No matter where you
+go in this world,
+war is everywhere.<New>
+This town could be the
+only place that isn't
+involved in conflict.<Close><End of Block>
+<TextBlock 102 w:48 h:4>
+The town representatives
+have been in discussion
+at the assembly hall
+since this morning.<Close><End of Block>
+<TextBlock 103 w:50 h:3>
+I hear they're talking
+about a plan to deal with
+the troops from Aveh.<New>
+Some of them think the
+return of Margie is a
+nuisance.<Close><End of Block>
+<TextBlock 104 w:56 h:3>
+I can understand why
+everyone is worried.<New>
+But shouldn't we be counting
+our blessings that the Great
+Mother resides in Nisan...?<Close><End of Block>
+<TextBlock 105 w:58 h:4>
+The town representatives have
+finished their discussions
+and are moving into action.<New>
+They have dispersed to
+prepare their defenses and
+accommodations for the
+residents desiring to escape.<Close><End of Block>
+<TextBlock 106 w:54 h:1>
+May heaven protect you all.<Close><End of Block>
+<TextBlock 107 w:46 h:3>
+Neither of us serve
+heaven within the
+Nisan cathedral...<New>
+But we pray here daily,
+as ones who have lived
+here for many years.<Close><End of Block>
+<TextBlock 108 w:36 h:2>
+May all things be
+as heaven wills...<Close><End of Block>
+<TextBlock 109 w:50 h:2>
+God bless you. And I wish
+you good fortune too.<Close><End of Block>
+<TextBlock 110 w:26 h:1>
+I'll get you!<Close><End of Block>
+<TextBlock 111 w:36 h:1>
+I'm gonna get you!<Close><End of Block>
+<TextBlock 112 w:28 h:2>
+Outta the way,
+outta the way!<Close><End of Block>
+<TextBlock 113 w:28 h:2>
+Outta the way!
+Outta the way!<Close><End of Block>
+<TextBlock 114 w:28 h:2>
+Outta the way,
+outta the way!<Close><End of Block>
+<TextBlock 115 w:28 h:2>
+Outta the way!
+Outta the way!<Close><End of Block>
+<TextBlock 116 w:16 h:1>
+ Studio <Close><End of Block>
+<TextBlock 117 w:48 h:2>
+They're continuing their
+discussion in there.<Close><End of Block>
+<TextBlock 118 w:12 h:1>
+"...?"<Close><Close><End of Block>

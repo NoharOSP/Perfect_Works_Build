@@ -1,0 +1,26 @@
+<TextBlock 1 w:52 h:2>
+Elly
+"It doesn't flush well..."<Close><End of Block>
+<TextBlock 2 w:38 h:2>
+Bart
+"It flushes bad..."<Close><End of Block>
+<TextBlock 3 w:42 h:2>
+Rico
+"It flushes badly..."<Close><End of Block>
+<TextBlock 4 w:52 h:2>
+Citan
+"It doesn't flush well..."<Close><End of Block>
+<TextBlock 5 w:38 h:4>
+Elly
+"Hey,<Delay 10>
+Something's in the 
+toilet."<New>
+(But there's no way
+I'm touching it)<Close><End of Block>
+<TextBlock 6 w:42 h:1>
+Received dirty prize!<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+It's dirty, so I put
+it back!<Close><End of Block>
+<TextBlock 8 w:0 h:1>
+<Close><End of Block>

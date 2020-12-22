@@ -1,0 +1,69 @@
+<TextBlock 1 w:70 h:3>
+<Opcode 1 255>There's probably a guard outside...
+    Open the door
+    Just take a peek<Close><End of Block>
+<TextBlock 2 w:70 h:3>
+<Opcode 1 255>There's probably a guard outside...
+    Open the door
+    Just take a peek<Close><End of Block>
+<TextBlock 3 w:50 h:5>
+...Due to confusing
+orders, we were not able
+to do well in our prior
+campaign against growing
+patrols around the ruins.<New>
+So we must immediately 
+restructure our system
+of giving orders.
+Have you any ideas?<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+General, the problem
+is that pushy Major
+Vanderkaum. He...<Close><End of Block>
+<TextBlock 5 w:56 h:5>
+Hold your tongue!<Delay 20>
+I understand your resentment
+towards Major Vanderkaum,
+but we don't want any bad 
+feelings with Gebler.<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+I'm sorry. <Delay 30>
+What about that new guy,
+Ramsus? What about him?<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+I've heard he is 
+rather talented...
+He shouldn't trouble
+us like that Vanderkaum.<Close><End of Block>
+<TextBlock 8 w:40 h:2>
+That surprise attack
+was amazing.<Close><End of Block>
+<TextBlock 9 w:46 h:2>
+But, he is an outsider.
+You can't trust him!<Close><End of Block>
+<TextBlock 10 w:26 h:1>
+Who's there? <Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:42 h:2>
+Stop daydreaming!
+Arrest the intruder! <Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:62 h:4>
+Do you know what the
+biggest problem is since
+the end of the war with 
+Kislev? <New>
+The excavation rights to 
+the ruins in Dazil!<New>
+Soldiers in the area have
+to protect those rights.<New>
+Drafted soldiers are being
+sent home so career veterans
+must be reorganized.<New>
+But until the reorganized units
+arrive, the guards at the
+ruins can't return.<Close><End of Block>
+<TextBlock 13 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 14 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><Close><End of Block>

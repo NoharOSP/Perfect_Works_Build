@@ -1,0 +1,39 @@
+<TextBlock 1 w:36 h:2>
+Use that sword and
+make them pay!<Close><End of Block>
+<TextBlock 2 w:52 h:5>
+I'm a celebrated Gear
+weapons specialist...<Delay 20>
+But lately there's been
+no interesting work...<New>
+There are no men with
+enough guts to ask me
+to forge them a weapon
+to fight Deus...<New>
+If you bring me a nifty
+sword, I can forge it into
+something truly amazing
+for you, anytime...<New>
+But I won't work for
+anyone rude enough
+to ask me to check a
+weapon while it's still
+equipped to their Gear!<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Ohh...the Kishin!<Delay 20>
+You sure have a
+novel sword.<New>
+Looks interesting!<Delay 20>
+Lemme take a peek!<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+This came out great!<Delay 20>
+It was like turning
+plowshares into a
+sword!<New>
+Use this sword and
+make Deus and his
+legions pay!<Close><End of Block>
+<TextBlock 5 w:56 h:1>
+'Kishin' sword was enhanced!<Close><End of Block>
+<TextBlock 6 w:46 h:1>
+Received 'Kijin' sword!<Close><Close><End of Block>

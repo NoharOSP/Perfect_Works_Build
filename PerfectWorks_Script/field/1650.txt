@@ -1,0 +1,191 @@
+<TextBlock 1 w:48 h:4>
+Samson
+"So, she was on our side
+afterall.<Delay 10>
+Here, take this."<Close><End of Block>
+<TextBlock 2 w:28 h:1>
+...What is it?<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Samson
+"A 2nd Class citizen work
+permit, just like mine.<New>
+With that, you can move
+about more freely without
+arousing suspicion.<New>
+Well, if she's with you,
+there shouldn't be any
+problems.<New>
+Well, I'll be at the
+tower entrance."<Close><End of Block>
+<TextBlock 4 w:46 h:1>
+<Opcode 1 255>Received a work permit.<Opcode 2 60><Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Samson
+"Your friend ought to be
+somewhere around here.<Delay 10>
+Find him and get back."<Close><End of Block>
+<TextBlock 6 w:66 h:5>
+Samson
+"Hey,<Delay 10> why don't you come along?<Delay 10>
+With your power we oughta be OK."
+    Sure, I guess
+    No, better not<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Samson
+"Right, that's the spirit!<Delay 10>
+Take this with you."<Close><End of Block>
+<TextBlock 8 w:24 h:1>
+What's this?<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Samson
+"A 2nd Class citizen work
+permit, just like mine.<New>
+With that, you can move
+about more freely without
+arousing suspicion.<New>
+Well, if she's with you,
+there shouldn't be any
+problems.<New>
+Well, I'll be at the
+tower entrance."<Close><End of Block>
+<TextBlock 10 w:46 h:1>
+<Opcode 1 255>Received a work permit.<Opcode 2 60><Close><End of Block>
+<TextBlock 11 w:52 h:3>
+Samson
+"Right, that's the spirit!<New>
+But, be careful!<Delay 10>
+A female Gebler just came
+by for some reason..."<Close><End of Block>
+<TextBlock 12 w:36 h:4>
+Fei
+"!?<Delay 10>
+Did she,<Delay 10>
+have auburn hair?"<Close><End of Block>
+<TextBlock 13 w:56 h:3>
+Samson
+"Yeeaah, that's her!!<Delay 10>
+What, you're friends?<New>
+Come to think of it, she was
+looking for someone...<New>
+She still oughta be around
+here somewhere.
+You oughta look for her."<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Samson
+"Yeah?<Delay 10>
+Well, I won't force you,
+it is pretty risky.<New>
+But if you change your
+mind, come talk to me."<Close><End of Block>
+<TextBlock 15 w:30 h:2>
+Fei
+"Ti,<Delay 10> Timothy!?"<Close><End of Block>
+<TextBlock 16 w:42 h:3>
+Unfortunately I'm not
+Timothy.<Delay 10>
+The name's Samson.<New>
+But hey, I know you!<Close><End of Block>
+<TextBlock 17 w:46 h:3>
+Fei
+"H,<Delay 5> how do you know me?<Delay 10>
+Who are you...?"<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Samson
+"From the Tournament...<Delay 10>
+Unfortunately, I lost in
+the 1st round.<New>
+I passed out on
+the way home..."<Close><End of Block>
+<TextBlock 19 w:14 h:1>
+And...?<Close><End of Block>
+<TextBlock 20 w:54 h:4>
+Samson
+"When I came to, I found
+myself here.<New>
+Everyone else got what they
+call 'rearranged'. It's a
+cross between brainwashing
+and amnesia.<New>
+But they messed up on me
+and I can still remember."<Close><End of Block>
+<TextBlock 21 w:42 h:3>
+Fei
+"Then what about that
+last person...?"<Close><End of Block>
+<TextBlock 22 w:56 h:4>
+Samson
+"Yep, him too.<Delay 10>
+Died in vain...<Delay 5>...<Delay 10>
+One of my few friends, too.<New>
+I'm not goin' out like that.<Delay 10>
+Ya know that guard tower
+near us?<New>
+I'm gonna go through it
+past the 2nd Class block,
+sneak into the naval port
+and kiss Solaris goodbye."<Close><End of Block>
+<TextBlock 23 w:36 h:2>
+Fei
+"Can you do that?"<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Samson
+"Yeah, 'cause I got a pass.<Delay 10>
+They got me working at the
+naval port.<New>
+I'm only supposed to leave
+when it's my shift, but I
+'solved' that little snag.<New>
+Hey,<Delay 10> why don't
+you come along?<New>
+With your power,
+we'd be set!"
+    Yeah, sure
+    Nah, better not<Close><End of Block>
+<TextBlock 25 w:38 h:2>
+That's the spirit!<Delay 10>
+Take this with you.<Close><End of Block>
+<TextBlock 26 w:30 h:1>
+...What's this?<Close><End of Block>
+<TextBlock 27 w:50 h:3>
+Samson
+"A 2nd Class citizen work
+permit, just like mine.<New>
+With that, you can move
+about more freely without
+arousing suspicion.<New>
+Well, if she's with you,
+there shouldn't be any
+problems.<New>
+Well, I'll be at the
+tower entrance."<Close><End of Block>
+<TextBlock 28 w:46 h:1>
+<Opcode 1 255>Received a work permit.<Opcode 2 60><Close><End of Block>
+<TextBlock 29 w:52 h:3>
+Samson
+"Right, that's the spirit!<New>
+But, be careful!<Delay 10>
+A female Gebler just came
+by for some reason..."<Close><End of Block>
+<TextBlock 30 w:36 h:4>
+Fei
+"!?<Delay 10>
+Did she,<Delay 10>
+have auburn hair?"<Close><End of Block>
+<TextBlock 31 w:56 h:3>
+Samson
+"Yeeaah, that's her!!<Delay 10>
+What, you're friends?<New>
+Come to think of it, she was
+looking for someone...<New>
+She still oughta be around
+here somewhere.
+You oughta look for her."<Close><End of Block>
+<TextBlock 32 w:48 h:4>
+Samson
+"Yeah?<Delay 10><New>
+Well, I won't force you,
+it is pretty risky.
+But if you change your
+mind, come talk to me."<Close><End of Block>
+<TextBlock 33 w:0 h:1>
+<Close><End of Block>

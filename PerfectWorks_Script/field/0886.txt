@@ -1,0 +1,46 @@
+<TextBlock 1 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 2 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 3 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 4 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 5 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:34 h:2>
+You have too many
+<Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:40 h:2>
+ 
+ Received <Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:70 h:3>
+<Opcode 1 255>There's probably a guard outside...
+    Open the door
+    Just take a peek<Close><End of Block>
+<TextBlock 10 w:42 h:4>
+<Opcode 14 1>...
+<Opcode 1 1>Don't get in my way. 
+I'm rehearsing for 
+tomorrow's meeting.<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+I take all that trouble
+making plans for a sneak
+attack, and now they end
+the war!<New>
+There goes my chance for
+glory."<Close><End of Block>
+<TextBlock 12 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 13 w:30 h:3>
+Who are you?
+Why do you look
+like that?<Close><End of Block>

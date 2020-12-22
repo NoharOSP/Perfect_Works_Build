@@ -1,0 +1,239 @@
+<TextBlock 1 w:40 h:2>
+Elly
+"This is my room..."<Close><End of Block>
+<TextBlock 2 w:54 h:2>
+Elly
+"Ahh, I can finally relax."<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Fei
+"This place is huge!
+It must be bigger than 
+the village chief's!"<Close><End of Block>
+<TextBlock 4 w:50 h:2>
+Elly
+"Heh.<New>
+I'm sweaty after running,
+so I'm taking a shower."<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Fei
+"You have a bathroom
+in your room?"<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Elly
+"It's pretty normal."<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+...<Delay 10>
+(It's not normal...)<Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Elly
+"When are you going to 
+stop staring?"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Fei
+"Hey, <Delay 10>
+Elly, 
+was that your mother?"<Close><End of Block>
+<TextBlock 10 w:12 h:2>
+Elly
+"Yes."<Close><End of Block>
+<TextBlock 11 w:54 h:3>
+Fei
+"Oh.<Delay 10>
+She sure is a pretty lady."<Close><End of Block>
+<TextBlock 12 w:26 h:3>
+Elly
+"...<Delay 10>
+Yes, she is."<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+Fei
+"But you don't look 
+much like her.<New>
+Do you resemble your 
+father?"<Close><End of Block>
+<TextBlock 14 w:52 h:2>
+Elly
+"Haven't you noticed yet?"<Close><End of Block>
+<TextBlock 15 w:38 h:2>
+Fei
+"What do you mean?"<Close><End of Block>
+<TextBlock 16 w:44 h:3>
+Elly
+"The color of my skin,
+hair, and eyes are...<New>
+different from normal
+Solarians..."<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Fei
+"I've never paid 
+attention to it so...<Delay 10>
+Really?"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Elly
+"A long time ago, <Delay 10>when I
+was small, I had a nanny.<Delay 10>
+She was so nice to me.<New>
+But she was a land dweller.
+And First Class citizens
+rarely associate with them.<New>
+But the nanny lived in 
+our house and took care 
+of me.<Delay 10><New>
+She lost her child when 
+she was in the 3rd Class 
+area...<New>
+My dad felt sorry for her 
+and kept her under his 
+protection. <Delay 10>But he never 
+told anyone about her..."<Close><End of Block>
+<TextBlock 19 w:12 h:2>
+Fei
+"Why?"<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+Elly
+"My father was worried 
+about my appearance...
+He had a reason for it.<New>
+She was probably my
+real<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 21 w:18 h:2>
+Fei
+"Elly..."<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+Elly
+"I'd better not...<Delay 10>
+I'm sure you don't want 
+to hear about this...<Delay 10><New>
+Sorry."<Close><End of Block>
+<TextBlock 23 w:38 h:2>
+Fei
+"That's alright..."<Close><End of Block>
+<TextBlock 24 w:44 h:2>
+Elly
+"Now, it's your turn!"<Close><End of Block>
+<TextBlock 25 w:42 h:4>
+Fei
+"No thanks.<Delay 10>
+I don't have time for
+that."<Close><End of Block>
+<TextBlock 26 w:46 h:4>
+Elly
+"You need to relax.<Delay 10>
+You don't get a chance 
+like this very often.<Delay 10><New>
+Please?"<Close><End of Block>
+<TextBlock 27 w:50 h:2>
+Fei
+"Alright, <Delay 10>if you insist!"<Close><End of Block>
+<TextBlock 28 w:52 h:3>
+Elly
+"You should've listened 
+to me in the first place."<Close><End of Block>
+<TextBlock 29 w:10 h:1>
+...!!<Opcode 2 15><Close><End of Block>
+<TextBlock 30 w:24 h:1>
+Wa---a-a-a!!<Opcode 2 10><Close><End of Block>
+<TextBlock 31 w:26 h:3>
+Elly
+"You're fine.<Delay 10>
+Just relax."<Close><End of Block>
+<TextBlock 32 w:48 h:3>
+Fei
+"Wow...feels good.<New>
+There's a world of
+difference between this
+and doc's old bath tub!"<Close><End of Block>
+<TextBlock 33 w:4 h:1>
+!!<Opcode 2 10><Close><End of Block>
+<TextBlock 34 w:40 h:3>
+Fei
+"S, <Delay 5>stop it!<Delay 10>
+Stop staring at me!"<Close><End of Block>
+<TextBlock 35 w:46 h:3>
+Elly
+"Don't worry, I'm not
+looking.<New>
+I'm just adjusting it.<Delay 10>
+How's the temperature?"<Close><End of Block>
+<TextBlock 36 w:30 h:4>
+Fei
+"Hey,<Delay 10>
+I'm fine.
+Go away, NOW!!"<Close><End of Block>
+<TextBlock 37 w:42 h:4>
+Elly
+"Aha, ha...
+Fei's got a cute side
+to him."<Close><End of Block>
+<TextBlock 38 w:10 h:1>
+<Delay 5>...<Delay 5>?<Delay 5>?<Close><End of Block>
+<TextBlock 39 w:52 h:4>
+Fei
+"I feel refreshed...
+Now what am I gonna do...<Delay 10>
+There's no time to relax."<Close><End of Block>
+<TextBlock 40 w:44 h:3>
+Elly
+"Yes, <Delay 10>I really 
+don't want to...<Delay 10><New>
+but, there's no other 
+choice..."<Close><End of Block>
+<TextBlock 41 w:38 h:3>
+Fei
+"You have any good 
+ideas?"<Close><End of Block>
+<TextBlock 42 w:54 h:3>
+Elly
+"The network terminal
+in my father's room.<Delay 10><New>
+He got angry with me
+for touching it once.<New>
+There is numerous
+information only a handful 
+of people have access to."<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Fei
+"So we can find out where
+Bart and the others are
+located from that?"<Close><End of Block>
+<TextBlock 44 w:28 h:2>
+Elly
+"I<Delay 5>...<Delay 5>hope so."<Close><End of Block>
+<TextBlock 45 w:14 h:1>
+Elly...<Close><End of Block>
+<TextBlock 46 w:6 h:1>
+...<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Medena
+"Elly, <Delay 10>
+I think you should live
+your life the way you wish.<New>
+If your loved ones are in
+a crisis, you can't desert
+them..."<Close><End of Block>
+<TextBlock 48 w:54 h:3>
+Elly
+"Mother...<Delay 10>I'm sorry,<Delay 10>
+for what I said earlier..."<Close><End of Block>
+<TextBlock 49 w:50 h:4>
+Medena
+"...I know.<Delay 10>
+But there's no doubt that
+you're my child...<New>
+No matter what happens,
+you're my sweetheart..."<Close><End of Block>
+<TextBlock 50 w:16 h:2>
+Elly
+"Mom..."<Close><End of Block>
+<TextBlock 51 w:44 h:3>
+Medena
+"Now...
+You'd better hurry..."<Close><End of Block>
+<TextBlock 52 w:34 h:3>
+Elly
+"Yes...<Delay 10>
+Take care mom..."<Close><End of Block>
+<TextBlock 53 w:20 h:2>
+Medena
+"Hurry..."<Close><End of Block>
+<TextBlock 54 w:0 h:1>
+<Close><End of Block>
