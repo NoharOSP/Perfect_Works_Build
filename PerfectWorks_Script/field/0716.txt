@@ -84,15 +84,15 @@ it is you're on about...
 do it by yourself!!"<Close><End of Block>
 <TextBlock 17 w:42 h:4>
 Fei
-"My father?<Delay 25>
-You mean my dad?<Delay 30>
+"Huh?<Delay 25>
+My father?<Delay 30>
 You know my father!?"<Close><End of Block>
 <TextBlock 18 w:14 h:2>
 Fei
 "What?"<Close><End of Block>
 <TextBlock 19 w:42 h:2>
 Citan
-"Here we go again..."<Close><End of Block>
+"I knew it..."<Close><End of Block>
 <TextBlock 20 w:48 h:4>
 Man In Black
 "Your hot blooded desire
