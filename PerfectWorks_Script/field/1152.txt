@@ -1,818 +1,963 @@
 <TextBlock 1 w:30 h:2>
-Faster than we 
-expected<Delay 5>...<Close><End of Block>
+Faster than
+predicted<Delay 5>...<Close><End of Block>
 <TextBlock 2 w:40 h:2>
 The awakening of the
 untouchable one<Delay 5>...<Close><End of Block>
 <TextBlock 3 w:48 h:4>
 It has been 3 years
-since we heard any news.<New>
-According to the memory
-cube, 'he' is currently
-in Nortune, the Imperial
-capital of Kislev.<Close><End of Block>
+since news of him
+ceased.<New>
+According to the reports
+from the memory cubes
+he is currently the 
+Kislev Imperial Capital,
+Nortune.<Close><End of Block>
 <TextBlock 4 w:26 h:3>
-Detestable<Delay 5>...<Delay 5>
-Vexing<Delay 5>...<Delay 5>
-Cursed<Delay 5>...<Close><End of Block>
+Abominable<Delay 5>...<Delay 5>
+Abominable<Delay 5>...<Delay 5>
+Abominable<Delay 5>...<Close><End of Block>
 <TextBlock 5 w:44 h:4>
-If only 'he' did not
-exist, the Lambs <Delay 5>would
-not have been turned
-into the 'Animus'.<New>
-It has been 500 years
-since our fall in the
-'Days of Destruction'
-that 'he' caused...<New>
-We would not have had
-to do this in such a
-troublesome manner,
-as we do now.<Close><End of Block>
+If not for his 
+presence, lambs <Delay 5>would
+would not have
+become 'Animus'.<New>
+500 years since the
+Days of Collapse.<New>
+It was ended, without
+our choosing it, by
+troublesome means
+similar to the
+present case.<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 The excavation of the
-'Anima Relics' in each
-area is proceeding as
-planned.<New>
-It's too late to change
-things now.<Delay 10>
-But in the future, we'll
-shape what will be.<Close><End of Block>
+'Anima Relics' is
+proceeding smoothly
+in all areas.<New>
+Looking back at
+this late hour will
+not change the facts.<Delay 10>
+However, the future
+is in our hands to
+calculate.<Close><End of Block>
 <TextBlock 7 w:24 h:3>
-Fade<Delay 5>...<Delay 5>
-Vanish<Delay 5>...<Delay 5>
-Disappear<Delay 5>...<Close><End of Block>
+Eliminate<Delay 5>...<Delay 5>
+Eliminate<Delay 5>...<Delay 5>
+Eliminate<Delay 5>...<Close><End of Block>
 <TextBlock 8 w:38 h:3>
-Although, we do not
-know which route it
-flowed from...<New>
-...we're fortunate
-the 'gate keeper'
-was activated.<Close><End of Block>
+In such case, though
+we do not know the
+route by which it
+strayed, <New>
+the activation of
+the gate keeper
+was unexpectedly
+fortunate.<Close><End of Block>
 <TextBlock 9 w:34 h:2>
-From the 'Ethos'?<Delay 10>
-Or<Delay 5>...<Close><End of Block>
+From the Church 
+of 'Ethos'?<Delay 10>
+Or perhaps<Delay 5>...<Close><End of Block>
 <TextBlock 10 w:36 h:2>
-It doesn't matter.<Delay 10>
-Although<Delay 5>...<Close><End of Block>
+It does not matter
+which.<Delay 10>
+However<Delay 5>...<Close><End of Block>
 <TextBlock 11 w:34 h:4>
-So are you saying
-that we mustn't
-break Ignas'
-equilibrium?<Close><End of Block>
+We must not 
+break Ignas' 
+equilibrium
+...So it 
+suggests.<Close><End of Block>
 <TextBlock 12 w:36 h:3>
-Well, it is the
-surface...and that
-land is unclean!<Close><End of Block>
+The earth is 
+after all the 
+earth. That is 
+a land of 
+uncleanliness.<Close><End of Block>
 <TextBlock 13 w:28 h:2>
-That is merely
-an excuse.<Close><End of Block>
+That is no
+more than an 
+excuse.<Close><End of Block>
 <TextBlock 14 w:36 h:3>
-It's a justifiable
-reason.<Delay 10> Even Cain
-would not object.<Close><End of Block>
+It is a 
+justifiable
+reason.<Delay 10> If
+presented this, 
+Cain too would 
+have no
+objections.<Close><End of Block>
 <TextBlock 15 w:40 h:4>
-But we can't use the
-'Gaetia Key'.<Delay 10>
-Not until the proper
-time comes.<Close><End of Block>
+But we cannot use 
+the 'Lesser Goetia 
+Key'.<Delay 10>
+Not until the
+inevitable time.<Close><End of Block>
 <TextBlock 16 w:44 h:3>
-There's a third fleet
-in Bledavik. Their
-reserve units will do.<Close><End of Block>
+The 3rd Fleet is in
+Bledavik. Its 
+remaining troops 
+should be 
+sufficient.<Close><End of Block>
 <TextBlock 17 w:28 h:2>
-Oh, his fleet.<Delay 10>
-Your orders?<Close><End of Block>
+His fleet, 
+then.<Delay 10>
+The orders?<Close><End of Block>
 <TextBlock 18 w:50 h:4>
-To purge.<New>
-Give no motives. If he
-knew our motives, it's 
-obvious he'd do something
-unpredictable.<Close><End of Block>
+A purge.<New>
+Do not tell him 
+the true intent. 
+That he would act 
+outside our orders 
+should he know is 
+plain to see.<Close><End of Block>
 <TextBlock 19 w:32 h:4>
-But, wouldn't we
-need more men to
-raze the entire
-area of Nortune?<Close><End of Block>
+However, to raze 
+the entire 
+Nortune area 
+would not so 
+little military 
+power be 
+insufficient?<Close><End of Block>
 <TextBlock 20 w:46 h:4>
 There is an ancient
-reactor in Nortune.
-We'll use that.<New>
-The half-life fallout
-will be 1000 years. <New>
+nuclear reactor in 
+Nortune. We will 
+use that.<New>
+The half-life is 
+1000 years. <New>
 Nothing will be able to
 live within 300 kelts
-of the explosion.<New>
-However, they've lived
-through that before.
-They won't perish
-that easily.<Close><End of Block>
+of it. Just as 
+before.<New>
+However, people
+survived despite it.
+Our flesh. Such a 
+minor thing will
+not destroy them.<Close><End of Block>
 <TextBlock 21 w:30 h:3>
-But, we must at
-least eliminate
-'him'.<Close><End of Block>
+But he at 
+least must be 
+eliminated.<Close><End of Block>
 <TextBlock 22 w:46 h:4>
 Yes.<Delay 5>
-There's nothing we need
-from there. So be it,
-take care of it.<Close><End of Block>
+There is nothing left
+there that we must
+obtain. Disposal is
+in order.<Close><End of Block>
 <TextBlock 23 w:20 h:3>
-If it is a
-direct hit<Delay 5>
+If it is to 
+be a direct 
+strike<Delay 5>
 ...<Close><End of Block>
 <TextBlock 24 w:24 h:1>
-Well then<Delay 5>...<Close><End of Block>
+Then<Delay 5>...<Close><End of Block>
 <TextBlock 25 w:44 h:1>
-Your orders are given.<Close><End of Block>
+Let us set down 
+the order.<Close><End of Block>
 <TextBlock 26 w:42 h:4>
 Disobedience<Delay 5>...<Delay 5>
-Ramsus' orders are to
-excavate the 'Anima
-Relics' in Ignas...<New>
-and to watch over the
-Lambs. What is he<Delay 5>...<Delay 5>
+Ramsus' duty should
+be the excavation of
+the "Anima Relics"
+sleeping in Ignas<New>
+and supervision of
+the lambs. He has<Delay 5>...<Delay 5>
 ...<Delay 5><Close><End of Block>
 <TextBlock 27 w:40 h:3>
-We can recover the
-'Anima Relics'
-anytime.<New>
-Moreover, we learned
-that 'he' was on the
-transfered ship.<New>
-Ramsus was probably
-after 'him'.<Close><End of Block>
+The "Anima Relics"
+can be collected
+at any time.<New>
+Moreover, it is
+confirmed that
+"he" was in the
+transferred ship.<New>
+Ramsus was likely
+going after him.<Close><End of Block>
 <TextBlock 28 w:42 h:2>
 <Delay 5>...<Delay 5>
-So it was the trauma.<Close><End of Block>
+It is the 
+trauma, then.<Close><End of Block>
 <TextBlock 29 w:36 h:4>
 Nay. In this case,
-Knigret<Delay 5>...<Delay 5>
-It was the severe
-external wounds.<Close><End of Block>
+it is neglect<Delay 5>
+...<Delay 5>
+Internal trauma.<Close><End of Block>
 <TextBlock 30 w:40 h:4>
 According to the
-memory cube...<New>
-we've found multiple
-subjects around
-'him' that possess
-the 'Animus' factor.<Close><End of Block>
+reports from the
+memory cubes...<New>
+there are several
+subjects surrounding
+'him' that have
+the potential to
+become "Animus".<Close><End of Block>
 <TextBlock 31 w:32 h:3>
-Is it -Sufradi-,
-the subject of
-the M Project?<Close><End of Block>
+The Sufradi is
+it not?<Close><End of Block>
 <TextBlock 32 w:8 h:1>
 Yes.<Close><End of Block>
-<TextBlock 33 w:24 h:1>
-Coincidence?<Close><End of Block>
+<TextBlock 33 w:30 h:1>
+A coincidence?<Close><End of Block>
 <TextBlock 34 w:48 h:3>
-Nay, it is beyond that.<Delay 5>
-They were either 
-attracted to<Delay 5> 'him'<Delay 5> or...<Close><End of Block>
+Nay, it would be
+too great.<Delay 5>
+They gravitated 
+to<Delay 5> 'him'<Delay 5> ...<Close><End of Block>
 <TextBlock 35 w:36 h:4>
-Unexpectedly, it's
-developing into
-the same condition
-as 500 years ago.<Close><End of Block>
+Unexpectedly, the
+circumstances have
+developed similarly
+to 500 years ago.<Close><End of Block>
 <TextBlock 36 w:52 h:3>
-That does not rule out
-the possibility he planned
-it this way intentionally.<Close><End of Block>
+It is not impossible 
+that he manipulated events
+to this end.<Close><End of Block>
 <TextBlock 37 w:36 h:4>
 The transfer point
 is Aquvy<Delay 5>...<Delay 5>
-It's near the
+Near the
 Thames.<Close><End of Block>
 <TextBlock 38 w:52 h:2>
-If it is Aquvy,
-Krelian's headed that way.<Close><End of Block>
+If it is in Aquvy
+Krelian is headed there.<Close><End of Block>
 <TextBlock 39 w:18 h:3>
 Krelian?<Delay 10>
-Himself?<Delay 10>
-What for?<Close><End of Block>
+Personally?<Delay 10>
+For what?<Close><End of Block>
 <TextBlock 40 w:52 h:4>
-It seems they've found it.<Delay 10>
-For over 4000 years he
-searched for Zeboim's
-legacy.<Close><End of Block>
+It seems he has found it.<Delay 10>
+The 4000 years lost
+legacy of Zeboim that
+he kept searching for.<Close><End of Block>
 <TextBlock 41 w:44 h:3>
-Legacy<Delay 5>...<Delay 5>
-Is that the technology
-he was talking about?<Close><End of Block>
+The legacy<Delay 5>...<Delay 5>
+Meaning, the 
+technology he 
+spoke of before?<Close><End of Block>
 <TextBlock 42 w:8 h:1>
-Yes.<Close><End of Block>
+Just so.<Close><End of Block>
 <TextBlock 43 w:52 h:4>
 Molecular engineering...<Delay 5>
-...<Delay 5>nanotechnology.<New>
-The land of all creations,
-the capital of Zeboim
-culture...resting beneath
-the ocean of Aquvy.<New>
-For 19 years, the 'Ethos'
-kept it secret.<Close><End of Block>
+...<Delay 5>Nanotechnology.<New>
+The land of the genesis,
+the capital of the 
+Zeboim civilization sleeps
+beneath the sea floor of
+Aquvy.<New>
+Though its existence was
+hidden from us by the
+Church of the Ethos for
+over 19 years.<Close><End of Block>
 <TextBlock 44 w:38 h:2>
-Is this acceptable,
+Is that acceptable,
 Cain?<Close><End of Block>
 <TextBlock 45 w:52 h:2>
 Emperor Cain
-"Yes, it will do for now."<Close><End of Block>
+"Yes, it will serve 
+as yet."<Close><End of Block>
 <TextBlock 46 w:46 h:4>
 19 years<Delay 5>...<Delay 5>
-That coincides with
-the time when the earth
+It coincides exactly
+with the year that 
+the earth's surface
 shifted<Delay 5>...<Close><End of Block>
 <TextBlock 47 w:14 h:1>
-Indeed.<Close><End of Block>
+I see.<Close><End of Block>
 <TextBlock 48 w:48 h:4>
-But, I don't understand.
-That technology doesn't
-seem that crucial to
-us<Delay 5>...<Close><End of Block>
+However, we cannot 
+comprehend it.
+We do not think that
+technology is so
+essential<Delay 5>...<Close><End of Block>
 <TextBlock 49 w:44 h:4>
-He is still a Lamb.
-Giving him the ability
-to do as he wishes is
-questionable.<Close><End of Block>
+He is a Lamb.
+Consider what he would
+do if allowed too much 
+freedom.<Close><End of Block>
 <TextBlock 50 w:40 h:3>
-There are times when
-even we do not know
-what he is thinking.<Close><End of Block>
+Since there are times
+that we do not 
+understand what 
+he is thinking.<Close><End of Block>
 <TextBlock 51 w:48 h:4>
 Emperor Cain
-"Let it be.<Delay 10>
+"Enough.<Delay 10>
 I will take
-responsibility for that.<New>
+responsibility for that
+concern.<New>
 On another matter<Delay 5>...<Delay 5>
-Weren't you all going
-to<Delay 5>...<Delay 5>
-'eliminate' it?"<Close><End of Block>
+Did you<Delay 5>...<Delay 5>
+intend to eliminate
+him?<Close><End of Block>
 <TextBlock 52 w:20 h:2>
-It's<Delay 5> just
-by chance.<Close><End of Block>
+What?<Delay 5> It 
+was pure 
+accident.<Close><End of Block>
 <TextBlock 53 w:36 h:2>
-It is probable the
-location is Ignas.<Close><End of Block>
+The location was
+Ignas. It was 
+a matter of 
+probability.<Close><End of Block>
 <TextBlock 54 w:42 h:3>
-Anyway, I never
-believed it would be
-eliminated so easily.<Close><End of Block>
+Besides, we do not
+think that little 
+would eliminate him.<Close><End of Block>
 <TextBlock 55 w:32 h:4>
-The purge was
-a failure.
-This shall never
+The purge itself
+ended in failure.
+It will not
 happen again.<Close><End of Block>
 <TextBlock 56 w:38 h:3>
 If the 'Animus' are
-together, it is all
+gathering, all
 the more reason.<Close><End of Block>
 <TextBlock 57 w:8 h:1>
-Yes.<Close><End of Block>
+Indeed.<Close><End of Block>
 <TextBlock 58 w:40 h:4>
-Cain, why are YOU so
-concerned about it?
-To us, 'he' is
-insignificant<Delay 5>...<Close><End of Block>
+Cain. Why are you 
+this concerned?
+With "he", who
+offers us no
+advantage<Delay 5>...<Close><End of Block>
 <TextBlock 59 w:32 h:4>
-It could only be
-a poison to us.
-It could never
-be a remedy.<Close><End of Block>
+It it not 
+possible to 
+make medicine
+from that which
+is poison.<Close><End of Block>
 <TextBlock 60 w:46 h:3>
-'Anonelbe'<Delay 5>...<Delay 5>
-You don't still believe
-that, do you?<Close><End of Block>
+"Ahnenerbe"<Delay 5>...<Delay 5>
+You cannot still 
+believe in it, 
+can you?<Close><End of Block>
 <TextBlock 61 w:34 h:3>
-That is merely an
-illusion.<Delay 10> Not
-even an ideal.<Close><End of Block>
+Such things are
+illusions.<Delay 10> Not
+even ideals.<Close><End of Block>
 <TextBlock 62 w:46 h:3>
 The result<Delay 5>...<Delay 5>
-is what I am now. It is
+is this form. Just
 as you see it.<Close><End of Block>
 <TextBlock 63 w:38 h:4>
-Or rather<Delay 5>...<Delay 5>
-Is it the 'emotion'<Delay 5>
-you have long
-forgotten?<Close><End of Block>
+Or perhaps<Delay 5>...<Delay 5>
+It is from your<Delay 5>
+long buried 
+and forgotten 
+"emotions"?<Close><End of Block>
 <TextBlock 64 w:24 h:2>
 Emperor Cain
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 65 w:28 h:2>
-Cain,<Delay 30>
-we are 'gods'.<Close><End of Block>
+Cain.<Delay 30>
+We are 'god'.<Close><End of Block>
 <TextBlock 66 w:46 h:4>
-All that was needed was
-to fulfill the duty.
-Now, I sense a thought
-of greed.<Close><End of Block>
+Better if they 
+simply fulfilled 
+their allotted duty 
+than giving rise 
+to a needless 
+greed.<Close><End of Block>
 <TextBlock 67 w:36 h:3>
-A selfish creed...
-I question his<Delay 5>...<Delay 5>
-faith.<Close><End of Block>
+Unapproved 
+doctrines, 
+beliefs<Delay 5>...<Delay 5>
+It is an issue.<Close><End of Block>
 <TextBlock 68 w:38 h:3>
-We have no need for
-an organization of
-fanatics.<Close><End of Block>
+We have no use for
+an organization 
+become fanatic.<Close><End of Block>
 <TextBlock 69 w:26 h:4>
-We will seek
-what they
-will...it's
-their nature.<Close><End of Block>
+To seek
+preservation
+is the human
+nature.<Close><End of Block>
 <TextBlock 70 w:50 h:3>
-But, too much is undue,
-something must be done.
-A reprimand is necessary.<Close><End of Block>
+But it is so far gone
+as to be irredeemable.
+An example must be made.<Close><End of Block>
 <TextBlock 71 w:48 h:3>
-They are an expendable
-group. There is nothing 
-we can do at this point.<Close><End of Block>
+The organisation was
+fated to be abandoned
+from the beginning. It
+is not something to be
+concerned with now.<Close><End of Block>
 <TextBlock 72 w:46 h:3>
-Yes, there is nothing
-more to gain from their
-continued existence.<Close><End of Block>
+Correct. We gain nothing
+from its continued 
+existence.<Close><End of Block>
 <TextBlock 73 w:50 h:3>
-They've already done
-what we required.<New>
-Currently, we're in the
-process of 'dealing' with
-each area responsible.<Close><End of Block>
+It has already
+sufficiently carried
+out its purpose.<New>
+Currently "dealing with
+each region".<Close><End of Block>
 <TextBlock 74 w:44 h:2>
-Stein is in charge
-of dealing with Aquvy.<Close><End of Block>
+Stein is supervising
+the disposal in 
+Aquvy.<Close><End of Block>
 <TextBlock 75 w:38 h:3>
-Bear in mind
-the need for a
-'fitting solution'.<Close><End of Block>
+And providing
+instruction on
+"deserved 
+punishment".<Close><End of Block>
 <TextBlock 76 w:48 h:2>
-Didn't we just take care
-of that?<Close><End of Block>
+We will be dealing with
+that as well in this
+strike, will we not?<Close><End of Block>
 <TextBlock 77 w:50 h:4>
-Moreover, Krelian is<Delay 5>...<New>
-rather exhorbitant. It's
-only a molecular machine.
-Why is he placing so much
-importance on it?<Close><End of Block>
+Be that as it may, 
+Krelian<Delay 5>...<New>
+is going to great lengths.
+It is only a molecular 
+machine. For what does
+he put forth such 
+effort?<Close><End of Block>
 <TextBlock 78 w:48 h:3>
-'Humans',<Delay 5> and 
-'machines', it's all the
-same to us.<Close><End of Block>
+For us, 'human'<Delay 5> and 
+'machine' have the same
+meaning.<Close><End of Block>
 <TextBlock 79 w:34 h:2>
-Yes, they are all
-the same<Delay 5>...<Close><End of Block>
+That is so. Both 
+are the same<Delay 5>...<Close><End of Block>
 <TextBlock 80 w:30 h:3>
-You're back<Delay 5>...<Delay 5>?
-Well, find
-anything?<Close><End of Block>
+So you have 
+returned<Delay 5>
+...And<Delay 5>?
+Did you find 
+what you 
+aimed to?<Close><End of Block>
 <TextBlock 81 w:48 h:4>
 Krelian
 "Yes.<Delay 10>
 I have obtained<Delay 5> a colony
 of nanomachines."<Close><End of Block>
 <TextBlock 82 w:24 h:1>
-How unsound.<Close><End of Block>
+Such 
+lunacy.<Close><End of Block>
 <TextBlock 83 w:50 h:4>
-In any case,<Delay 5> is the
-M Project<Delay 10> proceeding as
-planned? We need superior
-bodies and servants.<Close><End of Block>
+Beyond that,<Delay 5> is the
+M Project<Delay 10> proceeding
+smoothly? We require 
+more perfect bodies 
+and servants.<Close><End of Block>
 <TextBlock 84 w:54 h:3>
-We've spent far too
-much time here.<New>
-We can't afford to mistake 
-the ultimate destination 
-of this new civilization.<Close><End of Block>
+Overwhelming numbers
+of years have passed
+as this place is prepared.<New>
+We must not mistake the 
+direction of this 
+civilization we 
+are predicted to gain.<Close><End of Block>
 <TextBlock 85 w:36 h:2>
-They exist because
-of their 'mother'.<Close><End of Block>
+It is for the 
+"mother's" sake
+that we exist.<Close><End of Block>
 <TextBlock 86 w:52 h:3>
 Krelian
-"Hmm.<New>
-You've betrayed your
-'mother', your 'creator',<New>
-just to sustain your own
-egos. You have no right to
-speak so<Delay 5>...<Close><End of Block>
+"Hah.<New>
+The words of those who 
+once betrayed the mother
+who is their "Creator"<New>
+in order to sustain their
+own egos, I see<Delay 5>...<Close><End of Block>
 <TextBlock 87 w:50 h:3>
-That was<Delay 5>...<Delay 5>foolish,
-that was the past.<New>
-When we were trapped in
-that cursed flesh<Delay 5>...<Delay 5>
-But now, it is different.<Close><End of Block>
+That is<Delay 5>...<Delay 5>a past,
+folly.<New>
+A matter from the time 
+when we were imprisoned 
+in the curse of flesh<Delay 5>...<Delay 5>
+It is different now.<Close><End of Block>
 <TextBlock 88 w:52 h:3>
 Krelian
-"I'll take no orders from
-you.<New>
-You have lost that flesh
-long ago, and now reside
-in the SOL-9000 as data.<New>
-Did you forget who revived
-you in there?<New>
-What may be an eternity
-to man is but a moment to
-a god.<Delay 10><New>
-I have no need for
+"I will not take orders 
+from you.<New>
+You cannot have forgotten
+who revived you as data in
+that SOL-9000 after you
+lost your bodies.<New>
+Years that may seem an
+eternity to humans are
+the second of a blink
+to god.<Delay 10><New>
+There is no time for
 hesitation."<Close><End of Block>
 <TextBlock 89 w:40 h:3>
-...<Delay 5>Useless.
-They allowed contact
+...<Delay 5>He is 
+useless. To allow 
+them contact
 with Shevat...<Close><End of Block>
 <TextBlock 90 w:52 h:3>
-There is an 'Anima Relic'
-in Shevat<Delay 5>...<Delay 5><New>
-...We can't afford to have
-them align before
-preparations are complete.<Close><End of Block>
+There should be an 
+'Anima Relic' in Shevat<Delay 5>
+...<Delay 5><New>
+...If it is aligned
+before our preparations
+are put in order, it
+will be a bit 
+troublesome.<Close><End of Block>
 <TextBlock 91 w:44 h:3>
-It's meaningless if it
-is not compatible with
-our type.<Close><End of Block>
+If we are incompatible
+with it, it is
+meaningless.<Close><End of Block>
 <TextBlock 92 w:32 h:2>
-You want to bury
-all of Shevat?<Close><End of Block>
+Are we to 
+disregard
+Shevat, then?<Close><End of Block>
 <TextBlock 93 w:42 h:1>
-What of the 'Animus'?<Close><End of Block>
+What about the 
+'Animus'?<Close><End of Block>
 <TextBlock 94 w:42 h:4>
 There are others.
 We must respond
-severely so this
-doesn't happen again.<Close><End of Block>
+completely so that 
+this is not 
+repeated.<Close><End of Block>
 <TextBlock 95 w:46 h:3>
-What about the Shevat
-gate? As long as it is
-there, we can't get in.<Close><End of Block>
+How will we deal with
+Shevat's Gate? So long
+as it is there, we
+cannot invade.<Close><End of Block>
 <TextBlock 96 w:48 h:4>
-Easy. We just use
-Achtzehn's gravity
-cannon to compensate
-for the time-space warp.<Close><End of Block>
+Why, simply compensate
+for the time distortion
+with the Achtzehn's
+Gravity Cannon.<Close><End of Block>
 <TextBlock 97 w:36 h:2>
 Achtzehn?
 Is it operational?<Close><End of Block>
 <TextBlock 98 w:50 h:4>
-Re-education is complete.
-It is ready. 
-The airborne squad is
-already assembled.<Close><End of Block>
+The re-education is 
+complete. It is ready. 
+The assembly of its 
+descent unit too is 
+complete.<Close><End of Block>
 <TextBlock 99 w:34 h:1>
-Any side effects?<Close><End of Block>
+Its effect on the
+human body?<Close><End of Block>
 <TextBlock 100 w:46 h:3>
-The regulated 71st
-Airborne should have no
-problems.<Close><End of Block>
+The 71st descent unit
+which has completed
+adjustment should have
+no problems.<Close><End of Block>
 <TextBlock 101 w:34 h:2>
-Well then, I look
-forward to this.<Close><End of Block>
+We look forward 
+to this.<Close><End of Block>
 <TextBlock 102 w:40 h:2>
-Allowing the contact
+Allowing them contact
 with Shevat<Delay 5>...<Close><End of Block>
 <TextBlock 103 w:38 h:3>
 Not only Shevat.
-The Ignas defeat,
-the Thames retreat.<New>
-And yes, even Elru,
-you<Delay 5>...<Close><End of Block>
+The loss of Ignas.
+The retreat at the
+Thames.<New>
+Yes, and Elru also,
+as I recall.<Close><End of Block>
 <TextBlock 104 w:24 h:2>
-Useless...
-as always<Delay 5>...<Close><End of Block>
+You are useless,
+as always<Delay 5>
+...<Close><End of Block>
 <TextBlock 105 w:36 h:2>
-A failure to begin
-with<Delay 5>...<Close><End of Block>
+You are a failure
+after all<Delay 5>...<Close><End of Block>
 <TextBlock 106 w:20 h:1>
 'Trash'<Delay 5>...<Close><End of Block>
 <TextBlock 107 w:50 h:2>
 Ramsus
-"What did you just say!?"<Close><End of Block>
+"Bastards!
+What did you just say!?"<Close><End of Block>
 <TextBlock 108 w:30 h:2>
 Hmph...
-It's the truth.<Close><End of Block>
+It is the 
+truth.<Close><End of Block>
 <TextBlock 109 w:42 h:4>
-And just what is that
+And what is that
 attitude?<Delay 5>...<Delay 5>
-You should show
+We expect you to show
 some loyalty.<Close><End of Block>
 <TextBlock 110 w:50 h:4>
 Ramsus
-"H, how dare you ridicule
-me by calling me 'trash'?
-Damn you!"<Close><End of Block>
+"How, how dare you ridicule
+me by calling me 'trash'!
+Bastards..!"<Close><End of Block>
 <TextBlock 111 w:30 h:2>
 Ramsus
 "Guh...guhaah."<Close><End of Block>
 <TextBlock 112 w:54 h:3>
 Miang
-"Calm down, Commander!
-It's not good for you.<New>
-You still haven't recovered
-from the last battle!"<Close><End of Block>
+"Please calm yourself,
+Excellency! This will
+effect your health.<New>
+Your wounds from the 
+earlier battle are not
+yet fully healed! Your
+Excellency!"<Close><End of Block>
 <TextBlock 113 w:38 h:1>
-It does not matter.<Close><End of Block>
+It matters not.<Close><End of Block>
 <TextBlock 114 w:52 h:4>
-The Lambs are probably
-on their way to destroying
-the gate. But, not
-this time<Delay 5>...<Close><End of Block>
+The Lambs are likely
+on their way to destroy
+the gates. This
+time, surely<Delay 5>...<Close><End of Block>
 <TextBlock 115 w:48 h:2>
-I'd like to see
-your 'intrinsic' powers.<Close><End of Block>
+We want to see your
+'intrinsic powers'.<Close><End of Block>
 <TextBlock 116 w:40 h:3>
-If you aren't the
-'trash' we think you
-are<Delay 5>...<Close><End of Block>
+If you mean to show
+us that you are not
+"trash"<Delay 5>...<Close><End of Block>
 <TextBlock 117 w:36 h:4>
 Ramsus
 "Miang<Delay 5>...<Delay 5>
-Launch the ship<Delay 5>...<Delay 5>
+Launch the warship<Delay 5>...<Delay 5>
 Get to him<Delay 5>..."<Close><End of Block>
 <TextBlock 118 w:46 h:4>
 Ramsus
-"This time<Delay 5>...<Delay 5>
-I'll go myself<Delay 5>...<Delay 5> and
-I'll bring him down<Delay 5>..."<Close><End of Block>
+"I<Delay 5>...<Delay 5>
+will go<Delay 5>...<Delay 5> This time
+<Delay 5>...<Delay 5> I will bring him down<Delay 5>..."<Close><End of Block>
 <TextBlock 119 w:50 h:3>
 Miang
-"Commander, you can't go 
-out there like that!"<Close><End of Block>
+"Excellency, that is impossible 
+in your condition!"<Close><End of Block>
 <TextBlock 120 w:40 h:4>
 Kelvena
-"Commander, request
-permission to handle
-the situation?"<Close><End of Block>
+"May I request that 
+you leave this duty
+to us, Your Excellency?"<Close><End of Block>
 <TextBlock 121 w:20 h:2>
 Miang
-"You all?"<Close><End of Block>
+"You will...?"<Close><End of Block>
 <TextBlock 122 w:48 h:3>
 Dominia
-"We'll do our best to
-meet your expectations."<Close><End of Block>
+"We will certainly give
+our all in order to meet
+His Excellency's 
+expectations."<Close><End of Block>
 <TextBlock 123 w:40 h:4>
 Kelvena
-"Commander please,
-you must get medical
-attention<Delay 5>..."<Close><End of Block>
+"So please, Excellency,
+get medical attention as
+quickly as possible."<Close><End of Block>
 <TextBlock 124 w:38 h:3>
 Dominia
-"To make our ideals
-a reality."<Close><End of Block>
+"In order to put our
+ideals into practice."<Close><End of Block>
 <TextBlock 125 w:48 h:2>
 Kelvena
 "Well then, we are off."<Close><End of Block>
 <TextBlock 126 w:36 h:2>
-So, there's one
-surface gate left.<Close><End of Block>
+One surface gate
+remains, then.<Close><End of Block>
 <TextBlock 127 w:38 h:2>
-Ramsus, he couldn't
-defend it<Delay 5>...<Close><End of Block>
+Cursed Ramsus, to 
+fail to defend them 
+is<Delay 5>...<Close><End of Block>
 <TextBlock 128 w:44 h:2>
-What is the purpose of
-his existence<Delay 5>...<Close><End of Block>
+For what purpose
+does he exist<Delay 5>...<Close><End of Block>
 <TextBlock 129 w:50 h:3>
-Once 'trash', always
-'trash'. How much can one
-really expect?<Close><End of Block>
+'Trash' is 'trash',
+after all. What can one
+expect from such a thing
+as him?<Close><End of Block>
 <TextBlock 130 w:42 h:4>
-However,<Delay 5> it must not
-be aligned before the
-'Animus'<Delay 5> data is
-retrieved.<Close><End of Block>
+But<Delay 5> we cannot
+allow them to align
+before the 'Animus'<Delay 5> 
+data is collected.<Close><End of Block>
 <TextBlock 131 w:34 h:4>
-You are right.<New>
-There is a higher
-probability of
-not getting
-the proper type.<Close><End of Block>
+Correct.<New>
+And so the
+probability that
+the proper 
+type will be 
+unobtainable
+grows higher.<Close><End of Block>
 <TextBlock 132 w:32 h:2>
-As it was in the
+As it did in the
 past<Delay 5>...<Close><End of Block>
 <TextBlock 133 w:42 h:2>
-We can't allow the 
-lambs to go free yet.<Close><End of Block>
+We cannot set the 
+ignorant lambs free 
+yet.<Close><End of Block>
 <TextBlock 134 w:40 h:3>
 Krelian
-"Who cares about the
-gate anyways."<Close><End of Block>
+"The fate of the
+gate is irrelevant,
+is it not?"<Close><End of Block>
 <TextBlock 135 w:20 h:1>
 Krelian<Delay 5>...<Close><End of Block>
 <TextBlock 136 w:40 h:3>
-This can't be.<Delay 5>
-The panic has spread
-to Etrenank.<Close><End of Block>
+We cannot allow 
+that.<Delay 5> The 
+panic will spread
+even here to
+Etrenank.<Close><End of Block>
 <TextBlock 137 w:40 h:4>
 Krelian
-"Those fools we call
-citizens are easily
-manipulated by<New>
-the Emperor's
-words alone."<Close><End of Block>
+"Those empty-headed 
+masses known as 
+citizens can be 
+easily controlled<New>
+by the slightest 
+word from the 
+Emperor."<Close><End of Block>
 <TextBlock 138 w:36 h:2>
-You think Cain
-will be receptive?<Close><End of Block>
+Can we expect
+Cain to accept?<Close><End of Block>
 <TextBlock 139 w:48 h:3>
-His body's already at
-the limit, he can't hold
-out much more<Delay 5>...<Close><End of Block>
+His body has already
+reached its limits,
+after all<Delay 5>...<Close><End of Block>
 <TextBlock 140 w:50 h:4>
 Krelian
-"As usual<Delay 5> a 
-clone may be used.<New>
-Those fools won't know
-the difference.<New>
-And even if the 
-barrier<Delay 5> fails, it
-still will not be like 
-the disaster before.<New>
-Anyhow<Delay 5>...<Delay 5>
-if I recall, there's some
-very intriguing data on
-that memory cube."<Close><End of Block>
+"A dummy<Delay 5> will
+suffice, as usual.<New>
+Those fools will 
+not recognise the 
+difference.<New>
+What's more<Delay 5> even if 
+the gate is breached, 
+behaving as before will
+not draw any attention 
+to it.<New>
+More importantly<Delay 5>...<Delay 5>
+There was something 
+extraordinarily 
+interesting in the report
+from the memory cubes."<Close><End of Block>
 <TextBlock 141 w:34 h:1>
-And what is that?<Close><End of Block>
+And what is 
+that?<Close><End of Block>
 <TextBlock 142 w:30 h:2>
 Krelian
-"The 'mother'."<Close><End of Block>
+"The
+'mother'."<Close><End of Block>
 <TextBlock 143 w:26 h:1>
-The 'mother'?<Close><End of Block>
+The 'mother',
+you say...?<Close><End of Block>
 <TextBlock 144 w:46 h:3>
 Krelian
 "Indeed.<New>
-It is probable that the
+It appears that the
 'mother'<Delay 5> exists
-among the Lambs."<Close><End of Block>
+among those lambs."<Close><End of Block>
 <TextBlock 145 w:36 h:3>
-Are you telling us<Delay 5>
-our 'mother'<Delay 5>is
-somewhere else?<Delay 5> <New>
-Why didn't we
-notice that
-sooner<Delay 5>...<Delay 5>?<Close><End of Block>
+Meaning that<Delay 5>
+there are others 
+of<Delay 5> our 
+'mother'?<Delay 5><New>
+Why would we
+not have become
+aware of this 
+until now<Delay 5>...<Delay 5>?<Close><End of Block>
 <TextBlock 146 w:40 h:4>
 Krelian
 "The sign of the
 'mother'<Delay 5>...<New>
-Her persona, only
-appears after she
-reaches a certain
+The 'mother' persona
+appears only after
+reaching a certain
 age<Delay 5>...<New>
-There is also a high
-probability that she
-transmigrated into
-the 'Antitype'."<Close><End of Block>
+And there is a high
+likelihood that this
+is the reincarnation
+of the 'Antitype'."<Close><End of Block>
 <TextBlock 147 w:50 h:2>
 The 'Antitype'<Delay 5>...<Delay 5>
-That woman from Nisan<Delay 5>...<Delay 5>?<Close><End of Block>
+That woman from Nisan,<Delay 5>
+then...<Delay 5>?<Close><End of Block>
 <TextBlock 148 w:48 h:4>
 Krelian
-"Here<Delay 5>...<Delay 5>
-I would like to use that
-nanotechnology product,<Delay 5><New>
+"That was her<Delay 5>...<Delay 5>
+I think we should use
+that product of Zeboim
+nanotechnology,<Delay 5><New>
 'Emeralda'."<Close><End of Block>
 <TextBlock 149 w:36 h:3>
-What you retrieved
-from the Thames?<Delay 5>
+That which you
+recovered from
+the Thames?<Delay 5>
 Why?<Close><End of Block>
 <TextBlock 150 w:54 h:4>
 Krelian
-"To be sure.<Delay 15>
-As 'mother'<Delay 5> says,
-that nanomachine colony<Delay 5>...<New>
-that artificial organism,<Delay 5>
-was a creation between the
-'Contact'<Delay 5> and the
-'Antitype'<Delay 5> 4000 years ago."<Close><End of Block>
+"For confirmation.<Delay 15>
+As the 'mother'<Delay 5> says,
+that colony of 
+nanomachines<Delay 5>...<New>
+That artificial lifeform,<Delay 5>
+was created by the 
+'Contact'<Delay 5> and the 
+'Antitype'<Delay 5> 4000 
+years ago."<Close><End of Block>
 <TextBlock 151 w:28 h:2>
 <Delay 5>The 'mother's'
-memory<Delay 5>...<Close><End of Block>
+memories<Delay 5>...<Close><End of Block>
 <TextBlock 152 w:54 h:4>
 Krelian
-"Yes, that is it.<Delay 10>
-We can probably attain
-some kind of reaction.<New>
-But even if we obtain no
-reaction,<Delay 5> and if
-'Emeralda'<Delay 5>is destroyed,<New>
-I've already gathered all
-the data I need.<New>
-Any loss of it will have no
-consequence to the plan."<Close><End of Block>
+"That exactly.<Delay 10>
+We can probably obtain
+some kind of 
+reaction.<New>
+Furthermore, even if
+'Emeralda'<Delay 5> is 
+destroyed<Delay 5> without
+our obtaining any reaction,<New>
+the data collection on it
+is finished.<New>
+Were we to lose it, that
+would in no way obstruct 
+the plan."<Close><End of Block>
 <TextBlock 153 w:38 h:3>
-Cain<Delay 5>...<Delay 5>
-Making a ridiculous
-setup with Hyuga<Delay 5>...<Close><End of Block>
+Cursed Cain<Delay 5>...<Delay 5>
+Planning this
+pointless farce
+with the likes of
+Hyuga<Delay 5>...<Close><End of Block>
 <TextBlock 154 w:48 h:3>
-He certainly has his
-deficiencies compared to
-our digitized existence,<New>
-which permits us to use
-a higher level of
-logical thinking<Delay 5>...<Close><End of Block>
+He clearly differs from
+we who have attained
+advanced logical 
+faculties<New>
+from being converted
+into data<Delay 5>...<Close><End of Block>
 <TextBlock 155 w:46 h:2>
-He is restricted by his
-human form.<Close><End of Block>
+Cain is too caught up
+in his human form.<Close><End of Block>
 <TextBlock 156 w:46 h:3>
-Regardless<Delay 5>...<Delay 5>with
-just one machine, he
-annihilated Etrenank<Delay 5>...<New>
-His powers must not be
-underestimated<Delay 5>...<Close><End of Block>
+Be that as it may<Delay 5>...
+<Delay 5>To destroy
+Etemenanki with a 
+single machine<Delay 5>...<New>
+His power cannot be
+made light of<Delay 5>...<Close><End of Block>
 <TextBlock 157 w:44 h:3>
-We're already short of
+Already, we are out of
 time.<Delay 10> The key,
 use the key<Delay 5>...<Close><End of Block>
 <TextBlock 158 w:46 h:3>
 Krelian
-"Even you are beginning
-to feel the pressure?"<Close><End of Block>
+"Naturally, you are a
+bit terrified, 
+aren't you?"<Close><End of Block>
 <TextBlock 159 w:40 h:2>
 Krelian<Delay 5>...<Delay 5> What
-is Cain's situation?<Close><End of Block>
+is Cain's 
+condition?<Close><End of Block>
 <TextBlock 160 w:50 h:4>
 Krelian
-"The usual life extension
-treatment. He'll hold out
-for<Delay 5>...<Delay 5> a little<New>
-longer<Delay 5>..."<Close><End of Block>
+"Undergoing the usual 
+life extension treatment. 
+It should maintain him<Delay 5>...<Delay 5><New>
+for a little longer<Delay 5>...
+I had to use more than
+I expected thanks to his
+insistence to use his body
+in my experiments<Delay 5>..."<Close><End of Block>
 <TextBlock 161 w:46 h:2>
-Does that mean we may
-not make it in time<Delay 5>...?<Close><End of Block>
+So there is a 
+possibility that 
+we will not be in
+time<Delay 5>...<Close><End of Block>
 <TextBlock 162 w:54 h:3>
 Krelian
-"I wouldn't know<Delay 5>...<New>
-You spoke of using the key.<Delay 15>
-Can you be sure he
-can be eliminated?"<Close><End of Block>
+"Who can say<Delay 5>...?<New>
+At any rate, did you speak
+of using the key?<Delay 15>
+Is there any guarantee 
+Lacan can be removed?"<Close><End of Block>
 <TextBlock 163 w:42 h:2>
-That we do not know.<Delay 20>
-You know who he is<Delay 5>...<Close><End of Block>
+We do not know.<Delay 20>
+You know who the 
+opponent is<Delay 5>...<Close><End of Block>
 <TextBlock 164 w:48 h:3>
-If he is<Delay 5> the 'contact',<Delay 5>
+If he is<Delay 5> the 'contact'<Delay 5>
 there is a possibility
-he may not transmigrate.<Close><End of Block>
+he will not mutate.<Close><End of Block>
 <TextBlock 165 w:44 h:4>
-It's an organism
-composed of multiple
-generations.<Delay 5> It's a
-matter of probability.<Close><End of Block>
+He is a lifeform
+that recurs through
+the ages.<Delay 5> It is 
+a matter of 
+probability.<Close><End of Block>
 <TextBlock 166 w:42 h:2>
-That does not mean we
-can just remain idle.<Close><End of Block>
+For that reason we
+cannot remove 
+ourselves
+from this.<Close><End of Block>
 <TextBlock 167 w:52 h:4>
-Yes.<Delay 5> At this rate we
-are bound to make the same
-mistake. But we can't fail
-a second time.<Close><End of Block>
+Correct.<Delay 5> At this rate it
+will be a repetition of 
+our past failure. We will 
+not be allowed another 
+mistake.<Close><End of Block>
 <TextBlock 168 w:48 h:4>
 Krelian
-"Well don't worry.<Delay 5> I've
-sent Ramsus to deal with
-him."<Close><End of Block>
+"Come now, don't be so 
+impatient.<Delay 5> I have 
+sent Ramsus after him."<Close><End of Block>
 <TextBlock 169 w:36 h:2>
-What can a failure
-like him do?<Close><End of Block>
+What can that 
+failure do?<Close><End of Block>
 <TextBlock 170 w:46 h:4>
-He couldn't even defend
-Etrenank. What can you
-expect from 'trash'
-like him.<Close><End of Block>
+We can expect nothing
+more from the 'trash'
+that could not 
+acceptably defend 
+Etemenanki's airspace, 
+can we not?<Close><End of Block>
 <TextBlock 171 w:38 h:3>
 Krelian
-"Even if he has the
-'Anima Relic'?"<Close><End of Block>
+"Even if he is
+given an 'Anima 
+Vessel'?"<Close><End of Block>
 <TextBlock 172 w:30 h:1>
-The 'Relic'<Delay 5>...<Delay 5>?<Close><End of Block>
+A 'Vessel',<Delay 5>
+you say<Delay 5>...?<Close><End of Block>
 <TextBlock 173 w:46 h:4>
 Krelian
-"The relic we recovered
-before has been aligned
-with his Gear.<New>
-There shouldn't be
-any problems now. He
-should be able to use
-his full power."<Close><End of Block>
+"I aligned his gear 
+with one of the vessels 
+that was recovered 
+previously.<New>
+Now there will be no
+reason for complaint.
+He should be able to
+demonstrate his true
+power."<Close><End of Block>
 <TextBlock 174 w:52 h:3>
-You're going to take
-the task yourself?<Delay 20><New>
-Although he transmigrated,
-wasn't he once one of you?<Delay 10>
-I don't understand you.<Close><End of Block>
+You mean that you will
+do this yourself?<Delay 20><New>
+Transmigrated though he
+may be, Lacan was once
+your ally, was he not?<Delay 10>
+You are incomprehensible.<Close><End of Block>
 <TextBlock 175 w:52 h:4>
 Krelian
-"I've thrown away all
-feelings of human emotion.<Delay 10>
-All I need<Delay 5> is 'her'."<Close><End of Block>
+"I long ago abandoned these
+emotions known as the human
+heart.<Delay 10>
+All I require now<Delay 5> 
+is 'her'."<Close><End of Block>
 <TextBlock 176 w:32 h:2>
-But isn't that
-also an emotion?<Close><End of Block>
+That too is 
+called emotion, 
+is it not?<Close><End of Block>
 <TextBlock 177 w:30 h:2>
 Krelian
 "<Delay 5>...<Delay 5>Of course."<Close><End of Block>
 <TextBlock 178 w:20 h:2>
 Is that a
-blunder<Delay 5>...<Close><End of Block>
+bluff,<Delay 5>
+then...?<Close><End of Block>
 <TextBlock 179 w:50 h:4>
 Krelian
 "You are irritating...<Delay 25>
-Do you wish to cease your
-existence?"<Close><End of Block>
+Do you want to be erased
+here and now?"<Close><End of Block>
 <TextBlock 180 w:40 h:2>
-Fine.<Delay 15> We shall leave
-it at that.<Close><End of Block>
+Very well then,<Delay 15> we
+shall leave it at 
+that.<Close><End of Block>
 <TextBlock 181 w:42 h:2>
 What do you mean...
 he's still alive<Delay 5>...!?<Close><End of Block>
@@ -820,351 +965,394 @@ he's still alive<Delay 5>...!?<Close><End of Block>
 Krelian
 "Yes."<Close><End of Block>
 <TextBlock 183 w:38 h:3>
-Ridiculous.<Delay 10>
+Unbelievable.<Delay 10>
 Didn't Ramsus shoot
 him down?<Close><End of Block>
 <TextBlock 184 w:50 h:4>
 Krelian
-"She was also on the Gear
-that Ramsus shot down.<Delay 10>
-I won't have her die."<Close><End of Block>
+"She was riding in the 
+Gear that he shot down.<Delay 10>
+Her death would be 
+unfortunate."<Close><End of Block>
 <TextBlock 185 w:52 h:3>
-But, there is already
-a 'mother'<Delay 5>...<New>
-Although she may be the
-'Antitype',<Delay 5> as long as the
-current mother exists<Delay 5>...<Close><End of Block>
+We already have a 
+'mother', do we 
+not<Delay 5>...?<New>
+Even if she is the
+'Antitype',<Delay 5> as long as we
+have the present 
+'mother'<Delay 5>...<Close><End of Block>
 <TextBlock 186 w:44 h:3>
 Krelian
-"As far as I see it,<Delay 5>
-that is not<Delay 5> complete."<Close><End of Block>
+"I cannot call 
+that<Delay 5> completion."<Close><End of Block>
 <TextBlock 187 w:52 h:3>
-Quite picky aren't you<Delay 5>...?<Delay 5>
-Didn't you say you threw
-away<Delay 5> all human emotions?<Close><End of Block>
+You are quite concerned 
+with this<Delay 5>...<Delay 5>
+Didn't you cast off your
+<Delay 5>human emotions?<Close><End of Block>
 <TextBlock 188 w:54 h:4>
 Krelian
-"I don't care what you
-think. Anyway<Delay 5>...<New>
-As far as he is concerned,
-I will put Ramsus onto him.<Delay 10>
-Any objections?<Delay 10>
-Where is he presently?"<Close><End of Block>
+"This is pointless<Delay 5>...<New>
+I will send Ramsus after 
+him.<Delay 10>
+Are there any objections?<Delay 10>
+Do you know his current 
+location?"<Close><End of Block>
 <TextBlock 189 w:46 h:3>
-Etrenank is destroyed,
-but part of the memory
-cube is still active.<New>
-We should still be able
-to locate individuals.<Close><End of Block>
+Though Etemenanki is 
+destroyed, part of the 
+memory cube's functions 
+are still active.<New>
+It can still specify 
+the locations of 
+individuals.<Close><End of Block>
 <TextBlock 190 w:42 h:4>
 Wait a moment<Delay 5>...<Delay 5>
-He has left the crash
-site and is heading
-towards Ignas.<Close><End of Block>
+He has left the 
+crash site, and 
+is en-route to 
+Ignas.<Close><End of Block>
 <TextBlock 191 w:52 h:4>
 Krelian
 "I see.<Delay 10>
-So he has left the area<Delay 5>...<New>
-(That means<Delay 5>...<Delay 5>
+He has left that 
+place.<Delay 5>...<New>
+(Which means<Delay 5>...<Delay 5>
 it is only a matter of
-time before the seal is
-broken<Delay 5>...)"<Close><End of Block>
+time until the seal 
+is lifted<Delay 5>...)"<Close><End of Block>
 <TextBlock 192 w:44 h:1>
 Did you say something?<Close><End of Block>
 <TextBlock 193 w:46 h:4>
 Krelian
-"It's nothing.<Delay 15>
-Just sit there and wait
-for the good news."<Close><End of Block>
+"Nothing consequential.<Delay 15>
+Just wait there for 
+some good news."<Close><End of Block>
 <TextBlock 194 w:44 h:4>
 What about retrieving
 the girl?<Delay 15>
-The key is already
-beginning to resonate.<New>
-The time of the
-resurrection is near.<Close><End of Block>
+The key is
+beginning to 
+resonate.<New>
+The time of god's 
+revival is drawing 
+near.<Close><End of Block>
 <TextBlock 195 w:30 h:4>
 Krelian
-"We can get the
-girl anytime.<New>
-It doesn't have
-to be now<Delay 5>...<Delay 5>
-Let's take our
-time<Delay 5>..."<Close><End of Block>
+"We can 
+retrieve
+the girl at 
+any time.<New>
+Even if it 
+is not now<Delay 5>...<Delay 5>
+She will come
+to us sooner 
+or later<Delay 5>..."<Close><End of Block>
 <TextBlock 196 w:46 h:4>
-So, they are naturally
-germinating because the
-resurrection of god is
+A spontaneous 
+germination 
+because the revival of 
+god has drawn 
 near<Delay 5>...<Close><End of Block>
 <TextBlock 197 w:52 h:3>
-Those who will become the
-body of our servant<Delay 5>...<Delay 5><New>
-I never knew so many would
-exist, even without using
+Those to become the flesh 
+of our servants<Delay 5>...<Delay 5><New>
+That so many would exist 
+without our using 
 the key<Delay 5>...<Close><End of Block>
 <TextBlock 198 w:42 h:3>
-But, some of them
-still have not yet
-begun to germinate<Delay 5>...<Close><End of Block>
+But, as yet there 
+are those who have 
+not germinated<Delay 5>...<Close><End of Block>
 <TextBlock 199 w:34 h:3>
-Are they not
-destined to be
-the flesh of god?<Close><End of Block>
+They may be 
+destined to be 
+the body of god.<Close><End of Block>
 <TextBlock 200 w:34 h:3>
-Or, perhaps those
-are the enemies
+Or perhaps, 
+they are enemies 
 of god<Delay 5>...<Close><End of Block>
 <TextBlock 201 w:40 h:3>
-Let us reactivate
-the strategic points
-of the Soylent<Delay 5>...<Close><End of Block>
+Let us reactivate 
+the Soylent centers 
+in key locations.<Delay 5>...<Close><End of Block>
 <TextBlock 202 w:50 h:4>
-At any rate, they are
-just incomplete mutants.<Delay 10>
-They are useless now in
-their half-finished form.<Close><End of Block>
+At any rate, their 
+mutation is incomplete.<Delay 10>
+They will not be of 
+use as they are.<Close><End of Block>
 <TextBlock 203 w:38 h:4>
-God's apostles.
-There cannot be any
-harm in having too
-many of them...<Close><End of Block>
+The disciples of 
+god. There can 
+never be too 
+many...<Close><End of Block>
 <TextBlock 204 w:48 h:3>
-The germinating of those
-destined to be the body
-of the servant of god.<Close><End of Block>
+The germination of those 
+destined to be the flesh 
+of the servants of god.<Close><End of Block>
 <TextBlock 205 w:46 h:3>
-As before, the humans
-are gathering in Nisan.
+The people are 
+beginning to gather 
+in Nisan, same as 
+in the past. 
 At this rate<Delay 5>...<Close><End of Block>
 <TextBlock 206 w:38 h:3>
-Not to fear...
-This might actually
-be helpful for us.<Close><End of Block>
+Nay, this may be 
+all the more 
+opportune.<Close><End of Block>
 <TextBlock 207 w:54 h:4>
-The time is near.<New>
-Should we not prepare for
-those who are to become the
-fleshly body of god, and
-those who will awaken god?<Close><End of Block>
+The time is nearly upon us.<New>
+Should we not prepare those 
+who proclaim the awakening 
+of god: those who will 
+become god's flesh?<Close><End of Block>
 <TextBlock 208 w:34 h:3>
-The time has come
-to activate<Delay 10> the
-'Gaetia Key'<Delay 5>...<Close><End of Block>
+The time has come<Delay 10> 
+to put the 
+"Lesser Goetia 
+Key" into 
+operation<Delay 5>...<Close><End of Block>
 <TextBlock 209 w:22 h:1>
-Wha, what!?<Close><End of Block>
+Wh, what!?<Close><End of Block>
 <TextBlock 210 w:12 h:1>
 Cain!?<Close><End of Block>
 <TextBlock 211 w:48 h:4>
 Emperor Cain
-"What more do you intend
-to do? I can not allow
-you to use the 'Key'!"<Close><End of Block>
+"What are you planning 
+to do, going beyond this 
+point? I by no means 
+permitted you to use the 
+'Key'!"<Close><End of Block>
 <TextBlock 212 w:40 h:2>
 Cain!
 What are you doing!?<Close><End of Block>
 <TextBlock 213 w:48 h:3>
-Without the resurrection
-of god, our purpose
-cannot be fulfilled!<Close><End of Block>
+Our goal will not be 
+fulfilled without the 
+revival of god!<Close><End of Block>
 <TextBlock 214 w:44 h:3>
-Or<Delay 5>...<Delay 5>are you planning
-on perishing with god,
-Cain<Delay 5>...?<New>
-Without fulfilling our
-purpose<Delay 5>...<Delay 5><Close><End of Block>
+Or perhaps<Delay 5>...<Delay 5>
+You mean to destroy 
+yourself along with 
+god, Cain<Delay 5>...<New>
+and make our goal 
+unachievable<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 215 w:50 h:4>
 Emperor Cain
-"Your purpose...?
-You were fated to
-it from your birth.<New>
-Why haven't you realized
-that it does not arise
-from your own free will?"<Close><End of Block>
+"The goal...
+That itself is the 
+chain which has bound us 
+since the genesis.<New>
+Why do you not realize 
+that it is not something 
+that originates from your 
+own will?"<Close><End of Block>
 <TextBlock 216 w:40 h:1>
-I've heard enough<Delay 5>...<Close><End of Block>
+You have no ear for 
+reason, it seems<Delay 5>...<Close><End of Block>
 <TextBlock 217 w:30 h:3>
 Yes.
-This is of our
-own volition<Delay 5>...<Close><End of Block>
+This is our
+will<Delay 5>...<Close><End of Block>
 <TextBlock 218 w:38 h:2>
-If you still insist<Delay 10>
-on opposing us<Delay 5>...<Close><End of Block>
+And if you say that<Delay 10>
+you are in 
+opposition to 
+it<Delay 5>...<Close><End of Block>
 <TextBlock 219 w:28 h:1>
 Guuaaaaaaaaah!<Close><End of Block>
 <TextBlock 220 w:48 h:3>
 Emperor Cain
-"Have you forgotten?<Delay 10>
-You are my subordinates!<New>
-I can destroy you if I
-so desire."<Close><End of Block>
+"Have you forgotten<Delay 10>
+that you are subordinates 
+to me?<New>
+I can eliminate you 
+at this very moment."<Close><End of Block>
 <TextBlock 221 w:30 h:1>
 Nnnuuuuuuuhh<Delay 5>...<Close><End of Block>
 <TextBlock 222 w:52 h:4>
 Emperor Cain
-"We have already done our
-part.<New>
-It's time to pass the helm
-to the next generation.<Delay 10>
+"Soon our duty will 
+be complete.<New>
+The helm will be passed 
+over to a new era.<Delay 10>
 The people will not
-perish<Delay 5>...<Delay 5>"<Close><End of Block>
+be destroyed<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 223 w:30 h:2>
 He is no longer
-one of us<Delay 5>...<Close><End of Block>
+like us<Delay 5>...<Close><End of Block>
 <TextBlock 224 w:52 h:3>
-Yes.<Delay 10> He dares to go
-against our objectives.<Delay 10>
-Just like the other one<Delay 5>...<Close><End of Block>
+Indeed.<Delay 10> He opposes 
+our objective.<Delay 10>
+The same as him<Delay 5>...<Close><End of Block>
 <TextBlock 225 w:42 h:2>
-We can still activate<Delay 5>
+If he was with us<Delay 5>
+we could activate 
 the key<Delay 5>...<Close><End of Block>
 <TextBlock 226 w:40 h:3>
-We must do something
-about the one who
-stands in our way<Delay 5>...<New>
+We must eliminate 
+those who 
+will become 
+obstacles.<Delay 5>...<New>
 We must eliminate
 Cain<Delay 5>...<Close><End of Block>
 <TextBlock 227 w:30 h:3>
-But, we can not
-stand up to his
+But we cannot 
+defy his 
 power.<Close><End of Block>
 <TextBlock 228 w:34 h:2>
-Only<Delay 5> 'Cain'<Delay 5> can
-destroy<Delay 5> 'Cain'<Delay 5>...<Close><End of Block>
+The one<Delay 5> who will<Delay 5> 
+destroy "Cain"<Delay 5> 
+is "Cain" 
+himself<Delay 5>...<Close><End of Block>
 <TextBlock 229 w:34 h:2>
-So 'Mother',<Delay 5> will
-you do it for us?<Close><End of Block>
+......<Delay 5>Will 
+you handle this, 
+"mother"?<Close><End of Block>
 <TextBlock 230 w:52 h:3>
 Miang
-"Maybe<Delay 5>...<Delay 5>
-Did Krelian say anything?"<Close><End of Block>
+"Let me see<Delay 5>...<Delay 5>
+Has Krelian been saying 
+anything?"<Close><End of Block>
 <TextBlock 231 w:42 h:4>
-Something concerning
-the potential ability
-as a countervailing
-existence...<New>
-With everything
-focusing towards
-a single point<Delay 5>...<Close><End of Block>
+He spoke of the
+possibility of 
+focusing all of 
+his potential...<New>
+as a canceling 
+factor into a 
+single point<Delay 5>...<Close><End of Block>
 <TextBlock 232 w:48 h:3>
 Miang
 "I see<Delay 5>...<Delay 5><New>
-But Kahr is still shaken
-up by<Delay 5>...<Delay 5>yesterday's
-defeat against Fei.<New>
-We are almost ready.<Delay 10>
-I need just a little
-bit more time<Delay 5>...<Delay 5>"<Close><End of Block>
+That last defeat by Fei
+<Delay 5>...<Delay 5>has 
+left Carl quite 
+unstable.<New>
+Just a little longer<Delay 10>
+And we'll be ready<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 233 w:38 h:3>
-Then we'll wait.<Delay 15>
-We'll wait till the
-time is ripe<Delay 5>...<Close><End of Block>
+In that case we 
+will wait.<Delay 15>
+For that time 
+to come<Delay 5>...<Close><End of Block>
 <TextBlock 234 w:24 h:1>
-Worthless<Delay 5>...<Close><End of Block>
+Trash<Delay 5>...<Close><End of Block>
 <TextBlock 235 w:16 h:1>
 Trash<Delay 5>...<Close><End of Block>
 <TextBlock 236 w:18 h:1>
-Reject<Delay 5>...<Close><End of Block>
+Trash<Delay 5>...<Close><End of Block>
 <TextBlock 237 w:30 h:2>
-Why even bother
-existing<Delay 5>...?<Close><End of Block>
+For what 
+purpose 
+do you 
+exist<Delay 5>...?<Close><End of Block>
 <TextBlock 238 w:18 h:1>
-Defect<Delay 5>...<Close><End of Block>
+Failure<Delay 5>...<Close><End of Block>
 <TextBlock 239 w:20 h:1>
 Be gone<Delay 5>...<Close><End of Block>
 <TextBlock 240 w:28 h:2>
-We have no use
-for you<Delay 5>...<Close><End of Block>
+Your 
+usefulness 
+has already 
+ended<Delay 5>...<Close><End of Block>
 <TextBlock 241 w:44 h:3>
-Hah!
-Trash is of more worth
-to us than you<Delay 5>...<Close><End of Block>
+Nay. 
+He is trash, incapable 
+of any use.<Delay 5>...<Close><End of Block>
 <TextBlock 242 w:12 h:2>
 Ramsus
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 243 w:44 h:4>
 Miang
-"Kahr<Delay 5>...<Delay 5>
+"Carl<Delay 5>...<Delay 5>
 Don't worry.<New>
-I'll always be by your
-side. No one knows you
-better than I do.
-So don't<Delay 5>...<Delay 5>"<Close><End of Block>
+I will always be with 
+you. I know you better 
+than anyone else.
+So<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 244 w:48 h:4>
 Ramsus
-"Miang!<Delay 15>
-Is this<Delay 5>...<Delay 5>
-Is this all I can do?<New>
-Is this the extent of my
-strength and abilities?<New>
-I couldn't beat him<Delay 5>...<Delay 5>
-And in front of that
-woman, I couldn't even
-do a thing<Delay 5>...<New>
+"Myyah!<Delay 15>
+Is this, is this<Delay 5>
+...<Delay 5>the limit of
+my power?<New>
+Am I capable of nothing 
+more than this amount of 
+power?<New>
+I cannot win against 
+him,<Delay 5> and I 
+couldn't do a single 
+thing in the face of 
+that woman<Delay 5>...<New>
 Is this the limit of my
 existence!?<Delay 25>
 My abilities<Delay 5>...<Delay 5>!?"<Close><End of Block>
 <TextBlock 245 w:54 h:4>
 Krelian
-"<Delay 5>...<Delay 5>You're the same as
-Cain.<New>
-An archetype that
-surpasses all humans.<Delay 5>
-I made you in the same way.<New>
-But he is the one who is
-preventing you from fully
-releasing your powers.<New>
-Divided powers<Delay 5>...<Delay 5>
-That man was your original
-form.<Delay 5> The primordial
-superior being<Delay 5>...<New>
-If you could defeat him,
-then you would be<Delay 5>..."<Close><End of Block>
+"<Delay 5>...<Delay 5>are identical 
+to Cain's,<New>
+a being of the genesis 
+who transcends all humans.<Delay 5>
+It was in that image that 
+I created you.<New>
+He is the one who is 
+preventing the release of 
+your power.<New>
+Divided power<Delay 5>...<Delay 5>
+That man was your source 
+form,<Delay 5> the transcendental 
+being since the time of 
+the genesis<Delay 5>...<New>
+If only you remove him, 
+you will be<Delay 5>..."<Close><End of Block>
 <TextBlock 246 w:52 h:4>
 Miang
-"Yes.<New>
-Even with your superior
-constitution, the
-existence of the original
-being hinders you.<New>
-If you could eliminate the
-divided power, then it
-would all be yours<Delay 5>...<Delay 5>
-Don't you agree, Kahr<Delay 5>...?"<Close><End of Block>
+"That's right.<New>
+While you possess superior 
+qualities, you are 
+deprived because of the 
+existence of the original.<New>
+If you remove the division 
+of power, it will all be 
+yours<Delay 5>...<Delay 5>
+Isn't that so, Carl<Delay 5>...?"<Close><End of Block>
 <TextBlock 247 w:26 h:2>
-So<Delay 5>...
-Cain is dead?<Close><End of Block>
+Cain has
+died<Delay 5>...<Close><End of Block>
 <TextBlock 248 w:8 h:1>
 Yes.<Close><End of Block>
 <TextBlock 249 w:40 h:3>
-The final fate for
-one bound within
-everlasting flesh<Delay 5>...<Close><End of Block>
+So this is the fate 
+of one so long 
+confined in 
+flesh<Delay 5>...<Close><End of Block>
 <TextBlock 250 w:40 h:3>
-If only he had just
-accepted our logical
-ideals too<Delay 5>...<Close><End of Block>
+If only he had 
+logical attributes 
+such as ours<Delay 5>...<Close><End of Block>
 <TextBlock 251 w:50 h:4>
-A fitting end for someone
-who had become dominated
-by needless flesh.<Delay 15>
-Excellent work,<Delay 5> Krelian.<Close><End of Block>
+Because he was dominated 
+by his useless flesh, 
+this was the outcome.<Delay 15>
+Well done,<Delay 5> Krelian.<Close><End of Block>
 <TextBlock 252 w:14 h:2>
 Krelian
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 253 w:46 h:4>
-Now there is nothing
-that can stand in the
-way of us accomplishing
-our objective.<Close><End of Block>
+With this, there are 
+none to obstruct the 
+accomplishment of our 
+objective.<Close><End of Block>
 <TextBlock 254 w:46 h:4>
-<Delay 5>The 'Anima Relics'
-have been awakened and
-have aligned with their
-respective 'Animus'...<New>
-Dan,<Delay 5> Joseph,<Delay 5> Gad<Delay 5>...<Delay 5>
-have each been aligned
-with a surface dweller
-as their 'Animus'<Delay 5>...<Close><End of Block>
+<Delay 5>The "Anima Vessels" 
+have awakened and have 
+obtained "Animus".<New>
+Dan,<Delay 5> Joseph,<Delay 5>and 
+Gad<Delay 5>...<Delay 5>
+which aligned with 
+surface dwellers<Delay 5>...<Close><End of Block>
 <TextBlock 255 w:34 h:4>
 Hyuga's Asher,<Delay 5>
 Ramsus' Zebulun,<Delay 5>
@@ -1172,171 +1360,191 @@ Krelian's Judah,<Delay 5>
 Sophia's Dinah<Delay 5>...<Close><End of Block>
 <TextBlock 256 w:50 h:3>
 Reuben<Delay 5>, Simeon<Delay 5>, Levi<Delay 5>,
-and Issachar<Delay 5> were already
-aligned 500 years ago<Delay 5>...<Close><End of Block>
+and Isachar<Delay 5> which aligned 
+500 years ago<Delay 5>...<Close><End of Block>
 <TextBlock 257 w:50 h:4>
 And finally<Delay 5>...<Delay 5>
 Grahf's Naphtali<Delay 5>...<Delay 5>
-All of the 'Anima Relics'<Delay 5>
-have now been activated.<Close><End of Block>
+All of the "Anima 
+Vessels"<Delay 5> have 
+been activated.<Close><End of Block>
 <TextBlock 258 w:42 h:4>
-The identity of the
-<Delay 5>-Persona- mask<Delay 5> of the
-<Delay 5>'mother'<Delay 5> has also
-become clear.<Close><End of Block>
+The existence of
+<Delay 5>the mother's<Delay 5>
+<Delay 5>persona<Delay 5> too
+has become clear.<Close><End of Block>
 <TextBlock 259 w:36 h:1>
 The <Delay 5>time<Delay 5> has come.<Close><End of Block>
 <TextBlock 260 w:52 h:4>
-Now is the time to open
-the door to god's domain
-to attain the fleshly body
-and the wisdom of god<Delay 5>...<Close><End of Block>
+To obtain god's flesh and 
+wisdom, we now open the 
+door to the kingdom of 
+god<Delay 5>...<Close><End of Block>
 <TextBlock 261 w:40 h:4>
 The time of the true
 awakening<Delay 5>...<Delay 5>
-To carry us to new
+Carry us to new
 horizons<Delay 5>...<New>
-Yes, the time of the
-gospel has come<Delay 5>...!<Close><End of Block>
+The time of the
+gospel has come<Delay 5>...<Close><End of Block>
 <TextBlock 262 w:38 h:3>
-Now, humans!<Delay 5>
-Extol the awakening
-of god!<Close><End of Block>
+Come, all you 
+people.<Delay 5>
+Praise the 
+awakening of 
+god.<Close><End of Block>
 <TextBlock 263 w:46 h:2>
-The fleshly body of god
-has been recovered<Delay 5>...<Close><End of Block>
+The body of God is 
+recovered<Delay 5>...<Close><End of Block>
 <TextBlock 264 w:50 h:2>
 The Anima and the Animus
-have all been obtained<Delay 5>...<Close><End of Block>
+have been obtained<Delay 5>...<Close><End of Block>
 <TextBlock 265 w:54 h:4>
-All that is left for us
-to do is change into the
-Animus, and become one with
-the <Delay 5>mother -Persona-<Delay 5>...<Close><End of Block>
+All that remains is to 
+supplant ourselves in the 
+Animus, and merge with the
+to do is change into the 
+<Delay 5>mother's persona<Delay 5>...<Close><End of Block>
 <TextBlock 266 w:46 h:2>
 Krelian
 "<Delay 5>...<Delay 5>That is incorrect."<Close><End of Block>
 <TextBlock 267 w:52 h:3>
 What?
-What do you mean, Krelian?
-What did you just say?<Close><End of Block>
+What is the meaning of 
+this, Krelian?
+What did you say?<Close><End of Block>
 <TextBlock 268 w:44 h:3>
-What are you doing!?
-Krelian, have you gone
-totally insane!?<Close><End of Block>
+Wh, what are you 
+doing!? Krelian, 
+have you lost 
+your mind!?<Close><End of Block>
 <TextBlock 269 w:42 h:2>
-What are you doing
-to the memory banks!?<Close><End of Block>
+What are you 
+doing to the 
+memory banks!?<Close><End of Block>
 <TextBlock 270 w:36 h:3>
-Do not touch them!<Delay 10>
-We cannot survive
-without them<Delay 5>...!<Close><End of Block>
+Do not touch 
+those!<Delay 10>
+Without them, 
+we will<Delay 5>...<Close><End of Block>
 <TextBlock 271 w:48 h:4>
 Krelian
-"You were the only
-ones who could have
-activated the key...<New>
-But now that it has been
-activated, I no longer
-need you.<Delay 15> I am having
-you all erased."<Close><End of Block>
+"The Key couldn't 
+have been operated 
+without you,<New>
+but now that it is 
+operational, your 
+existence has no value.<Delay 15> 
+I have decided to 
+delete you."<Close><End of Block>
 <TextBlock 272 w:26 h:1>
-How dare you!<Close><End of Block>
+What?!<Close><End of Block>
 <TextBlock 273 w:52 h:4>
 Krelian
-"The only obstacle that
-kept me from my goals was
-Cain.<New>
-He was the one person who
-had total control of the
-people and thus was my
-greatest nemesis.<New>
-But the only person who
-could terminate Cain was
-Cain himself.<New>
-That's why I created<Delay 5>...<Delay 5>
-'a copy of Cain'.<Delay 5>
-Ramsus acted exactly as I
-predicted...killing Cain.<New>
-Now, there is no one who
-can stop 'me'.<Delay 10>
-And I'm not interested in
-your power or authority.<New>
-Did you really think you
-were acting on your own
-free will?<Delay 10> You are all
-just parts of the system.<New>
-Created only as weapons of
-invasion and oppression<Delay 5>...<Delay 5>
-You are just terminal
-interface weapons."<Close><End of Block>
+"Cain, the only 
+obstruction to the 
+accomplishment of 
+"my" goal, is gone.<New>
+The absolute authority 
+he wielded over we the 
+"people" was my obstacle.<New>
+The only one capable of 
+removing Cain was Cain 
+himself.<New>
+Ramsus,<Delay 5>the "copy 
+of Cain"<Delay 5> that I 
+created for that purpose,<Delay 5>
+behaved according to my 
+expectations, and 
+eliminated Cain.<New>
+Now no one can stop me.<Delay 10>
+Furthermore, I have no 
+interest in the power 
+to rule which you 
+pursue.<New>
+Did you believe you were
+acting on your own
+free will?<Delay 10> You are things, 
+bound to the system.<New>
+Ultimately, you are 
+nothing more than a 
+terminal interface,
+designed as a weapon 
+of aggression and 
+domination."<Close><End of Block>
 <TextBlock 274 w:30 h:3>
-We<Delay 5>...<Delay 5>can...<Delay 5>
+We<Delay 5>...<Delay 5>we will...<Delay 5>
 become<Delay 5>...<Delay 5>god!<Delay 10>
-And<Delay 5>...<Delay 5>you're<Delay 5>...<Close><End of Block>
+D<Delay 5>...<Delay 5>do not<Delay 5>...<Close><End of Block>
 <TextBlock 275 w:48 h:4>
 Krelian
 "God?<Delay 15>
-Who said you'd be god?<New>
-What impertinence!<Delay 5>
-We are 'humans'.<Delay 5> We were
-created to be terminal
-interfaces of god.<New>
-It is the same for you,
-who were once humans.<New>
+Who said that you 
+would become god?<New>
+You say such presumptuous 
+things.<Delay 5>
+We are human.<Delay 5> Even 
+for you, who were 
+created to be the 
+terminal interface 
+of god,<New>
+that is the same.<New>
 'Man cannot become god.'<Delay 5>
-...<Delay 5>We can only entrust
-ourselves to god."<Close><End of Block>
+...<Delay 5>All that we can do, 
+is entrust ourselves to 
+god."<Close><End of Block>
 <TextBlock 276 w:38 h:3>
-Ri<Delay 5>...<Delay 5>di<Delay 5>cu<Delay 5>lous<Delay 5>...<Delay 10>
-Going<Delay 5>...<Delay 5> a<Delay 5>...<Delay 5>gainst<Delay 5>
-the<Delay 5>...<Delay 5> Mother<Delay 5>...<Close><End of Block>
+Ri<Delay 5>...<Delay 5>DI<Delay 5>Cu<Delay 5>lous<Delay 5>...<Delay 10>
+INCON<Delay 5>...<Delay 5>sis<Delay 5>...
+<Delay 5>tent with<Delay 5> the<Delay 5>...
+<Delay 5>mother'S<Delay 5>...<Delay 5>
+wiLL<Close><End of Block>
 <TextBlock 277 w:48 h:4>
 Krelian
-"I have not gone against
-her.<Delay 20> This is the will of
-the 'other mother'."<Close><End of Block>
+"It isn't inconsistent.
+<Delay 20>It is the will 
+of the other."<Close><End of Block>
 <TextBlock 278 w:44 h:4>
-You<Delay 5>...<Delay 5>think<Delay 5>...<Delay 5>you<Delay 5>...<Delay 5>
-can<Delay 5>...<Delay 5>elim<Delay 5>...<Delay 5>inate<Delay 5>...<Delay 5>
-us<Delay 5>...<Delay 5>and<Delay 5>...<Delay 5>still<Delay 5>...<Delay 5>
-...<Delay 5>revi<Delay 5>...<Delay 5>ve<Delay 5>...<Delay 5>god<Delay 5>...?<Close><End of Block>
+DO<Delay 5>...<Delay 5>you<Delay 5>...<Delay 5>THINK<Delay 5>...<Delay 5>
+you<Delay 5>...<Delay 5>can<Delay 5>...<Delay 5>revive<Delay 5>...<Delay 5>
+GOD<Delay 5>...<Delay 5>without<Delay 5>...<Delay 5>
+us<Delay 5>...?<Close><End of Block>
 <TextBlock 279 w:54 h:4>
 Krelian
-"It can be done.<New>
-Your genes were scattered
-in order to keep the world
-alive after the 'Fall' in
-days of destruction.<New>
-Those genes live on today
-within the humans.<New>
-The -Anima- vessels<Delay 5>...<Delay 5>
-and the recipients of their
-alignment,<Delay 5> the -Animus-<Delay 5>...<Delay 5>
-and also the <Delay 5>-Persona-<Delay 5>...<New>
-By combining these with my
-nanomachines, humans will
-become living beings very
-much the equivalent of you.<New>
-Actually, they may far
-surpass you in becoming
-worthy terminal interfaces
-for god.<New>
-So you are no longer of
-any use to me.<Delay 15> -Deus-,<Delay 5> the
-physical manifestation of
+"I can.<New>
+Your genes, which were 
+dispersed to sustain 
+the world after the 
+days of collapse,<New>
+live on among the people.<New>
+The Anima Vessels,
+the Animus<Delay 5>...<Delay 5>
+And the persona<Delay 5>...<Delay 5><New>
+Those, combined with my 
+nanomachines, will make 
+the people equivalent to 
+you.<New>
+No, even further, 
+they will be capable of 
+becoming a proper interface 
+to god.<New>
+Your existence has no value 
+now.<Delay 15> Deus,<Delay 5> 
 god,<Delay 5> only wants results<Delay 5>...<New>
-The means are insignificant
-to him<Delay 5>...<Delay 15>
-So this is my 'Ark Plan'<Delay 5>...<Delay 10>
-My <Delay 5>-<Delay 5>Project<Delay 5> Noah<Delay 5>-<Delay 5>!"<Close><End of Block>
+The means do not matter<Delay 5>...<Delay 15>
+This is my "Ark Plan".<Delay 5>...<Delay 10>
+Or in other words, <Delay 5>Project<Delay 5>
+Noah<Delay 5>!"<Close><End of Block>
 <TextBlock 280 w:28 h:1>
-K<Delay 5>...<Delay 5>re<Delay 5>...<Delay 5>li<Delay 5>...<Delay 5><Close><End of Block>
+K<Delay 5>...<Delay 5>Re<Delay 5>...<Delay 5>Li<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 281 w:50 h:4>
 Krelian
-"May all your worries
-cease.<Delay 15> Rest in peace<Delay 5>...<Delay 10>
-ancestors of mortal man!"<Close><End of Block>
+"With this, all that 
+would afflict you 
+with worry will 
+cease.<Delay 15> Rest in peace 
+one footstep before us,<Delay 5>
+ancestors of man!"<Close><End of Block>
 <TextBlock 282 w:40 h:3>
 Krelian
 "Now,<Delay 5> it is just<Delay 5>
