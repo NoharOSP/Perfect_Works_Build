@@ -1,7 +1,10 @@
 <TextBlock 1 w:50 h:3>
 Billy
-"(It's my buddy!! 
-I'll call him over here)"<Close><End of Block>
+"('Big brother', is it?!
+Better call for 
+Renmazuo now.)"<Close><End of Block>
 <TextBlock 2 w:40 h:2>
-Um<Delay 10>...<Delay 20>
-I'm counting on <Delay 30>you.<Opcode 2 20><Close><End of Block>
+Blargh<Delay 10>...<Delay 20>
+you take care of 
+the rest, <Delay 30>
+big brother...<Opcode 2 20><Close><End of Block>
