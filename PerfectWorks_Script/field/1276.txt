@@ -4,7 +4,8 @@ Elly
 There's something..."<Close><End of Block>
 <TextBlock 2 w:46 h:2>
 Elly
-"Billy, who's 'buddy'?"<Close><End of Block>
+"Billy, who's 'big
+brother'?"<Close><End of Block>
 <TextBlock 3 w:50 h:4>
 Elly
 "There's nothing there.
@@ -26,7 +27,8 @@ Citan
 Something behind..."<Close><End of Block>
 <TextBlock 6 w:48 h:2>
 Citan
-"Billy...who is 'buddy'?<Close><End of Block>
+"Billy...who is 'big
+brother'?<Close><End of Block>
 <TextBlock 7 w:52 h:3>
 Citan
 "There is nothing there.
@@ -46,7 +48,8 @@ Bart
 Something there...?"<Close><End of Block>
 <TextBlock 10 w:54 h:2>
 Bart
-"Yo Billy, what's 'buddy'?"<Close><End of Block>
+"Yo Billy, what's 'big
+brother'?"<Close><End of Block>
 <TextBlock 11 w:52 h:4>
 Bart
 "There's nothing there but
@@ -67,7 +70,8 @@ Rico
 "What's that...?"<Close><End of Block>
 <TextBlock 14 w:50 h:2>
 Rico
-"Hey Billy, who's buddy?"<Close><End of Block>
+"Hey Billy, who's 'big
+brother'?"<Close><End of Block>
 <TextBlock 15 w:48 h:3>
 Rico
 "Huh? It's just a fish.<New>
