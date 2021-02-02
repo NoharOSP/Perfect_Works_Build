@@ -31,8 +31,9 @@ What're you doing ignoring
 me and messing around...?"<Close><End of Block>
 <TextBlock 9 w:38 h:3>
 Maitreya
-"...What was that?
-That guy just now?"<Close><End of Block>
+"Wh...What was 
+that?
+Did he just..?!?"<Close><End of Block>
 <TextBlock 10 w:54 h:4>
 Maitreya
 "...Fei, gather the wounded
@@ -75,6 +76,7 @@ We don't have time
 for this junker!!"<Close><End of Block>
 <TextBlock 16 w:36 h:4>
 Fei
-"...It's them...<Delay 24>
-Why them...? 
-What did they do?"<Close><Close><End of Block>
+"It..it's him...<Delay 24>
+why is he...
+what the hell has 
+he done???"<Close><Close><End of Block>
