@@ -12,7 +12,7 @@ kill <Delay 10>you.<Close><End of Block>
 <TextBlock 4 w:52 h:4>
 Mysterious Gear
 "How do you do?
-I am a Rattan, one of the
+I am Rattan, one of the
 followers of Krelian.<New>
 Please excuse me, I'd like
 to show you my face but as
@@ -25,10 +25,10 @@ Not Ramsus or the
 Elements!?"<Close><End of Block>
 <TextBlock 6 w:52 h:3>
 Citan
-"You are the ones who left
-Kahr for the surface...<Delay 20><New>
-You must have a good
-reason."<Close><End of Block>
+"You are not with Carl? 
+You must have a good 
+reason to be on the 
+surface."<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Bart
 "A follower of Krelian?<Delay 10>
