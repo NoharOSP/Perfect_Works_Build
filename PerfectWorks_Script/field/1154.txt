@@ -5,8 +5,8 @@ with Shevat<Delay 5>...<Close><End of Block>
 Not only Shevat.
 The loss of Ignas.
 The retreat at the
-Thames.<New>
-Yes, and Elru also,
+Tamuz.<New>
+Yes, and Elul also,
 as I recall.<Close><End of Block>
 <TextBlock 3 w:30 h:2>
 You are 
@@ -43,7 +43,7 @@ Ramsus
 Miang
 "Please calm yourself,
 Excellency! This will
-effect your health.<New>
+affect your health.<New>
 Your wounds from the 
 earlier battle are not
 yet fully healed! Your
@@ -65,7 +65,7 @@ us that you are not
 "trash"<Delay 5>...<Close><End of Block>
 <TextBlock 16 w:42 h:4>
 Ramsus
-"Miang<Delay 5>...<Delay 5>
+"Myyah<Delay 5>...<Delay 5>
 Launch the warship<Delay 5>...<Delay 5>
 Get to him<Delay 5>..."<Close><End of Block>
 <TextBlock 17 w:46 h:4>
