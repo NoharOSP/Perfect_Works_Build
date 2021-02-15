@@ -93,7 +93,7 @@ order...?"<Close><End of Block>
 Citan
 "Yes, your Majesty.
 This is the answer
-I was lead to."<Close><End of Block>
+I was led to."<Close><End of Block>
 <TextBlock 18 w:44 h:3>
 Citan
 "Yes.<New>
