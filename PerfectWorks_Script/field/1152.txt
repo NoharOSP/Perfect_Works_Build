@@ -363,12 +363,12 @@ beliefs<Delay 5>...<Delay 5>
 It is an issue.<Close><End of Block>
 <TextBlock 68 w:38 h:3>
 We have no use for
-an organization 
-become fanatic.<Close><End of Block>
+an organization that 
+has become fanatic.<Close><End of Block>
 <TextBlock 69 w:26 h:4>
 To seek
 preservation
-is the human
+is human
 nature.<Close><End of Block>
 <TextBlock 70 w:50 h:3>
 But it is so far gone
@@ -486,8 +486,9 @@ useless. To allow
 them contact
 with Shevat...<Close><End of Block>
 <TextBlock 90 w:52 h:3>
-There should be an 
-'Anima Relic' in Shevat<Delay 5>
+There should be a 
+'Vessel of Anima' 
+in Shevat<Delay 5>
 ...<Delay 5><New>
 ...If it is aligned
 before our preparations
@@ -691,7 +692,7 @@ We cannot allow
 that.<Delay 5> The 
 panic will spread
 even here to
-Etrenank.<Close><End of Block>
+Etemenanki.<Close><End of Block>
 <TextBlock 137 w:40 h:4>
 Krelian
 "Those empty-headed 
@@ -776,7 +777,7 @@ nanotechnology,<Delay 5><New>
 <TextBlock 149 w:36 h:3>
 That which you
 recovered from
-the Thames?<Delay 5>
+the Tamuz?<Delay 5>
 Why?<Close><End of Block>
 <TextBlock 150 w:54 h:4>
 Krelian
@@ -801,7 +802,7 @@ reaction.<New>
 Furthermore, even if
 'Emeralda'<Delay 5> is 
 destroyed<Delay 5> without
-our obtaining any reaction,<New>
+obtaining any reaction,<New>
 the data collection on it
 is finished.<New>
 Were we to lose it, that
