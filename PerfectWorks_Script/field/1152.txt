@@ -12,28 +12,29 @@ According to the reports
 from the memory cubes
 he is currently the 
 Kislev Imperial Capital,
-Nortune.<Close><End of Block>
+Noatun.<Close><End of Block>
 <TextBlock 4 w:26 h:3>
 Abominable<Delay 5>...<Delay 5>
 Abominable<Delay 5>...<Delay 5>
 Abominable<Delay 5>...<Close><End of Block>
 <TextBlock 5 w:44 h:4>
 If not for his 
-presence, lambs <Delay 5>would
+presence, lambs <Delay 5>
 would not have
 become 'Animus'.<New>
 500 years since the
-Days of Collapse.<New>
-It was ended, without
+Day of Collapse.<New>
+It ended, without
 our choosing it, by
 troublesome means
 similar to the
 present case.<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 The excavation of the
-'Anima Relics' is
-proceeding smoothly
-in all areas.<New>
+'Vessels of Anima' 
+is proceeding 
+smoothly in all 
+areas.<New>
 Looking back at
 this late hour will
 not change the facts.<Delay 10>
@@ -45,17 +46,17 @@ Eliminate<Delay 5>...<Delay 5>
 Eliminate<Delay 5>...<Delay 5>
 Eliminate<Delay 5>...<Close><End of Block>
 <TextBlock 8 w:38 h:3>
-In such case, though
-we do not know the
-route by which it
-strayed, <New>
+In such a case, 
+though we do not 
+know the route by 
+which it strayed, <New>
 the activation of
 the gate keeper
 was unexpectedly
 fortunate.<Close><End of Block>
 <TextBlock 9 w:34 h:2>
-From the Church 
-of 'Ethos'?<Delay 10>
+From the 'Church 
+of Ethos'?<Delay 10>
 Or perhaps<Delay 5>...<Close><End of Block>
 <TextBlock 10 w:36 h:2>
 It does not matter
@@ -87,13 +88,13 @@ have no
 objections.<Close><End of Block>
 <TextBlock 15 w:40 h:4>
 But we cannot use 
-the 'Lesser Goetia 
-Key'.<Delay 10>
+the 'Key of 
+Goetia'.<Delay 10>
 Not until the
 inevitable time.<Close><End of Block>
 <TextBlock 16 w:44 h:3>
 The 3rd Fleet is in
-Bledavik. Its 
+Breidablik. Its 
 remaining troops 
 should be 
 sufficient.<Close><End of Block>
@@ -112,7 +113,7 @@ plain to see.<Close><End of Block>
 <TextBlock 19 w:32 h:4>
 However, to raze 
 the entire 
-Nortune area 
+Noatun area 
 would not so 
 little military 
 power be 
@@ -120,7 +121,7 @@ insufficient?<Close><End of Block>
 <TextBlock 20 w:46 h:4>
 There is an ancient
 nuclear reactor in 
-Nortune. We will 
+Noatun. We will 
 use that.<New>
 The half-life is 
 1000 years. <New>
