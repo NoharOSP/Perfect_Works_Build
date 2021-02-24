@@ -157,15 +157,16 @@ the order.<Close><End of Block>
 Disobedience<Delay 5>...<Delay 5>
 Ramsus' duty should
 be the excavation of
-the "Anima Relics"
+the "Vessels of Anima"
 sleeping in Ignas<New>
 and supervision of
 the lambs. He has<Delay 5>...<Delay 5>
 ...<Delay 5><Close><End of Block>
 <TextBlock 27 w:40 h:3>
-The "Anima Relics"
-can be collected
-at any time.<New>
+The "Vessels of 
+Anima" can be 
+collected at 
+any time.<New>
 Moreover, it is
 confirmed that
 "he" was in the
@@ -215,7 +216,7 @@ to this end.<Close><End of Block>
 The transfer point
 is Aquvy<Delay 5>...<Delay 5>
 Near the
-Thames.<Close><End of Block>
+Tamuz.<Close><End of Block>
 <TextBlock 38 w:52 h:2>
 If it is in Aquvy
 Krelian is headed there.<Close><End of Block>
@@ -290,7 +291,7 @@ intend to eliminate
 him?<Close><End of Block>
 <TextBlock 52 w:20 h:2>
 What?<Delay 5> It 
-was pure 
+was a pure 
 accident.<Close><End of Block>
 <TextBlock 53 w:36 h:2>
 The location was
@@ -319,7 +320,7 @@ With "he", who
 offers us no
 advantage<Delay 5>...<Close><End of Block>
 <TextBlock 59 w:32 h:4>
-It it not 
+It is not 
 possible to 
 make medicine
 from that which
