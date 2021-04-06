@@ -5,24 +5,26 @@ This one won't
 open either."<Close><End of Block>
 <TextBlock 2 w:54 h:2>
 Fei
-"What's this facility for?"<Close><End of Block>
+"What in the world 
+IS this facility?"<Close><End of Block>
 <TextBlock 3 w:42 h:2>
 Fei
-"The origin of time?"<Close><End of Block>
+"Primordial times?"<Close><End of Block>
 <TextBlock 4 w:42 h:3>
 Fei
-"It's the data on the
-memory bank?"<Close><End of Block>
+"Data on memory 
+banks?"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Fei
-"That means we were
-living for those elderly
-people of Gazel?"<Close><End of Block>
+"So, we were living day 
+in and day out, all for 
+those old Gazel fogies?"<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Fei
-"You mean those mutants
-getting disassembled at
-that factory were too?"<Close><End of Block>
+"You mean the 
+demi-humans getting 
+cannibalized at the 
+factory were too?"<Close><End of Block>
 <TextBlock 7 w:36 h:3>
 Fei
 "That's horrid...<Delay 40>
@@ -68,21 +70,23 @@ Fei
 It won't open."<Close><End of Block>
 <TextBlock 19 w:50 h:4>
 Elly
-(Why...is the
-deactivation code for the
-door lock known?)<Opcode 2 5><Close><End of Block>
+(How does he know the 
+door lock's release 
+code?)<Opcode 2 5><Close><End of Block>
 <TextBlock 20 w:44 h:3>
 Elly
-"How could a human...
-live 10,000 years...?"<Close><End of Block>
+"But that's...How 
+could humans live 
+for 10,000 years?"<Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Elly
-"They're transferring
-and taking living data<New>
-via memory cubes to the
-Ministry so they can use
-them to resurrect their
-bodies!?"<Close><End of Block>
+"Individual bio-data 
+is transmitted via the 
+memory cubes every time 
+a record is taken,<New>
+to be put to use for the 
+Ministry's physical 
+resurrection?!"<Close><End of Block>
 <TextBlock 22 w:48 h:3>
 Elly
 "Citan, 
@@ -158,77 +162,102 @@ Citan
 "This way."<Close><End of Block>
 <TextBlock 32 w:50 h:4>
 Citan
-"This place was not meant
-to be seen since the
-origin of time.<New>
-This facility centers
-around the Emperor and
-the Ministry's longevity
-experiments."<Close><End of Block>
+"Originally this was 
+a facility used in part 
+for the Gazel Ministry's 
+longevity research.<New>
+The Emperor, who reigns 
+over them, is one who 
+has lived on since 
+primordial times and 
+cannot be allowed 
+to die."<Close><End of Block>
 <TextBlock 33 w:52 h:4>
 Citan
 "Yes...<Delay 30>10,000 years ago.
-Beings called humans were
-born here.<New>
-The first were the Emperor
-and the Ministry's elders.<Close><End of Block>
+Creatures called humans 
+were born upon this 
+earth.<New>
+Those first humans were 
+Emperor Cain and the 
+elders comprising the 
+Gazel Ministry.<Close><End of Block>
 <TextBlock 34 w:54 h:4>
 Citan
-"Now only the Emperor is
-left. His destiny is to
+"Naturally, that was 
+only one person, the 
+Emperor. He is a human 
+whose destiny is to 
 never die.<New>
-However, the Ministry is
-different.<New>
-Once, during the
-Diabolos Invasion...<Delay 30>
-the Ministry elders died
-losing their bodies.<New>
-Now, the Solaris governing
-Ministry exists as data in
-memory banks.<New>
-Each of their personalities
-are bits of data."<Close><End of Block>
+But the Gazel's destiny 
+was different.<New>
+Due to the war with 
+the former 
+surface-dwellers... 
+or, rather, because of 
+the Diabolos' invasion,<Delay 30>
+the old men of Gazel lost 
+their bodies altogether.<New>
+Now the Solaris-governing 
+Gazel Ministry exists 
+on memory banks,<New>
+each of their respective 
+personalities mere data."<Close><End of Block>
 <TextBlock 35 w:52 h:4>
 Citan
-"Having neither flesh nor
-souls they are just binary
-numbers.<New>
-They both exist and do not
-exist at the same time..."<Close><End of Block>
+"They are but numeric 
+strings, having neither 
+flesh nor soul.<New>
+Immaterial existences..."<Close><End of Block>
 <TextBlock 36 w:54 h:4>
 Citan
-"After the Fall, wanting
-to resurrect their bodies,
-and create a worthy vessel,<New>
-they transferred a research
-facility that was once the
-Soylent System on the land
-to Etrenank.<New>
-Eventually the facility was
-no longer only for the
-Emperor's life and the
-Ministry's resurrection,<New>
-but it began producing food
-and drugs with additives
-that controlled the public.<New>
-The memory cube Fei and
-them were using was meant
-for obtaining living data.<New>
-Of course, the 'Ethos' also
-sent various data to help."<Close><End of Block>
+"After the Day of Collapse, 
+they became fixated upon 
+their corporeality. 
+Desiring resurrection,<New>
+they transferred one of 
+the Soylent Systems from 
+the surface to Etemenanki 
+so that it might produce 
+suitable bodies.<New>
+Eventually the institution, 
+no longer limited to 
+researching only the 
+Emperor's longevity 
+treatments and Ministry's 
+corporeal resurrection,<New>
+came to double as a 
+facility researching 
+organic weapons, 
+along with special food 
+and drug additives that 
+would regulate public 
+opinion.<New>
+The memory cubes, 
+too, which Fei and the 
+others used without concern
+they are devices that were 
+installed to collect 
+surface-dwellers' 
+bio-data.<New>
+Of course, various data was 
+also sent by the 'Church 
+of the Ethos' to help."<Close><End of Block>
 <TextBlock 37 w:12 h:2>
 Citan
-"Yes."<Close><End of Block>
+"Correct."<Close><End of Block>
 <TextBlock 38 w:12 h:2>
 Citan
 "Yes."<Close><End of Block>
 <TextBlock 39 w:50 h:3>
 Citan
-"Basically, they wish to
-reuse the useless dregs."<Close><End of Block>
+"I suppose it's like 
+reusing the unusable 
+dregs."<Close><End of Block>
 <TextBlock 40 w:28 h:2>
 Fei
-"Doc, wait..."<Close><End of Block>
+"Hold up,
+Doc."<Close><End of Block>
 <TextBlock 41 w:46 h:3>
 Elly
 "Hold on, Fei!
