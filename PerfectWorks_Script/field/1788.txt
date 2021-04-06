@@ -69,7 +69,8 @@ Bart
 <TextBlock 20 w:38 h:3>
 Bart
 "Stop! Fei!
-It's your mistake!"<Close><End of Block>
+You're making a 
+mistake!"<Close><End of Block>
 <TextBlock 21 w:42 h:4>
 Bart
 "Hmph...<Delay 32>
@@ -159,9 +160,11 @@ Citan
 "Ostensibly,<New>
 I received a covert
 order from the Emperor
-to contact the body<New>
-wanted by the Ministry
-and send the data...<New>
+to get in contact<New>
+with the one who 
+possesses the fleshly 
+body the Council so 
+desires.... <New>
 and if possible bring
 the body back.<New>
 That was my duty.
