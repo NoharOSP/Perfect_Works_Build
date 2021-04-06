@@ -1,50 +1,56 @@
 <TextBlock 1 w:26 h:3>
 Fei
-"Uh,
-wha, what..."<Opcode 2 30><Close><End of Block>
+"Ugh,
+what's going 
+on......"<Opcode 2 30><Close><End of Block>
 <TextBlock 2 w:26 h:2>
 Fei
-"Th, this..."<Opcode 2 30><Close><End of Block>
+"Th, this
+is..."<Opcode 2 30><Close><End of Block>
 <TextBlock 3 w:28 h:2>
 Fei
-"Uhhaaaaaahhh"<Opcode 2 50><Close><End of Block>
+"Uwah!"<Opcode 2 50><Close><End of Block>
 <TextBlock 4 w:16 h:2>
 Fei
-"Unh..."<Opcode 2 30><Close><End of Block>
+"Un..."<Opcode 2 30><Close><End of Block>
 <TextBlock 5 w:22 h:3>
 Fei
 "Huh!?
 This is..."<Opcode 2 30><Close><End of Block>
 <TextBlock 6 w:24 h:2>
 Fei
-"Guh...gr.."<Opcode 2 30><Close><End of Block>
+"Urg..."<Opcode 2 30><Close><End of Block>
 <TextBlock 7 w:18 h:3>
 Fei
-"Can't...
-get it."<Opcode 2 40><Close><End of Block>
+"No use, 
+I can't 
+break it."<Opcode 2 40><Close><End of Block>
 <TextBlock 8 w:22 h:3>
 Fei
-"Uh...<Delay 30>
+"Ah...<Delay 30>
 This is..."<Close><End of Block>
 <TextBlock 9 w:40 h:4>
 Fei
 "What is this!?<Delay 20>
 Why are you showing 
-me this!?<New>
-Who!? 
-Who did this!?<New>
+me these things!?<New>
+Who are you!?
+Who's behind this!?<New>
 Elly!
 Doc!<New>
 Where are you!?
-Where..."<Close><End of Block>
+Where did 
+they......"<Close><End of Block>
 <TextBlock 10 w:18 h:2>
 Fei
-"Wha...?"<Close><End of Block>
+"Wh...?"<Close><End of Block>
 <TextBlock 11 w:30 h:2>
 Fei
 "Doc!?<New>
-Th, these guys?
-What is this!?"<Close><End of Block>
+Wh, who are 
+these people?
+What's going 
+on!?"<Close><End of Block>
 <TextBlock 12 w:16 h:2>
 Fei
 "Bart!?"<Opcode 2 40><Close><End of Block>
@@ -54,48 +60,56 @@ Fei
 <TextBlock 14 w:40 h:3>
 Fei
 "Doc!!<Delay 20>
-What's going on!?<New>
-What are you all...?<Delay 30>
-Doc! Answer me!"<Close><End of Block>
+Wh, what is the 
+meaning of this!?<New>
+What's happening 
+to them......?<Delay 30>
+Answer me, Doc!"<Close><End of Block>
 <TextBlock 15 w:48 h:3>
 Fei
 "Solaris Guardian Angel?<Delay 30>
 Monitoring me?"<Close><End of Block>
 <TextBlock 16 w:50 h:3>
 Fei
-"The bodies of Bart and
-the others belong to you?<New>
-Is that true!?
+"Bart and the others are 
+your bodies......!?<New>
+Is this true!?
 Doc!<New>
-What they are saying?"<Close><End of Block>
+Is what they're saying 
+true......?"<Close><End of Block>
 <TextBlock 17 w:6 h:2>
 Fei
 "?"<Close><End of Block>
 <TextBlock 18 w:26 h:2>
 Fei
-"...Revenge?"<Close><End of Block>
+"...Your 
+enemy?"<Close><End of Block>
 <TextBlock 19 w:44 h:2>
 Fei
-"Is...<Delay 20> that it...?<New>
-You were in with these
-guys...<New>
-That's why you,
-everyone..."<Close><End of Block>
+"It's true......<Delay 20> isn't 
+it......?<New>
+You were in with them 
+and we......<New>
+For that, the 
+others are......"<Close><End of Block>
 <TextBlock 20 w:52 h:3>
 Fei
-"Why!<New>
-You've had your way all
-this time with us land
-dwellers!<New>
+"Why!?<New>
+You control us surface 
+dwellers however you 
+want!<New>
 You already own the world!<New>
-What more do you want?"<Close><End of Block>
+What could you be after 
+beyond that!?"<Close><End of Block>
 <TextBlock 21 w:54 h:3>
 Fei
-"Aerial Paradise Mahanon?<Delay 30>
-The place fell to earth..."<Close><End of Block>
+"The paradise in the 
+heavens, Machanon?<Delay 30>
+The one said to have 
+fallen to earth......"<Close><End of Block>
 <TextBlock 22 w:40 h:2>
 Fei
-"What do you mean!?"<Close><End of Block>
+"What!?"<Close><End of Block>
 <TextBlock 23 w:42 h:2>
 Fei
 "That's ridiculous!?"<Close><End of Block>
@@ -104,11 +118,11 @@ Fei
 "...!?"<Close><End of Block>
 <TextBlock 25 w:34 h:4>
 Fei
-"...So you're not
-planning on using
-Solaris'<New>
-power to dominate
-the world?"<Close><End of Block>
+"......so your 
+goal isn't to rule 
+the world<New>
+with Solaris' 
+power?"<Close><End of Block>
 <TextBlock 26 w:16 h:2>
 Fei
 "Ugh..."<Close><End of Block>
@@ -231,7 +245,8 @@ Fei
 <TextBlock 42 w:22 h:3>
 Fei
 "Doc...
-You there?"<Close><End of Block>
+Are you
+here?"<Close><End of Block>
 <TextBlock 43 w:44 h:2>
 You brought about this
 spectacle.<Close><End of Block>
@@ -241,9 +256,10 @@ which haunts you...<Close><End of Block>
 <TextBlock 45 w:52 h:1>
 Cursed, untouchable one...<Close><End of Block>
 <TextBlock 46 w:46 h:3>
-Oh god's beloved child,
-those who prevent our
-prayers...<Close><End of Block>
+The sound that hinders 
+the greatest wish of 
+God's beloved 
+children, us...<Close><End of Block>
 <TextBlock 47 w:12 h:1>
 Get...<Close><End of Block>
 <TextBlock 48 w:20 h:1>
@@ -252,208 +268,239 @@ Destroy...<Close><End of Block>
 Burn with god's fire...<Close><End of Block>
 <TextBlock 50 w:40 h:4>
 Elder
-"One of the Solaris
-Guardian Angels is
-here, Hyuga Ricdeau.<Close><End of Block>
+"This is one of 
+the Solaris Guardian 
+Angels, Hyuga 
+Rikudou.<Close><End of Block>
 <TextBlock 51 w:50 h:4>
 Elder
-"This man is Cain...<Delay 30>
-Receiving the orders from
-the one known as Emperor,<New>
-You've entered his realm,
-and have been under his 
-continued supervision..."<Close><End of Block>
+"Under the orders of 
+Cain...<Delay 30>
+he whom you call the 
+Emperor,<New>
+this man proceeded 
+to that place to 
+continue monitoring 
+you......"<Close><End of Block>
 <TextBlock 52 w:48 h:4>
 Elder
-"Oh yes.<New>
-We've guided Solaris and
-even selected the
-'Animus' which have been
-drawn to you.<New>
-And guided you here to
-Solaris."<Close><End of Block>
+"Just so.<New>
+As well as leading you 
+here to Solaris, he has 
+brought those who have 
+gathered to you<New>
+whom we have selected 
+to become "Animus"."<Close><End of Block>
 <TextBlock 53 w:54 h:3>
 Elder
-"The 'Animus' is needed for
-our resurrection...<New>
-These are our bodies...
-This what we possess."<Close><End of Block>
+"The "Animus" are required 
+for the revival of we who 
+are disembodied...<New>
+They are our flesh...
+They are vessels."<Close><End of Block>
 <TextBlock 54 w:44 h:3>
 Elder
-"Yes, this is the only
-reason we exist..."<Close><End of Block>
+"Yes, they exist only 
+for that......"<Close><End of Block>
 <TextBlock 55 w:48 h:2>
 Elder
-"Why so apprehensive?<New>
-Is it that you were sold
-out by one you trusted?"<Close><End of Block>
+"What upsets you so?<New>
+Is it because you have 
+been betrayed by one 
+you trusted?"<Close><End of Block>
 <TextBlock 56 w:46 h:3>
 Fei
-"I'm not talking to you
-guys! <Delay 30>Doc, answer me!"<Close><End of Block>
+"I'm not asking any 
+of you!<Delay 30>
+Answer me, Doc!"<Close><End of Block>
 <TextBlock 57 w:24 h:2>
 Citan
-"3 years..."<Close><End of Block>
+"Three 
+years..."<Close><End of Block>
 <TextBlock 58 w:52 h:3>
 Citan
-"For three years I have
-been by your side.<New>
-I had to determine whether
-you were going to be our
-enemy or not..."<Close><End of Block>
+"These three years I 
+have been at your side.<New>
+I had to ascertain whether 
+you would become our enemy 
+or not......"<Close><End of Block>
 <TextBlock 59 w:52 h:4>
 Elder
-"Yes, the enemy.
-Your existence is a threat
-to us..."<Close><End of Block>
+"Yes, an enemy.
+To us, you are a 
+dangerous presence..."<Close><End of Block>
 <TextBlock 60 w:50 h:3>
 Elder
-"It was necessary to keep
-an eye on you."<Close><End of Block>
+"Thus, it was necessary 
+to watch you."<Close><End of Block>
 <TextBlock 61 w:54 h:3>
 Elder
-"The one who ordered you to
-be watched was Cain..."<Close><End of Block>
+"Though it was Cain who 
+gave the order to 
+observe you......"<Close><End of Block>
 <TextBlock 62 w:54 h:4>
 Elder
-"We were planning on the
-maturation of the 'Animus',
-and your termination.<New>
-We also sent Hyuga to you."<Close><End of Block>
+"We planned the selection 
+of those "Animus" and the 
+elimination of you who 
+would become our enemy.<New>
+We then sent Hyuga to you."<Close><End of Block>
 <TextBlock 63 w:54 h:3>
 Elder
 "However, every attempt to
-terminate you has failed...<New>
-Because of that good for
+eliminate you has failed...<New>
+Thanks to that good for
 nothing trash..."<Close><End of Block>
 <TextBlock 64 w:48 h:3>
 Elder
-"Even so, we now possess
-'Animus'.<New>
-Hyuga has fulfilled his
-duties well."<Close><End of Block>
+"Nonetheless, we have 
+obtained "Animus".<New>
+Hyuga has done his 
+job well."<Close><End of Block>
 <TextBlock 65 w:52 h:3>
 Elder
-"You must know by now that
-we plan to resurrect god."<Close><End of Block>
+"You should know. Our goal
+is the resurrection 
+of god."<Close><End of Block>
 <TextBlock 66 w:52 h:4>
 Elder
-"God will awaken from his
-long slumber after man has
-populated the land...<New>
-Then, Mahanon too will
-awaken..."<Close><End of Block>
+"When our people fill the 
+earth, god will awaken 
+from his long 
+slumber......<New>
+At that time, Machanon 
+too will awaken......"<Close><End of Block>
 <TextBlock 67 w:54 h:3>
 Elder
-"Paradise...
+"Paradise......
 Hah hah hah.<New>
-That may be a proper
-description...
-Our ark...<New>
-In the center block lord
-'Mahanon' is sealed in.<New>
-That is the source of god's
-wisdom...A paradise of
-knowledge..."<Close><End of Block>
+That may be a 
+fitting view 
+of it...... 
+Our ark......<New>
+the central 
+block "Machanon" 
+in which god is sealed.<New>
+It is the source of 
+god's wisdom...... 
+A paradise of 
+knowledge......"<Close><End of Block>
 <TextBlock 68 w:54 h:4>
 Elder
-"Using that knowledge, we
-will resurrect the awakened
-god and build our 'ark'<New>
-to take us both into the
-great universe."<Close><End of Block>
+"Using that wisdom, we 
+will revive the awakened 
+god, and build the "ark"<New>
+that calls us both 
+into the universe."<Close><End of Block>
 <TextBlock 69 w:54 h:3>
 Elder
 "The construction of
 our ark...<New>
-To reign over god's
-forces in this great
-universe...<New>
-The creation of the angel
-'Malakh'. The M Project was
-for that very purpose..."<Close><End of Block>
+And the creation 
+of the Malahk...... 
+a divine army to 
+reign over the 
+universe.<New>
+The M Project serves 
+this purpose......"<Close><End of Block>
 <TextBlock 70 w:50 h:3>
 Elder
-"We are orphans in this
+"We are orphans of the
 universe.<New>
-We were thrown away onto
-this planet in
-solitude along with god."<Close><End of Block>
+We were abandoned in 
+isolation on this 
+planet along with god."<Close><End of Block>
 <TextBlock 71 w:54 h:4>
 Elder
-"We humans were not born
-on this planet.<New>
-Long ago, we came here from
-another heavenly body. We
-are beings from an alien
-planet."<Close><End of Block>
+"Our people are not 
+life forms native to 
+this planet.<New>
+We came to this world from 
+another heavenly body in 
+the distant past. We are 
+alien beings."<Close><End of Block>
 <TextBlock 72 w:54 h:4>
 Elder
-"This is true.
-You have seen the various
-regions of this world.<New>
-Why do you think there are
-no records of humans 
-before 10,000 years ago..."<Close><End of Block>
+"It is not a lie. 
+You yourself have seen 
+the whole of the surface, 
+correct?<New>
+And that there is no 
+human presence prior 
+to ten thousand years 
+ago......"<Close><End of Block>
 <TextBlock 73 w:54 h:3>
 Elder
-"This is the will of god.<New>
-The god's revival has been 
-fated since before the 
-time before genesis..."<Close><End of Block>
+"This is the will of God,<New>
+whose revival has been 
+destined since our 
+genesis of old......"<Close><End of Block>
 <TextBlock 74 w:54 h:3>
 Elder
-"We will be one with god.<New>
-Attaining a new 'Animus'...
-We will once again return
-to the starry skies..."<Close><End of Block>
+"And we will become one 
+with god.<New>
+We shall obtain the new 
+"Animus"...... and return 
+to the heavens once 
+again......"<Close><End of Block>
 <TextBlock 75 w:40 h:3>
 Elder
-"That is the meaning
-of our existence."<Close><End of Block>
+"That is our purpose 
+in existence."<Close><End of Block>
 <TextBlock 76 w:40 h:3>
 Elder
 "That is our supreme
 objective."<Close><End of Block>
 <TextBlock 77 w:54 h:3>
 Elder
-"Of course.<New>
+"Of course not.<New>
 What meaning is there in
-having control of a planet
-as insignificant as this?<New>
-God has given us the right
-to rule over the universe."<Close><End of Block>
+possessing one 
+insignificant planet 
+such as this......<New>
+God has given us the 
+right to reign over 
+the universe."<Close><End of Block>
 <TextBlock 78 w:56 h:4>
 Elder
 "Yes.
-Only we, who do not carry
-impure blood, have the right<New>
-to a pardon..."<Close><End of Block>
+Only we with no impurities 
+of blood<New>
+will be granted 
+that indulgence......"<Close><End of Block>
 <TextBlock 79 w:56 h:2>
 Elder
-"So, we will resurrect god."<Close><End of Block>
+"For that, we will 
+revive god."<Close><End of Block>
 <TextBlock 80 w:44 h:4>
 Elder
-"It's been an eternity
-since our exile from
+"An eternity has 
+passed since our 
+banishment from 
 paradise.<New>
-If the time of god's 
-revival does not come,<New>
-we will have to
-follow the path to
-destruction. But..."<Close><End of Block>
+Should the revival of 
+god not be complete 
+by the time of 
+the gospel,<New>
+we will have to 
+follow the path 
+of destruction. 
+But......"<Close><End of Block>
 <TextBlock 81 w:54 h:4>
 Elder
-"Having attained 'Animus',
-our resurrection is near...<Delay 30>
-Next is god's resurrection"<Close><End of Block>
+"As we now have "Animus" 
+our revival is 
+assured......<Delay 30>
+Next is god's revival, 
+then......"<Close><End of Block>
 <TextBlock 82 w:22 h:2>
 Fei
 "Krelian!?"<Close><End of Block>
 <TextBlock 83 w:48 h:3>
 Krelian
-"This one only waits for
-the awakening..."<Close><End of Block>
+"We only wait 
+for this one's 
+awakening......"<Close><End of Block>
 <TextBlock 84 w:18 h:2>
 Fei
 "Elly!!?"<Close><End of Block>
@@ -554,7 +601,8 @@ something?"<Close><End of Block>
 <TextBlock 105 w:56 h:3>
 Citan
 "It is rare to be able to
-talk a real schizophrenic.<New>
+talk a person with multiple 
+personalities like you.<New>
 As a scholar, I am extremely
 intrigued."<Close><End of Block>
 <TextBlock 106 w:52 h:4>
