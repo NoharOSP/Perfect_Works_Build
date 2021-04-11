@@ -1,6 +1,6 @@
 <TextBlock 1 w:50 h:4>
 Citan
-"Fei!?<Delay 10> This must mean
+"Th.. this is.. Fei!?<Delay 10> Then... 
 this is <Weltall>'s
 transformed appearance!?"<Close><End of Block>
 <TextBlock 2 w:38 h:4>
