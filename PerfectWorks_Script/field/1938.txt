@@ -429,15 +429,13 @@ me this way<Delay 5>...<Delay 5> You and
 that woman!<Delay 10> Admit it!"<Close><End of Block>
 <TextBlock 71 w:44 h:4>
 Khan
-"Argh<Delay 5>...!<Delay 30>
-Fei<Delay 5>...!!<Delay 10>
-Can you hear me?<New>
-Please take this fist
-full of memories I am
-giving you<Delay 5>...<New>
-Become one<Delay 5>...<Delay 5>
-with yourself<Delay 5>...<Delay 5>
-and with me!<Close>
+"C<Delay 5>...<Delay 30>
+Can you hear me,<Delay 10>
+Fei?<New>
+Please receive my 
+will by my fist.<New>
+And become<Delay 5>
+one!<Close>
 Only you can stop Id!!<Delay 5>
 Fei, please!!"<Close><End of Block>
 <TextBlock 72 w:48 h:3>
