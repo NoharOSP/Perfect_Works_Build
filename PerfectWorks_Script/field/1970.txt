@@ -74,7 +74,7 @@ Lacan
 <TextBlock 11 w:64 h:3>
 Lacan
 "<Delay 5>...<Delay 5>What...<Delay 5>is...this...<Delay 5>place<Delay 5>...?<Delay 15>
-<Delay 5>...<Delay 5>My execution site<Delay 5>...?"<Close><End of Block>
+<Delay 5>...<Delay 5>An execution site<Delay 5>...?"<Close><End of Block>
 <TextBlock 12 w:54 h:3>
 Lacan
 "<Delay 5>...<Delay 5>Why do you turn on me?<Delay 15>
