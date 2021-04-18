@@ -5,11 +5,13 @@
 Who is it?<Delay 10>
 Who's calling me<Delay 5>...?<Close><End of Block>
 <TextBlock 3 w:30 h:1>
-I<Delay 10>...<Delay 10>am<Delay 10>...<Delay 10>Har<Delay 10>...<Close><End of Block>
+I<Delay 10>-<Delay 10>...<Delay 10>har<Delay 10>...<Close><End of Block>
 <TextBlock 4 w:44 h:1>
 What is this light...?<Close><End of Block>
 <TextBlock 5 w:46 h:4>
-I<Delay 10>...<Delay 10>I reside in Zohar.
+I am the being<Delay 10>
+that resides inside 
+the Zohar.<New>
 I am the beginning and
 the end.
 The first and the last.<Close><End of Block>
@@ -49,32 +51,35 @@ A place you cannot perceive...
 But in terms you understand, it
 is a world where everything
 acts as kinds of waves...<New>
-It is the source of this
-four-dimensional universe...<Delay 5>
-The place where time and
-space is controlled...<Delay 5>
-The fluctuating void<Delay 10>...<Delay 10>
+It is the place that 
+became the origin of your 
+four-dimensional universe<Delay 5>
+which is controlled by 
+space and time.<Delay 5>
+The fluctuating 
+non-existence<Delay 10>...<Delay 10>
 The 'Wave Existence'.<Close><End of Block>
 <TextBlock 14 w:64 h:2>
 What does such an 'Existence'<Delay 10>...<Delay 10>
 have to do with me...?<Close><End of Block>
 <TextBlock 15 w:62 h:7>
-Long ago, a 'modifier', or a
-pseudo-perpetual, infinite-
-energy engine was created.
-That engine was named 'Zohar'.<New>
-That reactor was created by an
-ancient people from another
-planet to attain what is
-considered to be the ultimate
-energy possible within this
+In ancient times, a phenomena 
+modification engine, a 
+semi-perpetual infinite energy 
+engine was created. It was 
+given the name "Zohar".<New>
+It was the attempt by ancient 
+people from a different planet 
+to obtain the highest energy 
+imaginable in this 
 four-dimensional universe.<New>
-Eventually, those people used
-that same engine to create
-the ultimate inter-planetary
-invasion weapon, 'Deus'...
-Zohar was used as its primary
-source of power.<New>
+It was not long before those 
+people made use of this engine 
+to create the ultimate 
+strategic weapon for 
+interplanetary war, "Deus". 
+Zohar was eventually used 
+as its main power reactor.<New>
 But the unexpected happened...
 During the connection tests of
 Zohar with the newly completed
@@ -139,7 +144,7 @@ child, you defined my existence
 with your desire to return to
 your mother. Thus I came to
 prepare the mother's will...
-That will is Elhaym.<Close><End of Block>
+That will is Elehayym.<Close><End of Block>
 <TextBlock 22 w:44 h:2>
 Elly's disposition was
 influenced by me?<Close><End of Block>
@@ -156,7 +161,7 @@ That is her.<New>
 I was split by your contact.
 My physical form or flesh
 stayed in Zohar, while my
-will went into Elhaym and
+will went into Elehayym and
 my power went into you.
 That's why I waited to
 unite with you.
@@ -166,7 +171,7 @@ is to break this 'cage
 of fleshly existence'...
 In order to do that, I must
 become perfect by combining
-with Elhaym, as well as my
+with Elehayym, as well as my
 other split physical form,
 'Deus'.<New>
 The only way to return to
