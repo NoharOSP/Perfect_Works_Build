@@ -75,8 +75,8 @@ How do you even know
 how to operate such
 a monster...?<Close><End of Block>
 <TextBlock 20 w:32 h:2>
-Mother...?<Delay 20>
-Where mother...?<Close><End of Block>
+Mommy...?<Delay 20>
+Where Mommy...?<Close><End of Block>
 <TextBlock 21 w:46 h:5>
 See, I told you so...<Delay 20>
 I said allowing someone
@@ -95,7 +95,7 @@ blame all on Fei alone.<New>
 What is more, you know
 Fei had no control over
 the malfunction of that
-Gear.<Close><End of Block>
+gear.<Close><End of Block>
 <TextBlock 24 w:44 h:4>
 Citan
 "It might be better if
@@ -127,14 +127,16 @@ other villagers here.<Close><End of Block>
 Citan
 "Yes, well... <Delay 20>Why not go
 through the Blackmoon
-Forest and head for Aveh?<New>
+Forest and head for Av?<New>
 I am sure those soldiers
 from yesterday were not
-from Aveh.<New>
-If you can manage to get
-to the Aveh side, they
-will not be able to track
-you down very easily."<Close><End of Block>
+from Av.<New>
+If you can manage to
+cross the forest into 
+Av,<New> 
+they will not be able 
+to track you down very 
+easily."<Close><End of Block>
 <TextBlock 27 w:48 h:3>
 Citan
 "Of course...<Delay 20>
@@ -153,7 +155,7 @@ Dan
 <TextBlock 31 w:42 h:4>
 Dan
 "It...<Delay 10>was because you
-had to go get in that
+just had to get in that
 monster...<New>
 Alice and Timothy...<Delay 20>
 The people of the
@@ -192,9 +194,9 @@ hell, <Delay 10>red, deep...!<Close><End of Block>
 Dan
 "Uuuaaaaaaahhhhh...!!"<Opcode 2 30><Close><End of Block>
 <TextBlock 40 w:18 h:1>
-Yikes...!<Opcode 2 30><Close><End of Block>
+Please!...<Opcode 2 30><Close><End of Block>
 <TextBlock 41 w:32 h:2>
-No! Keep away...
+No! Stay away...
 I'm scared...<Opcode 2 30><Close><End of Block>
 <TextBlock 42 w:28 h:1>
 Waaaaaaahhh...<Opcode 2 30><Close><End of Block>
