@@ -32,11 +32,11 @@ my best friends.<Delay 20>
 You know I can't do that!"<Close><End of Block>
 <TextBlock 5 w:52 h:3>
 Fei
-"Alright Dan,
-you've got it...<New>
-I guess I'll just go sweep
-Alice away and make a run
-for it!"<Close><End of Block>
+"Alright Dan.
+You've got it...<New>
+I guess I'll just go and
+sweep Alice away into the 
+sunset!"<Close><End of Block>
 <TextBlock 6 w:48 h:3>
 "Timothy is a balding
 headed fool! And his dad
@@ -82,17 +82,17 @@ weird item!!<Close><End of Block>
 'High' there Fei!<New>
 Did you know that beyond
 that black forest lies the
-great kingdom of Aveh?<New>
+great kingdom of Av?<New>
 It's got a big capital
 city with lots of people
 living there.<New>
 My father is working
-somewhere in Aveh.<Close><End of Block>
+somewhere in Av.<Close><End of Block>
 <TextBlock 17 w:48 h:4>
 Soon, my father is going
 to come pick mother and
 me up so that we can all
-live together in Aveh.<Close><End of Block>
+live together in Av.<Close><End of Block>
 <TextBlock 18 w:48 h:2>
 Oh, father!
 Please come home soon...<Close><End of Block>
@@ -194,7 +194,7 @@ I knew I liked you, Fei!
 That's the spirit!"<Close><End of Block>
 <TextBlock 39 w:50 h:4>
 Dan
-"... But, if only
+"...Ah, if only
 it was that easy...<New>
 It's not like we can
 change their feelings...<Delay 40>
@@ -248,7 +248,7 @@ Sigh...<Delay 20> The never ending
 hardships of a woman.<Close><End of Block>
 <TextBlock 49 w:42 h:4>
 Alice and Timothy's
-wedding tommorow is
+wedding tomorrow is
 the talk of the town.<New>
 I guess it's to be
 expected though...<Delay 20>
