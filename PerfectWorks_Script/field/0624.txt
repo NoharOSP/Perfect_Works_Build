@@ -118,11 +118,11 @@ live there...<New>
 I tell you, it's
 better if you don't
 go near the place!<Close><End of Block>
-<TextBlock 17 w:54 h:5>
+<TextBlock 17 w:52 h:5>
 South of here is the
 'Blackmoon Forest'.
 If you can make it through
-there, you'll come to Aveh,
+there, you'll come to Av,
 the great land of fire!<New>
 I shouldn't be wasting my
 time here in this little
@@ -156,7 +156,7 @@ If you get through the
 'Blackmoon Forest' to
 the south of here, you
 will find the kingdom of
-fire, 'Aveh'.<New>
+fire, 'Av'.<New>
 Instead of just wasting
 away here in this little
 mountain village, I should
@@ -172,7 +172,7 @@ Wouldn't that be good!<Close><End of Block>
 Have you heard the
 latest rumors!?<New>
 It's said that, in the
-southern desert of Aveh
+southern desert of Av
 there is buried treasure
 all over the place!<New>
 There's hundreds of
