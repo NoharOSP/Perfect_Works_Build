@@ -2,7 +2,7 @@
 Fei
 "This is...<Delay 10>
 Dazil..."<Close><End of Block>
-<TextBlock 2 w:48 h:2>
+<TextBlock 2 w:38 h:2>
 Fei
 "Repair <Weltall>..."<Close><End of Block>
 <TextBlock 3 w:32 h:4>
@@ -75,11 +75,11 @@ this sand buggy?"<Close><End of Block>
 <TextBlock 15 w:26 h:2>
 Fei
 "Sand buggy?"<Close><End of Block>
-<TextBlock 16 w:42 h:4>
+<TextBlock 16 w:44 h:4>
 Fei
-"The 'Ethos'? <Delay 10>
+"The Church of Ethos? <Delay 10>
 What do Gears have to
-do with the 'Ethos'?"<Close><End of Block>
+do with the Church?"<Close><End of Block>
 <TextBlock 17 w:12 h:2>
 Fei 
 "Huh?"<Close><End of Block>
@@ -90,7 +90,7 @@ The desert town of Dazil."<Close><End of Block>
 <TextBlock 19 w:52 h:4>
 Citan
 "We should be able to find
-out what both Aveh and
+out what both Av and
 Kislev are up to, here.<New>
 And we also have to gather
 the things we need to
@@ -102,16 +102,17 @@ the broken parts to fix
 <Weltall>...<New>
 Otherwise it will not be
 able to function at all!<New>
-There is an 'Ethos'
-workshop in the southern
-part of this town.<Delay 10>
+There is a workshop run 
+by The Church of the 
+Ethos in the southern 
+part of this town.<New>
 Let us go there, Fei."<Close><End of Block>
 <TextBlock 21 w:50 h:4>
 Citan
-"Only the 'Ethos' has the
+"Only the Church has the
 technology to maintain
 generator driven Gear.<New>
-The 'Ethos' decides which
+The Church decides which
 Gear gets which generator
 in which country..."<Close><End of Block>
 <TextBlock 22 w:48 h:2>
@@ -140,29 +141,30 @@ Citan
 speculation, but...<New>
 I suspect the incident that
 evening occured because the
-Gebler Special Force stole
+Geburah Special Force stole
 a Kislev Military Gear."<Close><End of Block>
 <TextBlock 27 w:54 h:4>
 Citan
 "Exactly.<New>
 When I examined the broken
 Gear in the village, I
-realized the Gebler pilot
+realized the Geburah pilot
 was riding a Kislev Gear.<New>
 It must have had some new
-technology involved in it
+technology installed in it
 for the Kislev army to send
 pursuit forces after it."<Close><End of Block>
-<TextBlock 28 w:52 h:4>
+<TextBlock 28 w:54 h:4>
 Citan
-"I suspect that the Gebler
+"I suspect that the Geburah
 Force was out to steal a
 new experimental Gear."<Close><End of Block>
-<TextBlock 29 w:52 h:4>
+<TextBlock 29 w:52 h:5>
 Citan
-"I am sure news of the
-Special Force's failure
-has reached the capital.<New>
+"News of the 
+Special Force's failure 
+has most likely 
+reached the capital.<New>
 They will be investigating
 the Lahan area to reclaim
 whatever parts of the new
@@ -172,7 +174,7 @@ Citan
 "Most probably.<New>
 And in that case, there
 will be a conflict between
-Aveh's inspection team and
+Av's inspection team and
 Kislev's pursuit troops.<New>
 If they find where we have
 hidden <Weltall>..."<Close><End of Block>
@@ -188,7 +190,7 @@ But staying here will
 solve nothing.<New>
 Fortunately, this is the
 center of all excavation
-work in this country.<New>
+work in the country.<New>
 There is bound to be some
 information on where we
 can find parts...<New>
@@ -250,7 +252,7 @@ round here before.<New>
 Don't think that if you
 cause trouble you'll get
 away with it!<New>
-We're Aveh Army Guards!
+We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 40 w:52 h:3>
 Feels like the war's over.
@@ -270,7 +272,7 @@ round here before.<New>
 Don't think that if you
 cause trouble you'll get
 away with it!<New>
-We're Aveh Army Guards!
+We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 43 w:24 h:1>
 All's clear!<Close><End of Block>
@@ -296,7 +298,7 @@ round here before.<New>
 Don't think that if you
 cause trouble you'll get
 away with it!<New>
-We're Aveh Army Guards!
+We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 48 w:46 h:3>
 Someone named Sigurd is
@@ -323,7 +325,7 @@ Hey, I haven't seen you
 Don't think that if you
 cause trouble you'll get
 away with it!<New>
-We're Aveh Army Guards!
+We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 51 w:52 h:3>
 There are burglars out
@@ -370,9 +372,9 @@ has been chased out!<New>
 The war with Kislev might
 end, and life will be easy
 again. I'm so happy.<Close><End of Block>
-<TextBlock 59 w:50 h:3>
-Since those Gebler forces
-came, Aveh's hardly ever
+<TextBlock 59 w:52 h:3>
+Since those Geburah forces
+came, Av's hardly ever
 lost to Kislev.<New>
 I wish the 'Ethos' would
 give out some of those
@@ -433,7 +435,7 @@ That's the best way to make
 money... That's the knack!<New>
 We make our money selling
 the parts we excavate to
-the 'Ethos'.<New>
+the Church.<New>
 The rarer the parts, the
 better the price!<Delay 20>
 'Dig it'!?<Close><End of Block>
@@ -447,7 +449,7 @@ Fei
 <TextBlock 70 w:50 h:4>
 Citan
 "This is the center for
-all excavations in Aveh.<New>
+all excavations in Av.<New>
 People come from all over
 Ignas to try and find the
 resources buried in the
