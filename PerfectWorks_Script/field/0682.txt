@@ -4,7 +4,7 @@ even in peacetime.<New>
 We always have to keep 
 working hard just in case.<Close><End of Block>
 <TextBlock 2 w:46 h:3>
-This is the Aveh Army's
+This is the Av Army's
 Dazil Guard Station.
 No civilians allowed.<New>
 If you have no business
@@ -12,7 +12,7 @@ here, please leave.<Close><End of Block>
 <TextBlock 3 w:56 h:4>
 This town is the center
 of all Gear excavating 
-in Aveh.<New>
+in Av.<New>
 They take the generators
 out of excavated Gear to
 make new models.<New>
@@ -28,28 +28,28 @@ Hey, I haven't seen you
 Don't think that if you
 cause trouble you'll get
 away with it!<New>
-We're Aveh Army Guards!
+We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 5 w:56 h:3>
 My friend had family in
-Bledavik, so he went back.<New>
+Breidablik, so he went back.<New>
 That's nice. At least he 
 had someone waiting for him.<Delay 15>
 Me...<Delay 5> I'm all alone...<Delay 5><New>
 I think I'll just cry
 myself to sleep today.<Close><End of Block>
-<TextBlock 6 w:46 h:3>
+<TextBlock 6 w:48 h:3>
 The Kislev army is up
 to something in the
 land north of here.<New>
 But don't worry...
 If anything happens,
-Gebler will back us up.<Close><End of Block>
+Geburah will back us up.<Close><End of Block>
 <TextBlock 7 w:48 h:3>
 Hey, I haven't seen you
 'round here before.<New>
 Don't think that if you
 cause trouble you'll get
 away with it!<New>
-We're Aveh Army Guards!
+We're Av Army Guards!
 ...Remember that!<Close><Close><End of Block>
