@@ -37,7 +37,7 @@ everywhere for you."<Close><End of Block>
 <TextBlock 10 w:38 h:2>
 Citan
 "Yes, of course..."<Close><End of Block>
-<TextBlock 11 w:3 h:1>
+<TextBlock 11 w:2 h:1>
 !<Close><End of Block>
 <TextBlock 12 w:42 h:3>
 Citan
@@ -71,10 +71,10 @@ outright battle like that."<Close><End of Block>
 <TextBlock 18 w:12 h:2>
 Citan
 "Fei?"<Close><End of Block>
-<TextBlock 19 w:36 h:4>
+<TextBlock 19 w:32 h:4>
 Citan
 "Oh no!
-The Aveh Military!
+The Av Military!
 Not now...!"<Close><End of Block>
 <TextBlock 20 w:46 h:4>
 Citan
