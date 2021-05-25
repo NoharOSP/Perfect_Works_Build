@@ -63,8 +63,8 @@ as long as we are prisoners
 ...even if we wanted to."<Close><End of Block>
 <TextBlock 10 w:46 h:3>
 Let us rest a little.
-Maybe it will sort your
-feelings out a little.<New>
+Maybe it will put your 
+mind at ease.<New>
      Good idea
      Let's talk more<Close><End of Block>
 <TextBlock 11 w:42 h:3>
@@ -90,7 +90,7 @@ That Gear is a top
 secret experimental
 model from Kislev...<New>
 It was only natural
-that Aveh would also
+that Av would also
 be madly searching
 for it."<Close><End of Block>
 <TextBlock 16 w:50 h:3>
@@ -106,14 +106,14 @@ Is that what is wrong?"<Close><End of Block>
 Citan
 "Are you worried
 about your father?"<Close><End of Block>
-<TextBlock 19 w:56 h:3>
+<TextBlock 19 w:54 h:3>
 Citan
 "...<New>
 (It was him! No mistake...<Delay 32>
 That was no coincidence...)<New>
 (Could it be that we are
 approaching...<Delay 32>the
--Time- of the<Delay 16> -Gospel-...?)"<Close><End of Block>
+"Time of the<Delay 16> Gospel"...?)"<Close><End of Block>
 <TextBlock 20 w:42 h:3>
 Citan
 "(Majesty...
