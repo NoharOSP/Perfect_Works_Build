@@ -2,7 +2,7 @@
 Wow!?<Opcode 2 40><Close><End of Block>
 <TextBlock 2 w:42 h:2>
 Fei
-"W,<Delay 30> what is this...?"<Close><End of Block>
+"W-<Delay 30>What is this...?"<Close><End of Block>
 <TextBlock 3 w:42 h:3>
 Fei
 "So this is what doc
@@ -12,7 +12,7 @@ what's so interesting
 about it..."<Close><End of Block>
 <TextBlock 4 w:40 h:4>
 Fei
-"This music...?<Delay 20>
+"This music,<Delay 20>
 I've<Delay 10> heard it before
 somewhere...?"<Close><End of Block>
 <TextBlock 5 w:16 h:2>
@@ -41,16 +41,16 @@ Citan
 some old ruins, and is
 still under repair.<New>
 Obviously it is an audio
-device of some type."<Close><End of Block>
+device of some kind."<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Citan
 "Long ago people would
 listen to this melody,
 just as we are doing now...<New>
-At times they would have
+At times they may have
 been cheered up...
-While at times they would
-have been made to cry."<Close><End of Block>
+while at other times they
+may have been made to cry."<Close><End of Block>
 <TextBlock 10 w:48 h:3>
 Citan
 "By the way, what brings
@@ -67,7 +67,7 @@ Well, we had better
 get them ready then."<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 Citan
-"Oh, and dinner should be
+"Dinner should be
 ready soon.<Delay 20> Would you like
 to join us?"<Close><End of Block>
 <TextBlock 14 w:42 h:4>
@@ -80,26 +80,25 @@ Midori some company
 back in the house?"<Close><End of Block>
 <TextBlock 15 w:48 h:4>
 Citan
-"Ha, ha, ha.
+"Hahaha.
 Go right ahead.<New>
-But, I will not be held
+But, I will not be
 responsible if you get a
-stomachache from eating
-my wife Yui's cooking."<Close><End of Block>
+stomach ache from Yui's 
+cooking."<Close><End of Block>
 <TextBlock 16 w:50 h:4>
 Citan
-"That just may be because
-you have someone living
-inside of you...<New>
-... And he too must have
-liked this music a long
-time ago before he became
-a part of you...<Close>
- <Close><End of Block>
+"Perhaps you have 
+heard it sometime in 
+the past...<New>
+It seems like a part 
+of your memories buried 
+deep within you wants 
+to resurface. <Close><End of Block>
 <TextBlock 17 w:52 h:4>
 Citan
-"Is Timothy and Alice's
-wedding really tomorrow...<New>
+"Is their wedding 
+really tomorrow?<New>
 It might actually be
 better to live an ordinary
 life, in this condition...<Delay 30>
@@ -120,8 +119,8 @@ an omen...?"<Close><End of Block>
 <TextBlock 21 w:36 h:4>
 Citan
 "...<Delay 40>
-Now, what is going
-to happen...?"<Close><End of Block>
+Now what could 
+it mean...?"<Close><End of Block>
 <TextBlock 22 w:36 h:2>
 What do you think?<Delay 30>
 Not bad, huh?<Close><End of Block>
