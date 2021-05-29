@@ -45,14 +45,14 @@ restore this Land Crab.<New>
 Oh, and that explosion was
 nothing to worry about.<Delay 20>
 It happens all the time.
-Ha, ha, ha...!"<Close><End of Block>
+Haha!..."<Close><End of Block>
 <TextBlock 11 w:48 h:4>
 Citan
 "Could you wait a while?<Delay 20>
 I am just about ready
 to call it a day.<New>
-Oh, yes. There is
-something interesting
+Oh, while you wait, there 
+is something interesting
 in the storeroom...<Delay 20>
 Why not take a look!?"<Close><End of Block>
 <TextBlock 12 w:36 h:2>
