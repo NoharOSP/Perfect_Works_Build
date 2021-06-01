@@ -9,7 +9,7 @@ Fei
 Hang in there!"<Close><End of Block>
 <TextBlock 3 w:32 h:3>
 Mysterious Woman
-"Errh...<Delay 30>
+"Er...<Delay 30>
 Turn around!"<Close><End of Block>
 <TextBlock 4 w:10 h:2>
 Fei
@@ -35,14 +35,15 @@ Mysterious Woman
 <TextBlock 10 w:52 h:4>
 Mysterious Woman
 "I have orders to kill all
-surface dwellers, -Lambs-,
+surface dwelling "Lambs"
 I come in contact with...<New>
 It's part of my mission.
 It's nothing personal."<Close><End of Block>
-<TextBlock 11 w:54 h:4>
+<TextBlock 11 w:52 h:3>
 Mysterious Woman
-"I have a question for you.<Delay 40>
-...How do I get out of this
+"I have only one question 
+for you.<Delay 40><New>
+...How do I leave this
 forest?"<Close><End of Block>
 <TextBlock 12 w:34 h:2>
 Fei
@@ -71,13 +72,13 @@ up and do it."<Close><End of Block>
 Mysterious Woman
 "What an odd thing to say!
 Don't you understand the
-situation you are in?"<Close><End of Block>
+situation you're in?"<Close><End of Block>
 <TextBlock 18 w:40 h:4>
 Fei
 "I don't care about
 my situation...<New>
-I'm just a guy whose
-life is worthless...
+My life doesn't mean
+anything anymore...
 There's no point in
 me living anyway!"<Close><End of Block>
 <TextBlock 19 w:34 h:2>
@@ -100,9 +101,9 @@ Who are you?"<Opcode 2 30><Close><End of Block>
 !<Opcode 2 30><Close><End of Block>
 <TextBlock 24 w:4 h:1>
 -5<Opcode 2 10><Close><End of Block>
-<TextBlock 25 w:32 h:2>
+<TextBlock 25 w:36 h:2>
 Mysterious Woman
-"You're weird!"<Opcode 2 80><Close><End of Block>
+"You're deranged!"<Opcode 2 80><Close><End of Block>
 <TextBlock 26 w:34 h:3>
 Mysterious Woman
 "Something's very
@@ -114,6 +115,6 @@ resist a little bit!"<Opcode 2 80><Close><End of Block>
 <TextBlock 28 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 29 w:40 h:2>
+<TextBlock 29 w:20 h:2>
  
  Received <Opcode 4 20><Close><Close><End of Block>
