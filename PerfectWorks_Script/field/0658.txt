@@ -17,11 +17,10 @@ Elly
 Citan
 "I imagine you would.
 You have had quite a day."<Close><End of Block>
-<TextBlock 5 w:54 h:4>
+<TextBlock 5 w:54 h:3>
 Citan
 "This is the machine Fei
-used when the village was
-attacked.<New>
+used during the battle.<New>
 There was another machine
 left sitting on the
 outskirts of the village...<New>
@@ -41,21 +40,23 @@ forest...are actually one
 and the same person.<New>
 Judging from your uniform,
 I would also say you are
-with the military...
+with the Geburah military.<New>
+Perhaps a lieutenant...
 Am I correct?"<Close><End of Block>
 <TextBlock 8 w:26 h:3>
 Elly
 "How...?
 Who are you?"<Close><End of Block>
-<TextBlock 9 w:54 h:4>
+<TextBlock 9 w:50 h:4>
 Citan
 "I checked the ID tags of
 of the soldiers who died
 in the attack on Lahan...<New>
 The design on their tags
 and the design on your
-uniform there is the same."<Close><End of Block>
-<TextBlock 10 w:3 h:1>
+uniform there are almost
+the same."<Close><End of Block>
+<TextBlock 10 w:2 h:1>
 !<Close><End of Block>
 <TextBlock 11 w:48 h:3>
 Citan
@@ -101,7 +102,7 @@ the world than most do."<Close><End of Block>
 Citan
 "Anyway, Elly...
 I have a favor I must
-beg you to do..."<Close><End of Block>
+beg you..."<Close><End of Block>
 <TextBlock 21 w:32 h:2>
 Elly
 "...What is it?"<Close><End of Block>
@@ -184,10 +185,10 @@ than domesticated animals,
 are they not...?"<Close><End of Block>
 <TextBlock 32 w:54 h:4>
 Elly
-"'The Shepherds, -Abel-,
+"'The Shepherds, "Abel",
   took control over the
-  surface dwelling -Lambs-<New>
-  ...possessing the right
+  surface dwelling "Lambs"<New>
+  ...Possessing the right
   to give life and death
   unto them as they see
   fit...'                 "<Close><End of Block>
@@ -211,21 +212,21 @@ Citan
 "But upon meeting Fei,
 something about him made
 you feel differently?"<Close><End of Block>
-<TextBlock 36 w:50 h:4>
+<TextBlock 36 w:48 h:4>
 Elly
 "Yes. He's no different
 than we are...in fact he
 seemed more powerful.<New>
-He possesses something...
+He has something...
 ...something we don't.<Delay 10>
 He also risked his life
 to save me...twice."<Close><End of Block>
-<TextBlock 37 w:44 h:4>
+<TextBlock 37 w:50 h:4>
 Citan
 "Most of your people
 would feel ashamed at
-receiving such an act.<New>
-Yet, you are grateful
+receiving such a favor,<New>
+and yet, you are grateful
 to Fei...?"<Close><End of Block>
 <TextBlock 38 w:52 h:4>
 Elly
@@ -252,9 +253,9 @@ saying we should not pry...<New>
 It is my nature, you know?
 My wife says I am too
 persistent and that I
-talk too much.<New>
-But, personally, I do not
-think I talk too much."<Close><End of Block>
+talk too much,<New>
+but, personally, I
+disagree."<Close><End of Block>
 <TextBlock 42 w:40 h:4>
 Citan
 "It is probably best
