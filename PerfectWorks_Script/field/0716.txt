@@ -4,7 +4,7 @@ Fei
 but I beat them!"<Close><End of Block>
 <TextBlock 2 w:28 h:2>
 Fei
-"W, what the?"<Close><End of Block>
+"What the?"<Close><End of Block>
 <TextBlock 3 w:46 h:3>
 Fei
 "You're the one from...<Delay 40>
@@ -12,8 +12,7 @@ Lahan...!!"<Close><End of Block>
 <TextBlock 4 w:44 h:4>
 Fei
 "How much power I had?
-What are you talking
-about!"<Close><End of Block>
+You don't mean-"<Close><End of Block>
 <TextBlock 5 w:50 h:3>
 Fei
 "To get me in that Gear!?
@@ -41,7 +40,7 @@ Fei
 "What!?"<Close><End of Block>
 <TextBlock 11 w:36 h:4>
 Fei
-"W, wait!
+"Wait!
 We're not finished
 talking yet!!"<Close><End of Block>
 <TextBlock 12 w:50 h:4>
@@ -165,7 +164,7 @@ nature remains unchanged."<Close><End of Block>
 Grahf
 "You know very well...<Delay 10>
 It is to destroy...<Delay 30>
-mother <Delay 10>god<Delay 10>..."<Close><End of Block>
+Mother <Delay 10>God<Delay 10>..."<Close><End of Block>
 <TextBlock 29 w:52 h:4>
 Grahf
 "Yes, we will destroy god.
@@ -173,7 +172,7 @@ That is our purpose...
 That is our destiny!"<Close><End of Block>
 <TextBlock 30 w:34 h:4>
 Grahf
-"Hah, hah, hah...
+"Hah!
 You resemble your
 father."<Close><End of Block>
 <TextBlock 31 w:50 h:4>
@@ -218,9 +217,9 @@ strength!<New>
 Then you will gain all
 that was lost in exchange
 for that scream of death!<Delay 15>
-Ha, ha, ha, ha!!"<Close><End of Block>
+Hahahaha!!"<Close><End of Block>
 <TextBlock 35 w:38 h:1>
-HA, HA, HA, HA, HA!<Close><End of Block>
+MWHAHAHAHAHA!<Close><End of Block>
 <TextBlock 36 w:24 h:4>
 Fei
 "!!
