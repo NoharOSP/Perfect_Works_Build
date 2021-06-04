@@ -31,12 +31,13 @@ the same question."<Close><End of Block>
 <TextBlock 8 w:22 h:3>
 Elly
 "Huh? Well,
-I, errh..."<Close><End of Block>
-<TextBlock 9 w:48 h:4>
+I, uh..."<Close><End of Block>
+<TextBlock 9 w:38 h:3>
 Fei
 "I...<Delay 30>ran away...<Delay 30>
-from my village...<Delay 30>
-or what's left of it..."<Close><End of Block>
+from my village...<Delay 30><New>
+or at least what's 
+left of it..."<Close><End of Block>
 <TextBlock 10 w:40 h:3>
 Elly
 "Village...?
@@ -83,10 +84,11 @@ the Kislev army?"<Close><End of Block>
 <TextBlock 15 w:18 h:2>
 Elly
 "Fei...?"<Close><End of Block>
-<TextBlock 16 w:44 h:3>
+<TextBlock 16 w:44 h:4>
 Fei
 "No... The village was
-destroyed...<Delay 50>by me..."<Close><End of Block>
+destroyed...<Delay 50>by
+my own hands..."<Close><End of Block>
 <TextBlock 17 w:4 h:1>
 !?<Opcode 2 30><Close><End of Block>
 <TextBlock 18 w:36 h:4>
@@ -111,17 +113,15 @@ heavy fire from a new
 group of Gears...<New>
 And then my friend...<Delay 10>
 Timothy...<Delay 10>was hit by
-a hail of bullets...<New>
-Then I lost it...<Delay 10>
-Everything just went
-dark..."<Close><End of Block>
-<TextBlock 21 w:54 h:4>
+a hail of bullets..."<Close><End of Block>
+<TextBlock 21 w:52 h:4>
 Fei
-"I don't remember anything
-after that.<New>
+"Then I don't remember 
+anything after that.<New>
 The Gear I was in went out
 of control...
-Well, that's what doc said.<New>
+Well, that's what Doc
+told me at least.<New>
 When I came to...
 the village...
 and everyone in it...
@@ -174,12 +174,12 @@ Elly
 "Yes, you're a coward.
 All you're saying is
 'them, them, them'.<New>
-Don't talk as if you
-had no part of the
-blame, as well!"<Close><End of Block>
-<TextBlock 31 w:36 h:2>
+You talk as if 
+it's not your 
+responsibility!"<Close><End of Block>
+<TextBlock 31 w:42 h:2>
 Fei
-"I'm to blame...?"<Close><End of Block>
+"I'm responsible...?"<Close><End of Block>
 <TextBlock 32 w:52 h:4>
 Elly
 "Yes, that's right!<New>
@@ -191,21 +191,18 @@ But all Kislev wanted was
 the Gear, right?
 They weren't invading or
 out to destroy Lahan.<New>
-The real damage occured
-because you climbed in a
-Gear and tried to fight
-back!"<Close><End of Block>
+They died because you 
+had to pilot the gear 
+and start fighting."<Close><End of Block>
 <TextBlock 33 w:10 h:2>
 Fei
 "..."<Close><End of Block>
-<TextBlock 34 w:54 h:4>
+<TextBlock 34 w:52 h:4>
 Elly
-"What ever made you get
+"Whatever made you get
 into that Gear?<New>
-Not just anyone can pilot
-them! It takes training!
-There is no way a civilian
-could hope to pilot one!<New>
+Not just anyone can pilot 
+those machines, you know!<New>
 Besides...you should have
 been helping the villagers
 flee to safety instead!<New>
@@ -213,18 +210,16 @@ How can you blame the
 damage on a Gear when it
 was your decision to fight
 in it in the first place?<New>
-Why don't you take some of
-the responsiblity yourself?
-Why are you putting all the
+Why won't you take 
+responsibility? Why are 
+you trying to put the 
 blame on others?<New>
 That's just running away!
-That's what makes you a
-coward!"<Close><End of Block>
+You're a coward!"<Close><End of Block>
 <TextBlock 35 w:52 h:4>
 Fei
-"Well, if you put it that
-way... Yes...that's right,
-I am a coward!<New>
+"That's right!
+I'm a coward!<New>
 I didn't realize my own
 strength and have been
 blaming what happened as a
@@ -239,13 +234,13 @@ myself...or help others."<Close><End of Block>
 <TextBlock 36 w:32 h:2>
 Elly
 "Fei, I, I'm..."<Close><End of Block>
-<TextBlock 37 w:48 h:4>
+<TextBlock 37 w:46 h:4>
 Fei
 "Shut up!!
 What do you know!?<New>
-When I came to I was
-surrounded by piles
-of rubble...<New>
+When I came to, I 
+was surrounded by 
+piles of rubble...<New>
 I didn't know what had
 happened or what I had
 done. I remembered
@@ -253,13 +248,13 @@ absolutely nothing.<New>
 All I knew was that my
 hands could still feel
 what they had done.<New>
-The only things that
-penetrated the Gear's
-barrier were screams...<New>
-Screams accompanied by
-the stench of blood, the
-sound of crushing bones,
-and my own curses.<Close><End of Block>
+The only thing that
+penetrated the gear's
+cockpit were screams...<New>
+Screams, the stench of 
+blood, the sound of 
+crushing bones, and 
+my own curses.<Close><End of Block>
 <TextBlock 38 w:52 h:4>
 Look! Look at my hands!
 Can you hear their voices?
@@ -286,30 +281,30 @@ Fei
 <TextBlock 41 w:16 h:2>
 Elly
 "Fei..."<Close><End of Block>
-<TextBlock 42 w:3 h:1>
+<TextBlock 42 w:2 h:1>
 !<Close><End of Block>
 <TextBlock 43 w:34 h:2>
 <L> Path up.
 Watch the cliffs!<Close><End of Block>
 <TextBlock 44 w:42 h:3>
 <L> Lahan village
-             Aveh <R>
+             Av <R>
 Beware of landslides!<Close><End of Block>
 <TextBlock 45 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 46 w:40 h:2>
+<TextBlock 46 w:20 h:2>
  
  Received <Opcode 4 20><Close><End of Block>
 <TextBlock 47 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 48 w:40 h:2>
+<TextBlock 48 w:20 h:2>
  
  Received <Opcode 4 20><Close><End of Block>
 <TextBlock 49 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 50 w:40 h:2>
+<TextBlock 50 w:20 h:2>
  
  Received <Opcode 4 20><Close><Close><End of Block>
