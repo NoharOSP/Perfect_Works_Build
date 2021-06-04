@@ -9,7 +9,7 @@ Fei
 You did a great job there!<New>
 It'll look wonderful
 on you, Alice...
-Congratulations."<Close><End of Block>
+Congratulations!"<Close><End of Block>
 <TextBlock 3 w:38 h:2>
 Fei
 "Hey, uh, Alice..."<Close><End of Block>
@@ -67,7 +67,7 @@ Fei
 <TextBlock 15 w:44 h:4>
 Fei
 "...<Delay 30>
-Well, I think I had
+Well, I think I'd
 better get going now!"<Close><End of Block>
 <TextBlock 16 w:38 h:4>
 Alice
@@ -106,7 +106,7 @@ Alice
 have you seen Dan?"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Alice
-"Ugh, that kid!<Delay 20>
+"Ugh, that brat!<Delay 20>
 I just told him that I had
 an errand for him to run!"<Close><End of Block>
 <TextBlock 26 w:50 h:4>
