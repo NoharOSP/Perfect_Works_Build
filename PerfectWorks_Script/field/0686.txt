@@ -95,7 +95,7 @@ and steal their treasure!<Opcode 2 30><Close><End of Block>
 <TextBlock 19 w:28 h:1>
 Wahahahahahha.<Opcode 2 30><Close><End of Block>
 <TextBlock 20 w:46 h:3>
-Who'dya think ya are?<New>
+Who'd ya think ya are?<New>
 I don't care if you're
 Big Joe or Big Shmoe!
 You don't mess with me!<Close><End of Block>
@@ -142,8 +142,8 @@ money. Get out!<Close><End of Block>
 <TextBlock 35 w:30 h:6>
   - Menu -
  
-  Bledavik Beer
-  Aveh Ale
+  Breidablik Beer
+  Av Ale
   Hob-Jerky
   Cheese Plate<Close><End of Block>
 <TextBlock 36 w:32 h:3>
