@@ -1,11 +1,12 @@
 <TextBlock 1 w:44 h:4>
 Fei
 "Wow...
-So this is the 'Ethos'
-workshop, heh, doc?"<Close><End of Block>
-<TextBlock 2 w:54 h:4>
+So this is The Church
+of the Ethos workshop,<New>
+eh, doc?"<Close><End of Block>
+<TextBlock 2 w:56 h:4>
 Citan
-"Yes. The 'Ethos' workshops
+"Yes. The Church's workshops
 are the only places that
 officially repair Gears.<New>
 Let us see if we can get
@@ -72,7 +73,7 @@ We don't keep those kind
 of parts in stock here.<New>
 You can only get such
 special parts by placing
-an order at the 'Ethos'
+an order at the Church
 headquarters.<New>
 This workshop is only
 for the repair of
