@@ -1,7 +1,7 @@
 <TextBlock 1 w:44 h:4>
 Whatever the case...<Delay 32>
-There's no way we are
-going to let that
+There's no way we're
+gonna to let that
 Shakhan guy have it...<Close><End of Block>
 <TextBlock 2 w:14 h:1>
 Gunner!<Close><End of Block>
@@ -296,7 +296,7 @@ more than a half of the
 crew members to..."<Opcode 2 120><Close><End of Block>
 <TextBlock 61 w:36 h:3>
 Maison
-"Y, young master!<Delay 16>
+"Y-young master!<Delay 16>
 What is happening?<New>
 What was the alarm
 all about...?"<Close><End of Block>
