@@ -17,7 +17,7 @@ Fei
 Eeeyah!"<Opcode 2 30><Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Fei
-"Errh, sorry about that!<Delay 10>
+"Uh, sorry about that!<Delay 10>
 Just let me borrow this
 for a while!"<Close><End of Block>
 <TextBlock 6 w:2 h:1>
