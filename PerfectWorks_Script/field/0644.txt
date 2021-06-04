@@ -64,7 +64,7 @@ the birds later?"<Close><End of Block>
 Fei
 "...<Delay 20>
 Where have I heard
-that line before!?"<Close><End of Block>
+that line before?"<Close><End of Block>
 <TextBlock 14 w:56 h:4>
 Fei
 "That's alright by me...<Delay 30>
@@ -72,9 +72,9 @@ Well, see you tomorrow, doc!<Delay 30>
 Good night, Yui, Midori!"<Close><End of Block>
 <TextBlock 15 w:54 h:4>
 Citan
-"I will bring the equipment
-you need to the village
-tomorrow morning, myself...<New>
+"I will be bringing the 
+equipment you need to the 
+village tomorrow morning...<New>
 It does not exactly make me
 feel comfortable to have
 you handle such delicate
