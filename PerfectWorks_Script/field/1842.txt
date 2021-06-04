@@ -472,10 +472,10 @@ once again,<Delay 5>
 Ramsus appeared before us.<Close><End of Block>
 <TextBlock 50 w:50 h:7>
 God<Delay 5>...<Delay 5>the inter-planetary
-invasion weapon -Deus-<Delay 5>...<Delay 5>
+invasion weapon 'Deus'<Delay 5>...<Delay 5>
 had awakened and its ark,
  
-Merkava
+Merkabah
  
 was activated.<Close><End of Block>
 <TextBlock 51 w:54 h:12>
@@ -495,11 +495,11 @@ it set into action.<Close><End of Block>
 The planet's surface
 was devastated<Delay 5>...<Delay 5>
  
-<Delay 5>...<Delay 5>by Merkava<Delay 5>
+<Delay 5>...<Delay 5>by Merkabah<Delay 5>
 and the weapons born
 from out of it,<Delay 5> called<Delay 5>...<Delay 45>
  
-'the -<Delay 5>Seraph<Delay 5>- angels'.<Close><End of Block>
+'the <Delay 5>Seraph<Delay 5> angels'.<Close><End of Block>
 <TextBlock 53 w:56 h:12>
 While pursuing
 the newly awakened Deus,<Delay 15>
@@ -511,7 +511,7 @@ Along with his Gear,<Delay 5>
 <Weltall><Delay 5>...<Delay 15>
  
 Discovered together<Delay 5>
-at the place where<Delay 5> 'Merkava'<Delay 5>
+at the place where<Delay 5> 'Merkabah'<Delay 5>
 was originally located<Delay 5>...<Close><End of Block>
 <TextBlock 54 w:54 h:10>
 We were overjoyed by
@@ -590,7 +590,7 @@ power behind the scenes."<Close><End of Block>
 <TextBlock 64 w:42 h:3>
 Citan
 "<Delay 5>...<Delay 5>Would that happen
-to have been Miang?"<Close><End of Block>
+to have been Myyah?"<Close><End of Block>
 <TextBlock 65 w:46 h:2>
 Zephyr
 "Most probably it was."<Close><End of Block>
@@ -599,7 +599,7 @@ Fearing the increasing power
 of the masses assembling in
 Nisan,<Delay 5> the Gazel Ministry
 schemed to hand over to us
-their antagonist,<Delay 5> Miang,<Delay 5> and
+their antagonist,<Delay 5> Myyah,<Delay 5> and
 promised a division of the
 rulership over the earth's
 surface.<New>
@@ -687,14 +687,14 @@ Citan
 <TextBlock 75 w:52 h:4>
 Zephyr
 "God's resting place, 
-'Mahanon'<Delay 5>...<Delay 30> The source of
-divine wisdom, 'Razael'<Delay 5>...<New>
-And the 'Anima Relics'
-which were created by
-that very wisdom<Delay 5>...<New>
+'Machanon'<Delay 5>...<Delay 30> the ground 
+where God sleeps...<New>
+the source of wisdom, 
+'Raziel'<Delay 5>...the "Vessels of 
+Anima" that were created 
+from God's wisdom<Delay 5>...<New>
 Besides these<Delay 5>...<Delay 15>
-there is one more
-legend."<Close><End of Block>
+another legend exists."<Close><End of Block>
 <TextBlock 76 w:28 h:2>
 Citan
 "And that is?"<Close><End of Block>
@@ -704,16 +704,16 @@ Zephyr
 <TextBlock 78 w:50 h:4>
 Citan
 "Zohar!?<Delay 30>
-That has the same name as
-the <Delay 10>'Zohar Modifier'<Delay 10>...<New>
-...<Delay 5>the power reactor that
-Miang spoke of,<Delay 5> saying it
-was the infinite energy
-source of god<Delay 5> -Deus-<Delay 5>...<New>
-What she claimed is also
-the source of our Ether
-powers <Delay 5>and the driving
-force of all our Gears."<Close><End of Block>
+Myyah called that the<Delay 10> 
+power reactor of God...
+<Delay 10>'Deus'...<New>
+<Delay 5>which is also the 
+source of all of our 
+Ether power,<Delay 5><New>
+"the Phenomenon 
+Alteration System", 
+it isn't the same 
+name is it?!"<Close><End of Block>
 <TextBlock 79 w:50 h:4>
 Zephyr
 "It would have to be one
