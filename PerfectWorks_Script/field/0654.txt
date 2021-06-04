@@ -16,7 +16,7 @@ yourself in good shape..."<Close><End of Block>
 Fei
 "Why did you bring
 this here, doc?"<Close><End of Block>
-<TextBlock 5 w:46 h:3>
+<TextBlock 5 w:36 h:3>
 Citan
 "This...?
 You mean <Weltall>?"<Close><End of Block>
@@ -24,9 +24,9 @@ You mean <Weltall>?"<Close><End of Block>
 Fei
 "...<Weltall>?<Delay 20>
 This is the Gear that
-destroyed our village.<New>
-Why did you bother
-bringing it here?
+destroyed Lahan.<New>
+Why did you 
+bring it here?
 I never want to see
 another Gear again..."<Close><End of Block>
 <TextBlock 7 w:38 h:4>
@@ -41,9 +41,9 @@ Even more since we
 are being pursued."<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Fei
-"I agree that a certain
-degree of strength is
-needed for self-defense.<New>
+"I agree that some 
+strength is needed 
+for self-defense.<New>
 And if it weren't for this
 Gear here, Elly and I'd be
 in that Rankar's stomach
@@ -95,13 +95,14 @@ Elly
 Citan
 "I am Citan...
 a friend of Fei's.<New>
-You almost did not make it.
+You were nearly that 
+Rankar's meal!<New>
 If Fei had not have helped
 you, I hate to think what
 may have happened.<New>
 But I was not too pleased
 with his rashness in trying
-to take on that Rankar
+to take on that beast
 with just his bare fists."<Close><End of Block>
 <TextBlock 17 w:26 h:2>
 Elly
@@ -134,7 +135,7 @@ on your tab."<Close><End of Block>
 <TextBlock 24 w:52 h:4>
 Citan
 "It is getting dark.
-Let us make camp now and
+Let us set up camp and
 start out early tomorrow.<New>
 The both of you look tired
 and I need to make some
@@ -198,14 +199,14 @@ protect the village."<Close><End of Block>
 Fei
 "Thanks, doc...
 By the way, how is everyone
-from the village going?"<Close><End of Block>
+from the village doing?"<Close><End of Block>
 <TextBlock 39 w:50 h:3>
 Citan
 "Do not worry, Yui is
 taking care of them.<New>
 I told her to leave soon
-and take them all to a
-certain place.<New>
+and take them all to... 
+a certain place.<New>
 They should be safe for a
 while. So you just worry
 about yourself for now."<Close><End of Block>
@@ -219,11 +220,11 @@ should do next...<New>
 Shall we leave this forest
 and head for the desert
 town of Dazil?<New>
-We may learn what Aveh and
+We may learn what Av and
 Kislev are up to...
 not to mention getting some
 parts for <Weltall>.<New>
-The leader of Aveh is not
+The leader of Av is not
 going to sit back and let
 the other night's fiasco
 go by unpunished!"<Close><End of Block>
@@ -234,39 +235,40 @@ Fei
 Citan
 "I would assume it is
 an aerial battleship
-from Aveh..."<Close><End of Block>
+from Av..."<Close><End of Block>
 <TextBlock 44 w:54 h:4>
 Fei
 "An aerial battleship?
-I've never heard of Aveh
+I've never heard of Av
 having anything like that."<Close><End of Block>
 <TextBlock 45 w:44 h:4>
 Citan
 "Of course it does
-not come from Aveh
+not come from Av
 originally...<New>
 Most likely it belongs
-to the Gebler forces
-stationed in Aveh."<Close><End of Block>
-<TextBlock 46 w:18 h:2>
+to the Geburah forces
+stationed in Av."<Close><End of Block>
+<TextBlock 46 w:20 h:2>
 Fei
-"Gebler?"<Close><End of Block>
+"Geburah?"<Close><End of Block>
 <TextBlock 47 w:48 h:4>
 Citan
 "Special forces from the
 Sacred Empire of Solaris
-known as Gebler.<New>
+known as Geburah.<New>
 I am sure you have heard
 something about them.<New>
 They are an organization
 providing large scale
 military aide to the
-Kingdom of Aveh.<New>
+Kingdom of Av.<New>
 They showed up in Ignas
-several months ago.
+several years ago,
+11, to be precise.<New>
 Until then, Aveh was
 being routed by Kislev.<New>
-But with Gebler's help
+But with Geburah's help
 they have managed to
 regain half their loses.<New>
 They are now expanding
@@ -299,7 +301,7 @@ the Kislev Empire?"<Close><End of Block>
 Citan
 "Yes. It seems they have
 found new ruins on the
-northern edge of Aveh.<New>
+northern edge of Av.<New>
 Those ruins are under a
 five-hundred-year-old
 temple.<New>
