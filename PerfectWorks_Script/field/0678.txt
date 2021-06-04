@@ -60,7 +60,7 @@ desert to search for parts
 for <Weltall>."<Close><End of Block>
 <TextBlock 13 w:54 h:4>
 Citan
-"The Kislev and Aveh armies
+"The Kislev and Av armies
 are confronting each other 
 in the desert all the time.<New>
 There is talk that their
@@ -76,15 +76,15 @@ find the parts we need.<New>
 (Besides <Weltall> is a
 Kislev Gear, so we need
 parts from Kislev Gears.)"<Close><End of Block>
-<TextBlock 15 w:48 h:4>
+<TextBlock 15 w:52 h:4>
 Citan
 "Fei, you are such a
 worrier. Things have
 a way of working out.<New>
 You do not need to worry
-so much. Why not go kill
-some time at the bar
-until I get back."<Close><End of Block>
+so much. Come on, why not 
+go kill some time at the 
+bar until I get back?"<Close><End of Block>
 <TextBlock 16 w:44 h:4>
 Citan
 "Military and civilian
