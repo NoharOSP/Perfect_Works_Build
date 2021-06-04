@@ -1,6 +1,6 @@
 <TextBlock 1 w:56 h:3>
 Since that disaster happened
-to the 'Ethos', they've been
+to the Church, they've been
 running around like fools...<New>
 Now, just getting parts is a
 tough enough task.<Close><End of Block>
@@ -8,7 +8,7 @@ tough enough task.<Close><End of Block>
 If requests for repairs
 keep coming at this pace,
 we won't be able to keep up.<New>
-We should ask the 'Ethos'
+We should ask the Church's
 headquarters to expand this
 workshop.<Close><End of Block>
 <TextBlock 3 w:44 h:4>
@@ -20,7 +20,7 @@ they're gonna run out.<Close><End of Block>
 We're out of Gear parts
 in the warehouse.
 I'm gonna have to order
-more from the 'Ethos'
+more from the Church's
 headquarters.<Close><End of Block>
 <TextBlock 5 w:52 h:3>
 I have finished restocking
@@ -32,7 +32,7 @@ cooperate with the
 surviving mechanics.<Close><End of Block>
 <TextBlock 7 w:46 h:4>
 I'll have to ask the
-'Ethos' headquarters
+Church's headquarters
 to send a mechanic that
 can repair army Gears.<Close><End of Block>
 <TextBlock 8 w:38 h:2>
@@ -50,7 +50,7 @@ Hey, I haven't seen you
 Don't think that if you
 cause trouble you'll get
 away with it!<New>
-We're Aveh Army Guards!
+We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 11 w:50 h:3>
    -This month's goal-   
