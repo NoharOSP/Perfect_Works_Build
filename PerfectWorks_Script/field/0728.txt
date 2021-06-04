@@ -5,7 +5,7 @@ sea of sand... Don't you
 believe in comradeship?<Close><End of Block>
 <TextBlock 2 w:18 h:2>
 Citan
-"Wooh..."<Close><End of Block>
+"Woah..."<Close><End of Block>
 <TextBlock 3 w:22 h:2>
 Citan
 "Whoops..."<Close><End of Block>
@@ -23,7 +23,7 @@ Citan
 Riding in the hand was
 not so bad.<New>
 I can see what is so
-good about this top
+prized about this top
 secret experimental
 Kislev machine."<Close><End of Block>
 <TextBlock 6 w:24 h:3>
