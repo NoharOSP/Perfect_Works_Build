@@ -22,7 +22,7 @@ ahead and shoot me!<New>
 But you'd better not do it
 while we're in this forest.
 Forest monsters hate loud
-noises, you know!?"<Close><End of Block>
+noises, you know..."<Close><End of Block>
 <TextBlock 7 w:32 h:2>
 Mysterious Woman
 "..."<Close><End of Block>
@@ -30,7 +30,7 @@ Mysterious Woman
 Fei
 "Fine.
 Don't talk to me if
-you don't want to...<New>
+you don't want to, <New>
 But it wouldn't kill
 you to thank me for
 tending your wounds."<Close><End of Block>
@@ -38,7 +38,7 @@ tending your wounds."<Close><End of Block>
 !<Opcode 2 20><Close><End of Block>
 <TextBlock 10 w:44 h:4>
 Mysterious Woman
-"Th...thanks...<Delay 30>
+"...Thanks...<Delay 30>
 but you shouldn't
 have helped me.<New>
 Don't think it will
@@ -53,10 +53,9 @@ so afraid of?"<Close><End of Block>
 Mysterious Woman
 "I'm not afraid...
 I'm just being cautious.<New>
-It's natural for me to be
-this cautious considering
-I've met such a suspicious
-surface dwelling -Lamb-."<Close><End of Block>
+It's natural considering 
+how I've met such a 
+suspicious "Lamb"."<Close><End of Block>
 <TextBlock 13 w:52 h:3>
 Fei
 "Hm... Don't you worry.
@@ -72,7 +71,7 @@ Fei
 <TextBlock 16 w:52 h:3>
 Mysterious Woman
 "I won't give my name to
-a surface dweller -Lamb-."<Close><End of Block>
+a "Lamb"."<Close><End of Block>
 <TextBlock 17 w:46 h:4>
 Fei
 "What's with you and
@@ -95,19 +94,19 @@ It's going to be hard for
 us to cooperate with one
 another without at least
 knowing each other's names.<New>
-Anyway, my name is
+My name is
 Fei Fong Wong.<Delay 100>
 You can call me Fei."<Close><End of Block>
 <TextBlock 20 w:32 h:4>
 Mysterious Woman
-"I'm...Elhaym.
+"I'm...Elehayym.
 But my parents
 call me Elly."<Close><End of Block>
 <TextBlock 21 w:34 h:4>
 Fei
 "'Elly', huh?<Delay 20>
 Somehow I already<Delay 20>
-'knew'<Delay 20> that."<Close><End of Block>
+knew<Delay 20> that."<Close><End of Block>
 <TextBlock 22 w:4 h:1>
 ??<Close><End of Block>
 <TextBlock 23 w:54 h:4>
@@ -127,4 +126,4 @@ no choice, do we?"<Close><End of Block>
 Fei
 "Okay then Elly...<Delay 20>
 How about having
-something to eat."<Close><Close><End of Block>
+something to eat?"<Close><Close><End of Block>
