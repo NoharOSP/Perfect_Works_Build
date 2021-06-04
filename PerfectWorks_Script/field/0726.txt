@@ -12,10 +12,10 @@ of here, doc!"<Close><End of Block>
 <TextBlock 4 w:16 h:2>
 Citan
 "Oh-oh!"<Opcode 2 32><Close><End of Block>
-<TextBlock 5 w:54 h:4>
+<TextBlock 5 w:52 h:4>
 Citan
 "Judging by the angle...<Delay 10>it
-seems as if a gun blast has
+seems that a gun blast has
 made a hole in the hull...<New>
 We will probably sink
 within minutes."<Close><End of Block>
@@ -65,12 +65,12 @@ Citan
 <TextBlock 15 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 16 w:40 h:2>
+<TextBlock 16 w:20 h:2>
  
  Received <Opcode 4 20><Close><End of Block>
 <TextBlock 17 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 18 w:40 h:2>
+<TextBlock 18 w:20 h:2>
  
  Received <Opcode 4 20><Close><Close><End of Block>
