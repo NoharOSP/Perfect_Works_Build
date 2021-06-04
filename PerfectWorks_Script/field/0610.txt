@@ -47,7 +47,7 @@ Citan
 Timothy!!"<Close><End of Block>
 <TextBlock 12 w:16 h:2>
 Timothy
-"Uh...!"<Opcode 2 20><Close><End of Block>
+"...Ah!..."<Opcode 2 20><Close><End of Block>
 <TextBlock 13 w:50 h:4>
 Fei
 "Stop it!!
@@ -120,9 +120,9 @@ Fei and me!<New>
 The primary thing you
 should be concerned with
 is your own safety...<New>
-Timothy, your
-responsibility is
-to protect Alice!"<Close><End of Block>
+Timothy, it is your
+responsibility to 
+protect Alice!"<Close><End of Block>
 <TextBlock 27 w:36 h:3>
 Citan
 "Now, both of you,
