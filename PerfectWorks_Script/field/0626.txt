@@ -1,7 +1,7 @@
 <TextBlock 1 w:32 h:3>
 ...<Delay 40>I wonder how
 he's doing...<New>
-Aveh's so far...
+Av's so far...
 ...<Delay 30>
 ...sigh...<Close><End of Block>
 <TextBlock 2 w:50 h:4>
