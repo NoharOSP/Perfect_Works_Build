@@ -8,7 +8,7 @@ leave this Gear<Delay 60>...<Delay 60> Huh?"<Close><End of Block>
 <TextBlock 3 w:28 h:3>
 "Hey!?<Delay 30>
 You're<Delay 20> not an
-Aveh soldier?"<Close><End of Block>
+Av soldier?"<Close><End of Block>
 <TextBlock 4 w:44 h:4>
 Fei
 "I told you that in my
@@ -32,7 +32,7 @@ Fei
 "My name is Fei.<New>
 I was arrested for no
 apparent reason, shoved
-into that Aveh transport
+into that Av transport
 ship...<New>
 ...And was nearly going to
 be sent to a concentration
