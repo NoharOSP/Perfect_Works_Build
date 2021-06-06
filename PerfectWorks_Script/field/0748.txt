@@ -80,9 +80,10 @@ talk about evolution?"<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Ol' man Bal
 "You mean the theory of
-evolution as taught by
-the 'Ethos', right?<New>
-You can't trust that!
+evolution<New> 
+as taught by the 'Church
+of the Ethos', right?
+You can't trust that!<New>
 Rather, I believe in the
 old legends and myths."<Close><End of Block>
 <TextBlock 15 w:18 h:3>
@@ -136,7 +137,8 @@ Ol' man Bal
 stop my rambling now."<Close><End of Block>
 <TextBlock 19 w:36 h:3>
 Fei
-"By the way, does 
+"Uh, yeah.<New>
+By the way, does 
 this cave have..."<Close><End of Block>
 <TextBlock 20 w:52 h:4>
 Ol' man Bal
@@ -154,9 +156,9 @@ see from your entrance?"<Close><End of Block>
 Ol' man Bal
 "Yes, that's it.
 On the other side is an
-old Aveh excavation site.<New>
+old Av excavation site.<New>
 They built the wall when
-Aveh was excavating here
+Av was excavating here
 to keep the sand from
 falling in from above.<New>
 But they've stopped work
@@ -296,7 +298,7 @@ wait here please."<Close><End of Block>
 <TextBlock 44 w:38 h:3>
 Bart
 "Hey, wait!<Delay 30>
-Arhh, he's gone..."<Close><End of Block>
+Argh, he's gone..."<Close><End of Block>
 <TextBlock 45 w:54 h:4>
 Fei
 "Hey Bart. Do you think the
@@ -356,7 +358,7 @@ How about before that?"<Close><End of Block>
 <TextBlock 56 w:50 h:4>
 Bart
 "None from either period.<New>
-The 'Ethos' controls
+The 'Church' controls
 all the records from
 that time period.<New>
 Maybe they have some very
@@ -423,7 +425,7 @@ Fei
 This is...<Opcode 2 30><Close><End of Block>
 <TextBlock 72 w:46 h:2>
 the<Delay 5> host<Delay 5> for<Delay 5> the<Delay 5> spirit<Delay 5>
-of<Delay 5> the<Delay 5> slayer<Delay 5> of<Delay 30> god<Delay 30>...<Opcode 2 30><Close><End of Block>
+of<Delay 5> the<Delay 5> Slayer<Delay 5> of<Delay 30> God<Delay 30>...<Opcode 2 30><Close><End of Block>
 <TextBlock 73 w:46 h:3>
 Fei
 "Wait a moment! 
@@ -435,7 +437,7 @@ I didn't say anything!!"<Close><End of Block>
 <TextBlock 75 w:52 h:3>
 Fei
 "No! I heard you!
-You said, slayer of god...<New>
+You said, Slayer of God...<New>
 That's what you said,
 isn't it old man!!"<Close><End of Block>
 <TextBlock 76 w:52 h:4>
