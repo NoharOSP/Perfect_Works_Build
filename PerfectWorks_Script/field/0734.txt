@@ -47,8 +47,8 @@ Gear malfunctions in a
 huge cavern like this."<Close><End of Block>
 <TextBlock 8 w:40 h:3>
 Bart
-"I don't like you
-very much...<New>
+"Just my luck to get
+stuck with you...<New>
 Damn it!
 I'll get you when we
 get outta here."<Close><End of Block>
@@ -181,6 +181,6 @@ help!!"<Close><End of Block>
 <TextBlock 33 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 34 w:40 h:2>
+<TextBlock 34 w:20 h:2>
  
  Received <Opcode 4 20><Close><Close><End of Block>
