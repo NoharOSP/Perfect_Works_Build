@@ -16,7 +16,7 @@ Citan
 him a lot..."<Close><End of Block>
 <TextBlock 4 w:48 h:4>
 Citan
-"It is not coincidence.
+"It is not a coincidence.
 It is an inevitable
 consequence...I assume."<Close><End of Block>
 <TextBlock 5 w:50 h:4>
@@ -89,8 +89,8 @@ Well that's
 depressing...<Close><End of Block>
 <TextBlock 18 w:58 h:4>
 Sigurd, sir!
-The collection of the goods
-and soldiers from the Aveh
+The seizure of the goods
+and soldiers from the Av
 transport is almost complete.<New>
 We still can't locate the
 young master... General
