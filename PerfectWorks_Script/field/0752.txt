@@ -10,8 +10,8 @@ Fei
 Bart
 "You see the twin
 mountains way over there?<New>
-That's where Bledavik, the
-Royal Capital of Aveh, and
+That's where Breidablik, the
+Royal Capital of Av, and
 Fatima Castle are located.<New>
 Currently, there's no king
 living there though.<Delay 20>
@@ -25,7 +25,7 @@ Bart
 "I'd like to go ahead and
 settle our dispute but...<New>
 considering how close we
-are to the capital of Aveh,
+are to the capital of Av,
 we'd probably get caught."<Close><End of Block>
 <TextBlock 6 w:10 h:2>
 Fei
