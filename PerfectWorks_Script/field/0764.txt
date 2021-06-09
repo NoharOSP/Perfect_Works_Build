@@ -343,8 +343,9 @@ us that way.<Delay 10>
 He knows that."<Close><End of Block>
 <TextBlock 65 w:44 h:4>
 Sigurd
-"Why you ask?
-It's because of the
+"And why, you may 
+ask?<New>
+It's because of the 
 burden that he bears.<New>
 It must be difficult
 for one so young to
@@ -408,7 +409,7 @@ Wahhh,
 I'm scared!!<Opcode 2 60><Close><End of Block>
 <TextBlock 73 w:10 h:1>
 <Opcode 1 5>Fei!!<Close><End of Block>
-<TextBlock 74 w:52 h:3>
+<TextBlock 74 w:42 h:3>
 <Opcode 1 5>Citan
 "Fei!! Quick!
 Get to <Weltall> now!!"<Close><End of Block>
@@ -436,7 +437,7 @@ am I?"<Close><End of Block>
 Fei
 "That old man...<Delay 10>
 he called me...<Delay 10>
-the slayer of <Delay 10>god..."<Close><End of Block>
+the Slayer of <Delay 10>God..."<Close><End of Block>
 <TextBlock 81 w:36 h:3>
 Fei
 "I don't want<Delay 5> that
@@ -444,8 +445,10 @@ kind of <Delay 5>power<Delay 5>..."<Close><End of Block>
 <TextBlock 82 w:22 h:2>
 My...<Delay 10> 
 strength...<Opcode 2 90><Close><End of Block>
-<TextBlock 83 w:14 h:2>
+<TextBlock 83 w:18 h:4>
 My...<Delay 10>
+home...
+their... 
 home...<Opcode 2 90><Close><End of Block>
 <TextBlock 84 w:54 h:4>
 Maison
