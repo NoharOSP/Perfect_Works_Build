@@ -67,7 +67,7 @@ I'm gonna get some sleep.
 Man, I'm beat."<Close><End of Block>
 <TextBlock 12 w:34 h:4>
 More sightseeing 
-in Aveh?
+in Av?
     Yes
     Rest<Close><End of Block>
 <TextBlock 13 w:46 h:3>
@@ -124,7 +124,7 @@ Marguerite.<Close><End of Block>
 Bart
 "No sweat!
 You'd better get
-outta Aveh now too.<New>
+outta Av now too.<New>
 Things are gonna get
 outta hand soon."<Close><End of Block>
 <TextBlock 23 w:20 h:1>
@@ -230,7 +230,7 @@ if you hear anything new.<Close><End of Block>
 <TextBlock 42 w:54 h:4>
 Bart
 "I just remembered where
-Bledavik's water supply
+Breidablik's water supply
 comes from...<New>
 Spring water rises up from
 under the castle and flows
@@ -256,7 +256,7 @@ There is a festival going
 on now. There must be a
 way we can use it to our
 advantage." <Close><End of Block>
-<TextBlock 44 w:3 h:1>
+<TextBlock 44 w:2 h:1>
 <!><Opcode 2 30><Close><End of Block>
 <TextBlock 45 w:40 h:3>
 North of town is a
