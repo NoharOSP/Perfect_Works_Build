@@ -7,7 +7,7 @@ The better you do, the
 easier it will be for
 Bart to sneak in." <Close><End of Block>
 <TextBlock 2 w:28 h:3>
-Miang
+Myyah
 "My...what a
 handsome boy!"<Close><End of Block>
 <TextBlock 3 w:24 h:2>
@@ -53,7 +53,7 @@ the front lines. Our army
 is the best, but the tides
 of war are uncertain. 
 To protect the tradition
-of Aveh and preserve peace
+of Av and preserve peace
 in this desert, we must all
 have unshaking resolve. <Delay 30> 
 The desert is a precious
@@ -108,7 +108,7 @@ like our entertainment?"<Close><End of Block>
 Ramsus
 "I find it boring."<Close><End of Block>
 <TextBlock 16 w:50 h:4>
-Miang
+Myyah
 "Oh, let it be Commander.
 Shakhan is only trying to
 show hospitality...<New>
@@ -133,11 +133,11 @@ country.<New>
 Hmph, do as you like."<Close><End of Block>
 <TextBlock 19 w:52 h:4>
 Shakhan
-"Miang, how about the
+"Myyah, how about the
 Tournament? Will you grace
 us with your company?"<Close><End of Block>
 <TextBlock 20 w:24 h:4>
-Miang
+Myyah
 "Yes.
 It would be
 a pleasure."<Close><End of Block>
@@ -443,7 +443,7 @@ Well let me tell you about
 the Tournament.<New>
 Every year they hold a big
 martial arts tournament 
-here in Aveh.<New>
+here in Av.<New>
 Fighters from all over the
 world gather to see who's
 strongest. It's like a big
@@ -460,7 +460,7 @@ a grand event"<Close><End of Block>
 You bet. The soldiers
 are crazy about it. If
 Kislev attacked tomorrow
-Aveh would be dust.<New>
+Av would be dust.<New>
 What are you gonna do?
 Registration's not over
 yet, but all the strong
