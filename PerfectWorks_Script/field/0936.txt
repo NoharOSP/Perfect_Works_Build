@@ -18,7 +18,7 @@ they've gone..."<Close><End of Block>
 Bart
 "Fei, can you explain
 to me how you know a
-Gebler officer?"<Close><End of Block>
+Geburah officer?"<Close><End of Block>
 <TextBlock 8 w:18 h:2>
 Fei
 "Well..."<Close><End of Block>
@@ -27,7 +27,7 @@ Bart
 "I don't know where you
 met her, but no matter
 how you look at it...<New>
-she's a Gebler officer!
+she's a Geburah officer!
 Not an enemy? Where do
 you get off saying that?"<Close><End of Block>
 <TextBlock 10 w:54 h:4>
@@ -35,8 +35,8 @@ Elly
 "Yes.
 Special Forces of the
 Sacred Empire of Solaris...<New>
-also known as Gebler...
-I'm Lt. Elhaym Van Houten
+also known as Geburah...
+I'm Lt. Elehayym Van Houten
 of the Ignas Army's Third
 Assault Division.<New>
 And...while returning from
@@ -137,7 +137,7 @@ Bart
 "You're always
 like this!<New>
 Can't you see...
-she's in Gebler!?
+she's in Geburah!?
 Don't be so damn
 trusting!"<Close><End of Block>
 <TextBlock 29 w:38 h:3>
