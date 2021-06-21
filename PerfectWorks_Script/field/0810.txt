@@ -672,8 +672,9 @@ You wanna clash
 with Shakhan?<Close><End of Block>
 <TextBlock 162 w:44 h:4>
 Hah!<Delay 30>
-This is great!<Delay 30>
-This is great!<New>
+This is great!<Delay 30><New>
+Time for him to get
+what's coming!<New>
 I like you guys.
 I'll lend you the key.
 You get that Shakhan
