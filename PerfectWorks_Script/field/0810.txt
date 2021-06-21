@@ -56,8 +56,8 @@ can go to the festival.<Close><End of Block>
 It's almost time for 
 the festival. I wonder 
 if it'll be crowded?<Close><End of Block>
-<TextBlock 17 w:72 h:3>
-Are you all here for the Tournament?
+<TextBlock 17 w:64 h:3>
+Are you here for the Tournament?
     Yes
     Huh?<Close><End of Block>
 <TextBlock 18 w:50 h:4>
@@ -65,13 +65,13 @@ Yeah, well I'm glad. The
 war's gotten worse, and
 there are fewer tourists.
 Well, have fun.<Close><End of Block>
-<TextBlock 19 w:48 h:4>
+<TextBlock 19 w:52 h:4>
 What, you don't know?
 It's only the biggest
 martial arts tournament
 in the world!<New>
 I came all the way to
-Bledavik just to see it.
+Breidablik just to see it.
 You'll be sorry if you
 don't go.<Close><End of Block>
 <TextBlock 20 w:46 h:4>
@@ -122,15 +122,15 @@ say, 'I'm a pirate! Give
 me your food!'...<New>
 Ah, the good old days...<Close><End of Block>
 <TextBlock 28 w:52 h:4>
-Welcome to Bledavik!
+Welcome to Breidablik!
 We don't get many visitors
 these days. You're the
 first in quite a while!<Close><End of Block>
 <TextBlock 29 w:48 h:4>
-Welcome to Bledavik!
+Welcome to Breidablik!
 We're having a festival
 celebrating the founding
-of our country, Aveh.<New>
+of our country, Av.<New>
 There's a martial arts
 tournament too.<New>
 It's been a while since
@@ -168,7 +168,7 @@ the festival plaza?
     No<Close><End of Block>
 <TextBlock 37 w:50 h:4>
 Just between you n' me...<New>
-Aveh's 500th anniversary
+Av's 500th anniversary
 festival isn't all that
 great. It's because the
 war's getting worse...<Close><End of Block>
@@ -279,7 +279,7 @@ Thanks, come again.<Close><End of Block>
 You don't have any!<Close><End of Block>
 <TextBlock 68 w:32 h:1>
 Alright, got it!<Close><End of Block>
-<TextBlock 69 w:46 h:1>
+<TextBlock 69 w:22 h:1>
 Received <Opcode 10 0>G.<Close><End of Block>
 <TextBlock 70 w:48 h:3>
 Radishes! Get 'em here!
@@ -391,7 +391,7 @@ Delicious berries.
 You can't find Ariberries
 like these anywhere else.<New>
 Deep red berries grown
-with Aveh spring water.<Close><End of Block>
+with Av spring water.<Close><End of Block>
 <TextBlock 95 w:36 h:3>
 One box 10G.
     Buy some
@@ -461,8 +461,8 @@ We're protectin' the peace
 in this part of the desert!<Close><End of Block>
 <TextBlock 114 w:10 h:1>
 Yeah!<Opcode 2 30><Close><End of Block>
-<TextBlock 115 w:42 h:1>
-<Opcode 1 1>You're not from Aveh!<Opcode 2 100><Close><End of Block>
+<TextBlock 115 w:38 h:1>
+<Opcode 1 1>You're not from Av!<Opcode 2 100><Close><End of Block>
 <TextBlock 116 w:28 h:1>
 Company <Delay 20> halt!<Opcode 2 20><Close><End of Block>
 <TextBlock 117 w:16 h:1>
@@ -480,8 +480,8 @@ I was first!<Delay 20>
 Tomorrow I'm the Cap'n!<Close><End of Block>
 <TextBlock 122 w:8 h:1>
 Hey!<Opcode 2 30><Close><End of Block>
-<TextBlock 123 w:56 h:1>
-<Opcode 1 1>You are an Abeh <Delay 30>from Kisreb.<Close><End of Block>
+<TextBlock 123 w:52 h:1>
+<Opcode 1 1>You are an Ab <Delay 30>from Kisreb.<Close><End of Block>
 <TextBlock 124 w:42 h:2>
 Yeah, yeah <Delay 20>
 I wanna be Cap'n too!<Opcode 2 100><Close><End of Block>
@@ -610,7 +610,7 @@ hide-and-seek.<New>
 Here's my badge.
 I don't need it
 anymore.<Close><End of Block>
-<TextBlock 155 w:40 h:2>
+<TextBlock 155 w:20 h:2>
  
  Received <Opcode 4 20><Close><End of Block>
 <TextBlock 156 w:54 h:4>
@@ -658,8 +658,8 @@ The well key?<New>
 I've got it.
 I'm in charge of the
 waterworks association.<Close><End of Block>
-<TextBlock 159 w:70 h:4>
-What are you gonna do with the key?
+<TextBlock 159 w:60 h:4>
+What will you do with the key?
     Search underground
     Rescue Margie
     Steal from the castle<Close><End of Block>
