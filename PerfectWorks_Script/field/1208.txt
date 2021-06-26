@@ -11,7 +11,7 @@ Margie
 stuffed animal'!<Delay 10>
 It has a name.<New>
 Its name is..."<Close><End of Block>
-<TextBlock 3 w:48 h:2>
+<TextBlock 3 w:44 h:2>
 Margie
 "Her name is <Chu-Chu>!"<Close><End of Block>
 <TextBlock 4 w:50 h:4>
@@ -19,12 +19,12 @@ Margie
 "But, that's weird.<Delay 10>
 It was just here, where I
 put it, a moment ago..."<Close><End of Block>
-<TextBlock 5 w:46 h:4>
+<TextBlock 5 w:50 h:4>
 Nice chu meet chu!!<Delay 10>
 I'm <Chu-Chu>!<New>
 I fell in love with you
 when I first saw you in
-Bledavik!!<Delay 10> Wherever you
+Breidablik!!<Delay 10> Wherever you
 go, I shall go chu!<Close><End of Block>
 <TextBlock 6 w:50 h:4>
 Bart
@@ -212,7 +212,7 @@ Margie
 "Fei, go to Elly.
 You should be there for
 her in times like this."<Close><End of Block>
-<TextBlock 44 w:50 h:3>
+<TextBlock 44 w:46 h:3>
 <Chu-Chu>
 "Don't chu want <Chu-Chu>
 to go with you chu?"<Close><End of Block>
