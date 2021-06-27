@@ -141,7 +141,7 @@ Citan
 Rico
 "This is Shakhan's last.<New>
 When he kick's the bucket
-things in Kislev and Aveh
+things in Kislev and Av
 should calm down a little.<New>
 Everything'll be normal."<Close><End of Block>
 <TextBlock 29 w:46 h:4>
@@ -151,9 +151,9 @@ Rico
     Well...<Close><End of Block>
 <TextBlock 30 w:36 h:4>
 Billy
-"The 'Ethos' was
-controlling two of
-the three gates!"<Close><End of Block>
+"The 'Church of the
+Ethos' was controlling 
+two of the three gates!"<Close><End of Block>
 <TextBlock 31 w:34 h:4>
 "Will you take me
 along too?"
@@ -224,11 +224,11 @@ Bart
 Bart
 "Sig...<New>
 What's up with you and
-that Gebler officer?
+that Geburah officer?
 What's the connection
 between you and him...?<New>
 You know,<Delay 30> you sure know
-a lot about Gebler for
+a lot about Geburah for
 some reason!"<Close><End of Block>
 <TextBlock 46 w:30 h:3>
 Sigurd
@@ -244,7 +244,7 @@ in Solaris."<Close><End of Block>
 Bart
 "Solaris...<New>
 ...<Delay 30>You mean...
-<Delay 30>where Gebler's from?"<Close><End of Block>
+<Delay 30>where Geburah's from?"<Close><End of Block>
 <TextBlock 49 w:30 h:2>
 Sigurd
 "That's right."<Close><End of Block>
@@ -254,7 +254,10 @@ Sigurd
 calls foreigners
 'Lambs'...<New>
 They are used as manual
-labor. Basically it's
+labor. They are imported
+through kidnapping, and
+then used as manual labor.<New>
+Basically it's
 slavery."<Close><End of Block>
 <TextBlock 51 w:20 h:2>
 Bart
@@ -375,7 +378,7 @@ There's a special way to
 get there from the surface."<Close><End of Block>
 <TextBlock 71 w:50 h:4>
 Sigurd
-"To get to Aveh we stowed
+"To get to Av we stowed
 away on a regular flight
 to the surface."<Close><End of Block>
 <TextBlock 72 w:36 h:3>
@@ -448,23 +451,23 @@ support without people."<Close><End of Block>
 Sigurd
 "Pure Solarians are rare.<New>
 They would not even make
-up a quarter of Aveh's
+up a quarter of Av's
 total population.<New>
 So, they support their
 country by stealing
 surface dwellers."<Close><End of Block>
 <TextBlock 82 w:42 h:3>
 Sigurd
-"His name is, Kahr...
-<Delay 30>Kahran Ramsus.<New>
+"His name is, Carl...
+<Delay 30>Carlin Ramsus.<New>
 As you know he's the
-Gebler Commander."<Close><End of Block>
+Geburah Commander."<Close><End of Block>
 <TextBlock 83 w:24 h:2>
 Bart
 "Ramsus...?"<Close><End of Block>
 <TextBlock 84 w:46 h:3>
 Sigurd
-"We call him Kahr.<New>
+"We call him Carl.<New>
 In Solaris there is an
 officer training school
 called 'Jugend'.<New>
@@ -576,7 +579,7 @@ the Solaris army can use?"<Close><End of Block>
 <TextBlock 101 w:50 h:4>
 Citan
 "At least anyone in the
-Gebler forces who is sent
+Geburah forces who is sent
 to the surface..."<Close><End of Block>
 <TextBlock 102 w:32 h:3>
 Bart
@@ -707,7 +710,7 @@ be here a while longer."<Close><End of Block>
 <TextBlock 131 w:50 h:4>
 Sigurd
 "We've heard from our
-units in Bledavik.<New>
+units in Breidablik.<New>
 Things are unfolding
 smoothly.
 They have entered the
@@ -747,11 +750,11 @@ Sigurd
 "About that,<Delay 30>
 the info from the
 capital...<New>
-Isn't there a -Gate-
+Isn't there a 'Gate'
 in the area?"<Close><End of Block>
 <TextBlock 138 w:22 h:2>
 Fei
-"A -Gate-?"<Close><End of Block>
+"A 'Gate'?"<Close><End of Block>
 <TextBlock 139 w:16 h:2>
 Citan
 "Where?"<Close><End of Block>
