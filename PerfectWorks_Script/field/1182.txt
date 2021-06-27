@@ -111,7 +111,7 @@ Maison
 "Y...young master!<Delay 10>
 I heard all about it.<New>
 International amity
-with the Thames!?<Delay 10>
+with the Tamuz!?<Delay 10>
 Indeed..."<Close><End of Block>
 <TextBlock 20 w:44 h:3>
 (...Sob...sob...<Delay 10>
@@ -134,11 +134,11 @@ I am terribly sorry!"<Close><End of Block>
 (Uh<Delay 5>...uh<Delay 5>...uh...<Delay 5>...<Delay 5>!<Delay 10>
 My chronic lumbago has
 gotten worse since
-I hustled in Aveh...)<Close><End of Block>
+I hustled in Av...)<Close><End of Block>
 <TextBlock 24 w:54 h:4>
 Maison
 "At long last we are
-heading to Bledavik
+heading to Breidablik
 tomorrow...<New>
 Though he is the prince,
 our young master doesn't
@@ -181,7 +181,7 @@ Maison
 Doctor Uzuki..."<Close><End of Block>
 <TextBlock 27 w:52 h:3>
 Maison
-"Let us head for Aveh.<Delay 10>
+"Let us head for Av.<Delay 10>
 To save Miss Marguerite!!"<Close><End of Block>
 <TextBlock 28 w:52 h:4>
 Maison
@@ -269,7 +269,7 @@ happy to come along!!"<Close><End of Block>
 Citan
 "Young one,<Delay 10>
 I see you got on well with
-the captain of the Thames.<New>
+the captain of the Tamuz.<New>
 I guess that was expected.<Delay 10>
 He is a man of the sea,
 the type of person you
@@ -335,9 +335,9 @@ perhaps tomorrow..."<Close><End of Block>
 <TextBlock 51 w:12 h:2>
 Sigurd
 "..."<Close><End of Block>
-<TextBlock 52 w:52 h:4>
+<TextBlock 52 w:50 h:4>
 Jessie
-"The keywords are Nikolai,<Delay 10>
+"The keywords are Nikola,<Delay 10>
 Maria, <Delay 10>
 a huge Gear<Delay 10>...<Delay 5> eh!?"<Close><End of Block>
 <TextBlock 53 w:52 h:4>
@@ -407,9 +407,9 @@ Sigurd
 Now I see why you came
 down to the surface...<New>
 Alright, I understand you.
-But Kahran Ramsus...
+But Carlin Ramsus...
 taking over the post of
-Aveh is pretty annoying."<Close><End of Block>
+Av is pretty annoying."<Close><End of Block>
 <TextBlock 65 w:38 h:4>
 Citan
 "The home country
@@ -419,14 +419,12 @@ special reasons."<Close><End of Block>
 Sigurd
 "Yeah...<Delay 10>
 obviously."<Close><End of Block>
-<TextBlock 67 w:54 h:4>
+<TextBlock 67 w:54 h:3>
 Citan
 "But perhaps there is still
 a chance of success...<New>
-You and I, who used to be
-called 'Elements' at the
-commander's training school
-'Jugend', are both here!"<Close><End of Block>
+We are 'Jugend' alums too 
+after all."<Close><End of Block>
 <TextBlock 68 w:46 h:2>
 Sigurd
 "Hope you are right..."<Close><End of Block>
@@ -438,7 +436,7 @@ she is still...?"<Close><End of Block>
 Sigurd
 "According to Fei,
 there was a female aide
-on Kahr's side...<New>
+on Carl's side...<New>
 And he said that she had
 Indigo blue eyes and hair.
 ... 
@@ -456,13 +454,13 @@ Sigurd
 "Hyuga<Delay 5>...<Delay 10>
 To be honest with you<Delay 5>...<Delay 5>
 she scares me.<New>
-She supports Kahr and
+She supports Carl and
 is kind to anyone, 
 I know that very well.<New>
 But sometimes I felt
 a strange fear in her.
 That bothers me more than
-Kahr being in this land."<Close><End of Block>
+Carl being in this land."<Close><End of Block>
 <TextBlock 74 w:46 h:3>
 Citan
 "That cannot be true...
@@ -505,7 +503,7 @@ Fei
 Don't scare me...!)<Close><End of Block>
 <TextBlock 82 w:54 h:4>
 Bart
-(Sorry-dorry.<New>
+(Sorry mate!<New>
 It sounds like Sig and your
 doctor friend know each
 other pretty darn well...<New>
@@ -536,7 +534,7 @@ I'm sorry."<Close><End of Block>
 Citan
 "When you left Solaris,
 the same thing happened.<Delay 10>
-Kahr was quite upset then."<Close><End of Block>
+Carl was quite upset then."<Close><End of Block>
 <TextBlock 89 w:34 h:3>
 Sigurd
 "I didn't mean to
@@ -791,10 +789,10 @@ And it was done under the
 command of Krelian...<New>
 In order to proceed with
 the plan, many Lambs were
-gathered by the 'Ethos',
+gathered by the 'Church',
 to become guinea pigs.<New>
 Or, should I say, to become
-Reapers or -Wels-..."<Close><End of Block>
+Reapers or 'Wels'..."<Close><End of Block>
 <TextBlock 129 w:54 h:4>
 Jessie
 "Since I was disgusted with
@@ -855,11 +853,11 @@ Thank you."<Close><End of Block>
 <TextBlock 135 w:38 h:2>
 Fei
 "I'm alright, too."<Close><End of Block>
-<TextBlock 136 w:54 h:4>
+<TextBlock 136 w:52 h:4>
 Jessie
 "Maria, eh...?<Delay 10> Hmm...<Delay 10>
 If I remember right, her
-father's name was Nikolai?"<Close><End of Block>
+father's name was Nikola?"<Close><End of Block>
 <TextBlock 137 w:52 h:4>
 Shevat Agent
 "I don't know that much...<Delay 10>
@@ -924,7 +922,7 @@ As long as the gate exists,
 we can't escape from
 Solaris' influence anyway.<New>
 In other words, even if we
-recover Aveh from Shakhan,
+recover Av from Shakhan,
 it wouldn't immediatley be
 a happy ending."<Close><End of Block>
 <TextBlock 149 w:42 h:4>
@@ -943,19 +941,19 @@ bothers me, too...<New>
 The real secret is that
 they are using humans
 gathered from earth..."<Close><End of Block>
-<TextBlock 151 w:54 h:4>
+<TextBlock 151 w:60 h:4>
 Fei
-"But I don't quite get this<Delay 5>
-secret plan<Delay 5> and <Delay 5>the 'Ethos'
+"I don't quite get this<Delay 5>
+secret plan<Delay 5> and <Delay 5>the 'Church's'
 involvement<Delay 5> and so on...<New>
 What in the hell does
 Solaris think us surface
 dwelling humans are!?"<Close><End of Block>
-<TextBlock 152 w:48 h:4>
+<TextBlock 152 w:58 h:4>
 Fei
 "...Sorry.<Delay 10>
-I totally forgot that it
-was your country..."<Close><End of Block>
+I totally forgot that Solaris
+was your country Elly..."<Close><End of Block>
 <TextBlock 153 w:54 h:4>
 Elly
 "What my country's doing...<Delay 10>
@@ -964,14 +962,16 @@ I myself thought something
 was wrong there, and that's
 why I came here...<Delay 10>
 So, don't worry about me.<Close><End of Block>
-<TextBlock 154 w:54 h:4>
+<TextBlock 154 w:58 h:5>
 Fei
 "We've got nothing to lose,
 so let's try to go there.<New>
 We need to find the truth
 about those documents found
-in the 'Ethos' H.Q. and
-what Billy's father said.<New>
+in the 'Church of the Ethos' 
+H.Q.<New>
+
+and what Billy's father said.
 And I must go to Shevat
 too for my own personal
 reasons anyway."<Close><End of Block>
@@ -980,5 +980,5 @@ Fei
 "No time like the present,
 huh!?<Delay 10> Let's go to Babel
 Tower right away!"<Close><End of Block>
-<TextBlock 156 w:3 h:1>
+<TextBlock 156 w:2 h:1>
  <Close><Close><End of Block>
