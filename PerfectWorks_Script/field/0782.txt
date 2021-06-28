@@ -145,10 +145,10 @@ Bart
 "Anyway...forget those
 old stories.<Delay 30>
 We should get started."<Close><End of Block>
-<TextBlock 31 w:26 h:4>
+<TextBlock 31 w:28 h:4>
 Bart
 "First...<Delay 30>
-Gebler is the
+Geburah is the
 big problem."<Close><End of Block>
 <TextBlock 32 w:46 h:4>
 Citan
@@ -156,7 +156,7 @@ Citan
 towards achieving his
 goals.<New>
 That he is now the
-commander of Gebler
+commander of Geburah
 is proof of that.<New>
 A normal man<Delay 10> could not
 progress so quickly
@@ -176,16 +176,16 @@ Bart
 "First, let's just
 concentrate on Shakhan.<New>
 Once he's out of the way
-and Aveh is safe again,
+and Av is safe again,
 we can think about how
-to deal with Gebler."<Close><End of Block>
+to deal with Geburah."<Close><End of Block>
 <TextBlock 35 w:54 h:4>
 Bart
 "With our present strength
 we should be able to hold
 off the royal guard forces.<New>
 The problem is how to deal
-with Gebler in the mean
+with Geburah in the mean
 time...<New>
 They will most likely move
 at Shakhan's request.
@@ -197,11 +197,11 @@ Citan
 look there please?"<Close><End of Block>
 <TextBlock 37 w:52 h:3>
 Citan
-"In short, we want Gebler
+"In short, we want Geburah
 to leave for a while...<New>
 At least until we are able
 to take back the Royal
-Capital, Bledavik."<Close><End of Block>
+Capital, Breidablik."<Close><End of Block>
 <TextBlock 38 w:50 h:3>
 Sigurd
 "But the problem is...<New>
@@ -224,14 +224,14 @@ bait?"<Close><End of Block>
 <TextBlock 41 w:14 h:2>
 Fei
 "Doc!?"<Close><End of Block>
-<TextBlock 42 w:48 h:4>
+<TextBlock 42 w:50 h:4>
 Sigurd
 "Shakhan is very
 sensitive to Nisan's
 and Kislev's actions.<New>
 If Nisan starts moving
 he will probably leave
-it up to Gebler, but..."<Close><End of Block>
+it up to Geburah, but..."<Close><End of Block>
 <TextBlock 43 w:42 h:4>
 Citan
 "Of course I do not
@@ -260,11 +260,11 @@ along Kislev's border."<Close><End of Block>
 <TextBlock 47 w:12 h:2>
 Bart
 "...!"<Close><End of Block>
-<TextBlock 48 w:40 h:4>
+<TextBlock 48 w:28 h:4>
 Bart
 "Damn...<Delay 30>
-That puts everything
-in jeopardy!"<Close><End of Block>
+That screws my
+entire plan!"<Close><End of Block>
 <TextBlock 49 w:48 h:4>
 Citan
 "Do not feel so down.<New>
@@ -282,9 +282,9 @@ Bart
 <TextBlock 51 w:50 h:4>
 Citan
 "I have some additional
-information about Aveh's
+information about Av's
 border fleet.<New>
-The former Aveh supreme
+The former Av supreme
 commander was transferred
 there.<New>
 Not really transferred,<Delay 30>
@@ -458,7 +458,7 @@ Hiding in a grave?"<Close><End of Block>
 <TextBlock 86 w:44 h:4>
 Margie
 "The Great Mothers and
-Kings of Aveh of old
+Kings of Av of old
 are revered there."<Close><End of Block>
 <TextBlock 87 w:54 h:3>
 Bart
@@ -612,12 +612,12 @@ Bart
 "What is it Sig?"<Close><End of Block>
 <TextBlock 115 w:50 h:4>
 Sigurd
-"Currently Aveh is in
+"Currently Av is in
 confusion with Shakhan
 running amok.<New>
 It should be very easy
 to bring down the center
-with no Gebler units
+with no Geburah units
 around.<New>
 It'll be the best time to
 make our return to the
@@ -641,7 +641,7 @@ Bart
 Sounds good.<New>
 We can pay everything
 back in one shot!"<Close><End of Block>
-<TextBlock 118 w:26 h:6>
+<TextBlock 118 w:22 h:6>
     Elly
     Citan
     Billy
@@ -657,7 +657,7 @@ Citan
 to return to the capital
 with Sigurd.<New>
 Two former Solarians will
-dethrone the 'Ethos'...
+dethrone the 'Church'...
 How very ironic."<Close><End of Block>
 <TextBlock 121 w:20 h:2>
 Billy
@@ -672,7 +672,7 @@ Maria
 <Chu-Chu>
 "There's no choice 
 but for me chu go!"<Close><End of Block>
-<TextBlock 125 w:26 h:5>
+<TextBlock 125 w:22 h:5>
     Elly
     Billy
     Rico
