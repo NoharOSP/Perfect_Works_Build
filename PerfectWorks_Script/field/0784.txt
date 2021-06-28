@@ -1,7 +1,7 @@
-<TextBlock 1 w:50 h:4>
+<TextBlock 1 w:46 h:4>
 Citan
-"These are the Gebler 
-units currently in Aveh, 
+"These are the Geburah
+units currently in Av, 
 correct?"<Close><End of Block>
 <TextBlock 2 w:46 h:2>
 Citan
@@ -20,7 +20,7 @@ Citan
 "There are three main
 groups.<New>
 Each is made up of a
-mix of Gebler and Aveh
+mix of Geburah and Av
 forces. Only two of
 these are very large."<Close><End of Block>
 <TextBlock 6 w:50 h:4>
@@ -32,13 +32,13 @@ The western guard along
 Nisan's border are little
 more than a surveillence
 team."<Close><End of Block>
-<TextBlock 7 w:52 h:3>
+<TextBlock 7 w:56 h:3>
 Sigurd
 "In order to recapture
 the Royal Capital...<New>
 ...it will be necessary
 to draw these defense
-units away from Bledavik."<Close><End of Block>
+units away from Breidablik."<Close><End of Block>
 <TextBlock 8 w:42 h:3>
 Citan
 "We have some Kislev
@@ -58,11 +58,11 @@ with Nisan?"<Close><End of Block>
 Bart
 "I see. We'll draw them
 out by making it look like
-Kislev is invading Aveh."<Close><End of Block>
+Kislev is invading Av."<Close><End of Block>
 <TextBlock 12 w:42 h:4>
 Citan
 "The main strength of
-Aveh's fleet is the
+Av's fleet is the
 battleship Kefeinzel.<New>
 It's been in service
 since the reign of
@@ -83,7 +83,7 @@ here's what we'll do..."<Close><End of Block>
 <TextBlock 14 w:52 h:3>
 Sigurd
 "Apart from our main unit
-heading for Bledavik...<New>
+heading for Breidablik...<New>
 we must keep the fleet
 at the Kislev border from
 returning to the capital."<Close><End of Block>
