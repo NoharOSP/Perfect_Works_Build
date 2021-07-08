@@ -22,9 +22,9 @@ Sigurd
 <TextBlock 7 w:36 h:3>
 Citan
 "Oh-oh...!<Delay 100>
-Where is Kahr...?"<Close><End of Block>
+Where is Carl...?"<Close><End of Block>
 <TextBlock 8 w:52 h:4>
-Miang
+Myyah
 "I see you are quick
 to catch on.<New>
 Ramsus should be taking
@@ -49,7 +49,7 @@ still backing Shakhan?<New>
 What does it matter to
 you who the king is?"<Close><End of Block>
 <TextBlock 10 w:52 h:4>
-Miang
+Myyah
 "Hah! You suggest the son
 of murdered King Fatima?
 He refused to cooperate!<New>
@@ -65,10 +65,10 @@ has its advantages."<Close><End of Block>
 <TextBlock 11 w:36 h:4>
 Shakhan
 "Stu, stupidity!?
-Miang, what's that
+Myyah, what's that
 supposed to mean?"<Close><End of Block>
 <TextBlock 12 w:54 h:4>
-Miang
+Myyah
 "Minister Shakhan, I'll let
 you handle this. You must
 protect your own position.<New>
@@ -90,7 +90,7 @@ One must take care of
 one's own country's
 criminals personally."<Close><End of Block>
 <TextBlock 14 w:36 h:4>
-Miang
+Myyah
 "Then, with your
 permission I shall
 take my leave..."<Close><End of Block>
@@ -99,7 +99,7 @@ Bart
 "Hey now! 
 Wait a minute!!"<Close><End of Block>
 <TextBlock 16 w:34 h:2>
-Miang
+Myyah
 "Goodbye...<Delay 50>boys."<Close><End of Block>
 <TextBlock 17 w:48 h:4>
 Shakhan
