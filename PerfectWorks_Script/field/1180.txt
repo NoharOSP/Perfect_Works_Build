@@ -316,7 +316,7 @@ Maison
 "Y, yes...young master...<New>
 I hear when they attacked
 the fort at the border,
-the Gebler, led by Ramsus,
+the Geburah, led by Ramsus,
 routed them.<New>
 We'd better withdraw for
 now, and reconsider..."<Close><End of Block>
@@ -340,7 +340,7 @@ when to give up..."<Opcode 2 96><Close><End of Block>
 Sigurd
 "We haven't heard anything
 about a new ship even from
-the spies at Aveh Naval HQ.<New>
+the spies at Av Naval HQ.<New>
 Franz, can you try again
 and confirm what it is?"<Close><End of Block>
 <TextBlock 71 w:28 h:3>
@@ -352,7 +352,7 @@ Sigurd
 "Young master...?"<Close><End of Block>
 <TextBlock 73 w:14 h:2>
 Sigurd
-"Kahr!"<Close><End of Block>
+"Carl!"<Close><End of Block>
 <TextBlock 74 w:34 h:2>
 Sigurd
 "Young master!!!"<Opcode 2 32><Close><End of Block>
