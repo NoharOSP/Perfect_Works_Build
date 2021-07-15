@@ -65,8 +65,8 @@ Sigurd
 "We have no right to keep
 you here and get you
 involved.<New>
-...If you see Kahr and
-Miang, make sure you
+...If you see Carl and
+Myyah, make sure you
 pay'em back for me."<Close><End of Block>
 <TextBlock 13 w:50 h:3>
 Sigurd
