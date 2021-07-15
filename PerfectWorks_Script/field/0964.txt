@@ -116,7 +116,7 @@ Set 1 and 2 for homing,
 3 for anti-radar.<New>
 Tubes 4-6, Makara Mk5
 sand torpedoes. After
-acquiring target set all
-to passive homing.<New>
+acquiring the target
+set all to passive homing.<New>
 All units, begin defensive
 fire. Aim for the main ship.<Close><Close><End of Block>
