@@ -137,7 +137,7 @@ plenty of work to do is what
 brings the most happiness!<New>
 I'll keep doing my best, so
 you too keep up the fight!
-As I promised at Nortune<Delay 5>...<Delay 5>
+As I promised at Noatun<Delay 5>...<Delay 5>
 that's what I will do!"<Close><End of Block>
 <TextBlock 27 w:56 h:5>
 Suzarn
@@ -656,7 +656,7 @@ You've only just gained
 consciousness, so don't
 push yourself too much!<New>
 I am a doctor.<Delay 30>
-You are in Nortune, the
+You are in Noatun, the
 Imperial capital of Kislev.<New>
 This is the detention area
 for criminals<Delay 5>...<Delay 5>commonly 
