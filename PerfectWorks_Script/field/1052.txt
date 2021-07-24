@@ -176,7 +176,7 @@ like the w, w, wind!<Opcode 2 90><Close><End of Block>
 Hammer
 "I've only known you
 since you arrived here!<New>
-What is this Aveh
+What is this Av
 tournament?"<Opcode 2 90><Close><End of Block>
 <TextBlock 23 w:40 h:2>
 Hammer
@@ -244,7 +244,7 @@ Wiseman
 <TextBlock 37 w:36 h:4>
 Fei
 "You're the one<Delay 5>...<Delay 15>
-from the Aveh
+from the Av
 tournament<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 38 w:40 h:3>
 Fei
@@ -616,7 +616,7 @@ you have met him?"<Close><End of Block>
 Fei
 "Huh?<Delay 5> ...<Delay 5>Yeah.<New>
 Since that tournament in
-Aveh.<Delay 15> He sure is a
+Av.<Delay 15> He sure is a
 mysterious person<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 102 w:50 h:4>
 Fei
@@ -703,7 +703,7 @@ Citan
 "But I can assure you
 that this has something
 to do with that incident<New>
-with Aveh<Delay 5>...<Delay 5>"<Close><End of Block>
+with Av<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 116 w:50 h:4>
 Citan
 "Well, regardless of what
