@@ -345,15 +345,15 @@ Guard
 "This is the main town.
 D Block prisoners like
 yourself can't pass."<Close><End of Block>
-<TextBlock 72 w:52 h:5>
+<TextBlock 72 w:54 h:5>
 Guard
 "Hey, you<Delay 5>...<Delay 15>huh?<Delay 20>
 Oh it's you!
 I heard from the Imperial
 Battling Committee<Delay 5>...<New>
-I can let you thru, but as
-long as you have that bomb
-collar on it's no use
+I can let you through, but 
+as long as you have that 
+bomb collar on it's no use
 trying to escape<Delay 5>...!<New>
 If you don't wanna die,
 stay away from the off-
