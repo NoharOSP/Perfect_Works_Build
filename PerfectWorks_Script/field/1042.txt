@@ -66,7 +66,7 @@ Next door is your bedroom.<New>
 Oh<Delay 5>...<Delay 5>and, Fei.<Delay 15>
 Now you will be given the
 title of Champion<Delay 5> as well as
-special S Rank priviledges."<Close><End of Block>
+special S Rank privileges."<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 Rue
 "Well, congratulations
@@ -102,7 +102,7 @@ right?"<Close><End of Block>
 Hammer
 "So, <Delay 5>what are you
 gonna do now, <Delay 5>bro?<Delay 15>
-Leave Nortune?"<Close><End of Block>
+Leave Noatun?"<Close><End of Block>
 <TextBlock 21 w:50 h:4>
 Citan
 "We are not yet finished.
@@ -208,7 +208,7 @@ The explosive collar has
 been removed.<Delay 15>
 How about taking a walk
 around 'A Block' - the
-civilian area of Nortune?"<Close><End of Block>
+civilian area of Noatun?"<Close><End of Block>
 <TextBlock 39 w:32 h:3>
 Fei
 "<Delay 5>...<Delay 5>'A Block'...
