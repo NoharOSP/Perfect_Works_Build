@@ -562,7 +562,7 @@ Fei
 "To where?"<Close><End of Block>
 <TextBlock 89 w:46 h:4>
 Wiseman
-"I will go find him.<Delay 30>
+"I will go find Grahf.<Delay 30>
 I need to pinpoint what
 his intentions are."<Close><End of Block>
 <TextBlock 90 w:34 h:3>
