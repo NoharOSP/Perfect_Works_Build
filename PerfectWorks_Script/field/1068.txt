@@ -83,10 +83,11 @@ deal with him."<Close><End of Block>
 Sigmund
 "...No<Delay 30>...can't
 possibly<Delay 20> be..."<Close><End of Block>
-<TextBlock 23 w:54 h:3>
+<TextBlock 23 w:54 h:4>
 Sigmund
 "That man was suspected of
-trying to assassinate me.<New>
+trying to assassinate me
+12 years ago.<New>
 The police are looking into
 the matter now.<New>
 Well, I have some sudden
