@@ -1,5 +1,5 @@
 <TextBlock 1 w:34 h:3>
-Renk
+Rank
 "Hey look, check 
 this out..."<Close><End of Block>
 <TextBlock 2 w:44 h:3>
@@ -17,14 +17,14 @@ be the escort commander.<Close><End of Block>
 Elly
 "Dominia!?"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
-Helmholz
+Helmholtz
 "...Dominia, who's that?<Delay 30>
 Hey, not the one from
 the Elements...?"<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Dominia
 "It's been a long time 
-Elhaym. The last time
+Elehayym. The last time
 was Jugend, wasn't it?"<Close><End of Block>
 <TextBlock 7 w:28 h:3>
 Elly
@@ -140,7 +140,7 @@ waste of time."<Close><End of Block>
 Dominia
 "I was a surface dweller
 myself, but I'm going to
-purge the -Lambs-.<New>
+purge the 'Lambs'.<New>
 I want you, the Shepherds,
 -Abel-, to see with your
 own eyes what I can do."<Close><Close><End of Block>
