@@ -321,7 +321,7 @@ Any other Gear and I
 would hate to think<Delay 5>...<Delay 30>
 Anyway, you are safe,
 that is what matters!"<Close><End of Block>
-<TextBlock 61 w:38 h:3>
+<TextBlock 61 w:28 h:3>
 Fei
 "Thanks to<Delay 5>...<Delay 30>
 <Weltall>,<Delay 5> huh?"<Close><End of Block>
@@ -988,8 +988,8 @@ After that<Delay 5>...<New>
 After that<Delay 5>...<Delay 5>it was like
 Lahan village over again!<Delay 20>
 When I woke up, I was in
-Nortune's prison block<Delay 5>..."<Close><End of Block>
-<TextBlock 163 w:54 h:4>
+Noatun's prison block<Delay 5>..."<Close><End of Block>
+<TextBlock 163 w:50 h:4>
 Fei
 "Doc, what happened
 to the squadron at
@@ -1530,12 +1530,12 @@ the Imperial capital's
 Battling Tournaments!<New>
 With a history of 40 bouts
 ending in 40 K.O.s, most of
-which occured within 30
+which occurred within 30
 seconds from start time<Delay 5>...<New>
 If he wins this year's
 Imperial Games then he'll
 be the reigning champion
-for three years running!"<Close><End of Block>
+for eight years running!"<Close><End of Block>
 <TextBlock 257 w:34 h:4>
 Citan
 "Just one second!
