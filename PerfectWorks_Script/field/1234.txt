@@ -493,19 +493,19 @@ Don't get in the way!<Delay 5>
 If we don't help, it'll
 tarnish the men of the
 sea's good name!!"<Close><End of Block>
-<TextBlock 107 w:52 h:4>
+<TextBlock 107 w:50 h:4>
 Hans
 "...<Delay 5>...<Delay 20>Yessir.
-But the Thames itself will
+But the Tamuz itself will
 not join in any fights."<Close><End of Block>
 <TextBlock 108 w:40 h:3>
 Fei
 "Thanks. That's more
 than enough."<Close><End of Block>
-<TextBlock 109 w:54 h:4>
+<TextBlock 109 w:52 h:4>
 Captain
 "They've got guts starting
-a fight next to the Thames!
+a fight next to the Tamuz!
 It gets my blood boiling!"<Close><End of Block>
 <TextBlock 110 w:40 h:4>
 Captain
@@ -517,13 +517,13 @@ shot or two?"<Close><End of Block>
 <TextBlock 111 w:54 h:4>
 Hans
 "Are you kidding?<New>
-Why get the Thames involved
+Why get the Tamuz involved
 in a fight between sides
 who are neither enemies 
 nor allies?<New>
 And that big gun is nothing
 but a useless piece of junk
-you tacked onto the Thames
+you tacked onto the Tamuz
 in a drunken stupor!"<Close><End of Block>
 <TextBlock 112 w:44 h:4>
 Captain
