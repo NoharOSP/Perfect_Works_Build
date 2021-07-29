@@ -45,10 +45,10 @@ to beat the crap out of
 anyone who pisses me off.<New>
 And of course that means
 you too."<Close><End of Block>
-<TextBlock 12 w:26 h:3>
+<TextBlock 12 w:28 h:3>
 Fei
 "That's also,<Delay 20>
-one reason."<Close><End of Block>
+one reason..."<Close><End of Block>
 <TextBlock 13 w:20 h:3>
 Rico
 "Shut up, 
