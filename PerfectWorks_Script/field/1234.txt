@@ -729,7 +729,7 @@ Fei
 Yggdrasil?<New>
 It took a bad bashing,
 so now it's here, at
-Thames, for repairs."<Close><End of Block>
+Tamuz, for repairs."<Close><End of Block>
 <TextBlock 157 w:36 h:3>
 Elly
 "I see...<Delay 10><New>
