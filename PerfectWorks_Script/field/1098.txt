@@ -1,7 +1,7 @@
 <TextBlock 1 w:44 h:4>
-Broyer
+Breuer
 "Wha? Who's that? 
-Aren't those the Aveh 
+Aren't those the Av
 pirates?"<Close><End of Block>
 <TextBlock 2 w:38 h:4>
 Elly
@@ -13,7 +13,7 @@ Stratski
 "Hey, this is Kislev!
 What's he doing here?"<Close><End of Block>
 <TextBlock 4 w:38 h:3>
-Helmholz
+Helmholtz
 "He seems to follow
 us everywhere!"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
@@ -25,7 +25,7 @@ perhaps?"<Close><End of Block>
 Elly
 "..."<Close><End of Block>
 <TextBlock 7 w:42 h:3>
-Broyer
+Breuer
 "Third times a charm!
 Let's get 'em!"<Close><End of Block>
 <TextBlock 8 w:12 h:3>
@@ -34,9 +34,9 @@ Elly
 Wait!"<Close><End of Block>
 <TextBlock 9 w:16 h:2>
 Elly
-"Renk!?"<Close><End of Block>
+"Rank!?"<Close><End of Block>
 <TextBlock 10 w:52 h:4>
-Renk
+Rank
 "From our last incident, I
 can tell that your friends
 with that Gear's pilot.<New>
@@ -47,14 +47,14 @@ Hecht.<New>
 I wanna fight him, not as
 enemy soldiers, but as
 rival competitors...<New>
-We're the Gebler special
+We're the Geburah special
 forces and we won't be
 beaten!"<Close><End of Block>
 <TextBlock 11 w:10 h:2>
 Elly
 "..."<Close><End of Block>
 <TextBlock 12 w:44 h:4>
-Renk
+Rank
 "Sorry, I'm gonna have
 to kick his butt. 
 Any objections?"<Close><End of Block>
