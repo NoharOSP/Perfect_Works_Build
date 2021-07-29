@@ -195,7 +195,7 @@ Elly
 "Anyway, Citan is it
 okay? We're flying in
 such a large ship. <New>
-What if Kislev or Aveh
+What if Kislev or Av
 finds us..."<Close><End of Block>
 <TextBlock 46 w:52 h:4>
 Citan
