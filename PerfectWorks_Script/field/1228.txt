@@ -67,7 +67,7 @@ mean!?"<Close><End of Block>
 <TextBlock 15 w:50 h:3>
 Citan
 "Stop it!!
-Fei!<New>
+Fei! Bart!<New>
 This is no time for
 bickering.<New>
 For now, we must find a
@@ -78,14 +78,14 @@ Fei
 "...<Delay 10>...<Delay 10>Don't worry.
 The ship that saved
 us is nearby.<New>
-They call it the Thames,
+They call it the Tamuz,
 and it's about the size of
 a small city.
 Their Captain can help us."<Close><End of Block>
 <TextBlock 17 w:30 h:3>
 Rico
 "That's<Delay 10>...<Delay 10>...<Delay 10>
-the Thames...?"<Close><End of Block>
+the Tamuz...?"<Close><End of Block>
 <TextBlock 18 w:36 h:2>
 Dominia
 "If you hadn't..."<Close><End of Block>
