@@ -16,7 +16,7 @@ Elly
 "Fei!!"<Close><End of Block>
 <TextBlock 6 w:26 h:3>
 Ramsus
-"Miang,
+"Myyah,
 is that him?"<Close><End of Block>
 <TextBlock 7 w:28 h:3>
 Ramsus
@@ -68,9 +68,9 @@ My main tank...
 I almost had him!<New>
 Dammit!
 ...We have to
-retreat, Miang!"<Close><End of Block>
+retreat, Myyah!"<Close><End of Block>
 <TextBlock 16 w:34 h:4>
-Miang
+Myyah
 "Yes, he's in the
 black Gear in the
 center there."<Close><End of Block>
