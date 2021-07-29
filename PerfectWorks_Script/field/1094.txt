@@ -4,8 +4,8 @@ Fei
 <TextBlock 2 w:44 h:4>
 Citan
 "Fei, it is an aerial
-attack by Aveh, or
-should I say, Gebler!<New>
+attack by Av, or
+should I say, Geburah!<New>
 They really are intent
 on attacking the
 Imperial capital..."<Close><End of Block>
@@ -18,7 +18,7 @@ civilians?"<Close><End of Block>
 Citan
 "They plan on directly 
 attacking the Imperial
-capital, Nortune<Delay 10>...<New>
+capital, Noatun<Delay 10>...<New>
 <Delay 10>...<Delay 10>oh my god!"<Close><End of Block>
 <TextBlock 5 w:52 h:4>
 Citan
