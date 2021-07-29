@@ -13,8 +13,8 @@ Shakhan
 500-year-old mobile weapon
 excavated from the ruins?<New>
 Thanks to the help of the
-'Ethos', the repairs are
-complete.<New>
+Church of the Ethos, the 
+repairs are complete.<New>
 I thought we could announce
 it on the day of the
 dedication ceremony..."<Close><End of Block>
@@ -53,14 +53,17 @@ Shakhan
 east tower."<Close><End of Block>
 <TextBlock 10 w:28 h:4>
 Ramsus
-"Miang, could
+"Myyah, could
 it possibly be
 a 'Relic'?"<Close><End of Block>
 <TextBlock 11 w:54 h:4>
-Miang
+Myyah
 "Yes. But there is still no
-response. There seems to be
-a barrier or something.<New>
+response.<New>
+
+There seems to be
+a barrier or something of
+the same purpose.<New>
 However, we do know from
 the 500-year-old records
 that one certainly exists
@@ -71,10 +74,10 @@ preserved too."<Close><End of Block>
 Ramsus
 "...Let's meet her.<New>
 I want to talk to her
-directly. Miang, you
+directly. Myyah, you
 come with me."<Close><End of Block>
 <TextBlock 13 w:20 h:2>
-Miang
+Myyah
 "Yes sir."<Close><End of Block>
 <TextBlock 14 w:42 h:4>
 Grahf
@@ -82,7 +85,7 @@ Grahf
 said your tricks will
 do you no good."<Close><End of Block>
 <TextBlock 15 w:52 h:4>
-Miang
+Myyah
 "I'm just trying to help.
 Didn't I help get those
 'shackles' off?<New>
@@ -91,11 +94,11 @@ will only respond to the
 chosen one.<New>
 They don't know this.
 But...he's necessary for
-Kahr.<New>
+Carl.<New>
 He's the very meaning of
-Kahr's existence."<Close><End of Block>
+Carl's existence."<Close><End of Block>
 <TextBlock 16 w:46 h:4>
-Miang
+Myyah
 "Yes, I must thank you.
 After all, you did help
 me didn't you?"<Close><End of Block>
@@ -103,7 +106,7 @@ me didn't you?"<Close><End of Block>
 Grahf
 "..."<Close><End of Block>
 <TextBlock 18 w:44 h:4>
-Miang
+Myyah
 "Was it for me?
 Or for him?
 ...Or...for yourself?"<Close><End of Block>
