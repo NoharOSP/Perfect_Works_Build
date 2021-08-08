@@ -77,7 +77,7 @@ Rico
 Billy
 "The infirmary is this way.
 Let's go."<Close><End of Block>
-<TextBlock 20 w:46 h:4>
+<TextBlock 20 w:52 h:4>
 Billy
 "We have been waiting
 for you.<New>
@@ -85,16 +85,18 @@ I received permission
 to treat Fei so long as
 it is in the practice
 hall's infirmary.<New>
-Let us 'Ethos' staff
-take care of the rest."<Close><End of Block>
+Let our 'Church of Ethos' 
+staff take care of the 
+rest."<Close><End of Block>
 <TextBlock 21 w:54 h:3>
 Elly
 "Please,
 take care of Fei for me<Delay 4>..."<Close><End of Block>
-<TextBlock 22 w:50 h:4>
+<TextBlock 22 w:44 h:3>
 Billy
 "The brothers from the
-'Ethos' are looking after
+'Church of the Ethos'<New>
+are looking after
 Fei in the infirmary.<New>
 Let me take you there.
 Please follow me,<Delay 15>
@@ -126,12 +128,13 @@ Verlaine
 an attack on an excavation
 site which injured many of
 my 'brothers' and workers."<Close><End of Block>
-<TextBlock 29 w:52 h:5>
+<TextBlock 29 w:52 h:3>
 Verlaine
 "Well, you're such a fine
-Etone - destroying Reapers
+Etone - destroying Reapers<New>
 and proving the justice of
-the 'Ethos' to the world.<New>
+the 'Church of the Ethos' 
+to the world.<New>
 But your father is..."<Close><End of Block>
 <TextBlock 30 w:40 h:4>
 Verlaine
