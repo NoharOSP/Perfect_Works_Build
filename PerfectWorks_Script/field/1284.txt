@@ -59,10 +59,11 @@ Why did this happen?<New>
 Billy
 "This is father's
 shell casing<Delay 10>...<New>
-Dammit... Don't tell
-me he stormed into the
-'Ethos' headquarters
-in desperation?"<Close><End of Block>
+Damn it... <New>
+Don't tell me he stormed 
+into the 'Church of the 
+Ethos' headquarters in 
+desperation?"<Close><End of Block>
 <TextBlock 16 w:46 h:3>
 Rico
 "Guess we can't get in 
