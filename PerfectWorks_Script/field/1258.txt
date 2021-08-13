@@ -414,7 +414,7 @@ OK!!<Close><End of Block>
 <TextBlock 102 w:12 h:1>
 Ready?<Close><End of Block>
 <TextBlock 103 w:26 h:1>
-Got get 'em!!<Close><End of Block>
+Go get 'em!!<Close><End of Block>
 <TextBlock 104 w:50 h:1>
 Today's launch was so-so.<Close><End of Block>
 <TextBlock 105 w:0 h:1>
