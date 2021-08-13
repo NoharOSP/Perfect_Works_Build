@@ -373,7 +373,7 @@ Billy
 "I still don't believe
 you're even my father.<New>
 You're not the person
-mother loved."<Close><End of Block>
+Mother loved."<Close><End of Block>
 <TextBlock 81 w:44 h:3>
 Jessie
 "Whaddya mean...<Delay 20>
