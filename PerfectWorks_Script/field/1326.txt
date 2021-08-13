@@ -55,7 +55,7 @@ Citan
 Then that means<Delay 5>..."<Close><End of Block>
 <TextBlock 14 w:36 h:3>
 Citan
-"The Thames' fleet
+"The Tamuz's fleet
 is in danger!<New>
 They are unaware
 of this!"<Close><End of Block>
@@ -133,7 +133,7 @@ Billy
 "I think the Yggdrasil can
 catch up with the Gear.<New>
 Let's hurry and go help 
-the Thames' fleet."<Close><End of Block>
+the Tamuz's fleet."<Close><End of Block>
 <TextBlock 31 w:50 h:4>
 Billy
 "I understand there's 
@@ -163,7 +163,7 @@ Rico
 That means...!"<Close><End of Block>
 <TextBlock 37 w:52 h:4>
 Rico
-"Yeh, the Thames' fleet is
+"Yeh, the Tamuz's fleet is
 in danger.<Delay 10>They're no 
 match for that Gear."<Close><End of Block>
 <TextBlock 38 w:44 h:3>
@@ -236,7 +236,7 @@ Looks like Stein's..."<Close><End of Block>
 <TextBlock 54 w:16 h:2>
 Jessie
 "There."<Close><End of Block>
-<TextBlock 55 w:53 h:4>
+<TextBlock 55 w:50 h:4>
 Jessie
 "The mobile Gear of 
 Solaris was...Alkanshel, <Wait>
