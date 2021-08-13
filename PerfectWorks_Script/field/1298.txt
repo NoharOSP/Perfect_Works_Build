@@ -1,18 +1,20 @@
 <TextBlock 1 w:52 h:4>
 Elly
 "He said survivor,<Delay 10> didn't 
-he? That means, people 
-from the 'Ethos' are<Delay 10>...<Delay 10>"<Close><End of Block>
+he?<New>
+That means, people from 
+the 'Church of the 
+Ethos' are<Delay 10>...<Delay 10>"<Close><End of Block>
 <TextBlock 2 w:54 h:4>
 Elly
 "Come on, Billy.<Delay 10>
 There have to be survivors.
 Let's help them."<Close><End of Block>
-<TextBlock 3 w:42 h:4>
+<TextBlock 3 w:36 h:4>
 Elly
-"Yes<Delay 10>...<Delay 10>
-It looks like he is
-going to be alright."<Close><End of Block>
+"It<Delay 10>looks like<Delay 10>
+he is going to be 
+alright."<Close><End of Block>
 <TextBlock 4 w:50 h:2>
 Citan
 "Elly, how is Fei doing?"<Close><End of Block>
@@ -23,8 +25,10 @@ go to the infirmary."<Close><End of Block>
 <TextBlock 6 w:54 h:4>
 Citan
 "Are the people from the 
-'Ethos' alright? They 
-mentioned survivors but..."<Close><End of Block>
+'Church of the Ethos' 
+alright?<New> 
+They mentioned survivors 
+but..."<Close><End of Block>
 <TextBlock 7 w:42 h:3>
 Citan
 "Billy, pull yourself
@@ -44,8 +48,10 @@ to the infirmary."<Close><End of Block>
 <TextBlock 10 w:54 h:4>
 Citan
 "Are the people from the 
-'Ethos' alright? They 
-mentioned survivors but..."<Close><End of Block>
+'Church of the Ethos' 
+alright?<New> 
+They mentioned survivors 
+but..."<Close><End of Block>
 <TextBlock 11 w:50 h:3>
 Citan
 "Billy, pull yourself 
@@ -80,7 +86,8 @@ Billy
 "Who<Delay 10>...<Delay 10>
 are these guys?<New>
 Why're they attacking
-the 'Ethos'?"<Close><End of Block>
+the 'Church of the 
+Ethos'?"<Close><End of Block>
 <TextBlock 18 w:36 h:3>
 Billy
 "What!<Delay 10>
@@ -117,7 +124,7 @@ bay. This way, please."<Close><End of Block>
 There are still survivors?<Close><End of Block>
 <TextBlock 27 w:14 h:1>
 Wagggh!<Close><End of Block>
-<TextBlock 28 w:56 h:4>
+<TextBlock 28 w:42 h:4>
 Billy
 "<Perso1>, the infirmary
 is not that way.
