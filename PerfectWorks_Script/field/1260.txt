@@ -48,10 +48,11 @@ through what we did."<Close><End of Block>
 <TextBlock 10 w:50 h:4>
 Billy
 "They're all healthy and
-obedient to the teachings
-of the 'Ethos'.<New>
-They're all good kids who
-even help me with work."<Close><End of Block>
+obedient to the teachings<New>
+of the 'Church of the 
+Ethos'. They're all good 
+kids who even help me with 
+work."<Close><End of Block>
 <TextBlock 11 w:14 h:1>
 Later!!<Opcode 2 20><Close><End of Block>
 <TextBlock 12 w:46 h:2>
@@ -109,7 +110,7 @@ an image of a huge ship!!"<Close><End of Block>
 <TextBlock 24 w:28 h:3>
 Bart
 "What?<Delay 10> 
-Gebler again?"<Close><End of Block>
+Geburah again?"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Sigurd
 "I don't know but it's
@@ -149,10 +150,11 @@ it but he is our senior."<Close><End of Block>
 <TextBlock 33 w:50 h:3>
 Citan
 "Ah...<Delay 10>He may not look 
-it but he is our senior."<Close><End of Block>
+it but he is our commanding
+officer."<Close><End of Block>
 <TextBlock 34 w:16 h:3>
 Sigurd
-"Senior?<Delay 10>
+"Commanding...?<Delay 10>
 Jessie?"<Close><End of Block>
 <TextBlock 35 w:16 h:2>
 Billy
