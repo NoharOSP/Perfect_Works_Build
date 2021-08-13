@@ -2,7 +2,7 @@
 Billy
 "Looks <Delay 10>like <Delay 2>blood <Delay 2>...<Delay 2>...
 What happened on this 
-transport...<New>
+transport?<New>
 No wait, this is...<Delay 25>
 water with rust in it.<Delay 15>
 Let's hurry on ahead." <Close><End of Block>
