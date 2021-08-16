@@ -1,6 +1,42 @@
 # Perfect_Works_Build
 Xenogers Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
+## Changes:
+
+Elly:
+- Hit 7 < 10
+- Ether 15 < 20
+
+Bart:
+- Defense 10 < 14
+- Ether 7 < 14
+- Evade 14 < 16
+
+Rico:
+- HP 110 < 200
+- Attack 28 < 70
+- Defense 23 < 57
+- Hit 10 < 18
+- Agility 7 < 8
+
+Chu-Chu:
+- Ether 12 < 25
+
+Weltall/Weltall-2/Xenogears:
+- Ether amp 10 < 15
+
+Stier:
+- Agility 7 < 8
+
+Seibzehn:
+- Ether amp 10 < 12
+
+El-Renmazuo:
+- RENM-24800 24800 < 28000
+
+El-Stier:
+- Agility 7 < 9
+
 # Credits:
 Translation: 
 An Eye for the Infinite http://moonreading.lunarpages.com/xeno/
