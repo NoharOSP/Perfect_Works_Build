@@ -214,14 +214,15 @@ What did you do this time?
 Fight? Gamble? 
 Go after someone's wife
 again!?"<Close><End of Block>
-<TextBlock 52 w:50 h:4>
+<TextBlock 52 w:48 h:3>
 Jessie
 "Hmmph, that's just a
 rumor about me. A rumor.<New>
 Don't you believe that.
-Ever since you went into
-the 'Ethos' you've become
-such a stiff."<Close><End of Block>
+Ever since you became a
+member of the 'Church'<New>
+you've become such a 
+stiff."<Close><End of Block>
 <TextBlock 53 w:10 h:2>
 Billy
 "..."<Close><End of Block>
@@ -255,11 +256,11 @@ promises."<Close><End of Block>
 Elly
 "Then you'll introduce
 us?"<Close><End of Block>
-<TextBlock 58 w:46 h:4>
+<TextBlock 58 w:50 h:4>
 Billy
 "Yes. Let's stop by the
-'Ethos' headquarters
-after this."<Close><End of Block>
+'Church of the Ethos' 
+headquarters after this."<Close><End of Block>
 <TextBlock 59 w:50 h:4>
 Margie
 "Hmm. A priest and an
@@ -268,9 +269,9 @@ Isn't that unsual?<New>
 The 'Ethos' is obviously
 very different from my
 Nisan Sect."<Close><End of Block>
-<TextBlock 60 w:42 h:3>
+<TextBlock 60 w:46 h:3>
 Billy
-"Your Nisan Sect? Are
+"'Your Nisan Sect?' Are
 you from Nisan?"<Close><End of Block>
 <TextBlock 61 w:52 h:3>
 Margie
@@ -300,14 +301,14 @@ Bart
 "Forget about it,
 relax...<New>
 I came here to talk
-to the 'Ethos'.
+to the 'Church'.
 Let's get moving."<Close><End of Block>
 <TextBlock 66 w:50 h:3>
 Billy
 "What an impolite fellow.<New>
 You should learn how to
-speak a little more
-politely."<Close><End of Block>
+speak with a little more
+respect."<Close><End of Block>
 <TextBlock 67 w:20 h:2>
 Bart
 "Why you!"<Close><End of Block>
@@ -315,12 +316,13 @@ Bart
 Billy
 "Well everyone, <New>
 I'll go tell the
-'Ethos' headquarters
-that you're coming.<New>
+'Church of the 
+Ethos' that you're 
+coming.<New>
 When you've taken
 care of business here,
 please come by the
-'Ethos'."<Close><End of Block>
+'Church of the Ethos'."<Close><End of Block>
 <TextBlock 69 w:34 h:3>
 Bart
 "I know, I know. 
@@ -368,7 +370,7 @@ really leave port."<Close><End of Block>
 <TextBlock 78 w:40 h:3>
 Elly
 "Are we returning...<Delay 10>
-to Aveh?"<Close><End of Block>
+to Av?"<Close><End of Block>
 <TextBlock 79 w:50 h:4>
 Bart
 "Are you kidding?
@@ -376,10 +378,11 @@ We've got to take
 care of Fei first.<New>
 That smart aleck kid
 said he'd introduce
-us to the 'Ethos'.<New>
+us to the 'Church'.<New>
 So I guess we'll just
-have to go to the 'Ethos'
-headquarters then..."<Close><End of Block>
+have to go to the 
+'Church's' headquarters 
+then..."<Close><End of Block>
 <TextBlock 80 w:30 h:2>
 Elly
 "...<Delay 10>Thank you."<Close><End of Block>
