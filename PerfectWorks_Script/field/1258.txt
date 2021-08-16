@@ -154,13 +154,13 @@ Thanks!<Delay 10>
 I'll pay you back!<Close><End of Block>
 <TextBlock 39 w:38 h:1>
 Received Tag Badge.<Close><End of Block>
-<TextBlock 40 w:48 h:2>
+<TextBlock 40 w:24 h:2>
 That makes <Opcode 10 0>.<Delay 10>
 Only <Opcode 10 1> left.<Close><End of Block>
-<TextBlock 41 w:48 h:2>
+<TextBlock 41 w:24 h:2>
 That makes <Opcode 10 0>.<Delay 10>
 Only <Opcode 10 1> left.<Close><End of Block>
-<TextBlock 42 w:48 h:2>
+<TextBlock 42 w:24 h:2>
 That makes <Opcode 10 0>.<Delay 10>
 Only <Opcode 10 1> left.<Close><End of Block>
 <TextBlock 43 w:48 h:3>
@@ -263,12 +263,12 @@ earlier message..."<Close><End of Block>
 Billy
 "Yes, <Delay 10>
 about work..."<Close><End of Block>
-<TextBlock 74 w:52 h:4>
+<TextBlock 74 w:54 h:4>
 Bishop Stone
 "Yes.<New>
-The 'Ethos' transport ship
-that went missing finally
-turned up.<Delay 10> 
+The 'Church of the Ethos' 
+transport ship that went 
+missing finally turned up.<Delay 10> 
 But, there's no reply..."<Close><End of Block>
 <TextBlock 75 w:40 h:2>
 Billy
@@ -414,7 +414,7 @@ OK!!<Close><End of Block>
 <TextBlock 102 w:12 h:1>
 Ready?<Close><End of Block>
 <TextBlock 103 w:26 h:1>
-Got get 'em!!<Close><End of Block>
+Go get 'em!!<Close><End of Block>
 <TextBlock 104 w:50 h:1>
 Today's launch was so-so.<Close><End of Block>
 <TextBlock 105 w:0 h:1>
