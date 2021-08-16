@@ -17,15 +17,15 @@ right here!!"<Close><End of Block>
 <TextBlock 4 w:32 h:1>
 Stop it at once.<Close><End of Block>
 <TextBlock 5 w:30 h:2>
-Miang
+Myyah
 "Are you okay?"<Close><End of Block>
 <TextBlock 6 w:40 h:4>
 Dominia
-"Miang!
+"Myyah!
 What are you doing!?
 She is a traitor!"<Close><End of Block>
 <TextBlock 7 w:52 h:4>
-Miang
+Myyah
 "Such acts will not be
 allowed on a ship under
 Ramsus' command...<New>
@@ -42,14 +42,14 @@ defend herself after you
 took it upon yourself to
 attack without permission.<New>
 Above all, you were meant
-to be under Kelvena's
+to be under Cherubina's
 command. Were you obeying
-Kelvena's orders?"<Close><End of Block>
+Cherubina's orders?"<Close><End of Block>
 <TextBlock 8 w:14 h:2>
 Dominia
 "..."<Close><End of Block>
 <TextBlock 9 w:52 h:4>
-Miang
+Myyah
 "You are not to prosecute
 any soldier for treason
 without proper authority.<New>
@@ -65,7 +65,7 @@ Dominia
 "What!?
 I would never..."<Close><End of Block>
 <TextBlock 11 w:52 h:4>
-Miang
+Myyah
 "Thus far, we still cannot
 determine whether or not
 she is guilty of treason.<New>
@@ -79,7 +79,7 @@ Dominia
 "How dare you!
 By what authority!?"<Close><End of Block>
 <TextBlock 13 w:22 h:2>
-Miang
+Myyah
 "Let's go."<Close><End of Block>
 <TextBlock 14 w:40 h:4>
 Dominia
