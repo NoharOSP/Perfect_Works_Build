@@ -63,7 +63,7 @@ More importantly,
 you saved Fei.<New>
 Fei could not have
 been protected from
-Kahr without you.
+Carl without you.
 Is that not correct?"<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Citan
@@ -249,8 +249,8 @@ The low water temperature
 lowered his metabolism and
 saved him.<New>
 One false step and he
-could've suffered from
-brain death.<Close><End of Block>
+would have suffered 
+from brain death.<Close><End of Block>
 <TextBlock 47 w:54 h:3>
 Yes, don't worry.<Delay 15>
 However, we need to conduct
@@ -287,7 +287,7 @@ Please don't worry.
 I did my job as a 
 clergyman.<Close><End of Block>
 <TextBlock 53 w:48 h:4>
-Oh yes, brother Billy...<New>
+Oh yes, Brother Billy...<New>
 He went back to the
 orphanage.
 He was worried about the
