@@ -1,7 +1,7 @@
 # Perfect_Works_Build
 Xenogers Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-## Changes:
+## Stat changes:
 
 Elly:
 - Hit 7 < 10
