@@ -8,11 +8,11 @@ Elly
 "Come on, Billy.<Delay 10>
 There have to be survivors.
 Let's help them."<Close><End of Block>
-<TextBlock 3 w:42 h:4>
+<TextBlock 3 w:36 h:4>
 Elly
-"Yes<Delay 10>...<Delay 10>
-It looks like he is
-going to be alright."<Close><End of Block>
+"It<Delay 10>looks like<Delay 10>
+he is going to be 
+alright."<Close><End of Block>
 <TextBlock 4 w:50 h:2>
 Citan
 "Elly, how is Fei doing?"<Close><End of Block>
@@ -117,7 +117,7 @@ bay. This way, please."<Close><End of Block>
 There are still survivors?<Close><End of Block>
 <TextBlock 27 w:14 h:1>
 Wagggh!<Close><End of Block>
-<TextBlock 28 w:56 h:4>
+<TextBlock 28 w:42 h:4>
 Billy
 "<Perso1>, the infirmary
 is not that way.
