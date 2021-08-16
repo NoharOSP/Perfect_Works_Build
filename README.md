@@ -37,7 +37,7 @@ El-Renmazuo:
 El-Stier:
 - Agility 7 < 9
 
-# Credits:
-Translation: 
-An Eye for the Infinite http://moonreading.lunarpages.com/xeno/
-Almagest http://almagest712.blogspot.com/2017/11/xenogears-my-father-you-mean-my-dad.html
+## Credits:
+### Translation: 
+- An Eye for the Infinite http://moonreading.lunarpages.com/xeno/
+- Almagest http://almagest712.blogspot.com/2017/11/xenogears-my-father-you-mean-my-dad.html
