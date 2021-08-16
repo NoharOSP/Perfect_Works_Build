@@ -46,7 +46,7 @@ Then...ZAP!...
 This beam went by!<New>
 It was so bright, I thought
 my eyes were gonna burn up.
-But then a Gear from Thames
+But then a Gear from Tamuz
 saved me.<New>
 Boy am I ever thankful...!
 But why did that fishbowl
@@ -92,8 +92,9 @@ Elly
 <TextBlock 20 w:52 h:4>
 Doctor
 "...Then there is hope
-...at the infirmary in
-the 'Ethos' headquarters."<Close><End of Block>
+...at the infirmary<New> 
+in the 'Church of the 
+Ethos' headquarters."<Close><End of Block>
 <TextBlock 21 w:3 h:1>
 !<Close><End of Block>
 <TextBlock 22 w:36 h:3>
@@ -102,10 +103,11 @@ Elly
 Can you save Fei?"<Close><End of Block>
 <TextBlock 23 w:52 h:5>
 Doctor
-"I cannot guarantee it.
+"I cannot guarantee it.<New>
 But if we were to take
-him to the 'Ethos'
-headquarters' hospital..."<Close><End of Block>
+him to the 'Church of
+the Ethos' headquarters' 
+hospital..."<Close><End of Block>
 <TextBlock 24 w:50 h:2>
 Elly
 "Then could we save him?"<Close><End of Block>
@@ -116,11 +118,13 @@ would most probably
 pull through alright...<New>
 But unfortunately, ordinary
 citizens are only allowed
-into the main hall at
-the 'Ethos' headquarters.<New>
+into the main hall<New> 
+at the 'Church of the 
+Ethos' headquarters.<New>
 You would have to become a
 monk, or be introduced by
-someone in the 'Ethos'<Delay 5>..."<Close><End of Block>
+someone in the 'Church of 
+the Ethos'<Delay 5>..."<Close><End of Block>
 <TextBlock 26 w:10 h:2>
 Elly
 "..."<Close><End of Block>
@@ -129,7 +133,7 @@ Doctor
 "Ah, I just remembered.<New>
 I heard that the Etone,
 -'atoners of sin'-,
-are coming to Thames
+are coming to Tamuz
 from the 'Ethos' H.Q...."<Close><End of Block>
 <TextBlock 28 w:44 h:4>
 Citan
@@ -149,7 +153,7 @@ What are they?"<Close><End of Block>
 Doctor
 "They are religious people
 from the 'Ethos' who cleanse
-away the 'Reapers' or -Wels-
+away the 'Reapers' or 'Wels'
 that appear here in Aquvy."<Close><End of Block>
 <TextBlock 32 w:54 h:2>
 Elly
