@@ -2,22 +2,22 @@
 Sigurd
 "Young master, according to
 Margie, there's quite a
-troublemaker in Gebler."<Close><End of Block>
+troublemaker in Geburah."<Close><End of Block>
 <TextBlock 2 w:48 h:3>
 Bart
 "Yeah...
 So, who the heck is he?"<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Sigurd
-"Kahran Ramsus<Delay 10> of the Holy
+"Carlin Ramsus<Delay 10> of the Holy
 Solaris Empire's Special
 Foreign Affairs Agency<Delay 5>...<New>
 In other words, he's the
 commander in chief of
-Gebler.<New>
-It seems that Gebler isn't
+Geburah.<New>
+It seems that Geburah isn't
 just after the excavation
-sites around Aveh after
+sites around Av after
 all."<Close><End of Block>
 <TextBlock 4 w:44 h:3>
 Bart
@@ -49,13 +49,13 @@ Zohar and awoke...<New>
 But we've found out Deus
 is in the center of the
 giant structure created
-out of the fallen Merkava.<New>
+out of the fallen Merkabah.<New>
 The only way we can think
 of to destroy Deus is to
 penetrate into there and
 make our way to the center.<New>
 That structure used to be
-Merkava itself, but we
+Merkabah itself, but we
 must assume the inside has
 changed significantly.<New>
 We don't know what dangers
@@ -186,7 +186,7 @@ excavation site."<Close><End of Block>
 <TextBlock 27 w:30 h:3>
 Sigurd
 "Let's hurry to
-the Thames!!"<Close><End of Block>
+the Tamuz!!"<Close><End of Block>
 <TextBlock 28 w:42 h:4>
 Sigurd
 "Some new parts were
@@ -218,12 +218,14 @@ if he continues to rest.
 I'm relieved to hear that.<New>
 It seems the orphanage is
 located to the southeast of
-the 'Ethos' headquarters."<Close><End of Block>
+the 'Church of the Ethos' 
+headquarters."<Close><End of Block>
 <TextBlock 34 w:54 h:4>
 Sigurd
-"It appears the 'Ethos'
-headquarters is located
-to the north of the Thames.<New>
+"It appears the 'Church
+of the Ethos' headquarters<New> 
+is located to the north 
+of the Thames.<New>
 We must hurry up and take
 Fei there..."<Close><End of Block>
 <TextBlock 35 w:54 h:4>
@@ -247,7 +249,7 @@ Sigurd
 you go while we were so
 busy...?<New>
 An international goodwill
-visit with the Thames?
+visit with the Tamuz?
 Well, whatever...<New>
 Now about those supplies
 for the submarine..."<Close><End of Block>
@@ -276,8 +278,8 @@ You shouldn't play pranks
 in an unknown land!"<Close><End of Block>
 <TextBlock 44 w:52 h:3>
 Sigurd
-"Where one god disdains,
-another god shows mercy.<New>
+"Where one God disdains,
+another God shows mercy.<New>
 We have to appreciate
 people's good intentions."<Close><End of Block>
 <TextBlock 45 w:40 h:4>
@@ -302,7 +304,7 @@ the road lies buried...!"<Close><End of Block>
 <TextBlock 48 w:46 h:4>
 Sigurd
 "It's time to sneak
-into Aveh at last.<New>
+into Av at last.<New>
 First of all, our party
 should inspect the town
 and work out a plan of
@@ -352,8 +354,8 @@ I'll do my best!<Close><End of Block>
 <TextBlock 56 w:50 h:3>
 Sigurd
 "We're currently anchored
-at the Thames..."<New>
-    <Opcode 1 255>Leave Thames.
+at the Tamuz..."<New>
+    <Opcode 1 255>Leave Tamuz.
     Changed my mind.<Close><End of Block>
 <TextBlock 57 w:44 h:4>
 Sigurd
