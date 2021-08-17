@@ -90,8 +90,7 @@ Elly
 It's divine
 providence!<New>
 We are the chosen
-people, the 
-Abelites...<New>
+people, the Abelites...<New>
 Our purpose of existence
 is to subordinate
 the earth dwelling
@@ -167,17 +166,17 @@ of compassion.<New>
 ...<Delay 20>I,<Delay 20> I, ...<Delay 20> erh<Delay 20>
 F<Delay 20>...<Delay 20>Fe...<Delay 20>i...<Delay 20>"<Close><End of Block>
 <TextBlock 27 w:38 h:3>
-Broyer
+Breuer
 "Wow!
 Did you see that?!"<Close><End of Block>
 <TextBlock 28 w:40 h:2>
-Renk
+Rank
 "Those were Aerods!"<Close><End of Block>
 <TextBlock 29 w:18 h:2>
 Vance
 "Aerods?"<Close><End of Block>
 <TextBlock 30 w:46 h:4>
-Helmholz
+Helmholtz
 "Animum Ether Response-
 Offensive Drones...<New>
 Commonly known as
@@ -198,7 +197,7 @@ a side effect of the
 It's no big deal,
 right...?"<Close><End of Block>
 <TextBlock 32 w:44 h:5>
-Renk
+Rank
 "...No, the Drive can
 only draw upon the
 potential that already
