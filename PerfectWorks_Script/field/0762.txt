@@ -24,7 +24,7 @@ Sigurd
 "I'm searching the 
 information network <New>
 for reports on
-Aveh's condition."<Close><End of Block>
+Av's condition."<Close><End of Block>
 <TextBlock 6 w:54 h:7>
 Sigurd
 "What do you want to know?<Delay 10>
@@ -37,7 +37,7 @@ Sigurd
 Sigurd
 "Margie is Mother 
 Marguerite of Nisan.<New>
-But Shakhan of Aveh has
+But Shakhan of Av has
 locked her up and is
 looking for the Fatima
 Jasper now. <New>
@@ -46,11 +46,11 @@ but he's very worried."<Close><End of Block>
 <TextBlock 8 w:50 h:4>
 Sigurd
 "Shakhan was the Prime
-Minister of Aveh.<New>
+Minister of Av.<New>
 But he is the defacto
 leader now.<Delay 10>
 His rule is what has
-put our Aveh in turmoil."<Close><End of Block>
+put our Av in turmoil."<Close><End of Block>
 <TextBlock 9 w:48 h:3>
 Sigurd
 "Margie has half of the 
@@ -87,7 +87,7 @@ in the dock area take
 refuge in the Yggdrasil!<Close><End of Block>
 <TextBlock 14 w:48 h:3>
 12 years ago Sigurd 
-fled Aveh with the young
+fled Av with the young
 master. <New>
 We've been good friends
 ever since.<Close><End of Block>
@@ -166,15 +166,15 @@ making a blood oath with
 giants'.<New>
 They say he used the
 strength of the giants
-to found Aveh."<Close><End of Block>
+to found Av."<Close><End of Block>
 <TextBlock 31 w:54 h:4>
 Citan
 "It is amazing that such an
 ancient scroll exists...
 and in such good state too!<New>
-I thought the 'Ethos'
-controlled all such things
-as these..."<Close><End of Block>
+I thought the 'Church of
+the Ethos' controlled all 
+such things as these..."<Close><End of Block>
 <TextBlock 32 w:38 h:3>
 Bart
 "Normally, yes.<New>
@@ -225,7 +225,7 @@ for?"<Close><End of Block>
 <TextBlock 40 w:32 h:4>
 Bart
 "Not just him.<Delay 10>
-Gebler is also
+Geburah is also
 looking for it."<Close><End of Block>
 <TextBlock 41 w:38 h:3>
 Citan
@@ -251,7 +251,7 @@ Bart
 "Bright boy!<Delay 10>
 That's exactly it.<New>
 I heard from Sigurd<Delay 5>...<Delay 10>
-it seems that both Aveh
+it seems that both Av
 and Kislev are after you!<New>
 So we can help you and
 you can help us<Delay 5>...<Delay 10>
@@ -288,7 +288,7 @@ Fei
 to make me fight?"<Close><End of Block>
 <TextBlock 52 w:42 h:4>
 Bart
-"H, huh...<Delay 10>
+"H-huh...<Delay 10>
 What's wrong with you
 all of a sudden?"<Close><End of Block>
 <TextBlock 53 w:8 h:1>
