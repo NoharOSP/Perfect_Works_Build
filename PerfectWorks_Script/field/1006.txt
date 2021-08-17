@@ -88,7 +88,7 @@ in the bathroom did you?<Close><End of Block>
 <TextBlock 18 w:50 h:4>
 <Delay 5>...<Delay 5>...Oh, it's you
 guys. You guys survived
-the Aveh air assault<Delay 5>...<Delay 5>
+the Av air assault<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>...Wha?<Delay 5>...<Delay 5>...Daughter?<Delay 15><New>
 <Delay 5>...<Delay 5>Diana. In the air
 assault she<Delay 5>...<Delay 5> sob, sob.<Delay 15>
@@ -212,7 +212,7 @@ let us go."<Close><End of Block>
 <TextBlock 38 w:50 h:3>
 Elly
 "<Delay 5>...<Delay 5>Fei,<Delay 15> we must hurry to
-Aveh<Delay 5>...<Delay 5>"<Close><End of Block>
+Av<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 39 w:50 h:3>
 Fei
 "Huh? Uh yeah...I know,
@@ -289,7 +289,7 @@ Citan
 "The furnishings are
 untouched<Delay 5>...<Delay 5> <New>
 They probably left when
-Aveh attacked."<Close><End of Block>
+Av attacked."<Close><End of Block>
 <TextBlock 55 w:10 h:2>
 Elly
 "<Delay 5>...<Delay 5>"<Close><End of Block>
@@ -338,12 +338,12 @@ It's said that the
 a Gear look like a pea.<New>
 It's rumored that it
 can even decimate the
-Aveh capital, Bledavik,
+Av capital, Breidblik,
 all by itself."<Close><End of Block>
 <TextBlock 65 w:44 h:4>
 Fei
 "By itself, annihilate
-Aveh!? It must be a
+Av!? It must be a
 monstrous battleship."<Close><End of Block>
 <TextBlock 66 w:50 h:4>
 Hammer
@@ -394,7 +394,7 @@ Fei
 ...<Delay 5>before the empire
 decides to launch a
 counter-attack against
-Aveh."<Close><End of Block>
+Av."<Close><End of Block>
 <TextBlock 75 w:30 h:3>
 Fei
 "<Delay 5>...?<Delay 15>
