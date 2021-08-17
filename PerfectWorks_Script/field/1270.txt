@@ -65,7 +65,7 @@ Primera and I hid in the
 shadows escaping death,
 but she hasn't spoken a
 word since. <Close><End of Block>
-<TextBlock 14 w:52 h:3>
+<TextBlock 14 w:52 h:4>
 Like a godsend, kind,
 strong Bishop Stone gave
 me an example to follow.<New>
@@ -76,12 +76,14 @@ I didn't want there to
 be any more children
 like Primera...<New>
 So I began training at the
-'Ethos' to become just
-like Bishop Stone.<Close><End of Block>
-<TextBlock 15 w:46 h:3>
+'Church of the Ethos' to 
+become just like Bishop 
+Stone.<Close><End of Block>
+<TextBlock 15 w:46 h:4>
 I left Prim in the care
-of the 'Ethos' and
-entered the monastery.<Close><End of Block>
+of the 'Church of the 
+Ethos' and entered the 
+monastery.<Close><End of Block>
 <TextBlock 16 w:40 h:1>
 Many years passed...<Close><End of Block>
 <TextBlock 17 w:40 h:3>
