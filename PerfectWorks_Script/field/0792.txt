@@ -72,7 +72,7 @@ Bart
 I'm alright!"<Close><End of Block>
 <TextBlock 11 w:58 h:4>
   Sigurd
-  "Etrenank, the captial
+  "Etemenanki, the captial
   of the Solaris empire is
   located in the skies above.<New>
   Solaris is separated from
@@ -148,7 +148,7 @@ morning.<Close><End of Block>
 I hear it is because
 Marguerite has returned...<New>
 They are trying to decide
-how to deal with Aveh as
+how to deal with Av as
 the 'Nisan parish'.<Close><End of Block>
 <TextBlock 24 w:50 h:2>
 I can understand why
@@ -235,8 +235,8 @@ has you confused because it
 was not so simple...<New>
 There was a time when he
 was cooperating with one
-of Gebler's generals...<New>
-Furthermore, behind Gebler
+of Geburah's generals...<New>
+Furthermore, behind Geburah
 was a country that you had
 never even heard of..."<Close><End of Block>
 <TextBlock 39 w:38 h:3>
@@ -308,7 +308,9 @@ the previous system.<New>
 Basically, the only
 difference was whether they
 stressed people's rank and
-class, or their skill.<New>
+class,<New> 
+or his stressing of their 
+skill.<New>
 The words had changed, but
 it was still no different
 from what Solaris itself
@@ -325,7 +327,7 @@ I like him much either."<Close><End of Block>
 Bart
 "So, Citan...<Delay 30>
 Do you think I can
-beat Gebler?"<Close><End of Block>
+beat Geburah?"<Close><End of Block>
 <TextBlock 48 w:44 h:3>
 Citan
 "Why? Are you planning
@@ -344,7 +346,7 @@ Citan
 "Hmm...
 I suppose so, but...<New>
 Even if we were to defeat
-the Gebler forces here,
+the Geburah forces here,
 there is still Solaris,
 to deal with.<New>
 If we are not careful, it
@@ -363,12 +365,12 @@ people."<Close><End of Block>
 Bart
 "So defeating Shakhan's
 not going to get rid of
-the likes of Gebler..."<Close><End of Block>
+the likes of Geburah..."<Close><End of Block>
 <TextBlock 52 w:46 h:3>
 Bart
 "I know what you're
 trying to say...<New>
-'To vanquish Gebler,
+'To vanquish Geburah,
 first gain thy throne!'
 ...Right?"<Close><End of Block>
 <TextBlock 53 w:54 h:3>
