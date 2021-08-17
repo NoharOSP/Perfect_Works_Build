@@ -3,7 +3,7 @@
 ...<Delay 10>...<Delay 10><New>
 That's not it. This
 type...It matches with
-the Aveh pirate ship,
+the Av pirate ship,
 Yggdrasil."<Close><End of Block>
 <TextBlock 2 w:38 h:4>
 Dominia
@@ -62,7 +62,7 @@ fighting on land."<Close><End of Block>
 <TextBlock 12 w:36 h:3>
 Dominia
 "Of course. Sorry,
-Kelvena."<Close><End of Block>
+Cherubina."<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 Bart
 "Dammit! I can barely
@@ -84,7 +84,7 @@ Elly
 "What about that Gear?"<Close><End of Block>
 <TextBlock 18 w:36 h:4>
 Dominia
-"Elhaym!!
+"Elehayym!
 What are you doing
 here?"<Close><End of Block>
 <TextBlock 19 w:36 h:3>
@@ -93,7 +93,7 @@ Elly
 Why are you here?"<Close><End of Block>
 <TextBlock 20 w:48 h:4>
 Dominia
-"Why? We Gebler need no
+"Why? We Geburah need no
 special reasons to sink
 an enemy ship!<New>
 It is our divine duty to
@@ -103,10 +103,10 @@ dwelling Lambs."<Close><End of Block>
 Elly
 "But why?
 How are they different from
-us Shepherds, the -Abel- ?"<Close><End of Block>
+us Shepherds, the 'Abel'?"<Close><End of Block>
 <TextBlock 22 w:50 h:3>
 Dominia
-"To me -Lambs- and -Abel-
+"To me 'Lambs' and 'Abel'
 are the same.<New>
 The only definite
 differenece is
@@ -135,7 +135,7 @@ Dominia
 "That Gear, you're the
 one? Hah! So that's how
 it is.<New>
-How amusing, Elhaym.
+How amusing, Elehayym.
 All this for a man?
 I guess that story was
 true after all.<New>
@@ -157,7 +157,7 @@ Show me your true power!"<Close><End of Block>
 <TextBlock 28 w:30 h:4>
 Elly
 "...I will.<New>
-If you Gebler
+If you Geburah
 are wise...<Delay 20>
 then <Delay 30>I'd rather
 be a fool!!"<Close><End of Block>
