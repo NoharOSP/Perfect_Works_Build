@@ -1,11 +1,11 @@
 <TextBlock 1 w:48 h:3>
- Miang
+ Myyah
 "...Did you notice? 
 His Gear is reawakening.<New>
 Soon, he himself will
 awaken also."<Close><End of Block>
 <TextBlock 2 w:50 h:4>
- Miang
+ Myyah
 "His friends are heading 
 for Zeboim. It's been 
 sealed up for 4000 years.<New>
@@ -16,5 +16,5 @@ anyone anything. But it's
 something we both need.
 You know what I mean?"<Close><End of Block>
 <TextBlock 3 w:32 h:2>
- Miang
+ Myyah
 "...so, please."<Close><Close><End of Block>
