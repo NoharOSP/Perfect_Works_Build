@@ -4,13 +4,13 @@ Sigurd
 charges will be dropped!
 Please stand back!"<Close><End of Block>
 <TextBlock 2 w:32 h:4>
-Kelvena
+Cherubina
 "Enough already!
 Dominia!
 Retreat!"<Close><End of Block>
 <TextBlock 3 w:32 h:4>
 Dominia
-"Come on Elhaym!<Delay 30>
+"Come on Elehayym!<Delay 30>
 Show me your
 true self!!"<Opcode 2 40><Close><End of Block>
 <TextBlock 4 w:36 h:4>
