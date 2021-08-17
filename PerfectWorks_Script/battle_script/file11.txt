@@ -4,9 +4,9 @@ Pirate
 a better plea for
 your life?<New>
 You come jumping out
-of an Aveh ship and
+of an Av ship and
 claim that you are
-not Aveh soldiers!<New>
+not Av soldiers!<New>
 Stop trying
 to fool me!"<Close><End of Block>
 <TextBlock 2 w:44 h:4>
@@ -39,27 +39,26 @@ Now I want it
 even more!"<Close><End of Block>
 <TextBlock 5 w:38 h:3>
 Pirate
-"Oh-no!<Delay 30>
-This is not good!!"<Close><End of Block>
+"Oh crap!"<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Pirate
 "In the heat of battle,
-I go get caught in
+I get caught in
 quicksand!<New>
-Darn.
-Me of all people!"<Close><End of Block>
+Damn.
+Me, of all people!"<Close><End of Block>
 <TextBlock 7 w:40 h:3>
 Pirate
 "Damn!
 It's all your fault!<New>
-Boy are you going to
+Bo, are you going to
 get it later.
-So be darn ready!"<Close><End of Block>
+So be ready!"<Close><End of Block>
 <TextBlock 8 w:34 h:4>
 Fei
 "Wait one moment!
 We're not
-Aveh soldiers!"<Close><End of Block>
+Av soldiers!"<Close><End of Block>
 <TextBlock 9 w:24 h:3>
 Fei
 "I tell you,
@@ -74,4 +73,6 @@ Fei
 "!?"<Close><End of Block>
 <TextBlock 12 w:12 h:2>
 Fei
-"Why!"<Close><Close><Close><UNKNOWN CHUNK 182><Wait><Close><Close>)<Close><End of Block>
+"...Why
+is this
+my fault?"<Close><Close><Close><UNKNOWN CHUNK 182><Wait><Close><Close>)<Close><End of Block>
