@@ -1,7 +1,7 @@
 <TextBlock 1 w:48 h:4>
 Ramsus
 "I am Ramsus, she is
-Miang. We would like to
+Myyah. We would like to
 ask you some questions."<Close><End of Block>
 <TextBlock 2 w:50 h:4>
 Margie
@@ -37,8 +37,8 @@ some Chiffon Nisan?<New>
 I used to eat it
 everyday in Nisan.
 I don't think they
-make it in Aveh.<New>
-Aveh used to have such
+make it in Av.<New>
+Av used to have such
 good bakers, but I
 guess they must have
 all died in the war."<Close><End of Block>
@@ -82,9 +82,11 @@ Who are you?<Close><End of Block>
 <TextBlock 13 w:14 h:2>
 Margie
 "Bart!"<Close><End of Block>
-<TextBlock 14 w:26 h:3>
+<TextBlock 14 w:30 h:3>
 Bart
-"Let's go
+"I'm sorry for
+taking so long.<New>
+Let's go
 home Margie!"<Close><End of Block>
 <TextBlock 15 w:38 h:3>
 Margie
@@ -102,9 +104,12 @@ Margie
 Margie
 "Oh, wait
 a second."<Close><End of Block>
-<TextBlock 19 w:22 h:3>
+<TextBlock 19 w:34 h:4>
 Margie
-"I really
+"A nice man
+from Geburah gave
+it to me.<New>
+I really
 like this."<Close><End of Block>
 <TextBlock 20 w:48 h:3>
 Thank you so much
@@ -115,7 +120,7 @@ Sect are deeply indebted
 to you.<Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Today we came to pray to
-god for peace in Aveh,
+god for peace in Av,
 Nisan and Kislev. <Delay 60>
 Peace be with you all.<Close><End of Block>
 <TextBlock 22 w:42 h:1>
@@ -131,7 +136,7 @@ Please wait a moment.<Opcode 2 30><Close><End of Block>
 <TextBlock 25 w:44 h:3>
 We would like to build
 Nisan churches in
-Bledavik and Dazil.<Close><End of Block>
+Breidablik and Dazil.<Close><End of Block>
 <TextBlock 26 w:42 h:1>
 Please wait a moment.<Opcode 2 30><Close><End of Block>
 <TextBlock 27 w:44 h:3>
