@@ -27,7 +27,7 @@ lots of power and
 ambition, just like me.<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 This guy was once an
-Aveh soldier.<Delay 10> 
+Av soldier.<Delay 10> 
 You just can't predict
 destiny, can ya?<New>
 We used to fight each
@@ -40,10 +40,10 @@ I'm hungry<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 8 w:22 h:1>
 This's bad!<Close><End of Block>
 <TextBlock 9 w:56 h:4>
-You from Aveh? <Delay 10>
+You from Av? <Delay 10>
 Oh, you're not. 
-Well I was an Aveh soldier.<New>
-Aveh's Prime Minister,
+Well I was an Av soldier.<New>
+Av's Prime Minister,
 Shakhan, has so much
 military clout that he can
 send us students off to war.<New>
@@ -84,8 +84,8 @@ There's a story behind this
 model.
 Let me tell you about it...<New>
 Twelve years ago, Sigurd took
-Bart out of Aveh. They stole
-Aveh's most powerful warship
+Bart out of Av. They stole
+Av's most powerful warship
 and totally remodeled it.<New>
 They renamed it the
 'Yggdrasil'.<New>
@@ -106,8 +106,8 @@ Well, let me tell you the
 story behind it, cause might
 just change your mind...<New>
 Twelve years ago, Sigurd took
-Bart out of Aveh. They stole
-Aveh's most powerful warship
+Bart out of Av. They stole
+Av's most powerful warship
 and totally remodeled it.<New>
 They renamed it the
 'Yggdrasil'.
@@ -384,7 +384,7 @@ from Shakhan's evil grasp."<Close><End of Block>
 Citan
 "Then why must the prince,
 the rightful heir, resort
-to piracy<Delay 5>...?"<Close><End of Block>
+to piracy?"<Close><End of Block>
 <TextBlock 84 w:12 h:2>
 Maison
 "<Delay 5>...<Delay 5>"<Close><End of Block>
@@ -422,7 +422,7 @@ Maison
 "Regardless of who gains
 the ruins' technology,
 one thing is certain...<New>
-Both Kislev and Aveh will
+Both Kislev and Av will
 simply use that power to
 oppress the other.<New>
 I agreed with the young
@@ -441,7 +441,7 @@ Maison
 "Of course pillaging is
 an unpardonable act.<New>
 However<Delay 5>...<Delay 5>
-for Aveh,<Delay 5>
+for Av,<Delay 5>
 for Ignas, <Delay 5>
 to continue like this<Delay 5>..."<Close><End of Block>
 <TextBlock 93 w:46 h:2>
@@ -502,8 +502,9 @@ Maison
 <TextBlock 104 w:46 h:4>
 Citan
 "The Fatima Jasper that
-is said to show where
-great treasure is?"<Close><End of Block>
+is said to show<New> 
+where supposed great 
+treasure is?"<Close><End of Block>
 <TextBlock 105 w:50 h:4>
 Maison
 "My, good Doctor!<Delay 10>
@@ -549,7 +550,7 @@ imagine some kind
 of necklace<Delay 5>..."<Close><End of Block>
 <TextBlock 111 w:46 h:4>
 Maison
-"Only the heirs to Aveh
+"Only the heirs to Av
 and Nisan know what it
 really looks like."<Close><End of Block>
 <TextBlock 112 w:42 h:4>
@@ -626,7 +627,7 @@ Bart
 "Oh, yeah.<New>
 You know, something like
 that is drawn in one of
-the Aveh picture scrolls."<Close><End of Block>
+the Av picture scrolls."<Close><End of Block>
 <TextBlock 125 w:36 h:2>
 Citan
 "Picture scrolls?"<Close><End of Block>
