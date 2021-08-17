@@ -8,7 +8,7 @@ This way!"<Close><End of Block>
 Elly
 "Whew..."<Close><End of Block>
 <TextBlock 4 w:28 h:4>
-Renk
+Rank
 "What's wrong?
 Something 
 bugging you?"<Close><End of Block>
@@ -32,7 +32,7 @@ just going to drop them
 for fun.<New>
 You bet I'm worried."<Close><End of Block>
 <TextBlock 6 w:32 h:3>
-Helmholz
+Helmholtz
 "Maybe to purge 
 the Lambs?"<Close><End of Block>
 <TextBlock 7 w:48 h:4>
@@ -44,16 +44,16 @@ reason. I can't go along
 with this just because
 it's an order."<Close><End of Block>
 <TextBlock 8 w:16 h:2>
-Renk
+Rank
 "Hmm..."<Close><End of Block>
 <TextBlock 9 w:14 h:2>
 Elly
 "What?"<Close><End of Block>
 <TextBlock 10 w:24 h:2>
-Renk
+Rank
 "Nothing..."<Close><End of Block>
 <TextBlock 11 w:54 h:4>
-Renk
+Rank
 "Even though we are called
 Solarians, we are 3rd Class
 Citizens or 'Worker Bees'.<New>
@@ -74,7 +74,7 @@ Elly
 have nothing to do
 with it."<Close><End of Block>
 <TextBlock 13 w:48 h:4>
-Renk
+Rank
 "Well, if you ask me,
 a 1st Class citizen
 thinking like this is...<New>
@@ -84,7 +84,7 @@ Elly
 "Not really...
 It's quite natural."<Close><End of Block>
 <TextBlock 15 w:42 h:3>
-Helmholz
+Helmholtz
 "...So, how about it?
 Are you gonna do it?"<Close><End of Block>
 <TextBlock 16 w:42 h:4>
@@ -100,7 +100,7 @@ escorting the Hecht.<New>
 I won't help with 
 anything else."<Close><End of Block>
 <TextBlock 18 w:48 h:3>
-Helmholz
+Helmholtz
 "...But, what if
 something happens?<New>
 You're just backing
@@ -110,7 +110,7 @@ Elly
 "...Can't be helped,
 I guess..."<Close><End of Block>
 <TextBlock 20 w:44 h:4>
-Renk
+Rank
 "Well, either is fine
 for us. Just do what
 you're told.<New>
@@ -149,7 +149,7 @@ enemy!"<Close><End of Block>
 Bart
 "Not an enemy? Are you
 sane? Look at her uniform!
-She's a Gebler officer!"<Close><End of Block>
+She's a Geburah officer!"<Close><End of Block>
 <TextBlock 30 w:10 h:2>
 Fei
 "..."<Close><End of Block>
@@ -169,7 +169,7 @@ Dominia
 "Krelian<Delay 5>...?<Delay 50>
 A countervailing
 existence<Delay 5>...?<New>
-That Miang<Delay 5>...<Delay 5>
+That Myyah<Delay 5>...<Delay 5>
 what's she up to<Delay 5>...?<Delay 50>
 I had better warn
 the Commander<Delay 5>...!"<Close><Close><End of Block>
