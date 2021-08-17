@@ -103,7 +103,7 @@ kind of ship from there."<Close><End of Block>
 Bart
 "Under the sand?<Delay 16>
 This is the only sand
-cruiser in all of Aveh!"<Close><End of Block>
+cruiser in all of Av!"<Close><End of Block>
 <TextBlock 26 w:50 h:4>
 Bart
 "...Alright!
