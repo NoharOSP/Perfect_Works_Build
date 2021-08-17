@@ -1,5 +1,5 @@
 <TextBlock 1 w:46 h:4>
-Miang
+Myyah
 "What's wrong?<Delay 50>
 You look like you have
 just had a nightmare...<New>
@@ -10,15 +10,15 @@ Ramsus
 "No...<Delay 30>
 It was nothing."<Close><End of Block>
 <TextBlock 3 w:18 h:2>
-Miang
-"Kahr..."<Opcode 2 50><Close><End of Block>
+Myyah
+"Carl..."<Opcode 2 50><Close><End of Block>
 <TextBlock 4 w:30 h:4>
-Miang
+Myyah
 "Peeping is not
 very becoming,
 you know...!?"<Close><End of Block>
 <TextBlock 5 w:52 h:4>
-Miang
+Myyah
 "Heh heh... I saw the boy
 that you are after fight
 in the Tournament...<New>
@@ -35,7 +35,7 @@ think about plotting
 against me.<New>
 You stay out of this!"<Close><End of Block>
 <TextBlock 7 w:46 h:3>
-Miang
+Myyah
 "Oh, I see the news has
 already reached you...<New>
 As usual, you're the
