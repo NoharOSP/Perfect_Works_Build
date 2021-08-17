@@ -23,14 +23,14 @@ I will take you on in
 their place.<Delay 20>
 Come on!"<Close><End of Block>
 <TextBlock 4 w:30 h:2>
-Broyer
+Breuer
 "Eeeaaarrrgh!!"<Close><End of Block>
 <TextBlock 5 w:26 h:3>
-Broyer
+Breuer
 "H, hey,
 that hurts!!"<Close><End of Block>
 <TextBlock 6 w:32 h:4>
-Broyer
-"??<Delay 20>
-What are you
-talking about!?"<Close><Close><Close><Close><Close><UNKNOWN CHUNK 208><Close><End of Block>
+Breuer
+"Huh?<Delay 20>
+Geezer, what are 
+you talking about!?"<Close><Close><Close><Close><Close><UNKNOWN CHUNK 208><Close><End of Block>
