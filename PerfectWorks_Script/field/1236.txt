@@ -4,8 +4,8 @@ Fei
 the seas like this?"<Close><End of Block>
 <TextBlock 2 w:38 h:3>
 Fei
-"Why is the 'Ethos'
-involved...?"<Close><End of Block>
+"Why is the 'Church
+of Ethos' involved...?"<Close><End of Block>
 <TextBlock 3 w:6 h:1>
 ...<Opcode 2 100><Close><End of Block>
 <TextBlock 4 w:20 h:2>
@@ -39,7 +39,7 @@ to sit around here."<Close><End of Block>
 Captain
 "But, isn't the view just
 splendid from here? This
-beer hall is Thames' pride.<New>
+beer hall is Tamuz's pride.<New>
 You probably think it's a
 wee bit peculiar having a
 beer hall right next to the
