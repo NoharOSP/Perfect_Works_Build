@@ -124,7 +124,7 @@ was me who took'm out..."<Close><End of Block>
 Hammer
 "Bro, what're we gonna
 do now?
-Go to Aveh as planned?"<Close><End of Block>
+Go to Av as planned?"<Close><End of Block>
 <TextBlock 29 w:26 h:2>
 Hammer
 "M, Master!?"<Close><End of Block>
@@ -195,7 +195,7 @@ Elly
 "Anyway, Citan is it
 okay? We're flying in
 such a large ship. <New>
-What if Kislev or Aveh
+What if Kislev or Av
 finds us..."<Close><End of Block>
 <TextBlock 46 w:52 h:4>
 Citan
