@@ -62,11 +62,11 @@ we'll be enemies."<Close><End of Block>
 <TextBlock 15 w:22 h:1>
 Commander!!<Opcode 2 60><Close><End of Block>
 <TextBlock 16 w:50 h:3>
-Renk
+Rank
 "What? This little girl's
 our commanding officer?"<Close><End of Block>
 <TextBlock 17 w:34 h:4>
-Broyer
+Breuer
 "She's said to be
 an elite from out
 of Jugend."<Close><End of Block>
@@ -76,12 +76,12 @@ Stratski
 handedly from the Kislev
 infiltration operation."<Close><End of Block>
 <TextBlock 19 w:46 h:4>
-Helmholz
+Helmholtz
 "And 'empty-handedly' I
 hear! No souvenirs for
 the Commander, huh?"<Close><End of Block>
 <TextBlock 20 w:38 h:4>
-Renk
+Rank
 "Yep, what a pretty
 face. She's not the
 soldier type."<Close><End of Block>
@@ -92,18 +92,18 @@ Is that how you address
 a superior officer?<New>
 Remember your rank!"<Close><End of Block>
 <TextBlock 22 w:24 h:2>
-Renk
+Rank
 "Oh, scary!"<Close><End of Block>
 <TextBlock 23 w:48 h:4>
 Vance
 "We don't care much for
 rank<Delay 5>...<Delay 5>and we don't care
-much for Renk either!<New>
+much for Rank either!<New>
 But just because you're
 beautiful doesn't mean
 you have to be cocky."<Close><End of Block>
 <TextBlock 24 w:32 h:3>
-Broyer
+Breuer
 "Ha! This jerk's
 just jealous."<Close><End of Block>
 <TextBlock 25 w:50 h:3>
@@ -115,7 +115,7 @@ Stratski
 "Hey, shut that perv up!
 He gives me the creeps."<Close><End of Block>
 <TextBlock 27 w:48 h:4>
-Renk
+Rank
 "And that's how it is...<Delay 10>
 So don't get in our way,
 'Miss Lieutenant'."<Close><End of Block>
@@ -123,7 +123,7 @@ So don't get in our way,
 Elly
 "..."<Opcode 2 100><Close><End of Block>
 <TextBlock 29 w:44 h:3>
-Renk
+Rank
 "...Anyway, let's just
 get this thing moving.<New>
 Can't tell what it can
@@ -135,7 +135,7 @@ Stratski
 this? I've never seen it
 before."<Close><End of Block>
 <TextBlock 31 w:54 h:4>
-Renk
+Rank
 "It's a new model Gear,
 called <Vierge>, that's
 for officers' use only.<New>
