@@ -17,13 +17,15 @@ Don't like him!"<Close><End of Block>
 <TextBlock 5 w:10 h:2>
 Rico
 "Ah!"<Opcode 2 20><Close><End of Block>
-<TextBlock 6 w:22 h:2>
+<TextBlock 6 w:26 h:3>
 Rico
-"Not good!"<Opcode 2 30><Close><End of Block>
-<TextBlock 7 w:28 h:3>
+"Ah crap!
+The Kaiser?!"<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:36 h:4>
 Rico
-"Coming again!
-Laaater..."<Opcode 2 20><Close><End of Block>
+"This is bad!
+I gotta get the
+hell outta here!!"<Opcode 2 20><Close><End of Block>
 <TextBlock 8 w:34 h:3>
 Rico
 "Because a mutant
@@ -64,7 +66,7 @@ destroy Kislev?"<Close><End of Block>
 <TextBlock 19 w:48 h:3>
 Sigmund
 "Indeed it would be easy
-to take down Aveh.<New>
+to take down Av.<New>
 But it would exhaust our
 resources also."<Close><End of Block>
 <TextBlock 20 w:52 h:4>
@@ -122,7 +124,7 @@ Associate
 Associate
 "We investigated the cause
 of the recent explosion at
-the southern Aveh border.<New>
+the southern Av border.<New>
 Our data showed a large
 amount of radiation was
 released at the epicenter.<New>
@@ -133,9 +135,9 @@ The cause of this is still
 unknown.<New>
 The shockwaves from that
 explosion took out two
-thirds of the Aveh and 
-Gebler forces combined.<New>
-Now, Aveh is in the process
+thirds of the Av and 
+Geburah forces combined.<New>
+Now, Av is in the process
 of regrouping their reserve
 units, but that should take
 at least several days."<Close><End of Block>
@@ -151,7 +153,7 @@ Associate
 Associate
 "We know the Gear found was
 stolen from the 11th base
-by the Gebler unit in Aveh.<New>
+by the Geburah unit in Av.<New>
 And in the investigation of
 the machine, we also caught
 the unconscious pilot.<New>
@@ -159,13 +161,13 @@ The seized Gear has been
 transported to the capital.<New>
 From the circumstances, we
 believe information was
-leaked to Aveh."<Close><End of Block>
+leaked to Av."<Close><End of Block>
 <TextBlock 34 w:54 h:4>
 Associate
 "All the Gears except this
 were destroyed at Lahan.<New>
 Judging from the ID signal,
-this one wasn't with Aveh
+this one wasn't with Av
 but was part of a pirate
 group."<Close><End of Block>
 <TextBlock 35 w:22 h:2>
@@ -187,10 +189,10 @@ brought in by 'them'."<Close><End of Block>
 <TextBlock 38 w:34 h:2>
 Associate
 "...Uh<Delay 40>...Kaiser?"<Close><End of Block>
-<TextBlock 39 w:40 h:3>
+<TextBlock 39 w:38 h:3>
 Associate
 "Shouldn't we begin
-an assault on Aveh?"<Close><End of Block>
+an assault on Av?"<Close><End of Block>
 <TextBlock 40 w:18 h:2>
 Associate
 "Huh?"<Close><End of Block>
@@ -234,7 +236,7 @@ get even more money.<Close><End of Block>
 Received 1G.<Close><End of Block>
 <TextBlock 52 w:24 h:1>
 Received 1G.<Close><End of Block>
-<TextBlock 53 w:63 h:5>
+<TextBlock 53 w:38 h:5>
 <Opcode 1 255>    Stop already!
     Once more
 This is your <Opcode 10 0> time
@@ -299,6 +301,6 @@ You cheated didn't you?<Close><End of Block>
 <TextBlock 79 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 80 w:40 h:2>
+<TextBlock 80 w:20 h:2>
  
  Received <Opcode 4 20><Close><Close><End of Block>
