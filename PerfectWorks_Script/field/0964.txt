@@ -45,26 +45,26 @@ pattern cancelled!<Delay 16>
 <TextBlock 9 w:54 h:4>
 Ramsus
 "Th, that Gear! No mistake!
-It's him! Demon of Elru...!<Delay 50>
-Miang! Let's go!"<Close><End of Block>
+It's him! Demon of Elul...!<Delay 50>
+Myyah! Let's go!"<Close><End of Block>
 <TextBlock 10 w:26 h:3>
 Ramsus
 "Ah...<Delay 16>
 That is...!!"<Close><End of Block>
 <TextBlock 11 w:40 h:4>
-Miang
+Myyah
 "Oh?<Delay 24>
 It's unusual for you
 to get lost."<Close><End of Block>
 <TextBlock 12 w:52 h:2>
-Miang
+Myyah
 "Commander?...Ha, Ha, Ha."<Close><End of Block>
 <TextBlock 13 w:56 h:3>
-Miang
+Myyah
 "Calm down. <Delay 32>Put the analyzed
 picture on the monitor."<Close><End of Block>
 <TextBlock 14 w:48 h:3>
-Miang
+Myyah
 "Commander! Please wait!
 Commander!!"<Close><End of Block>
 <TextBlock 15 w:22 h:2>
@@ -116,7 +116,7 @@ Set 1 and 2 for homing,
 3 for anti-radar.<New>
 Tubes 4-6, Makara Mk5
 sand torpedoes. After
-acquiring target set all
-to passive homing.<New>
+acquiring the target
+set all to passive homing.<New>
 All units, begin defensive
 fire. Aim for the main ship.<Close><Close><End of Block>
