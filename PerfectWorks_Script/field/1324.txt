@@ -1,8 +1,9 @@
-<TextBlock 1 w:38 h:4>
+<TextBlock 1 w:44 h:3>
 Elly
-"No mistake!<Delay 30>
+"No mistake!<Delay 30><New>
 This has to be the
-'Ethos' data bank!"<Close><End of Block>
+'Church of the Ethos' 
+data bank!"<Close><End of Block>
 <TextBlock 2 w:38 h:4>
 Elly
 "<Delay 5>...<Delay 10>Wait a minute!<Delay 15>
@@ -15,13 +16,14 @@ No matter how vast this
 world is, such advanced
 equipment as this could
 only come from Solaris."<Close><End of Block>
-<TextBlock 4 w:46 h:4>
+<TextBlock 4 w:50 h:3>
 Elly
 "<Opcode 1 255>Look, here! <Opcode 1 0><New>
 The destinations of all
 resources collected by
-the 'Ethos' through
-trade with each area...<New>
+the 'Church of the Ethos'<New>
+through trade with each 
+area...<New>
 All the resources are
 being sent on to the
 Solaris homeland."<Close><End of Block>
@@ -37,7 +39,7 @@ Hold on<Delay 5>...<Delay 5>...<Delay 5>
 Ummm<Delay 5>...<Delay 5>...<Delay 5>
 What is this<Delay 5>...<Delay 5>...?<Delay 5>
 ...<Delay 5>...<Delay 5>...<Delay 5>...<Delay 5>..."<Close><End of Block>
-<TextBlock 7 w:52 h:4>
+<TextBlock 7 w:68 h:4>
 Elly
 "Hold on!
 It's hard to translate
@@ -55,13 +57,13 @@ re-education<Delay 5>...<New>
 11-16<Delay 5> to be uniformly
 distributed<Delay 5>...<New>
 Put into practice<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>'Ethos' established
-as an organization<Delay 5>...<New>
+<Delay 5>...<Delay 5>'Church of the Ethos' 
+established as an organization<Delay 5>...<New>
 <Delay 5>...<Delay 5>Supervision by elders
 <Delay 5>...<Delay 5>conference<Delay 5>...<Delay 5>
 supervision by the Gazel!?<New>
-The 'Ethos' is<Delay 5>...!?"<Close><End of Block>
-<TextBlock 8 w:54 h:4>
+The 'Church of the Ethos' is<Delay 5>...!?"<Close><End of Block>
+<TextBlock 8 w:66 h:4>
 Elly
 "In short,<Delay 5>
 it's like this<Delay 5>...<New>
@@ -83,14 +85,16 @@ to dwell as separate races
 and were thus supervised.<New>
 To carry out the actual
 supervision, Solaris
-established the 'Ethos'.<New>
-So the 'Ethos' is actually
-controlled by the 'Gazel
-Ministry',<Delay 5> or Solaris'
-highest governmental body.<New>
-So,<Delay 5> yes,<Delay 5> the 'Ethos' is
-really a 'front',<Delay 5> or a
-subsidiary organization,<Delay 5>
+established the 'Church 
+of the Ethos'.<New>
+So the 'Church of the Ethos' 
+is actually controlled by the 
+'Gazel Ministry',<Delay 5><New>
+or Solaris' highest governmental 
+body.<New>
+So,<Delay 5> yes,<Delay 5> the 'Church of the 
+Ethos' is really a 'front',<Delay 5> 
+or a subsidiary organization,<Delay 5>
 working for Solaris!<New>
 Excavation findings, goods
 and natural resources from
@@ -129,7 +133,10 @@ there as manual labor."<Close><End of Block>
 Elly
 "So, do you think Solaris
 is responsible for this
-attack on the 'Ethos'?"<Close><End of Block>
+attack<New>
+
+on the 'Church of the
+Ethos'?"<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Elly
 "We're going to
@@ -256,23 +263,24 @@ Citan and Bart, can
 you please rescue and
 accompany that 'Shevite'
 to the Yggdrasil?"<Close><End of Block>
-<TextBlock 24 w:38 h:4>
+<TextBlock 24 w:44 h:3>
 Citan
-"I am sure of it.<Delay 30>
+"I am sure of it.<Delay 30><New>
 This has to be the
-'Ethos' data bank."<Close><End of Block>
-<TextBlock 25 w:54 h:4>
+'Church of the Ethos' 
+data bank."<Close><End of Block>
+<TextBlock 25 w:58 h:4>
 Citan
 "I say...<Delay 5>a facility of
 this magnitude would even
 be hard to find in Solaris.<New>
-Why would the 'Ethos'
-have such a set up?"<Close><End of Block>
+Why would the 'Church of the 
+Ethos' have such a set up?"<Close><End of Block>
 <TextBlock 26 w:42 h:3>
 Citan
 "Hmm<Delay 5>...<Delay 10>
 the plot thickens<Delay 5>..."<Close><End of Block>
-<TextBlock 27 w:52 h:4>
+<TextBlock 27 w:60 h:4>
 Citan
 "Here is a relatively
 recent record<Delay 5>...<New>
@@ -282,8 +290,8 @@ amount of people
 sent to Solaris<Delay 5>...<New>
 The majority of them were
 people who had come to the
-'Ethos' seeking help or
-spiritual salvation."<Close><End of Block>
+'Church of the Ethos' seeking 
+help or spiritual salvation."<Close><End of Block>
 <TextBlock 28 w:30 h:3>
 Citan
 "This could be
@@ -298,7 +306,7 @@ Citan
 Bart
 "The 44th salvage plan?<New>
 Isn't that what the
-captain of the Thames
+captain of the Tamuz
 was talking about?"<Close><End of Block>
 <TextBlock 32 w:48 h:4>
 Citan
@@ -313,7 +321,7 @@ It was commenced about
 ... 19 years ago.<Wait>
 Allow me to display
 the data..."<Close><End of Block>
-<TextBlock 33 w:54 h:4>
+<TextBlock 33 w:56 h:4>
 Citan
 "So, from this, it appears
 that under Aquvy lies an
@@ -328,8 +336,10 @@ Hmm<Delay 5>...<Delay 5>I see, so this must
 be their intention<Delay 5>...<New>
 My assessment of the
 circumstances is that the
-'Ethos' is attempting to
-break away from Solaris<Delay 5>...<New>
+'Church of the Ethos'<New>
+
+is attempting to break away 
+from Solaris<Delay 5>...<New>
 And once freed from its
 master,<Delay 5> it is likely to
 attempt<Delay 5> world
@@ -348,13 +358,15 @@ The fact that they are
 not reporting the results,<Delay 5>
 let alone the site's very
 existence,<Delay 5> gives it away<Delay 5>...<New>
-The 'Ethos' is planning
-to revolt by monopolizing
-this ultra-advanced
+The 'Church of the Ethos' 
+is planning to revolt<New>
+
+by monopolizing this 
+ultra-advanced 
 civilization's resources!<New>
 Actually, such rebellions
 have been quite common<Delay 5>..."<Close><End of Block>
-<TextBlock 36 w:55 h:4>
+<TextBlock 36 w:54 h:4>
 Citan
 "Yes, that is probably it.<Wait>
 Shall we move along? There
@@ -364,9 +376,10 @@ Citan
 "It is okay.<Delay 10> I have
 adjusted the computer
 to keep that lock open."<Close><End of Block>
-<TextBlock 38 w:48 h:2>
+<TextBlock 38 w:46 h:3>
 Bart
-"The 'Ethos' data bank?"<Close><End of Block>
+"The 'Church of Ethos' 
+data bank?"<Close><End of Block>
 <TextBlock 39 w:48 h:4>
 Bart
 "Anyway, this isn't
@@ -382,9 +395,9 @@ Bart
 "Yeah, but even then<Delay 5>...<Delay 10>
 this place is damn well
 equipped.<Delay 10> Look at it!"<Close><End of Block>
-<TextBlock 42 w:30 h:2>
+<TextBlock 42 w:28 h:2>
 Bart
-"So, <Delay 10>Solaris!?"<Close><End of Block>
+"So-<Delay 10>Solaris!?"<Close><End of Block>
 <TextBlock 43 w:44 h:3>
 Bart
 "What's going on here?
@@ -412,12 +425,12 @@ it to the main displays."<Close><End of Block>
 <TextBlock 47 w:54 h:4>
 Bart
 "What the heck is this!?
-Why's the 'Ethos' looking
+Why's the 'Church' looking
 into this kinda stuff?<New>
 On top of that,<Opcode 1 255> that<Delay 20>
 <Opcode 1 0>Shakhan's a bishop!?<Delay 30> Wasn't
 he excommunicated from the
-'Ethos' 17 years ago!?"<Close><End of Block>
+'Church' 17 years ago!?"<Close><End of Block>
 <TextBlock 48 w:52 h:3>
 Bart
 "There's a terminal switch
@@ -452,18 +465,19 @@ How about it, Elly?"<Close><End of Block>
 Rico
 "So this is the source
 of their labor supply."<Close><End of Block>
-<TextBlock 56 w:54 h:4>
+<TextBlock 56 w:58 h:4>
 Billy
 "Judging from our position,
 this room is right under
 the cathedral...<New>
 Which could mean that this
-is the 'Ethos'<Delay 10> data bank?"<Close><End of Block>
+is the 'Church of the Ethos'<Delay 10> 
+data bank?"<Close><End of Block>
 <TextBlock 57 w:52 h:4>
 Billy
 "This data bank holds all
 the information concerning
-the 'Ethos'.<New>
+the 'Church of the Ethos'.<New>
 From the past to the
 present... everything!<Delay 10>
 This facility is strictly
@@ -475,11 +489,12 @@ Billy
 "Don't ask me<Delay 5>...<Delay 10>
 How would I know<Delay 5>...<Delay 10> This is
 my first time in here<Delay 5>...!"<Close><End of Block>
-<TextBlock 59 w:44 h:4>
+<TextBlock 59 w:46 h:3>
 Billy
 "B, but, why would the
-'Ethos' be sending
-supplies to Solaris!?"<Close><End of Block>
+'Church of the Ethos'<New>
+be sending supplies to 
+Solaris!?"<Close><End of Block>
 <TextBlock 60 w:36 h:4>
 Billy
 "This can't be!<Delay 5>
@@ -493,11 +508,12 @@ like me..."<Close><End of Block>
 Billy
 "But that's impossible<Delay 5>...!<Delay 5>
 How could that be<Delay 5>..."<Close><End of Block>
-<TextBlock 63 w:54 h:4>
+<TextBlock 63 w:60 h:3>
 Billy
-"Even<Delay 5> if that was the case,<Delay 5>
+"Even<Delay 5> if that was the case,<Delay 5><New>
 who would kill all those
-'Ethos' people,<Delay 5> and why!?"<Close><End of Block>
+'Church of the Ethos' people,<Delay 5> 
+and why!?"<Close><End of Block>
 <TextBlock 64 w:30 h:4>
 Billy
 "The 'Ethos'<Delay 5>...<Delay 5>
@@ -535,7 +551,7 @@ Rico
 "Yeah, as I thought, huh."<Close><End of Block>
 <TextBlock 71 w:46 h:3>
 Rico
-"The 'Ethos' has been
+"The 'Church' has been
 assaulted by someone<Delay 5>...<New>
 And in the basement<Delay 5>...<Delay 10>
 we find a Solarian
@@ -549,15 +565,15 @@ Rico
 "That can't be the case
 if he's been sending in
 regular reports."<Close><End of Block>
-<TextBlock 74 w:46 h:3>
+<TextBlock 74 w:48 h:3>
 Rico
 "It's all a front!<New>
-The 'Ethos' is really a
+The 'Church' is really a
 subsidiary organization
 of Solaris."<Close><End of Block>
 <TextBlock 75 w:52 h:4>
 Rico
-"So, the 'Ethos' has
+"So, the 'Church' has
 been manipulating us, heh.<Delay 20>
 Anything else?"<Close><End of Block>
 <TextBlock 76 w:48 h:4>
@@ -609,7 +625,7 @@ Hold on<Delay 5>...<Delay 5>...<Delay 5>
 Ummm<Delay 5>...<Delay 5>...<Delay 5>
 What is this<Delay 5>...<Delay 5>...?<Delay 5>
 ...<Delay 5>...<Delay 5>...<Delay 5>...<Delay 5>..."<Close><End of Block>
-<TextBlock 84 w:52 h:4>
+<TextBlock 84 w:68 h:4>
 Elly
 "Hold on!
 It's hard to translate
@@ -627,13 +643,13 @@ re-education<Delay 5>...<New>
 11-16<Delay 5> to be uniformly
 distributed<Delay 5>...<New>
 Put into practice<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>'Ethos' established
-as an organization<Delay 5>...<New>
+<Delay 5>...<Delay 5>'Church of the Ethos' 
+established as an organization<Delay 5>...<New>
 <Delay 5>...<Delay 5>Supervision by elders
 <Delay 5>...<Delay 5>conference<Delay 5>...<Delay 5>
 supervision by the Gazel!?<New>
-The 'Ethos' is<Delay 5>...!?"<Close><End of Block>
-<TextBlock 85 w:54 h:4>
+The 'Church of the Ethos' is<Delay 5>...!?"<Close><End of Block>
+<TextBlock 85 w:66 h:4>
 Elly
 "In short,<Delay 5>
 it's like this<Delay 5>...<New>
@@ -655,14 +671,16 @@ to dwell as separate races
 and were thus supervised.<New>
 To carry out the actual
 supervision, Solaris
-established the 'Ethos'.<New>
-So the 'Ethos' is actually
-controlled by the 'Gazel
-Ministry',<Delay 5> or Solaris'
-highest governmental body.<New>
-So,<Delay 5> yes,<Delay 5> the 'Ethos' is
-really a 'front',<Delay 5> or a
-subsidiary organization,<Delay 5>
+established the 'Church 
+of the Ethos'.<New>
+So the 'Church of the Ethos' 
+is actually controlled by the 
+'Gazel Ministry',<Delay 5><New>
+or Solaris' highest governmental 
+body.<New>
+So,<Delay 5> yes,<Delay 5> the 'Church of the 
+Ethos' is really a 'front',<Delay 5> 
+or a subsidiary organization,<Delay 5>
 working for Solaris!<New>
 Excavation findings, goods
 and natural resources from
@@ -926,7 +944,7 @@ this ultra-advanced
 civilization's resources!<New>
 Actually, such rebellions
 have been quite common<Delay 5>..."<Close><End of Block>
-<TextBlock 114 w:55 h:4>
+<TextBlock 114 w:54 h:4>
 Citan
 "Yes, that is probably it.<Wait>
 Shall we move along? There
@@ -1067,7 +1085,7 @@ coming here for help?"<Close><End of Block>
 <TextBlock 141 w:68 h:11>
 <Opcode 14 2>      IGNAS CONFLICT STATUS: 
 37th arms supplement -  upgrading
-Aveh's Gears from level D2 to D3.
+Av's Gears from level D2 to D3.
 Maintain Kislev Gears at level D2.
 Current balance = 4 : 6 ...
      REPORT BY BISHOP SHAKHAN
@@ -1093,8 +1111,8 @@ data concerning the A Class
 Battler's health conditions and
 estimated adaption rates for
 Type Y demihuman deployment...<Opcode 2 30><Close><End of Block>
-<TextBlock 145 w:66 h:1>
-<Opcode 14 1>Report No. 50227 from Nortune's D<Close><End of Block>
+<TextBlock 145 w:64 h:1>
+<Opcode 14 1>Report No. 50227 from Noatun's D<Close><End of Block>
 <TextBlock 146 w:62 h:9>
 Sigmund's forceful expulsion of
 the 'Ethos' from the central
