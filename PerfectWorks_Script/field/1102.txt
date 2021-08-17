@@ -28,7 +28,7 @@ Stupid<Delay 10>...<Delay 10>foolish<Delay 10>..."<Close><End of Block>
 <TextBlock 11 w:42 h:3>
 Elly
 "...<Delay 10>Are you<Delay 10>...<Delay 10>crying?
-<Delay 20>...<Delay 10>sorry."<Close><End of Block>
+<Delay 20>...I'm<Delay 10>...sorry."<Close><End of Block>
 <TextBlock 12 w:30 h:2>
 Fei
 "...<Delay 10>It's okay."<Close><End of Block>
