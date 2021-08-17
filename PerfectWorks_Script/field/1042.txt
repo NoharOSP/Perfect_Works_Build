@@ -66,7 +66,7 @@ Next door is your bedroom.<New>
 Oh<Delay 5>...<Delay 5>and, Fei.<Delay 15>
 Now you will be given the
 title of Champion<Delay 5> as well as
-special S Rank priviledges."<Close><End of Block>
+special S Rank privileges."<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 Rue
 "Well, congratulations
@@ -102,13 +102,13 @@ right?"<Close><End of Block>
 Hammer
 "So, <Delay 5>what are you
 gonna do now, <Delay 5>bro?<Delay 15>
-Leave Nortune?"<Close><End of Block>
+Leave Noatun?"<Close><End of Block>
 <TextBlock 21 w:50 h:4>
 Citan
 "We are not yet finished.
 There is one thing left
 to do here."<Close><End of Block>
-<TextBlock 22 w:50 h:4>
+<TextBlock 22 w:40 h:4>
 Fei
 "<Delay 5>...<Delay 5>I know.<Delay 15>
 It's <Weltall>, right?<New>
@@ -116,7 +116,7 @@ We can't just leave
 it here.<Delay 15>
 We have to get it 
 back somehow<Delay 5>..."<Close><End of Block>
-<TextBlock 23 w:54 h:4>
+<TextBlock 23 w:48 h:4>
 Citan
 "It is best if we assume
 <Weltall> has been moved
@@ -199,7 +199,7 @@ him since the incident<Delay 5>..."<Close><End of Block>
 <TextBlock 37 w:16 h:2>
 Fei
 "<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>."<Close><End of Block>
-<TextBlock 38 w:52 h:5>
+<TextBlock 38 w:50 h:5>
 Rue
 "There are no Battling
 competitions for a while
@@ -208,7 +208,7 @@ The explosive collar has
 been removed.<Delay 15>
 How about taking a walk
 around 'A Block' - the
-civilian area of Nortune?"<Close><End of Block>
+civilian area of Noatun?"<Close><End of Block>
 <TextBlock 39 w:32 h:3>
 Fei
 "<Delay 5>...<Delay 5>'A Block'...
@@ -276,13 +276,14 @@ Committee?"<Close><End of Block>
 Amazoness
 "The Battling Committee is
 made up mostly of people
-from the 'Ethos'.<New>
+from the Church.<New>
 They used to have a lot of
 pull in the government<Delay 5>...<New>
 But the current Kaiser,
 Sigmund, ousted almost all
-of the 'Ethos' influence
-from the government."<Close><End of Block>
+of the 'Church's' influence<New>
+from the government about
+30 years ago."<Close><End of Block>
 <TextBlock 53 w:54 h:5>
 Battler
 "On top of that, these
@@ -291,7 +292,7 @@ In order to strengthen the
 military or something, the
 Kaiser has started to
 interfere with the Battling
-operated by the 'Ethos'."<Close><End of Block>
+operated by the 'Church'."<Close><End of Block>
 <TextBlock 54 w:54 h:5>
 Battler
 "The Kaiser probably got in
@@ -312,7 +313,7 @@ town when he was young."<Close><End of Block>
 <TextBlock 57 w:52 h:4>
 Amazoness
 "So Rico hated the Kaiser,
-the capital Nortune, and
+the capital Noatun, and
 the whole Kislev Empire."<Close><End of Block>
 <TextBlock 58 w:40 h:3>
 Fei
@@ -470,7 +471,7 @@ Citan
 "Leave the rest to us.<Delay 15>
 And I would like you all to
 go to the arena tonight.<New>
-We will leave Nortune, but
+We will leave Noatun, but
 if they think you were all
 involved with us, I do not
 know what they might do..."<Close><End of Block>
