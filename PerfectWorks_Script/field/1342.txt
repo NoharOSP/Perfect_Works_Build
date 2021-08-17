@@ -21,11 +21,11 @@ a hospital?<New>
 But the town outside
 doesn't look so
 polluted though..."<Close><End of Block>
-<TextBlock 4 w:52 h:4>
+<TextBlock 4 w:50 h:4>
 Rico
 "Some of it looks kinda
 like the crappy Central
-District in Nortune but...<New>
+District in Noatun but...<New>
 Looks like a bunch of
 clean freaks live here."<Close><End of Block>
 <TextBlock 5 w:54 h:4>
@@ -33,9 +33,9 @@ clean freaks live here."<Close><End of Block>
 "What a great door.
 I liked the one before chu,
 but this is even better!"<Close><End of Block>
-<TextBlock 6 w:48 h:2>
+<TextBlock 6 w:36 h:2>
 Can't receive <Opcode 4 18>
 you have too many.<Close><End of Block>
-<TextBlock 7 w:38 h:2>
+<TextBlock 7 w:18 h:2>
  
 Received <Opcode 4 20><Close><Close><End of Block>
