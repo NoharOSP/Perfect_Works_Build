@@ -12,8 +12,8 @@ Bart
 But avoid any unnecessary
 deaths.<New>
 This especially goes for
-the Aveh troops<Delay 30> and also
-the people from Gebler."<Close><End of Block>
+the Av troops<Delay 30> and also
+the people from Geburah."<Close><End of Block>
 <TextBlock 3 w:30 h:3>
 Sigurd
 "Yes.<Delay 30>
@@ -62,7 +62,7 @@ up."<Close><End of Block>
 <TextBlock 13 w:58 h:3>
 Agnes
 "Long ago<Delay 30> before the Fatimas
-of Aveh were called Fatima...<New>
+of Av were called Fatima...<New>
 The royal brothers and their
 wives oversaw many prosperous
 reigns or eras.<New>
