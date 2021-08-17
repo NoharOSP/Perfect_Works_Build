@@ -51,10 +51,10 @@ you...?"<Close><End of Block>
 Bart
 "Surrounded, huh?
 How are the repairs?"<Close><End of Block>
-<TextBlock 9 w:46 h:4>
+<TextBlock 9 w:40 h:4>
 Bart
-"Sig! What has Gebler's
-'Mister Puniverse' got
+"Sig! What has that
+Geburah pushover got
 to say?"<Close><End of Block>
 <TextBlock 10 w:46 h:4>
 Bart
@@ -70,7 +70,7 @@ Surrendering isn't going to
 change Nisan's fate.<New>
 We'll lose the Yggdrasil,
 the core of our power in
-saving Aveh and Margie.<New>
+saving Av and Margie.<New>
 I know it looks bad, but
 you can still count on us!"<Close><End of Block>
 <TextBlock 12 w:54 h:3>
