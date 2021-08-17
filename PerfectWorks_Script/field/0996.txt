@@ -520,7 +520,7 @@ What are you doing here?"<Close><End of Block>
 <TextBlock 101 w:54 h:4>
 Rico
 "<Delay 5>...<Delay 5>I changed my mind.<Delay 15> I'll
-leave Nortune for a while,
+leave Noatun for a while,
 until things calm down.<New>
 You plan on seizing the new
 mega-battleship 'Goliath'?<Delay 15>
@@ -746,4 +746,4 @@ time being?"<Close><End of Block>
 <TextBlock 139 w:54 h:3>
       " WILDCAT "
 - The official bar of the
-Imperial capital, Nortune -<Close><Close><End of Block>
+Imperial capital, Noatun -<Close><Close><End of Block>
