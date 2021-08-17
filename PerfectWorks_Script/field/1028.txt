@@ -905,10 +905,11 @@ Fei
 "Oh,<Delay 5> errh, sorry!"<Close><End of Block>
 <TextBlock 181 w:52 h:4>
 Fei
-"Later, the doc said he 
-wanted to pay the courtesy
+"After you left, the doc 
+wanted to pay the courtesy 
 of burying the monster...<New>
-so I waited outside."<Close><End of Block>
+So I waited for him outside
+the sewer entrance."<Close><End of Block>
 <TextBlock 182 w:50 h:4>
 Rico
 "<Delay 5>...<Delay 5>Is that so? Oh well,
