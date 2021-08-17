@@ -7,19 +7,19 @@ Fei
 That's one down!?"<Close><End of Block>
 <TextBlock 3 w:46 h:3>
 Fei
-"What on earth are you?<New>
-No matter how often
-I knock you down
-you still get up!"<Close><End of Block>
+"How...?<New>
+What the hell are 
+you made of!? 
+Just stay down!"<Close><End of Block>
 <TextBlock 4 w:24 h:4>
 Fei
 "Guh!
-Boy are you
+Boy you're
 persistent!"<Close><End of Block>
 <TextBlock 5 w:46 h:4>
 Fei
 "Huff,<Delay 10> huff<Delay 10>.<Delay 10>.<Delay 10>.<Delay 10> Damn it!<Delay 30>
-How come...?<Delay 90> Why did it
+How come...<Delay 90> Why did it
 have to come to this?"<Close><End of Block>
 <TextBlock 6 w:24 h:4>
 Citan
