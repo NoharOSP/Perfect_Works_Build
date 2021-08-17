@@ -4,7 +4,7 @@ Ramsus
 Begin repairs and
 resupply immediately."<Close><End of Block>
 <TextBlock 2 w:54 h:4>
-Miang
+Myyah
 "The Prime Minister and
 General Vanderkaum are here
 to see you, Commander."<Close><End of Block>
@@ -13,7 +13,7 @@ Ramsus
 "Hmph, what a
 dismal welcome."<Close><End of Block>
 <TextBlock 4 w:48 h:3>
-Miang
+Myyah
 "What do you expect?
 We're on the 'surface'."<Close><End of Block>
 <TextBlock 5 w:26 h:3>
@@ -21,7 +21,7 @@ Ramsus
 "Miang, let's
 disembark."<Close><End of Block>
 <TextBlock 6 w:22 h:2>
-Miang
+Myyah
 "Yes, sir."<Close><End of Block>
 <TextBlock 7 w:58 h:3>
 We have the coordinates
@@ -75,7 +75,7 @@ Ramsus
 on emergency alert. We're
 attacking the Kislev ship."<Close><End of Block>
 <TextBlock 18 w:48 h:4>
-Miang
+Myyah
 "We can't, Commander!
 We don't have orders 
 from the capital yet.<New>
@@ -94,7 +94,7 @@ Aquvy.<Close><End of Block>
 Ramsus
 "Fine."<Close><End of Block>
 <TextBlock 22 w:44 h:4>
-Message from Kelvena.<New>
+Message from Cherubina.<New>
 Dominia is withdrawing
 in Haishao. She will
 pursue the aerial
@@ -105,7 +105,7 @@ vibrations, level 8!
 A huge formation is 
 coming this way!<Close><End of Block>
 <TextBlock 24 w:46 h:4>
-Miang
+Myyah
 "Here is the engagement
 report between Haishao
 and the enemy Gear."<Close><End of Block>
@@ -114,17 +114,17 @@ Ramsus
 "!!
 This is the..."<Close><End of Block>
 <TextBlock 26 w:50 h:3>
-Miang
+Myyah
 "I'm sure of it.<New>
-It's currently at Thames.
+It's currently at Tamuz.
 If not, somewhere in the
 ocean nearby."<Close><End of Block>
 <TextBlock 27 w:38 h:3>
 Ramsus
 "Change course!
-Head for Thames..."<Close><End of Block>
+Head for Tamuz..."<Close><End of Block>
 <TextBlock 28 w:48 h:4>
-Miang
+Myyah
 "Wait. Their mother ship
 Yggdrasil seems to be
 able to submerge.<New>
@@ -144,14 +144,14 @@ proper 'arrangements'."<Close><End of Block>
 Ramsus
 "Arrangements?"<Close><End of Block>
 <TextBlock 30 w:22 h:2>
-Miang
+Myyah
 "Yes, sir."<Close><End of Block>
 <TextBlock 31 w:46 h:3>
 Ramsus
 "All right.
 We'll try it your way."<Close><End of Block>
 <TextBlock 32 w:46 h:2>
-Miang
+Myyah
 "Thank you, Commander."<Close><End of Block>
 <TextBlock 33 w:48 h:4>
 Ramsus
@@ -159,7 +159,7 @@ Ramsus
 happened between you and
 Dominia? She was livid."<Close><End of Block>
 <TextBlock 34 w:50 h:4>
-Miang
+Myyah
 "I'm sorry. It had to
 do with that Yggdrasil
 incident earlier.<New>
@@ -174,11 +174,11 @@ That bastard!<Delay 30>
 I'll hunt him
 out myself...!"<Close><End of Block>
 <TextBlock 36 w:36 h:3>
-Kelvena
+Cherubina
 "Please calm down,
 Commander!"<Close><End of Block>
 <TextBlock 37 w:42 h:3>
-Tolone
+Throne
 "We'll take care of
 him and his friends!"<Close><End of Block>
 <TextBlock 38 w:50 h:4>
