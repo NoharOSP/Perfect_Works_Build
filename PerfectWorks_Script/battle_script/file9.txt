@@ -14,7 +14,7 @@ that won't happen!"<Close><End of Block>
 Fei
 "Elly!
 Are you alright?!<New>
-Darn!
+Damn!
 She's unconscious!"<Close><End of Block>
 <TextBlock 5 w:46 h:4>
 Fei
@@ -27,9 +27,8 @@ Fei
 Damn it!"<Close><End of Block>
 <TextBlock 7 w:44 h:4>
 Fei
-"Doc.
-I have a favor to ask!<New>
-I will defeat this
+"Doc!<New>
+I'll defeat this
 monster!<New>
 But, if it looks like
 I'll go out of control
