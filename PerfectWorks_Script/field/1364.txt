@@ -119,9 +119,9 @@ change into human
 form...?"<Close><End of Block>
 <TextBlock 21 w:50 h:4>
 Billy
-"Who in heavens are you!?
-We don't have time to
-waste talking to you!"<Close><End of Block>
+"Who in the heavens are 
+you!? We don't have time 
+to waste talking to you!"<Close><End of Block>
 <TextBlock 22 w:50 h:4>
 Billy
 "...<Delay 45>Do you guys just have
@@ -135,7 +135,8 @@ Billy
 "An honorable person?
 I certainly do not think
 you are honorable anymore.<New>
-Eliminating the 'Ethos'
+Eliminating the 'Church of 
+the Ethos'<New>
 and any surface-dwelling
 humans who don't agree
 with your own will..."<Close><End of Block>
@@ -211,7 +212,7 @@ Stone
 nanomachine colony
 with me, thank you...<New>
 That is the existence, or
-key -factor-, which god
+key 'factor', which god
 will guide us by to free
 humanity from its yoke."<Close><End of Block>
 <TextBlock 37 w:52 h:2>
@@ -258,9 +259,10 @@ Stone
 this nanomachine colony
 back to Krelian.<New>
 You see, unlike the
-'Ethos', our aim is not
-the ancient weapons that
-lay in the city ruins.<New>
+'Church of the Ethos',<New> 
+our aim is not the ancient 
+weapons that lay in the 
+city ruins.<New>
 I don't think we conflict
 with your interests."<Close><End of Block>
 <TextBlock 42 w:54 h:4>
@@ -280,7 +282,7 @@ It's time for you to do
 your job, Elements."<Close><End of Block>
 <TextBlock 44 w:38 h:4>
 Stone
-"Tolone! Seraphita!
+"Throne! Seraphita!
 Buy me as much time
 as possible!"<Close><End of Block>
 <TextBlock 45 w:30 h:4>
@@ -299,12 +301,12 @@ I wouldn't tell you..."<Close><End of Block>
 <TextBlock 47 w:16 h:1>
 ...Hmph!<Close><End of Block>
 <TextBlock 48 w:36 h:4>
-Tolone
+Throne
 "We know, we know!
 Stop ordering us
 around, already!"<Close><End of Block>
 <TextBlock 49 w:40 h:4>
-Tolone
+Throne
 "Yeah, right.
 It's only because it
 is on Ramsus orders.<New>
@@ -313,12 +315,12 @@ Now he's got us
 protecting this
 garbage."<Close><End of Block>
 <TextBlock 50 w:50 h:4>
-Tolone
+Throne
 "Well, that's how it is
 folks...It'll help us if
 you'd hurry up and lose."<Close><End of Block>
 <TextBlock 51 w:50 h:4>
-Tolone
+Throne
 "Well, excu<~>se us!
 But we can't let you go
 just yet...<New>
@@ -331,7 +333,7 @@ reviving her, we can get
 this mission over with
 sooner than we thought."<Close><End of Block>
 <TextBlock 52 w:52 h:4>
-Tolone
+Throne
 "Oh Sera...
 Don't tell them that!<New>
 Just as I was building
@@ -339,7 +341,7 @@ things up to make us sound
 psychologically superior
 to them! Damn..."<Close><End of Block>
 <TextBlock 53 w:52 h:4>
-Tolone
+Throne
 "That's 'Positronic-photon
 Brain', you idiot!<New>
 'Gin n'tonic Futon'...?
@@ -353,13 +355,13 @@ That's bound to get us
 into trouble with the
 makers of 'Star Trech'!)"<Close><End of Block>
 <TextBlock 54 w:32 h:2>
-Tolone
+Throne
 "Uh oh!! Sorry."<Close><End of Block>
 <TextBlock 55 w:26 h:2>
-Tolone
+Throne
 "That's it!!"<Close><End of Block>
 <TextBlock 56 w:36 h:4>
-Tolone
+Throne
 "Seraphita!!
 Enough already!<New>
 We've done the job
@@ -368,13 +370,13 @@ of us.
 Let's pull out!!"<Close><End of Block>
 <TextBlock 57 w:52 h:4>
 Seraphita
-"Hey, Tolone. Let's hurry
+"Hey, Throne. Let's hurry
 up and get this over with
 so we can get outta here!<New>
 I don't like dark places!"<Close><End of Block>
 <TextBlock 58 w:44 h:3>
 Seraphita
-"Hey! Tolone!
+"Hey! Throne!
 It's so cute<Delay 16>...<New>
 But on second thought,
 it's creepy!!"<Close><End of Block>
@@ -394,7 +396,7 @@ say thank you. That's what
 grandma always said..."<Close><End of Block>
 <TextBlock 61 w:54 h:3>
 Seraphita
-"But, I'm impressed Tolone!
+"But, I'm impressed Throne!
 'Psychologically superior'?<New>
 Your 'Gin n'tonic Futon
 Brain' cyborg inplants
@@ -404,11 +406,11 @@ Seraphita
 "Sorry!!"<Close><End of Block>
 <TextBlock 63 w:38 h:4>
 Seraphita
-"...Tolone,
+"...Throne,
 do we want to be 
 called 'harmless'?"<Close><End of Block>
 <TextBlock 64 w:26 h:4>
 Seraphita
 "A<~>hh!
-Tolone!
+Throne!
 Wait for me!"<Close><Close><End of Block>
