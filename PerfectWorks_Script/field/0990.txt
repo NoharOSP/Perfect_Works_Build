@@ -13,14 +13,14 @@ Let's get it over with!"<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Ramsus
 "Don't do anything 
-unwarranted, Miang! 
+unwarranted, Myyah! 
 I still have one arm!!"<Close><End of Block>
 <TextBlock 4 w:32 h:3>
-Miang
+Myyah
 "Commander...
 let's pull out!"<Close><End of Block>
 <TextBlock 5 w:42 h:3>
-Miang
+Myyah
 "We're pulling out!<New>
 ...That mad dog seems
 to have a new toy to
