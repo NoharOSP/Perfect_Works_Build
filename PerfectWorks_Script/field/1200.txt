@@ -33,12 +33,12 @@ Billy
 Citan
 "Billy...<Delay 10>
 I should not have
-made such a thing..."<Close><End of Block>
+made such a weapon..."<Close><End of Block>
 <TextBlock 9 w:42 h:4>
 Citan
 "Billy...<Delay 10>
 I should not have
-made such a thing..."<Close><End of Block>
+made such a weapon..."<Close><End of Block>
 <TextBlock 10 w:28 h:3>
 Billy
 "No, it's not
