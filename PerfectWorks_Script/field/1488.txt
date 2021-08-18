@@ -1,10 +1,10 @@
 <TextBlock 1 w:28 h:3>
 Maria
-"<Seibzehn>,
+"<Siebzehn>,
 sally forth!!"<Opcode 2 50><Close><End of Block>
 <TextBlock 2 w:28 h:3>
 Maria
-"<Seibzehn>,
+"<Siebzehn>,
 Let's go!!"<Opcode 2 50><Close><End of Block>
 <TextBlock 3 w:46 h:3>
 <Opcode 1 3>Hmph, it's you again...<Delay 20>
@@ -66,7 +66,7 @@ What're you doing in
 Shevat!?<New>
 At one point, weren't
 you considered to be
-the next Gebler
+the next Geburah
 commander-in-chief!?"<Close><End of Block>
 <TextBlock 15 w:38 h:4>
 Fei
@@ -88,7 +88,7 @@ intruder...!?"<Close><End of Block>
 <TextBlock 19 w:44 h:4>
 <Opcode 1 2>Maria
 "Undoubtedly, I am the
-daughter of Nikolai,
+daughter of Nikola,
 Maria Balthasar!<New>
 What about it...?"<Close><End of Block>
 <TextBlock 20 w:48 h:4>
@@ -108,10 +108,10 @@ Maria
 "..."<Close><End of Block>
 <TextBlock 24 w:34 h:2>
 Maria
-"<Seibzehn>..."<Opcode 2 200><Close><End of Block>
+"<Siebzehn>..."<Opcode 2 200><Close><End of Block>
 <TextBlock 25 w:32 h:2>
 Maria
-"<Seibzehn>!!"<Close><End of Block>
+"<Siebzehn>!!"<Close><End of Block>
 <TextBlock 26 w:40 h:4>
 Maria
 "I'm sorry,<Delay 20> 
@@ -123,12 +123,12 @@ awaiting!!"<Close><End of Block>
 <TextBlock 27 w:46 h:4>
 Dominia
 "Never thought I'd come
-across <Seibzehn>
+across <Siebzehn>
 in my place of escape."<Close><End of Block>
 <TextBlock 28 w:34 h:3>
 Dominia
 "I'll take
-<Seibzehn>.<New>
+<Siebzehn>.<New>
 Originally, this 
 belonged to us,
 Solaris."<Close><End of Block>
@@ -149,7 +149,7 @@ Dominia
 "That child...
 Hey, you...<Delay 20><New>
 Are you the daughter
-of Nikolai...?"<Close><End of Block>
+of Nikola...?"<Close><End of Block>
 <TextBlock 33 w:54 h:4>
 Dominia
 "I see...<New>
@@ -165,7 +165,7 @@ an interesting story?<New>
 Let's see...<Delay 20>
 How about the cursed
 secret of
-<Seibzehn>?"<Close><End of Block>
+<Siebzehn>?"<Close><End of Block>
 <TextBlock 35 w:50 h:7>
 For the past several
 decades, our scientists
@@ -180,11 +180,11 @@ and human error when
 interfacing with a
 machine.<New>
 That's when your father,
-Nikolai was targeted.<Delay 20>
+Nikola was targeted.<Delay 20>
 He was a genius in the
 field of cranial nerve
 mechanisms.<New>
-They made Nikolai search
+They made Nikola search
 for a way for humans to
 go beyond humans...<Delay 20> By
 merging humans and
@@ -197,7 +197,7 @@ living human brain to a
 Gear directly.<New>
 It would've stayed as a
 mere fantasy<Delay 10> without
-Nikolai.<Delay 20> But that genius
+Nikola.<Delay 20> But that genius
 made the fantasy come
 true...<Close><End of Block>
 <TextBlock 36 w:52 h:7>
@@ -223,17 +223,17 @@ machine...<New>
 It's all the result of
 your father's great
 research.<Delay 20>
-<Seibzehn>, is the
+<Siebzehn>, is the
 prototype of 
 a man-machine fusion
 Gear.<New>
 In other words...
-<Seibzehn> was completed
+<Siebzehn> was completed
 at the cost of innumerable
 land dwellers' lives.<Close><End of Block>
 <TextBlock 37 w:48 h:2>
 And in the nerve circuit
-of <Seibzehn> lies...<Close><End of Block>
+of <Siebzehn> lies...<Close><End of Block>
 <TextBlock 38 w:52 h:4>
 Dominia
 "Hmph, fools!
@@ -266,7 +266,7 @@ with enough fire for
 today.<Delay 20> Just go home.<New>
 Maria is the only
 one who can operate
-<Seibzehn>.<New>
+<Siebzehn>.<New>
 You should be well aware
 of that."<Close><End of Block>
 <TextBlock 43 w:50 h:4>
@@ -288,13 +288,13 @@ they could've..."<Close><End of Block>
 <TextBlock 45 w:44 h:3>
 <Opcode 1 2>"It'll take a bit 
 more time to inspect
-<Seibzehn>.<New>
+<Siebzehn>.<New>
 Please go up there,
 and take a look around
 town."<Close><End of Block>
 <TextBlock 46 w:48 h:3>
 Maria
-"This <Seibzehn> was
+"This <Siebzehn> was
 developed by my father.<New>
 At the research
 institute in Solaris..."<Close><End of Block>
@@ -314,7 +314,7 @@ of me...<New>
 He always smiled 
 and said...<New>
 'Don't worry, Maria,
- <Seibzehn> will be
+ <Siebzehn> will be
  by your side to
  protect you...' "<Close><End of Block>
 <TextBlock 49 w:52 h:4>
@@ -336,14 +336,14 @@ never happen...<Delay 20>I swore
 I'd never forget...!<New>
 Now, the only connection
 between my father and me
-is this <Seibzehn>..."<Close><End of Block>
+is this <Siebzehn>..."<Close><End of Block>
 <TextBlock 51 w:46 h:4>
 Maria
 "But...I'll save my
 father someday!<New>
 I'll bring back my
 father's smile!<Delay 20>
-<Seibzehn> and I will
+<Siebzehn> and I will
 do it, I swear...!!<New>
 I swear...!!
 ..."<Close><End of Block>
@@ -365,7 +365,7 @@ It can fly anytime.<Close><End of Block>
 <Opcode 1 2>Well, talking about
 servicing, it's not like
 we know everything about
-<Seibzehn>.<New>
+<Siebzehn>.<New>
 Realistically, all we can do
 is check for abnormalities
 and do simple repairs.<Close><End of Block>
@@ -387,7 +387,7 @@ Solaris in one shot!<Close><End of Block>
 ...Maybe.<Opcode 2 40><Close><End of Block>
 <TextBlock 58 w:52 h:4>
 <Opcode 1 2>They say the fight between
-you and <Seibzehn>
+you and <Siebzehn>
 was well matched?<New>
 Amazing...<Delay 20>
 There are still people
