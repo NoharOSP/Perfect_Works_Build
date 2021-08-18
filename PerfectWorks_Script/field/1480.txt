@@ -21,7 +21,7 @@ Calamity."<Close><End of Block>
 Fei
 "I just happened to come
 across him in the cavern
-underneath Aveh's desert.<New>
+underneath Av's desert.<New>
 I didn't know him that
 well...<Delay 20>
 So you're Ol' man Bal's
@@ -59,7 +59,7 @@ same name as the
 eccentric old man?<New>
 Remember the crazy old
 man playing with Gears
-underground Aveh?"<Close><End of Block>
+underground Av?"<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Bart
 "But, the crazy o....
@@ -153,7 +153,7 @@ Maria
 take the elevator to
 go upstairs.<New>
 I still have to finish
-inspecting <Seibzehn>."<Close><End of Block>
+inspecting <Siebzehn>."<Close><End of Block>
 <TextBlock 28 w:44 h:4>
 Maria
 "I'll show you the way
