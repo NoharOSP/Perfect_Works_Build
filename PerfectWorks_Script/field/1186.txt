@@ -225,7 +225,7 @@ Sigurd
 "It appears the 'Church
 of the Ethos' headquarters<New> 
 is located to the north 
-of the Thames.<New>
+of the Tamuz.<New>
 We must hurry up and take
 Fei there..."<Close><End of Block>
 <TextBlock 35 w:54 h:4>
@@ -986,10 +986,10 @@ Fei
 "No problem!<New>
 He's probably wining
 and dining with the
-Captain of the Thames!"<Close><End of Block>
+Captain of the Tamuz!"<Close><End of Block>
 <TextBlock 164 w:60 h:3>
 I've detected a rescue signal!<Delay 10>
-It seems the Thames is being
+It seems the Tamuz is being
 attacked by a pack of Reapers!<Close><End of Block>
 <TextBlock 165 w:46 h:4>
 Bart
@@ -1004,12 +1004,12 @@ was talking about!?"<Close><End of Block>
 <TextBlock 167 w:50 h:4>
 Citan
 "Let us make haste!<Delay 10>
-Otherwise the Thames will
+Otherwise the Tamuz will
 be destroyed by Reapers!"<Close><End of Block>
 <TextBlock 168 w:50 h:4>
 Citan
 "Let us make haste!<Delay 10>
-Otherwise the Thames will
+Otherwise the Tamuz will
 be destroyed by Reapers!"<Close><End of Block>
 <TextBlock 169 w:48 h:4>
 Jessie
@@ -1166,7 +1166,7 @@ dangerous?<New>
 Hah, I never thought you
 would call a Gear!?<Delay 10>
 But, what in hell is the
-'Ethos' thinking anyway?"<Close><End of Block>
+'Church' thinking anyway?"<Close><End of Block>
 <TextBlock 192 w:50 h:4>
 Bart
 "Is your job always this
@@ -1174,7 +1174,7 @@ dangerous?<New>
 Hah, I never thought you
 would call a Gear!?<Delay 10>
 But, what in hell is the
-'Ethos' thinking anyway?"<Close><End of Block>
+'Church' thinking anyway?"<Close><End of Block>
 <TextBlock 193 w:42 h:4>
 Billy
 "!!<Delay 10> ...<Delay 5>We Etones
@@ -1186,11 +1186,11 @@ Bart
 me to say that.<Delay 10> Don't take
 it so seriously!<New>
 So, you're going to report
-back to the 'Ethos' about
+back to the 'Church' about
 your job's results, right?<New>
 Well, if you like we shall
 give you a ride to the
-'Ethos' H.Q...<Delay 10>
+'Church' H.Q...<Delay 10>
 It's on our way."<Close><End of Block>
 <TextBlock 195 w:52 h:4>
 Bart
@@ -1198,11 +1198,11 @@ Bart
 me to say that.<Delay 10> Don't take
 it so seriously!<New>
 So, you're going to report
-back to the 'Ethos' about
+back to the 'Church' about
 your job's results, right?<New>
 Well, if you like we shall
 give you a ride to the
-'Ethos' H.Q...<Delay 10>
+'Church' H.Q...<Delay 10>
 It's on our way."<Close><End of Block>
 <TextBlock 196 w:42 h:4>
 Billy
@@ -1213,8 +1213,9 @@ I have something to
 give you as a sign of
 my gratitude.<New>
 So please accompany
-me into the 'Ethos'
-headquarters.
+me into the 'Church
+of the Ethos'
+headquarters.<New>
 Let's go..."<Close><End of Block>
 <TextBlock 197 w:52 h:4>
 Citan
@@ -1359,15 +1360,15 @@ Billy
 "Well then...
 shall we go, too?"<Close><End of Block>
 <TextBlock 217 w:66 h:5>
-I've picked up the 'Ethos' fleet
-and the Thames on the radar, sir.<Delay 10>
+I've picked up the 'Church's' fleet
+and the Tamuz on the radar, sir.<Delay 10>
 They're on the sea south of here.<Delay 10>
 If we travel at full speed we can
 reach them in an hour.<Close><End of Block>
 <TextBlock 218 w:42 h:3>
 Sigurd
 "Alright!<Delay 10>
-Set sail for Thames!"<Close><End of Block>
+Set sail for Tamuz!"<Close><End of Block>
 <TextBlock 219 w:28 h:1>
 Aye, aye, sir!<Close><End of Block>
 <TextBlock 220 w:34 h:2>
