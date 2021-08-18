@@ -97,7 +97,7 @@ Maria.<New>
 We're friends from
 now on, <Delay 20>
 you and...
-you and <Seibzehn> too."<Close><End of Block>
+you and <Siebzehn> too."<Close><End of Block>
 <TextBlock 21 w:22 h:2>
 Fei
 "I got it."<Close><End of Block>
@@ -129,11 +129,11 @@ Maria
 "Achtzehn...<Delay 30>
 is the 2nd Gear my father
 designed...<New>
-<Seibzehn>'s
+<Siebzehn>'s
 sister Gear.<Delay 20>
 But Achtzehn wasn't
 completed...!<New>
-Other than <Seibzehn>
+Other than <Siebzehn>
 father didn't make anymore,
 he was supposed to have
 burned the plans...!<New>
@@ -216,7 +216,7 @@ with you?"<Close>
 I hate just sitting here,
 waiting patiently.<Delay 20>
 I want to do something...
-Take me and <Seibzehn>!"<Close><End of Block>
+Take me and <Siebzehn>!"<Close><End of Block>
 <TextBlock 47 w:12 h:2>
 Maria
 "Yes."<Close><End of Block>
@@ -224,7 +224,7 @@ Maria
 People of Shevat!<Delay 20>
 Hear me!<Close><End of Block>
 <TextBlock 49 w:54 h:4>
-Nikolai
+Nikola
 "I'd heard some interesting
 rats had run into there...<New>
 Just in time to test
@@ -236,21 +236,21 @@ come on out.<Delay 20>
 Come on my cute little
 guinea pigs."<Close><End of Block>
 <TextBlock 50 w:46 h:3>
-Nikolai
+Nikola
 "So you can be test
 subjects for this guy."<Close><End of Block>
 <TextBlock 51 w:50 h:4>
-Nikolai
+Nikola
 "Achtzehn's new weapon...<Delay 20>
 the anti-Gear Psycho
 Jammer!"<Close><End of Block>
 <TextBlock 52 w:52 h:4>
-Nikolai
+Nikola
 "That much time is enough
 to erase you from the face
 of the earth."<Close><End of Block>
 <TextBlock 53 w:50 h:3>
-Nikolai
+Nikola
 "Humans are an imperfect,
 foolish life form...<New>
 I will show the greatness
@@ -262,7 +262,7 @@ strength of steel."<Close><End of Block>
 Zephyr
 "Calm down, Maria!!<New>
 It doesn't mean that
-Dr. Nikolai is inside!"<Close><End of Block>
+Dr. Nikola is inside!"<Close><End of Block>
 <TextBlock 55 w:46 h:4>
 Zephyr
 "Maria!!<Delay 20>
@@ -285,7 +285,7 @@ Zephyr
 Listen, Maria...<New>
 If the other Gears become
 immoblie, you and
-<Seibzehn> are the
+<Siebzehn> are the
 only hope.<New>
 You're full of spirit...<Delay 20>
 You can decide what to
@@ -299,7 +299,7 @@ as usual.<New>
 And Maria...
 You did very well.<Delay 20>
 It is very regretful
-about Dr. Nikolai...<New>
+about Dr. Nikola...<New>
 Solaris put the doctor
 through all of that.<New>
 We must defeat them as
@@ -405,7 +405,7 @@ only momentary."<Close><End of Block>
 <TextBlock 73 w:52 h:3>
 Jessie
 "Achtzehn and its sister
-Gear <Seibzehn>...<New>
+Gear <Siebzehn>...<New>
 So, it's normal there is
 an anti-jamming shield..."<Close><End of Block>
 <TextBlock 74 w:38 h:4>
@@ -488,25 +488,33 @@ At Generator 1, there
 are two small Gears and
 a complement of Solaris
 troops...<New>
-If you do not hit them
-fast and hard you will
-get bogged down in a
-firefight.<New>
+If you do not 
+efficiently crowd 
+control the enemy,<New> 
+their fire power will 
+whittle you down in 
+no time.<New>
 At Generator 2, there
 are 3 White Knights.<Delay 20>
 They are very fast
-and maneuverable.<New>
+and maneuverable,<New> 
+but not particularly 
+powerful on their own.<New>
 At Generator 3 there
-is a large Gear and a
-White Knight.<New>
+is a large Gear and two
+White Knights.<New>
 Be careful, the large
-Gear has some kind of
-special attack.<New>
+Gear has a very 
+powerful sonic boom.<New>
 At Generator 4, there
 is a large Gear and a
 White Knight.<New>
 The large Gear seems to
-be a power Gear."<Close><End of Block>
+built as a support unit<New> 
+that debilitates the 
+opposition for the main 
+squad to quickly defeat 
+the opponent."<Close><End of Block>
 <TextBlock 89 w:40 h:10>
 <Opcode 1 255>Citan
 "So, who will go to
@@ -933,10 +941,10 @@ But..."<Close><End of Block>
 Citan
 "That is not what I mean.<Delay 20>
 What if...
-If <Seibzehn>..."<Close><End of Block>
+If <Siebzehn>..."<Close><End of Block>
 <TextBlock 185 w:54 h:4>
 Citan
-"If <Seibzehn> is
+"If <Siebzehn> is
 Achtzehn's sister Gear...
 then maybe...just maybe...<New>
 ...What I am saying is that
