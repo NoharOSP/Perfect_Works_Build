@@ -40,7 +40,7 @@ Fei
 Fei
 "Then should we go down
 with Maria?<New>
-It's the Gebler, right?<Delay 20>
+It's the Geburah, right?<Delay 20>
 I'm still ticked off at
 them. I'll take'em on."<Close><End of Block>
 <TextBlock 10 w:32 h:3>
@@ -378,7 +378,7 @@ Zephyr
 "What of the intruder?"<Close><End of Block>
 <TextBlock 56 w:50 h:3>
 Yes, we believe it's just
-a lone Gebler soldier.<New>
+a lone Geburah soldier.<New>
 It seems the individual
 has escaped to the number
 17 hangar!<Close><End of Block>
@@ -401,7 +401,7 @@ we'll have more losses...!<Close><End of Block>
 Zephyr
 "Maria, what can you do
 now when you don't even
-have <Seibzehn>?"<Close><End of Block>
+have <Siebzehn>?"<Close><End of Block>
 <TextBlock 61 w:52 h:3>
 Zephyr
 "...
@@ -435,7 +435,7 @@ wipeout their Gate.<Close><End of Block>
 It seems the intruder has
 escaped to the hangar bay.<Delay 20>
 If something happens to
-<Seibzehn>...!<Close><End of Block>
+<Siebzehn>...!<Close><End of Block>
 <TextBlock 68 w:54 h:4>
 Umm, this may be asking for
 too much, but would it be
@@ -452,7 +452,7 @@ Maria
 <TextBlock 71 w:46 h:3>
 Maria
 "Number 17 hangar bay!?<Delay 20>
-<Seibzehn>...!!"<Close><End of Block>
+<Siebzehn>...!!"<Close><End of Block>
 <TextBlock 72 w:34 h:4>
 Maria
 "But...
