@@ -1,7 +1,7 @@
 <TextBlock 1 w:52 h:4>
-Nikolai
+Nikola
 "I see...<Delay 20> You're a giant
-native lifeform of this
+primitive lifeform of this
 planet...<New>
 You're not...<Delay 20>a young
 rankar.<New>
@@ -60,11 +60,11 @@ Shevat.<Delay 20> That I must not go
 to Solaris alone...<New>
 There's no way I could
 lose to any other Gear in
-my <Seibzehn>...<Delay 20>
+my <Siebzehn>...<Delay 20>
 There's no way...!<New>
 I'll step on all those
 Solarians with
-<Seibzehn>...<Delay 10> Beat them
+<Siebzehn>...<Delay 10> Beat them
 down, beat them all down!!"<Close><End of Block>
 <TextBlock 6 w:54 h:4>
 Maria
@@ -108,9 +108,9 @@ Maria
 "...!!"<Close><End of Block>
 <TextBlock 15 w:32 h:2>
 Maria
-"<Seibzehn>!!"<Opcode 2 90><Close><End of Block>
+"<Siebzehn>!!"<Opcode 2 90><Close><End of Block>
 <TextBlock 16 w:34 h:4>
-Nikolai
+Nikola
 "What's with this
 astronomically
 unintellectual...<New>
