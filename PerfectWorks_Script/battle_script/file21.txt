@@ -2,7 +2,7 @@
 Maria
 "Father!?<Delay 40>
 Is it really you,
-Nikolai, my father!?"<Close><End of Block>
+Nikola, my father!?"<Close><End of Block>
 <TextBlock 2 w:44 h:4>
 Maria
 "!!!<Delay 40>
@@ -14,7 +14,7 @@ Maria
 <TextBlock 4 w:48 h:4>
 Maria
 "!?<Delay 60>
-<Delay 40>...<Delay 40>Seibzehn's trembling.<Delay 60>
+<Delay 40>...<Delay 40>Siebzehn's trembling.<Delay 60>
 <Delay 40>...<Delay 40>Are you crying?<New>
 <Delay 40>...<Delay 40>Brainwashed by
 Solaris, my real
@@ -25,7 +25,7 @@ Not my father!"<Close><End of Block>
 Maria
 "<Delay 40>...<Delay 40>Achtzehn!
 I will defeat you!!<Delay 60>
-Seibzehn, let's go!!"<Close><End of Block>
+Siebzehn, let's go!!"<Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Maria
 "!!<Delay 40> Father!<Delay 40>
@@ -44,7 +44,7 @@ Maria
 "...<Delay 30>I can't. 
 I can't bring
 myself to do it!!<New>
-Huh! Seibzehn!<Delay 30>
+Huh! Siebzehn!<Delay 30>
 Don't...<Delay 30> I can't
 control you!<Delay 30> Father,
 are you doing this!?<New>
@@ -77,7 +77,7 @@ No, Maria.<Delay 40>
 It is 'glorious.'<New>
 Yes, yes. I shall also
 modify you and your
-Seibzehn to become one
+Siebzehn to become one
 entity, just like me."<Close><End of Block>
 <TextBlock 11 w:48 h:4>
 Achtzehn
@@ -94,9 +94,9 @@ COME HERE NOW!"<Close><End of Block>
 Achtzehn
 "What are you saying<Delay 40>...<Delay 40>
 It's me<Delay 40>...<Delay 40>
-Your father<Delay 40>... Nikolai..."<Close><End of Block>
+Your father<Delay 40>... Nikola..."<Close><End of Block>
 <TextBlock 13 w:40 h:4>
-Nikolai
+Nikola
 "Maria...<Delay 40>
 can you hear me?<New>
 I'm going to release
@@ -106,7 +106,7 @@ remote control!<New>
 Use that to
 defeat me."<Close><End of Block>
 <TextBlock 14 w:48 h:4>
-Nikolai
+Nikola
 "Fire!!<Delay 10> It doesn't
 matter...<Delay 10> I,<Delay 5> Nikolai,<Delay 5>
 no longer exist...<New>
@@ -116,18 +116,19 @@ implanted a conscience
 circuit in Achtzehn...<New>
 This would respond and
 activate in the presence
-of Seibzehn. My message
+of Siebzehn. My message
 is coming from there.<New>
 And, during the battle,
-I transferred all my
-data from there to
-Seibzehn.<New>
+my data was transferred 
+from Achtzehn to
+Siebzehn.<New>
 I may have lost my body,<Delay 10>
 but my spirit is with
-Seibzehn,<Delay 90> no,<Delay 10> with you,
+Siebzehn,<Delay 90> no,<Delay 10> with you,
 Maria.<Delay 40> Now and forever!"<Close><End of Block>
 <TextBlock 15 w:46 h:4>
-Nikolai
-"Maria<Delay 40>...<Delay 40> I will always
-be with you.<Delay 40>
+Nikola
+"Maria<Delay 40>...<Delay 40> We will always
+be with you.<Delay 40><New>
+Claudia and I...
 Now and forever<Delay 40>...<Delay 40>"<Close><Close><Close><Close><End of Block>
