@@ -9,7 +9,8 @@ Fei
 Fatima Jasper."<Close><End of Block>
 <TextBlock 3 w:42 h:2>
 Fei
-"What's up ahead<Delay 30>...?"<Close><End of Block>
+"Say, would either of you
+know what's up ahead<Delay 30>...?"<Close><End of Block>
 <TextBlock 4 w:50 h:2>
 Elly
 "An angel statue...here?"<Close><End of Block>
@@ -129,5 +130,6 @@ the fortress will rise
 to the surface.<New>
 They say this was built
 before the country of
-Aveh was founded.<New>
-So, you ready to go?"<Close><Close><End of Block>
+Av was founded.<New>
+So, are you ready 
+to go?"<Close><Close><End of Block>
