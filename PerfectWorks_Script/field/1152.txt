@@ -585,7 +585,7 @@ Bastards..!"<Close><End of Block>
 Ramsus
 "Guh...guhaah."<Close><End of Block>
 <TextBlock 112 w:54 h:3>
-Miang
+Myyah
 "Please calm yourself,
 Excellency! This will
 effect your health.<New>
@@ -609,7 +609,7 @@ us that you are not
 "trash"<Delay 5>...<Close><End of Block>
 <TextBlock 117 w:36 h:4>
 Ramsus
-"Miang<Delay 5>...<Delay 5>
+"Myyah<Delay 5>...<Delay 5>
 Launch the warship<Delay 5>...<Delay 5>
 Get to him<Delay 5>..."<Close><End of Block>
 <TextBlock 118 w:46 h:4>
@@ -618,16 +618,16 @@ Ramsus
 will go<Delay 5>...<Delay 5> This time
 <Delay 5>...<Delay 5> I will bring him down<Delay 5>..."<Close><End of Block>
 <TextBlock 119 w:50 h:3>
-Miang
+Myyah
 "Excellency, that is impossible 
 in your condition!"<Close><End of Block>
 <TextBlock 120 w:40 h:4>
-Kelvena
+Cherubina
 "May I request that 
 you leave this duty
 to us, Your Excellency?"<Close><End of Block>
 <TextBlock 121 w:20 h:2>
-Miang
+Myyah
 "You will...?"<Close><End of Block>
 <TextBlock 122 w:48 h:3>
 Dominia
@@ -636,7 +636,7 @@ our all in order to meet
 His Excellency's 
 expectations."<Close><End of Block>
 <TextBlock 123 w:40 h:4>
-Kelvena
+Cherubina
 "So please, Excellency,
 get medical attention as
 quickly as possible."<Close><End of Block>
@@ -645,7 +645,7 @@ Dominia
 "In order to put our
 ideals into practice."<Close><End of Block>
 <TextBlock 125 w:48 h:2>
-Kelvena
+Cherubina
 "Well then, we are off."<Close><End of Block>
 <TextBlock 126 w:36 h:2>
 One surface gate
@@ -1214,7 +1214,7 @@ himself<Delay 5>...<Close><End of Block>
 you handle this, 
 "mother"?<Close><End of Block>
 <TextBlock 230 w:52 h:3>
-Miang
+Myyah
 "Let me see<Delay 5>...<Delay 5>
 Has Krelian been saying 
 anything?"<Close><End of Block>
@@ -1227,7 +1227,7 @@ as a canceling
 factor into a 
 single point<Delay 5>...<Close><End of Block>
 <TextBlock 232 w:48 h:3>
-Miang
+Myyah
 "I see<Delay 5>...<Delay 5><New>
 That last defeat by Fei
 <Delay 5>...<Delay 5>has 
@@ -1268,7 +1268,7 @@ of any use.<Delay 5>...<Close><End of Block>
 Ramsus
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 243 w:44 h:4>
-Miang
+Myyah
 "Carl<Delay 5>...<Delay 5>
 Don't worry.<New>
 I will always be with 
@@ -1311,7 +1311,7 @@ the genesis<Delay 5>...<New>
 If only you remove him, 
 you will be<Delay 5>..."<Close><End of Block>
 <TextBlock 246 w:52 h:4>
-Miang
+Myyah
 "That's right.<New>
 While you possess superior 
 qualities, you are 
