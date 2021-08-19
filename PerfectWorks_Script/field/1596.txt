@@ -156,7 +156,7 @@ gate generator!?"<Close><End of Block>
 Bart
 "Punk...<Delay 30><New>
 Not only was he sitting
-on the Aveh throne, he
+on the Av throne, he
 also controlled this."<Close><End of Block>
 <TextBlock 35 w:20 h:2>
 Shakhan
@@ -171,16 +171,16 @@ Shakhan
 "The gate which divided
 Solaris from the earth was
 under the supervision of...<New>
-the 'Ethos'."<Close><End of Block>
+the 'Church of the Ethos'."<Close><End of Block>
 <TextBlock 38 w:54 h:4>
 Shakhan
 "In the beginning, it was
 supervised without any true
 knowledge of what it did.<New>
 However, over the years,
-the 'Ethos' did their own
-experiments to reveal its
-true nature."<Close><End of Block>
+the 'Church of the Ethos' 
+did their own experiments 
+to reveal its true nature."<Close><End of Block>
 <TextBlock 39 w:48 h:3>
 Shakhan
 "They learned how to use
