@@ -33,11 +33,12 @@ mother.<New>
 His Majesty was in love
 with a certain girl
 from a small religious
-sect east of Aveh.<New>
+sect east of Av.<New>
 This sect was quite
 different from Nisan and
-the 'Ethos' but she was
-very beautiful.<New>
+the 'Church of the Ethos'<New> 
+but she was very 
+beautiful.<New>
 Then...
 she just disappeared.
 Later there were rumors
@@ -53,7 +54,7 @@ the opposite. His Majesty
 was abandoned."<Close><End of Block>
 <TextBlock 10 w:38 h:3>
 Bart
-"Sig is from Aveh's
+"Sig is from Av's
 eastern desert..."<Close><End of Block>
 <TextBlock 11 w:54 h:4>
 Maison
