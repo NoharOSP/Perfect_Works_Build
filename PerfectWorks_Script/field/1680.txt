@@ -33,7 +33,7 @@ Maria
 what is it?"<Close><End of Block>
 <TextBlock 10 w:54 h:4>
 Citan
-"The disorder <Seibzehn>
+"The disorder <Siebzehn>
 caused when breaking the
 gate has almost cleared up.<New>
 You and everyone else
@@ -73,8 +73,9 @@ materials and fuel
 gathered from the surface.<New>
 These are the technology
 and products you land
-dwellers receive from
-the 'Ethos'..."<Close><End of Block>
+dwellers receive<New> 
+from the 'Church of 
+the Ethos'..."<Close><End of Block>
 <TextBlock 16 w:52 h:3>
 Citan
 "For now, shall we gather 
