@@ -100,7 +100,7 @@ feel right.)<Close><End of Block>
 Maria
 "..."<Close><End of Block>
 <TextBlock 24 w:48 h:3>
-Emeralda
+Maria
 (Hmm...Something doesn't
 feel right.)<Close><End of Block>
 <TextBlock 25 w:24 h:1>
@@ -495,7 +495,7 @@ Bart
 "...<Delay 30>Ohhh...<Delay 30>
 Well, I wouldn't say it
 was a complete success...<New>
-but it'll do for now."<Close><End of Block>
+But it'll do for now."<Close><End of Block>
 <TextBlock 120 w:50 h:4>
 Bart
 "Don't worry!<Delay 30>
