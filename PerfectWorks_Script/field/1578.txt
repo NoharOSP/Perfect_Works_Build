@@ -1,12 +1,12 @@
 <TextBlock 1 w:12 h:2>
 Fei
-"Doc!"<Close><End of Block>
+"You too Doc?"<Close><End of Block>
 <TextBlock 2 w:16 h:2>
 Elly
 "Citan!"<Close><End of Block>
 <TextBlock 3 w:12 h:2>
 Fei
-"Doc!"<Close><End of Block>
+"You too Doc?"<Close><End of Block>
 <TextBlock 4 w:18 h:2>
 Bart
 "Margie!"<Close><End of Block>
@@ -63,17 +63,18 @@ for a clergyman."<Close><End of Block>
 <TextBlock 19 w:54 h:4>
 Shakhan
 "There's much more to
-the 'Ethos' than you
-would know.<New>
+the 'Church of the Ethos' 
+than you would know.<New>
 We're not a single unit.
 We each have an agenda.<New>
 We have no need to admit
 defeat just because the
 central area's gone.<Delay 30>
 I have my own motives.<New>
-And it is for them, that
-I used Aveh and Gebler.
-Now, the treasure's mine.<Delay 30>
+And it is for those very
+motives, that I used Av 
+and Geburah. Now, the 
+treasure's mine.<Delay 30><New>
 I suggest you retreat now."<Close><End of Block>
 <TextBlock 20 w:20 h:2>
 Bart
@@ -120,7 +121,7 @@ so I returned here."<Close><End of Block>
 Sigurd
 "Shakhan,<Delay 30><New>
 it's only a matter of
-time until Bledavik
+time until Breidablik
 returns to us.<New>
 At this point, you have
 nowhere to go."<Close><End of Block>
