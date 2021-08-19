@@ -1,7 +1,7 @@
 <TextBlock 1 w:44 h:3>
 Bart
-"Fei, if anything, I'm
-your friend right?"<Close><End of Block>
+"Fei, if anything happens, 
+I'm your friend right?"<Close><End of Block>
 <TextBlock 2 w:48 h:4>
 Bart
 "Sig...you won't change 
@@ -17,11 +17,11 @@ Bart
 do what I was asked."<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Bart
-"My good people of Aveh...<New>
+"My good people of Av...<New>
 This is Bartholomew Fatima
-the 19th king of Aveh,
+the 19th king of Av,
 son of Edbart Fatima IV
-the 18th king of Aveh.<New>
+the 18th king of Av.<New>
 First, one must apologize
 for the trouble caused by
 one's unavoidably lengthy
@@ -39,7 +39,7 @@ soldiers will also be
 allowed to return home.<New>
 Let us work together
 towards the rebuilding
-of Aveh!"<Close><End of Block>
+of Av!"<Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Bart
 "...One also has
@@ -48,20 +48,20 @@ important message...<New>
 A declaration from the
 will of Edbart IV who
 wished only for peace
-for his kingdom, Aveh.<New>
+for his kingdom, Av.<New>
 I Bartholomew Fatima, 
-the 19th King of Aveh,
+the 19th King of Av,
 do hearby declare...<New>
 from this day forward
 I shall abandon the
 monarchy and create
-the Republic of Aveh!"<Close><End of Block>
+the Republic of Av!"<Close><End of Block>
 <TextBlock 7 w:34 h:2>
 Sigurd
 "Young master..."<Close><End of Block>
 <TextBlock 8 w:36 h:3>
 Maison
-"What in Aveh 
+"What in Av 
 are you doing...?"<Close><End of Block>
 <TextBlock 9 w:56 h:4>
 Bart
@@ -106,8 +106,8 @@ nothing."<Close><End of Block>
 <TextBlock 18 w:2 h:1>
 !<Opcode 2 30><Close><End of Block>
 <TextBlock 19 w:42 h:1>
-We will protect Aveh.<Close><End of Block>
+We will protect Av.<Close><End of Block>
 <TextBlock 20 w:48 h:3>
 This is the former 
-Gebler base. It's under 
+Geburah base. It's under 
 inspection, no entry.<Close><Close><End of Block>
