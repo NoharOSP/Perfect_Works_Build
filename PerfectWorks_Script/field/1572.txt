@@ -27,8 +27,12 @@ Billy
 "What's wrong?"<Close><End of Block>
 <TextBlock 9 w:50 h:3>
 Billy
-"Probably because of your
-skillful piloting."<Close><End of Block>
+"Probably because you're 
+so used to operating Av 
+machinery<New> 
+and you just went on auto 
+pilot starting everything 
+up."<Close><End of Block>
 <TextBlock 10 w:22 h:2>
 Rico
 "What now?"<Close><End of Block>
@@ -56,41 +60,41 @@ Maria
 "Isn't it because you
 were controlling it?"<Close><End of Block>
 <TextBlock 18 w:54 h:4>
-Tolone
+Throne
 "Alright already.<New>
 So you were serious!?
 You're really gonna reflect
 a big laser off a mirror...
 Pretty stupid."<Close><End of Block>
 <TextBlock 19 w:50 h:2>
-Tolone
+Throne
 "Angling it...?<New>
 ...for the drop ratio?<New>
 Drop ratio in the
 atmosphere will be huge."<Close><End of Block>
 <TextBlock 20 w:48 h:3>
-Tolone
+Throne
 "...Don't you even say a
 word to me!<New>
 ...whatever you're up to
-Tolone's Gear 'Skyghene'
+Throne's Gear 'Skyghene'
 will surely crush you!"<Close><End of Block>
 <TextBlock 21 w:52 h:4>
-Tolone
+Throne
 "Hmmph,<Delay 30> I can't believe
 you'd even think of such a
 stupid plan."<Close><End of Block>
 <TextBlock 22 w:54 h:3>
-Tolone
+Throne
 "Keep talking while you
 can.<New>
-Dominia and Kelvena should
+Dominia and Cherubina should
 have taken over Babel Tower
 by now.<New>
 You get outta here now!"<Close><End of Block>
 <TextBlock 23 w:48 h:3>
 Seraphita
-"Tolone, Tolone!!
+"Throne, Throne!!
 Oh, oh, there you are!!"<Close><End of Block>
 <TextBlock 24 w:52 h:3>
 Seraphita
@@ -205,13 +209,13 @@ Ft. Jasper's already up.<New>
 You'd better go to Babel
 and check the systems.<Close><End of Block>
 <TextBlock 57 w:32 h:3>
-Tolone
+Throne
 "Ha!<Delay 30>
 Lambs' taste..."<Close><End of Block>
 <TextBlock 58 w:30 h:2>
 Seraphita
 "...Taste...!!"<Close><End of Block>
 <TextBlock 59 w:34 h:3>
-Tolone
+Throne
 "I thought I told
 you to shut up!"<Close><Close><End of Block>
