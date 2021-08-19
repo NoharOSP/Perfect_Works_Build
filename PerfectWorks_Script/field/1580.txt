@@ -38,7 +38,8 @@ Sig...!<Delay 30>
 How did YOUR eye work!?"<Close><End of Block>
 <TextBlock 11 w:48 h:4>
 Sigurd
-"We running out of time!<Delay 30>
+"We're running out of 
+time!<Delay 30><New>
 We must return to
 Marguerite at once!"<Close><End of Block>
 <TextBlock 12 w:12 h:2>
