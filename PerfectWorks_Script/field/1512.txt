@@ -181,7 +181,7 @@ go meet them later?"<Close><End of Block>
 <TextBlock 31 w:48 h:3>
 Maria
 "Your Majesty, I will go
-with <Seibzehn>!"<Close><End of Block>
+with <Siebzehn>!"<Close><End of Block>
 <TextBlock 32 w:28 h:3>
 Maria
 "Fine...<Delay 20>
@@ -189,7 +189,7 @@ I understand."<Close><End of Block>
 <TextBlock 33 w:48 h:4>
 Maria
 "Yes!<Delay 20>
-<Seibzehn> is ready to
+<Siebzehn> is ready to
 go any time!"<Close><End of Block>
 <TextBlock 34 w:52 h:3>
 Zephyr
@@ -609,10 +609,10 @@ information about."<Close><End of Block>
 <TextBlock 97 w:52 h:4>
 Citan
 "Maria, this is where you
-and <Seibzehn> come in.<New>
+and <Siebzehn> come in.<New>
 Now that the Gate is
 weakened, we can use
-<Seibzehn>'s heavy
+<Siebzehn>'s heavy
 particle cannon...<New>
 ...to distort space
 and neutralize the Gate
@@ -633,7 +633,7 @@ move about together.<New>
 The rest will form a
 separate group to sneak in.<New>
 Maria, it looks like you
-and <Seibzehn> will wait
+and <Siebzehn> will wait
 outside on standby."<Close><End of Block>
 <TextBlock 99 w:46 h:3>
 Citan
@@ -656,7 +656,7 @@ Citan
 Maria.<New>
 Please transport us to
 Solaris on the
-<Seibzehn>."<Close><End of Block>
+<Siebzehn>."<Close><End of Block>
 <TextBlock 103 w:44 h:4>
 Citan
 "Please hurry.<Delay 20>
