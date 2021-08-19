@@ -57,9 +57,9 @@ Dominia
 "Here I come!"<Close><End of Block>
 <TextBlock 12 w:46 h:4>
 Dominia
-"I'll let you off easy
-this time.<Delay 40> 
-Next time is for real!"<Close><End of Block>
+"That was fun Elehayym,<Delay 40> 
+but I'm just getting
+started with you."<Close><End of Block>
 <TextBlock 13 w:50 h:3>
 Dominia
 "Amazing how you've held
@@ -79,27 +79,27 @@ Too late..."<Close><End of Block>
 Dominia
 "We'll continue this
 later!
-Let's go Kelvena!"<Close><End of Block>
+Let's go Cherubina!"<Close><End of Block>
 <TextBlock 17 w:52 h:4>
-Kelvena
+Cherubina
 "For the Commander's honor<Delay 20>
 and the pride of the 
 Elements,<New>
 you need to be 
 more flexible."<Close><End of Block>
 <TextBlock 18 w:52 h:3>
-Kelvena
-"How long will it hold?...<Delay 40>
-I'm going!"<Close><End of Block>
+Cherubina
+"How long will you hold?...<Delay 40>
+Let's go!"<Close><End of Block>
 <TextBlock 19 w:40 h:2>
-Kelvena
+Cherubina
 "Let's finish this."<Close><End of Block>
 <TextBlock 20 w:32 h:3>
-Kelvena
+Cherubina
 "What should we 
 do Dominia?"<Close><End of Block>
 <TextBlock 21 w:50 h:3>
-Kelvena
+Cherubina
 "Elly,<Delay 20> I didn't
 want to be your enemy...<New>
 But since our motives are
