@@ -263,7 +263,7 @@ carefully but quickly."<Close><End of Block>
 <TextBlock 51 w:50 h:4>
 Citan
 "In any case, we will not
-be able to avoid Gebler's
+be able to avoid Geburah's
 interference, will we?"<Close><End of Block>
 <TextBlock 52 w:36 h:4>
 Fei
@@ -279,7 +279,7 @@ area of this land until
 I arrived here."<Close><End of Block>
 <TextBlock 54 w:34 h:2>
 Fei
-"Even in Gebler?"<Close><End of Block>
+"Even in Geburah?"<Close><End of Block>
 <TextBlock 55 w:48 h:4>
 Elly
 "The relations with
@@ -395,15 +395,15 @@ That's it!"<Close><End of Block>
 ??<Close><End of Block>
 <TextBlock 73 w:52 h:3>
 Bart
-"The captain of the Thames
+"The captain of the Tamuz
 must have tons of them.<New>
 He owes us from last time.<Delay 10>
-Let's go to the Thames."<Close><End of Block>
+Let's go to the Tamuz."<Close><End of Block>
 <TextBlock 74 w:42 h:4>
 Citan
 "It may be our best
 choice for now. Shall
-we go to the Thames?"<Close><End of Block>
+we go to the Tamuz?"<Close><End of Block>
 <TextBlock 75 w:50 h:4>
 Citan
 "Fei<Delay 5>...<Delay 10>is it not the time
