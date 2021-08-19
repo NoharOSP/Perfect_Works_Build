@@ -311,7 +311,8 @@ Zephyr
 human eyes by three
 gates.<New>
 One of the gates is under
-the 'Ethos' H.Q. but...<Delay 20>
+the 'Church of the Ethos'
+H.Q. but...<Delay 20><New>
 It is unreachable, even
 with Gears.<New>
 I don't know where the
@@ -321,13 +322,13 @@ gates, the path to Solaris
 will not open.<New>
 In addition we've received
 some disturbing news.<Delay 20>
-Aveh has invaded Nisan."<Close><End of Block>
+Av has invaded Nisan."<Close><End of Block>
 <TextBlock 61 w:50 h:3>
 Zephyr
 "Their target is probably
 somewhere in the earth.<New>
 The secret royal
-treasure of Aveh.<New>
+treasure of Av.<New>
 An Omnigear, sealed up
 by Roni Fatima!"<Close><End of Block>
 <TextBlock 62 w:42 h:4>
