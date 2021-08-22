@@ -13,7 +13,7 @@ probably be something
 related to me."<Close><End of Block>
 <TextBlock 3 w:36 h:2>
 Elly
-"'E <Delay 5>L <Delay 5>H <Delay 5>A <Delay 5>Y <Delay 5>M'..."<Close><End of Block>
+"'E <Delay 5>L <Delay 5>E <Delay 5>H <Delay 5>A <Delay 5>Y <Delay 5>Y <Delay 5>M'..."<Close><End of Block>
 <TextBlock 4 w:54 h:3>
 <]><Delay 10><]><Delay 10><]><Delay 10>
 Access denied. <Delay 10>
@@ -22,7 +22,7 @@ Enter the correct password.<Close><End of Block>
 Elly
 "That's no good. 
 Let's try it backwards...<Delay 20>
-'M <Delay 5>Y <Delay 5>A <Delay 5>H <Delay 5>L <Delay 5>E'"<Close><End of Block>
+'M <Delay 5>Y <Delay 5>Y <Delay 5>A <Delay 5>H <Delay 5>E <Delay 5>L <Delay 5>E'"<Close><End of Block>
 <TextBlock 6 w:50 h:3>
 <]><Delay 10><]><Delay 10><]><Delay 10>
 Welcome to Solaris Net...<Delay 10>
