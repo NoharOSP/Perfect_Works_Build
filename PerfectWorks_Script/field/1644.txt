@@ -91,7 +91,7 @@ Go back where you came from.<Close><End of Block>
 <TextBlock 20 w:28 h:3>
 (...hey...<Delay 10>
 It's me...me. <Delay 10>
-Ready to go?<Close><End of Block>
+Ready to go?)<Close><End of Block>
 <TextBlock 21 w:50 h:2>
 You've got no business at
 the watchtower. <Delay 10>Beat it.<Close><End of Block>
