@@ -59,7 +59,8 @@ Fei
 <TextBlock 16 w:16 h:3>
 Fei
 "Damn!
-Got us!"<Close><End of Block>
+They got 
+us!"<Close><End of Block>
 <TextBlock 17 w:30 h:3>
 Fei
 "Elly!<Delay 30> Citan!<Delay 30>
