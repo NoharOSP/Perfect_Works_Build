@@ -54,7 +54,7 @@ tower entrance."<Close><End of Block>
 Samson
 "Right, that's the spirit!<New>
 But, be careful!<Delay 10>
-A female Gebler just came
+A female Geburah just came
 by for some reason..."<Close><End of Block>
 <TextBlock 12 w:36 h:4>
 Fei
@@ -164,7 +164,7 @@ tower entrance."<Close><End of Block>
 Samson
 "Right, that's the spirit!<New>
 But, be careful!<Delay 10>
-A female Gebler just came
+A female Geburah just came
 by for some reason..."<Close><End of Block>
 <TextBlock 30 w:36 h:4>
 Fei
