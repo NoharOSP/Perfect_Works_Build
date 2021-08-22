@@ -179,8 +179,7 @@ but, there's no other
 choice..."<Close><End of Block>
 <TextBlock 41 w:38 h:3>
 Fei
-"You have any good 
-ideas?"<Close><End of Block>
+"You have a plan?"<Close><End of Block>
 <TextBlock 42 w:54 h:3>
 Elly
 "The network terminal
