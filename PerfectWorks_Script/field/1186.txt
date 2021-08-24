@@ -1219,7 +1219,7 @@ headquarters.<New>
 Let's go..."<Close><End of Block>
 <TextBlock 197 w:52 h:4>
 Citan
-"'Anonelbe'...<New>
+"'Ahnenerbe'...<New>
 The long awaited man of
 god, who will take the
 people born in this world
@@ -1238,7 +1238,7 @@ Citan
 "He is Fei.<Delay 30>
 But he is also the one
 who...<New>
-destroyed Elru,<Delay 10> caused Kahr
+destroyed Elul,<Delay 10> caused Carl
 serious injury,<Delay 10> sank the
 Yggdrasil,<Delay 10> killed Rico's
 subordinate's in Kislev...<New>
@@ -1256,20 +1256,19 @@ Jessie
 <TextBlock 202 w:54 h:4>
 Citan
 "He<Delay 5>...<Delay 10>Fei that is,<Delay 10> has
-Disassociative Identity
+Dissociative Identity
 Disorder...<New>
 Also known more commonly as
-multiple personalities."<Close><End of Block>
+Multiple Personality Disorder."<Close><End of Block>
 <TextBlock 203 w:30 h:2>
 Jessie
 "D...<Delay 5>disas...?"<Close><End of Block>
 <TextBlock 204 w:52 h:4>
 Citan
-"Disassociative Identity
-Disorder...<Delay 10>
-or multiple personalities.<New>
-It is a mental disorder
-where one person has
+"Dissociative Identity
+Disorder...<Delay 10><New>
+is a mental disorder
+in which someone has
 multiple personalities."<Close><End of Block>
 <TextBlock 205 w:46 h:2>
 Sigurd
@@ -1279,7 +1278,7 @@ Citan
 "Oh but it is very real!<Delay 10>
 Fei is living proof of it.<New>
 I have been watching over
-Fei, who has a destroyer
+Fei, who has a 'destroyer'
 personality within him
 named 'Id'."<Close><End of Block>
 <TextBlock 207 w:54 h:4>
@@ -1313,7 +1312,7 @@ You probably know that Fei
 worked with Grahf as the
 assasin 'Id' before he was
 brought to live in Lahan.<New>
-It was then that Elru,<Delay 5>
+It was then that Elul,<Delay 5>
 the homeland of Dominia,<Delay 5>
 was utterly obliterated.<New>
 Grahf was intentionally
