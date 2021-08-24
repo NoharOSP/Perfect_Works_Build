@@ -2,7 +2,7 @@
 Ramsus
 "This is your final
 warning. Hand over
-Lt. Elhaym, now!"<Close><End of Block>
+Lt. Elehayym, now!"<Close><End of Block>
 <TextBlock 2 w:36 h:3>
 Ramsus
 "Are you sure you
@@ -32,7 +32,7 @@ Ramsus
 "Incredible!
 This undeniable
 difference in power!<New>
-Miang!
+Myyah!
 Are you watching this!?"<Close><End of Block>
 <TextBlock 6 w:40 h:4>
 Ramsus
