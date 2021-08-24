@@ -510,7 +510,9 @@ Fei
 Th, this...!?"<Close><End of Block>
 <TextBlock 86 w:38 h:2>
 Fei
-"Only the true...!"<Close><End of Block>
+"Is that even 
+living at that 
+point...!? "<Close><End of Block>
 <TextBlock 87 w:30 h:2>
 Fei
 "Quit...<Delay 30> it..."<Close><End of Block>
