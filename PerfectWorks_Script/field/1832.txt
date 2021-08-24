@@ -13,7 +13,7 @@ Ramsus
 "Your performance is sad!"<Opcode 2 30><Close><End of Block>
 <TextBlock 5 w:24 h:2>
 Ramsus
-"Elhaym<Delay 5>...<Delay 5>?"<Close><End of Block>
+"Elehayym<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 6 w:50 h:4>
 Krelian
 "Yes.<Delay 10> This is the place.<Delay 10>
@@ -40,8 +40,8 @@ Ramsus
 <TextBlock 10 w:42 h:4>
 Krelian
 "Your Gear and the
-Anima Relic have been
-aligned<Delay 5>...<Delay 10><New>
+Vessel of Anima have 
+been aligned<Delay 5>...<Delay 10><New>
 This is the Omnigear.<Delay 10>
 Now, she is
 with Fei now."<Close><End of Block>
@@ -71,15 +71,15 @@ Ramsus
 Krelian
 "Ramsus,<Delay 10> will you go?"<Close><End of Block>
 <TextBlock 15 w:44 h:2>
-Miang
-"Kahr,<Delay 10> are you going?"<Close><End of Block>
+Myyah
+"Carl,<Delay 10> are you going?"<Close><End of Block>
 <TextBlock 16 w:42 h:4>
 Ramsus
 "Yes.<Delay 10>
 I must get rid of him
 with my own hands."<Close><End of Block>
 <TextBlock 17 w:54 h:4>
-Miang
+Myyah
 "Be careful.<Delay 10>
 I believe in you
 no matter what others say."<Close><End of Block>
@@ -134,7 +134,7 @@ Fei
 "Ramsus!?"<Close><End of Block>
 <TextBlock 27 w:34 h:3>
 Ramsus
-"Turn Lt. Elhaym<Delay 10>
+"Turn Lt. Elehayym<Delay 10>
 over to me,<Delay 10> Fei!"<Close><End of Block>
 <TextBlock 28 w:50 h:4>
 Fei
