@@ -21,7 +21,7 @@ We're outta here!!<Delay 35>
 ...Huh!?"<Close><End of Block>
 <TextBlock 5 w:44 h:4>
 Jessie
-"Kahr, you're an enemy
+"Carl, you're an enemy
 but why are you so 
 attached to one kid!?<New>
 You weren't like that 
@@ -55,10 +55,10 @@ Citan
 Sir!!"<Close><End of Block>
 <TextBlock 12 w:26 h:2>
 Citan
-"...Kahr...?"<Close><End of Block>
+"...Carl...?"<Close><End of Block>
 <TextBlock 13 w:42 h:4>
 Citan
-"Kahr, we are just in
+"Carl, we are just in
 different situations.<New>
 I did not mean to
 betray you.
@@ -66,7 +66,7 @@ I decided to stick
 with Fei's group."<Close><End of Block>
 <TextBlock 14 w:24 h:2>
 Citan
-"K, Kahr..."<Close><End of Block>
+"C, Carl..."<Close><End of Block>
 <TextBlock 15 w:16 h:2>
 Citan
 "But..."<Close><End of Block>
