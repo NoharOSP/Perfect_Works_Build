@@ -4,8 +4,8 @@ Fei
 doc.
 Id...<New>
 ...Who would've ever
-thought within me, lies
-another me..."<Close><End of Block>
+thought that within me, 
+lies another me..."<Close><End of Block>
 <TextBlock 2 w:50 h:3>
 Fei
 "They say I'm the second
@@ -48,9 +48,9 @@ Fei
 Elly
 "But you're the same Fei
 I've always known.<New>
-You returned to your old
-self. Please don't be
-obsessed with it."<Close><End of Block>
+You've returned to your 
+old self. Please don't 
+be obsessed with it."<Close><End of Block>
 <TextBlock 8 w:48 h:4>
 Elly
 "They're not thinking
