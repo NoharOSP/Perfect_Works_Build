@@ -3,6 +3,8 @@ Xenogers Perfect Works Build: Including all official Xenogears information in PS
 
 ## Stat changes:
 
+WARNING: When the ppf is applied, the game will crash if it is loading a pre-patched save. 
+
 Elly:
 - Hit 7 < 10
 - Ether 15 < 20
