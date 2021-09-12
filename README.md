@@ -39,6 +39,10 @@ El-Renmazuo:
 El-Stier:
 - Agility 7 < 9
 
+## Item changes:
+
+- NisanPendant: Fei exclusive. +32 Ether/Ether Def. Same effect as Holy Pendant. Obtained after Point Bethlehem events.
+
 ## Credits:
 ### Translation: 
 - An Eye for the Infinite http://moonreading.lunarpages.com/xeno/
