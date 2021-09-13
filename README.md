@@ -39,6 +39,10 @@ El-Renmazuo:
 El-Stier:
 - Agility 7 < 9
 
+## Monster changes:
+
+- All exp/gold rates have been doubled.
+
 ## Item changes:
 
 - NisanPendant: Fei exclusive. +32 Ether/Ether Def. Same effect as Holy Pendant. Obtained after Point Bethlehem events.
