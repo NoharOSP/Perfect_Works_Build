@@ -46,6 +46,7 @@ El-Stier:
 ## Item changes:
 
 - NisanPendant: Fei exclusive. +32 Ether/Ether Def. Same effect as Holy Pendant. Obtained after Point Bethlehem events.
+- Eyeballs, Fangs, Scales and Ivory have had their sale prices doubled.
 
 ## Credits:
 ### Translation: 
