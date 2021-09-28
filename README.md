@@ -42,7 +42,7 @@ El-Stier:
 ## Monster changes:
 
 - All exp/gold rates have been doubled.
-- Alpha Weltall at Raziel drops a Power Crisis rather than the Slayer Robe.
+- Alpha Weltall at Raziel now drops a Power Crisis.
 
 ## Item changes:
 
