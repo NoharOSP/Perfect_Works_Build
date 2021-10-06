@@ -64,6 +64,7 @@ El-Stier:
 - edrovinhaz
 - Xenocritus
 - cactusmomma
+- krmine
 - Nohar
 
 ### Character balance:
