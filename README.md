@@ -39,6 +39,10 @@ El-Renmazuo:
 El-Stier:
 - Agility 7 < 9
 
+## Field changes:
+- Encounter rate has been halved except for the Duneman Isle, Shevat Emergency Shaft, Anima Relic 2 and Deus for grinding reasons.
+
+
 ## Monster changes:
 
 - All exp/gold rates have been doubled.
@@ -53,3 +57,24 @@ El-Stier:
 ### Translation: 
 - An Eye for the Infinite http://moonreading.lunarpages.com/xeno/
 - Almagest http://almagest712.blogspot.com/2017/11/xenogears-my-father-you-mean-my-dad.html
+- Ryan Piccuito ↙ ➡ ↘ ⬇ ↙ ⬅ ↘
+- rafael
+- ribbiwawa
+- Will Bill
+- edrovinhaz
+- Xenocritus
+- cactusmomma
+- Nohar
+
+### Character balance:
+- Ryan Piccuito ↙ ➡ ↘ ⬇ ↙ ⬅ ↘
+- rafael
+- Will Bill
+- Xenocritus
+
+### Programming:
+- rufaswan
+- rulv
+- Will Bill
+- Xenocritus
+- Nohar
