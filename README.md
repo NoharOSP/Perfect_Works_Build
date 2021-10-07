@@ -54,6 +54,9 @@ El-Stier:
 - Eyeballs, Fangs, Scales and Ivory have had their sale prices doubled.
 
 ## Credits:
+### Production management:
+- ribbiwawa
+
 ### Translation: 
 - An Eye for the Infinite http://moonreading.lunarpages.com/xeno/
 - Almagest http://almagest712.blogspot.com/2017/11/xenogears-my-father-you-mean-my-dad.html
