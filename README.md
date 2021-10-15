@@ -46,11 +46,13 @@ El-Stier:
 ## Monster changes:
 
 - All exp/gold rates have been doubled.
+- Grahf at Solaris now drops the Slayer Robe
 - Alpha Weltall at Raziel now drops a Power Crisis.
+- Xenogears Id now drops the NisanCross
 
 ## Item changes:
 
-- NisanPendant: Fei exclusive. +32 Ether/Ether Def. Same effect as Holy Pendant. Obtained after Point Bethlehem events.
+- NisanCross: Fei exclusive. +32 Ether/Ether Def. Same effect as Holy Pendant. Obtained after Point Bethlehem events.
 - Eyeballs, Fangs, Scales and Ivory have had their sale prices doubled.
 
 ## Credits:
