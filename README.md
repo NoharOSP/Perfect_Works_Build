@@ -16,8 +16,8 @@ Bart:
 
 Rico:
 - HP 110 < 200
-- Attack 28 < 70
-- Defense 23 < 57
+- Attack 28 < 60
+- Defense 23 < 42
 - Hit 10 < 18
 - Agility 7 < 8
 
