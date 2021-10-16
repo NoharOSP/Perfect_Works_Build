@@ -1,13 +1,13 @@
 <TextBlock 1 w:46 h:4>
 Maria
 "I'm coming, Solaris!<New>
-<Siebzehn> and I 
+<Seibzehn> and I 
 shall be the dark wings
 which carry you all to
 your deaths!!"<Close><End of Block>
 <TextBlock 2 w:30 h:3>
 Nikola
-"<Siebzehn>!!<Delay 20>
+"<Seibzehn>!!<Delay 20>
 Is that Maria?"<Close><End of Block>
 <TextBlock 3 w:36 h:4>
 Maria
@@ -61,16 +61,16 @@ Father..."<Close><End of Block>
 <TextBlock 9 w:36 h:3>
 Maria
 "...!!
-<Siebzehn>...!?"<Close><End of Block>
+<Seibzehn>...!?"<Close><End of Block>
 <TextBlock 10 w:52 h:4>
 Nikola
-"<Siebzehn>...<Delay 20>
+"<Seibzehn>...<Delay 20>
 What? You dare stand 
 against me, your creator?"<Close><End of Block>
 <TextBlock 11 w:34 h:3>
 Maria
 "T...this is...!!<Delay 20>
-<Siebzehn>!?"<Close><End of Block>
+<Seibzehn>!?"<Close><End of Block>
 <TextBlock 12 w:50 h:4>
 Nikola
 "Interesting...<Delay 20>
@@ -78,14 +78,14 @@ I'll take you on.<New>
 I'll show you how great
 Nikola is, and the power
 of the Achtzehn.<Delay 20>
-Come on, <Siebzehn>!!"<Close><End of Block>
+Come on, <Seibzehn>!!"<Close><End of Block>
 <TextBlock 13 w:20 h:3>
 Maria
 "...<Delay 20>
 Father..."<Close><End of Block>
 <TextBlock 14 w:50 h:5>
 Maria
-"<Siebzehn> and I shall
+"<Seibzehn> and I shall
 be the dark wings which
 carry you all to your
 'deaths'!!"<Close><Close><End of Block>
