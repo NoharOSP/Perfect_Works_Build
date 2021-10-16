@@ -7,7 +7,7 @@ troublemaker in Geburah."<Close><End of Block>
 Bart
 "Yeah...
 So, who the heck is he?"<Close><End of Block>
-<TextBlock 3 w:52 h:4>
+<TextBlock 3 w:54 h:4>
 Sigurd
 "Carlin Ramsus<Delay 10> of the Holy
 Solaris Empire's Special
@@ -220,10 +220,11 @@ It seems the orphanage is
 located to the southeast of
 the 'Church of the Ethos' 
 headquarters."<Close><End of Block>
-<TextBlock 34 w:54 h:4>
+<TextBlock 34 w:52 h:3>
 Sigurd
 "It appears the 'Church
-of the Ethos' headquarters<New> 
+of the Ethos' headquarters<New>
+
 is located to the north 
 of the Tamuz.<New>
 We must hurry up and take
@@ -426,7 +427,7 @@ them all over again.<New>
 Wanna see my notes?
     <Opcode 1 255>Let me see them
     Not right now<Close><End of Block>
-<TextBlock 70 w:53 h:4>
+<TextBlock 70 w:52 h:4>
 <Opcode 1 255>1)<Delay 10> The <T> button is the
    accelerator.
    It moves you forward
@@ -627,7 +628,7 @@ Franz
 "That's too bad...<Delay 10>
 You could have seen the
 world between the static!"<Close><End of Block>
-<TextBlock 97 w:48 h:2>
+<TextBlock 97 w:44 h:2>
 <Opcode 1 255>'The Franz Collection'
      Number <Opcode 10 0><Close><End of Block>
 <TextBlock 98 w:48 h:4>
@@ -981,7 +982,7 @@ What's he up to?<New>
 Would it be too much to
 ask for you to go and
 call him for me?"<Close><End of Block>
-<TextBlock 163 w:46 h:3>
+<TextBlock 163 w:44 h:3>
 Fei
 "No problem!<New>
 He's probably wining
@@ -1011,7 +1012,7 @@ Citan
 "Let us make haste!<Delay 10>
 Otherwise the Tamuz will
 be destroyed by Reapers!"<Close><End of Block>
-<TextBlock 169 w:48 h:4>
+<TextBlock 169 w:50 h:4>
 Jessie
 "What about the 'Church'?
 They've completely
@@ -1159,7 +1160,7 @@ To be honest, that was
 too dangerous for me on
 my own. I couldn't have
 done it without you..."<Close><End of Block>
-<TextBlock 191 w:50 h:4>
+<TextBlock 191 w:52 h:4>
 Bart
 "Is your job always this
 dangerous?<New>
@@ -1167,7 +1168,7 @@ Hah, I never thought you
 would call a Gear!?<Delay 10>
 But, what in hell is the
 'Church' thinking anyway?"<Close><End of Block>
-<TextBlock 192 w:50 h:4>
+<TextBlock 192 w:52 h:4>
 Bart
 "Is your job always this
 dangerous?<New>
@@ -1253,7 +1254,7 @@ Id!?"<Close><End of Block>
 <TextBlock 201 w:38 h:2>
 Jessie
 "What do you mean?"<Close><End of Block>
-<TextBlock 202 w:54 h:4>
+<TextBlock 202 w:62 h:4>
 Citan
 "He<Delay 5>...<Delay 10>Fei that is,<Delay 10> has
 Dissociative Identity
@@ -1263,7 +1264,7 @@ Multiple Personality Disorder."<Close><End of Block>
 <TextBlock 203 w:30 h:2>
 Jessie
 "D...<Delay 5>disas...?"<Close><End of Block>
-<TextBlock 204 w:52 h:4>
+<TextBlock 204 w:48 h:3>
 Citan
 "Dissociative Identity
 Disorder...<Delay 10><New>
@@ -1358,13 +1359,15 @@ the most important point."<Close><End of Block>
 Billy
 "Well then...
 shall we go, too?"<Close><End of Block>
-<TextBlock 217 w:66 h:5>
-I've picked up the 'Church's' fleet
-and the Tamuz on the radar, sir.<Delay 10>
-They're on the sea south of here.<Delay 10>
-If we travel at full speed we can
-reach them in an hour.<Close><End of Block>
-<TextBlock 218 w:42 h:3>
+<TextBlock 217 w:60 h:4>
+I've picked up the 'Church's' 
+fleet and the Tamuz on the 
+radar, sir.<Delay 10><New>
+They're on the sea south 
+of here.<Delay 10> If we 
+travel at full speed we 
+can reach them in an hour.<Close><End of Block>
+<TextBlock 218 w:40 h:3>
 Sigurd
 "Alright!<Delay 10>
 Set sail for Tamuz!"<Close><End of Block>
@@ -1399,5 +1402,5 @@ Billy
 "That's gigantic...<Delay 10>
 What in the heavens
 is happening...?"<Close><End of Block>
-<TextBlock 227 w:3 h:1>
+<TextBlock 227 w:2 h:1>
  <Close><Close><End of Block>
