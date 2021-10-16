@@ -97,7 +97,7 @@ Maria.<New>
 We're friends from
 now on, <Delay 20>
 you and...
-you and <Siebzehn> too."<Close><End of Block>
+you and <Seibzehn> too."<Close><End of Block>
 <TextBlock 21 w:22 h:2>
 Fei
 "I got it."<Close><End of Block>
@@ -129,11 +129,11 @@ Maria
 "Achtzehn...<Delay 30>
 is the 2nd Gear my father
 designed...<New>
-<Siebzehn>'s
+<Seibzehn>'s
 sister Gear.<Delay 20>
 But Achtzehn wasn't
 completed...!<New>
-Other than <Siebzehn>
+Other than <Seibzehn>
 father didn't make anymore,
 he was supposed to have
 burned the plans...!<New>
@@ -216,7 +216,7 @@ with you?"<Close>
 I hate just sitting here,
 waiting patiently.<Delay 20>
 I want to do something...
-Take me and <Siebzehn>!"<Close><End of Block>
+Take me and <Seibzehn>!"<Close><End of Block>
 <TextBlock 47 w:12 h:2>
 Maria
 "Yes."<Close><End of Block>
@@ -285,7 +285,7 @@ Zephyr
 Listen, Maria...<New>
 If the other Gears become
 immoblie, you and
-<Siebzehn> are the
+<Seibzehn> are the
 only hope.<New>
 You're full of spirit...<Delay 20>
 You can decide what to
@@ -406,7 +406,7 @@ only momentary."<Close><End of Block>
 <TextBlock 73 w:52 h:3>
 Jessie
 "Achtzehn and its sister
-Gear <Siebzehn>...<New>
+Gear <Seibzehn>...<New>
 So, it's normal there is
 an anti-jamming shield..."<Close><End of Block>
 <TextBlock 74 w:38 h:4>
@@ -942,10 +942,10 @@ But..."<Close><End of Block>
 Citan
 "That is not what I mean.<Delay 20>
 What if...
-If <Siebzehn>..."<Close><End of Block>
+If <Seibzehn>..."<Close><End of Block>
 <TextBlock 185 w:54 h:4>
 Citan
-"If <Siebzehn> is
+"If <Seibzehn> is
 Achtzehn's sister Gear...
 then maybe...just maybe...<New>
 ...What I am saying is that
