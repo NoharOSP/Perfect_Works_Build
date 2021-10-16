@@ -153,7 +153,7 @@ Maria
 take the elevator to
 go upstairs.<New>
 I still have to finish
-inspecting <Siebzehn>."<Close><End of Block>
+inspecting <Seibzehn>."<Close><End of Block>
 <TextBlock 28 w:44 h:4>
 Maria
 "I'll show you the way
