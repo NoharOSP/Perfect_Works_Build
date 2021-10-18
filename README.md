@@ -30,14 +30,17 @@ Elly:
 
 To help offset this and due to us not being a fan of strictly nerfing characters without compensations to other parts of their kit, Elly is receiving buffs for on-foot that will make her more inviting of an option. Though she is a mandatory party member fairly often this is in gear sections a majority of the time. So this will hopefully make her a bit more flexible overall. Her Rods will also have an increase to their damage overall and come with some more utility options to make her a more rounded character without removing her defining weakness of lacking on the physical front. 
 
+
 Bart:
-Bart is generally one of the weakest characters in the game due to mediocrity. For most of the game anything he can do others can do better. Without wild smile it’s arguable he’s even worse than Rico because at least stier was good, Bart’s gears tended to be outclassed. The goal was to rework bart to be much more supportive and improve his jack of all trades nature to be more useful for him. 
 
 - Defense 10 < 14
 - Ether 7 < 14
 - Evade 14 < 16
 
+Bart is generally one of the weakest characters in the game due to mediocrity. For most of the game anything he can do others can do better. Without wild smile it’s arguable he’s even worse than Rico because at least stier was good, Bart’s gears tended to be outclassed. The goal was to rework bart to be much more supportive and improve his jack of all trades nature to be more useful for him. 
+
 These stat changes should allow Bart to be a lot more useful overall with out just buffing his attack stat to compensate for his middling toolkit. It also helps give him a sense of identity on the roster, as well as using generally under utilized stats in the game. No one in particular focused on defense or evasion so efforts are being made to help these stats play more of an impact as well as diversify the party. 
+
 
 Rico:
 - HP 110 < 200
@@ -48,24 +51,30 @@ Rico:
 
 Rico is iconically bad. His tied for lowest speed in the game. His Agility and Hit stats are obviously bad but he doesn’t have anything to compensate for this. When he joins most of his stats are worse than Fei’s. Which really undersells he’s one of the only people who beat Fei in a 1v1 fight. Combined with no utility like healing or area of effect damage and Rico is comedically undercooked. The easy solution would be just to give him high speed but that just ruins the diversity of the cast. If that’s what we changed people would still not pick Rico because he’s just a worse Citan. We decided to double down on making Rico a juggernaut. His stats and growths have been adjusted to make him an offensive behemoth so he has noticeable strengths. We also slightly raised his agility to match the boss fight and to prevent the Ganondorf conundrum of giving a character so much power and having them still not be good because they don’t get to use it. Plus this ties him with Elly’s old agility stat, instead of putting him with the characters who lack deathblows. The same goes for his Hit rate as his accuracy is actually hilariously good for his boss fight. The balance for Rico’s absurd stats is his complete lack of any utility. (No healing, cures, aoe, elemental coverage etc)
 
+
 Chu-Chu:
 - Ether 12 < 25
 
+
 Weltall/Weltall-2/Xenogears:
 - Ether amp 10 < 15
+
 
 Stier:
 - Agility 7 < 8
 
 Stier was given a point of agility to help differentiate it from Seibzehn. They have very similar builds so while Stier was unironically very good it tends to be worse than Seibzehn once the Power Magics came into play. This gives distinctions to similar characters. 
 
+
 Seibzehn:
 - Ether amp 10 < 12
 
 Seibzehn tends to be used as a magic nuke who can attack physically so the Ether Amp was raised to help it focus on that goal. On-foot Maria is actually pretty good and fairly underrated on account of her low speed and no deathblows. Due to her insanely high damaging spells that run off of Seibzehn’s Ether stats including Power Magics, Maria can be a fairly strong on foot character if invested in. 
 
+
 El-Renmazuo:
 - RENM-24800 24800 < 28000
+
 
 El-Stier:
 - Agility 7 < 9
