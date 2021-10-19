@@ -158,4 +158,5 @@ Barts whips having status effects are a really underused part of his kit. His wh
 - rulv
 - Will Bill
 - Xenocritus
+- krmine
 - Nohar
