@@ -79,6 +79,8 @@ El-Renmazuo:
 El-Stier:
 - Agility 7 < 9
 
+All deathblow learning rates (sans Emeralda) have been doubled to accomodate for the lower encounter rate.
+
 ### Field changes:
 
 - Encounter rate has been halved except for the Duneman Isle, Shevat Emergency Shaft, Anima Relic 2 and Deus for grinding reasons.
