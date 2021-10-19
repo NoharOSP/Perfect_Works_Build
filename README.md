@@ -81,6 +81,11 @@ El-Stier:
 
 All deathblow learning rates (sans Emeralda) have been doubled to accomodate for the lower encounter rate. Elly's has been changed to 8 from 3 so that players have more time to get her deathblows for plot related reasons.
 
+### Spell changes:
+
+Fei:
+- Big Bang: Lv70 > Lv72
+
 ### Field changes:
 
 - Encounter rate has been halved except for the Duneman Isle, Shevat Emergency Shaft, Anima Relic 2 and Deus for grinding reasons.
