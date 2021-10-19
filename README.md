@@ -101,8 +101,8 @@ Throughout the game encounter rates have been lowered. For many players this has
 
 ### Field equipment changes:
 
-- All of Elly's rods have had their attack increased.
-- WhippaSnappa: Add ‘Inflict Slow on hit’
+- All of Elly's rods have had their attack increased (values TBW).
+- WhippaSnappa: Attack has increased (value TBW).
 - CobraCracka: Change power from 5 to 9
 - Serpent Sting: Add ‘Inflict Confusion on hit’
 - Silver Blood: Add ‘Heal 20% of damage dealt on hit’ -Whip-Lasher: Add ‘Inflict Blind on hit’
@@ -116,7 +116,7 @@ Barts whips having status effects are a really underused part of his kit. His wh
 ### Gear equipment changes:
 
 - Snapper GWhip: Add ‘Inflict Slow on hit’
-- Serpent GWhip: Add ‘Inflict Confusion on hit’
+- Serpent GWhip: Add Attack has increased (value TBW).
 - BSnake GWhip: Add ‘Inflict Ether Machine Shutdown on hit’
 - SBlood GWhip: Add ‘Drain 5% of foe’s fuel on hit’
 - Thor GWhip: Add Wind Element
