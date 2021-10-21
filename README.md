@@ -112,9 +112,11 @@ Throughout the game encounter rates have been lowered. For many players this has
 - WhippaSnappa: Attack has increased (value TBW).
 - CobraCracka: Change power from 5 to 9
 - Serpent Sting: Add ‘Inflict Confusion on hit’
-- Silver Blood: Add ‘Heal 20% of damage dealt on hit’ -Whip-Lasher: Add ‘Inflict Blind on hit’
+- Silver Blood: Add ‘Heal 20% of damage dealt on hit’ 
+- Whip-Lasher: Add ‘Inflict Blind on hit’
 - Desert Worm: Add ‘Steal 10% of foe’s EP on hit’
-- Sonic Wave: Add ‘Decrease foe’s Defense by 10% on hit’ -Wonder Whip: Add ‘Inflict Silence on hit’
+- Sonic Wave: Add ‘Decrease foe’s Defense by 10% on hit’ 
+- Wonder Whip: Add ‘Inflict Silence on hit’
 - Thor’s Thunda: Add Wind Element
 - Death Adder: Add ‘Inflict Stop on hit’
 
