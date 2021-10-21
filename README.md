@@ -122,6 +122,10 @@ Throughout the game encounter rates have been lowered. For many players this has
 
 Barts whips having status effects are a really underused part of his kit. His whips in general were unimpressive. They don’t have the power of Billy’s guns Or Citan’s swords but unlike Elly he didn’t have as many unique utility weapons to compensate. They really just kept his attack comparable to Fei’s. Whips have been reworked with utility first in mind with the idea of switching between them to be helpful for the situation at hand.
 
+- Yamato Sword: Has an instant death effect.
+
+The Yamoto Sword is the entire reason and main reward for going to the Duneman Isles. However the blade the dragons drop here literally does more damage. This is hyper demotivating. So the instant death effect was given to make players not only feel more satisfied for getting this, it also gives you a more fun tool to play with. 
+
 ### Gear equipment changes:
 
 - Snapper GWhip: Add ‘Inflict Slow on hit’
