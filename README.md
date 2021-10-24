@@ -146,10 +146,10 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 - NisanCross: Fei exclusive. +32 Ether/Ether Def. Same effect as Holy Pendant. Obtained after Point Bethlehem events.
 - CCracka GWhip: +90 Attack and Inflicts Fuel Leak on hit. Available to buy at Tammuz. 
 - Lasher GWhip: +75 Attack and Inflicts Camera Damage on hit. Available to buy after Gate 1.
-- Citan Jr Doll: Increases speed by 2.
-- Rico Jr Doll: Increases attack by 20.
-- Maria Jr Doll: Increases EtherDef by 40.
-- Margie Jr Doll: LifeStone and +5 to Eth/Edef.
+- Citan Jr Doll: Increases speed by 2. Available to buy in the Yggdrasil III in Disc 2 for 60000.
+- Rico Jr Doll: Increases attack by 20. Available to buy in the Yggdrasil III in Disc 2 for 60000.
+- Maria Jr Doll: Increases EtherDef by 40. Available to buy in the Yggdrasil III in Disc 2 for 60000.
+- Margie Jr Doll: LifeStone and +5 to Eth/Edef. Available to buy in the Yggdrasil III in Disc 2 for 60000.
 
 
 
