@@ -131,6 +131,7 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 - Elly Jr Doll: +35 rather than randomly inc/dec Ether power.
 - Emeralda Jr Doll: Now has the same effect as Economether.
 - Mermaid Ring: Provides Economether effect.
+- Ether Doubler: Can be purchased at Shevat and Yggdrasil III (Disc 2)
 
 ### Gear equipment changes:
 
@@ -140,6 +141,7 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 - SBlood GWhip: Add ‘Drain 5% of foe’s fuel on hit’
 - Thor GWhip: Add Wind Element
 - Sonic GWhip: Change effect to ‘Decrease foe’s Defense by 10% on hit’
+- Magnetic Coat: Can be purchased at Shevat and Yggdrasil III (Disc 2)
 
 ### New items:
 
