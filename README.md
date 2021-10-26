@@ -15,7 +15,11 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 
 ### Name changes:
 
-- Bart Missiles are now Bart Bombs
+- Wind Mode = Zephyr Mode.
+- Earth Mode = Seismic Mode.
+- Fire Mode = Inferno Mode.
+- Water Mode = Torrent Mode.
+- Bart Missiles = Bart Bombs.
 
 
 ## Gameplay:
