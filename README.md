@@ -87,10 +87,29 @@ El-Stier:
 
 All deathblow learning rates (sans Emeralda) have been doubled to accomodate for the lower encounter rate. Elly's has been changed to 8 from 3 so that players have more time to get her deathblows for plot related reasons.
 
-### Spell changes:
+### Spell power changes:
+
+Fei:
+- Guided Shot: 40 > 20
+- Radiance: 100 > 60
+- Big Bang: 120 > 80
+
+Fei’s generally pretty great when balanced against the cast. But against himself, his Ether attacks tends to be very overshadowed and down right wasteful to use. All options should have merit. Even if it’s situational, a situational merit is better than consistently being eclipsed by basic attacks. They’re viable with Power Magic abuse but even Steel Mettle is with that. These changes will give players better insensitive to use these moves throughout the game. It also helps Weltall a fair bit. It tends to fall off hard by disc 1’s end. Between Renmazuo, Vierge, Siebzhen, Crescens (by technicality) and the addition of Andvari to your squad Fei really struggles to carry his weight. This will let him be better at contributing. Big Bang is admittedly a very reliable spell even without its new buffs. But it’s only learned before the final dungeon typically so this will help it see a little more prominence in disc 2.
+
+Vierge:
+- AERODS: 40 > 50. Fuel cost: 250 > 400
+
+Elly is a peculiar character; overall she’s a solid mid tier. She herself is fine and her gear isn’t too impressive. But AERODs throws all that out the window, allowing her to one shot several of the games bosses. While bosses are getting a buff, she hits 9999 way too early and easily because of Ether Doublers and Power Magics. So along with Power Magics in general being nerfed simply for being too beneficial for how easy they are to get; AERODs are also losing some points from its power output so that, while the classic boss slayer build will still be a thing, you must now commit more to it to get results. This should give bosses more of a presence in the first disc as Elly soundly obliterates the mid-game, and let other options shine for gears because AERODs becomes a crutch for many players. And given its...limited availability this isn’t exactly healthy to goad players to dump all investment into Vierge only to lose it in disc 2.
+
+### Learning level changes:
 
 Fei:
 - Big Bang: Lv70 > Lv72
+
+Bart:
+- All modes: Level 45 > 56
+
+Barts abilities were a bit too high on the level requirements. Bart has a bit of a gap in time where he’s out of the party which tends to hurt him a bit (less deathblow exp and less reasons to upgrade his gear) so this will give him some more reasons to be used. 
 
 ### Field changes:
 
@@ -114,9 +133,26 @@ Throughout the game encounter rates have been lowered. For many players this has
 
 ### Field equipment changes:
 
-- All of Elly's rods have had their attack increased (values TBW).
-- WhippaSnappa: Attack has increased (value TBW).
-- CobraCracka: Change power from 5 to 9
+Elly:
+- Magical Rod: +5 > +4.
+- Arcane Rod: +7 > +6.
+- Hot Rod: +9 > +8.
+- Lunar Rod: +12 > +8.
+- Marshal Rod: +16 > 12.
+- Thunder Rod: +19 > +14.
+- Stone Rod: +19 > +14.
+- Flare Rod: +21 > +16.
+- Ice Rod: +19 > +14.
+- Queen's Rod: +24 > +18.
+- Dynamite Rod: +32 > +20.
+- Dark Rod: +34 > +22.
+- Chaos Rod: +31 > +24.
+- Psycho Rod: +36 > +28.
+- Skull Rod: +40 > +38.
+
+Bart:
+- WhippaSnappa: +8 > +6.
+- CobraCracka: +9 > +5
 - Serpent Sting: Add ‘Inflict Confusion on hit’
 - Silver Blood: Add ‘Heal 20% of damage dealt on hit’ 
 - Whip-Lasher: Add ‘Inflict Blind on hit’
@@ -141,12 +177,13 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 ### Gear equipment changes:
 
 - Snapper GWhip: Add ‘Inflict Slow on hit’
-- Serpent GWhip: Add Attack has increased (value TBW).
+- Serpent GWhip: Add Attack has increased. Power: +42 > +35
 - BSnake GWhip: Add ‘Inflict Ether Machine Shutdown on hit’
 - SBlood GWhip: Add ‘Drain 5% of foe’s fuel on hit’
 - Thor GWhip: Add Wind Element
 - Sonic GWhip: Change effect to ‘Decrease foe’s Defense by 10% on hit’
 - Magnetic Coat: Can be purchased at Shevat and Yggdrasil III (Disc 2)
+- Power Magic: Ether Amp +7 > +10
 
 ### New items:
 
