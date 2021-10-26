@@ -132,6 +132,7 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 - Emeralda Jr Doll: Now has the same effect as Economether.
 - Mermaid Ring: Provides Economether effect.
 - Ether Doubler: Can be purchased at Shevat and Yggdrasil III (Disc 2)
+- Slayer Robe: Can be purchased at Yggdrasil III (Disc 2)
 
 ### Gear equipment changes:
 
