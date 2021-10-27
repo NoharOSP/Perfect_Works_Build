@@ -183,7 +183,7 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 - Thor GWhip: Add Wind Element
 - Sonic GWhip: Change effect to ‘Decrease foe’s Defense by 10% on hit’
 - Magnetic Coat: Can be purchased at Shevat and Yggdrasil III (Disc 2)
-- Power Magic: Ether Amp +7 > +10
+- Power Magic: Ether Amp +7 > +10. Can be purchased at the Anima Dungeons and Merkava (first trip).
 
 ### New items:
 
