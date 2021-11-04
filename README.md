@@ -67,15 +67,14 @@ Weltall/Weltall-2/Xenogears:
 
 
 Stier:
+- Attack modifier: 14 > 12
 - Agility 7 < 8
 
 Stier was given a point of agility to help differentiate it from Seibzehn. They have very similar builds so while Stier was unironically very good it tends to be worse than Seibzehn once the Power Magics came into play. This gives distinctions to similar characters. 
 
 
 Seibzehn:
-- Ether amp 10 < 12
-
-Seibzehn tends to be used as a magic nuke who can attack physically so the Ether Amp was raised to help it focus on that goal. On-foot Maria is actually pretty good and fairly underrated on account of her low speed and no deathblows. Due to her insanely high damaging spells that run off of Seibzehn’s Ether stats including Power Magics, Maria can be a fairly strong on foot character if invested in. 
+- Agility 6 > 8
 
 
 El-Renmazuo:
@@ -83,6 +82,7 @@ El-Renmazuo:
 
 
 El-Stier:
+- Attack modifier: 14 > 12
 - Agility 7 < 9
 
 All deathblow learning rates (sans Emeralda) have been doubled to accomodate for the lower encounter rate. Elly's has been changed to 8 from 3 so that players have more time to get her deathblows for plot related reasons.
