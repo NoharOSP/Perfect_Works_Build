@@ -87,6 +87,9 @@ El-Stier:
 
 All deathblow learning rates (sans Emeralda) have been doubled to accomodate for the lower encounter rate. Elly's has been changed to 8 from 3 so that players have more time to get her deathblows for plot related reasons.
 
+Yggdrasil IV:
+- Agility 8 < 10
+
 ### Spell power changes:
 
 Fei:
