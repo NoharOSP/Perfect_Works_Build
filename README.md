@@ -128,6 +128,89 @@ Throughout the game encounter rates have been lowered. For many players this has
 - Alpha Weltall at Raziel now drops a Power Crisis. The Alpha Weltall fight is great. It’s rewards not so much. You need the Trader's Card just to get it and it’s generic armor. Not even the best for pure defense. So at base for beating the boss you’ll receive a Power Crisis. This will make the few sections left on foot at least a little more enjoyable if you miss the first one or want more. 
 - Xenogears Id now drops the NisanCross. Gives +32 to Ether and Ether Defense along with the Holy Pendant’s doubling support effects. The game gives you a pendant after the fight with the titular Xenogears. It does nothing though. It’s plot only. We decided to give it a use. It’s job is to facilitate Fei’s 2 builds in endgame; Power Magics and Hyper Mode. It also allows others to use the pendant you get by default from Billy. 
 
+### Monster stats:
+
+Unless stated otherwise, the stat changed is HP.
+
+- Earth Seraph: 5000 < 18000
+- Fire Seraph: 3400 < 18000
+- Fire Seraph 2: 15800 < 20000
+- Heal Seraph: 2000 < 18000
+- Sword Seraph: 2500 < 18000
+- Sword Seraph 2: 3500 < 18000 
+- Water Seraph: 1800 < 18000
+- Water Seraph 2: 3400 < 18000			
+- Wind Seraph: 3500 < 18000
+- Power Seraph: 15800 < 20000
+- Assassin 1: HP 290 < 450 EDef 10 < 60 
+- Assassin 2: HP 260 < 400 EDef 20 < 70 
+- Gebler Guard: 160 < 350
+- Solaris Guard: 200 < 530 
+- Gimmick: 6 < 12 
+- Wels: 200 < 300 
+- Neo Wels: 200 < 400 
+- Dorothy: 300 < 400 
+- Tin Robo: 138 < 250 
+- Medusoid: 65 < 130
+- Medusoid 2: 400 < 800 
+- HarquebusMk10: EDef 30 < 60
+- NeoMushaMk100: EDef 40 < 80 
+- Hatamoto Mk3: EDef 40 < 80 
+- Shinobi Mk0: EDef 40 < 80 
+- Traffic Jam: 345 < 600 
+- Gun Drone: 400 < 600 
+- Dune Man: HP 200 < 1000 Atk 100 < 150 Agility 11 < 13 Hit 40 < 100 
+- Hobgob (Sewers): 90 < 200 
+- Armour Grub: 7 < 15
+- Armour Wasp: 77 < 150 
+- Abandon: 150 < 300 
+- Shellbelle: 680 < 800 					
+- Dive Bomber: 30 < 60 
+- Lucre Bug: 77 < 150 
+- Neo Gimmick: 7 < 14 
+
+### Boss stats:
+
+- Swordknight: Atk 90 < 80 Def 40 < 30 
+- Aegisknight: Atk 80 < 70 Def 60 < 50 
+- Wandknight: Atk 90 < 80 Def 40 < 30
+- Clawknight: Atk 80 < 70 Def 40 < 30
+- Schpariel: Atk 90 < 80 Def 40 < 30
+- Wiseman: XP 1 < 4000
+- Hecht: 7500 < 9500 Atk 200 < 250 Def 70 < 100 Ether 25 < 50
+- Fis.6 HP 6800 < 17000 Atk 204 < 250 Def 80 < 100 EthDef 80 < 90
+- Haisho (Dominia): HP 2800 < 5000 
+- Bladegash: 3000 < 10000
+- Bloody (Ethos Transport): HP 8888 Atk 75 < 100 
+- Giant Wels: HP 7000 < 14000 Atk 300 < 350
+- Tolone: HP 2500 < 3000 
+- Seraphita: HP 2000 < 2500 
+- Id: 3000 < 6666
+- Wyvern: HP 5000 < 28000 Atk 330 < 400 
+- Seibzehn: HP 5500 < 18000 Atk 380 < 420 Def 300 < 250 EDef 40 < 100
+- White Knights: HP 290 < 400 
+- Achtzehn: HP 12000 < 20000 Atk 600 < 1000 Def 300 < 500 Ether 20 < 50 EDef 0 < 50 
+- Shakhan: 18000 to 28000
+- Bladegash 2: 4000 < 23000
+- Marinebasher: HP 5000 < 15000 EDef 100 < 200
+- Skyghene: HP 5000 < 18000 Atk 400 < 500 Eth 50 < 100 Evade 35 < 70
+- Grandgrowl: HP 6000 < 20000 Atk 500 < 600 Eth 60 < 90 Edef 50 < 100
+- Crescens: EDef 100 < 500
+- Grahf: HP 9666 < 6666 Atk 255 < 200 Eth 255 < 150 Agility 13 < 9
+- Vendetta: 12000 < 22000
+- Ft Hurricane HP 13000 < 50000
+- Sufal Mass: HP 4800 < 20000 Def 70 < 140 EDef 50 < 100
+- Sufal: Agility 7 < 10 Eth 20 < 50 
+- Dominia: 4000 < 17000
+- Kelvina: 2500 < 10000
+- Tolone: 2500 < 14000 Atk 80 < 120 Eth 40 < 80
+- Seraphita: 2500 < 13000
+- G-Elements: HP 45000 < 60000 Def 600 < 300
+- Opiomorph: 25000 to 30000
+- Id Xenogears: HP 30400 < 60000 Atk 825 < 1000 Ether 90 < 150 
+- True Weltall HP 15000 < 30000 Atk 800 Eth 150 
+- Deus 75000 to 150000
+- Urobolus HP 50000 < 75000
 
 ### Item changes:
 
