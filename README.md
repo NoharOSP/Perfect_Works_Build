@@ -26,8 +26,6 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 
 ### Stat changes:
 
-WARNING: When the ppf is applied, the game will crash if it is loading a pre-patched save. 
-
 Xenogears is frankly; terribly balanced. Not exactly its fault in particular, Squaresoft games were all infamous for this, even their well balanced games like Chrono Trigger had hiccups. Most of the cast has been rebalanced primarily around Billy and Emeralda as they’re frankly the most balanced party members in the game across gears and on-foot. BUFFS ARE THE PRIORITY! There are some necessary nerfs we begrudgingly made but we really wanted to focus on bugging the roster. the issue with the rosters balance primarily a bunch of not useful options and characters so that’s where the focus is. Characters and gears will be discussed in the same sections. 
 
 Elly:
