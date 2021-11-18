@@ -122,9 +122,7 @@ Throughout the game encounter rates have been lowered. For many players this has
 ### Monster changes:
 
 - All exp/gold rates have been doubled.
-- Grahf at Solaris now drops the Slayer Robe. Simple enough really; it doesn’t see much use normally so it’s been given earlier access. 
 - Alpha Weltall at Raziel now drops a Power Crisis. The Alpha Weltall fight is great. It’s rewards not so much. You need the Trader's Card just to get it and it’s generic armor. Not even the best for pure defense. So at base for beating the boss you’ll receive a Power Crisis. This will make the few sections left on foot at least a little more enjoyable if you miss the first one or want more. 
-- Xenogears Id now drops the NisanCross. Gives +32 to Ether and Ether Defense along with the Holy Pendant’s doubling support effects. The game gives you a pendant after the fight with the titular Xenogears. It does nothing though. It’s plot only. We decided to give it a use. It’s job is to facilitate Fei’s 2 builds in endgame; Power Magics and Hyper Mode. It also allows others to use the pendant you get by default from Billy. 
 
 ### Monster stats:
 
@@ -271,7 +269,7 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 
 ### New items:
 
-- NisanCross: Fei exclusive. +32 Ether/Ether Def. Same effect as Holy Pendant. Obtained after Point Bethlehem events.
+- NisanCross: Fei exclusive. +5 Ether/Ether Def. Same effect as Holy Pendant. Initial equip on Fei.
 - CCracka GWhip: +90 Attack and Inflicts Fuel Leak on hit. Available to buy at Tammuz after Gate 2. 
 - Lasher GWhip: +75 Attack and Inflicts Camera Damage on hit. Available to buy in Nisan after Gate 1.
 - Citan Jr Doll: Increases speed by 2. Available to buy in the Yggdrasil III in Disc 2 for 60000.
