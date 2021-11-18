@@ -197,7 +197,7 @@ Unless stated otherwise, the stat changed is HP.
 - Grahf: HP 9666 < 6666 Atk 255 < 200 Eth 255 < 150 Agility 13 < 9
 - Vendetta: 12000 < 22000
 - Ft Hurricane HP 13000 < 50000
-- Sufal Mass: HP 4800 < 20000 Def 70 < 140 EDef 50 < 100
+- Sufal Mass: HP 4800 < 20000 EDef 50 < 100
 - Sufal: Agility 7 < 10 Eth 20 < 50 
 - Dominia: 4000 < 17000
 - Kelvina: 2500 < 10000
