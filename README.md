@@ -122,7 +122,9 @@ Throughout the game encounter rates have been lowered. For many players this has
 ### Monster changes:
 
 - All exp/gold rates have been doubled.
+- The Executioner drops the ExecutionerGown.
 - Alpha Weltall at Raziel now drops a Power Crisis. The Alpha Weltall fight is great. It’s rewards not so much. You need the Trader's Card just to get it and it’s generic armor. Not even the best for pure defense. So at base for beating the boss you’ll receive a Power Crisis. This will make the few sections left on foot at least a little more enjoyable if you miss the first one or want more. 
+- Opiomorph drops the NisanCross.
 
 ### Monster stats:
 
@@ -269,7 +271,8 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 
 ### New items:
 
-- NisanCross: Fei exclusive. +5 Ether/Ether Def. Same effect as Holy Pendant. Initial equip on Fei.
+- CrossPendant: Fei exclusive. +5 Ether/Ether Def. Same effect as Holy Pendant. Initial equip on Fei.
+- NisanCross: Fei exclusive. +32 Ether/Ether Def. Same effect as Holy Pendant. Dropped by Opiomorph
 - CCracka GWhip: +90 Attack and Inflicts Fuel Leak on hit. Available to buy at Tammuz after Gate 2. 
 - Lasher GWhip: +75 Attack and Inflicts Camera Damage on hit. Available to buy in Nisan after Gate 1.
 - Citan Jr Doll: Increases speed by 2. Available to buy in the Yggdrasil III in Disc 2 for 60000.
