@@ -311,4 +311,5 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 - Will Bill
 - Xenocritus
 - krmine
+- edrovinhaz
 - Nohar
