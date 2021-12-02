@@ -49,7 +49,7 @@ here, at Babel Tower...<New>
 I know of your plan to use
 them together to destroy
 the Gate generator below
-the 'Ethos' headquarters.<New>
+the 'Church' headquarters.<New>
 But, of course, I won't
 let you do it."<Close><End of Block>
 <TextBlock 11 w:28 h:2>
@@ -57,9 +57,9 @@ Dominia
 "Here I come!"<Close><End of Block>
 <TextBlock 12 w:46 h:4>
 Dominia
-"That was fun Elehayym,<Delay 40> 
-but I'm just getting
-started with you."<Close><End of Block>
+"I'll let you off easy
+this time.<Delay 40> 
+Next time is for real!"<Close><End of Block>
 <TextBlock 13 w:50 h:3>
 Dominia
 "Amazing how you've held
@@ -89,8 +89,8 @@ you need to be
 more flexible."<Close><End of Block>
 <TextBlock 18 w:52 h:3>
 Cherubina
-"How long will you hold?...<Delay 40>
-Let's go!"<Close><End of Block>
+"How long will it hold?...<Delay 40>
+I'm going!"<Close><End of Block>
 <TextBlock 19 w:40 h:2>
 Cherubina
 "Let's finish this."<Close><End of Block>
@@ -113,6 +113,6 @@ The door is locked.<Close><End of Block>
 <TextBlock 23 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 24 w:40 h:2>
+<TextBlock 24 w:20 h:2>
  
  Received <Opcode 4 20><Close><Close><End of Block>
