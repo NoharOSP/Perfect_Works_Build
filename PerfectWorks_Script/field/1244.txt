@@ -1,5 +1,5 @@
 <TextBlock 1 w:24 h:1>
-<Opcode 1 255>Armor Ground<Close><End of Block>
+<Opcode 1 255>Deck Plaza<Close><End of Block>
 <TextBlock 2 w:30 h:1>
 <Opcode 1 255>Supply Entrance<Close><End of Block>
 <TextBlock 3 w:28 h:1>
@@ -16,11 +16,11 @@ Then get outta here.
 I got work to do.<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 The Reapers are good
-from afar but afar from
+from afar but far from
 good. <New>
 It's the biggest mistake
 they'll ever make
-if they miss with a
+if they mess with a
 beefcake like me.<Close><End of Block>
 <TextBlock 7 w:50 h:3>
 Doh!! That is
@@ -29,14 +29,14 @@ Now listen to me very
 carefully, I'm only going
 to tell you once.<Close><End of Block>
 <TextBlock 8 w:34 h:1>
-This is the deck!<Close><End of Block>
+This is the deck plaza!<Close><End of Block>
 <TextBlock 9 w:48 h:4>
 This is the entrance to
 the screw elevator which
 allows you to get to the
 bridge.<Close><End of Block>
 <TextBlock 10 w:46 h:3>
-This is a supply
+This is the supply
 entrance but it also
 serves as a Gear Shop!!<Close><End of Block>
 <TextBlock 11 w:42 h:2>
@@ -49,7 +49,7 @@ the sea day to
 day<Delay 10>...<Delay 10>...<Delay 10>sigh...<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Having that job from
-the 'Ethos' ruined,<New>
+the 'Church' ruined,<New>
 I guess there's no other
 way for me to make a
 living 'cept diving...

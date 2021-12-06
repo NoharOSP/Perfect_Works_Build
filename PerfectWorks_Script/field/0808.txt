@@ -1,11 +1,11 @@
 <TextBlock 1 w:18 h:1>
 World Map<Close><End of Block>
 <TextBlock 2 w:28 h:1>
-South Bledavik<Close><End of Block>
+South Breidablik<Close><End of Block>
 <TextBlock 3 w:34 h:1>
-Under Martial Law<Close><End of Block>
+- Under Martial Law -<Close><End of Block>
 <TextBlock 4 w:28 h:1>
-North Bledavik<Close><End of Block>
+North Breidablik<Close><End of Block>
 <TextBlock 5 w:40 h:1>
 South Shakhan Square<Close><End of Block>
 <TextBlock 6 w:34 h:2>
@@ -19,4 +19,4 @@ Square<Close><End of Block>
 <TextBlock 9 w:26 h:1>
 Fatima Castle<Close><End of Block>
 <TextBlock 10 w:42 h:1>
-Castle Gate is Closed<Close><Close><End of Block>
+Castle gate is closed<Close><Close><End of Block>

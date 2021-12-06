@@ -3,12 +3,12 @@ Imperial Guard
 "Up ahead is the northern
 gate of A Block, but it
 is closed off due to<New>
-contruction."<Close><End of Block>
+construction."<Close><End of Block>
 <TextBlock 2 w:50 h:4>
 Imperial Guard
 "We deeply apologize, but
-there are 3 other gates.<New>
-The west, north and the
+there are three other<New>
+gates: west, north and
 south. Please enter
 through any one of
 those."<Close><End of Block>
@@ -23,7 +23,7 @@ permit you passage."<Close><End of Block>
 Imperial Guard
 "It's unfortunate, but
 it's my job.<Delay 15> Please,
-leave the presmises<Delay 5>..."<Close><End of Block>
+leave the premises<Delay 5>..."<Close><End of Block>
 <TextBlock 5 w:50 h:4>
 Imperial Guard
 "The sun has already gone
@@ -35,18 +35,18 @@ permit you passage."<Close><End of Block>
 Imperial Guard
 "It's unfortunate, but
 it's my job.<Delay 15> Please,
-leave the presmises<Delay 5>..."<Close><End of Block>
+leave the premises<Delay 5>..."<Close><End of Block>
 <TextBlock 7 w:50 h:5>
 Imperial Guard
 "The sun has already gone
-down.<Delay 15> Only authorizes
+down.<Delay 15> Only authorized
 personnel are permitted
 passage. Please present<New>
 your passes."<Close><End of Block>
 <TextBlock 8 w:50 h:4>
 Imperial Guard
-"I'm sorry.<Delay 5> Regardless of
-whether you're the Champ
+"I'm sorry.<Delay 5>
+Whether you're the Champ
 or not, unauthorized<New>
 passage is not permitted.<Delay 15>
 Please, leave the
@@ -61,7 +61,7 @@ not possible."<Close><End of Block>
 <TextBlock 10 w:50 h:4>
 Imperial Guard
 "When the sun goes down,
-of the 3 gates, the
+of the three gates, the
 northern and the southern<New>
 gates are closed and it
 becomes possible to pass
@@ -77,7 +77,7 @@ not possible."<Close><End of Block>
 <TextBlock 12 w:50 h:4>
 Imperial Guard
 "When the sun goes down,
-of the 3 gates, the
+of the three gates, the
 northern and the southern<New>
 gates are closed and it
 becomes possible to pass
@@ -89,8 +89,8 @@ Imperial Guard
 in awe when I watched
 your title match.<Delay 15> <New>
 Please forgive my past
-discourtesy to you. The
-single stretch of road
+discourtesy to you.
+The single roads
 going north and south<New>
 will take you out of the
 Imperial capital. The
@@ -121,8 +121,8 @@ Imperial Guard
 in awe when I watched
 your title match.<Delay 15> <New>
 Please forgive my past
-discourtesy to you. The
-single stretch of road
+discourtesy to you.
+The single roads
 going north and south<New>
 will take you out of the
 Imperial capital. The
@@ -153,19 +153,19 @@ don't go near it."<Close><End of Block>
 <Opcode 1 255>World Map<Close><End of Block>
 <TextBlock 21 w:54 h:2>
 <Opcode 1 255>Prisoner Detention Facility
-Imperial capital D Block<Close><End of Block>
+Imperial Capital D Block<Close><End of Block>
 <TextBlock 22 w:54 h:2>
-<Opcode 1 255>Imperial capital C Block
+<Opcode 1 255>Imperial Capital C Block
 Recreation & Battling Arena<Close><End of Block>
 <TextBlock 23 w:42 h:2>
-<Opcode 1 255>Central District
-Kislev's Kaiser Govt.<Close><End of Block>
+<Opcode 1 255>Central Area
+Kislev Admin. District<Close><End of Block>
 <TextBlock 24 w:36 h:2>
-<Opcode 1 255>Imperial capital
+<Opcode 1 255>Imperial Capital
 A Block North Gate<Close><End of Block>
 <TextBlock 25 w:36 h:2>
-<Opcode 1 255>Imperial capital
+<Opcode 1 255>Imperial Capital
 A Block Front Gate<Close><End of Block>
 <TextBlock 26 w:34 h:2>
-<Opcode 1 255>Imperial capital 
+<Opcode 1 255>Imperial Capital 
 A Block West Gate<Close><End of Block>

@@ -23,14 +23,14 @@ Margie
 <TextBlock 10 w:22 h:1>
 <Opcode 1 255>Secret Dock<Close><End of Block>
 <TextBlock 11 w:64 h:4>
-    With the help of Fei and his
-    colleagues, Nisan was freed
+    With the help of Fei and the
+      others, Nisan was freed
         from Shakhan's army.<New>
      However, the Fatima Jasper
-     and the legendary treasures
+     and the legendary treasure
        of the Av royal family
         were still in danger.<New>
-     And now, he's going to play
-     his last card and Shakhan's
-       true intentions will be
+     And now, Shakhan's next
+     move was about to be made,
+       and his true intentions
           brought to light.<Close><Close><End of Block>

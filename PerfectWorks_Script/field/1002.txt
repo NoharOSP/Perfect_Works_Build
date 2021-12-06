@@ -7,12 +7,12 @@ construction, it is
 blocked off."<Close><End of Block>
 <TextBlock 2 w:38 h:4>
 Imperial Guard
-"I'm sorry.
-Please use one of
-the other 3 gates."<Close><End of Block>
+"I'm sorry. Please
+use one of the
+other three gates."<Close><End of Block>
 <TextBlock 3 w:54 h:4>
 Imperial Guard
-"Due to the Aveh attack,
+"Due to the Av attack,
 the entire Imperial capital
 area is under martial law.<New>
 Presently, the front gate
@@ -21,14 +21,14 @@ permits civilians. Please,
 go to that one."<Close><End of Block>
 <TextBlock 4 w:58 h:6>
 Imperial Guard
-"Presently,<Delay 5> due to that raid,
+"Presently,<Delay 5> due to the raid,
 the evacuated prisoners of D
 Block are being transferred.
 Civilians are not permitted 
 to enter."<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Imperial Guard
-"Due to the Aveh attack,
+"Due to the Av attack,
 the entire area is under
 martial law. Presently,<New>
 the front gate is the
@@ -42,8 +42,8 @@ I'm always the cool and
 nice guy!!"<Close><End of Block>
 <TextBlock 7 w:42 h:4>
 Big Joe
-"The wind, cloud,
-world... They are all
+"The wind, the clouds,
+the world... They are
 calling out to me.<New>
 We'll meet again...
 Adieu."<Close><End of Block>
@@ -51,23 +51,27 @@ Adieu."<Close><End of Block>
 <Opcode 1 255>World Map<Close><End of Block>
 <TextBlock 9 w:18 h:1>
 <Opcode 1 255>World Map<Close><End of Block>
-<TextBlock 10 w:34 h:2>
-<Opcode 1 255>Prisoner Facility
-Imperial D Block<Close><End of Block>
+<TextBlock 10 w:54 h:2>
+<Opcode 1 255>Prisoner Detention Facility
+Imperial Capital D Block<Close><End of Block>
 <TextBlock 11 w:54 h:2>
-<Opcode 1 255>Imperial C Block Recreation
-Battling Arena<Close><End of Block>
+<Opcode 1 255>Imperial Capital C Block
+Recreation & Battling Arena<Close><End of Block>
 <TextBlock 12 w:42 h:2>
-<Opcode 1 255>Kislev Administration
-Central Area<Close><End of Block>
-<TextBlock 13 w:54 h:1>
-<Opcode 1 255>Imperial A Block North Gate<Close><End of Block>
-<TextBlock 14 w:54 h:1>
-<Opcode 1 255>Imperial A Block Front Gate<Close><End of Block>
-<TextBlock 15 w:52 h:1>
-<Opcode 1 255>Imperial A Block West Gate<Close><End of Block>
-<TextBlock 16 w:52 h:1>
-<Opcode 1 255>Imperial A Block East Gate<Close><End of Block>
+<Opcode 1 255>Central Area
+Kislev Admin. District<Close><End of Block>
+<TextBlock 13 w:36 h:2>
+<Opcode 1 255>Imperial Capital
+A Block North Gate<Close><End of Block>
+<TextBlock 14 w:36 h:2>
+<Opcode 1 255>Imperial Capital
+A Block Front Gate<Close><End of Block>
+<TextBlock 15 w:34 h:2>
+<Opcode 1 255>Imperial Capital 
+A Block West Gate<Close><End of Block>
+<TextBlock 16 w:34 h:2>
+<Opcode 1 255>Imperial Capital 
+A Block East Gate<Close><End of Block>
 <TextBlock 17 w:56 h:10>
 Bluecrystal
 "Imp<Delay 5>...<Delay 5>Imperial Inf<Delay 5>...<Delay 5>or<Delay 5>...<Delay 30>"
@@ -182,8 +186,8 @@ Bluecrystal
 "C<Delay 5>...<Delay 5>currency exchange<Delay 5>...<Delay 5>
 <Delay 5>l...<Delay 5>ost.<Delay 5> Co...<Delay 5>de,<Delay 5> error<Delay 5>..."<Close><End of Block>
 <TextBlock 40 w:62 h:7>
-The Kislev capital's, Nortune's
-'Central Administrive District'
+The Kislev capital Noatun's
+Central Administrative District
 itself was a secret battleship
 constructed by Bart's ancestor,
 Roni Fatima, after the Great
@@ -235,7 +239,7 @@ you're all in a group,
 right?<New>
 In that case, you need to
 change your party! If you
-go to the 'Wildcat' pub,
+go to the Wildcat pub,
 there'll be a new waitress.<New>
 If you ever want to change
 your party members, just
@@ -248,7 +252,7 @@ super muchacho
 information?"<Close><End of Block>
 <TextBlock 48 w:48 h:4>
 Fei
-"H, hey!? You're the one
+"H-hey!? You're the one
 who stole my '5000G'.
 Give it back to me now."<Close><End of Block>
 <TextBlock 49 w:52 h:4>
@@ -277,7 +281,7 @@ you're all in a group,
 right?<New>
 In that case, you need to
 change your party! If you
-go to the 'Wildcat' pub,
+go to the Wildcat pub,
 there'll be a new waitress.<New>
 If you ever want to change
 your party members, just
