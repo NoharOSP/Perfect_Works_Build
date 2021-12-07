@@ -1,7 +1,7 @@
 <TextBlock 1 w:10 h:1>
 <Opcode 1 255>Dazil<Close><End of Block>
 <TextBlock 2 w:30 h:2>
-<Opcode 1 255> - Breidablik -
+<Opcode 1 255>- Breidablik -
 Capital of Av<Close><End of Block>
 <TextBlock 3 w:22 h:1>
 <Opcode 1 255>Bart's Lair<Close><End of Block>
