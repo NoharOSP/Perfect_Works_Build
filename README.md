@@ -88,7 +88,7 @@ All deathblow learning rates (sans Emeralda) have been doubled to accomodate for
 Yggdrasil IV:
 - Agility 8 < 10
 
-### Spell power changes:
+### Spell changes:
 
 Fei:
 - Guided Shot: 40 > 20
@@ -97,20 +97,62 @@ Fei:
 
 Fei’s generally pretty great when balanced against the cast. But against himself, his Ether attacks tends to be very overshadowed and down right wasteful to use. All options should have merit. Even if it’s situational, a situational merit is better than consistently being eclipsed by basic attacks. They’re viable with Power Magic abuse but even Steel Mettle is with that. These changes will give players better insensitive to use these moves throughout the game. It also helps Weltall a fair bit. It tends to fall off hard by disc 1’s end. Between Renmazuo, Vierge, Siebzhen, Crescens (by technicality) and the addition of Andvari to your squad Fei really struggles to carry his weight. This will let him be better at contributing. Big Bang is admittedly a very reliable spell even without its new buffs. But it’s only learned before the final dungeon typically so this will help it see a little more prominence in disc 2.
 
+- ~~Iron Valor~~ Iron Focus: Accuracy Up
+- Yang Power: Ether Up, Defense Down 
+
+This will let Fei choose to be a magic focused or physical character to make using him more interesting instead of the binary choice of buffing his attack. 
+
+Weltall/Weltall-2/Xenogears:
+- Yang Power: Ether Up
+- Yin Power: Attack Up
+
+Defense buffs simply don’t work in gears. So their effects have been altered to function better. 
+
 Vierge:
-- AERODS: 40 > 50. Fuel cost: 250 > 400
+- AERODS: 40 > 50. Fuel cost: 800 > 400
 
 Elly is a peculiar character; overall she’s a solid mid tier. She herself is fine and her gear isn’t too impressive. But AERODs throws all that out the window, allowing her to one shot several of the games bosses. While bosses are getting a buff, she hits 9999 way too early and easily because of Ether Doublers and Power Magics. So along with Power Magics in general being nerfed simply for being too beneficial for how easy they are to get; AERODs are also losing some points from its power output so that, while the classic boss slayer build will still be a thing, you must now commit more to it to get results. This should give bosses more of a presence in the first disc as Elly soundly obliterates the mid-game, and let other options shine for gears because AERODs becomes a crutch for many players. And given its...limited availability this isn’t exactly healthy to goad players to dump all investment into Vierge only to lose it in disc 2.
 
-### Learning level changes:
+Citan:
+- Koga: Ether Defense Up
+- Yamgia: Attack Up
 
-Fei:
-- Big Bang: Lv70 > Lv72
+Changed the properties of Citan's buffs to differentiate him from Fei more.
+
+Heimdal/Fenrir:
+- Koga: Ether Defense Up
+- Yamiga: Attack Up
 
 Bart:
-- All modes: Level 45 > 56
+- ~~White Cologne~~ Divvy Up: Next Ether affects all
 
-Barts abilities were a bit too high on the level requirements. Bart has a bit of a gap in time where he’s out of the party which tends to hurt him a bit (less deathblow exp and less reasons to upgrade his gear) so this will give him some more reasons to be used. 
+Allows Bart to be have useful part wide buffs in exchange for no healing. 
+
+Billy:
+- Goddess Eyes: Ether Up
+
+Goddess Eyes now raises Ether in theme of reworking defensive buffs. Billy was the basis for most balance changes as he’s the best character in Xenogears. Outside of low survivability Billy is arguably the best gear pilot and fighter on foot. But it’s not really for anything overtuned. His gear damage is just the best in the game with nothing else going for it and his on foot builds are very flexible at the cost of sacrificing other strengths. Raising his dps with the doubler but lowering his support use, making all of his ether options phenomenal but crippling his defense, pure support love for weaker offense and defense etc. Outside of quality of life changes that needed to be done simply because they weren’t working we didn’t want to touch Billy. He’s good as is. 
+
+Rico:
+- ~~Steel Body~~ Mad Taunt: Enemies attack Rico
+- ~~Steel Spirit~~ Steel Tempo: Haste, self-only
+
+Rico’s spirit moves have been changed to help him out more; Steel Spirit was effectively useless due to Rico’s garbage ether defense and Steel Body was literally useless because it just...didn’t work. As the tank, giving him a counter and a lure was only natural as it lets him support the team in his own unique way. Steel Tempo is there to offset his defining weaknesses of speed without breaking him as a character. 
+
+Chu-Chu:
+- Forest Dance (foot): Heals all allies
+- Forest Dance (giant): 70 > 50
+
+Chu-Chu’s healing is the selling point of the character outside abusing Drives, but in reality its output is pitiful. Especially considering how you don’t wanna drag out gear fights and you’re sacrificing damage for survivability. Healing is now adjusted to better support your attackers and make her a real viable pick.
+
+
+Maria:
+- Graviton Gun: 15 EP > 30 EP
+
+On foot Maria is actually pretty good and fairly underrated on account of her low speed and no deathblows. Due to her insanely high damaging spells that run off of Seibzhen’s ether stats including Power Magics, Maria can be a fairly strong on foot character if invested in. 
+
+But Graviton Gun is way too costly in spite of this. By end-game you’ll only be able to use it twice and with the doubler equipped without the economether, you're only capable of using it once. Maria isn’t even available for many on foot sections so this should encourage players to use her and realize how good she actually is even without deathblows. 
+
 
 ### Field changes:
 
