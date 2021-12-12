@@ -90,6 +90,8 @@ Yggdrasil IV:
 
 ### Spell changes:
 
+WARNING: For any spell effects that are inaccessible in the official game (e.g. Ether up), text displaying their effect won't display like it would for a spell such as Yin Power. However, the spell definitely works as intended, even if the description is what you have to go by.
+
 Fei:
 - Guided Shot: 40 > 20
 - Radiance: 100 > 60
