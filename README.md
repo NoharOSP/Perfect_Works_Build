@@ -56,6 +56,10 @@ Rico:
 Rico is iconically bad. His tied for lowest speed in the game. His Agility and Hit stats are obviously bad but he doesn’t have anything to compensate for this. When he joins most of his stats are worse than Fei’s. Which really undersells he’s one of the only people who beat Fei in a 1v1 fight. Combined with no utility like healing or area of effect damage and Rico is comedically undercooked. The easy solution would be just to give him high speed but that just ruins the diversity of the cast. If that’s what we changed people would still not pick Rico because he’s just a worse Citan. We decided to double down on making Rico a juggernaut. His stats and growths have been adjusted to make him an offensive behemoth so he has noticeable strengths. We also slightly raised his agility to match the boss fight and to prevent the Ganondorf conundrum of giving a character so much power and having them still not be good because they don’t get to use it. Plus this ties him with Elly’s old agility stat, instead of putting him with the characters who lack deathblows. The same goes for his Hit rate as his accuracy is actually hilariously good for his boss fight. The balance for Rico’s absurd stats is his complete lack of any utility. (No healing, cures, aoe, elemental coverage etc)
 
 
+Emeralda:
+- Agility: 14 > 12
+
+
 Chu-Chu:
 - Ether 12 < 25
 
