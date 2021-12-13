@@ -14,8 +14,9 @@ what shall we do
 with them...?"<Close><End of Block>
 <TextBlock 3 w:56 h:3>
 Ramsus
-"I promised an old friend...
-I must take it easy..."<Close><End of Block>
+"I recently promised an 
+old friend...
+I must go easy..."<Close><End of Block>
 <TextBlock 4 w:38 h:3>
 Ramsus
 "An old...friend...<Delay 32>
@@ -33,10 +34,11 @@ Ramsus
 but remain on alert!<New>
 If any enemy vessel
 attempts to attack, shoot
-it individually!"<Close><End of Block>
+it!"<Close><End of Block>
 <TextBlock 7 w:46 h:2>
 Ramsus
-"...Can't help it, eh?"<Close><End of Block>
+"...They leave us no
+choice, eh?"<Close><End of Block>
 <TextBlock 8 w:46 h:4>
 Ramsus
 "All divisions, holding
@@ -44,7 +46,7 @@ pattern cancelled!<Delay 16>
 ...Resume attack!"<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Ramsus
-"Th, that Gear! No mistake!
+"Th-that Gear! No mistake!
 It's him! Demon of Elul...!<Delay 50>
 Myyah! Let's go!"<Close><End of Block>
 <TextBlock 10 w:26 h:3>
@@ -55,10 +57,11 @@ That is...!!"<Close><End of Block>
 Myyah
 "Oh?<Delay 24>
 It's unusual for you
-to get lost."<Close><End of Block>
+to be hesitant."<Close><End of Block>
 <TextBlock 12 w:52 h:2>
 Myyah
-"Commander?...Ha, Ha, Ha."<Close><End of Block>
+"Well, Mr Commander?...
+Ha, ha, ha."<Close><End of Block>
 <TextBlock 13 w:56 h:3>
 Myyah
 "Calm down. <Delay 32>Put the analyzed
@@ -68,7 +71,7 @@ Myyah
 "Commander! Please wait!
 Commander!!"<Close><End of Block>
 <TextBlock 15 w:22 h:2>
-Miang
+Myyah
 "Ha, ha..."<Close><End of Block>
 <TextBlock 16 w:54 h:4>
 Confirmed, vessel
@@ -86,7 +89,7 @@ steering noise confirmed,
 course change...
 Taking evasive action.<Close><End of Block>
 <TextBlock 18 w:54 h:4>
-W, wait!!!<Delay 32><New>
+W-wait!!!<Delay 32><New>
 Explosions along the
 perimeter of the fleet,
 confirmed. Multiple vessel
@@ -98,7 +101,7 @@ this! This...Gear...?<New>
 It's like reactive rounds
 are flying around...<Close><End of Block>
 <TextBlock 19 w:24 h:1>
-Y, yessir...<Close><End of Block>
+Y-yes'm...<Close><End of Block>
 <TextBlock 20 w:50 h:4>
 Fluid static around enemy
 vessel is decreasing.
@@ -108,7 +111,7 @@ enemy vessel down 60%.<New>
 engine and effect-fins
 have been disabled.<Close><End of Block>
 <TextBlock 21 w:42 h:1>
-Sorry to trouble you.<Close><End of Block>
+Th-thank you!.<Close><End of Block>
 <TextBlock 22 w:56 h:4>
 Bow torpedo tubes 1-3,
 Namthal missile.
