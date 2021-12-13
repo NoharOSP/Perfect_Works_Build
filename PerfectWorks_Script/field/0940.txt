@@ -7,11 +7,10 @@
 <TextBlock 3 w:46 h:4>
 Shakhan
 "There is a customary
-Tournament after the
-dedication ceremony..."<Close><End of Block>
+Tournament afterwards..."<Close><End of Block>
 <TextBlock 4 w:50 h:3>
 Ramsus
-"What about the incident 
+"What about the matter
 in that report?"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Shakhan
@@ -19,8 +18,8 @@ Shakhan
 500-year-old mobile weapon
 excavated from the ruins?<New>
 Thanks to the help of the
-'Ethos', the repairs are
-complete.<New>
+'Church of the Ethos', the 
+repairs are complete.<New>
 I thought we could announce
 it on the day of the
 dedication ceremony..."<Close><End of Block>
@@ -59,14 +58,14 @@ Shakhan
 east tower."<Close><End of Block>
 <TextBlock 12 w:28 h:4>
 Ramsus
-"Miang, could
+"Myyah, could
 it possibly be
-a 'Relic'?"<Close><End of Block>
+a 'Vessel'?"<Close><End of Block>
 <TextBlock 13 w:54 h:4>
-Miang
+Myyah
 "Yes. But there is still no
 response. There seems to be
-a barrier or something.<New>
+a strong barrier.<New>
 However, we do know from
 the 500-year-old records
 that one certainly exists
@@ -77,10 +76,10 @@ preserved too."<Close><End of Block>
 Ramsus
 "...Let's meet her.<New>
 I want to talk to her
-directly. Miang, you
+directly. Myyah, you
 come with me."<Close><End of Block>
 <TextBlock 15 w:20 h:2>
-Miang
+Myyah
 "Yes sir."<Close><End of Block>
 <TextBlock 16 w:40 h:4>
 Bart
