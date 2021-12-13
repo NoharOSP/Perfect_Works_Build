@@ -1,6 +1,6 @@
 <TextBlock 1 w:30 h:2>
 Faster than
-predicted<Delay 5>...<Close><End of Block>
+we predicted<Delay 5>...<Close><End of Block>
 <TextBlock 2 w:40 h:2>
 The awakening of the
 untouchable one<Delay 5>...<Close><End of Block>
@@ -9,8 +9,8 @@ It has been 3 years
 since news of him
 ceased.<New>
 According to the reports
-from the memory cubes
-he is currently the 
+from the memory cubes<New>
+he is currently in the 
 Kislev Imperial Capital,
 Noatun.<Close><End of Block>
 <TextBlock 4 w:26 h:3>
@@ -19,25 +19,25 @@ Abominable<Delay 5>...<Delay 5>
 Abominable<Delay 5>...<Close><End of Block>
 <TextBlock 5 w:44 h:4>
 If not for his 
-presence, lambs <Delay 5>
-would not have
-become 'Animus'.<New>
+presence,<New> 
+lambs <Delay 5> would not 
+have become 'Animus'.
 500 years since the
 Day of Collapse.<New>
 It ended, without
-our choosing it, by
-troublesome means
+our choosing it,<New> 
+by troublesome means
 similar to the
 present case.<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 The excavation of the
-'Vessels of Anima' 
+'Vessels of Anima'<New>
 is proceeding 
 smoothly in all 
 areas.<New>
-Looking back at
+Reminiscing at
 this late hour will
-not change the facts.<Delay 10>
+not change the facts.<Delay 10><New>
 However, the future
 is in our hands to
 calculate.<Close><End of Block>
@@ -46,12 +46,13 @@ Eliminate<Delay 5>...<Delay 5>
 Eliminate<Delay 5>...<Delay 5>
 Eliminate<Delay 5>...<Close><End of Block>
 <TextBlock 8 w:38 h:3>
-In such a case, 
-though we do not 
-know the route by 
-which it strayed, <New>
+Although in this
+case,<New>
+we do not know 
+the route by which 
+it was carried,<New>
 the activation of
-the gate keeper
+the Gatekeeper
 was unexpectedly
 fortunate.<Close><End of Block>
 <TextBlock 9 w:34 h:2>
@@ -63,15 +64,15 @@ It does not matter
 which.<Delay 10>
 However<Delay 5>...<Close><End of Block>
 <TextBlock 11 w:34 h:4>
-We must not 
-break Ignas' 
-equilibrium
-...So it 
-suggests.<Close><End of Block>
+You mean...<New>
+Ignas' equilibrium
+must not be
+broken.<Close><End of Block>
 <TextBlock 12 w:36 h:3>
 The earth is 
 after all the 
-earth. That is 
+earth.<New> 
+That is 
 a land of 
 uncleanliness.<Close><End of Block>
 <TextBlock 13 w:28 h:2>
@@ -81,47 +82,47 @@ excuse.<Close><End of Block>
 <TextBlock 14 w:36 h:3>
 It is a 
 justifiable
-reason.<Delay 10> If
-presented this, 
+reason.<Delay 10><New> 
+If presented this, 
 Cain too would 
 have no
 objections.<Close><End of Block>
 <TextBlock 15 w:40 h:4>
 But we cannot use 
 the 'Key of 
-Goetia'.<Delay 10>
+Goetia'.<Delay 10><New>
 Not until the
 inevitable time.<Close><End of Block>
 <TextBlock 16 w:44 h:3>
 The 3rd Fleet is in
-Breidablik. Its 
-remaining troops 
-should be 
+Breidablik.<New> 
+Its remaining 
+troops should be 
 sufficient.<Close><End of Block>
 <TextBlock 17 w:28 h:2>
-His fleet, 
+Ramsus' fleet, 
 then.<Delay 10>
 The orders?<Close><End of Block>
 <TextBlock 18 w:50 h:4>
 A purge.<New>
 Do not tell him 
-the true intent. 
-That he would act 
+the true intent.<New>
+It obvious that 
+he would act 
 outside our orders 
-should he know is 
-plain to see.<Close><End of Block>
+if he knew.<Close><End of Block>
 <TextBlock 19 w:32 h:4>
 However, to raze 
 the entire 
-Noatun area 
-would not so 
-little military 
-power be 
-insufficient?<Close><End of Block>
+Noatun area...<New> 
+would so little 
+military power not 
+be insufficient?<Close><End of Block>
 <TextBlock 20 w:46 h:4>
 There is an ancient
 nuclear reactor in 
-Noatun. We will 
+Noatun.<New> 
+We will 
 use that.<New>
 The half-life is 
 1000 years. <New>
@@ -130,16 +131,16 @@ live within 300 kelts
 of it. Just as 
 before.<New>
 However, people
-survived despite it.
+survived despite that.<New>
 Our flesh. Such a 
 minor thing will
-not destroy them.<Close><End of Block>
+not overcome it.<Close><End of Block>
 <TextBlock 21 w:30 h:3>
-But he at 
+But HE at 
 least must be 
 eliminated.<Close><End of Block>
 <TextBlock 22 w:46 h:4>
-Yes.<Delay 5>
+Yes.<Delay 5><New>
 There is nothing left
 there that we must
 obtain. Disposal is
@@ -147,101 +148,103 @@ in order.<Close><End of Block>
 <TextBlock 23 w:20 h:3>
 If it is to 
 be a direct 
-strike<Delay 5>
-...<Close><End of Block>
+strike<Delay 5>...<Close><End of Block>
 <TextBlock 24 w:24 h:1>
 Then<Delay 5>...<Close><End of Block>
 <TextBlock 25 w:44 h:1>
 Let us set down 
 the order.<Close><End of Block>
 <TextBlock 26 w:42 h:4>
-Disobedience<Delay 5>...<Delay 5>
-Ramsus' duty should
-be the excavation of
+Disobedience<Delay 5>...<Delay 5><New>
+Ramsus' duty is meant
+to be the excavation of
 the "Vessels of Anima"
 sleeping in Ignas<New>
 and supervision of
-the lambs. He has<Delay 5>...<Delay 5>
+the lambs. But this<Delay 5>...<Delay 5>
 ...<Delay 5><Close><End of Block>
 <TextBlock 27 w:40 h:3>
-The "Vessels of 
-Anima" can be 
-collected at 
+The Vessels can 
+be collected at 
 any time.<New>
 Moreover, it is
 confirmed that
-"he" was in the
-transferred ship.<New>
-Ramsus was likely
-going after him.<Close><End of Block>
+'he' was on board
+the stolen craft.<New>
+That is likely why
+Ramsus gave chase?<Close><End of Block>
 <TextBlock 28 w:42 h:2>
 <Delay 5>...<Delay 5>
-It is the 
-trauma, then.<Close><End of Block>
+Because of his
+trauma?.<Close><End of Block>
 <TextBlock 29 w:36 h:4>
-Nay. In this case,
-it is neglect<Delay 5>
-...<Delay 5>
-Internal trauma.<Close><End of Block>
+More precisely,
+<Delay 5>in this case,<Delay 5><New>
+the negative trauma
+of his neglect.<Close><End of Block>
 <TextBlock 30 w:40 h:4>
 According to the
 reports from the
 memory cubes...<New>
 there are several
 subjects surrounding
-'him' that have
-the potential to
-become "Animus".<Close><End of Block>
+'him'<New> 
+that have the 
+potential to become 
+'Animus'.<Close><End of Block>
 <TextBlock 31 w:32 h:3>
-The Sufradi is
-it not?<Close><End of Block>
+M Project subjects,
+'Sephardi', are
+they not?<Close><End of Block>
 <TextBlock 32 w:8 h:1>
 Yes.<Close><End of Block>
 <TextBlock 33 w:30 h:1>
 A coincidence?<Close><End of Block>
 <TextBlock 34 w:48 h:3>
-Nay, it would be
-too great.<Delay 5>
+Nay, there are
+too many.<Delay 5><New>
 They gravitated 
-to<Delay 5> 'him'<Delay 5> ...<Close><End of Block>
+towards<Delay 5> 'him'<Delay 5> ...<Close><End of Block>
 <TextBlock 35 w:36 h:4>
-Unexpectedly, the
-circumstances have
-developed similarly
-to 500 years ago.<Close><End of Block>
+Unexpectedly,<New> 
+the circumstances 
+have developed 
+similarly to 500 
+years ago.<Close><End of Block>
 <TextBlock 36 w:52 h:3>
 It is not impossible 
-that he manipulated events
+that man manipulated events
 to this end.<Close><End of Block>
 <TextBlock 37 w:36 h:4>
-The transfer point
-is Aquvy<Delay 5>...<Delay 5>
+The descent point
+is Aquvy<Delay 5>...<Delay 5><New>
 Near the
 Tamuz.<Close><End of Block>
 <TextBlock 38 w:52 h:2>
-If it is in Aquvy
-Krelian is headed there.<Close><End of Block>
+Regarding Aquvy,
+Krelian is en route,
+I believe.<Close><End of Block>
 <TextBlock 39 w:18 h:3>
 Krelian?<Delay 10>
 Personally?<Delay 10>
 For what?<Close><End of Block>
 <TextBlock 40 w:52 h:4>
 It seems he has found it.<Delay 10>
-The 4000 years lost
-legacy of Zeboim that
-he kept searching for.<Close><End of Block>
+The legacy of Zeboim,<New>
+lost for 4000 years,
+that he kept searching for.<Close><End of Block>
 <TextBlock 41 w:44 h:3>
-The legacy<Delay 5>...<Delay 5>
+The legacy<Delay 5>...<Delay 5><New>
 Meaning, the 
 technology he 
 spoke of before?<Close><End of Block>
 <TextBlock 42 w:8 h:1>
 Just so.<Close><End of Block>
 <TextBlock 43 w:52 h:4>
-Molecular engineering...<Delay 5>
-...<Delay 5>Nanotechnology.<New>
-The land of the genesis,
-the capital of the 
+Molecular engineering...<Delay 5><New>
+...<Delay 5>The land of
+nanotechnology's creation,<New>
+the metropolis of the 
 Zeboim civilization sleeps
 beneath the sea floor of
 Aquvy.<New>
@@ -254,10 +257,10 @@ Is that acceptable,
 Cain?<Close><End of Block>
 <TextBlock 45 w:52 h:2>
 Emperor Cain
-"Yes, it will serve 
-as yet."<Close><End of Block>
+"Yes, for the 
+time being."<Close><End of Block>
 <TextBlock 46 w:46 h:4>
-19 years<Delay 5>...<Delay 5>
+19 years<Delay 5>...<Delay 5><New>
 It coincides exactly
 with the year that 
 the earth's surface
@@ -265,86 +268,93 @@ shifted<Delay 5>...<Close><End of Block>
 <TextBlock 47 w:14 h:1>
 I see.<Close><End of Block>
 <TextBlock 48 w:48 h:4>
-However, we cannot 
-comprehend it.
-We do not think that
+However, I fail
+to see the logic.<New>
+I do not think that
 technology is so
 essential<Delay 5>...<Close><End of Block>
 <TextBlock 49 w:44 h:4>
-He is a Lamb.
+Krelian is still a Lamb.<New>
 Consider what he would
 do if allowed too much 
 freedom.<Close><End of Block>
 <TextBlock 50 w:40 h:3>
-Since there are times
-that we do not 
+For that matter<New> 
+there are times
+when we do not 
 understand what 
 he is thinking.<Close><End of Block>
 <TextBlock 51 w:48 h:4>
 Emperor Cain
-"Enough.<Delay 10>
+"Enough.<Delay 10><New>
 I will take
 responsibility for that
 concern.<New>
 On another matter<Delay 5>...<Delay 5>
+The purge.<New>
 Did you<Delay 5>...<Delay 5>
 intend to eliminate
 him?<Close><End of Block>
 <TextBlock 52 w:20 h:2>
 What?<Delay 5> It 
-was a pure 
+was pure 
 accident.<Close><End of Block>
 <TextBlock 53 w:36 h:2>
 The location was
-Ignas. It was 
-a matter of 
+Ignas.<New> 
+It was a 
+matter of 
 probability.<Close><End of Block>
 <TextBlock 54 w:42 h:3>
-Besides, we do not
-think that little 
-would eliminate him.<Close><End of Block>
+Besides, we would
+not think to go to<New> 
+those lengths to 
+eliminate him.<Close><End of Block>
 <TextBlock 55 w:32 h:4>
 The purge itself
-ended in failure.
-It will not
+ended in failure.<New>
+This will not
 happen again.<Close><End of Block>
 <TextBlock 56 w:38 h:3>
 If the 'Animus' are
 gathering, all
 the more reason.<Close><End of Block>
 <TextBlock 57 w:8 h:1>
-Indeed.<Close><End of Block>
+Yes.<Close><End of Block>
 <TextBlock 58 w:40 h:4>
 Cain. Why are you 
-this concerned?
-With "he", who
+so focused upon
+this?<New>
+Upon 'he', who
 offers us no
-advantage<Delay 5>...<Close><End of Block>
+advantage<Delay 5>...?<Close><End of Block>
 <TextBlock 59 w:32 h:4>
 It is not 
 possible to 
-make medicine
+make medicine<New>
 from that which
 is poison.<Close><End of Block>
 <TextBlock 60 w:46 h:3>
-"Ahnenerbe"<Delay 5>...<Delay 5>
+"Ahnenerbe"<Delay 5>...<Delay 5><New>
 You cannot still 
-believe in it, 
+believe in that, 
 can you?<Close><End of Block>
 <TextBlock 61 w:34 h:3>
 Such things are
 illusions.<Delay 10> Not
 even ideals.<Close><End of Block>
 <TextBlock 62 w:46 h:3>
-The result<Delay 5>...<Delay 5>
-is this form. Just
-as you see it.<Close><End of Block>
+That way leads<Delay 5>...<Delay 5>
+to this form. As
+you can see.<Close><End of Block>
 <TextBlock 63 w:38 h:4>
-Or perhaps<Delay 5>...<Delay 5>
-It is from your<Delay 5>
-long buried 
-and forgotten 
-"emotions"?<Close><End of Block>
+Or perhaps<Delay 5>...<Delay 5><New>
+Is all this<Delay 5>
+because of your 
+'emotions',<New>
+long forgotten on
+the far side of
+oblivion?<Close><End of Block>
 <TextBlock 64 w:24 h:2>
 Emperor Cain
 "<Delay 5>...<Delay 5>"<Close><End of Block>
