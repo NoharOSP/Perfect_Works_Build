@@ -1,5 +1,5 @@
 <TextBlock 1 w:42 h:4>
-Miang
+Myyah
 "Heh...<Delay 60> Well then...,
 let's start over from
 the beginning again.<New>
