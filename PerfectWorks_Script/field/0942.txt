@@ -154,7 +154,7 @@ fun. Let's see what
 she can do!"<Close><End of Block>
 <TextBlock 34 w:44 h:4>
 Ramsus
-"Miang, get my Wyvern
+"Myyah, get my Wyvern
 powered up now!
 I must pursue them..."<Opcode 2 200><Close><End of Block>
 <TextBlock 35 w:40 h:3>
@@ -170,8 +170,8 @@ What is he doing
 down here now...?"<Opcode 2 100><Close><End of Block>
 <TextBlock 37 w:28 h:3>
 (Commander...
-I've a message
-from Hyu...)<Opcode 2 100><Close><End of Block>
+Master Hyu...
+is...)<Opcode 2 100><Close><End of Block>
 <TextBlock 38 w:22 h:2>
 Ramsus
 "...What!?"<Opcode 2 60><Close><End of Block>
