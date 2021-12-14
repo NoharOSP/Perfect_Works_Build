@@ -1,11 +1,11 @@
 <TextBlock 1 w:34 h:1>
-Mother<Delay 10> was Miang.<Delay 100><Close><End of Block>
+Mother<Delay 10> was Myyah.<Delay 100><Close><End of Block>
 <TextBlock 2 w:58 h:1>
 <Opcode 14 1>Our's was an ordinary family.<Close><End of Block>
 <TextBlock 3 w:58 h:1>
-<Opcode 14 1>A strict but reliable father.<Close><End of Block>
+<Opcode 14 1>A strict but reliable Father.<Close><End of Block>
 <TextBlock 4 w:50 h:1>
-<Opcode 14 1>A kind and loving mother.<Close><End of Block>
+<Opcode 14 1>A kind and loving Mother.<Close><End of Block>
 <TextBlock 5 w:40 h:2>
 <Opcode 14 1>Up till then, it was<Delay 50>
 complete happiness.<Close><End of Block>
@@ -23,12 +23,12 @@ person.<New>
 <Opcode 14 1>Father<Delay 10> was away often.<New>
 He had some important work.<Close><End of Block>
 <TextBlock 10 w:38 h:2>
-<Opcode 14 1>In front of father
+<Opcode 14 1>In front of Father
 she acted normally.<Close><End of Block>
 <TextBlock 11 w:60 h:5>
-<Opcode 14 1>When Fei tried to tell father
-about mother's strange conduct
-and the experiments, father's
+<Opcode 14 1>When Fei tried to tell Father
+about Mother's strange conduct
+and the experiments, Father's
 mind was taken up by his work
 and he didn't really listen.<Close><End of Block>
 <TextBlock 12 w:44 h:2>
@@ -49,7 +49,7 @@ things he didn't like
 or couldn't bear.<Close><End of Block>
 <TextBlock 16 w:54 h:3>
 <Opcode 14 1>He removed himself from
-out of harms way.<New>
+out of harm's way.<New>
 My role was to have all the
 things he hated forced upon
 me, the moment they arose.<Close><End of Block>
@@ -64,11 +64,11 @@ impulses.<Close><End of Block>
 <Opcode 14 1>I wanted to destroy
 everything.<Close><End of Block>
 <TextBlock 19 w:38 h:2>
-<Opcode 14 1>Mother, <Delay 20>father, <Delay 20>
+<Opcode 14 1>Mother, <Delay 20>Father, <Delay 20>
 the entire world<Delay 10>...<Close><End of Block>
 <TextBlock 20 w:52 h:3>
-<Opcode 14 1>Finally father noticed
-mother's odd behavior, but
+<Opcode 14 1>Finally Father noticed
+Mother's odd behavior, but
 it was already too late.<New>
 I had completely separated
 from that coward...
@@ -78,7 +78,7 @@ The puppets were broken
 <Delay 10>...<Delay 10>and<Delay 10>...<New>
 'Fei's' heart was too<Delay 10>...<Close><End of Block>
 <TextBlock 22 w:44 h:2>
-What would make mother
+What would make Mother
 do such a thing...?<Close><End of Block>
 <TextBlock 23 w:40 h:4>
 Mother repeated the
@@ -86,7 +86,7 @@ experiments to study
 the power she knew
 existed within me.<New>
 Yes,<Delay 10> that woman<Delay 10>...<Delay 10>
-mother,<Delay 20> was Miang.<Close><End of Block>
+Mother,<Delay 20> was Myyah.<Close><End of Block>
 <TextBlock 24 w:26 h:1>
 <Opcode 1 255>That's a lie!<Close><End of Block>
 <TextBlock 25 w:28 h:1>
