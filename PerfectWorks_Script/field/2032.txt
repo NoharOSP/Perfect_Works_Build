@@ -93,11 +93,11 @@ Hah hahaha...!"<Close><End of Block>
 Krelian
 "..."<Close><End of Block>
 <TextBlock 19 w:38 h:3>
-Miang
+Myyah
 "What are you doing
-here,<Delay 20> Kahr?"<Close><End of Block>
+here,<Delay 20> Carl?"<Close><End of Block>
 <TextBlock 20 w:54 h:4>
-Miang
+Myyah
 "There was only one purpose
 to your existence...<Delay 20>
 To eliminate Emperor Cain.<New>
@@ -138,7 +138,7 @@ And being the reject that
 you are, why don't you just
 leave? <Delay 20>Hah hah hah."<Close><End of Block>
 <TextBlock 21 w:54 h:4>
-Miang
+Myyah
 "Now, what to do with the
 lot of you<Delay 5>...<New>
 Well,<Delay 5> I can't just kill
@@ -149,13 +149,13 @@ you to be sacrificed too<Delay 5>...<Delay 5>
 To be assimilated into Deus
 along with this girl<Delay 5>..."<Close><End of Block>
 <TextBlock 22 w:22 h:2>
-Miang
+Myyah
 "Guhh...!?"<Opcode 2 40><Close><End of Block>
 <TextBlock 23 w:50 h:4>
-Miang
+Myyah
 "Good<Delay 5>...<Delay 5>
 This is how I wanted it,
-Kahr<Delay 5>...<New>
+Carl<Delay 5>...<New>
 I am fated so as not to
 be able to kill myself<Delay 5>...<New>
 Now<Delay 5>...<Delay 5>all<Delay 5>...<Delay 5>my<Delay 5>...<Delay 5>wishes<Delay 20>
@@ -174,7 +174,7 @@ What was I living for?"<Close><End of Block>
 <TextBlock 26 w:18 h:3>
 Ramsus
 "...<Delay 20>
-Miang..."<Close><End of Block>
+Myyah..."<Close><End of Block>
 <TextBlock 27 w:46 h:2>
 Ramsus
 "Uh, uhaaaaaaaahhhhh!!"<Close><Close><End of Block>
