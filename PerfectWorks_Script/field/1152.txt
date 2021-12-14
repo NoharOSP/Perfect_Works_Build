@@ -364,14 +364,14 @@ We are 'god'.<Close><End of Block>
 <TextBlock 66 w:46 h:4>
 Better if they 
 simply fulfilled 
-their allotted duty 
+their allotted duty<New>
 than giving rise 
 to a needless 
 greed.<Close><End of Block>
 <TextBlock 67 w:36 h:3>
 Unapproved 
 doctrines, 
-beliefs<Delay 5>...<Delay 5>
+beliefs<Delay 5>...<Delay 5><New>
 It is an issue.<Close><End of Block>
 <TextBlock 68 w:38 h:3>
 We have no use for
@@ -379,7 +379,7 @@ an organization that
 has become fanatic.<Close><End of Block>
 <TextBlock 69 w:26 h:4>
 To seek
-preservation
+preservation<New>
 is human
 nature.<Close><End of Block>
 <TextBlock 70 w:50 h:3>
@@ -389,9 +389,9 @@ An example must be made.<Close><End of Block>
 <TextBlock 71 w:48 h:3>
 The organisation was
 fated to be abandoned
-from the beginning. It
-is not something to be
-concerned with now.<Close><End of Block>
+from the beginning.<New> 
+It is not something to 
+be concerned with now.<Close><End of Block>
 <TextBlock 72 w:46 h:3>
 Correct. We gain nothing
 from its continued 
@@ -400,16 +400,16 @@ existence.<Close><End of Block>
 It has already
 sufficiently carried
 out its purpose.<New>
-Currently "dealing with
-each region".<Close><End of Block>
+Currently "dealing 
+with each region".<Close><End of Block>
 <TextBlock 74 w:44 h:2>
 Stein is supervising
 the disposal in 
 Aquvy.<Close><End of Block>
 <TextBlock 75 w:38 h:3>
 And providing
-instruction on
-"deserved 
+instruction<New> 
+on "deserved 
 punishment".<Close><End of Block>
 <TextBlock 76 w:48 h:2>
 We will be dealing with
@@ -420,9 +420,9 @@ Be that as it may,
 Krelian<Delay 5>...<New>
 is going to great lengths.
 It is only a molecular 
-machine. For what does
-he put forth such 
-effort?<Close><End of Block>
+machine.<New> 
+For what does he put 
+forth such effort?<Close><End of Block>
 <TextBlock 78 w:48 h:3>
 For us, 'human'<Delay 5> and 
 'machine' have the same
@@ -433,13 +433,13 @@ are the same<Delay 5>...<Close><End of Block>
 <TextBlock 80 w:30 h:3>
 So you have 
 returned<Delay 5>
-...And<Delay 5>?
+...And<Delay 5>?<New>
 Did you find 
 what you 
 aimed to?<Close><End of Block>
 <TextBlock 81 w:48 h:4>
 Krelian
-"Yes.<Delay 10>
+"Yes.<Delay 10><New>
 I have obtained<Delay 5> a colony
 of nanomachines."<Close><End of Block>
 <TextBlock 82 w:24 h:1>
@@ -448,8 +448,9 @@ lunacy.<Close><End of Block>
 <TextBlock 83 w:50 h:4>
 Beyond that,<Delay 5> is the
 M Project<Delay 10> proceeding
-smoothly? We require 
-more perfect bodies 
+smoothly?<New> 
+We require more 
+perfect bodies 
 and servants.<Close><End of Block>
 <TextBlock 84 w:54 h:3>
 Overwhelming numbers
@@ -494,18 +495,18 @@ There is no time for
 hesitation."<Close><End of Block>
 <TextBlock 89 w:40 h:3>
 ...<Delay 5>He is 
-useless. To allow 
-them contact
-with Shevat...<Close><End of Block>
+useless.<New> 
+To allow them 
+contact with 
+Shevat...<Close><End of Block>
 <TextBlock 90 w:52 h:3>
 There should be a 
 'Vessel of Anima' 
-in Shevat<Delay 5>
-...<Delay 5><New>
+in Shevat<Delay 5>...<Delay 5><New>
 ...If it is aligned
 before our preparations
-are put in order, it
-will be a bit 
+are put in order,<New> 
+it will be a bit 
 troublesome.<Close><End of Block>
 <TextBlock 91 w:44 h:3>
 If we are incompatible
@@ -519,19 +520,20 @@ Shevat, then?<Close><End of Block>
 What about the 
 'Animus'?<Close><End of Block>
 <TextBlock 94 w:42 h:4>
-There are others.
+There are others.<New>
 We must respond
 completely so that 
 this is not 
 repeated.<Close><End of Block>
 <TextBlock 95 w:46 h:3>
 How will we deal with
-Shevat's Gate? So long
-as it is there, we
-cannot invade.<Close><End of Block>
+Shevat's Gate?<New> 
+So long as it is 
+there, we cannot 
+invade.<Close><End of Block>
 <TextBlock 96 w:48 h:4>
 Why, simply compensate
-for the time distortion
+for the time distortion<New>
 with the Achtzehn's
 Gravity Cannon.<Close><End of Block>
 <TextBlock 97 w:36 h:2>
@@ -539,7 +541,7 @@ Achtzehn?
 Is it operational?<Close><End of Block>
 <TextBlock 98 w:50 h:4>
 The re-education is 
-complete. It is ready. 
+complete. It is ready.<New> 
 The assembly of its 
 descent unit too is 
 complete.<Close><End of Block>
@@ -549,7 +551,8 @@ human body?<Close><End of Block>
 <TextBlock 100 w:46 h:3>
 The 71st descent unit
 which has completed
-adjustment should have
+adjustment<New> 
+should have
 no problems.<Close><End of Block>
 <TextBlock 101 w:34 h:2>
 We look forward 
@@ -559,9 +562,9 @@ Allowing them contact
 with Shevat<Delay 5>...<Close><End of Block>
 <TextBlock 103 w:38 h:3>
 Not only Shevat.
-The loss of Ignas.
+The loss of Ignas.<New>
 The retreat at the
-Tamuz.<New>
+Tamuz.
 Yes, and Elul also,
 as I recall.<Close><End of Block>
 <TextBlock 104 w:24 h:2>
@@ -583,13 +586,13 @@ It is the
 truth.<Close><End of Block>
 <TextBlock 109 w:42 h:4>
 And what is that
-attitude?<Delay 5>...<Delay 5>
+attitude?<Delay 5>...<Delay 5><New>
 We expect you to show
 some loyalty.<Close><End of Block>
 <TextBlock 110 w:50 h:4>
 Ramsus
 "How, how dare you ridicule
-me by calling me 'trash'!
+me by calling me 'trash'!<New>
 Bastards..!"<Close><End of Block>
 <TextBlock 111 w:30 h:2>
 Ramsus
@@ -597,8 +600,9 @@ Ramsus
 <TextBlock 112 w:54 h:3>
 Myyah
 "Please calm yourself,
-Excellency! This will
-effect your health.<New>
+Excellency!<New> 
+This will effect 
+your health.<New>
 Your wounds from the 
 earlier battle are not
 yet fully healed! Your
@@ -608,8 +612,8 @@ It matters not.<Close><End of Block>
 <TextBlock 114 w:52 h:4>
 The Lambs are likely
 on their way to destroy
-the gates. This
-time, surely<Delay 5>...<Close><End of Block>
+the gates.<New> 
+This time, surely<Delay 5>...<Close><End of Block>
 <TextBlock 115 w:48 h:2>
 We want to see your
 'intrinsic powers'.<Close><End of Block>
@@ -620,13 +624,15 @@ us that you are not
 <TextBlock 117 w:36 h:4>
 Ramsus
 "Myyah<Delay 5>...<Delay 5>
-Launch the warship<Delay 5>...<Delay 5>
+Launch the warship<Delay 5>...<Delay 5><New>
 Get to him<Delay 5>..."<Close><End of Block>
 <TextBlock 118 w:46 h:4>
 Ramsus
 "I<Delay 5>...<Delay 5>
-will go<Delay 5>...<Delay 5> This time
-<Delay 5>...<Delay 5> I will bring him down<Delay 5>..."<Close><End of Block>
+will go<Delay 5>...<Delay 5><New> 
+This time<Delay 5>...<Delay 5> 
+I will bring him 
+down<Delay 5>..."<Close><End of Block>
 <TextBlock 119 w:50 h:3>
 Myyah
 "Excellency, that is impossible 
@@ -642,7 +648,7 @@ Myyah
 <TextBlock 122 w:48 h:3>
 Dominia
 "We will certainly give
-our all in order to meet
+our all in order to meet<New>
 His Excellency's 
 expectations."<Close><End of Block>
 <TextBlock 123 w:40 h:4>
@@ -682,7 +688,8 @@ Correct.<New>
 And so the
 probability that
 the proper 
-type will be 
+type<New> 
+will be 
 unobtainable
 grows higher.<Close><End of Block>
 <TextBlock 132 w:32 h:2>
@@ -701,18 +708,20 @@ is it not?"<Close><End of Block>
 Krelian<Delay 5>...<Close><End of Block>
 <TextBlock 136 w:40 h:3>
 We cannot allow 
-that.<Delay 5> The 
-panic will spread
-even here to
-Etemenanki.<Close><End of Block>
+that.<Delay 5><New> 
+The panic will 
+spread even here 
+to Etemenanki.<Close><End of Block>
 <TextBlock 137 w:40 h:4>
 Krelian
 "Those empty-headed 
 masses known as 
-citizens can be 
-easily controlled<New>
-by the slightest 
-word from the 
+citizens<New> 
+can be easily 
+controlled by 
+the slightest 
+word<New> 
+from the 
 Emperor."<Close><End of Block>
 <TextBlock 138 w:36 h:2>
 Can we expect
@@ -729,14 +738,15 @@ Those fools will
 not recognise the 
 difference.<New>
 What's more<Delay 5> even if 
-the gate is breached, 
+the gate is breached,<New> 
 behaving as before will
 not draw any attention 
 to it.<New>
 More importantly<Delay 5>...<Delay 5>
 There was something 
 extraordinarily 
-interesting in the report
+interesting<New> 
+in the report
 from the memory cubes."<Close><End of Block>
 <TextBlock 141 w:34 h:1>
 And what is 
@@ -781,7 +791,7 @@ That woman from Nisan,<Delay 5>
 then...<Delay 5>?<Close><End of Block>
 <TextBlock 148 w:48 h:4>
 Krelian
-"That was her<Delay 5>...<Delay 5>
+"That was her<Delay 5>...<Delay 5><New>
 I think we should use
 that product of Zeboim
 nanotechnology,<Delay 5><New>
@@ -793,21 +803,21 @@ the Tamuz?<Delay 5>
 Why?<Close><End of Block>
 <TextBlock 150 w:54 h:4>
 Krelian
-"For confirmation.<Delay 15>
+"For confirmation.<Delay 15><New>
 As the 'mother'<Delay 5> says,
 that colony of 
 nanomachines<Delay 5>...<New>
 That artificial lifeform,<Delay 5>
 was created by the 
-'Contact'<Delay 5> and the 
-'Antitype'<Delay 5> 4000 
-years ago."<Close><End of Block>
+'Contact'<Delay 5><New> 
+and the 'Antitype'<Delay 5> 
+4000 years ago."<Close><End of Block>
 <TextBlock 151 w:28 h:2>
 <Delay 5>The 'mother's'
 memories<Delay 5>...<Close><End of Block>
 <TextBlock 152 w:54 h:4>
 Krelian
-"That exactly.<Delay 10>
+"That exactly.<Delay 10><New>
 We can probably obtain
 some kind of 
 reaction.<New>
@@ -821,7 +831,7 @@ Were we to lose it, that
 would in no way obstruct 
 the plan."<Close><End of Block>
 <TextBlock 153 w:38 h:3>
-Cursed Cain<Delay 5>...<Delay 5>
+Cursed Cain<Delay 5>...<Delay 5><New>
 Planning this
 pointless farce
 with the likes of
@@ -859,9 +869,9 @@ condition?<Close><End of Block>
 <TextBlock 160 w:50 h:4>
 Krelian
 "Undergoing the usual 
-life extension treatment. 
-It should maintain him<Delay 5>...<Delay 5><New>
-for a little longer<Delay 5>...
+life extension treatment.<New> 
+It should maintain him<Delay 5>...<Delay 5>
+for a little longer<Delay 5>...<New>
 I had to use more than
 I expected thanks to his
 insistence to use his body
@@ -889,7 +899,8 @@ he will not mutate.<Close><End of Block>
 <TextBlock 165 w:44 h:4>
 He is a lifeform
 that recurs through
-the ages.<Delay 5> It is 
+the ages.<New>
+<Delay 5>It is 
 a matter of 
 probability.<Close><End of Block>
 <TextBlock 166 w:42 h:2>
@@ -898,10 +909,12 @@ cannot remove
 ourselves
 from this.<Close><End of Block>
 <TextBlock 167 w:52 h:4>
-Correct.<Delay 5> At this rate it
+Correct.<New> 
+<Delay 5>At this rate it
 will be a repetition of 
-our past failure. We will 
-not be allowed another 
+our past failure.<New>  
+We will not be 
+allowed another 
 mistake.<Close><End of Block>
 <TextBlock 168 w:48 h:4>
 Krelian
@@ -913,7 +926,7 @@ What can that
 failure do?<Close><End of Block>
 <TextBlock 170 w:46 h:4>
 We can expect nothing
-more from the 'trash'
+more from the 'trash'<New> 
 that could not 
 acceptably defend 
 Etemenanki's airspace, 
@@ -929,11 +942,11 @@ you say<Delay 5>...?<Close><End of Block>
 <TextBlock 173 w:46 h:4>
 Krelian
 "I aligned his gear 
-with one of the vessels 
+with one of the vessels<New>  
 that was recovered 
-previously.<New>
+previously.
 Now there will be no
-reason for complaint.
+reason for complaint.<New>
 He should be able to
 demonstrate his true
 power."<Close><End of Block>
@@ -948,8 +961,8 @@ You are incomprehensible.<Close><End of Block>
 Krelian
 "I long ago abandoned these
 emotions known as the human
-heart.<Delay 10>
-All I require now<Delay 5> 
+heart.<New>
+<Delay 10>All I require now<Delay 5> 
 is 'her'."<Close><End of Block>
 <TextBlock 176 w:32 h:2>
 That too is 
@@ -984,8 +997,8 @@ him down?<Close><End of Block>
 <TextBlock 184 w:50 h:4>
 Krelian
 "She was riding in the 
-Gear that he shot down.<Delay 10>
-Her death would be 
+Gear that he shot down.<New>
+<Delay 10>Her death would be 
 unfortunate."<Close><End of Block>
 <TextBlock 185 w:52 h:3>
 We already have a 
@@ -1009,9 +1022,9 @@ Krelian
 "This is pointless<Delay 5>...<New>
 I will send Ramsus after 
 him.<Delay 10>
-Are there any objections?<Delay 10>
-Do you know his current 
-location?"<Close><End of Block>
+Are there any objections?<New>
+<Delay 10>Do you know his 
+current location?"<Close><End of Block>
 <TextBlock 189 w:46 h:3>
 Though Etemenanki is 
 destroyed, part of the 
@@ -1023,9 +1036,9 @@ individuals.<Close><End of Block>
 <TextBlock 190 w:42 h:4>
 Wait a moment<Delay 5>...<Delay 5>
 He has left the 
-crash site, and 
-is en-route to 
-Ignas.<Close><End of Block>
+crash site,<New> 
+and is en-route 
+to Ignas.<Close><End of Block>
 <TextBlock 191 w:52 h:4>
 Krelian
 "I see.<Delay 10>
@@ -1044,8 +1057,8 @@ Just wait there for
 some good news."<Close><End of Block>
 <TextBlock 194 w:44 h:4>
 What about retrieving
-the girl?<Delay 15>
-The key is
+the girl?<New>
+<Delay 15>The key is
 beginning to 
 resonate.<New>
 The time of god's 
@@ -1053,13 +1066,12 @@ revival is drawing
 near.<Close><End of Block>
 <TextBlock 195 w:30 h:4>
 Krelian
-"We can 
-retrieve
+"We can retrieve
 the girl at 
 any time.<New>
 Even if it 
-is not now<Delay 5>...<Delay 5>
-She will come
+is not now<Delay 5>...<New>
+<Delay 5>She will come
 to us sooner 
 or later<Delay 5>..."<Close><End of Block>
 <TextBlock 196 w:46 h:4>
