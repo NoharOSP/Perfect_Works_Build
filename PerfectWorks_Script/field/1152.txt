@@ -1076,7 +1076,7 @@ to us sooner
 or later<Delay 5>..."<Close><End of Block>
 <TextBlock 196 w:46 h:4>
 A spontaneous 
-germination 
+germination<New>
 because the revival of 
 god has drawn 
 near<Delay 5>...<Close><End of Block>
@@ -1120,7 +1120,7 @@ of the servants of god.<Close><End of Block>
 The people are 
 beginning to gather 
 in Nisan, same as 
-in the past. 
+in the past.<New>
 At this rate<Delay 5>...<Close><End of Block>
 <TextBlock 206 w:38 h:3>
 Nay, this may be 
@@ -1133,8 +1133,8 @@ who proclaim the awakening
 of god: those who will 
 become god's flesh?<Close><End of Block>
 <TextBlock 208 w:34 h:3>
-The time has come<Delay 10> 
-to put the 
+The time has come<New>
+<Delay 10>to put the 
 "Lesser Goetia 
 Key" into 
 operation<Delay 5>...<Close><End of Block>
@@ -1146,9 +1146,9 @@ Cain!?<Close><End of Block>
 Emperor Cain
 "What are you planning 
 to do, going beyond this 
-point? I by no means 
-permitted you to use the 
-'Key'!"<Close><End of Block>
+point?<New> 
+I by no means permitted 
+you to use the 'Key'!"<Close><End of Block>
 <TextBlock 212 w:40 h:2>
 Cain!
 What are you doing!?<Close><End of Block>
@@ -1165,7 +1165,7 @@ and make our goal
 unachievable<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 215 w:50 h:4>
 Emperor Cain
-"The goal...
+"The goal...<New>
 That itself is the 
 chain which has bound us 
 since the genesis.<New>
@@ -1301,13 +1301,15 @@ So<Delay 5>...<Delay 5>"<Close><End of Block>
 Ramsus
 "Myyah!<Delay 15>
 Is this, is this<Delay 5>
-...<Delay 5>the limit of
+...<New>
+<Delay 5>the limit of
 my power?<New>
 Am I capable of nothing 
 more than this amount of 
 power?<New>
 I cannot win against 
-him,<Delay 5> and I 
+him,<New>
+<Delay 5>and I 
 couldn't do a single 
 thing in the face of 
 that woman<Delay 5>...<New>
@@ -1327,7 +1329,8 @@ preventing the release of
 your power.<New>
 Divided power<Delay 5>...<Delay 5>
 That man was your source 
-form,<Delay 5> the transcendental 
+form,<New>
+<Delay 5>the transcendental 
 being since the time of 
 the genesis<Delay 5>...<New>
 If only you remove him, 
@@ -1389,7 +1392,7 @@ and Isachar<Delay 5> which aligned
 500 years ago<Delay 5>...<Close><End of Block>
 <TextBlock 257 w:50 h:4>
 And finally<Delay 5>...<Delay 5>
-Grahf's Naphtali<Delay 5>...<Delay 5>
+Grahf's Naphtali<Delay 5>...<Delay 5><New>
 All of the "Anima 
 Vessels"<Delay 5> have 
 been activated.<Close><End of Block>
@@ -1414,7 +1417,7 @@ The time of the
 gospel has come<Delay 5>...<Close><End of Block>
 <TextBlock 262 w:38 h:3>
 Come, all you 
-people.<Delay 5>
+people.<Delay 5><New>
 Praise the 
 awakening of 
 god.<Close><End of Block>
@@ -1427,8 +1430,8 @@ have been obtained<Delay 5>...<Close><End of Block>
 <TextBlock 265 w:54 h:4>
 All that remains is to 
 supplant ourselves in the 
-Animus, and merge with the
-to do is change into the 
+Animus,<New> 
+and merge with the 
 <Delay 5>mother's persona<Delay 5>...<Close><End of Block>
 <TextBlock 266 w:46 h:2>
 Krelian
@@ -1459,7 +1462,7 @@ have been operated
 without you,<New>
 but now that it is 
 operational, your 
-existence has no value.<Delay 15> 
+existence has no value.<Delay 15><New> 
 I have decided to 
 delete you."<Close><End of Block>
 <TextBlock 272 w:26 h:1>
@@ -1469,8 +1472,9 @@ Krelian
 "Cain, the only 
 obstruction to the 
 accomplishment of 
-"my" goal, is gone.<New>
-The absolute authority 
+"my" goal,<New> 
+is gone. The 
+absolute authority 
 he wielded over we the 
 "people" was my obstacle.<New>
 The only one capable of 
@@ -1478,11 +1482,11 @@ removing Cain was Cain
 himself.<New>
 Ramsus,<Delay 5>the "copy 
 of Cain"<Delay 5> that I 
-created for that purpose,<Delay 5>
+created for that purpose,<Delay 5><New>
 behaved according to my 
 expectations, and 
-eliminated Cain.<New>
-Now no one can stop me.<Delay 10>
+eliminated Cain.
+Now no one can stop me.<Delay 10><New>
 Furthermore, I have no 
 interest in the power 
 to rule which you 
@@ -1493,7 +1497,7 @@ free will?<Delay 10> You are things,
 bound to the system.<New>
 Ultimately, you are 
 nothing more than a 
-terminal interface,
+terminal interface,<New>
 designed as a weapon 
 of aggression and 
 domination."<Close><End of Block>
@@ -1508,20 +1512,20 @@ Who said that you
 would become god?<New>
 You say such presumptuous 
 things.<Delay 5>
-We are human.<Delay 5> Even 
-for you, who were 
-created to be the 
-terminal interface 
-of god,<New>
-that is the same.<New>
+We are human.<Delay 5><New> 
+Even for you, who 
+were created to 
+be the terminal 
+interface of god,<New>
+that is the same.
 'Man cannot become god.'<Delay 5>
-...<Delay 5>All that we can do, 
+...<Delay 5>All that we can do,<New> 
 is entrust ourselves to 
 god."<Close><End of Block>
 <TextBlock 276 w:38 h:3>
 Ri<Delay 5>...<Delay 5>DI<Delay 5>Cu<Delay 5>lous<Delay 5>...<Delay 10>
 INCON<Delay 5>...<Delay 5>sis<Delay 5>...
-<Delay 5>tent with<Delay 5> the<Delay 5>...
+<Delay 5>tent with<Delay 5> the<Delay 5>...<New>
 <Delay 5>mother'S<Delay 5>...<Delay 5>
 wiLL<Close><End of Block>
 <TextBlock 277 w:48 h:4>
@@ -1541,7 +1545,7 @@ Your genes, which were
 dispersed to sustain 
 the world after the 
 days of collapse,<New>
-live on among the people.<New>
+live on among the people.
 The Anima Vessels,
 the Animus<Delay 5>...<Delay 5>
 And the persona<Delay 5>...<Delay 5><New>
@@ -1567,7 +1571,8 @@ Krelian
 "With this, all that 
 would afflict you 
 with worry will 
-cease.<Delay 15> Rest in peace 
+cease.<Delay 15><New> 
+Rest in peace 
 one footstep before us,<Delay 5>
 ancestors of man!"<Close><End of Block>
 <TextBlock 282 w:40 h:3>
