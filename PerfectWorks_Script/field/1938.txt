@@ -8,7 +8,7 @@ Fei
 Fei
 "This pendant...<New>
 Is this Sophia's...
-or my mother's...?"<Close><End of Block>
+or my Mother's...?"<Close><End of Block>
 <TextBlock 4 w:44 h:1>
 I'm begging you Fei...<Delay 100><Delay 100><Delay 100><Close><End of Block>
 <TextBlock 5 w:36 h:4>
@@ -170,7 +170,7 @@ that day 3 years ago...<New>
 would tide me over until
 your true awakening.<New>
 That is why 'I' acquired
-the body of your father.<New>
+the body of your Father.<New>
 Regardless of your
 awakening, your merging,
 and the inherited memories
@@ -180,12 +180,12 @@ you to know of this, since
 you had lost your memory
 at that point...<New>
 At the point in which 'I'
-merged with your father."<Close><End of Block>
+merged with your Father."<Close><End of Block>
 <TextBlock 40 w:44 h:4>
 Fei
 "Impossible...!
 What about Wiseman...?
-What about father...?"<Close><End of Block>
+What about Father...?"<Close><End of Block>
 <TextBlock 41 w:54 h:4>
 Grahf
 "Of course they were just
@@ -242,7 +242,7 @@ Fei
 I know you're Lacan, and
 that you're a part of me.<New>
 But that doesn't change
-you being my father.
+you being my Father.
 I could never really
 fight you!<Close><End of Block>
 <TextBlock 49 w:52 h:4>
@@ -251,7 +251,7 @@ Grahf
 Why don't you understand
 that your naivety is what
 killed Sophia, what killed
-your mother 'Karen'?<Close><End of Block>
+your Mother, Karen?<Close><End of Block>
 <TextBlock 50 w:54 h:4>
 Fei
 "I already know that!
@@ -260,7 +260,7 @@ to run away again...<New>
 ...that I must rescue Elly.
 So don't get in my way!
 Wake up! Open your eyes,
-father...-Lacan-!"<Close><End of Block>
+Father... Lacan!"<Close><End of Block>
 <TextBlock 51 w:38 h:4>
 Grahf
 "If that's the case
@@ -305,8 +305,8 @@ my contact with the
 Existence that, even if
 Deus was destroyed...<New>
 ...as long as humans still
-inhabit this land, Miang...
-Elhaym, will be born time
+inhabit this land, Myyah...
+Elehayym, will be born time
 and again.<New>
 Then all living things may
 as well perish along with
@@ -324,7 +324,7 @@ self and that machine to
 return everything to
 nothing...<New>
 That's what I concluded.<New>
-Miang and Elhaym...are not
+Myyah and Elehayym...are not
 just Deus' mouthpieces.
 That 'woman' is its main
 body!<New>
@@ -334,17 +334,17 @@ Fei
 "That's not true.
 She gave her life for me
 by shielding me from harm!<New>
-Her eyes weren't Miang's!
+Her eyes weren't Myyah's!
 Mother came back at the
 last moment!<New>
-Miang, mother...even Elly,
+Myyah, Mother...even Elly,
 were all humans born on
 this planet!
 Deus doesn't matter!<New>
 You'll see...
 I will bring Elly back!<New>
 Father<Delay 10>...<Delay 10>
-No, Grahf -Lacan-! 
+No, Grahf Lacan! 
 If you won't back down..."<Close><End of Block>
 <TextBlock 60 w:16 h:2>
 Grahf
@@ -441,16 +441,16 @@ Fei, please!!"<Close><End of Block>
 <TextBlock 72 w:48 h:3>
 Khan
 "That's right...
-Karen had become Miang."<Close><End of Block>
+Karen had become Myyah."<Close><End of Block>
 <TextBlock 73 w:48 h:4>
 Khan
 "It's nothing special.
-Miang does not have
+Myyah does not have
 only one host body.<New>
-Miang's roots are sealed
+Myyah's roots are sealed
 in the genes of all
 women. Any one of them
-could become Miang."<Close><End of Block>
+could become Myyah."<Close><End of Block>
 <TextBlock 74 w:46 h:3>
 Id
 "It just happened to be
@@ -462,7 +462,7 @@ Khan
 "Nooooooooo!"<Close><End of Block>
 <TextBlock 76 w:54 h:4>
 Khan
-"Karen, -Miang-, noticed
+"Karen, Myyah, noticed
 that Fei's memory time axis
 had increased 2 or 3 fold.<New>
 She then became convinced
@@ -510,7 +510,7 @@ nothing wrong!<Close><End of Block>
 <TextBlock 83 w:38 h:2>
 I know. This one is
 the real culprit.<New>
-Mother and father
+Mother and Father
 had no choice.<Close><End of Block>
 <TextBlock 84 w:32 h:4>
 Grahf
@@ -522,10 +522,10 @@ you cannot get
 what you want."<Close><End of Block>
 <TextBlock 85 w:54 h:4>
 Fei
-"It's alright...dad.
+"It's alright...Dad.
 I understand.
 You are not Grahf.<New>
-You are my father.
+You are my Father.
 You and Grahf are one.
 Your will and purpose
 never change.<New>
@@ -617,9 +617,9 @@ Grahf
 "As you said, that was
 Karen.<New>
 Through many generations
-Miang is beginning to break
+Myyah is beginning to break
 free from her bounds.<New>
-Now that Elhaym has merged
+Now that Elehayym has merged
 with Deus, she has all of
 her memories back.<New>
 All the memories from her
@@ -628,7 +628,7 @@ Contact's complement up to
 her current transmigration.<New>
 That includes all of the
 lives she has lived as
-Miang, and her substitutes,
+Myyah, and her substitutes,
 over the centuries.<New>
 And of course, that
 includes your mother's
