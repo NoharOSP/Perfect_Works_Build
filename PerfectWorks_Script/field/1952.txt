@@ -27,7 +27,7 @@ the Nanoreactor there
 Krelian
 "Huh?<Delay 5> Oh<Delay 5>...<Delay 15>
 Recogniton code
-0808191 - 'Ramses'.<New>
+0808191 - 'Ramsus'.<New>
 The Emperor's been told
 it's a prototype for an
 artificial 'Contact'."<Close><End of Block>
@@ -121,7 +121,7 @@ you try to pursue it."<Close><End of Block>
 <TextBlock 25 w:26 h:1>
 Until then<Delay 5>...<Close><End of Block>
 <TextBlock 26 w:54 h:4>
-Miang
+Myyah
 "The chains that restrained
 humankind have been removed
 because of you."<Close><End of Block>
@@ -161,7 +161,7 @@ In other words, a being
 to take the place of the
 original body of god<Delay 5>..."<Close><End of Block>
 <TextBlock 29 w:56 h:4>
-Miang
+Myyah
 "It's like a trojan horse
 released at the time of the
 assimilation with god<Delay 5>...<Delay 5><New>
@@ -174,7 +174,7 @@ Krelian
 them have it their way.<Delay 30>
 The 'Ark of god' is mine."<Close><End of Block>
 <TextBlock 31 w:50 h:3>
-Miang
+Myyah
 "<Delay 5>...<Delay 5>Either way is fine by
 me.<New>
 I will just side with
