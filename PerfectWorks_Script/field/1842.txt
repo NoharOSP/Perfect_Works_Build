@@ -12,7 +12,7 @@ Mobile Weapon arrived in
 Nisan.<New>
 After we pushed back the
 Solarian Gear units, we
-headed for Nortune<Delay 5>...<Delay 5>
+headed for Noatun<Delay 5>...<Delay 5>
 to the Kislev capital's
 administrative district.<Delay 15>
  
@@ -32,11 +32,11 @@ the land of Ignas once
 again became united.<Close><End of Block>
 <TextBlock 3 w:60 h:2>
 Excitement spread throughout
-Aveh, Nisan, Kislev, Shevat<Delay 5>...<Delay 5><Close><End of Block>
+Av, Nisan, Kislev, Shevat<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 4 w:52 h:6>
 The sky shimmered as if to
 celebrate. By the hands of
-Elly, Citan, Taura and
+Elly, Citan, Torah and
 Emeralda, the nanomachines
 had been dispersed into
 the atmosphere.<Close><End of Block>
@@ -56,7 +56,7 @@ into abnormal forms.<Close><End of Block>
 <TextBlock 7 w:56 h:8>
 It seemed to be triggered
 when the nanomachines
-removed the -Limiter- seal
+removed the Limiter seal
 that was placed on humankind
 by Krelian in the past...<Delay 30>
  
@@ -68,8 +68,8 @@ what Hammer had said back
 in Solaris.<Delay 30>
  
 His words were<Delay 5>...<Delay 5>
- "What<Delay 0> becomes<Delay 0> of<Delay 0> the<Delay 0>
- normal<Delay 0> humans<Delay 0>...<Delay 5>?"<Close><End of Block>
+ "A<Delay 0> "normal"<Delay 0> guy<Delay 0> like<Delay 0>
+ me<Delay 0> has<Delay 0> no<Delay 0> choice...<Delay 5>?"<Close><End of Block>
 <TextBlock 9 w:60 h:10>
 After that, we went from place
 to place, destroying all the
@@ -84,7 +84,7 @@ where they received treatment.<Close><End of Block>
 <TextBlock 10 w:60 h:9>
 Those who had mutated only
 mildly were treated with
-Taura's nanomachines,
+Torah's nanomachines,
 which reconstructed and
 revived them.
  
@@ -155,15 +155,15 @@ in one place.<Close><End of Block>
 <TextBlock 16 w:56 h:10>
 Although the initial impact
 of being released from the
--Limiter- seal caused some
+Limiter seal caused some
 momentary chaos, everything
 slowly began to settle down.<New>
 We then began to search for
-the 'Anima Relics'<Delay 5>...<Delay 5>
+the Anima Vessels<Delay 5>...<Delay 5>
 the catalyst to transform
 Gears into Omnigears.<Delay 30>
  
-In the past, ten Relics had
+In the past, ten Vessels had
 been recovered<Delay 5>...<Delay 15>
 It is said that about half
 of those are in the hands
@@ -171,7 +171,7 @@ of the Ministry.<Close><End of Block>
 <TextBlock 17 w:58 h:11>
 According to Zephyr,<Delay 5> there
 should be several more
-Relics hidden in the land.<Delay 30>
+Vessels hidden in the land.<Delay 30>
  
 We knew then that Solaris
 would most certainly be
@@ -183,7 +183,7 @@ We visited the place where,<Delay 5>
 using archaic records,<Delay 5> Zephyr
 and her people had been able
 to get clues on the where-
-abouts of the Relics.<Delay 10>
+abouts of the Vessels.<Delay 10>
  
 Following the information
 we obtained from there,<Delay 5> we
@@ -192,7 +192,7 @@ what seemed to be<Delay 5> an ancient
 civilization.<Close><End of Block>
 <TextBlock 18 w:60 h:10>
 Having fled from the Elements,
-who tried to take the Relic to
+who tried to take the Vessel to
 be used as a power to fulfill
 Ramsus' desires...<Delay 15>
  
@@ -200,10 +200,10 @@ we once again intiated our
 search for information...<Delay 30>
  
 on the whereabouts of the
-last known Relic<Delay 5>...<Close><End of Block>
+last known Vessel<Delay 5>...<Close><End of Block>
 <TextBlock 19 w:60 h:9>
 Having completed the alignment
-of the first Anima Relic with
+of the first Anima Vessel with
 Billy, there was a remarkable
 change in the appearance and
 structure of Billy's Gear.<New>
@@ -212,7 +212,7 @@ with the inorganic<Delay 5>...<Delay 30>
  
 Of course we had no idea what
 purpose these ancient Anima
-Relics were created for.<Delay 5>
+Vessels were created for.<Delay 5>
 But the fact that they played
 some kind of role as weapons
 was blatantly obvious.<Close><End of Block>
@@ -224,7 +224,7 @@ power to fall into the
 hands of evil.<Delay 30>
  
 In order to obtain the
-final Relic,<Delay 5> we headed for
+final Vessel,<Delay 5> we headed for
 a ruin that is believed to
 be almost 10,000 years old.<Delay 5>
 ...<Delay 5>The remains of the first
@@ -303,7 +303,7 @@ Why was she so damn
 foolish<Delay 5>...?"<Close><End of Block>
 <TextBlock 29 w:50 h:4>
 Fei
-"I implicitly told her
+"I explicitly told her
 not to come<Delay 5>...<Delay 15>
 I told her to run away<Delay 5>...<New>
 She had to have known it
@@ -405,16 +405,16 @@ whereabouts...<Delay 30>
 And<Delay 5> two weeks later,
 we found her.<New>
 Using the data obtained
-from Razael and his own
+from Raziel and his own
 nanomachine technology,<Delay 5>
 Krelian had begun the
 construction of god's ark,<Delay 5>
-'Merkava'.
+'Merkabah'.
 Its completion was imminent.<Delay 45>
  
 To prevent its activation,<Delay 5>
 and to rescue Elly<Delay 5>...<Delay 5>
-we headed for<Delay 5> Merkava!<Close><End of Block>
+we headed for<Delay 5> Merkabah!<Close><End of Block>
 <TextBlock 43 w:46 h:4>
 Fei
 "You again<Delay 5>...?<Delay 30>
@@ -425,7 +425,7 @@ Dominia
 "Don't get any wrong
 ideas there.<Delay 10> We are here
 to help our Commander.<New>
-Miang and Krelian have been
+Myyah and Krelian have been
 manipulating his emotions
 for the sole purpose of
 eliminating the Emperor.<New>
@@ -435,7 +435,7 @@ so that he may be saved!<New>
 It's neither for the sake
 of the world<Delay 5>...<Delay 15>
 nor for the sake of your
-girlfriend, Elhaym!"<Close><End of Block>
+girlfriend, Elehayym!"<Close><End of Block>
 <TextBlock 45 w:50 h:4>
 Dominia
 "We have no intentions of
@@ -459,7 +459,7 @@ Dominia
 We'll make you eat those
 words<Delay 5>...<Delay 5> You wait and see!"<Close><End of Block>
 <TextBlock 49 w:56 h:11>
-We entered inside of Merkava
+We entered inside of Merkabah
 and,<Delay 5> while fighting back
 units of weapons that self-
 regenerated through the use
@@ -499,7 +499,7 @@ was devastated<Delay 5>...<Delay 5>
 and the weapons born
 from out of it,<Delay 5> called<Delay 5>...<Delay 45>
  
-'the <Delay 5>Seraph<Delay 5> angels'.<Close><End of Block>
+'the <Delay 5>Seraph<Delay 5> Angels'.<Close><End of Block>
 <TextBlock 53 w:56 h:12>
 While pursuing
 the newly awakened Deus,<Delay 15>
@@ -781,7 +781,7 @@ us for what we were about
 to see there<Delay 5>...<Close><End of Block>
 <TextBlock 84 w:54 h:8>
 We set out to silence god's
-ark,<Delay 5> 'Merkava',<Delay 5> which was
+ark,<Delay 5> Merkabah,<Delay 5> which was
 the epitome of offensive
 and defensive power<Delay 5>...<Delay 5>
 and then storm inside it<Delay 5>...<Delay 45>
@@ -792,12 +792,12 @@ to destroy 'Zohar'.<Close><End of Block>
 At that time, the earth
 quaked and shook.<Delay 15> And,<Delay 5>
 from the location where
-the Merkava crashed,<Delay 15> a
+the Merkabah crashed,<Delay 15> a
 giant object appeared.<New>
  
 It was Deus' final form.<Delay 45>
  
-The Merkava was merely
+The Merkabah was merely
 its vessel.<Delay 15>
 Deus evolved through
 the use of Krelian's
