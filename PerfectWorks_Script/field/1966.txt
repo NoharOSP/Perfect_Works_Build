@@ -2,15 +2,15 @@
 Lacan
 "<Delay 5>...<Delay 5>Elly!?"<Close><End of Block>
 <TextBlock 2 w:52 h:3>
-Miang
+Myyah
 "If only you had power<Delay 5>...<Delay 5>
 you could have saved her."<Close><End of Block>
 <TextBlock 3 w:48 h:3>
-Miang
+Myyah
 "You want it, don't you?<Delay 15>
 Unrivaled power<Delay 5>...!"<Close><End of Block>
 <TextBlock 4 w:48 h:4>
-Miang
+Myyah
 "Don't you want to
 become<Delay 5>...<Delay 15>
 the absolute being<Delay 5>...!?"<Close><End of Block>
