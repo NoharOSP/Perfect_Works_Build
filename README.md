@@ -49,7 +49,7 @@ These stat changes should allow Bart to be a lot more useful overall with out ju
 Rico:
 - HP 110 < 200
 - Attack 28 < 60
-- Defense 23 < 42
+- Defense 23 < 38
 - Hit 10 < 18
 - Agility 7 < 8
 
