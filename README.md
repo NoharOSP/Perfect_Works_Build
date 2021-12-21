@@ -245,22 +245,22 @@ Unless stated otherwise, the stat changed is HP.
 - Wyvern: HP 5000 < 28000 Atk 330 < 400 
 - Seibzehn: HP 5500 < 18000 Atk 380 < 420 Def 300 < 250 EDef 40 < 100
 - White Knights: HP 290 < 400 
-- Achtzehn: HP 12000 < 20000 Atk 600 < 1000 Def 300 < 500 Ether 20 < 50 EDef 0 < 50 
+- Achtzehn: HP 12000 < 19000 Atk 600 < 800 Def 300 < 400 Ether 20 < 35 EDef 0 < 25 
 - Shakhan: 18000 to 28000
-- Bladegash 2: 4000 < 23000
+- Bladegash 2: HP 4000 < 22000 Atk 500 < 400
 - Marinebasher: HP 5000 < 15000 EDef 100 < 200
-- Skyghene: HP 5000 < 18000 Atk 400 < 500 Eth 50 < 100 Evade 35 < 70
+- Skyghene: HP 5000 < 18000 Eth 50 < 75 Evade 35 < 55
 - Grandgrowl: HP 6000 < 20000 Atk 500 < 600 Eth 60 < 90 Edef 50 < 100
-- Crescens: EDef 100 < 500
+- Crescens: EDef 100 < 1000
 - Grahf: HP 9666 < 6666 Atk 255 < 200 Eth 255 < 150 Agility 13 < 9
 - Vendetta: 12000 < 22000
 - Ft Hurricane HP 13000 < 50000
 - Sufal Mass: HP 4800 < 20000 EDef 50 < 100
 - Sufal: Agility 7 < 10 Eth 20 < 50 
-- Dominia: 4000 < 17000
-- Kelvina: 2500 < 10000
-- Tolone: 2500 < 14000 Atk 80 < 120 Eth 40 < 80
-- Seraphita: 2500 < 13000
+- Dominia: 4000 < 20000
+- Kelvina: 2500 < 15000
+- Tolone: 2500 < 18000 Atk 80 < 120 Eth 40 < 80
+- Seraphita: 2500 < 17000
 - G-Elements: HP 45000 < 60000 Def 600 < 300
 - Opiomorph: 25000 to 30000
 - Id Xenogears: HP 30400 < 60000 Atk 825 < 1000 Ether 90 < 150 
