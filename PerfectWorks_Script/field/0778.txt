@@ -95,7 +95,7 @@ me again."<Close><End of Block>
 Agnes
 "It's not embarrassing.<New>
 Since long ago, the Nisan
-Mother and King of Aveh
+Mother and King of Av
 have always...<Close><End of Block>
 <TextBlock 19 w:40 h:3>
 Margie
@@ -614,7 +614,7 @@ I'm going outside to
 get some air."<Close><End of Block>
 <TextBlock 109 w:50 h:4>
 Sigurd
-"To get to Aveh we stowed
+"To get to Av we stowed
 away on a regular flight
 to the surface."<Close><End of Block>
 <TextBlock 110 w:36 h:3>
@@ -631,7 +631,7 @@ the Solaris army can use?"<Close><End of Block>
 <TextBlock 112 w:50 h:4>
 Citan
 "At least anyone in the
-Gebler forces who is sent
+Geburah forces who is sent
 to the surface..."<Close><End of Block>
 <TextBlock 113 w:32 h:3>
 Bart
