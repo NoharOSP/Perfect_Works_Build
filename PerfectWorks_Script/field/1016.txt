@@ -98,7 +98,7 @@ Don't you think so?<Close><End of Block>
 <TextBlock 20 w:36 h:1>
 Oooooh<Delay 15>...<Delay 5>too cute.<Close><End of Block>
 <TextBlock 21 w:46 h:4>
-Argh<Delay 5>...<Delay 5>damn Aveh.
+Argh<Delay 5>...<Delay 5>damn Av.
 Because of that attack,
 Josephine was crushed
 under a chair<Delay 5>...<Delay 5><Close><End of Block>
@@ -109,7 +109,7 @@ Oooh<Delay 5>...<Delay 15>Alright<Delay 15>...<Delay 5>
 alright.<Close><End of Block>
 <TextBlock 24 w:46 h:4>
 After being a mercenary
-for Aveh, I was going
+for Av, I was going
 to make money at the
 Imperial Battling<Delay 5>...<Delay 15><New>
 But the Battling's been
@@ -118,13 +118,13 @@ stopped for now.<Close><End of Block>
 <Delay 5>...It's too bad for me.<Close><End of Block>
 <TextBlock 26 w:50 h:3>
 The attack on the
-Empire by Aveh is sure to
+Empire by Av is sure to
 start a war<Delay 5>...<Delay 15><New>
 A mercenary like me can't
 make a living without
 some conflict.<Close><End of Block>
 <TextBlock 27 w:46 h:3>
-Kislev and Aveh<Delay 5>...<Delay 15>
+Kislev and Av<Delay 5>...<Delay 15>
 Which one should I suck
 the blood from<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 28 w:60 h:5>
@@ -138,7 +138,7 @@ That sounds<Delay 5>...<Delay 5>pretty
 impressive<Delay 15>...boss.<Close><End of Block>
 <TextBlock 30 w:48 h:4>
 I was surprised by the
-Aveh attack,<Delay 5> but I was
+Av attack,<Delay 5> but I was
 lucky my comrad was from
 the mole tribe.<Close><End of Block>
 <TextBlock 31 w:34 h:2>
