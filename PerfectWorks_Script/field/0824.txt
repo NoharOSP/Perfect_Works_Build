@@ -17,7 +17,7 @@ I could support that.
 No wait, I'd rather
 be a candidate.<New>
 Prime Minister of the
-Republic of Aveh...<Delay 50>
+Republic of Av...<Delay 50>
 What a great job!<New>
 And I wouldn't have
 to pay taxes either!<Close><End of Block>
