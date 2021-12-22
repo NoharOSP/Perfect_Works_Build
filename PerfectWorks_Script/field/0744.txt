@@ -1,5 +1,5 @@
 <TextBlock 1 w:44 h:4>
-Aveh excavation site
+Av excavation site
 main power generator.<New>
 Currently, the main
 power is on.
@@ -8,7 +8,7 @@ power is on.
 <TextBlock 2 w:52 h:1>
 Main power was turned off.<Close><End of Block>
 <TextBlock 3 w:50 h:4>
-Aveh excavation site
+Av excavation site
 main power generator.<New>
 Currently, the main power
 is off.
