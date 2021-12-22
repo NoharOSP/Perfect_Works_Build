@@ -58,7 +58,7 @@ Prince Bartholomew.
 I've been awaiting your
 return.<New>
 May you have a peaceful
-rule in Aveh.<Close><End of Block>
+rule in Av.<Close><End of Block>
 <TextBlock 15 w:46 h:4>
 Now I'm not so worried
 about my kids and
@@ -273,7 +273,7 @@ Go away!<Opcode 2 80><Close><End of Block>
 Delicious berries.
 You can't get Ariberries 
 like these anywhere else.
-Grown with Aveh spring
+Grown with Av spring
 water, deep red berries.<Close><End of Block>
 <TextBlock 68 w:36 h:3>
 One box, for 10G?
@@ -326,7 +326,7 @@ Bartholomew!"<Close><End of Block>
 <TextBlock 80 w:44 h:4>
 Bartholomew
 "You coward! Stealing 
-Aveh wasn't enough 
+Av wasn't enough 
 for you, Margie too?<Close><End of Block>
 <TextBlock 81 w:48 h:4>
 Shakhan
