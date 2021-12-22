@@ -146,7 +146,7 @@ above, but I ask you, who's
 ever seen a floating city?<Close><End of Block>
 <TextBlock 34 w:56 h:3>
 The attack by our enemy
-kingdom Aveh on our Imperial
+kingdom Av on our Imperial
 capital was really scary!<New>
 If that ever happens again,
 I'm out of here! Perhaps I
@@ -171,7 +171,7 @@ near our civilian area!<Close><End of Block>
 <TextBlock 37 w:54 h:4>
 Oooh<Delay 5>...<Delay 5> Diana<Delay 5>...<Delay 5> During the
 assault on our capital<Delay 5>...<Delay 5>
-by Aveh<Delay 5>...<Delay 15> she tried to 
+by Av<Delay 5>...<Delay 15> she tried to 
 save a child<Delay 5>...<New>
 ...<Delay 5>Is there no god looking
 over our world?<Delay 5> ...<Delay 5>Why?<Delay 5> ...<Delay 5>
@@ -214,7 +214,7 @@ around in circles.<Close><End of Block>
 But 
 <Delay 5>...<Delay 5>it feels a little futile.<Close><End of Block>
 <TextBlock 45 w:60 h:5>
-Using Aveh's raid on our
+Using Av's raid on our
 Imperial capital as a pretext,
 they are going to start yet
 another massive war effort!
@@ -304,8 +304,8 @@ Imperial City Guard
 "Nortune, our Empire's
 capital, is a powerful
 military state.<New>
-Bledavik, the capital
-of the Kingdom of Aveh,
+Breidablik, the capital
+of the Kingdom of Av,
 is at war against us."<Close><End of Block>
 <TextBlock 60 w:56 h:5>
 Imperial City Guard
@@ -324,7 +324,7 @@ There are also rumors about
 convicts, who attempted to
 escape by taking advantage
 of the confusion during
-Aveh's raid on our capital,
+Av's raid on our capital,
 hiding out in these parts.<Close><End of Block>
 <TextBlock 62 w:52 h:6>
 Imperial City Guard
@@ -428,7 +428,7 @@ Tool Guy
 Imperial City Guard
 "Due to the attack on our
 Imperial capital by our
-enemy, the Kingdom of Aveh...<New>
+enemy, the Kingdom of Av...<New>
 non-army personnel are not
 allowed to pass into the 
 Central District where the
