@@ -428,7 +428,7 @@ Cr'ap'n <Delay 15>susp'cious peepl!wned(30)<Close><End of Block>
 <TextBlock 105 w:46 h:3>
 We are the Raider Boys!
 Joined together to
-protect Aveh's peace!<Opcode 2 100><Close><End of Block>
+protect Av's peace!<Opcode 2 100><Close><End of Block>
 <TextBlock 106 w:44 h:3>
 We protect the people
 of the desert from the
@@ -741,7 +741,7 @@ the country."<Close><End of Block>
 <TextBlock 175 w:46 h:3>
 If Prince Bartholomew
 comes back he'll bring 
-back Aveh's old spirit.<Close><End of Block>
+back Av's old spirit.<Close><End of Block>
 <TextBlock 176 w:30 h:1>
 Go get'em, boy!<Close><End of Block>
 <TextBlock 177 w:36 h:3>
