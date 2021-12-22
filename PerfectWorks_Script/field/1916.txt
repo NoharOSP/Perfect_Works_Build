@@ -23,21 +23,21 @@ Maria
 We came to an enormous
 cavern that was big
 enough to swallow the
-whole capital of Aveh.<Close><End of Block>
+whole capital of Av.<Close><End of Block>
 <TextBlock 8 w:46 h:2>
 In its center were two
 gently glowing objects.<Close><End of Block>
 <TextBlock 9 w:46 h:3>
 It was the source
 of divine wisdom<Delay 5>...<Delay 5>
-It was <Delay 10>'Razael's Tree'.<Close><End of Block>
+It was <Delay 10>'Raziel's Tree'.<Close><End of Block>
 <TextBlock 10 w:42 h:3>
 And the cavern itself
 was a giant computer
-called Razael.<Close><End of Block>
+called Raziel.<Close><End of Block>
 <TextBlock 11 w:52 h:4>
 The wisdom of god,<Delay 5>
-hidden within Razael<Delay 5>...<Delay 5>
+hidden within Raziel<Delay 5>...<Delay 5>
 We found the unthinkable
 when we accessed its data.<Close><End of Block>
 <TextBlock 12 w:54 h:7>
@@ -58,7 +58,7 @@ And the construction of a
 divine ark<Delay 5>...<Close><End of Block>
 <TextBlock 14 w:56 h:3>
 These weapons were called,<Delay 60>
-'Yabeh', <Delay 5>the inter-planetary
+'YHWH', <Delay 5>the inter-planetary
 invasion weapon system.<Close><End of Block>
 <TextBlock 15 w:54 h:2>
 What the Gazel Ministry was
@@ -84,7 +84,7 @@ When suddenly,
 <TextBlock 19 w:42 h:4>
 Krelian
 "Ah, the hidden data
-from Razael's Tree...
+from Raziel's Tree...
 Move away from there.<New>
 This matter is far
 too weighty for the
@@ -93,7 +93,7 @@ likes of you."<Close><End of Block>
 Fei
 "We must protect it with
 our lives! We can't let
-them have the Razael data!"<Close><End of Block>
+them have the Raziel data!"<Close><End of Block>
 <TextBlock 21 w:54 h:4>
 Citan
 "You handle them!
