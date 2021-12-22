@@ -1,5 +1,5 @@
 <TextBlock 1 w:16 h:1>
-Taura...<Opcode 2 30><Close><End of Block>
+Torah...<Opcode 2 30><Close><End of Block>
 <TextBlock 2 w:14 h:2>
 Citan
 "Fei!!"<Close><End of Block>
@@ -8,19 +8,19 @@ Fei
 "Doc!!"<Delay 30><Close><End of Block>
 <TextBlock 4 w:52 h:4>
 Citan
-"I heard from Taura and
+"I heard from Torah and
 hurried right over here!<New>
 Boy, was that lucky.<Delay 10>
 You were fortunate to have
-come down near Taura's
+come down near Torah's
 research facility<Delay 5>..."<Close><End of Block>
 <TextBlock 5 w:52 h:4>
-Taura
+Torah
 "Hm...<Delay 5> This is no
 research facility. <Delay 10>
 It is 'a man's hideaway'!"<Close><End of Block>
 <TextBlock 6 w:50 h:3>
-Taura
+Torah
 "Citan told me about you.<New>
 I was shocked to see a
 couple lying down with
@@ -33,10 +33,10 @@ Citan
 you had a narrow
 escape.<New>
 Fei, make sure
-you thank Taura!"<Close><End of Block>
+you thank Torah!"<Close><End of Block>
 <TextBlock 9 w:44 h:4>
 Fei
-"Taura,<Delay 10>
+"Torah,<Delay 10>
 thank you very much<Delay 5>...<Delay 10>
 for helping Elly<Delay 5>..."<Close><End of Block>
 <TextBlock 10 w:50 h:4>
@@ -45,8 +45,8 @@ Fei
 hurt so badly...<Delay 30>
 What is that machine...?"<Close><End of Block>
 <TextBlock 11 w:54 h:4>
-Taura
-"It's called a Nanoreactor.<New>
+Torah
+"It's called a nanoreactor.<New>
 It is a device that can
 rebuild substances at
 the molecular level.<New>
@@ -62,24 +62,24 @@ I mean...
 Is that the same thing
 as Krelian is studying?"<Close><End of Block>
 <TextBlock 13 w:40 h:2>
-Taura
+Torah
 "Yes, that's right."<Close><End of Block>
 <TextBlock 14 w:50 h:3>
-Taura
+Torah
 "I<Delay 10> was the one who taught
 Nanotechnology to him..."<Close><End of Block>
 <TextBlock 15 w:20 h:2>
 Fei
 "You did?"<Close><End of Block>
 <TextBlock 16 w:48 h:4>
-Taura
+Torah
 "We shouldn't waste time
 talking about such an<Delay 10>
 unimportant subject.<New>
 Looks like her treatment
 is done."<Close><End of Block>
 <TextBlock 17 w:34 h:4>
-Taura
+Torah
 "Oh, you don't
 need to come.<Delay 10>
 Just wait there."<Close><End of Block>
@@ -97,7 +97,7 @@ Elly
 "Fei...<Delay 20>
 I..."<Close><End of Block>
 <TextBlock 22 w:50 h:4>
-Taura
+Torah
 "Ahem! Now, why don't you
 two go get some fresh air
 outside?<New>
@@ -110,21 +110,21 @@ We've got problems!!"<Close><End of Block>
 <TextBlock 24 w:52 h:4>
 Shevat Emissary
 "Today, a peace settlement
-between Aveh and Kislev
+between Av and Kislev
 is being held at Shevat...<New>
 But, Solaris' mobile
 weapons are approaching
 Shevat as we speak!<Delay 10>
 Please, help us!"<Close><End of Block>
 <TextBlock 25 w:46 h:3>
-Taura
+Torah
 "That has nothing to do
 with this young man!!"<Close><End of Block>
 <TextBlock 26 w:30 h:2>
 Shevat Emissary
-"Taura!!"<Close><End of Block>
+"Torah!!"<Close><End of Block>
 <TextBlock 27 w:48 h:4>
-Taura
+Torah
 "You're getting on my
 nerves for being so
 selfish.<New>
@@ -137,7 +137,7 @@ haven't changed since
 then. You only care
 about yourselves."<Close><End of Block>
 <TextBlock 28 w:50 h:4>
-Taura
+Torah
 "Fei! You don't need to
 listen to these guys who
 once tried to kill you!!"<Close><End of Block>
@@ -217,7 +217,7 @@ Shevat Emissary
 "We are truly grateful
 for your kindness,<Delay 10> Fei!!"<Close><End of Block>
 <TextBlock 45 w:34 h:3>
-Taura
+Torah
 "Hmph!<Delay 10>
 Suit yourselves."<Close><End of Block>
 <TextBlock 46 w:30 h:2>
@@ -229,7 +229,7 @@ Shevat Emissary
 The goal of the enemy is to
 destroy the cities in Ignas.<New>
 They have already destroyed
-half of Bledavik and will
+half of Breidablik and will
 probably reach Nisan in 
 about four hours.<New>
 Shevat will try to drive
@@ -240,7 +240,7 @@ Fei
 "Four hours...<Delay 10>
 That's cutting it close!"<Close><End of Block>
 <TextBlock 49 w:54 h:4>
-Taura
+Torah
 "No need to worry.
 Balthasar and I fixed your
 Gear with the nanomachines.<New>
