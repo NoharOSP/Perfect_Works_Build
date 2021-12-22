@@ -98,7 +98,7 @@ I'm alright!"<Close><End of Block>
 <TextBlock 14 w:68 h:4>
        Sigurd
        "They weren't just using us
-       'Lambs' for slave labor...<New>
+       Lambs for slave labor...<New>
        They also selected some of
        us, like me, to be used as
        subjects in experiments to
@@ -645,7 +645,7 @@ since this morning.<Close><End of Block>
 <TextBlock 103 w:50 h:3>
 I hear they're talking
 about a plan to deal with
-the troops from Aveh.<New>
+the troops from Av.<New>
 Some of them think the
 return of Margie is a
 nuisance.<Close><End of Block>
