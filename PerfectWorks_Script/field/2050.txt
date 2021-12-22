@@ -177,7 +177,7 @@ set g-nisan Go to the hall<Close><End of Block>
     Fortress of jasper
     Exit<Close><End of Block>
 <TextBlock 41 w:64 h:7>
-    <Opcode 1 255>Escape from Aveh(Dock in)
+    <Opcode 1 255>Escape from Av(Dock in)
     Arrive a Nisan
     Looked a pictue
     Taaactics
