@@ -13,7 +13,7 @@ Why do you think we have a
 bridge here? Hah hah hah?<Close><End of Block>
 <TextBlock 4 w:48 h:2>
 Many were injured in the
-last Kislev-Aveh war.<New>
+last Kislev-Av war.<New>
 Even my family...<New>
 War only leaves misery.<Close><End of Block>
 <TextBlock 5 w:52 h:3>
@@ -25,16 +25,16 @@ died trying to oppose the
 influence of the 'Ethos'.<Close><End of Block>
 <TextBlock 6 w:44 h:2>
 A peace treaty has
-been signed with Aveh.<New>
+been signed with Av.<New>
 Let's hope it lasts...<Close><End of Block>
 <TextBlock 7 w:52 h:2>
-Kislev and Aveh almost had
+Kislev and Av almost had
 a truce once before. <New>
 But the relationship 
-worsened due to Gebler.<Close><End of Block>
+worsened due to Geburah.<Close><End of Block>
 <TextBlock 8 w:54 h:3>
 Ever hear of a red Gear?
-I hear it took out a Gebler
+I hear it took out a Geburah
 unit.<New>
 If only he'd be our savior.<Close><End of Block>
 <TextBlock 9 w:50 h:3>
@@ -75,7 +75,7 @@ I'm still ready for it.<Close><End of Block>
 <TextBlock 15 w:52 h:2>
 Now I'm even more confused
 with the way things are.<New>
-Peace with Aveh probably
+Peace with Av probably
 won't last.<Close><End of Block>
 <TextBlock 16 w:52 h:3>
 The lower ranks don't know
