@@ -1,12 +1,12 @@
 <TextBlock 1 w:46 h:3>
 What was all the
 fighting between us and
-Aveh?<New>
+Av?<New>
 Solaris must have been
 manipulating it all...<Close><End of Block>
 <TextBlock 2 w:46 h:3>
 There's some suspicious
-activity in Aveh. They
+activity in Av. They
 could attack anytime.<Close><End of Block>
 <TextBlock 3 w:50 h:2>
 ...I wish I could've
@@ -15,7 +15,7 @@ seen Goliath in action...<Close><End of Block>
 This is the new battle
 ship, Goliath!<New>
 With its completion,
-Aveh and Solaris will
+Av and Solaris will
 have to submit to us.<Close><End of Block>
 <TextBlock 5 w:46 h:3>
 Apparently, the Kaiser
@@ -24,7 +24,7 @@ just too shallow.<Close><End of Block>
 <TextBlock 6 w:50 h:3>
 What is the Kaiser
 thinking? Now's the only
-chance to strike at Aveh.<Close><End of Block>
+chance to strike at Av.<Close><End of Block>
 <TextBlock 7 w:42 h:2>
 Your Gear is awesome!
 What's it called?<Close><End of Block>
@@ -43,10 +43,10 @@ even if I'm the last one.<Close><End of Block>
 <TextBlock 11 w:52 h:4>
 Who would've thought
 a pirate fighting against
-Aveh was really the Prince
+Av was really the Prince
 of Fatima...?<Close><End of Block>
 <TextBlock 12 w:52 h:4>
-Aveh and some pirates 
+Av and some pirates 
 clashed at the border.
 Something serious happened
 there.<Close><End of Block>
@@ -63,8 +63,8 @@ Ultimately, the only
 way to end this war is to
 strike out at Solaris.<Close><End of Block>
 <TextBlock 15 w:50 h:3>
-Currently, Aveh is a
+Currently, Av is a
 puppet government.<New>
-Ramsus, a Gebler officer,
+Ramsus, a Geburah officer,
 is the one who holds the
 true power.<Close><Close><End of Block>
