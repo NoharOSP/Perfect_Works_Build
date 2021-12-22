@@ -25,7 +25,7 @@ through that air duct up
 there."<Close><End of Block>
 <TextBlock 7 w:50 h:4>
 Soldier
-"The attack on Aveh upset
+"The attack on Av upset
 the military balance.<New>
 Now only army personnel
 can enter the Central
@@ -33,7 +33,7 @@ District.<Delay 15> I'm sorry,<Delay 5> but
 you will have to leave."<Close><End of Block>
 <TextBlock 8 w:56 h:4>
 Imperial Guard
-"With the attack on Aveh,
+"With the attack on Av,
 the entire area is under
 martial law.<New>
 Only army personnel may pass
@@ -85,7 +85,7 @@ Soldier
 "Please, come this way."<Close><End of Block>
 <TextBlock 19 w:50 h:4>
 Soldier
-"The attack on Aveh upset
+"The attack on Av upset
 the military balance.<New>
 Now only army personnel
 can enter the Central
@@ -93,7 +93,7 @@ District.<Delay 15> I'm sorry,<Delay 5> but
 you will have to leave."<Close><End of Block>
 <TextBlock 20 w:56 h:4>
 Imperial Guard
-"With the attack on Aveh,
+"With the attack on Av,
 the entire area is under
 martial law.<New>
 Only army personnel may pass
