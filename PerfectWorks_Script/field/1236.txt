@@ -220,7 +220,7 @@ Huh? Well, don't worry
 too much.<Close><End of Block>
 <TextBlock 51 w:44 h:2>
 Well, let's toast to
-the Thames' survival!"<Close><End of Block>
+the Tamuz's survival!"<Close><End of Block>
 <TextBlock 52 w:32 h:2>
 Now we can drink
 some more.<Close><End of Block>
@@ -323,7 +323,7 @@ with that crap.<Close><End of Block>
 <TextBlock 83 w:33 h:3>
 I am <Delay 30>the maste<~>r<Delay 45>
 The best <Delay 30>maste<~>r<Delay 45>
-Thames' <Delay 45>maste<~>r.<Close><End of Block>
+Tamuz's <Delay 45>maste<~>r.<Close><End of Block>
 <TextBlock 84 w:40 h:1>
 Hey, I'm nosh drunk.<Close><End of Block>
 <TextBlock 85 w:50 h:3>
