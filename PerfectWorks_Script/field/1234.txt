@@ -326,7 +326,7 @@ new booty to sell."<Close><End of Block>
 <TextBlock 70 w:48 h:3>
 Captain
 "Feel free to come back
-to Thames anytime.<New>
+to Tamuz anytime.<New>
 There's always room at
 our dock for your ship."<Close><End of Block>
 <TextBlock 71 w:52 h:2>
@@ -361,7 +361,7 @@ we've lost our 'porpoise'!<New>
 Guess we'll just have to
 stick with wandering the
 seas and salvaging.<New>
-Seems Thames will have to
+Seems Tamuz will have to
 continue this haphazard
 lifestyle after all."<Close><End of Block>
 <TextBlock 77 w:38 h:3>
@@ -388,7 +388,7 @@ But when Wels attacked, I
 thought about running.<Close><End of Block>
 <TextBlock 82 w:46 h:3>
 You can talk to other
-areas aboard the Thames
+areas aboard the Tamuz
 through that intercom.<Close><End of Block>
 <TextBlock 83 w:54 h:3>
 I remember seein' a high
