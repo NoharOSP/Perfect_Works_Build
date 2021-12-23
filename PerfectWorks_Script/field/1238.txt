@@ -75,9 +75,9 @@ crap! Why don't you make
 something that'll sell!?<Close><End of Block>
 <TextBlock 21 w:54 h:3>
 What the?
-The soul of a Thames' man!?<New>
+The soul of a Tamuz man!?<New>
 If they were all as dumb as
-you, the Thames'd have gone
+you, the Tamuz'd have gone
 under long ago!"<Close><End of Block>
 <TextBlock 22 w:48 h:4>
 Hey, have you met the
@@ -192,7 +192,7 @@ you come back when you've
 gotten a little better!<New>
 You'd better practice
 somewhere other than
-Thames. What? You don't
+Tamuz. What? You don't
 know what I'm talking
 about? Hah! I KNOW you
 know what I'm talking
@@ -237,7 +237,7 @@ Elly
 What about our Gears?"<Close><End of Block>
 <TextBlock 64 w:52 h:3>
 Don't worry about it. We
-put them inside the Thames
+put them inside the Tamuz
 through the supply dock.<New>
 Sea water got inside so
 it'll take some time to
