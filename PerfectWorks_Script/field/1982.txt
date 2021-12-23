@@ -15,12 +15,12 @@ Hans
 "I'm embarrassed you just
 saw that. <New>
 I got married just before
-the Thames went down."<Close><End of Block>
+the Tamuz went down."<Close><End of Block>
 <TextBlock 4 w:52 h:5>
 Hans
 "Her name is Anna. She's
 my wife. She was saved by
-the Thames when the ships
+the Tamuz when the ships
 were attacked by Reapers.<New>
 Unfortunately, that's when
 she lost her husband<Delay 10>...
@@ -231,7 +231,7 @@ I'm no match for you."<Close><End of Block>
 <TextBlock 40 w:46 h:4>
 Kanna
 "Some flashy woman in
-Thames taught me a card
+Tamuz taught me a card
 game.<New>
 Do you wanna play?"
     Yes
@@ -256,19 +256,19 @@ You're alive!?"<Close><End of Block>
 Fei
 "Yeah, you too...
 But if you're here that
-means the Thames was..."<Close><End of Block>
+means the Tamuz was..."<Close><End of Block>
 <TextBlock 48 w:50 h:4>
 Hans
-"The Thames<Delay 10>...<Delay 10>
+"The Tamuz<Delay 10>...<Delay 10>
 sank.
 The 'Angels' attacked...<New>
-The Thames withstood the
+The Tamuz withstood the
 onslaught of Reapers, but
 was defenseless against
 those 'Angels'<Delay 10>...<New>
 Hardly anyone got out in
 time...<Delay 10> They went down
-with the Thames<Delay 10>..."<Close><End of Block>
+with the Tamuz<Delay 10>..."<Close><End of Block>
 <TextBlock 49 w:46 h:4>
 Bart
 "Wha...wait a minute.
@@ -282,7 +282,7 @@ What happened to him?"<Close><End of Block>
 <TextBlock 51 w:54 h:4>
 Hans
 "The Captain...<Delay 10>said...<Delay 10>he'd
-watch the end of the Thames<Delay 10>
+watch the end of the Tamuz<Delay 10>
 with his own eyes<Delay 10>..."<Close><End of Block>
 <TextBlock 52 w:52 h:4>
 Bart
