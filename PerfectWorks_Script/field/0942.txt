@@ -98,7 +98,7 @@ Rank
 Vance
 "We don't care much for
 rank<Delay 5>...<Delay 5>and we don't care
-much for Rank either!<New>
+much for 'Rank' either!<New>
 But just because you're
 beautiful doesn't mean
 you have to be cocky."<Close><End of Block>
