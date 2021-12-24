@@ -237,7 +237,7 @@ help out?"<Close><End of Block>
 Elly
 "Well...can we get an
 introduction to the
-'Ethos' then?"<Close><End of Block>
+Church of the Ethos?"<Close><End of Block>
 <TextBlock 56 w:54 h:4>
 Billy
 "Oh yes, please excuse my
@@ -259,14 +259,14 @@ us?"<Close><End of Block>
 <TextBlock 58 w:50 h:4>
 Billy
 "Yes. Let's stop by the
-'Church of the Ethos' 
+Church of the Ethos 
 headquarters after this."<Close><End of Block>
 <TextBlock 59 w:50 h:4>
 Margie
 "Hmm. A priest and an
 Etone at the same time...
 Isn't that unsual?<New>
-The 'Ethos' is obviously
+The Church is obviously
 very different from my
 Nisan Sect."<Close><End of Block>
 <TextBlock 60 w:46 h:3>
@@ -316,13 +316,13 @@ Bart
 Billy
 "Well everyone, <New>
 I'll go tell the
-'Church of the 
-Ethos' that you're 
+Church of the 
+Ethos that you're 
 coming.<New>
 When you've taken
 care of business here,
 please come by the
-'Church of the Ethos'."<Close><End of Block>
+Church of the Ethos."<Close><End of Block>
 <TextBlock 69 w:34 h:3>
 Bart
 "I know, I know. 
