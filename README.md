@@ -17,6 +17,37 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 
 ### Name changes:
 
+- True Weltall = Alpha Weltall
+- Anima Relics = Vessels of Anima
+- Anonelbe = Ahnenerbe
+- Aveh = Av
+- Bledavik = Breidablik
+- Broyer = Breuer
+- Day of Destruction = Day of Collapse
+- Elhaym = Elehayym
+- Elru = Elul
+- Ethos = The Church/Church of Ethos
+- Etrenank = Etemenanki
+- Gaetia Key = Key of Goetia
+- Gebler = Geburah
+- Golgada = Golgotha
+- Helmholz = Helmholtz
+- Kadomony = Kadamoni 
+- Kahran = Carlin (and Kahr to Carl)
+- Kelvena = Cherubina
+- Mahanon = Machanon
+- Merkava = Merkabah
+- Miang = Myyah
+- Nikolai = Nikola
+- Nortune = Noatun
+- Opiomorph = Opiomorphus
+- Razael = Raziel
+- Renk = Rank
+- Taura = Torah
+- Thames = Tamuz
+- Tolone = Throne
+- Urobolus = Uroborus
+- Yabeh = YHWH
 - Wind Mode = Zephyr Mode.
 - Earth Mode = Seismic Mode.
 - Fire Mode = Inferno Mode.
