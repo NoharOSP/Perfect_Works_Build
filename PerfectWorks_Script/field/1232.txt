@@ -132,13 +132,13 @@ Elly
 Doctor
 "Ah, I just remembered.<New>
 I heard that the Etone,
--'atoners of sin'-,
+atoners of sin,
 are coming to Tamuz
-from the 'Ethos' H.Q...."<Close><End of Block>
+from the Church H.Q...."<Close><End of Block>
 <TextBlock 28 w:44 h:4>
 Citan
 "What purpose do such
-Etone from the 'Ethos'
+Etone from the Church
 have here?"<Close><End of Block>
 <TextBlock 29 w:40 h:4>
 Doctor
@@ -152,7 +152,7 @@ What are they?"<Close><End of Block>
 <TextBlock 31 w:56 h:5>
 Doctor
 "They are religious people
-from the 'Ethos' who cleanse
+from the Church who cleanse
 away the 'Reapers' or 'Wels'
 that appear here in Aquvy."<Close><End of Block>
 <TextBlock 32 w:54 h:2>
