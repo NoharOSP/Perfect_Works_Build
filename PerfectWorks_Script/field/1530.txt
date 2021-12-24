@@ -20,7 +20,7 @@ you?<Delay 20>
 I've heard about you.<New>
 They say you saved our
 colleague captured by the
-'Ethos'.<Delay 20> Thank you very
+Church.<Delay 20> Thank you very
 much for that.<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 I wish they'd give me a
