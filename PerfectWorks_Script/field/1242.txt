@@ -156,7 +156,7 @@ the Wels Lady Hunter...<Close><End of Block>
 Hmmm...I've got a bad
 feeling about this...<Close><End of Block>
 <TextBlock 40 w:58 h:4>
-This new job the 'Ethos' sent
+This new job the Church sent
 me on is my first BIG job.
 I'm a little worried whether
 I'll be able to do it or not.<New>
@@ -166,7 +166,8 @@ unimaginably big. Something
 awesome's down there.<Close><End of Block>
 <TextBlock 41 w:48 h:3>
 That job from the
-'Ethos' was ruined.<New>
+Church of the Ethos 
+was ruined.<New>
 Unfortunately, I'll have
 to delay that job...but
 I'm a bit relieved.<Close><End of Block>
