@@ -2,7 +2,7 @@
 Billy
 "What's going on<Delay 5>...<Delay 5><New>
 The Etone are in charge
-of the 'Ethos' military
+of the Church's military
 but they've been killed
 without signs of struggle."<Close><End of Block>
 <TextBlock 2 w:54 h:3>
@@ -14,7 +14,7 @@ cursed land of the heavens,
 Shevat.<Close><End of Block>
 <TextBlock 3 w:52 h:3>
 People belonging to the 
-'Ethos' must act modestly
+Church must act modestly
 with generosity.<New>
 To do that we often read
 from the sacred scripts
@@ -39,25 +39,25 @@ here to eliminate them.<Close><End of Block>
 <TextBlock 6 w:50 h:3>
 We, the Etone, are the
 swords and shields of the
-'Ethos' so to speak.<New>
+Church so to speak.<New>
 We fight with enemies
 such as Reapers<New>
 and thieves to save 
 people with faith in god.<Close><End of Block>
 <TextBlock 7 w:44 h:3>
-Billy!Does your dad
+Billy! Does your dad
 hold a grudge against
-the 'Ethos'?<New>
-They say the 'Ethos'
+the Church?<New>
+They say the Church
 supply dump was bombed
 again.<Close><End of Block>
 <TextBlock 8 w:52 h:3>
 Aha! You!<New>
 Ask Billy if his dad holds
 a grudge against the 
-'Ethos' or not.<New>
+Church or not.<New>
 They say his father bombed
-the 'Ethos' supply dump.
+the Church supply dump.
 Oh, my head hurts.<Close><End of Block>
 <TextBlock 9 w:50 h:6>
 Plundered by war and
@@ -65,12 +65,12 @@ salvagers... Destruction
 by the Reapers...<Delay 10>
 We must meet the people's
 expectations toward the 
-'Ethos'.<Close><End of Block>
+Church.<Close><End of Block>
 <TextBlock 10 w:44 h:4>
 Why does Jessie attack
-the 'Ethos' buildings?<Delay 10>
-I heard he was once an
-amazing Etone...<Close><End of Block>
+the Church buildings?<Delay 10>
+Even though his son 
+is an Etone...<Close><End of Block>
 <TextBlock 11 w:34 h:2>
 What's happening?
 I'm scared.<Close><End of Block>
@@ -78,12 +78,12 @@ I'm scared.<Close><End of Block>
 Mom...<Close><End of Block>
 <TextBlock 13 w:50 h:2>
 What happened to the man
-from the 'Ethos'?<New>
+from the Church?<New>
 He hasn't been back since
 he left the room earlier.<Close><End of Block>
 <TextBlock 14 w:42 h:3>
 Um...someone from the
-'Ethos' got in a huge
+Church got in a huge
 Gear and saved me.<New>
 Some man named master
 attacked us...It was
