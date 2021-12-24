@@ -4,8 +4,9 @@ Fei
 the seas like this?"<Close><End of Block>
 <TextBlock 2 w:38 h:3>
 Fei
-"Why is the 'Church
-of Ethos' involved...?"<Close><End of Block>
+"Why is the 
+'Church of Ethos' 
+involved...?"<Close><End of Block>
 <TextBlock 3 w:6 h:1>
 ...<Opcode 2 100><Close><End of Block>
 <TextBlock 4 w:20 h:2>
@@ -70,8 +71,8 @@ we've had."<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 Captain
 "Oh, that's a job for the
-'Ethos'.<New>
-The 'Ethos' is planning
+Church of the Ethos.<New>
+The Church is planning
 a really big salvage next.<New>
 I don't know the details
 but, looks like we'll be
@@ -80,7 +81,7 @@ treasure."<Close><End of Block>
 <TextBlock 14 w:50 h:4>
 Captain
 "Who knows... But, we're
-dependent on the 'Ethos'
+dependent on the Church
 to buy our stuff.<New>
 So, it won't look good
 if we turn the job down."<Close><End of Block>
