@@ -86,7 +86,7 @@ tell you anymore...<Close><End of Block>
 <TextBlock 18 w:42 h:3>
 You want Billy?<Delay 10>
 You should go to the 
-'Ethos' headquarters.<Close><End of Block>
+Church's headquarters.<Close><End of Block>
 <TextBlock 19 w:12 h:1>
 Yeah!!<Opcode 2 30><Close><End of Block>
 <TextBlock 20 w:38 h:2>
@@ -143,7 +143,7 @@ inhale till I'm full.<Close><End of Block>
 <TextBlock 35 w:42 h:3>
 You want Billy?<Delay 10>
 You should go to the 
-'Ethos' headquarters.<Close><End of Block>
+Church's headquarters.<Close><End of Block>
 <TextBlock 36 w:8 h:1>
 GO!!<Opcode 2 30><Close><End of Block>
 <TextBlock 37 w:36 h:2>
@@ -180,7 +180,7 @@ the same thing.<Close><End of Block>
 <TextBlock 46 w:42 h:3>
 You want Billy?<Delay 10>
 You should go to the
-'Ethos' headquarters.<Close><End of Block>
+Church's headquarters.<Close><End of Block>
 <TextBlock 47 w:18 h:1>
 Look out!<Opcode 2 40><Close><End of Block>
 <TextBlock 48 w:38 h:4>
@@ -266,7 +266,7 @@ about work..."<Close><End of Block>
 <TextBlock 74 w:54 h:4>
 Bishop Stone
 "Yes.<New>
-The 'Church of the Ethos' 
+The Church of the Ethos
 transport ship that went 
 missing finally turned up.<Delay 10> 
 But, there's no reply..."<Close><End of Block>
