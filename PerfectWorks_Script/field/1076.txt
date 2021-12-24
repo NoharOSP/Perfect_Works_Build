@@ -17,12 +17,13 @@ last Kislev-Av war.<New>
 Even my family...<New>
 War only leaves misery.<Close><End of Block>
 <TextBlock 5 w:52 h:3>
-The power of the 'Ethos'
+The power of the Church
 still exists as strong
 as ever in Kislev...<New>
 But many ordinary citizens
 died trying to oppose the
-influence of the 'Ethos'.<Close><End of Block>
+influence of the Church
+of the Ethos.<Close><End of Block>
 <TextBlock 6 w:44 h:2>
 A peace treaty has
 been signed with Av.<New>
@@ -44,7 +45,7 @@ the world.<New>
 Imagine how happy he'd be
 if his family returned...<Close><End of Block>
 <TextBlock 10 w:54 h:3>
-The 'Ethos' has been using
+The Church has been using
 a human rights movement to
 usurp political power.<New>
 In a recent parade, there
