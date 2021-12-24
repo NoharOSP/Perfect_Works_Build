@@ -230,7 +230,7 @@ complete.<Close><End of Block>
 <TextBlock 43 w:48 h:4>
 W, what's happening?<Delay 15>
 Those men in black are
-killing the 'Ethos'
+killing the Church
 people indiscriminately!<Close><End of Block>
 <TextBlock 44 w:52 h:2>
 You seem to be better.
