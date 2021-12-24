@@ -1,7 +1,7 @@
 <TextBlock 1 w:50 h:3>
 Citan
 "The main Solaris army...<Delay 32>
-why...all this...<New>
+Why... here in particular...?<New>
 Well let us get down."<Close><End of Block>
 <TextBlock 2 w:50 h:3>
 Elly
@@ -34,6 +34,6 @@ left on the ground?"<Close><End of Block>
 I said you can't go in.<Close><End of Block>
 <TextBlock 8 w:46 h:2>
 No entry.
-'Ethos' personnel only.<Close><End of Block>
+Church personnel only.<Close><End of Block>
 <TextBlock 9 w:46 h:1>
 I said you can't go in.<Close><Close><End of Block>
