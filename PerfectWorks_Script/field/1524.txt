@@ -20,7 +20,7 @@ Rico
 it was."<Close><End of Block>
 <TextBlock 5 w:48 h:3>
 Billy
-"The 'Ethos'...
+"The Church...
 supervised...?<New>
 The land dwellers...like
 domestic animals...?<Delay 30>
@@ -29,7 +29,7 @@ Then I was..."<Close><End of Block>
 The Limiter restrains the
 Lambs' abilities. But there
 may be a way to remove it.<New>
-Taura Melchior, he used
+Torah Melchior, he used
 to be one of the three 
 sages of Shevat.<New>
 He must know a way to
@@ -67,7 +67,7 @@ combat data.<New>
 Lambs are mere livestock
 to be raised for Solaris'
 purposes.<Delay 20>
-The 'Ethos' was
+The Church was
 established mainly to
 control the Lambs.<Close><End of Block>
 <TextBlock 9 w:54 h:5>
@@ -78,7 +78,7 @@ restrictions.<New>
 Creating appropriate
 organisms that can align
 themselves with the
-'Anima Relics' is one of
+Anima Vessels is one of
 their important objectives.<New>
 In any case, the Lambs will
 continue to be Solaris'
