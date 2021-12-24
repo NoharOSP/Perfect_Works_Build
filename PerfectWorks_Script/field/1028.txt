@@ -267,14 +267,15 @@ Kaiser Sigmund rules over
 the whole Kislev Empire.<Close><End of Block>
 <TextBlock 46 w:56 h:5>
 There's a rumor that, behind
-the scenes, the 'Ethos' is
+the scenes, the Church is
 actually involved with the
-'B-Info. Center'.<New>
-Officially the 'Battling
-Committee' is run by the
-Imperial capital, but it
-too is rumored to be an 
-agent of the 'Ethos'.<Close><End of Block>
+B-Info. Center.<New>
+Officially the Battling
+Committee is run by the
+Imperial capital,<New> 
+but it too is rumored 
+to be an agent of the 
+Church of the Ethos.<Close><End of Block>
 <TextBlock 47 w:58 h:1>
 Of course this is all gossip!<Close><End of Block>
 <TextBlock 48 w:54 h:3>
