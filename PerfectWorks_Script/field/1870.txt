@@ -86,7 +86,7 @@ human beings!"<Close><End of Block>
 Dominia
 "I see you've gained a new
 Gear that has been aligned
-with an Anima Relic."<Close><End of Block>
+with an Anima Vessel."<Close><End of Block>
 <TextBlock 15 w:54 h:4>
 Dominia
 "What the Gazel do or what-
@@ -134,7 +134,7 @@ Dominia
 "Come!
 Follow me!"<Close><End of Block>
 <TextBlock 22 w:52 h:4>
-Kelvena
+Cherubina
 "You know that we should
 have been the ones to have
 it...<New>
@@ -143,12 +143,12 @@ order for Commander Ramsus
 to realize his long-
 cherished desires."<Close><End of Block>
 <TextBlock 23 w:50 h:4>
-Kelvena
+Cherubina
 "How commendable.
 But...<Delay 20>is that really
 what's best for mankind?"<Close><End of Block>
 <TextBlock 24 w:54 h:4>
-Kelvena
+Cherubina
 "People must be able to
 stand on their own in any
 circumstances they are in.<New>
@@ -174,7 +174,7 @@ Seraphita
 "You're so ni<~>ce
 and ki<~>nd!"<Close><End of Block>
 <TextBlock 27 w:54 h:4>
-Tolone
+Throne
 "Yes, for the building of
 our ideal country, we can't
 allow you to take it."<Close><End of Block>
