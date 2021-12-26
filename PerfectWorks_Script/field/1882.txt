@@ -6,10 +6,10 @@ Elly
 "This is..."<Close><End of Block>
 <TextBlock 3 w:40 h:2>
 Billy
-"The Anima Relic..."<Close><End of Block>
+"The Anima Vessel..."<Close><End of Block>
 <TextBlock 4 w:40 h:2>
 Billy
-"The Anima Relic..."<Close><End of Block>
+"The Anima Vessel..."<Close><End of Block>
 <TextBlock 5 w:40 h:3>
 Billy
 "Who is it?
