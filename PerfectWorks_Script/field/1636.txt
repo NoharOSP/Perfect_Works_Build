@@ -16,7 +16,7 @@ Ramsus
 "AaaaAAAAH!!"<Close><End of Block>
 <TextBlock 4 w:36 h:4>
 Krelian
-"Of course.<Delay 32>
+"Of course.<Delay 32><New>
 That is the way I
 created him, 
 after all"<Close><End of Block>
@@ -24,14 +24,14 @@ after all"<Close><End of Block>
 Krelian
 "Surely not.<New>
 Those old men
-who so cling to their lives
+who so cling to their lives<New>
 as to willingly be reduced
 to data in the SOL-9000
 matter nothing to me.<Delay 5>...<Delay 5><New>
 You will become an 
 obstruction to the 
 realization of 
-my goal.
+my goal.<New>
 Nothing more.<Delay 5>..."<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Krelian
@@ -49,7 +49,7 @@ Citan
 "What will happen?"<Close><End of Block>
 <TextBlock 9 w:38 h:4>
 Citan
-"Yes.<Delay 10>
+"Yes.<Delay 10><New>
 Twice<Delay 5>...<Delay 5>or<Delay 5>...<Delay 12>more
 accurately 
 three times."<Close><End of Block>
@@ -73,9 +73,10 @@ hasty to dispose
 of him now.<New>
 I do not believe it 
 is so late that we 
-cannot wait until 
-his purpose 
-becomes clear."<Close><End of Block>
+cannot wait<New> 
+until his 
+purpose becomes 
+clear."<Close><End of Block>
 <TextBlock 14 w:38 h:3>
 Citan
 "As you command.<New>
@@ -110,7 +111,7 @@ says, if Fei..."<Close><End of Block>
 Emperor
 "Yes, the gospel.<New>
 <Delay 64>Banished from paradise 
-together with god's slumber, 
+together with god's slumber,<New>
 we humans had to live as 
 foreigners on the harsh 
 surface of the earth.<New>
@@ -160,8 +161,8 @@ likely."<Close><End of Block>
 <TextBlock 28 w:32 h:4>
 Emperor
 "If that is your
-judgment, so 
-shall it be 
+judgment,<New> 
+so shall it be 
 done"<Close><End of Block>
 <TextBlock 29 w:36 h:2>
 Emperor
@@ -217,7 +218,7 @@ with them!?"<Close><End of Block>
 <TextBlock 40 w:52 h:4>
 Emperor Cain
 "Were you not working for
-the people's future...
+the people's future...<New>
 for the continuation of 
 humanity?<New>
 That is why
