@@ -10,7 +10,7 @@
 <Opcode 14 1>It was a scene...<Delay 10>
     from hell!<Delay 100><Close><End of Block>
 <TextBlock 6 w:50 h:4>
-<Opcode 14 1>When father was away from
+<Opcode 14 1>When Father was away from
 home, <Delay 5>'Fei' was taken to
 a place with mysterious
 machines.<Close><End of Block>
@@ -39,7 +39,7 @@ became unbearable.<Close><End of Block>
 around 'Fei'.<New>
 These people had a high
 compatibility with the
-Anima Relics.<New>
+Anima Vessels.<New>
 This psychic contact
 with Fei was to force
 him to awaken.<Close><End of Block>
@@ -69,7 +69,7 @@ before Fei's eyes.<Close><End of Block>
 <TextBlock 16 w:44 h:4>
 <Opcode 14 1>Men,<Delay 30> women,<Delay 30>
 the old,<Delay 30> the young,<Delay 30>
-even demi-humans...<New>
+even demihumans...<New>
 Suffering, grief,
 fear, ecstasy...<Delay 10>
 A variety of emotions
