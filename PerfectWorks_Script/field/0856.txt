@@ -410,7 +410,7 @@ and daughter for me.<Close><End of Block>
 ...<Opcode 2 30><Close><End of Block>
 <TextBlock 92 w:66 h:4>
 Hey, you're not from around here.
-How do you like Bledavik?
+How do you like Breidablik?
     I like it
     Don't like it<Close><End of Block>
 <TextBlock 93 w:38 h:2>
@@ -420,7 +420,7 @@ Enjoy the festival.<Close><End of Block>
 Oh...
 That's because the war's
 put everyone on edge.<New>
-Bledavik's a really nice
+Breidablik's a really nice
 place in peace time.<Close><End of Block>
 <TextBlock 95 w:46 h:2>
 This festival is really
