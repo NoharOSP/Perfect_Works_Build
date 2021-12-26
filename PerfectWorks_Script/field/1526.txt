@@ -117,16 +117,16 @@ carbon freezing, tomorrow.<Close><End of Block>
 <TextBlock 18 w:62 h:4>
 That which the Gazel Ministry
 of Solaris desperately seeks...
-is the 12 Anima Relics created
+is the 12 Anima Vessels created
 by god's wisdom.<New>
-The merging of an Anima Relic
+The merging of an Anima Vessel
 and a Gear can produce an 
 Omnigear...<New>
 But, the subjects must be in
 suitable synchronization or
 else the transformation will
 not occur.<New>
-Some of the Anima Relics have
+Some of the Anima Vessels have
 been discovered, but there are
 still more left undiscovered,
 sleeping deep in the earth.<New>
@@ -147,11 +147,11 @@ be...!!<New>
 I implore you, land dwellers!
 We require your assistance.<New>
 Shevat must collect the
-remaining Anima Relics,
+remaining Anima Vessels,
 by any means necessary...!<Close><End of Block>
 <TextBlock 20 w:48 h:3>
 Hmhmm...<Delay 20>
-So the Anima Relics were
+So the Anima Vessels were
 created by god's wisdom.<New>
 I wonder if that is
 truly the case...<Close><End of Block>
@@ -169,6 +169,6 @@ such things...<Close><End of Block>
 Oh my, I've said chu much.<Delay 20>
 Forget what I said.<Close><End of Block>
 <TextBlock 24 w:54 h:3>
-Uh, and, yeah...the relic,
-relic...<Delay 20> I wonder where the
-little Anima Relic went...<Close><Close><End of Block>
+Uh, and, yeah...the vessel,
+vessel...<Delay 20> I wonder where the
+little Anima Vessel went...<Close><Close><End of Block>
