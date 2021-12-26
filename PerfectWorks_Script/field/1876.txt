@@ -7,7 +7,7 @@ Fei
 info. about this on the
 terminal above us..."<Close><End of Block>
 <TextBlock 3 w:30 h:2>
-Anima Relic has
+Anima Vessel has
 been released.<Close><End of Block>
 <TextBlock 4 w:30 h:1>
 Enter the code.<Close><End of Block>
@@ -39,7 +39,7 @@ Enter a different number.<Close><End of Block>
 <Opcode 1 255>That number is locked.
 Enter a different number.<Close><End of Block>
 <TextBlock 11 w:30 h:2>
-Anima Relic has
+Anima Vessel has
 been released.<Close><End of Block>
 <TextBlock 12 w:30 h:1>
 Enter the code.<Close><End of Block>
@@ -71,7 +71,7 @@ Enter a different number.<Close><End of Block>
 <Opcode 1 255>That number is locked.
 Enter a different number.<Close><End of Block>
 <TextBlock 19 w:30 h:2>
-Anima Relic has
+Anima Vessel has
 been released.<Close><End of Block>
 <TextBlock 20 w:30 h:1>
 Enter the code.<Close><End of Block>
@@ -103,7 +103,7 @@ Enter a different number.<Close><End of Block>
 <Opcode 1 255>That number is locked.
 Enter a different number.<Close><End of Block>
 <TextBlock 27 w:30 h:2>
-Anima Relic has
+Anima Vessel has
 been released.<Close><End of Block>
 <TextBlock 28 w:30 h:1>
 Enter the code.<Close><End of Block>
@@ -135,7 +135,7 @@ Enter a different number.<Close><End of Block>
 <Opcode 1 255>That number is locked.
 Enter a different number.<Close><End of Block>
 <TextBlock 35 w:30 h:2>
-Anima Relic has
+Anima Vessel has
 been released.<Close><End of Block>
 <TextBlock 36 w:52 h:3>
     <Opcode 1 255>Current Code Condition
@@ -154,22 +154,22 @@ been released.<Close><End of Block>
        1
        D<Close><End of Block>
 <TextBlock 39 w:42 h:1>
-Anima Relic Released!<Close><End of Block>
+Anima Vessel Released!<Close><End of Block>
 <TextBlock 40 w:36 h:2>
 Ride in the center
 of the lift.<Close><End of Block>
 <TextBlock 41 w:42 h:1>
-Anima Relic Released!<Close><End of Block>
+Anima Vessel Released!<Close><End of Block>
 <TextBlock 42 w:36 h:2>
 Ride in the center
 of the lift.<Close><End of Block>
 <TextBlock 43 w:42 h:1>
-Anima Relic Released!<Close><End of Block>
+Anima Vessel Released!<Close><End of Block>
 <TextBlock 44 w:36 h:2>
 Ride in the center
 of the lift.<Close><End of Block>
 <TextBlock 45 w:42 h:1>
-Anima Relic Released!<Close><End of Block>
+Anima Vessel Released!<Close><End of Block>
 <TextBlock 46 w:36 h:2>
 Ride in the center
 of the lift<Close><End of Block>
