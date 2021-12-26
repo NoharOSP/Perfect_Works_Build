@@ -55,7 +55,7 @@ east tower."<Close><End of Block>
 Ramsus
 "Myyah, could
 it possibly be
-a 'Relic'?"<Close><End of Block>
+a Vessel?"<Close><End of Block>
 <TextBlock 11 w:54 h:4>
 Myyah
 "Yes. But there is still no
