@@ -1,11 +1,11 @@
 <TextBlock 1 w:44 h:3>
 Elly
 "So there is an Anima
-Relic in these ruins."<Close><End of Block>
+Vessel in these ruins."<Close><End of Block>
 <TextBlock 2 w:44 h:3>
 Elly
 "So there is an Anima
-Relic in these ruins."<Close><End of Block>
+Vessel in these ruins."<Close><End of Block>
 <TextBlock 3 w:48 h:4>
 Rico
 "Hmph, so ancient people
