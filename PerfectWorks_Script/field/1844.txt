@@ -288,7 +288,7 @@ others go!"<Close><End of Block>
 <TextBlock 38 w:44 h:4>
 Krelian
 "How gallant you are,<Delay 5>
-Elhaym.<New>
+Elehayym.<New>
 It's as if<Delay 5> 'that scene
 from the past has been
 brought back to life
@@ -308,7 +308,7 @@ receive<Delay 5>...<Delay 5>on one condition.<New>
 ...<Delay 5>That you first defeat
 these two men here with
 that Gear you came in<Delay 5>...<Delay 15>
-How about it,<Delay 15> Elhaym?"<Close><End of Block>
+How about it,<Delay 15> Elehayym?"<Close><End of Block>
 <TextBlock 40 w:42 h:4>
 Fei
 "Forget it, Elly!<Delay 15>
@@ -337,7 +337,7 @@ Krelian
 "My my<Delay 5>...<Delay 5>
 Such harsh criticism.
 I am not that brutal.<New>
-So,<Delay 5> what will it be Elhaym?<Delay 15>
+So,<Delay 5> what will it be Elehayym?<Delay 15>
 Even if you were to try to
 flee now, it is not likely
 you would be able to<Delay 5>...<New>
@@ -375,7 +375,7 @@ Or just merely<Delay 5>...<Delay 5>
 'protecting her master'<Delay 5>...?<New>
 Either way, it does not
 alter the fact that she is
-the -Mother- existence that
+the Mother existence that
 I have been searching for!"<Close><End of Block>
 <TextBlock 49 w:44 h:4>
 Krelian
@@ -415,7 +415,7 @@ his promise<Delay 5>...<Delay 15>
 No, that can't be it<Delay 5>...<Delay 60>
  
 There had to be another<Delay 5>
-'real'<Delay 5> reason why he
+real<Delay 5> reason why he
 allowed us to live<Delay 5>...<Close><End of Block>
 <TextBlock 54 w:60 h:1>
 And we had to find that out<Delay 5>...<Close><End of Block>
