@@ -15,7 +15,7 @@ here!<Close><End of Block>
 Elly
 "I'm an Imperial Special
 Forces lieutenant,<Delay 10>
-Elhaym Van Houten.<New>
+Elehayym Van Houten.<New>
 I have just completed
 the collection of the
 special levy of the 3rd
@@ -25,7 +25,7 @@ of taking this surface
 dweller back to HQ.<Delay 10>
 Any problems with that?"<Close><End of Block>
 <TextBlock 6 w:26 h:1>
-(G, Gebler!?)<Close><End of Block>
+(G, Geburah!?)<Close><End of Block>
 <TextBlock 7 w:42 h:2>
 N,<Delay 5> no,<Delay 5> no problems...<Delay 10>
 Please, go on.<Close><End of Block>
@@ -54,7 +54,7 @@ Working hard?<Close><End of Block>
 You've got a lot of guts
 going into an area full
 of those barbarians...<Delay 10> <New>
-Only a Gebler could 
+Only a Geburah could 
 do that.<Close><End of Block>
 <TextBlock 18 w:46 h:3>
 Yes, yes...<Delay 10> Oh, there's
@@ -81,7 +81,7 @@ I'm relieved.<Close><End of Block>
 Working hard?<Close><End of Block>
 <TextBlock 25 w:54 h:4>
 The one behind you 
-is the Gebler?<Delay 10> 
+is the Geburah?<Delay 10> 
 I heard the Lambs destroyed
 the gate...<New>
 Is everything okay?
