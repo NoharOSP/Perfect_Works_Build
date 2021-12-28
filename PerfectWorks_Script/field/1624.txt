@@ -184,12 +184,12 @@ during the Dedication.<Close><End of Block>
 <TextBlock 33 w:26 h:1>
 Danger ahead.<Close><End of Block>
 <TextBlock 34 w:48 h:4>
-Are you Etrenstrolling?<Delay 10> 
-What?<Delay 10> Etrenstrolling
+Are you Etestrolling?<Delay 10> 
+What?<Delay 10> Etestrolling
 is walking along the 
-Etrenank. <New>
+Etemenanki. <New>
 You need to download the
-Etren Guide to do it.<New>
+Etem Guide to do it.<New>
 Central Control always
 has fun things.<Delay 10>
 It's their job to keep 
@@ -205,7 +205,7 @@ the citizens happy.<Close><End of Block>
 <TextBlock 37 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
 <TextBlock 38 w:49 h:3>
-Etren News Flash.   
+Etem News Flash.   
 <]><Delay 5><]><Delay 5><]><Delay 5>The Dedication will 
 start shortly.<Close><End of Block>
 <TextBlock 39 w:50 h:3>
