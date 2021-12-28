@@ -260,7 +260,7 @@ ones.<New>
 The place will be 
 southwest of here,
 on top of 
-'Golgoda Hill'."<Close><End of Block>
+'Golgotha Hill'."<Close><End of Block>
 <TextBlock 33 w:48 h:2>
 Krelian
 "Bind the broken Gears!"<Close><End of Block>
