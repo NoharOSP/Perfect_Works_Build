@@ -63,11 +63,11 @@ trying to show off...?"<Close><End of Block>
 Dominia
 "Hmph..."<Close><End of Block>
 <TextBlock 11 w:40 h:3>
-Kelvena
+Cherubina
 "Let us merge and
 combine our forces!"<Close><End of Block>
 <TextBlock 12 w:42 h:4>
-Kelvena
+Cherubina
 "Well<Delay 5>...<Delay 10>it looks like
 they sure showed us a
 thing or two!"<Close><End of Block>
