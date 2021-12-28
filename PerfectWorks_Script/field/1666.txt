@@ -45,7 +45,7 @@ so I gotta buy it!"<Close><End of Block>
 Wow, you got me that
 Battling Alloy!! <Delay 10>
 When I grow up I'm gonna
-join Gebler too!<Close><End of Block>
+join Geburah too!<Close><End of Block>
 <TextBlock 15 w:42 h:2>
 Yay, with this I can 
 mash the Lambs!!<Close><End of Block>
@@ -54,13 +54,13 @@ My son bugged me so
 much I just had to get
 him a Hybrid Alloy.<New>
 I'll be so proud if joins
-Gebler when he grows up.<Close><End of Block>
+Geburah when he grows up.<Close><End of Block>
 <TextBlock 17 w:50 h:3>
 My son bugged me so 
 much I just had to get
 him a Hybrid Alloy.<New>
 I'll be so proud if joins
-Gebler when he grows up.<Close><End of Block>
+Geburah when he grows up.<Close><End of Block>
 <TextBlock 18 w:48 h:4>
 Hmm, what should I do...<Delay 10>
 What do you think?
