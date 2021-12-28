@@ -324,7 +324,7 @@ Elly
 "Fei, I'm sorry..."<Close><End of Block>
 <TextBlock 75 w:52 h:4>
 Citan
-"Kahr<Delay 5>...<Delay 10>
+"Carl<Delay 5>...<Delay 10>
 Please listen to me!<New>
 Right now, we must forget
 about being friend or foe.
@@ -374,7 +374,7 @@ They know because they
 want to be loved.<Delay 10>
 That is why they won't
 leave you.<New>
-Kahr<Delay 5>...<Delay 10>
+Carl<Delay 5>...<Delay 10>
 Do not make them into the
 trash or rejects that you
 speak of.<Close><End of Block>
