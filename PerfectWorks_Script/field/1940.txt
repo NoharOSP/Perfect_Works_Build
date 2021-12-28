@@ -1,5 +1,5 @@
 <TextBlock 1 w:16 h:1>
-Elhaym!!<Opcode 2 45><Close><End of Block>
+Elehayym!!<Opcode 2 45><Close><End of Block>
 <TextBlock 2 w:16 h:2>
 Abel<Delay 10>...!<Delay 30>
 Live<Delay 10>...!<Delay 100><Delay 100><Close><End of Block>
