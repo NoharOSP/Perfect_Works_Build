@@ -47,7 +47,7 @@ You don't look like one
 of Ramsus' lackeys."<Close><End of Block>
 <TextBlock 10 w:54 h:4>
 <Chu-Chu>
-"You're Gebler, aren't chu?<Delay 10>
+"You're Geburah, aren't chu?<Delay 10>
 Where's the usual cute
 one?"<Close><End of Block>
 <TextBlock 11 w:50 h:3>
