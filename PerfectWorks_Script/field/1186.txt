@@ -1136,7 +1136,7 @@ We might have...
 Oh no, Elly...!"<Close><End of Block>
 <TextBlock 186 w:38 h:3>
 Fei
-"Oh...<Delay 10>oh my gosh...<Delay 10>
+"Oh...<Delay 10>oh my god...<Delay 10>
 Elly...!!"<Close><End of Block>
 <TextBlock 187 w:28 h:3>
 Billy
