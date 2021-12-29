@@ -2,7 +2,7 @@
 To the next scene<Close><End of Block>
 <TextBlock 2 w:62 h:4>
 When Fei and the others arrived
-at the deepest part of Mahanon,<Delay 30>
+at the deepest part of Machanon,<Delay 30>
 I was looking after the newly
 mutating people in Nisan<Delay 5>...<Close><End of Block>
 <TextBlock 3 w:40 h:2>
