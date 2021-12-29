@@ -104,7 +104,7 @@ beyond that!?"<Close><End of Block>
 <TextBlock 21 w:54 h:3>
 Fei
 "The paradise in the 
-heavens, Machanon?<Delay 30>
+heavens, Machanon?<Delay 30><New>
 The one said to have 
 fallen to earth......"<Close><End of Block>
 <TextBlock 22 w:40 h:2>
@@ -269,13 +269,13 @@ Burn with god's fire...<Close><End of Block>
 <TextBlock 50 w:40 h:4>
 Elder
 "This is one of 
-the Solaris Guardian 
-Angels, Hyuga 
-Rikudou.<Close><End of Block>
+the Solaris Guardian
+Angels,<New> 
+Hyuga Rikudou.<Close><End of Block>
 <TextBlock 51 w:50 h:4>
 Elder
 "Under the orders of 
-Cain...<Delay 30>
+Cain...<Delay 30><New>
 he whom you call the 
 Emperor,<New>
 this man proceeded 
@@ -341,9 +341,10 @@ observe you......"<Close><End of Block>
 <TextBlock 62 w:54 h:4>
 Elder
 "We planned the selection 
-of those "Animus" and the 
-elimination of you who 
-would become our enemy.<New>
+of those "Animus"<New> 
+and the elimination of 
+you who would become our 
+enemy.<New>
 We then sent Hyuga to you."<Close><End of Block>
 <TextBlock 63 w:54 h:3>
 Elder
@@ -365,7 +366,8 @@ of god."<Close><End of Block>
 <TextBlock 66 w:52 h:4>
 Elder
 "When our people fill the 
-earth, god will awaken 
+earth,<New>
+god will awaken 
 from his long 
 slumber......<New>
 At that time, Machanon 
@@ -397,7 +399,7 @@ Elder
 "The construction of
 our ark...<New>
 And the creation 
-of the Malahk...... 
+of the Malahk......<New> 
 a divine army to 
 reign over the 
 universe.<New>
@@ -421,7 +423,7 @@ the distant past. We are
 alien beings."<Close><End of Block>
 <TextBlock 72 w:54 h:4>
 Elder
-"It is not a lie. 
+"It is not a lie.<New> 
 You yourself have seen 
 the whole of the surface, 
 correct?<New>
@@ -475,7 +477,8 @@ revive god."<Close><End of Block>
 <TextBlock 80 w:44 h:4>
 Elder
 "An eternity has 
-passed since our 
+passed<New> 
+since our 
 banishment from 
 paradise.<New>
 Should the revival of 
@@ -490,7 +493,7 @@ But......"<Close><End of Block>
 Elder
 "As we now have "Animus" 
 our revival is 
-assured......<Delay 30>
+assured......<Delay 30><New>
 Next is god's revival, 
 then......"<Close><End of Block>
 <TextBlock 82 w:22 h:2>
