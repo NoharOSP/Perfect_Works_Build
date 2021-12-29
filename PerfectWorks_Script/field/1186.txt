@@ -1150,7 +1150,7 @@ to happen!?"<Close><End of Block>
 <TextBlock 189 w:52 h:4>
 Citan
 "Something is happening in
-the center of Merkava...<Delay 10>
+the center of Merkabah...<Delay 10>
 What could it be...!?"<Close><End of Block>
 <TextBlock 190 w:46 h:4>
 Billy
