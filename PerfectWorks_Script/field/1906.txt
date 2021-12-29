@@ -9,8 +9,9 @@ What are you doing in
 that outfit?"<Close><End of Block>
 <TextBlock 3 w:32 h:3>
 Fei
-"What are you 
-saying, Hammer?"<Close><End of Block>
+"What insanity 
+are you talking
+about, Hammer?"<Close><End of Block>
 <TextBlock 4 w:27 h:2>
 Fei
 "Hamme<~>r...!"<Close><End of Block>
@@ -31,7 +32,8 @@ Rico
 "Hammer...!"<Close><End of Block>
 <TextBlock 10 w:22 h:2>
 Rico
-"You knew?"<Close><End of Block>
+"How do you 
+know all this!?"<Close><End of Block>
 <TextBlock 11 w:26 h:2>
 Hammer
 "Hey, bro..."<Close><End of Block>
@@ -82,15 +84,39 @@ enough to beat you too!"<Close><End of Block>
 Hammer
 "Champ...
 Promise me you'll go back
-to Nortune one day...<New>
+to Noatun one day...<New>
 You are...
 the next in line...
-to be the Kaiser..."<Close><End of Block>
+to be the Kaiser...<New>
+The Scanner for the 
+Kaiser's... r-room... 
+The son of the Kaiser 
+suddenly dying along...<New> 
+with the Kaiser's... wife 
+around when you were born... 
+Don't you remember anything 
+bro?<New> 
+The Church... they... in a 
+fit of vengeance against 
+the Kaiser pushing them out 
+of power...<New> 
+Raised racial tensions with 
+the demihumans... They 
+altered your genes...<New> 
+Made your demihuman genes 
+more dominant... And kicked 
+you out of the central 
+district when the Kaiser 
+was off at the frontlines...<New> 
+Lied to the Kaiser... 
+Said you died... "<Close><End of Block>
 <TextBlock 19 w:44 h:4>
 Hammer
 "Don't underestimate
 the power of my
 information network<Delay 5>...<New>
+I got... the best 
+source in the world...<New>
 But<Delay 5>...<Delay 5>
 it's no use now<Delay 5>...<Delay 5>
 I<Delay 5>...<New>
