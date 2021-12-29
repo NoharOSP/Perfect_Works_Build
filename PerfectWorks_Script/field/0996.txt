@@ -293,7 +293,7 @@ please do take care!"<Close><End of Block>
 Imperial City Guard
 "<Delay 5>...?<Delay 15> I guess I'm 
 imagining things<Delay 5>...<New>
-Anyway, welcome to Nortune,
+Anyway, welcome to Noatun,
 the Kislev Imperial capital.
 Greetings and salutations!<Close><End of Block>
 <TextBlock 58 w:46 h:2>
@@ -301,7 +301,7 @@ Imperial City Guard
 "Oh, our reputation<Delay 5>..."<Opcode 2 45><Close><End of Block>
 <TextBlock 59 w:46 h:4>
 Imperial City Guard
-"Nortune, our Empire's
+"Noatun, our Empire's
 capital, is a powerful
 military state.<New>
 Breidablik, the capital
