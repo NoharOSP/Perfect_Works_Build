@@ -108,7 +108,7 @@ defeat me."<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Nikola
 "Fire!!<Delay 10> It doesn't
-matter...<Delay 10> I,<Delay 5> Nikolai,<Delay 5>
+matter...<Delay 10> I,<Delay 5> Nikola,<Delay 5>
 no longer exist...<New>
 Before I was brain-
 washed by Solaris, I
