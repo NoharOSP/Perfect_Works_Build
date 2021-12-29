@@ -33,7 +33,7 @@ pursued, but relax!
 Here in D-Block nobody
 turns on the Champ.<New>
 'mongst the inmates of
-Nortune's D-Block, the
+Noatun's D-Block, the
 Battling Champion is 
 THE absolute sovereign.<New>
 If any of the Imperial
@@ -106,7 +106,7 @@ wasn't downstairs was she?<Close><End of Block>
 <TextBlock 17 w:54 h:4>
 A-Block's the civilian area
 of the Imperial capital
-Nortune. That's quite a 
+Noatun. That's quite a 
 step up for one so young!<New>
 As a replacement, it looks
 like we will be getting a
@@ -245,7 +245,7 @@ What, you want the run-down?
 <Delay 5>...<Delay 5>Well aren't you studious?<Delay 15>
 Here goes the long version!<Close><End of Block>
 <TextBlock 44 w:56 h:5>
-Nortune, the capital of the
+Noatun, the capital of the
 Kislev Empire, is made up of
 five blocks.<Delay 15>
 D Block is just one of them.
