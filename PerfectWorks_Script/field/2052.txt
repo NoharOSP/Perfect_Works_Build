@@ -13,7 +13,7 @@ stay<Close><End of Block>
     iwa
     zombi
     ninboku
-    mahanon
+    machanon
     last<Close><End of Block>
 <TextBlock 6 w:24 h:6>
     <Opcode 1 255>blg
