@@ -131,7 +131,7 @@ the blood from<Delay 5>...<Delay 5><Close><End of Block>
 If the enemy capital is called
 the 'Desert Fortress'...<Delay 15>
 then our Imperial capital,
-Nortune, would be the
+Noatun, would be the
 'Fortress of Steam and Steel'.<Close><End of Block>
 <TextBlock 29 w:40 h:2>
 That sounds<Delay 5>...<Delay 5>pretty
