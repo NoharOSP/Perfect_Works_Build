@@ -18,7 +18,7 @@ the outside?<Delay 20> Maria isn't
 with you?<Close><End of Block>
 <TextBlock 5 w:52 h:3>
 It's truly unfortunate
-about Professor Nikolai...<New>
+about Professor Nikola...<New>
 But thanks to you all, we
 were able to repel the
 enemy.<New>
@@ -114,7 +114,7 @@ captured by Solaris...<Close><End of Block>
 <TextBlock 15 w:50 h:3>
 Who would've ever thought
 that would happen to
-Professor Nikolai...<New>
+Professor Nikola...<New>
 What are we to say to
 Maria?<Close><End of Block>
 <TextBlock 16 w:54 h:4>
