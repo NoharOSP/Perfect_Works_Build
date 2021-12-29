@@ -61,7 +61,7 @@ with prisoner class people.<Close><End of Block>
 Aah<Delay 5>...<Delay 5>too bad!<Close><End of Block>
 <TextBlock 12 w:58 h:3>
 'Battling' - that's what
-Nortune is famous for!<Delay 15> Need
+Noatun is famous for!<Delay 15> Need
 parts to customize your Gear?<New>
 The best Gear parts are
 found here at the Imperial
