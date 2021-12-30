@@ -346,7 +346,7 @@ Why can't I move!?"<Close><End of Block>
 Margie
 "Elly!"<Close><End of Block>
 <TextBlock 36 w:32 h:2>
-Renk
+Rank
 "Are you okay!?"<Close><End of Block>
 <TextBlock 37 w:42 h:3>
 Ramsus
