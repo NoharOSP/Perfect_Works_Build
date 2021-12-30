@@ -258,11 +258,11 @@ Unless stated otherwise, the stat changed is HP.
 
 ### Boss stats:
 
-- Swordknight: Atk 90 < 80 Def 40 < 30 
-- Aegisknight: Atk 80 < 70 Def 60 < 50 
-- Wandknight: Atk 90 < 80 Def 40 < 30
-- Clawknight: Atk 80 < 70 Def 40 < 30
-- Schpariel: Atk 90 < 80 Def 40 < 30
+- Swordknight: Atk 100 > 90 Def 40 < 30 
+- Aegisknight: Atk 90 > 80 Def 60 < 50 
+- Wandknight: Atk 100 > 90 Def 40 < 30
+- Clawknight: Atk 90 > 80 Def 40 < 30
+- Schpariel: Atk 100 > 90 Def 40 < 30 Hit 80 > 20
 - Wiseman: XP 1 < 4000
 - Hecht: 7500 < 9500 Atk 200 < 250 Def 70 < 100 Ether 25 < 50
 - Fis.6 HP 6800 < 17000 Atk 204 < 250 Def 80 < 100 EthDef 80 < 90
