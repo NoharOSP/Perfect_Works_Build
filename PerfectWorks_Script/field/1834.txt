@@ -75,7 +75,7 @@ Fei
 Elly
 "Fei..."<Close><End of Block>
 <TextBlock 19 w:44 h:3>
-Taura
+Torah
 "Hey, it's almost time
 for you to come back.<New>
 There's something
@@ -226,6 +226,6 @@ You just watch."<Close><End of Block>
 <TextBlock 48 w:52 h:3>
 Elly
 "Fei, where are you going?
-Taura is calling you!"<Close><End of Block>
+Torah is calling you!"<Close><End of Block>
 <TextBlock 49 w:0 h:1>
 <Close><End of Block>
