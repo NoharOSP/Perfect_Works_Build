@@ -4,14 +4,14 @@
 Citan
 "Fei, it is alright."<Close><End of Block>
 <TextBlock 3 w:50 h:4>
-Taura
+Torah
 "The fate of the world is
 in your hands.<Delay 10>
 We're counting on you...!<New>
 In the mean time, I will
 just watch from here..."<Close><End of Block>
 <TextBlock 4 w:54 h:4>
-Taura
+Torah
 "Thanks for visiting.<Delay 10>
 You're looking mighty
 healthy.<New>
@@ -24,9 +24,9 @@ ready to meet my maker,
 huh...<Delay 5>
 Ho, hoh, hoh!"<Close><End of Block>
 <TextBlock 5 w:24 h:1>
-Oh, Taura...<Close><End of Block>
+Oh, Torah...<Close><End of Block>
 <TextBlock 6 w:52 h:4>
-Taura
+Torah
 "Don't worry, I'll stop my
 moaning. Besides, I have a
 nice present for you."<Close><End of Block>
@@ -39,7 +39,7 @@ nice present for you."<Close><End of Block>
  <Opcode 1 255>Received Goddess Robe!!<Opcode 2 60>
  <Close><End of Block>
 <TextBlock 9 w:38 h:3>
-Taura
+Torah
 "Was that a visitor
 I heard?"<Close><End of Block>
 <TextBlock 10 w:36 h:3>
@@ -71,16 +71,16 @@ Mysterious old man
 Mysterious old man
 "I forgot my name...<Delay 10>
 Some people call me
-Taura..."<Close><End of Block>
+Torah..."<Close><End of Block>
 <TextBlock 19 w:54 h:3>
-Taura
+Torah
 "You seemed to have
 recovered completely.<Delay 10><New>
 Those were terrible wounds,
 but maybe your youth and
 strength helped..."<Close><End of Block>
 <TextBlock 20 w:50 h:4>
-Taura
+Torah
 "But your friend's wounds
 are more serious and may
 take a while longer..."<Close><End of Block>
@@ -93,7 +93,7 @@ Elly!!<Opcode 2 20><Close><End of Block>
 Fei
 "Elly..."<Close><End of Block>
 <TextBlock 24 w:50 h:4>
-Taura
+Torah
 "Hey!
 Quit staring at the naked
 girl and come over here!"<Close><End of Block>
@@ -101,13 +101,13 @@ girl and come over here!"<Close><End of Block>
 Fei
 "Elly...?"<Close><End of Block>
 <TextBlock 26 w:42 h:3>
-Taura
+Torah
 "How do you feel now?<New>
 The fresh forest air
 should have refreshed
 you somewhat, heh?"<Close><End of Block>
 <TextBlock 27 w:44 h:4>
-Taura
+Torah
 "Anyway...
 It's about the removal
 of the seal...<New>
@@ -116,7 +116,7 @@ released by using the
 Nanotechnology that
 regenerated you two."<Close><End of Block>
 <TextBlock 28 w:46 h:3>
-Taura
+Torah
 "The Nanoassemblers are
 enclosed in this pod."<Close><End of Block>
 <TextBlock 29 w:54 h:3>
@@ -124,7 +124,7 @@ Citan
 "If only we could scatter
 them all over the world..."<Close><End of Block>
 <TextBlock 30 w:54 h:4>
-Taura
+Torah
 "There's an ancient
 military installation
 nearby...<New>
@@ -137,7 +137,7 @@ are released up there, the
 convection currents should
 spread 'em over the world!"<Close><End of Block>
 <TextBlock 31 w:54 h:4>
-Taura
+Torah
 "I wish I could go do it...
 but I am getting much too
 old for that type of thing.<New>
@@ -146,10 +146,10 @@ future.<Delay 10> An old man should
 not butt in. You young ones
 must do it for yourselves!"<Close><End of Block>
 <TextBlock 32 w:14 h:2>
-Taura
+Torah
 "Here."<Close><End of Block>
 <TextBlock 33 w:38 h:4>
-Taura
+Torah
 "And, of course,
 I'm not asking you
 to do it for free.<New>
@@ -161,7 +161,7 @@ on."<Close><End of Block>
 Citan
 "What is that?"<Close><End of Block>
 <TextBlock 36 w:54 h:4>
-Taura
+Torah
 "This is an 'Emotion
 Control Device' in which
 nanotechnology is applied.<New>
@@ -176,7 +176,7 @@ control emotions."<Close><End of Block>
 <TextBlock 37 w:4 h:1>
 ?<Delay 5>?<Opcode 2 15><Close><End of Block>
 <TextBlock 38 w:50 h:4>
-Taura
+Torah
 "Well, I suppose it's
 rather difficult for
 you to understand...<New>
@@ -191,7 +191,7 @@ Fei
 Elly
 "Fei..."<Close><End of Block>
 <TextBlock 41 w:54 h:4>
-Taura
+Torah
 "Well, it's all theoretical
 though...<Delay 10> Oh, and I did one
 more thing as well...!<New>
@@ -203,12 +203,16 @@ Citan
 "You mean, it can
 release Id at will...?"<Close><End of Block>
 <TextBlock 43 w:48 h:4>
-Taura
+Torah
 "Yes.<Delay 10>
 I called it 'System Id'.<New>
-But of course it should
-not be over-used.<Delay 10>
-Use it only as a last
+But of course, such an
+extreme manipulation of
+your psyche will take a
+toll on you<New>
+and tire you out quickly.<Delay 10>
+It may be safest to use 
+it only as a last
 resort."<Close><End of Block>
 <TextBlock 44 w:22 h:3>
 Fei
@@ -219,28 +223,28 @@ Citan
 "Fei,<Delay 10> there was nothing
 you could do...<New>
 It will never happen again
-with Taura's technology
+with Torah's technology
 though. He is one of the
 three Shevat sages."<Close><End of Block>
 <TextBlock 46 w:48 h:3>
-Taura
+Torah
 "Whether you believe it
 or not, it's up to you."<Close><End of Block>
 <TextBlock 47 w:10 h:2>
 Fei
 "..."<Close><End of Block>
 <TextBlock 48 w:34 h:4>
-Taura
+Torah
 "Oh?<Delay 10>
 It sounds like
 we have a guest!"<Close><End of Block>
 <TextBlock 49 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
 <TextBlock 50 w:34 h:2>
-Taura
+Torah
 "I thought so..."<Close><End of Block>
 <TextBlock 51 w:54 h:4>
-Taura
+Torah
 "So, you were the one who
 brought Fei and his girl
 to me...<New>
@@ -253,7 +257,7 @@ image of you and<Delay 5> her.<Delay 10>
 Yes, just as you yourselves
 looked way back then<Delay 5>..."<Close><End of Block>
 <TextBlock 52 w:36 h:2>
-Taura
+Torah
 "Right, Lacan...?"<Close><End of Block>
 <TextBlock 53 w:46 h:3>
 Krelian
