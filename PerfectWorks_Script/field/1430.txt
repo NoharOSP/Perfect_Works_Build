@@ -89,8 +89,9 @@ you need to be
 more flexible."<Close><End of Block>
 <TextBlock 18 w:52 h:3>
 Cherubina
-"How long will it hold?...<Delay 40>
-I'm going!"<Close><End of Block>
+"I wonder how long
+you'll last...?<Delay 40>
+Go!"<Close><End of Block>
 <TextBlock 19 w:40 h:2>
 Cherubina
 "Let's finish this."<Close><End of Block>
