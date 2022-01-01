@@ -193,7 +193,7 @@ Sigurd
 brought into our Gear
 Shop down below.<New>
 Why don't you go and
-check them out!?"<Close><End of Block>
+check them out?"<Close><End of Block>
 <TextBlock 29 w:50 h:4>
 Sigurd
 "We have arrived at the
