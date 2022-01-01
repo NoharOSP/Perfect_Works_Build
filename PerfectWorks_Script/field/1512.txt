@@ -102,8 +102,9 @@ It's just a kid."<Close><End of Block>
 Bart
 "Tch.
 Something's not right.<New>
-This fight for independence
-from a tyrant. The battle
+This is a fight for 
+independence from a 
+tyrant. The battle
 for freedom.<New>
 I see, you make it seem
 like your intentions are
@@ -115,7 +116,8 @@ Anyway, I'm too busy with
 trying to take Av back
 from that bastard, Shakhan.<New>
 Hate to break this to you,
-but I don't have the time!"<Close><End of Block>
+but I don't have the time
+to fight your wars for you!"<Close><End of Block>
 <TextBlock 21 w:14 h:2>
 Bart
 "Uh..."<Close><End of Block>
