@@ -88,9 +88,9 @@ stupid plan."<Close><End of Block>
 Throne
 "Keep talking while you
 can.<New>
-Dominia and Cherubina should
-have taken over Babel Tower
-by now.<New>
+Dominia and Cherubina 
+should have taken over 
+Babel Tower by now.<New>
 You get outta here now!"<Close><End of Block>
 <TextBlock 23 w:48 h:3>
 Seraphita
