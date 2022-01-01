@@ -251,7 +251,8 @@ in what type of information
 it would have to offer us?"<Close><End of Block>
 <TextBlock 30 w:54 h:4>
 Krelian
-"Elehayym, you are beautiful.<New>
+"Elehayym, you are 
+beautiful.<New>
 When I look at you, I
 appreciate the artistic
 aspect of the human form,
