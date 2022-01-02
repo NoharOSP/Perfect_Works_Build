@@ -51,7 +51,7 @@ Me, of all people!"<Close><End of Block>
 Pirate
 "Damn!
 It's all your fault!<New>
-Bo, are you going to
+Boy, are you going to
 get it later.
 So be ready!"<Close><End of Block>
 <TextBlock 8 w:34 h:4>
@@ -73,6 +73,6 @@ Fei
 "!?"<Close><End of Block>
 <TextBlock 12 w:12 h:2>
 Fei
-"...Why
-is this
-my fault?"<Close><Close><Close><UNKNOWN CHUNK 182><Wait><Close><Close>)<Close><End of Block>
+"Why is 
+this my 
+fault?"<Close><Close><Close><UNKNOWN CHUNK 182><Wait><Close><Close>)<Close><End of Block>
