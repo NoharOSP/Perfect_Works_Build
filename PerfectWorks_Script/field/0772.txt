@@ -36,7 +36,8 @@ Bart
 So that's how they
 keep at it, huh?<New>
 Crap...
-This'll never end!<Close><End of Block>
+This'll never 
+end!<Close><End of Block>
 <TextBlock 7 w:14 h:2>
 Citan
 "Fei!!"<Close><End of Block>
