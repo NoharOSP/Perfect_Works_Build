@@ -213,7 +213,7 @@ the Mass-driver.<Delay 45>
 We succeeded in launching
 the capsule containing the
 nanomachines which would
-release the seal -Limiter-.<Close><End of Block>
+release the seal Limiter.<Close><End of Block>
 <TextBlock 19 w:56 h:10>
 The nanomachines that were
 scattered into the upper
