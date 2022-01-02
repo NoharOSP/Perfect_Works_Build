@@ -48,8 +48,8 @@ persona to deal with
 things he didn't like
 or couldn't bear.<Close><End of Block>
 <TextBlock 16 w:54 h:3>
-<Opcode 14 1>He removed himself from
-out of harm's way.<New>
+<Opcode 14 1>He removed himself 
+from harm's way.<New>
 My role was to have all the
 things he hated forced upon
 me, the moment they arose.<Close><End of Block>
