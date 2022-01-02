@@ -32,5 +32,5 @@ that hurts!!"<Close><End of Block>
 <TextBlock 6 w:32 h:4>
 Breuer
 "Huh?<Delay 20>
-Geezer, what are 
-you talking about!?"<Close><Close><Close><Close><Close><UNKNOWN CHUNK 208><Close><End of Block>
+What are you
+saying, geezer!?"<Close><Close><Close><Close><Close><UNKNOWN CHUNK 208><Close><End of Block>
