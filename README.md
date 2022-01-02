@@ -46,7 +46,7 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Taura = Torah
 - Thames = Tamuz
 - Tolone = Throne
-- Urobolus = Uroborus
+- Urobolus = Ouroboros
 - Yabeh = YHWH
 - Wind Mode = Zephyr Mode.
 - Earth Mode = Seismic Mode.
