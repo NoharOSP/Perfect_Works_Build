@@ -9,8 +9,9 @@ That is why...<Delay 32>
 I will<Delay 5>...<Delay 5>
 remove<Delay 5>...<Delay 5>
 you<Delay 5>...<New>
-In order to win
-against him<Delay 5>..."<Close><End of Block>
+In order to defeat
+him once and for
+all<Delay 5>..."<Close><End of Block>
 <TextBlock 3 w:34 h:2>
 Ramsus
 "AaaaAAAAH!!"<Close><End of Block>
@@ -35,7 +36,9 @@ my goal.<New>
 Nothing more.<Delay 5>..."<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Krelian
-"Yes, that exactly<New>
+"Yes, that is
+exactly what I
+am working for.<New>
 I am leading the 
 people by 
 "my own means".
