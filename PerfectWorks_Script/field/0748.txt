@@ -161,8 +161,8 @@ They built the wall when
 Av was excavating here
 to keep the sand from
 falling in from above.<New>
-But they've stopped work
-there now."<Close><End of Block>
+But they've stopped 
+working there now."<Close><End of Block>
 <TextBlock 23 w:48 h:3>
 Fei
 "So, how do we open such
