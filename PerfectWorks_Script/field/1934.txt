@@ -5,10 +5,10 @@ Dad!
 Dad!<Close><End of Block>
 <TextBlock 2 w:32 h:3>
 Mom!<Delay 10>
-Help dad! <New>
-Hey, mom!<Delay 10>
+Help Dad! <New>
+Hey, Mom!<Delay 10>
 Why aren't you
-helping dad?<New>
+helping Dad?<New>
 Dad...<Delay 10>
 Dad's gonna die!<Close><End of Block>
 <TextBlock 3 w:38 h:3>
@@ -54,13 +54,13 @@ The body of 'Fei'.<Close><End of Block>
 Father<Delay 10>...<Delay 10>
 fought him.<New>
 But he couldn't
-protect mother or I.<New>
+protect Mother or I.<New>
 He pitifully fought
 on while coughing
 up his life blood.<Close><End of Block>
 <TextBlock 6 w:50 h:4>
 Grahf made a mockery of
-father and mother would
+Father and Mother would
 not even help him when
 he needed her the most.<New>
 As for their son...
@@ -80,15 +80,15 @@ the results of his
 actions onto me.<New>
 To avoid taking the
 responsibility for
-killing mother, he
+killing Mother, he
 used me as a shield.<Close><End of Block>
 <TextBlock 11 w:46 h:1>
-<Opcode 14 1>"I <Delay 30>also killed mother."<Close><End of Block>
+<Opcode 14 1>"I <Delay 30>also killed Mother."<Close><End of Block>
 <TextBlock 12 w:38 h:4>
 Thanks.
 Pass it back to me.
 I'm playing with
-mother.<Close><End of Block>
+Mother.<Close><End of Block>
 <TextBlock 13 w:28 h:2>
 This is not<Delay 10>...<Delay 10>
 reality!!<Close><End of Block>
