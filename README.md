@@ -18,6 +18,7 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 ### Name changes:
 
 - True Weltall = Alpha Weltall
+- Alkanshel = Arcenciel
 - Anima Relics = Vessels of Anima
 - Anonelbe = Ahnenerbe
 - Aveh = Av
