@@ -239,7 +239,7 @@ Jessie
 <TextBlock 55 w:50 h:4>
 Jessie
 "The mobile Gear of 
-Solaris was...Alkanshel, <Wait>
+Solaris was...Arcenciel, <Wait>
 wasn't it Hyuga?"<Close><End of Block>
 <TextBlock 56 w:54 h:5>
 Jessie
@@ -257,7 +257,7 @@ Jessie
 <TextBlock 58 w:40 h:3>
 Jessie
 "The Solaris mobile 
-Gear, Alkanshel."<Close><End of Block>
+Gear, Arcenciel."<Close><End of Block>
 <TextBlock 59 w:54 h:4>
 Jessie
 "It may be big but it's
