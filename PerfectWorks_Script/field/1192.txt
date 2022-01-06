@@ -391,7 +391,7 @@ Citan
 You should not be
 moving around yet!!"<Close><End of Block>
 <TextBlock 53 w:52 h:3>
-Alkanshel located straight
+Arcenciel located straight
 ahead!!<Delay 10>
 Prepare Gears for launch!!<Close><End of Block>
 <TextBlock 54 w:0 h:1>
