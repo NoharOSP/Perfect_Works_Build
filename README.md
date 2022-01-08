@@ -18,7 +18,7 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 ### Name changes:
 
 - True Weltall = Alpha Weltall
-- Alkanshel = Arcenciel
+- Alkanshel = Arc-en-Ciel
 - Anima Relics = Vessels of Anima
 - Anonelbe = Ahnenerbe
 - Aveh = Av
@@ -41,7 +41,7 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Miang = Myyah
 - Nikolai = Nikola
 - Nortune = Noatun
-- Opiomorph = Opiomorphus
+- Opiomorph = Ophiomorphous
 - Razael = Raziel
 - Renk = Rank
 - Taura = Torah
