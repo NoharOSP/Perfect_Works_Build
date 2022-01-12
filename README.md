@@ -304,6 +304,7 @@ Unless stated otherwise, the stat changed is HP.
 
 - Eyeballs, Fangs, Scales and Ivory have had their sale prices doubled. With encounters dropping, this change is done as a way to keep their value. This is particularly useful for Anima Dungeon 2 as if you’re revisiting the dungeon you’re certainly here because you need money for Big Joe's shop. 
 - Speed Star now costs 2500.
+- Samon's Hair can be bought at the Thames (first visit) for 1000.
 
 ### Field equipment changes:
 
