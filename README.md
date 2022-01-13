@@ -63,17 +63,17 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 Xenogears is frankly; terribly balanced. Not exactly its fault in particular, Squaresoft games were all infamous for this, even their well balanced games like Chrono Trigger had hiccups. Most of the cast has been rebalanced primarily around Billy and Emeralda as they’re frankly the most balanced party members in the game across gears and on-foot. BUFFS ARE THE PRIORITY! There are some necessary nerfs we begrudgingly made but we really wanted to focus on bugging the roster. the issue with the rosters balance primarily a bunch of not useful options and characters so that’s where the focus is. Characters and gears will be discussed in the same sections. 
 
 Elly:
-- Hit 7 < 10
-- Ether 15 < 20
+- Hit 7 to 10
+- Ether 15 to 20
 
 To help offset this and due to us not being a fan of strictly nerfing characters without compensations to other parts of their kit, Elly is receiving buffs for on-foot that will make her more inviting of an option. Though she is a mandatory party member fairly often this is in gear sections a majority of the time. So this will hopefully make her a bit more flexible overall. Her Rods will also have an increase to their damage overall and come with some more utility options to make her a more rounded character without removing her defining weakness of lacking on the physical front. 
 
 
 Bart:
 
-- Defense 10 < 14
-- Ether 7 < 14
-- Evade 14 < 16
+- Defense 10 to 14
+- Ether 7 to 14
+- Evade 14 to 16
 
 Bart is generally one of the weakest characters in the game due to mediocrity. For most of the game anything he can do others can do better. Without wild smile it’s arguable he’s even worse than Rico because at least stier was good, Bart’s gears tended to be outclassed. The goal was to rework bart to be much more supportive and improve his jack of all trades nature to be more useful for him. 
 
@@ -81,59 +81,59 @@ These stat changes should allow Bart to be a lot more useful overall with out ju
 
 
 Rico:
-- HP 110 < 200
-- Attack 28 < 60
-- Defense 23 < 38
-- Hit 10 < 18
-- Agility 7 < 8
+- HP 110 to 200
+- Attack 28 to 60
+- Defense 23 to 38
+- Hit 10 to 18
+- Agility 7 to 8
 
 Rico is iconically bad. His tied for lowest speed in the game. His Agility and Hit stats are obviously bad but he doesn’t have anything to compensate for this. When he joins most of his stats are worse than Fei’s. Which really undersells he’s one of the only people who beat Fei in a 1v1 fight. Combined with no utility like healing or area of effect damage and Rico is comedically undercooked. The easy solution would be just to give him high speed but that just ruins the diversity of the cast. If that’s what we changed people would still not pick Rico because he’s just a worse Citan. We decided to double down on making Rico a juggernaut. His stats and growths have been adjusted to make him an offensive behemoth so he has noticeable strengths. We also slightly raised his agility to match the boss fight and to prevent the Ganondorf conundrum of giving a character so much power and having them still not be good because they don’t get to use it. Plus this ties him with Elly’s old agility stat, instead of putting him with the characters who lack deathblows. The same goes for his Hit rate as his accuracy is actually hilariously good for his boss fight. The balance for Rico’s absurd stats is his complete lack of any utility. (No healing, cures, aoe, elemental coverage etc)
 
 
 Emeralda:
-- Agility: 14 > 12
+- Agility: 12 to 14
 
 
 Chu-Chu:
-- Ether 12 < 25
+- Ether 12 to 25
 
 
 Weltall/Weltall-2/Xenogears:
-- Ether amp 10 < 15
+- Ether amp 10 to 15
 
 
 Stier:
-- Attack modifier: 14 > 12
-- Agility 7 < 8
+- Attack modifier: 12 to 14
+- Agility 7 to 8
 
 Stier was given a point of agility to help differentiate it from Seibzehn. They have very similar builds so while Stier was unironically very good it tends to be worse than Seibzehn once the Power Magics came into play. This gives distinctions to similar characters. 
 
 
 Seibzehn:
-- Agility 6 > 8
+- Agility 8 to 6
 
 
 El-Renmazuo:
-- RENM-24800 24800 < 28000
+- RENM-24800 24800 to 28000
 
 
 El-Stier:
-- Attack modifier: 14 > 12
-- Agility 7 < 9
+- Attack modifier: 12 to 14
+- Agility 7 to 9
 
 All deathblow learning rates (sans Emeralda) have been doubled to accomodate for the lower encounter rate. Elly's has been changed to 8 from 3 so that players have more time to get her deathblows for plot related reasons.
 
 Yggdrasil IV:
-- Agility 8 < 10
+- Agility 8 to 10
 
 ### Spell changes:
 
 WARNING: For any spell effects that are inaccessible in the official game (e.g. Ether up), text displaying their effect won't display like it would for a spell such as Yin Power. However, the spell definitely works as intended, even if the description is what you have to go by.
 
 Fei:
-- Guided Shot: 40 > 20
-- Radiance: 80 > 60
-- Big Bang: 120 > 80
+- Guided Shot: 20 to 40
+- Radiance: 60 to 80
+- Big Bang: 80 to 120
 
 Fei’s generally pretty great when balanced against the cast. But against himself, his Ether attacks tends to be very overshadowed and down right wasteful to use. All options should have merit. Even if it’s situational, a situational merit is better than consistently being eclipsed by basic attacks. They’re viable with Power Magic abuse but even Steel Mettle is with that. These changes will give players better insensitive to use these moves throughout the game. It also helps Weltall a fair bit. It tends to fall off hard by disc 1’s end. Between Renmazuo, Vierge, Siebzhen, Crescens (by technicality) and the addition of Andvari to your squad Fei really struggles to carry his weight. This will let him be better at contributing. Big Bang is admittedly a very reliable spell even without its new buffs. But it’s only learned before the final dungeon typically so this will help it see a little more prominence in disc 2.
 
@@ -151,7 +151,7 @@ Defense buffs simply don’t work in gears. So their effects have been altered t
 
 
 Vierge:
-- AERODS: 40 > 50. Fuel cost: 800 > 400
+- AERODS: Power: 50 to 40. Fuel cost: 400 to 800
 
 Elly is a peculiar character; overall she’s a solid mid tier. She herself is fine and her gear isn’t too impressive. But AERODs throws all that out the window, allowing her to one shot several of the games bosses. While bosses are getting a buff, she hits 9999 way too early and easily because of Ether Doublers and Power Magics. So along with Power Magics in general being nerfed simply for being too beneficial for how easy they are to get; AERODs are also losing some points from its power output so that, while the classic boss slayer build will still be a thing, you must now commit more to it to get results. This should give bosses more of a presence in the first disc as Elly soundly obliterates the mid-game, and let other options shine for gears because AERODs becomes a crutch for many players. And given its...limited availability this isn’t exactly healthy to goad players to dump all investment into Vierge only to lose it in disc 2.
 
@@ -189,13 +189,13 @@ Rico’s spirit moves have been changed to help him out more; Steel Spirit was e
 
 Chu-Chu:
 - Forest Dance (foot): Heals all allies
-- Forest Dance (giant): 70 > 50
+- Forest Dance (giant): Power: 50 to 70
 
 Chu-Chu’s healing is the selling point of the character outside abusing Drives, but in reality its output is pitiful. Especially considering how you don’t wanna drag out gear fights and you’re sacrificing damage for survivability. Healing is now adjusted to better support your attackers and make her a real viable pick.
 
 
 Maria:
-- Graviton Gun: 15 EP > 30 EP
+- Graviton Gun: 30 EP to 15 EP
 
 On foot Maria is actually pretty good and fairly underrated on account of her low speed and no deathblows. Due to her insanely high damaging spells that run off of Seibzhen’s ether stats including Power Magics, Maria can be a fairly strong on foot character if invested in. 
 
@@ -220,85 +220,85 @@ Throughout the game encounter rates have been lowered. For many players this has
 
 Unless stated otherwise, the stat changed is HP.
 
-- Earth Seraph: 5000 < 18000
-- Fire Seraph: 3400 < 18000
-- Fire Seraph 2: 15800 < 20000
-- Heal Seraph: 2000 < 18000
-- Sword Seraph: 2500 < 18000
-- Sword Seraph 2: 3500 < 18000 
-- Water Seraph: 1800 < 18000
-- Water Seraph 2: 3400 < 18000			
-- Wind Seraph: 3500 < 18000
-- Power Seraph: 15800 < 20000
-- Assassin 1: HP 290 < 450 EDef 10 < 60 
-- Assassin 2: HP 260 < 400 EDef 20 < 70 
-- Geburah Guard: 160 < 350
-- Solaris Guard: 200 < 530 
-- Gimmick: 6 < 12 
-- Wels: 200 < 300 
-- Neo Wels: 200 < 400 
-- Dorothy: 300 < 400 
-- Tin Robo: 138 < 250 
-- Medusoid: 65 < 130
-- Medusoid 2: 400 < 800 
-- HarquebusMk10: EDef 30 < 60
-- NeoMushaMk100: EDef 40 < 80 
-- Hatamoto Mk3: EDef 40 < 80 
-- Shinobi Mk0: EDef 40 < 80 
-- Traffic Jam: 345 < 600 
-- Gun Drone: 400 < 600 
-- Dune Man: HP 200 < 1000 Atk 100 < 150 Agility 11 < 13 Hit 40 < 100 
-- Hobgob (Sewers): 90 < 200 
-- Armour Grub: 7 < 15
-- Armour Wasp: 77 < 150 
-- Abandon: 150 < 300 
-- Shellbelle: 680 < 800 					
-- Dive Bomber: 30 < 60 
-- Lucre Bug: 77 < 150 
-- Neo Gimmick: 7 < 14 
+- Earth Seraph: 5000 to 18000
+- Fire Seraph: 3400 to 18000
+- Fire Seraph 2: 15800 to 20000
+- Heal Seraph: 2000 to 18000
+- Sword Seraph: 2500 to 18000
+- Sword Seraph 2: 3500 to 18000 
+- Water Seraph: 1800 to 18000
+- Water Seraph 2: 3400 to 18000			
+- Wind Seraph: 3500 to 18000
+- Power Seraph: 15800 to 20000
+- Assassin 1: HP 290 to 450 EDef 10 to 60 
+- Assassin 2: HP 260 to 400 EDef 20 to 70 
+- Geburah Guard: 160 to 350
+- Solaris Guard: 200 to 530 
+- Gimmick: 6 to 12 
+- Wels: 200 to 300 
+- Neo Wels: 200 to 400 
+- Dorothy: 300 to 400 
+- Tin Robo: 138 to 250 
+- Medusoid: 65 to 130
+- Medusoid 2: 400 to 800 
+- HarquebusMk10: EDef 30 to 60
+- NeoMushaMk100: EDef 40 to 80 
+- Hatamoto Mk3: EDef 40 to 80 
+- Shinobi Mk0: EDef 40 to 80 
+- Traffic Jam: 345 to 600 
+- Gun Drone: 400 to 600 
+- Dune Man: HP 200 to 1000 Atk 100 to 150 Agility 11 to 13 Hit 40 to 100 
+- Hobgob (Sewers): 90 to 200 
+- Armour Grub: 7 to 15
+- Armour Wasp: 77 to 150 
+- Abandon: 150 to 300 
+- Shellbelle: 680 to 800 					
+- Dive Bomber: 30 to 60 
+- Lucre Bug: 77 to 150 
+- Neo Gimmick: 7 to 14 
 
 ### Boss stats:
 
-- Swordknight: Atk 100 > 90 Def 40 < 30 
-- Aegisknight: Atk 90 > 80 Def 60 < 50 
-- Wandknight: Atk 100 > 90 Def 40 < 30
-- Clawknight: Atk 90 > 80 Def 40 < 30
-- Schpariel: Atk 100 > 90 Def 40 < 30 Hit 80 > 20
-- Wiseman: XP 1 < 4000
-- Hecht: 7500 < 9500 Atk 200 < 250 Def 70 < 100 Ether 25 < 50
-- Fis.6 HP 6800 < 17000 Atk 204 < 250 Def 80 < 100 EthDef 80 < 90
-- Haisho (Dominia): HP 2800 < 5000 
-- Bladegash: 3000 < 10000
-- Bloody (Ethos Transport): HP 8888 Atk 75 < 100 
-- Giant Wels: HP 7000 < 14000 Atk 300 < 350
-- Throne: HP 2500 < 3000 
-- Seraphita: HP 2000 < 2500 
-- Id: 3000 < 6666
-- Wyvern: HP 5000 < 28000 Atk 330 < 400 
-- Seibzehn: HP 5500 < 18000 Atk 380 < 420 Def 300 < 250 EDef 40 < 100
-- White Knights: HP 290 < 400 
-- Achtzehn: HP 12000 < 19000 Atk 600 < 800 Def 300 < 400 Ether 20 < 35 EDef 0 < 25 
+- Swordknight: Atk 90 to 100. Def 40 to 30 
+- Aegisknight: Atk 80 to 90. Def 60 to 50 
+- Wandknight: Atk 90 to 100. Def 40 to 30
+- Clawknight: Atk 80 to 90. Def 40 to 30
+- Schpariel: Atk 90 to 100. Def 40 to 30. Hit 20 to 80
+- Wiseman: XP 1 to 4000
+- Hecht: 7500 to 9500 Atk 200 to 250 Def 70 to 100 Ether 25 to 50
+- Fis.6 HP 6800 to 17000 Atk 204 to 250 Def 80 to 100 EthDef 80 to 90
+- Haisho (Dominia): HP 2800 to 5000 
+- Bladegash: 3000 to 10000
+- Bloody (Ethos Transport): HP 8888 Atk 75 to 100 
+- Giant Wels: HP 7000 to 14000 Atk 300 to 350
+- Throne: HP 2500 to 3000 
+- Seraphita: HP 2000 to 2500 
+- Id: 3000 to 6666
+- Wyvern: HP 5000 to 28000 Atk 330 to 400 
+- Seibzehn: HP 5500 to 18000 Atk 380 to 420 Def 300 to 250 EDef 40 to 100
+- White Knights: HP 290 to400 
+- Achtzehn: HP 12000 to 19000 Atk 600 to 800 Def 300 to 400 Ether 20 to 35 EDef 0 to 25 
 - Shakhan: 18000 to 28000
-- Bladegash 2: HP 4000 < 22000 Atk 500 < 400
-- Marinebasher: HP 5000 < 15000 EDef 100 < 200
-- Skyghene: HP 5000 < 18000 Eth 50 < 75 Evade 35 < 55
-- Grandgrowl: HP 6000 < 20000 Atk 500 < 600 Eth 60 < 90 Edef 50 < 100
-- Crescens: EDef 100 < 1000
-- Grahf: HP 9666 < 6666 Atk 255 < 200 Eth 255 < 150 Agility 13 < 9
-- Vendetta: 12000 < 22000
-- Ft Hurricane HP 13000 < 50000
-- Sufal Mass: HP 4800 < 20000 EDef 50 < 100
-- Sufal: Agility 7 < 10 Eth 20 < 50 
-- Dominia: 4000 < 20000
-- Cherubina: 2500 < 15000
-- Throne: 2500 < 18000 Atk 80 < 120 Eth 40 < 80
-- Seraphita: 2500 < 17000
-- G-Elements: HP 45000 < 60000 Def 600 < 300
+- Bladegash 2: HP 4000 to 22000 Atk 500 to 400
+- Marinebasher: HP 5000 to 15000 EDef 100 to 200
+- Skyghene: HP 5000 to 18000 Eth 50 to 75 Evade 35 to 55
+- Grandgrowl: HP 6000 to 20000 Atk 500 to 600 Eth 60 to 90 Edef 50 to 100
+- Crescens: EDef 100 to 1000
+- Grahf (Solaris): Atk 180 to 200 Eth 60 to 150
+- Vendetta: 12000 to 22000
+- Ft Hurricane HP 13000 to 50000
+- Sufal Mass: HP 4800 to 20000 EDef 50 to 100
+- Sufal: Agility 7 to 10 Eth 20 to 50 
+- Dominia: 4000 to 20000
+- Cherubina: 2500 to 15000
+- Throne: 2500 to 18000 Atk 80 to 120 Eth 40 to 80
+- Seraphita: 2500 to 17000
+- G-Elements: HP 45000 to 60000 Def 600 to 300
 - Ophiomorphous: 25000 to 30000
-- Id Xenogears: HP 30400 < 60000 Atk 825 < 1000 Ether 90 < 150 
-- Alpha Weltall (Bethlehem): HP 15000 < 30000 Atk 800 Eth 150 
+- Id Xenogears: HP 30400 to 60000 Atk 825 to 1000 Ether 90 to 150 
+- Alpha Weltall (Bethlehem): HP 15000 to 30000 Atk 800 Eth 150 
 - Deus: 75000 to 150000
-- Ouroboros: HP 50000 < 75000
+- Ouroboros: HP 50000 to 75000
 
 ### Item changes:
 
@@ -309,25 +309,25 @@ Unless stated otherwise, the stat changed is HP.
 ### Field equipment changes:
 
 Elly:
-- Magical Rod: +5 > +4.
-- Arcane Rod: +7 > +6.
-- Hot Rod: +9 > +8.
-- Lunar Rod: +12 > +8.
-- Marshal Rod: +16 > 12.
-- Thunder Rod: +19 > +14.
-- Stone Rod: +19 > +14.
-- Flare Rod: +21 > +16.
-- Ice Rod: +19 > +14.
-- Queen's Rod: +24 > +18.
-- Dynamite Rod: +32 > +20.
-- Dark Rod: +34 > +22.
-- Chaos Rod: +31 > +24.
-- Psycho Rod: +36 > +28.
-- Skull Rod: +40 > +38.
+- Magical Rod: +4 to +5.
+- Arcane Rod: +6 to +7.
+- Hot Rod: +8 to +9.
+- Lunar Rod: +8 to +12.
+- Marshal Rod: +12 to +16.
+- Thunder Rod: +14 to +19.
+- Stone Rod: +14 to +19.
+- Flare Rod: +16 to +21.
+- Ice Rod: +14 to +19.
+- Queen's Rod: +18 to +24.
+- Dynamite Rod: +20 to +32.
+- Dark Rod: +22 to +34.
+- Chaos Rod: +24 to +31.
+- Psycho Rod: +28 to +36.
+- Skull Rod: +38 to +40.
 
 Bart:
-- WhippaSnappa: +8 > +6.
-- CobraCracka: +9 > +5
+- WhippaSnappa: +6 to +8.
+- CobraCracka: +5 to +9.
 - Serpent Sting: Add ‘Inflict Confusion on hit’
 - Silver Blood: Add ‘Heal 20% of damage dealt on hit’ 
 - Whip-Lasher: Add ‘Inflict Blind on hit’
@@ -352,13 +352,13 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 ### Gear equipment changes:
 
 - Snapper GWhip: Add ‘Inflict Slow on hit’
-- Serpent GWhip: Add Attack has increased. Power: +42 > +35
+- Serpent GWhip: Add Attack has increased. Power: +35 to +42
 - BSnake GWhip: Add ‘Inflict Ether Machine Shutdown on hit’
 - SBlood GWhip: Add ‘Drain 5% of foe’s fuel on hit’
 - Thor GWhip: Add Wind Element
 - Sonic GWhip: Change effect to ‘Decrease foe’s Defense by 10% on hit’
 - Magnetic Coat: Can be purchased at Shevat and Yggdrasil III (Disc 2)
-- Power Magic: Ether Amp +7 > +10. Can be purchased at the Anima Dungeons and Merkabah (first trip).
+- Power Magic: Ether Amp +10 to +7. Can be purchased at the Anima Dungeons and Merkabah (first trip).
 
 ### New items:
 
