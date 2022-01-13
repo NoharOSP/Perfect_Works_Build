@@ -5,13 +5,13 @@ we predicted<Delay 5>...<Close><End of Block>
 The awakening of the
 untouchable one<Delay 5>...<Close><End of Block>
 <TextBlock 3 w:48 h:4>
-It has been 3 years
+It has been three years
 since news of him
 ceased.<New>
 According to the reports
-from the memory cubes<New>
+from the memory cubes,<New>
 he is currently in the 
-Kislev Imperial Capital,
+Kislev Imperial capital,
 Noatun.<Close><End of Block>
 <TextBlock 4 w:26 h:3>
 Abominable<Delay 5>...<Delay 5>
@@ -20,7 +20,7 @@ Abominable<Delay 5>...<Close><End of Block>
 <TextBlock 5 w:44 h:4>
 If not for his 
 presence,<New> 
-lambs <Delay 5> would not 
+Lambs <Delay 5> would not 
 have become 'Animus'.
 500 years since the
 Day of Collapse.<New>
@@ -45,10 +45,9 @@ calculate.<Close><End of Block>
 Eliminate<Delay 5>...<Delay 5>
 Eliminate<Delay 5>...<Delay 5>
 Eliminate<Delay 5>...<Close><End of Block>
-<TextBlock 8 w:38 h:3>
+<TextBlock 8 w:38 h:4>
 Although in this
-case,<New>
-we do not know 
+case we do not know
 the route by which 
 it was carried,<New>
 the activation of
@@ -107,7 +106,7 @@ The orders?<Close><End of Block>
 A purge.<New>
 Do not tell him 
 the true intent.<New>
-It obvious that 
+It is obvious that 
 he would act 
 outside our orders 
 if he knew.<Close><End of Block>
@@ -158,10 +157,10 @@ the order.<Close><End of Block>
 Disobedience<Delay 5>...<Delay 5><New>
 Ramsus' duty is meant
 to be the excavation of
-the "Vessels of Anima"
+the 'Vessels of Anima'
 sleeping in Ignas<New>
 and supervision of
-the lambs. But this<Delay 5>...<Delay 5>
+the Lambs. But this<Delay 5>...<Delay 5>
 ...<Delay 5><Close><End of Block>
 <TextBlock 27 w:40 h:3>
 The Vessels can 
@@ -335,7 +334,7 @@ make medicine<New>
 from that which
 is poison.<Close><End of Block>
 <TextBlock 60 w:46 h:3>
-"Ahnenerbe"<Delay 5>...<Delay 5><New>
+'Ahnenerbe'<Delay 5>...<Delay 5><New>
 You cannot still 
 believe in that, 
 can you?<Close><End of Block>
@@ -400,8 +399,8 @@ existence.<Close><End of Block>
 It has already
 sufficiently carried
 out its purpose.<New>
-Currently "dealing 
-with each region".<Close><End of Block>
+Currently 'dealing 
+with each region'.<Close><End of Block>
 <TextBlock 74 w:44 h:2>
 Stein is supervising
 the disposal in 
@@ -409,8 +408,8 @@ Aquvy.<Close><End of Block>
 <TextBlock 75 w:38 h:3>
 And providing
 instruction<New> 
-on "deserved 
-punishment".<Close><End of Block>
+on 'deserved 
+punishment'.<Close><End of Block>
 <TextBlock 76 w:48 h:2>
 We will be dealing with
 that as well in this
@@ -462,14 +461,14 @@ civilization we
 are predicted to gain.<Close><End of Block>
 <TextBlock 85 w:36 h:2>
 It is for the 
-"mother's" sake
+'mother's' sake
 that we exist.<Close><End of Block>
 <TextBlock 86 w:52 h:3>
 Krelian
 "Hah.<New>
 The words of those who 
 once betrayed the mother
-who is their "Creator"<New>
+who is their 'Creator'<New>
 in order to sustain their
 own egos, I see<Delay 5>...<Close><End of Block>
 <TextBlock 87 w:50 h:3>
@@ -620,7 +619,7 @@ We want to see your
 <TextBlock 116 w:40 h:3>
 If you mean to show
 us that you are not
-"trash"<Delay 5>...<Close><End of Block>
+'trash'<Delay 5>...<Close><End of Block>
 <TextBlock 117 w:36 h:4>
 Ramsus
 "Myyah<Delay 5>...<Delay 5>
@@ -697,7 +696,7 @@ As it did in the
 past<Delay 5>...<Close><End of Block>
 <TextBlock 133 w:42 h:2>
 We cannot set the 
-ignorant lambs free 
+ignorant Lambs free 
 yet.<Close><End of Block>
 <TextBlock 134 w:40 h:3>
 Krelian
@@ -763,7 +762,7 @@ Krelian
 "Indeed.<New>
 It appears that the
 'mother'<Delay 5> exists
-among those lambs."<Close><End of Block>
+among those Lambs."<Close><End of Block>
 <TextBlock 145 w:36 h:3>
 Meaning that<Delay 5>
 there are other 
@@ -1135,8 +1134,8 @@ become god's flesh?<Close><End of Block>
 <TextBlock 208 w:34 h:3>
 The time has come<New>
 <Delay 10>to put the 
-"Lesser Goetia 
-Key" into 
+'Lesser Goetia 
+Key' into 
 operation<Delay 5>...<Close><End of Block>
 <TextBlock 209 w:22 h:1>
 Wh, what!?<Close><End of Block>
@@ -1228,13 +1227,13 @@ defy his
 power.<Close><End of Block>
 <TextBlock 228 w:34 h:2>
 The one<Delay 5> who will<Delay 5> 
-destroy "Cain"<Delay 5> 
-is "Cain" 
+destroy 'Cain'<Delay 5> 
+is 'Cain' 
 himself<Delay 5>...<Close><End of Block>
 <TextBlock 229 w:34 h:2>
 ......<Delay 5>Will 
 you handle this, 
-"mother"?<Close><End of Block>
+'mother'?<Close><End of Block>
 <TextBlock 230 w:52 h:3>
 Myyah
 "Let me see<Delay 5>...<Delay 5>
@@ -1374,9 +1373,9 @@ none to obstruct the
 accomplishment of our 
 objective.<Close><End of Block>
 <TextBlock 254 w:46 h:4>
-<Delay 5>The "Anima Vessels" 
+<Delay 5>The 'Anima Vessels' 
 have awakened and have 
-obtained "Animus".<New>
+obtained 'Animus'.<New>
 Dan,<Delay 5> Joseph,<Delay 5>and 
 Gad<Delay 5>...<Delay 5>
 which aligned with 
@@ -1393,8 +1392,8 @@ and Isachar<Delay 5> which aligned
 <TextBlock 257 w:50 h:4>
 And finally<Delay 5>...<Delay 5>
 Grahf's Naphtali<Delay 5>...<Delay 5><New>
-All of the "Anima 
-Vessels"<Delay 5> have 
+All of the 'Anima 
+Vessels'<Delay 5> have 
 been activated.<Close><End of Block>
 <TextBlock 258 w:42 h:4>
 The existence of
@@ -1472,16 +1471,16 @@ Krelian
 "Cain, the only 
 obstruction to the 
 accomplishment of 
-"my" goal,<New> 
+'my' goal,<New> 
 is gone. The 
 absolute authority 
 he wielded over we the 
-"people" was my obstacle.<New>
+'people' was my obstacle.<New>
 The only one capable of 
 removing Cain was Cain 
 himself.<New>
-Ramsus,<Delay 5>the "copy 
-of Cain"<Delay 5> that I 
+Ramsus,<Delay 5>the 'copy 
+of Cain'<Delay 5> that I 
 created for that purpose,<Delay 5><New>
 behaved according to my 
 expectations, and 
@@ -1561,7 +1560,7 @@ Your existence has no value
 now.<Delay 15> Deus,<Delay 5> 
 god,<Delay 5> only wants results<Delay 5>...<New>
 The means do not matter<Delay 5>...<Delay 15>
-This is my "Ark Plan".<Delay 5>...<Delay 10>
+This is my 'Ark Plan'.<Delay 5>...<Delay 10>
 Or in other words, <Delay 5>Project<Delay 5>
 Noah<Delay 5>!"<Close><End of Block>
 <TextBlock 280 w:28 h:1>

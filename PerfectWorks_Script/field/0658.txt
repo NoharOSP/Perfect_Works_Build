@@ -155,7 +155,7 @@ Elly
 our fault your village
 was destroyed.<New>
 Fei kept saying...
- 'if only they
+ 'If only they
   hadn't come...'<New>
 Then, I called Fei a
 coward because he was
@@ -185,13 +185,12 @@ than domesticated animals,
 are they not...?"<Close><End of Block>
 <TextBlock 32 w:54 h:4>
 Elly
-" The Shepherds, the 
-  Abelites, took control 
-  over the Lambs<New>
-  ...Possessing the right
-  to give life and death
-  unto them as they see
-  fit...                 "<Close><End of Block>
+"'The Shepherds, the 
+Abelites, took control over
+the surface dwellers,<New>
+the Lambs, possessing the
+right to ordain life or
+death as they see fit...'"<Close><End of Block>
 <TextBlock 33 w:50 h:4>
 Citan
 "Exactly. Yet you seem to
