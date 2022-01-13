@@ -204,7 +204,7 @@ But Graviton Gun is way too costly in spite of this. By end-game you’ll only b
 
 ### Field changes:
 
-- Encounter rate has been halved except for the Duneman Isle, Shevat Emergency Shaft, Anima Relic 2 and Deus for grinding reasons.
+- Encounter rate has been halved except for the Duneman Isle, Shevat Emergency Shaft, Anima Dungeon 2 and Deus for grinding reasons.
 
 Throughout the game encounter rates have been lowered. For many players this has been a strikingly annoying part of the game. Especially for sections with platforming as in emulated versions of Xenogears players no longer can hear the disc rev up loading the battle. Because the jump input gets eaten when a battle is being loaded this will have you run off cliffs which is very frustrating. So the encounter rate was halved across a majority of the game. To compensate money and experience has been doubled to keep the game from spiking in difficulty. Select areas such as Deus, Anima dungeon 2, the Duneman Isles, and the Shevat Emergency Shaft were kept the same. Deus is a common experience grinding spot due to the Power Seraph giving the most exp out of any single enemy in the game. Shevat’s Emergency Shaft and Anima Dungeon 2 were good places to grind for deathblows and money respectively. And the Duneman Isles is supposed to be a gauntlet with the constant threat of dragons. Which also have exclusive end game equipment on them. Not only would dropping the encounter rate here defeat the point of the optional dungeon it’d be a lot harder to get exclusive weapons.
 
@@ -214,7 +214,7 @@ Throughout the game encounter rates have been lowered. For many players this has
 - All exp/gold rates have been doubled.
 - The Executioner drops the ExecutionerGown.
 - Alpha Weltall at Raziel now drops a Power Crisis. The Alpha Weltall fight is great. It’s rewards not so much. You need the Trader's Card just to get it and it’s generic armor. Not even the best for pure defense. So at base for beating the boss you’ll receive a Power Crisis. This will make the few sections left on foot at least a little more enjoyable if you miss the first one or want more. 
-- Opiomorph drops the NisanCross.
+- Ophiomorphous drops the NisanCross.
 
 ### Monster stats:
 
@@ -232,7 +232,7 @@ Unless stated otherwise, the stat changed is HP.
 - Power Seraph: 15800 < 20000
 - Assassin 1: HP 290 < 450 EDef 10 < 60 
 - Assassin 2: HP 260 < 400 EDef 20 < 70 
-- Gebler Guard: 160 < 350
+- Geburah Guard: 160 < 350
 - Solaris Guard: 200 < 530 
 - Gimmick: 6 < 12 
 - Wels: 200 < 300 
@@ -271,7 +271,7 @@ Unless stated otherwise, the stat changed is HP.
 - Bladegash: 3000 < 10000
 - Bloody (Ethos Transport): HP 8888 Atk 75 < 100 
 - Giant Wels: HP 7000 < 14000 Atk 300 < 350
-- Tolone: HP 2500 < 3000 
+- Throne: HP 2500 < 3000 
 - Seraphita: HP 2000 < 2500 
 - Id: 3000 < 6666
 - Wyvern: HP 5000 < 28000 Atk 330 < 400 
@@ -290,21 +290,21 @@ Unless stated otherwise, the stat changed is HP.
 - Sufal Mass: HP 4800 < 20000 EDef 50 < 100
 - Sufal: Agility 7 < 10 Eth 20 < 50 
 - Dominia: 4000 < 20000
-- Kelvina: 2500 < 15000
-- Tolone: 2500 < 18000 Atk 80 < 120 Eth 40 < 80
+- Cherubina: 2500 < 15000
+- Throne: 2500 < 18000 Atk 80 < 120 Eth 40 < 80
 - Seraphita: 2500 < 17000
 - G-Elements: HP 45000 < 60000 Def 600 < 300
-- Opiomorph: 25000 to 30000
+- Ophiomorphous: 25000 to 30000
 - Id Xenogears: HP 30400 < 60000 Atk 825 < 1000 Ether 90 < 150 
-- True Weltall HP 15000 < 30000 Atk 800 Eth 150 
-- Deus 75000 to 150000
-- Urobolus HP 50000 < 75000
+- Alpha Weltall (Bethlehem): HP 15000 < 30000 Atk 800 Eth 150 
+- Deus: 75000 to 150000
+- Ouroboros: HP 50000 < 75000
 
 ### Item changes:
 
 - Eyeballs, Fangs, Scales and Ivory have had their sale prices doubled. With encounters dropping, this change is done as a way to keep their value. This is particularly useful for Anima Dungeon 2 as if you’re revisiting the dungeon you’re certainly here because you need money for Big Joe's shop. 
 - Speed Star now costs 2500.
-- Samon's Hair can be bought at the Thames (first visit) for 1000.
+- Samon's Hair can be bought at the Tamuz (first visit) for 1000.
 
 ### Field equipment changes:
 
@@ -358,12 +358,12 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 - Thor GWhip: Add Wind Element
 - Sonic GWhip: Change effect to ‘Decrease foe’s Defense by 10% on hit’
 - Magnetic Coat: Can be purchased at Shevat and Yggdrasil III (Disc 2)
-- Power Magic: Ether Amp +7 > +10. Can be purchased at the Anima Dungeons and Merkava (first trip).
+- Power Magic: Ether Amp +7 > +10. Can be purchased at the Anima Dungeons and Merkabah (first trip).
 
 ### New items:
 
 - CrossPendant: Fei exclusive. +5 Ether/Ether Def. Same effect as Holy Pendant. Initial equip on Fei.
-- NisanCross: Fei exclusive. +32 Ether/Ether Def. Same effect as Holy Pendant. Dropped by Opiomorph
+- NisanCross: Fei exclusive. +32 Ether/Ether Def. Same effect as Holy Pendant. Dropped by Ophiomorphous
 - CCracka GWhip: +90 Attack and Inflicts Fuel Leak on hit. Available to buy at Tammuz after Gate 2. 
 - Lasher GWhip: +75 Attack and Inflicts Camera Damage on hit. Available to buy in Nisan after Gate 1.
 - Citan Jr Doll: Increases speed by 2. Available to buy in the Yggdrasil III in Disc 2 for 60000.
