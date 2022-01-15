@@ -44,6 +44,7 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Opiomorph = Ophiomorphous
 - Razael = Raziel
 - Renk = Rank
+- Ricdeau = Rikudou
 - Taura = Torah
 - Thames = Tamuz
 - Tolone = Throne
