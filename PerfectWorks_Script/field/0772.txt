@@ -25,7 +25,7 @@ They must be using
 <TextBlock 5 w:46 h:4>
 Citan
 "Young one!<Delay 10>
-They are using -Drive-!<New>
+They are using Drive!<New>
 They are battle
 enhancement drugs.<Delay 10>
 Normal attacks will
