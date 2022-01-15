@@ -25,24 +25,20 @@ it's the Fatima Jasper."<Close><End of Block>
 Maison
 "...Well...<Delay 50>
 It was long ago.<New>
-When his Majesty and
-I were still young...<New>
-Long before his Majesty
-knew my young master's
-mother.<New>
-His Majesty was in love
-with a certain girl
-from a small religious
-sect east of Av.<New>
-This sect was quite
-different from Nisan and
-the 'Church of the Ethos'<New> 
+His Majesty was in 
+love with a girl 
+named Shalimar from 
+the Norn province,<New> 
+in east Av. The 
+people of Norn were 
+quite different from 
+Av and Kislev,<New>
 but she was very 
-beautiful.<New>
-Then...
-she just disappeared.
-Later there were rumors
-of her having a child."<Close><End of Block>
+beautiful. Then... 
+she just disappeared.<New> 
+Later there were 
+rumors of her
+having a child."<Close><End of Block>
 <TextBlock 8 w:48 h:3>
 Bart
 "She disappeared?
