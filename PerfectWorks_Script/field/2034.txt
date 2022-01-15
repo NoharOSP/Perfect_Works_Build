@@ -47,12 +47,14 @@ on about!?<Delay 20>
 Snap out of it, Elly!!"<Close><End of Block>
 <TextBlock 12 w:42 h:4>
 Elly
-"You're as dense as
-usual...<Delay 20> But, I don't
-blame you...<New>
-So be it.
-I will explain to
-you all about it."<Close><End of Block>
+"I can see why you 
+would be so hesitant<New> 
+as to believe that 
+she is gone, considering 
+all of these wonderful 
+memories you've shared.<New>
+Regardless, I
+will explain."<Close><End of Block>
 <TextBlock 13 w:60 h:6>
 Elly
 "This Deus, the one you call
