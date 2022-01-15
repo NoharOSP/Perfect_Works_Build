@@ -4,7 +4,7 @@
 Ouch<Delay 5>...<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Bart
-"I guess the Bart Missiles
+"I guess the Bart Bombs
 weren't such a good idea,
 huh...<New>
 We were able to save you
@@ -37,7 +37,7 @@ made such a weapon..."<Close><End of Block>
 <TextBlock 9 w:42 h:4>
 Citan
 "Billy...<Delay 10>
-I should not have
+I should never have
 made such a weapon..."<Close><End of Block>
 <TextBlock 10 w:28 h:3>
 Billy
@@ -46,13 +46,13 @@ your fault..."<Close><End of Block>
 <TextBlock 11 w:40 h:3>
 Billy
 "This's the best way
-to see father off."<Close><End of Block>
+to see Father off."<Close><End of Block>
 <TextBlock 12 w:30 h:2>
 You're right...<Delay 10>
 Thanks, son.<Close><End of Block>
 <TextBlock 13 w:18 h:2>
 Billy
-"D, dad!"<Close><End of Block>
+"D-dad!"<Close><End of Block>
 <TextBlock 14 w:34 h:3>
 Citan
 "Old friend!<Delay 10>
@@ -64,9 +64,12 @@ Are you alright?"<Close><End of Block>
 <TextBlock 16 w:50 h:3>
 Jessie
 "You'd better believe it!<New>
-I ain't gonna leave that
-stupid junk alone!
-I<Delay 10> improved it!"<Close><End of Block>
+As if I'd leave that 
+busted-up, amateur-made 
+piece of junk in that 
+state forever!<New>
+I<Delay 10> made a few
+improvements!"<Close><End of Block>
 <TextBlock 17 w:42 h:4>
 Jessie
 "Ouchy-wow-wow!!<Delay 10>
