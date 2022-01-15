@@ -516,16 +516,35 @@ Fei
 (When did doc get back..?)<Close><End of Block>
 <TextBlock 84 w:50 h:4>
 Jessie
-"I see.<Delay 10>
+"I see.<Delay 10><New>
 This is the place you
-begged to return to, eh?"<Close><End of Block>
+insisted on returning to, 
+eh?"<Close><End of Block>
 <TextBlock 85 w:28 h:2>
 Sigurd
-"Well, yes..."<Close><End of Block>
+"Not quite... 
+Once I got back 
+to Av,<New> 
+Mimil, Maison 
+and I went to 
+go save the 
+young master.<New> 
+This ship just 
+so happened to 
+be docked in 
+Breidablik<New> 
+at the time."<Close><End of Block>
 <TextBlock 86 w:38 h:3>
 Jessie
-"After you left,
-Billy cried a lot."<Close><End of Block>
+"Mimil... That's 
+the guy who 
+raised you, right?<New> 
+I'd say your 
+operation went 
+pretty well!<New> 
+Anyway, after you 
+left, that Billy 
+cried y'know?"<Close><End of Block>
 <TextBlock 87 w:22 h:3>
 Sigurd
 "...<Delay 10>
