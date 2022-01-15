@@ -30,9 +30,9 @@ Elly
 <TextBlock 6 w:46 h:7>
 <Opcode 1 255><S> Citan
  Lambs Number 584921547
- Hyuga Ricdeau
+ Hyuga Rikudou
  Ether Response...240
- Anims Alignment...98
+ Anima Alignment...98
  Comments
  None.<Close><End of Block>
 <TextBlock 7 w:48 h:9>
