@@ -56,6 +56,11 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Water Mode = Torrent Mode.
 - Bart Missiles = Bart Bombs.
 
+### Story changes:
+
+- Liquid Sky is referred to by Jessie and Sigurd in the gun room and by Maison after Shakhan.
+- The names of the Gazel Ministry are referenced by Krelian in their final scene.
+
 
 ## Gameplay:
 
