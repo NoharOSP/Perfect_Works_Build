@@ -31,7 +31,7 @@ Will you enter the
 Tournament?"<Close><End of Block>
 <TextBlock 6 w:22 h:2>
 Fei
-"Who...me?"<Close><End of Block>
+"Umm...okay."<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 Citan
 "While you draw the guards'
