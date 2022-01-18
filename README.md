@@ -270,7 +270,7 @@ Unless stated otherwise, the stat changed is HP.
 - Wandknight: Atk 90 to 100. Def 40 to 30
 - Clawknight: Atk 80 to 90. Def 40 to 30
 - Schpariel: Atk 90 to 100. Def 40 to 30. Hit 20 to 80
-- Ramsus: Def 35 to 45
+- Ramsus: Def 35 to 38
 - Wiseman: XP 1 to 4000
 - Hecht: 7500 to 9500 Atk 200 to 250 Def 70 to 100 Ether 25 to 50
 - Fis.6 HP 6800 to 17000 Atk 204 to 250 Def 80 to 100 EthDef 80 to 90
