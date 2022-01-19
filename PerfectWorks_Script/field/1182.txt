@@ -454,11 +454,14 @@ Sigurd
 "Hyuga<Delay 5>...<Delay 10>
 To be honest with you<Delay 5>...<Delay 5>
 she scares me.<New>
-She supports Carl and
-is kind to anyone, 
-I know that very well.<New>
+Her support of Carl 
+from the shadows, and 
+her stance of treating 
+anyone<New> 
+and everyone kindly... we 
+know these things well.<New>
 But sometimes I felt
-a strange fear in her.
+a strange fear of her.
 That bothers me more than
 Carl being in this land."<Close><End of Block>
 <TextBlock 74 w:46 h:3>
