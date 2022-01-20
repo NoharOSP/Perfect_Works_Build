@@ -9,8 +9,8 @@ are in danger!<Delay 10> They don't
 know anything about this!"<Close><End of Block>
 <TextBlock 3 w:42 h:3>
 Fei
-"There's a gate under
-the shaft."<Close><End of Block>
+"So the gate is
+below that shaft..."<Close><End of Block>
 <TextBlock 4 w:26 h:2>
 Fei
 "...Too far."<Close><End of Block>
@@ -67,36 +67,36 @@ Yes, something like that."<Close><End of Block>
 Citan
 "Yes<Delay 5>...<Delay 5>
 Probably<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 17 w:36 h:3>
+<TextBlock 17 w:38 h:4>
 Citan
-"The gate is under
-the shaft."<Close><End of Block>
+"It does not seem
+possible to go to
+the gate from here.<New>
+Let us think of
+some other way."<Close><End of Block>
 <TextBlock 18 w:46 h:3>
 Citan
 "...Then, how will you 
 get under the shaft?"<Close><End of Block>
-<TextBlock 19 w:38 h:4>
+<TextBlock 19 w:36 h:3>
+Citan
+"The gate is under
+the shaft."<Close><End of Block>
+<TextBlock 20 w:38 h:4>
 Citan
 "It does not seem
 possible to go to
 the gate from here.<New>
 Let us think of
 some other way."<Close><End of Block>
-<TextBlock 20 w:36 h:3>
-Citan
-"The gate is under
-the shaft."<Close><End of Block>
 <TextBlock 21 w:46 h:3>
 Citan
 "...Then, how will you 
 get under the shaft?"<Close><End of Block>
-<TextBlock 22 w:38 h:4>
+<TextBlock 22 w:36 h:3>
 Citan
-"It does not seem
-possible to go to
-the gate from here.<New>
-Let us think of
-some other way."<Close><End of Block>
+"The gate is under
+the shaft."<Close><End of Block>
 <TextBlock 23 w:36 h:3>
 Bart
 "What<Delay 10> is that huge
@@ -134,21 +134,21 @@ Billy
 catch up with the Gear.<New>
 Let's hurry and go help 
 the Tamuz's fleet."<Close><End of Block>
-<TextBlock 31 w:50 h:4>
-Billy
-"I understand there's 
-supposed to be a gate 
-under the shaft in back."<Close><End of Block>
-<TextBlock 32 w:42 h:4>
+<TextBlock 31 w:42 h:4>
 Billy
 "...And it seems to
 be a fair distance to
 reach the gate..."<Close><End of Block>
-<TextBlock 33 w:54 h:4>
+<TextBlock 32 w:54 h:4>
 Billy
 "Heading to the gate from
 here is unthinkable...
 Let's find some other way."<Close><End of Block>
+<TextBlock 33 w:50 h:4>
+Billy
+"I understand there's 
+supposed to be a gate 
+under the shaft in back."<Close><End of Block>
 <TextBlock 34 w:38 h:3>
 Rico
 "I've never seen a 
