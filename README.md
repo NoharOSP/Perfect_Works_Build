@@ -350,7 +350,7 @@ Barts whips having status effects are a really underused part of his kit. His wh
 
 The Yamoto Sword is the entire reason and main reward for going to the Duneman Isles. However the blade the dragons drop here literally does more damage. This is hyper demotivating. So the instant death effect was given to make players not only feel more satisfied for getting this, it also gives you a more fun tool to play with. 
 
-- Elly Jr Doll: +35 rather than randomly inc/dec Ether power.
+- Elly Jr Doll: +35 Ether rather than randomly inc/dec Ether power.
 - Emeralda Jr Doll: Now has the same effect as Economether.
 - Mermaid Ring: Provides Economether effect.
 - Ether Doubler: Can be purchased at Shevat and Yggdrasil III (Disc 2)
