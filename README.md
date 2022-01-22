@@ -359,7 +359,6 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 ### Gear equipment changes:
 
 - Snapper GWhip: Add ‘Inflict Slow on hit’
-- Serpent GWhip: Add Attack has increased. Power: +35 to +42
 - BSnake GWhip: Add ‘Inflict Ether Machine Shutdown on hit’
 - SBlood GWhip: Add ‘Drain 5% of foe’s fuel on hit’
 - Thor GWhip: Add Wind Element
