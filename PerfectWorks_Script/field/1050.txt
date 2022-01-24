@@ -1811,201 +1811,200 @@ Listen for a bit of fun?<Delay 15>
 <TextBlock 291 w:68 h:1>
 Don't have the corresponding disk.<Close><End of Block>
 <TextBlock 292 w:26 h:9>
-MUSIC CHANGE<Delay 15>
-<Opcode 1 255>    A Theme
-    A Battle
+Change music<Delay 15>
+<Opcode 1 255>    Themes
+    Battle
     Dungeons
     Nature
     The World
     Requiem
     Emotion
     Cancel<Close><End of Block>
-<TextBlock 293 w:24 h:11>
-track-select<Delay 15>
-<Opcode 1 255>    track00
-    track01
-    track02
-    track03
-    track04
-    track05
-    track06
-    track07
-    track08
-    track09<Close><End of Block>
-<TextBlock 294 w:14 h:1>
-track00<Close><End of Block>
-<TextBlock 295 w:14 h:1>
-track01<Close><End of Block>
-<TextBlock 296 w:14 h:1>
-track02<Close><End of Block>
-<TextBlock 297 w:14 h:1>
-track03<Close><End of Block>
-<TextBlock 298 w:14 h:1>
-track04<Close><End of Block>
-<TextBlock 299 w:14 h:1>
-track05<Close><End of Block>
-<TextBlock 300 w:14 h:1>
-track06<Close><End of Block>
-<TextBlock 301 w:14 h:1>
-track07<Close><End of Block>
-<TextBlock 302 w:14 h:1>
-track08<Close><End of Block>
-<TextBlock 303 w:14 h:1>
-track09<Close><End of Block>
-<TextBlock 304 w:24 h:4>
-track-select<Delay 15>
-<Opcode 1 255>    track00
-    track01
-    track02<Close><End of Block>
-<TextBlock 305 w:14 h:1>
-track00<Close><End of Block>
-<TextBlock 306 w:14 h:1>
-track01<Close><End of Block>
-<TextBlock 307 w:14 h:1>
-track02<Close><End of Block>
-<TextBlock 308 w:24 h:9>
-track-select<Delay 15>
-<Opcode 1 255>    track00
-    track01
-    track02
-    track03
-    track04
-    track05
-    track06
-    track07<Close><End of Block>
-<TextBlock 309 w:14 h:1>
-track00<Close><End of Block>
-<TextBlock 310 w:14 h:1>
-track01<Close> <Close><End of Block>
-<TextBlock 311 w:14 h:1>
-track02<Close><End of Block>
-<TextBlock 312 w:14 h:1>
-track03<Close><End of Block>
-<TextBlock 313 w:14 h:1>
-track04<Close><End of Block>
-<TextBlock 314 w:14 h:1>
-track05<Close><End of Block>
-<TextBlock 315 w:14 h:1>
-track06<Close><End of Block>
-<TextBlock 316 w:14 h:1>
-track07<Close><End of Block>
-<TextBlock 317 w:24 h:9>
-track-select<Delay 15>
-<Opcode 1 255>    track00
-    track01
-    track02
-    track03
-    track04
-    track05
-    track06
-    track07<Close><End of Block>
-<TextBlock 318 w:14 h:1>
-track00<Close><End of Block>
-<TextBlock 319 w:14 h:1>
-track01<Close><End of Block>
-<TextBlock 320 w:14 h:1>
-track02<Close><End of Block>
-<TextBlock 321 w:14 h:1>
-track03<Close><End of Block>
-<TextBlock 322 w:14 h:1>
-track04<Close><End of Block>
-<TextBlock 323 w:14 h:1>
-track05<Close><End of Block>
-<TextBlock 324 w:14 h:1>
-track06<Close><End of Block>
-<TextBlock 325 w:14 h:1>
-track07<Close><End of Block>
-<TextBlock 326 w:24 h:9>
-track-select<Delay 15>
-<Opcode 1 255>    track00
-    track01
-    track02
-    track03
-    track04
-    track05
-    track06
-    page-2<Close><End of Block>
-<TextBlock 327 w:14 h:1>
-track00<Close><End of Block>
-<TextBlock 328 w:14 h:1>
-track01<Close><End of Block>
-<TextBlock 329 w:14 h:1>
-track02<Close><End of Block>
-<TextBlock 330 w:14 h:1>
-track03<Close><End of Block>
-<TextBlock 331 w:14 h:1>
-track04<Close><End of Block>
-<TextBlock 332 w:14 h:1>
-track05<Close><End of Block>
-<TextBlock 333 w:14 h:1>
-track06<Close><End of Block>
-<TextBlock 334 w:24 h:9>
-track-select<Delay 15>
-<Opcode 1 255>    track07
-    track08
-    track09
-    track10
-    track11
-    track12
-    track13
-    page-1<Close><End of Block>
-<TextBlock 335 w:14 h:1>
-track07<Close><End of Block>
-<TextBlock 336 w:14 h:1>
-track08<Close><End of Block>
-<TextBlock 337 w:14 h:1>
-track09<Close><End of Block>
-<TextBlock 338 w:14 h:1>
-track10<Close><End of Block>
-<TextBlock 339 w:14 h:1>
-track11<Close><End of Block>
-<TextBlock 340 w:14 h:1>
-track12<Close><End of Block>
-<TextBlock 341 w:14 h:1>
-track13<Close><End of Block>
-<TextBlock 342 w:24 h:9>
-track-select<Delay 15>
-<Opcode 1 255>    track00
-    track01
-    track02
-    track03
-    track04
-    track05
-    track06
-    track07<Close><End of Block>
-<TextBlock 343 w:14 h:1>
-track00<Close><End of Block>
-<TextBlock 344 w:14 h:1>
-track01<Close><End of Block>
-<TextBlock 345 w:14 h:1>
-track02<Close><End of Block>
-<TextBlock 346 w:14 h:1>
-track03<Close><End of Block>
-<TextBlock 347 w:14 h:1>
-track04<Close><End of Block>
-<TextBlock 348 w:14 h:1>
-track05<Close><End of Block>
-<TextBlock 349 w:14 h:1>
-track06<Close><End of Block>
-<TextBlock 350 w:14 h:1>
-track07<Close><End of Block>
-<TextBlock 351 w:24 h:6>
-track-select<Delay 15>
-<Opcode 1 255>    track00
-    track01
-    track02
-    track03
-    track04<Close><End of Block>
-<TextBlock 352 w:14 h:1>
-track00<Close><End of Block>
-<TextBlock 353 w:14 h:1>
-track01<Close><End of Block>
-<TextBlock 354 w:14 h:1>
-track02<Close><End of Block>
-<TextBlock 355 w:14 h:1>
-track03<Close><End of Block>
-<TextBlock 356 w:14 h:1>
-track04<Close><End of Block>
+<TextBlock 293 w:66 h:11>
+Select track<Delay 15>
+<Opcode 1 255>    Where Dreams Hatch
+    Lost... -Screeching Shards-
+    Bond of Sea and Flame
+    The Sky, the Clouds, and You
+    Gather Up the Night Stars
+    Soaring
+    October Mermaid
+    The Blackmoon Forest
+    Grahf -Ruler of Darkness-
+    Torn<Close><End of Block>
+<TextBlock 294 w:38 h:1>
+Where Dreams Hatch<Close><End of Block>
+<TextBlock 295 w:54 h:1>
+Lost... -Screeching Shards-<Close><End of Block>
+<TextBlock 296 w:44 h:1>
+Bond of Sea and Flame<Close><End of Block>
+<TextBlock 297 w:56 h:1>
+The Sky, the Clouds, and You<Close><End of Block>
+<TextBlock 298 w:52 h:1>
+Gather Up the Night Stars<Close><End of Block>
+<TextBlock 299 w:16 h:1>
+Soaring<Close><End of Block>
+<TextBlock 300 w:32 h:1>
+October Mermaid<Close><End of Block>
+<TextBlock 301 w:42 h:1>
+The Blackmoon Forest<Close><End of Block>
+<TextBlock 302 w:52 h:1>
+Grahf -Ruler of Darkness-<Close><End of Block>
+<TextBlock 303 w:10 h:1>
+Torn<Close><End of Block>
+<TextBlock 304 w:40 h:4>
+Select track<Delay 15>
+<Opcode 1 255>    Deadly Dance
+    Blazing Knights
+    Steel Giants<Close><End of Block>
+<TextBlock 305 w:26 h:1>
+Deadly Dance<Close><End of Block>
+<TextBlock 306 w:32 h:1>
+Blazing Knights<Close><End of Block>
+<TextBlock 307 w:26 h:1>
+Steel Giants<Close><End of Block>
+<TextBlock 308 w:66 h:8>
+Select track<Delay 15>
+<Opcode 1 255>    Ambience: Cavern
+    Ambience: Waterway
+    Ambience: Factory 1
+    Ambience: Factory 2
+    Ambience: Ruins
+    The Blackmoon Forest (no SFX)
+    Foreboding<Close><End of Block>
+<TextBlock 309 w:34 h:1>
+Ambience: Cavern<Close><End of Block>
+<TextBlock 310 w:38 h:1>
+Ambience: Waterway<Close><End of Block>
+<TextBlock 311 w:40 h:1>
+Ambience: Factory 1<Close><End of Block>
+<TextBlock 312 w:40 h:1>
+Ambience: Factory 2<Close><End of Block>
+<TextBlock 313 w:32 h:1>
+Ambience: Ruins<Close><End of Block>
+<TextBlock 314 w:60 h:1>
+The Blackmoon Forest (no SFX)<Close><End of Block>
+<TextBlock 315 w:22 h:1>
+Foreboding<Close><End of Block>
+<TextBlock 316 w:60 h:1>
+The Blackmoon Forest (no SFX)<Close><End of Block>
+<TextBlock 317 w:56 h:9>
+Select track<Delay 15>
+<Opcode 1 255>    Ambience: Night
+    Ambience: Mountain Path
+    The Blackmoon Forest
+    Ambience: Wind 1
+    Ambience: Wind 2
+    Ambience: Wind 3
+    Ambience: Underwater
+    Ambience: Vortex<Close><End of Block>
+<TextBlock 318 w:32 h:1>
+Ambience: Night<Close><End of Block>
+<TextBlock 319 w:48 h:1>
+Ambience: Mountain Path<Close><End of Block>
+<TextBlock 320 w:42 h:1>
+The Blackmoon Forest<Close><End of Block>
+<TextBlock 321 w:34 h:1>
+Ambience: Wind 1<Close><End of Block>
+<TextBlock 322 w:34 h:1>
+Ambience: Wind 2<Close><End of Block>
+<TextBlock 323 w:34 h:1>
+Ambience: Wind 3<Close><End of Block>
+<TextBlock 324 w:42 h:1>
+Ambience: Underwater<Close><End of Block>
+<TextBlock 325 w:34 h:1>
+Ambience: Vortex<Close><End of Block>
+<TextBlock 326 w:50 h:9>
+Select track<Delay 15>
+<Opcode 1 255>    Adoration
+    Village Pride
+    Wind from the Valley
+    Desert City Dazil
+    Dreams of the Brave
+    Windy Song
+    Ancient Dance of Av
+    <R>Page 2<Close><End of Block>
+<TextBlock 327 w:20 h:1>
+Adoration<Close><End of Block>
+<TextBlock 328 w:28 h:1>
+Village Pride<Close><End of Block>
+<TextBlock 329 w:42 h:1>
+Wind from the Valley<Close><End of Block>
+<TextBlock 330 w:36 h:1>
+Desert City Dazil<Close><End of Block>
+<TextBlock 331 w:40 h:1>
+Dreams of the Brave<Close><End of Block>
+<TextBlock 332 w:22 h:1>
+Windy Song<Close><End of Block>
+<TextBlock 333 w:40 h:1>
+Ancient Dance of Av<Close><End of Block>
+<TextBlock 334 w:68 h:9>
+Select track<Delay 15>
+<Opcode 1 255>    Dreams of the Brave (no intro)
+    Infiltration
+    The Tamuz -Men of the Sea-
+    Shevat -The Wind Calls-
+    Solaris -Supernal Paradise-
+    Cage of Remorse and Relief
+    Wings
+    <L>Page 1<Close><End of Block>
+<TextBlock 335 w:62 h:1>
+Dreams of the Brave (no intro)<Close><End of Block>
+<TextBlock 336 w:26 h:1>
+Infiltration<Close><End of Block>
+<TextBlock 337 w:54 h:1>
+The Tamuz -Men of the Sea-<Close><End of Block>
+<TextBlock 338 w:48 h:1>
+Shevat -The Wind Calls-<Close><End of Block>
+<TextBlock 339 w:56 h:1>
+Solaris -Supernal Paradise-<Close><End of Block>
+<TextBlock 340 w:54 h:1>
+Cage of Remorse and Relief<Close><End of Block>
+<TextBlock 341 w:12 h:1>
+Wings<Close><End of Block>
+<TextBlock 342 w:64 h:9>
+Select track<Delay 15>
+<Opcode 1 255>    Doze (Short Version)
+    Doze (Long Version)
+    Dark Slumber
+    We Wounded Follow the Light
+    Premonition
+    A Distant Promise
+    Intangible Treasure
+    Prayers -The Joy of Hope-<Close><End of Block>
+<TextBlock 343 w:42 h:1>
+Doze (Short Version)<Close><End of Block>
+<TextBlock 344 w:40 h:1>
+Doze (Long Version)<Close><End of Block>
+<TextBlock 345 w:26 h:1>
+Dark Slumber<Close><End of Block>
+<TextBlock 346 w:56 h:1>
+We Wounded Follow the Light<Close><End of Block>
+<TextBlock 347 w:24 h:1>
+Premonition<Close><End of Block>
+<TextBlock 348 w:36 h:1>
+A Distant Promise<Close><End of Block>
+<TextBlock 349 w:40 h:1>
+Intangible Treasure<Close><End of Block>
+<TextBlock 350 w:52 h:1>
+Prayers -The Joy of Hope-<Close><End of Block>
+<TextBlock 351 w:68 h:6>
+Select track<Delay 15>
+<Opcode 1 255>    Earthly Tears, Mortal Thoughts
+    Blue Traveler
+    Fuse
+    Jaws of Ice
+    Infiltration<Close><End of Block>
+<TextBlock 352 w:62 h:1>
+Earthly Tears, Mortal Thoughts<Close><End of Block>
+<TextBlock 353 w:28 h:1>
+Blue Traveler<Close><End of Block>
+<TextBlock 354 w:10 h:1>
+Fuse<Close><End of Block>
+<TextBlock 355 w:24 h:1>
+Jaws of Ice<Close><End of Block>
+<TextBlock 356 w:26 h:1>
+Infiltration<Close><End of Block>
 <TextBlock 357 w:56 h:6>
 Diana
 "From that day on, peace

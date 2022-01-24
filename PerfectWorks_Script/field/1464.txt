@@ -78,9 +78,9 @@ Insert 20G.<Delay 20>
 <TextBlock 14 w:34 h:1>
 Not enough money.<Close><End of Block>
 <TextBlock 15 w:62 h:6>
-<Opcode 1 255>    The Valley of the Wind
+<Opcode 1 255>    Wind from the Valley
     A Distant Promise
-    Lost... Screeching Shards
-    Our Village is No.1
+    Lost... -Screeching Shards-
+    Village Pride
     We Wounded Follow the Light
-    The strong seek dreams<Close><Close><End of Block>
+    Dreams of the Brave<Close><Close><End of Block>

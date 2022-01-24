@@ -68,25 +68,25 @@ Really?<Delay 20>
 Well, do what
 ever you like.<Close><End of Block>
 <TextBlock 16 w:48 h:4>
-<Opcode 1 255>"Super Deluxe Music Box"
+<Opcode 1 255>-Super Deluxe Music Box-
   Please insert 100G
-    OK, I will
+    Okay, I will
     No thanks<Close><End of Block>
 <TextBlock 17 w:36 h:3>
 Hey you, don't kid
 around.<Delay 20> You don't
 have enough money!<Close><End of Block>
-<TextBlock 18 w:62 h:13>
-    <Opcode 1 255>The Valley of the Wind
+<TextBlock 18 w:68 h:13>
+    <Opcode 1 255>Wind from the Valley
     A Distant Promise
-    Lost... Screeching Shards
-    Our Village is No.1
-    We Wounded Follow the Light
-    The Brave Seek Dreams
-    September Mermaid
-    The Sky, the Clouds and You
-    A Nest of Dreams
-    An Ancient Dance
-    Tears of Stars and Memories
-    Shards Calling One Another
-    Prayers of Wind and Fire<Close><Close><End of Block>
+    Lost... -Screeching Shards-
+    Village Pride
+    Gather Up the Night Stars
+    Dreams of the Brave
+    October Mermaid
+    The Sky, the Clouds, and You
+    Where Dreams Hatch
+    Ancient Dance of Av
+    Earthly Tears, Mortal Thoughts
+    Intangible Treasure
+    Prayers -The Joy of Hope-<Close><Close><End of Block>

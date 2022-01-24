@@ -183,131 +183,131 @@ See if it works?
 <TextBlock 40 w:42 h:1>
 The disk seems broken<Close><End of Block>
 <TextBlock 41 w:26 h:9>
-<Opcode 1 255>Music Change
-    A Theme
-    A Battle
-    Dungeon
+<Opcode 1 255>Change music
+    Themes
+    Battle
+    Dungeons
     Nature
     The World
     Requiem
     Emotion
     Cancel<Close><End of Block>
-<TextBlock 42 w:14 h:1>
-Track00<Close><End of Block>
-<TextBlock 43 w:14 h:1>
-Track01<Close><End of Block>
-<TextBlock 44 w:14 h:1>
-Track02<Close><End of Block>
-<TextBlock 45 w:14 h:1>
-Track03<Close><End of Block>
-<TextBlock 46 w:14 h:1>
-Track04<Close><End of Block>
-<TextBlock 47 w:14 h:1>
-Track05<Close><End of Block>
-<TextBlock 48 w:14 h:1>
-Track06<Close><End of Block>
-<TextBlock 49 w:14 h:1>
-Track07<Close><End of Block>
-<TextBlock 50 w:14 h:1>
-Track08<Close><End of Block>
-<TextBlock 51 w:14 h:1>
-Track09<Close><End of Block>
-<TextBlock 52 w:14 h:1>
-Track10<Close><End of Block>
-<TextBlock 53 w:14 h:1>
-Track00<Close><End of Block>
-<TextBlock 54 w:14 h:1>
-Track01<Close><End of Block>
-<TextBlock 55 w:14 h:1>
-Track02<Close><End of Block>
-<TextBlock 56 w:14 h:1>
-Track00<Close><End of Block>
-<TextBlock 57 w:14 h:1>
-Track01<Close><End of Block>
-<TextBlock 58 w:14 h:1>
-Track02<Close><End of Block>
-<TextBlock 59 w:14 h:1>
-Track03<Close><End of Block>
-<TextBlock 60 w:14 h:1>
-Track04<Close><End of Block>
-<TextBlock 61 w:14 h:1>
-Track05<Close><End of Block>
-<TextBlock 62 w:14 h:1>
-Track06<Close><End of Block>
-<TextBlock 63 w:14 h:1>
-Track07<Close><End of Block>
-<TextBlock 64 w:14 h:1>
-Track00<Close><End of Block>
-<TextBlock 65 w:14 h:1>
-Track01<Close><End of Block>
-<TextBlock 66 w:14 h:1>
-Track02<Close><End of Block>
-<TextBlock 67 w:14 h:1>
-Track03<Close><End of Block>
-<TextBlock 68 w:14 h:1>
-Track04<Close><End of Block>
-<TextBlock 69 w:14 h:1>
-Track05<Close><End of Block>
-<TextBlock 70 w:14 h:1>
-Track06<Close><End of Block>
-<TextBlock 71 w:14 h:1>
-Track07<Close><End of Block>
-<TextBlock 72 w:14 h:1>
-Track00<Close><End of Block>
-<TextBlock 73 w:14 h:1>
-Track01<Close><End of Block>
-<TextBlock 74 w:14 h:1>
-Track02<Close><End of Block>
-<TextBlock 75 w:14 h:1>
-Track03<Close><End of Block>
-<TextBlock 76 w:14 h:1>
-Track04<Close><End of Block>
-<TextBlock 77 w:14 h:1>
-Track05<Close><End of Block>
-<TextBlock 78 w:14 h:1>
-Track06<Close><End of Block>
-<TextBlock 79 w:14 h:1>
-Track07<Close><End of Block>
-<TextBlock 80 w:14 h:1>
-Track08<Close><End of Block>
-<TextBlock 81 w:14 h:1>
-Track09<Close><End of Block>
-<TextBlock 82 w:14 h:1>
-Track10<Close><End of Block>
-<TextBlock 83 w:14 h:1>
-Track11<Close><End of Block>
-<TextBlock 84 w:14 h:1>
-Track12<Close><End of Block>
-<TextBlock 85 w:14 h:1>
-Track13<Close><End of Block>
-<TextBlock 86 w:14 h:1>
-Track14<Close><End of Block>
-<TextBlock 87 w:14 h:1>
-Track00<Close><End of Block>
-<TextBlock 88 w:14 h:1>
-Track01<Close><End of Block>
-<TextBlock 89 w:14 h:1>
-Track02<Close><End of Block>
-<TextBlock 90 w:14 h:1>
-Track03<Close><End of Block>
-<TextBlock 91 w:14 h:1>
-Track04<Close><End of Block>
-<TextBlock 92 w:14 h:1>
-Track05<Close><End of Block>
-<TextBlock 93 w:14 h:1>
-Track06<Close><End of Block>
-<TextBlock 94 w:14 h:1>
-Track07<Close><End of Block>
-<TextBlock 95 w:14 h:1>
-Track00<Close><End of Block>
-<TextBlock 96 w:14 h:1>
-Track01<Close><End of Block>
-<TextBlock 97 w:14 h:1>
-Track02<Close><End of Block>
-<TextBlock 98 w:14 h:1>
-Track03<Close><End of Block>
-<TextBlock 99 w:14 h:1>
-Track04<Close><End of Block>
+<TextBlock 42 w:38 h:1>
+Where Dreams Hatch<Close><End of Block>
+<TextBlock 43 w:54 h:1>
+Lost... -Screeching Shards-<Close><End of Block>
+<TextBlock 44 w:44 h:1>
+Bond of Sea and Flame<Close><End of Block>
+<TextBlock 45 w:26 h:1>
+Steel Giants<Close><End of Block>
+<TextBlock 46 w:56 h:1>
+The Sky, the Clouds, and You<Close><End of Block>
+<TextBlock 47 w:52 h:1>
+Gather Up the Night Stars<Close><End of Block>
+<TextBlock 48 w:16 h:1>
+Soaring<Close><End of Block>
+<TextBlock 49 w:32 h:1>
+October Mermaid<Close><End of Block>
+<TextBlock 50 w:42 h:1>
+The Blackmoon Forest<Close><End of Block>
+<TextBlock 51 w:52 h:1>
+Grahf -Ruler of Darkness-<Close><End of Block>
+<TextBlock 52 w:10 h:1>
+Torn<Close><End of Block>
+<TextBlock 53 w:26 h:1>
+Deadly Dance<Close><End of Block>
+<TextBlock 54 w:32 h:1>
+Blazing Knights<Close><End of Block>
+<TextBlock 55 w:26 h:1>
+Steel Giants<Close><End of Block>
+<TextBlock 56 w:34 h:1>
+Ambience: Cavern<Close><End of Block>
+<TextBlock 57 w:38 h:1>
+Ambience: Waterway<Close><End of Block>
+<TextBlock 58 w:40 h:1>
+Ambience: Factory 1<Close><End of Block>
+<TextBlock 59 w:40 h:1>
+Ambience: Factory 2<Close><End of Block>
+<TextBlock 60 w:32 h:1>
+Ambience: Ruins<Close><End of Block>
+<TextBlock 61 w:60 h:1>
+The Blackmoon Forest (no SFX)<Close><End of Block>
+<TextBlock 62 w:22 h:1>
+Foreboding<Close><End of Block>
+<TextBlock 63 w:60 h:1>
+The Blackmoon Forest (no SFX)<Close><End of Block>
+<TextBlock 64 w:32 h:1>
+Ambience: Night<Close><End of Block>
+<TextBlock 65 w:48 h:1>
+Ambience: Mountain Path<Close><End of Block>
+<TextBlock 66 w:42 h:1>
+The Blackmoon Forest<Close><End of Block>
+<TextBlock 67 w:34 h:1>
+Ambience: Wind 1<Close><End of Block>
+<TextBlock 68 w:34 h:1>
+Ambience: Wind 2<Close><End of Block>
+<TextBlock 69 w:34 h:1>
+Ambience: Wind 3<Close><End of Block>
+<TextBlock 70 w:42 h:1>
+Ambience: Underwater<Close><End of Block>
+<TextBlock 71 w:34 h:1>
+Ambience: Vortex<Close><End of Block>
+<TextBlock 72 w:20 h:1>
+Adoration<Close><End of Block>
+<TextBlock 73 w:28 h:1>
+Village Pride<Close><End of Block>
+<TextBlock 74 w:42 h:1>
+Wind from the Valley<Close><End of Block>
+<TextBlock 75 w:36 h:1>
+Desert City Dazil<Close><End of Block>
+<TextBlock 76 w:40 h:1>
+Dreams of the Brave<Close><End of Block>
+<TextBlock 77 w:22 h:1>
+Windy Song<Close><End of Block>
+<TextBlock 78 w:40 h:1>
+Ancient Dance of Av<Close><End of Block>
+<TextBlock 79 w:62 h:1>
+Dreams of the Brave (no intro)<Close><End of Block>
+<TextBlock 80 w:26 h:1>
+Infiltration<Close><End of Block>
+<TextBlock 81 w:54 h:1>
+The Tamuz -Men of the Sea-<Close><End of Block>
+<TextBlock 82 w:48 h:1>
+Shevat -The Wind Calls-<Close><End of Block>
+<TextBlock 83 w:56 h:1>
+Solaris -Supernal Paradise-<Close><End of Block>
+<TextBlock 84 w:54 h:1>
+Cage of Remorse and Relief<Close><End of Block>
+<TextBlock 85 w:12 h:1>
+Wings<Close><End of Block>
+<TextBlock 86 w:8 h:1>
+???<Close><End of Block>
+<TextBlock 87 w:42 h:1>
+Doze (Short Version)<Close><End of Block>
+<TextBlock 88 w:40 h:1>
+Doze (Long Version)<Close><End of Block>
+<TextBlock 89 w:26 h:1>
+Dark Slumber<Close><End of Block>
+<TextBlock 90 w:56 h:1>
+We Wounded Follow the Light<Close><End of Block>
+<TextBlock 91 w:24 h:1>
+Premonition<Close><End of Block>
+<TextBlock 92 w:36 h:1>
+A Distant Promise<Close><End of Block>
+<TextBlock 93 w:40 h:1>
+Intangible Treasure<Close><End of Block>
+<TextBlock 94 w:52 h:1>
+Prayers -The Joy of Hope-<Close><End of Block>
+<TextBlock 95 w:62 h:1>
+Earthly Tears, Mortal Thoughts<Close><End of Block>
+<TextBlock 96 w:28 h:1>
+Blue Traveler<Close><End of Block>
+<TextBlock 97 w:10 h:1>
+Fuse<Close><End of Block>
+<TextBlock 98 w:24 h:1>
+Jaws of Ice<Close><End of Block>
+<TextBlock 99 w:26 h:1>
+Infiltration<Close><End of Block>
 <TextBlock 100 w:46 h:4>
 B,<Delay 5> boss<Delay 5>...<Delay 5> I, I've done
 as much as I can<Delay 5>...<Delay 5>
