@@ -27,7 +27,7 @@ BP-Exchanger Girl
     What are Battle Points?
     Item Exchange
     Nothing thanks!<Close><End of Block>
-<TextBlock 5 w:22 h:2>
+<TextBlock 5 w:46 h:2>
 <Opcode 1 255>CURRENT BP:<Opcode 10 0>
 TOTAL   BP:<Opcode 10 1><Close><End of Block>
 <TextBlock 6 w:58 h:6>
