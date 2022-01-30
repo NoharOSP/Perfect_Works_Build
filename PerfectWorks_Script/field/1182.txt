@@ -49,7 +49,7 @@ to win against him!"<Close><End of Block>
 Maison
 "..."<Close><End of Block>
 <TextBlock 8 w:42 h:3>
-Masion
+Maison
 "Oh, aren't you going
 to rest up a little?"<Close><End of Block>
 <TextBlock 9 w:46 h:3>
@@ -449,7 +449,7 @@ world now..."<Close><End of Block>
 <TextBlock 72 w:30 h:2>
 Sigurd
 "I guess so..."<Close><End of Block>
-<TextBlock 73 w:50 h:4>
+<TextBlock 73 w:52 h:4>
 Sigurd
 "Hyuga<Delay 5>...<Delay 10>
 To be honest with you<Delay 5>...<Delay 5>
@@ -457,7 +457,8 @@ she scares me.<New>
 Her support of Carl 
 from the shadows, and 
 her stance of treating 
-anyone<New> 
+anyone<New>
+
 and everyone kindly... we 
 know these things well.<New>
 But sometimes I felt
@@ -517,34 +518,39 @@ guy!)<Close><End of Block>
 <TextBlock 83 w:52 h:2>
 Fei
 (When did doc get back..?)<Close><End of Block>
-<TextBlock 84 w:50 h:4>
+<TextBlock 84 w:52 h:3>
 Jessie
 "I see.<Delay 10><New>
 This is the place you
 insisted on returning to, 
 eh?"<Close><End of Block>
-<TextBlock 85 w:28 h:2>
+<TextBlock 85 w:32 h:5>
 Sigurd
 "Not quite... 
 Once I got back 
-to Av,<New> 
+to Av,<New>
+
 Mimil, Maison 
 and I went to 
 go save the 
-young master.<New> 
+young master.<New>
+
 This ship just 
 so happened to 
 be docked in 
-Breidablik<New> 
+Breidablik<New>
+
 at the time."<Close><End of Block>
-<TextBlock 86 w:38 h:3>
+<TextBlock 86 w:36 h:4>
 Jessie
 "Mimil... That's 
 the guy who 
-raised you, right?<New> 
+raised you, right?<New>
+
 I'd say your 
 operation went 
-pretty well!<New> 
+pretty well!<New>
+
 Anyway, after you 
 left, that Billy 
 cried y'know?"<Close><End of Block>
@@ -915,7 +921,7 @@ communication facility to
 contact Shevat's native
 country on top of the tower.<Delay 10> 
 If only it still exists..."<Close><End of Block>
-<TextBlock 144 w:46 h:4>
+<TextBlock 144 w:44 h:4>
 Citan
 "Hmm...<New>
 There is a good
@@ -984,7 +990,7 @@ I myself thought something
 was wrong there, and that's
 why I came here...<Delay 10>
 So, don't worry about me.<Close><End of Block>
-<TextBlock 154 w:58 h:5>
+<TextBlock 154 w:58 h:4>
 Fei
 "We've got nothing to lose,
 so let's try to go there.<New>
