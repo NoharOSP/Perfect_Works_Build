@@ -1,6 +1,8 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
+WARNING: Script patches will not work with undub as of writing.
+
 ## Introduction:
 
 Hello. My Name is Ryan ↙ ➡ ↘ ⬇ ↙ ⬅ ↘ Piccuito. I am a character writer and handler for game balance on the Xenogears Perfect works mod. Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a more complete experience. This does contain unmarked but mild spoilers so readers are advised and warned not to scroll through this if they’re looking to use this mod to enjoy the game for the first time or you simply never got to into it for various reasons we hope to address. These spoilers are primarily for certain story events in the story bits and lines are relegated to story specific changes and certain boss fights dungeons and all moves party members and availability are mentioned in the gameplay focused changes. 
