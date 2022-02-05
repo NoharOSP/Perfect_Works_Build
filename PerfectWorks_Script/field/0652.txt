@@ -138,12 +138,11 @@ What about the village?"<Close><End of Block>
 <TextBlock 23 w:12 h:2>
 Elly
 "Fei?"<Close><End of Block>
-<TextBlock 24 w:38 h:3>
+<TextBlock 24 w:54 h:4>
 Fei
-"...Yes, the Gear!<New>
-If only those Gears
-had never landed in
-the village...!"<Close><End of Block>
+"...Yes, the Gear! If only
+those Gears hadn't landed
+in the village...!"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Fei
 "If they had never come
@@ -192,14 +191,14 @@ the Gear, right?
 They weren't invading or
 out to destroy Lahan.<New>
 They died because you 
-had to pilot the gear 
+had to pilot the Gear 
 and start fighting."<Close><End of Block>
 <TextBlock 33 w:10 h:2>
 Fei
 "..."<Close><End of Block>
 <TextBlock 34 w:52 h:4>
 Elly
-"Whatever made you get
+"What ever made you get
 into that Gear?<New>
 Not just anyone can pilot 
 those machines, you know!<New>
@@ -249,7 +248,7 @@ All I knew was that my
 hands could still feel
 what they had done.<New>
 The only thing that
-penetrated the gear's
+penetrated the Gear's
 cockpit were screams...<New>
 Screams, the stench of 
 blood, the sound of 
