@@ -1,30 +1,30 @@
 <TextBlock 1 w:54 h:2>
 Damn them...<Delay 60>
-They're still in pursuit.<Opcode 2 30><Close><End of Block>
+They're still in pursuit.<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:62 h:2>
 Despite entering Av territory<Delay 60>
-they're not giving up.<Opcode 2 30><Close><End of Block>
+they're not giving up.<Opcode 2 60><Close><End of Block>
 <TextBlock 3 w:60 h:1>
-Clearly this Gear's important.<Opcode 2 15><Close><End of Block>
+Clearly this Gear's important.<Opcode 2 30><Close><End of Block>
 <TextBlock 4 w:52 h:2>
 ...Tch. At this point...<Delay 60>
-we're at a disadvantage.<Opcode 2 30><Close><End of Block>
+we're at a disadvantage.<Opcode 2 60><Close><End of Block>
 <TextBlock 5 w:28 h:1>
-...Van Houten!<Opcode 2 20><Close><End of Block>
+...Van Houten!<Opcode 2 60><Close><End of Block>
 <TextBlock 6 w:50 h:1>
-...What's wrong? Respond!<Opcode 2 30><Close><End of Block>
+...What's wrong? Respond!<Opcode 2 60><Close><End of Block>
 <TextBlock 7 w:56 h:1>
-Damn it! All Gears, descend!<Opcode 2 30><Close><End of Block>
+Damn it! All Gears, descend!<Opcode 2 60><Close><End of Block>
 <TextBlock 8 w:52 h:2>
 Regroup on the ground.<Delay 60>
-We'll have to engage them!<Opcode 2 30><Close><End of Block>
+We'll have to engage them!<Opcode 2 60><Close><End of Block>
 <TextBlock 9 w:2 h:1>
 !<Opcode 2 20><Close><End of Block>
 <TextBlock 10 w:40 h:4>
 Elly
-"Sh-Shrapnel...
+"Sh-Shrapnel...<Delay 20>
 Shrapnel in my
 upper-right back.<New>
 Thruster output
-dropping.<Delay 20> I can`t
-maintain altitude."<Opcode 2 50><Close><End of Block>
+dropping.<Delay 20> I can't
+maintain altitude."<Opcode 2 60><Close><End of Block>
