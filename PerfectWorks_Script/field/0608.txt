@@ -24,22 +24,21 @@ Perhaps it's better if I
 don't go near it again."<Close><End of Block>
 <TextBlock 4 w:52 h:4>
 Fei
-"Hey...<Delay 20>
-What are you talking
-about, Dan?<New>
-Timothy and Alice are both
+"Hey, now...<Delay 20>
+What are you saying, Dan?<New>
+Both Timothy and Alice are 
 my best friends.<Delay 20>
 You know I can't do that!"<Close><End of Block>
 <TextBlock 5 w:52 h:3>
 Fei
-"Alright Dan.
+"Alright, Dan.
 You've got it...<New>
 I guess I'll just go and
 sweep Alice away into the 
 sunset!"<Close><End of Block>
 <TextBlock 6 w:48 h:3>
-"Timothy is a balding
-headed fool! And his dad
+"Timothy is a bald-headed 
+fool! And his dad
 is bald and stupid too!"<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 "Mountain path ahead!
@@ -138,15 +137,15 @@ to your real home
 anytime you wanted.<Close><End of Block>
 <TextBlock 30 w:46 h:4>
 Dan
-"Well, the least we can
+"Well, Fei, the least we can
 do is pray for Alice's
-happiness, hey Fei!"<Close><End of Block>
+happiness!"<Close><End of Block>
 <TextBlock 31 w:46 h:3>
 Dan
-"So Fei, you up to it?<New>
+"So... Fei, you up to it?<New>
 C'mon, let's do it!<Delay 20>
     Let's do it!!
-    Quit bein' foolish <Close><End of Block>
+    That's crazy <Close><End of Block>
 <TextBlock 32 w:36 h:3>
 Dan
 "Oh good, Fei!
@@ -179,12 +178,12 @@ Dan
 this, but my sister's
 beautiful and a good cook...<New>
 (and this is just between
-you and me but, she's
+you and me, but she's
 well endowed too!<Delay 20> 
-Heh heh heh!)"<Close><End of Block>
+Heh heh heh.)"<Close><End of Block>
 <TextBlock 37 w:42 h:4>
 Dan
-"So c'mon! Go for it!
+"So come on! Go for it!
     Let's do it!!
     That's crazy <Close><End of Block>
 <TextBlock 38 w:48 h:4>
@@ -195,7 +194,7 @@ That's the spirit!"<Close><End of Block>
 <TextBlock 39 w:50 h:4>
 Dan
 "...Ah, if only
-it was that easy...<New>
+it were that easy...<New>
 It's not like we can
 change their feelings...<Delay 40>
 And you would need to
@@ -214,7 +213,7 @@ Well if you're gonna be
 like that..."<Close><End of Block>
 <TextBlock 42 w:48 h:4>
 Dan
-"But, if you change your
+"But if you change your
 mind, come and talk to
 me!"<Close><End of Block>
 <TextBlock 43 w:54 h:2>
@@ -244,7 +243,7 @@ whole life ahead of me!<Delay 20>
 I've got to strive harder
 to fulfil my goals in life.<Close><End of Block>
 <TextBlock 48 w:48 h:2>
-Sigh...<Delay 20> The never ending
+Sigh...<Delay 20> The neverending
 hardships of a woman.<Close><End of Block>
 <TextBlock 49 w:42 h:4>
 Alice and Timothy's
@@ -372,7 +371,7 @@ Oh, it's you Fei!
 What do you want?<Close><End of Block>
 <TextBlock 67 w:38 h:3>
 Finally, at my age,
-I've become able to
+I've been able to
 live in peace.<New>
 At this rate, I'll
 probably live to be
@@ -390,7 +389,7 @@ You know you won't come out
 in one piece if you try and
 pull anything on the bride!<Close><End of Block>
 <TextBlock 71 w:30 h:3>
-Why, hello Fei.
+Hello, Fei!
 Are you here
 to see Alice?<Close><End of Block>
 <TextBlock 72 w:58 h:4>
@@ -487,8 +486,8 @@ In this great open land,
 new life emerges...<Delay 20>
 I'm not saying we're
 doing it.<New>
-It's just the earth, 
-rain and sun combining 
+It's just the land, 
+rain, and sun combining 
 together to nurture 
 these striving new lives.<New>
 We're just helping 
