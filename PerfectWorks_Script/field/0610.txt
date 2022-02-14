@@ -22,8 +22,7 @@ has their attention!"<Close><End of Block>
 <TextBlock 6 w:36 h:4>
 Citan
 "Fei is bound...<Delay 20>
-by the dark, cruel
-destiny of god..."<Close><End of Block>
+to God's dark, cruel dream"<Close><End of Block>
 <TextBlock 7 w:16 h:3>
 Dan
 "...<Delay 20>
@@ -59,7 +58,7 @@ Fei
 Lahan's...!?"<Close><End of Block>
 <TextBlock 15 w:50 h:4>
 Fei
-"It's just as doc says.
+"It's just as Doc says.
 The two of you should get
 out of the village now!<New>
 Don't worry about Dan.<Delay 10>
@@ -75,7 +74,7 @@ sure to save him!"<Close><End of Block>
 <TextBlock 17 w:48 h:4>
 Fei
 "Alright!
-But doc...
+But Doc...
 You be careful, okay!!?"<Close><End of Block>
 <TextBlock 18 w:16 h:3>
 Fei
@@ -101,8 +100,7 @@ Citan
 Timothy!!"<Close><End of Block>
 <TextBlock 24 w:46 h:4>
 Citan
-"I know.<Delay 15> What on earth
-are they doing starting
+"I know.<Delay 15> What are they doing starting
 a battle here...!?<New>
 Are you all okay?"<Close><End of Block>
 <TextBlock 25 w:42 h:4>
@@ -116,7 +114,7 @@ safer location!"<Close><End of Block>
 Citan
 "I understand how you feel,
 but leave the rest up to
-Fei and me!<New>
+Fei and I!<New>
 The primary thing you
 should be concerned with
 is your own safety...<New>
@@ -141,7 +139,7 @@ Citan
 "You too, Fei!"<Close><End of Block>
 <TextBlock 30 w:14 h:3>
 Citan
-"Huh...
+"Huh...?
 Fei!?"<Close><End of Block>
 <TextBlock 31 w:26 h:2>
 Citan
@@ -160,11 +158,11 @@ Citan
 The way you are fighting...<New>
 Oh no...
 This is not good!<Delay 20>
-If 'he' awakens here..."<Close><End of Block>
+If he awakens like this..."<Close><End of Block>
 <TextBlock 35 w:38 h:4>
 Citan
 "You returned to
-save your sister's
+retrieve your sister's
 wedding dress...!?"<Close><End of Block>
 <TextBlock 36 w:52 h:4>
 Citan
@@ -235,7 +233,7 @@ earlier, but I came back...<New>
 ... I just couldn't bear
 to think of leaving my
 sister's wedding dress
-behind here..."<Close><End of Block>
+behind..."<Close><End of Block>
 <TextBlock 51 w:14 h:2>
 Dan
 "...!?"<Opcode 2 20><Close><End of Block>
