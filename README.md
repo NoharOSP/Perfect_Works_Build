@@ -1,7 +1,16 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-WARNING: Script patches will not work with undub as of writing.
+## FMV patches:
+
+As the FMV patches are too large for the repository, links to them are provided here:
+
+Disc 1:
+https://mega.nz/file/eCwHgabC#N1E9g3f5rHFNGY-FegxWLYoeYJzHB8zDmSc1YHzyI0A
+
+Disc 2:
+https://mega.nz/file/DepzVaYR#uhGd1nppzWB6vKk9kJki5D-X2TkkcasPCGh7bCsDSVs
+
 
 ## Introduction:
 
