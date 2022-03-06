@@ -125,10 +125,10 @@ Stone
 Stone
 "W, what do you want?
 Wh, who're you?"<Close><End of Block>
-<TextBlock 29 w:46 h:3>
+<TextBlock 29 w:48 h:3>
 Stone
 "Now is our chance!!
-Get back to Krelian..."<Close><End of Block>
+Get back to Karellen..."<Close><End of Block>
 <TextBlock 30 w:36 h:3>
 Ha hah...<Delay 32>
 Hyah ha ha...<Delay 42>

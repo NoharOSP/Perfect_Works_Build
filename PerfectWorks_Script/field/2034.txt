@@ -20,7 +20,7 @@ Bart
 she's been<Delay 5>...<Delay 5>
 brainwashed!?"<Close><End of Block>
 <TextBlock 6 w:42 h:3>
-Krelian
+Karellen
 "It has nothing to do
 with brainwashing..."<Close><End of Block>
 <TextBlock 7 w:30 h:3>
@@ -28,7 +28,7 @@ Citan
 "Unify with
 the mother...?"<Close><End of Block>
 <TextBlock 8 w:40 h:3>
-Krelian
+Karellen
 "That girl<Delay 5>...<Delay 5>
 Elehayym, is our 
 'mother'."<Close><End of Block>
@@ -45,12 +45,12 @@ Bart
 "What are you babbling
 on about!?<Delay 20>
 Snap out of it, Elly!!"<Close><End of Block>
-<TextBlock 12 w:42 h:4>
+<TextBlock 12 w:46 h:4>
 Elly
 "I can see why you 
-would be so hesitant<New> 
-as to believe that 
-she is gone, considering 
+would be so hesitant
+to believe that she<New>
+is gone, considering 
 all of these wonderful 
 memories you've shared.<New>
 Regardless, I
@@ -235,7 +235,7 @@ Those are all people who
 were destined to become
 replacement parts for
 Deus."<Close><End of Block>
-<TextBlock 26 w:34 h:3>
+<TextBlock 26 w:34 h:4>
 Billy
 "We humans are...<Delay 20>
 parts for god...<New>
@@ -259,7 +259,7 @@ existing through multiple
 generations...<New>
 In actuality, there wasn't
 enough parts for Deus...<Delay 20>
-But, Krelian compensated
+But, Karellen compensated
 for what was lacking.<New>
 The reduction in the number
 of parts, was due to humans
@@ -268,7 +268,7 @@ generations...<New>
 But that deficiency in the
 human factor, was made up
 for by the nanomachines
-created by Krelian.<New>
+created by Karellen.<New>
 Not only that, but his
 nanomachines added
 additional functions.<New>
@@ -331,7 +331,7 @@ If Myyah is a part for
 Deus, why did it not
 happen earlier...?"<Close><End of Block>
 <TextBlock 34 w:44 h:4>
-Krelian
+Karellen
 "Her awakening is 
 incomplete.<New>
 Even if she is Myyah, 
@@ -340,9 +340,9 @@ she is still not
 <TextBlock 35 w:44 h:2>
 Citan
 "Her true self...?"<Close><End of Block>
-<TextBlock 36 w:50 h:4>
+<TextBlock 36 w:52 h:4>
 Elly
-"Let's go, Krelian.<New>
+"Let's go, Karellen.<New>
 After this, this planet's 
 civilization will be 
 erased and will return 
@@ -373,11 +373,11 @@ eradicated.<Delay 20> As for me,
 I'm simply programmed to 
 act this way..."<Close><End of Block>
 <TextBlock 39 w:38 h:3>
-Krelian
+Karellen
 "Come...<New>
 It is time for
 the awakening of
-the real "mother"."<Close><End of Block>
+the real 'mother'."<Close><End of Block>
 <TextBlock 40 w:20 h:4>
 Fei
 "Please<Delay 5>...<Delay 5>
@@ -394,7 +394,7 @@ Citan
 Now you hang
 in there!"<Close><End of Block>
 <TextBlock 43 w:44 h:4>
-Krelian
+Karellen
 "The majority of my
 body consists of a 
 nanomachine colony.<New>

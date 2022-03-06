@@ -1,26 +1,26 @@
-<TextBlock 1 w:26 h:3>
+<TextBlock 1 w:26 h:4>
 Fei
 "Ugh,
 what's going 
 on......"<Opcode 2 30><Close><End of Block>
-<TextBlock 2 w:26 h:2>
+<TextBlock 2 w:18 h:3>
 Fei
 "Th, this
 is..."<Opcode 2 30><Close><End of Block>
-<TextBlock 3 w:28 h:2>
+<TextBlock 3 w:14 h:2>
 Fei
 "Uwah!"<Opcode 2 50><Close><End of Block>
-<TextBlock 4 w:16 h:2>
+<TextBlock 4 w:14 h:2>
 Fei
 "Un..."<Opcode 2 30><Close><End of Block>
 <TextBlock 5 w:22 h:3>
 Fei
 "Huh!?
 This is..."<Opcode 2 30><Close><End of Block>
-<TextBlock 6 w:24 h:2>
+<TextBlock 6 w:16 h:2>
 Fei
 "Urg..."<Opcode 2 30><Close><End of Block>
-<TextBlock 7 w:18 h:3>
+<TextBlock 7 w:20 h:4>
 Fei
 "No use, 
 I can't 
@@ -41,10 +41,10 @@ Doc!<New>
 Where are you!?
 Where did 
 they......"<Close><End of Block>
-<TextBlock 10 w:18 h:2>
+<TextBlock 10 w:16 h:2>
 Fei
 "Wh...?"<Close><End of Block>
-<TextBlock 11 w:30 h:2>
+<TextBlock 11 w:26 h:4>
 Fei
 "Doc!?<New>
 Wh, who are 
@@ -57,7 +57,7 @@ Fei
 <TextBlock 13 w:16 h:2>
 Fei
 "Billy!"<Close><End of Block>
-<TextBlock 14 w:40 h:3>
+<TextBlock 14 w:34 h:4>
 Fei
 "Doc!!<Delay 20>
 Wh, what is the 
@@ -80,11 +80,11 @@ true......?"<Close><End of Block>
 <TextBlock 17 w:6 h:2>
 Fei
 "?"<Close><End of Block>
-<TextBlock 18 w:26 h:2>
+<TextBlock 18 w:18 h:3>
 Fei
 "...Your 
 enemy?"<Close><End of Block>
-<TextBlock 19 w:44 h:2>
+<TextBlock 19 w:46 h:3>
 Fei
 "It's true......<Delay 20> isn't 
 it......?<New>
@@ -101,13 +101,13 @@ want!<New>
 You already own the world!<New>
 What could you be after 
 beyond that!?"<Close><End of Block>
-<TextBlock 21 w:54 h:3>
+<TextBlock 21 w:44 h:3>
 Fei
 "The paradise in the 
 heavens, Machanon?<Delay 30><New>
 The one said to have 
 fallen to earth......"<Close><End of Block>
-<TextBlock 22 w:40 h:2>
+<TextBlock 22 w:16 h:2>
 Fei
 "What!?"<Close><End of Block>
 <TextBlock 23 w:42 h:2>
@@ -116,7 +116,7 @@ Fei
 <TextBlock 24 w:14 h:2>
 Fei
 "...!?"<Close><End of Block>
-<TextBlock 25 w:34 h:4>
+<TextBlock 25 w:38 h:4>
 Fei
 "......so your 
 goal isn't to rule 
@@ -242,7 +242,7 @@ Citan
 <TextBlock 41 w:18 h:2>
 Fei
 "Elly..."<Close><End of Block>
-<TextBlock 42 w:22 h:3>
+<TextBlock 42 w:14 h:4>
 Fei
 "Doc...
 Are you
@@ -255,7 +255,7 @@ That voice is the one
 which haunts you...<Close><End of Block>
 <TextBlock 45 w:52 h:1>
 Cursed, untouchable one...<Close><End of Block>
-<TextBlock 46 w:46 h:3>
+<TextBlock 46 w:46 h:4>
 The sound that hinders 
 the greatest wish of 
 God's beloved 
@@ -270,9 +270,9 @@ Burn with god's fire...<Close><End of Block>
 Elder
 "This is one of 
 the Solaris Guardian
-Angels,<New> 
+Angels,<New>
 Hyuga Rikudou.<Close><End of Block>
-<TextBlock 51 w:50 h:4>
+<TextBlock 51 w:42 h:4>
 Elder
 "Under the orders of 
 Cain...<Delay 30><New>
@@ -291,7 +291,7 @@ brought those who have
 gathered to you<New>
 whom we have selected 
 to become "Animus"."<Close><End of Block>
-<TextBlock 53 w:54 h:3>
+<TextBlock 53 w:54 h:4>
 Elder
 "The "Animus" are required 
 for the revival of we who 
@@ -302,38 +302,38 @@ They are vessels."<Close><End of Block>
 Elder
 "Yes, they exist only 
 for that......"<Close><End of Block>
-<TextBlock 55 w:48 h:2>
+<TextBlock 55 w:46 h:3>
 Elder
 "What upsets you so?<New>
 Is it because you have 
 been betrayed by one 
 you trusted?"<Close><End of Block>
-<TextBlock 56 w:46 h:3>
+<TextBlock 56 w:40 h:4>
 Fei
 "I'm not asking any 
 of you!<Delay 30>
 Answer me, Doc!"<Close><End of Block>
-<TextBlock 57 w:24 h:2>
+<TextBlock 57 w:18 h:3>
 Citan
 "Three 
 years..."<Close><End of Block>
-<TextBlock 58 w:52 h:3>
+<TextBlock 58 w:54 h:3>
 Citan
 "These three years I 
 have been at your side.<New>
 I had to ascertain whether 
 you would become our enemy 
 or not......"<Close><End of Block>
-<TextBlock 59 w:52 h:4>
+<TextBlock 59 w:44 h:4>
 Elder
 "Yes, an enemy.
 To us, you are a 
 dangerous presence..."<Close><End of Block>
-<TextBlock 60 w:50 h:3>
+<TextBlock 60 w:48 h:3>
 Elder
 "Thus, it was necessary 
 to watch you."<Close><End of Block>
-<TextBlock 61 w:54 h:3>
+<TextBlock 61 w:48 h:4>
 Elder
 "Though it was Cain who 
 gave the order to 
@@ -341,7 +341,7 @@ observe you......"<Close><End of Block>
 <TextBlock 62 w:54 h:4>
 Elder
 "We planned the selection 
-of those "Animus"<New> 
+of those "Animus"<New>
 and the elimination of 
 you who would become our 
 enemy.<New>
@@ -352,18 +352,18 @@ Elder
 eliminate you has failed...<New>
 Thanks to that good for
 nothing trash..."<Close><End of Block>
-<TextBlock 64 w:48 h:3>
+<TextBlock 64 w:44 h:3>
 Elder
 "Nonetheless, we have 
 obtained "Animus".<New>
 Hyuga has done his 
 job well."<Close><End of Block>
-<TextBlock 65 w:52 h:3>
+<TextBlock 65 w:52 h:4>
 Elder
 "You should know. Our goal
 is the resurrection 
 of god."<Close><End of Block>
-<TextBlock 66 w:52 h:4>
+<TextBlock 66 w:52 h:3>
 Elder
 "When our people fill the 
 earth,<New>
@@ -372,7 +372,7 @@ from his long
 slumber......<New>
 At that time, Machanon 
 too will awaken......"<Close><End of Block>
-<TextBlock 67 w:54 h:3>
+<TextBlock 67 w:46 h:4>
 Elder
 "Paradise......
 Hah hah hah.<New>
@@ -387,25 +387,25 @@ It is the source of
 god's wisdom...... 
 A paradise of 
 knowledge......"<Close><End of Block>
-<TextBlock 68 w:54 h:4>
+<TextBlock 68 w:50 h:4>
 Elder
 "Using that wisdom, we 
 will revive the awakened 
 god, and build the "ark"<New>
 that calls us both 
 into the universe."<Close><End of Block>
-<TextBlock 69 w:54 h:3>
+<TextBlock 69 w:42 h:4>
 Elder
 "The construction of
 our ark...<New>
 And the creation 
-of the Malahk......<New> 
+of the Malahk......<New>
 a divine army to 
 reign over the 
 universe.<New>
 The M Project serves 
 this purpose......"<Close><End of Block>
-<TextBlock 70 w:50 h:3>
+<TextBlock 70 w:46 h:3>
 Elder
 "We are orphans of the
 universe.<New>
@@ -421,9 +421,9 @@ We came to this world from
 another heavenly body in 
 the distant past. We are 
 alien beings."<Close><End of Block>
-<TextBlock 72 w:54 h:4>
+<TextBlock 72 w:52 h:4>
 Elder
-"It is not a lie.<New> 
+"It is not a lie.<New>
 You yourself have seen 
 the whole of the surface, 
 correct?<New>
@@ -431,13 +431,13 @@ And that there is no
 human presence prior 
 to ten thousand years 
 ago......"<Close><End of Block>
-<TextBlock 73 w:54 h:3>
+<TextBlock 73 w:50 h:3>
 Elder
 "This is the will of God,<New>
 whose revival has been 
 destined since our 
 genesis of old......"<Close><End of Block>
-<TextBlock 74 w:54 h:3>
+<TextBlock 74 w:52 h:4>
 Elder
 "And we will become one 
 with god.<New>
@@ -445,7 +445,7 @@ We shall obtain the new
 "Animus"...... and return 
 to the heavens once 
 again......"<Close><End of Block>
-<TextBlock 75 w:40 h:3>
+<TextBlock 75 w:42 h:3>
 Elder
 "That is our purpose 
 in existence."<Close><End of Block>
@@ -453,7 +453,7 @@ in existence."<Close><End of Block>
 Elder
 "That is our supreme
 objective."<Close><End of Block>
-<TextBlock 77 w:54 h:3>
+<TextBlock 77 w:48 h:4>
 Elder
 "Of course not.<New>
 What meaning is there in
@@ -463,21 +463,21 @@ such as this......<New>
 God has given us the 
 right to reign over 
 the universe."<Close><End of Block>
-<TextBlock 78 w:56 h:4>
+<TextBlock 78 w:54 h:4>
 Elder
 "Yes.
 Only we with no impurities 
 of blood<New>
 will be granted 
 that indulgence......"<Close><End of Block>
-<TextBlock 79 w:56 h:2>
+<TextBlock 79 w:38 h:3>
 Elder
 "For that, we will 
 revive god."<Close><End of Block>
 <TextBlock 80 w:44 h:4>
 Elder
 "An eternity has 
-passed<New> 
+passed<New>
 since our 
 banishment from 
 paradise.<New>
@@ -489,18 +489,18 @@ we will have to
 follow the path 
 of destruction. 
 But......"<Close><End of Block>
-<TextBlock 81 w:54 h:4>
+<TextBlock 81 w:50 h:4>
 Elder
 "As we now have "Animus" 
 our revival is 
 assured......<Delay 30><New>
 Next is god's revival, 
 then......"<Close><End of Block>
-<TextBlock 82 w:22 h:2>
+<TextBlock 82 w:24 h:2>
 Fei
-"Krelian!?"<Close><End of Block>
-<TextBlock 83 w:48 h:3>
-Krelian
+"Karellen!?"<Close><End of Block>
+<TextBlock 83 w:32 h:4>
+Karellen
 "We only wait 
 for this one's 
 awakening......"<Close><End of Block>
@@ -511,7 +511,7 @@ Fei
 Fei
 "Doc...<Close>
 Th, this...!?"<Close><End of Block>
-<TextBlock 86 w:38 h:2>
+<TextBlock 86 w:30 h:4>
 Fei
 "Is that even 
 living at that 
@@ -603,7 +603,7 @@ Id
 Why ask about him?<New>
 You think you can do
 something?"<Close><End of Block>
-<TextBlock 105 w:56 h:3>
+<TextBlock 105 w:56 h:4>
 Citan
 "It is rare to be able to
 talk a real alternate
@@ -725,5 +725,4 @@ Reality and death..."<Close><End of Block>
 <TextBlock 119 w:46 h:3>
 Id
 "I'll eventually get to
-you...Be seein' ya."<Close>
-ou...Be seein' ya."<Close><Close><End of Block>
+you...Be seein' ya."<Close><Close><End of Block>

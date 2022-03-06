@@ -1,7 +1,7 @@
 <TextBlock 1 w:16 h:1>
 ...<Delay 5>Live!<Opcode 2 90><Close><End of Block>
 <TextBlock 2 w:50 h:3>
-Krelian
+Karellen
 "We were sacrificed as
 pawns<Delay 5>...<New>
 In order to protect their
@@ -14,12 +14,12 @@ Heading toward Sophia's
 ideals<Delay 5>...?<Delay 30>
 Is this our salvation?"<Close><End of Block>
 <TextBlock 3 w:44 h:4>
-Krelian
+Karellen
 "This isn't fair<Delay 5>...<Delay 15>
 Sophia was sacrificed
 for those bastards<Delay 5>..."<Close><End of Block>
 <TextBlock 4 w:54 h:4>
-Krelian
+Karellen
 "Sophia said,<Delay 5> if you just
 have faith the path to what
 you hope for will open.<New>
@@ -37,7 +37,7 @@ Is he just not there<Delay 5>...?<Delay 15>
 Maybe god never even
 existed to begin with!"<Close><End of Block>
 <TextBlock 5 w:42 h:4>
-Krelian
+Karellen
 "Ha, ha, ha, ha<Delay 5>...<Delay 5>
 I see<Delay 5>...<Delay 30>
 That's it<Delay 5>...<New>
@@ -45,11 +45,11 @@ If god doesn't exist
 in our world, then<Delay 5>...<Delay 5>
 I will create god
 with my own hands!"<Close><End of Block>
-<TextBlock 6 w:24 h:2>
+<TextBlock 6 w:26 h:2>
 Lacan
-"Krelian<Delay 5>..."<Close><End of Block>
+"Karellen<Delay 5>..."<Close><End of Block>
 <TextBlock 7 w:40 h:3>
-Krelian
+Karellen
 "Sophia<Delay 5>...<Delay 30>
 Please guide me<Delay 5>...<New>
 I will destroy all

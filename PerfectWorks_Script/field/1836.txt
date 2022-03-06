@@ -54,13 +54,13 @@ Not only can it just heal
 humans, but theoretically
 it should also be able to
 create many substances."<Close><End of Block>
-<TextBlock 12 w:52 h:3>
+<TextBlock 12 w:48 h:3>
 Fei
 "Is that the same thing
-as that guy in Solaris...?<New>
+that guy in Solaris...<New>
 I mean...
 Is that the same thing
-as Krelian is studying?"<Close><End of Block>
+Karellen is studying?"<Close><End of Block>
 <TextBlock 13 w:40 h:2>
 Torah
 "Yes, that's right."<Close><End of Block>

@@ -231,19 +231,19 @@ It is not good to push
 yourself too hard<Delay 5>...<New>
 Why don't you rest up
 for a little while?<Delay 30>
-I'll have Krelian take
-you<Delay 5>..."<Close><End of Block>
+I'll have Karellen
+take you<Delay 5>..."<Close><End of Block>
 <TextBlock 44 w:26 h:3>
-Krelian
+Karellen
 "What are you
 doing<Delay 5> Lacan?"<Close><End of Block>
 <TextBlock 45 w:50 h:4>
 Lacan
-"Oh<Delay 5> it's you,<Delay 5> Krelian<Delay 5>...<Delay 15>
+"Oh<Delay 5> it's you,<Delay 5> Karellen<Delay 5>...<Delay 15>
 I was thinking<Delay 5>...<Delay 5>I'd stop
 painting the portrait<Delay 5>..."<Close><End of Block>
 <TextBlock 46 w:36 h:2>
-Krelian
+Karellen
 "Why stop now<Delay 5>...?"<Close><End of Block>
 <TextBlock 47 w:50 h:4>
 Lacan
@@ -256,14 +256,14 @@ Lacan
 stand at the front lines.<Delay 15>
 So<Delay 5>..."<Close><End of Block>
 <TextBlock 49 w:30 h:3>
-Krelian
+Karellen
 "Is that really
 the problem?"<Close><End of Block>
 <TextBlock 50 w:10 h:2>
 Lacan
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 51 w:22 h:2>
-Krelian
+Karellen
 "Lacan<Delay 5>...?"<Close><End of Block>
 <TextBlock 52 w:52 h:4>
 Lacan
@@ -305,10 +305,10 @@ appear within there.<Delay 15>
 That's why<Delay 5>...<Delay 5>
 I've got to stop now."<Close><End of Block>
 <TextBlock 54 w:38 h:2>
-Krelian
+Karellen
 "Your own self<Delay 5>...?"<Close><End of Block>
 <TextBlock 55 w:54 h:4>
-Krelian
+Karellen
 "You're just running away!<Delay 15>
 You can't bear it when
 she smiles at you.<New>
@@ -332,7 +332,7 @@ feelings<Delay 5>...<Delay 15>
 You who won't accept her
 feelings<Delay 5>..."<Close><End of Block>
 <TextBlock 56 w:40 h:3>
-Krelian
+Karellen
 "Tell me why!?<New>
 If it was me<Delay 5>...<Delay 30>
 who was receiving<Delay 5>...<Delay 15>
@@ -466,10 +466,10 @@ Rene
 And<Delay 5>...<Delay 5>Sophia will
 be coming with us."<Close><End of Block>
 <TextBlock 77 w:40 h:2>
-Krelian
+Karellen
 "That's ridiculous!"<Close><End of Block>
 <TextBlock 78 w:54 h:4>
-Krelian
+Karellen
 "The refugees are still
 increasing! <Delay 5>We can't afford
 to have Sophia leave Nisan!<New>
@@ -489,7 +489,7 @@ Zephyr
 appears that she expressed
 this desire herself."<Close><End of Block>
 <TextBlock 81 w:44 h:3>
-Krelian
+Karellen
 "That can't be<Delay 5>...<Delay 5>
 What is she thinking?"<Close><End of Block>
 <TextBlock 82 w:34 h:4>
@@ -498,7 +498,7 @@ Rene
 talked about it
 being just us<Delay 5>..."<Close><End of Block>
 <TextBlock 83 w:26 h:2>
-Krelian
+Karellen
 "Just us<Delay 5>...?"<Close><End of Block>
 <TextBlock 84 w:10 h:2>
 Lacan

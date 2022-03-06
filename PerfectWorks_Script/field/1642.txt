@@ -1,16 +1,16 @@
 <TextBlock 1 w:52 h:3>
-Krelian
+Karellen
 "Children of the Emperor,<Delay 10> 
 please open your heart."<Close><End of Block>
-<TextBlock 2 w:20 h:2>
+<TextBlock 2 w:22 h:2>
 Elly
-"Krelian!"<Close><End of Block>
+"Karellen!"<Close><End of Block>
 <TextBlock 3 w:12 h:2>
 Fei
 "Huh?"<Close><End of Block>
 <TextBlock 4 w:40 h:4>
 Elly
-"That's Krelian.<Delay 10> 
+"That's Karellen.<Delay 10> 
 He's the real leader
 of Solaris.<New>
 He doesn't appear
@@ -27,7 +27,7 @@ Why do I feel<Delay 5>...<Delay 5>
 Something seems
 familiar."<Close><End of Block>
 <TextBlock 6 w:54 h:4>
-Krelian
+Karellen
 "...The gate we control
 was removed by will of
 the Emperor. <New>

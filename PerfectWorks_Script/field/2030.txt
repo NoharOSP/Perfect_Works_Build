@@ -18,7 +18,7 @@ for now!!"<Close><End of Block>
 Myyah
 "Now, the time has come
 for the great awakening!"<Close><End of Block>
-<TextBlock 5 w:54 h:4>
+<TextBlock 5 w:56 h:4>
 Myyah
 "This is the true meaning
 of the Anima Vessels...<New>
@@ -40,7 +40,7 @@ It becomes a mere vessel
 or container in which there
 are no contents."<Close><End of Block>
 <TextBlock 6 w:46 h:4>
-Krelian
+Karellen
 "And this girl too was
 destined to become one
 with god...<New>
@@ -48,7 +48,7 @@ You see...Elehayym is
 really one of the parts
 of god as well..."<Close><End of Block>
 <TextBlock 7 w:54 h:4>
-Krelian
+Karellen
 "Put simply, you served to
 help bring all the parts of
 god together, here, for me.<New>
@@ -78,7 +78,7 @@ that were disassembled in
 the past, but once again,
 are all gathered here."<Close><End of Block>
 <TextBlock 10 w:50 h:4>
-Krelian
+Karellen
 "Yes.
 It is indeed the time for
 the resurrection of god."<Close><End of Block>
@@ -98,7 +98,7 @@ what's going on!?<New>
 Huh!?<Delay 20>
 Hey<Delay 5>...<Delay 5>
 Is that<Delay 5>...!?"<Close><End of Block>
-<TextBlock 14 w:38 h:3>
+<TextBlock 14 w:40 h:3>
 Fei
 "Our Omni<Delay 5>...?<Delay 20>
 No, that's not it!!<New>

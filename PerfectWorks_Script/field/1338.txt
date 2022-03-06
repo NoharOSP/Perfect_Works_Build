@@ -1,5 +1,5 @@
 <TextBlock 1 w:50 h:4>
-Krelian
+Karellen
 "Lambs 03, 05 and 11 are
 damaged, just retrieve
 the non-damaged ones.<New>
@@ -9,13 +9,13 @@ Use the test subjects,
 Wels, for retrieval
 and elimination."<Close><End of Block>
 <TextBlock 2 w:52 h:3>
-Krelian
+Karellen
 "I see...<New>
 The thing they've searched
 for over 500 years... This
 should be interesting."<Close><End of Block>
 <TextBlock 3 w:48 h:4>
-Krelian, there are
+Karellen, there are
 several ships that have
 not been vaporized. What
 should we do?<Close><End of Block>

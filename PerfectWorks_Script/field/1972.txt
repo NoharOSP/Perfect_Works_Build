@@ -2,7 +2,7 @@
 Sophia
 "Lacan! Live!"<Opcode 2 120><Close><End of Block>
 <TextBlock 2 w:42 h:3>
-Krelian
+Karellen
 "Sophia!!<Delay 15>
 What are you doing!?"<Close><End of Block>
 <TextBlock 3 w:52 h:4>
@@ -10,7 +10,7 @@ Sophia
 "I am ending this<Delay 5>...<Delay 15>
 You won't need to fight
 anymore<Delay 5>...<New>
-So, Krelian<Delay 5>...<New>
+So, Karellen<Delay 5>...<New>
 Please <Delay 5>open your fist<Delay 5>...<Delay 15>
 and with your open hand
 gently hold the people who

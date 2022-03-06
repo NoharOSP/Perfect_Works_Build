@@ -121,7 +121,7 @@ Stone
 Hmph, there's power,
 in here!<New>
 I received this body
-from Krelian!"<Close><End of Block>
+from Karellen!"<Close><End of Block>
 <TextBlock 25 w:36 h:3>
 Stone
 "What do you mean 
@@ -159,7 +159,7 @@ really all people...<New>
 They were chosen by the
 'Church of the Ethos' 
 and converted by 
-Krelian!<New>
+Karellen!<New>
 You've been slaughtering
 people! Ha ha ha...
 A wretched son for a

@@ -3,7 +3,7 @@ Rank
 "Hey look, check 
 this out..."<Close><End of Block>
 <TextBlock 2 w:44 h:3>
-Stratski
+Strachey
 "There's only one
 control ship...<New>
 The other 7 are all

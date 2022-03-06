@@ -23,10 +23,10 @@ And this crowd's noisy."<Close><End of Block>
 Elly
 "...Fei,<Delay 20> Fei?<Delay 10>
 What's wrong with you?"<Close><End of Block>
-<TextBlock 7 w:48 h:3>
+<TextBlock 7 w:50 h:3>
 Fei
 "Uh, it's...<Delay 10>nothing...<Delay 10>
-But that guy, Krelian...<Delay 10><New>
+But that guy, Karellen...<Delay 10><New>
 I feel like...<Delay 10>
 I've met him before..."<Close><End of Block>
 <TextBlock 8 w:38 h:3>

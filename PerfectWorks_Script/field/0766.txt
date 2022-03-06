@@ -2,7 +2,7 @@
 Helmholtz
 "Prep complete!!"<Close><End of Block>
 <TextBlock 2 w:30 h:2>
-Stratski
+Strachey
 "OK over here!"<Close><End of Block>
 <TextBlock 3 w:30 h:4>
 Breuer
@@ -16,7 +16,7 @@ to break through.<New>
 I thought it would be
 a little harder..."<Close><End of Block>
 <TextBlock 5 w:28 h:4>
-Stratski
+Strachey
 "These Lambs 
 sure live in a
 nice place..."<Close><End of Block>
@@ -35,18 +35,18 @@ Vance
 Let's just get this
 over and done with!"<Close><End of Block>
 <TextBlock 8 w:42 h:3>
-Stratski
+Strachey
 "So...<Delay 10>
 where are the Gears?"<Close><End of Block>
 <TextBlock 9 w:24 h:2>
-Stratski
+Strachey
 "Over here?"<Close><End of Block>
 <TextBlock 10 w:36 h:3>
 Helmholtz
 "To the right!<Delay 10>
 There's a hangar!"<Close><End of Block>
 <TextBlock 11 w:16 h:2>
-Stratski
+Strachey
 "!!"<Close><End of Block>
 <TextBlock 12 w:28 h:2>
 Vance
@@ -62,7 +62,7 @@ Vance
 Ignore those! We can
 take them out fast."<Close><End of Block>
 <TextBlock 15 w:52 h:4>
-Stratski
+Strachey
 "Why not take a few?<Delay 10>
 Even if we only get those,
 it was worth sneaking in."<Close><End of Block>

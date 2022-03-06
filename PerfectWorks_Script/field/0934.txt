@@ -88,7 +88,7 @@ Helmholtz
 "...So, how about it?
 Are you gonna do it?"<Close><End of Block>
 <TextBlock 16 w:42 h:4>
-Stratski
+Strachey
 "The army will demote
 us all back to being
 3rd Class citizens!"<Close><End of Block>
@@ -166,7 +166,7 @@ Quick, follow me!"<Close><End of Block>
 They ran in here! <Opcode 2 60><Close><End of Block>
 <TextBlock 35 w:40 h:4>
 Dominia
-"Krelian<Delay 5>...?<Delay 50>
+"Karellen<Delay 5>...?<Delay 50>
 A countervailing
 existence<Delay 5>...?<New>
 That Myyah<Delay 5>...<Delay 5>

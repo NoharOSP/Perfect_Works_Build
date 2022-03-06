@@ -139,7 +139,7 @@ taint...<Delay 30>you and
 your sister<Delay 30>..."<Close><End of Block>
 <TextBlock 27 w:52 h:4>
 Stone
-"Through Krelian's wisdom,
+"Through Karellen's wisdom,
 using the Wels, I saved
 Racquel from misery..."<Close><End of Block>
 <TextBlock 28 w:0 h:1>

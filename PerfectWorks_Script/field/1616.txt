@@ -13,14 +13,14 @@ kill <Delay 10>you.<Close><End of Block>
 Mysterious Gear
 "How do you do?
 I am Rattan, one of the
-followers of Krelian.<New>
+followers of Karellen.<New>
 Please excuse me, I'd like
 to show you my face but as
 a result of the
 human-machine fusion..."<Close><End of Block>
-<TextBlock 5 w:48 h:4>
+<TextBlock 5 w:50 h:4>
 Elly
-"A follower of Krelian!?<Delay 10>
+"A follower of Karellen!?<Delay 10>
 Not Ramsus or the
 Elements!?"<Close><End of Block>
 <TextBlock 6 w:52 h:3>
@@ -31,7 +31,7 @@ reason to be on the
 surface."<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Bart
-"A follower of Krelian?<Delay 10>
+"A follower of Karellen?<Delay 10>
 I thought you were working
 for the shiny gold dude."<Close><End of Block>
 <TextBlock 8 w:50 h:3>
@@ -86,7 +86,7 @@ You should view it as a
 release of...<Delay 10>memory,
 <Delay 10>or maybe a recording.<New>
 It turned out just as
-Krelian said...<New>
+Karellen said...<New>
 It is a manifestation of
 the imprinting.
 At any rate, it is proven.

@@ -71,7 +71,7 @@ Breuer
 an elite from out
 of Jugend."<Close><End of Block>
 <TextBlock 18 w:48 h:4>
-Stratski
+Strachey
 "She returned single-
 handedly from the Kislev
 infiltration operation."<Close><End of Block>
@@ -111,7 +111,7 @@ Vance
 "What? I'm much prettier!
 How could I be jealous?"<Close><End of Block>
 <TextBlock 26 w:48 h:3>
-Stratski
+Strachey
 "Hey, shut that perv up!
 He gives me the creeps."<Close><End of Block>
 <TextBlock 27 w:48 h:4>
@@ -130,7 +130,7 @@ Can't tell what it can
 do just by looking at
 it."<Close><End of Block>
 <TextBlock 30 w:48 h:4>
-Stratski
+Strachey
 "What kind of machine is
 this? I've never seen it
 before."<Close><End of Block>
@@ -143,7 +143,7 @@ It's said that people
 with normal mental
 power can't operate it."<Close><End of Block>
 <TextBlock 32 w:44 h:4>
-Stratski
+Strachey
 "So, she's still a
 'Jugend' regardless
 of having no ability?"<Close><End of Block>

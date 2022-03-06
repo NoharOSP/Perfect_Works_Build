@@ -1,13 +1,13 @@
 <TextBlock 1 w:48 h:4>
 Roni
 "Why don't you go get
-some rest,<Delay 15> Krel<Delay 5>...?<New>
+some rest,<Delay 15> Karel<Delay 5>...?<New>
 You haven't slept since
 the day before yesterday
 have you?<Delay 5> You shouldn't
 do that to yourself!"<Close><End of Block>
 <TextBlock 2 w:38 h:3>
-Krelian
+Karellen
 "I'm fine, <Delay 10>it's not
 a problem<Delay 5>..."<Close><End of Block>
 <TextBlock 3 w:54 h:4>
@@ -19,7 +19,7 @@ fall ill?<Delay 15> Do not forget you
 are the head of the sect's
 military forces."<Close><End of Block>
 <TextBlock 4 w:50 h:3>
-Krelian
+Karellen
 "Okay<Delay 5>...<Delay 5>
 I suppose you are right."<Close><End of Block>
 <TextBlock 5 w:30 h:3>

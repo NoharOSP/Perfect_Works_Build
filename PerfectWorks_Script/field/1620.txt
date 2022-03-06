@@ -3,7 +3,7 @@ Elly
 "Where am I...?"<Close><End of Block>
 <TextBlock 2 w:50 h:2>
 Elly
-"K, Krelian...Commander?"<Close><End of Block>
+"K-Karellen... Commander?"<Close><End of Block>
 <TextBlock 3 w:30 h:2>
 Elly
 "Please, stop!"<Close><End of Block>
@@ -75,11 +75,11 @@ and Fei..."<Close><End of Block>
 Elly
 "Ramsus..."<Close><End of Block>
 <TextBlock 18 w:44 h:3>
-Krelian
+Karellen
 "I've looked into your
 records."<Close><End of Block>
 <TextBlock 19 w:54 h:4>
-Krelian
+Karellen
 "Elehayym Van Houten.
 That incident at the Jugend
 one year ago...<New>
@@ -96,18 +96,18 @@ were critically wounded
 and 3 required recycling.<New>
 Am I right?"<Close><End of Block>
 <TextBlock 20 w:54 h:3>
-Krelian
+Karellen
 "But, this record is wrong.<New>
 This wasn't the usual
 uncontrollable mental
 side effects."<Close><End of Block>
 <TextBlock 21 w:48 h:4>
-Krelian
+Karellen
 "This was caused by the
 'awakening of your other
 inner self'."<Close><End of Block>
 <TextBlock 22 w:50 h:4>
-Krelian
+Karellen
 "They will be used as an
 offering for the...<New>
 ...resurrection of the
@@ -126,7 +126,7 @@ no longer of any use to
 me.<Delay 30> They're worthless.<New>
 But, you are different."<Close><End of Block>
 <TextBlock 23 w:52 h:4>
-Krelian
+Karellen
 "I see...<Delay 30>
 So you've seen the
 research facility.<New>
@@ -146,7 +146,7 @@ I specialize in
 molecular engineering...
 Nanotechnology."<Close><End of Block>
 <TextBlock 24 w:54 h:4>
-Krelian
+Karellen
 "Do you know what this is?
 A nanomachine...a molecular
 machine.<New>
@@ -193,7 +193,7 @@ That is, if we are indeed
 the progeny of the very
 first organism."<Close><End of Block>
 <TextBlock 25 w:54 h:4>
-Krelian
+Karellen
 "Although the nanomachines
 up until now could
 recombine DNA...<New>
@@ -210,14 +210,14 @@ Data that originally
 And we are about to see the
 results of that."<Close><End of Block>
 <TextBlock 26 w:46 h:4>
-Krelian
+Karellen
 "Hmm, according to the
 tranferred record, it
 depicts...<New>
 ...a similar wave
 frequency as expected."<Close><End of Block>
 <TextBlock 27 w:52 h:3>
-Krelian
+Karellen
 "And...yes, the 
 Ouroboros Ring...!<New>
 That is it, isn't it...?<New>
@@ -225,11 +225,11 @@ Myyah, and Lacan's
 actions...<Delay 40>
 This explains everything."<Close><End of Block>
 <TextBlock 28 w:50 h:3>
-Krelian
+Karellen
 "Elehayym...
 You were the 'mother'..."<Close><End of Block>
 <TextBlock 29 w:54 h:4>
-Krelian
+Karellen
 "Yes.<New>
 This is what your genetic
 exon looked like before
@@ -250,7 +250,7 @@ Wouldn't you be interested
 in what type of information
 it would have to offer us?"<Close><End of Block>
 <TextBlock 30 w:54 h:4>
-Krelian
+Karellen
 "Elehayym, you are 
 beautiful.<New>
 When I look at you, I

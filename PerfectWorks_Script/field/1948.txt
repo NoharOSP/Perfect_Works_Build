@@ -8,15 +8,15 @@ outside<Delay 0>...<Delay 30>
 For<Delay 0> it<Delay 0> is<Delay 0> something<Delay 0> one<Delay 0> must<Delay 0>
 build<Delay 0> from<Delay 0> within<Delay 0> oneself<Delay 0>..."<Opcode 2 120><Close><End of Block>
 <TextBlock 3 w:36 h:3>
-Krelian
+Karellen
 "It's been a long 
 time <Delay 5>Lacan."<Close><End of Block>
 <TextBlock 4 w:26 h:3>
 Lacan
-"Krelian. <Delay 15>
+"Karellen. <Delay 15>
 You're back?"<Close><End of Block>
 <TextBlock 5 w:42 h:3>
-Krelian
+Karellen
 "I just got back 
 last night.<Delay 15><New>
 You came back home 
@@ -28,7 +28,7 @@ you."<Close><End of Block>
 Lacan
 "Is that okay?"<Close><End of Block>
 <TextBlock 7 w:50 h:4>
-Krelian
+Karellen
 "Yeah.<Delay 10>
 I'll leave someone else
 in command of my unit.<New>

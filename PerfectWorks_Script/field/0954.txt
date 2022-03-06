@@ -41,7 +41,7 @@ Rank
 Why don't you stay over
 there and just watch."<Close><End of Block>
 <TextBlock 11 w:46 h:4>
-Stratski
+Strachey
 "Yeah, yeah.
 We can take care of
 these guys on our own."<Close><End of Block>
@@ -113,7 +113,7 @@ Rank<Close><End of Block>
 <TextBlock 29 w:12 h:1>
 Breuer<Close><End of Block>
 <TextBlock 30 w:16 h:1>
-Stratski<Close><End of Block>
+Strachey<Close><End of Block>
 <TextBlock 31 w:14 h:2>
 Fei
 "What?"<Close><Close><End of Block>

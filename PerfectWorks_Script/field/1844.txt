@@ -13,7 +13,7 @@ Judging from the condition
 of the hull, we estimated
 the ship was thousands of
 years old.<Close><End of Block>
-<TextBlock 2 w:60 h:23>
+<TextBlock 2 w:62 h:23>
 "Alien beings that came
 to our planet from a far
 off galaxy, aeons ago<Delay 5>..."
@@ -125,7 +125,7 @@ weapons to the mothership...
  
 When suddenly, 'HE' appeared.<Close><End of Block>
 <TextBlock 10 w:52 h:9>
-Grahf, Krelian<Delay 5>...<Delay 5>It was
+Grahf, Karellen<Delay 5>...<Delay 5> It was
 obvious they were after
 the data that was recorded
 in Raziel.
@@ -135,7 +135,7 @@ their hands<Delay 5>...<Delay 5>
  
 They had to be stopped<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 11 w:48 h:4>
-Krelian
+Karellen
 "The data hidden within
 Raziel's Tree. Could
 you move out of the way?<New>
@@ -232,14 +232,14 @@ Grahf
 and bring out that power
 to its utmost limit!"<Close><End of Block>
 <TextBlock 28 w:18 h:2>
-Krelian
+Karellen
 "Enough!"<Close><End of Block>
 <TextBlock 29 w:40 h:3>
 Grahf
 "Hm?
 Why do you stop me?"<Close><End of Block>
 <TextBlock 30 w:52 h:4>
-Krelian
+Karellen
 "He is bait.<New>
 If you kill the bait the
 little bird we wish to
@@ -254,7 +254,7 @@ not? 'Lacan'<Delay 5>...<Delay 5>"<Close><End of Block>
 Grahf
 "<Delay 5>...<Delay 5>Do what you will."<Close><End of Block>
 <TextBlock 32 w:44 h:4>
-Krelian
+Karellen
 "We will crucify these
 ones.<New>
 The place will be 
@@ -262,7 +262,7 @@ southwest of here,
 on top of 
 'Golgotha Hill'."<Close><End of Block>
 <TextBlock 33 w:48 h:2>
-Krelian
+Karellen
 "Bind the broken Gears!"<Close><End of Block>
 <TextBlock 34 w:16 h:2>
 Citan
@@ -273,7 +273,7 @@ Fei
 Why did you come here!?"<Close><End of Block>
 <TextBlock 36 w:48 h:4>
 Fei
-"Krelian's after you!<Delay 5>
+"Karellen's after you!<Delay 5>
 Forget about us!<Delay 15>
 Run and save yourself!!"<Close><End of Block>
 <TextBlock 37 w:44 h:4>
@@ -286,7 +286,7 @@ do with this.<Delay 5>
 So let Fei and the
 others go!"<Close><End of Block>
 <TextBlock 38 w:44 h:4>
-Krelian
+Karellen
 "How gallant you are,<Delay 5>
 Elehayym.<New>
 It's as if<Delay 5> 'that scene
@@ -301,7 +301,7 @@ Hmmm<Delay 5>...<Delay 45>
 Allow me to confirm
 something."<Close><End of Block>
 <TextBlock 39 w:54 h:4>
-Krelian
+Karellen
 "I'll consider what kind of
 treatment your friends will
 receive<Delay 5>...<Delay 5>on one condition.<New>
@@ -317,14 +317,14 @@ Don't accept it!"<Close><End of Block>
 <TextBlock 41 w:46 h:4>
 Citan
 "Fei is right!<Delay 15>
-Krelian is not a man
+Karellen is not a man
 of his word...<New>
 And he always has
 ulterior motives when
 he sweet talks someone!<New>
 What is more, those men
 are fighting machines
-created by Krelian.<New>
+created by Karellen.<New>
 Their combat skills are
 immeasurable!<Delay 10> They are
 not opponents you can
@@ -332,8 +332,8 @@ handle by yourself!<New>
 Do not take him up
 on his offer!<Delay 10>
 Escape while you can!!"<Close><End of Block>
-<TextBlock 42 w:54 h:4>
-Krelian
+<TextBlock 42 w:58 h:4>
+Karellen
 "My my<Delay 5>...<Delay 5>
 Such harsh criticism.
 I am not that brutal.<New>
@@ -345,7 +345,7 @@ You see<Delay 5>...<Delay 5>
 I have this whole area
 surrounded by my guards!"<Close><End of Block>
 <TextBlock 43 w:54 h:4>
-Krelian
+Karellen
 "Wouldn't it be logical to
 take the choice where you
 may still stand a chance<Delay 5>...<New>
@@ -359,7 +359,7 @@ Elly
 "Alright then<Delay 5>...<Delay 5>
 I'll do what you say"<Close><End of Block>
 <TextBlock 46 w:42 h:4>
-Krelian
+Karellen
 "Good.<Delay 5>
 You are indeed my
 precious little bird.<New>
@@ -369,7 +369,7 @@ Fei
 "No way<Delay 5>...!<Delay 30>
 Elly<Delay 5>...!"<Close><End of Block>
 <TextBlock 48 w:54 h:4>
-Krelian
+Karellen
 "Her true awakening<Delay 5>...?<Delay 15>
 Or just merely<Delay 5>...<Delay 5>
 'protecting her master'<Delay 5>...?<New>
@@ -378,7 +378,7 @@ alter the fact that she is
 the Mother existence that
 I have been searching for!"<Close><End of Block>
 <TextBlock 49 w:44 h:4>
-Krelian
+Karellen
 "Now men...
 recover that machine.<New>
 Place priority on the
@@ -386,7 +386,7 @@ safety of the pilot.<Delay 15>
 Use whatever it takes
 to preserve her life!"<Close><End of Block>
 <TextBlock 50 w:50 h:4>
-Krelian
+Karellen
 "Well then,<Delay 5> I shall be
 taking this girl with me!<Delay 10>
 As for the rest of you<Delay 5>...<New>
@@ -407,11 +407,11 @@ spineless wretch like
 you out of your misery!"<Close><End of Block>
 <TextBlock 53 w:52 h:11>
 Elly was taken away<Delay 5>...<Delay 15>
-And, as Krelian had told
+And, as Karellen had told
 her, we were left alive<Delay 5>...<Delay 45>
  
-Was Krelian just keeping
-his promise<Delay 5>...<Delay 15>
+Was Karellen just keeping
+his promise<Delay 5>...<Delay 15>?
 No, that can't be it<Delay 5>...<Delay 60>
  
 There had to be another<Delay 5>
@@ -431,7 +431,7 @@ Save current data?<Delay 30>
 Continue the game?<Delay 30>
     Wait
     Start<Delay 15><Close><End of Block>
-<TextBlock 59 w:32 h:32>
+<TextBlock 59 w:42 h:32>
     Open menu
     Member Change
     Continue the game<Delay 15><Close><End of Block>

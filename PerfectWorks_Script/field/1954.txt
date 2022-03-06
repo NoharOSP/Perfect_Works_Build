@@ -75,12 +75,12 @@ talking about?"<Close><End of Block>
 <TextBlock 13 w:48 h:3>
 Roni
 "That's how women are<Delay 5>...<Delay 15>
-Right, Krelian<Delay 5>...?"<Close><End of Block>
-<TextBlock 14 w:24 h:2>
+Right, Karellen<Delay 5>...?"<Close><End of Block>
+<TextBlock 14 w:26 h:2>
 Roni
-"Hey,<Delay 5> Krel!"<Close><End of Block>
+"Hey,<Delay 5> Karel!"<Close><End of Block>
 <TextBlock 15 w:14 h:2>
-Krelian
+Karellen
 "Huh?"<Close><End of Block>
 <TextBlock 16 w:44 h:4>
 Rene
@@ -88,7 +88,7 @@ Rene
 You're not having any?<Delay 30>
 It's ready to eat."<Close><End of Block>
 <TextBlock 17 w:26 h:2>
-Krelian
+Karellen
 "Ah,<Delay 5> yeah<Delay 5>..."<Close><End of Block>
 <TextBlock 18 w:36 h:4>
 Roni
@@ -110,7 +110,7 @@ Lacan
 You've gotta lighten
 up a little<Delay 5>...<Opcode 2 120><Close><End of Block>
 <TextBlock 22 w:52 h:4>
-Krelian
+Karellen
 "Even so, there was a
 time  when I did some
 pretty vicious things.<New>
@@ -122,7 +122,7 @@ I lived a life surrounded
 by people who looked at me
 with fear in their eyes."<Close><End of Block>
 <TextBlock 23 w:52 h:4>
-Krelian
+Karellen
 "But she was the only one
 who wasn't afraid of me.<Delay 15>
 She would just smile.<New>

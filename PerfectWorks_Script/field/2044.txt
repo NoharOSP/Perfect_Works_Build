@@ -25,10 +25,10 @@ No...<Delay 5>that's not you...!!<Delay 5>
 Who are you...?<Close><End of Block>
 <TextBlock 6 w:56 h:5>
 It can't be...!?<Delay 5>
-Is that you Krelian!?<Delay 5>
+Is that you, Karellen!?<Delay 5>
 That's right, isn't it...!?<Delay 10>
-Krelian!<Delay 10> It was you who did 
-this to Elly!<Close><End of Block>
+Karellen!<Delay 10> It was you who
+did this to Elly!<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 The 'Path of Sephirot' has
 been connected.<Delay 5>
@@ -94,7 +94,7 @@ with the love of God.<Close><End of Block>
 <TextBlock 14 w:54 h:3>
 I have not lost hope in
 humans as much as you have,
-Krelian...<New>
+Karellen...<New>
 Someday humankind will come
 to understand one another!
 I sincerely believe that!<Close><End of Block>
@@ -198,19 +198,19 @@ independent of God...<Close><End of Block>
 <TextBlock 21 w:18 h:2>
 Fei
 "Elly..."<Close><End of Block>
-<TextBlock 22 w:46 h:2>
+<TextBlock 22 w:48 h:2>
 Elly
 "Fei<Delay 10>...<New>
-It was Krelian...<Delay 10>
-Krelian released me..."<Close><End of Block>
-<TextBlock 23 w:26 h:2>
+It was Karellen...<Delay 10>
+Karellen released me..."<Close><End of Block>
+<TextBlock 23 w:28 h:2>
 Fei
-"Krelian...?"<Close><End of Block>
+"Karellen...?"<Close><End of Block>
 <TextBlock 24 w:54 h:4>
 Elly
 "Yes. I came to understand
 after becoming one with
-Krelian...<New>
+Karellen...<New>
 His heart was so full of
 sadness.<Delay 5> That is why he
 desired for he and I to
@@ -239,7 +239,7 @@ And he would have<Delay 5>...<Delay 10>
 just wanted to go back<Delay 5>...<Delay 10>
 Even though he couldn't<Delay 5>...<New>
 So please forgive him...<Delay 10>
-Krelian loved people more
+Karellen loved people more
 than anyone else..."<Close><End of Block>
 <TextBlock 25 w:50 h:4>
 Fei
@@ -293,7 +293,7 @@ I don't know if it's the
 right answer or not...<New>
 But we have a lot of time
 to think about it...<New>
-What Krelian himself was
+What Karellen himself was
 looking for all along...<Delay 10>
 We will find the answer to
 it all...ourselves..."<Close><End of Block>

@@ -68,7 +68,7 @@ I forgot my orders<Delay 30>...<New>
 Hmph<Delay 5>...<Delay 30>
 Oh well<Delay 5>...<Delay 30>
 To hell with
-Krelian's orders..."<Close><End of Block>
+Karellen's orders..."<Close><End of Block>
 <TextBlock 12 w:28 h:2>
 Fei
 "I refuse to!"<Close><End of Block>

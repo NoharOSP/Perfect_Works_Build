@@ -15,7 +15,7 @@ Ramsus
 Ramsus
 "Elehayym<Delay 5>?"<Close><End of Block>
 <TextBlock 6 w:50 h:4>
-Krelian
+Karellen
 "Yes.<Delay 10> This is the place.<Delay 10>
 I want you to
 bring her here.<New>
@@ -29,7 +29,7 @@ listen to you?<New>
 If you need her,
 go get her yourself!"<Close><End of Block>
 <TextBlock 8 w:46 h:5>
-Krelian
+Karellen
 "You're quite right.<Delay 10>
 But, can you say
 the same thing
@@ -38,7 +38,7 @@ after looking at this?"<Close><End of Block>
 Ramsus
 "Th,<Delay 10> this is<Delay 5>..."<Close><End of Block>
 <TextBlock 10 w:42 h:4>
-Krelian
+Karellen
 "Your Gear and the
 Vessel of Anima have 
 been aligned<Delay 5>...<Delay 10><New>
@@ -49,7 +49,7 @@ with Fei now."<Close><End of Block>
 Ramsus
 "What!?"<Close><End of Block>
 <TextBlock 12 w:52 h:4>
-Krelian
+Karellen
 "Losing those battles
 against Fei again and
 again<Delay 5>...<Delay 10><New>
@@ -68,7 +68,7 @@ you are truly 'trash'."<Close><End of Block>
 Ramsus
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 14 w:44 h:2>
-Krelian
+Karellen
 "Ramsus,<Delay 10> will you go?"<Close><End of Block>
 <TextBlock 15 w:44 h:2>
 Myyah
@@ -132,17 +132,16 @@ I knew you'd be there."<Close><End of Block>
 <TextBlock 26 w:20 h:2>
 Fei
 "Ramsus!?"<Close><End of Block>
-<TextBlock 27 w:34 h:3>
+<TextBlock 27 w:36 h:3>
 Ramsus
 "Turn Lt. Elehayym<Delay 10>
 over to me,<Delay 10> Fei!"<Close><End of Block>
-<TextBlock 28 w:50 h:4>
+<TextBlock 28 w:52 h:4>
 Fei
 "What!? Why do we have to
-turn Elly over to
-you...!?<New>
+turn Elly over to you...!?<New>
 Oh, I get it, it's
-Krelian's idea, isn't it?<New>
+Karellen's idea, isn't it?<New>
 I don't think so!
 You can't expect me
 to comply!"<Close><End of Block>

@@ -102,14 +102,14 @@ Erich
 The intruder fled.<New>
 My daughter has nothing
 to do with this!"<Close><End of Block>
-<TextBlock 26 w:44 h:4>
+<TextBlock 26 w:46 h:4>
 I can't, Lord Erich.<Delay 10>
 Turn your daughter 
 over to us.<Delay 10>
-Lord Krelian's orders.<Close><End of Block>
+Lord Karellen's orders.<Close><End of Block>
 <TextBlock 27 w:54 h:4>
 Erich
-"Lord Krelian?<Delay 10> What does
+"Lord Karellen?<Delay 10> What does
 he want with my daughter...<Delay 30>
 What?<New>
 You mean...<Delay 10>Gazel's...!"<Close><End of Block>
@@ -133,7 +133,7 @@ Erich
 "I'm perfectly fine!<Delay 10>
 Leave her alone!"<Close><End of Block>
 <TextBlock 34 w:52 h:3>
-Lord Krelian's orders are
+Lord Karellen's orders are
 the Emperor's orders.<New>
 You realize what'll
 happen to your rank
@@ -144,7 +144,7 @@ You'll be demoted to
 Erich
 "I know.<New>
 But even if it's Lord
-Krelian's order I will
+Karellen's order I will
 not allow my daughter to
 be Gazel's test subject.<New>
 Elly,<Delay 10> go!

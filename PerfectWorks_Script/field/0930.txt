@@ -73,7 +73,7 @@ complete authority
 over the Lambs.<Delay 60> 
 Dismissed.<Close><End of Block>
 <TextBlock 13 w:48 h:4>
-Stratski
+Strachey
 "This sucks Lieutenant.<New>
 How can we go along with
 this? What's he mean the
@@ -84,7 +84,7 @@ Elly
 "Be quiet!
 I'm thinking!"<Close><End of Block>
 <TextBlock 15 w:38 h:2>
-Stratski
+Strachey
 "Don't snap at me."<Close><End of Block>
 <TextBlock 16 w:52 h:2>
 Vance

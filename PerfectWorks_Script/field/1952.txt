@@ -1,5 +1,5 @@
 <TextBlock 1 w:32 h:4>
-Krelian
+Karellen
 "Hmm<Delay 5>...<Delay 15>
 'This time' your
 body is young."<Close><End of Block>
@@ -7,14 +7,14 @@ body is young."<Close><End of Block>
 "<Delay 5>...<Delay 5>The previous
 one got too old."<Close><End of Block>
 <TextBlock 3 w:36 h:2>
-Krelian
+Karellen
 "...<Delay 5>And the name?"<Close><End of Block>
 <TextBlock 4 w:46 h:3>
 "Karen<Delay 5>...<Delay 15>
 but individual names
 have no meaning to me."<Close><End of Block>
 <TextBlock 5 w:22 h:4>
-Krelian
+Karellen
 "So<Delay 5>...<Delay 5>
 what brings
 you here?"<Close><End of Block>
@@ -24,7 +24,7 @@ Karen
 the Nanoreactor there
 <Delay 5>...<Delay 5>the one?"<Close><End of Block>
 <TextBlock 7 w:46 h:4>
-Krelian
+Karellen
 "Huh?<Delay 5> Oh<Delay 5>...<Delay 15>
 Recogniton code
 0808191 - 'Ramses'.<New>
@@ -35,7 +35,7 @@ artificial 'Contact'."<Close><End of Block>
 Karen
 "What's its status?"<Close><End of Block>
 <TextBlock 9 w:54 h:4>
-Krelian
+Karellen
 "It has entered the so-
 called first growth stage.<New>
 From now until the binding,
@@ -47,7 +47,7 @@ development will be a
 little difficult to
 control<Delay 5>..."<Close><End of Block>
 <TextBlock 10 w:54 h:3>
-Krelian
+Karellen
 "It is a replica<Delay 5>...<Delay 5>
 so that is to be expected."<Close><End of Block>
 <TextBlock 11 w:32 h:3>
@@ -55,7 +55,7 @@ Karen
 "It is moving<Delay 5>...<Delay 15>
 Can it hear us?"<Close><End of Block>
 <TextBlock 12 w:34 h:4>
-Krelian
+Karellen
 "Yes<Delay 5>...<Delay 15>
 It already has a
 will of its own."<Close><End of Block>
@@ -70,7 +70,7 @@ Karen
 We have my child.<Delay 15> My child
 will be 4 this year."<Close><End of Block>
 <TextBlock 15 w:26 h:4>
-Krelian
+Karellen
 "Your having
 a child is<Delay 5>...<Delay 30>
 significant?"<Close><End of Block>
@@ -81,7 +81,7 @@ I checked it out...
 There is no mistake,
 it's a 'Contact'."<Close><End of Block>
 <TextBlock 17 w:36 h:2>
-Krelian
+Karellen
 "What's its name?"<Close><End of Block>
 <TextBlock 18 w:34 h:4>
 Karen
@@ -92,7 +92,7 @@ So<Delay 5>...<Delay 5>
 you understand
 what this means?"<Close><End of Block>
 <TextBlock 19 w:34 h:3>
-Krelian
+Karellen
 "A corresponding
 'Antitype' is<Delay 5>..."<Close><End of Block>
 <TextBlock 20 w:32 h:4>
@@ -104,7 +104,7 @@ born somewhere."<Close><End of Block>
 Karen
 "<Delay 5>...<Delay 5>The final one!"<Close><End of Block>
 <TextBlock 22 w:32 h:4>
-Krelian
+Karellen
 "Then<Delay 5>...<Delay 15>
 this thing is<Delay 5>...<Delay 5>
 worthless."<Close><End of Block>
@@ -126,14 +126,14 @@ Myyah
 humankind have been removed
 because of you."<Close><End of Block>
 <TextBlock 27 w:46 h:4>
-Krelian
+Karellen
 "But that doesn't mean
 there is anything wrong
 with our plan...<New>
 Everything is still
 under control."<Close><End of Block>
 <TextBlock 28 w:54 h:4>
-Krelian
+Karellen
 "In the event of the
 explosion in the capital
 of Solaris earlier...<New>
@@ -169,7 +169,7 @@ A literal virus<Delay 5>...<Delay 15>
 But<Delay 5>...<Delay 5>isn't it different
 from what they intended<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 30 w:52 h:4>
-Krelian
+Karellen
 "Of course.<Delay 15> We can't let
 them have it their way.<Delay 30>
 The 'Ark of god' is mine."<Close><End of Block>

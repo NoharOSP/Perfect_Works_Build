@@ -66,9 +66,9 @@ Hmm, the newest model
 anti-grav car, 'Roach'.<Delay 10> 
 The design needs a little
 work.<Close><End of Block>
-<TextBlock 14 w:50 h:4>
+<TextBlock 14 w:52 h:4>
 Did you hear the Emperor
-and Krelian's broadcast?<Delay 10> 
+and Karellen's broadcast?<Delay 10> 
 It was magnificent...<Delay 10><New>
 But that Ramsus is 
 unforgiveable.<Delay 10>
@@ -148,7 +148,7 @@ Two strange people were
 just being chased by 
 Security Cubes...<New>
 I wonder if they were the
-ones Krelian mentioned?<New>
+ones Karellen mentioned?<New>
 You're a 3rd Class citizen
 but you wouldn't do that,
 right?<Close><End of Block>

@@ -524,33 +524,28 @@ Jessie
 This is the place you
 insisted on returning to, 
 eh?"<Close><End of Block>
-<TextBlock 85 w:32 h:5>
+<TextBlock 85 w:32 h:4>
 Sigurd
 "Not quite... 
 Once I got back 
 to Av,<New>
-
 Mimil, Maison 
 and I went to 
 go save the 
 young master.<New>
-
 This ship just 
 so happened to 
 be docked in 
 Breidablik<New>
-
 at the time."<Close><End of Block>
 <TextBlock 86 w:36 h:4>
 Jessie
 "Mimil... That's 
 the guy who 
 raised you, right?<New>
-
 I'd say your 
 operation went 
 pretty well!<New>
-
 Anyway, after you 
 left, that Billy 
 cried y'know?"<Close><End of Block>
@@ -814,7 +809,7 @@ plan...<New>
 That was the 'Malakh' (M)
 Plan.<Delay 20>
 And it was done under the
-command of Krelian...<New>
+command of Karellen...<New>
 In order to proceed with
 the plan, many Lambs were
 gathered by the 'Church',

@@ -85,7 +85,7 @@ Right now,
 this research facility
 is the only place where
 we can get them removed!<New>
-Citan misled Krelian and
+Citan misled Karellen and
 the other guys and brought
 us in here to remove the
 Limiter!"<Close><End of Block>
@@ -139,7 +139,7 @@ danger."<Close><End of Block>
 <TextBlock 32 w:48 h:4>
 Billy
 "Citan, we're going to
-Krelian's private
+Karellen's private
 research lab as planned.<New>
 We'll meet up at
 the rendezvous point."<Close><End of Block>
@@ -192,15 +192,15 @@ That is..."<Close><End of Block>
 <TextBlock 38 w:48 h:4>
 Citan
 "Elly was taken to
-Krelian's research lab.
+Karellen's research lab.
 It could not be stopped.<New>
 I am sorry."<Close><End of Block>
 <TextBlock 39 w:52 h:4>
 Citan
 "I do not know...<New>
 But one thing bothers
-me...When Krelian took
-Elly,<New>
+me...<New>
+When Karellen took Elly,
 I had a chance to acquire
 Elly's cellular
 information.<New>
@@ -230,7 +230,7 @@ Citan
 "There must be more to it
 than that. I don't know
 the reason,<New>
-but Krelian is so
+but Karellen is so
 absorbed by her data."<Close><End of Block>
 <TextBlock 42 w:52 h:4>
 Citan
