@@ -41,7 +41,7 @@ exactly what I
 am working for.<New>
 I am leading the 
 people by 
-"my own means".
+'my own means'.
 That has not changed."<Close><End of Block>
 <TextBlock 7 w:20 h:3>
 Karellen
@@ -85,13 +85,12 @@ Citan
 "As you command.<New>
 Well then, 
 I will......"<Close><End of Block>
-<TextBlock 15 w:16 h:3>
+<TextBlock 15 w:32 h:3>
 Citan
-What is 
-it...?"<Close><End of Block>
+"What is it...?"<Close><End of Block>
 <TextBlock 16 w:46 h:3>
 Citan
-"...<Delay 32>and, what is their 
+"...<Delay 32>And, what is their 
 order...?"<Close><End of Block>
 <TextBlock 17 w:38 h:4>
 Citan
@@ -154,13 +153,12 @@ They desire a
 more immediate disposal.<New>
 That is not unreasonable.<Delay 32>
 He is the object of a 
-"fear" etched into 
+'fear' etched into 
 their memories"<Close><End of Block>
-<TextBlock 27 w:16 h:4>
+<TextBlock 27 w:28 h:4>
 Emperor
 "Yes. <Delay 12>
-It is 
-likely."<Close><End of Block>
+It is likely."<Close><End of Block>
 <TextBlock 28 w:32 h:3>
 Emperor
 "If that is your
@@ -170,18 +168,16 @@ done"<Close><End of Block>
 <TextBlock 29 w:36 h:2>
 Emperor
 "Wait a moment..."<Close><End of Block>
-<TextBlock 30 w:14 h:3>
+<TextBlock 30 w:26 h:3>
 Emperor
-"...I 
-see..."<Close><End of Block>
+"...I see..."<Close><End of Block>
 <TextBlock 31 w:36 h:3>
 Emperor
 "Their decision...<Delay 23>
 is handed down..."<Close><End of Block>
-<TextBlock 32 w:30 h:4>
+<TextBlock 32 w:32 h:4>
 Emperor
-"So this 
-is your 
+"So this is your
 conclusion...?"<Close><End of Block>
 <TextBlock 33 w:48 h:3>
 Emperor
@@ -189,16 +185,14 @@ Emperor
 You say it is possible?"<Close><End of Block>
 <TextBlock 34 w:38 h:3>
 Emperor
-"The contact is not
+"The Contact is not
 our enemy?"<Close><End of Block>
-<TextBlock 35 w:28 h:4>
+<TextBlock 35 w:40 h:4>
 Emperor
-"If he is, I 
-shall entrust 
-them to him.<New>
-That is all
-I can do to
-atone..."<Close><End of Block>
+"If he is, I shall
+entrust them to him.<New>
+That is all I can do 
+to atone..."<Close><End of Block>
 <TextBlock 36 w:30 h:3>
 Emperor Cain
 "Ramsus......
@@ -218,13 +212,12 @@ Emperor Cain
 "Karellen...!?
 You have sided
 with them!?"<Close><End of Block>
-<TextBlock 40 w:50 h:3>
+<TextBlock 40 w:52 h:3>
 Emperor Cain
 "Were you not working for
 the people's future...<New>
 for the continuation of 
-humanity?<New>
-That is why
+humanity? That is why
 I supported....."<Close><End of Block>
 <TextBlock 41 w:28 h:3>
 Emperor Cain
