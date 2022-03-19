@@ -287,7 +287,7 @@ Unless stated otherwise, the stat changed is HP.
 - Bladegash: 3000 to 10000
 - Bloody (Ethos Transport): HP 8888 Atk 75 to 100 
 - Giant Wels: HP 7000 to 14000 Atk 300 to 350
-- Throne: HP 2500 to 3000 
+- Throne: HP 2500 to 3000 Atk 80 to 120
 - Seraphita: HP 2000 to 2500 
 - Id: 3000 to 6666
 - Wyvern: HP 5000 to 28000 Atk 330 to 400 
@@ -307,7 +307,7 @@ Unless stated otherwise, the stat changed is HP.
 - Sufal: Agility 7 to 10 Eth 20 to 50 
 - Dominia: 4000 to 20000
 - Cherubina: 2500 to 15000
-- Throne: 2500 to 18000 Atk 80 to 120 Eth 40 to 80
+- Throne: HP 2500 to 18000 Eth 40 to 80
 - Seraphita: 2500 to 17000
 - G-Elements: HP 45000 to 60000 Def 600 to 300
 - Ophiomorphous: 25000 to 30000
