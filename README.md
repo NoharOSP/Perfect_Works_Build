@@ -312,7 +312,7 @@ Unless stated otherwise, the stat changed is HP.
 - G-Elements: HP 45000 to 60000 Def 600 to 300
 - Ophiomorphous: 25000 to 30000
 - Id Xenogears: HP 30400 to 60000 Atk 825 to 1000 Ether 90 to 150 
-- Alpha Weltall (Bethlehem): HP 15000 to 30000 Atk 800 Eth 150 
+- Alpha Weltall (Bethlehem): HP 15000 to 30000 Atk 650 to 800 Eth 100 to 150 
 - Deus: 75000 to 150000
 - Ouroboros: HP 50000 to 75000
 
