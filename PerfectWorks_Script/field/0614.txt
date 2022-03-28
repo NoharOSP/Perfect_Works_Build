@@ -1,57 +1,58 @@
 <TextBlock 1 w:56 h:3>
 The remote village of Lahan,
- in the outskirts of Av,
+ on the outskirts of Av,
 near the border with Kislev.<Opcode 2 160><Close><End of Block>
 <TextBlock 2 w:56 h:1>
 This is where it all begins.<Opcode 2 150><Close><End of Block>
 <TextBlock 3 w:68 h:12>
-The continent of Ignas, in the
-northern hemisphere of our world.<Delay 30>
-On this, the largest continent,
-a war has been raging between two
-countries for hundreds of years.<Delay 30>
+Ignas, the largest continent in 
+the world, sits in the northern 
+hemisphere.<Delay 30>
+Here, a war has been raging between 
+two countries for hundreds of years.<Delay 30>
 In the north of the continent lies
-the Kislev Empire, in the south
-lies the desert kingdom of Av.<Delay 30>
+the Kislev Empire; in the south
+lies the desert kingdom, Av.<Delay 30>
 The war has gone on for so long
 that the people have forgotten the
-cause, knowing only the pointless
-circle of hostility and tragedy.<Delay 200><Delay 200><Delay 200><Close><End of Block>
+cause and know only the pointless
+cycle of hostility and tragedy.<Delay 200><Delay 200><Delay 200><Close><End of Block>
 <TextBlock 4 w:68 h:12>
 The chronic war obsession was soon
 to encounter a devastating change.<Delay 30>
 This was due to the Church of the 
-Ethos,<Delay 10> an institution that 
-preserves our world's culture,<Delay 10> 
-repairing tools and weapons 
-excavated from the ruins of an 
-ancient civilization.<Delay 30>
-At once both countries excavated
+Ethos,<Delay 10> an institution 
+tasked with the preservation of 
+culture and history,<Delay 10> 
+beginning to repair tools and 
+weapons excavated from the ruins 
+of an ancient civilization.<Delay 30>
+Both countries began excavating
 these ruins, and had the Church
-repair the discoveries, in order
-to increase their military power.<Delay 200><Delay 220><Delay 220><Close><End of Block>
+repair the discovered artifacts in 
+order to bolster their military 
+power.<Delay 200><Delay 220><Delay 220><Close><End of Block>
 <TextBlock 5 w:68 h:10>
 The various weapons excavated from
-the ruins greatly changed the form
-of warfare.<Delay 30>
-The outcome of the battles between
+the ruins dramatically changed the 
+form of warfare.<Delay 30>
+The outcome of battles between
 the two countries was no longer
 determined by man-to-man combat,
-but by 'Gears'<Delay 10> - giant humanoid
-fighting machines -<Delay 10> that were
+but by Gears<Delay 10> -- giant humanoid
+fighting machines<Delay 10> that were
 obtained from deep within the
 ruins.<Delay 200><Delay 200><Delay 200><Close><End of Block>
 <TextBlock 6 w:68 h:12>
-Eventually,<Delay 10> after continuous
-swings in the state of the war,<Delay 10>
-Kislev gained the upper hand.<Delay 30>
-The major factor behind this lay
-in the enormous difference in the
-amount of resources buried within
+Eventually,<Delay 10> after both 
+fronts continually turned the tides,<Delay 10>
+Kislev finally gained the upper hand,<Delay 30>
+owing their success to a greater 
+wealth of resources buried within 
 their ruins.<Delay 30>
 But suddenly a mysterious military
-force appeared in the continent of
-Ignas.<Delay 20> Called 'Geburah', this 
+force appeared on the continent of
+Ignas.<Delay 20> Called Geburah, this 
 force decided to make contact 
 with Av.<Delay 200><Delay 200><Delay 200><Close><End of Block>
 <TextBlock 7 w:66 h:12>
@@ -61,9 +62,9 @@ able to recover from being
 hopelessly out-numbered to being 
 back on an even standing with 
 Kislev.<Delay 30> Then,<Delay 10> taking 
-further advantage of its newly 
+further advantage of its newly-
 gained momentum,<Delay 10> Av started 
-to capture one territory after 
-another from Kislev,<Delay 10> showing
+to annex Kislev territories one after 
+another<Delay 10> and showed
 no indication of slowing down in
 their invasion campaign.<Delay 200><Delay 220><Delay 220><Close><End of Block>
