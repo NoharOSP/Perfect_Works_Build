@@ -154,7 +154,7 @@ Oh, it's nothing.
 I'm sorry..."<Close><End of Block>
 <TextBlock 34 w:38 h:4>
 Alice
-"Oh, OK...<New>
+"Oh, okay...<New>
 Be careful on that
 mountain path.<Delay 20>
 And give my regards
