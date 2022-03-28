@@ -34,16 +34,16 @@ nothing in particular..."<Close><End of Block>
 <TextBlock 8 w:32 h:3>
 Fei
 "Hello, Yui.
-Where's doc...?"<Close><End of Block>
+Where's Doc...?"<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Fei
 "I should have guessed!
 Doesn't he ever get sick of
-playing with that stuff!"<Close><End of Block>
+playing with that stuff?"<Close><End of Block>
 <TextBlock 10 w:50 h:4>
 Fei
 "Well, okay then, I'll go
-out into the backyard and
+out into the back yard and
 see if I can find him."<Close><End of Block>
 <TextBlock 11 w:42 h:4>
 Fei
@@ -52,7 +52,7 @@ Yui, I found this on
 the mountain path...<New>
 Please use it to make
 a tasty egg dish for
-doc and Midori."<Close><End of Block>
+Doc and Midori."<Close><End of Block>
 <TextBlock 12 w:34 h:4>
 Fei
 "Hi, Midori.
@@ -83,7 +83,7 @@ instruments, I am afraid!"<Close><End of Block>
 Yui
 "My darling husband is
 probably tinkering with his
-junk out in the backyard...<New>
+junk out in the back yard...<New>
 Didn't you see him there?"<Close><End of Block>
 <TextBlock 17 w:36 h:4>
 Yui
@@ -100,12 +100,12 @@ Yui
 "Oh Fei, welcome."<Close><End of Block>
 <TextBlock 20 w:48 h:4>
 Yui
-"My husband is tinkering
-with his junk out in the
-backyard."<Close><End of Block>
+"My darling husband is
+probably tinkering with his
+junk out in the back yard...<New><Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Yui
-"Oh, what a nutritious
+"Oh, what a nutritious-
 looking egg!<Delay 20> Thank you.
 I'll use it for dinner."<Close><End of Block>
 <TextBlock 22 w:46 h:2>
