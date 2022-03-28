@@ -1,9 +1,9 @@
 <TextBlock 1 w:42 h:2>
 Fei
-"Where are you, doc?"<Close><End of Block>
+"Where are you, Doc?"<Close><End of Block>
 <TextBlock 2 w:42 h:2>
 Fei
-"W, what's going on?"<Close><End of Block>
+"Wh-What's going on?"<Close><End of Block>
 <TextBlock 3 w:30 h:4>
 Fei
 "Doc!!<Delay 20>
@@ -11,22 +11,22 @@ So that's where
 you were!"<Close><End of Block>
 <TextBlock 4 w:44 h:4>
 Fei
-"Are you alright, doc?<Delay 20>
+"Are you alright, Doc?<Delay 20>
 What are you doing all
 the way up there?"<Close><End of Block>
 <TextBlock 5 w:40 h:3>
 Fei
-"Okay, doc, I will.
+"Okay, Doc, I will.
 But please hurry up.<New>
 It will get dark
 before you know it."<Close><End of Block>
 <TextBlock 6 w:34 h:3>
 Fei
 "Well,
-good night, doc."<Close><End of Block>
+good night, Doc."<Close><End of Block>
 <TextBlock 7 w:50 h:3>
 Fei
-"What's wrong, doc?<New>
+"What's wrong, Doc?<New>
 There's nothing to worry
 about!<Delay 20> See you 
 tomorrow."<Close><End of Block>
@@ -49,10 +49,10 @@ Haha!..."<Close><End of Block>
 <TextBlock 11 w:52 h:4>
 Citan
 "Could you wait a while?<Delay 20>
-I am just about ready
+I'm just about ready
 to call it a day.<New>
-Oh, while you wait, there 
-is something interesting
+Oh, while you wait, there's 
+something interesting
 in the storeroom...<Delay 20>
 Why not take a look!?"<Close><End of Block>
 <TextBlock 12 w:36 h:2>
