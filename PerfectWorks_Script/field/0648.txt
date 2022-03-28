@@ -5,7 +5,7 @@ Fei
 "W-<Delay 30>What is this...?"<Close><End of Block>
 <TextBlock 3 w:42 h:3>
 Fei
-"So this is what doc
+"So this is what Doc
 was talking about.<New>
 Let me see...<Delay 30>
 what's so interesting
@@ -26,9 +26,10 @@ to have kept you waiting."<Close><End of Block>
 Citan
 "Music is a mysterious
 thing...<New>
-Sometimes, it makes people
-remember things that they
-do not expect.<New>
+Sometimes, it causes people
+to remember the things 
+they would never expect 
+to remember.<New>
 Many thoughts,
 feelings, memories... 
 things almost forgotten...<New>
@@ -38,7 +39,7 @@ remember them or not..."<Close><End of Block>
 <TextBlock 8 w:48 h:4>
 Citan
 "It was excavated from
-some old ruins, and is
+some old ruins and is
 still under repair.<New>
 Obviously it is an audio
 device of some kind."<Close><End of Block>
@@ -47,8 +48,8 @@ Citan
 "Long ago people would
 listen to this melody,
 just as we are doing now...<New>
-At times they may have
-been cheered up...
+At other times they may 
+have been cheered up...
 while at other times they
 may have been made to cry."<Close><End of Block>
 <TextBlock 10 w:48 h:3>
@@ -82,26 +83,25 @@ back in the house?"<Close><End of Block>
 Citan
 "Hahaha.
 Go right ahead.<New>
-But, I will not be
+But, I'll not be
 responsible if you get a
 stomach ache from Yui's 
 cooking."<Close><End of Block>
 <TextBlock 16 w:50 h:4>
 Citan
-"Perhaps you have 
+"Perhaps you've 
 heard it sometime in 
 the past...<New>
-It seems like a part 
-of your memories buried 
-deep within you wants 
-to resurface. <Close><End of Block>
+Perhaps a memory 
+buried deep within you 
+wishes to resurface. <Close><End of Block>
 <TextBlock 17 w:52 h:4>
 Citan
 "Is their wedding 
-really tomorrow?<New>
-It might actually be
-better to live an ordinary
-life, in this condition...<Delay 30>
+really tomorrow...?<New>
+If we could live like 
+this carefree, as children 
+of humankind...<Delay 30>
 As a son of man..."<Close><End of Block>
 <TextBlock 18 w:48 h:4>
 Citan
@@ -114,7 +114,7 @@ Citan
 <TextBlock 20 w:36 h:4>
 Citan
 "This cannot be...<Delay 60>
-Is...is this...
+I-Is this...
 an omen...?"<Close><End of Block>
 <TextBlock 21 w:36 h:4>
 Citan
@@ -144,7 +144,7 @@ you would ask."<Close><End of Block>
 <TextBlock 27 w:44 h:3>
 Fei
 "Okay.
-Take your time, doc.<New>
+Take your time, Doc.<New>
 I'll go ahead and eat
 when dinner is ready!"<Close><End of Block>
 <TextBlock 28 w:46 h:4>
