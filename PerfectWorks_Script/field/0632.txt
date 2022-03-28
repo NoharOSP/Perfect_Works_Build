@@ -16,9 +16,9 @@ Fei
 "Hey, uh, Timothy.
 I just want to thank
 both you and Alice...<New>
-3 years ago, I woke up
-here in Lahan without a 
-trace of my memories...<New>
+three years ago, I woke 
+up here in Lahan without 
+a trace of my memories...<New>
 I didn't know who I was,
 where I had been or what
 I had been doing up until
@@ -55,9 +55,10 @@ looking forward to the
 ceremony tomorrow."<Close><End of Block>
 <TextBlock 8 w:44 h:4>
 Fei
-"Why, hello there Dan!<Delay 20>
-You're lively today...
-as you are everyday!"<Close><End of Block>
+"Why, hello there, Dan!<Delay 20>
+You're looking lively 
+today...<New> 
+as you do every day!"<Close><End of Block>
 <TextBlock 9 w:38 h:3>
 Fei
 "What is it, Dan?<Delay 20>
@@ -102,9 +103,9 @@ Timothy
 You don't have to go and
 get all mushy on me...<New>
 Anyway, to me it feels
-like I've always been
-friends with you ever
-since we were kids."<Close><End of Block>
+like we've always been
+friends since we were 
+kids."<Close><End of Block>
 <TextBlock 16 w:48 h:3>
 Timothy
 "And we will go on being
@@ -170,7 +171,7 @@ We gotta talk,<Delay 20> seriously,<Delay 20>
 one-on-one, man-to-man!<New>
 I'll be hanging around
 outside. So I'll see
-ya there later, OK!"<Close><End of Block>
+ya there later, okay?"<Close><End of Block>
 <TextBlock 26 w:46 h:4>
 Dan
 "Be seein' ya, Timothy!<Delay 30>
