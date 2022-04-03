@@ -35,12 +35,12 @@ Citan
 "Just as I thought...<New>
 Gears making an emergency 
 landing in Lahan, a pilot 
-who disappeared,<New> 
+who disappeared,<New>
 and at the same time a 
 mysterious girl wandering 
 in the forest...<New>
 These are no mere 
-oincidences.<New>
+coincidences.<New>
 Judging from your uniform,
 I would also say you are
 with the Geburah military.<New>
@@ -147,7 +147,8 @@ I will just tell him
 came for you."<Close><End of Block>
 <TextBlock 27 w:40 h:4>
 Elly
-"It's not about that!
+"It's not 
+about that!<New>
 I said something
 terrible to Fei...<New>
 So... I want to...
@@ -172,7 +173,7 @@ of responsibility."<Close><End of Block>
 <TextBlock 30 w:54 h:4>
 Elly
 "If I hadn't crash-landed
-in that village,<New> 
+in that village,<New>
 it would have remained a 
 peaceful place.<New>
 All those innocent people
@@ -199,12 +200,13 @@ death as they see fit...'"<Close><End of Block>
 <TextBlock 33 w:50 h:4>
 Citan
 "Exactly. Yet you feel 
-a responsiblity to Fei 
+a responsibility to Fei 
 and the villagers.<New>
 Why is that?"<Close><End of Block>
 <TextBlock 34 w:46 h:3>
 Elly
-"I don't know, myself...<New>
+"I don't know, 
+myself...<New>
 At Jugend I was taught
 that surface dwellers
 were stupid and base...<New>
@@ -236,7 +238,7 @@ to Fei.<Close><End of Block>
 <TextBlock 38 w:52 h:4>
 Elly
 "I think maybe it's my 
-father's influence.<New> 
+father's influence.<New>
 He had an open mind about 
 surface dwellers.<New>
 My nanny... was a surface
@@ -266,7 +268,7 @@ much...."<Close><End of Block>
 <TextBlock 42 w:40 h:4>
 Citan
 "Anyway, as things 
-stand<New> 
+stand<New>
 it is probably best
 if you return home
 to your country.<New>
