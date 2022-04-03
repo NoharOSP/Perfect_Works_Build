@@ -2,7 +2,7 @@
 Citan
 "It is no use. The knee
 actuator and bypass
-circuit are both ruined.<New>
+circuit are both kaput.<New>
 The actuator can be fixed,
 but the circuit needs 
 to be replaced..."<Close><End of Block>
@@ -15,29 +15,32 @@ Elly
 "Yeah..."<Close><End of Block>
 <TextBlock 4 w:52 h:3>
 Citan
-"I imagine you would.
-You have had quite a day."<Close><End of Block>
+"I imagined you would.
+You've had quite a day."<Close><End of Block>
 <TextBlock 5 w:54 h:3>
 Citan
 "This is the machine Fei
-used during the battle.<New>
-There was another machine
-left sitting on the
-outskirts of the village...<New>
-Nil bayer dars legus?
+boarded when Lahan was
+attacked.<New>
+Speaking of which, there
+was one other machine,
+abandoned on the outskirts 
+of the village...<New>
+Nil baya dars legus?
 (It was yours, right?)"<Close><End of Block>
 <TextBlock 6 w:2 h:1>
 !<Opcode 2 20><Close><End of Block>
 <TextBlock 7 w:54 h:4>
 Citan
 "Just as I thought...<New>
-The missing pilot from the
-Gear that made an emergency
-landing in Lahan...<New>
-...and the mysterious woman
-found wandering lost in the
-forest...are actually one
-and the same person.<New>
+Gears making an emergency 
+landing in Lahan, a pilot 
+who disappeared,<New> 
+and at the same time a 
+mysterious girl wandering 
+in the forest...<New>
+These are no mere 
+oincidences.<New>
 Judging from your uniform,
 I would also say you are
 with the Geburah military.<New>
@@ -60,14 +63,14 @@ the same."<Close><End of Block>
 !<Close><End of Block>
 <TextBlock 11 w:48 h:3>
 Citan
-"Do not worry, they were
+"Don't worry, they were
 given proper burials.<New>
-But, they may not have
-been too pleased to die
-in a foreign land."<Close><End of Block>
+Although, they may not 
+be too happy since this 
+is foreign soil."<Close><End of Block>
 <TextBlock 12 w:22 h:2>
 Elly
-"...Maybe."<Close><End of Block>
+"I see..."<Close><End of Block>
 <TextBlock 13 w:30 h:3>
 Citan
 "Does Fei know 
@@ -75,114 +78,116 @@ about you?"<Close><End of Block>
 <TextBlock 14 w:36 h:3>
 Elly
 "I don't think he
-has realized yet."<Close><End of Block>
+realizes."<Close><End of Block>
 <TextBlock 15 w:48 h:4>
 Citan
-"Most likely...
-Fei knows nothing of the
+"Most likely not...
+Fei knows little of the
 world outside of Lahan."<Close><End of Block>
 <TextBlock 16 w:30 h:3>
 Elly
-"I see...
-So how come..."<Close><End of Block>
+"Um..."<Close><End of Block>
 <TextBlock 17 w:54 h:4>
 Citan
-"...In any case, it is best
-if we do not pry into each
-other's pasts anymore."<Close><End of Block>
+"...Well, it is fine. Let 
+us not pry too deeply into 
+each other's pasts."<Close><End of Block>
 <TextBlock 18 w:16 h:2>
 Elly
 "But..."<Close><End of Block>
 <TextBlock 19 w:48 h:4>
 Citan
-"Let us just say that I
+"Suffice it to say that I
 know a little more about
-the world than most do."<Close><End of Block>
+the world than most."<Close><End of Block>
 <TextBlock 20 w:42 h:4>
 Citan
 "Anyway, Elly...
 I have a favor I must
-beg you..."<Close><End of Block>
+beg of you..."<Close><End of Block>
 <TextBlock 21 w:32 h:2>
 Elly
 "...What is it?"<Close><End of Block>
 <TextBlock 22 w:54 h:3>
 Citan
-"Go straight ahead and
-you will come to a road.<New>
-Then just keep going...
+"If you go straight ahead 
+from here you will reach 
+the main path.<New>
+Then, just keep going...
 Would you please leave us
 while Fei is still asleep?"<Close><End of Block>
 <TextBlock 23 w:4 h:1>
 !?<Close><End of Block>
 <TextBlock 24 w:50 h:4>
 Citan
-"Unfortunate things keep
-happening around Fei.<New>
+"I have a feeling that
+bad things are happening 
+around Fei for a reason.<New>
 I would like to protect
 him if possible...
-I do not want him caught
-up in any vain struggles.<New>
-I am also saying this for
-your benefit.
+I don't want him caught
+up in a needless conflict.<New>
+I am saying this for your 
+benefit, too:
 Elly, you do not belong
-here.<New>
-Go back to your family."<Close><End of Block>
+in this place.<New>
+Go home to your people."<Close><End of Block>
 <TextBlock 25 w:22 h:2>
 Elly
-"Um...I..."<Close><End of Block>
+"Um... I..."<Close><End of Block>
 <TextBlock 26 w:48 h:4>
 Citan
-"Do not worry.
-I will not tell Fei what
-your true identity is.<New>
-I will...just tell him
-you went to meet up
-with your family..."<Close><End of Block>
+"Do not worry.<New>
+I will not do anything 
+that would reveal your
+your true identity to
+Fei.<New>
+I will just tell him
+... that your family
+came for you."<Close><End of Block>
 <TextBlock 27 w:40 h:4>
 Elly
-"No, it is not that!
-I did something
-terrible to him...<New>
-So...I want to...
-apologize."<Close><End of Block>
+"It's not about that!
+I said something
+terrible to Fei...<New>
+So... I want to...
+tell him... that I'm
+sorry."<Close><End of Block>
 <TextBlock 28 w:42 h:2>
 Citan
 "Something terrible?"<Close><End of Block>
 <TextBlock 29 w:44 h:4>
 Elly
-"Fei told me it was
-our fault your village
-was destroyed.<New>
-Fei kept saying...
+"Fei told me that us 
+showing up ultimately 
+got Lahan destroyed.<New>
+He kept saying...
  'If only they
   hadn't come...'<New>
-Then, I called Fei a
-coward because he was
-trying to escape from
-the responsibility...<New>
-But in fact it was
-me who was trying to
-escape from taking
-the blame..."<Close><End of Block>
+Because of that, I 
+called Fei a coward<New>
+for just wanting to 
+escape his own burden 
+of responsibility."<Close><End of Block>
 <TextBlock 30 w:54 h:4>
 Elly
 "If I hadn't crash-landed
-there, they would all still
-be living peacefully now.<New>
+in that village,<New> 
+it would have remained a 
+peaceful place.<New>
 All those innocent people
-wouldn't have been caught
-up in that tragedy.
-But I accused Fei..."<Close><End of Block>
+wouldn't have gotten 
+involved. Yet... I 
+accused Fei..."<Close><End of Block>
 <TextBlock 31 w:54 h:4>
 Citan
-"You are a rarity. I did
-not expect your people
-would ever think like that.<New>
-To your people, surface
-dwellers are nothing more
-than domesticated animals,
-are they not...?"<Close><End of Block>
+"You are a rarity. The 
+people 'there' are not 
+supposed to think that way.<New>
+To them, surface dwellers 
+are nothing more than 
+domesticated animals, are 
+they not...?"<Close><End of Block>
 <TextBlock 32 w:54 h:4>
 Elly
 "'The Shepherds, the 
@@ -193,57 +198,59 @@ right to ordain life or
 death as they see fit...'"<Close><End of Block>
 <TextBlock 33 w:50 h:4>
 Citan
-"Exactly. Yet you seem to
-feel responsiblity toward
-Fei and the villagers.<New>
+"Exactly. Yet you feel 
+a responsiblity to Fei 
+and the villagers.<New>
 Why is that?"<Close><End of Block>
 <TextBlock 34 w:46 h:3>
 Elly
-"I don't know myself...<New>
+"I don't know, myself...<New>
 At Jugend I was taught
 that surface dwellers
 were stupid and base...<New>
-...And that is why we
-have to control them...<Delay 20>
+... Hence the need for 
+us to control them...<Delay 20>
 But..."<Close><End of Block>
 <TextBlock 35 w:48 h:4>
 Citan
 "But upon meeting Fei,
 something about him made
-you feel differently?"<Close><End of Block>
+you feel otherwise?"<Close><End of Block>
 <TextBlock 36 w:48 h:4>
 Elly
 "Yes. He's no different
-than we are...in fact he
-seemed more powerful.<New>
+than we are... In fact, 
+he seemed even tougher.<New>
 He has something...
-...something we don't.<Delay 10>
-He also risked his life
-to save me...twice."<Close><End of Block>
+... Something we don't.<Delay 10><New>
+He also put himself at 
+risk twice fighting for 
+me, of all people."<Close><End of Block>
 <TextBlock 37 w:50 h:4>
 Citan
-"Most of your people
-would feel ashamed at
-receiving such a favor,<New>
-and yet, you are grateful
-to Fei...?"<Close><End of Block>
+"Your people would 
+normally feel dishonored 
+by such a deed.<New>
+But you are grateful
+to Fei.<Close><End of Block>
 <TextBlock 38 w:52 h:4>
 Elly
-"It's probably because of
-my father. He had an open
-mind to surface dwellers.<New>
-My nanny was...a surface
+"I think maybe it's my 
+father's influence.<New> 
+He had an open mind about 
+surface dwellers.<New>
+My nanny... was a surface
 dweller. No one knew about
-her though...<New>
-Besides...
-I am the same as Fei..."<Close><End of Block>
+that though...<New>
+And also...
+Fei and I are alike..."<Close><End of Block>
 <TextBlock 39 w:22 h:2>
 Citan
-"The same?"<Close><End of Block>
+"How so?"<Close><End of Block>
 <TextBlock 40 w:28 h:3>
 Elly
 "No, nothing. 
-Nevermind..."<Close><End of Block>
+Never mind..."<Close><End of Block>
 <TextBlock 41 w:54 h:4>
 Citan
 "Hmm. I think I understand.
@@ -253,15 +260,18 @@ It is my nature, you know?
 My wife says I am too
 persistent and that I
 talk too much,<New>
-but, personally, I
-disagree."<Close><End of Block>
+But personally, I
+don't think it is that 
+much...."<Close><End of Block>
 <TextBlock 42 w:40 h:4>
 Citan
-"It is probably best
+"Anyway, as things 
+stand<New> 
+it is probably best
 if you return home
 to your country.<New>
-You really should
-not be here."<Close><End of Block>
+You really shouldn't 
+be here."<Close><End of Block>
 <TextBlock 43 w:34 h:4>
 Elly
 "I'll return to
@@ -275,14 +285,15 @@ Elly
 "Yes..."<Close><End of Block>
 <TextBlock 46 w:48 h:4>
 Citan
-"Worrying is natural...
- 'Even I used to worry
-  once too, you know!?'"<Close><End of Block>
+"I can understand why.
+ 'I, too, was like that
+  once'."<Close><End of Block>
 <TextBlock 47 w:28 h:2>
 Elly
-"Oh, Citan..."<Close><End of Block>
+"Citan, will
+you promise..."<Close><End of Block>
 <TextBlock 48 w:46 h:4>
 Citan
-"Anyway, let me handle
-what to tell Fei...
+"I will be tactful
+when I tell Fei...
 You had better go now."<Close><Close><End of Block>
