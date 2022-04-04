@@ -2,7 +2,7 @@
 Margie
 "Wow!
 It's been such a long
-time since I left here."<Close><End of Block>
+time!"<Close><End of Block>
 <TextBlock 2 w:46 h:3>
 Citan
 "Well...<New>
@@ -29,7 +29,7 @@ Pull yourself together,
 old man!"<Close><End of Block>
 <TextBlock 6 w:52 h:4>
 Maison
-"F...<Delay 10>forgive me.
+"F-<Delay 10>Forgive me.
 How terribly embarrassing!<Delay 10>
 I couldn't help it..."<Close><End of Block>
 <TextBlock 7 w:48 h:4>
@@ -72,17 +72,20 @@ Bart
 I'm alright!"<Close><End of Block>
 <TextBlock 11 w:58 h:4>
   Sigurd
-  "Etemenanki, the captial
-  of the Solaris empire is
+  "Etemenanki, the Captial
+  of the Solaris Empire, is
   located in the skies above.<New>
   Solaris is separated from
   the land by dimensional
   distortion fields known
   as 'Gates'.<New>
-  Passing between the two
-  requires special means of
-  transportation...<Delay 30>
-  such as an airship."<Close><End of Block>
+  Travel to and from the 
+  surface is impossible 
+  without the use of 
+  transport such as an 
+  airship,<Delay 30>
+  outfitted with particular 
+  equipment..."<Close><End of Block>
 <TextBlock 12 w:58 h:4>
   Sigurd
   "We were placed in key
@@ -94,11 +97,11 @@ I'm alright!"<Close><End of Block>
   surface dwellers."<Close><End of Block>
 <TextBlock 13 w:50 h:2>
   Bart
-  "The...<Delay 30>'Lambs'...right?<Close><End of Block>
+  "The...<Delay 30>Lambs...right?<Close><End of Block>
 <TextBlock 14 w:68 h:4>
        Sigurd
        "They weren't just using us
-       Lambs for slave labor...<New>
+       for slave labor...<New>
        They also selected some of
        us, like me, to be used as
        subjects in experiments to
@@ -117,7 +120,7 @@ I'm alright!"<Close><End of Block>
   Experimenting on humans?"<Close><End of Block>
 <TextBlock 16 w:44 h:2>
   Sigurd
-  "Yes, for example...<Close><End of Block>
+  "Yes. For example...<Close><End of Block>
 <TextBlock 17 w:44 h:1>
                'Drive'<Close><End of Block>
 <TextBlock 18 w:60 h:4>
@@ -246,7 +249,7 @@ picking on me for?"<Close><End of Block>
 <TextBlock 40 w:54 h:4>
 Citan
 "No I am not picking on you
-or blaming anything on you.
+or blaming you for anything.
 What I am saying is this...<New>
 If you think about how he
 feels, then you should see
@@ -285,10 +288,10 @@ one another pretty well."<Close><End of Block>
 Citan
 "Well it is not like we are
 newly acquainted, is it?<New>
-And we had talked about a
-lot of things up until we
-decided to escape from
-Solaris."<Close><End of Block>
+And we had talked about
+many things in the lead 
+up to our decision to 
+escape from Solaris."<Close><End of Block>
 <TextBlock 44 w:44 h:4>
 Bart
 "Speaking of that...
