@@ -47,7 +47,7 @@ Someone's coming downstairs.<Delay 10>
 <Delay 5>...<Delay 5>I guess it'll be Hammer."<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Citan
-"We do not have such 
+"We don't have such 
 time to spare!<Delay 15>
 We have got to hurry<Delay 5>..."<Close><End of Block>
 <TextBlock 13 w:56 h:4>
@@ -123,7 +123,7 @@ Doctor
 This patient has only just awoke!<New>
 It is unthinkable that you would
 try and suddenly carry out your 
-'Baptismal Ceremony' on him!!!"<Close><End of Block>
+Baptismal Ceremony on him!!!"<Close><End of Block>
 <TextBlock 25 w:48 h:4>
 Doctor
 "I am so sorry!<Delay 10> I can't
@@ -140,18 +140,18 @@ you too keep up the fight!
 As I promised at Noatun<Delay 5>...<Delay 5>
 that's what I will do!"<Close><End of Block>
 <TextBlock 27 w:56 h:5>
-Suzarn
+Suzanne
 "Oh look, what good timing!
 Prince Charming has woke up!<Delay 30>
 This may be sudden, but you
 have to come along with us!"<Close><End of Block>
 <TextBlock 28 w:58 h:4>
-Suzarn
+Suzanne
 "You don't have a choice in
 this!<Delay 15> If you oppose us, the
 fair doctor will cop it too!"<Close><End of Block>
 <TextBlock 29 w:52 h:4>
-Suzarn
+Suzanne
 "Oh, what a sensible lad!
 That saves us a bit of
 trouble.<New>
@@ -160,10 +160,10 @@ the 'Champ' is waiting!
 And don't worry! We'll
 let you return here soon."<Close><End of Block>
 <TextBlock 30 w:36 h:2>
-Suzarn
+Suzanne
 "Hurry up then<Delay 5>..."<Opcode 2 45><Close><End of Block>
 <TextBlock 31 w:38 h:2>
-Suzarn
+Suzanne
 "Fo-rwa-rd ma-rch!"<Opcode 2 45><Close><End of Block>
 <TextBlock 32 w:52 h:4>
 Vargas
