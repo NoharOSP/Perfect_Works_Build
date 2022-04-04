@@ -1,11 +1,12 @@
 <TextBlock 1 w:38 h:2>
 Fei!
-A Geburah Gear unit!<Close><End of Block>
+A Geburah Gear 
+unit!<Close><End of Block>
 <TextBlock 2 w:42 h:2>
 Fei
 "Let me handle this!"<Close><End of Block>
 <TextBlock 3 w:18 h:1>
-B, but...<Close><End of Block>
+B-But...<Close><End of Block>
 <TextBlock 4 w:48 h:4>
 Fei
 "We don't have time!<New>
@@ -14,12 +15,12 @@ here, Bart's team is
 already on their way
 to the castle. Hurry!"<Close><End of Block>
 <TextBlock 5 w:18 h:1>
-R, roger.<Close><End of Block>
+R-Roger.<Close><End of Block>
 <TextBlock 6 w:26 h:4>
 Elly
 "That Gear!?
 No...<New>
-please don't 
+Please don't 
 tell me it's 
 Fei!?"<Close><End of Block>
 <TextBlock 7 w:42 h:3>
@@ -53,7 +54,8 @@ Vance
 "Get outta the way."<Close><End of Block>
 <TextBlock 14 w:46 h:4>
 Elly
-"Y, all of you! Hold!
+"You... All of you! 
+Hold!<New>
 I haven't given out any
 orders to attack yet!"<Close><End of Block>
 <TextBlock 15 w:26 h:2>
@@ -74,9 +76,9 @@ Rank
 Get a hold of yourself!"<Close><End of Block>
 <TextBlock 19 w:44 h:2>
 Vance
-"Oh yeah!?<New>
+"Is that it!?<New>
 I just need more!
-I need more 'Drive'!!"<Close><End of Block>
+I need more Drive!!"<Close><End of Block>
 <TextBlock 20 w:36 h:4>
 Elly
 "...<Delay 20>I can't do it.
@@ -85,14 +87,15 @@ Fei...but..."<Close><End of Block>
 <TextBlock 21 w:48 h:5>
 Elly
 "I can do it<Delay 20>
-if I use the 'Drive'...<Delay 30>
+if I use the Drive...<Delay 30>
  
          <Opcode 14 2>But..."<Delay 250><Close><End of Block>
 <TextBlock 22 w:52 h:4>
 Rank
-"Don't!
-Anymore 'Drive' and you'll
-waste your mind!!"<Close><End of Block>
+"Don't!<New>
+Any more Drive and 
+you'll waste your 
+mind!!"<Close><End of Block>
 <TextBlock 23 w:52 h:3>
 Vance
 "I don't care! I'm already
