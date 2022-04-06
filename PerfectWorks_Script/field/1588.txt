@@ -257,7 +257,7 @@ There might be something
 around here."<Close><End of Block>
 <TextBlock 62 w:46 h:3>
 Bart
-"All right, this should
+"Okay, this should
 work."<Close><End of Block>
 <TextBlock 63 w:46 h:3>
 Margie
