@@ -235,7 +235,7 @@ It wouldn't surprise me if
 there was some connection."<Close><End of Block>
 <TextBlock 58 w:54 h:5>
 Bart
-"Yeah well...<Delay 30>
+"Yeah well...<Delay 30><New>
 Looks like there's no power
 drawn here except for the
 emergency lights."<Close><End of Block>
@@ -391,8 +391,8 @@ Bart
 Citan
 "Apparently, the Omnigear
 does not function by
-mechanical controls, but
-mental ones.<New>
+mechanical controls,<New> 
+but mental ones.
 Remember how Elly and the
 Omnigear in Shevat
 responded?"<Close><End of Block>
