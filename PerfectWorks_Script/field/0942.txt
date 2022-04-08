@@ -72,12 +72,13 @@ an elite from out
 of Jugend."<Close><End of Block>
 <TextBlock 18 w:48 h:4>
 Strachey
-"She returned single-
-handedly from the Kislev
+"Apparently, she 
+scurried back alone<New>
+from the Kislev
 infiltration operation."<Close><End of Block>
 <TextBlock 19 w:46 h:4>
 Helmholtz
-"And 'empty-handedly' I
+"And empty-handed, I
 hear! No souvenirs for
 the Commander, huh?"<Close><End of Block>
 <TextBlock 20 w:38 h:4>
@@ -95,7 +96,7 @@ Remember your rank!"<Close><End of Block>
 Rank
 "Oh, scary!"<Close><End of Block>
 <TextBlock 23 w:48 h:4>
-Vance
+Franz
 "We don't care much for
 rank<Delay 5>...<Delay 5>and we don't care
 much for 'Rank' either!<New>
@@ -107,7 +108,7 @@ Breuer
 "Ha! This jerk's
 just jealous."<Close><End of Block>
 <TextBlock 25 w:50 h:3>
-Vance
+Franz
 "What? I'm much prettier!
 How could I be jealous?"<Close><End of Block>
 <TextBlock 26 w:48 h:3>
@@ -124,11 +125,10 @@ Elly
 "..."<Opcode 2 100><Close><End of Block>
 <TextBlock 29 w:44 h:3>
 Rank
-"...Anyway, let's just
-get this thing moving.<New>
-Can't tell what it can
-do just by looking at
-it."<Close><End of Block>
+"...Anyway, for now let 
+her get to work.<New>
+Can't judge her on 
+appearance alone."<Close><End of Block>
 <TextBlock 30 w:48 h:4>
 Strachey
 "What kind of machine is
@@ -139,16 +139,17 @@ Rank
 "It's a new model Gear,
 called <Vierge>, that's
 for officers' use only.<New>
-It's said that people
-with normal mental
-power can't operate it."<Close><End of Block>
+Apparently, what that 
+really means is average 
+Ether ability isn't enough 
+to even get it running."<Close><End of Block>
 <TextBlock 32 w:44 h:4>
 Strachey
-"So, she's still a
-'Jugend' regardless
-of having no ability?"<Close><End of Block>
+"So, useless as she 
+may be...she's still 
+Jugend, eh?"<Close><End of Block>
 <TextBlock 33 w:42 h:4>
-Vance
+Franz
 "Hah, this looks like
 fun. Let's see what
 she can do!"<Close><End of Block>
