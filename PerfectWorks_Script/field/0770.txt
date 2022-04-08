@@ -3,13 +3,13 @@
 <TextBlock 2 w:18 h:1>
 <Opcode 1 255>Sis...<!><!><Opcode 2 30><Close><End of Block>
 <TextBlock 3 w:38 h:3>
-Vance
+Franz
 "Where do you think
 you're going?"<Opcode 2 60><Close><End of Block>
 <TextBlock 4 w:28 h:1>
 St, stop it...<Opcode 2 30><Close><End of Block>
 <TextBlock 5 w:54 h:4>
-Vance
+Franz
 "How admirable...<Delay 30>
 Now what kind of sound will
 you make when I do this?"<Opcode 2 60><Close><End of Block>
@@ -19,7 +19,7 @@ Wha!?<Close><End of Block>
 Fei
 "Why are you fighting?"<Close><End of Block>
 <TextBlock 8 w:42 h:3>
-Vance
+Franz
 "You, <Delay 10>
 what are you doing!?"<Close><End of Block>
 <TextBlock 9 w:40 h:3>
