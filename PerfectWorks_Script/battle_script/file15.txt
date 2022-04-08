@@ -1,6 +1,6 @@
 <TextBlock 1 w:16 h:2>
 Elly
-"No---!"<Close><End of Block>
+"Noooo!"<Close><End of Block>
 <TextBlock 2 w:42 h:4>
 Fei
 "...That voice!?<Delay 10>
@@ -91,10 +91,11 @@ It's divine
 providence!<New>
 We are the chosen
 people...<New>
-Our purpose of existence
-is to subordinate
-the earth dwelling
-'Lambs'.<New>
+The purpose of our 
+existence<New> 
+is to subordinate 
+the earth-dwelling
+Lambs.<New>
 ...Those who stand
 in our way must be
 eliminated!"<Close><End of Block>
@@ -140,14 +141,14 @@ I<Delay 20>...<Delay 20> No<Delay 20>...<Delay 20>I<Delay 20>...<Delay 20>don't<
 want<Delay 20> this...<Delay 20> Guh!"<Close><End of Block>
 <TextBlock 22 w:40 h:4>
 Elly
-"H,<Delay 20> hel...<Delay 20>p...<Delay 20>
-Th,<Delay 20> this<Delay 20>... isn't...<Delay 20>
+"H<Delay 20>...<Delay 20>help...<Delay 20>
+Th-<Delay 20>This<Delay 20>... is wrong...<Delay 20>
 This isn't<Delay 20>...<Delay 20> me..."<Close><End of Block>
 <TextBlock 23 w:28 h:4>
 Elly
 "Uhh!...<Delay 10>
 Aagh<Delay 10>...<Delay 20> Ah...<Delay 10>
-M,<Delay 10> my head..."<Close><End of Block>
+M-<Delay 10>My head..."<Close><End of Block>
 <TextBlock 24 w:34 h:3>
 Elly
 "Ugh!...<Delay 30> Silence!
@@ -159,12 +160,12 @@ Elly
 "Uuahh!"<Close><End of Block>
 <TextBlock 26 w:38 h:3>
 Elly
-"Sh,<Delay 10> shut up!<New>
+"Sh-<Delay 10>Shut up!<New>
 I've no need for
 outward appearances
 of compassion.<New>
-...<Delay 20>I,<Delay 20> I, ...<Delay 20> erh<Delay 20>
-F<Delay 20>...<Delay 20>Fe...<Delay 20>i...<Delay 20>"<Close><End of Block>
+...<Delay 20>I<Delay 20>...<Delay 20> erh<Delay 20>
+F<Delay 20>...<Delay 20>Fe<Delay 20>i...<Delay 20>"<Close><End of Block>
 <TextBlock 27 w:38 h:3>
 Breuer
 "Wow!
@@ -173,7 +174,7 @@ Did you see that?!"<Close><End of Block>
 Rank
 "Those were Aerods!"<Close><End of Block>
 <TextBlock 29 w:18 h:2>
-Vance
+Franz
 "Aerods?"<Close><End of Block>
 <TextBlock 30 w:46 h:4>
 Helmholtz
@@ -188,19 +189,19 @@ using them...<New>
 From what I hear,
 it should only be
 people from the
-Elements Class."<Close><End of Block>
+Elements class."<Close><End of Block>
 <TextBlock 31 w:44 h:4>
 Strachey
-"B, but isn't it like,
-a side effect of the
-'Drive'?<New>
+"B-But isn't it like,
+a secondary effect of 
+Drive?<New>
 It's no big deal,
 right...?"<Close><End of Block>
 <TextBlock 32 w:44 h:5>
 Rank
-"...No, the Drive can
+"...No. Drive can
 only draw upon the
 potential that already
 exists in her.<New>
-Your looking at...
-the real thing boys!"<Close><Close><Close><Close><Close><End of Block>
+Your looking at
+the real thing, boys!"<Close><Close><Close><Close><Close><End of Block>
