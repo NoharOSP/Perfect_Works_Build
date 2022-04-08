@@ -1,8 +1,8 @@
 <TextBlock 1 w:56 h:5>
-...The number one gate
-generator is 200 kelt
+...The number one Gate
+generator is 200 kelts
 southwest of Noatun and
-4000 sharl underground.<New>
+4000 sharls underground.<New>
 Its interference waves make
 guided weapon use impossible
 in this area. So up to the
@@ -74,11 +74,11 @@ over the Lambs.<Delay 60>
 Dismissed.<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Strachey
-"This sucks Lieutenant.<New>
+"This sucks, Lieutenant.<New>
 How can we go along with
 this? What's he mean the
-objective has nothing to
-do with us?"<Close><End of Block>
+objective is none of our 
+concern?"<Close><End of Block>
 <TextBlock 14 w:28 h:3>
 Elly
 "Be quiet!
@@ -87,7 +87,7 @@ I'm thinking!"<Close><End of Block>
 Strachey
 "Don't snap at me."<Close><End of Block>
 <TextBlock 16 w:52 h:2>
-Vance
+Franz
 "I hate hysterical women."<Opcode 2 60><Close><End of Block>
 <TextBlock 17 w:44 h:4>
 Elly
@@ -95,5 +95,5 @@ Elly
 the consequences for
 that remark?"<Close><End of Block>
 <TextBlock 18 w:14 h:2>
-Vance
+Franz
 "Uh..."<Opcode 2 30><Close><End of Block>
