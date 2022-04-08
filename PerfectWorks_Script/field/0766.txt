@@ -3,7 +3,7 @@ Helmholtz
 "Prep complete!!"<Close><End of Block>
 <TextBlock 2 w:30 h:2>
 Strachey
-"OK over here!"<Close><End of Block>
+"Okay over here!"<Close><End of Block>
 <TextBlock 3 w:30 h:4>
 Breuer
 "Confirmed!<Delay 10>
@@ -30,7 +30,7 @@ It's probably a hidden
 fort built when their old
 king was still around..."<Close><End of Block>
 <TextBlock 7 w:40 h:4>
-Vance
+Franz
 "Who cares...?<Delay 10>
 Let's just get this
 over and done with!"<Close><End of Block>
@@ -53,7 +53,7 @@ Vance
 "Found them!!"<Close><End of Block>
 <TextBlock 13 w:44 h:4>
 Helmholtz
-"These are 'Deurmods'.
+"These are Diarmuids.
 They're standard
 pirate Gears."<Close><End of Block>
 <TextBlock 14 w:40 h:4>
@@ -69,7 +69,7 @@ it was worth sneaking in."<Close><End of Block>
 <TextBlock 16 w:38 h:4>
 Rank
 "Shush!<Delay 10>
-Schpariel is now in
+Spirale is now in
 place at the back!<New>
 Get ready to take
 out anything that
