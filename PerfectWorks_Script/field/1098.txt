@@ -14,10 +14,11 @@ Strachey
 What's he doing here?"<Close><End of Block>
 <TextBlock 4 w:38 h:3>
 Helmholtz
-"He seems to follow
-us everywhere!"<Close><End of Block>
+"Hmph, he seems 
+to follow us 
+everywhere!"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
-Vance
+Franz
 "What's with this guy? 
 A little too persistent,
 perhaps?"<Close><End of Block>
@@ -38,7 +39,7 @@ Elly
 <TextBlock 10 w:52 h:4>
 Rank
 "From our last incident, I
-can tell that your friends
+can tell that you're friends
 with that Gear's pilot.<New>
 But, there's no way we can
 stop. It doesn't matter
