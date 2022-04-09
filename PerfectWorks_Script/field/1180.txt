@@ -73,7 +73,7 @@ Stand by with the
 anti-aircraft guns.<New>
 Gunner!
 Give me the trigger
-for the Bart Missiles!"<Close><End of Block>
+for the Bart Bombs!"<Close><End of Block>
 <TextBlock 20 w:44 h:4>
 Awww yeah!<New>
 Switch modes over to
@@ -243,7 +243,7 @@ ectropometers twenty seconds
 after opening their hatches.<Close><End of Block>
 <TextBlock 51 w:52 h:3>
 Gungany...
-No, Bart Missile, fueling!<New>
+No, Bart Bomb, fueling!<New>
 It'll take fifteen seconds
 from opening the hatch
 to engage the illuminator!<Close><End of Block>
