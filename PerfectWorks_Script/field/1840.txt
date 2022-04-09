@@ -37,8 +37,8 @@ To my own existence<Delay 5>...<Delay 45>
 I dreamt such a dream<Delay 5>...<Delay 30>
  
 A long<Delay 5>...<Delay 15>
-Never-ending,<Delay 15>
-Dream<Delay 5>...<Close><End of Block>
+Never-ending<Delay 15>
+dream<Delay 5>...<Close><End of Block>
 <TextBlock 4 w:50 h:8>
 'Elly'<Delay 5>...<Delay 45>
  
@@ -185,7 +185,7 @@ In order to disperse the nano-
 machines, Emeralda and I headed
 for one of the ruins of the
 Zeboim civilization...
-the Mass-driver facility.<Close><End of Block>
+the Mass Driver facility.<Close><End of Block>
 <TextBlock 16 w:58 h:5>
 Fortunately, the facility was
 still active which allowed us
@@ -208,7 +208,7 @@ Once arriving at the
 central control room,
 we met up with Citan
 who helped us activate
-the Mass-driver.<Delay 45>
+the Mass Driver.<Delay 45>
  
 We succeeded in launching
 the capsule containing the
@@ -272,8 +272,8 @@ stood a gold Omnigear<Delay 5>...<Delay 30>
   He assaulted Nisan so that
   he could defeat Fei.<Delay 30>
  
-  His purpose of existing
-  was at stake<Delay 5>...<Close><End of Block>
+  His very reason for 
+  existing was at stake<Delay 5>...<Close><End of Block>
 <TextBlock 23 w:58 h:12>
 The Nisan and Shevat militia,<Delay 5>
 even Rank and friends from
@@ -285,7 +285,7 @@ into the cathedral.<Delay 15>
 Continuing to search for
 Fei, Ramsus put the militia
 to rout and pressed on
-toward the cathedral<Delay 5>...<Delay 45>
+toward the Cathedral.<Delay 45>
  
 He was<Delay 5>...<Delay 5>ruined<Delay 5>...<Delay 15>
 He had his mind set solely
@@ -300,7 +300,7 @@ Why does he not come out!?"<Close><End of Block>
 <TextBlock 25 w:44 h:4>
 Elly
 "Ramsus!<Delay 15>
-The Fei you seek is
+The man you seek is
 not here!<New>
 So please, stop this
 meaningless violence!"<Close><End of Block>
@@ -344,17 +344,18 @@ What happened!?<Delay 15>
 Why can't I move!?"<Close><End of Block>
 <TextBlock 35 w:14 h:2>
 Margie
-"Elly!"<Close><End of Block>
+"Elly, how
+did you?!"<Close><End of Block>
 <TextBlock 36 w:32 h:2>
 Rank
 "Are you okay!?"<Close><End of Block>
 <TextBlock 37 w:42 h:3>
 Ramsus
-"H,<Delay 5> how could I...<Delay 5>to
+"H-<Delay 5>how could I...<Delay 5>to
 the likes of you<Delay 5>...?"<Close><End of Block>
 <TextBlock 38 w:48 h:4>
 Ramsus
-"N,<Delay 5> not only to him,<Delay 5> but
+"N-<Delay 5>not only to him,<Delay 5> but
 I am also inferior to
 you<Delay 5>...!?<Delay 5> Me!?"<Close><End of Block>
 <TextBlock 39 w:34 h:3>
@@ -363,8 +364,8 @@ Elly
 you, Ramsus<Delay 5>...?"<Close><End of Block>
 <TextBlock 40 w:52 h:3>
 Elly
-"Why are you caught up
-with Fei so much...<New>
+"Why are you obsessed
+with Fei?<New>
 Why are you so bothered by
 who is more superior?"<Close><End of Block>
 <TextBlock 41 w:52 h:4>
@@ -405,8 +406,8 @@ Ramsus
 "But, he had to come and
 intervene in my life one
 more time!<New>
-He tried to take that very
-warmth away from me again!<Delay 30>
+He tried to take it
+away from me again!<Delay 30>
 As long as he exists<Delay 5>...<Delay 10>
 I don't belong anywhere<Delay 5>..."<Close><End of Block>
 <TextBlock 44 w:50 h:4>
@@ -463,7 +464,7 @@ that are in your heart<Delay 5>...<New>
 Don't fear love<Delay 5>..."<Close><End of Block>
 <TextBlock 50 w:26 h:4>
 Ramsus
-"Y, you<Delay 5>...<Delay 5>
+"Y-you<Delay 5>...<Delay 5>
 Now you<Delay 5>...<Delay 15>
 Aaarrrgghhh!"<Close><End of Block>
 <TextBlock 51 w:52 h:12>
@@ -500,9 +501,9 @@ use the<Delay 5> Key of Goetia<Delay 5>...<Delay 30>
  
 The effect of which was to
 alter those people who had
-been<Delay 5> destined by god.<Close><End of Block>
+been<Delay 5> destined by God.<Close><End of Block>
 <TextBlock 54 w:62 h:11>
-Those people destined by god,
+Those people destined by God,
 regardless of whether they
 were surface dwellers or
 Solarians, began to change
@@ -510,9 +511,9 @@ shape, one after the other<Delay 5>...<Delay 15>
  
 The howling was the people,
 who had filled the earth,
-calling out to god.<New>
+calling out to God.<New>
 "<Delay 0>Once<Delay 0> humans<Delay 0> have<Delay 0> filled<Delay 0> the<Delay 0>
-  earth,<Delay 0> god<Delay 0> will<Delay 0> awaken<Delay 0> from<Delay 0>
+  earth,<Delay 0> God<Delay 0> will<Delay 0> awaken<Delay 0> from<Delay 0>
    his<Delay 0> long<Delay 0> sleep<Delay 5>...<Delay 5>
  <Delay 0>And<Delay 0> the<Delay 0> awakening<Delay 0> of<Delay 0> Machanon,<Delay 5>
   the<Delay 0> paradise<Delay 0> in<Delay 0> the<Delay 0> sky,<Delay 5>
@@ -528,7 +529,7 @@ they said "<Delay 0>once<Delay 0> humans<Delay 0> have<Delay 0>
 filled<Delay 0> the<Delay 0> earth"<Delay 5>...<Delay 30>
  
 Eventually,<Delay 5> Machanon,<Delay 5>
-the resting place of god,<Delay 5>
+the resting place of God,<Delay 5>
 woke from its long slumber
 and began to rise<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>almost as if responding
@@ -539,7 +540,7 @@ all its magestic glory<Delay 5>...<Close><End of Block>
 <TextBlock 56 w:60 h:12>
 Solaris' Gazel Ministry sent
 a massive force there to
-obtain "god and his wisdom".
+obtain "God and his wisdom".
  
 ...But, by now, neither the
 nation of Solaris, nor the
@@ -559,7 +560,7 @@ reigned over them as
 their commanders.<Close><End of Block>
 <TextBlock 58 w:50 h:9>
 There was no way we could
-allow god or god's wisdom
+allow God or God's wisdom
 to fall into the hands of
 the ministry.
  
@@ -642,7 +643,7 @@ friends by doing this?"<Close><End of Block>
 Elly
 "No<Delay 5>..."<Close><End of Block>
 <TextBlock 70 w:40 h:2>
-Vance
+Franz
 "Then it's suicide!"<Close><End of Block>
 <TextBlock 71 w:28 h:2>
 Elly
@@ -716,7 +717,7 @@ Elly
 a woman to simply want to
 save the man that I love!"<Close><End of Block>
 <TextBlock 81 w:18 h:2>
-Vance
+Franz
 "Boss<Delay 5>..."<Close><End of Block>
 <TextBlock 82 w:46 h:3>
 Elly
