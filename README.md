@@ -59,11 +59,14 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Tolone = Throne
 - Urobolus = Ouroboros
 - Yabeh = YHWH
-- Wind Mode = Zephyr Mode.
-- Earth Mode = Seismic Mode.
-- Fire Mode = Inferno Mode.
-- Water Mode = Torrent Mode.
-- Bart Missiles = Bart Bombs.
+- Wind Mode = Zephyr Mode
+- Earth Mode = Seismic Mode
+- Fire Mode = Inferno Mode
+- Water Mode = Torrent Mode
+- Bart Missiles = Bart Bombs
+- Vance = Franz (to be included)
+- Franz = Vance (to be included)
+
 
 ### Story changes:
 
