@@ -1,9 +1,9 @@
 <TextBlock 1 w:34 h:3>
-Franz
+Vance
 "The third bridge
 ...it's ruined!!"<Close><End of Block>
 <TextBlock 2 w:46 h:3>
-Franz
+Vance
 "Then, damage control 
 won't be able to move!!<New>
 The hole won't be
