@@ -43,11 +43,11 @@ Citan
 What... You are asking
 me what to do?"<Close><End of Block>
 <TextBlock 10 w:50 h:3>
-Franz
+Vance
 "It's that red Gear...!!
 It's coming this way!!!!"<Close><End of Block>
 <TextBlock 11 w:32 h:4>
-Franz
+Vance
 "There's someone
 on the deck...
 It's... Elly!?"<Close><Close><End of Block>
