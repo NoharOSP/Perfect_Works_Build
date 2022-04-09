@@ -6,7 +6,7 @@ Shakhan guy have it...<Close><End of Block>
 <TextBlock 2 w:14 h:1>
 Gunner!<Close><End of Block>
 <TextBlock 3 w:12 h:1>
-Franz!<Close><End of Block>
+Vance!<Close><End of Block>
 <TextBlock 4 w:22 h:1>
 Marseilles!<Close><End of Block>
 <TextBlock 5 w:50 h:3>
@@ -53,7 +53,7 @@ Bart
 "Gunner!"<Close><End of Block>
 <TextBlock 16 w:16 h:2>
 Bart
-"Franz!"<Close><End of Block>
+"Vance!"<Close><End of Block>
 <TextBlock 17 w:34 h:2>
 Bart
 "Here we go!<New>
@@ -171,7 +171,7 @@ than the flowing sound of
 the sand... No suspicious
 radar activity detected!<Close><End of Block>
 <TextBlock 40 w:52 h:4>
-Franz
+Vance
 "I don't hear anything
 other than the surface
 wind waves and our engine.<New>
@@ -181,22 +181,22 @@ and sonar."<Close><End of Block>
 <TextBlock 41 w:12 h:1>
 Oh...?<Close><End of Block>
 <TextBlock 42 w:42 h:4>
-Franz
+Vance
 "No...for a moment, I
 thought I caught some
 unnatural sounds..."<Close><End of Block>
 <TextBlock 43 w:44 h:4>
-Franz
+Vance
 "But it's not from the
 surface... It's from
 under the sand!"<Close><End of Block>
 <TextBlock 44 w:54 h:4>
-Franz
+Vance
 "...I can't catch it again.
 It could have been a sand-
 whale..."<Close><End of Block>
 <TextBlock 45 w:46 h:4>
-Franz
+Vance
 "There...
 On the surface layer!<New>
 I'm detecting sounds of
@@ -207,12 +207,12 @@ The Royal Capital's
 defense fleet must
 be departing...!"<Close><End of Block>
 <TextBlock 46 w:48 h:4>
-Franz
+Vance
 "We've had no contact
 since we confirmed their
 order to charge..."<Close><End of Block>
 <TextBlock 47 w:54 h:4>
-Franz
+Vance
 "Aft of our stern! 300!
 I'm picking up the sound
 of torpedoes being readied!<New>
@@ -221,7 +221,7 @@ Speed 60! Relative route
 0-0-0! They were hiding
 behind some baffles!"<Close><End of Block>
 <TextBlock 48 w:54 h:4>
-Franz
+Vance
 "I'm picking up some high
 speed propulsion, breaking
 away from the enemy's ship!<New>
@@ -232,7 +232,7 @@ the sonar.<New>
 They've shifted over to
 active homing!"<Close><End of Block>
 <TextBlock 49 w:38 h:4>
-Franz
+Vance
 "Torpedo...1, still
 pursuing! Dammit!
 Impact in 3!!"<Close><End of Block>
@@ -341,7 +341,7 @@ Sigurd
 "We haven't heard anything
 about a new ship even from
 the spies at Av Naval HQ.<New>
-Franz, can you try again
+Vance, can you try again
 and confirm what it is?"<Close><End of Block>
 <TextBlock 71 w:28 h:3>
 Sigurd
