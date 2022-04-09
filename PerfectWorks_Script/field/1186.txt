@@ -511,7 +511,7 @@ This is difficult...<Close><End of Block>
 Exchange all the torpedo
 tubes to missile launchers.
 We can shoot Gungany...I
-mean, 'Bart Missiles', too!<Close><End of Block>
+mean, 'Bart Bombs', too!<Close><End of Block>
 <TextBlock 77 w:40 h:2>
 By the way, how do
 you shoot downwards?<Close><End of Block>
@@ -967,7 +967,7 @@ down that monster of an
 airplane!!<Delay 5> It was great!"<Close><End of Block>
 <TextBlock 160 w:46 h:3>
 "You should've seen it!<Delay 10>
-Wow!<Delay 10> My 'Bart Missiles'
+Wow!<Delay 10> My 'Bart Bombs'
 sure were awesome...!!"<Close><End of Block>
 <TextBlock 161 w:32 h:4>
 Rico
@@ -1254,7 +1254,7 @@ Id!?"<Close><End of Block>
 <TextBlock 201 w:38 h:2>
 Jessie
 "What do you mean?"<Close><End of Block>
-<TextBlock 202 w:62 h:4>
+<TextBlock 202 w:54 h:4>
 Citan
 "He<Delay 5>...<Delay 10>Fei that is,<Delay 10> has
 Dissociative Identity
