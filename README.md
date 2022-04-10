@@ -5,6 +5,8 @@ Xenogears Perfect Works Build: Including all official Xenogears information in P
 
 As the FMV patches are too large for the repository, links to them are provided here:
 
+WARNING: Cannot work with Items patch. Fix will be made ASAP:
+
 Disc 1:
 https://mega.nz/file/eCwHgabC#N1E9g3f5rHFNGY-FegxWLYoeYJzHB8zDmSc1YHzyI0A
 
