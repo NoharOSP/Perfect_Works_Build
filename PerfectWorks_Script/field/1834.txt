@@ -73,7 +73,7 @@ Fei
 "Elly..."<Close><End of Block>
 <TextBlock 18 w:16 h:2>
 Elly
-"Fei..."<Close><End of Block>
+"..."<Close><End of Block>
 <TextBlock 19 w:44 h:3>
 Torah
 "Hey, it's almost time
@@ -85,7 +85,7 @@ talk to you about."<Close><End of Block>
 ...<Close><End of Block>
 <TextBlock 21 w:28 h:3>
 Fei
-"A,<Delay 5> alright,<Delay 5>
+"A-<Delay 5>alright,<Delay 5>
 we're coming!"<Close><End of Block>
 <TextBlock 22 w:30 h:4>
 Fei
@@ -94,7 +94,7 @@ shall we go
 see what's up?"<Close><End of Block>
 <TextBlock 23 w:24 h:2>
 Elly
-"S,<Delay 5> sure..."<Close><End of Block>
+"S-<Delay 5>sure..."<Close><End of Block>
 <TextBlock 24 w:52 h:3>
 Citan
 "Are you sure you want to
