@@ -99,7 +99,9 @@ Quit staring at the naked
 girl and come over here!"<Close><End of Block>
 <TextBlock 25 w:20 h:2>
 Fei
-"Elly...?"<Close><End of Block>
+"Elly...<New>
+How did 
+we...?"<Close><End of Block>
 <TextBlock 26 w:42 h:3>
 Torah
 "How do you feel now?<New>
