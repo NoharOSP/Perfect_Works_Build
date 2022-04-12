@@ -186,12 +186,14 @@ But in short, it means
 that the manifestation of
 your second personality,
 'Id', can be suppressed."<Close><End of Block>
-<TextBlock 39 w:14 h:2>
+<TextBlock 39 w:14 h:4>
 Fei
-"Id..."<Close><End of Block>
-<TextBlock 40 w:16 h:2>
+"Does this
+mean Id's..."<Close><End of Block>
+<TextBlock 40 w:16 h:4>
 Elly
-"Fei..."<Close><End of Block>
+"There had
+to be a way..."<Close><End of Block>
 <TextBlock 41 w:54 h:4>
 Torah
 "Well, it's all theoretical
