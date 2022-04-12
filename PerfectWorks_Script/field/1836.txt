@@ -88,10 +88,14 @@ Fei
 "..."<Close><End of Block>
 <TextBlock 19 w:16 h:2>
 Citan
-"Fei..."<Close><End of Block>
+"Fei...<New>
+She will
+be fine."<Close><End of Block>
 <TextBlock 20 w:16 h:2>
 Fei
-"Elly!!"<Close><End of Block>
+"Elly!!<New>
+You're
+okay?"<Close><End of Block>
 <TextBlock 21 w:14 h:3>
 Elly
 "Fei...<Delay 20>
