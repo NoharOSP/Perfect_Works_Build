@@ -153,8 +153,9 @@ But<Delay 5> then,<Delay 5>
 don't ever expect to be
 able to hold her in your
 arms<Delay 10> ever again!"<Close><End of Block>
-<TextBlock 30 w:10 h:1>
-Fei!!<Close><End of Block>
+<TextBlock 30 w:10 h:2>
+Stop this,
+Commander!!<Close><End of Block>
 <TextBlock 31 w:36 h:3>
 Fei
 "Don't worry.<Delay 10>
