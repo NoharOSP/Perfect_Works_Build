@@ -1,7 +1,7 @@
 <TextBlock 1 w:46 h:4>
 Fei
 "I heard about it from
-doc.
+Doc.
 Id...<New>
 ...Who would've ever
 thought that within me, 
@@ -12,13 +12,13 @@ Fei
 advent of Grahf.<New>
 The one who destroyed all
 of this world...<New>
-It seems Grahf used to be
+It seems Grahf was once
 a land dweller named
 Lacan..."<Close><End of Block>
 <TextBlock 3 w:48 h:4>
 Fei
 "Grahf called me the one
-who would destroy god<New>
+who would destroy God<New>
 In a way, I can
 understand what he means
 now.<New>
@@ -43,7 +43,8 @@ You're still okay with
 that?"<Close><End of Block>
 <TextBlock 6 w:18 h:2>
 Fei
-"Elly..."<Close><End of Block>
+"Elly...
+Thank you."<Close><End of Block>
 <TextBlock 7 w:48 h:3>
 Elly
 "But you're the same Fei
