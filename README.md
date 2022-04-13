@@ -22,6 +22,26 @@ https://mega.nz/file/iTZ1RKAb#u14uw7fa2dDZQmSOFAcj5aQFxN6_JYU4jv_50C1uoTc
 
 Hello. My Name is Ryan ↙ ➡ ↘ ⬇ ↙ ⬅ ↘ Piccuito. I am a character writer and handler for game balance on the Xenogears Perfect works mod. Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a more complete experience. This does contain unmarked but mild spoilers so readers are advised and warned not to scroll through this if they’re looking to use this mod to enjoy the game for the first time or you simply never got to into it for various reasons we hope to address. These spoilers are primarily for certain story events in the story bits and lines are relegated to story specific changes and certain boss fights dungeons and all moves party members and availability are mentioned in the gameplay focused changes. 
 
+## Instructions:
+
+### Patching:
+
+- Download PPF-O-MATIC.
+- In ISO File, select the Xenogears ISO from the directory it's stored in.
+- In Patch, select the ppf file you wish to patch onto Xenogears.
+
+### Regenerating:
+
+This step applies if you're playing the game using Beetle PSX HW and multiple patches have been applied.
+
+- Download ECCRegen.
+- Click the folder icon to select the Xenogears ISO.
+- Click Scan.
+- Wait for the unregenerated files to load.
+- Right click Check all.
+- Click Regenerate.
+- Wait for the regeneration to finish.
+
 ## Story:
 
 ### Translation:
