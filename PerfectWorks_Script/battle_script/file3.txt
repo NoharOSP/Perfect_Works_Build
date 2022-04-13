@@ -7,9 +7,8 @@ Fei
 Did I do it!?"<Close><End of Block>
 <TextBlock 3 w:46 h:3>
 Fei
-"Wh-<New>
-What the hell are 
-you made of!? 
+"Wh-What the hell are 
+you made of!?<New>
 Just stay down!"<Close><End of Block>
 <TextBlock 4 w:24 h:4>
 Fei
@@ -18,13 +17,14 @@ Boy you're
 persistent!"<Close><End of Block>
 <TextBlock 5 w:46 h:4>
 Fei
-"*Huff,<Delay 10> huff*<Delay 10>.<Delay 10>.<Delay 10>.<Delay 10> Damn it!<Delay 30>
+"*Huff,<Delay 10> huff*<Delay 10>.<Delay 10>.<Delay 10>.<Delay 10>
+Damn it!<Delay 30><New>
 How come...?<Delay 90> Why did it
 have to come to this?"<Close><End of Block>
 <TextBlock 6 w:24 h:4>
 Citan
 "Fei!<Delay 30> Stop!<Delay 30>
-You mustn't
+You must not
 fight here!"<Close><End of Block>
 <TextBlock 7 w:44 h:1>
 v12.x Preview Release6<Close><Close><End of Block>
