@@ -3,11 +3,13 @@ Citan
 "Why hello!"<Close><End of Block>
 <TextBlock 2 w:36 h:3>
 Billy
-"Oh, how are you?<Delay 10>
+"Oh, how nice to 
+see you.<Delay 10>
 How is Fei doing?"<Close><End of Block>
 <TextBlock 3 w:50 h:3>
 Elly
-"Very well.<Delay 10><New>
+"Very well,
+thank you.<Delay 10><New>
 He hasn't regained 
 consciousness yet, but he
 should come around soon."<Close><End of Block>
@@ -19,17 +21,17 @@ That's good to hear."<Close><End of Block>
 Elly
 "Um, Billy.<Delay 10> 
 I don't know quite how to
-thank you for helping Fei." <Close><End of Block>
+thank you for helping Fei..." <Close><End of Block>
 <TextBlock 6 w:40 h:4>
 Billy
 "Don't mention it.<New>
-We may believe in 
-different gods, but
-none of us can leave
-people in need."<Close><End of Block>
+We cannot turn away 
+those who are in need, 
+no matter their faith."<Close><End of Block>
 <TextBlock 7 w:44 h:4>
 Elly
-"Thank you very much.<Delay 10> 
+"Truly, thank you 
+very much.<Delay 10><New>
 By the way is this 
 your orphanage...?"<Close><End of Block>
 <TextBlock 8 w:42 h:3>
@@ -38,21 +40,23 @@ Billy
 only children?"<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 Billy
-"My sister and I haven't
-had parents since we were
-infants... <New>
-So I opened an orphange
-so kids without anyone
+"Actually, from a young 
+age<New> 
+my sister and I did 
+not have our parents 
+around either...<New>
+I opened the orphanage
+so kids without relatives
 wouldn't have to go 
 through what we did."<Close><End of Block>
 <TextBlock 10 w:50 h:4>
 Billy
-"They're all healthy and
-obedient to the teachings<New>
-of the 'Church of the 
-Ethos'. They're all good 
-kids who even help me 
-with work."<Close><End of Block>
+"They're all full of life 
+and they properly observe 
+the teachings of the Church...<New>
+Just great kids who even 
+help me with my work
+sometimes."<Close><End of Block>
 <TextBlock 11 w:14 h:1>
 Later!!<Opcode 2 20><Close><End of Block>
 <TextBlock 12 w:46 h:2>
@@ -99,31 +103,35 @@ There's a string...
     Don't<Close><End of Block>
 <TextBlock 22 w:54 h:4>
 Sigurd
-"Bart!!<Delay 10>
-Yggdrasil's radar picked up
-an image of a huge ship!!"<Close><End of Block>
+"Young master!!<Delay 10><New>
+Yggdrasil's radar has 
+picked up the shape of 
+a huge ship!!"<Close><End of Block>
 <TextBlock 23 w:54 h:4>
 Sigurd
 "Hyuga!<Delay 10>
-Yggdrasil's radar picked up
-an image of a huge ship!!"<Close><End of Block>
+Yggdrasil's radar has 
+picked up the shape of 
+a huge ship!!"<Close><End of Block>
 <TextBlock 24 w:28 h:3>
 Bart
 "What?<Delay 10> 
 Geburah again?"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Sigurd
-"I don't know but it's
-moving at 10 repsol/hr
-to the south.<Delay 10><New>
+"I don't know, but it's
+moving south at 10 repsol
+per hour.<Delay 10><New>
 Let's head to the bridge."<Close><End of Block>
 <TextBlock 26 w:32 h:3>
 Bart
-"Got it!<Delay 10>
-Be right there."<Close><End of Block>
+"Okay, got it!<Delay 10><New>
+We'll be there 
+shortly."<Close><End of Block>
 <TextBlock 27 w:30 h:2>
 Citan
-"Geburah again?"<Close><End of Block>
+"Is it Geburah 
+again!?"<Close><End of Block>
 <TextBlock 28 w:52 h:4>
 Sigurd
 "I don't know but it's 
@@ -135,54 +143,67 @@ Citan
 "Understood.<Delay 10> 
 I will be there shortly."<Close><End of Block>
 <TextBlock 30 w:44 h:3>
-Hey you, in the black 
-and white.<Delay 10> 
-Are you Sigurd?<Close><End of Block>
+Hey, you in the white 
+with the sun tan.<Delay 10> 
+Is that you, Sigurd!?<Close><End of Block>
 <TextBlock 31 w:52 h:4>
 Sigurd
-"Is that any way to speak
-to someone?
+"In the white with 
+the...? Such rudeness all 
+of a sudden!<New>
 Who do you think you are?"<Close><End of Block>
 <TextBlock 32 w:50 h:3>
 Citan
-"Ah...<Delay 10> He may not look
-it but he is our senior."<Close><End of Block>
+"Ah...<Delay 10> You may 
+not be able to tell at 
+first glance, Sigurd,<New> 
+but this man was at one 
+time our mentor..."<Close><End of Block>
 <TextBlock 33 w:50 h:3>
 Citan
-"Ah...<Delay 10>He may not look 
-it but he is our mentor."<Close><End of Block>
+"Ah...<Delay 10> You may 
+not be able to tell at 
+first glance, Sigurd,<New> 
+but this man was at one 
+time our mentor..."<Close><End of Block>
 <TextBlock 34 w:16 h:3>
 Sigurd
 "M-Mentor?<Delay 10>
-Jessie?"<Close><End of Block>
+Jessie!?"<Close><End of Block>
 <TextBlock 35 w:16 h:2>
 Billy
-"Siggy?"<Close><End of Block>
+"S-Siggy!?"<Close><End of Block>
 <TextBlock 36 w:32 h:2>
 Bart
-"He said Siggy?"<Close><End of Block>
+"Did he just say<New>
+'Siggy'!?"<Close><End of Block>
 <TextBlock 37 w:46 h:4>
 Jessie
-"A silver haired man
-with amber skin.
-I'd say that's rare.<New>
-What are you all doing 
-here?"<Close><End of Block>
+"It's not every day you 
+see a silver haired man 
+with amber skin, is all.<New>
+Well, well, you guys. 
+It's become quite the 
+reunion lately! "<Close><End of Block>
 <TextBlock 38 w:54 h:2>
 Citan
 "It just sort of happened."<Close><End of Block>
-<TextBlock 39 w:54 h:2>
+<TextBlock 39 w:54 h:3>
 Citan
-"It just sort of happened."<Close><End of Block>
+"Well, one thing leads 
+to another, as they say... "<Close><End of Block>
 <TextBlock 40 w:42 h:2>
 Sigurd
 "A lot's happened..."<Close><End of Block>
 <TextBlock 41 w:48 h:3>
 Jessie
-"Well, let's talk about 
-things over some drinks.<New>
-So<Delay 5>...<Delay 5>
-Why are you all here?"<Close><End of Block>
+"Well, you can let me 
+hear the whole story 
+over some drinks.<New>
+Still<Delay 5>...<Delay 5>
+gotta wonder why we're 
+together like this after 
+so long."<Close><End of Block>
 <TextBlock 42 w:54 h:4>
 Billy
 "Siggy,
@@ -198,38 +219,45 @@ just like Racquel."<Close><End of Block>
 Bart
 "Hey!<Delay 10>
 Hey hey hey!<New>
-Who are you?<Delay 10> 
-Get all cozy with my 
-officers, huh?<New>
-And what's all this
+What's with you?<Delay 10> 
+being overly 
+familiar with my 
+officer?<New>
+What's all this
 'Siggy' stuff? 
 Don't get cute, kid!"<Close><End of Block>
 <TextBlock 45 w:36 h:4>
 Billy
-"What's with you?
-Why are you so
-arrogant to Siggy?<New>
+"What about you,
+why are you so
+bossy with Siggy?<New>
 Who do you think
 you are?"<Close><End of Block>
 <TextBlock 46 w:40 h:4>
 Jessie
-"Billy. <Delay 10>
-Don't yell at
+"Billy. <Delay 10><New>
+Don't pick a 
+fight with
 Sigurd's people.<New>
 It's bad form, boy."<Close><End of Block>
 <TextBlock 47 w:50 h:4>
 Sigurd
-"Bart, this was my senior
-when I was a candidate 
-for Elements in Jugend.<New>
-I rented a room in his 
-house."<Close><End of Block>
+"Young master,<New> 
+Jessie here was my 
+supervisor when I was 
+an Elements candidate 
+at Solaris Jugend.<New>
+I had even rented a 
+room in his house."<Close><End of Block>
 <TextBlock 48 w:46 h:3>
 Jessie
-"Back then he was still
-in diapers...<New>
-and he's still a whiny
-little brat now."<Close><End of Block>
+"Back then,  Billy 
+wasn't yet out of 
+his diapers,<New>
+and even now he 
+never tires of 
+being a spoiled 
+brat. "<Close><End of Block>
 <TextBlock 49 w:48 h:3>
 Billy
 "You're probably still
@@ -237,66 +265,69 @@ in diapers, aren't you?"<Close><End of Block>
 <TextBlock 50 w:42 h:3>
 Bart
 "You punk!<Delay 10>
-What's your problem?"<Close><End of Block>
+What're you turning 
+on me for!?"<Close><End of Block>
 <TextBlock 51 w:46 h:4>
 Jessie
-"Well<Delay 5>...<Delay 5>then, shall
+"Well then<Delay 5>...<Delay 5>, shall
 we go straight off and
 drink ourselves under?"<Close><End of Block>
 <TextBlock 52 w:36 h:3>
 Sigurd
-"Where do you plan
-on going...?"<Close><End of Block>
+"Go for a drink 
+where, exactly...?"<Close><End of Block>
 <TextBlock 53 w:48 h:4>
 Jessie
 "What do you mean?<Delay 10>
 There has to be a bar or
-two on board your ship!"<Close><End of Block>
+two on board your sub?"<Close><End of Block>
 <TextBlock 54 w:34 h:3>
 Sigurd
-"I have a slight 
-headache..."<Close><End of Block>
+"Uh, I have a slight 
+headache, so..."<Close><End of Block>
 <TextBlock 55 w:42 h:3>
 Jessie
 "What?<Delay 10>
-That's OK.<New>
+That's okay.<New>
 We'll get rid of that
 headache with a good
-drink."<Close><End of Block>
+drink!"<Close><End of Block>
 <TextBlock 56 w:54 h:2>
 Citan
-"What are you going to do?"<Close><End of Block>
+"What do we do...?"<Close><End of Block>
 <TextBlock 57 w:54 h:2>
 Citan
-"What are you going to do?"<Close><End of Block>
+"What do we do...?"<Close><End of Block>
 <TextBlock 58 w:46 h:3>
 Sigurd
-"I can't just say no to
+"We can't just say no to
 him..."<Close><End of Block>
 <TextBlock 59 w:42 h:3>
 Jessie
-"What are you doin'? 
-Let's go!"<Close><End of Block>
+"What are you guys 
+doin'? Let's go!"<Close><End of Block>
 <TextBlock 60 w:24 h:2>
 Sigurd
-"Hey now..."<Opcode 2 30><Close><End of Block>
+"You see...?"<Opcode 2 30><Close><End of Block>
 <TextBlock 61 w:28 h:1>
 Oh-no-ho-ho...<Opcode 2 30><Close><End of Block>
 <TextBlock 62 w:28 h:1>
 Oh-no-ho-ho...<Opcode 2 30><Close><End of Block>
 <TextBlock 63 w:48 h:4>
 Billy
-"I'm not going...<Delay 10>
-Go ahead and have a good
-time."<Close><End of Block>
-<TextBlock 64 w:46 h:3>
+"I'll pass...<Delay 10>
+Please make yourselves 
+at home."<Close><End of Block>
+<TextBlock 64 w:46 h:4>
 Bart
-"What's this huge ship 
-Sig was talking about?"<Close><End of Block>
-<TextBlock 65 w:48 h:3>
+"What the heck's this 
+'huge ship' Sig was 
+talking about?"<Close><End of Block>
+<TextBlock 65 w:48 h:4>
 Elly
-"What is this huge ship 
-Sig was talking about?"<Close><End of Block>
+"What on earth is this 
+'huge ship' Sigurd was 
+talking about?"<Close><End of Block>
 <TextBlock 66 w:46 h:3>
 Citan
 "I am sorry, everyone.<Delay 10> 
@@ -305,16 +336,18 @@ If I may be excused..."<Close><End of Block>
 Rico
 "Oh well, I guess I'll go.
 I've got time to kill."<Close><End of Block>
-<TextBlock 68 w:36 h:2>
+<TextBlock 68 w:36 h:3>
 Bart
-"Oh well, me too."<Close><End of Block>
+"Oh well, I'll join
+you."<Close><End of Block>
 <TextBlock 69 w:52 h:3>
 Rico
-"Oh well, I guess I'll go.
-I've got time to kill."<Close><End of Block>
-<TextBlock 70 w:36 h:2>
+"Oh well, I was just 
+waiting for my moment."<Close><End of Block>
+<TextBlock 70 w:36 h:3>
 Bart
-"Oh well, me too."<Close><End of Block>
+"Oh well, I'll join
+you."<Close><End of Block>
 <TextBlock 71 w:30 h:4>
 Jessie
 "...HIC...!!<Delay 10>
