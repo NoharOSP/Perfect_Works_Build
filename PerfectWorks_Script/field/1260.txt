@@ -150,12 +150,10 @@ it but he is our senior."<Close><End of Block>
 <TextBlock 33 w:50 h:3>
 Citan
 "Ah...<Delay 10>He may not look 
-it but he is our commanding
-officer."<Close><End of Block>
+it but he is our mentor."<Close><End of Block>
 <TextBlock 34 w:16 h:3>
 Sigurd
-"Commanding
-officer...?<Delay 10>
+"M-Mentor?<Delay 10>
 Jessie?"<Close><End of Block>
 <TextBlock 35 w:16 h:2>
 Billy
