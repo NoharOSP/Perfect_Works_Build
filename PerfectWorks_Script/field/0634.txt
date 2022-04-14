@@ -2,8 +2,6 @@
 Fei
 "Whew!<Delay 20>
 That about does it..."<Close><End of Block>
-
-
 <TextBlock 2 w:26 h:4>
 Fei
 "Alright...
@@ -38,7 +36,7 @@ Maid
 has already been three years 
 since you came to our village...<New>
 When they first saw you brought
-in all soaken in blood, to
+in all soaked in blood, to
 tell you the truth they didn't
 think you were going to make it.<New>
 And that strange masked man who

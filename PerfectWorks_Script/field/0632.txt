@@ -8,7 +8,7 @@ In the next episode of
      "XENOGEARS"...<Opcode 2 180><Opcode 2 180><Close><End of Block>
 <TextBlock 2 w:48 h:4>
 Fei
-"Yeah tomorrow, huh...
+"Yeah, tomorrow, huh?
 Your wedding with Alice!
 Now that's a big day!"<Close><End of Block>
 <TextBlock 3 w:50 h:4>
@@ -16,7 +16,7 @@ Fei
 "Hey, uh, Timothy.
 I just want to thank
 both you and Alice...<New>
-three years ago, I woke 
+Three years ago, I woke 
 up here in Lahan without 
 a trace of my memories...<New>
 I didn't know who I was,
@@ -67,15 +67,15 @@ It sounds serious!"<Close><End of Block>
 Fei
 "Huh...?<Delay 30> 
 What's up with him?"<Close><End of Block>
-<TextBlock 11 w:52 h:4>
+<TextBlock 11 w:54 h:4>
 Timothy
 "So how was Alice?<Delay 30> I still
 can't believe we're really
 getting married tomorrow!<New>
 It's such a weird feeling.<Delay 30>
-We've always been together
-ever since we were just
-little kids..."<Close><End of Block>
+We've always been together,
+since we were just little
+kids..."<Close><End of Block>
 <TextBlock 12 w:46 h:4>
 Timothy
 "Could you go check up
@@ -94,18 +94,16 @@ the big day tomorrow with
 the village chief."<Close><End of Block>
 <TextBlock 14 w:46 h:4>
 Timothy
-"Yeah... right...<Delay 20>
-But it still hasn't hit
-me as reality though."<Close><End of Block>
+"Yeah...right...<Delay 20> But
+it still seems unreal."<Close><End of Block>
 <TextBlock 15 w:48 h:4>
 Timothy
-"Hah! Quit it will ya!
+"Hah! Quit it, will ya?
 You don't have to go and
 get all mushy on me...<New>
 Anyway, to me it feels
-like we've always been
-friends since we were 
-kids."<Close><End of Block>
+like we've been friends
+since we were kids."<Close><End of Block>
 <TextBlock 16 w:48 h:3>
 Timothy
 "And we will go on being
@@ -138,10 +136,10 @@ to be no honeymoon!"<Close><End of Block>
 "So there you are!<Delay 30> 
 Fei, I have to talk to
 you about something!"<Close><End of Block>
-<TextBlock 21 w:32 h:3>
+<TextBlock 21 w:24 h:3>
 Dan
-"Argh! Timothy's
-here too."<Close><End of Block>
+"Argh! He's
+here, too."<Close><End of Block>
 <TextBlock 22 w:38 h:4>
 Dan
 "Butt out, Timothy!<New>
@@ -174,7 +172,7 @@ outside. So I'll see
 ya there later, okay?"<Close><End of Block>
 <TextBlock 26 w:46 h:4>
 Dan
-"Be seein' ya, Timothy!<Delay 30>
+"Be seein' ya, 'Tim'!<Delay 30>
 Take care of yourself
 until tomorrow..."<Close><End of Block>
 <TextBlock 27 w:42 h:4>
@@ -201,11 +199,11 @@ Ahem!<Delay 20>
 Ohum!<Opcode 2 40><Close><End of Block>
 <TextBlock 30 w:48 h:4>
 Chief Lee
-"Oh, errh... never mind.<New>
+"Oh, errh...never mind.<New>
 Now, we still have
 important things to
-discuss...<Delay 20> so don't
-get in the way now."<Close><End of Block>
+discuss...<Delay 20>so don't
+get in the way, now."<Close><End of Block>
 <TextBlock 31 w:38 h:4>
 Chief Lee
 "We still have many
@@ -218,8 +216,8 @@ Timothy's Father
 "Hello there, Fei.<New>
 Our Timothy is a really
 lucky boy to be able to
-marry such a beautiful
-girl like Alice!<New>
+marry a beautiful girl
+like Alice!<New>
 I hope you come up with
 some embarrassing tales
 to tell in your speech!
