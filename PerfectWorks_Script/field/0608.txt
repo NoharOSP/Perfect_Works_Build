@@ -13,7 +13,7 @@ It's kinda cute, huh?"<Close><End of Block>
 <TextBlock 2 w:52 h:4>
 Fei
 "He's probably around here
-somewhere... getting up
+somewhere...getting up
 to his usual mischief!"<Close><End of Block>
 <TextBlock 3 w:50 h:3>
 Fei
@@ -93,7 +93,7 @@ to come pick mother and
 me up so that we can all
 live together in Av.<Close><End of Block>
 <TextBlock 18 w:48 h:2>
-Oh, father!
+Oh, Father!
 Please come home soon...<Close><End of Block>
 <TextBlock 19 w:44 h:3>
 Hey hey, Fei!
@@ -260,7 +260,7 @@ and live out the rest of
 their lives here.<New>
 There must be some
 happiness in that, but...<Delay 24>
-I've been thinking from
+it gets me thinking from
 time to time.<New>
 Sometimes I wish I were
 born a man so I could
@@ -289,10 +289,10 @@ choice of all bearcows.<Close><End of Block>
 Hello, Fei.
 Tomorrow is Alice and
 Timothy's big day.<New>
-Isn't it exciting!
+Isn't it exciting!?
 I know Alice will
 make a lovely bride.<New>
-Ahh... I hope a
+Ahh...I hope a
 handsome prince comes
 into my life soon.<Close><End of Block>
 <TextBlock 56 w:38 h:3>
@@ -309,7 +309,7 @@ the village...<New>
 Hey, you're good friends
 with the doctor.<Delay 20> Why
 don't you ask him to move
-closer to the village!<Close><End of Block>
+closer to the village!?<Close><End of Block>
 <TextBlock 58 w:54 h:4>
 Lately, my legs have
 gotten weaker...<Delay 20>
@@ -347,7 +347,7 @@ to climb that mountain path
 to visit the doctor.<Delay 20>
 It must be a sign of my age.<Close><End of Block>
 <TextBlock 61 w:54 h:4>
-Uuh... Sob...<Delay 10>
+Uuh... *Sob*...<Delay 10>
 How could Alice go and get
 married...<Delay 30>and to that
 muscle head, Timothy...!!<New>
@@ -358,16 +358,16 @@ How am I supposed to live!?<Close><End of Block>
 <TextBlock 62 w:42 h:1>
 <Opcode 14 2>AAAAAARRRRRGGGGHHH!!<Opcode 1 0> <Opcode 2 120><Close><End of Block>
 <TextBlock 63 w:38 h:2>
-Sob...<Delay 30> Life...
+*Sob*...<Delay 30> Life...
 can be so unfair...<Close><End of Block>
-<TextBlock 64 w:26 h:2>
-Uh... Sob...<Delay 20>
+<TextBlock 64 w:28 h:2>
+Uh... *Sob*...<Delay 20>
 Woe is me...!<Close><End of Block>
-<TextBlock 65 w:32 h:1>
-Zzzzzz, snore...<Close><End of Block>
-<TextBlock 66 w:34 h:3>
+<TextBlock 65 w:36 h:1>
+*Zzzzzz, snore*...<Close><End of Block>
+<TextBlock 66 w:36 h:3>
 Uh, uhn...?<Delay 20>
-Oh, it's you Fei!
+Oh, it's you, Fei!
 What do you want?<Close><End of Block>
 <TextBlock 67 w:38 h:3>
 Finally, at my age,
@@ -375,7 +375,7 @@ I've been able to
 live in peace.<New>
 At this rate, I'll
 probably live to be
-a hundred! Hahahah!<Close><End of Block>
+100! Hahahah!<Close><End of Block>
 <TextBlock 68 w:42 h:3>
 No, no!<Delay 20>
 Don't waste perfectly
@@ -409,9 +409,9 @@ the Lahan community!<New>
 So, how about finding a
 wife and settling down
 in our village too?<New>
-I'm sure if you live a
-peaceful life here your
-memory will be bound to
+I'm sure that if you
+live a peaceful life
+here your memory will
 come back one day.<Close><End of Block>
 <TextBlock 75 w:56 h:5>
 You have a natural ability
@@ -427,7 +427,7 @@ I'm sure it will!<Close><End of Block>
 <TextBlock 76 w:46 h:3>
 Yo, Fei!
 Alice has sure
-gotten pretty, huh!<New>
+gotten pretty, huh?<New>
 Come to think of it...
 Alice, Timothy and you
 were always together.<New>
@@ -484,8 +484,8 @@ But it's an excellent
 feeling, Fei.<New>
 In this great open land,
 new life emerges...<Delay 20>
-I'm not saying we're
-doing it.<New>
+I'm not saying that's all
+down to us.<New>
 It's just the land, 
 rain, and sun combining 
 together to nurture 
@@ -494,7 +494,7 @@ We're just helping
 them out.<Close><End of Block>
 <TextBlock 85 w:44 h:4>
 Pumpkinberry...
-Applelily... radish...
+Applelily... Radish...
 Hmmm,<Delay 40> they all seem
 good...<Close><End of Block>
 <TextBlock 86 w:48 h:4>
@@ -511,5 +511,5 @@ This is the general store.<Delay 20>
 Although they don't have
 much of a selection...<New>
 But then again, we're out
-in the country...<Delay 20> so we
+in the country...<Delay 20>so we
 can't complain<Delay 20> (too much).<Close><Close><End of Block>

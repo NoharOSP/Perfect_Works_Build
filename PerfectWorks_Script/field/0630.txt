@@ -60,7 +60,7 @@ something else you want
 me to get from Citan?"<Close><End of Block>
 <TextBlock 13 w:14 h:2>
 Fei
-"...<Delay 20> ?"<Close><End of Block>
+"...<Delay 20>?"<Close><End of Block>
 <TextBlock 14 w:10 h:2>
 Fei
 "..."<Close><End of Block>
@@ -141,7 +141,7 @@ Have you ever thought
 about things this way?"<Close><End of Block>
 <TextBlock 32 w:36 h:4>
 Alice
-"If... If,<Delay 20> you had
+"If...<Delay 20> If you had
 only been born in
 this village...<New>
 And if we had only
