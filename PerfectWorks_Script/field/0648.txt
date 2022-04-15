@@ -1,28 +1,28 @@
 <TextBlock 1 w:10 h:1>
-Wow!?<Opcode 2 40><Close><End of Block>
+Huh!?<Opcode 2 40><Close><End of Block>
 <TextBlock 2 w:42 h:2>
 Fei
-"W-<Delay 30>What is this...?"<Close><End of Block>
+"Wh-<Delay 30>What is this...?"<Close><End of Block>
 <TextBlock 3 w:42 h:3>
 Fei
 "So this is what Doc
 was talking about.<New>
 Let me see...<Delay 30>
 what's so interesting
-about it..."<Close><End of Block>
-<TextBlock 4 w:40 h:4>
+about it...?"<Close><End of Block>
+<TextBlock 4 w:42 h:4>
 Fei
-"This music,<Delay 20>
-I've<Delay 10> heard it before
-somewhere...?"<Close><End of Block>
+"This music...<Delay 20>
+Have I<Delay 10> heard it
+before somewhere...?"<Close><End of Block>
 <TextBlock 5 w:16 h:2>
 Fei
 "Doc..."<Close><End of Block>
 <TextBlock 6 w:52 h:3>
 Citan
-"Hello again Fei. Sorry
+"Hello again, Fei. Sorry
 to have kept you waiting."<Close><End of Block>
-<TextBlock 7 w:52 h:3>
+<TextBlock 7 w:54 h:4>
 Citan
 "Music is a mysterious
 thing...<New>
@@ -48,9 +48,9 @@ Citan
 "Long ago people would
 listen to this melody,
 just as we are doing now...<New>
-At other times they may 
+At times they may 
 have been cheered up...
-while at other times they
+At other times they
 may have been made to cry."<Close><End of Block>
 <TextBlock 10 w:48 h:3>
 Citan
@@ -58,18 +58,18 @@ Citan
 you here today?"<Close><End of Block>
 <TextBlock 11 w:40 h:4>
 Citan
-"Oh yes. 
+"Oh, yes. 
 Her wedding is
 tomorrow, right...?"<Close><End of Block>
 <TextBlock 12 w:42 h:4>
 Citan
 "Understood.
 Well, we had better
-get them ready then."<Close><End of Block>
+prepare that, then."<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 Citan
-"Dinner should be
-ready soon.<Delay 20> Would you like
+"Dinner should be ready
+soon.<Delay 20> Would you like
 to join us?"<Close><End of Block>
 <TextBlock 14 w:42 h:4>
 Citan
@@ -83,26 +83,26 @@ back in the house?"<Close><End of Block>
 Citan
 "Hahaha.
 Go right ahead.<New>
-But, I'll not be
+But I will not be
 responsible if you get a
 stomach ache from Yui's 
 cooking."<Close><End of Block>
 <TextBlock 16 w:50 h:4>
 Citan
-"Perhaps you've 
+"Perhaps you have 
 heard it sometime in 
 the past...<New>
 Perhaps a memory 
 buried deep within you 
-wishes to resurface. <Close><End of Block>
+wishes to resurface.<Close><End of Block>
 <TextBlock 17 w:52 h:4>
 Citan
 "Is their wedding 
 really tomorrow...?<New>
-If we could live like 
-this carefree, as children 
-of humankind...<Delay 30>
-As a son of man..."<Close><End of Block>
+If we could live like this
+carefree, as children of
+humankind...<Delay 30>maybe that
+would be good enough."<Close><End of Block>
 <TextBlock 18 w:48 h:4>
 Citan
 "Well, anyway. I suppose
@@ -114,7 +114,7 @@ Citan
 <TextBlock 20 w:36 h:4>
 Citan
 "This cannot be...<Delay 60>
-I-Is this...
+I-<Delay 20>Is this...
 an omen...?"<Close><End of Block>
 <TextBlock 21 w:36 h:4>
 Citan
@@ -163,5 +163,5 @@ in small letters in
 the corner...<Close><End of Block>
 <TextBlock 31 w:68 h:3>
 " Celebrating my daughter's birth
- ...may all the dreams, courage
+ ...May all the dreams, courage
  & love in the world be yours... "<Close><Close><End of Block>

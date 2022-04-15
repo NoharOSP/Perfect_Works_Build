@@ -57,7 +57,7 @@ ceremony tomorrow."<Close><End of Block>
 Fei
 "Why, hello there, Dan!<Delay 20>
 You're looking lively 
-today...<New> 
+today...<New>
 as you do every day!"<Close><End of Block>
 <TextBlock 9 w:38 h:3>
 Fei

@@ -42,8 +42,8 @@ fool! And his dad
 is bald and stupid too!"<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 "Mountain path ahead!
-Beware of the HP
-gobbling hob-gobs!!<New>
+Beware of the HP-
+gobbling Hobgobs!!<New>
 Those wishing to see the
 doctor on the mountain top
 should proceed with courage
@@ -350,7 +350,7 @@ It must be a sign of my age.<Close><End of Block>
 Uuh... *Sob*...<Delay 10>
 How could Alice go and get
 married...<Delay 30>and to that
-muscle head, Timothy...!!<New>
+musclehead, Timothy...!?<New>
 I...<Delay 20>I've loved her...<Delay 20>
 since I was a baby...!!<Delay 20><Wait>
 What am I supposed to do?

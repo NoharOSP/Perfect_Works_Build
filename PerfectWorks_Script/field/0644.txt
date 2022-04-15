@@ -25,12 +25,12 @@ really good because I used
 that egg you brought us."<Close><End of Block>
 <TextBlock 6 w:56 h:3>
 Fei gained a bit of weight,<Delay 5>
-but felt he did a bad thing.<Delay 20>
-...<Delay 5> Well,<Delay 5> just a little bit!<Close><End of Block>
+but felt...maybe he'd done
+a bad thing.<Delay 20> Just a little.<Close><End of Block>
 <TextBlock 7 w:50 h:3>
 Fei
-"Well,
-nothing in particular..."<Close><End of Block>
+"Well, nothing in
+particular..."<Close><End of Block>
 <TextBlock 8 w:32 h:3>
 Fei
 "Hello, Yui.
@@ -39,8 +39,8 @@ Where's Doc...?"<Close><End of Block>
 Fei
 "I should have guessed!
 Doesn't he ever get sick of
-playing with that stuff?"<Close><End of Block>
-<TextBlock 10 w:50 h:4>
+playing with that stuff!?"<Close><End of Block>
+<TextBlock 10 w:52 h:4>
 Fei
 "Well, okay then, I'll go
 out into the back yard and
@@ -68,7 +68,7 @@ that line before?"<Close><End of Block>
 <TextBlock 14 w:56 h:4>
 Fei
 "That's alright by me...<Delay 30>
-Well, see you tomorrow, doc!<Delay 30>
+Well, see you tomorrow, Doc!<Delay 30>
 Good night, Yui, Midori!"<Close><End of Block>
 <TextBlock 15 w:54 h:4>
 Citan
@@ -84,7 +84,7 @@ Yui
 "My darling husband is
 probably tinkering with his
 junk out in the back yard...<New>
-Didn't you see him there?"<Close><End of Block>
+Wasn't he there?"<Close><End of Block>
 <TextBlock 17 w:36 h:4>
 Yui
 "Oh, welcome, Fei.<Delay 30>
@@ -97,12 +97,12 @@ Well, anyway, please
 make yourself at home."<Close><End of Block>
 <TextBlock 19 w:36 h:2>
 Yui
-"Oh Fei, welcome."<Close><End of Block>
-<TextBlock 20 w:48 h:4>
+"Oh, welcome, Fei."<Close><End of Block>
+<TextBlock 20 w:54 h:4>
 Yui
 "My darling husband is
 probably tinkering with his
-junk out in the back yard...<New><Close><End of Block>
+junk out in the back yard.<Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Yui
 "Oh, what a nutritious-

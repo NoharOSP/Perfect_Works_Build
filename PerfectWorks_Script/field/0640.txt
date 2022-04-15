@@ -28,8 +28,7 @@ good night, Doc."<Close><End of Block>
 Fei
 "What's wrong, Doc?<New>
 There's nothing to worry
-about!<Delay 20> See you 
-tomorrow."<Close><End of Block>
+about!<Delay 20> See you tomorrow."<Close><End of Block>
 <TextBlock 8 w:38 h:3>
 Citan
 "Good night, Fei.<Delay 20>
@@ -45,16 +44,16 @@ restore this Land Crab.<New>
 Oh, and that explosion was
 nothing to worry about.<Delay 20>
 It happens all the time.
-Haha!..."<Close><End of Block>
-<TextBlock 11 w:52 h:4>
+Haha!"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
 Citan
-"Could you wait a while?<Delay 20>
-I'm just about ready
-to call it a day.<New>
-Oh, while you wait, there's 
-something interesting
+"Could you wait a
+while?<Delay 20> I am just about
+ready to call it a day.<New>
+Oh, while you wait, there 
+is something interesting
 in the storeroom...<Delay 20>
-Why not take a look!?"<Close><End of Block>
+Why not check it out?"<Close><End of Block>
 <TextBlock 12 w:36 h:2>
 Citan
 "Yes, good night."<Close><End of Block>
