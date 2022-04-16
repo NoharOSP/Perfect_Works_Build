@@ -9,37 +9,40 @@ awfully busy person, so I
 have been placed in charge
 of answering some of the
 more mundane questions.)<Close><End of Block>
-<TextBlock 2 w:58 h:5>
+<TextBlock 2 w:54 h:5>
 As a special for this week,
-we are lecturing on the
-techniques of "Marshal Art's"
-self defense.<Delay 20> Wouldn't you
-like to learn about it?<Close><End of Block>
+we are lecturing on our
+super-duper self-defense
+techniques.<Delay 20> Wouldn't you
+like to learn about them?<Close><End of Block>
 <TextBlock 3 w:56 h:1>
 What can I do for you today?<Close><End of Block>
 <TextBlock 4 w:56 h:6>
     <Opcode 1 255>Explain battle commands
     Explain 'Defense' option
-    Explain 'Action Points'
+    Explain Action Points
     Explain 'Attack' option
     Explain 'Combo' option
     Nothing now, thanks. <Close><End of Block>
 <TextBlock 5 w:48 h:3>
-Alright then.
+Alright, then.
 Allow me to explain the
 overall battle commands.<Close><End of Block>
 <TextBlock 6 w:56 h:6>
 During battle, there are two
-groups of commands you can
-choose from.<Delay 20> You can toggle
-between groups with the Left
-& Right Directional buttons.<New>
-The first group includes the
-most frequently used Attack,
-Defense and Chi options.<Delay 20>
-The second group contains
-special commands such as
-Combo, Escape and so forth.<New>
+groups (called 'Command
+Rings') you can choose from.<Delay 20>
+You can toggle between the
+groups using the left and
+right directional buttons.<New>
+The first Command Ring
+includes the most frequently
+used 'Attack', 'Defense' and
+'Chi' options.<New>
+The second Command Ring
+contains special commands
+such as 'Combo', 'Escape'
+and so forth.<New>
 You fight by skillfully
 selecting from the two
 groups of options the
@@ -48,7 +51,7 @@ your circumstances.<New>
 Normally, you should be
 able to get by with just
 the first group of options.<Delay 20>
-The item option is in both
+The 'Item' option is in both
 sets, so you don't have to
 switch groups to use items.<Close><End of Block>
 <TextBlock 7 w:50 h:4>
@@ -58,14 +61,14 @@ back again whenever you
 need my services.<Close><End of Block>
 <TextBlock 8 w:52 h:3>
 Oh I see, I see. You wish
-to inquire about Defense?<Delay 20> 
+to hear about defending?<Delay 20> 
 Well allow me to begin...<Close><End of Block>
 <TextBlock 9 w:56 h:6>
 By choosing 'Defense', you
 can halve the damage your
 opponent does to you.<Delay 20>
 Fighting is not just about
-being on the offensive - at
+being on the offensive<-->at
 times it pays to hold back.<New>
 When you find yourself in a
 pinch, it may be a good idea
@@ -86,8 +89,8 @@ Well then, allow me to
 explain about Action Points.<Close><End of Block>
 <TextBlock 12 w:56 h:6>
 There are three kinds of
-attacks - Weak, Strong
-and Fierce - each using
+attacks<-->Weak, Strong
+and Fierce<-->each using
 up a set amount of Action
 Points when performed.<New>
 When all your Action Points
@@ -99,18 +102,17 @@ In other words, Action
 Points represent how many
 attacks you can perform in
 one turn of combat.<New>
-In the beginning, you
-will only start out with
+You will start out with only
 3 Action Points. However,
 as you increase in level,
-your Action Points will
-increase accordingly.<New>
-The secret in putting up a
-good fight lies in how you
-utilize your Action Points
-- what strengths of attacks
+your available Action Points
+will increase accordingly.<New>
+The secret to putting up a
+good fight is the way you
+utilize your Action Points<-->
+what strength of attacks
 you use, and in what order
-you dish them out in...!<Close><End of Block>
+you dish them out...!<Close><End of Block>
 <TextBlock 13 w:46 h:4>
 ...Well, that's it in a
 nutshell.<Delay 20> Oh, and don't
@@ -123,33 +125,33 @@ explain to you a little
 about attacking.<Close><End of Block>
 <TextBlock 15 w:58 h:6>
 I am sure that you already
-know that there are 3 types
-of Attacks - Weak, Strong
-and Fierce - each of which
-uses up a different amount
-of Action Points.<New>
-The Fierce Attack (<X> button)
+know that there are three
+types of attack<-->Weak,
+Strong and Fierce<-->each of
+which uses up a different
+number of Action Points.<New>
+The Fierce attack (<X> button)
 uses up 3 points in a single
 blow. Hence, if you have only
-3 Attack Points, all will be
-used up in one Fierce Attack.<New>
-The Weak Attack (<T> button)
+3 Action Points, all will be
+used up by one Fierce attack.<New>
+The Weak attack (<T> button)
 will use up 1 point per blow.
 So, with 3 Attack Points, you
-can attack the same enemy 3
+can attack an enemy three
 times in rapid succession.<New>
-The Strong Attack (<S> button)
+The Strong attack (<S> button)
 uses up 2 points per blow.<Delay 20>
 So, if you've got 3 Attack
 Points, you can combine one
-Strong Attack with one Weak
-Attack to total 3 points.<New>
-It is possible to continually
-press the <X> button to keep
+Strong attack with one Weak
+attack to total 3 points.<New>
+It is possible to keep
+pressing the <X> button to try
 obliterating enemies in one
 Fierce blow, but you may find
-out that relying on this will
-have repercussions later.<Close><End of Block>
+that relying on this alone
+presents difficulty later on.<Close><End of Block>
 <TextBlock 16 w:52 h:4>
 ...That's about all I have
 to say about that, really.<Delay 20>
@@ -160,36 +162,36 @@ Ooooh! The 'Combo' option,
 eh?<Delay 20> I didn't expect you to
 ask about it! Well then,
 allow me to explain the
-art of the 'Combo'.<Close><End of Block>
+art of the combo.<Close><End of Block>
 <TextBlock 18 w:56 h:6>
-When you use the Attack
+When you use the 'Attack'
 option, there are times
 when you do not use up
 all your Action Points.<New>
 Such is the case when
 you eliminate an enemy
-by using only a fraction
+by using only a portion
 of your total points, or
 when you cancel midway
 through an attack turn.<New>
-Action Points which don't
+Action Points that don't
 get used are stored in an
 'AP Counter'. When this AP
 Counter stores up a certain
 amount of points, you will
-become able to use 'Combos'.<New>
-'Combos' are rapid series of
-Deathblows let loose all at
-one time, and they tend to
-be rather ferocious. Any
-foe on the receiving end of
-a 'Combo' will likely die.<New>
+be able to use 'Combo'.<New>
+A combo is a rapid series of
+Deathblows let loose all in
+one turn, and tends to be
+rather ferocious.
+Any foe on the receiving end
+of a combo will likely die.<New>
 At low experience levels,
 you probably won't be able
-to do much 'Combo' damage.<Delay 20>
-But in time you will become
-able to do some devastating
-'Combo' maneuvers!<Close><End of Block>
+to do much combo damage.<Delay 20>
+But in time you will be able
+to unleash devastating
+combo attacks!<Close><End of Block>
 <TextBlock 19 w:38 h:4>
 ...And that's that!<Delay 20>
 So, if you need any
@@ -216,13 +218,13 @@ on them recently...<Close><End of Block>
 <TextBlock 24 w:60 h:6>
 How 'bout it then?
 Wanna hear what I have to say?<Delay 20>
-    <Opcode 1 255>Explain 'Abilities'
-    Explain 'Deathblow Skills'
-    Explain 'Skill Levels'
+    <Opcode 1 255>Explain Abilities
+    Explain Deathblow Skills
+    Explain Skill Levels
     Forget it!<Close><End of Block>
 <TextBlock 25 w:50 h:3>
 Hmmm, you're pretty
-scholarly for a young'un.
+studious for a young 'un.
 Good, now listen up!<Close><End of Block>
 <TextBlock 26 w:54 h:4>
 That 'Guided Shot' ability
@@ -232,80 +234,80 @@ related to Ether and Chi.<New>
 Not everyone has the
 talent to use such powers.
 People are each born with
-differing innate abilities.<New>
-If that individual does
+different innate abilities.<New>
+If an individual does
 have the gift, increasing
-in level will give birth
+in level will give rise
 to more powerful abilities.<Close><End of Block>
 <TextBlock 27 w:38 h:2>
 Hmm.<Delay 20> I see a lot of
 potential in you.<Close><End of Block>
-<TextBlock 28 w:36 h:2>
+<TextBlock 28 w:38 h:2>
 Good, good.<Delay 20>
-Ask away young'un!<Close><End of Block>
+Ask away young 'un!<Close><End of Block>
 <TextBlock 29 w:60 h:6>
 As you already know, there
-are 3 strength levels for
-the ordinary Attack option:
-Weak   Attack (<T> button),
-Strong Attack (<S> button) and
-Fierce Attack (<X> button).<New>
+are three strength levels for
+the ordinary 'Attack' option:
+Weak attack   (<T> button)
+Strong attack (<S> button)
+Fierce attack (<X> button)<New>
 'Deathblow Skills' are special
-chains of Attacks that first
+chains of attacks that first
 use some Weak or Strong blows
 to knock your foe off balance
 and then end with a Fierce
 blow to do some major damage!<New>
-But first you must master
-the use of Weak, Strong
-and Fierce Attacks in order
-to become able to learn
-such 'Deathblow Skills'.<New>
-To master these Attacks, you
+But you must first master
+the use of Weak, Strong and
+Fierce attacks before you
+will be able to learn such
+Deathblow Skills.<New>
+To master these attacks, you
 should keep trying to do, say,
 four Weak blows in a row, or
 two Strong blows, or even a
-Fierce blow accompanied by
+Fierce blow followed up with
 another type of blow.<New>
 In other words, the way to
-learn new 'Deathblow Skills'
+learn new Deathblow Skills
 is through the frequent use
 of various combinations of
-the three basic Attacks!<Close><End of Block>
+the three basic attacks!<Close><End of Block>
 <TextBlock 30 w:58 h:5>
-So, whatcha' think?
+So, whatcha think?
 Doesn't it just make ya want
 to go out there now and start
-learning those 'Deathblow
-Skills' as soon as possible!?<Close><Delay 20><Close><End of Block>
+learning those Deathblow
+Skills as soon as possible!?<Close><Delay 20><Close><End of Block>
 <TextBlock 31 w:42 h:4>
 Alright, here we go!<Delay 20>
 More about Deathblows
 and their relation to
-Experience Levels...!<Close><End of Block>
+experience levels...!<Close><End of Block>
 <TextBlock 32 w:54 h:5>
 If you want to see how
 close you are to learning
-certain 'Deathblow Skills',
-go to the Menu Screen and
-then to the Status Screen.<New>
-From the Status Screen you
+certain Deathblow Skills,
+go to the Menu screen and
+then to the Status screen.<New>
+From the Status screen you
 can select 'Skills' to view
 a list of your Deathblows,
 with meters showing the
 percentage learned so far.<New>
-If one of the Deathblows
+If one of the meters
 just doesn't seem to be
 increasing, then you're
-probably using the wrong
-types of Attack buttons.<New>
+probably using the attack
+buttons in the wrong order.<New>
 In that case, it might be
-best to try those Attacks
+best to try a sequence
 you normally haven't been
 using. So experiment with
 different attack patterns!<New>
 But remember this...!
-Some 'Deathblow Skills'
+Some Deathblow Skills
 cannot be obtained until
 you have reached a certain
 level of experience!<New>
@@ -318,9 +320,9 @@ In this case, you will have
 to wait until your level of
 experience increases before
 you will be able to learn
-to use that Deathblow!<Close><End of Block>
-<TextBlock 33 w:48 h:4>
-... And that's about it.<Delay 20>
+that Deathblow!<Close><End of Block>
+<TextBlock 33 w:46 h:4>
+...And that's about it.<Delay 20>
 If you keep up in your
 studies, you're bound
 to go far!<Close><End of Block>
@@ -331,29 +333,29 @@ being such an enthusiastic
 scholar!<Delay 20> Hah hah hah!<Close><End of Block>
 <TextBlock 35 w:26 h:1>
 Received 80G!<Close><End of Block>
-<TextBlock 36 w:44 h:3>
+<TextBlock 36 w:48 h:3>
 Buy some pencils and
-books with that, OK!?<Delay 20> 
+books with that, okay!?<Delay 20> 
 Stick with it, kid!<Close><End of Block>
-<TextBlock 37 w:52 h:4>
+<TextBlock 37 w:54 h:4>
 Oh well... You can never
 be too old to study.<Delay 20> There
 are mountains of things to
-learn out there, young'un!<Close><End of Block>
+learn out there, young 'un!<Close><End of Block>
 <TextBlock 38 w:28 h:4>
 Don't tell me!<Delay 20>
 It's about the
-'Memory Cube',
+Memory Cube,
 right?<Close><End of Block>
-<TextBlock 39 w:64 h:3>
+<TextBlock 39 w:62 h:3>
 Oh good, good!<Delay 20>
 You're lucky, you came
 just at the right time...<New>
-If it's about the 'Memory Cube',
+If it's about the Memory Cube,
 then don't hesitate to ask me.
 No one knows better than I do!<Close><End of Block>
 <TextBlock 40 w:40 h:4>
-How about it then?
+How about it, then?
 Want to hear me out?<Delay 20>
     Yeah, okay!
     No, not really!<Close><End of Block>
@@ -370,7 +372,7 @@ tiny brain of yours!<Close><End of Block>
 I'll begin by explaining
 how to save your adventure.<New>
 Normally, you can open up
-the Menu Screen by pressing
+the Menu screen by pressing
 the <S> button.<Delay 20> From there
 you can select the 'File'
 option, and simply follow
@@ -385,8 +387,8 @@ a Cube you cannot save!<Close><End of Block>
 This bobbing, spinning thing is
 a 'Memory Cube', right!? You
 must be cool, calm and collected
-to superimpose yourself with it
-and boldly open the Menu Screen.
+to superimpose yourself upon it
+and boldly open the Menu screen.
 If you accomplish that you will
 be able to save successfully.
 You should always save without
@@ -407,24 +409,24 @@ let me explain once more!<Close><End of Block>
 Alright, this time, make
 sure you're listening then!<Delay 20>
 This spinning and bobbing
-thing here is the Memory
-Cube I just spoke about.<New>
+thing here is the 'Memory
+Cube' I just spoke about.<New>
 Fearlessly stand inside of
-the Cube's area and calmly
+the Cube's area then calmly
 and composedly open up the
-Menu Screen! From there you
+Menu screen! From there you
 will be able to save into a
-memory file as per normal.<New>
+memory file as per usual.<New>
 Especially in dungeons and
-other like areas, as soon
-as you see one of these,
+similar areas, as soon
+as you see one of these
 you should save without
 hesitation. You never can
 tell what may happen next!<New>
 When outside on the World
 Map, you can save anywhere
-you like (... probably)!
-If you don't want to wind
+you like (...probably)!
+If you don't want to end
 up crying later, make sure
 you save frequently, okay!?<Close><End of Block>
 <TextBlock 46 w:50 h:4>
@@ -432,8 +434,8 @@ So, that's it for
 my concise summary!<Delay 20>
 You took it all in this
 time, didn't you...?<New>
-Well, even a 2 year old
-Dongarian Monkey could
+Well, even a 2-year-old
+Dongarian monkey could
 understand my fantastic
 explanation 120%, right!?<Close><End of Block>
 <TextBlock 47 w:38 h:2>
@@ -444,7 +446,7 @@ And now, about the
 explanation fee...<New>
 Ha-haa! Just kidding...<Delay 20>
 You didn't think the great
-Lucca would be that mean
+Lucca would be that mean,
 did you?<New>
 This time I'll give you a
 special deal and let you
@@ -464,14 +466,14 @@ So c'mon, drop the excuses.
 Be a man and pay up!<Close><End of Block>
 <TextBlock 51 w:46 h:1>
 Had 28G taken from you!<Close><End of Block>
-<TextBlock 52 w:50 h:2>
+<TextBlock 52 w:52 h:2>
 Yes, thank you so much...<Delay 20>
-No receipts given though!<Close><End of Block>
-<TextBlock 53 w:54 h:2>
+No receipts given, though!<Close><End of Block>
+<TextBlock 53 w:56 h:2>
 What the...!?
 You don't even have 28G?<New>
 I guess I have no choice...<Delay 20>
-You'll have to owe me then.<New>
+You'll have to owe me, then.<New>
 Don't forget, you now owe
 me 28G! You got that, Fei?<Close><End of Block>
 <TextBlock 54 w:28 h:1>
@@ -479,14 +481,14 @@ Owe Lucca 28G!<Close><End of Block>
 <TextBlock 55 w:54 h:5>
 What!?<Delay 5>
 You won't hear what I
-have to say!
+have to say?
 Don't you want to know!?<New>
 The logical, comprehensible
 and downright beautiful
 lecture given by me,<Delay 5> the
 one and only great Lucca,<Delay 5>
 can only do you good...!<New>
-... No matter how many
+...No matter how many
 times you listen to it!<Delay 20>
 Oh, what a waste!<Delay 20> Well...
 don't come crying to me
@@ -494,15 +496,15 @@ when you run into trouble.<Close><End of Block>
 <TextBlock 56 w:54 h:5>
 What!?<Delay 5>
 You won't hear what I
-have to say!
+have to say?
 Don't you want to know!?<New>
 The logical, comprehensible
 and downright beautiful
 lecture given by me,<Delay 5> the
 one and only great Lucca,<Delay 5>
 can only do you good...!<New>
-... How will you ever know
-unless you hear it out!<Delay 20>
+...How will you ever know
+unless you hear it out!?<Delay 20>
 Oh, what a waste!<Delay 20> Well...
 don't come crying to me
 when you run into trouble.<Close><End of Block>
@@ -510,10 +512,10 @@ when you run into trouble.<Close><End of Block>
 Oh, and you owe me 28G!<Delay 20>
 You haven't forgotten
 that have you, Fei?<New>
-I'm not going to let you
-get off so easily if you're
-trying to get out of paying
-your debt. You got that!?<Close><End of Block>
+If you're trying to get out
+of paying your debt, I'm
+not going to let you off
+that easily. You got that!?<Close><End of Block>
 <TextBlock 58 w:54 h:5>
 Did you know that you can
 spin the world around with
@@ -537,7 +539,7 @@ He usually gives good advice.<New>
 Although, once in a while
 he can be a little absent-
 minded...<New>
-Just recently, he mixed-up
+Just recently, he mixed up
 the love potion with the
 balding potion...<Close><End of Block>
 <TextBlock 60 w:34 h:2>
