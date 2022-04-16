@@ -404,9 +404,9 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 
 - Snapper GWhip: Add ‘Inflict Slow on hit’
 - BSnake GWhip: Add ‘Inflict Ether Machine Shutdown on hit’
-- SBlood GWhip: Add ‘Drain 5% of foe’s fuel on hit’
+- SBlood GWhip: No effect
 - Thor GWhip: Add Wind Element
-- Sonic GWhip: Change effect to ‘Decrease foe’s Defense by 10% on hit’
+- Sonic GWhip: Change effect to ‘Decrease foe’s physical attack by 10% on hit’
 - Magnetic Coat: Can be purchased at Shevat and Yggdrasil III (Disc 2)
 - Power Magic: Ether Amp +10 to +7. Can be purchased at the Anima Dungeons and Merkabah (first trip).
 
