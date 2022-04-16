@@ -12,7 +12,7 @@
  reflex time<New>
 <]>Warning to pilot:
  COMBAT MODE
- About to enter combat!<Delay 20>
+ About to enter combat<Delay 20>
  1200 fuel units left<New>
 <]>Use Command Ring in
  upper left of screen
