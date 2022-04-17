@@ -459,4 +459,10 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 - CosmicFrame
 - Ryan Piccuito ↙ ➡ ↘ ⬇ ↙ ⬅ ↘
 - rafael
+- The Minester
+- cthuljew
+- RayDreamer
 - Nohar
+
+### Tools:
+- SadNES cITy Translations
