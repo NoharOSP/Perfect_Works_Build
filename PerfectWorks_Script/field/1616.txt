@@ -1,7 +1,7 @@
 <TextBlock 1 w:36 h:4>
 Fei
 "Is this, <Delay 20>
-the 3rd gate<Delay 10>...<Delay 10>...<Delay 10>
+the third gate<Delay 10>...<Delay 10>...<Delay 10>
 ...<Delay 10>...<Delay 10>?"<Close><End of Block>
 <TextBlock 2 w:28 h:2>
 Fei
@@ -52,10 +52,11 @@ Where's the usual cute
 one?"<Close><End of Block>
 <TextBlock 11 w:50 h:3>
 Maria
-"I knew it wasn't Ramsus.<New>
+"I knew it wasn't
+an Element.<New>
 Yes...<Delay 20>that Gear is an
 evolved version of
-Seibzehn and Achtzehn!"<Close><End of Block>
+<Seibzehn> and Achtzehn!"<Close><End of Block>
 <TextBlock 12 w:52 h:4>
 Rattan
 "Our current task is
