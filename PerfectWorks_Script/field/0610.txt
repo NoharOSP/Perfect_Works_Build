@@ -22,7 +22,8 @@ has their attention!"<Close><End of Block>
 <TextBlock 6 w:36 h:4>
 Citan
 "Fei is bound...<Delay 20>
-to God's dark, cruel dream"<Close><End of Block>
+to God's dark,
+cruel dream"<Close><End of Block>
 <TextBlock 7 w:16 h:3>
 Dan
 "...<Delay 20>
@@ -44,18 +45,18 @@ I'm glad you're okay!"<Close><End of Block>
 Citan
 "Oh no...!<Delay 20>
 Timothy!!"<Close><End of Block>
-<TextBlock 12 w:16 h:2>
+<TextBlock 12 w:18 h:2>
 Timothy
-"...Ah!..."<Opcode 2 20><Close><End of Block>
+"Agh...!"<Opcode 2 20><Close><End of Block>
 <TextBlock 13 w:50 h:4>
 Fei
 "Stop it!!
 These people have nothing
-to do with you!"<Close><End of Block>
-<TextBlock 14 w:26 h:3>
+to do with you! Please!"<Close><End of Block>
+<TextBlock 16 w:26 h:3>
 Fei
 "No!<Delay 30>
-Lahan's...!?"<Close><End of Block>
+Lahan is...!?"<Close><End of Block>
 <TextBlock 15 w:50 h:4>
 Fei
 "It's just as Doc says.
@@ -79,14 +80,14 @@ You be careful, okay!!?"<Close><End of Block>
 <TextBlock 18 w:16 h:3>
 Fei
 "...<Delay 20>
-Ah...!?"<Close><End of Block>
+Wha<-->!?"<Close><End of Block>
 <TextBlock 19 w:38 h:3>
 Fei
 "...<Delay 20>
 What's with this!?"<Close><End of Block>
 <TextBlock 20 w:18 h:2>
 Fei
-"Ah...!?"<Opcode 2 10><Close><End of Block>
+"Wha<-->!?"<Opcode 2 10><Close><End of Block>
 <TextBlock 21 w:10 h:2>
 Fei
 "..."<Opcode 2 30><Close><End of Block>
@@ -100,7 +101,8 @@ Citan
 Timothy!!"<Close><End of Block>
 <TextBlock 24 w:46 h:4>
 Citan
-"I know.<Delay 15> What are they doing starting
+"Yes...<Delay 15> What on earth
+are they doing starting
 a battle here...!?<New>
 Are you all okay?"<Close><End of Block>
 <TextBlock 25 w:42 h:4>
@@ -113,8 +115,8 @@ safer location!"<Close><End of Block>
 <TextBlock 26 w:54 h:4>
 Citan
 "I understand how you feel,
-but leave the rest up to
-Fei and I!<New>
+but leave the rest to Fei
+and I!<New>
 The primary thing you
 should be concerned with
 is your own safety...<New>
@@ -159,16 +161,15 @@ The way you are fighting...<New>
 Oh no...
 This is not good!<Delay 20>
 If he awakens like this..."<Close><End of Block>
-<TextBlock 35 w:38 h:4>
+<TextBlock 35 w:44 h:4>
 Citan
 "You returned to
 retrieve your sister's
 wedding dress...!?"<Close><End of Block>
-<TextBlock 36 w:52 h:4>
+<TextBlock 36 w:50 h:4>
 Citan
-"Heh...
-You are such a sentimental
-little boy...!"<Close><End of Block>
+"Heh... You are
+quite something, Dan..."<Close><End of Block>
 <TextBlock 37 w:38 h:4>
 Citan
 "It appears that
@@ -230,8 +231,8 @@ Dan
 "I'm sorry Doctor Uzuki!
 I got out of the village
 earlier, but I came back...<New>
-... I just couldn't bear
-to think of leaving my
+...I just couldn't bear
+the thought of leaving my
 sister's wedding dress
 behind..."<Close><End of Block>
 <TextBlock 51 w:14 h:2>

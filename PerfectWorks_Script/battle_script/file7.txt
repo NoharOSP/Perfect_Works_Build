@@ -7,5 +7,5 @@ Fei
 you bastards!"<Close><End of Block>
 <TextBlock 3 w:40 h:3>
 Fei
-"Stop it!
-I said sto-p i---t!"<Close><Close><End of Block>
+"Stop i~t!<Delay 30>
+Sto~p i~~~t!"<Close><Close><End of Block>
