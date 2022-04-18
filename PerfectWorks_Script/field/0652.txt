@@ -8,22 +8,25 @@ Fei?<Close><End of Block>
 <TextBlock 3 w:38 h:2>
 Elly
 "...Are you awake?"<Close><End of Block>
-<TextBlock 4 w:48 h:4>
+<TextBlock 4 w:44 h:4>
 Elly
-"Yesterday you said your
-life was worthless. What
-did you mean by that?"<Close><End of Block>
+"Hey... Yesterday you
+said that your life
+Didn't mean anything.<New>
+What was that all
+about?"<Close><End of Block>
 <TextBlock 5 w:42 h:2>
 Fei
 "Why are you asking?"<Close><End of Block>
 <TextBlock 6 w:54 h:4>
 Elly
-"Why? Yesterday you looked
-like you had a death wish.<New>
-You think it wouldn't make
-me wonder...?<Delay 20> Say, how did
-you get stranded in this
-forest in the first place?"<Close><End of Block>
+"Why? Yesterday it was like
+you had a death wish.
+D'you think saying such<New>
+things wouldn't make me
+curious?<Delay 20> How did you come
+to be wandering in this
+forest?"<Close><End of Block>
 <TextBlock 7 w:38 h:3>
 Fei
 "I should ask you
@@ -32,12 +35,11 @@ the same question."<Close><End of Block>
 Elly
 "Huh? Well,
 I, uh..."<Close><End of Block>
-<TextBlock 9 w:38 h:3>
+<TextBlock 9 w:38 h:4>
 Fei
 "I...<Delay 30>ran away...<Delay 30>
-from my village...<Delay 30><New>
-or at least what's 
-left of it..."<Close><End of Block>
+Ran away...<Delay 30>from my
+village..."<Close><End of Block>
 <TextBlock 10 w:40 h:3>
 Elly
 "Village...?
@@ -45,13 +47,13 @@ You don't mean...!?"<Close><End of Block>
 <TextBlock 11 w:54 h:4>
 Fei
 "Lahan...<New>
-It was a small village that
-existed between this forest
-and the mountain range.
-I ran away from there."<Close><End of Block>
-<TextBlock 12 w:36 h:2>
+A small village between
+this forest and the
+mountain range. I ran away
+from there."<Close><End of Block>
+<TextBlock 12 w:38 h:2>
 Elly
-"That village...?"<Close><End of Block>
+"That village...!?"<Close><End of Block>
 <TextBlock 13 w:54 h:4>
 Fei
 "It was a nice, peaceful
@@ -64,16 +66,15 @@ in the middle of the place.<New>
 The village was engulfed in
 flames... I couldn't just
 stand there and watch
-Lahan be destroyed...<New>
-So to try and save the
-villagers, I got in an
-empty Gear...without even
-knowing how to operate it.<New>
+Lahan be destroyed...so...<New>
+To try to save the villag-
+ers, I got in an abandoned
+Gear...without even knowing
+how to operate it.<New>
 I just thought maybe I
-could do it...no...it
+could do it... No...it
 was more like someone
 whispering to me...<New>
-Someone whispering to me...
 telling me to do it...
 But it was a disaster!
 The village..."<Close><End of Block>
@@ -87,15 +88,15 @@ Elly
 <TextBlock 16 w:44 h:4>
 Fei
 "No... The village was
-destroyed...<Delay 50>by
-my own hands..."<Close><End of Block>
+destroyed...<Delay 50>by my own
+hand..."<Close><End of Block>
 <TextBlock 17 w:4 h:1>
 !?<Opcode 2 30><Close><End of Block>
-<TextBlock 18 w:36 h:4>
+<TextBlock 18 w:40 h:4>
 Fei
 "Yes. It was me.
 I destroyed Lahan.
-I'm sure of it..."<Close><End of Block>
+Almost certainly..."<Close><End of Block>
 <TextBlock 19 w:38 h:3>
 Elly
 "What do you mean
@@ -116,12 +117,12 @@ Timothy...<Delay 10>was hit by
 a hail of bullets..."<Close><End of Block>
 <TextBlock 21 w:52 h:4>
 Fei
-"Then I don't remember 
+"Then... I don't remember 
 anything after that.<New>
-The Gear I was in went out
+The machine went out
 of control...
 Well, that's what Doc
-told me at least.<New>
+told me, at least.<New>
 When I came to...
 the village...
 and everyone in it...
@@ -132,8 +133,8 @@ Oh god...! Everybody...
 All such good people..."<Close><End of Block>
 <TextBlock 22 w:48 h:4>
 Elly
-"Went out of control...?
-The Gear...?
+"The machine went out of
+control...? The Gear...?
 What about the village?"<Close><End of Block>
 <TextBlock 23 w:12 h:2>
 Elly
@@ -149,13 +150,15 @@ Fei
 to the village, never
 started fighting there...<New>
 Then I wouldn't have
-tried to pilot that Gear.
-It's all their fault...
-Not mine!<New>
+tried to pilot that Gear.<New>
+No one from the village
+would have gotten dragged
+into this. It's all their
+fault. Not mine!<New>
 They're the ones to blame.
 If they'd never come...
 none of this would have...
-...if not for them!"<Close><End of Block>
+If not for them!"<Close><End of Block>
 <TextBlock 26 w:34 h:2>
 Elly
 "Enough of that!"<Close><End of Block>
@@ -171,7 +174,7 @@ Fei
 <TextBlock 30 w:44 h:4>
 Elly
 "Yes, you're a coward.
-All you're saying is
+All I'm hearing is
 'them, them, them'.<New>
 You talk as if 
 it's not your 
@@ -182,33 +185,39 @@ Fei
 <TextBlock 32 w:52 h:4>
 Elly
 "Yes, that's right!<New>
-Of course the direct cause
-of the battle was that a
-Gear made an emergency
-landing in your village.<New>
-But all Kislev wanted was
-the Gear, right?
-They weren't invading or
-out to destroy Lahan.<New>
+So maybe the direct cause
+of the battle was those
+Gears making an emergency
+landing.<New>
+But Kislev were only after
+those Gears, right?
+They weren't out to invade
+Lahan or harm its people.<New>
+No... The villagers...
 They died because you 
 had to pilot the Gear 
-and start fighting."<Close><End of Block>
+and start fighting!"<Close><End of Block>
 <TextBlock 33 w:10 h:2>
 Fei
 "..."<Close><End of Block>
 <TextBlock 34 w:52 h:4>
 Elly
-"What ever made you get
-into that Gear?<New>
+"I mean, why would you get
+into a Gear you can't even
+ride!?<New>
 Not just anyone can pilot 
 those machines, you know!<New>
-Besides...you should have
-been helping the villagers
-flee to safety instead!<New>
-How can you blame the
-damage on a Gear when it
-was your decision to fight
-in it in the first place?<New>
+There is no way an
+untrained civilian could
+hope to operate one!<New>
+Not to mention...shouldn't
+you really have been
+helping the villagers
+evacuate or something?<New>
+How can you blame those
+downed Gears for it all
+when in the end it was you
+who stirred up the enemy?<New>
 Why won't you take 
 responsibility? Why are 
 you trying to put the 
@@ -217,66 +226,70 @@ That's just running away!
 You're a coward!"<Close><End of Block>
 <TextBlock 35 w:52 h:4>
 Fei
-"That's right!
-I'm a coward!<New>
+"Yeah...maybe that...<New>
+That's right!
+I'm a coward!
+I've known it all along.<New>
 I didn't realize my own
 strength and have been
-blaming what happened as a
-result of that on others.<New>
+blaming others for the
+consequences.<New>
 I'm a pitiful excuse for a
-man.
-But...<New>
-I just felt this rush of
-blood in me and I couldn't
-help myself! Couldn't help
-myself...or help others."<Close><End of Block>
-<TextBlock 36 w:32 h:2>
+man. But...at the time,
+for some reason, I just
+felt this wild rush of<New>
+blood and I couldn't help
+myself! I didn't know what
+else to do..."<Close><End of Block>
+<TextBlock 36 w:34 h:2>
 Elly
-"Fei, I, I'm..."<Close><End of Block>
-<TextBlock 37 w:46 h:4>
+"Fei, I... I'm<-->"<Close><End of Block>
+<TextBlock 37 w:50 h:4>
 Fei
 "Shut up!!
 What do you know!?<New>
-When I came to, I 
-was surrounded by 
-piles of rubble...<New>
-I didn't know what had
-happened or what I had
-done. I remembered
-absolutely nothing.<New>
-All I knew was that my
-hands could still feel
-what they had done.<New>
-The only thing that
-penetrated the Gear's
-cockpit were screams...<New>
-Screams, the stench of 
-blood, the sound of 
-crushing bones, and 
-my own curses.<Close><End of Block>
+When I came to, I was
+surrounded by piles
+of rubble...<New>
+I remembered absolutely
+nothing about what
+happened or what I did.<New>
+And yet...in my hands...
+there's this sensation
+that lingers.<New>
+Even the thick bulkhead
+of a Gear couldn't have
+blocked out the screams,<New>
+the stench of blood, the
+sound of bones shattering
+and the voices cursing
+me...<Close><End of Block>
 <TextBlock 38 w:52 h:4>
 Look! Look at my hands!
-Can you hear their voices?
-Can you understand this
-feeling?<New>
-The feeling of having
-destroyed your village
-with your own hands...?<New>
-Of not being able to do
-anything for the children
-left behind...?<New>
-Now they have nothing...
-I have nothing...
-I have nowhere...
-no one..."<Close><End of Block>
+Do you know this
+sensation!? Can you hear
+the voices!?<New>
+This feeling of having
+destroyed my village
+with my own hands...
+When faced with the<New>
+children left behind, this
+feeling that there was
+nothing I could do for
+them...<New>
+I don't even have anywhere
+to go back to...
+Or anyone..."<Close><End of Block>
 <TextBlock 39 w:52 h:4>
 Fei
 "I didn't want to get in
-it... I had no choice...
-There was no other way..."<Close><End of Block>
-<TextBlock 40 w:16 h:2>
+it...<New>
+I couldn't help it...
+At the time I just
+couldn't help it..."<Close><End of Block>
+<TextBlock 40 w:24 h:2>
 Fei
-"Oh no!"<Close><End of Block>
+"What the!?"<Close><End of Block>
 <TextBlock 41 w:16 h:2>
 Elly
 "Fei..."<Close><End of Block>
