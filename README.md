@@ -23,6 +23,12 @@ https://mega.nz/file/7HpFFY5a#vMBxg7J8zyUcQWdVHi6zC11qjBY_-UXR827fMZIDBzQ
 Disc 2 (script):
 https://mega.nz/file/KL4ChCJR#Nn4qenQoyqrxO4rT3yKLEQWwI4o4po9VuRmYi23T8uQ
 
+Disc 1 (script + items/spells):
+https://mega.nz/file/6TJljSTT#W69SSmS7eme_PyaSBZX_rL68j5s1B1JaF9g9fI8FWFI
+
+Disc 2 (script + items/spells):
+https://mega.nz/file/nfB1yZJY#dT_Xqv38TVSxGZf4iUCW7ujdkmp6Kg48e49SRRNr-GA
+
 
 ## Introduction:
 
