@@ -2,7 +2,7 @@
 Uh...<Delay 30> Uhn...?<Close><End of Block>
 <TextBlock 2 w:32 h:3>
 Fei
-"Huh...!<Delay 20>
+"Huh...?<Delay 20>
 Where am I...!?"<Close><End of Block>
 <TextBlock 3 w:14 h:2>
 Fei
@@ -22,11 +22,11 @@ what do you mean...?"<Close><End of Block>
 <TextBlock 6 w:14 h:2>
 Fei
 "...!?"<Opcode 2 30><Close><End of Block>
-<TextBlock 7 w:28 h:3>
+<TextBlock 7 w:28 h:4>
 Fei
-"Dan...!!<Opcode 2 30>
-E, everyone...<Delay 10><Close>
-I...!"<Close><End of Block>
+"Dan...!!<Delay 10>
+E-Everyone...<Delay 10>
+I...!"<Opcode 2 30><Close><End of Block>
 <TextBlock 8 w:10 h:2>
 Fei
 "..."<Close><End of Block>
@@ -42,27 +42,27 @@ supposed to do now...?"<Close><End of Block>
 <TextBlock 11 w:42 h:3>
 Fei
 "Okay...<Delay 20>
-I understand, doc..."<Close><End of Block>
+I understand, Doc..."<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Fei
-"Well anyway...<Delay 20> Please
-take care of the rest of
-the things here, doc."<Close><End of Block>
+"Well, anyway...<Delay 20> Please
+take care of everything
+else here, Doc."<Close><End of Block>
 <TextBlock 13 w:10 h:2>
 Fei
 "..."<Close><End of Block>
-<TextBlock 14 w:18 h:2>
+<TextBlock 14 w:20 h:2>
 Fei
-"Gh...!!"<Close><End of Block>
+"Guh...!!"<Close><End of Block>
 <TextBlock 15 w:42 h:4>
 Citan
 "Oh, you have finally
-gained consciousness,
-Fei..."<Close><End of Block>
+regained conscious-
+ness, Fei..."<Close><End of Block>
 <TextBlock 16 w:32 h:3>
 Citan
-"Yes...<Delay 20>
-Well that is..."<Close><End of Block>
+"Yes...<Delay 20>well...
+that is..."<Close><End of Block>
 <TextBlock 17 w:12 h:2>
 Citan
 "Dan!"<Close><End of Block>
@@ -70,32 +70,33 @@ Citan
 Why did you have to
 fight in the middle
 of the village...?<Close><End of Block>
-<TextBlock 19 w:40 h:3>
-How do you even know
-how to operate such
-a monster...?<Close><End of Block>
-<TextBlock 20 w:32 h:2>
+<TextBlock 19 w:36 h:4>
+How can you even
+operate such a
+monstrous-looking
+thing...?<Close><End of Block>
+<TextBlock 20 w:34 h:2>
 Mommy...?<Delay 20>
-Where Mommy...?<Close><End of Block>
+Where's Mommy...?<Close><End of Block>
 <TextBlock 21 w:46 h:5>
 See, I told you so...<Delay 20>
 I said allowing someone
 we knew nothing about
 into our village would
 spell disaster...<Close><End of Block>
-<TextBlock 22 w:38 h:2>
+<TextBlock 22 w:40 h:2>
 Owww...<Delay 20>
-Hurts...It hurts...<Close><End of Block>
+Hurts... It hurts...<Close><End of Block>
 <TextBlock 23 w:46 h:4>
 Citan
 "Dan...<Delay 20><New>
 There is nothing to be
-gained from putting the
-blame all on Fei alone.<New>
-What is more, you know
-Fei had no control over
-the malfunction of that
-gear.<Close><End of Block>
+gained from putting all
+the blame on Fei alone.<New>
+Besides, you know Fei
+had no control over the
+malfunction of that
+Gear.<Close><End of Block>
 <TextBlock 24 w:44 h:4>
 Citan
 "It might be better if
@@ -116,14 +117,12 @@ going to come...<New>
 They will probably want
 to know what happened
 to their comrades.<New>
-Also, if you stay here, I
-do not think the atmosphere
-is going to be very joyful
-...if you know what I mean.<New>
-It is probably best for
-both you and all the
-other villagers here.<Close><End of Block>
-<TextBlock 26 w:50 h:4>
+If you stay here, I think
+it will bring about a less
+than pleasant situation...
+if you know what I mean.<New>
+For you and for them..."<Close><End of Block>
+<TextBlock 26 w:52 h:4>
 Citan
 "Yes, well... <Delay 20>Why not go
 through the Blackmoon
@@ -131,16 +130,14 @@ Forest and head for Av?<New>
 I am sure those soldiers
 from yesterday were not
 from Av.<New>
-If you can manage to
-cross the forest into 
-Av,<New> 
-they will not be able 
-to track you down very 
-easily."<Close><End of Block>
+If you can manage to cross
+the forest into Av, they
+will not be able to track
+you down so easily."<Close><End of Block>
 <TextBlock 27 w:48 h:3>
 Citan
 "Of course...<Delay 20>
-Well, do take care now."<Close><End of Block>
+Do be careful, Fei."<Close><End of Block>
 <TextBlock 28 w:46 h:4>
 <Opcode 1 1>Now, Fei, allow me to
 spill the blood out of
@@ -155,15 +152,15 @@ Dan
 <TextBlock 31 w:42 h:4>
 Dan
 "It...<Delay 10>was because you
-just had to get in that
-monster...<New>
+just had to get in
+that monster...<New>
 Alice and Timothy...<Delay 20>
 The people of the
 village are all...!!"<Close><End of Block>
 <TextBlock 32 w:48 h:3>
 Dan
 "You killed everyone
-using that monster...!!"<Close><End of Block>
+with that monster...!!"<Close><End of Block>
 <TextBlock 33 w:50 h:4>
 Dan
 "Murderer!!
@@ -190,11 +187,11 @@ Give me back my sister!!<Close>
 spill the blood out of
 love...<Delay 20>Like the sea of
 hell, <Delay 10>red, deep...!<Close><End of Block>
-<TextBlock 39 w:44 h:2>
+<TextBlock 39 w:42 h:2>
 Dan
-"Uuuaaaaaaahhhhh...!!"<Opcode 2 30><Close><End of Block>
+"Waaaaaaahhhhh...!!"<Opcode 2 30><Close><End of Block>
 <TextBlock 40 w:18 h:1>
-Please!...<Opcode 2 30><Close><End of Block>
+Please...!<Opcode 2 30><Close><End of Block>
 <TextBlock 41 w:32 h:2>
 No! Stay away...
 I'm scared...<Opcode 2 30><Close><End of Block>
