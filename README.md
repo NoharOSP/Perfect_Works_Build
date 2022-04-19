@@ -6,7 +6,7 @@ Xenogears Perfect Works Build: Including all official Xenogears information in P
 As the FMV patches are too large for the repository, links to them are provided here:
 
 Disc 1:
-https://mega.nz/file/eCwHgabC#N1E9g3f5rHFNGY-FegxWLYoeYJzHB8zDmSc1YHzyI0A
+https://mega.nz/file/fXQ1lICI#ETKMz_9eeWzwryFJXmKO7IvvUo2_rsKE9vd3ZLI2VYI
 
 Disc 2:
 https://mega.nz/file/DepzVaYR#uhGd1nppzWB6vKk9kJki5D-X2TkkcasPCGh7bCsDSVs
