@@ -287,7 +287,7 @@ true, but I feel for which
 ever prisoner received it!<Close><End of Block>
 <TextBlock 49 w:54 h:3>
 Hmm<Delay 5>...<Delay 5>but then again<Delay 5>...<Delay 5>
-it might have been Suzarn.<Delay 15>
+it might have been Suzanne.<Delay 15>
 Or,<Delay 5> hold on,<Delay 5> was it Vargas?<Opcode 2 60><Close><End of Block>
 <TextBlock 50 w:52 h:4>
 And to think, the entrance
@@ -417,7 +417,7 @@ victim found this morning!
 That makes five<Delay 5>...<Delay 5>and Rank
 A too!<New>
 I can't believe that
-it was Suzarn, one of the
+it was Suzanne, one of the
 Champ's famous gang members!<Close><End of Block>
 <TextBlock 72 w:54 h:3>
 Nothing like this has ever
