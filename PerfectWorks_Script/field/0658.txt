@@ -16,7 +16,7 @@ Elly
 <TextBlock 4 w:52 h:3>
 Citan
 "I imagined you would.
-You've had quite a day."<Close><End of Block>
+You have had quite a day."<Close><End of Block>
 <TextBlock 5 w:54 h:3>
 Citan
 "This is the machine Fei
@@ -24,7 +24,7 @@ boarded when Lahan was
 attacked.<New>
 Speaking of which, there
 was one other machine,
-abandoned on the outskirts 
+abandoned on the outskirts
 of the village...<New>
 Nil baya dars legus?
 (It was yours, right?)"<Close><End of Block>
@@ -33,18 +33,17 @@ Nil baya dars legus?
 <TextBlock 7 w:54 h:4>
 Citan
 "Just as I thought...<New>
-Gears making an emergency 
-landing in Lahan, a pilot 
+Gears making an emergency
+landing in Lahan, a pilot
 who disappeared,<New>
-and at the same time a 
-mysterious girl wandering 
-in the forest...<New>
-These are no mere 
-coincidences.<New>
+and at the same time a
+mysterious girl wandering
+in the forest... These are
+no mere coincidences.<New>
 Judging from your uniform,
 I would also say you are
-with the Geburah military.<New>
-Perhaps a lieutenant...
+with the Geburah military.
+Perhaps a lieutenant...<New>
 Am I correct?"<Close><End of Block>
 <TextBlock 8 w:26 h:3>
 Elly
@@ -63,17 +62,17 @@ the same."<Close><End of Block>
 !<Close><End of Block>
 <TextBlock 11 w:48 h:3>
 Citan
-"Don't worry, they were
+"Do not worry, they were
 given proper burials.<New>
-Although, they may not 
-be too happy since this 
+Although, they may not
+be too happy since this
 is foreign soil."<Close><End of Block>
 <TextBlock 12 w:22 h:2>
 Elly
 "I see..."<Close><End of Block>
 <TextBlock 13 w:30 h:3>
 Citan
-"Does Fei know 
+"Does Fei know
 about you?"<Close><End of Block>
 <TextBlock 14 w:36 h:3>
 Elly
@@ -89,13 +88,13 @@ Elly
 "Um..."<Close><End of Block>
 <TextBlock 17 w:54 h:4>
 Citan
-"...Well, it is fine. Let 
-us not pry too deeply into 
+"...Well, it is fine. Let
+us not pry too deeply into
 each other's pasts."<Close><End of Block>
 <TextBlock 18 w:16 h:2>
 Elly
 "But..."<Close><End of Block>
-<TextBlock 19 w:48 h:4>
+<TextBlock 19 w:50 h:4>
 Citan
 "Suffice it to say that I
 know a little more about
@@ -108,10 +107,10 @@ beg of you..."<Close><End of Block>
 <TextBlock 21 w:32 h:2>
 Elly
 "...What is it?"<Close><End of Block>
-<TextBlock 22 w:54 h:3>
+<TextBlock 22 w:54 h:4>
 Citan
-"If you go straight ahead 
-from here you will reach 
+"If you go straight ahead
+from here you will reach
 the main path.<New>
 Then, just keep going...
 Would you please leave us
@@ -121,77 +120,75 @@ while Fei is still asleep?"<Close><End of Block>
 <TextBlock 24 w:50 h:4>
 Citan
 "I have a feeling that
-bad things are happening 
+bad things are happening
 around Fei for a reason.<New>
 I would like to protect
-him if possible...
-I don't want him caught
-up in a needless conflict.<New>
-I am saying this for your 
+him if possible... I do
+not want him caught up in
+a needless conflict.<New>
+I am saying this for your
 benefit, too:
 Elly, you do not belong
 in this place.<New>
 Go home to your people."<Close><End of Block>
-<TextBlock 25 w:22 h:2>
+<TextBlock 25 w:24 h:2>
 Elly
 "Um... I..."<Close><End of Block>
-<TextBlock 26 w:48 h:4>
+<TextBlock 26 w:46 h:4>
 Citan
 "Do not worry.<New>
-I will not do anything 
+I will not do anything
 that would reveal your
 your true identity to
 Fei.<New>
-I will just tell him
-... that your family
-came for you."<Close><End of Block>
-<TextBlock 27 w:40 h:4>
+I will just tell him...
+that your family came
+for you."<Close><End of Block>
+<TextBlock 27 w:42 h:4>
 Elly
-"It's not 
-about that!<New>
+"It's not about that!
 I said something
 terrible to Fei...<New>
-So... I want to...
-tell him... that I'm
+So...I want to...
+tell him...that I'm
 sorry."<Close><End of Block>
 <TextBlock 28 w:42 h:2>
 Citan
 "Something terrible?"<Close><End of Block>
 <TextBlock 29 w:44 h:4>
 Elly
-"Fei told me that us 
-showing up ultimately 
+"Fei told me that us
+showing up ultimately
 got Lahan destroyed.<New>
 He kept saying...
  'If only they
-  hadn't come...'<New>
-Because of that, I 
-called Fei a coward<New>
-for just wanting to 
-escape his own burden 
+  hadn't come...'<Delay 30>
+Because of that,<New>
+I called Fei a coward
+for just wanting to
+escape his own burden
 of responsibility."<Close><End of Block>
-<TextBlock 30 w:54 h:4>
+<TextBlock 30 w:52 h:4>
 Elly
 "If I hadn't crash-landed
 in that village,<New>
-it would have remained a 
-peaceful place.<New>
-All those innocent people
-wouldn't have gotten 
-involved. Yet... I 
-accused Fei..."<Close><End of Block>
+it would have remained a
+peaceful place. All those
+innocent people wouldn't
+have gotten involved.<New>
+Yet... I accused Fei..."<Close><End of Block>
 <TextBlock 31 w:54 h:4>
 Citan
-"You are a rarity. The 
-people 'there' are not 
+"You are a rarity. The
+people 'there' are not
 supposed to think that way.<New>
-To them, surface dwellers 
-are nothing more than 
-domesticated animals, are 
-they not...?"<Close><End of Block>
+To them, surface dwellers
+are nothing more than
+domesticated animals,
+no...?"<Close><End of Block>
 <TextBlock 32 w:54 h:4>
 Elly
-"'The Shepherds, the 
+"'The Shepherds, the
 Abelites, took control over
 the surface dwellers,<New>
 the Lambs, possessing the
@@ -199,8 +196,8 @@ right to ordain life or
 death as they see fit...'"<Close><End of Block>
 <TextBlock 33 w:50 h:4>
 Citan
-"Exactly. Yet you feel 
-a responsibility to Fei 
+"Exactly. Yet you feel
+a responsibility to Fei
 and the villagers.<New>
 Why is that?"<Close><End of Block>
 <TextBlock 34 w:46 h:3>
@@ -210,48 +207,49 @@ myself...<New>
 At Jugend I was taught
 that surface dwellers
 were stupid and base...<New>
-... Hence the need for 
-us to control them...<Delay 20>
+Hence the need for us
+to control them...<Delay 20>
 But..."<Close><End of Block>
 <TextBlock 35 w:48 h:4>
 Citan
 "But upon meeting Fei,
 something about him made
 you feel otherwise?"<Close><End of Block>
-<TextBlock 36 w:48 h:4>
+<TextBlock 36 w:46 h:4>
 Elly
-"Yes. He's no different
-than we are... In fact, 
-he seemed even tougher.<New>
-He has something...
-... Something we don't.<Delay 10><New>
-He also put himself at 
-risk twice fighting for 
+"Yes. He's not all that
+different from us...<New>
+If anything, he seemed
+even tougher.
+He has something...<Delay 10>
+Something we don't.<New>
+He also put himself at
+risk twice fighting for
 me, of all people."<Close><End of Block>
-<TextBlock 37 w:50 h:4>
+<TextBlock 37 w:48 h:4>
 Citan
-"Your people would 
-normally feel dishonored 
+"Your people would
+normally feel dishonored
 by such a deed.<New>
 But you are grateful
 to Fei.<Close><End of Block>
 <TextBlock 38 w:52 h:4>
 Elly
-"I think maybe it's my 
+"I think maybe it's my
 father's influence.<New>
-He had an open mind about 
+He had an open mind about
 surface dwellers.<New>
-My nanny... was a surface
+My nanny...was a surface
 dweller. No one knew about
-that though...<New>
+that, though...<New>
 And also...
 Fei and I are alike..."<Close><End of Block>
-<TextBlock 39 w:22 h:2>
+<TextBlock 39 w:20 h:2>
 Citan
 "How so?"<Close><End of Block>
 <TextBlock 40 w:28 h:3>
 Elly
-"No, nothing. 
+"No, nothing.
 Never mind..."<Close><End of Block>
 <TextBlock 41 w:54 h:4>
 Citan
@@ -260,25 +258,24 @@ I am sorry. After just
 saying we should not pry...<New>
 It is my nature, you know?
 My wife says I am too
-persistent and that I
-talk too much,<New>
-But personally, I
-don't think it is that 
-much...."<Close><End of Block>
+persistent and that I talk
+too much.<New>
+But personally, I do not
+think it is that much..."<Close><End of Block>
 <TextBlock 42 w:40 h:4>
 Citan
-"Anyway, as things 
-stand<New>
+"Anyway...<New>
+as things stand
 it is probably best
 if you return home
 to your country.<New>
-You really shouldn't 
-be here."<Close><End of Block>
-<TextBlock 43 w:34 h:4>
+You really should
+not be here."<Close><End of Block>
+<TextBlock 43 w:36 h:4>
 Elly
 "I'll return to
 headquarters.
-But then what..."<Close><End of Block>
+But then what...?"<Close><End of Block>
 <TextBlock 44 w:40 h:2>
 Citan
 "You are worried..."<Close><End of Block>
@@ -288,12 +285,12 @@ Elly
 <TextBlock 46 w:48 h:4>
 Citan
 "I can understand why.
- 'I, too, was like that
-  once'."<Close><End of Block>
-<TextBlock 47 w:28 h:2>
+ 'I, too, was
+  like that once'."<Close><End of Block>
+<TextBlock 47 w:28 h:3>
 Elly
 "Citan, will
-you promise..."<Close><End of Block>
+you promise<-->"<Close><End of Block>
 <TextBlock 48 w:46 h:4>
 Citan
 "I will be tactful
