@@ -101,10 +101,10 @@ Rankar's meal!<New>
 If Fei had not intervened,
 I hate to think what might
 have happened.<New>
-But I was not too pleased
-with his rashness in trying
-to take on that beast
-with just his bare fists."<Close><End of Block>
+I am not too sure about his
+rashness in trying to take
+on that beast with just his
+bare fists, though!"<Close><End of Block>
 <TextBlock 17 w:26 h:2>
 Elly
 "Bare fists?"<Close><End of Block>
