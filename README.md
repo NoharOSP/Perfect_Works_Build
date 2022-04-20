@@ -101,9 +101,18 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Earth Mode = Seismic Mode
 - Fire Mode = Inferno Mode
 - Water Mode = Torrent Mode
-- Bart Missiles = Bart Bombs
+- Bart Missiles = Bart Bombs (to be included)
 - Vance = Franz (to be included)
 - Franz = Vance (to be included)
+- Amphysvena = Amphisbaena (to be included)
+- Harlute	= Harut (to be included)
+- Marlute =	Marut (to be included)
+- Sundel = Sandalphon (to be included)
+- Schpariel	= Spirale (to be included)
+- Seibzehn = Siebzehn (to be included)
+- Skyghene = Skyscreech (to be included)
+- Sufal	= Sphar (to be included)
+- Suzarn = Suzanne (to be included)
 
 
 ### Story changes:
