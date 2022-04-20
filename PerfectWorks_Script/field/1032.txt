@@ -1491,7 +1491,7 @@ I didn't have the desire
 to fight them<Delay 5>...<Delay 5><New>
 I defeated 3 Battlers, but
 I lost to the fourth, that
-Suzarn woman<Delay 5>...<Delay 5> I might be
+Suzanne woman<Delay 5>...<Delay 5> I might be
 able to beat her, perhaps."<Close><End of Block>
 <TextBlock 252 w:48 h:4>
 Fei
