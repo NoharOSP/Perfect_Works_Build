@@ -389,10 +389,11 @@ expected<Delay 5>...<Delay 5>
 the Champ will win though."<Close><End of Block>
 <TextBlock 76 w:54 h:5>
 Guard
-"<Delay 5>...<Delay 5>You lost to Suzarn and
-you're only Rank B so there
-is no reason for the
-committee to notice you<Delay 5>..."<Close><End of Block>
+"<Delay 5>...<Delay 5>You lost to Suzanne 
+and you're only Rank B<New> 
+so there is no reason 
+for the committee to 
+notice you<Delay 5>..."<Close><End of Block>
 <TextBlock 77 w:56 h:5>
 Guard
 "Next time you'll fight
@@ -787,7 +788,7 @@ late at night and fought
 with a mysterious monster.
 This is the fourth victim.
 In order to clear this up,
-Suzarn, Rank A, has been
+Suzanne, Rank A, has been
 ordered to deal with the
 mysterious monster.
     - Imperial Committee -<Close><End of Block>
