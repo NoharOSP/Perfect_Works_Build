@@ -9,16 +9,16 @@ to know that much<Delay 5>..."<Close><End of Block>
 <TextBlock 2 w:42 h:1>
 No good. It's locked.<Opcode 2 30><Close><End of Block>
 <TextBlock 3 w:42 h:3>
-Suzarn
+Suzanne
 "Champ, we've brought
 him to you."<Close><End of Block>
 <TextBlock 4 w:30 h:3>
-Suzarn
+Suzanne
 "Why you...!? 
 How insolent!!"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 A man called 'Champ'
-"Thanks Suzarn.<Delay 20>
+"Thanks Suzanne.<Delay 20>
 Hmmm, so you're the
 new inmate<Delay 5>...<New>
 We don't know or care what
@@ -27,7 +27,7 @@ but welcome to D Block<Delay 5>...<Delay 5>
 So what name do you go by?"<Close><End of Block>
 <TextBlock 6 w:36 h:4>
 Champ
-"Calm down Suzarn.
+"Calm down Suzanne.
 I don't mind<Delay 5>...<Delay 30>
 The name's Rico."<Close><End of Block>
 <TextBlock 7 w:52 h:4>
@@ -49,7 +49,7 @@ Rico
 "Leonardo!"<Close><End of Block>
 <TextBlock 11 w:18 h:2>
 Rico
-"Suzarn!"<Close><End of Block>
+"Suzanne!"<Close><End of Block>
 <TextBlock 12 w:54 h:3>
 Rico
 "Let's begin his 'Baptism'!
