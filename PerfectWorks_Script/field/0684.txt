@@ -7,16 +7,20 @@ next to this town too?"<Close><End of Block>
 Citan
 "This is an Av-run
 excavation site.<New>
-The machines and Gears
-found here are valuable
-resources that could turn
-the tide of the war.<New>
-They are indispensible
-to the war effort."<Close><End of Block>
+The weapons excavated
+from the ruins<-->not least
+the ancient battle
+machines we call Gears<--><New>
+are valuable resources
+that could turn the tide
+of the war.<New>
+They are an obsession now
+for the countries in
+conflict."<Close><End of Block>
 <TextBlock 3 w:46 h:3>
 Citan
-"Anyway Fei...<Delay 10>
+"Anyway, Fei...<Delay 10>
 Let us move on.<New>
-We have more pressing
-matters to do than
-taking in the 'sites'!"<Close><Close><End of Block>
+We have more important
+things to do than take
+in the 'sites'!"<Close><Close><End of Block>

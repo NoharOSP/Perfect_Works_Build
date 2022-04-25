@@ -1,27 +1,26 @@
 <TextBlock 1 w:44 h:4>
 Fei
-"Wow...
-So this is The Church
-of the Ethos workshop,<New>
-eh, doc?"<Close><End of Block>
+"Wow... So this is the
+Church of the Ethos
+workshop, Doc?"<Close><End of Block>
 <TextBlock 2 w:56 h:4>
 Citan
-"Yes. The Church's workshops
-are the only places that
-officially repair Gears.<New>
-Let us see if we can get
-the parts we need to fix
-<Weltall> here.<New>
-As they say, time is money!
-...So we should do whatever
-we can do as soon as we are
-able to."<Close><End of Block>
+"Yes it is. The Church
+workshops are the only
+places that officially<New>
+repair Gears. Let us ask
+about the component we need
+to fix <Weltall>.<New>
+Time is money, as the old
+saying goes!
+Let us do what we need to
+do as quickly as possible."<Close><End of Block>
 <TextBlock 3 w:50 h:3>
 Citan
 "Sorry to bother you.<New>
 Our Gear has broken down,
-so I would like to buy
-some parts to fix it."<Close><End of Block>
+so I would like to buy a
+part to fix it."<Close><End of Block>
 <TextBlock 4 w:52 h:4>
 Citan
 "Yes, we are hoping to
@@ -30,8 +29,8 @@ injection bypass circuit."<Close><End of Block>
 <TextBlock 5 w:28 h:4>
 Citan 
 "I see.
-Sorry to have
-bothered you."<Close><End of Block>
+Sorry for the
+trouble."<Close><End of Block>
 <TextBlock 6 w:52 h:4>
 These days the Church's
 technology has become
@@ -58,18 +57,18 @@ up with the demand for repairs
 on the worker Gears used in
 the excavation of the ruins.<Close><End of Block>
 <TextBlock 9 w:40 h:2>
-Huh?
+Hmm?
 How can we help you?<Close><End of Block>
-<TextBlock 10 w:50 h:3>
+<TextBlock 10 w:42 h:3>
 Tough luck, huh?
-Can you tell me what make
-of parts you are after?<Close><End of Block>
-<TextBlock 11 w:48 h:4>
+Can you tell me the
+part's model number?<Close><End of Block>
+<TextBlock 11 w:50 h:4>
 X-29 model injection
 circuit?<New>
 That's only used on the
 latest military models.
-We don't keep those kind
+We don't keep those kinds
 of parts in stock here.<New>
 You can only get such
 special parts by placing
