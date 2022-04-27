@@ -397,7 +397,7 @@ Bart:
 - Serpent Sting: Add ‘Inflict Confusion on hit’
 - Silver Blood: Add ‘Heal 20% of damage dealt on hit’ 
 - Whip-Lasher: Add ‘Inflict Blind on hit’
-- Desert Worm: Add ‘Steal 10% of foe’s EP on hit’
+- Desert Worm: Add Earth Element (to be included)
 - Sonic Wave: Add ‘Decrease foe’s Defense by 10% on hit’ 
 - Wonder Whip: Add ‘Inflict Silence on hit’
 - Thor’s Thunda: Add Wind Element
