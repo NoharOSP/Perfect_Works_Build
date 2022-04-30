@@ -2,15 +2,16 @@
 Fei
 "Uh, umm...<Delay 30>
 What was that all about?"<Close><End of Block>
-<TextBlock 2 w:50 h:3>
+<TextBlock 2 w:42 h:3>
 Fei
-"What's with you guys?<New>
-Aren't you overreacting a
-little for just stealing
-a motorcycle..."<Close><End of Block>
-<TextBlock 3 w:16 h:2>
+"Wh-<Delay 20>What's with you
+guys?<New>
+Is it such a big deal
+that I stole one 
+motorcycle...?"<Close><End of Block>
+<TextBlock 3 w:18 h:2>
 Fei
-"Ah...!"<Close><End of Block>
+"Agh...!"<Close><End of Block>
 <TextBlock 4 w:32 h:3>
 Fei
 "Doc!<Delay 10>
@@ -19,14 +20,15 @@ You're alright?"<Close><End of Block>
 Fei
 "Hurry and
 do what...?"<Close><End of Block>
-<TextBlock 6 w:38 h:2>
+<TextBlock 6 w:26 h:3>
 Fei
-"...A, a, alright."<Close><End of Block>
+"A... Al...<Delay 30>
+Alright."<Close><End of Block>
 <TextBlock 7 w:40 h:4>
 Fei
 "<Delay 10>...<Delay 40>I'm fine<Delay 10>...<Delay 30>
 The Gear seems to be
-broken though<Delay 10>..."<Close><End of Block>
+broken, though<Delay 10>..."<Close><End of Block>
 <TextBlock 8 w:10 h:2>
 Fei
 "..."<Close><End of Block>
@@ -64,23 +66,24 @@ Citan
 Citan
 "I am so glad that you are
 unharmed.<New>
-The Gear had only temporary
-repairs made on it. They
-were not made to survive an
-outright battle like that."<Close><End of Block>
+I had only made emergency
+repairs to the Gear.<New>
+I guess they were not
+robust enough for a sudden
+battle."<Close><End of Block>
 <TextBlock 18 w:12 h:2>
 Citan
 "Fei?"<Close><End of Block>
 <TextBlock 19 w:32 h:4>
 Citan
 "Oh no!
-The Av Military!
+The Av military!
 Not now...!"<Close><End of Block>
 <TextBlock 20 w:46 h:4>
 Citan
-"Fei, I think we should
-remain calm<Delay 15>...<Delay 15>
-<Delay 15>...<Delay 40>?"<Close><End of Block>
+"Fei, we should
+probably go quietly<Delay 15>...<Delay 15>
+<Delay 15>Huh<Delay 40>?"<Close><End of Block>
 <TextBlock 21 w:12 h:2>
 Citan
 "Fei?"<Close><End of Block>

@@ -1,8 +1,8 @@
 <TextBlock 1 w:52 h:4>
 Fei
-"How far has doc gone?
-<Delay 10>...<Delay 5>And now I've lost
-sight of those Gears too."<Close><End of Block>
+"How far has Doc gone?
+<Delay 10>...<Delay 5>And now I've lost sight
+of those Gears, too."<Close><End of Block>
 <TextBlock 2 w:38 h:2>
 Fei
 "What's happening?"<Close><End of Block>

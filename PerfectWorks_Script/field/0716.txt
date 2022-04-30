@@ -4,7 +4,7 @@ Fei
 but I beat them!"<Close><End of Block>
 <TextBlock 2 w:28 h:2>
 Fei
-"What the?"<Close><End of Block>
+"What the...?"<Close><End of Block>
 <TextBlock 3 w:46 h:3>
 Fei
 "You're the one from...<Delay 40>
@@ -12,24 +12,24 @@ Lahan...!!"<Close><End of Block>
 <TextBlock 4 w:44 h:4>
 Fei
 "How much power I had?
-You don't mean-"<Close><End of Block>
+You don't mean..."<Close><End of Block>
 <TextBlock 5 w:50 h:3>
 Fei
 "To get me in that Gear!?
 It was planned by you!?"<Close><End of Block>
 <TextBlock 6 w:42 h:4>
 Fei
-"As a catalyst!?
-You mean you caused
-that intentionally!?"<Close><End of Block>
+"A trigger!?
+So you set the whole
+thing up!?"<Close><End of Block>
 <TextBlock 7 w:18 h:2>
 Fei
-"Crap..."<Close><End of Block>
+"Ugh..."<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Fei
 "You said you need my
-power? What were you
-intending to do with it!?"<Close><End of Block>
+power? Just what do you
+intend to do with it!?"<Close><End of Block>
 <TextBlock 9 w:44 h:4>
 Fei
 "What did you do to my
@@ -38,16 +38,17 @@ between you two!?"<Close><End of Block>
 <TextBlock 10 w:16 h:2>
 Fei
 "What!?"<Close><End of Block>
-<TextBlock 11 w:36 h:4>
+<TextBlock 11 w:34 h:4>
 Fei
-"Wait!
-We're not finished
-talking yet!!"<Close><End of Block>
+"W-Wait!<New>
+I'm not through
+talking to you
+yet!!"<Close><End of Block>
 <TextBlock 12 w:50 h:4>
 Fei
 "You mean you attacked my
-village just to get me in
-that Gear!? <New>
+village just to get me
+into this Gear!? <New>
 Why!?<Delay 20>
 Why did the villagers
 have to die...?"<Close><End of Block>
@@ -62,24 +63,23 @@ it!!"<Close><End of Block>
 Fei
 "Shut up!<New>
 Even if that were
-true, aren't you
-still the one who
-caused it!?<New>
+true, it was still
+you who started it!<New>
 If you hadn't come,
 the village wouldn't
-have suffered the
-way it did!"<Close><End of Block>
+have been put
+through this!"<Close><End of Block>
 <TextBlock 15 w:34 h:2>
 Fei
-"D, destroy god?"<Close><End of Block>
+"D-Destroy God?"<Close><End of Block>
 <TextBlock 16 w:48 h:4>
 Fei
 "Don't be ridiculous!
 I won't get involved
 in such a thing!<New>
 If you want to destroy
-your god, or whatever
-it is you're on about...
+God, or whatever it is
+you're on about...
 do it by yourself!!"<Close><End of Block>
 <TextBlock 17 w:42 h:4>
 Fei
@@ -88,13 +88,13 @@ My father?<Delay 30>
 You know my father!?"<Close><End of Block>
 <TextBlock 18 w:14 h:2>
 Fei
-"What?"<Close><End of Block>
-<TextBlock 19 w:42 h:2>
+"Huh!?"<Close><End of Block>
+<TextBlock 19 w:30 h:2>
 Citan
 "I knew it..."<Close><End of Block>
 <TextBlock 20 w:48 h:4>
 Man In Black
-"Your hot blooded desire
+"Your hot-blooded desire
 for battle has not been
 tamed, I see."<Close><End of Block>
 <TextBlock 21 w:48 h:4>
@@ -107,11 +107,10 @@ there in Lahan, didn't
 you, Fei!?"<Close><End of Block>
 <TextBlock 22 w:54 h:4>
 Grahf
-"A greater power...
-is what I need to
-fulfill my mission.<New>
+"Great power is necessary
+to achieve my goal.<New>
 I sent those Gears into
-that land as a catalyst to 
+that land as a trigger to
 awaken the power in you...
 To make contact with you."<Close><End of Block>
 <TextBlock 23 w:44 h:4>
@@ -121,19 +120,17 @@ A catalyst was needed
 to awaken your power."<Close><End of Block>
 <TextBlock 24 w:54 h:4>
 Grahf
-"That's right.<Delay 10>
-The death of your loved
-ones...<New>
-And you powerless against
-it happening...<Delay 10> The grief,<Delay 10>
-the screams from your heart
+"That's right.<Delay 10> The demise
+of your loved ones...<New>
+And you, helpless to
+prevent it...<Delay 10> The grief,<Delay 10>
+the scream from your heart
 born out of the tragedy...<New>
-There!<Delay 10>
-That was the catalyst for
-triggering your power."<Close><End of Block>
+THAT was the trigger for
+your power."<Close><End of Block>
 <TextBlock 25 w:54 h:4>
 Grahf
-"Who cares why!
+"Who cares why!?
 It does not matter how
 many of them died...<New>
 They were wretched vermin,
@@ -154,20 +151,20 @@ from within you that
 craves destruction."<Close><End of Block>
 <TextBlock 27 w:52 h:4>
 Grahf
-"Ah, so now you resort
-to blame? I see...<New>
-That sounds like something
-'you' would say.
-That's good. Your basic
-nature remains unchanged."<Close><End of Block>
-<TextBlock 28 w:44 h:4>
+"Hmph. Passing the blame
+now? I see... That is so
+'like you'.<New>
+That's good. At least your
+basic nature remains
+unchanged."<Close><End of Block>
+<TextBlock 28 w:42 h:4>
 Grahf
-"You know very well...<Delay 10>
-It is to destroy...<Delay 30>
+"You know very well.<Delay 10>
+To destroy...<Delay 30>
 Mother <Delay 10>God<Delay 10>..."<Close><End of Block>
 <TextBlock 29 w:52 h:4>
 Grahf
-"Yes, we will destroy god.
+"Yes, we will destroy God.
 That is our purpose...
 That is our destiny!"<Close><End of Block>
 <TextBlock 30 w:34 h:4>
@@ -185,43 +182,43 @@ than a scream of death."<Close><End of Block>
 <TextBlock 32 w:50 h:4>
 Grahf
 "Hmph, do you really wish
-to know? There is no use
-in you knowing it now."<Close><End of Block>
+to know?<New>
+But for you to learn
+that at this point would
+be a waste."<Close><End of Block>
 <TextBlock 33 w:42 h:4>
 Grahf
-"Your power is still
-beneath that needed
-for my purposes.<New>
-Anything unusable
-must be tried until
-it becomes suitable."<Close><End of Block>
+"That power of yours
+is not yet fit for
+purpose.<New>
+It is only reasonable
+to put it to the test
+until it becomes so."<Close><End of Block>
 <TextBlock 34 w:54 h:4>
 Grahf
 "What will you do, Fei?
-If you die here, then
-so be it.<New>
-You may indeed gain some
-happiness from not knowing.
-But surely, that is not
-what you truly want...?<New>
-If you want to know the
-truth...and that is what
-you want, isn't it Fei...
-then this is what to do...<New>
-You must show me that you
-have attained the level of
-strength I require...<New>
+If you fall here, then
+that's it.<New>
+Perhaps, for you,
+ignorance would be bliss.
+But is that what you truly
+desire...?<New>
+If what you really want is
+to know the truth...<New>
+Then you must show me that
+you have attained the level
+of strength I require...<New>
 To do that you must destroy
-others by using your own
-strength!<New>
-Then you will gain all
-that was lost in exchange
-for that scream of death!<Delay 15>
+others using your own
+power!<New>
+Only then, in exchange for
+a scream of death, will you
+regain all that was lost!!<Delay 15>
 Hahahaha!!"<Close><End of Block>
-<TextBlock 35 w:38 h:1>
+<TextBlock 35 w:28 h:1>
 MWHAHAHAHAHA!<Close><End of Block>
-<TextBlock 36 w:24 h:4>
+<TextBlock 36 w:26 h:4>
 Fei
 "!!
-What in hell
+What the hell
 is that!?"<Close><Close><End of Block>

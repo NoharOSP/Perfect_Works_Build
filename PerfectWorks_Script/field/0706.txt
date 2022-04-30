@@ -1,20 +1,20 @@
-<TextBlock 1 w:24 h:1>
-Wa-a-a-a-a!!<Opcode 2 150><Close><End of Block>
+<TextBlock 1 w:20 h:1>
+Whoooaaa!!<Opcode 2 150><Close><End of Block>
 <TextBlock 2 w:54 h:4>
 Fei
 "Does this desert ever end?<Delay 15>
 It'll get dark soon, so I
-better hurry up and..."<Close><End of Block>
+better hurry up and<-->"<Close><End of Block>
 <TextBlock 3 w:50 h:4>
 Fei
 "What's going on here?
 Gears, a flying saucer...
 and now these guys...<New>
-I hope doc's alright!"<Close><End of Block>
+I hope Doc's alright!"<Close><End of Block>
 <TextBlock 4 w:16 h:3>
 Fei
 "...<Delay 60>
-Eeeyah!"<Opcode 2 30><Close><End of Block>
+Hyaaah!"<Opcode 2 30><Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Fei
 "Uh, sorry about that!<Delay 10>
@@ -23,6 +23,6 @@ for a while!"<Close><End of Block>
 <TextBlock 6 w:2 h:1>
 ?<Opcode 2 100><Close><End of Block>
 <TextBlock 7 w:27 h:1>
- Hey, wa<~>it! <Close><End of Block>
+ Hey, wa~it! <Close><End of Block>
 <TextBlock 8 w:27 h:1>
- Hey, wa<~>it! <Close><Close><End of Block>
+ Hey, wa~it! <Close><Close><End of Block>

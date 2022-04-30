@@ -3,13 +3,13 @@ Fei
 "Sand buggy?"<Close><End of Block>
 <TextBlock 2 w:52 h:4>
 Fei
-"Going to the desert? Doc,
+"Into the desert? Doc,
 are you going to excavate
 some ruins or something?"<Close><End of Block>
 <TextBlock 3 w:44 h:3>
 Fei
 "What does that have
-to do with that Gear?"<Close><End of Block>
+to do with <Weltall>?"<Close><End of Block>
 <TextBlock 4 w:16 h:2>
 Fei
 "But..."<Close><End of Block>
@@ -18,27 +18,27 @@ Fei
 "Doc..."<Close><End of Block>
 <TextBlock 6 w:36 h:4>
 Fei
-"You can't pilot
-a military Gear?
-Why is that, doc?"<Close><End of Block>
-<TextBlock 7 w:54 h:4>
+"They can't pilot
+military Gears?
+Why is that, Doc?"<Close><End of Block>
+<TextBlock 7 w:52 h:4>
 Fei
-"What do you mean...'If you
+"So you're saying...if you
 aren't trained, you can't
-pilot a military Gear.'?<New>
-(Wasn't that Gear we found
+pilot a military Gear?<New>
+(Wasn't the Gear we found
 a military Gear?
-So why could I get it to
-work then, doc?)"<Close><End of Block>
+So how could I get it to
+work then, Doc?)"<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Citan
 "A sand buggy is a special
 type of vehicle designed
-for the desert terrain.<New>
-Its tires will not get
-stuck in the sand...
-You really need them for
-long desert trips."<Close><End of Block>
+for desert terrain.<New>
+Its tires do not get
+stuck in the sand, so it
+is a must for long trips
+into the desert."<Close><End of Block>
 <TextBlock 9 w:36 h:4>
 Citan
 "I see...
@@ -61,29 +61,30 @@ for <Weltall>."<Close><End of Block>
 <TextBlock 13 w:54 h:4>
 Citan
 "The Kislev and Av armies
-are confronting each other 
+are confronting each other
 in the desert all the time.<New>
 There is talk that their
 forces often break into
 battle over the ruins."<Close><End of Block>
-<TextBlock 14 w:52 h:4>
+<TextBlock 14 w:50 h:4>
 Citan
 "If I search the battle-
-fields for the wrecks of
-such army Gear...<New>
-...I should be able to
-find the parts we need.<New>
-(Besides <Weltall> is a
-Kislev Gear, so we need
-parts from Kislev Gears.)"<Close><End of Block>
+fields for the wreckage
+of such army Gears,<New>
+I may find the component
+we seek.<New>
+<Weltall> was made by the
+Kislev Army, so we can
+most likely recover the
+part from Kislev Gears."<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 Citan
 "Fei, you are such a
 worrier. Things have
 a way of working out.<New>
 You do not need to worry
-so much. Come on, why not 
-go kill some time at the 
+so much. Come on, why not
+go kill some time at the
 bar until I get back?"<Close><End of Block>
 <TextBlock 16 w:44 h:4>
 Citan
@@ -96,26 +97,26 @@ natural talent to use
 military Gears."<Close><End of Block>
 <TextBlock 17 w:48 h:4>
 Citan
-"In your case Fei, it
+"In your case, Fei, it
 is because your natural
 talent is so prevalent."<Close><End of Block>
 <TextBlock 18 w:48 h:2>
-The sand buggy you were 
+The sand buggy you were
 waiting for is back.<New>
 Do you want to rent it?<Close><End of Block>
-<TextBlock 19 w:52 h:3>
-Hm? Never saw you before. <Delay 10>
+<TextBlock 19 w:46 h:3>
+Hm? Some new faces.<Delay 10>
 You want to rent out a
-sand buggy too, heh?<Close><End of Block>
+sand buggy too, huh?<Close><End of Block>
 <TextBlock 20 w:50 h:3>
-Of course...the keys are 
-in the ignition, you can 
+Of course. The keys are
+in the ignition<-->you can
 take it now.<Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Hey, are you letting
 him go out there alone?<New>
 Lots of fights break out
-in the desert...it's a
+in the desert... It's a
 real dangerous place.<New>
 I've heard about a group
 of pirates riding around
@@ -126,11 +127,11 @@ him go out there by
 himself.<Close><End of Block>
 <TextBlock 22 w:52 h:2>
 Sorry, it's not back yet.
-Please wait a little more.<Close><End of Block>
-<TextBlock 23 w:54 h:3>
-Hm? Haven't met you before.<Delay 10>
-So you want to rent out a
-sand buggy too?<Close><End of Block>
+Please wait a bit longer.<Close><End of Block>
+<TextBlock 23 w:46 h:3>
+Hm? Some new faces.<Delay 10>
+You want to rent out a
+sand buggy too, huh?<Close><End of Block>
 <TextBlock 24 w:50 h:3>
 Sorry but all our buggies
 are lent out now.<Delay 10> Do you
@@ -149,24 +150,27 @@ possible. Thank you!<Close><End of Block>
 <TextBlock 27 w:40 h:2>
 So when will you be
 returning the buggy?<Close><End of Block>
-<TextBlock 28 w:54 h:3>
-Civilian worker Gears have
-no chance against military
-worker Gears in excavating.<New>
+<TextBlock 28 w:54 h:4>
+Civilian worker Gears pale
+in comparison to military
+worker Gears when it comes
+to excavating.<New>
 But even if we had a
 military Gear, we wouldn't
 be able to operate it...<Close><End of Block>
-<TextBlock 29 w:54 h:3>
-Civilian worker Gears have
-no chance against military
-worker Gears in excavating.<New>
+<TextBlock 29 w:54 h:4>
+Civilian worker Gears pale
+in comparison to military
+worker Gears when it comes
+to excavating.<New>
 But even if we had a
 military Gear, we wouldn't
 be able to operate it...<Close><End of Block>
-<TextBlock 30 w:54 h:3>
-Civilian worker Gears have
-no chance against military
-worker Gears in excavating.<New>
+<TextBlock 30 w:54 h:4>
+Civilian worker Gears pale
+in comparison to military
+worker Gears when it comes
+to excavating.<New>
 But even if we had a
 military Gear, we wouldn't
 be able to operate it...<Close><End of Block>
