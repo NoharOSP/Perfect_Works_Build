@@ -46,9 +46,9 @@ you back!<Opcode 2 40><Close><End of Block>
 <TextBlock 11 w:16 h:1>
 Yessir!!<Opcode 2 30><Close><End of Block>
 <TextBlock 12 w:62 h:3>
-Did you hear anything about it?
+Did you hear all that?
     Yep
-    No, about what?<Close><End of Block>
+    No, hear what?<Close><End of Block>
 <TextBlock 13 w:36 h:2>
 Oh no. 
 Don't tell anyone.<Close><End of Block>
