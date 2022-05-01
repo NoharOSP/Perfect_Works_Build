@@ -79,8 +79,9 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Gaetia Key = Key of Goetia
 - Gebler = Geburah
 - Golgada = Golgotha
-- Helmholz = Helmholtz
 - Kadomony = Kadamoni 
+- Heimdal = Heimdall 
+- Helmholz = Helmholtz
 - Kahran = Carlin (and Kahr to Carl)
 - Kelvena = Cherubina
 - Mahanon = Machanon
@@ -113,7 +114,6 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Skyghene = Skyscreech (to be included)
 - Sufal	= Sphar (to be included)
 - Suzarn = Suzanne (to be included)
-- Heimdal = Heimdall (to be included)
 - Krelian = Karellen (to be included)
 - Stratski = Strachey (to be included)
 
