@@ -709,7 +709,8 @@ control the ship after the
 young master steered it.
 He is so reckless...<Close><End of Block>
 <TextBlock 113 w:60 h:3>
-We had a lot happen this time.
+A lot happened this time
+around!<New>
 I'd better take a good look
 at those propulsion wheels!<Close><End of Block>
 <TextBlock 114 w:46 h:2>
