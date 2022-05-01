@@ -113,6 +113,9 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Skyghene = Skyscreech (to be included)
 - Sufal	= Sphar (to be included)
 - Suzarn = Suzanne (to be included)
+- Heimdal = Heimdall (to be included)
+- Krelian = Karellen (to be included)
+- Stratski = Strachey (to be included)
 
 
 ### Story changes:
@@ -228,8 +231,8 @@ Citan:
 Changed the properties of Citan's buffs to differentiate him from Fei more.
 
 
-Heimdal/Fenrir:
-- Koga: Ether Defense Up
+Heimdall/Fenrir:
+- Koga: Ether lDefense Up
 - Yamiga: Attack Up
 
 
