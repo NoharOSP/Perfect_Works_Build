@@ -96,7 +96,7 @@ Sending the latest
 information!<Close><End of Block>
 <TextBlock 16 w:52 h:3>
 We'll forward the latest
-info. on to the Yggdrasil.
+info on to the Yggdrasil.
 Good luck rescuing Margie!<Close><End of Block>
 <TextBlock 17 w:46 h:1>
 They've entered gate 4.<Close><End of Block>
