@@ -3,11 +3,10 @@ Fei
 "Huh? <Delay 30>
 Ahh...well...
 sort of..."<Close><End of Block>
-<TextBlock 2 w:38 h:4>
+<TextBlock 2 w:32 h:4>
 Fei
-"Well...<Delay 32>
-I suppose you could
-say I was hurt..."<Close><End of Block>
+"No...<Delay 32>
+It's just..."<Close><End of Block>
 <TextBlock 3 w:28 h:3>
 Fei
 "There is that
@@ -18,7 +17,7 @@ Fei
 said...<New>
 What happened at Lahan...
 was all planned to get me
-to ride in that Gear...
+to board that Gear...
 Or so he claimed.<New>
 That's got me worried..."<Close><End of Block>
 <TextBlock 5 w:54 h:4>
@@ -49,13 +48,13 @@ I've never felt like this
 before..."<Close><End of Block>
 <TextBlock 7 w:50 h:4>
 Fei
-"Doc, why didn't I notice
-that I had no memories up
-until now?"<Close><End of Block>
+"Doc, why do I have no
+memories?<Delay 30> Why didn't it
+bother me until now?"<Close><End of Block>
 <TextBlock 8 w:38 h:3>
 Citan
-"To get you to ride
-in that Gear...?"<Close><End of Block>
+"To get you to
+board the Gear...?"<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Citan
 "Well we cannot do anything
@@ -63,7 +62,7 @@ as long as we are prisoners
 ...even if we wanted to."<Close><End of Block>
 <TextBlock 10 w:46 h:3>
 Let us rest a little.
-Maybe it will put your 
+Maybe it will put your
 mind at ease.<New>
      Good idea
      Let's talk more<Close><End of Block>
@@ -86,7 +85,7 @@ Did you sleep well?"<Close><End of Block>
 Citan
 "Sorry I messed up...
 I was careless.<New>
-That Gear is a top
+That Gear is a top-
 secret experimental
 model from Kislev...<New>
 It was only natural
@@ -109,15 +108,16 @@ about your father?"<Close><End of Block>
 <TextBlock 19 w:54 h:3>
 Citan
 "...<New>
-(It was him! No mistake...<Delay 32>
+(I am certain it was him...!<Delay 32>
 That was no coincidence...)<New>
 (Could it be that we are
 approaching...<Delay 32>the
-"Time of the<Delay 16> Gospel"...?)"<Close><End of Block>
+'Time of the Gospel'...?)"<Close><End of Block>
 <TextBlock 20 w:42 h:3>
 Citan
-"(Majesty...
-is this the end...?)"<Close><End of Block>
+"(Your Majesty...
+Will we really face
+annihilation...?)"<Close><End of Block>
 <TextBlock 21 w:34 h:3>
 Citan
 "Look!

@@ -19,7 +19,7 @@ Ramsus
 Karellen
 "Of course.<Delay 32><New>
 That is the way I
-created him, 
+created him,
 after all"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Karellen
@@ -29,9 +29,9 @@ who so cling to their lives<New>
 as to willingly be reduced
 to data in the SOL-9000
 matter nothing to me.<Delay 5>...<Delay 5><New>
-You will become an 
-obstruction to the 
-realization of 
+You will become an
+obstruction to the
+realization of
 my goal.<New>
 Nothing more.<Delay 5>..."<Close><End of Block>
 <TextBlock 6 w:44 h:4>
@@ -39,22 +39,23 @@ Karellen
 "Yes, that is
 exactly what I
 am working for.<New>
-I am leading the 
-people by 
+I am leading the
+people by
 'my own means'.
 That has not changed."<Close><End of Block>
 <TextBlock 7 w:20 h:3>
 Karellen
 "Kill him,
 'Ramses'!"<Close><End of Block>
-<TextBlock 8 w:38 h:2>
+<TextBlock 8 w:38 h:3>
 Citan
-"What will happen?"<Close><End of Block>
+"If it does not
+come to pass...?"<Close><End of Block>
 <TextBlock 9 w:34 h:3>
 Citan
 "Yes.<Delay 10><New>
 Twice<Delay 5>...<Delay 5>or<Delay 5>...<Delay 12>more
-accurately 
+accurately
 three times."<Close><End of Block>
 <TextBlock 10 w:50 h:3>
 Citan
@@ -71,14 +72,14 @@ Citan
 "Then..."<Close><End of Block>
 <TextBlock 13 w:40 h:4>
 Citan
-"It is somewhat 
-hasty to dispose 
+"It is somewhat
+hasty to dispose
 of him now.<New>
-I do not believe it 
-is so late that we 
+I do not believe it
+is so late that we
 cannot wait<New>
-until his 
-purpose becomes 
+until his
+purpose becomes
 clear."<Close><End of Block>
 <TextBlock 14 w:32 h:2>
 Citan
@@ -90,7 +91,7 @@ Citan
 "What is it...?"<Close><End of Block>
 <TextBlock 16 w:46 h:3>
 Citan
-"...<Delay 32>And, what is their 
+"...<Delay 32>And, what is their
 order...?"<Close><End of Block>
 <TextBlock 17 w:38 h:4>
 Citan
@@ -101,41 +102,42 @@ I was led to."<Close><End of Block>
 Citan
 "Yes.<New>
 Humans have that
-potential. There 
-is no need for 
+potential. There
+is no need for
 stewards now."<Close><End of Block>
 <TextBlock 19 w:42 h:4>
 Citan
-"That is correct. It 
-is as Your Majesty 
+"That is correct. It
+is as Your Majesty
 says, if Fei..."<Close><End of Block>
 <TextBlock 20 w:56 h:4>
 Emperor
-"Yes, the gospel.<New>
-<Delay 64>Banished from paradise 
-together with god's slumber,<New>
-we humans had to live as 
-foreigners on the harsh 
-surface of the earth.<New>
-Having filled the earth, 
-we again enter the presence 
-of god, return to paradise,
-and gain eternal life.<New>
-That is the time
-of the gospel.
-That time is approaching."<Close><End of Block>
+"Yes,<Delay 64> the Gospel.<New>
+With God's slumber, we
+humans were banished from
+paradise<New>
+and had to live as exiles
+on the harsh surface
+of the earth.<New>
+Having filled the earth,
+we will again enter the
+presence of God,<New>
+return to paradise,
+and gain eternal life.
+That is the Time of
+the Gospel.<New>
+That Time is approaching."<Close><End of Block>
 <TextBlock 21 w:52 h:4>
 Emperor
-"Until then we Gazel must 
-search for God's resting 
+"Until then we Gazel must
+search for God's resting
 place, and revive him.<New>
 If this does not 
-come true..."<Close><End of Block>
-<TextBlock 22 w:38 h:4>
+come to pass..."<Close><End of Block>
+<TextBlock 22 w:44 h:4>
 Emperor
-"Then such has been
-our fate
-from our genesis"<Close><End of Block>
+"Then by fate's hand,
+as ever, we..."<Close><End of Block>
 <TextBlock 23 w:26 h:3>
 Emperor
 "So he has 
@@ -152,8 +154,8 @@ Emperor
 They desire a
 more immediate disposal.<New>
 That is not unreasonable.<Delay 32>
-He is the object of a 
-'fear' etched into 
+He is the object of a
+'fear' etched into
 their memories"<Close><End of Block>
 <TextBlock 27 w:28 h:4>
 Emperor
@@ -163,7 +165,7 @@ It is likely."<Close><End of Block>
 Emperor
 "If that is your
 judgment,<New>
-so shall it be 
+so shall it be
 done"<Close><End of Block>
 <TextBlock 29 w:36 h:2>
 Emperor
