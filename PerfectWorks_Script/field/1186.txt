@@ -651,7 +651,7 @@ before trying to turn.
 Guess I learned something.<Close><End of Block>
 <TextBlock 102 w:46 h:4>
 Wow, to think something
-like a Lemora would be
+like a remora would be
 in the ocean... It was
 covered in shells!<Close><End of Block>
 <TextBlock 103 w:54 h:4>
@@ -664,7 +664,7 @@ white as a sheet, saying
 all the teacups were
 destroyed...<Close><End of Block>
 <TextBlock 104 w:50 h:5>
-There was a desert Lemora
+There were desert remoras
 plastered all over the 
 bottom of the ship.
 No wonder we didn't get 
