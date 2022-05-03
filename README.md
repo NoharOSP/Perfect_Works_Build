@@ -54,147 +54,101 @@ This step applies if you're playing the game using Beetle PSX HW and multiple pa
 - Click Regenerate.
 - Wait for the regeneration to finish.
 
-## Story:
+## Patches:
 
-### Translation:
+Coming soon: A patcher which allows users to decide what patches they wish to apply to their Xenogears ROM.
 
-Xenogears was translated from Japanese to English by one man in only 8 months. An incredibly respectable feat that kind of shows. Many words are mistranslated, spelling errors do appear, and a couple of rather infamously campy lines were put in like the iconic “My father? You mean my dad?” Line. The idea was to make the dialogue more faithful to perfect works and make the writing more refined to fit the story. Getting rid of a lot of dumb sounding lines is obviously something we were going to do to keep the tone as much as necessary but an important thing is that we’re aware that xenogears is still a video game. People are always gonna find ways to laugh at things that weren’t intended to be funny. After all you can name Chu-Chu and gears anything you want in the vanilla game. People will always find a way to take something less seriously. Even games known for being very dark stories such as Mother 3, Max Payne, and Fallout 1 all have moments that are unintentionally funny and fans of those games enjoy that aspect. 
+### Encounters:
 
-So the plan is to keep some of the camp wherever it’s reasonable because the game is as memorable for funny moments as it is for dark moments. And those moments are important to fans. Not every comedic line is going to stay. The infamous father example being the most notable. But efforts were made to keep what ever ones didn’t take away from a scene. The game has a lot of iconic lines like Id’s dropping a warship is cheating line that fans would be turned away if they changed. So please don’t be too worried or concerned about localization changes. Fans were taken into consideration. 
+- Encounter rate has been halved except for the Duneman Isle, Shevat Emergency Shaft, Anima Dungeon 2 and Deus for grinding reasons.
 
-### Name changes:
+Throughout the game encounter rates have been lowered. For many players this has been a strikingly annoying part of the game. Especially for sections with platforming as in emulated versions of Xenogears players no longer can hear the disc rev up loading the battle. Because the jump input gets eaten when a battle is being loaded this will have you run off cliffs which is very frustrating. So the encounter rate was halved across a majority of the game. Select areas such as Deus, Anima dungeon 2, the Duneman Isles, and the Shevat Emergency Shaft were kept the same. Deus is a common experience grinding spot due to the Power Seraph giving the most exp out of any single enemy in the game. Shevat’s Emergency Shaft and Anima Dungeon 2 were good places to grind for deathblows and money respectively. And the Duneman Isles is supposed to be a gauntlet with the constant threat of dragons. Which also have exclusive end game equipment on them. Not only would dropping the encounter rate here defeat the point of the optional dungeon it’d be a lot harder to get exclusive weapons.
 
-- True Weltall = Alpha Weltall
-- Alkanshel = Arc-en-Ciel
-- Anima Relics = Vessels of Anima
-- Anonelbe = Ahnenerbe
-- Aveh = Av
-- Bledavik = Breidablik
-- Broyer = Breuer
-- Day of Destruction = Day of Collapse
-- Elhaym = Elehayym
-- Elru = Elul
-- Ethos = The Church/Church of Ethos
-- Etrenank = Etemenanki
-- Gaetia Key = Key of Goetia
-- Gebler = Geburah
-- Golgada = Golgotha
-- Kadomony = Kadamoni 
-- Heimdal = Heimdall 
-- Helmholz = Helmholtz
-- Kahran = Carlin (and Kahr to Carl)
-- Kelvena = Cherubina
-- Mahanon = Machanon
-- Merkava = Merkabah
-- Miang = Myyah
-- Nikolai = Nikola
-- Nortune = Noatun
-- Opiomorph = Ophiomorphous
-- Razael = Raziel
-- Renk = Rank
-- Ricdeau = Rikudou
-- Taura = Torah
-- Thames = Tamuz
-- Tolone = Throne
-- Urobolus = Ouroboros
-- Yabeh = YHWH
-- Wind Mode = Zephyr Mode
-- Earth Mode = Seismic Mode
-- Fire Mode = Inferno Mode
-- Water Mode = Torrent Mode
-- Bart Missiles = Bart Bombs (to be included)
-- Vance = Franz (to be included)
-- Franz = Vance (to be included)
-- Amphysvena = Amphisbaena (to be included)
-- Harlute	= Harut (to be included)
-- Marlute =	Marut (to be included)
-- Sundel = Sandalphon (to be included)
-- Schpariel	= Spirale (to be included)
-- Seibzehn = Siebzehn (to be included)
-- Skyghene = Skyscreech (to be included)
-- Sufal	= Sphar (to be included)
-- Suzarn = Suzanne (to be included)
-- Krelian = Karellen (to be included)
-- Stratski = Strachey (to be included)
+### Exp/gold:
 
+- All exp/gold rates have been doubled.
 
-### Story changes:
+As a way of compensating for lower encounter rates, money and experience have been doubled in this patch to keep the game from spiking in difficulty.
 
-- Liquid Sky is referred to by Jessie and Sigurd in the gun room and by Maison after Shakhan.
-- The names of the Gazel Ministry are referenced by Krelian in their final scene.
+### Items/spells:
 
-
-## Gameplay:
-
-### Stat changes:
-
-Xenogears is frankly; terribly balanced. Not exactly its fault in particular, Squaresoft games were all infamous for this, even their well balanced games like Chrono Trigger had hiccups. Most of the cast has been rebalanced primarily around Billy and Emeralda as they’re frankly the most balanced party members in the game across gears and on-foot. BUFFS ARE THE PRIORITY! There are some necessary nerfs we begrudgingly made but we really wanted to focus on bugging the roster. the issue with the rosters balance primarily a bunch of not useful options and characters so that’s where the focus is. Characters and gears will be discussed in the same sections. 
+#### Field equipment changes:
 
 Elly:
-- Hit 7 to 10
-- Ether 15 to 20
-
-To help offset this and due to us not being a fan of strictly nerfing characters without compensations to other parts of their kit, Elly is receiving buffs for on-foot that will make her more inviting of an option. Though she is a mandatory party member fairly often this is in gear sections a majority of the time. So this will hopefully make her a bit more flexible overall. Her Rods will also have an increase to their damage overall and come with some more utility options to make her a more rounded character without removing her defining weakness of lacking on the physical front. 
-
+- Magical Rod: +4 to +5.
+- Arcane Rod: +6 to +7.
+- Hot Rod: +8 to +9.
+- Lunar Rod: +8 to +12.
+- Marshal Rod: +12 to +16.
+- Thunder Rod: +14 to +19.
+- Stone Rod: +14 to +19.
+- Flare Rod: +16 to +21.
+- Ice Rod: +14 to +19.
+- Queen's Rod: +18 to +24.
+- Dynamite Rod: +20 to +32.
+- Dark Rod: +22 to +34.
+- Chaos Rod: +24 to +31.
+- Psycho Rod: +28 to +36.
+- Skull Rod: +38 to +40.
 
 Bart:
+- WhippaSnappa: +6 to +8.
+- CobraCracka: +5 to +9.
+- Serpent Sting: Add ‘Inflict Confusion on hit’
+- Silver Blood: Add ‘Heal 20% of damage dealt on hit’ 
+- Whip-Lasher: Add ‘Inflict Blind on hit’
+- Desert Worm: Add Earth Element (to be included)
+- Sonic Wave: Add ‘Decrease foe’s Defense by 10% on hit’ 
+- Wonder Whip: Add ‘Inflict Silence on hit’
+- Thor’s Thunda: Add Wind Element
+- Death Adder: Add ‘Inflict Stop on hit’
 
-- Defense 10 to 14
-- Ether 7 to 14
-- Evade 14 to 16
+Barts whips having status effects are a really underused part of his kit. His whips in general were unimpressive. They don’t have the power of Billy’s guns Or Citan’s swords but unlike Elly he didn’t have as many unique utility weapons to compensate. They really just kept his attack comparable to Fei’s. Whips have been reworked with utility first in mind with the idea of switching between them to be helpful for the situation at hand.
 
-Bart is generally one of the weakest characters in the game due to mediocrity. For most of the game anything he can do others can do better. Without wild smile it’s arguable he’s even worse than Rico because at least stier was good, Bart’s gears tended to be outclassed. The goal was to rework bart to be much more supportive and improve his jack of all trades nature to be more useful for him. 
+- Yamato Sword: Has an instant death effect.
 
-These stat changes should allow Bart to be a lot more useful overall with out just buffing his attack stat to compensate for his middling toolkit. It also helps give him a sense of identity on the roster, as well as using generally under utilized stats in the game. No one in particular focused on defense or evasion so efforts are being made to help these stats play more of an impact as well as diversify the party. 
+The Yamoto Sword is the entire reason and main reward for going to the Duneman Isles. However the blade the dragons drop here literally does more damage. This is hyper demotivating. So the instant death effect was given to make players not only feel more satisfied for getting this, it also gives you a more fun tool to play with. 
 
+- Elly Jr Doll: +35 Ether rather than randomly inc/dec Ether power.
+- Emeralda Jr Doll: Now has the same effect as Economether.
+- Mermaid Ring: Provides Economether effect.
+- Ether Doubler: Can be purchased at Shevat and Yggdrasil III (Disc 2)
+- Slayer Robe: Can be purchased at Yggdrasil III (Disc 2)
 
-Rico:
-- HP 110 to 200
-- Attack 28 to 60
-- Defense 23 to 38
-- Hit 10 to 18
-- Agility 7 to 8
+#### Gear equipment changes:
 
-Rico is iconically bad. His tied for lowest speed in the game. His Agility and Hit stats are obviously bad but he doesn’t have anything to compensate for this. When he joins most of his stats are worse than Fei’s. Which really undersells he’s one of the only people who beat Fei in a 1v1 fight. Combined with no utility like healing or area of effect damage and Rico is comedically undercooked. The easy solution would be just to give him high speed but that just ruins the diversity of the cast. If that’s what we changed people would still not pick Rico because he’s just a worse Citan. We decided to double down on making Rico a juggernaut. His stats and growths have been adjusted to make him an offensive behemoth so he has noticeable strengths. We also slightly raised his agility to match the boss fight and to prevent the Ganondorf conundrum of giving a character so much power and having them still not be good because they don’t get to use it. Plus this ties him with Elly’s old agility stat, instead of putting him with the characters who lack deathblows. The same goes for his Hit rate as his accuracy is actually hilariously good for his boss fight. The balance for Rico’s absurd stats is his complete lack of any utility. (No healing, cures, aoe, elemental coverage etc)
+- Snapper GWhip: Add ‘Inflict Slow on hit’
+- BSnake GWhip: Add ‘Inflict Ether Machine Shutdown on hit’
+- SBlood GWhip: No effect
+- Thor GWhip: Add Wind Element
+- Sonic GWhip: Change effect to ‘Decrease foe’s physical attack by 10% on hit’
+- Magnetic Coat: Can be purchased at Shevat and Yggdrasil III (Disc 2)
+- Power Magic: Ether Amp +10 to +7. Can be purchased at the Anima Dungeons and Merkabah (first trip).
 
+#### New items:
 
-Emeralda:
-- Agility: 12 to 14
+- CrossPendant: Fei exclusive. +1 Ether/Ether Def. Same effect as Holy Pendant. Initial equip on Fei.
+- NisanCross: Fei exclusive. +10 Ether/Ether Def. Same effect as Holy Pendant. Dropped by Ophiomorphous
+- CCracka GWhip: +90 Attack and Inflicts Fuel Leak on hit. Available to buy at Tammuz after Gate 2 (to be included). 
+- Lasher GWhip: +75 Attack and Inflicts Camera Damage on hit. Available to buy in Nisan after Gate 1 (to be included). 
+- Citan Jr Doll: Increases speed by 2. Available to buy in the Yggdrasil III in Disc 2 for 60000.
+- Rico Jr Doll: Increases attack by 32. Available to buy in the Yggdrasil III in Disc 2 for 60000.
+- Maria Jr Doll: Increases EtherDef by 40. Available to buy in the Yggdrasil III in Disc 2 for 60000.
+- Margie Jr Doll: LifeStone and +5 to Eth/Edef. Available to buy in the Yggdrasil III in Disc 2 for 60000.
 
+#### Item changes:
 
-Chu-Chu:
-- Ether 12 to 25
+- Eyeballs, Fangs, Scales and Ivory have had their sale prices doubled. With encounters dropping, this change is done as a way to keep their value. This is particularly useful for Anima Dungeon 2 as if you’re revisiting the dungeon you’re certainly here because you need money for Big Joe's shop. 
+- Speed Star now costs 2500.
+- Samson's Hair can be bought at the Tamuz (first visit) for 1000.
 
+#### Monster drops:
 
-Weltall/Weltall-2/Xenogears:
-- Ether amp 10 to 15
+- The Executioner drops the ExecutionerGown.
+- Alpha Weltall at Raziel now drops a Power Crisis. The Alpha Weltall fight is great. It’s rewards not so much. You need the Trader's Card just to get it and it’s generic armor. Not even the best for pure defense. So at base for beating the boss you’ll receive a Power Crisis. This will make the few sections left on foot at least a little more enjoyable if you miss the first one or want more. 
+- Ophiomorphous drops the NisanCross.
 
-
-Stier:
-- Attack modifier: 12 to 14
-- Agility 7 to 8
-
-Stier was given a point of agility to help differentiate it from Seibzehn. They have very similar builds so while Stier was unironically very good it tends to be worse than Seibzehn once the Power Magics came into play. This gives distinctions to similar characters. 
-
-
-Seibzehn:
-- Agility 8 to 6
-
-
-El-Renmazuo:
-- RENM-24800 24800 to 28000
-
-
-El-Stier:
-- Attack modifier: 12 to 14
-- Agility 7 to 9
-
-All deathblow learning rates (sans Emeralda) have been doubled to accomodate for the lower encounter rate. Elly's has been changed to 8 from 3 so that players have more time to get her deathblows for plot related reasons.
-
-Yggdrasil IV:
-- Agility 8 to 10
-
-### Spell changes:
+#### Spell changes:
 
 WARNING: For any spell effects that are inaccessible in the official game (e.g. Ether up), text displaying their effect won't display like it would for a spell such as Yin Power. However, the spell definitely works as intended, even if the description is what you have to go by.
 
@@ -269,22 +223,9 @@ On foot Maria is actually pretty good and fairly underrated on account of her lo
 
 But Graviton Gun is way too costly in spite of this. By end-game you’ll only be able to use it twice and with the doubler equipped without the economether, you're only capable of using it once. Maria isn’t even available for many on foot sections so this should encourage players to use her and realize how good she actually is even without deathblows. 
 
-
-### Field changes:
-
-- Encounter rate has been halved except for the Duneman Isle, Shevat Emergency Shaft, Anima Dungeon 2 and Deus for grinding reasons.
-
-Throughout the game encounter rates have been lowered. For many players this has been a strikingly annoying part of the game. Especially for sections with platforming as in emulated versions of Xenogears players no longer can hear the disc rev up loading the battle. Because the jump input gets eaten when a battle is being loaded this will have you run off cliffs which is very frustrating. So the encounter rate was halved across a majority of the game. To compensate money and experience has been doubled to keep the game from spiking in difficulty. Select areas such as Deus, Anima dungeon 2, the Duneman Isles, and the Shevat Emergency Shaft were kept the same. Deus is a common experience grinding spot due to the Power Seraph giving the most exp out of any single enemy in the game. Shevat’s Emergency Shaft and Anima Dungeon 2 were good places to grind for deathblows and money respectively. And the Duneman Isles is supposed to be a gauntlet with the constant threat of dragons. Which also have exclusive end game equipment on them. Not only would dropping the encounter rate here defeat the point of the optional dungeon it’d be a lot harder to get exclusive weapons.
-
-
-### Monster changes:
-
-- All exp/gold rates have been doubled.
-- The Executioner drops the ExecutionerGown.
-- Alpha Weltall at Raziel now drops a Power Crisis. The Alpha Weltall fight is great. It’s rewards not so much. You need the Trader's Card just to get it and it’s generic armor. Not even the best for pure defense. So at base for beating the boss you’ll receive a Power Crisis. This will make the few sections left on foot at least a little more enjoyable if you miss the first one or want more. 
-- Ophiomorphous drops the NisanCross.
-
 ### Monster stats:
+
+#### Monster stats:
 
 Unless stated otherwise, the stat changed is HP.
 
@@ -325,7 +266,7 @@ Unless stated otherwise, the stat changed is HP.
 - Lucre Bug: 77 to 150 
 - Neo Gimmick: 7 to 14 
 
-### Boss stats:
+#### Boss stats:
 
 - Swordknight: Atk 90 to 100. Def 40 to 30 
 - Aegisknight: Atk 80 to 90. Def 60 to 50 
@@ -369,76 +310,142 @@ Unless stated otherwise, the stat changed is HP.
 - Deus: 75000 to 150000
 - Ouroboros: HP 50000 to 75000
 
-### Item changes:
+### Script:
 
-- Eyeballs, Fangs, Scales and Ivory have had their sale prices doubled. With encounters dropping, this change is done as a way to keep their value. This is particularly useful for Anima Dungeon 2 as if you’re revisiting the dungeon you’re certainly here because you need money for Big Joe's shop. 
-- Speed Star now costs 2500.
-- Samon's Hair can be bought at the Tamuz (first visit) for 1000.
+Xenogears was translated from Japanese to English by one man in only 8 months. An incredibly respectable feat that kind of shows. Many words are mistranslated, spelling errors do appear, and a couple of rather infamously campy lines were put in like the iconic “My father? You mean my dad?” Line. The idea was to make the dialogue more faithful to perfect works and make the writing more refined to fit the story. Getting rid of a lot of dumb sounding lines is obviously something we were going to do to keep the tone as much as necessary but an important thing is that we’re aware that xenogears is still a video game. People are always gonna find ways to laugh at things that weren’t intended to be funny. After all you can name Chu-Chu and gears anything you want in the vanilla game. People will always find a way to take something less seriously. Even games known for being very dark stories such as Mother 3, Max Payne, and Fallout 1 all have moments that are unintentionally funny and fans of those games enjoy that aspect. 
 
-### Field equipment changes:
+So the plan is to keep some of the camp wherever it’s reasonable because the game is as memorable for funny moments as it is for dark moments. And those moments are important to fans. Not every comedic line is going to stay. The infamous father example being the most notable. But efforts were made to keep what ever ones didn’t take away from a scene. The game has a lot of iconic lines like Id’s dropping a warship is cheating line that fans would be turned away if they changed. So please don’t be too worried or concerned about localization changes. Fans were taken into consideration. 
+
+#### Name changes:
+
+- True Weltall = Alpha Weltall
+- Alkanshel = Arc-en-Ciel
+- Anima Relics = Vessels of Anima
+- Anonelbe = Ahnenerbe
+- Aveh = Av
+- Bledavik = Breidablik
+- Broyer = Breuer
+- Day of Destruction = Day of Collapse
+- Elhaym = Elehayym
+- Elru = Elul
+- Ethos = The Church/Church of Ethos
+- Etrenank = Etemenanki
+- Gaetia Key = Key of Goetia
+- Gebler = Geburah
+- Golgada = Golgotha
+- Kadomony = Kadamoni 
+- Heimdal = Heimdall 
+- Helmholz = Helmholtz
+- Kahran = Carlin (and Kahr to Carl)
+- Kelvena = Cherubina
+- Mahanon = Machanon
+- Merkava = Merkabah
+- Miang = Myyah
+- Nikolai = Nikola
+- Nortune = Noatun
+- Opiomorph = Ophiomorphous
+- Razael = Raziel
+- Renk = Rank
+- Ricdeau = Rikudou
+- Taura = Torah
+- Thames = Tamuz
+- Tolone = Throne
+- Urobolus = Ouroboros
+- Yabeh = YHWH
+- Wind Mode = Zephyr Mode
+- Earth Mode = Seismic Mode
+- Fire Mode = Inferno Mode
+- Water Mode = Torrent Mode
+- Bart Missiles = Bart Bombs (to be included)
+- Vance = Franz (to be included)
+- Franz = Vance (to be included)
+- Amphysvena = Amphisbaena (to be included)
+- Harlute	= Harut (to be included)
+- Marlute =	Marut (to be included)
+- Sundel = Sandalphon (to be included)
+- Schpariel	= Spirale (to be included)
+- Seibzehn = Siebzehn (to be included)
+- Skyghene = Skyscreech (to be included)
+- Sufal	= Sphar (to be included)
+- Suzarn = Suzanne (to be included)
+- Krelian = Karellen (to be included)
+- Stratski = Strachey (to be included)
+
+#### Story changes:
+
+- Liquid Sky is referred to by Jessie and Sigurd in the gun room and by Maison after Shakhan.
+- The names of the Gazel Ministry are referenced by Karellen in their final scene.
+
+
+### Stat changes:
+
+Xenogears is frankly; terribly balanced. Not exactly its fault in particular, Squaresoft games were all infamous for this, even their well balanced games like Chrono Trigger had hiccups. Most of the cast has been rebalanced primarily around Billy and Emeralda as they’re frankly the most balanced party members in the game across gears and on-foot. BUFFS ARE THE PRIORITY! There are some necessary nerfs we begrudgingly made but we really wanted to focus on bugging the roster. The issue with the roster's balance primarily a bunch of not useful options and characters so that’s where the focus is. Characters and gears will be discussed in the same sections. 
 
 Elly:
-- Magical Rod: +4 to +5.
-- Arcane Rod: +6 to +7.
-- Hot Rod: +8 to +9.
-- Lunar Rod: +8 to +12.
-- Marshal Rod: +12 to +16.
-- Thunder Rod: +14 to +19.
-- Stone Rod: +14 to +19.
-- Flare Rod: +16 to +21.
-- Ice Rod: +14 to +19.
-- Queen's Rod: +18 to +24.
-- Dynamite Rod: +20 to +32.
-- Dark Rod: +22 to +34.
-- Chaos Rod: +24 to +31.
-- Psycho Rod: +28 to +36.
-- Skull Rod: +38 to +40.
+- Hit 7 to 10
+- Ether 15 to 20
+
+To help offset this and due to us not being a fan of strictly nerfing characters without compensations to other parts of their kit, Elly is receiving buffs for on-foot that will make her more inviting of an option. Though she is a mandatory party member fairly often this is in gear sections a majority of the time. So this will hopefully make her a bit more flexible overall. 
+
 
 Bart:
-- WhippaSnappa: +6 to +8.
-- CobraCracka: +5 to +9.
-- Serpent Sting: Add ‘Inflict Confusion on hit’
-- Silver Blood: Add ‘Heal 20% of damage dealt on hit’ 
-- Whip-Lasher: Add ‘Inflict Blind on hit’
-- Desert Worm: Add Earth Element (to be included)
-- Sonic Wave: Add ‘Decrease foe’s Defense by 10% on hit’ 
-- Wonder Whip: Add ‘Inflict Silence on hit’
-- Thor’s Thunda: Add Wind Element
-- Death Adder: Add ‘Inflict Stop on hit’
 
-Barts whips having status effects are a really underused part of his kit. His whips in general were unimpressive. They don’t have the power of Billy’s guns Or Citan’s swords but unlike Elly he didn’t have as many unique utility weapons to compensate. They really just kept his attack comparable to Fei’s. Whips have been reworked with utility first in mind with the idea of switching between them to be helpful for the situation at hand.
+- Defense 10 to 14
+- Ether 7 to 14
+- Evade 14 to 16
 
-- Yamato Sword: Has an instant death effect.
+Bart is generally one of the weakest characters in the game due to mediocrity. For most of the game anything he can do others can do better. Without wild smile it’s arguable he’s even worse than Rico because at least stier was good, Bart’s gears tended to be outclassed. The goal was to rework bart to be much more supportive and improve his jack of all trades nature to be more useful for him. 
 
-The Yamoto Sword is the entire reason and main reward for going to the Duneman Isles. However the blade the dragons drop here literally does more damage. This is hyper demotivating. So the instant death effect was given to make players not only feel more satisfied for getting this, it also gives you a more fun tool to play with. 
+These stat changes should allow Bart to be a lot more useful overall with out just buffing his attack stat to compensate for his middling toolkit. It also helps give him a sense of identity on the roster, as well as using generally under utilized stats in the game. No one in particular focused on defense or evasion so efforts are being made to help these stats play more of an impact as well as diversify the party. 
 
-- Elly Jr Doll: +35 Ether rather than randomly inc/dec Ether power.
-- Emeralda Jr Doll: Now has the same effect as Economether.
-- Mermaid Ring: Provides Economether effect.
-- Ether Doubler: Can be purchased at Shevat and Yggdrasil III (Disc 2)
-- Slayer Robe: Can be purchased at Yggdrasil III (Disc 2)
 
-### Gear equipment changes:
+Rico:
+- HP 110 to 200
+- Attack 28 to 60
+- Defense 23 to 38
+- Hit 10 to 18
+- Agility 7 to 8
 
-- Snapper GWhip: Add ‘Inflict Slow on hit’
-- BSnake GWhip: Add ‘Inflict Ether Machine Shutdown on hit’
-- SBlood GWhip: No effect
-- Thor GWhip: Add Wind Element
-- Sonic GWhip: Change effect to ‘Decrease foe’s physical attack by 10% on hit’
-- Magnetic Coat: Can be purchased at Shevat and Yggdrasil III (Disc 2)
-- Power Magic: Ether Amp +10 to +7. Can be purchased at the Anima Dungeons and Merkabah (first trip).
+Rico is iconically bad. His tied for lowest speed in the game. His Agility and Hit stats are obviously bad but he doesn’t have anything to compensate for this. When he joins most of his stats are worse than Fei’s. Which really undersells he’s one of the only people who beat Fei in a 1v1 fight. Combined with no utility like healing or area of effect damage and Rico is comedically undercooked. The easy solution would be just to give him high speed but that just ruins the diversity of the cast. If that’s what we changed people would still not pick Rico because he’s just a worse Citan. We decided to double down on making Rico a juggernaut. His stats and growths have been adjusted to make him an offensive behemoth so he has noticeable strengths. We also slightly raised his agility to match the boss fight and to prevent the Ganondorf conundrum of giving a character so much power and having them still not be good because they don’t get to use it. Plus this ties him with Elly’s old agility stat, instead of putting him with the characters who lack deathblows. The same goes for his Hit rate as his accuracy is actually hilariously good for his boss fight. The balance for Rico’s absurd stats is his complete lack of any utility. (No healing, cures, aoe, elemental coverage etc).
 
-### New items:
 
-- CrossPendant: Fei exclusive. +1 Ether/Ether Def. Same effect as Holy Pendant. Initial equip on Fei.
-- NisanCross: Fei exclusive. +10 Ether/Ether Def. Same effect as Holy Pendant. Dropped by Ophiomorphous
-- CCracka GWhip: +90 Attack and Inflicts Fuel Leak on hit. Available to buy at Tammuz after Gate 2 (to be included). 
-- Lasher GWhip: +75 Attack and Inflicts Camera Damage on hit. Available to buy in Nisan after Gate 1 (to be included). 
-- Citan Jr Doll: Increases speed by 2. Available to buy in the Yggdrasil III in Disc 2 for 60000.
-- Rico Jr Doll: Increases attack by 32. Available to buy in the Yggdrasil III in Disc 2 for 60000.
-- Maria Jr Doll: Increases EtherDef by 40. Available to buy in the Yggdrasil III in Disc 2 for 60000.
-- Margie Jr Doll: LifeStone and +5 to Eth/Edef. Available to buy in the Yggdrasil III in Disc 2 for 60000.
+Emeralda:
+- Agility: 12 to 14
 
+
+Chu-Chu:
+- Ether 12 to 25
+
+
+Weltall/Weltall-2/Xenogears:
+- Ether amp 10 to 15
+
+
+Stier:
+- Attack modifier: 12 to 14
+- Agility 7 to 8
+
+Stier was given a point of agility to help differentiate it from Seibzehn. They have very similar builds so while Stier was unironically very good it tends to be worse than Seibzehn once the Power Magics came into play. This gives distinctions to similar characters. 
+
+
+Seibzehn:
+- Agility 8 to 6
+
+
+El-Renmazuo:
+- RENM-24800 24800 to 28000
+
+
+El-Stier:
+- Attack modifier: 12 to 14
+- Agility 7 to 9
+
+
+Yggdrasil IV:
+- Agility 8 to 10
+
+
+All deathblow learning rates (sans Emeralda) have been doubled to minimize grinding and in case the encounters patch has been applied. Elly's has been changed to 8 from 3 so that players have more time to get her deathblows for plot related reasons.
 
 
 ## Credits:
