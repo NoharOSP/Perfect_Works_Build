@@ -94,16 +94,17 @@ Elly:
 Bart:
 - WhippaSnappa: +6 to +8.
 - CobraCracka: +5 to +9.
-- Serpent Sting: Add ‘Inflict Confusion on hit’
-- Silver Blood: Add ‘Heal 20% of damage dealt on hit’ 
-- Whip-Lasher: Add ‘Inflict Blind on hit’
-- Desert Worm: Add Earth Element (to be included)
-- Sonic Wave: Add ‘Decrease foe’s Defense by 10% on hit’ 
-- Wonder Whip: Add ‘Inflict Silence on hit’
-- Thor’s Thunda: Add Wind Element
-- Death Adder: Add ‘Inflict Stop on hit’
+- Serpent Sting: +7 to +10, add 'Inflict Confusion on hit' (to be included)
+- Black Snake: +7 to +12, add 'Inflict Silence on hit' (to be included)
+- Silver Blood: +8 to +14, add 'Lower Ether Def' (to be included)
+- Whip-Lasher: +10 to +16, add 'Inflict Poison on hit' (to be included)
+- Desert Worm: +12 to +18, add 'Inflict Confusion on hit' (to be included)
+- Sonic Wave: +14 to +24, add 'Lower Ether Def' (to be included)
+- Wonder Whip: +16 to +28, add 'Inflict Silence on hit' (to be included)
+- Thor’s Thunda: +20 to +34
+- Death Adder: +24 to +30, Add ‘Inflict Stop on hit’
 
-Barts whips having status effects are a really underused part of his kit. His whips in general were unimpressive. They don’t have the power of Billy’s guns Or Citan’s swords but unlike Elly he didn’t have as many unique utility weapons to compensate. They really just kept his attack comparable to Fei’s. Whips have been reworked with utility first in mind with the idea of switching between them to be helpful for the situation at hand.
+Barts whips having status effects are a really underused part of his kit. His whips in general were unimpressive. They don’t have the power of Billy’s guns or Citan’s swords but unlike Elly he didn’t have as many unique utility weapons to compensate. They really just kept his attack comparable to Fei’s. Whips have been reworked with utility first in mind with the idea of switching between them to be helpful for the situation at hand.
 
 - Yamato Sword: Has an instant death effect.
 
@@ -117,11 +118,10 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 
 #### Gear equipment changes:
 
-- Snapper GWhip: Add ‘Inflict Slow on hit’
-- BSnake GWhip: Add ‘Inflict Ether Machine Shutdown on hit’
-- SBlood GWhip: No effect
-- Thor GWhip: Add Wind Element
-- Sonic GWhip: Change effect to ‘Decrease foe’s physical attack by 10% on hit’
+- Serpent GWhip: Add 'Def Down' (to be included)
+- BSnake GWhip: Add 'Power loss' (to be included)
+- SBlood GWhip: Add 'Camera damage' (to be included)
+- Thor GWhip: +100 to +150, effect moved to CCracka GWhip (to be included)
 - Magnetic Coat: Can be purchased at Shevat and Yggdrasil III (Disc 2)
 - Power Magic: Ether Amp +10 to +7. Can be purchased at the Anima Dungeons and Merkabah (first trip).
 
@@ -129,8 +129,8 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 
 - CrossPendant: Fei exclusive. +1 Ether/Ether Def. Same effect as Holy Pendant. Initial equip on Fei.
 - NisanCross: Fei exclusive. +10 Ether/Ether Def. Same effect as Holy Pendant. Dropped by Ophiomorphous
-- CCracka GWhip: +90 Attack and Inflicts Fuel Leak on hit. Available to buy at Tammuz after Gate 2 (to be included). 
-- Lasher GWhip: +75 Attack and Inflicts Camera Damage on hit. Available to buy in Nisan after Gate 1 (to be included). 
+- CCracka GWhip: +90 Attack and Inflicts Slow on hit. Available to buy at Tammuz after Gate 2 (to be included). 
+- Lasher GWhip: +75 Attack and Inflicts Fuel Leak on hit. Available to buy in Nisan after Gate 1 (to be included). 
 - Citan Jr Doll: Increases speed by 2. Available to buy in the Yggdrasil III in Disc 2 for 60000.
 - Rico Jr Doll: Increases attack by 32. Available to buy in the Yggdrasil III in Disc 2 for 60000.
 - Maria Jr Doll: Increases EtherDef by 40. Available to buy in the Yggdrasil III in Disc 2 for 60000.
