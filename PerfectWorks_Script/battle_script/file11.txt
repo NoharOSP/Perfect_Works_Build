@@ -6,7 +6,7 @@ your life?<New>
 You come jumping out
 of an Av ship and
 claim that you are
-not Av soldiers!<New>
+not Av soldiers?<New>
 Stop trying
 to fool me!"<Close><End of Block>
 <TextBlock 2 w:44 h:4>
@@ -17,8 +17,8 @@ Even if you're the
 pettiest of soldiers,
 how's about showing 
 a little spine...<New>
-...and put up a
-decent fight!"<Close><End of Block>
+...and putting up a
+decent fight!?"<Close><End of Block>
 <TextBlock 3 w:36 h:4>
 Pirate
 "How nauseating!
@@ -31,10 +31,9 @@ Pirate
 "For someone who doesn't
 want to fight, you're
 quite powerful...<New>
-I see,
-an all-environment
-model... so that's it,
-huh?<New>
+I see, an
+all-environment model...
+So that's it, huh?<New>
 Now I want it
 even more!"<Close><End of Block>
 <TextBlock 5 w:38 h:3>
@@ -56,7 +55,7 @@ get it later.
 So be ready!"<Close><End of Block>
 <TextBlock 8 w:34 h:4>
 Fei
-"Wait one moment!
+"Wait a second!
 We're not
 Av soldiers!"<Close><End of Block>
 <TextBlock 9 w:24 h:3>

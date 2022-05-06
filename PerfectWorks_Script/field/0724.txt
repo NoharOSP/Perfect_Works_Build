@@ -15,7 +15,7 @@ in the sand...<Close><End of Block>
 <TextBlock 7 w:48 h:3>
 Fei
 "Doc!?
-Where did you go, doc!?"<Close><End of Block>
+Where did you go, Doc!?"<Close><End of Block>
 <TextBlock 8 w:44 h:4>
 Fei
 "Here we go again...<Delay 32>
@@ -23,7 +23,7 @@ You and I seem to have
 a fated relationship!"<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Fei
-"...I got you, doc!
+"...I got you, Doc!
 But when you're done, you
 hurry up there too, okay!?"<Close><End of Block>
 <TextBlock 10 w:54 h:4>

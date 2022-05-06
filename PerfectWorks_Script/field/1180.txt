@@ -21,7 +21,7 @@ Let's do it!<Close><End of Block>
 <TextBlock 7 w:32 h:1>
 BattCon level 1!<Close><End of Block>
 <TextBlock 8 w:44 h:1>
-Surface-combat, ready!<Opcode 2 32><Close><End of Block>
+Surface combat, ready!<Opcode 2 32><Close><End of Block>
 <TextBlock 9 w:40 h:1>
 Torpedo room, ready!<Opcode 2 32><Close><End of Block>
 <TextBlock 10 w:44 h:1>
@@ -68,7 +68,7 @@ Prepare for anti-aircraft
 battle upon surfacing!"<Close><End of Block>
 <TextBlock 19 w:46 h:4>
 Bart
-"Surface-combat!
+"Surface combat!
 Stand by with the
 anti-aircraft guns.<New>
 Gunner!
@@ -163,7 +163,7 @@ as far as you can!<New>
 Stop the engine!
 Crash alarm!!"<Close><End of Block>
 <TextBlock 38 w:34 h:2>
-Stop the engine! 
+Stop the engine!
 Crash alarm!!<Close><End of Block>
 <TextBlock 39 w:54 h:4>
 I don't hear anything other
@@ -237,10 +237,10 @@ Vance
 pursuing! Dammit!
 Impact in 3!!"<Close><End of Block>
 <TextBlock 50 w:56 h:4>
-Turret A 'Anton' and Turret
-B 'Belta'<Delay 16> can initiate their
-ectropometers twenty seconds
-after opening their hatches.<Close><End of Block>
+Turrets Anton and Bertha,<Delay 16>
+twenty seconds between
+opening the hatches and
+activating azimuth controls!<Close><End of Block>
 <TextBlock 51 w:52 h:3>
 Gungany...
 No, Bart Bomb, fueling!<New>
@@ -249,7 +249,7 @@ from opening the hatch
 to engage the illuminator!<Close><End of Block>
 <TextBlock 52 w:48 h:3>
 Alternate firing between
-A 'Anton' and B 'Belta'!<Delay 16>
+Anton and Bertha!<Delay 16>
 Calculating adjustments!<Close><End of Block>
 <TextBlock 53 w:52 h:3>
 Young master!
@@ -281,22 +281,22 @@ able to stand the friction!!<Close><End of Block>
 <TextBlock 57 w:24 h:1>
 First mate!!<Close><End of Block>
 <TextBlock 58 w:36 h:4>
-Y, young master!<Delay 16>
+Y-Young master!<Delay 16>
 What is happening?
 What was the alarm
-all about...<Close><End of Block>
+all about...?<Close><End of Block>
 <TextBlock 59 w:34 h:1>
-Y, young master!!<Opcode 2 96><Close><End of Block>
+Y-Young master!!<Opcode 2 96><Close><End of Block>
 <TextBlock 60 w:48 h:3>
 Maison
-"Y, young master!
+"Y-Young master!
 The Gungany Missiles...<New>
 You need permission from
 more than a half of the
 crew members to..."<Opcode 2 120><Close><End of Block>
 <TextBlock 61 w:36 h:3>
 Maison
-"Y-young master!<Delay 16>
+"Y-Young master!<Delay 16>
 What is happening?<New>
 What was the alarm
 all about...?"<Close><End of Block>
@@ -307,13 +307,13 @@ requisitioned ship,
 not a warship...<Close><End of Block>
 <TextBlock 63 w:42 h:3>
 Maison
-"Y, young master!<New>
+"Y-Young master!<New>
 I have an awfully bad
 feeling about this<Delay 5>...<Delay 10>
 Do be very careful!"<Close><End of Block>
 <TextBlock 64 w:52 h:4>
 Maison
-"Y, yes...young master...<New>
+"Y-Yes...young master...<New>
 I hear when they attacked
 the fort at the border,
 the Geburah, led by Ramsus,

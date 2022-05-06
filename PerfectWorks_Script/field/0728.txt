@@ -5,7 +5,7 @@ sea of sand... Don't you
 believe in comradeship?<Close><End of Block>
 <TextBlock 2 w:18 h:2>
 Citan
-"Woah..."<Close><End of Block>
+"Whoa..."<Close><End of Block>
 <TextBlock 3 w:22 h:2>
 Citan
 "Whoops..."<Close><End of Block>
@@ -34,20 +34,20 @@ Amazing...!"<Close><End of Block>
 Citan
 "?
 ..."<Opcode 2 32><Close><End of Block>
-<TextBlock 8 w:22 h:4>
+<TextBlock 8 w:24 h:4>
 Fei
-"C'mon doc!
+"C'mon, Doc!
 Over here!
 Hurry up!"<Close><End of Block>
 <TextBlock 9 w:40 h:2>
 Fei
-"Are you okay, doc?"<Close><End of Block>
+"Are you okay, Doc?"<Close><End of Block>
 <TextBlock 10 w:52 h:4>
 Fei
-"Sorry about that, doc!
+"Sorry about that, Doc!
 I didn't have time to
 open up the cockpit...<New>
-Are you really okay, doc?"<Close><End of Block>
+Are you really okay, Doc?"<Close><End of Block>
 <TextBlock 11 w:54 h:4>
 Fei
 "Yeah,<Delay 16> when I started it

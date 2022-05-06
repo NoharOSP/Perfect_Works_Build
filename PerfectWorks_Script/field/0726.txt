@@ -8,10 +8,10 @@ Doc!!"<Close><End of Block>
 <TextBlock 3 w:28 h:3>
 Fei
 "Let's get out
-of here, doc!"<Close><End of Block>
+of here, Doc!"<Close><End of Block>
 <TextBlock 4 w:16 h:2>
 Citan
-"Oh-oh!"<Opcode 2 32><Close><End of Block>
+"Uh-oh!"<Opcode 2 32><Close><End of Block>
 <TextBlock 5 w:52 h:4>
 Citan
 "Judging by the angle...<Delay 10>it
