@@ -160,14 +160,15 @@ Fei:
 Fei’s generally pretty great when balanced against the cast. But against himself, his Ether attacks tends to be very overshadowed and down right wasteful to use. All options should have merit. Even if it’s situational, a situational merit is better than consistently being eclipsed by basic attacks. They’re viable with Power Magic abuse but even Steel Mettle is with that. These changes will give players better insensitive to use these moves throughout the game. It also helps Weltall a fair bit. It tends to fall off hard by disc 1’s end. Between Renmazuo, Vierge, Siebzhen, Crescens (by technicality) and the addition of Andvari to your squad Fei really struggles to carry his weight. This will let him be better at contributing. Big Bang is admittedly a very reliable spell even without its new buffs. But it’s only learned before the final dungeon typically so this will help it see a little more prominence in disc 2.
 
 - ~~Iron Valor~~ Iron Focus: Accuracy Up
-- Yang Power: Ether Up, Defense Down 
+- Yang Power: Ether Up (to be included)
+- Yin Power: Attack Up (to be included)
 
 This will let Fei choose to be a magic focused or physical character to make using him more interesting instead of the binary choice of buffing his attack. 
 
 
 Weltall/Weltall-2/Xenogears:
-- Yang Power: Ether Up
-- Yin Power: Attack Up
+- Yang Power: Ether Up (to be included)
+- Yin Power: Attack Up (to be included)
 
 Defense buffs simply don’t work in gears. So their effects have been altered to function better. 
 
