@@ -377,6 +377,13 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Liquid Sky is referred to by Jessie and Sigurd in the gun room and by Maison after Shakhan.
 - The names of the Gazel Ministry are referenced by Karellen in their final scene.
 
+#### Chapter names:
+
+- Path to Av > Path to Aveh
+- Operation Av > Operation Aveh
+- Recapture Av > Recapture Aveh
+- Merkabah Calls > Merkava Calls
+
 
 ### Stat changes:
 
