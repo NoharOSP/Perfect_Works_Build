@@ -187,7 +187,7 @@ Changed the properties of Citan's buffs to differentiate him from Fei more.
 
 
 Heimdall/Fenrir:
-- Koga: Ether lDefense Up
+- Koga: Ether Defense Up
 - Yamiga: Attack Up
 
 
