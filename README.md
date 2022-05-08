@@ -54,6 +54,20 @@ This step applies if you're playing the game using Beetle PSX HW and multiple pa
 - Click Regenerate.
 - Wait for the regeneration to finish.
 
+## Saves:
+
+For those who want to test a certain section in the game. They use the mcd format supported by Duckstation.
+
+- xenomem1: Mountain Path - Operation Av
+- xenomem2: The Tournament - Brave Battlers
+- xenomem3: Brave Battlers - Secret Weapon
+- xenomem4: Men of the Sea - Ocean Floor
+- xenomem5: Deep Sea Girl - Protect Nisan!
+- xenomem6: Protect Nisan! - Tears for Fears
+- xenomem7: Shot Down! - Dreams...
+- xenomem8: Fallen Star - First and Last (Merkabah)
+- xenomemdebug: All debug rooms (disc 1 only)
+
 ## Patches:
 
 Coming soon: A patcher which allows users to decide what patches they wish to apply to their Xenogears ROM.
