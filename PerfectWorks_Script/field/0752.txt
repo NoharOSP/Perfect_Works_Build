@@ -14,7 +14,7 @@ That's where Breidablik, the
 Royal Capital of Av, and
 Fatima Castle are located.<New>
 Currently, there's no king
-living there though.<Delay 20>
+living there, though.<Delay 20>
 Anyway, that's my old home
 town."<Close><End of Block>
 <TextBlock 4 w:28 h:2>
@@ -25,7 +25,7 @@ Bart
 "I'd like to go ahead and
 settle our dispute but...<New>
 considering how close we
-are to the capital of Av,
+are to the Capital of Av,
 we'd probably get caught."<Close><End of Block>
 <TextBlock 6 w:10 h:2>
 Fei

@@ -1,9 +1,9 @@
 <TextBlock 1 w:46 h:4>
 Bart
-"Huh! What an idiot.
+"Hah! What an idiot.
 Trying to scare us with
 all show and no power,<New>
-eh, Fei!"<Close><End of Block>
+eh, Fei?"<Close><End of Block>
 <TextBlock 2 w:46 h:3>
 Bart
 "Anyway...looks like
@@ -26,7 +26,7 @@ Bart
 "What do you mean
 'huh?'!? What in blazes
 was that?<New>
-... Don't you know?"<Close><End of Block>
+...Don't you know?"<Close><End of Block>
 <TextBlock 7 w:46 h:4>
 Bart
 "That was incredible!
@@ -47,7 +47,7 @@ Bart
 "So, now that we've got
 rid of that nuisance,<New>
 let's get out of here,
-eh, Fei!"<Close><End of Block>
+eh, Fei?"<Close><End of Block>
 <TextBlock 10 w:28 h:3>
 "............"<Close>
 Fei
@@ -64,7 +64,7 @@ Fei
 "......"<Close><End of Block>
 <TextBlock 14 w:24 h:2>
 Fei
-"......huh?"<Close><End of Block>
+"......Huh?"<Close><End of Block>
 <TextBlock 15 w:40 h:3>
 Fei
 "...No,<Delay 30> I<Delay 30> err,<Delay 30>
@@ -77,4 +77,4 @@ idea how I even did it!"<Close><End of Block>
 <TextBlock 17 w:22 h:2>
 Fei
 "...One track
-mind..."<Close><Close><Close><Close>B<End of Block>
+mind..."<Close><Close><Close><Close><End of Block>

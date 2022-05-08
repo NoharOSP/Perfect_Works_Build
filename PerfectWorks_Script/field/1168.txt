@@ -10,10 +10,11 @@ Citan
 "So, what happened to
 this 'young one' you
 call 'master'?"<Close><End of Block>
-<TextBlock 3 w:36 h:3>
+<TextBlock 3 w:36 h:4>
 Citan
-"You seem to trust
-him a lot..."<Close><End of Block>
+"You certainly
+seem to trust
+him..."<Close><End of Block>
 <TextBlock 4 w:48 h:4>
 Citan
 "It is not a coincidence.
@@ -23,7 +24,7 @@ consequence...I assume."<Close><End of Block>
 Sigurd
 "Yes, he actually
 calculated this attack...<Delay 16>
-...or so he says!<New>
+or so he says!<New>
 As you can see...
 no one has died this
 time, either."<Close><End of Block>
@@ -49,11 +50,12 @@ Sigurd
 "Trust him...
 Yeah, I trust he'll
 get us into trouble."<Close><End of Block>
-<TextBlock 9 w:44 h:4>
+<TextBlock 9 w:48 h:4>
 Sigurd
-"But I never thought I
-would meet you here,
-'Hyu'..."<Close><End of Block>
+"But anyway, coincidence
+as it may be...<New>
+I never thought I'd meet
+'you' here..."<Close><End of Block>
 <TextBlock 10 w:48 h:4>
 Sigurd
 "...<Delay 32>Hyuga...
@@ -61,8 +63,8 @@ Are you saying something
 is about to happen?"<Close><End of Block>
 <TextBlock 11 w:50 h:3>
 Phew, thank god...
-I didn't wanna dry up and
-die up in the desert...<Close><End of Block>
+I didn't wanna dry up
+and die in the desert...<Close><End of Block>
 <TextBlock 12 w:44 h:3>
 Shut up!
 You sunk our ship!
@@ -81,7 +83,7 @@ Excuse me...<Close><End of Block>
 <TextBlock 16 w:50 h:4>
 Is there anyone who is
 almost dead, with no arms
-and legs, or in need of
+or legs, or in need of
 an abdominal operation!?<Close><End of Block>
 <TextBlock 17 w:26 h:3>
 No one...? 
@@ -96,10 +98,10 @@ We still can't locate the
 young master... General
 Maitreya's platoon will
 scout around again.<Close><End of Block>
-<TextBlock 19 w:52 h:3>
+<TextBlock 19 w:50 h:3>
 Yes, sir!<Delay 24>
-Since I'm part of the unit
-I'll also excuse myself.<Close><End of Block>
+Taking my leave to join
+their number.<Close><End of Block>
 <TextBlock 20 w:45 h:11>
 <Opcode 1 255><Extra2 255><Extra2 255><Extra2 255>mapjump
 <Extra2 255><Extra2 255><Extra2 255>flying CAMERA

@@ -1,15 +1,16 @@
-<TextBlock 1 w:40 h:2>
+<TextBlock 1 w:40 h:3>
 Bart
-"I guess that's it."<Close><End of Block>
-<TextBlock 2 w:50 h:4>
+"Well, something
+like that."<Close><End of Block>
+<TextBlock 2 w:46 h:4>
 Bart
-"Oh yeah? <Delay 30>
-So looks like we've got a
-real fanatic here, huh!"<Close><End of Block>
+"Oh yeah?<Delay 30> Looks like
+we've got quite the
+oddball here, huh!"<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Bart
 "What's an old man like
-you doing in a place 
+you doing in a place
 like this?"<Close><End of Block>
 <TextBlock 4 w:40 h:3>
 Bart
@@ -23,7 +24,7 @@ you have found?"<Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Ol' man Bal
 "You mean the fossils?
-They're one of the 
+They're one of the
 things I collect.<New>
 Feel free to have a
 look at them."<Close><End of Block>
@@ -31,7 +32,7 @@ look at them."<Close><End of Block>
 Ol' man Bal
 "Around here you can dig up
 ancient machines along with
-human and animal fossils. <New>
+human and animal fossils.<New>
 Notice anything particular
 on these shelves? They go
 from oldest on the left,
@@ -56,9 +57,10 @@ is slightly different...
 I guess."<Close><End of Block>
 <TextBlock 10 w:52 h:4>
 Ol' man Bal
-"Yes, from a certain point
-in time, human fossils
-suddenly no longer appear.<New>
+"Yes, go back beyond a
+certain point in time,<New>
+and suddenly there's an
+absence of human fossils.
 That point is roughly
 10,000 years ago."<Close><End of Block>
 <TextBlock 11 w:44 h:2>
@@ -80,10 +82,9 @@ talk about evolution?"<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Ol' man Bal
 "You mean the theory of
-evolution<New> 
-as taught by the 'Church
-of the Ethos', right?
-You can't trust that!<New>
+evolution as taught by
+the Church of the Ethos?<New>
+You can't trust that!
 Rather, I believe in the
 old legends and myths."<Close><End of Block>
 <TextBlock 15 w:18 h:3>
@@ -97,9 +98,9 @@ of this story...?"<Close><End of Block>
 <TextBlock 17 w:54 h:4>
 Ol' man Bal
 "They say that humans and
-god lived together in a
+God lived together in a
 paradise in the sky.<New>
-With god's protection,
+With God's protection,
 there was no fear of death
 and natural disasters were
 entirely unknown.<New>
@@ -107,25 +108,25 @@ Then one day, the humans
 ate a forbidden fruit
 which gave them incredible
 wisdom.<New>
-But god drove mankind from
+But God drove mankind from
 the paradise for their sin.<New>
 Bitter at having been
 driven out of paradise,
 humans used the wisdom they
 had gained to make giants.<New>
 With these giants, they
-planned to challenge god
-himself. But god poured
+planned to challenge God
+himself. But God poured
 his wrath down on them.<New>
-All who defied god were
-destroyed. 
-But god himself did not
+All who defied God were
+destroyed.
+But God himself did not
 escape unharmed.<New>
 Taking paradise with him,
-the wounded god buried
+the wounded God buried
 himself deep beneath the
 ocean to sleep for eons.<New>
-Before going to sleep, god
+Before going to sleep, God
 used his remaining power to
 create right-hearted humans
 to live on this planet.<New>
@@ -139,7 +140,7 @@ stop my rambling now."<Close><End of Block>
 Fei
 "Uh, yeah.<New>
 By the way, does 
-this cave have..."<Close><End of Block>
+this cave have<-->"<Close><End of Block>
 <TextBlock 20 w:52 h:4>
 Ol' man Bal
 "An exit?<New>
@@ -175,21 +176,21 @@ break it down."<Close><End of Block>
 <TextBlock 25 w:50 h:3>
 Ol' man Bal
 "Hold your horses
-there young'uns.<New>
+there, young 'uns.<New>
 No matter how good a Gear
 you have, you'll never
 break that wall down.<New>
 It's much too strong.<Delay 30>
 So...
-let's make a deal." <Close><End of Block>
+let's make a deal."<Close><End of Block>
 <TextBlock 26 w:18 h:2>
 Bart
 "A deal?"<Close><End of Block>
 <TextBlock 27 w:46 h:4>
 Ol' man Bal
-"The wall was closed
-due to the reaction of
-the 'Sand Sensors'.<New>
+"The barrier is closed
+because the 'Sand
+Sensors' were tripped.<New>
 Thanks to that, now I
 can't get through to
 the other side either.<New>
@@ -221,16 +222,16 @@ Ol' man Bal
 places. You should see
 their flashing red lights.<New>
 Well, good luck then." <Close><End of Block>
-<TextBlock 32 w:32 h:2>
+<TextBlock 32 w:34 h:2>
 Fei
-"Let's go Bart."<Close><End of Block>
+"Let's go, Bart."<Close><End of Block>
 <TextBlock 33 w:54 h:4>
 Ol' man Bal
 "Oh, before you go...<New>
 I can share some parts
 and fuel with you.<Delay 20>
 Just talk to me whenever
-you need something, right."<Close><End of Block>
+you need something, okay?"<Close><End of Block>
 <TextBlock 34 w:54 h:4>
 Bart
 "Thanks, old man.<Delay 20>
@@ -256,15 +257,15 @@ Bart
 this planet is a Gear far
 superior to all others.<New>
 I've heard that it was
-called 'the god Gear' and
+called 'the God Gear' and
 was made in ancient times
 but hidden away somewhere.<New>
 Do you know anything
 about it?"<Close><End of Block>
 <TextBlock 40 w:54 h:4>
 Ol' man Bal
-"A man-made god, created
-with the wisdom of god!<New>
+"A man-made God, created
+with the wisdom of God!<New>
 Such a Gear would have the
 power of a thousand Gears.
 In a wave of its arm, it
@@ -279,15 +280,16 @@ Bart
 Then perhaps it was what
 you were speaking about in
 that tale you told us of
-the battle with god..."<Close><End of Block>
+the battle with God..."<Close><End of Block>
 <TextBlock 42 w:50 h:4>
 Ol' man Bal
 "Goodness gracious,
 you too, boy?<New>
 Those stories were made
 to inspire man's soul.
-But they're just legends.
-They don't really exist."<Close><End of Block>
+But they're just legends.<New>
+Such things don't really
+exist."<Close><End of Block>
 <TextBlock 43 w:44 h:3>
 Ol' man Bal
 "Anyway, allow me take
@@ -322,11 +324,11 @@ Fei
 "?"<Close><End of Block>
 <TextBlock 50 w:50 h:4>
 Bart
-"The Gears that are
+"The Gears being
 excavated lately...<New>
 ...are usually only a
 few hundred years old.
-Nowhere nearly as old as
+Nowhere near as old as
 the Gear in that legend."<Close><End of Block>
 <TextBlock 51 w:38 h:3>
 Fei
@@ -335,7 +337,7 @@ in the ground...?"<Close><End of Block>
 <TextBlock 52 w:44 h:4>
 Bart
 "I don't know.
-There are no records.<Delay 30> 
+There are no records.<Delay 30>
 Except..."<Close><End of Block>
 <TextBlock 53 w:28 h:2>
 Fei
@@ -346,37 +348,37 @@ Bart
 in the tales that they were
 buried after a great war...<New>
 The bullet wounds covering
-most of the Gear's armor
+most of the Gears' armor
 would appear to confirm
 that."<Close><End of Block>
 <TextBlock 55 w:48 h:4>
 Fei
-"You mean that there are
+"You mentioned there are
 no records from the last
-several hundred years?<New>
+several hundred years.<New>
 How about before that?"<Close><End of Block>
 <TextBlock 56 w:50 h:4>
 Bart
-"None from either period.<New>
-The 'Church' controls
+"None from then, either.<New>
+The Church controls
 all the records from
 that time period.<New>
 Maybe they have some very
-ancient records too...<New>
+ancient records, too...<New>
 All we know about our
 history is from the
 little pieces that we
 find for ourselves."<Close><End of Block>
-<TextBlock 57 w:48 h:3>
+<TextBlock 57 w:50 h:3>
 Bart
-"Anyway Fei, what do you
+"Anyway, Fei, what do you
 make of the old man?"<Close><End of Block>
 <TextBlock 58 w:44 h:2>
 Fei
 "What do you mean...?"<Close><End of Block>
 <TextBlock 59 w:46 h:4>
 Bart
-"Why would such an old 
+"Why would such an old
 man live all alone in
 this abandoned cave?"<Close><End of Block>
 <TextBlock 60 w:46 h:4>
@@ -413,7 +415,7 @@ Ol' man Bal
 "Is this your Gear?"<Close><End of Block>
 <TextBlock 68 w:22 h:3>
 Fei
-"Well, 
+"Well,
 sort of..."<Close><End of Block>
 <TextBlock 69 w:46 h:2>
 Ol' man Bal
@@ -428,24 +430,25 @@ the<Delay 5> host<Delay 5> for<Delay 5> the<Delay 5> spirit<Delay 5>
 of<Delay 5> the<Delay 5> Slayer<Delay 5> of<Delay 30> God<Delay 30>...<Opcode 2 30><Close><End of Block>
 <TextBlock 73 w:46 h:3>
 Fei
-"Wait a moment! 
+"Wait a second!
 What did you just say?"<Close><End of Block>
 <TextBlock 74 w:48 h:3>
 Ol' man Bal
 "Nothing.
 I didn't say anything!!"<Close><End of Block>
-<TextBlock 75 w:52 h:3>
+<TextBlock 75 w:52 h:4>
 Fei
 "No! I heard you!
-You said, Slayer of God...<New>
-That's what you said,
-isn't it old man!!"<Close><End of Block>
-<TextBlock 76 w:52 h:4>
+Something about slaying
+God...<New>
+Hey, isn't that what you
+said, old man!?"<Close><End of Block>
+<TextBlock 76 w:46 h:4>
 Ol' man Bal
 "Your Gears are fixed.
 You have no more
 business here.<New>
-This is a bad time for me.
+I don't feel well.
 Be on your way!"<Close><End of Block>
 <TextBlock 77 w:52 h:3>
 Fei
@@ -479,7 +482,7 @@ I'll sell them to you...!"
 <TextBlock 83 w:40 h:3>
 Ol' man Bal
 "First, try changing
-the engine."<Close><End of Block>
+the Engine."<Close><End of Block>
 <TextBlock 84 w:52 h:4>
 Ol' man Bal
 "Now hurry and shut off
@@ -498,10 +501,10 @@ Ol' man Bal
 <TextBlock 86 w:52 h:4>
 Ol' man Bal
 "You seem to have shut off
-the 'Sand Sensor' on the
+the Sand Sensor on the
 ledge in the Great Hall...<New>
-But there's another 'Sand
-Sensor' on the road from
+But there's another Sand
+Sensor on the road from
 which you can see the
 waterfalls.<New>
 It's on a rock ledge,
@@ -551,7 +554,7 @@ how the pilot handles it.<New>
 First, let's talk about
 the Engine.<New>
 With a good Engine your
-Attack Power and fuel 
+Attack Power and fuel
 capacity go up.<New>
 HP depends on the Frame
 and Defense Ability on
@@ -573,7 +576,7 @@ style of fighting."<Close><End of Block>
 <TextBlock 93 w:46 h:3>
 Ol' man Bal
 "First, changing the
-engine is a good idea."<Close><End of Block>
+Engine is a good idea."<Close><End of Block>
 <TextBlock 94 w:44 h:4>
 It's been a long time
 since my last visitor.
@@ -594,14 +597,14 @@ wrong with Gears by the
 sounds they make.<New>
 My guess is that one
 of them needs a new
-hydromechanic pipe
+hydromechanical pipe
 in its joints.<New>
 It's making a
 nasty sound.
 It must be hard to
 walk with too.<New>
 Oh, by the way, the
-name's Balthazar,
+name's Balthasar,
 but you can call me
 Ol' man Bal.<Close><End of Block>
 <TextBlock 97 w:54 h:4>
@@ -609,7 +612,7 @@ Ol' man Bal
 "I guess you can call me a
 'fossicker' or a 'collector
 of things'.<New>
-There is much to be found
+There's much to be found
 lying around in this here
 stalactite cavern."<Close><End of Block>
 <TextBlock 98 w:50 h:4>
@@ -633,9 +636,9 @@ are. Can you tell me?"<Close><End of Block>
 Ol' man Bal
 "One is up on the rock
 ledge above the boulder
-in the 'Great Hall'.<New>
+in the Great Hall.<New>
 You can find it by climbing
-the 'Terrace Stones' out
+the Terrace Stones out
 there and heading into the
 passage on northwest wall.<New>
 The other sensor is on

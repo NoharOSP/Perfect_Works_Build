@@ -35,8 +35,8 @@ rock...<Delay 30>but I don't think
 it's possible."<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 Bart
-"The hydromechanic pipe for
-my knee joint is on the
+"The hydromechanical pipe
+for my knee joint is on the
 verge of breaking down.<New>
 It's all because of that
 fall from the ceiling...
@@ -79,20 +79,22 @@ won't come."<Close><End of Block>
 Fei
 "But, aren't they your
 friends?"<Close><End of Block>
-<TextBlock 15 w:42 h:3>
+<TextBlock 15 w:42 h:4>
 Bart
-"We believe in a
-liberal upbringing.<New>
+"We tend to leave
+each other to our own
+devices.<New>
 They'll think we can
 escape by ourselves."<Close><End of Block>
 <TextBlock 16 w:32 h:3>
 Fei
-"I wonder if doc
-is okay."<Close><End of Block>
-<TextBlock 17 w:46 h:3>
+"I wonder if Doc
+is okay..."<Close><End of Block>
+<TextBlock 17 w:46 h:4>
 Bart
-"Don't worry about the
-man you were with.<New>
+"If you mean that guy
+you were with, no need
+to worry.<New>
 I'm sure our guys saved
 him by now."<Close><End of Block>
 <TextBlock 18 w:10 h:2>
@@ -133,7 +135,7 @@ Fei
 I know you were serious."<Close><End of Block>
 <TextBlock 25 w:44 h:4>
 Bart
-"What! You want some!?
+"What? You want some!?
 Let's have it out!
 Right here!"<Close><End of Block>
 <TextBlock 26 w:10 h:2>
@@ -161,8 +163,9 @@ and move on out of here!"<Close><End of Block>
  - GREAT HALL SAND SENSOR -
                               <Close><End of Block>
 <TextBlock 30 w:66 h:4>
-Detected amounts of falling sand
-above the standard safety figure.<New>
+Confirmed sandfall in quantities
+greater than the standard safety
+threshold.<New>
 The sand barrier on the south
 wall of the Terrace Stones has
 been sealed to prevent sand from
@@ -170,7 +173,7 @@ penetrating the excavation site.<New>
 Until the barrier is reopened,
 please assemble at the safety
 shelter to the east of the
-barrier wall. Thank-you.<Close><End of Block>
+barrier wall. Thank you.<Close><End of Block>
 <TextBlock 31 w:22 h:1>
 Disengaged!<Close><End of Block>
 <TextBlock 32 w:44 h:4>

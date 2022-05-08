@@ -6,14 +6,14 @@ I'm not gonna kill you.<Delay 30>
 All I want is for you to
 leave this Gear<Delay 60>...<Delay 60> Huh?"<Close><End of Block>
 <TextBlock 3 w:28 h:3>
-"Hey!?<Delay 30>
+"Hey!<Delay 30>
 You're<Delay 20> not an
 Av soldier?"<Close><End of Block>
-<TextBlock 4 w:44 h:4>
+<TextBlock 4 w:42 h:4>
 Fei
-"I told you that in my
-intercom transmission
-earlier.<New>
+"That's what I said
+before over the
+intercom!<New>
 You're the one who
 refused to listen to
 me, right?"<Close><End of Block>
@@ -34,8 +34,8 @@ I was arrested for no
 apparent reason, shoved
 into that Av transport
 ship...<New>
-...And was nearly going to
-be sent to a concentration
+...and was almost on my
+way to a concentration
 camp until you went and
 blew the thing to blazes.<New>
 Anyway...
@@ -72,15 +72,15 @@ this existing under the
 desert before."<Close><End of Block>
 <TextBlock 10 w:50 h:4>
 Bart
-"What? You don't know
-anything, do you?<Delay 30>
-Where are you from?<New>
-The desert only covers
-around 1000 sharls of the
-outer layer of the earth.<New>
-The stratum underneath
-that consists of igneous
-rock."<Close><End of Block>
+"What? Don't you know
+anything?<Delay 30> Where the heck
+are you from?<New>
+The desert only makes up
+a few hundred sharls of
+the outer layer of the
+earth.<New>
+The stratum underneath is
+igneous rock like this."<Close><End of Block>
 <TextBlock 11 w:46 h:4>
 Fei
 "From a sea of trees to
@@ -106,7 +106,7 @@ So, you wanna call a
 truce for now?<New>
 ...At least until we
 find an exit and get
-out of here."<Close><End of Block>
+out of here?"<Close><End of Block>
 <TextBlock 15 w:46 h:3>
 Fei
 "Yes...
