@@ -118,10 +118,10 @@ I'm gonna tune up
 my Gear a little...<New>
 Why don't you two go
 have some tea with
-Old Maison."<Close><End of Block>
-<TextBlock 33 w:40 h:2>
+Old Maison?"<Close><End of Block>
+<TextBlock 33 w:42 h:2>
 Bart
-"Thanks Old Maison."<Close><End of Block>
+"Thanks, Old Maison."<Close><End of Block>
 <TextBlock 34 w:48 h:2>
 Maison
 "Please, walk this way."<Close><End of Block>

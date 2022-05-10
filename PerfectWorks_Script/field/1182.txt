@@ -188,7 +188,7 @@ Maison
 "I hope you are not
 too taken back?<New>
 Lately, there are far too
-many barbaria<Delay 10>...<Delay 5> I mean...<Delay 5>
+many barbaria<--><Delay 10> I mean...<Delay 5>
 highly energetic lads,
 around the young master.<New>
 So, yours truly, who is

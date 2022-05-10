@@ -169,7 +169,7 @@ long time to adjust it...<New>
 Actually many of my team
 members were injured
 because of it.<New>
-But doc solved the problem
+But Doc solved the problem
 so easily, and can control
 it so well now...
 It was just amazing.<Close><End of Block>
@@ -185,7 +185,7 @@ the sages of Shevat,
 Balthasar and Melchior.<New>
 They used the data from the
 Omnigear, Fenrir, brought
-from Solaris by the Doctor,
+from Solaris by the doctor,
 and Fei's <Xenogears>.<New>
 It is a union of Gear and
 nanotechnology. But the
@@ -235,15 +235,15 @@ Just telling someone you
 were 'wrong' after the
 event isn't going to solve
 everything, young master.<Close><End of Block>
-<TextBlock 23 w:54 h:5>
+<TextBlock 23 w:54 h:4>
 First Mate
 "I'm sorry I've delayed
 introducing myself...<New>
-My name is "Sigurd", the
+My name is Sigurd, the
 First Mate of this sand
-cruiser.<Close>
-Fei<Delay 10>...that was your name,
-right?<Delay 10> Hyu... I mean,
+cruiser.<New>
+Fei<Delay 10>... That was your name,
+right?<Delay 10> Hyu<--> I mean,
 Citan told me a little
 about what happened.<New>
 We caused you so much
@@ -253,13 +253,13 @@ apologize to you.<New>
 As recompense, allow us to
 give you a ride to what-
 ever destination you want.<New>
-But, please excuse us for
-a while as we make a detour
-to go back to our base for
-supplies.<New>
-In the mean time, enjoy a
-pleasant cruise...or should
-I say, 'sand cruise'.<New>
+But please bear with us
+while we make a detour back
+to our base for supplies.<New>
+In the meantime, enjoy a
+pleasant cruise...
+Well, 'sand cruise' to be
+more precise.<New>
 It must be fate that we
 met like this..."<Close><End of Block>
 <TextBlock 24 w:54 h:3>
@@ -334,7 +334,7 @@ can."<Close><End of Block>
 Fei!?<Close><End of Block>
 <TextBlock 41 w:24 h:2>
 Fei
-"Uh,<Delay 20> doc..."<Close><End of Block>
+"Uh,<Delay 20> Doc..."<Close><End of Block>
 <TextBlock 42 w:48 h:3>
 Citan
 "Fei, 
