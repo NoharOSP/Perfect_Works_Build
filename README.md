@@ -283,8 +283,8 @@ Unless stated otherwise, the stat changed is HP.
 
 #### Monster weaknesses:
 
-- Abandon is now weak to Poison
-- Wels are now weak to Confuse
+- Abandon is now weak to Poison (to be included)
+- Wels are now weak to Confuse (to be included)
 
 #### Boss stats:
 
