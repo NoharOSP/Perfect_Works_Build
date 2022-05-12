@@ -281,6 +281,11 @@ Unless stated otherwise, the stat changed is HP.
 - Lucre Bug: 77 to 150 
 - Neo Gimmick: 7 to 14 
 
+#### Monster weaknesses:
+
+- Abandon is now weak to Poison
+- Wels are now weak to Confuse
+
 #### Boss stats:
 
 - Swordknight: Atk 90 to 100. Def 40 to 30 
