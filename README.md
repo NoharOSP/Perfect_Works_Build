@@ -297,8 +297,9 @@ Unless stated otherwise, the stat changed is HP.
 - Wiseman: XP 1 to 4000
 - Hecht: 7500 to 9500 Atk 200 to 250 Def 70 to 100 Ether 25 to 50
 - Fis.6 HP 6800 to 17000 Atk 204 to 250 Def 80 to 100 EthDef 80 to 90
-- Haisho (Dominia): HP 2800 to 5000 
+- Haishao (Dominia): HP 2800 to 4000. Def 100 to 125. EthDef 40 to 100
 - Bladegash: 3000 to 10000
+- Haishao (Ramsus): Def 100 to 125. EthDef 50 to 100
 - Bloody (Ethos Transport): HP 8888 Atk 75 to 100 
 - Giant Wels: HP 7000 to 14000 Atk 300 to 350
 - Throne: HP 2500 to 3000 Atk 80 to 120
