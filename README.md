@@ -306,7 +306,7 @@ Unless stated otherwise, the stat changed is HP.
 - Id: 3000 to 6666
 - Wyvern: HP 5000 to 28000 Atk 330 to 400 
 - Seibzehn: HP 5500 to 18000 Atk 380 to 420 Def 300 to 250 EDef 40 to 100
-- White Knights: HP 290 to 400 
+- White Knights: HP 290 to 600 (to be included) 
 - Achtzehn: HP 12000 to 19000 Atk 600 to 800 Def 300 to 400 Ether 20 to 35 EDef 0 to 25 
 - Shakhan: 18000 to 28000
 - Bladegash 2: HP 4000 to 22000 Atk 500 to 400
