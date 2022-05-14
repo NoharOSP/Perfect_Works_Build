@@ -61,7 +61,7 @@ the battle at the ruins.<New>
 He's a little wild.
 Forgive him.<Close><End of Block>
 <TextBlock 14 w:48 h:3>
-Hey, c'mon you're drunk.
+Hey, c'mon, you're drunk.
 Are you okay? <Delay 60>
 Let's go home.<Close><End of Block>
 <TextBlock 15 w:4 h:1>
