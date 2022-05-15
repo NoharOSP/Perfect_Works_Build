@@ -49,35 +49,35 @@ another suitable one."<Close><End of Block>
 <TextBlock 9 w:54 h:34>
 ...Brave young men are
 spilling their blood on
-the front lines. Our army
+the front lines. Our army<New>
 is the best, but the tides
-of war are uncertain. 
+of war are uncertain.<New>
 To protect the tradition
 of Av and preserve peace
 in this desert, we must all
-have unshaking resolve. <Delay 30> 
+have unshaking resolve. <Delay 30><New>
 The desert is a precious
 treasure passed down to us
 from our ancestors. Here we
-can forge our minds and
+can forge our minds and<New>
 bodies into one.
 Our teachers are the sun 
-and wind.<Delay 30> 
+and wind.<Delay 30><New>
 We are gathered here today,
 with our strong bodies
-forged by the desert. <Delay 30>
+forged by the desert. <Delay 30><New>
 The sun above us is the
 same as that which burns
 over our fathers at the
-front. The wind blowing
+front. The wind blowing<New>
 here is the same as that
 which whisks our resolve
 and prayers to our sons at
-the front.<Delay 30>
+the front.<Delay 30><New>
 This Tournament raises our
 spirits and renews our
 blessings from this desert
-we live in.<Delay 30>
+we live in.<Delay 30><New>
 Brave ones, warriors, fight
 well and do not shame our
 brothers at the front."<Close><End of Block>
