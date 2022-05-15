@@ -15,8 +15,9 @@ Shakhan?<Close><End of Block>
 <TextBlock 3 w:50 h:4>
 Well if it isn't his
 Highness, Bartholomew!?
-It has been a long time.
-Are you well my Highness?<Close><End of Block>
+It has been a long time.<New>
+Are you well your 
+Highness?<Close><End of Block>
 <TextBlock 4 w:44 h:4>
 My family has served
 in Fatima Castle for 
