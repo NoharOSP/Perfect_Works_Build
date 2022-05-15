@@ -551,9 +551,10 @@ Um, maybe a semi-finalist.
 Good luck.<Close><End of Block>
 <TextBlock 114 w:54 h:4>
 If my guy wins...<Delay 30>
-I'm going to the bar and
-order the most expensive
-whiskey they have.<New>
+I'm gonna go to the bar<New> 
+and order the most 
+expensive whiskey they 
+have.<New>
 Then I'm gonna ask that
 waitress out! I wonder what
 to get her for a present.<Close><End of Block>
