@@ -240,7 +240,7 @@ First Mate
 "I'm sorry I've delayed
 introducing myself...<New>
 My name is Sigurd, the
-First Mate of this sand
+first mate of this sand
 cruiser.<New>
 Fei<Delay 10>... That was your name,
 right?<Delay 10> Hyu<--> I mean,

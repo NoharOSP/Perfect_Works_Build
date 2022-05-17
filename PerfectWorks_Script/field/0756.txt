@@ -14,20 +14,20 @@ Maison
 What?<Delay 10>
 Don't get all excited.<Close><End of Block>
 <TextBlock 5 w:56 h:3>
-Hey, newcomer! 
-Where ya from? <Delay 10>
-Lahan? <Delay 10> Don't know it.<New>
-Hey, I was a 
-Kislev soldier. <New>
-I didn't like the way 
-they did things in the army 
-so they kicked me out. <New>
-The young master's got 
+Hey, newcomer!
+Where ya from?<Delay 10>
+Lahan?<Delay 10> Don't know it.<New>
+Hey, I was a
+Kislev soldier.<New>
+I didn't like the way
+they did things in the army
+so they kicked me out.<New>
+The young master's got
 lots of power and
 ambition, just like me.<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 This guy was once an
-Av soldier.<Delay 10> 
+Av soldier.<Delay 10>
 You just can't predict
 destiny, can ya?<New>
 We used to fight each
@@ -35,13 +35,13 @@ other but now we're pals
 sharing a meal together.
 How about that, eh...!?<Close><End of Block>
 <TextBlock 7 w:36 h:2>
-Speaking of food, 
+Speaking of food,
 I'm hungry<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 8 w:22 h:1>
 This's bad!<Close><End of Block>
 <TextBlock 9 w:56 h:4>
 You from Av? <Delay 10>
-Oh, you're not. 
+Oh, you're not.
 Well I was an Av soldier.<New>
 Av's Prime Minister,
 Shakhan, has so much
@@ -58,8 +58,8 @@ What?<Delay 5> No! Yuck...
 She's not my girlfriend.
 She's my dog.<Close><End of Block>
 <TextBlock 12 w:38 h:3>
-In that earlier 
-commotion my model 
+In that earlier
+commotion my model
 got broken<Delay 5>...<Close><End of Block>
 <TextBlock 13 w:40 h:3>
 Bart
@@ -74,12 +74,12 @@ This model is really
 nice. Just look at
 the detail work<Delay 5>...<Close><End of Block>
 <TextBlock 16 w:42 h:4>
-Hey Fei!! Don't you
+Hey, Fei!! Don't you
 think this is great?<Delay 10>
     It's pretty cool!
     No big deal<Close><End of Block>
 <TextBlock 17 w:58 h:4>
-It is pretty cool, isn't it?<Delay 10> 
+It is pretty cool, isn't it?<Delay 10>
 There's a story behind this
 model.
 Let me tell you about it...<New>
@@ -91,7 +91,7 @@ They renamed it the
 'Yggdrasil'.<New>
 This is the Yggdrasil
 before the improvements.<Delay 10>
-I have it here to remind 
+I have it here to remind
 me of the hopes I had then.<Close><End of Block>
 <TextBlock 18 w:50 h:3>
 (Heh heh...it was worth
@@ -113,22 +113,23 @@ They renamed it the
 'Yggdrasil'.
 This is the Yggdrasil before
 the improvements.<New>
-I have it here to remind 
+I have it here to remind
 me of the hopes I had then.
 But it's not important now,
 I guess...<Close><End of Block>
-<TextBlock 21 w:52 h:2>
-(Sigh...The first mate and
-I worked so hard on this!)<Close><End of Block>
+<TextBlock 21 w:52 h:3>
+(*Sigh*...
+The first mate and I
+worked so hard on this!)<Close><End of Block>
 <TextBlock 22 w:48 h:2>
-Is that how you really 
+Is that how you really
 feel? You're a liar Fei.<Close><End of Block>
 <TextBlock 23 w:46 h:2>
-I want to make another 
+I want to make another
 Yggdrasil model...<Close><End of Block>
 <TextBlock 24 w:44 h:3>
-Hey! Fei, 
-you did a great job! 
+Hey! Fei,
+you did a great job!
 We're counting on you!<Close><End of Block>
 <TextBlock 25 w:52 h:3>
 Oh no!<Delay 10>
@@ -145,8 +146,8 @@ We must stop the fighting
 from making any more
 orphans like her.<Close><End of Block>
 <TextBlock 27 w:46 h:4>
-Margie, you came back!<Delay 10> 
-I'm so happy! <Delay 10>
+Margie, you came back!<Delay 10>
+I'm so happy!<Delay 10>
 I'll come by and see
 you later!<Close><End of Block>
 <TextBlock 28 w:52 h:4>
@@ -164,11 +165,11 @@ Bart
 Hold down the fort
 for us know!"<Close><End of Block>
 <TextBlock 31 w:54 h:3>
-The enemy's coming?<Delay 10> 
-This place is impregnable, 
+The enemy's coming?<Delay 10>
+This place is impregnable,
 you don't have to worry!!<Close><End of Block>
 <TextBlock 32 w:34 h:2>
-It's best if you 
+It's best if you
 take refuge now.<Close><End of Block>
 <TextBlock 33 w:42 h:3>
 You look tired.<Delay 10>
@@ -178,7 +179,7 @@ perk you up.<New>
 Bart's friends I have
 to charge them!)<Close><End of Block>
 <TextBlock 34 w:42 h:2>
-If you want anything 
+If you want anything
 just let me know.<Close><End of Block>
 <TextBlock 35 w:34 h:5>
 What do you want?
@@ -188,7 +189,7 @@ What do you want?
     Leave<Close><End of Block>
 <TextBlock 36 w:42 h:3>
 Bart dear!<Delay 10>
-I was wondering when 
+I was wondering when
 you'd show up!<Close><End of Block>
 <TextBlock 37 w:38 h:2>
 Are you doing well,
@@ -220,8 +221,8 @@ Did you see a little boy
 and girl? I wonder where
 they went?<Close><End of Block>
 <TextBlock 43 w:50 h:3>
-Well now aren't you Fei? 
-Bart dear said he made a 
+Well now aren't you Fei?
+Bart dear said he made a
 'big strong friend'.<Close><End of Block>
 <TextBlock 44 w:6 h:1>
 <Delay 5>...<Delay 5><Close><End of Block>
@@ -243,10 +244,10 @@ do with me<Delay 5>..."<Close><End of Block>
 <TextBlock 49 w:46 h:4>
 Well, I see you're
 just like Bart, you
-stand your own ground.<Delay 10> 
+stand your own ground.<Delay 10>
 You'll do fine.<Close><End of Block>
 <TextBlock 50 w:40 h:2>
-If you're with Bart 
+If you're with Bart
 you'll do fine.<Close><End of Block>
 <TextBlock 51 w:20 h:2>
 Fei dear,<Delay 10>
@@ -264,7 +265,7 @@ I'm so embarrassed.<Delay 10>
 But this is how I
 am with children<Delay 5>...<Close><End of Block>
 <TextBlock 56 w:46 h:3>
-It's been a long time 
+It's been a long time
 since we last had fun.<Delay 10>
 Let's play in the sand!<Close><End of Block>
 <TextBlock 57 w:24 h:2>
@@ -315,9 +316,9 @@ Maison
 "Please take a seat."<Close><End of Block>
 <TextBlock 72 w:50 h:4>
 Maison
-"Perhaps you would like 
-some of my famous tea?<Delay 10> 
-Master Fei?<Delay 10> Good Doctor?"<Close><End of Block>
+"Perhaps you would like
+some of my famous tea?<Delay 10>
+Master Fei?<Delay 10> Good doctor?"<Close><End of Block>
 <TextBlock 73 w:50 h:4>
 Maison
 "Young visitors are rare
@@ -367,13 +368,14 @@ minions...<Close><End of Block>
 Prince <Delay 10>
 Bartholomew <Delay 10>
 Fatima.<Close><End of Block>
-<TextBlock 81 w:48 h:3>
+<TextBlock 81 w:48 h:4>
 Citan
 "Bartholomew?<Delay 10>
 Edbart IV's successor<Delay 5>...<New>
 I am sure they announced
 Bartholomew died of an
-illness 12 years ago<Delay 5>..."<Close><End of Block>
+illness twelve years
+ago<Delay 5>..."<Close><End of Block>
 <TextBlock 82 w:54 h:3>
 Maison
 "Officially, yes.<New>
@@ -501,20 +503,18 @@ Maison
 "For the 'Fatima Jasper'!"<Close><End of Block>
 <TextBlock 104 w:46 h:4>
 Citan
-"The Fatima Jasper that
-is said to show<New> 
-where supposed great 
-treasure is?"<Close><End of Block>
+"The Jasper said to
+reveal the whereabouts
+of a great treasure?"<Close><End of Block>
 <TextBlock 105 w:50 h:4>
 Maison
-"My, good Doctor!<Delay 10>
+"My, good doctor!<Delay 10>
 You do know an awful lot.<Delay 10>
 I am most impressed."<Close><End of Block>
-<TextBlock 106 w:26 h:4>
+<TextBlock 106 w:34 h:4>
 Fei
 "No<Delay 5>...<Delay 5>
-I'm just not
-thirsty now!"<Close><End of Block>
+It's not that..."<Close><End of Block>
 <TextBlock 107 w:46 h:4>
 Maison
 "Well, we have no idea
@@ -564,29 +564,29 @@ chances of living are
 not<Delay 5>..."<Close><End of Block>
 <TextBlock 113 w:42 h:4>
 Citan
-"Ah, I apologize. <Delay 10>
-I simply,<Delay 10>
+"Ah, I apologize.<Delay 10>
+I simply...<Delay 10>
 I mean<Delay 5>...<New>
 I was only supposing
-the worst case. 
+the worst case.
 So please do not take
 it to heart<Delay 5>..."<Close><End of Block>
 <TextBlock 114 w:46 h:3>
 Maison
-"No, that is a terribly
-realistic scenario."<Close><End of Block>
+"No, let us face the
+facts."<Close><End of Block>
 <TextBlock 115 w:10 h:2>
 Citan
 "<Delay 5>..."<Close><End of Block>
 <TextBlock 116 w:48 h:4>
 Citan
 "Ahem.<Delay 10>
-What exactly do you mean
-by great treasure<Delay 5>...?"<Close><End of Block>
+Just what is the 'great
+treasure', I wonder...?"<Close><End of Block>
 <TextBlock 117 w:52 h:3>
 Maison
 "Well,<Delay 10>
-I haven't the foggiest...<Delay 5>"<Close><End of Block>
+I haven't the foggiest<Delay 5>..."<Close><End of Block>
 <TextBlock 118 w:36 h:3>
 The Gear...!
 He means the Gear!<Delay 10>
@@ -607,7 +607,7 @@ the crew take care of
 it now.<New>
 My job is just to pilot
 them anyway.<New>
-Besides, I'm bad with 
+Besides, I'm bad with
 machines,<Delay 10> so I'd just
 get in the way."<Close><End of Block>
 <TextBlock 121 w:30 h:1>
