@@ -1067,11 +1067,11 @@ coming here for help?"<Close><End of Block>
 <TextBlock 141 w:68 h:11>
 <Opcode 14 2>      IGNAS CONFLICT STATUS: 
 37th arms supplement -  upgrading
-Av's Gears from level D2 to D3.
+Av's Gears from level D2 to D3.<New>
 Maintain Kislev Gears at level D2.
-Current balance = 4:6 ...
+Current balance = 4:6 ...<New>
      REPORT BY BISHOP SHAKHAN
-       OF THE IGNAS DIOCESE: 
+       OF THE IGNAS DIOCESE: <New>
 Due to the intervention of an
 uncertain factor, correction is
 needed. Operation progress rate
@@ -1080,28 +1080,29 @@ down 30%...<Opcode 2 40><Close><End of Block>
 <Opcode 14 2><Delay 5>...<Delay 5>Completed investigation of
 the Zeboim city which sank to the
 bottom of the sea approximately
-4000 years ago<Delay 5>...<Delay 5><Wait>
+4000 years ago<Delay 5>...<Delay 5><New>
 After over 100 test digs, the city
 center has been ascertained<Delay 5>...<Delay 5>
 Excavation planned to begin<Delay 5>...<Close><End of Block>
 <TextBlock 143 w:64 h:6>
 <Opcode 14 2>Report No. 50224 from Noatun's
-D Block Committee.
+D Block Committee.<New>
 Transferring data for each
 Battler. Biological status of
-A-class Battler. Adaptation rate
-of the deployment plan's Type Y
+A-class Battler.<New> 
+Adaptation rate of the 
+deployment plan's Type Y
 demihuman. Transferring data 
 for the above to the homeland...<Opcode 2 30><Close><End of Block>
 <TextBlock 144 w:62 h:6>
 <Opcode 14 1>Report No. 50227 from Noatun's
-D Block Committee.
+D Block Committee.<New>
 Sigmund's forceful expulsion of
 the 'Church' from the central
 district's government has made
-coordination difficult.
+coordination difficult.<New>
 Planning to eliminate Sigmund
-when no longer useful.
+when no longer useful.<New>
 Requesting permission to use
 Battling test subject Ricardo
 to carry out the elimination...<Opcode 2 30><Close><End of Block>
