@@ -1073,14 +1073,16 @@ Current balance = 4:6 ...<New>
      REPORT BY BISHOP SHAKHAN
        OF THE IGNAS DIOCESE: <New>
 Due to the intervention of an
-uncertain factor, correction is
-needed. Operation progress rate
+uncertain factor,<New> 
+correction is needed. 
+Operation progress rate
 down 30%...<Opcode 2 40><Close><End of Block>
 <TextBlock 142 w:68 h:7>
 <Opcode 14 2><Delay 5>...<Delay 5>Completed investigation of
 the Zeboim city which sank to the
-bottom of the sea approximately
-4000 years ago<Delay 5>...<Delay 5><New>
+bottom of the sea<New> 
+approximately 4000 years 
+ago<Delay 5>...<Delay 5><New>
 After over 100 test digs, the city
 center has been ascertained<Delay 5>...<Delay 5>
 Excavation planned to begin<Delay 5>...<Close><End of Block>
@@ -1092,14 +1094,16 @@ Battler. Biological status of
 A-class Battler.<New> 
 Adaptation rate of the 
 deployment plan's Type Y
-demihuman. Transferring data 
+demihuman.<New> 
+Transferring data 
 for the above to the homeland...<Opcode 2 30><Close><End of Block>
 <TextBlock 144 w:62 h:6>
 <Opcode 14 1>Report No. 50227 from Noatun's
 D Block Committee.<New>
 Sigmund's forceful expulsion of
 the 'Church' from the central
-district's government has made
+district's government<New> 
+has made
 coordination difficult.<New>
 Planning to eliminate Sigmund
 when no longer useful.<New>
