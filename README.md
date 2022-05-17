@@ -29,6 +29,11 @@ https://mega.nz/file/6TJljSTT#W69SSmS7eme_PyaSBZX_rL68j5s1B1JaF9g9fI8FWFI
 Disc 2 (script + items/spells):
 https://mega.nz/file/nfB1yZJY#dT_Xqv38TVSxGZf4iUCW7ujdkmp6Kg48e49SRRNr-GA
 
+Disc 1 (script + items/spells + stats):
+https://mega.nz/file/ePpihaaT#w7UO_V2-l32nde35p8I2J8hba1HJQ5XyAOD5cJb1mG8
+
+Disc 2 (script + items/spells + stats):
+https://mega.nz/file/eSYwQCSD#_bxhCKRtlwZn1WtTmEUaoZ7WKPwk7V0N73uNE8_AP7M
 
 ## Introduction:
 
