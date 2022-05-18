@@ -1090,11 +1090,12 @@ Excavation planned to begin<Delay 5>...<Close><End of Block>
 <Opcode 14 2>Report No. 50224 from Noatun's
 D Block Committee.<New>
 Transferring data for each
-Battler. Biological status of
+Battler.<New> 
+Biological status of
 A-class Battler.<New> 
-Adaptation rate of the 
-deployment plan's Type Y
-demihuman.<New> 
+Adaptation rate of<New> 
+the  deployment plan's 
+Type Y demihuman.<New> 
 Transferring data 
 for the above to the homeland...<Opcode 2 30><Close><End of Block>
 <TextBlock 144 w:62 h:6>
