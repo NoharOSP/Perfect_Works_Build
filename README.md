@@ -89,6 +89,18 @@ Throughout the game encounter rates have been lowered. For many players this has
 
 As a way of compensating for lower encounter rates, money and experience have been doubled in this patch to keep the game from spiking in difficulty.
 
+
+### Fast text:
+
+old_script is for versions of the ROM where the script patch hasn't been applied. new_script is for versions of the ROM where the script patch has been applied. The old_script patch contains modified versions of specific scenes where the text scrolls too quickly. The new_script patch does not have these changes as the script patch provides these changes already.
+
+#### Changes scenes in old_script:
+
+- Shakhan's speech before the tournament.
+- The UFO story in the Orphanage.
+- The Ethos databanks.
+- Bart's monologue about Ft Jasper when it is first used.
+
 ### Items/spells:
 
 #### Field equipment changes:
@@ -524,3 +536,7 @@ All deathblow learning rates (sans Emeralda) have been doubled to minimize grind
 
 ### Tools:
 - SadNES cITy Translations
+
+### Fast text code:
+- FFMaster
+- Nohar
