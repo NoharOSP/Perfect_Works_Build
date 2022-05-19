@@ -1,13 +1,13 @@
 <TextBlock 1 w:6 h:1>
-<Opcode 1 255><!><!><Opcode 2 30><Close><End of Block>
+<Opcode 1 255>!!<Opcode 2 30><Close><End of Block>
 <TextBlock 2 w:18 h:1>
-<Opcode 1 255>Sis...<!><!><Opcode 2 30><Close><End of Block>
+<Opcode 1 255>Sis...!!<Opcode 2 30><Close><End of Block>
 <TextBlock 3 w:38 h:3>
 Franz
 "Where do you think
 you're going?"<Opcode 2 60><Close><End of Block>
 <TextBlock 4 w:28 h:1>
-St, stop it...<Opcode 2 30><Close><End of Block>
+St-Stop it...<Opcode 2 30><Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Franz
 "How admirable...<Delay 30>
@@ -24,7 +24,7 @@ Franz
 what are you doing!?"<Close><End of Block>
 <TextBlock 9 w:40 h:3>
 Fei
-"What does fighting 
+"What does fighting
 get you?"<Close><End of Block>
 <TextBlock 10 w:36 h:3>
 Fei

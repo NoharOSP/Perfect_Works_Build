@@ -1,11 +1,11 @@
 <TextBlock 1 w:50 h:3>
 Ah, Bartholomew. <Delay 10>
-"The Gear are all aboard 
+"The Gear are all aboard
 the Yggdrasil."<Close><End of Block>
 <TextBlock 2 w:52 h:4>
 Good work. <Delay 10>
-Without your backup, this 
-base wouldn't be here. 
+Without your backup, this
+base wouldn't be here.
 Let's board the Yggdrasil.<Close><End of Block>
 <TextBlock 3 w:30 h:1>
 Thank you sir!!<Close><End of Block>
@@ -32,11 +32,11 @@ This is a mass produced model
 based on Bart's <Brigandier>,
 that's simplified to reduce costs.<New>
 If you tune them up they're
-pretty good.<Delay 10> That's when we 
+pretty good.<Delay 10> That's when we
 can really show our skills.<Close><End of Block>
 <TextBlock 7 w:44 h:3>
 No, the specs on this
-Gear are unknown...<Delay 10><New>
+Gear are unknown...<New>
 And this kind of stuff
 isn't anything I can
 understand.<Close><End of Block>
@@ -44,8 +44,8 @@ understand.<Close><End of Block>
 Looks like someone really
 knew how to tune up your
 Gear...<New>
-Attack,<Delay 10> defense,<Delay 10> 
-Ether amplification...<Delay 10> 
+Attack,<Delay 10> defense,<Delay 10>
+Ether amplification...<Delay 10>
 an exceptionally balanced
 machine.<New>
 But we don't seem to be
@@ -76,7 +76,7 @@ are on board the
 Yggdrasil.<Delay 10>
 Yours is on board too.<Close><End of Block>
 <TextBlock 12 w:48 h:4>
-Boss, let us mess with 
+Boss, let us mess with
 the Gears a little...
 Craftsmen have to keep
 practicing their skills!<Close><End of Block>
@@ -97,19 +97,20 @@ I wanna be a pilot...<Close><End of Block>
 Citan
 "Maison, does
 this Gear work?"<Close><End of Block>
-<TextBlock 19 w:32 h:3>
+<TextBlock 19 w:32 h:4>
 Maison
 "Pardon? <Delay 10>Yes,
-it works but..."<Close><End of Block>
+it more or less
+works, but<-->"<Close><End of Block>
 <TextBlock 20 w:16 h:1>
 Alright!<Close><End of Block>
 <TextBlock 21 w:44 h:4>
 Maison
-"Out of the question! <Delay 10>
+"Out of the question!<Delay 10>
 It is still under
 maintenance.<New>
-It is nowhere near 
-operational..."<Close><End of Block>
+The handling setup is
+nowhere near<-->"<Close><End of Block>
 <TextBlock 22 w:46 h:2>
 Sigurd
 "It's alright, Maison."<Opcode 2 40><Close><End of Block>
@@ -129,7 +130,7 @@ Master Sigurd...?<Close><End of Block>
 <TextBlock 26 w:44 h:4>
 Citan
 "Well...<Delay 10>
-It has been 5 years
+It has been five years
 since I last fought...<New>
 I hope I can still
 remember..."<Close><End of Block>
@@ -140,7 +141,7 @@ Fei
 Fei! <Opcode 2 30><Close><End of Block>
 <TextBlock 29 w:30 h:3>
 Fei
-"Sigurd, doc...<Delay 10>
+"Sigurd, Doc...<Delay 10>
 What's up...?"<Close><End of Block>
 <TextBlock 30 w:28 h:4>
 Sigurd
@@ -150,10 +151,11 @@ with you..."<Close><End of Block>
 <TextBlock 31 w:22 h:2>
 Fei
 "Oh, okay!"<Close><End of Block>
-<TextBlock 32 w:32 h:3>
+<TextBlock 32 w:26 h:4>
 Bart
 "...<Delay 10>
-Th,<Delay 10> th,<Delay 10> thank...<Delay 10><Close><End of Block>
+Th<Delay 10>... Th<Delay 10>...
+Thank<Delay 10>...<Close><End of Block>
 <TextBlock 33 w:20 h:3>
 Bart
 "Thanks...<Delay 10>
@@ -162,9 +164,9 @@ Fei."<Close><End of Block>
 Fei
 "Bart..."<Close><End of Block>
 <TextBlock 35 w:52 h:4>
-Sigrud
+Sigurd
 "Thank you, Fei.<Delay 10>
-Don't know how we could 
+Don't know how we could
 have done it without you."<Close><End of Block>
 <TextBlock 36 w:30 h:4>
 Fei
@@ -191,16 +193,18 @@ Sigurd
 "..."<Close><End of Block>
 <TextBlock 40 w:48 h:4>
 Fei
-"I thought I didn't have
-a path that I could take
-laid out before me.<New>
+"I had been feeling that
+there was no path laid
+out...<New>
+No path that was meant
+for me.<New>
 But like he said, that's
-just running away. <Delay 10>
+just running away.<Delay 10>
 I must find my own path.<Delay 10>
-Right, doc?"<Close><End of Block>
+Right, Doc?"<Close><End of Block>
 <TextBlock 41 w:52 h:4>
 Fei
-"If Bart wishes, I'll 
+"If Bart wishes, I'll
 cooperate with you guys.<Delay 10>
 That's all I can do now.<New>
 But I think I'll find
@@ -210,9 +214,9 @@ Moreover, I can't turn my
 back and ignore what such
 a terrible group of people
 are doing to others."<Close><End of Block>
-<TextBlock 42 w:26 h:2>
+<TextBlock 42 w:28 h:2>
 Sigurd
-"Thanks Fei."<Close><End of Block>
+"Thanks, Fei."<Close><End of Block>
 <TextBlock 43 w:36 h:3>
 <Opcode 1 255>Go up to the dock?
     Go up

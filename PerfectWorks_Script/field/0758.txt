@@ -4,7 +4,7 @@ Fei
 very...<Delay 10>tired<Delay 5>..."<Close><End of Block>
 <TextBlock 2 w:42 h:3>
 They must've followed
-us from the Cavern!<Delay 10>
+us from the cavern!<Delay 10>
 We screwed up!<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 That look...<Delay 10> 
@@ -16,8 +16,8 @@ Hell, we even save the
 lives of our enemies. 
 This is Bart's police.<Close><End of Block>
 <TextBlock 4 w:40 h:1>
-(I mean, 'Policy'??)<Close><End of Block>
-<TextBlock 5 w:36 h:1>
+(I mean, 'policy'??)<Close><End of Block>
+<TextBlock 5 w:38 h:1>
 Damn it!! Geburah!!<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 We'll leave first thing
@@ -52,11 +52,11 @@ just lemme know.<Close><End of Block>
 <TextBlock 14 w:44 h:1>
 That's what I thought.<Close><End of Block>
 <TextBlock 15 w:40 h:3>
-Huh? <Delay 30>
+Huh?<Delay 30>
 I thought it was our
 snoring.<Close><End of Block>
 <TextBlock 16 w:36 h:2>
-...sniff, sniff...<Delay 10>
+*Sniff, sniff*...<Delay 10>
 Poor Helen...<Close><End of Block>
 <TextBlock 17 w:4 h:1>
 !!<Opcode 2 10><Close><End of Block>
@@ -68,7 +68,7 @@ for sleeping!!<Close><End of Block>
 <TextBlock 20 w:46 h:3>
 You gotta rest when you
 can so you can act when
-you gotta. <Delay 10><New>
+you gotta.<Delay 10><New>
 Knowing when to do what
 is important.<Close><End of Block>
 <TextBlock 21 w:44 h:1>
@@ -79,45 +79,45 @@ We've been found!<Close><End of Block>
 <TextBlock 23 w:48 h:3>
 We were just one step
 from peace between Av
-and Kislev. <New>
+and Kislev.<New>
 Then, it is said, Bart's
 father, Edbart IV, was
 assassinated by Shakhan.<Close><End of Block>
-<TextBlock 24 w:38 h:2>
+<TextBlock 24 w:40 h:2>
 You won't get away 
-with this Shakhan!!<Close><End of Block>
+with this, Shakhan!!<Close><End of Block>
 <TextBlock 25 w:46 h:1>
 He makes my blood boil!<Close><End of Block>
 <TextBlock 26 w:40 h:2>
-Almost all the Gear 
+Almost all the Gears
 are under repair!!<Close><End of Block>
 <TextBlock 27 w:46 h:4>
-...Sigh... This injury
+*Sigh*... This injury
 is so pathetic...<Delay 30>
-I can't let the Master 
+I can't let the master
 see me like this.<Close><End of Block>
 <TextBlock 28 w:46 h:2>
 Owwww!!<Delay 30>
 Please be more careful.<Close><End of Block>
 <TextBlock 29 w:42 h:4>
 Good medicine always
-tastes bad.<Delay 10> 
-Everyone knows that.<Delay 10> 
+tastes bad.<Delay 10>
+Everyone knows that.<Delay 10>
 Next is your shot!<Close><End of Block>
 <TextBlock 30 w:44 h:1>
 Yipes, you're glaring!<Close><End of Block>
 <TextBlock 31 w:20 h:1>
 Huh, what?<Close><End of Block>
 <TextBlock 32 w:48 h:4>
-When you are sick, just 
+When you are sick, just
 tell me. I'll give you a
 big shot and fix you up
 right away.<Close><End of Block>
 <TextBlock 33 w:32 h:2>
-This is no time 
+This is no time
 for games!<Close><End of Block>
 <TextBlock 34 w:34 h:2>
-Hey, do you have 
+Hey, do you have
 Margarita's card?<Close><End of Block>
 <TextBlock 35 w:36 h:2>
 Nope, I don't. <Delay 10>
@@ -136,8 +136,8 @@ What was that crash?<Close><End of Block>
 <TextBlock 41 w:46 h:3>
 Gears have entered the
 Yggdrasil's dock!<New>
-5 Geburah special force
-Gears, and one single
+Five Geburah Special
+Forces Gears, and one
 unidentifed large Gear.<New>
 All pilots report to
 the Gear Hangar!<Close><End of Block>

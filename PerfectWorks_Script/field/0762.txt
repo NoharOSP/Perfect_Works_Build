@@ -1,7 +1,7 @@
 <TextBlock 1 w:48 h:4>
 Citan
-"Are you ready? <Delay 10>
-I am going later so get 
+"Are you ready?<Delay 10>
+I am going later so get
 some rest before then."<Close><End of Block>
 <TextBlock 2 w:50 h:4>
 Citan
@@ -10,8 +10,8 @@ be mad at Bart. <Delay 10>
 Just forgive him."<Close><End of Block>
 <TextBlock 3 w:50 h:4>
 Citan
-"Fei, there is no reason 
-to be mad at Bart. <Delay 10>
+"Fei, there is no reason
+to be mad at Bart.<Delay 10>
 Just forgive him."<Close><End of Block>
 <TextBlock 4 w:54 h:3>
 Sigurd
@@ -21,7 +21,7 @@ today and rest up in our
 rooms from the journey."<Close><End of Block>
 <TextBlock 5 w:40 h:3>
 Sigurd
-"I'm searching the 
+"I'm searching the
 information network <New>
 for reports on
 Av's condition."<Close><End of Block>
@@ -35,7 +35,7 @@ Sigurd
     Nothing<Close><End of Block>
 <TextBlock 7 w:46 h:4>
 Sigurd
-"Margie is Mother 
+"Margie is Mother
 Marguerite of Nisan.<New>
 But Shakhan of Av has
 locked her up and is
@@ -47,13 +47,13 @@ but he's very worried."<Close><End of Block>
 Sigurd
 "Shakhan was the Prime
 Minister of Av.<New>
-But he is the defacto
+But he is the de facto
 leader now.<Delay 10>
 His rule is what has
 put our Av in turmoil."<Close><End of Block>
 <TextBlock 9 w:48 h:3>
 Sigurd
-"Margie has half of the 
+"Margie has half of the
 Fatima Jasper.<New>
 Shakhan wants it because
 it tells the location of
@@ -75,7 +75,7 @@ Qahal.<New>
 She was also Nisan's 
 first Mother."<Close><End of Block>
 <TextBlock 11 w:38 h:2>
-Sending the latest 
+Sending the latest
 information!<Close><End of Block>
 <TextBlock 12 w:40 h:2>
 We are praying for a
@@ -86,13 +86,13 @@ civilians, all civilians
 in the dock area take
 refuge in the Yggdrasil!<Close><End of Block>
 <TextBlock 14 w:48 h:3>
-12 years ago Sigurd 
+Twelve years ago, Sigurd
 fled Av with the young
-master. <New>
+master.<New>
 We've been good friends
 ever since.<Close><End of Block>
 <TextBlock 15 w:38 h:2>
-Sending the latest 
+Sending the latest
 information!<Close><End of Block>
 <TextBlock 16 w:52 h:3>
 We'll forward the latest
@@ -102,12 +102,12 @@ Good luck rescuing Margie!<Close><End of Block>
 They've entered gate 4.<Close><End of Block>
 <TextBlock 18 w:44 h:3>
 We have an unidentifed
-heat reading in the 
-ventilation shaft. <Delay 10><New>
-They're Gears! Gate 3 
+heat reading in the
+ventilation shaft.<Delay 10><New>
+They're Gears! Gate 3
 has been destroyed!<Close><End of Block>
 <TextBlock 19 w:48 h:2>
-Main power source cut!!<Delay 10> 
+Main power source cut!!<Delay 10>
 Switch to backup!<Close><End of Block>
 <TextBlock 20 w:52 h:4>
 I wonder if Margie's
@@ -115,20 +115,21 @@ alright?<Delay 10> I Hope she's not
 hurt? We're only operators
 but we still worry.<New>
 We can't do anything.<Delay 10>
-...Sniff...<Close><End of Block>
+...*Sniff*...<Close><End of Block>
 <TextBlock 21 w:38 h:2>
-Sending the latest 
+Sending the latest
 information!<Close><End of Block>
 <TextBlock 22 w:38 h:2>
-Good luck rescuing 
+Good luck rescuing
 Margie!<Close><End of Block>
 <TextBlock 23 w:44 h:4>
-Gears have been lost! 
-Operational Gear: 5 
-In service: 1 
-Guest: 1 <New>
-All pilots report 
-immediately to the 
+We're losing Gears!!<New>
+Remaining units...
+Combat-ready: 5
+In for servicing: 1
+Guests: 1!!<New>
+All pilots report
+immediately to the
 Gear dock!<Close><End of Block>
 <TextBlock 24 w:22 h:1>
 All clear!!<Close><End of Block>
@@ -137,7 +138,7 @@ Citan
 "This place is incredible!<New>
 They probably do not even
 have equipment like this
-in the capital."<Close><End of Block>
+in the Capital."<Close><End of Block>
 <TextBlock 26 w:42 h:4>
 Bart
 "Heh heh. Surprised? <Delay 10>
@@ -150,7 +151,7 @@ Don't stand on the screen.<Delay 10>
 We won't be able to see!"<Close><End of Block>
 <TextBlock 28 w:46 h:4>
 Bart
-"Alright men!<Delay 10>
+"Alright, men!<Delay 10>
 Display my special file
 on the main screen."<Close><End of Block>
 <TextBlock 29 w:36 h:2>
@@ -163,18 +164,18 @@ Bart
 This is King Fatima I...<Delay 10>
 'body cloaked in flames
 making a blood oath with
-giants'.<New>
+a giant'.<New>
 They say he used the
-strength of the giants
+strength of the giant
 to found Av."<Close><End of Block>
 <TextBlock 31 w:54 h:4>
 Citan
 "It is amazing that such an
 ancient scroll exists...
-and in such good state too!<New>
-I thought the 'Church of
-the Ethos' controlled all 
-such things as these..."<Close><End of Block>
+and in such good condition!<New>
+I thought the Church of
+the Ethos controlled all
+things such as these..."<Close><End of Block>
 <TextBlock 32 w:38 h:3>
 Bart
 "Normally, yes.<New>
@@ -188,13 +189,13 @@ Bart
 Bart
 "After founding the
 country, Fatima forced the
-giants into slumber<Delay 5>...<New>
+giant into slumber<Delay 5>...<New>
 ...<Delay 5>to protect his kingdom's
 people if needed in the
-future.<Delay 15> But we don't know
-where they are hidden.<New>
-In another record, one of
-the giants is called the
+future.<Delay 15> We don't know where
+it's hidden... Although...<New>
+In another record, the
+giant is referred to as the
 'Great Fatima Treasure'."<Close><End of Block>
 <TextBlock 35 w:28 h:3>
 Citan
@@ -220,7 +221,7 @@ finding our treasure."<Close><End of Block>
 Citan
 "A key...<New>
 Could that be what
-Shakhan is looking 
+Shakhan is looking
 for?"<Close><End of Block>
 <TextBlock 40 w:32 h:4>
 Bart
@@ -255,7 +256,7 @@ it seems that both Av
 and Kislev are after you!<New>
 So we can help you and
 you can help us<Delay 5>...<Delay 10>
-How about it?<Delay 10> 
+How about it?<Delay 10>
 It's not much to ask."<Close><End of Block>
 <TextBlock 46 w:52 h:4>
 Citan
@@ -288,7 +289,7 @@ Fei
 to make me fight?"<Close><End of Block>
 <TextBlock 52 w:42 h:4>
 Bart
-"H-huh...<Delay 10>
+"H-Huh...<Delay 10>?
 What's wrong with you
 all of a sudden?"<Close><End of Block>
 <TextBlock 53 w:8 h:1>
@@ -299,7 +300,7 @@ Fei
 'Love to have my power'?<Delay 10>
 I don't have any!<New>
 What's wrong with you,<Delay 5>
-doc,<Delay 5> everyone<Delay 5>...<Delay 10>
+Doc,<Delay 5> everyone<Delay 5>...<Delay 10>?
 You're driving me to the
 brink.<New>
 Then there's that Gear<Delay 5>...<Delay 5>

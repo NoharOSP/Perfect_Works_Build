@@ -18,26 +18,27 @@ There is a limit to what
 I can learn seeing as I
 started so late in life.<New>
 Even so, I know I 
-executed that perfectly 
-and he did not go down.<New> 
+executed that perfectly
+and he did not go down.<New>
 They must be using
-'that stuff'."<Close><End of Block>
-<TextBlock 5 w:46 h:4>
+you-know-what!"<Close><End of Block>
+<TextBlock 5 w:42 h:4>
 Citan
-"Young one!<Delay 10>
-They are using Drive!<New>
-They are battle
-enhancement drugs.<Delay 10>
-Normal attacks will
-not hurt them!"<Close><End of Block>
+"Young one!<New>
+They are using the
+battle enhancement
+drug, 'Drive'!<New>
+They will not be
+defeated by standard
+attacks!"<Close><End of Block>
 <TextBlock 6 w:36 h:4>
 Bart
 "Are you serious?
 So that's how they
 keep at it, huh?<New>
 Crap...
-This'll never 
-end!<Close><End of Block>
+This'll never
+end!"<Close><End of Block>
 <TextBlock 7 w:14 h:2>
 Citan
 "Fei!!"<Close><End of Block>
