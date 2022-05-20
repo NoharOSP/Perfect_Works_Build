@@ -13,24 +13,24 @@ Citan
 "Compared to the pain
 my friends are going
 through,<New>
-Yours is
+yours is
 nothing...!!<New>
 I cannot allow people
 like you to persist in
 tormenting those who
 cannot fight back.<New>
 I will take you on in
-their place.<Delay 20>
+their stead.<Delay 20>
 Come on!"<Close><End of Block>
 <TextBlock 4 w:30 h:2>
 Breuer
 "Eeeaaarrrgh!!"<Close><End of Block>
 <TextBlock 5 w:26 h:3>
 Breuer
-"H, hey,
+"H-Hey,
 that hurts!!"<Close><End of Block>
 <TextBlock 6 w:32 h:4>
 Breuer
-"Huh?<Delay 20>
-What are you
-saying, geezer!?"<Close><Close><Close><Close><Close><UNKNOWN CHUNK 208><Close><End of Block>
+"Huh?<Delay 20> What are
+you saying,
+geezer!?"<Close><Close><Close><Close><Close><UNKNOWN CHUNK 208><Close><End of Block>
