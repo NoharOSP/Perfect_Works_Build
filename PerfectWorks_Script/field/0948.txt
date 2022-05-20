@@ -1,4 +1,4 @@
-<TextBlock 1 w:38 h:3>
+<TextBlock 1 w:40 h:3>
 Fei
 "...Geburah's aerial
 battleship!"<Opcode 2 60><Close><End of Block>
@@ -17,11 +17,10 @@ dedication ceremony."<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 Shakhan
 "There is a customary
-Tournament after the
-dedication ceremony..."<Close><End of Block>
-<TextBlock 5 w:48 h:3>
+Tournament afterward<-->"<Close><End of Block>
+<TextBlock 5 w:46 h:3>
 Ramsus
-"What about the incident
+"What about the matter
 in that report?"<Close><End of Block>
 <TextBlock 6 w:54 h:4>
 Shakhan
@@ -29,7 +28,7 @@ Shakhan
 500-year-old mobile weapon
 excavated from the ruins?<New>
 Thanks to the help of the
-'Church of the Ethos', the 
+Church of the Ethos, the
 repairs are complete.<New>
 I thought we could announce
 it on the day of the
@@ -39,7 +38,7 @@ Ramsus
 "Toys like that should
 be given to Vanderkaum.<New>
 I'm talking about the
-'Fatima Jasper'."<Close><End of Block>
+Fatima Jasper."<Close><End of Block>
 <TextBlock 8 w:48 h:3>
 Shakhan
 "I already have obtained
@@ -71,20 +70,19 @@ east tower."<Close><End of Block>
 Ramsus
 "Myyah, could
 it possibly be
-a Vessel?"<Close><End of Block>
+a 'Vessel'?"<Close><End of Block>
 <TextBlock 14 w:54 h:4>
 Myyah
 "Yes. But there is still no
-response. There seems to be
-a barrier<New> 
-or something of 
-the same purpose.<New>
+response.<New>
+There seems to be some kind
+of strong barrier.<New>
 However, we do know from
 the 500-year-old records
 that one certainly exists
 in this vicinity.<New>
 It's probably well
-preserved too."<Close><End of Block>
+preserved, too."<Close><End of Block>
 <TextBlock 15 w:42 h:3>
 Ramsus
 "...Let's meet her.<New>
@@ -116,7 +114,7 @@ Ramsus
 were beaten by such
 a small force...<New>
 I have only just
-taken over my post
+taken up my post
 and already you have
 embarrassed me!"<Close><End of Block>
 <TextBlock 22 w:52 h:4>
@@ -130,7 +128,7 @@ I couldn't get a lock on
 it with the main gun...<New>
 Otherwise there would have
 been no way we could have
-been beaten by such..."<Close><End of Block>
+been beaten by such<-->"<Close><End of Block>
 <TextBlock 23 w:48 h:4>
 Ramsus
 "Fool!
@@ -148,7 +146,7 @@ Vanderkaum
 Ramsus
 "Dismissed.
 Go polish your beloved
-1200 sem cannon."<Close><End of Block>
+1200-sem cannon."<Close><End of Block>
 <TextBlock 26 w:46 h:4>
 Shakhan
 "Well, well, Commander.<New>

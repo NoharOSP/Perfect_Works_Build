@@ -7,8 +7,8 @@
 <TextBlock 3 w:46 h:4>
 Shakhan
 "There is a customary
-Tournament afterwards..."<Close><End of Block>
-<TextBlock 4 w:50 h:3>
+Tournament afterward<-->"<Close><End of Block>
+<TextBlock 4 w:46 h:3>
 Ramsus
 "What about the matter
 in that report?"<Close><End of Block>
@@ -18,7 +18,7 @@ Shakhan
 500-year-old mobile weapon
 excavated from the ruins?<New>
 Thanks to the help of the
-'Church of the Ethos', the 
+Church of the Ethos, the
 repairs are complete.<New>
 I thought we could announce
 it on the day of the
@@ -28,7 +28,7 @@ Ramsus
 "Toys like that should
 be given to Vanderkaum.<New>
 I'm talking about the
-'Fatima Jasper'."<Close><End of Block>
+Fatima Jasper."<Close><End of Block>
 <TextBlock 7 w:48 h:3>
 Shakhan
 "I already have obtained
@@ -64,14 +64,15 @@ a 'Vessel'?"<Close><End of Block>
 <TextBlock 13 w:54 h:4>
 Myyah
 "Yes. But there is still no
-response. There seems to be
-a strong barrier.<New>
+response.<New>
+There seems to be some kind
+of strong barrier.<New>
 However, we do know from
 the 500-year-old records
 that one certainly exists
 in this vicinity.<New>
 It's probably well
-preserved too."<Close><End of Block>
+preserved, too."<Close><End of Block>
 <TextBlock 14 w:42 h:3>
 Ramsus
 "...Let's meet her.<New>
