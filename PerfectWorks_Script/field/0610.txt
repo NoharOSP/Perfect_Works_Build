@@ -242,7 +242,7 @@ Dan
 Dan
 "Fei's...<Delay 20>
 inside that monster!?"<Close><End of Block>
-<TextBlock 53 w:30 h:3>
+<TextBlock 53 w:34 h:3>
 Fei
 "*Huff...huff...*<Delay 20>
 Damn you...!!"<Close><Close><End of Block>

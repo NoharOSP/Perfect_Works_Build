@@ -242,8 +242,8 @@ You're right! I've got my
 whole life ahead of me!<Delay 20>
 I've got to strive harder
 to fulfil my goals in life.<Close><End of Block>
-<TextBlock 48 w:48 h:2>
-Sigh...<Delay 20> The neverending
+<TextBlock 48 w:50 h:2>
+*Sigh*...<Delay 20> The neverending
 hardships of a woman.<Close><End of Block>
 <TextBlock 49 w:42 h:4>
 Alice and Timothy's
