@@ -22,7 +22,7 @@ Citan
 You mean <Weltall>?"<Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Fei
-"...<Weltall>?<Delay 20>
+"...<Weltall>?
 This is the Gear that
 destroyed Lahan.<New>
 Why bring this, of all
@@ -32,14 +32,13 @@ ever again...?"<Close><End of Block>
 <TextBlock 7 w:38 h:4>
 Citan
 "I understand how
-you must feel...<New>
+you feel.<New>
 But to protect our-
 selves, to survive,
 we need a certain
 degree of strength.<New>
-For those being
-pursued, it matters
-all the more."<Close><End of Block>
+Even moreso for
+those being pursued."<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Fei
 "I agree that some
@@ -48,7 +47,7 @@ for self-defense.<New>
 And if it weren't for this
 Gear here, Elly and I'd be
 in that Rankar's stomach
-right now...<New>
+right now.<New>
 But its power goes beyond
 what is necessary. Does
 one really need the power
@@ -59,7 +58,7 @@ Citan
 <TextBlock 10 w:38 h:4>
 Fei
 "I don't need such
-power... I still...
+power. I still...
 don't like Gears."<Close><End of Block>
 <TextBlock 11 w:54 h:4>
 Citan
@@ -73,17 +72,15 @@ It can help us.<New>
 In that respect, I know
 you will be fine. Indeed,
 You helped someone just
-now. Did you not?"<New>
-Am I right?"<Close><End of Block>
+now. Did you not?"<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Fei
-"I want to believe all
-that, too, but...
-for some reason I can't.<New>
-This thing..."<Close><End of Block>
-<TextBlock 13 w:36 h:4>
+"I want to believe that.
+But for some reason I
+can't. This thing..."<Close><End of Block>
+<TextBlock 13 w:34 h:4>
 Fei
-"Well, whatever...
+"Oh well.
 At least Elly is
 safe now."<Close><End of Block>
 <TextBlock 14 w:28 h:3>
@@ -96,7 +93,7 @@ Elly
 <TextBlock 16 w:54 h:4>
 Citan
 "I am Citan, a friend of
-Fei's.<Delay 30> You were nearly that
+Fei's. You were nearly that
 Rankar's meal!<New>
 If Fei had not intervened,
 I hate to think what might
@@ -111,8 +108,7 @@ Elly
 <TextBlock 18 w:50 h:4>
 Citan
 "Thanks to the Rankar,
-it seems that the thing I
-had brought just in case<New>
+it seems that this
 did not go to waste..."<Close><End of Block>
 <TextBlock 19 w:8 h:2>
 Elly
@@ -134,26 +130,25 @@ Fei
 "Don't mention it.
 I'll just put it
 on your tab."<Close><End of Block>
-<TextBlock 24 w:52 h:4>
+<TextBlock 24 w:50 h:4>
 Citan
 "It is getting dark.
 Let us set up camp, and
 start out early tomorrow.<New>
-The both of you look tired
+Both of you look tired
 and I need to make some
 repairs on our friend
-here..."<Close><End of Block>
+here."<Close><End of Block>
 <TextBlock 25 w:2 h:1>
 ?<Opcode 2 30><Close><End of Block>
 <TextBlock 26 w:40 h:3>
 Elly
-"Why would I...<Delay 30>
+"Why would I...
 say such things...?"<Opcode 2 60><Close><End of Block>
 <TextBlock 27 w:34 h:4>
 Elly
 "Yes...
-that's right...
-I am a coward..."<Close><End of Block>
+I AM a coward..."<Close><End of Block>
 <TextBlock 28 w:4 h:1>
 <Opcode 1 255>!?<Opcode 2 20><Close><End of Block>
 <TextBlock 29 w:34 h:3>
@@ -184,15 +179,13 @@ Citan
 <TextBlock 36 w:50 h:4>
 Fei
 "I know. Elly's not to
-blame for any of this.<New>
+blame for anything.<New>
 What happened to the
-village is all my fault.
+village is my fault.
 I dumped all my feelings
 on Elly...<New>
-No wonder she reacted the
-way she did.
 I'm the one who should
-have apologized."<Close><End of Block>
+apologize."<Close><End of Block>
 <TextBlock 37 w:46 h:4>
 Citan
 "Fei, do not blame
@@ -207,28 +200,28 @@ By the way, how is everyone
 from the village doing?"<Close><End of Block>
 <TextBlock 39 w:50 h:4>
 Citan
-"Do not worry, Yui is
-taking care of them.<New>
+"Do not worry, Yui will
+take care of them.<New>
 I told her to leave soon
-and take them all to... 
+and take them all to...
 a certain place.<New>
-They should be safe there
-for the time being.
-Just focus on your own
+They should be safe for
+the time being. Just
+focus on your own
 situation now."<Close><End of Block>
 <TextBlock 40 w:24 h:2>
 Fei
 "Okay, Doc."<Close><End of Block>
 <TextBlock 41 w:54 h:4>
 Citan
-"So...what do we do next?<New>
+"So, what do we do next?<New>
 First of all, how about we
 leave this forest and head
 for the desert town of
 Dazil?<New>
 We may learn something
 about what Av and Kislev
-are up to, and be able to
+are up to and be able to
 source parts for <Weltall>.<New>
 At any rate, I doubt the Av
 homeland will let the other
@@ -251,10 +244,10 @@ having anything like that."<Close><End of Block>
 Citan
 "Of course, Av itself
 is not armed with such
-things...<New>
+things.<New>
 Most likely it belongs
-to the Geburah forces
-stationed in Av."<Close><End of Block>
+to Geburah, who are
+stationed there."<Close><End of Block>
 <TextBlock 46 w:20 h:2>
 Fei
 "Geburah?"<Close><End of Block>
@@ -265,13 +258,12 @@ Solaris' Special Forces,
 known as 'Geburah'.<New>
 I am sure you have heard
 something about them?<New>
-They are an organization
+They are a group
 providing large-scale
 military aid to the
 Kingdom of Av.<New>
 They showed up in Ignas
-several years ago<-->
-eleven, to be precise.<New>
+eleven years ago.
 Up until then, Av had
 been losing to Kislev.<New>
 But with Geburah's help
@@ -284,7 +276,7 @@ buried in the ruins."<Close><End of Block>
 <TextBlock 48 w:50 h:4>
 Fei
 "I've heard the village
-elders talk about it...<Delay 30>
+elders talk about it...
 Wait, could Elly be...!?"<Close><End of Block>
 <TextBlock 49 w:52 h:4>
 Citan
@@ -294,10 +286,9 @@ technology and power.<New>
 It is rumored they are
 here solely to get the
 resources in the ruins.<New>
-I am surprised they are
-using something as
-powerful as that ship...<New>
-It must be to supress the
+To think they would bring
+in such a large ship...
+It must be to suppress the
 recent border skirmishes."<Close><End of Block>
 <TextBlock 50 w:42 h:3>
 Fei
