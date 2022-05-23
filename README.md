@@ -126,8 +126,8 @@ Bart:
 - WhippaSnappa: +6 to +8.
 - CobraCracka: +5 to +9.
 - Serpent Sting: +7 to +10, add 'Inflict Confusion on hit' (to be included)
-- Black Snake: +7 to +12, add 'Inflict Silence on hit' (to be included)
-- Silver Blood: +8 to +14, add 'Lower Ether Def' (to be included)
+- Black Snake: +7 to +12, add 'Lower Ether Def' (to be included)
+- Silver Blood: +8 to +14, add 'Inflict Silence on hit' (to be included)
 - Whip-Lasher: +10 to +16, add 'Inflict Poison on hit' (to be included)
 - Desert Worm: +12 to +18, add 'Inflict Confusion on hit' (to be included)
 - Sonic Wave: +14 to +24, add 'Lower Ether Def' (to be included)
