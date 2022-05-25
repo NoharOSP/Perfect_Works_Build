@@ -7,14 +7,14 @@ planning session."<Opcode 2 60><Close><End of Block>
 !<Opcode 2 30><Close><End of Block>
 <TextBlock 3 w:46 h:3>
 Ah...
-Excuse me but...<Delay 60>aren't 
+Excuse me, but...<Delay 60>aren't
 you Prince Bartholomew?<Close><End of Block>
 <TextBlock 4 w:34 h:2>
 Bart
 "...And you are?"<Close><End of Block>
 <TextBlock 5 w:42 h:4>
 I was sent here by
-the Nisan Sect. <Delay 60> 
+the Nisan Sect.<Delay 60>
 I'm here to check up
 on Mother Marguerite.<New>
 Prince Bartholomew,
@@ -23,11 +23,11 @@ sooner or later...<Opcode 2 60><Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Citan
 "Well, <Delay 30>let us not just
-stand here chatting. 
+stand here chatting.
 Shall we use a room?"<Close><End of Block>
 <TextBlock 7 w:42 h:3>
-You must be tired. 
-I'll be in my room, 
+You must be tired.
+I'll be in my room,
 please come by later.<Close><End of Block>
 <TextBlock 8 w:42 h:1>
 That's my room there.<Close><End of Block>
@@ -75,15 +75,15 @@ okay, I'll mark it down to 40G each.
     Thanks
     No way<Close><End of Block>
 <TextBlock 18 w:36 h:4>
-I don't know her! 
+I don't know her!
 50G per person.
     Okay
     No way<Close><End of Block>
 <TextBlock 19 w:56 h:2>
-That's <Opcode 10 1> people, 
+That's <Opcode 10 1> people,
 it'll be <Opcode 10 0>G.<Close><End of Block>
 <TextBlock 20 w:30 h:2>
-You don't have 
+You don't have
 enough money.<Close><End of Block>
 <TextBlock 21 w:22 h:1>
 Come again!<Close><End of Block>
@@ -98,7 +98,7 @@ you have to pay for it!<Close><End of Block>
 <TextBlock 25 w:32 h:1>
 That'll be 100G.<Close><End of Block>
 <TextBlock 26 w:42 h:2>
-What, you 
+What, you
 don't even have 100G?<Close><End of Block>
 <TextBlock 27 w:14 h:4>
     <Opcode 1 255>OFF

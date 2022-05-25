@@ -9,7 +9,7 @@ Going out again?
 <TextBlock 3 w:38 h:4>
 Citan
 "Are you sure?
-Please do not come 
+Please do not come
 back too late."<Close><End of Block>
 <TextBlock 4 w:32 h:4>
 Citan
@@ -58,7 +58,7 @@ Citan
 Be careful, young one!"<Close><End of Block>
 <TextBlock 10 w:44 h:3>
 Bart
-"Fei, no matter what, 
+"Fei, no matter what,
 you gotta win!"<Close><End of Block>
 <TextBlock 11 w:50 h:4>
 Bart
@@ -66,7 +66,7 @@ Bart
 I'm gonna get some sleep.
 Man, I'm beat."<Close><End of Block>
 <TextBlock 12 w:34 h:4>
-More sightseeing 
+More sightseeing
 in Av?
     Yes
     Rest<Close><End of Block>
@@ -78,7 +78,7 @@ I won't be  comin' back
 here for a while."<Close><End of Block>
 <TextBlock 14 w:48 h:3>
 Bart
-"Yeah, tomorrow will be 
+"Yeah, tomorrow will be
 tough for both of us."<Close><End of Block>
 <TextBlock 15 w:42 h:3>
 Bart
@@ -96,7 +96,7 @@ Is this plan really
 going to work?<Close><End of Block>
 <TextBlock 18 w:52 h:4>
 Bart
-"It's already started. 
+"It's already started.
 If something's wrong now,
 then that's tough!<New>
 What're you worried about?
@@ -147,9 +147,9 @@ it would be through
 the window...<Close><End of Block>
 <TextBlock 28 w:30 h:1>
 Please come in.<Close><End of Block>
-<TextBlock 29 w:30 h:2>
-Excuse me but
-who are they...<Close><End of Block>
+<TextBlock 29 w:32 h:2>
+Excuse me, but
+who are they...?<Close><End of Block>
 <TextBlock 30 w:46 h:4>
 <Opcode 14 1>Bart
 "Oh, this is Fei and
@@ -178,7 +178,7 @@ loosen their lips too.<New>
 Finally yesterday, I got
 some information...
 Margie's in the citadel.<New>
-The problem is how to 
+The problem is how to
 slip into the castle...<New>
 I thought about it a lot
 but it looks pretty bleak.
@@ -196,10 +196,10 @@ is anything else I can do
 to help just ask...<New>
 Do you have any good leads?<Close><End of Block>
 <TextBlock 34 w:38 h:2>
-Did you find a way 
+Did you find a way
 into the castle?<Close><End of Block>
 <TextBlock 35 w:40 h:2>
-Did you find a way 
+Did you find a way
 to use the festival?<Close><End of Block>
 <TextBlock 36 w:40 h:2>
 Any new information?
@@ -209,7 +209,7 @@ Any luck finding
 the well key?<Close><End of Block>
 <TextBlock 38 w:48 h:3>
 Bart
-"Yeah, the old guy next 
+"Yeah, the old guy next
 to the well had it."<Close><End of Block>
 <TextBlock 39 w:44 h:3>
 Citan
@@ -217,11 +217,11 @@ Citan
 to look for it again."<Close><End of Block>
 <TextBlock 40 w:44 h:4>
 Bart
-"Not yet. We're gonna
-hit the streets for
-info. now.<New>
-Then we'll think
-about the rest later."<Close><End of Block>
+"Not yet. Right now
+we're gonna hit the
+streets for info.<New>
+We'll think about the
+rest later."<Close><End of Block>
 <TextBlock 41 w:50 h:4>
 I see. I'm very relieved
 that you are all here.
@@ -255,9 +255,9 @@ have one more suggestion.<New>
 There is a festival going
 on now. There must be a
 way we can use it to our
-advantage." <Close><End of Block>
+advantage."<Close><End of Block>
 <TextBlock 44 w:2 h:1>
-<!><Opcode 2 30><Close><End of Block>
+!<Opcode 2 30><Close><End of Block>
 <TextBlock 45 w:40 h:3>
 North of town is a
 plaza. The castle is
@@ -266,7 +266,7 @@ I'm sure we'll find
 something there.<Close><End of Block>
 <TextBlock 46 w:52 h:4>
 Citan
-"Tomorrow is the 
+"Tomorrow is the
 Tournament. There will
 be betting at the arena.<New>
 Surely, the soldiers'
@@ -287,8 +287,7 @@ Bart
 Nothing's more popular than
 gambling at these things.<New>
 All the guards will be
-betting. They'll all be
-gambling.<New>
+placing bets.<New>
 They'll be more interested
 in the fight than their
 jobs. We gotta use this.
@@ -330,7 +329,7 @@ plan our strategy."<Close><End of Block>
 Citan
 "Tomorrow Fei will be in
 the Tournament at Fatima
-castle.<New>
+Castle.<New>
 We will put on a good show
 to distract the guards.<New>
 Then Bart will infiltrate
@@ -354,7 +353,7 @@ After that he will rescue
 Marguerite from the
 citadel.<New>
 I will accompany Fei to
-the Tournament. I will 
+the Tournament. I will
 also help work the crowd
 and secure our escape."<Close><End of Block>
 <TextBlock 59 w:50 h:4>
@@ -364,7 +363,7 @@ The well is locked. First
 we must find the key."<Close><End of Block>
 <TextBlock 60 w:48 h:3>
 Bart
-"Let's go find the key, 
+"Let's go find the key,
 and fast!"<Close><End of Block>
 <TextBlock 61 w:50 h:4>
 Citan
@@ -374,7 +373,7 @@ Tonight we will stay in
 the hotel and start out
 tomorrow.<New>
 We are free to do what we
-like for now. 
+like for now.
 Let us have a look around
 the town."<Close><End of Block>
 <TextBlock 62 w:42 h:3>
@@ -387,8 +386,8 @@ head for the castle."<Close><End of Block>
 <TextBlock 63 w:46 h:1>
 Sorry I can't help you.<Close><End of Block>
 <TextBlock 64 w:40 h:3>
-Please take care. 
-I wish you the best 
+Please take care.
+I wish you the best
 of luck.<Close><End of Block>
 <TextBlock 65 w:34 h:4>
 Please take care.
@@ -398,7 +397,7 @@ return safely.<Close><End of Block>
 <TextBlock 66 w:2 h:1>
 !<Delay 30><Close><End of Block>
 <TextBlock 67 w:48 h:4>
-Wh, who are you!?
+Wh-Who are you!?
 Just barging into a
 lady's room.
 And from the window!<New>
@@ -407,8 +406,8 @@ faint. How rude you are!<Delay 30>
 What a dangerous town.
 Get out, now!<Close><End of Block>
 <TextBlock 68 w:44 h:2>
-What are you doing? 
+What are you doing?
 Get out of here, now! <Opcode 2 30><Close><End of Block>
 <TextBlock 69 w:44 h:2>
-No, don't come any 
+No, don't come any
 closer! Get out, now! <Opcode 2 30><Close><End of Block>

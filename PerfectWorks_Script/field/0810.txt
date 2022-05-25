@@ -1,20 +1,20 @@
 <TextBlock 1 w:36 h:3>
 Bart
-"There isn't time 
-for this!" <Opcode 2 40><Close><End of Block>
+"There isn't time
+for this!"<Opcode 2 40><Close><End of Block>
 <TextBlock 2 w:36 h:3>
 Bart
-"There isn't time 
-for this!" <Opcode 2 40><Close><End of Block>
+"There isn't time
+for this!"<Opcode 2 40><Close><End of Block>
 <TextBlock 3 w:48 h:4>
 Bart
 "This isn't the entrance
-to the underground 
+to the underground
 waterway!"<Opcode 2 40><Close><End of Block>
 <TextBlock 4 w:48 h:4>
 Bart
 "This isn't the entrance
-to the underground 
+to the underground
 waterway!"<Opcode 2 40><Close><End of Block>
 <TextBlock 5 w:38 h:3>
 Bart
@@ -26,7 +26,7 @@ talking about is...<Opcode 2 100><Close><End of Block>
 <TextBlock 7 w:18 h:1>
 Hey, you!<Opcode 2 60><Close><End of Block>
 <TextBlock 8 w:44 h:2>
-Do they really need 
+Do they really need
 that much for the war?<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 I'm sorry. The army just
@@ -45,16 +45,16 @@ ends soon.<Close><End of Block>
 Whew, keeping up with my
 granddaughter is tough.<Close><End of Block>
 <TextBlock 14 w:40 h:3>
-Sho<~>ppi<~>ng<Delay 30>
-Sho<~>ppi<~>ng<Delay 30>
+Sho~ppi~ng<Delay 30>
+Sho~ppi~ng<Delay 30>
 Shopping is great...<Close><End of Block>
 <TextBlock 15 w:46 h:3>
 Grandma, hurry, hurry!
 Finish shopping so we
 can go to the festival.<Close><End of Block>
 <TextBlock 16 w:46 h:3>
-It's almost time for 
-the festival. I wonder 
+It's almost time for
+the festival. I wonder
 if it'll be crowded?<Close><End of Block>
 <TextBlock 17 w:64 h:3>
 Are you here for the Tournament?
@@ -94,12 +94,12 @@ any better?<Close><End of Block>
 <TextBlock 22 w:10 h:1>
 Huh!?<Opcode 2 20><Close><End of Block>
 <TextBlock 23 w:26 h:2>
-Hmm, <Delay 20>
-Who was that?<New>
+Hmm,<Delay 20>
+who was that?<New>
 <Delay 20>I forgot...<Close><End of Block>
 <TextBlock 24 w:24 h:2>
 Oh yeah!
-I remember! <Opcode 2 100><Close><End of Block>
+I remember!<Opcode 2 100><Close><End of Block>
 <TextBlock 25 w:38 h:3>
 Prince Bartholomew?
     Yes!
@@ -111,7 +111,7 @@ When you get older your
 memory really goes.<Close><End of Block>
 <TextBlock 27 w:48 h:4>
 My, how you've grown...<New>
-Your Highness probably 
+Your Highness probably
 doesn't remember me, but
 I used to work in the
 castle kitchen.<New>
@@ -141,7 +141,7 @@ Do you already have a hotel?
     Yes
     Not yet<Close><End of Block>
 <TextBlock 31 w:40 h:2>
-Really? Too bad. 
+Really? Too bad.
 I know a good place.<Close><End of Block>
 <TextBlock 32 w:46 h:3>
 You'd better get a room
@@ -158,7 +158,7 @@ they'll give you a deal.<Close><End of Block>
 There's been a lot of
 shoplifters lately. It's
 all because of this war.<New>
-Everything's in such 
+Everything's in such
 short supply.<Close><End of Block>
 <TextBlock 36 w:38 h:5>
 Welcome!<Delay 20>
@@ -184,8 +184,8 @@ didn't have anything.
 I guess I was mistaken.<Close><End of Block>
 <TextBlock 40 w:46 h:4>
 Show me what you're 
-hiding!<Delay 50> 
-Give it back now and I 
+hiding!<Delay 50>
+Give it back now and I
 won't tell your folks.<Opcode 2 50><Close><End of Block>
 <TextBlock 41 w:34 h:1>
 That's strange...<Opcode 2 50><Close><End of Block>
@@ -196,7 +196,7 @@ when my dad comes back.<Close><End of Block>
 Get off my back!
 I'm just looking!<Close><End of Block>
 <TextBlock 44 w:46 h:2>
-Shut up! 
+Shut up!
 Mind your own business!<Close><End of Block>
 <TextBlock 45 w:2 h:1>
 !<Opcode 2 20><Close><End of Block>
@@ -204,25 +204,25 @@ Mind your own business!<Close><End of Block>
 (Hurry!) <Opcode 2 20><Close><End of Block>
 <TextBlock 47 w:46 h:4>
 What are you talking
-about lady? I'm not
+about, lady? I'm not
 hiding anything! Do you
 wanna see?<Opcode 2 100><Close><End of Block>
 <TextBlock 48 w:10 h:1>
-See. <Opcode 2 30><Close><End of Block>
+See.<Opcode 2 30><Close><End of Block>
 <TextBlock 49 w:46 h:3>
 You can't accuse people
 without proof!<Delay 30>
-C'mon lady!<Opcode 2 30><Close><End of Block>
+C'mon, lady!<Opcode 2 30><Close><End of Block>
 <TextBlock 50 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
 <TextBlock 51 w:54 h:4>
-Thanks for loaning me 
+Thanks for loaning me
 money. I'll stop stealing. <Delay 30>
 The two of us will work
-hard till dad comes back.<Close><End of Block>
+hard till Dad comes back.<Close><End of Block>
 <TextBlock 52 w:38 h:3>
-Whaddya want? 
-You're buggin' me, 
+Whaddya want?
+You're buggin' me,
 get outta here!<Close><End of Block>
 <TextBlock 53 w:34 h:4>
 Hey! Hey, man!
@@ -234,15 +234,15 @@ Then lend me 1000G
     Sure
     No way<Close><End of Block>
 <TextBlock 55 w:6 h:1>
-!! <Opcode 2 30><Close><End of Block>
+!!<Opcode 2 30><Close><End of Block>
 <TextBlock 56 w:32 h:4>
 Wow, thanks...<Delay 50>
 You're really
-nice man...
+nice, man...
 I mean 'mister'.<Close><End of Block>
 <TextBlock 57 w:46 h:3>
-Hey, if you don't have 
-any money don't fool 
+Hey, if you don't have
+any money don't fool
 people like that.<Close><End of Block>
 <TextBlock 58 w:26 h:1>
 I thought so.<Close><End of Block>
@@ -250,9 +250,9 @@ I thought so.<Close><End of Block>
 Just as I thought,
 adults are all talk.<Close><End of Block>
 <TextBlock 60 w:20 h:1>
-(Here...) <Opcode 2 50><Close><End of Block>
+(Here...)<Opcode 2 50><Close><End of Block>
 <TextBlock 61 w:16 h:1>
-(Yeah!) <Opcode 2 20><Close><End of Block>
+(Yeah!)<Opcode 2 20><Close><End of Block>
 <TextBlock 62 w:40 h:4>
 You're not from
 around here are you?
@@ -262,7 +262,7 @@ enjoy our town fair.<Close><End of Block>
 Any monster fangs? <Delay 15>
 Any monster eyeballs? <Delay 15>
 Any monster scales? <Delay 15><New>
-We'll buy 'em all for 
+We'll buy 'em all for
 a good price. <Opcode 2 60><Close><End of Block>
 <TextBlock 64 w:46 h:5>
 What do you wanna sell?
@@ -294,17 +294,17 @@ Try one.<Close><End of Block>
 <TextBlock 72 w:36 h:3>
 10G for one.
     Buy one
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 73 w:36 h:4>
 Alright.
 How about 9G?
     Buy one
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 74 w:36 h:4>
 Just try one.
 8G?
     Buy one
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 75 w:58 h:3>
 Hey, you can't carry anymore!
 Don't play tricks on old
@@ -313,7 +313,7 @@ people like that.<Close><End of Block>
 Thanks.<Close><End of Block>
 <TextBlock 77 w:40 h:3>
 Hey!
-Don't burn yourself 
+Don't burn yourself
 breathing fire.<Close><End of Block>
 <TextBlock 78 w:48 h:5>
 <Delay 100>Weren't you going to
@@ -326,19 +326,19 @@ You don't like spicy
 things?
 Too bad.<Close><End of Block>
 <TextBlock 80 w:48 h:4>
-Bananas! Bananas! 
-Long bananas! <Delay 20>
+Bananas! Bananas!
+Long bananas!<Delay 20>
 Good for body and soul! <Delay 20>
 Buy some bananas! <Opcode 2 60><Close><End of Block>
 <TextBlock 81 w:40 h:3>
 Did you bring money?
     Yes
-    No <Opcode 13 255><Opcode 2 1><Close><End of Block>
+    No<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 82 w:36 h:1>
 Bring some money. <Close><Opcode 2 80><Close><End of Block>
 <TextBlock 83 w:50 h:4>
 Buy a banana?
-The monsters of the 
+The monsters of the
 western forest love them.
 They're called Elfananas.<New>
 You can't find better
@@ -353,14 +353,14 @@ They're delicious!<Delay 50>
 How about 9G?
     Buy some
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
-<TextBlock 86 w:44 h:5>
-OK, a special!
-2 bunches, 16G.
-How about it handsome?
+<TextBlock 86 w:46 h:5>
+Okay, a special!
+Two bunches, 16G.
+How about it, handsome?
     Buy some
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 87 w:46 h:2>
-Hey, you have too much 
+Hey, you have too much
 stuff. Come back again.<Close><End of Block>
 <TextBlock 88 w:36 h:2>
 Thanks!
@@ -372,12 +372,12 @@ Come again.<Close><End of Block>
 <TextBlock 90 w:50 h:4>
 <Delay 50>What, forgot your wallet?<Delay 50>
 Too bad, but I can't give
-it to you. Bring your 
+it to you. Bring your
 wallet next time.<Close><End of Block>
 <TextBlock 91 w:52 h:4>
 Well...<Delay 30>
-If you don't eat bananas 
-you won't become a strong 
+If you don't eat bananas
+you won't become a strong
 soldier.<Close><End of Block>
 <TextBlock 92 w:54 h:4>
 Young sir! Young sir!
@@ -395,19 +395,19 @@ with Av spring water.<Close><End of Block>
 <TextBlock 95 w:36 h:3>
 One box 10G.
     Buy some
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 96 w:36 h:4>
 Alright,
 I can go 9G.
     Buy some
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 97 w:42 h:4>
-Ok then, 8G
+Okay then, 8G.
 I can't go any lower.
     Buy some
-    Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
+    Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 98 w:46 h:2>
-Hey, you've got too 
+Hey, you've got too
 much stuff. Come again.<Close><End of Block>
 <TextBlock 99 w:14 h:1>
 Thanks!<Close><End of Block>
@@ -416,15 +416,15 @@ Hey!
 They're really good.
 Just try some.<Close><End of Block>
 <TextBlock 101 w:46 h:2>
-WHA? <Delay 50>No money!?
+WHA?<Delay 50>No money!?
 Gimme a break! Get out!<Close><End of Block>
 <TextBlock 102 w:48 h:2>
-Too bad, they're really 
+Too bad, they're really
 good. Maybe next time.<Close><End of Block>
 <TextBlock 103 w:64 h:1>
-Cap'n <Delay 10>suspicious people!<Close><End of Block>
+Cap'n, <Delay 10>suspicious people!<Close><End of Block>
 <TextBlock 104 w:66 h:1>
-Cr'ap'n <Delay 15>susp'cious peepl!<Close><End of Block>
+Cr'ap'n, <Delay 15>susp'cious peepl!<Close><End of Block>
 <TextBlock 105 w:46 h:3>
 We are the Raider Boys!
 Joined together to
@@ -434,18 +434,18 @@ We protect the people
 of the desert from the
 steam heads of Kislev.<Opcode 2 100><Close><End of Block>
 <TextBlock 107 w:46 h:3>
-Shut up! <Delay 30>
+Shut up!<Delay 30>
 I'm the captain and I'm
 talkin' here!<Opcode 2 100><Close><End of Block>
 <TextBlock 108 w:44 h:4>
-Right, starting 
+Right, starting
 tomorrow we'll switch 
-off.<Delay 30> 
+off.<Delay 30>
 That's good!<Opcode 2 50><Close><End of Block>
 <TextBlock 109 w:32 h:3>
-Let's return to 
+Let's return to
 patrol!<Delay 30>
-Forward <Delay 20> march!<Opcode 2 100><Close><End of Block>
+Forward<Delay 20> march!<Opcode 2 100><Close><End of Block>
 <TextBlock 110 w:38 h:2>
 <Opcode 1 1>Kislev steam heads!<Delay 100>
 We'll kick their...<Opcode 2 100><Close><End of Block>
@@ -464,7 +464,7 @@ Yeah!<Opcode 2 30><Close><End of Block>
 <TextBlock 115 w:38 h:1>
 <Opcode 1 1>You're not from Av!<Opcode 2 100><Close><End of Block>
 <TextBlock 116 w:28 h:1>
-Company <Delay 20> halt!<Opcode 2 20><Close><End of Block>
+Company,<Delay 20> halt!<Opcode 2 20><Close><End of Block>
 <TextBlock 117 w:16 h:1>
 Shut up!<Opcode 2 50><Close><End of Block>
 <TextBlock 118 w:10 h:1>
@@ -486,7 +486,7 @@ Hey!<Opcode 2 30><Close><End of Block>
 Yeah, yeah <Delay 20>
 I wanna be Cap'n too!<Opcode 2 100><Close><End of Block>
 <TextBlock 125 w:38 h:2>
-Me too <Delay 20>
+Me too<Delay 20>
 I'm Cap'n tomorrow.<Close><End of Block>
 <TextBlock 126 w:20 h:1>
 Come here.<Opcode 2 30><Close><End of Block>
@@ -497,7 +497,7 @@ off to fight...<Close><End of Block>
 To the north, by the
 border.<Delay 40>
 I pray everyday that
-he will return home 
+he will return home
 safe...<Close><End of Block>
 <TextBlock 129 w:50 h:2>
 ...And that he'll beat up
@@ -510,22 +510,22 @@ If we don't they'll take
 over and kill or make
 slaves of everyone.<Close><End of Block>
 <TextBlock 131 w:28 h:3>
-Right
+Right?
     Yep
     Not really<Close><End of Block>
 <TextBlock 132 w:30 h:2>
 I'm gonna be a 
 strong soldier!<Close><End of Block>
 <TextBlock 133 w:36 h:5>
-Those Kislev guys 
+Those Kislev guys
 are real bad!
 And...<Delay 80>they killed
 my dad.
 I hafta get 'em.<Close><End of Block>
 <TextBlock 134 w:46 h:3>
 Hurry up, use it!
-We're not just playing 
-around here.<Close><End of Block>
+We're not just playing
+around, here.<Close><End of Block>
 <TextBlock 135 w:46 h:5>
 If you use this box you
 can climb up fast.
@@ -539,8 +539,8 @@ What, you're poor too?<Delay 30>
 Well, I'll just tell you.
 If you move back and jump
 you don't need the box.<Close><End of Block>
-<TextBlock 138 w:12 h:1>
-O-kay.<Close><End of Block>
+<TextBlock 138 w:14 h:1>
+O~kay.<Close><End of Block>
 <TextBlock 139 w:48 h:4>
 He said he doesn't play
 hide-and-seek anymore.
@@ -554,9 +554,9 @@ Can you help me too?
     Okay
     I'm busy<Close><End of Block>
 <TextBlock 142 w:48 h:4>
-Thanks
-The rule is you can't 
-hide in houses or where 
+Thanks.
+The rule is you can't
+hide in houses or where
 you can't see.<Close><End of Block>
 <TextBlock 143 w:30 h:1>
 We're busy too!<Close><End of Block>
@@ -566,7 +566,7 @@ seek anymore and you
 shouldn't at your age
 either!<Close><End of Block>
 <TextBlock 145 w:40 h:2>
-When you leave I'll 
+When you leave I'll
 hide somewhere.<Close><End of Block>
 <TextBlock 146 w:34 h:1>
 Ah, you found me.<Close><End of Block>
@@ -577,13 +577,13 @@ seek. You wanna play?
     No thanks<Close><End of Block>
 <TextBlock 148 w:42 h:3>
 When you leave I'll
-hide, then you gotta 
+hide, then you gotta
 find me.<Close><End of Block>
 <TextBlock 149 w:48 h:1>
-Afraid you'll lose, heh?<Close><End of Block>
+Afraid you'll lose, huh?<Close><End of Block>
 <TextBlock 150 w:40 h:3>
 Good job.
-Next time I'll hide 
+Next time I'll hide
 somewhere better.<Close><End of Block>
 <TextBlock 151 w:44 h:2>
 You found me here too.
@@ -596,13 +596,13 @@ when you were a kid.<New>
 But you won't find me
 next time.<Close><End of Block>
 <TextBlock 153 w:48 h:3>
-A<~>w-ge<~>e!
+A~w, ge~e!
 You found me here, too? <New>
-OK, time for my secret
+Okay, time for my secret
 weapon! You'll never
 find me there!!<Close><End of Block>
 <TextBlock 154 w:36 h:3>
-GE<~>EZ!
+GE~EZ!
 How'd you find me?<New>
 Forget it!
 I'm quitting
@@ -620,7 +620,7 @@ It's been a while since
 anyone asked me about that.
 Everyone wanted to know
 about it back then...<New>
-Well...cough...<Delay 30>I was
+Well...*cough*...<Delay 30>I was
 still a kid when I hid
 in there. Actually I got
 lost...pretty embarrassing!<New>
@@ -700,7 +700,7 @@ It's a joke. A joke.<New>
 Look at me. Do I look
 like a thief to you?"<Close><End of Block>
 <TextBlock 166 w:38 h:4>
-I don't get it <Delay 20>...<Delay 20>
+I don't get it<Delay 20>...<Delay 20>
 ...<Delay 20>...<Delay 20>...<Delay 20>...<Delay 20>...<Delay 20>
 Oh?...<Delay 20>Oh!...<Delay 20>You...
 No, it couldn't be!<Close><End of Block>
@@ -710,8 +710,8 @@ Bart
 It's true. It is me!"<Close><End of Block>
 <TextBlock 168 w:50 h:4>
 Prince Bartholomew?
-I though you had died in 
-that accident. 
+I though you had died in
+that accident.
 You're still alive...<Close><End of Block>
 <TextBlock 169 w:52 h:4>
 Bart
@@ -720,7 +720,7 @@ save my cousin being held
 in the castle.<New>
 That's why I gotta sneak
 in through waterways. So
-help me out here gramps."<Close><End of Block>
+help me out here, gramps."<Close><End of Block>
 <TextBlock 170 w:20 h:1>
 Of course!<Close><End of Block>
 <TextBlock 171 w:36 h:1>
@@ -730,23 +730,23 @@ Bart
 "Thanks.
 I appreciate it!"<Close><End of Block>
 <TextBlock 173 w:38 h:2>
-Sorry about what I 
+Sorry about what I
 said before...<Opcode 2 60><Close><End of Block>
 <TextBlock 174 w:52 h:3>
 Bart
 "Don't worry about it.<New>
-I'm glad there are people 
-like you worried about 
+I'm glad there are people
+like you worried about
 the country."<Close><End of Block>
 <TextBlock 175 w:46 h:3>
 If Prince Bartholomew
-comes back he'll bring 
+comes back he'll bring
 back Av's old spirit.<Close><End of Block>
 <TextBlock 176 w:30 h:1>
 Go get'em, boy!<Close><End of Block>
 <TextBlock 177 w:36 h:3>
-It's cool here. <Delay 40>
-Cool air blows up 
+It's cool here.<Delay 40>
+Cool air blows up
 from the grate.<Close><End of Block>
 <TextBlock 178 w:40 h:3>
 Yeah!
@@ -754,22 +754,22 @@ He's a great guy!
 My childhood friend.<Close><End of Block>
 <TextBlock 179 w:46 h:4>
 No good, no good.
-You won't open it 
+You won't open it
 without the key!<New>
-Many years ago a kid 
+Many years ago a kid
 got lost down there.<Delay 20>
 I think it was the kid 
 from the armor store...<Close><End of Block>
 <TextBlock 180 w:52 h:4>
 I've been doing laundry
-here for 60 years...
+here for sixty years...
 The water is the only
 thing that hasn't changed.<New>
 There's a spring flowing
 beneath the castle.<New>
 I was worried that when
 the king died, the water
-would stop too, but it 
+would stop too, but it
 didn't.<New>
 That old guy down there
 in charge of the water
