@@ -2,10 +2,12 @@
 Citan
 "Well then, I will be over
 here cheering for you.<New>
-Do not beat him too soon.
-The better you do, the
-easier it will be for
-Bart to sneak in." <Close><End of Block>
+Do not take them down too
+quickly.<New>
+The more commotion there
+is at the Tournament, the
+easier it will be for the
+young master to sneak in."<Close><End of Block>
 <TextBlock 2 w:28 h:3>
 Myyah
 "My...what a
@@ -44,7 +46,7 @@ Let us go sign you up."<Close><End of Block>
 <TextBlock 8 w:44 h:4>
 Citan
 "And Fei, do not use
-your real name, make
+your real name. Make
 another suitable one."<Close><End of Block>
 <TextBlock 9 w:54 h:34>
 ...Brave young men are
@@ -90,7 +92,7 @@ Shakhan
 if I do say so myself."<Close><End of Block>
 <TextBlock 12 w:54 h:4>
 Shakhan
-"Oh, Commander Ramsus. 
+"Oh, Commander Ramsus.
 Sorry to have kept you
 waiting. This way, please."<Close><End of Block>
 <TextBlock 13 w:44 h:4>
@@ -109,7 +111,7 @@ Ramsus
 "I find it boring."<Close><End of Block>
 <TextBlock 16 w:50 h:4>
 Myyah
-"Oh, let it be Commander.
+"Oh let it be, Commander.
 Shakhan is only trying to
 show hospitality...<New>
 I personally find martial
@@ -118,8 +120,8 @@ I look forward to seeing
 the Tournament."<Close><End of Block>
 <TextBlock 17 w:54 h:4>
 Shakhan
-"To say this event is a 
-tribute to you, Commander, 
+"To say this event is a
+tribute to you, Commander,
 is no understatement.<New>
 Your gracious help in our
 time of need enabled us to
@@ -127,15 +129,16 @@ celebrate the country's
 founding today."<Close><End of Block>
 <TextBlock 18 w:48 h:4>
 Ramsus
-"Founding, how impudent.
-It's not even your 
-country.<New>
+"'Founding'... How
+impudent. It's not even
+your country.<New>
 Hmph, do as you like."<Close><End of Block>
 <TextBlock 19 w:52 h:4>
 Shakhan
-"Myyah, how about the
-Tournament? Will you grace
-us with your company?"<Close><End of Block>
+"And you, Myyah, how about
+the Tournament?<New>
+Will you grace us with
+your company?"<Close><End of Block>
 <TextBlock 20 w:24 h:4>
 Myyah
 "Yes.
@@ -167,52 +170,52 @@ Arena seats are 500G.<Delay 50>
 Participant's excepted.
 Please pass through.<Close><End of Block>
 <TextBlock 28 w:42 h:2>
-You're the Dragon 
+You're the Dragon-
 Slaying Boxer, right?<Close><End of Block>
 <TextBlock 29 w:42 h:2>
-You're the Dragon 
+You're the Dragon-
 Slaying Youth, right?<Close><End of Block>
 <TextBlock 30 w:44 h:2>
-You're the Dragon 
+You're the Dragon-
 Slaying Squire, right?<Close><End of Block>
 <TextBlock 31 w:46 h:2>
-You're the Dragon 
+You're the Dragon-
 Slaying Slacker, right?<Close><End of Block>
 <TextBlock 32 w:42 h:2>
 You're the Ponytailed
 Boxer, right?<Close><End of Block>
 <TextBlock 33 w:44 h:2>
-You're the Ponytailed 
+You're the Ponytailed
 Youth, right?<Close><End of Block>
 <TextBlock 34 w:44 h:2>
-You're the Ponytailed 
+You're the Ponytailed
 Squire, right?<Close><End of Block>
 <TextBlock 35 w:44 h:2>
-You're the Ponytailed 
+You're the Ponytailed
 Slacker, right?<Close><End of Block>
 <TextBlock 36 w:42 h:2>
-You're the Wandering 
+You're the Wandering
 Boxer, right?<Close><End of Block>
 <TextBlock 37 w:42 h:2>
-You're the Wandering 
+You're the Wandering
 Youth, right?<Close><End of Block>
 <TextBlock 38 w:42 h:2>
-You're the Wandering 
+You're the Wandering
 Squire, right?<Close><End of Block>
 <TextBlock 39 w:42 h:2>
-You're the Wandering 
+You're the Wandering
 Slacker, right?<Close><End of Block>
 <TextBlock 40 w:38 h:2>
-You're the Beloved 
+You're the Beloved
 Boxer, right?<Close><End of Block>
 <TextBlock 41 w:38 h:2>
-You're the Beloved 
+You're the Beloved
 Youth, right?<Close><End of Block>
 <TextBlock 42 w:38 h:2>
-You're the Beloved 
+You're the Beloved
 Squire, right?<Close><End of Block>
 <TextBlock 43 w:38 h:2>
-You're the Beloved 
+You're the Beloved
 Slacker, right?<Close><End of Block>
 <TextBlock 44 w:26 h:4>
    ...Boxer
@@ -220,13 +223,13 @@ Slacker, right?<Close><End of Block>
    ...Squire
    ...Slacker<Close><End of Block>
 <TextBlock 45 w:42 h:4>
-    Dragon Slaying...
+    Dragon-Slaying...
     Ponytailed...
     Wandering...
     Beloved...<Close><End of Block>
 <TextBlock 46 w:46 h:3>
 You can't go in here.
-This will be spectator 
+This will be spectator
 seating tomorrow.<Close><End of Block>
 <TextBlock 47 w:40 h:2>
 Participant?
@@ -248,22 +251,22 @@ No entry.<Close><End of Block>
 The final match...
 Wiseman
    vs.
-   Dragon Slaying Boxer<Close><End of Block>
+   Dragon-Slaying Boxer<Close><End of Block>
 <TextBlock 53 w:46 h:4>
 The final match...
 Wiseman
    vs.
-   Dragon Slaying Youth<Close><End of Block>
+   Dragon-Slaying Youth<Close><End of Block>
 <TextBlock 54 w:48 h:4>
 The final match...
 Wiseman
    vs.
-   Dragon Slaying Squire<Close><End of Block>
+   Dragon-Slaying Squire<Close><End of Block>
 <TextBlock 55 w:50 h:4>
 The final match...
 Wiseman
    vs.
-   Dragon Slaying Slacker<Close><End of Block>
+   Dragon-Slaying Slacker<Close><End of Block>
 <TextBlock 56 w:38 h:4>
 The final match...
 Wiseman
@@ -328,22 +331,22 @@ Wiseman
 The first match...
 Gonzalez
    vs.
-   Dragon Slaying Boxer<Close><End of Block>
+   Dragon-Slaying Boxer<Close><End of Block>
 <TextBlock 69 w:46 h:4>
 The first match...
 Gonzalez
    vs.
-   Dragon Slaying Youth<Close><End of Block>
+   Dragon-Slaying Youth<Close><End of Block>
 <TextBlock 70 w:48 h:4>
 The first match...
 Gonzalez
    vs.
-   Dragon Slaying Squire<Close><End of Block>
+   Dragon-Slaying Squire<Close><End of Block>
 <TextBlock 71 w:50 h:4>
 The first match...
 Gonzalez
    vs.
-   Dragon Slaying Slacker<Close><End of Block>
+   Dragon-Slaying Slacker<Close><End of Block>
 <TextBlock 72 w:38 h:4>
 The first match...
 Gonzalez
@@ -406,7 +409,7 @@ Gonzalez
    Beloved Slacker<Close><End of Block>
 <TextBlock 84 w:50 h:3>
 Hey, are you gonna fight?
-Hmm <Delay 100>
+Hmm<Delay 100>
 ...I'd say about 20 to 1.<Close><End of Block>
 <TextBlock 85 w:46 h:2>
 Shoot, can't get any
@@ -420,7 +423,7 @@ Citan
 <TextBlock 88 w:34 h:3>
 Huh?<Delay 30>
 The champion of
-the 'Tournament'!<Close><End of Block>
+the Tournament!<Close><End of Block>
 <TextBlock 89 w:38 h:3>
 Citan
 "Do they bet on
@@ -481,7 +484,7 @@ To enter...<Delay 30>
 Or not to enter...<Delay 30>
 That is the question...<Close><End of Block>
 <TextBlock 98 w:46 h:3>
-To watch inside...<Delay 30> 
+To watch inside...<Delay 30>
 Or watch outside...<Delay 30>
 That is the question...<Close><End of Block>
 <TextBlock 99 w:38 h:2>
@@ -497,9 +500,11 @@ What's taking so long?<Close><End of Block>
 <TextBlock 102 w:38 h:1>
 We're almost ready!<Close><End of Block>
 <TextBlock 103 w:50 h:3>
-If I was only 10 years
-younger...cough...hack...
-I'd whip 'em all...cough.<Close><End of Block>
+If I was only ten years
+younger...
+*cough*...*hack*...
+I'd whip 'em all...
+*cough*.<Close><End of Block>
 <TextBlock 104 w:48 h:3>
 I was born and raised in
 Dazil<Delay 60> but this is my 
@@ -529,14 +534,14 @@ My cousin's friend
 is gonna fight in it.
 Pretty cool, huh!<Close><End of Block>
 <TextBlock 110 w:50 h:2>
-Hey, granpa...
+Hey, grampa...
 Let's bet on someone too.<Close><End of Block>
 <TextBlock 111 w:52 h:3>
 No, betting's for losers.<New>
 I brought you here because
 I want you to grow up and
 be a strong man.<New>
-Strong enough to fight 
+Strong enough to fight
 in the Tournament someday.<Close><End of Block>
 <TextBlock 112 w:28 h:1>
 Man, how lame.<Close><End of Block>
@@ -550,53 +555,52 @@ You look pretty strong.<Delay 30>
 Um, maybe a semi-finalist.
 Good luck.<Close><End of Block>
 <TextBlock 114 w:54 h:4>
-If my guy wins...<Delay 30>
-I'm gonna go to the bar<New> 
-and order the most 
-expensive whiskey they 
+If my guy wins...<Delay 30>I'm gonna
+go to the bar and order the
+most expensive whiskey they
 have.<New>
 Then I'm gonna ask that
 waitress out! I wonder what
 to get her for a present.<Close><End of Block>
 <TextBlock 115 w:30 h:2>
-I'm betting on 
+I'm betting on
 Big Joe too.<Close><End of Block>
 <TextBlock 116 w:44 h:2>
 Trust me.
 It's gonna be Big Joe.<Close><End of Block>
 <TextBlock 117 w:32 h:2>
-I think Wiseman 
+I think Wiseman
 is stronger...<Close><End of Block>
 <TextBlock 118 w:46 h:1>
-Who's sarge betting on?<Close><End of Block>
-<TextBlock 119 w:38 h:1>
-Me I'm for Big Joe.<Close><End of Block>
+Who's Sarge betting on?<Close><End of Block>
+<TextBlock 119 w:40 h:1>
+Me, I'm for Big Joe.<Close><End of Block>
 <TextBlock 120 w:44 h:4>
 No way, bad choice.
 He's all hot air.
-Believe me, Wiseman's 
+Believe me, Wiseman's
 gonna win.<Close><End of Block>
 <TextBlock 121 w:40 h:3>
 Shut up! I was right
-last time, I'm not 
+last time, I'm not
 gonna listen to you.<Close><End of Block>
 <TextBlock 122 w:50 h:3>
 Wow! You picked the champ
-last time? You musta got
-something like 50 to 1...<Close><End of Block>
+last time? That musta
+been fifty-to-one...<Close><End of Block>
 <TextBlock 123 w:36 h:3>
-Yep and I blew it 
-all in a week. 
+Yep and I blew it
+all in a week.
 Wah ha ha!<Close><End of Block>
 <TextBlock 124 w:32 h:1>
 ...What a waste.<Close><End of Block>
 <TextBlock 125 w:46 h:2>
-Yep, that's the sarge. 
+Yep, that's the sarge.
 He's a man's man.<Close><End of Block>
 <TextBlock 126 w:52 h:3>
 Recently the fighters have
 been boring. It was better
-when the King was around.<Close><End of Block>
+when the king was around.<Close><End of Block>
 <TextBlock 127 w:46 h:5>
 These martial arts
 tournaments are okay...
@@ -604,7 +608,7 @@ But what if Gears, not
 people, fought it out?
 I'd like to see that.<Close><End of Block>
 <TextBlock 128 w:34 h:2>
-Hey, are you for 
+Hey, are you for
 Joe too?<Close><End of Block>
 <TextBlock 129 w:44 h:4>
 Big Joe's great 'cause
@@ -618,8 +622,8 @@ to our weekly coffee.<New>
 We have a dinner show
 once a month too.<Close><End of Block>
 <TextBlock 131 w:46 h:3>
-Hey are you fightin'?
-Give it up. No way you 
+Hey, are you fightin'?
+Give it up. No way you
 can beat Joe.<Close><End of Block>
 <TextBlock 132 w:52 h:3>
 I want to see what kind
