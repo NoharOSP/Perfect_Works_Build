@@ -409,8 +409,8 @@ Gonzalez
    Beloved Slacker<Close><End of Block>
 <TextBlock 84 w:50 h:3>
 Hey, are you gonna fight?
-Hmm<Delay 100>
-...I'd say about 20 to 1.<Close><End of Block>
+Hmm...<Delay 100> I'd say about
+twenty-to-one.<Close><End of Block>
 <TextBlock 85 w:46 h:2>
 Shoot, can't get any
 decent customers today.<Close><End of Block>
@@ -502,7 +502,7 @@ We're almost ready!<Close><End of Block>
 <TextBlock 103 w:50 h:3>
 If I was only ten years
 younger...
-*cough*...*hack*...
+*cough*...*hack*...<New>
 I'd whip 'em all...
 *cough*.<Close><End of Block>
 <TextBlock 104 w:48 h:3>
