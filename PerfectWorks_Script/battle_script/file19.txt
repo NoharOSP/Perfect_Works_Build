@@ -13,8 +13,8 @@ Stop it!"<Close><End of Block>
 <TextBlock 4 w:32 h:4>
 Fei
 "Ergh<Delay 20>...<Delay 20>
-What do you want
-me to do...?"<Close><End of Block>
+What should I
+do...?"<Close><End of Block>
 <TextBlock 5 w:44 h:3>
 Fei
 "...<Delay 20>I can't.<New>
@@ -35,8 +35,8 @@ my sister's death!"<Close><End of Block>
 <TextBlock 8 w:44 h:4>
 Dan
 "Shut ya mouth! I will
-never forgive you.<Delay 20>
-...You murderer!!"<Close><End of Block>
+never forgive you...<Delay 20>
+You murderer!!"<Close><End of Block>
 <TextBlock 9 w:30 h:4>
 Dan
 "Damn you, Fei!
@@ -64,7 +64,7 @@ Every time you look
 at it,<New>
 I want you to suffer
 and feel the guilt for
-what you did !"<Close><End of Block>
+what you did!"<Close><End of Block>
 <TextBlock 11 w:40 h:4>
 Dan
 "Shut up!

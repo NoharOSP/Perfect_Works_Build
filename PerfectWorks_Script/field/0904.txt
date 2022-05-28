@@ -1,6 +1,6 @@
-<TextBlock 1 w:32 h:3>
+<TextBlock 1 w:34 h:3>
 Mystery Man
-"Hey Mister, are
+"Hey, mister, are
 you from Lahan?"<Close><End of Block>
 <TextBlock 2 w:8 h:2>
 Fei
@@ -41,7 +41,7 @@ I didn't enter my
 real name...)<Close><End of Block>
 <TextBlock 10 w:24 h:2>
 Fei
-"D, Dan..." <Opcode 2 50><Close><End of Block>
+"D-Dan..." <Opcode 2 50><Close><End of Block>
 <TextBlock 11 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
 <TextBlock 12 w:24 h:3>
@@ -65,13 +65,13 @@ Dan
 everyone in Lahan!<New>
 I'm gonna kick your butt
 in front of everyone!
-And don't be runnin' 
+And don't be runnin'
 away either!!"<Close><End of Block>
 <TextBlock 16 w:46 h:3>
-The human body is 
-weak. I always fight 
+The human body is
+weak. I always fight
 against rock and metal!<New>
-There is no way I can 
+There is no way I can
 lose.<Close><End of Block>
 <TextBlock 17 w:50 h:4>
 Everyone is so excited...

@@ -3,7 +3,7 @@ Fei
 "Bart!!"<Opcode 2 30><Close><End of Block>
 <TextBlock 2 w:20 h:2>
 Margie
-"Ba-arty!"<Close><End of Block>
+"Ba~rty!"<Close><End of Block>
 <TextBlock 3 w:32 h:3>
 Margie
 "No!

@@ -5,7 +5,7 @@ Spectators
 "C'mon, fight properly!!"<Close><End of Block>
 <TextBlock 2 w:52 h:5>
 Spectators
-"...grumble grumble..."<New>
+"...*grumble grumble*..."<New>
 Referee
 "...<Delay 30>Uhh,<Delay 45> ahem.<Delay 30>
 It appears that
@@ -30,12 +30,12 @@ Fei
 "??"<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 Fei
-"Who cares where...
+"Who cares where...?
 Come on, now...
 Put up a serious fight!"<Close><End of Block>
 <TextBlock 7 w:28 h:3>
 Fei
-"Why do you
+"What do you
 ask that for?"<Close><End of Block>
 <TextBlock 8 w:36 h:4>
 Fei
@@ -46,7 +46,7 @@ of your business!"<Close><End of Block>
 Fei
 "Would you shut up!
 I'm in the middle of
-finding for my purpose!"<Close><End of Block>
+finding my purpose!"<Close><End of Block>
 <TextBlock 10 w:16 h:2>
 Fei
 "What!?"<Close><End of Block>
@@ -105,12 +105,12 @@ fighting for no
 reason or goal?"<Close><End of Block>
 <TextBlock 21 w:42 h:4>
 Wiseman
-"... Then forget it!
-For there's no way
-you could find such."<Close><End of Block>
+"...Then forget it!
+Finding it within you
+is impossible."<Close><End of Block>
 <TextBlock 22 w:38 h:4>
 Wiseman
-"You appear to be
+"You may seem to be
 looking forward...<New>
 ...but in reality,
 you are only
@@ -145,7 +145,7 @@ Wiseman
 "Oh my...<Delay 30>
 Is it already
 that time...?<New>
-...<Delay 30> I guess it can't
+...<Delay 30>I guess it can't
 be helped...<Delay 45>
 I've got to be
 on my way!"<Close><Close><UNKNOWN CHUNK 179>
