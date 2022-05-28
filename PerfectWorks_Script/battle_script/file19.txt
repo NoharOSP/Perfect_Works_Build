@@ -12,7 +12,7 @@ Fei
 Stop it!"<Close><End of Block>
 <TextBlock 4 w:32 h:4>
 Fei
-"Ergh<Delay 20>...<Delay 20>
+"Argh<Delay 20>...<Delay 20>!
 What should I
 do...?"<Close><End of Block>
 <TextBlock 5 w:44 h:3>
