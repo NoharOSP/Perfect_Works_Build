@@ -107,7 +107,7 @@ get outta here...
 and fast!"<Opcode 2 60><Close><End of Block>
 <TextBlock 20 w:26 h:2>
 Fei
-"Quick...<Delay 20>run!<Opcode 2 30><Close><End of Block>
+"Quick<--><Delay 20>run!<Opcode 2 30><Close><End of Block>
 <TextBlock 21 w:40 h:4>
 Ramsus
 "I can't believe you

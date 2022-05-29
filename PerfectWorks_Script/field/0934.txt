@@ -33,7 +33,7 @@ for fun.<New>
 You bet I'm worried."<Close><End of Block>
 <TextBlock 6 w:32 h:3>
 Helmholtz
-"Maybe to purge 
+"Maybe to purge
 the Lambs?"<Close><End of Block>
 <TextBlock 7 w:48 h:4>
 Elly
@@ -143,7 +143,7 @@ just..."<Close><End of Block>
 <TextBlock 28 w:44 h:4>
 Fei
 "Wait a second, Bart!
-She<Delay 5>...<Delay 10>Elly is not an
+She<--><Delay 10> Elly is not an
 enemy!"<Close><End of Block>
 <TextBlock 29 w:52 h:4>
 Bart

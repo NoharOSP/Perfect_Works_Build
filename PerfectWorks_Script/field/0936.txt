@@ -37,7 +37,7 @@ Special Forces of the
 Sacred Empire of Solaris...<New>
 also known as Geburah...
 I'm Lt. Elehayym Van Houten
-of the Ignas Army's Third
+of the Ignas Army's 3rd
 Assault Division.<New>
 And...while returning from
 a mission to capture the
@@ -69,7 +69,7 @@ Fei..."<Close><End of Block>
 <TextBlock 15 w:36 h:3>
 Fei
 "I overheard you
-talking with doc."<Close><End of Block>
+talking with Doc."<Close><End of Block>
 <TextBlock 16 w:22 h:2>
 Elly
 "Then why?"<Close><End of Block>
@@ -79,9 +79,9 @@ Fei
 But I lashed out at you 
 with my own feelings...<New>
 I'm sorry."<Close><End of Block>
-<TextBlock 18 w:34 h:2>
+<TextBlock 18 w:36 h:2>
 Elly
-"No it wasn't..."<Close><End of Block>
+"No, it wasn't..."<Close><End of Block>
 <TextBlock 19 w:54 h:4>
 Fei
 "Just forget about it.
@@ -89,12 +89,12 @@ You couldn't help it...
 You had your own problems."<Close><End of Block>
 <TextBlock 20 w:24 h:4>
 Elly
-"But, Fei...
+"But Fei...
 why are you
 with them?"<Close><End of Block>
 <TextBlock 21 w:48 h:3>
 Fei
-"I'm cooperating with 
+"I'm cooperating with
 Bart and his crew.<New>
 We came to rescue Margie
 who was taken prisoner
@@ -105,7 +105,7 @@ Elly
 <TextBlock 23 w:40 h:4>
 Bart
 "Hey! Just a minute!
-Where do you think 
+Where do you think
 you're going?"<Close><End of Block>
 <TextBlock 24 w:50 h:3>
 Elly
@@ -132,7 +132,7 @@ Margie
 She's not a bad person.<New>
 She said she'd help us,
 so let's go with her plan."<Close><End of Block>
-<TextBlock 28 w:34 h:4>
+<TextBlock 28 w:36 h:4>
 Bart
 "You're always
 like this!<New>

@@ -72,7 +72,7 @@ an elite from out
 of Jugend."<Close><End of Block>
 <TextBlock 18 w:48 h:4>
 Strachey
-"Apparently, she 
+"Apparently, she
 scurried back alone<New>
 from the Kislev
 infiltration operation."<Close><End of Block>
@@ -125,9 +125,9 @@ Elly
 "..."<Opcode 2 100><Close><End of Block>
 <TextBlock 29 w:44 h:3>
 Rank
-"...Anyway, for now let 
+"...Anyway, for now let
 her get to work.<New>
-Can't judge her on 
+Can't judge her on
 appearance alone."<Close><End of Block>
 <TextBlock 30 w:48 h:4>
 Strachey
@@ -139,14 +139,14 @@ Rank
 "It's a new model Gear,
 called <Vierge>, that's
 for officers' use only.<New>
-Apparently, what that 
-really means is average 
-Ether ability isn't enough 
+Apparently, what that
+really means is average
+Ether ability isn't enough
 to even get it running."<Close><End of Block>
 <TextBlock 32 w:44 h:4>
 Strachey
-"So, useless as she 
-may be...she's still 
+"So, useless as she
+may be...she's still
 Jugend, eh?"<Close><End of Block>
 <TextBlock 33 w:42 h:4>
 Franz
