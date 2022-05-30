@@ -1,8 +1,9 @@
-<TextBlock 1 w:52 h:4>
+<TextBlock 1 w:48 h:4>
 Sigurd
-"Marguerite is straining
-herself. Young master, you
-should be kinder to her."<Close><End of Block>
+"Marguerite is pushing
+herself too hard.<New>
+Young master, you should
+be kinder to her."<Close><End of Block>
 <TextBlock 2 w:42 h:4>
 Sigurd
 "...I'll stay here a
@@ -29,11 +30,12 @@ in order to lure you out."<Close><End of Block>
 <TextBlock 6 w:30 h:2>
 Sigurd
 "Marguerite..."<Close><End of Block>
-<TextBlock 7 w:54 h:4>
+<TextBlock 7 w:48 h:4>
 Sigurd
-"Marguerite is straining
-herself. Young master,
-you should be kind to her."<Close><End of Block>
+"Marguerite is pushing
+herself too hard.<New>
+Young master, you should
+be kinder to her."<Close><End of Block>
 <TextBlock 8 w:46 h:4>
 Bart
 "Then...<Delay 24>you thought you
@@ -63,7 +65,7 @@ I was wrong.<New>
 But..."<Close><End of Block>
 <TextBlock 13 w:50 h:3>
 Margie
-"But...grandma and mom
+"But...Grandma and Mom
 were already executed..."<Close><End of Block>
 <TextBlock 14 w:52 h:4>
 Margie

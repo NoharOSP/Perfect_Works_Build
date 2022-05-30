@@ -7,7 +7,7 @@ troublemaker in Geburah."<Close><End of Block>
 Bart
 "Yeah...
 So, who the heck is he?"<Close><End of Block>
-<TextBlock 3 w:54 h:4>
+<TextBlock 3 w:52 h:4>
 Sigurd
 "Carlin Ramsus<Delay 10> of the Holy
 Solaris Empire's Special
@@ -15,17 +15,17 @@ Foreign Affairs Agency<Delay 5>...<New>
 In other words, he's the
 commander in chief of
 Geburah.<New>
-It seems that Geburah isn't
-just after the excavation
-sites around Av after
-all."<Close><End of Block>
+It seems that it's not
+only the excavation sites
+around Av that Geburah are
+after."<Close><End of Block>
 <TextBlock 4 w:44 h:3>
 Bart
-"You mean, they're not
-after the Jasper?"<Close><End of Block>
+"You mean the Jasper
+isn't their goal?"<Close><End of Block>
 <TextBlock 5 w:52 h:4>
 Sigurd
-"If that's their only goal
+"If it was that alone,
 they wouldn't need to send
 an important man like him!<New>
 Young master, this could
@@ -37,10 +37,10 @@ Fei
 back yet, has he?"<Close><End of Block>
 <TextBlock 7 w:6 h:1>
 ...<Close><End of Block>
-<TextBlock 8 w:54 h:4>
+<TextBlock 8 w:52 h:4>
 Sigurd
-"Hyu...<Delay 10> I mean,<Delay 10> 'doc'...<Delay 10>
-No need to worry about him.
+"Hyu<--><Delay 10> I mean,<Delay 10> no need to
+worry about that guy.
 He'll join us soon."<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Sigurd
@@ -218,14 +218,13 @@ if he continues to rest.
 I'm relieved to hear that.<New>
 It seems the orphanage is
 located to the southeast of
-the 'Church of the Ethos' 
+the Church of the Ethos
 headquarters."<Close><End of Block>
 <TextBlock 34 w:52 h:3>
 Sigurd
-"It appears the 'Church
-of the Ethos' headquarters<New>
-
-is located to the north 
+"It appears the Church
+of the Ethos headquarters<New>
+is located to the north
 of the Tamuz.<New>
 We must hurry up and take
 Fei there..."<Close><End of Block>
@@ -295,13 +294,11 @@ I couldn't save Fei
 and Elly..."<Close><End of Block>
 <TextBlock 47 w:50 h:4>
 Sigurd
-"We shall have to enter
-into Nisan through the
-secret road.<New>
-Let's keep on the lookout
-for a lone tree in the
-desert as a sign of where
-the road lies buried...!"<Close><End of Block>
+"We enter Nisan via a
+secret route.<New>
+A lone tree standing in
+the desert marks the
+way."<Close><End of Block>
 <TextBlock 48 w:46 h:4>
 Sigurd
 "It's time to sneak
@@ -384,7 +381,7 @@ Bart
 lot together...<New>
 But this one's going to
 be really tough...<Delay 10>
-But, we won't die! <Delay 10>
+But, we won't die!<Delay 10>
 We'll come back alive!<New>
 I'll be asking you to
 join me again when
@@ -521,10 +518,10 @@ our ammo supplies...
 Hmm, maybe we need more
 anti-aircraft shells...<Close><End of Block>
 <TextBlock 79 w:56 h:4>
-The compass we received
-from Shevat is great.
-You can aim at 15 different 
-targets simultaniously!<Close><End of Block>
+The compass we received from
+Shevat is great. You can aim
+at fifteen different targets
+simultaneously!<Close><End of Block>
 <TextBlock 80 w:34 h:2>
 My dear artillery
 guns, keep it up!<Close><End of Block>
@@ -559,10 +556,10 @@ torpedoes are not bad either.<New>
 There're so many of them
 that I can't decide...!<Close><End of Block>
 <TextBlock 86 w:52 h:4>
-When it comes to cannons, 
+When it comes to cannons,
 you don't know where the
 shells will fly to until
-you've actually shot'em.<New>
+you've actually shot 'em.<New>
 But, they're suitable
 for the pirating trade
 because they're cheap
@@ -599,14 +596,14 @@ better filter...
 Oh, and I'd love a bigger
 torpedo tube, too...<Close><End of Block>
 <TextBlock 91 w:40 h:4>
-Franz
+Vance
 "Oh, young master!<Delay 10>
 I...I'm not loafing
 on the job! Honest!"<Close><End of Block>
 <TextBlock 92 w:6 h:1>
 ...<Opcode 2 10><Close><End of Block>
 <TextBlock 93 w:52 h:4>
-Franz
+Vance
 "Oh, <Delay 10>sorry...<Delay 10>
 I didn't realize that you
 were there! <New>
@@ -615,21 +612,21 @@ that I have recorded?"
     <Opcode 1 255>Sure.
     No thanks.<Close><End of Block>
 <TextBlock 94 w:46 h:4>
-Franz
+Vance
 "Wanna hear some more?"
     <Opcode 1 255>Yeah, this is cool!
     No, enough already!<Close><End of Block>
 <TextBlock 95 w:42 h:3>
-Franz
+Vance
 "Ahh...
 Well that's too bad."<Close><End of Block>
 <TextBlock 96 w:52 h:4>
-Franz
+Vance
 "That's too bad...<Delay 10>
 You could have seen the
 world between the static!"<Close><End of Block>
 <TextBlock 97 w:44 h:2>
-<Opcode 1 255>'The Franz Collection'
+<Opcode 1 255>'The Vance Collection'
      Number <Opcode 10 0><Close><End of Block>
 <TextBlock 98 w:48 h:4>
 I'm finally getting used
@@ -637,7 +634,7 @@ to being in the sky...<Delay 10>
 But I shouldn't get too
 relaxed yet!<Close><End of Block>
 <TextBlock 99 w:52 h:3>
-I still break into a cold 
+I still break into a cold
 sweat everytime I take off
 and land.<Close><End of Block>
 <TextBlock 100 w:54 h:3>
@@ -655,7 +652,7 @@ like a remora would be
 in the ocean... It was
 covered in shells!<Close><End of Block>
 <TextBlock 103 w:54 h:4>
-I had a competition going  
+I had a competition going
 on with the young master
 the other day to see who
 could tip the boat further.<New>
@@ -665,9 +662,9 @@ all the teacups were
 destroyed...<Close><End of Block>
 <TextBlock 104 w:50 h:5>
 There were desert remoras
-plastered all over the 
+plastered all over the
 bottom of the ship.
-No wonder we didn't get 
+No wonder we didn't get
 any speed...<Close><End of Block>
 <TextBlock 105 w:30 h:3>
 ...<Delay 10>
@@ -675,13 +672,13 @@ Let's put more
 oomph into it!!<Close><End of Block>
 <TextBlock 106 w:62 h:4>
 High-speed three-dimensional
-maneuvering? ... Impossible!
+maneuvering? ...Impossible!
 I'm not a Gear pilot! Hah! But
 then again, I've got no choice!<Close><End of Block>
 <TextBlock 107 w:34 h:4>
 With the booster,
 the acceleration
-is monsterous!
+is monstrous!
 It's fun though.<Close><End of Block>
 <TextBlock 108 w:48 h:5>
 How to use the rudder...
@@ -692,8 +689,8 @@ What's a Vortex Flow?<Close><End of Block>
 <TextBlock 109 w:44 h:4>
 ...Wingtip-stalls...
 hammerhead-stalls...
-the Helpst maneuver...
-grumble... grumble...<Close><End of Block>
+the Herbst maneuver...
+*grumble grumble*...<Close><End of Block>
 <TextBlock 110 w:58 h:4>
 Hmmm, the rudder doesn't work
 as well as it did in sand...
@@ -732,7 +729,7 @@ And they expect me to
 create it all...
 Yeah, right...!?<Close><End of Block>
 <TextBlock 117 w:36 h:2>
-Franz is sulky and
+Vance is sulky and
 won't help me...<Close><End of Block>
 <TextBlock 118 w:62 h:5>
 Shevat's communication decoder,<Delay 10>
@@ -813,7 +810,7 @@ want to see it...<Delay 10>
 It's no loss to me anyway.<Close><End of Block>
 <TextBlock 134 w:48 h:3>
 That Jerico is serious!<Delay 10>
-I should put more oomph 
+I should put more oomph
 into it, too!<Close><End of Block>
 <TextBlock 135 w:56 h:4>
 I thought I'd have more free
@@ -837,7 +834,7 @@ I'm not used to it yet.<Close><End of Block>
 This ship uses innumerable
 effect wings to pulverize
 sand and wade through it.<New>
-If our balance is lost, 
+If our balance is lost,
 we roll over in the desert.<Delay 10>
 It's all up to our skill!<Close><End of Block>
 <TextBlock 140 w:54 h:4>
@@ -850,7 +847,7 @@ The map needs to be
 rewritten because of
 what's happened!<Close><End of Block>
 <TextBlock 142 w:46 h:3>
-If you ignore the time 
+If you ignore the time
 scale, there isn't much
 change in the workload.<Close><End of Block>
 <TextBlock 143 w:52 h:5>
@@ -1015,7 +1012,7 @@ Otherwise the Tamuz will
 be destroyed by Reapers!"<Close><End of Block>
 <TextBlock 169 w:50 h:4>
 Jessie
-"What about the 'Church'?
+"What about the Church?
 They've completely
 devastated themselves!<New>
 That mob just goes from
@@ -1141,12 +1138,12 @@ Fei
 Elly...!!"<Close><End of Block>
 <TextBlock 187 w:28 h:3>
 Billy
-"W,what is it,<Delay 10>
+"Wh-What is it<Delay 10>
 this time?"<Close><End of Block>
 <TextBlock 188 w:36 h:4>
 Bart
 "Hey, <Delay 10>Citan!
-What more is going
+What else is going
 to happen!?"<Close><End of Block>
 <TextBlock 189 w:52 h:4>
 Citan
@@ -1168,7 +1165,7 @@ dangerous?<New>
 Hah, I never thought you
 would call a Gear!?<Delay 10>
 But, what in hell is the
-'Church' thinking anyway?"<Close><End of Block>
+Church thinking anyway?"<Close><End of Block>
 <TextBlock 192 w:52 h:4>
 Bart
 "Is your job always this
@@ -1176,7 +1173,7 @@ dangerous?<New>
 Hah, I never thought you
 would call a Gear!?<Delay 10>
 But, what in hell is the
-'Church' thinking anyway?"<Close><End of Block>
+Church thinking anyway?"<Close><End of Block>
 <TextBlock 193 w:42 h:4>
 Billy
 "!!<Delay 10> ...<Delay 5>We Etones
@@ -1188,11 +1185,11 @@ Bart
 me to say that.<Delay 10> Don't take
 it so seriously!<New>
 So, you're going to report
-back to the 'Church' about
+back to the Church about
 your job's results, right?<New>
 Well, if you like we shall
 give you a ride to the
-'Church' H.Q...<Delay 10>
+Church HQ...<Delay 10>
 It's on our way."<Close><End of Block>
 <TextBlock 195 w:52 h:4>
 Bart
@@ -1200,11 +1197,11 @@ Bart
 me to say that.<Delay 10> Don't take
 it so seriously!<New>
 So, you're going to report
-back to the 'Church' about
+back to the Church about
 your job's results, right?<New>
 Well, if you like we shall
 give you a ride to the
-'Church' H.Q...<Delay 10>
+Church HQ...<Delay 10>
 It's on our way."<Close><End of Block>
 <TextBlock 196 w:42 h:4>
 Billy
@@ -1215,8 +1212,8 @@ I have something to
 give you as a sign of
 my gratitude.<New>
 So please accompany
-me into the 'Church
-of the Ethos'
+me into the Church
+of the Ethos
 headquarters.<New>
 Let's go..."<Close><End of Block>
 <TextBlock 197 w:52 h:4>
@@ -1361,12 +1358,12 @@ Billy
 "Well then...
 shall we go, too?"<Close><End of Block>
 <TextBlock 217 w:60 h:4>
-I've picked up the 'Church's' 
-fleet and the Tamuz on the 
+I've picked up the Church's
+fleet and the Tamuz on the
 radar, sir.<Delay 10><New>
-They're on the sea south 
-of here.<Delay 10> If we 
-travel at full speed we 
+They're on the sea south
+of here.<Delay 10> If we
+travel at full speed we
 can reach them in an hour.<Close><End of Block>
 <TextBlock 218 w:40 h:3>
 Sigurd
