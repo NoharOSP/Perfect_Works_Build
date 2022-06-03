@@ -1,40 +1,6 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-## FMV patches:
-
-As the FMV patches are too large for the repository, links to them are provided here:
-
-Disc 1:
-https://mega.nz/file/fXQ1lICI#ETKMz_9eeWzwryFJXmKO7IvvUo2_rsKE9vd3ZLI2VYI
-
-Disc 2:
-https://mega.nz/file/DepzVaYR#uhGd1nppzWB6vKk9kJki5D-X2TkkcasPCGh7bCsDSVs
-
-Disc 1 (items/spells):
-https://mega.nz/file/PHpEyaZI#vxOZsOnn0zYKAFIRPjd-60U1s4GwOPi4LXe_BQbpSDc
-
-Disc 2 (items/spells):
-https://mega.nz/file/iTZ1RKAb#u14uw7fa2dDZQmSOFAcj5aQFxN6_JYU4jv_50C1uoTc
-
-Disc 1 (script):
-https://mega.nz/file/7HpFFY5a#vMBxg7J8zyUcQWdVHi6zC11qjBY_-UXR827fMZIDBzQ
-
-Disc 2 (script):
-https://mega.nz/file/KL4ChCJR#Nn4qenQoyqrxO4rT3yKLEQWwI4o4po9VuRmYi23T8uQ
-
-Disc 1 (script + items/spells):
-https://mega.nz/file/6TJljSTT#W69SSmS7eme_PyaSBZX_rL68j5s1B1JaF9g9fI8FWFI
-
-Disc 2 (script + items/spells):
-https://mega.nz/file/nfB1yZJY#dT_Xqv38TVSxGZf4iUCW7ujdkmp6Kg48e49SRRNr-GA
-
-Disc 1 (script + items/spells + stats):
-https://mega.nz/file/ePpihaaT#w7UO_V2-l32nde35p8I2J8hba1HJQ5XyAOD5cJb1mG8
-
-Disc 2 (script + items/spells + stats):
-https://mega.nz/file/eSYwQCSD#_bxhCKRtlwZn1WtTmEUaoZ7WKPwk7V0N73uNE8_AP7M
-
 ## Introduction:
 
 Hello. My Name is Ryan ↙ ➡ ↘ ⬇ ↙ ⬅ ↘ Piccuito. I am a character writer and handler for game balance on the Xenogears Perfect works mod. Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a more complete experience. This does contain unmarked but mild spoilers so readers are advised and warned not to scroll through this if they’re looking to use this mod to enjoy the game for the first time or you simply never got to into it for various reasons we hope to address. These spoilers are primarily for certain story events in the story bits and lines are relegated to story specific changes and certain boss fights dungeons and all moves party members and availability are mentioned in the gameplay focused changes. 
