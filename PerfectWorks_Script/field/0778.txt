@@ -48,7 +48,7 @@ yes I did.<New>
 However, when Sigurd was
 telling his story I thought
 it was best to stay quiet.<New>
-Please try and help the
+Please try to help the
 young master come to terms
 with all that he has just
 heard."<Close><End of Block>
@@ -140,7 +140,7 @@ Citan
 <TextBlock 28 w:52 h:3>
 Rico
 "This is Shakhan's last.<New>
-When he kick's the bucket
+When he kicks the bucket
 things in Kislev and Av
 should calm down a little.<New>
 Everything'll be normal."<Close><End of Block>
@@ -151,8 +151,8 @@ Rico
     Well...<Close><End of Block>
 <TextBlock 30 w:36 h:4>
 Billy
-"The 'Church of the
-Ethos' was controlling 
+"The Church of the
+Ethos was controlling
 two of the three gates!"<Close><End of Block>
 <TextBlock 31 w:34 h:4>
 "Will you take me
@@ -240,24 +240,23 @@ Sigurd
 Citan, here...<New>
 We used to live
 in Solaris."<Close><End of Block>
-<TextBlock 48 w:42 h:2>
+<TextBlock 48 w:36 h:2>
 Bart
 "Solaris...<New>
-...<Delay 30>You mean...
-<Delay 30>where Geburah's from?"<Close><End of Block>
+You mean...<Delay 30>where
+Geburah's from?"<Close><End of Block>
 <TextBlock 49 w:30 h:2>
 Sigurd
 "That's right."<Close><End of Block>
-<TextBlock 50 w:46 h:4>
+<TextBlock 50 w:44 h:4>
 Sigurd
-"Solaris...
-calls foreigners
-Lambs...<New>
-They are imported 
-through kidnapping, 
-and then used as 
+"Solaris...calls
+foreigners 'Lambs'...<New>
+They are imported
+through kidnapping,
+and then used as
 manual labor.<New>
-Basically it's
+Basically, it's
 slavery."<Close><End of Block>
 <TextBlock 51 w:20 h:2>
 Bart
@@ -265,17 +264,18 @@ Bart
 <TextBlock 52 w:26 h:2>
 Fei
 "...Lambs..."<Close><End of Block>
-<TextBlock 53 w:36 h:3>
+<TextBlock 53 w:38 h:3>
 Fei
 "Elly used that
-term earlier too."<Close><End of Block>
-<TextBlock 54 w:28 h:3>
+term earlier, too."<Close><End of Block>
+<TextBlock 54 w:30 h:4>
 Bart
-"Is that where
-you met him?"<Close><End of Block>
+"Were you...
+slaves to that
+son of a...?"<Close><End of Block>
 <TextBlock 55 w:40 h:2>
 Citan
-"Yes, it was there."<Close><End of Block>
+"Well, not exactly."<Close><End of Block>
 <TextBlock 56 w:42 h:4>
 Sigurd
 "We worked for the
@@ -295,14 +295,14 @@ Bart
 "I met you when I was a kid
 and we've been together
 ever since then...<New>
-So this would have had to
-have happened even before
-then."<Close><End of Block>
+So this had to have
+happened even before
+that."<Close><End of Block>
 <TextBlock 59 w:50 h:4>
 Bart
-"I probably wouldn't have
-understood this if I had
-heard it earlier but...<New>
+"Okay, maybe the old me
+wouldn't have understood
+such a story, but...<New>
 ...Why didn't you think I
 could deal with it now?
 Surely you could have
@@ -323,7 +323,7 @@ can do about that now."<Close><End of Block>
 Sigurd
 "But, there's one thing
 I want you to believe...<New>
-We left Solaris on our
+We left Solaris by our
 own will and for our own
 reasons.<New>
 Now they've appeared
@@ -348,7 +348,7 @@ a little more?"<Close><End of Block>
 <TextBlock 66 w:42 h:4>
 Bart
 "What bugs me is this<Delay 30>
-'Surface Dwellers'
+'surface dwellers'
 thing...<New>
 It's as if Solaris is
 in another location.
@@ -367,7 +367,7 @@ I think it's somewhere
 up high in the sky."<Close><End of Block>
 <TextBlock 69 w:46 h:3>
 Bart
-"You think...<Delay 30>
+"You think...<Delay 30>?
 Didn't you live there?"<Close><End of Block>
 <TextBlock 70 w:56 h:4>
 Sigurd
@@ -376,36 +376,37 @@ from the outside world so
 I don't know too well.<New>
 There's a special way to
 get there from the surface."<Close><End of Block>
-<TextBlock 71 w:50 h:4>
+<TextBlock 71 w:52 h:4>
 Sigurd
-"To get to Av we stowed
-away on a regular flight
-to the surface."<Close><End of Block>
+"To return to Av, I stowed
+away on a routine shuttle
+bound for the surface."<Close><End of Block>
 <TextBlock 72 w:36 h:3>
 Citan
-"I came much later
-than Sigurd did...<New>
-But I also escaped
+"It was much later
+than Sigurd...<New>
+but I also escaped
 in the same way."<Close><End of Block>
 <TextBlock 73 w:54 h:4>
 Sigurd
 "That is the word Solarians
-use to indicate those who
+use to refer to we who
 live on the earth.<New>
-As I said before, such
-'surface dwellers' or
-'earth dwellers' are used
-for manual labor there."<Close><End of Block>
+As I said before, they use
+such 'surface dwellers' or
+'earth dwellers' as manual
+labor."<Close><End of Block>
 <TextBlock 74 w:54 h:4>
 Sigurd
-"Manual labor could be
-anything from soldiers to
-administrative jobs.<New>
-Solaris gathers its
-workforce from the land
-dwellers. Jobs are divided
-up by who is most suitable.<New>
-Sometimes people are
+"Those in the workforce
+range from industrial
+workers to soldiers.<New>
+Solaris gathers that
+workforce from among the
+land dwellers.<New>
+Jobs are divided up
+according to who is most
+suitable. Sometimes people are
 brainwashed."<Close><End of Block>
 <TextBlock 75 w:30 h:2>
 Bart
@@ -421,7 +422,7 @@ probably something they
 valued inside of me."<Close><End of Block>
 <TextBlock 77 w:30 h:2>
 Fei
-"You too, doc?"<Close><End of Block>
+"You too, Doc?"<Close><End of Block>
 <TextBlock 78 w:46 h:3>
 Citan
 "No...<New>
@@ -432,8 +433,8 @@ But I guess I am a
 Solarian<Delay 5>..."<Close><End of Block>
 <TextBlock 79 w:54 h:4>
 Bart
-"So why were you collecting
-people? <New>
+"So why were they
+collecting people?<New>
 With that much scientific
 technology you'd think they
 wouldn't need to use
@@ -450,17 +451,17 @@ support without people."<Close><End of Block>
 <TextBlock 81 w:50 h:3>
 Sigurd
 "Pure Solarians are rare.<New>
-They would not even make
-up a quarter of Av's
-total population.<New>
+Their total would not
+even be a quarter of Av's
+population.<New>
 So, they support their
 country by stealing
 surface dwellers."<Close><End of Block>
 <TextBlock 82 w:42 h:3>
 Sigurd
-"His name is, Carl...
+"His name is Carl...
 <Delay 30>Carlin Ramsus.<New>
-As you know he's the
+As you know, he's the
 Geburah Commander."<Close><End of Block>
 <TextBlock 83 w:24 h:2>
 Bart
@@ -479,7 +480,7 @@ Citan
 citizen, the same as me.<New>
 However, with his amazing
 abilities...<New>
-After graduating, he rose
+after graduating, he rose
 through the ranks with
 unparalleled speed."<Close><End of Block>
 <TextBlock 86 w:54 h:3>
@@ -510,7 +511,7 @@ Ramsus was our hope.<New>
 He had high ideals and
 wanted to change the
 system in Solaris.<New>
-To us test subjects and
+To we test subjects and
 lower level citizens,
 he was truly all that
 we wished for."<Close><End of Block>
@@ -538,11 +539,11 @@ between Solaris and the
 surface dwellers."<Close><End of Block>
 <TextBlock 95 w:44 h:2>
 Bart
-"You mean...Lambs...?"<Close><End of Block>
+"The...Lambs, right?"<Close><End of Block>
 <TextBlock 96 w:54 h:4>
 Sigurd
 "They weren't just using us
-'Lambs' for slave labor...<New>
+for slave labor...<New>
 They also selected some of
 us, like me, to be used as
 subjects in experiments to
@@ -561,26 +562,27 @@ Bart
 Experimenting on humans?"<Close><End of Block>
 <TextBlock 98 w:50 h:4>
 Sigurd
-"Yes, for example...
-'Drive'!<New>
+"Yes. For example...
+'Drive'.<New>
 That drug, and all others
 like it that are used
 now, are by-products of
 human experimentation..."<Close><End of Block>
-<TextBlock 99 w:50 h:3>
+<TextBlock 99 w:52 h:4>
 Citan
-"However that is not the
-test subjects only role."<Close><End of Block>
+"However, the role of such
+experimental subjects was
+not limited to just that!"<Close><End of Block>
 <TextBlock 100 w:52 h:4>
 Fei
-"This 'Drive' drug is
+"This Drive drug is
 something that anyone in
 the Solaris army can use?"<Close><End of Block>
 <TextBlock 101 w:50 h:4>
 Citan
 "At least anyone in the
-Geburah forces who is sent
-to the surface..."<Close><End of Block>
+Geburah forces who is
+sent to the surface..."<Close><End of Block>
 <TextBlock 102 w:32 h:3>
 Bart
 "You're worried
@@ -612,27 +614,27 @@ hall for us. We'll
 finish talking there.<New>
 I'm going outside to
 get some air."<Close><End of Block>
-<TextBlock 109 w:50 h:4>
+<TextBlock 109 w:52 h:4>
 Sigurd
-"To get to Av we stowed
-away on a regular flight
-to the surface."<Close><End of Block>
+"To return to Av, I stowed
+away on a routine shuttle
+bound for the surface."<Close><End of Block>
 <TextBlock 110 w:36 h:3>
 Citan
-"I came much later
-than Sigurd did...<New>
-But I also escaped
+"It was much later
+than Sigurd...<New>
+but I also escaped
 in the same way."<Close><End of Block>
 <TextBlock 111 w:52 h:4>
 Fei
-"This 'Drive' drug is
+"This Drive drug is
 something that anyone in
 the Solaris army can use?"<Close><End of Block>
 <TextBlock 112 w:50 h:4>
 Citan
 "At least anyone in the
-Geburah forces who is sent
-to the surface..."<Close><End of Block>
+Geburah forces who is
+sent to the surface..."<Close><End of Block>
 <TextBlock 113 w:32 h:3>
 Bart
 "You're worried
@@ -690,7 +692,7 @@ are through preparing."<Close><End of Block>
 Bart
 "No activites for you.<Delay 30>
 You'll have to settle
-down for awhile."<Close><End of Block>
+down for a while."<Close><End of Block>
 <TextBlock 127 w:36 h:3>
 Margie
 "What do you mean,

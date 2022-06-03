@@ -1,8 +1,7 @@
 <TextBlock 1 w:48 h:4>
 Margie
-"Wow!
-It's been such a long
-time!"<Close><End of Block>
+"Wow! It's been such a
+long time!"<Close><End of Block>
 <TextBlock 2 w:46 h:3>
 Citan
 "Well...<New>
@@ -15,7 +14,7 @@ Bart
 What is it old Maison?"<Close><End of Block>
 <TextBlock 4 w:50 h:3>
 Maison
-"Sniff...
+"*Sniff*...
 Goodness gracious me...!<New>
 To think that little Miss
 Marguerite was finally
@@ -24,7 +23,7 @@ able to return here...<New>
 It is so awfully moving!"<Close><End of Block>
 <TextBlock 5 w:46 h:4>
 Bart
-"H...<Delay 10>hey!
+"H-<Delay 10>Hey!
 Pull yourself together,
 old man!"<Close><End of Block>
 <TextBlock 6 w:52 h:4>
@@ -72,20 +71,19 @@ Bart
 I'm alright!"<Close><End of Block>
 <TextBlock 11 w:58 h:4>
   Sigurd
-  "Etemenanki, the Captial
+  "Etemenanki, the Capital
   of the Solaris Empire, is
   located in the skies above.<New>
   Solaris is separated from
   the land by dimensional
   distortion fields known
   as 'Gates'.<New>
-  Travel to and from the 
-  surface is impossible 
-  without the use of 
-  transport such as an 
-  airship,<Delay 30>
-  outfitted with particular 
-  equipment..."<Close><End of Block>
+  Travel to and from the
+  surface is impossible
+  without the use of<New>
+  transport such as an
+  airship,<Delay 30> outfitted with
+  particular equipment..."<Close><End of Block>
 <TextBlock 12 w:58 h:4>
   Sigurd
   "We were placed in key
@@ -97,7 +95,7 @@ I'm alright!"<Close><End of Block>
   surface dwellers."<Close><End of Block>
 <TextBlock 13 w:50 h:2>
   Bart
-  "The...<Delay 30>Lambs...right?<Close><End of Block>
+  "The...<Delay 30>Lambs, right?"<Close><End of Block>
 <TextBlock 14 w:68 h:4>
        Sigurd
        "They weren't just using us
@@ -121,8 +119,8 @@ I'm alright!"<Close><End of Block>
 <TextBlock 16 w:44 h:2>
   Sigurd
   "Yes. For example...<Close><End of Block>
-<TextBlock 17 w:44 h:1>
-               'Drive'<Close><End of Block>
+<TextBlock 17 w:46 h:1>
+               'Drive'.<Close><End of Block>
 <TextBlock 18 w:60 h:4>
      That drug, and all others
      like it that are used
@@ -208,9 +206,9 @@ you inside, sir..."<Close><End of Block>
 <TextBlock 33 w:10 h:2>
 Bart
 "Ah!"<Close><End of Block>
-<TextBlock 34 w:38 h:2>
+<TextBlock 34 w:40 h:2>
 Maison
-"Yo-ung ma--ste-r!"<Close><End of Block>
+"Yo~ung ma~ste~r!"<Close><End of Block>
 <TextBlock 35 w:38 h:3>
 Bart
 "I had no idea Sig 
@@ -289,8 +287,8 @@ Citan
 "Well it is not like we are
 newly acquainted, is it?<New>
 And we had talked about
-many things in the lead 
-up to our decision to 
+many things in the lead
+up to our decision to
 escape from Solaris."<Close><End of Block>
 <TextBlock 44 w:44 h:4>
 Bart
@@ -311,7 +309,7 @@ the previous system.<New>
 Basically, the only
 difference was whether they
 stressed people's rank and
-class,<New> 
+class,<New>
 or his stressing of their 
 skill.<New>
 The words had changed, but
@@ -542,9 +540,9 @@ as you please though.<Close><End of Block>
 <TextBlock 85 w:22 h:2>
 Fei
 "That man?"<Close><End of Block>
-<TextBlock 86 w:42 h:2>
+<TextBlock 86 w:40 h:2>
 Bart
-"He means 'Shakhan'!"<Close><End of Block>
+"He means Shakhan!"<Close><End of Block>
 <TextBlock 87 w:46 h:3>
 Yes.
 It's alright to try and

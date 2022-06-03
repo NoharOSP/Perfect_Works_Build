@@ -56,8 +56,8 @@ Margie
 isn't like you at all!<New>
 Here I am back
 safe and sound.<New>
-Can't you rebuke
-me just a little,
+Can't you tell me
+off just a little,
 for old time's sake?"<Close><End of Block>
 <TextBlock 14 w:38 h:3>
 Sister Agnes
@@ -204,7 +204,7 @@ But then, humans would not
  have helped each other...<New>
 So that is what these great
    single-winged angels
-       symbolizes...<New>
+       symbolize...<New>
  In order to fly, they are
  dependent on one another.<Close><End of Block>
 <TextBlock 42 w:50 h:4>
@@ -232,11 +232,11 @@ having opposing genders."<Close><End of Block>
 Citan
 "And the space between
 them is the path from
-where god advents..."<Close><End of Block>
+where God advents..."<Close><End of Block>
 <TextBlock 46 w:42 h:3>
 Citan
 "Or could it be the
-path leading to god?<New>
+path leading TO God?<New>
 Well...I do not know,
 it could be either,
 or even both."<Close><End of Block>
@@ -326,7 +326,7 @@ Sister Agnes
 <TextBlock 61 w:56 h:3>
 Sister Agnes
 "To celebrate the return
-of our dear sister Margie...<New>
+of our dear Sister Margie...<New>
 and to express our joy to
 heaven, let us finish
 singing our hymn."<Close><End of Block>

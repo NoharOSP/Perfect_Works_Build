@@ -4,7 +4,7 @@ Citan
 What an exquisite portrait!<New>
 And the beautiful young
 lady portrayed is quite
-beyond comparison too..."<Close><End of Block>
+beyond comparison, too..."<Close><End of Block>
 <TextBlock 2 w:34 h:4>
 Citan
 "What is more...<Delay 30>
@@ -52,13 +52,13 @@ was talking about...<New>
 I meant that the brush
 techniques and overall
 style used in this picture
-is similar to yours."<Close><End of Block>
+are similar to yours."<Close><End of Block>
 <TextBlock 11 w:24 h:2>
 Fei
 "...Really?"<Close><End of Block>
-<TextBlock 12 w:26 h:2>
+<TextBlock 12 w:28 h:2>
 Fei
-"Does it...?"<Close><End of Block>
+"Are they...?"<Close><End of Block>
 <TextBlock 13 w:38 h:4>
 Fei
 "First of all...

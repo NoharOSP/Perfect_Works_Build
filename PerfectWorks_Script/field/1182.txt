@@ -408,29 +408,30 @@ Now I see why you came
 down to the surface...<New>
 Alright, I understand you.
 But Carlin Ramsus...
-taking over the post of
-Av is pretty annoying."<Close><End of Block>
+Him taking over the post
+of Av spells trouble."<Close><End of Block>
 <TextBlock 65 w:38 h:4>
 Citan
-"The home country
-might have had some
-special reasons."<Close><End of Block>
+"There may be a
+unique situation in
+the home country."<Close><End of Block>
 <TextBlock 66 w:22 h:3>
 Sigurd
 "Yeah...<Delay 10>
-obviously."<Close><End of Block>
-<TextBlock 67 w:54 h:3>
+no doubt."<Close><End of Block>
+<TextBlock 67 w:54 h:4>
 Citan
 "But perhaps there is still
 a chance of success...<New>
-We are 'Jugend' alums too 
-after all."<Close><End of Block>
-<TextBlock 68 w:46 h:2>
+You and I are Jugend alumni
+too, after all, and we are
+here."<Close><End of Block>
+<TextBlock 68 w:48 h:2>
 Sigurd
-"Hope you are right..."<Close><End of Block>
+"I hope you're right..."<Close><End of Block>
 <TextBlock 69 w:34 h:3>
 Citan
-"By the way, 
+"By the way,
 she is still...?"<Close><End of Block>
 <TextBlock 70 w:52 h:4>
 Sigurd
@@ -438,47 +439,47 @@ Sigurd
 there was a female aide
 on Carl's side...<New>
 And he said that she had
-Indigo blue eyes and hair.
-... 
+indigo blue eyes and
+hair... 
 So it must be her..."<Close><End of Block>
 <TextBlock 71 w:52 h:4>
 Citan
-"So all the old 'Elements'
+"So all the old Elements
 members are on the surface
 world now..."<Close><End of Block>
 <TextBlock 72 w:30 h:2>
 Sigurd
 "I guess so..."<Close><End of Block>
-<TextBlock 73 w:52 h:4>
+<TextBlock 73 w:50 h:4>
 Sigurd
 "Hyuga<Delay 5>...<Delay 10>
 To be honest with you<Delay 5>...<Delay 5>
 she scares me.<New>
-Her support of Carl 
-from the shadows, and 
-her stance of treating 
-anyone<New>
-
-and everyone kindly... we 
+Her support of Carl from
+the shadows,<New>
+and her stance of
+treating anyone and
+everyone kindly... We
 know these things well.<New>
 But sometimes I felt
 a strange fear of her.
 That bothers me more than
 Carl being in this land."<Close><End of Block>
-<TextBlock 74 w:46 h:3>
+<TextBlock 74 w:38 h:4>
 Citan
-"That cannot be true...
-Not in her..."<Close><End of Block>
+"Surely not...
+She, of all people,
+would not..."<Close><End of Block>
 <TextBlock 75 w:52 h:3>
 Sigurd
-"Yeah, I don't want to 
+"Yeah, I don't want to
 believe it, either...<New>
 But don't you remember how
 I could always sense these
 things quite accurately?"<Close><End of Block>
-<TextBlock 76 w:20 h:2>
+<TextBlock 76 w:22 h:2>
 Citan
-"Right..."<Close><End of Block>
+"Indeed..."<Close><End of Block>
 <TextBlock 77 w:52 h:3>
 Citan
 "By the way, have you told
@@ -490,15 +491,16 @@ I don't want him to worry
 until we know exactly what
 Solaris' objectives really
 are.<New>
-But I have to tell him 
-eventually though...<Delay 10>
+I have to tell him
+eventually, though...<Delay 10>
 Anyway, Hyuga, have you
 gotten any information?"<Close><End of Block>
 <TextBlock 79 w:54 h:4>
 Citan
-"Not really....<Delay 10>
-I left there before going
-into the center section..."<Close><End of Block>
+"Not really....<New>
+I pulled out of there
+before I could enter the
+central division, so..."<Close><End of Block>
 <TextBlock 80 w:14 h:1>
 (Fei!!)<Opcode 2 30><Close><End of Block>
 <TextBlock 81 w:40 h:3>
@@ -507,7 +509,7 @@ Fei
 Don't scare me...!)<Close><End of Block>
 <TextBlock 82 w:54 h:4>
 Bart
-(Sorry mate!<New>
+(Sorry, mate!<New>
 It sounds like Sig and your
 doctor friend know each
 other pretty darn well...<New>
@@ -517,37 +519,37 @@ everything about that
 guy!)<Close><End of Block>
 <TextBlock 83 w:52 h:2>
 Fei
-(When did doc get back..?)<Close><End of Block>
+(When did Doc get back..?)<Close><End of Block>
 <TextBlock 84 w:52 h:3>
 Jessie
 "I see.<Delay 10><New>
 This is the place you
-insisted on returning to, 
+insisted on returning to,
 eh?"<Close><End of Block>
 <TextBlock 85 w:32 h:4>
 Sigurd
-"Not quite... 
-Once I got back 
+"Not quite...
+Once I got back
 to Av,<New>
-Mimil, Maison 
-and I went to 
-go save the 
+Mimil, Maison
+and I went to
+go save the
 young master.<New>
-This ship just 
-so happened to 
-be docked in 
+This ship just
+so happened to
+be docked in
 Breidablik<New>
 at the time."<Close><End of Block>
 <TextBlock 86 w:36 h:4>
 Jessie
-"Mimil... That's 
-the guy who 
+"Mimil... That's
+the guy who
 raised you, right?<New>
-I'd say your 
-operation went 
+I'd say your
+operation went
 pretty well!<New>
-Anyway, after you 
-left, that Billy 
+Anyway, after you
+left, that Billy
 cried y'know?"<Close><End of Block>
 <TextBlock 87 w:22 h:3>
 Sigurd
@@ -595,7 +597,7 @@ Billy
 "We Etones have some
 rather unique equipment.<New>
 Let me explain about the
-equipment since we're 
+equipment since we're
 going to be working
 together."<Close><End of Block>
 <TextBlock 97 w:56 h:4>
@@ -695,7 +697,7 @@ make you curious..."<Close><End of Block>
 <TextBlock 108 w:54 h:4>
 Elly
 "No, I don't mean that.<Delay 10>
-I'm curious about your own 
+I'm curious about your own
 intentions, personally.<New>
 I don't know...
 I just didn't expect you
@@ -730,7 +732,7 @@ attacked by Reapers..."<Close><End of Block>
 ...<Close><End of Block>
 <TextBlock 116 w:42 h:2>
 Billy
-"Can anyone help us?"<Close><End of Block>
+"Who will assist me?"<Close><End of Block>
 <TextBlock 117 w:54 h:5>
 Billy
 "Hah!
@@ -812,10 +814,10 @@ And it was done under the
 command of Karellen...<New>
 In order to proceed with
 the plan, many Lambs were
-gathered by the 'Church',
+gathered by the Church,
 to become guinea pigs.<New>
 Or, should I say, to become
-Reapers or 'Wels'..."<Close><End of Block>
+Reapers or Wels..."<Close><End of Block>
 <TextBlock 129 w:54 h:4>
 Jessie
 "Since I was disgusted with
@@ -959,7 +961,7 @@ can't escape from the
 shadow of Solaris."<Close><End of Block>
 <TextBlock 150 w:46 h:3>
 Citan
-"Their 'secret plan' 
+"Their 'secret plan'
 bothers me, too...<New>
 The real secret is that
 they are using humans
@@ -967,7 +969,7 @@ gathered from earth..."<Close><End of Block>
 <TextBlock 151 w:60 h:4>
 Fei
 "I don't quite get this<Delay 5>
-secret plan<Delay 5> and <Delay 5>the 'Church's'
+secret plan<Delay 5> and <Delay 5>the Church's
 involvement<Delay 5> and so on...<New>
 What in the hell does
 Solaris think us surface
@@ -976,7 +978,7 @@ dwelling humans are!?"<Close><End of Block>
 Fei
 "...Sorry.<Delay 10>
 I totally forgot that Solaris
-was your country Elly..."<Close><End of Block>
+was your country, Elly..."<Close><End of Block>
 <TextBlock 153 w:54 h:4>
 Elly
 "What my country's doing...<Delay 10>
@@ -991,8 +993,8 @@ Fei
 so let's try to go there.<New>
 We need to find the truth
 about those documents found
-in the Church of the Ethos 
-H.Q.<New>
+in the Church of the Ethos
+HQ.<New>
 and what Billy's father said.
 And I must go to Shevat
 too for my own personal

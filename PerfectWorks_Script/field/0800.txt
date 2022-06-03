@@ -23,15 +23,15 @@ A new era is approaching...<Delay 30>
 I've got to do my best too!<Close><End of Block>
 <TextBlock 6 w:36 h:2>
 Everyone is alive!<Delay 30>
-Thank god.<Close><End of Block>
+Thank God.<Close><End of Block>
 <TextBlock 7 w:54 h:2>
 We're transcribing scrolls.<New>
-Scrolls over 100 years old
-get worn, so we renew them.<New>
-It is one of our daily
-tasks.<Close><End of Block>
-<TextBlock 8 w:28 h:1>
-Take care now!<Close><End of Block>
+Scrolls over a hundred
+years old get worn out,<New>
+so we renew them. It is one
+of our daily tasks.<Close><End of Block>
+<TextBlock 8 w:30 h:1>
+Take care, now!<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Just because the monarchy
 has been abolished, it
@@ -50,7 +50,7 @@ disappear from this world?<New>
 To me, it is clear that
 it is meaningless...<New>
 Perhaps it is our fate
-to be forever at discord
+to be forever in discord
 with each other?<Close><End of Block>
 <TextBlock 12 w:46 h:2>
 We look forward to the
@@ -89,7 +89,7 @@ Your accomplishments will be
 passed on from generation to
 generation!<Close><End of Block>
 <TextBlock 17 w:46 h:2>
-(...<Delay 30> Somewhere...<Delay 30>
+(...<Delay 30>Somewhere...<Delay 30>
 It must be somewhere...<New>
 The truth that we have
 not yet come to know.)<Close><End of Block>
@@ -101,7 +101,7 @@ Fei
 <TextBlock 20 w:52 h:4>
 Uh, well sort of...<New>
 It's just that after
-sneaking into the capital,
+sneaking into the Capital,
 I started to think about
 a lot of things...<New>
 And I've come to realize<Delay 30>
@@ -194,9 +194,10 @@ Citan
 "But, it does seem
 somewhat strange...<New>
 If such a majestic building
-as this survived history,
-then it is likely a scroll
-or two would remain too."<Close><End of Block>
+as this survived history,<New>
+then it seems likely a
+scroll or two would have
+remained, too."<Close><End of Block>
 <TextBlock 33 w:54 h:4>
 Agnes
 "According to tradition,
@@ -204,7 +205,7 @@ Sophia was present about
 500 years ago...<New>
 She sacrificed herself for
 the people and has been
-summoned to be with god.
+summoned to be with God.
 That's all I can tell you."<Close><End of Block>
 <TextBlock 34 w:50 h:4>
 Citan
@@ -237,11 +238,11 @@ you now, Master Bartholomew.<New>
 You must have put in much
 thought before making this
 decision.<New>
-We of Nisan, will be with
+We of Nisan will be with
 you, Master Bartholomew."<Close><End of Block>
-<TextBlock 38 w:32 h:2>
+<TextBlock 38 w:34 h:2>
 Bart
-"Thanks Sister."<Close><End of Block>
+"Thanks, Sister."<Close><End of Block>
 <TextBlock 39 w:12 h:2>
 Fei
 "Yes."<Close><End of Block>
@@ -255,7 +256,7 @@ Fei
 with Margie."<Close><End of Block>
 <TextBlock 42 w:56 h:3>
 Agnes
-"I see my child.<Delay 30>
+"I see, my child.<Delay 30>
 Then please tell him this...<New>
  'We will always be with
  you, Master Bartholomew.' "<Close><End of Block>
@@ -324,9 +325,10 @@ Citan
 "But, it does seem
 somewhat strange...<New>
 If such a majestic building
-as this survived history,
-then it is likely a scroll
-or two would remain too."<Close><End of Block>
+as this survived history,<New>
+then it seems likely a
+scroll or two would have
+remained, too."<Close><End of Block>
 <TextBlock 52 w:54 h:4>
 Agnes
 "According to tradition,
@@ -367,11 +369,11 @@ you now, Master Bartholomew.<New>
 You must have put in much
 thought before making this
 decision.<New>
-We of Nisan, will be with
+We of Nisan will be with
 you, Master Bartholomew."<Close><End of Block>
-<TextBlock 57 w:32 h:2>
+<TextBlock 57 w:34 h:2>
 Bart
-"Thanks Sister."<Close><End of Block>
+"Thanks, Sister."<Close><End of Block>
 <TextBlock 58 w:12 h:2>
 Fei
 "Yes."<Close><End of Block>
@@ -385,7 +387,7 @@ Fei
 with Margie."<Close><End of Block>
 <TextBlock 61 w:56 h:3>
 Agnes
-"I see my child.<Delay 30>
+"I see, my child.<Delay 30>
 Then please tell him this...<New>
  'We will always be with
  you, Master Bartholomew.' "<Close><End of Block>
@@ -408,7 +410,7 @@ so please tell her that."<Close><End of Block>
 <TextBlock 65 w:48 h:4>
 Agnes
 "I hope nothing has
-happend to the great
+happened to the great
 mother's remains...<New>
 If the mausoleum becomes
 damaged in any way, I'll
@@ -427,14 +429,14 @@ Agnes
 the country the late king
 and Great Mother desired.<New>
 I hope that I can be of
-assistance to master
+assistance to Master
 Bartholemew.<New>
 Before we do that though,
 we'll have to determine the
-the real relation between 
+the real relation between
 Bartholomew and Marguerite.<New>
 But come to think of it,
-that is really up to 
+that is really up to
 them to work out..."<Close><End of Block>
 <TextBlock 68 w:56 h:5>
 Agnes
