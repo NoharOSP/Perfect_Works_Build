@@ -52,12 +52,12 @@ from her long time in
 captivity...<New>
 I don't want her to have
 to worry...
-I want her to be happy 
+I want her to be happy
 for a little longer."<Close><End of Block>
 <TextBlock 9 w:52 h:4>
 Citan
 "You should not be overly
-worried yourself!<New>
+worried, yourself!<New>
 You have just got to think
 about what is best for the
 future of this land...<New>
@@ -246,9 +246,9 @@ Bart
 picking on me for?"<Close><End of Block>
 <TextBlock 40 w:54 h:4>
 Citan
-"No I am not picking on you
-or blaming you for anything.
-What I am saying is this...<New>
+"I am not picking on you or
+blaming you for anything.
+What I am saying is...<New>
 If you think about how he
 feels, then you should see
 why he could not talk about
@@ -256,9 +256,9 @@ this with you till now."<Close><End of Block>
 <TextBlock 41 w:54 h:4>
 Citan
 "Looking at the activities
-of Solaris toward other
+of Solaris towards other
 countries up until now...<New>
-...It has never gone
+...it has never gone
 beyond simply maintaining
 their own empire, or
 'self-preservation'.<New>
@@ -295,8 +295,8 @@ Bart
 "Speaking of that...
 Why did you leave?<New>
 That Ramsus guy was
-supposed to be a 'Star
-of Hope' or something,
+supposed to be a 'star
+of hope' or something,
 wasn't he?"<Close><End of Block>
 <TextBlock 45 w:54 h:4>
 Citan
@@ -306,12 +306,10 @@ But then I realized his way
 of thinking really was not
 that much of a change from
 the previous system.<New>
-Basically, the only
-difference was whether they
-stressed people's rank and
-class,<New>
-or his stressing of their 
-skill.<New>
+Basically, he just put the
+emphasis on people's skill,
+rather than on their rank
+or class.<New>
 The words had changed, but
 it was still no different
 from what Solaris itself
@@ -380,11 +378,11 @@ Citan
 You could put it that way."<Close><End of Block>
 <TextBlock 54 w:48 h:4>
 Bart
-"What do you mean...
+"What do you mean,
 'You could put it that
 way'?<New>
 But then again, maybe it
-is time I did something
+IS time I did something
 about that."<Close><End of Block>
 <TextBlock 55 w:34 h:2>
 This road leads
@@ -420,7 +418,7 @@ before you came into town.<Close><End of Block>
 I'm so glad you're safe!<Close><End of Block>
 <TextBlock 63 w:54 h:2>
 My dad always says,
-"It's peaceful here."...<New>
+'It's peaceful here'...<New>
 But what is 'peace' anyway?
 I don't really understand.<Close><End of Block>
 <TextBlock 64 w:22 h:1>
@@ -516,7 +514,7 @@ You're friends of my young
 lord, right? Since you are
 friends with him, I'm sure
 you already know, but...<New>
-He'll be the leader of this
+he'll be the leader of this
 country one day!
 I had a chance to take care
 of him when he was small.<New>
@@ -536,7 +534,7 @@ your move eh, Bartholomew?<New>
 But somehow I don't think
 that man's just going to
 stand by and let you do
-as you please though.<Close><End of Block>
+as you please.<Close><End of Block>
 <TextBlock 85 w:22 h:2>
 Fei
 "That man?"<Close><End of Block>
@@ -549,7 +547,7 @@ It's alright to try and
 avenge your father...<New>
 ...but I don't think
 things will be that
-easy, though!<Close><End of Block>
+easy!<Close><End of Block>
 <TextBlock 88 w:38 h:3>
 Bart
 "I don't want to
@@ -581,14 +579,14 @@ given the current governments.<Close><End of Block>
 <TextBlock 94 w:54 h:5>
 So it has finally begun.
 My late father always said,
-"Don't miss the greater
+'Don't miss the greater
 happiness by being misled
-by minor sufferings."!<New>
+by minor sufferings'!<New>
 It hurts me to see our
 children placed in danger.
 But if it moves our country
 in the right direction,
-then it's in their benefit.<Close><End of Block>
+then it's to their benefit.<Close><End of Block>
 <TextBlock 95 w:52 h:1>
 Ahh, it's such a nice day.<Close><End of Block>
 <TextBlock 96 w:50 h:3>

@@ -429,7 +429,7 @@ Citan
 I was born in the lower
 city levels. It is not
 a complete secret...<New>
-But I guess I am a
+but I guess I am a
 Solarian<Delay 5>..."<Close><End of Block>
 <TextBlock 79 w:54 h:4>
 Bart
@@ -476,7 +476,7 @@ He became the commander
 after leaving there."<Close><End of Block>
 <TextBlock 85 w:50 h:3>
 Citan
-"He is a lower level
+"He is a lower-level
 citizen, the same as me.<New>
 However, with his amazing
 abilities...<New>
