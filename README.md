@@ -83,7 +83,7 @@ Elly:
 - Marshal Rod: +12 to +16.
 - Thunder Rod: +14 to +19.
 - Stone Rod: +14 to +19.
-- Flare Rod: +16 to +21.
+- Flare Rod: +16 to +19.
 - Ice Rod: +14 to +19.
 - Queen's Rod: +18 to +24.
 - Dynamite Rod: +20 to +32.
@@ -95,13 +95,13 @@ Elly:
 Bart:
 - WhippaSnappa: +6 to +8.
 - CobraCracka: +5 to +9.
-- Serpent Sting: +7 to +10, add 'Inflict Confusion on hit' (to be included)
-- Black Snake: +7 to +12, add 'Lower Ether Def' (to be included)
-- Silver Blood: +8 to +14, add 'Inflict Silence on hit' (to be included)
-- Whip-Lasher: +10 to +16, add 'Inflict Poison on hit' (to be included)
-- Desert Worm: +12 to +18, add 'Inflict Confusion on hit' (to be included)
-- Sonic Wave: +14 to +24, add 'Lower Ether Def' (to be included)
-- Wonder Whip: +16 to +28, add 'Inflict Silence on hit' (to be included)
+- Serpent Sting: +7 to +10, add 'Inflict Confusion on hit'
+- Black Snake: +7 to +12, add 'Lower Ether Def' 
+- Silver Blood: +8 to +14, add 'Inflict Silence on hit' 
+- Whip-Lasher: +10 to +16, add 'Inflict Poison on hit' 
+- Desert Worm: +12 to +18, add 'Inflict Confusion on hit'
+- Sonic Wave: +14 to +24, add 'Lower Ether Def' 
+- Wonder Whip: +16 to +28, add 'Inflict Silence on hit' 
 - Thor’s Thunda: +20 to +34
 - Death Adder: +24 to +30, Add ‘Inflict Stop on hit’
 
@@ -119,10 +119,10 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 
 #### Gear equipment changes:
 
-- Serpent GWhip: Add 'Def Down' (to be included)
-- BSnake GWhip: Add 'Power loss' (to be included)
-- SBlood GWhip: Add 'Camera damage' (to be included)
-- Thor GWhip: +100 to +150, effect moved to CCracka GWhip (to be included)
+- Serpent GWhip: Add 'Def Down' 
+- BSnake GWhip: Add 'Power loss'
+- SBlood GWhip: Add 'Camera damage'
+- Thor GWhip: +100 to +150, effect moved to CCracka GWhip 
 - Magnetic Coat: Can be purchased at Shevat and Yggdrasil III (Disc 2)
 - Power Magic: Ether Amp +10 to +7. Can be purchased at the Anima Dungeons and Merkabah (first trip).
 
@@ -130,8 +130,8 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 
 - CrossPendant: Fei exclusive. +1 Ether/Ether Def. Same effect as Holy Pendant. Initial equip on Fei.
 - NisanCross: Fei exclusive. +10 Ether/Ether Def. Same effect as Holy Pendant. Dropped by Ophiomorphous
-- CCracka GWhip: +90 Attack and Inflicts Slow on hit. Available to buy at Tammuz after Gate 2 (to be included). 
-- Lasher GWhip: +75 Attack and Inflicts Fuel Leak on hit. Available to buy in Nisan after Gate 1 (to be included). 
+- CCracka GWhip: +90 Attack and Inflicts Slow on hit. Available to buy at Tammuz after Gate 2 
+- Lasher GWhip: +75 Attack and Inflicts Fuel Leak on hit. Available to buy in Nisan after Gate 1 
 - Citan Jr Doll: Increases speed by 2. Available to buy in the Yggdrasil III in Disc 2 for 60000.
 - Rico Jr Doll: Increases attack by 32. Available to buy in the Yggdrasil III in Disc 2 for 60000.
 - Maria Jr Doll: Increases EtherDef by 40. Available to buy in the Yggdrasil III in Disc 2 for 60000.
@@ -142,6 +142,13 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 - Eyeballs, Fangs, Scales and Ivory have had their sale prices doubled. With encounters dropping, this change is done as a way to keep their value. This is particularly useful for Anima Dungeon 2 as if you’re revisiting the dungeon you’re certainly here because you need money for Big Joe's shop. 
 - Speed Star now costs 2500.
 - Samson's Hair can be bought at the Tamuz (first visit) for 1000.
+- Omegasol now costs 150.
+- Speed Ring now costs 3000.
+- Ether Maxer is now sold by Hammer, Tamuz and Shevat's shops.
+- Ether Reversa is now sold by Solaris and Crashed Shevat's shops. Its price has been increased to 20,000.
+- V18-2000 is now V18-2500.
+- V15-2000 is now V15-3000.
+- All of Elly's elemental rods cost 2600.
 
 #### Monster drops:
 
@@ -161,15 +168,15 @@ Fei:
 Fei’s generally pretty great when balanced against the cast. But against himself, his Ether attacks tends to be very overshadowed and down right wasteful to use. All options should have merit. Even if it’s situational, a situational merit is better than consistently being eclipsed by basic attacks. They’re viable with Power Magic abuse but even Steel Mettle is with that. These changes will give players better insensitive to use these moves throughout the game. It also helps Weltall a fair bit. It tends to fall off hard by disc 1’s end. Between Renmazuo, Vierge, Siebzhen, Crescens (by technicality) and the addition of Andvari to your squad Fei really struggles to carry his weight. This will let him be better at contributing. Big Bang is admittedly a very reliable spell even without its new buffs. But it’s only learned before the final dungeon typically so this will help it see a little more prominence in disc 2.
 
 - ~~Iron Valor~~ Iron Focus: Accuracy Up
-- Yang Power: Ether Up (to be included)
-- Yin Power: Attack Up (to be included)
+- Yang Power: Ether Up 
+- Yin Power: Attack Up 
 
 This will let Fei choose to be a magic focused or physical character to make using him more interesting instead of the binary choice of buffing his attack. 
 
 
 Weltall/Weltall-2/Xenogears:
-- Yang Power: Ether Up (to be included)
-- Yin Power: Attack Up (to be included)
+- Yang Power: Ether Up 
+- Yin Power: Attack Up 
 
 Defense buffs simply don’t work in gears. So their effects have been altered to function better. 
 
@@ -270,8 +277,8 @@ Unless stated otherwise, the stat changed is HP.
 
 #### Monster weaknesses:
 
-- Abandon is now weak to Poison (to be included)
-- Wels are now weak to Confuse (to be included)
+- Abandon is now weak to Poison 
+- Wels are now weak to Confuse 
 
 #### Boss stats:
 
@@ -285,37 +292,44 @@ Unless stated otherwise, the stat changed is HP.
 - Hecht: 7500 to 9500 Atk 200 to 250 Def 70 to 100 Ether 25 to 50
 - Fis.6 HP 6800 to 17000 Atk 204 to 250 Def 80 to 100 EthDef 80 to 90
 - Haishao (Dominia): HP 2800 to 4000. Def 100 to 125. EthDef 40 to 100
-- Bladegash: 3000 to 10000
+- Bladegash: HP 3000 to 6000 Hit 30 to 80
 - Haishao (Ramsus): Def 100 to 125. EthDef 50 to 100
 - Bloody (Ethos Transport): HP 8888 Atk 75 to 100 
-- Giant Wels: HP 7000 to 14000 Atk 300 to 350
+- Giant Wels: HP 7000 to 14000 Atk 300 to 350 EthDef 0 to 250 Hit 30 to 50
 - Throne: HP 2500 to 3000 Atk 80 to 120
 - Seraphita: HP 2000 to 2500 
 - Id: 3000 to 6666
-- Wyvern: HP 5000 to 28000 Atk 330 to 400 
-- Seibzehn: HP 5500 to 18000 Atk 380 to 420 Def 300 to 250 EDef 40 to 100
-- White Knights: HP 290 to 600 (to be included) 
-- Achtzehn: HP 12000 to 19000 Atk 600 to 800 Def 300 to 400 Ether 20 to 35 EDef 0 to 25 
-- Shakhan: 18000 to 28000
-- Bladegash 2: HP 4000 to 22000 Atk 500 to 400
-- Marinebasher: HP 5000 to 15000 EDef 100 to 200
-- Skyghene: HP 5000 to 18000 Eth 50 to 75 Evade 35 to 55
-- Grandgrowl: HP 6000 to 20000 Atk 500 to 600 Eth 60 to 90 Edef 50 to 100
-- Crescens: EDef 100 to 1000
+- Alkanshel: Hit 10 to 90
+- Wyvern: HP 5000 to 28000 Atk 330 to 400 EthDef 120 to 150 Agility 5 to 9 Hit 40 to 60
+- Seibzehn: HP 5500 to 18000 Atk 380 to 500 Def 300 to 250 EDef 40 to 150 Hit 30 to 70
+- White Knights: HP 290 to 600 
+- Achtzehn: HP 12000 to 19000 Atk 600 to 800 Def 300 to 400 Ether 20 to 35 EDef 0 to 200 
+- Shakhan: HP 18000 to 28000 Ether 120 to 200 EthDef 100 to 200
+- Bladegash 2: HP 4000 to 22000 Atk 500 to 400 Hit 30 to 80
+- Marinebasher: HP 5000 to 15000 Def 300 to 200 EDef 100 to 300
+- Skyghene: HP 5000 to 18000 Eth 50 to 75 Evade 35 to 55 Hit 30 to 90 
+- Grandgrowl: HP 6000 to 20000 Atk 500 to 600 Def 350 to 100 Eth 60 to 90 Edef 50 to 350
+- Crescens: EDef 100 to 1000 Hit 50 to 70
 - Grahf (Solaris): Atk 180 to 200 Eth 60 to 150
-- Vendetta: 12000 to 22000
-- Ft Hurricane HP 13000 to 50000
+- Vendetta: HP 12000 to 22000 EthDef 50 to 200 Hit 50 to 60
+- Ft Hurricane HP 13000 to 40000 Agility 14 to 7
 - Sufal Mass: HP 4800 to 20000 EDef 50 to 100
 - Sufal: Agility 7 to 10 Eth 20 to 50 
 - Dominia: 4000 to 20000
 - Cherubina: 2500 to 15000
 - Throne: HP 2500 to 18000 Eth 40 to 80
 - Seraphita: 2500 to 17000
-- G-Elements: HP 45000 to 60000 Def 600 to 300
-- Ophiomorphous: 25000 to 30000
-- Id Xenogears: HP 30400 to 60000 Atk 825 to 1000 Ether 90 to 150 
-- Alpha Weltall (Bethlehem): HP 15000 to 30000 Atk 650 to 800 Eth 100 to 150 
-- Deus: 75000 to 150000
+- G-Elements: HP 45000 to 60000 Def 600 to 300 EthDef 0 to 600 Hit 60 to 100
+- Hammer: Hit 40 to 80
+- Alpha Weltal: EthDef 100 to 800 Hit 50 to 100
+- Ophiomorphous: HP 25000 to 30000 EthDef 50 to 500
+- Id Xenogears: HP 30400 to 60000 Atk 825 to 1000 Ether 90 to 150 EthDef 100 to 200
+- Alpha Weltall (Bethlehem): HP 15000 to 30000 Atk 650 to 800 Eth 100 to 150 EthDef 100 to 700 Hit 50 to 100
+- Harlute: EthDef 0 to 255
+- Metatron: EthDef 0 to 200
+- Sundel: EthDef 0 to 800
+- Marlute: EthDef 0 to 300
+- Deus: HP 75000 to 150000 EthDef 0 to 700
 - Ouroboros: HP 50000 to 75000
 
 ### Script:
