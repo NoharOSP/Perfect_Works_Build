@@ -28,7 +28,7 @@ Bart
 on all of you!<New>
 He's a dead man the
 next time I see him!"<Close><End of Block>
-<TextBlock 7 w:30 h:1>
+<TextBlock 7 w:34 h:1>
 How's Breidablik?<Close><End of Block>
 <TextBlock 8 w:50 h:4>
 It's under martial law so
@@ -38,16 +38,16 @@ agents in the city.<New>
 According to the info we
 finally got just a while
 ago, there's no major
-activity. <New>
+activity.<New>
 We think they've found
 some reason to attack and
 are getting ready now..."<Close><End of Block>
 <TextBlock 9 w:44 h:1>
 The possiblity exists.<Close><End of Block>
-<TextBlock 10 w:52 h:3>
+<TextBlock 10 w:54 h:3>
 However I've heard that
-Shakhan's powerbase in the
-capital is erroding away.<New>
+Shakhan's power base in the
+Capital is eroding away.<New>
 He's probably weaker than
 we thought.<Close><End of Block>
 <TextBlock 11 w:50 h:2>
@@ -57,13 +57,13 @@ we're committed now.<Close><End of Block>
 I feel the same way.<Close><End of Block>
 <TextBlock 13 w:52 h:2>
 Now that I think about it,
-12 years ago...<Close><End of Block>
+twelve years ago...<Close><End of Block>
 <TextBlock 14 w:52 h:4>
 Ever since the coup d'etat
 by Shakhan, there's been
 a lot of tension in our
 country.<New>
-With Marguerite back now, 
+With Marguerite back now,
 I agree that the former
 dynasty should be returned
 to power.<Close><End of Block>
@@ -93,7 +93,7 @@ Will everyone be killed?<Close><End of Block>
 I seriously doubt that.<Delay 30>
 Even he won't want to risk
 provoking any kind of
-outrage with the citizens.<New>
+outrage from the citizens.<New>
 Especially in this
 situation, he will
 definitely want to avoid
@@ -108,10 +108,10 @@ Maybe there...<Close><End of Block>
 Sigurd
 "I went to the tool shop
 to borrow a table.<New>
-The owner said...
-'if we need anything for
-the young master, just
-ask for it.'"<Close><End of Block>
+The owner said, 'If you
+need anything for the
+young master, just ask
+for it.'"<Close><End of Block>
 <TextBlock 25 w:30 h:2>
 Bart
 "I'm grateful."<Close><End of Block>
@@ -132,7 +132,7 @@ it was.<New>
 I put fireworks in it and
 let it float on the
 cathedral's lake. I always
-used to play 'navy'."<Close><End of Block>
+used to play navy."<Close><End of Block>
 <TextBlock 29 w:48 h:4>
 Bart
 "I'm not sure, but I
@@ -162,8 +162,8 @@ A normal man<Delay 10> could not
 progress so quickly
 through that country's
 organization.<New>
-And now he is presently
-located here in Ignas."<Close><End of Block>
+And now he is located
+here in Ignas."<Close><End of Block>
 <TextBlock 33 w:46 h:3>
 Citan
 "Frankly, the situation
@@ -185,8 +185,8 @@ Bart
 we should be able to hold
 off the royal guard forces.<New>
 The problem is how to deal
-with Geburah in the mean
-time...<New>
+with Geburah in the
+meantime...<New>
 They will most likely move
 at Shakhan's request.
 They're not just gonna sit
@@ -207,7 +207,7 @@ Sigurd
 "But the problem is...<New>
 will attacking the border
 guards be enough to set
-the center in motion?"<Close><End of Block>
+them in motion?"<Close><End of Block>
 <TextBlock 39 w:48 h:4>
 Citan
 "To be sure then, Nisan
@@ -227,16 +227,16 @@ Fei
 <TextBlock 42 w:50 h:4>
 Sigurd
 "Shakhan is very
-sensitive to Nisan's
+sensitive to Nisan
 and Kislev's actions.<New>
 If Nisan starts moving
 he will probably leave
 it up to Geburah, but..."<Close><End of Block>
 <TextBlock 43 w:42 h:4>
 Citan
-"Of course I do not
-wish to do that from
-the beginning.<New>
+"Of course doing this
+would not be our
+first choice.<New>
 But looking at the
 situation, we have to
 be willing to go that
@@ -246,7 +246,7 @@ Hmm...<Close><End of Block>
 <TextBlock 45 w:42 h:4>
 Bart
 "First, we infiltrate
-into the capital.<New>
+the Capital.<New>
 To take out Shakhan,
 we'll have to meet
 up with our agents
@@ -267,9 +267,9 @@ That screws my
 entire plan!"<Close><End of Block>
 <TextBlock 49 w:48 h:4>
 Citan
-"Do not feel so down.<New>
+"Do not be disheartened.<New>
 I simply wanted you
-to see the current 
+to see the current
 distribution of force
 in the area.<New>
 Even in the worst case
@@ -333,13 +333,13 @@ Gears assigned to the fleet
 seems to have been reduced."<Close><End of Block>
 <TextBlock 60 w:44 h:4>
 Citan
-"Even with that...<Delay 30>
+"But still...<Delay 30>
 how gallant of him to
-be so self-righteous."<Close><End of Block>
+be so self-assured."<Close><End of Block>
 <TextBlock 61 w:42 h:4>
 Bart
 "Is he that much of
-a muscle head? It'll
+a musclehead? It'll
 be fun taunting him."<Close><End of Block>
 <TextBlock 62 w:30 h:2>
 Maison
@@ -449,7 +449,7 @@ people remaining in the
 town are...?"<Close><End of Block>
 <TextBlock 84 w:50 h:3>
 Sister Agnes
-"Yes. <Delay 30>
+"Yes.<Delay 30>
 Hiding in the mausoleum."<Close><End of Block>
 <TextBlock 85 w:38 h:3>
 Fei
@@ -457,8 +457,8 @@ Fei
 Hiding in a grave?"<Close><End of Block>
 <TextBlock 86 w:44 h:4>
 Margie
-"The Great Mothers and
-Kings of Av of old
+"The great mothers and
+kings of Av of old
 are revered there."<Close><End of Block>
 <TextBlock 87 w:54 h:3>
 Bart
@@ -476,9 +476,9 @@ He's after the Fatima
 Treasure."<Close><End of Block>
 <TextBlock 90 w:54 h:4>
 Citan
-"Treasure...?<Delay 30> If he
-wants the treasure what is
-he doing attacking here..."<Close><End of Block>
+"Treasure...?<Delay 30> If he wants
+the treasure what is he
+doing attacking here...?"<Close><End of Block>
 <TextBlock 91 w:26 h:2>
 Bart
 "Huh?<Delay 30> Ahh..."<Delay 30><Close><End of Block>
@@ -487,8 +487,8 @@ Bart
 "Actually, the Fatima
 Treasure is in the
 mausoleum.<New>
-There was even Dad's
-will there, but I didn't
+Even Dad's will was
+there, but I didn't
 tell anyone..."<Close><End of Block>
 <TextBlock 93 w:52 h:3>
 Fei
@@ -514,14 +514,14 @@ The Jasper is..."<Close><End of Block>
 <TextBlock 97 w:50 h:3>
 Sister Agnes
 "They plan to use the
-former Mother's retinas."<Close><End of Block>
-<TextBlock 98 w:28 h:2>
+former mother's retinas."<Close><End of Block>
+<TextBlock 98 w:24 h:2>
 Bart
-"Wha...<Delay 30>what!!"<Close><End of Block>
+"Wh-<Delay 30>What!?"<Close><End of Block>
 <TextBlock 99 w:40 h:4>
 Sister Agnes
 "Remove the deceased
-Mother's retina,<Delay 30> and
+mother's retina,<Delay 30> and
 break the seal."<Close><End of Block>
 <TextBlock 100 w:50 h:3>
 Bart
@@ -539,7 +539,7 @@ There was no other way...<New>
 The truth we heard
 previously from Margie
 about the Jasper's true
-form and how it's used.<New>
+form and how it's used...<New>
 They know now...<Delay 30>
 I am truly sorry."<Close><End of Block>
 <TextBlock 103 w:38 h:4>
@@ -547,11 +547,11 @@ Bart
 "Well...<Delay 30>
 I don't blame you.
 They had hostages!"<Close><End of Block>
-<TextBlock 104 w:44 h:4>
+<TextBlock 104 w:42 h:4>
 Citan
 "Wait a moment.<Delay 30>
-Retinas...what are you
-speaking of?"<Close><End of Block>
+Retina... What are
+you speaking of?"<Close><End of Block>
 <TextBlock 105 w:50 h:4>
 Bart
 "The Fatima Jasper is the
@@ -561,7 +561,7 @@ In other words...<Delay 30>
 our retinal pattern.<New>
 The doors to the treasure
 are opened by that...<Delay 30>
-Or so it is said."<Close><End of Block>
+or so it is said."<Close><End of Block>
 <TextBlock 106 w:52 h:4>
 Bart
 "However no one has ever
@@ -573,7 +573,7 @@ truly in danger.<New>
 So neither I, <Delay 30>
 nor my father, <Delay 30>
 nor grandfather,<New>
-nor my great grandfather
+nor my great-grandfather
 have ever used it."<Close><End of Block>
 <TextBlock 107 w:44 h:3>
 Citan
@@ -590,14 +590,14 @@ corpse? That's unthinkable!"<Close><End of Block>
 <TextBlock 110 w:48 h:4>
 Citan
 "It is a closely guarded
-secret but the 'Church's'
+secret but the Church's
 people are not holy men.<New>
 They simply supervise."<Close><End of Block>
 <TextBlock 111 w:46 h:3>
 Fei
 "Yes, of course they
 wouldn't feel anything!<New>
-Let's go Bart!<Delay 30>
+Let's go, Bart!<Delay 30>
 Before the mausoleum is
 trashed."<Close><End of Block>
 <TextBlock 112 w:20 h:2>
@@ -607,9 +607,9 @@ Bart
 Sigurd
 "Young master!<Delay 30>
 I have a proposal."<Close><End of Block>
-<TextBlock 114 w:34 h:2>
+<TextBlock 114 w:36 h:2>
 Bart
-"What is it Sig?"<Close><End of Block>
+"What is it, Sig?"<Close><End of Block>
 <TextBlock 115 w:50 h:4>
 Sigurd
 "Currently Av is in
@@ -621,7 +621,7 @@ with no Geburah units
 around.<New>
 It'll be the best time to
 make our return to the
-capital."<Close><End of Block>
+Capital."<Close><End of Block>
 <TextBlock 116 w:52 h:4>
 Citan
 "That is a good idea.<New>
@@ -632,7 +632,7 @@ While we prevent the young
 one from handing over the
 treasure to Shakhan...<New>
 a separate force will take
-back the capital.
+back the Capital.
 Then he will have nowhere
 else to go."<Close><End of Block>
 <TextBlock 117 w:42 h:3>
@@ -654,10 +654,10 @@ Elly
 <TextBlock 120 w:52 h:4>
 Citan
 "If possible, I would like
-to return to the capital
+to return to the Capital
 with Sigurd.<New>
 Two former Solarians will
-dethrone the 'Church'...
+dethrone the Church...
 How very ironic."<Close><End of Block>
 <TextBlock 121 w:20 h:2>
 Billy
@@ -670,7 +670,7 @@ Maria
 "I will help out."<Close><End of Block>
 <TextBlock 124 w:38 h:3>
 <Chu-Chu>
-"There's no choice 
+"There's no choice
 but for me chu go!"<Close><End of Block>
 <TextBlock 125 w:22 h:5>
     Elly

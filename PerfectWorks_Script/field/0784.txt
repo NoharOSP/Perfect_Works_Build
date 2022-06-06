@@ -1,11 +1,11 @@
 <TextBlock 1 w:46 h:4>
 Citan
 "These are the Geburah
-units currently in Av, 
+units currently in Av,
 correct?"<Close><End of Block>
 <TextBlock 2 w:46 h:2>
 Citan
-"The western guards..."<Close><End of Block>
+"The western guard..."<Close><End of Block>
 <TextBlock 3 w:36 h:3>
 Citan
 "the Royal Capital
@@ -29,16 +29,16 @@ Citan
 defense units and the
 Kislev border units.<New>
 The western guard along
-Nisan's border are little
-more than a surveillence
+Nisan's border is little
+more than a surveillance
 team."<Close><End of Block>
-<TextBlock 7 w:56 h:3>
+<TextBlock 7 w:52 h:3>
 Sigurd
 "In order to recapture
 the Royal Capital...<New>
-...it will be necessary
-to draw these defense
-units away from Breidablik."<Close><End of Block>
+...it will be necessary to
+draw these defense units
+away from Breidablik."<Close><End of Block>
 <TextBlock 8 w:42 h:3>
 Citan
 "We have some Kislev
@@ -51,14 +51,16 @@ some earlier."<Close><End of Block>
 Citan
 "What if we use those
 Gears to make a raid on
-the western guards...<New>
+the western guard...<New>
 ...here at the border
 with Nisan?"<Close><End of Block>
 <TextBlock 11 w:52 h:4>
 Bart
-"I see. We'll draw them
-out by making it look like
-Kislev is invading Av."<Close><End of Block>
+"I see.<New>
+We'll draw out the central
+forces by making it look
+like Kislev is invading
+Av."<Close><End of Block>
 <TextBlock 12 w:42 h:4>
 Citan
 "The main strength of
@@ -86,7 +88,7 @@ Sigurd
 heading for Breidablik...<New>
 we must keep the fleet
 at the Kislev border from
-returning to the capital."<Close><End of Block>
+returning to the Capital."<Close><End of Block>
 <TextBlock 15 w:44 h:3>
 Bart
 "So you're suggesting
