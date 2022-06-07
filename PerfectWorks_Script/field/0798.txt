@@ -11,9 +11,9 @@ Bart
 "Got it.<Delay 30>
 But avoid any unnecessary
 deaths.<New>
-This especially goes for
-the Av troops<Delay 30> and also
-the people from Geburah."<Close><End of Block>
+This goes for the Av
+troops<Delay 30> and the people
+from Geburah, too."<Close><End of Block>
 <TextBlock 3 w:30 h:3>
 Sigurd
 "Yes.<Delay 30>
@@ -35,7 +35,7 @@ Maybe,<Delay 10> 'Your Majesty'<Delay 10>...?"<Close><End of Block>
 <TextBlock 7 w:50 h:4>
 Bart
 "Cut it out.<Delay 15>
-Bart's fine...<Delay 30>
+'Bart' will do fine...<Delay 30>
 'Great<Delay 10> Mother<Delay 10> of<Delay 10> Nisan'!"<Close><End of Block>
 <TextBlock 8 w:30 h:4>
 Margie
