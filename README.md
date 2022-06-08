@@ -64,6 +64,10 @@ As a way of compensating for lower encounter rates, money and experience have be
 
 old_script is for versions of the ROM where the script patch hasn't been applied. new_script is for versions of the ROM where the script patch has been applied. The old_script patch contains modified versions of specific scenes where the text scrolls too quickly. The new_script patch does not have these changes as the script patch provides these changes already.
 
+The original patch for the fast text patch was created by FFMaster. As stated on the page where the original patch was provided, there are specific scenes where going through the text too quickly will crash the game. These are provided in detail in the link below:
+
+https://ffhacktics.com/smf/index.php?topic=11638.0
+
 #### Changes scenes in old_script:
 
 - Shakhan's speech before the tournament.
