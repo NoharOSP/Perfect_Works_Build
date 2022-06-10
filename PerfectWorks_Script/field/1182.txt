@@ -1,6 +1,6 @@
 <TextBlock 1 w:54 h:4>
 Maison
-"...sob...sob...
+"...*Sob*...*sob*...
 Oh to think that Marguerite
 has now returned...<New>
 Come to think of it, this
@@ -108,19 +108,19 @@ What kind of spell
 was used on her?"<Close><End of Block>
 <TextBlock 19 w:42 h:3>
 Maison
-"Y...young master!<Delay 10>
+"Y-Young master!<Delay 10>
 I heard all about it.<New>
 International amity
 with the Tamuz!?<Delay 10>
 Indeed..."<Close><End of Block>
 <TextBlock 20 w:44 h:3>
-(...Sob...sob...<Delay 10>
+(...*Sob*...*sob*...<Delay 10>
 This old man's efforts
 weren't all wasted!)<Close><End of Block>
 <TextBlock 21 w:52 h:4>
 Maison
 "I have no idea where we
-are.<Delay 10> It's not on the map, 
+are.<Delay 10> It's not on the map,
 either..."<Close><End of Block>
 <TextBlock 22 w:42 h:4>
 Maison
@@ -150,7 +150,7 @@ that, I tried my best to
 raise him as Crown Prince.<New>
 However, looking back, I
 might have put too much of
-the 'burdens of kingship'
+the 'burden of kingship'
 on him too early in life...<New>
 And it might have been too
 much for a child with a
@@ -168,7 +168,7 @@ taken the burden off of
 himself had he not wanted
 to bear it any longer!<New>
 He is a fine man now...
-far capable of handling
+well capable of handling
 any such burdens or
 pressures.<New>
 And I believe you are
@@ -186,10 +186,10 @@ To save Miss Marguerite!!"<Close><End of Block>
 <TextBlock 28 w:52 h:4>
 Maison
 "I hope you are not
-too taken back?<New>
+too taken aback?<New>
 Lately, there are far too
 many barbaria<--><Delay 10> I mean...<Delay 5>
-highly energetic lads,
+highly energetic lads
 around the young master.<New>
 So, yours truly, who is
 in charge of education,
@@ -353,7 +353,7 @@ for a long while!<New>
 It's all cause my son
 doesn't let me drink! <Delay 10>
 This is a great bar you've
-got here... old codger!"<Close><End of Block>
+got here...old codger!"<Close><End of Block>
 <TextBlock 55 w:26 h:4>
 Maison
 "Why... errh,
@@ -361,7 +361,7 @@ thank you,
 my good man."<Close><End of Block>
 <TextBlock 56 w:54 h:4>
 Jessie
-"This old codger, has good
+"This old codger has good
 character...<Delay 10>like his booze!<Delay 10>
 I like him!! Ha, ha, ha!"<Close><End of Block>
 <TextBlock 57 w:24 h:1>
@@ -503,9 +503,9 @@ before I could enter the
 central division, so..."<Close><End of Block>
 <TextBlock 80 w:14 h:1>
 (Fei!!)<Opcode 2 30><Close><End of Block>
-<TextBlock 81 w:40 h:3>
+<TextBlock 81 w:42 h:3>
 Fei
-(Oh, it's you Bart!?<Delay 10>
+(Oh, it's you, Bart!?<Delay 10>
 Don't scare me...!)<Close><End of Block>
 <TextBlock 82 w:54 h:4>
 Bart

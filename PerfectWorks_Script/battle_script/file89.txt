@@ -1,9 +1,9 @@
 <TextBlock 1 w:44 h:2>
 Ramsus
-(Th, this can't be...)<Opcode 2 60><Close><End of Block>
+(Th-This can't be...)<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:32 h:2>
 Ramsus
-(Ugh! H, hel...)<Close><End of Block>
+(Ugh! H-Help...)<Close><End of Block>
 <TextBlock 3 w:38 h:2>
 Ramsus
 (Uaaaaaaaahhhhhh!!)<Opcode 2 120><Close><End of Block>

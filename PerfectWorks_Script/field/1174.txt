@@ -30,13 +30,14 @@ but<Delay 5>...<Delay 5>be careful,<Delay 5> okay!?"<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 Bart
 "If<Delay 5>...<Delay 5>anything happens
-to me<Delay 5>...<Delay 5>take care of
-Margie and them for me!"<Close><End of Block>
+to me...<New>
+take care of Margie and
+her people for me!"<Close><End of Block>
 <TextBlock 7 w:50 h:4>
 Maitreya
 "Each squad of Gears take
 off, in order, from here
-to avoid being picked up.<New>
+so as to avoid detection.<New>
 We'll meet at the Rockies
 by the border tomorrow at
 1200.
@@ -44,7 +45,7 @@ Got it?"<Close><End of Block>
 <TextBlock 8 w:50 h:3>
 Maitreya
 "Leave it up to us,
-young master! <New>
+young master!<New>
 We'll drag Vanderkaum's 
 tail around and around!!"<Close><End of Block>
 <TextBlock 9 w:28 h:2>
@@ -59,7 +60,7 @@ Maitreya
 promise to make something
 out of this battle!"<Close><End of Block>
 <TextBlock 12 w:10 h:1>
-O.K.!<Opcode 2 32><Close><End of Block>
+Okay!<Opcode 2 32><Close><End of Block>
 <TextBlock 13 w:22 h:1>
 I'm pumped!<Opcode 2 32><Close><End of Block>
 <TextBlock 14 w:26 h:2>

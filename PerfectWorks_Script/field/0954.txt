@@ -1,7 +1,6 @@
-<TextBlock 1 w:38 h:2>
-Fei!
-A Geburah Gear 
-unit!<Close><End of Block>
+<TextBlock 1 w:30 h:2>
+Fei! A Geburah
+Gear unit!<Close><End of Block>
 <TextBlock 2 w:42 h:2>
 Fei
 "Let me handle this!"<Close><End of Block>
@@ -18,10 +17,10 @@ to the castle. Hurry!"<Close><End of Block>
 R-Roger.<Close><End of Block>
 <TextBlock 6 w:26 h:4>
 Elly
-"That Gear!?
-No...<New>
-Please don't 
-tell me it's 
+"That Gear!?<New>
+No...
+Please don't
+tell me it's
 Fei!?"<Close><End of Block>
 <TextBlock 7 w:42 h:3>
 Breuer
@@ -54,8 +53,7 @@ Franz
 "Get outta the way."<Close><End of Block>
 <TextBlock 14 w:46 h:4>
 Elly
-"You... All of you! 
-Hold!<New>
+"A-All of you! Hold!
 I haven't given out any
 orders to attack yet!"<Close><End of Block>
 <TextBlock 15 w:26 h:2>
@@ -86,16 +84,15 @@ I can't...fight
 Fei...but..."<Close><End of Block>
 <TextBlock 21 w:48 h:5>
 Elly
-"I can do it<Delay 20>
+"I can do it...<Delay 20>
 if I use the Drive...<Delay 30>
  
          <Opcode 14 2>But..."<Delay 250><Close><End of Block>
 <TextBlock 22 w:52 h:4>
 Rank
-"Don't!<New>
-Any more Drive and 
-you'll waste your 
-mind!!"<Close><End of Block>
+"Don't!
+Any more Drive and you'll
+waste your mind!!"<Close><End of Block>
 <TextBlock 23 w:52 h:3>
 Franz
 "I don't care! I'm already

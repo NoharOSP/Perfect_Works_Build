@@ -16,7 +16,7 @@ and I to fight...<Delay 20>
 None at all."<Close><End of Block>
 <TextBlock 4 w:42 h:3>
 Elly
-"There...was no other
+"There was...no other
 choice..."<Close><End of Block>
 <TextBlock 5 w:50 h:4>
 Elly
@@ -26,7 +26,7 @@ my unit, the mission..."<Close><End of Block>
 <TextBlock 6 w:48 h:3>
 Fei
 "Why did you have to use
-the 'Drive'?"<Close><End of Block>
+the Drive?"<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Elly
 "I didn't want to...
@@ -39,7 +39,7 @@ don't want to admit.<New>
 But...<Delay 20>I want to
 protect my allies...
 So, I had no choice but to
-use...<Delay 20>the 'Drive'."<Close><End of Block>
+use...<Delay 20>the Drive."<Close><End of Block>
 <TextBlock 8 w:32 h:3>
 Fei
 "...Elly, you're
@@ -47,18 +47,21 @@ the same as me."<Close><End of Block>
 <TextBlock 9 w:52 h:4>
 Elly
 "The same?
-...Probably.<New>
-I felt I knew you ever
-since I first met you...
-Probably because our
-problems were so similar."<Close><End of Block>
-<TextBlock 10 w:38 h:4>
+...Yeah. Maybe that's it.<New>
+When I first met you, it
+was like...you weren't
+just some stranger.<New>
+I felt that way, maybe
+because our problems were
+so similar..."<Close><End of Block>
+<TextBlock 10 w:44 h:4>
 Fei
-"I'm here for you.<New>
-It may not be much,
-but at least I can
-relate to how you
-feel, Elly."<Close><End of Block>
+"I can help if you'll
+let me.<New>
+Maybe there's nothing
+we can do, but...at
+least I can relate to
+how you feel, Elly."<Close><End of Block>
 <TextBlock 11 w:44 h:4>
 Elly
 "What?
@@ -66,7 +69,7 @@ Are you saying we lick
 each other's wounds?"<Close><End of Block>
 <TextBlock 12 w:42 h:3>
 Fei
-"No, that's not...<Delay 20>
+"I'm not<--><Delay 20>
 Well, I guess I am...<New>
 Sorry..."<Close><End of Block>
 <TextBlock 13 w:38 h:4>
@@ -76,10 +79,9 @@ I'm not being fair,
 am I...?"<Close><End of Block>
 <TextBlock 14 w:44 h:4>
 Fei
-"No, I'm just
-pessimistic
-sometimes.<New>
-But...<Delay 20>even so, it's
+"That's not it. I'm
+just being negative.<New>
+But...<Delay 20>even so...it's
 better than worrying
 about it<Delay 20> by yourself."<Close><End of Block>
 <TextBlock 15 w:16 h:2>
@@ -97,7 +99,7 @@ It is my only home..."<Close><End of Block>
 <TextBlock 18 w:34 h:4>
 Fei
 "...I have to go.
-My 'friends' are
+My 'comrades' are
 waiting for me."<Close><End of Block>
 <TextBlock 19 w:40 h:3>
 Fei

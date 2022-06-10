@@ -96,7 +96,7 @@ Bart
 "What's up?"<Close><End of Block>
 <TextBlock 24 w:50 h:4>
 Bart
-"We're near the capital.
+"We're near the Capital.
 It's probably just some
 kind of ship from there."<Close><End of Block>
 <TextBlock 25 w:48 h:4>
@@ -180,9 +180,9 @@ looking at the radar
 and sonar."<Close><End of Block>
 <TextBlock 41 w:12 h:1>
 Oh...?<Close><End of Block>
-<TextBlock 42 w:42 h:4>
+<TextBlock 42 w:44 h:4>
 Vance
-"No...for a moment, I
+"No... For a moment, I
 thought I caught some
 unnatural sounds..."<Close><End of Block>
 <TextBlock 43 w:44 h:4>
@@ -193,7 +193,7 @@ under the sand!"<Close><End of Block>
 <TextBlock 44 w:54 h:4>
 Vance
 "...I can't catch it again.
-It could have been a sand-
+It could have been a sand
 whale..."<Close><End of Block>
 <TextBlock 45 w:46 h:4>
 Vance
@@ -222,7 +222,7 @@ Speed 60! Relative route
 behind some baffles!"<Close><End of Block>
 <TextBlock 48 w:54 h:4>
 Vance
-"I'm picking up some high
+"I'm picking up some high-
 speed propulsion, breaking
 away from the enemy's ship!<New>
 Torpedoes!? Two of them!
@@ -254,8 +254,8 @@ Calculating adjustments!<Close><End of Block>
 <TextBlock 53 w:52 h:3>
 Young master!
 I'm detecting an increase
-in the use of F Band!<New>
-That's the Royal Capital's
+in the use of F band!<New>
+That's the Royal Capital
 defense force's frequency!<Close><End of Block>
 <TextBlock 54 w:42 h:4>
 We also intercepted a

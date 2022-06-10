@@ -87,15 +87,13 @@ friendly!"<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Elly
 "Why? It's obvious.
-It's divine
-providence!<New>
-We are the chosen
-people...<New>
-The purpose of our 
-existence<New> 
-is to subordinate 
-the earth-dwelling
-Lambs.<New>
+It's divine providence!<New>
+We are the chosen ones,
+the Abelites...<New>
+The purpose of our
+existence is to
+subordinate the
+earth-dwelling Lambs.<New>
 ...Those who stand
 in our way must be
 eliminated!"<Close><End of Block>
@@ -139,10 +137,10 @@ Elly
 That's<Delay 20>...<Delay 20>not<Delay 20>...<Delay 20>true<Delay 20>...<Delay 20>
 I<Delay 20>...<Delay 20> No<Delay 20>...<Delay 20>I<Delay 20>...<Delay 20>don't<Delay 20>
 want<Delay 20> this...<Delay 20> Guh!"<Close><End of Block>
-<TextBlock 22 w:40 h:4>
+<TextBlock 22 w:42 h:4>
 Elly
-"H<Delay 20>...<Delay 20>help...<Delay 20>
-Th-<Delay 20>This<Delay 20>... is wrong...<Delay 20>
+"H-<Delay 20>He...<Delay 20>lp...<Delay 20>
+Th-<Delay 20>This<Delay 20>...is wrong...<Delay 20>
 This isn't<Delay 20>...<Delay 20> me..."<Close><End of Block>
 <TextBlock 23 w:28 h:4>
 Elly
@@ -163,8 +161,8 @@ Elly
 "Sh-<Delay 10>Shut up!<New>
 I've no need for
 outward appearances
-of compassion.<New>
-...<Delay 20>I<Delay 20>...<Delay 20> erh<Delay 20>
+of compassion...<New>
+I<Delay 20>...<Delay 20> Urgh...<Delay 20>
 F<Delay 20>...<Delay 20>Fe<Delay 20>i...<Delay 20>"<Close><End of Block>
 <TextBlock 27 w:38 h:3>
 Breuer
@@ -178,7 +176,7 @@ Franz
 "Aerods?"<Close><End of Block>
 <TextBlock 30 w:46 h:4>
 Helmholtz
-"Animum Ether Response-
+"Animum Ether Response
 Offensive Drones...<New>
 Commonly known as
 Aerods...<New>

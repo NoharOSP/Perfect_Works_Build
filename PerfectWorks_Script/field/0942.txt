@@ -70,11 +70,10 @@ Breuer
 "She's said to be
 an elite from out
 of Jugend."<Close><End of Block>
-<TextBlock 18 w:48 h:4>
+<TextBlock 18 w:52 h:4>
 Strachey
-"Apparently, she
-scurried back alone<New>
-from the Kislev
+"Apparently, she scurried
+back alone from the Kislev
 infiltration operation."<Close><End of Block>
 <TextBlock 19 w:46 h:4>
 Helmholtz
@@ -125,8 +124,8 @@ Elly
 "..."<Opcode 2 100><Close><End of Block>
 <TextBlock 29 w:44 h:3>
 Rank
-"...Anyway, for now let
-her get to work.<New>
+"...Anyway, for now
+let her get to work.<New>
 Can't judge her on
 appearance alone."<Close><End of Block>
 <TextBlock 30 w:48 h:4>
@@ -137,8 +136,8 @@ before."<Close><End of Block>
 <TextBlock 31 w:54 h:4>
 Rank
 "It's a new model Gear,
-called <Vierge>, that's
-for officers' use only.<New>
+called '<Vierge>', for
+officers' use only.<New>
 Apparently, what that
 really means is average
 Ether ability isn't enough

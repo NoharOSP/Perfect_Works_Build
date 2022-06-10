@@ -1,8 +1,8 @@
 <TextBlock 1 w:44 h:1>
-<Opcode 14 2>W, what are you doing?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<Opcode 14 2>Wh-What are you doing?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <TextBlock 2 w:52 h:2>
-<Opcode 14 2>I don't want it!<Delay 20>
-I, I don't want to use it!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<Opcode 14 2>I don't need it!<Delay 20>
+I-I don't want to use it!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <TextBlock 3 w:16 h:2>
 <Opcode 14 2>Please!
 Go away!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
@@ -16,31 +16,31 @@ Let go of me!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <Opcode 14 2>Please!
 Stop!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <TextBlock 7 w:72 h:13>
-You have no recollection?<Delay 45>
-         There were no records on
+No recollection at all, you say?<Delay 45>
+         There were no records of
          mental enhancement drug
-         use up until now.<Delay 45>
+         use until now.<Delay 45>
 Then it was sudden.<Delay 45>
          She's probably a type that
-         can't handle the 'Drive'.<Delay 45>
+         can't handle Drive.<Delay 45>
 That probably caused her
-lapse into delerium.<Delay 45>
-     And her loss of self control?<Delay 45>
-         You mean an unconscious
+lapse into delirium.<Delay 45>
+     And her loss of self-control?<Delay 45>
+         You mean the unconscious
          burst of pent-up antipathy?
          But everyone has that.<Delay 240><Close><End of Block>
 <TextBlock 8 w:72 h:13>
 Is that why the innate
 ability is so high?<Delay 45>
-        Yes...What did the Commander
-        call those girls again?
-        Elements? It's probably 
-        higher than they are.<Delay 45>
-Then it's an instantaneous
-jump in numerical value.<Delay 45>
-        But, we can't use her as
-        a test subject in front
-        of Erich.<Delay 45>
+       Yes... What did the Commander
+       call those girls again?
+       Elements?
+       It's higher than that?<Delay 45>
+That is so, looking at the
+numbers from the event.<Delay 45>
+       But we can't use her as
+       a test subject in front
+       of Erich.<Delay 45>
 It's a pity we can't manage it...
 since there is so much potential.<Delay 240><Close><End of Block>
 <TextBlock 9 w:52 h:13>
@@ -52,7 +52,7 @@ since there is so much potential.<Delay 240><Close><End of Block>
  
  Don't worry!
  You have power worthy
- of the chosen one's.<Delay 30>
+ of the chosen ones.<Delay 30>
  
  It's those weak people's
  fault for not being able
@@ -62,9 +62,9 @@ since there is so much potential.<Delay 240><Close><End of Block>
 <Opcode 14 1>Stop it!<Delay 250><Close><End of Block>
 <TextBlock 11 w:44 h:2>
 <Opcode 14 2>Don't worry.
-It's just the 'Drive'.<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+It's only Drive.<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <TextBlock 12 w:36 h:4>
-<Opcode 14 2>The 'Drive' will
+<Opcode 14 2>The Drive will
 just readjust your
 balance and make
 you feel good.<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
@@ -77,9 +77,9 @@ top brass?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <Opcode 14 2>I don't think<Delay 40> I
 like your attitude!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <TextBlock 15 w:52 h:3>
-<Opcode 14 2>What's with your
-hair? Isn't it awfully red
-for a 1st Class citizen?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
-<TextBlock 16 w:36 h:2>
+<Opcode 14 2>What's with your hair?
+Isn't it awfully red for
+a First-Class citizen?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 16 w:40 h:2>
 <Opcode 14 2>Are you really a
-1st Class citizen?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+First-Class citizen?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
