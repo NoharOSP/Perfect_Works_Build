@@ -18,7 +18,7 @@ Maitreya
 The rest of you, stay with
 your unit but follow me!<New>
 Don't fall behind the kid!
-We're going in too!"<Close><End of Block>
+We're going in, too!"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Maitreya
 "Our job is to slow them

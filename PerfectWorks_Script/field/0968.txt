@@ -3,8 +3,8 @@ Falkon
 "Just past this line of
 ships is the flagship
 Kefeinzel!"<Close><End of Block>
-<TextBlock 2 w:54 h:4>
+<TextBlock 2 w:56 h:4>
 Falkon
-"Alright! Dodge the escort!
+"Alright! Dodged the escort!
 The ship in front of
 you is the Kefeinzel!"<Close><Close><End of Block>

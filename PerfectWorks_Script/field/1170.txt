@@ -18,7 +18,7 @@ Fei
 "Huh...?"<Close><End of Block>
 <TextBlock 5 w:30 h:4>
 Fei
-"H, hey you.
+"H-Hey, you.
 My name is Fei.
 Not Kim."<Close><End of Block>
 <TextBlock 6 w:38 h:2>
@@ -35,7 +35,7 @@ Fei
 "Hey..."<Close><End of Block>
 <TextBlock 10 w:40 h:4>
 Fei
-"Umm..Oh...
+"Umm... Oh...
 ...By the way,
 do you have a name?"<Close><End of Block>
 <TextBlock 11 w:46 h:3>
@@ -138,22 +138,22 @@ dreaming! A long long
 dream!<Close><End of Block>
 <TextBlock 31 w:50 h:3>
 Listen, listen, Kim!
-I was dreaming about 
+I was dreaming about
 really old times.<New>
 Kim was much older,
 and I was in some clear
 tube...<New>
-Kim was...putting many 
+Kim was...putting many
 candles on a white soft
 confection...<New>
 I didn't know why he
 was doing that...<New>
-But I sensed he was 
+But I sensed he was
 looking forward to me
 coming out of the tube...<Close><End of Block>
 <TextBlock 32 w:46 h:4>
 <Delay 24>...<Delay 24>
-But...soon everyone... 
+But...soon everyone...
 was gone...
 My body disappeared...<New>
 Then I was in somewhere
@@ -249,9 +249,10 @@ such a thing."<Close><End of Block>
 Maison
 "Young master, let's go
 back to the bridge."<Close><End of Block>
-<TextBlock 49 w:48 h:4>
+<TextBlock 49 w:44 h:4>
 Maison
-"Please raise your head.<New>
+"Please,
+raise your head.<New>
 My duty is to protect
 the young master. I'm
 sorry it took me so
@@ -277,17 +278,17 @@ Sigurd
 "Young master!
 The Royal Capital's
 armies are returning!<New>
-We were the ones who took
+WE were the ones who took
 the bait. We must escape
 before we get caught!<New>
 Head for the bridge as
 soon as you are through
 with your preparations!"<Close><End of Block>
-<TextBlock 54 w:48 h:4>
+<TextBlock 54 w:50 h:4>
 Shakhan...
 The more I see him, the
 more odious he gets.
-He's lost some hair too.<Close><End of Block>
+He's lost some hair, too.<Close><End of Block>
 <TextBlock 55 w:40 h:3>
 Young master!
 Don't be discouraged

@@ -7,15 +7,15 @@ Fei
 "But..."<Close><End of Block>
 <TextBlock 3 w:32 h:3>
 Fei
-"...Uahh...
-St...stop it..."<Close><End of Block>
+"Ugh...urgh...
+St-Stop it..."<Close><End of Block>
 <TextBlock 4 w:28 h:3>
 Fei
 "...St...op...
-...Uahh..."<Close><End of Block>
-<TextBlock 5 w:14 h:2>
+...Ungh..."<Close><End of Block>
+<TextBlock 5 w:16 h:2>
 Fei
-"Ah..."<Close><End of Block>
+"Agh..."<Close><End of Block>
 <TextBlock 6 w:52 h:4>
 Vanderkaum
 "You there...
@@ -31,20 +31,19 @@ What're you doing ignoring
 me and messing around...?"<Close><End of Block>
 <TextBlock 9 w:38 h:3>
 Maitreya
-"Wh...What was 
-that?
-Did he just..?!?"<Close><End of Block>
+"Wh-What was that?
+Did he just...!?"<Close><End of Block>
 <TextBlock 10 w:54 h:4>
 Maitreya
 "...Fei, gather the wounded
-up and return to the young 
+up and return to the young
 master. Hurry!<New>
 My unit will stay behind
 and try to buy some time.<New>
 All operational Gears left
 will provide cover as per
 their commanders' orders,
-and retreat in set order."<Close><End of Block>
+and retreat in sequence."<Close><End of Block>
 <TextBlock 11 w:50 h:3>
 Maitreya
 "Shut up and listen, boy!<New>
@@ -56,27 +55,27 @@ Maitreya
 "...The young master...<Delay 24>
 What he really needs
 is your strength.<New>
-Please help him.<Delay 16> 
+Please help him.<Delay 16>
 I beg you."<Close><End of Block>
 <TextBlock 13 w:34 h:3>
 Maitreya
 "Farrant! Vind!
 Let's move out!!"<Close><End of Block>
 <TextBlock 14 w:32 h:2>
-...Huh? Wha!?<Delay 32> 
+...Huh? Wha!?<Delay 32>
 Huh?... Oh-no!!"<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 General!
 General Maitreya!!<New>
-We have an R code message!
+We have an R-code message!
 I'm not sure, but it looks
 like the young master is
 in trouble!!<New>
-We don't have time 
+We don't have time
 for this junker!!"<Close><End of Block>
 <TextBlock 16 w:36 h:4>
 Fei
-"It..it's him...<Delay 24>
-why is he...
-what the hell has 
-he done???"<Close><Close><End of Block>
+"I-It's him...<Delay 24>
+Why is he...?<New>
+What the hell has
+he done!!?"<Close><Close><End of Block>

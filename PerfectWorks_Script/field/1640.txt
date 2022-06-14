@@ -4,7 +4,7 @@ Ramsus
 <TextBlock 2 w:50 h:3>
 Ramsus
 "Why are you abandoning
-this country!? <New>
+this country!?<New>
 You were supposed to help
 us create an ideal
 nation!"<Close><End of Block>
@@ -13,19 +13,21 @@ Ramsus
 "...You traitor!!!"<Opcode 2 64><Close><End of Block>
 <TextBlock 4 w:48 h:4>
 Sigurd
-"I'm not abandoning it.<New>
+"It's not that I'm
+abandoning it.<New>
 I've been living here to
 steal this country's
 technology from the
 beginning.<New>
 Besides, there's someone
 waiting for me.<Delay 16>
-Don't be bitter."<Close><End of Block>
+Don't hold a grudge."<Close><End of Block>
 <TextBlock 5 w:52 h:4>
 Sigurd
-"It wasn't too bad going
-after the same ideals with
-you, for that short time."<Close><End of Block>
+"That fleeting dream you
+all talked about...<New>
+It could do with some
+improvement."<Close><End of Block>
 <TextBlock 6 w:0 h:1>
 <End of Block>
 <TextBlock 7 w:0 h:0>

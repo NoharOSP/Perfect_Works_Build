@@ -68,9 +68,9 @@ Prepare for anti-aircraft
 battle upon surfacing!"<Close><End of Block>
 <TextBlock 19 w:46 h:4>
 Bart
-"Surface combat!
+"Surface combat team!
 Stand by with the
-anti-aircraft guns.<New>
+anti-aircraft guns!<New>
 Gunner!
 Give me the trigger
 for the Bart Bombs!"<Close><End of Block>
@@ -122,9 +122,9 @@ Bart
 "We'll go back to Nisan!"<Close><End of Block>
 <TextBlock 30 w:52 h:4>
 Bart
-"Margie and them are still
-there. We'll go back!
-We have to!<New>
+"Margie and the others are
+still there.
+We'll go back! We have to!<New>
 That reminds me...
 What about Fei and his
 guys? If they're alright,
@@ -175,7 +175,7 @@ Vance
 "I don't hear anything
 other than the surface
 wind waves and our engine.<New>
-Threat is minimal from
+Threat is minimal,
 looking at the radar
 and sonar."<Close><End of Block>
 <TextBlock 41 w:12 h:1>
@@ -233,7 +233,7 @@ They've shifted over to
 active homing!"<Close><End of Block>
 <TextBlock 49 w:38 h:4>
 Vance
-"Torpedo...1, still
+"One torpedo still
 pursuing! Dammit!
 Impact in 3!!"<Close><End of Block>
 <TextBlock 50 w:56 h:4>
@@ -242,11 +242,11 @@ twenty seconds between
 opening the hatches and
 activating azimuth controls!<Close><End of Block>
 <TextBlock 51 w:52 h:3>
-Gungany...
-No, Bart Bomb, fueling!<New>
-It'll take fifteen seconds
-from opening the hatch
-to engage the illuminator!<Close><End of Block>
+Gungn<--> I mean, Bart
+Bomb, fueling!<New>
+Fifteen seconds between
+opening the hatch and
+engaging the illuminator!<Close><End of Block>
 <TextBlock 52 w:48 h:3>
 Alternate firing between
 Anton and Bertha!<Delay 16>
@@ -270,8 +270,8 @@ really raised some
 hell at the border!<Close><End of Block>
 <TextBlock 55 w:40 h:3>
 Open jammer!
-Noisemaker, 2nd, 4th
-tube<Delay 16>...Standby!<Close><End of Block>
+Noisemaker, tubes 2
+and 4<Delay 16>...stand by!<Close><End of Block>
 <TextBlock 56 w:56 h:5>
 But first mate!
 Now with the effect-fins out
@@ -290,7 +290,7 @@ Y-Young master!!<Opcode 2 96><Close><End of Block>
 <TextBlock 60 w:48 h:3>
 Maison
 "Y-Young master!
-The Gungany Missiles...<New>
+The Gungnir missiles...<New>
 You need permission from
 more than a half of the
 crew members to..."<Opcode 2 120><Close><End of Block>
@@ -332,10 +332,10 @@ Young master!!<Opcode 2 96><Close><End of Block>
 <TextBlock 68 w:48 h:2>
 Sigurd
 "Young master! Again!!?"<Close><End of Block>
-<TextBlock 69 w:38 h:3>
+<TextBlock 69 w:28 h:3>
 Sigurd
-"Just doesn't know
-when to give up..."<Opcode 2 96><Close><End of Block>
+"...He never
+learns..."<Opcode 2 96><Close><End of Block>
 <TextBlock 70 w:54 h:4>
 Sigurd
 "We haven't heard anything

@@ -1,8 +1,7 @@
-<TextBlock 1 w:42 h:4>
+<TextBlock 1 w:48 h:4>
 Fei
 "Yeah...<Delay 32>and it's all
-due to your support.<Delay 16> 
-Thanks."<Close><End of Block>
+thanks to your support."<Close><End of Block>
 <TextBlock 2 w:42 h:4>
 Fei
 "Bart and his team...<Delay 40>
@@ -16,19 +15,19 @@ Maitreya
 "Yess! One for our side!"<Close><End of Block>
 <TextBlock 5 w:53 h:5>
 Maitreya
-"Stop the border guards?
-Hah...we destroyed them!
-Well, we've done our job!<Wait>
-I hope the others do OK!"<Close><End of Block>
+"Hold off the border
+fleet? We destroyed them!<New>
+Well, we've done our job!
+The rest is up to the
+young master..."<Close><End of Block>
 <TextBlock 6 w:52 h:4>
 Maitreya
 "Nothing.<New>
 They say no news is
-good news I guess.<New>
-My Gear doesn't have
-very good comm equipment.<Delay 32> 
-They probably did fine
-though."<Close><End of Block>
+good news, I guess.<New>
+Our Gears' comms equipment
+is not the best.<Delay 32> But I'm
+sure they'll do fine."<Close><End of Block>
 <TextBlock 7 w:30 h:2>
 Maitreya
 "What's wrong?"<Close><Close><End of Block>

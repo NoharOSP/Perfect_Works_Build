@@ -19,52 +19,54 @@ Bart
 <TextBlock 6 w:36 h:2>
 Sigurd
 "Crap! An ambush!"<Close><End of Block>
-<TextBlock 7 w:36 h:3>
+<TextBlock 7 w:34 h:3>
 Citan
-"Oh-oh...!<Delay 100>
-Where is Carl...?"<Close><End of Block>
+"Then where is
+Carl...?<Delay 100>
+...No!"<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Myyah
 "I see you are quick
 to catch on.<New>
-Ramsus should be taking
-care of all your divided
-forces out by the Nisan
-border as we speak.<New>
-Ramsus easily saw through
-your plan to use a feint
-attack by Kislev long ago.
-Don't underestimate us...<New>
-Hyuga, have you lived
-down here so long that
-your mind has slipped?<New>
+The Commander should be
+taking care of all your
+divided forces out by the
+Nisan border as we speak.<New>
+He immediately saw through
+your plan to use Kislev
+as a diversion. How naive!<New>
+Hyuga, have you lived down
+here so long that your
+mind is wasting away?<New>
 And Sigurd, who would have
-thought you would have
-joined the last survivors
-of the royal dynasty..."<Close><End of Block>
-<TextBlock 9 w:44 h:3>
+thought you would join the
+last survivors of the
+royal dynasty...?"<Close><End of Block>
+<TextBlock 9 w:46 h:4>
 Sigurd
-"Damn it...why are you
+"Damn it... Why are you
 still backing Shakhan?<New>
-What does it matter to
-you who the king is?"<Close><End of Block>
+I suppose as far as you
+people are concerned,
+anyone will do for
+ruler of a kingdom!"<Close><End of Block>
 <TextBlock 10 w:52 h:4>
 Myyah
-"Hah! You suggest the son
-of murdered King Fatima?
-He refused to cooperate!<New>
-You mean to say that now
-he wants to be our
-puppet all of a sudden?<New>
-That I don't believe...
-even coming from the mouth
-of a traitor like you.<New>
+"And...? King Fatima was
+eliminated because he ref-
+used to cooperate with us.<New>
+Would you suggest that his
+son wants to be our puppet
+at this point?<New>
+As if I would trust what I
+hear from the mouth of a
+traitor like you.<New>
 Ha ha ha... Besides,
 stupidity in puppets
 has its advantages."<Close><End of Block>
 <TextBlock 11 w:36 h:4>
 Shakhan
-"Stu, stupidity!?
+"St-Stupidity!?
 Myyah, what's that
 supposed to mean?"<Close><End of Block>
 <TextBlock 12 w:54 h:4>
@@ -75,8 +77,8 @@ protect your own position.<New>
 We don't care who is
 sitting on the throne.
 Any obedient sheep
-would be fine.<New>
-However, isn't there 
+will be fine.<New>
+But isn't there
 something that you
 still have to do?<New>
 If you will only do that,
@@ -88,7 +90,7 @@ Shakhan
 to tell me.<New>
 One must take care of
 one's own country's
-criminals personally."<Close><End of Block>
+criminals."<Close><End of Block>
 <TextBlock 14 w:36 h:4>
 Myyah
 "Then, with your
@@ -96,16 +98,18 @@ permission I shall
 take my leave..."<Close><End of Block>
 <TextBlock 15 w:32 h:3>
 Bart
-"Hey now! 
+"Hey, now! 
 Wait a minute!!"<Close><End of Block>
 <TextBlock 16 w:34 h:2>
 Myyah
 "Goodbye...<Delay 50>boys."<Close><End of Block>
 <TextBlock 17 w:48 h:4>
 Shakhan
-"You pirate...no you're
-just a sandworm. You've
-caused me enough shame.<New>
+"You, pirate...
+No, you're just
+a sandworm.<New>
+You've caused me
+enough shame.<New>
 But this is the end. You
 didn't know your place
 and now all that awaits
@@ -116,8 +120,8 @@ Shakhan
 "Wha!?"<Close><End of Block>
 <TextBlock 19 w:40 h:4>
 Maison
-"You wretched rebel,
-Shakhan!<New>
+"You wretched
+traitor, Shakhan!<New>
 Make one move and
 this gatling gun
 shall be spitting

@@ -1,6 +1,6 @@
 <TextBlock 1 w:46 h:4>
 Citan
-"This time when the 
+"This time when the
 government changes, the
 implications are huge.<New>
 We must succeed at all
@@ -18,15 +18,15 @@ If we can catch Shakhan
 we are sure to succeed."<Close><End of Block>
 <TextBlock 3 w:50 h:3>
 Citan
-"Right. When you capture 
+"Right. When you capture
 Shakhan give the signal.<New>
-It is probably best to 
-open the gate at that 
+It is probably best to
+open the gate at that
 time."<Close><End of Block>
 <TextBlock 4 w:36 h:4>
 Bart
 "Above us is the
-Castle Bailey.<New>
+castle bailey.<New>
 The keep must fall
 quickly.
 Shakhan should be
@@ -39,7 +39,7 @@ young master's father.<New>
 Try not to damage the
 castle, avoid all need-
 less combat, and above
-all, remember - speed!"<Close><End of Block>
+all, remember: speed!"<Close><End of Block>
 <TextBlock 6 w:50 h:3>
 Bart
 "That's why there are so
@@ -124,7 +124,7 @@ Bart
 'Prince Bartholomew'."<Close><End of Block>
 <TextBlock 19 w:50 h:3>
 Yes, his Highness Prince
-Bartholomew! Boy, you 
+Bartholomew! Boy, you
 certainly know a lot.<New>
 If Bartholomew was still
 alive he'd be just about
@@ -132,35 +132,35 @@ your age...<New>
 Did you know that both
 he and his family were
 killed by that Shakhan?<New>
-You won't beat me, 
+You won't beat me,
 Shakhan. I'll protect
 Av's water till I die.<New>
-In rememberance of the 
-kindness of the king and 
+In rememberance of the
+kindness of the king and
 the young prince.<Close><End of Block>
 <TextBlock 20 w:56 h:4>
-I'll protect Av's water 
-till I die. In rememberance 
-of the kindness of the king 
+I'll protect Av's water
+till I die. In rememberance
+of the kindness of the king
 and the young prince.<Close><End of Block>
 <TextBlock 21 w:50 h:3>
 Bart
-"Really? Thanks old man. 
+"Really? Thanks, old man.
 Father would be glad."<Close><End of Block>
-<TextBlock 22 w:48 h:4>
-?<Delay 50> 
-...Whaddya mean, father?
+<TextBlock 22 w:52 h:4>
+?<Delay 50>
+...Whaddya mean, 'Father'?
 Are you the son of an
 acquaintance of mine?<New>
 Wait wait, I remember...<Delay 200>
-<!><Delay 30> 
+!<Delay 30> 
 No, no, that's not it.<New>
 I don't recall the king
 having any secret sons.<Close><End of Block>
 <TextBlock 23 w:48 h:4>
 Bart
-"Sorry but I don't have 
-time to explain. You'll 
+"Sorry but I don't have
+time to explain. You'll
 remember. See ya!"<Close><End of Block>
 <TextBlock 24 w:32 h:1>
 Who was that...?<Close><End of Block>
@@ -182,10 +182,10 @@ When things calm down,
 I'll come back."<Close><End of Block>
 <TextBlock 27 w:48 h:3>
 What!? Playing in the
-reservoir again? Get up 
+reservoir again? Get up
 out of there now, boy!<Close><End of Block>
 <TextBlock 28 w:46 h:4>
 What!?
-You can't go in there! 
+You can't go in there!
 Everyone drinks from
 that water!<Close><Close><End of Block>

@@ -1,13 +1,14 @@
 <TextBlock 1 w:34 h:3>
 Vance
-"The third bridge
-...it's ruined!!"<Close><End of Block>
-<TextBlock 2 w:46 h:3>
+"Bridge 3...
+it's ruined!!"<Close><End of Block>
+<TextBlock 2 w:46 h:4>
 Vance
-"Then, damage control 
-won't be able to move!!<New>
-The hole won't be
-covered!!"<Close><End of Block>
+"But then the damage
+control team can't
+move!!<New>
+They won't be able to
+patch the hole!!"<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 The hangar section, the
 armament section, and even
@@ -27,7 +28,7 @@ Output ratio 0.5,
 operating time...500!!<Close><End of Block>
 <TextBlock 6 w:52 h:3>
 The sand pump, effect-fins
-and propulsion-drills are
+and propulsion drills are
 all out of commission!!<Close><End of Block>
 <TextBlock 7 w:38 h:2>
 Maison
@@ -43,7 +44,7 @@ completely and commence
 independent operation!!"<Close><End of Block>
 <TextBlock 10 w:38 h:3>
 Sigurd
-"That's alright!!<New>
+"Forget it!!<New>
 ...Either way, it's
 impossible to save
 the entire ship.<New>
@@ -55,11 +56,11 @@ immediately!"<Close><End of Block>
 <TextBlock 11 w:40 h:4>
 Sigurd
 "...Hyuga... No...
-you're Citan now.<New>
+you're Citan, now.<New>
 You need to get out.
 I'll have Maison
 guide you to an
-escape-pod."<Close><End of Block>
+escape pod."<Close><End of Block>
 <TextBlock 12 w:50 h:4>
 Sigurd
 "We have no right to keep
@@ -67,7 +68,7 @@ you here and get you
 involved.<New>
 ...If you see Carl and
 Myyah, make sure you
-pay'em back for me."<Close><End of Block>
+pay 'em back for me."<Close><End of Block>
 <TextBlock 13 w:50 h:3>
 Sigurd
 "Maison...
@@ -79,7 +80,7 @@ More details!"<Close><End of Block>
 <TextBlock 15 w:38 h:3>
 Citan
 "I cannot leave you
-all like this...!?"<Close><End of Block>
+all like this...!"<Close><End of Block>
 <TextBlock 16 w:45 h:11>
 <Opcode 1 255><Extra2 255><Extra2 255><Extra2 255>mapjump
 <Extra2 255><Extra2 255><Extra2 255>flying CAMERA

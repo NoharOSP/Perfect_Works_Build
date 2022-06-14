@@ -1,32 +1,33 @@
 <TextBlock 1 w:40 h:3>
 Black enemy Gear,
-inside units, stick 
-to your escort!<Close><End of Block>
+approaching inner-
+fleet guard ships!<Close><End of Block>
 <TextBlock 2 w:58 h:4>
 Roger.
 Flagship to all ships...
 You are free to fire at will!
 Let's dance!<Opcode 2 32><Close><End of Block>
-<TextBlock 3 w:44 h:3>
-All Rapid Fire Control
-Systems
-...commence operation!<Opcode 2 32><Close><End of Block>
+<TextBlock 3 w:40 h:3>
+All rapid-fire
+emplacements,
+commence operation.<Opcode 2 32><Close><End of Block>
 <TextBlock 4 w:40 h:3>
 Lay aerial mines.
-Projection pattern, 
+Projection pattern,
 mark 3!<Opcode 2 32><Close><End of Block>
 <TextBlock 5 w:38 h:2>
 How many machines
 are on air patrol!?<Opcode 2 32><Close><End of Block>
 <TextBlock 6 w:32 h:2>
-Destroyer Iltus'
+Destroyer Iltis'
 engine is down!<Opcode 2 45><Close><End of Block>
-<TextBlock 7 w:48 h:3>
-Flash signal from Luveh!
-'Luveh, rudder out, 
-rudder out, end.'<Opcode 2 64><Close><End of Block>
-<TextBlock 8 w:38 h:1>
-3 remaining allies!<Opcode 2 32><Close><End of Block>
+<TextBlock 7 w:54 h:3>
+Flash signal from the Löwe!
+ 'This is the Löwe, rudder
+  failure, rudder failure.'<Opcode 2 64><Close><End of Block>
+<TextBlock 8 w:32 h:2>
+Three allied
+Gears remaining!<Opcode 2 32><Close><End of Block>
 <TextBlock 9 w:46 h:2>
 Enemy Gear above! Enemy
 Gear diving from above!<Close><End of Block>
@@ -40,121 +41,127 @@ Vanderkaum
 "Aviation Officer, wait!"<Close><End of Block>
 <TextBlock 12 w:50 h:4>
 Vanderkaum
-"Comm officer!
+"Comms Officer!
 Change of orders.<New>
-Contact Von Hipper...
-Have the second destroyer
-squadron approach the
-enemy flank.<New>
-Open the fleet's side
-and bait them into
-entering the Kefeinzel's
-main gun's firing arc."<Close><End of Block>
+Contact Von Hipper.
+Have the 2nd Destroyer
+Squadron circle around to
+the enemy's six o'clock.<New>
+Open the fleet's flank
+and bait those Gears to
+within range of the
+Kefeinzel's main gun."<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 Vanderkaum
-"Fire control!
-Gunnery chief!
-Ready the type 3 shells.<New>
-Pull back the deck gunners
-and prepare to engage the
-Kefeinzel's main cannon...<New>
-I'll annihilate them into
-pure energy..."<Close><End of Block>
+"Firing control!
+Gunnery Chief!
+Ready the Type 3 shells.<New>
+Prepare to fire the main
+cannon and have the
+Kefeinzel's deck gunners
+take shelter.<New>
+Insects...
+The main gun will
+pulverize them..."<Close><End of Block>
 <TextBlock 14 w:50 h:3>
 Vanderkaum
 "Quiet down,
 Aviation Officer!<New>
 Thanks for your valuable
-opinion but I am in 
-charge, not you! <New>
-What use are pea shooters
-and 40 sem guns?"<Close><End of Block>
+opinion but I am in
+charge, not you!<New>
+What use is a mere 40-sem
+like Merle or a pea-
+shooter like Volforth?"<Close><End of Block>
 <TextBlock 15 w:46 h:3>
 Vanderkaum
 "Discussion over.
 Captain! Not too fast!<New>
-We don't want to leave 
+We don't want to leave
 the enemy behind."<Close><End of Block>
-<TextBlock 16 w:44 h:4>
+<TextBlock 16 w:46 h:4>
 Vanderkaum
-"That moron, Hipper!
-Pursue them, they're
-just playing with him.<New>
-You're not good enough
-to be my dog!"<Close><End of Block>
-<TextBlock 17 w:48 h:4>
+"That moron, Hipper!<New>
+He's supposed to be
+cornering the enemy,
+not playing with them!<New>
+A dog could do better!"<Close><End of Block>
+<TextBlock 17 w:50 h:4>
 Vanderkaum
-"Fire control! Gunnery 
-Chief! It hasn't fired
-a shot yet!<New>
-Range for Type 3 is
-within 500. Don't fire
-till you see the whites 
-of their eyes."<Close><End of Block>
+"Firing control! Gunnery
+Chief! Not one shot from
+the main gun yet!?<New>
+Effective range for Type
+3 shells should be 500.
+You can judge it by eye<-->
+just fire!"<Close><End of Block>
 <TextBlock 18 w:46 h:3>
 Vanderkaum
-"This whole ship!<Delay 32>
-All of you are morons!"<Close><End of Block>
+"Morons!<Delay 32> Every one of
+you in this fleet!"<Close><End of Block>
 <TextBlock 19 w:44 h:3>
 Vanderkaum
 "Idiotic! Idiotic!<Delay 32>
 What is this mess...?"<Close><End of Block>
 <TextBlock 20 w:34 h:4>
 Vanderkaum
-"Go down, dammit!<Delay 45>
-Or Ramsus will
-have my hide."<Close><End of Block>
-<TextBlock 21 w:52 h:3>
+"Take him out!<Delay 45>
+Ramsus will have
+my hide!"<Close><End of Block>
+<TextBlock 21 w:52 h:4>
 Vanderkaum
-"Fire control! Gunnery 
-Chief! What are you doing?<New>
-You're not even close!
-Are you blind?"<Close><End of Block>
+"Fire control!
+Gunnery Chief!
+What are you doing!?<New>
+You're not even close!!!!
+Are you blind!?"<Close><End of Block>
 <TextBlock 22 w:42 h:4>
 Vanderkaum
 "Right...<Delay 64>
 I still have that...
 I still have that..."<Close><End of Block>
-<TextBlock 23 w:48 h:3>
+<TextBlock 23 w:44 h:3>
 Vanderkaum
 "Yes...
 I still have that...<New>
-I still have that...yes.
+I still have that...
+don't I?
 I still have that..."<Close><End of Block>
 <TextBlock 24 w:40 h:3>
 Relay to all ships!
-Fire at will, begin 
+Fire at will! Begin
 evasive action!<New>
-But, don't let fire 
-support positions 
-collapse!<Close><End of Block>
-<TextBlock 25 w:42 h:3>
+But do not break
+co-op formation!<Close><End of Block>
+<TextBlock 25 w:46 h:3>
 Huh?<Wait>
-It's stupid!<New>
+Th-That's absurd!<New>
 There's no way the
-flagship's gun can
+flagship's main gun can
 hit speeding Gears...<Close><End of Block>
 <TextBlock 26 w:56 h:3>
-Admiral!
-What are you doing pulling
-the anti-gear gunners back!?<Close><End of Block>
-<TextBlock 27 w:30 h:2>
-(Your plan will
-never work...!)<Close><End of Block>
+Admiral!<New>
+What are you doing bringing
+the anti-Gear gunners off
+deck!?<Close><End of Block>
+<TextBlock 27 w:36 h:2>
+(This is never
+going to work...!)<Close><End of Block>
 <TextBlock 28 w:32 h:2>
 Our mobility is
 too different...<Close><End of Block>
 <TextBlock 29 w:50 h:2>
-Gears at battle speed can
-move at 2000 per hour.<Close><End of Block>
+Gears can accelerate up
+to 2000 per hour during<New>
+combat maneuvers.<Close><End of Block>
 <TextBlock 30 w:54 h:1>
 (You're the biggest moron!)<Close><End of Block>
 <TextBlock 31 w:48 h:4>
-Bogeys incoming
-vector 3-3-6!
-2 groups, about 7-8 
-machines, distance 2000!<Close><End of Block>
+Bogeys incoming, vector
+3-3-6! Two groups, about
+seven or eight machines,
+distance 2000!<Close><End of Block>
 <TextBlock 32 w:26 h:1>
-A, admiral...<Close><End of Block>
+A-Admiral...<Close><End of Block>
 <TextBlock 33 w:24 h:1>
 Forget him!!<Close><Close><End of Block>

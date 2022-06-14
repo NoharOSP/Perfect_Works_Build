@@ -13,12 +13,12 @@ connections between them
 are wasted.<New>
 We are bypassing the main
 connection and trying to
-scrape together all the 
+scrape together all the
 energy we can.<New>
 But it will only give us
 70% of our usual maximum
 power at best.<New>
-The propulsion-drills are
+The propulsion drills are
 not damaged, but if the
 sand can't be granulated
 they might as well be.<New>
@@ -33,7 +33,7 @@ Sigurd
 "Young master!"<Close><End of Block>
 <TextBlock 5 w:54 h:3>
 Sigurd
-"It sure looks that way...<New>
+"Indeed...<New>
 Perhaps they have political
 motives that involve Margie
 or the young master..."<Close><End of Block>
@@ -44,7 +44,7 @@ connections are complete.
 Use the engine as you wish."<Close><End of Block>
 <TextBlock 7 w:20 h:4>
 Bart
-"...What? 
+"...What?
 Who are
 you...?"<Close><End of Block>
 <TextBlock 8 w:42 h:3>
@@ -60,25 +60,29 @@ to say?"<Close><End of Block>
 Bart
 "...<New>
 All personnel to battle
-stations. Break through
+stations. Breakthrough
 is planned after the
 connectors are up."<Close><End of Block>
-<TextBlock 11 w:54 h:3>
+<TextBlock 11 w:54 h:4>
 Bart
 "Sig! Listen!<New>
 Surrendering isn't going to
 change Nisan's fate.<New>
-We'll lose the Yggdrasil,
-the core of our power in
-saving Av and Margie.<New>
-I know it looks bad, but
-you can still count on us!"<Close><End of Block>
-<TextBlock 12 w:54 h:3>
+We'd surely lose the
+Yggdrasil, the core of our
+power in saving Av and
+Margie.<New>
+No... Being a man of the
+desert means betting on
+hope, even if it's rash!"<Close><End of Block>
+<TextBlock 12 w:54 h:4>
 Bart
 "Sorry, Old Maison,
-I'm not dying today!!<New>
-Besides they don't look
-like they're gonna hit us."<Close><End of Block>
+but I'm not dying today!!<New>
+Besides, they're backing
+off... It looks like they
+don't really intend to
+crush us."<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 Bart
 "That's probably it, Sig!<New>
@@ -89,15 +93,15 @@ animal alive than dead!"<Close><End of Block>
 <TextBlock 14 w:42 h:2>
 Bart
 "Thanks!!<New>
-Alright let's...<Delay 16>
-go get those fools!!"<Close><End of Block>
+Alright...<Delay 16> Let's go
+get those fools!!"<Close><End of Block>
 <TextBlock 15 w:38 h:2>
 Bart
-"W, what happened?"<Close><End of Block>
+"Wh-What happened?"<Close><End of Block>
 <TextBlock 16 w:46 h:2>
 Bart
 "Is it heading...<Delay 16>here?"<Close><End of Block>
 <TextBlock 17 w:30 h:1>
 Are you strong?<Close><End of Block>
 <TextBlock 18 w:54 h:1>
-I asked, 'Are you strong?'!<Close><Close><End of Block>
+I asked, 'Are you strong!?'<Close><Close><End of Block>
