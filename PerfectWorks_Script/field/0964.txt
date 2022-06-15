@@ -112,7 +112,7 @@ enemy vessel down 60%.<New>
 engine and effect-fins
 have been disabled.<Close><End of Block>
 <TextBlock 21 w:28 h:1>
-Th-Thank you!.<Close><End of Block>
+Th-Thank you!<Close><End of Block>
 <TextBlock 22 w:56 h:4>
 Bow torpedo tubes 1 to 3,
 Namthal missiles.
