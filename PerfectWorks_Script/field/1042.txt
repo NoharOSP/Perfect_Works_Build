@@ -14,11 +14,11 @@ Suzanne
 him to you."<Close><End of Block>
 <TextBlock 4 w:30 h:3>
 Suzanne
-"Why you...!? 
+"Why, you...!
 How insolent!!"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 A man called 'Champ'
-"Thanks Suzanne.<Delay 20>
+"Thanks, Suzanne.<Delay 20>
 Hmmm, so you're the
 new inmate<Delay 5>...<New>
 We don't know or care what
@@ -27,7 +27,7 @@ but welcome to D Block<Delay 5>...<Delay 5>
 So what name do you go by?"<Close><End of Block>
 <TextBlock 6 w:36 h:4>
 Champ
-"Calm down Suzanne.
+"Easy, Suzanne.
 I don't mind<Delay 5>...<Delay 30>
 The name's Rico."<Close><End of Block>
 <TextBlock 7 w:52 h:4>
@@ -47,17 +47,17 @@ Rico
 <TextBlock 10 w:22 h:2>
 Rico
 "Leonardo!"<Close><End of Block>
-<TextBlock 11 w:18 h:2>
+<TextBlock 11 w:20 h:2>
 Rico
 "Suzanne!"<Close><End of Block>
 <TextBlock 12 w:54 h:3>
 Rico
 "Let's begin his 'Baptism'!
 Take him outside!"<Close><End of Block>
-<TextBlock 13 w:30 h:3>
+<TextBlock 13 w:32 h:3>
 Hammer
-"B,b, <Delay 5>bro-!!<Delay 15>
-Are you he-re?"<Opcode 2 45><Close><End of Block>
+"B-B-<Delay 5>Bro~!!<Delay 15>
+Are you he~re?"<Opcode 2 45><Close><End of Block>
 <TextBlock 14 w:56 h:4>
 Rue
 "Anyway...

@@ -41,7 +41,7 @@ Sigmund
 "I see."<Close><End of Block>
 <TextBlock 12 w:46 h:2>
 Sigmund
-"How can you say that?"<Close><End of Block>
+"Why do you say that?"<Close><End of Block>
 <TextBlock 13 w:28 h:4>
 Sigmund
 "Pirates?
@@ -59,10 +59,11 @@ Sigmund
 <TextBlock 17 w:14 h:2>
 Sigmund
 "What?"<Close><End of Block>
-<TextBlock 18 w:36 h:3>
+<TextBlock 18 w:36 h:4>
 Sigmund
-"Are you trying to
-destroy Kislev?"<Close><End of Block>
+"You mean bring
+destruction upon
+Kislev?"<Close><End of Block>
 <TextBlock 19 w:48 h:3>
 Sigmund
 "Indeed it would be easy
@@ -77,8 +78,8 @@ him with another puppet.<New>
 What if we exhausted our
 resources and found our-
 selves under attack?<New>
-Anyway, we must still be
-concerned with Nisan.
+And then there is Nisan
+to consider.
 There is nothing to gain
 by doing anything now.<Close><End of Block>
 <TextBlock 21 w:32 h:3>
@@ -128,14 +129,15 @@ the southern Av border.<New>
 Our data showed a large
 amount of radiation was
 released at the epicenter.<New>
-It was probably caused by
-an overload of a battleship
-class slave generator.<New>
+It was probably caused
+by an overload of a
+battleship-class slave
+generator.<New>
 The cause of this is still
 unknown.<New>
 The shockwaves from that
-explosion took out two
-thirds of the Av and 
+explosion took out two-
+thirds of the Av and
 Geburah forces combined.<New>
 Now, Av is in the process
 of regrouping their reserve
@@ -152,16 +154,20 @@ Associate
 <TextBlock 33 w:54 h:4>
 Associate
 "We know the Gear found was
-stolen from the 11th base
-by the Geburah unit in Av.<New>
-And in the investigation of
-the machine, we also caught
+the one previously stolen<New>
+from the 11th Development
+Base by the Geburah unit
+stationed in Av.<New>
+Furthermore, during the
+investigation of the
+machine, we captured
 the unconscious pilot.<New>
 The seized Gear has been
-transported to the capital.<New>
-From the circumstances, we
-believe information was
-leaked to Av."<Close><End of Block>
+transported to the Capital.<New>
+Judging from the circum-
+stances, this matter does
+not constitute a leak of
+our technology to Av."<Close><End of Block>
 <TextBlock 34 w:54 h:4>
 Associate
 "All the Gears except this

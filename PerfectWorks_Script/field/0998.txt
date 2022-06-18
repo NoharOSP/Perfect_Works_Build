@@ -15,7 +15,8 @@ First we have to clear up
 this murder case<Delay 5>..."<Close><End of Block>
 <TextBlock 4 w:50 h:3>
 Fei
-"That's right, <Delay 10>sorry doc.<New>
+"That's right...<Delay 10>
+Sorry, Doc.<New>
 I completely forgot.<Delay 15>
 I'll have to go back to
 the dorm<Delay 5>..."<Close><End of Block>
@@ -44,11 +45,11 @@ It's locked from the inside.<Opcode 2 30><Close><End of Block>
 It's locked from the inside.<Opcode 2 30><Close><End of Block>
 <TextBlock 14 w:56 h:2>
 The sun's already gone down.
-Sorry but time to go!!<Close><End of Block>
+Sorry, but time to go!!<Close><End of Block>
 <TextBlock 15 w:56 h:3>
 Gramps
 "I've some advice for you,
-youngster!<Delay 30><New>
+youngster!<New>
 Jumping from this tower is
 illegal!! Even if I know you
 I'm gonna fine you!<Delay 15><New>
@@ -88,7 +89,7 @@ Better not <Delay 5>forget it!
 I'm no pushover!"<Close><End of Block>
 <TextBlock 20 w:52 h:3>
 Gramps
-"What!<Delay 5> Youngster!!<Delay 5><New>
+"What?<Delay 5> Youngster!!<New>
 Weren't you listening?<Delay 15>
 You can't jump from here! <Delay 20>
 It's illegal!"<Close><End of Block>
@@ -150,9 +151,9 @@ Hey, business is better.<Delay 5>
 Hurry, down in the sewer!<Delay 15>
 If I get caught...<Close><End of Block>
 <TextBlock 32 w:52 h:4>
-Some advice for ya bud.
+Some advice for ya, bud.
 Don't go too far alone!
-The further you the
+The further you go the
 stronger the monsters are.<Close><End of Block>
 <TextBlock 33 w:46 h:4>
 Hey you, <Delay 15>wait a sec,
@@ -176,10 +177,10 @@ martial order. You got it?<Delay 15><New>
 So no more cleaning up.
 You'll have to find another
 way to make money.<Close><End of Block>
-<TextBlock 37 w:32 h:3>
-Hey, <Delay 5>what<Delay 5>...<Delay 5>the?<Delay 30>
-Y<Delay 5>...<Delay 5>You're the<Delay 15>
-Ch,<Delay 5> Champ!!<Close><End of Block>
+<TextBlock 37 w:34 h:3>
+Hey, <Delay 5>what the<Delay 5>...?<Delay 30>
+Y-<Delay 5>You're the<Delay 15>
+Ch-<Delay 5>Champ!!<Close><End of Block>
 <TextBlock 38 w:48 h:4>
 Rico
 "Thanks for watching the
@@ -202,7 +203,7 @@ Things posted up on walls,
 like that, on that wall<Delay 5>...<New>
 They have some stuff written
 on them.<Delay 5> There are lots
-more than that one too.<Close><End of Block>
+more besides that one, too.<Close><End of Block>
 <TextBlock 42 w:28 h:1>
 Pay attention!<Close><End of Block>
 <TextBlock 43 w:56 h:4>
@@ -238,7 +239,7 @@ treasures of the past,
 or so<Delay 5>...<Delay 5>they say.<Close><End of Block>
 <TextBlock 50 w:58 h:3>
 That's the song I wrote.<Delay 15>
-It's about the B-Info. store.<New>
+It's about the B-Info store.<New>
 We sell machine parts for
 Gears from ruins all over
 the world.<Close><End of Block>
@@ -246,7 +247,7 @@ the world.<Close><End of Block>
 I know a lot, huh?<Close><End of Block>
 <TextBlock 52 w:42 h:3>
 Hey hey, Eric<Delay 5>...<Delay 5>...!?<Delay 15>
-<Delay 5>...<Delay 5>not.
+<Delay 5>...<Delay 5>Not.
 Gimme some money!<Close><End of Block>
 <TextBlock 53 w:10 h:1>
 Cool!<Opcode 2 30><Close><End of Block>
@@ -257,8 +258,8 @@ shirt off your back.<New>
 But since he's my bodyguard
 it's no problem!<Close><End of Block>
 <TextBlock 55 w:52 h:4>
-Wonder if anythings on the
-ground?<Delay 15>
+Wonder if anything's on
+the ground?<Delay 15>
 Yeah, c'mon.
 Wanna help?<Close><End of Block>
 <TextBlock 56 w:20 h:1>
@@ -281,16 +282,16 @@ my theory the coin should
 get bigger<Delay 5>...<Delay 8>
 So, <Delay 5>it'll be worth more!<Close><End of Block>
 <TextBlock 61 w:48 h:4>
-My Adaman coin is messed
+My Adaman-coin is messed
 up now because of those
 experiments!<New>
 And the fine detail is
 all gone<Delay 5>...<Delay 30>
-Sigh<Delay 5>...<Delay 15>
+*Sigh*<Delay 5>...<Delay 15>
 It was better before!<Close><End of Block>
 <TextBlock 62 w:56 h:4>
 There are rails here.<Delay 15>
-Occasionaly a train comes
+Occasionally a train comes
 through here!<Delay 5>...<Delay 5>So<Delay 12>
 I put a coin here as a test.<Close><End of Block>
 <TextBlock 63 w:42 h:3>
@@ -339,7 +340,7 @@ Guard
 million chance to show
 your stuff!!<New>
 The dorm or the bar...
-hurry!"<Close><End of Block>
+Hurry!"<Close><End of Block>
 <TextBlock 71 w:46 h:4>
 Guard
 "This is the main town.
@@ -347,12 +348,12 @@ D Block prisoners like
 yourself can't pass."<Close><End of Block>
 <TextBlock 72 w:54 h:5>
 Guard
-"Hey, you<Delay 5>...<Delay 15>huh?<Delay 20>
-Oh it's you!
+"Hey, you<Delay 5><--><Delay 15> Huh?<Delay 20>
+Oh, it's you!
 I heard from the Imperial
 Battling Committee<Delay 5>...<New>
-I can let you through, but 
-as long as you have that 
+I can let you through, but
+as long as you have that
 bomb collar on it's no use
 trying to escape<Delay 5>...!<New>
 If you don't wanna die,
@@ -381,7 +382,7 @@ in the sewers too."<Close><End of Block>
 <TextBlock 75 w:54 h:3>
 Guard
 "We haven't had too many
-Rank A prisnoers like you.<New>
+rank A prisoners like you.<New>
 That's why the Committee
 noticed you.<New>
 This years match, it's
@@ -389,11 +390,10 @@ expected<Delay 5>...<Delay 5>
 the Champ will win though."<Close><End of Block>
 <TextBlock 76 w:54 h:5>
 Guard
-"<Delay 5>...<Delay 5>You lost to Suzanne 
-and you're only Rank B<New> 
-so there is no reason 
-for the committee to 
-notice you<Delay 5>..."<Close><End of Block>
+"<Delay 5>...<Delay 5>You lost to Suzanne and
+you're only rank B so there
+is no reason for the
+Committee to notice you<Delay 5>..."<Close><End of Block>
 <TextBlock 77 w:56 h:5>
 Guard
 "Next time you'll fight
@@ -403,11 +403,10 @@ don't get yourself killed."<Close><End of Block>
 <TextBlock 78 w:48 h:5>
 Guard
 "Are those Imperial
-capital Committee
+Capital Committee
 guys losing it?<New>
- 
 They're waiting around
-just to talk to a Rank C
+just to talk to a rank C
 prisoner about entering
 the Battling<Delay 5>...?"<Close><End of Block>
 <TextBlock 79 w:54 h:4>
@@ -418,10 +417,10 @@ it a try<Delay 5>...<Delay 5>..."<Close><End of Block>
 <TextBlock 80 w:48 h:4>
 Guard
 "Are those Imperial
-capital Committee
+Capital Committee
 guys losing it?<New>
 They're waiting around
-just to talk to a Rank C
+just to talk to a rank C
 prisoner about entering
 the Battling<Delay 5>...?"<Close><End of Block>
 <TextBlock 81 w:54 h:4>
@@ -433,7 +432,7 @@ it a try<Delay 5>...<Delay 5>..."<Close><End of Block>
 Guard
 "It's unbelievable!<New>
 The Imperial Committee
-is talking to a Rank D
+is talking to a rank D
 prisoner about entering
 the Battling.<New>
 What are they thinking?"<Close><End of Block>
@@ -494,12 +493,12 @@ Guard
 Are you a pauper<Delay 5>...?"<Close><End of Block>
 <TextBlock 92 w:60 h:4>
 Guard
-"Hahaha. <Delay 10>
-That kid's, <Delay 5>at it again.<Delay 15>
+"Hahaha.<Delay 10>
+That kid's at it again.<Delay 15>
 Do you know the kid's story?<New>
 If he squishes that coin
 it'll be worthless.<Delay 15>
-Well, <Delay 5>ignorance is bliss<Delay 5>...<Delay 5>...<New>
+Well, <Delay 5>ignorance is bliss<Delay 5>...<New>
 Besides, <Delay 5>he's never been
 successful. Gramps always
 gets mad at him.<Delay 15>
@@ -519,11 +518,11 @@ job and start Battling?"<Close><End of Block>
 <TextBlock 94 w:56 h:4>
 Guard
 "...<Delay 5>I guess you hafta do it.<Delay 10>
-But, <Delay 5>it's impossible for me.
-I'm not that type<Delay 5>...<Delay 15>sigh..."<Close><End of Block>
+But it's impossible for me.
+I'm not that type<Delay 5>...<Delay 15>*sigh*."<Close><End of Block>
 <TextBlock 95 w:56 h:4>
 Guard
-"<Delay 5>...<Delay 5>Sigh...<Delay 10>
+"<Delay 5>...<Delay 5>*Sigh*...<Delay 10>
 I've had enough of D Block.<New>
 I wanna be transferred to
 the main city.<New>
@@ -541,7 +540,7 @@ became captain<Delay 5>..."<Close><End of Block>
 <TextBlock 97 w:44 h:3>
 Guard
 "Reality, <Delay 5>it's a pain.<Delay 15>
-...<Delay 5>Sigh<Delay 5>..."<Close><End of Block>
+...<Delay 5>*Sigh*<Delay 5>..."<Close><End of Block>
 <TextBlock 98 w:20 h:3>
 Fei
 "Whoa!!
@@ -574,8 +573,8 @@ come with us<Delay 5>..."<Close><End of Block>
 <TextBlock 105 w:52 h:4>
 Fei
 "<Delay 5>...<Delay 5>This isn't going to
-be another stupid <Delay 5>'Baptism
-Ceremony'<Delay 5> is it?"<Close><End of Block>
+be another stupid <Delay 5>Baptis-
+mal Ceremony,<Delay 5> is it?"<Close><End of Block>
 <TextBlock 106 w:30 h:3>
 Amazoness
 "Hey,<Delay 5> hey,<Delay 15>
@@ -602,11 +601,11 @@ Amazoness
 "<Delay 5>...<Delay 5>Not here.
 Let's go somewhere else.<Delay 15>
 Come, <Delay 5>follow me."<Close><End of Block>
-<TextBlock 112 w:34 h:4>
+<TextBlock 112 w:36 h:4>
 Citan
 "It seems we have
 no choice.<Delay 15>
-Shall we go Fei?"<Close><End of Block>
+Shall we go, Fei?"<Close><End of Block>
 <TextBlock 113 w:52 h:4>
 Citan
 "Please wait a moment!<Delay 20>
@@ -620,21 +619,22 @@ Well, <Delay 5>let us we go
 to the arena."<Close><End of Block>
 <TextBlock 115 w:50 h:3>
 Fei
-"That's right, <Delay 10>sorry doc,
-I completely forgot.<Delay 15><New>
+"That's right...<Delay 10>
+Sorry, Doc.<New>
+I completely forgot.<Delay 15>
 I'll have to go back to
 the dorm<Delay 5>..."<Close><End of Block>
-<TextBlock 116 w:26 h:3>
+<TextBlock 116 w:28 h:3>
 Fei
-"S<Delay 5>...<Delay 5>sir!<Delay 15>
-Aww shoot<Delay 5>..."<Close><End of Block>
+"S-<Delay 5>Sir!<Delay 15>
+Aww, shoot<Delay 5>..."<Close><End of Block>
 <TextBlock 117 w:56 h:3>
 Fei
-"<Delay 5>...<Delay 5>Sorry, doc.<Delay 30>
+"<Delay 5>...<Delay 5>Sorry, Doc.<Delay 30>
 This is the sewer entrance."<Close><End of Block>
 <TextBlock 118 w:36 h:3>
 Fei
-"Hey, <Delay 5>doc<Delay 5>...<Delay 15>
+"Hey, <Delay 5>Doc<Delay 5>...<Delay 15>
 what should I do?"<Close><End of Block>
 <TextBlock 119 w:52 h:4>
 Citan
@@ -652,11 +652,11 @@ What does that say<Delay 5>...<Delay 5>?"<Opcode 2 60><Close><End of Block>
 'We are closed for today.
 Exchange money tomorrow!
                  B-Info'<Close><End of Block>
-<TextBlock 123 w:44 h:4>
+<TextBlock 123 w:46 h:4>
 Fei
 "<Delay 5>...<Delay 15>
-What<Delay 5> even he sleeps at
-night?<Delay 5>...Let's see."<Close><End of Block>
+What,<Delay 5> even he sleeps at
+night?<Delay 5> ...Let's see."<Close><End of Block>
 <TextBlock 124 w:52 h:3>
 Citan
 "<Delay 5>...<Delay 5>Fei.<Delay 15>
@@ -666,18 +666,18 @@ hour will wake everyone.
 Stop it!"<Close><End of Block>
 <TextBlock 125 w:48 h:3>
 Fei
-"Oh, sorry doc.<Delay 15><New>
+"Oh, sorry, Doc.<New>
 He's so noisy during the
 day, I was gonna play a
 trick on him<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 126 w:54 h:4>
 Citan
-"You always do what ever
+"You always do whatever
 you like<Delay 5>...<Delay 5>
 Let us hurry.<New>
 The time is getting closer.<Delay 15>
 We do not have time to
-lolly gag around."<Close><End of Block>
+lollygag around."<Close><End of Block>
 <TextBlock 127 w:48 h:3>
 Citan
 "<Delay 5>...<Delay 5>Fei<Delay 15>
@@ -687,7 +687,7 @@ here shortly.<Delay 15>
 <Delay 5>...<Delay 5>We must hurry."<Close><End of Block>
 <TextBlock 128 w:42 h:4>
 Fei
-"Oh, sorry doc.
+"Oh, sorry, Doc.
 <Delay 5>...<Delay 5>Let's hurry to the
 observation tower."<Close><End of Block>
 <TextBlock 129 w:46 h:4>
@@ -697,16 +697,16 @@ I guess the door isn't
 fixed yet<Delay 5>..."<Close><End of Block>
 <TextBlock 130 w:54 h:11>
 <Opcode 1 255>Information, finding items,
-trouble, we can help you
+trouble<-->I can help you
 with anything. Come on by
-'Latina's Bar' in D Block!
+Latina's Bar in D Block!
 I know when there's a
 customer for me just from
 their face. Legal or other,
-anything's OK! 'Latina's
-Bar' is the building with
+anything's okay! Latina's
+Bar is the building with
 all the flashy lights.
--Supplier Hammer<Close><End of Block>
+   - Hammer, the Supplier -<Close><End of Block>
 <TextBlock 131 w:50 h:4>
 Fei
 "<Delay 5>...<Delay 5>Huh?
@@ -715,10 +715,10 @@ underneath."<Close><End of Block>
 <TextBlock 132 w:60 h:4>
 <Opcode 1 255>From now...
 I will be working out of the
-Battling arena!<New>
+Battling Arena!<New>
 Prisoners needing to contact
 me, address letters or notes
-to: 'D Block, Num O. Hammer.' 
+to: Hammer's Mailbox, D Block.
      - Hammer, the Mechanic -<Close><End of Block>
 <TextBlock 133 w:48 h:3>
 Fei
@@ -743,17 +743,17 @@ What's this<Delay 5>...?"<Close><End of Block>
 <Opcode 1 255>          - WANTED! -
 - Sewer Monster Exterminators -
 We're looking for Battlers to
-clean up the ever increasing
+clean up the ever-spreading
 sewer monsters in our D Block!
 For more info contact the
-'B-Info. Center' in this block.
+B-Info Center in this block.
 Prisoners not assigned to
 anything else will be forced
 to do this.
 No work, no food...
          - Imperial Committee -
                    and
-            - B-Info. Center -<Close><End of Block>
+            - B-Info Center -<Close><End of Block>
 <TextBlock 138 w:50 h:3>
 Fei
 "No work, no food?<New>
@@ -762,9 +762,9 @@ Guess I'll be down in the
 sewer<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 139 w:56 h:10>
 <Opcode 1 255>
-- Public Execution of -
-- the former Champion -
-Tonight, 'Ricardo Banderas'
+  - Public Execution of -
+  - the former Champion -
+ Tonight, Ricardo Banderas
   will be executed at the
 Battling Arena for violation
  of Imperial Code section B
@@ -776,7 +776,7 @@ The former Champion may be
    outcome of the battle.
     The opponent will be
    declared at the arena.
-       -Imperial Committee -<Close><End of Block>
+      - Imperial Committee -<Close><End of Block>
 <TextBlock 140 w:54 h:14>
 <Opcode 1 255>- Mystery Sewer Homicides -
 This morning another
@@ -788,67 +788,67 @@ late at night and fought
 with a mysterious monster.
 This is the fourth victim.
 In order to clear this up,
-Suzanne, Rank A, has been
+Suzanne, rank A, has been
 ordered to deal with the
 mysterious monster.
     - Imperial Committee -<Close><End of Block>
 <TextBlock 141 w:56 h:11>
-<Opcode 1 255>-Results of the
-Battling Finals.-
-Three time Champ,
+<Opcode 1 255>   - Results of the  -
+   - Battling Finals -
+Three-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
-a Rank A criminal.
+a rank A criminal.
 He went from prisoner to
-Battler. A first time
+Battler. A first-time
 participant, he even beat
 the invincible Champ through
 skillful Gear piloting!<Close><End of Block>
 <TextBlock 142 w:56 h:11>
-<Opcode 1 255>-Results of the
-Battling Finals.-
-Three time Champ,
+<Opcode 1 255>   - Results of the  -
+   - Battling Finals -
+Three-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
-a Rank B criminal.
+a rank B criminal.
 He went from prisoner to
-Battler. A first time
+Battler. A first-time
 participant, he even beat
 the invincible Champ through
 skillful Gear piloting!<Close><End of Block>
 <TextBlock 143 w:56 h:11>
-<Opcode 1 255>-Results of the
-Battling Finals.-
-Three time Champ,
+<Opcode 1 255>   - Results of the  -
+   - Battling Finals -
+Three-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
-a Rank C criminal.
+a rank C criminal.
 He went from prisoner to
-Battler. A first time
+Battler. A first-time
 participant, he even beat
 the invincible Champ through
 skillful Gear piloting!<Close><End of Block>
 <TextBlock 144 w:56 h:11>
-<Opcode 1 255>-Results of the
-Battling Finals.-
-Three time Champ,
+<Opcode 1 255>   - Results of the  -
+   - Battling Finals -
+Three-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
-a Rank C criminal.
+a rank C criminal.
 He went from prisoner to
-Battler. A first time
+Battler. A first-time
 participant, he even beat
 the invincible Champ through
 skillful Gear piloting!<Close><End of Block>
 <TextBlock 145 w:56 h:11>
-<Opcode 1 255>-Results of the
-Battling Finals.-
-Three time Champ,
+<Opcode 1 255>   - Results of the  -
+   - Battling Finals -
+Three-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
-a Rank D criminal.
+a rank D criminal.
 He went from prisoner to
-Battler. A first time
+Battler. A first-time
 participant, he even beat
 the invincible Champ through
 skillful Gear piloting!<Close><End of Block>
@@ -863,23 +863,23 @@ Fei
 anywhere<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 148 w:46 h:3>
 Gramps
-"<Delay 5>...<Delay 15><Opcode 1 255>Even so
+"<Delay 5>...<Delay 15><Opcode 1 255>Even so,
 that's the way it is!!"<Close><End of Block>
 <TextBlock 149 w:52 h:4>
 Fei
 "Jeez,<Delay 5> you don't have
 to get so mad.<Delay 15>
 I didn't know.<New>
-So hey, tell me something,<Delay 15>
-what is this?"<Close><End of Block>
+So hey, tell me something.<Delay 15>
+What is this?"<Close><End of Block>
 <TextBlock 150 w:40 h:4>
 Gramps
 "<Delay 5>...<Delay 5>Might as well.<Delay 15>
-It's the Observation
-Tower."<Close><End of Block>
+It's the observation
+tower."<Close><End of Block>
 <TextBlock 151 w:46 h:3>
 Fei
-"Observation Tower?<Delay 15>
+"Observation tower?<Delay 15>
 What are you watching?"<Close><End of Block>
 <TextBlock 152 w:44 h:3>
 Gramps

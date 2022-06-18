@@ -1,13 +1,13 @@
 <TextBlock 1 w:52 h:3>
 Fei
 "<Delay 5>...<Delay 15>
-The outskirts of D-Block?"<Close><End of Block>
+The outskirts of D Block?"<Close><End of Block>
 <TextBlock 2 w:52 h:4>
 Hammer
 "Oh, I forgot to tell you!<New>
-The Battling Arena is on 
-the outskirts of D-Block.<Delay 15>
-Talk to the guard and he 
+The Battling Arena is on
+the outskirts of D Block.<Delay 15>
+Talk to the guard and he
 should let you pass. Bye!"<Close><End of Block>
 <TextBlock 3 w:36 h:3>
 Hammer
@@ -15,7 +15,7 @@ Hammer
 News!"<Opcode 2 45><Close><End of Block>
 <TextBlock 4 w:48 h:4>
 Hammer
-"The new doctor who was 
+"The new doctor who was
 appointed today has just
 arrived!"<Close><End of Block>
 <TextBlock 5 w:36 h:3>
@@ -30,14 +30,14 @@ arrived!"<Close><End of Block>
 <TextBlock 7 w:48 h:4>
 I know you're being
 pursued, but relax!
-Here in D-Block nobody
+Here in D Block nobody
 turns on the Champ.<New>
-'mongst the inmates of
-Noatun's D-Block, the
-Battling Champion is 
+Amongst the inmates of
+Noatun's D Block, the
+Battling Champion is
 THE absolute sovereign.<New>
 If any of the Imperial
-capital's officials
+Capital's officials
 come nosing about, no
 prisoner's gonna squeal!<Close><End of Block>
 <TextBlock 8 w:54 h:4>
@@ -80,14 +80,14 @@ straight ahead.
 The place with the neon
 sign is the bar!<Close><End of Block>
 <TextBlock 12 w:58 h:4>
-Ahh, the 'Kislev Sewers'!
+Ahh, the Kislev Sewers!
 Why not see for yourself!
 Go out the west door and
 climb the ladder<Delay 5>...<New>
 Then once you're on the roof,
 the ladder you can see to
 the northwest descends into
-the 'Kislev Sewers'!<Close><End of Block>
+the Kislev Sewers!<Close><End of Block>
 <TextBlock 13 w:50 h:3>
 You'll know it by the guy
 standing watch near the
@@ -101,17 +101,17 @@ Hey, what's the trouble?
 <TextBlock 16 w:56 h:4>
 The lady doctor of the dorm!
 They say she got put in
-charge of A-Block!<Delay 15> ...<Delay 5>She
-wasn't downstairs was she?<Close><End of Block>
+charge of A Block!<Delay 15> ...<Delay 5>She
+wasn't downstairs, was she?<Close><End of Block>
 <TextBlock 17 w:54 h:4>
-A-Block's the civilian area
-of the Imperial capital
-Noatun. That's quite a 
+A Block's the civilian area
+of the Imperial Capital,
+Noatun. That's quite a
 step up for one so young!<New>
 As a replacement, it looks
 like we will be getting a
 new doctor to look after
-us in D-Block!<Close><End of Block>
+us in D Block!<Close><End of Block>
 <TextBlock 18 w:60 h:1>
 If you get stuck, just ask me!<Close><End of Block>
 <TextBlock 19 w:48 h:3>
@@ -141,7 +141,7 @@ Today's earnings weren't so
 great<Delay 5>...<Delay 5><New>
 Boy I wish there was a whole
 nest of monsters somewhere,<Delay 5>
-then I'd have it made!<Delay 5> Huh!<Close><End of Block>
+then I'd have it made!<Delay 5> Heh!<Close><End of Block>
 <TextBlock 25 w:56 h:4>
 A body of one of the Champ's
 immediate subordinates was
@@ -161,17 +161,17 @@ you fought against it too!?<Close><End of Block>
 You're quite a fighter,
 aren't you!?<Close><End of Block>
 <TextBlock 28 w:54 h:4>
-I hear the Imperial capital
+I hear the Imperial Capital
 bigwigs are searching to
-question the former champ.<New>
+question the former Champ.<New>
 I guess it's because of the
 rumors about assassinating
 the Kaiser. I can't wait to
 hear how this turns out!<Close><End of Block>
 <TextBlock 29 w:62 h:4>
 It seems that after the bout,
-the former champ's Gear moved
-on it's own accord and crashed 
+the former Champ's Gear moved
+of its own accord and crashed
 right into the Kaiser's stand!<New>
 The pilot, Rico, was not found
 within the Gear, so they put
@@ -182,16 +182,16 @@ Another murder in the sewers!<Delay 15>
 This time it was Vargas<Delay 5>...!<Delay 5>
 What in blazes is going on!?<Close><End of Block>
 <TextBlock 31 w:44 h:2>
-Say, didn't you<Delay 5>...<Delay 30>
+Say, didn't you<Delay 5>...<Delay 30>?
 <Delay 5>...<Delay 5>Nothing, forget it!<Close><End of Block>
 <TextBlock 32 w:58 h:4>
 <Delay 5>...<Delay 5>Soon they will start the
-Battling Imperial Games that
+Imperial Battling Games that
 will be watched by the Kaiser
 himself<Delay 5>...<Delay 5> Right then's<Delay 5>...<Close><End of Block>
 <TextBlock 33 w:54 h:4>
 Yeah<Delay 5>...<Delay 5>errh<Delay 5>...<Delay 5>
-right then's our chance! <Delay 15>
+right then's our chance!<Delay 15>
 We'll use a Gear<Delay 5>...<Delay 5>and make
 it look like an accident<Delay 5>...<Close><End of Block>
 <TextBlock 34 w:4 h:1>
@@ -200,14 +200,14 @@ it look like an accident<Delay 5>...<Close><End of Block>
 <Opcode 1 255>What's with you!? Get lost!!<Close><End of Block>
 <TextBlock 36 w:54 h:4>
 Due to the sewer monster
-commotion, they made it off
+commotion, they made it off-
 limits!<Delay 5> How are we supposed
 to work now?<Delay 5> Damn it!<Close><End of Block>
 <TextBlock 37 w:56 h:5>
 That entrance watchman<Delay 5>...<Delay 5>
--the nerve of the bastard!-
-<Delay 5>...<Delay 5>said he wouldn't let me
-in unless I slip him some
+The nerve of the bastard!
+Said he wouldn't let me in
+unless I slip him some
 money! That makes me seethe!<Close><End of Block>
 <TextBlock 38 w:56 h:6>
 I'm a wandering Battler<Delay 5>...!<Delay 5>
@@ -222,22 +222,22 @@ I came here to participate
 in the Battling matches they
 will be holding here soon.<New>
 It seems I got here a tad
-bit too early!
+too early!
 Sooo, now what am I to do?<Close><End of Block>
 <TextBlock 40 w:54 h:5>
-I'm a wandering Battler. <Delay 15>
+I'm a wandering Battler.<Delay 15>
 This town's now in a tumult
 over a sewer monster.<Delay 15>
 They say that two expert
 Battlers got killed!<New>
 It seems they were well
-known around here too!<Delay 15>
-And to think, both killed!<Delay 15>
-Must of been some creature!<Delay 15>
+known around here, too!<Delay 15>
+And to think<-->both killed!<Delay 15>
+Must've been some creature!<Delay 15>
 Ohh, heaven forbid!<Close><End of Block>
 <TextBlock 41 w:56 h:3>
-What, you want the run-down?
-    Narh, not interested.
+What, you want the rundown?
+    Nah, not interested.
     Yeah, spare no details!<Close><End of Block>
 <TextBlock 42 w:34 h:1>
 <Delay 5>...<Delay 5>Suit yourself!<Close><End of Block>
@@ -252,45 +252,44 @@ D Block is just one of them.
 It serves as a giant prison.<Close><End of Block>
 <TextBlock 45 w:56 h:4>
 A Block's the general town
-area, while B Block is the 
+area, while B Block is the
 industrial area.<New>
 C Block houses recreational
-facilities, including the 
+facilities, including the
 Imperial Capital's biggest
-'Battling Arena' .<New>
-Gear faces Gear in bouts of 
-single combat - that's what
+Battling Arena.<New>
+Gear faces Gear in bouts of
+single combat<-->that's what
 'Battling' is all about!<New>
 And lastly, there is the
-'Central Area', from where
-Kaiser Sigmund rules over 
+Central Area, from where
+Kaiser Sigmund rules over
 the whole Kislev Empire.<Close><End of Block>
 <TextBlock 46 w:56 h:5>
 There's a rumor that, behind
 the scenes, the Church is
 actually involved with the
-B-Info. Center.<New>
-Officially the Battling
-Committee is run by the
-Imperial capital,<New> 
-but it too is rumored 
-to be an agent of the 
-Church of the Ethos.<Close><End of Block>
+B-Info Center.<New>
+And the Battling Committee<-->
+though officially run by the
+Imperial Capital<-->it too is
+rumored to be an agent of
+the Church.<Close><End of Block>
 <TextBlock 47 w:58 h:1>
 Of course this is all gossip!<Close><End of Block>
 <TextBlock 48 w:54 h:3>
 There's talk that recently
 the Champ himself conducted
-a 'Baptismal Ceremony'.<New>
-I don't know whether it's 
-true, but I feel for which
+a Baptismal Ceremony.<New>
+I don't know whether it's
+true, but I feel for which-
 ever prisoner received it!<Close><End of Block>
 <TextBlock 49 w:54 h:3>
 Hmm<Delay 5>...<Delay 5>but then again<Delay 5>...<Delay 5>
 it might have been Suzanne.<Delay 15>
 Or,<Delay 5> hold on,<Delay 5> was it Vargas?<Opcode 2 60><Close><End of Block>
 <TextBlock 50 w:52 h:4>
-And to think, the entrance
+And to think the entrance
 watchman helped him out so
 much.<Delay 15> I bet the watchman's
 taking it badly!<Close><End of Block>
@@ -302,11 +301,11 @@ of the Champ, but he was a
 skilled extermination worker!<Close><End of Block>
 <TextBlock 52 w:56 h:5>
 I'm a Battler in training,
-with Prisoner Rank C!<Delay 15>
+with prisoner rank C!<Delay 15>
 Looky here, today's menu is
 <Delay 5>...<Delay 5>wooh!<Delay 5> ...<Delay 5>'Stamina Uppen'!<New>
 Whahow! If I eat this up,
-I'll increase my stamina 
+I'll increase my stamina
 and before you know it 
 I'll be a Battle Master!<Delay 30>
 <Delay 5>...<Delay 5>I hope that happens!<Close><End of Block>
@@ -314,7 +313,7 @@ I'll be a Battle Master!<Delay 30>
 <*> Note: That won't happen!<Opcode 2 45><Close><End of Block>
 <TextBlock 54 w:56 h:5>
 I'm a Battler in training,
-with Prisoner Rank C!<Delay 15>
+with prisoner rank C!<Delay 15>
 Goody-goody, today's menu is
 <Delay 5>...<Delay 5>wooh!<Delay 5>...<Delay 5>'Ether Omega'!<New>
 Whahow! When I eat this, my
@@ -325,13 +324,13 @@ I'll be an Ether Master!<Delay 30>
 <TextBlock 55 w:53 h:1>
 <*> Note: That won't happen!<Opcode 2 45><Close><End of Block>
 <TextBlock 56 w:56 h:5>
-In 'Battling', men and women
+In Battling, men and women
 are called different names.<Delay 5>
-Generally, males are called 
+Generally, males are called
 'Battlers', while females
 are called 'Amazonesses'.<Close><End of Block>
 <TextBlock 57 w:52 h:4>
-Male or female doesn't 
+Male or female doesn't
 matter on the battlefield!
 Strength is everything!
 Only the strong survive!<Close><End of Block>
@@ -339,7 +338,7 @@ Only the strong survive!<Close><End of Block>
 A while back, an airborne
 battleship was stolen from
 the military facility north
-of the Imperial capital.<New>
+of the Imperial Capital.<New>
 Later, contact was lost
 with it somewhere above
 the seas around Aquvy.<Close><End of Block>
@@ -347,7 +346,7 @@ the seas around Aquvy.<Close><End of Block>
 I can understand someone
 stealing Gear parts from
 the military facility near
-the capital, but a whole
+the Capital, but a whole
 flying battleship?
 That's going a bit too far!<Close><End of Block>
 <TextBlock 60 w:56 h:3>
@@ -355,7 +354,7 @@ Who would have thought that
 someone could beat Ricardo,
 Battling's undefeated Champ!<New>
 I don't mean disrespect
-to the new champion, but
+to the new Champion, but
 I just don't believe it!<Close><End of Block>
 <TextBlock 61 w:62 h:1>
 Sorry, forget I ever said that!<Close><End of Block>
@@ -364,25 +363,25 @@ The sewer monster commotion
 was solved by the efforts of
 Rico, our Champ, and the off
 limits order was lifted!<New>
-But, I heard the Champ was
+But I heard the Champ was
 wounded in the arm while
 exterminating the monster.<New>
-Not suprising seeing that 
+Not surprising seeing that
 five Battlers got killed!<Close><End of Block>
 <TextBlock 63 w:56 h:3>
 In this town, when you take
 proof of extermination of
-sewer monsters to 'B-Info.',<New>
+sewer monsters to B-Info,<New>
 they will exchange it for G,
 the currency of this world.
 It'll pay to remember this!<Close><End of Block>
 <TextBlock 64 w:58 h:4>
 Probably went to the bar...?
-But isn't it unusual for the 
-Imperial capital's bigwigs
+But isn't it unusual for the
+Imperial Capital's bigwigs
 to come to D block!?<Close><End of Block>
 <TextBlock 65 w:58 h:3>
-<Delay 5>...<Delay 5>The Imperial capital's
+<Delay 5>...<Delay 5>The Imperial Capital's
 Battling Committee members?
 Hmm, don't see them here now.<New>
 There was a group of three
@@ -401,33 +400,33 @@ some sad memory<Delay 5>...<Close><End of Block>
 <TextBlock 68 w:56 h:3>
 <Delay 5>...<Delay 5>Huh? That means he's even
 more powerful than our
-current champ<Delay 5>...<Delay 5>doesn't it?<Close><End of Block>
+current Champ<Delay 5>...<Delay 5>doesn't it?<Close><End of Block>
 <TextBlock 69 w:58 h:3>
 Then that's no good at all!
 It's only made matters worse!<Delay 15>
 Oh, how I want more power<Delay 5>...<Delay 5>!<Close><End of Block>
 <TextBlock 70 w:54 h:4>
-<Delay 5>...<Delay 5>The Champ's strength is 
+<Delay 5>...<Delay 5>The Champ's strength is
 incredible. If only someone
 would defeat the Champ<Delay 5>...<Delay 5>
 then I might have a chance.<Close><End of Block>
 <TextBlock 71 w:56 h:4>
 They say there was another
 victim found this morning!
-That makes five<Delay 5>...<Delay 5>and Rank
-A too!<New>
+That makes five<Delay 5>...<Delay 5>and rank
+A, too!<New>
 I can't believe that
 it was Suzanne, one of the
 Champ's famous gang members!<Close><End of Block>
 <TextBlock 72 w:54 h:3>
 Nothing like this has ever
-happened up until now!
-Hey, aren't you THAT guy...<Close><End of Block>
+happened up until now! Hey,
+aren't you THAT guy...?<Close><End of Block>
 <TextBlock 73 w:48 h:1>
 Err, nothing, forget it.<Close><End of Block>
 <TextBlock 74 w:58 h:4>
 Our food is famous throughout
-the Imperial capital!<New>
+the Imperial Capital!<New>
 Especially our dishes cooked
 according to Ether theory,
 like 'Boosta Limit' and
@@ -437,7 +436,7 @@ A or B, so you can only have
 one or the other.<New>
 And it differs
 with the individual,
-but they are said to bring 
+but they are said to bring
 about remarkable effects!<Close><End of Block>
 <TextBlock 75 w:44 h:4>
 Why do you leave food
@@ -447,12 +446,12 @@ then don't order it!<Close><End of Block>
 <TextBlock 76 w:14 h:1>
 Haahh!!<Opcode 2 30><Close><End of Block>
 <TextBlock 77 w:44 h:3>
-<Delay 5>...<Delay 5>You shouldn't just 
+<Delay 5>...<Delay 5>You shouldn't just
 walk into the kitchen.<Delay 10>
 That's bad manners!<Close><End of Block>
 <TextBlock 78 w:56 h:2>
 Oh no you don't!<Delay 10> The kitchen
-is off limits to prisoners!<Close><End of Block>
+is off-limits to prisoners!<Close><End of Block>
 <TextBlock 79 w:58 h:5>
 Cooking requires love that
 is deeper than the seas! And
@@ -481,7 +480,7 @@ you always eat the same food
 then you'll grow sick of it!<New>
 So I think you've had enough
 already. If you eat too much
-you'll become a 'fatso'!<Close><End of Block>
+you'll become a fatso!<Close><End of Block>
 <TextBlock 85 w:56 h:4>
 I tell ya, if you eat that
 much you'll become a fatty!<Delay 15>
@@ -496,10 +495,10 @@ he wants from 'ze menu yet?
 'Ze menu is on ze pillar
 to your right. We 'ave two
 coursez: ze daily specialz
-and ze dishez a'la rank!<Close><End of Block>
+and ze dishez a la rank!<Close><End of Block>
 <TextBlock 88 w:52 h:4>
 Which would Monsieur like?
-    Dishes a 'la rank
+    Dishes a la rank
     The daily special
     Nothing now, I'm full!<Close><End of Block>
 <TextBlock 89 w:54 h:6>
@@ -528,7 +527,7 @@ One 'HeavyWeighter' pleeze!<Close><End of Block>
 Monsieur wantz to be ze supa
 fatzo, yez? Not recommended
 for ze slim body, here iz ze
-'HeavyWeighter'. Bon appetite!<Close><End of Block>
+'HeavyWeighter'. Bon appetit!<Close><End of Block>
 <TextBlock 96 w:40 h:1>
 One moment pleeze<Delay 5>...<Close><End of Block>
 <TextBlock 97 w:54 h:2>
@@ -559,7 +558,7 @@ We take one Grueger, divine
 beast of lore (fibber!), and
 deep fry it so it iz crizpy
 and spizy. Here you are, my
-little goumet connoisseur!<Close><End of Block>
+little gourmet connoisseur!<Close><End of Block>
 <TextBlock 105 w:40 h:1>
 One moment pleeze<Delay 5>...<Close><End of Block>
 <TextBlock 106 w:52 h:2>
@@ -574,12 +573,12 @@ wiz each individual.<Close><End of Block>
 One moment pleeze<Delay 5>...<Close><End of Block>
 <TextBlock 109 w:52 h:2>
 We 'ave 'ze order!<Delay 15>
-One 'Nortuna Fish' pleeze!<Close><End of Block>
+One 'Noatuna Fish' pleeze!<Close><End of Block>
 <TextBlock 110 w:56 h:4>
 Ze delicacy of ze Imperial
-capital, 'Nortuna Fish' iz
+Capital, 'Noatuna Fish' iz
 said to increase ze wisdom
-(I pull ze legz, no?). Here!<Close><End of Block>
+(I pull ze legz, no?) Here!<Close><End of Block>
 <TextBlock 111 w:40 h:1>
 One moment pleeze<Delay 5>...<Close><End of Block>
 <TextBlock 112 w:50 h:2>
@@ -606,7 +605,7 @@ One moment pleeze<Delay 5>...<Close><End of Block>
 We 'ave 'ze order!<Delay 15>
 One 'Thunder Gruel' pleeze!<Close><End of Block>
 <TextBlock 119 w:58 h:5>
-Made wiz ze Lightning Radish
+Made wiz ze lightning radish
 and rice mashed into a gruel,
 zis iz good for ze diet!
 Plenty of ze nutrition for
@@ -619,7 +618,7 @@ One 'Mightymite' pleeze!<Close><End of Block>
 <TextBlock 122 w:56 h:5>
 Increasez ze defenze ability
 against Ether and phyzical
-attacks. Ze length of ze 
+attacks. Ze length of ze
 effects iz a secret! Anway,
 here iz your 'Mightymite'!<Close><End of Block>
 <TextBlock 123 w:40 h:1>
@@ -630,42 +629,42 @@ One 'Baste Grand' pleeze!<Close><End of Block>
 <TextBlock 125 w:54 h:4>
 'Baste Grand' iz ze supreme
 apex of all gastronomy!
-You must taste it once 
+You must taste it once
 before you die...!<Close><End of Block>
 <TextBlock 126 w:46 h:2>
 Make sure you eat well!
 You need ze nutrition!<Close><End of Block>
 <TextBlock 127 w:54 h:2>
-Certainly ze prisoner must 
+Certainly ze prisoner must
 need ze nutrition, no?<Close><End of Block>
 <TextBlock 128 w:52 h:2>
 We're having a bit of 
 trouble with this door!<New>
 Sorry, but could you use
-the door on the west side!<Close><End of Block>
+the door on the west side?<Close><End of Block>
 <TextBlock 129 w:48 h:3>
 It's not that difficult
 a problem!<Delay 10> We'll have it
 fixed in a little while!<Close><End of Block>
 <TextBlock 130 w:54 h:3>
-This door is under repairs.<Delay 15>
+This door is under repair.<Delay 15>
 Sorry, but would you mind
-using the door to the west.<Close><End of Block>
+using the door to the west?<Close><End of Block>
 <TextBlock 131 w:56 h:7>
-Today's "Dishes a'la Rank": 
+Today's "Dishes a la Rank":
   Rank A - Battlin Steak
   Rank B - HeavyWeighter
   Rank C - Stamina Uppen
   Rank D - Fried Grueger
-  Special of the Day: 
+  Special of the Day:
   Mightymite<Close><End of Block>
 <TextBlock 132 w:56 h:7>
-Today's "Dishes a'la Rank": 
+Today's "Dishes a la Rank":
   Rank A - Boosta Limit
-  Rank B - Nortuna Fish
+  Rank B - Noatuna Fish
   Rank C - Ether Omega
   Rank D - Thunder Gruel
-  Special of the Day: 
+  Special of the Day:
   Baste Grand<Close><End of Block>
 <TextBlock 133 w:30 h:3>
 <Perso1>
@@ -701,14 +700,14 @@ brimming with power!"<Close><End of Block>
 how it tastes."<Close><End of Block>
 <TextBlock 141 w:56 h:3>
 <Perso1>
-"D,d,divine beast of lore?<Delay 10>
+"D-D-Divine beast of lore?<Delay 10>
 <Delay 5>...<Delay 5>Sure don't taste divine!"<Close><End of Block>
-<TextBlock 142 w:44 h:2>
+<TextBlock 142 w:46 h:2>
 <Perso1>
-"Which shall I try<Delay 5>..."<Close><End of Block>
+"Which shall I try<Delay 5>...?"<Close><End of Block>
 <TextBlock 143 w:44 h:3>
 <Perso1>
-"Can food really have 
+"Can food really have
 such an effect<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 144 w:30 h:3>
 <Perso1>
@@ -716,8 +715,8 @@ such an effect<Delay 5>...<Delay 5>?"<Close><End of Block>
 how it tastes."<Close><End of Block>
 <TextBlock 145 w:54 h:3>
 <Perso1>
-"My body <Delay 5>...<Delay 5> The air <Delay 5>...<Delay 5>
-Time <Delay 5>...<Delay 15> Everything is <Delay 5>..."<Close><End of Block>
+"My body<Delay 5>...<Delay 5> The air<Delay 5>...<Delay 5>
+Time<Delay 5>...<Delay 15> Everything is<Delay 5>..."<Close><End of Block>
 <TextBlock 146 w:56 h:3>
 <Perso1>
 "Mmm, quite nice! But I sure
@@ -728,11 +727,11 @@ don't see any change<Delay 5>...<Delay 5>!<Close><End of Block>
 how it tastes."<Close><End of Block>
 <TextBlock 148 w:54 h:3>
 <Perso1>
-"Nortune's local delicacy?<Delay 15>
+"Noatun's local delicacy?<Delay 15>
 Mmm,<Delay 5> fishy,<Delay 5> but delicious!"<Close><End of Block>
-<TextBlock 149 w:44 h:2>
+<TextBlock 149 w:46 h:2>
 <Perso1>
-"Which shall I try<Delay 5>..."<Close><End of Block>
+"Which shall I try<Delay 5>...?"<Close><End of Block>
 <TextBlock 150 w:48 h:3>
 <Perso1>
 "I feel encircled<Delay 5>...<Delay 5>
@@ -743,7 +742,7 @@ by a mysterious energy!"<Close><End of Block>
 how it tastes."<Close><End of Block>
 <TextBlock 152 w:54 h:3>
 <Perso1>
-"Rad<Delay 5>...<Delay 5>as I expected,<Delay 5>
+"Rad<Delay 5>...<Delay 5> As I expected,<Delay 5>
 this is pretty darn spicy!"<Close><End of Block>
 <TextBlock 153 w:30 h:3>
 <Perso1>
@@ -759,25 +758,25 @@ Citan
 Hold on a second!"<Opcode 2 45><Close><End of Block>
 <TextBlock 156 w:50 h:4>
 Fei
-"What is it doc?<Delay 15>
+"What is it, Doc?<Delay 15>
 Last night you said we
 should act separately<Delay 5>..."<Close><End of Block>
 <TextBlock 157 w:50 h:4>
 Citan
 "Yes I know I did.
-But there is something 
+But there is something
 that I am curious about!<New>
 I shall join you in going
 to the Battling Arena.
-Is it not too late to
-split up after that?"<Close><End of Block>
+We can still split up
+after that, can we not?"<Close><End of Block>
 <TextBlock 158 w:50 h:3>
 Fei
 "<Delay 5>...?<Delay 5> Well<Delay 5>...<Delay 5>whatever!<Delay 15>
 Anyway, let's get going!"<Close><End of Block>
 <TextBlock 159 w:40 h:4>
 Hammer
-"Huff, huff, huff<Delay 5>...<Delay 5>
+"*Huff, huff*<Delay 5>...<Delay 5>
 I just finished
 signing you up!"<Close><End of Block>
 <TextBlock 160 w:48 h:3>
@@ -814,31 +813,31 @@ that I don't know about?"<Close><End of Block>
 <TextBlock 165 w:52 h:4>
 Hammer
 "<Delay 5>...<Delay 5>Huh?
-N,n,no! N,nothing! 
-N,n,nothing at all!<New>
+N-N-No! N-Nothing! 
+N-N-Nothing at all!<New>
 The mechanic of champions,
 me, has had his sins wiped
 clean so there is nothing
-to be suspect of! Hahaha!"<Close><End of Block>
+to be suspicious of! Heh!"<Close><End of Block>
 <TextBlock 166 w:28 h:2>
 Fei
 "Hmm, really?"<Close><End of Block>
 <TextBlock 167 w:50 h:4>
 Hammer
 "What do you mean?
-I told you there is 
+I told you there is
 nothing at all!<New>
-Oooh! 
-I've got a lot to do, so 
+Oooh!
+I've got a lot to do, so
 I'll go on ahead of you!"<Close><End of Block>
 <TextBlock 168 w:26 h:4>
 Fei
 "Oh<Delay 5>...<Delay 5>!<Delay 5>
 Hey<Delay 5>...<Delay 5>!<Delay 5>
-W,w,wait<Delay 5>...<Delay 5>!"<Close> <Close><End of Block>
+W-Wait<Delay 5>...<Delay 5>!"<Close><Close><End of Block>
 <TextBlock 169 w:40 h:4>
 Fei
-"What are you up to.
+"What are you up to?
 Not saying where
 you're going to<Delay 5>...<Delay 5>"<Opcode 2 15><Close><End of Block>
 <TextBlock 170 w:54 h:3>
@@ -864,21 +863,21 @@ You didn't know bro?<New>
 The previous lady doctor got
 transferred to look after
 the civilian sector of town!<New>
-Makes you envious, huh!<Delay 15>
+Makes you envious, huh?<Delay 15>
 So's we gets a new doctor to
-look after D block. 
+look after D Block. 
 They say he just got here!"<Close><End of Block>
 <TextBlock 174 w:54 h:3>
 Fei
 "...The new doctor, eh?<Delay 10><New>
 So, what on earth has this
-new doctor got to do with 
+new doctor got to do with
 you, the great 'supplier'?"<Close><End of Block>
 <TextBlock 175 w:56 h:4>
 Hammer
-"What are you talking about
-bro?<Delay 15> Of course I have
-everything to do with him!<New>
+"What are you talking about,
+bro?<Delay 15> Of course he has
+everything to do with me!<New>
 If I become chums with him,
 I can expand my connections
 by establishing black market
@@ -906,8 +905,8 @@ Fei
 "Oh,<Delay 5> errh, sorry!"<Close><End of Block>
 <TextBlock 181 w:52 h:4>
 Fei
-"After you left, the doc 
-wanted to pay the courtesy 
+"After you left, the doc
+wanted to pay the courtesy
 of burying the monster...<New>
 So I waited for him outside
 the sewer entrance."<Close><End of Block>
@@ -927,7 +926,7 @@ Rico
 And I guess the
 out-of-bounds order on the
 sewers was lifted straight
-after that too <Delay 5>...<New>
+after that too<Delay 5>...<New>
 Anyway, my allying with you
 ends here<Delay 5>...<Delay 5>
 The next time we meet,<Delay 5> Fei,<Delay 5>
@@ -945,7 +944,7 @@ to Battle in that state!"<Close><End of Block>
 <TextBlock 187 w:54 h:4>
 Rico
 "<Delay 5>...<Delay 30>
-Can you really afford to 
+Can you really afford to
 worry about your opponent?"<Close><End of Block>
 <TextBlock 188 w:30 h:2>
 Fei
@@ -958,7 +957,7 @@ Give me your best fight!"<Close><End of Block>
 <TextBlock 190 w:54 h:4>
 Rico
 "If you don't do your best,<Delay 20>
-you could be the one who 
+you could be the one who
 dies..."<Close><End of Block>
 <TextBlock 191 w:28 h:3>
 Fei
@@ -984,14 +983,14 @@ Fei
 Citan
 "Does his arm wound bother
 you that much?<Delay 30> Fei, you
-realize we don't have<Delay 5>..."<Close><End of Block>
+realize we do not have<-->"<Close><End of Block>
 <TextBlock 196 w:56 h:4>
 Fei
-"I know doc<Delay 5>...<Delay 5>
+"I know, Doc<Delay 5>...<Delay 5>
 we don't have much time to
 spare!<New>
 What's more, what he says is
-right - you shouldn't hold
+right<-->you shouldn't hold
 back in a battle.<Delay 10> Etiquette
 dictates a true fight!"<Close><End of Block>
 <TextBlock 197 w:54 h:4>
@@ -1019,22 +1018,22 @@ Fei
 Citan
 "Does his arm wound bother
 you that much?<Delay 30> Fei, you
-realize we do not have<Delay 5>..."<Close><End of Block>
+realize we do not have<-->"<Close><End of Block>
 <TextBlock 201 w:56 h:4>
 Fei
-"I know doc<Delay 5>...<Delay 5>
+"I know, Doc<Delay 5>...<Delay 5>
 we don't have much time to
 spare!<New>
 What's more, what he says is
-right - you shouldn't hold
+right<-->you shouldn't hold
 back in a battle.<Delay 10> Etiquette
 dictates a true fight!"<Close><End of Block>
 <TextBlock 202 w:54 h:4>
 Citan
 "It seems I was overly
 concerned.<Delay 15>
-Anyway, let's rest up now.<New>
+Anyway, let us rest up now.<New>
 Remember, you must win up
 to the Finals League first.<Delay 15>
-And the Champ is not the 
+And the Champ is not the
 only one you have to beat!"<Close><Close><End of Block>

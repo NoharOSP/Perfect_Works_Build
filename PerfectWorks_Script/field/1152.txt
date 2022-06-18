@@ -10,34 +10,32 @@ since news of him
 ceased.<New>
 According to the reports
 from the memory cubes,<New>
-he is currently in the 
-Kislev Imperial capital,
+he is currently in the
+Kislev Imperial Capital,
 Noatun.<Close><End of Block>
 <TextBlock 4 w:26 h:3>
 Abominable<Delay 5>...<Delay 5>
 Abominable<Delay 5>...<Delay 5>
 Abominable<Delay 5>...<Close><End of Block>
 <TextBlock 5 w:44 h:4>
-If not for his 
-presence,<New>
-Lambs <Delay 5> would not 
-have become 'Animus'.
-500 years since the
-Day of Collapse.<New>
-It ended, without
-our choosing it,<New>
-by troublesome means
-similar to the
-present case.<Close><End of Block>
+If only he had not
+existed, the Lambs<Delay 5>
+would not have become
+Animus.<New>
+The Day of Collapse,
+500 years ago.<New>
+We would not have had
+to do things in the
+troublesome way we do
+now.<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 The excavation of the
-'Vessels of Anima'<New>
-is proceeding 
-smoothly in all 
-areas.<New>
-Reminiscing at
-this late hour will
-not change the facts.<Delay 10><New>
+Vessels of Anima is
+proceeding smoothly in
+all areas.<New>
+Reminiscing at this late
+hour will not change the
+facts.<New>
 However, the future
 is in our hands to
 calculate.<Close><End of Block>
@@ -48,110 +46,100 @@ Eliminate<Delay 5>...<Close><End of Block>
 <TextBlock 8 w:38 h:4>
 Although in this
 case we do not know
-the route by which 
+the route by which
 it was carried,<New>
 the activation of
 the Gatekeeper
 was unexpectedly
 fortunate.<Close><End of Block>
-<TextBlock 9 w:34 h:2>
-From the 'Church 
-of Ethos'?<Delay 10>
+<TextBlock 9 w:34 h:3>
+From the Church 
+of the Ethos?<Delay 10>
 Or perhaps<Delay 5>...<Close><End of Block>
-<TextBlock 10 w:36 h:2>
+<TextBlock 10 w:36 h:3>
 It does not matter
 which.<Delay 10>
 However<Delay 5>...<Close><End of Block>
-<TextBlock 11 w:34 h:4>
-You mean...<New>
-Ignas' equilibrium
-must not be
-broken.<Close><End of Block>
+<TextBlock 11 w:36 h:4>
+You mean...Ignas'
+equilibrium must
+not be broken.<Close><End of Block>
 <TextBlock 12 w:36 h:3>
-The earth is 
-after all the 
-earth.<New>
-That is 
-a land of 
+The surface is,
+after all, the
+surface.<New>
+That is a land of
 uncleanliness.<Close><End of Block>
-<TextBlock 13 w:28 h:2>
+<TextBlock 13 w:28 h:3>
 That is no
-more than an 
+more than an
 excuse.<Close><End of Block>
 <TextBlock 14 w:36 h:3>
-It is a 
-justifiable
-reason.<Delay 10><New>
-If presented this, 
-Cain too would 
-have no
-objections.<Close><End of Block>
+It is a legitimate
+reason.<New>
+Cain himself would
+have no objection
+to it.<Close><End of Block>
 <TextBlock 15 w:40 h:4>
-But we cannot use 
-the 'Key of 
-Goetia'.<Delay 10><New>
-Not until the
-inevitable time.<Close><End of Block>
-<TextBlock 16 w:44 h:3>
+But we cannot use
+the 'Key of Goetia'.<Delay 10>
+Not until the fated
+hour.<Close><End of Block>
+<TextBlock 16 w:44 h:4>
 The 3rd Fleet is in
-Breidablik.<New>
-Its remaining 
-troops should be 
-sufficient.<Close><End of Block>
+Breidablik.
+Its remaining troops
+should be sufficient.<Close><End of Block>
 <TextBlock 17 w:28 h:2>
-Ramsus' fleet, 
+Ramsus' fleet,
 then.<Delay 10>
 The orders?<Close><End of Block>
 <TextBlock 18 w:50 h:4>
 A purge.<New>
-Do not tell him 
-the true intent.<New>
-It is obvious that 
-he would act 
-outside our orders 
-if he knew.<Close><End of Block>
+Do not tell him the true
+intent. It is obvious
+that he would act outside
+our orders if he knew.<Close><End of Block>
 <TextBlock 19 w:32 h:4>
-However, to raze 
-the entire 
+However, to raze
+the entire
 Noatun area...<New>
-Would so little 
-military power not 
-be insufficient?<Close><End of Block>
+Would so little
+military power
+not be
+insufficient?<Close><End of Block>
 <TextBlock 20 w:46 h:4>
 There is an ancient
-nuclear reactor in 
-Noatun.<New>
-We will 
-use that.<New>
-The half-life is 
+nuclear reactor in
+Noatun.
+We will use that.<New>
+The half-life is
 1000 years. <New>
 Nothing will be able to
 live within 300 kelts
-of it. Just as 
-before.<New>
+of it. Just as before.<New>
 However, people
 survived despite that.<New>
-Our flesh. Such a 
+Our flesh. Such a
 minor thing will
 not overcome it.<Close><End of Block>
 <TextBlock 21 w:30 h:3>
-But HE at 
-least must be 
+But HE at
+least must be
 eliminated.<Close><End of Block>
 <TextBlock 22 w:46 h:4>
-Yes.<Delay 5><New>
+Yes.<Delay 5>
 There is nothing left
-there that we must
-obtain. Disposal is
-in order.<Close><End of Block>
-<TextBlock 23 w:20 h:3>
-If it is to 
-be a direct 
+there that we require.
+Disposal is in order.<Close><End of Block>
+<TextBlock 23 w:22 h:3>
+If it is to
+be a direct
 strike<Delay 5>...<Close><End of Block>
-<TextBlock 24 w:24 h:1>
+<TextBlock 24 w:22 h:1>
 Then<Delay 5>...<Close><End of Block>
-<TextBlock 25 w:44 h:1>
-Let us set down 
+<TextBlock 25 w:38 h:1>
+Let us set down
 the order.<Close><End of Block>
 <TextBlock 26 w:42 h:4>
 Disobedience<Delay 5>...<Delay 5><New>
@@ -1556,7 +1544,7 @@ This is my 'Ark Plan'.<Delay 5>...<Delay 10>
 Or in other words, <Delay 5>Project<Delay 5>
 Noah<Delay 5>!"<Close><End of Block>
 <TextBlock 280 w:28 h:1>
-K<Delay 5>...<Delay 5>Re<Delay 5>...<Delay 5>Li<Delay 5>...<Delay 5><Close><End of Block>
+Ka<Delay 5>...<Delay 5>re<Delay 5>...<Delay 5>l<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 281 w:50 h:4>
 Karellen
 "With this, all that 

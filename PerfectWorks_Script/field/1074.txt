@@ -38,17 +38,18 @@ Masked Woman
 "He's rather busy now.
 I was assigned to be
 his representative."<Close><End of Block>
-<TextBlock 12 w:48 h:3>
+<TextBlock 12 w:48 h:4>
 Masked Woman
 "I've told you before.<New>
 I simply wish to observe
 what is in store for the
 world.<New>
-There are so many things
-you people must know.
-I am merely your guide.<New>
+There are still so many
+things your people must
+learn. I am merely your
+guide.<New>
 I cannot directly assist
-you. How you use it is
+you. How you use this is
 entirely up to you."<Close><End of Block>
 <TextBlock 13 w:30 h:4>
 Masked Woman
@@ -66,10 +67,11 @@ Hah hah hah."<Close><End of Block>
 <TextBlock 16 w:26 h:2>
 Sigmund
 "Is that it?"<Close><End of Block>
-<TextBlock 17 w:48 h:3>
+<TextBlock 17 w:32 h:4>
 Sigmund
-"That man...what was it?
-Grahf? Is he around?"<Close><End of Block>
+"That man...
+Grahf, was it?
+Is he around?"<Close><End of Block>
 <TextBlock 18 w:50 h:3>
 Sigmund
 "I will ask you this
@@ -92,7 +94,7 @@ its pilot to D Block..."<Close><End of Block>
 <TextBlock 22 w:50 h:3>
 Sigmund
 "I don't know either.<New>
-...But, we still owe them
+...But we still owe them
 a favor. We just can't
 deny them. So see to it!"<Close><End of Block>
 <TextBlock 23 w:34 h:2>

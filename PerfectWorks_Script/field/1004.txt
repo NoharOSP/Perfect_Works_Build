@@ -9,8 +9,8 @@ Fei
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 3 w:46 h:3>
 Suzanne
-"R<Delay 10>...<Delay 5>ridiculous...<Delay 30> Even
-I lost to you<Delay 5>..."<Close><End of Block>
+"R-<Delay 5>Ridiculous...<Delay 30>
+Even I lost to you<Delay 5>..."<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Suzanne
 "Although he was able to
@@ -32,16 +32,17 @@ to the likes of 'im..."<Close><End of Block>
 <TextBlock 8 w:46 h:3>
 Heinrich
 "Guh,<Delay 5> uuhh<Delay 5>...<Delay 15> How could
-I have<Delay 5>...<Delay 5>"<Close><End of Block>
+I have<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 9 w:50 h:3>
 Heinrich
 "Hahaha. We'll talk again
 when you can beat me."<Close><End of Block>
-<TextBlock 10 w:42 h:4>
+<TextBlock 10 w:48 h:4>
 Leonardo
-"To have lost to
-someone who's just
-recovered<Delay 5>...<Delay 15>Sadness."<Close><End of Block>
+"To have lost to someone
+who's only just out of
+their hospital bed...<New>
+Sadness."<Close><End of Block>
 <TextBlock 11 w:48 h:4>
 Leonardo
 "Hunh!<Delay 5> No no!!<Delay 15> You ain't
@@ -75,7 +76,7 @@ promised a certain amount
 of freedom<Delay 5>..."<Close><End of Block>
 <TextBlock 15 w:42 h:3>
 Rico
-"Then,<Delay 15> let the fights
+"Then<Delay 15> let the fights
 begin<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 16 w:40 h:3>
 Rico
@@ -83,17 +84,18 @@ Rico
 will be Leonardo."<Close><End of Block>
 <TextBlock 17 w:40 h:3>
 Rico
-"Hmph.
-How's the next one?"<Close><End of Block>
+"Hmph. How about the
+next one?"<Close><End of Block>
 <TextBlock 18 w:38 h:4>
 Rico
 "That wasn't even a
 match<Delay 5>...<Delay 5>
 Your rank is D!!"<Close><End of Block>
-<TextBlock 19 w:40 h:3>
+<TextBlock 19 w:40 h:4>
 Rico
 "Hmmm, entertaining.
-How's the next one?"<Close><End of Block>
+How about the next
+one?"<Close><End of Block>
 <TextBlock 20 w:34 h:3>
 Rico
 "Is that all<Delay 5>...?<Delay 5>
@@ -111,12 +113,12 @@ Rico
 Your rank is C!!"<Close><End of Block>
 <TextBlock 23 w:50 h:4>
 Rico
-"You've defeated all 4<Delay 5>...<Delay 25>
-Hah, this is an
-unexpected outcome. <New>
+"You've defeated all
+four<Delay 5>...<Delay 25> Hah, this is an
+unexpected outcome.<New>
 Let me give you the
-special treatment. I,
-myself, will be your
+special treatment.
+I, myself, will be your
 final opponent."<Close><End of Block>
 <TextBlock 24 w:34 h:3>
 Rico
@@ -142,7 +144,7 @@ Rico
 <TextBlock 29 w:44 h:4>
 Rico
 "<Delay 5>...<Delay 5>A bit tough.
-Well, a win is a win. 
+Well, a win is a win.
 Your rank is A."<Close><End of Block>
 <TextBlock 30 w:40 h:4>
 Rico
@@ -155,7 +157,7 @@ Rico
 one thing<Delay 5>..."<Close><End of Block>
 <TextBlock 32 w:54 h:4>
 Rico
-"That's what I'd like to
+"...is what I'd like to
 say<Delay 5>...<Delay 5>but even we have
 some compassion.<New>
 We'll give you some time<Delay 5>...<Delay 15>
@@ -184,7 +186,7 @@ have much patience."<Close><End of Block>
 Suzanne
 "<Delay 5>...<Delay 5>Champ.
 He's ready<Delay 15>...for his
-'Baptismal Ceremony'."<Close><End of Block>
+Baptismal Ceremony."<Close><End of Block>
 <TextBlock 36 w:36 h:3>
 Rico
 "Hmph,<Delay 5> then<Delay 15> let it

@@ -32,22 +32,22 @@ I'm looking forward to
 this!"<Close><End of Block>
 <TextBlock 7 w:18 h:3>
 Fei
-"Guh<Delay 30>.... <Delay 30>
+"Guh<Delay 30>...<Delay 30>
 gah<Delay 30>...<Delay 30>"<Close><End of Block>
 <TextBlock 8 w:26 h:2>
 Fei
-"N<Delay 30>...<Delay 30>, no<Delay 30>.<Delay 10>.<Delay 10>.<Delay 10>"<Close><End of Block>
+"N-<Delay 30>No<Delay 30>.<Delay 10>.<Delay 10>.<Delay 10>"<Close><End of Block>
 <TextBlock 9 w:24 h:4>
 Fei
 "No<Delay 30>...<Delay 30> I<Delay 30>...<Delay 30> 
-won't<Delay 30>... <Delay 30>
+won't<Delay 30>...<Delay 30>
 fight!"<Close><End of Block>
 <TextBlock 10 w:22 h:3>
 Fei
-"Guh<Delay 30>...<Delay 30> uh,<Delay 30>
-uh<Delay 30>...<Delay 30>"<Close><End of Block>
+"Guh<Delay 30>...<Delay 30>ugh,<Delay 30>
+urrgh<Delay 30>..."<Close><End of Block>
 <TextBlock 11 w:34 h:1>
 ...Outta the way!<Close><End of Block>
 <TextBlock 12 w:30 h:2>
 Fei
-"...<Delay 30> I<Delay 60>... I<Delay 30>...<Delay 30>"<Close><Close><End of Block>
+"I<Delay 60>... I<Delay 30>...<Delay 30>"<Close><Close><End of Block>
