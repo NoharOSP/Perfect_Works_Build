@@ -482,6 +482,16 @@ Yggdrasil IV:
 
 All deathblow learning rates (sans Emeralda) have been doubled to minimize grinding and in case the encounters patch has been applied. Elly's has been changed to 8 from 3 so that players have more time to get her deathblows for plot related reasons.
 
+## Glitches:
+
+### Fast text:
+- Going through Ramsus' introductory scene too quickly will freeze the game (legacy glitch from the original patch)
+
+### Items/spells:
+- If Divvy Up is used immediately after it's been used, it's effect will stack onto other party members (will not effect the rest of the game).
+
+### Script:
+- Texture issue with Fatima Castle's library (will not effect the rest of the game). Will be fixed when the patcher is released.
 
 ## Credits:
 ### Production management:
