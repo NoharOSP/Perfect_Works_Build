@@ -41,11 +41,11 @@ It will be relayed directly
 to the Hecht's pilots.<Close><End of Block>
 <TextBlock 8 w:16 h:2>
 Elly
-"But..."<Close><End of Block>
+"But<-->"<Close><End of Block>
 <TextBlock 9 w:52 h:5>
 Your only concern is to
 protect the Hecht from
-the enemy's anti-aircraft 
+the enemy's anti-aircraft
 weapons. <Delay 60>
 Any problems with that?<Close><End of Block>
 <TextBlock 10 w:44 h:3>
@@ -55,7 +55,7 @@ if that's the case..."<Opcode 2 30><Close><End of Block>
 <TextBlock 11 w:28 h:1>
 Anything else?<Close><End of Block>
 <TextBlock 12 w:50 h:4>
-...Then this ends the 
+...Then this ends the
 main briefing.<New>
 Confirm terrain, weather
 and enemy defense details
@@ -70,14 +70,14 @@ remind you that this
 mission is a purge.<New>
 Remember, we have
 complete authority
-over the Lambs.<Delay 60> 
+over the Lambs.<Delay 60>
 Dismissed.<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Strachey
 "This sucks, Lieutenant.<New>
 How can we go along with
 this? What's he mean the
-objective is none of our 
+objective is none of our
 concern?"<Close><End of Block>
 <TextBlock 14 w:28 h:3>
 Elly

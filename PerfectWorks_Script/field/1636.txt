@@ -51,47 +51,42 @@ Karellen
 Citan
 "If it does not
 come to pass...?"<Close><End of Block>
-<TextBlock 9 w:34 h:3>
+<TextBlock 9 w:34 h:4>
 Citan
-"Yes.<Delay 10><New>
-Twice<Delay 5>...<Delay 5>or<Delay 5>...<Delay 12>more
-accurately
+"Yes.<Delay 10> Twice<Delay 5>...<Delay 5>or
+more accurately,
 three times."<Close><End of Block>
 <TextBlock 10 w:50 h:3>
 Citan
 "His whereabouts have not
 been verified."<Close><End of Block>
-<TextBlock 11 w:50 h:3>
+<TextBlock 11 w:48 h:4>
 Citan
-"If I may inquire,<New>
-why was he sent to
-such a place as this...? <Delay 45>
-Are the Elders......"<Close><End of Block>
+"If I may inquire, why
+was he sent to such a
+place as this...?<New>
+Are the Elders...?"<Close><End of Block>
 <TextBlock 12 w:18 h:2>
 Citan
 "Then..."<Close><End of Block>
-<TextBlock 13 w:40 h:4>
+<TextBlock 13 w:42 h:4>
 Citan
-"It is somewhat
-hasty to dispose
-of him now.<New>
-I do not believe it
-is so late that we
-cannot wait<New>
-until his
-purpose becomes
-clear."<Close><End of Block>
-<TextBlock 14 w:32 h:2>
+"It is somewhat hasty
+to dispose of him
+now.<New>
+I believe we can
+afford to confirm his
+intentions first."<Close><End of Block>
+<TextBlock 14 w:40 h:3>
 Citan
-"As you command.<New>
-Well then, 
-I will......"<Close><End of Block>
+"As you command.
+Well then, I will<-->"<Close><End of Block>
 <TextBlock 15 w:32 h:3>
 Citan
 "What is it...?"<Close><End of Block>
 <TextBlock 16 w:46 h:3>
 Citan
-"...<Delay 32>And, what is their
+"...<Delay 32>And what is their
 order...?"<Close><End of Block>
 <TextBlock 17 w:38 h:4>
 Citan
@@ -138,7 +133,7 @@ come to pass..."<Close><End of Block>
 Emperor
 "Then by fate's hand,
 as ever, we..."<Close><End of Block>
-<TextBlock 23 w:26 h:3>
+<TextBlock 23 w:28 h:3>
 Emperor
 "So he has 
 awakened...?"<Close><End of Block>
@@ -151,32 +146,31 @@ Emperor
 <TextBlock 26 w:50 h:4>
 Emperor
 "Nay.
-They desire a
-more immediate disposal.<New>
-That is not unreasonable.<Delay 32>
-He is the object of a
-'fear' etched into
-their memories"<Close><End of Block>
+They desire a more
+immediate disposal.<New>
+Which is understandable.<Delay 32>
+He is an object of 'fear'
+etched into the depths
+of their memories."<Close><End of Block>
 <TextBlock 27 w:28 h:4>
 Emperor
-"Yes. <Delay 12>
+"Yes.<Delay 12>
 It is likely."<Close><End of Block>
-<TextBlock 28 w:32 h:3>
+<TextBlock 28 w:36 h:3>
 Emperor
 "If that is your
-judgment,<New>
-so shall it be
-done"<Close><End of Block>
+judgment, so shall
+it be done."<Close><End of Block>
 <TextBlock 29 w:36 h:2>
 Emperor
 "Wait a moment..."<Close><End of Block>
 <TextBlock 30 w:26 h:3>
 Emperor
 "...I see..."<Close><End of Block>
-<TextBlock 31 w:36 h:3>
+<TextBlock 31 w:48 h:3>
 Emperor
 "Their decision...<Delay 23>
-is handed down..."<Close><End of Block>
+has been handed down..."<Close><End of Block>
 <TextBlock 32 w:32 h:4>
 Emperor
 "So this is your

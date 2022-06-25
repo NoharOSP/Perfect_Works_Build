@@ -171,11 +171,12 @@ think you won't win."<Close><End of Block>
 Hammer
 "What was all that
 about!? He disappeared
-like the w, w, wind!<Opcode 2 90><Close><End of Block>
-<TextBlock 22 w:46 h:3>
+like the w-w-wind!<Opcode 2 90><Close><End of Block>
+<TextBlock 22 w:46 h:4>
 Hammer
-"I've only known you
-since you arrived here!<New>
+"I don't know anything
+about Bro before he
+arrived here!<New>
 What is this Av
 tournament?"<Opcode 2 90><Close><End of Block>
 <TextBlock 23 w:40 h:2>
@@ -190,22 +191,23 @@ learned anything have
 you?"<Opcode 2 45><Close><End of Block>
 <TextBlock 26 w:18 h:2>
 Hammer
-"Yikes!?"<Opcode 2 45><Close><End of Block>
+"Yikes!"<Opcode 2 45><Close><End of Block>
 <TextBlock 27 w:46 h:4>
 Rico
-"<Delay 5>...<Delay 5><Stier>. 
-This is the last<Delay 5>...<Delay 30>
+"<Delay 5>...<Delay 5><Stier>.
+This will end it<Delay 5>...<Delay 30>
 Hang in there with me!"<Close><End of Block>
-<TextBlock 28 w:46 h:2>
+<TextBlock 28 w:34 h:2>
 Rico
-"<Delay 5>...<Delay 5>Get him, myself<Delay 5>...<Delay 5>"<Close><End of Block>
+"<Delay 5>...<Delay 5>By my hand,<Delay 5>
+he'll be..."<Close><End of Block>
 <TextBlock 29 w:34 h:2>
 Fei
-"...Is that all?"<Close><End of Block>
+"...Just these?"<Close><End of Block>
 <TextBlock 30 w:50 h:4>
 Hammer
 "Yep.<Delay 20>
-This is the best that can
+It's the best that can
 be obtained 'round here."<Close><End of Block>
 <TextBlock 31 w:50 h:3>
 Fei
@@ -223,13 +225,12 @@ Hammer
 Master Rico's Gear is a
 special make of Gear
 provided by the Committee.<New>
-From maintainence to parts,
+From maintainance to parts,
 it receives the best of
 everything.<New>
-As long as money is
-involved, the Champ will go
-all out.<New>
-That's one of the reasons
+No expense spared<-->that's
+just how the Champ is.<New>
+It's one of the reasons
 he's so powerful<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 34 w:40 h:3>
 Fei
@@ -240,7 +241,7 @@ Fei
 "Who's there!?"<Close><End of Block>
 <TextBlock 36 w:38 h:2>
 Wiseman
-"Long time<Delay 5>...<Delay 15> Fei."<Close><End of Block>
+"Long time<Delay 5>...<Delay 15>Fei."<Close><End of Block>
 <TextBlock 37 w:36 h:4>
 Fei
 "You're the one<Delay 5>...<Delay 15>
@@ -250,51 +251,53 @@ tournament<Delay 5>...<Delay 5>"<Close><End of Block>
 Fei
 "What do you want?<Delay 10>
 I'm busy right now!"<Close><End of Block>
-<TextBlock 39 w:42 h:4>
+<TextBlock 39 w:46 h:4>
 Wiseman
 "Hmph.<New>
 No matter how high
-quality your Gear may
-be, you won't be able
+the Gear's performance,
+you wouldn't be able
 to defeat him."<Close><End of Block>
 <TextBlock 40 w:32 h:3>
 Fei
-"Wh,<Delay 5> what're you
+"Wh-<Delay 5>What're you
 talking about!?"<Close><End of Block>
 <TextBlock 41 w:4 h:1>
 !?<Close><End of Block>
 <TextBlock 42 w:46 h:4>
 Wiseman
 "You still do not
-understand do you?<Delay 15> Then
-let me show you."<Close><End of Block>
+understand, do you?<Delay 15>
+Then let me show you."<Close><End of Block>
 <TextBlock 43 w:54 h:4>
 Wiseman
 "Fighting brute strength
 with brute strength is a
-sign of a great fool.<New>
+sign of great foolishness.<New>
 It's obvious that a lighter
 body such as yours will
 always be at a disadvantage
 in a head-on attack.<New>
 I just gave you a good
-example. That minor
-difference between you and
-I had this outcome.<New>
-Now, someone else with a
-mass several times as you,
-like Rico, the outcome
-becomes highly apparent.<New>
+example.<New>
+There's only a minor
+difference in build between
+you and I, yet this is the
+outcome.<New>
+Now, imagine the mass
+difference being double
+that<-->and even more in the
+case of a man like Rico.<New>
 This applies to Gears
 as well...<New>
 Even if you were to get
 parts comparable to
-Rico's, there is still
-that difference in mass.<New>
-To make up for this, one
-must commit to a single
-final strike that thrusts
-at the opponent's fissure."<Close><End of Block>
+Rico's, there would still
+be the difference in mass.<New>
+To even the odds, it is
+vital to make a decisive
+strike...exploiting the
+opponent's weakness."<Close><End of Block>
 <TextBlock 44 w:12 h:2>
 Fei
 "<Delay 5>...<Delay 5>?"<Close><End of Block>
@@ -312,15 +315,17 @@ style as I!?<New>
 And, how do you know my
 name!?<Delay 15>
 Tell me!"<Close><End of Block>
-<TextBlock 47 w:28 h:2>
+<TextBlock 47 w:24 h:3>
 Wiseman
-"Hmph<Delay 5>...<Delay 15>fine."<Close><End of Block>
+"Hmmm<Delay 5>...<Delay 15>
+Very well."<Close><End of Block>
 <TextBlock 48 w:50 h:4>
 Wiseman
-"It was 3 years ago<Delay 5>...<New>
-The one who took you,<Delay 5> in
-your mutilated state,<Delay 5> to
-that mountain village was
+"It was three years
+ago<Delay 5>...<New>
+The one who took you to
+that mountain village,<Delay 5> in
+your mutilated state,<Delay 5> was
 none other than myself."<Close><End of Block>
 <TextBlock 49 w:44 h:3>
 Fei
@@ -344,9 +349,9 @@ fellow students."<Close><End of Block>
 Fei
 "<Delay 5>...<Delay 5>Khan?<Delay 30> Is that my
 father's name?"<Close><End of Block>
-<TextBlock 54 w:48 h:4>
+<TextBlock 54 w:46 h:4>
 Wiseman
-"Why do you ask for your
+"Why do you ask your
 father's name?<Delay 20> You
 haven't lost your<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 55 w:46 h:4>
@@ -357,9 +362,9 @@ can.<Delay 30> Will you?"<Close><End of Block>
 <TextBlock 56 w:48 h:3>
 Wiseman
 "I see<Delay 5>...<Delay 30>
-In your injured state<Delay 5>...<Delay 5><New>
+In your injured state<Delay 5>...<New>
 I wouldn't have been
-surprised<Delay 5>...<Delay 5>"<Close><End of Block>
+surprised<Delay 5>..."<Close><End of Block>
 <TextBlock 57 w:20 h:2>
 Fei
 "Wiseman."<Close><End of Block>
@@ -369,7 +374,7 @@ Wiseman
 That is your father's
 name.<Delay 5> Since our youth,
 Khan and I studied the
-martial arts together<Delay 5>...<Delay 5>"<Close><End of Block>
+martial arts together<Delay 5>..."<Close><End of Block>
 <TextBlock 59 w:40 h:2>
 Fei
 "Father and you<Delay 5>...<Delay 5>?"<Close><End of Block>
@@ -381,7 +386,7 @@ of a certain country.<New>
 There he met a young
 woman.
 She was about 20 years old.
-Her name was 'Karen'.<New>
+Her name was Karen.<New>
 She was like a flower in
 full bloom."<Close><End of Block>
 <TextBlock 61 w:24 h:2>
@@ -394,7 +399,7 @@ extraordinarily
 beautiful."<Close><End of Block>
 <TextBlock 63 w:30 h:3>
 Fei
-"I, see.<Delay 15>
+"I see.<Delay 15>
 Then she's<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 64 w:50 h:3>
 Wiseman
@@ -404,7 +409,7 @@ and I left on a journey
 to strengthen myself."<Close><End of Block>
 <TextBlock 65 w:48 h:3>
 Fei
-"Then my mother?<Delay 15>
+"Then my mother...<Delay 15>
 Where is my mother now?"<Close><End of Block>
 <TextBlock 66 w:50 h:3>
 Wiseman
@@ -423,7 +428,7 @@ journey, I received a
 letter from Khan."<Close><End of Block>
 <TextBlock 69 w:48 h:4>
 Wiseman
-"The letter said that,
+"The letter said that
 his son<Delay 5>...<Delay 15>was taken away
 by a man.<New>
 Khan once said you had
@@ -448,7 +453,7 @@ Wiseman
 still in one piece."<Close><End of Block>
 <TextBlock 74 w:44 h:4>
 Fei
-"It seemed to Grahf,
+"It seemed to Grahf
 that I was still not
 powerful enough to<New>
 achieve his ultimate
@@ -469,8 +474,8 @@ searching for you...<New>
 <TextBlock 77 w:44 h:4>
 Wiseman
 "Then came that one
-fateful night 3 years
-ago.<New>
+fateful night three
+years ago.<New>
 There was a violent
 storm. The storm felt
 as if it was thrown at
@@ -518,12 +523,13 @@ not only for the sake of<New>
 his son, but also for the
 sake of the world, that
 that man had to be
-disposed of<Delay 5>...<Delay 5>He added<New>
-that if something were to
-happen to him, I would
-have to take care of the
-rest<Delay 5>...<Delay 5>I haven't seen or<New>
-heard from him since."<Close><End of Block>
+disposed of<Delay 5>...<New>
+He added that if
+something were to happen
+to him, I would have to
+take care of the rest<Delay 5>...<New>
+I haven't seen or heard
+from him since."<Close><End of Block>
 <TextBlock 82 w:38 h:3>
 Fei
 "Grahf said that my
@@ -532,9 +538,11 @@ father was<Delay 10> dead<Delay 5>..."<Close><End of Block>
 Wiseman
 "Hmmm<Delay 5>...<Delay 5> If Grahf has
 been appearing in your
-presence<Delay 5>...<Delay 15> then that is<New>
-a possibility<Delay 5>...<Delay 30> That is
-truly unfortunate..."<Close><End of Block>
+presence<Delay 5>...<New>
+then that is a
+possibility<Delay 5>...<Delay 30>
+That is truly
+unfortunate..."<Close><End of Block>
 <TextBlock 84 w:50 h:4>
 Wiseman
 "Do you remember anything
@@ -609,15 +617,16 @@ Fei
 <TextBlock 100 w:46 h:3>
 Citan
 "<Delay 5>...<Delay 5>What a mysterious
-person. <New>
+individual.<New>
 Is this the second time
 you have met him?"<Close><End of Block>
-<TextBlock 101 w:48 h:3>
+<TextBlock 101 w:48 h:4>
 Fei
-"Huh?<Delay 5> ...<Delay 5>Yeah.<New>
-Since that tournament in
-Av.<Delay 15> He sure is a
-mysterious person<Delay 5>...<Delay 5>"<Close><End of Block>
+"Huh?<Delay 5> ...<Delay 5>Yeah.
+The first time was that
+tournament in Av.<New>
+He sure is a mysterious
+person<Delay 5>..."<Close><End of Block>
 <TextBlock 102 w:50 h:4>
 Fei
 "I probably won't
@@ -627,23 +636,23 @@ But I think I get the
 general idea. I might be
 able to do something in
 tomorrow's final round<Delay 5>...<New>
-The differences in the
+The difference in the
 performance of the Gear
-parts are not going to
+parts is not going to
 influence the outcome...<New>
 ...Well, not as much as I
 thought before."<Close><End of Block>
 <TextBlock 103 w:48 h:4>
 Citan
-"Never underestimate the
-situation.<New>
-You might lose pretty
-badly if you think you
-can just win by getting
-a grasp of the concept."<Close><End of Block>
+"You may get a rude
+awakening if you think
+you can just win by<New>
+getting a grasp of the
+concept.<Delay 30> Do not let your
+guard down."<Close><End of Block>
 <TextBlock 104 w:28 h:2>
 Fei
-"I know,<Delay 5> doc."<Close><End of Block>
+"I know,<Delay 5> Doc."<Close><End of Block>
 <TextBlock 105 w:48 h:4>
 Citan
 "Well,<Delay 5> let us return to
@@ -659,12 +668,12 @@ Fei
 <TextBlock 107 w:44 h:4>
 Hammer
 "This must be the Gear
-that was furnished by
-the committee!"<Close><End of Block>
+that was provided by
+the Committee!"<Close><End of Block>
 <TextBlock 108 w:32 h:3>
 Citan
-"<Delay 5>...<Delay 5>My this IS a
-surprise."<Close><End of Block>
+"<Delay 5>...<Delay 5>My, this IS
+a surprise."<Close><End of Block>
 <TextBlock 109 w:14 h:2>
 Fei
 "Doc!?"<Close><End of Block>
@@ -673,28 +682,29 @@ Citan
 "<Delay 5>...<Delay 5>Hmmm. I do not think
 this is coincidental<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>I am simply assuming,<Delay 5><New>
-but they probably
+but it is probable they
 intentionally furnished
 you with <Weltall> to
 collect some data."<Close><End of Block>
 <TextBlock 111 w:32 h:2>
 Fei
 "Intentionally?"<Close><End of Block>
-<TextBlock 112 w:50 h:3>
+<TextBlock 112 w:50 h:4>
 Citan
 "Battling itself serves
-as one of Kislev's plans.<New>
+as one of Kislev's
+military plans.<New>
 From Battling, they can
-obtain the various combat
+obtain various combat
 data...<New>
 ...and talented Battlers
-which can be used for the
-military."<Close><End of Block>
+who can be used for the
+army."<Close><End of Block>
 <TextBlock 113 w:50 h:4>
 Fei
 "Exactly what kind of
 data could they get outta
-him and I<Delay 5>...<Delay 5>?"<Close><End of Block>
+that thing and I<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 114 w:38 h:2>
 Citan
 "I would not know."<Close><End of Block>
@@ -707,7 +717,7 @@ with Av<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 116 w:50 h:4>
 Citan
 "Well, regardless of what
-the empire is up to,
+the Empire is up to,
 this is good for us."<Close><End of Block>
 <TextBlock 117 w:48 h:4>
 Citan
@@ -717,8 +727,8 @@ to."<Close><End of Block>
 <TextBlock 118 w:54 h:4>
 Citan
 "If you think about it,
-this just enhanced our
-probability of escaping<Delay 5>...<Delay 5>"<Close><End of Block>
+this just increased the
+likelihood of us escaping."<Close><End of Block>
 <TextBlock 119 w:10 h:2>
 Fei
 "<Delay 5>...<Delay 5>"<Close><Close><End of Block>

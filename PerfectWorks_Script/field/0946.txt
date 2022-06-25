@@ -1,15 +1,15 @@
-<TextBlock 1 w:34 h:3>
+<TextBlock 1 w:30 h:3>
 Rank
-"Hey look, check 
-this out..."<Close><End of Block>
+"Hey, look at 
+this..."<Close><End of Block>
 <TextBlock 2 w:44 h:3>
 Strachey
 "There's only one
 control ship...<New>
-The other 7 are all
-Ether guided.<New>
+The other seven are
+all Ether guided.<New>
 Just who the hell is
-controlling all them?"<Close><End of Block>
+controlling them all?"<Close><End of Block>
 <TextBlock 3 w:48 h:2>
 I never thought you'd
 be the escort commander.<Close><End of Block>
@@ -18,17 +18,18 @@ Elly
 "Dominia!?"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Helmholtz
-"...Dominia, who's that?<Delay 30>
+"...Dominia?<Delay 30>
 Hey, not the one from
 the Elements...?"<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Dominia
-"It's been a long time 
+"Hmph.<New>
+It's been a long time,
 Elehayym. The last time
 was Jugend, wasn't it?"<Close><End of Block>
 <TextBlock 7 w:28 h:3>
 Elly
-"What are you 
+"What are you
 doing here?"<Close><End of Block>
 <TextBlock 8 w:50 h:4>
 Dominia
@@ -41,31 +42,31 @@ common soldier.<New>
 I will take the Hecht."<Close><End of Block>
 <TextBlock 9 w:44 h:4>
 Dominia
-"I didn't even need an
-escort, but this was
-also part of the plan.<New>
+"An escort is hardly
+necessary, but also
+part of the plan.<New>
 This will be a
 good fight."<Close><End of Block>
 <TextBlock 10 w:46 h:4>
 Elly
 "Wait! Tell me what our
 target is!
-You should know."<Close><End of Block>
+Surely you know."<Close><End of Block>
 <TextBlock 11 w:52 h:3>
 Dominia
 "That's restricted...<Delay 30>
 but I guess I can tell.<New>
 The electric generator
 in the eastern sector of
-Kislev's Imperial capital.<New>
+Kislev's Imperial Capital.<New>
 The target is a reactor
 left there by an ancient
 civilization."<Close><End of Block>
-<TextBlock 12 w:46 h:4>
+<TextBlock 12 w:44 h:4>
 Elly
-"The reactor!? If you
-attack that then Kislev
-will..."<Close><End of Block>
+"The reactor!?
+If you attack that,
+then Kislev will<-->"<Close><End of Block>
 <TextBlock 13 w:46 h:3>
 Dominia
 "Probably most of it
@@ -78,44 +79,46 @@ Elly
 "Why are you doing this?"<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 Dominia
-"To purge, why else?
-You may know this already,
-Kislev has the Gatekeeper.<New>
-The original gate is
-controlled by those
+"To purge. Why else?<New>
+You, too, must have
+heard... Kislev has a
+Gatekeeper.<New>
+Yes, a Gate is actually
+under the control of those
 vulgar Lambs.<New>
-This land barrier was
-made by our predecessors.
+This barrier to the
+surface was made by our
+greatest pioneers.<New>
 The Lambs are trying to
-destroy the gate.<New>
-Are you going to
-allow that?"<Close><End of Block>
+destroy that barrier.
+Are you going to allow
+that?"<Close><End of Block>
 <TextBlock 16 w:48 h:4>
 Elly
-"That may be so...<Delay 30>
-but do we have the right
-to get involved?"<Close><End of Block>
+"That... That may be
+so...<Delay 30>but do we have the
+right to get involved?"<Close><End of Block>
 <TextBlock 17 w:48 h:4>
 Dominia
 "Does that bother you?
 Since when did you have
 a conscience?<New>
 War, strife, betrayal,
-deceit are all that are
-on the Lamb's minds.<New>
+and deceit are all that
+are on the Lambs' minds.<New>
 Surely you should know
 that by looking at the
 fools in this country.<New>
 Just let them loose and
 see what they'd do.<New>
 They would pillage and
-loot our world acting as
-if they owned it.<New>
-Advanced knowledge or
-tools aren't necessary
-for common house pets.<New>
-We must lead them where
-they belong."<Close><End of Block>
+loot our world, acting
+as if they owned it.<New>
+Common house pets have
+no need for advanced
+knowledge or tools!<New>
+We must lead them to
+where they belong."<Close><End of Block>
 <TextBlock 18 w:40 h:4>
 Elly
 "You were originally
@@ -125,15 +128,17 @@ So why...?"<Close><End of Block>
 Dominia
 "I was chosen by the
 Commander!<New>
-Don't look at
-me the same as those
-stupid Lambs!"<Close><End of Block>
+You regard me as the
+same as those stupid
+Lambs!?"<Close><End of Block>
 <TextBlock 20 w:50 h:3>
 Dominia
 "Yes, well...<New>
-You've shirked the duty
-that was instilled in you
-since your Jugend days.<New>
+You're the one who
+shirked your duty and ran
+away, back at Jugend,<New>
+despite all you had
+accomplished.<New>
 Arguing with you is a
 waste of time."<Close><End of Block>
 <TextBlock 21 w:52 h:4>
@@ -141,6 +146,6 @@ Dominia
 "I was a surface dweller
 myself, but I'm going to
 purge the Lambs.<New>
-I want you, the Shepherds,
-the Abelites, to see with 
-your own eyes what I can do."<Close><Close><End of Block>
+I want you, the Abelites,
+to see with your own eyes
+what I can do."<Close><Close><End of Block>

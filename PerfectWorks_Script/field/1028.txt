@@ -905,11 +905,12 @@ Fei
 "Oh,<Delay 5> errh, sorry!"<Close><End of Block>
 <TextBlock 181 w:52 h:4>
 Fei
-"After you left, the doc
-wanted to pay the courtesy
-of burying the monster...<New>
-So I waited for him outside
-the sewer entrance."<Close><End of Block>
+"After you left, Doc said
+he wanted to give the mon-
+ster a dignified burial.<New>
+So I waited for him
+outside the sewer
+entrance."<Close><End of Block>
 <TextBlock 182 w:50 h:4>
 Rico
 "<Delay 5>...<Delay 5>Is that so? Oh well,
@@ -918,7 +919,7 @@ been brought to an end!"<Close><End of Block>
 <TextBlock 183 w:46 h:4>
 Citan
 "Yes, that is right.<Delay 15>
-And Fei has been proved
+And Fei has been proven
 innocent as well!"<Close><End of Block>
 <TextBlock 184 w:54 h:4>
 Rico
@@ -926,14 +927,14 @@ Rico
 And I guess the
 out-of-bounds order on the
 sewers was lifted straight
-after that too<Delay 5>...<New>
+after that, too<Delay 5>...<New>
 Anyway, my allying with you
 ends here<Delay 5>...<Delay 5>
 The next time we meet,<Delay 5> Fei,<Delay 5>
 we will be opponents!"<Close><End of Block>
 <TextBlock 185 w:56 h:4>
 Rico
-"C'mon, try and beat me!
+"C'mon, try to beat me!
 I'd enjoy seeing you try to
 settle your scores with me!"<Close><End of Block>
 <TextBlock 186 w:54 h:4>
@@ -948,7 +949,7 @@ Can you really afford to
 worry about your opponent?"<Close><End of Block>
 <TextBlock 188 w:30 h:2>
 Fei
-"...But, Rico?"<Close><End of Block>
+"...But, Rico!"<Close><End of Block>
 <TextBlock 189 w:56 h:4>
 Rico
 "Worry about yourself before
@@ -991,8 +992,8 @@ we don't have much time to
 spare!<New>
 What's more, what he says is
 right<-->you shouldn't hold
-back in a battle.<Delay 10> Etiquette
-dictates a true fight!"<Close><End of Block>
+back in a battle.<Delay 10> Courtesy
+demands a true fight!"<Close><End of Block>
 <TextBlock 197 w:54 h:4>
 Citan
 "It seems I was overly

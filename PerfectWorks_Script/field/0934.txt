@@ -4,44 +4,44 @@
 Elly
 "Hurry!
 This way!"<Close><End of Block>
-<TextBlock 3 w:18 h:2>
+<TextBlock 3 w:22 h:2>
 Elly
-"Whew..."<Close><End of Block>
+"*Sigh*..."<Close><End of Block>
 <TextBlock 4 w:28 h:4>
 Rank
 "What's wrong?
-Something 
+Something
 bugging you?"<Close><End of Block>
 <TextBlock 5 w:52 h:4>
 Elly
-"Sorry I'm so edgy.<New>
+"Sorry I'm so on edge.<New>
 Those self-detonating
 bombs are just air units
-with Kief class bombs
+with Keh-class bombs
 on board.<New>
 I don't see why they
 need to use them all of
 a sudden...<New>
 There are just too many.
 One of those alone would
-have enough firepower,
-but 8 of them is overkill.<New>
+have enough firepower, but
+eight of them is overkill.<New>
 They haven't told us our
 target yet, and we're not
 just going to drop them
 for fun.<New>
-You bet I'm worried."<Close><End of Block>
+You bet it's bugging me."<Close><End of Block>
 <TextBlock 6 w:32 h:3>
 Helmholtz
-"Maybe to purge
-the Lambs?"<Close><End of Block>
+"Maybe a purge
+of the Lambs?"<Close><End of Block>
 <TextBlock 7 w:48 h:4>
 Elly
 "They're human...
 the same as us, right?<New>
-They have to give us a
-reason. I can't go along
-with this just because
+Whatever the reason is,
+I can't go along with
+a purge just because
 it's an order."<Close><End of Block>
 <TextBlock 8 w:16 h:2>
 Rank
@@ -55,28 +55,30 @@ Rank
 <TextBlock 11 w:54 h:4>
 Rank
 "Even though we are called
-Solarians, we are 3rd Class
-Citizens or 'Worker Bees'.<New>
-Us 3rd Class Citizens have
-our origins in the 'Lambs'.
-I can understand us having
-doubts in such orders...<New>
+Solarians,<New>
+we Third-Class citizens, or
+'worker bees', can trace
+our origins back to the
+Lambs.<New>
+So I could understand us
+having doubts about
+such orders...<New>
 But you, you're different.
-You're a pure 1st Class
-Citizen and come from a
-good family.<New>
+You're a pure First-Class
+citizen and come from a
+respectable family.<New>
 I've heard your father
 has a lot of pull in the
 military..."<Close><End of Block>
 <TextBlock 12 w:42 h:4>
 Elly
-"My family and father
-have nothing to do
-with it."<Close><End of Block>
+"It has nothing to do
+with my father or
+family name."<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Rank
 "Well, if you ask me,
-a 1st Class citizen
+a First-Class citizen
 thinking like this is...<New>
 a little unusual."<Close><End of Block>
 <TextBlock 14 w:40 h:3>
@@ -87,22 +89,24 @@ It's quite natural."<Close><End of Block>
 Helmholtz
 "...So, how about it?
 Are you gonna do it?"<Close><End of Block>
-<TextBlock 16 w:42 h:4>
+<TextBlock 16 w:44 h:4>
 Strachey
-"The army will demote
-us all back to being
-3rd Class citizens!"<Close><End of Block>
-<TextBlock 17 w:48 h:4>
+"I'd rather not go
+against orders and<New>
+risk being bumped
+back down to mere
+Third-Class citizens!"<Close><End of Block>
+<TextBlock 17 w:44 h:4>
 Elly
-"Don't worry. I'll just
-do my duty. But I'm only
+"Don't worry. I'll do
+my duty. But I'm only
 escorting the Hecht.<New>
-I won't help with 
+I won't help with
 anything else."<Close><End of Block>
 <TextBlock 18 w:48 h:3>
 Helmholtz
-"...But, what if
-something happens?<New>
+"...But what about
+the consequences?<New>
 You're just backing
 yourself into a corner."<Close><End of Block>
 <TextBlock 19 w:40 h:3>
@@ -111,9 +115,9 @@ Elly
 I guess..."<Close><End of Block>
 <TextBlock 20 w:44 h:4>
 Rank
-"Well, either is fine
-for us. Just do what
-you're told.<New>
+"Well, either way is
+fine for us. We just
+do what we're told.<New>
 Nothing else matters."<Close><End of Block>
 <TextBlock 21 w:2 h:1>
 !<Opcode 2 20><Close><End of Block>
@@ -139,7 +143,7 @@ Fei
 <TextBlock 27 w:42 h:3>
 Bart
 "If she's in our way,
-just..."<Close><End of Block>
+just<-->"<Close><End of Block>
 <TextBlock 28 w:44 h:4>
 Fei
 "Wait a second, Bart!
@@ -170,6 +174,6 @@ Dominia
 A countervailing
 existence<Delay 5>...?<New>
 That Myyah<Delay 5>...<Delay 5>
-what's she up to<Delay 5>...?<Delay 50>
+What's she up to<Delay 5>...?<Delay 50>
 I had better warn
 the Commander<Delay 5>...!"<Close><Close><End of Block>

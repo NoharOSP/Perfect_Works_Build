@@ -1,9 +1,9 @@
 <TextBlock 1 w:16 h:2>
 Fei
 "What!?"<Close><End of Block>
-<TextBlock 2 w:20 h:2>
+<TextBlock 2 w:22 h:2>
 Fei
-"Look up!"<Close><End of Block>
+"Above us!"<Close><End of Block>
 <TextBlock 3 w:36 h:2>
 Fei
 "It's not here..."<Close><End of Block>
@@ -22,32 +22,33 @@ Fei
 "...??"<Close><End of Block>
 <TextBlock 8 w:48 h:4>
 Citan
-"It appears it can move 
+"It appears it can move
 outside through these
 sewage drains."<Close><End of Block>
 <TextBlock 9 w:52 h:3>
 Citan
-"Hmmm...it does not look 
-like it will show up now."<Close><End of Block>
+"Hmmm...it probably would
+not show up here now."<Close><End of Block>
 <TextBlock 10 w:42 h:3>
 Citan
-"Let us think about 
+"Let us think about
 what we know so far."<Close><End of Block>
-<TextBlock 11 w:36 h:2>
+<TextBlock 11 w:30 h:2>
 Rico
-"It's not here..."<Close><End of Block>
-<TextBlock 12 w:26 h:2>
+"Nothing..."<Close><End of Block>
+<TextBlock 12 w:26 h:3>
 Rico
-"It moved..."<Close><End of Block>
+"Scared it
+off..."<Close><End of Block>
 <TextBlock 13 w:38 h:4>
 Rico
-"Damn! <Delay 30>
-We should of found 
+"Damn!<Delay 30>
+We shoulda found
 it here!"<Close><End of Block>
 <TextBlock 14 w:40 h:4>
 Rico
-"Wait! <Delay 30>
-We can lure it with 
+"Wait!<Delay 30>
+We can lure it with
 this thing!"<Close><End of Block>
 <TextBlock 15 w:44 h:2>
 Rico

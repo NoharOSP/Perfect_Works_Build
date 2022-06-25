@@ -1,16 +1,16 @@
 <TextBlock 1 w:28 h:2>
 Fei
 "It's locked."<Close><End of Block>
-<TextBlock 2 w:22 h:2>
+<TextBlock 2 w:24 h:2>
 Fei
-"Here too."<Close><End of Block>
+"Here, too."<Close><End of Block>
 <TextBlock 3 w:14 h:2>
 Fei
 "Yeah."<Close><End of Block>
 <TextBlock 4 w:44 h:4>
 Fei
-"Looks like all the 
-drains come together 
+"Looks like all the
+drains come together
 near the waterfall..."<Close><End of Block>
 <TextBlock 5 w:8 h:3>
 Fei
@@ -19,7 +19,7 @@ Fei
 <TextBlock 6 w:40 h:4>
 Fei
 "Looks like it won't
-return to the murder
+return to a murder
 scene..."<Close><End of Block>
 <TextBlock 7 w:20 h:2>
 Fei
@@ -29,7 +29,7 @@ Fei
 "Is it here?"<Close><End of Block>
 <TextBlock 9 w:18 h:2>
 Fei
-"Umph <Delay 20>...<Opcode 2 30><Close><End of Block>
+"Umph<Delay 20>...<Opcode 2 30><Close><End of Block>
 <TextBlock 10 w:36 h:2>
 Fei
 "It won't open..."<Close><End of Block>
@@ -75,12 +75,12 @@ Whew. Open!"<Close><End of Block>
 <TextBlock 22 w:34 h:2>
 Fei
 "Okay, let's go."<Close><End of Block>
-<TextBlock 23 w:20 h:2>
+<TextBlock 23 w:22 h:2>
 Fei
-"One-two!"<Opcode 2 30><Close><End of Block>
+"One, two!"<Opcode 2 30><Close><End of Block>
 <TextBlock 24 w:28 h:2>
 Fei
-"Wow! Wait..."<Opcode 2 40><Close><End of Block>
+"Y-Yikes..."<Opcode 2 40><Close><End of Block>
 <TextBlock 25 w:12 h:2>
 Fei
 "...?"<Close><End of Block>
@@ -93,16 +93,16 @@ Fei
 "Alright. Got it!"<Close><End of Block>
 <TextBlock 28 w:14 h:2>
 Fei
-"Umph!"<Opcode 2 10><Close><End of Block>
+"Whoa!"<Opcode 2 10><Close><End of Block>
 <TextBlock 29 w:14 h:2>
 <Opcode 1 255>Fei
 "...!!"<Opcode 2 20><Close><End of Block>
 <TextBlock 30 w:28 h:2>
 <Opcode 1 255>Fei
-"Behind you!!"<Opcode 2 20><Close><End of Block>
+"Behind us!!"<Opcode 2 20><Close><End of Block>
 <TextBlock 31 w:32 h:3>
 Fei
-"Why, did it...<Delay 30>
+"Why did it...<Delay 30>
 have a bell...?"<Close><End of Block>
 <TextBlock 32 w:8 h:3>
 Fei
@@ -113,12 +113,13 @@ Fei
 "This's covered in slime."<Close><End of Block>
 <TextBlock 34 w:42 h:2>
 Fei
-"Try and use this..."<Close><End of Block>
+"Try to use this..."<Close><End of Block>
 <TextBlock 35 w:48 h:4>
 Fei
-"Slime in the drain...
-There should be several 
-places like this."<Close><End of Block>
+"Slime in the drain...<New>
+As I recall, there were
+several places like
+this."<Close><End of Block>
 <TextBlock 36 w:44 h:4>
 Fei
 "That's it!<Delay 30>
@@ -134,71 +135,71 @@ Citan
 ..."<Opcode 2 30><Close><End of Block>
 <TextBlock 39 w:42 h:4>
 Citan
-"There is something 
-lurking around here, 
+"There is something
+lurking around here,
 I am sure of it."<Close><End of Block>
 <TextBlock 40 w:38 h:3>
 Citan
-"This is certainly 
-the strangest."<Close><End of Block>
+"This is certainly
+most peculiar."<Close><End of Block>
 <TextBlock 41 w:50 h:3>
 Citan
-"Do you know where these 
+"Do you know where these
 drains come together?"<Close><End of Block>
 <TextBlock 42 w:46 h:3>
 Citan
 "There is always slime
-near the murder scene. <New>
-Looks like it only 
-happened once."<Close><End of Block>
+near the murder scene.<New>
+And it seems that it
+happens once only."<Close><End of Block>
 <TextBlock 43 w:54 h:4>
 Citan
-"They say it will not
-return to the same place...<Delay 40>
-I wonder?"<Close><End of Block>
-<TextBlock 44 w:48 h:3>
+"Does this mean...<Delay 40>it will
+not appear in the same
+place again?"<Close><End of Block>
+<TextBlock 44 w:44 h:3>
 Citan
 "A bell...!?<Delay 30>
-There is a bell inside."<Close><End of Block>
+A bell rang inside."<Close><End of Block>
 <TextBlock 45 w:44 h:3>
 Citan
-"Anyhow we must search
-for it now."<Close><End of Block>
+"Anyhow, we must
+search for it now."<Close><End of Block>
 <TextBlock 46 w:38 h:3>
 Citan
-"That certainly is 
+"That certainly is
 odd..."<Close><End of Block>
 <TextBlock 47 w:50 h:4>
 Citan
-"I am sure.<Delay 20> This is the 
+"I am sure.<Delay 20> This is the
 only drain with slime and
 no murder site nearby."<Close><End of Block>
-<TextBlock 48 w:24 h:2>
+<TextBlock 48 w:24 h:3>
 <Opcode 1 255>Citan
-"It is here!<Opcode 2 20><Close><End of Block>
+"Here it
+comes!<Opcode 2 20><Close><End of Block>
 <TextBlock 49 w:54 h:3>
 Citan
 "...It had a normal, human-
 like intellect."<Close><End of Block>
 <TextBlock 50 w:44 h:4>
 Citan
-"No.<Delay 40>
-It is better to say...
-'had left remaining'."<Close><End of Block>
-<TextBlock 51 w:34 h:3>
+"Or rather...<Delay 40>
+had some remaining."<Close><End of Block>
+<TextBlock 51 w:30 h:3>
 Citan
-"...It is really,<Delay 60>
+"It is really...<Delay 60>
 rather sad..."<Close><End of Block>
 <TextBlock 52 w:46 h:4>
 Citan
-"No, there is a murder 
-scene near but this is
-not it."<Close><End of Block>
+"No, there is a murder
+scene nearby, so this
+is not it."<Close><End of Block>
 <TextBlock 53 w:42 h:3>
 Citan
 "Yes.<New>
-This must be the one 
-drain it comes and 
+This must be the one
+drain it comes and
 goes from."<Close><End of Block>
 <TextBlock 54 w:40 h:2>
 Citan
@@ -213,20 +214,22 @@ Rico
 this drain too."<Close><End of Block>
 <TextBlock 57 w:44 h:4>
 Rico
-"Everything should 
-connect to the sewage 
+"Everything should
+connect to the sewage
 treatment plant..."<Close><End of Block>
 <TextBlock 58 w:50 h:3>
 Rico
 "It should connect to the
 sewage treatment plant."<Close><End of Block>
-<TextBlock 59 w:46 h:3>
+<TextBlock 59 w:46 h:4>
 Rico
-"Right! There must be a
-place where they meet."<Close><End of Block>
+"That's it! There must
+be a place where all
+the drains converge."<Close><End of Block>
 <TextBlock 60 w:34 h:2>
 Rico
-"Hey, this is..."<Close><End of Block>
+"Hey!
+That just now..."<Close><End of Block>
 <TextBlock 61 w:54 h:4>
 Rico
 "Hmm. From here it's beside
@@ -240,14 +243,14 @@ Rico
 "I'll do it!"<Close><End of Block>
 <TextBlock 64 w:40 h:3>
 Rico
-"Argh <Delay 20>arrgh...<Delay 20>
+"Argh...<Delay 20>arrgh...<Delay 20>
 Damn! It won't open.<New>
 Damn it!"<Close><End of Block>
 <TextBlock 65 w:46 h:4>
 Rico
 "...God dammit!<Delay 40>
-...no good...<Delay 30>it won't 
-open with out the key."<Close><End of Block>
+...No good...<Delay 30> It won't
+open without the key."<Close><End of Block>
 <TextBlock 66 w:40 h:3>
 Rico
 "Vargas should have
@@ -262,7 +265,7 @@ Rico
 "Whaddya talkin' about?"<Close><End of Block>
 <TextBlock 68 w:44 h:4>
 Rico
-"If it was dropped we 
+"If it was dropped we
 should've been able to
 find it."<Close><End of Block>
 <TextBlock 69 w:32 h:2>
@@ -275,22 +278,22 @@ Whaddya waiting for?
 Let's go!!<Opcode 2 60><Close><End of Block>
 <TextBlock 71 w:32 h:2>
 Rico
-"...hurry up..."<Close><End of Block>
-<TextBlock 72 w:52 h:4>
+"...Hurry up..."<Close><End of Block>
+<TextBlock 72 w:44 h:4>
 Rico
-"There's slime here too...
-And no murder spot 
-nearby...?"<Close><End of Block>
-<TextBlock 73 w:32 h:2>
+"There's slime here,
+too... And no murder
+spot nearby...?"<Close><End of Block>
+<TextBlock 73 w:30 h:2>
 <Opcode 1 255>Rico
-"Outta my way!!"<Opcode 2 15><Close><End of Block>
+"Wh-Where!?"<Opcode 2 15><Close><End of Block>
 <TextBlock 74 w:16 h:2>
 <Opcode 1 255>Rico
-"What!!"<Opcode 2 10><Close><End of Block>
+"What!?"<Opcode 2 10><Close><End of Block>
 <TextBlock 75 w:52 h:4>
 Rico
-"This room should connect 
-to the sewage treatment 
+"This area should connect
+to the sewage treatment
 plant."<Close><End of Block>
 <TextBlock 76 w:42 h:3>
 Rico
@@ -301,11 +304,11 @@ Gramps
 "Who're you?"<Close><End of Block>
 <TextBlock 78 w:40 h:3>
 Fei
-"Well, what are you 
+"Well, what are you
 doing here?"<Close><End of Block>
 <TextBlock 79 w:34 h:4>
 Gramps
-"Hpmh.
+"Hmph.
 I've lived here
 for a long time."<Close><End of Block>
 <TextBlock 80 w:50 h:3>
@@ -328,13 +331,13 @@ Gramps
 "Thanks."<Close><End of Block>
 <TextBlock 84 w:48 h:3>
 Rico
-"Hey gramps!
+"Hey, old timer!
 What are you doing here?<New>
 I thought the entrance
 was blocked off."<Close><End of Block>
 <TextBlock 85 w:30 h:4>
 Gramps
-"Hpmh.
+"Hmph.
 I've lived here
 a long time."<Close><End of Block>
 <TextBlock 86 w:48 h:3>
@@ -343,7 +346,7 @@ Rico
 spooky place like this?"<Close><End of Block>
 <TextBlock 87 w:44 h:4>
 Gramps
-"As you can see I'm a
+"As you can see, I'm a
 mutant. So the monster
 never bothers me."<Close><End of Block>
 <TextBlock 88 w:52 h:4>
@@ -360,16 +363,16 @@ Gramps
 "Oh!
 Would you get rid of
 him for me?<New>
-If you need to know 
-anything ask me.<New>
+If you need to know
+anything, ask me.<New>
 I'll help you."<Close><End of Block>
 <TextBlock 91 w:48 h:3>
 Gramps
-"It's dangerous inside. 
+"It's dangerous inside.
 You better not go in."<Close><End of Block>
 <TextBlock 92 w:42 h:3>
 Gramps
-"The place where all 
+"The place where all
 the drains meet?"<Close><End of Block>
 <TextBlock 93 w:46 h:3>
 Go northeast, and it'll
@@ -377,20 +380,20 @@ be behind the door near
 the waterfall.<Close><End of Block>
 <TextBlock 94 w:38 h:3>
 Gramps
-"That's the passkey
+"Those are the keys
 for the sewers.<New>
-You can get into
+Now you can get in
 the room beside the
-waterfall with it."<Close><End of Block>
+waterfall."<Close><End of Block>
 <TextBlock 95 w:28 h:3>
 Gramps
-"Take care of 
+"Take care of
 yourselves."<Close><End of Block>
 <TextBlock 96 w:50 h:2>
 Gramps
 "That door is locked?<New>
-If it was lost, I'd of
-found it. And I don't...<New>
+I'd have found any lost
+keys. And I don't<--><New>
 Oh! Yeah. They sweep up
 any trash laying around."<Close><End of Block>
 <TextBlock 97 w:14 h:2>
@@ -400,14 +403,16 @@ Fei
 Gramps
 "Those things movin'
 around over there."<Close><End of Block>
-<TextBlock 99 w:48 h:2>
+<TextBlock 99 w:46 h:2>
 Gramps
-"But, that's strange.<New>
-If it was sucked up the 
-things wouldn't move..."<Close><End of Block>
+"But that's strange.<New>
+If something like that
+got sucked up...<New>
+they'd stop working,
+but..."<Close><End of Block>
 <TextBlock 100 w:48 h:3>
 Gramps
-"I see you've found the 
+"I see you've found the
 keys.<New>
 Now you can get in the
 room by the waterfall."<Close><End of Block>
@@ -417,7 +422,7 @@ Gramps
 <TextBlock 102 w:44 h:2>
 Gramps
 "You saw a broken one?<New>
-Nope, you better check
+Well, you better check
 that one again."<Close><End of Block>
 <TextBlock 103 w:50 h:4>
 Gramps
@@ -428,7 +433,7 @@ find a broken one in
 there."<Close><End of Block>
 <TextBlock 104 w:42 h:3>
 Gramps
-"And you can lure it 
+"And you can lure it
 with this bell."<Close><End of Block>
 <TextBlock 105 w:30 h:2>
 Fei
@@ -439,7 +444,7 @@ Gramps
 <TextBlock 107 w:50 h:3>
 Gramps
 "There is always slime
-near the drains it uses. <New>
+near the drains it uses.<New>
 And he never returns to
 the same site twice."<Close><End of Block>
 <TextBlock 108 w:42 h:4>
@@ -449,19 +454,19 @@ with slime nearby and
 no murder site."<Close><End of Block>
 <TextBlock 109 w:46 h:5>
 Gramps
-"Right. 
+"Right.
 I think...<Delay 30>there's one 
 on this floor, north of
 here."<Close><End of Block>
 <TextBlock 110 w:50 h:2>
 Gramps
 "What? Empty?<New>
-No there's gotta be a way
-to lure him out."<Close><End of Block>
+No, there's gotta be a
+way to lure him out."<Close><End of Block>
 <TextBlock 111 w:44 h:3>
 Gramps
 "Wasn't there anything
-in the room?<Close><End of Block>
+in the room?"<Close><End of Block>
 <TextBlock 112 w:46 h:5>
 Gramps
 "Oh, you!

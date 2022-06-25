@@ -47,7 +47,7 @@ It's locked from the inside.<Opcode 2 30><Close><End of Block>
 The sun's already gone down.
 Sorry, but time to go!!<Close><End of Block>
 <TextBlock 15 w:56 h:3>
-Gramps
+Old Man
 "I've some advice for you,
 youngster!<New>
 Jumping from this tower is
@@ -56,7 +56,7 @@ I'm gonna fine you!<Delay 15><New>
 Better not <Delay 5>forget it!
 I'm no pushover!"<Close><End of Block>
 <TextBlock 16 w:56 h:4>
-Gramps
+Old Man
 "Hey, today the supply train
 is coming through!<New>
 I've some advice for you,
@@ -64,7 +64,7 @@ youngster, don't try to
 block the tracks!<Delay 15>
 You'll be fined<Delay 5>..."<Close><End of Block>
 <TextBlock 17 w:54 h:4>
-Gramps
+Old Man
 "Beyond those tracks over
 there<Delay 5>...<New>
 There's some special
@@ -74,12 +74,12 @@ to escape and didn't know
 that. That bomb collar
 went BOOM! Yep, see ya<Delay 5>..."<Close><End of Block>
 <TextBlock 18 w:50 h:4>
-Gramps
+Old Man
 "<Delay 5>...<Delay 5>As long as you have
 that bomb collar on, it's
 impossible to escape!"<Close><End of Block>
 <TextBlock 19 w:52 h:4>
-Gramps
+Old Man
 "I've some advice for you,
 youngster!<Delay 30> Jumping from
 this tower is illegal!!<New>
@@ -88,20 +88,20 @@ I'm gonna fine you!<Delay 15>
 Better not <Delay 5>forget it!
 I'm no pushover!"<Close><End of Block>
 <TextBlock 20 w:52 h:3>
-Gramps
+Old Man
 "What?<Delay 5> Youngster!!<New>
 Weren't you listening?<Delay 15>
 You can't jump from here! <Delay 20>
 It's illegal!"<Close><End of Block>
 <TextBlock 21 w:50 h:4>
-Gramps
+Old Man
 "Hey, <Delay 5>the fine's 50G!<Delay 15>
 You can't jump from here,
 I'll teach you a lesson."<Close><End of Block>
 <TextBlock 22 w:30 h:1>
 Got a 50G fine!<Close><End of Block>
 <TextBlock 23 w:56 h:4>
-Gramps
+Old Man
 "You don't have 50G?<Delay 15>
 Youngster, <Delay 5>having trouble<Delay 5>...<Delay 15>
 Go on! <Delay 5>Get outta here!"<Close><End of Block>
@@ -500,8 +500,8 @@ If he squishes that coin
 it'll be worthless.<Delay 15>
 Well, <Delay 5>ignorance is bliss<Delay 5>...<New>
 Besides, <Delay 5>he's never been
-successful. Gramps always
-gets mad at him.<Delay 15>
+successful. That old guy
+always gets mad at him.<Delay 15>
 Happens every time<Delay 5>..."<Close><End of Block>
 <TextBlock 93 w:54 h:4>
 Guard
@@ -731,10 +731,10 @@ Fei
 "<Delay 5>...<Delay 30>
 What's this<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 135 w:54 h:4>
-<Opcode 1 255>Power is explosive beauty! 
-Power is overflowing love! 
-Fly young people! 
-At the Battling Arena!<Close><End of Block>
+<Opcode 1 255>'Power is explosive beauty!
+ Power is overflowing love!
+ Venture forth, young ones!
+ Glorious Battling Arena!'<Close><End of Block>
 <TextBlock 136 w:32 h:3>
 Fei
 "<Delay 5>...<Delay 30>
@@ -795,7 +795,7 @@ mysterious monster.
 <TextBlock 141 w:56 h:11>
 <Opcode 1 255>   - Results of the  -
    - Battling Finals -
-Three-time Champ
+Eight-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
 a rank A criminal.
@@ -807,7 +807,7 @@ skillful Gear piloting!<Close><End of Block>
 <TextBlock 142 w:56 h:11>
 <Opcode 1 255>   - Results of the  -
    - Battling Finals -
-Three-time Champ
+Eight-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
 a rank B criminal.
@@ -819,7 +819,7 @@ skillful Gear piloting!<Close><End of Block>
 <TextBlock 143 w:56 h:11>
 <Opcode 1 255>   - Results of the  -
    - Battling Finals -
-Three-time Champ
+Eight-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
 a rank C criminal.
@@ -831,7 +831,7 @@ skillful Gear piloting!<Close><End of Block>
 <TextBlock 144 w:56 h:11>
 <Opcode 1 255>   - Results of the  -
    - Battling Finals -
-Three-time Champ
+Eight-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
 a rank C criminal.
@@ -843,7 +843,7 @@ skillful Gear piloting!<Close><End of Block>
 <TextBlock 145 w:56 h:11>
 <Opcode 1 255>   - Results of the  -
    - Battling Finals -
-Three-time Champ
+Eight-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
 a rank D criminal.
@@ -853,7 +853,7 @@ participant, he even beat
 the invincible Champ through
 skillful Gear piloting!<Close><End of Block>
 <TextBlock 146 w:54 h:4>
-Gramps
+Old Man
 "Who're you?<Delay 20>
 Only the operations manager
 is allowed here!"<Close><End of Block>
@@ -862,7 +862,7 @@ Fei
 "It's not written
 anywhere<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 148 w:46 h:3>
-Gramps
+Old Man
 "<Delay 5>...<Delay 15><Opcode 1 255>Even so,
 that's the way it is!!"<Close><End of Block>
 <TextBlock 149 w:52 h:4>
@@ -873,7 +873,7 @@ I didn't know.<New>
 So hey, tell me something.<Delay 15>
 What is this?"<Close><End of Block>
 <TextBlock 150 w:40 h:4>
-Gramps
+Old Man
 "<Delay 5>...<Delay 5>Might as well.<Delay 15>
 It's the observation
 tower."<Close><End of Block>
@@ -882,18 +882,18 @@ Fei
 "Observation tower?<Delay 15>
 What are you watching?"<Close><End of Block>
 <TextBlock 152 w:44 h:3>
-Gramps
+Old Man
 "Hmph, you'll find out
 <Delay 5>...<Delay 5>in just a minute."<Opcode 2 30><Close><End of Block>
 <TextBlock 153 w:46 h:3>
-Gramps
+Old Man
 "...<Delay 15>...<Delay 10>...<Delay 5>...<Delay 15>
 <Delay 5>...<Delay 5>It's coming!<Delay 15> There!"<Opcode 2 45><Close><End of Block>
 <TextBlock 154 w:44 h:2>
 Fei
 "Wow, that's amazing."<Close><End of Block>
 <TextBlock 155 w:54 h:3>
-Gramps
+Old Man
 "<Delay 5>...<Delay 5>Well,<Delay 15>
 I'm the operations manager.<New>
 But there's no one to
@@ -907,7 +907,7 @@ Fei
 Is anything in the world
 perfect<Delay 5>...?"<Close><End of Block>
 <TextBlock 157 w:54 h:4>
-Gramps
+Old Man
 "<Delay 5>...<Delay 5>Hmph.<Delay 30>
 The only weakness is the
 detection equipment<Delay 5>...<New>

@@ -57,7 +57,7 @@ All this running backwards
 and forwards is killing me!<New>
 I know it's a bit sudden but
 how about buying something?"<Delay 15>
-    Not now Hammer!
+    Not now, Hammer!
     I guess I'll have to!<Close><End of Block>
 <TextBlock 14 w:56 h:4>
 Hammer
@@ -223,14 +223,14 @@ But you've got to look
 after your own neck!"<Close><End of Block>
 <TextBlock 40 w:56 h:4>
 Rico
-"<Delay 5>...The doctor too? I don't
+"<Delay 5>...The doctor, too? I don't
 take any responsibility if
 anything happens to you<Delay 5>...!"<Close><End of Block>
 <TextBlock 41 w:56 h:4>
 Citan
 "<Delay 5>...<New>
 (Finally, it is the last day
-of the Games<Delay 5>...the finals!<Delay 30>
+of the Games<Delay 5>...the Finals!<Delay 30>
 Remember what you-know-who
 taught you!)"<Close><Close><End of Block>
 <TextBlock 42 w:56 h:4>
@@ -294,8 +294,7 @@ Fei
 *Gasp*<Delay 5>...<Delay 10> Urgh<Delay 5>..."<Opcode 2 240><Close><End of Block>
 <TextBlock 56 w:38 h:4>
 Fei
-"<Delay 5>.<Delay 5>.<Delay 5>.<Delay 30>
-Where am I<Delay 5>...<Delay 15>
+"Wh-Where am I<Delay 5>...<Delay 15>
 Oh, the infirmary?"<Close><End of Block>
 <TextBlock 57 w:46 h:4>
 Fei
@@ -387,8 +386,8 @@ we possibly can."<Close><End of Block>
 <TextBlock 74 w:54 h:4>
 Citan
 "But that does not mean you
-have to over-exert yourself
-again, straight away!<New>
+have to overexert yourself
+again straight away!<New>
 Take time to rest up
 a little more..."<Close><End of Block>
 <TextBlock 75 w:50 h:4>
@@ -412,21 +411,21 @@ have here?<Delay 15> What other
 reason could you have?"<Close><End of Block>
 <TextBlock 79 w:50 h:4>
 Citan
-"Why, it is only you Fei!
-And<Delay 5>...<Delay 5>
+"Why, it is only you,
+Fei! And<Delay 5>...<Delay 5>
 the Battling Champion?"<Close><End of Block>
 <TextBlock 80 w:52 h:4>
 Citan
-"What would the likes of
-you have to do coming to
-a prison barracks?<New>
+"Why would someone such as
+yourself be in a place
+like the prison barracks?<New>
 There must be some special
 reason for you to grace
 us with your presence?"<Close><End of Block>
 <TextBlock 81 w:54 h:4>
 Rico
 "Yes there is.<New>
-<Delay 5>...<Delay 5>I came in regards to the
+<Delay 5>...<Delay 5>I came in regard to the
 incident of the explosion
 during the first rounds of
 the Battling contest."<Close><End of Block>
@@ -438,7 +437,7 @@ happened the other day!"<Close><End of Block>
 <TextBlock 83 w:56 h:4>
 Citan
 "The explosion accident that
-Fei was enveloped in during
+Fei got caught up in during
 that bout?<New>
 What has that got to do
 with you?"<Close><End of Block>
@@ -448,7 +447,7 @@ Rico
 That 'accident' was set
 up by my subordinates!<New>
 After the results of your
-'Baptismal Ceremony', it
+Baptismal Ceremony, it
 seems my men didn't come
 to like you very much<Delay 5>..."<Close><End of Block>
 <TextBlock 85 w:52 h:4>
@@ -462,7 +461,7 @@ confess the crimes they
 committed?"<Close><End of Block>
 <TextBlock 86 w:56 h:4>
 Rico
-"...They're no 
+"...They're no
 longer with us!<New>
 You're the doctor, don't you
 know what's been happening?<Delay 20>
@@ -475,7 +474,7 @@ mysterious murders that
 happened in the sewers!?"<Close><End of Block>
 <TextBlock 88 w:54 h:4>
 Rico
-"<Delay 5>...<Delay 5>Yes.<Delay 20> A line of skilled
+"Yes...<Delay 20> A string of skilled
 Battlers have been murdered
 one after the other!<New>
 All of the victims that
@@ -483,7 +482,7 @@ have been killed were
 my subordinates<Delay 5>..."<Close><End of Block>
 <TextBlock 89 w:50 h:3>
 Rico
-"Kid<Delay 5>...<Delay 5>
+"Kid<--><Delay 5>
 I mean, Fei<Delay 5>...!<New>
 They were the very people
 who had set that trap to
@@ -497,14 +496,14 @@ connected to me somehow!?"<Close><End of Block>
 Citan
 "Let us see<Delay 5>...<Delay 5> The murdered
 Battlers had set a trap to
-try and kill Fei<Delay 5>...<New>
+try to kill Fei<Delay 5>...<New>
 When Fei comes to know of
 this he has good reason
 to kill them<Delay 5>...<New>
 Out of hatred of his would-
 be killers, he plots
 revenge on the Battlers.
-And turns to 'murder'!"<Close><End of Block>
+And turns to murder!"<Close><End of Block>
 <TextBlock 92 w:34 h:3>
 Fei
 "<Delay 5>...<Delay 5>People think
@@ -513,14 +512,14 @@ I am the killer?"<Close><End of Block>
 Rico
 "Exactly!<Delay 30>
 This morning there was yet
-another victim<Delay 5>...<Delay 5>the fifth!<New>
+another victim<Delay 5><--><Delay 5>the fifth!<New>
 It's not unusual for people
 to die in the sewers.
-If you become weak, you die
-<Delay 5>...<Delay 5>that's providence!<New>
-But 5 Battlers were killed
-in a row!<Delay 15>
-That this is unprecedented
+If you become weak, you
+die<Delay 5>...<Delay 5> That's providence!<New>
+But five Battlers were
+killed in a row!<Delay 15>
+It's unprecedented and that
 alone casts doubt on you.<New>
 To say that I don't doubt
 you would be lying, but
@@ -532,7 +531,8 @@ if there is any truth in
 that story going round...<New>
 The story of a monster in
 the sewers that is strong
-enough to kill 5 Battlers!"<Close><End of Block>
+enough to kill five
+Battlers!"<Close><End of Block>
 <TextBlock 94 w:54 h:3>
 Fei
 "Wait up! Let me<Delay 5>...<Delay 5>

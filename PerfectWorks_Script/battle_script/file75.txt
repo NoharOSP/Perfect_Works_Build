@@ -1,20 +1,20 @@
 <TextBlock 1 w:48 h:4>
 Fei
 "Why do you suddenly
-want to fight for? Are
-you crazy or something?"<Close><End of Block>
+want to fight!? Are you
+crazy or something!?"<Close><End of Block>
 <TextBlock 2 w:14 h:2>
 Fei
 "Whoa!"<Close><End of Block>
 <TextBlock 3 w:20 h:3>
 Fei
-"Y, you're
+"Y-You're
 serious?"<Close><End of Block>
 <TextBlock 4 w:48 h:4>
 Fei
-"Ugh uhh...<Delay 30> That's the
-same technique as me...!<Delay 30>
-How come...?"<Close><End of Block>
+"Urrgh...<Delay 30> That technique
+is the same as mine...<Delay 30>
+How come you...?"<Close><End of Block>
 <TextBlock 5 w:28 h:3>
 Wiseman
 "Enough talk!
@@ -24,7 +24,6 @@ Wiseman
 "Of course!
 So put up a
 good fight!<New>
-Cause if you
-don't your life
-is mine!"<Close><Close><Close><Close><Close>Q
-<Close><End of Block>
+'Cause if you
+don't, your
+life is mine!"<Close><Close><Close><Close><Close><Close><End of Block>

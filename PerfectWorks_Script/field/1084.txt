@@ -1,6 +1,7 @@
-<TextBlock 1 w:44 h:2>
+<TextBlock 1 w:44 h:3>
 Fei
-"Where is this place?"<Close><End of Block>
+"Where the hell
+are we?"<Close><End of Block>
 <TextBlock 2 w:50 h:2>
 Fei
 "Do you really doubt me?"<Close><End of Block>
@@ -10,7 +11,7 @@ Fei
 ..."<Close><End of Block>
 <TextBlock 4 w:56 h:3>
 Fei
-"...? Looks likes it's 
+"...? Looks like it's
 locked from the other side."<Close><End of Block>
 <TextBlock 5 w:20 h:2>
 Fei
@@ -18,18 +19,18 @@ Fei
 <TextBlock 6 w:12 h:2>
 Fei
 "...?"<Close><End of Block>
-<TextBlock 7 w:28 h:2>
+<TextBlock 7 w:30 h:2>
 Fei
-"Here too...?"<Close><End of Block>
+"Here, too...?"<Close><End of Block>
 <TextBlock 8 w:14 h:2>
 Fei
 "...!?"<Close><End of Block>
 <TextBlock 9 w:48 h:4>
 Fei
-"Looks like something's 
-written on the wall in 
+"Looks like something's
+written on the wall in
 blood...<New>
-<Delay 10> (Red monster).<Close><End of Block>
+<Delay 10>'Red monster'.<Close><End of Block>
 <TextBlock 10 w:26 h:4>
 Fei
 "!?
@@ -52,7 +53,7 @@ Fei
 monster left?"<Close><End of Block>
 <TextBlock 15 w:42 h:4>
 Fei
-"It's sure not human!
+"It sure isn't human!
 This is covered in
 slime."<Close><End of Block>
 <TextBlock 16 w:40 h:2>
@@ -60,15 +61,15 @@ Fei
 "...?<Delay 20> Huh?<Delay 30> ...What?"<Close><End of Block>
 <TextBlock 17 w:46 h:4>
 Fei
-"Shoot...<Delay 30>the key's not 
-here, we can't open 
-the door..."<Close><End of Block>
+"Shoot...<Delay 30> The key's not
+here. We can't open the
+door..."<Close><End of Block>
 <TextBlock 18 w:52 h:3>
 Fei
-"Hey...<Delay 30>your left arm!<Delay 40> 
+"Hey...<Delay 30>your left arm!<Delay 40>
 In that fight, you got..."<Close><End of Block>
 <TextBlock 19 w:8 h:3>
-Fei 
+Fei
 "?
 ..."<Close><End of Block>
 <TextBlock 20 w:32 h:3>
@@ -76,7 +77,7 @@ Fei
 "This is covered
 in slime."<Close><End of Block>
 <TextBlock 21 w:20 h:2>
-Fei 
+Fei
 "Here...?"<Close><End of Block>
 <TextBlock 22 w:20 h:2>
 Fei
@@ -90,13 +91,13 @@ Citan
 Well...<Delay 20>let us look around."<Close><End of Block>
 <TextBlock 25 w:52 h:3>
 Citan
-"...Something is <Delay 20>written <Delay 10> 
+"...Something is <Delay 20>written <Delay 10>
 on the wall...<New>
-Re...<Delay 30><New>
-Red...<Delay 30>monster..."<Close><End of Block>
+'Re...<Delay 30><Wait>
+Red...<Delay 30>monster...'"<Close><End of Block>
 <TextBlock 26 w:36 h:3>
 Citan
-"This must be his 
+"This must be his
 dying message."<Close><End of Block>
 <TextBlock 27 w:36 h:2>
 Citan
@@ -118,8 +119,8 @@ Citan
 ...Huh!"<Close><End of Block>
 <TextBlock 32 w:48 h:4>
 Citan
-"I wonder if he will 
-forfeit the Battling 
+"I wonder if he will
+forfeit the Battling
 because of that injury?"<Close><End of Block>
 <TextBlock 33 w:24 h:3>
 Citan
@@ -127,51 +128,52 @@ Citan
 that is it."<Close><End of Block>
 <TextBlock 34 w:40 h:4>
 Rico
-"Let's look for it. 
-We'll talk more if 
-we really find it."<Close><End of Block>
+"Let's look for this
+thing.<New>
+If there really is
+such a monster, then
+we'll talk."<Close><End of Block>
 <TextBlock 35 w:36 h:2>
 Rico
 "What's wrong...?"<Close><End of Block>
 <TextBlock 36 w:38 h:3>
 Rico
-"Well, this is the 
+"Well, this is the
 murder spot."<Close><End of Block>
-<TextBlock 37 w:38 h:3>
+<TextBlock 37 w:32 h:3>
 Rico
-"Must've written it
-as he was dying."<Close><End of Block>
+"Leonardo..."<Close><End of Block>
 <TextBlock 38 w:50 h:3>
 Rico
-"Hey! What's this slime? 
+"Hey! What's this slime?
 What <Delay 30>a mess..."<Close><End of Block>
-<TextBlock 39 w:28 h:3>
+<TextBlock 39 w:32 h:3>
 Rico
 "Looks like he
-got it here."<Close><End of Block>
+bought it here."<Close><End of Block>
 <TextBlock 40 w:52 h:3>
 Rico
-"Hey, this is the same as 
+"Hey, this is the same as
 that stuff over there..."<Close><End of Block>
 <TextBlock 41 w:48 h:3>
 Rico
-"Something's down here, 
+"Something's down here,
 that's for sure..."<Close><End of Block>
-<TextBlock 42 w:28 h:3>
+<TextBlock 42 w:32 h:3>
 Rico
 "Looks like he
-got it here."<Close><End of Block>
+bought it here."<Close><End of Block>
 <TextBlock 43 w:38 h:3>
 Rico
-"It's over by that 
-drain too."<Close><End of Block>
+"It's over by that
+drain, too."<Close><End of Block>
 <TextBlock 44 w:52 h:3>
 Rico
-"Hey, this is the same as 
+"Hey, this is the same as
 that stuff over there..."<Close><End of Block>
 <TextBlock 45 w:38 h:3>
 Rico
-"Well, this is the 
+"Well, this is the
 murder spot."<Close><End of Block>
 <TextBlock 46 w:44 h:2>
 Rico
@@ -181,7 +183,7 @@ Rico
 "More of the same..."<Close><End of Block>
 <TextBlock 48 w:44 h:4>
 Rico
-"Search around this 
+"Search around this
 level some more...<New>
 The murder site should
 be around here...
@@ -192,12 +194,12 @@ Rico
 "...Whaddya doin'?"<Close><End of Block>
 <TextBlock 50 w:34 h:4>
 Rico
-"Outa the way!
+"Outta the way!
 Let me try...<Delay 30>
-...gwahh<Delay 30>, huh?<New>
-...What?...<Delay 30>
-huff, huff, huff,
-ha-h."<Close><End of Block>
+...Gwahh<Delay 30>...huh?<New>
+...What...<Delay 30>?
+*Huff, huff,
+huff*...hurrgh!"<Close><End of Block>
 <TextBlock 51 w:44 h:3>
 Rico
 "Idiot.
@@ -221,14 +223,16 @@ from the other side."<Close><End of Block>
 <TextBlock 56 w:44 h:4>
 Leonardo
 "Heh heh...
-Jerk...he's probably 
+Jerk... He's probably
 in bed somewhere now."<Close><End of Block>
 <TextBlock 57 w:50 h:3>
 Leonardo
-"Hmph, I don' get it.<New>
-Let's just get this over 
-with. Tonight's creepy, 
-the rats are restless."<Close><End of Block>
+"Hmph, there's no way he
+could know.<New>
+Let's just get this over
+with.<New>
+It's creepy tonight...
+The rats are restless."<Close><End of Block>
 <TextBlock 58 w:48 h:3>
 Leonardo
 "Oh man,<Delay 30> this is bad...<New>
@@ -239,19 +243,19 @@ Something weird's out
 there."<Close><End of Block>
 <TextBlock 59 w:36 h:3>
 Leonardo
-"Tch!
-So you came out!?"<Close><End of Block>
-<TextBlock 60 w:24 h:2>
+"Tch! I guess he
+Upped and left!"<Close><End of Block>
+<TextBlock 60 w:30 h:2>
 Leonardo
-"What the!?"<Opcode 2 5><Close><End of Block>
+"What the...!?"<Opcode 2 5><Close><End of Block>
 <TextBlock 61 w:40 h:3>
 Leonardo
 "Crap...
-this...monster's..."<Opcode 2 3><Close><End of Block>
-<TextBlock 62 w:26 h:3>
+This...monster..."<Opcode 2 3><Close><End of Block>
+<TextBlock 62 w:22 h:3>
 Leonardo
-"St...<Delay 5>
-stay away..."<Opcode 2 2><Close><End of Block>
+"St-<Delay 5>Stay
+away..."<Opcode 2 2><Close><End of Block>
 <TextBlock 63 w:22 h:2>
 <Opcode 1 255>Leonardo
 "Uwaahhhhh"<Opcode 2 20><Close><End of Block>
@@ -262,7 +266,7 @@ much? If Champ finds
 out, we're done for!"<Close><End of Block>
 <TextBlock 65 w:36 h:3>
 Heinrich
-"What, this isn't 
+"This just isn't
 like you...<New>
 Alright, then you
 take that one..."<Close><End of Block>
@@ -278,7 +282,7 @@ Heinrich
 be my imagination."<Close><End of Block>
 <TextBlock 69 w:16 h:2>
 <Opcode 1 255>Heinrich
-"What!!"<Opcode 2 20><Close><End of Block>
+"Wha!?"<Opcode 2 20><Close><End of Block>
 <TextBlock 70 w:4 h:1>
 -3<Opcode 2 20><Close><End of Block>
 <TextBlock 71 w:50 h:4>
