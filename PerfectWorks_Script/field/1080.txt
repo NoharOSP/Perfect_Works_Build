@@ -12,15 +12,15 @@ Fei
 What do you mean?"<Close><End of Block>
 <TextBlock 4 w:32 h:3>
 Rico
-"Tchi!
+"Tch!
 Don't like him!"<Close><End of Block>
-<TextBlock 5 w:10 h:2>
+<TextBlock 5 w:14 h:2>
 Rico
-"Ah!"<Opcode 2 20><Close><End of Block>
+"Whoa!"<Opcode 2 20><Close><End of Block>
 <TextBlock 6 w:26 h:3>
 Rico
-"Ah crap!
-The Kaiser?!"<Opcode 2 30><Close><End of Block>
+"Ah, crap,
+the Kaiser!?"<Opcode 2 30><Close><End of Block>
 <TextBlock 7 w:36 h:4>
 Rico
 "This is bad!
@@ -99,11 +99,11 @@ Sigmund
 "Ha ha hah. Excuse me.
 I am the Kaiser of
 Kislev, Sigmund."<Close><End of Block>
-<TextBlock 25 w:52 h:4>
+<TextBlock 25 w:50 h:4>
 Sigmund
-"This may sound sudden but
-would you like to join
-forces?<New>
+"This may sound sudden,
+but...would you like to
+join forces?<New>
 I need your assistance."<Close><End of Block>
 <TextBlock 26 w:32 h:2>
 Sigmund
@@ -289,8 +289,8 @@ Jackpot! 100 in a row!<Close><End of Block>
 <TextBlock 71 w:40 h:2>
 Capacity overload...
 Unable to compute...<Close><End of Block>
-<TextBlock 72 w:44 h:1>
-Se..self-destructing..<Close>.<Close><End of Block>
+<TextBlock 72 w:46 h:1>
+Se<--> Self-destructing...<Close><Close><End of Block>
 <TextBlock 73 w:24 h:1>
 3...<Delay 20>2...<Delay 20>1...<Opcode 2 30><Close><End of Block>
 <TextBlock 74 w:30 h:1>

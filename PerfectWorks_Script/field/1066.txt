@@ -1,7 +1,7 @@
 <TextBlock 1 w:48 h:4>
 Citan
 "Hammer should have been
-able get that
+able to get that
 information by now."<Close><End of Block>
 <TextBlock 2 w:48 h:3>
 Citan
@@ -37,7 +37,7 @@ Imperial Guard
 the entire area is under
 martial law.<New>
 Only army personnel may pass
-through the Central 
+through the Central
 District. <Delay 15> I'm sorry,<Delay 5>
 but you must leave."<Close><End of Block>
 <TextBlock 9 w:36 h:2>
@@ -57,13 +57,13 @@ avoid any discourtesy."<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Soldier
 "This is the Kislev
-Central District.
-Only authorized perso...<New>
+Central District.<New>
+Only authorized perso<-->
 Huh? Well, if isn't the
 Battling Champ, Fei."<Close><End of Block>
 <TextBlock 14 w:46 h:3>
 Soldier
-"I apologize for that. 
+"I apologize for that.
 Please, enter."<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 Soldier
@@ -73,8 +73,8 @@ District. Please, leave."<Close><End of Block>
 <TextBlock 16 w:48 h:4>
 Soldier
 "This is the Kislev
-Central District.
-Only authorized perso...<New>
+Central District.<New>
+Only authorized perso<-->
 Huh? Well, if isn't the
 Battling Champ, Fei."<Close><End of Block>
 <TextBlock 17 w:46 h:2>
@@ -97,7 +97,7 @@ Imperial Guard
 the entire area is under
 martial law.<New>
 Only army personnel may pass
-through the Central 
+through the Central
 District.<Delay 15> I'm sorry,<Delay 5>
 but you must leave."<Close><End of Block>
 <TextBlock 21 w:54 h:3>
@@ -118,8 +118,8 @@ but please be cautious of
 what you say."<Close><End of Block>
 <TextBlock 25 w:54 h:4>
 Soldier
-"No, no! Only authorized...
-Huh? Oh it's Fei, the
+"No, no! Only authorized<-->
+Huh? Oh, it's Fei, the
 Battling Champ."<Close><End of Block>
 <TextBlock 26 w:28 h:3>
 Soldier
@@ -137,10 +137,10 @@ His owner died recently.
 ...He still doesn't know so
 he always waits for his
 master's return..."<Close><End of Block>
-<TextBlock 29 w:46 h:1>
-"...wimper...wimper..."<Close><End of Block>
-<TextBlock 30 w:42 h:1>
-"...wimper...wimper."<Opcode 2 30><Close><End of Block>
+<TextBlock 29 w:36 h:1>
+"...*Whimper*..."<Close><End of Block>
+<TextBlock 30 w:32 h:1>
+"...*Whimper*."<Opcode 2 30><Close><End of Block>
 <TextBlock 31 w:32 h:2>
 Initiating
 decontamination.<Opcode 2 30><Close><End of Block>
@@ -149,5 +149,4 @@ Please wait in the
 center area.<Opcode 2 30><Close><End of Block>
 <TextBlock 33 w:30 h:3>
 Decontamination
-completed.<Opcode 2 30>
-ompleted.<Opcode 2 30><Close><End of Block>
+completed.<Opcode 2 30><Close><End of Block>

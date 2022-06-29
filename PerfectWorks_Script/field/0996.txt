@@ -5,12 +5,12 @@ slip.<Delay 15> But I'm the Battling
 Champion. Does that help?"<Close><End of Block>
 <TextBlock 2 w:48 h:4>
 Fei
-"Puff, puff! <Delay 5>...<Delay 5>Damn!<Delay 15>
-Boy is that guy quick at
-running away!"<Opcode 2 90><Close><End of Block>
+"*Huff, puff*! <Delay 5>...<Delay 5>Damn!<Delay 15>
+Boy, that guy runs away
+fast!"<Opcode 2 90><Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Fei
-"Puff,<Delay 5> puff<Delay 5>...<Delay 15>
+"*Huff,<Delay 5> puff*<Delay 5>...<Delay 15>
 Around here should be 
 safe enough I guess<Delay 5>..."<Close><End of Block>
 <TextBlock 4 w:54 h:4>
@@ -21,7 +21,7 @@ have I heard that before?"<Close><End of Block>
 <TextBlock 5 w:52 h:4>
 Citan
 "The meeting place was the
-'Wildcat', a bar in the 
+Wildcat, a bar in the
 civilian area, was it not?<New>
 Well then, let us go!"<Close><End of Block>
 <TextBlock 6 w:30 h:1>
@@ -44,7 +44,7 @@ Locked from the inside!<Opcode 2 30><Close><End of Block>
 My big sister has her heart
 set on a someone<Delay 5>...<Delay 15>
 She thinks he'll come back
-one day<Delay 5>...<Delay 5> so she keeps
+one day<Delay 5>...<Delay 5>so she keeps
 waiting and waiting and<Delay 5>...<Close><End of Block>
 <TextBlock 15 w:56 h:3>
 Children should play outside
@@ -68,7 +68,7 @@ from all sorts of damage!<Close><End of Block>
 <TextBlock 19 w:62 h:4>
 Accessories not only make you
 look better, but some of them
-also have wonderous effects.<Delay 15>
+also have wondrous effects.<Delay 15>
 I recommend you check them out!<Close><End of Block>
 <TextBlock 20 w:58 h:4>
 From Aqua to Omega, we have
@@ -77,7 +77,7 @@ leave home without our tents
 that totally restore you!<Close><End of Block>
 <TextBlock 21 w:56 h:4>
 This city's other name is
-"the town of steam" because
+'the town of steam' because
 steam is being blown out of
 everywhere the eye can see.<New>
 Due to this, whenever you go
@@ -85,7 +85,7 @@ out of your house you come
 back pitch black all over!<Delay 15>
 It also roughens your skin!<Close><End of Block>
 <TextBlock 22 w:52 h:4>
-So why am I outside then?
+So why am I outside, then?
 You shouldn't be so picky
 about such little details!
 I have my reasons!<Close><End of Block>
@@ -103,10 +103,10 @@ Big Joe
 Big Joe
 "<Delay 5>...<Delay 5>C'mon, stop the joshing.
 If you change your mind at
-any time<Delay 5>...<Delay 5> well you know!<Close><End of Block>
+any time<Delay 5>...<Delay 5> Well, you know!<Close><End of Block>
 <TextBlock 26 w:54 h:4>
 Big Joe
-"Hee-hee!<Delay 5> There's something
+"Heh-heh!<Delay 5> There's something
 really interesting beyond
 here!<Delay 10> Do you want a look?"<Close><End of Block>
 <TextBlock 27 w:44 h:4>
@@ -121,7 +121,7 @@ Big Joe
     It's a deal!<Close><End of Block>
 <TextBlock 29 w:54 h:3>
 Big Joe
-"Now then boy, you're not 
+"Now then, boy, you're not 
 making fun of me, are you?"<Close><End of Block>
 <TextBlock 30 w:36 h:1>
 Handed over 5000G.<Close><End of Block>
@@ -132,7 +132,7 @@ The fun starts from here!
 Never fear, I'll be here!"<Close><End of Block>
 <TextBlock 32 w:54 h:4>
 Big Joe
-"<Delay 5>...<Delay 5>Wha, huh!<Delay 15> I can't do
+"<Delay 5>...<Delay 5>Whaaat!?<Delay 15> I can't do
 any business with guys who 
 haven't got 5000G! So-rry!"<Close><End of Block>
 <TextBlock 33 w:54 h:4>
@@ -147,13 +147,13 @@ ever seen a floating city?<Close><End of Block>
 <TextBlock 34 w:56 h:3>
 The attack by our enemy
 kingdom Av on our Imperial
-capital was really scary!<New>
+Capital was really scary!<New>
 If that ever happens again,
 I'm out of here! Perhaps I
 might move to Nisan!<Close><End of Block>
 <TextBlock 35 w:56 h:5>
 To the northwest of here is
-the Imperial capital's D 
+the Imperial Capital's D
 Block, which is used as the
 criminal detention area.<New>
 It's a dirty place full of
@@ -171,55 +171,55 @@ near our civilian area!<Close><End of Block>
 <TextBlock 37 w:54 h:4>
 Oooh<Delay 5>...<Delay 5> Diana<Delay 5>...<Delay 5> During the
 assault on our capital<Delay 5>...<Delay 5>
-by Av<Delay 5>...<Delay 15> she tried to 
+by Av<Delay 5>...<Delay 15>she tried to
 save a child<Delay 5>...<New>
-...<Delay 5>Is there no god looking
-over our world?<Delay 5> ...<Delay 5>Why?<Delay 5> ...<Delay 5>
+...<Delay 5>Is there no God looking
+over our world?<Delay 5> ...<Delay 5>Why?<Delay 5>
 And a woman like her!<Delay 5> ...<Delay 5>Is
-this the fate god chose?<Close><End of Block>
+this the fate God chose?<Close><End of Block>
 <TextBlock 38 w:42 h:2>
 And I never got to<Delay 5>...<Delay 5>
 tell her that<Delay 5>...<Close><End of Block>
 <TextBlock 39 w:58 h:4>
 Diana has gone back to look
-after D Block<Delay 5>...<Delay 5>I'd like to
+after D Block<Delay 5>...<Delay 5> I'd like to
 have her fix my ills, but I'm
 too scared to go to D Block!<New>
 But after being assigned to
 the civilian area she lost
-her cheer a little<Delay 5>...<Delay 5>Perhaps
+her cheer a little<Delay 5>...<Delay 5> Perhaps
 going back was best for her!<Close><End of Block>
 <TextBlock 40 w:54 h:4>
-O.K., now to injure myself!
-(But try not to let it hurt
+Okay, now to injure myself!
+(But try to not let it hurt
 too much!) And then<Delay 5>...<Delay 5>
 it's off to see Diana!<Close><End of Block>
 <TextBlock 41 w:54 h:3>
 What's with you, huh?<Delay 15>
-I'm just passing by<Delay 5>...<Delay 5>O.K.<Delay 45>
+I'm just passing by<Delay 5>...<Delay 5>okay?<Delay 45>
 So don't bother me.<Delay 5> See ya!<Close><End of Block>
 <TextBlock 42 w:56 h:4>
-My leg's hurt from running
+My legs hurt from running
 around in circles all day!
 I tell you, pushing yourself
 too much isn't good for you!<Close><End of Block>
 <TextBlock 43 w:54 h:3>
 Because of the long balance
-in power, I let myself get
+of power, I let myself get
 out of shape<Delay 5>...<New>
 So now I am trying to build
 up my physique by running 
 around in circles.<Close><End of Block>
 <TextBlock 44 w:56 h:2>
-But 
-<Delay 5>...<Delay 5>it feels a little futile.<Close><End of Block>
+But<Delay 5>...<Delay 5>
+it feels a little futile.<Close><End of Block>
 <TextBlock 45 w:60 h:5>
 Using Av's raid on our
-Imperial capital as a pretext,
+Imperial Capital as a pretext,
 they are going to start yet
 another massive war effort!
 When did this all start?<New>
-We have been at war for so 
+We have been at war for so
 long that we've forgotten
 what we are fighting over<Delay 5>...<Delay 5>
 Will there ever be an end
@@ -234,7 +234,7 @@ Imperial Government is."<Close><End of Block>
 <TextBlock 47 w:54 h:5>
 Imperial City Guard
 "It's after sundown.<Delay 15> Non-
-Imperial capital personnel
+Imperial Capital personnel
 must show a permission slip
 in order to pass!"<Close><End of Block>
 <TextBlock 48 w:42 h:3>
@@ -268,8 +268,8 @@ round and go back!"<Opcode 2 60><Close><End of Block>
 <TextBlock 53 w:58 h:6>
 Imperial City Guard
 "It is after sundown already.<Delay 15>
-journeying outside of the
-Imperial capital's perimeters
+Journeying outside of the
+Imperial Capital's perimeter
 is dangerous. I can not let
 you leave now!"<Close><End of Block>
 <TextBlock 54 w:38 h:2>
@@ -284,7 +284,7 @@ Imperial City Guard
 "You're the Battling Champ!?<New>
 Beyond here you'll leave the
 safety of the Imperial
-capital and enter regions
+Capital and enter regions
 where monsters roam!<New>
 Perhaps you don't need me
 to tell you this, but
@@ -294,7 +294,7 @@ Imperial City Guard
 "<Delay 5>...?<Delay 15> I guess I'm 
 imagining things<Delay 5>...<New>
 Anyway, welcome to Noatun,
-the Kislev Imperial capital.
+the Kislev Imperial Capital.
 Greetings and salutations!<Close><End of Block>
 <TextBlock 58 w:46 h:2>
 Imperial City Guard
@@ -312,14 +312,14 @@ Imperial City Guard
 "<Delay 5>...<Delay 5>That's strange?<Delay 15> Haven't
 I seen you somewhere before?<Delay 30>
 Hmm, I must have the wrong 
-person<Delay 5>...<Delay 5>errh, sorry."<Close><End of Block>
+person<Delay 5>...<Delay 5> Errh, sorry."<Close><End of Block>
 <TextBlock 61 w:56 h:6>
 Imperial City Guard
 "Because martial law has
 been imposed throughout the
-whole Imperial capital area,
+whole Imperial Capital area,
 civilians can only pass in 
-and out the 'front gate'<Delay 5>...<New>
+and out the front gate<Delay 5>...<New>
 There are also rumors about
 convicts, who attempted to
 escape by taking advantage
@@ -342,9 +342,9 @@ Champions as well!"<Close><End of Block>
 <TextBlock 64 w:56 h:5>
 Imperial City Guard
 "This is the Kislev Imperial
-capital barracks.
+Capital barracks.
 Entrance without permission
-is prohib...<Delay 5><New>
+is prohib<--><Delay 5><New>
 Hey aren't you the Battling
 Champion?<Delay 15> Permission?<Delay 5>
 Why, you don't need that!<Delay 5>
@@ -354,14 +354,14 @@ Imperial City Guard
 "Well then,<Delay 5> please do enter."<Close><End of Block>
 <TextBlock 66 w:56 h:5>
 Imperial City Guard
-"The head-cook told us off.
+"The head cook told us off.
 I'd like to let you enter,
 but for a while the barracks
-are off limits!"<Close><End of Block>
+is off-limits!"<Close><End of Block>
 <TextBlock 67 w:52 h:3>
 Big Joe
-"Wait up, already will ya!<Delay 15>
-Stop the hurrying, O.K.!"<Opcode 2 60><Close><End of Block>
+"Wait up already, will ya?<Delay 15>
+Stop the hurrying, okay!?"<Opcode 2 60><Close><End of Block>
 <TextBlock 68 w:44 h:2>
 Big Joe
 "Oooh,<Delay 5> wait a moment!"<Opcode 2 60><Close><End of Block>
@@ -371,7 +371,7 @@ Big Joe
 straight ahead now."<Opcode 2 45><Close><End of Block>
 <TextBlock 70 w:32 h:4>
 <Perso1>
-"<Delay 5>...<Delay 5>huh?<Delay 15>
+"<Delay 5>...<Delay 5>Huh?<Delay 15>
 Somebody dropped
 something here!"<Close><End of Block>
 <TextBlock 71 w:38 h:1>
@@ -382,22 +382,22 @@ Fei
 It's just a dead end!?"<Opcode 2 60><Close><End of Block>
 <TextBlock 73 w:56 h:4>
 Hammer
-"Wai, bro-! Do, doc, Cita-n?
+"Wait, bro~! D-Doc Cita~n?
 Where are you going?<Delay 15>
 Hey, are you listening?"<Opcode 2 90><Close><End of Block>
-<TextBlock 74 w:28 h:2>
+<TextBlock 74 w:30 h:2>
 <Opcode 1 255>Fei
-"Woh! Hey<Delay 5>...!"<Opcode 2 30><Close><End of Block>
+"Whoa! Hey<Delay 5>...!"<Opcode 2 30><Close><End of Block>
 <TextBlock 75 w:36 h:4>
 Weapon Lady
 "Whoooo iiis iiit?<Delay 15>
-Weee've shut shop 
+Weee've shut shop
 fooor the daaaay!"<Close><End of Block>
 <TextBlock 76 w:56 h:4>
 Fei
-"<Delay 5>...<Delay 5> Can't you do something?<Delay 15>
-Please, we'll buy some stuff
-so, come on now, open up!"<Close><End of Block>
+"<Delay 5>...<Delay 5>Can't you do something?<Delay 15>
+Please, we'll buy something.
+So, come on now, open up!"<Close><End of Block>
 <TextBlock 77 w:54 h:4>
 Weapon Lady
 "Ohhh, aaalriight!<Delay 15>
@@ -411,9 +411,9 @@ it down will ya!<Delay 15> Come back
 tomorrow, alright!"<Close><End of Block>
 <TextBlock 79 w:56 h:4>
 Fei
-"<Delay 5>...<Delay 5> Can't you do something?<Delay 15>
-Please, we'll buy some stuff
-so, come on now, open up!"<Close><End of Block>
+"<Delay 5>...<Delay 5>Can't you do something?<Delay 15>
+Please, we'll buy something.
+So, come on now, open up!"<Close><End of Block>
 <TextBlock 80 w:54 h:6>
 Tool Guy
 "You said you'd buy some
@@ -426,18 +426,18 @@ Tool Guy
 "Alright now,<Delay 5> opening up!"<Close><End of Block>
 <TextBlock 82 w:58 h:4>
 Imperial City Guard
-"Due to the attack on our
-Imperial capital by our
+"Due to the attack on the
+Imperial Capital by our
 enemy, the Kingdom of Av...<New>
 non-army personnel are not
-allowed to pass into the 
+allowed to pass into the
 Central District where the
 Kaiser Government operates!"<Close><End of Block>
 <TextBlock 83 w:52 h:4>
 Imperial City Guard
 "Please keep back!<Delay 30>
 <Delay 5>...<Delay 5>Oh, and by the way, you
-look awfully familiar<Delay 5>...?"<Close><End of Block>
+look awfully familiar<Delay 5>..."<Close><End of Block>
 <TextBlock 84 w:50 h:3>
 Fei
 "Huh-ha!?<Delay 15> ...<Delay 5>
@@ -590,22 +590,22 @@ Big Joe
 <TextBlock 113 w:56 h:4>
 Big Joe
 "Oh!<Delay 10> So you do want to go
-take a look, huh? <Delay 5>...<New>
+take a look, huh<Delay 5>...?<New>
 Well, young man, if all in
 this world was that easy,
 huh? You know, I can't just
 let you go see for free!<New>
 So...
-let's make a deal then boy!
+let's make a deal then, boy!
 I'm talking money, friend!
-Cash, mullah, wampum, G!<New>
+Cash, moolah, wampum, G!<New>
 If I was just to get out of
-your way and leave<Delay 5>...<Delay 5> well,
+your way and leave<Delay 5>...<Delay 5>well,
 it would benefit you, but<Delay 5>...<Delay 5>
 it'd be of no profit to me!<New>
 If I gain, you gain!<Delay 15>
 That's the way it goes!<Delay 5>
-It's a fair trade, is it 
+It's a fair trade, is it
 not, friend?"<Close><End of Block>
 <TextBlock 114 w:52 h:4>
 Big Joe
@@ -626,47 +626,47 @@ The fun starts from here!
 Never fear, I'll be here!"<Close><End of Block>
 <TextBlock 118 w:54 h:4>
 Big Joe
-"<Delay 5>...<Delay 5>Wha, huh!<Delay 15> I can't do
-any business with guys who 
+"<Delay 5>...<Delay 5>Whaaat!?<Delay 15> I can't do
+any business with guys who
 haven't got 5000G! So-rry!"<Close><End of Block>
 <TextBlock 119 w:34 h:2>
 Fei
 "Ah! Hey, wait!!"<Opcode 2 45><Close><End of Block>
 <TextBlock 120 w:52 h:4>
 Hammer
-"Bro---!<Delay 15> With these ears,
+"Bro~!<Delay 15> With these ears,
 I've picked up the latest
 information on your Gear!"<Opcode 2 90><Close><End of Block>
 <TextBlock 121 w:50 h:3>
 Hammer
-"Hee-hee, I've pinpointed
-where your Gear is bro!"<Close><End of Block>
+"Heehee, I've pinpointed
+where your Gear is, bro!"<Close><End of Block>
 <TextBlock 122 w:50 h:3>
 Fei
-"<Delay 5>...<Delay 5> Hold on a second!<New>
+"<Delay 5>...<Delay 5>Hold on a second!<New>
 (Don't you think it's
 dangerous to talk about
-that stuff around here!)"<Close><End of Block>
+that stuff around here?)"<Close><End of Block>
 <TextBlock 123 w:54 h:4>
 Hammer
 "Huh?<Delay 15>
 What's with you, bro?<Delay 15>
-I have info on your Gea<Delay 5>..."<Opcode 2 45><Close><End of Block>
+I have info on your Gea<--><Delay 5>"<Opcode 2 45><Close><End of Block>
 <TextBlock 124 w:42 h:3>
-<Opcode 1 255>Hammer
+Hammer
 "Eeek!<Delay 10>
-Wha,<Delay 5> wha,<Delay 5> what the!?"<Close><End of Block>
+Wh-<Delay 5>Wh-<Delay 5>What the...!?"<Close><End of Block>
 <TextBlock 125 w:44 h:3>
 Citan
-"I will explain later!
-Just move it, O.K.!"<Close><End of Block>
-<TextBlock 126 w:40 h:2>
+"I will explain later.
+For now, let us move."<Close><End of Block>
+<TextBlock 126 w:34 h:2>
 Hammer
-"Waaaaaaiiiii----<Delay 15>t!"<Opcode 2 45><Close><End of Block>
+"Waaaaaaiiiiit!"<Opcode 2 45><Close><End of Block>
 <TextBlock 127 w:52 h:4>
 Fei
 "It should be safe here.<Delay 15>
-Now Hammer,<Delay 5> tell me where 
+Now Hammer,<Delay 5> tell me where
 my Gear is."<Close><End of Block>
 <TextBlock 128 w:54 h:4>
 Hammer
@@ -682,9 +682,9 @@ Hammer
 "Not 'on earth', but under
 the earth! It's in an under-
 ground dock in D Block!<New>
-I've checked into it and 
+I've checked into it and
 found out that there are
-two routes we can use to 
+two routes we can use to
 sneak inside.<New>
 The first one requires us
 to enter via the Battling
@@ -697,27 +697,27 @@ Arena!<Delay 15> What's the second?"<Close><End of Block>
 <TextBlock 132 w:54 h:4>
 Hammer
 "The second way is a little
-dangerous as it involves 
+dangerous as it involves
 the supply train tunnel.<New>
 You have to get into the
 tunnel's ducts and follow
 them right through till
 they lead to the docks.<New>
 But I couldn't find out
-the duct's layout<Delay 5>...<Delay 30>
+the ducts' layout<Delay 5>...<Delay 30>
 Sorry, bro."<Close><End of Block>
 <TextBlock 133 w:52 h:4>
 Fei
 "<Delay 5>...<Delay 5>Oh that tunnel, huh?<New>
-Well, now that we have the
-bomb problem off of our
+Well, now that we have
+the bomb problem off our
 necks, we might be able to
 make a go of it!"<Close><End of Block>
 <TextBlock 134 w:54 h:4>
 Citan
 "Yes, but we are still left
-with not knowing the times
-that the trains pass by on.<New>
+with not knowing what times
+the trains pass by.<New>
 Will a supply train pass by
 at a time that is of any
 use to us?"<Close><End of Block>
@@ -728,11 +728,11 @@ decided now. Let's take our
 time and plan it carefully!"<Close><End of Block>
 <TextBlock 136 w:54 h:4>
 Fei
-"Firstly Hammer, I'm sorry
+"Firstly: Hammer, I'm sorry
 to put you out, but<Delay 5>...<New>
-Could you find out the days
-and times that the supply
-trains operate on for us
+could you find out for us
+the days and times that the
+supply trains operate,
 please?"<Close><End of Block>
 <TextBlock 137 w:54 h:3>
 Hammer
@@ -741,9 +741,9 @@ Well then, I'll be off!"<Close><End of Block>
 <TextBlock 138 w:42 h:4>
 Citan
 "Shall we also return
-to D Block for the 
+to D Block for the
 time being?"<Close><End of Block>
 <TextBlock 139 w:54 h:3>
-      " WILDCAT "
-- The official bar of the
-Imperial capital, Noatun -<Close><Close><End of Block>
+        - WILDCAT -
+  The official bar of the
+  Imperial Capital Noatun<Close><Close><End of Block>

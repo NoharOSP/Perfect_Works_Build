@@ -988,7 +988,7 @@ but<Delay 5>..."<Close><End of Block>
 <TextBlock 184 w:54 h:4>
 Rue
 "We told you before that
-the committee would prepare
+the Committee would prepare
 a machine for you<Delay 5>...<Delay 15><New>
 What, did you forget?"<Close><End of Block>
 <TextBlock 185 w:54 h:4>

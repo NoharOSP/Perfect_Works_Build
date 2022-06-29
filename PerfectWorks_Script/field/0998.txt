@@ -562,10 +562,10 @@ Fei
 Battler
 "Don't be so cruel.<Delay 10>
 We've been waiting for you."<Close><End of Block>
-<TextBlock 103 w:26 h:3>
+<TextBlock 103 w:22 h:3>
 Citan
 "Waiting?<Delay 30>
-For<Delay 15>...<Delay 5>...us?"<Close><End of Block>
+For<Delay 15>...<Delay 5>us?"<Close><End of Block>
 <TextBlock 104 w:32 h:3>
 Battler
 "Please,<Delay 15>
@@ -591,7 +591,7 @@ Battler
 "Right,<Delay 5> sorry."<Close><End of Block>
 <TextBlock 109 w:46 h:3>
 Citan
-"<Delay 5>...<Delay 5>Well, I assume
+"<Delay 5>...<Delay 5>Well, I will assume
 you are not hostile<Delay 5>..."<Close><End of Block>
 <TextBlock 110 w:10 h:2>
 Fei
@@ -615,7 +615,7 @@ waiting at the dormitory?"<Close><End of Block>
 Citan
 "This is the meeting place?<Delay 15>
 <Delay 5>...<Delay 5>Hold on.<New>
-Well, <Delay 5>let us we go
+Well, <Delay 5>let us go
 to the arena."<Close><End of Block>
 <TextBlock 115 w:50 h:3>
 Fei

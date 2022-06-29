@@ -18,12 +18,12 @@ Rico
 "Hey, it does open."<Opcode 2 30><Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Rico
-"Nothing...<Delay 30>
-I just came in through
+"It was nothing...<Delay 30>
+I just went in through
 the entrance."<Close><End of Block>
-<TextBlock 7 w:46 h:3>
+<TextBlock 7 w:44 h:3>
 Rico
-"Well... I'll be seein'
+"Well...I'll be seein'
 ya around sometime."<Close><End of Block>
 <TextBlock 8 w:18 h:1>
 DNA error<Opcode 2 40><Close><End of Block>
@@ -35,10 +35,10 @@ room.<New>
 No one's been allowed in
 ever since she disappeared.<New>
 Please, leave.<Close><End of Block>
-<TextBlock 11 w:38 h:1>
-What! Is that true?<Close><End of Block>
+<TextBlock 11 w:40 h:1>
+What!? Is that true?<Close><End of Block>
 <TextBlock 12 w:48 h:3>
-...Yeah<New>
+...Yeah.<New>
 This door won't open for
 anyone except the Kaiser
 and his wife.<Close><End of Block>
@@ -59,14 +59,14 @@ room.<New>
 No one's been allowed in
 ever since she disappeared.<New>
 Please, leave.<Close><End of Block>
-<TextBlock 17 w:32 h:1>
-Hey! Is it okay?<Opcode 2 30><Close><End of Block>
+<TextBlock 17 w:36 h:1>
+Hey! Is this okay?<Opcode 2 30><Close><End of Block>
 <TextBlock 18 w:14 h:1>
 Yessir!<Opcode 2 20><Close><End of Block>
 <TextBlock 19 w:50 h:3>
 Sigmund
-"You...<Delay 30>
-How did you get in here?"<Close><End of Block>
+"You...<Delay 30> How did you get
+in this room?"<Close><End of Block>
 <TextBlock 20 w:42 h:3>
 Sigmund
 "...It was probably a
@@ -79,17 +79,19 @@ The Battling Committee
 is after him for breaking
 his contract. Let them
 deal with him."<Close><End of Block>
-<TextBlock 22 w:30 h:3>
+<TextBlock 22 w:30 h:4>
 Sigmund
-"...No<Delay 30>...can't
-possibly<Delay 20> be..."<Close><End of Block>
+"...No<Delay 30>...it
+can't possibly<Delay 20>
+be..."<Close><End of Block>
 <TextBlock 23 w:54 h:4>
 Sigmund
 "That man was suspected of
-trying to assassinate me
-12 years ago.<New>
-The police are looking into
-the matter now.<New>
+trying to assassinate me.
+And not for the first time.<New>
+The Imperial Guard are
+looking into the matter
+now.<New>
 Well, I have some sudden
 matters to attend to, so
 if you'll excuse me.<New>
@@ -108,8 +110,8 @@ command room.<Close><End of Block>
 <TextBlock 26 w:48 h:4>
 Good job.
 On the right hand side,
-you can get to the 3rd
-pathway in the basement.<Close><End of Block>
+you can take the third
+pathway to the basement.<Close><End of Block>
 <TextBlock 27 w:50 h:4>
 Good.
 Above us is the bridge,
