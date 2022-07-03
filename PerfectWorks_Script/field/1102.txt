@@ -3,19 +3,19 @@ I'm<Delay 15>...<Delay 30>
 alive?<Delay 20>
 ...<Delay 20>?<Close><End of Block>
 <TextBlock 2 w:28 h:2>
-Who<Delay 15>...<Delay 15>are you?
-Why, <Delay 15>me?<Close><End of Block>
+Who...<Delay 15>are you?
+Why<Delay 15> me?<Close><End of Block>
 <TextBlock 3 w:14 h:1>
 Wait<Delay 10>...<Close><End of Block>
 <TextBlock 4 w:16 h:2>
-...<Delay 30>Elly,
+Elly...<Delay 30>
 Elly<Delay 10>...<Delay 10><Close><End of Block>
 <TextBlock 5 w:14 h:1>
 Who<Delay 10>...?<Close><End of Block>
 <TextBlock 6 w:16 h:1>
 <Delay 10>...<Delay 10>Elly!<Close><End of Block>
 <TextBlock 7 w:18 h:1>
-You're<Delay 10>...<Close><End of Block>
+You<Delay 10>...<Close><End of Block>
 <TextBlock 8 w:8 h:1>
 Fei?<Close><End of Block>
 <TextBlock 9 w:12 h:2>
@@ -23,8 +23,8 @@ Elly
 "Fei?"<Close><End of Block>
 <TextBlock 10 w:40 h:3>
 Fei
-"...<Delay 10>
-Stupid<Delay 10>...<Delay 10>foolish<Delay 10>..."<Close><End of Block>
+"...<Delay 10>Of all the<Delay 10>...<Delay 10>
+stupid<Delay 10>..."<Close><End of Block>
 <TextBlock 11 w:42 h:3>
 Elly
 "...<Delay 10>Are you<Delay 10>...<Delay 10>crying?
@@ -46,9 +46,10 @@ Elly
 "Fei..."<Close><End of Block>
 <TextBlock 16 w:26 h:3>
 Fei
-"Elly, let's 
-go back."<Close><End of Block>
-<TextBlock 17 w:34 h:3>
+"Elly, let's
+head back."<Close><End of Block>
+<TextBlock 17 w:40 h:4>
 Elly
-"...<Delay 20>'That person'<Delay 20>
-where<Delay 10>..."<Close><Close><End of Block>
+"...<Delay 20>'That person'...<Delay 20>
+I've<Delay 10>...
+Somewhere<Delay 10>..."<Close><Close><End of Block>

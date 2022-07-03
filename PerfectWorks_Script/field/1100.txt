@@ -10,11 +10,11 @@ out! We're doomed!"<Close><End of Block>
 <TextBlock 3 w:52 h:5>
 Citan
 "Don't give up, Hammer!
-Fei is fighting too!<New>
+Fei is fighting, too!<New>
 Fei<Delay 10>...<Delay 10>no longer wants to
 watch innocent people lose
 their homes, their town,
-those that are important
+those who are important
 to them..."<Close><End of Block>
 <TextBlock 4 w:18 h:3>
 Rico
@@ -24,20 +24,21 @@ Rico
 Rico
 "Hmph, don't make me laugh.
 Who gives a damn about this
-crap town..."<Close><End of Block>
+crap town...?"<Close><End of Block>
 <TextBlock 6 w:46 h:2>
 Even you must have
 things left to do here!<Close><End of Block>
-<TextBlock 7 w:22 h:3>
+<TextBlock 7 w:22 h:4>
 Rico
-"...<Delay 10>...<Delay 10>I'm,<Delay 10>
-crap too."<Close><End of Block>
+"...<Delay 10>...<Delay 10>
+I guess<Delay 10> I'm
+crap, too."<Close><End of Block>
 <TextBlock 8 w:22 h:2>
 Fei
 "Let's go!"<Close><End of Block>
 <TextBlock 9 w:14 h:3>
 Elly
-"Ouch! 
+"Ouch!
 What?"<Close><End of Block>
 <TextBlock 10 w:24 h:2>
 Fei
@@ -45,18 +46,18 @@ Fei
 <TextBlock 11 w:50 h:4>
 Fei
 "Look at this town!
-Take a good long look! 
-This is what you've done?<New>
-Does the word, 'duty'
-justify all of this?
-Does it!?<Close><End of Block>
+Take a good long look!<New>
+This is what your forces
+have done! Does the word
+'duty' justify all of
+this? Does it!?<Close><End of Block>
 <TextBlock 12 w:14 h:2>
 Fei
 "Elly!"<Close><End of Block>
 <TextBlock 13 w:40 h:3>
 Elly
-"But that's all that
-was left!"<Close><End of Block>
+"But for me that's
+all there is!"<Close><End of Block>
 <TextBlock 14 w:40 h:3>
 Fei
 "You're still saying
@@ -67,7 +68,7 @@ Fei
 It's just not like you.<New>
 If you don't want to then 
 don't do it.<New>
-You shouldn't have to 
+You shouldn't have to
 force it just to have a
 place to belong..."<Close><End of Block>
 <TextBlock 16 w:10 h:2>
@@ -86,13 +87,13 @@ what I should do.
 Maybe I'm just looking
 for a place to fit in.<New>
 But I think it's better
-to fight than do nothing.
+to fight than to do
+nothing.<New>
 If fighting helps you or
-your friends even a bit,<New>
-then it's worthwhile. 
-That's<Delay 10>...<Delay 10>...<Delay 10>
-not nothing.<Delay 10>
-...<Delay 10>...<Delay 10>it's something."<Close><End of Block>
+your friends even a bit,
+then it's worthwhile.<New>
+That's<Delay 10>...<Delay 10>not zero...<Delay 10>
+That's all I'm saying."<Close><End of Block>
 <TextBlock 18 w:12 h:2>
 Elly
 "Fei!"<Close><End of Block>
@@ -101,7 +102,7 @@ Fei
 "I'm going."<Close><End of Block>
 <TextBlock 20 w:52 h:4>
 Elly
-"No! You can't! 
+"No! You can't!
 Dominia is not like
 the other soldiers!<New>
 She is an elite within
@@ -111,7 +112,7 @@ Ramsus' personal guard!<New>
 You won't stand a chance!"<Close><End of Block>
 <TextBlock 21 w:36 h:3>
 Fei
-"Still, I have to 
+"Still, I have to
 stop this."<Close><End of Block>
 <TextBlock 22 w:16 h:2>
 Elly
@@ -125,7 +126,7 @@ but they're trying
 desperately to get the
 civilians to safety.<New>
 Even Rico, who must hate
-this town, still stays
+this town, still sides
 with me. That's why I
 have to go."<Close><End of Block>
 <TextBlock 24 w:16 h:2>

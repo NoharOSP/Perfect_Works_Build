@@ -193,7 +193,7 @@ mean you have to hold back
 now, you hear!?<New>
 Why, when I was as young
 as you are, it seemed like
-everyday I would<-->"<Close><End of Block>
+every day I would<-->"<Close><End of Block>
 <TextBlock 29 w:10 h:2>
 Ahem!<Delay 20>
 Ohum!<Opcode 2 40><Close><End of Block>

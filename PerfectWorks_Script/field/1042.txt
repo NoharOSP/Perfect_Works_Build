@@ -91,7 +91,7 @@ passes by<Delay 5>..."<Close><End of Block>
 <TextBlock 18 w:46 h:4>
 Citan
 "Well,<Delay 5> if everything is
-ready then,<Delay 5> why not
+ready,<Delay 5> then why not
 take a light nap?"<Close><End of Block>
 <TextBlock 19 w:48 h:4>
 Citan
@@ -225,11 +225,11 @@ Rue
 take our leave<Delay 5>..."<Close><End of Block>
 <TextBlock 42 w:36 h:3>
 Fei
-"So<Delay 5>...<Delay 5> what do you
+"So<Delay 5>...<Delay 5>what do you
 want with us?"<Close><End of Block>
-<TextBlock 43 w:50 h:3>
+<TextBlock 43 w:52 h:3>
 Amazoness
-"The Champ<Delay 5>...<Delay 5>no I mean<Delay 5>...<Delay 15>
+"The Champ<--><Delay 5> No, I mean<Delay 5>...<Delay 15>
 Rico needs your help."<Close><End of Block>
 <TextBlock 44 w:46 h:2>
 Citan

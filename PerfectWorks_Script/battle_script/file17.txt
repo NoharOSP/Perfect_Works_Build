@@ -1,6 +1,6 @@
 <TextBlock 1 w:40 h:4>
 Fei
-"You're kidding...
+"Is this a joke?
 What are you doing
 here, Elly?<New>
 I thought you agreed
@@ -29,12 +29,12 @@ Fei
 "Then..."<Close><End of Block>
 <TextBlock 6 w:20 h:3>
 Fei
-"Freedom? 
+"Freedom?
 Me?"<Close><End of Block>
-<TextBlock 7 w:40 h:4>
+<TextBlock 7 w:44 h:4>
 Fei
-"You only have to 
-make that same choice, 
+"You only have to
+make that same choice,
 Elly!"<Close><End of Block>
 <TextBlock 8 w:18 h:2>
 Fei
@@ -45,9 +45,9 @@ Fei
 to belong either..."<Close><End of Block>
 <TextBlock 10 w:48 h:4>
 Fei
-"... Bart and crew,
-even their whole ship,
-are all missing...<New>
+"...Bart and his crew
+are all missing...
+Even the ship...<New>
 They disappeared after
 the battle with Geburah.
 So, I don't have a place
@@ -78,9 +78,9 @@ everything and
 come with me!!"<Close><End of Block>
 <TextBlock 15 w:44 h:4>
 Elly
-"Don't ask for the 
-impossible!<New> 
-I'm an officer of 
+"Don't ask for the
+impossible!<New>
+I'm an officer of
 the Geburah forces!"<Close><End of Block>
 <TextBlock 16 w:36 h:4>
 Elly
@@ -92,10 +92,9 @@ all enemies that
 get in its way...<New>
 So you better get
 out of the way...<New>
-'Cause if you 
-don't move<New> 
-then I'll have 
-no choice but
+'cause if you
+don't move I'll
+have no choice but
 to eliminate you!"<Close><End of Block>
 <TextBlock 17 w:10 h:2>
 Elly
@@ -110,7 +109,7 @@ Elly
 "To change...<Delay 30>
 How I wanted
 to change<Delay 20>...<New>
-I've thought 
+I've thought
 about it, but
 I couldn't do
 it<Delay 10>...<New>
@@ -136,27 +135,27 @@ Unlike me...!"<Close><End of Block>
 <TextBlock 21 w:46 h:4>
 Elly
 "If I could, I would
-already be doing it!
+already have done it!
 But I can't...<New>
 This is my place. And
 that's how it is here!"<Close><End of Block>
 <TextBlock 22 w:36 h:3>
 Elly
-"... So... please,
+"...So...please,
 understand..."<Close><End of Block>
 <TextBlock 23 w:12 h:2>
 Elly
 "Huh?"<Close><End of Block>
 <TextBlock 24 w:34 h:4>
 Elly
-"You don't...
+"You don't<-->
 Then, why are you
 fighting now?<New>
 Who are you
 fighting for...?"<Close><End of Block>
 <TextBlock 25 w:10 h:2>
 Elly
-" ? "<Close><End of Block>
+"?"<Close><End of Block>
 <TextBlock 26 w:42 h:4>
 Elly
 "Don't be ridiculous!

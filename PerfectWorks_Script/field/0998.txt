@@ -246,14 +246,14 @@ the world.<Close><End of Block>
 <TextBlock 51 w:36 h:1>
 I know a lot, huh?<Close><End of Block>
 <TextBlock 52 w:42 h:3>
-Hey hey, Eric<Delay 5>...<Delay 5>...!?<Delay 15>
-<Delay 5>...<Delay 5>Not.
+Hey, gimme an Elix<--><Delay 15>
+!?<Delay 15> ...<Delay 5>Nah.
 Gimme some money!<Close><End of Block>
 <TextBlock 53 w:10 h:1>
 Cool!<Opcode 2 30><Close><End of Block>
 <TextBlock 54 w:54 h:3>
 This is such a dangerous
-town! They even steal the
+town! They'd even steal the
 shirt off your back.<New>
 But since he's my bodyguard
 it's no problem!<Close><End of Block>
@@ -270,15 +270,15 @@ design disappeared<Delay 5>...<Delay 20>
 But like I thought, the
 coin got bigger.<Close><End of Block>
 <TextBlock 58 w:52 h:3>
-See, <Delay 5> isn't this coin
+See,<Delay 5> isn't this coin
 worthless<Delay 5>...<Delay 5>?<Delay 15>
 Ahhh, <Delay 5>I thought it'd work.<Close><End of Block>
 <TextBlock 59 w:44 h:2>
-You'll waste the coin,
+You'll ruin the coin,
 don't do it!<Close><End of Block>
 <TextBlock 60 w:50 h:4>
 Hmmm, <Delay 5>according to
-my theory the coin should
+my theory, the coin should
 get bigger<Delay 5>...<Delay 8>
 So, <Delay 5>it'll be worth more!<Close><End of Block>
 <TextBlock 61 w:48 h:4>
@@ -296,7 +296,7 @@ through here!<Delay 5>...<Delay 5>So<Delay 12>
 I put a coin here as a test.<Close><End of Block>
 <TextBlock 63 w:42 h:3>
       -WARNING-
-This is dangerous, do
+This is dangerous<-->do
 not try this at home!<Opcode 2 90><Close><End of Block>
 <TextBlock 64 w:62 h:4>
 Shut up, <Delay 5>I can see that.
@@ -560,7 +560,7 @@ Fei
 "Who are you?"<Close><End of Block>
 <TextBlock 102 w:56 h:3>
 Battler
-"Don't be so cruel.<Delay 10>
+"That's cold, man.<Delay 10>
 We've been waiting for you."<Close><End of Block>
 <TextBlock 103 w:22 h:3>
 Citan
@@ -720,12 +720,12 @@ Prisoners needing to contact
 me, address letters or notes
 to: Hammer's Mailbox, D Block.
      - Hammer, the Mechanic -<Close><End of Block>
-<TextBlock 133 w:48 h:3>
+<TextBlock 133 w:50 h:3>
 Fei
 "<Delay 5>...<Delay 5>This Hammer guy's
-going all out."<New>
+going all out.<New>
 (It says he's gone from
-supplier to mechanic<Delay 5>...)<Close><End of Block>
+supplier to mechanic<Delay 5>...)"<Close><End of Block>
 <TextBlock 134 w:32 h:3>
 Fei
 "<Delay 5>...<Delay 30>
@@ -922,11 +922,11 @@ over there.<Delay 15>
 Hurry, Fei!"<Close><End of Block>
 <TextBlock 159 w:54 h:4>
 Amazoness
-"<Delay 5>...<Delay 5>Sorry.<Delay 15>
-I<Delay 5>...can't go in the arena.<Delay 5><New>
+"S-<Delay 5>Sorry.<Delay 15>
+I<Delay 5>...can't go to the arena.<Delay 5><New>
 No matter what you say,
 I can't.
-Well<Delay 5> it's time<Delay 5>...<New>
+Well,<Delay 5> it's time<Delay 5>...<New>
 Tonight's train will be
 coming through here<Delay 5>...<Delay 5>
 I wish you success.<Delay 15>

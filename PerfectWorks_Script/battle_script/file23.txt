@@ -1,12 +1,11 @@
 <TextBlock 1 w:42 h:4>
 Fei
-"Sorry about that...
-Oh, but I see you've
-made a girlfriend...<New>
-If we can defeat her,
-we should be able to
-change the course of
-this ship. Let's go!"<Close><End of Block>
+"Sorry about that...<New>
+If we can defeat this
+one, we should be
+able to change the
+course of this ship.<New>
+Let's go!"<Close><End of Block>
 <TextBlock 2 w:40 h:4>
 Fei
 "Of course not!<New>
@@ -21,23 +20,23 @@ you doing, Fei!?<New>
 Were you expectin' me
 to do all the dirty work
 of clearing away these
-punks for you, alone?"<Close><End of Block>
+punks on my own?"<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 Dominia
 "Hmph.<New>
-Just one more extra
-runt isn't going to
-allow you to down
-the 'Ship-Bomb Hecht'!"<Close><End of Block>
+One more extra runt
+isn't going to help
+you to down the
+Ship-Bomb Hecht!"<Close><End of Block>
 <TextBlock 5 w:44 h:4>
 Dominia
 "Hah! What insolence!
 But what do you expect
-coming from Lambs...!"<Close><End of Block>
+coming from Lambs...?"<Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Dominia
 "Eeeaaaahh! <Delay 20> ...<Delay 20>Guh<Delay 20>...<Delay 20>
-Why you<Delay 20>...
+Why, you<Delay 20>...
 Remember this<Delay 20>...<New>
 One day I'll pay
 you back for this...<Delay 20>

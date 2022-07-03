@@ -4,7 +4,7 @@
 Bart
 "Boy!<Delay 10> What's up
 with this Fei guy?<New>
-I try and become
+I try to become
 his friend and he
 suddenly explodes
 in anger..."<Close><End of Block>
@@ -13,8 +13,8 @@ Bart
 "Well, looks like he's
 got a lot on his mind.<Delay 10>
 I don't want to force him.<New>
-But he would be fun to
-fight<Delay 5>...<Delay 20> 
+But I think he'd make a
+good fighting buddy<Delay 5>...<Delay 20>
 Maybe I'll ask again."<Close><End of Block>
 <TextBlock 4 w:42 h:2>
 If I lie in wait
@@ -28,23 +28,24 @@ Fei
 "..."<Close><End of Block>
 <TextBlock 7 w:42 h:3>
 Bart
-"Arrgghh, 
-what a pain!"wemd(60)<Close><End of Block>
+"Arrgghh,
+what a pain!"<Opcode 2 60><Close><End of Block>
 <TextBlock 8 w:36 h:3>
 Fei
 "This is<Delay 5>...
 Bart's eyepatch!?"<Close><End of Block>
-<TextBlock 9 w:50 h:3>
+<TextBlock 9 w:50 h:4>
 Fei
-"The pictures look like
-Bart when he was a boy...<New>
+"Looks like it's Bart in
+the picture, when he was
+a boy...<New>
 The girl next to him...<Delay 10>
 she must be Margie!!"<Close><End of Block>
 <TextBlock 10 w:50 h:4>
 Fei
-"Both of the pictures
-look like Bart when he
-was a kid...<New>
+"In both of the pictures,
+it looks like it's Bart
+when he was a kid...<New>
 The girl next to him...<Delay 10>
 It must be the girl that
 they were talking about!"<Close><End of Block>

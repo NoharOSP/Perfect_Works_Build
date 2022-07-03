@@ -3,11 +3,11 @@ Rico
 "<Delay 5>...<Delay 5>?<Delay 30>
 <Delay 5>...<Delay 5>Must be my
 imagination."<Close><End of Block>
-<TextBlock 2 w:50 h:4>
+<TextBlock 2 w:52 h:4>
 Rico
-"Who woulda thought I'd
-be Battling using only my
-body<Delay 5>...<Delay 5>...<Opcode 2 150><Close><End of Block>
+"Battling without the use
+of my Gear, huh?<Delay 10> That damn
+Sigmund wants me gone..."<Opcode 2 150><Close><End of Block>
 <TextBlock 3 w:28 h:3>
 Rico
 "That's not my
@@ -17,8 +17,8 @@ vibration?"<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 Rico
 "A Gear doesn't vibrate
-like this<Delay 5>...<Delay 15>It can't<Delay 5>...<Delay 5>
-be."<Close><End of Block>
+like this<Delay 5>...<Delay 15>
+It can't<Delay 5>...<Delay 5>be..."<Close><End of Block>
 <TextBlock 5 w:24 h:3>
 Rico
 "That's a<Delay 5>...<Delay 15>
@@ -27,13 +27,13 @@ Rankar!?"<Opcode 2 120><Close><End of Block>
 Rico
 "Crap! You gotta be
 kiddin' me!! I'm supposed
-to fight that without a<New>
-Gear!?"<Opcode 2 120><Close><End of Block>
+to fight that thing...<New>
+without a Gear!?"<Opcode 2 120><Close><End of Block>
 <TextBlock 7 w:44 h:4>
 Rico
 "Huh?<Delay 15>
-<Delay 5>...<Delay 5>That sound...a Gear
-in flight!?"<Opcode 2 90><Close><End of Block>
+<Delay 5>...<Delay 5>That sound...
+A Gear in flight!?"<Opcode 2 90><Close><End of Block>
 <TextBlock 8 w:32 h:3>
 Rico
 "A black Gear<Delay 10>...<Delay 5>
@@ -49,64 +49,69 @@ here?"<Close><End of Block>
 Fei
 "To get this back.<Delay 15> I
 didn't come to save
-you<Delay 5>...<Delay 5>The elevator I<New>
+you<Delay 5>...<Delay 5> The elevator I<New>
 used to escape happened
 to lead me out here. I
 didn't plan on saving
 you<Delay 5>...<Delay 5>but I did."<Close><End of Block>
 <TextBlock 12 w:38 h:4>
 Rico
-"For a coincidence,
-that's a convenient
-story<Delay 5>...<Delay 5>"<Close><End of Block>
+"Your story's a bit
+too good for a mere
+coincidence<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 13 w:48 h:3>
 Fei
 "It's up to you what you
 think of it<Delay 5>...<Delay 15><New>
 So, what're you gonna
 do now?"<Close><End of Block>
-<TextBlock 14 w:26 h:2>
+<TextBlock 14 w:26 h:3>
 Rico
-"...Do what?"<Close><End of Block>
+"...What am I
+gonna...?"<Close><End of Block>
 <TextBlock 15 w:50 h:4>
 Fei
-"I just barged into
-the arena.<Delay 15> We're also
-fugitives from the<New>
-empire<Delay 5>...<Delay 5>That's why I
-must escape. If you stick
-around, they'll probably
-make you battle that<New>
-monster again. This time
-you're gonna die<Delay 5>...<Delay 5>"<Close><End of Block>
+"I just barged into the
+arena.<Delay 15> So I'm also a fu-
+gitive from the Empire...<New>
+That's why I must escape.
+If you stick around,
+they'll probably make you
+fight that monster again.<New>
+This time you're gonna
+die<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 16 w:50 h:3>
 Fei
-"Is that what you want to
-do?"<Close><End of Block>
+"Is that what you want?"<Close><End of Block>
 <TextBlock 17 w:10 h:2>
 Rico
 "<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 18 w:42 h:4>
+<TextBlock 18 w:40 h:4>
 Fei
-"Even you should have
-things that were left
-undone! But in your<New>
-present situation<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 19 w:50 h:3>
+"Even you must have
+things left to do
+here!<New>
+But with things as
+they are<-->"<Close><End of Block>
+<TextBlock 19 w:36 h:4>
 Rico
 "Silence!<Delay 10> Shut up!
-Twice! Twice you have<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 20 w:50 h:5>
+That's twice!
+Twice you've<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 20 w:50 h:4>
 Rico
 "<Delay 5>...<Delay 5>If you want to escape
-from the empire, you two
-should go. I have no
-intentions of leaving.<Delay 15><New>
-Even if it is going to
-end here for me!!"<Close><End of Block>
+from the Empire, best do
+it now.<New>
+I have no intentions of
+leaving.<Delay 15> Even if this
+is going to be the end
+for me.<New>
+If you understand, get
+out of here now!!"<Close><End of Block>
 <TextBlock 21 w:36 h:3>
 Citan
-"<Delay 5>...<Delay 5>Hmn!?
+"<Delay 5>...<Delay 5>Hmm!?
 Wait a minute.<New>
 Something<Delay 5>...<Delay 15>is not
 right."<Opcode 2 90><Close><End of Block>
@@ -121,22 +126,22 @@ isn't from the ground."<Opcode 2 90><Close><End of Block>
 <TextBlock 24 w:52 h:3>
 Citan
 "Atmospheric vibrations<Delay 5>...<Delay 5><New>
-There is something coming
-over the skies of the
-empire!"<Opcode 2 90><Close><End of Block>
+There is something coming,
+in the skies over the
+Empire!"<Opcode 2 90><Close><End of Block>
 <TextBlock 25 w:46 h:3>
 Fei
 "Doc,<Delay 15> these noises<Delay 5>...<Delay 15>
 They don't sound good."<Opcode 2 90><Close><End of Block>
 <TextBlock 26 w:46 h:2>
 Fei
-"Wh<Delay 5>...<Delay 5>what's going on?"<Close><End of Block>
+"Wh-<Delay 5>What's going on?"<Close><End of Block>
 <TextBlock 27 w:50 h:3>
 Citan
 "That earlier shaking and
 that echo<Delay 5>...<Delay 15><New>
 I am positive that the
-empire is being attacked
+Empire is being attacked
 by someone."<Close><End of Block>
 <TextBlock 28 w:48 h:3>
 Rico

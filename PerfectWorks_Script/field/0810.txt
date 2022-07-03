@@ -493,10 +493,10 @@ Come here.<Opcode 2 30><Close><End of Block>
 <TextBlock 127 w:38 h:2>
 My brother has gone
 off to fight...<Close><End of Block>
-<TextBlock 128 w:40 h:5>
+<TextBlock 128 w:42 h:5>
 To the north, by the
 border.<Delay 40>
-I pray everyday that
+I pray every day that
 he will return home
 safe...<Close><End of Block>
 <TextBlock 129 w:50 h:2>
