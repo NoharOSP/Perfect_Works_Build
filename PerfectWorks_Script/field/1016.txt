@@ -52,28 +52,28 @@ something incredible!<Close><End of Block>
 Of course you know
 that though!<Close><End of Block>
 <TextBlock 12 w:50 h:4>
-G<Delay 5>...<Delay 5>good afternoon.<Delay 10>
-W,<Delay 5> welcome to the
-'Wildcat'. It must be
-tough travelling in such<New>
-a<Delay 5> big group. W, would you
-like to change your
-organization?<Delay 15> I'm not
-used to this<Delay 5>...<Delay 5>sob...<Close><End of Block>
+G-<Delay 5>Good afternoon.<Delay 10>
+W-<Delay 5>Welcome to the Wildcat.
+It must be tough travel-
+ing in such a<Delay 5> big group.<New>
+W-Would you like to
+change your organization?<Delay 15>
+I'm not used to this<Delay 5>...<Delay 5>
+*sob*...<Close><End of Block>
 <TextBlock 13 w:40 h:3>
-Um<Delay 5>...<Delay 5> would you like<New>
+Um<Delay 5>...<Delay 5>would you like<New>
 to change members?<Delay 15>
     No
     Change party<Close><End of Block>
 <TextBlock 14 w:44 h:4>
-H, how could you<Delay 5>...<Delay 5>
-so<Delay 15>...<Delay 5>Please come
+H-How could you<Delay 5>...<Delay 5>?
+So<Delay 15>...<Delay 5>please come
 again. But<Delay 5>...<Delay 5>next time
 please reorganize.<Close><End of Block>
 <TextBlock 15 w:42 h:3>
-Th, thank you! Well
-then<Delay 5>...<Delay 5>Master, please
-handle it.<Close><End of Block>
+Th-Thank you! Well,
+then<Delay 5>...<Delay 5>the rest is up
+to you, boss.<Close><End of Block>
 <TextBlock 16 w:44 h:4>
 I heard there was a
 title match.<Delay 15> Man, I
@@ -90,7 +90,7 @@ the infamous Champ was
 already taken down<Delay 15>
 ...<Delay 5>oouuhh.<Close><End of Block>
 <TextBlock 18 w:48 h:3>
-So<Delay 5>...<Delay 5> cute.<Delay 30>
+So<Delay 5>...<Delay 5>cute.<Delay 30>
 Kniqupnii.<Delay 5> It's too much
 for me!<Close><End of Block>
 <TextBlock 19 w:38 h:1>
@@ -126,11 +126,11 @@ some conflict.<Close><End of Block>
 <TextBlock 27 w:46 h:3>
 Kislev and Av<Delay 5>...<Delay 15>
 Which one should I suck
-the blood from<Delay 5>...<Delay 5><Close><End of Block>
+the blood from<Delay 5>...?<Delay 5><Close><End of Block>
 <TextBlock 28 w:60 h:5>
 If the enemy capital is called
 the 'Desert Fortress'...<Delay 15>
-then our Imperial capital,
+then our Imperial Capital,
 Noatun, would be the
 'Fortress of Steam and Steel'.<Close><End of Block>
 <TextBlock 29 w:40 h:2>
@@ -163,7 +163,7 @@ kind of 'point' system. I
 wonder if you can win
 prizes with that?<Close><End of Block>
 <TextBlock 35 w:50 h:3>
-Welcome to the 'Wildcat'.
+Welcome to the Wildcat.
 Make yerself comfortable.<Delay 15>
 And<Delay 5> leave the cat alone!<Close><End of Block>
 <TextBlock 36 w:44 h:2>
@@ -309,25 +309,25 @@ Jaws of Ice<Close><End of Block>
 <TextBlock 99 w:26 h:1>
 Infiltration<Close><End of Block>
 <TextBlock 100 w:46 h:4>
-B,<Delay 5> boss<Delay 5>...<Delay 5> I, I've done
+B-<Delay 5>Boss<Delay 5>...<Delay 5> I-I've done
 as much as I can<Delay 5>...<Delay 5>
 This feeling in my
 heart<Delay 5>...<Close><End of Block>
 <TextBlock 101 w:42 h:2>
 <Delay 5>...<Delay 5>Sorry, forgive me.<Delay 15>
 I've said too much<Delay 5>...<Close><End of Block>
-<TextBlock 102 w:42 h:3>
-B, boss<Delay 5>...<Delay 5> I, my
-heart<Delay 5>...<Delay 10>P, pp,<Delay 15> please
-listen.<Close><End of Block>
+<TextBlock 102 w:36 h:3>
+B-Boss...<Delay 5> I...<Delay 5>
+My heart<Delay 5>...<Delay 10>
+P-<Delay 15>Please listen.<Close><End of Block>
 <TextBlock 103 w:50 h:4>
 I see,<Delay 5> this is a
 surprise<Delay 5>...<Delay 5>It's that<Delay 5>...
 You've fallen in love
 with someone haven't you?<Close><End of Block>
 <TextBlock 104 w:50 h:3>
-I,<Delay 5> I'm<Delay 5> from mole tribe
-but,<Delay 5> I've fallen for that
+I-<Delay 5>I'm<Delay 5> from mole tribe,
+but<Delay 5> I've fallen for that
 dragon tribe beauty.<Close><End of Block>
 <TextBlock 105 w:46 h:2>
 Can a mole love another
@@ -341,7 +341,7 @@ Wh, whatever<Delay 5>...<Delay 5>I have
 to do? Right now, I don't
 think I could<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 108 w:44 h:3>
-<Delay 5>...<Delay 5>Okay I will.<Delay 15> We'll
+<Delay 5>...<Delay 5>Okay, I will.<Delay 15> We'll
 take it long,<Delay 10> slow<Delay 10> and
 imminently<Delay 10>...right?<Close><End of Block>
 <TextBlock 109 w:20 h:1>

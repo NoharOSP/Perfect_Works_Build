@@ -145,7 +145,7 @@ Really? Too bad.
 I know a good place.<Close><End of Block>
 <TextBlock 32 w:46 h:3>
 You'd better get a room
-soon or they'll all be 
+soon or they'll all be
 gone.<New>
 I know a good hotel.<Close><End of Block>
 <TextBlock 33 w:18 h:1>
@@ -183,7 +183,7 @@ missing...but that kid
 didn't have anything.
 I guess I was mistaken.<Close><End of Block>
 <TextBlock 40 w:46 h:4>
-Show me what you're 
+Show me what you're
 hiding!<Delay 50>
 Give it back now and I
 won't tell your folks.<Opcode 2 50><Close><End of Block>
@@ -305,10 +305,10 @@ Just try one.
 8G?
     Buy one
     Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
-<TextBlock 75 w:58 h:3>
-Hey, you can't carry anymore!
-Don't play tricks on old
-people like that.<Close><End of Block>
+<TextBlock 75 w:54 h:3>
+Hey, you can't carry any
+more! Don't play tricks on
+old people like that.<Close><End of Block>
 <TextBlock 76 w:14 h:1>
 Thanks.<Close><End of Block>
 <TextBlock 77 w:40 h:3>
@@ -328,8 +328,8 @@ Too bad.<Close><End of Block>
 <TextBlock 80 w:48 h:4>
 Bananas! Bananas!
 Long bananas!<Delay 20>
-Good for body and soul! <Delay 20>
-Buy some bananas! <Opcode 2 60><Close><End of Block>
+Good for body and soul!<Delay 20>
+Buy some bananas!<Opcode 2 60><Close><End of Block>
 <TextBlock 81 w:40 h:3>
 Did you bring money?
     Yes
@@ -422,25 +422,25 @@ Gimme a break! Get out!<Close><End of Block>
 Too bad, they're really
 good. Maybe next time.<Close><End of Block>
 <TextBlock 103 w:64 h:1>
-Cap'n, <Delay 10>suspicious people!<Close><End of Block>
+Cap'n, <Delay 10>suspicious people!<Opcode 2 30><Close><End of Block>
 <TextBlock 104 w:66 h:1>
-Cr'ap'n, <Delay 15>susp'cious peepl!<Close><End of Block>
+Cr'ap'n, <Delay 15>susp'cious peepl!<Opcode 2 30><Close><End of Block>
 <TextBlock 105 w:46 h:3>
 We are the Raider Boys!
-Joined together to
+Joining together to
 protect Av's peace!<Opcode 2 100><Close><End of Block>
 <TextBlock 106 w:44 h:3>
 We protect the people
 of the desert from the
-steam heads of Kislev.<Opcode 2 100><Close><End of Block>
+steam-heads of Kislev.<Opcode 2 100><Close><End of Block>
 <TextBlock 107 w:46 h:3>
 Shut up!<Delay 30>
 I'm the captain and I'm
 talkin' here!<Opcode 2 100><Close><End of Block>
 <TextBlock 108 w:44 h:4>
 Right, starting
-tomorrow we'll switch 
-off.<Delay 30>
+tomorrow we'll take
+turns.<Delay 30>
 That's good!<Opcode 2 50><Close><End of Block>
 <TextBlock 109 w:32 h:3>
 Let's return to
@@ -514,7 +514,7 @@ Right?
     Yep
     Not really<Close><End of Block>
 <TextBlock 132 w:30 h:2>
-I'm gonna be a 
+I'm gonna be a
 strong soldier!<Close><End of Block>
 <TextBlock 133 w:36 h:5>
 Those Kislev guys
@@ -758,7 +758,7 @@ You won't open it
 without the key!<New>
 Many years ago a kid
 got lost down there.<Delay 20>
-I think it was the kid 
+I think it was the kid
 from the armor store...<Close><End of Block>
 <TextBlock 180 w:52 h:4>
 I've been doing laundry

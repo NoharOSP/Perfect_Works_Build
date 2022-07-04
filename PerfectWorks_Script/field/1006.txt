@@ -8,7 +8,7 @@ please knock! Then I will
 open the door for you.<New>
 If you come through the
 toilet<Delay 5>...<Delay 5>...<Delay 5>...<Delay 5>...
-ya...you know! It might
+y-you know! It might
 be at the wrong time.<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Fei
@@ -17,30 +17,30 @@ right<Delay 5>...<Delay 5> I understand.
 And, how many knocks?"<Close><End of Block>
 <TextBlock 4 w:42 h:3>
 Hmmm,<Delay 5> let's say<Delay 5>...<Delay 5>...<Delay 30>
-'2,<Delay 15> 1,<Delay 15> 2'<Delay 15>... Would<Delay 5> 
+'2,<Delay 15> 1,<Delay 15> 2'<Delay 15>... Would<Delay 5>
 that be okay?<Close><End of Block>
 <TextBlock 5 w:36 h:3>
 Fei
 "Got it.<Delay 15>
-2,<Delay 5> 1,<Delay 5> 2<Delay 15>...<Delay 5> right?"<Close><End of Block>
+2,<Delay 5> 1,<Delay 5> 2<Delay 15>...<Delay 5>right?"<Close><End of Block>
 <TextBlock 6 w:42 h:2>
 Uh huh,<Delay 5> yes.<Delay 15>
 Well then, good luck.<Close><End of Block>
 <TextBlock 7 w:58 h:4>
 I too had been thinking of
 leaving from the Imperial
-capital...<New>
+Capital...<New>
 But then I came to think
-that if I try harder things
-will get better<Delay 5>...<Delay 5>...<Delay 30>
-You too try your hardest, OK!<Close><End of Block>
+that if I try harder, things
+will get better<Delay 5>...<Delay 30> You try
+your hardest, too, okay?<Close><End of Block>
 <TextBlock 8 w:42 h:1>
-How's it going, good?<Close><End of Block>
+How's it going<-->good?<Close><End of Block>
 <TextBlock 9 w:38 h:2>
 Hey,<Delay 5> wait a minute!<Delay 15>
-Where did you<Delay 5>...<Delay 5>...<Opcode 2 45><Close><End of Block>
+Where did you<Delay 5>...<Delay 5>?<Opcode 2 45><Close><End of Block>
 <TextBlock 10 w:38 h:3>
-Uh,<Delay 5> huh?<Delay 5>
+Uhh,<Delay 5> huh?<Delay 5>
 You're<Delay 10> the one from
 D Block<Delay 5>...<Delay 5>...<Close><End of Block>
 <TextBlock 11 w:54 h:3>
@@ -64,8 +64,8 @@ please go see her.<Close><End of Block>
 I see, a lot has
 happened. No wonder they
 imposed martial law.<Delay 15><New>
-Please tell her, <Delay 15>
-and you too<Delay 5>...<Delay 5>...good luck.<Close><End of Block>
+Please tell her<Delay 15> good luck.
+And the same to you.<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 You know, she's keeping
 that promise she made
@@ -89,17 +89,17 @@ in the bathroom did you?<Close><End of Block>
 <Delay 5>...<Delay 5>...Oh, it's you
 guys. You guys survived
 the Av air assault<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>...Wha?<Delay 5>...<Delay 5>...Daughter?<Delay 15><New>
+<Delay 5>...Wha<Delay 5>...?<Delay 5> Daughter...?<New>
 <Delay 5>...<Delay 5>Diana. In the air
-assault she<Delay 5>...<Delay 5> sob, sob.<Delay 15>
-<Delay 5>...<Delay 5>She shielded us from
-the<Delay 5>...<Delay 5>...<Close><End of Block>
+assault, she<Delay 5>...<Delay 5>
+*Sob, sob*... <Delay 15> She
+shielded us from the<Delay 5>...<Close><End of Block>
 <TextBlock 19 w:50 h:4>
 She <Delay 5>was just starting
 out with life<Delay 5>...<Delay 5> Instead,
-she saved a old-timer
-like me<Delay 5>...<Delay 5>How could I<Delay 5>...<Delay 5><New>
-god<Delay 5>...<Delay 5>forgive me<Delay 5>...<Delay 5>
+she saved an old-timer
+like me.<Delay 5>How could I<Delay 5>...<Delay 5>?<New>
+God<Delay 5>...<Delay 5>forgive me<Delay 5>...<Delay 5>
 Your presence here today
 reminds<Delay 5> me of her too
 much<Delay 5>...<Delay 5><Close><End of Block>
@@ -111,33 +111,32 @@ daughter was born in.<New>
 I too will live out the
 rest of my life here.<Delay 30>
 Together with her<Delay 5>...<Delay 5>
-in memory of Diana<Delay 5>...<Close><End of Block>
+In memory of Diana<Delay 5>...<Close><End of Block>
 <TextBlock 21 w:50 h:3>
 In my house, my sister
-<Delay 5>...<Delay 5>sleeps. She re-kindled
-my spirits. My sister<Delay 5>...<Delay 5><New>
-is home now. My
-sist<Delay 5>...<Delay 5>sob...<Close><End of Block>
+<Delay 5>...<Delay 5>sleeps. She rekindled
+my spirits.<New>
+My sister<Delay 5>...<Delay 5>is home now.
+My sist<--><Delay 5> *Sob*...<Close><End of Block>
 <TextBlock 22 w:54 h:4>
 Hammer
-"<Delay 5>...<Delay 5>Use the key like...
-<Delay 5>Oh!? Wh, what
-happened,<Delay 5> bro?<New>
+"<Delay 5>...<Delay 5>Use the key like<-->
+<Delay 5>Oh!? Wh-What's up,<Delay 5> bro?<New>
 Did you forget where the
-base is? <Delay 10>
-Sigh,<Delay 15> fine then.<New>
+base is?<Delay 10>
+*Sigh*,<Delay 15> fine then.<New>
 The military facility is to<Delay 5>
-'the north of the capital'<Delay 10>
+the north of the Capital,<Delay 10>
 'beyond the carved out part
 of the mountain range'.<New>
-You're all set now!"<Close><End of Block>
+You're all set, now!"<Close><End of Block>
 <TextBlock 23 w:54 h:4>
 Hammer
 "I gave away all my items
 to the people who were
 injured by the Av attack.<New>
-I, I didn't take any money
-for it though!<Delay 10>
+I-I didn't take any money
+for it, though!<Delay 10>
 I woulda never done that
 before...<New>
 Who'd have thought I could
@@ -147,7 +146,7 @@ because of you, bro."<Close><End of Block>
 <TextBlock 24 w:42 h:3>
 Hammer
 "Bro, you wanna buy
-something?<Delay 15> <Delay 5>...<Delay 5><New>
+something<Delay 15>...<Delay 5>?<New>
 Just kidding. I'm all
 outta items."<Close><End of Block>
 <TextBlock 25 w:50 h:3>
@@ -159,26 +158,26 @@ martial law."<Close><End of Block>
 <TextBlock 26 w:48 h:3>
 Fei
 "<Delay 5>...<Delay 5>This door was to the
-toilet right?<New>
+toilet, right?<New>
 <Delay 5>...<Delay 5>It's okay,<Delay 10> don't
 worry!"<Close><End of Block>
 <TextBlock 27 w:38 h:4>
 Elly
 "Fei, that's the<Delay 5>...<Delay 30>
-Oh<Delay 5>...<Delay 5>nevermind.<Delay 15>
+Oh<Delay 5>...<Delay 5>never mind.<Delay 15>
 Nothing<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 28 w:50 h:2>
 Fei
 "Elly, your face is red."<Close><End of Block>
 <TextBlock 29 w:44 h:4>
-Fei
-"It's<Delay 5>...<Delay 10> n, nothing!
+Elly
+"It's<Delay 5>...<Delay 10>n-nothing!
 Let's hurry up and go,
 Fei!!"<Close><End of Block>
 <TextBlock 30 w:50 h:3>
 Citan
 "Fei, that is the toilet.<New>
-The exit is that way,
+The exit is this way,
 unless<Delay 5>...<Delay 15>you cannot hold
 it?"<Close><End of Block>
 <TextBlock 31 w:22 h:2>
@@ -198,9 +197,10 @@ Fei
 <TextBlock 35 w:46 h:4>
 Hammer
 "Yeah, and I brought up
-our plan to escape from
-the capital<Delay 5>...<Delay 15> Says he<New>
-can't help us though."<Close><End of Block>
+our intention to escape
+from the Capital<Delay 5>...<New>
+Says he can't help us,
+though."<Close><End of Block>
 <TextBlock 36 w:22 h:2>
 Fei
 "<Delay 5>...<Delay 5>I see."<Close><End of Block>
@@ -215,7 +215,7 @@ Elly
 Av<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 39 w:50 h:3>
 Fei
-"Huh? Uh yeah...I know,
+"Huh? Ah, yeah... I know,
 Elly. We have to hurry...<New>
 If we go through the
 front gate we might have
@@ -232,39 +232,39 @@ And put up a good fight!"<Close><End of Block>
 Fei
 "Doc, Elly.<Delay 5><New>
 Let's go. Our destination
-is the imperial military
+is the Imperial military
 facility up north."<Close><End of Block>
 <TextBlock 42 w:48 h:4>
 Hammer
-"Ju, just a minute!<Delay 15>
-There's something I have
-to tell Elly."<Close><End of Block>
+"J-Just a minute!<Delay 15>
+There's something I'd
+like to ask Elly."<Close><End of Block>
 <TextBlock 43 w:14 h:3>
 Elly
-"Tell<Delay 20>
+"Ask...<Delay 20>
 <Delay 5>...<Delay 5>me?"<Close><End of Block>
 <TextBlock 44 w:42 h:3>
 Hammer
 "Yes'm!
 It'll be real quick."<Close><End of Block>
-<TextBlock 45 w:24 h:2>
+<TextBlock 45 w:22 h:2>
 Hammer
-"All right!"<Close><End of Block>
-<TextBlock 46 w:30 h:2>
+"Alright!"<Close><End of Block>
+<TextBlock 46 w:28 h:2>
 Citan
-"<Delay 5>...<Delay 5>All right?"<Close><End of Block>
+"<Delay 5>...<Delay 5>Alright?"<Close><End of Block>
 <TextBlock 47 w:30 h:2>
 <Opcode 1 255>Hammer
 "Uh, nothing!!"<Close><End of Block>
 <TextBlock 48 w:46 h:4>
-<Opcode 1 255>Hammer
+Hammer
 "Good luck in breaking
 through the front gate,
-bro, and you Citan!"<Close><End of Block>
+bro! And you, Doc!"<Close><End of Block>
 <TextBlock 49 w:46 h:4>
 Fei
 "<Delay 5>...<Delay 5>First we save the
-empire, now we're being
+Empire, now we're being
 chased by them"<Close><End of Block>
 <TextBlock 50 w:46 h:4>
 Citan
@@ -274,8 +274,8 @@ this tight<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 51 w:48 h:4>
 Fei
 "Hammer's our only
-hope<Delay 15>...<Delay 5>He's awfully late
-though."<Close><End of Block>
+hope<Delay 15>...<Delay 5> He's awfully
+late, though."<Close><End of Block>
 <TextBlock 52 w:50 h:2>
 Elly
 "...There's<Delay 15> no one here."<Close><End of Block>
@@ -284,12 +284,13 @@ Fei
 "Where did the owner of
 the house go without
 locking up the place?"<Close><End of Block>
-<TextBlock 54 w:46 h:3>
+<TextBlock 54 w:46 h:4>
 Citan
 "The furnishings are
-untouched<Delay 5>...<Delay 5> <New>
-They probably left when
-Av attacked."<Close><End of Block>
+untouched<Delay 5>...<Delay 5><New>
+They probably abandoned
+the house when Av
+attacked."<Close><End of Block>
 <TextBlock 55 w:10 h:2>
 Elly
 "<Delay 5>...<Delay 5>"<Close><End of Block>
@@ -298,47 +299,47 @@ Hammer
 "Bro, Citan!<Delay 15><New>
 I got the key info that
 should help us get outta
-the capital!"<Close><End of Block>
+the Capital!"<Close><End of Block>
 <TextBlock 57 w:42 h:2>
 Fei
 "So what's the info?"<Close><End of Block>
 <TextBlock 58 w:34 h:3>
 Hammer
-"The empire's new
-super airship,<New>
-...'Goliath'.
+"The Empire's new
+super airship...
+'Goliath'.<New>
 This is it, bro."<Close><End of Block>
 <TextBlock 59 w:40 h:4>
 Citan
-"The empire's new
+"The Empire's new
 creation<Delay 5>...<Delay 5>the super
-airship 'Goliath'?"<Close><End of Block>
+airship Goliath?"<Close><End of Block>
 <TextBlock 60 w:36 h:3>
 Elly
-"<Delay 5>...<Delay 5>Super airship.<Delay 15>
+"<Delay 5>...<Delay 5>Super airship?<Delay 15>
 Is it that big?"<Close><End of Block>
-<TextBlock 61 w:28 h:4>
+<TextBlock 61 w:26 h:4>
 Hammer
-"Tsk tsk, it's
+"Tch, it's
 beyond big!
 !?<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 62 w:30 h:2>
 Elly
-"...It's Elly."<Close><End of Block>
+"...I'm Elly."<Close><End of Block>
 <TextBlock 63 w:44 h:3>
 Hammer
 "!?<Delay 15> ...<Delay 5>As I said, it's
 beyond big, Elly!"<Close><End of Block>
 <TextBlock 64 w:48 h:4>
 Hammer
-"The 'Goliath' is of
+"The Goliath is of
 extraordinary magnitude!<Delay 15><New>
 It's said that the
-'Goliath' can even make
-a Gear look like a pea.<New>
+Goliath makes a Gear
+look like a pea.<New>
 It's rumored that it
-can even decimate the
-Av capital, Breidblik,
+could even destroy the
+Av capital, Breidablik,
 all by itself."<Close><End of Block>
 <TextBlock 65 w:44 h:4>
 Fei
@@ -357,8 +358,8 @@ military facility<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 68 w:48 h:4>
 Elly
 "<Delay 5>...<Delay 5>The military
-facility<Delay 5>...<Delay 5> north of the
-capital<Delay 5>..."<Close><End of Block>
+facility<Delay 5>...<Delay 5>north of the
+Capital<Delay 5>..."<Close><End of Block>
 <TextBlock 69 w:42 h:2>
 Fei
 "Elly,<Delay 5> what's wrong?"<Close><End of Block>
@@ -366,9 +367,9 @@ Fei
 Elly
 "I know that facility.
 I've talked to you about
-it before. The Imperial<New>
-facility<Delay 5>...<Delay 5> 
-I infiltrated<Delay 5>...<Delay 5>I never knew
+it before.<New>
+The Imperial facility I
+infiltrated<Delay 5>...<Delay 5> I never knew
 that something like that
 was in the basement<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 71 w:44 h:3>
@@ -383,15 +384,17 @@ Elly
 <TextBlock 73 w:52 h:4>
 Elly
 "Way north, beyond the
-Kislev Imperial capital<Delay 5>...<Delay 5><New>
+Kislev Imperial Capital<Delay 5>...<Delay 5><New>
 beyond the 'carved out
-portion of the mountain 
+portion of the mountain
 peak'<Delay 30> lies the Imperial
-city's military facility."<Close><End of Block>
+military facility."<Close><End of Block>
 <TextBlock 74 w:50 h:4>
 Fei
-"Good,<Delay 5> let's take that<Delay 5>...<New>
-...<Delay 5>before the empire
+"Good,<Delay 5> let's take that
+ship and flee the
+Capital<Delay 5>...<New>
+...<Delay 5>before the Empire
 decides to launch a
 counter-attack against
 Av."<Close><End of Block>
@@ -406,8 +409,8 @@ with this woman while
 I was gone?"<Close><End of Block>
 <TextBlock 77 w:42 h:3>
 Fei
-"Wa,<Delay 5> wait a minute,<Delay 5>
-doc!?<Delay 10> I didn't do<Delay 5>...<Delay 5>"<Close><End of Block>
+"W-<Delay 5>Wait a minute,<Delay 5>
+Doc!<Delay 10> I didn't do<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 78 w:46 h:3>
 Heh, <Delay 5>haha.
 You probably can't tell
@@ -443,16 +446,16 @@ And you might be?<Close><End of Block>
 Citan
 "Oh, excuse me,<Delay 5> we have
 never met. <New>
-I am Citan Uzuki.<Delay 15> 
+I am Citan Uzuki.<Delay 15>
 You could say that I 
 am his guardian."<Close><End of Block>
 <TextBlock 87 w:34 h:2>
 Fei
-"G, guardian<Delay 5>...<Delay 5>?"<Close><End of Block>
+"G-Guardian<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 88 w:44 h:4>
 Citan
 "Presently, I am the
-doctor in the imperial
+doctor in the Imperial
 D Block<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 89 w:4 h:1>
 !?<Opcode 2 15><Close><End of Block>
@@ -464,18 +467,19 @@ Citan
 "Huh? Uh, well<Delay 5>...<Delay 5>
 that is<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 92 w:50 h:4>
-Sigh,<Delay 5> what's going to
+*Sigh*,<Delay 5> what's going to
 happen if someone gets
 injured now!? Who's going
 to look at the injury?<New>
 Don't you feel an
 obligation as a doctor
-to<Delay 5>...<Delay 5>Dr. Uzuki, don't
-you<Delay 15> have any<New>
+to<Delay 5>...?<New>
+Doctor Uzuki, don't you
+have any sense of
 responsibility!?<Close><End of Block>
 <TextBlock 93 w:36 h:3>
 Citan
-"I, I am extremely
+"I-I am extremely
 sorry."<Close><End of Block>
 <TextBlock 94 w:38 h:3>
 Fei
@@ -492,7 +496,7 @@ Hammer."<Close><End of Block>
 <TextBlock 97 w:50 h:4>
 Aaahh, that.
 Following the request of
-the empire, I agreed to
+the Empire, I agreed to
 be in charge of this part<New>
 of the city, but now
 they're telling me they
@@ -513,16 +517,16 @@ position to ask you, but
 do you think you could<New>
 return to D Block?"<Close><End of Block>
 <TextBlock 100 w:42 h:3>
-Isn't Dr. Uzuki in
-charge of D Block?<Delay 15>
+Isn't Doctor Uzuki
+in charge of D Block?<Delay 15>
 I can't just do that.<Close><End of Block>
 <TextBlock 101 w:48 h:4>
 Fei
 "Well it's about that.<Delay 15>
 <Delay 5>...<Delay 5>We're leaving the
-capital soon.<New>
-Of course<Delay 15>
-doc will be with us.<New>
+Capital soon.<New>
+Of course,<Delay 15>
+Doc will be with us.<New>
 So...it would be good if
 you could take care of
 D Block."<Close><End of Block>
@@ -556,7 +560,7 @@ see Hammer in a while.<Close><End of Block>
 Hammer
 "Sis,<Delay 10> you didn't forget
 about me.<Delay 10> I'm so
-t, touched!"<Close><End of Block>
+t-touched!"<Close><End of Block>
 <TextBlock 108 w:34 h:4>
 Fei
 "Alright, Hammer.<Delay 5>
@@ -581,9 +585,9 @@ Hammer
 "Not 'on earth', but under
 the earth! It's in an under-
 ground dock in D Block!<New>
-I've checked into it and 
+I've checked into it and
 found out that there are
-two routes we can use to 
+two routes we can use to
 sneak inside.<New>
 The first one requires us
 to enter via the Battling
