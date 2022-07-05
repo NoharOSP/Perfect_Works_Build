@@ -1,7 +1,7 @@
 <TextBlock 1 w:40 h:3>
 Self-repairing Robot
 "Bzz...crackle...
-Refuel or resupply?"<Close><End of Block>
+Refuel or repair?"<Close><End of Block>
 <TextBlock 2 w:18 h:2>
     <Opcode 1 255>Ask
     Leave<Close><End of Block>
