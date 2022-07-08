@@ -59,16 +59,16 @@ I."<Close><End of Block>
 Mystery Girl
 "Get ready!"<Close><End of Block>
 <TextBlock 14 w:30 h:4>
-Mystery Girl
+Maria
 "Forgive me. 
 We have tested
 your strength."<Close><End of Block>
 <TextBlock 15 w:48 h:3>
-Mystery Girl
+Maria
 "The Queen awaits your
 arrival above."<Close><End of Block>
 <TextBlock 16 w:40 h:2>
-Mystery Girl
+Maria
 "Yes, Queen Zephyr."<Opcode 2 40><Close><End of Block>
 <TextBlock 17 w:34 h:3>
 That's enough,
