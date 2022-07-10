@@ -53,7 +53,7 @@ Maid
 like painting and all...<New>
 But please try not to make
 so much mess.<Delay 30> Cleaning isn't
-such an easy job you know!"<Close><End of Block>
+such an easy job, you know!"<Close><End of Block>
 <TextBlock 12 w:34 h:1>
 Received Aquasol.<Close><End of Block>
 <TextBlock 13 w:34 h:1>

@@ -1,7 +1,7 @@
 <TextBlock 1 w:20 h:1>
-Who is it?<Close> <Close><End of Block>
+Who is it?<Close><Close><End of Block>
 <TextBlock 2 w:42 h:4>
 Chief Lee
-"Wh-Who are you?<Delay 20> ...<Delay 20>
+"Wh-Who are you<Delay 20>...?<Delay 20>
 What?<Delay 5> You want me to
 look after this boy?"<Close><Close><End of Block>

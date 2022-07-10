@@ -23,7 +23,7 @@ What can I do for you today?<Close><End of Block>
     Explain Action Points
     Explain 'Attack' option
     Explain 'Combo' option
-    Nothing now, thanks. <Close><End of Block>
+    Nothing now, thanks<Close><End of Block>
 <TextBlock 5 w:48 h:3>
 Alright, then.
 Allow me to explain the
@@ -335,7 +335,7 @@ scholar!<Delay 20> Hah hah hah!<Close><End of Block>
 Received 80G!<Close><End of Block>
 <TextBlock 36 w:48 h:3>
 Buy some pencils and
-books with that, okay!?<Delay 20> 
+books with that, okay!?<Delay 20>
 Stick with it, kid!<Close><End of Block>
 <TextBlock 37 w:54 h:4>
 Oh well... You can never
@@ -395,7 +395,7 @@ You should always save without
 hesitation whenever you find
 one of these in the dungeon.
 In life, you can never tell
-what may lie around the corner! <Opcode 2 140><Close><End of Block>
+what may lie around the corner!<Opcode 2 140><Close><End of Block>
 <TextBlock 44 w:50 h:4>
 So, what do you think?
 You understood everything

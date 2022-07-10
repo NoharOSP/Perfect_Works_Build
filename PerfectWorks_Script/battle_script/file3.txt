@@ -3,7 +3,7 @@ Fei
 "Hya~!"<Close><End of Block>
 <TextBlock 2 w:36 h:3>
 Fei
-"*Huff,<Delay 8> huff<Delay 8>.<Delay 2>.<Delay 2>.*<Delay 4>
+"*Huff,<Delay 8> huff*<Delay 8>.<Delay 2>.<Delay 2>.<Delay 4>
 Did I do it!?"<Close><End of Block>
 <TextBlock 3 w:46 h:3>
 Fei

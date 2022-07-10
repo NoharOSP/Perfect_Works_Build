@@ -53,7 +53,7 @@ I'll see you later.<New>
 Oh, and I am really
 looking forward to the
 ceremony tomorrow."<Close><End of Block>
-<TextBlock 8 w:44 h:4>
+<TextBlock 8 w:46 h:4>
 Fei
 "Why, hello there, Dan!<Delay 20>
 You're looking lively 
@@ -89,7 +89,7 @@ Timothy
 "Yo! Hi there, Fei.
 Sorry for us all using
 your house like this.<New>
-But, we have to talk about
+But we have to talk about
 the big day tomorrow with
 the village chief."<Close><End of Block>
 <TextBlock 14 w:46 h:4>
@@ -133,7 +133,7 @@ Hah!
 That part ain't going
 to be no honeymoon!"<Close><End of Block>
 <TextBlock 20 w:44 h:3>
-"So there you are!<Delay 30> 
+"So there you are!<Delay 30>
 Fei, I have to talk to
 you about something!"<Close><End of Block>
 <TextBlock 21 w:24 h:3>
@@ -235,7 +235,7 @@ bringing up a little girl!"<Close><End of Block>
 <TextBlock 34 w:18 h:1>
 *Sigh*...<Opcode 2 20><Close><End of Block>
 <TextBlock 35 w:56 h:3>
-You know Fei, I am sure that
+Y'know, Fei, I am sure that
 our village chief thinks of
 you as his own grandson...<New>
 Not having any family for
