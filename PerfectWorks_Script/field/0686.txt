@@ -5,7 +5,7 @@ likes to make his
 presence felt!"<Close><End of Block>
 <TextBlock 2 w:48 h:3>
 Big Joe
-"<Delay 10>...<Delay 10>Hic<Delay 30>...<Delay 10>
+"<Delay 10>...<Delay 10>*Hic*<Delay 30>...<Delay 10>
 Where's your friend?<New>
 There's a war on in the
 desert and he just goes
@@ -18,7 +18,7 @@ lady friend...
 Gahahaha!"<Close><End of Block>
 <TextBlock 3 w:54 h:3>
 Big Joe
-"<Delay 10>...<Delay 10>hic<Delay 10>...<Delay 30>
+"<Delay 10>...<Delay 10>*Hic*<Delay 10>...<Delay 30>
 <Delay 30>You drinkin' too?<New>
 Booze is my life companion!<Delay 30>
 Especially in a sucky
@@ -28,21 +28,21 @@ dough and dynamite...
 Ha, how unromantic."<Close><End of Block>
 <TextBlock 4 w:42 h:2>
 Big Joe
-"Me? <New>
+"Me?<New>
 What am I doing here?<New>
 ...Whatever I please,
 I guess."<Close><End of Block>
 <TextBlock 5 w:52 h:3>
 Big Joe
-"You think you know 
+"You think you know
 about yourself?<New>
 I could introduce myself
 right now, and by tomorrow
 be a different person.<New>
 If you didn't understand
 that, I'll repeat...<Delay 30>
-...Hic!<Delay 30><New>
-Don't count your chickens 
+...*Hic*!<Delay 30><New>
+Don't count your chickens
 before they hatch."<Close><End of Block>
 <TextBlock 6 w:22 h:1>
 "Shaddap!!"<Close><End of Block>
@@ -52,8 +52,8 @@ before they hatch."<Close><End of Block>
 Why're you all yappin'
 when Big Joe is here
 trying to drink in peace?<New>
-Can't ya'll shuddup...?<Delay 10>
-...<Delay 10>Hic!<Close><End of Block>
+Can't y'all shuddup...?<Delay 10>
+...<Delay 10>*Hic*!<Close><End of Block>
 <TextBlock 9 w:30 h:2>
 Big Joe
 "Gahahahahaha!"<Close><End of Block>
@@ -65,18 +65,18 @@ as good as you talk?"<Close><End of Block>
 <TextBlock 11 w:52 h:4>
 Big Joe
 "You're so tough...<New>
-Always lookin' for junk 
+Always lookin' for junk
 laying around... Why don't
 you do somethin' more
 productive for once!?"<Close><End of Block>
 <TextBlock 12 w:50 h:4>
 Big Joe
-"Gahahahaha!<Delay 20> 
-That's right... Run home 
+"Gahahahaha!<Delay 20>
+That's right... Run home
 to momma, little boys!"<Close><End of Block>
 <TextBlock 13 w:30 h:4>
 Big Joe
-"Ha! <Delay 20>
+"Ha!<Delay 20>
 Cowardly little
 punks!"<Close><End of Block>
 <TextBlock 14 w:46 h:2>
@@ -95,21 +95,21 @@ and steal their treasure!<Opcode 2 30><Close><End of Block>
 <TextBlock 19 w:28 h:1>
 Wahahahahahha.<Opcode 2 30><Close><End of Block>
 <TextBlock 20 w:46 h:3>
-Who'd ya think ya are?<New>
+Who d'ya think ya are?<New>
 I don't care if you're
 Big Joe or Big Shmoe!
 You don't mess with me!<Close><End of Block>
 <TextBlock 21 w:40 h:1>
 What's that ya'say!?<Close><End of Block>
 <TextBlock 22 w:38 h:2>
-If you ask me, 
-You're a big pus--!<Close><End of Block>
+If you ask me,
+you're a big pus<--><Close><End of Block>
 <TextBlock 23 w:40 h:2>
 Aw, shawdup!
 Just shut your trap!<Close><End of Block>
 <TextBlock 24 w:26 h:2>
 Uwup...!<New>
-Da-damn you! 
+D-Damn you!
 You'll keep!<Close><End of Block>
 <TextBlock 25 w:42 h:3>
 I'm wondering whether
@@ -129,15 +129,15 @@ Gyahahahahaha.<Opcode 2 30><Close><End of Block>
 Hey, stop it...<New>
 This guy's trouble.<New>
 He's lookin' wild...<Close><End of Block>
-<TextBlock 32 w:10 h:1>
-Hicc!<Close><End of Block>
+<TextBlock 32 w:14 h:1>
+*Hicc*!<Close><End of Block>
 <TextBlock 33 w:28 h:4>
 10G a night...
 Wanna stay?
     Yes
     No<Close><End of Block>
 <TextBlock 34 w:42 h:2>
-You don' have enough 
+You don't have enough
 money. Get out!<Close><End of Block>
 <TextBlock 35 w:30 h:6>
   - Menu -
