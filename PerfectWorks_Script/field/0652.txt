@@ -12,7 +12,7 @@ Elly
 Elly
 "Hey... Yesterday you
 said that your life
-Didn't mean anything.<New>
+didn't mean anything.<New>
 What was that all
 about?"<Close><End of Block>
 <TextBlock 5 w:42 h:2>
@@ -228,7 +228,7 @@ You're a coward!"<Close><End of Block>
 Fei
 "Yeah...maybe that...<New>
 That's right!
-I'm a coward!
+I'm a coward!<Delay 60>
 I've known it all along.<New>
 I didn't realize my own
 strength and have been

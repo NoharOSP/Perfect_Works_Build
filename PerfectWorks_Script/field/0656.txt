@@ -108,8 +108,9 @@ Fei
 "Ahh, okay...<Delay 20>
 Somehow I already<Delay 20>
 knew<Delay 20> that."<Close><End of Block>
-<TextBlock 22 w:4 h:1>
-??<Close><End of Block>
+<TextBlock 22 w:8 h:2>
+Elly
+"??"<Close><End of Block>
 <TextBlock 23 w:54 h:4>
 Fei
 "Anyway, it's too dangerous
