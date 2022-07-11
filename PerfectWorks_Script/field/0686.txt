@@ -46,8 +46,8 @@ Don't count your chickens
 before they hatch."<Close><End of Block>
 <TextBlock 6 w:22 h:1>
 "Shaddap!!"<Close><End of Block>
-<TextBlock 7 w:22 h:1>
-"...hic..."<Close><End of Block>
+<TextBlock 7 w:26 h:1>
+"...*Hic*..."<Close><End of Block>
 <TextBlock 8 w:50 h:3>
 Why're you all yappin'
 when Big Joe is here
@@ -108,7 +108,7 @@ you're a big pus<--><Close><End of Block>
 Aw, shawdup!
 Just shut your trap!<Close><End of Block>
 <TextBlock 24 w:26 h:2>
-Uwup...!<New>
+Guh...!<New>
 D-Damn you!
 You'll keep!<Close><End of Block>
 <TextBlock 25 w:42 h:3>
@@ -129,8 +129,8 @@ Gyahahahahaha.<Opcode 2 30><Close><End of Block>
 Hey, stop it...<New>
 This guy's trouble.<New>
 He's lookin' wild...<Close><End of Block>
-<TextBlock 32 w:14 h:1>
-*Hicc*!<Close><End of Block>
+<TextBlock 32 w:10 h:1>
+Bah!<Close><End of Block>
 <TextBlock 33 w:28 h:4>
 10G a night...
 Wanna stay?
