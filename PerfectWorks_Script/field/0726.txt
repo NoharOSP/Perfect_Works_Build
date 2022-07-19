@@ -1,9 +1,9 @@
 <TextBlock 1 w:32 h:2>
 It is no good!
 We are done for!<Close><End of Block>
-<TextBlock 2 w:34 h:3>
+<TextBlock 2 w:30 h:3>
 Fei
-"A few minutes...<Delay 32>
+"Minutes...!?<Delay 32>
 Doc!!"<Close><End of Block>
 <TextBlock 3 w:28 h:3>
 Fei

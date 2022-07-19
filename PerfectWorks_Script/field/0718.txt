@@ -108,7 +108,7 @@ about your father?"<Close><End of Block>
 <TextBlock 19 w:54 h:3>
 Citan
 "...<New>
-(I am certain it was him...!<Delay 32>
+(I am certain it was him!<Delay 32>
 That was no coincidence...)<New>
 (Could it be that we are
 approaching...<Delay 32>the
