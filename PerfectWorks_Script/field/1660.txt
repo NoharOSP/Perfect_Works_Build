@@ -16,7 +16,7 @@ the Birdvision in the
 dedication."<Close><End of Block>
 <TextBlock 5 w:48 h:2>
 Fei
-"You saw that too, doc?"<Close><End of Block>
+"You saw that too, Doc?"<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Citan
 "Yes.<Delay 10> But I did not

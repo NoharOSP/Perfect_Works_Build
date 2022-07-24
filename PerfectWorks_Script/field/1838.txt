@@ -220,7 +220,7 @@ it only as a last
 resort."<Close><End of Block>
 <TextBlock 44 w:22 h:3>
 Fei
-"Elly,<Delay 10> doc,<Delay 10>
+"Elly,<Delay 10> Doc,<Delay 10>
 I..."<Close><End of Block>
 <TextBlock 45 w:52 h:4>
 Citan

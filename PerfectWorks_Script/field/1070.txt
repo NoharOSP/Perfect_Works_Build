@@ -53,7 +53,7 @@ there.<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 I'm doing some Gear
 maintenance today at the
-dock<...><Delay 40> But, they're
+dock...<Delay 40> But, they're
 only battle Gears.<New>
 A lot of people go in an'
 out without authorization.

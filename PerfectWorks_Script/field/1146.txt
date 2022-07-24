@@ -6,9 +6,9 @@ Hammer
 <TextBlock 3 w:18 h:2>
 Fei
 "Yeah<Delay 5>..."<Delay 80><Close><End of Block>
-<TextBlock 4 w:44 h:3>
+<TextBlock 4 w:40 h:3>
 Fei
-"What happened, doc...<Delay 15>
+"What's up, Doc...?<Delay 15>
 ...<Delay 15>!!"<Close><End of Block>
 <TextBlock 5 w:28 h:2>
 Fei

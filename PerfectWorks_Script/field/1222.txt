@@ -50,7 +50,7 @@ Elly
 "What?"<Close><End of Block>
 <TextBlock 14 w:54 h:4>
 Fei
-"They're okay...<Delay 45>doc,<Delay 30> Rico,<Delay 30>
+"They're okay...<Delay 45> Doc,<Delay 30> Rico,<Delay 30>
 Hammer,<Delay 30> everyone...<Delay 45> They're
 all going to be okay."<Close><End of Block>
 <TextBlock 15 w:28 h:1>
@@ -159,7 +159,7 @@ Yeah, that's right...<New>
 That weird masked man!
 He said my father was
 in its military...<New>
-So that saucer is what doc
+So that saucer is what Doc
 and that masked man said
 was the country my father
 and mother lived in?"<Close><End of Block>

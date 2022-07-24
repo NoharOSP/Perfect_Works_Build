@@ -573,8 +573,8 @@ Yeah,<Delay 5> the Gear.<Delay 15>
 I almost forgot."<Close><End of Block>
 <TextBlock 110 w:54 h:4>
 Hammer
-"As the doc predicted, bro.
-Your Gear has been moved to
+"As the doc predicted, bro,
+your Gear has been moved to
 another dispatchment dock."<Close><End of Block>
 <TextBlock 111 w:40 h:3>
 Citan
@@ -607,20 +607,20 @@ tunnel's ducts and follow
 them right through till
 they lead to the docks.<New>
 But I couldn't find out
-the duct's layout<Delay 5>...<Delay 30>
+the ducts' layout<Delay 5>...<Delay 30>
 Sorry, bro."<Close><End of Block>
 <TextBlock 115 w:52 h:4>
 Fei
 "<Delay 5>...<Delay 5>Oh that tunnel, huh?<New>
-Well, now that we have the
-bomb problem off of our
+Well, now that we have
+the bomb problem off our
 necks, we might be able to
 make a go of it!"<Close><End of Block>
 <TextBlock 116 w:54 h:4>
 Citan
 "Yes, but we are still left
-with not knowing the times
-that the trains pass by on.<New>
+with not knowing what times
+the trains pass by.<New>
 Will a supply train pass by
 at a time that is of any
 use to us?"<Close><End of Block>
@@ -631,17 +631,18 @@ decided now. Let's take our
 time and plan it carefully!"<Close><End of Block>
 <TextBlock 118 w:54 h:4>
 Fei
-"Firstly Hammer, I'm sorry
+"Firstly: Hammer, I'm sorry
 to put you out, but<Delay 5>...<New>
-Could you find out the days
-and times that the supply
-trains operate on for us
+could you find out for us
+the days and times that the
+supply trains operate,
 please?"<Close><End of Block>
 <TextBlock 119 w:54 h:3>
 Hammer
 "I'll get right on it, bro.<Delay 15>
 Well then, I'll be off!"<Close><End of Block>
-<TextBlock 120 w:38 h:3>
+<TextBlock 120 w:42 h:4>
 Citan
-"Shall we return to
-D Block for now?"<Close><Close><End of Block>
+"Shall we also return
+to D Block for the
+time being?"<Close><Close><End of Block>

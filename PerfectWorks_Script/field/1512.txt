@@ -55,7 +55,7 @@ stay behind."<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Fei
 "Yeah...
-I know, doc.<Delay 20>
+I know, Doc.<Delay 20>
 We'll go!<New>
 We're already involved.<Delay 20>
 And, we can't just stand

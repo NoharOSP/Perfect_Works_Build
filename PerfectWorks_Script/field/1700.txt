@@ -11,7 +11,7 @@ Fei
 "Let's have a bite here."<Close><End of Block>
 <TextBlock 4 w:44 h:2>
 Fei
-"What about you, doc?"<Close><End of Block>
+"What about you, Doc?"<Close><End of Block>
 <TextBlock 5 w:38 h:3>
 Fei
 "Are you sure?

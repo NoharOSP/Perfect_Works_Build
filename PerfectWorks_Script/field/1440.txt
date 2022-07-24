@@ -1,7 +1,7 @@
 <TextBlock 1 w:34 h:3>
 Fei
 "Is it going to
-be okay, doc...?"<Close><End of Block>
+be okay, Doc...?"<Close><End of Block>
 <TextBlock 2 w:38 h:3>
 Fei
 "Alright! 

@@ -56,7 +56,7 @@ Elly
 We need to escape first..."<Close><End of Block>
 <TextBlock 10 w:46 h:2>
 Fei
-"Oh yeah, where's doc?"<Close><End of Block>
+"Oh yeah, where's Doc?"<Close><End of Block>
 <TextBlock 11 w:50 h:3>
 Elly
 "He took a different pod

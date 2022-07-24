@@ -141,7 +141,7 @@ Fei
 "Wow...feels good.<New>
 There's a world of
 difference between this
-and doc's old bath tub!"<Close><End of Block>
+and Doc's old bath tub!"<Close><End of Block>
 <TextBlock 33 w:4 h:1>
 !!<Opcode 2 10><Close><End of Block>
 <TextBlock 34 w:40 h:3>

@@ -530,8 +530,8 @@ you can do."<Close><End of Block>
 <TextBlock 90 w:52 h:4>
 Id
 "You understand well.
-Just as I expected, Citan,
-...or was it 'doc'?"<Close><End of Block>
+Just as I expected, Citan.
+...Or was it 'Doc'?"<Close><End of Block>
 <TextBlock 91 w:54 h:4>
 Citan
 "I have been wanting to
@@ -613,9 +613,9 @@ intrigued."<Close><End of Block>
 <TextBlock 106 w:52 h:4>
 Id
 "With friends like you...
-eh, doctor?<New>
+eh, Doctor?<New>
 I like you, Citan.
-But, he is insignificant.<New>
+But he is insignificant.<New>
 After all, he is just a
 failure. A coward like
 him does not deserve to
