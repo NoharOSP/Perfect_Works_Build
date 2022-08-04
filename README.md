@@ -47,8 +47,6 @@ For those who want to test a certain section in the game. They use the mcd forma
 
 ## Patches:
 
-Coming soon: A patcher which allows users to decide what patches they wish to apply to their Xenogears ROM.
-
 ### Encounters:
 
 - Encounter rate has been halved except for the Duneman Isle, Shevat Emergency Shaft, Anima Dungeon 2 and Deus for grinding reasons.
@@ -491,7 +489,7 @@ All deathblow learning rates (sans Emeralda) have been doubled to minimize grind
 - If Divvy Up is used immediately after it's been used, it's effect will stack onto other party members (will not effect the rest of the game).
 
 ### Script:
-- Texture issue with Fatima Castle's library (will not effect the rest of the game). Will be fixed when the patcher is released.
+- Texture issue with Fatima Castle's library (will not effect the rest of the game). To be fixed.
 
 ## Credits:
 ### Production management:
@@ -532,6 +530,7 @@ All deathblow learning rates (sans Emeralda) have been doubled to minimize grind
 - The Minester
 - cthuljew
 - RayDreamer
+- ChaoticBrave
 - Nohar
 
 ### Tools:
@@ -540,3 +539,6 @@ All deathblow learning rates (sans Emeralda) have been doubled to minimize grind
 ### Fast text code:
 - FFMaster
 - Nohar
+
+### PPF code:
+- meunierd
