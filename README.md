@@ -15,9 +15,10 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ### Patching:
 
-- Download PPF-O-MATIC.
-- In ISO File, select the Xenogears ISO from the directory it's stored in.
-- In Patch, select the ppf file you wish to patch onto Xenogears.
+- Open the Xenogears: Perfect Works Patcher.
+- Open the ISO files for both discs.
+- Select which patches you wish to apply.
+- Press Patch.
 
 ### Regenerating:
 
