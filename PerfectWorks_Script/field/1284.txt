@@ -59,11 +59,10 @@ Why did this happen?<New>
 Billy
 "This is father's
 shell casing<Delay 10>...<New>
-Damn it... <New>
-Don't tell me he stormed 
-into the 'Church of the 
-Ethos' headquarters in 
-desperation?"<Close><End of Block>
+Dammit... Don't tell
+me he stormed into the
+Church headquarters
+in desperation?"<Close><End of Block>
 <TextBlock 16 w:46 h:3>
 Rico
 "Guess we can't get in 
@@ -86,9 +85,9 @@ I received permission
 to treat Fei so long as
 it is in the practice
 hall's infirmary.<New>
-Let our 'Church of Ethos' 
-staff take care of the 
-rest."<Close><End of Block>
+Let our Church of the
+Ethos staff take care
+of the rest."<Close><End of Block>
 <TextBlock 21 w:54 h:3>
 Elly
 "Please,
@@ -96,8 +95,7 @@ take care of Fei for me<Delay 4>..."<Close><End of Block>
 <TextBlock 22 w:44 h:3>
 Billy
 "The brothers from the
-'Church of the Ethos'<New>
-are looking after
+Church are looking after
 Fei in the infirmary.<New>
 Let me take you there.
 Please follow me,<Delay 15>
@@ -132,10 +130,9 @@ my 'brothers' and workers."<Close><End of Block>
 <TextBlock 29 w:52 h:3>
 Verlaine
 "Well, you're such a fine
-Etone - destroying Reapers<New>
+Etone - destroying Reapers
 and proving the justice of
-the 'Church of the Ethos' 
-to the world.<New>
+the Church to the world.<New>
 But your father is..."<Close><End of Block>
 <TextBlock 30 w:40 h:4>
 Verlaine

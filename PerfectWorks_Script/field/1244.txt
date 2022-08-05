@@ -7,7 +7,7 @@
 <TextBlock 4 w:44 h:5>
 What're you runnin'
 around for? Don't know
-where to go eh?
+where to go, eh?
     Yes
     No<Close><End of Block>
 <TextBlock 5 w:40 h:3>
@@ -17,7 +17,7 @@ I got work to do.<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 The Reapers are good
 from afar but far from
-good. <New>
+good.<New>
 It's the biggest mistake
 they'll ever make
 if they mess with a
@@ -44,16 +44,16 @@ Now you know. Now get
 out of here!! G'wan!<Close><End of Block>
 <TextBlock 12 w:42 h:4>
 Another day on the
-job...Submerged under
-the sea day to
-day<Delay 10>...<Delay 10>...<Delay 10>sigh...<Close><End of Block>
+job... Submerged
+under the sea day to
+day<Delay 10>...<Delay 10>...<Delay 10>*sigh*...<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Having that job from
-the 'Church' ruined,<New>
+the Church ruined,<New>
 I guess there's no other
 way for me to make a
 living 'cept diving...
-sigh...<Close><End of Block>
+*sigh*...<Close><End of Block>
 <TextBlock 14 w:46 h:4>
 Before going in though,
 I'll have to do some
@@ -72,4 +72,4 @@ Fei
 Let's go."<Close><End of Block>
 <TextBlock 17 w:22 h:2>
 Elly
-"W-wait..."<Close><Close><End of Block>
+"W-Wait..."<Close><Close><End of Block>

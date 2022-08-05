@@ -11,7 +11,7 @@ Bart
 Billy
 ...<Delay 10>...<Delay 10> I...<Delay 10>...<Delay 10>
 still can't believe it.<New>
-The 'Church' was that
+The Church was that
 dubious an organization<Delay 10>...<Delay 10>
 What was it that I believed
 in...<Delay 10> all this time?"<Close><End of Block>
@@ -36,7 +36,7 @@ such blasphemy!?"<Close><End of Block>
 Billy
 "Is that true, Verlaine?<Delay 25>
 But why people from
-the 'Church'?"<Close><End of Block>
+the Church?"<Close><End of Block>
 <TextBlock 10 w:52 h:4>
 Billy
 "Even if that were true,
@@ -86,7 +86,7 @@ He's just taking a nap.<Delay 10>
 You should've been able to
 tell by the sound it made!<New>
 Besides,<Delay 10> these murderers
-are not from <Delay 10>the 'Church'!"<Close><End of Block>
+are not from <Delay 10>the Church!"<Close><End of Block>
 <TextBlock 21 w:14 h:2>
 Jessie
 "Look!"<Close><End of Block>
@@ -97,10 +97,10 @@ They're agents of Solaris!<New>
 Probably an assassination
 unit under Stone's command!<New>
 I got word that they were
-exterminating all 'Church'
+exterminating all Church
 members, and hurried here.<Delay 10>
 But I was too late...<New>
-All 'Church' affiliates
+All Church affiliates
 have already been killed,
 except for those on some
 sort of salvage mission."<Close><End of Block>
@@ -135,19 +135,19 @@ Stone
 "The status of bishop
 is merely a convenience
 for my activities on Earth.<New>
-The 'Church' was created as
+The Church was created as
 a Solaris sub-organization
 and given the task of
 managing earth-dwellers.<New>
 But over the years the
-'Church' started to set
+Church started to set
 up convenient doctrines
 for itself...<New>
 It then went on to gather
 the ignorant masses, and
 created a god for them to
 believe in.<New>
-Then, the 'Church' even
+Then, the Church even
 went so far as to plot
 a separation from its
 creator, Solaris.<New>
@@ -160,7 +160,7 @@ The ones prepared as
 the Etone.<New>
 Etones, 'the Atoners',<Delay 5> the
 organization I established
-within  the 'Church',<Delay 5> had
+within the Church,<Delay 5> had
 two purposes<Delay 5>...<New>
 On the surface their aim
 was to eliminate the<Delay 5>
@@ -173,10 +173,10 @@ like Verlaine<Delay 5>...<New>
 These were responsible for
 observing<Delay 10> and eliminating<Delay 10>
 any corrupt people who
-appeared in the 'Church'.<New>
+appeared in the Church.<New>
 You didn't have the chance
 to learn of this, since you
-left the 'Church' so early.<New>
+left the Church so early.<New>
 <Delay 5>...<Delay 10>Or actually,<Delay 5>
 I just never told you.<Delay 20>
 There was 'another role'
@@ -198,7 +198,7 @@ of things, or how these
 systems of things works.<New>
 In fact, the <Delay 5>'god'<Delay 5> and
 <Delay 5>'faith'<Delay 5> systems set up by
-the 'Church' were the truth
+the Church were the truth
 itself,<Delay 5> were they not?"<Close><End of Block>
 <TextBlock 33 w:44 h:4>
 Billy
@@ -311,7 +311,7 @@ that you belong with us<Delay 5>...?<Close><End of Block>
 <TextBlock 47 w:52 h:5>
 Verlaine
 "You're defiled, <Delay 10>Billy.<New>
-You left the 'Church' and
+You left the Church and
 kept company with dregs
 who have no faith at all.
 And you lost sight of what
@@ -344,7 +344,7 @@ Verlaine
 brethren deserve to die!<New>
 They allowed greed to tempt
 them into abandoning their
-'duties as the 'Church'' to
+'duties as the Church' to
 pursue world domination.<New>
 They passed their own death
 sentences when they allowed
@@ -378,7 +378,7 @@ Verlaine
 Where does such
 a being exist?<New>
 You should know by now how
-the 'Church' came about...<New>
+the Church came about...<New>
 It was an organization
 created by Solaris aeons
 ago solely for the purpose
@@ -386,7 +386,7 @@ of managing ignorant humans.<New>
 Its doctrines are just
 deceptions designed to
 control the masses.<New>
-The 'Church' used the two
+The Church used the two
 sweet fruits of 'faith'
 and 'technology' well to
 skillfully manipulate global

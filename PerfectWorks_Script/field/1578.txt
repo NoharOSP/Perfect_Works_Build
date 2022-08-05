@@ -63,7 +63,7 @@ for a clergyman."<Close><End of Block>
 <TextBlock 19 w:54 h:4>
 Shakhan
 "There's much more to
-the 'Church of the Ethos' 
+the Church of the Ethos
 than you would know.<New>
 We're not a single unit.
 We each have an agenda.<New>
@@ -73,7 +73,7 @@ central area's gone.<Delay 30>
 I have my own motives.<New>
 And it is for those very
 motives, that I used Av 
-and Geburah. Now, the 
+and Geburah. Now, the
 treasure's mine.<Delay 30><New>
 I suggest you retreat now."<Close><End of Block>
 <TextBlock 20 w:20 h:2>

@@ -220,7 +220,7 @@ Jessie
 rumor about me. A rumor.<New>
 Don't you believe that.
 Ever since you became a
-member of the 'Church'<New>
+member of the Church<New>
 you've become such a 
 stiff."<Close><End of Block>
 <TextBlock 53 w:10 h:2>
@@ -301,7 +301,7 @@ Bart
 "Forget about it,
 relax...<New>
 I came here to talk
-to the 'Church'.
+to the Church.
 Let's get moving."<Close><End of Block>
 <TextBlock 66 w:50 h:3>
 Billy
@@ -378,10 +378,10 @@ We've got to take
 care of Fei first.<New>
 That smart aleck kid
 said he'd introduce
-us to the 'Church'.<New>
+us to the Church.<New>
 So I guess we'll just
 have to go to the 
-'Church's' headquarters 
+Church's headquarters 
 then..."<Close><End of Block>
 <TextBlock 80 w:30 h:2>
 Elly

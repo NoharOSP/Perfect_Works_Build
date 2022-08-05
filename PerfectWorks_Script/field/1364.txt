@@ -135,8 +135,7 @@ Billy
 "An honorable person?
 I certainly do not think
 you are honorable anymore.<New>
-Eliminating the 'Church of 
-the Ethos'<New>
+Eliminating the Church
 and any surface-dwelling
 humans who don't agree
 with your own will..."<Close><End of Block>
@@ -259,10 +258,9 @@ Stone
 this nanomachine colony
 back to Karellen.<New>
 You see, unlike the
-'Church of the Ethos',<New>
-our aim is not the ancient 
-weapons that lay in the 
-city ruins.<New>
+Church, our aim is not
+the ancient weapons that
+lay in the city ruins.<New>
 I don't think we conflict
 with your interests."<Close><End of Block>
 <TextBlock 42 w:54 h:4>
@@ -411,6 +409,6 @@ do we want to be
 called 'harmless'?"<Close><End of Block>
 <TextBlock 64 w:26 h:4>
 Seraphita
-"A<~>hh!
+"A~hh!
 Throne!
 Wait for me!"<Close><Close><End of Block>

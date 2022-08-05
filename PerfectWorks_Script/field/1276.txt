@@ -90,8 +90,8 @@ Billy
 "Just as I thought. This
 transport's infested.<New>
 I must go to the
-'Church of the Ethos' 
-and tell Bishop 
+Church of the Ethos
+and tell Bishop
 Stone..."<Close><End of Block>
 <TextBlock 18 w:54 h:4>
 Billy
@@ -121,5 +121,5 @@ Billy
 "Great timing on the part
 of the kids. I owe them
 one.<New>
-Well, get ready cause here
-it come."<Close><Close><End of Block>
+Well, get ready 'cause
+here it comes."<Close><Close><End of Block>

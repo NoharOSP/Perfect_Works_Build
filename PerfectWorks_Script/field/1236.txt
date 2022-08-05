@@ -2,10 +2,10 @@
 Fei
 "Are you always wandering
 the seas like this?"<Close><End of Block>
-<TextBlock 2 w:38 h:3>
+<TextBlock 2 w:38 h:4>
 Fei
-"Why is the 
-'Church of Ethos' 
+"Why is the
+Church of the Ethos
 involved...?"<Close><End of Block>
 <TextBlock 3 w:6 h:1>
 ...<Opcode 2 100><Close><End of Block>

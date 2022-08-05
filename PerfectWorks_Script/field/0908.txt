@@ -21,14 +21,14 @@ Two others remain, but we
 only know where one is.<Close><End of Block>
 <TextBlock 3 w:50 h:3>
 Citan
-"Yes, under the 'Church's'
+"Yes, under the Church
 headquarters. However..."<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Billy
 "It wasn't there when we
 followed Stone<New> 
-under the 'Church of the 
-Ethos' headquarters.<New>
+under the Church of the 
+Ethos headquarters.<New>
 If it really is there...<Delay 30>
 it must be buried deep
 beneath the earth..."<Close><End of Block>
@@ -107,10 +107,8 @@ Bart
 <TextBlock 21 w:56 h:4>
 Citan
 "However powerful the Jasper
-may be,<New> 
-how are we going to aim it 
-at the 'Church of the
-Ethos' H.Q.?<New>
+may be, how are we going to
+aim it at the Church HQ?<New>
 To damage something that
 deep underground we would
 have to attack it from
@@ -320,7 +318,7 @@ One will fire the gun...<New>
 While the other will adjust
 the angle of the mirror to
 ensure the beam hits the
-'Church's' headquarters.<New>
+Church headquarters.<New>
 Since this was my idea,
 I will take the dangerous
 part of adjusting the
@@ -366,9 +364,8 @@ Bart
 "Then it's settled.<New>
 You go with Citan to aim
 the mirror at the 
-'Church's' headquarters.<New>
+Church headquarters.<New>
 We'll aim the Jasper gun
 at the mirror.<Delay 50>
 Let's get back to the
-Yggdrasil and get going!"<Close>
-ggdrasil and get going!"<Close><Close><End of Block>
+Yggdrasil and get going!"<Close><Close><End of Block>

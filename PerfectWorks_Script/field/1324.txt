@@ -2,7 +2,7 @@
 Elly
 "No mistake!<Delay 30>
 This has to be the
-'Church' data bank!"<Close><End of Block>
+Church data bank!"<Close><End of Block>
 <TextBlock 2 w:38 h:4>
 Elly
 "<Delay 5>...<Delay 10>Wait a minute!<Delay 15>
@@ -20,7 +20,7 @@ Elly
 "<Opcode 1 255>Look, here! <Opcode 1 0><New>
 The destinations of all
 resources collected by
-the 'Church' through
+the Church through
 trade with each area...<New>
 All the resources are
 being sent on to the
@@ -55,12 +55,12 @@ re-education<Delay 5>...<New>
 11-16<Delay 5> to be uniformly
 distributed<Delay 5>...<New>
 Put into practice<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>'Church' established
+<Delay 5>...<Delay 5>Church established
 as an organization<Delay 5>...<New>
 <Delay 5>...<Delay 5>Supervision by elders
 <Delay 5>...<Delay 5>conference<Delay 5>...<Delay 5>
 supervision by the Gazel!?<New>
-The 'Church' is<Delay 5>...!?"<Close><End of Block>
+The Church is<Delay 5>...!?"<Close><End of Block>
 <TextBlock 8 w:54 h:4>
 Elly
 "In short,<Delay 5>
@@ -83,19 +83,19 @@ to dwell as separate races
 and were thus supervised.<New>
 To carry out the actual
 supervision, Solaris
-established the 'Church'.<New>
-So the 'Church' is actually
+established the Church.<New>
+So the Church is actually
 controlled by the 'Gazel
 Ministry',<Delay 5> or Solaris'
 highest governmental body.<New>
-So,<Delay 5> yes,<Delay 5> the 'Church' is
+So,<Delay 5> yes,<Delay 5> the Church is
 really a 'front',<Delay 5> or a
 subsidiary organization,<Delay 5>
 working for Solaris!<New>
 Excavation findings, goods
 and natural resources from
 the surface are transported
-to Solaris by the 'Church'.<New>
+to Solaris by the Church.<New>
 This also includes 'human
 resources', or people used
 for manual labor and so on.<New>
@@ -129,7 +129,7 @@ there as manual labor."<Close><End of Block>
 Elly
 "So, do you think Solaris
 is responsible for this
-attack on the 'Church'?"<Close><End of Block>
+attack on the Church?"<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Elly
 "We're going to
@@ -185,7 +185,7 @@ the database I found
 out something...<New>
 There seems to be a person
 from 'Shevat' being held
-here by the 'Church'.
+here by the Church.
 We're going further on...<New>
 Bart and Rico, can you
 please rescue and
@@ -198,7 +198,7 @@ the database I found
 out something...<New>
 There seems to be a person
 from 'Shevat' being held
-here by the 'Church'.
+here by the Church.
 We're going further on...<New>
 Citan and Rico, can
 you please rescue and
@@ -211,7 +211,7 @@ the database I found
 out something...<New>
 There seems to be a person
 from 'Shevat' being held
-here by the 'Church'.
+here by the Church.
 We're going further on...<New>
 Citan and Bart, can
 you please rescue and
@@ -224,7 +224,7 @@ the database I found
 out something...<New>
 There seems to be a person
 from 'Shevat' being held
-here by the 'Church'.
+here by the Church.
 We're going further on...<New>
 Bart and Rico, can
 you please rescue and
@@ -237,7 +237,7 @@ the database I found
 out something...<New>
 There seems to be a person
 from 'Shevat' being held
-here by the 'Church'.
+here by the Church.
 We're going further on...<New>
 Citan and Rico, can
 you please rescue and
@@ -250,7 +250,7 @@ the database I found
 out something...<New>
 There seems to be a person
 from 'Shevat' being held
-here by the 'Church'.
+here by the Church.
 We're going further on...<New>
 Citan and Bart, can
 you please rescue and
@@ -260,13 +260,13 @@ to the Yggdrasil?"<Close><End of Block>
 Citan
 "I am sure of it.<Delay 30>
 This has to be the
-'Church' data bank."<Close><End of Block>
+Church data bank."<Close><End of Block>
 <TextBlock 25 w:54 h:4>
 Citan
 "I say...<Delay 5>a facility of
 this magnitude would even
 be hard to find in Solaris.<New>
-Why would the 'Church'
+Why would the Church
 have such a set up?"<Close><End of Block>
 <TextBlock 26 w:42 h:3>
 Citan
@@ -282,7 +282,7 @@ amount of people
 sent to Solaris<Delay 5>...<New>
 The majority of them were
 people who had come to the
-'Church' seeking help or
+Church seeking help or
 spiritual salvation."<Close><End of Block>
 <TextBlock 28 w:30 h:3>
 Citan
@@ -306,7 +306,7 @@ Citan
 that is not linked to
 Solaris...<New>
 It must have been
-initiated by the 'Church'
+initiated by the Church
 itself, as a completely
 independent project.<New>
 It was commenced about
@@ -328,7 +328,7 @@ Hmm<Delay 5>...<Delay 5>I see, so this must
 be their intention<Delay 5>...<New>
 My assessment of the
 circumstances is that the
-'Church' is attempting to
+Church is attempting to
 break away from Solaris<Delay 5>...<New>
 And once freed from its
 master,<Delay 5> it is likely to
@@ -342,13 +342,13 @@ That's a rather ambitious!"<Close><End of Block>
 <TextBlock 35 w:54 h:4>
 Citan
 "Yes, but the real 
-intentions of the 'Church'
+intentions of the Church
 are quite obvious<Delay 5>...<New>
 The fact that they are
 not reporting the results,<Delay 5>
 let alone the site's very
 existence,<Delay 5> gives it away<Delay 5>...<New>
-The 'Church' is planning
+The Church is planning
 to revolt by monopolizing
 this ultra-advanced
 civilization's resources!<New>
@@ -366,7 +366,7 @@ adjusted the computer
 to keep that lock open."<Close><End of Block>
 <TextBlock 38 w:50 h:2>
 Bart
-"The 'Church' data bank?"<Close><End of Block>
+"The Church data bank?"<Close><End of Block>
 <TextBlock 39 w:48 h:4>
 Bart
 "Anyway, this isn't
@@ -412,12 +412,12 @@ it to the main displays."<Close><End of Block>
 <TextBlock 47 w:54 h:4>
 Bart
 "What the heck is this!?
-Why's the 'Church' looking
+Why's the Church looking
 into this kinda stuff?<New>
 On top of that,<Opcode 1 255> that<Delay 20>
 <Opcode 1 0>Shakhan's a bishop!?<Delay 30> Wasn't
 he excommunicated from the
-'Church' 17 years ago!?"<Close><End of Block>
+Church 17 years ago!?"<Close><End of Block>
 <TextBlock 48 w:52 h:3>
 Bart
 "There's a terminal switch
@@ -458,12 +458,12 @@ Billy
 this room is right under
 the cathedral...<New>
 Which could mean that this
-is the 'Church'<Delay 10> data bank?"<Close><End of Block>
+is the Church<Delay 10> data bank?"<Close><End of Block>
 <TextBlock 57 w:52 h:4>
 Billy
 "This data bank holds all
 the information concerning
-the 'Church'.<New>
+the Church.<New>
 From the past to the
 present... everything!<Delay 10>
 This facility is strictly
@@ -478,7 +478,7 @@ my first time in here<Delay 5>...!"<Close><End of Block>
 <TextBlock 59 w:44 h:4>
 Billy
 "B, but, why would the
-'Church' be sending
+Church be sending
 supplies to Solaris!?"<Close><End of Block>
 <TextBlock 60 w:36 h:4>
 Billy
@@ -497,11 +497,11 @@ How could that be<Delay 5>..."<Close><End of Block>
 Billy
 "Even<Delay 5> if that was the case,<Delay 5>
 who would kill all those
-'Church' people,<Delay 5> and why!?"<Close><End of Block>
+Church people,<Delay 5> and why!?"<Close><End of Block>
 <TextBlock 64 w:32 h:4>
 Billy
-"The 'Church'<Delay 5>...<Delay 5>
-My 'Church'<Delay 5>...<Delay 5>
+"The Church<Delay 5>...<Delay 5>
+My Church<Delay 5>...<Delay 5>
 My faith<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 65 w:48 h:3>
 Bart
@@ -535,7 +535,7 @@ Rico
 "Yeah, as I thought, huh."<Close><End of Block>
 <TextBlock 71 w:46 h:3>
 Rico
-"The 'Church' has been
+"The Church has been
 assaulted by someone<Delay 5>...<New>
 And in the basement<Delay 5>...<Delay 10>
 we find a Solarian
@@ -552,12 +552,12 @@ regular reports."<Close><End of Block>
 <TextBlock 74 w:48 h:3>
 Rico
 "It's all a front!<New>
-The 'Church' is really a
+The Church is really a
 subsidiary organization
 of Solaris."<Close><End of Block>
 <TextBlock 75 w:52 h:4>
 Rico
-"So, the 'Church' has
+"So, the Church has
 been manipulating us, heh.<Delay 20>
 Anything else?"<Close><End of Block>
 <TextBlock 76 w:48 h:4>
@@ -574,7 +574,7 @@ further and investigate."<Close><End of Block>
 Elly
 "I am sure of it!<Delay 30>
 This has to be the
-'Church' data bank!"<Close><End of Block>
+Church data bank!"<Close><End of Block>
 <TextBlock 79 w:38 h:4>
 Elly
 "<Delay 5>...<Delay 10>Wait a minute!<Delay 15>
@@ -592,7 +592,7 @@ Elly
 "<Opcode 1 255>Look, here! <Opcode 1 0><New>
 The destinations of all
 resources collected by
-the 'Church' through
+the Church through
 trade with each area...<New>
 All the resources are
 being sent on to the
@@ -627,12 +627,12 @@ re-education<Delay 5>...<New>
 11-16<Delay 5> to be uniformly
 distributed<Delay 5>...<New>
 Put into practice<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>'Church' established
+<Delay 5>...<Delay 5>Church established
 as an organization<Delay 5>...<New>
 <Delay 5>...<Delay 5>Supervision by elders
 <Delay 5>...<Delay 5>conference<Delay 5>...<Delay 5>
 supervision by the Gazel!?<New>
-The 'Church' is<Delay 5>...!?"<Close><End of Block>
+The Church is<Delay 5>...!?"<Close><End of Block>
 <TextBlock 85 w:54 h:4>
 Elly
 "In short,<Delay 5>
@@ -655,19 +655,19 @@ to dwell as separate races
 and were thus supervised.<New>
 To carry out the actual
 supervision, Solaris
-established the 'Church'.<New>
-So the 'Church' is actually
+established the Church.<New>
+So the Church is actually
 controlled by the 'Gazel
 Ministry',<Delay 5> or Solaris'
 highest governmental body.<New>
-So,<Delay 5> yes,<Delay 5> the 'Church' is
+So,<Delay 5> yes,<Delay 5> the Church is
 really a 'front',<Delay 5> or a
 subsidiary organization,<Delay 5>
 working for Solaris!<New>
 Excavation findings, goods
 and natural resources from
 the surface are transported
-to Solaris by the 'Church'.<New>
+to Solaris by the Church.<New>
 This also includes 'human
 resources', or people used
 for manual labor and so on.<New>
@@ -701,7 +701,7 @@ there as manual labor."<Close><End of Block>
 Elly
 "So, do you think Solaris
 is responsible for this
-attack on the 'Church'?"<Close><End of Block>
+attack on the Church?"<Close><End of Block>
 <TextBlock 89 w:42 h:3>
 Elly
 "You go on ahead.<New>
@@ -745,7 +745,7 @@ the database I found
 out something...<New>
 There seems to be a person
 from 'Shevat' being held
-here by the 'Church'.
+here by the Church.
 We're going further on...<New>
 Bart and Rico, can
 you please rescue and
@@ -758,7 +758,7 @@ the database I found
 out something...<New>
 There seems to be a person
 from 'Shevat' being held
-here by the 'Church'.
+here by the Church.
 We're going further on...<New>
 Bart and Rico, can
 you please rescue and
@@ -771,7 +771,7 @@ the database I found
 out something...<New>
 There seems to be a person
 from 'Shevat' being held
-here by the 'Church'.
+here by the Church.
 We're going further on...<New>
 Bart and Rico, can
 you please rescue and
@@ -784,7 +784,7 @@ the database I found
 out something...<New>
 There seems to be a person
 from 'Shevat' being held
-here by the 'Church'.
+here by the Church.
 We're going further on...<New>
 Bart and Rico, can
 you please rescue and
@@ -797,7 +797,7 @@ the database I found
 out something...<New>
 There seems to be a person
 from 'Shevat' being held
-here by the 'Church'.
+here by the Church.
 We're going further on...<New>
 Bart and Rico, can
 you please rescue and
@@ -810,7 +810,7 @@ the database I found
 out something...<New>
 There seems to be a person
 from 'Shevat' being held
-here by the 'Church'.
+here by the Church.
 We're going further on...<New>
 Bart and Rico, can
 you please rescue and
@@ -818,7 +818,7 @@ accompany that 'Shevite'
 to the Yggdrasil?"<Close><End of Block>
 <TextBlock 101 w:52 h:4>
 Citan
-"If the 'Church' is indeed
+"If the Church is indeed
 under the control of
 Solaris, as we suspect...<New>
 ...then there should be
@@ -832,13 +832,13 @@ any more clues."<Close><End of Block>
 Citan
 "I am sure of it.<Delay 30>
 This has to be the
-'Church' data bank."<Close><End of Block>
+Church data bank."<Close><End of Block>
 <TextBlock 103 w:54 h:4>
 Citan
 "I say...<Delay 5> a facility of
 this magnitude would even
 be hard to find in Solaris.<New>
-Why would the 'Church'
+Why would the Church
 have such a set up?"<Close><End of Block>
 <TextBlock 104 w:42 h:3>
 Citan
@@ -854,7 +854,7 @@ amount of people
 sent to Solaris<Delay 5>...<New>
 The majority of them were
 people who had come to the
-'Church' seeking help or
+Church seeking help or
 spiritual salvation."<Close><End of Block>
 <TextBlock 106 w:30 h:3>
 Citan
@@ -878,7 +878,7 @@ Citan
 that is not linked to
 Solaris...<New>
 It must have been
-initiated by the 'Church'
+initiated by the Church
 itself, as a completely
 independent project.<New>
 It was commenced about
@@ -900,7 +900,7 @@ Hmm<Delay 5>...<Delay 5>I see, so this must
 be their intention<Delay 5>...<New>
 My assessment of the
 circumstances is that the
-'Church' is attempting to
+Church is attempting to
 break away from Solaris<Delay 5>...<New>
 And once free from its
 master,<Delay 5> it is likely it
@@ -914,13 +914,13 @@ That's an incredible plan."<Close><End of Block>
 <TextBlock 113 w:54 h:4>
 Citan
 "Yes, but the real 
-intentions of the 'Church'
+intentions of the Church
 are quite obvious<Delay 5>...<New>
 The fact that they are
 not reporting the results,<Delay 5>
 let alone the site's very
 existence,<Delay 5> gives it away<Delay 5>...<New>
-The 'Church' is planning
+The Church is planning
 to revolt by monopolizing
 this ultra-advanced
 civilization's resources!<New>
@@ -940,7 +940,7 @@ keep that lock open."<Close><End of Block>
 Bart
 "But who would've guess
 that Solaris was behind
-the 'Church'?<New>
+the Church?<New>
 Looks like there's more
 than meets the eye with
 this case."<Close><End of Block>
@@ -983,12 +983,12 @@ it to the main displays."<Close><End of Block>
 <TextBlock 124 w:54 h:4>
 Bart
 "What the heck is this!?
-Why's the 'Church' looking
+Why's the Church looking
 into this kinda stuff?<New>
 On top of that,<Opcode 1 255> that<Delay 20>
 <Opcode 1 0>Shakhan's a bishop!?<Delay 30> Wasn't
 he excommunicated from the
-'Church' 17 years ago!?"<Close><End of Block>
+Church 17 years ago!?"<Close><End of Block>
 <TextBlock 125 w:52 h:4>
 Bart
 "There's a terminal switch
@@ -1034,7 +1034,7 @@ Rico
 "Apparently."<Close><End of Block>
 <TextBlock 135 w:46 h:3>
 Rico
-"The 'Church' has been
+"The Church has been
 assaulted by someone<Delay 5>...<New>
 And in the basement<Delay 5>...<Delay 10>
 we find a Solarian
@@ -1051,12 +1051,12 @@ regular reports."<Close><End of Block>
 <TextBlock 138 w:48 h:3>
 Rico
 "It's all a front!<New>
-The 'Church' is really a
+The Church is really a
 subsidiary organization
 of Solaris."<Close><End of Block>
 <TextBlock 139 w:52 h:4>
 Rico
-"So, the 'Church' has
+"So, the Church has
 been manipulating us, heh.<Delay 20>
 Anything else?"<Close><End of Block>
 <TextBlock 140 w:48 h:4>
@@ -1065,7 +1065,7 @@ Rico
 those people you've seen
 coming here for help?"<Close><End of Block>
 <TextBlock 141 w:68 h:11>
-<Opcode 14 2>      IGNAS CONFLICT STATUS: 
+<Opcode 14 2>      IGNAS CONFLICT STATUS:
 37th arms supplement -  upgrading
 Av's Gears from level D2 to D3.<New>
 Maintain Kislev Gears at level D2.
@@ -1073,15 +1073,15 @@ Current balance = 4:6 ...<New>
      REPORT BY BISHOP SHAKHAN
        OF THE IGNAS DIOCESE: <New>
 Due to the intervention of an
-uncertain factor,<New> 
-correction is needed. 
+uncertain factor,<New>
+correction is needed.
 Operation progress rate
 down 30%...<Opcode 2 40><Close><End of Block>
 <TextBlock 142 w:68 h:7>
 <Opcode 14 2><Delay 5>...<Delay 5>Completed investigation of
 the Zeboim city which sank to the
-bottom of the sea<New> 
-approximately 4000 years 
+bottom of the sea<New>
+approximately 4000 years
 ago<Delay 5>...<Delay 5><New>
 After over 100 test digs, the city
 center has been ascertained<Delay 5>...<Delay 5>
@@ -1090,20 +1090,20 @@ Excavation planned to begin<Delay 5>...<Close><End of Block>
 <Opcode 14 2>Report No. 50224 from Noatun's
 D Block Committee.<New>
 Transferring data for each
-Battler.<New> 
+Battler.<New>
 Biological status of
-A-class Battler.<New> 
-Adaptation rate of<New> 
-the  deployment plan's 
-Type Y demihuman.<New> 
-Transferring data 
+A-class Battler.<New>
+Adaptation rate of<New>
+the deployment plan's
+Type Y demihuman.<New>
+Transferring data
 for the above to the homeland...<Opcode 2 30><Close><End of Block>
 <TextBlock 144 w:62 h:6>
 <Opcode 14 1>Report No. 50227 from Noatun's
 D Block Committee.<New>
 Sigmund's forceful expulsion of
-the 'Church' from the central
-district's government<New> 
+the Church from the central
+district's government<New>
 has made
 coordination difficult.<New>
 Planning to eliminate Sigmund

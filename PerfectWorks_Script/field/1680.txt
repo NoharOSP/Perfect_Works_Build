@@ -73,9 +73,8 @@ materials and fuel
 gathered from the surface.<New>
 These are the technology
 and products you land
-dwellers receive<New> 
-from the 'Church of 
-the Ethos'..."<Close><End of Block>
+dwellers receive from
+the Church of the Ethos..."<Close><End of Block>
 <TextBlock 16 w:52 h:3>
 Citan
 "For now, shall we gather 
