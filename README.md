@@ -11,6 +11,16 @@ Hello. My Name is Ryan ↙ ➡ ↘ ⬇ ↙ ⬅ ↘ Piccuito. I am a character wr
 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
+## Archive:
+
+### GUI patcher:
+
+#### Version 0.1
+
+DISCLAIMER: Only x64 is supported.
+
+https://mega.nz/file/mWYViJTR#_a1CaUwPLeMviQ5ZwTs9kPjYC60c_yOjHd5s68oGbCs
+
 ## Instructions:
 
 ### Patching:
