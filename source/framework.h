@@ -16,6 +16,11 @@
 #endif
 
 #endif
+
+#define WINVER 0x0501
+#define _WIN32_WINNT = 0x0501
+#define ISOLATION_AWARE_ENABLED 1
+
 // C RunTime Header Files
 #include <stdlib.h>
 #include <malloc.h>
