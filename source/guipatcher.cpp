@@ -44,7 +44,8 @@ std::string scriptName2 = "";
 std::string statName1 = "";
 std::string statName2 = "";
 std::vector<HWND> windList;
-std::vector<std::string> patchList;
+std::vector<std::string> patchList1;
+std::vector<std::string> patchList2;
 HWND cd1path;
 HWND cd2path;
 HWND browsebutton1;
@@ -67,7 +68,7 @@ BOOL                InitInstance(HINSTANCE, int);
 LRESULT CALLBACK    WndProc(HWND, UINT, WPARAM, LPARAM);
 INT_PTR CALLBACK    About(HWND, UINT, WPARAM, LPARAM);
 void initialiseButtonList();
-void initialisePatchList();
+void initialisePatchLists();
 void checkboxLock();
 void patchBoxLock();
 void relock();
@@ -357,17 +358,21 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					statName1 = "cd1_statchanges.ppf";
 					statName2 = "cd2_statchanges.ppf";
 				}
-				initialisePatchList();
-				for (int i = 0; i < patchList.size(); i++) {
-					if (patchList[i] != "") {
-						PatchProcess pp(hWnd, path1, patchList[i]);
+				initialisePatchLists();
+				for (int i = 0; i < patchList1.size(); i++) {
+					if (patchList1[i] != "") {
+						PatchProcess pp(hWnd, path1, patchList1[i]);
 					}
 				}
-				for (int i = 0; i < patchList.size(); i++) {
-					if (patchList[i] != "") {
-						PatchProcess pp(hWnd, path2, patchList[i]);
+				for (int i = 0; i < patchList2.size(); i++) {
+					if (patchList2[i] != "") {
+						PatchProcess pp(hWnd, path2, patchList2[i]);
 					}
 				}
+				/*if (p_items_spells) {
+					writeFile wf1(home, path1, 1, p_items_spells, p_script, p_stats);
+					writeFile wf2(home, path2, 2, p_items_spells, p_script, p_stats);
+				}*/
 				MessageBox(hWnd, L"Patch was completed successfully. Use ECCRegen to see if the bin file needs to be regenerated", L"Success", MB_ICONASTERISK);
 				relock();
 				reinitialisePatches();
@@ -491,21 +496,21 @@ void initialiseButtonList() {
 	windList.emplace_back(script);
 }
 
-void initialisePatchList() {
-	patchList.emplace_back(encountersName1);
-	patchList.emplace_back(encountersName2);
-	patchList.emplace_back(fastName1);
-	patchList.emplace_back(fastName2);
-	patchList.emplace_back(expgoldName1);
-	patchList.emplace_back(expgoldName2);
-	patchList.emplace_back(itemspellsName1);
-	patchList.emplace_back(itemspellsName2);
-	patchList.emplace_back(monsterName1);
-	patchList.emplace_back(monsterName2);
-	patchList.emplace_back(statName1);
-	patchList.emplace_back(statName2);
-	patchList.emplace_back(scriptName1);
-	patchList.emplace_back(scriptName2);
+void initialisePatchLists() {
+	patchList1.emplace_back(encountersName1);
+	patchList2.emplace_back(encountersName2);
+	patchList1.emplace_back(fastName1);
+	patchList2.emplace_back(fastName2);
+	patchList1.emplace_back(expgoldName1);
+	patchList2.emplace_back(expgoldName2);
+	patchList1.emplace_back(itemspellsName1);
+	patchList2.emplace_back(itemspellsName2);
+	patchList1.emplace_back(monsterName1);
+	patchList2.emplace_back(monsterName2);
+	patchList1.emplace_back(statName1);
+	patchList2.emplace_back(statName2);
+	patchList1.emplace_back(scriptName1);
+	patchList2.emplace_back(scriptName2);
 }
 
 void checkboxLock() {
@@ -549,8 +554,11 @@ void relock() {
 }
 
 void reinitialisePatches () {
-	for (int i = 0; i < patchList.size(); i++) {
-		patchList[i] = "";
+	for (int i = 0; i < patchList1.size(); i++) {
+		patchList1[i] = "";
+	}
+	for (int i = 0; i < patchList2.size(); i++) {
+		patchList2[i] = "";
 	}
 }
 
