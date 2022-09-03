@@ -7,7 +7,7 @@ FMV patches are an upcoming feature. Previous iterations included links to them 
 
 ## Introduction:
 
-Hello. My Name is Ryan ↙ ➡ ↘ ⬇ ↙ ⬅ ↘ Piccuito. I am a character writer and handler for game balance on the Xenogears Perfect works mod. Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a more complete experience. This does contain unmarked but mild spoilers so readers are advised and warned not to scroll through this if they’re looking to use this mod to enjoy the game for the first time or you simply never got to into it for various reasons we hope to address. These spoilers are primarily for certain story events in the story bits and lines are relegated to story specific changes and certain boss fights dungeons and all moves party members and availability are mentioned in the gameplay focused changes. 
+Hello. My name is Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito. I am a character writer and handler for game balance on the Xenogears Perfect Works mod. Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a more complete experience. This does contain unmarked but mild spoilers, so readers are advised and warned not to scroll through this if they’re looking to use this mod to enjoy the game for the first time, or you simply never got to into it for various reasons we hope to address. These spoilers are primarily for certain story events in the story bits and lines are relegated to story specific changes and certain boss fights dungeons and all moves party members and availability are mentioned in the gameplay focused changes. 
 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
@@ -28,7 +28,7 @@ https://mega.nz/file/mWYViJTR#_a1CaUwPLeMviQ5ZwTs9kPjYC60c_yOjHd5s68oGbCs
 - Open the Xenogears: Perfect Works Patcher.
 - Open the ISO files for both discs.
 - Select which patches you wish to apply.
-- Press Patch.
+- Press Patch. Script patches will take over five minutes to apply due to the FMV data associated with them.
 
 ### Regenerating:
 
@@ -62,7 +62,7 @@ For those who want to test a certain section in the game. They use the mcd forma
 
 - Encounter rate has been halved except for the Duneman Isle, Shevat Emergency Shaft, Anima Dungeon 2 and Deus for grinding reasons.
 
-Throughout the game encounter rates have been lowered. For many players this has been a strikingly annoying part of the game. Especially for sections with platforming as in emulated versions of Xenogears players no longer can hear the disc rev up loading the battle. Because the jump input gets eaten when a battle is being loaded this will have you run off cliffs which is very frustrating. So the encounter rate was halved across a majority of the game. Select areas such as Deus, Anima dungeon 2, the Duneman Isles, and the Shevat Emergency Shaft were kept the same. Deus is a common experience grinding spot due to the Power Seraph giving the most exp out of any single enemy in the game. Shevat’s Emergency Shaft and Anima Dungeon 2 were good places to grind for deathblows and money respectively. And the Duneman Isles is supposed to be a gauntlet with the constant threat of dragons. Which also have exclusive end game equipment on them. Not only would dropping the encounter rate here defeat the point of the optional dungeon it’d be a lot harder to get exclusive weapons.
+Throughout the game, encounter rates have been lowered. For many players, this has been a strikingly annoying part of the game. Especially for sections with platforming as in emulated versions of Xenogears players no longer can hear the disc rev up loading the battle. Because the jump input gets eaten when a battle is being loaded, this will have you run off cliffs which is very frustrating. So the encounter rate was halved across a majority of the game. Select areas such as Deus, Anima Dungeon 2, the Duneman Isles, and the Shevat Emergency Shaft were kept the same. Deus is a common experience grinding spot due to the Power Seraph giving the most exp out of any single enemy in the game. Shevat’s Emergency Shaft and Anima Dungeon 2 were good places to grind for deathblows and money, respectively. And the Duneman Isles is supposed to be a gauntlet with the constant threat of dragons. Which also have exclusive end game equipment on them. Not only would dropping the encounter rate here defeat the point of the optional dungeon, it’d be a lot harder to get exclusive weapons.
 
 ### Exp/gold:
 
@@ -79,11 +79,11 @@ The original patch for the fast text patch was created by FFMaster. As stated on
 
 https://ffhacktics.com/smf/index.php?topic=11638.0
 
-#### Changes scenes in old_script:
+#### Changed scenes in old_script:
 
 - Shakhan's speech before the tournament.
 - The UFO story in the Orphanage.
-- The Ethos databanks.
+- The Ethos data banks.
 - Bart's monologue about Ft Jasper when it is first used.
 
 ### Items/spells:
@@ -120,11 +120,11 @@ Bart:
 - Thor’s Thunda: +20 to +34
 - Death Adder: +24 to +30, Add ‘Inflict Stop on hit’
 
-Barts whips having status effects are a really underused part of his kit. His whips in general were unimpressive. They don’t have the power of Billy’s guns or Citan’s swords but unlike Elly he didn’t have as many unique utility weapons to compensate. They really just kept his attack comparable to Fei’s. Whips have been reworked with utility first in mind with the idea of switching between them to be helpful for the situation at hand.
+Barts whips having status effects are a really underused part of his kit. His whips in general were unimpressive. They don’t have the power of Billy’s guns or Citan’s swords, but unlike Elly he didn’t have as many unique utility weapons to compensate. They really just kept his attack comparable to Fei’s. Whips have been reworked with utility first in mind, with the idea of switching between them to be helpful for the situation at hand.
 
 - Yamato Sword: Has an instant death effect.
 
-The Yamoto Sword is the entire reason and main reward for going to the Duneman Isles. However the blade the dragons drop here literally does more damage. This is hyper demotivating. So the instant death effect was given to make players not only feel more satisfied for getting this, it also gives you a more fun tool to play with. 
+The Yamoto Sword is the entire reason and main reward for going to the Duneman Isles. However, the blade the dragons drop here literally does more damage. This is hyper demotivating. So the instant death effect was given to make players not only feel more satisfied for getting this, it also gives you a more fun tool to play with. 
 
 - Elly Jr Doll: +35 Ether rather than randomly inc/dec Ether power.
 - Emeralda Jr Doll: Now has the same effect as Economether.
@@ -168,19 +168,17 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 #### Monster drops:
 
 - The Executioner drops the ExecutionerGown.
-- Alpha Weltall at Raziel now drops a Power Crisis. The Alpha Weltall fight is great. It’s rewards not so much. You need the Trader's Card just to get it and it’s generic armor. Not even the best for pure defense. So at base for beating the boss you’ll receive a Power Crisis. This will make the few sections left on foot at least a little more enjoyable if you miss the first one or want more. 
+- Alpha Weltall at Raziel now drops a Power Crisis. The Alpha Weltall fight is great. Its rewards, not so much. You need the Trader's Card just to get it, and it’s generic armor. Not even the best for pure defense. So at base for beating the boss you’ll receive a Power Crisis. This will make the few sections left on foot at least a little more enjoyable if you miss the first one or want more. 
 - Ophiomorphous drops the NisanCross.
 
 #### Spell changes:
-
-WARNING: For any spell effects that are inaccessible in the official game (e.g. Ether up), text displaying their effect won't display like it would for a spell such as Yin Power. However, the spell definitely works as intended, even if the description is what you have to go by.
 
 Fei:
 - Guided Shot: 20 to 40
 - Radiance: 60 to 80
 - Big Bang: 80 to 120
 
-Fei’s generally pretty great when balanced against the cast. But against himself, his Ether attacks tends to be very overshadowed and down right wasteful to use. All options should have merit. Even if it’s situational, a situational merit is better than consistently being eclipsed by basic attacks. They’re viable with Power Magic abuse but even Steel Mettle is with that. These changes will give players better insensitive to use these moves throughout the game. It also helps Weltall a fair bit. It tends to fall off hard by disc 1’s end. Between Renmazuo, Vierge, Siebzhen, Crescens (by technicality) and the addition of Andvari to your squad Fei really struggles to carry his weight. This will let him be better at contributing. Big Bang is admittedly a very reliable spell even without its new buffs. But it’s only learned before the final dungeon typically so this will help it see a little more prominence in disc 2.
+Fei’s generally pretty great when balanced against the cast. But against himself, his Ether attacks tend to be very overshadowed and down right wasteful to use. All options should have merit. Even if it’s situational, a situational merit is better than consistently being eclipsed by basic attacks. They’re viable with Power Magic abuse, but even Steel Mettle is with that. These changes will give players better insensitive to use these moves throughout the game. It also helps Weltall a fair bit. It tends to fall off hard by disc 1’s end. Between Renmazuo, Vierge, Siebzhen, Crescens (by technicality) and the addition of Andvari to your squad, Fei really struggles to carry his weight. This will let him be better at contributing. Big Bang is admittedly a very reliable spell even without its new buffs. But it’s only learned before the final dungeon typically, so this will help it see a little more prominence in disc 2.
 
 - ~~Iron Valor~~ Iron Focus: Accuracy Up
 - Yang Power: Ether Up 
@@ -199,7 +197,7 @@ Defense buffs simply don’t work in gears. So their effects have been altered t
 Vierge:
 - AERODS: Power: 50 to 40. Fuel cost: 400 to 800
 
-Elly is a peculiar character; overall she’s a solid mid tier. She herself is fine and her gear isn’t too impressive. But AERODs throws all that out the window, allowing her to one shot several of the games bosses. While bosses are getting a buff, she hits 9999 way too early and easily because of Ether Doublers and Power Magics. So along with Power Magics in general being nerfed simply for being too beneficial for how easy they are to get; AERODs are also losing some points from its power output so that, while the classic boss slayer build will still be a thing, you must now commit more to it to get results. This should give bosses more of a presence in the first disc as Elly soundly obliterates the mid-game, and let other options shine for gears because AERODs becomes a crutch for many players. And given its...limited availability this isn’t exactly healthy to goad players to dump all investment into Vierge only to lose it in disc 2.
+Elly is a peculiar character. She herself is fine, and her gear isn’t too impressive. But AERODs throws all that out the window, allowing her to one shot several of the game's bosses. While bosses are getting a buff, she hits 9999 way too early and easily because of Ether Doublers and Power Magics. So along with Power Magics in general being nerfed simply for being too beneficial for how easy they are to get; AERODs are also losing some points from its power output so that, while the classic boss slayer build will still be a thing, you must now commit more to it to get results. This should give bosses more of a presence in the first disc as Elly soundly obliterates the mid-game, and let other options shine for gears because AERODs becomes a crutch for many players. And given its... limited availability, this isn’t exactly healthy to goad players to dump all investment into Vierge only to lose it in disc 2.
 
 
 Citan:
@@ -217,35 +215,35 @@ Heimdall/Fenrir:
 Bart:
 - ~~White Cologne~~ Divvy Up: Next Ether affects all
 
-Allows Bart to be have useful part wide buffs in exchange for no healing. 
+Allows Bart to have useful part wide buffs in exchange for no healing. 
 
 
 Billy:
 - Goddess Eyes: Ether Up
 
-Goddess Eyes now raises Ether in theme of reworking defensive buffs. Billy was the basis for most balance changes as he’s the best character in Xenogears. Outside of low survivability Billy is arguably the best gear pilot and fighter on foot. But it’s not really for anything overtuned. His gear damage is just the best in the game with nothing else going for it and his on foot builds are very flexible at the cost of sacrificing other strengths. Raising his dps with the doubler but lowering his support use, making all of his ether options phenomenal but crippling his defense, pure support love for weaker offense and defense etc. Outside of quality of life changes that needed to be done simply because they weren’t working we didn’t want to touch Billy. He’s good as is. 
+Goddess Eyes now raises Ether as part of the theme of reworking defensive buffs. Billy was the basis for most balance changes, as he’s arguably the most well-rounded character. Outside of low survivability, Billy makes a case for being the best gear pilot and fighter on foot. But it’s not really for anything over tuned. His gear damage is just the best in the game with nothing else going for it, and his on foot builds are very flexible at the cost of sacrificing other strengths. Raising his DPS with the doubler but lowering his support use, making all of his Ether options phenomenal but crippling his defense, pure support love for weaker offense and defense etc. Outside of quality of life changes that needed to be done simply because they weren’t working, we didn’t want to touch Billy. He’s good as is. 
 
 
 Rico:
 - ~~Steel Body~~ Steel Focus: Accuracy Up
 - ~~Steel Spirit~~ Steel Tempo: Haste, self-only
 
-Rico’s spirit moves have been changed to help him out more; Steel Spirit was effectively useless due to Rico’s garbage ether defense and Steel Body was literally useless because it just...didn’t work. Steel Focus and Steel Tempo are there to offset his defining weaknesses of speed and accuracy without breaking him as a character. 
+Rico’s spirit moves have been changed to help him out more; Steel Spirit was effectively useless due to Rico’s garbage Ether Defense, and Steel Body was literally useless because it just... didn’t work. Steel Focus and Steel Tempo are there to offset his defining weaknesses of speed and accuracy without breaking him as a character. 
 
 
 Chu-Chu:
 - Forest Dance (foot): Heals all allies
 - Forest Dance (giant): Power: 50 to 70
 
-Chu-Chu’s healing is the selling point of the character outside abusing Drives, but in reality its output is pitiful. Especially considering how you don’t wanna drag out gear fights and you’re sacrificing damage for survivability. Healing is now adjusted to better support your attackers and make her a real viable pick.
+Chu-Chu’s healing is the selling point of the character outside abusing Drives, but in reality its output is pitiful. Especially considering how you don’t want to drag out gear fights, and you’re sacrificing damage for survivability. Healing is now adjusted to better support your attackers and make her a real viable pick.
 
 
 Maria:
 - Graviton Gun: 30 EP to 15 EP
 
-On foot Maria is actually pretty good and fairly underrated on account of her low speed and no deathblows. Due to her insanely high damaging spells that run off of Seibzhen’s ether stats including Power Magics, Maria can be a fairly strong on foot character if invested in. 
+On foot; Maria is actually pretty good and fairly underrated, as novice players are often turned off by her low speed and no deathblows. Due to her insanely high damaging spells that run off Seibzhen’s Ether stats including Power Magics, Maria can be a fairly strong on foot character with a good understanding of the game's mechanics. 
 
-But Graviton Gun is way too costly in spite of this. By end-game you’ll only be able to use it twice and with the doubler equipped without the economether, you're only capable of using it once. Maria isn’t even available for many on foot sections so this should encourage players to use her and realize how good she actually is even without deathblows. 
+But Graviton Gun is way too costly in spite of this. By end-game you’ll only be able to use it twice and with the doubler equipped without the Economether, you're only capable of using it once. Maria isn’t even available for many on foot sections, so this should encourage players to use her and experiment more with an ability they would normally never see. 
 
 ### Monster stats:
 
@@ -349,9 +347,9 @@ Unless stated otherwise, the stat changed is HP.
 
 ### Script:
 
-Xenogears was translated from Japanese to English by one man in only 8 months. An incredibly respectable feat that kind of shows. Many words are mistranslated, spelling errors do appear, and a couple of rather infamously campy lines were put in like the iconic “My father? You mean my dad?” Line. The idea was to make the dialogue more faithful to perfect works and make the writing more refined to fit the story. Getting rid of a lot of dumb sounding lines is obviously something we were going to do to keep the tone as much as necessary but an important thing is that we’re aware that xenogears is still a video game. People are always gonna find ways to laugh at things that weren’t intended to be funny. After all you can name Chu-Chu and gears anything you want in the vanilla game. People will always find a way to take something less seriously. Even games known for being very dark stories such as Mother 3, Max Payne, and Fallout 1 all have moments that are unintentionally funny and fans of those games enjoy that aspect. 
+Xenogears was translated from Japanese to English by one man in only 8 months. An incredibly respectable feat that kind of shows. Many words are mistranslated, spelling errors do appear, and a couple of rather infamously campy lines were put in like the iconic “My father? You mean my dad?” Line. The idea was to make the dialogue more faithful to Perfect Works and make the writing more refined to fit the story. Getting rid of a lot of dumb sounding lines is obviously something we were going to do to keep the tone as much as necessary, but an important thing is that we’re aware that Xenogears is still a video game. People are always going to find ways to laugh at things that weren’t intended to be funny. After all, you can name Chu-Chu and gears anything you want in the vanilla game. People will always find a way to take something less seriously. Even games known for being very dark stories such as Mother 3, Max Payne, and Fallout 1 all have moments that are unintentionally funny and fans of those games enjoy that aspect. 
 
-So the plan is to keep some of the camp wherever it’s reasonable because the game is as memorable for funny moments as it is for dark moments. And those moments are important to fans. Not every comedic line is going to stay. The infamous father example being the most notable. But efforts were made to keep what ever ones didn’t take away from a scene. The game has a lot of iconic lines like Id’s dropping a warship is cheating line that fans would be turned away if they changed. So please don’t be too worried or concerned about localization changes. Fans were taken into consideration. 
+So the plan is to keep some of the camp wherever it’s reasonable because the game is as memorable for funny moments as it is for dark moments. And those moments are important to fans. Not every comedic line is going to stay. The infamous father example being the most notable. But efforts were made to keep what ever ones didn’t take away from a scene. The game has a lot of iconic lines, like Id’s dropping a warship is cheating line that fans would be turned away if they changed. So please don’t be too worried or concerned about localization changes. Fans were taken into consideration. 
 
 #### Name changes:
 
@@ -410,7 +408,7 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 
 #### Story changes:
 
-- Liquid Sky is referred to by Jessie and Sigurd in the gun room and by Maison after Shakhan.
+- Liquid Sky is referred to by Jessie and Sigurd in the gunroom and by Maison after Shakhan.
 - The names of the Gazel Ministry are referenced by Karellen in their final scene.
 
 #### Chapter names:
@@ -423,13 +421,13 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 
 ### Stat changes:
 
-Xenogears is frankly; terribly balanced. Not exactly its fault in particular, Squaresoft games were all infamous for this, even their well balanced games like Chrono Trigger had hiccups. Most of the cast has been rebalanced primarily around Billy and Emeralda as they’re frankly the most balanced party members in the game across gears and on-foot. BUFFS ARE THE PRIORITY! There are some necessary nerfs we begrudgingly made but we really wanted to focus on bugging the roster. The issue with the roster's balance primarily a bunch of not useful options and characters so that’s where the focus is. Characters and gears will be discussed in the same sections. 
+Xenogears is frankly; terribly balanced. Not exactly its fault in particular, Squaresoft games were all infamous for this, even their well-balanced games like Chrono Trigger had hiccups. Most of the cast has been rebalanced primarily around Billy and Emeralda as they’re frankly the most balanced party members in the game across gears and on-foot. Buffs are the priority! There are some necessary nerfs we begrudgingly made, but we really wanted to focus on bugging the roster. The issue with the roster's balance, primarily a bunch of not useful options and characters, was where the focus was. Characters and gears will be discussed in the same sections. 
 
 Elly:
 - Hit 7 to 10
 - Ether 15 to 20
 
-To help offset this and due to us not being a fan of strictly nerfing characters without compensations to other parts of their kit, Elly is receiving buffs for on-foot that will make her more inviting of an option. Though she is a mandatory party member fairly often this is in gear sections a majority of the time. So this will hopefully make her a bit more flexible overall. 
+To help offset this and due to us not being a fan of strictly nerfing characters without compensations to other parts of their kit, Elly is receiving buffs for on-foot that will make her more inviting of an option. Though she is a mandatory party member fairly often, this is in gear sections a majority of the time. So this will hopefully make her a bit more flexible overall. 
 
 
 Bart:
@@ -438,9 +436,9 @@ Bart:
 - Ether 7 to 14
 - Evade 14 to 16
 
-Bart is generally one of the weakest characters in the game due to mediocrity. For most of the game anything he can do others can do better. Without wild smile it’s arguable he’s even worse than Rico because at least stier was good, Bart’s gears tended to be outclassed. The goal was to rework bart to be much more supportive and improve his jack of all trades nature to be more useful for him. 
+Bart is generally one of the weakest characters in the game due to mediocrity. For most of the game, anything he can do others can do better. Wild Smile is his biggest selling point, though its effects can be replicated with an Evasion Ring. The goal was to rework Bart to be much more supportive and improve his jack of all trades nature to be more useful for him. 
 
-These stat changes should allow Bart to be a lot more useful overall with out just buffing his attack stat to compensate for his middling toolkit. It also helps give him a sense of identity on the roster, as well as using generally under utilized stats in the game. No one in particular focused on defense or evasion so efforts are being made to help these stats play more of an impact as well as diversify the party. 
+These stat changes should allow Bart to be a lot more useful overall, without just buffing his attack stat to compensate for his middling toolkit. It also helps give him a sense of identity on the roster, as well as using generally under utilized stats in the game. No one in particular focused on Defense or Evasion, so efforts are being made to help these stats play more of an impact as well as diversify the party. 
 
 
 Rico:
@@ -450,7 +448,7 @@ Rico:
 - Hit 10 to 18
 - Agility 7 to 8
 
-Rico is iconically bad. His tied for lowest speed in the game. His Agility and Hit stats are obviously bad but he doesn’t have anything to compensate for this. When he joins most of his stats are worse than Fei’s. Which really undersells he’s one of the only people who beat Fei in a 1v1 fight. Combined with no utility like healing or area of effect damage and Rico is comedically undercooked. The easy solution would be just to give him high speed but that just ruins the diversity of the cast. If that’s what we changed people would still not pick Rico because he’s just a worse Citan. We decided to double down on making Rico a juggernaut. His stats and growths have been adjusted to make him an offensive behemoth so he has noticeable strengths. We also slightly raised his agility to match the boss fight and to prevent the Ganondorf conundrum of giving a character so much power and having them still not be good because they don’t get to use it. Plus this ties him with Elly’s old agility stat, instead of putting him with the characters who lack deathblows. The same goes for his Hit rate as his accuracy is actually hilariously good for his boss fight. The balance for Rico’s absurd stats is his complete lack of any utility. (No healing, cures, aoe, elemental coverage etc).
+Rico is iconically bad. His tied for lowest speed in the game. His Agility and Hit stats are obviously bad, but he doesn’t have anything to compensate for this. When he joins, most of his stats are worse than Fei’s. Which really undersells he’s one of the few people who beat Fei in a 1v1 fight. Combined with no utility like healing or area of effect damage and Rico is comedically undercooked. The easy solution would be just to give him high speed, but that just ruins the diversity of the cast. If that’s what we changed, people would still not pick Rico because he’s just a worse Citan. We decided to double down on making Rico a juggernaut. His stats and growths have been adjusted to make him an offensive behemoth, so he has noticeable strengths. We also slightly raised his agility to match the boss fight and to prevent the Ganondorf conundrum of giving a character so much power and having them still not be good because they don’t get to use it. Plus, this ties him with Elly’s old agility stat, instead of putting him with the characters who lack deathblows. The same goes for his Hit rate, as his accuracy is actually hilariously good for his boss fight. The balance for Rico’s absurd stats is his complete lack of any utility (no healing, cures, AOE, elemental coverage etc).
 
 
 Emeralda:
@@ -469,7 +467,7 @@ Stier:
 - Attack modifier: 12 to 14
 - Agility 7 to 8
 
-Stier was given a point of agility to help differentiate it from Seibzehn. They have very similar builds so while Stier was unironically very good it tends to be worse than Seibzehn once the Power Magics came into play. This gives distinctions to similar characters. 
+Stier was given a point of agility to help differentiate it from Seibzehn. They have very similar builds, which led to Stier being outclassed by Seibzehn once Power Magics came into play. This gives distinctions to similar characters. 
 
 
 Seibzehn:
@@ -497,10 +495,10 @@ All deathblow learning rates (sans Emeralda) have been doubled to minimize grind
 - Going through Ramsus' introductory scene too quickly will freeze the game (legacy glitch from the original patch)
 
 ### Items/spells:
-- If Divvy Up is used immediately after it's been used, it's effect will stack onto other party members (will not effect the rest of the game).
+- If Divvy Up is used immediately after it's been used, it's effect will stack onto other party members (will not affect the rest of the game).
 
 ### Script:
-- Texture issue with Fatima Castle's library (will not effect the rest of the game). To be fixed.
+- Texture issue with Fatima Castle's library (will not affect the rest of the game). To be fixed.
 
 ## Credits:
 ### Production management:
