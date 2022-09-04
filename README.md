@@ -363,20 +363,20 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 
 #### Screenshots:
 
-<a><img src="/screenshots/screenshot01.png" align="centre" height="243" width="329"></a>
-<a><img src="/screenshots/screenshot02.png" align="centre" height="243" width="329"></a>
+<a><img src="/screenshots/screenshot01.png" align="centre" height="194" width="263"></a>
+<a><img src="/screenshots/screenshot02.png" align="centre" height="194" width="263"></a>
 
-<a><img src="/screenshots/screenshot03.png" align="centre" height="243" width="329"></a>
-<a><img src="/screenshots/screenshot04.png" align="centre" height="243" width="329"></a>
+<a><img src="/screenshots/screenshot03.png" align="centre" height="194" width="263"></a>
+<a><img src="/screenshots/screenshot04.png" align="centre" height="194" width="263"></a>
 
-<a><img src="/screenshots/screenshot05.png" align="centre" height="243" width="329"></a>
-<a><img src="/screenshots/screenshot06.png" align="centre" height="243" width="329"></a>
+<a><img src="/screenshots/screenshot05.png" align="centre" height="198" width="263"></a>
+<a><img src="/screenshots/screenshot06.png" align="centre" height="198" width="263"></a>
 
-<a><img src="/screenshots/screenshot08.png" align="centre" height="243" width="329"></a>
-<a><img src="/screenshots/screenshot09.png" align="centre" height="243" width="329"></a>
+<a><img src="/screenshots/screenshot09.png" align="centre" height="148" width="263"></a>
+<a><img src="/screenshots/screenshot08.png" align="centre" height="148" width="263"></a>
 
-<a><img src="/screenshots/screenshot07.png" align="centre" height="243" width="329"></a>
-<a><img src="/screenshots/screenshot10.png" align="centre" height="243" width="329"></a>
+<a><img src="/screenshots/screenshot07.png" align="centre" height="194" width="263"></a>
+<a><img src="/screenshots/screenshot10.png" align="centre" height="194" width="263"></a>
 
 
 
