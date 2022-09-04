@@ -1,9 +1,11 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-## FMV patches:
+## Completion stats:
 
-FMV patches are an upcoming feature. Previous iterations included links to them in this section, though they are glitchy with the other patches in their current state.
+Name/terminology changes: 100%
+Main script: 30% (up to escape from Noatun)
+NPC script: Not done (except for name/terminology changes)
 
 ## Introduction:
 
@@ -399,20 +401,20 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Earth Mode = Seismic Mode
 - Fire Mode = Inferno Mode
 - Water Mode = Torrent Mode
-- Bart Missiles = Bart Bombs (to be included)
-- Vance = Franz (to be included)
-- Franz = Vance (to be included)
-- Amphysvena = Amphisbaena (to be included)
-- Harlute	= Harut (to be included)
-- Marlute =	Marut (to be included)
-- Sundel = Sandalphon (to be included)
-- Schpariel	= Spirale (to be included)
-- Seibzehn = Siebzehn (to be included)
-- Skyghene = Skyscreech (to be included)
-- Sufal	= Sphar (to be included)
-- Suzarn = Suzanne (to be included)
-- Krelian = Karellen (to be included)
-- Stratski = Strachey (to be included)
+- Bart Missiles = Bart Bombs 
+- Vance = Franz 
+- Franz = Vance 
+- Amphysvena = Amphisbaena 
+- Harlute	= Harut 
+- Marlute =	Marut
+- Sundel = Sandalphon
+- Schpariel	= Spirale 
+- Seibzehn = Siebzehn 
+- Skyghene = Skyscreech 
+- Sufal	= Sphar
+- Suzarn = Suzanne 
+- Krelian = Karellen
+- Stratski = Strachey
 
 #### Story changes:
 
@@ -426,6 +428,18 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Recapture Av > Recapture Aveh
 - Merkabah Calls > Merkava Calls
 
+#### Music changes:
+
+- Where Dreams Hatch is used when Elly and Citan talk in Blackmoon Forest over Earthly Tears, Mortal Thoughts.
+- Premonition is no longer used when the group leave Nisan.
+- In a Dark Slumber is no longer used when the Yggdrasil retreats in the desert.
+- The Battle Arena now plays Infiltration over Deadly Dance.
+- Blue Traveller continues playing against Giant Wels.
+- Fuse plays when Chu-Chu transforms over Soaring.
+- Blue Traveller plays when Ft Jasper emerges over Soaring.
+- Fuse now plays when the Elements merge over Soaring.
+- Earthly Tears, Mortal Thoughts plays during Dan's disc 2 scene over October Mermaid.
+- Blue Traveller plays in Big Joe's shop over Soaring.
 
 ### Stat changes:
 
