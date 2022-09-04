@@ -62,7 +62,7 @@ For those who want to test a certain section in the game. They use the mcd forma
 
 - Encounter rate has been halved except for the Duneman Isle, Shevat Emergency Shaft, Anima Dungeon 2 and Deus for grinding reasons.
 
-Throughout the game, encounter rates have been lowered. For many players, this has been a strikingly annoying part of the game. Especially for sections with platforming as in emulated versions of Xenogears players no longer can hear the disc rev up loading the battle. Because the jump input gets eaten when a battle is being loaded, this will have you run off cliffs which is very frustrating. So the encounter rate was halved across a majority of the game. Select areas such as Deus, Anima Dungeon 2, the Duneman Isles, and the Shevat Emergency Shaft were kept the same. Deus is a common experience grinding spot due to the Power Seraph giving the most exp out of any single enemy in the game. Shevat’s Emergency Shaft and Anima Dungeon 2 were good places to grind for deathblows and money, respectively. And the Duneman Isles is supposed to be a gauntlet with the constant threat of dragons. Which also have exclusive end game equipment on them. Not only would dropping the encounter rate here defeat the point of the optional dungeon, it’d be a lot harder to get exclusive weapons.
+Throughout the game, encounter rates have been lowered. For many players, this has been a strikingly annoying part of the game. Especially for sections with platforming as in emulated versions of Xenogears players no longer can hear the disc rev up loading the battle. Because the jump input gets eaten when a battle is being loaded, this will have you run off cliffs which is very frustrating. So the encounter rate was halved across a majority of the game. Select areas such as Deus, Anima Dungeon 2, the Duneman Isles, and the Shevat Emergency Shaft were kept the same. Deus is a common experience grinding spot due to the Power Seraph giving the most exp out of any single enemy in the game. Shevat’s Emergency Shaft and Anima Dungeon 2 were good places to grind for deathblows and money, respectively. And the Duneman Isles is supposed to be a gauntlet with the constant threat of dragons (which also have exclusive end game equipment on them). Not only would dropping the encounter rate here defeat the point of the optional dungeon, it’d be a lot harder to get exclusive weapons.
 
 ### Exp/gold:
 
@@ -178,7 +178,7 @@ Fei:
 - Radiance: 60 to 80
 - Big Bang: 80 to 120
 
-Fei’s generally pretty great when balanced against the cast. But against himself, his Ether attacks tend to be very overshadowed and down right wasteful to use. All options should have merit. Even if it’s situational, a situational merit is better than consistently being eclipsed by basic attacks. They’re viable with Power Magic abuse, but even Steel Mettle is with that. These changes will give players better insensitive to use these moves throughout the game. It also helps Weltall a fair bit. It tends to fall off hard by disc 1’s end. Between Renmazuo, Vierge, Siebzhen, Crescens (by technicality) and the addition of Andvari to your squad, Fei really struggles to carry his weight. This will let him be better at contributing. Big Bang is admittedly a very reliable spell even without its new buffs. But it’s only learned before the final dungeon typically, so this will help it see a little more prominence in disc 2.
+Fei’s generally pretty great when balanced against the cast. But against himself, his Ether attacks tend to be very overshadowed and down right wasteful to use. All options should have merit. Even if it’s situational, a situational merit is better than consistently being eclipsed by basic attacks. They’re viable with Power Magic abuse, but even Steel Mettle is with that. These changes will give players better incentive to use these moves throughout the game. It also helps Weltall a fair bit. It tends to fall off hard by disc 1’s end. Between Renmazuo, Vierge, Siebzhen, Crescens (by technicality) and the addition of Andvari to your squad, Fei really struggles to carry his weight. This will let him be better at contributing. Big Bang is admittedly a very reliable spell even without its new buffs. But it’s only learned before the final dungeon typically, so this will help it see a little more prominence in disc 2.
 
 - ~~Iron Valor~~ Iron Focus: Accuracy Up
 - Yang Power: Ether Up 
@@ -221,7 +221,7 @@ Allows Bart to have useful part wide buffs in exchange for no healing.
 Billy:
 - Goddess Eyes: Ether Up
 
-Goddess Eyes now raises Ether as part of the theme of reworking defensive buffs. Billy was the basis for most balance changes, as he’s arguably the most well-rounded character. Outside of low survivability, Billy makes a case for being the best gear pilot and fighter on foot. But it’s not really for anything over tuned. His gear damage is just the best in the game with nothing else going for it, and his on foot builds are very flexible at the cost of sacrificing other strengths. Raising his DPS with the doubler but lowering his support use, making all of his Ether options phenomenal but crippling his defense, pure support love for weaker offense and defense etc. Outside of quality of life changes that needed to be done simply because they weren’t working, we didn’t want to touch Billy. He’s good as is. 
+Goddess Eyes now raises Ether as part of the theme of reworking defensive buffs. Billy was the basis for most balance changes, as he’s arguably the most well-rounded character. Outside of low survivability, Billy makes a case for being the best gear pilot and fighter on foot. But it’s not really for anything overtuned. His gear damage is just the best in the game with nothing else going for it, and his on foot builds are very flexible at the cost of sacrificing other strengths. Raising his DPS with the doubler but lowering his support use, making all of his Ether options phenomenal but crippling his defense, pure support love for weaker offense and defense etc. Outside of quality of life changes that needed to be done simply because they weren’t working, we didn’t want to touch Billy. He’s good as is. 
 
 
 Rico:
@@ -421,7 +421,7 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 
 ### Stat changes:
 
-Xenogears is frankly; terribly balanced. Not exactly its fault in particular, Squaresoft games were all infamous for this, even their well-balanced games like Chrono Trigger had hiccups. Most of the cast has been rebalanced primarily around Billy and Emeralda as they’re frankly the most balanced party members in the game across gears and on-foot. Buffs are the priority! There are some necessary nerfs we begrudgingly made, but we really wanted to focus on bugging the roster. The issue with the roster's balance, primarily a bunch of not useful options and characters, was where the focus was. Characters and gears will be discussed in the same sections. 
+Xenogears is frankly; terribly balanced. Not exactly its fault in particular, Squaresoft games were all infamous for this, even their well-balanced games like Chrono Trigger had hiccups. Most of the cast has been rebalanced primarily around Billy and Emeralda as they’re frankly the most balanced party members in the game across gears and on-foot. Buffs are the priority! There are some necessary nerfs we begrudgingly made, but we really wanted to focus on buffing the roster. The issue with the roster's balance, primarily a bunch of not useful options and characters, was where the focus was. Characters and gears will be discussed in the same sections. 
 
 Elly:
 - Hit 7 to 10
@@ -436,9 +436,9 @@ Bart:
 - Ether 7 to 14
 - Evade 14 to 16
 
-Bart is generally one of the weakest characters in the game due to mediocrity. For most of the game, anything he can do others can do better. Wild Smile is his biggest selling point, though its effects can be replicated with an Evasion Ring. The goal was to rework Bart to be much more supportive and improve his jack of all trades nature to be more useful for him. 
+Bart is generally one of the weakest characters in the game due to mediocrity. For most of the game, anything he can do others can do better. Wild Smile is his biggest selling point, though its effects can be replicated with an Evasion Ring. The goal was to rework Bart to be much more supportive and improve his jack-of-all-trades nature to be more useful for him. 
 
-These stat changes should allow Bart to be a lot more useful overall, without just buffing his attack stat to compensate for his middling toolkit. It also helps give him a sense of identity on the roster, as well as using generally under utilized stats in the game. No one in particular focused on Defense or Evasion, so efforts are being made to help these stats play more of an impact as well as diversify the party. 
+These stat changes should allow Bart to be a lot more useful overall, without just buffing his attack stat to compensate for his middling toolkit. It also helps give him a sense of identity on the roster, as well as using generally underutilized stats in the game. No one in particular focused on Defense or Evasion, so efforts are being made to help these stats play more of an impact as well as diversify the party. 
 
 
 Rico:
@@ -448,7 +448,7 @@ Rico:
 - Hit 10 to 18
 - Agility 7 to 8
 
-Rico is iconically bad. His tied for lowest speed in the game. His Agility and Hit stats are obviously bad, but he doesn’t have anything to compensate for this. When he joins, most of his stats are worse than Fei’s. Which really undersells he’s one of the few people who beat Fei in a 1v1 fight. Combined with no utility like healing or area of effect damage and Rico is comedically undercooked. The easy solution would be just to give him high speed, but that just ruins the diversity of the cast. If that’s what we changed, people would still not pick Rico because he’s just a worse Citan. We decided to double down on making Rico a juggernaut. His stats and growths have been adjusted to make him an offensive behemoth, so he has noticeable strengths. We also slightly raised his agility to match the boss fight and to prevent the Ganondorf conundrum of giving a character so much power and having them still not be good because they don’t get to use it. Plus, this ties him with Elly’s old agility stat, instead of putting him with the characters who lack deathblows. The same goes for his Hit rate, as his accuracy is actually hilariously good for his boss fight. The balance for Rico’s absurd stats is his complete lack of any utility (no healing, cures, AOE, elemental coverage etc).
+Rico is iconically bad. He's tied for lowest speed in the game. His Agility and Hit stats are obviously bad, but he doesn’t have anything to compensate for this. When he joins, most of his stats are worse than Fei’s. Which really undersells how he’s one of the few people who could beat Fei in a 1v1 fight. Combined with no utility like healing or area of effect damage and Rico is comedically undercooked. The easy solution would be just to give him high speed, but that just ruins the diversity of the cast. If that’s what we changed, people would still not pick Rico because he’s just a worse Citan. We decided to double down on making Rico a juggernaut. His stats and growths have been adjusted to make him an offensive behemoth, so he has noticeable strengths. We also slightly raised his agility to match the boss fight and to prevent the Ganondorf conundrum of giving a character so much power and having them still not be good because they don’t get to use it. Plus, this ties him with Elly’s old agility stat, instead of putting him with the characters who lack deathblows. The same goes for his Hit rate, as his accuracy is actually hilariously good for his boss fight. The balance for Rico’s absurd stats is his complete lack of any utility (no healing, cures, AOE, elemental coverage etc).
 
 
 Emeralda:
@@ -492,7 +492,7 @@ All deathblow learning rates (sans Emeralda) have been doubled to minimize grind
 ## Glitches:
 
 ### Fast text:
-- Going through Ramsus' introductory scene too quickly will freeze the game (legacy glitch from the original patch)
+- Going through Ramsus' introductory scene too quickly will freeze the game (legacy glitch from the original patch).
 
 ### Items/spells:
 - If Divvy Up is used immediately after it's been used, it's effect will stack onto other party members (will not affect the rest of the game).
