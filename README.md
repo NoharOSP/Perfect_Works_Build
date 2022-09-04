@@ -373,6 +373,7 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 <a><img src="/screenshots/screenshot6.png" align="centre" height="243" width="329"></a>
 
 
+
 #### Name changes:
 
 - True Weltall = Alpha Weltall
