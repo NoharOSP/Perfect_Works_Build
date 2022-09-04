@@ -361,6 +361,18 @@ Xenogears was translated from Japanese to English by one man in only 8 months. A
 
 So the plan is to keep some of the camp wherever it’s reasonable because the game is as memorable for funny moments as it is for dark moments. And those moments are important to fans. Not every comedic line is going to stay. The infamous father example being the most notable. But efforts were made to keep what ever ones didn’t take away from a scene. The game has a lot of iconic lines, like Id’s dropping a warship is cheating line that fans would be turned away if they changed. So please don’t be too worried or concerned about localization changes. Fans were taken into consideration. 
 
+#### Screenshots:
+
+<a><img src="/screenshots/screenshot1.png" align="centre" height="243" width="329"></a>
+<a><img src="/screenshots/screenshot2.png" align="centre" height="243" width="329"></a>
+
+<a><img src="/screenshots/screenshot3.png" align="centre" height="243" width="329"></a>
+<a><img src="/screenshots/screenshot4.png" align="centre" height="243" width="329"></a>
+
+<a><img src="/screenshots/screenshot5.png" align="centre" height="243" width="329"></a>
+<a><img src="/screenshots/screenshot6.png" align="centre" height="243" width="329"></a>
+
+
 #### Name changes:
 
 - True Weltall = Alpha Weltall
