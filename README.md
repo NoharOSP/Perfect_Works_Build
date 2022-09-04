@@ -15,6 +15,14 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ### GUI patcher:
 
+#### Version 0.2.1
+
+x86:
+https://mega.nz/file/KHZQQCSD#vKSzJEudiouUPKzCzx9mxYOwGu4HFgIBq29fjFR3qo4
+
+x64:
+https://mega.nz/file/XSI32A4S#U1gV_X7pE8KjTZ0NY7Tb4oEZelk-OtKqzizgrUWk_PU
+
 #### Version 0.1
 
 DISCLAIMER: Only x64 is supported.
