@@ -3,9 +3,9 @@ Xenogears Perfect Works Build: Including all official Xenogears information in P
 
 ## Completion stats:
 
-Name/terminology changes: 100%
-Main script: 30% (up to escape from Noatun)
-NPC script: Not done (except for name/terminology changes)
+- Name/terminology changes: 100%
+- Main script: 30% (up to escape from Noatun)
+- NPC script: Not done (except for name/terminology changes)
 
 ## Introduction:
 
