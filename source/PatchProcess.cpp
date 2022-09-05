@@ -127,8 +127,6 @@ int PatchProcess::ShowFileId(int ppf) {
 }
 
 int PatchProcess::OpenFiles(std::string file1, std::string file2) {
-  /*  char* char1 = (char*)malloc(sizeof(char));
-    wcstombs(char1, file1, MAX_PATH);*/
     char* char1 = const_cast<char*>(file1.c_str());
     char* char2 = const_cast<char*>(file2.c_str());
     bin = _open(char1, _O_BINARY | _O_RDWR);

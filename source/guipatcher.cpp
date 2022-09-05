@@ -343,22 +343,33 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					fastName2 = "cd2_fast_text_old_script.ppf";
 				}
 				if (p_items_spells) {
-					itemspellsName1 = "cd1_items_spells.ppf";
-					itemspellsName2 = "cd2_items_spells.ppf";
+					if (p_script) {
+						itemspellsName1 = "cd1_items_script.ppf";
+						itemspellsName2 = "cd2_items_script.ppf";
+					}
+					else {
+						itemspellsName1 = "cd1_items_spells.ppf";
+						itemspellsName2 = "cd2_items_spells.ppf";
+					}
 				}
 				if (p_monsters) {
 					monsterName1 = "cd1_monster_stats.ppf";
 					monsterName2 = "cd2_monster_stats.ppf";
 				}
 				if (p_script) {
-					scriptName1 = "cd1_script.ppf";
-					scriptName2 = "cd2_script.ppf";
+					if (!p_items_spells) {
+						scriptName1 = "cd1_script.ppf";
+						scriptName2 = "cd2_script.ppf";
+					}
 				}
 				if (p_stats) {
-					statName1 = "cd1_statchanges.ppf";
-					statName2 = "cd2_statchanges.ppf";
+					if (!p_items_spells && !p_script) {
+						statName1 = "cd1_statchanges.ppf";
+						statName2 = "cd2_statchanges.ppf";
+					}
 				}
 				initialisePatchLists();
+				SetWindowText(hWnd, L"Patching...");
 				for (int i = 0; i < patchList1.size(); i++) {
 					if (patchList1[i] != "") {
 						PatchProcess pp(hWnd, path1, patchList1[i]);
@@ -369,17 +380,18 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						PatchProcess pp(hWnd, path2, patchList2[i]);
 					}
 				}
-				/*if (p_items_spells) {
-					writeFile wf1(home, path1, 1, p_items_spells, p_script, p_stats);
-					writeFile wf2(home, path2, 2, p_items_spells, p_script, p_stats);
-				}*/
+				if (p_stats) {
+					writeFile wf1(hWnd, home, path1, 1, p_items_spells, p_script, p_stats);
+					writeFile wf2(hWnd, home, path2, 2, p_items_spells, p_script, p_stats);
+				}
+				SetWindowText(hWnd, szTitle);
 				MessageBox(hWnd, L"Patch was completed successfully. Use ECCRegen to see if the bin file needs to be regenerated", L"Success", MB_ICONASTERISK);
 				relock();
 				reinitialisePatches();
 				clearText();
 			}
 			else {
-				MessageBox(hWnd, L"Could not find directory for 'Patches'.", L"Error", MB_ICONERROR);
+				MessageBox(hWnd, L"Could not find directory for 'patches'.", L"Error", MB_ICONERROR);
 			}
 		}
 		    break;
@@ -408,7 +420,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		rc1, rc2 = rcWindow;
 		rc1.top = winY / 50;
 		rc1.left = winX / 50;
-		rc1.right = winX - (rc1.left * 2.3);
+		rc1.right = winX - (rc1.left * 1.5);
 		rc1.bottom = winY * 0.35;
 		rc2.top = winY * 0.375;
 		rc2.left = rc1.left;
@@ -609,10 +621,10 @@ HWND toolGenerator(char* text, HWND hWnd, HWND hText) {
 void initialiseWindows(HWND hWnd) {
 	cd1path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.05), 400, 25, hWnd, NULL, hInst, NULL);
 	cd2path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.15), 400, 25, hWnd, NULL, hInst, NULL);
-	browsebutton1 = CreateWindow(L"BUTTON", L"Browse", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.825), (int)(winY * 0.05), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
-	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.825), (int)(winY * 0.15), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
-	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.848), (int)(winY * 0.815), 70, 25, hWnd, (HMENU)104, hInst, NULL);
-	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.825), (int)(winY * 0.25), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
+	browsebutton1 = CreateWindow(L"BUTTON", L"Browse", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.838), (int)(winY * 0.05), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
+	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.838), (int)(winY * 0.15), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
+	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.861), (int)(winY * 0.815), 70, 25, hWnd, (HMENU)104, hInst, NULL);
+	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.838), (int)(winY * 0.25), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
 	encounters = CreateWindow(L"BUTTON", L"Half encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	expgold = CreateWindow(L"BUTTON", L"Double exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);

@@ -4,6 +4,7 @@
 #include <iostream>
 #include <fstream> 
 #include <sstream>
+#include "framework.h"
 
 typedef struct {
 	DWORD	dwStartSector;
@@ -15,19 +16,21 @@ typedef CArray<TOCEntry, TOCEntry> CTOCArray;
 class writeFile
 {
 public:
-	writeFile(std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats);
+	writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats);
 	virtual ~writeFile();
 	CTOCArray arTOC;
 	void allTrue();
 	void noScript();
-	bool process(std::string discNum, std::string gameFile, UINT nPosition);
-	bool ReadSector(char *pBuffer, DWORD dwStart, UINT NumOfSectors);
-	bool WriteSector(char *pBuffer, DWORD dwStart, UINT NumOfSectors);
+	void noItems();
+	void preprocess();
+	bool process(CFile *romFile, CFile *statsFile, UINT nPosition);
+	bool ReadSector(CFile *romFile, byte *pBuffer, DWORD dwStart, UINT NumOfSectors);
+	bool WriteSector(CFile *romFile, byte *pBuffer, DWORD dwStart, UINT NumOfSectors);
+	bool ReadVirtualTOC(CFile* romFile);
 public:
 	std::string dir;
 	std::string discName;
 	int discNum;
-	std::fstream romFile;
-	std::ifstream statsFile;
+	HWND wind;
 };
 
