@@ -1,7 +1,11 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.1.0 here: https://mega.nz/file/aehiRaaS#8kgPnxVlYEI8AZL9KebwT2SQal1h_6UuRpmnw55LDfk
+Download version 0.1.0 here: 
+https://mega.nz/file/aehiRaaS#8kgPnxVlYEI8AZL9KebwT2SQal1h_6UuRpmnw55LDfk
+
+Provide feedback here:
+https://docs.google.com/forms/d/1KZAwqR70pABGXtuR7l8GVMjY487WKOn6Qrb3fUHHumw/viewform?edit_requested=true
 
 ## Completion stats:
 
