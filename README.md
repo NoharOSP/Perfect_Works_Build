@@ -561,8 +561,6 @@ DM or tag here if you want immediate feedback on Twitter:
 @NoharOS
 
 ## Credits:
-### Production management:
-- ribbiwawa
 
 ### Translation: 
 - An Eye for the Infinite http://moonreading.lunarpages.com/xeno/
