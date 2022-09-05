@@ -4,9 +4,6 @@ Xenogears Perfect Works Build: Including all official Xenogears information in P
 Download version 0.1.0 here: 
 https://mega.nz/file/aehiRaaS#8kgPnxVlYEI8AZL9KebwT2SQal1h_6UuRpmnw55LDfk
 
-Provide feedback here:
-https://docs.google.com/forms/d/1KZAwqR70pABGXtuR7l8GVMjY487WKOn6Qrb3fUHHumw/viewform?edit_requested=true
-
 ## Completion stats:
 
 - Name/terminology changes: 100%
@@ -550,6 +547,18 @@ All deathblow learning rates (sans Emeralda) have been doubled to minimize grind
 
 ### Script:
 - Texture issue with Fatima Castle's library (will not affect the rest of the game). To be fixed.
+
+
+## Links:
+
+Join our discord if you have any issues or you want to communicate with us:
+https://discord.gg/j4v6yCcWRK
+
+Provide feedback here:
+https://docs.google.com/forms/d/1KZAwqR70pABGXtuR7l8GVMjY487WKOn6Qrb3fUHHumw/viewform?edit_requested=true
+
+DM or tag here if you want immediate feedback on Twitter:
+@NoharOS
 
 ## Credits:
 ### Production management:
