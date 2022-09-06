@@ -4,7 +4,7 @@
 Citan
 "Fei! I have been
 searching for you!
-Here, You can use this!"<Close><End of Block>
+Here, you can use this!"<Close><End of Block>
 <TextBlock 3 w:38 h:4>
 Citan
 "Fei...
