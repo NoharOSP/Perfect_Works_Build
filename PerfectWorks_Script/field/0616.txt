@@ -298,7 +298,7 @@ with meters showing the
 percentage learned so far.<New>
 If one of the meters
 just doesn't seem to be
-increasing, then you're
+rising, then you're
 probably using the attack
 buttons in the wrong order.<New>
 In that case, it might be

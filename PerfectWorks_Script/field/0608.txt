@@ -26,7 +26,7 @@ don't go near it again."<Close><End of Block>
 Fei
 "Hey, now...<Delay 20>
 What are you saying, Dan?<New>
-Both Timothy and Alice are 
+Both Timothy and Alice are
 my best friends.<Delay 20>
 You know I can't do that!"<Close><End of Block>
 <TextBlock 5 w:52 h:3>
@@ -34,10 +34,10 @@ Fei
 "Alright, Dan.
 You've got it...<New>
 I guess I'll just go and
-sweep Alice away into the 
+sweep Alice away into the
 sunset!"<Close><End of Block>
 <TextBlock 6 w:48 h:3>
-"Timothy is a bald-headed 
+"Timothy is a bald-headed
 fool! And his dad
 is bald and stupid too!"<Close><End of Block>
 <TextBlock 7 w:54 h:4>
@@ -135,14 +135,14 @@ If you were a bird,
 you could fly back
 to your real home
 anytime you wanted.<Close><End of Block>
-<TextBlock 30 w:46 h:4>
+<TextBlock 30 w:44 h:4>
 Dan
-"Well, Fei, the least we can
-do is pray for Alice's
-happiness!"<Close><End of Block>
+"Well, Fei, the least
+we can do is pray for
+Alice's happiness!"<Close><End of Block>
 <TextBlock 31 w:46 h:3>
 Dan
-"So... Fei, you up to it?<New>
+"So, Fei, you up to it?<New>
 C'mon, let's do it!<Delay 20>
     Let's do it!!
     That's crazy <Close><End of Block>
@@ -399,7 +399,7 @@ in to see the bride today...<Delay 40>
 But, you can be an exception.<Close><End of Block>
 <TextBlock 73 w:44 h:3>
 Welcome to the village
-of Lah...<Delay 40>
+of Lah<--><Delay 40>
 Oh, it's you, Fei!?<Close><End of Block>
 <TextBlock 74 w:46 h:4>
 Oh, don't worry...
@@ -486,11 +486,11 @@ In this great open land,
 new life emerges...<Delay 20>
 I'm not saying that's all
 down to us.<New>
-It's just the land, 
-rain, and sun combining 
-together to nurture 
+It's just the land,
+rain, and sun combining
+together to nurture
 these striving new lives.<New>
-We're just helping 
+We're just helping
 them out.<Close><End of Block>
 <TextBlock 85 w:44 h:4>
 Pumpkinberry...
