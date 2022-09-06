@@ -201,7 +201,7 @@ And you would need to
 have love for her too..."<Close><End of Block>
 <TextBlock 40 w:52 h:3>
 Dan
-"But, I'm not gonna
+"But I'm not gonna
 forget this, Fei!<New>
 You were really willing to
 go that far to help me...
@@ -396,7 +396,7 @@ to see Alice?<Close><End of Block>
 Actually, it's customary
 that we don't let any men
 in to see the bride today...<Delay 40>
-But, you can be an exception.<Close><End of Block>
+But you can be an exception.<Close><End of Block>
 <TextBlock 73 w:44 h:3>
 Welcome to the village
 of Lah<--><Delay 40>
