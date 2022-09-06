@@ -8,7 +8,7 @@ Fei
 "So this is what Doc
 was talking about.<New>
 Let me see...<Delay 30>
-what's so interesting
+What's so interesting
 about it...?"<Close><End of Block>
 <TextBlock 4 w:42 h:4>
 Fei
