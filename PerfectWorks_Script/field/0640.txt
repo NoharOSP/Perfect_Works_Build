@@ -78,7 +78,7 @@ Ohhh! This is no good!<Delay 20>
 Why do they use such
 inferior parts?
 This is why their
-intervention strat...<Close><End of Block>
+intervention strat<--><Close><End of Block>
 <TextBlock 17 w:38 h:1>
 Found some Aquasol!<Close><End of Block>
 <TextBlock 18 w:40 h:1>
