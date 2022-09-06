@@ -12,6 +12,11 @@ WARNING: Do not use script changes and enemy change patches (exp/gold and monste
 - Main script: 30% (up to escape from Noatun)
 - NPC script: Not done (except for name/terminology changes)
 
+## Coming soon:
+
+- Name swapper
+- Patch undo
+
 ## Introduction:
 
 Hello. My name is Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito. I am a character writer and handler for game balance on the Xenogears Perfect Works mod. Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a more complete experience. This does contain unmarked but mild spoilers, so readers are advised and warned not to scroll through this if they’re looking to use this mod to enjoy the game for the first time, or you simply never got to into it for various reasons we hope to address. These spoilers are primarily for certain story events in the story bits and lines are relegated to story specific changes and certain boss fights dungeons and all moves party members and availability are mentioned in the gameplay focused changes. 
