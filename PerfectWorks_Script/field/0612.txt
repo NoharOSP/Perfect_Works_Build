@@ -118,8 +118,8 @@ They will probably want
 to know what happened
 to their comrades.<New>
 If you stay here, I think
-it will bring about a less
-than pleasant situation...
+it will bring about a less-
+than-pleasant situation...
 if you know what I mean.<New>
 For you and for them..."<Close><End of Block>
 <TextBlock 26 w:52 h:4>
@@ -190,7 +190,7 @@ hell, <Delay 10>red, deep...!<Close><End of Block>
 <TextBlock 39 w:42 h:2>
 Dan
 "Waaaaaaahhhhh...!!"<Opcode 2 30><Close><End of Block>
-<TextBlock 40 w:18 h:1>
+<TextBlock 40 w:20 h:1>
 Please...!<Opcode 2 30><Close><End of Block>
 <TextBlock 41 w:32 h:2>
 No! Stay away...
