@@ -4,7 +4,7 @@ Xenogears Perfect Works Build: Including all official Xenogears information in P
 Download version 0.1.0 here: 
 https://mega.nz/file/aehiRaaS#8kgPnxVlYEI8AZL9KebwT2SQal1h_6UuRpmnw55LDfk
 
-WARNING: Do not use script changes and double exp/gold together. Will be fixed in 0.1.1.
+WARNING: Do not use script changes and enemy change patches (exp/gold and monsters) together. Avoid using half encounters with both items and script changes together. Will be fixed in 0.1.1.
 
 ## Completion stats:
 
