@@ -93,12 +93,12 @@ Fei
 Citan
 "I knew it..."<Close><End of Block>
 <TextBlock 20 w:48 h:4>
-Man In Black
+Man in Black
 "Your hot-blooded desire
 for battle has not been
 tamed, I see."<Close><End of Block>
 <TextBlock 21 w:48 h:4>
-Man In Black
+Man in Black
 "My name is <Delay 10>Grahf<Delay 10>...<Delay 10>
 The seeker of power.<New>
 You certainly showed how
@@ -216,7 +216,7 @@ a scream of death, will you
 regain all that was lost!!<Delay 15>
 Hahahaha!!"<Close><End of Block>
 <TextBlock 35 w:28 h:1>
-MWHAHAHAHAHA!<Close><End of Block>
+MWAHAHAHAHAHA!<Close><End of Block>
 <TextBlock 36 w:26 h:4>
 Fei
 "!!
