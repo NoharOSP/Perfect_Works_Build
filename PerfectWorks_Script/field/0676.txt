@@ -332,13 +332,14 @@ away with it!<New>
 We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 51 w:52 h:3>
-There are burglars out
+There are bandits out
 looking for treasure
 in the desert ruins!<New>
 <Delay 5>...<Delay 5>Brrr<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>*Shivers*<Delay 5>...!<Delay 5>
 Oh,<Delay 5> I just wet my pants.<New>
-You better be careful too.<Close><End of Block>
+You better be careful,
+too.<Close><End of Block>
 <TextBlock 52 w:52 h:3>
 There's a lotta people
 who get lost in the desert
@@ -346,7 +347,8 @@ and die of starvation!<New>
 <Delay 5>...<Delay 5>Brrr<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>*Shivers*<Delay 5>...!<Delay 5>
 Oh,<Delay 5> I just pooed my pants.<New>
-You better be careful too.<Close><End of Block>
+You better be careful,
+too.<Close><End of Block>
 <TextBlock 53 w:34 h:2>
 Gee, I wanna
 climb up there...<Close><End of Block>
@@ -469,13 +471,17 @@ Treasure Hunter Assoc.
 <TextBlock 74 w:20 h:1>
  Workshop <Close><End of Block>
 <TextBlock 75 w:54 h:7>
-     Extra, extra!
-War in the desert again?
+      Extra, extra!
+ War in the desert again?
  
-   A new unit has been
-   assigned to a Kislev
-   base on the border.
-   An elite Kislev force...<Close><End of Block>
+  A new unit appears to
+  have been assigned to
+  a Kislev base along
+  the border.<New>
+  
+ Their insignia indicates
+ this assigned unit is
+ the Kislev Army elite...<Close><End of Block>
 <TextBlock 76 w:48 h:4>
 Citan
 "Let us go to that shop
