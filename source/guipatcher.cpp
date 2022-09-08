@@ -327,12 +327,18 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			}
 			if (patchPathValid) {
 				if (p_encounters) {
-					encountersName1 = "cd1_encounters.ppf";
-					encountersName2 = "cd2_encounters.ppf";
+					if (!p_items_spells && !p_script) {
+						encountersName1 = "cd1_encounters.ppf";
+						encountersName2 = "cd2_encounters.ppf";
+						p_encounters = false;
+					}
 				}
 				if (p_exp_gold) {
-					expgoldName1 = "cd1_exp_gold.ppf";
-					expgoldName2 = "cd2_exp_gold.ppf";
+					if (!p_script) {
+						expgoldName1 = "cd1_exp_gold.ppf";
+						expgoldName2 = "cd2_exp_gold.ppf";
+						p_exp_gold = false;
+					}
 				}
 				if (p_fastnew) {
 					fastName1 = "cd1_fast_text_new_script.ppf";
@@ -353,8 +359,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					}
 				}
 				if (p_monsters) {
-					monsterName1 = "cd1_monster_stats.ppf";
-					monsterName2 = "cd2_monster_stats.ppf";
+					if (!p_script) {
+						monsterName1 = "cd1_monster_stats.ppf";
+						monsterName2 = "cd2_monster_stats.ppf";
+						p_monsters = false;
+					}
 				}
 				if (p_script) {
 					if (!p_items_spells) {
@@ -380,9 +389,9 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						PatchProcess pp(hWnd, path2, patchList2[i]);
 					}
 				}
-				if (p_stats) {
-					writeFile wf1(hWnd, home, path1, 1, p_items_spells, p_script, p_stats);
-					writeFile wf2(hWnd, home, path2, 2, p_items_spells, p_script, p_stats);
+				if (p_stats || p_exp_gold || p_monsters || p_encounters) {
+					writeFile wf1(hWnd, home, path1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters);
+					writeFile wf2(hWnd, home, path2, 2, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters);
 				}
 				SetWindowText(hWnd, szTitle);
 				MessageBox(hWnd, L"Patch was completed successfully. Use ECCRegen to see if the bin file needs to be regenerated", L"Success", MB_ICONASTERISK);

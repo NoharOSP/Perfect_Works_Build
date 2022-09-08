@@ -16,13 +16,16 @@ typedef CArray<TOCEntry, TOCEntry> CTOCArray;
 class writeFile
 {
 public:
-	writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats);
+	writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats, bool expgold, bool monsters, bool encounters);
 	virtual ~writeFile();
 	CTOCArray arTOC;
 	void allTrue();
 	void noScript();
 	void noItems();
-	void preprocess();
+	void doExpGold();
+	void doMonsters();
+	void doEncounters();
+	void preprocess(std::string fileName);
 	bool process(CFile *romFile, CFile *statsFile, UINT nPosition);
 	bool ReadSector(CFile *romFile, byte *pBuffer, DWORD dwStart, UINT NumOfSectors);
 	bool WriteSector(CFile *romFile, byte *pBuffer, DWORD dwStart, UINT NumOfSectors);
