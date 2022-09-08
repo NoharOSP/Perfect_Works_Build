@@ -1,10 +1,10 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.1.0 here: 
-https://mega.nz/file/aehiRaaS#8kgPnxVlYEI8AZL9KebwT2SQal1h_6UuRpmnw55LDfk
+Download version 0.1.1 here: 
+https://mega.nz/file/2WQHXawQ#k5b3S744oIhHs8bFU_eMs04-nKwWj4C-7tXgazW31tU
 
-WARNING: Do not use script changes and enemy change patches (exp/gold and monsters) together. Avoid using half encounters with both items and script changes together. Will be fixed in 0.1.1.
+WARNING: Using every patch together will not work on Retroarch's Beetle Core.
 
 ## Completion stats:
 
@@ -22,6 +22,18 @@ WARNING: Do not use script changes and enemy change patches (exp/gold and monste
 Hello. My name is Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito. I am a character writer and handler for game balance on the Xenogears Perfect Works mod. Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a more complete experience. This does contain unmarked but mild spoilers, so readers are advised and warned not to scroll through this if they’re looking to use this mod to enjoy the game for the first time, or you simply never got to into it for various reasons we hope to address. These spoilers are primarily for certain story events in the story bits and lines are relegated to story specific changes and certain boss fights dungeons and all moves party members and availability are mentioned in the gameplay focused changes. 
 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
+
+## Version history:
+
+### Version 0.1.1:
+
+- Fixes fatal glitch where exp/gold and monster patches won't work with the script patch.
+- Fixes fatal glitch where encounters patch won't work with the items and script patches together.
+- Fixes minor typos and text wrapping up to the Av Desert.
+
+### Version 0.1.0:
+
+- Initial release
 
 ## Archive:
 
