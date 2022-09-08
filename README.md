@@ -2,8 +2,9 @@
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
 Download version 0.1.1 here: 
-Mega: https://mega.nz/file/2WQHXawQ#k5b3S744oIhHs8bFU_eMs04-nKwWj4C-7tXgazW31tU
-Google Drive: https://drive.google.com/file/d/1zv56pPSHruN_KnOQ4pVHlJHMwSOn4ni1/view?usp=sharing
+
+- Mega: https://mega.nz/file/2WQHXawQ#k5b3S744oIhHs8bFU_eMs04-nKwWj4C-7tXgazW31tU
+- Google Drive: https://drive.google.com/file/d/1zv56pPSHruN_KnOQ4pVHlJHMwSOn4ni1/view?usp=sharing
 
 WARNING: Using every patch together will not work on Retroarch's Beetle Core.
 
