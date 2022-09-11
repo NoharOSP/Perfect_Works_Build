@@ -16,14 +16,14 @@ Well, Doctor Citan Uzuki!<New>
 Feels like you have sacked
 your saccules, and tickled
 your utricles enough for
-one life time! Wow, dizzy!"<Close><End of Block>
+one lifetime! Wow, dizzy!"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Citan
 "Fei, I was only joking.<Delay 18>
 Riding in the hand was
 not so bad.<New>
 I can see what is so
-prized about this top
+prized about this top-
 secret experimental
 Kislev machine."<Close><End of Block>
 <TextBlock 6 w:24 h:3>

@@ -65,7 +65,7 @@ it's true!"<Close><End of Block>
 <TextBlock 10 w:44 h:4>
 Fei
 "Stop it! I'm telling
-you I'm no soldier!  I
+you I'm no soldier! I
 don't want to fight!"<Close><End of Block>
 <TextBlock 11 w:8 h:2>
 Fei
