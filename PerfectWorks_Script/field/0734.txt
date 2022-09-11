@@ -77,7 +77,7 @@ waiting.<Delay 30> They probably
 won't come."<Close><End of Block>
 <TextBlock 14 w:44 h:3>
 Fei
-"But, aren't they your
+"But aren't they your
 friends?"<Close><End of Block>
 <TextBlock 15 w:42 h:4>
 Bart
