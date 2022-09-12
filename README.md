@@ -29,11 +29,15 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ### Version 0.1.1:
 
+09/07/2022
+
 - Fixes fatal glitch where exp/gold and monster patches won't work with the script patch.
 - Fixes fatal glitch where encounters patch won't work with the items and script patches together.
 - Fixes minor typos and text wrapping up to the Av Desert.
 
 ### Version 0.1.0:
+
+09/04/2022
 
 - Initial release
 
