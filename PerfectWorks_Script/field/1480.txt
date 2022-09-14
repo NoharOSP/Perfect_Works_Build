@@ -10,7 +10,7 @@ before."<Close><End of Block>
 <TextBlock 3 w:28 h:4>
 Fei
 "That's right!
-Ol' man Bal,
+Ol' Man Bal,
 the hermit."<Close><End of Block>
 <TextBlock 4 w:54 h:4>
 Fei
@@ -24,7 +24,7 @@ across him in the cavern
 underneath Av's desert.<New>
 I didn't know him that
 well...<Delay 20>
-So you're Ol' man Bal's
+So you're Ol' Man Bal's
 grandchild."<Close><End of Block>
 <TextBlock 6 w:34 h:4>
 Fei

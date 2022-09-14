@@ -18,10 +18,10 @@ Elly<Delay 5>...!!"<Close><End of Block>
 Fei
 "This is incredible!"<Close><End of Block>
 <TextBlock 5 w:32 h:2>
-Ol' man Bal
+Ol' Man Bal
 "We meet again!"<Close><End of Block>
 <TextBlock 6 w:52 h:3>
-Ol' man Bal
+Ol' Man Bal
 "The host for the spirit
 of the slayer of god...<New>
 I didn't think I would

@@ -22,8 +22,8 @@ Disengaged!<Close><End of Block>
     Current situation
     Surrounding area info<Close><End of Block>
 <TextBlock 5 w:52 h:2>
-Sand barrier, being opened
-from outside terminal.<Close><End of Block>
+Sand barrier being opened
+from remote terminal.<Close><End of Block>
 <TextBlock 6 w:54 h:4>
 Sand Sensors have detected
 an abnormal amount of sand.<New>
@@ -40,7 +40,7 @@ Another one is located at
 the end of the bridge you
 can see from here.<New>
 You can get to the bridge
-from the northwest side
+via the northwest side
 of Terrace Stones.<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 There is a barrier wall in
