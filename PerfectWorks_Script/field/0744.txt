@@ -1,21 +1,24 @@
-<TextBlock 1 w:44 h:4>
-Av excavation site
-main power generator.<New>
-Currently, the main
-power is on.
+<TextBlock 1 w:50 h:4>
+
+-  Av excavation site  -
+- Main power generator -<New>
+Currently, the main power
+is on.
     Turn off the power
     Leave it alone<Close><End of Block>
 <TextBlock 2 w:52 h:1>
 Main power was turned off.<Close><End of Block>
 <TextBlock 3 w:50 h:4>
-Av excavation site
-main power generator.<New>
+
+-  Av excavation site  -
+- Main power generator -<New>
 Currently, the main power
 is off.
     Turn on main power
-    As is<Close><End of Block>
-<TextBlock 4 w:48 h:2>
-Main power is turned on.
+    Leave it alone<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Starting main generator.
+<]><Delay 14><]><Delay 14><]><Delay 14><]><Delay 14><]><Delay 14><]><Delay 14> DONE.
 Operating normally.<Close><End of Block>
 <TextBlock 5 w:50 h:2>
 Currently, the main power

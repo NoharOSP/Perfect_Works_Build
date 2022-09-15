@@ -1,21 +1,21 @@
 <TextBlock 1 w:46 h:4>
 Bart
-"Hah! What an idiot.
+"Hah! What an idiot.<New>
 Trying to scare us with
-all show and no power,<New>
+all show and no power,
 eh, Fei?"<Close><End of Block>
 <TextBlock 2 w:46 h:3>
 Bart
 "Anyway...looks like
 that's the exit.<New>
-So, it'll soon be adios
+So it'll soon be adios
 to this old cavern!"<Close><End of Block>
 <TextBlock 3 w:30 h:2>
 Bart
 "What the...!?"<Close><End of Block>
 <TextBlock 4 w:26 h:4>
 Bart
-"Woooh! What
+"Whoa... What
 the hell did
 you just do?"<Close><End of Block>
 <TextBlock 5 w:14 h:2>
@@ -24,9 +24,9 @@ Bart
 <TextBlock 6 w:46 h:4>
 Bart
 "What do you mean
-'huh?'!? What in blazes
+'huh'!? What in blazes
 was that?<New>
-...Don't you know?"<Close><End of Block>
+...You don't know?"<Close><End of Block>
 <TextBlock 7 w:46 h:4>
 Bart
 "That was incredible!
@@ -67,14 +67,14 @@ Fei
 "......Huh?"<Close><End of Block>
 <TextBlock 15 w:40 h:3>
 Fei
-"...No,<Delay 30> I<Delay 30> err,<Delay 30>
+"...No,<Delay 30> I<Delay 30>...<Delay 30>
 ......I don't know."<Close><End of Block>
 <TextBlock 16 w:48 h:4>
 Fei
-"... I don't know that
+"...I don't know that
 technique... I have no
 idea how I even did it!"<Close><End of Block>
 <TextBlock 17 w:22 h:2>
 Fei
-"...One track
+"...<Delay 40>One-track
 mind..."<Close><Close><Close><Close><End of Block>

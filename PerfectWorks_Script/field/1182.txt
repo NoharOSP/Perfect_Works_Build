@@ -191,8 +191,8 @@ Lately, there are far too
 many barbaria<--><Delay 10> I mean...<Delay 5>
 highly energetic lads
 around the young master.<New>
-So, yours truly, who is
-in charge of education,
+So, yours truly, who is in
+charge of his education,
 demanded to have this
 room created!!"<Close><End of Block>
 <TextBlock 29 w:44 h:3>
@@ -203,17 +203,17 @@ take a side job...)<Close><End of Block>
 "How may I be of service?"
 <Opcode 1 255>    Items
     Weapons/Accessories
-    Nothing now, thanks.<Close><End of Block>
+    Nothing now, thanks<Close><End of Block>
 <TextBlock 31 w:52 h:4>
 "How may I be of service?"
 <Opcode 1 255>    Items
     Weapons/Accessories
-    Nothing now, thanks.<Close><End of Block>
+    Nothing now, thanks<Close><End of Block>
 <TextBlock 32 w:52 h:4>
 "How may I be of service?"
 <Opcode 1 255>    Items
     Weapons/Accessories
-    Nothing now, thanks.<Close><End of Block>
+    Nothing now, thanks<Close><End of Block>
 <TextBlock 33 w:40 h:3>
 Maison
 "I hope I can be of

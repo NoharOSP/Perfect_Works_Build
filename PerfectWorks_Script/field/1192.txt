@@ -208,15 +208,16 @@ Fei
 "Doc..."<Close><End of Block>
 <TextBlock 17 w:54 h:3>
 Welcome to the sand cruiser
-"Yggdrasil". We apologize
+'Yggdrasil'. We apologize
 for that earlier incident.<Close><End of Block>
-<TextBlock 18 w:50 h:4>
+<TextBlock 18 w:46 h:4>
 Maison
 "I'm sure everyone has
-already had the courtesy
-to introduce themselves. <New>
-But allow me to introduce
-the sand pirates' leader,
+introduced themselves
+already, but... <New>
+please allow me to
+formally introduce the
+sand pirates' leader,
 Master Bartholomew."<Close><End of Block>
 <TextBlock 19 w:52 h:4>
 Maison
@@ -227,7 +228,7 @@ apologize to Master Fei?" <Close><End of Block>
 Bart
 "What?  Uhh...yeah...<Delay 10>
 I told him I was
-'wrong'...<Delay 10> Right?"<Close><End of Block>
+'wrong'...<Delay 10>didn't I?"<Close><End of Block>
 <TextBlock 21 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 22 w:52 h:4>
@@ -239,8 +240,8 @@ everything, young master.<Close><End of Block>
 First Mate
 "I'm sorry I've delayed
 introducing myself...<New>
-My name is Sigurd, the
-first mate of this sand
+My name is Sigurd, and I'm
+the first mate of this sand
 cruiser.<New>
 Fei<Delay 10>... That was your name,
 right?<Delay 10> Hyu<--> I mean,
