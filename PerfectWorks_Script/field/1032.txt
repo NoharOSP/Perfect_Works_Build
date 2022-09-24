@@ -510,9 +510,9 @@ Fei
 I am the killer?"<Close><End of Block>
 <TextBlock 93 w:54 h:4>
 Rico
-"Exactly!<Delay 30>
-This morning there was yet
-another victim<Delay 5> <--> <Delay 5>the fifth!<New>
+"Exactly!<Delay 30> This morning
+there was yet another
+victim<Delay 5> <--> <Delay 5>the fifth!<New>
 It's not unusual for people
 to die in the sewers.
 If you become weak, you
