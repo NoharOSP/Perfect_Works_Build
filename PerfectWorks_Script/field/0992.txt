@@ -93,8 +93,8 @@ Chief! Not one shot from
 the main gun yet!?<New>
 Effective range for Type
 3 shells should be 500.
-You can judge it by eye<-->
-just fire!"<Close><End of Block>
+You can judge it by
+eye <--> just fire!"<Close><End of Block>
 <TextBlock 18 w:46 h:3>
 Vanderkaum
 "Morons!<Delay 32> Every one of

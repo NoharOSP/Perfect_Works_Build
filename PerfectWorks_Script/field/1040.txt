@@ -31,7 +31,7 @@ That's strange."<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 Hammer
 "Yeah, what's missing are
-item shops<-->oh, and don't
+item shops <--> oh, and don't
 forget the weapon shops..."<Close><End of Block>
 <TextBlock 8 w:48 h:4>
 Hammer
@@ -51,10 +51,10 @@ elsewhere! Yep.<New>
 You know it's gotta be
 'Hammer's Ether Bag'!"<Close><End of Block>
 <TextBlock 11 w:54 h:4>
-Beastoid man
+Beastoid Man
 "Oh, allow me to introduce
 myself... They call me
-'Hammer<-->the Supplier'.<New>
+'Hammer, the Supplier'.<New>
 It's been a long time since
 such a powerful criminal
 has been sent to D Block!<New>
@@ -63,46 +63,46 @@ pretty famous in this town.
 In other words, you're the
 center of attention, bro!"<Close><End of Block>
 <TextBlock 12 w:52 h:4>
-Beastoid man
+Beastoid Man
 "Oh, allow me to introduce
 myself... They call me
-'Hammer<-->the Supplier'.<New>
+'Hammer, the Supplier'.<New>
 Actually, it's the second
 time we've met<Delay 5>...<Delay 12>
 The first time, bro, you
 were knocked out cold<Delay 5>..."<Close><End of Block>
 <TextBlock 13 w:52 h:4>
-Beastoid man
+Beastoid Man
 "Oh, allow me to introduce
 myself... They call me
-'Hammer<-->the Supplier'.<New>
+'Hammer, the Supplier'.<New>
 Actually, it's the second
 time we've met<Delay 5>...<Delay 12>
 The first time, bro, you
 were knocked out cold<Delay 5>..."<Close><End of Block>
 <TextBlock 14 w:52 h:4>
-Beastoid man
+Beastoid Man
 "Oh, allow me to introduce
 myself... They call me
-'Hammer<-->the Supplier'.<New>
+'Hammer, the Supplier'.<New>
 Actually, it's the second
 time we've met<Delay 5>...<Delay 12>
 The first time, bro, you
 were knocked out cold<Delay 5>..."<Close><End of Block>
 <TextBlock 15 w:52 h:4>
-Beastoid man
+Beastoid Man
 "Oh, allow me to introduce
 myself... They call me
-'Hammer<-->the Supplier'.<New>
+'Hammer, the Supplier'.<New>
 Actually, it's the second
 time we've met<Delay 5>...<Delay 12>
 The first time, bro, you
 were knocked out cold<Delay 5>..."<Close><End of Block>
 <TextBlock 16 w:24 h:2>
-Beastoid man
+Beastoid Man
 "Ah!?"<Close><End of Block>
 <TextBlock 17 w:46 h:3>
-Beastoid man
+Beastoid Man
 "Hey brother! You, bro!
 <Delay 5>...<Delay 5>Here, over here!"<Close><End of Block>
 <TextBlock 18 w:52 h:4>
@@ -142,8 +142,8 @@ Hammer
 elsewhere! Yep.<New>
 You know it's gotta be
 'Hammer's Ether Bag'!"<Close><End of Block>
-<TextBlock 24 w:46 h:2>
-'Hammer<-->the Supplier'
+<TextBlock 24 w:24 h:2>
+Hammer
 "Oh<Delay 5>...<Delay 5>bro."<Opcode 2 15><Close><End of Block>
 <TextBlock 25 w:62 h:5>
 Latina
@@ -309,10 +309,11 @@ those monsters down there,
 you shouldn't have a problem
 makin' a living around here.<Delay 15>
 The rest is up to you<Delay 5>...<Close><End of Block>
-<TextBlock 48 w:62 h:3>
-By the way,<Delay 5> I'm no prisoner.<Delay 15>
-I'm a freelance profiteer<-->the
-kind you find almost anywhere.<New>
+<TextBlock 48 w:60 h:3>
+By the way,<Delay 5> I'm no prisoner.<New>
+I'm a freelance profiteer <-->
+the kind you can find almost
+anywhere.<New>
 Even if you're not a prisoner,<Delay 5>
 you can always exchange items
 for money here.<Close><End of Block>
@@ -373,7 +374,7 @@ Fei
 "<Delay 5>...<Delay 5>Could you stop calling
 me 'bro'?<Delay 20> My name is Fei!"<Close><End of Block>
 <TextBlock 59 w:50 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "<Delay 5>...<Delay 5>What's wrong with it?
 It's not like I'm putting
 you down.<New>
@@ -385,7 +386,7 @@ Fei
 "<Delay 5>...<Delay 5>
 Oh, do whatever you wish."<Close><End of Block>
 <TextBlock 61 w:54 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "Then it's decided.
 I'll continue to call
 you bro from now on!<New>
@@ -402,7 +403,7 @@ Fei
 Well you don't look
 so normal yourself!"<Close><End of Block>
 <TextBlock 63 w:52 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "It's not meant to be an
 insult<Delay 5>...<Delay 5> Just a feeling
 I have.<Delay 15> No deep meaning!<New>
@@ -418,7 +419,7 @@ the doctor<Delay 5>...<Delay 5>
 But I didn't expect you
 not to be<Delay 5>, errh,<Delay 5> human."<Close><End of Block>
 <TextBlock 65 w:48 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "That's cruel.
 Humans, beastoids...
 we're all living beings!<New>
@@ -431,7 +432,7 @@ Fei
 You're the guy who saved
 me and all I do is<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 67 w:54 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "Oh, uh, it's okay.<Delay 15>
 Oh yes, about the results
 of your Baptism!<New>
@@ -444,7 +445,7 @@ But he tends to be the type
 to hold a grudge so<Delay 5>...<Delay 5>
 you had better be careful!"<Close><End of Block>
 <TextBlock 68 w:54 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "I know this is all sudden
 and all but, I'm gonna call
 you 'bro' from now on!"<Close><End of Block>
@@ -454,7 +455,7 @@ Fei
 What's this 'bro' thing?<Delay 20>
 My name is Fei."<Close><End of Block>
 <TextBlock 70 w:50 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "What's wrong with it?
 You don't wanna be called
 'bro' that badly?"<Close><End of Block>
@@ -463,7 +464,7 @@ Fei
 "It's not that I
 don't like it<Delay 5>..."<Close><End of Block>
 <TextBlock 72 w:52 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "Well, then it's settled!<Delay 20>
 Oh, and if you have any
 problems, come talk to me.<New>
@@ -471,7 +472,7 @@ Since I am a supplier,
 I've got all the right
 connections!<New>
 So whenever your in a jam,
-Hammer, 'the Supplier',
+'Hammer, the Supplier',
 will do whatever he can!"<Close><End of Block>
 <TextBlock 73 w:50 h:4>
 Fei
@@ -479,7 +480,7 @@ Fei
 Boy, do you look strange!
 What's with the costume?"<Close><End of Block>
 <TextBlock 74 w:50 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "Costume<Delay 5>...?<Delay 20> Lay off bro,
 I'm a beastoid! That's
 kinda rude, ya know."<Close><End of Block>
@@ -489,7 +490,7 @@ Fei
 <Delay 5>...<Delay 5>A beastoid, huh?
 So you're not human then?"<Close><End of Block>
 <TextBlock 76 w:54 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "Anyway, about that
 Baptism thing...<New>
 Don't you feel tricked when
@@ -506,7 +507,7 @@ Fei
 It's not as easy
 as you think<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 78 w:54 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "You seem kinda down, bro.
 It'll only make life harder
 if you be like that!"<Close><End of Block>
@@ -516,7 +517,7 @@ Fei
 The name's Fei.<Delay 15>
 Don't call me 'bro'!"<Close><End of Block>
 <TextBlock 80 w:48 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "Don't get all mad, bro.
 Hammer's just tryin' to
 help, you know."<Close><End of Block>
@@ -526,7 +527,7 @@ Fei
 happening at once that
 I'm becoming irritated."<Close><End of Block>
 <TextBlock 82 w:50 h:3>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "<Delay 5>...<Delay 5>Umm, you don't<Delay 5>...<Delay 5>want
 me to call you<Delay 5>...<Delay 5>'bro'?"<Close><End of Block>
 <TextBlock 83 w:44 h:4>
@@ -535,13 +536,13 @@ Fei
 Call me what you want,
 <Delay 5>...<Delay 5>I won't get mad."<Close><End of Block>
 <TextBlock 84 w:52 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "<Delay 5>...<Delay 5>Oh good!<Delay 15>
 And bro, if you have any
 problems, come talk to me!<New>
 I promise to do whatever I
 can, or else my name isn't
-'Hammer<-->the Supplier'.<New>
+'Hammer, the Supplier'.<New>
 And although I may look
 like this, I am still a
 supplier, so I've got all
@@ -552,7 +553,7 @@ Fei
 here, then that means
 you're a prisoner too?"<Close><End of Block>
 <TextBlock 86 w:54 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "Heh, I slipped up and got
 caught, okay!<Delay 5> ...<Delay 20>By the
 way, how are your wounds?"<Close><End of Block>
@@ -564,7 +565,7 @@ Oh yeah, I haven't thanked
 you yet... Sorry I caused
 you so much trouble<Delay 5>..."<Close><End of Block>
 <TextBlock 88 w:52 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "You don't have to thank
 me! Just to let you know,
 I'm also rank D!<New>
@@ -578,7 +579,7 @@ Fei
 My name is Fei. Could you
 stop calling me 'bro'<Delay 5>...?"<Close><End of Block>
 <TextBlock 90 w:52 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "C'mon. We're both D rank,
 right? Let's be friends!
 Pleeeze!"<Close><End of Block>
@@ -587,7 +588,7 @@ Fei
 "<Delay 5>...<Delay 5>
 Oh, do whatever!"<Close><End of Block>
 <TextBlock 92 w:52 h:4>
-'Hammer<-->the Supplier'
+'Hammer, the Supplier'
 "Oh wait! Bro!<Delay 20> If you've
 got any problems, come
 and talk to me!<New>

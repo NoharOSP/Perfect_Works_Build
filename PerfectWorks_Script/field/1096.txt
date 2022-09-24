@@ -49,9 +49,9 @@ Not if they piss me off."<Close><End of Block>
 Fei
 "That<Delay 20> counts
 as a reason..."<Close><End of Block>
-<TextBlock 13 w:20 h:3>
+<TextBlock 13 w:22 h:3>
 Rico
-"Shut up<-->
+"Shut up <-->
 let's go."<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Fei
@@ -153,9 +153,9 @@ longer will be suicide!"<Close><End of Block>
 <TextBlock 36 w:16 h:2>
 Fei
 "But..."<Close><End of Block>
-<TextBlock 37 w:40 h:4>
+<TextBlock 37 w:36 h:4>
 Rico
-"Enough already<-->
+"Enough already <-->
 I'm bailing out!
 C'mon!"<Close><End of Block>
 <TextBlock 38 w:14 h:2>

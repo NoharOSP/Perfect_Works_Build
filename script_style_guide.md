@@ -22,9 +22,9 @@
 - S-Stuttered words at the start of a sentence are capitalised before and after the dash, but otherwise n-not.
     - Before the dash, everything up to the first vowel of the stuttered word should be r-repeated, th-thanks.
 - Asterisks around onomatopoeic words like \*huff\*, \*groan\*, but not around phonetics like argh, tch.
-- Em dash without spaces for emphasis of explanatory clauses—this being one example.
-- Parenthetical em dashes where—such as in this example—deemed suitable. Again no spaces.
-- Em dash then a space for end of a line where someone is— Interrupted by themself or someone else.
+- Em dash with spaces for emphasis of explanatory clauses — this being one example.
+- Parenthetical em dashes where — such as in this example — deemed suitable. Again include the spaces.
+- Immediate em dash then a space for end of a line where someone is— Interrupted by themself or someone else.
 - \- Dashes with spaces around headings for some computer readouts etc -
 - Acronyms never have full stops, so DNA not D.N.A.
 - Always okay, never OK or O.K.

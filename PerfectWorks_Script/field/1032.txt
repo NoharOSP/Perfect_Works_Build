@@ -155,7 +155,7 @@ Suzanne
 "Oh, what a sensible lad!
 That saves us a bit of
 trouble.<New>
-Anyway, come along now<-->
+Anyway, come along now <-->
 the Champ is waiting!
 And don't worry! We'll
 let you return here soon."<Close><End of Block>
@@ -512,7 +512,7 @@ I am the killer?"<Close><End of Block>
 Rico
 "Exactly!<Delay 30>
 This morning there was yet
-another victim<Delay 5><--><Delay 5>the fifth!<New>
+another victim<Delay 5> <--> <Delay 5>the fifth!<New>
 It's not unusual for people
 to die in the sewers.
 If you become weak, you
@@ -688,13 +688,13 @@ just in a different room!
 You've had a rough day, eh?"<Close><End of Block>
 <TextBlock 114 w:54 h:4>
 Fei
-"Ah! <Delay 5>...<Delay 5>Oh it's you?<Delay 20>
+"Ah! <Delay 5>...<Delay 5>Oh, it's you?<Delay 20>
 It looks like I needed your
 assistance again, huh<Delay 5>...?"<Close><End of Block>
-<TextBlock 115 w:50 h:4>
+<TextBlock 115 w:52 h:4>
 Doctor
 "Yes, but don't worry. I
-don't mind<-->it's my job!<Delay 30>
+don't mind <--> it's my job!<Delay 30>
 Anyway, how do you feel?"<Close><End of Block>
 <TextBlock 116 w:56 h:4>
 Fei
@@ -1492,7 +1492,7 @@ Fei
 didn't really have the
 desire to fight<Delay 5>...but...<New>
 I defeated three Battlers
-and lost to the fourth<-->
+and lost to the fourth <-->
 Suzanne<Delay 5>...<Delay 5> I might be able
 to beat her, at a push."<Close><End of Block>
 <TextBlock 252 w:48 h:4>

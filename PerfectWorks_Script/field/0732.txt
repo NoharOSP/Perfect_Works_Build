@@ -1,7 +1,7 @@
-<TextBlock 1 w:46 h:3>
+<TextBlock 1 w:48 h:3>
 Bingo!<Delay 32>
 Just as the report
-said<-->an Av transport.<New>
+said <--> an Av transport.<New>
 And look at what we
 have on top...!<Close><End of Block>
 <TextBlock 2 w:54 h:4>

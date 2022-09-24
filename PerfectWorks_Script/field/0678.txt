@@ -108,10 +108,10 @@ Do you want to rent it?<Close><End of Block>
 Hm? Some new faces.<Delay 10>
 You want to rent out a
 sand buggy too, huh?<Close><End of Block>
-<TextBlock 20 w:50 h:3>
+<TextBlock 20 w:48 h:3>
 Of course. The keys are
-in the ignition<-->you can
-take it now.<Close><End of Block>
+in the ignition <--> you
+can take it now.<Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Hey, are you letting
 him go out there alone?<New>

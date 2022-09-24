@@ -3,18 +3,19 @@ Bart
 "Wow...
 I never thought we'd
 end up here..."<Close><End of Block>
-<TextBlock 2 w:30 h:2>
+<TextBlock 2 w:32 h:3>
 Fei
-"Where are we?"<Close><End of Block>
-<TextBlock 3 w:50 h:4>
+"Which is where,
+exactly?"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
 Bart
-"You see the twin
-mountains way over there?<New>
-That's where Breidablik<-->
-the Royal Capital of Av<-->
-and Fatima Castle are
-located.<New>
-There's no king living 
+"Can you make out those
+twin mountains in the
+distance?<New>
+There lies Breidablik <-->
+the Royal Capital of
+Av <--> and Fatima Castle.<New>
+There's no king living
 there right now, though.<Delay 20>
 Anyway, that's my old
 hometown."<Close><End of Block>

@@ -68,7 +68,7 @@ By choosing 'Defense', you
 can halve the damage your
 opponent does to you.<Delay 20>
 Fighting is not just about
-being on the offensive<-->at
+being on the offensive <--> at
 times it pays to hold back.<New>
 When you find yourself in a
 pinch, it may be a good idea
@@ -89,8 +89,8 @@ Well then, allow me to
 explain about Action Points.<Close><End of Block>
 <TextBlock 12 w:56 h:6>
 There are three kinds of
-attacks<-->Weak, Strong
-and Fierce<-->each using
+attacks <--> Weak, Strong
+and Fierce <--> each using
 up a set amount of Action
 Points when performed.<New>
 When all your Action Points
@@ -109,7 +109,7 @@ your available Action Points
 will increase accordingly.<New>
 The secret to putting up a
 good fight is the way you
-utilize your Action Points<-->
+spend your Action Points <-->
 what strength of attacks
 you use, and in what order
 you dish them out...!<Close><End of Block>
@@ -126,8 +126,8 @@ about attacking.<Close><End of Block>
 <TextBlock 15 w:58 h:6>
 I am sure that you already
 know that there are three
-types of attack<-->Weak,
-Strong and Fierce<-->each of
+types of attack <--> Weak,
+Strong and Fierce <--> each of
 which uses up a different
 number of Action Points.<New>
 The Fierce attack (<X> button)

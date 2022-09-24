@@ -89,9 +89,9 @@ Ramsus
 I want to talk to her
 directly. Myyah, you
 come with me."<Close><End of Block>
-<TextBlock 16 w:20 h:2>
+<TextBlock 16 w:22 h:2>
 Myyah
-"Yes sir."<Close><End of Block>
+"Yes, sir."<Close><End of Block>
 <TextBlock 17 w:22 h:2>
 Fei
 "That's..."<Close><End of Block>
@@ -105,9 +105,9 @@ Margie
 "Bart, we better
 get outta here...
 and fast!"<Opcode 2 60><Close><End of Block>
-<TextBlock 20 w:26 h:2>
+<TextBlock 20 w:30 h:2>
 Fei
-"Quick<--><Delay 20>run!<Opcode 2 30><Close><End of Block>
+"Quick <--><Delay 20> run!"<Opcode 2 30><Close><End of Block>
 <TextBlock 21 w:40 h:4>
 Ramsus
 "I can't believe you

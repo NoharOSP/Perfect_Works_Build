@@ -232,7 +232,7 @@ They say that two expert
 Battlers got killed!<New>
 It seems they were well
 known around here, too!<Delay 15>
-And to think<-->both killed!<Delay 15>
+To think <--> both killed!<Delay 15>
 Must've been some creature!<Delay 15>
 Ohh, heaven forbid!<Close><End of Block>
 <TextBlock 41 w:56 h:3>
@@ -259,20 +259,20 @@ facilities, including the
 Imperial Capital's biggest
 Battling Arena.<New>
 Gear faces Gear in bouts of
-single combat<-->that's what
+single combat <--> that's what
 'Battling' is all about!<New>
 And lastly, there is the
 Central Area, from where
 Kaiser Sigmund rules over
 the whole Kislev Empire.<Close><End of Block>
-<TextBlock 46 w:56 h:5>
+<TextBlock 46 w:58 h:5>
 There's a rumor that, behind
 the scenes, the Church is
 actually involved with the
 B-Info Center.<New>
-And the Battling Committee<-->
+And the Battling Committee <-->
 though officially run by the
-Imperial Capital<-->it too is
+Imperial Capital <--> it too is
 rumored to be an agent of
 the Church.<Close><End of Block>
 <TextBlock 47 w:58 h:1>
@@ -991,7 +991,7 @@ Fei
 we don't have much time to
 spare!<New>
 What's more, what he says is
-right<-->you shouldn't hold
+right <--> you shouldn't hold
 back in a battle.<Delay 10> Courtesy
 demands a true fight!"<Close><End of Block>
 <TextBlock 197 w:54 h:4>
@@ -1026,9 +1026,9 @@ Fei
 we don't have much time to
 spare!<New>
 What's more, what he says is
-right<-->you shouldn't hold
-back in a battle.<Delay 10> Etiquette
-dictates a true fight!"<Close><End of Block>
+right <--> you shouldn't hold
+back in a battle.<Delay 10> Courtesy
+demands a true fight!"<Close><End of Block>
 <TextBlock 202 w:54 h:4>
 Citan
 "It seems I was overly

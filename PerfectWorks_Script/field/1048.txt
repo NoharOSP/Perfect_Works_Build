@@ -499,7 +499,7 @@ fighting one-on-one with
 Gears and is held in the
 Imperial capital's arena.<New>
 The rules of the sport are
-simple<-->fight until one or
+simple <--> fight until one or
 the other breaks down.<Delay 10>
 In other words, just bash
 your rival to pieces!<New>

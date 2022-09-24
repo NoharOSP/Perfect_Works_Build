@@ -75,9 +75,10 @@ championship<Delay 5>...<New>
 We were able to take some
 very good data<Delay 5>...<Delay 5>
 Ha ha hm.<New>
-One more thing<--><Delay 5>good news.
-Kaiser Sigmund would like 
-to meet you, Champion Fei.<New>
+One more thing <--> <Delay 5>good
+news. Kaiser Sigmund would
+like to meet you, Champion
+Fei.<New>
 Please stop by the Central
 Administrative District.<Close><End of Block>
 <TextBlock 16 w:38 h:2>
@@ -345,7 +346,7 @@ Help the Champ."<Close><End of Block>
 Battler
 "Now,<Delay 5> YOU are the
 Battling Champ, <Delay 15>but
-our Champ is<--><Delay 5><Opcode 2 60><Close><End of Block>
+our Champ is<--><Delay 5>"<Opcode 2 60><Close><End of Block>
 <TextBlock 63 w:50 h:4>
 Hammer
 "<Delay 5>...<Delay 5>Wha?<Delay 15>

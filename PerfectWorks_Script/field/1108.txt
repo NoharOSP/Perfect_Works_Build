@@ -23,8 +23,8 @@ Let's get this work done
 and go check it out.<Close><End of Block>
 <TextBlock 6 w:48 h:3>
 Aw yeah! We need to do
-that<-->we've been workin'
-too much lately.<Close><End of Block>
+that <--> we've been
+workin' too much lately.<Close><End of Block>
 <TextBlock 7 w:26 h:1>
 It is locked.<Close><End of Block>
 <TextBlock 8 w:46 h:1>

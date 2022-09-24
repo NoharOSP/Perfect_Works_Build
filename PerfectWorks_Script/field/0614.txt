@@ -30,14 +30,14 @@ these ruins and, to bolster their
 military power, had the Church
 repair the discovered artifacts.<Delay 200><Delay 220><Delay 220><Close><End of Block>
 <TextBlock 5 w:68 h:10>
-The various weapons excavated from
-the ruins dramatically changed the
-form of warfare.<Delay 30>
+The various weapons excavated
+from the ruins dramatically
+changed the form of warfare.<Delay 30>
 The outcome of battles between
 the two countries was no longer
 determined by man-to-man combat,
-but by 'Gears'<--><Delay 10>giant humanoid
-fighting machines<Delay 10> that were
+but by 'Gears' <--><Delay 10> giant humanoid
+fighting machines <--><Delay 10> that were
 obtained from deep within the
 ruins.<Delay 200><Delay 200><Delay 200><Close><End of Block>
 <TextBlock 6 w:70 h:11>

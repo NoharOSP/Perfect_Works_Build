@@ -180,7 +180,7 @@ Board the ship?
     No<Close><End of Block>
 <TextBlock 38 w:52 h:3>
 Preparations for the
-campaign are done<-->just
+campaign are done <--> just
 finishing one final check.<New>
 The young master is
 taking Marguerite to

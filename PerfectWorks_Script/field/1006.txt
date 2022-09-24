@@ -34,8 +34,8 @@ But then I came to think
 that if I try harder, things
 will get better<Delay 5>...<Delay 30> You try
 your hardest, too, okay?<Close><End of Block>
-<TextBlock 8 w:42 h:1>
-How's it going<-->good?<Close><End of Block>
+<TextBlock 8 w:46 h:1>
+How's it going <--> good?<Close><End of Block>
 <TextBlock 9 w:38 h:2>
 Hey,<Delay 5> wait a minute!<Delay 15>
 Where did you<Delay 5>...<Delay 5>?<Opcode 2 45><Close><End of Block>

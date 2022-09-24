@@ -294,10 +294,10 @@ There are rails here.<Delay 15>
 Occasionally a train comes
 through here!<Delay 5>...<Delay 5>So<Delay 12>
 I put a coin here as a test.<Close><End of Block>
-<TextBlock 63 w:42 h:3>
-      -WARNING-
-This is dangerous<-->do
-not try this at home!<Opcode 2 90><Close><End of Block>
+<TextBlock 63 w:46 h:3>
+       -WARNING-
+This is dangerous <--> do
+ not try this at home!<Opcode 2 90><Close><End of Block>
 <TextBlock 64 w:62 h:4>
 Shut up, <Delay 5>I can see that.
 I snuck in from the duct<Delay 15>...<Delay 5>not.<Delay 5>
@@ -697,7 +697,7 @@ I guess the door isn't
 fixed yet<Delay 5>..."<Close><End of Block>
 <TextBlock 130 w:54 h:11>
 <Opcode 1 255>Information, finding items,
-trouble<-->I can help you
+trouble <--> I can help you
 with anything. Come on by
 Latina's Bar in D Block!
 I know when there's a
