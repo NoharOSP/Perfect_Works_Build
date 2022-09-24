@@ -73,7 +73,7 @@ Stand by with the
 anti-aircraft guns!<New>
 Gunner!
 Give me the trigger
-for the Bart Bombs!"<Close><End of Block>
+for the Bart Bomb!"<Close><End of Block>
 <TextBlock 20 w:44 h:4>
 Awww yeah!<New>
 Switch modes over to
@@ -293,7 +293,7 @@ Maison
 The Gungnir missiles...<New>
 You need permission from
 more than a half of the
-crew members to..."<Opcode 2 120><Close><End of Block>
+crew members to<-->"<Opcode 2 120><Close><End of Block>
 <TextBlock 61 w:36 h:3>
 Maison
 "Y-Young master!<Delay 16>
