@@ -882,7 +882,55 @@ Fei
 Jessie
 "Maria, eh...?<Delay 10> Hmm...<Delay 10>
 If I remember right, her
-father's name was Nikola?"<Close><End of Block>
+father's name was Nikola?<New>
+Hey! Fei wasn't it?
+I hear from Hyuda you're
+some gear prodigy. Is
+that right?<New>
+Well, I bet four eyes
+never told all there
+is to know about 
+"Hyper Mode" huh?<New>
+I knew it! I can tell
+from that puzzled look!
+Hyuga was always weak in 
+the piloting department.<New>
+Could always tell you how
+they're made, but never how
+to use 'em!<New> 
+When you get comforable
+fighting in the flesh, you
+can take those techniques
+and apply them to gears.<New>
+This builds weapon levels
+for the gears. They normally
+go up to three.<New> 
+But I bet you're already 
+aware of this kid. But if
+you sit on level 3, you have
+a chance to reach even higher.<New>
+That's Hyper Mode. You get
+immense power at your fingers,
+letting you rip 'em a new one
+or charge fuel faster.<New>
+But it doesn't last forever,
+yet Billy seemed to last twice
+as long as the average man when
+I taught 'em.<New>
+But it's normally a short burst
+of power. No one really gets how
+it happens though...<New>
+People say it's desperation,
+the will to live kickin in.<New>
+If things are getting tough,
+you might wanna try your luck
+with it. Reckon it might just
+save your life.<New>
+Thank me? Ha! You can thank
+me by not dying after I shared
+my wisdom with the new generation!<New>
+That, or the most expensive booze
+you can buy! Ha ha ha ha!"<Close><End of Block>
 <TextBlock 137 w:52 h:4>
 Shevat Agent
 "I don't know that much...<Delay 10>
