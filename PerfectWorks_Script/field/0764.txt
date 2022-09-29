@@ -85,8 +85,8 @@ Bart
 model Gear and two people
 that we helped out."<Close><End of Block>
 <TextBlock 25 w:48 h:4>
-Ehh!<Delay 10>
-A Gear<Delay 5>...<Delay 5>how boring!<Delay 10>
+Whaaat?<Delay 10>
+A Gear<Delay 5>...<Delay 5> How boring!<Delay 10>
 Don't you have anything 
 more interesting?<Close><End of Block>
 <TextBlock 26 w:32 h:3>
@@ -100,9 +100,9 @@ found in a stalactite
 cavern under the desert.<New>
 It's rare to find one
 with a bug in it!"<Close><End of Block>
-<TextBlock 28 w:24 h:2>
+<TextBlock 28 w:26 h:2>
 Wow!<Delay 10>
-Thanks Bart!<Close><End of Block>
+Thanks, Bart!<Close><End of Block>
 <TextBlock 29 w:36 h:1>
 We got some amber!<Opcode 2 30><Close><End of Block>
 <TextBlock 30 w:24 h:1>
@@ -463,7 +463,7 @@ able to embark immediately.<New>
 The crew's preparations are
 complete.<New>
 Whenever you are ready,
-Master Fei and good doctor,
+Master Fei and good Doctor,
 please accompany the young
 master to the bridge."<Close><End of Block>
 <TextBlock 85 w:54 h:4>

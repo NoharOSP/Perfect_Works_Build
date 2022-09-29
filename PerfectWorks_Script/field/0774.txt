@@ -118,7 +118,7 @@ Sigurd
 Maison
 "Master Sigurd!<Delay 10>
 But, for a gent like
-the good doctor...?"<Close><End of Block>
+the good Doctor...?"<Close><End of Block>
 <TextBlock 24 w:36 h:3>
 Sigurd
 "It's fine.<Delay 10>

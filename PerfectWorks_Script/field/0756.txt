@@ -318,11 +318,11 @@ Maison
 Maison
 "Perhaps you would like
 some of my famous tea?<Delay 10>
-Master Fei?<Delay 10> Good doctor?"<Close><End of Block>
+Master Fei?<Delay 10> Good Doctor?"<Close><End of Block>
 <TextBlock 73 w:50 h:4>
 Maison
 "Young visitors are rare
-indeed, the young master
+indeed; the young master
 must be very happy.<New>
 If things were normal we
 wouldn't be living in the
@@ -338,7 +338,7 @@ Maison
 "Pardon?"<Close><End of Block>
 <TextBlock 76 w:52 h:4>
 Maison
-"N,<Delay 5> no...<Delay 10>
+"N-<Delay 5>No...<Delay 10>
 I'm just a senile old fool
 who talks too much<Delay 5>...<New>
 Pay no attention to what
@@ -352,7 +352,7 @@ certain bearing."<Close><End of Block>
 <TextBlock 78 w:48 h:4>
 Maison
 "Oh<Delay 5>...<Delay 5>oh<Delay 5>...<Delay 5>oh<Delay 5>...!<Delay 10>
-Well spoken Sir! Awfully
+Well said, sir! Awfully
 good of you to notice!"<Close><End of Block>
 <TextBlock 79 w:52 h:3>
 Maison
@@ -360,26 +360,26 @@ Maison
 I would like to tell you.<New>
 The young gent is the last
 forgotten remnant of the
-once proud Fatima dynasty.<New>
-...That is, before it was
-destroyed by Shakhan's
-minions...<Close><End of Block>
+once-proud Fatima dynasty,<New>
+which was overthrown by
+one Prime Minister
+Shakhan..."<Close><End of Block>
 <TextBlock 80 w:24 h:3>
 Prince <Delay 10>
 Bartholomew <Delay 10>
-Fatima.<Close><End of Block>
+Fatima<Close><End of Block>
 <TextBlock 81 w:48 h:4>
 Citan
 "Bartholomew?<Delay 10>
 Edbart IV's successor<Delay 5>...<New>
-I am sure they announced
-Bartholomew died of an
-illness twelve years
-ago<Delay 5>..."<Close><End of Block>
+I am sure it was announ-
+ced that Bartholomew
+died of an illness
+twelve years ago<Delay 5>..."<Close><End of Block>
 <TextBlock 82 w:54 h:3>
 Maison
 "Officially, yes.<New>
-However in reality, we
+However, in reality, we
 rescued the young prince
 from Shakhan's evil grasp."<Close><End of Block>
 <TextBlock 83 w:52 h:4>
@@ -390,17 +390,18 @@ to piracy?"<Close><End of Block>
 <TextBlock 84 w:12 h:2>
 Maison
 "<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 85 w:50 h:3>
+<TextBlock 85 w:48 h:4>
 Maison
-"Since fleeing here, we
-have had only one wish<Delay 5>...<New>
-...<Delay 5>that the young master
-would grow up to be a
-great man<Delay 5>..."<Close><End of Block>
+"Since fleeing to this
+land, we have had only
+one wish:<New>
+that the young master
+grow up to be a great
+man<Delay 5>..."<Close><End of Block>
 <TextBlock 86 w:40 h:3>
 Citan
-"Not to<Delay 5>...<Delay 10>
-reclaim the throne?"<Close><End of Block>
+"Rather than<Delay 10> reclaim
+the throne?"<Close><End of Block>
 <TextBlock 87 w:50 h:4>
 Maison
 "That is correct.<New>
@@ -413,7 +414,7 @@ as well."<Close><End of Block>
 <TextBlock 88 w:50 h:3>
 Citan
 "And part of those plans
-would include piracy...?"<Close><End of Block>
+is piracy...?"<Close><End of Block>
 <TextBlock 89 w:42 h:4>
 Maison
 "Well, yes<Delay 5>...<Delay 10> 
@@ -467,9 +468,9 @@ by your words."<Close><End of Block>
 <TextBlock 96 w:42 h:2>
 Maison
 "Another cup of tea?"<Close><End of Block>
-<TextBlock 97 w:24 h:3>
+<TextBlock 97 w:26 h:3>
 Citan
-"Yes please.<Delay 10>
+"Yes, please.<Delay 10>
 Thank you."<Close><End of Block>
 <TextBlock 98 w:46 h:4>
 Citan
@@ -489,7 +490,7 @@ Nisan's<Delay 5>...?"<Close><End of Block>
 <TextBlock 101 w:46 h:4>
 Maison
 "You are well informed,
-my dear doctor. <New>
+my dear Doctor.<New>
 She is the Great Mother
 Marguerite of Nisan<Delay 5>...<Delay 10>
 and the young master's
@@ -508,7 +509,7 @@ reveal the whereabouts
 of a great treasure?"<Close><End of Block>
 <TextBlock 105 w:50 h:4>
 Maison
-"My, good doctor!<Delay 10>
+"My, good Doctor!<Delay 10>
 You do know an awful lot.<Delay 10>
 I am most impressed."<Close><End of Block>
 <TextBlock 106 w:34 h:4>
@@ -523,7 +524,7 @@ actually is...<New>
 But it is said to be
 strong enough to save
 our kingdom if it is
-ever in plight!"<Close><End of Block>
+ever in peril!"<Close><End of Block>
 <TextBlock 108 w:42 h:4>
 Citan
 "And Marguerite has
@@ -587,26 +588,26 @@ treasure', I wonder...?"<Close><End of Block>
 Maison
 "Well,<Delay 10>
 I haven't the foggiest<Delay 5>..."<Close><End of Block>
-<TextBlock 118 w:36 h:3>
-The Gear...!
-He means the Gear!<Delay 10>
-It has to be it!<Close><End of Block>
-<TextBlock 119 w:46 h:3>
+<TextBlock 118 w:38 h:3>
+It's a Gear, I tell
+you! A Gear!<Delay 10>
+It has to be!<Close><End of Block>
+<TextBlock 119 w:40 h:4>
 Maison
 "Young master<Delay 5>...<Delay 10>
-are the Gears alright?"<Close><End of Block>
+How goes the Gear
+maintenance?"<Close><End of Block>
 <TextBlock 120 w:46 h:4>
 Bart
-"Yeah...<New>
-Even though they were
-sealed, sand's gotten
-into the joints.<New>
+"Urgh...<Delay 10> Sand's eaten
+into the joints,
+despite their seals.<New>
 It's a pain in the neck
 to fix, so I'm having
 the crew take care of
 it now.<New>
 My job is just to pilot
-them anyway.<New>
+them, anyway.<New>
 Besides, I'm bad with
 machines,<Delay 10> so I'd just
 get in the way."<Close><End of Block>
@@ -620,8 +621,8 @@ talking about?"<Close><End of Block>
 <TextBlock 123 w:36 h:4>
 Citan
 "Whether the great
-treasure could be
-a<Delay 5>...<Delay 5>Gear?"<Close><End of Block>
+treasure could
+be<Delay 5>...<Delay 5>a Gear?"<Close><End of Block>
 <TextBlock 124 w:52 h:3>
 Bart
 "Oh, yeah.<New>

@@ -1,8 +1,8 @@
 <TextBlock 1 w:52 h:4>
 Maison
 "Both Av and Kislev are
-devoted to excavating the
-ruins.<New>
+single-minded in
+excavating the ruins.<New>
 Each country's strength
 is increasing daily.<New>
 Even if we could get the
@@ -27,8 +27,8 @@ time, labor and capital.<New>
 The best we can do with
 our sand cruiser is find
 small items in the sand.<Close><End of Block>
-<TextBlock 4 w:38 h:2>
+<TextBlock 4 w:42 h:2>
 Citan
-"And the piracy..."<Close><End of Block>
+"Hence the piracy..."<Close><End of Block>
 <TextBlock 5 w:0 h:1>
 <Close><End of Block>
