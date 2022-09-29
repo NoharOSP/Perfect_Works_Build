@@ -138,7 +138,7 @@ Yeesh, now I feel
 like a real pirate!<Close><End of Block>
 <TextBlock 31 w:58 h:4>
 Sigurd headed toward the
-gun room with some strange
+Gun Room with some strange
 man just a minute ago...<Delay 10>
 Sigurd didn't look too happy.<Close><End of Block>
 <TextBlock 32 w:42 h:3>
