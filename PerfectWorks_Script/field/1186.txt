@@ -498,7 +498,7 @@ Do you want to see my notes?
    the ship's charts.<Close><End of Block>
 <TextBlock 73 w:54 h:2>
 I can't wait until I become
-a fully-fledged helmsman...<Close><End of Block>
+a fully fledged helmsman...<Close><End of Block>
 <TextBlock 74 w:54 h:2>
 The ship's missiles might
 not work on that monster...<Close><End of Block>
@@ -893,7 +893,7 @@ Jerico has been careful
 lately, so navigation
 has been made easier.<Close><End of Block>
 <TextBlock 150 w:54 h:6>
-Oh, that's the chief
+Hey, it's the chief
 navigator's banana boat.
 Look at the map.<Delay 10>
 The desert may seem to be
@@ -911,14 +911,14 @@ Yggdrasil drift, so that
 the time and routes we
 take end up being off...<Close><End of Block>
 <TextBlock 152 w:56 h:4>
-The desert changes everyday.
-So I rewrite the map with
+The desert changes every day
+so I redraw the map with
 the information we collect
 whenever we're out there.<Close><End of Block>
 <TextBlock 153 w:56 h:5>
 The map box is the greatest
 treasure in the Yggdrasil!<Delay 10>
-This ship can run amuck
+This ship can run amok
 because it has these maps.<Delay 10>
 They're all hand-made by me!<Close><End of Block>
 <TextBlock 154 w:52 h:4>

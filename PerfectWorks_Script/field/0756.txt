@@ -42,7 +42,7 @@ This's bad!<Close><End of Block>
 <TextBlock 9 w:56 h:4>
 You from Av? <Delay 10>
 Oh, you're not.
-Well I was an Av soldier.<New>
+Well, I was an Av soldier.<New>
 Av's Prime Minister,
 Shakhan, has so much
 military clout that he can
@@ -103,8 +103,8 @@ said it wasn't so great<Delay 5>...<Close><End of Block>
 <TextBlock 20 w:58 h:4>
 No big deal?<Delay 10>
 Well, let me tell you the
-story behind it, cause might
-just change your mind...<New>
+story behind it, 'cause it
+may just change your mind...<New>
 Twelve years ago, Sigurd took
 Bart out of Av. They stole
 Av's most powerful warship
@@ -121,9 +121,9 @@ I guess...<Close><End of Block>
 (*Sigh*...
 The first mate and I
 worked so hard on this!)<Close><End of Block>
-<TextBlock 22 w:48 h:2>
+<TextBlock 22 w:50 h:2>
 Is that how you really
-feel? You're a liar Fei.<Close><End of Block>
+feel? You're a liar, Fei.<Close><End of Block>
 <TextBlock 23 w:46 h:2>
 I want to make another
 Yggdrasil model...<Close><End of Block>

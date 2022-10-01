@@ -139,8 +139,8 @@ impressive<Delay 15>...boss.<Close><End of Block>
 <TextBlock 30 w:48 h:4>
 I was surprised by the
 Av attack,<Delay 5> but I was
-lucky my comrad was from
-the mole tribe.<Close><End of Block>
+lucky my comrade was
+from the mole tribe.<Close><End of Block>
 <TextBlock 31 w:34 h:2>
 I'm embarrased<Delay 5>...<Delay 5>
 boss.<Close><End of Block>
@@ -337,7 +337,7 @@ tribe?<Delay 5> I...<Delay 5>I...<Delay 5><Close><End of Block>
 Do whatever you have to
 do.<Close><End of Block>
 <TextBlock 107 w:50 h:3>
-Wh, whatever<Delay 5>...<Delay 5>I have
+Wh-Whatever<Delay 5>...<Delay 5>I have
 to do? Right now, I don't
 think I could<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 108 w:44 h:3>

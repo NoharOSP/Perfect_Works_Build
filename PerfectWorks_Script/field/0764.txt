@@ -1,12 +1,12 @@
 <TextBlock 1 w:32 h:4>
 Bart
-"Are you ready?"
+"How about now?"
     I guess so
     Later<Close><End of Block>
 <TextBlock 2 w:34 h:3>
 Bart
 "Well, come back
-later then."<Close><End of Block>
+later, then."<Close><End of Block>
 <TextBlock 3 w:44 h:4>
 Bart
 "Can I have a second?"
@@ -15,7 +15,7 @@ Bart
 <TextBlock 4 w:34 h:3>
 Bart
 "Well, come back
-later then."<Close><End of Block>
+later, then."<Close><End of Block>
 <TextBlock 5 w:46 h:3>
 Sigurd
 "Fei, get out of here,
@@ -45,23 +45,23 @@ you back!<Opcode 2 40><Close><End of Block>
 <Opcode 1 5>'Full rudder!!!'<Close><End of Block>
 <TextBlock 11 w:16 h:1>
 Yessir!!<Opcode 2 30><Close><End of Block>
-<TextBlock 12 w:62 h:3>
-Did you hear all that?
+<TextBlock 12 w:52 h:3>
+Oh...did you hear that?
     Yep
     No, hear what?<Close><End of Block>
 <TextBlock 13 w:36 h:2>
 Oh no.
 Don't tell anyone.<Close><End of Block>
-<TextBlock 14 w:32 h:3>
+<TextBlock 14 w:34 h:3>
 Oh really?
 That's nice.
-(Whew, I'm safe)<Close><End of Block>
+(Whew, I'm safe.)<Close><End of Block>
 <TextBlock 15 w:46 h:3>
 I did it!
 They made me the pilot
 apprentice!<Close><End of Block>
 <TextBlock 16 w:44 h:2>
-I'd like to try and
+I'd like to try to
 drive this thing once.<Close><End of Block>
 <TextBlock 17 w:26 h:1>
 Welcome back!<Opcode 2 40><Close><End of Block>
@@ -193,9 +193,9 @@ I don't want to fight.<New>
 I just want to live
 in peace and quiet.<Close><End of Block>
 <TextBlock 48 w:46 h:4>
-But you people keep on
+So why do you keep
 hounding me to get into
-a Gear? Why don't you
+a Gear!? Why don't you
 just leave me alone!?"<Close><End of Block>
 <TextBlock 49 w:30 h:4>
 Bart
@@ -227,22 +227,23 @@ Bart
 "Citan told me what
 happened in Lahan.<New>
 Would it have been better
-if you had done nothing?<Delay 10>
-Sure, that happened because
-you were in the Gear.<New>
-But even if you hadn't,
-people would have died...<Delay 10>
-Right?<Delay 10>
-You weren't the reason.<New>
-War...<Delay 10>no, the people
+if you had done nothing?<New>
+Sure, maybe what happened
+was a direct result of you
+getting in the Gear.<New>
+But there were going to be
+casualties even if you
+hadn't...<Delay 10>most likely.<Delay 10>
+You weren't the cause.<New>
+War...<Delay 10> No, the people
 who started the war are
-the reason.<New>
+the cause.<New>
 And unless you get rid of
-the reason, nothing will
+the cause, nothing will
 change.<Delay 10> I fight to get
-rid of the reason...<New>
+rid of the cause...<New>
 Right now there is no
-other way so I have to
+other way, so I have to
 fight...<Delay 10> But that doesn't
 mean I enjoy it."<Close><End of Block>
 <TextBlock 54 w:50 h:4>
@@ -258,7 +259,7 @@ don't you have to fight?"<Close><End of Block>
 <TextBlock 55 w:50 h:4>
 Bart
 "You do have a reason to
-fight.<Delay 10> A reason you must
+fight.<Delay 10> A reason you MUST
 fight.<New>
 But as long as you ignore
 it and continue to run
@@ -371,17 +372,17 @@ I'm not asking you to
 burden yourself with
 his problems or
 responsiblities.<New>
-But could you two...
+But could you two <-->
 with whatever it is only
-you two each know, help
-the other?<Delay 10> Please..."<Close><End of Block>
+you each know <--> help
+one another?<Delay 10> Please..."<Close><End of Block>
 <TextBlock 67 w:44 h:3>
 Fei
 "I'm sorry<Delay 5>...<Delay 10>
 I need time to think."<Close><End of Block>
 <TextBlock 68 w:46 h:4>
 Sigurd
-"Of course...take your
+"Of course <--> take your
 time. It is completely
 up to you.<New>
 Whatever you decide, we

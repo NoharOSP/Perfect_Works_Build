@@ -23,10 +23,10 @@ Let's go!<Close><End of Block>
 Bart
 "Argh, that's no good!"<Close><End of Block>
 <TextBlock 9 w:36 h:5>
-<Opcode 1 255>'My Room: 
-Enter and Die'
-             Bart <Delay 10>
-    Enter
+<Opcode 1 255>'My room.<Delay 10> No mercy
+to trespassers!!
+            -Bart'<Delay 10>
+    Enter anyway
     Give it up<Close><End of Block>
 <TextBlock 10 w:44 h:2>
 Fei

@@ -22,7 +22,7 @@ Bart
 good, grandpa!"<Close><End of Block>
 <TextBlock 6 w:38 h:2>
 The hotel I am
-talking about is...<Opcode 2 100><Close><End of Block>
+talking about is...<Opcode 2 130><Close><End of Block>
 <TextBlock 7 w:18 h:1>
 Hey, you!<Opcode 2 60><Close><End of Block>
 <TextBlock 8 w:44 h:2>
@@ -441,14 +441,14 @@ talkin' here!<Opcode 2 100><Close><End of Block>
 Right, starting
 tomorrow we'll take
 turns.<Delay 30>
-That's good!<Opcode 2 50><Close><End of Block>
+Okay, then!<Opcode 2 60><Close><End of Block>
 <TextBlock 109 w:32 h:3>
 Let's return to
 patrol!<Delay 30>
 Forward<Delay 20> march!<Opcode 2 100><Close><End of Block>
 <TextBlock 110 w:38 h:2>
-<Opcode 1 1>Kislev steam heads!<Delay 100>
-We'll kick their...<Opcode 2 100><Close><End of Block>
+<Opcode 1 1>Kislev steam-heads!<Delay 100>
+We'll kick their<--><Opcode 2 100><Close><End of Block>
 <TextBlock 111 w:44 h:2>
 <Opcode 1 1>They're kettle-heads
 with steam for brains!<Opcode 2 200><Close><End of Block>
@@ -480,13 +480,13 @@ I was first!<Delay 20>
 Tomorrow I'm the Cap'n!<Close><End of Block>
 <TextBlock 122 w:8 h:1>
 Hey!<Opcode 2 30><Close><End of Block>
-<TextBlock 123 w:52 h:1>
-<Opcode 1 1>You are an Ab <Delay 30>from Kisreb.<Close><End of Block>
+<TextBlock 123 w:44 h:1>
+<Opcode 1 1>You a Kiswev...in Av...<Close><End of Block>
 <TextBlock 124 w:42 h:2>
 Yeah, yeah <Delay 20>
 I wanna be Cap'n too!<Opcode 2 100><Close><End of Block>
 <TextBlock 125 w:38 h:2>
-Me too<Delay 20>
+<Opcode 1 150>Me tooooo,
 I'm Cap'n tomorrow.<Close><End of Block>
 <TextBlock 126 w:20 h:1>
 Come here.<Opcode 2 30><Close><End of Block>

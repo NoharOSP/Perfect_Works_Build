@@ -1,28 +1,29 @@
 <TextBlock 1 w:48 h:4>
 Citan
-"Are you ready?<Delay 10>
-I am going later so get
-some rest before then."<Close><End of Block>
+"Ah, are you ready?<Delay 10> I
+will be along later, so
+please go on and rest."<Close><End of Block>
 <TextBlock 2 w:50 h:4>
 Citan
 "Fei, there is no need to
-be mad at Bart. <Delay 10>
+be mad at Bart.<Delay 10>
 Just forgive him."<Close><End of Block>
 <TextBlock 3 w:50 h:4>
 Citan
 "Fei, there is no reason
 to be mad at Bart.<Delay 10>
 Just forgive him."<Close><End of Block>
-<TextBlock 4 w:54 h:3>
+<TextBlock 4 w:54 h:4>
 Sigurd
 "We set out early tomorrow.<Delay 10><New>
-It's best to get ready
-today and rest up in our
-rooms from the journey."<Close><End of Block>
+Once you've taken the
+opportunity to get ready
+today, you should rest up
+in the sleeping quarters."<Close><End of Block>
 <TextBlock 5 w:40 h:3>
 Sigurd
 "I'm searching the
-information network <New>
+information network<New>
 for reports on
 Av's condition."<Close><End of Block>
 <TextBlock 6 w:54 h:7>
@@ -64,8 +65,8 @@ Sigurd
 sacred country in the
 west of Ignas.<New>
 In its center is a huge
-cathedral beautifully
-ornamented. <New>
+cathedral, beautifully
+ornamented.<New>
 The country was founded
 by Sophia.<New>
 She is called the
@@ -111,8 +112,8 @@ Main power source cut!!<Delay 10>
 Switch to backup!<Close><End of Block>
 <TextBlock 20 w:52 h:4>
 I wonder if Margie's
-alright?<Delay 10> I Hope she's not
-hurt? We're only operators
+alright?<Delay 10> I hope she's not
+hurt. We're only operators
 but we still worry.<New>
 We can't do anything.<Delay 10>
 ...*Sniff*...<Close><End of Block>
@@ -252,7 +253,7 @@ Bart
 "Bright boy!<Delay 10>
 That's exactly it.<New>
 I heard from Sigurd<Delay 5>...<Delay 10>
-it seems that both Av
+It seems that both Av
 and Kislev are after you!<New>
 So we can help you and
 you can help us<Delay 5>...<Delay 10>
