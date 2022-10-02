@@ -421,7 +421,7 @@ Get to <Weltall> now!!"<Close><End of Block>
 Citan
 "Bart and the others are
 already fighting!<New>
-Aren't you going to do
+Are you not going to do
 anything?<Delay 10>
 Do you still think it has
 nothing to do with you?"<Close><End of Block>
@@ -430,11 +430,10 @@ nothing to do with you?"<Close><End of Block>
 <TextBlock 78 w:12 h:2>
 Fei
 "I..."<Close><End of Block>
-<TextBlock 79 w:12 h:4>
+<TextBlock 79 w:22 h:4>
 Fei
 "I...<Delay 10>
-What<Delay 10>
-am I?"<Close><End of Block>
+What<Delay 10> am I?"<Close><End of Block>
 <TextBlock 80 w:42 h:4>
 Fei
 "That old man...<Delay 10>

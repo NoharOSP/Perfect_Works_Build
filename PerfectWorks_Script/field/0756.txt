@@ -195,10 +195,10 @@ you'd show up!<Close><End of Block>
 Are you doing well,
 Bart dear?<Close><End of Block>
 <TextBlock 38 w:50 h:4>
-Oh! Fei dear!
+Oh! Fei, dear!
 I believed in you.
 You said you'd help Bart.<Delay 10>
-And thanks from me too.<Close><End of Block>
+And thanks from me, too.<Close><End of Block>
 <TextBlock 39 w:50 h:4>
 Bart dear, you don't find
 many friends like this!<Delay 10>
@@ -216,7 +216,7 @@ good."<Close><End of Block>
 Alright dear, you just
 leave it to Granny!<Close><End of Block>
 <TextBlock 42 w:48 h:4>
-Fei dear!!
+Fei, dear!!
 Did you see a little boy
 and girl? I wonder where
 they went?<Close><End of Block>
@@ -236,7 +236,7 @@ Fei
 "I know."<Close><End of Block>
 <TextBlock 47 w:30 h:2>
 I'm counting on
-you, Fei dear.<Close><End of Block>
+you, Fei, dear.<Close><End of Block>
 <TextBlock 48 w:36 h:3>
 Fei
 "It has nothing to
@@ -249,9 +249,9 @@ You'll do fine.<Close><End of Block>
 <TextBlock 50 w:40 h:2>
 If you're with Bart
 you'll do fine.<Close><End of Block>
-<TextBlock 51 w:20 h:2>
-Fei dear,<Delay 10>
-<Delay 5>...<Delay 5>thanks.<Close><End of Block>
+<TextBlock 51 w:24 h:2>
+Fei, dear...<Delay 10>
+Thanks.<Close><End of Block>
 <TextBlock 52 w:12 h:1>
 Whoa!!<Close><End of Block>
 <TextBlock 53 w:22 h:2>
@@ -279,7 +279,7 @@ since I saw you last!!<Close><End of Block>
 Well, see ya!!<Close><End of Block>
 <TextBlock 60 w:38 h:2>
 Presents, presents!
-Wee! Weeee!<Close><End of Block>
+Whee! Wheeee!<Close><End of Block>
 <TextBlock 61 w:44 h:4>
 Me, I'm waiting for
 my dad to get back.
@@ -303,10 +303,10 @@ I was good, <Delay 5>so...<Delay 5>
 where are my presents?<Close><End of Block>
 <TextBlock 68 w:46 h:2>
 Presents!?<Delay 10> Look, here's
-a pirate dress up kit!!<Close><End of Block>
-<TextBlock 69 w:24 h:2>
+a pirate dress-up kit!!<Close><End of Block>
+<TextBlock 69 w:26 h:2>
 Wow!<Delay 10>
-Thanks dad!!<Close><End of Block>
+Thanks, Dad!!<Close><End of Block>
 <TextBlock 70 w:54 h:3>
 Maison
 "This is the dining hall.<Delay 10>

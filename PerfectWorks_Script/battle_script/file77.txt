@@ -1,7 +1,7 @@
 <TextBlock 1 w:44 h:3>
 Bart
 "How many Gears
-are there!?!<New>
+are there!?<New>
 I think I took out
 most of the small fry,
 but...!"<Close><End of Block>
@@ -14,9 +14,9 @@ Bart's Officer
 four, maybe five of
 them left!<New>
 Their performance and
-technique is far greater
-than any of the ones
-we faced before!"<Close><End of Block>
+technique are a cut
+above anything we've
+faced before!"<Close><End of Block>
 <TextBlock 4 w:44 h:3>
 Bart's Officer
 "Young master!!

@@ -128,7 +128,7 @@ Has the base been found?<Close><End of Block>
 I can't seem to get any.<Delay 30>
 (I mean cards, you fool!)<Close><End of Block>
 <TextBlock 38 w:34 h:1>
-What is it, what?<Close><End of Block>
+What is it? What?<Close><End of Block>
 <TextBlock 39 w:32 h:1>
 A little rest...<Close><End of Block>
 <TextBlock 40 w:40 h:1>

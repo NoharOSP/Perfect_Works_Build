@@ -1,13 +1,13 @@
 <TextBlock 1 w:42 h:3>
 Citan
-"Oh, a wild stallion,
-eh?<New>
-Well then, it is high
-time someone broke
-you in..."<Close><End of Block>
+"Oh! Quite the
+wild stallion...<New>
+Just the thing for a
+warm-up, eh?
+I am pleased!"<Close><End of Block>
 <TextBlock 2 w:36 h:2>
 Citan
-"Reinforcements!?"<Opcode 2 30><Close><End of Block>
+"Reinforcements!?"<Opcode 2 40><Close><End of Block>
 <TextBlock 3 w:44 h:4>
 Citan
 "Compared to the pain
