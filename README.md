@@ -1,12 +1,10 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.1.1 here: 
+Download version 0.1.2 here: 
 
-- Mega: https://mega.nz/file/2WQHXawQ#k5b3S744oIhHs8bFU_eMs04-nKwWj4C-7tXgazW31tU
-- Google Drive: https://drive.google.com/file/d/1zv56pPSHruN_KnOQ4pVHlJHMwSOn4ni1/view?usp=sharing
-
-WARNING: Using every patch together will not work on Retroarch's Beetle Core.
+- Mega: https://mega.nz/file/OG5RBJ4Q#jARzVJaRI1mhaYFWj9fMc2-TfDL5yl6abiJIdXY5lSU
+- Google Drive: https://drive.google.com/file/d/1bGlPBH7_1J-61nnAsWWU9viVBNsFmNKo/view?usp=sharing
 
 ## Completion stats:
 
@@ -26,6 +24,22 @@ Hello. My name is Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito. I am a character 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.1.2:
+
+10/02/2022
+
+- Issues regarding Beetle PSX HW have been resolved.
+- CrossPendent has been renamed Cross.
+- Sewer Key description has been corrected to say "Noatun" over "Nortune".
+- Subtitles in the opening FMV have been corrected to last longer during the intercom voice announcement.
+- Minor pre-Noatun typos, grammar issues and text wrapping fixes have been applied.
+- Silver Blood and Black Snake shop descriptions have been swapped.
+- "New Game" is used over "NewGame" in the start menu in the revised script.
+- Babel Tower Bladegash's HP has been lowered from 22000 to 14000.
+- Skyghene's HP has been lowered from 18000 to 16000. Its Ether is back to 50.
+- Grandgrowl's HP has been lowered from 20000 to 18000. Its Attack is back to 500 and its Ether is back to 60.
+- Tutorial for Hyper Mode has been added. Jessie will explain it before Babel Tower in the Gun Room.
 
 ### Version 0.1.1:
 
@@ -181,7 +195,7 @@ The Yamoto Sword is the entire reason and main reward for going to the Duneman I
 
 #### New items:
 
-- CrossPendant: Fei exclusive. +1 Ether/Ether Def. Same effect as Holy Pendant. Initial equip on Fei.
+- Cross: Fei exclusive. +1 Ether/Ether Def. Same effect as Holy Pendant. Initial equip on Fei.
 - NisanCross: Fei exclusive. +10 Ether/Ether Def. Same effect as Holy Pendant. Dropped by Ophiomorphous
 - CCracka GWhip: +90 Attack and Inflicts Slow on hit. Available to buy at Tammuz after Gate 2 
 - Lasher GWhip: +75 Attack and Inflicts Fuel Leak on hit. Available to buy in Nisan after Gate 1 
@@ -356,10 +370,10 @@ Unless stated otherwise, the stat changed is HP.
 - White Knights: HP 290 to 600 
 - Achtzehn: HP 12000 to 19000 Atk 600 to 800 Def 300 to 400 Ether 20 to 35 EDef 0 to 200 
 - Shakhan: HP 18000 to 28000 Ether 120 to 200 EthDef 100 to 200
-- Bladegash 2: HP 4000 to 22000 Atk 500 to 400 Hit 30 to 80
+- Bladegash 2: HP 4000 to 14000 Atk 500 to 400 Hit 30 to 80
 - Marinebasher: HP 5000 to 15000 Def 300 to 200 EDef 100 to 300
-- Skyghene: HP 5000 to 18000 Eth 50 to 75 Evade 35 to 55 Hit 30 to 90 
-- Grandgrowl: HP 6000 to 20000 Atk 500 to 600 Def 350 to 100 Eth 60 to 90 Edef 50 to 350
+- Skyghene: HP 5000 to 16000 Evade 35 to 55 Hit 30 to 90 
+- Grandgrowl: HP 6000 to 18000 Def 350 to 100 Edef 50 to 350
 - Crescens: EDef 100 to 1000 Hit 50 to 70
 - Grahf (Solaris): Atk 180 to 200 Eth 60 to 150
 - Vendetta: HP 12000 to 22000 EthDef 50 to 200 Hit 50 to 60
@@ -623,6 +637,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - cthuljew
 - RayDreamer
 - ChaoticBrave
+- Aero JP
 - Nohar
 
 ### Tools:
