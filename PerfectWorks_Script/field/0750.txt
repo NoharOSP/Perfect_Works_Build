@@ -4,7 +4,7 @@ What?<Opcode 2 60><Close><End of Block>
 "Hey, come down here now!<Delay 30>
 I'm not gonna kill you.<Delay 30>
 All I want is for you to
-leave this Gear<Delay 60>...<Delay 60> Huh?"<Close><End of Block>
+leave this Gear<--><Delay 60> Huh?"<Close><End of Block>
 <TextBlock 3 w:28 h:3>
 "Hey!<Delay 30>
 You're<Delay 20> not an

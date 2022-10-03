@@ -155,15 +155,15 @@ I hear you all did a good
 job in protecting us<Delay 5>...<Delay 5>
 I'm sorry I can't give you
 a break, but I just can't.<Close><End of Block>
-<TextBlock 29 w:42 h:3>
+<TextBlock 29 w:44 h:3>
 Come back when you
 rescue little Margie!
-Good luck, Bart dear!<Close><End of Block>
+Good luck, Bart, dear!<Close><End of Block>
 <TextBlock 30 w:36 h:4>
 Bart
 "Got it!<Delay 10>
 Hold down the fort
-for us know!"<Close><End of Block>
+for us, now!"<Close><End of Block>
 <TextBlock 31 w:54 h:3>
 The enemy's coming?<Delay 10>
 This place is impregnable,
@@ -188,22 +188,22 @@ What do you want?
     Gear parts
     Leave<Close><End of Block>
 <TextBlock 36 w:42 h:3>
-Bart dear!<Delay 10>
+Bart, dear!<Delay 10>
 I was wondering when
 you'd show up!<Close><End of Block>
 <TextBlock 37 w:38 h:2>
 Are you doing well,
-Bart dear?<Close><End of Block>
+Bart, dear?<Close><End of Block>
 <TextBlock 38 w:50 h:4>
 Oh! Fei, dear!
 I believed in you.
 You said you'd help Bart.<Delay 10>
 And thanks from me, too.<Close><End of Block>
 <TextBlock 39 w:50 h:4>
-Bart dear, you don't find
-many friends like this!<Delay 10>
-So you'd better be nice
-to him, now!<Close><End of Block>
+Bart, dear, you don't
+find many friends like
+this!<Delay 10> So you'd better be
+nice to him, now!<Close><End of Block>
 <TextBlock 40 w:44 h:4>
 Bart
 "Yeah. The next time I
@@ -222,7 +222,7 @@ and girl? I wonder where
 they went?<Close><End of Block>
 <TextBlock 43 w:50 h:3>
 Well now aren't you Fei?
-Bart dear said he made a
+Dear Bart said he made a
 'big strong friend'.<Close><End of Block>
 <TextBlock 44 w:6 h:1>
 <Delay 5>...<Delay 5><Close><End of Block>

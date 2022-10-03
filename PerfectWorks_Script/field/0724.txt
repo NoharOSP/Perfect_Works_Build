@@ -3,15 +3,15 @@ Damn!
 <Weltall>'s stuck
 in the sand...<Close><End of Block>
 <TextBlock 2 w:22 h:1>
-"Waawwwww!"<Opcode 2 16><Close><End of Block>
+Waaawwwwww!<Opcode 2 16><Close><End of Block>
 <TextBlock 3 w:10 h:1>
-"Oh!"<Opcode 2 16><Close><End of Block>
+Whoa!<Opcode 2 16><Close><End of Block>
 <TextBlock 4 w:10 h:1>
-"Ah!"<Opcode 2 16><Close><End of Block>
+Gaah!<Opcode 2 16><Close><End of Block>
 <TextBlock 5 w:10 h:1>
-"Oh!"<Opcode 2 16><Close><End of Block>
-<TextBlock 6 w:18 h:1>
-"Whew..."<Opcode 2 16><Close><End of Block>
+Whoa!<Opcode 2 16><Close><End of Block>
+<TextBlock 6 w:16 h:1>
+Whew...<Opcode 2 16><Close><End of Block>
 <TextBlock 7 w:48 h:3>
 Fei
 "Doc!?

@@ -19,7 +19,7 @@ try pushing it..."<Close><End of Block>
 <TextBlock 4 w:40 h:3>
 Bart
 "Wait, no matter how
-you look at it<Delay 30>...<Delay 30>"<Close><End of Block>
+you look at it<-->"<Close><End of Block>
 <TextBlock 5 w:50 h:4>
 Bart
 "Hey, Fei!<Delay 30>
@@ -31,7 +31,7 @@ other side of here."<Close><End of Block>
 <TextBlock 6 w:52 h:4>
 Bart
 "If we can get rid of this
-rock...<Delay 30>but I don't think
+rock...<Delay 30> But I don't think
 it's possible."<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 Bart
@@ -52,14 +52,16 @@ stuck with you...<New>
 Damn it!
 I'll get you when we
 get outta here."<Close><End of Block>
-<TextBlock 9 w:50 h:3>
+<TextBlock 9 w:50 h:4>
 Fei
-"Looks like even a person
-couldn't fit through..."<Close><End of Block>
-<TextBlock 10 w:50 h:3>
+"Looks like there aren't
+even any gaps a person
+could fit through..."<Close><End of Block>
+<TextBlock 10 w:50 h:4>
 Fei
-"Looks like even a person
-couldn't fit through..."<Close><End of Block>
+"Looks like there aren't
+even any gaps a person
+could fit through..."<Close><End of Block>
 <TextBlock 11 w:50 h:3>
 Fei
 "We can get by if we help

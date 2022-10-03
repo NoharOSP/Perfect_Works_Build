@@ -21,9 +21,9 @@ Let's do it!<Close><End of Block>
 <TextBlock 7 w:32 h:1>
 BattCon level 1!<Close><End of Block>
 <TextBlock 8 w:44 h:1>
-Surface combat, ready!<Opcode 2 32><Close><End of Block>
+Surface Combat, ready!<Opcode 2 32><Close><End of Block>
 <TextBlock 9 w:40 h:1>
-Torpedo room, ready!<Opcode 2 32><Close><End of Block>
+Torpedo Room, ready!<Opcode 2 32><Close><End of Block>
 <TextBlock 10 w:44 h:1>
 Anti-Gear guns, ready!<Opcode 2 32><Close><End of Block>
 <TextBlock 11 w:52 h:2>
@@ -31,7 +31,7 @@ Navigation and Engineering
 are also ready!<Opcode 2 32><Close><End of Block>
 <TextBlock 12 w:52 h:3>
 Battle stations, everyone!
-Surface navigation, begin
+Surface Navigation, begin
 operating the sand pump!<New>
 Prepare to fire starboard
 cannons upon surfacing!<Close><End of Block>
@@ -39,7 +39,7 @@ cannons upon surfacing!<Close><End of Block>
 Trim to the right!<Delay 16>
 The wind is strong up
 there and we may be
-blown off balance!<New>
+blown off-balance!<New>
 ...<Delay 32>
 Jerico!
 Hand the helm over to me!<Close><End of Block>
@@ -61,14 +61,14 @@ BattCon level 1!"<Close><End of Block>
 <TextBlock 18 w:54 h:4>
 Bart
 "Battle stations, everyone!
-Surface navigation!
+Surface Navigation!
 Close the vents!<New>
 Blow the main tank!<Delay 32>
 Prepare for anti-aircraft
 battle upon surfacing!"<Close><End of Block>
-<TextBlock 19 w:46 h:4>
+<TextBlock 19 w:42 h:4>
 Bart
-"Surface combat team!
+"Surface Combat!
 Stand by with the
 anti-aircraft guns!<New>
 Gunner!
