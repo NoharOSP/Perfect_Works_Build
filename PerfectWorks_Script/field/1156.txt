@@ -51,7 +51,7 @@ the entire ship.<New>
 Our priority is to
 secure the bridge!!<New>
 Gather everyone
-into the bridge
+onto the bridge
 immediately!"<Close><End of Block>
 <TextBlock 11 w:40 h:4>
 Sigurd

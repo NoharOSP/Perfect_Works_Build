@@ -148,8 +148,8 @@ You'd better get a room
 soon or they'll all be
 gone.<New>
 I know a good hotel.<Close><End of Block>
-<TextBlock 33 w:18 h:1>
-That one.<Close><End of Block>
+<TextBlock 33 w:24 h:1>
+...that one.<Close><End of Block>
 <TextBlock 34 w:48 h:3>
 Tell them my name at
 the front desk and
@@ -383,7 +383,7 @@ soldier.<Close><End of Block>
 Young sir! Young sir!
 Berries, buy some berries.
 Sweet, delicious berries...
-they're 'berry' cheap.<Opcode 2 100><Close><End of Block>
+They're 'berry' cheap.<Opcode 2 100><Close><End of Block>
 <TextBlock 93 w:16 h:1>
 Go away!<Opcode 2 80><Close><End of Block>
 <TextBlock 94 w:50 h:3>
@@ -566,8 +566,8 @@ seek anymore and you
 shouldn't at your age
 either!<Close><End of Block>
 <TextBlock 145 w:40 h:2>
-When you leave I'll
-hide somewhere.<Close><End of Block>
+Once you've gone
+I'll hide somewhere.<Close><End of Block>
 <TextBlock 146 w:34 h:1>
 Ah, you found me.<Close><End of Block>
 <TextBlock 147 w:46 h:4>
@@ -585,8 +585,8 @@ Afraid you'll lose, huh?<Close><End of Block>
 Good job.
 Next time I'll hide
 somewhere better.<Close><End of Block>
-<TextBlock 151 w:44 h:2>
-You found me here too.
+<TextBlock 151 w:46 h:2>
+You found me here, too.
 Next time's for real.<Close><End of Block>
 <TextBlock 152 w:52 h:2>
 I didn't think you'd ever
@@ -621,12 +621,12 @@ anyone asked me about that.
 Everyone wanted to know
 about it back then...<New>
 Well...*cough*...<Delay 30>I was
-still a kid when I hid
-in there. Actually I got
-lost...pretty embarrassing!<New>
+still a kid when I hid down
+there. Actually, I got
+lost. Pretty embarrassing!<New>
 At first, I thought I could
 follow the current out, but
-the grill stopped me.<New>
+the grille stopped me.<New>
 So I swam against the
 current.<New>
 The speed of the current
@@ -657,7 +657,7 @@ the east well has it.<Close><End of Block>
 The well key?<New>
 I've got it.
 I'm in charge of the
-waterworks association.<Close><End of Block>
+Waterworks Association.<Close><End of Block>
 <TextBlock 159 w:60 h:4>
 What will you do with the key?
     Search underground
@@ -699,10 +699,10 @@ Bart
 It's a joke. A joke.<New>
 Look at me. Do I look
 like a thief to you?"<Close><End of Block>
-<TextBlock 166 w:38 h:4>
+<TextBlock 166 w:40 h:4>
 I don't get it<Delay 20>...<Delay 20>
 ...<Delay 20>...<Delay 20>...<Delay 20>...<Delay 20>...<Delay 20>
-Oh?...<Delay 20>Oh!...<Delay 20>You...
+Oh...<Delay 20>? Oh...<Delay 20>! You...
 No, it couldn't be!<Close><End of Block>
 <TextBlock 167 w:48 h:3>
 Bart
@@ -719,8 +719,9 @@ Bart
 save my cousin being held
 in the castle.<New>
 That's why I gotta sneak
-in through waterways. So
-help me out here, gramps."<Close><End of Block>
+in through the waterway.
+So help me out here,
+gramps."<Close><End of Block>
 <TextBlock 170 w:20 h:1>
 Of course!<Close><End of Block>
 <TextBlock 171 w:36 h:1>
@@ -738,10 +739,10 @@ Bart
 I'm glad there are people
 like you worried about
 the country."<Close><End of Block>
-<TextBlock 175 w:46 h:3>
-If Prince Bartholomew
-comes back he'll bring
-back Av's old spirit.<Close><End of Block>
+<TextBlock 175 w:48 h:3>
+When you return, Prince
+Bartholomew, bring Av's
+old spirit back, too!<Close><End of Block>
 <TextBlock 176 w:30 h:1>
 Go get'em, boy!<Close><End of Block>
 <TextBlock 177 w:36 h:3>

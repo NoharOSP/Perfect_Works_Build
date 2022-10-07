@@ -18,7 +18,7 @@ Ramsus
 ask you about the Fatima
 family treasure...<New>
 I'm talking about the
-'Fatima Jasper'. You see,
+Fatima Jasper. You see,
 I'm keeping the piece
 you had in a safe place.<New>
 But I don't know where
@@ -27,8 +27,8 @@ Do you?"<Close><End of Block>
 <TextBlock 4 w:44 h:4>
 Margie
 "Nope.
-The one I had you took
-from me.<New>
+The one I had, you
+took from me.<New>
 You didn't even give
 me anything for it.<New>
 Hey, the next time you
@@ -49,30 +49,30 @@ I don't know much about
 cake, but I'll see if I
 can find some for you
 next time."<Close><End of Block>
-<TextBlock 6 w:36 h:3>
+<TextBlock 6 w:38 h:3>
 Margie
-"Thank you Ramsus.
+"Thank you, Ramsus.
 I'll be waiting."<Close><End of Block>
 <TextBlock 7 w:48 h:3>
 Ramsus
 "Is there anything else
 you need?<New>
 If there's something you
-want I'll bring it next
+want, I'll bring it next
 time."<Close><End of Block>
 <TextBlock 8 w:48 h:4>
 Margie
 "No. I just want to go
 back to Nisan. They must
 be so worried about me."<Close><End of Block>
-<TextBlock 9 w:42 h:4>
+<TextBlock 9 w:44 h:4>
 Ramsus
-"I'm sorry but please
+"I'm sorry, but please
 wait a little longer.<New>
 We want you to stay
 here until we find
 the other half of the
-'Fatima Jasper'."<Close><End of Block>
+Fatima Jasper."<Close><End of Block>
 <TextBlock 10 w:2 h:1>
 ?<Opcode 2 30><Close><End of Block>
 <TextBlock 11 w:24 h:1>
@@ -86,8 +86,8 @@ Margie
 Bart
 "I'm sorry for
 taking so long.<New>
-Let's go
-home Margie!"<Close><End of Block>
+Let's go home,
+Margie!"<Close><End of Block>
 <TextBlock 15 w:38 h:3>
 Margie
 "I just knew you'd 
@@ -99,18 +99,16 @@ you outta here!
 C'mon, follow me!"<Close><End of Block>
 <TextBlock 17 w:14 h:2>
 Margie
-"Okay."<Close><End of Block>
+"Okay!"<Close><End of Block>
 <TextBlock 18 w:20 h:3>
 Margie
 "Oh, wait
 a second."<Close><End of Block>
-<TextBlock 19 w:34 h:4>
+<TextBlock 19 w:36 h:4>
 Margie
-"A nice man
-from Geburah gave
-it to me.<New>
-I really
-like this."<Close><End of Block>
+"I found this in
+the city.<Delay 10>
+I really like it."<Close><End of Block>
 <TextBlock 20 w:48 h:3>
 Thank you so much
 for rescuing Mother
@@ -120,8 +118,8 @@ Sect are deeply indebted
 to you.<Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Today we came to pray to
-god for peace in Av,
-Nisan and Kislev. <Delay 60>
+God for peace in Av,
+Nisan and Kislev.<Delay 60>
 Peace be with you all.<Close><End of Block>
 <TextBlock 22 w:42 h:1>
 Please wait a moment.<Opcode 2 30><Close><End of Block>

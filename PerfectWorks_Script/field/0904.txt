@@ -5,11 +5,11 @@ you from Lahan?"<Close><End of Block>
 <TextBlock 2 w:8 h:2>
 Fei
 "??"<Close><End of Block>
-<TextBlock 3 w:38 h:4>
+<TextBlock 3 w:40 h:4>
 Mystery Man
-"Seems like you and
-that  boy have some
-kind of problem..."<Close><End of Block>
+"Seems like there's
+some problem between
+you and that boy..."<Close><End of Block>
 <TextBlock 4 w:52 h:3>
 Fei
 "Who do you think you are?
@@ -24,7 +24,7 @@ Fei
 Mystery Man
 "Nothing...<New>
 Just wondering what
-kind  of fight you
+kind of fight you
 will have with that
 boy...<New>
 Well, I'm looking
@@ -33,12 +33,12 @@ forward to it,
 <TextBlock 8 w:14 h:2>
 Fei
 "Huh!?"<Opcode 2 50><Close><End of Block>
-<TextBlock 9 w:36 h:3>
+<TextBlock 9 w:38 h:3>
 Fei
-(How does that guy
+"(How does that guy
 know my name...?<New>
 I didn't enter my 
-real name...)<Close><End of Block>
+real name...)"<Close><End of Block>
 <TextBlock 10 w:24 h:2>
 Fei
 "D-Dan..." <Opcode 2 50><Close><End of Block>
@@ -53,7 +53,7 @@ doing here?"<Close><End of Block>
 <TextBlock 13 w:48 h:3>
 Dan
 "...It's your fault that
-Alice...<New>
+Alice<--><New>
 I'll never forgive you.
 I'm gonna kill you!"<Close><End of Block>
 <TextBlock 14 w:22 h:2>
@@ -68,8 +68,8 @@ in front of everyone!
 And don't be runnin'
 away either!!"<Close><End of Block>
 <TextBlock 16 w:46 h:3>
-The human body is
-weak. I always fight
+The human body is weak.
+I'm used to fighting
 against rock and metal!<New>
 There is no way I can
 lose.<Close><End of Block>

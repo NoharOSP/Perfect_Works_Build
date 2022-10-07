@@ -1,6 +1,6 @@
 <TextBlock 1 w:16 h:2>
 Fei
-"Bart!!"<Opcode 2 30><Close><End of Block>
+"Bart!!"<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:20 h:2>
 Margie
 "Ba~rty!"<Close><End of Block>
@@ -17,21 +17,22 @@ Heh! It's not such a bad
 feeling having your name
 known by someone as
 beautiful as you."<Close><End of Block>
-<TextBlock 5 w:44 h:3>
+<TextBlock 5 w:44 h:4>
 Bart
-"That's nice to know.
-But I can't accept it.<New>
-See, for me,
-'either way' is bad."<Close><End of Block>
+"Well, that's good to
+know,<Delay 10> but I won't hear
+of it.<New>
+See, for me, 'neither
+way' is much good."<Close><End of Block>
 <TextBlock 6 w:32 h:4>
 Bart
 "Tch...<Delay 20> Margie!
-Hide back behind
+Take cover back
 there!"<Close><End of Block>
 <TextBlock 7 w:28 h:3>
 Bart
-"I don't care,
-just hide!"<Close><End of Block>
+"Listen, just
+stay there!"<Close><End of Block>
 <TextBlock 8 w:26 h:3>
 Ramsus
 "...Then it's
@@ -46,8 +47,8 @@ Prince Bartholomew!"<Close><End of Block>
 Myyah
 "You may have had your
 problems with Shakhan,<New>
-but we won't treat you
-badly.<New>
-Concerning Shakhan, it
-really doesn't matter
-'either way' to us."<Close><Close><Close><End of Block>
+but we won't hold it
+against you.<New>
+To us, what happens to
+him doesn't matter
+much 'either way'."<Close><Close><Close><End of Block>

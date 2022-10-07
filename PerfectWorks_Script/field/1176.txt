@@ -54,19 +54,20 @@ Margie
 I heard a rumor in
 town that day...<New>
 It was said that the
-Sect's sisters who
-were captured by Av
-were still alive..."<Close><End of Block>
+Sect sisters captured
+by Av were still
+alive..."<Close><End of Block>
 <TextBlock 12 w:30 h:4>
 Margie
 "I believed it!
 So what!?
 I was wrong.<New>
 But..."<Close><End of Block>
-<TextBlock 13 w:50 h:3>
+<TextBlock 13 w:46 h:4>
 Margie
 "But...Grandma and Mom
-were already executed..."<Close><End of Block>
+had already been
+executed..."<Close><End of Block>
 <TextBlock 14 w:52 h:4>
 Margie
 "Sorry...<Delay 32>to drag everybody

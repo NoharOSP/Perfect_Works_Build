@@ -9,9 +9,10 @@ Bart
 So, who the heck is he?"<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Sigurd
-"Carlin Ramsus<Delay 10> of the Holy
-Solaris Empire's Special
-Foreign Affairs Agency<Delay 5>...<New>
+"Carlin Ramsus.<New>
+Of the Sacred Empire of
+Solaris' Special Foreign
+Affairs Agency...<New>
 In other words, he's the
 commander in chief of
 Geburah.<New>
@@ -323,13 +324,13 @@ Sigurd
 "Shall we launch
 the Yggdrasil?"<New>
     <Opcode 1 255>Go ahead!
-    Wait a while.<Close><End of Block>
+    Wait a while<Close><End of Block>
 <TextBlock 51 w:44 h:3>
 Sigurd
 "We are currently
 anchored at Shevat..."<New>
-    <Opcode 1 255>Leave Shevat.
-    Changed my mind.<Close><End of Block>
+    <Opcode 1 255>Leave Shevat
+    Changed my mind<Close><End of Block>
 <TextBlock 52 w:50 h:3>
 Bart
 "Our Yggdrasil was reborn
@@ -357,8 +358,8 @@ I'll do my best!<Close><End of Block>
 Sigurd
 "We're currently anchored
 at the Tamuz..."<New>
-    <Opcode 1 255>Leave Tamuz.
-    Changed my mind.<Close><End of Block>
+    <Opcode 1 255>Leave Tamuz
+    Changed my mind<Close><End of Block>
 <TextBlock 57 w:44 h:4>
 Sigurd
 "So this is your first
@@ -370,15 +371,15 @@ improved performance!"<Close><End of Block>
 <TextBlock 58 w:40 h:3>
 Sigurd
 "Currently anchored
-at Nisan...<New>
-    <Opcode 1 255>Leave Nisan.
-    Changed my mind.<Close><End of Block>
+at Nisan..."<New>
+    <Opcode 1 255>Leave Nisan
+    Changed my mind<Close><End of Block>
 <TextBlock 59 w:44 h:3>
 Sigurd
 "Currently anchored
 at our hideout..."<New>
-    <Opcode 1 255>Leave the hideout.
-    Changed my mind.<Close><End of Block>
+    <Opcode 1 255>Leave the hideout
+    Changed my mind<Close><End of Block>
 <TextBlock 60 w:46 h:4>
 Bart
 "We went through a
@@ -434,31 +435,33 @@ Wanna see my notes?
    It moves you forward
    really fast!!<New>
 2)<Delay 10> If you press the
-   Directional button with
+   directional button with
    the <T> button held down,
    you can...<New>
- go down by pressing Up,
- go up by pressing Down,
+ go down by pressing up,
+ go up by pressing down,
  and change direction by
- pressing Left or Right.<New>
+ pressing left or right.<New>
 3)<Delay 10> When you want to turn
  quickly, also press the
  L1 button for left, or
  the R1 button for right.<New>
 4)<Delay 10> You can reverse by
-   pressing the R2 button.<New>
+   accelerating while the
+   R2 button is also held
+   down.<New>
 5)<Delay 10> Press the <S> button
    to go to the bridge.
    Press the <C> button
    to land.<New>
  But note...
- There are places where
+ there are places where
  you cannot land, such as
  mountains and forests.<New>
- But then again that was
- the same conditions the
+ But then again, that was
+ the same restriction the
  Yggdrasil had when it
- was a Sand Cruiser.<Close><End of Block>
+ was a sand cruiser.<Close><End of Block>
 <TextBlock 71 w:58 h:4>
 My name is Bingo, the
 apprentice helmsman.<Delay 10>
@@ -471,7 +474,7 @@ Do you want to see my notes?
 <Opcode 1 255>1)<Delay 10> The Yggdrasil can be
    operated just as if you are
    walking... Just use the
-   Directional button to move
+   directional button to move
    in the direction you want.<New>
 2)<Delay 10> While cruising, if you want
    to stop and disembark in
@@ -485,7 +488,7 @@ Do you want to see my notes?
    to rest,<Delay 5> tune up a Gear,<Delay 5>
    weigh yourself<Delay 5> and so on!<New>
 3)<Delay 10> While cruising, press the
-   Select button to activate
+   SELECT button to activate
    the Remote Sensing System.<Delay 10>
    It will map your current
    position.<New>
@@ -572,10 +575,10 @@ On the other hand though,
 torpedoes blow everything
 to blazes and are down-
 right expensive too...<Close><End of Block>
-<TextBlock 87 w:50 h:3>
-It's dry in the desert so
+<TextBlock 87 w:52 h:3>
+It's dry in the desert, so
 gunpowder burns steadily
-and easy to predict.<New>
+and is easy to predict.<New>
 It'd be great if the
 temperature would stay
 the same day and night.<Close><End of Block>
@@ -613,8 +616,8 @@ I didn't realize that you
 were there! <New>
 Wanna hear some hot sounds
 that I have recorded?"
-    <Opcode 1 255>Sure.
-    No thanks.<Close><End of Block>
+    <Opcode 1 255>Sure
+    No thanks<Close><End of Block>
 <TextBlock 94 w:46 h:4>
 Vance
 "Wanna hear some more?"
@@ -806,7 +809,7 @@ I got a new map!<Close><End of Block>
 Do you want to see
 the ship's chart?
     <Opcode 1 255>Yeah, show me!
-    No thanks.<Close><End of Block>
+    No thanks<Close><End of Block>
 <TextBlock 133 w:52 h:4>
 Alright then...<Delay 10>
 Let me know when you

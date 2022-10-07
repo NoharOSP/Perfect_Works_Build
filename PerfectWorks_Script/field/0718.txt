@@ -105,12 +105,12 @@ Is that what is wrong?"<Close><End of Block>
 Citan
 "Are you worried
 about your father?"<Close><End of Block>
-<TextBlock 19 w:54 h:3>
+<TextBlock 19 w:52 h:4>
 Citan
-"...<New>
+"...<Delay 32>
 (I am certain it was him!<Delay 32>
-That was no coincidence...)<New>
-(Could it be that we are
+That was no coincidence...<New>
+Could it be that we are
 approaching...<Delay 32>the
 'Time of the Gospel'...?)"<Close><End of Block>
 <TextBlock 20 w:42 h:3>

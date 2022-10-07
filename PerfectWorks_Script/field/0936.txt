@@ -92,11 +92,11 @@ Elly
 "But Fei...
 why are you
 with them?"<Close><End of Block>
-<TextBlock 21 w:48 h:3>
+<TextBlock 21 w:50 h:3>
 Fei
 "I'm cooperating with
 Bart and his crew.<New>
-We came to rescue Margie
+We came to rescue Margie,
 who was taken prisoner
 in the castle here."<Close><End of Block>
 <TextBlock 22 w:20 h:2>
@@ -128,7 +128,7 @@ Fei
 "..."<Close><End of Block>
 <TextBlock 27 w:54 h:3>
 Margie
-"Wait Bart!
+"Wait, Bart!
 She's not a bad person.<New>
 She said she'd help us,
 so let's go with her plan."<Close><End of Block>
@@ -148,7 +148,7 @@ is it, Elly?"<Close><End of Block>
 Bart
 "Oh yeah? Look where
 your ability to judge
-characters got you...!"<Close><End of Block>
+character got you...!"<Close><End of Block>
 <TextBlock 31 w:42 h:3>
 Bart
 "Fei, what about you?

@@ -106,7 +106,7 @@ Margie
 "I'm not worried."<Close><End of Block>
 <TextBlock 21 w:38 h:3>
 Bart
-"Hey Fei, how did
+"Hey, Fei, how did
 the Tournament go?"<Close><End of Block>
 <TextBlock 22 w:26 h:3>
 Fei

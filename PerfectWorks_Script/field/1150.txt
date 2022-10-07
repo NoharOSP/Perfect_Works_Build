@@ -12,10 +12,10 @@ to see you, Commander."<Close><End of Block>
 Ramsus
 "Hmph, what a
 dismal welcome."<Close><End of Block>
-<TextBlock 4 w:48 h:3>
+<TextBlock 4 w:46 h:3>
 Myyah
 "What do you expect?
-We're on the 'surface'."<Close><End of Block>
+We're on the surface."<Close><End of Block>
 <TextBlock 5 w:26 h:3>
 Ramsus
 "Myyah, let's

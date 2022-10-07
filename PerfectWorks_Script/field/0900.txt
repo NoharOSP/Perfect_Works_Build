@@ -75,7 +75,7 @@ old man from the dining
 hall is still alive?<Close><End of Block>
 <TextBlock 13 w:52 h:3>
 Congratulations on your
-return, your Highness.<New>
+return, Your Highness.<New>
 I knew this day would come
 and have been protecting
 the water reservoir.<New>
@@ -89,16 +89,16 @@ My only family is this
 stray cat.<Close><End of Block>
 <TextBlock 15 w:46 h:4>
 Kid, how many times
-must I tell you...hmm?<New>
+must I tell you<--><Delay 32> Hmm?<New>
 How many years has it
 been?<New>
 Well, haven't you grown
-up? Are you really the
+up. Are you really the
 child I used to play
 hide-and-seek with?<New>
 Is this some sort of
 joke...?
-Well, answer me!?<Close><End of Block>
+Well, answer me!<Close><End of Block>
 <TextBlock 16 w:50 h:4>
 Bart
 "What're you babblin'
@@ -116,14 +116,14 @@ The only people who I ever
 allowed to call me a rambler
 were my late mother and the
 young prince.<New>
-His Highness...
-what was his name?<Close><End of Block>
+His Highness<-->
+What was his name?<Close><End of Block>
 <TextBlock 18 w:44 h:3>
 Bart
-"You mean his Highness
-'Prince Bartholomew'."<Close><End of Block>
+"You mean His Highness
+Prince Bartholomew."<Close><End of Block>
 <TextBlock 19 w:50 h:3>
-Yes, his Highness Prince
+Yes, His Highness Prince
 Bartholomew! Boy, you
 certainly know a lot.<New>
 If Bartholomew was still
@@ -135,7 +135,7 @@ killed by that Shakhan?<New>
 You won't beat me,
 Shakhan. I'll protect
 Av's water till I die.<New>
-In rememberance of the
+In remembrance of the
 kindness of the king and
 the young prince.<Close><End of Block>
 <TextBlock 20 w:56 h:4>
@@ -159,7 +159,7 @@ I don't recall the king
 having any secret sons.<Close><End of Block>
 <TextBlock 23 w:48 h:4>
 Bart
-"Sorry but I don't have
+"Sorry, but I don't have
 time to explain. You'll
 remember. See ya!"<Close><End of Block>
 <TextBlock 24 w:32 h:1>
@@ -170,7 +170,7 @@ Highness Bartholomew?<Delay 50>
 It's been a long time.<New>
 You were still a child
 when your father, the
-King, passed away.<New>
+king, passed away.<New>
 How I miss those days.
 I am glad to see that
 you are still alive!<Close><End of Block>

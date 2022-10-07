@@ -5,12 +5,12 @@ talked that much.<New>
 He can handle women as
 well as they say."<Close><End of Block>
 <TextBlock 2 w:44 h:6>
-    Stop
+    Cancel
     East tower
     Entrance
-    Outer Bailey
-    Citadel, 3rd floor
-    Dining Hall<Close><End of Block>
+    Front courtyard
+    Citadel 3rd floor
+    Dining hall<Close><End of Block>
 <TextBlock 3 w:30 h:1>
 Is it alright?<Close><End of Block>
 <TextBlock 4 w:54 h:4>
@@ -42,14 +42,14 @@ We must find the other
 piece of the Fatima
 Jasper as quickly as
 we can."<Close><End of Block>
-<TextBlock 6 w:12 h:1>
-But...<Close><End of Block>
+<TextBlock 6 w:10 h:1>
+But<--><Close><End of Block>
 <TextBlock 7 w:54 h:4>
 Shakhan
 "However spineless the last
 commander, Vanderkaum,
 was...<New>
-...this time Geburah has
+this time Geburah has
 sent their highest
 commanding officer.<New>
 His country is throwing all

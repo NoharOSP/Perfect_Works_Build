@@ -7,16 +7,16 @@ Bart
 "Margie?"<Close><End of Block>
 <TextBlock 3 w:48 h:4>
 Ramsus
-(He looks...completely
+"(He looks...completely
 different... And there's
-zero reaction from him.)<New>
-(Is it just my
+zero reaction from him.<New>
+Is it just my
 imagination?
 But that technique
-was indeed his...)<New>
-(What's more...
-the name Fei....
-Where have I...?)<Close><End of Block>
+was indeed his...<New>
+What's more...
+the name Fei....<Delay 10>
+Where have I...?)"<Close><End of Block>
 <TextBlock 4 w:52 h:2>
 Fei...
 That is my child's name...<Close><End of Block>

@@ -7,18 +7,18 @@ fun later."<Close><End of Block>
 <TextBlock 3 w:54 h:4>
 Citan
 "Fei, what shall we do?"
-    Let the two of us go.
-    Go to the castle later.<Close><End of Block>
+    The two of us will go
+    Go to the castle later<Close><End of Block>
 <TextBlock 4 w:38 h:2>
 Bart
-"Okay, be careful."<Close><End of Block>
+"Okay. Be careful."<Close><End of Block>
 <TextBlock 5 w:12 h:2>
 Bart
 "Fei!"<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Bart
 "The castle's up ahead.
-If I go, it'll cause 
+If I go, it'll cause
 problems.<New>
 If you're going to go,
 the two of you should
@@ -34,13 +34,13 @@ Bart
 Don't talk to me!
 I just choked!<Close><End of Block>
 <TextBlock 10 w:40 h:2>
-Blue flames are 
+Blue flames are
 flames of the heart.<Close><End of Block>
 <TextBlock 11 w:34 h:2>
 Don't talk to me!
 I just choked!<Close><End of Block>
 <TextBlock 12 w:38 h:2>
-Red flames are 
+Red flames are
 flames of the body.<Close><End of Block>
 <TextBlock 13 w:32 h:3>
 You want to try?
@@ -48,7 +48,7 @@ You want to try?
     No thanks<Close><End of Block>
 <TextBlock 14 w:45 h:3>
 Hold down the <X> button
-while pushing the R2 
+while pushing the R2
 button.<Close><End of Block>
 <TextBlock 15 w:12 h:1>
 Yes...<Close><End of Block>
@@ -74,19 +74,19 @@ earth and fled to the sky.<Close><End of Block>
 <TextBlock 20 w:48 h:3>
 ...Giants driven from
 the heavens brought fire
-on the earth...<Close><End of Block>
+upon the earth...<Close><End of Block>
 <TextBlock 21 w:58 h:5>
 Yes, that is the country of
 the great ancients.
-They came from a star farther
-than heaven and created us.<New>
+They came from a star beyond
+the heavens and created us.<New>
 They ruled this land as gods.
-But, man gained knowledge and
+But man gained knowledge and
 strife erupted everywhere.<New>
 The ruins are proof of those
 struggles. The descendants of
 the gods fled this land of
-conflict making their place
+conflict, making their place
 in the sky.<New>
 It was a peaceful place, with
 a civilization far more
@@ -102,10 +102,10 @@ to rule over the earth again.
 The time is near.<New>
 God's army will appear out of
 nowhere. Haven't you heard?
-Don't defy them, you can't
+Don't defy them <--> you can't
 win.<New>
 They will make a paradise
-on earth again. 
+on earth again.
 That's what my research
 has shown about the Sky
 People and the saucer.<Close><End of Block>
@@ -114,16 +114,16 @@ People and the saucer.<Close><End of Block>
 live looking down.
 ...<Delay 30>Pitiful.<New>
 The day of judgement
-is near you know!?<Close><End of Block>
+is near, you know!<Close><End of Block>
 <TextBlock 23 w:50 h:3>
 !<Delay 60>
-...HUH!...<Delay 30>
+...HUH...!<Delay 30>
 Hmph, you can't fool me.<New>
 Look people in the eye
 and say what's on your
 mind. I am a pro at that.<Close><End of Block>
 <TextBlock 24 w:50 h:4>
-Inside the tent is a 
+Inside the tent is a
 whole other world...<Delay 50>
 My heart is a balloon...
 flying up into the sky...<Opcode 2 50><Close><End of Block>
@@ -145,7 +145,7 @@ That's a nice red
 balloon you got there.<Close><End of Block>
 <TextBlock 29 w:40 h:3>
 The guy in front of
-that tent is giving 
+that tent is giving
 out balloons.<Close><End of Block>
 <TextBlock 30 w:46 h:4>
 I feel so happy.
@@ -161,28 +161,28 @@ is playing too.<Close><End of Block>
 <TextBlock 32 w:60 h:4>
 It's great that dad came back,
 but he's always telling me...
-"Do your chores!
-Do your homework!".<New>
+'Do your chores!
+Do your homework!'<New>
 I have to play as much as I
 can on festival days.<Close><End of Block>
 <TextBlock 33 w:40 h:5>
-Hic!
+*Hic*!
 Drinkin' Bartweiser
 in broad daylight...
 Thash my favorite
 part of feshtivals!<Close><End of Block>
 <TextBlock 34 w:46 h:3>
-...hic...
+...*Hic*...
 It's been a while since
 I last drank outside.<Close><End of Block>
 <TextBlock 35 w:26 h:2>
 You shouldn't
 spoil kids.<Close><End of Block>
 <TextBlock 36 w:36 h:2>
-Hey daddy, buy me
+Hey Daddy, buy me
 one of those toys.<Close><End of Block>
 <TextBlock 37 w:48 h:4>
-No, nope.
+No, no.
 Wait till the Tournament
 is over. I'll buy you
 something better then.<Close><End of Block>
@@ -230,7 +230,7 @@ That's it!<Delay 30>
 As thanks I'll tell
 you a secret.<New>
 I heard this from my
-grandpa...you know that
+grandpa. You know that
 restaurant in town with
 the fish tank?<New>
 And that treasure box in
@@ -241,10 +241,10 @@ Here's the best part...<Delay 30>
 There's a secret entrance
 to it through the
 underground waterways!<New>
-This is TOP secret, OK?
+This is TOP secret, okay?
 And you're the only one
 I've told...<Delay 30>
-...really, thank you.<Close><End of Block>
+...Really, thank you.<Close><End of Block>
 <TextBlock 49 w:52 h:5>
 <Opcode 1 255>They're toys. They're fun.
 Which do you want?
@@ -309,14 +309,14 @@ You have too many
 That'll be 20G.<Close><End of Block>
 <TextBlock 70 w:44 h:2>
 Fei
-"Wow! That's h,h,hot!"<Opcode 2 50><Close><End of Block>
+"Wow! That's h-h-hot!"<Opcode 2 50><Close><End of Block>
 <TextBlock 71 w:46 h:1>
 Gained a little weight.<Close><End of Block>
 <TextBlock 72 w:30 h:1>
 That'll be 30G.<Close><End of Block>
 <TextBlock 73 w:44 h:2>
 Fei
-"Brrr, it's c,c,cold."<Opcode 2 50><Close><End of Block>
+"Brrr, it's c-c-cold."<Opcode 2 50><Close><End of Block>
 <TextBlock 74 w:52 h:1>
 You hate steamed cakes...?<Close><End of Block>
 <TextBlock 75 w:34 h:1>
@@ -326,9 +326,9 @@ Lost a little weight.<Close><End of Block>
 <TextBlock 77 w:48 h:4>
 <Opcode 14 1>Ohmm, <Delay 30>I'm a fortune 
 teller.<Delay 30>
-My specialty is finding 
+My specialty is finding
 things.<New>
-I delve into your 
+I delve into your
 subconscious to search.
 Ohmm,<Delay 30> 1 try is 50G.<Close><End of Block>
 <TextBlock 78 w:40 h:3>
@@ -347,14 +347,14 @@ I have delved.<Close><End of Block>
 <TextBlock 83 w:44 h:4>
 Ohmm<Delay 30>...a small girl...<Delay 50>
 locked away...<Delay 50>
-...in a high tower 
+...in a high tower
 to the north...<Close><End of Block>
 <TextBlock 84 w:46 h:4>
 Ohmm,<Delay 30>two points of
 a triangle...<Delay 50>
 ...a huge puzzle hidden
 in the center...<New>
-one point is south 
+one point is south
 by southwest...<Delay 50>
 one more is in the
 south sea...<Close><End of Block>
@@ -364,21 +364,20 @@ Well if it isn't Fei!<Close><End of Block>
 <TextBlock 86 w:6 h:1>
 !! <Opcode 2 30><Close><End of Block>
 <TextBlock 87 w:52 h:5>
-It's me. <New>
-Moulten from the Laughing 
-Pig Pub. <Delay 30>You'd never
-know it from the way I 
-look now though...
+It's me, Morten from the
+Laughing Pig Pub. <Delay 30>You'd
+never know it from the way
+I look now, though...
 Ha ha ha ha.<New>
-So how's my wife and 
+So how's my wife and
 daughter doing back in
 the village?<Close><End of Block>
-<TextBlock 88 w:32 h:1>
-...Ahh, <Delay 30>...um...<Opcode 2 50><Close><End of Block>
+<TextBlock 88 w:30 h:1>
+...Ahh<Delay 30>... Um...<Opcode 2 50><Close><End of Block>
 <TextBlock 89 w:52 h:4>
 Of course, they're fine.
-That's the only thing 
-they do well.
+I guess doing well is our
+sole family trait.
 Ha ha ha ha.<New>
 I want to return soon
 but I still don't have
@@ -403,8 +402,8 @@ Ha ha ha.<Close><End of Block>
 <TextBlock 90 w:42 h:3>
 ...If I don't go soon
 the boss'll get mad. <Delay 60>
-Well, see you Fei.<New>
-Say 'hi' to my wife
+Well, see you, Fei.<New>
+Say hi to my wife
 and daughter for me.<Close><End of Block>
 <TextBlock 91 w:6 h:1>
 ...<Opcode 2 30><Close><End of Block>
@@ -416,16 +415,16 @@ How do you like Breidablik?
 <TextBlock 93 w:38 h:2>
 Well, great.
 Enjoy the festival.<Close><End of Block>
-<TextBlock 94 w:48 h:3>
+<TextBlock 94 w:50 h:3>
 Oh...
 That's because the war's
 put everyone on edge.<New>
-Breidablik's a really nice
-place in peace time.<Close><End of Block>
+Breidablik's a really
+nice place in peace time.<Close><End of Block>
 <TextBlock 95 w:46 h:2>
 This festival is really
 great. Peace is good.<Close><End of Block>
 <TextBlock 96 w:50 h:3>
-Be careful. There are 
-lots of strange shops at 
+Be careful. There are
+lots of strange shops at
 the festival.<Close><Close><End of Block>

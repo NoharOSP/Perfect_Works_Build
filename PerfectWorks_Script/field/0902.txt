@@ -12,7 +12,7 @@ that to impress me.<Close><End of Block>
 <TextBlock 4 w:48 h:3>
 Aren't you nervous?
 I've had to pee a couple
-times already.<New>
+of times already.<New>
 I have to go again...<Delay 50>
 ...again.<Close><End of Block>
 <TextBlock 5 w:28 h:3>
@@ -26,7 +26,7 @@ Do you know my name?
 <TextBlock 7 w:34 h:3>
 That's right...
 I am the one and
-only...'Big Joe'!<Close><End of Block>
+only...Big Joe!<Close><End of Block>
 <TextBlock 8 w:34 h:3>
 What, you don't
 remember? I am...<Delay 50>
@@ -40,7 +40,7 @@ Big Joe
 Do you know the
 secret of strength? <New>
 It's...<Delay 30>
-Gratitude to all your
+gratitude to all your
 fans. Their love gives
 me strength."<Close><End of Block>
 <TextBlock 10 w:48 h:4>

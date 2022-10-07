@@ -477,9 +477,10 @@ to stay with us and help us
 out on our rescue mission!"<Close><End of Block>
 <TextBlock 86 w:50 h:4>
 Bart
-"Hey, alright, alright.<Delay 10>
-Let me say goodbye to the
-old women before we go."<Close><End of Block>
+"Hey, alright, alright.<New>
+Let me say my goodbyes to
+the old women before we
+go."<Close><End of Block>
 <TextBlock 87 w:62 h:3>
 <Opcode 1 255>Go up to the residential area?
     Go up

@@ -6,9 +6,9 @@ Bart
 Leaving a strange stuffed
 animal in a place like
 this!<Delay 10> Because of this, we
-can't get into the bridge."<Close><End of Block>
+can't get onto the bridge."<Close><End of Block>
 <TextBlock 3 w:34 h:1>
-<Opcode 1 255>It's not strange!<Opcode 2 15><Close><End of Block>
+<Opcode 1 255>It's not strange!<Opcode 2 20><Close><End of Block>
 <TextBlock 4 w:36 h:4>
 Bart
 "Hey, Fei!!<Delay 10>
@@ -40,8 +40,8 @@ while in motion.
 <TextBlock 10 w:44 h:4>
 Elly
 "They can't launch the
-Yggdrasil cause Sigurd
-isn't there...<New>
+Yggdrasil because
+Sigurd isn't there...<New>
 He must be in the Gun
 Room or somewhere."<Close><End of Block>
 <TextBlock 11 w:0 h:1>

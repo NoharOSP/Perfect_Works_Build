@@ -1,9 +1,9 @@
 <TextBlock 1 w:44 h:3>
 Citan
 "Good work. Get plenty
-of rest for tomorrow."<Close><End of Block>
+of rest for tomorrow.<Close><End of Block>
 <TextBlock 2 w:34 h:3>
-Going out again?
+Going out again?"
     Yes
     Get some rest<Close><End of Block>
 <TextBlock 3 w:38 h:4>
@@ -28,7 +28,7 @@ Operation 'Rescue Margie'
 is now underway!"<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 Citan
-"First Fei and I will
+"First, Fei and I will
 prepare for the Tournament
 at the arena.<New>
 When the Tournament starts,
@@ -44,12 +44,12 @@ there, so please dispose
 of them quietly.<New>
 We will make a good show
 at the Tournament to draw
-the guards' attention as
-long as possible.<New>
+the guards' attention for
+as long as possible.<New>
 During that time, you can
-rescue Margie."<Close><End of Block>
+rescue Margie.<Close><End of Block>
 <TextBlock 8 w:42 h:3>
-Any questions?
+Any questions?"
     Got it
     Once more, please<Close><End of Block>
 <TextBlock 9 w:46 h:3>
@@ -62,19 +62,19 @@ Bart
 you gotta win!"<Close><End of Block>
 <TextBlock 11 w:50 h:4>
 Bart
-"Well, I'm all ready so
+"Well, I'm all ready, so
 I'm gonna get some sleep.
-Man, I'm beat."<Close><End of Block>
+Man, I'm beat.<Close><End of Block>
 <TextBlock 12 w:34 h:4>
 More sightseeing
-in Av?
+in Av?"
     Yes
     Rest<Close><End of Block>
 <TextBlock 13 w:46 h:3>
 Bart
 "Really?<New>
-If we succeed tomorrow
-I won't be  comin' back
+If we succeed tomorrow,
+I won't be comin' back
 here for a while."<Close><End of Block>
 <TextBlock 14 w:48 h:3>
 Bart
@@ -84,13 +84,13 @@ tough for both of us."<Close><End of Block>
 Bart
 "Did you register for
 the Tournament? What?<New>
-Not yet! Go hurry and
+Not yet? Hurry and go
 sign up."<Close><End of Block>
 <TextBlock 16 w:42 h:4>
 Bart
 "It's about to start!
 I guess I better go
-get ready too."<Close><End of Block>
+get ready, too."<Close><End of Block>
 <TextBlock 17 w:38 h:2>
 Is this plan really
 going to work?<Close><End of Block>
@@ -100,12 +100,12 @@ Bart
 If something's wrong now,
 then that's tough!<New>
 What're you worried about?
-Fei'll do okay.
-Besides Citan's with him,
+Fei'll do fine.
+Besides, Citan's with him,
 too.<New>
 Now, all I gotta do is
 sneak into the castle
-through the well.
+via the well.
 No problem."<Close><End of Block>
 <TextBlock 19 w:20 h:1>
 I pray so.<Close><End of Block>
@@ -115,7 +115,7 @@ Bart
 Margie's waiting
 in the citadel."<Close><End of Block>
 <TextBlock 21 w:34 h:3>
-Well then...
+Well, then...
 do be careful.<New>
 And thank you for
 helping Mother
@@ -124,7 +124,7 @@ Marguerite.<Close><End of Block>
 Bart
 "No sweat!
 You'd better get
-outta Av now too.<New>
+outta Av now, too.<New>
 Things are gonna get
 outta hand soon."<Close><End of Block>
 <TextBlock 23 w:20 h:1>
@@ -161,26 +161,25 @@ in this desert heat.
 I am a servant of the
 Nisan Sect.<New>
 Ever since Shakhan took
-Mother Marguerite I've
+Mother Marguerite, I've
 been looking into ways
 to get her back.<New>
 I've been trying to find
 out where she is being
-held.<New>
-I've been busy listening
-to workers talk about
-the comings and goings
-from the castle...<New>
-And giving food to the
+held,<New>
+listening to workers
+talk about the comings
+and goings at the castle,<New>
+and giving food to the
 guards who are preparing
-for the Tournament to
+for the Tournament, to
 loosen their lips too.<New>
-Finally yesterday, I got
+Yesterday, I finally got
 some information...
 Margie's in the citadel.<New>
 The problem is how to
 slip into the castle...<New>
-I thought about it a lot
+I thought about it a lot,
 but it looks pretty bleak.
 I'm sorry.<Close><End of Block>
 <TextBlock 32 w:50 h:3>
@@ -250,8 +249,8 @@ sneak into the other rooms
 of the castle from there."<Close><End of Block>
 <TextBlock 43 w:50 h:4>
 Citan
-"A good idea, except I
-have one more suggestion.<New>
+"A good idea, but I have
+one further suggestion.<New>
 There is a festival going
 on now. There must be a
 way we can use it to our
@@ -262,16 +261,16 @@ advantage."<Close><End of Block>
 North of town is a
 plaza. The castle is
 beyond that.<New>
-I'm sure we'll find
+I'm sure you'll find
 something there.<Close><End of Block>
 <TextBlock 46 w:52 h:4>
 Citan
 "Tomorrow is the
 Tournament. There will
 be betting at the arena.<New>
-Surely, the soldiers'
-minds will be more on the
-Tournament than their job.<New>
+Surely the soldiers' minds
+will be on the Tournament
+more than on their job.<New>
 We must use this to our
 advantage."<Close><End of Block>
 <TextBlock 47 w:34 h:1>
@@ -311,9 +310,9 @@ Citan
 Fei already registered."<Close><End of Block>
 <TextBlock 54 w:50 h:4>
 Citan
-"Even if using that as a
-ploy, how will you really
-get into the castle?"<Close><End of Block>
+"Even if using that ploy,
+how will you actually get
+into the castle?"<Close><End of Block>
 <TextBlock 55 w:52 h:4>
 Bart
 "...We gotta get more
@@ -327,7 +326,7 @@ we will meet back here and
 plan our strategy."<Close><End of Block>
 <TextBlock 57 w:52 h:4>
 Citan
-"Tomorrow Fei will be in
+"Tomorrow, Fei will be in
 the Tournament at Fatima
 Castle.<New>
 We will put on a good show
@@ -342,7 +341,7 @@ also help work the crowd
 and secure our escape."<Close><End of Block>
 <TextBlock 58 w:50 h:4>
 Citan
-"Well then...<New>
+"Well, then...<New>
 Fei is in the Tournament.
 He will draw the guards'
 attention.<New>
@@ -369,8 +368,8 @@ and fast!"<Close><End of Block>
 Citan
 "Preparations for our
 plan are complete.<New>
-Tonight we will stay in
-the hotel and start out
+We will stay in the hotel
+for tonight and start out
 tomorrow.<New>
 We are free to do what we
 like for now.
@@ -380,9 +379,9 @@ the town."<Close><End of Block>
 Citan
 "Now to register for
 the Tournament.<New>
-Fei, pretend you are
-looking around and
-head for the castle."<Close><End of Block>
+Fei, make for the
+castle while touring
+the town."<Close><End of Block>
 <TextBlock 63 w:46 h:1>
 Sorry I can't help you.<Close><End of Block>
 <TextBlock 64 w:40 h:3>

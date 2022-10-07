@@ -27,7 +27,7 @@ stand here chatting.
 Shall we use a room?"<Close><End of Block>
 <TextBlock 7 w:42 h:3>
 You must be tired.
-I'll be in my room,
+I'll be in my room <-->
 please come by later.<Close><End of Block>
 <TextBlock 8 w:42 h:1>
 That's my room there.<Close><End of Block>
@@ -40,14 +40,14 @@ But watching mom work
 like this, it makes me
 think I might want to
 again.<Close><End of Block>
-<TextBlock 10 w:38 h:3>
+<TextBlock 10 w:34 h:3>
 Citan
 "Let us hurry to
-the meeting place."<Close><End of Block>
-<TextBlock 11 w:56 h:3>
-I'm sorry, we're full today.<Delay 60>
-If you can wait till evening
-I'll have something then...<Close><End of Block>
+the arena."<Close><End of Block>
+<TextBlock 11 w:52 h:3>
+I'm afraid we're full for
+tonight.<Delay 60> But I could rent
+you a room until evening.<Close><End of Block>
 <TextBlock 12 w:16 h:1>
 Welcome.<Close><End of Block>
 <TextBlock 13 w:40 h:4>
@@ -56,7 +56,7 @@ I'll mark it down to
     Thanks
     No way<Close><End of Block>
 <TextBlock 14 w:54 h:4>
-How about 50G a person?
+How about 50G per person?
     Okay
     No way
     I have a recommendation<Close><End of Block>
@@ -65,7 +65,7 @@ How about 50G per person?
     Okay
     No way<Close><End of Block>
 <TextBlock 16 w:32 h:4>
-Whose sent you?
+Who sent you?
     Ari
     Shiffer
     I don't know<Close><End of Block>
@@ -79,9 +79,9 @@ I don't know her!
 50G per person.
     Okay
     No way<Close><End of Block>
-<TextBlock 19 w:56 h:2>
-That's <Opcode 10 1> people,
-it'll be <Opcode 10 0>G.<Close><End of Block>
+<TextBlock 19 w:36 h:2>
+Alright,
+that'll be <Opcode 10 0>G.<Close><End of Block>
 <TextBlock 20 w:30 h:2>
 You don't have
 enough money.<Close><End of Block>

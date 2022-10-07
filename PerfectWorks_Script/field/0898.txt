@@ -13,10 +13,10 @@ what will happen to
 those working for
 Shakhan?<Close><End of Block>
 <TextBlock 3 w:50 h:4>
-Well if it isn't his
-Highness, Bartholomew!?
+Well if it isn't His
+Highness, Bartholomew!
 It has been a long time.<New>
-Are you well your 
+Are you well, Your 
 Highness?<Close><End of Block>
 <TextBlock 4 w:44 h:4>
 My family has served

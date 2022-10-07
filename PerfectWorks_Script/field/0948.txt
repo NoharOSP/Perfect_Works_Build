@@ -119,7 +119,7 @@ and already you have
 embarrassed me!"<Close><End of Block>
 <TextBlock 22 w:52 h:4>
 Vanderkaum
-"I am sorry Commander.
+"I am sorry, Commander.
 They were more persistent
 than we anticipated.<New>
 They had a new model Gear
@@ -137,8 +137,8 @@ big gun, and on whom!<New>
 You failed because you
 try to solve everything
 with force.<New>
-You have muscles instead
-of brains."<Close><End of Block>
+You are all muscle and
+no brains."<Close><End of Block>
 <TextBlock 24 w:26 h:2>
 Vanderkaum
 "Commander!!"<Close><End of Block>

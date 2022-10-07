@@ -1,11 +1,10 @@
 <TextBlock 1 w:46 h:4>
 Shakhan
 "There is a customary
-Tournament after the
-dedication ceremony..."<Close><End of Block>
-<TextBlock 2 w:48 h:3>
+Tournament afterward<-->"<Close><End of Block>
+<TextBlock 2 w:46 h:3>
 Ramsus
-"What about the incident
+"What about the matter
 in that report?"<Close><End of Block>
 <TextBlock 3 w:54 h:4>
 Shakhan
@@ -23,7 +22,7 @@ Ramsus
 "Toys like that should
 be given to Vanderkaum.<New>
 I'm talking about the
-'Fatima Jasper'."<Close><End of Block>
+Fatima Jasper."<Close><End of Block>
 <TextBlock 5 w:48 h:3>
 Shakhan
 "I already have obtained
@@ -55,30 +54,28 @@ east tower."<Close><End of Block>
 Ramsus
 "Myyah, could
 it possibly be
-a Vessel?"<Close><End of Block>
+a 'Vessel'?"<Close><End of Block>
 <TextBlock 11 w:54 h:4>
 Myyah
 "Yes. But there is still no
 response.<New>
-
-There seems to be
-a barrier or something of
-the same purpose.<New>
+There seems to be some kind
+of strong barrier.<New>
 However, we do know from
 the 500-year-old records
 that one certainly exists
 in this vicinity.<New>
 It's probably well
-preserved too."<Close><End of Block>
+preserved, too."<Close><End of Block>
 <TextBlock 12 w:42 h:3>
 Ramsus
 "...Let's meet her.<New>
 I want to talk to her
 directly. Myyah, you
 come with me."<Close><End of Block>
-<TextBlock 13 w:20 h:2>
+<TextBlock 13 w:22 h:2>
 Myyah
-"Yes sir."<Close><End of Block>
+"Yes, sir."<Close><End of Block>
 <TextBlock 14 w:42 h:4>
 Grahf
 "I believe I already
@@ -113,6 +110,6 @@ Or for him?
 <TextBlock 19 w:46 h:3>
 Margie
 "No! I don't want to go
-back up there"<Close><End of Block>
+back up there."<Close><End of Block>
 <TextBlock 20 w:24 h:1>
 No response.<Close><Close><End of Block>

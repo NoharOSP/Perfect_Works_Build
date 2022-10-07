@@ -5,7 +5,7 @@ Spectators
 "C'mon, fight properly!!"<Close><End of Block>
 <TextBlock 2 w:52 h:5>
 Spectators
-"...*grumble grumble*..."<New>
+"...*grumble, grumble*..."<New>
 Referee
 "...<Delay 30>Uhh,<Delay 45> ahem.<Delay 30>
 It appears that
@@ -32,7 +32,7 @@ Fei
 Fei
 "Who cares where...?
 Come on, now...
-Put up a serious fight!"<Close><End of Block>
+put up a serious fight!"<Close><End of Block>
 <TextBlock 7 w:28 h:3>
 Fei
 "What do you
@@ -45,8 +45,8 @@ of your business!"<Close><End of Block>
 <TextBlock 9 w:48 h:4>
 Fei
 "Would you shut up!
-I'm in the middle of
-finding my purpose!"<Close><End of Block>
+I'm working on finding
+my purpose!"<Close><End of Block>
 <TextBlock 10 w:16 h:2>
 Fei
 "What!?"<Close><End of Block>
@@ -74,7 +74,7 @@ who I think you are!?"<Close><End of Block>
 Fei
 "!! Wait!
 I want to
-ask you...!"<Close><End of Block>
+ask you<-->!"<Close><End of Block>
 <TextBlock 15 w:24 h:2>
 Fei
 "Wiseman..."<Close><End of Block>
@@ -96,11 +96,11 @@ of others?"<Close><End of Block>
 <TextBlock 19 w:46 h:4>
 Wiseman
 "Doesn't there have to
-be a reason or a goal,
+be a reason or a goal
 for a person to fight?"<Close><End of Block>
 <TextBlock 20 w:32 h:4>
 Wiseman
-"So, you are you
+"So, you are
 fighting for no
 reason or goal?"<Close><End of Block>
 <TextBlock 21 w:42 h:4>
@@ -131,7 +131,7 @@ even graze me with those
 kinds of attacks...<New>
 But superficially, at
 least, it seems you've
-matured physically."<Close><End of Block>
+physically matured."<Close><End of Block>
 <TextBlock 25 w:42 h:4>
 Wiseman
 "You've done well in

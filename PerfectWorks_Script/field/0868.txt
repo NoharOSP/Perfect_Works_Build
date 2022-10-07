@@ -37,12 +37,12 @@ Fei
 <TextBlock 7 w:54 h:4>
 Citan
 "While you draw the guards'
-attention the young one can
-sneak into the castle.<New>
+attention, the young one
+can sneak into the castle.<New>
 Surely you see that it is
 the only way we will get
 in?<Delay 100> Right...
-Let us go sign you up."<Close><End of Block>
+let us go sign you up."<Close><End of Block>
 <TextBlock 8 w:44 h:4>
 Citan
 "And Fei, do not use
@@ -51,35 +51,36 @@ another suitable one."<Close><End of Block>
 <TextBlock 9 w:54 h:34>
 ...Brave young men are
 spilling their blood on
-the front lines. Our army<New>
-is the best, but the tides
-of war are uncertain.<New>
+the front lines.<New>
+Our army is the best, but
+the tides of war are
+uncertain.<New>
 To protect the tradition
 of Av and preserve peace
 in this desert, we must all
-have unshaking resolve. <Delay 30><New>
+have unshaking resolve.<New>
 The desert is a precious
 treasure passed down to us
-from our ancestors. Here we
-can forge our minds and<New>
-bodies into one.
+from our ancestors.<New>
+Here we can forge our minds
+and bodies into one.
 Our teachers are the sun 
 and wind.<Delay 30><New>
 We are gathered here today,
 with our strong bodies
-forged by the desert. <Delay 30><New>
+forged by the desert.<New>
 The sun above us is the
 same as that which burns
 over our fathers at the
-front. The wind blowing<New>
-here is the same as that
-which whisks our resolve
-and prayers to our sons at
-the front.<Delay 30><New>
+front.<New>
+The wind blowing here is
+the very wind that whisks
+our resolve and prayers to
+our sons at the front.<New>
 This Tournament raises our
 spirits and renews our
 blessings from this desert
-we live in.<Delay 30><New>
+we live in.<New>
 Brave ones, warriors, fight
 well and do not shame our
 brothers at the front."<Close><End of Block>
@@ -153,21 +154,21 @@ Good luck tomorrow.<Close><End of Block>
 This is the Tournament
 Registration Booth.
     Enter the Tournament
-    No thanks<Close><End of Block>
+    Don't enter<Close><End of Block>
 <TextBlock 24 w:40 h:1>
 Please sign in here.<Close><End of Block>
 <TextBlock 25 w:42 h:4>
 You are signed up.
 The Tournament begins
 tomorrow. Please make
-sure you are here.<Close><End of Block>
+sure to be here.<Close><End of Block>
 <TextBlock 26 w:44 h:3>
 Registration will end
 today. If you have the
 courage, come again.<Close><End of Block>
 <TextBlock 27 w:46 h:3>
 Arena seats are 500G.<Delay 50>
-Participant's excepted.
+Participants excepted.
 Please pass through.<Close><End of Block>
 <TextBlock 28 w:42 h:2>
 You're the Dragon-
@@ -241,7 +242,7 @@ begin. Please wait.<Close><End of Block>
 <TextBlock 49 w:62 h:3>
 Only participants are allowed
 in here. Your friend will have
-to sit in the spectator's area.<Close><End of Block>
+to sit in the spectators' area.<Close><End of Block>
 <TextBlock 50 w:40 h:2>
 Participant?
 Okay, go on through.<Close><End of Block>
@@ -456,11 +457,12 @@ guessing who'll win. So,
 wanna give it a try?<Close><End of Block>
 <TextBlock 93 w:52 h:4>
 Citan
-"Betting on the Tournament
-...Is that allowed at such
-a grand event"<Close><End of Block>
+"Betting on the
+Tournament...<New>
+Is that allowed at such a
+prestigious event?"<Close><End of Block>
 <TextBlock 94 w:48 h:4>
-You bet. The soldiers
+For sure. The soldiers
 are crazy about it. If
 Kislev attacked tomorrow
 Av would be dust.<New>
