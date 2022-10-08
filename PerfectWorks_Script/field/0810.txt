@@ -695,7 +695,7 @@ away...<Delay 90>
 Damn! Damn that Shakhan!<Close><End of Block>
 <TextBlock 165 w:46 h:3>
 Bart
-"Don't get mad, gramps.
+"Don't get mad, Gramps.
 It's a joke. A joke.<New>
 Look at me. Do I look
 like a thief to you?"<Close><End of Block>
@@ -721,7 +721,7 @@ in the castle.<New>
 That's why I gotta sneak
 in through the waterway.
 So help me out here,
-gramps."<Close><End of Block>
+Gramps."<Close><End of Block>
 <TextBlock 170 w:20 h:1>
 Of course!<Close><End of Block>
 <TextBlock 171 w:36 h:1>

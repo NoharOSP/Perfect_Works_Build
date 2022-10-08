@@ -8,10 +8,10 @@ Citan
 First of all, we should
 accompany Marguerite up
 to meet the sisters!"<Close><End of Block>
-<TextBlock 3 w:46 h:3>
+<TextBlock 3 w:42 h:3>
 Bart
-"...Huh?<Delay 30>
-What is it old Maison?"<Close><End of Block>
+"...Huh?<Delay 30> What is it,
+old Maison?"<Close><End of Block>
 <TextBlock 4 w:50 h:3>
 Maison
 "*Sniff*...
@@ -41,7 +41,7 @@ Please, young master,
 go ahead and escort
 Miss Marguerite up to
 see the sisters.<New>
-...Excuse me now."<Close><End of Block>
+...Excuse me, now."<Close><End of Block>
 <TextBlock 8 w:48 h:4>
 Bart
 "Please, don't either of

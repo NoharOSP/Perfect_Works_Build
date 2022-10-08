@@ -203,10 +203,10 @@ But when I get closer, the
 voices disappear.<Delay 10> I'm sure
 they are lonely,<Delay 10> too.<Close><End of Block>
 <TextBlock 39 w:44 h:4>
-Maitreya admired your
-dive technique.<Delay 10>
-I hear your zoom
-technique is flawless.<New>
+Maitreya spoke highly
+of you <--><Delay 10> I heard your
+dives and zooms are
+flawless.<New>
 Do you think you
 can train me on
 my next watch?<Close><End of Block>
@@ -219,15 +219,15 @@ That Gear with the
 slender build withstood
 <Brigandier>'s whip?<New>
 What kind of armor did
-they use to cover it?<Close><End of Block>
+they cover it with?<Close><End of Block>
 <TextBlock 42 w:62 h:4>
 Hey? Did you see this month's
-edition of "Gear Fan Magazine"?<Delay 10>
-They say, 'Hovering' is all
-the rage right now'!<New>
-Until a while back, it used
-to be special equipment that
-only the young master had
-equipped on his Gear!<Close><End of Block>
+edition of Gear Fan magazine?<Delay 10>
+It says 'hovering is all the
+rage right now'!<New>
+Until a while back, that took
+special equipment that only the
+young master had equipped on
+his Gear!<Close><End of Block>
 <TextBlock 43 w:0 h:1>
 <Close><End of Block>

@@ -3,7 +3,7 @@ World Map<Close><End of Block>
 <TextBlock 2 w:28 h:1>
 South Breidablik<Close><End of Block>
 <TextBlock 3 w:34 h:1>
-- Under Martial Law -<Close><End of Block>
+- Under martial law -<Close><End of Block>
 <TextBlock 4 w:28 h:1>
 North Breidablik<Close><End of Block>
 <TextBlock 5 w:40 h:1>

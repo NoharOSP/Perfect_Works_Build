@@ -99,7 +99,7 @@ embarrassing me!"<Close><End of Block>
 Sigurd
 "I'll complete the
 remaining checks
-onboard.<New>
+on board.<New>
 I'll leave the
 rest up to you,
 Maison."<Close><End of Block>
@@ -110,16 +110,16 @@ I will have the honor of
 accompanying the others."<Close><End of Block>
 <TextBlock 20 w:40 h:2>
 Bartholomew, healthy
-as ever I hope?<Close><End of Block>
+as ever, I hope?<Close><End of Block>
 <TextBlock 21 w:32 h:3>
 Bart
-"Yeah.
+"Yep!
 How's the town?"<Close><End of Block>
 <TextBlock 22 w:50 h:6>
 Since we got word several
 days ago that there might
 be an army advancing from
-the Royal Capital the
+the Royal Capital, the
 Sect's representatives
 have been in discussion.<Close><End of Block>
 <TextBlock 23 w:30 h:3>

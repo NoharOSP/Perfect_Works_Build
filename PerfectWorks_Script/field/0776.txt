@@ -1,6 +1,6 @@
-<TextBlock 1 w:34 h:2>
+<TextBlock 1 w:32 h:2>
 Bart
-"Hello, grandma."<Close><End of Block>
+"Hello, Grams."<Close><End of Block>
 <TextBlock 2 w:50 h:3>
 Bartholomew, I heard from
 my husband.<Delay 30> Things were
@@ -8,17 +8,17 @@ pretty tough for you!<New>
 Oh...<Delay 30>
 just thinking about...
 Shakhan gets my goat!<New>
-You get him Bartholomew!<Close><End of Block>
+You get him, Bartholomew!<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Not too many people are
 returning to town.<Delay 30>
 So business is a little...<New>
-But, <Delay 30>that must mean the
+But <Delay 30>that must mean the
 atmosphere is changing for
 the better everywhere in
 the country.<New>
-Not like before, <Delay 30>
-where people were taking
+Not like before,<Delay 30>
+when people were taking
 refuge here.<New>
 Well if you think about
 it that way...<Delay 30>
@@ -95,13 +95,14 @@ This isn't a
 tourist attraction?<Delay 30>
 I guess not.<Close><End of Block>
 <TextBlock 21 w:50 h:3>
-Sigh... That guy there...<New>
+*Sigh*...
+That guy there...<New>
 Once in a while we get
 those ignorant types
 coming to our town.<Close><End of Block>
 <TextBlock 22 w:46 h:3>
 They have no idea about
-what kind of situation
+the kind of situation
 we're all in.<Close><End of Block>
 <TextBlock 23 w:46 h:4>
 I hate them...
@@ -119,7 +120,7 @@ I'm here to buy supplies.<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 I came here in the hopes
 of finding some souvenirs.<New>
-In the off chance that
+On the off chance that
 there is some military
 clash, I'll hold out and
 defend this place.<New>
@@ -131,12 +132,12 @@ and start a new job.<Close><End of Block>
 <TextBlock 26 w:38 h:2>
 Hey, aren't you the
 young master?<Close><End of Block>
-<TextBlock 27 w:16 h:1>
-Hey you!<Close><End of Block>
+<TextBlock 27 w:8 h:1>
+Hey!<Close><End of Block>
 <TextBlock 28 w:8 h:1>
 Huh?<Close><End of Block>
 <TextBlock 29 w:8 h:1>
-Huh!<Close><End of Block>
+Huh?<Close><End of Block>
 <TextBlock 30 w:38 h:1>
 It's Bartholomew!<New>
 Are you doing well?<Close><End of Block>

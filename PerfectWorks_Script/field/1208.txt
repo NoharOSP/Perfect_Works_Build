@@ -16,7 +16,7 @@ Margie
 "Her name is <Chu-Chu>!"<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Margie
-"But, that's weird.<Delay 10>
+"But that's weird.<Delay 10>
 It was just here, where I
 put it, a moment ago..."<Close><End of Block>
 <TextBlock 5 w:50 h:4>
@@ -48,14 +48,14 @@ Fei
 Bart
 "It's alright.
 I, as the captain, give
-you my permission!"<Close><End of Block>
+you my blessing!"<Close><End of Block>
 <TextBlock 12 w:26 h:2>
 <Chu-Chu>
 "Yeah, yeah!"<Close><End of Block>
-<TextBlock 13 w:30 h:3>
+<TextBlock 13 w:22 h:3>
 Fei
 "...<Delay 10>
-Suit yourself!"<Close><End of Block>
+Whatever!"<Close><End of Block>
 <TextBlock 14 w:44 h:3>
 Bart
 "Ha, ha, ha!<New>
@@ -100,7 +100,7 @@ Margie
 "At that time, I decided
 to be his follower...to
 serve and protect him!<New>
-But, he is the one who's
+But he is the one who's
 always protecting me..."<Close><End of Block>
 <TextBlock 21 w:10 h:2>
 Fei

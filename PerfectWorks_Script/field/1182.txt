@@ -497,7 +497,7 @@ she is still...?"<Close><End of Block>
 Sigurd
 "According to Fei,
 there was a female aide
-on Carl's side...<New>
+at Carl's side...<New>
 And he said that she had
 indigo blue eyes and
 hair... 
@@ -557,29 +557,30 @@ Anyway, Hyuga, have you
 gotten any information?"<Close><End of Block>
 <TextBlock 79 w:54 h:4>
 Citan
-"Not really....<New>
+"Not really...<New>
 I pulled out of there
 before I could enter the
 central division, so..."<Close><End of Block>
 <TextBlock 80 w:14 h:1>
 (Fei!!)<Opcode 2 30><Close><End of Block>
-<TextBlock 81 w:42 h:3>
+<TextBlock 81 w:44 h:3>
 Fei
-(Oh, it's you, Bart!?<Delay 10>
-Don't scare me...!)<Close><End of Block>
+"(Oh, it's you, Bart!?<Delay 10>
+Don't scare me...!)"<Close><End of Block>
 <TextBlock 82 w:54 h:4>
 Bart
-(Sorry, mate!<New>
+"(Sorry, mate!<New>
 It sounds like Sig and your
 doctor friend know each
 other pretty darn well...<New>
 Sig<Delay 5>...<Delay 5>
 Damn, I thought I knew
 everything about that
-guy!)<Close><End of Block>
-<TextBlock 83 w:52 h:2>
+guy!)"<Close><End of Block>
+<TextBlock 83 w:32 h:3>
 Fei
-(When did Doc get back..?)<Close><End of Block>
+"(When did Doc
+get back..?)"<Close><End of Block>
 <TextBlock 84 w:52 h:3>
 Jessie
 "I see.<Delay 10><New>
