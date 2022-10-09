@@ -11,7 +11,7 @@ to meet the sisters!"<Close><End of Block>
 <TextBlock 3 w:42 h:3>
 Bart
 "...Huh?<Delay 30> What is it,
-old Maison?"<Close><End of Block>
+Old Maison?"<Close><End of Block>
 <TextBlock 4 w:50 h:3>
 Maison
 "*Sniff*...
@@ -390,13 +390,13 @@ to the cathedral.<Close><End of Block>
 <TextBlock 56 w:42 h:2>
 Oh, Bart!
 I'm glad you're well.<Close><End of Block>
-<TextBlock 57 w:54 h:2>
+<TextBlock 57 w:52 h:2>
 I've already contacted the
 monastery.<New>
 Please take Margie up
 there as soon as possible.<New>
 She'll be so happy...
-not to mention the sisters!<Close><End of Block>
+and so will the sisters!<Close><End of Block>
 <TextBlock 58 w:34 h:3>
 Margie
 "I must hurry and

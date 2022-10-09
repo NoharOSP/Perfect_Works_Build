@@ -8,8 +8,8 @@ beyond comparison, too..."<Close><End of Block>
 <TextBlock 2 w:34 h:4>
 Citan
 "What is more...<Delay 30>
-this looks rather
-familiar...!"<Close><End of Block>
+there is quite a
+resemblance."<Close><End of Block>
 <TextBlock 3 w:50 h:2>
 Citan
 "What do you think, Fei?"<Close><End of Block>
@@ -94,13 +94,14 @@ If you look closely,
 you will notice that
 the painting is not
 completely finished."<Close><End of Block>
-<TextBlock 20 w:42 h:3>
+<TextBlock 20 w:42 h:4>
+Citan
 "The artist put his
 brushes down when it
 was near completion."<Close><End of Block>
-<TextBlock 21 w:34 h:2>
+<TextBlock 21 w:36 h:2>
 Citan
-"...Why is that?"<Close><End of Block>
+"...Why was that?"<Close><End of Block>
 <TextBlock 22 w:36 h:3>
 Margie
 "I don't know...<New>
@@ -124,7 +125,7 @@ now?"<Close><End of Block>
 Citan
 "Yes, alright...<New>
 But this painting has
-caught my curiosity.<New>
+piqued my curiosity.<New>
 Do you mind if I speak
 to Sister Agnes before
 we head back to town?"<Close><End of Block>
@@ -134,7 +135,7 @@ Bart
 We'll stop by her
 room on the way out."<Close><End of Block>
 <TextBlock 28 w:32 h:1>
-        La<Delay 10>ca<Delay 10>n<Delay 10>...<Close><End of Block>
+        La<Delay 10>ca<Delay 10>n<Delay 10>...<Opcode 2 100><Close><End of Block>
 <TextBlock 29 w:50 h:4>
 Citan
 "Is something wrong, Fei?

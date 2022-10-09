@@ -10,11 +10,11 @@ Oh, Margie...<New>
 We're so glad you're safe...<Close><End of Block>
 <TextBlock 5 w:44 h:3>
 Margie
-"Yes, it is all thanks
+"Yes. It's all thanks
 to Bart and his men."<Close><End of Block>
 <TextBlock 6 w:48 h:2>
 We just received word...<New>
-So we were singing a
+so we were singing a
 hymn of praise and joy.<New>
 We're so happy...
 Oh, what a relief!<Close><End of Block>
@@ -43,13 +43,13 @@ the Royal Capital<Delay 5>..."<Close><End of Block>
 Margie
 "...But at least I
 have made it back...<New>
-I'll never go anywhere,
+I'll never go anywhere
 or leave you from now on!<New>
 I won't make you all worry
 anymore... Never again!"<Close><End of Block>
-<TextBlock 12 w:44 h:2>
+<TextBlock 12 w:46 h:2>
 Sister Agnes
-"Bless you my dear..."<Close><End of Block>
+"Bless you, my dear..."<Close><End of Block>
 <TextBlock 13 w:48 h:3>
 Margie
 "Sister Agnes, this just
@@ -66,8 +66,8 @@ I'm sorry...<New>
 But I'm just so
 happy that I cannot
 help but..."<Close><End of Block>
-<TextBlock 15 w:22 h:1>
-"Sister..."<Close><End of Block>
+<TextBlock 15 w:20 h:1>
+Sister...<Close><End of Block>
 <TextBlock 16 w:54 h:3>
 Sister Agnes
 "...There is no reason
@@ -82,7 +82,7 @@ Margie
 May I go upstairs?<New>
 It's been oh so long,
 so I want to have a look
-around up there too."<Close><End of Block>
+around up there, too."<Close><End of Block>
 <TextBlock 19 w:54 h:2>
 Sister Agnes
 "Oh, but of course, dear!<New>
@@ -96,9 +96,9 @@ Margie
 "Ha, ha!
 I knew you'd say that.<New>
 Now that's the Agnes
-I know!'<Close><End of Block>
-<TextBlock 21 w:46 h:1>
-"Margie, I am so glad."<Close><End of Block>
+I know!"<Close><End of Block>
+<TextBlock 21 w:44 h:1>
+Margie, I am so glad.<Close><End of Block>
 <TextBlock 22 w:52 h:3>
 Bart
 "It's been a while since
@@ -122,9 +122,9 @@ Bart
 <TextBlock 27 w:38 h:3>
 Bart
 "Anyhow, take it
-easy for a while.<New>
-...You've put up
-with enough, okay."<Close><End of Block>
+easy for a while...<New>
+You've been through
+enough, okay?"<Close><End of Block>
 <TextBlock 28 w:52 h:3>
 Margie
 "...If you are trying to
@@ -152,7 +152,7 @@ understands her position
 well...<New>
 Maybe there are a few
 things I could learn
-from her too."<Close><End of Block>
+from her, too."<Close><End of Block>
 <TextBlock 32 w:42 h:2>
 Citan
 "...How magnificent!"<Close><End of Block>
@@ -200,7 +200,7 @@ have one wing each...?"<Close><End of Block>
   handed down in Nisan...<New>
   God could have created
     humans perfectly...<New>
-But then, humans would not
+ But then humans would not
  have helped each other...<New>
 So that is what these great
    single-winged angels
@@ -224,7 +224,7 @@ feature, is it not?"<Close><End of Block>
 <TextBlock 44 w:52 h:3>
 Citan
 "Usually these depictions
-are not gender-specific.<New>
+are not gender specific.<New>
 But these angels are
 clearly distinguishable as
 having opposing genders."<Close><End of Block>
@@ -237,20 +237,20 @@ where God advents..."<Close><End of Block>
 Citan
 "Or could it be the
 path leading TO God?<New>
-Well...I do not know,
-it could be either,
+Well...I do not know.
+It could be either,
 or even both."<Close><End of Block>
 <TextBlock 47 w:30 h:2>
 Citan
 "...Now I see!"<Close><End of Block>
-<TextBlock 48 w:48 h:3>
+<TextBlock 48 w:46 h:3>
 Citan
-"This all coincides with
-the teachings of Nisan."<Close><End of Block>
+"This all reflects the
+teachings of Nisan."<Close><End of Block>
 <TextBlock 49 w:54 h:4>
 Margie
 "Ha, ha, ha!
-Why Doctor Citan Uzuki!
+Why, Doctor Citan Uzuki!
 You are an amusing fellow!"<Close><End of Block>
 <TextBlock 50 w:50 h:3>
 Citan

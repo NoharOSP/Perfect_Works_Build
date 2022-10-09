@@ -135,14 +135,14 @@ Master Bartholomew would
 be just fine.<Close><End of Block>
 <TextBlock 25 w:48 h:4>
 Agnes
-"The one pictured in the
+"The one depicted in the
 portrait in the painting
 room is Sophia.<New>
-She is the first great
-mother of Nisan.<New>
+She was the first Great
+Mother of Nisan.<New>
 According to legend, the
 portrait was painted
-about 500 years ago.<Close><End of Block>
+about 500 years ago."<Close><End of Block>
 <TextBlock 26 w:48 h:3>
 Agnes
 "I understand you were
@@ -152,7 +152,7 @@ that picture is Nisan's
 great founding mother...<New>
 Some say that it was
 painted at least 500
-years ago.<Close><End of Block>
+years ago."<Close><End of Block>
 <TextBlock 27 w:52 h:4>
 Citan
 "500 years ago...<Delay 30>
@@ -170,7 +170,7 @@ concerning Sophia have
 been lost...<New>
 The portrait is the only
 thing left.<New>
-We too do not have much
+Even we do not have much
 knowledge about her."<Close><End of Block>
 <TextBlock 29 w:44 h:4>
 Citan
@@ -183,15 +183,15 @@ Agnes
 Marguerite, I would have
 loved to have shared them...<New>
 But unfortunately I am
-unable to help here..."<Close><End of Block>
+unable to help, here..."<Close><End of Block>
 <TextBlock 31 w:52 h:4>
 Citan
-"Oh well, none the matter.
+"Oh well, no matter.
 Please do not worry about
 it. I was just inquiring."<Close><End of Block>
 <TextBlock 32 w:54 h:4>
 Citan
-"But, it does seem
+"But it does seem
 somewhat strange...<New>
 If such a majestic building
 as this survived history,<New>
@@ -266,14 +266,14 @@ Fei
 that to him, Sister."<Close><End of Block>
 <TextBlock 44 w:48 h:4>
 Agnes
-"The one pictured in the
+"The one depicted in the
 portrait in the painting
 room is Sophia.<New>
-She is the first great
-mother of Nisan.<New>
+She was the first Great
+Mother of Nisan.<New>
 According to legend, the
 portrait was painted
-about 500 years ago.<Close><End of Block>
+about 500 years ago."<Close><End of Block>
 <TextBlock 45 w:48 h:3>
 Agnes
 "I understand you were
@@ -283,7 +283,7 @@ that picture is Nisan's
 great founding mother...<New>
 Some say that it was
 painted at least 500
-years ago.<Close><End of Block>
+years ago."<Close><End of Block>
 <TextBlock 46 w:52 h:4>
 Citan
 "500 years ago...<Delay 30>
@@ -301,7 +301,7 @@ concerning Sophia have
 been lost...<New>
 The portrait is the only
 thing left.<New>
-We too do not have much
+Even we do not have much
 knowledge about her."<Close><End of Block>
 <TextBlock 48 w:44 h:4>
 Citan
@@ -314,15 +314,15 @@ Agnes
 Marguerite, I would have
 loved to have shared them...<New>
 But unfortunately I am
-unable to help here..."<Close><End of Block>
+unable to help, here..."<Close><End of Block>
 <TextBlock 50 w:52 h:4>
 Citan
-"Oh well, none the matter.
+"Oh well, no matter.
 Please do not worry about
 it. I was just inquiring."<Close><End of Block>
 <TextBlock 51 w:54 h:4>
 Citan
-"But, it does seem
+"But it does seem
 somewhat strange...<New>
 If such a majestic building
 as this survived history,<New>
@@ -336,11 +336,11 @@ Sophia was present about
 500 years ago...<New>
 She sacrificed herself for
 the people and has been
-summoned to be with god.
+summoned to be with God.
 That's all I can tell you."<Close><End of Block>
 <TextBlock 53 w:50 h:4>
 Citan
-"...I see.
+"...I see.<Delay 30>
 So everything was lost in
 the darkness of history."<Close><End of Block>
 <TextBlock 54 w:50 h:5>
