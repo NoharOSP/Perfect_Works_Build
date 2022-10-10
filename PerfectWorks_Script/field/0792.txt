@@ -69,7 +69,7 @@ Put the past behind you."<Close><End of Block>
 Bart
 "Huh...
 I'm alright!"<Close><End of Block>
-<TextBlock 11 w:58 h:4>
+<TextBlock 11 w:58 h:6>
   Sigurd
   "Etemenanki, the Capital
   of the Solaris Empire, is
@@ -80,7 +80,7 @@ I'm alright!"<Close><End of Block>
   as 'Gates'.<New>
   Travel to and from the
   surface is impossible
-  without the use of<New>
+  without the use of
   transport such as an
   airship,<Delay 30> outfitted with
   particular equipment..."<Close><End of Block>
@@ -179,8 +179,8 @@ It doesn't matter."<Close><End of Block>
 <TextBlock 28 w:50 h:4>
 Maison
 "The people of Nisan were
-most generous to allow us
-to rent this house.<New>
+generous enough to allow
+us to rent this house.<New>
 So there will be no need
 to seek lodgings at the
 inn for a while.<New>
@@ -236,7 +236,7 @@ has you confused because it
 was not so simple...<New>
 There was a time when he
 was cooperating with one
-of Geburah's generals...<New>
+of Geburah's leaders...<New>
 Furthermore, behind Geburah
 was a country that you had
 never even heard of..."<Close><End of Block>
@@ -277,7 +277,7 @@ deal with Solaris later.<New>
 Which is a much better plan
 than rushing straight into
 a war he knew we could not
-win. Quite logical, really.<Close><End of Block>
+win. It's quite logical."<Close><End of Block>
 <TextBlock 42 w:54 h:3>
 Bart
 "Sounds like you understand
@@ -346,12 +346,12 @@ Citan
 I suppose so, but...<New>
 Even if we were to defeat
 the Geburah forces here,
-there is still Solaris,
-to deal with.<New>
+there is still Solaris to
+deal with.<New>
 If we are not careful, it
 is possible that we may get
 involved in a longer war
-than that with Shakhan.<New>
+than the one with Shakhan.<New>
 Do you not agree that
 continuing the way we
 have been going is rather

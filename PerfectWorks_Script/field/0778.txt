@@ -63,9 +63,10 @@ Margie
 Margie
 "Bart told me.
 You're helping out
-with the plan too?<New>
+with the plan, too?<New>
 So you're caught up
-in this now as well?"<Close><End of Block>
+in all of this now,
+as well?"<Close><End of Block>
 <TextBlock 13 w:40 h:4>
 Fei
 "I've come this far,
@@ -321,7 +322,7 @@ Sigurd
 can do about that now."<Close><End of Block>
 <TextBlock 62 w:48 h:4>
 Sigurd
-"But, there's one thing
+"But there's one thing
 I want you to believe...<New>
 We left Solaris by our
 own will and for our own
@@ -351,7 +352,7 @@ Bart
 'surface dwellers'
 thing...<New>
 It's as if Solaris is
-in another location.
+in a separate place.
 Like up in the clouds
 or something?"<Close><End of Block>
 <TextBlock 67 w:28 h:2>
@@ -372,7 +373,7 @@ Didn't you live there?"<Close><End of Block>
 <TextBlock 70 w:56 h:4>
 Sigurd
 "It's completely cut off
-from the outside world so
+from the outside world, so
 I don't know too well.<New>
 There's a special way to
 get there from the surface."<Close><End of Block>
@@ -426,10 +427,12 @@ Fei
 <TextBlock 78 w:46 h:3>
 Citan
 "No...<New>
-I was born in the lower
-city levels. It is not
-a complete secret...<New>
-but I guess I am a
+I was born in Solaris'
+lower city levels.<New>
+While I do not fit
+the mold, strictly
+speaking...<New>
+I am more or less a
 Solarian<Delay 5>..."<Close><End of Block>
 <TextBlock 79 w:54 h:4>
 Bart
@@ -441,8 +444,8 @@ wouldn't need to use
 people..."<Close><End of Block>
 <TextBlock 80 w:48 h:4>
 Citan
-"You see<Delay 5>...<Delay 5>
-You still need people
+"The thing is<Delay 5>...<Delay 5>
+you still need people
 to run a country<Delay 5>...<New>
 ...<Delay 5>No matter how
 scientifically advanced
@@ -454,7 +457,7 @@ Sigurd
 Their total would not
 even be a quarter of Av's
 population.<New>
-So, they support their
+So they support their
 country by stealing
 surface dwellers."<Close><End of Block>
 <TextBlock 82 w:42 h:3>
@@ -485,9 +488,11 @@ through the ranks with
 unparalleled speed."<Close><End of Block>
 <TextBlock 86 w:54 h:3>
 Sigurd
-"That man had one ideal.<New>
-To achieve a consolidation
-of all his colleagues.<New>
+"That man had a singular
+vision.<New>
+And he gathered those of
+like mind in order to
+realize that vision.<New>
 Even land dwellers, if they
 had talent, were brought
 into the army."<Close><End of Block>
@@ -506,7 +511,7 @@ Sigurd
 we agreed with him."<Close><End of Block>
 <TextBlock 90 w:46 h:4>
 Citan
-"At the time,
+"Back then,
 Ramsus was our hope.<New>
 He had high ideals and
 wanted to change the
@@ -514,13 +519,13 @@ system in Solaris.<New>
 To we test subjects and
 lower-level citizens,
 he was truly all that
-we wished for."<Close><End of Block>
+we had wished for."<Close><End of Block>
 <TextBlock 91 w:30 h:2>
 Bart
 "A benefactor?"<Close><End of Block>
 <TextBlock 92 w:42 h:4>
 Sigurd
-"Yes...<Delay 30>even I, a test
+"Yes.<Delay 30> Even I, a test
 subject, was changed
 by his ideals."<Close><End of Block>
 <TextBlock 93 w:38 h:4>
@@ -678,7 +683,7 @@ Margie
 <TextBlock 123 w:36 h:3>
 Margie
 "Well...
-It's almost time."<Close><End of Block>
+it's almost time."<Close><End of Block>
 <TextBlock 124 w:30 h:2>
 Bart
 "Yeah, yeah..."<Close><End of Block>
@@ -816,5 +821,5 @@ Bart
 "Got it.<Delay 30>
 I leave the rest to you!"<Close><End of Block>
 <TextBlock 151 w:24 h:2>
-    Alright!
-    Not yet.<Close><Close><End of Block>
+    All set!
+    Not yet<Close><Close><End of Block>

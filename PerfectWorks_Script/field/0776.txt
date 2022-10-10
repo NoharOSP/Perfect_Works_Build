@@ -39,10 +39,10 @@ Looking for...
     Items
     Accessories
     Nothing<Close><End of Block>
-<TextBlock 7 w:38 h:1>
-Thank you very much<Close><End of Block>
-<TextBlock 8 w:38 h:1>
-Thank you very much<Close><End of Block>
+<TextBlock 7 w:40 h:1>
+Thank you very much.<Close><End of Block>
+<TextBlock 8 w:40 h:1>
+Thank you very much.<Close><End of Block>
 <TextBlock 9 w:22 h:1>
 Come again!<Close><End of Block>
 <TextBlock 10 w:30 h:5>

@@ -120,10 +120,10 @@ Bart
 "When I was a kid, <Delay 30>I
 borrowed stuff from there
 and got in big trouble."<Close><End of Block>
-<TextBlock 27 w:36 h:3>
+<TextBlock 27 w:38 h:3>
 Fei
-"Borrowed...<Delay 30>
-What did you take?<Close><End of Block>
+"Borrowed...<Delay 30>?
+What did you take?"<Close><End of Block>
 <TextBlock 28 w:52 h:4>
 Bart
 "A toy boat.<Delay 30>
@@ -191,10 +191,10 @@ They will most likely move
 at Shakhan's request.
 They're not just gonna sit
 by and watch quietly."<Close><End of Block>
-<TextBlock 36 w:38 h:3>
+<TextBlock 36 w:40 h:3>
 Citan
 "...May I have a
-look there please?"<Close><End of Block>
+look there, please?"<Close><End of Block>
 <TextBlock 37 w:52 h:3>
 Citan
 "In short, we want Geburah
@@ -210,7 +210,7 @@ guards be enough to set
 them in motion?"<Close><End of Block>
 <TextBlock 39 w:48 h:4>
 Citan
-"To be sure then, Nisan
+"To be sure, then, Nisan
 will just have to appear
 to align with Kislev.<New>
 If they see it that way,
@@ -234,8 +234,8 @@ he will probably leave
 it up to Geburah, but..."<Close><End of Block>
 <TextBlock 43 w:42 h:4>
 Citan
-"Of course doing this
-would not be our
+"Of course, doing
+this would not be our
 first choice.<New>
 But looking at the
 situation, we have to
@@ -260,10 +260,10 @@ along Kislev's border."<Close><End of Block>
 <TextBlock 47 w:12 h:2>
 Bart
 "...!"<Close><End of Block>
-<TextBlock 48 w:28 h:4>
+<TextBlock 48 w:30 h:4>
 Bart
 "Damn...<Delay 30>
-That screws my
+That screws the
 entire plan!"<Close><End of Block>
 <TextBlock 49 w:48 h:4>
 Citan
@@ -311,10 +311,10 @@ introduction of Gears...<New>
 He is a man who will never
 stray from his dependence
 on large naval guns."<Close><End of Block>
-<TextBlock 56 w:50 h:4>
+<TextBlock 56 w:48 h:4>
 Bart
-"You mean, he's stubborn.<New>
-He is all size and no
+"You mean he's stubborn.<New>
+He's all size and no
 real military power.
 An excellent target for
 pirates."<Close><End of Block>
@@ -364,7 +364,7 @@ Fei
 "Me...!?"<Close><End of Block>
 <TextBlock 66 w:50 h:4>
 Sigurd
-"Hold on now!<Delay 30>
+"Hold on, now!<Delay 30>
 There's no reason to
 involve you all in this!"<Close><End of Block>
 <TextBlock 67 w:36 h:2>
@@ -385,9 +385,9 @@ Citan
 "Speed is everything.
 We should do this as
 soon as possible."<Close><End of Block>
-<TextBlock 71 w:40 h:2>
+<TextBlock 71 w:44 h:2>
 Bart
-"Alright, tomorrow!"<Close><End of Block>
+"Alright <--> tomorrow!"<Close><End of Block>
 <TextBlock 72 w:46 h:4>
 Sigurd
 "I am truly grateful...<Delay 30>

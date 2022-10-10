@@ -8,11 +8,11 @@ Citan
 "The western guard..."<Close><End of Block>
 <TextBlock 3 w:36 h:3>
 Citan
-"the Royal Capital
+"The Royal Capital
 defense force..."<Close><End of Block>
 <TextBlock 4 w:42 h:4>
 Citan
-"and...<Delay 30>units along
+"And...<Delay 30>units along
 the front line at the
 border with Kislev."<Close><End of Block>
 <TextBlock 5 w:44 h:4>
@@ -41,7 +41,7 @@ draw these defense units
 away from Breidablik."<Close><End of Block>
 <TextBlock 8 w:42 h:3>
 Citan
-"We have some Kislev
+"We have some Kislev-
 made Gears, correct?"<Close><End of Block>
 <TextBlock 9 w:38 h:3>
 Bart
@@ -71,8 +71,8 @@ since the reign of
 the last king.<New>
 Because of its fire-
 power, the whole unit
-is nicknamed the
-'invincible fleet'.<New>
+is nicknamed 'the
+invincible fleet'.<New>
 I recall yesterday's
 intelligence report
 said that the ship
