@@ -8,7 +8,7 @@ the shadows.
 You're very powerful!<New>
 I've only got the
 same items as before.
-Anything you like?<New>
+Anything you'd like?"<New>
     Gear parts
     Character items
     Can't trust you

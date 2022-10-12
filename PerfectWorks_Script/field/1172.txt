@@ -45,12 +45,13 @@ If Karellen is thinking of
 trying the same thing with
 improved nanotechnology...
 that would be frightening."<Close><End of Block>
-<TextBlock 5 w:44 h:3>
+<TextBlock 5 w:44 h:4>
 Sigurd
 "Why such a glum face?<New>
-Tomorrow is our first
-return to your castle
-in twelve years."<Close><End of Block>
+Tomorrow is the return
+to the castle we've
+waited for for twelve
+years."<Close><End of Block>
 <TextBlock 6 w:48 h:2>
 Sigurd
 "You'll get used to it."<Close><End of Block>
@@ -67,7 +68,7 @@ Sigurd
 "But even they couldn't
 erase my desire to return
 home.<New>
-Then, I remembered you and
+Then I remembered you and
 Marguerite, not as the
 royalty of our country but
 as just normal children.<New>
@@ -82,7 +83,7 @@ Sigurd
 "Yes.<New>
 For that, we must take
 Shakhan down tomorrow.
-Am I correct?"<Close><End of Block>
+Right?"<Close><End of Block>
 <TextBlock 11 w:32 h:4>
 Sigurd
 "But first...<Delay 10>
@@ -113,7 +114,7 @@ Bart
 "Listen,<Delay 10> Sig<Delay 20>..."<Close><End of Block>
 <TextBlock 16 w:52 h:4>
 Bart
-"I guess it really...<Delay 20>
+"I guess...<Delay 20>it really
 doesn't matter who the
 king is,<Delay 10> does it?<New>
 As long as it's a symbol
@@ -122,10 +123,10 @@ It doesn't have to be me."<Close><End of Block>
 <TextBlock 17 w:46 h:2>
 Bart
 "Because it's my home?"<Close><End of Block>
-<TextBlock 18 w:40 h:3>
+<TextBlock 18 w:38 h:3>
 Bart
 "...Right.
-Then, let's do it!!"<Close><End of Block>
+Then let's do it!!"<Close><End of Block>
 <TextBlock 19 w:20 h:2>
 Bart
 "A bath!?"<Close><End of Block>

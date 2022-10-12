@@ -8,7 +8,7 @@ I said the next time we met<Delay 20>
 we'd be...<Delay 20>enemies."<Close><End of Block>
 <TextBlock 3 w:54 h:4>
 Fei
-"But, there's no reason for
+"But there's no reason for
 you to do this to yourself
 just so you can fight.<New>
 There's no reason for you
@@ -37,7 +37,7 @@ that I never wanted...<New>
 There's a power in me I
 don't want to admit.<New>
 But...<Delay 20>I want to
-protect my allies...
+protect my comrades...
 So, I had no choice but to
 use...<Delay 20>the Drive."<Close><End of Block>
 <TextBlock 8 w:32 h:3>

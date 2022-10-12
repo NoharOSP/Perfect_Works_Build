@@ -107,7 +107,7 @@ cruiser in all of Av!"<Close><End of Block>
 <TextBlock 26 w:50 h:4>
 Bart
 "...Alright!
-We'll start!
+Let's get going!
 Ready the shuttle boats!"<Delay 16><Close><End of Block>
 <TextBlock 27 w:30 h:3>
 Bart

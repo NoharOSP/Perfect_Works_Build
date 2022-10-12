@@ -1,8 +1,8 @@
 <TextBlock 1 w:46 h:4>
 Citan
-"This time when the
-government changes, the
-implications are huge.<New>
+"This time, when the
+government changes the
+effect will be huge.<New>
 We must succeed at all
 costs."<Close><End of Block>
 <TextBlock 2 w:48 h:4>
@@ -19,10 +19,10 @@ we are sure to succeed."<Close><End of Block>
 <TextBlock 3 w:50 h:3>
 Citan
 "Right. When you capture
-Shakhan give the signal.<New>
-It is probably best to
-open the gate at that
-time."<Close><End of Block>
+Shakhan, give the signal.<New>
+That would probably be
+the best time to open the
+gate."<Close><End of Block>
 <TextBlock 4 w:36 h:4>
 Bart
 "Above us is the
@@ -61,11 +61,11 @@ Damn Shakhan...
 When I get a hold of him
 I'll swing him around by
 his hair...after I've given
-him a hair transplant.<Close><End of Block>
+him a hair implant.<Close><End of Block>
 <TextBlock 10 w:46 h:1>
 Pull yourself together.<Close><End of Block>
 <TextBlock 11 w:46 h:3>
-Let's not fight with
+Let's avoid fighting
 our cousins in the Av
 army and finish this.<Close><End of Block>
 <TextBlock 12 w:46 h:4>

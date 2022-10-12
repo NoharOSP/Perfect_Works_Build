@@ -154,9 +154,8 @@ the 'burden of kingship'
 on him too early in life...<New>
 And it might have been too
 much for a child with a
-future like his to handle.
-<Delay 5>...<New>
-I must be the most
+future like his to handle.<New>
+...<Delay 5>I must be the most
 terrible minder ever!"<Close><End of Block>
 <TextBlock 25 w:50 h:4>
 Citan

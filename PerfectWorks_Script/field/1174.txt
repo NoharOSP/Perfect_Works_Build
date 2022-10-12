@@ -1,7 +1,7 @@
 <TextBlock 1 w:48 h:4>
 Fei
 "...Don't call me 'son'.
-Cuz you sure ain't my
+Cos you sure ain't my
 pops."<Close><End of Block>
 <TextBlock 2 w:24 h:2>
 Fei
@@ -33,15 +33,14 @@ Bart
 to me...<New>
 take care of Margie and
 her people for me!"<Close><End of Block>
-<TextBlock 7 w:50 h:4>
+<TextBlock 7 w:52 h:4>
 Maitreya
 "Each squad of Gears take
 off, in order, from here
 so as to avoid detection.<New>
-We'll meet at the Rockies
-by the border tomorrow at
-1200.
-Got it?"<Close><End of Block>
+We'll meet at the mountain
+range by the border
+tomorrow at 1200. Got it?"<Close><End of Block>
 <TextBlock 8 w:50 h:3>
 Maitreya
 "Leave it up to us,

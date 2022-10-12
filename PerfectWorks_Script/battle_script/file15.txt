@@ -31,8 +31,8 @@ by the drug!"<Close><End of Block>
 <TextBlock 6 w:40 h:4>
 Fei
 "That's a lie!
-You once felt
-responsible,<New>
+You once felt a
+responsibility,<New>
 blaming yourself for
 causing the incident
 in Lahan by landing
@@ -42,7 +42,7 @@ of me when I was
 troubled...<New>
 The real you would
 never say anything
-like that!!"<Close><End of Block>
+like this!!"<Close><End of Block>
 <TextBlock 7 w:38 h:4>
 Fei
 "...Argh!<Delay 20>
@@ -63,7 +63,7 @@ snap out of it!"<Close><End of Block>
 <TextBlock 10 w:42 h:3>
 Fei
 "Are you okay!? Elly!
-What!?<New>
+What is it!?<New>
 Are the effects of
 the drug wearing
 off?"<Close><End of Block>
@@ -141,7 +141,7 @@ want<Delay 20> this...<Delay 20> Guh!"<Close><End of Block>
 Elly
 "H-<Delay 20>He...<Delay 20>lp...<Delay 20>
 Th-<Delay 20>This<Delay 20>...is wrong...<Delay 20>
-This isn't<Delay 20>...<Delay 20> me..."<Close><End of Block>
+This isn't<Delay 20>...<Delay 20>me..."<Close><End of Block>
 <TextBlock 23 w:28 h:4>
 Elly
 "Uhh!...<Delay 10>
@@ -163,7 +163,7 @@ I've no need for
 outward appearances
 of compassion...<New>
 I<Delay 20>...<Delay 20> Urgh...<Delay 20>
-F<Delay 20>...<Delay 20>Fe<Delay 20>i...<Delay 20>"<Close><End of Block>
+F<Delay 20>...<Delay 20>Fei...<Delay 20>"<Close><End of Block>
 <TextBlock 27 w:38 h:3>
 Breuer
 "Wow!

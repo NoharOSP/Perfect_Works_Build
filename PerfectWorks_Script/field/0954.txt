@@ -5,7 +5,7 @@ Gear unit!<Close><End of Block>
 Fei
 "Let me handle this!"<Close><End of Block>
 <TextBlock 3 w:18 h:1>
-B-But...<Close><End of Block>
+B-But<--><Close><End of Block>
 <TextBlock 4 w:48 h:4>
 Fei
 "We don't have time!<New>
@@ -26,10 +26,10 @@ Fei!?"<Close><End of Block>
 Breuer
 "Hey, is that him?
 The guy from before?"<Close><End of Block>
-<TextBlock 8 w:40 h:3>
+<TextBlock 8 w:36 h:3>
 Rank
-"Yep.
-That's him alright."<Close><End of Block>
+"Yep. That's him,
+alright."<Close><End of Block>
 <TextBlock 9 w:54 h:3>
 Breuer
 "Good.
@@ -39,7 +39,7 @@ Don't fall behind, sister."<Close><End of Block>
 Rank
 "You're in the way.
 Why don't you stay over
-there and just watch."<Close><End of Block>
+there and just watch?"<Close><End of Block>
 <TextBlock 11 w:46 h:4>
 Strachey
 "Yeah, yeah.
