@@ -1,6 +1,6 @@
-<TextBlock 1 w:26 h:2>
+<TextBlock 1 w:30 h:2>
 Bart
-(Behind me!?)<Close><End of Block>
+"(Behind me!?)"<Close><End of Block>
 <TextBlock 2 w:42 h:4>
 Bart
 "<Delay 10>.<Delay 10>.<Delay 10>.<Delay 45>
@@ -23,7 +23,7 @@ You strong?
 I'm asking you.<Close><End of Block>
 <TextBlock 7 w:34 h:4>
 Ramsus
-"You there...
+"You, there...
 pirate boy!
 Do you know him!?<New>
 That's right...

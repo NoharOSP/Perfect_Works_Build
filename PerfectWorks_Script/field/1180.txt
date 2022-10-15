@@ -133,17 +133,17 @@ we could..."<Close><End of Block>
 Bart
 "Dammit!
 This can't be happening!"<Close><End of Block>
-<TextBlock 32 w:24 h:2>
+<TextBlock 32 w:24 h:3>
 Bart
-"Behind...?"<Close><End of Block>
+"(...Behind
+us...?)"<Close><End of Block>
 <TextBlock 33 w:54 h:4>
 Bart
-"Something's coming
-from behind!<New>
-Jerico! Give me the helm...
+"Something's on our tail!<New>
+Jerico! Give me the helm<-->
 No, you keep it!
-Just hurry up and pull
-either way!!"<Close><End of Block>
+Just hurry up and do
+something either way!!"<Close><End of Block>
 <TextBlock 34 w:44 h:4>
 Bart
 "Battle stations!
@@ -273,13 +273,13 @@ Open jammer!
 Noisemaker, tubes 2
 and 4<Delay 16>...stand by!<Close><End of Block>
 <TextBlock 56 w:56 h:5>
-But first mate!
+But, First Mate!
 Now with the effect-fins out
 of order, if you run at full
 speed, the ship wouldn't be
 able to stand the friction!!<Close><End of Block>
 <TextBlock 57 w:24 h:1>
-First mate!!<Close><End of Block>
+First Mate!!<Close><End of Block>
 <TextBlock 58 w:36 h:4>
 Y-Young master!<Delay 16>
 What is happening?
@@ -315,11 +315,10 @@ Do be very careful!"<Close><End of Block>
 Maison
 "Y-Yes...young master...<New>
 I hear when they attacked
-the fort at the border,
-the Geburah, led by Ramsus,
-routed them.<New>
+they were routed by
+Geburah, led by Ramsus.<New>
 We'd better withdraw for
-now, and reconsider..."<Close><End of Block>
+now and reconsider..."<Close><End of Block>
 <TextBlock 65 w:34 h:2>
 Maison
 "Young master..."<Close><End of Block>

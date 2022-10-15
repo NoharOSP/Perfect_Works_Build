@@ -1,7 +1,7 @@
-<TextBlock 1 w:34 h:3>
+<TextBlock 1 w:36 h:3>
 Fei
 "Don't be stupid!
-I'm staying too!"<Close><End of Block>
+I'm staying, too!"<Close><End of Block>
 <TextBlock 2 w:16 h:2>
 Fei
 "But..."<Close><End of Block>
@@ -63,7 +63,7 @@ Maitreya
 Let's move out!!"<Close><End of Block>
 <TextBlock 14 w:32 h:2>
 ...Huh? Wha!?<Delay 32>
-Huh?... Oh-no!!"<Close><End of Block>
+Huh...? Oh no!!<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 General!
 General Maitreya!!<New>
@@ -72,7 +72,7 @@ I'm not sure, but it looks
 like the young master is
 in trouble!!<New>
 We don't have time
-for this junker!!"<Close><End of Block>
+for this junker!!<Close><End of Block>
 <TextBlock 16 w:36 h:4>
 Fei
 "I-It's him...<Delay 24>

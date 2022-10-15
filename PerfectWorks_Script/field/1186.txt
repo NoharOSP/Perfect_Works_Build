@@ -1379,7 +1379,7 @@ Set sail for Tamuz!"<Close><End of Block>
 <TextBlock 219 w:28 h:1>
 Aye, aye, sir!<Close><End of Block>
 <TextBlock 220 w:34 h:2>
-First mate!<Delay 10>
+First Mate!<Delay 10>
 The radar sir...!<Close><End of Block>
 <TextBlock 221 w:28 h:2>
 Sigurd

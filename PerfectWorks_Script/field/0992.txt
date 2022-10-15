@@ -21,10 +21,10 @@ are on air patrol!?<Opcode 2 32><Close><End of Block>
 <TextBlock 6 w:32 h:2>
 Destroyer Iltis'
 engine is down!<Opcode 2 45><Close><End of Block>
-<TextBlock 7 w:54 h:3>
-Flash signal from the Löwe!
- 'This is the Löwe, rudder
-  failure, rudder failure.'<Opcode 2 64><Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Flash signal from the
+Löwe! 'Rudder failure,
+repeat, rudder failure'.<Opcode 2 64><Close><End of Block>
 <TextBlock 8 w:32 h:2>
 Three allied
 Gears remaining!<Opcode 2 32><Close><End of Block>

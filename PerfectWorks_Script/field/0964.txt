@@ -29,7 +29,7 @@ surrender if they desire
 the safety of Nisan."<Close><End of Block>
 <TextBlock 6 w:52 h:3>
 Ramsus
-"All divisions cease fire,
+"All divisions, cease fire
 but remain on alert!<New>
 If any enemy vessel
 attempts to attack, shoot
@@ -92,15 +92,15 @@ Taking evasive action.<Close><End of Block>
 <TextBlock 18 w:54 h:4>
 W-Wait!!!<New>
 Explosions along the
-perimeter of the fleet,
+perimeter of the fleet
 confirmed. Multiple vessel
 destruction noises!<New>
-High energy reactions...
+High-energy reactions...
 What kind of gain is this!?
 Commander!! I can't believe
 this! This...Gear...?<New>
 It's like reactive rounds
-are flying around...<Close><End of Block>
+are flying about and<--><Close><End of Block>
 <TextBlock 19 w:24 h:1>
 Y-Yes'm...<Close><End of Block>
 <TextBlock 20 w:50 h:4>

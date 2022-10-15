@@ -16,11 +16,11 @@ When we get back it'll
 take a month to get this
 heap of junk working 
 again."<Close><End of Block>
-<TextBlock 5 w:32 h:4>
+<TextBlock 5 w:34 h:4>
 Bart
 "...Sheesh!!<Delay 45>
 What was that
-monster anyway?"<Close><End of Block>
+monster, anyway?"<Close><End of Block>
 <TextBlock 6 w:34 h:3>
 Bart
 "Sig!
@@ -40,7 +40,7 @@ You seem to
 be okay!"<Close><End of Block>
 <TextBlock 10 w:46 h:4>
 Sigurd
-"What...the ship?<Delay 45>
+"Th-The ship is...?<Delay 45>
 The main engine should
 be offline, but..."<Close><End of Block>
 <TextBlock 11 w:38 h:2>
