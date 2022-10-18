@@ -51,8 +51,8 @@ Old Man
 "I've some advice for you,
 youngster!<New>
 Jumping from this tower is
-illegal!! Even if I know you
-I'm gonna fine you!<Delay 15><New>
+illegal!! Even if I know
+you, I'm gonna fine you!<Delay 15><New>
 Better not <Delay 5>forget it!
 I'm no pushover!"<Close><End of Block>
 <TextBlock 16 w:56 h:4>
@@ -83,7 +83,7 @@ Old Man
 "I've some advice for you,
 youngster!<Delay 30> Jumping from
 this tower is illegal!!<New>
-Even if I know you you,
+Even if I know you,
 I'm gonna fine you!<Delay 15>
 Better not <Delay 5>forget it!
 I'm no pushover!"<Close><End of Block>
@@ -212,10 +212,10 @@ changes. But the upper level
 of the prisoners' dorm is
 full of Battlers.<Close><End of Block>
 <TextBlock 44 w:52 h:4>
-This isn't like a bar. The
-dorm is full of people
-coming and going,<Delay 5>
-it's ever changing.<Close><End of Block>
+It isn't like the bar.
+The dorm is full of
+people coming and going <--><Delay 5>
+it's ever-changing.<Close><End of Block>
 <TextBlock 45 w:50 h:4>
 Even in this smoggy town,
 if you take special care
@@ -299,13 +299,14 @@ I put a coin here as a test.<Close><End of Block>
 This is dangerous <--> do
  not try this at home!<Opcode 2 90><Close><End of Block>
 <TextBlock 64 w:62 h:4>
-Shut up, <Delay 5>I can see that.
-I snuck in from the duct<Delay 15>...<Delay 5>not.<Delay 5>
-I was repairing the duct.<New>
-Maybe it'd be better if
-you'd just settle down
-and get to work?<Delay 15>
-Not sewer cleaning but...<Close><End of Block>
+Oh, shut up. <Delay 5>Can't you tell by
+looking? I sneaked in via
+the duct<--><Delay 15> Ummm, <Delay 5>I mean I was
+repairing the duct boiler.<New>
+Maybe it'd be better if you'd
+just settle down and get to
+work?<Delay 15> I guess there's only
+sewer cleaning, though...<Close><End of Block>
 <TextBlock 65 w:48 h:2>
 Guard
 "I have the night watch!<Close><End of Block>
@@ -341,9 +342,9 @@ million chance to show
 your stuff!!<New>
 The dorm or the bar...
 Hurry!"<Close><End of Block>
-<TextBlock 71 w:46 h:4>
+<TextBlock 71 w:52 h:4>
 Guard
-"This is the main town.
+"This way's the main town.
 D Block prisoners like
 yourself can't pass."<Close><End of Block>
 <TextBlock 72 w:54 h:5>
@@ -362,9 +363,9 @@ limit areas, such as the
 civilian section, okay!?"<Close><End of Block>
 <TextBlock 73 w:54 h:4>
 Guard
-"This is the main town.
-D Block prisoners like you,
-what? You're<Delay 5>...?<New>
+"This way's the main town.
+D Block prisoners like<-->
+Huh? Aren't you<Delay 5>...?<New>
 <Delay 5>...<Delay 5>Excuse me!
 Please go on through."<Close><End of Block>
 <TextBlock 74 w:56 h:4>
@@ -474,10 +475,10 @@ be quiet."<Delay 20>
     I'll take it<Close><End of Block>
 <TextBlock 87 w:44 h:5>
 Guard
-"I'll give you a deal.<Delay 15>
-But, <Delay 5>if you use it
-there's no more.<Delay 15>
-You understand that?"<Close><End of Block>
+"I'll do you a deal.<Delay 15>
+But <Delay 5>it's a one-time
+offer, you know what
+I mean?"<Close><End of Block>
 <TextBlock 88 w:40 h:2>
 Guard
 "Okay, <Delay 5>it'll be 5G."<Close><End of Block>
@@ -745,7 +746,7 @@ What's this<Delay 5>...?"<Close><End of Block>
 We're looking for Battlers to
 clean up the ever-spreading
 sewer monsters in our D Block!
-For more info contact the
+For more info, contact the
 B-Info Center in this block.
 Prisoners not assigned to
 anything else will be forced

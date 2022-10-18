@@ -81,7 +81,7 @@ The village..."<Close><End of Block>
 <TextBlock 14 w:40 h:3>
 Elly
 "Was it destroyed by
-the Kislev army?"<Close><End of Block>
+the Kislev Army?"<Close><End of Block>
 <TextBlock 15 w:18 h:2>
 Elly
 "Fei...?"<Close><End of Block>

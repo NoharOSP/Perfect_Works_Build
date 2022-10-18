@@ -2,8 +2,8 @@
 Fei
 "<Delay 5>...<Delay 5>I am Fei Fong Wong.<Delay 15>
 And what's your name?<New>
-I know it's not really
-'Champ'?
+I'm guessing it's not
+really 'Champ'?
 I at least have the right
 to know that much<Delay 5>..."<Close><End of Block>
 <TextBlock 2 w:42 h:1>
@@ -17,7 +17,7 @@ Suzanne
 "Why, you...!
 How insolent!!"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
-A man called 'Champ'
+A Man Called 'Champ'
 "Thanks, Suzanne.<Delay 20>
 Hmmm, so you're the
 new inmate<Delay 5>...<New>

@@ -1,7 +1,7 @@
 <TextBlock 1 w:44 h:3>
 Fei
-"Enough!<Delay 15> There's no
-purpose in doing this!<New>
+"Enough!<Delay 15> Where's the
+sense in doing this!?<New>
 I have nothing to do
 with you!"<Close><End of Block>
 <TextBlock 2 w:10 h:2>
@@ -15,14 +15,14 @@ Even I lost to you<Delay 5>..."<Close><End of Block>
 Suzanne
 "Although he was able to
 defeat the other three<Delay 5>...<Delay 15>
-He was no match for me."<Close><End of Block>
+he was no match for me."<Close><End of Block>
 <TextBlock 5 w:36 h:3>
 Suzanne
 "Champ, what shall
 we do with him?"<Close><End of Block>
 <TextBlock 6 w:36 h:3>
 Vargas
-"Hah! I'll get you
+"Ugh, I'll get you
 for this someday."<Close><End of Block>
 <TextBlock 7 w:48 h:4>
 Vargas
@@ -33,24 +33,25 @@ to the likes of 'im..."<Close><End of Block>
 Heinrich
 "Guh,<Delay 5> uuhh<Delay 5>...<Delay 15> How could
 I have<Delay 5>...<Delay 5>?"<Close><End of Block>
-<TextBlock 9 w:50 h:3>
+<TextBlock 9 w:52 h:3>
 Heinrich
-"Hahaha. We'll talk again
-when you can beat me."<Close><End of Block>
+"Hahaha. If you can't beat
+me, you're a lost cause!"<Close><End of Block>
 <TextBlock 10 w:48 h:4>
 Leonardo
 "To have lost to someone
 who's only just out of
 their hospital bed...<New>
 Sadness."<Close><End of Block>
-<TextBlock 11 w:48 h:4>
+<TextBlock 11 w:44 h:4>
 Leonardo
-"Hunh!<Delay 5> No no!!<Delay 15> You ain't
-got the basics,<Delay 5> the
-basics."<Close><End of Block>
-<TextBlock 12 w:46 h:2>
+"Hah!<Delay 5> Hopeless!!<Delay 15>
+You ain't even got the
+basics down, man."<Close><End of Block>
+<TextBlock 12 w:28 h:3>
 Rico
-"Kid, you're up front."<Close><End of Block>
+"Kid, you're
+over there."<Close><End of Block>
 <TextBlock 13 w:54 h:4>
 Rico
 "Now, I think you've got
@@ -66,10 +67,10 @@ Battlers."<Close><End of Block>
 <TextBlock 14 w:50 h:4>
 Rico
 "Relax,<Delay 15> the fights are
-one on one.<New>
+one-on-one.<New>
 By now you should've
 realized<Delay 5>...<Delay 15>
-Results are everything!<New>
+results are everything!<New>
 If you can defeat these
 four Battlers, you'll be
 promised a certain amount
@@ -98,7 +99,7 @@ How about the next
 one?"<Close><End of Block>
 <TextBlock 20 w:34 h:3>
 Rico
-"Is that all<Delay 5>...?<Delay 5>
+"Is that it<Delay 5>...?<Delay 5>
 Your rank is C!!"<Close><End of Block>
 <TextBlock 21 w:46 h:4>
 Rico
@@ -126,7 +127,8 @@ Rico
 Your rank is B!!"<Close><End of Block>
 <TextBlock 25 w:44 h:4>
 Rico
-"No need for a reason.<New>
+"Doesn't have to
+make sense.<New>
 This is the D Block
 tradition!<Delay 15> We must
 determine the pecking
@@ -143,12 +145,12 @@ Rico
 "<Delay 5>...<Delay 5>Let's go."<Close><End of Block>
 <TextBlock 29 w:44 h:4>
 Rico
-"<Delay 5>...<Delay 5>A bit tough.
-Well, a win is a win.
-Your rank is A."<Close><End of Block>
+"<Delay 5>...<Delay 5>A bit troublesome.
+Well, a win is a win,
+so your rank is A."<Close><End of Block>
 <TextBlock 30 w:40 h:4>
 Rico
-"<Delay 5>...<Delay 5>Didn't you hear?<Delay 15>
+"<Delay 5>...<Delay 5>You guys deaf?<Delay 15>
 Take him back to
 his quarters."<Close><End of Block>
 <TextBlock 31 w:50 h:3>
@@ -161,7 +163,7 @@ Rico
 say<Delay 5>...<Delay 5>but even we have
 some compassion.<New>
 We'll give you some time<Delay 5>...<Delay 15>
-Even though it's one on
+Even though it's one-on-
 one, you still have to
 fight all four.<New>
 You should get prepared
@@ -176,12 +178,12 @@ Suzanne
 "Hey, are you ready?"<Delay 15>
     Hang on
     Let's rock<Close><End of Block>
-<TextBlock 34 w:48 h:3>
+<TextBlock 34 w:44 h:3>
 Suzanne
 "<Delay 5>...Hurry up.<New>
-Aside from myself, the
-rest of the gang doesn't
-have much patience."<Close><End of Block>
+The rest of the gang
+aren't as patient as
+I am."<Close><End of Block>
 <TextBlock 35 w:44 h:4>
 Suzanne
 "<Delay 5>...<Delay 5>Champ.

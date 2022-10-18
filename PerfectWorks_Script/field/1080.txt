@@ -32,10 +32,10 @@ Rico
 like me is here."<Close><End of Block>
 <TextBlock 9 w:14 h:2>
 Sigmund
-"Yes."<Close><End of Block>
+"Yes?"<Close><End of Block>
 <TextBlock 10 w:36 h:2>
 Sigmund
-"Found it, eh...?"<Close><End of Block>
+"It was there...?"<Close><End of Block>
 <TextBlock 11 w:16 h:2>
 Sigmund
 "I see."<Close><End of Block>
@@ -81,7 +81,7 @@ selves under attack?<New>
 And then there is Nisan
 to consider.
 There is nothing to gain
-by doing anything now.<Close><End of Block>
+by doing anything now."<Close><End of Block>
 <TextBlock 21 w:32 h:3>
 Sigmund
 "It seems 'they'
@@ -130,7 +130,7 @@ Our data showed a large
 amount of radiation was
 released at the epicenter.<New>
 It was probably caused
-by an overload of a
+by the overload of a
 battleship-class slave
 generator.<New>
 The cause of this is still
@@ -147,14 +147,15 @@ at least several days."<Close><End of Block>
 Associate
 "Concerning your order,
 the scouts have arrived at
-the area you requested..."<Close><End of Block>
+the area as requested..."<Close><End of Block>
 <TextBlock 32 w:22 h:2>
 Associate
 "Yes, sir."<Close><End of Block>
 <TextBlock 33 w:54 h:4>
 Associate
-"We know the Gear found was
-the one previously stolen<New>
+"The Gear we found is
+most certainly the one
+previously stolen<New>
 from the 11th Development
 Base by the Geburah unit
 stationed in Av.<New>

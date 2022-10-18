@@ -120,7 +120,7 @@ Elly
 Citan
 "Let us just say we are
 borrowing what the Kislev
-army left behind."<Close><End of Block>
+Army left behind."<Close><End of Block>
 <TextBlock 21 w:22 h:2>
 Elly
 "...Right."<Close><End of Block>

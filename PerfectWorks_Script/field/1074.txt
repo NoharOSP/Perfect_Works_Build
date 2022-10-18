@@ -84,7 +84,7 @@ you do not require any
 recompense?"<Close><End of Block>
 <TextBlock 20 w:46 h:3>
 Sigmund
-"...But, what a strange
+"...But what a strange
 thing to ask for."<Close><End of Block>
 <TextBlock 21 w:50 h:4>
 Sigmund
@@ -93,9 +93,9 @@ that Gear we captured and
 its pilot to D Block..."<Close><End of Block>
 <TextBlock 22 w:50 h:3>
 Sigmund
-"I don't know either.<New>
+"I don't know, either.<New>
 ...But we still owe them
-a favor. We just can't
+a favor. We can't just
 deny them. So see to it!"<Close><End of Block>
 <TextBlock 23 w:34 h:2>
 Associate

@@ -458,16 +458,16 @@ is deeper than the seas! And
 enticing the partakers of our
 food to the peaks of bliss is
 the job of cooks like us!<Close><End of Block>
-<TextBlock 80 w:24 h:1>
-That's right<Opcode 2 30><Close><End of Block>
+<TextBlock 80 w:22 h:1>
+Yes, chef!<Opcode 2 30><Close><End of Block>
 <TextBlock 81 w:58 h:5>
 Cooking requires love that is
 higher than the skies! And
 enticing the partakers of our
 food to the peaks of bliss is
 the job of cooks like us!<Close><End of Block>
-<TextBlock 82 w:24 h:1>
-That's right<Opcode 2 30><Close><End of Block>
+<TextBlock 82 w:22 h:1>
+Yes, chef!<Opcode 2 30><Close><End of Block>
 <TextBlock 83 w:56 h:4>
 Arrgh! Don't talk to me, I'm
 too busy now! If you want to
@@ -651,7 +651,7 @@ This door is under repair.<Delay 15>
 Sorry, but would you mind
 using the door to the west?<Close><End of Block>
 <TextBlock 131 w:56 h:7>
-Today's "Dishes a la Rank":
+Today's 'Dishes a la Rank':
   Rank A - Battlin Steak
   Rank B - HeavyWeighter
   Rank C - Stamina Uppen
@@ -659,7 +659,7 @@ Today's "Dishes a la Rank":
   Special of the Day:
   Mightymite<Close><End of Block>
 <TextBlock 132 w:56 h:7>
-Today's "Dishes a la Rank":
+Today's 'Dishes a la Rank':
   Rank A - Boosta Limit
   Rank B - Noatuna Fish
   Rank C - Ether Omega
@@ -684,7 +684,7 @@ how it tastes."<Close><End of Block>
 down<Delay 5>...<Delay 5>somewhat!"<Close><End of Block>
 <TextBlock 137 w:56 h:3>
 <Perso1>
-"Mmm, not bad at all! But,
+"Mmm, not bad at all! But
 I don't feel any different."<Close><End of Block>
 <TextBlock 138 w:30 h:3>
 <Perso1>

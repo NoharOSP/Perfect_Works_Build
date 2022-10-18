@@ -2,6 +2,6 @@
 <Delay 5>...Where<Delay 5>...<Delay 5>am<Delay 5>...<Delay 5>I<Delay 5>...?<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:36 h:2>
 Fei
-"Hah, hah, hah<Delay 5>..."<Opcode 2 90><Close><End of Block>
+"*Huff,<Delay 5> huff*<Delay 5>..."<Opcode 2 90><Close><End of Block>
 <TextBlock 3 w:44 h:1>
 You shouldn't be here.<Opcode 2 60><Close><End of Block>

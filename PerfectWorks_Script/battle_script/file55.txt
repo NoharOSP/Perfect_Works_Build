@@ -33,7 +33,7 @@ this!"<Close><End of Block>
 <TextBlock 7 w:18 h:3>
 Fei
 "Guh<Delay 30>...<Delay 30>
-gah<Delay 30>...<Delay 30>"<Close><End of Block>
+ungh<Delay 30>...<Delay 30>"<Close><End of Block>
 <TextBlock 8 w:26 h:2>
 Fei
 "N-<Delay 30>No<Delay 30>.<Delay 10>.<Delay 10>.<Delay 10>"<Close><End of Block>
@@ -50,4 +50,4 @@ urrgh<Delay 30>..."<Close><End of Block>
 ...Outta the way!<Close><End of Block>
 <TextBlock 12 w:30 h:2>
 Fei
-"I<Delay 60>... I<Delay 30>...<Delay 30>"<Close><Close><End of Block>
+"I<Delay 60>...<Delay 60>..."<Close><Close><End of Block>

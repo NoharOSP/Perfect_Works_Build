@@ -34,7 +34,7 @@ Fei
 "The rank D bed it is!"<Close><End of Block>
 <TextBlock 9 w:40 h:2>
 Fei
-"<Delay 5>...<Delay 5>Wh, where am I?"<Opcode 2 30><Close><End of Block>
+"<Delay 5>...<Delay 5>Wh-Where am I?"<Opcode 2 30><Close><End of Block>
 <TextBlock 10 w:46 h:4>
 Fei
 "<Delay 5>...<Delay 5>
@@ -145,11 +145,11 @@ Suzanne
 Prince Charming has woke up!<Delay 30>
 This may be sudden, but you
 have to come along with us!"<Close><End of Block>
-<TextBlock 28 w:58 h:4>
+<TextBlock 28 w:60 h:4>
 Suzanne
-"You don't have a choice in
-this!<Delay 15> If you oppose us, the
-fair doctor will cop it too!"<Close><End of Block>
+"You don't have any choice,
+mister!<Delay 15> If you oppose us, the
+fair doctor will cop it, too!"<Close><End of Block>
 <TextBlock 29 w:52 h:4>
 Suzanne
 "Oh, what a sensible lad!
@@ -167,7 +167,7 @@ Suzanne
 "Fo~rwa~rd march!"<Opcode 2 45><Close><End of Block>
 <TextBlock 32 w:52 h:4>
 Vargas
-"Come off it! Just a sec!
+"Now wait just a minute!
 That guy's been thrown in
 'ere as a crim, ain't 'e?<New>
 You should be thanking
@@ -652,7 +652,7 @@ Fei
 "Agh,<Delay 15>
 uuuugh<Delay 5>...<Delay 5>!"<Close><End of Block>
 <TextBlock 108 w:54 h:3>
-You've only just gained
+You've only just regained
 consciousness, so don't
 push yourself too much!<New>
 I am a doctor.<Delay 30>
@@ -663,8 +663,8 @@ for criminals<Delay 5>...<Delay 5>commonly
 known as 'D Block'.<Close><End of Block>
 <TextBlock 109 w:44 h:3>
 Fei
-"Detention area for<Delay 5>...
-<Delay 5>...<Delay 5>criminals?"<Close><End of Block>
+"Detention area for<Delay 5>...<Delay 5>
+criminals?"<Close><End of Block>
 <TextBlock 110 w:58 h:4>
 Doctor
 "You are now in a living 
@@ -672,7 +672,7 @@ quarters for prisoners in
 D Block...<New>
 Judging by the way you were
 brought here under the heavy
-guard of the Kislev army, you
+guard of the Kislev Army, you
 are no ordinary criminal...!"<Close><End of Block>
 <TextBlock 111 w:14 h:2>
 Doctor
@@ -698,14 +698,13 @@ don't mind <--> it's my job!<Delay 30>
 Anyway, how do you feel?"<Close><End of Block>
 <TextBlock 116 w:56 h:4>
 Fei
-"Hm? <Delay 5>Aaah<Delay 5>...<Delay 20>
+"Hm? <Delay 5>Ahh<Delay 5>...<Delay 20>
 I'm in a bit of pain, but
 nothing I can't cope with<Delay 5>...<New>
 Lately I've been getting
-used to this kind of thing.<Delay 10>
-Ah<Delay 5>...!<New>
-The last thing I remember
-is those guys speaking of
+used to this kind of thing.<New>
+...The last thing I remember
+is those guys talking about
 what 'rank' they think I am
 worthy of."<Close><End of Block>
 <TextBlock 117 w:42 h:4>
@@ -736,11 +735,10 @@ I didn't want to fight<Delay 5>..."<Close><End of Block>
 Doctor
 "<Delay 5>...<Delay 5>Everything okay?<Delay 10>
 You look a bit pale."<Close><End of Block>
-<TextBlock 122 w:54 h:4>
+<TextBlock 122 w:50 h:4>
 Fei
-"It's nothing. Don't worry.
-<Delay 5>...<Delay 5>By the way, what's this
-thing around my neck?"<Close><End of Block>
+"Nah, it's nothing.
+<Delay 5>...<Delay 5>What is this thing?"<Close><End of Block>
 <TextBlock 123 w:62 h:4>
 Doctor
 "I was surprised! Your rank is
@@ -757,11 +755,11 @@ Doctor
 It makes me wonder how you
 would have done if you had
 recovered fully beforehand."<Close><End of Block>
-<TextBlock 126 w:54 h:4>
+<TextBlock 126 w:48 h:4>
 Fei
 "Hmm, I wonder, too<Delay 5>...<Delay 15>
-<Delay 5>...<Delay 5>By the way, what's this
-thing around my neck?"<Close><End of Block>
+By the way, what is
+this thing?"<Close><End of Block>
 <TextBlock 127 w:56 h:5>
 Doctor
 "I think you were ranked C.<Delay 15>
@@ -778,11 +776,10 @@ Doctor
 "Don't put yourself down.
 You'll never survive here
 if you have that attitude!"<Close><End of Block>
-<TextBlock 130 w:54 h:4>
+<TextBlock 130 w:48 h:4>
 Fei
-"<Delay 5>...<Delay 5>Survive here?<Delay 20> ...<Delay 5>Huh?
-<Delay 5>...<Delay 5>By the way, what's this
-thing around my neck?"<Close><End of Block>
+"<Delay 5>...<Delay 5>Survive here...<Delay 20>
+<Delay 5>...<Delay 5>Huh? What's this!?"<Close><End of Block>
 <TextBlock 131 w:54 h:5>
 Doctor
 "I believe you were rank C.
@@ -797,24 +794,23 @@ Is rank that important?"<Close><End of Block>
 <TextBlock 133 w:56 h:4>
 Doctor
 "Most think that stronger
-is better, but<Delay 5>...<Delay 5>
-well<Delay 5>...<New>
-It allows you to rise above
+is better, and<Delay 5>...<Delay 5>well<Delay 5>...<New>
+it allows you to rise above
 living as a normal citizen.
 If that's important to you
 then rank is important too!"<Close><End of Block>
-<TextBlock 134 w:54 h:4>
+<TextBlock 134 w:38 h:4>
 Fei
-"I see<Delay 5>...!<Delay 15>
-<Delay 5>...<Delay 5>By the way, what's this
-thing around my neck?"<Close><End of Block>
+"I see<Delay 5>...<Delay 15>
+By the way, what
+is this thing?"<Close><End of Block>
 <TextBlock 135 w:54 h:4>
 Doctor
 "<Delay 5>...<Delay 5>You're rank D.<Delay 20>
 But that's understandable
 given your condition.<New>
 The very idea of the
-'Baptism' is absurd to
+Baptism is absurd to
 begin with!"<Close><End of Block>
 <TextBlock 136 w:42 h:3>
 Fei
@@ -823,11 +819,11 @@ I'm the lowest rank?"<Close><End of Block>
 <TextBlock 137 w:50 h:2>
 Doctor
 "To put it bluntly, yes!"<Close><End of Block>
-<TextBlock 138 w:54 h:4>
+<TextBlock 138 w:42 h:4>
 Fei
 "Hmm<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>By the way, what's this
-thing around my neck?"<Close><End of Block>
+And<Delay 5>...<Delay 5>what the
+hell's this thing?"<Close><End of Block>
 <TextBlock 139 w:50 h:4>
 Doctor
 "Oh that?
@@ -851,9 +847,9 @@ that is the only chain
 that binds the prisoners."<Close><End of Block>
 <TextBlock 141 w:52 h:4>
 Fei
-"Huh, a bomb?<Delay 30> So no matter
-how much I struggle, I'll
-never get outta here?"<Opcode 2 60><Close><End of Block>
+"Uh...a bomb?<Delay 30> So no matter
+how much I struggle, I'm
+not getting out of here?"<Opcode 2 60><Close><End of Block>
 <TextBlock 142 w:56 h:5>
 Doctor
 "Anyway, you should try to
