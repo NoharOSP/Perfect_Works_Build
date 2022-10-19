@@ -376,7 +376,7 @@ they will exchange it for G,
 the currency of this world.
 It'll pay to remember this!<Close><End of Block>
 <TextBlock 64 w:58 h:4>
-Probably went to the bar...?
+Maybe they went to the bar?
 But isn't it unusual for the
 Imperial Capital's bigwigs
 to come to D block!?<Close><End of Block>
@@ -842,8 +842,8 @@ Not saying where
 you're going to<Delay 5>...<Delay 5>"<Opcode 2 15><Close><End of Block>
 <TextBlock 170 w:54 h:3>
 Fei
-"Hammer, you were supposed
-to have been in the bar<Delay 5>...<Delay 5>"<Close><End of Block>
+"Hammer, shouldn't you be
+in the bar<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 171 w:54 h:4>
 Hammer
 "Oh, bro!
@@ -859,7 +859,7 @@ Fei
 <TextBlock 173 w:56 h:4>
 Hammer
 "What?<Delay 15>
-You didn't know bro?<New>
+You didn't know, bro?<New>
 The previous lady doctor got
 transferred to look after
 the civilian sector of town!<New>
@@ -887,9 +887,9 @@ Fei
 "...So that's it, huh?
 Oh, Hammer, what will
 we ever do with you?"<Close><End of Block>
-<TextBlock 177 w:48 h:4>
+<TextBlock 177 w:50 h:4>
 Hammer
-"Whatever bro, whatever.<Delay 5>
+"Whatever, bro, whatever.<Delay 5>
 Anyway, let's go say
 hello to him, shall we?"<Close><End of Block>
 <TextBlock 178 w:54 h:3>

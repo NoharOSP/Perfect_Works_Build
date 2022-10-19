@@ -873,7 +873,7 @@ huh, Hammer?<New>
 Looks like you'll have to
 forget about those black
 market medical treatment
-routes you were<-->"<Close><End of Block>
+routes you were<-->"<Opcode 2 30><Close><End of Block>
 <TextBlock 146 w:4 h:1>
 !!<Opcode 2 15><Close><End of Block>
 <TextBlock 147 w:4 h:1>
@@ -895,11 +895,11 @@ They said they transported
 it to their Capital, so I
 came here on the off chance
 I might also find you here!"<Close><End of Block>
-<TextBlock 150 w:46 h:4>
+<TextBlock 150 w:48 h:4>
 Hammer
 "Huh? You wouldn't by
 any chance know this
-doctor, would you bro?"<Close><End of Block>
+doctor, would you, bro?"<Close><End of Block>
 <TextBlock 151 w:32 h:4>
 Citan
 "So anyway, Fei,
@@ -923,7 +923,7 @@ Fei
 Citan
 "Fei! You are not intending
 to spend the rest of your
-life here are you?<New>
+life here, are you?<New>
 You do not mind breaking
 your promise, then?"<Close><End of Block>
 <TextBlock 156 w:36 h:2>
@@ -1097,7 +1097,7 @@ Hammer
 Let's leave them alone!
 No matter how good he is...<New>
 one tiny mistake and it's
-BOOM! BANG! Game Over, man!
+BOOM! BANG! Game over, man!
 Get Hammer's drift, bro!?"<Close><End of Block>
 <TextBlock 183 w:36 h:3>
 Fei
@@ -1113,12 +1113,12 @@ Fei
     take a rest first!
     do it now, Doc!
     forget about it!<Close><End of Block>
-<TextBlock 186 w:50 h:5>
+<TextBlock 186 w:50 h:4>
 Citan
 "Yes, let us rest up a
-little first. In the
-meantime, think carefully
-about it!"<Close><End of Block>
+little first.<New>
+In the meantime, think
+carefully about it!"<Close><End of Block>
 <TextBlock 187 w:52 h:4>
 Fei
 "<Delay 5>...<Delay 5>Yeah, I'm ready to do

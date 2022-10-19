@@ -7,7 +7,7 @@ Fei
 "Huh?"<Close><End of Block>
 <TextBlock 3 w:32 h:2>
 Fei
-"...Gears, huh?"<Opcode 2 30><Close><End of Block>
+"...Gears, huh?"<Opcode 2 60><Close><End of Block>
 <TextBlock 4 w:16 h:2>
 Fei
 "Whoa!?"<Opcode 2 15><Close><End of Block>
@@ -213,12 +213,12 @@ civilian part of the city,
 once you've taken care of
 everything. You got that!?"<Close><End of Block>
 <TextBlock 32 w:56 h:4>
-Mystery woman
+Mystery Woman
 "<Delay 5>...<Delay 5>I finally get to meet
 you. You're Fei, right?<Delay 45>
 And<--> Uh, outta the way!!"<Close><End of Block>
 <TextBlock 33 w:56 h:5>
-Woman called Ms Cohen
+Woman Called Ms Cohen
 "You men are hopeless!<Delay 15>
 This is why I didn't want
 to come with you two.<New>
@@ -233,7 +233,7 @@ You two keep quiet!!"<Opcode 2 30><Close><End of Block>
 <TextBlock 35 w:48 h:3>
 Committee Member Rue
 "Well then,<Delay 20> hope to talk
-to you again...soon!"<Opcode 2 20><Close><End of Block>
+to you again...soon!"<Opcode 2 40><Close><End of Block>
 <TextBlock 36 w:8 h:1>
  !? <Opcode 2 15><Close><End of Block>
 <TextBlock 37 w:58 h:2>
@@ -612,12 +612,12 @@ Fei
 Committee Member Rue
 "It's a recreational sport,
 where Gear fights against
-Gear, or even Gear fights
+Gear, or Gear even fights
 against monster, depending
 on the program.<New>
-Currently, there are no
-regulations for eligibility.<Delay 10>
-And we, the Committee,
+Essentially, eligibility to
+take part is unrestricted,<Delay 10>
+and we, the Committee,
 rarely interact with the
 participants directly.<Delay 10>
 You should be honored.<New>
@@ -700,17 +700,17 @@ Fei
 If you overheard, you
 should already know.<New>
 I don't like fighting.
-And Gears, well<Delay 5>...!<Delay 20>
-Moreover, there is no
-reason for me to do it."<Close><End of Block>
+Or riding Gears<Delay 5>...<Delay 20>
+So it just makes no
+sense for me to do it."<Close><End of Block>
 <TextBlock 106 w:50 h:4>
 Hammer
 "If you become a Battler,
 you can leave the prison
 and live in luxury!<New>
 Power is everything here!
-The powerless<Delay 5>...<Delay 5>the weak
-are just oppressed!!<Delay 20>
+The weak and the power-
+less just get oppressed!!<Delay 20>
 So c'mon,<Delay 5> give it a try!"<Close><End of Block>
 <TextBlock 107 w:32 h:2>
 Fei
