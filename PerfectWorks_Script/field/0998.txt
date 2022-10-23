@@ -316,7 +316,7 @@ Guard
 <TextBlock 67 w:52 h:3>
 Guard
 "From prisoner to Battler.
-Well good luck<Delay 5>..."<Close><End of Block>
+Well, good luck<Delay 5>..."<Close><End of Block>
 <TextBlock 68 w:56 h:4>
 Guard
 "Hmm, so you're the new guy?<Delay 15>
@@ -337,9 +337,9 @@ in the dorm or the bar.<New>
 Hurry, now!"<Close><End of Block>
 <TextBlock 70 w:44 h:4>
 Guard
-"This is your one in a
-million chance to show
-your stuff!!<New>
+"This is your one-in
+a-million chance to
+show your stuff!!<New>
 The dorm or the bar...
 Hurry!"<Close><End of Block>
 <TextBlock 71 w:52 h:4>
@@ -386,9 +386,9 @@ Guard
 rank A prisoners like you.<New>
 That's why the Committee
 noticed you.<New>
-This years match, it's
-expected<Delay 5>...<Delay 5>
-the Champ will win though."<Close><End of Block>
+This years match<Delay 5>...<Delay 5>
+it's expected the Champ
+will win, though."<Close><End of Block>
 <TextBlock 76 w:54 h:5>
 Guard
 "<Delay 5>...<Delay 5>You lost to Suzanne and
@@ -412,9 +412,9 @@ prisoner about entering
 the Battling<Delay 5>...?"<Close><End of Block>
 <TextBlock 79 w:54 h:4>
 Guard
-"Hey. it's a once in a life
-time chance. You gotta give
-it a try<Delay 5>...<Delay 5>..."<Close><End of Block>
+"Hey, it's a once-in-a-
+lifetime chance. You gotta
+give it a try<Delay 5>...<Delay 5>..."<Close><End of Block>
 <TextBlock 80 w:48 h:4>
 Guard
 "Are those Imperial
@@ -426,9 +426,9 @@ prisoner about entering
 the Battling<Delay 5>...?"<Close><End of Block>
 <TextBlock 81 w:54 h:4>
 Guard
-"Hey. it's a once in a life
-time chance. You gotta give
-it a try<Delay 5>...<Delay 5>..."<Close><End of Block>
+"Hey, it's a once-in-a-
+lifetime chance. You gotta
+give it a try<Delay 5>...<Delay 5>..."<Close><End of Block>
 <TextBlock 82 w:48 h:4>
 Guard
 "It's unbelievable!<New>

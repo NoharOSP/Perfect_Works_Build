@@ -1384,13 +1384,13 @@ The Kaiser himself watches
 over the Battling matches
 and cancels any sentence
 the winner is serving.<New>
-Also the winner is given
+The winner is also given
 a position as a military
 officer as an added bonus!"<Close><End of Block>
 <TextBlock 241 w:56 h:4>
 Citan
-"Well then, all we have to
-do is win at the Games then!
+"So, all we have to do is
+win at the Games, then!
 Do we not, Fei?"<Close><End of Block>
 <TextBlock 242 w:54 h:3>
 Hammer
@@ -1453,14 +1453,14 @@ To do that you will have
 to defeat the current
 Champion, Master Rico!<New>
 But our bro here is the
-same as I am... Rank D! The
+same as I am <--> Rank D! The
 difference from the Champ to
 us is like man and mouse!"<Close><End of Block>
 <TextBlock 247 w:50 h:4>
 Hammer
 "And this time we're
 talking about Battling!
-With Gears, bro, Gears!<New>
+With Gears, bro! Gears!<New>
 There's no assurance of
 your safety.<New>
 He's so skilled, he could
@@ -1549,7 +1549,7 @@ Citan
 winner is supposed to
 receive a pardon, right?<New>
 Why is he still a
-prisoner now then?"<Close><End of Block>
+prisoner now, then?"<Close><End of Block>
 <TextBlock 260 w:52 h:4>
 Hammer
 "That's the thing!<Delay 20> Master
@@ -1562,7 +1562,7 @@ fighting a great deal<Delay 5>...!"<Close><End of Block>
 <TextBlock 261 w:54 h:4>
 Fei
 "Well, we can't just stand
-round here talking about
+around here talking about
 it.<New>
 I don't care whether it is
 Battling or whatever! If

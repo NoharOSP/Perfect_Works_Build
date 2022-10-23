@@ -805,7 +805,7 @@ want to, bro!"<Close><End of Block>
 <TextBlock 164 w:52 h:4>
 Fei
 "But besides that, Hammer,
-since yesterday, you've
+since yesterday you've
 seemed a little too happy!<New>
 Is there something strange
 going on behind the scenes
@@ -815,17 +815,18 @@ Hammer
 "<Delay 5>...<Delay 5>Huh?
 N-N-No! N-Nothing! 
 N-N-Nothing at all!<New>
-The mechanic of champions,
-me, has had his sins wiped
-clean so there is nothing
-to be suspicious of! Heh!"<Close><End of Block>
+I, the mechanic of
+champions, have had my
+sins wiped clean!<New>
+So there is nothing to be
+suspicious about! Heh!"<Close><End of Block>
 <TextBlock 166 w:28 h:2>
 Fei
 "Hmm, really?"<Close><End of Block>
 <TextBlock 167 w:50 h:4>
 Hammer
 "What do you mean?
-I told you there is
+I told you <-->
 nothing at all!<New>
 Oooh!
 I've got a lot to do, so

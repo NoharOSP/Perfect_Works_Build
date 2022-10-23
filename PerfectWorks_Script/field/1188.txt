@@ -1,5 +1,4 @@
-<TextBlock 1 w:9 h:2>
-<...><...><°><Close>
+<TextBlock 1 w:9 h:1>
 ...<Close><End of Block>
 <TextBlock 2 w:46 h:4>
 We couldn't get as many
@@ -9,7 +8,7 @@ all means, use them! <Close><End of Block>
 <TextBlock 3 w:56 h:1>
 This door leads to the hall.<Close><End of Block>
 <TextBlock 4 w:36 h:3>
-Be sure to tune-up
+Be sure to tune up
 your Gears for the
 decisive battle!<Close><End of Block>
 <TextBlock 5 w:52 h:3>
@@ -21,6 +20,6 @@ get lost around here...<Close><End of Block>
 <TextBlock 6 w:46 h:3>
 This is the Gear Shop!<Delay 10>
 Look inside if you want
-to tune-up your Gear.<Close><End of Block>
+to tune up your Gear.<Close><End of Block>
 <TextBlock 7 w:0 h:1>
 <Close><End of Block>

@@ -55,8 +55,8 @@ turnin'<Delay 15>...<Delay 5> Nope.<Close><End of Block>
 <TextBlock 12 w:55 h:4>
 They only let me out
 when we go to church on
-the weekends...I'm bored
-cooped up in the house.<Delay 5><...><Delay 5><...><°><New>
+the weekends... I'm bored
+cooped up in the house<Delay 5>...<New>
 I wish I could go and play
 with the church folk.<Close><End of Block>
 <TextBlock 13 w:32 h:2>
