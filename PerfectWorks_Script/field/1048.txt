@@ -302,7 +302,7 @@ Hammer
 "Thanks, bro, but how about
 buying something else apart
 from items?<New>
-It'll help old Hammer out!<Delay 30>
+It'll help old Hammer out!"<Delay 30>
 <Opcode 1 255>    Enough already!
     Hammer's items
     Hammer's Gear Parts<Close><End of Block>
@@ -333,7 +333,7 @@ Hammer
 "Thanks, bro, but how about
 buying something else apart
 from Gear parts?<New>
-It'll help old Hammer out!<Delay 30>
+It'll help old Hammer out!"<Delay 30>
 <Opcode 1 255>    Enough already!
     Hammer's items
     Hammer's Gear Parts<Close><End of Block>

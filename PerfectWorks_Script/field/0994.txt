@@ -111,7 +111,7 @@ Imperial Guard
 "This is a warning.<New>
 As long as you have that
 bomb around your neck,
-going on step further
+going one step further
 ahead would be a mistake.<New>
 If you don't want to die,
 stay away."<Close><End of Block>
@@ -142,7 +142,7 @@ Imperial Guard
 "This is a warning.<New>
 As long as you have that
 bomb around your neck,
-going on step further
+going one step further
 ahead would be a mistake.<New>
 If you don't want to die,
 stay away."<Close><End of Block>
