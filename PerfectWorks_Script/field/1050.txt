@@ -1472,23 +1472,23 @@ about the in-battle music ?"
 <TextBlock 248 w:54 h:4>
 Receptionist
 "I have confirmed the entry
-of Pilot 'Fei'. <Delay 15>
+of pilot Fei. <Delay 15>
 One moment please<Delay 5>..."<Close><End of Block>
 <TextBlock 249 w:56 h:3>
-'<Weltall>' has been sent
+<Weltall> has been sent
 to the competitors' paddock.
-Standby for boarding!<Close><End of Block>
+Stand by for boarding!<Close><End of Block>
 <TextBlock 250 w:56 h:3>
-'<Weltall-2>' has been sent 
+<Weltall-2> has been sent 
 to the competitors' paddock.
-Standby for boarding!<Close><End of Block>
+Stand by for boarding!<Close><End of Block>
 <TextBlock 251 w:56 h:3>
-'<Xenogears>' has been sent
+<Xenogears> has been sent
 to the competitors' paddock.
-Standby for boarding!<Close><End of Block>
+Stand by for boarding!<Close><End of Block>
 <TextBlock 252 w:44 h:3>
-Pilot Fei! 
-Please proceed to the 
+Pilot Fei!
+Please proceed to the
 competitor's paddock!<Opcode 2 60><Close><End of Block>
 <TextBlock 253 w:54 h:4>
 Informationist
@@ -1499,7 +1499,7 @@ a bit about 'Battling'."<Close><End of Block>
 Informationist
 "Battling is the sport of
 fighting one-on-one with
-Gears and is held at the 
+Gears and is held at the
 Imperial Capital's arena.<New>
 The format of the sport is
 simple - fight until one or

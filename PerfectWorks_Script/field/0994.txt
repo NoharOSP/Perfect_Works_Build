@@ -1,24 +1,25 @@
 <TextBlock 1 w:50 h:4>
 Imperial Guard
 "Up ahead is the northern
-gate of A Block, but it
-is closed off due to<New>
-construction."<Close><End of Block>
+gate of A Block,<New>
+but it is closed off due
+to construction."<Close><End of Block>
 <TextBlock 2 w:50 h:4>
 Imperial Guard
 "We deeply apologize, but
-there are three other<New>
-gates: west, north and
-south. Please enter
-through any one of
-those."<Close><End of Block>
+there are three other
+gates:<New>
+west, north and south.
+Please enter through any
+one of those."<Close><End of Block>
 <TextBlock 3 w:50 h:4>
 Imperial Guard
 "The sun has already gone
-down.<Delay 15> It is far too
-dangerous outside the<New>
-capital so I cannot
-permit you passage."<Close><End of Block>
+down.<New>
+It is far too dangerous
+outside the Capital, so
+I cannot permit you
+passage."<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 Imperial Guard
 "It's unfortunate, but
@@ -27,10 +28,11 @@ leave the premises<Delay 5>..."<Close><End of Block>
 <TextBlock 5 w:50 h:4>
 Imperial Guard
 "The sun has already gone
-down.<Delay 15> It is far too
-dangerous outside the<New>
-capital so I cannot
-permit you passage."<Close><End of Block>
+down.<New>
+It is far too dangerous
+outside the Capital, so
+I cannot permit you
+passage."<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Imperial Guard
 "It's unfortunate, but
@@ -41,8 +43,9 @@ Imperial Guard
 "The sun has already gone
 down.<Delay 15> Only authorized
 personnel are permitted
-passage. Please present<New>
-your passes."<Close><End of Block>
+passage.<New>
+Please present your
+passes."<Close><End of Block>
 <TextBlock 8 w:50 h:4>
 Imperial Guard
 "I'm sorry.<Delay 5>
@@ -54,99 +57,95 @@ premises<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 Imperial Guard
 "The sun has already gone
-down.<Delay 15> I am sincerely
-sorry, but passage<New>
-through the front gate is
-not possible."<Close><End of Block>
+down.<New>
+I am sincerely sorry, but
+passage through the front
+gate is not possible."<Close><End of Block>
 <TextBlock 10 w:50 h:4>
 Imperial Guard
 "When the sun goes down,
-of the three gates, the
-northern and the southern<New>
-gates are closed and it
-becomes possible to pass
-through only the western
+the northern and southern
+gates are closed.<New>
+It'll only be possible to
+pass through the western
 gate."<Close><End of Block>
 <TextBlock 11 w:50 h:4>
 Imperial Guard
 "The sun has already gone
-down.<Delay 15> I am sincerely
-sorry, but passage<New>
-through the front gate is
-not possible."<Close><End of Block>
+down.<New>
+I am sincerely sorry, but
+passage through the front
+gate is not possible."<Close><End of Block>
 <TextBlock 12 w:50 h:4>
 Imperial Guard
 "When the sun goes down,
-of the three gates, the
-northern and the southern<New>
-gates are closed and it
-becomes possible to pass
-through only the western
+the northern and southern
+gates are closed.<New>
+It'll only be possible to
+pass through the western
 gate."<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 Imperial Guard
 "The Battling Champ.<Delay 15> I was
 in awe when I watched
-your title match.<Delay 15> <New>
+your title match.<New>
 Please forgive my past
-discourtesy to you.
+discourtesy to you.<New>
 The single roads
-going north and south<New>
+going north and south
 will take you out of the
-Imperial capital. The
-middle is the Central
-District and to the<New>
+Imperial Capital.<New>
+The middle is the Central
+District, and to the
 southwest is the Imperial
 A Block."<Close><End of Block>
 <TextBlock 14 w:52 h:4>
 Imperial Guard
 "From here on,<Delay 5> prisoner
 Battlers are not
-permitted<Delay 5>...<Delay 5> <New>
+permitted<Delay 5>...<New>
 The only area you can go
-to is the Battling arena."<Close><End of Block>
+to is the Battling Arena."<Close><End of Block>
 <TextBlock 15 w:50 h:4>
 Imperial Guard
-"This is a warning.<Delay 5><New>
+"This is a warning.<New>
 As long as you have that
 bomb around your neck,
-putting your foot out
-there is the last thing<New>
-you want to do. <Delay 15>
+going on step further
+ahead would be a mistake.<New>
 If you don't want to die,
-don't go near it."<Close><End of Block>
+stay away."<Close><End of Block>
 <TextBlock 16 w:52 h:4>
 Imperial Guard
 "The Battling Champ.<Delay 15> I was
 in awe when I watched
-your title match.<Delay 15> <New>
+your title match.<New>
 Please forgive my past
-discourtesy to you.
+discourtesy to you.<New>
 The single roads
-going north and south<New>
+going north and south
 will take you out of the
-Imperial capital. The
-middle is the Central 
-District and to the<New>
+Imperial Capital.<New>
+The middle is the Central
+District, and to the
 southwest is the Imperial
 A Block."<Close><End of Block>
 <TextBlock 17 w:52 h:4>
 Imperial Guard
 "From here on,<Delay 5> prisoner
 Battlers are not
-permitted<Delay 5>...<Delay 5> <New>
+permitted<Delay 5>...<New>
 The only area you can go
-to is the Battling arena."<Close><End of Block>
+to is the Battling Arena."<Close><End of Block>
 <TextBlock 18 w:50 h:4>
 Imperial Guard
-"This is a warning.<Delay 5><New>
+"This is a warning.<New>
 As long as you have that
 bomb around your neck,
-putting your foot out
-there is the last thing<New>
-you want to do. <Delay 15>
+going on step further
+ahead would be a mistake.<New>
 If you don't want to die,
-don't go near it."<Close><End of Block>
+stay away."<Close><End of Block>
 <TextBlock 19 w:18 h:1>
 <Opcode 1 255>World Map<Close><End of Block>
 <TextBlock 20 w:18 h:1>

@@ -278,8 +278,8 @@ You'll ruin the coin,
 don't do it!<Close><End of Block>
 <TextBlock 60 w:50 h:4>
 Hmmm, <Delay 5>according to
-my theory, the coin should
-get bigger<Delay 5>...<Delay 8>
+my theory, the coin
+should get bigger<Delay 5>...<Delay 8>
 So, <Delay 5>it'll be worth more!<Close><End of Block>
 <TextBlock 61 w:48 h:4>
 My Adaman-coin is messed
@@ -292,7 +292,7 @@ It was better before!<Close><End of Block>
 <TextBlock 62 w:56 h:4>
 There are rails here.<Delay 15>
 Occasionally a train comes
-through here!<Delay 5>...<Delay 5>So<Delay 12>
+through here! So<Delay 5>...<Delay 12>
 I put a coin here as a test.<Close><End of Block>
 <TextBlock 63 w:46 h:3>
        -WARNING-
@@ -337,7 +337,7 @@ in the dorm or the bar.<New>
 Hurry, now!"<Close><End of Block>
 <TextBlock 70 w:44 h:4>
 Guard
-"This is your one-in
+"This is your one-in-
 a-million chance to
 show your stuff!!<New>
 The dorm or the bar...
@@ -553,9 +553,10 @@ Did he say he would be
 waiting at the dormitory?"<Close><End of Block>
 <TextBlock 100 w:36 h:4>
 Rico
-"Wait, Fei.<Delay 15>
-Until the Battling
-thing is settled."<Close><End of Block>
+"Wait, Fei.<New>
+Do your Battling
+once everything
+is resolved."<Close><End of Block>
 <TextBlock 101 w:28 h:2>
 Fei
 "Who are you?"<Close><End of Block>

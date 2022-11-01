@@ -302,7 +302,7 @@ Hammer
 "Thanks, bro, but how about
 buying something else apart
 from items?<New>
-It'll help Hammer out, too!<Delay 30>
+It'll help old Hammer out!<Delay 30>
 <Opcode 1 255>    Enough already!
     Hammer's items
     Hammer's Gear Parts<Close><End of Block>
@@ -333,7 +333,7 @@ Hammer
 "Thanks, bro, but how about
 buying something else apart
 from Gear parts?<New>
-It'll help Hammer out, too!<Delay 30>
+It'll help old Hammer out!<Delay 30>
 <Opcode 1 255>    Enough already!
     Hammer's items
     Hammer's Gear Parts<Close><End of Block>
@@ -481,12 +481,12 @@ Finals League?"<Delay 15>
 Receptionist
 "I have confirmed the entry
 of pilot Fei.<Delay 15>
-One moment please<Delay 5>..."<Close><End of Block>
+One moment, please<Delay 5>..."<Close><End of Block>
 <TextBlock 105 w:46 h:4>
 The Gear <Weltall>
 has been sent to
 the storage paddock.
-Standby for boarding!<Close><End of Block>
+Stand by for boarding!<Close><End of Block>
 <TextBlock 106 w:56 h:2>
 Pilot Fei, please proceed to
 the competitor's paddock!<Close><End of Block>
@@ -584,7 +584,7 @@ What else do you want to
 inquire about?"<Close><End of Block>
 <TextBlock 119 w:50 h:8>
 "Which button do you need
-an explanation of?"<Delay 15>
+an explanation for?"<Delay 15>
 <Opcode 1 255>    Directional buttons
     <X> button
     <S> button
@@ -927,7 +927,7 @@ Gears<Delay 5>...<New>
 Has something happened in
 the last few days to make
 you change your mind in
-such a large way?"<Close><End of Block>
+such a major way?"<Close><End of Block>
 <TextBlock 172 w:56 h:4>
 Fei
 "Well, I have my reasons.<Delay 15>
@@ -942,8 +942,8 @@ Fei
 "Living the rest of my life
 with sewer monsters is not
 that bad<Delay 5>...<New>
-it's just, <Delay 5>well...<Delay 5>
-...there are many factors."<Close><End of Block>
+It's just, <Delay 5>well...<Delay 5>
+there are many factors."<Close><End of Block>
 <TextBlock 175 w:56 h:3>
 Fei
 "Then there's this collar!<Delay 15>
@@ -1013,7 +1013,7 @@ give us a little time?"<Close><End of Block>
 Rue
 "<Delay 5>...<Delay 5>Understood. <Delay 15>But we don't
 have much time to spare, so
-please hurry up now<Delay 5>..."<Close><End of Block>
+please hurry up, now<Delay 5>..."<Close><End of Block>
 <TextBlock 189 w:56 h:5>
 Rue
 "Report to the officials.<Delay 15>

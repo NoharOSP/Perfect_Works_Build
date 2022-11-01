@@ -2,7 +2,7 @@
 Fei
 "I guess I can rest here<Delay 5>..."<Delay 15>
     Rest up!
-    Not yet.<Close><End of Block>
+    Not yet<Close><End of Block>
 <TextBlock 2 w:54 h:4>
 Fei
 "...Hey, and rank doesn't
@@ -16,7 +16,7 @@ So, which bed shall I use?"<New>
 Fei
 "I guess I can rest here<Delay 5>..."<Delay 15>
     Rest up!
-    Not yet.<Close><End of Block>
+    Not yet<Close><End of Block>
 <TextBlock 4 w:46 h:2>
 Fei
 "The rank A bed it is!"<Close><End of Block>
@@ -42,7 +42,7 @@ Fei
 I'll do what you want!"<Close><End of Block>
 <TextBlock 11 w:56 h:4>
 Fei
-"Huh? <Delay 5>... <Delay 5>
+"Huh<Delay 5>...?<Delay 5>
 Someone's coming downstairs.<Delay 10>
 <Delay 5>...<Delay 5>I guess it'll be Hammer."<Close><End of Block>
 <TextBlock 12 w:48 h:4>
@@ -63,23 +63,23 @@ how about buying something?"<Delay 15>
 Hammer
 "So<Delay 5>...<Delay 5>maybe not today, but
 there's always tomorrow!<Delay 15> Buy
-something next time, huh!"<Close><End of Block>
-<TextBlock 15 w:40 h:4>
+something next time, huh?"<Close><End of Block>
+<TextBlock 15 w:42 h:4>
 Hammer
-"Yes! That's my bro!<Delay 10>
-You're too kind man!
+"Yeah! <Delay 5>That's my bro!<Delay 10>
+You're too kind, man!
 Much appreciated!"<Close><End of Block>
 <TextBlock 16 w:48 h:4>
 Hammer
-"What do you need bro?"<Delay 15>
+"What do you need, bro?"<Delay 15>
     Hammer's items
     Hammer's accessories<Close><End of Block>
 <TextBlock 17 w:54 h:4>
 Hammer
-"Thanks bro, but how about
+"Thanks, bro, but how about
 buying something else apart
 from items?<New>
-It'll help Hammer out too!"<Delay 30>
+It'll help old Hammer out!"<Delay 30>
 <Opcode 1 255>    Enough already!
     Hammer's items
     Hammer's accessories<Close><End of Block>
@@ -90,10 +90,10 @@ so long as I am with you,<Delay 5>
 money's no problem, heh!"<Close><End of Block>
 <TextBlock 19 w:54 h:4>
 Hammer
-"Thanks bro, but how about
+"Thanks, bro, but how about
 buying something else apart
 from accessories?<New>
-It'll help Hammer out too!"<Delay 30>
+It'll help old Hammer out!"<Delay 30>
 <Opcode 1 255>    Enough already!
     Hammer's items
     Hammer's accessories<Close><End of Block>
@@ -206,19 +206,19 @@ Can you not quiet down<Delay 5>...?"<Close><End of Block>
 <TextBlock 37 w:34 h:3>
 Rico
 "<Delay 5>...<Delay 5>Long time no
-see, huh, Kid!"<Close><End of Block>
+see, huh, Kid?"<Close><End of Block>
 <TextBlock 38 w:48 h:4>
 Rico
-"For the sake of my men
-too, I am about to check
-out the sewers.<New>
+"For the sake of my men,
+I am about to check out
+the sewers.<New>
 I've said what I
 wanted to say<Delay 5>..."<Close><End of Block>
 <TextBlock 39 w:44 h:4>
 Rico
 "You want to tag
 along, huh?
-I don't care.<New>
+I don't mind.<New>
 But you've got to look
 after your own neck!"<Close><End of Block>
 <TextBlock 40 w:56 h:4>
@@ -294,7 +294,7 @@ Fei
 *Gasp*<Delay 5>...<Delay 10> Urgh<Delay 5>..."<Opcode 2 240><Close><End of Block>
 <TextBlock 56 w:38 h:4>
 Fei
-"Wh-Where am I<Delay 5>...<Delay 15>
+"Wh-Where am I<Delay 5>...?<Delay 15>
 Oh, the infirmary?"<Close><End of Block>
 <TextBlock 57 w:46 h:4>
 Fei
@@ -380,7 +380,7 @@ Citan
 "<Delay 5>...<Delay 5>I suppose you are
 right. I understand what you
 mean, Fei.<New>
-We have got to try and get
+We have got to try to get
 out of here as soon as
 we possibly can."<Close><End of Block>
 <TextBlock 74 w:54 h:4>
@@ -392,7 +392,7 @@ Take time to rest up
 a little more..."<Close><End of Block>
 <TextBlock 75 w:50 h:4>
 Fei
-"You're the doc,<Delay 5>...<Delay 5>Doc!<Delay 15>
+"You're the doc<Delay 5>...<Delay 5>Doc!<Delay 15>
 I'll try<Delay 5>...<Delay 5>to get<Delay 5>...
 a little more<Delay 5>...<Delay 5>rest<Delay 5>..."<Opcode 2 45><Close><End of Block>
 <TextBlock 76 w:50 h:3>
@@ -428,7 +428,7 @@ Rico
 <Delay 5>...<Delay 5>I came in regard to the
 incident of the explosion
 during the first rounds of
-the Battling contest."<Close><End of Block>
+the Battling Contest."<Close><End of Block>
 <TextBlock 82 w:48 h:4>
 Fei
 "Explosion incident?<Delay 15>
@@ -463,9 +463,9 @@ committed?"<Close><End of Block>
 Rico
 "...They're no
 longer with us!<New>
-You're the doctor, don't you
-know what's been happening?<Delay 20>
-What's going on here in the
+As the doctor, don't you
+know what's been happening,<Delay 20>
+what's going on here in the
 Imperial Capital's D Block?"<Close><End of Block>
 <TextBlock 87 w:50 h:4>
 Citan
@@ -477,13 +477,12 @@ Rico
 "Yes...<Delay 20> A string of skilled
 Battlers have been murdered
 one after the other!<New>
-All of the victims that
-have been killed were
+All of the victims were
 my subordinates<Delay 5>..."<Close><End of Block>
 <TextBlock 89 w:50 h:3>
 Rico
 "Kid<--><Delay 5>
-I mean, Fei<Delay 5>...!<New>
+I mean, Fei<Delay 5>...<New>
 They were the very people
 who had set that trap to
 kill you!"<Close><End of Block>
@@ -498,7 +497,7 @@ Citan
 Battlers had set a trap to
 try to kill Fei<Delay 5>...<New>
 When Fei comes to know of
-this he has good reason
+this, he has good reason
 to kill them<Delay 5>...<New>
 Out of hatred of his would-
 be killers, he plots
@@ -528,7 +527,7 @@ guilty, either.<New>
 The only thing that can
 prove your innocence is
 if there is any truth in
-that story going round...<New>
+that story going around...<New>
 The story of a monster in
 the sewers that is strong
 enough to kill five
@@ -1567,7 +1566,7 @@ it.<New>
 I don't care whether it is
 Battling or whatever! If
 there is a chance then I am
-going to try and take it!"<Close><End of Block>
+going to try to take it!"<Close><End of Block>
 <TextBlock 262 w:36 h:2>
 Hammer
 "Are you serious?"<Close><End of Block>

@@ -398,12 +398,12 @@ It was so sorrowful,<Delay 5> just
 as if it was recalling
 some sad memory<Delay 5>...<Close><End of Block>
 <TextBlock 68 w:56 h:3>
-<Delay 5>...<Delay 5>Huh? That means he's even
-more powerful than our
-current Champ<Delay 5>...<Delay 5>doesn't it?<Close><End of Block>
+<Delay 5>...<Delay 5>Hmm? That would mean
+they're even more powerful
+than our current Champ<Delay 5>...<Delay 5>?<Close><End of Block>
 <TextBlock 69 w:58 h:3>
 Then that's no good at all!
-It's only made matters worse!<Delay 15>
+It'd only make matters worse!<Delay 15>
 Oh, how I want more power<Delay 5>...<Delay 5>!<Close><End of Block>
 <TextBlock 70 w:54 h:4>
 <Delay 5>...<Delay 5>The Champ's strength is

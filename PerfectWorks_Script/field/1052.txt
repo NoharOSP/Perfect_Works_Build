@@ -1,7 +1,7 @@
 <TextBlock 1 w:56 h:6>
 "Your Gear has been entered.
 What do you wish to do?"<Delay 15>
-<Opcode 1 255>    Learn Controls
+<Opcode 1 255>    Learn controls
     Tutorial Mode
     Practice Mode
     Begin battle<Close><End of Block>
@@ -18,17 +18,17 @@ the actual screen."<Close><End of Block>
 <TextBlock 4 w:56 h:3>
 Informationist
 "So, <Delay 10>you want to try out the
-actual controls, huh..."<Close><End of Block>
+actual controls, huh...?"<Close><End of Block>
 <TextBlock 5 w:56 h:4>
 Informationist
-"About to start a bout!<Delay 5> OK?"<Delay 15>
+"Ready to start the bout?"<Delay 15>
 <Opcode 1 255>    One moment!
-    A'bout time!<Close><End of Block>
+    A 'bout' time!<Close><End of Block>
 <TextBlock 6 w:36 h:1>
 <Opcode 1 255>- Beginning Bout -<Close><End of Block>
 <TextBlock 7 w:50 h:8>
 "Which button do you need
-an explanation of?<Delay 15>
+an explanation for?<Delay 15>
 <Opcode 1 255>    Directional button
     <X> button
     <S> button
@@ -40,34 +40,35 @@ an explanation of?<Delay 15>
 you about?"<Delay 15>
 <Opcode 1 255>    L1 button
     R1 button
-    Start button
+    START button
     Back to first page
     End explanation<Close><End of Block>
 <TextBlock 9 w:56 h:5>
 Informationist
-"O.K.,<Delay 5> about the Directional
-button...<Delay 15>assuming that your
+"Okay,<Delay 5> about the directional
+button...<Delay 15> Assuming that your
 opponent is on your right
 (from your viewpoint) then:<New>
-<=> UP moves your Gear back
- away from the screen.<Delay 45>
-<=> DOWN moves your Gear in
- towards the screen.<New>
-<=> RIGHT moves your Gear
- towards your opponent.<Delay 45>
-<=> LEFT moves your Gear
- away from your opponent.<Close><End of Block>
+<=> Up moves your Gear back
+  away from the screen.<Delay 45>
+<=> Down moves your Gear in
+  towards the screen.<New>
+<=> Right moves your Gear
+  towards your opponent.<Delay 45>
+<=> Left moves your Gear
+  away from your opponent."<Close><End of Block>
 <TextBlock 10 w:56 h:5>
 Informationist
 "Lastly, when you're close
 to your opponent, pressing
-LEFT invokes a special move
-momentary back acceleration!<New>
-This momentarily distances
+left invokes a special move:
+swift backward acceleration!<New>
+This instantly distances
 you from your opponent (or
-allows you to 'run away')!<Delay 30>
-Just remember the opposite
-direction to your opponent.<Close><End of Block>
+allows you to 'run away'!)<New>
+Just remember, move in the
+direction opposite your
+opponent."<Close><End of Block>
 <TextBlock 11 w:54 h:5>
 Informationist
 "That's it in a nutshell!<Delay 30>
@@ -76,9 +77,9 @@ the idea by actually trying
 your hand at the controls!"<Close><End of Block>
 <TextBlock 12 w:56 h:4>
 Informationist
-"The <X> button is ATTACK.<Delay 15>
-(There are 3 attack buttons
-and <X> is one of them.)<New>
+"The <X> button is Attack.<Delay 15>
+(There are three attack but-
+tons and <X> is one of them.)<New>
 It changes from Gear to Gear
 but is mainly meant for
 close combat.<Delay 15> And you're not
@@ -87,14 +88,14 @@ By combining the <X> and <S>
 buttons you are able to make
 a chain of attacks up to
 three long!<New>
-All together there are 14
-such combinations that you
-can use!"<Close><End of Block>
+Altogether there are
+fourteen such combinations
+that you can use!"<Close><End of Block>
 <TextBlock 13 w:56 h:4>
 Informationist
-"The <S> button is ATTACK.<Delay 15>
-(There are 3 attack buttons
-and <S> is one of them.)<New>
+"The <S> button is Attack.<Delay 15>
+(There are three attack but-
+tons and <S> is one of them.)<New>
 It differs from Gear to Gear
 but is mainly utilized for
 close combat.<Delay 15> And you're not
@@ -103,23 +104,23 @@ By combining the <X> and <S>
 buttons you are able to make
 a chain of attacks up to
 three in length!<New>
-All together there are 14
-such combinations that you
-can try out!"<Close><End of Block>
+Altogether there are
+fourteen such combinations
+that you can try out!"<Close><End of Block>
 <TextBlock 14 w:56 h:4>
 Informationist
-"The <T> button is for JUMP!<Delay 5>
+"The <T> button is for Jump!<Delay 5>
 Your movement controls are
-the same during jumps.<New>
+the same during Jumps.<New>
 Also, you are able to attack
 with the <X> and <S> buttons
-during jumps!<New>
+during Jumps!<New>
 Oh, and it's alright to use
 the R1 button to make Ether
-Bullet attacks too!<Close><End of Block>
+Bullet attacks, too!"<Close><End of Block>
 <TextBlock 15 w:53 h:4>
 Informationist
-"The <C> button is for DASH.<Delay 10>
+"The <C> button is for Dash.<Delay 10>
 Your movement controls are
 the same as usual.<New>
 The only thing is that you
@@ -128,40 +129,40 @@ indefinitely."<Close><End of Block>
 <TextBlock 16 w:54 h:5>
 Informationist
 "For more details, try
-the 'Tutorial Mode', where
+the Tutorial Mode, where
 you'll get an explanation 
 from a different official."<Close><End of Block>
 <TextBlock 17 w:56 h:6>
 Informationist
 "Attacking isn't everything!<Delay 10>
-Although it is said that 
+Although it is said that
 'offense is the best form
 of defense', at times it is
 important to defend oneself.<New>
 That's why we have the L1
-button to GUARD you! <Delay 15> But,<Delay 5> 
-it doesn't prevent all of
-the damage so be careful!"<Close><End of Block>
+button to 'Guard' you!<Delay 15> But<Delay 5>
+it doesn't mitigate all of
+the damage, so be careful!"<Close><End of Block>
 <TextBlock 18 w:58 h:5>
 Informationist
-"The R1 button launches a 
-special attack called 'Ether 
-Bullet'.<Delay 15> It's good for long
+"The R1 button launches a
+special attack called 'Ether
+Bullet'.<Delay 15> It's good for long-
 range attacks on your foe!<New>
-'Ether Bullets' have homing
-ability so you may tend to
+Ether Bullets have homing
+ability, so you may tend to
 rely on them, but you might
-regret it if you use them 
+regret it if you use them
 too much! Do be careful!"<Close><End of Block>
 <TextBlock 19 w:56 h:5>
 Informationist
 "For more details, try our 
-'Tutorial Mode', where you
+Tutorial Mode, where you
 will get an explanation from
 a different official."<Close><End of Block>
 <TextBlock 20 w:56 h:4>
 Informationist
-"The Start button will
+"The START button will
 permit you to pause the
 battle.<New>
 At this time, you may select

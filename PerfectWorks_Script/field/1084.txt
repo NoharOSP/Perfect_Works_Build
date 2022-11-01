@@ -244,7 +244,7 @@ there."<Close><End of Block>
 <TextBlock 59 w:36 h:3>
 Leonardo
 "Tch! I guess he
-Upped and left!"<Close><End of Block>
+upped and left!"<Close><End of Block>
 <TextBlock 60 w:30 h:2>
 Leonardo
 "What the...!?"<Opcode 2 5><Close><End of Block>
@@ -258,7 +258,7 @@ Leonardo
 away..."<Opcode 2 2><Close><End of Block>
 <TextBlock 63 w:22 h:2>
 <Opcode 1 255>Leonardo
-"Uwaahhhhh"<Opcode 2 20><Close><End of Block>
+"Uwaahhhh!"<Opcode 2 20><Close><End of Block>
 <TextBlock 64 w:44 h:4>
 Heinrich
 "Wasn't that a bit too
@@ -268,8 +268,8 @@ out, we're done for!"<Close><End of Block>
 Heinrich
 "This just isn't
 like you...<New>
-Alright, then you
-take that one..."<Close><End of Block>
+Alright, you take
+that side."<Close><End of Block>
 <TextBlock 66 w:18 h:2>
 Heinrich
 "Umph..."<Close><End of Block>
