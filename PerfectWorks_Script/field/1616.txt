@@ -1,8 +1,7 @@
 <TextBlock 1 w:36 h:4>
 Fei
-"Is this, <Delay 20>
-the third gate<Delay 10>...<Delay 10>...<Delay 10>
-...<Delay 10>...<Delay 10>?"<Close><End of Block>
+"Is this...<Delay 20>the
+third Gate<Delay 10>...?"<Close><End of Block>
 <TextBlock 2 w:28 h:2>
 Fei
 "Who are you?"<Close><End of Block>
