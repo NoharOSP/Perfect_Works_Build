@@ -122,8 +122,8 @@ Hey, what's the trouble?
 The new medical doctor who
 just came is quite skilled.<Delay 15>
 Have you seen him yet?<Close><End of Block>
-<TextBlock 21 w:50 h:1>
-Nope! No new info lately!<Close><End of Block>
+<TextBlock 21 w:44 h:1>
+No news these days...<Close><End of Block>
 <TextBlock 22 w:54 h:3>
 Av's actions could mean
 disaster for us!<New>

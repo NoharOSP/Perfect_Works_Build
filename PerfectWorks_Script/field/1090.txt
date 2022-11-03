@@ -3,7 +3,7 @@ Fei
 "What!?"<Close><End of Block>
 <TextBlock 2 w:22 h:2>
 Fei
-"Above us!"<Close><End of Block>
+"Above us?"<Close><End of Block>
 <TextBlock 3 w:36 h:2>
 Fei
 "It's not here..."<Close><End of Block>
@@ -14,9 +14,10 @@ Fei
 <TextBlock 5 w:28 h:2>
 Fei
 "What's this?"<Close><End of Block>
-<TextBlock 6 w:50 h:2>
+<TextBlock 6 w:50 h:3>
 Fei
-"Why would it have this?"<Close><End of Block>
+"Why would something like
+this be...?"<Close><End of Block>
 <TextBlock 7 w:14 h:2>
 Fei
 "...??"<Close><End of Block>
@@ -48,8 +49,8 @@ it here!"<Close><End of Block>
 <TextBlock 14 w:40 h:4>
 Rico
 "Wait!<Delay 30>
-We can lure it with
-this thing!"<Close><End of Block>
+Maybe we can lure it
+with this thing!"<Close><End of Block>
 <TextBlock 15 w:44 h:2>
 Rico
 "Where can we use it?"<Close><End of Block>

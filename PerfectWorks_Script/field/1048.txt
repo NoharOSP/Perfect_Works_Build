@@ -62,146 +62,146 @@ Receptionist
 "Today's Battling matches
 have all finished. <Delay 15> Please
 come again."<Close><End of Block>
-<TextBlock 12 w:64 h:1>
-Received '2500G' in prize money!<Close><End of Block>
+<TextBlock 12 w:60 h:1>
+Received 2500G in prize money!<Close><End of Block>
 <TextBlock 13 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 14 w:44 h:1>
-Received '800G' bonus!<Close><End of Block>
-<TextBlock 15 w:64 h:1>
-Received '2000G' in prize money!<Close><End of Block>
+<TextBlock 14 w:40 h:1>
+Received 800G bonus!<Close><End of Block>
+<TextBlock 15 w:60 h:1>
+Received 2000G in prize money!<Close><End of Block>
 <TextBlock 16 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 17 w:44 h:1>
-Received '500G' bonus!<Close><End of Block>
-<TextBlock 18 w:64 h:1>
-Received '1500G' in prize money!<Close><End of Block>
+<TextBlock 17 w:40 h:1>
+Received 500G bonus!<Close><End of Block>
+<TextBlock 18 w:60 h:1>
+Received 1500G in prize money!<Close><End of Block>
 <TextBlock 19 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 20 w:44 h:1>
-Received '400G' bonus!<Close><End of Block>
-<TextBlock 21 w:64 h:1>
-Received '2500G' in prize money!<Close><End of Block>
+<TextBlock 20 w:40 h:1>
+Received 400G bonus!<Close><End of Block>
+<TextBlock 21 w:60 h:1>
+Received 2500G in prize money!<Close><End of Block>
 <TextBlock 22 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 23 w:46 h:1>
-Received '1000G' bonus!<Close><End of Block>
-<TextBlock 24 w:64 h:1>
-Received '2000G' in prize money!<Close><End of Block>
+<TextBlock 23 w:42 h:1>
+Received 1000G bonus!<Close><End of Block>
+<TextBlock 24 w:60 h:1>
+Received 2000G in prize money!<Close><End of Block>
 <TextBlock 25 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 26 w:44 h:1>
-Received '600G' bonus!<Close><End of Block>
-<TextBlock 27 w:64 h:1>
-Received '1500G' in prize money!<Close><End of Block>
+<TextBlock 26 w:40 h:1>
+Received 600G bonus!<Close><End of Block>
+<TextBlock 27 w:60 h:1>
+Received 1500G in prize money!<Close><End of Block>
 <TextBlock 28 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 29 w:44 h:1>
-Received '500G' bonus!<Close><End of Block>
-<TextBlock 30 w:64 h:1>
-Received '2500G' in prize money!<Close><End of Block>
-<TextBlock 31 w:64 h:1>
-Received '2000G' in prize money!<Close><End of Block>
-<TextBlock 32 w:64 h:1>
-Received '1500G' in prize money!<Close><End of Block>
-<TextBlock 33 w:64 h:1>
-Received '1000G' in prize money!<Close><End of Block>
+<TextBlock 29 w:40 h:1>
+Received 500G bonus!<Close><End of Block>
+<TextBlock 30 w:60 h:1>
+Received 2500G in prize money!<Close><End of Block>
+<TextBlock 31 w:60 h:1>
+Received 2000G in prize money!<Close><End of Block>
+<TextBlock 32 w:60 h:1>
+Received 1500G in prize money!<Close><End of Block>
+<TextBlock 33 w:60 h:1>
+Received 1000G in prize money!<Close><End of Block>
 <TextBlock 34 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 35 w:44 h:1>
-Received '300G' bonus!<Close><End of Block>
-<TextBlock 36 w:62 h:1>
-Received '750G' in prize money!<Close><End of Block>
+<TextBlock 35 w:40 h:1>
+Received 300G bonus!<Close><End of Block>
+<TextBlock 36 w:58 h:1>
+Received 750G in prize money!<Close><End of Block>
 <TextBlock 37 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 38 w:44 h:1>
-Received '200G' bonus!<Close><End of Block>
-<TextBlock 39 w:64 h:1>
-Received '1000G' in prize money!<Close><End of Block>
+<TextBlock 38 w:40 h:1>
+Received 200G bonus!<Close><End of Block>
+<TextBlock 39 w:60 h:1>
+Received 1000G in prize money!<Close><End of Block>
 <TextBlock 40 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 41 w:44 h:1>
-Received '400G' bonus!<Close><End of Block>
-<TextBlock 42 w:62 h:1>
-Received '750G' in prize money!<Close><End of Block>
+<TextBlock 41 w:40 h:1>
+Received 400G bonus!<Close><End of Block>
+<TextBlock 42 w:58 h:1>
+Received 750G in prize money!<Close><End of Block>
 <TextBlock 43 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 44 w:44 h:1>
-Received '300G' bonus!<Close><End of Block>
-<TextBlock 45 w:64 h:1>
-Received '1000G' in prize money!<Close><End of Block>
-<TextBlock 46 w:62 h:1>
-Received '750G' in prize money!<Close><End of Block>
-<TextBlock 47 w:62 h:1>
-Received '500G' in prize money!<Close><End of Block>
+<TextBlock 44 w:40 h:1>
+Received 300G bonus!<Close><End of Block>
+<TextBlock 45 w:60 h:1>
+Received 1000G in prize money!<Close><End of Block>
+<TextBlock 46 w:58 h:1>
+Received 750G in prize money!<Close><End of Block>
+<TextBlock 47 w:58 h:1>
+Received 500G in prize money!<Close><End of Block>
 <TextBlock 48 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 49 w:44 h:1>
-Received '200G' bonus!<Close><End of Block>
-<TextBlock 50 w:62 h:1>
-Received '300G' in prize money!<Close><End of Block>
+<TextBlock 49 w:40 h:1>
+Received 200G bonus!<Close><End of Block>
+<TextBlock 50 w:58 h:1>
+Received 300G in prize money!<Close><End of Block>
 <TextBlock 51 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 52 w:44 h:1>
-Received '100G' bonus!<Close><End of Block>
-<TextBlock 53 w:62 h:1>
-Received '500G' in prize money!<Close><End of Block>
+<TextBlock 52 w:40 h:1>
+Received 100G bonus!<Close><End of Block>
+<TextBlock 53 w:58 h:1>
+Received 500G in prize money!<Close><End of Block>
 <TextBlock 54 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 55 w:44 h:1>
-Received '300G' bonus!<Close><End of Block>
-<TextBlock 56 w:62 h:1>
-Received '300G' in prize money!<Close><End of Block>
+<TextBlock 55 w:40 h:1>
+Received 300G bonus!<Close><End of Block>
+<TextBlock 56 w:58 h:1>
+Received 300G in prize money!<Close><End of Block>
 <TextBlock 57 w:50 h:4>
 Receptionist
 "Oh and Supervisor B will
 pay you a special bonus.
 Keep up the good work!"<Close><End of Block>
-<TextBlock 58 w:44 h:1>
-Received '200G' bonus!<Close><End of Block>
-<TextBlock 59 w:62 h:1>
-Received '500G' in prize money!<Close><End of Block>
-<TextBlock 60 w:62 h:1>
-Received '300G' in prize money!<Close><End of Block>
+<TextBlock 58 w:40 h:1>
+Received 200G bonus!<Close><End of Block>
+<TextBlock 59 w:58 h:1>
+Received 500G in prize money!<Close><End of Block>
+<TextBlock 60 w:58 h:1>
+Received 300G in prize money!<Close><End of Block>
 <TextBlock 61 w:32 h:4>
 Rue
 "Are you ready?"<Delay 15>
@@ -1058,13 +1058,13 @@ Hammer
 "Bro,<Delay 5> you did it! You won!
 You're the Battling Champ!
 <Delay 5>...<Delay 5>Or close enough, anyway!<New>
-Victory is in reach! If you
-just win tomorrow's Finals
+Victory is within reach! If
+you win tomorrow's Finals
 League we'll have our names
 cleared and be released!"<Close><End of Block>
 <TextBlock 195 w:54 h:4>
 Fei
-"But Hammer,<Delay 5> you know my
+"But, Hammer,<Delay 5> you know my
 opponent is no pushover!<Delay 5>
 His power is incredible<Delay 5>...<New>
 He's been Battling Champion

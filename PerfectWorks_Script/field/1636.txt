@@ -65,7 +65,8 @@ Citan
 "If I may inquire, why
 was he sent to such a
 place as this...?<New>
-Are the Elders...?"<Close><End of Block>
+Surely the Elders
+did not...?"<Close><End of Block>
 <TextBlock 12 w:18 h:2>
 Citan
 "Then..."<Close><End of Block>
@@ -79,7 +80,7 @@ afford to confirm his
 intentions first."<Close><End of Block>
 <TextBlock 14 w:40 h:3>
 Citan
-"As you command.
+"As you wish.<Delay 10>
 Well then, I will<-->"<Close><End of Block>
 <TextBlock 15 w:32 h:3>
 Citan
@@ -159,8 +160,8 @@ It is likely."<Close><End of Block>
 <TextBlock 28 w:36 h:3>
 Emperor
 "If that is your
-judgment, so shall
-it be done."<Close><End of Block>
+judgment, then
+very well."<Close><End of Block>
 <TextBlock 29 w:36 h:2>
 Emperor
 "Wait a moment..."<Close><End of Block>

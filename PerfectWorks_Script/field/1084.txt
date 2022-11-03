@@ -30,7 +30,7 @@ Fei
 "Looks like something's
 written on the wall in
 blood...<New>
-<Delay 10>'Red monster'.<Close><End of Block>
+<Delay 10>'Red monster'."<Close><End of Block>
 <TextBlock 10 w:26 h:4>
 Fei
 "!?
@@ -54,27 +54,27 @@ monster left?"<Close><End of Block>
 <TextBlock 15 w:42 h:4>
 Fei
 "It sure isn't human!
-This is covered in
-slime."<Close><End of Block>
+This area's covered
+in slime."<Close><End of Block>
 <TextBlock 16 w:40 h:2>
 Fei
 "...?<Delay 20> Huh?<Delay 30> ...What?"<Close><End of Block>
 <TextBlock 17 w:46 h:4>
 Fei
-"Shoot...<Delay 30> The key's not
-here. We can't open the
-door..."<Close><End of Block>
+"Shoot...<Delay 30>
+It's unlocked, but the
+door won't open..."<Close><End of Block>
 <TextBlock 18 w:52 h:3>
 Fei
 "Hey...<Delay 30>your left arm!<Delay 40>
-In that fight, you got..."<Close><End of Block>
+In that fight, you got<-->"<Close><End of Block>
 <TextBlock 19 w:8 h:3>
 Fei
 "?
 ..."<Close><End of Block>
-<TextBlock 20 w:32 h:3>
+<TextBlock 20 w:40 h:3>
 Fei
-"This is covered
+"This area's covered
 in slime."<Close><End of Block>
 <TextBlock 21 w:20 h:2>
 Fei
@@ -93,7 +93,7 @@ Well...<Delay 20>let us look around."<Close><End of Block>
 Citan
 "...Something is <Delay 20>written <Delay 10>
 on the wall...<New>
-'Re...<Delay 30><Wait>
+'Re...<Delay 60>
 Red...<Delay 30>monster...'"<Close><End of Block>
 <TextBlock 26 w:36 h:3>
 Citan
@@ -116,7 +116,7 @@ but it is very likely."<Close><End of Block>
 <TextBlock 31 w:30 h:3>
 Citan
 "How did it go?<Delay 30>
-...Huh!"<Close><End of Block>
+...Oh!"<Close><End of Block>
 <TextBlock 32 w:48 h:4>
 Citan
 "I wonder if he will
@@ -166,7 +166,7 @@ bought it here."<Close><End of Block>
 <TextBlock 43 w:38 h:3>
 Rico
 "It's over by that
-drain, too."<Close><End of Block>
+pipe, too."<Close><End of Block>
 <TextBlock 44 w:52 h:3>
 Rico
 "Hey, this is the same as
@@ -177,7 +177,7 @@ Rico
 murder spot."<Close><End of Block>
 <TextBlock 46 w:44 h:2>
 Rico
-"No way's it human..."<Close><End of Block>
+"No way it's human..."<Close><End of Block>
 <TextBlock 47 w:42 h:2>
 Rico
 "More of the same..."<Close><End of Block>
@@ -301,7 +301,7 @@ You have too many
  
  Received <Opcode 4 20><Close><End of Block>
 <TextBlock 75 w:56 h:1>
-Select button opens the map.<Close><End of Block>
+SELECT button opens the map.<Close><End of Block>
 <TextBlock 76 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

@@ -50,9 +50,9 @@ keys used?"<Close><End of Block>
 <TextBlock 13 w:38 h:2>
 Fei
 "Let's go and see."<Close><End of Block>
-<TextBlock 14 w:32 h:3>
+<TextBlock 14 w:40 h:3>
 Fei
-"This is covered
+"This area's covered
 in slime."<Close><End of Block>
 <TextBlock 15 w:20 h:2>
 Fei
@@ -94,7 +94,7 @@ Citan
 It must be the same."<Close><End of Block>
 <TextBlock 25 w:50 h:3>
 Rico
-"What's wrong? Citan...<Delay 30>
+"What's wrong?<Delay 30> Citan...
 is there something here?"<Close><End of Block>
 <TextBlock 26 w:22 h:3>
 Rico
@@ -152,9 +152,9 @@ Rico
 sewage ends up."<Close><End of Block>
 <TextBlock 37 w:50 h:4>
 Rico
-"From here it's northeast
-through the door and near
-the furthest waterfall."<Close><End of Block>
+"From here, it's through
+the northeast door and
+near the east waterfall."<Close><End of Block>
 <TextBlock 38 w:54 h:2>
 Rico
 "Yeah, it should be there."<Close><End of Block>

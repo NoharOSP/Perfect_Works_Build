@@ -108,12 +108,13 @@ have a bell...?"<Close><End of Block>
 Fei
 "!?
 ..."<Close><End of Block>
-<TextBlock 33 w:52 h:2>
+<TextBlock 33 w:40 h:3>
 Fei
-"This's covered in slime."<Close><End of Block>
+"This area's covered
+in slime."<Close><End of Block>
 <TextBlock 34 w:42 h:2>
 Fei
-"Try to use this..."<Close><End of Block>
+"Try to use it here?"<Close><End of Block>
 <TextBlock 35 w:48 h:4>
 Fei
 "Slime in the drain...<New>
@@ -122,13 +123,13 @@ several places like
 this."<Close><End of Block>
 <TextBlock 36 w:44 h:4>
 Fei
-"That's it!<Delay 30>
-We'll use the bell
-there to lure it out."<Close><End of Block>
+"Right!<Delay 30> If we ring the
+bell there, that could
+lure it out!"<Close><End of Block>
 <TextBlock 37 w:36 h:3>
 Citan
 "Where does this
-drain connect to?"<Close><End of Block>
+pipe connect to?"<Close><End of Block>
 <TextBlock 38 w:10 h:3>
 Citan
 "!?
@@ -142,16 +143,18 @@ I am sure of it."<Close><End of Block>
 Citan
 "This is certainly
 most peculiar."<Close><End of Block>
-<TextBlock 41 w:50 h:3>
+<TextBlock 41 w:50 h:4>
 Citan
-"Do you know where these
-drains come together?"<Close><End of Block>
+"This place where all the
+drains meet... Do you
+know where it is?"<Close><End of Block>
 <TextBlock 42 w:46 h:3>
 Citan
 "There is always slime
 near the murder scene.<New>
-And it seems that it
-happens once only."<Close><End of Block>
+And it only happens
+once at each scene,
+it seems."<Close><End of Block>
 <TextBlock 43 w:54 h:4>
 Citan
 "Does this mean...<Delay 40>it will
@@ -171,8 +174,8 @@ Citan
 odd..."<Close><End of Block>
 <TextBlock 47 w:50 h:4>
 Citan
-"I am sure.<Delay 20> This is the
-only drain with slime and
+"Indeed.<Delay 20> This is the only
+drain that has slime but
 no murder site nearby."<Close><End of Block>
 <TextBlock 48 w:24 h:3>
 <Opcode 1 255>Citan
@@ -186,7 +189,7 @@ like intellect."<Close><End of Block>
 Citan
 "Or rather...<Delay 40>
 had some remaining."<Close><End of Block>
-<TextBlock 51 w:30 h:3>
+<TextBlock 51 w:32 h:3>
 Citan
 "It is really...<Delay 60>
 rather sad..."<Close><End of Block>
@@ -195,12 +198,13 @@ Citan
 "No, there is a murder
 scene nearby, so this
 is not it."<Close><End of Block>
-<TextBlock 53 w:42 h:3>
+<TextBlock 53 w:42 h:4>
 Citan
 "Yes.<New>
-This must be the one
-drain it comes and
-goes from."<Close><End of Block>
+Among them, there
+must be one drain by
+which the monster
+comes and goes."<Close><End of Block>
 <TextBlock 54 w:40 h:2>
 Citan
 "This is strange..."<Close><End of Block>
@@ -211,7 +215,7 @@ was that...?"<Close><End of Block>
 <TextBlock 56 w:34 h:3>
 Rico
 "There's slime in
-this drain too."<Close><End of Block>
+this pipe, too."<Close><End of Block>
 <TextBlock 57 w:44 h:4>
 Rico
 "Everything should
@@ -232,9 +236,9 @@ Rico
 That just now..."<Close><End of Block>
 <TextBlock 61 w:54 h:4>
 Rico
-"Hmm. From here it's beside
-the waterfall furthest to
-the east of here."<Close><End of Block>
+"Hmm. From here, it's next
+to the waterfall, over at
+the far east end."<Close><End of Block>
 <TextBlock 62 w:32 h:2>
 Rico
 "Hey, watch it!"<Close><End of Block>
@@ -433,14 +437,15 @@ find a broken one in
 there."<Close><End of Block>
 <TextBlock 104 w:42 h:3>
 Gramps
-"And you can lure it
-with this bell."<Close><End of Block>
-<TextBlock 105 w:30 h:2>
+"Ohh, so you'll lure it
+with this bell?"<Close><End of Block>
+<TextBlock 105 w:30 h:3>
 Fei
-"Ring it here?"<Close><End of Block>
-<TextBlock 106 w:44 h:2>
+"Where should
+we ring it?"<Close><End of Block>
+<TextBlock 106 w:38 h:2>
 Gramps
-"Uh-huh, that's it..."<Close><End of Block>
+"Hmmmmm, well..."<Close><End of Block>
 <TextBlock 107 w:50 h:3>
 Gramps
 "There is always slime
@@ -460,13 +465,13 @@ on this floor, north of
 here."<Close><End of Block>
 <TextBlock 110 w:50 h:2>
 Gramps
-"What? Empty?<New>
-No, there's gotta be a
+"What? It was deserted?<New>
+Hmm, there's gotta be a
 way to lure him out."<Close><End of Block>
 <TextBlock 111 w:44 h:3>
 Gramps
 "Wasn't there anything
-in the room?"<Close><End of Block>
+in that room?"<Close><End of Block>
 <TextBlock 112 w:46 h:5>
 Gramps
 "Oh, you!

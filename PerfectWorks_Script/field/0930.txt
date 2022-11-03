@@ -1,10 +1,10 @@
 <TextBlock 1 w:56 h:5>
-...The number one Gate
-generator is 200 kelts
-southwest of Noatun and
-4000 sharls underground.<New>
+...200 kelts southwest of
+Noatun, and 4000 sharls
+underground, lies the first
+Gate generator.<New>
 Its interference waves make
-guided weapon use impossible
+guided-weapon use impossible
 in this area. So up to the
 last minute the Hecht must
 be piloted manually.<New>
@@ -16,12 +16,12 @@ zone. Any questions?<Close><End of Block>
 <TextBlock 2 w:18 h:2>
 Elly
 "Well..."<Close><End of Block>
-<TextBlock 3 w:30 h:1>
-Yes Lieutenant?<Close><End of Block>
+<TextBlock 3 w:24 h:1>
+Lieutenant?<Close><End of Block>
 <TextBlock 4 w:48 h:4>
 Elly
 "I understand our escort
-orders but what is our
+orders, but what is our
 main objective?"<Close><End of Block>
 <TextBlock 5 w:38 h:1>
 That is classified.<Close><End of Block>
@@ -50,7 +50,7 @@ weapons. <Delay 60>
 Any problems with that?<Close><End of Block>
 <TextBlock 10 w:44 h:3>
 Elly
-"...No...
+"...N-No...
 if that's the case..."<Opcode 2 30><Close><End of Block>
 <TextBlock 11 w:28 h:1>
 Anything else?<Close><End of Block>
@@ -59,12 +59,12 @@ Anything else?<Close><End of Block>
 main briefing.<New>
 Confirm terrain, weather
 and enemy defense details
-with the information at
+with the information in
 hand.<New>
 The mission starts at
 1700.
-Until then wait in your
-assigned units.<New>
+Until then, each unit
+is on standby.<New>
 I shouldn't have to
 remind you that this
 mission is a purge.<New>
