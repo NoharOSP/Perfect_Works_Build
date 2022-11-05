@@ -34,7 +34,7 @@ doing here?"<Close><End of Block>
 <TextBlock 8 w:50 h:4>
 Dominia
 "This is a vital mission,
-ordered from central.<New>
+ordered from Central.<New>
 I already have Ramsus'
 orders. The Hecht is not
 to be piloted by a
@@ -56,9 +56,9 @@ Surely you know."<Close><End of Block>
 Dominia
 "That's restricted...<Delay 30>
 but I guess I can tell.<New>
-The electric generator
-in the eastern sector of
-Kislev's Imperial Capital.<New>
+The power plant in the
+eastern sector of Kislev's
+Imperial Capital.<New>
 The target is a reactor
 left there by an ancient
 civilization."<Close><End of Block>
@@ -83,8 +83,8 @@ Dominia
 You, too, must have
 heard... Kislev has a
 Gatekeeper.<New>
-Yes, a Gate is actually
-under the control of those
+The whole point of the
+Gate is to manage those
 vulgar Lambs.<New>
 This barrier to the
 surface was made by our

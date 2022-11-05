@@ -1,6 +1,6 @@
 <TextBlock 1 w:50 h:4>
 Imperial Guard
-"Up ahead is the northern
+"Up ahead is the eastern
 gate of A Block,<New>
 but it is closed off due
 to construction."<Close><End of Block>
@@ -97,7 +97,7 @@ will take you out of the
 Imperial Capital.<New>
 The middle is the Central
 District, and to the
-southwest is the Imperial
+southeast is the Imperial
 A Block."<Close><End of Block>
 <TextBlock 14 w:52 h:4>
 Imperial Guard
@@ -128,7 +128,7 @@ will take you out of the
 Imperial Capital.<New>
 The middle is the Central
 District, and to the
-southwest is the Imperial
+southeast is the Imperial
 A Block."<Close><End of Block>
 <TextBlock 17 w:52 h:4>
 Imperial Guard

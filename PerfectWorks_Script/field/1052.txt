@@ -182,7 +182,7 @@ What is this Av
 tournament?"<Opcode 2 90><Close><End of Block>
 <TextBlock 23 w:40 h:2>
 Hammer
-"What is going on!!"<Opcode 2 90><Close><End of Block>
+"What is going on!?"<Opcode 2 90><Close><End of Block>
 <TextBlock 24 w:32 h:1>
 Hah ha ha ha ha!<Opcode 2 45><Close><End of Block>
 <TextBlock 25 w:44 h:4>
@@ -198,7 +198,7 @@ Rico
 "<Delay 5>...<Delay 5><Stier>.
 This will end it<Delay 5>...<Delay 30>
 Hang in there with me!"<Close><End of Block>
-<TextBlock 28 w:34 h:2>
+<TextBlock 28 w:34 h:3>
 Rico
 "<Delay 5>...<Delay 5>By my hand,<Delay 5>
 he'll be..."<Close><End of Block>
@@ -226,7 +226,7 @@ Hammer
 Master Rico's Gear is a
 special make of Gear
 provided by the Committee.<New>
-From maintainance to parts,
+From maintenance to parts,
 it receives the best of
 everything.<New>
 No expense spared <--> that's
@@ -236,7 +236,7 @@ he's so powerful<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 34 w:40 h:3>
 Fei
 "Can't we get better
-parts?<Delay 15> This<Delay 5>...<Delay 5>"<Close><End of Block>
+parts?<Delay 15> This<-->"<Close><End of Block>
 <TextBlock 35 w:30 h:2>
 Fei
 "Who's there!?"<Close><End of Block>
@@ -313,9 +313,8 @@ Fei
 "Wait!<Delay 15> Why is it that you
 have the same fighting
 style as I!?<New>
-And, how do you know my
-name!?<Delay 15>
-Tell me!"<Close><End of Block>
+And how do you know my
+name!?<Delay 15> Tell me!"<Close><End of Block>
 <TextBlock 47 w:24 h:3>
 Wiseman
 "Hmmm<Delay 5>...<Delay 15>
@@ -360,15 +359,14 @@ Fei
 "Yeah<Delay 5>...<Delay 5>
 So tell me anything you
 can.<Delay 30> Will you?"<Close><End of Block>
-<TextBlock 56 w:48 h:3>
+<TextBlock 56 w:48 h:4>
 Wiseman
-"I see<Delay 5>...<Delay 30>
-In your injured state<Delay 5>...<New>
-I wouldn't have been
-surprised<Delay 5>..."<Close><End of Block>
+"I see<Delay 5>...<Delay 30> Given your
+injured state, it would
+not be surprising<Delay 5>..."<Close><End of Block>
 <TextBlock 57 w:20 h:2>
 Fei
-"Wiseman."<Close><End of Block>
+"Wiseman?"<Close><End of Block>
 <TextBlock 58 w:50 h:4>
 Wiseman
 "<Delay 5>...<Delay 5>Khan Wong.<New>
@@ -404,7 +402,7 @@ Fei
 Then she's<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 64 w:50 h:3>
 Wiseman
-"Yes, your mother.<Delay 30><New>
+"Yes <--> your mother.<Delay 30><New>
 Khan married your mother,
 and I left on a journey
 to strengthen myself."<Close><End of Block>
@@ -464,8 +462,8 @@ story."<Close><End of Block>
 <TextBlock 75 w:50 h:4>
 Wiseman
 "Khan wished to go find
-his son,<Delay 10> and if possible,
-he wanted my help<Delay 5>...<Delay 5>"<Close><End of Block>
+his son,<Delay 10> and he wanted my
+help, if possible<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 76 w:40 h:4>
 Wiseman
 "I agreed to Khan's
@@ -478,8 +476,8 @@ Wiseman
 fateful night three
 years ago.<New>
 There was a violent
-storm. The storm felt
-as if it was thrown at
+storm. It felt as if
+it had been thrown at
 us through sheer rage.<New>
 That night, Khan
 notified me that he
@@ -490,12 +488,12 @@ drawn to it."<Close><End of Block>
 <TextBlock 78 w:50 h:4>
 Wiseman
 "You and Khan were
-wounded badly.<New>
+badly wounded.<New>
 I have no idea what had
 happened between you two
 and Grahf. By then, Grahf
 had already gone.<New>
-I don't know why, but
+I don't know how, but
 probably he was driven
 away by Khan.<New>
 Khan decided to pursue
@@ -512,19 +510,18 @@ Wiseman
 "You probably lost
 your memory when you
 were injured then."<Close><End of Block>
-<TextBlock 80 w:36 h:3>
+<TextBlock 80 w:40 h:3>
 Fei
-"Why did my father
+"How could my father
 pursue Grahf?"<Close><End of Block>
 <TextBlock 81 w:50 h:4>
 Wiseman
-"I do not even know.
-Just that he said it was
-not only for the sake of<New>
-his son, but also for the
-sake of the world, that
-that man had to be
-disposed of<Delay 5>...<New>
+"Even I do not know.
+But he said that man had
+to be disposed of...<New>
+Not only for the sake of
+his son, but for the sake
+of the world<Delay 5>...<New>
 He added that if
 something were to happen
 to him, I would have to
@@ -535,11 +532,11 @@ from him since."<Close><End of Block>
 Fei
 "Grahf said that my
 father was<Delay 10> dead<Delay 5>..."<Close><End of Block>
-<TextBlock 83 w:48 h:4>
+<TextBlock 83 w:42 h:4>
 Wiseman
-"Hmmm<Delay 5>...<Delay 5> If Grahf has
-been appearing in your
-presence<Delay 5>...<New>
+"Hmmm<Delay 5>...<Delay 5> If Grahf is
+now appearing before 
+you again<Delay 5>...<New>
 then that is a
 possibility<Delay 5>...<Delay 30>
 That is truly
@@ -662,7 +659,7 @@ Fei<Delay 5>...<New>
 Your fate lies in the
 outcome of tomorrow's
 competition. You need to
-preserve your strength."<Close><End of Block>
+conserve your strength."<Close><End of Block>
 <TextBlock 106 w:38 h:2>
 Fei
 "Hey, <Delay 5>is this...!?"<Close><End of Block>

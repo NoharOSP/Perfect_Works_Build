@@ -85,8 +85,8 @@ It'll help old Hammer out!"<Delay 30>
     Hammer's accessories<Close><End of Block>
 <TextBlock 18 w:50 h:4>
 Hammer
-"Thanks again bro!<Delay 15> Man,<Delay 5>
-so long as I am with you,<Delay 5>
+"Thanks again, bro!<Delay 15> Man,<Delay 5>
+as long as I am with you,<Delay 5>
 money's no problem, heh!"<Close><End of Block>
 <TextBlock 19 w:54 h:4>
 Hammer
@@ -100,7 +100,7 @@ It'll help old Hammer out!"<Delay 30>
 <TextBlock 20 w:50 h:4>
 Hammer
 "Thanks again, bro!<Delay 15> Man,<Delay 5>
-so long as I am with you,<Delay 5>
+as long as I am with you,<Delay 5>
 money's no problem, heh!"<Close><End of Block>
 <TextBlock 21 w:54 h:4>
 Hammer

@@ -60,8 +60,7 @@ Hammer
 Are you he~re?"<Opcode 2 45><Close><End of Block>
 <TextBlock 14 w:56 h:4>
 Rue
-"Anyway...
-This room is yours to use.<Delay 15>
+"This room is yours to use.<Delay 15>
 Next door is your bedroom.<New>
 Oh,<Delay 5> and Fei:<Delay 15> you will now be
 given the title of Champion<Delay 5>
@@ -71,7 +70,7 @@ privileges."<Close><End of Block>
 Rue
 "Well, congratulations
 on winning the Battling
-championship<Delay 5>...<New>
+Contest<Delay 5>...<New>
 We were able to take some
 very good data<Delay 5>...<Delay 5>
 Ha ha hm.<New>
@@ -81,9 +80,9 @@ like to meet you, Champion
 Fei.<New>
 Please stop by the Central
 Administrative District.<Close><End of Block>
-<TextBlock 16 w:38 h:2>
+<TextBlock 16 w:36 h:2>
 Rue
-"Well<Delay 5>...<Delay 5> good bye."<Close><End of Block>
+"Well<Delay 5>...<Delay 5>goodbye."<Close><End of Block>
 <TextBlock 17 w:40 h:4>
 Fei
 "There is still some
@@ -136,7 +135,7 @@ as the 'Imperial Capital's
 No.1 Supplier' on it!"<Close><End of Block>
 <TextBlock 26 w:44 h:3>
 Fei
-"Okay then, let's
+"Okay then <--> let's
 work separately.<New>
 I'll work by myself,
 Hammer, while you and
@@ -214,11 +213,11 @@ civilian area?"<Close><End of Block>
 Fei
 "<Delay 5>...<Delay 5>A Block
 civilian area?"<Close><End of Block>
-<TextBlock 40 w:54 h:5>
+<TextBlock 40 w:56 h:5>
 Rue
 "The southeast part of
 the Imperial Capital...<Delay 15>
-We call that the A Block or
+We call that the A Block, or
 ordinary civilian area<Delay 5>..."<Close><End of Block>
 <TextBlock 41 w:40 h:3>
 Rue
