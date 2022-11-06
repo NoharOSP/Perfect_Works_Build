@@ -656,9 +656,9 @@ I have info on your Gea<--><Delay 5>"<Opcode 2 45><Close><End of Block>
 Hammer
 "Eeek!<Delay 10>
 Wh-<Delay 5>Wh-<Delay 5>What the...!?"<Close><End of Block>
-<TextBlock 125 w:44 h:3>
+<TextBlock 125 w:46 h:3>
 Citan
-"I will explain later.
+"We will explain later.
 For now, let us move."<Close><End of Block>
 <TextBlock 126 w:34 h:2>
 Hammer
@@ -666,7 +666,7 @@ Hammer
 <TextBlock 127 w:52 h:4>
 Fei
 "It should be safe here.<Delay 15>
-Now Hammer,<Delay 5> tell me where
+Now, Hammer,<Delay 5> tell me where
 my Gear is."<Close><End of Block>
 <TextBlock 128 w:54 h:4>
 Hammer
@@ -688,7 +688,7 @@ two routes we can use to
 sneak inside.<New>
 The first one requires us
 to enter via the Battling
-Arena grounds.<Close><End of Block>
+Arena grounds."<Close><End of Block>
 <TextBlock 131 w:54 h:4>
 Fei
 "Well there's no way we can

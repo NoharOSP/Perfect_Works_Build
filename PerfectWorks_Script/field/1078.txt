@@ -1,7 +1,7 @@
 <TextBlock 1 w:38 h:3>
 Fei
 "Hey! You in there?
-Open it up.."<Close><End of Block>
+Open it up..."<Close><End of Block>
 <TextBlock 2 w:52 h:4>
 Fei
 "What're you thinking,

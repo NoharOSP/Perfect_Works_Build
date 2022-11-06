@@ -33,7 +33,7 @@ The Kaiser is in this room.<Close><End of Block>
 This is the Kaiser's wife's
 room.<New>
 No one's been allowed in
-ever since she disappeared.<New>
+since she disappeared.<New>
 Please, leave.<Close><End of Block>
 <TextBlock 11 w:40 h:1>
 What!? Is that true?<Close><End of Block>
@@ -57,7 +57,7 @@ Kaiser doesn't know.<Close><End of Block>
 This is the Kaiser's wife's
 room.<New>
 No one's been allowed in
-ever since she disappeared.<New>
+since she disappeared.<New>
 Please, leave.<Close><End of Block>
 <TextBlock 17 w:36 h:1>
 Hey! Is this okay?<Opcode 2 30><Close><End of Block>
@@ -86,7 +86,7 @@ can't possibly<Delay 20>
 be..."<Close><End of Block>
 <TextBlock 23 w:54 h:4>
 Sigmund
-"That man was suspected of
+"That man is suspected of
 trying to assassinate me.
 And not for the first time.<New>
 The Imperial Guard are
@@ -104,16 +104,16 @@ response."<Close><End of Block>
 Sigmund
 "Good day."<Close><End of Block>
 <TextBlock 25 w:40 h:3>
-Nice work.
+Glad to have you.
 This is the tactical
 command room.<Close><End of Block>
 <TextBlock 26 w:48 h:4>
-Good job.
-On the right hand side,
-you can take the third
-pathway to the basement.<Close><End of Block>
+Thanks for your time.
+To your right, you can
+descend to the basement
+via a third passage.<Close><End of Block>
 <TextBlock 27 w:50 h:4>
-Good.
+Thanks for joining us.
 Above us is the bridge,
 the Kaiser's room and
 other related facilities.<Close><End of Block>

@@ -7,12 +7,12 @@ manipulating it all...<Close><End of Block>
 <TextBlock 2 w:46 h:3>
 There's some suspicious
 activity in Av. They
-could attack anytime.<Close><End of Block>
+could attack any time.<Close><End of Block>
 <TextBlock 3 w:50 h:2>
 ...I wish I could've
 seen Goliath in action...<Close><End of Block>
-<TextBlock 4 w:44 h:3>
-This is the new battle
+<TextBlock 4 w:46 h:3>
+This is the new battle-
 ship, Goliath!<New>
 With its completion,
 Av and Solaris will
@@ -62,8 +62,8 @@ It's good money.<Close><End of Block>
 Ultimately, the only
 way to end this war is to
 strike out at Solaris.<Close><End of Block>
-<TextBlock 15 w:50 h:3>
-Currently, Av is a
+<TextBlock 15 w:52 h:3>
+Currently, Av has a
 puppet government.<New>
 Ramsus, a Geburah officer,
 is the one who holds the

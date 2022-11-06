@@ -27,9 +27,9 @@ Fei
 Uh huh,<Delay 5> yes.<Delay 15>
 Well then, good luck.<Close><End of Block>
 <TextBlock 7 w:58 h:4>
-I too had been thinking of
-leaving from the Imperial
-Capital...<New>
+I had been thinking of
+leaving the Imperial Capital,
+too...<New>
 But then I came to think
 that if I try harder, things
 will get better<Delay 5>...<Delay 30> You try
@@ -410,11 +410,11 @@ I was gone?"<Close><End of Block>
 <TextBlock 77 w:42 h:3>
 Fei
 "W-<Delay 5>Wait a minute,<Delay 5>
-Doc!<Delay 10> I didn't do<Delay 5>...<Delay 5>"<Close><End of Block>
+Doc!<Delay 10> I didn't do<-->"<Close><End of Block>
 <TextBlock 78 w:46 h:3>
-Heh, <Delay 5>haha.
-You probably can't tell
-by the way I'm dressed.<Close><End of Block>
+Heh, <Delay 5>haha.<Delay 10> You probably
+can't tell because of
+the way I'm dressed.<Close><End of Block>
 <TextBlock 79 w:10 h:2>
 Fei
 "???"<Close><End of Block>
@@ -522,7 +522,7 @@ in charge of D Block?<Delay 15>
 I can't just do that.<Close><End of Block>
 <TextBlock 101 w:48 h:4>
 Fei
-"Well it's about that.<Delay 15>
+"Well, it's about that.<Delay 15>
 <Delay 5>...<Delay 5>We're leaving the
 Capital soon.<New>
 Of course,<Delay 15>

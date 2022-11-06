@@ -371,15 +371,15 @@ Please go on through."<Close><End of Block>
 <TextBlock 74 w:56 h:4>
 Guard
 "Crap, <Delay 5>the Champ losing was
-unbelieveable<Delay 5>...<Delay 15><New>
-it was like 20 to 5. Almost
-everyone bet on the Champ<Delay 5>...<New>
-<Delay 5>...<Delay 5>Me, I'm<Delay 15>
-I bet a half years salary,
-all of it<Delay 5>everything<Delay 5>...<Delay 10>
-stupid<Delay 5>...<Delay 30><New>
+unbelieveable<Delay 5>...<Delay 15> The odds
+were, like, twenty-to-five.<New>
+Almost everyone bet on the
+Champ<Delay 5>...<New>
+<Delay 5>...<Delay 5>Me, I'd bet half a year's
+salary...<Delay 5> All of it<Delay 5>
+Everything<Delay 5>...<Delay 10> So stupid<Delay 5>...<New>
 <Delay 5>...<Delay 5>Guess I'll be working
-in the sewers too."<Close><End of Block>
+in the sewers, too."<Close><End of Block>
 <TextBlock 75 w:54 h:3>
 Guard
 "We haven't had too many
@@ -512,9 +512,9 @@ monster, the Battling
 Champ<Delay 5>...<New>
 Compared to that I'm
 just<Delay 5>...<New>
-I'll always be just guard
+I'll always just be guard
 captain. How'd you get like
-that?<Delay 15>Quit your regular
+that?<Delay 15> Quit your regular
 job and start Battling?"<Close><End of Block>
 <TextBlock 94 w:56 h:4>
 Guard

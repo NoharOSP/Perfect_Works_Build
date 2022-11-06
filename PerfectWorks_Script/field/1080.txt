@@ -218,22 +218,22 @@ Elder
 "Sigmund made it this
 far on his own even after
 the loss of his wife.<New>
-But, not a day goes by that
-he doesn't think of her.<New>
+But not a day goes by that
+he doesn't think of her.<Delay 60>
 ...It is so sad...<Delay 20>
-...sob... sob..."<Close><End of Block>
+...*sob*...*sob*..."<Close><End of Block>
 <TextBlock 46 w:58 h:4>
 Elder
-"Oh my...<Delay 40>That cat only
+"Oh my...<Delay 40> That cat only
 liked Sigmund and his wife...
-why does he come to you?"<Close><End of Block>
+Why does he come to you?"<Close><End of Block>
 <TextBlock 47 w:52 h:3>
 'Metronome Piggy Bank'
-Stop the arm in the middle
+Stop the arm dead center
 and you'll get money.<Close><End of Block>
-<TextBlock 48 w:44 h:2>
-Do it in a row, you'll
-get even more money.<Close><End of Block>
+<TextBlock 48 w:46 h:2>
+Succeed many times in
+a row to win even more.<Close><End of Block>
 <TextBlock 49 w:46 h:1>
 0G left. Unable to pay.<Close><End of Block>
 <TextBlock 50 w:26 h:2>
@@ -243,12 +243,12 @@ get even more money.<Close><End of Block>
 Received 1G.<Close><End of Block>
 <TextBlock 52 w:24 h:1>
 Received 1G.<Close><End of Block>
-<TextBlock 53 w:38 h:5>
+<TextBlock 53 w:60 h:5>
 <Opcode 1 255>    Stop already!
     Once more
-This is your <Opcode 10 0> time
-<C>Longest run <Opcode 10 2> times
-<C>You have <Opcode 10 1>G<Close><End of Block>
+<=>Current run: <Opcode 10 0> time
+<=>Longest run: <Opcode 10 2> times
+<=>Current payout: <Opcode 10 1>G<Close><End of Block>
 <TextBlock 54 w:46 h:2>
 His wife was carrying
 a child when she left.<New>
