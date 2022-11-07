@@ -1,5 +1,5 @@
 <TextBlock 1 w:38 h:3>
-<Delay 5>...<Delay 5>I can rest here.<Delay 15>
+You can rest here.<Delay 15>
     Don't
     Rest<Close><End of Block>
 <TextBlock 2 w:36 h:3>

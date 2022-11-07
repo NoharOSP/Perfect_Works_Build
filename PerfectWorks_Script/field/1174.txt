@@ -1,8 +1,8 @@
 <TextBlock 1 w:48 h:4>
 Fei
 "...Don't call me 'son'.
-Cos you sure ain't my
-pops."<Close><End of Block>
+'Cause you sure ain't
+my pops."<Close><End of Block>
 <TextBlock 2 w:24 h:2>
 Fei
 "You too..."<Close><End of Block>

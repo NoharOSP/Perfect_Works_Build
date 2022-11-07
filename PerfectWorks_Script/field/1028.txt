@@ -50,7 +50,7 @@ curious, or plain stupid!<Close><End of Block>
 <TextBlock 9 w:56 h:4>
 The new doctor that came
 after that lady doctor got
-put in charge of civilians,
+put in charge of civilians
 barely works here anymore!<New>
 It's got to the point that
 if you get injured you have
@@ -352,10 +352,10 @@ That's going a bit too far!<Close><End of Block>
 <TextBlock 60 w:56 h:3>
 Who would have thought that
 someone could beat Ricardo,
-Battling's undefeated Champ!<New>
-I don't mean disrespect
+Battling's undefeated Champ?<New>
+I don't mean any disrespect
 to the new Champion, but
-I just don't believe it!<Close><End of Block>
+I just can't believe it!<Close><End of Block>
 <TextBlock 61 w:62 h:1>
 Sorry, forget I ever said that!<Close><End of Block>
 <TextBlock 62 w:56 h:4>

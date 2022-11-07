@@ -26,9 +26,10 @@ Rico
 "This is bad!
 I gotta get the
 hell outta here!!"<Opcode 2 20><Close><End of Block>
-<TextBlock 8 w:34 h:3>
+<TextBlock 8 w:36 h:4>
 Rico
-"Because a mutant
+"I guess it's
+'cause a demihuman
 like me is here."<Close><End of Block>
 <TextBlock 9 w:14 h:2>
 Sigmund
@@ -209,10 +210,10 @@ Associate
 to miss this chance..."<Close><End of Block>
 <TextBlock 42 w:20 h:1>
 Excuse me!<Opcode 2 40><Close><End of Block>
-<TextBlock 43 w:10 h:1>
-Whew.<Close><End of Block>
-<TextBlock 44 w:10 h:1>
-Whew.<Close><End of Block>
+<TextBlock 43 w:12 h:1>
+*Hiss*<Close><End of Block>
+<TextBlock 44 w:12 h:1>
+*Hiss*<Close><End of Block>
 <TextBlock 45 w:54 h:4>
 Elder
 "Sigmund made it this
@@ -224,9 +225,9 @@ he doesn't think of her.<Delay 60>
 ...*sob*...*sob*..."<Close><End of Block>
 <TextBlock 46 w:58 h:4>
 Elder
-"Oh my...<Delay 40> That cat only
+"Oh, my...<Delay 40> That cat only
 liked Sigmund and his wife...
-Why does he come to you?"<Close><End of Block>
+So, how come...?"<Close><End of Block>
 <TextBlock 47 w:52 h:3>
 'Metronome Piggy Bank'
 Stop the arm dead center
@@ -243,12 +244,12 @@ a row to win even more.<Close><End of Block>
 Received 1G.<Close><End of Block>
 <TextBlock 52 w:24 h:1>
 Received 1G.<Close><End of Block>
-<TextBlock 53 w:60 h:5>
+<TextBlock 53 w:54 h:5>
 <Opcode 1 255>    Stop already!
     Once more
 <=>Current run: <Opcode 10 0> time
 <=>Longest run: <Opcode 10 2> times
-<=>Current payout: <Opcode 10 1>G<Close><End of Block>
+<=>Total winnings: <Opcode 10 1>G<Close><End of Block>
 <TextBlock 54 w:46 h:2>
 His wife was carrying
 a child when she left.<New>

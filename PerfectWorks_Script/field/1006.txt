@@ -8,13 +8,14 @@ please knock! Then I will
 open the door for you.<New>
 If you come through the
 toilet<Delay 5>...<Delay 5>...<Delay 5>...<Delay 5>...
-y-you know! It might
+Y-You know! It might
 be at the wrong time.<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Fei
-"<Delay 5>...<Delay 5>...Uh,<Delay 5> yeah.<Delay 5> You're
-right<Delay 5>...<Delay 5> I understand.
-And, how many knocks?"<Close><End of Block>
+"<Delay 5>...<Delay 5>...Ah,<Delay 5> yeah.<Delay 5> You're
+right<Delay 5>...<Delay 5> I understand.<New>
+So, should I knock a
+few times, or...?"<Close><End of Block>
 <TextBlock 4 w:42 h:3>
 Hmmm,<Delay 5> let's say<Delay 5>...<Delay 5>...<Delay 30>
 '2,<Delay 15> 1,<Delay 15> 2'<Delay 15>... Would<Delay 5>
@@ -34,8 +35,8 @@ But then I came to think
 that if I try harder, things
 will get better<Delay 5>...<Delay 30> You try
 your hardest, too, okay?<Close><End of Block>
-<TextBlock 8 w:46 h:1>
-How's it going <--> good?<Close><End of Block>
+<TextBlock 8 w:42 h:1>
+How's it going? Good?<Close><End of Block>
 <TextBlock 9 w:38 h:2>
 Hey,<Delay 5> wait a minute!<Delay 15>
 Where did you<Delay 5>...<Delay 5>?<Opcode 2 45><Close><End of Block>

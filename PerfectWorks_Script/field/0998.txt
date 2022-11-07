@@ -45,7 +45,7 @@ It's locked from the inside.<Opcode 2 30><Close><End of Block>
 It's locked from the inside.<Opcode 2 30><Close><End of Block>
 <TextBlock 14 w:56 h:2>
 The sun's already gone down.
-Sorry, but time to go!!<Close><End of Block>
+Sorry, but...go home!!<Close><End of Block>
 <TextBlock 15 w:56 h:3>
 Old Man
 "I've some advice for you,
@@ -376,17 +376,17 @@ were, like, twenty-to-five.<New>
 Almost everyone bet on the
 Champ<Delay 5>...<New>
 <Delay 5>...<Delay 5>Me, I'd bet half a year's
-salary...<Delay 5> All of it<Delay 5>
+salary...<Delay 5> All of it<Delay 5>...
 Everything<Delay 5>...<Delay 10> So stupid<Delay 5>...<New>
 <Delay 5>...<Delay 5>Guess I'll be working
 in the sewers, too."<Close><End of Block>
 <TextBlock 75 w:54 h:3>
 Guard
 "We haven't had too many
-rank A prisoners like you.<New>
+rank-A prisoners like you.<New>
 That's why the Committee
 noticed you.<New>
-This years match<Delay 5>...<Delay 5>
+This year's match<Delay 5>...<Delay 5>
 it's expected the Champ
 will win, though."<Close><End of Block>
 <TextBlock 76 w:54 h:5>
@@ -407,7 +407,7 @@ Guard
 Capital Committee
 guys losing it?<New>
 They're waiting around
-just to talk to a rank C
+just to talk to a rank-C
 prisoner about entering
 the Battling<Delay 5>...?"<Close><End of Block>
 <TextBlock 79 w:54 h:4>
@@ -421,7 +421,7 @@ Guard
 Capital Committee
 guys losing it?<New>
 They're waiting around
-just to talk to a rank C
+just to talk to a rank-C
 prisoner about entering
 the Battling<Delay 5>...?"<Close><End of Block>
 <TextBlock 81 w:54 h:4>
@@ -433,7 +433,7 @@ give it a try<Delay 5>...<Delay 5>..."<Close><End of Block>
 Guard
 "It's unbelievable!<New>
 The Imperial Committee
-is talking to a rank D
+is talking to a rank-D
 prisoner about entering
 the Battling.<New>
 What are they thinking?"<Close><End of Block>
@@ -593,7 +593,7 @@ Battler
 "Right,<Delay 5> sorry."<Close><End of Block>
 <TextBlock 109 w:46 h:3>
 Citan
-"<Delay 5>...<Delay 5>Well, I will assume
+"<Delay 5>...<Delay 5>Well, we will trust
 you are not hostile<Delay 5>..."<Close><End of Block>
 <TextBlock 110 w:10 h:2>
 Fei
