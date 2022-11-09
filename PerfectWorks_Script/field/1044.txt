@@ -15,16 +15,17 @@ turning back now."<Close><End of Block>
 <TextBlock 4 w:52 h:4>
 Fei
 "Huh?<Delay 5> Yeah,<Delay 5> you're right."<Delay 15>
-    Go get prepped
+    Still got prep to do
     I'm ready <Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Citan
-"<Delay 5>...<Delay 5>Good.<Delay 15>
-Shall we go?<Delay 5>
+"<Delay 5>...<Delay 5>Very well.<Delay 15>
+Then let us get to it.<Delay 5>
 There is not much time."<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Citan
 "<Delay 5>...<Delay 5>There is still some
-time before the train
-arrives<Delay 5>...<Delay 15> Let us rest<New>
-here for a while."<Close><Close><End of Block>
+time until the train
+arrives<Delay 5>...<New>
+Let us rest here
+for a while."<Close><Close><End of Block>

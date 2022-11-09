@@ -23,8 +23,8 @@ passage."<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 Imperial Guard
 "It's unfortunate, but
-it's my job.<Delay 15> Please,
-leave the premises<Delay 5>..."<Close><End of Block>
+this is part of my job.<Delay 15>
+Please understand<Delay 5>..."<Close><End of Block>
 <TextBlock 5 w:50 h:4>
 Imperial Guard
 "The sun has already gone
@@ -36,8 +36,8 @@ passage."<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Imperial Guard
 "It's unfortunate, but
-it's my job.<Delay 15> Please,
-leave the premises<Delay 5>..."<Close><End of Block>
+this is part of my job.<Delay 15>
+Please understand<Delay 5>..."<Close><End of Block>
 <TextBlock 7 w:50 h:5>
 Imperial Guard
 "The sun has already gone
@@ -48,12 +48,11 @@ Please present your
 passes."<Close><End of Block>
 <TextBlock 8 w:50 h:4>
 Imperial Guard
-"I'm sorry.<Delay 5>
-Whether you're the Champ
-or not, unauthorized<New>
-passage is not permitted.<Delay 15>
-Please, leave the
-premises<Delay 5>...<Delay 5>"<Close><End of Block>
+"Unfortunately, whether
+you're the Champ or not,<New>
+unauthorized passage is
+not permitted.<Delay 15> Sorry...<Delay 5>
+Please understand<Delay 5>..."<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 Imperial Guard
 "The sun has already gone
@@ -74,7 +73,7 @@ Imperial Guard
 "The sun has already gone
 down.<New>
 I am sincerely sorry, but
-passage through the front
+passage through the north
 gate is not possible."<Close><End of Block>
 <TextBlock 12 w:50 h:4>
 Imperial Guard

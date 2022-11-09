@@ -307,9 +307,9 @@ Maybe it'd be better if you'd
 just settle down and get to
 work?<Delay 15> I guess there's only
 sewer cleaning, though...<Close><End of Block>
-<TextBlock 65 w:48 h:2>
+<TextBlock 65 w:44 h:2>
 Guard
-"I have the night watch!<Close><End of Block>
+"I'm on night watch!"<Close><End of Block>
 <TextBlock 66 w:32 h:2>
 Guard
 "You can pass!!"<Close><End of Block>
@@ -651,9 +651,9 @@ Fei
 "<Delay 5>...<Delay 5>Huh?<Delay 15>
 What does that say<Delay 5>...<Delay 5>?"<Opcode 2 60><Close><End of Block>
 <TextBlock 122 w:50 h:3>
-'We are closed for today.
-Exchange money tomorrow!
-                 B-Info'<Close><End of Block>
+We are closed for today.
+Until tomorrow, booty!
+                 B-Info<Close><End of Block>
 <TextBlock 123 w:46 h:4>
 Fei
 "<Delay 5>...<Delay 15>
@@ -674,9 +674,10 @@ day, I was gonna play a
 trick on him<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 126 w:54 h:4>
 Citan
-"You always do whatever
-you like<Delay 5>...<Delay 5>
-Let us hurry.<New>
+"Honestly, your liking for
+mischief is going to get us
+into trouble<Delay 5>...<New>
+Now, let us hurry.<Delay 5>
 The time is getting closer.<Delay 15>
 We do not have time to
 lollygag around."<Close><End of Block>
@@ -917,10 +918,11 @@ If it detects a heat source
 it'll shut the whole thing
 down to prevent any
 accidents<Delay 5>..."<Close><End of Block>
-<TextBlock 158 w:42 h:4>
+<TextBlock 158 w:44 h:4>
 Citan
-"The tower we want is
-over there.<Delay 15>
+"The observation tower
+we are heading for is
+over there.<New>
 Hurry, Fei!"<Close><End of Block>
 <TextBlock 159 w:54 h:4>
 Amazoness

@@ -402,13 +402,13 @@ So, come on now, open up!"<Close><End of Block>
 Weapon Lady
 "Ohhh, aaalriight!<Delay 15>
 Ooonly caaause yooou said
-yooou'ld buuy soomethiing!"<Close><End of Block>
+yooou'd buuy soomethiing!"<Close><End of Block>
 <TextBlock 78 w:56 h:5>
 Tool Guy
 "What is it? Our shop shuts
 at the normal hours, so keep
 it down will ya!<Delay 15> Come back
-tomorrow, alright!"<Close><End of Block>
+tomorrow, alright?"<Close><End of Block>
 <TextBlock 79 w:56 h:4>
 Fei
 "<Delay 5>...<Delay 5>Can't you do something?<Delay 15>
