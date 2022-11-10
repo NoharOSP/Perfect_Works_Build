@@ -100,13 +100,13 @@ please come again.<Close><End of Block>
 Hey, you don't have 
 enough money, do you?<Close><End of Block>
 <TextBlock 25 w:46 h:1>
-HP/MP fully restored! <New>
+HP/EP fully restored! <New>
 Gained a bit of weight!<Close><End of Block>
 <TextBlock 26 w:46 h:1>
-HP/MP restored a bit! <New>
+HP/EP restored a bit! <New>
 Gained a lot of weight!<Close><End of Block>
 <TextBlock 27 w:52 h:1>
-HP/MP partially restored! <New>
+HP/EP partially restored! <New>
 Gained a bit of weight!<Close><End of Block>
 <TextBlock 28 w:28 h:1>
 That was good.<Close><End of Block>
