@@ -126,13 +126,13 @@ the meal.<Delay 50>
 Next time please
 bring enough money.<Close><End of Block>
 <TextBlock 34 w:46 h:1>
-HP/MP fully restored!<New>
+HP/EP fully restored!<New>
 Gained a bit of weight!<Close><End of Block>
 <TextBlock 35 w:46 h:1>
-HP/MP restored a bit!<New>
+HP/EP restored a bit!<New>
 Gained a lot of weight!<Close><End of Block>
 <TextBlock 36 w:50 h:1>
-HP/MP partially restored!<New>
+HP/EP partially restored!<New>
 Gained a bit of weight!<Close><End of Block>
 <TextBlock 37 w:28 h:1>
 That was good.<Close><End of Block>
