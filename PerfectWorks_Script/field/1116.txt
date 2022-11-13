@@ -9,24 +9,25 @@ Fei
 "What's wrong, Doc?"<Close><End of Block>
 <TextBlock 4 w:52 h:4>
 Citan
-"This is a part that
+"There is a part here that
 allows a Gear to recover
 30% of its HP.<New>
 If you have this equipped,
-you can activate it
-during battle. It is a
-highly useful item but<New>
-the drawback is that you
-will use fuel, so you must
-use it with caution."<Close><End of Block>
+you can activate it during
+battle from the 'Special
+Options' menu.<New>
+It is a very useful item,
+but the drawback is that
+it costs fuel, so you must
+use it with caution<-->"<Close><End of Block>
 <TextBlock 5 w:44 h:4>
 Fei
 "That really doesn't
-matter unless we get
-back the Gear, Doc.<New>
-There's no one here,
-so let's hurry up and
-get out of here."<Close><End of Block>
+matter if we don't get
+the Gear back, Doc.<New>
+Let's hurry up and get
+out of here while the
+coast is clear."<Close><End of Block>
 <TextBlock 6 w:42 h:3>
 Citan
 "Uh, oh yes. My usual
@@ -40,7 +41,7 @@ return the Master Key
 to the shelf.<Close><End of Block>
 <TextBlock 8 w:48 h:3>
 Oh, it's already
-starting. There's no way
+starting? There's no way
 we can miss this.<Close><End of Block>
 <TextBlock 9 w:18 h:1>
 Yes, sir.<Close><End of Block>

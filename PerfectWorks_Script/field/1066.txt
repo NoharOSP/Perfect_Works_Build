@@ -38,7 +38,7 @@ the entire area is under
 martial law.<New>
 Only army personnel may pass
 through the Central
-District. <Delay 15> I'm sorry,<Delay 5>
+District.<Delay 15> I'm sorry,<Delay 5>
 but you must leave."<Close><End of Block>
 <TextBlock 9 w:36 h:2>
 Soldier
@@ -134,8 +134,8 @@ are permitted in."<Close><End of Block>
 Soldier
 "He's...back again...<New>
 His owner died recently.
-...He still doesn't know so
-he always waits for his
+...He still doesn't know,
+so he always waits for his
 master's return..."<Close><End of Block>
 <TextBlock 29 w:36 h:1>
 "...*Whimper*..."<Close><End of Block>

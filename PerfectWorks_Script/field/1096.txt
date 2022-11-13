@@ -90,8 +90,8 @@ Fei
 <TextBlock 22 w:44 h:4>
 Fei
 "There's no time!
-Rico, hurry and change
-the course."<Close><End of Block>
+Rico, let's hurry and
+change its course!"<Close><End of Block>
 <TextBlock 23 w:30 h:2>
 Fei
 "Whooooaaaaaa!"<Close><End of Block>
@@ -99,20 +99,21 @@ Fei
 Fei
 "Damn!!
 There's too much mass!"<Close><End of Block>
-<TextBlock 25 w:46 h:3>
+<TextBlock 25 w:46 h:4>
 Elly
 "Hold on!<New>
-We can avoid a direct
-hit on the reactor with
-three Gears."<Close><End of Block>
-<TextBlock 26 w:22 h:2>
+With three Gears surely
+we can avert a direct
+hit on the reactor
+somehow!"<Close><End of Block>
+<TextBlock 26 w:18 h:2>
 Fei
-"Ahh, yes!"<Close><End of Block>
+"R-Right."<Close><End of Block>
 <TextBlock 27 w:52 h:4>
 Rico
 "Okay, we've steered it
 away from the power plant.
-Let's bail out! Fei!"<Close><End of Block>
+Let's bail out, Fei!"<Close><End of Block>
 <TextBlock 28 w:50 h:4>
 Fei
 "But now it's heading

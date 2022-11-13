@@ -8,7 +8,7 @@ to get out of the
 military!"<Close><End of Block>
 <TextBlock 2 w:40 h:4>
 Fei
-"Then, you're saying
+"So you're saying
 this is also one of
 your duties!?"<Close><End of Block>
 <TextBlock 3 w:46 h:4>
@@ -50,7 +50,7 @@ are all missing...
 Even the ship...<New>
 They disappeared after
 the battle with Geburah.
-So, I don't have a place
+So I don't have a place
 to belong anymore..."<Close><End of Block>
 <TextBlock 11 w:46 h:2>
 Fei
@@ -115,7 +115,7 @@ I couldn't do
 it<Delay 10>...<New>
 I don't have
 the freedom
-that you do!<Close><End of Block>
+that you do!"<Close><End of Block>
 <TextBlock 20 w:42 h:4>
 Elly
 "Yes! Am I wrong?
@@ -149,7 +149,7 @@ Elly
 <TextBlock 24 w:34 h:4>
 Elly
 "You don't<-->
-Then, why are you
+Then why are you
 fighting now?<New>
 Who are you
 fighting for...?"<Close><End of Block>

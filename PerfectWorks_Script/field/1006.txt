@@ -128,7 +128,7 @@ base is?<Delay 10>
 *Sigh*,<Delay 15> fine then.<New>
 The military facility is to<Delay 5>
 the north of the Capital,<Delay 10>
-'beyond the carved out part
+'beyond the carved-out part
 of the mountain range'.<New>
 You're all set, now!"<Close><End of Block>
 <TextBlock 23 w:54 h:4>
@@ -259,14 +259,14 @@ Citan
 "Uh, nothing!!"<Close><End of Block>
 <TextBlock 48 w:46 h:4>
 Hammer
-"Good luck in breaking
+"Good luck breaking
 through the front gate,
 bro! And you, Doc!"<Close><End of Block>
 <TextBlock 49 w:46 h:4>
 Fei
 "<Delay 5>...<Delay 5>First we save the
 Empire, now we're being
-chased by them"<Close><End of Block>
+chased by them."<Close><End of Block>
 <TextBlock 50 w:46 h:4>
 Citan
 "We cannot make a wrong
@@ -344,7 +344,7 @@ Av capital, Breidablik,
 all by itself."<Close><End of Block>
 <TextBlock 65 w:44 h:4>
 Fei
-"By itself, annihilate
+"By itself? Annihilate
 Av!? It must be a
 monstrous battleship."<Close><End of Block>
 <TextBlock 66 w:50 h:4>
@@ -386,18 +386,18 @@ Elly
 Elly
 "Way north, beyond the
 Kislev Imperial Capital<Delay 5>...<Delay 5><New>
-beyond the 'carved out
-portion of the mountain
-peak'<Delay 30> lies the Imperial
+beyond the 'carved-out
+part of the mountain
+range'<Delay 30> lies the Imperial
 military facility."<Close><End of Block>
 <TextBlock 74 w:50 h:4>
 Fei
-"Good,<Delay 5> let's take that
+"Good <--><Delay 5> let's take that
 ship and flee the
 Capital<Delay 5>...<New>
 ...<Delay 5>before the Empire
 decides to launch a
-counter-attack against
+counterattack against
 Av."<Close><End of Block>
 <TextBlock 75 w:30 h:3>
 Fei

@@ -283,8 +283,8 @@ should get bigger<Delay 5>...<Delay 8>
 So, <Delay 5>it'll be worth more!<Close><End of Block>
 <TextBlock 61 w:48 h:4>
 My Adaman-coin is messed
-up now because of those
-experiments!<New>
+up now because of that
+experiment!<New>
 And the fine detail is
 all gone<Delay 5>...<Delay 30>
 *Sigh*<Delay 5>...<Delay 15>
@@ -764,9 +764,8 @@ Fei
 Guess I'll be down in the
 sewer<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 139 w:56 h:10>
-<Opcode 1 255>
-  - Public Execution of -
-  - the former Champion -
+<Opcode 1 255>  - Public Execution of -
+  - the Former Champion -
  Tonight, Ricardo Banderas
   will be executed at the
 Battling Arena for violation

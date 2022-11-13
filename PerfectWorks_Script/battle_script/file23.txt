@@ -12,7 +12,7 @@ Fei
 We're not gonna take
 'this ship' down.
 We're gonna take
-'you' down!"<Close><End of Block>
+YOU down!"<Close><End of Block>
 <TextBlock 3 w:48 h:4>
 Rico
 "What the heck were
@@ -31,7 +31,7 @@ Ship-Bomb Hecht!"<Close><End of Block>
 <TextBlock 5 w:44 h:4>
 Dominia
 "Hah! What insolence!
-But what do you expect
+But what do I expect,
 coming from Lambs...?"<Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Dominia

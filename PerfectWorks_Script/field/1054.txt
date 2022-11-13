@@ -8,21 +8,21 @@ Rico
 "Battling without the use
 of my Gear, huh?<Delay 10> That damn
 Sigmund wants me gone..."<Opcode 2 150><Close><End of Block>
-<TextBlock 3 w:28 h:3>
+<TextBlock 3 w:30 h:3>
 Rico
 "That's not my
 imagination<Delay 5>...<Delay 15><New>
-What's<Delay 5>...<Delay 5>this
-vibration?"<Close><End of Block>
+What're<Delay 5>...<Delay 5>these
+vibrations?"<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 Rico
-"A Gear doesn't vibrate
-like this<Delay 5>...<Delay 15>
-It can't<Delay 5>...<Delay 5>be..."<Close><End of Block>
+"Not the vibrations of
+a Gear<Delay 5>...<Delay 15>
+No...<Delay 5>it can't be<Delay 5>..."<Close><End of Block>
 <TextBlock 5 w:24 h:3>
 Rico
-"That's a<Delay 5>...<Delay 15>
-Rankar!?"<Opcode 2 120><Close><End of Block>
+"That's<Delay 5>...<Delay 15>
+a Rankar!?"<Opcode 2 120><Close><End of Block>
 <TextBlock 6 w:50 h:4>
 Rico
 "Crap! You gotta be

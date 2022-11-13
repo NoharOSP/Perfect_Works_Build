@@ -13,7 +13,7 @@ other three gates."<Close><End of Block>
 <TextBlock 3 w:54 h:4>
 Imperial Guard
 "Due to the Av attack,
-the entire Imperial capital
+the entire Imperial Capital
 area is under martial law.<New>
 Presently, the front gate
 is the only one which
@@ -198,7 +198,7 @@ The existence of the secret
 battleship remained hidden.
 Later, the ship was turned
 into a section of the Kislev
-Imperial capital during the
+Imperial Capital during the
 founding of the Empire.<Close><End of Block>
 <TextBlock 42 w:64 h:5>
 Uncovering this truth from some
@@ -223,7 +223,7 @@ before the Mobile Weapon with
 all of us inside of it.<Close><End of Block>
 <TextBlock 44 w:40 h:3>
 Big Joe
-"Hey, brother, you!<Delay 30> <New>
+"Hey, brother! You!<Delay 30> <New>
 You wanna listen to
 my super muchacho
 information?"<Close><End of Block>
@@ -238,9 +238,9 @@ Big Joe
 "<Delay 5>...<Delay 5>From the looks of it,
 you're all in a group,
 right?<New>
-In that case, you need to
-change your party! If you
-go to the Wildcat pub,
+In that case, you need a
+way to change your party!
+If you go to the Wildcat,
 there'll be a new waitress.<New>
 If you ever want to change
 your party members, just
@@ -254,17 +254,17 @@ information?"<Close><End of Block>
 <TextBlock 48 w:48 h:4>
 Fei
 "H-hey!? You're the one
-who stole my '5000G'.
+who stole my 5000G.
 Give it back to me now."<Close><End of Block>
 <TextBlock 49 w:52 h:4>
 Big Joe
 "<Delay 5>...<Delay 5>Hey hey.<Delay 30>
 That's just a minor thing.<New>
 Being picky will only turn
-you into a boring adult.<Delay 15>
-You gotta be...?<New>
-How would you say...<Delay 30>
-more open and deep like
+you into a boring adult.<New>
+You gotta be...<Delay 15>
+How would you say...?<Delay 30>
+More open and deep like
 the sea.<New>
 Well, setting that aside,<Delay 5>
 you need to listen to my
@@ -280,29 +280,30 @@ Big Joe
 "<Delay 5>...<Delay 5>From the looks of it,
 you're all in a group,
 right?<New>
-In that case, you need to
-change your party! If you
-go to the Wildcat pub,
+In that case, you need a
+way to change your party!
+If you go to the Wildcat,
 there'll be a new waitress.<New>
 If you ever want to change
 your party members, just
 remember to stop by there."<Close><End of Block>
 <TextBlock 52 w:50 h:4>
 Big Joe
-"Oh, one more thing<Delay 5>...<Delay 30>
-There was a deep deep
-reason, as deep as the<New>
+"Oh, one more thing<Delay 5>...<New>
+There was a deep, deep
+reason, as deep as the
 deepest ocean, for doing
-what I did. As a way of
-making up for it, go back
-to that backstreet one<New>
-more time and search the
-area<Delay 5>...<Delay 15> You just might
-find something good,<Delay 5> for
+what I did.<New>
+As a way of making up for
+it, go back to that
+backstreet one more time
+and search the area<Delay 5>...<New>
+You just might find
+something good,<Delay 5> for
 real!"<Close><End of Block>
 <TextBlock 53 w:38 h:3>
 Fei
 "This dog<Delay 5>...<Delay 5> It was
 his<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 54 w:32 h:1>
-Gave 'Dog Food'!<Close><Close><End of Block>
+<TextBlock 54 w:28 h:1>
+Gave Dog Food!<Close><Close><End of Block>

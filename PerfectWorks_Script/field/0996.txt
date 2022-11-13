@@ -170,7 +170,7 @@ Boy am I thankful it wasn't
 near our civilian area!<Close><End of Block>
 <TextBlock 37 w:54 h:4>
 Oooh<Delay 5>...<Delay 5> Diana<Delay 5>...<Delay 5> During the
-assault on our capital<Delay 5>...<Delay 5>
+assault on our Capital<Delay 5>...<Delay 5>
 by Av<Delay 5>...<Delay 15>she tried to
 save a child<Delay 5>...<New>
 ...<Delay 5>Is there no God looking
@@ -301,15 +301,15 @@ Imperial City Guard
 "M-My medal<Delay 5>..."<Opcode 2 45><Close><End of Block>
 <TextBlock 59 w:46 h:4>
 Imperial City Guard
-"Noatun, our Empire's
-capital, is a powerful
+"Noatun, our Imperial
+Capital, is a powerful
 military state.<New>
 Breidablik, the capital
 of the Kingdom of Av,
 is at war against us."<Close><End of Block>
 <TextBlock 60 w:56 h:5>
 Imperial City Guard
-"<Delay 5>...<Delay 5>That's strange?<Delay 15> Haven't
+"That's strange<Delay 5>...<Delay 15> Haven't
 I seen you somewhere before?<Delay 30>
 Hmm, I must have the wrong 
 person<Delay 5>...<Delay 5> Errh, sorry."<Close><End of Block>
@@ -324,15 +324,15 @@ There are also rumors about
 convicts, who attempted to
 escape by taking advantage
 of the confusion during
-Av's raid on our capital,
-hiding out in these parts.<Close><End of Block>
+Av's raid on our Capital,
+hiding out in these parts."<Close><End of Block>
 <TextBlock 62 w:52 h:6>
 Imperial City Guard
 "Hmm<Delay 5>...?<Delay 10> Don't I know you 
 from somewhere<Delay 5>...?<Delay 10>
 Oh well, guess not.<Delay 15>
 Anyway, that's the way it
-is, so please cooperate.<Close><End of Block>
+is, so please cooperate."<Close><End of Block>
 <TextBlock 63 w:58 h:5>
 Imperial City Guard
 "Sorry, but after sunset
@@ -481,7 +481,7 @@ Are you stupid!?"<Close><End of Block>
 <TextBlock 92 w:50 h:4>
 Fei
 "Are we busted?<Delay 5> Damn!"<Delay 15>
-    Run away for now.
+    Run away for now
     Try to break through!<Close><End of Block>
 <TextBlock 93 w:56 h:4>
 Fei

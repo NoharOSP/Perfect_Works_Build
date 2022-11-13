@@ -1,6 +1,7 @@
 <TextBlock 1 w:50 h:4>
 Citan
-"There seem to be people.
+"It looks like there
+are people around.<New>
 It may be best not to go
 in through here..."<Close><End of Block>
 <TextBlock 2 w:48 h:3>

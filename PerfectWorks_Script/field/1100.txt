@@ -7,15 +7,14 @@ Hammer
 "Master, there're people
 over there that can't get
 out! We're doomed!"<Close><End of Block>
-<TextBlock 3 w:52 h:5>
+<TextBlock 3 w:52 h:4>
 Citan
 "Don't give up, Hammer!
 Fei is fighting, too!<New>
 Fei<Delay 10>...<Delay 10>no longer wants to
 watch innocent people lose
 their homes, their town,
-those who are important
-to them..."<Close><End of Block>
+their loved ones..."<Close><End of Block>
 <TextBlock 4 w:18 h:3>
 Rico
 "My<Delay 10>...<Delay 10>
@@ -65,11 +64,13 @@ that?"<Close><End of Block>
 <TextBlock 15 w:52 h:3>
 Fei
 "...<Delay 15>...<Delay 15>
-It's just not like you.<New>
-If you don't want to then 
-don't do it.<New>
-You shouldn't have to
-force it just to have a
+Don't do what isn't right
+for you!<New>
+You don't have to do
+something if it's not
+what you want.<New>
+You don't have to force
+yourself, just to have a
 place to belong..."<Close><End of Block>
 <TextBlock 16 w:10 h:2>
 Elly
@@ -107,7 +108,7 @@ Dominia is not like
 the other soldiers!<New>
 She is an elite within
 the Geburah elite.
-She's one of the Elements,
+She's one of the Elements.
 Ramsus' personal guard!<New>
 You won't stand a chance!"<Close><End of Block>
 <TextBlock 21 w:36 h:3>

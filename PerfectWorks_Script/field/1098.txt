@@ -28,7 +28,7 @@ Elly
 <TextBlock 7 w:44 h:3>
 Breuer
 "Third time's a charm!
-Let's get 'em!"<Close><End of Block>
+Let's get 'im!"<Close><End of Block>
 <TextBlock 8 w:12 h:3>
 Elly
 "Huh?
@@ -42,10 +42,10 @@ Rank
 can tell you're acquainted
 with that Gear's pilot.<New>
 But there's no way we can
-stop. It doesn't matter
-that we're escorting the
-Hecht.<New>
-I wanna fight him, not as
+back down. It doesn't
+matter that we're meant to
+be escorting the Hecht.<New>
+I wanna fight him. Not as
 enemy soldiers, but as
 rival competitors...<New>
 We're the Geburah Special

@@ -57,23 +57,22 @@ W-<Delay 5>Welcome to the Wildcat.
 It must be tough travel-
 ing in such a<Delay 5> big group.<New>
 W-Would you like to
-change your organization?<Delay 15>
+change your arrangement?<Delay 15>
 I'm not used to this<Delay 5>...<Delay 5>
 *sob*...<Close><End of Block>
-<TextBlock 13 w:40 h:3>
-Um<Delay 5>...<Delay 5>would you like<New>
-to change members?<Delay 15>
+<TextBlock 13 w:42 h:3>
+Um<Delay 5>...<Delay 5> Change members?<Delay 15>
     No
     Change party<Close><End of Block>
 <TextBlock 14 w:44 h:4>
-H-How could you<Delay 5>...<Delay 5>?
+No way<Delay 5>...<Delay 5> *Sniffle*<Delay 5>...<Delay 5>
 So<Delay 15>...<Delay 5>please come
-again. But<Delay 5>...<Delay 5>next time
+again. Um<Delay 5>...<Delay 5>next time,
 please reorganize.<Close><End of Block>
 <TextBlock 15 w:42 h:3>
-Th-Thank you! Well,
-then<Delay 5>...<Delay 5>the rest is up
-to you, boss.<Close><End of Block>
+Th-Thank you! Then<Delay 5>
+I'll get right to it,
+master, if I may!<Close><End of Block>
 <TextBlock 16 w:44 h:4>
 I heard there was a
 title match.<Delay 15> Man, I

@@ -1,9 +1,9 @@
-<TextBlock 1 w:30 h:1>
-No one is here.<Close><End of Block>
-<TextBlock 2 w:6 h:1>
-Oh.<Close><End of Block>
+<TextBlock 1 w:40 h:1>
+There's no one here.<Close><End of Block>
+<TextBlock 2 w:8 h:1>
+Huh?<Close><End of Block>
 <TextBlock 3 w:32 h:1>
-Aahhh forget it!<Close><End of Block>
+Argh, forget it!<Close><End of Block>
 <TextBlock 4 w:36 h:2>
 What're you doing?
 We're going.<Close><End of Block>

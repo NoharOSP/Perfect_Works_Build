@@ -12,15 +12,15 @@ I forgot it...<Close><End of Block>
 <TextBlock 5 w:10 h:1>
 Huh!?<Close><End of Block>
 <TextBlock 6 w:50 h:11>
-Y-You! M-My superultra
+Y-You! M-My super ultra
 great delicious excellent
 dynamite bomber special
 DX beautiful wonderful
-ultimately rare buy
+ultimate rare-buy
 complete merging
-undefeated transforming
-I was going to put in a
-glass case in my home
+invincible transforming
+was-going-to-put-in-a-
+glass-case-in-my-home
 priceless Minigear!!<Close><End of Block>
 <TextBlock 7 w:14 h:1>
 Thief!!<Close><End of Block>
@@ -32,5 +32,5 @@ Anyway, what've you
 been doing over there?<Close><End of Block>
 <TextBlock 10 w:40 h:1>
 Oh...well, whatever.<Close><End of Block>
-<TextBlock 11 w:30 h:1>
-No one is here.<Close><Close><End of Block>
+<TextBlock 11 w:40 h:1>
+There is no one here.<Close><Close><End of Block>
