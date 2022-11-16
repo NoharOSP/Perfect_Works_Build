@@ -301,7 +301,7 @@ of the Champ, but he was a
 skilled extermination worker!<Close><End of Block>
 <TextBlock 52 w:56 h:5>
 I'm a Battler in training,
-with prisoner rank C!<Delay 15>
+with prisoner Rank C!<Delay 15>
 Looky here, today's menu is
 <Delay 5>...<Delay 5>wooh!<Delay 5> ...<Delay 5>'Stamina Uppen'!<New>
 Whahow! If I eat this up,
@@ -313,7 +313,7 @@ I'll be a Battle Master!<Delay 30>
 <*> Note: That won't happen!<Opcode 2 45><Close><End of Block>
 <TextBlock 54 w:56 h:5>
 I'm a Battler in training,
-with prisoner rank C!<Delay 15>
+with prisoner Rank C!<Delay 15>
 Goody-goody, today's menu is
 <Delay 5>...<Delay 5>wooh!<Delay 5>...<Delay 5>'Ether Omega'!<New>
 Whahow! When I eat this, my
@@ -413,7 +413,7 @@ then I might have a chance.<Close><End of Block>
 <TextBlock 71 w:56 h:4>
 They say there was another
 victim found this morning!
-That makes five<Delay 5>...<Delay 5>and rank
+That makes five<Delay 5>...<Delay 5>and Rank
 A, too!<New>
 I can't believe that
 it was Suzanne, one of the
@@ -431,7 +431,7 @@ Especially our dishes cooked
 according to Ether theory,
 like 'Boosta Limit' and
 'HeavyWeighter'...<New>
-We provide according to rank
+We provide according to Rank
 A or B, so you can only have
 one or the other.<New>
 And it differs

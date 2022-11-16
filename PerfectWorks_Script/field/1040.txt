@@ -392,7 +392,7 @@ I'll continue to call
 you bro from now on!<New>
 By the way, bro, I hear
 you're really strong.
-Not many get rank A, you
+Not many get Rank A, you
 know! I'm pretty impressed!<New>
 <Delay 5>...<Delay 5>And what's more, bro,
 you seem different from
@@ -568,7 +568,7 @@ you so much trouble<Delay 5>..."<Close><End of Block>
 Hammer, the Supplier
 "You don't have to thank
 me! Just to let you know,
-I'm also rank D!<New>
+I'm also Rank D!<New>
 But then again, how could
 a supplier like me beat
 Battlers like them? That's
@@ -580,7 +580,7 @@ My name is Fei. Could you
 stop calling me 'bro'<Delay 5>...?"<Close><End of Block>
 <TextBlock 90 w:52 h:4>
 Hammer, the Supplier
-"C'mon. We're both D rank,
+"C'mon. We're both Rank D,
 right? Let's be friends!
 Pleeeze!"<Close><End of Block>
 <TextBlock 91 w:34 h:3>

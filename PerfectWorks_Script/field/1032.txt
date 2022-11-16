@@ -19,19 +19,19 @@ Fei
     Not yet<Close><End of Block>
 <TextBlock 4 w:46 h:2>
 Fei
-"The rank A bed it is!"<Close><End of Block>
+"The Rank A bed it is!"<Close><End of Block>
 <TextBlock 5 w:46 h:2>
 Fei
-"The rank B bed it is!"<Close><End of Block>
+"The Rank B bed it is!"<Close><End of Block>
 <TextBlock 6 w:46 h:2>
 Fei
-"The rank C bed it is!"<Close><End of Block>
+"The Rank C bed it is!"<Close><End of Block>
 <TextBlock 7 w:46 h:2>
 Fei
-"The rank C bed it is!"<Close><End of Block>
+"The Rank C bed it is!"<Close><End of Block>
 <TextBlock 8 w:46 h:2>
 Fei
-"The rank D bed it is!"<Close><End of Block>
+"The Rank D bed it is!"<Close><End of Block>
 <TextBlock 9 w:40 h:2>
 Fei
 "<Delay 5>...<Delay 5>Wh-Where am I?"<Opcode 2 30><Close><End of Block>
@@ -720,7 +720,7 @@ Doctor
 "You're quite strong, aren't
 you!? To defeat four people
 in your condition... It's no
-wonder they gave you rank A!<New>
+wonder they gave you Rank A!<New>
 But to go up against
 the Champ...? 
 It's amazing that you
@@ -781,7 +781,7 @@ Fei
 <Delay 5>...<Delay 5>Huh? What's this!?"<Close><End of Block>
 <TextBlock 131 w:54 h:5>
 Doctor
-"I believe you were rank C.
+"I believe you were Rank C.
 But in your condition, you
 did well just to beat one
 opponent!"<Close><End of Block>
@@ -805,7 +805,7 @@ By the way, what
 is this thing?"<Close><End of Block>
 <TextBlock 135 w:54 h:4>
 Doctor
-"<Delay 5>...<Delay 5>You're rank D.<Delay 20>
+"<Delay 5>...<Delay 5>You're Rank D.<Delay 20>
 But that's understandable
 given your condition.<New>
 The very idea of the
@@ -1422,10 +1422,10 @@ To do that you will have
 to defeat the current
 Champion, Master Rico!<New>
 The Champ's prison ranking
-is rank S!
-That's well above rank A,
+is Rank S!
+That's well above Rank A,
 even!<New>
-Our bro here is only rank
+Our bro here is only Rank
 C. Our bro could very well
 die if he attempts to
 challenge the Champ!"<Close><End of Block>
@@ -1437,10 +1437,10 @@ To do that you will have
 to defeat the current
 Champion, Master Rico!<New>
 The Champ's prison ranking
-is rank S!
-That's well above rank A,
+is Rank S!
+That's well above Rank A,
 even!<New>
-Our bro here is only rank
+Our bro here is only Rank
 C. Our bro could very well
 die if he attempts to
 challenge the Champ!"<Close><End of Block>

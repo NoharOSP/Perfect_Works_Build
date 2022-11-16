@@ -64,7 +64,7 @@ Rue
 Next door is your bedroom.<New>
 Oh,<Delay 5> and Fei:<Delay 15> you will now be
 given the title of Champion<Delay 5>
-as well as special S-Rank
+as well as special Rank S
 privileges."<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 Rue

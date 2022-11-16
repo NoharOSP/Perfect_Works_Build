@@ -383,7 +383,7 @@ in the sewers, too."<Close><End of Block>
 <TextBlock 75 w:54 h:3>
 Guard
 "We haven't had too many
-rank-A prisoners like you.<New>
+Rank A prisoners like you.<New>
 That's why the Committee
 noticed you.<New>
 This year's match<Delay 5>...<Delay 5>
@@ -392,7 +392,7 @@ will win, though."<Close><End of Block>
 <TextBlock 76 w:54 h:5>
 Guard
 "<Delay 5>...<Delay 5>You lost to Suzanne and
-you're only rank B so there
+you're only Rank B so there
 is no reason for the
 Committee to notice you<Delay 5>..."<Close><End of Block>
 <TextBlock 77 w:56 h:5>
@@ -407,7 +407,7 @@ Guard
 Capital Committee
 guys losing it?<New>
 They're waiting around
-just to talk to a rank-C
+just to talk to a Rank C
 prisoner about entering
 the Battling<Delay 5>...?"<Close><End of Block>
 <TextBlock 79 w:54 h:4>
@@ -421,7 +421,7 @@ Guard
 Capital Committee
 guys losing it?<New>
 They're waiting around
-just to talk to a rank-C
+just to talk to a Rank C
 prisoner about entering
 the Battling<Delay 5>...?"<Close><End of Block>
 <TextBlock 81 w:54 h:4>
@@ -433,7 +433,7 @@ give it a try<Delay 5>...<Delay 5>..."<Close><End of Block>
 Guard
 "It's unbelievable!<New>
 The Imperial Committee
-is talking to a rank-D
+is talking to a Rank D
 prisoner about entering
 the Battling.<New>
 What are they thinking?"<Close><End of Block>
@@ -790,7 +790,7 @@ late at night and fought
 with a mysterious monster.
 This is the fourth victim.
 In order to clear this up,
-Suzanne, rank A, has been
+Suzanne, Rank A, has been
 ordered to deal with the
 mysterious monster.
     - Imperial Committee -<Close><End of Block>
@@ -800,7 +800,7 @@ mysterious monster.
 Eight-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
-a rank-A criminal.
+a Rank A criminal.
 He went from prisoner to
 Battler. A first-time
 participant, he even beat
@@ -812,7 +812,7 @@ skillful Gear piloting!<Close><End of Block>
 Eight-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
-a rank-B criminal.
+a Rank B criminal.
 He went from prisoner to
 Battler. A first-time
 participant, he even beat
@@ -824,7 +824,7 @@ skillful Gear piloting!<Close><End of Block>
 Eight-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
-a rank-C criminal.
+a Rank C criminal.
 He went from prisoner to
 Battler. A first-time
 participant, he even beat
@@ -836,7 +836,7 @@ skillful Gear piloting!<Close><End of Block>
 Eight-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
-a rank-C criminal.
+a Rank C criminal.
 He went from prisoner to
 Battler. A first-time
 participant, he even beat
@@ -848,7 +848,7 @@ skillful Gear piloting!<Close><End of Block>
 Eight-time Champ
 Ricardo Banderas defeated!
 The victor was the boy, Fei,
-a rank-D criminal.
+a Rank D criminal.
 He went from prisoner to
 Battler. A first-time
 participant, he even beat
