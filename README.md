@@ -578,6 +578,9 @@ All deathblow learning rates (sans Emeralda) have been doubled to minimize grind
 
 ## Glitches:
 
+### General:
+- Items/spells and exp/gold together can cause unpredictable effects in battle. Will be fixed in 0.1.2. Can provide an easy way to access the kernel when playing on hardware.
+
 ### Fast text:
 - Going through Ramsus' introductory scene too quickly will freeze the game (legacy glitch from the original patch).
 
