@@ -11,6 +11,7 @@
 #include <commctrl.h>
 #include <vector>
 #include "writeFile.h"
+#include "patchChecker.h"
 
 #define MAX_LOADSTRING 100
 #define BUF_SIZE 300
