@@ -1,10 +1,10 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.1.2 here: 
+Download version 0.1.3 here: 
 
-- Mega: https://mega.nz/file/OG5RBJ4Q#jARzVJaRI1mhaYFWj9fMc2-TfDL5yl6abiJIdXY5lSU
-- Google Drive: https://drive.google.com/file/d/1bGlPBH7_1J-61nnAsWWU9viVBNsFmNKo/view?usp=sharing
+- Mega: https://mega.nz/file/jbJmBIIS#z8ysRWLVsw8QJdBKA30oux7XW5dEkNI0LPDevD7Jg2Y
+- Google Drive: https://drive.google.com/file/d/11L1rSRPaOjz2VzAE7FJYvdARBOwqgAhv/view?usp=share_link
 
 ## Completion stats:
 
@@ -57,7 +57,28 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ## Archive:
 
+### Builds:
+
+### Version 0.1.2:
+
+- Mega: https://mega.nz/file/OG5RBJ4Q#jARzVJaRI1mhaYFWj9fMc2-TfDL5yl6abiJIdXY5lSU
+- Google Drive: https://drive.google.com/file/d/1bGlPBH7_1J-61nnAsWWU9viVBNsFmNKo/view?usp=sharing
+
+### Version 0.1.1:
+
+- Mega: https://mega.nz/file/2WQHXawQ#k5b3S744oIhHs8bFU_eMs04-nKwWj4C-7tXgazW31tU
+- Google Drive: https://drive.google.com/file/d/1zv56pPSHruN_KnOQ4pVHlJHMwSOn4ni1/view?usp=share_link
+
+### Version 0.1.0:
+
+- Mega: https://mega.nz/file/aehiRaaS#8kgPnxVlYEI8AZL9KebwT2SQal1h_6UuRpmnw55LDfk
+- Google Drive: https://drive.google.com/file/d/1tVlHEiu3dpkdchUqC3Xhz-Zbr0kmo36M/view?usp=share_link
+
 ### GUI patcher:
+
+### Version 0.3.0
+
+Included with builds 0.1.0 - 0.1.2.
 
 #### Version 0.2.1
 
@@ -545,6 +566,9 @@ Emeralda:
 Chu-Chu:
 - Ether 12 to 25
 
+Margie:
+- Healing now has a base 30 power rather than 20.
+- Meteorstrike and Rat fever do 250 damage rather than 1.
 
 Weltall/Weltall-2/Xenogears:
 - Ether amp 10 to 15
@@ -577,9 +601,6 @@ Yggdrasil IV:
 All deathblow learning rates (sans Emeralda) have been doubled to minimize grinding and in case the encounters patch has been applied. Elly's has been changed to 8 from 3 so that players have more time to get her deathblows for plot related reasons.
 
 ## Glitches:
-
-### General:
-- Items/spells and exp/gold together can cause unpredictable effects in battle. Will be fixed in 0.1.2. Can provide an easy way to access the kernel when playing on hardware.
 
 ### Fast text:
 - Going through Ramsus' introductory scene too quickly will freeze the game (legacy glitch from the original patch).
