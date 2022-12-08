@@ -682,6 +682,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - ChaoticBrave
 - Aero JP
 - Kiahnte
+- edrovinhaz
 - Nohar
 
 ### Tools:
