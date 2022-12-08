@@ -25,6 +25,25 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ## Version history:
 
+### Version 0.1.3:
+
+12/06/2022
+
+- Error with Aerods' fuel cost in the menu has been fixed. Now it says 800 rather than 400.
+- Line break has been added to the second instance of the Merkabah Calls chapter name. Typo with it has also been fixed.
+- Billy no longer has EthFireAmmo and EthWindAmmo equipped.
+- Grammar fixes with tournament battles and Rico fight.
+- Fixed a grammar inconsistency with the opening FMV subtitles.
+- Patcher now allows you to process each disc individually.
+- Patcher checks if a patch has already been applied.
+- Fixed grammar issue with the description for Sewer Keys and Master Key.
+- Fixed glitches with text wrapping around text boxes.
+- Changed MP to EP in diners.
+- Margie's healing has been increased from base 20 to 30.
+- Margie's Meteorstrike and Rat fever now do 250 damage as opposed to 1.
+- Fixed a glitch with the patcher which caused unpredictable battle effects when the items/spells patch was combined with the monsters and exp/gold patches. 
+
+
 ### Version 0.1.2:
 
 10/02/2022
