@@ -1,10 +1,11 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.1.3 here: 
+Download version 0.1.4 here: 
 
-- Mega: https://mega.nz/file/jbJmBIIS#z8ysRWLVsw8QJdBKA30oux7XW5dEkNI0LPDevD7Jg2Y
-- Google Drive: https://drive.google.com/file/d/11L1rSRPaOjz2VzAE7FJYvdARBOwqgAhv/view?usp=share_link
+- Mega: https://mega.nz/file/Gbw21KhJ#zzOR5K74gXH7ETsXmMvNiU7Mc1OPA-bPfRk8x5Y6ZSs
+- Google Drive: https://drive.google.com/file/d/1v6bjQZDpx5v7pJm8o4ped8QjuNxP8vBE/view?usp=share_link
+
 
 ## Completion stats:
 
@@ -24,6 +25,12 @@ Hello. My name is Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito. I am a character 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.1.4:
+
+12/10/2022
+
+- Fixes to script files from Lahan to Kislev.
 
 ### Version 0.1.3:
 
@@ -77,6 +84,11 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 ## Archive:
 
 ### Builds:
+
+### Version 0.1.3:
+
+- Mega: https://mega.nz/file/jbJmBIIS#z8ysRWLVsw8QJdBKA30oux7XW5dEkNI0LPDevD7Jg2Y
+- Google Drive: https://drive.google.com/file/d/11L1rSRPaOjz2VzAE7FJYvdARBOwqgAhv/view?usp=share_link
 
 ### Version 0.1.2:
 
