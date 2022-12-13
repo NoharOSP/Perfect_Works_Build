@@ -158,7 +158,7 @@ say that stuff..."<Close><End of Block>
 Margie
 "You could have just
 told them that you were
-<Delay 30>the prince."<Close><End of Block>
+<Delay 30>the Prince."<Close><End of Block>
 <TextBlock 43 w:50 h:2>
 Bart
 "No,<Delay 30> I can't do that yet.<New>

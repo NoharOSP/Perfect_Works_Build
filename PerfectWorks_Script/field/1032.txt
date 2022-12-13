@@ -149,7 +149,7 @@ have to come along with us!"<Close><End of Block>
 Suzanne
 "You don't have any choice,
 mister!<Delay 15> If you oppose us, the
-fair doctor will cop it, too!"<Close><End of Block>
+fair Doctor will cop it, too!"<Close><End of Block>
 <TextBlock 29 w:52 h:4>
 Suzanne
 "Oh, what a sensible lad!
@@ -892,7 +892,7 @@ Kislev that fits the
 description of <Weltall><Delay 5>.<New>
 They said they transported
 it to their Capital, so I
-came here on the off chance
+came here on the off-chance
 I might also find you here!"<Close><End of Block>
 <TextBlock 150 w:48 h:4>
 Hammer

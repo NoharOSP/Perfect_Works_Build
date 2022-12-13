@@ -1,13 +1,14 @@
 <TextBlock 1 w:42 h:2>
 Rico
 "Is...that kid...me?"<Close><End of Block>
-<TextBlock 2 w:50 h:3>
+<TextBlock 2 w:50 h:4>
 Rico
 "My childhood memories...
-I've forgotten..."<Close><End of Block>
-<TextBlock 3 w:54 h:2>
-"G-Get out!!<Delay 30>
-Go away, you mutant child!"<Opcode 2 60><Close><End of Block>
+I'd completely
+forgotten..."<Close><End of Block>
+<TextBlock 3 w:52 h:2>
+...Get out of our town!!<Delay 30>
+Go away, you mutant child!<Opcode 2 60><Close><End of Block>
 <TextBlock 4 w:38 h:3>
 "Well, that is...<Delay 40>
 Your father is...<Delay 30>

@@ -115,7 +115,7 @@ Why you little brat.<New>
 The only people who I ever
 allowed to call me a rambler
 were my late mother and the
-young prince.<New>
+young Prince.<New>
 His Highness<-->
 What was his name?<Close><End of Block>
 <TextBlock 18 w:44 h:3>
@@ -136,13 +136,13 @@ You won't beat me,
 Shakhan. I'll protect
 Av's water till I die.<New>
 In remembrance of the
-kindness of the king and
-the young prince.<Close><End of Block>
+kindness of the King and
+the young Prince.<Close><End of Block>
 <TextBlock 20 w:56 h:4>
 I'll protect Av's water
 till I die. In rememberance
-of the kindness of the king
-and the young prince.<Close><End of Block>
+of the kindness of the King
+and the young Prince.<Close><End of Block>
 <TextBlock 21 w:50 h:3>
 Bart
 "Really? Thanks, old man.
@@ -155,7 +155,7 @@ acquaintance of mine?<New>
 Wait wait, I remember...<Delay 200>
 !<Delay 30> 
 No, no, that's not it.<New>
-I don't recall the king
+I don't recall the King
 having any secret sons.<Close><End of Block>
 <TextBlock 23 w:48 h:4>
 Bart
@@ -170,7 +170,7 @@ Highness Bartholomew?<Delay 50>
 It's been a long time.<New>
 You were still a child
 when your father, the
-king, passed away.<New>
+King, passed away.<New>
 How I miss those days.
 I am glad to see that
 you are still alive!<Close><End of Block>

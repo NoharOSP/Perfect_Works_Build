@@ -345,7 +345,7 @@ Hurry!"<Close><End of Block>
 <TextBlock 71 w:52 h:4>
 Guard
 "This way's the main town.
-D-Block prisoners like
+D Block prisoners like
 yourself can't pass."<Close><End of Block>
 <TextBlock 72 w:54 h:5>
 Guard
@@ -364,7 +364,7 @@ civilian section, okay!?"<Close><End of Block>
 <TextBlock 73 w:54 h:4>
 Guard
 "This way's the main town.
-D-Block prisoners like<-->
+D Block prisoners like<-->
 Huh? Aren't you<Delay 5>...?<New>
 <Delay 5>...<Delay 5>Excuse me!
 Please go on through."<Close><End of Block>

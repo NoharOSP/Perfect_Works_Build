@@ -2,10 +2,11 @@
 Fei
 "You...?<Delay 20>
 How do you know me?"<Close><End of Block>
-<TextBlock 2 w:28 h:3>
+<TextBlock 2 w:28 h:4>
 Fei
-"Uh, no...<Delay 40>
-We weren't..."<Close><End of Block>
+"N-No...<Delay 40>
+Nothing to do
+with us..."<Close><End of Block>
 <TextBlock 3 w:36 h:3>
 Fei
 "Huh?
@@ -47,7 +48,7 @@ Sigmund
 Sigmund
 "Pirates?
 You mean the
-young prince?"<Close><End of Block>
+young Prince?"<Close><End of Block>
 <TextBlock 14 w:22 h:2>
 Sigmund
 "Uh huh..."<Close><End of Block>
@@ -117,8 +118,8 @@ Security!!
 Arrest this intruder!"<Opcode 2 20><Close><End of Block>
 <TextBlock 28 w:40 h:3>
 Sigmund
-"He wasn't with you,
-was he?"<Close><End of Block>
+"I hope you didn't
+lead him here?"<Close><End of Block>
 <TextBlock 29 w:56 h:2>
 Associate
 "Kaiser, we have some news."<Close><End of Block>

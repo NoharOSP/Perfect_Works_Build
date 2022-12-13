@@ -28,7 +28,7 @@ far better than the
 facilities at Breidablik.<New>
 It's probably a hidden
 fort built when their old
-king was still around..."<Close><End of Block>
+King was still around..."<Close><End of Block>
 <TextBlock 7 w:40 h:4>
 Franz
 "Who cares...?<Delay 10>

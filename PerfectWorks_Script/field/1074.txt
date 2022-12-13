@@ -79,9 +79,8 @@ once. Why do you help us?<New>
 Who are you people?"<Close><End of Block>
 <TextBlock 19 w:44 h:4>
 Sigmund
-"So you're telling me
-you do not require any
-recompense?"<Close><End of Block>
+"And you say you want
+nothing in return?"<Close><End of Block>
 <TextBlock 20 w:46 h:3>
 Sigmund
 "...But what a strange

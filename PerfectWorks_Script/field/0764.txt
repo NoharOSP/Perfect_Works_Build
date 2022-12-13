@@ -358,7 +358,7 @@ his best, you know?<New>
 That is why we stick
 by him... It has
 nothing to do with
-him being the prince."<Close><End of Block>
+him being the Prince."<Close><End of Block>
 <TextBlock 66 w:48 h:4>
 Sigurd
 "Fei,<Delay 10> I sense you too

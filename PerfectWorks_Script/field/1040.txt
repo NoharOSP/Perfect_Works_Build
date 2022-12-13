@@ -101,9 +101,10 @@ were knocked out cold<Delay 5>..."<Close><End of Block>
 <TextBlock 16 w:24 h:2>
 Beastoid Man
 "Oh!"<Close><End of Block>
-<TextBlock 17 w:46 h:3>
+<TextBlock 17 w:46 h:4>
 Beastoid Man
-"Hey brother! You, bro!
+"Hey, brother!
+You, bro!
 <Delay 5>...<Delay 5>Here, over here!"<Close><End of Block>
 <TextBlock 18 w:52 h:4>
 Hammer
@@ -557,13 +558,13 @@ Hammer, the Supplier
 "Heh, I slipped up and got
 caught, okay!<Delay 5> ...<Delay 20>By the
 way, how are your wounds?"<Close><End of Block>
-<TextBlock 87 w:52 h:3>
+<TextBlock 87 w:52 h:4>
 Fei
-"Huh?
-Oh, fine, thanks to you...<New>
-Oh yeah, I haven't thanked
-you yet... Sorry I caused
-you so much trouble<Delay 5>..."<Close><End of Block>
+"Huh?<Delay 10> Oh, that's right...
+I haven't thanked you yet.
+I owe you one.<New>
+Sorry I caused you so much
+trouble<Delay 5>..."<Close><End of Block>
 <TextBlock 88 w:52 h:4>
 Hammer, the Supplier
 "You don't have to thank
@@ -593,7 +594,7 @@ Hammer, the Supplier
 got any problems, come
 and talk to me!<New>
 There's nothing I don't
-know about this D block!
+know about this D Block!
 And I am a supplier, so
 I've got the connections!"<Close><End of Block>
 <TextBlock 93 w:52 h:3>
@@ -602,7 +603,7 @@ Fei
 What do you want with me?"<Close><End of Block>
 <TextBlock 94 w:56 h:4>
 Committee Member Rue
-"<Delay 5>...<Delay 5>I'll cut to the point.
+"<Delay 5>...<Delay 5>I'll cut to the chase.
 We want you to participate
 in the Battling tournament."<Close><End of Block>
 <TextBlock 95 w:28 h:2>

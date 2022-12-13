@@ -13,8 +13,8 @@ Fei
 "MOVE!!"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Fei
-"We must change the rear
-ship's course or<Delay 10>...<Delay 10>
+"I've got to change the
+rear ship's course or<Delay 10>...<Delay 10>
 <Delay 10>...<Delay 10>!!<New>
 <Delay 10>...<Delay 10>You guys again!?"<Close><End of Block>
 <TextBlock 6 w:30 h:4>

@@ -25,7 +25,7 @@ doing.<Delay 10> So courageous of him
 even at such a young age.<New>
 Anyway, this Yggdrasil can
 be considered a keepsake
-of the late king for the
+of the late King for the
 young master."<Close><End of Block>
 <TextBlock 4 w:54 h:3>
 Bart
@@ -140,7 +140,7 @@ Maison
 "At long last we are
 heading to Breidablik
 tomorrow...<New>
-Though he is the prince,
+Though he is the Prince,
 our young master doesn't
 know the Royal Capital
 very well<Delay 5>...<New>
@@ -227,10 +227,10 @@ a prince, then old Maison,
 who is in charge of his
 upbringing, will disgrace
 the very memory of King
-Edbart IV... god bless him.
+Edbart IV...god bless him.
 Typical of the young master
 not to even listen to me!
-The king was peace-loving,
+The King was peace-loving,
 a very generous person...
 On the contrary, not only
 does the young master, put
@@ -1047,15 +1047,14 @@ I myself thought something
 was wrong there, and that's
 why I came here...<Delay 10>
 So, don't worry about me.<Close><End of Block>
-<TextBlock 154 w:58 h:4>
+<TextBlock 154 w:54 h:4>
 Fei
 "We've got nothing to lose,
 so let's try to go there.<New>
 We need to find the truth
 about those documents found
-in the Church of the Ethos
-HQ.<New>
-and what Billy's father said.
+in the Church HQ and what
+Billy's father said.<New>
 And I must go to Shevat
 too for my own personal
 reasons anyway."<Close><End of Block>

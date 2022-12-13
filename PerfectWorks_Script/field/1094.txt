@@ -54,7 +54,7 @@ Be careful, now."<Close><End of Block>
 Citan
 "If those civilians
 do not hurry and
-get out..."<Close><End of Block>
+evacuate..."<Close><End of Block>
 <TextBlock 12 w:10 h:2>
 Rico
 "..."<Close><Close><End of Block>

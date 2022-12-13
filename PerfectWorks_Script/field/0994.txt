@@ -155,7 +155,7 @@ Imperial Capital D Block<Close><End of Block>
 <TextBlock 22 w:54 h:2>
 <Opcode 1 255>Imperial Capital C Block
 Recreation & Battling Arena<Close><End of Block>
-<TextBlock 23 w:42 h:2>
+<TextBlock 23 w:44 h:2>
 <Opcode 1 255>Central Area
 Kislev Admin. District<Close><End of Block>
 <TextBlock 24 w:36 h:2>
