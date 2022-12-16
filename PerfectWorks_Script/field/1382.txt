@@ -75,11 +75,11 @@ Grahf
 "Blossom, o fallen seed, 
 and draw upon thy hidden 
 powers!!"<Close><End of Block>
-<TextBlock 16 w:50 h:4>
+<TextBlock 16 w:46 h:4>
 Grahf
-"Grant unto thee the
+"I grant unto thee the
 power of the glorious
-'Mother of Destruction'!"<Close><End of Block>
+Mother of Destruction!"<Close><End of Block>
 <TextBlock 17 w:46 h:3>
 Grahf
 "I am Grahf, the seeker

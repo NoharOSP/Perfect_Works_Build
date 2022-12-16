@@ -54,7 +54,7 @@ are in looove!!"<Close><End of Block>
 <TextBlock 9 w:36 h:3>
 "From all the cool
 people of Lahan...
-  Buon giorno!"<Close><End of Block>
+  buon giorno!"<Close><End of Block>
 <TextBlock 10 w:42 h:3>
 "- The Laughing Fox  
    & Piglet Tavern - 
@@ -143,7 +143,7 @@ Alice's happiness!"<Close><End of Block>
 <TextBlock 31 w:46 h:3>
 Dan
 "So, Fei, you up to it?<New>
-C'mon, let's do it!<Delay 20>
+C'mon, let's do it!"<Delay 20>
     Let's do it!!
     That's crazy <Close><End of Block>
 <TextBlock 32 w:36 h:3>
@@ -181,9 +181,9 @@ beautiful and a good cook...<New>
 you and me, but she's
 well endowed too!<Delay 20> 
 Heh heh heh.)"<Close><End of Block>
-<TextBlock 37 w:42 h:4>
+<TextBlock 37 w:44 h:4>
 Dan
-"So come on! Go for it!
+"So c'mon! Go for it!"
     Let's do it!!
     That's crazy <Close><End of Block>
 <TextBlock 38 w:48 h:4>
