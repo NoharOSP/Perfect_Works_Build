@@ -57,15 +57,15 @@ Like being dead."<Close><End of Block>
 Emeralda
 "...<Delay 30>An odd odor."<Close><End of Block>
 <TextBlock 17 w:56 h:3>
- The power block is in use. 
- The No. 1 elevator is not  
-        operational.      <Close><End of Block>
+ The Power Block is active. 
+       No.1 Elevator
+      not operational.      <Close><End of Block>
 <TextBlock 18 w:47 h:2>
-   No.1 elevator block
- (<D>Directional Power)  <Close><End of Block>
+  No.1 Elevator Block
+  (<D> To Power Block)  <Close><End of Block>
 <TextBlock 19 w:47 h:2>
-  No. 2 elevator block
- (<U>Directional Energy) <Close><End of Block>
+  No.2 Elevator Block
+  (<U> To Energy Block) <Close><End of Block>
 <TextBlock 20 w:46 h:4>
 Bart
 "Oh, they probably have

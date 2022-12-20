@@ -24,14 +24,15 @@ Bart
 "Hey!<Delay 10> Don't even think
 about it!"<Close><End of Block>
 <TextBlock 9 w:36 h:5>
-<Opcode 1 255>'My room.<Delay 10> No mercy
+<Opcode 1 255>My room.<Delay 10> No mercy
 to trespassers!!
-            -Bart'<Delay 10>
+            -Bart<Delay 10>
     Enter anyway
     Give it up<Close><End of Block>
-<TextBlock 10 w:44 h:2>
+<TextBlock 10 w:38 h:3>
 Fei
-(Why must I fight...?)<Close><End of Block>
+"(Why do I have
+to fight...?)"<Close><End of Block>
 <TextBlock 11 w:38 h:2>
 The impact just now
 closed the way...<Close><End of Block>
