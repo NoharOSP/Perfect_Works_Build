@@ -31,6 +31,10 @@ I'm glad you're here."<Close><End of Block>
 Medena
 "Well,<Delay 10> I'm going
 shopping, so make
-yourself comfortable."<Close><End of Block>
+yourself comfortable.<New>
+Your father left a
+homecoming gift
+somewhere around 
+here by the way."<Close><End of Block>
 <TextBlock 7 w:0 h:1>
 <Close><End of Block>
