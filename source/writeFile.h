@@ -26,6 +26,7 @@ public:
 	void doMonsters();
 	void doEncounters();
 	void preprocess(std::string fileName);
+	void goHome();
 	bool process(CFile *romFile, CFile *statsFile, UINT nPosition);
 	bool ReadSector(CFile *romFile, byte *pBuffer, DWORD dwStart, UINT NumOfSectors);
 	bool WriteSector(CFile *romFile, byte *pBuffer, DWORD dwStart, UINT NumOfSectors);
@@ -35,5 +36,11 @@ public:
 	std::string discName;
 	int discNum;
 	HWND wind;
+	bool wf_itemspells;
+	bool wf_script;
+	bool wf_stats;
+	bool wf_expgold;
+	bool wf_monsters;
+	bool wf_encounters;
 };
 

@@ -9,6 +9,12 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	discName = cd;
 	discNum = num;
 	wind = hWnd;
+	wf_itemspells = itemsspells;
+	wf_script = script;
+	wf_stats = stats;
+	wf_expgold = exp_gold;
+	wf_monsters = monsters;
+	wf_encounters = encounters;
 	std::filesystem::current_path(dir);
 	if (std::filesystem::exists("\patches")) {
 		std::filesystem::current_path("\patches");
@@ -79,63 +85,120 @@ void writeFile::noItems() {
 }
 
 void writeFile::doExpGold() {
-	std::filesystem::current_path(dir);
-	std::filesystem::current_path("\patches");
-	std::filesystem::current_path("\shared_files");
-	if (std::filesystem::exists("\exp_gold")) {
-		std::filesystem::current_path("\exp_gold");
+	if (wf_script) {
+		goHome();
+		if (std::filesystem::exists("\exp_gold_script")) {
+			std::filesystem::current_path("\exp_gold_script");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'exp_gold_script'.", L"Error", MB_ICONERROR);
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
 	}
-	else {
-		MessageBox(wind, L"Could not find directory for 'exp_gold'.", L"Error", MB_ICONERROR);
+	if (wf_itemspells) {
+		goHome();
+		if (std::filesystem::exists("\exp_gold_items")) {
+			std::filesystem::current_path("\exp_gold_items");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'exp_gold_items'.", L"Error", MB_ICONERROR);
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
 	}
-	for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-		std::string fileName = entry.path().string();
-		std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-		preprocess(finalName);
+	if (wf_script && wf_itemspells) {
+		goHome();
+		if (std::filesystem::exists("\exp_gold_both")) {
+			std::filesystem::current_path("\exp_gold_both");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'exp_gold_both'.", L"Error", MB_ICONERROR);
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
 	}
 }
 
 void writeFile::doMonsters() {
-	std::filesystem::current_path(dir);
-	std::filesystem::current_path("\patches");
-	std::filesystem::current_path("\shared_files");
-	if (std::filesystem::exists("\Monsters")) {
-		std::filesystem::current_path("\Monsters");
+	if (wf_script) {
+		goHome();
+		if (std::filesystem::exists("\monsters_script")) {
+			std::filesystem::current_path("\monsters_script");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'monsters_script'.", L"Error", MB_ICONERROR);
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
 	}
-	else {
-		MessageBox(wind, L"Could not find directory for 'Monsters'.", L"Error", MB_ICONERROR);
+	if (wf_itemspells) {
+		goHome();
+		if (std::filesystem::exists("\monsters_items")) {
+			std::filesystem::current_path("\monsters_items");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'monsters_items'.", L"Error", MB_ICONERROR);
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
 	}
-	for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-		std::string fileName = entry.path().string();
-		std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-		preprocess(finalName);
+	if (wf_script && wf_itemspells) {
+		goHome();
+		if (std::filesystem::exists("\monsters_both")) {
+			std::filesystem::current_path("\monsters_both");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'monsters_both'.", L"Error", MB_ICONERROR);
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
 	}
 }
 
 void writeFile::doEncounters() {
-	std::filesystem::current_path(dir);
-	std::filesystem::current_path("\patches");
-	std::filesystem::current_path("\shared_files");
-	if (discNum == 1) {
-		if (std::filesystem::exists("\encounterone")) {
-			std::filesystem::current_path("\encounterone");
+	if (wf_script) {
+		if (discNum == 1) {
+			goHome();
+			if (std::filesystem::exists("\encounterone_script")) {
+				std::filesystem::current_path("\encounterone_script");
+			}
+			else {
+				MessageBox(wind, L"Could not find directory for 'encounterone_script'.", L"Error", MB_ICONERROR);
+			}
 		}
-		else {
-			MessageBox(wind, L"Could not find directory for 'encounterone'.", L"Error", MB_ICONERROR);
+		else if (discNum == 2) {
+			goHome();
+			if (std::filesystem::exists("\encountertwo_script")) {
+				std::filesystem::current_path("\encountertwo_script");
+			}
+			else {
+				MessageBox(wind, L"Could not find directory for 'encountertwo_script'.", L"Error", MB_ICONERROR);
+			}
 		}
-	}
-	else if (discNum == 2) {
-		if (std::filesystem::exists("\encountertwo")) {
-			std::filesystem::current_path("\encountertwo");
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
 		}
-		else {
-			MessageBox(wind, L"Could not find directory for 'encountertwo'.", L"Error", MB_ICONERROR);
-		}
-	}
-	for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-		std::string fileName = entry.path().string();
-		std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-		preprocess(finalName);
 	}
 }
 
@@ -241,4 +304,17 @@ void writeFile::preprocess(std::string fileName) {
 	}
 	romFile.Close();
 	statsFile.Close();
+}
+
+void writeFile::goHome() {
+	std::filesystem::current_path(dir);
+	if (std::filesystem::exists("\patches")) {
+		std::filesystem::current_path("\patches");
+		if (std::filesystem::exists("\shared_files")) {
+			std::filesystem::current_path("\shared_files");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'shared_files'.", L"Error", MB_ICONERROR);
+		}
+	}
 }
