@@ -119,7 +119,7 @@ Got it!<Close><End of Block>
 <TextBlock 24 w:38 h:3>
 Elly
 "I want to see the
-gate's true shape."<Close><End of Block>
+Gate's true shape."<Close><End of Block>
 <TextBlock 25 w:36 h:4>
 Elly
 "Let me come too?"
@@ -152,9 +152,9 @@ Rico
     Well...<Close><End of Block>
 <TextBlock 30 w:36 h:4>
 Billy
-"The Church of the
-Ethos was controlling
-two of the three gates!"<Close><End of Block>
+"The Church was
+managing two of
+the three Gates!"<Close><End of Block>
 <TextBlock 31 w:34 h:4>
 "Will you take me
 along too?"
@@ -163,7 +163,7 @@ along too?"
 <TextBlock 32 w:50 h:3>
 Maria
 "Soon we'll be certain
-of the gate's true form."<Close><End of Block>
+of the Gate's true form."<Close><End of Block>
 <TextBlock 33 w:48 h:4>
 Maria
 "Do you want to change?"
@@ -806,7 +806,7 @@ Sigurd
 info from the capital."<Close><End of Block>
 <TextBlock 149 w:54 h:4>
 Citan
-"A gate!<New>
+"A Gate!<New>
 Of course I would like to
 actually see it...<Delay 30>but this
 time I will pass.<New>
