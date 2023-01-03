@@ -1,11 +1,10 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.1.4 here: 
+Download version 0.1.5 here:
 
-- Mega: https://mega.nz/file/Gbw21KhJ#zzOR5K74gXH7ETsXmMvNiU7Mc1OPA-bPfRk8x5Y6ZSs
-- Google Drive: https://drive.google.com/file/d/1v6bjQZDpx5v7pJm8o4ped8QjuNxP8vBE/view?usp=share_link
-
+- Mega: https://mega.nz/file/jao1XILS#CQe4_4JBrzzztb6GUNMgLystvc8GM7lNPuZYJ0roddY
+- Google Drive: https://drive.google.com/file/d/1a3JIEe3szTkPE5croBS3Pxv1rto3xt2o/view?usp=share_link
 
 ## Completion stats:
 
@@ -27,6 +26,19 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 The project is also largely incompatible with both Undub and Xenogears 2.0.
 
 ## Version history:
+
+### Version 0.1.5:
+
+01/02/2023
+
+- Aerods fuel is now shown as 800 when both script and items patches are applied.
+- Cain's speech glich has been fixed.
+- Lil' Kobold is now Li'l Kobold.
+- Lil'Allemange is now Li'l Ahriman.
+- Medena now provides an alert about the Psycho Rod.
+- Patcher issue with overriding patches has been fixed.
+- Fixes to script files from Lahan to Kislev.
+- Psycho Rod description now indicates silence effect.
 
 ### Version 0.1.4:
 
@@ -86,6 +98,11 @@ The project is also largely incompatible with both Undub and Xenogears 2.0.
 ## Archive:
 
 ### Builds:
+
+### Version 0.1.4:
+
+- Mega: https://mega.nz/file/Gbw21KhJ#zzOR5K74gXH7ETsXmMvNiU7Mc1OPA-bPfRk8x5Y6ZSs
+- Google Drive: https://drive.google.com/file/d/1v6bjQZDpx5v7pJm8o4ped8QjuNxP8vBE/view?usp=share_link
 
 ### Version 0.1.3:
 
