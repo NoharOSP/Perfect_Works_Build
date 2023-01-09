@@ -47,15 +47,15 @@ smaller pattern.<Close><End of Block>
 I can't believe that
 the Lambs have a ship
 equipped with a
-Gatekeeper. <Close><End of Block>
+Gatekeeper.<Close><End of Block>
 <TextBlock 12 w:50 h:4>
 Ramsus
-"It probably is Kislev's.
-The last purge was not 
-complete."<Close><End of Block>
-<TextBlock 13 w:26 h:2>
+"It is most likely
+Kislev's. The last purge
+was not complete."<Close><End of Block>
+<TextBlock 13 w:20 h:2>
 Ramsus
-"Damn you..."<Close><End of Block>
+"You..."<Close><End of Block>
 <TextBlock 14 w:46 h:2>
 Grahf
 "Shouldn't you pursue?"<Close><End of Block>
@@ -78,7 +78,7 @@ attacking the Kislev ship."<Close><End of Block>
 Myyah
 "We can't, Commander!
 We don't have orders 
-from the capital yet.<New>
+from the Capital yet.<New>
 If we move from here..."<Close><End of Block>
 <TextBlock 19 w:36 h:4>
 Ramsus
@@ -87,18 +87,19 @@ I won't allow them
 to escape!"<Close><End of Block>
 <TextBlock 20 w:50 h:4>
 We will take the boundary
-between gates 1 and 2,
+between Gates 1 and 2,
 it's the shortest way to
 Aquvy.<Close><End of Block>
 <TextBlock 21 w:14 h:2>
 Ramsus
 "Fine."<Close><End of Block>
 <TextBlock 22 w:44 h:4>
-Message from Cherubina.<New>
-Dominia is withdrawing
-in Haishao. She will
-pursue the aerial
-battleship.<Close><End of Block>
+Message from
+Cherubina:<New>
+'Dominia on board the
+Haishao. We will
+pursue the stolen
+aerial battleship'.<Close><End of Block>
 <TextBlock 23 w:40 h:4>
 Dimensional 
 vibrations, level 8!

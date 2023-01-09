@@ -292,7 +292,7 @@ Maison
 "Y-Young master!
 The Gungnir missiles...<New>
 You need permission from
-more than a half of the
+more than half of the
 crew members to<-->"<Opcode 2 120><Close><End of Block>
 <TextBlock 61 w:36 h:3>
 Maison

@@ -16,13 +16,14 @@ Hammer
 "Muahahah! Hey bro, I
 went ahead and opened up
 the locks for you.<New>
-What? The Gear? Nah, don't
-worry about the details.
-I'm the information man!<New>
+What? This Gear? Nah,
+don't worry about the 
+details. I'm the
+information man!<New>
 There's nothing outta my
 reach.<New>
 But hey, there aren't
-any enemies though.
+any enemies.
 Something's suspicious.<New>
 Oh yeah, you can
 change your party and
@@ -31,7 +32,7 @@ Need anything?"
     Party change
     Shop
     Nothing<Close><End of Block>
-<TextBlock 4 w:44 h:3>
+<TextBlock 4 w:46 h:3>
 Hammer
-"Go get'em. I'll catch
+"Go get 'em. I'll catch
 up with you later."<Close><Close><End of Block>

@@ -19,13 +19,13 @@ Fei
 the Gear..."<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Fei
-"...<Delay 20>Doc. I don't know how
-to say this but...I've got
-a bad feeling."<Close><End of Block>
+"...<Delay 20>Doc, I don't know how
+to say this, but...
+I've got a bad feeling."<Close><End of Block>
 <TextBlock 8 w:44 h:3>
 Fei
-"It's not that.
-It's not like...<New>
+"No, no...
+it's not like that...<New>
 It's like this feeling
 of uneasiness that
 I've had before..."<Close><End of Block>
@@ -33,44 +33,44 @@ I've had before..."<Close><End of Block>
 Fei
 "And I feel like we're
 being watched..."<Close><End of Block>
-<TextBlock 10 w:46 h:4>
+<TextBlock 10 w:46 h:3>
 Citan
-"Are you thinking of
-that man in black?<New>
-Thinking about him will
-not get you anywhere.
-First of all, it is not
-like you..."<Close><End of Block>
+"Is it about that
+man in black?<New>
+It is no use worrying
+about him. Just be your
+usual self..."<Close><End of Block>
 <TextBlock 11 w:48 h:3>
 Citan
 "You too!?<New>
 Well, to tell the truth,
 I am getting a terrible
 feeling of deja vu..."<Close><End of Block>
-<TextBlock 12 w:46 h:4>
+<TextBlock 12 w:44 h:4>
 Citan
 "The shaking has
-subsided. We should be
-in good shape for now."<Close><End of Block>
+subsided. Everything
+is fine for now."<Close><End of Block>
 <TextBlock 13 w:10 h:3>
 Citan
 "!!
 Fei!"<Close><End of Block>
 <TextBlock 14 w:30 h:3>
 Citan
-"If it is them,
-they are okay.<New>
-Nevermind that,
-Hammer, go to
-that trigger!"<Close><End of Block>
-<TextBlock 15 w:40 h:3>
+"They will be
+fine.<New>
+Now, Hammer,
+go to that
+trigger!"<Close><End of Block>
+<TextBlock 15 w:36 h:4>
 Citan
-"You must fire.
-Look, it is coming."<Close><End of Block>
+"You must fire!
+Look out, he is
+coming."<Close><End of Block>
 <TextBlock 16 w:46 h:4>
 Citan
 "Hammer! Calm down and
-concentrate. It is
+concentrate. He is
 heading straight at us.<New>
 All you have to do is
 aim well, pull the
@@ -89,17 +89,17 @@ Rico
 <TextBlock 20 w:24 h:2>
 <Opcode 1 255>Rico
 "Shut up!!!"<Delay 120><Close><End of Block>
-<TextBlock 21 w:42 h:4>
+<TextBlock 21 w:40 h:4>
 Elly
-"That person...<Delay 30>wasn't
-aiming for me.
-Why...<Delay 10>?"<Close><End of Block>
+"That person...<Delay 30>
+did not target me.
+Why not...<Delay 10>?"<Close><End of Block>
 <TextBlock 22 w:10 h:2>
 Elly
 "..."<Close><End of Block>
 <TextBlock 23 w:30 h:2>
 Elly
-"Th, that's..."<Close><End of Block>
+"Th-That's..."<Close><End of Block>
 <TextBlock 24 w:44 h:3>
 Elly
 "Fei,
@@ -113,13 +113,14 @@ Hammer
 please don't be mad.
 It was just a joke.<New>
 Master Rico, it's because
-of you I am what I am.
-C'mon..."<Close><End of Block>
-<TextBlock 27 w:50 h:4>
+of you I am where I am.
+C'mon<-->"<Close><End of Block>
+<TextBlock 27 w:50 h:3>
 Hammer
-"Geeze!<Delay 20> Why am I the one
-getting yelled at when it
-was me who took'm out..."<Close><End of Block>
+"Jeez!<New>
+Why am I the one getting
+yelled at when it was me
+who took 'im out...?"<Close><End of Block>
 <TextBlock 28 w:46 h:4>
 Hammer
 "Bro, what're we gonna
@@ -127,7 +128,7 @@ do now?
 Go to Av as planned?"<Close><End of Block>
 <TextBlock 29 w:26 h:2>
 Hammer
-"M, Master!?"<Close><End of Block>
+"M-Master!?"<Close><End of Block>
 <TextBlock 30 w:28 h:2>
 Hammer
 "Even Elly..."<Close><End of Block>
@@ -135,30 +136,30 @@ Hammer
 Hammer
 "Aaaaaaah!
 Looook ooouut!!<New>
-Master Citan!! It's alright
-to throw the black creep,
-but bro and Master Rico as
-well...?"<Close><End of Block>
-<TextBlock 32 w:42 h:4>
+Master Citan!! It's fine to
+ditch that creep in black,
+but if bro and Master Rico
+fall as well..."<Close><End of Block>
+<TextBlock 32 w:44 h:4>
 Hammer
 "Trigger<Delay 5>...?<Delay 5>
 You mean this?
-What do I do with..."<Close><End of Block>
+What do I do with<-->?"<Close><End of Block>
 <TextBlock 33 w:3 h:1>
 ?<Close><End of Block>
-<TextBlock 34 w:38 h:2>
+<TextBlock 34 w:34 h:2>
 Hammer
-"The<~>y're he<~>re!!"<Close><End of Block>
+"He<~>'s he<~>re!!"<Close><End of Block>
 <TextBlock 35 w:22 h:2>
 Hammer
 "Aiming..."<Close><End of Block>
 <TextBlock 36 w:30 h:2>
 Hammer
-"L, like this?"<Close><End of Block>
-<TextBlock 37 w:50 h:3>
+"L-Like this?"<Close><End of Block>
+<TextBlock 37 w:44 h:3>
 Hammer
-"Y,<Delay 15> ye,<Delay 15> ye,<Delay 25>
-aaaaaawwww yeeeaaahhh!!!"<Close><End of Block>
+"Y-<Delay 15>Ye-<Delay 15>Ye-<Delay 25>aaaaaawwww 
+yeeeaaahhh!!!"<Close><End of Block>
 <TextBlock 38 w:50 h:3>
 Hammer
 "Master, sir, did you
@@ -167,23 +168,23 @@ I just might be a genius!<Delay 10>
 ...<Delay 20>Wha?"<Close><End of Block>
 <TextBlock 39 w:44 h:3>
 Hammer
-"By the way, what's up
+"Oh yeah, what's up
 with bro and the gang?<New>
 You don't think they
 fell off?"<Close><End of Block>
-<TextBlock 40 w:44 h:3>
+<TextBlock 40 w:46 h:3>
 Hammer
 "Well, at least you
 still got me.<New>
 It should be a piece
-o'cake with me around.
+o' cake with me around.
 Right, Master, sir?"<Close><End of Block>
-<TextBlock 41 w:14 h:1>
-SMACK!!<Close><End of Block>
-<TextBlock 42 w:30 h:2>
+<TextBlock 41 w:18 h:1>
+*SMACK*!!<Close><End of Block>
+<TextBlock 42 w:30 h:3>
 Elly
-"What's wrong?"<Close>
-Fei."<Close><End of Block>
+"What's wrong,
+Fei?"<Close><End of Block>
 <TextBlock 43 w:38 h:2>
 Fei
 "Oh, it's nothing."<Close><End of Block>
@@ -192,33 +193,33 @@ Elly
 "Okay... I'm glad..."<Close><End of Block>
 <TextBlock 45 w:44 h:4>
 Elly
-"Anyway, Citan is it
+"So, Doctor, are we
 okay? We're flying in
 such a large ship. <New>
 What if Kislev or Av
-finds us..."<Close><End of Block>
+finds us...?"<Close><End of Block>
 <TextBlock 46 w:52 h:4>
 Citan
 "We are fine. I thought
-ahead and picked a course
+ahead and chose a course
 over the sea.<New>
-There are not any military
+There are no military
 units stationed out here.<New>
-Even then, this thing is
-not something that will
-go down so easily..."<Close><End of Block>
+Besides, this thing might
+seem like an easy target,
+but<-->"<Close><End of Block>
 <TextBlock 47 w:48 h:3>
 Citan
-"This cannot be right!?<Delay 10>
+"This cannot be!<Delay 10>
 Are we being attacked!?"<Close><End of Block>
 <TextBlock 48 w:22 h:2>
 Fei
 "Enemies!?"<Close><End of Block>
 <TextBlock 49 w:50 h:4>
 Citan
-"I do not know. But I did
-not think they would be
-submerged here..."<Close><End of Block>
+"I do not know. But for
+them to be submerged in a
+place like this..."<Close><End of Block>
 <TextBlock 50 w:30 h:2>
 Elly
 "Are we okay!?"<Close><End of Block>
@@ -228,53 +229,55 @@ Citan
 is no way we can avoid
 descending.<New>
 Fei, Elly, get out first.
-I will follow later."<Close><End of Block>
+I will follow after."<Close><End of Block>
 <TextBlock 52 w:16 h:2>
 Fei
-"But..."<Close><End of Block>
-<TextBlock 53 w:52 h:4>
+"But<-->"<Close><End of Block>
+<TextBlock 53 w:46 h:4>
 Citan
-"We have no time for a
-debate now, Fei!!<New>
-Do you think you have the
-skills needed to keep the
-Goliath in the air as long
-as possible!?"<Close><End of Block>
+"We have no time for
+a debate now, Fei!!<New>
+Can you handle the
+Goliath to keep it
+from crashing!?"<Close><End of Block>
 <TextBlock 54 w:10 h:2>
 Fei
 "..."<Close><End of Block>
-<TextBlock 55 w:28 h:3>
+<TextBlock 55 w:28 h:4>
 Citan
-"Then hurry up
-and get out."<Close><End of Block>
+"So you see?
+Go! Quickly,
+now!"<Close><End of Block>
 <TextBlock 56 w:26 h:2>
 Citan
 "Now then<Delay 10>...<Delay 10>"<Close><End of Block>
 <TextBlock 57 w:48 h:3>
 Citan
 "...And you too, Hammer!
-You are going too!"<Close><End of Block>
-<TextBlock 58 w:34 h:2>
+You are going, too!"<Close><End of Block>
+<TextBlock 58 w:32 h:2>
 Hammer
-"Y, yy, yessir!!"<Close><End of Block>
+"Y-Y-Yessir!!"<Close><End of Block>
 <TextBlock 59 w:42 h:3>
 Rico
-"Argh! Quit dawdling.
+"Tch. Quit dawdling.
 We're going."<Close><End of Block>
 <TextBlock 60 w:20 h:2>
 Hammer
 "Yessir!!"<Close><End of Block>
 <TextBlock 61 w:32 h:3>
 Citan
-"Now...where did
-they..."<Close><End of Block>
+"Now...<Delay 10>
+where on earth
+did they...?"<Close><End of Block>
 <TextBlock 62 w:26 h:3>
 Citan
 "!!<Delay 20>
 That ship<Delay 10>...<Delay 10>"<Close><End of Block>
-<TextBlock 63 w:44 h:3>
+<TextBlock 63 w:44 h:4>
 Citan
-"Sigurd<Delay 10>...<Delay 10><New>
-I think you need to
-rethink your method of
-disciplining<Delay 10>...<Delay 10>"<Close><Close><End of Block>
+"Sigurd<Delay 10>...<New>
+You should probably
+think on your teaching
+methods a little
+more<Delay 10>...<Delay 10>"<Close><Close><End of Block>

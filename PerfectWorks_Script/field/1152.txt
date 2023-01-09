@@ -141,18 +141,17 @@ Then<Delay 5>...<Close><End of Block>
 <TextBlock 25 w:38 h:1>
 Let us set down
 the order.<Close><End of Block>
-<TextBlock 26 w:42 h:4>
-Disobedience<Delay 5>...<Delay 5><New>
+<TextBlock 26 w:46 h:4>
+Disobedience<Delay 5>...<New>
 Ramsus' duty is meant
 to be the excavation of
-the 'Vessels of Anima'
+the Vessels of Anima
 sleeping in Ignas<New>
 and supervision of
-the Lambs. But this<Delay 5>...<Delay 5>
-...<Delay 5><Close><End of Block>
-<TextBlock 27 w:40 h:3>
-The Vessels can 
-be collected at 
+the Lambs. But this<Delay 5>...<Close><End of Block>
+<TextBlock 27 w:40 h:4>
+The Vessels can
+be collected at
 any time.<New>
 Moreover, it is
 confirmed that
@@ -160,14 +159,13 @@ confirmed that
 the stolen craft.<New>
 That is likely why
 Ramsus gave chase?<Close><End of Block>
-<TextBlock 28 w:42 h:2>
-<Delay 5>...<Delay 5>
-Because of his
-trauma?.<Close><End of Block>
+<TextBlock 28 w:34 h:2>
+<Delay 5>...<Delay 5>Because of
+his trauma?<Close><End of Block>
 <TextBlock 29 w:36 h:4>
-More precisely,
-<Delay 5>in this case,<Delay 5><New>
-the negative trauma
+More precisely,<Delay 5> in
+this case, the
+negative trauma
 of his neglect.<Close><End of Block>
 <TextBlock 30 w:40 h:4>
 According to the
@@ -176,167 +174,160 @@ memory cubes...<New>
 there are several
 subjects surrounding
 'him'<New>
-that have the 
-potential to become 
-'Animus'.<Close><End of Block>
-<TextBlock 31 w:32 h:3>
-M Project subjects,
-'Spharati', are
-they not?<Close><End of Block>
+that have the
+potential to
+become Animus.<Close><End of Block>
+<TextBlock 31 w:28 h:4>
+M Project
+subjects,
+'Spharati',
+are they not?<Close><End of Block>
 <TextBlock 32 w:8 h:1>
 Yes.<Close><End of Block>
 <TextBlock 33 w:30 h:1>
 A coincidence?<Close><End of Block>
 <TextBlock 34 w:48 h:3>
-Nay, there are
-too many.<Delay 5><New>
-They gravitated 
-towards<Delay 5> 'him'<Delay 5> ...<Close><End of Block>
-<TextBlock 35 w:36 h:4>
-Unexpectedly,<New>
-the circumstances 
-have developed 
-similarly to 500 
-years ago.<Close><End of Block>
+Nay, there are too many.<Delay 5>
+They gravitated towards<Delay 5>
+'him'<Delay 5>...<Close><End of Block>
+<TextBlock 35 w:38 h:4>
+Unexpectedly, the
+circumstances have
+developed similarly
+to 500 years ago.<Close><End of Block>
 <TextBlock 36 w:52 h:3>
-It is not impossible 
-that man manipulated events
-to this end.<Close><End of Block>
-<TextBlock 37 w:36 h:4>
+It is not impossible that
+that man manipulated
+events to this end.<Close><End of Block>
+<TextBlock 37 w:36 h:3>
 The descent point
-is Aquvy<Delay 5>...<Delay 5><New>
-Near the
-Tamuz.<Close><End of Block>
+is Aquvy<Delay 5>...<Delay 5>
+Near the Tamuz.<Close><End of Block>
 <TextBlock 38 w:52 h:3>
-Regarding Aquvy,
-Karellen is en route,
-I believe.<Close><End of Block>
-<TextBlock 39 w:18 h:3>
+Regarding Aquvy, Karellen
+is en route, I believe.<Close><End of Block>
+<TextBlock 39 w:22 h:3>
 Karellen?<Delay 10>
 Personally?<Delay 10>
 For what?<Close><End of Block>
 <TextBlock 40 w:52 h:4>
 It seems he has found it.<Delay 10>
-The legacy of Zeboim,<New>
-lost for 4000 years,
-that he kept searching for.<Close><End of Block>
-<TextBlock 41 w:44 h:3>
-The legacy<Delay 5>...<Delay 5><New>
-Meaning, the 
-technology he 
+The legacy of Zeboim, lost
+for 4000 years, that he
+kept searching for.<Close><End of Block>
+<TextBlock 41 w:36 h:4>
+The legacy<Delay 5>...<Delay 5>
+Meaning, the
+technology he
 spoke of before?<Close><End of Block>
-<TextBlock 42 w:8 h:1>
+<TextBlock 42 w:16 h:1>
 Just so.<Close><End of Block>
 <TextBlock 43 w:52 h:4>
-Molecular engineering...<Delay 5><New>
-...<Delay 5>The land of
-nanotechnology's creation,<New>
-the metropolis of the 
-Zeboim civilization sleeps
-beneath the sea floor of
-Aquvy.<New>
+Molecular engineering...<New>
+The land of nano-
+technology's creation,
+the metropolis of the
+Zeboim civilization,<New>
+sleeps beneath the
+sea floor of Aquvy.<New>
 Though its existence was
 hidden from us by the
 Church of the Ethos for
-over 19 years.<Close><End of Block>
+over nineteen years.<Close><End of Block>
 <TextBlock 44 w:38 h:2>
 Is that acceptable,
 Cain?<Close><End of Block>
-<TextBlock 45 w:52 h:2>
+<TextBlock 45 w:46 h:2>
 Emperor Cain
-"Yes, for the time being."<Close><End of Block>
+"Yes...<Delay 10>
+for the time being."<Close><End of Block>
 <TextBlock 46 w:46 h:4>
-19 years<Delay 5>...<Delay 5><New>
-It coincides exactly
-with the year that 
-the earth's surface
-shifted<Delay 5>...<Close><End of Block>
+Nineteen years<Delay 5>...<Delay 5><New>
+Coinciding exactly
+with the year of the 
+major seismic shift
+in Aquvy<Delay 5>...<Close><End of Block>
 <TextBlock 47 w:14 h:1>
-I see.<Close><End of Block>
-<TextBlock 48 w:48 h:4>
+Indeed.<Close><End of Block>
+<TextBlock 48 w:44 h:4>
 However, I fail
 to see the logic.<New>
 I do not think that
-technology is so
-essential<Delay 5>...<Close><End of Block>
+that technology is
+so essential<Delay 5>...<Close><End of Block>
 <TextBlock 49 w:46 h:4>
-Karellen is a Lamb,
-after all.<New>
-Consider what he would
-do if allowed too much 
-freedom.<Close><End of Block>
-<TextBlock 50 w:40 h:3>
-For that matter,<New>
-there are times
-when we do not 
-understand what 
-he is thinking.<Close><End of Block>
+Karellen is still a
+Lamb.<Delay 10> Consider what he
+would do if allowed too
+much freedom.<Close><End of Block>
+<TextBlock 50 w:44 h:3>
+For that matter, there
+are times when we do
+not understand what he
+is thinking.<Close><End of Block>
 <TextBlock 51 w:48 h:4>
 Emperor Cain
 "Enough.<Delay 10> I will take
 responsibility for that
 concern.<New>
 On another matter<Delay 5>...<Delay 5>
-The purge.<New>
+The purge.<Delay 10>
 Did you<Delay 5>...<Delay 5>intend to
-eliminate him?"<Close><End of Block>
+eliminate 'him'?"<Close><End of Block>
 <TextBlock 52 w:20 h:3>
-What?<Delay 5> It 
-was pure 
+What?<Delay 5> It
+was pure
 accident.<Close><End of Block>
-<TextBlock 53 w:36 h:2>
+<TextBlock 53 w:36 h:4>
 The location was
-Ignas.<New>
-It was a 
-matter of 
+Ignas.<Delay 10> It was a
+matter of
 probability.<Close><End of Block>
 <TextBlock 54 w:42 h:4>
 Besides, we would
-not think to go to<New>
-those lengths to 
+not think to go to
+those lengths to
 eliminate him.<Close><End of Block>
-<TextBlock 55 w:32 h:4>
+<TextBlock 55 w:34 h:4>
 The purge itself
-ended in failure.<New>
+ended in failure.
 This will not
 happen again.<Close><End of Block>
 <TextBlock 56 w:38 h:3>
-If the 'Animus' are
+If the Animus are
 gathering, all
 the more reason.<Close><End of Block>
 <TextBlock 57 w:8 h:1>
 Yes.<Close><End of Block>
-<TextBlock 58 w:40 h:4>
-Cain. Why are you 
+<TextBlock 58 w:36 h:4>
+Cain, why are you
 so focused upon
 this?<New>
-Upon 'he', who
+Upon 'he' who
 offers us no
 advantage<Delay 5>...?<Close><End of Block>
-<TextBlock 59 w:32 h:4>
-It is not 
-possible to 
-make medicine<New>
+<TextBlock 59 w:36 h:4>
+It is not possible
+to make medicine
 from that which
 is poison.<Close><End of Block>
-<TextBlock 60 w:46 h:3>
-'Ahnenerbe'<Delay 5>...<Delay 5><New>
-You cannot still 
-believe in that, 
+<TextBlock 60 w:36 h:4>
+'Ahnenerbe'<Delay 5>...<Delay 5>
+You cannot still
+believe in that,
 can you?<Close><End of Block>
 <TextBlock 61 w:34 h:3>
 Such things are
 illusions.<Delay 10> Not
 even ideals.<Close><End of Block>
 <TextBlock 62 w:46 h:3>
-That way leads<Delay 5>...<Delay 5>
-to this form. As
-you can see.<Close><End of Block>
+That way leads to<Delay 5>...<Delay 5>
+this form. As you can
+see.<Close><End of Block>
 <TextBlock 63 w:38 h:4>
-Or perhaps<Delay 5>...<Delay 5><New>
-Is all this<Delay 5>
-because of your 
-'emotions',<New>
+Or perhaps<Delay 5>...<Delay 5>
+Is this all because
+of your 'emotions',<New>
 long forgotten on
 the far side of
 oblivion?<Close><End of Block>
@@ -344,8 +335,8 @@ oblivion?<Close><End of Block>
 Emperor Cain
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 65 w:28 h:2>
-Cain.<Delay 30>
-We are 'god'.<Close><End of Block>
+We are<Delay 30> 'God',
+Cain.<Close><End of Block>
 <TextBlock 66 w:46 h:4>
 Better if they 
 simply fulfilled 
