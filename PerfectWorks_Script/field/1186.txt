@@ -943,37 +943,37 @@ apologizing to us for?"<Close><End of Block>
 <TextBlock 156 w:54 h:4>
 Bart
 "...<Delay 10>
-I suppose I had better stop
-beating around the bush...<New>
+I suppose I had best not
+beat around the bush...<New>
 I'm not usually this frank
-or apologetic but, well..."<Close><End of Block>
+or apologetic, but..."<Close><End of Block>
 <TextBlock 157 w:50 h:4>
 Citan
 "What he is trying to
 say is this<Delay 5>...<New>
 The people who shot us
-down, and the people who
-saved us, are one in the
-same<Delay 5>...<Delay 5>this ship's crew!"<Close><End of Block>
-<TextBlock 158 w:46 h:3>
+down and the people who
+saved us are one and the
+same:<Delay 10> this ship's crew!"<Close><End of Block>
+<TextBlock 158 w:44 h:3>
 Rico
 "...?<Delay 10><Delay 10>
 You don't mean...<New>
-That Goliath which we
-were riding in was shot
+That Goliath we were
+on board was shot
 down by...?"<Close><End of Block>
 <TextBlock 159 w:52 h:4>
 Bart
 "Yes, you're a bit slow
 there...<Delay 5>errh,<Delay 5> big friend!<New>
 Actually our Yggdrasil II
-did a good job in shooting
+did a good job shooting
 down that monster of an
 airplane!!<Delay 5> It was great!"<Close><End of Block>
 <TextBlock 160 w:46 h:3>
 "You should've seen it!<Delay 10>
-Wow!<Delay 10> My 'Bart Bombs'
-sure were awesome...!!"<Close><End of Block>
+Wow!<Delay 10> My Bart Bombs sure
+were awesome...!!"<Close><End of Block>
 <TextBlock 161 w:32 h:4>
 Rico
 "AAAARRRGGHHH!!<Delay 10>

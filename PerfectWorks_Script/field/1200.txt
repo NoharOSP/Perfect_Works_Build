@@ -6,7 +6,7 @@ Ouch<Delay 5>...<Close><End of Block>
 Bart
 "I guess the Bart Bombs
 weren't such a good idea,
-huh...<New>
+huh...?<New>
 We were able to save you
 and your friends, Citan<Delay 5>...<Delay 10>
 But I wonder what happened
@@ -15,13 +15,13 @@ to Fei and Elly<Delay 5>..."<Close><End of Block>
 Bart
 "I'm sure<Delay 5>...<Delay 15>they're alive
 somewhere...<Delay 15>
-And, once again..."<Close><End of Block>
+And once again we'll<Delay 15>..."<Close><End of Block>
 <TextBlock 5 w:48 h:3>
 Bart
 "Man!<Delay 10><New>
 The sea breeze stings my
 eye<Delay 5>...<Delay 10> So this is what
-they call the sea<Delay 5>..."<Close><End of Block>
+the ocean's like<Delay 5>..."<Close><End of Block>
 <TextBlock 6 w:48 h:3>
 Bart
 "First of all, I have to

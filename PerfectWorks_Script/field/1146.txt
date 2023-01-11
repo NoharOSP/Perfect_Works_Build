@@ -149,7 +149,7 @@ What do I do with<-->?"<Close><End of Block>
 ?<Close><End of Block>
 <TextBlock 34 w:34 h:2>
 Hammer
-"He<~>'s he<~>re!!"<Close><End of Block>
+"He~'s he~re!!"<Close><End of Block>
 <TextBlock 35 w:22 h:2>
 Hammer
 "Aiming..."<Close><End of Block>

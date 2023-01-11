@@ -218,10 +218,10 @@ There's nothing I can
 do for you there.<Close><End of Block>
 <TextBlock 19 w:32 h:2>
 Bart
-"Y, you know..."<Close><End of Block>
-<TextBlock 20 w:12 h:2>
+"So, listen..."<Close><End of Block>
+<TextBlock 20 w:16 h:2>
 Bart
-"Hey?"<Close><End of Block>
+"Hello?"<Close><End of Block>
 <TextBlock 21 w:6 h:1>
 ...<Opcode 2 30><Close><End of Block>
 <TextBlock 22 w:54 h:3>
@@ -233,41 +233,43 @@ Rico
 "...<New>
 What's your problem!?
 I thought I dealt with
-you a while ago.<New>
+you already.<New>
 I'm not the type to
 dwell on the past."<Close><End of Block>
 <TextBlock 24 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 25 w:50 h:4>
 Rico
-"I'm more concerned about
-those two Gears there...<Delay 10>
-Who the hell are you?<New>
-I'm amazed you tune them
+"Anyway, I'm more
+interested in those
+two Gears there...<New>
+Who the hell are you
+guys? You tune them
 to run so well!<New>
 I thought Fei and I were
 the only ones who could
-work Gears that well..."<Close><End of Block>
-<TextBlock 26 w:46 h:4>
+run Gears like that..."<Close><End of Block>
+<TextBlock 26 w:48 h:4>
 Bart
-"Wow you really are the
+"Wow, you really are the
 Battling Champ... <Delay 5>Oops,<Delay 5>
-I mean ex-Champ...<New>
-I'm amazed how you can
+I mean ex-Champ...?<New>
+I'm amazed that you can
 tell how good a Gear is
 just by looking at it."<Close><End of Block>
 <TextBlock 27 w:54 h:4>
 Rico
-"I guess you can't learn
-all about the world inside
-a dark prison.<New>
-Really interesting.<Delay 10>
-I was gonna move on but
-now I've changed my mind...<Delay 10>
-Let me join you,<Delay 5> boss."<Close><End of Block>
-<TextBlock 28 w:50 h:2>
+"Even so, I guess you can't
+learn all about the world
+from inside a dark prison.<New>
+Really interesting.<Delay 10> I was
+gonna move on but now I've
+changed my mind...<Delay 10> Let me
+join you,<Delay 5> pirate boss."<Close><End of Block>
+<TextBlock 28 w:50 h:3>
 Bart
-"I guess it's alright..."<Close><End of Block>
+"Ah, I guess that'd be
+alright..."<Close><End of Block>
 <TextBlock 29 w:46 h:2>
 I thought it was about
 time for you to come...<Close><End of Block>
