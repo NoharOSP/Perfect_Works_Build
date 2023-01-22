@@ -1,10 +1,11 @@
 <TextBlock 1 w:34 h:3>
 Dominia
-"Cease your naive
-utterances!"<Close><End of Block>
-<TextBlock 2 w:52 h:2>
+"Still you speak
+such nonsense!"<Close><End of Block>
+<TextBlock 2 w:50 h:3>
 Elly
-"I've said nothing wrong!"<Close><End of Block>
+"I'm not saying anything
+that isn't true!"<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Dominia
 "I have no intention of
@@ -12,7 +13,7 @@ discussing this matter
 further with you!<New>
 Your traitorous actions
 are already apparent!
-I will beat you down
+I will cut you down
 right here!!"<Close><End of Block>
 <TextBlock 4 w:32 h:1>
 Stop it at once.<Close><End of Block>
@@ -41,34 +42,40 @@ She had no choice but to
 defend herself after you
 took it upon yourself to
 attack without permission.<New>
-Above all, you were meant
-to be under Cherubina's
-command. Were you obeying
-Cherubina's orders?"<Close><End of Block>
+Most importantly, at that
+time you were meant to be
+under Cherubina's command.<New>
+Did you follow her
+instructions during
+this incident?"<Close><End of Block>
 <TextBlock 8 w:14 h:2>
 Dominia
 "..."<Close><End of Block>
 <TextBlock 9 w:52 h:4>
 Myyah
-"You are not to prosecute
-any soldier for treason
-without proper authority.<New>
-Even if you both are
-Elements.<Delay 10> Further<Delay 5>...<Delay 5><New>
-Isn't your attitude toward
-the lieutenant, nothing
-more than your own
-personal prejudice<Delay 5>...<Delay 5><New>
-Or am I mistaken?"<Close><End of Block>
+"Without the approval of
+your mission commander,<New>
+prosecution of any soldier
+as a traitor is not
+permitted.<New>
+The same applies even if
+you are an Element.<New>
+Further<Delay 5>...isn't your atti-
+tude toward the lieutenant
+nothing more than 'your
+own personal prejudice'?<New>
+...Or am I mistaken?"<Close><End of Block>
 <TextBlock 10 w:34 h:3>
 Dominia
 "What!?
-I would never..."<Close><End of Block>
+I would never<-->"<Close><End of Block>
 <TextBlock 11 w:52 h:4>
 Myyah
-"Thus far, we still cannot
-determine whether or not
-she is guilty of treason.<New>
+"As such...<New>
+whether there has been an
+act of disloyalty on her
+part or not remains to be
+seen.<New>
 To investigate the truth
 of this matter further, I
 am placing the lieutenant
@@ -81,8 +88,8 @@ By what authority!?"<Close><End of Block>
 <TextBlock 13 w:22 h:2>
 Myyah
 "Let's go."<Close><End of Block>
-<TextBlock 14 w:40 h:4>
+<TextBlock 14 w:36 h:4>
 Dominia
 "<Delay 5>...<Delay 30>
-Wha<Delay 5>...<Delay 5>what was that?
+Wh-<Delay 5>What was that?
 Those eyes<Delay 5>...<Delay 5>"<Close><Close><End of Block>

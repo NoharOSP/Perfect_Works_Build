@@ -1,20 +1,23 @@
-<TextBlock 1 w:40 h:3>
+<TextBlock 1 w:40 h:4>
 Fei
-"I don't really like
-wandering around..."<Close><End of Block>
+"It's not like we
+were drifting for
+the fun of it..."<Close><End of Block>
 <TextBlock 2 w:6 h:1>
 ...<Opcode 2 100><Close><End of Block>
-<TextBlock 3 w:24 h:3>
+<TextBlock 3 w:30 h:3>
 Fei
-"What? 
-Who's that?"<Close><End of Block>
-<TextBlock 4 w:42 h:2>
+"What the? 
+That guy's...?"<Close><End of Block>
+<TextBlock 4 w:32 h:3>
 Fei
-"What are you doing?"<Close><End of Block>
-<TextBlock 5 w:40 h:3>
+"What the hell
+is going on?"<Close><End of Block>
+<TextBlock 5 w:40 h:4>
 Elly
 "Um...<Delay 10>
-Thanks for helping."<Close><End of Block>
+Thankyou for having
+us rescued."<Close><End of Block>
 <TextBlock 6 w:36 h:3>
 Elly
 "Why are you being
@@ -66,24 +69,30 @@ ON <Delay 30> SALE<Delay 30> NOW!!!<Close><End of Block>
 <TextBlock 21 w:30 h:2>
 Captain
 "Gahahahaha..."<Close><End of Block>
-<TextBlock 22 w:54 h:3>
+<TextBlock 22 w:54 h:4>
 Captain
-"You're the two winos who
-floated in with the Gears."<Close><End of Block>
-<TextBlock 23 w:54 h:3>
+"Ahh, you're the vagabonds
+who were drifting along
+with the Gears."<Close><End of Block>
+<TextBlock 23 w:54 h:4>
 Captain
 "Gahahahaha. Well, don't
 take it so badly.<New>
 For us, anything we pull
 out of the sea is treasure.<New>
-And you're a really big
+And you're a super
 important treasure.
-We were really careful."<Close><End of Block>
-<TextBlock 24 w:50 h:3>
+So we're being super
+courteous."<Close><End of Block>
+<TextBlock 24 w:48 h:4>
 Captain
-"What a pretty lady.
-Oh, don't make that face.<New>
-I won't bite.
+"Oh, what a pretty
+lady...<Delay 10>
+Don't look so worried.<New>
+It's not like I'm going
+to fry you up and eat
+you just because I'm
+the fisherman!<New>
 I'll return your Gears
 to you squeaky clean."<Close><End of Block>
 <TextBlock 25 w:38 h:2>
@@ -101,19 +110,21 @@ Captain
 <TextBlock 30 w:50 h:3>
 Captain
 "You're probably starved.
-I'll get you some food."<Close><End of Block>
-<TextBlock 31 w:54 h:4>
+I'll serve up a feast!"<Close><End of Block>
+<TextBlock 31 w:46 h:4>
 Captain
-"Haaaaaaaaaaaaaaaans!
-I'll welcome the guests!
-You take care of the rest."<Close><End of Block>
-<TextBlock 32 w:48 h:3>
+"Haaaaaaaaaaaaaaaans!<New>
+I'll make welcome our
+guests. I leave you in
+charge."<Close><End of Block>
+<TextBlock 32 w:48 h:4>
 Captain
-"Of course I know that. 
-How can you be so calm?"<Close><End of Block>
-<TextBlock 33 w:36 h:2>
+"Yes, yes, I know...
+But how come it's only
+you that's so calm?"<Close><End of Block>
+<TextBlock 33 w:30 h:2>
 Captain
-"Hmph, yeah yeah."<Close><End of Block>
+"Hoho, I see."<Close><End of Block>
 <TextBlock 34 w:34 h:3>
 Captain
 "Lemme go and get
@@ -371,11 +382,11 @@ ship's first mate.<Close><End of Block>
 <TextBlock 78 w:46 h:3>
 Hans
 "Yessir.
-Just don't over do it."<Close><End of Block>
-<TextBlock 79 w:50 h:3>
+Just don't overdo it."<Close><End of Block>
+<TextBlock 79 w:46 h:3>
 Hans
-"The captain and everyone
-are so irresponsible."<Close><End of Block>
+"It's the rest of you
+that are too sloppy!"<Close><End of Block>
 <TextBlock 80 w:50 h:2>
 I've held on to this seat
 for 30 years.<New>
@@ -429,33 +440,36 @@ Elly
 <TextBlock 92 w:46 h:4>
 Fei
 "Yeah.<Delay 3>
-He's still alive.
+So he's still alive!
 Alright!<New>
 We can't just sit here!
 Let's go!"<Close><End of Block>
 <TextBlock 93 w:22 h:2>
 Elly
 "Go where?"<Close><End of Block>
-<TextBlock 94 w:42 h:2>
+<TextBlock 94 w:36 h:3>
 Fei
-"To help, what else?"<Close><End of Block>
+"We have to help,
+right?"<Close><End of Block>
 <TextBlock 95 w:34 h:2>
 Elly
-"Without a Gear?"<Close><End of Block>
+"Without Gears?"<Close><End of Block>
 <TextBlock 96 w:16 h:2>
 Fei
 "Hmm..."<Close><End of Block>
-<TextBlock 97 w:36 h:2>
+<TextBlock 97 w:42 h:2>
 Captain
-"Hold yer horses."<Close><End of Block>
-<TextBlock 98 w:38 h:4>
+"Ohh, wait a moment."<Close><End of Block>
+<TextBlock 98 w:36 h:4>
 Captain
-"Dock, this is the
-bridge! How are our
+"Lower dock, this
+is the bridge!<New>
+How are our
 guests' Gears?"<Close><End of Block>
-<TextBlock 99 w:32 h:2>
+<TextBlock 99 w:32 h:3>
 The repairs will
-be done shortly.<Close><End of Block>
+be complete
+shortly.<Close><End of Block>
 <TextBlock 100 w:28 h:2>
 Captain
 "Two minutes."<Close><End of Block>
@@ -468,71 +482,76 @@ Then take them out
 through the supply 
 entrance to the deck!"<Close><End of Block>
 <TextBlock 103 w:20 h:1>
-Y, yessir!<Close><End of Block>
+Y-Yessir!<Close><End of Block>
 <TextBlock 104 w:44 h:4>
 Captain
-"Your Gears are being
-moved to the deck.
-Go get'em.<New>
+"Alright, your Gears
+are being moved to the
+deck.<Delay 10> Go get 'em.<New>
 If you need to you can
 buy equipment at the
 supply entrance shop."<Close><End of Block>
-<TextBlock 105 w:48 h:3>
+<TextBlock 105 w:44 h:3>
 Hans
-"What are you saying
+"What are you saying,
 Captain?<New>
-What if we get bombed
-while we're caught up in
-the middle of a fight?"<Close><End of Block>
+This is an important
+time for us.<New>
+What if we get caught
+up in the battle and
+bombed...?"<Close><End of Block>
 <TextBlock 106 w:46 h:4>
 Captain
-"Be quiet!!<Delay 3>
-Our guests are fighting
-to save their friends.<New>
+"Be quiet!!<Delay 3> Our guests
+said they'll fight to
+save their friends.<New>
 Don't get in the way!<Delay 5>
 If we don't help, it'll
-tarnish the men of the
-sea's good name!!"<Close><End of Block>
+tarnish the good name
+of we men of the sea!!"<Close><End of Block>
 <TextBlock 107 w:50 h:4>
 Hans
-"...<Delay 5>...<Delay 20>Yessir.
+"...<Delay 5>...<Delay 20>Understood.
 But the Tamuz itself will
-not join in any fights."<Close><End of Block>
+not join in any fights!"<Close><End of Block>
 <TextBlock 108 w:40 h:3>
 Fei
 "Thanks. That's more
 than enough."<Close><End of Block>
 <TextBlock 109 w:52 h:4>
 Captain
-"They've got guts starting
-a fight next to the Tamuz!
-It gets my blood boiling!"<Close><End of Block>
+"They've got guts to bring
+the sound of gunfire
+anywhere near the Tamuz!<New>
+It gets a man of the sea's
+blood boiling!"<Close><End of Block>
 <TextBlock 110 w:40 h:4>
 Captain
 "Hey Hans, I haven't
-fired the big gun in
+fired the cannons in
 a long time.<New>
 How about we take a
 shot or two?"<Close><End of Block>
 <TextBlock 111 w:54 h:4>
 Hans
-"Are you kidding?<New>
+"Are you joking?<New>
 Why get the Tamuz involved
-in a fight between sides
-who are neither enemies 
-nor allies?<New>
-And that big gun is nothing
-but a useless piece of junk
-you tacked onto the Tamuz
-in a drunken stupor!"<Close><End of Block>
-<TextBlock 112 w:44 h:4>
+in a fight where there are
+neither enemies nor allies?<New>
+And those cannons are
+nothing but useless pieces
+of junk you tacked onto the
+Tamuz on a whim!"<Close><End of Block>
+<TextBlock 112 w:38 h:4>
 Captain
-"You just don't
-understand the code of
-the men of the sea..."<Close><End of Block>
+"Tch.<New>
+You just don't
+understand the
+romanticism of the
+men of the sea..."<Close><End of Block>
 <TextBlock 113 w:36 h:4>
 Captain
-"It seems like a
+"It looks like a
 submarine is under
 attack."<Close><End of Block>
 <TextBlock 114 w:24 h:2>
@@ -545,13 +564,16 @@ along another strapping
 young lad."<Close><End of Block>
 <TextBlock 116 w:54 h:3>
 Bart
-"I'm Bart. Thanks for
-letting my ship dock here."<Close><End of Block>
+"The name's Bart.<New>
+You...<Delay 5>*ahem*...<Delay 5>have my most
+sincere thanks for letting
+us stop off here."<Close><End of Block>
 <TextBlock 117 w:48 h:4>
 Captain
 "Gahahahahahahaha.
-This's great. Ya come to
-ask about the ship?"<Close><End of Block>
+Very good, very good.<New>
+Just stopping off here,
+you say?"<Close><End of Block>
 <TextBlock 118 w:50 h:4>
 Bart
 "My submarine, Yggdrasil,
@@ -562,28 +584,28 @@ for a little while..."<Close><End of Block>
 <TextBlock 119 w:48 h:4>
 Margie
 "Bart!
-You're terrible.
-You went on without me!"<Close><End of Block>
+You're terrible. You
+went ahead without me!"<Close><End of Block>
 <TextBlock 120 w:50 h:4>
 Bart
-"Aw Margie?
-Just when I'm starting
+"Aw, Margie...
+Just when I was starting
 to sound like a captain."<Close><End of Block>
 <TextBlock 121 w:44 h:4>
 Margie
 "I get away from Nisan
 but then I'm stuck on
 the Yggdrasil.<New>
-I'm sick of it.
+I'm sick of it.<New>
 Captain?
 Hi, I'm Marguerite."<Close><End of Block>
 <TextBlock 122 w:52 h:4>
 Bart
-"Awww man! Look, we're
-having a man to man talk
+"Aww, man! Look, we're
+having a man-to-man talk
 here.<New>
 So Margie, why don't you
-go back to the Yggdrasil."<Close><End of Block>
+go back to the Yggdrasil?"<Close><End of Block>
 <TextBlock 123 w:36 h:4>
 Margie
 "You're terrible!
@@ -591,20 +613,20 @@ You're starting to
 sound like Sig."<Close><End of Block>
 <TextBlock 124 w:28 h:3>
 Bart
-"What!
+"What!?
 Me, like Sig?"<Close><End of Block>
 <TextBlock 125 w:48 h:4>
 Margie
 "You're always so
 thoughtless, Bart.<New>
 Fei and the others
-were floating around
+were left adrift
 because you fired on
-that craft impulsively."<Close><End of Block>
+that plane impulsively."<Close><End of Block>
 <TextBlock 126 w:52 h:3>
 Bart
-"Whoa, st, stupid,
-you're not supposed to..."<Close><End of Block>
+"Argh...<Delay 10> S-<Delay 5>Stupid...<Delay 10> You
+weren't supposed to..."<Close><End of Block>
 <TextBlock 127 w:38 h:4>
 Fei
 "Bart...?
@@ -613,23 +635,23 @@ No...you didn't..."<Close><End of Block>
 <TextBlock 128 w:36 h:2>
 Citan
 "It is true, Fei."<Close><End of Block>
-<TextBlock 129 w:44 h:4>
+<TextBlock 129 w:46 h:4>
 Bart
-"Couldn't be helped.
-How could I have known
-you were..."<Close><End of Block>
+"It... It couldn't be
+helped. How could I
+have known you were<-->?"<Close><End of Block>
 <TextBlock 130 w:40 h:4>
 Fei
-"I'm so disgusted, I
-don't have anything
-to say..."<Close><End of Block>
+"I'm so disgusted I
+don't know what to
+say..."<Close><End of Block>
 <TextBlock 131 w:38 h:2>
 Bart
 "Don't get so mad."<Close><End of Block>
-<TextBlock 132 w:44 h:4>
+<TextBlock 132 w:40 h:4>
 Bart
-"Tch. I shouldn't have
-brought you out
+"Tch. I shouldn't
+have taken her out
 of Nisan."<Close><End of Block>
 <TextBlock 133 w:28 h:3>
 Margie
@@ -650,13 +672,15 @@ Bart
 "Oh yeah.
 A man of the sea!
 I was a man of the
-desert but..."<Close><End of Block>
+desert, but..."<Close><End of Block>
 <TextBlock 137 w:40 h:4>
 Captain
 "Alright!!
-Even better.
-Yes, man of the sea!<New>
-Bart, right?
+Even better.<New>
+A man of the sea,
+a man of the sea,
+indeed!<New>
+Bart, was it?
 I'll show you to our
 famous beer hall."<Close><End of Block>
 <TextBlock 138 w:44 h:3>
@@ -666,16 +690,18 @@ this fellow?"<Close><End of Block>
 <TextBlock 139 w:38 h:2>
 Margie
 "What a weird guy."<Close><End of Block>
-<TextBlock 140 w:34 h:3>
+<TextBlock 140 w:32 h:4>
 Margie
-"Fei, are you mad
-about Bart?"<Close><End of Block>
-<TextBlock 141 w:42 h:2>
+"Fei, are you
+mad about what
+Bart did?"<Close><End of Block>
+<TextBlock 141 w:32 h:3>
 Fei
-"No that's not it<Delay 5>..."<Close><End of Block>
-<TextBlock 142 w:48 h:2>
+"No, it's not
+that<Delay 5>..."<Close><End of Block>
+<TextBlock 142 w:40 h:2>
 Margie
-"<Delay 10>...<Delay 10>...About Elly then?"<Close><End of Block>
+"<Delay 10>...Is it<Delay 10>...Elly?"<Close><End of Block>
 <TextBlock 143 w:26 h:2>
 Fei
 "<Delay 5>...<Delay 5>...Yeah."<Close><End of Block>

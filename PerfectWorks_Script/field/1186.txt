@@ -984,9 +984,9 @@ Sigurd
 "Fei, the young master
 hasn't come back yet.
 What's he up to?<New>
-Would it be too much to
-ask for you to go and
-call him for me?"<Close><End of Block>
+Sorry to be a bother,
+but could you call him
+over for me?"<Close><End of Block>
 <TextBlock 163 w:44 h:3>
 Fei
 "No problem!<New>

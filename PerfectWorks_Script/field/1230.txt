@@ -37,30 +37,34 @@ Bart
 said earlier..."<Close><End of Block>
 <TextBlock 10 w:52 h:4>
 Fei
-"It's alright. I was at
-fault too. I haven't seen
-you in such a long time.<New>
-We shouldn't be fighting."<Close><End of Block>
+"It's alright. I was just
+as bad.<New>
+We hadn't seen each other
+in ages, and the first
+thing we do is..."<Close><End of Block>
 <TextBlock 11 w:50 h:4>
 Bart
-"Sigh<Delay 5>...<Delay 5><New>
-The Yggdrasil II was
-constructed so quickly
-we had no time to ready
-its depth charges.<New>
-Also it was my fault we
-didn't have depth charges
-because I prioritized the
-Bart Missiles over...<New>
+"Heh,<Delay 5> yeah...<New>
+The Yggdrasil II was put
+together in a hurry and
+the depth charge setup
+isn't exactly great.<New>
+And, well, I guess it
+was my fault that prep
+of the depth charges
+got delayed,<New>
+because I prioritized
+equipping the Bart Bombs
+over...<Delay 10>
 ...everything else."<Close><End of Block>
-<TextBlock 12 w:32 h:2>
+<TextBlock 12 w:28 h:2>
 Fei
-"Bart Missiles?"<Close><End of Block>
+"Bart Bombs?"<Close><End of Block>
 <TextBlock 13 w:36 h:4>
 Bart
-"Oh uh...um, well,
-they're not that
-great anyway."<Close><End of Block>
+"Oh, uh...
+um, well,<Delay 20> that's
+not important."<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Fei
 "?<Delay 20>
@@ -71,10 +75,14 @@ be alive."<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 Bart
 "Of course.
-I'm Bart the immortal.
-Whaddya trying to say<Delay 5>...?<New>
-But this time I got reamed
-by a red Gear monster."<Close><End of Block>
+You'd be a fool to doubt
+Bart the Immortal!<New>
+...At least, that's what
+I'd like to say here, but
+just recently things got
+pretty hairy.<New>
+I got totally reamed by
+a red Gear monster."<Close><End of Block>
 <TextBlock 16 w:30 h:2>
 Fei
 "A red Gear..."<Close><End of Block>
@@ -84,40 +92,53 @@ Bart
 left us to sink into the
 sand.<New>
 But this next part sounds
-wild.<New>
-We sank into this huge cave
-under the sand! <Delay 10>And then
-a sand cruiser just like
-the Yggdrasil was there!<New>
-We replaced the usable
-parts and the bridge and
+wild.<Delay 10> The bottom of the
+desert is a huge, open
+cavern.<New>
+Guess what else was sunk
+there!
+A submarine that looked
+just like the Yggdrasil!<New>
+So we transplanted the
+bridge and other service-
+able parts into that and
 remodeled it."<Close><End of Block>
 <TextBlock 18 w:52 h:4>
 Citan
-"Frankly, I do not believe
-it myself. It looks
-the same but it can float.<New>
-Most likely it is the
-Yggdrasil's prototype."<Close><End of Block>
-<TextBlock 19 w:48 h:5>
+"I found it a truly
+unbelievable tale myself,<New>
+but although it certainly
+is identical in appearance
+there is now the potential
+to move through water.<New>
+Perhaps this and the
+Yggdrasil are sister
+prototypes?"<Close><End of Block>
+<TextBlock 19 w:48 h:4>
 Bart
-"People lived there
-long ago and they
-had many weapons.
-That's how we got them."<Close><End of Block>
-<TextBlock 20 w:48 h:4>
+"There are signs people
+had been living there,
+apparently long ago.<New>
+Weapons all over the
+place.<New>
+We have those people to
+thank for the remodel
+turning out so well."<Close><End of Block>
+<TextBlock 20 w:52 h:4>
 Citan
-"Bart already showed me.
-Those weapons are most
-likely...<Delay 10>from Shevat."<Close><End of Block>
-<TextBlock 21 w:46 h:3>
+"Upon inspection, it seems
+likely the weapons Bart
+showed me belonged to...<New>
+Shevat."<Close><End of Block>
+<TextBlock 21 w:46 h:4>
 Fei
 "Shevat...<Delay 5>...<Delay 5>
-you mean the aerial..."<Close><End of Block>
+The country that flies
+in the sky..."<Close><End of Block>
 <TextBlock 22 w:42 h:4>
 Bart
-"More importantly, we
-should go say 'ahoy'
+"Anyway, moving on,
+we should go say ahoy
 to the Captain."<Close><End of Block>
 <TextBlock 23 w:20 h:2>
 Fei

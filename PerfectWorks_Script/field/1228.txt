@@ -3,22 +3,22 @@ Fei
 "Hey, that's..."<Close><End of Block>
 <TextBlock 2 w:48 h:4>
 Rico
-"Oh come on, Citan.<New>
+"Whoa, Doc!<New>
 Just when I thought
-we were saved, now we're
+we were saved, we're now
 gonna be turned into
-Swiss cheese."<Close><End of Block>
-<TextBlock 3 w:48 h:3>
+Swiss cheese!?"<Close><End of Block>
+<TextBlock 3 w:38 h:3>
 Citan
-"We are not<Delay 10> particularly
-liked here,<Delay 10> are we?"<Opcode 2 40><Close><End of Block>
+"We are<Delay 10> not too
+popular,<Delay 10> are we?"<Opcode 2 40><Close><End of Block>
 <TextBlock 4 w:3 h:1>
 !<Close><End of Block>
-<TextBlock 5 w:38 h:4>
+<TextBlock 5 w:36 h:4>
 Citan
 "Fei!
 Elly!
-You are all right."<Close><End of Block>
+You are alright."<Close><End of Block>
 <TextBlock 6 w:20 h:2>
 Elly
 "Somehow."<Close><End of Block>
@@ -28,22 +28,25 @@ Rico
 tearful reunions."<Close><End of Block>
 <TextBlock 8 w:28 h:3>
 Fei
-"Yeah...
+"Agreed.
 Where's Bart?"<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 Citan
-"He is fighting below.<New>
-He said he was going to
-hold them back until the
-depth charges were ready.<New>
-But he left without the
-proper hydropreps...
-We are busy trying to
-ready the depth charges.<New>
+"He is fighting down
+below.<New>
+He said he had to do
+something until the
+depth charges were ready,<New>
+but I fear he set out
+without the proper
+hydropreps...<New>
+We have our hands
+full countering the
+torpedoes.<New>
 Your Gears should be able
 to handle underwater
 warfare to some extent.
-Go help him out."<Close><End of Block>
+Please go help him out."<Close><End of Block>
 <TextBlock 10 w:32 h:3>
 Fei
 "Got it.
@@ -56,14 +59,15 @@ where is Elly?"<Close><End of Block>
 Fei
 "The enemy<Delay 5>...<Delay 10>
 took her."<Close><End of Block>
-<TextBlock 13 w:32 h:3>
+<TextBlock 13 w:32 h:4>
 Bart
-"Heh,
-I doubt that..."<Close><End of Block>
-<TextBlock 14 w:36 h:3>
+"Pff,
+I doubt it was
+like that..."<Close><End of Block>
+<TextBlock 14 w:42 h:3>
 Fei
-"Bart, what do you
-mean!?"<Close><End of Block>
+"What's that supposed
+to mean, Bart!?"<Close><End of Block>
 <TextBlock 15 w:50 h:3>
 Citan
 "Stop it!!

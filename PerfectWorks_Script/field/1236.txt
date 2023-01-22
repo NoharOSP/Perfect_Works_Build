@@ -2,10 +2,9 @@
 Fei
 "Are you always wandering
 the seas like this?"<Close><End of Block>
-<TextBlock 2 w:38 h:4>
+<TextBlock 2 w:38 h:3>
 Fei
-"Why is the
-Church of the Ethos
+"Why is the Church
 involved...?"<Close><End of Block>
 <TextBlock 3 w:6 h:1>
 ...<Opcode 2 100><Close><End of Block>
@@ -23,28 +22,30 @@ Bart
 one after another...slam,<Delay 10>
 bam,<Delay 10> crash...<Delay 10>that's 
 how it happened..."<Close><End of Block>
-<TextBlock 8 w:50 h:3>
+<TextBlock 8 w:50 h:4>
 Captain
-"Took you a while,<Delay 5> but
-things aren't ready yet."<Close><End of Block>
+"You took your time, eh?<Delay 5>
+Alas, things aren't ready
+yet."<Close><End of Block>
 <TextBlock 9 w:36 h:4>
 Captain
 "Hey, hurry it up!
 Don't make our
 guests wait."<Close><End of Block>
-<TextBlock 10 w:48 h:3>
+<TextBlock 10 w:48 h:4>
 Captain
-"Sorry, there's no place
-to sit around here."<Close><End of Block>
+"Sorry...there's not
+really anywhere left to
+sit in this place!"<Close><End of Block>
 <TextBlock 11 w:54 h:4>
 Captain
-"But, isn't the view just
+"But isn't the view just
 splendid from here? This
-beer hall is Tamuz's pride.<New>
+beer hall is Tamuz' pride.<New>
 You probably think it's a
-wee bit peculiar having a
-beer hall right next to the
-bridge, but tis fine by me.<New>
+wee bit odd having a beer
+hall next to the bridge,
+but 'tis fine by me.<New>
 If you don't take time in
 life to enjoy a drink, you
 will be swallowed by the
@@ -55,40 +56,44 @@ beer hall, everyone here is
 too sloshed to worry!"<Close><End of Block>
 <TextBlock 12 w:50 h:4>
 Captain
-"Well, normally.
-There is that crane that
-fished you out. <New>
+"Well, normally.<Delay 10>
+Y'know that crane
+that fished you out?<New>
 We use that or the Gears
 to pull up treasure from
-the sea. We're Salvagers.<New>
-Recently however,
-there has been almost
-no treasure...<Delay 10>
-just little things.<New>
-Since we've started the
-big job, well, that's all
-we've had."<Close><End of Block>
+the sea. We're salvagers.<New>
+Recently, however, there
+has been no treasure at
+all...<Delay 10>
+Nope, not a thing.<New>
+Started a big job, you
+see. A commission."<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 Captain
-"Oh, that's a job for the
+"Yeah, it's a job for the
 Church of the Ethos.<New>
 The Church is planning
-a really big salvage next.<New>
-I don't know the details
-but, looks like we'll be
-searching for some buried
-treasure."<Close><End of Block>
+a really big salvage this
+time. Even I don't know
+the details.<New>
+But I hear there's an
+incredible treasure
+slumbering down there."<Close><End of Block>
 <TextBlock 14 w:50 h:4>
 Captain
-"Who knows... But, we're
-dependent on the Church
-to buy our stuff.<New>
-So, it won't look good
-if we turn the job down."<Close><End of Block>
-<TextBlock 15 w:46 h:3>
+"Who knows...?<New>
+But as a business partner
+the Church is a boon to
+us on a daily basis.<New>
+And even if that weren't
+the case, it's a disgrace
+for salvagers to turn
+down a job."<Close><End of Block>
+<TextBlock 15 w:46 h:4>
 Captain
-"Well, dinner's finally
-ready. Let's eat."<Close><End of Block>
+"Ah, it looks like
+we're all set at last.<Delay 10>
+Let's eat."<Close><End of Block>
 <TextBlock 16 w:24 h:2>
 Captain
 "Gahahahha."<Opcode 2 80><Close><End of Block>
@@ -148,11 +153,13 @@ Well...<Close><End of Block>
 <TextBlock 31 w:34 h:2>
 Fei
 "Well, let's go."<Close><End of Block>
-<TextBlock 32 w:50 h:4>
+<TextBlock 32 w:44 h:4>
 Elly
-"I know you haven't eaten
-for a while but how can
-you eat so much?"<Close><End of Block>
+"I know you hadn't
+eaten for a while...<New>
+but to wolf down one
+thing after another
+like that...?"<Close><End of Block>
 <TextBlock 33 w:44 h:4>
 Captain
 "Gah ha ha ha ha...
@@ -160,13 +167,14 @@ This is great,
 this is great. <New>
 I like how you eat.
 You weren't drifting 
-around for nuthin'..."<Close><End of Block>
-<TextBlock 34 w:18 h:1>
-Men have!<Close><End of Block>
-<TextBlock 35 w:16 h:1>
-Courage!<Close><End of Block>
+around just for
+show..."<Close><End of Block>
+<TextBlock 34 w:10 h:1>
+Men!<Close><End of Block>
+<TextBlock 35 w:26 h:1>
+Have courage!<Close><End of Block>
 <TextBlock 36 w:38 h:1>
-And have Appetites!<Close><End of Block>
+And have appetites!<Close><End of Block>
 <TextBlock 37 w:30 h:2>
 Captain
 "Gah ha hah..."<Close><End of Block>
@@ -174,9 +182,10 @@ Captain
 Elly
 "?<Delay 30>
 Did we just shake?"<Close><End of Block>
-<TextBlock 39 w:54 h:2>
+<TextBlock 39 w:38 h:3>
 Fei
-"You're just imagining it."<Close><End of Block>
+"You must have
+imagined it..."<Close><End of Block>
 <TextBlock 40 w:38 h:2>
 Elly
 "I don't think so!"<Close><End of Block>
@@ -189,23 +198,25 @@ Captain
 "Looks like something's
 up. Sorry, but I have to
 return to the bridge."<Close><End of Block>
-<TextBlock 43 w:36 h:3>
+<TextBlock 43 w:40 h:3>
 Captain
-"But please, 
-enjoy yourselves."<Close><End of Block>
-<TextBlock 44 w:34 h:3>
+"Please, make
+yourselves at home."<Close><End of Block>
+<TextBlock 44 w:36 h:4>
 Fei
-"Elly, is that a 
-water spout?"<Close><End of Block>
-<TextBlock 45 w:46 h:4>
+"Hey, Elly, is
+that a waterspout?<Delay 10>
+There...<Close><End of Block>
+<TextBlock 45 w:48 h:4>
 Elly
-"It's too far, I can't 
+"It's too far. I can't 
 see very well. But it
-looks like...<Delay 10>a battle!"<Close><End of Block>
-<TextBlock 46 w:34 h:3>
+looks like...<Delay 10>a battle!?"<Close><End of Block>
+<TextBlock 46 w:34 h:4>
 Fei
-"Let's go to the 
-bridge too."<Close><End of Block>
+"Will we try to
+go to the bridge,
+too?"<Close><End of Block>
 <TextBlock 47 w:14 h:2>
 Elly
 "Okay."<Close><End of Block>

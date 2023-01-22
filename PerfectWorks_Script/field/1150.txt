@@ -107,66 +107,77 @@ A huge formation is
 coming this way!<Close><End of Block>
 <TextBlock 24 w:46 h:4>
 Myyah
-"Here is the engagement
-report between Haishao
-and the enemy Gear."<Close><End of Block>
-<TextBlock 25 w:30 h:3>
+"Commander.<New>
+Here is the report of
+the engagement between
+Haishao and the enemy
+Gear."<Close><End of Block>
+<TextBlock 25 w:26 h:3>
 Ramsus
 "!!
-This is the..."<Close><End of Block>
-<TextBlock 26 w:50 h:3>
+This is..."<Close><End of Block>
+<TextBlock 26 w:50 h:4>
 Myyah
-"I'm sure of it.<New>
-It's currently at Tamuz.
+"No doubt about it.<New>
+It's currently at the
+Tamuz.
 If not, somewhere in the
-ocean nearby."<Close><End of Block>
-<TextBlock 27 w:38 h:3>
+ocean close to it."<Close><End of Block>
+<TextBlock 27 w:34 h:4>
 Ramsus
 "Change course!
-Head for Tamuz..."<Close><End of Block>
+Head for
+the Tamuz..."<Close><End of Block>
 <TextBlock 28 w:48 h:4>
 Myyah
-"Wait. Their mother ship
-Yggdrasil seems to be
-able to submerge.<New>
-If they submerge,
-they'll have the upper
-hand on Haishao.<New>
-Any attack we might make
-would just be wasted
-since they could
-simply dive.<New>
-But if we eliminate that
-function first, it's
-still not too late.<New>
-I've already made the
-proper 'arrangements'."<Close><End of Block>
-<TextBlock 29 w:30 h:2>
+"Wait.<New>
+It appears their mother
+ship Yggdrasil also has
+the functions of a
+submarine.<New>
+If it has gained stealth
+capability, that's
+enough to give it the
+upper hand over Haishao.<New>
+To even pursue them is
+pointless if they can
+conceal themselves in
+the water.<New>
+But it's still not too
+late to rob them of that
+ability.<New>
+I have already...<Delay 10>
+taken measures."<Close><End of Block>
+<TextBlock 29 w:34 h:2>
 Ramsus
-"Arrangements?"<Close><End of Block>
+"Taken measures?"<Close><End of Block>
 <TextBlock 30 w:22 h:2>
 Myyah
 "Yes, sir."<Close><End of Block>
 <TextBlock 31 w:46 h:3>
 Ramsus
-"All right.
+"Alright.
 We'll try it your way."<Close><End of Block>
 <TextBlock 32 w:46 h:2>
 Myyah
 "Thank you, Commander."<Close><End of Block>
-<TextBlock 33 w:48 h:4>
+<TextBlock 33 w:52 h:4>
 Ramsus
-"By the way... What
-happened between you and
-Dominia? She was livid."<Close><End of Block>
+"By the way,<Delay 20> what happened
+between you and Dominia?
+She was livid..."<Close><End of Block>
 <TextBlock 34 w:50 h:4>
 Myyah
-"I'm sorry. It had to
-do with that Yggdrasil
+"I'm sorry.<New>
+It's a trivial matter
+from the Yggdrasil
 incident earlier.<New>
-Those girls work hard.
-Especially for you...
-It's my job to be hated."<Close><End of Block>
+They try so hard,
+those girls.<New>
+Where you're concerned...
+I guess they see me as
+something of a killjoy,<Delay 10>
+right?"<Close><End of Block>
 <TextBlock 35 w:32 h:3>
 Ramsus
 "Out of the way!<Delay 30>
