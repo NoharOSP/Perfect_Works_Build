@@ -1,6 +1,7 @@
-<TextBlock 1 w:34 h:2>
+<TextBlock 1 w:34 h:3>
 Fei
-"Uh! You again!?"<Close><End of Block>
+"Urgh!
+You again!?"<Close><End of Block>
 <TextBlock 2 w:32 h:3>
 Fei
 "What are you
@@ -16,45 +17,44 @@ Elly
 "Fei!!"<Close><End of Block>
 <TextBlock 6 w:26 h:3>
 Ramsus
-"Myyah,
-is that him?"<Close><End of Block>
-<TextBlock 7 w:28 h:3>
+"Over there,
+Myyah?"<Close><End of Block>
+<TextBlock 7 w:28 h:2>
 Ramsus
-"Right.
-I've got him!"<Close><End of Block>
+"Roger that!"<Close><End of Block>
 <TextBlock 8 w:32 h:4>
 Ramsus
-"I have been
-looking for you!
-My arch rival!!"<Close><End of Block>
+"Oh how I have
+searched!
+My nemesis!!"<Close><End of Block>
 <TextBlock 9 w:40 h:3>
 Ramsus
 "...I see you have a
 different machine...<New>
 So, what happened to
-your 'other Gear'!?"<Close><End of Block>
+'that Gear'!?"<Close><End of Block>
 <TextBlock 10 w:42 h:4>
 Ramsus
-"Not to matter...<New>
-At any rate, until
-I eliminate you,
-there will never be
-any 'light' for me!!"<Close><End of Block>
+"Well, fine...<New>
+All that matters is
+that there will be no
+light for me until
+you are eliminated!!"<Close><End of Block>
 <TextBlock 11 w:44 h:4>
 Ramsus
 "Tch!
-Is that all you
-have to give!!<New>
-Well too bad!
-No matter what...
+Is that the best
+you can do!?<New>
+Nevertheless...
+You!
 I can't let you live!"<Close><End of Block>
 <TextBlock 12 w:36 h:3>
 Ramsus
 "And now for the
-'coup de grace'!!"<Close><End of Block>
+coup de grace!!"<Close><End of Block>
 <TextBlock 13 w:26 h:4>
 Ramsus
-"Wh, what!?
+"Wh-What!?
 Aerods!?
 Who the...!?"<Close><End of Block>
 <TextBlock 14 w:24 h:3>
@@ -64,19 +64,20 @@ Uuuooohhhh!"<Close><End of Block>
 <TextBlock 15 w:34 h:4>
 Ramsus
 "Tch!
-My main tank...
-I almost had him!<New>
+My main tank...<New>
+But I almost
+had him!<New>
 Dammit!
 ...We have to
 retreat, Myyah!"<Close><End of Block>
 <TextBlock 16 w:34 h:4>
 Myyah
-"Yes, he's in the
+"Yes, it's the
 black Gear in the
-center there."<Close><End of Block>
-<TextBlock 17 w:48 h:4>
+center."<Close><End of Block>
+<TextBlock 17 w:48 h:5>
+! WARNING !<Delay 30>
 <]>Armor breach<Delay 30>
- Water flooding cockpit!<Delay 30>
- Pilot's vital signs
- are declining...<Opcode 2 120><Close><Close>5<New>
-<Close><End of Block>
+<_>Water flooding cockpit<Delay 30>
+<_>Pilot's vital signs
+<_>deteriorating...<Opcode 2 120><Close><Close><Close><End of Block>

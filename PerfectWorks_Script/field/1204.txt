@@ -222,7 +222,7 @@ about Fei...<Delay 10>but I'll
 help you anytime!"<Close><End of Block>
 <TextBlock 49 w:32 h:4>
 Elly
-"I, I...<Delay 10>
+"I... I...<Delay 10>
 How in the world
 did I get here?"<Close><End of Block>
 <TextBlock 50 w:18 h:2>
@@ -232,72 +232,72 @@ Fei
 Yes!<Close><End of Block>
 <TextBlock 52 w:18 h:1>
 Uh, no...<Opcode 2 30><Close><End of Block>
-<TextBlock 53 w:52 h:4>
+<TextBlock 53 w:52 h:3>
 Sigurd
 "Young master, the radar
-has picked up a huge Gear!<Delay 10>
-It's headed right for us!"<Close><End of Block>
+has picked up a huge Gear!<New>
+It's headed right for us,
+and fast!"<Close><End of Block>
 <TextBlock 54 w:26 h:3>
 Bart
 "What!?<Delay 10>
 Them again!?"<Close><End of Block>
-<TextBlock 55 w:54 h:2>
+<TextBlock 55 w:54 h:3>
 Sigurd
-"That shape looks like...!"<Close><End of Block>
+"Judging by the Gear shape,
+that's most likely!"<Close><End of Block>
 <TextBlock 56 w:52 h:4>
 Bart
-"Alright!<Delay 10> I owe so much to
-the Tamuz. I can't let it
-turn into a battle field.<New>
+"Right!<Delay 10> The Tamuz helped
+us out and we won't make a
+battlefield of it!<New>
 Launch the Yggdrasil
 immediately!<Delay 10>
 We'll go out in our
 Gears!"<Close><End of Block>
-<TextBlock 57 w:20 h:1>
-Yes, sir!!<Opcode 2 30><Close><End of Block>
+<TextBlock 57 w:12 h:1>
+Roger!<Opcode 2 30><Close><End of Block>
 <TextBlock 58 w:42 h:3>
 Bart
 "Fei,<Delay 10> Citan,<Delay 10>
 I'm counting on you!"<Close><End of Block>
 <TextBlock 59 w:12 h:1>
 Wait!!<Opcode 2 20><Close><End of Block>
-<TextBlock 60 w:46 h:3>
+<TextBlock 60 w:38 h:3>
 Citan
-"Elly should rest here.<Delay 10>
-We will..."<Close><End of Block>
+"Elly, please rest
+here.<Delay 10> We will<-->"<Close><End of Block>
 <TextBlock 61 w:52 h:4>
 Elly
 "Wait!!<Delay 10>
-Because I came here this
-all happened...<New>
-This is my responsibility!<Delay 10>
-So...<Delay 10>
-So let me go too!"<Close><End of Block>
+This is my responsibility!<New>
+It's because I'm here...!
+So...<Delay 10> So let me go too!"<Close><End of Block>
 <TextBlock 62 w:16 h:1>
 Elly...?<Close><End of Block>
-<TextBlock 63 w:46 h:3>
+<TextBlock 63 w:40 h:4>
 Bart
-"What the hell are
-you talking about!<New>
-Don't you remember
-what you just did...!?"<Close><End of Block>
+"You've gotta be
+kidding!<Delay 10> After what
+you just did...!?"<Close><End of Block>
 <TextBlock 64 w:20 h:1>
 Young one!<Opcode 2 30><Close><End of Block>
-<TextBlock 65 w:46 h:3>
+<TextBlock 65 w:46 h:4>
 Citan
-"Elly,<Delay 10> our trust in you
-depends on this battle.<New>
-For your honor, you
-should fight!"<Close><End of Block>
-<TextBlock 66 w:22 h:3>
+"Elly,<Delay 10> our faith in you
+will be determined by
+this battle.<New>
+For your own honor,
+also,<Delay 10> you must fight!"<Close><End of Block>
+<TextBlock 66 w:24 h:3>
 Bart
-"But Citan!<Delay 10>
-I...!"<Close><End of Block>
-<TextBlock 67 w:32 h:4>
+"But, Citan!<Delay 10>
+If she<-->!"<Close><End of Block>
+<TextBlock 67 w:46 h:4>
 Citan
-"Young one,<Delay 10>
-please trust
-Elly this time."<Close><End of Block>
+"Young one,<Delay 10> please
+give Elly your trust
+for what happens next."<Close><End of Block>
 <TextBlock 68 w:52 h:4>
 Citan
 "Elly,<Delay 10> if you try anything
@@ -313,7 +313,7 @@ young one?"<Close><End of Block>
 <TextBlock 71 w:38 h:4>
 Bart
 "...<Delay 15>
-Alright. <Delay 5>Fei,<Delay 5> Elly,<Delay 5>
+Got it. <Delay 5>Fei,<Delay 5> Elly,<Delay 5>
 let's go!!"<Close><End of Block>
 <TextBlock 72 w:12 h:1>
 Yeah!!<Close><End of Block>

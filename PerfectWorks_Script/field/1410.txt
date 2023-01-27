@@ -1,6 +1,6 @@
 <TextBlock 1 w:54 h:4>
 Bart
-"The Tamuz's captain said
+"The Tamuz' captain said
 the base of this lighthouse
 is thousands of years old.<New>
 It's sturdy so they put a
@@ -9,7 +9,7 @@ lighthouse, but nobody
 knows what's inside."<Close><End of Block>
 <TextBlock 2 w:54 h:4>
 Billy
-"The base of this light
+"The base of this light-
 house was built several
 thousand years ago.<New>
 It's just the right height,
@@ -19,7 +19,7 @@ what's inside of it."<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Rico
 "Hammer said this
-lighthouse base is
+lighthouse's base is
 thousands of years old.<New>
 It's sturdy, so they put
 a light on top of it to
@@ -37,7 +37,7 @@ lighthouse. But no one
 knows what's inside."<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Citan
-"The base of this light
+"The base of this light-
 house was built several
 thousand years ago.<New>
 Islanders added a light
@@ -46,7 +46,7 @@ house. But no one knows
 what it really is."<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 Citan
-"The base of this light
+"The base of this light-
 house was built several
 thousand years ago. <New>
 Islanders added a light

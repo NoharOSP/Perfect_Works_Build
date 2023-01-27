@@ -250,19 +250,21 @@ Why don't you go and
 see how she is, Fei?"<Close><End of Block>
 <TextBlock 38 w:50 h:4>
 Sigurd
-"Young master, where did
-you go while we were so
-busy...?<New>
+"Young master, where the
+heck did you go when we
+were so busy...?<New>
 An international goodwill
 visit with the Tamuz?
-Well, whatever...<New>
-Now about those supplies
-for the submarine..."<Close><End of Block>
-<TextBlock 39 w:50 h:4>
+Well,<Delay 10> alright.<New>
+Now, about those supplies
+for equipping the
+submarine..."<Close><End of Block>
+<TextBlock 39 w:42 h:4>
 Bart
 "Oh, that?<Delay 10>
-Let me see...order an
-additional 16 torpedoes!"<Close><End of Block>
+Let me see...<New>
+Order an additional
+sixteen torpedoes!"<Close><End of Block>
 <TextBlock 40 w:22 h:2>
 Sigurd
 "Yes, sir."<Close><End of Block>
