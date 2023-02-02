@@ -935,7 +935,7 @@ Citan
 "Powerful eletrical waves
 are interfering with the
 Gears' response circuits.<New>
-Dont' worry, it will
+Don't worry, it will
 soon pass.<Delay 20>
 But..."<Close><End of Block>
 <TextBlock 184 w:50 h:4>

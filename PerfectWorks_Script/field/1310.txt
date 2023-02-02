@@ -1,6 +1,6 @@
 <TextBlock 1 w:50 h:3>
 Elly
-"Um...Where is Billy?
+"Um... Where is Billy?
 I'd like to thank him..."<Close><End of Block>
 <TextBlock 2 w:18 h:2>
 Citan
@@ -57,39 +57,48 @@ Citan
 <TextBlock 11 w:46 h:4>
 Citan
 "Elly, that is not
-true. You cannot resist
-being hypnotized.<New>
-More importantly,
-you saved Fei.<New>
-Fei could not have
-been protected from
-Carl without you.
-Is that not correct?"<Close><End of Block>
-<TextBlock 12 w:48 h:4>
+the case.<New>
+You cannot blame your-
+self for having been
+manipulated by post-
+hypnotic suggestion.<New>
+More importantly, you
+saved Fei. If it
+had not been for your
+efforts back there,<New>
+Fei would not have been
+safeguarded against
+Carl. Is that not
+correct?"<Close><End of Block>
+<TextBlock 12 w:40 h:4>
 Citan
-"Well, we do not want to
-disturb his recovery.
-So, shall we go now?<New>
-It may take a little
-longer to finish
-treating Fei."<Close><End of Block>
-<TextBlock 13 w:48 h:4>
+"Well, by being
+here we may disturb
+the examination,<New>
+so let us take our
+leave.<New>
+It looks like Fei's
+treatment is going
+to take a little
+longer."<Close><End of Block>
+<TextBlock 13 w:46 h:4>
 Citan
-"I agree.
-Fei will feel at ease
-that way. Please let us <New>
-know when you finish
-treating Fei.
+"That would be fine.
+It will make Fei feel
+safer.<New>
+Alright, please let
+us know when Fei's
+treatment is finished.<New>
 We will leave the rest
 up to you."<Close><End of Block>
 <TextBlock 14 w:30 h:3>
 Citan
 "Did Fei regain
 consciousness?"<Close><End of Block>
-<TextBlock 15 w:38 h:3>
+<TextBlock 15 w:30 h:3>
 Citan
-"I am sorry to have
-bothered you."<Close><End of Block>
+"Thank you for
+your trouble."<Close><End of Block>
 <TextBlock 16 w:48 h:3>
 Citan
 "We are in Billy's debt.
@@ -100,122 +109,138 @@ Citan
 Fei to the Yggdrasil.<New>
 It will not be too late to
 go see Billy afterwards."<Close><End of Block>
-<TextBlock 18 w:30 h:2>
+<TextBlock 18 w:26 h:3>
 Bart
-"That means..."<Close><End of Block>
-<TextBlock 19 w:46 h:4>
+"So you're
+saying..."<Close><End of Block>
+<TextBlock 19 w:38 h:4>
 Bart
-"Elly, that's not true.
-You can't resist being
-hypnotized. You don't<New>
-need to feel guilty.
-More importantly, you
-saved Fei. You
-protected him from<New>
-Ramsus.
-Isn't that right?"<Close><End of Block>
+"Elly, you're
+wrong.<New>
+You were being
+manipulated by
+post-hypnotic
+suggestion.<New>
+You don't need to
+feel guilty.
+Besides, in the end
+you saved Fei.<New>
+You protected him
+from Ramsus back
+there. Right?"<Close><End of Block>
 <TextBlock 20 w:50 h:4>
 Bart
-"Hey, we don't want to 
+"Hey, we don't want to
 disturb his recovery.
 Let's take a little walk.<New>
-It may take a little 
-longer to finish 
-treating Fei."<Close><End of Block>
+It looks like Fei's
+treatment is going to
+take a bit longer."<Close><End of Block>
 <TextBlock 21 w:52 h:4>
 Bart
-"Yeah, why don't you do 
-that. I'm sure Fei'll be 
-happy. <New>
-Well, call us when you're 
-done with Fei. I'll leave 
+"Yeah, you do that.
+Fei would surely be glad.<New>
+Alright, call on us when
+Fei's treatment is
+finished. I'll leave
 the rest to you."<Close><End of Block>
-<TextBlock 22 w:44 h:3>
+<TextBlock 22 w:40 h:3>
 Bart
-"By the way, did Fei
-regain consciousness?"<Close><End of Block>
-<TextBlock 23 w:30 h:2>
+"So, did Fei regain
+consciousness?"<Close><End of Block>
+<TextBlock 23 w:30 h:3>
 Bart
-"Thanks a lot!"<Close><End of Block>
-<TextBlock 24 w:42 h:4>
+"Thanks a lot,
+Doctor!"<Close><End of Block>
+<TextBlock 24 w:36 h:4>
 Bart
-"Billy really helped
-us a lot. We'd better
-thank him for that."<Close><End of Block>
+"I have to admit
+Billy has helped
+us out a lot.<New>
+I guess we should
+thank him or
+something."<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Bart
 "First, let's take Fei to 
 the Yggdrasil. We can go 
-thank him afterwards."<Close><End of Block>
-<TextBlock 26 w:28 h:2>
+thank Billy afterwards."<Close><End of Block>
+<TextBlock 26 w:26 h:2>
 Rico
-"Hmm, then..."<Close><End of Block>
-<TextBlock 27 w:54 h:4>
+"Hmm, so..."<Close><End of Block>
+<TextBlock 27 w:48 h:4>
 Rico
-"At the time, you were
-hypnotized. You couldn't
-help it. Don't feel guilty.<New>
-He could've been killed
-by Ramsus if you weren't 
-there then."<Close><End of Block>
+"Back then you'd lost
+your own will 'cause
+of the hypnosis.<New>
+Don't fret over it.<New>
+And if you hadn't been
+there in the underwater
+battle, Ramsus woulda
+killed Fei."<Close><End of Block>
 <TextBlock 28 w:48 h:4>
 Rico
-"It may take a little
-longer to finish his
-treatment. Let's go<New>
-somewhere to kill time."<Close><End of Block>
+"It looks like Fei's
+treatment is gonna take
+a bit longer.<New>
+Let's kill some time
+elsewhere for now."<Close><End of Block>
 <TextBlock 29 w:48 h:4>
 Rico
 "Do what you need to do.<Delay 20>
-Let me know when you're 
-finished with Fei."<Close><End of Block>
-<TextBlock 30 w:32 h:2>
+When Fei's treatment is
+done let us know."<Close><End of Block>
+<TextBlock 30 w:24 h:2>
 Rico
-"Is Fei better?"<Close><End of Block>
-<TextBlock 31 w:40 h:3>
+"Fei's all
+fixed up?"<Close><End of Block>
+<TextBlock 31 w:38 h:3>
 Rico
-"You must've put in 
-a lot of time."<Close><End of Block>
-<TextBlock 32 w:50 h:3>
+"Thanks for taking
+the time."<Close><End of Block>
+<TextBlock 32 w:38 h:3>
 Rico
-"...I want to thank Billy
-at least."<Close><End of Block>
+"...I want to say
+thanks to Billy."<Close><End of Block>
 <TextBlock 33 w:52 h:4>
 Rico
-"First of all, let's take
-Fei to the Yggdrasil.
-And we can go from there."<Close><End of Block>
+"First, let's move Fei to
+the Yggdrasil. And we can
+take it from there."<Close><End of Block>
 <TextBlock 34 w:54 h:4>
 Elly
 "Even if it was impossible 
-to resist, the reason why 
-I was hypnotized was <New>
-because I was off my guard.
+to resist the effects,<New>
+it's because I was off my
+guard that I got hypnotized
+in the first place.<New>
 I'm partly responsible for
-what happened.<New>
+what happened.
 So I'd like to be by his
 side till he's awake."<Close><End of Block>
 <TextBlock 35 w:22 h:3>
 Elly
 "Fei<Delay 10>...<Delay 10>
 I'm sorry."<Close><End of Block>
-<TextBlock 36 w:44 h:3>
+<TextBlock 36 w:42 h:4>
 Elly
-"<Delay 10>...<Delay 10>Will Fei ever 
-regain consciousness?"<Close><End of Block>
-<TextBlock 37 w:48 h:4>
+"<Delay 10>...Fei<Delay 10> will regain
+consciousness,<Delay 10> won't
+he?"<Close><End of Block>
+<TextBlock 37 w:46 h:3>
 Elly
-"<Delay 15>...<Delay 15>I'm sorry, Fei.
-I caused the engine room
-to lose control..."<Close><End of Block>
+"<Delay 15>...<Delay 15>I'm sorry, Fei.<New>
+It's all because I
+caused the engine room
+to go haywire..."<Close><End of Block>
 <TextBlock 38 w:28 h:2>
 Elly
 "Thank you..."<Close><End of Block>
 <TextBlock 39 w:40 h:4>
 Elly
 "I...<Delay 15>would like to
-stay a little while.<Delay 10>
-Is it okay?"<Close><End of Block>
+stay here for now.<Delay 10>
+Is that okay?"<Close><End of Block>
 <TextBlock 40 w:24 h:2>
 Billy
 "How is he?"<Close><End of Block>
@@ -242,53 +267,59 @@ success, so there's no
 need to worry.<Close><End of Block>
 <TextBlock 46 w:54 h:4>
 The patient hasn't regained
-consciousness yet,
-but we see no abnormality
-with his brain.<New>
-The low water temperature
-lowered his metabolism and
-saved him.<New>
-One false step and he
-would have suffered 
-from brain death.<Close><End of Block>
-<TextBlock 47 w:54 h:3>
-Yes, don't worry.<Delay 15>
-However, we need to conduct
-more tests for a while.<New>
-After that, he can be
-treated at your medical
-facilities.<Close><End of Block>
+consciousness yet,<New>
+but we could find no
+particular abnormalities
+in his brain tissue.<New>
+It was most fortunate
+that his metabolic rate
+had dropped due to the
+low water temperature.<New>
+One false move and I fear
+the brain tissue would have
+necrotized, leaving him 
+with permanent damage.<Close><End of Block>
+<TextBlock 47 w:58 h:4>
+Yes. You can set your minds
+at ease.<Delay 15> For the time being,
+we need to perform a
+thorough examination.<New>
+But once we've finished, your
+ship's medical facilities
+will be sufficient for any
+further treatment.<Close><End of Block>
 <TextBlock 48 w:50 h:4>
-The reason why he hasn't
-regained consciousness is
-physical exhaustion.
-He overworked himself. <New>
-It'll probably take him a
-few more days, but don't
-worry, he'll wake up.<Close><End of Block>
-<TextBlock 49 w:40 h:3>
-Please, don't worry.
-I did my job as a 
-clergyman.<Close><End of Block>
+His remaining unconscious
+goes hand in hand with
+the physical exhaustion.<New>
+It's the toll taken on
+his body that keeps him
+asleep. He will need a
+few more days to recover.<New>
+It's alright,
+he will wake up.<Close><End of Block>
+<TextBlock 49 w:36 h:3>
+Not at all. Just
+doing my job as a 
+churchman.<Close><End of Block>
 <TextBlock 50 w:52 h:2>
 Hello, everyone.
 His treatment is finished.<Close><End of Block>
-<TextBlock 51 w:56 h:4>
+<TextBlock 51 w:52 h:3>
 Unfortunately, the patient
-hasn't regained
-consciousness yet. But
+hasn't come to yet.<Delay 10> But
 there's no need to worry.<New>
-When he recovers physically,
-he'll also regain
-consciousness. You can
-take him to your ship now.<Close><End of Block>
+When he recovers
+physically, he'll also
+regain consciousness.<New>
+It's fine for you to take
+him to your ship now.<Close><End of Block>
 <TextBlock 52 w:38 h:3>
 Please don't worry.
 I did my job as a 
 clergyman.<Close><End of Block>
 <TextBlock 53 w:48 h:4>
-Oh yes, Brother Billy...<New>
+Oh yes, Brother Billy.
 He went back to the
-orphanage.
-He was worried about the
-children left behind.<Close><Close><End of Block>
+orphanage. The children
+there are in his care.<Close><Close><End of Block>

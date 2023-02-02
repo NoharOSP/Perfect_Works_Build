@@ -81,71 +81,77 @@ Let's go."<Close><End of Block>
 Billy
 "We have been waiting
 for you.<New>
-I received permission
-to treat Fei so long as
-it is in the practice
-hall's infirmary.<New>
-Let our Church of the
-Ethos staff take care
-of the rest."<Close><End of Block>
-<TextBlock 21 w:54 h:3>
+I have received permis-
+sion for Fei to be
+treated at the training
+hall medical facility.<New>
+Let our Church staff
+take it from here."<Close><End of Block>
+<TextBlock 21 w:34 h:3>
 Elly
-"Please,
-take care of Fei for me<Delay 4>..."<Close><End of Block>
-<TextBlock 22 w:44 h:3>
+"Please, take
+care of Fei<Delay 10>..."<Close><End of Block>
+<TextBlock 22 w:42 h:4>
 Billy
 "The brothers from the
-Church are looking after
-Fei in the infirmary.<New>
-Let me take you there.
-Please follow me,<Delay 15>
-this way."<Close><End of Block>
+Church are on their way
+to the infirmary.<New>
+They'll look after Fei.<New>
+I'll show you around.
+Please follow me this
+way."<Close><End of Block>
 <TextBlock 23 w:22 h:2>
 Billy
 "This way."<Close><End of Block>
 <TextBlock 24 w:10 h:2>
 Billy
 "..."<Close><End of Block>
-<TextBlock 25 w:52 h:4>
+<TextBlock 25 w:48 h:4>
 Billy
-"We are father and son in
-blood only!<Delay 10> I have nothing
-to do with that man<Delay 5>..."<Close><End of Block>
+"...That man and I are
+father and son by blood
+only!<New>
+I have no other
+involvement with him."<Close><End of Block>
 <TextBlock 26 w:52 h:4>
 Billy
-"...<Delay 10>That father of mine...<Delay 10>
-I wish he'd think about my
-position before acting."<Close><End of Block>
-<TextBlock 27 w:42 h:4>
+"...<Delay 10>That father of mine...<New>
+Urgh, I wish he'd behave
+with just a little
+consideration of my
+position."<Close><End of Block>
+<TextBlock 27 w:46 h:4>
 Verlaine
 "Billy, I hear your
-father has been
-rather active again."<Close><End of Block>
+father has been putting
+on quite a show again."<Close><End of Block>
 <TextBlock 28 w:54 h:5>
 Verlaine
 "It is said that there was
 an attack on an excavation
-site which injured many of
-my 'brothers' and workers."<Close><End of Block>
-<TextBlock 29 w:52 h:3>
+site and many brothers and
+workers were injured."<Close><End of Block>
+<TextBlock 29 w:52 h:4>
 Verlaine
-"Well, you're such a fine
-Etone - destroying Reapers
-and proving the justice of
-the Church to the world.<New>
-But your father is..."<Close><End of Block>
+"My goodness, you're such
+a fine Etone <--> destroying
+Reapers and demonstrating<New>
+the righteousness of the
+Church to the world.<New>
+But your father<Delay 20>..."<Close><End of Block>
 <TextBlock 30 w:40 h:4>
 Verlaine
-"Don't get me wrong.
-I don't suspect you,
-our good 'brother'.<New>
+"Don't get me wrong.<New>
+I don't mean to cast
+aspersions on you,
+our good Brother.<New>
 I just wanted to
-inform you about
-your father."<Close><End of Block>
+keep you informed
+about your father."<Close><End of Block>
 <TextBlock 31 w:48 h:3>
-This is a practice hall.
-This facility was built 
-for us Etone.<Close><End of Block>
+This is the training
+hall. The facility was
+built for we Etones.<Close><End of Block>
 <TextBlock 32 w:54 h:5>
 No.
 Only Church members or
@@ -153,9 +159,9 @@ those with known identities
 can enter the cathedral
 and its related facilities.<New>
 The same thing applies to
-this practice hall, but the
+this training hall, but the
 bishop made an exception
-for brother Billy.<Close><End of Block>
+for Brother Billy.<Close><End of Block>
 <TextBlock 33 w:22 h:1>
 B, <Delay 20>Billy<Delay 10>...<Close><End of Block>
 <TextBlock 34 w:68 h:2>
@@ -165,18 +171,18 @@ Suddenly, <Delay 10>I heard a gun shot<Delay 20>...<Delay 30>...<Delay 50><Close
 True faith comes from
 a stern doctrine.<Close><End of Block>
 <TextBlock 36 w:50 h:4>
-The peace and order here
-in Aquvy is getting worse
-day by day.<New>
+Peace and order are
+declining day by day
+day here in Aquvy.<New>
 Saving people who have
 nowhere else to turn...<Delay 15>
-This too is a duty of
+This, too, is a duty of
 the Church.<Close><End of Block>
 <TextBlock 37 w:46 h:4>
 Many people visit the 
 Church to get help.
 ...They're the same as 
-us Etone.<New>
+we Etones.<New>
 We also came to the
 Church with hearts 
 filled with sorrow.<Close><End of Block>
@@ -201,10 +207,10 @@ I'll become an Etone
 and create a world with
 no hardships!<Close><End of Block>
 <TextBlock 41 w:38 h:2>
-Da--dd--y.
-Where did mommy go?<Close><End of Block>
+Da~~dd~~y.
+Where did Mommy go?<Close><End of Block>
 <TextBlock 42 w:40 h:4>
 We don't know Fei's 
 condition yet.<Delay 30>
-... Let's stay here
+...Let's stay here
 a little longer.<Close><Close><End of Block>

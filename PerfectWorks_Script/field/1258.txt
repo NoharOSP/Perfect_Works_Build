@@ -39,7 +39,7 @@ saucer today.<Delay 10> Aa<~>h!<Close><End of Block>
 Wanna know about the flying
 saucer? Then just ask me!
 <Opcode 1 255>    Tell me
-    Nevermind<Close><End of Block>
+    Never mind<Close><End of Block>
 <TextBlock 15 w:56 h:29>
 <Opcode 1 2>Ahem!!
 Actually it was a long time
@@ -83,9 +83,9 @@ who worship it.<Close><End of Block>
 So, was that of any use?<Delay 10>
 Ahem.<Close><End of Block>
 <TextBlock 17 w:38 h:3>
-When you say that,
-you make me want to
-tell you anymore...<Close><End of Block>
+Saying that makes
+me want to tell you
+even more... Awww.<Close><End of Block>
 <TextBlock 18 w:42 h:3>
 You want Billy?<Delay 10>
 You should go to the 
@@ -104,7 +104,7 @@ in there, but you can't
 go inside.<Delay 10><New>
 Some kind of haunted
 house?<Delay 10>
-...shiver...<Close><End of Block>
+...*shiver*...<Close><End of Block>
 <TextBlock 23 w:42 h:2>
 Billy says don't talk
 to strangers...<Close><End of Block>
@@ -171,8 +171,8 @@ Me, I have the day shift
 so I have to get all the
 chickens in the coop...<New>
 Wanna help me?<Delay 30>
-<Opcode 1 255>    OK!!
-    That's your job.<Close><End of Block>
+<Opcode 1 255>    Okay!!
+    That's your job<Close><End of Block>
 <TextBlock 44 w:48 h:3>
 Thank you!!<Delay 10>
 It's easy, the chickens
@@ -190,7 +190,7 @@ Look out!<Opcode 2 40><Close><End of Block>
 Hmm, Uncle Stone is
 a bad guy?<Delay 10>
 Why are you saying
-he's strange!<Close><End of Block>
+he's strange!?<Close><End of Block>
 <TextBlock 49 w:44 h:3>
 Billy said he respects
 Uncle Stone. I guess
@@ -216,8 +216,8 @@ GO!!<Opcode 2 30><Close><End of Block>
 <TextBlock 58 w:50 h:1>
 We're all good friends...<Close><End of Block>
 <TextBlock 59 w:50 h:4>
-Huh? 'Why aren't you
-playing with them?'<Delay 30>
+Huh? Why aren't I
+playing with them?<Delay 30>
 Don't be silly...!
 I can't play with girls!!<Close><End of Block>
 <TextBlock 60 w:40 h:4>
@@ -228,7 +228,7 @@ because I'm a girl?"<Close><End of Block>
 <TextBlock 61 w:24 h:1>
 You're okay!<Close><End of Block>
 <TextBlock 62 w:24 h:2>
-Hey hey 
+Hey hey,
 get on this!<Close><End of Block>
 <TextBlock 63 w:48 h:1>
 Don't talk to strangers!<Close><End of Block>
@@ -237,19 +237,22 @@ Don't talk to strangers!<Close><End of Block>
 <TextBlock 65 w:26 h:2>
 Wow!!
 Uncle Stone!!<Close><End of Block>
-<TextBlock 66 w:36 h:3>
+<TextBlock 66 w:40 h:3>
 Uncle Stone
-"Hello,<Delay 10>
-are you all happy?<Close><End of Block>
-<TextBlock 67 w:28 h:1>
-Bishop Stone!!<Close><End of Block>
+"Alright, alright...<Delay 10>
+Is everyone doing
+well?"<Close><End of Block>
+<TextBlock 67 w:32 h:2>
+Billy
+"Bishop Stone!!"<Close><End of Block>
 <TextBlock 68 w:38 h:2>
 Bishop Stone
-"Oh, Billy my son!"<Close><End of Block>
-<TextBlock 69 w:40 h:3>
+"Why hello, Billy!"<Close><End of Block>
+<TextBlock 69 w:38 h:4>
 Billy
-"Sorry to bother you
-when you're busy".<Close><End of Block>
+"We appreciate you
+visiting us when
+you're so busy."<Close><End of Block>
 <TextBlock 70 w:54 h:2>
 Bishop Stone
 "And who are these people?"<Close><End of Block>
@@ -257,141 +260,153 @@ Bishop Stone
 Billy 
 "They are travelers from
 another country."<Close><End of Block>
-<TextBlock 72 w:44 h:4>
+<TextBlock 72 w:42 h:4>
 Bishop Stone
-"Oh...<Delay 20>
-By the way, about your
-earlier message..."<Close><End of Block>
-<TextBlock 73 w:28 h:3>
+"Oh...<New>
+By the way,
+regarding the matter
+from our earlier
+correspondence..."<Close><End of Block>
+<TextBlock 73 w:26 h:3>
 Billy
-"Yes, <Delay 10>
-about work..."<Close><End of Block>
+"Yes.<Delay 10> A job,
+wasn't it?"<Close><End of Block>
 <TextBlock 74 w:54 h:4>
 Bishop Stone
-"Yes.<New>
-The Church of the Ethos
-transport ship that went 
-missing finally turned up.<Delay 10> 
-But, there's no reply..."<Close><End of Block>
+"That's right.<New>
+The Church transport ship
+that had gone missing has
+finally turned up.<Delay 10> But it
+is not responding..."<Close><End of Block>
 <TextBlock 75 w:40 h:2>
 Billy
-"What does it mean?"<Close><End of Block>
-<TextBlock 76 w:44 h:3>
+"Are you saying...?"<Close><End of Block>
+<TextBlock 76 w:44 h:4>
 Bishop Stone
-"Hmmm,<Delay 10>
-perhaps Reapers again.<New>
-Billy can you do 
-the usual?"<Close><End of Block>
+"Yes,<Delay 10> I'm afraid it's
+most likely Reapers
+again.<New>
+Billy, can I ask you
+to do the usual?"<Close><End of Block>
 <TextBlock 77 w:48 h:4>
 Billy
 "Right,<Delay 10>
-no problem. <Delay 10>
+no problem.<Delay 10>
 Leave it to me, Bishop."<Close><End of Block>
 <TextBlock 78 w:44 h:4>
 Bishop Stone
-"Thanks.<Delay 10>
-It's to the northeast
-from here.<New>
-Please be careful.
-It's a dangerous area.<New>
-There are some pretty
-fast sea currents and
-it's best to stay away
-from the Salvagers.<New>
-You'd better go in
-a big ship..."<Close><End of Block>
-<TextBlock 79 w:50 h:4>
+"Thank you.<New>
+Its position is
+northeast of here.
+But please be careful.
+It's a dangerous part<New>
+of the sea, with fast-
+flowing currents that
+even nearby salvagers
+try to avoid.<New>
+If possible you should
+head there in a large
+boat or something..."<Close><End of Block>
+<TextBlock 79 w:48 h:4>
 Bart
-"Hey, is that the massive
-ship Sig was talking
-about earlier?"<Close><End of Block>
-<TextBlock 80 w:42 h:3>
+"Hey, isn't this thing
+the 'huge ship' Sig was
+talking about earlier?"<Close><End of Block>
+<TextBlock 80 w:42 h:4>
 Billy
 "I don't know if that
-was it or not."<Close><End of Block>
+was the same thing or
+not."<Close><End of Block>
 <TextBlock 81 w:52 h:4>
 Bart
-"From what I hear, it's a
-place where the currents
-are really fast.<New>
-It's supposedly very
-dangerous for small ships.
-But the Yggdrasil will be
-safe there.<New>
+"So...<New>
+I'm hearing that the
+currents are fast and
+it's a dangerous place
+for small ships,<Delay 10> right?<New>
+In that case, my Yggdrasil
+will be quite safe.
 No matter how big the wave
-or swell, it's no problem.
-Besides, we have help from
-Fei.<New>
-Let's get aboard.<Delay 10>
-I'll see you off to there.<Delay 10>
-What, we could even help
-you finish your job!"<Close><End of Block>
-<TextBlock 82 w:48 h:4>
+or swell, it's no problem.<New>
+You did us a favor helping
+Fei, so...<Delay 10>come aboard!
+We'll take you there.<New>
+If you like, we could even
+help you with the job!"<Close><End of Block>
+<TextBlock 82 w:46 h:4>
 Elly
-"I agree. You saved Fei.
-It's the least we could
-do."<Close><End of Block>
+"That's right.<New>
+After what you did for
+Fei, it's truly the
+least we could do."<Close><End of Block>
 <TextBlock 83 w:48 h:4>
 Billy
-"Thanks but this doesn't
-involve you.<Delay 10>
-Just me is enough."<Close><End of Block>
+"I'm grateful, but this
+matter is of no concern
+to any of you.<New>
+I can handle it alone."<Close><End of Block>
 <TextBlock 84 w:44 h:3>
 Elly
-"But isn't that place 
-dangerous?<New>
-If there is anything 
-we can do to help..."<Close><End of Block>
-<TextBlock 85 w:42 h:3>
+"But isn't that place
+dangerous? If there is
+anything we can do..."<Close><End of Block>
+<TextBlock 85 w:40 h:4>
 Billy
-"I don't want to get 
-you involved..."<Close><End of Block>
+"But that's exactly
+why, if I get you
+involved..."<Close><End of Block>
 <TextBlock 86 w:54 h:4>
 Bishop Stone
-"Billy, my son, don't waste
-their good intentions.
-That sub is theirs, no?<New>
-Why don't you cooperate
-with them..."<Close><End of Block>
+"Billy, my son,<Delay 10>
+don't squander the good
+intentions of these people.<New>
+That submarine is theirs,
+no? Maybe you should ask
+for their help here..."<Close><End of Block>
 <TextBlock 87 w:26 h:3>
 Billy
 "...<Delay 10>
 But, Bishop!"<Close><End of Block>
-<TextBlock 88 w:36 h:4>
+<TextBlock 88 w:44 h:4>
 Bart
-"Yeah, it's no fun
-to travel alone.<Delay 10>
-Let's help."<Close><End of Block>
+"Yeah, they say no
+journey is long when
+you have good company.<New>
+We'll help!"<Close><End of Block>
 <TextBlock 89 w:40 h:3>
 Elly
 "Billy, it's best to
-go with friends!"<Close><End of Block>
-<TextBlock 90 w:38 h:3>
+go as a group!"<Close><End of Block>
+<TextBlock 90 w:40 h:3>
 Billy
 "...<New>
-Well if you insist.
+Well, if you insist.
 Thank you.<Delay 10>
 I appreciate it."<Close><End of Block>
-<TextBlock 91 w:54 h:4>
+<TextBlock 91 w:52 h:4>
 Bishop Stone
-"I thank you deeply.<Delay 10>
-Billy, <Delay 5>take care
-of these people.<New>
-Report back to headquarters
-after you get back."<Close><End of Block>
+"You have my thanks, also.<Delay 10>
+Billy, fellow travelers,<Delay 5>
+please go carefully.<New>
+For our peace of mind,
+please report back to
+Church headquarters when
+the work is finished."<Close><End of Block>
 <TextBlock 92 w:28 h:2>
 Billy
 "Yes, Bishop."<Close><End of Block>
-<TextBlock 93 w:48 h:4>
+<TextBlock 93 w:50 h:4>
 Billy
 "Thank you.<Delay 10>
 Let's see what tomorrow
-brings.<New>
-I'll come as soon as I'm
-finished preparing for
-tomorrow. Go on ahead.<New>
-I'll tell you more on
-the way there..."<Close><End of Block>
+brings, then.<New>
+I'll pay you a visit as
+soon as I've made the job
+preparations, so please
+go on ahead and board.<New>
+I'll give you the full
+details of the job once
+we're en route..."<Close><End of Block>
 <TextBlock 94 w:4 h:1>
 !!<Close><End of Block>
 <TextBlock 95 w:38 h:1>

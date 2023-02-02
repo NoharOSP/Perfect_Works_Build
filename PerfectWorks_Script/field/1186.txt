@@ -218,21 +218,19 @@ Sigurd
 in the Gun Room."<Close><End of Block>
 <TextBlock 33 w:54 h:4>
 Sigurd
-"I see. So, Fei'll recover
+"I see. So Fei'll recover
 if he continues to rest.
 I'm relieved to hear that.<New>
 It seems the orphanage is
-located to the southeast of
-the Church of the Ethos
-headquarters."<Close><End of Block>
-<TextBlock 34 w:52 h:3>
+located southeast of the
+Church headquarters."<Close><End of Block>
+<TextBlock 34 w:46 h:4>
 Sigurd
 "It appears the Church
-of the Ethos headquarters<New>
-is located to the north
-of the Tamuz.<New>
-We must hurry up and take
-Fei there..."<Close><End of Block>
+headquarters is located
+north of the Tamuz.<New>
+We must hurry up and
+take Fei there..."<Close><End of Block>
 <TextBlock 35 w:54 h:4>
 Sigurd
 "That reminds me... Margie
@@ -365,9 +363,9 @@ at the Tamuz..."<New>
 <TextBlock 57 w:44 h:4>
 Sigurd
 "So this is your first
-time to see our new
+time sailing on the
 Yggdrasil II...<New>
-Let me show you our
+Let's show off our
 reborn vessel's
 improved performance!"<Close><End of Block>
 <TextBlock 58 w:40 h:3>
@@ -1263,11 +1261,12 @@ Jessie
 "What do you mean?"<Close><End of Block>
 <TextBlock 202 w:54 h:4>
 Citan
-"He<Delay 5>...<Delay 10>Fei that is,<Delay 10> has
+"He<Delay 5>...<Delay 10> Fei that is,<Delay 10> has
 Dissociative Identity
 Disorder...<New>
 Also known more commonly as
-Multiple Personality Disorder."<Close><End of Block>
+Multiple Personality
+Disorder."<Close><End of Block>
 <TextBlock 203 w:30 h:2>
 Jessie
 "D...<Delay 5>disas...?"<Close><End of Block>
