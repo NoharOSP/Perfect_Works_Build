@@ -176,4 +176,4 @@ existence<Delay 5>...?<New>
 That Myyah<Delay 5>...<Delay 5>
 What's she up to<Delay 5>...?<Delay 50>
 I had better warn
-the Commander<Delay 5>...!"<Close><Close><End of Block>
+the commander<Delay 5>...!"<Close><Close><End of Block>

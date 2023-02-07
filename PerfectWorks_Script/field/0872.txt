@@ -1,12 +1,12 @@
 <TextBlock 1 w:36 h:2>
 Sigurd
-"Young master...?"<Close><End of Block>
+"Young Master...?"<Close><End of Block>
 <TextBlock 2 w:44 h:2>
 Bart
 "Yeah, I can't sleep."<Close><End of Block>
 <TextBlock 3 w:36 h:3>
 Sigurd
-"Yes, so much has 
+"Yes, so much has
 happened at once."<Close><End of Block>
 <TextBlock 4 w:38 h:3>
 Bart
@@ -18,16 +18,16 @@ Sigurd
 but a child, <Delay 30> why?"<Close><End of Block>
 <TextBlock 6 w:38 h:3>
 Bart
-"Do you have any 
+"Do you have any
 memories of her?<New>
 What kind of person
 was she?"<Close><End of Block>
 <TextBlock 7 w:48 h:4>
 Sigurd
-"Hmmm, well...<Delay 30> 
+"Hmmm, well...<Delay 30>
 she was very kind...<New>
 but when I was born it
-seems the doctor told 
+seems the doctor told
 her she did not have
 long to live.<New>
 She lived in constant

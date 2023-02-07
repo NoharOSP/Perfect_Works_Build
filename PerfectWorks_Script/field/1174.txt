@@ -44,7 +44,7 @@ tomorrow at 1200. Got it?"<Close><End of Block>
 <TextBlock 8 w:50 h:3>
 Maitreya
 "Leave it up to us,
-young master!<New>
+Young Master!<New>
 We'll drag Vanderkaum's 
 tail around and around!!"<Close><End of Block>
 <TextBlock 9 w:28 h:2>
@@ -55,7 +55,7 @@ Maitreya
 "Huh? Ha, ha, ha, ha..."<Close><End of Block>
 <TextBlock 11 w:50 h:4>
 Maitreya
-"Well, young master...we
+"Well, Young Master...we
 promise to make something
 out of this battle!"<Close><End of Block>
 <TextBlock 12 w:10 h:1>

@@ -247,7 +247,7 @@ you could operate
 such a thing."<Close><End of Block>
 <TextBlock 48 w:46 h:3>
 Maison
-"Young master, let's go
+"Young Master, let's go
 back to the bridge."<Close><End of Block>
 <TextBlock 49 w:44 h:4>
 Maison
@@ -275,7 +275,7 @@ going to happen
 to him...?"<Close><End of Block>
 <TextBlock 53 w:50 h:4>
 Sigurd
-"Young master!
+"Young Master!
 The Royal Capital's
 armies are returning!<New>
 WE were the ones who took
@@ -290,7 +290,7 @@ The more I see him, the
 more odious he gets.
 He's lost some hair, too.<Close><End of Block>
 <TextBlock 55 w:40 h:3>
-Young master!
+Young Master!
 Don't be discouraged
 by this!<Close><End of Block>
 <TextBlock 56 w:32 h:3>

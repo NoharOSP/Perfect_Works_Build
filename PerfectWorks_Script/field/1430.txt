@@ -82,7 +82,7 @@ later!
 Let's go Cherubina!"<Close><End of Block>
 <TextBlock 17 w:52 h:4>
 Cherubina
-"For the Commander's honor<Delay 20>
+"For the commander's honor<Delay 20>
 and the pride of the 
 Elements,<New>
 you need to be 

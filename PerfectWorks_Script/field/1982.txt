@@ -34,14 +34,14 @@ her, that's all. If you
 call that feeling sorry,
 then I suppose I don't
 mind.<New>
-The Captain teased me
+The captain teased me
 mercilessly. He said...<New>
  'What! A cold guy like
  you, seducing a widow?
  Just make sure the kid
  doesn't hate you...'<New>
 Ha, ha... I guess the
-Captain was right.
+captain was right.
 My stepson doesn't like
 me yet. 
 But I'm hoping someday..."<Close><End of Block>
@@ -67,7 +67,7 @@ Hans
 <TextBlock 9 w:48 h:4>
 Hans
 "I believe that one day,
-the Captain will come
+the captain will come
 down that stairway...<New>
 Tap-tap-tapping
 with his cane..."<Close><End of Block>
@@ -271,16 +271,16 @@ with the Tamuz<Delay 10>..."<Close><End of Block>
 <TextBlock 49 w:46 h:4>
 Bart
 "Wha...wait a minute.
-What about the Captain?
+What about the captain?
 He's okay, right?"<Close><End of Block>
 <TextBlock 50 w:44 h:4>
 Fei
 "What...? By the way,
-where is the Captain?
+where is the captain?
 What happened to him?"<Close><End of Block>
 <TextBlock 51 w:54 h:4>
 Hans
-"The Captain...<Delay 10>said...<Delay 10>he'd
+"The captain...<Delay 10>said...<Delay 10>he'd
 watch the end of the Tamuz<Delay 10>
 with his own eyes<Delay 10>..."<Close><End of Block>
 <TextBlock 52 w:52 h:4>
@@ -290,12 +290,12 @@ That ol' guy died...
 No way..."<Close><End of Block>
 <TextBlock 53 w:44 h:3>
 Fei
-"The Captain's dead...
+"The captain's dead...
 No, that can't be..."<Close><End of Block>
 <TextBlock 54 w:42 h:5>
 Hans
 "No!<Delay 20>
-The Captain is alive.
+The captain is alive.
 He is the kind that
 never keels over..."<Close><End of Block>
 <TextBlock 55 w:6 h:1>

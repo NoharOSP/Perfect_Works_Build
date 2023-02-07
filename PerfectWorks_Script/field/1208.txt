@@ -117,7 +117,7 @@ who can save us...<Delay 10>
 We're counting on you!"<Close><End of Block>
 <TextBlock 24 w:38 h:4>
 Margie
-"Young master...
+"Young Master...
 You better not die!<Delay 10>
 Promise me!!"<Close><End of Block>
 <TextBlock 25 w:50 h:4>
@@ -144,7 +144,7 @@ you're saying!?"<Close><End of Block>
 <TextBlock 28 w:40 h:4>
 Margie
 "Heh, just kiddin'!!
-Young master, you're
+Young Master, you're
 all panicked!!"<Close><End of Block>
 <TextBlock 29 w:6 h:1>
 ...<Close><End of Block>

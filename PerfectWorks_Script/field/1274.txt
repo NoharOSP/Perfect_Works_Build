@@ -1,7 +1,8 @@
-<TextBlock 1 w:50 h:3>
+<TextBlock 1 w:50 h:4>
 Billy
 "('Big brother', is it!?<Delay 10>
-Time to call for help.)"<Close><End of Block>
+I'll call for help with
+this.)"<Close><End of Block>
 <TextBlock 2 w:38 h:3>
 Mmrrgh<Delay 10>...<Delay 20>
 It's up to you now,<Delay 30>

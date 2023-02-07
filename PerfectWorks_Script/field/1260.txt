@@ -102,7 +102,7 @@ There's a string...
     Don't<Close><End of Block>
 <TextBlock 22 w:46 h:4>
 Sigurd
-"Young master!!<New>
+"Young Master!!<New>
 Yggdrasil's radar has
 picked up the shape of
 a huge ship!!"<Close><End of Block>
@@ -240,7 +240,7 @@ people.<New>
 It's bad form, boy."<Close><End of Block>
 <TextBlock 47 w:42 h:4>
 Sigurd
-"Young master,<New>
+"Young Master,<New>
 Jessie here was my
 supervisor when I was
 an Elements candidate

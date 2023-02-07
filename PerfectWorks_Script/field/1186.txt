@@ -1,6 +1,6 @@
 <TextBlock 1 w:54 h:4>
 Sigurd
-"Young master, according to
+"Young Master, according to
 Margie there's quite a
 troublemaker in Geburah."<Close><End of Block>
 <TextBlock 2 w:48 h:3>
@@ -29,7 +29,7 @@ Sigurd
 "If it was that alone,
 they wouldn't need to send
 an important man like him!<New>
-Young master, this could
+Young Master, this could
 become unexpectedly
 complicated..."<Close><End of Block>
 <TextBlock 6 w:36 h:3>
@@ -248,7 +248,7 @@ Why don't you go and
 see how she is, Fei?"<Close><End of Block>
 <TextBlock 38 w:50 h:4>
 Sigurd
-"Young master, where the
+"Young Master, where the
 heck did you go when we
 were so busy...?<New>
 An international goodwill
@@ -278,7 +278,7 @@ Would you mind telling the
 young master to come here?"<Close><End of Block>
 <TextBlock 43 w:50 h:4>
 Sigurd
-"Young master...
+"Young Master...
 You shouldn't play pranks
 in an unknown land!"<Close><End of Block>
 <TextBlock 44 w:52 h:3>
@@ -289,7 +289,7 @@ We have to appreciate
 people's good intentions."<Close><End of Block>
 <TextBlock 45 w:40 h:4>
 Sigurd
-"Young master...
+"Young Master...
 You should apologize
 to the two of them."<Close><End of Block>
 <TextBlock 46 w:42 h:4>
@@ -411,7 +411,7 @@ my hideout!"<Close><End of Block>
 If Sigurd passes away,
 I will...!<Close><End of Block>
 <TextBlock 67 w:42 h:3>
-Young master, would
+Young Master, would
 you let me steer once
 in a while, please!?<Close><End of Block>
 <TextBlock 68 w:42 h:3>
@@ -604,8 +604,8 @@ Oh, and I'd love a bigger
 torpedo tube, too...<Close><End of Block>
 <TextBlock 91 w:40 h:4>
 Vance
-"Oh, young master!<Delay 10>
-I...I'm not loafing
+"Oh, Young Master!<Delay 10>
+I<-->I'm not loafing
 on the job! Honest!"<Close><End of Block>
 <TextBlock 92 w:6 h:1>
 ...<Opcode 2 10><Close><End of Block>
@@ -797,7 +797,7 @@ Ha... Just kidding!<Close><End of Block>
 Our maps are not much
 of a help anymore...<Close><End of Block>
 <TextBlock 129 w:50 h:3>
-Young master, do you have
+Young Master, do you have
 any idea where we are?<Delay 10>
 It's not on my map!<Close><End of Block>
 <TextBlock 130 w:44 h:2>
@@ -992,7 +992,7 @@ Fei
 "No problem!<New>
 He's probably wining
 and dining with the
-Captain of the Tamuz!"<Close><End of Block>
+captain of the Tamuz!"<Close><End of Block>
 <TextBlock 164 w:60 h:3>
 I've detected a rescue signal!<Delay 10>
 It seems the Tamuz is being

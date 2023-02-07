@@ -15,7 +15,7 @@ Fei
 "What's wrong?"<Close><End of Block>
 <TextBlock 6 w:36 h:3>
 Citan
-"Young master was
+"Young Master was
 operating that..."<Close><End of Block>
 <TextBlock 7 w:46 h:4>
 Bart

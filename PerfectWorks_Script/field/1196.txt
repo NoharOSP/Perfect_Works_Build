@@ -79,7 +79,7 @@ now use water for cooling.<New>
 But because of that,
 there's more labor needed.<Close><End of Block>
 <TextBlock 17 w:50 h:3>
-Young master<Delay 5>...<Delay 10>doesn't
+Young Master<Delay 5>...<Delay 10>doesn't
 this place remind you of
 the day of that accident?<Close><End of Block>
 <TextBlock 18 w:52 h:3>
@@ -97,7 +97,7 @@ You failed...<Delay 10>
 Well, everyone has their
 ups and downs in life.<Close><End of Block>
 <TextBlock 20 w:52 h:3>
-Young master, forget about
+Young Master, forget about
 the past... What's more
 important is the future.<New>
 Today's battle isn't over
@@ -146,7 +146,7 @@ Nobody touches the machine
 here except myself.
 Even the young master!<Close><End of Block>
 <TextBlock 28 w:44 h:1>
-Uhh... Young master...<Close><End of Block>
+Uhh... Young Master...<Close><End of Block>
 <TextBlock 29 w:30 h:2>
 Whoa whoa!!
 That<Delay 10> was close!<Opcode 2 30><Close><End of Block>
@@ -172,7 +172,7 @@ Phew...
 It's somehow moving alright.
 Now, I've got to restore it.<Close><End of Block>
 <TextBlock 36 w:52 h:3>
-Young master<Delay 5>...<Delay 5>do you
+Young Master<Delay 5>...<Delay 5>do you
 think the sunken Yggdrasil
 is resting in peace now?<Close><End of Block>
 <TextBlock 37 w:54 h:3>
@@ -299,7 +299,7 @@ Sorry, but I really don't
 want to talk about it.<Delay 10>
 Please leave me alone...<Close><End of Block>
 <TextBlock 65 w:50 h:3>
-Oh, young master, you're
+Oh, Young Master, you're
 alright!<Delay 10> What's your plan
 from now on?<Close><End of Block>
 <TextBlock 66 w:40 h:3>

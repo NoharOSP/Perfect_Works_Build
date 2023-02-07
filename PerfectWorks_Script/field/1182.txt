@@ -108,7 +108,7 @@ What kind of spell
 was used on her?"<Close><End of Block>
 <TextBlock 19 w:42 h:3>
 Maison
-"Y-Young master!<Delay 10>
+"Y-Young Master!<Delay 10>
 I heard all about it.<New>
 International amity
 with the Tamuz!?<Delay 10>
@@ -219,7 +219,7 @@ Maison
 such service again!"<Close><End of Block>
 <TextBlock 34 w:56 h:22>
 Maison
-"<Opcode 1 2>Oh, young master...!
+"<Opcode 1 2>Oh, Young Master...!
 If the young master doesn't
 come here more often to
 receive an education fit for

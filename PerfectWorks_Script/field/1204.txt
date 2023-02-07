@@ -47,7 +47,7 @@ It looks like a fun place
 to be.<Delay 10> If I only
 didn't have this wound...<Close><End of Block>
 <TextBlock 13 w:52 h:4>
-Oh, young master!<Delay 5>
+Oh, Young Master!<Delay 5>
 I'm not trying to hide.<Delay 10>
 If only I didn't have this
 wound...<Close><End of Block>
@@ -132,7 +132,7 @@ soak yourself in sea
 water!<Delay 10> Come here right
 away.<Close><End of Block>
 <TextBlock 31 w:44 h:3>
-Oh, young master!<Delay 10>
+Oh, Young Master!<Delay 10>
 Could you increase the
 medical fees, please!?<Close><End of Block>
 <TextBlock 32 w:42 h:3>
@@ -234,7 +234,7 @@ Yes!<Close><End of Block>
 Uh, no...<Opcode 2 30><Close><End of Block>
 <TextBlock 53 w:52 h:3>
 Sigurd
-"Young master, the radar
+"Young Master, the radar
 has picked up a huge Gear!<New>
 It's headed right for us,
 and fast!"<Close><End of Block>

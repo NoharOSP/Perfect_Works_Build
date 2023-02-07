@@ -341,12 +341,12 @@ to Tamuz anytime.<New>
 There's always room at
 our dock for your ship."<Close><End of Block>
 <TextBlock 71 w:52 h:2>
-You talked to the Captain?<Delay 10>
+You talked to the captain?<Delay 10>
 He's nice and all, but...<Close><End of Block>
 <TextBlock 72 w:52 h:3>
 Hans
 "The one wandering around
-over there's the Captain."<Close><End of Block>
+over there's the captain."<Close><End of Block>
 <TextBlock 73 w:50 h:3>
 Hans
 "Looks like there's gonna

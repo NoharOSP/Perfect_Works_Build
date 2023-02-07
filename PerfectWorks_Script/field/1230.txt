@@ -139,7 +139,7 @@ in the sky..."<Close><End of Block>
 Bart
 "Anyway, moving on,
 we should go say ahoy
-to the Captain."<Close><End of Block>
+to the captain."<Close><End of Block>
 <TextBlock 23 w:20 h:2>
 Fei
 "...Yeah."<Close><Close><End of Block>

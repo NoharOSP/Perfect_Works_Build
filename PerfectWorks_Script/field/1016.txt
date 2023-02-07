@@ -72,7 +72,7 @@ please reorganize.<Close><End of Block>
 <TextBlock 15 w:42 h:3>
 Th-Thank you! Then<Delay 5>
 I'll get right to it,
-master, if I may!<Close><End of Block>
+Master, if I may!<Close><End of Block>
 <TextBlock 16 w:44 h:4>
 I heard there was a
 title match.<Delay 15> Man, I

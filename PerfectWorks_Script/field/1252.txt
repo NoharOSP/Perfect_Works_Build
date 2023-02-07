@@ -39,9 +39,9 @@ doing?<Close><End of Block>
 Dominia
 "I'll sink it, of course.
 She will never trouble the
-Commander again."<Close><End of Block>
+commander again."<Close><End of Block>
 <TextBlock 9 w:52 h:4>
-Wait! The Commander's
+Wait! The commander's
 orders were to investigate
 the disappearance of that
 flying battleship.<New>

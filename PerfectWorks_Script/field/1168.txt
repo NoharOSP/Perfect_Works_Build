@@ -1,15 +1,15 @@
-<TextBlock 1 w:46 h:4>
+<TextBlock 1 w:44 h:4>
 Citan
 "I see...<New>
-So your 'young one' has
-not just been shooting
-at anything and every-
-thing then, Sigurd."<Close><End of Block>
+This 'Young Master' of
+yours is not just
+opening fire on things
+at random, Sigurd."<Close><End of Block>
 <TextBlock 2 w:42 h:4>
 Citan
-"So, what happened to
-this 'young one' you
-call 'master'?"<Close><End of Block>
+"So, what has become 
+of the all-important
+'Young Master'?"<Close><End of Block>
 <TextBlock 3 w:36 h:4>
 Citan
 "You certainly

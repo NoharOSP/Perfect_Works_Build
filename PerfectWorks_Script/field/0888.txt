@@ -1,6 +1,6 @@
 <TextBlock 1 w:36 h:4>
 Maison
-"Oh, young master!
+"Oh, Young Master!
 You still haven't
 rested yet?" <Close><End of Block>
 <TextBlock 2 w:42 h:4>
@@ -16,7 +16,7 @@ Bart
 "Where was Sigurd born?"<Close><End of Block>
 <TextBlock 5 w:46 h:2>
 Maison
-"Young master, that..."<Close><End of Block>
+"Young Master, that..."<Close><End of Block>
 <TextBlock 6 w:48 h:3>
 Bart
 "He has blue eyes...
@@ -25,18 +25,18 @@ it's the Fatima Jasper."<Close><End of Block>
 Maison
 "...Well...<Delay 50>
 It was long ago.<New>
-His Majesty was in 
-love with a girl 
-named Shalimar from 
-the Norn province,<New> 
-in east Av. The 
-people of Norn were 
-quite different from 
+His Majesty was in
+love with a girl
+named Shalimar from
+the Norn province,<New>
+in east Av. The
+people of Norn were
+quite different from
 Av and Kislev,<New>
-but she was very 
-beautiful. Then... 
-she just disappeared.<New> 
-Later there were 
+but she was very
+beautiful. Then...
+she just disappeared.<New>
+Later there were
 rumors of her
 having a child."<Close><End of Block>
 <TextBlock 8 w:48 h:3>

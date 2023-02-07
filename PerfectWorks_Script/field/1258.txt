@@ -29,7 +29,7 @@ here.<New>
 If you're a good boy
 you can go sometime."<Close><End of Block>
 <TextBlock 12 w:44 h:3>
-I, <Delay 5>if, <Delay 5> I'm not a 
+I, <Delay 5>if, <Delay 5> I'm not a
 good boy I can't go...<Delay 10>
 Waahhh!!<Close><End of Block>
 <TextBlock 13 w:40 h:2>
@@ -48,33 +48,32 @@ old man, Henry Mingas, said<New>
 he was taken by the saucer
 and his body was altered.<New>
 Well, no one believed him,
-but afterward it's said<New> 
-he had amazing knowledge 
-and skills he never had 
+but afterward it's said<New>
+he had amazing knowledge
+and skills he never had
 before.<New>
 Then 10 years ago, strange
 circle shaped marks were
 found in many places.
 You must've heard about it.<New>
 No? Well anyway, they were
-called mystery circles.<New> 
-So this guy spread rumors 
-that they were saucer 
-landing sites,<New> 
+called mystery circles.<New>
+So this guy spread rumors
+that they were saucer
+landing sites,<New>
 and when others
 began to disappear, there
-was even more talk.<New> 
-But there were other 
-things than the saucer 
-landing site explanation,<New> 
+was even more talk.<New>
+But there were other
+things than the saucer
+landing site explanation,<New>
 such as the
 Naughty Stories, Dragon
 Scrolls, or Plasma Legend.
 So there was no real proof.<New>
 But real disappearances
 did happen.<New>
-<Opcode 1 0>
-Oh, I forgot to mention,
+<Opcode 1 0>Oh, I forgot to mention,
 the saucer was called
 'Shevat'.<New>
 There are even people
@@ -88,7 +87,7 @@ me want to tell you
 even more... Awww.<Close><End of Block>
 <TextBlock 18 w:42 h:3>
 You want Billy?<Delay 10>
-You should go to the 
+You should go to the
 Church's headquarters.<Close><End of Block>
 <TextBlock 19 w:12 h:1>
 Yeah!!<Opcode 2 30><Close><End of Block>
@@ -145,15 +144,15 @@ If there is I want to
 inhale till I'm full.<Close><End of Block>
 <TextBlock 35 w:42 h:3>
 You want Billy?<Delay 10>
-You should go to the 
+You should go to the
 Church's headquarters.<Close><End of Block>
 <TextBlock 36 w:8 h:1>
 GO!!<Opcode 2 30><Close><End of Block>
 <TextBlock 37 w:36 h:2>
-Thanks! 
+Thanks!
 That's a big help!<Close><End of Block>
 <TextBlock 38 w:36 h:2>
-Thanks!<Delay 10> 
+Thanks!<Delay 10>
 I'll pay you back!<Close><End of Block>
 <TextBlock 39 w:38 h:1>
 Received Tag Badge.<Close><End of Block>
@@ -411,22 +410,22 @@ we're en route..."<Close><End of Block>
 <TextBlock 95 w:38 h:1>
 Billy's signal...!!<Close><End of Block>
 <TextBlock 96 w:30 h:2>
-Hey everyone!! 
+Hey everyone!!
 It's shift G!!<Close><End of Block>
 <TextBlock 97 w:46 h:3>
 Wind direction, check!!
 Target coordinates
 X1020, Z303!<Close><End of Block>
 <TextBlock 98 w:34 h:2>
-Roger!!<Delay 10> 
+Roger!!<Delay 10>
 Engage autopilot!<Close><End of Block>
 <TextBlock 99 w:20 h:2>
-Catapult, 
+Catapult,
 ready!!<Close><End of Block>
 <TextBlock 100 w:24 h:1>
 Push,<Delay 10> pull!!<Close><End of Block>
 <TextBlock 101 w:26 h:2>
-Renmazuo,<Delay 10>
+<Renmazuo>,<Delay 10>
 standing by!!<Close><End of Block>
 <TextBlock 102 w:12 h:1>
 Ready?<Close><End of Block>
