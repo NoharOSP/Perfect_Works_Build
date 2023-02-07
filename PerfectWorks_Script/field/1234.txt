@@ -101,9 +101,9 @@ Captain
 <TextBlock 26 w:10 h:1>
 I am!<Close><End of Block>
 <TextBlock 27 w:12 h:1>
-a man!<Close><End of Block>
+A man!<Close><End of Block>
 <TextBlock 28 w:22 h:1>
-of the sea!<Close><End of Block>
+Of the sea!<Close><End of Block>
 <TextBlock 29 w:26 h:2>
 Captain
 "Gahahaha..."<Close><End of Block>
@@ -408,7 +408,7 @@ tower a long time ago. It
 was called Babel Tower.<New>
 Even I can't see the top of
 it, and my eyes are good!<New>
-They say the Reapers called
+They say the undead called
 Wels come from there.<Close><End of Block>
 <TextBlock 84 w:44 h:3>
 I was surprised by the
@@ -417,10 +417,9 @@ came from Babel Tower.<Close><End of Block>
 <TextBlock 85 w:32 h:2>
 Huh?<Delay 10> Isn't this
 the beer hall?<Close><End of Block>
-<TextBlock 86 w:26 h:3>
+<TextBlock 86 w:26 h:2>
 Huh?
-Wels?
-Where's Wels?<Close><End of Block>
+Wels? Where?<Close><End of Block>
 <TextBlock 87 w:6 h:1>
 ...<Opcode 2 100><Close><End of Block>
 <TextBlock 88 w:22 h:3>
@@ -850,11 +849,11 @@ Why do they have to
 attack us? We only
 came to help with
 excavations..."<Close><End of Block>
-<TextBlock 173 w:52 h:4>
-C, captain, Wels Reapers!
-Reapers are coming out of
-that fishbowl thing in the
-dozens!<Close><End of Block>
+<TextBlock 173 w:46 h:4>
+C-Captain!<Delay 5> Wels!<Delay 5>
+Wels are coming out of
+that fishbowl thing in
+their dozens!<Close><End of Block>
 <TextBlock 174 w:16 h:2>
 Captain
 "What!?"<Close><End of Block>

@@ -1,14 +1,14 @@
 <TextBlock 1 w:54 h:4>
 Billy
 "What's going on<Delay 5>...<Delay 5><New>
-The Etone are in charge
+The Etones are in charge
 of the Church's military
 but they've been killed
 without signs of struggle."<Close><End of Block>
 <TextBlock 2 w:54 h:3>
-Reapers are humans turned
-into things by god to pay
-for their crimes.<Delay 15><New>
+Wels are humans turned into
+things by God to pay for
+their sins.<New>
 They're sealed in the
 cursed land of the heavens,
 Shevat.<Close><End of Block>
@@ -31,19 +31,19 @@ They say Babel Tower is
 connected to Shevat. The 
 exit is under close watch 
 by our people.<New>
-In spite of that, 
-cursed Reapers continue to 
-appear in this land.<Delay 15><New>
-That's why the Etone are 
+In spite of that, those
+accursed Wels continue to 
+appear in this land.<New>
+That's why the Etones are 
 here to eliminate them.<Close><End of Block>
 <TextBlock 6 w:50 h:3>
-We, the Etone, are the
+We, the Etones, are the
 swords and shields of the
-Church so to speak.<New>
+Church, so to speak.<New>
 We fight with enemies
-such as Reapers<New>
-and thieves to save 
-people with faith in god.<Close><End of Block>
+such as Wels and thieves,<New>
+to save people with faith
+in God.<Close><End of Block>
 <TextBlock 7 w:44 h:3>
 Billy! Does your dad
 hold a grudge against
@@ -62,9 +62,9 @@ Oh, my head hurts.<Close><End of Block>
 <TextBlock 9 w:50 h:6>
 Plundered by war and
 salvagers... Destruction
-by the Reapers...<Delay 10>
+by the Wels...<Delay 10>
 We must meet the people's
-expectations toward the 
+expectations toward the
 Church.<Close><End of Block>
 <TextBlock 10 w:44 h:4>
 Why does Jessie attack

@@ -104,7 +104,7 @@ in there, but you can't
 go inside.<Delay 10><New>
 Some kind of haunted
 house?<Delay 10>
-...*shiver*...<Close><End of Block>
+...*Shiver*...<Close><End of Block>
 <TextBlock 23 w:42 h:2>
 Billy says don't talk
 to strangers...<Close><End of Block>
@@ -281,11 +281,10 @@ is not responding..."<Close><End of Block>
 <TextBlock 75 w:40 h:2>
 Billy
 "Are you saying...?"<Close><End of Block>
-<TextBlock 76 w:44 h:4>
+<TextBlock 76 w:46 h:3>
 Bishop Stone
 "Yes,<Delay 10> I'm afraid it's
-most likely Reapers
-again.<New>
+most likely Wels again.<New>
 Billy, can I ask you
 to do the usual?"<Close><End of Block>
 <TextBlock 77 w:48 h:4>
@@ -414,24 +413,24 @@ Billy's signal...!!<Close><End of Block>
 <TextBlock 96 w:30 h:2>
 Hey everyone!! 
 It's shift G!!<Close><End of Block>
-<TextBlock 97 w:42 h:3>
-Wind direction, OK!! 
-Target coordinates -
+<TextBlock 97 w:46 h:3>
+Wind direction, check!!
+Target coordinates
 X1020, Z303!<Close><End of Block>
-<TextBlock 98 w:36 h:2>
+<TextBlock 98 w:34 h:2>
 Roger!!<Delay 10> 
-Engage auto pilot!<Close><End of Block>
+Engage autopilot!<Close><End of Block>
 <TextBlock 99 w:20 h:2>
 Catapult, 
 ready!!<Close><End of Block>
 <TextBlock 100 w:24 h:1>
 Push,<Delay 10> pull!!<Close><End of Block>
-<TextBlock 101 w:16 h:2>
-Standby <Delay 10>
-OK!!<Close><End of Block>
+<TextBlock 101 w:26 h:2>
+Renmazuo,<Delay 10>
+standing by!!<Close><End of Block>
 <TextBlock 102 w:12 h:1>
 Ready?<Close><End of Block>
-<TextBlock 103 w:26 h:1>
+<TextBlock 103 w:24 h:1>
 Go get 'em!!<Close><End of Block>
 <TextBlock 104 w:50 h:1>
 Today's launch was so-so.<Close><End of Block>

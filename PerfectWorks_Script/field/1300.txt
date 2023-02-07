@@ -5,7 +5,7 @@ Are these guys in black
 gonna kill all of us who
 are with the Church?<Close><End of Block>
 <TextBlock 2 w:52 h:2>
-You're Etone!<New>
+You're an Etone!<New>
 All that awaits those with
 the Church<Delay 30> is death!!<Close><End of Block>
 <TextBlock 3 w:34 h:2>

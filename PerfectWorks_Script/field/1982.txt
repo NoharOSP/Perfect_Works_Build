@@ -21,7 +21,7 @@ Hans
 "Her name is Anna. She's
 my wife. She was saved by
 the Tamuz when the ships
-were attacked by Reapers.<New>
+were attacked by Wels.<New>
 Unfortunately, that's when
 she lost her husband<Delay 10>...
 Don't misunderstand me.<New>
@@ -259,11 +259,10 @@ But if you're here that
 means the Tamuz was..."<Close><End of Block>
 <TextBlock 48 w:50 h:4>
 Hans
-"The Tamuz<Delay 10>...<Delay 10>
-sank.
+"The Tamuz<Delay 10>...<Delay 10>sank.
 The 'Angels' attacked...<New>
 The Tamuz withstood the
-onslaught of Reapers, but
+onslaught of Wels, but
 was defenseless against
 those 'Angels'<Delay 10>...<New>
 Hardly anyone got out in

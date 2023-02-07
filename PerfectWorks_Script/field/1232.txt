@@ -58,7 +58,7 @@ any further than this bed.<Close><End of Block>
 <TextBlock 12 w:54 h:5>
 Anna
 "My husband was eaten by
-that Reaper thing...
+that Wels thing...
 We three were the only ones
 saved. What do we do now?"<Close><End of Block>
 <TextBlock 13 w:42 h:3>
@@ -148,15 +148,17 @@ Bart
 "What's the
 deal with these
 'Etones'?"<Close><End of Block>
-<TextBlock 31 w:54 h:5>
+<TextBlock 31 w:52 h:4>
 Doctor
 "They are people from the
-Church who are appointed to
-purge the Reapers that
+Church who are appointed
+to purge the 'Wels' <--><New>
+terrible revenants that
 appear here in Aquvy."<Close><End of Block>
-<TextBlock 32 w:54 h:2>
+<TextBlock 32 w:36 h:3>
 Elly
-"So why don't we ask them?"<Close><End of Block>
+"So why don't we
+ask this Etone?"<Close><End of Block>
 <TextBlock 33 w:54 h:4>
 Doctor
 "We can ask...<New>

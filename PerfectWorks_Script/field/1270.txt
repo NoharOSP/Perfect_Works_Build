@@ -35,21 +35,23 @@ didn't last long...<Close><End of Block>
 <TextBlock 7 w:50 h:4>
 When I was 12, the house
 was suddenly attacked by
-a group of Reapers,
-and Mom was killed.<New>
+a group of Wels, and Mom
+was killed.<New>
 They wanted to know Dad's
 whereabouts, but Mom
 wouldn't talk.<Close><End of Block>
-<TextBlock 8 w:56 h:3>
-I can still hear it...<New>
+<TextBlock 8 w:54 h:3>
+I can still hear it...<Delay 20>
 The sound of the bullets
-fired at Mom... Three shots
-slowly ringing out...<New>
+Mom fired in retaliation...<New>
+Three shots slowly
+ringing out...<New>
 I even remember the sound
 of the empty shells
 hitting the floor.<New>
-Then the Reapers cried out,<Delay 10>
-and I heard someone fall.<Close><End of Block>
+But then the Wels
+cried out,<Delay 10> and I
+heard someone fall.<Close><End of Block>
 <TextBlock 9 w:48 h:3>
 It was Bishop Stone who
 rescued us that day.<New>
@@ -59,11 +61,11 @@ that meeting onwards.<Close><End of Block>
 <TextBlock 10 w:46 h:3>
 Bart
 "Hey, hey, wait a sec.<Delay 10> 
-Do Reapers talk?"<Close><End of Block>
+Do Wels talk?"<Close><End of Block>
 <TextBlock 11 w:46 h:4>
 Citan
 "Please wait a moment.<Delay 10> 
-Reapers can speak in a
+Wels can speak in a
 human language?"<Close><End of Block>
 <TextBlock 12 w:52 h:3>
 Billy

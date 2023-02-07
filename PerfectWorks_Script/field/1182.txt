@@ -68,11 +68,11 @@ for your safety."<Close><End of Block>
 Maison
 "...
 I have nothing to look
-back on that I regret!"<Close><End of Block>
+back on with regret!"<Close><End of Block>
 <TextBlock 12 w:42 h:3>
 Maison
 "My, hasn't it gotten
-lively around here."<Close><End of Block>
+lively around here!"<Close><End of Block>
 <TextBlock 13 w:44 h:2>
 Maison
 "Do be careful now..."<Close><End of Block>
@@ -80,7 +80,7 @@ Maison
 Maison
 "Master Billy is
 waiting for you
-over yonder..."<Close><End of Block>
+over there..."<Close><End of Block>
 <TextBlock 15 w:48 h:4>
 Maison
 "A mature yet modern
@@ -771,21 +771,21 @@ Well, since our job is
 rather unusual, I'll tell
 you about that too as I
 explain..."<Close><End of Block>
-<TextBlock 111 w:38 h:4>
+<TextBlock 111 w:34 h:4>
 Bart
 "...<Delay 10>
 Looks like we've
-made it already..."<Close><End of Block>
+arrived..."<Close><End of Block>
 <TextBlock 112 w:32 h:4>
 Citan
 "...<Delay 10>
 It looks like we
 have arrived..."<Close><End of Block>
-<TextBlock 113 w:52 h:4>
+<TextBlock 113 w:48 h:4>
 Billy
-"Can it be...?<Delay 10>
-The transport ship's being
-attacked by Reapers..."<Close><End of Block>
+"It's possible the
+transport ship is<Delay 10> under
+attack by Wels..."<Close><End of Block>
 <TextBlock 114 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 115 w:6 h:1>
@@ -882,8 +882,8 @@ In order to proceed with
 the plan, many Lambs were
 gathered by the Church,
 to become guinea pigs.<New>
-Or, should I say, to become
-Reapers or Wels..."<Close><End of Block>
+Or I should say, to become
+Wels..."<Close><End of Block>
 <TextBlock 129 w:54 h:4>
 Jessie
 "Since I was disgusted with

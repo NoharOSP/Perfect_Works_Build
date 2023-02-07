@@ -158,7 +158,7 @@ be able to tell at
 first glance, Sigurd,<New>
 but this man was at one
 time our mentor..."<Close><End of Block>
-<TextBlock 33 w:50 h:3>
+<TextBlock 33 w:46 h:3>
 Citan
 "Ah...<Delay 10> You may not
 be able to tell at

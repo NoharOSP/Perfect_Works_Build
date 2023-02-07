@@ -996,7 +996,7 @@ Captain of the Tamuz!"<Close><End of Block>
 <TextBlock 164 w:60 h:3>
 I've detected a rescue signal!<Delay 10>
 It seems the Tamuz is being
-attacked by a pack of Reapers!<Close><End of Block>
+attacked by a swarm of Wels!<Close><End of Block>
 <TextBlock 165 w:46 h:4>
 Bart
 "So this is the purging
@@ -1011,12 +1011,12 @@ was talking about!?"<Close><End of Block>
 Citan
 "Let us make haste!<Delay 10>
 Otherwise the Tamuz will
-be destroyed by Reapers!"<Close><End of Block>
+be destroyed by Wels!"<Close><End of Block>
 <TextBlock 168 w:50 h:4>
 Citan
 "Let us make haste!<Delay 10>
 Otherwise the Tamuz will
-be destroyed by Reapers!"<Close><End of Block>
+be destroyed by Wels!"<Close><End of Block>
 <TextBlock 169 w:50 h:4>
 Jessie
 "What about the Church?
@@ -1169,18 +1169,18 @@ done it without you..."<Close><End of Block>
 Bart
 "Is your job always this
 dangerous?<New>
-Hah, I never thought you
-would call a Gear!?<Delay 10>
-But, what in hell is the
-Church thinking anyway?"<Close><End of Block>
+Hah, who'd have thought
+you'd call a Gear!?<New>
+But what in hell is the
+Church thinking, anyway?"<Close><End of Block>
 <TextBlock 192 w:52 h:4>
 Bart
 "Is your job always this
 dangerous?<New>
-Hah, I never thought you
-would call a Gear!?<Delay 10>
-But, what in hell is the
-Church thinking anyway?"<Close><End of Block>
+Hah, who'd have thought
+you'd call a Gear!?<New>
+But what in hell is the
+Church thinking, anyway?"<Close><End of Block>
 <TextBlock 193 w:42 h:4>
 Billy
 "!!<Delay 10> ...<Delay 5>We Etones
@@ -1188,41 +1188,37 @@ are merely fulfilling
 our divine mission!"<Close><End of Block>
 <TextBlock 194 w:52 h:4>
 Bart
-"Sorry...<Delay 10> It was wrong of
-me to say that.<Delay 10> Don't take
-it so seriously!<New>
+"Sorry...<Delay 10> It was wrong
+of me to say that.<Delay 10>
+Don't get so worked up!<New>
 So, you're going to report
 back to the Church about
 your job's results, right?<New>
-Well, if you like we shall
-give you a ride to the
-Church HQ...<Delay 10>
-It's on our way."<Close><End of Block>
+If you like, we'll give
+you a ride to the Church
+HQ...<Delay 10> It's on our way."<Close><End of Block>
 <TextBlock 195 w:52 h:4>
 Bart
-"Sorry...<Delay 10> It was wrong of
-me to say that.<Delay 10> Don't take
-it so seriously!<New>
+"Sorry...<Delay 10> It was wrong
+of me to say that.<Delay 10>
+Don't get so worked up!<New>
 So, you're going to report
 back to the Church about
 your job's results, right?<New>
-Well, if you like we shall
-give you a ride to the
-Church HQ...<Delay 10>
-It's on our way."<Close><End of Block>
+If you like, we'll give
+you a ride to the Church
+HQ...<Delay 10> It's on our way."<Close><End of Block>
 <TextBlock 196 w:42 h:4>
 Billy
 "That would be great,
 so long as it doesn't
 put you out...<New>
-I have something to
-give you as a sign of
-my gratitude.<New>
-So please accompany
-me into the Church
-of the Ethos
-headquarters.<New>
-Let's go..."<Close><End of Block>
+There is also the
+matter of properly
+thanking you all,<New>
+so let's head
+for the Church
+headquarters."<Close><End of Block>
 <TextBlock 197 w:52 h:4>
 Citan
 "'Ahnenerbe'...<New>
