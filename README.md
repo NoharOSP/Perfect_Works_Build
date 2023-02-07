@@ -559,10 +559,15 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 
 #### Chapter names:
 
-- Path to Av > Path to Aveh
-- Operation Av > Operation Aveh
-- Recapture Av > Recapture Aveh
-- Merkabah Calls > Merkava Calls
+- Path to Aveh > Path to Av
+- Operation Aveh > Operation Av
+- Road to Nisan > Route to Nisan
+- Recapture Aveh > Recapture Av
+- Friends Again > Reunion
+- Reapers' Ship > Wels' Ship
+- Gate 1 Margie > Gate 1 Nisan
+- Krelian's Lab > Karellen's Lab
+- Merkava Calls > Merkabah Calls
 
 #### Music changes:
 
