@@ -11,14 +11,14 @@ errh,<Delay 5> really,<Delay 5> errh<Delay 5>..."<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Citan
 "Oh, is that it?
-I guess it could not be
-helped...<New>
-But, jumping the gun is
-your bad habit.<Delay 10>
+I guess what is done
+is done...<New>
+But jumping the gun is a
+bad habit of yours.<Delay 10>
 A king should always keep
 calm and judge carefully!"<Close><End of Block>
-<TextBlock 4 w:58 h:1>
-(Maison says the same thing.)<Close><End of Block>
+<TextBlock 4 w:62 h:1>
+"(Maison says the same thing.)"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Bart
 "Yeah, I know, I know!<Delay 10>
@@ -37,75 +37,76 @@ as the Yggdrasil.<New>
 Years ago, my old man told
 me it was scrapped because
 the peace talks with Kislev
-made progress.<New>
-So I knew it existed..."<Close><End of Block>
+had made progress.<New>
+So I knew of its
+existence..."<Close><End of Block>
 <TextBlock 8 w:30 h:4>
 Citan
-"Hmm.<Delay 10>
-Then, what is
+"Yes.<Delay 10>
+Then what is
 bothering you?"<Close><End of Block>
 <TextBlock 9 w:52 h:4>
 Bart
 "The symbol on the ship...<Delay 10>
-It's not our Royal Crest!<Delay 10>
+It's not our royal crest!<Delay 10>
 Look at this."<Close><End of Block>
 <TextBlock 10 w:24 h:2>
 Citan
 "This is..."<Close><End of Block>
-<TextBlock 11 w:46 h:3>
+<TextBlock 11 w:42 h:3>
 Bart
-"I thought you knew it.<Delay 10>
-Whose crest is it?"<Close><End of Block>
+"I thought you would
+know it.<Delay 10> Whose crest
+is it?"<Close><End of Block>
 <TextBlock 12 w:48 h:3>
 Citan
 "I am not positive but
 it looks like Shevat's."<Close><End of Block>
-<TextBlock 13 w:36 h:3>
+<TextBlock 13 w:32 h:3>
 Bart
 "Shevat?<Delay 10>
-What do you mean?"<Close><End of Block>
+What the heck?"<Close><End of Block>
 <TextBlock 14 w:50 h:4>
 Citan
-"The Yggdrasil may not
-have been made by your
-father.<New>
-At that time, much of the
-potential technology was
-not understood and hence,<Delay 10>
-was hidden.<New>
-Maybe your father might
-have been scared of its
-power and so sealed it
-away."<Close><End of Block>
+"This Yggdrasil was
+probably not made by
+your father.<New>
+It has hidden potential
+that would be unfathom-
+able by the technological
+standards of that time.<New>
+Perhaps your father
+feared that power and
+so<Delay 10> sealed it away."<Close><End of Block>
 <TextBlock 15 w:50 h:4>
 Bart
 "Hmm, I see.<Delay 10>
 So this may not have been
-ours from the start.<New>
+ours originally.<New>
 If so, I wanna meet
 the guys who made this
 amazing baby."<Close><End of Block>
 <TextBlock 16 w:40 h:4>
 Citan
 "Actually, they may
-be closer to you
-than you suspect..."<Close><End of Block>
+be closer than you
+suspect..."<Close><End of Block>
 <TextBlock 17 w:36 h:3>
 Bart
 "Huh?<Delay 5>
 What did you say?"<Close><End of Block>
 <TextBlock 18 w:42 h:4>
 Citan
-"Nothing...I was just
-wondering if Fei and
-Elly are alright."<Close><End of Block>
+"Nothing... I was
+just wondering if Fei
+and Elly are okay."<Close><End of Block>
 <TextBlock 19 w:44 h:3>
 Bart
 "...<Delay 10>
 Sorry, it's my fault."<Close><End of Block>
 <TextBlock 20 w:50 h:3>
 Citan
-"N, no,<Delay 10>
+"N-No,<Delay 10>
 I did not mean to...<New>
 I am sure<Delay 10> they are fine."<Close><End of Block>
 <TextBlock 21 w:54 h:4>
@@ -119,11 +120,11 @@ teeth to make me feel less
 worried..."<Close><End of Block>
 <TextBlock 22 w:54 h:4>
 Citan
-"Anyway, enough worrying...<Delay 10>
-But I do think you should
+"No, it was nothing...<Delay 10>
+Now, I do think you should
 apologize to Rico.<New>
 You may get more than a
-bruise this time though."<Close><End of Block>
+bruise this time, though."<Close><End of Block>
 <TextBlock 23 w:14 h:2>
 Bart
 "Yeah."<Close><End of Block>

@@ -252,7 +252,7 @@ Alternate firing between
 Anton and Bertha!<Delay 16>
 Calculating adjustments!<Close><End of Block>
 <TextBlock 53 w:52 h:3>
-Young master!
+Young Master!
 I'm detecting an increase
 in the use of F band!<New>
 That's the Royal Capital
@@ -281,39 +281,39 @@ able to stand the friction!!<Close><End of Block>
 <TextBlock 57 w:24 h:1>
 First Mate!!<Close><End of Block>
 <TextBlock 58 w:36 h:4>
-Y-Young master!<Delay 16>
+Y-Young Master!<Delay 16>
 What is happening?
 What was the alarm
 all about...?<Close><End of Block>
 <TextBlock 59 w:34 h:1>
-Y-Young master!!<Opcode 2 96><Close><End of Block>
+Y-Young Master!!<Opcode 2 96><Close><End of Block>
 <TextBlock 60 w:48 h:3>
 Maison
-"Y-Young master!
+"Y-Young Master!
 The Gungnir missiles...<New>
 You need permission from
-more than a half of the
+more than half of the
 crew members to<-->"<Opcode 2 120><Close><End of Block>
 <TextBlock 61 w:36 h:3>
 Maison
-"Y-Young master!<Delay 16>
+"Y-Young Master!<Delay 16>
 What is happening?<New>
 What was the alarm
 all about...?"<Close><End of Block>
 <TextBlock 62 w:52 h:4>
-Young master, please wait!
+Young Master, please wait!
 It may just be a
 requisitioned ship,
 not a warship...<Close><End of Block>
 <TextBlock 63 w:42 h:3>
 Maison
-"Y-Young master!<New>
+"Y-Young Master!<New>
 I have an awfully bad
 feeling about this<Delay 5>...<Delay 10>
 Do be very careful!"<Close><End of Block>
 <TextBlock 64 w:52 h:4>
 Maison
-"Y-Yes...young master...<New>
+"Y-Yes...Young Master...<New>
 I hear when they attacked
 they were routed by
 Geburah, led by Ramsus.<New>
@@ -321,16 +321,16 @@ We'd better withdraw for
 now and reconsider..."<Close><End of Block>
 <TextBlock 65 w:34 h:2>
 Maison
-"Young master..."<Close><End of Block>
+"Young Master..."<Close><End of Block>
 <TextBlock 66 w:34 h:3>
 Not again...?
-Young master!
+Young Master!
 Hold on a second!<Close><End of Block>
 <TextBlock 67 w:28 h:1>
-Young master!!<Opcode 2 96><Close><End of Block>
+Young Master!!<Opcode 2 96><Close><End of Block>
 <TextBlock 68 w:48 h:2>
 Sigurd
-"Young master! Again!!?"<Close><End of Block>
+"Young Master! Again!!?"<Close><End of Block>
 <TextBlock 69 w:28 h:3>
 Sigurd
 "...He never
@@ -345,16 +345,16 @@ and confirm what it is?"<Close><End of Block>
 <TextBlock 71 w:28 h:3>
 Sigurd
 "It's useless!
-Young master!"<Close><End of Block>
+Young Master!"<Close><End of Block>
 <TextBlock 72 w:36 h:2>
 Sigurd
-"Young master...?"<Close><End of Block>
+"Young Master...?"<Close><End of Block>
 <TextBlock 73 w:14 h:2>
 Sigurd
 "Carl!"<Close><End of Block>
 <TextBlock 74 w:34 h:2>
 Sigurd
-"Young master!!!"<Opcode 2 32><Close><End of Block>
+"Young Master!!!"<Opcode 2 32><Close><End of Block>
 <TextBlock 75 w:46 h:4>
 Sigurd
 "Engine, ready for full

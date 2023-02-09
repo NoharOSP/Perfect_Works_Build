@@ -1,50 +1,61 @@
-<TextBlock 1 w:52 h:4>
+<TextBlock 1 w:50 h:4>
 Billy
-"Sorry. When I'm finished 
-I'll come, so go ahead 
-and get on board. <New>
-I'll tell you more on 
-the way there..."<Close><End of Block>
+"Thank you.<New>
+I'll pay you a visit as
+soon as I've made the job
+preparations, so please
+go on ahead and board.<New>
+I'll give you the full
+details of the job once
+we're en route..."<Close><End of Block>
 <TextBlock 2 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
-<TextBlock 3 w:38 h:2>
+<TextBlock 3 w:34 h:3>
 Billy
-"What do you need?"<Close><End of Block>
-<TextBlock 4 w:52 h:3>
+"Can I help you
+with something?"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
 Billy
-"Excuse me, I must go and 
-greet some people.<New>
-Please don't go searching 
-through other's rooms."<Close><End of Block>
-<TextBlock 5 w:52 h:4>
+"You'll have to excuse
+me, but there's someone
+I must go and greet.<New>
+Please don't keep
+searching through
+other people's rooms
+like this."<Close><End of Block>
+<TextBlock 5 w:44 h:4>
 Billy
-"What are you doing!?<Delay 10> 
-Please don't go searching 
-through other's rooms."<Close><End of Block>
-<TextBlock 6 w:40 h:1>
-Room for 3 plates...<Close><End of Block>
-<TextBlock 7 w:40 h:1>
-Room for 3 plates...<Close><End of Block>
+"What are you doing!?<New>
+Please don't keep
+searching through
+other people's rooms
+like this."<Close><End of Block>
+<TextBlock 6 w:40 h:2>
+There's a space for
+about three books...<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+There's a space for
+about three books...<Close><End of Block>
 <TextBlock 8 w:34 h:3>
 Fei
-"Put in the book 
-We got."<Close><End of Block>
+"Put in the books
+we got."<Close><End of Block>
 <TextBlock 9 w:34 h:3>
 Elly
-"Put in the book 
-We received."<Close><End of Block>
+"Put in the books
+we received."<Close><End of Block>
 <TextBlock 10 w:34 h:3>
 Citan
-"Put in the book 
-We received."<Close><End of Block>
+"Put in the books
+we received."<Close><End of Block>
 <TextBlock 11 w:34 h:3>
 Bart
-"Put in the book 
-We got."<Close><End of Block>
+"Put in the books
+we got."<Close><End of Block>
 <TextBlock 12 w:34 h:3>
 Rico
-"Put in the book 
-We got."<Close><End of Block>
+"Put in the books
+we got."<Close><End of Block>
 <TextBlock 13 w:34 h:3>
 Billy
 "This is the room
@@ -57,12 +68,12 @@ You have too many
  Received <Opcode 4 20><Close><End of Block>
 <TextBlock 16 w:44 h:4>
 Billy
-"This is<Delay 5>...<Delay 5>father's<Delay 5>...<Delay 10>
+"This is<Delay 5>...<Delay 5>Father's<Delay 5>...<Delay 10>
 Reminds me<Delay 5>...<Delay 5>
 of<Delay 5>...long ago<Delay 5>..."<Close><End of Block>
 <TextBlock 17 w:44 h:4>
 Billy
-"That is<Delay 5>...<Delay 5>father's<Delay 5>...<Delay 10>
+"That is<Delay 5>...<Delay 5>Father's<Delay 5>...<Delay 10>
 Reminds me<Delay 5>...<Delay 5>
 of<Delay 5>...long ago<Delay 5>..."<Close><End of Block>
 <TextBlock 18 w:0 h:1>

@@ -8,16 +8,16 @@
 What're you runnin'
 around for? Don't know
 where to go, eh?
-    Yes
-    No<Close><End of Block>
+    That's right
+    No, I'm fine<Close><End of Block>
 <TextBlock 5 w:40 h:3>
 Hmph!
 Then get outta here.
 I got work to do.<Close><End of Block>
 <TextBlock 6 w:48 h:4>
-The Reapers are good
-from afar but far from
-good.<New>
+The Wels are good
+from afar but far
+from good.<New>
 It's the biggest mistake
 they'll ever make
 if they mess with a
@@ -28,8 +28,9 @@ pathetic.<New>
 Now listen to me very
 carefully, I'm only going
 to tell you once.<Close><End of Block>
-<TextBlock 8 w:34 h:1>
-This is the deck plaza!<Close><End of Block>
+<TextBlock 8 w:24 h:2>
+This is the
+deck plaza!<Close><End of Block>
 <TextBlock 9 w:48 h:4>
 This is the entrance to
 the screw elevator which
@@ -55,16 +56,16 @@ way for me to make a
 living 'cept diving...
 *sigh*...<Close><End of Block>
 <TextBlock 14 w:46 h:4>
-Before going in though,
+Before going in,
 I'll have to do some
 warming-up exercises.
 Ha, ho, ha, ho...<Close><End of Block>
 <TextBlock 15 w:48 h:4>
-With my warm up
+With my warm-up
 exercises, I'll be able
 to save all the drowning
 people. Yeah...<New>
-exercise...
+Exercise...
 Ha, ho, ha, ho...<Close><End of Block>
 <TextBlock 16 w:20 h:3>
 Fei

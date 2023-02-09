@@ -37,7 +37,7 @@ Maison
 I shall go back and give
 some instructions to the
 men left on the ship.<New>
-Please, young master,
+Please, Young Master,
 go ahead and escort
 Miss Marguerite up to
 see the sisters.<New>
@@ -166,7 +166,7 @@ when I was small."<Close><End of Block>
 <TextBlock 26 w:48 h:4>
 Margie
 "I won't be able to call
-you 'young master' the
+you 'Young Master' the
 next time I see you.<New>
 It'll probably have to
 be 'Your Majesty'<Delay 5>...<Delay 10>

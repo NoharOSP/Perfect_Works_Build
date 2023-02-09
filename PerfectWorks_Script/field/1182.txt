@@ -68,11 +68,11 @@ for your safety."<Close><End of Block>
 Maison
 "...
 I have nothing to look
-back on that I regret!"<Close><End of Block>
+back on with regret!"<Close><End of Block>
 <TextBlock 12 w:42 h:3>
 Maison
 "My, hasn't it gotten
-lively around here."<Close><End of Block>
+lively around here!"<Close><End of Block>
 <TextBlock 13 w:44 h:2>
 Maison
 "Do be careful now..."<Close><End of Block>
@@ -80,20 +80,20 @@ Maison
 Maison
 "Master Billy is
 waiting for you
-over yonder..."<Close><End of Block>
+over there..."<Close><End of Block>
 <TextBlock 15 w:48 h:4>
 Maison
 "A mature yet modern
 atmosphere... That is
 what I offer you...<New>
 A bartender's life isn't
-all that bad you know!"<Close><End of Block>
+all that bad, you know!"<Close><End of Block>
 <TextBlock 16 w:52 h:4>
 Maison
 "For people from a heathen
 nation like us to receive
 such charity...<New>
-My word, god is so very,
+My word, God is so very,
 very tolerant...<Close><End of Block>
 <TextBlock 17 w:52 h:3>
 Maison
@@ -108,7 +108,7 @@ What kind of spell
 was used on her?"<Close><End of Block>
 <TextBlock 19 w:42 h:3>
 Maison
-"Y-Young master!<Delay 10>
+"Y-Young Master!<Delay 10>
 I heard all about it.<New>
 International amity
 with the Tamuz!?<Delay 10>
@@ -219,34 +219,35 @@ Maison
 such service again!"<Close><End of Block>
 <TextBlock 34 w:56 h:22>
 Maison
-"<Opcode 1 2>Oh, young master...!
+"<Opcode 1 2>Oh, Young Master...!
 If the young master doesn't
 come here more often to
 receive an education fit for
-a prince, then old Maison,
+a prince, then old Maison <-->
 who is in charge of his
-upbringing, will disgrace
-the very memory of King
-Edbart IV...god bless him.
+upbringing <--> will have
+disgraced the very memory of
+King Edbart IV...
+God bless him.
 Typical of the young master
 not to even listen to me!
 The King was peace-loving,
 a very generous person...
-On the contrary, not only
-does the young master, put
-his name on a missile, but
-goes and shoots an unknown
-airplane with it.
-To make the matters worse,
+In contrast, not only does
+the young master put his
+own name to a missile, but
+he goes and shoots an
+unknown airplane with it.
+To make matters worse,
 his good friend Fei and
-company were onboard it..."<Close><End of Block>
+company were on board..."<Close><End of Block>
 <TextBlock 35 w:54 h:4>
 Maison
 "Anyway, one must apologize
 to Doctor Uzuki and his
 friend Master Rico, right!?<New>
 They were on their way
-toward the Gear Hangar..."<Close><End of Block>
+toward the Gear hangar..."<Close><End of Block>
 <TextBlock 36 w:52 h:4>
 Citan
 "I am sure Elly is alive
@@ -256,10 +257,11 @@ believing it...!"<Close><End of Block>
 Citan
 "I would be more than
 happy to come along!!"<Close><End of Block>
-<TextBlock 38 w:40 h:3>
+<TextBlock 38 w:40 h:4>
 Citan
-"No one can stop our
-old friend now...!"<Close><End of Block>
+"No one can stop
+Jesiah when he gets
+like this...!"<Close><End of Block>
 <TextBlock 39 w:44 h:3>
 Citan
 "I would be more than
@@ -276,9 +278,9 @@ would admire..."<Close><End of Block>
 <TextBlock 41 w:48 h:4>
 Sigurd
 "...<Delay 10>
-Oh, yes... It's time for
-you to depart, right.<New>
-I'm sorry, old friend,
+Oh, yes... It's time
+to set off, right?<New>
+Thanks for this, Jesiah,
 but I have a job I must
 do..."<Close><End of Block>
 <TextBlock 42 w:54 h:4>
@@ -288,49 +290,50 @@ already?<Delay 10> Well then, before
 we go let's do the usual...<New>
 You know...<Delay 5> the 'paint the
 face on your stomach and
-dance around trick'...?<Delay 5>
+dance around' trick...?<Delay 5>
 The three of us together!"<Close><End of Block>
 <TextBlock 43 w:46 h:4>
 Citan
 "!!<Delay 10>
 Well, actually, we are
-in a hurry so, errh...<New>
+in a hurry, so, errh...<New>
 We will talk about that
 some other time..."<Close><End of Block>
-<TextBlock 44 w:46 h:4>
+<TextBlock 44 w:40 h:3>
 Jessie
-"Oh? Is that right?<Delay 10>
-Well then, I oughta get
-outta here too, huh!"<Close><End of Block>
-<TextBlock 45 w:44 h:3>
+"Oh? Is that right?<New>
+Aw well, you guys.
+I oughta get outta
+here too, huh?"<Close><End of Block>
+<TextBlock 45 w:40 h:4>
 Citan
-"There is something I
-want to ask you too...<New>
-So let us get together
-when we have more
-time...!"<Close><End of Block>
-<TextBlock 46 w:42 h:4>
+"Jesiah, there is
+still more I wanted
+to ask you, so...<New>
+take it easy in
+the meantime...!"<Close><End of Block>
+<TextBlock 46 w:28 h:4>
 Jessie
-"Yeah.<Delay 10>
-I hope I live to have
-the opportunity..."<Close><End of Block>
-<TextBlock 47 w:10 h:2>
-Citan
-"..."<Close><End of Block>
-<TextBlock 48 w:16 h:1>
-CRASH!!!<Opcode 2 15><Close><End of Block>
-<TextBlock 49 w:28 h:3>
+"Yup.<Delay 10>
+If I survive
+till then..."<Close><End of Block>
+<TextBlock 47 w:8 h:1>
+...<Close><End of Block>
+<TextBlock 48 w:14 h:1>
+*CRASH*<Opcode 2 15><Close><End of Block>
+<TextBlock 49 w:18 h:3>
 Elly
-"AAAAAAHHHHH!!<Delay 10>
-Sigurd is...!"<Close><End of Block>
+"Eek!!!<Delay 10>
+Sigurd!"<Close><End of Block>
 <TextBlock 50 w:44 h:4>
 Citan
-"Again!?<Delay 10>
-Sigurd gets drunk so
+"Again!?<Delay 10> Sigurd gets
+drunk astonishingly
 easily...!<New>
-Well that blows it!
-We cannot leave today,<Delay 10>
-perhaps tomorrow..."<Close><End of Block>
+Well that blows it!<Delay 10>
+Our departure will
+have to wait until
+tomorrow..."<Close><End of Block>
 <TextBlock 51 w:12 h:2>
 Sigurd
 "..."<Close><End of Block>
@@ -406,23 +409,23 @@ the kid needs his parents
 around him all the time!"<Close><End of Block>
 <TextBlock 54 w:52 h:4>
 Jessie
-"Ha, ha, ha!!
+"Ga, ha, ha!!
 I haven't hit the booze
 for a long while!<New>
-It's all cause my son
+It's all 'cause my son
 doesn't let me drink! <Delay 10>
 This is a great bar you've
 got here...old codger!"<Close><End of Block>
 <TextBlock 55 w:26 h:4>
 Maison
-"Why... errh,
+"Why, errh...
 thank you,
 my good man."<Close><End of Block>
-<TextBlock 56 w:54 h:4>
+<TextBlock 56 w:52 h:4>
 Jessie
-"This old codger has good
-character...<Delay 10>like his booze!<Delay 10>
-I like him!! Ha, ha, ha!"<Close><End of Block>
+"This old codger, he's got
+character!!<Delay 10> I like that!!<Delay 10>
+Ga, ha, ha!"<Close><End of Block>
 <TextBlock 57 w:24 h:1>
 Ha, ha, ha! <Opcode 2 10><Close><End of Block>
 <TextBlock 58 w:24 h:1>
@@ -582,28 +585,24 @@ Fei
 get back..?)"<Close><End of Block>
 <TextBlock 84 w:52 h:3>
 Jessie
-"I see.<Delay 10><New>
-This is the place you
-insisted on returning to,
-eh?"<Close><End of Block>
-<TextBlock 85 w:32 h:4>
+"I see.<Delay 10> This is the place
+you insisted on returning
+to, eh?"<Close><End of Block>
+<TextBlock 85 w:36 h:4>
 Sigurd
-"Not quite...
-Once I got back
-to Av,<New>
-Mimil, Maison
-and I went to
-go save the
-young master.<New>
-This ship just
-so happened to
-be docked in
-Breidablik<New>
-at the time."<Close><End of Block>
+"Not quite...<New>
+Once I got back to
+Av, Mimil, Maison
+and I went to save
+the young master.<New>
+This ship just so
+happened to be
+docked in Breida-
+blik at the time."<Close><End of Block>
 <TextBlock 86 w:36 h:4>
 Jessie
-"Mimil... That's
-the guy who
+"Mimil...
+That's the guy who
 raised you, right?<New>
 I'd say your
 operation went
@@ -615,75 +614,77 @@ cried y'know?"<Close><End of Block>
 Sigurd
 "...<Delay 10>
 I'm sorry."<Close><End of Block>
-<TextBlock 88 w:54 h:4>
+<TextBlock 88 w:54 h:3>
 Citan
-"When you left Solaris,
-the same thing happened.<Delay 10>
-Carl was quite upset then."<Close><End of Block>
-<TextBlock 89 w:34 h:3>
+"That was the way of it
+when you left Solaris, too.<New>
+Back then it was Carl who
+was inconsolable."<Close><End of Block>
+<TextBlock 89 w:34 h:4>
 Sigurd
-"I didn't mean to
-betray him..."<Close><End of Block>
+"I hadn't really
+meant to betray
+him..."<Close><End of Block>
 <TextBlock 90 w:40 h:4>
 Citan
-"His misanthropy has
-gotten even worse
-because of that."<Close><End of Block>
+"It certainly seems
+to have deepened his
+misanthropy!"<Close><End of Block>
 <TextBlock 91 w:44 h:3>
 Citan
 "Now, enough about old
-times, old friend.<New>
+times, Jesiah.<New>
 I did not expect to
 find you loitering in
 this land..."<Close><End of Block>
-<TextBlock 92 w:18 h:1>
-Everyone!<Close><End of Block>
+<TextBlock 92 w:26 h:1>
+Ah, everyone!<Close><End of Block>
 <TextBlock 93 w:48 h:3>
 Billy
 "Good morning.<New>
-They said you were still
+I heard you were still
 sleeping, so I went
-ahead and came in."<Close><End of Block>
-<TextBlock 94 w:48 h:3>
+ahead and came aboard."<Close><End of Block>
+<TextBlock 94 w:42 h:4>
 Bart
-"You're dressed lightly.
-Is that enough?"<Close><End of Block>
-<TextBlock 95 w:48 h:3>
+"You're very lightly
+equipped.
+Will that be enough?"<Close><End of Block>
+<TextBlock 95 w:42 h:3>
 Rico
-"You're dressed lightly.
-Is that enough?"<Close><End of Block>
+"You're very lightly
+equipped.
+Will that be enough?"<Close><End of Block>
 <TextBlock 96 w:48 h:4>
 Billy
 "We Etones have some
 rather unique equipment.<New>
-Let me explain about the
-equipment since we're
+Let me give you an
+explanation since we're
 going to be working
 together."<Close><End of Block>
 <TextBlock 97 w:56 h:4>
 Billy
-"First of all, my basic
-equipment are guns.
-There're three kinds...<New>
+"First of all, regarding
+my basic loadout of guns,
+there're three kinds:<New>
 'Handgun',<Delay 10>
-'Ether-gun',<Delay 10>
-and 'Big-gun'.<New>
-The handgun is the only one
-that can be replaced with
-other versions of the same
-kind.<New>
+'Ether Gun',<Delay 10>
+and 'Big Gun'.<New>
+Only the Handgun can be
+swapped out for other guns
+of the same kind.<New>
 I made the other two kinds
 of guns myself, so there
-are no others to replace
-them with.<New>
-You can power-up a gun's
-attack force by changing
-its 'ammo' or 'bullets'
-with more powerful ones!<New>
-To load ammo, press Right
-or Left on the Directional
-button at the Equip Menu
-Screen.<New>
+are no alternatives for
+them.<New>
+You can power up a gun's
+attack force by loading
+more powerful 'ammo'!<New>
+To load ammo, press the
+right or left directional
+button at the Equip menu
+screen.<New>
 This will display a sub-
 window in place of the
 main Equip window, where
@@ -696,37 +697,37 @@ To successfully manage your
 ammo, you must keep an
 ample supply and reload
 frequently!<New>
-But now that I have said
-this, note that Ether-guns
-do not have such a limit.<Delay 20>
-Well that's about it...<New>
-Did you understand?
+But, having said that,
+note that Ether Guns do
+not have such a limit.<Delay 20>
+Well, that's about it...<New>
+Did you understand?"
     <Opcode 1 255>Yes
     No, please explain again<Delay 10><Close><End of Block>
 <TextBlock 98 w:54 h:4>
 Bart
-"I understood it roughly.
-But it's a bit complicated,
+"I got the gist of it,
+but it's a bit complicated,
 isn't it?"<Close><End of Block>
-<TextBlock 99 w:44 h:3>
+<TextBlock 99 w:46 h:3>
 Rico
-"...I see.<Delay 10>
-That's very unique..."<Close><End of Block>
-<TextBlock 100 w:46 h:4>
+"...Got it.<Delay 10>
+That's kinda unique..."<Close><End of Block>
+<TextBlock 100 w:50 h:4>
 Billy
-"...<Delay 5>This is a fine gun
+"That gun...<Delay 5> A fine piece
 indeed.<Delay 10> I'm sure it has
 a significant history."<Close><End of Block>
 <TextBlock 101 w:54 h:3>
 Bart
 "Of course!<New>
 It's the famous rifle
-'Machiganater', handed down
-in the Fatima family."<Close><End of Block>
+'Machiganator', an heirloom
+of our Fatima family."<Close><End of Block>
 <TextBlock 102 w:52 h:4>
 Billy
-"What a waste...<Delay 10>
-It's too good for you who
+"...<Delay 10>
+Seems too good for you who
 just brandishes a whip..."<Close><End of Block>
 <TextBlock 103 w:38 h:4>
 Bart
@@ -744,24 +745,23 @@ Elly
 Billy...<New>
 I'd like to know why you
 became an Etone..."<Close><End of Block>
-<TextBlock 106 w:46 h:2>
-Bart
+<TextBlock 106 w:46 h:1>
 (I'm not interested...)<Opcode 2 30><Close><End of Block>
 <TextBlock 107 w:52 h:4>
 Billy
 "...<New>
-Hmm, I see...
-Etones help out strangers,
-so I suppose that would
-make you curious..."<Close><End of Block>
-<TextBlock 108 w:54 h:4>
+It's true you're about to
+help a complete stranger
+with his work,<New>
+so of course you would
+be curious..."<Close><End of Block>
+<TextBlock 108 w:50 h:4>
 Elly
-"No, I don't mean that.<Delay 10>
-I'm curious about your own
-intentions, personally.<New>
-I don't know...
-I just didn't expect you
-to be an Etone at all..."<Close><End of Block>
+"Oh, that's not what I
+meant.<Delay 10> It's just out of
+personal interest.<New>
+I find it surprising that
+you're an Etone..."<Close><End of Block>
 <TextBlock 109 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 110 w:50 h:4>
@@ -771,21 +771,21 @@ Well, since our job is
 rather unusual, I'll tell
 you about that too as I
 explain..."<Close><End of Block>
-<TextBlock 111 w:38 h:4>
+<TextBlock 111 w:34 h:4>
 Bart
 "...<Delay 10>
 Looks like we've
-made it already..."<Close><End of Block>
+arrived..."<Close><End of Block>
 <TextBlock 112 w:32 h:4>
 Citan
 "...<Delay 10>
 It looks like we
 have arrived..."<Close><End of Block>
-<TextBlock 113 w:52 h:4>
+<TextBlock 113 w:48 h:4>
 Billy
-"Can it be...?<Delay 10>
-The transport ship's being
-attacked by Reapers..."<Close><End of Block>
+"It's possible the
+transport ship is<Delay 10> under
+attack by Wels..."<Close><End of Block>
 <TextBlock 114 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 115 w:6 h:1>
@@ -795,44 +795,47 @@ Billy
 "Who will assist me?"<Close><End of Block>
 <TextBlock 117 w:54 h:5>
 Billy
-"Hah!
-This is going to sound
-pathetic, but...<New>
-I almost went so far as
-to sell my body to support
-Prim, since we only had
-each other for so long...<New>
-Despite that, Prim still
-prefers the father that she
-never knew... The one who
+"Hah! This is going to
+sound stupid, but...since
+we only had each other for<New>
+so long, in order to
+provide for Prim I went
+so far as to try to sell
+my own body...<New>
+Despite that, apparently
+Prim prefers the dad who
 suddenly appeared out of
-nowhere..."<Close><End of Block>
+nowhere,<New>
+the one we don't even
+recognize..."<Close><End of Block>
 <TextBlock 118 w:52 h:4>
 Bart
-"'Almost sold your body'!?
-Don't you know, kid...!?<New>
+"'Tried to sell your
+body'!? Don't you know,
+kid...!?<New>
 There're things you can
 get back once sold, and
-there are things you just
+there're things you just
 can't!<New>
 Couldn't you see that!?"<Close><End of Block>
 <TextBlock 119 w:52 h:4>
 Billy
-"Of course I refrained.<Delay 10>
-But they said they'd give
-me 3000G for one night..."<Close><End of Block>
+"Of course I desisted.<Delay 10>
+But I was told I could get
+3000G for one night..."<Close><End of Block>
 <TextBlock 120 w:54 h:4>
 Bart
 "You fool!<Delay 10> Listen...<Delay 10> Next
 time you and your sister
 need help, come to my ship.<New>
-We're self-sufficient, so
-at least you don't need to
-worry about food and a
-place to sleep!<New>
-Now, don't you ever say
-'sell your body' in front
-of me ever again...!<Delay 10>
+We expect everyone to do
+their bit here,<New>
+but at least you wouldn't
+need to worry about food
+and a place to sleep!<New>
+Now, don't you ever talk
+about being bought or sold
+in front of me again...!<Delay 10>
 You understand!?"<Close><End of Block>
 <TextBlock 121 w:42 h:4>
 Billy
@@ -843,23 +846,26 @@ guy' after all...?"<Close><End of Block>
 Bart
 "Why don't you just
 come out and say
-'thank you'?<Delay 10> Geez!"<Close><End of Block>
-<TextBlock 123 w:54 h:4>
+'thank you'?<Delay 10> Jeez!"<Close><End of Block>
+<TextBlock 123 w:46 h:4>
 Billy
-"Uh...<Delay 10>errh...<Delay 10>well...<Delay 10>
-you haven't taken care of
-us yet,<Delay 10> so I won't say it!"<Close><End of Block>
+"Uh...<Delay 10>errh...<Delay 10>well...<New>
+it's not like you've
+been a help to us yet,<Delay 10>
+so I won't say it!"<Close><End of Block>
 <TextBlock 124 w:42 h:1>
-Cute, kid, REAL cute!<Close><End of Block>
-<TextBlock 125 w:42 h:2>
+Cute, kid. REAL cute!<Close><End of Block>
+<TextBlock 125 w:32 h:3>
 Elly
-"'Sold your body'<Delay 10>...?<Close><End of Block>
-<TextBlock 126 w:50 h:3>
+"You<Delay 10> 'sold
+your body'<Delay 10>...?<Close><End of Block>
+<TextBlock 126 w:40 h:3>
 Billy
-"Of course I refrained
-from actually doing it.<New>
-But they said they'd
-give me 3000G a night..."<Close><End of Block>
+"No, of course
+I desisted.<New>
+But I was told I
+could get 3000G for
+one night..."<Close><End of Block>
 <TextBlock 127 w:10 h:2>
 Elly
 "..."<Close><End of Block>
@@ -876,8 +882,8 @@ In order to proceed with
 the plan, many Lambs were
 gathered by the Church,
 to become guinea pigs.<New>
-Or, should I say, to become
-Reapers or Wels..."<Close><End of Block>
+Or I should say, to become
+Wels..."<Close><End of Block>
 <TextBlock 129 w:54 h:4>
 Jessie
 "Since I was disgusted with

@@ -83,29 +83,35 @@ said your tricks will
 do you no good."<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 Myyah
-"I'm just trying to help.
-Didn't I help get those
-'shackles' off?<New>
-Now, you know the 'vessel'
-will only respond to the
-chosen one.<New>
-They don't know this.
-But...he's necessary for
-Carl.<New>
-He's the very meaning of
-Carl's existence."<Close><End of Block>
+"I'm just trying to help.<New>
+It was easy in the end,
+for him to be unshackled
+once again, so it's fine,
+isn't it?<New>
+Now, you are aware that
+the Vessels respond only
+to the chosen ones, yes?<New>
+This is something even
+those children don't
+know <--> such was my
+design.<New>
+But...<Delay 10>he's necessary,
+for Carl.<Delay 10> He's the very
+meaning of Carl's
+existence."<Close><End of Block>
 <TextBlock 16 w:46 h:4>
 Myyah
-"Yes, I must thank you.
-After all, you did help
-me didn't you?"<Close><End of Block>
+"In any case, I should
+thank you.<New>
+You did<Delay 10> help me
+once, didn't you?"<Close><End of Block>
 <TextBlock 17 w:10 h:2>
 Grahf
 "..."<Close><End of Block>
 <TextBlock 18 w:44 h:4>
 Myyah
 "Was it for me?
-Or for him?
+Or for him, I wonder?
 ...Or...for yourself?"<Close><End of Block>
 <TextBlock 19 w:46 h:3>
 Margie

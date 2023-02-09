@@ -356,9 +356,9 @@ Bart
 "Wha,<Delay 30> what the!?<Delay 30>
 There's no control stick!<New>
 How am I gonna move this?"<Close><End of Block>
-<TextBlock 86 w:30 h:2>
-"Are you okay,
-young master!?"<Close><End of Block>
+<TextBlock 86 w:28 h:2>
+Are you okay,
+Young Master!?<Close><End of Block>
 <TextBlock 87 w:44 h:4>
 Bart
 "...<Delay 30>Sig!?

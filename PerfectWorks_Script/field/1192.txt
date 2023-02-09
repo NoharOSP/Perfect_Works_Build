@@ -11,7 +11,7 @@ Since we just met, I do
 not blame you for not
 trusting me, but...)<Close><End of Block>
 <TextBlock 3 w:50 h:5>
-Oh, young master!
+Oh, Young Master!
 It's unusual for you
 to be alone.
 It's already been fixed, 
@@ -88,11 +88,11 @@ added later at the young
 master's request.<Close><End of Block>
 <TextBlock 9 w:54 h:6>
 We didn't know what to do
-when young master said,<Delay 10>
-"Destroy one sensor and
+when Young Master said,<Delay 10>
+'Destroy one sensor and
 put an eyepatch over it
 ...without weakening the
-ability to reconnoiter..."!<Close><End of Block>
+ability to reconnoiter...'!<Close><End of Block>
 <TextBlock 10 w:58 h:4>
 This is <Andvari>,
 the young master's Gear...<New>
@@ -222,7 +222,7 @@ Master Bartholomew."<Close><End of Block>
 <TextBlock 19 w:52 h:4>
 Maison
 "By the way, may I ask,
-young master, did you
+Young Master, did you
 apologize to Master Fei?" <Close><End of Block>
 <TextBlock 20 w:42 h:4>
 Bart
@@ -235,7 +235,7 @@ I told him I was
 Just telling someone you
 were 'wrong' after the
 event isn't going to solve
-everything, young master.<Close><End of Block>
+everything, Young Master.<Close><End of Block>
 <TextBlock 23 w:54 h:4>
 First Mate
 "I'm sorry I've delayed
@@ -274,7 +274,7 @@ So now, forgive me, will
 ya!?"<Close><End of Block>
 <TextBlock 26 w:44 h:3>
 Sigurd
-"Young master!
+"Young Master!
 Stay out of mischief."<Close><End of Block>
 <TextBlock 27 w:40 h:2>
 "Ouch ouch ouch!!

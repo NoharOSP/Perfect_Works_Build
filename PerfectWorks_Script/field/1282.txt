@@ -19,12 +19,14 @@ physically? How strange."<Close><End of Block>
 <TextBlock 6 w:30 h:2>
 Citan
 "It is dark..."<Close><End of Block>
-<TextBlock 7 w:40 h:2>
+<TextBlock 7 w:40 h:3>
 Citan
-"What is that odor?"<Close><End of Block>
-<TextBlock 8 w:28 h:2>
+"Do you not smell
+something strange?"<Close><End of Block>
+<TextBlock 8 w:20 h:3>
 Citan
-"Is it scary?"<Close><End of Block>
+"Are you
+afraid?"<Close><End of Block>
 <TextBlock 9 w:44 h:4>
 Citan
 "Wels?
@@ -71,34 +73,38 @@ Rico
 "You don't fight with your
 fists? That's rare."<Close><End of Block>
 <TextBlock 21 w:38 h:2>
-Light on.
-Opened door-lock A.<Close><End of Block>
+Lights switched on.
+Door lock A opened.<Close><End of Block>
 <TextBlock 22 w:32 h:3>
 Billy
 "Shall we return
 to Yggdrasil?"<New>
     Go back
     Stay<Close><End of Block>
-<TextBlock 23 w:18 h:1>
-A locked.<Close><End of Block>
-<TextBlock 24 w:44 h:3>
+<TextBlock 23 w:16 h:2>
+Lock A
+engaged.<Close><End of Block>
+<TextBlock 24 w:42 h:3>
 Billy
-"This unusual smell is
-that of the Wels.<New>
-It sure looks like 
-they attacked..."<Close><End of Block>
-<TextBlock 25 w:46 h:4>
+"This unusual smell
+is that of the Wels.<New>
+It seems they did
+attack, just as we
+feared..."<Close><End of Block>
+<TextBlock 25 w:46 h:3>
 Billy
-"One more thing.
-On the room's middle
-wall is a red switch.<New>
-Push the switch to turn
-on the lights."<Close><End of Block>
-<TextBlock 26 w:30 h:4>
+"One more thing.<New>
+There is a red switch
+on the wall about half-
+way along this cabin.<New>
+If you flip that switch
+the lights should come
+on."<Close><End of Block>
+<TextBlock 26 w:24 h:4>
 Billy
-"...<Delay 30>
-No...<Delay 30>
-Just a little."<Close><End of Block>
+"...<Delay 30>No...<Delay 30>
+Well, just
+a little."<Close><End of Block>
 <TextBlock 27 w:40 h:1>
 The door won't open.<Close><End of Block>
 <TextBlock 28 w:34 h:2>

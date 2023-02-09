@@ -134,13 +134,12 @@ Go home to your people."<Close><End of Block>
 <TextBlock 25 w:24 h:2>
 Elly
 "Um... I..."<Close><End of Block>
-<TextBlock 26 w:46 h:4>
+<TextBlock 26 w:46 h:3>
 Citan
 "Do not worry.<New>
 I will not do anything
 that would reveal your
-your true identity to
-Fei.<New>
+true identity to Fei.<New>
 I will just tell him...
 that your family came
 for you."<Close><End of Block>
@@ -188,7 +187,7 @@ domesticated animals,
 no...?"<Close><End of Block>
 <TextBlock 32 w:54 h:4>
 Elly
-"'The Shepherds, the
+"'The shepherds, the
 Abelites, took control over
 the surface dwellers,<New>
 the Lambs, possessing the
@@ -202,7 +201,7 @@ and the villagers.<New>
 Why is that?"<Close><End of Block>
 <TextBlock 34 w:46 h:3>
 Elly
-"I don't know, 
+"I don't know,
 myself...<New>
 At Jugend I was taught
 that surface dwellers

@@ -2,7 +2,7 @@
 Sigurd
 "Marguerite is pushing
 herself too hard.<New>
-Young master, you should
+Young Master, you should
 be kinder to her."<Close><End of Block>
 <TextBlock 2 w:42 h:4>
 Sigurd
@@ -34,7 +34,7 @@ Sigurd
 Sigurd
 "Marguerite is pushing
 herself too hard.<New>
-Young master, you should
+Young Master, you should
 be kinder to her."<Close><End of Block>
 <TextBlock 8 w:46 h:4>
 Bart

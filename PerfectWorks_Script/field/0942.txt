@@ -79,7 +79,7 @@ infiltration operation."<Close><End of Block>
 Helmholtz
 "And empty-handed, I
 hear! No souvenirs for
-the Commander, huh?"<Close><End of Block>
+the commander, huh?"<Close><End of Block>
 <TextBlock 20 w:38 h:4>
 Rank
 "Yep, what a pretty

@@ -1,73 +1,72 @@
 <TextBlock 1 w:24 h:2>
 Citan
 "Why hello!"<Close><End of Block>
-<TextBlock 2 w:36 h:3>
+<TextBlock 2 w:36 h:4>
 Billy
-"Oh, how nice to 
+"Oh, how nice to
 see you.<Delay 10>
 How is Fei doing?"<Close><End of Block>
 <TextBlock 3 w:50 h:3>
 Elly
-"Very well,
-thank you.<Delay 10><New>
-He hasn't regained 
+"Very well, thank you.<New>
+He hasn't regained
 consciousness yet, but he
 should come around soon."<Close><End of Block>
 <TextBlock 4 w:42 h:3>
 Billy
-"Really? <Delay 10>
+"Really?<Delay 10>
 That's good to hear."<Close><End of Block>
-<TextBlock 5 w:56 h:4>
+<TextBlock 5 w:50 h:4>
 Elly
-"Um, Billy.<Delay 10> 
-I don't know quite how to
-thank you for helping Fei..." <Close><End of Block>
-<TextBlock 6 w:40 h:4>
+"Um, Billy.<Delay 10> I don't know
+quite how to thank you
+for helping Fei..." <Close><End of Block>
+<TextBlock 6 w:46 h:3>
 Billy
 "Don't mention it.<New>
-We cannot turn away 
-those who are in need, 
+We cannot turn away
+those who are in need,
 no matter their faith."<Close><End of Block>
-<TextBlock 7 w:44 h:4>
+<TextBlock 7 w:40 h:3>
 Elly
-"Truly, thank you 
-very much.<Delay 10><New>
-By the way is this 
+"Truly, thank you
+very much.<New>
+By the way, is this
 your orphanage...?"<Close><End of Block>
 <TextBlock 8 w:42 h:3>
 Billy
-"Surprised there are 
+"Surprised there are
 only children?"<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 Billy
-"Actually, from a young 
-age<New> 
-my sister and I did 
-not have our parents 
+"Actually,<New>
+from a young age my
+sister and I did
+not have our parents
 around either...<New>
 I opened the orphanage
 so kids without relatives
-wouldn't have to go 
+wouldn't have to go
 through what we did."<Close><End of Block>
 <TextBlock 10 w:50 h:4>
 Billy
-"They're all full of life 
-and they properly observe 
-the teachings of the Church...<New>
-Just great kids who even 
+"They're all full of life
+and they properly observe
+the Church's teachings...<New>
+Just great kids who even
 help me with my work
 sometimes."<Close><End of Block>
 <TextBlock 11 w:14 h:1>
 Later!!<Opcode 2 20><Close><End of Block>
 <TextBlock 12 w:46 h:2>
-Hey,<Delay 10> you didn't 
+Hey,<Delay 10> you didn't
 find me, that's no fun!<Close><End of Block>
 <TextBlock 13 w:40 h:3>
 You want some candy?
     Yah, gimme some
     Nah<Close><End of Block>
 <TextBlock 14 w:46 h:4>
-Ya<~>ay!<Delay 10>
+Ya~ay!<Delay 10>
 Let's empty this bottle
 quick so we can put 
 pretty shells in it!<Close><End of Block>
@@ -82,12 +81,12 @@ don't tell Brother B!<Close><End of Block>
 <TextBlock 17 w:40 h:3>
 Ah, you scared me.<Delay 10> 
 I thought you were
-Brother B...<New>
+Brother B<--><New>
 It's a secret, okay?
-    OK
+    Okay
     I don't know<Close><End of Block>
 <TextBlock 18 w:48 h:4>
-Ya<~>ay! Thanks.<Delay 10> 
+Ya~ay! Thanks.<Delay 10> 
 I'll give you this book
 if you keep it a secret,
 'kay?<Close><End of Block>
@@ -101,109 +100,109 @@ Go away!<Close><End of Block>
 There's a string...
     Pull it!!
     Don't<Close><End of Block>
-<TextBlock 22 w:54 h:4>
+<TextBlock 22 w:46 h:4>
 Sigurd
-"Young master!!<Delay 10><New>
-Yggdrasil's radar has 
-picked up the shape of 
+"Young Master!!<New>
+Yggdrasil's radar has
+picked up the shape of
 a huge ship!!"<Close><End of Block>
-<TextBlock 23 w:54 h:4>
+<TextBlock 23 w:46 h:4>
 Sigurd
-"Hyuga!<Delay 10>
-Yggdrasil's radar has 
-picked up the shape of 
+"Hyuga!<New>
+Yggdrasil's radar has
+picked up the shape of
 a huge ship!!"<Close><End of Block>
 <TextBlock 24 w:28 h:3>
 Bart
-"What?<Delay 10> 
-Geburah again?"<Close><End of Block>
+"What?<Delay 10> Geburah
+again?"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Sigurd
 "I don't know, but it's
 moving south at 10 repsol
-per hour.<Delay 10><New>
+per hour.<New>
 Let's head to the bridge."<Close><End of Block>
-<TextBlock 26 w:32 h:3>
+<TextBlock 26 w:32 h:4>
 Bart
-"Okay, got it!<Delay 10><New>
+"Okay, got it.<Delay 10>
 We'll be there 
 shortly."<Close><End of Block>
-<TextBlock 27 w:30 h:2>
+<TextBlock 27 w:30 h:3>
 Citan
-"Is it Geburah 
+"Is it Geburah
 again!?"<Close><End of Block>
 <TextBlock 28 w:52 h:4>
 Sigurd
-"I don't know but it's 
-moving at 10 repsol/hr
-to the south.<Delay 10><New>
+"I don't know, but it's
+moving south at 10 repsol
+per hour.<New>
 Let's head to the bridge."<Close><End of Block>
 <TextBlock 29 w:50 h:3>
 Citan
-"Understood.<Delay 10> 
+"Understood.<Delay 10>
 I will be there shortly."<Close><End of Block>
 <TextBlock 30 w:44 h:3>
-Hey, you in the white 
-with the sun tan.<Delay 10> 
+Hey, you in the white
+with the sun tan.<Delay 10>
 Is that you, Sigurd!?<Close><End of Block>
 <TextBlock 31 w:52 h:4>
 Sigurd
 "In the white with 
-the...? Such rudeness all 
-of a sudden!<New>
+the...? Such rudeness
+all of a sudden!<New>
 Who do you think you are?"<Close><End of Block>
-<TextBlock 32 w:50 h:3>
+<TextBlock 32 w:46 h:3>
 Citan
-"Ah...<Delay 10> You may 
-not be able to tell at 
-first glance, Sigurd,<New> 
-but this man was at one 
+"Ah...<Delay 10> You may not
+be able to tell at
+first glance, Sigurd,<New>
+but this man was at one
 time our mentor..."<Close><End of Block>
-<TextBlock 33 w:50 h:3>
+<TextBlock 33 w:46 h:3>
 Citan
-"Ah...<Delay 10> You may 
-not be able to tell at 
-first glance, Sigurd,<New> 
-but this man was at one 
+"Ah...<Delay 10> You may not
+be able to tell at
+first glance, Sigurd,<New>
+but this man was at one
 time our mentor..."<Close><End of Block>
-<TextBlock 34 w:16 h:3>
+<TextBlock 34 w:20 h:3>
 Sigurd
 "M-Mentor?<Delay 10>
 Jessie!?"<Close><End of Block>
-<TextBlock 35 w:16 h:2>
+<TextBlock 35 w:22 h:2>
 Billy
-"S-Siggy!?"<Close><End of Block>
-<TextBlock 36 w:32 h:2>
+"S-<Delay 5>Siggy!?"<Close><End of Block>
+<TextBlock 36 w:32 h:3>
 Bart
-"Did he just say<New>
+"Did he just say<Delay 10>
 'Siggy'!?"<Close><End of Block>
-<TextBlock 37 w:46 h:4>
+<TextBlock 37 w:48 h:4>
 Jessie
-"It's not every day you 
-see a silver haired man 
+"It's not every day you
+see a silver-haired man
 with amber skin, is all.<New>
-Well, well, you guys. 
-It's become quite the 
+Well, well, you guys.
+It's become quite the
 reunion lately! "<Close><End of Block>
-<TextBlock 38 w:54 h:2>
+<TextBlock 38 w:54 h:3>
 Citan
-"It just sort of happened."<Close><End of Block>
+"Well, one thing leads
+to another, as they say..."<Close><End of Block>
 <TextBlock 39 w:54 h:3>
 Citan
-"Well, one thing leads 
-to another, as they say... "<Close><End of Block>
+"Well, one thing leads
+to another, as they say..."<Close><End of Block>
 <TextBlock 40 w:42 h:2>
 Sigurd
 "A lot's happened..."<Close><End of Block>
-<TextBlock 41 w:48 h:3>
+<TextBlock 41 w:48 h:4>
 Jessie
-"Well, you can let me 
-hear the whole story 
+"Well, you can let me
+hear the whole story
 over some drinks.<New>
-Still<Delay 5>...<Delay 5>
-gotta wonder why we're 
-together like this after 
-so long."<Close><End of Block>
+Still<Delay 5>...<Delay 5>gotta wonder why
+we're together like this
+after so long."<Close><End of Block>
 <TextBlock 42 w:54 h:4>
 Billy
 "Siggy,
@@ -215,16 +214,16 @@ Sigurd
 you've grown up.<New>
 With that smile you look 
 just like Racquel."<Close><End of Block>
-<TextBlock 44 w:42 h:3>
+<TextBlock 44 w:42 h:4>
 Bart
 "Hey!<Delay 10>
 Hey hey hey!<New>
-What's with you?<Delay 10> 
-being overly 
-familiar with my 
-officer?<New>
+What's with you,
+being overly
+familiar with
+my officer?<New>
 What's all this
-'Siggy' stuff? 
+'Siggy' stuff?
 Don't get cute, kid!"<Close><End of Block>
 <TextBlock 45 w:36 h:4>
 Billy
@@ -235,56 +234,57 @@ Who do you think
 you are?"<Close><End of Block>
 <TextBlock 46 w:40 h:4>
 Jessie
-"Billy. <Delay 10><New>
-Don't pick a 
-fight with
-Sigurd's people.<New>
+"Billy.<Delay 10> Don't pick a
+fight with Sigurd's
+people.<New>
 It's bad form, boy."<Close><End of Block>
-<TextBlock 47 w:50 h:4>
+<TextBlock 47 w:42 h:4>
 Sigurd
-"Young master,<New> 
-Jessie here was my 
-supervisor when I was 
-an Elements candidate 
+"Young Master,<New>
+Jessie here was my
+supervisor when I was
+an Elements candidate
 at Solaris Jugend.<New>
-I had even rented a 
+I had even rented a
 room in his house."<Close><End of Block>
-<TextBlock 48 w:46 h:3>
+<TextBlock 48 w:36 h:3>
 Jessie
-"Back then,  Billy 
-wasn't yet out of 
+"Back then, Billy
+wasn't yet out of
 his diapers,<New>
-and even now he 
-never tires of 
-being a spoiled 
-brat. "<Close><End of Block>
+and even now he
+never tires of
+being a spoiled
+brat."<Close><End of Block>
 <TextBlock 49 w:48 h:3>
 Billy
 "You're probably still
 in diapers, aren't you?"<Close><End of Block>
-<TextBlock 50 w:42 h:3>
+<TextBlock 50 w:38 h:3>
 Bart
 "You punk!<Delay 10>
-What're you turning 
+What're you turning
 on me for!?"<Close><End of Block>
 <TextBlock 51 w:46 h:4>
 Jessie
-"Well then<Delay 5>...<Delay 5>, shall
-we go straight off and
+"Well then<Delay 5>...<Delay 5>shall we
+go straight off and
 drink ourselves under?"<Close><End of Block>
-<TextBlock 52 w:36 h:3>
+<TextBlock 52 w:26 h:4>
 Sigurd
-"Go for a drink 
-where, exactly...?"<Close><End of Block>
+"Go for a
+drink where,
+exactly...?"<Close><End of Block>
 <TextBlock 53 w:48 h:4>
 Jessie
 "What do you mean?<Delay 10>
 There has to be a bar or
 two on board your sub?"<Close><End of Block>
-<TextBlock 54 w:34 h:3>
+<TextBlock 54 w:34 h:4>
 Sigurd
-"Uh, I have a slight 
-headache, so..."<Close><End of Block>
+"Uh, I have a
+slight headache,
+so..."<Close><End of Block>
 <TextBlock 55 w:42 h:3>
 Jessie
 "What?<Delay 10>
@@ -292,110 +292,116 @@ That's okay.<New>
 We'll get rid of that
 headache with a good
 drink!"<Close><End of Block>
-<TextBlock 56 w:54 h:2>
+<TextBlock 56 w:40 h:2>
 Citan
 "What do we do...?"<Close><End of Block>
-<TextBlock 57 w:54 h:2>
+<TextBlock 57 w:40 h:2>
 Citan
 "What do we do...?"<Close><End of Block>
-<TextBlock 58 w:46 h:3>
+<TextBlock 58 w:44 h:3>
 Sigurd
-"We can't just say no to
-him..."<Close><End of Block>
-<TextBlock 59 w:42 h:3>
+"We can't just say no
+to him..."<Close><End of Block>
+<TextBlock 59 w:38 h:3>
 Jessie
-"What are you guys 
+"What are you guys
 doin'? Let's go!"<Close><End of Block>
-<TextBlock 60 w:24 h:2>
+<TextBlock 60 w:22 h:2>
 Sigurd
-"You see...?"<Opcode 2 30><Close><End of Block>
-<TextBlock 61 w:28 h:1>
-Oh-no-ho-ho...<Opcode 2 30><Close><End of Block>
-<TextBlock 62 w:28 h:1>
-Oh-no-ho-ho...<Opcode 2 30><Close><End of Block>
-<TextBlock 63 w:48 h:4>
+"You see?"<Opcode 2 30><Close><End of Block>
+<TextBlock 61 w:22 h:1>
+Oh dear...<Opcode 2 30><Close><End of Block>
+<TextBlock 62 w:22 h:1>
+Oh dear...<Opcode 2 30><Close><End of Block>
+<TextBlock 63 w:46 h:4>
 Billy
 "I'll pass...<Delay 10>
-Please make yourselves 
+Please make yourselves
 at home."<Close><End of Block>
-<TextBlock 64 w:46 h:4>
+<TextBlock 64 w:44 h:4>
 Bart
-"What the heck's this 
-'huge ship' Sig was 
+"What the heck's this
+'huge ship' Sig was
 talking about?"<Close><End of Block>
-<TextBlock 65 w:48 h:4>
+<TextBlock 65 w:46 h:4>
 Elly
-"What on earth is this 
-'huge ship' Sigurd was 
+"What on earth is this
+'huge ship' Sigurd was
 talking about?"<Close><End of Block>
 <TextBlock 66 w:46 h:3>
 Citan
-"I am sorry, everyone.<Delay 10> 
+"I am sorry, everyone.<Delay 10>
 If I may be excused..."<Close><End of Block>
-<TextBlock 67 w:52 h:3>
+<TextBlock 67 w:46 h:3>
 Rico
-"Oh well, I guess I'll go.
-I've got time to kill."<Close><End of Block>
-<TextBlock 68 w:36 h:3>
-Bart
-"Oh well, I'll join
-you."<Close><End of Block>
-<TextBlock 69 w:52 h:3>
-Rico
-"Oh well, I was just 
+"Oh well,<Delay 10> I was just
 waiting for my moment."<Close><End of Block>
-<TextBlock 70 w:36 h:3>
+<TextBlock 68 w:30 h:3>
 Bart
-"Oh well, I'll join
-you."<Close><End of Block>
-<TextBlock 71 w:30 h:4>
+"Oh well, I'll
+join you."<Close><End of Block>
+<TextBlock 69 w:46 h:3>
+Rico
+"Oh well,<Delay 10> I was just
+waiting for my moment."<Close><End of Block>
+<TextBlock 70 w:30 h:3>
+Bart
+"Oh well, I'll
+join you."<Close><End of Block>
+<TextBlock 71 w:30 h:3>
 Jessie
-"...HIC...!!<Delay 10>
-I'm back. <Delay 10>
-Where's Billy?"<Close><End of Block>
+"...*HIC*...!!<Delay 10>
+I'm ba~ck.<New>
+Billy,
+you there?"<Close><End of Block>
 <TextBlock 72 w:44 h:4>
 Billy
 "Keep it down!<Delay 10>
 What time do you think
 it is?<New>
 Be quiet when you come
-back, or you will wake
+home, or you will wake
 the children."<Close><End of Block>
 <TextBlock 73 w:40 h:4>
 Jessie
 "If you'd come you'd
 have heard a ton of
 good stories.<New>
-Sigurd's stories 
-were hilarious."<Close><End of Block>
-<TextBlock 74 w:50 h:3>
+Not to mention
+Sigurd's tale of
+woe, that was
+priceless."<Close><End of Block>
+<TextBlock 74 w:52 h:4>
 Billy
-"You know Siggy doesn't
-drink and you made him?<Delay 10><New>
-Even though you're a holy
-man's father..."<Close><End of Block>
+"You know Siggy can't take
+his drink and yet you let
+him have that much!?<Delay 10><New>
+To think you're the
+father of a churchman..."<Close><End of Block>
 <TextBlock 75 w:46 h:3>
 Jessie
-"Hey hey, why don't you
-open up your eyes.<New>
-You need to quit bein'
-a priest."<Close><End of Block>
-<TextBlock 76 w:46 h:4>
+"Hey hey, you need to
+open your eyes.<New>
+This priest stuff, you
+gotta quit it."<Close><End of Block>
+<TextBlock 76 w:52 h:4>
 Billy
-"I don't want to hear
-that from someone with-
-out a shred of faith.<Delay 10><New>
-Stay out of my life."<Close><End of Block>
+"I don't need to hear that
+from someone who doesn't
+have a shred of faith.<Delay 10><New>
+Don't interfere with my
+way of life!"<Close><End of Block>
 <TextBlock 77 w:48 h:3>
 Jessie
-"Stay out?<New>
-Do you have any idea how
-much trouble your little
-butt is in?"<Close><End of Block>
-<TextBlock 78 w:40 h:3>
+"Interfere?<New>
+You, greenhorn, have no
+idea how vulnerable you
+still are."<Close><End of Block>
+<TextBlock 78 w:40 h:4>
 Billy
-"What?<Delay 10>
-How would you know?"<Close><End of Block>
+"Greenhorn?<Delay 10>
+As if you would know
+anything about me."<Close><End of Block>
 <TextBlock 79 w:18 h:3>
 Jessie
 "!?<Delay 10>
@@ -403,46 +409,50 @@ You...!!"<Close><End of Block>
 <TextBlock 80 w:44 h:3>
 Billy
 "I still don't believe
-you're even my father.<New>
-You're not the person
-Mother loved."<Close><End of Block>
-<TextBlock 81 w:44 h:3>
+you're even my dad.<New>
+I cannot imagine you
+being the same person
+Mother loved!"<Close><End of Block>
+<TextBlock 81 w:42 h:3>
 Jessie
-"Whaddya mean...<Delay 20>
-You think I'm a fake?"<Close><End of Block>
-<TextBlock 82 w:30 h:2>
-Billy 
-"Ask yourself."<Close><End of Block>
+"You mean...<Delay 20>you think
+I'm an imposter?"<Close><End of Block>
+<TextBlock 82 w:32 h:3>
+Billy
+"If I ask myself
+honestly?"<Close><End of Block>
 <TextBlock 83 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 84 w:56 h:4>
 Jessie
-"You're right. I guess
-there's no way to prove
-it...<New>
-Fine, you still don't
-understand the truth.<Delay 10>
+"Well there's certainly
+nothing I can do to prove
+who I am...<New>
+Fine, you still don't under-
+stand the truth of things.<Delay 10>
 What those guys really are, 
 where you are going..."<Close><End of Block>
 <TextBlock 85 w:36 h:3>
 Billy
-"Father, what are 
+"Father, what are
 you saying...?"<Close><End of Block>
-<TextBlock 86 w:48 h:3>
+<TextBlock 86 w:44 h:3>
 Jessie
-"I'm saying Racquel died
-in vain."<Close><End of Block>
-<TextBlock 87 w:40 h:4>
+"I'm saying that,<Delay 10> as
+things stand,<Delay 20> Racquel
+died for nothing."<Close><End of Block>
+<TextBlock 87 w:38 h:4>
 Billy
-"!!<Delay 10>
-You have no right to
-say mother's name!"<Close><End of Block>
+"!!<Delay 10> You're not
+worthy of speaking
+Mother's name!"<Close><End of Block>
 <TextBlock 88 w:48 h:4>
 Jessie
 "...<Delay 10>
-I see. That's the way it
-is. Fine.<New>
-Anyhow, quit your job.<Delay 10> 
+I see. That's the way
+it is. Fine.<New>
+Anyhow, you have to quit
+the work you're doing.<New>
 Consider it a piece of
 advice from a man who is
 but a stranger to you."<Close><End of Block>

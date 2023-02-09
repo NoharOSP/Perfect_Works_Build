@@ -1,35 +1,35 @@
-<TextBlock 1 w:46 h:6>
+<TextBlock 1 w:48 h:6>
 .....<Delay 10>XafbEW<Delay 10>fadJZ<Delay 10>.....<Delay 10>
 ...<Delay 30>Language Converter
        enabled<New>
 <]>Identified:
- Lamb, Ignas dialect
- Piloting experience:
- None <R> Easy Mode set<New>
+<_>Lamb, Ignas dialect<Delay 30>
+<_>Piloting experience:
+<_>None <R> Easy Mode set<New>
 <]>Synchronizing
- input interface
- with pilot's normal
- reflex time<New>
+<_>input interface
+<_>with pilot's normal
+<_>reflex time<New>
 <]>Warning to pilot:
- COMBAT MODE
- About to enter combat<Delay 20>
- 1200 fuel units left<New>
+<_>COMBAT MODE<Delay 30>
+<_>About to enter combat<Delay 30>
+<_>1200 fuel units left<New>
 <]>Use Command Ring in
- upper left of screen
- to select 'Attack'<New>
+<_>upper left of screen
+<_>to select 'Attack'<New>
 <]>then
- <T>,<S> and <X> buttons to
- commence auto-attack
- sequence<New>
+<_><T>,<S> and <X> buttons to
+<_>commence auto-attack
+<_>sequence<New>
 <]>Power and fuel usage
- differs depending on
- attack type:
- <T>10   <S>20   <X>30
- ('Charge' restores
- 30 fuel units)<Close><End of Block>
-<TextBlock 2 w:46 h:4>
-! WARNING !
+<_>differs depending on
+<_>attack type:
+<_><T>10   <S>20   <X>30<Delay 30>
+<_>('Charge' restores
+<_>30 fuel units)<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+! WARNING !<Delay 30>
 <]>Enemy Gears now
- preparing to attack
- Terminating Help Mode<Close><Close>
+<_>preparing to attack<Delay 30>
+<_>Terminating Help Mode<Close><Close>
 <End of Block>

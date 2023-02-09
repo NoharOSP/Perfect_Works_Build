@@ -320,7 +320,7 @@ An excellent target for
 pirates."<Close><End of Block>
 <TextBlock 57 w:42 h:4>
 Maison
-"Young master!<Delay 30>
+"Young Master!<Delay 30>
 This is not going to
 be an act of piracy!"<Close><End of Block>
 <TextBlock 58 w:30 h:2>
@@ -343,7 +343,7 @@ a musclehead? It'll
 be fun taunting him."<Close><End of Block>
 <TextBlock 62 w:30 h:2>
 Maison
-"Young master!"<Close><End of Block>
+"Young Master!"<Close><End of Block>
 <TextBlock 63 w:42 h:3>
 Bart
 "I know! I know!<New>
@@ -396,15 +396,17 @@ Citan."<Close><End of Block>
 <TextBlock 73 w:14 h:2>
 Bart
 "Yeah!"<Close><End of Block>
-<TextBlock 74 w:36 h:4>
+<TextBlock 74 w:36 h:3>
 Bart
 "There's no way we
-can lose!<Delay 30> No one
-will die in vain!"<Close><End of Block>
+can lose!<New>
+No one wants a
+needless loss of
+life!"<Close><End of Block>
 <TextBlock 75 w:28 h:3>
 Maison
 "Well put,
-young master!"<Close><End of Block>
+Young Master!"<Close><End of Block>
 <TextBlock 76 w:50 h:3>
 Margie
 "You okay?<Delay 30>
@@ -605,7 +607,7 @@ Bart
 "Alright!"<Close><End of Block>
 <TextBlock 113 w:38 h:3>
 Sigurd
-"Young master!<Delay 30>
+"Young Master!<Delay 30>
 I have a proposal."<Close><End of Block>
 <TextBlock 114 w:36 h:2>
 Bart

@@ -31,7 +31,7 @@ Bart
 Whoa..."<Opcode 2 24><Close><End of Block>
 <TextBlock 8 w:30 h:3>
 Sigurd
-"Young master! 
+"Young Master! 
 Are you okay!?"<Close><End of Block>
 <TextBlock 9 w:26 h:4>
 Sigurd

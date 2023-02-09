@@ -1,11 +1,12 @@
-<TextBlock 1 w:50 h:3>
-Bingo!
-Our information was
-correct. It's Kislev's...<New>
+<TextBlock 1 w:46 h:3>
+Bingo!<Delay 32>
+Just as the report
+said <--> a Kislev craft.<New>
 It's huge...
-It appears to be a...<Close><End of Block>
+The model is...<Close><End of Block>
 <TextBlock 2 w:52 h:4>
-That's it! The Goliath!
+No mistaking it!
+The Goliath!<New>
 The one from the
 underground factory we've
 heard so much about!!<New>

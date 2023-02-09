@@ -594,7 +594,7 @@ you! A Gear!<Delay 10>
 It has to be!<Close><End of Block>
 <TextBlock 119 w:40 h:4>
 Maison
-"Young master<Delay 5>...<Delay 10>
+"Young Master<Delay 5>...<Delay 10>
 How goes the Gear
 maintenance?"<Close><End of Block>
 <TextBlock 120 w:46 h:4>
@@ -612,7 +612,7 @@ Besides, I'm bad with
 machines,<Delay 10> so I'd just
 get in the way."<Close><End of Block>
 <TextBlock 121 w:30 h:1>
-Young master<Delay 5>...<Close><End of Block>
+Young Master<Delay 5>...<Close><End of Block>
 <TextBlock 122 w:30 h:4>
 Bart
 "Anyway...

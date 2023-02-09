@@ -1,129 +1,143 @@
-<TextBlock 1 w:34 h:3>
-How old was I...?<Delay 10>
-I don't remember.
-Maybe 8 or 9. <New>
-About then,
-dad taught me
+<TextBlock 1 w:36 h:3>
+How old was I
+at the time...?<New>
+I don't really
+remember.<Delay 10>
+Maybe 8 or 9.<New>
+It was around then
+that Dad taught me
 how to use a gun.<Close><End of Block>
-<TextBlock 2 w:32 h:2>
-One day
-dad disappeared.<Close><End of Block>
-<TextBlock 3 w:44 h:1>
-He just ran out on us.<Close><End of Block>
+<TextBlock 2 w:28 h:2>
+One day, Dad
+disappeared.<Close><End of Block>
+<TextBlock 3 w:48 h:1>
+He just ran out on us...<Close><End of Block>
 <TextBlock 4 w:38 h:1>
 He never came back.<Close><End of Block>
 <TextBlock 5 w:52 h:3>
-Even so,
-I stayed in his room alone
-often.<New>
-Dad's gun,<Delay 10> 
-Dad's smell.<Delay 10><New>
-Those things were all
-I had left to
-remind me of him.<Close><End of Block>
-<TextBlock 6 w:38 h:2>
-But that happiness 
+It was a horrible shock
+even for my young mind,<New>
+but I couldn't bring
+myself to cry.<New>
+Because I still had
+Mom and Prim.<New>
+Even so, I stayed in
+Dad's room alone often.<New>
+His gun,<Delay 10>
+his smell...<Delay 10><New>
+From within those things
+he had left behind,<New>
+I would try to get some
+small sense of<Delay 10> 'a father'.<Close><End of Block>
+<TextBlock 6 w:46 h:2>
+But even that happiness
 didn't last long...<Close><End of Block>
 <TextBlock 7 w:50 h:4>
-When I was 12,
-my house was attacked
-by Reapers
-and mom was killed.<New>
-They were looking for dad
-but mom wouldn't talk.<Close><End of Block>
-<TextBlock 8 w:56 h:3>
-I can still hear it...<Delay 10> 
+When I was 12, the house
+was suddenly attacked by
+a group of Wels, and Mom
+was killed.<New>
+They wanted to know Dad's
+whereabouts, but Mom
+wouldn't talk.<Close><End of Block>
+<TextBlock 8 w:54 h:3>
+I can still hear it...<Delay 20>
 The sound of the bullets
-slowly firing three times...<New>
+Mom fired in retaliation...<New>
+Three shots slowly
+ringing out...<New>
 I even remember the sound
 of the empty shells
 hitting the floor.<New>
-After that,
-the Reapers screamed
-and I heard someone fall.<Close><End of Block>
-<TextBlock 9 w:54 h:2>
-Bishop Stone was the one 
-who helped us then.<Delay 10><New>
-Meeting him changed my life
-from then on.<Close><End of Block>
+But then the Wels
+cried out,<Delay 10> and I
+heard someone fall.<Close><End of Block>
+<TextBlock 9 w:48 h:3>
+It was Bishop Stone who
+rescued us that day.<New>
+It'd be fair to say our
+fortunes changed from
+that meeting onwards.<Close><End of Block>
 <TextBlock 10 w:46 h:3>
 Bart
 "Hey, hey, wait a sec.<Delay 10> 
-Do Reapers talk?"<Close><End of Block>
-<TextBlock 11 w:48 h:4>
+Do Wels talk?"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
 Citan
-"Wait a minute.<Delay 10> 
-Reapers spoke in a human
-language?"<Close><End of Block>
-<TextBlock 12 w:52 h:4>
+"Please wait a moment.<Delay 10> 
+Wels can speak in a
+human language?"<Close><End of Block>
+<TextBlock 12 w:52 h:3>
+Billy
 "Yes.<Delay 10>
-They're not just monsters.
+They're not just monsters.<New>
 Some of them are more
 intelligent than humans."<Close><End of Block>
 <TextBlock 13 w:48 h:4>
-Primera and I hid in the
-shadows escaping death,
-but she hasn't spoken a
-word since. <Close><End of Block>
+Primera and I hid,
+and so escaped death,<Delay 10>
+but she hasn't spoken
+a word since.<Close><End of Block>
 <TextBlock 14 w:52 h:4>
 Like a godsend, kind,
 strong Bishop Stone gave
 me an example to follow.<New>
-I wanted to help save
-someone in need like
+I wanted to save others
+from evil people the way
 he saved us.<New>
-I didn't want there to
-be any more children
-like Primera...<New>
+I didn't want any
+more children to end
+up like Primera...<New>
 So I began training at the
-Church of the Ethos to 
-become just like Bishop 
-Stone.<Close><End of Block>
-<TextBlock 15 w:46 h:4>
+Church of the Ethos in
+order to become just like
+Bishop Stone someday.<Close><End of Block>
+<TextBlock 15 w:46 h:3>
 I left Prim in the care
-of the Church of the 
-Ethos and entered the 
-monastery.<Close><End of Block>
+of the Church and
+entered the monastery.<Close><End of Block>
 <TextBlock 16 w:40 h:1>
 Many years passed...<Close><End of Block>
 <TextBlock 17 w:40 h:3>
 I finished training
 at the monastery and
 became an Etone.<Close><End of Block>
-<TextBlock 18 w:40 h:2>
+<TextBlock 18 w:40 h:3>
 I returned home to
-open the orphange...<Close><End of Block>
+open the orphanage,<Delay 10>
+and shortly after...<Close><End of Block>
 <TextBlock 19 w:46 h:2>
-And he...<Delay 10>had
-unexpectedly come back.<Close><End of Block>
+He...<Delay 10> Dad<Delay 10> unexpectedly
+came back.<Close><End of Block>
 <TextBlock 20 w:50 h:3>
 But he was different.<Delay 10>
 Some terrible accident
-changed him. <New>
-Not only his looks, but
-his character and manner
-had entirely changed too.<New>
-I remembered him as a
-quiet man...<Close><End of Block>
-<TextBlock 21 w:50 h:3>
-But...<Delay 10> more than that,
-I thought maybe I didn't 
-really remember him...<Close><End of Block>
+had disfigured his face.<New>
+Not only that, but his
+character and manner had
+completely changed too.<New>
+The Dad I remembered had
+been a quiet man, but...<Close><End of Block>
+<TextBlock 21 w:52 h:3>
+No...<Delay 10>I'd rather think
+maybe it was me who didn't
+remember him clearly...<Close><End of Block>
 <TextBlock 22 w:48 h:3>
 That's why...<Delay 10>
-I can never think of him
-as a father...<Close><End of Block>
+I still can't think of
+him as my real father...<Close><End of Block>
 <TextBlock 23 w:52 h:3>
-But Prim needed a father, 
-and she'd become attached
-to him.<New>
-Deep in my heart, I too
-thought I wanted a father.<Close><End of Block>
+But Prim needs a father,
+and as a matter of fact
+she's really taken to him.<New>
+I think, deep down, I
+myself do want to have
+a father, too.<Close><End of Block>
 <TextBlock 24 w:44 h:4>
 But...<Delay 10>
-even now I just can't 
-believe he is my real 
-father.<Close><End of Block>
+even now I have a hard
+time believing that's
+really my dad.<Close><End of Block>
 <TextBlock 25 w:54 h:5>
 Stone
 "4 years ago...

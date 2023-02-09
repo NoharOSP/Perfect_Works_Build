@@ -8,17 +8,16 @@ Elly
 "Come on, Billy.<Delay 10>
 There have to be survivors.
 Let's help them."<Close><End of Block>
-<TextBlock 3 w:42 h:4>
+<TextBlock 3 w:32 h:2>
 Elly
-"Yes<Delay 10>...<Delay 10>
-It looks like he is
-going to be alright."<Close><End of Block>
-<TextBlock 4 w:50 h:2>
+"Yes<Delay 10>..."<Close><End of Block>
+<TextBlock 4 w:50 h:3>
 Citan
-"Elly, how is Fei doing?"<Close><End of Block>
+"Elly, is there news of
+Fei's condition?"<Close><End of Block>
 <TextBlock 5 w:42 h:3>
 Citan
-"I see. Then, let us
+"I see. Then let us
 go to the infirmary."<Close><End of Block>
 <TextBlock 6 w:54 h:4>
 Citan
@@ -55,8 +54,8 @@ could not escape.
 Let us go help them."<Close><End of Block>
 <TextBlock 12 w:38 h:3>
 Bart
-"Elly, did Fei get 
-medical treatment?"<Close><End of Block>
+"Is Fei's treatment
+finished, Elly?"<Close><End of Block>
 <TextBlock 13 w:54 h:3>
 Bart
 "Come on.
@@ -91,8 +90,8 @@ Rico
 patching up Fei."<Close><End of Block>
 <TextBlock 20 w:36 h:3>
 Rico
-"Then, let's go to
-the infirmary."<Close><End of Block>
+"Will we go to the
+infirmary, then?"<Close><End of Block>
 <TextBlock 21 w:28 h:3>
 Rico
 "They're pros.

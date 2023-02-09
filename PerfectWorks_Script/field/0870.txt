@@ -11,7 +11,7 @@ will you?"<Close><End of Block>
 <TextBlock 3 w:40 h:3>
 Maison
 "What is the matter,
-young master...?"<Close><End of Block>
+Young Master...?"<Close><End of Block>
 <TextBlock 4 w:48 h:3>
 Bart
 "Nah...I guess I have to
@@ -59,7 +59,7 @@ monarchy and create
 the Republic of Av!"<Close><End of Block>
 <TextBlock 7 w:34 h:2>
 Sigurd
-"Young master..."<Close><End of Block>
+"Young Master..."<Close><End of Block>
 <TextBlock 8 w:36 h:3>
 Maison
 "What in Av 

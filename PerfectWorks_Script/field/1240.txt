@@ -4,13 +4,13 @@
     3F (Beer Hall)
     2F (Sick Bay)
     1F (Deck)
-    B1F (Supply entrance)
+    B1F (Supply Entrance)
     B2F (Dock)
-    Nevermind<Close><End of Block>
+    Never mind<Close><End of Block>
 <TextBlock 2 w:32 h:4>
 Oh, I feel sick.
-Oh please
-don't spin it
+Oh please,
+don't spin it,
 don't spin it...<Close><End of Block>
 <TextBlock 3 w:30 h:2>
 Don't spin it!!
@@ -21,49 +21,56 @@ Bart
 get her involved."<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Fei
-"You mean Margie<Delay 5>...<New>
-Sorry, I know I promised<Delay 5>...<Delay 5>
-that if anything happened,
-I would protect Margie
-and the people of Nisan."<Close><End of Block>
+"You mean Margie<Delay 5>...<Delay 5>
+Sorry, I know I promised<Delay 5>...<New>
+that if anything happened
+to you guys, I would
+protect Margie and the
+people of Nisan."<Close><End of Block>
 <TextBlock 6 w:54 h:4>
 Bart
 "You're worried about that?
-It's okay, you've had it
-tough too.<New>
-I made it okay. That's my
-job.<Delay 15> When the
-Yggdrasil's fixed, I'm
-going on straight ahead..."<Close><End of Block>
+It's okay. Sounds like
+you've had it tough, too...<New>
+Besides, I made it through
+okay.<Delay 15> That means protecting
+them is my job.<New>
+So once the Yggdrasil
+repairs were finished, that
+was the first and foremost
+thing on my mind..."<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Bart
-"Of course I know Nisan's
-in danger. <New>
-But since everything's
-messed up there, I thought
-now would be a good time
-to sneak in there.<New>
-I didn't plan on taking
-her along. As long as I
-knew she was safe there."<Close><End of Block>
-<TextBlock 8 w:52 h:4>
+"I knew full well that
+Nisan was in danger.<New>
+But it's because of all
+the chaos right now that I
+thought I could sneak in.<New>
+I hadn't planned on
+bringing her with us
+after that, though.<New>
+If I could be sure she'd
+be safe in Nisan, then
+leaving her would've been
+fine."<Close><End of Block>
+<TextBlock 8 w:40 h:4>
 Citan
-"But I certainly doubt
-Shakhan will just stand by
-and do nothing..."<Close><End of Block>
-<TextBlock 9 w:46 h:4>
+"But, with Shakhan
+being so quiet..."<Close><End of Block>
+<TextBlock 9 w:48 h:4>
 Bart
 "That's what the people
-from her Sect said too.<New>
-But it's still risky,
-so they say they want
-me to stay close to
-her and protect her."<Close><End of Block>
+from her Sect said, too.<New>
+In any case, the danger
+to her has not changed.<New>
+So they say they want
+me to stay by her side
+and protect her."<Close><End of Block>
 <TextBlock 10 w:40 h:4>
 Fei
-"Really<Delay 5>...<Delay 5>
-And you're okay with
-that?"<Close><End of Block>
+"And<Delay 5>...<Delay 5>
+you're sure you're
+okay with that?"<Close><End of Block>
 <TextBlock 11 w:20 h:2>
 Bart
 "<Delay 5>...<Delay 20>Yeah."<Close><Close><End of Block>

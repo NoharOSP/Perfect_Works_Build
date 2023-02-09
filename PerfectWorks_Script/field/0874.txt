@@ -28,7 +28,7 @@ Carl...?<Delay 100>
 Myyah
 "I see you are quick
 to catch on.<New>
-The Commander should be
+The commander should be
 taking care of all your
 divided forces out by the
 Nisan border as we speak.<New>
@@ -132,7 +132,7 @@ Bart
 <TextBlock 21 w:44 h:4>
 Maison
 "Reinforcements have
-arrived, young master.
+arrived, Young Master.
 Please come aboard."<Close><End of Block>
 <TextBlock 22 w:36 h:2>
 Maison

@@ -28,11 +28,11 @@ fishbowl thing."<Close><End of Block>
 <TextBlock 7 w:38 h:3>
 The wind...
 is calling my name.<Delay 10>
-...<Delay 10>Sigh<Delay 10>...<Close><End of Block>
+...<Delay 10>*Sigh*<Delay 10>...<Close><End of Block>
 <TextBlock 8 w:22 h:3>
 The sea...
 is weeping.<Delay 10>
-...<Delay 10>Sigh<Delay 10>...<Close><End of Block>
+*Sigh*<Delay 10>...<Close><End of Block>
 <TextBlock 9 w:52 h:2>
 Only I...<Delay 10>...<Delay 10>survived.<New>
 My comrades were taken off
@@ -58,7 +58,7 @@ any further than this bed.<Close><End of Block>
 <TextBlock 12 w:54 h:5>
 Anna
 "My husband was eaten by
-that Reaper -Wels- thing...
+that Wels thing...
 We three were the only ones
 saved. What do we do now?"<Close><End of Block>
 <TextBlock 13 w:42 h:3>
@@ -67,111 +67,116 @@ Lance
 on my mom?"<Close><End of Block>
 <TextBlock 14 w:34 h:2>
 Kanna
-"What about dad?"<Close><End of Block>
+"What about Dad?"<Close><End of Block>
 <TextBlock 15 w:50 h:4>
 Doctor
-"...<Delay 15>I don't know.<Delay 10> 
-But for now he's on life 
-support<Delay 10>...<Delay 10>..."<Close><End of Block>
+"...<Delay 15>I don't know.<Delay 10>
+But for now, while he's
+on life support<Delay 10>...<Delay 10>..."<Close><End of Block>
 <TextBlock 16 w:46 h:3>
 Citan
-"...<Delay 20>You mean...<Delay 5> 
-He will be alright<Delay 10>...?"<Close><End of Block>
-<TextBlock 17 w:52 h:4>
+"...<Delay 20>You mean...<Delay 5>
+he will be alright<Delay 10>...?"<Close><End of Block>
+<TextBlock 17 w:56 h:4>
 Doctor
-"...<Delay 20>I guarantee nothing.<Delay 10> 
-I don't know why he's like
-this in the first place."<Close><End of Block>
+"...<Delay 20>I cannot guarantee that.<Delay 10>
+Unfortunately, I don't know
+why he's like this."<Close><End of Block>
 <TextBlock 18 w:10 h:2>
 Bart
 "..."<Close><End of Block>
 <TextBlock 19 w:26 h:3>
 Elly
-"...<Delay 30>My fault<Delay 20>?<Delay 15>
+"...<Delay 30>Is it...<Delay 20>
+my fault?<New>
 ...<Delay 30>I<Delay 10>...<Delay 10>"<Close><End of Block>
-<TextBlock 20 w:52 h:4>
+<TextBlock 20 w:52 h:3>
 Doctor
-"...Then there is hope...
-at the infirmary in the
-Church headquarters."<Close><End of Block>
+"...with their help, maybe
+he'd pull through..."<Close><End of Block>
 <TextBlock 21 w:3 h:1>
 !<Close><End of Block>
 <TextBlock 22 w:36 h:3>
 Elly
 "Fei...
 Can you save Fei?"<Close><End of Block>
-<TextBlock 23 w:52 h:5>
+<TextBlock 23 w:48 h:5>
 Doctor
-"I cannot guarantee it.
-But if we were to take
-him to the Church
-headquarters' hospital..."<Close><End of Block>
-<TextBlock 24 w:50 h:2>
+"I cannot guarantee it!
+But the medical unit at
+the Church of the Ethos
+headquarters..."<Close><End of Block>
+<TextBlock 24 w:36 h:3>
 Elly
-"Then could we save him?"<Close><End of Block>
+"They could save
+him, right?"<Close><End of Block>
 <TextBlock 25 w:54 h:4>
 Doctor
-"I think then that he
+"I think that he
 would most probably
-pull through alright...<New>
+pull through...<New>
 But unfortunately, ordinary
-citizens are only allowed
-into the main hall at
-the Church headquarters.<New>
+citizens are not allowed
+into the Church HQ any
+further than the main hall.<New>
 You would have to become a
 monk, or be introduced by
-someone in the Church<Delay 5>..."<Close><End of Block>
+someone involved with the
+Church<Delay 5>..."<Close><End of Block>
 <TextBlock 26 w:10 h:2>
 Elly
 "..."<Close><End of Block>
 <TextBlock 27 w:50 h:4>
 Doctor
-"Ah, I just remembered.<New>
-I heard that the Etone,
-atoners of sin,
-are coming to Tamuz
-from the Church HQ..."<Close><End of Block>
+"Oh, that's right!<New>
+I heard that one of the
+Church HQ Etones, or
+'atoners of sin', is
+coming to the Tamuz..."<Close><End of Block>
 <TextBlock 28 w:44 h:4>
 Citan
-"What purpose do such
-Etone from the Church
+"What purpose would an
+Etone of the Church
 have here?"<Close><End of Block>
-<TextBlock 29 w:40 h:4>
+<TextBlock 29 w:44 h:4>
 Doctor
-"They're coming here
-to do some type of
-investigation."<Close><End of Block>
-<TextBlock 30 w:30 h:3>
+"It seems they're
+coming to do some type
+of investigation."<Close><End of Block>
+<TextBlock 30 w:30 h:4>
 Bart
-"Etone...
-What are they?"<Close><End of Block>
-<TextBlock 31 w:56 h:5>
+"What's the
+deal with these
+'Etones'?"<Close><End of Block>
+<TextBlock 31 w:52 h:4>
 Doctor
-"They are religious people
-from the Church who cleanse
-away the 'Reapers' or 'Wels'
-that appear here in Aquvy."<Close><End of Block>
-<TextBlock 32 w:54 h:2>
+"They are people from the
+Church who are appointed
+to purge the 'Wels' <--><New>
+terrible revenants that
+appear here in Aquvy."<Close><End of Block>
+<TextBlock 32 w:36 h:3>
 Elly
-"So why don't we ask them?"<Close><End of Block>
-<TextBlock 33 w:52 h:4>
+"So why don't we
+ask this Etone?"<Close><End of Block>
+<TextBlock 33 w:54 h:4>
 Doctor
-"I'll ask them if they can
-help us, but I don't know
-if they will...<New>
-I guess there is no harm
-in asking though..."<Close><End of Block>
+"We can ask...<New>
+I don't know whether or not
+they'd help out with intro-
+ducing you, but it's worth
+trying to talk to them."<Close><End of Block>
 <TextBlock 34 w:46 h:3>
 Elly
-"Alright. Let's go look
-for them."<Close><End of Block>
+"I understand.<Delay 10> Let's go
+look for this person."<Close><End of Block>
 <TextBlock 35 w:50 h:4>
 Citan
-"I will go with Fei and
-the life support machines
-to the Yggdrasil.<New>
-Bart and Elly, you two go
-look for the Etone."<Close><End of Block>
-<TextBlock 36 w:22 h:2>
+"I will transport Fei to
+the Yggdrasil along with
+the life-support machine.<New>
+Bart and Elly, please go
+look for this Etone."<Close><End of Block>
+<TextBlock 36 w:24 h:2>
 Bart
-"...Right."<Close><Close><End of Block>
+"...Got it."<Close><Close><End of Block>

@@ -11,7 +11,7 @@ Myyah
 "Since I have other
 matters to attend to,<New>
 would you mind staying
-here for awhile?"<Close><End of Block>
+here for a while?"<Close><End of Block>
 <TextBlock 4 w:26 h:2>
 Elly
 "Not at all."<Close><End of Block>
@@ -19,21 +19,22 @@ Elly
 Myyah
 "You don't have to worry
 about a thing. Leave the
-rest to me. <New>
-What you need is to 
-recover from your fatigue."<Close><End of Block>
+rest to me.<New>
+For now, please recover
+from the fatigue of your
+time adrift."<Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Myyah
-"Crystalline, blue... 
-like the surface of a
-lake..."<Close><End of Block>
-<TextBlock 7 w:34 h:2>
+"Crystalline blue... 
+like the calm surface
+of a lake..."<Close><End of Block>
+<TextBlock 7 w:24 h:2>
 Elly
-"Uh...excuse me?"<Close><End of Block>
+"Um<Delay 10>..."<Close><End of Block>
 <TextBlock 8 w:38 h:3>
 Myyah
 "Your eyes...
 They're beautiful."<Close><End of Block>
 <TextBlock 9 w:14 h:2>
 Elly
-"What?"<Close><Close><End of Block>
+"Huh?"<Close><Close><End of Block>

@@ -7,7 +7,7 @@ STOP<Close><End of Block>
 Grahf
 "The Goliath wasn't
 built for you to use.<New>
-You must remain on this
+You must remain in this
 land a little longer.
 I can't allow you to
 leave..."<Close><End of Block>
@@ -16,12 +16,11 @@ Grahf
 "So, you can now
 draw upon more of
 your power...<New>
-If that's the case
-then..."<Close><End of Block>
+In that case..."<Close><End of Block>
 <TextBlock 5 w:14 h:2>
 Grahf
 "Huh!?"<Opcode 2 30><Close><End of Block>
 <TextBlock 6 w:44 h:3>
 Citan
-"Fei!
-Hold on tightly now!!"<Close><Close><Close><UNKNOWN CHUNK 247><Close><End of Block>
+"Fei! Hold on
+tightly, now!!"<Close><Close><Close><UNKNOWN CHUNK 247><Close><End of Block>

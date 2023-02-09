@@ -61,16 +61,16 @@ Come again!<Close><End of Block>
 Come again!<Close><End of Block>
 <TextBlock 15 w:50 h:3>
 Fei
-"Oh well, there's nobody 
+"Oh well, there's nobody
 around.<New>
-I guess I'll just leave 
+I guess I'll just leave
 the money here."<Close><End of Block>
 <TextBlock 16 w:30 h:3>
     Items
     Accessories
     Nothing<Close><End of Block>
 <TextBlock 17 w:50 h:3>
-Young master, the old man
+Young Master, the old man
 from the Gun Room sent me
 here for supplies.<New>
 If you want, I can also
@@ -126,8 +126,8 @@ clash, I'll hold out and
 defend this place.<New>
 If Shakhan is crushed, the
 country will change.<New>
-If that happens I'll go 
-home, propose to my girl 
+If that happens I'll go
+home, propose to my girl
 and start a new job.<Close><End of Block>
 <TextBlock 26 w:38 h:2>
 Hey, aren't you the
@@ -147,7 +147,7 @@ Bart
 <TextBlock 32 w:40 h:2>
 Don't try to 
 overdo it.<New>
-Hey, are those your 
+Hey, are those your
 friends back there?<Close><End of Block>
 <TextBlock 33 w:30 h:3>
 Bart
@@ -156,7 +156,7 @@ Fei and Citan."<Close><End of Block>
 <TextBlock 34 w:54 h:2>
 Friends of the young master
 are friends of ours.<New>
-Take your time and 
+Take your time and
 look around.<Close><End of Block>
 <TextBlock 35 w:18 h:2>
 Bart

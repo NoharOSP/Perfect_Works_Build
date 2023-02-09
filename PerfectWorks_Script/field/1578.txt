@@ -143,7 +143,7 @@ Bart
 It's locked on the inside."<Close><End of Block>
 <TextBlock 32 w:56 h:2>
 Sigurd
-"Young master, please wait!"<Close><End of Block>
+"Young Master, please wait!"<Close><End of Block>
 <TextBlock 33 w:46 h:4>
 Sigurd
 "Where were you going!?

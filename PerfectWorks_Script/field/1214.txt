@@ -40,7 +40,7 @@ people who get lost around
 here, y'know...<Delay 10> Hah!<New>
 (Now where was I...!?)<Close><End of Block>
 <TextBlock 10 w:36 h:2>
-Young master, I've
+Young Master, I've
 learned my lesson!<Close><End of Block>
 <TextBlock 11 w:50 h:5>
 What? Why am I here?
@@ -63,7 +63,7 @@ N,<Delay 5> no,<Delay 5> I wouldn't know.<Delay 10>
 (Not that I was sleeping
 on the job or anything...)<Close><End of Block>
 <TextBlock 14 w:40 h:2>
-Young master, c'mon,
+Young Master, c'mon,
 forgive me! Please!<Close><End of Block>
 <TextBlock 15 w:58 h:4>
 What? Why am I here?<Delay 10>
@@ -90,10 +90,10 @@ little, but it still means
 our hopes and dreams are
 also growing to fruition!<Close><End of Block>
 <TextBlock 17 w:50 h:2>
-Oh, young master!<Delay 10>
+Oh, Young Master!<Delay 10>
 This one's gotten bigger!<New>
 Right now, it's taller
-than you, young master.<Close><End of Block>
+than you, Young Master.<Close><End of Block>
 <TextBlock 18 w:42 h:1>
 Grow bigger! Grow...!<Close><End of Block>
 <TextBlock 19 w:50 h:4>

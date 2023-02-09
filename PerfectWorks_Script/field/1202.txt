@@ -91,8 +91,8 @@ Hammer
 "Where are we?"<Close><End of Block>
 <TextBlock 19 w:16 h:3>
 Hammer,<Delay 10>
-Rico...<Delay 10>
-Wake up!<Close><End of Block>
+Rico,<Delay 10>
+wake up!<Close><End of Block>
 <TextBlock 20 w:40 h:3>
 Rico
 "What is this place?<Delay 10>
@@ -108,16 +108,18 @@ the Goliath."<Close><End of Block>
 Rico
 "Who the heck are
 'Bart and his crew'?"<Close><End of Block>
-<TextBlock 23 w:46 h:3>
+<TextBlock 23 w:48 h:3>
 Citan
-"Let us say<Delay 5>...they are
-bandits...<Delay 5>robbing Av.<New>
+"Hmm, let us just say<Delay 5>...<New>
+they are 'honorable
+thieves' operating
+in Av.<New>
 Bart is their leader,<Delay 10>
 though he is still a
 young man."<Close><End of Block>
-<TextBlock 24 w:44 h:4>
+<TextBlock 24 w:50 h:4>
 Rico
-"A robber in this day
+"Such thieves in this day
 and age?<Delay 10> A man with an
 attitude. I like it!!"<Close><End of Block>
 <TextBlock 25 w:48 h:4>

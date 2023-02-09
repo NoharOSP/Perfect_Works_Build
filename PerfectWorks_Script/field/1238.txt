@@ -15,7 +15,7 @@ talk to my stupid son.<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 Hey!<Delay 3>
 You've got your eyes on
-something good...Damn.<Delay 3>
+something good... Damn.<Delay 3>
 You know what this is?<Close><End of Block>
 <TextBlock 5 w:34 h:2>
 ...is what it is.
@@ -64,7 +64,7 @@ Stupid kid!!<New>
 There ain't no way you
 could ever understand
 the soul and romance of
-a Tamuz's man!<Close><End of Block>
+a Tamuz man!<Close><End of Block>
 <TextBlock 19 w:32 h:1>
 Hey, come on in.<Close><End of Block>
 <TextBlock 20 w:48 h:3>
@@ -81,7 +81,7 @@ you, the Tamuz'd have gone
 under long ago!"<Close><End of Block>
 <TextBlock 22 w:48 h:4>
 Hey, have you met the
-Captain yet? He is sooo
+captain yet? He is sooo
 cool! I wanna grow up to
 be just like him.<Close><End of Block>
 <TextBlock 23 w:10 h:1>
@@ -97,14 +97,14 @@ I still need more
 practice.<Close><End of Block>
 <TextBlock 27 w:48 h:3>
 I'm sure the Wels are
-followin' us 'cus of the
-Captain.<Close><End of Block>
+followin' us 'cause of
+the captain.<Close><End of Block>
 <TextBlock 28 w:8 h:1>
 Men!<Close><End of Block>
 <TextBlock 29 w:22 h:1>
-of the sea!<Close><End of Block>
+Of the sea!<Close><End of Block>
 <TextBlock 30 w:32 h:2>
-never lose...<Delay 10>...<Delay 10>
+Never lose...<Delay 10>...<Delay 10>
 ...Hey!<Close><End of Block>
 <TextBlock 31 w:48 h:2>
 Ah, here,
@@ -116,17 +116,17 @@ bottom on parade.<Close><End of Block>
 <TextBlock 33 w:32 h:1>
 Come again soon.<Close><End of Block>
 <TextBlock 34 w:50 h:3>
-My lil' sister pushed me.
+My li'l sister pushed me.
 She always picks on me.
 I'm so scared.<Close><End of Block>
 <TextBlock 35 w:54 h:3>
-My lil' sister pushed me.
+My li'l sister pushed me.
 She always bullies me.
 I'm so scared.<New>
 I'm scared of the Wels too.<Close><End of Block>
 <TextBlock 36 w:46 h:3>
 My big brother's a real
-wimp, he's scared of
+wimp <--> he's scared of
 heights...<New>
 Pathetic. 
 Just calm down.<Close><End of Block>
@@ -138,12 +138,12 @@ Pathetic.
 Just calm down.<Close><End of Block>
 <TextBlock 38 w:28 h:1>
 It's so<Delay 10>...<Delay 10>hot.<Close><End of Block>
-<TextBlock 39 w:48 h:1>
-The Reapers<Delay 10>...<Delay 10>are scary.<Close><End of Block>
+<TextBlock 39 w:42 h:1>
+The Wels<Delay 10>...<Delay 10>are scary.<Close><End of Block>
 <TextBlock 40 w:28 h:1>
 It's so<Delay 10>...<Delay 10>hot.<Close><End of Block>
-<TextBlock 41 w:48 h:1>
-The Reapers<Delay 10>...<Delay 10>are scary.<Close><End of Block>
+<TextBlock 41 w:42 h:1>
+The Wels<Delay 10>...<Delay 10>are scary.<Close><End of Block>
 <TextBlock 42 w:34 h:3>
 I lost.
 You get this.
@@ -181,7 +181,7 @@ Wanna play?
     Okay
     Nope<Close><End of Block>
 <TextBlock 53 w:32 h:2>
-Sigh,
+*Sigh*,
 you'll be sorry.<Close><End of Block>
 <TextBlock 54 w:34 h:2>
 I see, it must be
@@ -189,8 +189,8 @@ for your health.<Close><End of Block>
 <TextBlock 55 w:50 h:7>
 Wow, you suck. Why don't
 you come back when you've
-gotten a little better!<New>
-You'd better practice
+gotten a little better?<New>
+You'd better practise
 somewhere other than
 Tamuz. What? You don't
 know what I'm talking
@@ -201,31 +201,33 @@ about!<Close><End of Block>
 Queenie is so strong.<Close><End of Block>
 <TextBlock 57 w:48 h:1>
 Queenie is so beautiful.<Close><End of Block>
-<TextBlock 58 w:46 h:3>
-I was so surprised
-there are people living
-afloat on the vast sea.<New>
+<TextBlock 58 w:46 h:4>
+I was so surprised!
+I thought surely not <-->
+people adrift on this
+vast sea?<New>
 On top of that, you
 were with two Gears.
 That's unheard of.<Close><End of Block>
-<TextBlock 59 w:42 h:3>
+<TextBlock 59 w:34 h:3>
 Elly
-"Thanks. 
-You helped us out..."<Close><End of Block>
+"Th-Thanks. 
+You saved us..."<Close><End of Block>
 <TextBlock 60 w:52 h:4>
 You'd better thank the
-Captain. <New>
+captain.<New>
 The one who gave the order
 for us to pull you two
 floaters out was the
-Captain o' the Tamuz.<Close><End of Block>
+captain o' the Tamuz.<Close><End of Block>
 <TextBlock 61 w:24 h:3>
 Fei
 "Tamuz? <Delay 5>
 Captain...?"<Close><End of Block>
 <TextBlock 62 w:56 h:3>
 The Tamuz, the city at sea.
-That is where you are now.<New>
+That's the name of the place
+where you are now.<New>
 The captain here is a bit
 of a strange old chap.<New>
 You'll see when you meet
@@ -234,32 +236,33 @@ he's a bad old blighter.<Close><End of Block>
 <TextBlock 63 w:44 h:3>
 Elly
 "Um...
-What about our Gears?"<Close><End of Block>
-<TextBlock 64 w:52 h:3>
-Don't worry about it. We
-put them inside the Tamuz
-through the supply dock.<New>
-Sea water got inside so
-it'll take some time to
-fix them.<Close><End of Block>
+what about our Gears?"<Close><End of Block>
+<TextBlock 64 w:52 h:4>
+Ah, no need to worry. We
+brought them to the Tamuz'
+interior dock through the
+supply entrance.<New>
+Sea water got inside them,
+so it'll take some time
+for repairs.<Close><End of Block>
 <TextBlock 65 w:36 h:3>
 Fei
-"You're repairing 
-them for us?"<Close><End of Block>
+"Repairs... You'll
+do that for us?"<Close><End of Block>
 <TextBlock 66 w:48 h:3>
 Pretty strange for us to
-be so nice, I bet that's
+be so nice. I bet that's
 what you're thinking.<New>
 But really, we had no
 choice because it's the
-Captain's orders...<Close><End of Block>
+captain's orders...<Close><End of Block>
 <TextBlock 67 w:52 h:3>
 Well, I have to go now.
 I'm a busy guy, y'know!<New>
 Come to the bridge after
 you've looked around the
 ship a while.<New>
-I'm sure the Captain would
+I'm sure the captain would
 want to meet you.<Close><End of Block>
 <TextBlock 68 w:28 h:3>
 Elly

@@ -169,7 +169,7 @@ We're real 'pirates' at
 last.<Delay 10> But, now I kinda
 miss life in the sand.<Close><End of Block>
 <TextBlock 37 w:44 h:3>
-Young master, it's a
+Young Master, it's a
 great feeling to see
 a renewed Yggdrasil.<New>
 But it still feels the
@@ -213,7 +213,7 @@ Get enough rest and
 be ready for the
 decisive battle!<Close><End of Block>
 <TextBlock 45 w:52 h:3>
-Young master, you want to
+Young Master, you want to
 sleep here, too?<Delay 10> Trust me,
 you shouldn't do that...<Close><End of Block>
 <TextBlock 46 w:48 h:4>

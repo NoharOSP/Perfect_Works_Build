@@ -30,7 +30,7 @@ Sigurd
 Margie
 "Next time we meet I won't
 be able to call you 'Bart'<Delay 10>
-or 'young master'.<New>
+or 'Young Master'.<New>
 Maybe<Delay 10> 'Your Majesty'<Delay 10>...?"<Close><End of Block>
 <TextBlock 7 w:50 h:4>
 Bart

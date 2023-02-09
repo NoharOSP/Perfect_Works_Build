@@ -1,39 +1,39 @@
 <TextBlock 1 w:42 h:3>
 Fei
-    I'll help!
-    Uh, better not...<Close><End of Block>
-<TextBlock 2 w:40 h:3>
+    Sure, I'll help!
+    Um, better not...<Close><End of Block>
+<TextBlock 2 w:34 h:3>
 Fei
-"Doc, do you know
-how to operate it!?"<Close><End of Block>
+"Doc, you can
+operate it!?"<Close><End of Block>
 <TextBlock 3 w:14 h:1>
 Errr...<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 Citan
-"Are you going to think
-ahead? Or are you going
-to help?"<Close><End of Block>
+"A little patience,
+Fei. Or...did you want
+to give me a hand?"<Close><End of Block>
 <TextBlock 5 w:50 h:4>
 Citan
 "Well then, shall we go?"
     Yeah, let's go
-    Hang on a sec.<Close><End of Block>
+    Hang on a sec<Close><End of Block>
 <TextBlock 6 w:42 h:4>
 Citan
-"Well everyone, this
+"Well, everyone, this
 could be dangerous,
 so please be seated."<Close><End of Block>
 <TextBlock 7 w:48 h:3>
 Citan
 "Call out if you are all
 ready."<Close><End of Block>
-<TextBlock 8 w:46 h:3>
+<TextBlock 8 w:48 h:3>
 Citan
-"...<Delay 30>Uh, let us just say
-I accepted it."<Close><End of Block>
+"N-No,<Delay 30> let us just
+accept your impatience."<Close><End of Block>
 <TextBlock 9 w:42 h:3>
 Citan
-"Just stay calm for a
+"Just sit tight for a
 little longer."<Close><End of Block>
 <TextBlock 10 w:36 h:3>
 Citan
@@ -43,14 +43,14 @@ this."<Close><End of Block>
 Citan
 "...<Delay 60>
 Shall we see if it works?"<Close><End of Block>
-<TextBlock 12 w:48 h:4>
+<TextBlock 12 w:50 h:4>
 Citan
-"Not really...<Delay 30>
+"Who knows...?<Delay 30>
 But, Fei...<New>
-You were not thinking of
-stealing this big thing
-without knowing how to
-operate it, were you?"<Close><End of Block>
+You were not thinking we
+would steal this colossal
+thing WITHOUT operating
+it, were you?"<Close><End of Block>
 <TextBlock 13 w:34 h:2>
 Citan
 "Well, anyway..."<Close><End of Block>
@@ -67,34 +67,35 @@ Rico
 <TextBlock 17 w:44 h:3>
 Rico
 "Hmph. So when are you
-going to let me down?"<Close><End of Block>
+going to drop me off?"<Close><End of Block>
 <TextBlock 18 w:44 h:4>
 Rico
 "Get a load of this!
 I can't believe they'd
 make such a thing..."<Close><End of Block>
-<TextBlock 19 w:26 h:3>
+<TextBlock 19 w:32 h:3>
 Rico
 "Couldn't you
-tell us..."<Delay 60><Close><End of Block>
+have told us..."<Delay 60><Close><End of Block>
 <TextBlock 20 w:42 h:4>
 Elly
 "So they were this
 close to having it up
-and operational..."<Close><End of Block>
-<TextBlock 21 w:32 h:2>
+and running, huh?"<Close><End of Block>
+<TextBlock 21 w:32 h:3>
 Elly
-"Fei, let's go."<Close><End of Block>
+"Fei, let's get
+going."<Close><End of Block>
 <TextBlock 22 w:38 h:4>
 Hammer
 "Bro, this thing is
-incredible... Boy
+incredible... Boy,
 is this exciting."<Close><End of Block>
 <TextBlock 23 w:50 h:3>
 Hammer
 "We're almost there, bro.
 I'm a little nervous."<Close><End of Block>
-<TextBlock 24 w:32 h:3>
+<TextBlock 24 w:28 h:3>
 Hammer
-"...<Delay 15>
-a bit sooner..."<Close><Close><End of Block>
+"...<Delay 15>a bit
+sooner...?"<Close><Close><End of Block>

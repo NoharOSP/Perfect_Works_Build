@@ -117,7 +117,7 @@ who can save us...<Delay 10>
 We're counting on you!"<Close><End of Block>
 <TextBlock 24 w:38 h:4>
 Margie
-"Young master...
+"Young Master...
 You better not die!<Delay 10>
 Promise me!!"<Close><End of Block>
 <TextBlock 25 w:50 h:4>
@@ -144,7 +144,7 @@ you're saying!?"<Close><End of Block>
 <TextBlock 28 w:40 h:4>
 Margie
 "Heh, just kiddin'!!
-Young master, you're
+Young Master, you're
 all panicked!!"<Close><End of Block>
 <TextBlock 29 w:6 h:1>
 ...<Close><End of Block>
@@ -395,8 +395,8 @@ worried about you.<New>
 Can't you see!?<Delay 10>
 Let her stay a little
 while,<Delay 10> okay?"<Close><End of Block>
-<TextBlock 80 w:10 h:1>
-"..."<Close><End of Block>
+<TextBlock 80 w:6 h:1>
+...<Close><End of Block>
 <TextBlock 81 w:44 h:4>
 Billy
 "...Well then...<Delay 10>
@@ -409,10 +409,11 @@ Primera
 Billy
 "Margie, please take care
 of my little sister."<Close><End of Block>
-<TextBlock 84 w:34 h:3>
+<TextBlock 84 w:30 h:3>
 <Chu-Chu>
 "Why don't chu
-ask me that chu?"<Close><End of Block>
+ask me chu do
+that...?"<Close><End of Block>
 <TextBlock 85 w:46 h:4>
 She's holding a note...
 Read it?
@@ -428,10 +429,10 @@ There are three types of
 guns that are standard
 equipment for you...<New>
  Handgun,
- Ether gun,
- Big gun.<New>
+ Ether Gun,
+ Big Gun.<New>
 The only gun that can be
-re-equipped is the handgun.<New>
+re-equipped is the Handgun.<New>
 You can power up guns by
 upgrading their respective
 'ammo' or 'bullets'.<New>
@@ -452,8 +453,8 @@ keep an ample supply of
 ammo in reserve and reload
 as often as possible.<New>
 The only exception to this
-is the Ether gun, which can
-be shot an unlimited amount
+is the Ether Gun, which can
+be shot an unlimited number
 of times.<Close><End of Block>
 <TextBlock 88 w:0 h:1>
 <Close><End of Block>

@@ -53,7 +53,7 @@ Bart
 move on out!"<Close><End of Block>
 <TextBlock 8 w:46 h:4>
 Sigurd
-"Young master, don't
+"Young Master, don't
 try to be a hero...
 just get the job done."<Close><End of Block>
 <TextBlock 9 w:54 h:5>

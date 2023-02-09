@@ -20,8 +20,8 @@ is not allowed in here.
 Please leave.<Close><End of Block>
 <TextBlock 5 w:50 h:3>
 The Bishop's been worried
-about Reapers, refugees,
-Etone, the faith...<Close><End of Block>
+about Wels, refugees,
+Etones, the faith...<Close><End of Block>
 <TextBlock 6 w:54 h:3>
 ("<Delay 10>...Too many Wels are out 
 there now. More than we 

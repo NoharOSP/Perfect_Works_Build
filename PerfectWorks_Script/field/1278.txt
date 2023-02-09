@@ -1,13 +1,13 @@
 <TextBlock 1 w:48 h:4>
 Billy
-"Looks <Delay 10>like <Delay 2>blood <Delay 2>...<Delay 2>...
-What happened on this 
-transport?<New>
-No wait, this is...<Delay 25>
-water with rust in it.<Delay 15>
+"Looks <Delay 10>like <Delay 2>blood<Delay 2>...<Delay 2>...
+What on earth happened
+on this transport?<New>
+No, wait, th-this is...<Delay 25>
+water with rust in it.<New>
 Let's hurry on ahead." <Close><End of Block>
 <TextBlock 2 w:50 h:2>
-It's unlocked but the 
+It's unlocked but the
 door is rusted shut.<New>
 Maybe if you ran into it?<Close><End of Block>
 <TextBlock 3 w:50 h:1>
