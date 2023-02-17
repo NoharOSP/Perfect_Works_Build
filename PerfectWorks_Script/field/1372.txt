@@ -1,32 +1,33 @@
 <TextBlock 1 w:28 h:2>
 Elly
 "That Gear..."<Opcode 2 24><Close><End of Block>
-<TextBlock 2 w:48 h:4>
+<TextBlock 2 w:44 h:4>
 Elly
-"...I know, I know it
-well... Yes...the cavern
-city Zeboim...<New>
-When we were buried in
-that vast mausoleum."<Close><End of Block>
-<TextBlock 3 w:34 h:2>
+"...I know...<Delay 10> I know
+it well...<Delay 10> Yes...the
+cavern city Zeboim...<New>
+This vast mausoleum...
+is where we buried
+ourselves."<Close><End of Block>
+<TextBlock 3 w:40 h:3>
 Elly
-"Huh?...What?<New>
-...<Delay 32>Did I just..."<Close><End of Block>
+"Hmm? ...What?
+...<Delay 32>Just now... I..."<Close><End of Block>
 <TextBlock 4 w:44 h:3>
 Citan
 "That voice...<Delay 25>Wiseman!<New>
 ...<Delay 32>
 ...Go!!
 Everyone, hurry!"<Close><End of Block>
-<TextBlock 5 w:32 h:3>
+<TextBlock 5 w:32 h:4>
 Citan
-"Elly!
-Elly!<New>
-What is wrong!!"<Close><End of Block>
-<TextBlock 6 w:32 h:3>
+"Elly?<Delay 10>
+Elly!<Delay 10>
+What is wrong!?"<Close><End of Block>
+<TextBlock 6 w:34 h:3>
 Citan
-"No...<Delay 32>
-Hurry on ahead."<Close><End of Block>
+"Never mind...<Delay 32>
+Let us hurry on."<Close><End of Block>
 <TextBlock 7 w:30 h:3>
 Citan
 "Bishop Stone!!
@@ -34,11 +35,11 @@ Wait!!"<Close><End of Block>
 <TextBlock 8 w:26 h:2>
 Bart
 "Hey, Citan!"<Opcode 2 24><Close><End of Block>
-<TextBlock 9 w:56 h:3>
+<TextBlock 9 w:52 h:3>
 Bart
-"A city...
-A city beneath the ground...<New>
-Is this...a ruin too?"<Close><End of Block>
+"It's a city... There's a
+city beneath the ground...<Delay 10>
+This...is a ruin too?"<Close><End of Block>
 <TextBlock 10 w:34 h:2>
 Bart
 "...That Gear..."<Opcode 2 32><Close><End of Block>
@@ -56,12 +57,12 @@ Huh?"<Close><End of Block>
 <TextBlock 13 w:26 h:2>
 Billy
 "What the..."<Opcode 2 24><Close><End of Block>
-<TextBlock 14 w:38 h:3>
+<TextBlock 14 w:36 h:3>
 Billy
-"These are ruins of
-a city...<New>
-I've heard of it
-but..."<Close><End of Block>
+"These are the
+ruins of a city...<New>
+I'd heard the
+stories, but<Delay 10>..."<Close><End of Block>
 <TextBlock 15 w:34 h:4>
 Billy
 "Who are you?
@@ -78,10 +79,10 @@ Rico
 <TextBlock 18 w:44 h:3>
 Rico
 "!!!?<Delay 16>
-What the hell!<New>
-We're supposed to be 
-underground, how'd we 
-end up in the air?"<Close><End of Block>
+What the hell!?<New>
+We're supposed to be
+underground... How'd
+we end up in the air?"<Close><End of Block>
 <TextBlock 19 w:14 h:3>
 Rico
 "!!!?<Delay 16>

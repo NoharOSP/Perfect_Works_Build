@@ -997,16 +997,16 @@ captain of the Tamuz!"<Close><End of Block>
 I've detected a rescue signal!<Delay 10>
 It seems the Tamuz is being
 attacked by a swarm of Wels!<Close><End of Block>
-<TextBlock 165 w:46 h:4>
+<TextBlock 165 w:48 h:4>
 Bart
-"So this is the purging
-by Solaris that Stone
-was talking about!?"<Close><End of Block>
-<TextBlock 166 w:46 h:4>
+"Is this what Stone was
+talking about? Some kind
+of purge by Solaris!?"<Close><End of Block>
+<TextBlock 166 w:48 h:4>
 Bart
-"So this is the purging
-by Solaris that Stone
-was talking about!?"<Close><End of Block>
+"Is this what Stone was
+talking about? Some kind
+of purge by Solaris!?"<Close><End of Block>
 <TextBlock 167 w:50 h:4>
 Citan
 "Let us make haste!<Delay 10>
@@ -1361,31 +1361,29 @@ the most important point."<Close><End of Block>
 Billy
 "Well then...
 shall we go, too?"<Close><End of Block>
-<TextBlock 217 w:60 h:4>
-I've picked up the Church's
-fleet and the Tamuz on the
-radar, sir.<Delay 10><New>
-They're on the sea south
-of here.<Delay 10> If we
-travel at full speed we
-can reach them in an hour.<Close><End of Block>
+<TextBlock 217 w:66 h:5>
+Update on the Church Gear and the
+Tamuz fleet, sir.<Delay 10> They're on the
+sea south of here.<Delay 10> If we travel
+at full speed we can reach them
+in an hour.<Close><End of Block>
 <TextBlock 218 w:40 h:3>
 Sigurd
 "Alright!<Delay 10>
 Set sail for Tamuz!"<Close><End of Block>
 <TextBlock 219 w:28 h:1>
 Aye, aye, sir!<Close><End of Block>
-<TextBlock 220 w:34 h:2>
-First Mate!<Delay 10>
-The radar sir...!<Close><End of Block>
+<TextBlock 220 w:32 h:2>
+First Mate!<Delay 10> The
+radar, sir...!<Close><End of Block>
 <TextBlock 221 w:28 h:2>
 Sigurd
 "What is it!?"<Close><End of Block>
 <TextBlock 222 w:46 h:4>
 The radar just detected
-an enormous object!<Delay 10>
-It appeared straight
-above the fleet!<Close><End of Block>
+an unbelievably large
+object!<Delay 10> It appeared
+right above the fleet!<Close><End of Block>
 <TextBlock 223 w:44 h:3>
 Bart
 "Don't tell me Stone's

@@ -9,78 +9,78 @@ are in danger!<Delay 10> They don't
 know anything about this!"<Close><End of Block>
 <TextBlock 3 w:42 h:3>
 Fei
-"So the gate is
+"So the Gate is
 below that shaft..."<Close><End of Block>
 <TextBlock 4 w:26 h:2>
 Fei
 "...Too far."<Close><End of Block>
 <TextBlock 5 w:46 h:4>
 Fei
-"Let's give up.
+"Let's turn back.
 It's impossible to get
-to the gate from here."<Close><End of Block>
+to the Gate from here."<Close><End of Block>
 <TextBlock 6 w:42 h:2>
 Elly
-"That Gear is huge!""<Close><End of Block>
-<TextBlock 7 w:32 h:2>
+"That Gear is huge!"<Close><End of Block>
+<TextBlock 7 w:24 h:2>
 Elly
-"A mobile Gear?"<Close><End of Block>
+"Riot Gear?"<Close><End of Block>
 <TextBlock 8 w:30 h:3>
 Elly
 "Wait a minute!
 That means<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 9 w:56 h:4>
+<TextBlock 9 w:50 h:4>
 Elly
 "The captain and the crew
-are in danger! <Delay 10>
-They don't know about this!"<Close><End of Block>
+are in danger!<Delay 10> They don't
+know about any of this!"<Close><End of Block>
 <TextBlock 10 w:42 h:3>
 Elly
-"There's a gate under
+"There's a Gate under
 the shaft."<Close><End of Block>
 <TextBlock 11 w:38 h:4>
 Elly
-"...How can we get 
+"...How can we get
 there...?
 It's just too far."<Close><End of Block>
 <TextBlock 12 w:46 h:4>
 Elly
 "It's impossible to get
-to the gate from here.
-Let's give up on it."<Close><End of Block>
+to the Gate from here.
+Let's turn back."<Close><End of Block>
 <TextBlock 13 w:38 h:4>
 Citan
 "What? <Delay 5>...<Delay 5>Oh, yes.<Delay 10>
-<Delay 5>...<Delay 5>but, wait<Delay 5>...<Delay 10>
+<Delay 5>...<Delay 5>But wait<Delay 5>...<Delay 10>
 Then that means<Delay 5>..."<Close><End of Block>
-<TextBlock 14 w:36 h:3>
+<TextBlock 14 w:34 h:3>
 Citan
-"The Tamuz's fleet
+"The Tamuz fleet
 is in danger!<New>
 They are unaware
-of this!"<Close><End of Block>
-<TextBlock 15 w:52 h:3>
+of all of this!"<Close><End of Block>
+<TextBlock 15 w:20 h:3>
 Citan
 "What?<Delay 10>
-Yes, something like that."<Close><End of Block>
-<TextBlock 16 w:24 h:3>
+Oh,<Delay 10> yes."<Close><End of Block>
+<TextBlock 16 w:22 h:3>
 Citan
-"Yes<Delay 5>...<Delay 5>
-Probably<Delay 5>...<Delay 5>"<Close><End of Block>
+"Yes<Delay 5>...<Delay 5>most
+likely<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 17 w:38 h:4>
 Citan
 "It does not seem
-possible to go to
-the gate from here.<New>
+possible to get to
+the Gate from here.<New>
 Let us think of
 some other way."<Close><End of Block>
 <TextBlock 18 w:46 h:3>
 Citan
-"...Then, how will you 
+"...Then, how will we
 get under the shaft?"<Close><End of Block>
 <TextBlock 19 w:36 h:3>
 Citan
-"The gate is under
+"The Gate is under
 the shaft."<Close><End of Block>
 <TextBlock 20 w:38 h:4>
 Citan
@@ -91,7 +91,7 @@ Let us think of
 some other way."<Close><End of Block>
 <TextBlock 21 w:46 h:3>
 Citan
-"...Then, how will you 
+"...Then, how will we
 get under the shaft?"<Close><End of Block>
 <TextBlock 22 w:36 h:3>
 Citan
@@ -103,7 +103,7 @@ Bart
 Gear!?"<Close><End of Block>
 <TextBlock 24 w:46 h:3>
 Bart
-"A mobile Gear!?<Delay 10>
+"Riot Gear!?<Delay 10>
 What the heck is that?"<Close><End of Block>
 <TextBlock 25 w:32 h:3>
 Bart
@@ -111,51 +111,51 @@ Bart
 That means...!?"<Close><End of Block>
 <TextBlock 26 w:52 h:4>
 Bart
-"The captain and crew are
-in danger!<Delay 10> They don't know
-anything about this!"<Close><End of Block>
+"The captain and his crew
+are in danger!<Delay 10> They don't
+know anything about this!"<Close><End of Block>
 <TextBlock 27 w:48 h:3>
 Bart
-"There's the gate under 
+"There's the Gate under
 the shaft in back."<Close><End of Block>
 <TextBlock 28 w:50 h:4>
 Bart
 "...We made it this far,
 but how can we get to the
-gate from here?"<Close><End of Block>
+Gate from here?"<Close><End of Block>
 <TextBlock 29 w:46 h:4>
 Bart
 "It's impossible to get
-to the gate from here.
-Let's give up."<Close><End of Block>
+to the Gate from here.
+Let's turn back."<Close><End of Block>
 <TextBlock 30 w:52 h:3>
 Billy
 "I think the Yggdrasil can
 catch up with the Gear.<New>
-Let's hurry and go help 
-the Tamuz's fleet."<Close><End of Block>
+Let's hurry and go help
+the Tamuz fleet."<Close><End of Block>
 <TextBlock 31 w:42 h:4>
 Billy
 "...And it seems to
 be a fair distance to
-reach the gate..."<Close><End of Block>
+reach the Gate..."<Close><End of Block>
 <TextBlock 32 w:54 h:4>
 Billy
-"Heading to the gate from
+"Heading to the Gate from
 here is unthinkable...
 Let's find some other way."<Close><End of Block>
 <TextBlock 33 w:50 h:4>
 Billy
-"I understand there's 
-supposed to be a gate 
+"I understand there's
+supposed to be a Gate
 under the shaft in back."<Close><End of Block>
 <TextBlock 34 w:38 h:3>
 Rico
-"I've never seen a 
+"I've never seen a
 Gear this huge!"<Close><End of Block>
 <TextBlock 35 w:34 h:3>
 Rico
-"A Gear that big 
+"A Gear that big
 can fly!?"<Close><End of Block>
 <TextBlock 36 w:30 h:3>
 Rico
@@ -163,107 +163,121 @@ Rico
 That means...!"<Close><End of Block>
 <TextBlock 37 w:52 h:4>
 Rico
-"Yeh, the Tamuz's fleet is
-in danger.<Delay 10>They're no 
+"Yeah, the Tamuz fleet is
+in danger.<Delay 10> They're no
 match for that Gear."<Close><End of Block>
 <TextBlock 38 w:44 h:3>
 Rico
-"So the gate is under 
+"So the Gate is under
 the shaft."<Close><End of Block>
 <TextBlock 39 w:46 h:3>
 Rico
-"...And, how do you get
-to the gate?"<Close><End of Block>
+"...And how do you get
+to the Gate?"<Close><End of Block>
 <TextBlock 40 w:52 h:3>
 Rico
 "It's impossible. We hafta
 find some other way."<Close><End of Block>
 <TextBlock 41 w:38 h:3>
 Emeralda
-"The gate is under 
+"The Gate is under
 the shaft..."<Close><End of Block>
 <TextBlock 42 w:52 h:4>
 Emeralda
-"...How can we get to the 
-gate? It seems too far 
+"...How can we get to the
+Gate? It seems too far
 from here?"<Close><End of Block>
 <TextBlock 43 w:50 h:3>
 Emeralda
-"We must find some other 
-way to get to the gate."<Close><End of Block>
+"We must find some other
+way to get to the Gate."<Close><End of Block>
 <TextBlock 44 w:38 h:3>
 Emeralda
-"The gate is under 
+"The Gate is under
 the shaft..."<Close><End of Block>
 <TextBlock 45 w:46 h:4>
 Emeralda
-"...How can we get to 
-the gate? It seems too 
+"...How can we get to
+the Gate? It seems too
 far from here?"<Close><End of Block>
 <TextBlock 46 w:50 h:3>
 Emeralda
-"We must find some other 
-way to get to the gate."<Close><End of Block>
+"We must find some other
+way to get to the Gate."<Close><End of Block>
 <TextBlock 47 w:34 h:3>
 <Chu-Chu>
-"So the gate is 
+"So the Gate is
 under the shaft."<Close><End of Block>
 <TextBlock 48 w:32 h:3>
 <Chu-Chu>
-"But, how can we
+"But how can we
 get chu there?"<Close><End of Block>
 <TextBlock 49 w:50 h:4>
 <Chu-Chu>
-"I guess it's impossible 
-chu get chu the gate 
+"I guess it's impossible
+chu get chu the Gate
 from here."<Close><End of Block>
 <TextBlock 50 w:44 h:3>
 Maria
-"So the gate is under 
+"So the gate is under
 the shaft?"<Close><End of Block>
 <TextBlock 51 w:52 h:3>
 Maria
-"But it may be difficult 
+"But it may be difficult
 to get there from here..."<Close><End of Block>
 <TextBlock 52 w:52 h:3>
 Maria
-"We must find some other 
-way to get to the gate..."<Close><End of Block>
-<TextBlock 53 w:44 h:3>
+"We must find some other
+way to get to the Gate..."<Close><End of Block>
+<TextBlock 53 w:40 h:4>
 Jessie
-"Just missed him.<Delay 30>
-Looks like Stein's..."<Close><End of Block>
-<TextBlock 54 w:16 h:2>
+"Looks like we
+just missed him.<Delay 30>
+Our pal Stein is..."<Close><End of Block>
+<TextBlock 54 w:22 h:2>
 Jessie
-"There."<Close><End of Block>
+"...there!"<Close><End of Block>
 <TextBlock 55 w:50 h:4>
 Jessie
-"The mobile Gear of 
-Solaris was...Arc-en-Ciel, <Wait>
-wasn't it Hyuga?"<Close><End of Block>
-<TextBlock 56 w:54 h:5>
+"The Solaris riot Gear,<Delay 10>
+Arc-en-Ciel.<Delay 10> That was it,
+right, Hyuga?"<Close><End of Block>
+<TextBlock 56 w:52 h:4>
 Jessie
-"It may be big but it's
-slow to maneuver, so we'll
-be alright in our Gears.<New>
-But its firepower is
-phenomenal. Against a
-bigger target, like a ship,
-BLAM! It'd be all over.<Wait>
+"The bigger the
+machine, the less
+maneuverable it is,<New>
+so it won't be a problem
+if you're ridin' in your
+Gears.<New>
+But conversely,
+the firepower of that
+thing is phenomenal.<New>
+If it goes up against a
+bigger target like a ship,
+BLAM! There'd be no
+contest.<New>
 Ain't that right, Hyuga?"<Close><End of Block>
-<TextBlock 57 w:36 h:2>
+<TextBlock 57 w:26 h:3>
 Jessie
-"See what I mean?"<Close><End of Block>
-<TextBlock 58 w:40 h:3>
+"See what
+I'm sayin'?"<Close><End of Block>
+<TextBlock 58 w:38 h:3>
 Jessie
-"The Solaris mobile 
-Gear, Arc-en-Ciel."<Close><End of Block>
+"The Solaris riot
+Gear,<Delay 10> Arc-en-Ciel."<Close><End of Block>
 <TextBlock 59 w:54 h:4>
 Jessie
-"It may be big but it's
-slow to maneuver, so we'll
-be alright in our Gears.<New>
-But its firepower is
-phenomenal. Against a
-bigger target, like a ship,
-BLAM! It'd be all over."<Close><Close><End of Block>
+"The bigger the
+machine, the less
+maneuverable it is,<New>
+so it won't be a problem
+if you're ridin' in your
+Gears.<New>
+But conversely,
+the firepower of that
+thing is phenomenal.<New>
+If it goes up against a
+bigger target like a ship,
+BLAM! There'd be no
+contest."<Close><Close><End of Block>

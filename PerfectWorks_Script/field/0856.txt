@@ -113,7 +113,7 @@ People and the saucer.<Close><End of Block>
 ...<Delay 60>That's because you
 live looking down.
 ...<Delay 30>Pitiful.<New>
-The day of judgement
+The day of judgment
 is near, you know!<Close><End of Block>
 <TextBlock 23 w:50 h:3>
 !<Delay 60>

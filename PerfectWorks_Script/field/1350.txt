@@ -1,68 +1,68 @@
-<TextBlock 1 w:50 h:3>
+<TextBlock 1 w:40 h:3>
 Elly
 "What a strange
 building...<New>
-Looks like we're being
-made to take a roundabout
-way."<Close><End of Block>
-<TextBlock 2 w:42 h:3>
+It's like it's
+deliberately making
+us take a detour."<Close><End of Block>
+<TextBlock 2 w:44 h:2>
 Elly
-"To...
-seal up something..."<Close><End of Block>
-<TextBlock 3 w:48 h:4>
+"To<Delay 10> seal something..."<Close><End of Block>
+<TextBlock 3 w:48 h:3>
 Citan
-"...Labyrinths are not
-usually built to protect
-against enemies...<New>
-They are usually made to
-seal up something inside
-of them."<Close><End of Block>
-<TextBlock 4 w:50 h:3>
+"...Generally speaking,
+labyrinths are not made<New>
+to defend against
+invaders, but to
+seal something in."<Close><End of Block>
+<TextBlock 4 w:48 h:3>
 Bart
-"...This is one weird 
+"...This is one weird
 building...<New>
-Airlocks, scanners, 
-encircling hallway.<New>
-That's it.
-...Doesn't look like they
-wanted anyone inside...<New>
-Hmm, looks ruined now,
-like some empty and
-hollow dream."<Close><End of Block>
+Airlocks, scanners,
+corridors that twist
+and turn. And that's it.<New>
+...Seems whoever built
+it didn't want people
+getting very far in...<New>
+Kind of an empty,
+fleeting dream now
+it's been abandoned."<Close><End of Block>
 <TextBlock 5 w:50 h:3>
 Bart
-"...Cripes...<New>
-Don't scare me like that!
-What do you think is
-inside?"<Close><End of Block>
-<TextBlock 6 w:50 h:4>
+"...*Shudder*...
+Doc, don't scare me, man!<New>
+What're we gonna
+find further in?"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
 Billy
-"What an inconvenient
-building...It seems like
-it's refusing outsiders."<Close><End of Block>
-<TextBlock 7 w:44 h:4>
+"What a troublesome
+building... Like it's
+turning away outsiders."<Close><End of Block>
+<TextBlock 7 w:46 h:4>
 Billy
-"Not to keep something
-out, but to keep 
-something in...<New>
+"Not to 'keep something
+out', but to 'keep
+something in'...<New>
 I wonder what that
-something is?"<Close><End of Block>
-<TextBlock 8 w:44 h:3>
+'something' is?"<Close><End of Block>
+<TextBlock 8 w:36 h:3>
 Rico
-"...Full of stairs and
-walls, what a waste.<New>
-Looks like it'll keep
-us out."<Close><End of Block>
+"...Endless walls
+and stairs wastin'
+our time.<New>
+Like we're bein'
+refused entry."<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 Rico
 "Sealed...<New>
 ...If you live in prison
-for a long time it'll
-bother you at first but
-you get used to it and<New>
-ultimately come to depend
-on it.<New>
-Whatever is shut up in
-here, it's gonna be our
-enemy. The same as anyone
-from Solaris."<Close><Close><End of Block>
+too long, it's a rough
+ride to start with,<New>
+but you get used to it,
+and ultimately come to
+depend on it.<New>
+If there's someone shut
+away here, they're surely
+an enemy to us. But maybe
+to Solaris' goons, too."<Close><Close><End of Block>

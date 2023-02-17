@@ -1,14 +1,18 @@
-<TextBlock 1 w:38 h:3>
+<TextBlock 1 w:34 h:4>
 Citan
-"This floor is
-completely active."<Close><End of Block>
+"This floor seems
+to be fully
+operational."<Close><End of Block>
 <TextBlock 2 w:46 h:2>
-'Increasing atmospheric
-pressure' Please wait.<Opcode 2 50><Close><End of Block>
-<TextBlock 3 w:40 h:1>
-'Pressure increased'<Opcode 2 32><Close><End of Block>
-<TextBlock 4 w:42 h:2>
-'Decreasing pressure'
+Equalizing atmospheric
+pressure. Please wait.<Opcode 2 50><Close><End of Block>
+<TextBlock 3 w:24 h:2>
+Equalization
+complete.<Opcode 2 32><Close><End of Block>
+<TextBlock 4 w:26 h:3>
+Decompression
+in progress.
 Please wait.<Opcode 2 50><Close><End of Block>
-<TextBlock 5 w:40 h:1>
-'Pressure decreased'<Opcode 2 32><Close><End of Block>
+<TextBlock 5 w:26 h:2>
+Decompression
+complete.<Opcode 2 32><Close><End of Block>

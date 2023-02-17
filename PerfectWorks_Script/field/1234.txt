@@ -160,84 +160,92 @@ Captain
 "Oh, Citan.
 You came because
 you were worried?"<Close><End of Block>
-<TextBlock 40 w:50 h:4>
+<TextBlock 40 w:40 h:4>
 Citan
-"Yes, you could say that.
-But you seem to be better
-off than I expected."<Close><End of Block>
+"Yes, you could
+say that.<New>
+But you seem to have
+fared better than I
+expected."<Close><End of Block>
 <TextBlock 41 w:24 h:2>
 Captain
 "Of course."<Close><End of Block>
-<TextBlock 42 w:12 h:1>
-We are<Close><End of Block>
+<TextBlock 42 w:14 h:1>
+We are!<Close><End of Block>
 <TextBlock 43 w:8 h:1>
 Men!<Close><End of Block>
 <TextBlock 44 w:24 h:1>
-of the Sea!!<Close><End of Block>
+Of the Sea!!<Close><End of Block>
 <TextBlock 45 w:54 h:4>
 Captain
 "...Is what I'd like to
 say...<New>
 ...but the truth is the
-situation's been pretty
-bad.<New>
+situation was pretty
+serious.<New>
 We've got some that are
 injured badly and some
-that are fatal.<New>
+fatalities.<New>
 But considering what
 happened to the other
-ships, we're in no position
-to complain.<New>
+ships, we're in no
+position to complain.<New>
 And by the way, Citan. What
 the hell is up with that
 fishbowl thing?<New>
 It came out of nowhere and
-kicked our butts and left
+kicked our butts and, to
+make matters worse, left
 behind Wels.<New>
-And then, it headed for
+And then it headed for
 some obscure excavation
 site where there's supposed
 to be nothing.<New>
-Odd, since we were sent
-to go to a more deeper and
+Odd, since we had been told
+to go to a deeper and much
 bigger excavation site."<Close><End of Block>
 <TextBlock 46 w:44 h:2>
 Citan
 "Just as I thought..."<Close><End of Block>
-<TextBlock 47 w:54 h:4>
+<TextBlock 47 w:48 h:4>
 Captain
-"Some say they saw a huge
-Gear-like monster.<New>
-It seemed like it was
-guiding that fishbowl thing
-to the excavation site.<Delay 10>
-Or so I'm told."<Close><End of Block>
-<TextBlock 48 w:52 h:4>
+"Some say they caught
+a glimpse of weird,
+enormous Gear.<New>
+Seemed like it was
+guiding that fishbowl
+thing to the excavation
+site,<Delay 10> they said."<Close><End of Block>
+<TextBlock 48 w:44 h:3>
 Citan
-"Stone<Delay 10>...<Delay 10>
-It appears there is
-something there for sure."<Close><End of Block>
-<TextBlock 49 w:54 h:4>
+"Stone<Delay 10>...<New>
+There would seem to be
+little doubt.<Delay 10>
+Something is there..."<Close><End of Block>
+<TextBlock 49 w:46 h:4>
 Captain
-"Call it salvager's
+"Call it salvagers'
 intuition, but I don't
 wanna get any closer.<New>
-And Citan, is that fishbowl
-an enemy of yours?"<Close><End of Block>
+And Citan, is that
+fishbowl an enemy of
+you and your friends?"<Close><End of Block>
 <TextBlock 50 w:32 h:3>
 Citan
 "You...<Delay 10>
 could say that."<Close><End of Block>
 <TextBlock 51 w:52 h:4>
 Captain
-"Well, I won't ask for
-revenge.<New>
+"Well, I won't ask you
+to get revenge for us.<New>
 But I can't just sit back
-and do nothing. If you're
-against it, we'll help any
-way we can.<New>
+and do nothing.<New>
+If you're going to go get
+in their way, we'll help
+however we can.<New>
 You can ask Hans anything
-about the site."<Close><End of Block>
+about that excavation
+site."<Close><End of Block>
 <TextBlock 52 w:42 h:3>
 Captain
 "What's wrong?
@@ -356,13 +364,14 @@ Hans
 "Captain's great, isn't he?
 Because of him the work
 doesn't run out."<Close><End of Block>
-<TextBlock 75 w:48 h:4>
+<TextBlock 75 w:52 h:4>
 Hans
-"Fishbowl was headed
-due north.<New>
-The north edge of
-that island...<Delay 10>
-But why? There's nothing
+"The fishbowl was headed
+to an island due north
+of here.<New>
+The north edge of that
+island...<Delay 10> But why? There's
+supposed to be nothing
 there but a small mine."<Close><End of Block>
 <TextBlock 76 w:52 h:4>
 Hans
@@ -826,28 +835,28 @@ Fei
 Bart
 "Hmph, well,<Delay 10> do
 whatever you want."<Close><End of Block>
-<TextBlock 169 w:42 h:4>
-Captain
-"What's that!?
-Did you see that huge
-fishbowl thing?"<Close><End of Block>
-<TextBlock 170 w:40 h:3>
+<TextBlock 169 w:36 h:4>
+Captain.
+"Wh-<Delay 10>What in blazes
+is that huge
+fishbowl thing!?"<Close><End of Block>
+<TextBlock 170 w:42 h:2>
 Hans
-"What are you asking
-me for...?"<Close><End of Block>
-<TextBlock 171 w:46 h:4>
+"I...<Delay 10>have no idea..."<Close><End of Block>
+<TextBlock 171 w:44 h:4>
 Captain
-"Weren't the other
-salvager fleets almost
-blown away by one shot?<New>
-Is this the way the
-Church greets us?"<Close><End of Block>
+"Almost the entire
+salvager fleet, blown
+away by one shot...<New>
+Don't tell me this is
+the way the Church
+greets us!?"<Close><End of Block>
 <TextBlock 172 w:48 h:4>
 Hans
-"I seriously doubt that!<New>
-Why do they have to
-attack us? We only
-came to help with
+"Obviously it is!<New>
+What are they attacking
+us for? We only came
+to help with the
 excavations..."<Close><End of Block>
 <TextBlock 173 w:46 h:4>
 C-Captain!<Delay 5> Wels!<Delay 5>
@@ -865,20 +874,19 @@ This can't be happening..."<Close><End of Block>
 Captain
 "...<Delay 10>...<Delay 30>
 Launch the Gears!
-Load the big gun!"<Close><End of Block>
+Load the cannons!"<Close><End of Block>
 <TextBlock 177 w:22 h:2>
 Hans
 "Captain!?"<Close><End of Block>
-<TextBlock 178 w:54 h:4>
+<TextBlock 178 w:52 h:4>
 Captain
 "Alright, y'all!<New>
-We're going to assist and
-rescue any of the survivors
-from the other ships...<New>
-...if at all possible while
-trying to retreat!<New>
-And shoot down those Wels
-with our two guns!
+We will escape while also
+rescuing as many survivors
+as possible from the other
+ships!<New>
+And shoot down the Wels
+with our two cannons!
 Don't let those filthy
 Wels get near our Tamuz!"<Close><End of Block>
 <TextBlock 179 w:48 h:4>
@@ -889,6 +897,6 @@ Take the helm!
 We'll show that fishbowl
 thing how real men of
 the sea retreat!"<Close><End of Block>
-<TextBlock 180 w:24 h:2>
+<TextBlock 180 w:22 h:2>
 Hans
-"Y, yessir!"<Close><Close><End of Block>
+"Y-Yessir!"<Close><Close><End of Block>
