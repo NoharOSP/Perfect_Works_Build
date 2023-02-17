@@ -685,7 +685,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - Almagest http://almagest712.blogspot.com/2017/11/xenogears-my-father-you-mean-my-dad.html
 - Ryan Piccuito ↙ ➡ ↘ ⬇ ↙ ⬅ ↘
 - rafael
-- ribbiwawa
+- ribbiwawa: @ribbiwawaaa
 - Will Bill
 - edrovinhaz
 - Xenocritus
