@@ -706,7 +706,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - Xenocritus
 - krmine
 - edrovinhaz
-- Streetwize
+- Streetwize: @StreetwizeJJ2
 - Nohar
 
 ### Testing:
@@ -715,7 +715,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - rafael
 - The Minester
 - cthuljew
-- RayDreamer
+- RayDreamer: @PromisedPain
 - ChaoticBrave
 - Aero JP
 - Kiahnte
