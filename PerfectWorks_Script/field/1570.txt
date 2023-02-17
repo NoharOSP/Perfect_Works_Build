@@ -154,7 +154,7 @@ The same for all of you!<Close><End of Block>
 <TextBlock 38 w:44 h:2>
 You can't hold anymore
 <Opcode 4 20><Close><End of Block>
-<TextBlock 39 w:18 h:1>
+<TextBlock 39 w:38 h:1>
 Received <Opcode 4 20><Close><End of Block>
 <TextBlock 40 w:50 h:2>
 Bart
@@ -383,7 +383,7 @@ position.<Close><End of Block>
 <TextBlock 95 w:36 h:2>
 <Chu-Chu>
 "Don't chu worry."<Close><End of Block>
-<TextBlock 96 w:20 h:2>
+<TextBlock 96 w:24 h:2>
 Billy
 "<Chu-Chu>!"<Close><End of Block>
 <TextBlock 97 w:46 h:3>
