@@ -1102,45 +1102,41 @@ coming here for help?"<Close><End of Block>
 <TextBlock 141 w:68 h:11>
 <Opcode 14 2>      IGNAS CONFLICT STATUS:
 37th Arms Provision. Upgrading
-Av's Gears from level D2 to D3.<New>
+Av's Gears from level D2 to D3.
 Maintain Kislev Gears at level D2.
-Current balance = 4:6...<New>
+Current balance = 4:6...
      REPORT BY BISHOP SHAKHAN
-       OF THE IGNAS DIOCESE: <New>
+       OF THE IGNAS DIOCESE:
 Due to intervention by an
-unpredictable factor,
-correction is needed.<New>
-Operation progress rate
+unpredictable factor, correction
+is needed. Operation progress rate
 down 30%...<Opcode 2 40><Close><End of Block>
 <TextBlock 142 w:68 h:7>
 <Opcode 14 2><Delay 5>...<Delay 5>Completed investigation of
 the Zeboim city which sank to the
-bottom of the sea<New>
-approximately 4000 years
-ago<Delay 5>...<Delay 5><New>
+bottom of the sea approximately
+4000 years ago<Delay 5>...<Delay 5><Wait>
 After one hundred test digs, the
 city center has been identified<Delay 5>...<Delay 5>
 Excavation scheduled to begin<Delay 5>...<Close><End of Block>
 <TextBlock 143 w:64 h:6>
 <Opcode 14 2>Report No. 50224 from Noatun's
-D Block Committee.<New>
+D Block Committee.
 Transferring data for each
-Battler.<New>
-Biological status of
-A-Class Battler.<New>
-Adaptation rate of the deploy-
-ment plan's Type-Y demihuman.<New>
-Transferring data
+Battler. Biological status of
+A-Class Battler. Adaptation rate
+of the deployment plan's Type-Y
+demihuman. Transferring data
 for the above to the homeland...<Opcode 2 30><Close><End of Block>
 <TextBlock 144 w:62 h:6>
 <Opcode 14 1>Report No. 50227 from Noatun's
-D Block Committee.<New>
-Sigmund's forceful expulsion of
-the Church from the Central
-District has made<New>
-coordination difficult.<New>
+D Block Committee.
+Sigmund's forceful expulsion
+of the Church from the
+Central District has made
+coordination difficult.
 Planning to eliminate Sigmund
-when no longer useful.<New>
+when no longer useful.
 Requesting permission to use
 Battling test subject Ricardo
 to carry out the elimination...<Opcode 2 30><Close><End of Block>
