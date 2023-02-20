@@ -193,7 +193,8 @@ mean Id's..."<Close><End of Block>
 <TextBlock 40 w:16 h:4>
 Elly
 "There had
-to be a way..."<Close><End of Block>
+to be a 
+way..."<Close><End of Block>
 <TextBlock 41 w:54 h:4>
 Torah
 "Well, it's all theoretical
