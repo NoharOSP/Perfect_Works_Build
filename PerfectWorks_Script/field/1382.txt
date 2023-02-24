@@ -1,79 +1,83 @@
-<TextBlock 1 w:48 h:1>
-Do you...<Delay 16>want the power?<Opcode 2 84><Close><End of Block>
-<TextBlock 2 w:46 h:3>
+<TextBlock 1 w:44 h:2>
+Dost thou<Delay 50>
+desire the power?<Opcode 2 84><Close><End of Block>
+<TextBlock 2 w:38 h:4>
 Elly
-"It's no good, it's 
-not getting through..."<Close><End of Block>
-<TextBlock 3 w:36 h:3>
+"N-No good <--> we're
+not getting through
+at all..."<Close><End of Block>
+<TextBlock 3 w:38 h:3>
 Citan
-"It is not getting
+"We are not getting
 through..."<Close><End of Block>
-<TextBlock 4 w:50 h:4>
+<TextBlock 4 w:48 h:4>
 Citan
 "...<Delay 32>
 There is some kind
 of barrier.<New>
-Some kind of negative
-feeling...hatred, somehow
-changed into an Ether,
-forming a barrier...<New>
-If we can somehow change
-our strong force of will
-into Ether also and throw
-that back at it..."<Close><End of Block>
-<TextBlock 5 w:52 h:3>
+Most likely a negative
+sentiment...<Delay 10>hatred...
+converted to Ether and
+acting as a barrier...<New>
+If we too can somehow
+channel our strong force
+of will and change it
+to Ether..."<Close><End of Block>
+<TextBlock 5 w:50 h:3>
 Citan
-"Th, that is a Buntline...<New>
+"Th-That is a Buntline...<New>
 It is an Ether gun Gear
 where the pilot rides
-directly in the bullet.<New>
-If we use that we
-can break Stone's
+directly in the warhead.<New>
+If we use that we can
+surely overcome Stone's
 negative hatred power!<New>
-...H, however...<Close><End of Block>
+...H-<Delay 10>However...<Close><End of Block>
 <TextBlock 6 w:42 h:3>
 Bart
-"No good!
-Didn't get through!!"<Close><End of Block>
+"N-No good! Can't get
+through at all!!"<Close><End of Block>
 <TextBlock 7 w:44 h:4>
 Billy
-"You son of a...!
+"You son of a<-->!
 You used the Wels...
 against my mother...!"<Close><End of Block>
-<TextBlock 8 w:34 h:2>
+<TextBlock 8 w:34 h:3>
 Billy
-"P, people...me?"<Close><End of Block>
-<TextBlock 9 w:12 h:2>
+"Human beings...?
+I've...?"<Close><End of Block>
+<TextBlock 9 w:14 h:2>
 Billy
-"...!"<Close><End of Block>
+"...!?"<Close><End of Block>
 <TextBlock 10 w:46 h:3>
 Rico
-"No good.
-Not getting through..."<Close><End of Block>
-<TextBlock 11 w:50 h:2>
-No, there's nothing there
-for you to regret, Billy!<Close><End of Block>
+"N-No good. Not getting
+through at all..."<Close><End of Block>
+<TextBlock 11 w:42 h:3>
+No,<Delay 10> there ain't a
+single thing for you
+to repent for, Billy!<Close><End of Block>
 <TextBlock 12 w:46 h:3>
-You say you and Racquel
-were in love?<New>
-You always had a
-strong 
-self-preservation
-instinct!!<Close><End of Block>
-<TextBlock 13 w:48 h:3>
+You talk as if you and
+Racquel were in love?<New>
+You always were a
+narcissistic, self-
+serving fool!!<Close><End of Block>
+<TextBlock 13 w:40 h:4>
 Jessie
-"I'll take this one!!<New>
+"I got us covered!!<New>
 Use this, Billy!!
-If you use this you can 
-rip off the barrier!!"<Close><End of Block>
+With this you can
+rip off that barrier
+of his!!"<Close><End of Block>
 <TextBlock 14 w:46 h:3>
 Grahf
-"My fist is the divine 
+"My fist is the divine
 breath!"<Close><End of Block>
 <TextBlock 15 w:50 h:4>
 Grahf
-"Blossom, o fallen seed, 
-and draw upon thy hidden 
+"Blossom, o fallen seed,
+and draw upon thy hidden
 powers!!"<Close><End of Block>
 <TextBlock 16 w:46 h:4>
 Grahf
@@ -83,14 +87,14 @@ Mother of Destruction!"<Close><End of Block>
 <TextBlock 17 w:46 h:3>
 Grahf
 "I am Grahf, the seeker
-of power.<Delay 32><New>
-Doth thou desire the
+of power.<New>
+Dost thou desire the
 power?"<Close><End of Block>
 <TextBlock 18 w:48 h:4>
 Grahf
-"All this power is fake.
-Do you think you can win
-with it?"<Close><End of Block>
+"In the end, a fake power.
+Do you really think you
+can win with that?"<Close><End of Block>
 <TextBlock 19 w:38 h:4>
 Grahf
 "A fake body.
@@ -100,98 +104,107 @@ It is all useless!"<Close><End of Block>
 Grahf
 "I will give you
 the power!"<Close><End of Block>
-<TextBlock 21 w:42 h:3>
+<TextBlock 21 w:32 h:4>
 Stone
-"Observing...What a
-roundabout way...<New>
-Just take care of it 
-and it'll be over..."<Close><End of Block>
+"All this...<Delay 10>
+observing...<Delay 10>
+Scheming...<New>
+Let's just get
+things done..."<Close><End of Block>
 <TextBlock 22 w:50 h:4>
 Stone
-"Those who become enemies
-of the sacred Gazel, I
+"Those who would do ill
+to the sacred Gazel, I
 will eliminate them all.<New>
 Repent now."<Close><End of Block>
-<TextBlock 23 w:38 h:2>
+<TextBlock 23 w:36 h:2>
 Stone
-"Who, <Delay 7>who are you?"<Close><End of Block>
-<TextBlock 24 w:40 h:4>
+"Wh-<Delay 7>Who are you?"<Close><End of Block>
+<TextBlock 24 w:44 h:4>
 Stone
 "Power?
-Hmph, there's power,
-in here!<New>
-I received this body
-from Karellen!"<Close><End of Block>
+Hmph. There's power
+right here!<New>
+I have this body,
+courtesy of Karellen!"<Close><End of Block>
 <TextBlock 25 w:36 h:3>
 Stone
 "What do you mean 
-fake power?"<Close><End of Block>
-<TextBlock 26 w:50 h:2>
+'fake power'?"<Close><End of Block>
+<TextBlock 26 w:42 h:2>
 Stone
-"Aughhh, urgh, huhhhh..."<Opcode 2 50><Close><End of Block>
-<TextBlock 27 w:52 h:4>
+"Aghhh...u-urrghh..."<Opcode 2 50><Close><End of Block>
+<TextBlock 27 w:50 h:4>
 Stone
-"Ha...son of Jesiah, are
-you suffering?<New>
-When I took you in 4
-years ago, that was proof 
-of my old friendship with 
-your father...<New>
-In that hate stained
+"Haha...
+Are you suffering,
+son of Jesiah!?<New>
+When I took you in four
+years ago, that was proof
+of my old friendship
+with your father...<New>
+That hate-stained
 friendship with Jesiah,
-we competed for command
-of Geburah!"<Close><End of Block>
+who challenged me for
+command of Geburah!"<Close><End of Block>
 <TextBlock 28 w:52 h:4>
 Stone
-"Jesiah, like a beast, you
+"Jesiah, who like a beast
 stole the Racquel I loved,<New>
-and threw away the
-command of Geburah that I
-wanted so much, then
-disappeared from Solaris!"<Close><End of Block>
+threw away the command of
+Geburah that I wanted so
+much, then disappeared
+from Solaris!"<Close><End of Block>
 <TextBlock 29 w:48 h:4>
 Stone
-"Yes Billy, let me tell
+"Ahh, yes.
+Billy, let me tell
 you something good...<New>
-Those Wels that you
-have been purging are
-really all people...<New>
-They were chosen by the
-Church of the Ethos and
-converted by Karellen!<New>
+The Wels you have
+been purging this
+whole time...<New>
+They are all ordinary
+people,<Delay 20> chosen by the
+Church and subjected to
+Karellen's procedures!<New>
 You've been slaughtering
-people! Ha ha ha...
-A wretched son for a
-wretched father!<New>
+human beings!<New>
+Ha ha ha... A wretched
+son befitting a wretched
+father!<New>
 Ha ha ha ha ha ha ha!"<Close><End of Block>
-<TextBlock 30 w:38 h:3>
+<TextBlock 30 w:34 h:3>
 Stone
-"Ha, confess to me!
-Pay for your sins!"<Close><End of Block>
-<TextBlock 31 w:38 h:3>
+"Now,
+confess to me!<New>
+Pay for your sins
+with your own
+flesh and bones!"<Close><End of Block>
+<TextBlock 31 w:24 h:4>
 Stone
 "!!!
-...This voice...!!"<Close><End of Block>
-<TextBlock 32 w:50 h:4>
+...Th-This
+voice...!!"<Close><End of Block>
+<TextBlock 32 w:48 h:4>
 Citan
 "...<Delay 32>
 There is some kind
 of barrier.<New>
-Some kind of negative
-feeling...hatred, somehow
-changed into an Ether,
-forming a barrier...<New>
-If we can somehow change
-our strong force of will
-into Ether also and throw
-that back at it..."<Close><End of Block>
-<TextBlock 33 w:52 h:3>
+Most likely a negative
+sentiment...<Delay 10>hatred...
+converted to Ether and
+acting as a barrier...<New>
+If we too can somehow
+channel our strong force
+of will and change it
+to Ether..."<Close><End of Block>
+<TextBlock 33 w:50 h:3>
 Citan
-"Th, that is a Buntline...<New>
+"Th-That is a Buntline...<New>
 It is an Ether gun Gear
 where the pilot rides
-directly in the bullet.<New>
-If we use that we
-can break Stone's
+directly in the warhead.<New>
+If we use that we can
+surely overcome Stone's
 negative hatred power!<New>
-...H, however...<Close><Close><End of Block>
+...H-<Delay 10>However...<Close><Close><End of Block>

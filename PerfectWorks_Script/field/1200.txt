@@ -29,16 +29,16 @@ apologize to those two."<Close><End of Block>
 <TextBlock 7 w:16 h:2>
 Billy
 "Dad..."<Close><End of Block>
-<TextBlock 8 w:42 h:4>
+<TextBlock 8 w:40 h:4>
 Citan
-"Billy...<Delay 10>
-I should not have
-made such a weapon..."<Close><End of Block>
-<TextBlock 9 w:42 h:4>
+"Billy...<Delay 10> I should
+never have made such
+a weapon..."<Close><End of Block>
+<TextBlock 9 w:40 h:4>
 Citan
-"Billy...<Delay 10>
-I should never have
-made such a weapon..."<Close><End of Block>
+"Billy...<Delay 10> I should
+never have made such
+a weapon..."<Close><End of Block>
 <TextBlock 10 w:28 h:3>
 Billy
 "No, it's not
@@ -52,7 +52,7 @@ You're right...<Delay 10>
 Thanks, son.<Close><End of Block>
 <TextBlock 13 w:18 h:2>
 Billy
-"D-dad!"<Close><End of Block>
+"D-<Delay 5>Dad!"<Close><End of Block>
 <TextBlock 14 w:34 h:3>
 Citan
 "Old friend!<Delay 10>
@@ -61,7 +61,7 @@ Are you alright?"<Close><End of Block>
 Citan
 "Old friend!<Delay 10>
 Are you alright?"<Close><End of Block>
-<TextBlock 16 w:50 h:3>
+<TextBlock 16 w:50 h:4>
 Jessie
 "You'd better believe it!<New>
 As if I'd leave that 
@@ -70,48 +70,50 @@ piece of junk in that
 state forever!<New>
 I<Delay 10> made a few
 improvements!"<Close><End of Block>
-<TextBlock 17 w:42 h:4>
+<TextBlock 17 w:44 h:4>
 Jessie
 "Ouchy-wow-wow!!<Delay 10>
-But I never wanna do
-that again though..."<Close><End of Block>
+Even so, I never wanna
+do that again..."<Close><End of Block>
 <TextBlock 18 w:46 h:4>
 Citan
 "But still...<Delay 5>
-talking about hell...<New>
-I am surprised to know
-an irreligious person
-like you would believe
-in life after death..."<Close><End of Block>
+'Hell',<Delay 10> was it?<New>
+It is a surprise that
+Jesiah the unbeliever
+acknowledged life after
+death..."<Close><End of Block>
 <TextBlock 19 w:46 h:4>
 Citan
 "But still...<Delay 5>
-talking about hell...<New>
-I am surprised to know
-an irreligious person
-like you would believe
-in life after death..."<Close><End of Block>
-<TextBlock 20 w:44 h:3>
+'Hell',<Delay 10> was it?<New>
+It is a surprise that
+Jesiah the unbeliever
+acknowledged life after
+death..."<Close><End of Block>
+<TextBlock 20 w:44 h:4>
 Jessie
 "Oh?<Delay 10>
 So you were listening?<New>
-That was a curse.<Delay 10>
-Isn't that a fitting
-end for him?"<Close><End of Block>
-<TextBlock 21 w:34 h:3>
+Just a verbal curse.<Delay 10>
+The perfect parting
+gift for that bastard,
+wouldn't you say?"<Close><End of Block>
+<TextBlock 21 w:34 h:4>
 Citan
-"It is definitely
-your style."<Close><End of Block>
-<TextBlock 22 w:34 h:3>
+"It certainly is
+your coarse style
+of send-off."<Close><End of Block>
+<TextBlock 22 w:34 h:4>
 Citan
-"It is definitely
-your style."<Close><End of Block>
-<TextBlock 23 w:24 h:2>
-Primera
-"Pa<Delay 5>...pa<Delay 5>..."<Close><End of Block>
-<TextBlock 24 w:22 h:2>
+"It certainly is
+your coarse style
+of send-off."<Close><End of Block>
+<TextBlock 23 w:20 h:1>
+Pa<Delay 5>...pa<Delay 5>...<Close><End of Block>
+<TextBlock 24 w:20 h:2>
 Billy
-"P, Prim!?"<Close><End of Block>
+"P-<Delay 10>Prim!?"<Close><End of Block>
 <TextBlock 25 w:30 h:4>
 Billy
 "Prim, what did
@@ -120,11 +122,11 @@ Huh, Prim?"<Close><End of Block>
 <TextBlock 26 w:24 h:2>
 Primera
 "Pa...<Delay 5>pa...<Delay 5>"<Close><End of Block>
-<TextBlock 27 w:54 h:4>
+<TextBlock 27 w:50 h:4>
 Jessie
-"Ha, ha, did you hear that?<Delay 10>
-Primera's problem seems to
-have been solved!"<Close><End of Block>
+"Haha, did you hear that?<Delay 10>
+Primera's curse seems to
+have been lifted!"<Close><End of Block>
 <TextBlock 28 w:34 h:4>
 Billy
 "Hah...!<Delay 10>

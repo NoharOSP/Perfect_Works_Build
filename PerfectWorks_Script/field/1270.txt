@@ -138,23 +138,23 @@ But...<Delay 10>
 even now I have a hard
 time believing that's
 really my dad.<Close><End of Block>
-<TextBlock 25 w:54 h:5>
+<TextBlock 25 w:54 h:3>
 Stone
-"4 years ago...
+"Four years ago...<New>
 After searching to the ends
 of the earth, no trace of
 him could be found."<Close><End of Block>
-<TextBlock 26 w:48 h:3>
+<TextBlock 26 w:40 h:3>
 Stone
-"Racquel, dirtied by
-him<Delay 5>...<Delay 5><New>
-and the reminder of that
-taint...<Delay 30>you and
-your sister<Delay 30>..."<Close><End of Block>
-<TextBlock 27 w:52 h:4>
+"As for Racquel,
+defiled by him<Delay 5>...<Delay 5><New>
+and the proof of
+that defilement, you
+and your sister<Delay 30>..."<Close><End of Block>
+<TextBlock 27 w:48 h:4>
 Stone
-"Through Karellen's wisdom,
-using the Wels, I saved
-Racquel from misery..."<Close><End of Block>
+"Using Karellen's
+remarkable Wels,<Delay 10>
+I saved poor Racquel..."<Close><End of Block>
 <TextBlock 28 w:0 h:1>
 <Close><End of Block>

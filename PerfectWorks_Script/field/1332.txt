@@ -3,22 +3,22 @@ Bart
 "Damn...just in time.
 That guy and Wiseman...
 They're really going at it.<New>
-I can feel the Ether Power
+I can feel the Ether power
 all the way up here!"<Close><End of Block>
 <TextBlock 2 w:48 h:4>
 Billy
 "Wow...just in time.
-The man and Wiseman...<New>
-They're really fighting 
+That man and Wiseman...<New>
+They're really fighting
 it out.
-The Ether Power reaches
+The Ether power reaches
 all the way up here..."<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Rico
-"Damn...just in time.
-That red guy and Wiseman 
+"Damn...just in time. That
+guy in red and Wiseman
 are really going at it.<New>
-The Ether Power's blowing 
+The Ether power's blowing 
 all the way up here..."<Close><End of Block>
-<TextBlock 4 w:12 h:1>
-Broken<Close><Close><End of Block>
+<TextBlock 4 w:14 h:1>
+Broken.<Close><Close><End of Block>

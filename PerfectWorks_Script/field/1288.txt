@@ -9,25 +9,24 @@ Verlaine
 people not associated with
 the Church."<Close><End of Block>
 <TextBlock 3 w:48 h:4>
-This is the Pontiff's
+This is the pontiff's
 room. The general public
 is not allowed in here.
 Please leave.<Close><End of Block>
 <TextBlock 4 w:48 h:4>
-This is the Pontiff's
+This is the pontiff's
 room. The general public
 is not allowed in here.
 Please leave.<Close><End of Block>
 <TextBlock 5 w:50 h:3>
-The Bishop's been worried
+The bishop's been worried
 about Wels, refugees,
 Etones, the faith...<Close><End of Block>
-<TextBlock 6 w:54 h:3>
-("<Delay 10>...Too many Wels are out 
+<TextBlock 6 w:52 h:3>
+(<Delay 10>...Too many Wels are out 
 there now. More than we 
 can handle...<Delay 20><New>
-What are 'they'
-thinking?")<Close><End of Block>
+What are 'they' thinking?)<Close><End of Block>
 <TextBlock 7 w:32 h:1>
 Purge! Purge...!<Close><End of Block>
 <TextBlock 8 w:34 h:2>

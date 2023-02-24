@@ -10,40 +10,37 @@ Sigurd<Delay 5>..."<Close><End of Block>
 <TextBlock 2 w:46 h:2>
 Citan
 "So we are too late..."<Close><End of Block>
-<TextBlock 3 w:46 h:4>
+<TextBlock 3 w:48 h:4>
 Citan
 "Nanomachines are
 robots that are smaller
 than human cells.<New>
-They are used to cure
-diseases or wounds in
-Solaris.<New>
-...She may be a colony
-of nanomachines made
-by an ancient, but
+In Solaris, they are
+used in the treatment
+of illnesses and wounds.<New>
+...She is likely a
+colony of nanomachines
+made by an ancient but
 advanced technology."<Close><End of Block>
 <TextBlock 4 w:54 h:4>
 Citan
-"I am worried about what
-Bishop Stone mentioned.<New>
-He said he needed her
- 'to free humanity
- from its yoke'.<New>
-Perhaps some ancient
-information on human
-reconstruction is hidden
-inside of her body...<New>
-Demihumans, such as Rico
-and Hammer were born from
-the results of the messing
-around with D.N.A....<New>
-That was done by ancient
-Solaris' in the hopes that
-it would bring about the
-restoration of mankind.<New>
+"It is the words of Bishop
+Stone that worry me.<New>
+He mentioned<Delay 10> 'freeing
+humanity from its yoke'.<New>
+Perhaps her body hides some
+ancient information on
+human reconstruction...<New>
+Demihumans such as
+Rico and Hammer were
+born as a result of the
+tampering with DNA<New>
+done by ancient Solaris
+in an effort to revitalize
+humankind.<New>
 If Karellen is thinking of
 trying the same thing with
-improved nanotechnology...
+advanced nanotechnology...
 that would be frightening."<Close><End of Block>
 <TextBlock 5 w:44 h:4>
 Sigurd
@@ -137,46 +134,47 @@ didn't matter whether
 I'm a king or not!!"<Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Bart
-"Citan, so someone named
-Karellen took the kid.
-So what?<New>
+"Citan, if this Karellen
+has taken the kid, what
+does that mean?<New>
 What the heck is a
 nanomachine, anyway?"<Close><End of Block>
 <TextBlock 22 w:54 h:4>
 Bart
-"...Then, what's the prob?
-It's good for people,
-right?<New>
-It just irritates me that
-it's all only for Solaris."<Close><End of Block>
-<TextBlock 23 w:50 h:4>
+"...Then what's the prob?
+It helps people, right?<New>
+It irritates me that
+it's only for Solarians,
+though."<Close><End of Block>
+<TextBlock 23 w:48 h:4>
 Billy
 "Citan, so what happens
-now that Karellen took
-the child?<New>
-What is a nanomachine
+now that this Karellen
+has the child?<New>
+What is a nanomachine,
 anyway?"<Close><End of Block>
-<TextBlock 24 w:52 h:3>
+<TextBlock 24 w:40 h:3>
 Billy
-"Even if it's only for the
+"Even though it's
+restricted to the
 people of Solaris...<New>
-What's wrong with making
-people happy?"<Close><End of Block>
+if it makes people
+happy what's the
+problem?"<Close><End of Block>
 <TextBlock 25 w:44 h:4>
 Rico
-"Citan, someone named
-Karellen took the kid,
-so what?<New>
+"Citan, if this
+Karellen has the kid,
+what does that mean?<New>
 What is a nanomachine,
 anyway?"<Close><End of Block>
 <TextBlock 26 w:52 h:4>
 Rico
-"...Then, what's the prob?
-It's good for people,
-right?<New>
-But it irritates me that
-all of them are for
-Solaris."<Close><End of Block>
+"...Then what's the prob?
+It helps people, right?<New>
+But it does irritate me
+that it's for Solarians
+only."<Close><End of Block>
 <TextBlock 27 w:45 h:11>
 <Opcode 1 255><Extra2 255><Extra2 255><Extra2 255>mapjump
 <Extra2 255><Extra2 255><Extra2 255>flying CAMERA

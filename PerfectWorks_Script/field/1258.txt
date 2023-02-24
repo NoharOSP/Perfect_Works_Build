@@ -28,9 +28,9 @@ Billy
 here.<New>
 If you're a good boy
 you can go sometime."<Close><End of Block>
-<TextBlock 12 w:44 h:3>
-I, <Delay 5>if, <Delay 5> I'm not a
-good boy I can't go...<Delay 10>
+<TextBlock 12 w:40 h:3>
+I-<Delay 5>If <Delay 5>I'm not a good
+boy I can't go...<Delay 10>
 Waahhh!!<Close><End of Block>
 <TextBlock 13 w:40 h:2>
 Can't see the flying

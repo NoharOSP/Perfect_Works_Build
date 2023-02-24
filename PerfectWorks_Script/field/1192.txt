@@ -231,13 +231,14 @@ I told him I was
 'wrong'...<Delay 10>didn't I?"<Close><End of Block>
 <TextBlock 21 w:6 h:1>
 ...<Close><End of Block>
-<TextBlock 22 w:52 h:4>
-Just telling someone you
-were 'wrong' after the
+<TextBlock 22 w:52 h:3>
+Sigurd
+"Just telling someone you
+were 'wrong' after the<New>
 event isn't going to solve
-everything, Young Master.<Close><End of Block>
+everything, Young Master."<Close><End of Block>
 <TextBlock 23 w:54 h:4>
-First Mate
+Sigurd
 "I'm sorry I've delayed
 introducing myself...<New>
 My name is Sigurd, and I'm
@@ -302,35 +303,44 @@ Citan
 <TextBlock 33 w:28 h:2>
 Fei
 "No, nothing."<Close><End of Block>
-<TextBlock 34 w:34 h:2>
+<TextBlock 34 w:30 h:3>
 Fei
-"<Opcode 14 1>I...must go<Delay 5>...!!<Close><End of Block>
+"<Opcode 14 1>I...
+I must go<Delay 5>...!!<Close><End of Block>
 <TextBlock 35 w:52 h:4>
 Citan
 "You are in no condition
 to participate...<Delay 10>
 Let us take care of this!"<Close><End of Block>
-<TextBlock 36 w:48 h:4>
+<TextBlock 36 w:38 h:4>
 Billy
-"Looks like it's time to
-settle the score... But,
-Fei should be resting."<Close><End of Block>
-<TextBlock 37 w:48 h:4>
+"Looks like it's
+time to settle
+the score...<New>
+Fei, please sit
+this one out.
+This may prove to
+be my final job..."<Close><End of Block>
+<TextBlock 37 w:38 h:4>
 Billy
-"Looks like it's time to
-settle the score... But,
-Fei should be resting."<Close><End of Block>
-<TextBlock 38 w:52 h:4>
+"Looks like it's
+time to settle
+the score...<New>
+Fei, please sit
+this one out.
+This may prove to
+be my final job..."<Close><End of Block>
+<TextBlock 38 w:40 h:4>
 Citan
-"Yes. <Delay 10>
-I shall take Fei to the
-infirmary.<New>
-Billy, please take care of
-the rest of things."<Close><End of Block>
-<TextBlock 39 w:44 h:3>
+"Yes.<Delay 10>
+I shall take Fei
+to the infirmary.<New>
+Billy, I will leave
+the rest to you."<Close><End of Block>
+<TextBlock 39 w:36 h:3>
 Billy
-"Please help us if you
-can."<Close><End of Block>
+"Please help me if
+you're willing."<Close><End of Block>
 <TextBlock 40 w:10 h:1>
 Fei!?<Close><End of Block>
 <TextBlock 41 w:24 h:2>
@@ -338,12 +348,13 @@ Fei
 "Uh,<Delay 20> Doc..."<Close><End of Block>
 <TextBlock 42 w:48 h:3>
 Citan
-"Fei, 
-feeling better already?"<Close><End of Block>
-<TextBlock 43 w:24 h:3>
+"Fei, why are you here?
+Feeling better already?"<Close><End of Block>
+<TextBlock 43 w:24 h:4>
 Fei
 "Yeah...<Delay 20>
-Probably..."<Close><End of Block>
+I guess I'm
+alright..."<Close><End of Block>
 <TextBlock 44 w:52 h:4>
 Elly
 "I take my eyes off of you
@@ -352,48 +363,50 @@ what you go and do...<New>
 What are you doing riding
 a Gear when you're only
 just recovering?"<Close><End of Block>
-<TextBlock 45 w:52 h:4>
+<TextBlock 45 w:44 h:4>
 Elly
-"What are you doing riding
-a Gear when you're only
-just recovering?"<Close><End of Block>
-<TextBlock 46 w:52 h:4>
+"What are you doing up
+and about when you're
+still in recovery?"<Close><End of Block>
+<TextBlock 46 w:48 h:4>
 Billy
-"Why are you up and about?
-I thought you were only
-just recovering?<New>
+"What are you doing up
+and about? I thought you
+were still in recovery?<New>
 You shouldn't be doing
 that!"<Close><End of Block>
-<TextBlock 47 w:54 h:4>
+<TextBlock 47 w:44 h:4>
 Bart
-"What are you moving around
-for when you've only just
-recovered?<New>
-Aren't sick people supposed
-to rest in bed!!"<Close><End of Block>
+"What are you moving
+around for when you're
+still recovering?<New>
+The patient should
+be lying low!!"<Close><End of Block>
 <TextBlock 48 w:54 h:4>
 Rico
 "Why are you moving around?
-You've only just recovered!<Delay 10>
+You're still recovering!<Delay 10>
 Get back to bed!!"<Close><End of Block>
-<TextBlock 49 w:52 h:3>
+<TextBlock 49 w:44 h:4>
 Fei
-"I don't know what I'm
-doing here myself...<New>
-I don't have a clear head,
-yet..."<Close><End of Block>
+"Even I'm not sure
+what I'm doing here...<New>
+I found myself in
+the Gear cockpit...<Delay 10>
+I... I don't have a
+clear head, yet..."<Close><End of Block>
 <TextBlock 50 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 51 w:14 h:1>
-Uhhh...<Close><End of Block>
+Ungh...<Close><End of Block>
 <TextBlock 52 w:40 h:4>
 Citan
-"Fei!!<Delay 10>
-You should not be
+"Fei!!<Delay 10> As I thought,
+you should not be
 moving around yet!!"<Close><End of Block>
 <TextBlock 53 w:52 h:3>
-Arc-en-Ciel located straight
-ahead!!<Delay 10>
+Arc-en-Ciel located
+straight ahead!!<Delay 10>
 Prepare Gears for launch!!<Close><End of Block>
 <TextBlock 54 w:0 h:1>
 <Close><End of Block>
