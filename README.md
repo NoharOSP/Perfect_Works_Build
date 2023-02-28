@@ -1,15 +1,14 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.1.5 here:
+Download version 0.1.6 here:
 
-- Mega: https://mega.nz/file/jao1XILS#CQe4_4JBrzzztb6GUNMgLystvc8GM7lNPuZYJ0roddY
-- Google Drive: https://drive.google.com/file/d/1a3JIEe3szTkPE5croBS3Pxv1rto3xt2o/view?usp=share_link
+- Google Drive: https://drive.google.com/file/d/1gM2Fr1EHI8VsUKeCyc99pNIrxOYOwudy/view?usp=share_link
 
 ## Completion stats:
 
 - Name/terminology changes: 100%
-- Main script: 30% (up to escape from Noatun)
+- Main script: 40% (up to Babel Tower)
 - NPC script: Not done (except for name/terminology changes)
 
 ## Coming soon:
@@ -26,6 +25,21 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 The project is also largely incompatible with both Undub and Xenogears 2.0.
 
 ## Version history:
+
+### Version 0.1.6:
+
+02/26/2023
+
+- Various typos have been fixed.
+- Issues where text overlaps boxes have been resolved.
+- Bloody Bros have received the same buffs as Bloody.
+- Text that needs to be slowed down with the fast text patch retains its speed without the patch.
+- 2x exp/gold patch only applies when it has been selected.
+- Citan's description about the Gazel in Solaris retains its changes if half encounters is used.
+- Ramsus' first scene, Verlaine's speech to Billy and the Wave Existence scene no longer freeze the game when used with fast text.
+- Elements and Geburah Guards keep their changed names if both script and monster patches are selected.
+- Cherubina, Myyah, Carlin and Karellen keep their changed names if the encounters patch is used with the script patch.
+
 
 ### Version 0.1.5:
 
@@ -98,6 +112,11 @@ The project is also largely incompatible with both Undub and Xenogears 2.0.
 ## Archive:
 
 ### Builds:
+
+### Version 0.1.5:
+
+- Mega: https://mega.nz/file/jao1XILS#CQe4_4JBrzzztb6GUNMgLystvc8GM7lNPuZYJ0roddY
+- Google Drive: https://drive.google.com/file/d/1a3JIEe3szTkPE5croBS3Pxv1rto3xt2o/view?usp=share_link
 
 ### Version 0.1.4:
 
@@ -196,18 +215,20 @@ As a way of compensating for lower encounter rates, money and experience have be
 
 ### Fast text:
 
-old_script is for versions of the ROM where the script patch hasn't been applied. new_script is for versions of the ROM where the script patch has been applied. The old_script patch contains modified versions of specific scenes where the text scrolls too quickly. The new_script patch does not have these changes as the script patch provides these changes already.
+old_script is for versions of the ROM where the script patch hasn't been applied. new_script is for versions of the ROM where the script patch has been applied. Both versions contain modified versions of specific scenes where the text scrolls too quickly.
 
-The original patch for the fast text patch was created by FFMaster. As stated on the page where the original patch was provided, there are specific scenes where going through the text too quickly will crash the game. These are provided in detail in the link below:
+Scenes with which had the potential to crash the game with FFMaster's version of the patch if you mashed through them have had delay codes added to avoid this from happening.
 
-https://ffhacktics.com/smf/index.php?topic=11638.0
+#### Changed scenes:
 
-#### Changed scenes in old_script:
-
+- Elly crash landing in Lahan.
+- Ramsus' introduction.
 - Shakhan's speech before the tournament.
 - The UFO story in the Orphanage.
 - The Ethos data banks.
+- Revelation about Bishop Stone.
 - Bart's monologue about Ft Jasper when it is first used.
+- Wave Existence scene.
 
 ### Items/spells:
 
@@ -410,6 +431,7 @@ Unless stated otherwise, the stat changed is HP.
 - Dive Bomber: 30 to 60 
 - Lucre Bug: 77 to 150 
 - Neo Gimmick: 7 to 14 
+- Bloody Bros: HP 8888 Atk 75 to 100 
 
 #### Monster weaknesses:
 
@@ -656,9 +678,6 @@ Yggdrasil IV:
 All deathblow learning rates (sans Emeralda) have been doubled to minimize grinding and in case the encounters patch has been applied. Elly's has been changed to 8 from 3 so that players have more time to get her deathblows for plot related reasons.
 
 ## Glitches:
-
-### Fast text:
-- Going through Ramsus' introductory scene too quickly will freeze the game (legacy glitch from the original patch).
 
 ### Items/spells:
 - If Divvy Up is used immediately after it's been used, it's effect will stack onto other party members (will not affect the rest of the game).
