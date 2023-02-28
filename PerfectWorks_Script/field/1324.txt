@@ -3,67 +3,67 @@ Elly
 "No mistake!<Delay 30>
 This has to be the
 Church data bank!"<Close><End of Block>
-<TextBlock 2 w:38 h:4>
+<TextBlock 2 w:40 h:4>
 Elly
-"<Delay 5>...<Delay 10>Wait a minute!<Delay 15>
-...<Delay 10>This is Solaris'
+"<Delay 5>...<Delay 10>On the contrary.<Delay 15>
+This IS Solaris
 equipment!"<Close><End of Block>
 <TextBlock 3 w:48 h:4>
 Elly
-"Don't be so surprised!<New>
-No matter how vast this
-world is, such advanced
-equipment as this could
-only come from Solaris."<Close><End of Block>
+"Is it such a surprise?<New>
+Solaris is the only place
+in the whole world where
+such advanced equipment
+could be made."<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 Elly
-"<Opcode 1 255>Look, here! <Opcode 1 0><New>
+"<Opcode 1 255>Look, here!<Opcode 1 0><New>
 The destinations of all
 resources collected by
 the Church through
 trade with each area...<New>
-All the resources are
-being sent on to the
-Solaris homeland."<Close><End of Block>
+Everything is being
+sent on to the Solaris
+homeland!"<Close><End of Block>
 <TextBlock 5 w:34 h:2>
 Elly
 "I<Delay 5> don't<Delay 5> know..."<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 Elly
 "This is in the Solarian
-language, but it's been
-encoded.<New>
+language, and it's been
+encrypted too.<New>
 Hold on<Delay 5>...<Delay 5>...<Delay 5>
 Ummm<Delay 5>...<Delay 5>...<Delay 5>
 What is this<Delay 5>...<Delay 5>...?<Delay 5>
 ...<Delay 5>...<Delay 5>...<Delay 5>...<Delay 5>..."<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Elly
-"Hold on!
+"I said hold on!
 It's hard to translate
 this stuff!<New>
 Ummm<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>'Lambs'<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>Lambs<Delay 5>...<Delay 5>
 great war<Delay 5>...<Delay 5>collapse<Delay 5>...<Delay 5>
 re-education<Delay 5>...<New>
 ...<Delay 5>postwar rehab plan<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>based on<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>schedule for building
-'Gate' foundations<Delay 5>...<New>
-'Lambs'<Delay 5>...<Delay 5>02-04 to Ignas
+Gate foundations<Delay 5>...<New>
+Lambs<Delay 5>...<Delay 5>02-04 to Ignas
 <Delay 5>...<Delay 5>05-08 to Aquvy<Delay 5>...<Delay 5>
 11-16<Delay 5> to be uniformly
 distributed<Delay 5>...<New>
-Put into practice<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>Church established
+Carry out<Delay 5>...<Delay 5>establishment
+of the Church of the Ethos
 as an organization<Delay 5>...<New>
-<Delay 5>...<Delay 5>Supervision by elders
-<Delay 5>...<Delay 5>conference<Delay 5>...<Delay 5>
-supervision by the Gazel!?<New>
+<Delay 5>...<Delay 5>Supervision to be...
+by assembly of elders<Delay 5>...<New>
+Supervision by the Gazel!?
 The Church is<Delay 5>...!?"<Close><End of Block>
 <TextBlock 8 w:54 h:4>
 Elly
-"In short,<Delay 5>
+"To summarize,<Delay 5>
 it's like this<Delay 5>...<New>
 500 years ago, there was
 a great war that occurred
@@ -74,22 +74,23 @@ outcome was, but after the
 war, Solaris feared another
 land dweller revolt<Delay 5>...<New>
 So Solaris built a 'Gate',<Delay 5>
-or barrier,<Delay 5> that separates
-Solaris' land from the
-rest of the world's land.<New>
-The land dwellers who lived
-within this Gate were made
-to dwell as separate races
-and were thus supervised.<New>
-To carry out the actual
-supervision, Solaris
-established the Church.<New>
-So the Church is actually
-controlled by the 'Gazel
-Ministry',<Delay 5> or Solaris'
-highest governmental body.<New>
-So,<Delay 5> yes,<Delay 5> the Church is
-really a 'front',<Delay 5> or a
+a barrier that separates
+Solaris from the surface
+world.<New>
+The land dwellers in that
+Gated-off world were made
+to live as a separate race,
+which had to be supervised.<New>
+And so the Church of the
+Ethos was established to
+actually carry out that
+supervision.<New>
+The Church is controlled
+by the 'Gazel Ministry',<Delay 5>
+Solaris' highest
+governmental body.<New>
+Basically,<Delay 5> this means the
+Church is a front,<Delay 5> or
 subsidiary organization,<Delay 5>
 working for Solaris!<New>
 Excavation findings, goods
@@ -99,8 +100,8 @@ to Solaris by the Church.<New>
 This also includes 'human
 resources', or people used
 for manual labor and so on.<New>
-Basically, this here is the
-window between the planet's
+This place<Delay 10> is the window
+between the planet's
 surface and Solaris up
 there in the skies above.<New>
 According to these records,
@@ -114,17 +115,20 @@ population distribution
 and excavation records.<New>
 The amount of detailed
 information about races and
-their biological data kind
-of concerns me though..."<Close><End of Block>
+their biological data is
+worrying, though..."<Close><End of Block>
 <TextBlock 10 w:54 h:4>
 Elly
-"There are facilities in
-Solaris for accommodating
-surface dwellers... I know!<New>
-The 3rd class citizen level
-- Earth dwellers of various
-races are regularly sent
-there as manual labor."<Close><End of Block>
+"There are certainly
+facilities in Solaris for<New>
+accommodating surface
+dwellers...<Delay 10>
+That's it! The Third-Class
+citizen level.<New>
+People of various races
+from the surface are
+regularly sent there
+as manual labor."<Close><End of Block>
 <TextBlock 11 w:50 h:4>
 Elly
 "So, do you think Solaris
@@ -136,7 +140,7 @@ Elly
 go on further...<New>
 Bart and Rico, could
 you please accompany
-the person from 'Shevat'
+that person from Shevat
 to the Yggdrasil?"<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Elly
@@ -144,7 +148,7 @@ Elly
 go on further...<New>
 Citan and Rico, could
 you please accompany
-the person from 'Shevat'
+that person from Shevat
 to the Yggdrasil?"<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Elly
@@ -152,7 +156,7 @@ Elly
 go on further...<New>
 Citan and Bart, could
 you please accompany
-the person from 'Shevat'
+that person from Shevat
 to the Yggdrasil?"<Close><End of Block>
 <TextBlock 15 w:48 h:4>
 Elly
@@ -160,7 +164,7 @@ Elly
 go on further...<New>
 Bart and Rico, could
 you please accompany
-the person from 'Shevat'
+that person from Shevat
 to the Yggdrasil?"<Close><End of Block>
 <TextBlock 16 w:48 h:4>
 Elly
@@ -168,7 +172,7 @@ Elly
 go on further...<New>
 Citan and Rico, could
 you please accompany
-the person from 'Shevat'
+that person from Shevat
 to the Yggdrasil?"<Close><End of Block>
 <TextBlock 17 w:48 h:4>
 Elly
@@ -176,98 +180,104 @@ Elly
 go on further...<New>
 Citan and Bart, could
 you please accompany
-the person from 'Shevat'
+that person from Shevat
 to the Yggdrasil?"<Close><End of Block>
 <TextBlock 18 w:52 h:4>
 Elly
 "While I was checking
 the database I found
 out something...<New>
-There seems to be a person
-from 'Shevat' being held
-here by the Church.
+It seems there's a person
+from Shevat being held
+here for some reason by
+the Church.<New>
 We're going further on...<New>
 Bart and Rico, can you
-please rescue and
-accompany that 'Shevite'
-to the Yggdrasil?"<Close><End of Block>
+please rescue that person
+and accompany them to the
+Yggdrasil?"<Close><End of Block>
 <TextBlock 19 w:52 h:4>
 Elly
 "While I was checking
 the database I found
 out something...<New>
-There seems to be a person
-from 'Shevat' being held
-here by the Church.
+It seems there's a person
+from Shevat being held
+here for some reason by
+the Church.<New>
 We're going further on...<New>
-Citan and Rico, can
-you please rescue and
-accompany that 'Shevite'
-to the Yggdrasil?"<Close><End of Block>
+Citan and Rico, can you
+please rescue that person
+and accompany them to the
+Yggdrasil?"<Close><End of Block>
 <TextBlock 20 w:52 h:4>
 Elly
 "While I was checking
 the database I found
 out something...<New>
-There seems to be a person
-from 'Shevat' being held
-here by the Church.
+It seems there's a person
+from Shevat being held
+here for some reason by
+the Church.<New>
 We're going further on...<New>
-Citan and Bart, can
-you please rescue and
-accompany that 'Shevite'
-to the Yggdrasil?"<Close><End of Block>
+Citan and Bart, can you
+please rescue that person
+and accompany them to the
+Yggdrasil?"<Close><End of Block>
 <TextBlock 21 w:52 h:4>
 Elly
 "While I was checking
 the database I found
 out something...<New>
-There seems to be a person
-from 'Shevat' being held
-here by the Church.
+It seems there's a person
+from Shevat being held
+here for some reason by
+the Church.<New>
 We're going further on...<New>
-Bart and Rico, can
-you please rescue and
-accompany that 'Shevite'
-to the Yggdrasil?"<Close><End of Block>
+Bart and Rico, can you
+please rescue that person
+and accompany them to the
+Yggdrasil?"<Close><End of Block>
 <TextBlock 22 w:52 h:4>
 Elly
 "While I was checking
 the database I found
 out something...<New>
-There seems to be a person
-from 'Shevat' being held
-here by the Church.
+It seems there's a person
+from Shevat being held
+here for some reason by
+the Church.<New>
 We're going further on...<New>
-Citan and Rico, can
-you please rescue and
-accompany that 'Shevite'
-to the Yggdrasil?"<Close><End of Block>
+Citan and Rico, can you
+please rescue that person
+and accompany them to the
+Yggdrasil?"<Close><End of Block>
 <TextBlock 23 w:52 h:4>
 Elly
 "While I was checking
 the database I found
 out something...<New>
-There seems to be a person
-from 'Shevat' being held
-here by the Church.
+It seems there's a person
+from Shevat being held
+here for some reason by
+the Church.<New>
 We're going further on...<New>
-Citan and Bart, can
-you please rescue and
-accompany that 'Shevite'
-to the Yggdrasil?"<Close><End of Block>
+Citan and Bart, can you
+please rescue that person
+and accompany them to the
+Yggdrasil?"<Close><End of Block>
 <TextBlock 24 w:40 h:4>
 Citan
 "I am sure of it.<Delay 30>
 This has to be the
 Church data bank."<Close><End of Block>
-<TextBlock 25 w:54 h:4>
+<TextBlock 25 w:48 h:4>
 Citan
-"I say...<Delay 5>a facility of
-this magnitude would even
-be hard to find in Solaris.<New>
+"I say...<Delay 5> A facility
+like this would be hard
+to find even in Solaris.<New>
 Why would the Church
-have such a set up?"<Close><End of Block>
+have such a setup?"<Close><End of Block>
 <TextBlock 26 w:42 h:3>
 Citan
 "Hmm<Delay 5>...<Delay 10>
@@ -276,10 +286,10 @@ the plot thickens<Delay 5>..."<Close><End of Block>
 Citan
 "Here is a relatively
 recent record<Delay 5>...<New>
-It also indicates that
+It, too, indicates that
 there has been a large
-amount of people
-sent to Solaris<Delay 5>...<New>
+number of people sent
+to Solaris<Delay 5>...<New>
 The majority of them were
 people who had come to the
 Church seeking help or
@@ -293,10 +303,10 @@ Billy
 "What?"<Close><End of Block>
 <TextBlock 30 w:48 h:2>
 Citan
-"The 44th salvage plan."<Close><End of Block>
+"The 44th Salvage Plan."<Close><End of Block>
 <TextBlock 31 w:46 h:3>
 Bart
-"The 44th salvage plan?<New>
+"The 44th Salvage Plan?<New>
 Isn't that what the
 captain of the Tamuz
 was talking about?"<Close><End of Block>
@@ -309,8 +319,8 @@ It must have been
 initiated by the Church
 itself, as a completely
 independent project.<New>
-It was commenced about
-... 19 years ago.<Wait>
+It commenced about...
+nineteen years ago.<Delay 10>
 Allow me to display
 the data..."<Close><End of Block>
 <TextBlock 33 w:54 h:4>
@@ -319,7 +329,7 @@ Citan
 that under Aquvy lies an
 ultra-ancient civilization.<New>
 They have been doing a huge
-number of test-digs and
+number of test digs and
 obtained a vast quantity of
 resources from the ruins.<New>
 Biological weapons<Delay 5>...<Delay 5>
@@ -327,36 +337,36 @@ reactive weapons<Delay 5>...<Delay 5>
 Hmm<Delay 5>...<Delay 5>I see, so this must
 be their intention<Delay 5>...<New>
 My assessment of the
-circumstances is that the
+situation would be that the
 Church is attempting to
 break away from Solaris<Delay 5>...<New>
 And once freed from its
 master,<Delay 5> it is likely to
-attempt<Delay 5> world
-domination<Delay 5> on its own."<Close><End of Block>
+attempt<Delay 5> world domination<Delay 5>
+on its own."<Close><End of Block>
 <TextBlock 34 w:54 h:4>
 Rico
 "Attempt a breakaway<Delay 5>...<Delay 5>and
 attempt world domination<Delay 5>...<Delay 5>
-That's a rather ambitious!"<Close><End of Block>
+That's kinda ambitious!"<Close><End of Block>
 <TextBlock 35 w:54 h:4>
 Citan
-"Yes, but the real 
-intentions of the Church
-are quite obvious<Delay 5>...<New>
-The fact that they are
-not reporting the results,<Delay 5>
-let alone the site's very
-existence,<Delay 5> gives it away<Delay 5>...<New>
+"Indeed, but looking at how
+the Church has not reported
+these results,<New>
+or even the existence of
+the site, their true
+intentions are quite
+obvious...<New>
 The Church is planning
 to revolt by monopolizing
 this ultra-advanced
 civilization's resources!<New>
-Actually, such rebellions
-have been quite common<Delay 5>..."<Close><End of Block>
-<TextBlock 36 w:54 h:4>
+Alas, such a ploy would
+not be uncommon."<Close><End of Block>
+<TextBlock 36 w:54 h:2>
 Citan
-"Yes, that is probably it.<Wait>
+"Yes, that is probably it.<New>
 Shall we move along? There
 could be more to find yet!"<Close><End of Block>
 <TextBlock 37 w:48 h:4>
@@ -367,13 +377,13 @@ to keep that lock open."<Close><End of Block>
 <TextBlock 38 w:50 h:2>
 Bart
 "The Church data bank?"<Close><End of Block>
-<TextBlock 39 w:48 h:4>
+<TextBlock 39 w:42 h:4>
 Bart
-"Anyway, this isn't
-something we can just
-check all on our own.<New>
-We should bring everyone
-here we can."<Close><End of Block>
+"Anyway, we won't be
+able to investigate
+this by ourselves.<New>
+Let's get everyone
+here."<Close><End of Block>
 <TextBlock 40 w:30 h:2>
 Bart
 "So that's it."<Close><End of Block>
@@ -384,7 +394,7 @@ this place is damn well
 equipped.<Delay 10> Look at it!"<Close><End of Block>
 <TextBlock 42 w:30 h:2>
 Bart
-"So, <Delay 10>Solaris!?"<Close><End of Block>
+"So-<Delay 10>Solaris!?"<Close><End of Block>
 <TextBlock 43 w:44 h:3>
 Bart
 "What's going on here?
@@ -398,7 +408,7 @@ Bart
 being displayed there?"<Close><End of Block>
 <TextBlock 45 w:42 h:4>
 Citan
-"It looks like some
+"It seems to be a
 transmission record
 from somewhere<Delay 5>...<New>
 We might be able to
@@ -407,21 +417,23 @@ Wait one moment<Delay 5>..."<Close><End of Block>
 <TextBlock 46 w:50 h:4>
 Citan
 "Alright...
-Now I am able to transmit
+Now I am able to redirect
 it to the main displays."<Close><End of Block>
-<TextBlock 47 w:54 h:4>
+<TextBlock 47 w:52 h:4>
 Bart
 "What the heck is this!?
 Why's the Church looking
 into this kinda stuff?<New>
-On top of that,<Opcode 1 255> that<Delay 20>
-<Opcode 1 0>Shakhan's a bishop!?<Delay 30> Wasn't
-he excommunicated from the
-Church 17 years ago!?"<Close><End of Block>
+What's more,<Delay 20><Opcode 1 255> that
+Shakhan's a bishop!?<Opcode 1 0><New>
+Wasn't he excommunicated
+from the Church seventeen
+years ago!?"<Close><End of Block>
 <TextBlock 48 w:52 h:3>
 Bart
 "There's a terminal switch
-over here too. <Delay 10>...<Delay 10>Huh?<New>
+over here too<Delay 10>...<New>
+Huh?
 What's with these letters?<Delay 10>
 I can't read this."<Close><End of Block>
 <TextBlock 49 w:36 h:2>
@@ -430,11 +442,10 @@ Bart
 <TextBlock 50 w:12 h:2>
 Bart
 "Huh?"<Close><End of Block>
-<TextBlock 51 w:28 h:4>
+<TextBlock 51 w:30 h:3>
 Bart
-"So...<Delay 20>
-what does this
-all mean?"<Close><End of Block>
+"What...<Delay 20>does
+this all mean?"<Close><End of Block>
 <TextBlock 52 w:54 h:4>
 Bart
 "Surely not all of them?<Delay 10>
@@ -443,41 +454,43 @@ that didn't become Etones?"<Close><End of Block>
 <TextBlock 53 w:34 h:2>
 Billy
 "Well<Delay 15>...<Delay 15>arrh<Delay 15>...?"<Close><End of Block>
-<TextBlock 54 w:40 h:4>
+<TextBlock 54 w:28 h:4>
 Bart
-"It's all becoming
-clear then, eh...<Delay 10>
-How about it, Elly?"<Close><End of Block>
-<TextBlock 55 w:46 h:3>
+"Exactly.<Delay 10>
+What do you
+think, Elly?"<Close><End of Block>
+<TextBlock 55 w:46 h:4>
 Rico
-"So this is the source
-of their labor supply."<Close><End of Block>
+"So the surface is the
+source of their labor
+supply."<Close><End of Block>
 <TextBlock 56 w:54 h:4>
 Billy
 "Judging from our position,
 this room is right under
 the cathedral...<New>
-Which could mean that this
-is the Church<Delay 10> data bank?"<Close><End of Block>
+Does that mean, perhaps,
+that this is the Church
+data bank?"<Close><End of Block>
 <TextBlock 57 w:52 h:4>
 Billy
 "This data bank holds all
-the information concerning
-the Church.<New>
+information concerning the
+Church of the Ethos.<New>
 From the past to the
-present... everything!<Delay 10>
+present <--> everything!<Delay 10>
 This facility is strictly
-off limits to us.<New>
-Only the Bishop class
-can ever enter this area."<Close><End of Block>
-<TextBlock 58 w:54 h:4>
+off-limits to us.<New>
+Only the bishop class
+can even enter this area."<Close><End of Block>
+<TextBlock 58 w:46 h:4>
 Billy
-"Don't ask me<Delay 5>...<Delay 10>
-How would I know<Delay 5>...<Delay 10> This is
-my first time in here<Delay 5>...!"<Close><End of Block>
+"What!?<Delay 10> Don't ask me...<Delay 10>
+This is my first time
+in here<Delay 5>..."<Close><End of Block>
 <TextBlock 59 w:44 h:4>
 Billy
-"B, but, why would the
+"B-<Delay 5>But why would the
 Church be sending
 supplies to Solaris!?"<Close><End of Block>
 <TextBlock 60 w:36 h:4>
@@ -489,15 +502,16 @@ of the sort!"<Close><End of Block>
 Billy
 "They became Etones...
 like me..."<Close><End of Block>
-<TextBlock 62 w:52 h:3>
+<TextBlock 62 w:28 h:3>
 Billy
-"But that's impossible<Delay 5>...!<Delay 5>
-How could that be<Delay 5>..."<Close><End of Block>
-<TextBlock 63 w:54 h:4>
+"No<Delay 5>...<Delay 5>
+How could<Delay 5>...?"<Close><End of Block>
+<TextBlock 63 w:52 h:4>
 Billy
-"Even<Delay 5> if that was the case,<Delay 5>
-who would kill all those
-Church people,<Delay 5> and why!?"<Close><End of Block>
+"Even if that's all true,<Delay 5>
+who on earth just killed
+the Church people here,<New>
+and why!?"<Close><End of Block>
 <TextBlock 64 w:32 h:4>
 Billy
 "The Church<Delay 5>...<Delay 5>
@@ -509,46 +523,48 @@ Bart
 How long you plannin'
 on being like that?
 Get a hold of yourself!"<Close><End of Block>
-<TextBlock 66 w:52 h:4>
+<TextBlock 66 w:48 h:4>
 Citan
 "This is all just
 speculation based on
 circumstantial evidence.<New>
-It would be best for you
-to confirm what is the
-truth with your own eyes."<Close><End of Block>
+It would be best to
+confirm what the truth
+is with your own eyes."<Close><End of Block>
 <TextBlock 67 w:40 h:3>
 Billy
-"B, but, that door
-is locked though..."<Close><End of Block>
+"B-But the door back
+there is locked..."<Close><End of Block>
 <TextBlock 68 w:24 h:2>
 Rico
 "Data bank?"<Close><End of Block>
-<TextBlock 69 w:42 h:3>
+<TextBlock 69 w:42 h:4>
 Rico
-"Regardless, we can't
-do this by ourselves.<New>
+"Regardless, we won't
+get anywhere with
+this by ourselves.<New>
 Let's go get the rest
 of the gang."<Close><End of Block>
 <TextBlock 70 w:52 h:2>
 Rico
 "Yeah, as I thought, huh."<Close><End of Block>
-<TextBlock 71 w:46 h:3>
+<TextBlock 71 w:40 h:4>
 Rico
-"The Church has been
-assaulted by someone<Delay 5>...<New>
-And in the basement<Delay 5>...<Delay 10>
+"The Church is
+attacked by someone
+out of the blue.<New>
+And in the basement<Delay 10>
 we find a Solarian
-facility<Delay 5>..."<Close><End of Block>
-<TextBlock 72 w:34 h:3>
+facility."<Close><End of Block>
+<TextBlock 72 w:28 h:3>
 Rico
-"Then let's
-investigate...!?"<Close><End of Block>
+"Let's
+investigate."<Close><End of Block>
 <TextBlock 73 w:46 h:4>
 Rico
-"That can't be the case
-if he's been sending in
-regular reports."<Close><End of Block>
+"Doesn't seem to be the
+case if he's regularly
+putting in reports."<Close><End of Block>
 <TextBlock 74 w:48 h:3>
 Rico
 "It's all a front!<New>
@@ -557,9 +573,9 @@ subsidiary organization
 of Solaris."<Close><End of Block>
 <TextBlock 75 w:52 h:4>
 Rico
-"So, the Church has
-been manipulating us, heh.<Delay 20>
-Anything else?"<Close><End of Block>
+"So it means the Church
+has been controlling us...
+Heh.<Delay 20> Anything else?"<Close><End of Block>
 <TextBlock 76 w:48 h:4>
 Rico
 "So what happened to all
@@ -572,70 +588,70 @@ You three should go on
 further and investigate."<Close><End of Block>
 <TextBlock 78 w:40 h:4>
 Elly
-"I am sure of it!<Delay 30>
+"I'm sure of it!<Delay 30>
 This has to be the
 Church data bank!"<Close><End of Block>
-<TextBlock 79 w:38 h:4>
+<TextBlock 79 w:40 h:4>
 Elly
-"<Delay 5>...<Delay 10>Wait a minute!<Delay 15>
-...<Delay 10>This is Solaris'
+"<Delay 5>...<Delay 10>On the contrary.<Delay 15>
+This IS Solaris
 equipment!"<Close><End of Block>
 <TextBlock 80 w:48 h:4>
 Elly
-"Don't act so surprised!<New>
-No matter how vast this
-world is, such advanced
-equipment as this could
-only come from Solaris."<Close><End of Block>
+"Is it such a surprise?<New>
+Solaris is the only place
+in the whole world where
+such advanced equipment
+could be made."<Close><End of Block>
 <TextBlock 81 w:46 h:4>
 Elly
-"<Opcode 1 255>Look, here! <Opcode 1 0><New>
+"<Opcode 1 255>Look, here!<Opcode 1 0><New>
 The destinations of all
 resources collected by
 the Church through
 trade with each area...<New>
-All the resources are
-being sent on to the
-Solaris homeland."<Close><End of Block>
+Everything is being
+sent on to the Solaris
+homeland!"<Close><End of Block>
 <TextBlock 82 w:34 h:2>
 Elly
 "I<Delay 5> don't<Delay 5> know..."<Close><End of Block>
 <TextBlock 83 w:48 h:4>
 Elly
 "This is in the Solarian
-language, but it's been
-encoded.<New>
+language, and it's been
+encrypted too.<New>
 Hold on<Delay 5>...<Delay 5>...<Delay 5>
 Ummm<Delay 5>...<Delay 5>...<Delay 5>
 What is this<Delay 5>...<Delay 5>...?<Delay 5>
 ...<Delay 5>...<Delay 5>...<Delay 5>...<Delay 5>..."<Close><End of Block>
 <TextBlock 84 w:52 h:4>
 Elly
-"Hold on!
+"I said hold on!
 It's hard to translate
 this stuff!<New>
 Ummm<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>'Lambs'<Delay 5>...<Delay 5>
+<Delay 5>...<Delay 5>Lambs<Delay 5>...<Delay 5>
 great war<Delay 5>...<Delay 5>collapse<Delay 5>...<Delay 5>
 re-education<Delay 5>...<New>
 ...<Delay 5>postwar rehab plan<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>based on<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>schedule for building
-'Gate' foundations<Delay 5>...<New>
-'Lambs'<Delay 5>...<Delay 5>02-04 to Ignas
+Gate foundations<Delay 5>...<New>
+Lambs<Delay 5>...<Delay 5>02-04 to Ignas
 <Delay 5>...<Delay 5>05-08 to Aquvy<Delay 5>...<Delay 5>
 11-16<Delay 5> to be uniformly
 distributed<Delay 5>...<New>
-Put into practice<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>Church established
+Carry out<Delay 5>...<Delay 5>establishment
+of the Church of the Ethos
 as an organization<Delay 5>...<New>
-<Delay 5>...<Delay 5>Supervision by elders
-<Delay 5>...<Delay 5>conference<Delay 5>...<Delay 5>
-supervision by the Gazel!?<New>
+<Delay 5>...<Delay 5>Supervision to be...
+by assembly of elders<Delay 5>...<New>
+Supervision by the Gazel!?
 The Church is<Delay 5>...!?"<Close><End of Block>
 <TextBlock 85 w:54 h:4>
 Elly
-"In short,<Delay 5>
+"To summarize,<Delay 5>
 it's like this<Delay 5>...<New>
 500 years ago, there was
 a great war that occurred
@@ -646,22 +662,23 @@ outcome was, but after the
 war, Solaris feared another
 land dweller revolt<Delay 5>...<New>
 So Solaris built a 'Gate',<Delay 5>
-or barrier,<Delay 5> that separates
-Solaris' land from the
-rest of the world's land.<New>
-The land dwellers who lived
-within this Gate were made
-to dwell as separate races
-and were thus supervised.<New>
-To carry out the actual
-supervision, Solaris
-established the Church.<New>
-So the Church is actually
-controlled by the 'Gazel
-Ministry',<Delay 5> or Solaris'
-highest governmental body.<New>
-So,<Delay 5> yes,<Delay 5> the Church is
-really a 'front',<Delay 5> or a
+a barrier that separates
+Solaris from the surface
+world.<New>
+The land dwellers in that
+Gated-off world were made
+to live as a separate race,
+which had to be supervised.<New>
+And so the Church of the
+Ethos was established to
+actually carry out that
+supervision.<New>
+The Church is controlled
+by the 'Gazel Ministry',<Delay 5>
+Solaris' highest
+governmental body.<New>
+Basically,<Delay 5> this means the
+Church is a front,<Delay 5> or
 subsidiary organization,<Delay 5>
 working for Solaris!<New>
 Excavation findings, goods
@@ -671,8 +688,8 @@ to Solaris by the Church.<New>
 This also includes 'human
 resources', or people used
 for manual labor and so on.<New>
-Basically, this here is the
-window between the planet's
+This place<Delay 10> is the window
+between the planet's
 surface and Solaris up
 there in the skies above.<New>
 According to these records,
@@ -686,136 +703,151 @@ population distribution
 and excavation records.<New>
 The amount of detailed
 information about races and
-their biological data kind
-of concerns me though..."<Close><End of Block>
+their biological data is
+worrying, though..."<Close><End of Block>
 <TextBlock 87 w:54 h:4>
 Elly
-"There are facilities in
-Solaris for accommodating
-surface dwellers... I know!<New>
-The 3rd class citizen level
-- Earth dwellers of various
-races are regularly sent
-there as manual labor."<Close><End of Block>
+"There are certainly
+facilities in Solaris for<New>
+accommodating surface
+dwellers...<Delay 10>
+That's it! The Third-Class
+citizen level.<New>
+People of various races
+from the surface are
+regularly sent there
+as manual labor."<Close><End of Block>
 <TextBlock 88 w:50 h:4>
 Elly
 "So, do you think Solaris
 is responsible for this
 attack on the Church?"<Close><End of Block>
-<TextBlock 89 w:42 h:3>
+<TextBlock 89 w:42 h:4>
 Elly
 "You go on ahead.<New>
 Rico and I will take
-the 'Shevite' back to
-the Yggdrasil."<Close><End of Block>
-<TextBlock 90 w:42 h:3>
+that person from
+Shevat back to the
+Yggdrasil."<Close><End of Block>
+<TextBlock 90 w:42 h:4>
 Elly
 "You go on ahead.<New>
 Bart and I will take
-the 'Shevite' back to
-the Yggdrasil."<Close><End of Block>
-<TextBlock 91 w:42 h:3>
+that person from
+Shevat back to the
+Yggdrasil."<Close><End of Block>
+<TextBlock 91 w:42 h:4>
 Elly
 "You go on ahead.<New>
 Rico and I will take
-the 'Shevite' back to
-the Yggdrasil."<Close><End of Block>
-<TextBlock 92 w:42 h:3>
+that person from
+Shevat back to the
+Yggdrasil."<Close><End of Block>
+<TextBlock 92 w:42 h:4>
 Elly
 "You go on ahead.<New>
 Citan and I will take
-the 'Shevite' back to
-the Yggdrasil."<Close><End of Block>
-<TextBlock 93 w:42 h:3>
+that person from
+Shevat back to the
+Yggdrasil."<Close><End of Block>
+<TextBlock 93 w:42 h:4>
 Elly
 "You go on ahead.<New>
 Bart and I will take
-the 'Shevite' back to
-the Yggdrasil."<Close><End of Block>
-<TextBlock 94 w:42 h:3>
+that person from
+Shevat back to the
+Yggdrasil."<Close><End of Block>
+<TextBlock 94 w:42 h:4>
 Elly
 "You go on ahead.<New>
 Citan and I will take
-the 'Shevite' back to
-the Yggdrasil."<Close><End of Block>
+that person from
+Shevat back to the
+Yggdrasil."<Close><End of Block>
 <TextBlock 95 w:52 h:4>
 Elly
 "While I was checking
 the database I found
 out something...<New>
-There seems to be a person
-from 'Shevat' being held
-here by the Church.
+It seems there's a person
+from Shevat being held
+here for some reason by
+the Church.<New>
 We're going further on...<New>
-Bart and Rico, can
-you please rescue and
-accompany that 'Shevite'
-to the Yggdrasil?"<Close><End of Block>
+Bart and Rico, can you
+please rescue that person
+and accompany them to the
+Yggdrasil?"<Close><End of Block>
 <TextBlock 96 w:52 h:4>
 Elly
 "While I was checking
 the database I found
 out something...<New>
-There seems to be a person
-from 'Shevat' being held
-here by the Church.
+It seems there's a person
+from Shevat being held
+here for some reason by
+the Church.<New>
 We're going further on...<New>
-Bart and Rico, can
-you please rescue and
-accompany that 'Shevite'
-to the Yggdrasil?"<Close><End of Block>
+Bart and Rico, can you
+please rescue that person
+and accompany them to the
+Yggdrasil?"<Close><End of Block>
 <TextBlock 97 w:52 h:4>
 Elly
 "While I was checking
 the database I found
 out something...<New>
-There seems to be a person
-from 'Shevat' being held
-here by the Church.
+It seems there's a person
+from Shevat being held
+here for some reason by
+the Church.<New>
 We're going further on...<New>
-Bart and Rico, can
-you please rescue and
-accompany that 'Shevite'
-to the Yggdrasil?"<Close><End of Block>
+Bart and Rico, can you
+please rescue that person
+and accompany them to the
+Yggdrasil?"<Close><End of Block>
 <TextBlock 98 w:52 h:4>
 Elly
 "While I was checking
 the database I found
 out something...<New>
-There seems to be a person
-from 'Shevat' being held
-here by the Church.
+It seems there's a person
+from Shevat being held
+here for some reason by
+the Church.<New>
 We're going further on...<New>
-Bart and Rico, can
-you please rescue and
-accompany that 'Shevite'
-to the Yggdrasil?"<Close><End of Block>
+Bart and Rico, can you
+please rescue that person
+and accompany them to the
+Yggdrasil?"<Close><End of Block>
 <TextBlock 99 w:52 h:4>
 Elly
 "While I was checking
 the database I found
 out something...<New>
-There seems to be a person
-from 'Shevat' being held
-here by the Church.
+It seems there's a person
+from Shevat being held
+here for some reason by
+the Church.<New>
 We're going further on...<New>
-Bart and Rico, can
-you please rescue and
-accompany that 'Shevite'
-to the Yggdrasil?"<Close><End of Block>
+Bart and Rico, can you
+please rescue that person
+and accompany them to the
+Yggdrasil?"<Close><End of Block>
 <TextBlock 100 w:52 h:4>
 Elly
 "While I was checking
 the database I found
 out something...<New>
-There seems to be a person
-from 'Shevat' being held
-here by the Church.
+It seems there's a person
+from Shevat being held
+here for some reason by
+the Church.<New>
 We're going further on...<New>
-Bart and Rico, can
-you please rescue and
-accompany that 'Shevite'
-to the Yggdrasil?"<Close><End of Block>
+Bart and Rico, can you
+please rescue that person
+and accompany them to the
+Yggdrasil?"<Close><End of Block>
 <TextBlock 101 w:52 h:4>
 Citan
 "If the Church is indeed
@@ -825,21 +857,21 @@ Solaris, as we suspect...<New>
 something in here that
 would prove their
 connection to each other.<New>
-You should go on further
-and see if you can find
+We should go on further
+and see if we can find
 any more clues."<Close><End of Block>
 <TextBlock 102 w:40 h:4>
 Citan
 "I am sure of it.<Delay 30>
 This has to be the
 Church data bank."<Close><End of Block>
-<TextBlock 103 w:54 h:4>
+<TextBlock 103 w:48 h:4>
 Citan
-"I say...<Delay 5> a facility of
-this magnitude would even
-be hard to find in Solaris.<New>
+"I say...<Delay 5> A facility
+like this would be hard
+to find even in Solaris.<New>
 Why would the Church
-have such a set up?"<Close><End of Block>
+have such a setup?"<Close><End of Block>
 <TextBlock 104 w:42 h:3>
 Citan
 "Hmm<Delay 5>...<Delay 10>
@@ -848,10 +880,10 @@ the plot thickens<Delay 5>..."<Close><End of Block>
 Citan
 "Here is a relatively
 recent record<Delay 5>...<New>
-It also indicates that
+It, too, indicates that
 there has been a large
-amount of people
-sent to Solaris<Delay 5>...<New>
+number of people sent
+to Solaris<Delay 5>...<New>
 The majority of them were
 people who had come to the
 Church seeking help or
@@ -865,10 +897,10 @@ Billy
 "What?"<Close><End of Block>
 <TextBlock 108 w:48 h:2>
 Citan
-"The 44th salvage plan."<Close><End of Block>
+"The 44th Salvage Plan."<Close><End of Block>
 <TextBlock 109 w:46 h:3>
 Bart
-"The 44th salvage plan?<New>
+"The 44th Salvage Plan?<New>
 Isn't that what the
 captain of the Tamuz
 was talking about?"<Close><End of Block>
@@ -881,8 +913,8 @@ It must have been
 initiated by the Church
 itself, as a completely
 independent project.<New>
-It was commenced about
-...19 years ago.<Wait>
+It commenced about...
+nineteen years ago.<Delay 10>
 Allow me to display
 the data..."<Close><End of Block>
 <TextBlock 111 w:54 h:4>
@@ -891,7 +923,7 @@ Citan
 that under Aquvy lies an
 ultra-ancient civilization.<New>
 They have been doing a huge
-number of test-digs and
+number of test digs and
 obtained a vast quantity of
 resources from the ruins.<New>
 Biological weapons<Delay 5>...<Delay 5>
@@ -899,36 +931,36 @@ reactive weapons<Delay 5>...<Delay 5>
 Hmm<Delay 5>...<Delay 5>I see, so this must
 be their intention<Delay 5>...<New>
 My assessment of the
-circumstances is that the
+situation would be that the
 Church is attempting to
 break away from Solaris<Delay 5>...<New>
-And once free from its
-master,<Delay 5> it is likely it
-will attempt<Delay 5> world
-domination<Delay 5> on its own."<Close><End of Block>
+And once freed from its
+master,<Delay 5> it is likely to
+attempt<Delay 5> world domination<Delay 5>
+on its own."<Close><End of Block>
 <TextBlock 112 w:54 h:4>
 Rico
 "Attempt a breakaway<Delay 5>...<Delay 5>and
 attempt world domination<Delay 5>...<Delay 5>
-That's an incredible plan."<Close><End of Block>
+That's kinda ambitious!"<Close><End of Block>
 <TextBlock 113 w:54 h:4>
 Citan
-"Yes, but the real 
-intentions of the Church
-are quite obvious<Delay 5>...<New>
-The fact that they are
-not reporting the results,<Delay 5>
-let alone the site's very
-existence,<Delay 5> gives it away<Delay 5>...<New>
+"Indeed, but looking at how
+the Church has not reported
+these results,<New>
+or even the existence of
+the site, their true
+intentions are quite
+obvious...<New>
 The Church is planning
 to revolt by monopolizing
 this ultra-advanced
 civilization's resources!<New>
-Actually, such rebellions
-have been quite common<Delay 5>..."<Close><End of Block>
-<TextBlock 114 w:54 h:4>
+Alas, such a ploy would
+not be uncommon."<Close><End of Block>
+<TextBlock 114 w:54 h:2>
 Citan
-"Yes, that is probably it.<Wait>
+"Yes, that is probably it.<New>
 Shall we move along? There
 could be more to find yet!"<Close><End of Block>
 <TextBlock 115 w:48 h:4>
@@ -944,10 +976,11 @@ the Church?<New>
 Looks like there's more
 than meets the eye with
 this case."<Close><End of Block>
-<TextBlock 117 w:42 h:3>
+<TextBlock 117 w:38 h:4>
 Bart
-"Yeah, so it seems...
-This is a surprise."<Close><End of Block>
+"Yeah, sure seems
+like it... This is
+a surprise."<Close><End of Block>
 <TextBlock 118 w:46 h:4>
 Bart
 "Yeah, but even then<Delay 5>...<Delay 10>
@@ -955,7 +988,7 @@ this place is damn well
 equipped.<Delay 10> Look at it!"<Close><End of Block>
 <TextBlock 119 w:30 h:2>
 Bart
-"So, <Delay 10>Solaris!?"<Close><End of Block>
+"So-<Delay 10>Solaris!?"<Close><End of Block>
 <TextBlock 120 w:44 h:3>
 Bart
 "What's going on here?
@@ -969,7 +1002,7 @@ Bart
 being displayed there?"<Close><End of Block>
 <TextBlock 122 w:42 h:4>
 Citan
-"It looks like some
+"It seems to be a
 transmission record
 from somewhere<Delay 5>...<New>
 We might be able to
@@ -978,22 +1011,23 @@ Wait one moment<Delay 5>..."<Close><End of Block>
 <TextBlock 123 w:50 h:4>
 Citan
 "Alright...
-Now I am able to transmit
+Now I am able to redirect
 it to the main displays."<Close><End of Block>
-<TextBlock 124 w:54 h:4>
+<TextBlock 124 w:52 h:4>
 Bart
 "What the heck is this!?
 Why's the Church looking
 into this kinda stuff?<New>
-On top of that,<Opcode 1 255> that<Delay 20>
-<Opcode 1 0>Shakhan's a bishop!?<Delay 30> Wasn't
-he excommunicated from the
-Church 17 years ago!?"<Close><End of Block>
-<TextBlock 125 w:52 h:4>
+What's more,<Delay 20><Opcode 1 255> that
+Shakhan's a bishop!?<Opcode 1 0><New>
+Wasn't he excommunicated
+from the Church seventeen
+years ago!?"<Close><End of Block>
+<TextBlock 125 w:52 h:3>
 Bart
 "There's a terminal switch
-over here too.<Delay 10>
-...<Delay 10>Huh?<New>
+over here too<Delay 10>...<New>
+Huh?
 What's with these letters?<Delay 10>
 I can't read this."<Close><End of Block>
 <TextBlock 126 w:36 h:2>
@@ -1002,28 +1036,28 @@ Bart
 <TextBlock 127 w:12 h:2>
 Bart
 "Huh?"<Close><End of Block>
-<TextBlock 128 w:28 h:4>
+<TextBlock 128 w:30 h:3>
 Bart
-"So...<Delay 20>
-what does this
-all mean?"<Close><End of Block>
+"What...<Delay 20>does
+this all mean?"<Close><End of Block>
 <TextBlock 129 w:54 h:4>
 Bart
 "Surely not all of them?<Delay 10>
 What happened to the ones
 that didn't become Etones?"<Close><End of Block>
-<TextBlock 130 w:34 h:2>
+<TextBlock 130 w:32 h:2>
 Billy
-"Well<Delay 15>...<Delay 15>arrh<Delay 15>...?"<Close><End of Block>
-<TextBlock 131 w:40 h:4>
+"Well<Delay 15>...<Delay 15>umm<Delay 15>...?"<Close><End of Block>
+<TextBlock 131 w:28 h:4>
 Bart
-"It's all becoming
-clear then, eh...<Delay 10>
-How about it, Elly?"<Close><End of Block>
+"Exactly.<Delay 10>
+What do you
+think, Elly?"<Close><End of Block>
 <TextBlock 132 w:46 h:3>
 Rico
-"So this is the source
-of their labor supply."<Close><End of Block>
+"So the surface is the
+source of their labor
+supply."<Close><End of Block>
 <TextBlock 133 w:52 h:4>
 Rico
 "It's a strange feeling to
@@ -1032,22 +1066,23 @@ been directed by Solaris."<Close><End of Block>
 <TextBlock 134 w:26 h:2>
 Rico
 "Apparently."<Close><End of Block>
-<TextBlock 135 w:46 h:3>
+<TextBlock 135 w:40 h:4>
 Rico
-"The Church has been
-assaulted by someone<Delay 5>...<New>
-And in the basement<Delay 5>...<Delay 10>
+"The Church is
+attacked by someone
+out of the blue.<New>
+And in the basement<Delay 10>
 we find a Solarian
-facility<Delay 5>..."<Close><End of Block>
-<TextBlock 136 w:34 h:3>
+facility."<Close><End of Block>
+<TextBlock 136 w:28 h:3>
 Rico
-"Then let's
-investigate...!?"<Close><End of Block>
+"Let's
+investigate."<Close><End of Block>
 <TextBlock 137 w:46 h:4>
 Rico
-"That can't be the case
-if he's been sending in
-regular reports."<Close><End of Block>
+"Doesn't seem to be the
+case if he's regularly
+putting in reports."<Close><End of Block>
 <TextBlock 138 w:48 h:3>
 Rico
 "It's all a front!<New>
@@ -1056,9 +1091,9 @@ subsidiary organization
 of Solaris."<Close><End of Block>
 <TextBlock 139 w:52 h:4>
 Rico
-"So, the Church has
-been manipulating us, heh.<Delay 20>
-Anything else?"<Close><End of Block>
+"So it means the Church
+has been controlling us...
+Heh.<Delay 20> Anything else?"<Close><End of Block>
 <TextBlock 140 w:48 h:4>
 Rico
 "So what happened to all
@@ -1066,48 +1101,42 @@ those people you've seen
 coming here for help?"<Close><End of Block>
 <TextBlock 141 w:68 h:11>
 <Opcode 14 2>      IGNAS CONFLICT STATUS:
-37th arms supplement -  upgrading
-Av's Gears from level D2 to D3.<New>
+37th Arms Provision. Upgrading
+Av's Gears from level D2 to D3.
 Maintain Kislev Gears at level D2.
-Current balance = 4:6 ...<New>
+Current balance = 4:6...
      REPORT BY BISHOP SHAKHAN
-       OF THE IGNAS DIOCESE: <New>
-Due to the intervention of an
-uncertain factor,<New>
-correction is needed.
-Operation progress rate
+       OF THE IGNAS DIOCESE:
+Due to intervention by an
+unpredictable factor, correction
+is needed. Operation progress rate
 down 30%...<Opcode 2 40><Close><End of Block>
 <TextBlock 142 w:68 h:7>
 <Opcode 14 2><Delay 5>...<Delay 5>Completed investigation of
 the Zeboim city which sank to the
-bottom of the sea<New>
-approximately 4000 years
-ago<Delay 5>...<Delay 5><New>
-After over 100 test digs, the city
-center has been ascertained<Delay 5>...<Delay 5>
-Excavation planned to begin<Delay 5>...<Close><End of Block>
+bottom of the sea approximately
+4000 years ago<Delay 5>...<Delay 5><Wait>
+After one hundred test digs, the
+city center has been identified<Delay 5>...<Delay 5>
+Excavation scheduled to begin<Delay 5>...<Close><End of Block>
 <TextBlock 143 w:64 h:6>
 <Opcode 14 2>Report No. 50224 from Noatun's
-D Block Committee.<New>
+D Block Committee.
 Transferring data for each
-Battler.<New>
-Biological status of
-A-class Battler.<New>
-Adaptation rate of<New>
-the deployment plan's
-Type Y demihuman.<New>
-Transferring data
+Battler. Biological status of
+A-Class Battler. Adaptation rate
+of the deployment plan's Type-Y
+demihuman. Transferring data
 for the above to the homeland...<Opcode 2 30><Close><End of Block>
 <TextBlock 144 w:62 h:6>
 <Opcode 14 1>Report No. 50227 from Noatun's
-D Block Committee.<New>
-Sigmund's forceful expulsion of
-the Church from the central
-district's government<New>
-has made
-coordination difficult.<New>
+D Block Committee.
+Sigmund's forceful expulsion
+of the Church from the
+Central District has made
+coordination difficult.
 Planning to eliminate Sigmund
-when no longer useful.<New>
+when no longer useful.
 Requesting permission to use
 Battling test subject Ricardo
 to carry out the elimination...<Opcode 2 30><Close><End of Block>

@@ -1,89 +1,93 @@
-<TextBlock 1 w:54 h:4>
+<TextBlock 1 w:50 h:4>
 Elly
-"These wounds are horrific.
-He might not survive in
-this condition."<Close><End of Block>
+"It's a nasty wound. It'd
+be too dangerous to leave
+her in this condition."<Close><End of Block>
 <TextBlock 2 w:38 h:4>
 Elly
-"Let's contact the 
-Yggdrasil to come 
-and help us."<Close><End of Block>
+"Let's contact the
+Yggdrasil and get
+help to come."<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Elly
-"Hang in there now!<Delay 30>
+"Hang in there, now!<Delay 30>
 Don't worry.
 We came here to help you!"<Close><End of Block>
-<TextBlock 4 w:32 h:4>
+<TextBlock 4 w:30 h:4>
 Elly
-" 'Shevat'!?<Delay 30>
-Is he...<Delay 30>
-from 'Shevat'!?"<Close><End of Block>
-<TextBlock 5 w:52 h:3>
+"'Shevat'!?<Delay 30> Is
+this person...<Delay 30>
+from Shevat!?"<Close><End of Block>
+<TextBlock 5 w:40 h:4>
 Citan
-"This is a terrible wound.
-His life is in danger."<Close><End of Block>
-<TextBlock 6 w:38 h:4>
+"That is a terrible
+wound.<New>
+If we do not do
+something, her life
+will be in danger."<Close><End of Block>
+<TextBlock 6 w:40 h:4>
 Citan
 "Let us contact the
-Yggdrasil to come 
-and help us."<Close><End of Block>
+Yggdrasil to request
+assistance."<Close><End of Block>
 <TextBlock 7 w:48 h:4>
 Citan
-"Pull yourself together!<Delay 30>
+"Hang in there, now!<Delay 30>
 Do not worry.
 We are on your side!"<Close><End of Block>
-<TextBlock 8 w:30 h:4>
+<TextBlock 8 w:26 h:4>
 Citan
 "'Shevat'!?<Delay 30>
-You are from...<Delay 30>
-'Shevat'!?"<Close><End of Block>
-<TextBlock 9 w:40 h:4>
+You are from<Delay 30>
+Shevat!?"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
 Bart
-"This's a bad wound.
-If we don't help him
-he's a goner!"<Close><End of Block>
+"That's a nasty wound.
+If we don't help her
+she's a goner!"<Close><End of Block>
 <TextBlock 10 w:48 h:4>
 Bart
 "Let's call my crew on
-the Ygg to come and help
-help him out."<Close><End of Block>
-<TextBlock 11 w:48 h:4>
+the Ygg and get them to
+come and help."<Close><End of Block>
+<TextBlock 11 w:48 h:3>
 Bart
-"Ahoy! Keep your eyes
-open!<Delay 30> We're going to let
-you out, OK!"<Close><End of Block>
+"Ahoy! Try to keep your
+eyes open!<New>
+We're going to get you
+out of here, okay?"<Close><End of Block>
 <TextBlock 12 w:36 h:4>
 Bart
-"'Shevat'!?
-Did he just say...
-'Shevat'!?"<Close><End of Block>
+"'Shevat'!?<Delay 30>
+Hey...did she just
+say 'Shevat'!?"<Close><End of Block>
 <TextBlock 13 w:36 h:3>
 Billy
-"Are you alright!
-Please answer me!"<Close><End of Block>
-<TextBlock 14 w:52 h:3>
+"Are you alright!?
+Snap out of it!"<Close><End of Block>
+<TextBlock 14 w:50 h:4>
 Billy
-"I contacted the Yggdrasil
-to come and help him.<New>
-So, he's taken care of.
-Let's hurry."<Close><End of Block>
-<TextBlock 15 w:52 h:2>
+"This person will be fine
+now we've contacted the
+Yggdrasil.<New>
+Let's hurry on."<Close><End of Block>
+<TextBlock 15 w:50 h:2>
 Rico
-"This's a real bad wound."<Close><End of Block>
+"It's a real bad wound."<Close><End of Block>
 <TextBlock 16 w:48 h:3>
 Rico
 "Let's get the Yggdrasil
-to come and help him."<Close><End of Block>
+to come and help her."<Close><End of Block>
 <TextBlock 17 w:40 h:4>
 Rico
 "Hey you!
-Keep with us, here! <Delay 30>
+Stay with us, here! <Delay 30>
 We're on your side!"<Close><End of Block>
-<TextBlock 18 w:40 h:4>
+<TextBlock 18 w:36 h:4>
 Rico
-"'Shevat'!?
-Is he one of the
-people of 'Shevat'?"<Close><End of Block>
+"'Shevat'!?<Delay 30>
+Is she one of the
+people of Shevat?"<Close><End of Block>
 <TextBlock 19 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 20 w:30 h:1>
@@ -91,25 +95,26 @@ people of 'Shevat'?"<Close><End of Block>
 <TextBlock 21 w:50 h:2>
 <Opcode 14 2>I...<Delay 5>...<Delay 10>don't...<Delay 10>know...<Delay 5>...<Delay 10>
 anything...<Delay 5>...<Delay 5>...<Delay 10><New>
-I can't...<Delay 5>...<Delay 5>talk...
-<Opcode 14 3>anymore...<Delay 5>than...<Delay 10>this...<Close><End of Block>
+I won't...<Delay 5>...<Delay 5>say...<Delay 5>...<Delay 10>
+<Opcode 14 3>any...<Delay 10>more...<Close><End of Block>
 <TextBlock 22 w:26 h:2>
 <Opcode 14 3>...<Delay 5>...<Delay 5>?<Delay 5>
 ...<Delay 5>...<Delay 5>...<Delay 5>...<Delay 5>!<Close><End of Block>
 <TextBlock 23 w:42 h:2>
-<Opcode 14 3>She<Delay 5>...<Delay 10>vat...<New>
+<Opcode 14 3>Shev<Delay 5>...<Delay 10>at...<New>
 <Opcode 14 3>Got<Delay 5>...<Delay 5>to<Delay 5>...<Delay 5>contact<Delay 5>...<Delay 10>
-Shev<Delay 5>...<Delay 5>vat<Delay 5>...<Delay 5><Close><End of Block>
+She<Delay 5>...<Delay 5>vat<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 24 w:6 h:1>
 <Opcode 14 3>...<Close><End of Block>
-<TextBlock 25 w:40 h:2>
+<TextBlock 25 w:20 h:2>
 Big Joe
-"Oh, my best buddy!"<Close><End of Block>
+"Oh, my best
+buddies!"<Close><End of Block>
 <TextBlock 26 w:44 h:4>
 Big Joe
-"You came all the way 
-to save me, eh?  
+"You came all the way
+to save me, eh?
 Well done, well done.<New>
-Someday, you'll brag 
-about saving me!<Wait>
+Someday, you'll brag
+about saving me!<Delay 30>
 Adios amigos!"<Close><Close><End of Block>

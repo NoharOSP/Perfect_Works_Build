@@ -1,61 +1,63 @@
 <TextBlock 1 w:12 h:2>
 Citan
-"! <New>
+"!<Delay 10>
 Elly!"<Close><End of Block>
 <TextBlock 2 w:52 h:4>
 Citan
-"Blood...?<New>
-It certainly is covered
-in blood... And this...
-scorching heat... No,
-maybe it is radiation?<New>
-Perhaps it is an emergency
-disinfection system...
-These marks are evidence
-that it has been used..."<Close><End of Block>
+"Blood...?
+The stain certainly
+looks like blood...<New>
+And this...intense heat...
+Or is it radiation?<New>
+It is surely a sign that
+some kind of emergency
+sterilization system
+was activated..."<Close><End of Block>
 <TextBlock 3 w:12 h:2>
 Citan
-"! <New>
+"!<Delay 10>
 Elly!"<Close><End of Block>
-<TextBlock 4 w:26 h:2>
+<TextBlock 4 w:18 h:3>
 Citan
-"What the..."<Close><End of Block>
+"Wh-<Delay 5>What
+the...?"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Citan
 "This girl appears to be an
 artificial lifeform created
-inside the reactor.<New>
-She was probably assembled
-in the reactor by using
-that series in the database
-in the control room...<New>
-Her body is most likely..."<Close><End of Block>
+in this reactor core.<New>
+I would guess that she has
+been reassembled within the
+reactor based on a sequence<New>
+from the database in that
+control room over there.
+The child's body is most
+likely<-->"<Close><End of Block>
 <TextBlock 6 w:40 h:2>
 Citan
 "Wait right there!!"<Opcode 2 16><Close><End of Block>
 <TextBlock 7 w:34 h:4>
 Citan
-"Then, even their
+"So,<Delay 10> even that
 conversation was
-planned..."<Close><End of Block>
-<TextBlock 8 w:44 h:4>
+calculated..."<Close><End of Block>
+<TextBlock 8 w:40 h:4>
 Citan
-"...I believe, we have
-inadvertently helped
-you out."<Close><End of Block>
-<TextBlock 9 w:40 h:4>
+"...Unfortunately,
+it seems we may have
+helped you out."<Close><End of Block>
+<TextBlock 9 w:42 h:4>
 Citan
 "What do you plan to
-do with this girl?
-What is she?"<Close><End of Block>
-<TextBlock 10 w:46 h:4>
+do with this child?
+What exactly is she?"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
 Citan
-"'Salvation'?<Delay 45>
-Nice choice of words...<New>
-But coming from you, I
-only smell the taint
-of blood within that
-word."<Close><End of Block>
+"'Salvation'?<New>
+A fine word, but...when
+it comes from you people
+it has the distinct reek
+of blood."<Close><End of Block>
 <TextBlock 11 w:46 h:4>
 Citan
 "Be careful!!
@@ -67,61 +69,61 @@ dearly!"<Close><End of Block>
 <TextBlock 12 w:38 h:4>
 Elly
 "...Blood...<Delay 63>
-covered in blood...<Delay 45>
-my...<Delay 45>blood...<New>
+A bloodstain...<Delay 45>
+My...<Delay 45>blood...<New>
 There was no pain.
-Just...coldness
-and sadness..."<Close><End of Block>
-<TextBlock 13 w:36 h:4>
+Just...coldness.
+Sadness..."<Close><End of Block>
+<TextBlock 13 w:40 h:4>
 Elly
-"She has been here
-all by herself for
+"That child has been
+here in solitude for
 all this time..."<Close><End of Block>
-<TextBlock 14 w:52 h:4>
+<TextBlock 14 w:50 h:4>
 Elly
-"Be careful!!
-The Elements are Ramsus'
-elite fighters...<New>
-They look harmless but
-they're really dangerous."<Close><End of Block>
-<TextBlock 15 w:44 h:3>
+"...Be careful!!
+The Elements are direct
+subordinates of Ramsus...<New>
+They look harmless, but
+their battle prowess
+is incredible."<Close><End of Block>
+<TextBlock 15 w:44 h:4>
 Elly
-"No, that's how they
-are normally!<New>
-That's what makes them
-REALLY dangerous!!"<Close><End of Block>
+"No, it wasn't at all!
+Which is what makes
+them so scary!"<Close><End of Block>
 <TextBlock 16 w:40 h:4>
 Elly
 "No!
 We can't allow them
 to take this child!"<Close><End of Block>
-<TextBlock 17 w:52 h:4>
+<TextBlock 17 w:48 h:4>
 Bart
-"Citan...what is...this?
-Not even rogue clusters 
-can regenerate this fast."<Close><End of Block>
+"Citan...what...is this?
+No organic tissue could
+regenerate this fast."<Close><End of Block>
 <TextBlock 18 w:44 h:4>
 Bart
-"What the...
+"What the...?
 Don't go mouthing off!
 Get outta my way!"<Close><End of Block>
-<TextBlock 19 w:30 h:4>
+<TextBlock 19 w:28 h:4>
 Bart
 "...<Delay 45>
-Are you serious
-about this..."<Close><End of Block>
+We doing this
+or not...?"<Close><End of Block>
 <TextBlock 20 w:40 h:3>
 Billy
 "Citan...<Delay 10>
-This girl...?<New>
+Is this girl...?<New>
 How did she suddenly
-change into human
-form...?"<Close><End of Block>
+take human form...?"<Close><End of Block>
 <TextBlock 21 w:50 h:4>
 Billy
-"Who in the heavens are 
-you!? We don't have time 
-to waste talking to you!"<Close><End of Block>
+"Who in the heavens...!?<New>
+We don't have time
+to waste keeping you
+company!"<Close><End of Block>
 <TextBlock 22 w:50 h:4>
 Billy
 "...<Delay 45>Do you guys just have
@@ -132,44 +134,48 @@ Billy
 "Bishop..."<Close><End of Block>
 <TextBlock 24 w:52 h:4>
 Billy
-"An honorable person?
-I certainly do not think
-you are honorable anymore.<New>
-Eliminating the Church
-and any surface-dwelling
-humans who don't agree
-with your own will..."<Close><End of Block>
+"Righteous?
+I no longer believe
+that you are so.<New>
+You who tries to eliminate
+surface dwellers or
+members of the Church<New>
+Just because they don't
+conform to your personal
+ideals...
+Such deeds are<-->"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Billy
 "...There is something
 very wrong with that.<New>
-Salvation by faith is
-something that everyone
-should have an equal
-opportunity at attaining."<Close><End of Block>
+Everyone should have an
+equal chance of attaining
+salvation through faith."<Close><End of Block>
 <TextBlock 26 w:10 h:2>
 Billy
 "..."<Close><End of Block>
 <TextBlock 27 w:50 h:4>
 Billy
-"Salvation or not...
-What are you planning on
-doing with this girl!?<New>
-I just know your deeds
-are not honorable.<New>
-Bishop...I am sorry to
-say this but...I cannot
-be a part of what
-you are intent on doing."<Close><End of Block>
-<TextBlock 28 w:50 h:4>
+"Be it for salvation
+or otherwise,<New>
+just what are you going
+to do with this girl!?
+I simply can not believe
+your deeds are honorable.<New>
+Bishop...
+I am sorry, but...I will
+not be a part of what you
+have set your mind to."<Close><End of Block>
+<TextBlock 28 w:36 h:4>
 Rico
-"What's with this thing?
-Us demi-humans can't even
-heal at that speed."<Close><End of Block>
+"What's with
+this thing?<New>
+Even we demihumans
+can't regenerate
+at that speed."<Close><End of Block>
 <TextBlock 29 w:50 h:3>
 Rico
-"You don't know what
-you're sayin'...<New>
+"Buncha nonsense...<New>
 You really wanna fight?
 I'd prefer it if you'd
 just move outta the way."<Close><End of Block>
@@ -200,20 +206,22 @@ Out of the way!"<Close><End of Block>
 "...Can I go now?"<Close><End of Block>
 <TextBlock 35 w:48 h:4>
 Stone
-"...Constructed from
-autonomic machines
-on a molecular scale...<New>
+"<-->composed of
+molecular-scale
+autonomous machines...<New>
 In other words, a colony
-of nanomachines."<Close><End of Block>
+of what are called
+'nanomachines'."<Close><End of Block>
 <TextBlock 36 w:50 h:4>
 Stone
 "I'll be taking that
 nanomachine colony
 with me, thank you...<New>
-That is the existence, or
-key 'factor', which god
-will guide us by to free
-humanity from its yoke."<Close><End of Block>
+For it is the one being,
+the key factor, that will
+lead us to God's grace<New>
+and free humanity
+from its yoke."<Close><End of Block>
 <TextBlock 37 w:52 h:2>
 Stone
 "So, if you don't mind..."<Close><End of Block>
@@ -221,57 +229,58 @@ Stone
 Stone
 "Ah, Brother Billy.
 You're here too.
-This makes matters simple.<New>
-I know you'll understand...
-This nanomachine colony 
-needs to be in the hands 
-of an honorable person.<New>
-It's destined to be the
-'salvation of humanity'."<Close><End of Block>
+I can keep this brief.<New>
+You'll understand,
+won't you?<New>
+This nanomachine colony
+is a being that must be
+entrusted to the righteous.<New>
+It is to become the
+salvation of humankind."<Close><End of Block>
 <TextBlock 39 w:50 h:4>
 Stone
-"What is the problem with
-eliminating those people
-not fit for 'salvation'?<New>
-Why, isn't our very faith
-based on the precept that
+"Is there a problem with
+eliminating those unfit
+to receive salvation?<New>
+Why, isn't faith itself
+the expectation that
 'only the chosen will be
 saved'?"<Close><End of Block>
 <TextBlock 40 w:52 h:4>
 Stone
 "Are you saying that you
-can save all of humankind?<New>
+could save all humankind?<New>
 If Karellen uses the
 nanomachine colony, at
-least we can save some
-chosen people.<New>
-But you don't understand
-how to utilize this.
-You can't save anyone.<New>
-Are you willing to take
-the responsibility for
-the loss you will cause
-humankind?"<Close><End of Block>
+least we chosen ones
+will be saved.<New>
+Whereas none of you know
+how to use it. Nobody in
+this world would be saved.<New>
+Could you accept that
+responsibility for our
+entire human race?"<Close><End of Block>
 <TextBlock 41 w:50 h:4>
 Stone
-"My job now is to bring
-this nanomachine colony
-back to Karellen.<New>
-You see, unlike the
-Church, our aim is not
-the ancient weapons that
-lay in the city ruins.<New>
-I don't think we conflict
-with your interests."<Close><End of Block>
-<TextBlock 42 w:54 h:4>
+"Right now, my job is to
+bring that nanomachine
+colony back to Karellen.<New>
+Unlike the Church, my
+quarry is not the ancient
+weapons that lie in the
+city ruins.<New>
+I don't think your
+interests are in
+conflict with our own."<Close><End of Block>
+<TextBlock 42 w:50 h:4>
 Stone
 "I see that I couldn't
 make you understand...<Delay 32>
-Then it cannot be helped...<New>
-I don't have the time to
-convince you further.
-Please excuse me, as I
-must hurry on ahead."<Close><End of Block>
+Such a pity...<New>
+But I don't have any more
+time to waste convincing
+you. Please excuse me, as
+I must hurry on ahead."<Close><End of Block>
 <TextBlock 43 w:48 h:3>
 Stone
 "Sorry to have kept you 
@@ -283,19 +292,21 @@ Stone
 "Throne! Seraphita!
 Buy me as much time
 as possible!"<Close><End of Block>
-<TextBlock 45 w:30 h:4>
+<TextBlock 45 w:34 h:4>
 Stone
-"Thanks.
+"Indeed you have.
 I'm hopeless
 with machines."<Close><End of Block>
-<TextBlock 46 w:50 h:3>
+<TextBlock 46 w:50 h:4>
 Stone
 "Actually, Karellen
-hasn't told me very much.<New>
-Nothing apart from the
-'Salvation of Humankind'.<New>
-Anyway, even if I knew
-I wouldn't tell you..."<Close><End of Block>
+hasn't told me very
+much, either.<New>
+Only that it is the
+'salvation of humankind'.<New>
+Of course, I wouldn't
+tell you even if I
+knew..."<Close><End of Block>
 <TextBlock 47 w:16 h:1>
 ...Hmph!<Close><End of Block>
 <TextBlock 48 w:36 h:4>
@@ -305,34 +316,36 @@ Stop ordering us
 around, already!"<Close><End of Block>
 <TextBlock 49 w:40 h:4>
 Throne
-"Yeah, right.
-It's only because it
-is on Ramsus orders.<New>
-Jeez...!
-Now he's got us
-protecting this
-garbage."<Close><End of Block>
+"Right.<New>
+It's not like these
+orders even came
+from Ramsus, anyway.<New>
+Seriously,
+escort duty
+for some relic?"<Close><End of Block>
 <TextBlock 50 w:50 h:4>
 Throne
-"Well, that's how it is
-folks...It'll help us if
+"Well, that's how it is,
+folks... It'll help us if
 you'd hurry up and lose."<Close><End of Block>
 <TextBlock 51 w:50 h:4>
 Throne
-"Well, excu<~>se us!
+"Well, excu~se us!
 But we can't let you go
 just yet...<New>
 We really don't care much
-for Karellen, but if we
+about Karellen, but if we
 do a crappy job it'll
 make Ramsus look bad.<New>
-But, thanks to you fools
-reviving her, we can get
-this mission over with
-sooner than we thought."<Close><End of Block>
+And thanks to you fools
+so kindly reviving her
+for us,<New>
+we can get this mission
+over with sooner than
+we thought."<Close><End of Block>
 <TextBlock 52 w:52 h:4>
 Throne
-"Oh Sera...
+"S-<Delay 5>Sera...
 Don't tell them that!<New>
 Just as I was building
 things up to make us sound
@@ -340,31 +353,30 @@ psychologically superior
 to them! Damn..."<Close><End of Block>
 <TextBlock 53 w:52 h:4>
 Throne
-"That's 'Positronic-photon
-Brain', you idiot!<New>
-'Gin n'tonic Futon'...?
-You make me sound like I'm
+"That's Positronic Photon
+Brain, you idiot!<New>
+'Gin & Tonic Futon'...?
+You make it sound like I'm
 a sleepy drunk!<New>
 (It's already bad enough
-as it is...
-'Positronic-photon Brain
-Cyborg'...<New>
+as it is... 'Positronic
+Photon Brain'...<New>
 That's bound to get us
 into trouble with the
 makers of 'Star Trech'!)"<Close><End of Block>
-<TextBlock 54 w:32 h:2>
+<TextBlock 54 w:26 h:2>
 Throne
-"Uh oh!! Sorry."<Close><End of Block>
-<TextBlock 55 w:26 h:2>
+"Oh!! Sorry."<Close><End of Block>
+<TextBlock 55 w:18 h:2>
 Throne
-"That's it!!"<Close><End of Block>
-<TextBlock 56 w:36 h:4>
+"That's
+right!!"<Close><End of Block>
+<TextBlock 56 w:36 h:3>
 Throne
 "Seraphita!!
 Enough already!<New>
-We've done the job
-that was required
-of us.
+We played our
+part!!
 Let's pull out!!"<Close><End of Block>
 <TextBlock 57 w:52 h:4>
 Seraphita
@@ -382,30 +394,31 @@ it's creepy!!"<Close><End of Block>
 Seraphita
 "Yeah, we didn't know how
 to operate that machinery,
-so we were so confused!<New>
+so we were all flustered!<New>
 Thank you very much
 for your kind help!"<Close><End of Block>
 <TextBlock 60 w:52 h:4>
 Seraphita
-"What!...But...<New>
+"Aww!
+...But...<New>
 When people do you a
-kindness you should always
-say thank you. That's what
-grandma always said..."<Close><End of Block>
+kindness you should thank
+them properly. That's what
+Grandma always said..."<Close><End of Block>
 <TextBlock 61 w:54 h:3>
 Seraphita
-"But, I'm impressed Throne!
+"But I'm impressed, Throne!
 'Psychologically superior'?<New>
-Your 'Gin n'tonic Futon
-Brain' cyborg inplants
-sure make you smart!"<Close><End of Block>
+Your Gin & Tonic Futon
+Brain cyborg implants
+sure make you smart!!"<Close><End of Block>
 <TextBlock 62 w:18 h:2>
 Seraphita
 "Sorry!!"<Close><End of Block>
 <TextBlock 63 w:38 h:4>
 Seraphita
 "...Throne,
-do we want to be 
+do we want to be
 called 'harmless'?"<Close><End of Block>
 <TextBlock 64 w:26 h:4>
 Seraphita

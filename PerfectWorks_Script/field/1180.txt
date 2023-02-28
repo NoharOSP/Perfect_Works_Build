@@ -378,5 +378,5 @@ Sigurd
 Come on, GO!!!"<Opcode 2 64><Close><End of Block>
 <TextBlock 79 w:38 h:3>
 Sigurd
-"Seems like they're
+"It seems he's been
 watching us."<Close><Close><End of Block>

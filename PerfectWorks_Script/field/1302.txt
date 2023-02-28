@@ -1,5 +1,5 @@
-<TextBlock 1 w:50 h:2>
-Billy, we got beat. They
+<TextBlock 1 w:54 h:2>
+Billy, we're done for. They
 just attacked suddenly...<Close><End of Block>
 <TextBlock 2 w:40 h:2>
 Heh, heh, heh.

@@ -246,24 +246,24 @@ Billy
 "How is he?"<Close><End of Block>
 <TextBlock 41 w:36 h:3>
 Billy
-"All we can do is 
+"All we can do is
 wait and see."<Close><End of Block>
 <TextBlock 42 w:52 h:3>
 He is in stable condition.
-His treatment is almost 
+His treatment is almost
 complete.<Close><End of Block>
 <TextBlock 43 w:48 h:4>
-W, what's happening?<Delay 15>
+Wh-What's happening?<Delay 15>
 Those men in black are
-killing the Church
+killing the Church's
 people indiscriminately!<Close><End of Block>
 <TextBlock 44 w:52 h:2>
 You seem to be better.
 I'm glad. I'm really glad.<Close><End of Block>
 <TextBlock 45 w:46 h:4>
 Has he recovered?
-His treatment was a 
-success, so there's no 
+His treatment was a
+success, so there's no
 need to worry.<Close><End of Block>
 <TextBlock 46 w:54 h:4>
 The patient hasn't regained
@@ -277,7 +277,7 @@ had dropped due to the
 low water temperature.<New>
 One false move and I fear
 the brain tissue would have
-necrotized, leaving him 
+necrotized, leaving him
 with permanent damage.<Close><End of Block>
 <TextBlock 47 w:58 h:4>
 Yes. You can set your minds
@@ -300,7 +300,7 @@ It's alright,
 he will wake up.<Close><End of Block>
 <TextBlock 49 w:36 h:3>
 Not at all. Just
-doing my job as a 
+doing my job as a
 churchman.<Close><End of Block>
 <TextBlock 50 w:52 h:2>
 Hello, everyone.
@@ -314,10 +314,10 @@ physically, he'll also
 regain consciousness.<New>
 It's fine for you to take
 him to your ship now.<Close><End of Block>
-<TextBlock 52 w:38 h:3>
-Please don't worry.
-I did my job as a 
-clergyman.<Close><End of Block>
+<TextBlock 52 w:36 h:3>
+Not at all. Just
+doing my job as a
+churchman.<Close><End of Block>
 <TextBlock 53 w:48 h:4>
 Oh yes, Brother Billy.
 He went back to the

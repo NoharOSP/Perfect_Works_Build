@@ -1,105 +1,101 @@
 <TextBlock 1 w:36 h:1>
-Barrier Terminated<Opcode 2 60><Close><End of Block>
+- Barrier broken -<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:48 h:4>
 Citan
-"I knew it! Jesiah is
-planning on using it!
+"I knew it! Jesiah
+really means to use it!
 He must be stopped!<New>
 Billy, can you hear me!?<Delay 30>
-Billy!?...<Delay 45> No good...
+Billy!? ...<Delay 45>No good...
 There is no response!!"<Close><End of Block>
-<TextBlock 3 w:42 h:3>
+<TextBlock 3 w:42 h:4>
 Citan
-"Too late...!
-Billy!<New>
+"I was too late...!<New>
+Billy!
 That is a weapon that
-uses its pilot as the
-warhead!"<Close><End of Block>
+uses its passenger as
+a human warhead!"<Close><End of Block>
 <TextBlock 4 w:22 h:2>
 Billy
 "Father..."<Close><End of Block>
-<TextBlock 5 w:30 h:4>
+<TextBlock 5 w:30 h:3>
 Billy
-"What!?
-Th, then,
-father is...<New>
-...Oh my <Delay 30>god!!"<Close><End of Block>
+"What!? Th-Then
+Father is...<New>
+...Oh my <Delay 10>god!!"<Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Jessie
-"Billy, if we merge
-our Gears
-together...<New>
-...then we can break
-through that barrier
-with our combined
-attack.<New>
+"Billy, with a joint
+attack from my Gear
+and your Gear,<New>
+we can break through
+that barrier.<New>
 I'm gonna borrow your
 shoulder for a moment,
-so start aiming now."<Close><End of Block>
+so when you get the
+chance, take aim."<Close><End of Block>
 <TextBlock 7 w:50 h:4>
 Jessie
-"Billy, you know
-now don't you? <New>
-Stein's teachings
-were all a deception.<New>
-That fabricated faith was
-just a worldly system for
-compensating those people
-with fragile souls.<New>
-But, faith and god aren't
-things which are given to
-you from others, right?<New>
+"Billy, d'you see now?
+Stein's teachings were
+all a deception.<New>
+It's just a fabricated
+belief system, made to
+compensate for the 
+fragile human heart.<New>
+But real faith and God
+aren't things that are
+given to you by others,
+right?<New>
 They are things you
-have to discover
-within yourself,
+discover within yourself,
 and by yourself.<New>
-Things that cannot
+That which cannot
 be put into words,
-things that cannot
+that which cannot
 be expressed...<New>
-Isn't that what god is
+Isn't that what God is
 all about? 'Question
-not thy god, for thy
-god doth not respond.'"<Close><End of Block>
+not thy God, for thy
+God doth not answer.'"<Close><End of Block>
 <TextBlock 8 w:50 h:4>
 Jessie
-"The reason I taught you
-how to use a gun as a 
-child was to save people.<New>
-You say that guns
-are just tools for
-killing people.
-But you are wrong.<New>
+"I taught you about guns
+when you were so young so
+that you'd help people.<New>
+You say that guns are
+just tools for killing,
+but they're not.<New>
 'Guns' don't kill people.
 'People' kill people.<New>
 Have you ever looked at
 the expressions on the
 faces of those Wels you
-have destroyed?<New>
-It is an excruciating
-process to be turned
-into a Wels.<New>
-To ease their torturous
-pain, they seek human
-blood, and attack people
-in order to get it.<New>
-But, that does not
-vanquish the true pain
-within their hearts.<New>
-There is only one way to
-be saved from the pain.
-That is by termination.<New>
-Didn't all those Wels
-put out of their misery
-by you have peaceful
-looks on their faces?<New>
+have defeated?<New>
+Changing into a Wels
+is an excruciatingly
+painful thing.<New>
+In order to ease that
+agony, they seek human
+blood, and they attack.<New>
+But even that can't
+clear their hearts of
+the true agony.<New>
+There's only one way
+they can be saved from
+that pain, and that's
+to terminate them.<New>
+All the Wels you put
+out of their misery...
+Didn't you see how
+at ease they looked?<New>
 Your gun saved those
-people who were turned
-into Wels. It's not
-something anyone can do.<New>
-The faith that enabled
-you to accomplish that
-was no deception...
+poor people who had
+become Wels.
+Not everyone can do that.<New>
+Your faith, which made
+it possible, is no
+deception...
 God exists within you!"<Close><End of Block>
 <TextBlock 9 w:28 h:4>
 Jessie
@@ -110,10 +106,10 @@ Billy, go!"<Close><End of Block>
 Jessie
 "Let's wrap this up once
 and for all, eh Stein?<New>
-But, I want you to know
+But I want you to know
 that you aren't gonna
 see Racquel when you
-die...!<New>
-That's because your
-destination is going
-to be hell!"<Close><Close><Close><End of Block>
+die!<New>
+'Cause whatever happens
+your destination is
+hell!"<Close><Close><Close><End of Block>

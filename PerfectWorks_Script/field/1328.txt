@@ -1,30 +1,32 @@
-<TextBlock 1 w:50 h:3>
+<TextBlock 1 w:42 h:3>
 Citan
-"The main Solaris army...<Delay 32>
-Why... here in particular...?<New>
-Well let us get down."<Close><End of Block>
+"The Solaris homeland
+army...<Delay 32> Why...here<Delay 10> in
+particular...?<New>
+Well, anyway, let us
+go down."<Close><End of Block>
 <TextBlock 2 w:50 h:3>
 Elly
 "I heard there's nothing
-in this excavation site."<Close><End of Block>
-<TextBlock 3 w:50 h:2>
+at this excavation site."<Close><End of Block>
+<TextBlock 3 w:50 h:4>
 Bart
-"There's nothin' in here.<New>
-Why's Solaris coming 
-here?"<Close><End of Block>
-<TextBlock 4 w:32 h:2>
+"Citan, isn't this place
+empty?<Delay 10> Why's Solaris
+coming here?"<Close><End of Block>
+<TextBlock 4 w:30 h:2>
 Billy
-"Citan,<New>
-what is Solaris 
-trying to do?"<Close><End of Block>
-<TextBlock 5 w:50 h:3>
+"Citan, what
+could Solaris'
+objective be?"<Close><End of Block>
+<TextBlock 5 w:50 h:4>
 Rico
-"Hey Citan,<New>
-I heard there's nothin'
-here. If Solaris's comin'
-let's get outta here.<New>
-I hate dark cramped 
-places..."<Close><End of Block>
+"Hey Citan, I heard
+there's nothin' here.<New>
+Let's turn back and leave
+Solaris or whoever to it.
+I'm not into dark,
+cramped places..."<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 <Chu-Chu>
 "Hey, hey!?

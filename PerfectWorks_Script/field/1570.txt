@@ -521,24 +521,24 @@ you'll be able see it from
 far off.<New>
 I'm sure that last beam
 cannon could reach it!"<Close><End of Block>
-<TextBlock 124 w:54 h:15>
+<TextBlock 124 w:54 h:4>
 Bart
 "Well, I guess I wanted to
 show you all its greatness.<New>
 Have you ever seen such a
 cannon? And don't mix it
 up with Vanderkaum's pea-
-shooter.<New> 
+shooter.
 This one's many times 
 more powerful and many 
-times more refined.<New>
+times more refined.
 After all, that's why my
 ancestors used it for
 generations to guard the
-treasure.<New>
+treasure.
 Yeah, this is the real
 thing. And don't you
-forget it.<New>
+forget it.
 Now as I was saying,
 I haven't fouled up yet."<Close><End of Block>
 <TextBlock 125 w:48 h:3>

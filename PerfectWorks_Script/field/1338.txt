@@ -1,24 +1,26 @@
-<TextBlock 1 w:50 h:4>
+<TextBlock 1 w:46 h:4>
 Karellen
-"Lambs 03, 05 and 11 are
-damaged, just retrieve
-the non-damaged ones.<New>
-Eliminate the rest of the
-trash.<New>
+"Retrieve Lambs 03, 05
+and 11, whether damaged
+or undamaged.<New>
+Other than that,
+eliminate the rest
+of the trash.<New>
 Use the test subjects,
 Wels, for retrieval
 and elimination."<Close><End of Block>
-<TextBlock 2 w:52 h:3>
+<TextBlock 2 w:42 h:3>
 Karellen
 "I see...<New>
-The thing they've searched
-for over 500 years... This
-should be interesting."<Close><End of Block>
+For 500 years I have
+searched for<Delay 10> 'it'...
+This should be most
+interesting."<Close><End of Block>
 <TextBlock 3 w:48 h:4>
-Karellen, there are
-several ships that have
-not been vaporized. What
-should we do?<Close><End of Block>
+Karellen, a number of
+ships have avoided being
+vaporized.
+What should we do?<Close><End of Block>
 <TextBlock 4 w:44 h:3>
 Clean up is at 80%.
 Currently, our heading
@@ -31,14 +33,13 @@ energy is recharged.<New>
 Engineering, ready for a
 full demonstration. Main
 ship, military units are
-at stand by.<Close><End of Block>
-<TextBlock 7 w:50 h:3>
-We've confirmed the
-marker location of
-Stein.<New>
+on standby.<Close><End of Block>
+<TextBlock 7 w:58 h:3>
+We've confirmed the marker
+location of Stein.<New>
 Of the 130 research and
-excavation sites, it's in
-the southernmost peak.<Close><End of Block>
-<TextBlock 8 w:48 h:2>
-Shocktroops are entering
-Zeboim now.<Close><Close><End of Block>
+excavation sites, it's the
+one on the southernmost edge.<Close><End of Block>
+<TextBlock 8 w:40 h:2>
+Shock troops are
+entering Zeboim now.<Close><Close><End of Block>

@@ -1,33 +1,37 @@
-<TextBlock 1 w:50 h:3>
+<TextBlock 1 w:50 h:4>
 Citan
 "Rather strict airlock
 and scanning equipment...<New>
-It does not look
-operational though.<New>
-...The inside is
-preserved so well, the
-outside probably too..."<Close><End of Block>
-<TextBlock 2 w:44 h:4>
+It does not appear to
+be operating now.<New>
+...Maybe it was not the
+inside of the building
+they wanted to preserve,<Delay 10>
+but the outside..."<Close><End of Block>
+<TextBlock 2 w:42 h:4>
 Bart
-"Don't scare me.
-You say there's poison
-gas or reactive fuel?"<Close><End of Block>
-<TextBlock 3 w:42 h:3>
+"D-<Delay 5>Don't scare
+me, Doc.<New>
+Are you saying
+there's poison gas or
+even reactive fuel?"<Close><End of Block>
+<TextBlock 3 w:44 h:4>
 Billy
-"Such a fine, well
-equipped isolation<New>
-facility. Could it be
-a hospital?<New>
-But the town outside
-doesn't look so
-polluted though..."<Close><End of Block>
+"What a heavily
+locked-down isolation
+facility.<New>
+Could it be a
+hospital? But the city
+outside doesn't look
+all that polluted..."<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Rico
-"Some of it looks kinda
-like the crappy Central
-District in Noatun but...<New>
-Looks like a bunch of
-clean freaks live here."<Close><End of Block>
+"Some stuff kinda reminds
+me of the crappy Central
+District in Noatun, but...<New>
+Seems like a bunch of
+clean freaks lived in
+here."<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 <Chu-Chu>
 "What a great door.

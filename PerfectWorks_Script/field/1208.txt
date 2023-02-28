@@ -175,13 +175,13 @@ for a while."<Close><End of Block>
 Margie
 "Fei?<Delay 10>
 No, he hasn't come here!"<Close><End of Block>
-<TextBlock 36 w:54 h:3>
+<TextBlock 36 w:54 h:4>
 Margie
 "...I knew something was
 up with the Church of the
 Ethos...<New>
 It's not permissible to use
-religion for wrong doing!"<Close><End of Block>
+religion for wrongdoing!"<Close><End of Block>
 <TextBlock 37 w:26 h:3>
 Margie
 "Wels...
@@ -295,7 +295,7 @@ I'll never be able
 chu forgive him!"<Close><End of Block>
 <TextBlock 58 w:52 h:4>
 <Chu-Chu>
-"The boat suddenly started
+"The ship suddenly started
 chu roll, and now I don't
 feel chu good!!"<Close><End of Block>
 <TextBlock 59 w:46 h:3>
@@ -358,8 +358,8 @@ Munchu munchu<Close><End of Block>
 "Presents are a way
 chu a woman's heart!<Delay 10>
 Here's your reward!"<Close><End of Block>
-<TextBlock 71 w:48 h:1>
-Received 'Ether Veiler'!<Close><End of Block>
+<TextBlock 71 w:44 h:1>
+Received Ether Veiler!<Close><End of Block>
 <TextBlock 72 w:46 h:4>
 <Chu-Chu>
 "My eyes dry out when

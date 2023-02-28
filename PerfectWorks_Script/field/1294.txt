@@ -4,24 +4,26 @@ Billy
 Are you alright?"<Close><End of Block>
 <TextBlock 2 w:34 h:4>
 Billy
-"God's judgement?<Delay 10>
+"God's judgment?<Delay 10>
 What do you mean,
 Bishop?"<Close><End of Block>
 <TextBlock 3 w:52 h:3>
 Billy
 "He's gone.<New>
 What was he trying to tell
-me? Purge,<Delay 15> I wonder
+me? Purge...<Delay 15> I wonder
 what he meant?"<Close><End of Block>
-<TextBlock 4 w:48 h:4>
+<TextBlock 4 w:38 h:4>
 Billy
-"Something's over there.
-It's impossible to get
-through here like this."<Close><End of Block>
+"There's something
+on the other side.<New>
+It's making it
+impossible to get
+through here."<Close><End of Block>
 <TextBlock 5 w:58 h:2>
-<Opcode 14 2>O, oh... Billy<Delay 5>...<Delay 10>
+<Opcode 14 2>O-Oh... Billy<Delay 5>...<Delay 10>
 You're safe<Delay 5>...<New>
 ...<Delay 5>The purge<Delay 5>...
 has begun...<New>
 We<Delay 10> sinners...have brought
-god's<Delay 5> judgement<Delay 5> on<Delay 5> mankind<Delay 5>...<Close><Close><End of Block>
+God's<Delay 5> judgment<Delay 5> on<Delay 5> mankind<Delay 5>...<Close><Close><End of Block>

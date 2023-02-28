@@ -1,9 +1,9 @@
 <TextBlock 1 w:54 h:4>
 Billy
-"What's going on<Delay 5>...<Delay 5><New>
+"What's going on<Delay 5>...?<New>
 The Etones are in charge
-of the Church's military
-but they've been killed
+of the Church's military,
+yet they've been killed
 without signs of struggle."<Close><End of Block>
 <TextBlock 2 w:54 h:3>
 Wels are humans turned into
@@ -13,28 +13,28 @@ They're sealed in the
 cursed land of the heavens,
 Shevat.<Close><End of Block>
 <TextBlock 3 w:52 h:3>
-People belonging to the 
+People belonging to the
 Church must act modestly
 with generosity.<New>
 To do that we often read
 from the sacred scripts
 to return to a purer soul.<Close><End of Block>
 <TextBlock 4 w:48 h:3>
-This room was prepared 
-for people who have no 
+This room was prepared
+for people who have no
 one to turn to.<New>
-We hope to save their 
+We hope to save their
 souls and give them hope
 to live.<Close><End of Block>
 <TextBlock 5 w:54 h:4>
-They say Babel Tower is 
-connected to Shevat. The 
-exit is under close watch 
+They say Babel Tower is
+connected to Shevat. The
+exit is under close watch
 by our people.<New>
 In spite of that, those
-accursed Wels continue to 
+accursed Wels continue to
 appear in this land.<New>
-That's why the Etones are 
+That's why the Etones are
 here to eliminate them.<Close><End of Block>
 <TextBlock 6 w:50 h:3>
 We, the Etones, are the
@@ -54,7 +54,7 @@ again.<Close><End of Block>
 <TextBlock 8 w:52 h:3>
 Aha! You!<New>
 Ask Billy if his dad holds
-a grudge against the 
+a grudge against the
 Church or not.<New>
 They say his father bombed
 the Church supply dump.
@@ -69,7 +69,7 @@ Church.<Close><End of Block>
 <TextBlock 10 w:44 h:4>
 Why does Jessie attack
 the Church buildings?<Delay 10>
-Even though his son 
+Even though his son
 is an Etone...<Close><End of Block>
 <TextBlock 11 w:34 h:2>
 What's happening?
@@ -90,7 +90,7 @@ attacked us...It was
 very frightening.<Close><End of Block>
 <TextBlock 15 w:48 h:3>
 What's going on outside?
-Suddenly, men in black 
+Suddenly, men in black
 stormed in here.<New>
 Etones are fighting back
 for us now...<Close><End of Block>

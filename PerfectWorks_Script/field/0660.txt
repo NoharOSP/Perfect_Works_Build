@@ -5,7 +5,7 @@ They're still in pursuit.<Opcode 2 60><Close><End of Block>
 Despite entering Av territory<Delay 60>
 they're not giving up.<Opcode 2 60><Close><End of Block>
 <TextBlock 3 w:60 h:1>
-Clearly this Gear's important.<Delay 60><Opcode 2 30><Close><End of Block>
+Clearly this Gear's important.<Opcode 2 30><Close><End of Block>
 <TextBlock 4 w:52 h:2>
 ...Tch. At this point...<Delay 60>
 we're at a disadvantage.<Opcode 2 60><Close><End of Block>

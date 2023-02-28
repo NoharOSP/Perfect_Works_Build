@@ -28,49 +28,46 @@ Billy
 here.<New>
 If you're a good boy
 you can go sometime."<Close><End of Block>
-<TextBlock 12 w:44 h:3>
-I, <Delay 5>if, <Delay 5> I'm not a
-good boy I can't go...<Delay 10>
+<TextBlock 12 w:40 h:3>
+I-<Delay 5>If <Delay 5>I'm not a good
+boy I can't go...<Delay 10>
 Waahhh!!<Close><End of Block>
 <TextBlock 13 w:40 h:2>
 Can't see the flying
-saucer today.<Delay 10> Aa<~>h!<Close><End of Block>
+saucer today.<Delay 10> Aa~h!<Close><End of Block>
 <TextBlock 14 w:54 h:4>
 Wanna know about the flying
 saucer? Then just ask me!
 <Opcode 1 255>    Tell me
     Never mind<Close><End of Block>
 <TextBlock 15 w:56 h:29>
-<Opcode 1 2>Ahem!!
-Actually it was a long time
-ago. About 50 years ago, an
-old man, Henry Mingas, said<New>
-he was taken by the saucer
-and his body was altered.<New>
-Well, no one believed him,
-but afterward it's said<New>
-he had amazing knowledge
-and skills he never had
-before.<New>
-Then 10 years ago, strange
+<Opcode 1 2>Ahem!! Actually it was a
+long time ago. About fifty
+years ago, an old man, Henry
+Mingas, said he was taken by
+the saucer and his body was
+altered. Well, no one
+believed him, but afterward
+it's said he had amazing
+knowledge and skills he
+never had before.
+Then ten years ago, strange
 circle shaped marks were
 found in many places.
-You must've heard about it.<New>
+You must've heard about it.
 No? Well anyway, they were
-called mystery circles.<New>
-So this guy spread rumors
-that they were saucer
-landing sites,<New>
-and when others
+called mystery circles. So
+this guy spread rumors that
+they were saucer landing
+sites, and when others
 began to disappear, there
-was even more talk.<New>
-But there were other
-things than the saucer
-landing site explanation,<New>
-such as the
+was even more talk. But
+there were things other
+than the saucer landing site
+explanation, such as the
 Naughty Stories, Dragon
 Scrolls, or Plasma Legend.
-So there was no real proof.<New>
+So there was no real proof.
 But real disappearances
 did happen.<New>
 <Opcode 1 0>Oh, I forgot to mention,
@@ -256,7 +253,7 @@ you're so busy."<Close><End of Block>
 Bishop Stone
 "And who are these people?"<Close><End of Block>
 <TextBlock 71 w:48 h:3>
-Billy 
+Billy
 "They are travelers from
 another country."<Close><End of Block>
 <TextBlock 72 w:42 h:4>

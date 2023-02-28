@@ -1,20 +1,24 @@
-<TextBlock 1 w:48 h:3>
- Myyah
-"...Did you notice? 
-His Gear is reawakening.<New>
-Soon, he himself will
-awaken also."<Close><End of Block>
-<TextBlock 2 w:50 h:4>
- Myyah
+<TextBlock 1 w:42 h:4>
+Myyah
+"...Did you notice?
+His Gear is trying to
+awaken once again.<New>
+When the time is
+right, he himself
+will awaken also."<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Myyah
 "His friends are heading 
-for Zeboim. It's been 
-sealed up for 4000 years.<New>
+for Zeboim. A place sealed
+up for 4000 years.<New>
 You know what's there 
-better than I do. <New>
-He probably won't give
-anyone anything. But it's
-something we both need.
-You know what I mean?"<Close><End of Block>
-<TextBlock 3 w:32 h:2>
- Myyah
-"...so, please."<Close><Close><End of Block>
+better than anyone,
+don't you?<New>
+He's probably not going
+to hand it over to anyone.<New>
+But it's something we
+both need. You know
+what I mean?"<Close><End of Block>
+<TextBlock 3 w:36 h:2>
+Myyah
+"...So, please..."<Close><Close><End of Block>

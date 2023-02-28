@@ -337,25 +337,24 @@ Emperor Cain
 <TextBlock 65 w:28 h:2>
 We are<Delay 30> 'God',
 Cain.<Close><End of Block>
-<TextBlock 66 w:46 h:4>
-Better if they 
-simply fulfilled 
-their allotted duty<New>
-than giving rise 
-to a needless 
-greed.<Close><End of Block>
-<TextBlock 67 w:36 h:3>
-Unapproved 
-doctrines, 
-beliefs<Delay 5>...<Delay 5><New>
-It is an issue.<Close><End of Block>
-<TextBlock 68 w:38 h:3>
+<TextBlock 66 w:44 h:4>
+Better for them to
+simply fulfil their
+allotted duty<New>
+rather than fomenting
+a needless greed.<Close><End of Block>
+<TextBlock 67 w:42 h:3>
+Free reign of
+doctrines, beliefs<Delay 5>...<Delay 5>
+It is problematic.<Close><End of Block>
+<TextBlock 68 w:36 h:4>
 We have no use for
-an organization that 
-has become fanatic.<Close><End of Block>
-<TextBlock 69 w:26 h:4>
+an organization
+that has produced
+fanatics.<Close><End of Block>
+<TextBlock 69 w:24 h:4>
 To seek
-preservation<New>
+preservation
 is human
 nature.<Close><End of Block>
 <TextBlock 70 w:50 h:3>
@@ -363,48 +362,50 @@ But it is so far gone
 as to be irredeemable.
 An example must be made.<Close><End of Block>
 <TextBlock 71 w:48 h:3>
-The organisation was
-fated to be abandoned
-from the beginning.<New>
-It is not something to 
-be concerned with now.<Close><End of Block>
+Of course,
+the organization was
+doomed to be discarded.<New>
+At this late stage, its
+role is inconsequential.<Close><End of Block>
 <TextBlock 72 w:46 h:3>
-Correct. We gain nothing
-from its continued 
+Indeed. We gain nothing
+from its continued
 existence.<Close><End of Block>
-<TextBlock 73 w:50 h:3>
+<TextBlock 73 w:42 h:3>
 It has already
-sufficiently carried
-out its purpose.<New>
-Currently 'dealing 
-with each region'.<Close><End of Block>
+sufficiently served
+our purposes.<New>
+Currently, 'disposal
+is in progress in
+many regions'.<Close><End of Block>
 <TextBlock 74 w:44 h:2>
-Stein is supervising
-the disposal in 
-Aquvy.<Close><End of Block>
-<TextBlock 75 w:38 h:3>
-And providing
-instruction<New>
-on 'deserved 
-punishment'.<Close><End of Block>
-<TextBlock 76 w:48 h:2>
-We will be dealing with
-that as well in this
-strike, will we not?<Close><End of Block>
+Stein is directing the
+cleanup in Aquvy.<Close><End of Block>
+<TextBlock 75 w:34 h:4>
+Including<Delay 10>
+'acquiring that
+fateful remnant',
+I suppose.<Close><End of Block>
+<TextBlock 76 w:38 h:3>
+That will also be
+attended to in the
+current strike?<Close><End of Block>
 <TextBlock 77 w:50 h:4>
-Be that as it may...<Delay 5>
+All things considered...<Delay 5>
 Karellen is going to
 great lengths.<New>
-It is only a molecular 
-machine. For what does he
-put forth such effort?<Close><End of Block>
-<TextBlock 78 w:48 h:3>
-For us, 'human'<Delay 5> and 
-'machine' have the same
-meaning.<Close><End of Block>
-<TextBlock 79 w:34 h:2>
-That is so. Both 
-are the same<Delay 5>...<Close><End of Block>
+It is only molecular
+machinery. What is it
+that he is so invested
+in?<Close><End of Block>
+<TextBlock 78 w:44 h:3>
+For us, both 'human'<Delay 5>
+and 'machine'<Delay 5> have the
+same meaning.<Close><End of Block>
+<TextBlock 79 w:28 h:3>
+That is so.
+Either way it
+is the same<Delay 5>...<Close><End of Block>
 <TextBlock 80 w:30 h:3>
 So you have 
 returned<Delay 5>
