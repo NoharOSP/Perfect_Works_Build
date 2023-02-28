@@ -39,6 +39,7 @@ The project is also largely incompatible with both Undub and Xenogears 2.0.
 - Ramsus' first scene, Verlaine's speech to Billy and the Wave Existence scene no longer freeze the game when used with fast text.
 - Elements and Geburah Guards keep their changed names if both script and monster patches are selected.
 - Cherubina, Myyah, Carlin and Karellen keep their changed names if the encounters patch is used with the script patch.
+- All instances of Reapers are replaced with Wels.
 
 
 ### Version 0.1.5:
@@ -573,6 +574,7 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Suzarn = Suzanne 
 - Krelian = Karellen
 - Stratski = Strachey
+- Reapers = Wels
 
 #### Story changes:
 
