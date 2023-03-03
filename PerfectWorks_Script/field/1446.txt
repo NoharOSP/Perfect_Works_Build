@@ -1,12 +1,13 @@
-<TextBlock 1 w:40 h:2>
+<TextBlock 1 w:24 h:3>
 Fei
-"There's...no ceiling?"<Close><End of Block>
+"There's...
+no ceiling."<Close><End of Block>
 <TextBlock 2 w:36 h:4>
 Fei
 "Oh yeah!
 Is there any comms
 equipment nearby?"<Close><End of Block>
-<TextBlock 3 w:18 h:2>
+<TextBlock 3 w:26 h:2>
 Fei
 "Geburah...?"<Opcode 2 30><Close><End of Block>
 <TextBlock 4 w:38 h:3>
@@ -17,7 +18,7 @@ We just want to<-->"<Close><End of Block>
 Fei
 "So this is where Shevat
 used to be."<Close><End of Block>
-<TextBlock 6 w:38 h:4>
+<TextBlock 6 w:36 h:4>
 Fei
 "There are traces
 of something huge
@@ -31,7 +32,7 @@ Elly
 "It seems that it's true.
 Shevat was here before.<Delay 30>
 Look around."<Close><End of Block>
-<TextBlock 9 w:40 h:4>
+<TextBlock 9 w:36 h:4>
 Elly
 "There are traces
 of something huge
@@ -48,7 +49,7 @@ Something is closing in!
 ...A Gear!"<Opcode 2 20><Close><End of Block>
 <TextBlock 12 w:46 h:3>
 Mystery Girl
-"From here on is 
+"From here on is
 Shevat territory.<New>
 Any and all trespassers
 will be removed by
@@ -61,14 +62,14 @@ Maria
 "Forgive me.
 We have tested
 your strength."<Close><End of Block>
-<TextBlock 15 w:48 h:3>
+<TextBlock 15 w:44 h:3>
 Maria
 "The Queen awaits your
 arrival above."<Close><End of Block>
 <TextBlock 16 w:40 h:2>
 Maria
 "Yes, Queen Zephyr."<Opcode 2 40><Close><End of Block>
-<TextBlock 17 w:34 h:3>
+<TextBlock 17 w:28 h:3>
 That's enough,
-Maria. Bring them
-in.<Opcode 2 40><Close><End of Block>
+Maria. Bring
+them in.<Opcode 2 40><Close><End of Block>

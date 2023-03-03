@@ -533,7 +533,7 @@ much for you?<Delay 15> Well then,<Delay 5> why
 not try our Practice Mode
 for help with the controls?<New>
 This is a simulation mode
-where you can practise the
+where you can practice the
 basic control methods.<Delay 15>
 We recommend that beginners
 should train here first!<New>
@@ -1330,5 +1330,5 @@ the counter next to me."<Close><End of Block>
 Receptionist
 "You can't just do nothing
 and expect to win!
-You need to practise first
+You need to practice first
 to get the hang of it!"<Close><Close><End of Block>

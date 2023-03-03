@@ -285,75 +285,78 @@ Jessie
 premonition...<New>
 I doubt it but...
 they could've..."<Close><End of Block>
-<TextBlock 45 w:44 h:3>
-<Opcode 1 2>"It'll take a bit 
-more time to inspect
-<Seibzehn>.<New>
-Please go up there,
-and take a look around
-town."<Close><End of Block>
+<TextBlock 45 w:40 h:4>
+Maria
+"It'll still take
+a bit more time to
+inspect <Seibzehn>.<New>
+Please go on up
+and take a look
+around the city."<Close><End of Block>
 <TextBlock 46 w:48 h:3>
 Maria
-"This <Seibzehn> was
-developed by my father.<New>
-At the research
+"<Seibzehn> here was
+developed by my father<New>
+at the research
 institute in Solaris..."<Close><End of Block>
-<TextBlock 47 w:54 h:4>
+<TextBlock 47 w:52 h:4>
 Maria
-"I just turned five years
-old at that time, and had
-no clue what was happening.<New>
-Using me as a hostage,
-they forced my father to
+"I was so young I didn't
+even understand what was
+going on...<New>
+Having taken my mother and
+I hostage, they had forced
+my reluctant father to
 continue the research..."<Close><End of Block>
 <TextBlock 48 w:48 h:4>
 Maria
 "But he never showed his
 pain or sorrow in front
 of me...<New>
-He always smiled 
-and said...<New>
-'Don't worry, Maria,
- <Seibzehn> will be
- by your side to
- protect you...' "<Close><End of Block>
+Always smiling softly,
+he'd say...<New>
+'Don't worry, Maria.
+<Seibzehn> will be
+by your side to
+protect you...'"<Close><End of Block>
 <TextBlock 49 w:52 h:4>
 Maria
-"Five years ago, that day,
-when I fell behind in our
-escape...<New>
-My father protected me
-and ended up
-being left behind..."<Close><End of Block>
-<TextBlock 50 w:48 h:3>
+"On that day nine years
+ago, my father defended me<New>
+when I almost failed to
+escape, and he ended up
+being left behind,
+alone..."<Close><End of Block>
+<TextBlock 50 w:48 h:4>
 Maria
-"My father's voice, his
-smiles...<Delay 20>are leaving me.<New>
-They are far away, 
-becoming obscure...<New>
+"My father's voice,
+his smiles...<New>
+They're getting
+ever more faint
+and distant...<New>
 I believed this would
-never happen...<Delay 20>I swore
+never happen...<Delay 20>
+I swore that day that
 I'd never forget...!<New>
-Now, the only connection
-between my father and me
-is this <Seibzehn>..."<Close><End of Block>
+Now, the only thread
+linking me and my father
+is <Seibzehn> here..."<Close><End of Block>
 <TextBlock 51 w:46 h:4>
 Maria
 "But...I'll save my
-father someday!<New>
-I'll bring back my
-father's smile!<Delay 20>
+father someday!<Delay 20> I'll
+bring back his smile!<New>
 <Seibzehn> and I will
-do it, I swear...!!<New>
-I swear...!!
+do it, I swear...!!<Delay 10>
+I swear...!!<Delay 10>
 ..."<Close><End of Block>
-<TextBlock 52 w:50 h:4>
+<TextBlock 52 w:42 h:4>
 Maria
-"Sorry...<Delay 20>I shouldn't have
-told you such a bizarre
-story...<New>
-It has nothing to do with
-you..."<Close><End of Block>
+"Sorry...<Delay 20> I went and
+made you listen to my
+strange story...<New>
+It has nothing to
+do with you..."<Close><End of Block>
 <TextBlock 53 w:50 h:3>
 <Opcode 1 2>I never thought it'd turn
 out that way...<Delay 20>
@@ -377,8 +380,8 @@ your Gears later.<Close><End of Block>
 <Opcode 1 2>It was amazing, I was so
 impressed!<Delay 20> As long as
 Maria and you're with us,
-we have the power of a
-1000 Gears.<New>
+we have the power of 1000
+Gears.<New>
 We gave it our all to fix
 the Gears and the Yggdra!<Delay 20>
 At this rate, we can beat
@@ -400,18 +403,18 @@ Solaris a thing or two!<Close><End of Block>
 ...Maybe<Opcode 2 40><Close><End of Block>
 <TextBlock 60 w:50 h:4>
 How could Solaris do such
-a terrible thing...!!<Delay 20>
+a terrible thing...!?<Delay 20>
 Damn it!<New>
 It's unbearable...to see
-the genius, Dr. Nikola
+the genius, Dr. Nikola,
 ending his life like
 that...<Close><End of Block>
 <TextBlock 61 w:52 h:4>
-But, this is such a
-monster...<Delay 20>Maria's father
+But this is such a
+monster...<Delay 20> Maria's father
 designed something really
 extraordinary.<New>
 I hear he's a Solaris
 scientist, but I still
-respect him. He proved to
-me a genius really exists.<Close><Close><End of Block>
+respect him. He's proof
+that genius really exists.<Close><Close><End of Block>

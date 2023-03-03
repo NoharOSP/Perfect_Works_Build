@@ -1,13 +1,13 @@
 <TextBlock 1 w:44 h:4>
 Fei
-"It looks like we can 
-get to the upper room 
-through here..."<Close><End of Block>
-<TextBlock 2 w:52 h:4>
+"It looks like we can
+get to the room above
+through there, but..."<Close><End of Block>
+<TextBlock 2 w:48 h:4>
 Fei
-"Hmm... We'll need to get
-out of the Gears and cross
-via the handrails."<Close><End of Block>
+"Hmm,<Delay 10> we'll need to get
+out of the Gears and
+follow the handrails..."<Close><End of Block>
 <TextBlock 3 w:40 h:1>
 The door won't open.<Close><End of Block>
 <TextBlock 4 w:34 h:2>

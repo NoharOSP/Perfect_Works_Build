@@ -6,9 +6,11 @@ be okay, Doc...?"<Close><End of Block>
 Fei
 "Alright! 
 Let's do our part."<Close><End of Block>
-<TextBlock 3 w:48 h:2>
+<TextBlock 3 w:28 h:4>
 Fei
-"Communications are up."<Close><End of Block>
+"Looks like
+communications
+are active."<Close><End of Block>
 <TextBlock 4 w:24 h:2>
 Fei
 "What the!?"<Close><End of Block>
@@ -90,11 +92,12 @@ Citan
 "Go!!"<Close><End of Block>
 <TextBlock 23 w:28 h:2>
 Door lock has 
-been cleared.<Close><End of Block>
-<TextBlock 24 w:22 h:1>
-Lock clear.<Close><End of Block>
+been released.<Close><End of Block>
+<TextBlock 24 w:18 h:2>
+Door lock
+release.<Close><End of Block>
 <TextBlock 25 w:10 h:1>
-DONE!<Close><End of Block>
+Done!<Close><End of Block>
 <TextBlock 26 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

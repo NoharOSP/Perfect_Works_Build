@@ -48,9 +48,10 @@ might happen...<Delay 20> If anything
 ever happened to the Queen,
 it'd be disastrous.<Close><End of Block>
 <TextBlock 8 w:50 h:3>
-From here on, I cannot
-allow you to freely enter
-or leave.<Delay 20> I am sorry.<Close><End of Block>
+We cannot allow you to
+come and go unaccompanied
+beyond this point.<New>
+I am sorry.<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 This is the library where
 many books are gathered.<New>
@@ -280,7 +281,7 @@ Oh my, this has gotten
 serious.<Delay 20> It seems you can't
 get in because of the
 emergency security.<New>
-But, you are all lucky.<Delay 20>
+But you are all lucky.<Delay 20>
 A legendary vendor like
 me happens to be here
 through coincidence.<New>
@@ -294,8 +295,8 @@ shall it be?<Close><End of Block>
 <TextBlock 31 w:32 h:4>
     Items
     Weapon/Armor
-    Gear Parts
-    Nevermind<Close><End of Block>
+    Gear parts
+    Never mind<Close><End of Block>
 <TextBlock 32 w:46 h:4>
 Thank you very much.<Delay 20>
 If there's anything you

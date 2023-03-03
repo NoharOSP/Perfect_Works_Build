@@ -1,7 +1,7 @@
-<TextBlock 1 w:40 h:4>
+<TextBlock 1 w:42 h:4>
 Fei
-"This appears to be 
-the relay station 
+"Sure enough, this is
+the relay station's
 control room."<Close><End of Block>
 <TextBlock 2 w:44 h:3>
 Fei

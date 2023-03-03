@@ -8,13 +8,17 @@ written here...<New>
 'The one who attains the
 dawn, the dusk, and the
 darkness shall climb the
-path to heaven...<Delay 20>Wiseman'<New>
-What is this?"<Close><End of Block>
+path to heaven...<New>
+PS...
+Let the <Chu-Chu> in a
+high place teach you!
+                 -A sage'<New>
+What<Delay 10> is this?"<Close><End of Block>
 <TextBlock 2 w:50 h:4>
 Fei
 "Alright, then...
 Set those three stones we
-found into here..."<Close><End of Block>
+found into here, and<Delay 10>..."<Close><End of Block>
 <TextBlock 3 w:52 h:2>
 The stepping stone has
 been brought back to life.<Close><End of Block>
@@ -35,8 +39,8 @@ tomorrow's smiles...<Delay 20>
 That's what they called
 this city a long time ago...<New>
 But now, those hopes and
-despairs have been worn
-away long ago...<New>
+despairs have long since
+been worn away...<New>
 Probably the only things
 that remain are the echoes
 of resentment...<Close><End of Block>
@@ -48,12 +52,12 @@ But fate can be cruel
 sometimes...<Delay 20>
 Don't forget that.<Close><End of Block>
 <TextBlock 7 w:48 h:4>
-And, that stone plate
+Also, that stone plate
 floating there is called
-a Stepping Stone.<Delay 20> It
+a 'stepping stone'.<Delay 20> It
 moves with people on it.<New>
-Try and get on it and
-talk to the stone.<Delay 20>
+Try getting on it and
+talking to the stone.<Delay 20>
 It'll be glad to give
 three of you a ride.<Close><End of Block>
 <TextBlock 8 w:42 h:3>
@@ -77,7 +81,7 @@ Oh, are you new?<Delay 20>
 It's been so long since
 last time we had a visitor
 from the surface.<New>
-This is a 'Plant Shell'.<Delay 20>
+This is a 'plant shell'.<Delay 20>
 Vegetables and fruits
 needed in Shevat are grown 
 in it.<Close><End of Block>
@@ -163,7 +167,7 @@ This city has been
 wandering the sky like
 this for 500 years...<New>
 Just watching the 
-everchanging countries, 
+ever-changing countries, 
 the world, and those who
 appeared and disappeared...<New>
 The people in Shevat lost
@@ -192,12 +196,12 @@ Will there ever be any
 relief from the pain of
 losing what was precious
 to us?<New>
-When will it be the day 
-we can understand what
-all this loneliness and
-sorrow was for?<New>
-In short, we may be
-repeating the same 
+When will the day come
+when we can understand
+what all this loneliness
+and sorrow was for?<New>
+In the end, we may be
+repeating the same
 mistake we made
 500 years ago...<Close><End of Block>
 <TextBlock 29 w:46 h:4>
@@ -209,10 +213,10 @@ turn back.<Close><End of Block>
 Oh, so you're waiting
 to meet up with Maria?<Delay 10>
     Yes, that's right!
-    No, we're not.<Close><End of Block>
+    No, we're not<Close><End of Block>
 <TextBlock 31 w:54 h:3>
-If that's the case then...
-under there is a house that
+If that's the case, then...
+down there is a house that
 no one lives in anymore.<Close><End of Block>
 <TextBlock 32 w:56 h:4>
 Maria often used to go there
@@ -222,9 +226,9 @@ and think about things.<New>
 Why don't you check out the
 place and see what you can
 find while you wait for her
-there...<Close><End of Block>
+there...?<Close><End of Block>
 <TextBlock 33 w:50 h:4>
 Oh? So you're not?<Delay 10> Sorry.<Delay 20>
 Well anyway, why not rest
 up and unwind in our fair
-city...<Close><Close><End of Block>
+city...?<Close><Close><End of Block>

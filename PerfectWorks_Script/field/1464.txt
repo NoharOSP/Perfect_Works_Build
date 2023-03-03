@@ -5,18 +5,18 @@ the light down by pushing
 the box's switch located
 in the back.<Close><End of Block>
 <TextBlock 2 w:52 h:3>
-"Broken mirror,
+'Broken mirror,
 a million shades of light,
 The old echo fades away.<New>
 But just you and I
-can find 'the answer'
-someday..."<Close><End of Block>
+can find the answer
+someday...'<Close><End of Block>
 <TextBlock 3 w:50 h:3>
 'A distant promise'...<Delay 20>
 A poem composed long
 ago...<New>
 Can you find 'the answer'
-which supposedly exists
+that supposedly exists
 somewhere...?<Close><End of Block>
 <TextBlock 4 w:52 h:3>
 We're all part of a larger
@@ -62,13 +62,13 @@ Don't you think so?<Delay 15><Close><End of Block>
 <TextBlock 11 w:48 h:5>
 Oh, it's you guys?<Delay 20>
 Sorry, but although the
-"Deep Sea Bros" is open,
+Deep Sea Bros is open,
 we aren't doing any
 business for a while.<Close><End of Block>
 <TextBlock 12 w:50 h:5>
 Hello and welcome...<Delay 20>
-As you can see, the "Deep
-Sea Bros" is open...it's
+As you can see, the Deep
+Sea Bros is open...it's
 just that we aren't doing
 any business right now.<Close><End of Block>
 <TextBlock 13 w:22 h:3>
