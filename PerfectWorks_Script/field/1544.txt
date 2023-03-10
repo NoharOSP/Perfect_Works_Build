@@ -1,12 +1,11 @@
 <TextBlock 1 w:56 h:5>
 That day, 500 years ago,
 that woman was definitely
-here...<Delay 20>There was no other
-alternative but to be a
-captive...<New>
+here...<Delay 20> She had no choice
+but to be a captive...<New>
 We could've won, at the
 cost of many sacrifices!<Delay 20>
-Only if that traitor
+If only that traitor
 hadn't disappeared with
 the woman!!<New>
 The escaped woman freed the
@@ -15,19 +14,20 @@ human blood and ate their
 flesh...<Delay 20>
 And tore the world apart...!<Close><End of Block>
 <TextBlock 2 w:52 h:5>
-Excuse me...Miss...<Delay 20>
+Excuse me, miss...<Delay 20>
 You resemble the girl who
 was like an angel, and
 was sacrificed in the
 great war...<New>
-I can picture Zephyr and
-the followers' confusion.<Delay 20><New>
+I can still picture the
+confusion of Zephyr and
+her followers.<Delay 20><New>
 They were the ones who
 were actually responsible
 for the death of Sophia.<New>
-In actuality, we are still
+In truth, we are still
 being punished for that
-crime, 500 years ago!<Delay 20>
+crime 500 years ago!<Delay 20>
 It feels almost
 ridiculous, hahah...!<Close><End of Block>
 <TextBlock 3 w:52 h:5>

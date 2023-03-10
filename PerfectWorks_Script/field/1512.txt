@@ -1,12 +1,11 @@
-<TextBlock 1 w:36 h:3>
+<TextBlock 1 w:30 h:2>
 Your Majesty,
-something dreadful
-has...!!<Close><End of Block>
-<TextBlock 2 w:32 h:4>
+it's terrible!!<Close><End of Block>
+<TextBlock 2 w:26 h:4>
 Fei
-"Your Majesty...<Delay 20>
-You...
-The child...?"<Close><End of Block>
+"The Queen...<Delay 20>
+You're...
+a child...?"<Close><End of Block>
 <TextBlock 3 w:28 h:4>
 Fei
 "522...!?<Delay 20>
@@ -14,38 +13,39 @@ Is that really
 possible...?"<Close><End of Block>
 <TextBlock 4 w:54 h:4>
 Fei
-"I see...
-You're quite right.<New>
-But, there's no guarantee
-that you aren't the same
-as Solaris, right?<New>
-Even if Solaris were to be
-defeated, the people of the
-surface may just as well
-encounter a new dominator."<Close><End of Block>
+"I see...<Delay 10> Your cause
+sounds reasonable.<New>
+But what guarantee is there
+that you aren't the same as
+Solaris?<Delay 10> Even if Solaris
+were to be defeated,<New>
+maybe the people of the
+surface would only find
+themselves with a new
+ruler."<Close><End of Block>
 <TextBlock 5 w:10 h:2>
 Fei
 "..."<Close><End of Block>
 <TextBlock 6 w:20 h:2>
 Fei
-"Huh...!?"<Opcode 2 20><Close><End of Block>
-<TextBlock 7 w:44 h:3>
+"Huh...!?"<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:42 h:3>
 Fei
-"What was that shaking
-all about...!?"<Close><End of Block>
+"What was that impact
+just now...?"<Close><End of Block>
 <TextBlock 8 w:16 h:2>
 Fei
 "What!?"<Close><End of Block>
-<TextBlock 9 w:46 h:3>
+<TextBlock 9 w:48 h:3>
 Fei
 "Then should we go down
 with Maria?<New>
-It's the Geburah, right?<Delay 20>
+It's Geburah, right?<Delay 20>
 I'm still ticked off at
-them. I'll take'em on."<Close><End of Block>
+them. I'll take 'em on."<Close><End of Block>
 <TextBlock 10 w:32 h:3>
 Fei
-"Then, let's get
+"Okay,<Delay 10> let's get
 going, Maria."<Close><End of Block>
 <TextBlock 11 w:42 h:4>
 Fei
@@ -83,67 +83,64 @@ get outta hand."<Close><End of Block>
 Fei
 "I'll go too.<Delay 20> I'm a little
 concerned if it's Elly."<Close><End of Block>
-<TextBlock 17 w:32 h:4>
+<TextBlock 17 w:28 h:3>
 Elly
-"Your Majesty...<Delay 20>
-Y, you...?
-You're the...?"<Close><End of Block>
+"Y-You're...<Delay 20>
+the Queen...?"<Close><End of Block>
 <TextBlock 18 w:28 h:4>
 Elly
 "...<Delay 20>
 Yes...
 I understand."<Close><End of Block>
-<TextBlock 19 w:50 h:4>
+<TextBlock 19 w:40 h:4>
 Bart
-"Thank you for coming...?<Delay 20>
-What is this?
-It's just a kid."<Close><End of Block>
-<TextBlock 20 w:54 h:3>
+"'Thank you for
+coming'...?<Delay 20> Wait,
+you're just a kid!?"<Close><End of Block>
+<TextBlock 20 w:54 h:4>
 Bart
-"Tch.
-Something's not right.<New>
-This is a fight for 
-independence from a 
-tyrant. The battle
-for freedom.<New>
-I see, you make it seem
-like your intentions are
-noble.<New>
-In reality though, maybe
-you're no different than
-Solaris?<New>
-Anyway, I'm too busy with
+"Tch,<Delay 10> I don't like it.<New>
+A fight for freedom,
+for independence from
+our rulers...<New>
+See, those are noble
+intentions, but in reality
+maybe you're no different
+from Solaris?<New>
+Anyway, we're too busy
 trying to take Av back
 from that bastard, Shakhan.<New>
-Hate to break this to you,
-but I don't have the time
-to fight your wars for you!"<Close><End of Block>
+Hate to break it to you,
+but we don't have that
+kind of time to spare!"<Close><End of Block>
 <TextBlock 21 w:14 h:2>
 Bart
 "Uh..."<Close><End of Block>
-<TextBlock 22 w:52 h:4>
+<TextBlock 22 w:48 h:4>
 Rico
-"Hmph... Alright. Your
-story sounds quite noble.<New>
-But, what is there to stop
-Shevat from taking up a
-dictatorship after Solaris
-falls?<New>
-Those taking down the seat
-of power usually become...<New>
-...infatuated with their
-own power and make its
-people suffer.<Close><End of Block>
+"Hmph... I see.
+Your side of the story
+sounds admirable enough.<New>
+But what is there to
+stop Shevat taking up
+a dictatorship after
+Solaris falls?<New>
+Those who are bent on
+taking down the seat of
+power are often drunk on
+power themselves,<New>
+and will cause others
+to suffer.<Close><End of Block>
 <TextBlock 23 w:48 h:3>
 Rico
 "Hmm...<Delay 20>
-I see, now.<New>
+Okay, I get it.<New>
 So you want to take down
 our common enemy first."<Close><End of Block>
-<TextBlock 24 w:32 h:3>
+<TextBlock 24 w:28 h:3>
 Billy
-"Your Majesty...<Delay 20>
-Y, you...?"<Close><End of Block>
+"Y-You're...<Delay 20>
+the Queen...?"<Close><End of Block>
 <TextBlock 25 w:42 h:3>
 <Chu-Chu>
 "Alright! <Chu-Chu>'s
@@ -200,10 +197,10 @@ the path to Solaris.<New>
 That will lead to the land
 dweller's freedom.<Delay 20> Please,
 Fei."<Close><End of Block>
-<TextBlock 35 w:40 h:3>
+<TextBlock 35 w:28 h:3>
 Zephyr
-"Now go and get some
-rest for now."<Close><End of Block>
+"Now go and
+rest a while."<Close><End of Block>
 <TextBlock 36 w:44 h:4>
 Zephyr
 "As usual, be careful.<Delay 20>
@@ -216,9 +213,7 @@ Zephyr
     Let me think some more<Close><End of Block>
 <TextBlock 38 w:40 h:4>
 Zephyr
-"Alright.<Delay 20>
-Allow me to hear out
-your decision."<Close><End of Block>
+"Very well. Then<-->"<Close><End of Block>
 <TextBlock 39 w:50 h:4>
 Zephyr
 "Take your time and think
@@ -233,144 +228,142 @@ a long way.<Delay 20> I am the Queen
 of Shevat, Zephyr."<Close><End of Block>
 <TextBlock 41 w:48 h:4>
 Zephyr
-"I may appear to be like
-this, but I am actually
+"This is what I look
+like, but I am actually
 522 years old."<Close><End of Block>
 <TextBlock 42 w:54 h:4>
 Zephyr
 "Yes...<New>
-I and a select few of the
-vassals have undergone some
-special life-extending
-treatments.<New>
-We were required to
-continue living...<Delay 20> Until
+A select few of the vassals
+and I undergo special
+life-extending procedures.<New>
+We were compelled to
+continue living...<Delay 20>until
 that final day approaches.<Delay 20>
 Because of one man...<New>
-To continue living...<Delay 20>
-This is our atonement...
+To continue living<Delay 20>
+is our atonement...
 for that tragedy
 500 years ago..."<Close><End of Block>
 <TextBlock 43 w:54 h:4>
 Zephyr
-"Let us discontinue this
-discussion of the past.<New>
+"Let us cease this talk
+of the distant past.<New>
 I've heard many things
-about all of you from
-Wiseman.<New>
+about you all from Wiseman.<New>
 Wiseman has been conducting
 his operations on the
 surface under my orders...<New>
-...to keep an eye on that
-man's activities.<New>
-Also, he was ordered to
-bring anyone from the
-surface who would be of
-help to us to Shevat...<New>
-500 years ago we fought
+to keep an eye on
+the activities of
+that same man.<New>
+He was also instructed to
+bring to Shevat, without
+fail, anyone from the
+surface who may help us...<New>
+500 years ago, we fought
 against Solaris for the
 freedom of the land
-dwellers.<New>
-Even after that, we
-continue to resist Solaris
-although we are short of
-any real power."<Close><End of Block>
+dwellers,<New>
+and thereafter have
+continued to resist them,
+albeit to a lesser extent."<Close><End of Block>
 <TextBlock 44 w:50 h:4>
 Zephyr
-"Land dwellers, can you
-find it in your heart
-to help us?<New>
-We must free mankind from
-the grasps of Solaris...<New>
-We must gain true freedom
-and build a peacful world
-to live in."<Close><End of Block>
-<TextBlock 45 w:52 h:4>
+"Land dwellers, please
+lend us your aid.<New>
+To release humankind from
+the grasp of Solaris...<Delay 10>
+to build a truly free
+and peaceful world."<Close><End of Block>
+<TextBlock 45 w:50 h:4>
 Zephyr
-"Hmm...You are apparently
-nothing like the calm and
+"Hmm... You are the exact
+opposite of the calm and
 quiet Roni Fatima, Bart.<New>
-Yet, you are so similar to
-Roni at the same time...<Delay 20>
-There is logic behind what
-you say, though."<Close><End of Block>
-<TextBlock 46 w:54 h:4>
+And yet, so very
+much like him...<Delay 20>
+You make a good point."<Close><End of Block>
+<TextBlock 46 w:48 h:4>
 Zephyr
-"However, I tell no lie...<New>
-...when I say we are doing
-this purely for the future
-of the land dwellers.<New>
-If you still cannot believe
-us, then defeat Solaris,
-gain back the independence
-of the land dwellers...<New>
-...and then see if we still
-embrace the heavens
-together.<New>
-The pretexts of the past,
-the discord between
-nations. Why be concerned
-at such a small scale?<New>
-You must look at the bigger
-picture!"<Close><End of Block>
-<TextBlock 47 w:54 h:4>
+"However, I tell no lie
+when I say we are doing<New>
+this purely for the
+future of the land
+dwellers. If you still
+cannot believe us,<New>
+then after Solaris is
+defeated and the
+independence of the land
+dwellers has been won...<New>
+you can consider again
+whether or not to share
+the heavens with us.<New>
+Be it the pretexts of
+bygone days, or the
+feuds between nations...<New>
+Why be concerned with
+such small things?
+You must look at the
+bigger picture!"<Close><End of Block>
+<TextBlock 47 w:48 h:4>
 Zephyr
-"However, I tell no lie...<New>
-...when I say we are doing
-this purely for the future
-of the land dwellers.<New>
-If you still cannot believe
-us, then defeat Solaris,
-gain back the independence
-of the land dwellers...<New>
-...and then see if we still
-embrace the heavens
-together."<Close><End of Block>
+"Nevertheless,
+I tell no lie when
+I say we are doing<New>
+this purely for the
+future of the land
+dwellers. If you still
+cannot believe us,<New>
+then after Solaris is
+defeated and the
+independence of the land
+dwellers has been won...<New>
+you can consider again
+whether or not to share
+the heavens with us.<Close><End of Block>
 <TextBlock 48 w:54 h:4>
 Zephyr
-"It should do you some good
-if you rest in the palace
-and think about it.<New>
-You must think about what
-you ought to do.<New>
+"You may want to try to get
+some rest in the palace<New>
+and think carefully about
+what you ought to do now.<New>
 But remember, Solaris has
 been quite active lately.<Delay 20>
 So we don't have much time
 for leisure."<Close><End of Block>
-<TextBlock 49 w:52 h:4>
+<TextBlock 49 w:48 h:4>
 Zephyr
-"As for you, Elly...
-Your family and friends...<New>
-You must understand that
-they will all have to be
-your enemies.<New>
-Without this clear
-understanding...<New>
-...You may be placing your
-companions in a situation
-where it may cost them
-their lives..."<Close><End of Block>
+"As for you, Elly...<New>
+Your will have to make
+enemies of your family
+as well as your friends.
+Without a firm resolve,<New>
+going forward it could
+mean the difference
+between life and death
+for your companions..."<Close><End of Block>
 <TextBlock 50 w:52 h:3>
 Zephyr
-"Very well then.<Delay 20>
+"Very well, then.<Delay 20>
 Now go and get some rest."<Close><End of Block>
 <TextBlock 51 w:44 h:3>
 Zephyr
 "What's the meaning of
 this?"<Close><End of Block>
 <TextBlock 52 w:54 h:4>
-Yes! That is...<Delay 20> We have an
+Ma'am! We...<Delay 20> We have an
 intruder in the dock area!
 The Gate generator has been
-destroyed...!<Close><End of Block>
+bombed...!<Close><End of Block>
 <TextBlock 53 w:54 h:2>
 Zephyr
 "What's the damage report?"<Close><End of Block>
 <TextBlock 54 w:50 h:4>
-Y, yes! Sub-systems are
+M-<Delay 5>Ma'am! Sub-systems are
 destroyed...<Delay 20>
-Gate generation has
-dropped 70% from normal!<New>
+Gate generation is down
+by 30%!<New>
 We're devoting everything
 to fire fighting and
 repairs...<Delay 20> It will still
@@ -379,7 +372,7 @@ take some time!<Close><End of Block>
 Zephyr
 "What of the intruder?"<Close><End of Block>
 <TextBlock 56 w:50 h:3>
-Yes, we believe it's just
+Ma'am, we believe it's
 a lone Geburah soldier.<New>
 It seems the individual
 has escaped to the number
@@ -391,14 +384,14 @@ Zephyr
 Zephyr
 "It is too dangerous
 to go by yourself."<Close><End of Block>
-<TextBlock 59 w:52 h:4>
+<TextBlock 59 w:54 h:4>
 Your Majesty, we have our
 hands full just trying to
 fight the fire on the
 shield generator.<New>
 If someone doesn't do
 something, it's possible
-we'll have more losses...!<Close><End of Block>
+there'll be more losses...!<Close><End of Block>
 <TextBlock 60 w:46 h:4>
 Zephyr
 "Maria, what can you do
@@ -406,9 +399,9 @@ now when you don't even
 have <Seibzehn>?"<Close><End of Block>
 <TextBlock 61 w:52 h:3>
 Zephyr
-"...
-Is it fine with you, Fei?<New>
-Please take care of Maria.<Delay 20>
+"...<Delay 10>
+If you could, Fei?<New>
+Please look out for Maria.<Delay 20>
 And be careful out there."<Close><End of Block>
 <TextBlock 62 w:48 h:3>
 Who will you leave here?<Delay 20>
@@ -448,18 +441,19 @@ We do not have the combat
 experience and...<Delay 20>if
 something ever happened to
 the Queen...<Close><End of Block>
-<TextBlock 70 w:42 h:2>
+<TextBlock 70 w:32 h:3>
 Maria
-"Was that enemy...!?"<Close><End of Block>
-<TextBlock 71 w:46 h:3>
+"It can't be
+the enemy...!?"<Close><End of Block>
+<TextBlock 71 w:38 h:3>
 Maria
-"Number 17 hangar bay!?<Delay 20>
+"Number 17 hangar!?<Delay 20>
 <Seibzehn>...!!"<Close><End of Block>
 <TextBlock 72 w:34 h:4>
 Maria
 "But...
 We can't just let
-the spy be...!"<Close><End of Block>
+a Solaris spy<-->!"<Close><End of Block>
 <TextBlock 73 w:46 h:3>
 Maria
 "I'll be fine.<Delay 20>
@@ -470,8 +464,8 @@ Maria
 But..."<Close><End of Block>
 <TextBlock 75 w:38 h:3>
 Maria
-"Then, let's all go
-together."<Close><End of Block>
+"Hello once again,
+everyone."<Close><End of Block>
 <TextBlock 76 w:42 h:4>
 Elly
 "Shall I come along?"<Delay 20>

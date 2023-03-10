@@ -1,9 +1,10 @@
 <TextBlock 1 w:52 h:2>
 Listen, Hyuga.<Delay 20>
 I'm going to Solaris, too.<Close><End of Block>
-<TextBlock 2 w:44 h:2>
+<TextBlock 2 w:38 h:3>
 Fei
-"Why<Delay 20>...are you here!?"<Close><End of Block>
+"You...!?<Delay 20>
+Why are you here!?"<Close><End of Block>
 <TextBlock 3 w:42 h:4>
 Citan
 "Yes...<Delay 20>
@@ -27,9 +28,9 @@ Jessie
 so discouraging..."<Close><End of Block>
 <TextBlock 6 w:52 h:3>
 Wiseman
-"Fei, 
+"Fei,
 go with Shevat.<New>
-Your father, Kahn
+Your father, Khan,
 would've wanted you to..."<Close><End of Block>
 <TextBlock 7 w:36 h:2>
 Wiseman
@@ -37,15 +38,16 @@ Wiseman
 <TextBlock 8 w:46 h:3>
 Wiseman
 "You're finally here...<Delay 20>
-Where have you been?"<Close><End of Block>
+What kept you?"<Close><End of Block>
 <TextBlock 9 w:44 h:3>
 Wiseman
-"I've told you before.<New>
+"As I told you before,<New>
 I learned martial arts
-with your father in
-Shevat.<New>
-The Queen is waiting.
-Go ahead."<Close><End of Block>
-<TextBlock 10 w:34 h:2>
+with your father Khan
+in Shevat.<New>
+Now, the Queen
+is waiting.
+You can enter."<Close><End of Block>
+<TextBlock 10 w:30 h:2>
 Maria
-"Please come in."<Close><Close><End of Block>
+"Please go in."<Close><Close><End of Block>

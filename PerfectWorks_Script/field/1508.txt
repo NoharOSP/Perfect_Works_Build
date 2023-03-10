@@ -78,10 +78,10 @@ Don't worry.<Delay 20> It's their
 job anyway to tell the new
 people from the surface
 about the past.<Close><End of Block>
-<TextBlock 11 w:48 h:4>
-...Sigh... Will the day
-ever come when I will be
-able to live peacefully
+<TextBlock 11 w:42 h:4>
+...*Sigh*... Will the
+day ever come when we
+can live peacefully
 on the surface?<Close><End of Block>
 <TextBlock 12 w:54 h:3>
 Welcome to Shevat.<Delay 20> We've
@@ -108,7 +108,7 @@ of Shevat.<New>
 Regardless of how well
 she can control
 <Seibzehn>, she's
-only a 13 years old girl.<New>
+only a 13-year-old girl.<New>
 She's probably worried sick
 about her father who's been
 captured by Solaris...<Close><End of Block>
@@ -118,13 +118,13 @@ that would happen to
 Professor Nikola...<New>
 What are we to say to
 Maria?<Close><End of Block>
-<TextBlock 16 w:54 h:4>
-Balthasar has strongly told
+<TextBlock 16 w:52 h:4>
+Balthasar firmly told
 Maria not to leave Shevat
 under any circumstances.<New>
 He probably said that
 because he knows that if
-provided with the chance...<New>
+given half a chance...<New>
 ...that child would
 immediately try to fly off
 to Solaris...<New>
@@ -303,21 +303,20 @@ If there's anything you
 need, please come by
 again.<Close><End of Block>
 <TextBlock 33 w:54 h:4>
-Looong ago, I've heard that
-a lone Chu-chu was taken
-from the town by a wise
-man...<New>
+I heard that, long ago,
+a lone <Chu-Chu> was taken
+from the town by a sage...<New>
 It looks like she's been
 well.<Delay 20> On top of that, she's
 gotten so big and grand...<New>
 It's truly a surprise!<Delay 20>
 Wonder what she was eating.<Close><End of Block>
 <TextBlock 34 w:46 h:4>
-Looong ago, I've heard
-that a lone Chu-chu was
+I heard that, long ago,
+a lone <Chu-Chu> was
 taken from the town by
-Wiseman...<New>
+a sage...<New>
 I haven't heard what
 happened after that.<Delay 20>
-I hope that Chu-chu
+I hope that <Chu-Chu>
 is doing well...<Close><Close><End of Block>

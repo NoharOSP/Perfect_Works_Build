@@ -1,33 +1,34 @@
-<TextBlock 1 w:36 h:3>
+<TextBlock 1 w:28 h:3>
 Fei
 "...!?<Delay 20>
 Yui!?<New>
-W...why,
-are you here...!?"<Close><End of Block>
+Wh... Why are
+you here...!?"<Close><End of Block>
 <TextBlock 2 w:20 h:2>
 Fei
 "I see..."<Close><End of Block>
 <TextBlock 3 w:50 h:3>
 Fei
-"I'm sorry for putting so
-much trouble on you."<Close><End of Block>
+"I'm sorry for all the
+trouble I've caused you."<Close><End of Block>
 <TextBlock 4 w:14 h:3>
 Fei
 "Yes...<Delay 20>
 but..."<Close><End of Block>
-<TextBlock 5 w:50 h:4>
+<TextBlock 5 w:42 h:4>
 Fei
-"Oh, you've never met her
+"Oh, you haven't met
 before.<Delay 20> This is Doc's
 wife, Yui."<Close><End of Block>
-<TextBlock 6 w:50 h:3>
+<TextBlock 6 w:42 h:3>
 Fei
 "Okay!<Delay 20>
-Then I'll see you later."<Close><End of Block>
-<TextBlock 7 w:54 h:3>
+See you later, then."<Close><End of Block>
+<TextBlock 7 w:38 h:4>
 Citan
-"Oh, it is nice to be back.<Delay 20>
-Thanks for your trouble."<Close><End of Block>
+"Ahh, it is nice to
+be back.<Delay 20> Thank you
+for everything."<Close><End of Block>
 <TextBlock 8 w:10 h:2>
 Elly
 "..."<Close><End of Block>
@@ -37,11 +38,11 @@ Bart
 who's this lady?"<Close><End of Block>
 <TextBlock 10 w:42 h:2>
 Bart
-"The wife of<Delay 20> Citan!?"<Close><End of Block>
-<TextBlock 11 w:38 h:3>
+"W-Wife!?<Delay 20> Citan's!?"<Close><End of Block>
+<TextBlock 11 w:34 h:3>
 Bart
-"Y...yes!<Delay 20>
-H...how do you do!"<Close><End of Block>
+"Y... Yes!<Delay 20>
+H-How d'you do!"<Close><End of Block>
 <TextBlock 12 w:52 h:5>
 We're still running around
 in the sky because of the
@@ -63,8 +64,8 @@ never give up..."<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Yui
 "Oh, welcome.<Delay 20>
-You look good, Fei.<New>
-The meal will be ready
+You look well, Fei.<New>
+Dinner will be ready
 soon. Please join us and
 eat to your heart's
 content."<Close><End of Block>
@@ -75,37 +76,41 @@ before? I was born here.<New>
 After you left the village,
 I decided to return to
 Shevat along with the
-survivors of the village.<New>
-Because the soldiers from
-Av and Kislev were
-showing up around there
-..."<Close><End of Block>
+surviving villagers.<New>
+It seemed an ill wind was
+blowing when soldiers from
+Av and Kislev started
+hanging around."<Close><End of Block>
 <TextBlock 16 w:30 h:2>
 Yui
 "Welcome back."<Close><End of Block>
-<TextBlock 17 w:56 h:3>
+<TextBlock 17 w:50 h:3>
 Yui
 "What are you saying?<Delay 20>
 It's not your fault.<New>
 There's nothing to worry
 about.<New>
-The people from the village
-understood after they came
-here and heard the story.<New>
-They couldn't blame only you
-for that incident because
-Solaris was behind it."<Close><End of Block>
-<TextBlock 18 w:54 h:4>
+The people from the
+village understood once
+they came here and heard
+the full story.<New>
+They said they couldn't
+blame you alone for what
+happened, since Solaris
+instigated it."<Close><End of Block>
+<TextBlock 18 w:48 h:4>
 Yui
-"Aha, I take it...<Delay 20>
-you are Bart, the Orca of
-the Desert, right?<New>
-I've heard a lot about you.
-You've been quite busy.<Delay 20>
+"Aha...<Delay 20>I take it you
+are Bart, the Orca of
+the Desert?<New>
+I've heard a lot about
+you. You've been giving
+it your all!<Delay 20>
 It's nice to meet you."<Close><End of Block>
 <TextBlock 19 w:48 h:3>
 Yui
-"Have you met the Queen?<New>
+"Have you met the
+Queen yet?<New>
 If you haven't, go say
 hello to her as soon as
 possible."<Close><End of Block>
@@ -116,18 +121,18 @@ in Shevat?<Delay 20> Is it one of
 Solaris'...?"<Close><End of Block>
 <TextBlock 21 w:56 h:4>
 Yui
-"Have you met the Queen?<Delay 20>
+"Have you met the Queen yet?<Delay 20>
 If you haven't, go say hello
 to her as soon as possible."<Close><End of Block>
 <TextBlock 22 w:26 h:2>
 Midori
 "...<New>
-Chu-chu...<Delay 20>
+<Chu-Chu>...<Delay 20>
 My friend..."<Close><End of Block>
 <TextBlock 23 w:42 h:4>
 Midori really talks a
 lot!<Delay 20> It's amazing how
-much stuff you have
+much stuff we have
 chu talk about.<Close><End of Block>
 <TextBlock 24 w:52 h:3>
 We can have a conversation

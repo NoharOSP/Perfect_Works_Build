@@ -305,7 +305,7 @@ from items?<New>
 It'll help old Hammer out!"<Delay 30>
 <Opcode 1 255>    Enough already!
     Hammer's items
-    Hammer's Gear Parts<Close><End of Block>
+    Hammer's Gear parts<Close><End of Block>
 <TextBlock 82 w:52 h:4>
 Hammer
 "So, <Delay 5>now for the Battling.
@@ -336,7 +336,7 @@ from Gear parts?<New>
 It'll help old Hammer out!"<Delay 30>
 <Opcode 1 255>    Enough already!
     Hammer's items
-    Hammer's Gear Parts<Close><End of Block>
+    Hammer's Gear parts<Close><End of Block>
 <TextBlock 87 w:52 h:4>
 Hammer
 "So, <Delay 5>now for the Battling.

@@ -189,8 +189,8 @@ Bart
 <TextBlock 27 w:46 h:4>
 Ol' Man Bal
 "The barrier is closed
-because the 'Sand
-Sensors' were tripped.<New>
+because the sand
+sensors were tripped.<New>
 Thanks to that, now I
 can't get through to
 the other side either.<New>
@@ -208,7 +208,7 @@ we do about it?"<Close><End of Block>
 Ol' Man Bal
 "It's very simple.
 You just have to turn off
-the Sand Sensor switches.<New>
+the sand sensor switches.<New>
 Doing that will keep the
 barrier from closing again.<Delay 30>
 While you two are doing
@@ -251,14 +251,15 @@ want to ask you."<Close><End of Block>
 <TextBlock 38 w:26 h:2>
 Ol' Man Bal
 "What is it?"<Close><End of Block>
-<TextBlock 39 w:50 h:4>
+<TextBlock 39 w:44 h:4>
 Bart
 "I've heard tales that
 a Gear surpassing all
 others,<New>
 a 'God Gear' made in
-ancient times, sleeps
-somewhere in this world.<New>
+ancient times, lies
+dormant somewhere in
+this world.<New>
 Do you know anything
 about it?"<Close><End of Block>
 <TextBlock 40 w:54 h:4>
@@ -485,7 +486,7 @@ the Engine."<Close><End of Block>
 <TextBlock 84 w:52 h:4>
 Ol' Man Bal
 "Now hurry and shut off
-the Sand Sensors.<New>
+the sand sensors.<New>
 Or do you have something
 else you want to ask?"<New>
     Where are the sensors?
@@ -500,10 +501,10 @@ Ol' Man Bal
 <TextBlock 86 w:52 h:4>
 Ol' Man Bal
 "You seem to have shut off
-the Sand Sensor on the
+the sand sensor on the
 ledge in the Great Hall...<New>
-But there's another Sand
-Sensor on the road from
+But there's another sand
+sensor on the road from
 which you can see the
 waterfalls.<New>
 It's on a rock ledge,
@@ -521,8 +522,8 @@ Ol' Man Bal
 <TextBlock 88 w:54 h:4>
 Ol' Man Bal
 "You seem to have shut
-off the Sand Sensor in
-Waterfall Grotto. <New>
+off the sand sensor in
+Waterfall Grotto.<New>
 But there's still one more,
 above the big boulder in
 the Great Hall. I think
@@ -648,6 +649,6 @@ northwest from the place
 where the Gear is standing.
 It is on a rock ledge.<New>
 You can tell that it is a
-Sand Sensor by its square
+sand sensor by its square
 shape and the flashing red
 lights it emits."<Close><Close><End of Block>

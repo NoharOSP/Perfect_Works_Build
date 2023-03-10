@@ -29,8 +29,8 @@ Maria
 Don't!"<Close><End of Block>
 <TextBlock 3 w:54 h:4>
 Maria
-"Are you finished talking
-to the Queen?<New>
+"Have you finished talking
+with the Queen?<New>
 What do you all plan on
 doing...?<Delay 20> Are you going to
 fight alongside the people
@@ -40,7 +40,7 @@ Maria
 "Everyone is searching for
 a reason to live, a reason
 to fight.<New>
-To understand better the
+To better understand the
 meaning of death...<New>
 However, that is something
 we must find on our own,
@@ -51,42 +51,41 @@ understand what he meant
 by it..."<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Maria
-"It's already been 5 years
-since my grandfather
+"It's already been three
+years since my grandfather
 brought me to Shevat.<New>
 Grandfather and the Queen
 always told me not to leave
 Shevat.<Delay 20> That I must not go
 to Solaris alone...<New>
 There's no way I could
-lose to any other Gear in
-my <Seibzehn>...<Delay 20>
+lose to any other Gear
+with <Seibzehn>...<Delay 20>
 There's no way...!<New>
 I'll step on all those
-Solarians with
-<Seibzehn>...<Delay 10> Beat them
+Solarians...<Delay 10> Beat them
 down, beat them all down!!"<Close><End of Block>
 <TextBlock 6 w:54 h:4>
 Maria
-"Why does grandfather and
+"Why do Grandfather and
 the Queen stop me?<New>
 Don't they care what
-happens to father...?<Delay 20> Are
+happens to Father...?<Delay 20> Are
 they just going to stand by
 and watch him die?<New>
 I can't forgive those
-people who tortured father,<Delay 20>
+people who tortured Father,<Delay 20>
 and those who silently
 stand by and watch...!"<Close><End of Block>
 <TextBlock 7 w:42 h:4>
 Maria
 "Even as we speak, my
 father in Solaris may
-be..."<Close><End of Block>
+be<Delay 10>..."<Close><End of Block>
 <TextBlock 8 w:10 h:2>
 Maria
 "..."<Close><End of Block>
-<TextBlock 9 w:26 h:2>
+<TextBlock 9 w:28 h:2>
 Maria
 "<Chu-Chu>!!"<Close><End of Block>
 <TextBlock 10 w:20 h:2>
