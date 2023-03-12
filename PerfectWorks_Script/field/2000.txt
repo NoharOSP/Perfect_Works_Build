@@ -80,14 +80,14 @@ careful too.<New>
 I'm sure your
 voice will reach
 her too, Fei..."<Close><End of Block>
-<TextBlock 13 w:28 h:4>
+<TextBlock 13 w:32 h:4>
 Midori
 "Here...<Delay 20>
 I got this
-from Chu-chu.<New>
+from <Chu-Chu>.<New>
 Fei, you can 
-have it.<Delay 20>
-I'll trade you
+have it.<Delay 20> I'll
+trade with you
 for my ring."<Close><End of Block>
 <TextBlock 14 w:28 h:2>
   Received a

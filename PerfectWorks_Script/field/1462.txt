@@ -1,8 +1,8 @@
 <TextBlock 1 w:54 h:4>
 Fei
-"A Chu-Chu idol...<Delay 20>
+"A Mambo idol...<Delay 20>
 Is this a representation of
-<Chu-Chu>'s guardian god?<New>
+<Chu-Chu>'s guardian deity?<New>
 Do you think...this grows
 giant and it's what
 <Chu-Chu> rides so she
@@ -35,7 +35,7 @@ Received HP Drive!
 Received EP Drive!<Close><End of Block>
 <TextBlock 6 w:38 h:2>
 Accidently received
-Chu-Chu Idol!!<Close><End of Block>
+Mambo Idol!!<Close><End of Block>
 <TextBlock 7 w:54 h:3>
 'I don't care how it all
 began nor do I care what

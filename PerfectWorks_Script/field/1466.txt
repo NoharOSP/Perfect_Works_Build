@@ -182,9 +182,9 @@ hand...is...<Close><End of Block>
 The mythical RPS Badge!!<Close><End of Block>
 <TextBlock 28 w:50 h:1>
 The legendary H&S Badge!!<Close><End of Block>
-<TextBlock 29 w:50 h:2>
-The Tag Badge even the
-maniacs are crazy about!!<Close><End of Block>
+<TextBlock 29 w:48 h:2>
+The Tag Badge that even
+enthusiasts drool over!!<Close><End of Block>
 <TextBlock 30 w:52 h:4>
 This is a complete badge
 set of...a gamer!?<Delay 20>

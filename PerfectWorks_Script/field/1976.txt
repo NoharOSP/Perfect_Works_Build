@@ -1,7 +1,7 @@
 <TextBlock 1 w:50 h:4>
 Fei
 "This is...that strange
-old grandpa Chu-chu's
+old grandpa <Chu-Chu>'s
 precious treasure...<New>
 I wonder what happened to
 him when Shevat crashed
@@ -20,34 +20,34 @@ we're grave robbers
 or anything!<Delay 20>
 Right!?<New>
 So don't hex us,
-or haunt us, OK!<Delay 20>
+or haunt us, okay!?<Delay 20>
 Please...we're
 begging you."<Close><End of Block>
 <TextBlock 3 w:22 h:3>
 Fei
 "Huh!<Delay 20>
 This is..."<Close><End of Block>
-<TextBlock 4 w:52 h:1>
-The mythical 'RPS Badge'!!<Close><End of Block>
-<TextBlock 5 w:54 h:1>
-The 'H&S Badge' of legend!!<Close><End of Block>
-<TextBlock 6 w:52 h:2>
-The 'Tag Badge' that even
-collectors go crazy over!!<Close><End of Block>
-<TextBlock 7 w:54 h:4>
+<TextBlock 4 w:48 h:1>
+The mythical RPS Badge!!<Close><End of Block>
+<TextBlock 5 w:50 h:1>
+The legendary H&S Badge!!<Close><End of Block>
+<TextBlock 6 w:48 h:2>
+The Tag Badge that even
+enthusiasts drool over!!<Close><End of Block>
+<TextBlock 7 w:52 h:4>
 Fei
-"I bet that old Chu-chu guy
+"That old <Chu-Chu> guy
 must have been so happy...<New>
-It was displayed
+They were displayed
 so nicely here...<Delay 20>
 I can't take
-this from him."<Close><End of Block>
-<TextBlock 8 w:46 h:4>
+these from him."<Close><End of Block>
+<TextBlock 8 w:44 h:4>
 Fei
-"I bet that old Chu-chu
+"That old <Chu-Chu>
 guy must have been so
 very happy...<New>
-It's polished,
+They're polished,
 so shiny...<Delay 20>
 and displayed so
 nicely here..."<Close><End of Block>
@@ -64,7 +64,7 @@ to this world."<Close><End of Block>
 Fei
 "This isn't the time
 to be looking at
-such things as this."<Close><End of Block>
+things such as this."<Close><End of Block>
 <TextBlock 11 w:46 h:3>
 Do you want to go down?<Delay 10>
     Yes
@@ -87,6 +87,6 @@ Yamato Belt!!<Close><End of Block>
 <TextBlock 17 w:28 h:2>
  Received a
 WizardryRing!!<Close><End of Block>
-<TextBlock 18 w:48 h:2>
-Fei gently put the badge
-back where he found it.<Close><Close><End of Block>
+<TextBlock 18 w:50 h:2>
+Fei gently put the badges
+back where he found them.<Close><Close><End of Block>

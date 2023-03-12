@@ -42,9 +42,9 @@ Emeralda
 <TextBlock 11 w:16 h:2>
 Emeralda
 "..."<Close><End of Block>
-<TextBlock 12 w:44 h:2>
-Chu-chu
-"Why won'tchu open..."<Close><End of Block>
+<TextBlock 12 w:46 h:2>
+<Chu-Chu>
+"Why won'tchu open...?"<Close><End of Block>
 <TextBlock 13 w:38 h:3>
 Maria
 "It won't open.<Delay 20>
