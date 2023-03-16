@@ -11,73 +11,13 @@
 HINSTANCE hInst;                                // current instance
 WCHAR szTitle[MAX_LOADSTRING];                  // The title bar text
 WCHAR szWindowClass[MAX_LOADSTRING];            // the main window class name
-int discNum;
-int winX = 640;
-int winY = 380;
-bool pathFound1 = false;
-bool pathFound2 = false;
-bool p_encounters = false;
-bool p_exp_gold = false;
-bool p_fastold = false;
-bool p_fastnew = false;
-bool p_items_spells = false;
-bool p_monsters = false;
-bool p_script = false;
-bool p_stats = false;
-bool patchPathValid = false;
-std::string home = "";
-std::string path1 = "";
-std::string path2 = "";
-std::string patchPath = "\patches";
-std::string encountersName1 = "";
-std::string encountersName2 = "";
-std::string expgoldName1 = "";
-std::string expgoldName2 = "";
-std::string fastName1 = "";
-std::string fastName2 = "";
-std::string itemspellsName1 = "";
-std::string itemspellsName2 = "";
-std::string monsterName1 = "";
-std::string monsterName2 = "";
-std::string scriptName1 = "";
-std::string scriptName2 = "";
-std::string statName1 = "";
-std::string statName2 = "";
-std::vector<HWND> windList;
-std::vector<std::string> patchList1;
-std::vector<std::string> patchList2;
-HWND cd1path;
-HWND cd2path;
-HWND browsebutton1;
-HWND browsebutton2;
-HWND aboutbutton;
-HWND patchbutton;
-HWND encounters;
-HWND fasttext;
-HWND expgold;
-HWND itemspells;
-HWND monsters;
-HWND stats;
-HWND script;
-RECT rcWindow;
-TOOLINFO toolInfo;
 
 // Forward declarations of functions included in this code module:
 ATOM                MyRegisterClass(HINSTANCE hInstance);
 BOOL                InitInstance(HINSTANCE, int);
 LRESULT CALLBACK    WndProc(HWND, UINT, WPARAM, LPARAM);
 INT_PTR CALLBACK    About(HWND, UINT, WPARAM, LPARAM);
-void initialiseButtonList();
-void initialisePatchLists();
-void checkboxLock();
-void patchBoxLock();
-void relock();
-void reinitialisePatches();
-void clearText();
-void initialiseWindows(HWND hWnd);
-void tooltipTextMaker(HWND hWnd);
-HWND CreateToolTip(HWND hParent, HWND hText, HINSTANCE hInst, PTSTR pszText);
-HWND toolGenerator(char* text, HWND hWnd, HWND hText);
+
 
 int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 	_In_opt_ HINSTANCE hPrevInstance,
@@ -111,6 +51,8 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 		{
 			TranslateMessage(&msg);
 			DispatchMessage(&msg);
+			drawGlobalText();
+			drawGUIText();
 		}
 	}
 
@@ -169,6 +111,14 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 		return FALSE;
 	}
 
+	rc = { 0, 0, 0, 0 };
+	StartCommonControls(ICC_TAB_CLASSES);
+	tc = CreateTabController(hWnd, hInst, TCS_FIXEDWIDTH, rc, IDC_TAB);
+	SetWindowLongPtr(hWnd, GWLP_USERDATA, reinterpret_cast<LONG_PTR>(tc));
+	InsertTab(tc, _T("General"), 0, 0, TCIF_TEXT | TCIF_IMAGE);
+	InsertTab(tc, _T("Modes"), 1, 1, TCIF_TEXT | TCIF_IMAGE);
+	SendMessage(tc, WM_SETFONT, reinterpret_cast<WPARAM>(GetStockObject(DEFAULT_GUI_FONT)), 0);
+	tabNo = 1;
 	ShowWindow(hWnd, nCmdShow);
 	UpdateWindow(hWnd);
 
@@ -193,16 +143,18 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	case WM_CREATE:
 	{
 		home = std::filesystem::current_path().string();
-		initialiseWindows(hWnd);
-		initialiseButtonList();
-		for (int i = 0; i < windList.size(); i++) {
-			SendMessage(windList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
-		}
-		checkboxLock();
-		patchBoxLock();
-		tooltipTextMaker(hWnd);
+		initialiseGlobalWindows(hWnd);
+		initialiseGlobalButtonList();
+		initialiseGlobalFont();
+		generalButtonCustomiser(hWnd);
 		break;
 	}
+	case WM_SIZE:
+	{
+		HWND tc = reinterpret_cast<HWND>(static_cast<LONG_PTR>(GetWindowLongPtr(hWnd, GWLP_USERDATA)));
+		MoveWindow(tc, 2, 2, LOWORD(lParam) - 4, LOWORD(lParam) - 4, TRUE);
+	}
+
 	case WM_COMMAND:
 	{
 		int wmId = LOWORD(wParam);
@@ -314,15 +266,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			else {
 				p_stats = false;
 			}
-<<<<<<< Updated upstream
-=======
-			LRESULT arenaticked = SendMessage(arena, BM_GETCHECK, NULL, NULL);
-			if (arenaticked == BST_CHECKED) {
-				p_arena = true;
-			}
-			else {
-				p_arena = false;
-			}
 			LRESULT allticked = SendMessage(all, BM_GETCHECK, NULL, NULL);
 			if (allticked == BST_CHECKED) {
 				p_script = true;
@@ -332,7 +275,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				p_items_spells = true;
 				p_monsters = true;
 				p_stats = true;
-				p_arena = true;
 			}
 			LRESULT easyticked = SendMessage(easy, BM_GETCHECK, NULL, NULL);
 			if (easyticked == BST_CHECKED) {
@@ -344,9 +286,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				p_items_spells = true;
 				p_monsters = true;
 				p_stats = true;
-				p_arena = true;
 			}
->>>>>>> Stashed changes
 			patchBoxLock();
 		}
 		    break;
@@ -544,27 +484,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						p_stats = false;
 					}
 				}
-				if (p_arena) {
-					if (pathFound1) {
-						if (!pc1.arenaCheck(path1)) {
-							arenaName1 = "PWA1.ppf";
-						}
-						else {
-							MessageBox(hWnd, L"The arena patch has already been applied.", L"Error", MB_ICONASTERISK);
-						}
-					}
-					if (pathFound2) {
-						if (!pc2.arenaCheck(path2)) {
-							arenaName2 = "PWA2.ppf";
-						}
-						else {
-							MessageBox(hWnd, L"The arena patch has already been applied.", L"Error", MB_ICONASTERISK);
-						}
-					}
-				}
 				initialisePatchLists();
 				SetWindowText(hWnd, L"Patching...");
-				SetCursor(LoadCursor(NULL, IDC_WAIT));
 				if (pathFound1) {
 					for (int i = 0; i < patchList1.size(); i++) {
 						if (patchList1[i] != "") {
@@ -581,14 +502,14 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 					}
 				}
-				if (p_stats || p_exp_gold || p_monsters || p_encounters || p_fastnew) {
+				if (p_stats || p_exp_gold || p_monsters || p_encounters) {
 					if (p_script || p_items_spells) {
 						SetWindowText(hWnd, L"Finishing...");
 						if (pathFound1) {
-							writeFile wf1(hWnd, home, path1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew);
+							writeFile wf1(hWnd, home, path1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters);
 						}
 						if (pathFound2) {
-							writeFile wf2(hWnd, home, path2, 2, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew);
+							writeFile wf2(hWnd, home, path2, 2, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters);
 						}
 					}
 				}
@@ -619,44 +540,13 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	case WM_PAINT:
 	{
 		PAINTSTRUCT ps;
-		HDC hdc = BeginPaint(hWnd, &ps);
+		hdc = BeginPaint(hWnd, &ps);
 		HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
 		SetBkMode(hdc, TRANSPARENT);
 		// TODO: Add any drawing code that uses hdc here...
 		SelectObject(hdc, hFont);
-		FillRect(hdc, &ps.rcPaint, (HBRUSH)(COLOR_WINDOW));
+		FillRect(hdc, &ps.rcPaint, (HBRUSH)(COLOR_WINDOW + 1));
 		GetClientRect(hWnd, &rcWindow);
-		RECT rc1, rc2;
-		rc1, rc2 = rcWindow;
-		rc1.top = winY / 50;
-		rc1.left = winX / 50;
-		rc1.right = winX - (rc1.left * 1.5);
-		rc1.bottom = winY * 0.35;
-		rc2.top = winY * 0.375;
-		rc2.left = rc1.left;
-		rc2.right = rc1.right;
-		rc2.bottom = winY * 0.79;
-		Rectangle(hdc, rc1.left, rc1.top, rc1.right, rc1.bottom);
-		Rectangle(hdc, rc2.left, rc2.top, rc2.right, rc2.bottom);
-		FillRect(hdc, &rc1, (HBRUSH)(COLOR_WINDOW));
-		FillRect(hdc, &rc2, (HBRUSH)(COLOR_WINDOW));
-		FrameRect(hdc, &rc1, CreateSolidBrush(RGB(220, 220, 220)));
-		FrameRect(hdc, &rc2, CreateSolidBrush(RGB(220, 220, 220)));
-		TCHAR cd1text[256];
-		swprintf_s(cd1text, 256, L"CD1 File:");
-		TextOut(hdc, winX * 0.0325, winY * 0.06, cd1text, wcslen(cd1text));
-		TCHAR cd2text[256];
-		swprintf_s(cd2text, 256, L"CD2 File:");
-		TextOut(hdc, winX * 0.0325, winY * 0.16, cd2text, wcslen(cd2text));
-		TCHAR qoltext[256];
-		swprintf_s(qoltext, 256, L"QoL:");
-		TextOut(hdc, winX * 0.0325, winY * 0.4, qoltext, wcslen(qoltext));
-		TCHAR balancetext[256];
-		swprintf_s(balancetext, 256, L"Balance:");
-		TextOut(hdc, winX * 0.35, winY * 0.4, balancetext, wcslen(balancetext));
-		TCHAR storytext[256];
-		swprintf_s(storytext, 256, L"Story:");
-		TextOut(hdc, winX * 0.75, winY * 0.4, storytext, wcslen(storytext));
 		EndPaint(hWnd, &ps);
 	}
 	    break;
@@ -674,8 +564,38 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	}
 	break;
 	case WM_DESTROY:
+		DestroyTabs(hWnd);
 		PostQuitMessage(0);
 		break;
+	case WM_NOTIFY:
+		if (((LPNMHDR)lParam)->code == TCN_SELCHANGE)
+		{
+			int tabID = TabCtrl_GetCurSel(tc);
+			switch (tabID)
+			{
+			case 0:
+				removeMiscButtons();
+				generalButtonCustomiser(hWnd);
+				tabNo = 1;
+				break;
+			case 1:
+				removeGeneralButtons();
+				miscButtonCustomiser(hWnd);
+				tabNo = 2;
+				break;
+			default:
+				break;
+			}
+		}
+	case WM_CTLCOLORSTATIC:
+		if (std::find(generalWindList.begin(), generalWindList.end(), (HWND)lParam) != generalWindList.end()) {
+			return (LONG)GetStockObject(WHITE_BRUSH);
+		}
+		if (std::find(miscWindList.begin(), miscWindList.end(), (HWND)lParam) != miscWindList.end()) {
+			return (LONG)GetStockObject(WHITE_BRUSH);
+		}
+		break;
+	
 	default:
 		return DefWindowProc(hWnd, message, wParam, lParam);
 	}
@@ -702,22 +622,6 @@ INT_PTR CALLBACK About(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 	return (INT_PTR)FALSE;
 }
 
-<<<<<<< Updated upstream
-void initialiseButtonList() {
-	windList.emplace_back(cd1path);
-	windList.emplace_back(cd2path);
-	windList.emplace_back(browsebutton1);
-	windList.emplace_back(browsebutton2);
-	windList.emplace_back(aboutbutton);
-	windList.emplace_back(patchbutton);
-	windList.emplace_back(encounters);
-	windList.emplace_back(fasttext);
-	windList.emplace_back(expgold);
-	windList.emplace_back(itemspells);
-	windList.emplace_back(monsters);
-	windList.emplace_back(stats);
-	windList.emplace_back(script);
-=======
 void initialiseGlobalButtonList() {
 	globalWindList.emplace_back(cd1path);
 	globalWindList.emplace_back(cd2path);
@@ -730,7 +634,6 @@ void initialiseGlobalButtonList() {
 void initialiseGeneralButtonList() {
 	generalWindList.emplace_back(encounters);
 	generalWindList.emplace_back(fasttext);
-	generalWindList.emplace_back(arena);
 	generalWindList.emplace_back(expgold);
 	generalWindList.emplace_back(itemspells);
 	generalWindList.emplace_back(monsters);
@@ -742,7 +645,6 @@ void initialiseMiscButtonList() {
 	miscWindList.emplace_back(all);
 	miscWindList.emplace_back(easy);
 	miscWindList.emplace_back(hard);
->>>>>>> Stashed changes
 }
 
 void initialisePatchLists() {
@@ -750,8 +652,6 @@ void initialisePatchLists() {
 	patchList2.emplace_back(encountersName2);
 	patchList1.emplace_back(fastName1);
 	patchList2.emplace_back(fastName2);
-	patchList1.emplace_back(arenaName1);
-	patchList2.emplace_back(arenaName2);
 	patchList1.emplace_back(expgoldName1);
 	patchList2.emplace_back(expgoldName2);
 	patchList1.emplace_back(itemspellsName1);
@@ -771,19 +671,33 @@ void checkboxLock() {
 	}
 	else {
 		found = FALSE;
-		for (int i = 6; i < windList.size(); i++) {
-			LRESULT untick = SendMessage(windList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
+		for (int i = 0; i < generalWindList.size(); i++) {
+			LRESULT untick = SendMessage(generalWindList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
+		}
+		for (int i = 0; i < miscWindList.size(); i++) {
+			LRESULT untick = SendMessage(miscWindList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
 		}
 	}
-	for (int i = 6; i < windList.size(); i++) {
-		EnableWindow(windList[i], found);
+	for (int i = 0; i < generalWindList.size(); i++) {
+		EnableWindow(generalWindList[i], found);
+	}
+	for (int i = 0; i < miscWindList.size(); i++) {
+		EnableWindow(miscWindList[i], found);
 	}
 }
 
 void patchBoxLock() {
 	bool checkfound = false;
-	for (int i = 6; i < windList.size(); i++) {
-		LRESULT boxticked = SendMessage(windList[i], BM_GETCHECK, NULL, NULL);
+	for (int i = 0; i < generalWindList.size(); i++) {
+		LRESULT boxticked = SendMessage(generalWindList[i], BM_GETCHECK, NULL, NULL);
+		if (boxticked == BST_CHECKED) {
+			checkfound = true;
+			EnableWindow(patchbutton, TRUE);
+			break;
+		}
+	}
+	for (int i = 0; i < miscWindList.size(); i++) {
+		LRESULT boxticked = SendMessage(miscWindList[i], BM_GETCHECK, NULL, NULL);
 		if (boxticked == BST_CHECKED) {
 			checkfound = true;
 			EnableWindow(patchbutton, TRUE);
@@ -867,21 +781,20 @@ HWND toolGenerator(char* text, HWND hWnd, HWND hText) {
 	return hWndTT;
 }
 
-void initialiseWindows(HWND hWnd) {
-	cd1path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.05), 400, 25, hWnd, NULL, hInst, NULL);
-	cd2path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.15), 400, 25, hWnd, NULL, hInst, NULL);
-	browsebutton1 = CreateWindow(L"BUTTON", L"Browse", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.838), (int)(winY * 0.05), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
-	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.838), (int)(winY * 0.15), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
-	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.861), (int)(winY * 0.815), 70, 25, hWnd, (HMENU)104, hInst, NULL);
-	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.838), (int)(winY * 0.25), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
+void initialiseGeneralWindows(HWND hWnd) {
 	encounters = CreateWindow(L"BUTTON", L"Half encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	arena = CreateWindow(L"BUTTON", L"Rebalanced battle arena", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.45), 175, 25, hWnd, (HMENU)9002, hInst, NULL);
-	expgold = CreateWindow(L"BUTTON", L"Double exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items and spells", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.61), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
-	monsters = CreateWindow(L"BUTTON", L"Rebalanced monsters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.69), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
-	stats = CreateWindow(L"BUTTON", L"Rebalanced party stats", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.77), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
+	expgold = CreateWindow(L"BUTTON", L"Double exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items and spells", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.53), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
+	monsters = CreateWindow(L"BUTTON", L"Rebalanced monsters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.61), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
+	stats = CreateWindow(L"BUTTON", L"Rebalanced party stats", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.69), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
 	script = CreateWindow(L"BUTTON", L"Retranslated script", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.75), (int)(winY * 0.45), 115, 25, hWnd, (HMENU)9002, hInst, NULL);
+}
+
+void initialiseMiscWindows(HWND hWnd) {
+	all = CreateWindow(L"BUTTON", L"All patches", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	easy = CreateWindow(L"BUTTON", L"Easy mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	hard = CreateWindow(L"BUTTON", L"Hard mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.53), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
 void tooltipTextMaker(HWND hWnd) {
@@ -892,13 +805,14 @@ void tooltipTextMaker(HWND hWnd) {
 		"on encounter drops.";
 	HWND tt_encounters = toolGenerator(text_encounters, hWnd, encounters);
 	char text_fast[] =
-		"Text scrolls instantly.";
+		"Text scrolls instantly.\n"
+		"WARNING!! This has a history of crashing\n"
+		"scripted scenes. Use at your own risk.";
 	HWND tt_fast = toolGenerator(text_fast, hWnd, fasttext);
 	char text_expgold[] =
-		"Increases rewards from battle by 50%.\n"
-		"This is recommended with the half encounter\n"
-		"patch to keep a consistent level curve with\n"
-		"the game.";
+		"Doubles rewards from battle. This is\n"
+		"recommended with the half encounter patch\n"
+		"to keep a consistent level curve with the game.";
 	HWND tt_expgold = toolGenerator(text_expgold, hWnd, expgold);
 	char text_itemspells[] =
 		"Spells changed to rebalance the party as well\n"
@@ -924,14 +838,6 @@ void tooltipTextMaker(HWND hWnd) {
 		"in important scenes.\n"
 		"This process may take a while.";
 	HWND tt_script = toolGenerator(text_script, hWnd, script);
-<<<<<<< Updated upstream
-}
-=======
-	char text_arena[] =
-		"Rebalances the gears in the arena. Please\n"
-		"refer to the interactive tutorial for\n"
-		"instructions.";
-	HWND tt_arena = toolGenerator(text_arena, hWnd, arena);
 	char text_all[] =
 		"Selects all patches.";
 	HWND tt_all = toolGenerator(text_all, hWnd, all);
@@ -1030,7 +936,6 @@ void miscButtonCustomiser(HWND hWnd) {
 void removeGeneralButtons() {
 	ShowWindow(encounters, SW_HIDE);
 	ShowWindow(fasttext, SW_HIDE);
-	ShowWindow(arena, SW_HIDE);
 	ShowWindow(expgold, SW_HIDE);
 	ShowWindow(itemspells, SW_HIDE);
 	ShowWindow(monsters, SW_HIDE);
@@ -1078,59 +983,3 @@ void drawGlobalText() {
 	ReleaseDC(tc, hdc);
 }
 
-BOOL ParseALargeFile(HWND hWnd, LPTSTR lpszFileName)
-{
-	RECT rcClient;  
-	int cyVScroll;  
-	HWND hwndPB;    
-	HANDLE hFile;   
-	DWORD cb;       
-	LPCH pch;       
-	LPCH pchTmp;    
-
-
-	InitCommonControls();
-
-	GetClientRect(hWnd, &rcClient);
-
-	cyVScroll = GetSystemMetrics(SM_CYVSCROLL);
-
-	hwndPB = CreateWindowEx(0, PROGRESS_CLASS, (LPTSTR)NULL,
-		WS_CHILD | WS_VISIBLE, rcClient.left,
-		rcClient.bottom - cyVScroll,
-		rcClient.right, cyVScroll,
-		hWnd, (HMENU)0, hInst, NULL);
-
-	hFile = CreateFile(lpszFileName, GENERIC_READ, FILE_SHARE_READ,
-		(LPSECURITY_ATTRIBUTES)NULL, OPEN_EXISTING,
-		FILE_ATTRIBUTE_NORMAL, (HANDLE)NULL);
-
-	if (hFile == (HANDLE)INVALID_HANDLE_VALUE)
-		return FALSE;
-
-	cb = GetFileSize(hFile, (LPDWORD)NULL);
-
-	SendMessage(hwndPB, PBM_SETRANGE, 0, MAKELPARAM(0, cb / 2048));
-
-	SendMessage(hwndPB, PBM_SETSTEP, (WPARAM)1, 0);
-
-	pch = (LPCH)LocalAlloc(LPTR, sizeof(char) * 2048);
-
-	pchTmp = pch;
-
-	do {
-		ReadFile(hFile, pchTmp, sizeof(char) * 2048, &cb, (LPOVERLAPPED)NULL);
-
-		SendMessage(hwndPB, PBM_STEPIT, 0, 0);
-
-	} while (cb);
-
-	CloseHandle((HANDLE)hFile);
-
-	DestroyWindow(hwndPB);
-
-	return TRUE;
-}
-
-
->>>>>>> Stashed changes
