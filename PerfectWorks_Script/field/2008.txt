@@ -33,7 +33,7 @@ sword!<New>
 Use this sword and
 make Deus and his
 legions pay!<Close><End of Block>
-<TextBlock 5 w:56 h:1>
-'Kishin' sword was enhanced!<Close><End of Block>
-<TextBlock 6 w:46 h:1>
-Received 'Kijin' sword!<Close><Close><End of Block>
+<TextBlock 5 w:52 h:1>
+Kishin Sword was enhanced!<Close><End of Block>
+<TextBlock 6 w:42 h:1>
+Received Kijin Sword!<Close><Close><End of Block>

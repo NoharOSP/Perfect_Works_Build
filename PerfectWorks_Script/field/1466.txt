@@ -280,12 +280,12 @@ someday...yes, I do.<Close><End of Block>
 You're very straight-
 forward. I like it.<Delay 20>
 I'll give you this.<Close><End of Block>
-<TextBlock 47 w:36 h:1>
-Received Aquasol S<Close><End of Block>
-<TextBlock 48 w:36 h:1>
-Received Aquasol S<Close><End of Block>
-<TextBlock 49 w:38 h:1>
-Received Aquasol DX<Close><End of Block>
+<TextBlock 47 w:38 h:1>
+Received Aquasol S!<Close><End of Block>
+<TextBlock 48 w:38 h:1>
+Received Aquasol S!<Close><End of Block>
+<TextBlock 49 w:40 h:1>
+Received Aquasol DX!<Close><End of Block>
 <TextBlock 50 w:50 h:4>
 Wha?<Delay 20> That's strange.
 You smell like soil and

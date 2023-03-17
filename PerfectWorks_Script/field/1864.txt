@@ -7,14 +7,14 @@ Fei
 <TextBlock 3 w:42 h:4>
 Fei
 (It appears that some
-kind of 'fuse'-like
+kind of fuse-like
 device has blown.)<Close><End of Block>
 <TextBlock 4 w:44 h:2>
 Fei
 (Nothing conspicuous.)<Close><End of Block>
 <TextBlock 5 w:40 h:3>
 Fei
-(Found a 'fuse'-like
+(Found a fuse-like
 device part.)<Close><End of Block>
 <TextBlock 6 w:42 h:3>
 Fei

@@ -35,15 +35,15 @@ Village Jumping Tournament!<Close><End of Block>
 Found a bird's nest!!<Close><End of Block>
 <TextBlock 8 w:42 h:3>
 Take the egg?
-    Of course!!
+<Opcode 1 255>    Of course!!
     No, that's cruel!<Close><End of Block>
 <TextBlock 9 w:42 h:2>
 <Opcode 1 255>Received a nutritious
-    'Bird Egg'!!<Opcode 2 90><Close><End of Block>
+     Bird Egg!!<Opcode 2 90><Close><End of Block>
 <TextBlock 10 w:52 h:4>
-<Opcode 1 255>Cheep, cheep!!!
+<Opcode 1 255>*Cheep, cheep*!!!
 (Return the egg!!)
-    Okay, I give it back!!
+<Opcode 1 255>    Okay, I give it back!!
     No way, never!!<Close><End of Block>
 <TextBlock 11 w:28 h:4>
 Fei
@@ -51,12 +51,12 @@ Fei
 Sorry, I'll
 give it back!"<Close><End of Block>
 <TextBlock 12 w:50 h:2>
-Cheep, cheep, cheep!
+*Cheep, cheep, cheep!*
 (Good! You got the hint!)<Close><End of Block>
 <TextBlock 13 w:14 h:1>
 No way!<Close><End of Block>
-<TextBlock 14 w:36 h:1>
-<Opcode 1 255>Caught a 'Spider'!<Opcode 2 60><Close><End of Block>
+<TextBlock 14 w:32 h:1>
+<Opcode 1 255>Caught a Spider!<Opcode 2 60><Close><End of Block>
 <TextBlock 15 w:56 h:4>
 <Opcode 1 255><U> This way: Walking course.
   Watch out for the cliffs!!
