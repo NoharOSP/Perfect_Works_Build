@@ -2,15 +2,15 @@
 Fei
 "Isn't there another way to
 go down to the hangar?"<Close><End of Block>
-<TextBlock 2 w:48 h:4>
+<TextBlock 2 w:50 h:4>
 Fei
-"I don't care.<Delay 20>
-We can't waste time here
-anyway."<Close><End of Block>
+"It doesn't matter.<Delay 20>
+It's not like we can just
+hang around here, right?"<Close><End of Block>
 <TextBlock 3 w:32 h:3>
 Fei
-"Fine!<Delay 20>
-Then, let's go!"<Close><End of Block>
+"Nice!<Delay 20>
+Okay, let's go!"<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Citan
 "You are right.<Delay 20>
@@ -20,14 +20,16 @@ is going to wait for us."<Close><End of Block>
 Elly
 "You're right.<Delay 20>
 They won't wait for us."<Close><End of Block>
-<TextBlock 6 w:48 h:3>
+<TextBlock 6 w:48 h:4>
 Bart
 "That's right!<Delay 20>
-They won't wait for us."<Close><End of Block>
+Those guys are not going
+to wait for us."<Close><End of Block>
 <TextBlock 7 w:48 h:3>
 Rico
 "That's right.<Delay 20>
-They won't wait for us."<Close><End of Block>
+Those guys are not going
+to wait for us."<Close><End of Block>
 <TextBlock 8 w:48 h:3>
 Billy
 "That's right.<Delay 20>
@@ -57,7 +59,7 @@ But it's not normally
 used..."<Close><End of Block>
 <TextBlock 13 w:50 h:4>
 Maria
-"I see.<Delay 20>
+"Understood.<Delay 20>
 The entrance to the shaft
 is just above here."<Close><End of Block>
 <TextBlock 14 w:52 h:4>

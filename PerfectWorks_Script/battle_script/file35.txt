@@ -1,12 +1,12 @@
 <TextBlock 1 w:40 h:4>
 Achtzehn
-"For a low-class,
-low level life-form,
-you're pretty good."<Close><End of Block>
+"Not bad for
+a low-class,
+inferior animal."<Close><End of Block>
 <TextBlock 2 w:36 h:3>
 Achtzehn
 "Die, you pathetic
-animal! Die!"<Close><End of Block>
+creature! Die!"<Close><End of Block>
 <TextBlock 3 w:36 h:4>
 <Chu-Chu>
 "Kyow! I did it!<Delay 90>
@@ -20,8 +20,8 @@ churansformation!"<Close><End of Block>
 "Ouchu! That hurt..."<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 <Chu-Chu>
-"I'm not a low
-level life-form.
+"I'm not an
+inferior animal.
 I'm <Chu-Chu>.<New>
 Don't be a bad loser!
 If you wanchu apologize,

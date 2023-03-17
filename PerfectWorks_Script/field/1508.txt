@@ -292,9 +292,9 @@ don't hesitate to ask.<Close><End of Block>
 <TextBlock 30 w:36 h:2>
 Alright, then what
 shall it be?<Close><End of Block>
-<TextBlock 31 w:32 h:4>
-    Items
-    Weapon/Armor
+<TextBlock 31 w:34 h:4>
+<Opcode 1 255>    Items
+    Weapons/armor
     Gear parts
     Never mind<Close><End of Block>
 <TextBlock 32 w:46 h:4>

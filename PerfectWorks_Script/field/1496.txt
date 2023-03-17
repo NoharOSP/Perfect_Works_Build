@@ -1,8 +1,8 @@
 <TextBlock 1 w:50 h:4>
 Maria
-"You can use the map you
-found earlier on this
-floor.<New>
+"On this floor, you can 
+use the map you found
+earlier.<New>
 It's always good to have
 a map to look at when you
 lose your way, right!?"<Close><End of Block>

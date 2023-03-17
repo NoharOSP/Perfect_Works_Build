@@ -1,31 +1,31 @@
 <TextBlock 1 w:52 h:4>
 Nikola
-"I see...<Delay 20> You're a giant
-primitive lifeform of this
-planet...<New>
-You're not...<Delay 20>a young
-rankar.<New>
-Species name,
-dotesque<Chu-Chu>polin
-(intellect, astronomically
-low)!<New>
-They still haven't gone
-extinct yet?<New>
-But, through genetic
-engineering, they're
-supposed to have been
-minimized in size...<New>
-Probably one of the
+"I see...<Delay 20>
+You're a giant primitive
+lifeform of this planet...<New>
+You're...<Delay 20>not a
+young rankar.<New>
+Species name:
+Dotesque-<Chu-Chu>-Polin
+(intellect:
+astronomically low!)<New>
+They still haven't
+gone extinct?<New>
+But they were supposed to
+have been miniaturized
+through genetic
+engineering...<New>
+You're one of the
 survivors that had their
 Limiters removed by the
-wisemen from Shevat.<New>
+sages of Shevat, eh?<New>
 Intriguing... You'd make
 an excellent guinea pig.
 I'll use you for many
 experiments!"<Close><End of Block>
-<TextBlock 2 w:28 h:3>
+<TextBlock 2 w:32 h:3>
 Maria
-"No <Chu-Chu>!<Delay 20>
+"No, <Chu-Chu>!<Delay 20>
 Don't!"<Close><End of Block>
 <TextBlock 3 w:54 h:4>
 Maria
@@ -85,17 +85,17 @@ be<Delay 10>..."<Close><End of Block>
 <TextBlock 8 w:10 h:2>
 Maria
 "..."<Close><End of Block>
-<TextBlock 9 w:28 h:2>
+<TextBlock 9 w:26 h:2>
 Maria
-"<Chu-Chu>!!"<Close><End of Block>
+"<Chu-Chu>!"<Close><End of Block>
 <TextBlock 10 w:20 h:2>
 Maria
 "Midori!?"<Close><End of Block>
-<TextBlock 11 w:52 h:4>
+<TextBlock 11 w:44 h:4>
 Maria
-"No, you shouldn't be
-here!!<Delay 20> It's dangerous here
-so stay in..."<Close><End of Block>
+"No! You shouldn't be
+here!!<Delay 20> It's dangerous,
+so stay in<-->"<Close><End of Block>
 <TextBlock 12 w:20 h:2>
 Maria
 "What...?"<Close><End of Block>
@@ -112,37 +112,35 @@ Maria
 Nikola
 "What's with this
 astronomically
-unintellectual...<New>
-looking low level
-animal...?"<Close><End of Block>
+unintellectual-<New>
+looking inferior
+lifeform...?"<Close><End of Block>
 <TextBlock 17 w:54 h:3>
 <Chu-Chu>
 "Leave it up chu me, Maria.<Delay 20>
 No sweat!"<Close><End of Block>
-<TextBlock 18 w:54 h:4>
+<TextBlock 18 w:52 h:4>
 <Chu-Chu>
 "Don't chu be rude to me.
-I'm not a low level animal.<Delay 20>
-I'm <Chu-Chu>."<Close><End of Block>
+I'm not an inferior
+lifeform.<Delay 20> I'm <Chu-Chu>."<Close><End of Block>
 <TextBlock 19 w:54 h:3>
 <Chu-Chu>
 "Well, let's get ready chu
 rumble, you bad boy!<New>
 Get your butt ready chu be
-kicked across the other end
-of the horizon!!"<Close><End of Block>
-<TextBlock 20 w:38 h:1>
-Big sister Maria...<Close><End of Block>
+kicked over the horizon!!"<Close><End of Block>
+<TextBlock 20 w:16 h:1>
+Maria...<Close><End of Block>
 <TextBlock 21 w:30 h:3>
 Midori
 "Calling...<Delay 20>
 Your father..."<Close><End of Block>
-<TextBlock 22 w:54 h:3>
+<TextBlock 22 w:40 h:4>
 Midori
-"Uh uh...<Delay 20>
-No...<New>
-It's not...<Delay 20>that scary thing
-over there."<Close><End of Block>
+"No...<Delay 20> Different...<Delay 20>
+Not...<Delay 20>that scary
+thing over there."<Close><End of Block>
 <TextBlock 23 w:52 h:3>
 Citan
 "Yes...<Delay 20>

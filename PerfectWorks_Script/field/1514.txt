@@ -1,84 +1,91 @@
-<TextBlock 1 w:46 h:4>
-Fei and the guys had
-Gaspar remove a part of
-the Limiter inserted in
-their genes.<Close><End of Block>
-<TextBlock 2 w:52 h:4>
-Yes yes, and then...<New>
-<Chu-Chu> and her friends
-got together and rejoiced
-over their safety...<New>
-It was natural for them
-to have a party,<Delay 20> and their
-sweet, dangerous night
-went on and on...<New>
-just like a
-never-ending dream...<Close><End of Block>
-<TextBlock 3 w:36 h:3>
-No, let's not...<Delay 20>
-It's a whole other
-story...<Close><End of Block>
-<TextBlock 4 w:54 h:3>
+<TextBlock 1 w:44 h:5>
+Fei and the others
+were taught how to use
+special new deathblow
+techniques by Gaspar,
+a sage of Shevat.<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+That's right. And then...<New>
+<Chu-Chu> reunited with
+her friends and rejoiced
+in mutual safety
+and nonchalance...<New>
+As was natural for them,
+a banquet was held,<Delay 20> and
+their sweet, dangerous
+night went on and on...<New>
+like a never-ending
+dream...<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+No, let's stop
+there...<Delay 20> It's a
+whole other story...<Close><End of Block>
+<TextBlock 4 w:52 h:3>
 <Chu-Chu>
-"Fei,<Delay 20> where are 
-you going chu without me?<New>
-<Chu-Chu> will go anywhere,
-even chu the end of the
-world<Delay 20> with you!<New>
+"Fei,<Delay 20> where are you
+going chu without me?<New>
+<Chu-Chu> will go
+anywhere, even chu
+the end of the
+world,<Delay 20> with you!<New>
 <Chu-Chu>'s maidenly pure
-heart is only<Delay 20> for you!
-Uh hmmm!"<Close><End of Block>
+heart is<Delay 20> for you only!
+Heeeeheehee!"<Close><End of Block>
 <TextBlock 5 w:44 h:2>
 Zephyr
 "Welcome back, Gaspar.<New>
-What about Balthasar,
-or Melchior...?"<Close><End of Block>
+What about Balthasar
+and Melchior...?"<Close><End of Block>
 <TextBlock 6 w:44 h:2>
 Zephyr
 "Just as I thought..."<Close><End of Block>
 <TextBlock 7 w:22 h:2>
 Zephyr
 "...Sorry."<Close><End of Block>
-<TextBlock 8 w:44 h:3>
+<TextBlock 8 w:30 h:4>
 Zephyr
-"She...was the same as
-Sophia?"<Close><End of Block>
-<TextBlock 9 w:50 h:4>
+"She...<Delay 20>
+Sophia was the
+same, too?"<Close><End of Block>
+<TextBlock 9 w:40 h:4>
 Wiseman
-"It's a matter of course.<New>
-But the girl doesn't 
+"It makes sense.<New>
+But the girl doesn't
 intend to ride it...
 Just like 'her'.<New>
-She knows it
-unconsciously. The
-existence within
-her..."<Close><End of Block>
+One knows it
+unconsciously...
+Knows the existence
+within oneself..."<Close><End of Block>
 <TextBlock 10 w:14 h:2>
 Wiseman
 "..."<Close><End of Block>
-<TextBlock 11 w:36 h:3>
+<TextBlock 11 w:32 h:4>
 Wiseman
-"No, I don't mind.
-I'm not 'him'."<Close><End of Block>
+"No, I don't
+mind.<Delay 10> I'm not
+exactly<Delay 10> 'him'."<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Gaspar
-"No, I haven't seen
-them ever since...<New>
-Besides, your Majesty...<New>
-I came here to watch
-over them so that they
-do not make the same
-foolish mistakes again."<Close><End of Block>
-<TextBlock 13 w:52 h:3>
+"No, there has been
+nothing since<Delay 20>...<New>
+But I am here,
+Your Majesty,<New>
+to monitor the situation
+so that past mistakes
+are not repeated."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
 Gaspar
 "Well then, I'll go take
-a look at their Limiters."<Close><End of Block>
-<TextBlock 14 w:52 h:3>
-Your Majesty, the Omnigear
-underground is moving!!<Delay 20><New>
+a look at their martial
+arts skills."<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Your Majesty,
+the Omnigear in the lower
+level s-<Delay 5>started up!!<Delay 20><New>
 The girl named Elly was
-nearby and it reacted to
-her!!<Close><End of Block>
+nearby and apparently
+it resonated!!<Close><End of Block>
 <TextBlock 15 w:0 h:1>
 <End of Block>
 <TextBlock 16 w:0 h:0>

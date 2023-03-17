@@ -13,19 +13,20 @@ Maria
 "No!"<Close><End of Block>
 <TextBlock 4 w:48 h:4>
 Maria
-"!?<Delay 60>
-<Delay 40>...<Delay 40>Siebzehn's trembling.<Delay 60>
+"!?<Delay 60> <Delay 40>...<Delay 40><Seibzehn> is
+trembling.<Delay 60>
 <Delay 40>...<Delay 40>Are you crying?<New>
 <Delay 40>...<Delay 40>Brainwashed by
-Solaris, my real
+Solaris... My real
 father is already<Delay 40>...<New>
-<Delay 40>...<Delay 40> Achtzehn is<Delay 40>...<Delay 90>
-Not my father!"<Close><End of Block>
-<TextBlock 5 w:42 h:4>
+<Delay 40>...<Delay 40>
+Achtzehn is<Delay 40>...<Delay 90>
+not my father!"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
 Maria
 "<Delay 40>...<Delay 40>Achtzehn!
 I will defeat you!!<Delay 60>
-Siebzehn, let's go!!"<Close><End of Block>
+<Seibzehn>, let's go!!"<Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Maria
 "!!<Delay 40> Father!<Delay 40>
@@ -34,20 +35,21 @@ to your senses!?<New>
 No!<Delay 5>
 I can't do it!!<New>
 The Graviton Cannon<Delay 5>...<Delay 5>
-you yourself had it
-sealed up because of
+You yourself had it
+sealed away because of
 its destructive power.<New>
-Father, if I use
-that on you<Delay 40>..."<Close><End of Block>
+If I use that,
+you'll be<Delay 40>..."<Close><End of Block>
 <TextBlock 7 w:40 h:4>
 Maria
 "...<Delay 30>I can't. 
 I can't bring
 myself to do it!!<New>
-Huh! Siebzehn!<Delay 30>
-Don't...<Delay 30> I can't
-control you!<Delay 30> Father,
-are you doing this!?<New>
+Huh? <Seibzehn>!<Delay 30>
+Stop...<Delay 30> I can't
+control you!<New>
+Father, are you
+doing this!?
 Please, don't make
 him shoot!!"<Close><End of Block>
 <TextBlock 8 w:44 h:2>
@@ -64,71 +66,72 @@ myself with Achtzehn
 through the M Project
 research in Solaris.<New>
 Observe the birth of the
-ultimate in reflexive
-speed by the unification
+ultimate in reflex speed
+via the unification
 of man and machine!<New>
 No normal Gear could
 ever hope to defeat
-this Achtzehn!"<Close><End of Block>
+Achtzehn here!"<Close><End of Block>
 <TextBlock 10 w:44 h:4>
 Achtzehn
-"Hmph. 'Horrid?'<Delay 40>
+"Hmph. 'Horrid'?<Delay 40>
 No, Maria.<Delay 40>
-It is 'glorious.'<New>
-Yes, yes. I shall also
-modify you and your
-Siebzehn to become one
-entity, just like me."<Close><End of Block>
+It is 'glorious'.<New>
+Yes, yes. I shall do
+the same for you and
+your <Seibzehn>, make
+you one entity."<Close><End of Block>
 <TextBlock 11 w:48 h:4>
 Achtzehn
 "Hah hah hah.<Delay 40> Rebelling?
 I see, you've already
 reached that age<Delay 40>...<New>
 Come now,<Delay 40> don't be so
-spoiled like that,<Delay 40>
-come<Delay 40>...<Delay 40> here.<New>
-Won't<Delay 40>... you listen
-to<Delay 40>... <Delay 40>YOUR FATHER!!
-COME HERE NOW!"<Close><End of Block>
+spoiled like that.<Delay 40>
+Come<Delay 40>...<Delay 40>here.<New>
+Won't you<Delay 40>...listen
+to<Delay 40>...<Delay 40>YOUR FATHER!?
+COME HERE, NOW!"<Close><End of Block>
 <TextBlock 12 w:52 h:4>
 Achtzehn
-"What are you saying<Delay 40>...<Delay 40>
-It's me<Delay 40>...<Delay 40>
-Your father<Delay 40>... Nikola..."<Close><End of Block>
+"What are you saying<Delay 40>...<Delay 40>?
+It's me<Delay 40>...<Delay 40> Your father<Delay 40>...
+Nikola..."<Close><End of Block>
 <TextBlock 13 w:40 h:4>
 Nikola
 "Maria...<Delay 40>
 can you hear me?<New>
 I'm going to release
-your Graviton Cannon
-from its seal by
-remote control!<New>
+the seal on your
+Graviton Cannon by
+remote control now.<New>
 Use that to
 defeat me."<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Nikola
-"Fire!!<Delay 10> It doesn't
-matter...<Delay 10> I,<Delay 5> Nikola,<Delay 5>
-no longer exist...<New>
+"It doesn't matter!<Delay 10>
+Fire!<Delay 10>
+Nikola<Delay 5> is no more...<New>
 Before I was brain-
 washed by Solaris, I
 implanted a conscience
 circuit in Achtzehn...<New>
 This would respond and
-activate in the presence
-of Siebzehn. My message
+activate in <Seibzehn>'s
+presence. My message
 is coming from there.<New>
 And, during the battle,
 my data was transferred 
 from Achtzehn to
-Siebzehn.<New>
-I may have lost my body,<Delay 10>
-but my spirit is with
-Siebzehn,<Delay 90> no,<Delay 10> with you,
-Maria.<Delay 40> Now and forever!"<Close><End of Block>
+<Seibzehn>.<New>
+Though my body is
+lost,<Delay 10> my spirit is
+with <Seibzehn>...<New>
+No,<Delay 10> with you, Maria.<Delay 40>
+Now and forever!"<Close><End of Block>
 <TextBlock 15 w:46 h:4>
 Nikola
-"Maria<Delay 40>...<Delay 40> We will always
-be with you.<Delay 40><New>
+"Maria<Delay 40>...<Delay 40> We will
+always be with you.<Delay 40><New>
 Claudia and I...
 Now and forever<Delay 40>...<Delay 40>"<Close><Close><Close><Close><End of Block>

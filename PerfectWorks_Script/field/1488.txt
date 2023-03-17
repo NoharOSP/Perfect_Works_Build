@@ -6,10 +6,10 @@ sally forth!!"<Opcode 2 50><Close><End of Block>
 Maria
 "<Seibzehn>,
 Let's go!!"<Opcode 2 50><Close><End of Block>
-<TextBlock 3 w:46 h:3>
-<Opcode 1 3>Hmph, it's you again...<Delay 20>
-You pests aren't making
-my job any easier.<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+<Opcode 1 3>Hmph, look who it
+is...<Delay 20> You again?
+That's all I need.<Close><End of Block>
 <TextBlock 4 w:28 h:3>
 <Opcode 1 2>Elly
 "Dominia...!<Delay 20>
@@ -17,15 +17,15 @@ Is that you!?"<Close><End of Block>
 <TextBlock 5 w:20 h:2>
 <Opcode 1 2>Fei
 "Dominia!"<Close><End of Block>
-<TextBlock 6 w:48 h:4>
+<TextBlock 6 w:32 h:4>
 <Opcode 1 2>Elly
 "Dominia!<Delay 20>
-I can't let you have the
-Gear!"<Close><End of Block>
-<TextBlock 7 w:50 h:3>
+I can't let you
+have the Gear!"<Close><End of Block>
+<TextBlock 7 w:32 h:3>
 <Opcode 1 2>Fei
-"I can't let you have the
-Gear!"<Close><End of Block>
+"I can't let you
+have the Gear!"<Close><End of Block>
 <TextBlock 8 w:36 h:3>
 <Opcode 1 2>Maria
 "...!?<Delay 20>
@@ -40,42 +40,40 @@ when you hear the story."<Close><End of Block>
 "I don't lie, Maria.<Delay 20>
 This is the truth.<New>
 Your splendid father
-succeeded in fusing man
-and machine.<New>
+succeeded in fusing
+man and machine.<New>
 And he opened the gates
 to hell for the Lambs."<Close><End of Block>
 <TextBlock 11 w:44 h:2>
 <Opcode 1 2>Don't you think you've
 said enough, Dominia?<Close><End of Block>
-<TextBlock 12 w:42 h:4>
+<TextBlock 12 w:42 h:3>
 <Opcode 1 2>Jessie
-"Why are women so 
-gossipy?<New>
-They jabber about
-things they shouldn't
-be talking about.
-Hopeless..."<Close><End of Block>
+"Why are women
+so gossipy?<New>
+Jabbering on and on
+about pointless things.
+I ask you..."<Close><End of Block>
 <TextBlock 13 w:20 h:2>
 Billy
-"D, dad!?"<Close><End of Block>
+"D-<Delay 5>Dad!?"<Close><End of Block>
 <TextBlock 14 w:42 h:4>
 Dominia
-"Jesiah!?<Delay 20>
-You...!?<New>
-What're you doing in
-Shevat!?<New>
+"Jesiah!?<Delay 20> You...!?<Delay 20>
+What're you doing
+in Shevat!?<New>
 At one point, weren't
-you considered to be
-the next Geburah
-commander in chief!?"<Close><End of Block>
-<TextBlock 15 w:38 h:4>
+you being considered
+for the next Geburah
+commander-in-chief!?"<Close><End of Block>
+<TextBlock 15 w:34 h:4>
 Fei
-"Hey Maria.<Delay 20>
-Don't mind what she
-told you..."<Close><End of Block>
+"Hey, Maria.<Delay 20>
+Never mind what
+she told you..."<Close><End of Block>
 <TextBlock 16 w:18 h:3>
 Fei
-"Wait!<Delay 20>
+"Stop!<Delay 20>
 Dominia!"<Close><End of Block>
 <TextBlock 17 w:28 h:3>
 Fei
@@ -90,7 +88,7 @@ intruder...!?"<Close><End of Block>
 "Undoubtedly, I am the
 daughter of Nikola,
 Maria Balthasar!<New>
-What about it...?"<Close><End of Block>
+What of it...?"<Close><End of Block>
 <TextBlock 20 w:48 h:4>
 <Opcode 1 2>Maria
 "That's a lie!!<Delay 20>
@@ -114,33 +112,33 @@ Maria
 "<Seibzehn>!!"<Close><End of Block>
 <TextBlock 26 w:40 h:4>
 Maria
-"I'm sorry,<Delay 20> 
+"I'm sorry
 I'm late...<New>
-Let's go!
+Let's go!<Delay 20>
 Solaris'...<Delay 60>
-Solaris'...<Delay 50> enemy is
-awaiting!!"<Close><End of Block>
+Solaris'...<Delay 50>
+The enemy awaits!!"<Close><End of Block>
 <TextBlock 27 w:46 h:4>
 Dominia
 "Never thought I'd come
 across <Seibzehn>
-in my place of escape."<Close><End of Block>
+ahead of my escape."<Close><End of Block>
 <TextBlock 28 w:34 h:3>
 Dominia
-"I'll take
+"I'll be taking
 <Seibzehn>.<New>
-Originally, this 
+Originally, this
 belonged to us,
 Solaris."<Close><End of Block>
-<TextBlock 29 w:46 h:4>
+<TextBlock 29 w:48 h:4>
 Dominia
 "Fool, not even knowing
-this Gear is the point
-of contact between us."<Close><End of Block>
-<TextBlock 30 w:36 h:3>
+the significance of this
+Gear to both you and I."<Close><End of Block>
+<TextBlock 30 w:30 h:3>
 Dominia
-"Heh, then try and
-stop me!"<Close><End of Block>
+"Heh, then try
+to stop me!"<Close><End of Block>
 <TextBlock 31 w:18 h:2>
 Dominia
 "Huh...?"<Opcode 2 20><Close><End of Block>
@@ -150,32 +148,33 @@ Dominia
 Hey, you...<Delay 20><New>
 Are you the daughter
 of Nikola...?"<Close><End of Block>
-<TextBlock 33 w:54 h:4>
+<TextBlock 33 w:48 h:4>
 Dominia
 "I see...<New>
-So you're his beloved
-daughter to whom he offered
-himself to undertake that 
-difficult task..."<Close><End of Block>
-<TextBlock 34 w:42 h:4>
+So you're the beloved
+daughter, for whose sake
+he offered to undertake
+that difficult task..."<Close><End of Block>
+<TextBlock 34 w:38 h:4>
 Dominia
 "Hey, young girl.<Delay 20>
-Want to hear
-an interesting story?<New>
+Want to hear an
+interesting story?<New>
 Let's see...<Delay 20>
-How about the cursed
-secret of
-<Seibzehn>?"<Close><End of Block>
+How about the
+cursed secret
+of <Seibzehn>?"<Close><End of Block>
 <TextBlock 35 w:50 h:7>
 For the past several
 decades, our scientists
-had put so much effort
-into the research to
-create evolved Gears.<New>
-Regardless of how great a
-pilot one is, as long it
-is human, there will
-always exist a time lag
+had put great effort
+into researching the
+creation of more
+advanced Gears.<New>
+Regardless of how good
+the pilot is, as long
+as they are human there
+will always be time lag
 and human error when
 interfacing with a
 machine.<New>
@@ -183,11 +182,11 @@ That's when your father,
 Nikola was targeted.<Delay 20>
 He was a genius in the
 field of cranial nerve
-mechanisms.<New>
+mechanics.<New>
 They made Nikola search
 for a way for humans to
-go beyond humans...<Delay 20> By
-merging humans and
+go beyond humans...<Delay 20>
+by merging humans and
 machines.<New>
 In other words, they were
 trying to create a new
@@ -195,7 +194,7 @@ life, an ultimate living
 weapon,<Delay 10> by connecting a
 living human brain to a
 Gear directly.<New>
-It would've stayed as a
+It would've stayed a
 mere fantasy<Delay 10> without
 Nikola.<Delay 20> But that genius
 made the fantasy come
@@ -209,48 +208,47 @@ Battling in Kislev, were
 used as experimental
 materials.<New>
 That is how the special
-humanoid mutants, Wels
+humanoid mutants, Wels,
 were born.<Delay 20> Wels created
 in Solaris were tested
 on the surface.<New>
 Only the Wels that passed
-the tests were dismantled,
+the tests were dissected,
 restructured, and reborn.<Delay 20>
-They became the Gear's
-central control circuit...
-and became part of the
-machine...<New>
+They became the central
+control circuits of
+Gears...<Delay 10>
+Mechanical parts...<New>
 It's all the result of
 your father's great
 research.<Delay 20>
-<Seibzehn>, is the
-prototype of 
-a man-machine fusion
-Gear.<New>
+<Seibzehn> is the
+prototype of a
+man-machine fusion Gear.<New>
 In other words...
 <Seibzehn> was completed
 at the cost of innumerable
 land dwellers' lives.<Close><End of Block>
 <TextBlock 37 w:48 h:2>
 And in the nerve circuit
-of <Seibzehn> lies...<Close><End of Block>
-<TextBlock 38 w:52 h:4>
+of <Seibzehn> lies<--><Close><End of Block>
+<TextBlock 38 w:46 h:4>
 Dominia
 "Hmph, fools!
 Don't get so cocky.<Delay 20>
 The party's just begun.<New>
-But, I guess it's alright.
+But, well, whatever.
 My mission is complete.<Delay 20>
 All that's left is..."<Close><End of Block>
-<TextBlock 39 w:50 h:3>
+<TextBlock 39 w:40 h:3>
 Dominia
-"Maria, I'm afraid I must
-go now.<New>
-Enjoy your party.<Delay 20>
+"Maria, I'm afraid
+I must go now.<New>
+Enjoy the party.<Delay 20>
 Hah hah hah...!"<Close><End of Block>
 <TextBlock 40 w:26 h:2>
 <Opcode 1 2>Dominia
-"Who is it!?"<Opcode 2 30><Close><End of Block>
+"Who is it!?"<Opcode 2 50><Close><End of Block>
 <TextBlock 41 w:44 h:4>
 Jessie
 "Don't get so worked
@@ -269,22 +267,23 @@ one who can operate
 <Seibzehn>.<New>
 You should be well aware
 of that."<Close><End of Block>
-<TextBlock 43 w:50 h:4>
+<TextBlock 43 w:48 h:4>
 Jessie
-"It looks like our guests
-have arrived.<Delay 20>
+"It looks like our
+guests have arrived.<Delay 20>
 Let's go upstairs.<New>
 The Yggdrasil is also
-accommodated in the dock.<Delay 20><New>
-I'm sure the other
-guys are making a
-fuss over it."<Close><End of Block>
-<TextBlock 44 w:36 h:3>
+berthed at the dock.<Delay 20>
+I'm sure the other guys
+are all in a spin, too."<Close><End of Block>
+<TextBlock 44 w:28 h:4>
 Jessie
-"I have an ominous
-premonition...<New>
-I doubt it but...
-they could've..."<Close><End of Block>
+"But I have
+a really bad
+feeling...<New>
+I doubt it,
+but...Solaris
+could've..."<Close><End of Block>
 <TextBlock 45 w:40 h:4>
 Maria
 "It'll still take

@@ -55,25 +55,26 @@ stay behind."<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Fei
 "Yeah...
-I know, Doc.<Delay 20>
+Understood, Doc.<Delay 20>
 We'll go!<New>
 We're already involved.<Delay 20>
-And, we can't just stand
+And we can't just stand
 by and watch these
 people die."<Close><End of Block>
-<TextBlock 13 w:36 h:3>
+<TextBlock 13 w:38 h:3>
 Fei
 "...?<Delay 20>
 Going chu help...?<New>
 <Chu-Chu>, what're
 you doing here?"<Close><End of Block>
-<TextBlock 14 w:54 h:3>
+<TextBlock 14 w:38 h:3>
 Fei
-"What am I gonna do...<Delay 20>
+"What am I gonna do...?<Delay 20>
 This isn't a game.<New>
-It's dangerous, so go back
-to the Yggdrasil.<Delay 20> Okay,
-<Chu-Chu>? Be a good girl."<Close><End of Block>
+It's dangerous, so go
+back to the Yggdrasil.<Delay 20>
+Okay, <Chu-Chu>?
+Be a good girl."<Close><End of Block>
 <TextBlock 15 w:54 h:4>
 Fei
 "Tch, alright...<Delay 20> Don't come
@@ -141,33 +142,34 @@ our common enemy first."<Close><End of Block>
 Billy
 "Y-You're...<Delay 20>
 the Queen...?"<Close><End of Block>
-<TextBlock 25 w:42 h:3>
+<TextBlock 25 w:44 h:3>
 <Chu-Chu>
 "Alright! <Chu-Chu>'s
 going chu help too!"<Close><End of Block>
 <TextBlock 26 w:52 h:4>
 <Chu-Chu>
 "Uh hmm... <Chu-Chu>'s not
-a good girl.<Delay 20> I'm in that
+a good girl.<Delay 20> I'm at that
 dangerous age right now."<Close><End of Block>
-<TextBlock 27 w:28 h:3>
+<TextBlock 27 w:30 h:3>
 <Chu-Chu>
 "And <Chu-Chu>
 can help chu!<New>
 I'm going with
 all of you.<Delay 20>
 Yeah? Yeah?"<Close><End of Block>
-<TextBlock 28 w:54 h:3>
+<TextBlock 28 w:44 h:4>
 <Chu-Chu>
-"R, really?<Delay 20>
+"R-Really?<Delay 20>
 They're all here?<New>
-Yaaay! I finally found
-them!! <Chu-Chu>'s friends.
+Yaaay!
+I finally found them!!
+<Chu-Chu>'s friends.
 They're here!!"<Close><End of Block>
 <TextBlock 29 w:46 h:3>
 <Chu-Chu>
 "Now, let's put
-everything into it.<New>
+everything into this.<New>
 Everyone, we have chu
 give it our best shot!"<Close><End of Block>
 <TextBlock 30 w:50 h:3>
@@ -478,10 +480,9 @@ Elly
 "Yes...!
 We'll do what we can to
 protect the people here!"<Close><End of Block>
-<TextBlock 79 w:52 h:4>
+<TextBlock 79 w:52 h:3>
 Elly
-"Well...
-In all the bustle,
+"Well...in all the bustle,
 she somehow tagged along."<Close><End of Block>
 <TextBlock 80 w:38 h:4>
 Elly
@@ -508,10 +509,10 @@ Bart has joined the party!<Close><End of Block>
 Bart
 "I don't like the idea of
 working for free...<New>
-...but I don't like the
-idea of turning tail and
-running from them even
-more!<New>
+...but I like the idea
+of turning tail and
+running away from them
+even less!<New>
 Let's do it!<Delay 20> It doesn't
 matter who they are. I'll
 take'em all down in my
@@ -525,9 +526,11 @@ Billy
 Billy has joined the party!<Close><End of Block>
 <TextBlock 88 w:52 h:4>
 Billy
-"I will go too!<Delay 20> The enemy
-was able to get in because
-they let the Yggdrasil in.<New>
+"I will go too!<New>
+Could it be that the enemy
+spy gained entry because
+the Yggdrasil was brought
+in?<New>
 We can't allow the people
 of this country to be in
 danger because of us..."<Close><End of Block>
@@ -563,16 +566,15 @@ Citan has joined the party!<Close><End of Block>
 <TextBlock 95 w:54 h:4>
 Citan
 "The Solaris Gear units are
-on a high speed...<New>
-...interception course with
-Shevat.<New>
+on a high-speed intercept
+course with Shevat.<New>
 It would be reasonable to
-believe that their main
+assume that their main
 targets are going to be the
-4 Gate generators.<New>
+four Gate generators.<New>
 They are probably planning
 on finishing us off since
-Dominia's demolition has
+Dominia's sabotage has
 weakened the Gate output.<New>
 We have scrambled our
 interceptor units, but I
@@ -584,24 +586,23 @@ tactics.<New>
 I want to avoid unnecessary
 sacrifices if at all
 possible."<Close><End of Block>
-<TextBlock 96 w:54 h:4>
+<TextBlock 96 w:50 h:4>
 Citan
 "Here is the breakdown of
 the enemy Gear units...<New>
-As I have explained before,
-4 separate units are each
-headed for their respective
-generators.<New>
+As explained before, four
+separate units will each
+be approaching their
+respective generators.<New>
 From the information
-collected in Shevat...<New>
-...we have a good idea
-of the capabilities and
+collected in Shevat,<New>
+we have a good idea of
+the capabilities and
 composition of the Gear
 units...<New>
-However, there is one giant
-Gear that they are holding
-back that we have no
-information about."<Close><End of Block>
+However, there is one
+unidentified giant Gear
+in wait at the rear."<Close><End of Block>
 <TextBlock 97 w:52 h:4>
 Citan
 "Maria, this is where you
@@ -810,24 +811,24 @@ Jessie
 <TextBlock 111 w:50 h:4>
 Jessie
 "Yeah, right on!
-Go for it young'uns!
+Go for it, young 'uns!
 We're depending on you.<New>
 Especially since my life
 also depends on it.
-I have no intentions of
+I have no intention of
 kickin' the bucket here."<Close><End of Block>
 <TextBlock 112 w:38 h:3>
 Jessie
-"Alright alright, I
-know."<Close><End of Block>
-<TextBlock 113 w:34 h:3>
+"Alright, alright,
+I know."<Close><End of Block>
+<TextBlock 113 w:32 h:3>
 Jessie
-"Why can't you be
-more nicer?"<Close><End of Block>
-<TextBlock 114 w:44 h:4>
+"(Why can't you
+be more nice?)"<Close><End of Block>
+<TextBlock 114 w:34 h:4>
 Jessie
-"An unidentified giant
-Gear...?<Delay 20>
+"An unidentified
+giant Gear...?<Delay 20>
 It can't be..."<Close><End of Block>
 <TextBlock 115 w:50 h:4>
 Jessie

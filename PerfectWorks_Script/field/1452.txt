@@ -1,9 +1,9 @@
 <TextBlock 1 w:52 h:5>
 Which mission will you do?<Delay 20>
-    The Generator 1
-    The Generator 2
-    The Generator 3
-    The Generator 4 <Close><End of Block>
+    Generator 1
+    Generator 2
+    Generator 3
+    Generator 4 <Close><End of Block>
 <TextBlock 2 w:40 h:4>
 This enemy unit has
 already been driven
@@ -52,11 +52,11 @@ I'm ready anytime!"<Close><End of Block>
 Citan
 "I will be your
 opponent.<Delay 20> Come on!"<Close><End of Block>
-<TextBlock 12 w:48 h:4>
+<TextBlock 12 w:46 h:4>
 Elly
-"I don't have anything
-against you, but I can't
-turn back now!"<Close><End of Block>
+"It's nothing personal,
+but I can't turn back
+now!"<Close><End of Block>
 <TextBlock 13 w:52 h:3>
 Bart
 "Come on! Who's gonna be 
@@ -76,7 +76,7 @@ to dust."<Close><End of Block>
 <TextBlock 16 w:48 h:4>
 Fei
 "We did it!<Delay 20>
-All four Gate Generators
+All four Gate generators
 are safe!"<Close><End of Block>
 <TextBlock 17 w:42 h:3>
 We're under emergency
