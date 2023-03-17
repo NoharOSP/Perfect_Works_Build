@@ -1,7 +1,7 @@
 <TextBlock 1 w:38 h:3>
 Took possession of
- Alice's
-   'Wedding Dress'!<Close><End of Block>
+  Alice's
+    Wedding Dress!<Close><End of Block>
 <TextBlock 2 w:38 h:3>
 Fei
 "What are you doing
@@ -74,5 +74,4 @@ Fei, you're such
 a bastard!!"<Close><End of Block>
 <TextBlock 12 w:22 h:2>
 Tournament
-Semi-Finals<Opcode 2 60><Close><Close>?<New>
-<End of Block>
+Semi-Finals<Opcode 2 60><Close><Close><End of Block>
