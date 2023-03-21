@@ -515,7 +515,7 @@ running away from them
 even less!<New>
 Let's do it!<Delay 20> It doesn't
 matter who they are. I'll
-take'em all down in my
+take 'em all down in my
 <Brigandier>!!"<Close><End of Block>
 <TextBlock 86 w:44 h:4>
 Billy
