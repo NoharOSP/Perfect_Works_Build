@@ -16,7 +16,7 @@ typedef CArray<TOCEntry, TOCEntry> CTOCArray;
 class writeFile
 {
 public:
-	writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats, bool expgold, bool monsters, bool encounters);
+	writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats, bool expgold, bool monsters, bool encounters, bool fastnew);
 	virtual ~writeFile();
 	CTOCArray arTOC;
 	void allTrue();
@@ -25,6 +25,7 @@ public:
 	void doExpGold();
 	void doMonsters();
 	void doEncounters();
+	void doFast();
 	void preprocess(std::string fileName);
 	void goHome();
 	bool process(CFile *romFile, CFile *statsFile, UINT nPosition);
@@ -42,5 +43,6 @@ public:
 	bool wf_expgold;
 	bool wf_monsters;
 	bool wf_encounters;
+	bool wf_fast;
 };
 

@@ -3,7 +3,7 @@
 
 
 
-writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats, bool exp_gold, bool monsters, bool encounters)
+writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats, bool exp_gold, bool monsters, bool encounters, bool fastnew)
 {
 	dir = home;
 	discName = cd;
@@ -15,6 +15,7 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	wf_expgold = exp_gold;
 	wf_monsters = monsters;
 	wf_encounters = encounters;
+	wf_fast = fastnew;
 	std::filesystem::current_path(dir);
 	if (std::filesystem::exists("\patches")) {
 		std::filesystem::current_path("\patches");
@@ -45,6 +46,9 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	}
 	if (encounters) {
 		doEncounters();
+	}
+	if (fastnew) {
+		doFast();
 	}
 }
 
@@ -165,6 +169,34 @@ void writeFile::doMonsters() {
 		}
 		else {
 			MessageBox(wind, L"Could not find directory for 'monsters_both'.", L"Error", MB_ICONERROR);
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
+	}
+}
+
+void writeFile::doFast() {
+	if (wf_script) {
+		if (discNum == 1) {
+			goHome();
+			if (std::filesystem::exists("\speed_one")) {
+				std::filesystem::current_path("\speed_one");
+			}
+			else {
+				MessageBox(wind, L"Could not find directory for 'speed_one'.", L"Error", MB_ICONERROR);
+			}
+		}
+		else if (discNum == 2) {
+			goHome();
+			if (std::filesystem::exists("\speed_two")) {
+				std::filesystem::current_path("\speed_two");
+			}
+			else {
+				MessageBox(wind, L"Could not find directory for 'speed_two'.", L"Error", MB_ICONERROR);
+			}
 		}
 		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
 			std::string fileName = entry.path().string();

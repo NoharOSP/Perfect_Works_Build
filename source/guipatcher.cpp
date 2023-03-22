@@ -502,14 +502,14 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 					}
 				}
-				if (p_stats || p_exp_gold || p_monsters || p_encounters) {
+				if (p_stats || p_exp_gold || p_monsters || p_encounters || p_fastnew) {
 					if (p_script || p_items_spells) {
 						SetWindowText(hWnd, L"Finishing...");
 						if (pathFound1) {
-							writeFile wf1(hWnd, home, path1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters);
+							writeFile wf1(hWnd, home, path1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew);
 						}
 						if (pathFound2) {
-							writeFile wf2(hWnd, home, path2, 2, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters);
+							writeFile wf2(hWnd, home, path2, 2, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew);
 						}
 					}
 				}
@@ -595,7 +595,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			return (LONG)GetStockObject(WHITE_BRUSH);
 		}
 		break;
-	
 	default:
 		return DefWindowProc(hWnd, message, wParam, lParam);
 	}
@@ -982,4 +981,59 @@ void drawGlobalText() {
 	TextOut(hdc, winX * 0.0325, winY * 0.20, cd2text, wcslen(cd2text));
 	ReleaseDC(tc, hdc);
 }
+
+BOOL ParseALargeFile(HWND hWnd, LPTSTR lpszFileName)
+{
+	RECT rcClient;  
+	int cyVScroll;  
+	HWND hwndPB;    
+	HANDLE hFile;   
+	DWORD cb;       
+	LPCH pch;       
+	LPCH pchTmp;    
+
+
+	InitCommonControls();
+
+	GetClientRect(hWnd, &rcClient);
+
+	cyVScroll = GetSystemMetrics(SM_CYVSCROLL);
+
+	hwndPB = CreateWindowEx(0, PROGRESS_CLASS, (LPTSTR)NULL,
+		WS_CHILD | WS_VISIBLE, rcClient.left,
+		rcClient.bottom - cyVScroll,
+		rcClient.right, cyVScroll,
+		hWnd, (HMENU)0, hInst, NULL);
+
+	hFile = CreateFile(lpszFileName, GENERIC_READ, FILE_SHARE_READ,
+		(LPSECURITY_ATTRIBUTES)NULL, OPEN_EXISTING,
+		FILE_ATTRIBUTE_NORMAL, (HANDLE)NULL);
+
+	if (hFile == (HANDLE)INVALID_HANDLE_VALUE)
+		return FALSE;
+
+	cb = GetFileSize(hFile, (LPDWORD)NULL);
+
+	SendMessage(hwndPB, PBM_SETRANGE, 0, MAKELPARAM(0, cb / 2048));
+
+	SendMessage(hwndPB, PBM_SETSTEP, (WPARAM)1, 0);
+
+	pch = (LPCH)LocalAlloc(LPTR, sizeof(char) * 2048);
+
+	pchTmp = pch;
+
+	do {
+		ReadFile(hFile, pchTmp, sizeof(char) * 2048, &cb, (LPOVERLAPPED)NULL);
+
+		SendMessage(hwndPB, PBM_STEPIT, 0, 0);
+
+	} while (cb);
+
+	CloseHandle((HANDLE)hFile);
+
+	DestroyWindow(hwndPB);
+
+	return TRUE;
+}
+
 
