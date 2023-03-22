@@ -529,14 +529,14 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 					}
 				}
-				if (p_stats || p_exp_gold || p_monsters || p_encounters) {
+				if (p_stats || p_exp_gold || p_monsters || p_encounters || p_fastnew) {
 					if (p_script || p_items_spells) {
 						SetWindowText(hWnd, L"Finishing...");
 						if (pathFound1) {
-							writeFile wf1(hWnd, home, path1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters);
+							writeFile wf1(hWnd, home, path1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew);
 						}
 						if (pathFound2) {
-							writeFile wf2(hWnd, home, path2, 2, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters);
+							writeFile wf2(hWnd, home, path2, 2, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew);
 						}
 					}
 				}
