@@ -15,6 +15,7 @@
 
 #define MAX_LOADSTRING 100
 #define BUF_SIZE 300
+#define WM_UPDATEPROGRESS WM_USER + 1
 
 #pragma comment(linker,"/manifestdependency:\"type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' processorArchitecture='*' publicKeyToken='6595b64144ccf1df' language='*'\"")
 
@@ -82,6 +83,7 @@ HWND all;
 HWND easy;
 HWND hard;
 HWND tc;
+HWND hwndPB;
 RECT rcWindow;
 RECT rc;
 TOOLINFO toolInfo;
@@ -125,3 +127,4 @@ HWND CreateToolTip(HWND hParent, HWND hText, HINSTANCE hInst, PTSTR pszText);
 HWND toolGenerator(char* text, HWND hWnd, HWND hText);
 HWND CreateTabController(HWND hParent, HINSTANCE hInst, DWORD dwStyle, const RECT& rc, const int id);
 int InsertTab(HWND TabController, const ustring& txt, int item_index, int image_index, UINT mask);
+BOOL ParseALargeFile(HWND hWnd, LPTSTR lpszFileName);
