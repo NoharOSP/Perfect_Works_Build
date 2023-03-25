@@ -1,10 +1,8 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.1.6 here:
-
-- MEGA: https://mega.nz/file/HK5C2bTa#ki8lbMjSH_eAuCIuuL9Po6NWXnkNr_0Zg0H2_bpjE3Y
-- Google Drive: https://drive.google.com/file/d/1gM2Fr1EHI8VsUKeCyc99pNIrxOYOwudy/view?usp=share_link
+Download version 0.1.7 here:
+- Google Drive: https://drive.google.com/file/d/1CCNIUAGvD4dVIigNL0llegOhVK1No8SL/view?usp=share_link
 
 ## Completion stats:
 
@@ -27,6 +25,16 @@ The project is also largely incompatible with both Undub and Xenogears 2.0.
 
 ## Version history:
 
+### Version 0.1.7:
+
+03/24/2023
+
+- Removed game freezes that occur when fast text is used with the script patch in scenes with new delay codes.
+- Wyvern's HP has been lowered to 15000 from 28000.
+- Sufal Mass' Ether has been increased from 45 to 90 and its EDef has been lowered to 80 from 100.
+- Throne and Seraphita dialogue during battle has been fixed.
+- Myyah's Gear and Cherubina will use their new names when exp_gold, script and items patches are used together.
+
 ### Version 0.1.6:
 
 02/26/2023
@@ -40,7 +48,6 @@ The project is also largely incompatible with both Undub and Xenogears 2.0.
 - Ramsus' first scene, Verlaine's speech to Billy and the Wave Existence scene no longer freeze the game when used with fast text.
 - Elements and Geburah Guards keep their changed names if both script and monster patches are selected.
 - Cherubina, Myyah, Carlin and Karellen keep their changed names if the encounters patch is used with the script patch.
-- All instances of Reapers are replaced with Wels.
 
 
 ### Version 0.1.5:
@@ -114,6 +121,11 @@ The project is also largely incompatible with both Undub and Xenogears 2.0.
 ## Archive:
 
 ### Builds:
+
+### Version 0.1.6:
+
+- MEGA: https://mega.nz/file/HK5C2bTa#ki8lbMjSH_eAuCIuuL9Po6NWXnkNr_0Zg0H2_bpjE3Y
+- Google Drive: https://drive.google.com/file/d/1gM2Fr1EHI8VsUKeCyc99pNIrxOYOwudy/view?usp=share_link
 
 ### Version 0.1.5:
 
@@ -460,7 +472,7 @@ Unless stated otherwise, the stat changed is HP.
 - Seraphita: HP 2000 to 2500 
 - Id: 3000 to 6666
 - Alkanshel: Hit 10 to 90
-- Wyvern: HP 5000 to 28000 Atk 330 to 400 EthDef 120 to 150 Agility 5 to 9 Hit 40 to 60
+- Wyvern: HP 5000 to 15000 Atk 330 to 400 EthDef 120 to 150 Agility 5 to 9 Hit 40 to 60
 - Seibzehn: HP 5500 to 18000 Atk 380 to 500 Def 300 to 250 EDef 40 to 150 Hit 30 to 70
 - White Knights: HP 290 to 600 
 - Achtzehn: HP 12000 to 19000 Atk 600 to 800 Def 300 to 400 Ether 20 to 35 EDef 0 to 200 
@@ -473,7 +485,7 @@ Unless stated otherwise, the stat changed is HP.
 - Grahf (Solaris): Atk 180 to 200 Eth 60 to 150
 - Vendetta: HP 12000 to 22000 EthDef 50 to 200 Hit 50 to 60
 - Ft Hurricane HP 13000 to 40000 Agility 14 to 7
-- Sufal Mass: HP 4800 to 20000 EDef 50 to 100
+- Sufal Mass: HP 4800 to 20000 Ether 45 to 90 EDef 50 to 80
 - Sufal: Agility 7 to 10 Eth 20 to 50 
 - Dominia: 4000 to 20000
 - Cherubina: 2500 to 15000
@@ -575,7 +587,6 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Suzarn = Suzanne 
 - Krelian = Karellen
 - Stratski = Strachey
-- Reapers = Wels
 
 #### Story changes:
 
