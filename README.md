@@ -3,6 +3,7 @@ Xenogears Perfect Works Build: Including all official Xenogears information in P
 
 Download version 0.1.7 here:
 - Google Drive: https://drive.google.com/file/d/1CCNIUAGvD4dVIigNL0llegOhVK1No8SL/view?usp=share_link
+- MEGA: https://mega.nz/file/aTwGQJaZ#IUrqM_spP1tQHDUnsXLqrA3D9yp1_97A4fXFnyJexSI
 
 ## Completion stats:
 
