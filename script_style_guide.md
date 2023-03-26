@@ -1,6 +1,9 @@
 # Xenogears Perfect Works Build
 ## Game Script Style Guide
 
+### General
+For all spelling, the target is US English.
+
 ### Numbers
 - Amounts of things, measurements of time: 1-100 spelled out, 101+ as numerals (eg. three gates, twelve years, 500 years)
 - Abbreviated, unabbreviated, or implicit measurements: always numerals (5 kph, 10 repsol per hour, 1000 sharls, incoming speed 120)
@@ -60,13 +63,14 @@ Exceptions are:
     - Does every nation have a capital?
 
 ### Control schemes/save operations
-Wherever possible, follow the PlayStation TRC for styling these:
+In terms of casing, follow the PlayStation TRC wherever possible:
 - Left/right/up/down directional button(s)
 - SELECT button
 - START button
 - X button etc (each face button requires use of a pointer, mapped to a special font character)
 - L1/L2/L3/R1/R2/R3 button(s)
 - Memory Card slot 1/2
+
 (See section 7.0 in https://psx.arthus.net/sdk/Psy-Q/DOCS/TECHNOTE/mtrc13.pdf)
 
 ### Notes
