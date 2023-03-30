@@ -741,6 +741,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - krmine
 - edrovinhaz
 - Streetwize: @StreetwizeJJ2
+- ChaoticBrave: @ChaoticBrave
 - Nohar
 
 ### Testing:
