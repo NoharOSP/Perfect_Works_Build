@@ -149,14 +149,14 @@ the Vessels of Anima
 sleeping in Ignas<New>
 and supervision of
 the Lambs. But this<Delay 5>...<Close><End of Block>
-<TextBlock 27 w:40 h:4>
+<TextBlock 27 w:44 h:4>
 The Vessels can
 be collected at
 any time.<New>
 Moreover, it is
-confirmed that
-'he' was on board
-the stolen craft.<New>
+confirmed that 'he'
+was on board the craft
+that Gate-jumped.<New>
 That is likely why
 Ramsus gave chase?<Close><End of Block>
 <TextBlock 28 w:34 h:2>
