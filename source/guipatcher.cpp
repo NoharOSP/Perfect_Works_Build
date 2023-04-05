@@ -314,6 +314,39 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			else {
 				p_stats = false;
 			}
+<<<<<<< Updated upstream
+=======
+			LRESULT arenaticked = SendMessage(arena, BM_GETCHECK, NULL, NULL);
+			if (arenaticked == BST_CHECKED) {
+				p_arena = true;
+			}
+			else {
+				p_arena = false;
+			}
+			LRESULT allticked = SendMessage(all, BM_GETCHECK, NULL, NULL);
+			if (allticked == BST_CHECKED) {
+				p_script = true;
+				p_fastnew = true;
+				p_encounters = true;
+				p_exp_gold = true;
+				p_items_spells = true;
+				p_monsters = true;
+				p_stats = true;
+				p_arena = true;
+			}
+			LRESULT easyticked = SendMessage(easy, BM_GETCHECK, NULL, NULL);
+			if (easyticked == BST_CHECKED) {
+				p_encounters = true;
+				p_exp_gold = true;
+			}
+			LRESULT hardticked = SendMessage(hard, BM_GETCHECK, NULL, NULL);
+			if (hardticked == BST_CHECKED) {
+				p_items_spells = true;
+				p_monsters = true;
+				p_stats = true;
+				p_arena = true;
+			}
+>>>>>>> Stashed changes
 			patchBoxLock();
 		}
 		    break;
@@ -511,8 +544,27 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						p_stats = false;
 					}
 				}
+				if (p_arena) {
+					if (pathFound1) {
+						if (!pc1.arenaCheck(path1)) {
+							arenaName1 = "PWA1.ppf";
+						}
+						else {
+							MessageBox(hWnd, L"The arena patch has already been applied.", L"Error", MB_ICONASTERISK);
+						}
+					}
+					if (pathFound2) {
+						if (!pc2.arenaCheck(path2)) {
+							arenaName2 = "PWA2.ppf";
+						}
+						else {
+							MessageBox(hWnd, L"The arena patch has already been applied.", L"Error", MB_ICONASTERISK);
+						}
+					}
+				}
 				initialisePatchLists();
 				SetWindowText(hWnd, L"Patching...");
+				SetCursor(LoadCursor(NULL, IDC_WAIT));
 				if (pathFound1) {
 					for (int i = 0; i < patchList1.size(); i++) {
 						if (patchList1[i] != "") {
@@ -650,6 +702,7 @@ INT_PTR CALLBACK About(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 	return (INT_PTR)FALSE;
 }
 
+<<<<<<< Updated upstream
 void initialiseButtonList() {
 	windList.emplace_back(cd1path);
 	windList.emplace_back(cd2path);
@@ -664,6 +717,32 @@ void initialiseButtonList() {
 	windList.emplace_back(monsters);
 	windList.emplace_back(stats);
 	windList.emplace_back(script);
+=======
+void initialiseGlobalButtonList() {
+	globalWindList.emplace_back(cd1path);
+	globalWindList.emplace_back(cd2path);
+	globalWindList.emplace_back(browsebutton1);
+	globalWindList.emplace_back(browsebutton2);
+	globalWindList.emplace_back(aboutbutton);
+	globalWindList.emplace_back(patchbutton);
+}
+
+void initialiseGeneralButtonList() {
+	generalWindList.emplace_back(encounters);
+	generalWindList.emplace_back(fasttext);
+	generalWindList.emplace_back(arena);
+	generalWindList.emplace_back(expgold);
+	generalWindList.emplace_back(itemspells);
+	generalWindList.emplace_back(monsters);
+	generalWindList.emplace_back(stats);
+	generalWindList.emplace_back(script);
+}
+
+void initialiseMiscButtonList() {
+	miscWindList.emplace_back(all);
+	miscWindList.emplace_back(easy);
+	miscWindList.emplace_back(hard);
+>>>>>>> Stashed changes
 }
 
 void initialisePatchLists() {
@@ -671,6 +750,8 @@ void initialisePatchLists() {
 	patchList2.emplace_back(encountersName2);
 	patchList1.emplace_back(fastName1);
 	patchList2.emplace_back(fastName2);
+	patchList1.emplace_back(arenaName1);
+	patchList2.emplace_back(arenaName2);
 	patchList1.emplace_back(expgoldName1);
 	patchList2.emplace_back(expgoldName2);
 	patchList1.emplace_back(itemspellsName1);
@@ -795,10 +876,11 @@ void initialiseWindows(HWND hWnd) {
 	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.838), (int)(winY * 0.25), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
 	encounters = CreateWindow(L"BUTTON", L"Half encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	expgold = CreateWindow(L"BUTTON", L"Double exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items and spells", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.53), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
-	monsters = CreateWindow(L"BUTTON", L"Rebalanced monsters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.61), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
-	stats = CreateWindow(L"BUTTON", L"Rebalanced party stats", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.69), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
+	arena = CreateWindow(L"BUTTON", L"Rebalanced battle arena", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.45), 175, 25, hWnd, (HMENU)9002, hInst, NULL);
+	expgold = CreateWindow(L"BUTTON", L"Double exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items and spells", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.61), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
+	monsters = CreateWindow(L"BUTTON", L"Rebalanced monsters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.69), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
+	stats = CreateWindow(L"BUTTON", L"Rebalanced party stats", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.77), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
 	script = CreateWindow(L"BUTTON", L"Retranslated script", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.75), (int)(winY * 0.45), 115, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
@@ -810,14 +892,13 @@ void tooltipTextMaker(HWND hWnd) {
 		"on encounter drops.";
 	HWND tt_encounters = toolGenerator(text_encounters, hWnd, encounters);
 	char text_fast[] =
-		"Text scrolls instantly.\n"
-		"WARNING!! This has a history of crashing\n"
-		"scripted scenes. Use at your own risk.";
+		"Text scrolls instantly.";
 	HWND tt_fast = toolGenerator(text_fast, hWnd, fasttext);
 	char text_expgold[] =
-		"Doubles rewards from battle. This is\n"
-		"recommended with the half encounter patch\n"
-		"to keep a consistent level curve with the game.";
+		"Increases rewards from battle by 50%.\n"
+		"This is recommended with the half encounter\n"
+		"patch to keep a consistent level curve with\n"
+		"the game.";
 	HWND tt_expgold = toolGenerator(text_expgold, hWnd, expgold);
 	char text_itemspells[] =
 		"Spells changed to rebalance the party as well\n"
@@ -843,4 +924,213 @@ void tooltipTextMaker(HWND hWnd) {
 		"in important scenes.\n"
 		"This process may take a while.";
 	HWND tt_script = toolGenerator(text_script, hWnd, script);
+<<<<<<< Updated upstream
 }
+=======
+	char text_arena[] =
+		"Rebalances the gears in the arena. Please\n"
+		"refer to the interactive tutorial for\n"
+		"instructions.";
+	HWND tt_arena = toolGenerator(text_arena, hWnd, arena);
+	char text_all[] =
+		"Selects all patches.";
+	HWND tt_all = toolGenerator(text_all, hWnd, all);
+	char text_easy[] =
+		"Allows for an easier playthrough. The encounter\n"
+		"rate is halved and the experience and gold\n"
+		"dropped by enemies is increased by 50%.\n"
+	    "Suitable for players who mainly want to\n"
+		"experience the story.";
+	HWND tt_easy = toolGenerator(text_easy, hWnd, easy);
+	char text_hard[] =
+		"Allows for a harder playthrough. Specific\n"
+		"items and equipment have been readjusted,\n"
+		"character spells and stats have been\n"
+	    "rebalanced, and several of the bosses\n"
+	    "have received buffs.";
+	HWND tt_hard = toolGenerator(text_hard, hWnd, hard);
+}
+
+HWND CreateTabController(HWND hParent, HINSTANCE hInst, DWORD dwStyle, const RECT& rc, const int id)
+{
+	dwStyle |= WS_CHILD | WS_VISIBLE | WS_CLIPSIBLINGS;
+	return CreateWindowEx(0, WC_TABCONTROL, 0, dwStyle, rc.left, rc.top, rc.right, rc.bottom, hParent, 
+		reinterpret_cast<HMENU>(static_cast<INT_PTR>(id)), hInst, 0);
+}
+
+void StartCommonControls(DWORD flags) {
+	INITCOMMONCONTROLSEX iccx;
+	iccx.dwSize = sizeof(INITCOMMONCONTROLSEX);
+	iccx.dwICC = flags;
+	InitCommonControlsEx(&iccx);
+}
+
+int InsertTab(HWND TabController, const ustring& txt, int item_index, int image_index, UINT mask) {
+	std::vector<TCHAR> tmp(txt.begin(), txt.end());
+	tmp.push_back(_T('\0'));
+	TCITEM tabPage = { 0 };
+	tabPage.mask = mask;
+	tabPage.pszText = &tmp[0];
+	tabPage.cchTextMax = static_cast<int>(txt.length());
+	tabPage.iImage = image_index;
+	return static_cast<int>(SendMessage(TabController, TCM_INSERTITEM, item_index, reinterpret_cast<LPARAM>(&tabPage)));
+}
+
+void DestroyTabs(const HWND hWnd) {
+	HWND tc = reinterpret_cast<HWND>(static_cast<LONG_PTR>(GetWindowLongPtr(hWnd, GWLP_USERDATA)));
+	HIMAGELIST hImages = reinterpret_cast<HIMAGELIST>(SendMessage(tc,TCM_GETIMAGELIST, 0, 0));
+	ImageList_Destroy(hImages);
+}
+
+void initialiseGlobalWindows(HWND hWnd) {
+	cd1path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.10), 400, 25, hWnd, NULL, hInst, NULL);
+	cd2path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.20), 400, 25, hWnd, NULL, hInst, NULL);
+	browsebutton1 = CreateWindow(L"BUTTON", L"Browse", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.838), (int)(winY * 0.10), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
+	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.838), (int)(winY * 0.20), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
+	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.838), (int)(winY * 0.815), 70, 25, hWnd, (HMENU)104, hInst, NULL);
+	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.838), (int)(winY * 0.30), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
+}
+
+void initialiseGlobalFont() {
+	for (int i = 0; i < globalWindList.size(); i++) {
+		SendMessage(globalWindList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
+	}
+}
+
+void initialiseGeneralFont() {
+	for (int i = 0; i < generalWindList.size(); i++) {
+		SendMessage(generalWindList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
+	}
+}
+
+void initialiseMiscFont() {
+	for (int i = 0; i < miscWindList.size(); i++) {
+		SendMessage(miscWindList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
+	}
+}
+
+void generalButtonCustomiser(HWND hWnd) {
+	initialiseGeneralWindows(hWnd);
+	initialiseGeneralButtonList();
+	initialiseGeneralFont();
+	checkboxLock();
+	patchBoxLock();
+	tooltipTextMaker(hWnd);
+}
+
+void miscButtonCustomiser(HWND hWnd) {
+	initialiseMiscWindows(hWnd);
+	initialiseMiscButtonList();
+	initialiseMiscFont();
+	checkboxLock();
+	patchBoxLock();
+	tooltipTextMaker(hWnd);
+}
+
+void removeGeneralButtons() {
+	ShowWindow(encounters, SW_HIDE);
+	ShowWindow(fasttext, SW_HIDE);
+	ShowWindow(arena, SW_HIDE);
+	ShowWindow(expgold, SW_HIDE);
+	ShowWindow(itemspells, SW_HIDE);
+	ShowWindow(monsters, SW_HIDE);
+	ShowWindow(stats, SW_HIDE);
+	ShowWindow(script, SW_HIDE);
+}
+
+void removeMiscButtons() {
+	ShowWindow(all, SW_HIDE);
+	ShowWindow(easy, SW_HIDE);
+	ShowWindow(hard, SW_HIDE);
+}
+
+void drawGUIText() {
+	hdc = GetDC(tc);
+	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
+	SelectObject(hdc, hFont);
+	if (tabNo == 1) {
+		swprintf_s(qoltext, 256, L"QoL:      ");
+		swprintf_s(balancetext, 256, L"Balance:  ");
+		swprintf_s(storytext, 256, L"Story:    ");
+		TextOut(hdc, winX * 0.0325, winY * 0.4, qoltext, wcslen(qoltext));
+		TextOut(hdc, winX * 0.35, winY * 0.4, balancetext, wcslen(balancetext));
+		TextOut(hdc, winX * 0.75, winY * 0.4, storytext, wcslen(storytext));
+	}
+	if (tabNo == 2) {
+		swprintf_s(misctext, 256, L"Misc:     ");
+		swprintf_s(modetext, 256, L"Mode:     ");
+		swprintf_s(dummy, 256, L"          ");
+		TextOut(hdc, winX * 0.0325, winY * 0.4, misctext, wcslen(misctext));
+		TextOut(hdc, winX * 0.35, winY * 0.4, modetext, wcslen(modetext));
+		TextOut(hdc, winX * 0.75, winY * 0.4, dummy, wcslen(dummy));
+	}
+	ReleaseDC(tc, hdc);
+}
+
+void drawGlobalText() {
+	hdc = GetDC(tc);
+	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
+	SelectObject(hdc, hFont);
+	swprintf_s(cd1text, 256, L"CD1 File:");
+	swprintf_s(cd2text, 256, L"CD2 File:");
+	TextOut(hdc, winX * 0.0325, winY * 0.10, cd1text, wcslen(cd1text));
+	TextOut(hdc, winX * 0.0325, winY * 0.20, cd2text, wcslen(cd2text));
+	ReleaseDC(tc, hdc);
+}
+
+BOOL ParseALargeFile(HWND hWnd, LPTSTR lpszFileName)
+{
+	RECT rcClient;  
+	int cyVScroll;  
+	HWND hwndPB;    
+	HANDLE hFile;   
+	DWORD cb;       
+	LPCH pch;       
+	LPCH pchTmp;    
+
+
+	InitCommonControls();
+
+	GetClientRect(hWnd, &rcClient);
+
+	cyVScroll = GetSystemMetrics(SM_CYVSCROLL);
+
+	hwndPB = CreateWindowEx(0, PROGRESS_CLASS, (LPTSTR)NULL,
+		WS_CHILD | WS_VISIBLE, rcClient.left,
+		rcClient.bottom - cyVScroll,
+		rcClient.right, cyVScroll,
+		hWnd, (HMENU)0, hInst, NULL);
+
+	hFile = CreateFile(lpszFileName, GENERIC_READ, FILE_SHARE_READ,
+		(LPSECURITY_ATTRIBUTES)NULL, OPEN_EXISTING,
+		FILE_ATTRIBUTE_NORMAL, (HANDLE)NULL);
+
+	if (hFile == (HANDLE)INVALID_HANDLE_VALUE)
+		return FALSE;
+
+	cb = GetFileSize(hFile, (LPDWORD)NULL);
+
+	SendMessage(hwndPB, PBM_SETRANGE, 0, MAKELPARAM(0, cb / 2048));
+
+	SendMessage(hwndPB, PBM_SETSTEP, (WPARAM)1, 0);
+
+	pch = (LPCH)LocalAlloc(LPTR, sizeof(char) * 2048);
+
+	pchTmp = pch;
+
+	do {
+		ReadFile(hFile, pchTmp, sizeof(char) * 2048, &cb, (LPOVERLAPPED)NULL);
+
+		SendMessage(hwndPB, PBM_STEPIT, 0, 0);
+
+	} while (cb);
+
+	CloseHandle((HANDLE)hFile);
+
+	DestroyWindow(hwndPB);
+
+	return TRUE;
+}
+
+
+>>>>>>> Stashed changes
