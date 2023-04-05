@@ -266,6 +266,18 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			else {
 				p_stats = false;
 			}
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+			LRESULT arenaticked = SendMessage(arena, BM_GETCHECK, NULL, NULL);
+			if (arenaticked == BST_CHECKED) {
+				p_arena = true;
+			}
+			else {
+				p_arena = false;
+			}
+=======
+>>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
 			LRESULT allticked = SendMessage(all, BM_GETCHECK, NULL, NULL);
 			if (allticked == BST_CHECKED) {
 				p_script = true;
@@ -275,6 +287,10 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				p_items_spells = true;
 				p_monsters = true;
 				p_stats = true;
+<<<<<<< HEAD
+				p_arena = true;
+=======
+>>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
 			}
 			LRESULT easyticked = SendMessage(easy, BM_GETCHECK, NULL, NULL);
 			if (easyticked == BST_CHECKED) {
@@ -286,7 +302,13 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				p_items_spells = true;
 				p_monsters = true;
 				p_stats = true;
+<<<<<<< HEAD
+				p_arena = true;
 			}
+>>>>>>> Stashed changes
+=======
+			}
+>>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
 			patchBoxLock();
 		}
 		    break;
@@ -484,8 +506,27 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						p_stats = false;
 					}
 				}
+				if (p_arena) {
+					if (pathFound1) {
+						if (!pc1.arenaCheck(path1)) {
+							arenaName1 = "PWA1.ppf";
+						}
+						else {
+							MessageBox(hWnd, L"The arena patch has already been applied.", L"Error", MB_ICONASTERISK);
+						}
+					}
+					if (pathFound2) {
+						if (!pc2.arenaCheck(path2)) {
+							arenaName2 = "PWA2.ppf";
+						}
+						else {
+							MessageBox(hWnd, L"The arena patch has already been applied.", L"Error", MB_ICONASTERISK);
+						}
+					}
+				}
 				initialisePatchLists();
 				SetWindowText(hWnd, L"Patching...");
+				SetCursor(LoadCursor(NULL, IDC_WAIT));
 				if (pathFound1) {
 					for (int i = 0; i < patchList1.size(); i++) {
 						if (patchList1[i] != "") {
@@ -621,6 +662,25 @@ INT_PTR CALLBACK About(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 	return (INT_PTR)FALSE;
 }
 
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+void initialiseButtonList() {
+	windList.emplace_back(cd1path);
+	windList.emplace_back(cd2path);
+	windList.emplace_back(browsebutton1);
+	windList.emplace_back(browsebutton2);
+	windList.emplace_back(aboutbutton);
+	windList.emplace_back(patchbutton);
+	windList.emplace_back(encounters);
+	windList.emplace_back(fasttext);
+	windList.emplace_back(expgold);
+	windList.emplace_back(itemspells);
+	windList.emplace_back(monsters);
+	windList.emplace_back(stats);
+	windList.emplace_back(script);
+=======
+=======
+>>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
 void initialiseGlobalButtonList() {
 	globalWindList.emplace_back(cd1path);
 	globalWindList.emplace_back(cd2path);
@@ -633,6 +693,10 @@ void initialiseGlobalButtonList() {
 void initialiseGeneralButtonList() {
 	generalWindList.emplace_back(encounters);
 	generalWindList.emplace_back(fasttext);
+<<<<<<< HEAD
+	generalWindList.emplace_back(arena);
+=======
+>>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
 	generalWindList.emplace_back(expgold);
 	generalWindList.emplace_back(itemspells);
 	generalWindList.emplace_back(monsters);
@@ -644,6 +708,10 @@ void initialiseMiscButtonList() {
 	miscWindList.emplace_back(all);
 	miscWindList.emplace_back(easy);
 	miscWindList.emplace_back(hard);
+<<<<<<< HEAD
+>>>>>>> Stashed changes
+=======
+>>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
 }
 
 void initialisePatchLists() {
@@ -651,6 +719,8 @@ void initialisePatchLists() {
 	patchList2.emplace_back(encountersName2);
 	patchList1.emplace_back(fastName1);
 	patchList2.emplace_back(fastName2);
+	patchList1.emplace_back(arenaName1);
+	patchList2.emplace_back(arenaName2);
 	patchList1.emplace_back(expgoldName1);
 	patchList2.emplace_back(expgoldName2);
 	patchList1.emplace_back(itemspellsName1);
@@ -783,10 +853,11 @@ HWND toolGenerator(char* text, HWND hWnd, HWND hText) {
 void initialiseGeneralWindows(HWND hWnd) {
 	encounters = CreateWindow(L"BUTTON", L"Half encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	expgold = CreateWindow(L"BUTTON", L"Double exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items and spells", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.53), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
-	monsters = CreateWindow(L"BUTTON", L"Rebalanced monsters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.61), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
-	stats = CreateWindow(L"BUTTON", L"Rebalanced party stats", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.69), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
+	arena = CreateWindow(L"BUTTON", L"Rebalanced battle arena", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.45), 175, 25, hWnd, (HMENU)9002, hInst, NULL);
+	expgold = CreateWindow(L"BUTTON", L"Double exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items and spells", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.61), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
+	monsters = CreateWindow(L"BUTTON", L"Rebalanced monsters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.69), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
+	stats = CreateWindow(L"BUTTON", L"Rebalanced party stats", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.77), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
 	script = CreateWindow(L"BUTTON", L"Retranslated script", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.75), (int)(winY * 0.45), 115, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
@@ -804,14 +875,13 @@ void tooltipTextMaker(HWND hWnd) {
 		"on encounter drops.";
 	HWND tt_encounters = toolGenerator(text_encounters, hWnd, encounters);
 	char text_fast[] =
-		"Text scrolls instantly.\n"
-		"WARNING!! This has a history of crashing\n"
-		"scripted scenes. Use at your own risk.";
+		"Text scrolls instantly.";
 	HWND tt_fast = toolGenerator(text_fast, hWnd, fasttext);
 	char text_expgold[] =
-		"Doubles rewards from battle. This is\n"
-		"recommended with the half encounter patch\n"
-		"to keep a consistent level curve with the game.";
+		"Increases rewards from battle by 50%.\n"
+		"This is recommended with the half encounter\n"
+		"patch to keep a consistent level curve with\n"
+		"the game.";
 	HWND tt_expgold = toolGenerator(text_expgold, hWnd, expgold);
 	char text_itemspells[] =
 		"Spells changed to rebalance the party as well\n"
@@ -837,6 +907,17 @@ void tooltipTextMaker(HWND hWnd) {
 		"in important scenes.\n"
 		"This process may take a while.";
 	HWND tt_script = toolGenerator(text_script, hWnd, script);
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+}
+=======
+	char text_arena[] =
+		"Rebalances the gears in the arena. Please\n"
+		"refer to the interactive tutorial for\n"
+		"instructions.";
+	HWND tt_arena = toolGenerator(text_arena, hWnd, arena);
+=======
+>>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
 	char text_all[] =
 		"Selects all patches.";
 	HWND tt_all = toolGenerator(text_all, hWnd, all);
@@ -935,6 +1016,10 @@ void miscButtonCustomiser(HWND hWnd) {
 void removeGeneralButtons() {
 	ShowWindow(encounters, SW_HIDE);
 	ShowWindow(fasttext, SW_HIDE);
+<<<<<<< HEAD
+	ShowWindow(arena, SW_HIDE);
+=======
+>>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
 	ShowWindow(expgold, SW_HIDE);
 	ShowWindow(itemspells, SW_HIDE);
 	ShowWindow(monsters, SW_HIDE);
@@ -1037,3 +1122,7 @@ BOOL ParseALargeFile(HWND hWnd, LPTSTR lpszFileName)
 }
 
 
+<<<<<<< HEAD
+>>>>>>> Stashed changes
+=======
+>>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
