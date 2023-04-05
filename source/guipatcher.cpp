@@ -266,9 +266,12 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			else {
 				p_stats = false;
 			}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 			LRESULT arenaticked = SendMessage(arena, BM_GETCHECK, NULL, NULL);
 			if (arenaticked == BST_CHECKED) {
 				p_arena = true;
@@ -276,8 +279,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			else {
 				p_arena = false;
 			}
+<<<<<<< Updated upstream
 =======
 >>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
+=======
+>>>>>>> Stashed changes
 			LRESULT allticked = SendMessage(all, BM_GETCHECK, NULL, NULL);
 			if (allticked == BST_CHECKED) {
 				p_script = true;
@@ -287,10 +293,14 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				p_items_spells = true;
 				p_monsters = true;
 				p_stats = true;
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				p_arena = true;
 =======
 >>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
+=======
+				p_arena = true;
+>>>>>>> Stashed changes
 			}
 			LRESULT easyticked = SendMessage(easy, BM_GETCHECK, NULL, NULL);
 			if (easyticked == BST_CHECKED) {
@@ -302,11 +312,15 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				p_items_spells = true;
 				p_monsters = true;
 				p_stats = true;
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				p_arena = true;
 			}
 >>>>>>> Stashed changes
 =======
+=======
+				p_arena = true;
+>>>>>>> Stashed changes
 			}
 >>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
 			patchBoxLock();
@@ -693,10 +707,14 @@ void initialiseGlobalButtonList() {
 void initialiseGeneralButtonList() {
 	generalWindList.emplace_back(encounters);
 	generalWindList.emplace_back(fasttext);
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 	generalWindList.emplace_back(arena);
 =======
 >>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
+=======
+	generalWindList.emplace_back(arena);
+>>>>>>> Stashed changes
 	generalWindList.emplace_back(expgold);
 	generalWindList.emplace_back(itemspells);
 	generalWindList.emplace_back(monsters);
@@ -907,17 +925,23 @@ void tooltipTextMaker(HWND hWnd) {
 		"in important scenes.\n"
 		"This process may take a while.";
 	HWND tt_script = toolGenerator(text_script, hWnd, script);
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 }
 =======
+=======
+>>>>>>> Stashed changes
 	char text_arena[] =
 		"Rebalances the gears in the arena. Please\n"
 		"refer to the interactive tutorial for\n"
 		"instructions.";
 	HWND tt_arena = toolGenerator(text_arena, hWnd, arena);
+<<<<<<< Updated upstream
 =======
 >>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
+=======
+>>>>>>> Stashed changes
 	char text_all[] =
 		"Selects all patches.";
 	HWND tt_all = toolGenerator(text_all, hWnd, all);
@@ -1016,10 +1040,14 @@ void miscButtonCustomiser(HWND hWnd) {
 void removeGeneralButtons() {
 	ShowWindow(encounters, SW_HIDE);
 	ShowWindow(fasttext, SW_HIDE);
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 	ShowWindow(arena, SW_HIDE);
 =======
 >>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
+=======
+	ShowWindow(arena, SW_HIDE);
+>>>>>>> Stashed changes
 	ShowWindow(expgold, SW_HIDE);
 	ShowWindow(itemspells, SW_HIDE);
 	ShowWindow(monsters, SW_HIDE);

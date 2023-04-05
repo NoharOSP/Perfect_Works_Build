@@ -47,10 +47,14 @@ bool p_items_spells = false;
 bool p_monsters = false;
 bool p_script = false;
 bool p_stats = false;
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 bool p_arena = false;
 =======
 >>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
+=======
+bool p_arena = false;
+>>>>>>> Stashed changes
 bool patchPathValid = false;
 std::string home = "";
 std::string path1 = "";
@@ -70,11 +74,16 @@ std::string scriptName1 = "";
 std::string scriptName2 = "";
 std::string statName1 = "";
 std::string statName2 = "";
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 std::string arenaName1 = "";
 std::string arenaName2 = "";
 =======
 >>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
+=======
+std::string arenaName1 = "";
+std::string arenaName2 = "";
+>>>>>>> Stashed changes
 std::vector<HWND> globalWindList;
 std::vector<HWND> generalWindList;
 std::vector<HWND> miscWindList;
@@ -88,10 +97,14 @@ HWND aboutbutton;
 HWND patchbutton;
 HWND encounters;
 HWND fasttext;
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 HWND arena;
 =======
 >>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
+=======
+HWND arena;
+>>>>>>> Stashed changes
 HWND expgold;
 HWND itemspells;
 HWND monsters;
