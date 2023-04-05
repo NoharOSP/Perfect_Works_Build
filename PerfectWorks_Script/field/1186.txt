@@ -1017,97 +1017,102 @@ Citan
 "Let us make haste!<Delay 10>
 Otherwise the Tamuz will
 be destroyed by Wels!"<Close><End of Block>
-<TextBlock 169 w:50 h:4>
+<TextBlock 169 w:44 h:4>
 Jessie
-"What about the Church?
-They've completely
-devastated themselves!<New>
-That mob just goes from
-bad to worse!"<Close><End of Block>
-<TextBlock 170 w:52 h:4>
+"Well, the Church is
+totally done for this
+time.<New>
+Still a total mess,
+that mob."<Close><End of Block>
+<TextBlock 170 w:48 h:4>
 Citan
 "Do you not think it is
-about time you told your
-son the truth, old friend?<New>
+about time you told the
+full story, Jesiah?<New>
 You were not just
-wandering around drinking
-and picking fights, were
-you?<New>
-I am sure he wants to
+wandering around
+drinking and picking
+fights, were you?<New>
+I am sure Billy wants to
 know what you have been
-up to...<Delay 10>
-Is that right, Billy?"<Close><End of Block>
-<TextBlock 171 w:52 h:4>
+up to, eh?"<Close><End of Block>
+<TextBlock 171 w:48 h:4>
 Citan
 "Do you not think it is
-about time you told your
-son the truth, old friend?<New>
+about time you told the
+full story, Jesiah?<New>
 You were not just
-wandering around drinking
-and picking fights, were
-you?<New>
-I am sure he wants to
+wandering around
+drinking and picking
+fights, were you?<New>
+I am sure Billy wants to
 know what you have been
-up to...<Delay 10>
-Is that right, Billy?"<Close><End of Block>
+up to, eh?"<Close><End of Block>
 <TextBlock 172 w:52 h:4>
 Billy
 "Yes, it would certainly
 make me feel a lot better.<New>
-I now know my dad was
-worried about me the whole
-time, but I haven't worked
-out my feelings yet..."<Close><End of Block>
-<TextBlock 173 w:38 h:2>
+I'll accept for now that
+he was only looking out
+for me, but...<New>
+I'm still trying to sort
+out my feelings about
+getting pushed around
+by my dad."<Close><End of Block>
+<TextBlock 173 w:36 h:2>
 Jessie
-"What do you mean?"<Close><End of Block>
-<TextBlock 174 w:54 h:4>
+"What do you mean,
+'for now'?"<Close><End of Block>
+<TextBlock 174 w:48 h:4>
 Billy
-"Well I'm glad Prim can
-speak now, but she only
-calls out for her father...<New>
-But I am the one who has
-been taking care of her
+"I'm glad Prim can speak
+now, but she only calls
+out for her father...<New>
+despite me being the one
+who has looked after her
 all this time...<Delay 10>
-What's wrong with her...?"<Close><End of Block>
+What's that about...?"<Close><End of Block>
 <TextBlock 175 w:54 h:4>
 Citan
-"Calm down,<Delay 10> Billy...<Delay 10>
+"Ahh,<Delay 10> Billy...<Delay 10>
 I am sure she is just
 being shy.<New>
-She will start calling out
-for you soon.<Delay 10> Why, my own
-daughter does not even call
-out her father's name!"<Close><End of Block>
+Soon she will start calling
+out for you, too.<Delay 10> Why, even
+my own daughter does not
+call out for me!"<Close><End of Block>
 <TextBlock 176 w:42 h:4>
 Citan
-"So, old friend...<Delay 10>
-Why were you working
-alone all that time?"<Close><End of Block>
+"So, old friend...<New>
+For what purpose have
+you been acting alone
+all this time?"<Close><End of Block>
 <TextBlock 177 w:54 h:4>
 Citan
-"Calm down,<Delay 10> Billy....<Delay 10>
+"Ahh,<Delay 10> Billy...<Delay 10>
 I am sure she is just
 being shy.<New>
-She will start calling out
-for you soon.<Delay 10> Why, my own
-daughter does not even call
-out her father's name!"<Close><End of Block>
+Soon she will start calling
+out for you, too.<Delay 10> Why, even
+my own daughter does not
+call out for me!"<Close><End of Block>
 <TextBlock 178 w:42 h:4>
 Citan
-"So, old friend...<Delay 10>
-Why were you working
-alone all that time?"<Close><End of Block>
+"So, old friend...<New>
+For what purpose have
+you been acting alone
+all this time?"<Close><End of Block>
 <TextBlock 179 w:52 h:4>
 Jessie
-"It couldn't be helped...<Delay 10>
-Anyway, I'll probably need
-your help from here on..."<Close><End of Block>
-<TextBlock 180 w:54 h:4>
+"Tch...<Delay 10> Fine. I'm probably
+gonna need your help from
+here on, anyway..."<Close><End of Block>
+<TextBlock 180 w:52 h:4>
 Jessie
-"Okay, I'll tell you more.<Delay 10>
-Let's go to the Gun Room...<Delay 10>
-to get something to drink."<Close><End of Block>
+"Okay, I'll tell you more.<New>
+But I ain't doin' it
+sober, so let's go to
+the Gun Room."<Close><End of Block>
 <TextBlock 181 w:32 h:2>
 Fei
 "That <Delay 10>can't be!"<Close><End of Block>

@@ -117,12 +117,12 @@ carbon freezing, tomorrow.<Close><End of Block>
 <TextBlock 18 w:62 h:4>
 That which the Gazel Ministry
 of Solaris desperately seeks...
-is the 12 Anima Vessels created
-by god's wisdom.<New>
+is the twelve Anima Vessels
+created by God's wisdom.<New>
 The merging of an Anima Vessel
 and a Gear can produce an 
 Omnigear...<New>
-But, the subjects must be in
+But the subjects must be in
 suitable synchronization or
 else the transformation will
 not occur.<New>
@@ -136,14 +136,14 @@ but, to no avail...<Close><End of Block>
 <TextBlock 19 w:58 h:4>
 The power of the Omnigears
 was so great that they could
-even hold back Diabolos'
-collapse 500 years ago.<New>
+even hold back the Diabolos
+Collapse 500 years ago.<New>
 If any more of these fall
 into the hands of the
 enemy...<New>
 Our future and even those
 of the land dwellers will
-be...!!<New>
+be<-->!!<New>
 I implore you, land dwellers!
 We require your assistance.<New>
 Shevat must collect the
@@ -152,12 +152,12 @@ by any means necessary...!<Close><End of Block>
 <TextBlock 20 w:48 h:3>
 Hmhmm...<Delay 20>
 So the Anima Vessels were
-created by god's wisdom.<New>
+created by God's wisdom.<New>
 I wonder if that is
 truly the case...<Close><End of Block>
 <TextBlock 21 w:50 h:3>
-All in all, that unit was
-meant to merge with
+If anything, those units
+are for merging with
 something inorganic.<New>
 That would be the proper
 assumption...<Close><End of Block>
@@ -165,10 +165,10 @@ assumption...<Close><End of Block>
 It is foolish of humans
 chu try chu depend on
 such things...<Close><End of Block>
-<TextBlock 23 w:52 h:2>
-Oh my, I've said chu much.<Delay 20>
-Forget what I said.<Close><End of Block>
-<TextBlock 24 w:54 h:3>
-Uh, and, yeah...the vessel,
-vessel...<Delay 20> I wonder where the
-little Anima Vessel went...<Close><Close><End of Block>
+<TextBlock 23 w:50 h:2>
+Oh, I'm just mumbling to
+myself.<Delay 20> Pay me no heed.<Close><End of Block>
+<TextBlock 24 w:48 h:3>
+Hmmm...Vessel, Vessel...
+Where did you go chu,
+little Anima Vessel?<Close><Close><End of Block>

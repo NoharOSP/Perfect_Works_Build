@@ -1,11 +1,12 @@
-<TextBlock 1 w:50 h:3>
+<TextBlock 1 w:44 h:3>
 Fei
-"Can't we go through the 
-door down below?"<Close><End of Block>
-<TextBlock 2 w:50 h:3>
+"Can't we go through
+that door down below?"<Close><End of Block>
+<TextBlock 2 w:44 h:4>
 Fei
-"Isn't it controlled by 
-that room we just found?"<Close><End of Block>
+"Is it controlled from
+the room through that
+door back there?"<Close><End of Block>
 <TextBlock 3 w:48 h:3>
 Fei
 "You are...<Delay 10>

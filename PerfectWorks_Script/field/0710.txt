@@ -2,6 +2,6 @@
 Draw the sword?
     Yes
     No<Close><End of Block>
-<TextBlock 2 w:50 h:2>
+<TextBlock 2 w:48 h:2>
  
- Received 'Yamato Sword'<Close><Close><End of Block>
+ Received Yamato Sword!<Close><Close><End of Block>

@@ -869,35 +869,33 @@ one night..."<Close><End of Block>
 <TextBlock 127 w:10 h:2>
 Elly
 "..."<Close><End of Block>
-<TextBlock 128 w:54 h:4>
+<TextBlock 128 w:52 h:4>
 Jessie
-"When I was in Solaris, I
-found out about the secret
-plan...<New>
-That was the 'Malakh' (M)
-Plan.<Delay 20>
-And it was done under the
-command of Karellen...<New>
+"When I was in Solaris,
+I learned of the existence
+of a top-secret plan<New>
+directed by Karellen.
+That was the M,<Delay 5>
+or 'Malakh',<Delay 5> Project.<New>
 In order to proceed with
 the plan, many Lambs were
-gathered by the Church,
+gathered by the Church
 to become guinea pigs.<New>
-Or I should say, to become
-Wels..."<Close><End of Block>
-<TextBlock 129 w:54 h:4>
+Or I should say, to
+become Wels..."<Close><End of Block>
+<TextBlock 129 w:50 h:4>
 Jessie
-"Since I was disgusted with
-Solaris' methods, I decided
-to investigate it further.<New>
-I found out that the main
-scientist central to the M
-Plan moved the true facts
-about it into a test-Gear.<New>
-Then he let that test-Gear
-escape with his daughter,<Delay 5>
-so that the truth would
-not be discovered...<New>
-And that,<Delay 5> I'm afraid,<Delay 5> was
+"Disgusted with Solaris'
+methods, I decided to
+investigate further.<New>
+I found out that a
+scientist central to
+the M Project transferred
+the true facts about it<New>
+into a prototype Gear,
+and then had it escape
+along with his daughter.<New>
+But that,<Delay 5> I'm afraid,<Delay 5> was
 the last information that
 I was able to obtain..."<Close><End of Block>
 <TextBlock 130 w:48 h:4>
@@ -906,41 +904,40 @@ Jessie
 out, I came down to the
 surface world...<New>
 And this is where I hid,
-along with my wife,
-Racquel, and son Billy.<New>
+along with Billy and my
+wife, Racquel.<New>
 I've been looking for
 that Gear and the girl
 ever since."<Close><End of Block>
 <TextBlock 131 w:52 h:4>
 Jessie
-"Finally,<Delay 10> I found out that
-the scientist's daughter
-and Gear may be in Shevat.<New>
-All very well, except now
-I don't know how in blazes
-to get there, or even how
-to contact the place.<New>
-Well, Shevat is protected
-by a strong barrier that
-even Solaris can't do
-anything about...<New>
-So I guess you can say
-it can't be helped...<Delay 10>
-It's just my luck!"<Close><End of Block>
+"And so,<Delay 10> I heard that the
+scientist's daughter and
+the Gear may be in Shevat.<New>
+All very well, except I
+don't know how in blazes
+to get to this Shevat, or
+how to make contact.<New>
+The place is protected by
+a strong barrier that even
+Solaris can't do anything
+about, so...<New>
+Just my luck..."<Close><End of Block>
 <TextBlock 132 w:32 h:3>
 That girl's name
 wouldn't happen
-to be Maria...?<Close><End of Block>
+to be<Delay 10> Maria...?<Close><End of Block>
 <TextBlock 133 w:50 h:4>
 Billy
 "Oh, are you two alright?<Delay 10>
 Shouldn't you get some
 more rest...?"<Close><End of Block>
-<TextBlock 134 w:42 h:4>
+<TextBlock 134 w:32 h:5>
 Shevat Agent
-"Yes, I can stand and
-can even walk now...
-Thank you."<Close><End of Block>
+"It's fine <--> 
+thankfully I can
+stand and walk
+again at last."<Close><End of Block>
 <TextBlock 135 w:38 h:2>
 Fei
 "I'm alright, too."<Close><End of Block>
@@ -949,24 +946,24 @@ Jessie
 "Maria, eh...?<Delay 10> Hmm...<Delay 10>
 If I remember right, her
 father's name was Nikola?"<Close><End of Block>
-<TextBlock 137 w:52 h:4>
+<TextBlock 137 w:50 h:4>
 Shevat Agent
-"I don't know that much...<Delay 10>
+"Well, that I don't know.<Delay 10>
 But I have heard rumors
 about a girl and a Gear."<Close><End of Block>
-<TextBlock 138 w:52 h:4>
+<TextBlock 138 w:38 h:4>
 Jessie
-"Hmm,<Delay 10> it's got to be them.<Delay 10>
-So that huge Gear is in
-Shevat then!"<Close><End of Block>
+"Hmm,<Delay 10> it's got to
+be them.<Delay 10> The huge
+Gear is in Shevat!"<Close><End of Block>
 <TextBlock 139 w:52 h:4>
 Jessie
-"So then...<Delay 10> how can we get
+"So, then,<Delay 10> how can we get
 to this Shevat? Is there a
 way to contact the place?"<Close><End of Block>
 <TextBlock 140 w:54 h:4>
-Shevat Agent 
-"Unfortunately since I was
+Shevat Agent
+"Unfortunately, since I was
 taken captive I have no way
 of contacting them either."<Close><End of Block>
 <TextBlock 141 w:16 h:1>
@@ -975,22 +972,20 @@ I see...<Close><End of Block>
 !!<Opcode 2 30><Close><End of Block>
 <TextBlock 143 w:58 h:5>
 Shevat Agent
-"There just may be a way...!
+"There just may be a way!
 Originally, Shevat was
-situated on top of
+situated at the top of
 Babel Tower.<New>
-They say there is a
-communication facility to
-contact Shevat's native
-country on top of the tower.<Delay 10> 
-If only it still exists..."<Close><End of Block>
-<TextBlock 144 w:44 h:4>
+They say there is a facility
+at the top of the tower for
+communicating with the
+Shevat homeland.<Delay 10> If that
+still exists today, then..."<Close><End of Block>
+<TextBlock 144 w:46 h:4>
 Citan
-"Hmm...<New>
-There is a good
-possibility the
-facility may have
-been destroyed...<New>
+"Hmm...<Delay 10> There is a good
+possibility the facility
+has been destroyed...<New>
 Especially when you
 consider the fact
 that the tower was
@@ -1005,69 +1000,74 @@ Citan
 realistic."<Close><End of Block>
 <TextBlock 147 w:6 h:1>
 ...<Close><End of Block>
-<TextBlock 148 w:54 h:4>
+<TextBlock 148 w:52 h:4>
 Bart
 "I guess we have no choice
-but try and go there.<New>
-As long as the gate exists,
-we can't escape from
-Solaris' influence anyway.<New>
-In other words, even if we
-recover Av from Shakhan,
-it wouldn't immediatley be
-a happy ending."<Close><End of Block>
-<TextBlock 149 w:42 h:4>
+but try to go there.<New>
+At any rate, as long
+as the Gate exists we
+can't break free from
+Solaris' influence.<New>
+I mean, even if we get Av
+back from Shakhan it's not
+like that would be the
+grand finale."<Close><End of Block>
+<TextBlock 149 w:44 h:4>
 Billy
 "I think we have no
 choice but to try
-and go there...<New>
-Either way, as long
-as the gate exists we
-can't escape from the
-shadow of Solaris."<Close><End of Block>
-<TextBlock 150 w:46 h:3>
+to go there...<New>
+At any rate, as long
+as the Gate exists we
+can't break free from
+Solaris' influence..."<Close><End of Block>
+<TextBlock 150 w:44 h:3>
 Citan
-"Their 'secret plan'
+"Their mystery plan
 bothers me, too...<New>
-The real secret is that
-they are using humans
-gathered from earth..."<Close><End of Block>
-<TextBlock 151 w:60 h:4>
+A covert project using
+people gathered from
+the surface...?"<Close><End of Block>
+<TextBlock 151 w:50 h:4>
 Fei
-"I don't quite get this<Delay 5>
-secret plan<Delay 5> and <Delay 5>the Church's
-involvement<Delay 5> and so on...<New>
+"This<Delay 5> secret plan<Delay 5> and <Delay 5>the
+Church's involvement<Delay 5> and
+so on...<New>
 What in the hell does
-Solaris think us surface
+Solaris think we surface-
 dwelling humans are!?"<Close><End of Block>
-<TextBlock 152 w:58 h:4>
+<TextBlock 152 w:44 h:4>
 Fei
-"...Sorry.<Delay 10>
-I totally forgot that Solaris
-was your country, Elly..."<Close><End of Block>
+"...Ah, sorry.<New>
+I totally forgot this
+is the country of your
+people we're talking
+about, Elly..."<Close><End of Block>
 <TextBlock 153 w:54 h:4>
 Elly
-"What my country's doing...<Delay 10>
-has nothing to do with me.<New>
-I myself thought something
-was wrong there, and that's
-why I came here...<Delay 10>
-So, don't worry about me.<Close><End of Block>
-<TextBlock 154 w:54 h:4>
+"My country is what it is,<Delay 10>
+but I am who I am.<New>
+I'm here by choice, because
+I myself felt something
+wasn't right...<Delay 10>
+So don't worry about me."<Close><End of Block>
+<TextBlock 154 w:52 h:4>
 Fei
-"We've got nothing to lose,
-so let's try to go there.<New>
-We need to find the truth
-about those documents found
-in the Church HQ and what
-Billy's father said.<New>
-And I must go to Shevat
-too for my own personal
-reasons anyway."<Close><End of Block>
-<TextBlock 155 w:52 h:4>
+"Well, there's nothing
+else for it <--> let's try
+to go there.<New>
+We need to find out the
+truth <--> about the records
+we found in the Church HQ,<New>
+and about what Billy's
+father told us.<New>
+Plus...
+I must go to Shevat for
+my own personal reasons."<Close><End of Block>
+<TextBlock 155 w:48 h:4>
 Fei
-"No time like the present,
-huh!?<Delay 10> Let's go to Babel
-Tower right away!"<Close><End of Block>
+"No time like the
+present!!<Delay 10> Let's head for
+Babel Tower right away!"<Close><End of Block>
 <TextBlock 156 w:2 h:1>
  <Close><Close><End of Block>

@@ -2,7 +2,7 @@
 Of course, business is
 better when there's peace.<Close><End of Block>
 <TextBlock 2 w:50 h:3>
-You said it. 
+You said it.
 The army returned all the
 stuff they confiscated.<Close><End of Block>
 <TextBlock 3 w:46 h:1>
@@ -24,7 +24,7 @@ is the old folks job.<Close><End of Block>
 Grandpa, hurry, hurry!
 We gotta buy the stuff
 for the welcome party
-before dad gets back.<Close><End of Block>
+before Dad gets back.<Close><End of Block>
 <TextBlock 8 w:50 h:3>
 Grandma, hurry, hurry!
 Let's finish shopping and
@@ -62,26 +62,26 @@ rule in Av.<Close><End of Block>
 <TextBlock 15 w:46 h:4>
 Now I'm not so worried
 about my kids and
-grandkids. I can relax 
+grandkids. I can relax
 in peace.<Close><End of Block>
 <TextBlock 16 w:42 h:4>
-Now that the war is 
-over there should be 
+Now that the war is
+over there should be
 lots of visitors. <Delay 50>
 I gotta be ready.<Close><End of Block>
 <TextBlock 17 w:52 h:4>
-It's great that Prince 
-Bartholomew returned, but 
-what's this Republic 
+It's great that Prince
+Bartholomew returned, but
+what's this Republic
 thing?<Close><End of Block>
 <TextBlock 18 w:44 h:2>
 Peace at last! Now we
 can live without fear.<Close><End of Block>
 <TextBlock 19 w:41 h:4>
-Meat, meat, mee<~>at!
-Get ya meat, me<~>eat!<Delay 30>
+Meat, meat, me~at!
+Get ya meat, me~at!<Delay 30>
 Hey buddy, you gotta
-eat lotsa me<~>at!<Close><End of Block>
+eat lotsa me~at!<Close><End of Block>
 <TextBlock 20 w:52 h:6>
 Hey buddy, want some meat?
 Everything is 70G.
@@ -119,7 +119,7 @@ You don't have enough money!<Close><End of Block>
 If you don't eat meat
 you'll get sick...<Close><End of Block>
 <TextBlock 30 w:50 h:3>
-Thanks for lending me 
+Thanks for lending me
 that money before.<New>
 My dad never came back
 but I still don't steal.<New>
@@ -130,19 +130,19 @@ So now I can give you
 back your money.
 A little at a time.<Close><End of Block>
 <TextBlock 31 w:36 h:2>
-Even without dad, 
+Even without Dad,
 we'll make it.<Close><End of Block>
 <TextBlock 32 w:46 h:3>
 Here's the first part.
 And I'll work real hard
 to pay back the rest.<Close><End of Block>
 <TextBlock 33 w:38 h:3>
-Sorry, I haven't 
-saved any money to 
+Sorry, I haven't
+saved any money to
 give back yet.<Close><End of Block>
 <TextBlock 34 w:52 h:3>
 I'll be here working hard,
-so stop by sometime and 
+so stop by sometime and
 buy some meat.<Close><End of Block>
 <TextBlock 35 w:36 h:1>
 You got 100G back.<Close><End of Block>
@@ -173,8 +173,8 @@ Received <Opcode 10 0>G.<Close><End of Block>
 Fruit that's kinda spicy
 Fruit that's kinda large
 Kinda hard to say
-Why it's so bizarre<New>
-Get your Bizfruit now<Opcode 2 100><Close><End of Block>
+why it's so bizarre<New>
+Get your Bizfruit now!<Opcode 2 100><Close><End of Block>
 <TextBlock 44 w:50 h:4>
 I used to sell Lahan
 radishes my mom grew.<Delay 50>
@@ -203,15 +203,15 @@ Thanks.<Close><End of Block>
 <TextBlock 50 w:22 h:1>
 Come again!<Close><End of Block>
 <TextBlock 51 w:50 h:3>
-Won't you buy just one? 
+Won't you buy just one?
 Mess with a veteran, and
 you might step on a mine.<Close><End of Block>
 <TextBlock 52 w:48 h:2>
 You hate bizarre things?
 ...Too bad.<Close><End of Block>
 <TextBlock 53 w:46 h:4>
-Bananas Bananas big
-Long bananas! <Delay 20>
+Bananas bananas big
+long bananas! <Delay 20>
 Good for body and soul!<Delay 20>
 Buy some bananas today!<Opcode 2 60><Close><End of Block>
 <TextBlock 54 w:40 h:3>
@@ -238,13 +238,13 @@ They're delicious!
     Buy some
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 59 w:44 h:5>
-OK, on special! 
-2 bunches for 16G.
+Okay, on special!
+Two bunches for 16G.
 How about it handsome?
     Buy some
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 60 w:46 h:2>
-Hey, you have too much 
+Hey, you have too much
 stuff. Come back again.<Close><End of Block>
 <TextBlock 61 w:36 h:2>
 Thanks!
@@ -255,8 +255,8 @@ Thanks!
 Come again.<Close><End of Block>
 <TextBlock 63 w:48 h:4>
 <Delay 50>Forgot your wallet?<Delay 50>
-Sorry, but I can't give 
-'em to you. Bring your 
+Sorry, but I can't give
+'em to you. Bring your
 wallet next time.<Close><End of Block>
 <TextBlock 64 w:44 h:4>
 Well...<Delay 30>
@@ -271,7 +271,7 @@ I'll make you a deal! <Opcode 2 100><Close><End of Block>
 Go away!<Opcode 2 80><Close><End of Block>
 <TextBlock 67 w:50 h:5>
 Delicious berries.
-You can't get Ariberries 
+You can't get Ariberries
 like these anywhere else.
 Grown with Av spring
 water, deep red berries.<Close><End of Block>
@@ -290,12 +290,12 @@ That's my lowest.
     Buy some
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 71 w:46 h:2>
-Hey, you've got too 
+Hey, you've got too
 much stuff. Come again.<Close><End of Block>
 <TextBlock 72 w:14 h:1>
 Thanks!<Close><End of Block>
-<TextBlock 73 w:16 h:1>
-Hey,You!<Close><End of Block>
+<TextBlock 73 w:18 h:1>
+Hey, you!<Close><End of Block>
 <TextBlock 74 w:40 h:3>
 Yes!
 They're really good.
@@ -303,14 +303,14 @@ Just try some.<Close><End of Block>
 <TextBlock 75 w:46 h:2>
 !? <Delay 50>No money?
 Stupid! Get outta here!<Close><End of Block>
-<TextBlock 76 w:44 h:2>
-Too bad, there really 
+<TextBlock 76 w:48 h:2>
+Too bad, they're really
 good. Maybe next time.<Close><End of Block>
 <TextBlock 77 w:52 h:4>
 Back home at last.<New>
 I like helping my wife out
-at home much better than
-giving orders on the 
+at home much more than
+giving orders on the
 battlefield.<Close><End of Block>
 <TextBlock 78 w:46 h:4>
 Shakhan
@@ -325,12 +325,12 @@ Margie
 Bartholomew!"<Close><End of Block>
 <TextBlock 80 w:44 h:4>
 Bartholomew
-"You coward! Stealing 
-Av wasn't enough 
+"You coward! Stealing
+Av wasn't enough
 for you, Margie too?<Close><End of Block>
 <TextBlock 81 w:48 h:4>
 Shakhan
-"What's that, pirate!? 
+"What's that, pirate!?
 I made this country what
 it is.<New>
 You just wandered around
@@ -358,7 +358,7 @@ Bartholomew
 This is gonna be tough!"<Close><End of Block>
 <TextBlock 87 w:44 h:3>
 Bartholomew
-"Now it's two on two! 
+"Now it's two on two!
 Let's go!"<Close><End of Block>
 <TextBlock 88 w:38 h:3>
 Shakhan
@@ -367,25 +367,25 @@ I'll kill you yet!"<Close><End of Block>
 <TextBlock 89 w:28 h:1>
 You're no fun!<Opcode 2 30><Close><End of Block>
 <TextBlock 90 w:30 h:2>
-Playing Margie 
+Playing Margie
 is no fun!<Close><End of Block>
 <TextBlock 91 w:44 h:2>
 Well? You lost at
-paper, rock, scissors.<Close><End of Block>
+rock-paper-scissors.<Close><End of Block>
 <TextBlock 92 w:38 h:2>
-No! I wanna 
+No! I wanna
 play the good part.<Close><End of Block>
 <TextBlock 93 w:46 h:3>
 Stop complaining.
-I don't wanna play the 
+I don't wanna play the
 bald coot's part.<Close><End of Block>
 <TextBlock 94 w:42 h:2>
-Let's play something 
+Let's play something
 else.<Close><End of Block>
 <TextBlock 95 w:22 h:1>
 Yeah, okay.<Close><End of Block>
 <TextBlock 96 w:32 h:2>
-Well, that's it 
+Well, that's it
 for today.<Close><End of Block>
 <TextBlock 97 w:42 h:3>
 Adults do whatever
@@ -398,15 +398,15 @@ Prince Bartholomew
 is so cool.
 Big and strong.<Close><End of Block>
 <TextBlock 99 w:44 h:3>
-Adults do whatever 
-they want. First they 
+Adults do whatever
+they want. First they
 said take out Kislev, <New>
-now they say let's be 
+now they say let's be
 friends.<Close><End of Block>
 <TextBlock 100 w:50 h:4>
 The Raider Boys broke up.
 Kislev's not the enemy
-anymore, now there's 
+anymore, now there's
 nothing to do.<Close><End of Block>
 <TextBlock 101 w:50 h:3>
 My mom told me to grow
@@ -415,7 +415,7 @@ Prince Bartholomew.<Close><End of Block>
 <TextBlock 102 w:50 h:4>
 The Raider Boys broke up.
 Kislev's not the enemy
-anymore, now there's 
+anymore, now there's
 nothing to do.<Close><End of Block>
 <TextBlock 103 w:42 h:1>
 I'm busy, so bug off!<Close><End of Block>
@@ -423,10 +423,10 @@ I'm busy, so bug off!<Close><End of Block>
 We protected the
 desert's peace.<Close><End of Block>
 <TextBlock 105 w:52 h:2>
-I wanna grow up now. 
+I wanna grow up now.
 I hate playin' dumb roles.<Close><End of Block>
 <TextBlock 106 w:34 h:2>
-We protected the 
+We protected the
 desert's peace.<Close><End of Block>
 <TextBlock 107 w:46 h:4>
 That's it for
@@ -442,17 +442,17 @@ Can you help me too?
     I'm busy<Close><End of Block>
 <TextBlock 110 w:48 h:4>
 Thanks
-The rule is you can't 
-hide in houses or where 
+The rule is you can't
+hide in houses or where
 you can't see.<Close><End of Block>
 <TextBlock 111 w:30 h:1>
 We're busy too!<Close><End of Block>
 <TextBlock 112 w:44 h:3>
-I don't play hide and 
-seek anymore. You 
+I don't play hide-and-
+seek anymore. You
 shouldn't play either!<Close><End of Block>
 <TextBlock 113 w:40 h:2>
-When you leave I'll 
+When you leave I'll
 hide somewhere.<Close><End of Block>
 <TextBlock 114 w:34 h:1>
 Ah, you found me.<Close><End of Block>
@@ -462,294 +462,294 @@ You wanna play too?
     Play
     No thanks<Close><End of Block>
 <TextBlock 116 w:42 h:3>
-When you leave I'll 
-hide, then you gotta 
+When you leave I'll
+hide, then you gotta
 find me.<Close><End of Block>
 <TextBlock 117 w:32 h:2>
-Sigh, I have no 
-confidence.<Close><End of Block>
+*Sigh*, I have
+no confidence.<Close><End of Block>
 <TextBlock 118 w:40 h:3>
 Good job. 
-Next time I'll hide 
+Next time I'll hide
 somewhere harder.<Close><End of Block>
 <TextBlock 119 w:46 h:2>
-You found me here too. 
+You found me here too.
 Next time is for real.<Close><End of Block>
 <TextBlock 120 w:52 h:4>
-I didn't think you'd 
-find me here. You're 
+I didn't think you'd
+find me here. You're
 good. You musta been the
 champ when you were a kid.<New>
-But, next time you
+But next time you
 won't find me.<Close><End of Block>
 <TextBlock 121 w:54 h:3>
 Crap! You found me here?
-Now for my secret weapon. 
+Now for my secret weapon.
 You'll never find me there!<Close><End of Block>
 <TextBlock 122 w:48 h:4>
 Again!
 How'd you find me?
-I quit hide and seek.
+I quit hide-and-seek.
 Here's my badge.<New>
 I don't need it anymore.<Close><End of Block>
 <TextBlock 123 w:40 h:2>
  
  Received <Opcode 4 20><Close><End of Block>
 <TextBlock 124 w:52 h:4>
-The 'Dragon Slaying Boxer'
+The Dragon-Slaying Boxer
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 125 w:52 h:4>
-The 'Dragon Slaying Youth'
+The Dragon-Slaying Youth
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 126 w:54 h:4>
-The 'Dragon Slaying Squire'
+The Dragon-Slaying Squire
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 127 w:56 h:4>
-The 'Dragon Slaying Slacker'
+The Dragon-Slaying Slacker
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 128 w:44 h:4>
-The 'Ponytailed Boxer'
+The Ponytailed Boxer
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 129 w:44 h:4>
-The 'Ponytailed Youth'
+The Ponytailed Youth
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
-<TextBlock 130 w:32 h:4>
-The 'Squire'
+<TextBlock 130 w:44 h:4>
+The Ponytailed Squire
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 131 w:48 h:4>
-The 'Ponytailed Slacker'
+The Ponytailed Slacker
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 132 w:42 h:4>
-The 'Wandering Boxer'
+The Wandering Boxer
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 133 w:42 h:4>
-The 'Wandering Youth'
+The Wandering Youth
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 134 w:44 h:4>
-The 'Wandering Squire'
+The Wandering Squire
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 135 w:46 h:4>
-The 'Wandering Slacker'
+The Wandering Slacker
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 136 w:38 h:4>
-The 'Beloved Boxer'
+The Beloved Boxer
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 137 w:38 h:4>
-The 'Beloved Youth'
+The Beloved Youth
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 138 w:40 h:4>
-The 'Beloved Squire'
+The Beloved Squire
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 139 w:42 h:4>
-The 'Beloved Slacker'
+The Beloved Slacker
 is here!<Delay 30>
 Ramsus, Shakhan,
 watch out!<Close><End of Block>
 <TextBlock 140 w:46 h:4>
 It's the
-'Dragon Slaying Boxer'!<Delay 30>
+Dragon-Slaying Boxer!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 141 w:46 h:4>
 It's the
-'Dragon Slaying Youth'!<Delay 30>
+Dragon-Slaying Youth!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 142 w:48 h:4>
 It's the
-'Dragon Slaying Squire'!<Delay 30>
+Dragon-Slaying Squire!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 143 w:50 h:4>
 It's the
-'Dragon Slaying Slacker'!<Delay 30>
+Dragon-Slaying Slacker!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 144 w:38 h:4>
 It's the
-'Ponytailed Boxer'!<Delay 30>
+Ponytailed Boxer!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 145 w:38 h:4>
 It's the
-'Ponytailed Youth'!<Delay 30>
+Ponytailed Youth!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 146 w:40 h:4>
 It's the
-'Ponytailed Squire'!<Delay 30>
+Ponytailed Squire!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 147 w:42 h:4>
 It's the
-'Ponytailed Slacker'!<Delay 30>
+Ponytailed Slacker!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 148 w:36 h:4>
 It's the
-'Wandering Boxer'!<Delay 30>
+Wandering Boxer!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 149 w:36 h:4>
 It's the
-'Wandering Youth'!<Delay 30>
+Wandering Youth!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 150 w:38 h:4>
 It's the
-'Wandering Squire'!<Delay 30>
+Wandering Squire!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 151 w:40 h:4>
 It's the
-'Wandering Slacker'!<Delay 30>
+Wandering Slacker!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 152 w:32 h:4>
 It's the
-'Beloved Boxer'!<Delay 30>
+Beloved Boxer!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 153 w:32 h:4>
 It's the
-'Beloved Youth'!<Delay 30>
+Beloved Youth!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 154 w:34 h:4>
 It's the
-'Beloved Squire'!<Delay 30>
+Beloved Squire!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 155 w:36 h:4>
 It's the
-'Beloved Slacker'!<Delay 30>
+Beloved Slacker!<Delay 30>
 Can I have your
 autograph?<Close><End of Block>
 <TextBlock 156 w:52 h:5>
 Hey, who's stronger?
-The 'Dragon Slaying Boxer'
+The Dragon-Slaying Boxer
 or Prince Bartholomew?
-    'Dragon Slaying Boxer'
+    Dragon-Slaying Boxer
     Prince Bartholomew<Close><End of Block>
 <TextBlock 157 w:52 h:5>
 Hey, who's stronger?
-The 'Dragon Slaying Youth'
+The Dragon-Slaying Youth
 or Prince Bartholomew?
-    'Dragon Slaying Youth'
+    Dragon-Slaying Youth
     Prince Bartholomew<Close><End of Block>
 <TextBlock 158 w:54 h:5>
 Hey, who's stronger?
-The 'Dragon Slaying Squire'
+The Dragon-Slaying Squire
 or Prince Bartholomew?
-    'Dragon Slaying Squire'
+    Dragon-Slaying Squire
     Prince Bartholomew<Close><End of Block>
 <TextBlock 159 w:56 h:5>
 Hey, who's stronger?
-The 'Dragon Slaying Slacker'
+The Dragon-Slaying Slacker
 or Prince Bartholomew?
-    'Dragon Slaying Slacker'
+    Dragon-Slaying Slacker
     Prince Bartholomew<Close><End of Block>
 <TextBlock 160 w:44 h:5>
 Hey, who's stronger?
-The 'Ponytailed Boxer'
+The Ponytailed Boxer
 or Prince Bartholomew?
-    'Ponytailed Boxer'
+    Ponytailed Boxer
     Prince Bartholomew<Close><End of Block>
 <TextBlock 161 w:44 h:5>
 Hey, who's stronger?
-The 'Ponytailed Youth'
+The Ponytailed Youth
 or Prince Bartholomew?
-    'Ponytailed Youth'
+    Ponytailed Youth
     Prince Bartholomew<Close><End of Block>
 <TextBlock 162 w:46 h:5>
 Hey, who's stronger?
-The 'Ponytailed Squire'
+The Ponytailed Squire
 or Prince Bartholomew?
-    'Ponytailed Squire'
+    Ponytailed Squire
     Prince Bartholomew<Close><End of Block>
 <TextBlock 163 w:48 h:5>
 Hey, who's stronger?
-The 'Ponytailed Slacker'
+The Ponytailed Slacker
 or Prince Bartholomew?
-    'Ponytailed Slacker'
+    Ponytailed Slacker
     Prince Bartholomew<Close><End of Block>
 <TextBlock 164 w:44 h:5>
 Hey, who's stronger?
-The 'Wandering Boxer'
+The Wandering Boxer
 or Prince Bartholomew?
-    'Wandering Boxer'
+    Wandering Boxer
     Prince Bartholomew<Close><End of Block>
 <TextBlock 165 w:44 h:5>
 Hey, who's stronger?
-The 'Wandering Youth'
+The Wandering Youth
 or Prince Bartholomew?
-    'Wandering Youth'
+    Wandering Youth
     Prince Bartholomew<Close><End of Block>
 <TextBlock 166 w:44 h:5>
 Hey, who's stronger?
-The 'Wandering Squire'
+The Wandering Squire
 or Prince Bartholomew?
-    'Wandering Squire'
+    Wandering Squire
     Prince Bartholomew<Close><End of Block>
 <TextBlock 167 w:46 h:5>
 Hey, who's stronger?
-The 'Wandering Slacker'
+The Wandering Slacker
 or Prince Bartholomew?
-    'Wandering Slacker'
+    Wandering Slacker
     Prince Bartholomew<Close><End of Block>
 <TextBlock 168 w:44 h:5>
 Hey, who's stronger?
-The 'Beloved Boxer'
+The Beloved Boxer
 or Prince Bartholomew?
-    'Beloved Boxer'
+    Beloved Boxer
     Prince Bartholomew<Close><End of Block>
 <TextBlock 169 w:44 h:5>
 Hey, who's stronger?
-The 'Beloved Youth'
+The Beloved Youth
 or Prince Bartholomew?
-    'Beloved Youth'
+    Beloved Youth
     Prince Bartholomew<Close><End of Block>
 <TextBlock 170 w:44 h:5>
 Hey, who's stronger?
-The 'Beloved Squire'
+The Beloved Squire
 or Prince Bartholomew?
-    'Beloved Squire'
+    Beloved Squire
     Prince Bartholomew<Close><End of Block>
 <TextBlock 171 w:44 h:5>
 Hey, who's stronger?
-The 'Beloved Slacker'
+The Beloved Slacker
 or Prince Bartholomew?
-    'Beloved Slacker'
+    Beloved Slacker
     Prince Bartholomew<Close><End of Block>
 <TextBlock 172 w:42 h:1>
 Yeah, I think so too.<Close><End of Block>
@@ -759,74 +759,74 @@ That's what my dad says.<Close><End of Block>
 <TextBlock 174 w:46 h:3>
 I gave a hide-and-seek
 badge to the
-'Dragon Slaying Boxer'.<Close><End of Block>
+Dragon-Slaying Boxer.<Close><End of Block>
 <TextBlock 175 w:46 h:3>
 I gave a hide-and-seek
 badge to the
-'Dragon Slaying Youth'.<Close><End of Block>
+Dragon-Slaying Youth.<Close><End of Block>
 <TextBlock 176 w:48 h:3>
 I gave a hide-and-seek
 badge to the
-'Dragon Slaying Squire'.<Close><End of Block>
+Dragon-Slaying Squire.<Close><End of Block>
 <TextBlock 177 w:50 h:3>
 I gave a hide-and-seek
 badge to the
-'Dragon Slaying Slacker'.<Close><End of Block>
+Dragon-Slaying Slacker.<Close><End of Block>
 <TextBlock 178 w:44 h:3>
 I gave a hide-and-seek
 badge to the
-'Ponytailed Boxer'.<Close><End of Block>
+Ponytailed Boxer.<Close><End of Block>
 <TextBlock 179 w:38 h:3>
 I gave a hide-and-
 seek badge to the
-'Ponytailed Youth'.<Close><End of Block>
+Ponytailed Youth.<Close><End of Block>
 <TextBlock 180 w:40 h:3>
 I gave a hide-and-
 seek badge to the
-'Ponytailed Squire'.<Close><End of Block>
+Ponytailed Squire.<Close><End of Block>
 <TextBlock 181 w:42 h:3>
 I gave a hide-and-
 seek badge to the
-'Ponytailed Slacker'.<Close><End of Block>
+Ponytailed Slacker.<Close><End of Block>
 <TextBlock 182 w:36 h:3>
 I gave a hide-and-
 seek badge to the
-'Wandering Boxer'.<Close><End of Block>
+Wandering Boxer.<Close><End of Block>
 <TextBlock 183 w:36 h:3>
 I gave a hide-and-
 seek badge to the
-'Wandering Youth'.<Close><End of Block>
+Wandering Youth.<Close><End of Block>
 <TextBlock 184 w:38 h:3>
 I gave a hide-and-
 seek badge to the
-'Wandering Squire'.<Close><End of Block>
+Wandering Squire.<Close><End of Block>
 <TextBlock 185 w:40 h:3>
 I gave a hide-and-
 seek badge to the
-'Wandering Slacker'.<Close><End of Block>
+Wandering Slacker.<Close><End of Block>
 <TextBlock 186 w:36 h:3>
 I gave a hide-and-
 seek badge to the
-'Beloved Boxer'.<Close><End of Block>
+Beloved Boxer.<Close><End of Block>
 <TextBlock 187 w:36 h:3>
 I gave a hide-and-
 seek badge to the
-'Beloved Youth'.<Close><End of Block>
+Beloved Youth.<Close><End of Block>
 <TextBlock 188 w:36 h:3>
 I gave a hide-and-
 seek badge to the
-'Beloved Squire'.<Close><End of Block>
+Beloved Squire.<Close><End of Block>
 <TextBlock 189 w:36 h:3>
 I gave a hide-and-
 seek badge to the
-'Beloved Slacker'.<Close><End of Block>
+Beloved Slacker.<Close><End of Block>
 <TextBlock 190 w:52 h:2>
 Oh, Prince Bartholomew!<Delay 30>
 Can I have your autograph?<Close><End of Block>
 <TextBlock 191 w:14 h:1>
 Thanks.<Close><End of Block>
 <TextBlock 192 w:30 h:2>
-The real thing 
+The real thing
 is so cool.<Close><End of Block>
 <TextBlock 193 w:16 h:1>
 Awesome.<Close><End of Block>
@@ -834,11 +834,11 @@ Awesome.<Close><End of Block>
 Thanks.
 This is great.<Close><End of Block>
 <TextBlock 195 w:26 h:2>
-I'm gonna be 
+I'm gonna be
 strong too.<Close><End of Block>
 <TextBlock 196 w:36 h:3>
-It's cool here. <Delay 40>
-Cool air blows up 
+It's cool here.<Delay 40>
+Cool air blows up
 from the grate.<Close><End of Block>
 <TextBlock 197 w:46 h:4>
 I got back from the

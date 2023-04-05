@@ -1,35 +1,38 @@
-<TextBlock 1 w:14 h:2>
+<TextBlock 1 w:22 h:2>
 Fei
-"Here?"<Close><End of Block>
-<TextBlock 2 w:40 h:2>
+"This one?"<Close><End of Block>
+<TextBlock 2 w:30 h:3>
 Fei
-"Hey! It's started!"<Close><End of Block>
+"Hey!
+It started up!"<Close><End of Block>
 <TextBlock 3 w:40 h:2>
 Fei
 "Alright. Let's go!"<Close><End of Block>
 <TextBlock 4 w:42 h:3>
 Fei
-"Hey! We're going out
-on the outer wall."<Close><End of Block>
-<TextBlock 5 w:40 h:3>
+"Whoa! We're emerging
+on the outer wall!"<Close><End of Block>
+<TextBlock 5 w:30 h:3>
 Fei
-"Where are we going 
-to climb to?"<Close><End of Block>
-<TextBlock 6 w:42 h:2>
+"Wow, how far
+does it climb?"<Close><End of Block>
+<TextBlock 6 w:24 h:3>
 Fei
-"A shot, from where?"<Opcode 2 20><Close><End of Block>
+"Gunfire?
+From where?"<Opcode 2 20><Close><End of Block>
 <TextBlock 7 w:38 h:4>
 Fei
-"Crap! The track's 
-gone. We're goin'
-outside!"<Close><End of Block>
+"Damn! The track's
+wrecked. Let's get
+out of this thing!"<Close><End of Block>
 <TextBlock 8 w:12 h:2>
 Fei
-"Wha?"<Close><End of Block>
-<TextBlock 9 w:50 h:3>
+"Huh?"<Close><End of Block>
+<TextBlock 9 w:38 h:4>
 Fei
-"Looks like the driver's 
-seat is next to it."<Close><End of Block>
+"Looks like the
+driver's seat is
+the next one over."<Close><End of Block>
 <TextBlock 10 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

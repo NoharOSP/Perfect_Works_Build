@@ -1,22 +1,23 @@
-<TextBlock 1 w:50 h:4>
+<TextBlock 1 w:44 h:4>
 Fei
-"This looks like some 
-kind of relay station 
-to the upper atmosphere."<Close><End of Block>
-<TextBlock 2 w:50 h:3>
+"It seems this relay
+station is used to get
+to the upper levels."<Close><End of Block>
+<TextBlock 2 w:44 h:4>
 Fei
-"If we go down, we may 
-not be able to get back."<Close><End of Block>
-<TextBlock 3 w:38 h:3>
+"If we went down there
+now, I don't think we
+could get back up..."<Close><End of Block>
+<TextBlock 3 w:36 h:3>
 Fei
-"Can we control it 
+"Do we control it
 from this room?"<Close><End of Block>
 <TextBlock 4 w:38 h:4>
 Fei
-"It looks like the 
-movement system is 
-still functional."<Close><End of Block>
+"The control system
+here still seems to
+be functional."<Close><End of Block>
 <TextBlock 5 w:46 h:3>
 Fei
-"Looks like we can get 
+"Looks like we can get
 in through here."<Close><Close><End of Block>

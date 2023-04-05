@@ -11,7 +11,7 @@ of his manic love for the game.<New>
 But now I see you've come to
 have a passion for RPS too!<Close><End of Block>
 <TextBlock 5 w:54 h:4>
-Sigh...<Delay 20> 
+*Sigh*...<Delay 20> 
 My husband's love for the
 rock-paper-scissors, or
 'RPS' game is ruining us...<New>
@@ -33,9 +33,9 @@ Uuuhh... I give up!
 It's my loss, Fei.<Delay 20>
 Here, as promised
 I'll give you this!<Close><End of Block>
-<TextBlock 8 w:54 h:2>
+<TextBlock 8 w:48 h:2>
 Fei received the
-'Mythical RPS Hero Badge'!!<New>
+mythical RPS Badge!!<New>
 Although, no one has any
 idea what use it has...<Close><End of Block>
 <TextBlock 9 w:48 h:4>

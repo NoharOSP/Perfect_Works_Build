@@ -86,25 +86,26 @@ Ramsus
 I won't allow them
 to escape!"<Close><End of Block>
 <TextBlock 20 w:50 h:4>
-We will take the boundary
-between Gates 1 and 2,
-it's the shortest way to
-Aquvy.<Close><End of Block>
+We will take the shortest
+route to Aquvy using the
+boundary between the
+first and second Gates.<Close><End of Block>
 <TextBlock 21 w:14 h:2>
 Ramsus
 "Fine."<Close><End of Block>
-<TextBlock 22 w:44 h:4>
+<TextBlock 22 w:44 h:5>
 Message from
 Cherubina:<New>
 'Dominia on board the
-Haishao. We will
-pursue the stolen
-aerial battleship'.<Close><End of Block>
+Haishao. Proceeding
+to pursue the aerial
+battleship that made
+the Gate-jump'.<Close><End of Block>
 <TextBlock 23 w:40 h:4>
-Dimensional 
-vibrations, level 8!
-A huge formation is 
-coming this way!<Close><End of Block>
+Dimensional tremors,
+magnitude 8!
+A huge structure is 
+moving this way!<Close><End of Block>
 <TextBlock 24 w:46 h:4>
 Myyah
 "Commander.<New>

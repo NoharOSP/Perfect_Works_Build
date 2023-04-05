@@ -149,14 +149,14 @@ the Vessels of Anima
 sleeping in Ignas<New>
 and supervision of
 the Lambs. But this<Delay 5>...<Close><End of Block>
-<TextBlock 27 w:40 h:4>
+<TextBlock 27 w:44 h:4>
 The Vessels can
 be collected at
 any time.<New>
 Moreover, it is
-confirmed that
-'he' was on board
-the stolen craft.<New>
+confirmed that 'he'
+was on board the craft
+that Gate-jumped.<New>
 That is likely why
 Ramsus gave chase?<Close><End of Block>
 <TextBlock 28 w:34 h:2>
@@ -170,13 +170,12 @@ of his neglect.<Close><End of Block>
 <TextBlock 30 w:40 h:4>
 According to the
 reports from the
-memory cubes...<New>
-there are several
+memory cubes...
+there are several<New>
 subjects surrounding
-'him'<New>
-that have the
-potential to
-become Animus.<Close><End of Block>
+'him' that have the
+potential to become
+Animus.<Close><End of Block>
 <TextBlock 31 w:28 h:4>
 M Project
 subjects,
@@ -406,131 +405,127 @@ same meaning.<Close><End of Block>
 That is so.
 Either way it
 is the same<Delay 5>...<Close><End of Block>
-<TextBlock 80 w:30 h:3>
-So you have 
-returned<Delay 5>
-...And<Delay 5>?<New>
-Did you find 
-what you 
-aimed to?<Close><End of Block>
-<TextBlock 81 w:48 h:4>
+<TextBlock 80 w:26 h:3>
+So you have
+returned<Delay 5>...
+And<Delay 5>?<New>
+Did you get
+what you were
+after?<Close><End of Block>
+<TextBlock 81 w:38 h:4>
 Karellen
-"Yes.<Delay 10><New>
-I have obtained<Delay 5> a colony
+"Yes.<Delay 10> I have
+obtained<Delay 5> the colony
 of nanomachines."<Close><End of Block>
-<TextBlock 82 w:24 h:1>
-Such lunacy.<Close><End of Block>
-<TextBlock 83 w:50 h:4>
-Beyond that,<Delay 5> is the
-M Project<Delay 10> proceeding
-smoothly?<New>
-We require more 
-perfect bodies 
-and servants.<Close><End of Block>
-<TextBlock 84 w:54 h:3>
-Overwhelming numbers
-of years have passed
-as this place is prepared.<New>
-We must not mistake the 
-direction of this 
-civilization we 
-are predicted to gain.<Close><End of Block>
-<TextBlock 85 w:36 h:2>
-It is for the 
-'mother's' sake
-that we exist.<Close><End of Block>
-<TextBlock 86 w:52 h:3>
+<TextBlock 82 w:20 h:2>
+How self-
+indulgent.<Close><End of Block>
+<TextBlock 83 w:38 h:3>
+More importantly,<Delay 5> I
+trust the M Project
+is progressing?<New>
+We require superior
+flesh, superior
+servants.<Close><End of Block>
+<TextBlock 84 w:52 h:3>
+It has taken far, far too
+long to get to this point.<New>
+We cannot afford to
+misjudge the timing
+of this civilization
+reaching its zenith.<Close><End of Block>
+<TextBlock 85 w:26 h:2>
+We exist<Delay 10> for
+our 'Mother'.<Close><End of Block>
+<TextBlock 86 w:50 h:4>
 Karellen
-"Hah.<New>
-The words of those who 
-once betrayed the mother
-who is their 'Creator'<New>
-in order to sustain their
-own egos, I see<Delay 5>...<Close><End of Block>
-<TextBlock 87 w:50 h:3>
-That is<Delay 5>...<Delay 5>a past,
-folly.<New>
-A matter from the time 
-when we were imprisoned 
-in the curse of flesh<Delay 5>...<Delay 5>
+"Hmph.<New>
+Can these be the words of
+the same individuals who
+once sold out that very
+Mother, their 'creator',<New>
+just to preserve their
+own egos<Delay 5>...?"<Close><End of Block>
+<TextBlock 87 w:50 h:4>
+That is<Delay 5>...<Delay 5>a past folly.<Delay 10>
+From a time when we were
+under the spell of the
+flesh...<New>
 It is different now.<Close><End of Block>
-<TextBlock 88 w:52 h:3>
+<TextBlock 88 w:52 h:4>
 Karellen
-"I will not take orders 
-from you.<New>
-You cannot have forgotten
-who revived you as data in
-that SOL-9000 after you
-lost your bodies.<New>
-Years that may seem an
-eternity to humans are
-the second of a blink
-to god.<Delay 10><New>
-There is no time for
-hesitation."<Close><End of Block>
-<TextBlock 89 w:40 h:3>
-...<Delay 5>He is 
-useless.<New>
-To allow them 
-contact with 
+"I do not take orders 
+from you.<Delay 10> You who lost
+that flesh so long ago...<New>
+Do not forget who
+resurrected you as data
+in the SOL-9000.<New>
+The years that feel like
+an eternity to humankind
+are but the blink of an
+eye to God.<New>
+There is nothing to fear."<Close><End of Block>
+<TextBlock 89 w:34 h:4>
+...<Delay 5>He is useless.<Delay 10>
+To allow them
+contact with
 Shevat...<Close><End of Block>
-<TextBlock 90 w:52 h:3>
-There should be a 
-'Vessel of Anima' 
+<TextBlock 90 w:46 h:4>
+There is meant to be
+a Vessel of Anima
 in Shevat<Delay 5>...<Delay 5><New>
-...If it is aligned
-before our preparations
-are put in order,<New>
-it will be a bit 
-troublesome.<Close><End of Block>
-<TextBlock 91 w:44 h:3>
-If we are incompatible
-with it, it is
-meaningless.<Close><End of Block>
-<TextBlock 92 w:32 h:2>
-Are we to 
-disregard
-Shevat, then?<Close><End of Block>
-<TextBlock 93 w:42 h:1>
-What about the 
-'Animus'?<Close><End of Block>
-<TextBlock 94 w:42 h:4>
+If it is aligned before
+our preparations are
+ready, it would be
+somewhat troublesome.<Close><End of Block>
+<TextBlock 91 w:46 h:3>
+If it is an unsuitable
+host type for us, it is
+of no significiance.<Close><End of Block>
+<TextBlock 92 w:34 h:3>
+We<Delay 5> obliterate it,
+and Shevat along
+with it?<Close><End of Block>
+<TextBlock 93 w:44 h:1>
+What about the Animus?<Close><End of Block>
+<TextBlock 94 w:36 h:4>
 There are others.<New>
-We must respond
-completely so that 
-this is not 
-repeated.<Close><End of Block>
-<TextBlock 95 w:46 h:3>
+This time we must
+plan thoroughly so
+as not to repeat
+our error.<Close><End of Block>
+<TextBlock 95 w:46 h:4>
 How will we deal with
-Shevat's Gate?<New>
-So long as it is 
-there, we cannot 
-invade.<Close><End of Block>
+Shevat's Gate?<Delay 10> As long
+as they have that,
+invasion is impossible.<Close><End of Block>
 <TextBlock 96 w:48 h:4>
-Why, simply compensate
-for the time distortion<New>
-with the Achtzehn's
-Gravity Cannon.<Close><End of Block>
+Why, it is simply a case
+of compensating for the
+spatial distortion with<New>
+Achtzehn's gravity
+cannon.<Close><End of Block>
 <TextBlock 97 w:36 h:2>
-Achtzehn?
-Is it operational?<Close><End of Block>
-<TextBlock 98 w:50 h:4>
-The re-education is 
-complete. It is ready.<New>
-The assembly of its 
-descent unit too is 
-complete.<Close><End of Block>
-<TextBlock 99 w:34 h:1>
-Its effect on the
-human body?<Close><End of Block>
-<TextBlock 100 w:46 h:3>
-The 71st descent unit
-which has completed
-adjustment<New>
-should have
-no problems.<Close><End of Block>
-<TextBlock 101 w:34 h:2>
-We look forward 
+Achtzehn?<Delay 10>
+We can deploy it?<Close><End of Block>
+<TextBlock 98 w:34 h:4>
+Re-education is
+complete.<Delay 5>
+It is ready.<New>
+The formation
+of a descent unit
+is also being
+finalized.<Close><End of Block>
+<TextBlock 99 w:38 h:3>
+What of the effects
+of the cannon on
+human bodies?<Close><End of Block>
+<TextBlock 100 w:48 h:3>
+Having been adjusted,
+the 71st Descent Unit
+should have no problems.<Close><End of Block>
+<TextBlock 101 w:30 h:2>
+We look forward
 to this.<Close><End of Block>
 <TextBlock 102 w:40 h:2>
 Allowing them contact

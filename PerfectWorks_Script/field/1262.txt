@@ -59,8 +59,8 @@ It'll cheer me up...!!<Close><End of Block>
 <TextBlock 12 w:46 h:2>
 As thanks I'll give you
 my dad's favorite book.<Close><End of Block>
-<TextBlock 13 w:42 h:2>
-Received the 'Church
-  Doctrine Book'.<Close><End of Block>
+<TextBlock 13 w:36 h:2>
+Received a Church
+ doctrine book.<Close><End of Block>
 <TextBlock 14 w:0 h:1>
 <Close><End of Block>

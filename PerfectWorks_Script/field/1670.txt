@@ -35,7 +35,7 @@ go see it!
     Please
     No thanks<Close><End of Block>
 <TextBlock 8 w:56 h:1>
-<Opcode 1 255>Received Dedication tickets.<Opcode 2 60><Close><End of Block>
+<Opcode 1 255>Received Dedication Tickets.<Opcode 2 60><Close><End of Block>
 <TextBlock 9 w:48 h:4>
 Forget the money. Just
 hurry or you'll miss it.<Delay 10>

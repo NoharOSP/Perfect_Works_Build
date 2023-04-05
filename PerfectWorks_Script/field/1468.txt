@@ -114,9 +114,9 @@ Nothing has changed here...<Delay 60>
 Truly important things
 can't be taken away by
 anyone...<Close><End of Block>
-<TextBlock 24 w:36 h:2>
-Dark Rock has been
-received already.<Close><End of Block>
+<TextBlock 24 w:34 h:2>
+Already received
+Dark Rock.<Close><End of Block>
 <TextBlock 25 w:36 h:1>
 Lost Spider Web...<Close><End of Block>
 <TextBlock 26 w:38 h:1>

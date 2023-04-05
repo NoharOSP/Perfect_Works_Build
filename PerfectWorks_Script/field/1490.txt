@@ -8,49 +8,48 @@ your deaths!!"<Close><End of Block>
 <TextBlock 2 w:30 h:3>
 Nikola
 "<Seibzehn>!!<Delay 20>
-Is that Maria?"<Close><End of Block>
+Is that<Delay 30> Maria?"<Close><End of Block>
 <TextBlock 3 w:36 h:4>
 Maria
 "...
-It's true that I'm
+I am indeed
 Maria Balthasar.<New>
-But, you...<Delay 40>
+But you...<Delay 40>
 who are you...?"<Close><End of Block>
-<TextBlock 4 w:40 h:3>
+<TextBlock 4 w:44 h:3>
 Nikola
-"Of course it's me, 
-Nikola!<New>
+"Why, it's me, Nikola!<New>
 Look at this, Maria.
 The results of my 
 research!"<Close><End of Block>
 <TextBlock 5 w:48 h:3>
 Nikola
 "This huge, powerful,
-forever shining body!<New>
-There'll be no aging and
-death.<Delay 20> I was reborn as
-a new breed."<Close><End of Block>
-<TextBlock 6 w:52 h:4>
+forever-shining body!<New>
+No more aging;<Delay 10> no death.<Delay 20>
+I've been reborn as a
+new breed."<Close><End of Block>
+<TextBlock 6 w:48 h:4>
 Maria
 "...<Delay 30>
-I loved my father in those
-days when he was human...<New>
+I loved my father<Delay 10> when
+he existed as a man...<New>
 His warm smile...<Delay 20>
-I wanted him to be<Delay 20> by my
+I...<Delay 20> I...<Delay 20>
+I wanted him<Delay 20> to be by my
 side forever!!"<Close><End of Block>
 <TextBlock 7 w:50 h:4>
 Nikola
 "Maria, you're my
-daughter.<Delay 20> You know how
-stupid humans can be.<New>
-You don't need to perish
-along with these feeble
-humans.<Delay 20> Now, come, Maria.
-Start a new life with me.<New>
-We shall begin a new
-chapter in life.<Delay 20> Let's
-build a bright future
-together.<New>
+daughter.<New>
+You know how stupid
+people can be.<Delay 20> You don't
+need to perish along with
+these feeble humans.<New>
+Now, come, Maria.<Delay 20> Begin a
+new chapter of life with
+me.<Delay 20> Let's build a bright
+future together.<New>
 I'll be by your side and
 protect you this time for
 sure. I promise you."<Close><End of Block>
@@ -69,15 +68,15 @@ What? You dare stand
 against me, your creator?"<Close><End of Block>
 <TextBlock 11 w:34 h:3>
 Maria
-"T...this is...!!<Delay 20>
+"Th-This is...!!<Delay 20>
 <Seibzehn>!?"<Close><End of Block>
-<TextBlock 12 w:50 h:4>
+<TextBlock 12 w:48 h:4>
 Nikola
 "Interesting...<Delay 20>
 I'll take you on.<New>
-I'll show you how great
-Nikola is, and the power
-of the Achtzehn.<Delay 20>
+I'll show you the
+greatness of Nikola, and
+the power of Achtzehn.<Delay 20>
 Come on, <Seibzehn>!!"<Close><End of Block>
 <TextBlock 13 w:20 h:3>
 Maria

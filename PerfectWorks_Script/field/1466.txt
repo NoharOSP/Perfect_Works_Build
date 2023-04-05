@@ -1,7 +1,7 @@
-<TextBlock 1 w:16 h:3>
+<TextBlock 1 w:20 h:3>
 Fei
-"Oh...?<Delay 20>
-This..."<Close><End of Block>
+"Huh...?<Delay 20>
+No way..."<Close><End of Block>
 <TextBlock 2 w:54 h:4>
 Fei
 "Yes, everyone on the
@@ -9,39 +9,39 @@ surface is nice and they're
 good people too..."<Close><End of Block>
 <TextBlock 3 w:40 h:4>
 Fei
-"Everyone's not
+"Not everyone's
 necessarily kind and
 good..."<Close><End of Block>
-<TextBlock 4 w:54 h:3>
+<TextBlock 4 w:54 h:4>
 Citan
 "<Chu-Chu> and her friends
-may be the last survivors."<Close><End of Block>
+here may be the last
+of their kind."<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Elly
 "If <Chu-Chu> saw this,
-she'd probably faint out
-of pure happiness."<Close><End of Block>
-<TextBlock 6 w:40 h:3>
+she'd surely faint
+out of happiness!"<Close><End of Block>
+<TextBlock 6 w:42 h:3>
 Bart
 "Ha, ha!<Delay 20>
-Who woulda figured!"<Close><End of Block>
+Who woulda figured!?"<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Rico
-"You ought to be happy,
-<Chu-Chu>.<Delay 20>
-You have so many friends."<Close><End of Block>
-<TextBlock 8 w:48 h:4>
+"<Chu-Chu> will be happy.<Delay 20>
+She's got company here."<Close><End of Block>
+<TextBlock 8 w:46 h:4>
 Billy
 "Wow...<Delay 20>
-It's amazing to see so
-many of them like this."<Close><End of Block>
+It's kind of amazing
+there are this many..."<Close><End of Block>
 <TextBlock 9 w:46 h:4>
 Emeralda
 "...<Delay 20>
 Is something out of the
 ordinary? "<Close><End of Block>
 <TextBlock 10 w:42 h:3>
-Ah-a-a, a guest!?<Delay 20>
+Ahhh, a guest!?<Delay 20>
 It's been a while...!
 Welcome, welcome...!<Close><End of Block>
 <TextBlock 11 w:46 h:3>
@@ -62,27 +62,27 @@ Sometimes it's good to
 get away from reality and
 forget the cares of the
 world...yes it is.<Close><End of Block>
-<TextBlock 14 w:12 h:2>
-Zzz...
-Zzz...<Close><End of Block>
+<TextBlock 14 w:16 h:2>
+*Zzz*...
+*Zzz*...<Close><End of Block>
 <TextBlock 15 w:42 h:5>
 Thank you, thank you!
-Come again, will ya!<Delay 20>
+Come again, will ya?<Delay 20>
 I'll give you a
 discount!!
-Zzz...Zzz...<Close><End of Block>
+*Zzz*...*zzz*...<Close><End of Block>
 <TextBlock 16 w:58 h:6>
-The angel stood watch as
-the night ended. Twilight
+The great angel watched over
+the distant dawn, while dusk
 nodded off in the arms of
 a lost child from 500
-years ago...And the Sea
-Serpent swallowed the dark.<New>
-A wise gramps taught me
+years ago...and the sea
+monster swallowed the dark.<New>
+An old sage taught me
 that a looooong long time
 ago.<Delay 20> Don't know what
-it is, though, maybe a spell,
-yes maybe it is.<Close><End of Block>
+it is, though. Maybe a
+spell, yes, maybe it is.<Close><End of Block>
 <TextBlock 17 w:50 h:5>
 Say, I have something
 really good to tell you,
@@ -100,20 +100,20 @@ You wanna know, yes you
 do...<New>
 Alright,<Delay 20> I'll tell you
 about the inspirational
-tradition of the Chu-chu
-Tribe, yes I will.<Close><End of Block>
+lore of the <Chu-Chu>
+tribe, yes I will.<Close><End of Block>
 <TextBlock 20 w:54 h:6>
 Loooong long ago, the
-Chu-chu Tribe had a great
+<Chu-Chu> tribe had a
 big guardian god, who could
-step over huge mountains in
-one step. The Wondrous
+cross over huge mountains
+in one step. The Wondrous
 Mambo god, yes he was!<New>
-The Chu-chu Tribe and the
-Wondrous Mambo god lived
-happily together in perfect
-peace, yes we did.<Delay 20> A dreamy
-sweet existence.<New>
+The <Chu-Chu> tribe and
+the Wondrous Mambo god
+lived happily together in
+perfect peace, yes we did.<Delay 20>
+A dreamy, sweet existence.<New>
 But one day, a huuuge red
 fireball rained down from
 the sky, and blew away our
@@ -122,17 +122,17 @@ asleep.<Delay 20> Blam, kablam, boom!<New>
 But don't worry!<Delay 20>
 The great big guardian god
 became a star in the sky!<Delay 20>
-He protects the Chu-chu
-Tribe, yes he does!!<Close><End of Block>
+He protects the <Chu-Chu>
+tribe, yes he does!!<Close><End of Block>
 <TextBlock 21 w:50 h:5>
 Yes, yes, it's a great
-story...<Delay 20>No matter how
+story...<Delay 20> No matter how
 many times I listen to
 it, I'm so moved...yes
-I do... <New>
+I am... <New>
 Be careful now, remember:
-Bad guys that pester the
-poor Chu-chus will get
+bad guys that pester the
+poor <Chu-Chu>s will be
 punished by our guardian
 god, yes they will.<Close><End of Block>
 <TextBlock 22 w:46 h:3>
@@ -146,18 +146,18 @@ I see. Too bad.<Delay 20>
 It really is a great
 story...yes it is...<Close><End of Block>
 <TextBlock 23 w:52 h:4>
-I hear the Sage in Shevat
+I hear a sage in Shevat
 did some research on the
-Chu-chu Tribe's tradition,
+<Chu-Chu> tribe legend,
 yes he did.<New>
 That's a lot of work.<Delay 20>
-Even the old generations
-of the Chu-chu Tribe don't
+Even the older generations
+of the <Chu-Chu>s don't
 know many things about it.<Close><End of Block>
 <TextBlock 24 w:48 h:5>
 There is a rumor that
-the secret room of the
-Sage of Shevat is hidden
+the secret room of a
+sage of Shevat is hidden
 somewhere in this town.<Delay 20>
 I wonder if it's true?<Close><End of Block>
 <TextBlock 25 w:54 h:4>
@@ -165,37 +165,38 @@ They're so beautiful.<Delay 20>
 These are wonderful things
 that nobody else sells,
 yes they are.<New>
-But this's a very important
-treasure of the Chu-chu,
-so I can't sell it to you.<New>
+But these are very
+important treasures of the
+<Chu-Chu>s, so I can't
+sell them to you.<New>
 Sooorry. Please go to the
 counter if you'd like to
-buy something. Thank you, 
+buy something. Thank you,
 thank you.<Close><End of Block>
 <TextBlock 26 w:42 h:4>
 ...!?
-W, wait...!!<Delay 20>
+W-Wait...!!<Delay 20>
 What you have in your
 hand...is...<Close><End of Block>
 <TextBlock 27 w:48 h:1>
 The mythical RPS Badge!!<Close><End of Block>
 <TextBlock 28 w:50 h:1>
 The legendary H&S Badge!!<Close><End of Block>
-<TextBlock 29 w:50 h:2>
-The Tag Badge even the
-maniacs are crazy about!!<Close><End of Block>
+<TextBlock 29 w:48 h:2>
+The Tag Badge that even
+enthusiasts drool over!!<Close><End of Block>
 <TextBlock 30 w:52 h:4>
 This is a complete badge
 set of...a gamer!?<Delay 20>
 I'm so amazed.
 It's great, yes it is!!<New>
 Hmm...<Delay 20>
-Want to exchange the three
-set with our treasure?<Delay 20>
+Want to exchange the set
+of three for our treasure?<Delay 20>
 It's a deal, yes it is.<Close><End of Block>
-<TextBlock 31 w:52 h:4>
-Do you want to exchange it
-for <Chu-Chu>'s treasure?<Delay 20>
+<TextBlock 31 w:46 h:4>
+Exchange for the
+<Chu-Chu>s' treasure?<Delay 20>
     Sure!
     No way<Close><End of Block>
 <TextBlock 32 w:40 h:2>
@@ -207,17 +208,18 @@ Received Charger A!<Close><End of Block>
 Received Power Ring S!<Close><End of Block>
 <TextBlock 35 w:22 h:1>
 Cheapskate!<Close><End of Block>
-<TextBlock 36 w:52 h:4>
-The guys in Solaris
-pestered the Chu-chu Tribe
-who'd lived on this star
-from the beginning.<New>
-So gramps and grandmas
-escaped with the people
-from Shevat, yes they did.<New>
-But most of the Chu-chus
+<TextBlock 36 w:54 h:4>
+Those Solaris guys were
+cruel to the <Chu-Chu>s,
+who'd lived on this planet
+since ancient times.<New>
+So the <Chu-Chu> grampas
+and grandmas escaped along
+with the people of Shevat,
+yes they did.<New>
+But most of the <Chu-Chu>s
 couldn't escape and were
-killed...<Delay 20>Those guys ate
+killed...<Delay 20> Those guys ate
 them, yes they did...<New>
 That reminds me...<Delay 30>
 I'm hungry, yes I am...<Delay 20>
@@ -251,9 +253,9 @@ other people, yes, I do!!<Close><End of Block>
 <TextBlock 42 w:50 h:5>
 I like people in Shevat
 because they're all nice.<Delay 20>
-They treat Chu-chus the
-same as themselves...yes,
-they do.<New>
+They treat <Chu-Chu>s
+the same as themselves...
+yes, they do.<New>
 But I heard people on the
 land are all scary.<Delay 20>
 They lie, say awful
@@ -262,7 +264,7 @@ each other...<Close><End of Block>
 <TextBlock 43 w:54 h:4>
 I am wrong, right? They
 are all nice people, right?<Delay 20>
-    Everyone's nice.
+    Everyone's nice
     Not necessarily...<Close><End of Block>
 <TextBlock 44 w:48 h:4>
 I knew it!<Delay 20>
@@ -270,29 +272,29 @@ I want to go down to the
 land and live with other
 people, yes, I do!<Close><End of Block>
 <TextBlock 45 w:52 h:4>
-I see...<Delay 20>I hope everyone
+I see...<Delay 20> I hope everyone
 understands each other,
 and lives happily together
 someday...yes, I do.<Close><End of Block>
 <TextBlock 46 w:46 h:3>
-You're awfully straight
+You're very straight-
 forward. I like it.<Delay 20>
 I'll give you this.<Close><End of Block>
-<TextBlock 47 w:36 h:1>
-Received Aquasol S<Close><End of Block>
-<TextBlock 48 w:36 h:1>
-Received Aquasol S<Close><End of Block>
-<TextBlock 49 w:38 h:1>
-Received Aquasol DX<Close><End of Block>
+<TextBlock 47 w:38 h:1>
+Received Aquasol S!<Close><End of Block>
+<TextBlock 48 w:38 h:1>
+Received Aquasol S!<Close><End of Block>
+<TextBlock 49 w:40 h:1>
+Received Aquasol DX!<Close><End of Block>
 <TextBlock 50 w:50 h:4>
 Wha?<Delay 20> That's strange.
 You smell like soil and
 trees, yes, you do.<New>
-Looooong ago, the Chu-chu
-Tribe lived in the woods,<Delay 20>
+Looooong ago, our tribe
+also lived in the woods,<Delay 20>
 with no interference,
-yes they did.<New>
-I wonder if someday, we
+yes we did.<New>
+I wonder if, someday, we
 could ever return to the
 land and live in the
 woods again...?<Close><End of Block>

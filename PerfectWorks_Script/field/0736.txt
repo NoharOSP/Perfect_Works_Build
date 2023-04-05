@@ -25,14 +25,14 @@ Disengaged!<Close><End of Block>
 Sand barrier being opened
 from remote terminal.<Close><End of Block>
 <TextBlock 6 w:54 h:4>
-Sand Sensors have detected
+Sand sensors have detected
 an abnormal amount of sand.<New>
 The sand barrier south of
 Terrace Stones has been
 sealed to prevent sand from
 entering excavation site.<Close><End of Block>
 <TextBlock 7 w:54 h:4>
-There are two Sand Sensors.
+There are two sand sensors.
 One is on top of the ledge
 located north-northwest
 of here.<New>

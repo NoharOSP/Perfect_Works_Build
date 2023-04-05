@@ -1,6 +1,6 @@
 <TextBlock 1 w:52 h:6>
 Ahh...I see,
-so you're the son of Kahn.<Delay 20>
+so you're the son of Khan.<Delay 20>
 Have you met Queen Zephyr
 yet?<New>
 She still can't forget
@@ -22,6 +22,6 @@ keep up the good work in
 overthrowing Solaris,
 young man!<Close><End of Block>
 <TextBlock 3 w:48 h:3>
-Keep it up the good work
+Keep up the good work
 in overthrowing Solaris.<Delay 20>
 I'm counting on you.<Close><Close><End of Block>

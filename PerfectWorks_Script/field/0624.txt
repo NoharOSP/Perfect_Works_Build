@@ -190,19 +190,19 @@ too good to be true,
 it usually is. Bah.<Close><End of Block>
 <TextBlock 22 w:48 h:4>
 You gotta problem with
-me<Delay 5>, hic,<Delay 5> drinkin' at
+me<Delay 5>, *hic*,<Delay 5> drinkin' at
 midday?<Delay 20> How can I not be
-drinkin'<Delay 5>... Damn it...<Close><End of Block>
+drinkin'<Delay 5>...? Damn it...<Close><End of Block>
 <TextBlock 23 w:44 h:6>
 Nobody knows...<Delay 10>
 In the depths...<Delay 10>
 of the sea...<Delay 15>
-a tear...drop...<Delay 15>
+A tear...drop...<Delay 15>
 shed by...<Delay 15>
 a mermaid...<New>
 It's not some dream...
 You idiots...<Delay 20>
-Hic...<Close><End of Block>
+*Hic*...<Close><End of Block>
 <TextBlock 24 w:64 h:4>
 You got a problem, boy?<Delay 20>
     No... Go, go, go for it!!
@@ -242,8 +242,8 @@ of the sea...<Delay 15>
 a tear...drop...<Delay 25>
 shed by...<Delay 15>
 a mermaid...<Close><End of Block>
-<TextBlock 32 w:52 h:1>
-Received a 'Mermaid Tear'!<Close><End of Block>
+<TextBlock 32 w:48 h:1>
+Received a Mermaid Tear!<Close><End of Block>
 <TextBlock 33 w:44 h:4>
 My, that drunk had the
 most beautiful stone!<Delay 20>

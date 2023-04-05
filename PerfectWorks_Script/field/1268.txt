@@ -1,6 +1,6 @@
 <TextBlock 1 w:40 h:3>
 Hey, you're going
-to the 'Hideout for 
+to the 'hideout for 
 skinful termites'?<Close><End of Block>
 <TextBlock 2 w:32 h:2>
 Zephyr will eat 
@@ -10,7 +10,7 @@ Hey, read me this book...
     Alright!
     Maybe next time!<Close><End of Block>
 <TextBlock 4 w:13 h:1>
-Ye<~>y!!<Close><End of Block>
+Ya~y!!<Close><End of Block>
 <TextBlock 5 w:50 h:3>
 <Perso1>
 "Long, long ago there was
@@ -29,7 +29,7 @@ returned to the earth
 again... The end."<Close><End of Block>
 <TextBlock 6 w:36 h:4>
 Is there really a
-'Hideout for
+'hideout for
 skinful termites'?
 It sounds scary!<Close><End of Block>
 <TextBlock 7 w:56 h:5>
@@ -91,10 +91,10 @@ Wait a minute.<Close><End of Block>
 There wasn't any paper so
 I used this book. <Delay 10>
 Did you wanna use it?<Close><End of Block>
-<TextBlock 28 w:58 h:1>
-Received an 'Old Comic Book'.<Close><End of Block>
-<TextBlock 29 w:48 h:1>
-I said, 'Toilet taken!'!<Close><End of Block>
+<TextBlock 28 w:54 h:1>
+Received an old comic book.<Close><End of Block>
+<TextBlock 29 w:44 h:1>
+I said toilet taken!!<Close><End of Block>
 <TextBlock 30 w:26 h:1>
 Toilet taken!<Close><End of Block>
 <TextBlock 31 w:30 h:1>

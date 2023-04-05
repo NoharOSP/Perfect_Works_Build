@@ -4,10 +4,10 @@ Fei
 <TextBlock 2 w:48 h:4>
 Rico
 "Whoa, Doc!<New>
-Just when I thought
-we were saved, we're now
-gonna be turned into
-Swiss cheese!?"<Close><End of Block>
+Just when I thought we
+were saved, now someone
+else wants to use us for
+target practice!?"<Close><End of Block>
 <TextBlock 3 w:38 h:3>
 Citan
 "We are<Delay 10> not too

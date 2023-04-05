@@ -60,7 +60,7 @@ Capital of Kislev<Close><End of Block>
 <Opcode 1 255>Shevat<Close><End of Block>
 <TextBlock 28 w:12 h:1>
 <Opcode 1 255>Tamuz<Close><Close><End of Block>
-<TextBlock 29 w:44 h:5>
+<TextBlock 29 w:48 h:5>
 Citan
 "Seeing beyond the
 invisible walls,
@@ -71,12 +71,12 @@ has to be somewhere on
 this map."<Close><End of Block>
 <TextBlock 30 w:68 h:2>
 Citan
-"Now, the Ignas Gate is<Delay 5>... <Delay 10>here."<Close><End of Block>
+"Now, the Ignas Gate is<Delay 5>...<Delay 10>here."<Close><End of Block>
 <TextBlock 31 w:40 h:3>
 Citan
-"The Church H.Q. in
+"The Church HQ in
 Aquvy is here, so..."<Close><End of Block>
-<TextBlock 32 w:50 h:4>
+<TextBlock 32 w:52 h:4>
 Fei
 "Well, thinking logically,
 the next position could be

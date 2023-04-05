@@ -12,15 +12,15 @@ Citan
 "It doesn't flush well..."<Close><End of Block>
 <TextBlock 5 w:38 h:4>
 Elly
-"Hey,<Delay 10>
-Something's in the 
-toilet."<New>
+"Hey,<Delay 10> there's
+something in
+the toilet.<New>
 (But there's no way
-I'm touching it)<Close><End of Block>
-<TextBlock 6 w:42 h:1>
-Received dirty prize!<Close><End of Block>
-<TextBlock 7 w:40 h:2>
-It's dirty, so I put
-it back!<Close><End of Block>
+I'm touching it)"<Close><End of Block>
+<TextBlock 6 w:46 h:1>
+Received a dirty prize!<Close><End of Block>
+<TextBlock 7 w:38 h:2>
+It's dirty, so you
+put it back!<Close><End of Block>
 <TextBlock 8 w:0 h:1>
 <Close><End of Block>

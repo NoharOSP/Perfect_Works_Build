@@ -367,4 +367,4 @@ Let's get serious..."<Close><End of Block>
 Fei
 "????<Delay 90>... What's going on?"<New>
 Fei
-"What the...!? <Delay 90> My Gear's...!?"<Close><Close><End of Block>
+"What the...!? <Delay 90> My Gear's...!?"<Close><Close><:><:><:><End of Block>

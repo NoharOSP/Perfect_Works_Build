@@ -1,51 +1,53 @@
 <TextBlock 1 w:54 h:4>
 Fei
-"A Chu-chu idol...<Delay 20>
+"A Mambo idol...<Delay 20>
 Is this a representation of
-<Chu-Chu>'s guardian god?<New>
-You think this is what
-<Chu-Chu> rides when it
-grows so she can fight...?"<Close><End of Block>
+<Chu-Chu>'s guardian deity?<New>
+Do you think...this grows
+giant and it's what
+<Chu-Chu> rides so she
+can fight...?"<Close><End of Block>
 <TextBlock 2 w:8 h:4>
 Fei
 "...<Delay 30>
 ...<Delay 20>
 ..."<Close><End of Block>
-<TextBlock 3 w:52 h:4>
+<TextBlock 3 w:46 h:4>
 Fei
-"Let's not imagine things!<Delay 20>
-It's not good for your
-heart!!"<Close><End of Block>
-<TextBlock 4 w:48 h:1>
-Received "Power Crisis"!<Close><End of Block>
-<TextBlock 5 w:50 h:13>
-<Opcode 1 2>Received 'Panalphasol'!
-Received 'Hob-Steak'!
-Received 'Physimentsol'!
-Received 'Samson's Hair'!
-Received 'Yamato Belt'!
-Received 'Hard Star'!
-Received 'Speed Star'!
-Received 'ETH Drive'!
-Received 'VIT Drive'!
-Received 'STR Drive'!
-Received 'ETHDEF Drive'!
-Received 'HP Drive'!
-Received 'EP Drive'!<Close><End of Block>
-<TextBlock 6 w:38 h:2>
-Accidently received
-Chu-chu Idol!!<Close><End of Block>
+"Let's not imagine such
+things!<Delay 20> It's not good
+for the heart!!"<Close><End of Block>
+<TextBlock 4 w:44 h:1>
+Received Power Crisis!<Close><End of Block>
+<TextBlock 5 w:46 h:13>
+<Opcode 1 2>Received Panalphasol!
+Received Hob-Steak!
+Received Physimentsol!
+Received Samson's Hair!
+Received Yamato Belt!
+Received Hard Star!
+Received Speed Star!
+Received ETH Drive!
+Received VIT Drive!
+Received STR Drive!
+Received ETHDEF Drive!
+Received HP Drive!
+Received EP Drive!<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Accidentally received
+Mambo Idol!!<Close><End of Block>
 <TextBlock 7 w:54 h:3>
-I don't care how it all
+'I don't care how it all
 began nor do I care what
 happens in the end.<New>
-I just live with <Chu-Chu>,
-and die with <Chu-Chu>!<New>
+I just live with the
+<Chu-Chu>s, and die with
+the <Chu-Chu>s!<New>
 To hell with humans!
 They're liars, greedy,
 selfish...!<New>
 I'm going away.<Delay 20>
-I've had enough of it...!<Close><End of Block>
+I've had enough of it...!'<Close><End of Block>
 <TextBlock 8 w:42 h:3>
 Do you want to go up?<Delay 10>
     Yes
