@@ -19,11 +19,6 @@
 
 #pragma comment(linker,"/manifestdependency:\"type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' processorArchitecture='*' publicKeyToken='6595b64144ccf1df' language='*'\"")
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
 typedef std::basic_string<TCHAR> ustring;
 
 enum {
@@ -47,14 +42,7 @@ bool p_items_spells = false;
 bool p_monsters = false;
 bool p_script = false;
 bool p_stats = false;
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 bool p_arena = false;
-=======
->>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
-=======
-bool p_arena = false;
->>>>>>> Stashed changes
 bool patchPathValid = false;
 std::string home = "";
 std::string path1 = "";
@@ -74,16 +62,8 @@ std::string scriptName1 = "";
 std::string scriptName2 = "";
 std::string statName1 = "";
 std::string statName2 = "";
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 std::string arenaName1 = "";
 std::string arenaName2 = "";
-=======
->>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
-=======
-std::string arenaName1 = "";
-std::string arenaName2 = "";
->>>>>>> Stashed changes
 std::vector<HWND> globalWindList;
 std::vector<HWND> generalWindList;
 std::vector<HWND> miscWindList;
@@ -97,14 +77,7 @@ HWND aboutbutton;
 HWND patchbutton;
 HWND encounters;
 HWND fasttext;
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 HWND arena;
-=======
->>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
-=======
-HWND arena;
->>>>>>> Stashed changes
 HWND expgold;
 HWND itemspells;
 HWND monsters;
@@ -159,7 +132,3 @@ HWND toolGenerator(char* text, HWND hWnd, HWND hText);
 HWND CreateTabController(HWND hParent, HINSTANCE hInst, DWORD dwStyle, const RECT& rc, const int id);
 int InsertTab(HWND TabController, const ustring& txt, int item_index, int image_index, UINT mask);
 BOOL ParseALargeFile(HWND hWnd, LPTSTR lpszFileName);
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> 9ad47cda54338c6af196719ab43018538b57e514
