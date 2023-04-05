@@ -192,6 +192,29 @@ bool patchChecker::statsCheck(std::string path)
 	return found;
 }
 
+bool patchChecker::arenaCheck(std::string path)
+{
+	initialise();
+	maxByte = 39;
+	file.open(path, std::ios::in | std::ios::out | std::ios::binary);
+	while (!file.bad()) {
+		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
+		byte += 1;
+		if (byte == maxByte) {
+			int val = (int)buffer;
+			if (val == 01) {
+				found = true;
+			}
+			else {
+				writeByte(1);
+			}
+			break;
+		}
+	}
+	file.close();
+	return found;
+}
+
 void patchChecker::writeByte(int num)
 {
 	uint64_t marker = 0;
