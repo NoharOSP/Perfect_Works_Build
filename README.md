@@ -256,7 +256,7 @@ For those who want to test a certain section in the game. They use the mcd forma
 
 If you really are curious, here is a full list of changes for each character from the base game.
 
-####Gameplay Changes
+#### Gameplay Changes
 -The half-second cooldown after completing a String has been removed; tapping L1 or Circle still lets you buffer an attack immediately afterward.
 -The combo counter now only applies for projectiles with the limit remaining 4 hits.
 -Accumulated stun cap raised from 38 to 80, stun from melee damage raised from 120% to 220%, and projectile stun raised from 60% to 100%. Drain remains one point every frame to effectively halve the rate of decay. Hitstun is unchanged.
@@ -269,9 +269,9 @@ Planned Changes (Not yet implemented)
 With a roster of 49, I have no plans to make each one competitive, especially with how imbalanced movesets are. Improving everyone however possible will still be done, however. That being said, Fei's and Rico's Gears are going to be intentionally solid for story's sake, while I would like to make the other hero Gears are also good so that players won't feel left out using their favorite character. I'm focusing more on mechanical balance than character balance to stop most abusable tactics while keeping their strength otherwise intact.
 As for the rationale behind tweaking the damage of almost every attack in the game, I made all attacks leading to enders do the same amount using the average of tier 1 and tier 2 damage, and gave all enders tier 3 damage. Not only does this buff 2-attack strings, but the extra damage adds more stun so that strings can combo. I then decided to tweak some attacks' damage based on their speed so that one move wouldn't outright be better than the other. It may not be well-balanced, but it's still more effort than what was originally done.
 
-####Gear Changes
+#### Gear Changes
 
-#####Terminology
+##### Terminology
 d- Damage
 h- Active duration/Projectile start
 e- End point (cancel)
