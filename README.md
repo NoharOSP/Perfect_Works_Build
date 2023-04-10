@@ -280,21 +280,21 @@ e- End point (cancel)
 
 Weltall
 I want to say he's an average Gear with a slight emphasis on strength. As the Gear used for story, I need to make sure he's solid: a few quirks were fixed to make him far more reliable and consistent even though I couldn't fix everything.
-A- d 10 > 16
-B- d 10 > 16
-AA- d 20 > 15, e 18 > 17
-AB- d 20 > 16
-BA- d 20 > 16
-BB- d 20 > 16,
-AAA- Hit trail improved
-AAB- d 25 > 30
-ABA- Second hit made a bit more consistent
-ABB- d 25 > 22
-BAA- d 25 > 26
-BAB- Unchanged
-BBA- d 25 > 24
-BBB- d 25 > 22
-Ether- Unchanged
+- A- d 10 > 16
+- B- d 10 > 16
+- AA- d 20 > 15, e 18 > 17
+- AB- d 20 > 16
+- BA- d 20 > 16
+- BB- d 20 > 16,
+- AAA- Hit trail improved
+- AAB- d 25 > 30
+- ABA- Second hit made a bit more consistent
+- ABB- d 25 > 22
+- BAA- d 25 > 26
+- BAB- Unchanged
+- BBA- d 25 > 24
+- BBB- d 25 > 22
+- Ether- Unchanged
 
 Vierge
 She originally felt a bit clunky even though her attacks chained. Her new speed is a welcome change while her finishers took a small hit in return. She also had her Ether buffed to better represent Elly's prowess. All of this resulted in a nice foil to Weltall.
