@@ -1,19 +1,23 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.1.7 here:
-- Google Drive: https://drive.google.com/file/d/1CCNIUAGvD4dVIigNL0llegOhVK1No8SL/view?usp=share_link
-- MEGA: https://mega.nz/file/aTwGQJaZ#IUrqM_spP1tQHDUnsXLqrA3D9yp1_97A4fXFnyJexSI
+Download version 0.2.0 here:
+
+- Google Drive: https://drive.google.com/file/d/1KVjsnHhdzv94Ooipdecg1aQLq48KdQ57/view?usp=share_link
 
 ## Completion stats:
 
 - Name/terminology changes: 100%
-- Main script: 40% (up to Babel Tower)
+- Main script: 50% (up to Babel Tower)
 - NPC script: Not done (except for name/terminology changes)
 
 ## Coming soon:
 
 - Name swapper
+- Softsubs
+- Progress bar
+- Online updater
+- Music swap
 - Patch undo
 
 ## Introduction:
@@ -22,9 +26,33 @@ Hello. My name is Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito. I am a character 
 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
-The project is compatible with undub, though subtitles will be somewhat glitchy during FMVs. It is largely incompatible with Xenogears 2.0.
+The project is also largely incompatible with both Undub and Xenogears 2.0.
 
 ## Version history:
+
+### Version 0.2.0:
+
+04/09/2023
+
+- All mentions of Reapers have been changed to Wels.
+- Bart now learns Divvy Up at level 24.
+- Bart now learns Red Cologne at level 32.
+- Bart now learns Blue Cologne at level 36.
+- Bart now learns White Cologne at level 40.
+- Bart now learns the modes at level 45.
+- Exp/gold patch has been nerfed from doubling values to increasing them by 50%.
+- All Chu-Chu references are pointers.
+- Tabs have been added to the patcher. 
+- "All patches" mode has been added.
+- "Easy" mode has been added.
+- "Hard" mode has been added.
+- Everything up to the Shevat arc has been proof-read against the Japanese version.
+- Item pickup messages no longer use quotations.
+- Church H.Q is now written as "Church HQ" on the world map.
+- Loading circle is used as a progress indicator when patching.
+- Rebalanced battle arena patch has been added.
+- Battle arena tutorial has been edited.
+- Dominia no longer uses "Miang" in disc 2.
 
 ### Version 0.1.7:
 
@@ -123,6 +151,11 @@ The project is compatible with undub, though subtitles will be somewhat glitchy 
 
 ### Builds:
 
+### Version 0.1.7:
+
+- Google Drive: https://drive.google.com/file/d/1CCNIUAGvD4dVIigNL0llegOhVK1No8SL/view?usp=share_link
+- MEGA: https://mega.nz/file/aTwGQJaZ#IUrqM_spP1tQHDUnsXLqrA3D9yp1_97A4fXFnyJexSI
+
 ### Version 0.1.6:
 
 - MEGA: https://mega.nz/file/HK5C2bTa#ki8lbMjSH_eAuCIuuL9Po6NWXnkNr_0Zg0H2_bpjE3Y
@@ -159,6 +192,10 @@ The project is compatible with undub, though subtitles will be somewhat glitchy 
 - Google Drive: https://drive.google.com/file/d/1tVlHEiu3dpkdchUqC3Xhz-Zbr0kmo36M/view?usp=share_link
 
 ### GUI patcher:
+
+### Version 0.4
+
+Included with builds 0.1.3 - 0.1.7.
 
 ### Version 0.3.0
 
@@ -215,6 +252,720 @@ For those who want to test a certain section in the game. They use the mcd forma
 
 ## Patches:
 
+### Battle arena:
+
+If you really are curious, here is a full list of changes for each character from the base game.
+
+####Gameplay Changes
+-The half-second cooldown after completing a String has been removed; tapping L1 or Circle still lets you buffer an attack immediately afterward.
+-The combo counter now only applies for projectiles with the limit remaining 4 hits.
+-Accumulated stun cap raised from 38 to 80, stun from melee damage raised from 120% to 220%, and projectile stun raised from 60% to 100%. Drain remains one point every frame to effectively halve the rate of decay. Hitstun is unchanged.
+-Projectiles hitting from behind do 150% damage from 200%, and Guarding will now halve that.
+-The Heat drain for desert-immune Gears has been halved to give it the normal moving penalty while over sand rather than none at all.
+Planned Changes (Not yet implemented)
+-Making popup attacks cause knockdown if they surpass the stun limit
+-Halving damage taken while downed, and preventing double damage from back hits while downed.
+
+With a roster of 49, I have no plans to make each one competitive, especially with how imbalanced movesets are. Improving everyone however possible will still be done, however. That being said, Fei's and Rico's Gears are going to be intentionally solid for story's sake, while I would like to make the other hero Gears are also good so that players won't feel left out using their favorite character. I'm focusing more on mechanical balance than character balance to stop most abusable tactics while keeping their strength otherwise intact.
+As for the rationale behind tweaking the damage of almost every attack in the game, I made all attacks leading to enders do the same amount using the average of tier 1 and tier 2 damage, and gave all enders tier 3 damage. Not only does this buff 2-attack strings, but the extra damage adds more stun so that strings can combo. I then decided to tweak some attacks' damage based on their speed so that one move wouldn't outright be better than the other. It may not be well-balanced, but it's still more effort than what was originally done.
+
+####Gear Changes
+
+#####Terminology
+d- Damage
+h- Active duration/Projectile start
+e- End point (cancel)
+#- Any attack leading to this
+(New)- A combo not present in the original
+
+Weltall
+I want to say he's an average Gear with a slight emphasis on strength. As the Gear used for story, I need to make sure he's solid: a few quirks were fixed to make him far more reliable and consistent even though I couldn't fix everything.
+A- d 10 > 16
+B- d 10 > 16
+AA- d 20 > 15, e 18 > 17
+AB- d 20 > 16
+BA- d 20 > 16
+BB- d 20 > 16,
+AAA- Hit trail improved
+AAB- d 25 > 30
+ABA- Second hit made a bit more consistent
+ABB- d 25 > 22
+BAA- d 25 > 26
+BAB- Unchanged
+BBA- d 25 > 24
+BBB- d 25 > 22
+Ether- Unchanged
+
+Vierge
+She originally felt a bit clunky even though her attacks chained. Her new speed is a welcome change while her finishers took a small hit in return. She also had her Ether buffed to better represent Elly's prowess. All of this resulted in a nice foil to Weltall.
+A- d 10 > 15, e 20 > 17
+B- d 10 > 15, e 17 > 15, Hit trail improved
+AA/BB- d 20 > 14, e 25 > 21, Hit trail improved
+AB- d 20 > 15, e 25 > 22
+BA- d 20 > 15, h 10-13 > 10-14, e 31 > 27
+AAA- d 25 > 24
+AAB- d 25 > 24
+ABA- d 25 > 26, Hit trail improved
+ABB- d 25 > 24
+BAA- d 25 > 22	
+BAB- d 25 > 19
+BBA- d 25 > 28
+BBB- d 25 > 24, h 10-13 > 10-14, e 31 > 27
+Ether- d 20 > 24, h 15 > 13
+
+Heimdall (Heimdal)
+This Gear attacks incredibly fast, so I decided to lower his damage in order to create more emphasis on combos utilizing the Blank mechanic, as well as weaken his ranged game. If you want an aggressive/rushdown fighter, this is a great choice.
+A- d 10 > 12
+B- d 10 > 12
+AA- d 20 > 10
+AB- d 20 > 10
+BA- d 20 > 12
+BB- d 20 > 12
+AAA- d 25 > 22
+AAB- d 25 > 22
+ABA- d 20 > 18
+ABB- d 25 > 22
+BAA- d 25 > 20
+BAB- d 25 > 20
+BBA- d 25 > 20
+BBB- d 25 > 22
+Ether- d 20 > 18
+
+Brigandier
+I don't dislike Bart, but I do not find much interest in his Gears. They're mid-range fighters, yet inconsistent, clunky, and gimmicky. This Gear's BA enders don't combo at all. They seem to be a mixup that might be interesting if it weren't for the fact that you fight on a 3D plane. I've fixed both Gears up to the best of my ability.
+A- d 10 > 15, e 25 > 21
+B- d 10 > 18, e 25 > 23
+AA- d 20 > 15
+AB- d 20 > 15, e 25 > 24
+BA- d 20 > 15, e 38 > 35
+BB- d 20 > 15, e 31 > 27
+AAA- d 25 > 30
+AAB- h 11-15 > 11-19, 15-29 > 20-28
+ABA- d 25 > 22
+ABB- Unchanged
+BAA- d 25 > 28
+BAB- d 25 > 28
+BBA- Unchanged
+BBB- Unchanged
+Ether- Unchanged
+
+Renmazuo
+Being a ranged fighter doesn't exactly mean much when non-homing projectiles are easy to dodge. At the very least, it does mean you can keep people away while they need to stay on the move, which lets you cool off faster than your opponent. This Gear had lower damage than his Omnigear counterpart, but I decided to improve his ranged damage since it was slower.
+A- d 6 > 8
+B- d 10 > 14
+BA- d 20 > 14
+BB- d 20 > 14, h 7-8 > 6-8
+AAA- Unchanged
+AAB- d 10 > 11
+ABA- Unchanged
+ABB- d 8 > 9
+BAA- d 25 > 22
+BAB- d 25 > 20
+BBA- d 25 > 24
+BBB- d 25 > 20
+Ether- d 20 > 16
+
+Stier
+This Gear needed to remain good to some extent as your final opponent. His power and speed is still intact, and he now recovers just a bit faster from Ether Bullets, which remains his weakness.
+A- d 15 > 20, e 19 > 18
+B- d 15 > 20
+AA- d 25 > 20
+AB- d 25 > 20
+BA- d 25 > 18
+BB- d 25 > 20
+AAA- Unchanged 
+AAB- d 30 > 35
+ABA- d 30 > 28
+ABB- Unchanged
+BAA- d 30 > 35
+BAB- d 30 > 32
+BBA- Unchanged
+BBB- Hit trail improved
+Ether- e 30 > 28
+
+Bladegash
+A Gear that seems really solid, although her sword isn't the most consistent. There have been some attempts to fix that and it's better than it originally was despite not being 100%. I haven't figured how to make her stand out yet as far as damage is concerned.
+A- d 10 > 15, hit trail improved
+B- d 10 > 15
+AA- d 20 > 15, h 1-6 > 3-7
+AB- h 7-13 > 6-12
+BA- d 20 > 15
+BB- d 20 > 15
+AAA- h 4-12 > 4-13
+AAB- d 25 > 24
+ABA- Unchanged
+ABB- d 25 > 20, h 7-13 > 6-12
+BAA- hit trail improved
+BAB- hit trail improved
+BBA- Unchanged
+BBB- d 25 > 22
+Ether- Unchanged
+
+Siebzehn (Seibzehn)
+This Gear was among the best in combat, but pitiful in the Arena. His slow attacks did an underwhelming amount of damage, and he only had one working combo on top of that. His ranged attacks, while decent, did nothing to compensate for just how slow he is. His improved speed allows for a second working string, and the finishers that remain too slow now do a substantial amount of damage to compensate.
+A- d 20 > 22, e 32 > 29
+B- d 42 > 44
+AA- e 36 > 32
+AB- d 24 > 20, e 29 > 27
+AAA- d 28 > 48
+AAB- d 28 > 24
+ABA- d 28 > 50
+ABB- Unchanged
+Ether- Unchanged
+
+Crescens
+I'm not sure where exactly to go with this Gear yet, but she did receive the basic speed/power balancing tweaks as well as getting her BA fixed to hit reliably. I'd love to give her aerial prowess, but sadly, jumping strikes don't exist, contrary to what the game might tell you.
+A- d 10 > 15
+B- d 10 > 15, e 19 > 16
+AA- d 20 > 15
+AB- d 20 > 15
+BA- d 20 > 15, h 12-16 > 12-17, lower dive, pushback added
+BB- d 20 > 15
+AAA- Unchanged
+AAB- d 25 > 20
+ABA- Unchanged
+ABB- Unchanged
+BAA- d 25 > 24
+BAB- d 25 > 28
+BBA- d 25 > 22
+BBB- Unchanged
+Ether- Unchanged
+
+Chu-Chu
+I'm not sure if her high damage was just to show that she was a gag character since she's so slow, but streamlining her strings turned her surprisingly decent. What she had originally seemed arbitrary and created many gaps in her attacks. Her six attacks now each correspond to a certain part of her AAA and BBB strings. Not only do they now work in a way that lets her combo, you can mix them to optimize damage or speed.
+A- Punch, d 20 > 28
+B- Kick, d 20 > 30
+#A- Long Hop. d 30 > 18
+#B- Hip Bump, d 30 > 20
+##A- Small Hop, d 35 > 38
+##B- Flip Kick, d 35 > 32
+Ether- Unchanged
+
+Weltall-2
+There are subtle differences in speed between the two Weltalls, but the larger size is a double-edged sword as far as reach and consistency are concerned. It's a shame there aren't any other differences to help make them more unique, as I'd like to switch up the strings and give this Gear attacks Fei learned past this point.
+A- d 10 > 15
+B- d 10 > 15
+AA- d 20 > 15, e 18 > 17
+AB- d 20 > 15
+BA- d 20 > 15
+BB- d 20 > 15
+AAA- Hit trail improved
+AAB- d 25 > 30
+ABA- Second hit has Hit trail improved
+ABB- d 25 > 22
+BAA- d 25 > 26
+BAB- Unchanged
+BBA- d 25 > 24
+BBB- d 25 > 22
+Ether- Unchanged
+
+Xenogears
+The titular Gear had some of the mechanics nerfed for his sake. Being able to shoot homing projectiles without using heat is strong, and this Gear had that in spades. He should be far more bearable now with his nerfed zoning. Unlike other Gears, his melee strings stay inconsistent to stop him from being too good.
+A- d 10 > 15, e 28 > 27
+B- h 13 > 14
+AA- d 20 > 15, e 28 > 27
+AB- d 20 > 15
+BA- d 7 > 5, h 4 > 5
+BB- Unchanged
+AAA- d 15 > 16
+AAB- Unchanged
+ABA- Unchanged
+ABB- Unchanged
+BBA- d 10 > 8
+BBB- d 15 > 12
+Ether- Unchanged
+
+El-Regulus (El-Regrs)
+As a semi-hidden Gear, it's disappointing that she is a mixed bag. Her attacks are inconsistent despite being fast: A doesn't properly cover in front of her, and some strings flow poorly. This has been fixed mostly, although her lowered damage does allow for more combos.
+A- d 10 > 14
+B- d 10 > 14
+AA- d 20 > 14
+AB- d 20 > 14
+BA- d 20 > 16, h 5-21 > 7-22, e 29 > 27
+BB- d 20 > 14
+AAA- d 25 > 22
+AAB- d 25 > 22
+ABA- d 25 > 10, each hit lasts longer
+ABB- d 25 > 22
+BAA- d 25 > 22
+BAB- d 25 > 22
+BBA- d 25 > 22
+BBB- d 25 > 22
+Ether- d 20 > 24
+
+El-Fenrir
+This Gear retains some aspects of Heimdall, but he hits harder when using his blade. It's worth noting that part of the reason why his damage is higher is because he doesn't have the same finesse. A weakness is hard to pinpoint, but I don't think he's broken.
+A- d 10 > 16, h 8-12 > 8-13, e 24 > 23, no longer hits twice
+B- d 10 > 14, h 10-15 > 10-16, e 21 > 20
+AA- d 20 > 16, 
+AB- d 20 > 12, h 4-8 > 	4-9
+BA- d 20 > 18
+BB- d 20 > 16, e 17 > 16
+AAA- Unchanged
+AAB- d 25 > 30
+ABA- Unchanged
+ABB- d 28 > 30
+BAA- d 25 > 28
+BAB- d 18 > 14, h 17-27 > 17-28
+BBA- Unchanged
+BBB- d 25 > 18, h 2-8 > 2-6, e 20 > 19
+Ether- d 20 > 18
+
+El-Andvari
+Like Brigandier, I don't quite know what to do with this Gear. I do believe this Gear is better than the predecessor, however, although BAA needs some adjustment to properly hit in front.
+A- d 10 > 15, e 28 > 27
+B- d 10 > 15, e 17 > 16
+AA- d 20 > 15, e 28 > 27
+AB- d 20 > 15, e 25 > 23
+BA- d 20 > 15, e 24 > 21
+BB- d 20 > 15
+AAA- Unchanged
+AAB- Hops up instead of forward
+ABA- Hops up instead of forward
+ABB- Unchanged
+BAA- Unchanged
+BAB- h 17-27 > 17-28
+BBA- Unchanged
+BBB- Unchanged
+Ether- d 12 > 15
+
+El-Renmazuo
+I had no idea how to balance this Gear until I took a closer look at the speed of the Renmazuos' attacks. With this Gear being the faster shot, I decide to give that damage to his weaker counterpart and keep his strikes stronger instead. Viable? I don't know, but he's certainly unique.
+A- d 8 > 6
+B- d 10 > 15
+BA- d 22 > 14
+BB- d 22 > 14
+AAA- d 10 > 8
+AAB- d 10 > 9
+ABA- d 25 > 22
+ABB- d 10 > 7
+BAA- d 25 > 22
+BAB- d 25 > 19
+BBA- Unchanged
+BBB- d 25 > 22, h 1-6 > 2-7
+Ether- d 20 > 16
+
+El-Stier
+Being Rico's Gear, it received similar tweaks to the predecessor to keep it on the same level. He has a different moveset, but overall keeps the same strengths and weaknesses.
+A- d 15 > 20, e 19 > 18
+B- d 15 > 20
+AA- d 25 > 20, e 22 > 21
+AB- d 25 > 20
+BA- d 25 > 20, e 18 > 17
+BB- d 25 > 18
+AAA- Unchanged
+AAB- d 30 > 35
+ABA- Unchanged
+ABB- Unchanged
+BAA- d 30 > 32
+BAB- d 30 > 35
+BBA- d 30 > 28
+BBB- Unchanged
+Ether- e 30 > 28
+
+Ganador
+This is my favorite Gear, and the first opponent you fight in the tournament (not that it matters as a scripted battle). His slow attacks were at least compensated for by fast Ether shots, but more damage was all he needed for them to work. I made his 3-attack strings do the same damage as they would be done normally to stop him from being overtuned, only to remove them for more flexibility via Blanking. The removed route can be done by pressing A, L1/O, B. Curiously, he has damage for a BBB attack in his table despite not having one.
+A- d 10 > 20
+B- d 10 > 22
+#A- d 20 > 25
+AB- changed to match BB
+#B- d 20 > 30
+ABA- Removed
+ABB- Removed
+Ether- Unchanged
+
+Titan
+This Gear received some tweaks to make most of his combos works, but he still has a few issues. He should be less of a pushover now.
+A- d 10 > 15, e 51 > 48, first hit has no pushback
+B- d 10 > 18, e 25 > 19
+AA- d 20 > 15
+AB- d 20 > 15, e 25 > 19
+BA- d 20 > 28
+BB- d 20 > 25
+AAA- d 25 > 28
+ABA- d 25 > 28
+ABB- Unchanged
+Ether- d 20 > 24
+
+Wind Shaver (WShaver)
+Another Gear with seemingly arbitrary strings. No attempt has been made to streamline them since he only has 3 attacks, but at the very least, they are improved and now do consistent damage regardless of where they are in the string.
+A- d 10 > 18
+B- d 10 > 25
+AA- d 20 > 15
+AB- d 20 > 18
+BA- d 20 > 25
+BB- d 20 > 15
+AAA- d 25 > 18
+AAB- Unchanged
+ABA- d 25 > 15
+ABB- d 25 > 18
+BAA- Unchanged
+BAB- d 25 > 15
+BBA- d 25 > 28
+BBB- Unchanged
+Ether- d 20 > 22
+
+Firewheel
+He has a rather neat design, and does have a few things holding this Gear back. Being perceived as easy despite being so far in the tourney prompted a few buffs to hopefully put him on the same level as Hatamoto.
+A- d 10 > 15
+B- d 10 > 14, e 21 > 19
+AA- d 20 > 14, e 21 > 19
+AB- d 20 > 15
+BA- d 20 > 15
+BB- d 20 > 18
+AAA- d 25 > 35
+AAB- Unchanged
+ABA- Unchanged
+ABB- d 6 > 8
+BAA- d 25 > 28
+BAB- Unchanged
+BBA- d 25 > 22
+BBB- d 25 > 18
+Ether- Unchanged
+
+SilverStar
+Undoubtedly deserving of the penultimate story fight with speed outclassing Stier's. His damage was lowered to compensate for his fast attacks, but remains just as dangerous with the new mechanics in place.
+A- d 10 > 14
+B- d 10 > 12
+AA- d 20 > 12
+AB- d 20 > 12
+BA- d 20 > 12
+BB- d 20 > 12
+AAA- d 25 > 20
+AAB- Unchanged
+ABA- d 25 > 18
+ABB- d 25 > 22
+BAA- d 25 > 20
+BAB- d 25 > 20
+BBA- d 25 > 14
+BBB- d 25 > 20
+Ether- d 20 > 18, h 15 > 16
+
+Musha
+This Gear received buffs to be somewhat competitive in case people actually liked zoning. This makes him more challenging for the story, but his aggression stays the same.
+A- d 10 > 25, e 31 > 30, has slightly more reach
+B- d 10 > 12, e 31 > 30
+BA- d 10 > 16, e 31 > 30
+BB- d 8 > 10
+Ether- Unchanged
+
+Hatamoto
+Thought of as solid in the original, he has been tweaked only slightly to remain such, although his signature twirls were adjusted for consistency and to prevent making #BA always the optimal combo.
+A- d 10 > 16
+B- d 10 > 15, e 25 > 24
+AA- d 20 > 15
+AB- d 20 > 18
+BA- d 20 > 15
+BB- d 20 > 18
+AAA- Unchanged
+AAB- e 25 > 24
+ABA- e 25 > 24
+ABB- d 25 > 18
+BAA- Unchanged
+BAB- Unchanged
+BBA- Unchanged
+BBB- d 25 > 18
+Ether- Unchanged
+
+Backfirer
+An intentionally-weak Gear accidentally made decent from one change. Giving it a homing attack fixed its core issue of not being able to hit anything reliably, perhaps too well. I somewhat regret making this change, but there's no reason to remove it. The cannon shot was way too slow to ever actually hit if it didn't home, so I toned down the side turret instead.
+A- d 8 > 10, shoots 1 frame later
+B- Homes in on the enemy
+
+Shinobi
+I think I nerfed his enders because they were too similar in frame data, but I haven't gotten around to the real improvements for him yet. He's going to chain faster, and will stick further out during AB. 
+A- d 15 > 18
+B- d 16 > 20
+AA- d 30 > 20
+AB- d 30 > 18
+BA- Unchanged
+Ether- d 23 > 24
+
+Wyrm
+It's based on the Germanic dragons that appear like worms. I was reluctant to even select this monster at first, but grew adjusted to it when I learned it can slip through opponents between their legs. Crude humor aside, it is an interesting way to confuse your opponent. It now has a full set of moves now even though some strings are still too slow to work. I'm not sure how much I can do to fix that, but I'll try.
+A- d 10 > 12
+B- d 10 > 18
+AA- d 20 > 18
+AB- d 20 > 15
+BA- d 20 > 15
+BB- d 20 > 10
+AAA- Unchanged
+AAB- (New) d 10
+ABA- d 25 > 20
+ABB- Unchanged
+BAA- Unchanged
+BAB- d 25 > 20
+BBA- (New) d 14
+BBB- Unchanged
+Ether- Unchanged
+
+Tin Robo
+I saw some room for improvement despite being intentionally bad to some degree. It remains quite linear, but is no longer awful with faster B strings and the removal of its useless AAA attack.
+A- d 10 > 15
+B- d 10 > 15, e 30 > 25
+AA- d 20 > 25
+AB- d 20 > 15
+BA- d 20 > 25
+BB- d 20 > 15, e 29 > 24
+AAA- Removed
+ABB- d 25 > 20
+BBB- Unchanged
+Ether- Unchanged
+
+Rankar
+I don't think I can make him viable, but I did give him a nice damage buff to at least let him have something in return for his stiff attacks.
+A- d 10 > 20
+B- d 10 > 20
+AA- Unchanged
+AB- Unchanged
+BA- Unchanged
+BB- Unchanged
+AAA- d 25 > 28
+AAB- Unchanged
+ABA- d 25 > 28
+ABB- Unchanged
+BAA- d 25 > 28
+BAB- Unchanged
+BBA- Unchanged
+BBB- d 25 > 28
+Ether- Unchanged
+
+Etone
+Despite having fast projectiles, this Gear's physical attacks are too slow and unreliable for him to be viable. It's a shame, honestly. Who would have that the longer weapon would be inferior?
+A- d 10 > 18
+B- d 10 > 18
+AB- d 20 > 28
+BA- d 20 > 28
+ABA- Unchanged
+Ether- Unchanged
+
+Neo Etone
+The only reason this Gear is decent is because B and BA are easy to spam. His A and AB are quite slow. Even though it may seem like the Etones could be a fun or equal matchup, it's rather one-sided.
+A- d 10 > 20
+B- d 10 > 12
+AB- d 20 > 15
+BA- d 20 > 15
+Ether- Unchanged
+
+Golem
+A surprisingly solid monster with fast attacks. Even though  his AAA is too slow to be of any use, it's a gimmick useful to teach newer players that guarding isn't always the best idea.
+A- d 10 > 15
+B- d 10 > 15
+AA- d 20 > 15
+AB- d 20 > 15
+BA- d 20 > 25
+BB- d 20 > 15
+AAA- Unchanged
+AAB- Unchanged
+ABA- Unchanged
+ABB- Unchanged
+BBB- Unchanged
+Ether- Unchanged
+
+Fixbot
+I have absolutely no idea what I'm going to do with this Gear. He only has three unique attacks that are spread out through four linear strings. With all of them melee, there's little room for flexibility.
+A- d 10 > 15
+B- d 10 > 15
+AA- d 20 > 15
+AB- d 20 > 15
+BA- d 20 > 15
+BB- d 20 > 15
+AAB- Unchanged
+ABA- Unchanged
+BAB- Unchanged
+BBA- Unchanged
+Ether- Unchanged
+
+Worker
+A limited Gear who needs his melee combos fixed. Once that's done, he shouldn't be awful by any means.
+A- Unchanged
+B- d 10 > 20
+AA- Unchanged
+AB- Unchanged
+Ether- Unchanged
+
+Dozer
+This Gear might also benefit from chaining faster, but for now it gets a slight damage buff to make sure his string will work in the future. B will also home in on the opponent to make up for its slow speed.
+A- d 15 > 18
+B- Unchanged
+AA- Unchanged
+AAA- Unchanged
+
+Death(scythe)
+I haven't touched this character at all. Already possessing high damage, the only real improvement it needs is to attack faster, which will come next update. I may also switch around B and AB to give it a decent poking attack.
+A- Unchanged
+B- Unchanged
+AA- Unchanged
+AB- Unchanged
+Ether- Unchanged
+
+Merman
+Another hidden high-tier Gear. His projectiles were absurd, but nerfing back-hits has helped level him out without needing to nerf them. AAB is quite situational right now and was added to fill out his moveset. It will get refined later.
+A- d 10 > 14
+B- d 8 > 12
+AA- d 20 > 14
+AB- d 20 > 18
+AAA- d 25 > 22
+AAB- (New) d 25
+ABA- d 25 > 22
+ABB- d 12 > 10
+Ether- Unchanged
+
+Salvager
+The best non-Hero Gear in the game. This bugger could spam spins and Ether Bullets incredibly fast, and was used for 100% speedruns. Nerfs were inevitable, but hey: AAB actually does damage now.
+A- d 10 > 18
+B- d 10 > 12, e 14 > 15
+AA- d 20 > 18
+AB- e 14 > 15
+BB- d 20 > 14, e 14 > 15
+AAA- d 25 > 22
+AAB- d 0 > 25
+BBB- d 25 > 20, e 14 > 15
+Ether- d 20 > 12
+
+Trooper
+I'm not sure if I can fix this Gear's ability to combo, but maybe I can help it shoot sooner. Either way, I won't put too much effort into this one.
+A- Unchanged
+B- d 10 > 12
+AA- Unchanged
+AB- d 10 > 14
+BA- d 20 > 25
+AAA- Unchanged
+AAB- d 10 > 16
+
+Twinburner
+It's a shame this Gear is rather limited because he probably could have a really cool moveset. At the very least, what he has isn't bad at all, the damage buff he gets along with the universal buffs should let him be somewhat competitive.
+A- d 10 > 15
+B- d 18 > 20
+AA- d 20 > 25
+AB- d 15 > 18
+BA- d 20 > 22
+Ether- Unchanged
+
+Sand Trooper (S-Trooper)
+Probably my favorite low-tier Gear, even though I didn't have time to tweak him. He has some room for improvement with faster chains. His Ether damage is listed as 10 despite not having one, supposed to have a 10-damage Ether shot according to the damage table, but I'll just make his normal shot home instead.
+A- Unchanged
+B- Unchanged
+AA- Unchanged
+AB- d 20 > 35
+AAA- Unchanged
+AAB- d 30 > 28
+
+Sand Tripper (S-Tripper)
+Another Gear I didn't touch. Suggestive name aside, this Gear doesn't have too much. AA does decent damage, but his melee attacks are generally slow. His fast Ether speed does help with approaching. I'm probably going to make his B the gun when I fix him up since his B combos are worthless.
+A- Unchanged
+B- Unchanged
+AA- Unchanged
+AB- Unchanged
+BA- Unchanged
+Ether- Unchanged 
+
+Sphar (Sufal)
+One of the late bosses who is rather undercooked. I gave him a few tweaks to be better, but I have no intention of trying to make such a limited character competitive.
+A- d 15 > 22
+B- d 10 > 20
+AA- d 20 > 25
+AB- Unchanged
+BA- d 20 > 30
+Ether- Unchanged
+
+EG-Gunner
+Yet another Gear I haven't touched, but do intend to fix up now that I have learned how to modify more aspects of Gears. I'll try to simplifying his moveset a little since it's unintuitive and a bit awkward, especially now that the string cooldown is removed.
+A- Unchanged
+B- Unchanged
+AA- Unchanged
+AB- Unchanged
+BA- Unchanged
+BB- Unchanged
+ABA- Unchanged
+BAB- Unchanged
+Ether- Unchanged
+
+EG-Armor
+Having played the other EGs before this Gear, having a full moveset took me by surprise. B will have less recovery in the next update so he can use his ranged attacks more liberally.
+A- d 15 > 18
+B- d 10 > 15
+AA- d 20 > 18
+AB- d 20 > 15
+BA- Unchanged
+BB- Unchanged
+AAA- Unchanged
+AAB- Unchanged
+ABA- Unchanged
+ABB- Unchanged
+BAA- Unchanged
+BAB- Unchanged
+BBA- Unchanged
+BBB- d 18 > 15
+Ether- Unchanged
+
+Pedestal
+Don't think too hard about where this Gear shoots Ether bullets from. Despite receiving more damage, it still can't do all of its combos properly. That will be improved next update.
+A- d 12 > 17
+B- Unchanged
+AA- d 22 > 17
+AB- d 22 > 17
+BA- d 22 > 17
+BB- Unchanged
+AAA- d 25 > 28
+AAB- Unchanged
+ABA- d 25 > 28
+ABB- d 25 > 28
+BAA- d 25 > 28
+BAB- Unchanged
+BBA- d 25 > 28
+BBB- Unchanged
+Ether- Unchanged
+
+Edin
+An interesting Gear you fight in the endgame. She bears some similarities to Regulus, so I tweaked her damage similarly. Her AB, however, moves backwards instead of forwards, giving it even less range than it would have otherwise. Hopefully I can fix that soon. I'd also like to separate the hits on her BA string to make her more unique.
+A- d 10 > 14
+B- d 10 > 14
+AA- d 20 > 14
+AB- d 20 > 18
+BA- d 20 > 14
+BB- d 20 > 14
+AAA- d 25 > 22
+AAB- d 25 > 22
+ABA- d 35 > 32
+ABB- Unchanged
+BAA- d 25 > 22
+BAB- d 25 > 22
+BBA- d 25 > 22
+BBB- d 25 > 22
+Ether- d 20 > 22
+
+EG-Blade
+This Gear seems like people would sleep on it, but it definitely has a lot of potential. The damage adjustments help greatly, but it will be able to chain faster in the next update.
+A- d 18 > 20
+B- d 10 > 15
+AA- d 20 > 22
+AB- d 20 > 22
+BA- d 20 > 22
+BB- d 20 > 15
+AAB- d 25 > 20
+ABA- d 25 > 22
+Ether- d 20 > 24
+
+Argento
+With fast attacks and high damage, he was likely intended to be OP, especially as the secret Gear. The problem was that the mechanics did not allow him to fully utilize his combos. He became far more powerful with that fixed, and was given changes to be somewhat of an alternative to Rico's Gears.
+A- d 18 > 22
+B- d 18 > 22
+AA- Now the same punch as BA
+#A- d 26 > 22, e 18 > 17
+AB- d 26 > 22
+BB- d 26 > 22
+AAA- h 10-15 > 10-16, hit trail improved
+AAB- d 28 > 26
+ABA- Unchanged
+ABB- Unchanged
+BAA- d 24 > 28
+BAB- d 28 > 24
+BBA- Unchanged
+BBB- Unchanged
+Ether- d 24 > 22
+- Streetwize
+
 ### Encounters:
 
 - Encounter rate has been halved except for the Duneman Isle, Shevat Emergency Shaft, Anima Dungeon 2 and Deus for grinding reasons.
@@ -223,9 +974,9 @@ Throughout the game, encounter rates have been lowered. For many players, this h
 
 ### Exp/gold:
 
-- All exp/gold rates have been doubled.
+- All exp/gold rates have been increased by 50%.
 
-As a way of compensating for lower encounter rates, money and experience have been doubled in this patch to keep the game from spiking in difficulty.
+As a way of compensating for lower encounter rates, money and experience have been increased by 50% in this patch to keep the game from spiking in difficulty.
 
 
 ### Fast text:
@@ -375,6 +1126,12 @@ Bart:
 - ~~White Cologne~~ Divvy Up: Next Ether affects all
 
 Allows Bart to have useful part wide buffs in exchange for no healing. 
+
+- Divvy Up: Level 28 to 24.
+- Red Cologne: Level 38 to 32.
+- Blue Cologne: Level 42 to 36.
+- White Cologne: Level 50 to 40.
+- Wind/Earth/Fire/Water Mode: Level 56 to 45.
 
 
 Billy:
@@ -588,11 +1345,13 @@ So the plan is to keep some of the camp wherever it’s reasonable because the g
 - Suzarn = Suzanne 
 - Krelian = Karellen
 - Stratski = Strachey
+- Reapers = Wels
 
 #### Story changes:
 
 - Liquid Sky is referred to by Jessie and Sigurd in the gunroom and by Maison after Shakhan.
 - The names of the Gazel Ministry are referenced by Karellen in their final scene.
+- All references to Chu-Chu are now pointers, which means that anything in the script with the name "Chu-Chu" will now load the nickname the player gave her.
 
 #### Chapter names:
 
@@ -692,6 +1451,28 @@ Yggdrasil IV:
 
 All deathblow learning rates (sans Emeralda) have been doubled to minimize grinding and in case the encounters patch has been applied. Elly's has been changed to 8 from 3 so that players have more time to get her deathblows for plot related reasons.
 
+## Modes;
+
+### All patches:
+
+Implements all patches onto the ROM.
+
+### Easy mode:
+
+Patches implemented:
+
+- Half encounters.
+- 50% exp/gold.
+
+### Hard mode:
+
+Patches implemented:
+
+- Rebalanced items/spells.
+- Rebalanced monsters.
+- Rebalanced character stats.
+
+
 ## Glitches:
 
 ### Items/spells:
@@ -733,6 +1514,9 @@ DM or tag here if you want immediate feedback on Twitter:
 - Will Bill
 - Xenocritus
 
+### Battle arena balance:
+- Streetwize: @StreetwizeJJ2
+
 ### Programming:
 - rufaswan
 - rulv
@@ -740,8 +1524,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - Xenocritus
 - krmine
 - edrovinhaz
-- Streetwize: @StreetwizeJJ2
-- ChaoticBrave: @ChaoticBrave
+- Streetwize
 - Nohar
 
 ### Testing:
@@ -755,6 +1538,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - Aero JP
 - Kiahnte
 - edrovinhaz
+- Streetwize
 - Nohar
 
 ### Tools:
