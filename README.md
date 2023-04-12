@@ -1259,7 +1259,7 @@ Yggdrasil IV:
 
 All deathblow learning rates (sans Emeralda) have been doubled to minimize grinding and in case the encounters patch has been applied. Elly's has been changed to 8 from 3 so that players have more time to get her deathblows for plot related reasons.
 
-## Modes;
+## Modes:
 
 ### All patches:
 
