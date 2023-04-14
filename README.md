@@ -260,7 +260,7 @@ Everyone will be improved however possible, although the large roster makes bala
 #### Gameplay Changes
 - The half-second cooldown after completing a String has been removed; tapping L1 or Circle still lets you buffer an attack immediately afterward.
 - The combo counter now only applies for projectiles with the limit remaining 4 hits.
-- Accumulated stun cap raised from 38 to 80, stun from melee damage raised from 120% to 220%, and projectile stun raised from 60% to 100%. Drain remains one point every tick to effectively halve the rate of decay. Hitstun is unchanged.
+- Accumulated stun cap raised from 38 to 96, stun from melee damage raised from 120% to 220%, and projectile stun raised from 60% to 100%. Drain remains one point every tick to effectively halve the rate of decay. Hitstun is unchanged.
 - Projectiles hitting from behind do 150% damage from 200%, and Guarding will now halve that.
 - The Heat drain for desert-immune Gears has been halved to give it the normal moving penalty while over sand rather than none at all.
 Planned Changes (Not yet implemented)
@@ -704,7 +704,7 @@ Sand Trooper (S-Trooper):
 - AB: d 20 > 35
 - AAB: d 30 > 28
 
-Probably my favorite low-tier Gear, even though I didn't have time to tweak him. He has some room for improvement with faster chains. His Ether damage is listed as 10 despite not having one, supposed to have a 10-damage Ether shot according to the damage table, but I'll just make his normal shot home instead.
+Probably my favorite low-tier Gear, even though I didn't have time to tweak him. He has some room for improvement with faster chains. His Ether damage is listed as 10 despite not having one, but I'll just make his normal shot home instead.
 
 Sand Tripper (S-Tripper):
 - Unchanged
