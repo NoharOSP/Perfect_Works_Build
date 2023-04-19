@@ -60,21 +60,22 @@ Citan
 "Well we cannot do anything
 as long as we are prisoners
 ...even if we wanted to."<Close><End of Block>
-<TextBlock 10 w:46 h:3>
-Let us rest a little.
+<TextBlock 10 w:46 h:4>
+Citan
+"Let us rest a little.
 Maybe it will put your
-mind at ease.<New>
+mind at ease."<New>
      Good idea
      Let's talk more<Close><End of Block>
-<TextBlock 11 w:42 h:3>
-Let us rest a little.
+<TextBlock 11 w:46 h:3>
+"Let us rest a little."
      Good idea
      Let's talk more<Close><End of Block>
 <TextBlock 12 w:10 h:2>
 Citan
 "..."<Close><End of Block>
-<TextBlock 13 w:42 h:3>
-Let us rest a little.
+<TextBlock 13 w:46 h:3>
+"Let us rest a little."
      Good idea
      Let's talk more<Close><End of Block>
 <TextBlock 14 w:40 h:3>

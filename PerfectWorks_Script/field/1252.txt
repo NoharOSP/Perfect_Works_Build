@@ -1,22 +1,26 @@
-<TextBlock 1 w:40 h:4>
-Warship signature
-detected.
+<TextBlock 1 w:38 h:4>
+Blue-Haired Girl
+"Warship signature
+detected.<New>
 ...<Delay 10>...<Delay 10>It's not
 our target.<New>
 This type...
 It matches with
 the Av pirate ship,
-Yggdrasil.<Close><End of Block>
+Yggdrasil."<Close><End of Block>
 <TextBlock 2 w:38 h:4>
 Dominia
 "Yggdrasil?<Delay 10> Wasn't
 she sunk in the
 earlier battle?"<Close><End of Block>
-<TextBlock 3 w:54 h:4>
-There's no record of
-its sinking. We were too
-busy fighting that red
-Gear to try to confirm it.<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Blue-Haired Girl
+"There's no record
+of its sinking.<New>
+We were too busy
+fighting that red
+Gear to try to
+confirm it."<Close><End of Block>
 <TextBlock 4 w:48 h:3>
 Dominia
 "Then there is a chance
@@ -24,48 +28,52 @@ that it did not sink...<New>
 I believe the data shows
 the Yggdrasil was that
 Gear's mother ship?"<Close><End of Block>
-<TextBlock 5 w:44 h:2>
-One moment<Delay 30>...<Delay 30>...<Delay 30>
-Yes, that is correct.<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Blue-Haired Girl
+"One moment<Delay 30>...<Delay 30>...<Delay 30>
+Yes, that is correct."<Close><End of Block>
 <TextBlock 6 w:44 h:3>
 Dominia
 "Excellent.
 Give me the controls."<Close><End of Block>
-<TextBlock 7 w:48 h:3>
-Excellent?
-What are you planning on
-doing?<Close><End of Block>
+<TextBlock 7 w:38 h:4>
+Blue-Haired Girl
+"Excellent?<Delay 10>
+What are you
+planning on doing?"<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Dominia
 "I'll sink it, of course.
 She will never trouble the
 commander again."<Close><End of Block>
-<TextBlock 9 w:52 h:4>
-Wait! The commander's
-orders were to investigate
-the disappearance of that
+<TextBlock 9 w:46 h:4>
+Blue-Haired Girl
+"Wait!<New>
+The commander's orders
+were to investigate the
+disappearance of that
 flying battleship.<New>
 We can't deviate from 
 our mission.<New>
-Besides, it's high time we
-resupply somewhere.
-Fuel is low.<Close><End of Block>
+Besides, it's high time
+we resupply somewhere.
+Fuel is low."<Close><End of Block>
 <TextBlock 10 w:40 h:3>
 Dominia
 "We have enough.
 I'll take her down."<Close><End of Block>
-<TextBlock 11 w:44 h:4>
-...Urgh...<Delay 10>
-Once you start there
-is no stopping you,
-is there?<New>
+<TextBlock 11 w:46 h:4>
+Blue-Haired Girl
+"...Urgh...<Delay 10> Once you
+start there is no
+stopping you, is there?<New>
 I hope you know that
 fighting in water is
 totally different from
-fighting on land.<Close><End of Block>
+fighting on land."<Close><End of Block>
 <TextBlock 12 w:36 h:4>
 Dominia
-"Naturally.<Delay 10>
+"Of course.<Delay 10>
 Sorry about this,
 Cherubina."<Close><End of Block>
 <TextBlock 13 w:52 h:4>

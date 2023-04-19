@@ -56,9 +56,8 @@ ceremony tomorrow."<Close><End of Block>
 <TextBlock 8 w:46 h:4>
 Fei
 "Why, hello there, Dan!<Delay 20>
-You're looking lively 
-today...<New>
-as you do every day!"<Close><End of Block>
+You're lively today...
+as you are every day!"<Close><End of Block>
 <TextBlock 9 w:38 h:3>
 Fei
 "What is it, Dan?<Delay 20>
@@ -132,7 +131,8 @@ brother-in-law...<New>
 Hah!
 That part ain't going
 to be no honeymoon!"<Close><End of Block>
-<TextBlock 20 w:44 h:3>
+<TextBlock 20 w:44 h:4>
+Boy
 "So there you are!<Delay 30>
 Fei, I have to talk to
 you about something!"<Close><End of Block>

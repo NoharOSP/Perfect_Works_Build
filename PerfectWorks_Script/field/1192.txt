@@ -206,10 +206,13 @@ I was worried about you!"<Close><End of Block>
 <TextBlock 16 w:16 h:2>
 Fei
 "Doc..."<Close><End of Block>
-<TextBlock 17 w:54 h:3>
-Welcome to the sand cruiser
-'Yggdrasil'. We apologize
-for that earlier incident.<Close><End of Block>
+<TextBlock 17 w:42 h:3>
+Old Man
+"Welcome to the sand
+cruiser 'Yggdrasil'.<New>
+We apologize for that
+earlier incident.<Delay 10>
+My name is Maison."<Close><End of Block>
 <TextBlock 18 w:46 h:4>
 Maison
 "I'm sure everyone has

@@ -75,8 +75,9 @@ the other half of the
 Fatima Jasper."<Close><End of Block>
 <TextBlock 10 w:2 h:1>
 ?<Opcode 2 30><Close><End of Block>
-<TextBlock 11 w:24 h:1>
-Who are you?<Close><End of Block>
+<TextBlock 11 w:28 h:2>
+Girl
+"Who are you?"<Close><End of Block>
 <TextBlock 12 w:2 h:1>
 !<Opcode 2 20><Close><End of Block>
 <TextBlock 13 w:14 h:2>

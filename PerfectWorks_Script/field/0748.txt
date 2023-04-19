@@ -577,22 +577,26 @@ style of fighting."<Close><End of Block>
 Ol' Man Bal
 "First, changing the
 Engine is a good idea."<Close><End of Block>
-<TextBlock 94 w:44 h:4>
-It's been a long time
-since my last visitor.
-What happened? Did you
-fall from the surface?<Close><End of Block>
+<TextBlock 94 w:44 h:3>
+Old Man
+"It's been a long time
+since my last visitor.<New>
+What happened?
+Did you fall from
+the surface?"<Close><End of Block>
 <TextBlock 95 w:50 h:3>
-I see...
-That's too bad. <New>
+Old Man
+"I see...
+That's too bad.<New>
 I can tell from the sound
 that you both ride good
 Gears...<New>
 But the legs seem to be
-playing up a bit.<Close><End of Block>
+playing up a bit."<Close><End of Block>
 <TextBlock 96 w:48 h:4>
-Ha ha ha.
-It's easy to know what's
+Old Man
+"Ha ha ha.<New>
+It's easy to tell what's
 wrong with Gears by the
 sounds they make.<New>
 My guess is that one of
@@ -606,7 +610,7 @@ walk with, too.<New>
 Oh, by the way, the
 name's Balthasar,
 but you can call me
-Ol' Man Bal.<Close><End of Block>
+Ol' Man Bal."<Close><End of Block>
 <TextBlock 97 w:54 h:4>
 Ol' Man Bal
 "I guess you can call me a
@@ -621,13 +625,14 @@ Bart
 surprise! There's someone
 living in this place!"<Close><End of Block>
 <TextBlock 99 w:52 h:4>
-Hmm, it's been a while,
+Old Man
+"Hmm, it's been a while,
 but I thought I could hear
-the sound of Gears.
-I assume they are yours?<New>
+the sound of Gears.<New>
+I assume they are yours?<Delay 10>
 Well anyway, come on back
 here and make yourself
-at home.<Close><End of Block>
+at home."<Close><End of Block>
 <TextBlock 100 w:48 h:3>
 Fei
 "I don't know where they

@@ -185,11 +185,10 @@ Hammer
 "What is going on!?"<Opcode 2 90><Close><End of Block>
 <TextBlock 24 w:32 h:1>
 Hah ha ha ha ha!<Opcode 2 45><Close><End of Block>
-<TextBlock 25 w:44 h:4>
-Mysterious Voice
-"As usual, you haven't
+<TextBlock 25 w:42 h:3>
+As usual, you haven't
 learned anything have
-you?"<Opcode 2 45><Close><End of Block>
+you?<Opcode 2 45><Close><End of Block>
 <TextBlock 26 w:18 h:2>
 Hammer
 "Yikes!"<Opcode 2 45><Close><End of Block>

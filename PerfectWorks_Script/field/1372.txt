@@ -32,7 +32,7 @@ Let us hurry on."<Close><End of Block>
 <TextBlock 7 w:30 h:3>
 Citan
 "Bishop Stone!!
-Wait!!!"<Close><End of Block>
+Stop!!!"<Close><End of Block>
 <TextBlock 8 w:30 h:2>
 Bart
 "H-Hey, Citan!"<Opcode 2 40><Close><End of Block>

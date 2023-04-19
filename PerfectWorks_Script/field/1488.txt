@@ -1,7 +1,7 @@
-<TextBlock 1 w:28 h:3>
+<TextBlock 1 w:24 h:3>
 Maria
 "<Seibzehn>,
-sally forth!!"<Opcode 2 50><Close><End of Block>
+away!!"<Opcode 2 50><Close><End of Block>
 <TextBlock 2 w:28 h:3>
 Maria
 "<Seibzehn>,

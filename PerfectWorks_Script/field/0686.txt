@@ -44,16 +44,19 @@ that, I'll repeat...<Delay 30>
 ...*Hic*!<Delay 30><New>
 Don't count your chickens
 before they hatch."<Close><End of Block>
-<TextBlock 6 w:22 h:1>
+<TextBlock 6 w:22 h:2>
+Man at Bar
 "Shaddap!!"<Close><End of Block>
-<TextBlock 7 w:26 h:1>
+<TextBlock 7 w:26 h:2>
+Man at Bar
 "...*Hic*..."<Close><End of Block>
-<TextBlock 8 w:50 h:3>
-Why're you all yappin'
+<TextBlock 8 w:50 h:4>
+Man at Bar
+"Why're you all yappin'
 when Big Joe is here
 trying to drink in peace?<New>
 Can't y'all shuddup...?<Delay 10>
-...<Delay 10>*Hic*!<Close><End of Block>
+...<Delay 10>*Hic*!"<Close><End of Block>
 <TextBlock 9 w:30 h:2>
 Big Joe
 "Gahahahahaha!"<Close><End of Block>
@@ -105,7 +108,7 @@ What's that ya'say!?<Close><End of Block>
 If you ask me,
 you're a big pus<--><Close><End of Block>
 <TextBlock 23 w:40 h:2>
-Aw, shawdup!
+Aw, shaddap!
 Just shut your trap!<Close><End of Block>
 <TextBlock 24 w:26 h:2>
 Guh...!<New>

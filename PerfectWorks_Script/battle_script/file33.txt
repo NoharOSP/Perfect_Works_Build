@@ -23,8 +23,8 @@ Spectators
 Tournament's Final Bout<Opcode 2 60><Close><End of Block>
 <TextBlock 4 w:36 h:3>
 Fei
-(This is not good.<Delay 30>
-At this rate...)<Close><End of Block>
+"(This isn't good.<Delay 30>
+At this rate...)"<Close><End of Block>
 <TextBlock 5 w:8 h:2>
 Fei
 "??"<Close><End of Block>

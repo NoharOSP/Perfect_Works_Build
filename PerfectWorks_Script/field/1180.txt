@@ -1,25 +1,31 @@
-<TextBlock 1 w:44 h:4>
-Whatever the case...<Delay 32>
-There's no way we're
-gonna to let that
-Shakhan guy have it...<Close><End of Block>
-<TextBlock 2 w:14 h:1>
-Gunner!<Close><End of Block>
-<TextBlock 3 w:12 h:1>
-Vance!<Close><End of Block>
-<TextBlock 4 w:22 h:1>
-Marseilles!<Close><End of Block>
+<TextBlock 1 w:42 h:3>
+Pirate
+"Whatever the case...<New>
+there's no way we're
+gonna let that damn
+Shakhan have it..."<Close><End of Block>
+<TextBlock 2 w:18 h:2>
+Pirate
+"Gunner!"<Close><End of Block>
+<TextBlock 3 w:16 h:2>
+Pirate
+"Vance!"<Close><End of Block>
+<TextBlock 4 w:26 h:2>
+Pirate
+"Marseilles!"<Close><End of Block>
 <TextBlock 5 w:50 h:3>
 Maitreya's units are on
 standby at the catapults.<New>
 They'll all be able to
 launch one minute
 after we resurface!<Close><End of Block>
-<TextBlock 6 w:24 h:2>
-Good!
-Let's do it!<Close><End of Block>
-<TextBlock 7 w:32 h:1>
-BattCon level 1!<Close><End of Block>
+<TextBlock 6 w:26 h:3>
+Pirate
+"Good!<Delay 10>
+Let's do it!"<Close><End of Block>
+<TextBlock 7 w:36 h:2>
+Pirate
+"BattCon level 1!"<Close><End of Block>
 <TextBlock 8 w:44 h:1>
 Surface Combat, ready!<Opcode 2 32><Close><End of Block>
 <TextBlock 9 w:40 h:1>
@@ -30,19 +36,23 @@ Anti-Gear guns, ready!<Opcode 2 32><Close><End of Block>
 Navigation and Engineering
 are also ready!<Opcode 2 32><Close><End of Block>
 <TextBlock 12 w:52 h:3>
-Battle stations, everyone!
+Pirate
+"Battle stations,
+everyone!<New>
 Surface Navigation, begin
-operating the sand pump!<New>
+operating the sand pump!<Delay 10>
 Prepare to fire starboard
-cannons upon surfacing!<Close><End of Block>
-<TextBlock 13 w:50 h:4>
-Trim to the right!<Delay 16>
+cannons upon surfacing!"<Close><End of Block>
+<TextBlock 13 w:42 h:4>
+Pirate
+"Trim to the right!<New>
 The wind is strong up
 there and we may be
 blown off-balance!<New>
 ...<Delay 32>
 Jerico!
-Hand the helm over to me!<Close><End of Block>
+Hand the helm
+over to me!"<Close><End of Block>
 <TextBlock 14 w:46 h:4>
 Bart
 "Either way,<Delay 32> no need to
@@ -75,19 +85,21 @@ Gunner!
 Give me the trigger
 for the Bart Bomb!"<Close><End of Block>
 <TextBlock 20 w:44 h:4>
-Awww yeah!<New>
+Pirate
+"Awww yeah!<New>
 Switch modes over to
 salvos after the
 initial shots!<New>
 Let's slow 'em down.
 Get ready to give them
 a spankin' they won't
-forget!<Close><End of Block>
-<TextBlock 21 w:50 h:4>
-Let me handle this!<Wait>
+forget!"<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+Pirate
+"Let me handle this!<New>
 Whether it's a warship or
-not, it's carrying a new
-Gear!<Close><End of Block>
+not, it's carrying a new-
+model Gear!"<Close><End of Block>
 <TextBlock 22 w:34 h:2>
 Gunner!
 Let 'em have it!!<Close><End of Block>
@@ -281,12 +293,14 @@ able to stand the friction!!<Close><End of Block>
 <TextBlock 57 w:24 h:1>
 First Mate!!<Close><End of Block>
 <TextBlock 58 w:36 h:4>
-Y-Young Master!<Delay 16>
-What is happening?
+Old Man
+"Y-Young Master!<Delay 16>
+What is happening?<New>
 What was the alarm
-all about...?<Close><End of Block>
-<TextBlock 59 w:34 h:1>
-Y-Young Master!!<Opcode 2 96><Close><End of Block>
+all about...?"<Close><End of Block>
+<TextBlock 59 w:38 h:2>
+Old Man
+"Y-Young Master!!"<Opcode 2 96><Close><End of Block>
 <TextBlock 60 w:48 h:3>
 Maison
 "Y-Young Master!
@@ -300,11 +314,13 @@ Maison
 What is happening?<New>
 What was the alarm
 all about...?"<Close><End of Block>
-<TextBlock 62 w:52 h:4>
-Young Master, please wait!
+<TextBlock 62 w:38 h:4>
+Old Man
+"Young Master,
+please wait!<New>
 It may just be a
 requisitioned ship,
-not a warship...<Close><End of Block>
+not a warship..."<Close><End of Block>
 <TextBlock 63 w:42 h:3>
 Maison
 "Y-Young Master!<New>
@@ -322,12 +338,13 @@ now and reconsider..."<Close><End of Block>
 <TextBlock 65 w:34 h:2>
 Maison
 "Young Master..."<Close><End of Block>
-<TextBlock 66 w:34 h:3>
-Not again...?
-Young Master!
-Hold on a second!<Close><End of Block>
-<TextBlock 67 w:28 h:1>
-Young Master!!<Opcode 2 96><Close><End of Block>
+<TextBlock 66 w:36 h:3>
+Silver-Haired Man
+"Young Master!
+Hold on a second!"<Close><End of Block>
+<TextBlock 67 w:34 h:2>
+Silver-Haired Man
+"Young Master!!"<Opcode 2 96><Close><End of Block>
 <TextBlock 68 w:48 h:2>
 Sigurd
 "Young Master! Again!!?"<Close><End of Block>

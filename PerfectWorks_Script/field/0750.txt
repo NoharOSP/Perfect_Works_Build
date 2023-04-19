@@ -1,11 +1,13 @@
 <TextBlock 1 w:10 h:1>
 What?<Opcode 2 60><Close><End of Block>
-<TextBlock 2 w:50 h:4>
-"Hey, come down here now!<Delay 30>
+<TextBlock 2 w:50 h:3>
+Pirate
+"Hey, come down here now!<New>
 I'm not gonna kill you.<Delay 30>
 All I want is for you to
 leave this Gear<--><Delay 60> Huh?"<Close><End of Block>
-<TextBlock 3 w:28 h:3>
+<TextBlock 3 w:28 h:4>
+Pirate
 "Hey!<Delay 30>
 You're<Delay 20> not an
 Av soldier?"<Close><End of Block>
@@ -18,6 +20,7 @@ You're the one who
 refused to listen to
 me, right?"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
+Pirate
 "Hah, ha, ha. Sorry, sorry.
 Yes, I remember you were
 saying something like that.<New>

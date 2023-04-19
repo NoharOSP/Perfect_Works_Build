@@ -17,7 +17,7 @@ Suzanne
 "Why, you...!
 How insolent!!"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
-A Man Called 'Champ'
+Man Called 'Champ'
 "Thanks, Suzanne.<Delay 20>
 Hmmm, so you're the
 new inmate<Delay 5>...<New>

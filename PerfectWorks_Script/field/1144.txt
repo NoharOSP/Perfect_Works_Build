@@ -27,10 +27,11 @@ so please be seated."<Close><End of Block>
 Citan
 "Call out if you are all
 ready."<Close><End of Block>
-<TextBlock 8 w:48 h:3>
+<TextBlock 8 w:38 h:4>
 Citan
-"N-No,<Delay 30> let us just
-accept your impatience."<Close><End of Block>
+"N-No,<Delay 10> it is okay.<Delay 30>
+But I appreciate
+the thought."<Close><End of Block>
 <TextBlock 9 w:42 h:3>
 Citan
 "Just sit tight for a

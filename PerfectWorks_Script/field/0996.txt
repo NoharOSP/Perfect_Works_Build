@@ -582,7 +582,7 @@ make haste!"<Close><End of Block>
 <TextBlock 111 w:54 h:4>
 Fei
 "Something interesting...?"
-    No thanks, I'll pass.
+    No thanks, I'll pass
     I want to take a look!<Close><End of Block>
 <TextBlock 112 w:44 h:2>
 Big Joe
@@ -628,7 +628,7 @@ Never fear, I'll be here!"<Close><End of Block>
 Big Joe
 "<Delay 5>...<Delay 5>Whaaat!?<Delay 15> I can't do
 any business with guys who
-haven't got 5000G! So-rry!"<Close><End of Block>
+haven't got 5000G! So~rry!"<Close><End of Block>
 <TextBlock 119 w:34 h:2>
 Fei
 "Ah! Hey, wait!!"<Opcode 2 45><Close><End of Block>

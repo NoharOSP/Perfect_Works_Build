@@ -20,33 +20,39 @@ I am strong...
 I am strong...
 I am strong...<Close><End of Block>
 <TextBlock 6 w:40 h:3>
-Do you know my name?
-    Yes I do
+Competitor
+"Hey, kid...<New>
+D'you know my name?"
+<Opcode 1 255>    Yes I do
     Nope<Close><End of Block>
-<TextBlock 7 w:34 h:3>
-That's right...
+<TextBlock 7 w:34 h:4>
+Competitor
+"That's right...
 I am the one and
-only...Big Joe!<Close><End of Block>
+only...Big Joe!"<Close><End of Block>
 <TextBlock 8 w:34 h:3>
-What, you don't
+Competitor
+"What, you don't
 remember? I am...<Delay 50>
 Big Joe!<New>
 The man who
 controls
-the world.<Close><End of Block>
+the world."<Close><End of Block>
 <TextBlock 9 w:44 h:4>
 Big Joe
 "Hey, boy.
 Do you know the
-secret of strength? <New>
+secret of strength?<New>
 It's...<Delay 30>
 gratitude to all your
 fans. Their love gives
 me strength."<Close><End of Block>
-<TextBlock 10 w:48 h:4>
-Hey, boy. Do you have
-anyone cheering for you?
-    Yes
+<TextBlock 10 w:38 h:4>
+Big Joe
+"Hey, boy.<New>
+Do you have anyone
+cheering for you?"
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 11 w:38 h:3>
 Big Joe
