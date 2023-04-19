@@ -55,28 +55,32 @@ bother me until now?"<Close><End of Block>
 Citan
 "To get you to
 board the Gear...?"<Close><End of Block>
-<TextBlock 9 w:54 h:4>
+<TextBlock 9 w:48 h:4>
 Citan
-"Well we cannot do anything
-as long as we are prisoners
-...even if we wanted to."<Close><End of Block>
+"Well, as prisoners we
+are helpless to do much
+about anything."<Close><End of Block>
 <TextBlock 10 w:46 h:4>
 Citan
 "Let us rest a little.
 Maybe it will put your
 mind at ease."<New>
-     Good idea
+<Opcode 1 255>     Good idea
      Let's talk more<Close><End of Block>
-<TextBlock 11 w:46 h:3>
-"Let us rest a little."
-     Good idea
+<TextBlock 11 w:44 h:3>
+Citan
+"Fei...<New>
+Let us rest a little."
+<Opcode 1 255>     Good idea
      Let's talk more<Close><End of Block>
 <TextBlock 12 w:10 h:2>
 Citan
 "..."<Close><End of Block>
-<TextBlock 13 w:46 h:3>
-"Let us rest a little."
-     Good idea
+<TextBlock 13 w:44 h:3>
+Citan
+"Fei...<New>
+Let us rest a little."
+<Opcode 1 255>     Good idea
      Let's talk more<Close><End of Block>
 <TextBlock 14 w:40 h:3>
 Citan

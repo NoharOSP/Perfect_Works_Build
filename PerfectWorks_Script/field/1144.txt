@@ -1,6 +1,8 @@
 <TextBlock 1 w:42 h:3>
 Fei
-    Sure, I'll help!
+"Well...<New>
+Let's see..."
+<Opcode 1 255>    Sure, I'll help!
     Um, better not...<Close><End of Block>
 <TextBlock 2 w:34 h:3>
 Fei
@@ -16,7 +18,7 @@ to give me a hand?"<Close><End of Block>
 <TextBlock 5 w:50 h:4>
 Citan
 "Well then, shall we go?"
-    Yeah, let's go
+<Opcode 1 255>    Yeah, let's go
     Hang on a sec<Close><End of Block>
 <TextBlock 6 w:42 h:4>
 Citan
