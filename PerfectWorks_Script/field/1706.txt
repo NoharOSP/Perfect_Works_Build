@@ -24,10 +24,9 @@ You have too many
  
  Received <Opcode 4 20><Close><End of Block>
 <TextBlock 9 w:48 h:2>
-Foreign object scanner: 
-Lock-off code [0101]<Close><End of Block>
+Foreign object scanner
+lock-off code: 0101<Close><End of Block>
 <TextBlock 10 w:52 h:3>
 Lock-off code data is in
 the Data Room on the other
-side.<Close>
-ide.<Close><Close><End of Block>
+side.<Close><Close><End of Block>
