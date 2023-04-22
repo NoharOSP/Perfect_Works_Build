@@ -626,8 +626,8 @@ Strachey
 <TextBlock 67 w:50 h:4>
 Elly
 "If I do not go, Fei and
-them will be executed for
-sure...<New>
+the others will be 
+executed for sure...<New>
 Karellen isn't concerned
 with anyone else but me."<Close><End of Block>
 <TextBlock 68 w:48 h:4>
@@ -670,8 +670,8 @@ Elly
 "The people in Nisan will
 be fine.<New>
 They can stand on their own
-feet without any support
-from me<Delay 5>...<Delay 30> This is also
+feet without my support
+<Delay 5>...<Delay 30> This is also
 true of you all,<Delay 5> right?"<Close><End of Block>
 <TextBlock 75 w:40 h:3>
 Breuer
