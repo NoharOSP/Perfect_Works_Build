@@ -337,7 +337,7 @@ Karellen
 "My my<Delay 5>...<Delay 5>
 Such harsh criticism.
 I am not that brutal.<New>
-So,<Delay 5> what will it be Elehayym?<Delay 15>
+What will it be, Elehayym?<Delay 15>
 Even if you were to try to
 flee now, it is not likely
 you would be able to<Delay 5>...<New>
