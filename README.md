@@ -9,7 +9,7 @@ Download version 0.2.0 here:
 ## Completion stats:
 
 - Name/terminology changes: 100%
-- Main script: 50% (up to Babel Tower)
+- Main script: 50% (up to end of Shevat arc)
 - NPC script: Not done (except for name/terminology changes)
 
 ## Coming soon:
@@ -20,6 +20,7 @@ Download version 0.2.0 here:
 - Online updater
 - Music swap
 - Patch undo
+- Aspect ratio fix for character portraits
 
 ## Introduction:
 
