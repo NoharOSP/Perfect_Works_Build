@@ -256,35 +256,7 @@ For those who want to test a certain section in the game. They use the mcd forma
 
 ### [Battle Arena](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Battling-Arena)
 
-### Encounters:
-
-- Encounter rate has been halved except for the Duneman Isle, Shevat Emergency Shaft, Anima Dungeon 2 and Deus for grinding reasons.
-
-Throughout the game, encounter rates have been lowered. For many players, this has been a strikingly annoying part of the game. Especially for sections with platforming as in emulated versions of Xenogears players no longer can hear the disc rev up loading the battle. Because the jump input gets eaten when a battle is being loaded, this will have you run off cliffs which is very frustrating. So the encounter rate was halved across a majority of the game. Select areas such as Deus, Anima Dungeon 2, the Duneman Isles, and the Shevat Emergency Shaft were kept the same. Deus is a common experience grinding spot due to the Power Seraph giving the most exp out of any single enemy in the game. Shevat’s Emergency Shaft and Anima Dungeon 2 were good places to grind for deathblows and money, respectively. And the Duneman Isles is supposed to be a gauntlet with the constant threat of dragons (which also have exclusive end game equipment on them). Not only would dropping the encounter rate here defeat the point of the optional dungeon, it’d be a lot harder to get exclusive weapons.
-
-### Exp/gold:
-
-- All exp/gold rates have been increased by 50%.
-
-As a way of compensating for lower encounter rates, money and experience have been increased by 50% in this patch to keep the game from spiking in difficulty.
-
-
-### Fast text:
-
-old_script is for versions of the ROM where the script patch hasn't been applied. new_script is for versions of the ROM where the script patch has been applied. Both versions contain modified versions of specific scenes where the text scrolls too quickly.
-
-Scenes with which had the potential to crash the game with FFMaster's version of the patch if you mashed through them have had delay codes added to avoid this from happening.
-
-#### Changed scenes:
-
-- Elly crash landing in Lahan.
-- Ramsus' introduction.
-- Shakhan's speech before the tournament.
-- The UFO story in the Orphanage.
-- The Ethos data banks.
-- Revelation about Bishop Stone.
-- Bart's monologue about Ft Jasper when it is first used.
-- Wave Existence scene.
+### [Quality of Life Features](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Extra-QOL-Features)
 
 ### [Items/spells](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Items-&-Spells)
 
