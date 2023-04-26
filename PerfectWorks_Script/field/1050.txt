@@ -1123,7 +1123,7 @@ BP-Exchanger Girl
 <Opcode 1 255>    #13: S Charger
     #14: X Charger
     #15: GNRS50
-    #16: DeathBlower3
+    #16: Deathblower3
     #17: Speed Shoes
     <=>PAGE 2
     <=>PAGE 1
@@ -1249,7 +1249,7 @@ BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
     On second thoughts, no!
     Yes I'll trade with you!
-<Opcode 1 255>  <=>#16: DeathBlower3
+<Opcode 1 255>  <=>#16: Deathblower3
   <=>CURRENT BP : - 7500
   <=>TOTAL   BP : -18000<Close><End of Block>
 <TextBlock 200 w:56 h:6>
@@ -1269,7 +1269,7 @@ obtained elsewhere, so that
 means we have to limit them
 to one per person. Sorry!"<Close><End of Block>
 <TextBlock 202 w:44 h:1>
-Received DeathBlower3!<Close><End of Block>
+Received Deathblower3!<Close><End of Block>
 <TextBlock 203 w:56 h:5>
 BP-Exchanger Girl
 "Sorry,<Delay 5> but you don't seem
