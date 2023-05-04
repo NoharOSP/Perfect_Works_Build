@@ -233,3 +233,35 @@ void patchChecker::initialise()
 	found = false;
 	buffer = 0;
 }
+
+void patchChecker::markVersion(std::string path)
+{
+	initialise();
+	maxByte = 40;
+	file.open(path, std::ios::in | std::ios::out | std::ios::binary);
+	while (!file.bad()) {
+		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
+		byte += 1;
+		if (byte == maxByte) {
+			writeByte(2);
+			break;
+		}
+	}
+	file.close();
+}
+
+void patchChecker::markSubVersion(std::string path)
+{
+	initialise();
+	maxByte = 41;
+	file.open(path, std::ios::in | std::ios::out | std::ios::binary);
+	while (!file.bad()) {
+		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
+		byte += 1;
+		if (byte == maxByte) {
+			writeByte(1);
+			break;
+		}
+	}
+	file.close();
+}

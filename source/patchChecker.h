@@ -22,6 +22,8 @@ public:
 	bool arenaCheck(std::string path);
 	void writeByte(int num);
 	void initialise();
+	void markVersion(std::string path);
+	void markSubVersion(std::string path);
 public:
 	unsigned char buffer;
 	bool found;

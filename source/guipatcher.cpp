@@ -513,6 +513,14 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 				initialisePatchLists();
 				SetWindowText(hWnd, L"Patching...");
+				if (pathFound1) {
+					pc1.markVersion(path1);
+					pc1.markSubVersion(path1);
+				}
+				if (pathFound2) {
+					pc2.markVersion(path2);
+					pc2.markSubVersion(path2);
+				}
 				SetCursor(LoadCursor(NULL, IDC_WAIT));
 				if (pathFound1) {
 					for (int i = 0; i < patchList1.size(); i++) {
