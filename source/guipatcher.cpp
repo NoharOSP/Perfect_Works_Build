@@ -311,47 +311,64 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				patchPathValid = true;
 			}
 			SetWindowText(hWnd, L"Preparing...");
+			bool scriptExists = false; 
+			if (pathFound1) {
+				if (pc1.scriptVerify(path1)) {
+					scriptExists = true;
+				}
+			}
+			if (pathFound2) {
+				if (pc2.scriptVerify(path2)) {
+					scriptExists = true;
+				}
+			}
 			if (patchPathValid) {
 				if (p_encounters) {
 					if (!p_items_spells && !p_script) {
-						if (pathFound1) {
-							if (!pc1.encountersCheck(path1)) {
-								encountersName1 = "cd1_encounters.ppf";
+						if (!scriptExists) {
+							if (pathFound1) {
+								if (!pc1.encountersCheck(path1)) {
+									encountersName1 = "cd1_encounters.ppf";
+								}
+								else {
+									MessageBox(hWnd, L"The encounters patch has already been applied.", L"Error", MB_ICONASTERISK);
+									p_encounters = false;
+								}
 							}
-							else {
-								MessageBox(hWnd, L"The encounters patch has already been applied.", L"Error", MB_ICONASTERISK);
+							if (pathFound2) {
+								if (!pc2.encountersCheck(path2)) {
+									encountersName2 = "cd2_encounters.ppf";
+								}
+								else {
+									MessageBox(hWnd, L"The encounters patch has already been applied.", L"Error", MB_ICONASTERISK);
+									p_encounters = false;
+								}
 							}
 						}
-						if (pathFound2) {
-							if (!pc2.encountersCheck(path2)) {
-								encountersName2 = "cd2_encounters.ppf";
-							}
-							else {
-								MessageBox(hWnd, L"The encounters patch has already been applied.", L"Error", MB_ICONASTERISK);
-							}
-						}
-						p_encounters = false;
 					}
 				}
 				if (p_exp_gold) {
 					if (!p_script && !p_items_spells) {
-						if (pathFound1) {
-							if (!pc1.expgoldCheck(path1)) {
-								expgoldName1 = "cd1_exp_gold.ppf";
+						if (!scriptExists) {
+							if (pathFound1) {
+								if (!pc1.expgoldCheck(path1)) {
+									expgoldName1 = "cd1_exp_gold.ppf";
+								}
+								else {
+									MessageBox(hWnd, L"The exp/gold patch has already been applied.", L"Error", MB_ICONASTERISK);
+									p_exp_gold = false;
+								}
 							}
-							else {
-								MessageBox(hWnd, L"The exp/gold patch has already been applied.", L"Error", MB_ICONASTERISK);
+							if (pathFound2) {
+								if (!pc2.expgoldCheck(path2)) {
+									expgoldName2 = "cd2_exp_gold.ppf";
+								}
+								else {
+									MessageBox(hWnd, L"The exp/gold patch has already been applied.", L"Error", MB_ICONASTERISK);
+									p_exp_gold = false;
+								}
 							}
 						}
-						if (pathFound2) {
-							if (!pc2.expgoldCheck(path2)) {
-								expgoldName2 = "cd2_exp_gold.ppf";
-							}
-							else {
-								MessageBox(hWnd, L"The exp/gold patch has already been applied.", L"Error", MB_ICONASTERISK);
-							}
-						}
-						p_exp_gold = false;
 					}
 				}
 				if (p_fastnew) {
@@ -392,7 +409,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					}
 				}
 				if (p_items_spells) {
-					if (p_script) {
+					if (p_script || scriptExists) {
 						if (pathFound1) {
 							if (!pc1.itemsCheck(path1, "itemsscript")) {
 								itemspellsName1 = "cd1_items_script.ppf";
@@ -431,23 +448,26 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 				if (p_monsters) {
 					if (!p_script && !p_items_spells) {
-						if (pathFound1) {
-							if (!pc1.monstersCheck(path1)) {
-								monsterName1 = "cd1_monster_stats.ppf";
+						if (!scriptExists) {
+							if (pathFound1) {
+								if (!pc1.monstersCheck(path1)) {
+									monsterName1 = "cd1_monster_stats.ppf";
+								}
+								else {
+									MessageBox(hWnd, L"The monsters patch has already been applied.", L"Error", MB_ICONASTERISK);
+									p_monsters = false;
+								}
 							}
-							else {
-								MessageBox(hWnd, L"The monsters patch has already been applied.", L"Error", MB_ICONASTERISK);
+							if (pathFound2) {
+								if (!pc2.monstersCheck(path2)) {
+									monsterName2 = "cd2_monster_stats.ppf";
+								}
+								else {
+									MessageBox(hWnd, L"The monsters patch has already been applied.", L"Error", MB_ICONASTERISK);
+									p_monsters = false;
+								}
 							}
-						}
-						if (pathFound2) {
-							if (!pc2.monstersCheck(path2)) {
-								monsterName2 = "cd2_monster_stats.ppf";
-							}
-							else {
-								MessageBox(hWnd, L"The monsters patch has already been applied.", L"Error", MB_ICONASTERISK);
-							}
-						}
-						p_monsters = false;
+						}	
 					}
 				}
 				if (p_script) {
@@ -474,23 +494,26 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 				if (p_stats) {
 					if (!p_items_spells && !p_script) {
-						if (pathFound1) {
-							if (!pc1.statsCheck(path1)) {
-								statName1 = "cd1_statchanges.ppf";
+						if (!scriptExists) {
+							if (pathFound1) {
+								if (!pc1.statsCheck(path1)) {
+									statName1 = "cd1_statchanges.ppf";
+								}
+								else {
+									MessageBox(hWnd, L"The stats patch has already been applied.", L"Error", MB_ICONASTERISK);
+									p_stats = false;
+								}
 							}
-							else {
-								MessageBox(hWnd, L"The stats patch has already been applied.", L"Error", MB_ICONASTERISK);
+							if (pathFound2) {
+								if (!pc2.statsCheck(path2)) {
+									statName2 = "cd2_statchanges.ppf";
+								}
+								else {
+									MessageBox(hWnd, L"The stats patch has already been applied.", L"Error", MB_ICONASTERISK);
+									p_stats = false;
+								}
 							}
 						}
-						if (pathFound2) {
-							if (!pc2.statsCheck(path2)) {
-								statName2 = "cd2_statchanges.ppf";
-							}
-							else {
-								MessageBox(hWnd, L"The stats patch has already been applied.", L"Error", MB_ICONASTERISK);
-							}
-						}
-						p_stats = false;
 					}
 				}
 				if (p_arena) {
@@ -538,9 +561,16 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 					}
 				}
+				if (scriptExists) {
+					p_script = true;
+				}
 				if (p_stats || p_exp_gold || p_monsters || p_encounters || p_fastnew) {
 					if (p_script || p_items_spells) {
 						SetWindowText(hWnd, L"Finishing...");
+						if (changed == false)
+						{
+							changed = true;
+						}
 						if (pathFound1) {
 							writeFile wf1(hWnd, home, path1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew);
 						}
@@ -823,7 +853,7 @@ void initialiseGeneralWindows(HWND hWnd) {
 	encounters = CreateWindow(L"BUTTON", L"Half encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	arena = CreateWindow(L"BUTTON", L"Rebalanced battle arena", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.45), 175, 25, hWnd, (HMENU)9002, hInst, NULL);
-	expgold = CreateWindow(L"BUTTON", L"Double exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	expgold = CreateWindow(L"BUTTON", L"1.5x exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items and spells", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.61), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
 	monsters = CreateWindow(L"BUTTON", L"Rebalanced monsters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.69), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
 	stats = CreateWindow(L"BUTTON", L"Rebalanced party stats", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.77), 130, 25, hWnd, (HMENU)9002, hInst, NULL);

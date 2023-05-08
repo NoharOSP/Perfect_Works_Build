@@ -232,6 +232,7 @@ void patchChecker::initialise()
 {
 	found = false;
 	buffer = 0;
+	byte = -1;
 }
 
 void patchChecker::markVersion(std::string path)
@@ -264,4 +265,27 @@ void patchChecker::markSubVersion(std::string path)
 		}
 	}
 	file.close();
+}
+
+bool patchChecker::scriptVerify(std::string path)
+{
+	initialise();
+	maxByte = 37;
+	file.open(path, std::ios::in | std::ios::out | std::ios::binary);
+	while (!file.bad()) {
+		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
+		byte += 1;
+		if (byte == maxByte) {
+			int val = (int)buffer;
+			if (val == 01) {
+				found = true;
+			}
+			else {
+				found = false;
+			}
+			break;
+		}
+	}
+	file.close();
+	return found;
 }

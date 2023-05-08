@@ -20,6 +20,7 @@ public:
 	bool scriptCheck(std::string path);
 	bool statsCheck(std::string path);
 	bool arenaCheck(std::string path);
+	bool scriptVerify(std::string path);
 	void writeByte(int num);
 	void initialise();
 	void markVersion(std::string path);
