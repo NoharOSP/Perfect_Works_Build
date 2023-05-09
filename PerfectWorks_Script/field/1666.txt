@@ -40,7 +40,7 @@ It must be a fake!<Close><End of Block>
 There's so many Imperial
 models out now.<Delay 10>
 It's a limited edition, 
-so I gotta buy it!"<Close><End of Block>
+so I gotta buy it!<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Wow, you got me that
 Battling Alloy!! <Delay 10>
@@ -83,7 +83,7 @@ Which one?<Close><End of Block>
 This is Ticketmeister.<New>
 What are you looking for?
     <Opcode 1 255>Tickets
-    Buy and sell
+    Classifieds
     Nothing<Close><End of Block>
 <TextBlock 24 w:42 h:3>
 A DK1200 encore
@@ -100,10 +100,10 @@ Pogoshoes, and I'm willing
 to pay up to 5 times their
 ordinary price!<Close><End of Block>
 <TextBlock 27 w:46 h:4>
-We're giving out 
-Dedication tickets.<Delay 10> 
-Please come to Room 21 
-in Etren Court.<Close><End of Block>
+'Dedication VIP
+Tickets Giveaway'<Delay 10>
+Please inquire at room
+2F1, Etemen Apartments<Close><End of Block>
 <TextBlock 28 w:38 h:3>
 ...<Delay 10>
 I've seen that 
