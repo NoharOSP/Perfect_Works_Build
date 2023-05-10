@@ -1,7 +1,7 @@
 <TextBlock 1 w:14 h:1>
 !%#?&+!<Close><End of Block>
 <TextBlock 2 w:50 h:3>
-Arbot Plaza's ahead.<Delay 10>
+Araboth Plaza's ahead.<Delay 10>
 No one is being allowed
 through without business!<Close><End of Block>
 <TextBlock 3 w:50 h:4>
@@ -157,19 +157,19 @@ You have a ticket? <Delay 10>
 You'd better hurry to 
 make it on time!<Close><End of Block>
 <TextBlock 27 w:52 h:4>
-Up ahead is Arbot Plaza.<Delay 10> 
-The Dedication ceremony 
-is about to start but you 
-don't have a ticket so...<Close><End of Block>
+Up ahead is Araboth Plaza.<Delay 10>
+The Dedication ceremony
+is about to start but you
+don't have a ticket, so...<Close><End of Block>
 <TextBlock 28 w:50 h:2>
 ...<Delay 10>
 You look rather odd.<New>
 3rd Class citizens should
 dress more appropriate.<Close><End of Block>
 <TextBlock 29 w:40 h:4>
-The Dedication is 
-starting.<Delay 10> 
-The whole city will 
+The Dedication is
+starting.<Delay 10>
+The whole city will
 be lively.<Close><End of Block>
 <TextBlock 30 w:50 h:2>
 ...<Delay 10>
@@ -183,16 +183,17 @@ There will be traffic
 during the Dedication.<Close><End of Block>
 <TextBlock 33 w:26 h:1>
 Danger ahead.<Close><End of Block>
-<TextBlock 34 w:48 h:4>
-Are you Etestrolling?<Delay 10> 
-What?<Delay 10> Etestrolling
-is walking along the 
-Etemenanki. <New>
-You need to download the
-Etem Guide to do it.<New>
+<TextBlock 34 w:44 h:4>
+Are you ESing, too?<Delay 10>
+Huh?<Delay 10> ESing means
+Etemenanki strolling.<New>
+'Etemen Walker' is a
+must-have for ESing.
+Feel free to download
+it.<New>
 Central Control always
 has fun things.<Delay 10>
-It's their job to keep 
+It's their job to keep
 the citizens happy.<Close><End of Block>
 <TextBlock 35 w:31 h:3>
 <]><Delay 5><]><Delay 5><]><Delay 5>ID check.  
@@ -205,7 +206,7 @@ the citizens happy.<Close><End of Block>
 <TextBlock 37 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
 <TextBlock 38 w:49 h:3>
-Etem News Flash.   
+Etemen News Flash.
 <]><Delay 5><]><Delay 5><]><Delay 5>The Dedication will 
 start shortly.<Close><End of Block>
 <TextBlock 39 w:50 h:3>
@@ -219,13 +220,13 @@ at the nearest terminal.<New>
 We recommend DK 950 users
 upgrade to the DK 1200.<Close><End of Block>
 <TextBlock 40 w:32 h:3>
-...you two...<Delay 10>
+...You two...<Delay 10>
 Please stop all 
 action...<Close><End of Block>
 <TextBlock 41 w:50 h:3>
-...suspicious persons...
-sighted in Arbot Plaza...
-Investigating...<Close><End of Block>
+...Suspicious persons...
+sighted in Araboth
+Plaza... Investigating...<Close><End of Block>
 <TextBlock 42 w:28 h:3>
 Fei
 "Elly, 
@@ -247,16 +248,16 @@ Fei
 <TextBlock 48 w:4 h:1>
 !!<Opcode 2 15><Close><End of Block>
 <TextBlock 49 w:38 h:1>
-...they...<Delay 20>escaped!?<Close><End of Block>
+...They...<Delay 20>escaped!?<Close><End of Block>
 <TextBlock 50 w:34 h:1>
-...affirmative...<Close><End of Block>
+...Affirmative...<Close><End of Block>
 <TextBlock 51 w:16 h:1>
 Attack!!<Opcode 2 30><Close><End of Block>
 <TextBlock 52 w:26 h:1>
-...this way!?<Opcode 2 30><Close><End of Block>
+...This way!?<Opcode 2 30><Close><End of Block>
 <TextBlock 53 w:44 h:2>
-...suspects, escaped!!
-...emergency response!<Close><End of Block>
+...Suspects, escaped!!
+...Emergency response!<Close><End of Block>
 <TextBlock 54 w:48 h:4>
 Elly
 "Dedication ceremony...<Delay 10>
