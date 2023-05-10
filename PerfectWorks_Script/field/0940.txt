@@ -4,15 +4,16 @@
 <TextBlock 2 w:26 h:2>
     3rd Floor
     Basement<Close><End of Block>
-<TextBlock 3 w:46 h:4>
+<TextBlock 3 w:42 h:4>
 Shakhan
 "There is a customary
-Tournament afterward<-->"<Close><End of Block>
+Tournament event
+afterward<-->"<Close><End of Block>
 <TextBlock 4 w:46 h:3>
 Ramsus
 "What about the matter
 in that report?"<Close><End of Block>
-<TextBlock 5 w:54 h:4>
+<TextBlock 5 w:52 h:4>
 Shakhan
 "What? Oh, you mean the
 500-year-old mobile weapon
@@ -20,9 +21,9 @@ excavated from the ruins?<New>
 Thanks to the help of the
 Church of the Ethos, the
 repairs are complete.<New>
-I thought we could announce
+I thought we could unveil
 it on the day of the
-dedication ceremony..."<Close><End of Block>
+naval review..."<Close><End of Block>
 <TextBlock 6 w:46 h:3>
 Ramsus
 "Toys like that should
@@ -117,11 +118,11 @@ Bart
 "That's what I thought.
 I knew you could do it."<Close><End of Block>
 <TextBlock 24 w:30 h:3>
- Fei
+Fei
 "I lost halfway
 through..."<Close><End of Block>
 <TextBlock 25 w:30 h:4>
- Bart
+Bart
 "No way!?
 I thought you'd
 win for sure!"<Close><Close><End of Block>

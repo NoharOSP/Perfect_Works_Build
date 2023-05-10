@@ -7,22 +7,24 @@ Margie
 "Yeah, but look
 what's coming
 out of it...!"<Opcode 2 30><Close><End of Block>
-<TextBlock 3 w:44 h:4>
+<TextBlock 3 w:46 h:4>
 Shakhan
-"Tomorrow is the 500th
-anniversary of this
-country.<New>
-Please come to the
-dedication ceremony."<Close><End of Block>
-<TextBlock 4 w:46 h:4>
+"Tomorrow will be the
+500th anniversary of
+our country's founding.<New>
+Please do come to
+the ceremonial naval
+review, Commander."<Close><End of Block>
+<TextBlock 4 w:42 h:4>
 Shakhan
 "There is a customary
-Tournament afterward<-->"<Close><End of Block>
+Tournament event
+afterward<-->"<Close><End of Block>
 <TextBlock 5 w:46 h:3>
 Ramsus
 "What about the matter
 in that report?"<Close><End of Block>
-<TextBlock 6 w:54 h:4>
+<TextBlock 6 w:52 h:4>
 Shakhan
 "What? Oh, you mean the
 500-year-old mobile weapon
@@ -30,9 +32,9 @@ excavated from the ruins?<New>
 Thanks to the help of the
 Church of the Ethos, the
 repairs are complete.<New>
-I thought we could announce
+I thought we could unveil
 it on the day of the
-dedication ceremony..."<Close><End of Block>
+naval review..."<Close><End of Block>
 <TextBlock 7 w:46 h:3>
 Ramsus
 "Toys like that should

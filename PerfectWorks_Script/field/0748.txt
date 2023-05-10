@@ -608,9 +608,8 @@ nasty sound.
 It must be hard to
 walk with, too.<New>
 Oh, by the way, the
-name's Balthasar,
-but you can call me
-Ol' Man Bal."<Close><End of Block>
+name's Balthasar, but
+you can call me Bal."<Close><End of Block>
 <TextBlock 97 w:54 h:4>
 Ol' Man Bal
 "I guess you can call me a
