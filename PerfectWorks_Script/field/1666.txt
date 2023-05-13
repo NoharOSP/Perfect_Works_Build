@@ -3,8 +3,8 @@
 <TextBlock 2 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 3 w:52 h:3>
-I'm so indecisive, 
-I don't know what to buy.<Delay 10> 
+I'm so indecisive,
+I don't know what to buy.<Delay 10>
 Don't bother me.<Close><End of Block>
 <TextBlock 4 w:50 h:3>
 What? They don't have any
@@ -18,10 +18,10 @@ Waagghh!!<Close><End of Block>
 <TextBlock 7 w:52 h:1>
 Wow, the Imperial model...<Opcode 2 30><Close><End of Block>
 <TextBlock 8 w:40 h:2>
-I want the Imperial 
+I want the Imperial
 model too!!<Close><End of Block>
 <TextBlock 9 w:50 h:4>
-Service in Solaris is 
+Service in Solaris is
 great, no matter how big
 something is, it's always
 there when you get home.<Close><End of Block>
@@ -29,17 +29,17 @@ there when you get home.<Close><End of Block>
 This 'Imperial model' is
 pretty nice!<Close><End of Block>
 <TextBlock 11 w:36 h:3>
-Fei
-"Doesn't that say 
+Elly
+"Doesn't that say
 'Impaired Model'?"<Close><End of Block>
 <TextBlock 12 w:36 h:3>
 Huh?<Delay 10>
-Wow, it does! 
+Wow, it does!
 It must be a fake!<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 There's so many Imperial
 models out now.<Delay 10>
-It's a limited edition, 
+It's a limited edition,
 so I gotta buy it!<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Wow, you got me that
@@ -47,16 +47,16 @@ Battling Alloy!! <Delay 10>
 When I grow up I'm gonna
 join Geburah too!<Close><End of Block>
 <TextBlock 15 w:42 h:2>
-Yay, with this I can 
+Yay, with this I can
 mash the Lambs!!<Close><End of Block>
 <TextBlock 16 w:50 h:3>
-My son bugged me so 
+My son bugged me so
 much I just had to get
 him a Hybrid Alloy.<New>
 I'll be so proud if joins
 Geburah when he grows up.<Close><End of Block>
 <TextBlock 17 w:50 h:3>
-My son bugged me so 
+My son bugged me so
 much I just had to get
 him a Hybrid Alloy.<New>
 I'll be so proud if joins
@@ -67,8 +67,8 @@ What do you think?
     What about this one?
     How about that one?<Close><End of Block>
 <TextBlock 19 w:38 h:4>
-You think so?<Delay 10> 
-But you like weird 
+You think so?<Delay 10>
+But you like weird
 clothes too so...
 I'll take that one!<Close><End of Block>
 <TextBlock 20 w:40 h:3>
@@ -87,11 +87,11 @@ What are you looking for?
     Nothing<Close><End of Block>
 <TextBlock 24 w:42 h:3>
 A DK1200 encore
-performance!<Delay 10> 
+performance!<Delay 10>
 At the Imperial Hall.<Close><End of Block>
 <TextBlock 25 w:46 h:4>
-VIP seating for the 
-Dedication is all sold 
+VIP seating for the
+Dedication is all sold
 out.<Delay 10> Please enjoy
 it on Homevision.<Close><End of Block>
 <TextBlock 26 w:56 h:4>
