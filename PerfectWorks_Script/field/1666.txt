@@ -10,8 +10,8 @@ Don't bother me.<Close><End of Block>
 What? They don't have any
 Imperial model pogoshoes?
 I want them so badly too!<Close><End of Block>
-<TextBlock 5 w:46 h:2>
-Sir, I'm sorry. We just
+<TextBlock 5 w:48 h:2>
+I'm sorry, miss. We just
 sold the last pair.<Delay 10><Close><End of Block>
 <TextBlock 6 w:18 h:1>
 Waagghh!!<Close><End of Block>
@@ -93,7 +93,7 @@ At the Imperial Hall.<Close><End of Block>
 VIP seating for the
 Dedication is all sold
 out.<Delay 10> Please enjoy
-it on Homevision.<Close><End of Block>
+it on Birdvision.<Close><End of Block>
 <TextBlock 26 w:56 h:4>
 I want to buy Imperial model
 Pogoshoes, and I'm willing
