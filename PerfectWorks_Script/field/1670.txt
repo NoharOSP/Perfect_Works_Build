@@ -40,7 +40,7 @@ go see it!
 Forget the money. Just
 hurry or you'll miss it.<Delay 10>
 I'm going to watch it
-on Homevision. <Close><End of Block>
+on Birdvision. <Close><End of Block>
 <TextBlock 10 w:46 h:3>
 Weird kids...<Delay 10>
 Better take them before

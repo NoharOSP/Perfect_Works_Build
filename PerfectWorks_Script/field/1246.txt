@@ -140,10 +140,10 @@ There was a bit of a
 situation, y'see, and
 it left her unable to
 speak."<Close><End of Block>
-<TextBlock 36 w:46 h:4>
+<TextBlock 36 w:40 h:4>
 Citan
-"...Is this the girl
-the reason you had that
+"...Is this girl the
+reason you had that
 shotgun wedding?"<Close><End of Block>
 <TextBlock 37 w:50 h:4>
 Jessie
