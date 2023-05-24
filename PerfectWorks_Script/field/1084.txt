@@ -122,10 +122,11 @@ Citan
 "I wonder if he will
 forfeit the Battling
 because of that injury?"<Close><End of Block>
-<TextBlock 33 w:24 h:3>
+<TextBlock 33 w:24 h:4>
 Citan
-"No,
-that is it."<Close><End of Block>
+"Hmm.
+I guess this
+is not it."<Close><End of Block>
 <TextBlock 34 w:40 h:4>
 Rico
 "Let's look for this
