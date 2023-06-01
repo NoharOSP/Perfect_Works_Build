@@ -60,10 +60,10 @@ it has the distinct reek
 of blood."<Close><End of Block>
 <TextBlock 11 w:46 h:4>
 Citan
-"Be careful!!
-The Elements may look
-harmless!<New>
-But underestimate them 
+"Be careful!!<Delay 10>
+They may look friendly,
+but they are Elements!<New>
+Underestimate them
 and it will cost you
 dearly!"<Close><End of Block>
 <TextBlock 12 w:38 h:4>
@@ -84,8 +84,8 @@ Elly
 "...Be careful!!
 The Elements are direct
 subordinates of Ramsus...<New>
-They look harmless, but
-their battle prowess
+They may look friendly,
+but their battle prowess
 is incredible."<Close><End of Block>
 <TextBlock 15 w:44 h:4>
 Elly
@@ -415,11 +415,12 @@ sure make you smart!!"<Close><End of Block>
 <TextBlock 62 w:18 h:2>
 Seraphita
 "Sorry!!"<Close><End of Block>
-<TextBlock 63 w:38 h:4>
+<TextBlock 63 w:30 h:4>
 Seraphita
-"...Throne,
-do we want to be
-called 'harmless'?"<Close><End of Block>
+"...'Friendly'?<New>
+Throne, you're
+gonna let that
+part slide?"<Close><End of Block>
 <TextBlock 64 w:26 h:4>
 Seraphita
 "A~hh!

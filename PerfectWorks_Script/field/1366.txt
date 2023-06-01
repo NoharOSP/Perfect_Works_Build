@@ -1,7 +1,7 @@
-<TextBlock 1 w:38 h:3>
-...I won't just...
-hand that child...
-over...to...you...<Opcode 2 150><Close><End of Block>
+<TextBlock 1 w:42 h:3>
+...We...won't just...
+hand her over...to
+them...<Delay 10>alright...?<Opcode 2 150><Close><End of Block>
 <TextBlock 2 w:22 h:1>
 ...Live...!<Opcode 2 150><Close><End of Block>
 <TextBlock 3 w:50 h:2>
@@ -10,10 +10,10 @@ bound to the earth...<Opcode 2 84><Close><End of Block>
 <TextBlock 4 w:56 h:2>
 ...Oh vessel for a new soul<Delay 5>
 to tear away that<Delay 5> 'yoke'...<Opcode 2 84><Close><End of Block>
-<TextBlock 5 w:38 h:3>
-...I won't just...
-hand that child...
-over...to...you...<Opcode 2 150><Close><End of Block>
+<TextBlock 5 w:42 h:3>
+...We...won't just...
+hand her over...to
+them...<Delay 10>alright...?<Opcode 2 150><Close><End of Block>
 <TextBlock 6 w:40 h:3>
 ...!
   ...!

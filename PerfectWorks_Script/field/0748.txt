@@ -57,10 +57,11 @@ is slightly different...
 I guess."<Close><End of Block>
 <TextBlock 10 w:52 h:4>
 Ol' Man Bal
-"Yes, go back beyond a
+"That's right <-->
+go back beyond a
 certain point in time,<New>
-and suddenly there's an
-absence of human fossils.
+and suddenly there are no
+human remains to unearth.
 That point is roughly
 10,000 years ago."<Close><End of Block>
 <TextBlock 11 w:44 h:2>

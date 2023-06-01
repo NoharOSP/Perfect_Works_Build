@@ -14,7 +14,7 @@ Of the Sacred Empire of
 Solaris' Special Foreign
 Affairs Agency...<New>
 In other words, he's the
-commander in chief of
+commander-in-chief of
 Geburah.<New>
 It seems that it's not
 only the excavation sites
@@ -331,26 +331,27 @@ Sigurd
 anchored at Shevat..."<New>
     <Opcode 1 255>Leave Shevat
     Changed my mind<Close><End of Block>
-<TextBlock 52 w:50 h:3>
+<TextBlock 52 w:50 h:4>
 Bart
-"Our Yggdrasil was reborn
-with Shevat technology.<New>
-This vessel will be
-named 'the Third'!"<Close><End of Block>
-<TextBlock 53 w:50 h:3>
+"Our Yggdrasil has been
+reborn through Shevat
+technology.<New>
+This vessel will bear the
+name Yggdrasil III!"<Close><End of Block>
+<TextBlock 53 w:50 h:4>
 Bart
-"Our Yggdrasil was reborn
-with Shevat technology.<New>
-This vessel will be
-named 'the Third'!"<Close><End of Block>
-<TextBlock 54 w:44 h:4>
+"Our Yggdrasil has been
+reborn through Shevat
+technology.<New>
+This vessel will bear the
+name Yggdrasil III!"<Close><End of Block>
+<TextBlock 54 w:48 h:4>
 Sigurd
-"The operations are a
-bit different from the
-previous Yggdrasil.<New>
-So you'll have to
-learn the workings
-all over again!"<Close><End of Block>
+"The maneuvering methods
+are a bit different from
+the previous Yggdrasil.<New>
+So you'll have to study
+them all over again!"<Close><End of Block>
 <TextBlock 55 w:32 h:2>
 Yes!<Delay 10>
 I'll do my best!<Close><End of Block>
