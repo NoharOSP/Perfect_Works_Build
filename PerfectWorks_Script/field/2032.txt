@@ -158,8 +158,9 @@ This is how I wanted it,
 Carl<Delay 5>...<New>
 I am fated so as not to
 be able to kill myself<Delay 5>...<New>
-Carl<Delay 5>...<Delay 5>you've<Delay 5>...<Delay 5>grown<Delay 20>
-...<Delay 5>so<Delay 5> handsome<Delay 30>...!"<Close><End of Block>
+Now<Delay 5>...<Delay 5>all<Delay 5>...<Delay 5>my<Delay 5>...<Delay 5>wishes<Delay 20>
+have<Delay 5>...<Delay 5>come<Delay 5>...<Delay 5>true.<Delay 30>
+Thanks<Delay 5>...<Delay 5>to<Delay 5>...<Delay 5>you<Delay 5>...!"<Close><End of Block>
 <TextBlock 24 w:44 h:4>
 Ramsus
 "What about me<Delay 5>...?<Delay 20>
