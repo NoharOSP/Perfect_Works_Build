@@ -230,7 +230,7 @@ https://mega.nz/file/mWYViJTR#_a1CaUwPLeMviQ5ZwTs9kPjYC60c_yOjHd5s68oGbCs
 
 This step applies if you're playing the game using Beetle PSX HW and multiple patches have been applied.
 
-- Download ECCRegen.
+- [Download ECCRegen](https://www.romhacking.net/utilities/1550/).
 - Click the folder icon to select the Xenogears ISO.
 - Click Scan.
 - Wait for the unregenerated files to load.
