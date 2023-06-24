@@ -38,10 +38,10 @@ Fei
 back yet, has he?"<Close><End of Block>
 <TextBlock 7 w:6 h:1>
 ...<Close><End of Block>
-<TextBlock 8 w:52 h:4>
+<TextBlock 8 w:50 h:4>
 Sigurd
-"Hyu<--><Delay 10> I mean,<Delay 10> no need to
-worry about that guy.
+"There's no need to worry
+about Hyu<--><Delay 10> I mean, Doc.
 He'll join us soon."<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Sigurd

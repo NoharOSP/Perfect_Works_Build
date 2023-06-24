@@ -1,22 +1,26 @@
 <TextBlock 1 w:24 h:2>
 Fei
 "What's up?"<Close><End of Block>
-<TextBlock 2 w:30 h:2>
+<TextBlock 2 w:20 h:4>
 Fei
-"You moved it?"<Close><End of Block>
+"Are you
+operating
+this?"<Close><End of Block>
 <TextBlock 3 w:30 h:2>
 Elly
 "What's wrong?"<Close><End of Block>
-<TextBlock 4 w:30 h:2>
+<TextBlock 4 w:20 h:4>
 Elly
-"You moved it?"<Close><End of Block>
+"Are you
+operating
+this?"<Close><End of Block>
 <TextBlock 5 w:30 h:2>
-Fei
+Citan
 "What's wrong?"<Close><End of Block>
 <TextBlock 6 w:36 h:3>
 Citan
-"Young Master was
-operating that..."<Close><End of Block>
+"Are you operating
+this, young one?"<Close><End of Block>
 <TextBlock 7 w:46 h:4>
 Bart
 "No doubt...<Delay 30>
@@ -25,27 +29,25 @@ I accidentally pushed."<Close><End of Block>
 <TextBlock 8 w:30 h:2>
 Billy
 "What's wrong?"<Close><End of Block>
-<TextBlock 9 w:50 h:3>
+<TextBlock 9 w:44 h:3>
 Billy
-"Probably because you're 
-so used to operating Av 
-machinery<New> 
-and you just went on auto 
-pilot starting everything 
-up."<Close><End of Block>
+"Is this down to your
+skillful piloting?"<Close><End of Block>
 <TextBlock 10 w:22 h:2>
 Rico
 "What now?"<Close><End of Block>
-<TextBlock 11 w:42 h:3>
+<TextBlock 11 w:36 h:4>
 Rico
-"Hey, 
-what are you saying?"<Close><End of Block>
+"Hey, what are you
+saying? Didn't you
+start it up?"<Close><End of Block>
 <TextBlock 12 w:30 h:2>
 <Chu-Chu>
 "What's wrong?"<Close><End of Block>
-<TextBlock 13 w:48 h:2>
+<TextBlock 13 w:44 h:3>
 <Chu-Chu>
-"Hey, you're moving it!"<Close><End of Block>
+"Hey, you're operating
+it, mister!"<Close><End of Block>
 <TextBlock 14 w:16 h:2>
 Emeralda
 "...?"<Close><End of Block>
@@ -186,24 +188,25 @@ Maria
 <Opcode 1 255>To the Yggdrasil<Close><End of Block>
 <TextBlock 50 w:32 h:1>
 <Opcode 1 255>To the Yggdrasil<Close><End of Block>
-<TextBlock 51 w:48 h:2>
+<TextBlock 51 w:32 h:2>
 Bart
 "We've surfaced!<New>
-Next open the sky dome."<Close><End of Block>
+Now to open the
+ceiling dome."<Close><End of Block>
 <TextBlock 52 w:18 h:2>
 Bart
 "...Huh?"<Close><End of Block>
 <TextBlock 53 w:14 h:2>
 Bart
 "What?"<Close><End of Block>
-<TextBlock 54 w:42 h:3>
+<TextBlock 54 w:38 h:3>
 Bart
-"Huh?<Delay 30> No,<Delay 30>
-it's already moving."<Close><End of Block>
-<TextBlock 55 w:32 h:2>
+"Eh?<Delay 30> Oh no, it's...<Delay 30>
+doing<Delay 30> something..."<Close><End of Block>
+<TextBlock 55 w:32 h:3>
 Bart
-"No.<New>
-That's not why."<Close><End of Block>
+"N-<Delay 10>No.<Delay 20> This is
+something else."<Close><End of Block>
 <TextBlock 56 w:48 h:2>
 Ft. Jasper's already up.<New>
 You'd better go to Babel

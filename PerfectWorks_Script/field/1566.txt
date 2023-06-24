@@ -66,27 +66,28 @@ Emeralda
 <TextBlock 19 w:47 h:2>
   No.2 Elevator Block
   (<U> To Energy Block) <Close><End of Block>
-<TextBlock 20 w:46 h:4>
+<TextBlock 20 w:40 h:3>
 Bart
-"Oh, they probably have
-the power shutdown
-because no one's here."<Close><End of Block>
-<TextBlock 21 w:50 h:4>
+"Yeah.<New>
+I guess the power's
+down because no one
+usually comes here."<Close><End of Block>
+<TextBlock 21 w:48 h:3>
 Margie
-"We use this lower area
+"The lower level is used
 as a mausoleum...<New>
-So it always has minimal
-power available for use.
-But, not even the sisters
-are allowed in there."<Close><End of Block>
+so it always has minimal
+power available for use.<New>
+But even the sisters
+cannot get in this way."<Close><End of Block>
 <TextBlock 22 w:40 h:4>
 Bart
-"That's obvious.<Delay 30>
+"Well, yeah.<Delay 30>
 Practically no one's
-been in there."<Close><End of Block>
+been in here."<Close><End of Block>
 <TextBlock 23 w:46 h:3>
 Bart
-"Let's move on!<New>
-We gotta get to the
+"Let's hurry on!<New>
+We've gotta grab the
 treasure before Shakhan
 gets here."<Close><Close><End of Block>

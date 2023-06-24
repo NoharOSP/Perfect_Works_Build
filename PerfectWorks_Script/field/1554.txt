@@ -10,9 +10,9 @@ SHOULD NOT BE IN THIS SCENE IS
 IN YOUR PARTY. REPORT THIS BUG!<Close><End of Block>
 <TextBlock 3 w:44 h:4>
 Fei
-(She probably couldn't
-keep calm just staying
-inside the ship.)<Close><End of Block>
+"(No doubt she got
+restless just waiting
+inside the ship.)"<Close><End of Block>
 <TextBlock 4 w:62 h:4>
 ERROR: THE ORDER OF YOUR PARTY
 IS WRONG OR A PARTY MEMBER WHO
@@ -28,55 +28,55 @@ ERROR: THE ORDER OF YOUR PARTY
 IS WRONG OR A PARTY MEMBER WHO
 SHOULD NOT BE IN THIS SCENE IS
 IN YOUR PARTY. REPORT THIS BUG!<Close><End of Block>
-<TextBlock 7 w:42 h:3>
+<TextBlock 7 w:44 h:3>
 Elly
-(What's more, I can't
-see any civilians!)<Close><End of Block>
-<TextBlock 8 w:52 h:4>
+"(What's more, I can't
+see any civilians!)"<Close><End of Block>
+<TextBlock 8 w:54 h:4>
 Elly
-(I heard there is a hidden
+"(I heard there is a hidden
 shelter. But do you think
-they're alright in there?)<Close><End of Block>
-<TextBlock 9 w:48 h:4>
+they're alright in there?)"<Close><End of Block>
+<TextBlock 9 w:40 h:4>
 Elly
-(I'm sure she was in no
-state to be able to just
-sit still.)<Close><End of Block>
-<TextBlock 10 w:40 h:2>
+"(I'm sure she was
+in no state to just
+sit still.)"<Close><End of Block>
+<TextBlock 10 w:48 h:2>
 Elly
-(I hope it goes OK.)<Close><End of Block>
-<TextBlock 11 w:30 h:3>
+"(I hope it goes okay.)"<Close><End of Block>
+<TextBlock 11 w:24 h:3>
 Elly
-"Do we have to
-walk that far?"<Close><End of Block>
+"Is it quite
+a walk?"<Close><End of Block>
 <TextBlock 12 w:52 h:3>
 Elly
 "...Haven't you yourself
 been inside of it before?"<Close><End of Block>
-<TextBlock 13 w:50 h:4>
+<TextBlock 13 w:52 h:4>
 Citan
-(There are no townspeople
+"(There are no townspeople
 in sight, but Shakhan's
-guards are everywhere...)<Close><End of Block>
-<TextBlock 14 w:46 h:4>
+guards are everywhere...)"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
 Citan
-(It was said that there
+"(It was said that there
 is a hidden shelter
 facility in the town...<New>
-But whether it was safe
+But whether it is safe
 in there or not is
-another problem...!)<Close><End of Block>
-<TextBlock 15 w:50 h:4>
+another matter...!)"<Close><End of Block>
+<TextBlock 15 w:52 h:4>
 Citan
-(It is understandable.<New>
+"(It is understandable.<New>
 After hearing Shakhan
 has his hands on Nisan,
 there is no way she would
-just sit and do nothing.)<Close><End of Block>
-<TextBlock 16 w:34 h:3>
+just sit and do nothing.)"<Close><End of Block>
+<TextBlock 16 w:36 h:3>
 Citan
-(Let us just pray
-for success.)<Close><End of Block>
+"(Let us just pray
+for success.)"<Close><End of Block>
 <TextBlock 17 w:62 h:4>
 ERROR: THE ORDER OF YOUR PARTY
 IS WRONG OR A PARTY MEMBER WHO
@@ -87,14 +87,14 @@ ERROR: THE ORDER OF YOUR PARTY
 IS WRONG OR A PARTY MEMBER WHO
 SHOULD NOT BE IN THIS SCENE IS
 IN YOUR PARTY. REPORT THIS BUG!<Close><End of Block>
-<TextBlock 19 w:40 h:3>
+<TextBlock 19 w:42 h:3>
 Bart
-(And I don't see any
-of the townspeople.)<Close><End of Block>
-<TextBlock 20 w:40 h:3>
+"(And I don't see any
+of the townspeople.)"<Close><End of Block>
+<TextBlock 20 w:42 h:3>
 Bart
-(They're probably in
-the hidden shelter.)<Close><End of Block>
+"(They're probably in
+the hidden shelter.)"<Close><End of Block>
 <TextBlock 21 w:62 h:4>
 ERROR: THE ORDER OF YOUR PARTY
 IS WRONG OR A PARTY MEMBER WHO
@@ -105,28 +105,30 @@ ERROR: THE ORDER OF YOUR PARTY
 IS WRONG OR A PARTY MEMBER WHO
 SHOULD NOT BE IN THIS SCENE IS
 IN YOUR PARTY. REPORT THIS BUG!<Close><End of Block>
-<TextBlock 23 w:48 h:3>
+<TextBlock 23 w:50 h:3>
 Billy
-(I don't see any sign of
-the residents either.)<Close><End of Block>
-<TextBlock 24 w:48 h:4>
+"(I don't see any sign of
+the residents, either.)"<Close><End of Block>
+<TextBlock 24 w:40 h:3>
 Billy
-(I've heard of a hidden
-shelter, but I wonder if
-it was safe in there?)<Close><End of Block>
-<TextBlock 25 w:52 h:3>
+"(I've heard there
+is a hidden shelter,<New>
+but I wonder if it
+was safe in there?)"<Close><End of Block>
+<TextBlock 25 w:52 h:4>
 Billy
-(Margie's the Great Mother
-of this sect, isn't she?<New>
+"(Margie's the Great
+Mother of this sect,
+isn't she?<New>
 After hearing that Nisan
 may have fallen into the
 hands of these villains...<New>
-...there's no way she
+there's no way she
 would just stand by
-and watch it happen.)<Close><End of Block>
-<TextBlock 26 w:44 h:2>
+and watch it happen.)"<Close><End of Block>
+<TextBlock 26 w:48 h:2>
 Billy
-(I hope it works out.)<Close><End of Block>
+"(I hope it works out.)"<Close><End of Block>
 <TextBlock 27 w:44 h:2>
 Billy
 "About how far is it?"<Close><End of Block>
@@ -134,27 +136,27 @@ Billy
 Billy
 "What? You haven't been
 inside there yourself?"<Close><End of Block>
-<TextBlock 29 w:34 h:3>
+<TextBlock 29 w:36 h:3>
 Rico
-(Where'd all the
-townsfolk go to?)<Close><End of Block>
-<TextBlock 30 w:46 h:4>
+"(Where'd all the
+townsfolk go to?)"<Close><End of Block>
+<TextBlock 30 w:52 h:4>
 Rico
-(I've heard of a hidden
-shelter, but do you
-think it was safe?)<Close><End of Block>
-<TextBlock 31 w:50 h:4>
+"(I heard about the hidden
+shelter, but do you think
+it was safe?)"<Close><End of Block>
+<TextBlock 31 w:46 h:4>
 Rico
-(Well, what would you do?
-Whether you're the Great
-Mother or not...<New>
-...if your own home's
+"(Well, what would you
+do? Whether you're the
+Great Mother or not...<New>
+if your own home's
 gettin' trashed, you're
 not gonna just stand by
-and watch it happen.)<Close><End of Block>
-<TextBlock 32 w:40 h:2>
+and watch it happen.)"<Close><End of Block>
+<TextBlock 32 w:44 h:2>
 Rico
-(Hope it works out.)<Close><End of Block>
+"(Hope it works out.)"<Close><End of Block>
 <TextBlock 33 w:24 h:2>
 Rico
 "Is it far?"<Close><End of Block>
@@ -186,55 +188,56 @@ ERROR: THE ORDER OF YOUR PARTY
 IS WRONG OR A PARTY MEMBER WHO
 SHOULD NOT BE IN THIS SCENE IS
 IN YOUR PARTY. REPORT THIS BUG!<Close><End of Block>
-<TextBlock 40 w:40 h:3>
+<TextBlock 40 w:42 h:3>
 <Chu-Chu>
-(Where did all the
-townspeople go chu?)<Close><End of Block>
-<TextBlock 41 w:54 h:4>
+"(Where did all the
+townspeople go chu?)"<Close><End of Block>
+<TextBlock 41 w:52 h:3>
 <Chu-Chu>
-(It's going chu be alright!
-There's a secret hole.
-That's what I heard chu.)<Close><End of Block>
+"(It's going chu
+be alright!<New>
+There's a secret cave.
+That's what I heard chu.)"<Close><End of Block>
 <TextBlock 42 w:48 h:3>
 <Chu-Chu>
-(Let her be!<New>
+"(Let her be!<New>
 Margie's chu kind a girl
 chu just sit there and
-do nothing.)<Close><End of Block>
-<TextBlock 43 w:44 h:3>
+do nothing.)"<Close><End of Block>
+<TextBlock 43 w:46 h:3>
 <Chu-Chu>
-(It'd be nice chu have
-it all go well.)<Close><End of Block>
+"(It'd be nice chu have
+it all go well.)"<Close><End of Block>
 <TextBlock 44 w:54 h:4>
 <Chu-Chu>
-"I don't mind taking a lil'
+"I don't mind taking a li'l
 walk, but not chu long a
 hike.<Delay 30> Must we walk far?"<Close><End of Block>
 <TextBlock 45 w:52 h:2>
 <Chu-Chu>
 "Haven't chu been inside?"<Close><End of Block>
-<TextBlock 46 w:32 h:3>
+<TextBlock 46 w:34 h:3>
 Maria
-(And I don't see
-any civilians.)<Close><End of Block>
-<TextBlock 47 w:48 h:4>
+"(And I don't see
+any civilians.)"<Close><End of Block>
+<TextBlock 47 w:50 h:4>
 Maria
-(I've been informed that
+"(I've been informed that
 there was an emergency
 shelter facility.<New>
 Do you suppose they
-took refuge there?)<Close><End of Block>
+took refuge there?)"<Close><End of Block>
 <TextBlock 48 w:52 h:4>
 Maria
-(How can you blame her?
+"(Can you blame her?
 I kind of know what Margie
 may be going through.<New>
-She probably can't stand
-to just sit around.)<Close><End of Block>
-<TextBlock 49 w:36 h:3>
+She probably can't bear
+just sitting around.)"<Close><End of Block>
+<TextBlock 49 w:38 h:3>
 Maria
-(Let's hope it all
-works out.)<Close><End of Block>
+"(Let's hope it all
+works out.)"<Close><End of Block>
 <TextBlock 50 w:44 h:3>
 Maria
 "How long does it take
@@ -246,7 +249,7 @@ Maria
 Margie
 "Well, the place is all
 sealed up. Even I haven't
-been far inside of it."<Close><End of Block>
+gone in all that far."<Close><End of Block>
 <TextBlock 53 w:50 h:4>
 Margie
 "Alright then, I'm going
@@ -295,179 +298,183 @@ Fei
 <TextBlock 66 w:52 h:2>
 Fei
 "We can't just leave now!"<Close><End of Block>
-<TextBlock 67 w:50 h:3>
+<TextBlock 67 w:36 h:3>
 Fei
-(The city's awfully quiet
-for some reason<Delay 10>...)<Close><End of Block>
-<TextBlock 68 w:48 h:4>
+"(The city is
+awfully quiet for
+some reason<Delay 10>...)"<Close><End of Block>
+<TextBlock 68 w:46 h:4>
 Bart
-(I dunno, but I'd like
-to think that everything
-is still okay.)<Close><End of Block>
-<TextBlock 69 w:54 h:3>
+"(I dunno, but I'd like
+to think that they're
+still okay.)"<Close><End of Block>
+<TextBlock 69 w:52 h:4>
 Fei
-(Yeah, I think I heard Bart
-say something about that.<New>
+"(Yeah, I think I heard
+Bart say something about
+that.<New>
 So you think the townsfolk
-went there?)<Close><End of Block>
-<TextBlock 70 w:32 h:3>
+went there?)"<Close><End of Block>
+<TextBlock 70 w:34 h:3>
 Bart
-(How was it over
-on your side?)<Close><End of Block>
-<TextBlock 71 w:44 h:4>
+"(How was it over
+on your side?)"<Close><End of Block>
+<TextBlock 71 w:38 h:4>
 Sigurd
-(Everywhere along the
-roads was also just as
-quiet.)<Close><End of Block>
-<TextBlock 72 w:38 h:3>
+"(Everywhere along
+the roads was just
+as quiet.)"<Close><End of Block>
+<TextBlock 72 w:40 h:3>
 Bart
-(... <Delay 30>What's your
-take on this, Sig?)<Close><End of Block>
+"(...<Delay 30>What's your
+take on this, Sig?)"<Close><End of Block>
 <TextBlock 73 w:52 h:4>
 Sigurd
-(From what little I've
-seen, there isn't anything
-much I can say.)<Close><End of Block>
+"(Given the circumstances,
+there's not a lot I can
+say.)"<Close><End of Block>
 <TextBlock 74 w:52 h:4>
 Bart
-(Either they haven't 
-found what they are
+"(Either they haven't 
+found what they're
 looking for yet...<New>
-Or they've already found
+or they've already found
 what they were looking for
-but have just left behind
+and have just left behind
 some guards...<New>
 Either way, we still need
-to check on the safety
+to confirm the safety
 of the residents before we
 even think of pulling out.<New>
 Hey, by the way, how is
-Margie holding up?)<Close><End of Block>
+Margie holding up?)"<Close><End of Block>
 <TextBlock 75 w:54 h:4>
 Sigurd
-(From the looks of it, she
+"(To look at her, she
 doesn't seem much different
 from her usual self...<New>
 But how she feels on the
-inside... well, who's to
-know...)<Close><End of Block>
-<TextBlock 76 w:48 h:3>
+inside...? Well, who's to
+know...?)"<Close><End of Block>
+<TextBlock 76 w:38 h:4>
 Bart
-(Really...<Delay 30> Thanks for
-looking after her, Sig.)<Close><End of Block>
-<TextBlock 77 w:48 h:4>
+"(I see.<Delay 30>
+Thanks for looking
+out for her, Sig.)"<Close><End of Block>
+<TextBlock 77 w:48 h:3>
 Sigurd
-(No problem.
-Anyway I shall go and
-command the other unit.)<Close><End of Block>
-<TextBlock 78 w:44 h:2>
+"(No problem.<New>
+Well, I shall go and
+take command of the unit
+on the other side.)"<Close><End of Block>
+<TextBlock 78 w:26 h:3>
 Bart
-(Alright. Be careful!)<Close><End of Block>
+"(Alright.
+Be careful!)"<Close><End of Block>
 <TextBlock 79 w:46 h:4>
 Bart
-(Margie...<Delay 30>
+"(That Margie...<Delay 30>
 I thought I told her to
-stay put in our ship.)<Close><End of Block>
+stay put on the ship.)"<Close><End of Block>
 <TextBlock 80 w:52 h:4>
 Bart
-(Yeah, I know but...<Delay 30>
-Well, she's come this far,
-so we can't stop her now.)<Close><End of Block>
-<TextBlock 81 w:36 h:3>
+"(Even so...<Delay 30> Well, she's
+come this far, so we can't
+stop her now.)"<Close><End of Block>
+<TextBlock 81 w:38 h:3>
 Bart
-(Alright then...<Delay 30>
-Let's get movin'.)<Close><End of Block>
-<TextBlock 82 w:52 h:2>
+"(Alright, then...<Delay 30>
+Let's get movin'.)"<Close><End of Block>
+<TextBlock 82 w:32 h:3>
 Fei
-(How was it on your side?)<Close><End of Block>
-<TextBlock 83 w:48 h:3>
+"(How was it on
+your side?)"<Close><End of Block>
+<TextBlock 83 w:40 h:3>
 Sigurd
-(The side roads are also
-similarly quiet.)<Close><End of Block>
+"(The side roads are
+similarly quiet.)"<Close><End of Block>
 <TextBlock 84 w:34 h:3>
 Fei
-(I see.<Delay 30>
-So, what now...?)<Close><End of Block>
+"(I see.<Delay 30>
+So what now...?)"<Close><End of Block>
 <TextBlock 85 w:54 h:4>
 Sigurd
-(Hmm, just from what little
-I've seen I can't tell what
+"(Hmm, from the circum-
+stances I can't tell what
 their next move might be.<New>
-But, we can't just leave...
+But we can't just leave...
 considering the residents
-were placed in danger
-because of our treasure.)<Close><End of Block>
-<TextBlock 86 w:44 h:4>
+have been put in danger
+because of our treasure.)"<Close><End of Block>
+<TextBlock 86 w:42 h:4>
 Fei
-(Okay, agreed.<Delay 30>
-But by the way, is
-Margie doing alright?)<Close><End of Block>
+"(Understood.<Delay 30>
+By the way, is Margie
+doing alright?)"<Close><End of Block>
 <TextBlock 87 w:50 h:3>
 Sigurd
-(Well, about that...<New>
+"(Well, about that...<New>
 The young master is quite
-concerned that Marguerite
-has tagged along.)<Close><End of Block>
-<TextBlock 88 w:52 h:2>
+worried about Marguerite
+having tagged along.)"<Close><End of Block>
+<TextBlock 88 w:28 h:3>
 Sigurd
-(Yes, but you know him...)<Close><End of Block>
-<TextBlock 89 w:52 h:4>
+"(Yes, but you
+know him...)"<Close><End of Block>
+<TextBlock 89 w:48 h:4>
 Sigurd
-(Well, I should get going.<New>
+"(Well, I should
+get going.<New>
 We'll coordinate our
 moves according to yours
 and try to break through
-the rear path.)<Close><End of Block>
-<TextBlock 90 w:14 h:2>
+the rear path.)"<Close><End of Block>
+<TextBlock 90 w:18 h:2>
 Fei
-(Yeah.)<Close><End of Block>
+"(Yeah.)"<Close><End of Block>
 <TextBlock 91 w:54 h:4>
 Citan
-(But now that we have heard
-and seen so many things up
-until now...<New>
-We should realize that
-Shakhan's existence is
-no longer just the young
-one's problem.<New>
+"(Now that we have been as
+far as Shevat, and seen and
+heard so many things...<New>
+it is clear that Shakhan's
+existence is no longer just
+the young one's problem.<New>
 If we do not stop Shakhan
 and his men here, the next
 time it may be us who face
 such a misfortune.<New>
-Let us brace ourselves and
-help these people out!)<Close><End of Block>
+Let us stay focused.)"<Close><End of Block>
 <TextBlock 92 w:54 h:4>
 Fei
-(But now that we have heard
-and seen so many things up
-until now...<New>
-We should realize that
-Shakhan's existence is
-no longer just Bart's
-problem.<New>
-If we do not stop Shakhan
+"(Now that we've been as
+far as Shevat, and seen and
+heard so many things...<New>
+it's clear that Shakhan's
+existence is no longer
+just Bart's problem.<New>
+If we don't stop Shakhan
 and his men here, the next
 time it may be us who face
 a similar crisis.<New>
-Let us brace ourselves and
-go help our friends out!)<Close><End of Block>
+We have to focus.)"<Close><End of Block>
 <TextBlock 93 w:44 h:2>
 Fei
-(Okay then, let's go!)<Close><End of Block>
+"(Alright, let's go!)"<Close><End of Block>
 <TextBlock 94 w:6 h:1>
  ! <Close><End of Block>
-<TextBlock 95 w:54 h:4>
+<TextBlock 95 w:52 h:4>
 Fei
 "Good! Looks like we
-cleaned up all the soldiers
-who were in the town."<Close><End of Block>
-<TextBlock 96 w:44 h:3>
+mopped up all the soldiers
+who were in town."<Close><End of Block>
+<TextBlock 96 w:30 h:3>
 Sigurd
-"There are no signs of
-residents...<Delay 30> yet."<Close><End of Block>
+"No sign of the
+residents...<Delay 30>?"<Close><End of Block>
 <TextBlock 97 w:48 h:2>
 Fei
-"Well, let's get goin'.<New>
+"Well, let's get going.<New>
 Where's this mausoleum?"<Close><End of Block>
 <TextBlock 98 w:54 h:4>
 Bart
@@ -475,60 +482,57 @@ Bart
 the rear of the cathedral.<New>
 So first of all, we have to
 get on the road that runs
-around this town and go in
-through the back way."<Close><End of Block>
-<TextBlock 99 w:42 h:4>
+around this town and head
+to the other side."<Close><End of Block>
+<TextBlock 99 w:34 h:4>
 Bart
-"The distance to the
-mausoleum isn't that
-much...<New>
-But, I don't know
-how much more there
-is to go from there."<Close><End of Block>
-<TextBlock 100 w:48 h:3>
+"It's not a great
+distance to the
+mausoleum.<New>
+But beyond that<Delay 10>
+I don't know."<Close><End of Block>
+<TextBlock 100 w:42 h:3>
 Fei
-"You haven't been inside
-there yourself Bart?"<Close><End of Block>
-<TextBlock 101 w:54 h:4>
+"You haven't been
+inside either, Bart?"<Close><End of Block>
+<TextBlock 101 w:52 h:4>
 Bart
-"Yeah...<Delay 30>
-This is my first time to go
-beyond the mausoleum too."<Close><End of Block>
+"Nope...<Delay 30> This'll be my
+first time to go further
+inside the mausoleum too."<Close><End of Block>
 <TextBlock 102 w:52 h:4>
 Bart
 "So neither Margie nor
 I know much about it.<New>
-Sig and them have already
-taken off, so we won't be
-able to return to the ship
-for a while.<New>
-For now, we're just gonna
-have to work this out on
-our own."<Close><End of Block>
-<TextBlock 103 w:48 h:3>
+It's a pity Sig and the
+others have already taken
+off. For the time being we
+can't go back to the ship.<New>
+We're just gonna have to
+work this out on our own."<Close><End of Block>
+<TextBlock 103 w:34 h:4>
 Bart
-"We'll come once we
-finish our preparations.<New>
-So could you wait for
-us at the entrance
-until then?"<Close><End of Block>
+"We'll come once
+we finish our
+preparations.<New>
+Wait there for
+us until then?"<Close><End of Block>
 <TextBlock 104 w:38 h:3>
 Bart
 "Alright...<Delay 30>
 let's get prepped."<Close><End of Block>
 <TextBlock 105 w:54 h:4>
 Fei
-"But, by the looks of it,
-I don't think we'll be able
-to find the tool lady."<Close><End of Block>
-<TextBlock 106 w:52 h:4>
+"But by the looks of it
+there's no way we can
+locate the tool shop lady."<Close><End of Block>
+<TextBlock 106 w:44 h:4>
 Bart
-"Hmm... Why don't we just
-leave the necessary money
-behind then?<New>
-Sure it might not be good
-manners, but I'm sure they
-will forgive me..."<Close><End of Block>
+"No...<Delay 20> For now, why
+don't we just leave
+them the money?<New>
+Since it's me, they'll
+let us off!"<Close><End of Block>
 <TextBlock 107 w:50 h:2>
 "Chasing Shakhan from the
 world map to the Gate."<Close><Close><End of Block>

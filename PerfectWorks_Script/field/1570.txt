@@ -1,6 +1,6 @@
-<TextBlock 1 w:36 h:2>
+<TextBlock 1 w:40 h:2>
 Fei
-"Isn't it locked?"<Close><End of Block>
+"Is it locked down?"<Close><End of Block>
 <TextBlock 2 w:46 h:3>
 Fei
 "A really bright light
@@ -18,13 +18,15 @@ Fei
 "Don't try and fool me!<New>
 What the heck did you
 just do?"<Close><End of Block>
-<TextBlock 5 w:44 h:2>
+<TextBlock 5 w:34 h:3>
 Elly
-"I think it's locked."<Close><End of Block>
-<TextBlock 6 w:46 h:3>
+"I wonder if it's
+locked down?"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
 Elly
-"A really bright light
-just shot out.<New>
+"But...I just saw a
+brilliant light shoot
+out somehow.<New>
 ...<Delay 30>Did you just do
 something you shouldn't
 have done?"<Close><End of Block>
@@ -43,9 +45,10 @@ Error
 This character is
 not in Jasper.
 Please report this bug.<Close><End of Block>
-<TextBlock 10 w:48 h:2>
+<TextBlock 10 w:32 h:3>
 Citan
-"I assume it is locked."<Close><End of Block>
+"I assume it is
+locked down."<Close><End of Block>
 <TextBlock 11 w:46 h:3>
 Citan
 "What was that bright
@@ -67,89 +70,94 @@ Error
 This character is
 not in Jasper.
 Please report this bug.<Close><End of Block>
-<TextBlock 15 w:30 h:2>
+<TextBlock 15 w:26 h:3>
 Billy
-"Is it locked?"<Close><End of Block>
-<TextBlock 16 w:42 h:3>
+"Is it locked
+down?"<Close><End of Block>
+<TextBlock 16 w:36 h:3>
 Billy
-"That was from a beam
-cannon..."<Close><End of Block>
-<TextBlock 17 w:46 h:2>
+"Just now...
+a beam cannon..."<Close><End of Block>
+<TextBlock 17 w:30 h:3>
 Rico
-"It's probably locked."<Close><End of Block>
-<TextBlock 18 w:40 h:3>
+"It's probably
+locked down."<Close><End of Block>
+<TextBlock 18 w:36 h:4>
 Rico
-"That beam cannon...
+"That beam cannon
+just now...
 This ain't good!"<Close><End of Block>
 <TextBlock 19 w:28 h:3>
 <Chu-Chu>
 "It's probably
-locked."<Close><End of Block>
+locked down."<Close><End of Block>
 <TextBlock 20 w:44 h:3>
 <Chu-Chu>
 "You're really acting
-absent-minded chuday!"<Close><End of Block>
+crazy chuday!"<Close><End of Block>
 <TextBlock 21 w:16 h:2>
 Emeralda
 "..."<Close><End of Block>
-<TextBlock 22 w:48 h:3>
+<TextBlock 22 w:42 h:3>
 Emeralda
-(Hmm...Something doesn't
-feel right.)<Close><End of Block>
+"(Hmm...Something
+doesn't feel right.)"<Close><End of Block>
 <TextBlock 23 w:10 h:2>
 Maria
 "..."<Close><End of Block>
-<TextBlock 24 w:48 h:3>
+<TextBlock 24 w:42 h:3>
 Maria
-(Hmm...Something doesn't
-feel right.)<Close><End of Block>
+"(Hmm...Something
+doesn't feel right.)"<Close><End of Block>
 <TextBlock 25 w:24 h:1>
 Bartholomew!<Close><End of Block>
 <TextBlock 26 w:24 h:1>
 Bartholomew!<Close><End of Block>
-<TextBlock 27 w:44 h:3>
+<TextBlock 27 w:38 h:4>
 Fei
-"Hey aren't you...<Delay 30> the
-tool guy!?"<Close><End of Block>
-<TextBlock 28 w:24 h:2>
+"Hey, isn't that...<Delay 30>
+the old guy from
+the tool shop!?"<Close><End of Block>
+<TextBlock 28 w:24 h:3>
 Bart
-"You're OK."<Close><End of Block>
+"So you're
+alright."<Close><End of Block>
 <TextBlock 29 w:36 h:2>
 Yes, my wife and I
 escaped together.<Close><End of Block>
-<TextBlock 30 w:32 h:3>
+<TextBlock 30 w:36 h:3>
 Bart
-"So, what're you
-doing here!?"<Close><End of Block>
+"What're you doing
+here, then!?"<Close><End of Block>
 <TextBlock 31 w:48 h:4>
 Yeah well, when I
 returned to town, I
-heard you were deep
-in the mausoleum...<New>
-I thought to myself...<Delay 30>
-'Something's going on!'.<New>
+heard you'd gone deep
+into the mausoleum...<New>
+'Something's going on!',
+I thought to myself.<New>
 I couldn't just stand
 there...so I came here.<Close><End of Block>
 <TextBlock 32 w:40 h:3>
 Bart
-"It's dangerous, you
-better go back."<Close><End of Block>
+"It's dangerous <-->
+you better go back."<Close><End of Block>
 <TextBlock 33 w:56 h:2>
 Oh no, I've come this
 far, I'm not going back!<New>
 I'm gonna stay and help you.<Close><End of Block>
-<TextBlock 34 w:26 h:3>
-    Item
-    Accessory
-    Nevermind<Close><End of Block>
-<TextBlock 35 w:52 h:2>
-Hang in there Bartholomew!<Delay 30>
+<TextBlock 34 w:30 h:3>
+    Items
+    Accessories
+    Never mind<Close><End of Block>
+<TextBlock 35 w:54 h:2>
+Hang in there, Bartholomew!<Delay 30>
 The same for all of you!<Close><End of Block>
-<TextBlock 36 w:52 h:2>
-Hang in there Bartholomew!<Delay 30>
+<TextBlock 36 w:54 h:2>
+Hang in there, Bartholomew!<Delay 30>
 The same for all of you!<Close><End of Block>
-<TextBlock 37 w:52 h:2>
-Hang in there Bartholomew!<Delay 30>
+<TextBlock 37 w:54 h:2>
+Hang in there, Bartholomew!<Delay 30>
 The same for all of you!<Close><End of Block>
 <TextBlock 38 w:44 h:2>
 You can't hold anymore
@@ -371,8 +379,8 @@ Don't worry about it.<Close><End of Block>
 <TextBlock 91 w:14 h:2>
 Billy
 "Bart!"<Close><End of Block>
-<TextBlock 92 w:36 h:1>
-Don't worry about.<Close><End of Block>
+<TextBlock 92 w:42 h:1>
+Don't worry about it.<Close><End of Block>
 <TextBlock 93 w:14 h:2>
 Billy
 "Rico!"<Close><End of Block>
@@ -395,41 +403,41 @@ Billy
 "Maria!"<Close><End of Block>
 <TextBlock 99 w:32 h:1>
 Nothing happens.<Close><End of Block>
-<TextBlock 100 w:32 h:2>
+<TextBlock 100 w:36 h:2>
 Bart
-"...<Delay 30>Not moving."<Close><End of Block>
+"...<Delay 30>Doesn't work."<Close><End of Block>
 <TextBlock 101 w:16 h:2>
 Bart
 "Hmm..."<Close><End of Block>
 <TextBlock 102 w:50 h:3>
 Margie
-"Want to go check out the
+"Shall we go look for the
 great treasure first?"<Close><End of Block>
-<TextBlock 103 w:48 h:3>
+<TextBlock 103 w:44 h:3>
 Bart
-"Hmmm...<New>
-From the looks of it,
-Shakhan hasn't found the
-great treasure either."<Close><End of Block>
-<TextBlock 104 w:50 h:3>
-Fei
 "Yeah...<New>
+From what we saw
+earlier, Shakhan's lot
+haven't found it yet."<Close><End of Block>
+<TextBlock 104 w:42 h:4>
+Fei
+"That's right...<New>
 When we were leaving 
-Nisan, Bart and them said
-they've never been here.<New>
-Well, first of all let's
-go locate the great
-treasure."<Close><End of Block>
+Nisan, you guys were
+saying you've never
+been in here.<New>
+Let's make locating
+the great treasure
+our first priority."<Close><End of Block>
 <TextBlock 105 w:48 h:3>
 Bart
-"Yeah...<New>
-I know for sure that the
-great treasure is
-somewhere inside the<New>
-mausoleum. I can't
-pinpoint the location
-though.<New>
-So, let's go find it
+"Okay...<New>
+All I know for sure is
+that it rests somewhere
+inside the mausoleum.<New>
+But even I can't be sure
+how far in it is.<New>
+Let's go find it first,
 then we can decide what
 to do next."<Close><End of Block>
 <TextBlock 106 w:26 h:3>
@@ -441,134 +449,140 @@ Bart
 "There sure are a lot
 of gauges and meters in
 here."<Close><End of Block>
-<TextBlock 108 w:48 h:4>
+<TextBlock 108 w:40 h:3>
 Margie
-"I wonder which is more
-impressive? The pilot
-room on your ship or the<New>
-one in here?"<Close><End of Block>
-<TextBlock 109 w:44 h:2>
+"I wonder which is
+more impressive...<New>
+the pilot room on
+your ship or the one
+in here?"<Close><End of Block>
+<TextBlock 109 w:40 h:3>
 Bart
-"My ship of course..."<Close><End of Block>
-<TextBlock 110 w:50 h:4>
+"It has to be
+the one on my<-->"<Close><End of Block>
+<TextBlock 110 w:48 h:4>
 Bart
-"Uhh, well... since they
-are our ancestors, I
-guess this one's better."<Close><End of Block>
+"Uhh, well...this IS the
+place of our ancestors,
+so I guess this one's<-->"<Close><End of Block>
 <TextBlock 111 w:50 h:3>
 Bart
-"And you, quit asking
+"Hey you, quit asking
 mean questions like that.<New>
 Anyway, it's not called
-a pilot room. It's the
+a 'pilot room'. It's the
 bridge, got it?"<Close><End of Block>
 <TextBlock 112 w:48 h:2>
 Margie
 "Does it really matter?"<Close><End of Block>
-<TextBlock 113 w:40 h:3>
+<TextBlock 113 w:30 h:3>
 Bart
-"All right.<Delay 30>
-I know I can do it!"<Close><End of Block>
+"Alriiiight!<Delay 30>
+Looking good!"<Close><End of Block>
 <TextBlock 114 w:28 h:2>
 Bart
 "...<Delay 30>...<Delay 30>...<Delay 30>...<Delay 30>"<Close><End of Block>
-<TextBlock 115 w:36 h:3>
+<TextBlock 115 w:20 h:3>
 Bart
-"Yesss!
-This is the way!!"<Close><End of Block>
-<TextBlock 116 w:70 h:3>
- 
-"Oh REALLY!?"<Delay 30>
-                                   <Close><End of Block>
-<TextBlock 117 w:38 h:4>
+"Yesss!<Delay 10>
+Success!!"<Close><End of Block>
+<TextBlock 116 w:28 h:2>
+Everyone
+"SERIOUSLY!?"<Close><End of Block>
+<TextBlock 117 w:34 h:3>
 Bart
-"Wha?<Delay 30>
-What're you talking
-about?"<Close><End of Block>
+"Eh?<Delay 30>
+What d'you mean?"<Close><End of Block>
 <TextBlock 118 w:42 h:4>
 Fei
-"Quit foolin'!<Delay 30>
+"Don't play dumb!<Delay 30>
 What the heck did you
 just press!?"<Close><End of Block>
-<TextBlock 119 w:50 h:4>
+<TextBlock 119 w:46 h:4>
 Bart
-"...<Delay 30>Ohhh...<Delay 30>
-Well, I wouldn't say it
-was a complete success...<New>
-But it'll do for now."<Close><End of Block>
-<TextBlock 120 w:50 h:4>
+"...<Delay 30>Ohhh...<Delay 30> Okay, maybe
+the execution wasn't
+absolutely flawless...<New>
+but we're okay, right?"<Close><End of Block>
+<TextBlock 120 w:48 h:4>
 Bart
 "Don't worry!<Delay 30>
-I've  never fouled things
-up yet, have I?<New>
-Well have I!?"<Close><End of Block>
-<TextBlock 121 w:48 h:3>
+I've never fouled things
+up before, have I?<New>
+Well, have I!?"<Close><End of Block>
+<TextBlock 121 w:42 h:3>
 Bart
-"How 'bout... Ladies and
+"Ah, yes! Ladies and
 gentlemen, behold!"<Close><End of Block>
 <TextBlock 122 w:50 h:3>
 Bart
-"Tis that not Babel Tower
-...over yonder?"<Close><End of Block>
-<TextBlock 123 w:54 h:3>
+"Is that, by any chance,
+Babel Tower over yonder?"<Close><End of Block>
+<TextBlock 123 w:52 h:4>
 Bart
-"Well?<Delay 30>
-Isn't it way coo<Delay 60>oool!?<New>
-It floats from the Fatima
-Jasper...<New>
-I call it Ft. Jasper, and
-you'll be able see it from 
-far off.<New>
-I'm sure that last beam
-cannon could reach it!"<Close><End of Block>
+"Well?<Delay 30> Waaay coooool!!<New>
+This awesome thing
+floats, thanks to
+the Fatima Jasper...<New>
+I call it 'Fort Jasper',
+and from here we'll be
+able to see far-off places
+clearly.<New>
+I'm sure that beam cannon
+just now could reach way
+over there!"<Close><End of Block>
 <TextBlock 124 w:54 h:4>
 Bart
 "Well, I guess I wanted to
 show you all its greatness.<New>
 Have you ever seen such a
-cannon? And don't mix it
-up with Vanderkaum's pea-
-shooter.
-This one's many times 
-more powerful and many 
-times more refined.
-After all, that's why my
-ancestors used it for
-generations to guard the
-treasure.
+big cannon? And don't lump
+me together with that
+Vanderkaum guy just 'cause
+I said 'big cannon'.
+This one's many times more
+powerful and many times
+more refined than his.
+Nothing alike!
+No wonder my ancestors used
+it for generations to guard
+the great treasure.
 Yeah, this is the real
 thing. And don't you
 forget it.
-Now as I was saying,
-I haven't fouled up yet."<Close><End of Block>
-<TextBlock 125 w:48 h:3>
+Anyway, as I was saying,
+I'd never make such a
+blunder."<Close><End of Block>
+<TextBlock 125 w:48 h:4>
 Bart
-"So, let's go get this
-treasure and go home!<New>
+"So, let's go get the
+great treasure and go
+home!<New>
 But first, we have to
-open that door in the
-dome!<New>
-I don't think the switch
-on this control panel
-will do it though."<Close><End of Block>
+open those canopy doors!<New>
+I don't think this
+control panel will
+do it, though."<Close><End of Block>
 <TextBlock 126 w:26 h:2>
 Bart
 "Over there!"<Close><End of Block>
 <TextBlock 127 w:6 h:1>
 ...<Close><End of Block>
-<TextBlock 128 w:52 h:3>
+<TextBlock 128 w:50 h:4>
 Fei
-(Didn't you say you hit
-the wrong button earlier?)<Close><End of Block>
+"(Wasn't he only just
+saying how something got
+'accidentally pushed'!?)"<Close><End of Block>
 <TextBlock 129 w:52 h:4>
 Bart
 "Hey, they all look alike.
 Ah well, let's start
 hitting some buttons."<Close><End of Block>
-<TextBlock 130 w:30 h:3>
+<TextBlock 130 w:38 h:4>
 Fei
-"Whoa whoa!
-Is that safe!?"<Close><End of Block>
+"Whoa, whoa!
+Is that really such
+a good idea!?"<Close><End of Block>
 <TextBlock 131 w:40 h:4>
 Bart
 "Alright,<Delay 30> let's
@@ -579,9 +593,9 @@ Well done, Prince
 Bartholomew.<New>
 Thank you for unlocking
 the seal.<Close><End of Block>
-<TextBlock 133 w:24 h:3>
+<TextBlock 133 w:28 h:3>
 Bart
-"That voice,<Delay 30>
+"That voice...<Delay 30>
 Shakhan!"<Close><End of Block>
 <TextBlock 134 w:46 h:3>
 Bart
@@ -592,12 +606,12 @@ Shakhan
 "Of course."<Close><End of Block>
 <TextBlock 136 w:52 h:4>
 Shakhan
-"You don't really believe
-that the door would open
-up for just anyone?<New>
-I simply leaked the
-information and merely
-awaited for your arrival."<Close><End of Block>
+"The retinal pattern of
+a rotting corpse was never
+going to open those doors.<New>
+I simply leaked that
+information and awaited
+your arrival."<Close><End of Block>
 <TextBlock 137 w:44 h:4>
 Bart
 "Crap, so that's why I
@@ -609,11 +623,11 @@ Shakhan
 nature, I knew you would
 come...<New>
 But I never thought you'd
-go so far as breaking the
+go so far as to break the
 seal for me."<Close><End of Block>
 <TextBlock 139 w:48 h:3>
 Bart
-"Son of a...<Delay 30>
+"Son of a<--><Delay 30>
 Makin' a fool outta me!"<Close><End of Block>
 <TextBlock 140 w:50 h:3>
 Shakhan

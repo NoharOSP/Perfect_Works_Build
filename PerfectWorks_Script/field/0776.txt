@@ -59,12 +59,14 @@ Come again!<Close><End of Block>
 Come again!<Close><End of Block>
 <TextBlock 14 w:22 h:1>
 Come again!<Close><End of Block>
-<TextBlock 15 w:50 h:3>
+<TextBlock 15 w:48 h:4>
 Fei
-"Oh well, there's nobody
-around.<New>
-I guess I'll just leave
-the money here."<Close><End of Block>
+"Neither the old man or
+woman are around, but it
+can't be helped.<New>
+Let's just leave the
+right amount of money
+here."<Close><End of Block>
 <TextBlock 16 w:30 h:3>
     Items
     Accessories
