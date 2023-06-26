@@ -152,7 +152,7 @@ along with this girl<Delay 5>..."<Close><End of Block>
 Myyah
 "Guhh...!?"<Opcode 2 40><Close><End of Block>
 <TextBlock 23 w:50 h:4>
-Myyah?
+Myyah
 "Good<Delay 5>...<Delay 5>
 This is how I wanted it,
 Carl<Delay 5>...<New>
