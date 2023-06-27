@@ -16,31 +16,30 @@ Sigurd
 <TextBlock 5 w:38 h:3>
 Bart
 "Sig...<Delay 30>
-What should I do!?"<Close><End of Block>
+what should I do!?"<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 Sigurd
-"Pass the light through
-your good eye!<Delay 30>
+"Hold your good eye
+up to the light!<Delay 30>
 I'll do the other half!"<Close><End of Block>
-<TextBlock 7 w:34 h:2>
+<TextBlock 7 w:28 h:2>
 Bart
-"...<Delay 30>What're you?"<Close><End of Block>
+"...<Delay 30>Say what?"<Close><End of Block>
 <TextBlock 8 w:26 h:2>
 Sigurd
 "Just do it!"<Close><End of Block>
 <TextBlock 9 w:42 h:2>
 Bart
 "Yes!<Delay 30> It's unlocked."<Close><End of Block>
-<TextBlock 10 w:48 h:4>
+<TextBlock 10 w:32 h:4>
 Bart
-"?<Delay 30>
-Sig...!<Delay 30>
-How did YOUR eye work!?"<Close><End of Block>
-<TextBlock 11 w:48 h:4>
+"...?<Delay 30>
+Sig...<Delay 30>how did
+YOUR eye work!?"<Close><End of Block>
+<TextBlock 11 w:44 h:4>
 Sigurd
 "We're running out of 
-time!<Delay 30><New>
-We must return to
+time!<Delay 30> We must get to
 Marguerite at once!"<Close><End of Block>
 <TextBlock 12 w:12 h:2>
 Bart

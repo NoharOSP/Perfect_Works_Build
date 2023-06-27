@@ -1,20 +1,19 @@
-<TextBlock 1 w:48 h:4>
+<TextBlock 1 w:44 h:4>
 Fei
-"This is...<Delay 30>
-the same angel statue at
-the cathedral."<Close><End of Block>
+"These are...<Delay 30>the same
+as the cathedral's
+angel statues."<Close><End of Block>
 <TextBlock 2 w:30 h:3>
 Fei
-"The...<Delay 30>
+"This...<Delay 30>is the
 Fatima Jasper."<Close><End of Block>
-<TextBlock 3 w:42 h:2>
+<TextBlock 3 w:32 h:3>
 Fei
-"Say, would either of 
-you know what's up 
-ahead<Delay 30>...?"<Close><End of Block>
+"So<Delay 30> just what is
+up ahead...?"<Close><End of Block>
 <TextBlock 4 w:50 h:2>
 Elly
-"An angel statue...here?"<Close><End of Block>
+"Angel statues... Here?"<Close><End of Block>
 <TextBlock 5 w:26 h:3>
 Elly
 "...<Delay 30>A retinal
@@ -24,14 +23,14 @@ Elly
 "What's up ahead<Delay 30>...?"<Close><End of Block>
 <TextBlock 7 w:50 h:2>
 Citan
-"An angel statue...here?"<Close><End of Block>
+"Angel statues... Here?"<Close><End of Block>
 <TextBlock 8 w:44 h:3>
 Citan
-"I see...<Delay 30> so this
+"I see...<Delay 30> So this
 is the Fatima Jasper."<Close><End of Block>
-<TextBlock 9 w:42 h:2>
-Elly
-"What's up ahead<Delay 30>...?"<Close><End of Block>
+<TextBlock 9 w:44 h:2>
+Citan
+"What is up ahead<Delay 30>...?"<Close><End of Block>
 <TextBlock 10 w:38 h:3>
 Error Dummytag
 (Bart is not in the
@@ -47,11 +46,11 @@ correct order)<Close><End of Block>
 <TextBlock 13 w:38 h:3>
 Billy
 "...<Delay 30>
-An angel statue..."<Close><End of Block>
-<TextBlock 14 w:44 h:3>
+Angel statues..."<Close><End of Block>
+<TextBlock 14 w:48 h:3>
 Billy
-"Shine the eyes and...<Delay 30>
-the door!?"<Close><End of Block>
+"Aim the light at the
+eyes and...<Delay 30>the door<-->!?"<Close><End of Block>
 <TextBlock 15 w:42 h:2>
 Billy
 "What's up ahead<Delay 30>...?"<Close><End of Block>
@@ -75,9 +74,9 @@ unlock it with my eyes!?"<Close><End of Block>
 Maria
 "Wonder what's up
 ahead...?"<Close><End of Block>
-<TextBlock 22 w:32 h:2>
+<TextBlock 22 w:34 h:2>
 <Chu-Chu>
-"It's an angel."<Close><End of Block>
+"They're angels."<Close><End of Block>
 <TextBlock 23 w:26 h:2>
 <Chu-Chu>
 "Wa wa waaa!"<Close><End of Block>
@@ -87,30 +86,31 @@ ahead...?"<Close><End of Block>
 over there?"<Close><End of Block>
 <TextBlock 25 w:36 h:2>
 Emeralda
-"...It has wings."<Close><End of Block>
+"They have wings."<Close><End of Block>
 <TextBlock 26 w:36 h:2>
 Emeralda
 "What's up ahead?"<Close><End of Block>
-<TextBlock 27 w:50 h:4>
+<TextBlock 27 w:48 h:4>
 Bart
-"So this is the door that
-connects to the great
-royal treasure."<Close><End of Block>
-<TextBlock 28 w:44 h:4>
+"This is the door that
+leads to the great royal
+treasure."<Close><End of Block>
+<TextBlock 28 w:42 h:4>
 Bart
 "It's time<Delay 30> for
 the Fatima Jasper...
 to do its thing...<New>
-Oh yeah, one of mine's
-closed."<Close><End of Block>
+One of mine's closed,
+of course."<Close><End of Block>
 <TextBlock 29 w:22 h:2>
 Margie
 "I'm here."<Close><End of Block>
-<TextBlock 30 w:40 h:3>
+<TextBlock 30 w:36 h:3>
 Bart
 "Yeah.<New>
-That punk, Shakhan
-mistook that for the
+That punk Shakhan
+mistook it to be
+the halves of the
 royal pendant."<Close><End of Block>
 <TextBlock 31 w:48 h:4>
 Bart
@@ -122,15 +122,14 @@ Margie
 "Up ahead will be the
 central core of the
 fortress."<Close><End of Block>
-<TextBlock 33 w:48 h:4>
+<TextBlock 33 w:46 h:4>
 Margie
-"It's been said that if
-we shine that mysterious
-light across our eyes,<New>
+"It's said that when
+that mysterious light
+scans our eyes,<New>
 the fortress will rise
 to the surface.<New>
-They say this was built
+Apparently it was built
 before the country of
 Av was founded.<New>
-So, are you ready 
-to go?"<Close><Close><End of Block>
+Well, let's go!"<Close><Close><End of Block>

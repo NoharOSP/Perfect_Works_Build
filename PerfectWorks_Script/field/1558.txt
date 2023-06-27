@@ -1,8 +1,8 @@
-<TextBlock 1 w:50 h:3>
- Fei
+<TextBlock 1 w:48 h:3>
+Fei
 "Hold on.<Delay 30>
-How...far does this go!?"<Close><End of Block>
+How...far does this go?"<Close><End of Block>
 <TextBlock 2 w:44 h:3>
- Bart
+Bart
 "Hang in there.
 It's just a bit more."<Close><Close><End of Block>

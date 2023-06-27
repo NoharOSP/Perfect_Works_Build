@@ -3,28 +3,30 @@ Bart
 "Let's split up!<New>
 I'll go to the mausoleum.<Delay 30>
 I'll take Fei and..."<Delay 30><Close><End of Block>
-<TextBlock 2 w:50 h:3>
+<TextBlock 2 w:48 h:3>
 Bart
-"I see, that'll be good.<Delay 30>
-Then please go help Sig!"<Close><End of Block>
-<TextBlock 3 w:46 h:2>
-"So, if that's the case
-then..."<Close><End of Block>
-<TextBlock 4 w:52 h:2>
+"I see. That'd be good!<Delay 30>
+Then, yes, you aid Sig!"<Close><End of Block>
+<TextBlock 3 w:28 h:3>
 Bart
-"Alright! That decides it!<New>
-Everyone else cooperate
-with Sig!"<Close><End of Block>
+"In that case,
+it'll be..."<Close><End of Block>
+<TextBlock 4 w:32 h:3>
+Bart
+"Alright, that
+decides it!<New>
+Everyone else
+work with Sig!"<Close><End of Block>
 <TextBlock 5 w:40 h:4>
 Bart
-"Huh?<Delay 30>
-You don't have to...<Delay 30>
-Oh, yeah.<New>
-Sorry Margie.
+"Huh!?<Delay 30>
+You shouldn't<--><Delay 30>
+Ah, that's right.<New>
+Sorry, Margie.
 Come along with us."<Close><End of Block>
-<TextBlock 6 w:42 h:3>
+<TextBlock 6 w:44 h:3>
 Bart
-"Alright I'm counting
+"Alright, I'm counting
 on all of you!<New>
 He's a dead man the
 next time I see him!"<Close><End of Block>
@@ -416,167 +418,176 @@ Sister Agnes
 "I'm fine. <Delay 30>
 Marguerite and Bartholomew,
 I'm sorry..."<Close><End of Block>
-<TextBlock 78 w:48 h:4>
+<TextBlock 78 w:48 h:3>
 Sigurd
-"I took some troops and
-searched the area, but I
-couldn't find anyone."<Close><End of Block>
+"I took my troops and
+searched the whole area,<New>
+but I couldn't find a
+single resident."<Close><End of Block>
 <TextBlock 79 w:18 h:2>
 Bart
-"Really?"<Close><End of Block>
-<TextBlock 80 w:54 h:3>
+"I see."<Close><End of Block>
+<TextBlock 80 w:44 h:3>
 Sister Agnes
-"Earlier, <Delay 30>
-after everyone came out..."<Close><End of Block>
+"It was some time ago,<Delay 30>
+after you all left..."<Close><End of Block>
 <TextBlock 81 w:46 h:4>
 Sister Agnes
-"Over half of the
-residents have fled
+"More than half of the
+residents evacuated
 from Nisan.<New>
 After that, Shakhan's
-position in the country
-was compromised so...<New>
-he didn't care about
-reputations anymore and
-attacked this land."<Close><End of Block>
+standing in the country
+was compromised, so...<New>
+not caring how it
+looked, he invaded
+this land."<Close><End of Block>
 <TextBlock 82 w:50 h:4>
 Citan
-"I see. <Delay 30>
+"I see.<Delay 30>
 A last desperate plan to
 reverse the situation..."<Close><End of Block>
 <TextBlock 83 w:46 h:4>
 Bart
 "Sister, I assume the
 people remaining in the
-town are...?"<Close><End of Block>
-<TextBlock 84 w:50 h:3>
+town went to<Delay 20>...?"<Close><End of Block>
+<TextBlock 84 w:48 h:3>
 Sister Agnes
-"Yes.<Delay 30>
-Hiding in the mausoleum."<Close><End of Block>
-<TextBlock 85 w:38 h:3>
+"Yes.<Delay 30> They evacuated
+to the great mausoleum."<Close><End of Block>
+<TextBlock 85 w:30 h:4>
 Fei
 "Mausoleum...?<Delay 30>
-Hiding in a grave?"<Close><End of Block>
+They evacuated
+into a grave!?"<Close><End of Block>
 <TextBlock 86 w:44 h:4>
 Margie
 "The great mothers and
 kings of Av of old
-are revered there."<Close><End of Block>
-<TextBlock 87 w:54 h:3>
+are honored there."<Close><End of Block>
+<TextBlock 87 w:46 h:4>
 Bart
-"It's not just some regular
-grave or anything."<Close><End of Block>
+"You could say it's a
+bit different from your
+average grave."<Close><End of Block>
 <TextBlock 88 w:28 h:3>
 Sister Agnes
 "Bartholomew,
 about that..."<Close><End of Block>
-<TextBlock 89 w:42 h:3>
+<TextBlock 89 w:44 h:3>
 Sister Agnes
-"Shakhan and
+"Shakhan is after
 the Fatima Jasper...<New>
-He's after the Fatima
-Treasure."<Close><End of Block>
-<TextBlock 90 w:54 h:4>
+and the Fatima
+Treasure it leads to."<Close><End of Block>
+<TextBlock 90 w:50 h:4>
 Citan
 "Treasure...?<Delay 30> If he wants
 the treasure what is he
-doing attacking here...?"<Close><End of Block>
+doing invading Nisan...?"<Close><End of Block>
 <TextBlock 91 w:26 h:2>
 Bart
 "Huh?<Delay 30> Ahh..."<Delay 30><Close><End of Block>
-<TextBlock 92 w:48 h:4>
+<TextBlock 92 w:46 h:4>
 Bart
 "Actually, the Fatima
-Treasure is in the
-mausoleum.<New>
-Even Dad's will was
-there, but I didn't
-tell anyone..."<Close><End of Block>
+Treasure is in the back
+of the great mausoleum.<New>
+Dad's will was there,
+too, although that was
+kept pretty quiet..."<Close><End of Block>
 <TextBlock 93 w:52 h:3>
 Fei
 "Treasure...<New>
 You mean that thing in the
-picture scrolls you showed
-me earlier in your base?"<Close><End of Block>
-<TextBlock 94 w:52 h:4>
+scrolls you showed me in
+your base before?"<Close><End of Block>
+<TextBlock 94 w:46 h:4>
 Bart
 "Yeah.<New>
-If you follow that legend,
-you're supposed to get
-your hands on some great
-power."<Close><End of Block>
-<TextBlock 95 w:36 h:3>
+If that legend is to be
+believed, Shakhan might
+just get his hands on
+some great power."<Close><End of Block>
+<TextBlock 95 w:34 h:3>
 Sigurd
-"We must stop them
+"We must stop him
 somehow."<Close><End of Block>
-<TextBlock 96 w:40 h:3>
+<TextBlock 96 w:36 h:4>
 Bart
-"There's no problem.
-The Jasper is..."<Close><End of Block>
-<TextBlock 97 w:50 h:3>
+"But it won't be a
+problem.<Delay 10> Because
+the Jasper is<-->"<Close><End of Block>
+<TextBlock 97 w:54 h:3>
 Sister Agnes
 "They plan to use the
-former mother's retinas."<Close><End of Block>
+former mother's retinas..."<Close><End of Block>
 <TextBlock 98 w:24 h:2>
 Bart
 "Wh-<Delay 30>What!?"<Close><End of Block>
 <TextBlock 99 w:40 h:4>
 Sister Agnes
-"Remove the deceased
-mother's retina,<Delay 30> and
-break the seal."<Close><End of Block>
-<TextBlock 100 w:50 h:3>
+"By removing the
+deceased mother's
+retinas...<New>
+that's how they plan
+to break the seal!"<Close><End of Block>
+<TextBlock 100 w:38 h:3>
 Bart
-"Use the body of Margie's
-mother?"<Close><End of Block>
+"Using Margie's
+mother's remains!?"<Close><End of Block>
 <TextBlock 101 w:24 h:2>
 Margie
-"Mom's...!!"<Close><End of Block>
-<TextBlock 102 w:52 h:4>
+"Mom's...!?"<Close><End of Block>
+<TextBlock 102 w:50 h:4>
 Sister Agnes
-"I'm sorry. They used
-innocent citizens and sect
-followers as a shield.<New>
-There was no other way...<New>
-The truth we heard
-previously from Margie
-about the Jasper's true
-form and how it's used...<New>
-They know now...<Delay 30>
+"I'm sorry.<New>
+Innocent townsfolk and
+sect followers were taken
+captive, leaving us no
+other choice...<New>
+What we heard previously
+from Margie about the
+Jasper's true form and
+how it's used...<New>
+We had to...<Delay 30>
 I am truly sorry."<Close><End of Block>
 <TextBlock 103 w:38 h:4>
 Bart
 "Well...<Delay 30>
 I don't blame you.
 They had hostages!"<Close><End of Block>
-<TextBlock 104 w:42 h:4>
+<TextBlock 104 w:36 h:4>
 Citan
 "Wait a moment.<Delay 30>
-Retina... What are
-you speaking of?"<Close><End of Block>
-<TextBlock 105 w:50 h:4>
+Retinas...
+What is all this?"<Close><End of Block>
+<TextBlock 105 w:48 h:4>
 Bart
-"The Fatima Jasper is the
-topaz blue pupils of the
-Fatima dynasty...<New>
+"The Fatima Jasper is...<New>
+the topaz-blue pupils
+that the people of the
+Fatima dynasty have...<New>
 In other words...<Delay 30>
 our retinal pattern.<New>
-The doors to the treasure
-are opened by that...<Delay 30>
+That is what opens the
+doors leading to the
+resting place of the
+treasure...<New>
 or so it is said."<Close><End of Block>
-<TextBlock 106 w:52 h:4>
+<TextBlock 106 w:54 h:4>
 Bart
-"However no one has ever
+"But no one has ever
 used it. It's not to be
 used for minor conflicts.<New>
 The doors are to be opened
 only when the kingdom is
 truly in danger.<New>
-So neither I, <Delay 30>
-nor my father, <Delay 30>
-nor grandfather,<New>
+So neither I,<Delay 30> nor my
+father,<Delay 30> nor my grandfather,<Delay 30>
 nor my great-grandfather
-have ever used it."<Close><End of Block>
+have used it."<Close><End of Block>
 <TextBlock 107 w:44 h:3>
 Citan
 "So, that <Delay 30>is the true
@@ -584,24 +595,27 @@ form of the Jasper..."<Close><End of Block>
 <TextBlock 108 w:14 h:2>
 Bart
 "Damn!"<Close><End of Block>
-<TextBlock 109 w:56 h:4>
+<TextBlock 109 w:54 h:4>
 Bart
-"That old coot, <Delay 30>he wants to
-profane a holy person's
-corpse? That's unthinkable!"<Close><End of Block>
-<TextBlock 110 w:48 h:4>
+"That old coot,<Delay 30> he would
+profane a person's corpse!?<New>
+I can't believe he was
+ever a holy man!"<Close><End of Block>
+<TextBlock 110 w:40 h:4>
 Citan
-"It is a closely guarded
-secret but the Church's
-people are not holy men.<New>
-They simply supervise."<Close><End of Block>
-<TextBlock 111 w:46 h:3>
+"Strictly speaking,
+the people of the
+Church are not holy.<New>
+They are simply
+supervisors."<Close><End of Block>
+<TextBlock 111 w:44 h:3>
 Fei
-"Yes, of course they
-wouldn't feel anything!<New>
+"That's right.
+Of course they'd have
+no problem doing this!<New>
 Let's go, Bart!<Delay 30>
-Before the mausoleum is
-trashed."<Close><End of Block>
+Before the mausoleum
+is trashed."<Close><End of Block>
 <TextBlock 112 w:20 h:2>
 Bart
 "Alright!"<Close><End of Block>
@@ -615,7 +629,7 @@ Bart
 <TextBlock 115 w:50 h:4>
 Sigurd
 "Currently Av is in
-confusion with Shakhan
+disarray with Shakhan
 running amok.<New>
 It should be very easy
 to bring down the center
@@ -624,19 +638,19 @@ around.<New>
 It'll be the best time to
 make our return to the
 Capital."<Close><End of Block>
-<TextBlock 116 w:52 h:4>
+<TextBlock 116 w:50 h:4>
 Citan
-"That is a good idea.<New>
-Shakhan is most likely
-thinking of the Fatima
-Jasper as his last card.<New>
-While we prevent the young
-one from handing over the
-treasure to Shakhan...<New>
-a separate force will take
-back the Capital.
-Then he will have nowhere
-else to go."<Close><End of Block>
+"That may be a good idea.<New>
+Shakhan most likely sees
+the Fatima Jasper as his
+last trump card.<New>
+While the young one stops
+the treasure from falling
+into Shakhan's hands...<New>
+a separate force will
+take back the Capital.
+Then he will have
+nowhere else to go!"<Close><End of Block>
 <TextBlock 117 w:42 h:3>
 Bart
 "I got it...<Delay 30>
@@ -652,14 +666,14 @@ back in one shot!"<Close><End of Block>
     <Chu-Chu><Close><End of Block>
 <TextBlock 119 w:32 h:2>
 Elly
-"Fine, I'll go."<Close><End of Block>
+"Sure, I'll go."<Close><End of Block>
 <TextBlock 120 w:52 h:4>
 Citan
 "If possible, I would like
 to return to the Capital
 with Sigurd.<New>
-Two former Solarians will
-dethrone the Church...
+For two former Solarians
+to dethrone the Church...
 How very ironic."<Close><End of Block>
 <TextBlock 121 w:20 h:2>
 Billy
@@ -667,36 +681,38 @@ Billy
 <TextBlock 122 w:34 h:2>
 Rico
 "Leave it to me."<Close><End of Block>
-<TextBlock 123 w:36 h:2>
+<TextBlock 123 w:26 h:3>
 Maria
-"I will help out."<Close><End of Block>
-<TextBlock 124 w:38 h:3>
+"Allow me to
+help out."<Close><End of Block>
+<TextBlock 124 w:40 h:3>
 <Chu-Chu>
-"There's no choice
-but for me chu go!"<Close><End of Block>
+"I just have chu go
+along for this one!"<Close><End of Block>
 <TextBlock 125 w:22 h:5>
     Elly
     Billy
     Rico
     Maria
     <Chu-Chu><Close><End of Block>
-<TextBlock 126 w:20 h:2>
+<TextBlock 126 w:32 h:2>
 Elly
-"I'll go."<Close><End of Block>
+"Sure, I'll go."<Close><End of Block>
 <TextBlock 127 w:20 h:2>
 Billy
 "I'll go."<Close><End of Block>
 <TextBlock 128 w:34 h:2>
 Rico
 "Leave it to me."<Close><End of Block>
-<TextBlock 129 w:36 h:2>
+<TextBlock 129 w:26 h:3>
 Maria
-"I will help out."<Close><End of Block>
-<TextBlock 130 w:38 h:3>
+"Allow me to
+help out."<Close><End of Block>
+<TextBlock 130 w:40 h:3>
 <Chu-Chu>
-"There's no choice
-but for me chu go!"<Close><End of Block>
-<TextBlock 131 w:30 h:3>
+"I just have chu go
+along for this one!"<Close><End of Block>
+<TextBlock 131 w:32 h:3>
 Margie
 "Hold on.<Delay 30>
-I'm going too!"<Close><Close><End of Block>
+I'm going, too!"<Close><Close><End of Block>

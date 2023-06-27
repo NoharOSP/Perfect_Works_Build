@@ -25,9 +25,9 @@ engine is down!<Opcode 2 45><Close><End of Block>
 Flash signal from the
 Löwe! 'Rudder failure,
 repeat, rudder failure'.<Opcode 2 64><Close><End of Block>
-<TextBlock 8 w:32 h:2>
-Three allied
-Gears remaining!<Opcode 2 32><Close><End of Block>
+<TextBlock 8 w:42 h:1>
+Our Gears...<New>
+Only three remaining!<Close><End of Block>
 <TextBlock 9 w:46 h:2>
 Enemy Gear above! Enemy
 Gear diving from above!<Close><End of Block>
@@ -68,7 +68,7 @@ Vanderkaum
 "Quiet down,
 Aviation Officer!<New>
 Thanks for your valuable
-opinion but I am in
+opinion, but I am in
 charge, not you!<New>
 What use is a mere 40-sem
 like Merle or a pea-
@@ -110,7 +110,7 @@ Ramsus will have
 my hide!"<Close><End of Block>
 <TextBlock 21 w:52 h:4>
 Vanderkaum
-"Fire control!
+"Firing control!
 Gunnery Chief!
 What are you doing!?<New>
 You're not even close!!!!

@@ -1,62 +1,64 @@
-<TextBlock 1 w:42 h:3>
+<TextBlock 1 w:38 h:3>
 Fei
 "...So,<Delay 30>
-what's gonna happen?"<Close><End of Block>
-<TextBlock 2 w:38 h:2>
+what happens now?"<Close><End of Block>
+<TextBlock 2 w:42 h:2>
 Fei
-"...You haven't..."<Close><End of Block>
-<TextBlock 3 w:44 h:3>
+"...Don't tell me..."<Close><End of Block>
+<TextBlock 3 w:48 h:3>
 Fei
 "You haven't forgotten
-what we need to do?"<Close><End of Block>
-<TextBlock 4 w:48 h:3>
+what you need to do...?"<Close><End of Block>
+<TextBlock 4 w:46 h:3>
 Fei
-(...Is<Delay 30> everything
-gonna be OK...?<New>
-I'm beginning to have my
-doubts...)<Close><End of Block>
+"(...<Delay 30>Is this guy okay?<New>
+I'm...<Delay 30>kinda worried
+about how this is going
+to turn out...)"<Close><End of Block>
 <TextBlock 5 w:44 h:4>
 Elly
 "...So,<Delay 30>
 what's going to happen
 now?"<Close><End of Block>
-<TextBlock 6 w:38 h:2>
-Fei
-"...You haven't..."<Close><End of Block>
-<TextBlock 7 w:50 h:3>
-Fei
-"You haven't forgotten
-what we needed to do...?"<Close><End of Block>
-<TextBlock 8 w:36 h:3>
+<TextBlock 6 w:42 h:2>
 Elly
-(...Are<Delay 30> we
-going to be OK...?<New>
-I've got a bad
-feeling...)<Close><End of Block>
+"...Don't tell me..."<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Elly
+"You haven't forgotten
+what you needed to do...?"<Close><End of Block>
+<TextBlock 8 w:36 h:4>
+Elly
+"(...<Delay 30>I wonder if
+he's okay...<New>
+I'm...<Delay 30>a bit
+worried about
+how this is going
+to turn out...)"<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 Citan
 "My, was that not the
 longest flight of
 stairs!?<New>
 ...So, what is our plan?"<Close><End of Block>
-<TextBlock 10 w:38 h:2>
-Fei
-"...You haven't..."<Close><End of Block>
-<TextBlock 11 w:48 h:3>
-Fei
-"You haven't forgotten
-what we needed to do..?"<Close><End of Block>
-<TextBlock 12 w:32 h:3>
+<TextBlock 10 w:42 h:2>
 Citan
-(...<Delay 30>Are we going
-to be okay..?)<Close><End of Block>
-<TextBlock 13 w:36 h:2>
+"...Don't tell me..."<Close><End of Block>
+<TextBlock 11 w:52 h:3>
+Citan
+"You have not forgotten
+what you needed to do...?"<Close><End of Block>
+<TextBlock 12 w:22 h:3>
+Citan
+"(...<Delay 30>Is he
+alright?)"<Close><End of Block>
+<TextBlock 13 w:42 h:2>
 Fei
-"...You haven't.."<Close><End of Block>
-<TextBlock 14 w:50 h:3>
+"...Don't tell me..."<Close><End of Block>
+<TextBlock 14 w:48 h:3>
 Fei
 "You haven't forgotten
-what we needed to do...?"<Close><End of Block>
+what you need to do...?"<Close><End of Block>
 <TextBlock 15 w:46 h:3>
 Dummy tag.
 Bart is not in the lead
@@ -64,88 +66,88 @@ position.<Close><End of Block>
 <TextBlock 16 w:18 h:2>
 Billy
 "Phew..."<Close><End of Block>
-<TextBlock 17 w:46 h:4>
+<TextBlock 17 w:44 h:4>
 Billy
-"...<Delay 30> Looks like a
-deadend. Were you going
+"...<Delay 30>Looks like a dead
+end. Were you going
 to do something?<New>
 I'll try to help in
 any way I can..."<Close><End of Block>
-<TextBlock 18 w:38 h:2>
+<TextBlock 18 w:42 h:2>
 Billy
-"...You haven't..."<Close><End of Block>
-<TextBlock 19 w:48 h:3>
+"...Don't tell me..."<Close><End of Block>
+<TextBlock 19 w:52 h:3>
 Billy
 "You haven't forgotten
-what we needed to do..?"<Close><End of Block>
-<TextBlock 20 w:36 h:3>
+what you needed to do...?"<Close><End of Block>
+<TextBlock 20 w:28 h:3>
 Billy
-"Is this person...<Delay 30>
-okay?"<Close><End of Block>
+"(Is...<Delay 30>this
+person okay?)"<Close><End of Block>
 <TextBlock 21 w:38 h:3>
 Rico
 "What the...?<Delay 30>
 What's this about?"<Close><End of Block>
-<TextBlock 22 w:38 h:2>
+<TextBlock 22 w:42 h:2>
 Rico
-"...You haven't..."<Close><End of Block>
-<TextBlock 23 w:50 h:3>
+"...Don't tell me..."<Close><End of Block>
+<TextBlock 23 w:52 h:3>
 Rico
 "You haven't forgotten
-what we needed to do...?"<Close><End of Block>
-<TextBlock 24 w:30 h:3>
+what you needed to do...?"<Close><End of Block>
+<TextBlock 24 w:26 h:3>
 Rico
-(Are...<Delay 30> are we
-gonna be okay?)<Close><End of Block>
+"(Is...<Delay 30>
+Is he okay?)"<Close><End of Block>
 <TextBlock 25 w:54 h:3>
 Maria
 "...What is this place?<Delay 30>
-You want me to go in more?"<Close><End of Block>
-<TextBlock 26 w:38 h:2>
+Do we go further?"<Close><End of Block>
+<TextBlock 26 w:42 h:2>
 Emeralda
-"...You haven't..."<Close><End of Block>
-<TextBlock 27 w:50 h:3>
+"...Don't tell me..."<Close><End of Block>
+<TextBlock 27 w:52 h:3>
 Emeralda
 "You haven't forgotten
-what we needed to do...?"<Close><End of Block>
-<TextBlock 28 w:30 h:3>
+what you needed to do...?"<Close><End of Block>
+<TextBlock 28 w:22 h:3>
 Emeralda
-(This...<Delay 30> is not
-good.)<Close><End of Block>
-<TextBlock 29 w:34 h:2>
+"(Kinda...<Delay 30>
+worried.)"<Close><End of Block>
+<TextBlock 29 w:36 h:2>
 <Chu-Chu>
-"It's a deadend."<Close><End of Block>
+"It's a dead end."<Close><End of Block>
 <TextBlock 30 w:26 h:2>
 <Chu-Chu>
 "...Oh no..."<Close><End of Block>
-<TextBlock 31 w:42 h:3>
+<TextBlock 31 w:44 h:3>
 <Chu-Chu>
 "Did you forget what
-we needed chu do...?"<Close><End of Block>
-<TextBlock 32 w:52 h:3>
+you needed chu do...?"<Close><End of Block>
+<TextBlock 32 w:42 h:3>
 <Chu-Chu>
-(...<Delay 30> a rather poor memory 
-if I've ever seen one...)<Close><End of Block>
+"(...<Delay 30>What an awfully
+forgetful person.)"<Close><End of Block>
 <TextBlock 33 w:26 h:2>
 Maria
 "Now...<Delay 10>what?"<Close><End of Block>
-<TextBlock 34 w:38 h:2>
+<TextBlock 34 w:42 h:2>
 Maria
-"...You haven't..."<Close><End of Block>
-<TextBlock 35 w:50 h:3>
+"...Don't tell me..."<Close><End of Block>
+<TextBlock 35 w:52 h:3>
 Maria
 "You haven't forgotten
-what we needed to do...?"<Close><End of Block>
-<TextBlock 36 w:44 h:3>
+what you needed to do...?"<Close><End of Block>
+<TextBlock 36 w:46 h:3>
 Maria
-(Uhh...<Delay 30> Not as
-reliable as he looks).<Close><End of Block>
+"(Uhh...<Delay 30> Not as
+reliable as he looks.)"<Close><End of Block>
 <TextBlock 37 w:48 h:2>
 Margie
 "Ya want me to open it?"<Close><End of Block>
-<TextBlock 38 w:44 h:2>
-There's something that
-resembles a panel.<Close><End of Block>
+<TextBlock 38 w:36 h:2>
+There's what looks
+like a panel.<Close><End of Block>
 <TextBlock 39 w:26 h:3>
 Move it?
     Move it
@@ -164,15 +166,15 @@ Bart
 Bart
 "Hey, lay off and
 shut up!"<Close><End of Block>
-<TextBlock 44 w:46 h:3>
+<TextBlock 44 w:44 h:3>
 Bart
-"... It's been a while,
-so don't blame me.<New>
-...<Delay 30> Crap,
-I really forgot."<Close><End of Block>
+"...It's been a while,
+so what do you expect?<New>
+...<Delay 30>Crap,
+I really did forget."<Close><End of Block>
 <TextBlock 45 w:54 h:2>
     NO! I'm gonna remember!
-    ...Please...<Close><End of Block>
+    ...P-Please...<Close><End of Block>
 <TextBlock 46 w:44 h:4>
 Bart
 "Oh yeah!! Hah!<Delay 30>
