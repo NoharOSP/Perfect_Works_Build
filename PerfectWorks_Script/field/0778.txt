@@ -77,9 +77,9 @@ Margie
 "Thanks.
 I know you'll
 do a good job!"<Close><End of Block>
-<TextBlock 15 w:50 h:2>
+<TextBlock 15 w:52 h:2>
 Agnes
-"Be careful Bartholomew."<Close><End of Block>
+"Be careful, Bartholomew."<Close><End of Block>
 <TextBlock 16 w:42 h:3>
 Agnes
 "Marguerite and
@@ -96,18 +96,19 @@ me again."<Close><End of Block>
 Agnes
 "It's not embarrassing.<New>
 Since long ago, the Nisan
-Mother and King of Av
-have always...<Close><End of Block>
+mothers and the kings of
+Av have always<--><Close><End of Block>
 <TextBlock 19 w:40 h:3>
 Margie
 "Hey!<Delay 30>
 Enough about this...<New>
-Hey...!<Delay 30>
+Ah...!<Delay 30>
 Ouch ouch ouch!"<Close><End of Block>
-<TextBlock 20 w:30 h:3>
+<TextBlock 20 w:26 h:4>
 Bart
-"Just sit still
-like I said."<Close><End of Block>
+"That's why I
+said to sit
+still."<Close><End of Block>
 <TextBlock 21 w:34 h:3>
 Margie
 "Ohhhhh!<Delay 30>
@@ -116,10 +117,11 @@ You're a meanie!"<Close><End of Block>
 Sigurd!<Close><End of Block>
 <TextBlock 23 w:14 h:1>
 Got it!<Close><End of Block>
-<TextBlock 24 w:38 h:3>
+<TextBlock 24 w:38 h:4>
 Elly
-"I want to see the
-Gate's true shape."<Close><End of Block>
+"I also want to see
+what the Gate is
+with my own eyes."<Close><End of Block>
 <TextBlock 25 w:36 h:4>
 Elly
 "Let me come too?"
@@ -127,8 +129,8 @@ Elly
     Sorry!<Close><End of Block>
 <TextBlock 26 w:40 h:4>
 Citan
-"Hmm...<Delay 30>
-Actually, I would
+"Hmm...<Delay 30> On second
+thoughts, I would
 also like to see it.<New>
 May I come along?<Delay 30>
 I promise not to get
@@ -140,8 +142,9 @@ Citan
     No way<Close><End of Block>
 <TextBlock 28 w:52 h:3>
 Rico
-"This is Shakhan's last.<New>
-When he kicks the bucket
+"This means the
+end for Shakhan.<New>
+When he kicks the bucket,
 things in Kislev and Av
 should calm down a little.<New>
 Everything'll be normal."<Close><End of Block>
@@ -156,14 +159,15 @@ Billy
 managing two of
 the three Gates!"<Close><End of Block>
 <TextBlock 31 w:34 h:4>
-"Will you take me
-along too?"
+Billy
+"Take me along too?"
     Alright!
     Sorry, but...<Close><End of Block>
-<TextBlock 32 w:50 h:3>
+<TextBlock 32 w:42 h:4>
 Maria
-"Soon we'll be certain
-of the Gate's true form."<Close><End of Block>
+"At last we'll
+determine the nature
+of these Gates."<Close><End of Block>
 <TextBlock 33 w:48 h:4>
 Maria
 "Do you want to change?"
@@ -171,12 +175,12 @@ Maria
     That's okay<Close><End of Block>
 <TextBlock 34 w:50 h:4>
 <Chu-Chu>
-"<Chu-Chu> is raring chu 
+"<Chu-Chu> is raring chu
 go like a big bonfire!<New>
 Fei, I'll protect chu
-anywhere, in the heart
-of a fire or under the
-sea chu!"<Close><End of Block>
+anywhere <--> in the heart
+of a fire or even under
+the sea!"<Close><End of Block>
 <TextBlock 35 w:42 h:4>
 <Chu-Chu>
 "So I wanna go chu!"
@@ -693,106 +697,111 @@ Bart
 I'll be waiting here,
 so let me know when you
 are through preparing."<Close><End of Block>
-<TextBlock 126 w:44 h:4>
+<TextBlock 126 w:46 h:4>
 Bart
-"No activites for you.<Delay 30>
-You'll have to settle
-down for a while."<Close><End of Block>
-<TextBlock 127 w:36 h:3>
+"Rest up for a while.<Delay 30>
+Just gotta do as you're
+told sometimes."<Close><End of Block>
+<TextBlock 127 w:34 h:3>
 Margie
-"What do you mean,
-once in awhile?"<Close><End of Block>
-<TextBlock 128 w:44 h:3>
+"What do you mean
+'sometimes'!?"<Close><End of Block>
+<TextBlock 128 w:34 h:4>
 Bart
-"Don't get so excited.<Delay 30>
+"As I said, don't
+get so excited.<Delay 30>
 Ha ha ha ha!"<Close><End of Block>
 <TextBlock 129 w:18 h:2>
 Margie
 "Meanie!"<Close><End of Block>
 <TextBlock 130 w:48 h:2>
 Sigurd
-"...<Delay 30>Alright.<New>
+"...<Delay 30>Alright, I see.<New>
 Please tell Maison we'll
 be here a while longer."<Close><End of Block>
 <TextBlock 131 w:50 h:4>
 Sigurd
 "We've heard from our
 units in Breidablik.<New>
-Things are unfolding
-smoothly.
-They have entered the
-castle.<New>
+Things are progressing
+smoothly there. They have
+entered Fatima Castle.<New>
 They are investigating
 Shakhan's private room
 on the top floor of the
 castle.<New>
-One more thing, <Delay 30>Yggdrasil
-is on station nearby and
-has picked up several
-Gears on radar."<Close><End of Block>
+One more thing:<Delay 30> the
+Yggdrasil is stationed
+nearby and has picked up
+several Gears on radar."<Close><End of Block>
 <TextBlock 132 w:20 h:2>
 Bart
 "Shakhan!"<Close><End of Block>
 <TextBlock 133 w:50 h:3>
 Sigurd
-"Most certainly.<New>
-But those Gears went to
-the capital then turned
+"Undoubtedly.<New>
+But it seems those Gears
+got as far as the Capital
+outskirts, then turned
 and came back toward us."<Close><End of Block>
 <TextBlock 134 w:44 h:4>
 Fei
 "He saw things weren't
 looking too good and
 ran away."<Close><End of Block>
-<TextBlock 135 w:46 h:4>
+<TextBlock 135 w:42 h:4>
 Bart
-"Yeah.<Delay 30>
-But it sounds like he's
-coming back here."<Close><End of Block>
-<TextBlock 136 w:34 h:2>
+"Yeah.<Delay 30> But it bothers
+me that he's coming
+back this way."<Close><End of Block>
+<TextBlock 136 w:26 h:3>
 Fei
-"What's here...?"<Close><End of Block>
+"What could
+be here...?"<Close><End of Block>
 <TextBlock 137 w:40 h:4>
 Sigurd
 "About that,<Delay 30>
-the info from the
-capital...<New>
-Isn't there a 'Gate'
-in the area?"<Close><End of Block>
+going by info from
+the Capital...<New>
+There may be a Gate
+in this vicinity."<Close><End of Block>
 <TextBlock 138 w:22 h:2>
 Fei
-"A 'Gate'?"<Close><End of Block>
+"A Gate!?"<Close><End of Block>
 <TextBlock 139 w:16 h:2>
 Citan
 "Where?"<Close><End of Block>
 <TextBlock 140 w:50 h:2>
 Sigurd
 "Directly west of Nisan."<Close><End of Block>
-<TextBlock 141 w:52 h:3>
+<TextBlock 141 w:44 h:4>
 Sigurd
-"Young Master, do you know
-the big cave over there?"<Close><End of Block>
-<TextBlock 142 w:50 h:4>
+"Young Master, do you
+know of the big cave
+around there?"<Close><End of Block>
+<TextBlock 142 w:46 h:3>
 Bart
-"Cave...<Delay 30>
-On the western continent?
+"Cave...<New>
+Yeah, on the western
+side of the continent?
 It's near the ocean.<New>
-If I remember it's big
-enough for a Gear to walk
-into."<Close><End of Block>
-<TextBlock 143 w:54 h:3>
+If I remember right,
+it's big enough for
+a Gear to walk into."<Close><End of Block>
+<TextBlock 143 w:46 h:4>
 Sigurd
 "Yes, there.<New>
-They found evidence that
-there is some large
-building inside that cave."<Close><End of Block>
-<TextBlock 144 w:46 h:3>
+From previous reports,
+evidence was found of
+some immense structure
+inside that cave."<Close><End of Block>
+<TextBlock 144 w:38 h:3>
 Fei
-"Shakhan is heading for
-there..."<Close><End of Block>
+"Shakhan is headed
+there...?"<Close><End of Block>
 <TextBlock 145 w:36 h:2>
 Fei
-"What's he doing?"<Close><End of Block>
+"What's he up to?"<Close><End of Block>
 <TextBlock 146 w:38 h:3>
 Bart
 "I guess we'll have
@@ -803,19 +812,21 @@ Fei
 <TextBlock 148 w:46 h:3>
 Sigurd
 "I'll wait here for
-info from the capital."<Close><End of Block>
+info from the Capital."<Close><End of Block>
 <TextBlock 149 w:54 h:4>
 Citan
 "A Gate!<New>
-Of course I would like to
-actually see it...<Delay 30>but this
-time I will pass.<New>
-There are two more left...
+While I think I would
+like to see it with my
+own eyes...<Delay 30>this time I
+will decline.<New>
+There are still
+two remaining...
 And besides...<New>
 Just in case things do not
 go well, it might be better
 if we stay here and protect
-Marguerite."<Close><End of Block>
+Marguerite and the others."<Close><End of Block>
 <TextBlock 150 w:50 h:3>
 Bart
 "Got it.<Delay 30>

@@ -7,7 +7,7 @@ in Shevat!?"<Close><End of Block>
 <TextBlock 2 w:46 h:3>
 Elly
 "??<Delay 30>
-Something's not right."<Close><End of Block>
+Something looks weird."<Close><End of Block>
 <TextBlock 3 w:42 h:3>
 Elly
 "It's falling apart.<Delay 30>
@@ -17,10 +17,10 @@ Citan
 "Could this be the barrier
 generator we heard about
 in Shevat!?"<Close><End of Block>
-<TextBlock 5 w:46 h:3>
+<TextBlock 5 w:28 h:3>
 Citan
-"Something is not quite
-right."<Close><End of Block>
+"That looks a
+little odd."<Close><End of Block>
 <TextBlock 6 w:48 h:3>
 Citan
 "It is collapsing.<Delay 30>
@@ -31,10 +31,10 @@ Billy
 the machine that makes
 the barrier we heard<New>
 about in Shevat!?"<Close><End of Block>
-<TextBlock 8 w:38 h:3>
+<TextBlock 8 w:26 h:3>
 Billy
-"Don't you think
-something's wrong?"<Close><End of Block>
+"Doesn't that
+look odd?"<Close><End of Block>
 <TextBlock 9 w:36 h:3>
 Billy
 "It's coming down.<Delay 30>
@@ -55,7 +55,7 @@ We better bail out
 now!!"<Close><End of Block>
 <TextBlock 13 w:56 h:4>
 <Chu-Chu>
-"Isn't that the whachama-
+"Isn't that the whachuma-
 callit machine the people in
 Shevat were talking about!?"<Close><End of Block>
 <TextBlock 14 w:42 h:2>
@@ -66,8 +66,8 @@ Shevat were talking about!?"<Close><End of Block>
 "We have chu run!!"<Close><End of Block>
 <TextBlock 16 w:44 h:3>
 Emeralda
-"This...Isn't this the
-gate?"<Close><End of Block>
+"This... Isn't this
+the Gate?"<Close><End of Block>
 <TextBlock 17 w:42 h:2>
 Emeralda
 "Something...<Delay 30> wrong?"<Close><End of Block>
@@ -83,26 +83,27 @@ about!?"<Close><End of Block>
 <TextBlock 20 w:10 h:2>
 Maria
 "???"<Close><End of Block>
-<TextBlock 21 w:54 h:4>
+<TextBlock 21 w:48 h:4>
 Shakhan
-"This can't be!?
-This is ridiculous!?<New>
-It should be able to pull
-an adequate amount of
-energy from the gate!<New>
-There shouldn't have been
-any problems in the design.
-Why!?
-Why doesn't it move?"<Close><End of Block>
-<TextBlock 22 w:22 h:2>
+"Stupid thing!<Delay 20>
+Seriously!?<New>
+This special Gear can
+exceed standard output
+using the Gate's energy!<New>
+There shouldn't be any
+problems in the design.
+So why!?
+Why doesn't it move!?"<Close><End of Block>
+<TextBlock 22 w:20 h:3>
 Shakhan
-"Wha, <Delay 7>Who!"<Close><End of Block>
+"Wh-<Delay 7>Who's
+there!?"<Close><End of Block>
 <TextBlock 23 w:46 h:3>
 Shakhan
 "Power?
 What kind of power!?<New>
 I have the power of the
-gate! As long as I get
+Gate! If I can only get
 this machine to move!!"<Close><End of Block>
 <TextBlock 24 w:42 h:3>
 Shakhan
@@ -128,33 +129,33 @@ Mother of Destruction!"<Close><End of Block>
 <TextBlock 29 w:46 h:4>
 Grahf
 "I am Grahf, the seeker
-of power.<Delay 32> Doth
+of power.<Delay 32> Dost
 thou desire the power?"<Close><End of Block>
 <TextBlock 30 w:48 h:4>
 Grahf
-"Your powers are merely
-superficial. The tools
-in which you produced<New>
-with your immature
-intellect... Now, do you
-think you can win?"<Close><End of Block>
-<TextBlock 31 w:50 h:4>
+"In the end, that is
+superficial power.<New>
+A tool wrought with
+inadequate wisdom...
+Do you really think
+you can win with that?"<Close><End of Block>
+<TextBlock 31 w:46 h:3>
 Grahf
 "The meager efforts of
-you land dwellers are
-insignificant next to the<New>
-true and only power."<Close><End of Block>
-<TextBlock 32 w:46 h:3>
+you land dwellers are<New>
+insignificant next to
+true power."<Close><End of Block>
+<TextBlock 32 w:42 h:3>
 Grahf
-"I shall endow you with
-my true powers!"<Close><End of Block>
-<TextBlock 33 w:34 h:3>
+"I shall endow you
+with my true power!"<Close><End of Block>
+<TextBlock 33 w:38 h:3>
 Fei
-"This is...<Delay 30> the
-gate generator!?"<Close><End of Block>
+"Whoa...<Delay 30>
+A Gate generator!?"<Close><End of Block>
 <TextBlock 34 w:46 h:3>
 Bart
-"Punk...<Delay 30><New>
+"That punk...<New>
 Not only was he sitting
 on the Av throne, he
 also controlled this."<Close><End of Block>
@@ -165,43 +166,44 @@ Shakhan
 Shakhan
 "To think you knew about
 the existence of the
-gate...very interesting."<Close><End of Block>
+Gate... How interesting."<Close><End of Block>
 <TextBlock 37 w:54 h:4>
 Shakhan
-"The gate which divided
-Solaris from the earth was
-under the supervision of...<New>
-the Church of the Ethos."<Close><End of Block>
-<TextBlock 38 w:54 h:4>
+"The Gate which separates
+Solaris from the surface
+was managed by the Church."<Close><End of Block>
+<TextBlock 38 w:50 h:4>
 Shakhan
-"In the beginning, it was
-supervised without any true
-knowledge of what it did.<New>
+"At first, we just
+supervised without really
+knowing what it did.<New>
 However, over the years,
-the Church of the Ethos 
-did their own experiments 
-to reveal its true nature."<Close><End of Block>
-<TextBlock 39 w:48 h:3>
+our Church did its own
+experiments to uncover
+its purpose."<Close><End of Block>
+<TextBlock 39 w:40 h:3>
 Shakhan
-"They learned how to use
-it."<Close><End of Block>
-<TextBlock 40 w:46 h:4>
+"Methods for its use
+were developed.<New>
+As an aid to gaining
+our independence
+from Solaris."<Close><End of Block>
+<TextBlock 40 w:32 h:3>
 Shakhan
-"For the sake of
-freeing ourselves from
-Solaris, we discovered<New>
-a new way of using it!"<Close><End of Block>
-<TextBlock 41 w:44 h:4>
+"Behold one such
+way to use it!"<Close><End of Block>
+<TextBlock 41 w:34 h:4>
 Bart
 "You!<Delay 30>
-This was your original
-intention."<Close><End of Block>
-<TextBlock 42 w:50 h:3>
+This was your
+plan all along!"<Close><End of Block>
+<TextBlock 42 w:46 h:3>
 Fei
-"He probably entered
-through this cavern!<New>
-He just wanted the energy
-from the gate generator!"<Close><End of Block>
+"He didn't come to this
+cavern to escape!<New>
+He wanted the Gate
+generator's energy
+from the start!"<Close><End of Block>
 <TextBlock 43 w:50 h:4>
 Shakhan
 "This can't be!?<New>
@@ -219,33 +221,36 @@ Why?"<Close><End of Block>
 <TextBlock 45 w:44 h:2>
 Shakhan
 "Why doesn't it move?"<Close><End of Block>
-<TextBlock 46 w:54 h:3>
+<TextBlock 46 w:48 h:3>
 Bart
 "What, did you mess up?<New>
-If my father knew I was set
-up by a jerk like this, 
-he'd turn in his grave."<Close><End of Block>
+Jeez, if my father knew
+he'd been screwed over
+by such a buffoon, he'd
+turn in his grave."<Close><End of Block>
 <TextBlock 47 w:54 h:2>
 Shakhan
-"I didn't need this anyway!<New>
+"I don't need this anyway!<New>
 I'll take you myself!"<Close><End of Block>
 <TextBlock 48 w:30 h:3>
 Shakhan
-"How...<Delay 30>
+"Ridiculous!<Delay 30>
 This can't be!"<Close><End of Block>
-<TextBlock 49 w:54 h:4>
+<TextBlock 49 w:52 h:4>
 Bart
 "Shakhan!!<New>
-12 years ago, if you
-weren't so hungry for
-power, Margie would
-still have her family...<New>
-...and wouldn't have had
-to live out in the desert!"<Close><End of Block>
+If you hadn't been so
+damn greedy twelve years
+ago, Margie would still
+have her family...<New>
+and I wouldn't have had to
+live in the harsh desert,
+stealing from my own
+country just to survive!"<Close><End of Block>
 <TextBlock 50 w:50 h:3>
 Shakhan
-"What would you know, you
-throne born brat!?"<Close><End of Block>
+"What would you know,
+you throne-born brat!?"<Close><End of Block>
 <TextBlock 51 w:50 h:4>
 Bart
 "Throne? You can have it!<New>
@@ -260,9 +265,9 @@ Shakhan
 "Uwwaaaaaaaahhh!!"<Close><End of Block>
 <TextBlock 53 w:48 h:2>
 Fei
-"The gate's on fire...!"<Close><End of Block>
+"The Gate's on fire...!"<Close><End of Block>
 <TextBlock 54 w:66 h:1>
-     Do you <Delay 16>not desire the power?<Opcode 2 84><Close><End of Block>
+     Dost thou<Delay 16> desire the power?<Opcode 2 84><Close><End of Block>
 <TextBlock 55 w:26 h:2>
 Bart
 "Him again!?"<Close><End of Block>

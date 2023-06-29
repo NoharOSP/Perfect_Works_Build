@@ -1,28 +1,28 @@
 <TextBlock 1 w:44 h:3>
 Bart
-"Fei, if anything 
-happens, I'm your 
-friend right?"<Close><End of Block>
-<TextBlock 2 w:48 h:4>
+"Fei, no matter who I
+am, you're my friend."<Close><End of Block>
+<TextBlock 2 w:38 h:4>
 Bart
-"Sig...you won't change 
-no matter what I do, 
-will you?"<Close><End of Block>
+"Sig... Whatever I
+do, things between
+us won't change?"<Close><End of Block>
 <TextBlock 3 w:40 h:3>
 Maison
 "What is the matter,
 Young Master...?"<Close><End of Block>
-<TextBlock 4 w:48 h:3>
+<TextBlock 4 w:42 h:4>
 Bart
-"Nah...I guess I have to
+"It's nothing...<Delay 10>
+I guess I have to
 do what I was asked."<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Bart
 "My good people of Av...<New>
-This is Bartholomew Fatima
-the 19th king of Av,
-son of Edbart Fatima IV
-the 18th king of Av.<New>
+This is Bartholomew Fatima,
+the nineteenth King of Av,
+son of Edbart Fatima IV,
+the eighteenth King of Av.<New>
 First, one must apologize
 for the trouble caused by
 one's unavoidably lengthy
@@ -33,30 +33,30 @@ those who lost family in
 the war with Kislev.<New>
 One will immediately call a
 truce with Kislev and begin
-reparations to victims of
-both countries.<New>
+reparations for the victims
+in both countries.<New>
 All citizens drafted as
 soldiers will also be
 allowed to return home.<New>
 Let us work together
 towards the rebuilding
 of Av!"<Close><End of Block>
-<TextBlock 6 w:44 h:4>
+<TextBlock 6 w:48 h:4>
 Bart
 "...One also has
 another final but
 important message...<New>
 A declaration from the
-will of Edbart IV who
+will of Edbart IV, who
 wished only for peace
 for his kingdom, Av.<New>
-I Bartholomew Fatima, 
-the 19th King of Av,
-do hearby declare...<New>
-from this day forward
-I shall abandon the
-monarchy and create
-the Republic of Av!"<Close><End of Block>
+I, Bartholomew Fatima,
+nineteenth King of Av,
+do hereby declare...<New>
+from this day forward,
+the monarchy is
+abolished and all of
+Av shall be a republic!"<Close><End of Block>
 <TextBlock 7 w:34 h:2>
 Sigurd
 "Young Master..."<Close><End of Block>
@@ -80,7 +80,7 @@ Maison
 "What are you saying...?"<Close><End of Block>
 <TextBlock 11 w:30 h:2>
 Sigurd
-"Unbelievable."<Close><End of Block>
+"It won't do."<Close><End of Block>
 <TextBlock 12 w:32 h:2>
 Maison
 "Master Sigurd?"<Close><End of Block>
@@ -98,10 +98,10 @@ Bart
 Sigurd
 "Won't you need some
 capable assistance?"<Close><End of Block>
-<TextBlock 16 w:36 h:3>
+<TextBlock 16 w:38 h:3>
 Bart
-"Well...here goes 
-nothing."<Close><End of Block>
+"Indeed...<Delay 20> Consider
+yourselves hired."<Close><End of Block>
 <TextBlock 17 w:2 h:1>
 !<Opcode 2 30><Close><End of Block>
 <TextBlock 18 w:2 h:1>

@@ -1,8 +1,8 @@
 <TextBlock 1 w:36 h:4>
 Maison
-"Oh, Young Master!
-You still haven't
-rested yet?" <Close><End of Block>
+"Oh, Young Master.
+You have not
+retired yet?" <Close><End of Block>
 <TextBlock 2 w:42 h:4>
 Bart
 "Old Maison, there is
@@ -16,38 +16,39 @@ Bart
 "Where was Sigurd born?"<Close><End of Block>
 <TextBlock 5 w:46 h:2>
 Maison
-"Young Master, that..."<Close><End of Block>
+"Young Master, that is<-->"<Close><End of Block>
 <TextBlock 6 w:48 h:3>
 Bart
 "He has blue eyes...
-it's the Fatima Jasper."<Close><End of Block>
-<TextBlock 7 w:48 h:4>
+It's the Fatima Jasper."<Close><End of Block>
+<TextBlock 7 w:52 h:4>
 Maison
-"...Well...<Delay 50>
-It was long ago.<New>
-His Majesty was in
-love with a girl
-named Shalimar from
-the Norn province,<New>
-in east Av. The
-people of Norn were
-quite different from
-Av and Kislev,<New>
-but she was very
-beautiful. Then...
-she just disappeared.<New>
-Later there were
-rumors of her
-having a child."<Close><End of Block>
+"...Well...<Delay 50> It was long
+ago. When His Majesty and
+I were still young...<New>
+Long before His Majesty
+knew your mother,<Delay 10> he was
+in love with another.<New>
+A girl named Shalimar
+from the Norn province,
+in east Av.<New>
+The people of Norn were
+quite different from those
+of Av and Kislev, but
+she was very beautiful.<New>
+One day, she suddenly 
+disappeared, although
+later there were rumors
+of her having a child."<Close><End of Block>
 <TextBlock 8 w:48 h:3>
 Bart
 "She disappeared?
-Did father abandon her?"<Close><End of Block>
+Did Father abandon her?"<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 Maison
 "As far as I know, it was
 the opposite. His Majesty
-was abandoned."<Close><End of Block>
+was the one abandoned."<Close><End of Block>
 <TextBlock 10 w:38 h:3>
 Bart
 "Sig is from Av's
@@ -55,7 +56,7 @@ eastern desert..."<Close><End of Block>
 <TextBlock 11 w:54 h:4>
 Maison
 "Indeed. When he was 10, he
-was assigned to his Majesty
+was assigned to His Majesty
 King Edbart, as a squire."<Close><End of Block>
 <TextBlock 12 w:48 h:3>
 Oh my, Major Vanderkaum!

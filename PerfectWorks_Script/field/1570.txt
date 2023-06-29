@@ -15,7 +15,7 @@ not in Jasper.
 Please report this bug.<Close><End of Block>
 <TextBlock 4 w:46 h:2>
 Fei
-"Don't try and fool me!<New>
+"Don't try to fool me!<New>
 What the heck did you
 just do?"<Close><End of Block>
 <TextBlock 5 w:34 h:3>
@@ -100,14 +100,14 @@ Emeralda
 "..."<Close><End of Block>
 <TextBlock 22 w:42 h:3>
 Emeralda
-"(Hmm...Something
+"(Hmm...something
 doesn't feel right.)"<Close><End of Block>
 <TextBlock 23 w:10 h:2>
 Maria
 "..."<Close><End of Block>
 <TextBlock 24 w:42 h:3>
 Maria
-"(Hmm...Something
+"(Hmm...something
 doesn't feel right.)"<Close><End of Block>
 <TextBlock 25 w:24 h:1>
 Bartholomew!<Close><End of Block>

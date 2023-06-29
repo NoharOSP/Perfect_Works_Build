@@ -1,15 +1,15 @@
-<TextBlock 1 w:52 h:4>
+<TextBlock 1 w:40 h:4>
 Elly
-"I wonder if we'd come
-first if we'd have stepped
-on it?"<Close><End of Block>
+"I wonder if they
+knew from the start
+that we'd come?"<Close><End of Block>
 <TextBlock 2 w:42 h:2>
 Citan
 "Could it be a trap?"<Close><End of Block>
-<TextBlock 3 w:48 h:3>
+<TextBlock 3 w:32 h:3>
 Billy
-"Maybe they're trying to
-bait us."<Close><End of Block>
+"Perhaps they're
+baiting us."<Close><End of Block>
 <TextBlock 4 w:52 h:3>
 Rico
 "I don't know, but it
@@ -32,15 +32,16 @@ last time."<Close><End of Block>
 <TextBlock 9 w:46 h:3>
 Fei
 "They're survivors from
-the last battle!"<Close><End of Block>
+the battle earlier!"<Close><End of Block>
 <TextBlock 10 w:44 h:4>
 Fei
-"Those guys, it seemed
-like they were waiting
+"It seemed like those
+guys had been waiting
 for us."<Close><End of Block>
-<TextBlock 11 w:48 h:4>
+<TextBlock 11 w:38 h:3>
 Bart
-"Regardless, we gotta go
-on! It's going to be an
-eternal embarrassment if<New>
-we let'em get away!"<Close><Close><End of Block>
+"Regardless, we
+gotta go on!<New>
+It'd be an eternal
+embarrassment if we
+let 'em get away!"<Close><Close><End of Block>

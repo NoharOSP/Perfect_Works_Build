@@ -4,18 +4,19 @@ Sigurd
 <TextBlock 2 w:44 h:2>
 Bart
 "Yeah, I can't sleep."<Close><End of Block>
-<TextBlock 3 w:36 h:3>
+<TextBlock 3 w:34 h:4>
 Sigurd
 "Yes, so much has
-happened at once."<Close><End of Block>
-<TextBlock 4 w:38 h:3>
+happened all at
+once."<Close><End of Block>
+<TextBlock 4 w:40 h:3>
 Bart
-"Hey Sig...<Delay 60>what was
+"Hey, Sig...<Delay 60>what was
 your mother like?"<Close><End of Block>
 <TextBlock 5 w:46 h:3>
 Sigurd
 "...She died when I was
-but a child, <Delay 30> why?"<Close><End of Block>
+but a child.<Delay 30> Why?"<Close><End of Block>
 <TextBlock 6 w:38 h:3>
 Bart
 "Do you have any
@@ -25,17 +26,18 @@ was she?"<Close><End of Block>
 <TextBlock 7 w:48 h:4>
 Sigurd
 "Hmmm, well...<Delay 30>
-she was very kind...<New>
-but when I was born it
-seems the doctor told
-her she did not have
-long to live.<New>
-She lived in constant
-fear of that.<New>
-As a result, even if she
-met someone she liked,
-her fear of death was
-her drawback.<New>
+She was very kind...<New>
+But at her birth,
+apparently the doctors
+said she would not
+live a long life.<New>
+She went on to live in
+constant fear of that.<Delay 20>
+As a result, even when
+she got close to others,<New>
+her fear of death, of
+separation, seemed to
+hold her back.<New>
 She worried that she
 could not be with me
 to the very end..."<Close><End of Block>
@@ -44,39 +46,39 @@ Bart
 "What about your father?"<Close><End of Block>
 <TextBlock 9 w:46 h:3>
 Sigurd
-"He isn't supposed to
+"He wasn't supposed to
 know that I was born.<New>
-However, even for not
-knowing he still
-treated me like a son."<Close><End of Block>
+But despite not knowing
+it he treated me like a
+real son."<Close><End of Block>
 <TextBlock 10 w:44 h:3>
 Bart
 "Why didn't you tell
 him you were his son?"<Close><End of Block>
-<TextBlock 11 w:44 h:4>
+<TextBlock 11 w:42 h:4>
 Sigurd
-"If my mother hid that
-fact, there had to be
-a reason."<Close><End of Block>
+"Given that my
+mother herself
+wanted to hide it,<New>
+she would have wanted
+me to do the same."<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Bart
 "There is more to my
 father's will than what
 I declared today.<New>
-I must share my
-inheritance with
-my brother.<New>
-He also said...
-'You must split you
-and your brother's
-share with the people.'"<Close><End of Block>
+'Share your inheritance
+with your brother,' he
+said.<New>
+'Both of you, share
+your inheritance
+with the people.'"<Close><End of Block>
 <TextBlock 13 w:2 h:1>
 !<Opcode 2 30><Close><End of Block>
-<TextBlock 14 w:50 h:4>
+<TextBlock 14 w:46 h:4>
 Bart
-"That had always bugged
-me up until now. I didn't
-know what he meant.<New>
+"That has bugged me for
+the longest time.<New>
 That's all I wanted to
 say...<Delay 60>
 Good night!"<Close><End of Block>

@@ -1,2 +1,2 @@
 <TextBlock 1 w:30 h:1>
-"A<Delay 5><...><Delay 5><...><Delay 5>portrait?"<Close><Close><End of Block>
+"A<Delay 5>...<Delay 5>portrait?"<Close><Close><End of Block>
