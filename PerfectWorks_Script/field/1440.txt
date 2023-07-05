@@ -2,10 +2,10 @@
 Fei
 "Is it going to
 be okay, Doc...?"<Close><End of Block>
-<TextBlock 2 w:38 h:3>
+<TextBlock 2 w:22 h:3>
 Fei
-"Alright! 
-Let's do our part."<Close><End of Block>
+"Alright!
+Let's go."<Close><End of Block>
 <TextBlock 3 w:28 h:4>
 Fei
 "Looks like
@@ -14,22 +14,24 @@ are active."<Close><End of Block>
 <TextBlock 4 w:24 h:2>
 Fei
 "What the!?"<Close><End of Block>
-<TextBlock 5 w:56 h:3>
+<TextBlock 5 w:42 h:4>
 Citan
-"I will control the mirror,<Delay 30> 
-you hold off the enemy."<Close><End of Block>
-<TextBlock 6 w:32 h:2>
+"I will control the
+mirror,<Delay 30> so you two
+please stand guard."<Close><End of Block>
+<TextBlock 6 w:36 h:2>
 Citan
-"We must do it."<Close><End of Block>
+"We must succeed."<Close><End of Block>
 <TextBlock 7 w:46 h:2>
 Citan
 "I am counting on you."<Close><End of Block>
-<TextBlock 8 w:38 h:3>
+<TextBlock 8 w:36 h:3>
 Citan
-"Billy...Billy... 
-do you read? <New>
-We are ready here. 
-Commence firing."<Close><End of Block>
+"Billy? Billy,
+do you read?<New>
+We are ready here.
+Commence the
+operation."<Close><End of Block>
 <TextBlock 9 w:14 h:2>
 Citan
 "Whoa!"<Opcode 2 30><Close><End of Block>
@@ -47,19 +49,20 @@ Citan
 Too late..."<Close><End of Block>
 <TextBlock 13 w:20 h:2>
 Citan
-"Whoa!..."<Close><End of Block>
-<TextBlock 14 w:44 h:4>
+"Whoa...!"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
 Citan
-"Whew...
-That was close.<Delay 40> We did
-not get a direct hit."<Close><End of Block>
-<TextBlock 15 w:42 h:3>
+"Whew... That was close.<Delay 40>
+It seems we did not get
+a direct hit."<Close><End of Block>
+<TextBlock 15 w:40 h:4>
 Citan
 "Billy,<Delay 30> we cannot
-hold out much longer.<New>
-If you miss this one,
-it is over.
-Aim well."<Close><End of Block>
+hold out much longer
+here.<New>
+If you miss the next
+one, it is over.
+Please aim true."<Close><End of Block>
 <TextBlock 16 w:46 h:3>
 Citan
 "...Only one shot left,<Delay 30>
@@ -80,10 +83,11 @@ hold out much longer.<New>
 If you miss this one,
 it's over. 
 Aim well."<Close><End of Block>
-<TextBlock 20 w:42 h:3>
+<TextBlock 20 w:42 h:4>
 Citan
 "Billy, you did it...<Delay 40>
-The plan succeeded!"<Close><End of Block>
+The operation is a
+success!"<Close><End of Block>
 <TextBlock 21 w:16 h:2>
 Citan
 "Here!!"<Opcode 2 10><Close><End of Block>

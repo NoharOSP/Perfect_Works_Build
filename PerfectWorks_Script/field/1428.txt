@@ -28,10 +28,10 @@ to fight..."<Close><End of Block>
 <TextBlock 8 w:26 h:2>
 Fei
 "Here we go!"<Close><End of Block>
-<TextBlock 9 w:38 h:3>
+<TextBlock 9 w:32 h:3>
 Fei
-"Doc,
-what should we do?"<Close><End of Block>
+"So, Doc, about
+this mirror..."<Close><End of Block>
 <TextBlock 10 w:34 h:4>
 Elly
 "Despite removing
@@ -55,18 +55,19 @@ Let's go check it out."<Close><End of Block>
 <TextBlock 14 w:20 h:2>
 Citan
 "Look up."<Close><End of Block>
-<TextBlock 15 w:48 h:3>
+<TextBlock 15 w:42 h:4>
 Citan
-"That is a reflection 
-mirror.<New>
-The Ft. Jasper beam will
-be reflected off that
-and destroy the gate."<Close><End of Block>
-<TextBlock 16 w:52 h:4>
+"That is the
+reflection mirror.<New>
+The beam from Fort
+Jasper will be
+reflected off that
+to destroy the Gate."<Close><End of Block>
+<TextBlock 16 w:50 h:4>
 Citan
 "Let us hurry to the
-control room while our
-pursuers are still gone." <Close><End of Block>
+mirror control room while
+the coast is clear." <Close><End of Block>
 <TextBlock 17 w:38 h:3>
 Myyah
 "You've no chance,

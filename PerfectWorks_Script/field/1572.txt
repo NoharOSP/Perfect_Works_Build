@@ -61,19 +61,20 @@ Maria
 Maria
 "Isn't it because you
 were controlling it?"<Close><End of Block>
-<TextBlock 18 w:54 h:4>
+<TextBlock 18 w:54 h:3>
 Throne
-"Alright already.<New>
-So you were serious!?
-You're really gonna reflect
-a big laser off a mirror...
-Pretty stupid."<Close><End of Block>
-<TextBlock 19 w:50 h:2>
+"Alright, I heard you!<New>
+Sheesh, so they really mean
+to reflect a big laser off
+a mirror...<Delay 10> Pretty stupid."<Close><End of Block>
+<TextBlock 19 w:48 h:4>
 Throne
-"Angling it...?<New>
-...for the drop ratio?<New>
-Drop ratio in the
-atmosphere will be huge."<Close><End of Block>
+"Repetition<Delay 10>...<Delay 10>?
+Eh...I think you mean
+the attenuation rate...?<New>
+Yes, within the
+atmosphere that's going
+to be pretty high."<Close><End of Block>
 <TextBlock 20 w:48 h:3>
 Throne
 "...Don't you even say a
@@ -86,94 +87,107 @@ Throne
 "Hmmph,<Delay 30> I can't believe
 you'd even think of such a
 stupid plan."<Close><End of Block>
-<TextBlock 22 w:54 h:3>
+<TextBlock 22 w:52 h:3>
 Throne
-"Keep talking while you
-can.<New>
-Dominia and Cherubina 
-should have taken over 
-Babel Tower by now.<New>
-You get outta here now!"<Close><End of Block>
-<TextBlock 23 w:48 h:3>
+"Talk big while
+you still can.<New>
+Dominia and Cherubina
+should be settling things
+over at Babel Tower around
+about now.<New>
+You guys had better just
+go straight back to where
+you belong, too!"<Close><End of Block>
+<TextBlock 23 w:46 h:2>
 Seraphita
-"Throne, Throne!!
-Oh, oh, there you are!!"<Close><End of Block>
-<TextBlock 24 w:52 h:3>
+"Throne, Throne!!<New>
+I was right, there they
+are, there they are!!"<Close><End of Block>
+<TextBlock 24 w:50 h:4>
 Seraphita
-"Inverted pull-ups are
-really tough!!!<New>
-But, I can do 300 pull-ups
-you know."<Close><End of Block>
+"The repetition rate is
+immense, so that'll be
+tough!!!<New>
+By the way, speaking of
+repetitions, I can do 300
+pull-ups now!"<Close><End of Block>
 <TextBlock 25 w:46 h:3>
 Seraphita
 "Oh yeah, yeah!
 That's it! I remember!<New>
 It's tofu soup,<Delay 30> right?"<Close><End of Block>
-<TextBlock 26 w:42 h:2>
+<TextBlock 26 w:30 h:2>
 Seraphita
-"Who'd have thought?"<Close><End of Block>
-<TextBlock 27 w:22 h:2>
+"...SO stupid!"<Close><End of Block>
+<TextBlock 27 w:30 h:2>
 Seraphita
-"...Good!!"<Close><End of Block>
-<TextBlock 28 w:38 h:2>
+"...Yeah,
+you'd better!!"<Close><End of Block>
+<TextBlock 28 w:40 h:2>
 Bart
-"Now Billy, shoot!"<Close><End of Block>
-<TextBlock 29 w:38 h:2>
+"Now, Billy, shoot!"<Close><End of Block>
+<TextBlock 29 w:40 h:2>
 Rico
-"Now Billy, shoot!"<Close><End of Block>
-<TextBlock 30 w:38 h:2>
+"Now, Billy, shoot!"<Close><End of Block>
+<TextBlock 30 w:30 h:2>
 <Chu-Chu>
-"Billy, shoot now!"<Close><End of Block>
-<TextBlock 31 w:44 h:2>
+"Billy, shoot!"<Close><End of Block>
+<TextBlock 31 w:40 h:2>
 Maria
-"Now Billy, shoot it!"<Close><End of Block>
-<TextBlock 32 w:52 h:3>
+"Now, Billy, shoot!"<Close><End of Block>
+<TextBlock 32 w:44 h:4>
 Bart
-"Hey! <Delay 30>
-Never know until you try."<Close><End of Block>
-<TextBlock 33 w:46 h:3>
+"Heh!<Delay 30> You don't know
+if you don't try with
+these things."<Close><End of Block>
+<TextBlock 33 w:42 h:4>
 Rico
-"We'll find out if it's
-dumb or not right now."<Close><End of Block>
-<TextBlock 34 w:38 h:3>
+"We'll find out soon
+enough whether it's
+stupid or not."<Close><End of Block>
+<TextBlock 34 w:38 h:4>
 <Chu-Chu>
 "Don't chu make fun
-of Bart's Jasper!"<Close><End of Block>
-<TextBlock 35 w:54 h:3>
+of Bart's Fort
+Jasmine thing!"<Close><End of Block>
+<TextBlock 35 w:48 h:3>
 Maria
-"You don't know if you
-don't try it.<New>
-Aren't you the ones who are
+"You don't know
+if you don't try.<New>
+Maybe you are the ones
 underestimating the land
 dwellers?"<Close><End of Block>
-<TextBlock 36 w:40 h:2>
+<TextBlock 36 w:30 h:3>
 Bart
-"Calm down and aim!"<Close><End of Block>
+"Calm down and
+take aim!"<Close><End of Block>
 <TextBlock 37 w:28 h:4>
 Rico
-"Take it easy.
+"No big deal.
 There's still 
 energy left."<Close><End of Block>
-<TextBlock 38 w:36 h:3>
+<TextBlock 38 w:36 h:4>
 <Chu-Chu>
 "Billy, you'll get
-the next one!!"<Close><End of Block>
-<TextBlock 39 w:54 h:3>
+the next one for
+sure!!"<Close><End of Block>
+<TextBlock 39 w:48 h:3>
 Maria
-"Don't worry about it.
-There's still energy left."<Close><End of Block>
+"Don't worry <--> there's
+still energy left."<Close><End of Block>
 <TextBlock 40 w:30 h:2>
 Bart
 "They're back!"<Close><End of Block>
 <TextBlock 41 w:30 h:2>
 Rico
 "They're back!"<Close><End of Block>
-<TextBlock 42 w:32 h:2>
+<TextBlock 42 w:22 h:3>
 <Chu-Chu>
-"They are back."<Close><End of Block>
+"Those chu
+are back!"<Close><End of Block>
 <TextBlock 43 w:42 h:2>
 Maria
-"Those two are back."<Close><End of Block>
+"Those two are back!"<Close><End of Block>
 <TextBlock 44 w:32 h:1>
 <Opcode 1 255>To the Yggdrasil<Close><End of Block>
 <TextBlock 45 w:32 h:1>
@@ -207,18 +221,22 @@ doing<Delay 30> something..."<Close><End of Block>
 Bart
 "N-<Delay 10>No.<Delay 20> This is
 something else."<Close><End of Block>
-<TextBlock 56 w:48 h:2>
-Ft. Jasper's already up.<New>
-You'd better go to Babel
-and check the systems.<Close><End of Block>
-<TextBlock 57 w:32 h:3>
+<TextBlock 56 w:50 h:3>
+Fort Jasper is already
+operational.<New>
+Better go ahead to Babel
+Tower and investigate the
+systems on that side.<Close><End of Block>
+<TextBlock 57 w:34 h:4>
 Throne
-"Ha!<Delay 30>
-Lambs' taste..."<Close><End of Block>
-<TextBlock 58 w:30 h:2>
+"Tch!<Delay 30> To think
+the likes of the
+Lambs could...!!"<Close><End of Block>
+<TextBlock 58 w:28 h:3>
 Seraphita
-"...Taste...!!"<Close><End of Block>
+"...The likes
+of them...!!"<Close><End of Block>
 <TextBlock 59 w:34 h:3>
 Throne
 "I thought I told
-you to shut up!"<Close><Close><End of Block>
+you not to talk!"<Close><Close><End of Block>

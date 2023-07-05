@@ -1,114 +1,102 @@
-<TextBlock 1 w:50 h:2>
-Allowing them contact
+<TextBlock 1 w:34 h:2>
+To allow contact
 with Shevat<Delay 5>...<Close><End of Block>
-<TextBlock 2 w:38 h:3>
-Not only Shevat.
-The loss of Ignas.
-The retreat at the
+<TextBlock 2 w:36 h:4>
+Not only that.<Delay 20>
+The loss of Ignas.<Delay 20>
+The defeat at the
 Tamuz.<New>
-Yes, and Elul also,
-as I recall.<Close><End of Block>
-<TextBlock 3 w:30 h:2>
-You are 
-useless, as 
-always<Delay 5>...<Close><End of Block>
-<TextBlock 4 w:26 h:2>
-You are a 
-failure
+Oh, and Elul also.
+Let us not forget
+how you<Delay 10>...<Close><End of Block>
+<TextBlock 3 w:24 h:2>
+Useless,
+as always<Delay 5>...<Close><End of Block>
+<TextBlock 4 w:24 h:2>
+A failure,
 after all<Delay 5>...<Close><End of Block>
 <TextBlock 5 w:20 h:1>
 'Trash'<Delay 5>...<Close><End of Block>
-<TextBlock 6 w:52 h:2>
+<TextBlock 6 w:50 h:2>
 Ramsus
-"Bastards!
+"Wh-Why, you...!
 What did you just say!?"<Close><End of Block>
 <TextBlock 7 w:30 h:2>
-Hmph...
-It is the 
-truth.<Close><End of Block>
+Hmph.
+It's the truth.<Close><End of Block>
 <TextBlock 8 w:42 h:4>
 And what is that
-attitude?<Delay 5>...<Delay 5>
+attitude...?<Delay 10>
 We expect you to show
 some loyalty.<Close><End of Block>
-<TextBlock 9 w:50 h:4>
+<TextBlock 9 w:40 h:4>
 Ramsus
-"How, how dare you 
-ridicule me by calling 
-me 'trash'! Bastards..!"<Close><End of Block>
-<TextBlock 10 w:30 h:2>
+"Ridiculing me,
+calling me 'trash'!?<Delay 10>
+ME! How dare you!"<Close><End of Block>
+<TextBlock 10 w:24 h:2>
 Ramsus
-"Guh...guhaah."<Close><End of Block>
-<TextBlock 11 w:54 h:3>
+"G-<Delay 10>Grrgh..."<Close><End of Block>
+<TextBlock 11 w:52 h:4>
 Myyah
 "Please calm yourself,
-Excellency! This will
-affect your health.<New>
-Your wounds from the 
-earlier battle are not
-yet fully healed! Your
-Excellency!"<Close><End of Block>
-<TextBlock 12 w:38 h:1>
-It matters not.<Close><End of Block>
-<TextBlock 13 w:34 h:4>
-The Lambs are 
-likely on their 
-way to destroy
-the gates.<New> 
-This time, 
-surely<Delay 5>...<Close><End of Block>
-<TextBlock 14 w:48 h:2>
-We want to see your
-'intrinsic powers'.<Close><End of Block>
-<TextBlock 15 w:40 h:3>
-If you mean to show
-us that you are not
-"trash"<Delay 5>...<Close><End of Block>
-<TextBlock 16 w:42 h:4>
+Commander!<New>
+This is not good for you.
+Your wounds from the
+earlier battle are not yet
+fully healed! Commander!"<Close><End of Block>
+<TextBlock 12 w:20 h:1>
+No matter.<Close><End of Block>
+<TextBlock 13 w:46 h:3>
+The Lambs are likely
+on their way to destroy
+the Gates. THIS time<Delay 5>...<Close><End of Block>
+<TextBlock 14 w:44 h:3>
+We would have you show
+us that 'latent power'
+of yours.<Close><End of Block>
+<TextBlock 15 w:40 h:2>
+If, as you say, you
+are not 'trash'<Delay 5>...<Close><End of Block>
+<TextBlock 16 w:36 h:4>
 Ramsus
 "Myyah<Delay 5>...<Delay 5>
-Launch the warship<Delay 5>...<Delay 5>
-Get to him<Delay 5>..."<Close><End of Block>
+Launch the ship<Delay 5>...<Delay 5>
+We follow him<Delay 5>..."<Close><End of Block>
 <TextBlock 17 w:46 h:4>
 Ramsus
-"I<Delay 5>...<Delay 5>
-will go<Delay 5>...<Delay 5><New> 
-This time<Delay 5>...<Delay 5> 
-I will bring him 
-down<Delay 5>..."<Close><End of Block>
-<TextBlock 18 w:50 h:3>
+"This time<Delay 5>...<Delay 5>
+I will head out...and I
+will bring him down<Delay 5>..."<Close><End of Block>
+<TextBlock 18 w:38 h:4>
 Myyah
-"Excellency, that is 
-impossible in your 
+"Commander, it's
+impossible in your
 condition!"<Close><End of Block>
-<TextBlock 19 w:40 h:4>
+<TextBlock 19 w:42 h:4>
 Cherubina
-"May I request 
-that you leave 
-this duty to us,<New> 
-Your Excellency?"<Close><End of Block>
-<TextBlock 20 w:20 h:2>
+"Might I request that
+you leave this duty
+to us, Commander?"<Close><End of Block>
+<TextBlock 20 w:22 h:2>
 Myyah
-"You 
-will...?"<Close><End of Block>
-<TextBlock 21 w:48 h:3>
+"You four?"<Close><End of Block>
+<TextBlock 21 w:34 h:3>
 Dominia
-"We will certainly give
-our all in order to meet<New>
-His Excellency's 
+"Rest assured, we
+will give our all<New>
+to meet the
+commander's
 expectations."<Close><End of Block>
-<TextBlock 22 w:40 h:4>
+<TextBlock 22 w:42 h:4>
 Cherubina
-"So please, 
-Excellency, get 
-medical attention<New> 
-as quickly as 
-possible."<Close><End of Block>
-<TextBlock 23 w:38 h:3>
+"So, you get well,
+Commander.<Delay 10> As quickly
+as possible..."<Close><End of Block>
+<TextBlock 23 w:34 h:3>
 Dominia
-"In order to put 
-our ideals into 
-practice."<Close><End of Block>
+"That our ideals
+may be realized."<Close><End of Block>
 <TextBlock 24 w:48 h:2>
 Cherubina
 "Well then, we are off."<Close><Close><End of Block>

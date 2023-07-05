@@ -7,16 +7,15 @@ Fei
 "Is it controlled from
 the room through that
 door back there?"<Close><End of Block>
-<TextBlock 3 w:48 h:3>
+<TextBlock 3 w:46 h:3>
 Fei
-"You are...<Delay 10>
+"You...<Delay 10>
 Dominia!?<New>
-Wait, <Delay 20>do you
-suppose they figured out
-our plan?"<Close><End of Block>
+Don't tell me they've
+guessed our strategy!?"<Close><End of Block>
 <TextBlock 4 w:38 h:2>
 Fei
-"Damn, we blew it."<Close><End of Block>
+"Damn, it missed?"<Close><End of Block>
 <TextBlock 5 w:34 h:4>
 Fei
 "Darn...<Delay 30>
@@ -30,37 +29,40 @@ Fei
 "Damn it,
 ...taking too much time...<Delay 40>
 ...can't defend anymore."<Close><End of Block>
-<TextBlock 8 w:38 h:3>
+<TextBlock 8 w:28 h:4>
 Fei
-"Great! <Delay 30>
-Somehow it worked."<Close><End of Block>
+"Yes!<Delay 30>
+It looks like
+we did it."<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 Citan
 "Fei, where are we going?
 The mirror control room
 is below us."<Close><End of Block>
-<TextBlock 10 w:52 h:4>
+<TextBlock 10 w:52 h:3>
 Dominia
 "Of course.<New>
 The ancient mobile gun
 platform floating above
-Ignas...<New>
-And this reflector,
-here, at Babel Tower...<New>
-I know of your plan to use
-them together to destroy
-the Gate generator below
-the Church headquarters.<New>
-But, of course, I won't
-let you do it."<Close><End of Block>
-<TextBlock 11 w:28 h:2>
+Ignas.<New>
+And its twin weapon,
+the reflector here
+at Babel...<New>
+Perhaps you thought you'd
+try to use them together<New>
+to destroy the Gate
+generator below the Church
+headquarters, hmm?<New>
+But we won't let you."<Close><End of Block>
+<TextBlock 11 w:30 h:2>
 Dominia
-"Here I come!"<Close><End of Block>
-<TextBlock 12 w:46 h:4>
+"Here we come!"<Close><End of Block>
+<TextBlock 12 w:28 h:3>
 Dominia
-"I'll let you off easy
-this time.<Delay 40> 
-Next time is for real!"<Close><End of Block>
+"You're quite
+entertaining.<New>
+Now it gets
+serious!"<Close><End of Block>
 <TextBlock 13 w:50 h:3>
 Dominia
 "Amazing how you've held
@@ -72,44 +74,43 @@ Dominia
 "Now! <Delay 20>
 Destroy the control 
 room!"<Close><End of Block>
-<TextBlock 15 w:24 h:3>
+<TextBlock 15 w:24 h:4>
 Dominia
 "Damn...<Delay 20>
-Too late..."<Close><End of Block>
-<TextBlock 16 w:40 h:4>
+We were too
+late..."<Close><End of Block>
+<TextBlock 16 w:42 h:3>
 Dominia
-"We'll continue this
-later!
-Let's go Cherubina!"<Close><End of Block>
-<TextBlock 17 w:52 h:4>
+"To be continued!<Delay 10>
+Pull out, Cherubina!"<Close><End of Block>
+<TextBlock 17 w:38 h:4>
 Cherubina
-"For the commander's honor<Delay 20>
-and the pride of the 
-Elements,<New>
-you need to be 
-more flexible."<Close><End of Block>
-<TextBlock 18 w:52 h:3>
+"By the commander's
+honor<Delay 20> and the pride
+of the Elements,<New>
+we stand resolute
+against you!"<Close><End of Block>
+<TextBlock 18 w:36 h:4>
 Cherubina
 "I wonder how long
 you'll last...?<Delay 40>
-Go!"<Close><End of Block>
+Here we go!"<Close><End of Block>
 <TextBlock 19 w:40 h:2>
 Cherubina
 "Let's finish this."<Close><End of Block>
 <TextBlock 20 w:32 h:3>
 Cherubina
-"What should we 
-do Dominia?"<Close><End of Block>
-<TextBlock 21 w:50 h:3>
+"What should we
+do, Dominia?"<Close><End of Block>
+<TextBlock 21 w:52 h:3>
 Cherubina
-"Elly,<Delay 20> I didn't
-want to be your enemy...<New>
-But since our motives are
-different, I guess there
-was no choice.<New>
-We'll meet again.
-And settle things at
-that time."<Opcode 2 30><Close><End of Block>
+"Elly,<Delay 20> I didn't want
+us to be enemies, but...<New>
+since our fundamental
+viewpoints are different,
+I guess there's no choice.<New>
+We'll settle this another
+time."<Opcode 2 30><Close><End of Block>
 <TextBlock 22 w:38 h:1>
 The door is locked.<Close><End of Block>
 <TextBlock 23 w:34 h:2>

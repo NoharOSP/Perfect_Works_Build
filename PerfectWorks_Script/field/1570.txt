@@ -226,33 +226,37 @@ That's 3 shots left!"<Close><End of Block>
 Maria
 "There are 3 existing
 tanks.<Delay 30> 3 shots..."<Close><End of Block>
-<TextBlock 55 w:48 h:4>
+<TextBlock 55 w:34 h:4>
 Bart
-"There's some time
-until the launch...
-I wonder if Citan's OK?"<Close><End of Block>
-<TextBlock 56 w:50 h:4>
+"It'll still be
+some time until
+we can fire...<New>
+I wonder if it's
+going smoothly
+on Citan's side."<Close><End of Block>
+<TextBlock 56 w:48 h:3>
 Rico
-"Looks like there's some
-time before the charge is
-ready.<Delay 30><New>
-Now let's hope everything
-is ok in Babel."<Close><End of Block>
+"I guess it'll take some
+time to finish charging.<Delay 30><New>
+The rest's up to the
+Babel team."<Close><End of Block>
 <TextBlock 57 w:48 h:3>
 Event error.
 Billy is not in the lead
 position.<Close><End of Block>
-<TextBlock 58 w:34 h:3>
+<TextBlock 58 w:32 h:4>
 <Chu-Chu>
-"We got chu wait 
-till it's full!"<Close><End of Block>
-<TextBlock 59 w:42 h:3>
+"We got chu wait
+till the tank is
+full!"<Close><End of Block>
+<TextBlock 59 w:36 h:4>
 Maria
-"This charge is
-gonna take a while.<New>
-Guess I'll wait until
-I hear from the guys
-at Babel."<Close><End of Block>
+"It looks like
+it'll take a while
+to charge.<New>
+After that, let's
+wait for word from
+the Babel group."<Close><End of Block>
 <TextBlock 60 w:30 h:2>
 Bart
 "Almost there!"<Close><End of Block>
@@ -271,28 +275,32 @@ position.<Close><End of Block>
 Maria
 "Please hold on for a 
 little longer!"<Close><End of Block>
-<TextBlock 65 w:40 h:3>
+<TextBlock 65 w:34 h:4>
 Bart
-"We've got a Gear on
-radar!"<Close><End of Block>
-<TextBlock 66 w:48 h:4>
+"We've got a
+response on the
+radar.<New>
+I get the feeling
+it's...<Delay 10>Gears."<Close><End of Block>
+<TextBlock 66 w:36 h:4>
 Rico
-"There's sumthin' on the
-radar! Gears...<Delay 30>
-several of them."<Close><End of Block>
+"We got somethin'
+on the radar!<Delay 30>
+Gears..."<Close><End of Block>
 <TextBlock 67 w:48 h:3>
 Event error.
 Billy is not in the lead
 position.<Close><End of Block>
 <TextBlock 68 w:36 h:3>
 <Chu-Chu>
-"There's an image 
+"There's something
 on the radar."<Close><End of Block>
-<TextBlock 69 w:48 h:4>
+<TextBlock 69 w:38 h:3>
 Maria
-"Radar response!<Delay 30>
-From the size they're...
-probably Gears."<Close><End of Block>
+"Radar response!<New>
+Going by the size
+and shape, it looks
+like Gears."<Close><End of Block>
 <TextBlock 70 w:34 h:2>
 Bart
 "Here they come."<Close><End of Block>
@@ -303,12 +311,12 @@ Rico
 Event error.
 Billy is not in the lead
 position.<Close><End of Block>
-<TextBlock 73 w:42 h:2>
+<TextBlock 73 w:38 h:2>
 <Chu-Chu>
-"The enemy's coming!"<Close><End of Block>
+"The enemy's here!"<Close><End of Block>
 <TextBlock 74 w:30 h:2>
 Maria
-"Their coming!"<Close><End of Block>
+"They're here!"<Close><End of Block>
 <TextBlock 75 w:30 h:3>
 Bart
 "Damn!<Delay 30>
@@ -328,59 +336,61 @@ Billy is not in the lead
 Maria
 "It looks like they know
 we're here!"<Close><End of Block>
-<TextBlock 80 w:48 h:4>
+<TextBlock 80 w:44 h:4>
 Bart
-"I'm goin' out to return
-fire!<Delay 30> Billy,
-you gonna be OK?"<Close><End of Block>
-<TextBlock 81 w:48 h:4>
+"We're goin' out to
+retaliate!<Delay 30> Billy, it's
+up to you now."<Close><End of Block>
+<TextBlock 81 w:36 h:4>
 Rico
-"I'm goin' out!<Delay 30>
-Hey Billy, the rest's up
-to you!"<Close><End of Block>
+"We're goin' out!<Delay 30>
+Hey, Billy, you'll
+be okay?"<Close><End of Block>
 <TextBlock 82 w:50 h:2>
 Event error.
 Billy is not in the lead.<Close><End of Block>
 <TextBlock 83 w:48 h:4>
 <Chu-Chu>
-"I'm gonna go smack'em!<Delay 30>
-Billy, will you be OK by
-yourself?"<Close><End of Block>
-<TextBlock 84 w:42 h:3>
+"I'm gonna go smack 'em!<Delay 30>
+Billy, will you be okay
+by yourself?"<Close><End of Block>
+<TextBlock 84 w:34 h:3>
 Maria
-"We're going out for
-defensive maneuvers.<New>
-Billy, the rest is up
-to you."<Close><End of Block>
-<TextBlock 85 w:44 h:4>
+"Okay, we'll go
+out to retaliate.<New>
+Billy, the rest
+is up to you."<Close><End of Block>
+<TextBlock 85 w:42 h:4>
 Bart
-"Try to get a shot off
-while we hold them 
-back!<Delay 30> Good luck!"<Close><End of Block>
-<TextBlock 86 w:46 h:4>
+"Alright! Somehow you
+have to fire while we
+hold them back!<New>
+Good luck!"<Close><End of Block>
+<TextBlock 86 w:40 h:3>
 Rico
-"We'll hold them off up
-top, so hurry up and
-blast'em!"<Close><End of Block>
+"Right, we'll hold
+them off up top,<New>
+so get a shot off
+as soon as you can!"<Close><End of Block>
 <TextBlock 87 w:48 h:3>
 Event error.
 Billy is not in the lead
 position.<Close><End of Block>
-<TextBlock 88 w:48 h:4>
+<TextBlock 88 w:50 h:4>
 <Chu-Chu>
-"We'll do something!<Delay 30>
-Just shoot when you can,
-Billy!"<Close><End of Block>
-<TextBlock 89 w:32 h:2>
+"We'll do whatever we
+can!<Delay 30> In the meantime, you
+do the shooting, Billy!"<Close><End of Block>
+<TextBlock 89 w:34 h:2>
 Maria
-"I'm going out."<Close><End of Block>
+"Then off we go!"<Close><End of Block>
 <TextBlock 90 w:42 h:1>
 Don't worry about it.<Close><End of Block>
 <TextBlock 91 w:14 h:2>
 Billy
 "Bart!"<Close><End of Block>
-<TextBlock 92 w:42 h:1>
-Don't worry about it.<Close><End of Block>
+<TextBlock 92 w:30 h:1>
+Don't sweat it.<Close><End of Block>
 <TextBlock 93 w:14 h:2>
 Billy
 "Rico!"<Close><End of Block>
@@ -394,10 +404,10 @@ position.<Close><End of Block>
 <TextBlock 96 w:24 h:2>
 Billy
 "<Chu-Chu>!"<Close><End of Block>
-<TextBlock 97 w:46 h:3>
+<TextBlock 97 w:30 h:3>
 Maria
-"Relax and work on your
-aim, please!"<Close><End of Block>
+"Stay calm
+and take aim!"<Close><End of Block>
 <TextBlock 98 w:16 h:2>
 Billy
 "Maria!"<Close><End of Block>
@@ -636,30 +646,33 @@ secured this area.<New>
 If you don't like it,
 come here and get some!<New>
 Hah hah hah!"<Close><End of Block>
-<TextBlock 141 w:34 h:3>
+<TextBlock 141 w:36 h:4>
 Billy
-"Let us begin our
-preparations."<Close><End of Block>
+"Okay, let's begin
+our preparations
+without delay."<Close><End of Block>
 <TextBlock 142 w:44 h:3>
 Billy
 "What is the status of
 the charge?"<Close><End of Block>
-<TextBlock 143 w:42 h:3>
+<TextBlock 143 w:36 h:4>
 Billy
-"Argh! We're so close
-to launching!"<Close><End of Block>
+"Argh! Just when
+we're about ready
+to fire!"<Close><End of Block>
 <TextBlock 144 w:36 h:2>
 Billy
 "I have to do it!"<Close><End of Block>
-<TextBlock 145 w:38 h:2>
+<TextBlock 145 w:34 h:2>
 Billy
-"Let me handle it!"<Close><End of Block>
-<TextBlock 146 w:14 h:2>
+"Leave it to me!"<Close><End of Block>
+<TextBlock 146 w:18 h:2>
 Billy
-"Fire!"<Close><End of Block>
-<TextBlock 147 w:18 h:2>
+"Firing!"<Close><End of Block>
+<TextBlock 147 w:20 h:3>
 Billy
-"Missed!"<Close><End of Block>
-<TextBlock 148 w:10 h:2>
+"Argh,
+I missed!"<Close><End of Block>
+<TextBlock 148 w:12 h:2>
 Billy
-"GO!"<Close><Close><End of Block>
+"Now!"<Close><Close><End of Block>
