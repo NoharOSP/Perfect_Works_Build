@@ -1,50 +1,53 @@
-<TextBlock 1 w:48 h:4>
+<TextBlock 1 w:52 h:4>
 Bart
-"Thanks to you, Av has
-been taken back from
-Shakhan and Geburah.<New>
+"With your help, everyone,
+Av has been taken back
+from Shakhan and Geburah.<New>
 Thank you.<New>
 Now, in order to free
 other lands from
-Geburah and Solaris...<New>
-...we must destroy the
-other two gates and
-bring down Solaris.<New>
-We've learned from
-Shakhan's notes that the
-gates form the points 
-of a triangle."<Close><End of Block>
-<TextBlock 2 w:50 h:4>
-One point was the Great
-Mausoleum. <Delay 50>
-Two others remain, but we
-only know where one is.<Close><End of Block>
-<TextBlock 3 w:50 h:3>
+Geburah and Solaris,<New>
+we must destroy the
+remaining two Gates
+and bring down Solaris.<New>
+From deciphering Shakhan's
+documents, apparently the
+Gates are positioned at<New>
+the three points of an
+equilateral triangle."<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Bart
+"The great mausoleum was
+at one of those points.<New>
+Two others are left, but
+we only know where one of
+those is, I guess?"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
 Citan
-"Yes, under the Church
-headquarters. However..."<Close><End of Block>
-<TextBlock 4 w:50 h:4>
+"Yes, under the Church of
+the Ethos headquarters.<Delay 20>
+However..."<Close><End of Block>
+<TextBlock 4 w:52 h:4>
 Billy
-"It wasn't there when we
-followed Stone<New> 
-under the Church of the 
-Ethos headquarters.<New>
-If it really is there...<Delay 30>
-it must be buried deep
+"There wasn't anything
+like that when we followed
+Stone under the Church HQ.<New>
+If it is there...<Delay 30>it must
+be buried even deeper
 beneath the earth..."<Close><End of Block>
 <TextBlock 5 w:36 h:3>
 Rico
 "How are we gonna 
 destroy it then?"<Close><End of Block>
-<TextBlock 6 w:26 h:4>
+<TextBlock 6 w:38 h:4>
 <Chu-Chu>
-"By combining
-everyone's
-Gear power."<Close><End of Block>
+"By combining the
+power of everyone's
+Gears."<Close><End of Block>
 <TextBlock 7 w:44 h:3>
 Rico
 "What are we gonna do 
-with everyone's Gear,<New>
+with everyone's Gears,<New>
 dig a giant hole in
 the ground?"<Close><End of Block>
 <TextBlock 8 w:26 h:3>
@@ -53,159 +56,174 @@ the ground?"<Close><End of Block>
 with that?"<Close><End of Block>
 <TextBlock 9 w:50 h:2>
 Sigurd
-"...it would take years."<Close><End of Block>
-<TextBlock 10 w:38 h:3>
+"...It would take years."<Close><End of Block>
+<TextBlock 10 w:40 h:3>
 Fei
 "What if we used 
-Shevat's cannon..."<Close><End of Block>
-<TextBlock 11 w:50 h:3>
+Shevat's cannon...?"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
 Maria
-"If that worked, we would
-have tried it already."<Close><End of Block>
+"If that was effective,
+we would be doing it
+already."<Close><End of Block>
 <TextBlock 12 w:20 h:2>
 Fei
 "...Oh..."<Close><End of Block>
-<TextBlock 13 w:48 h:4>
+<TextBlock 13 w:42 h:4>
 Citan
-"So it must be something
-more powerful than
+"So we need firepower
+even greater than
 Shevat's cannon."<Close><End of Block>
-<TextBlock 14 w:40 h:3>
+<TextBlock 14 w:42 h:4>
 Elly
-"And we don't have a
-Geburah battleship."<Close><End of Block>
-<TextBlock 15 w:48 h:3>
+"Even Geburah battle-
+ships don't have such
+firepower."<Close><End of Block>
+<TextBlock 15 w:44 h:4>
 Fei
-"Is there any weapon
-that powerful on earth?"<Close><End of Block>
+"Are there any weapons
+that powerful on the
+surface?"<Close><End of Block>
 <TextBlock 16 w:48 h:4>
 Citan
 "Geburah battleships and
 Shevat's cannon are the
 most powerful weapons<New>
-ever produced by man..."<Close><End of Block>
-<TextBlock 17 w:40 h:4>
+ever created by man..."<Close><End of Block>
+<TextBlock 17 w:46 h:4>
 Bart
-"...but...<Delay 30>
-I seem to remember
-seeing something..."<Close><End of Block>
+"...But...<Delay 30>
+I remember seeing
+something somewhere..."<Close><End of Block>
 <TextBlock 18 w:14 h:2>
 Sigurd
 "What?"<Close><End of Block>
 <TextBlock 19 w:48 h:4>
 Bart
 "A weapon with firepower
-like those two...<Delay 200>
-Yeah! I got it!<New>
-Ft. Jasper!
-Her gun can take out
-a mountain!
+to rival those two...<New>
+Yeah! That's it <--><Delay 10>
+Fort Jasper! The gun on
+that thing could take
+out a mountain!<New>
 What about that?"<Close><End of Block>
-<TextBlock 20 w:28 h:2>
+<TextBlock 20 w:22 h:3>
 Bart
-"Citan, what?"<Close><End of Block>
-<TextBlock 21 w:56 h:4>
+"What is
+it, Citan?"<Close><End of Block>
+<TextBlock 21 w:52 h:4>
 Citan
-"However powerful the Jasper
-may be, how are we going to
-aim it at the Church HQ?<New>
+"As strong as the Jasper's
+firepower may be,<New>
+how would we target the
+Church HQ underground?<New>
 To damage something that
-deep underground we would
+deep down we would
 have to attack it from
 directly above.<New>
-But the Jasper gun is..."<Close><End of Block>
-<TextBlock 22 w:38 h:2>
+But the Jasper cannon
+is..."<Close><End of Block>
+<TextBlock 22 w:24 h:2>
 Sigurd
-"Yes, of course..."<Close><End of Block>
-<TextBlock 23 w:48 h:4>
+"Indeed..."<Close><End of Block>
+<TextBlock 23 w:44 h:4>
 Rico
-"What, are you sayin' we
-should just move Ft.
-Jasper on top of Babel?"<Close><End of Block>
+"So, what, we'd hafta
+put Fort Jasper at the
+top of Babel?"<Close><End of Block>
 <TextBlock 24 w:50 h:4>
 Billy
 "Now that you mention it,
-Babel does overlook their
-headquarters.<New>
-If we shoot it from there
-it might just possibly be
-able to reach that far
-underground."<Close><End of Block>
+Babel's summit does over-
+look Church headquarters.<New>
+If we shoot from there,
+it might just be possible
+to get through to below
+ground."<Close><End of Block>
 <TextBlock 25 w:44 h:3>
 Sigurd
 "But how could we move
-Ft. Jasper?"<Close><End of Block>
+Fort Jasper?"<Close><End of Block>
 <TextBlock 26 w:48 h:3>
 Elly
 "It's impossible.
 Something that heavy..."<Close><End of Block>
 <TextBlock 27 w:3 h:1>
-<!><Opcode 2 30><Close><End of Block>
+!<Opcode 2 30><Close><End of Block>
 <TextBlock 28 w:48 h:4>
 Fei
-"Didn't the control room
-in Babel control a
-cannon or something?<New>
-I think it moved the
-giant mirror outside."<Close><End of Block>
-<TextBlock 29 w:46 h:3>
+"Wasn't the control room
+in Babel for a gun
+platform or something?<New>
+I think we moved that
+giant mirror on the
+outside that time..."<Close><End of Block>
+<TextBlock 29 w:34 h:3>
 Bart
-"Maria, do you know
-of anything like that?"<Close><End of Block>
-<TextBlock 30 w:50 h:3>
+"Maria, is there
+such a thing?"<Close><End of Block>
+<TextBlock 30 w:36 h:4>
 Maria
 "I've never heard
-anything about it but..."<Close><End of Block>
+anything about it,
+but..."<Close><End of Block>
 <TextBlock 31 w:46 h:3>
 Fei
-"But it might be there.
-Let's go check."<Close><End of Block>
+"But there might be.
+Let's go check it out."<Close><End of Block>
 <TextBlock 32 w:24 h:2>
 Bart
 "Alright..."<Close><End of Block>
 <TextBlock 33 w:3 h:1>
-<!><Opcode 2 30><Close><End of Block>
+!<Opcode 2 30><Close><End of Block>
 <TextBlock 34 w:52 h:4>
 Citan
-"Wait a moment...<New>
-A giant mirror and a giant
-cannon both from the same
-ruins?<Delay 30> There might just be
-something in this..."<Close><End of Block>
+"Wait just a moment...<New>
+A giant mirror in an
+ancient ruin, and likewise
+a giant cannon in an
+ancient ruin?<New>
+There might just be
+something to this..."<Close><End of Block>
 <TextBlock 35 w:24 h:2>
 Bart
 "Like what?"<Close><End of Block>
 <TextBlock 36 w:28 h:4>
 Citan
-"Ah...<Delay 30>
+"Ahh...<Delay 30>
 I have solved
 the puzzle..."<Close><End of Block>
 <TextBlock 37 w:44 h:2>
 Sigurd
-"Puzzle, what puzzle?"<Close><End of Block>
+"Puzzle?<Delay 10> What puzzle?"<Close><End of Block>
 <TextBlock 38 w:50 h:4>
 Citan
-"The Babel and Jasper
-ruins are from the same
-civilzation.<New>
-One far more advanced
-than our own...
-Do not the two structures
-seem similar to you?<New>
-I believe they were both
-built with Gears and a
-powerful foe in mind."<Close><End of Block>
-<TextBlock 39 w:48 h:3>
+"Babel and Jasper...<Delay 10>
+are both ruins from the
+same civilization.<New>
+One far more
+scientifically
+advanced than
+our own...<New>
+Do the two structures
+not have a very
+similar ambience?<New>
+And both are built in
+anticipation of some
+powerful invading force,
+or the use of Gears."<Close><End of Block>
+<TextBlock 39 w:44 h:3>
 Fei
-"Yeah, I noticed that. 
-But what's it all mean?"<Close><End of Block>
+"Yeah, I noticed that.
+But what does it all
+mean?"<Close><End of Block>
 <TextBlock 40 w:48 h:4>
 Citan
-"It means, the people
-who built the giant
-mirror at Babel Tower...<New>
-...knew about the giant
-gun at Jasper!"<Close><End of Block>
+"In short, it means the
+people who built Babel's
+giant mirror...<New>
+knew about the giant
+cannon at Jasper!"<Close><End of Block>
 <TextBlock 41 w:24 h:4>
 Bart
 "And...?<Delay 30>
@@ -213,12 +231,12 @@ What are you
 getting at?"<Close><End of Block>
 <TextBlock 42 w:46 h:4>
 Citan
-"We can probably assume
+"We must assume that
 the mirror was built to
 reflect something...<New>
 That something being a
 beam. A beam shot from
-the Jasper gun!"<Close><End of Block>
+the Jasper cannon!"<Close><End of Block>
 <TextBlock 43 w:48 h:4>
 Fei
 "Reflect?<Delay 30>
@@ -227,145 +245,160 @@ reflect a beam attack?"<Close><End of Block>
 <TextBlock 44 w:12 h:2>
 Citan
 "Yes."<Close><End of Block>
-<TextBlock 45 w:38 h:4>
+<TextBlock 45 w:40 h:3>
 Rico
-"Long ago Babel and
-Jasper must have
-been at war."<Close><End of Block>
+"Are you saying
+Babel and Jasper...<New>
+were at war with one
+another long ago?"<Close><End of Block>
 <TextBlock 46 w:48 h:3>
 Citan
-"Not exactly.<New>
-The Babel mirror and
-Jasper gun were combined
-to make one weapon."<Close><End of Block>
-<TextBlock 47 w:30 h:2>
+"Oh --<Delay 10> no.<New>
+Rather, that the Babel
+mirror and Jasper cannon
+are two parts that make
+up a single weapon."<Close><End of Block>
+<TextBlock 47 w:24 h:2>
 Rico
-"Whaddya mean?"<Close><End of Block>
-<TextBlock 48 w:50 h:4>
+"Say what!?"<Close><End of Block>
+<TextBlock 48 w:52 h:4>
 Elly
-"But those things are so
-far apart, how could they
-be one weapon?"<Close><End of Block>
-<TextBlock 49 w:46 h:4>
+"Come on...those things
+are so far apart, how
+could they be one weapon?"<Close><End of Block>
+<TextBlock 49 w:46 h:3>
 Citan
-"Well the gates may be
-far apart, but aren't
-they still one device?"<Close><End of Block>
-<TextBlock 50 w:32 h:3>
+"Well, as spread out as
+it may be, is the Gate<New>
+generator system not
+also a single device?"<Close><End of Block>
+<TextBlock 50 w:34 h:3>
 Elly
 "Yes, I see what
-you mean but..."<Close><End of Block>
-<TextBlock 51 w:36 h:3>
+you mean, but..."<Close><End of Block>
+<TextBlock 51 w:32 h:4>
 Billy
-"What did they use
-that weapon for?"<Close><End of Block>
-<TextBlock 52 w:44 h:2>
+"What on earth
+would the weapon
+be for?"<Close><End of Block>
+<TextBlock 52 w:42 h:2>
 Citan
-"That, I do not know."<Close><End of Block>
+"That I do not know."<Close><End of Block>
 <TextBlock 53 w:46 h:4>
 Bart
-"Whatever. The point is
-how do we use the
+"Whatever. The question
+is how can we use the
 two weapons as one?"<Close><End of Block>
-<TextBlock 54 w:46 h:3>
+<TextBlock 54 w:48 h:4>
 Citan
-"Aim the Jasper gun at
-the mirror and fire.<New>
+"We fire a beam from the
+Jasper cannon, aiming it
+at the mirror.<New>
 The mirror will reflect
-the beam on the gate."<Close><End of Block>
+the beam to strike the
+Gate."<Close><End of Block>
 <TextBlock 55 w:3 h:1>
-<!><Opcode 2 30><Close><End of Block>
+!<Opcode 2 30><Close><End of Block>
 <TextBlock 56 w:42 h:3>
 Maria
 "Do you think it will
 work?"<Close><End of Block>
-<TextBlock 57 w:42 h:4>
+<TextBlock 57 w:40 h:3>
 Citan
-"Theoretically.
-It will require a few
-minor adjustments..."<Close><End of Block>
-<TextBlock 58 w:46 h:4>
+"Theoretically, it 
+should be possible.<New>
+Delicate adjustments
+will be required..."<Close><End of Block>
+<TextBlock 58 w:40 h:4>
 Sigurd
-"Adjusting the mirror
-is going to be rather
-difficult and tedious."<Close><End of Block>
-<TextBlock 59 w:46 h:4>
+"I imagine adjusting
+the mirror will be
+tricky."<Close><End of Block>
+<TextBlock 59 w:44 h:3>
 Citan
-"If the two weapons are
-one, then it should not
-be too difficult.<New>
+"If the two are in
+truth a single weapon,<New>
+then it should not
+be too difficult.<Delay 20>
 I hope..."<Close><End of Block>
-<TextBlock 60 w:46 h:3>
+<TextBlock 60 w:42 h:3>
 Rico
-"It sounds dangerous.<New>
-I think it was meant to
-reflect shots back at
-the enemy.<New>
-If you're wrong it'll
-come back and hit you."<Close><End of Block>
+"But it's a dangerous
+job.<New>
+I wonder if it does
+something like waits
+for the enemy to fire<New>
+and then reflects it
+back at them.<New>
+One false move and
+it'll be ourselves
+that get zapped."<Close><End of Block>
 <TextBlock 61 w:46 h:4>
 Citan
-"Yes. That is why it is
-most difficult for the
-gun crew.<New>
+"Yes. In that respect
+the cannon part will
+be difficult.<New>
 The mirror must be hit
 precisely."<Close><End of Block>
-<TextBlock 62 w:54 h:4>
+<TextBlock 62 w:50 h:4>
 Citan
 "We will need to divide
-into two teams.
-One will fire the gun...<New>
-While the other will adjust
-the angle of the mirror to
-ensure the beam hits the
-Church headquarters.<New>
+into two teams.<New>
+One will fire the beam
+from the Jasper cannon.
+The other will adjust the
+angle of the mirror to<New>
+ensure the beam scores a
+direct hit on the Church
+headquarters.<New>
 Since this was my idea,
-I will take the dangerous
+I will take the hazardous
 part of adjusting the
 mirror."<Close><End of Block>
-<TextBlock 63 w:42 h:4>
+<TextBlock 63 w:36 h:4>
 Sigurd
-"Alright Hyuga, we'll
-let you take care of
-that...<New>
-...It seems like
-your type of job."<Close><End of Block>
+"Alright, Hyuga,
+we'll let you take
+care of that...<New>
+It seems like your
+kind of job."<Close><End of Block>
 <TextBlock 64 w:42 h:3>
 Fei
 "I'll go too.
 Doc might need help."<Close><End of Block>
-<TextBlock 65 w:48 h:4>
+<TextBlock 65 w:48 h:3>
 Elly
-"It might be lonely with
-just Citan and Fei.
-So I had better go too."<Close><End of Block>
+"I had better go too and
+keep those two company."<Close><End of Block>
 <TextBlock 66 w:48 h:4>
 Sigurd
 "Alright, you three take
-Babel. Now what about
-the gun?"<Close><End of Block>
-<TextBlock 67 w:50 h:3>
+Babel.<Delay 20> Now, what about
+the cannon?"<Close><End of Block>
+<TextBlock 67 w:50 h:4>
 Billy
-"I'll do it. Looks like
+"I'll do it.<Delay 20>
+This one seems like
 my kind of job.<New>
 Don't worry, I won't
-miss. I haven't been
-using a gun for nothing."<Close><End of Block>
-<TextBlock 68 w:48 h:3>
+miss. I don't handle
+guns just for show."<Close><End of Block>
+<TextBlock 68 w:38 h:3>
 Bart
-"Well, I probably better
-go to the Jasper."<Close><End of Block>
+"I guess I'd better
+go to Jasper too."<Close><End of Block>
 <TextBlock 69 w:38 h:3>
 <Chu-Chu>
 "Me chu! <Chu-Chu> 
 wants to go chu!"<Close><End of Block>
-<TextBlock 70 w:50 h:4>
+<TextBlock 70 w:48 h:4>
 Bart
 "Then it's settled.<New>
-You go with Citan to aim
-the mirror at the 
+Citan's party will aim
+the Babel mirror at the 
 Church headquarters.<New>
-We'll aim the Jasper gun
-at the mirror.<Delay 50>
+We'll aim the Jasper
+cannon at the mirror.<New>
 Let's get back to the
-Yggdrasil and get going!"<Close><Close><End of Block>
+Yggdrasil right away and
+commence the operation!"<Close><Close><End of Block>

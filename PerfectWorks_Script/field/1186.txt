@@ -1363,10 +1363,11 @@ Citan
 "I shall go on to explain
 that now.<Delay 10> Actually, that is
 the most important point."<Close><End of Block>
-<TextBlock 216 w:36 h:3>
+<TextBlock 216 w:34 h:4>
 Billy
 "Well then...
-shall we go, too?"<Close><End of Block>
+let's get moving
+and do our part."<Close><End of Block>
 <TextBlock 217 w:66 h:5>
 Update on the Church Gear and the
 Tamuz fleet, sir.<Delay 10> They're on the
