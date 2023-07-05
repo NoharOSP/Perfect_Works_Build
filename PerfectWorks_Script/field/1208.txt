@@ -5,27 +5,28 @@ Get rid of that strange
 stuffed animal sitting
 in front of the bridge.<Delay 10>
 It's in our way."<Close><End of Block>
-<TextBlock 2 w:40 h:4>
+<TextBlock 2 w:42 h:4>
 Margie
 "She's not a 'strange
 stuffed animal'!<Delay 10>
-She has a name.<New>
+She has a name!<New>
 Her name is..."<Close><End of Block>
-<TextBlock 3 w:44 h:2>
+<TextBlock 3 w:46 h:2>
 Margie
 "Her name is <Chu-Chu>!"<Close><End of Block>
-<TextBlock 4 w:50 h:4>
+<TextBlock 4 w:52 h:4>
 Margie
 "But that's weird.<Delay 10>
 She was just here, where I
 put her, a moment ago..."<Close><End of Block>
 <TextBlock 5 w:50 h:4>
-Nice chu meet chu!!<Delay 10>
+<Chu-Chu>
+"Nice chu meet chu!!<Delay 10>
 I'm <Chu-Chu>!<New>
 I fell in love with you
 when I first saw you in
 Breidablik!!<Delay 10> Wherever you
-go, I shall go chu!<Close><End of Block>
+go, I shall go chu!"<Close><End of Block>
 <TextBlock 6 w:50 h:4>
 Bart
 "What we thought was just

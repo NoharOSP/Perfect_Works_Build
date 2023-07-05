@@ -1,13 +1,13 @@
-<TextBlock 1 w:32 h:1>
-It feels warm
+<TextBlock 1 w:34 h:2>
+It's kind of warm
 to the touch...<Close><End of Block>
-<TextBlock 2 w:54 h:4>
+<TextBlock 2 w:50 h:4>
 Bart
 "That Margie...!<New>
 Leaving a strange stuffed
 animal in a place like
-this!<Delay 10> Now we
-can't get onto the bridge."<Close><End of Block>
+this!<Delay 10> Now we can't get
+onto the bridge."<Close><End of Block>
 <TextBlock 3 w:34 h:1>
 <Opcode 1 255>It's not strange!<Opcode 2 20><Close><End of Block>
 <TextBlock 4 w:36 h:4>
