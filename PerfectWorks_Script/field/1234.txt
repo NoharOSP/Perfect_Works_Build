@@ -248,100 +248,116 @@ about that excavation
 site."<Close><End of Block>
 <TextBlock 52 w:42 h:3>
 Captain
-"What's wrong?
-What do you need?<New>
+"Hey, what's up?<Delay 10>
+D'you need something?<New>
 Point x1507, z1235?
-Hans, does that sound
-familiar?"<Close><End of Block>
-<TextBlock 53 w:44 h:2>
+Hey, Hans, we know
+anything about it?"<Close><End of Block>
+<TextBlock 53 w:42 h:3>
 Hans
-"It's Sargasso point."<Close><End of Block>
-<TextBlock 54 w:28 h:3>
+"We do indeed <-->
+it's Sargasso point."<Close><End of Block>
+<TextBlock 54 w:32 h:3>
 Captain
-"What?
-The Sargasso?"<Close><End of Block>
-<TextBlock 55 w:48 h:2>
+"What?<Delay 10> It's
+Sargasso Point?"<Close><End of Block>
+<TextBlock 55 w:28 h:2>
 Fei
-"Sargasso, what's that?"<Close><End of Block>
-<TextBlock 56 w:52 h:4>
+"What's that?"<Close><End of Block>
+<TextBlock 56 w:48 h:4>
 Captain
-"It's a cave formed from
-microbes over many years.<New>
-It's supposed to have
-hidden treasure but no
-one's ever returned from
-there.<New>
-The story is that the cave
-itself is alive. Are you
-going to the Sargasso?"<Close><End of Block>
+"It's a place where
+caves have been formed<New>
+by ancient microbes
+over many, many years.<New>
+There are rumors of
+hidden treasure, but no
+one who's gone there has
+ever returned.<New>
+According to some spooky
+stories, the cave itself
+is alive.<New>
+Why, are you going
+to Sargasso?"<Close><End of Block>
 <TextBlock 57 w:38 h:2>
 Fei
 "It looks like it."<Close><End of Block>
-<TextBlock 58 w:54 h:4>
+<TextBlock 58 w:50 h:4>
 Captain
-"Your Gears can't dive that
-deep. If they did, you
-would not be able to move.<New>
-Equip your underwater gear
-here. Then take your ship
-as far as you can and dive
-in with your Gear.<New>
-I'll go wake those
-winos up, right now."<Close><End of Block>
+"Your Gears can't
+dive that deep.<New>
+Even if they could, you'd
+hardly be able to move.<New>
+Get your Gears outfitted
+for underwater here.<New>
+Then go as far as you can
+in your ship, and dive
+down with your Gears.<New>
+I'll rally those
+winos right now."<Close><End of Block>
 <TextBlock 59 w:50 h:4>
 Fei
-"Really? It's okay with
-you? Thanks for always
-helping us out, Captain."<Close><End of Block>
-<TextBlock 60 w:38 h:2>
+"You sure you don't mind?<Delay 10>
+Thanks for always helping
+us out, Captain."<Close><End of Block>
+<TextBlock 60 w:26 h:3>
 Captain
-"Don't mention it."<Close><End of Block>
-<TextBlock 61 w:28 h:3>
+"Ohh, don't
+mention it."<Close><End of Block>
+<TextBlock 61 w:30 h:4>
 Captain
-"It looks like
-they're done."<Close><End of Block>
-<TextBlock 62 w:32 h:2>
+"Alright, looks
+like they're
+done."<Close><End of Block>
+<TextBlock 62 w:38 h:2>
 Fei
-"That was fast."<Close><End of Block>
+"Th-<Delay 5>That was fast."<Close><End of Block>
 <TextBlock 63 w:22 h:3>
 Captain
 "Of course.
-We're..."<Close><End of Block>
-<TextBlock 64 w:50 h:2>
+We're<-->"<Close><End of Block>
+<TextBlock 64 w:30 h:3>
 Fei
-"Men, <Delay 10>of the sea, <Delay 10>right?"<Close><End of Block>
-<TextBlock 65 w:40 h:4>
+"<-->men, <Delay 10>of the
+sea,<Delay 10> right?"<Close><End of Block>
+<TextBlock 65 w:36 h:4>
 Captain
-"Blimey. <Delay 5>
-I think he's got it.<Delay 10>
-Take care then."<Close><End of Block>
-<TextBlock 66 w:14 h:2>
+"Blimey,<Delay 5> I think
+he's got it.<Delay 10>
+Well, take care."<Close><End of Block>
+<TextBlock 66 w:20 h:2>
 Fei
-"Yeah."<Close><End of Block>
-<TextBlock 67 w:54 h:4>
+"We will."<Close><End of Block>
+<TextBlock 67 w:50 h:4>
 Captain
-"Oh yeah, I forgot to tell
-you how to operate them
-underwater.<New>
-It's easy. You can jump in
-water without your feet
-touching the ground. Keep
-jumping to build up speed.<New>
-You can swim pretty well in
-a Gear, but there may be
-places you can't get past
-if you don't do it well."<Close><End of Block>
+"Oh yeah, I forgot to
+tell you how to use the
+underwater equipment.<New>
+Ahh, it's easy.
+When you're in the water,
+you can jump without your
+feet touching the ground.<New>
+Jump repeatedly to build
+up speed.<Delay 5> You can swim
+quite comfortably in the
+Gears.<New>
+There might be spots
+you can't get out of
+unless you make good
+use of them."<Close><End of Block>
 <TextBlock 68 w:16 h:3>
 Fei
 "Got it.
 Thanks."<Close><End of Block>
-<TextBlock 69 w:54 h:4>
+<TextBlock 69 w:48 h:4>
 Captain
-"No need for thanks.<New>
-Maybe you can buy something
-from our Gear shop.
-Looks like there be some
-new booty to sell."<Close><End of Block>
+"No need to thank us.<New>
+Well,<Delay 10> if you feel a
+little bit indebted you
+could buy something from
+our Gear shop.<New>
+Looks like there may be
+some new booty on sale."<Close><End of Block>
 <TextBlock 70 w:48 h:3>
 Captain
 "Feel free to come back

@@ -219,191 +219,226 @@ Margie
 "Go ahead...
 Go chase after her!<Delay 10>
 What are you waiting for?"<Close><End of Block>
-<TextBlock 44 w:54 h:4>
+<TextBlock 44 w:46 h:4>
 Citan
-"So...<Delay 10>
-There is only one gate left
+"So...<Delay 10> This means there
+is only one Gate left
 on the surface..."<Close><End of Block>
-<TextBlock 45 w:38 h:3>
+<TextBlock 45 w:26 h:4>
 Bart
-"The problem is its
-location."<Close><End of Block>
-<TextBlock 46 w:50 h:4>
+"The problem
+is, where is
+it located?"<Close><End of Block>
+<TextBlock 46 w:48 h:4>
 Fei
-"But Queen Zephyr said
-there are three on earth,
-and one in Solaris..."<Close><End of Block>
-<TextBlock 47 w:40 h:3>
+"Queen Zephyr said three
+were on the surface, and
+one in Solaris..."<Close><End of Block>
+<TextBlock 47 w:46 h:4>
 Sigurd
-"According to
-Shakhan's report,<New>
-each gate is
-placed in a triangle
-around Solaris..."<Close><End of Block>
-<TextBlock 48 w:48 h:3>
+"The Gates are laid out
+so as to form an equi-
+lateral triangle shape,<New>
+in the center of which
+is Solaris.<Delay 20>
+Or so Shakhan's report
+indicates..."<Close><End of Block>
+<TextBlock 48 w:36 h:4>
 Citan
-"Let us look at the map
-given by the Queen,<New>
-which describes the area
-before the gates were
-placed."<Close><End of Block>
-<TextBlock 49 w:52 h:3>
+"Let us take a
+look at the map
+the Queen gave us,<New>
+which is from
+before the Gates
+were placed."<Close><End of Block>
+<TextBlock 49 w:38 h:3>
 Bart
-"What if we try both ways?
-Isn't that all it takes?"<Close><End of Block>
-<TextBlock 50 w:50 h:4>
+"Why don't we just
+check out both?"<Close><End of Block>
+<TextBlock 50 w:52 h:4>
 Sigurd
-"That would be difficult.
+"That could be
+complicated.<New>
 I doubt they expected the
-2nd gate to be destroyed.<New>
-So I'm sure they'll be
-serious next time.<Delay 10>
+second Gate to be destroy-
+ed. So I'm sure they'll
+get serious next time.<New>
 We'd better plan it
-carefully but quickly."<Close><End of Block>
-<TextBlock 51 w:50 h:4>
+carefully, but quickly."<Close><End of Block>
+<TextBlock 51 w:42 h:3>
 Citan
-"In any case, we will not
-be able to avoid 
-Geburah, will we?"<Close><End of Block>
+"In any case,<New>
+we can count on there
+being interference
+from Geburah."<Close><End of Block>
 <TextBlock 52 w:36 h:4>
 Fei
 "Doc,<Delay 10> Elly,<Delay 10> where
 exactly is Solaris
 located?"<Close><End of Block>
-<TextBlock 53 w:46 h:3>
+<TextBlock 53 w:42 h:4>
 Elly
-"There is only a map of
-Solaris in Solaris.<New>
-I didn't even know the
-area of this land until
-I arrived here."<Close><End of Block>
-<TextBlock 54 w:34 h:2>
+"In Solaris there are
+only maps of Solaris.<New>
+I didn't even know
+the different areas
+on the surface until
+after coming here."<Close><End of Block>
+<TextBlock 54 w:28 h:3>
 Fei
-"Even in Geburah?"<Close><End of Block>
-<TextBlock 55 w:48 h:4>
+"Even Geburah
+don't know?"<Close><End of Block>
+<TextBlock 55 w:46 h:4>
 Elly
-"The relations with
-earth are only revealed 
-to commanders."<Close><End of Block>
+"Its exact location
+relative to the surface
+is only revealed to<New>
+those of quite high
+rank <--> commander-in-
+chief or above."<Close><End of Block>
 <TextBlock 56 w:46 h:4>
 Bart
 "If that's the case,
-even Billy's father may
-not know it."<Close><End of Block>
-<TextBlock 57 w:50 h:3>
+even Billy's dad
+probably doesn't know."<Close><End of Block>
+<TextBlock 57 w:48 h:3>
 Sigurd
-"Jesiah left there in the
-middle of it."<Close><End of Block>
-<TextBlock 58 w:50 h:4>
+"Jesiah left before he
+could attain that rank."<Close><End of Block>
+<TextBlock 58 w:42 h:4>
 Citan
-"Sigurd and I were
-smugglers<New>
-and did not have the time
-to look out the window.<New>
+"And Sigurd and
+I were stowaways.<New>
+We did not have the
+luxury of looking
+out the window.<New>
 On top of that,
-when going through the
-gate from Solaris,<New>
-we transferred to other
-places by using the
-environmental plane
-between each gate.<New>
-Remember when we made
-contact with the Kislev
-gate in the Goliath?<New>
-The same thing happens
-and we lose all sense of
-where we were before."<Close><End of Block>
-<TextBlock 59 w:52 h:4>
+as you exit the Gate
+out of Solaris you
+'jump' to some other<New>
+place entirely <-->
+an effect of crossing
+the boundary between
+two Gates.<New>
+You may recall when
+Kislev's Gatekeeper-
+equipped vessel,<New>
+the Goliath<Delay 5>...umm<Delay 5>...
+'touched down' upon
+this one.<New>
+Similar to that, one
+loses all sense of
+where they had just
+been."<Close><End of Block>
+<TextBlock 59 w:42 h:4>
 Fei
-"Even if the gate divides
-the other space, can't you
-recognize its topography?<New>
-Like mountains, jungles
-and so on?"<Close><End of Block>
-<TextBlock 60 w:54 h:3>
+"Even if it is split
+off from other places
+by the Gates,<New>
+don't you at least
+have a sense of the
+surrounding terrain?<New>
+Like is there a
+mountain range,
+or is it covered
+by jungle?"<Close><End of Block>
+<TextBlock 60 w:46 h:3>
 Elly
-"...I don't think<Delay 10> there
+"...I don't<Delay 10> think there
 were mountains.<New>
-More like we were
-surrounded by the ocean..."<Close><End of Block>
+It was more like the
+ocean was all around."<Close><End of Block>
 <TextBlock 61 w:46 h:4>
 Bart
-"Ocean...<Delay 20>
-Then it can't be the
-north?<New>
-This is the pole. It's
-all covered with snow."<Close><End of Block>
+"The ocean, huh...?<Delay 20>
+So doesn't that rule
+out the north?<New>
+That way's the pole,
+right?<Delay 10> It's snow that'd
+be all around, never
+mind the ocean."<Close><End of Block>
 <TextBlock 62 w:54 h:4>
 Fei
-"Then it's settled.<Delay 10>
-The location of the gate
-is south of here.<New>
-The center of the triangle
-is only the ocean.<New>
-If the gates are placed
-in the highest point in the
-north, the center will be
-the continent.<New>
-Hence, it coincides with
-Elly's story."<Close><End of Block>
-<TextBlock 63 w:38 h:2>
+"Then the Gate's location
+has got to be in the south.<New>
+In this triangle, there'd
+be nothing but ocean at the
+center.<Delay 10> That would fit with
+what Elly just told us.<New>
+Whereas, if the Gate was
+positioned at the northern
+point, then the center
+would be over a continent."<Close><End of Block>
+<TextBlock 63 w:26 h:3>
 Citan
-"You may be right."<Close><End of Block>
-<TextBlock 64 w:50 h:4>
+"I think you
+are right."<Close><End of Block>
+<TextBlock 64 w:44 h:4>
 Sigurd
-"Wait a minute.<Delay 10> There
-shouldn't be any facility
-over the ocean."<Close><End of Block>
+"Wait a minute.<New>
+I'm pretty sure there
+are no structures of
+that kind on the water
+around there."<Close><End of Block>
 <TextBlock 65 w:38 h:2>
 Elly
-"Then, underwater?"<Close><End of Block>
-<TextBlock 66 w:50 h:4>
+"Underwater, then?"<Close><End of Block>
+<TextBlock 66 w:48 h:4>
 Sigurd
 "Hmm...<Delay 10>
-But the whole area around
-here is deep.<New>
-If it exists,
-it must be deep down."<Close><End of Block>
+But the whole region
+is an ocean trench.<New>
+If it is there, it could
+be very deep down..."<Close><End of Block>
 <TextBlock 67 w:46 h:4>
 Fei
-"The Yggdrasil is a
-submarine, right?<Delay 10> Then,
-what's the problem?"<Close><End of Block>
-<TextBlock 68 w:52 h:4>
+"The Yggdrasil is
+a submarine, right?<Delay 10>
+So what's the problem?"<Close><End of Block>
+<TextBlock 68 w:44 h:4>
 Bart
-"You're crazy!
-It is a submarine but
+"Are you crazy!?
+It's a submarine,
 not a bathyscaphe.<New>
-It isn't made for deep
-sea exploration. The water
-pressure would crush us
-instantaneously."<Close><End of Block>
-<TextBlock 69 w:44 h:2>
+It can't dive to those
+sorts of depths. The
+water pressure would
+crush us instantly."<Close><End of Block>
+<TextBlock 69 w:38 h:2>
 Fei
-"We have a problem..."<Close><End of Block>
-<TextBlock 70 w:52 h:4>
+"Beats me, then..."<Close><End of Block>
+<TextBlock 70 w:38 h:4>
 Citan
-"We may be able to use the
-bathyscaphes or Gears used
-by the Salvagers..."<Close><End of Block>
-<TextBlock 71 w:24 h:4>
+"It might just be
+manageable...<New>
+if we could use the
+bathyscaphes or the
+Gears that the
+salvagers use..."<Close><End of Block>
+<TextBlock 71 w:30 h:4>
 Bart
-"'Salvager'?
+"The salvagers?<Delay 20>
 Right!<Delay 10>
 That's it!"<Close><End of Block>
 <TextBlock 72 w:4 h:1>
 ??<Close><End of Block>
-<TextBlock 73 w:52 h:3>
+<TextBlock 73 w:46 h:3>
 Bart
-"The captain of the Tamuz
-must have tons of them.<New>
-He owes us from last time.<Delay 10>
-Let's go to the Tamuz."<Close><End of Block>
-<TextBlock 74 w:42 h:4>
+"If we visit the
+captain of the Tamuz,<New>
+I bet he'll have
+stuff like that
+just lying around!<New>
+And he owes us for
+the other day.<Delay 10>
+Let's go to the Tamuz!"<Close><End of Block>
+<TextBlock 74 w:38 h:4>
 Citan
-"It may be our best
-choice for now. Shall
-we go to the Tamuz?"<Close><End of Block>
+"In the current
+situation, that may
+be our best shot.<New>
+Shall we go to the
+Tamuz?"<Close><End of Block>
 <TextBlock 75 w:50 h:4>
 Citan
 "Fei<Delay 5>...<Delay 10>is it not the time

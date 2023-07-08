@@ -2,8 +2,8 @@
 Nothing.<Close><End of Block>
 <TextBlock 2 w:54 h:1>
 The treasure box was empty.<Close><End of Block>
-<TextBlock 3 w:52 h:1>
-I heard a sound somewhere.<Close><End of Block>
+<TextBlock 3 w:48 h:1>
+Heard a sound somewhere.<Close><End of Block>
 <TextBlock 4 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

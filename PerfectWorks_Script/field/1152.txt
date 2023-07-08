@@ -629,172 +629,152 @@ may be realized."<Close><End of Block>
 <TextBlock 125 w:48 h:2>
 Cherubina
 "Well then, we are off."<Close><End of Block>
-<TextBlock 126 w:36 h:2>
-One surface gate
-remains, then.<Close><End of Block>
-<TextBlock 127 w:38 h:2>
-Cursed Ramsus, to 
-fail to defend them 
-is<Delay 5>...<Close><End of Block>
-<TextBlock 128 w:44 h:2>
-For what purpose
-does he exist<Delay 5>...<Close><End of Block>
-<TextBlock 129 w:50 h:3>
+<TextBlock 126 w:40 h:2>
+So, a single surface
+Gate remains.<Close><End of Block>
+<TextBlock 127 w:28 h:4>
+Damn Ramsus,
+failing to
+defend them<Delay 5>...<Close><End of Block>
+<TextBlock 128 w:26 h:2>
+Just what use
+is he<Delay 5>...?<Close><End of Block>
+<TextBlock 129 w:42 h:4>
 'Trash' is 'trash',
-after all. What can one
-expect from such a thing
-as him?<Close><End of Block>
+after all. What else
+can we expect from
+such a thing?<Close><End of Block>
 <TextBlock 130 w:42 h:4>
-But<Delay 5> we cannot
-allow them to align
-before the 'Animus'<Delay 5> 
-data is collected.<Close><End of Block>
-<TextBlock 131 w:34 h:4>
-Correct.<New>
-And so the
-probability that
-the proper 
-type<New>
-will be 
-unobtainable
-grows higher.<Close><End of Block>
+But<Delay 5> we cannot risk
+alignment before the
+Animus data is
+retrieved.<Close><End of Block>
+<TextBlock 131 w:40 h:4>
+Indeed.<Delay 20> Making it
+more likely that the
+proper type will be
+unobtainable.<Close><End of Block>
 <TextBlock 132 w:32 h:2>
-As it did in the
+As it was in the
 past<Delay 5>...<Close><End of Block>
-<TextBlock 133 w:42 h:2>
-We cannot set the 
-ignorant Lambs free 
-yet.<Close><End of Block>
-<TextBlock 134 w:40 h:3>
+<TextBlock 133 w:38 h:2>
+We must not yet set
+the flock free.<Close><End of Block>
+<TextBlock 134 w:36 h:3>
 Karellen
-"The fate of the
-gate is irrelevant,
-is it not?"<Close><End of Block>
+"What do the Gates
+matter?"<Close><End of Block>
 <TextBlock 135 w:22 h:1>
 Karellen<Delay 5>...<Close><End of Block>
-<TextBlock 136 w:40 h:3>
-We cannot allow 
-that.<Delay 5><New>
-The panic will 
-spread even here 
-to Etemenanki.<Close><End of Block>
-<TextBlock 137 w:40 h:4>
+<TextBlock 136 w:38 h:3>
+It simply won't do.<New>
+The unrest is
+spreading even
+here to Etemenanki.<Close><End of Block>
+<TextBlock 137 w:42 h:3>
 Karellen
-"Those empty-headed 
-masses known as 
-citizens<New>
-can be easily 
-controlled by 
-the slightest 
-word<New>
-from the 
-Emperor."<Close><End of Block>
-<TextBlock 138 w:36 h:2>
-Can we expect
-Cain to accept?<Close><End of Block>
-<TextBlock 139 w:48 h:3>
-His body has already
-reached its limits,
-after all<Delay 5>...<Close><End of Block>
+"A single word from
+their Emperor will<New>
+get the vulgar masses
+we call citizens
+under control."<Close><End of Block>
+<TextBlock 138 w:34 h:3>
+You really think
+Cain will agree
+to that?<Close><End of Block>
+<TextBlock 139 w:40 h:3>
+That fleshly form is
+already reaching its
+limits<Delay 5>...<Close><End of Block>
 <TextBlock 140 w:50 h:4>
 Karellen
-"A dummy<Delay 5> will
-suffice, as usual.<New>
-Those fools will 
-not recognise the 
-difference.<New>
-What's more<Delay 5> even if 
-the gate is breached,<New>
-behaving as before will
-not draw any attention 
-to it.<New>
-More importantly<Delay 5>...<Delay 5>
-There was something 
-extraordinarily 
-interesting<New>
-in the report
+"As usual,<Delay 5> a dummy will
+suffice.<Delay 10> Those fools will
+not know the difference.<New>
+Besides,<Delay 5> even if the Gate
+is breached, things won't
+go the same way they did
+before.<New>
+More importantly<Delay 5>...<New>
+There was something
+extraordinarily
+interesting in the report
 from the memory cubes."<Close><End of Block>
-<TextBlock 141 w:34 h:1>
-And what is 
+<TextBlock 141 w:24 h:2>
+And what was
 that?<Close><End of Block>
-<TextBlock 142 w:30 h:2>
+<TextBlock 142 w:28 h:2>
 Karellen
-"The 'mother'."<Close><End of Block>
-<TextBlock 143 w:26 h:1>
-The 'mother',
+"The Mother."<Close><End of Block>
+<TextBlock 143 w:22 h:2>
+Mother,
 you say...?<Close><End of Block>
-<TextBlock 144 w:46 h:3>
+<TextBlock 144 w:42 h:3>
 Karellen
-"Indeed.<New>
+"That's right.<New>
 It appears that the
-'mother'<Delay 5> exists
-among those Lambs."<Close><End of Block>
+Mother exists among
+that group of Lambs."<Close><End of Block>
 <TextBlock 145 w:36 h:3>
-Meaning that<Delay 5>
-there are other 
-entities of<Delay 5> 
-our 'mother'?<Delay 5><New>
-Why did we
-not become
-aware of this 
-until now<Delay 5>...<Delay 5>?<Close><End of Block>
-<TextBlock 146 w:40 h:4>
+You mean<Delay 5> there is
+a further instance<Delay 5>
+of our Mother?<New>
+Why has this not
+been noticed until
+now<Delay 5>...<Delay 5>?<Close><End of Block>
+<TextBlock 146 w:44 h:4>
 Karellen
-"The sign of the
-'mother'<Delay 5>...<New>
-The 'mother' persona
-appears only after
-reaching a certain
+"Because signs of
+the Mother<Delay 5> <--> the
+Mother 'Persona' <--><New>
+do not appear until
+she reaches a certain
 age<Delay 5>...<New>
-And there is a high
-likelihood that this
-is the reincarnation
-of the 'Antitype'."<Close><End of Block>
-<TextBlock 147 w:50 h:2>
-The 'Antitype'<Delay 5>...<Delay 5>
-That woman from Nisan,<Delay 5>
-then...<Delay 5>?<Close><End of Block>
-<TextBlock 148 w:48 h:4>
+Also, there is a high
+probability that this
+one is a reincarnation
+of the Antitype."<Close><End of Block>
+<TextBlock 147 w:42 h:2>
+The Antitype<Delay 5>...<Delay 5>
+The woman of Nisan<Delay 5>...<Close><End of Block>
+<TextBlock 148 w:46 h:4>
 Karellen
-"That was her<Delay 5>...<Delay 5><New>
-I think we should use
-that product of Zeboim
-nanotechnology,<Delay 5><New>
-'Emeralda'."<Close><End of Block>
-<TextBlock 149 w:36 h:3>
+"Therefore<Delay 5>...<New>
+I think we shall make
+use of 'Emeralda',<Delay 5> that
+product of Zeboim's
+nanotechnology."<Close><End of Block>
+<TextBlock 149 w:32 h:4>
 That which you
 recovered from
-the Tamuz?<Delay 5>
+near the Tamuz?<Delay 5>
 Why?<Close><End of Block>
 <TextBlock 150 w:54 h:4>
 Karellen
-"For confirmation.<Delay 15><New>
-As the 'mother'<Delay 5> says,
-that colony of 
-nanomachines<Delay 5>...<New>
-That artificial lifeform,<Delay 5>
-was created by the 
-'Contact'<Delay 5><New>
-and the 'Antitype'<Delay 5> 
+"For confirmation.<New>
+As the Mother says,<Delay 5> that
+colony of nanomachines...<Delay 5>
+that artificial lifeform...<New>
+was apparently created by
+the ones who were the
+Contact and the Antitype.<Delay 5> 
 4000 years ago."<Close><End of Block>
-<TextBlock 151 w:28 h:2>
-<Delay 5>The 'mother's'
+<TextBlock 151 w:24 h:2>
+The Mother's
 memories<Delay 5>...<Close><End of Block>
-<TextBlock 152 w:54 h:4>
+<TextBlock 152 w:44 h:4>
 Karellen
-"That exactly.<Delay 10><New>
-We can probably obtain
-some kind of 
-reaction.<New>
-Furthermore, even if
-'Emeralda'<Delay 5> is 
-destroyed<Delay 5> without
-obtaining any reaction,<New>
-the data collection on it
-is finished.<New>
-Were we to lose it, that
-would in no way obstruct 
-the plan."<Close><End of Block>
+"Precisely.<Delay 10>
+We should get some
+kind of response.<New>
+And even if 'Emeralda'
+is destroyed without
+getting any response,<New>
+its loss presents no
+obstacle whatsoever
+to the plan.<New>
+Data collection is
+already complete."<Close><End of Block>
 <TextBlock 153 w:38 h:3>
 Cursed Cain<Delay 5>...<Delay 5><New>
 Planning this

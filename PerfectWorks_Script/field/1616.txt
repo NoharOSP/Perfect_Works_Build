@@ -5,34 +5,37 @@ third Gate<Delay 10>...?"<Close><End of Block>
 <TextBlock 2 w:28 h:2>
 Fei
 "Who are you?"<Close><End of Block>
-<TextBlock 3 w:18 h:2>
-I will<Delay 10>...<Delay 20>
-kill <Delay 10>you.<Close><End of Block>
-<TextBlock 4 w:52 h:4>
+<TextBlock 3 w:20 h:3>
+Girl
+"I will<Delay 10>...<Delay 20>
+kill <Delay 10>you."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
 Mysterious Gear
-"How do you do?
+"Pleased to meet you.<Delay 10>
 I am Rattan, one of the
-followers of Karellen.<New>
-Please excuse me, I'd like
-to show you my face but as
-a result of the
-human-machine fusion..."<Close><End of Block>
+followers of Lord Karellen.<New>
+I would have liked to
+show my face if possible,<New>
+but since I have undergone
+human-machine fusion you'll
+have to excuse me."<Close><End of Block>
 <TextBlock 5 w:50 h:4>
 Elly
 "A follower of Karellen!?<Delay 10>
 Not Ramsus or the
 Elements!?"<Close><End of Block>
-<TextBlock 6 w:52 h:3>
+<TextBlock 6 w:50 h:3>
 Citan
-"You are not with Carl? 
-You must have a good 
-reason to be on the 
-surface."<Close><End of Block>
-<TextBlock 7 w:52 h:4>
+"For you to be dispatched
+to the surface instead of
+Carl's group...<New>
+Most unusual."<Close><End of Block>
+<TextBlock 7 w:52 h:3>
 Bart
-"A follower of Karellen?<Delay 10>
-I thought you were working
-for the shiny gold dude."<Close><End of Block>
+"A follower of Karellen?<New>
+Here I was thinking it'd
+be that poser again, doing
+his usual thing."<Close><End of Block>
 <TextBlock 8 w:50 h:3>
 Billy
 "It's not Ramsus?<Delay 10><New>
@@ -44,18 +47,19 @@ Rico
 "Who the hell are you!?
 You don't look like one
 of Ramsus' lackeys."<Close><End of Block>
-<TextBlock 10 w:54 h:4>
+<TextBlock 10 w:34 h:4>
 <Chu-Chu>
-"You're Geburah, aren't chu?<Delay 10>
-Where's the usual cute
-one?"<Close><End of Block>
-<TextBlock 11 w:50 h:3>
+"Are you Geburah?<Delay 10>
+Where's the usual
+cute guy?"<Close><End of Block>
+<TextBlock 11 w:42 h:4>
 Maria
-"I knew it wasn't
-an Element.<New>
-Yes...<Delay 20>that Gear is an
-evolved version of
-<Seibzehn> and Achtzehn!"<Close><End of Block>
+"So it's not
+Ramsus, after all.<New>
+I see...<Delay 20> That Gear is
+like <Seibzehn> and
+Achtzehn, only more
+advanced!"<Close><End of Block>
 <TextBlock 12 w:52 h:4>
 Rattan
 "Our current task is
@@ -74,29 +78,33 @@ take care of you."<Close><End of Block>
 <TextBlock 13 w:38 h:2>
 Emeralda
 "...<Delay 10>...<Delay 20>Kill...<Delay 10>you."<Close><End of Block>
-<TextBlock 14 w:34 h:3>
+<TextBlock 14 w:30 h:3>
 Emeralda
-"Ki...<Delay 10>...<Delay 10>m<Delay 10>...<Delay 10>?<Delay 30>
-Ah, ah-a-a, I..."<Close><End of Block>
-<TextBlock 15 w:52 h:4>
+"Ki...<Delay 10>...<Delay 10>m<Delay 10>...?<Delay 10>
+I...<Delay 30> I..."<Close><End of Block>
+<TextBlock 15 w:46 h:4>
 Rattan
-"...I see...<Delay 10>
-Reckless...<Delay 20>now that...<New>
-You should view it as a
-release of...<Delay 10>memory,
-<Delay 10>or maybe a recording.<New>
-It turned out just as
-Karellen said...<New>
-It is a manifestation of
-the imprinting.
-At any rate, it is proven.
-With that, excuse me.<New>
-I must report the results.
-Oh yes, <Delay 10>go ahead and take
-the girl.<New>
-Use her anyway you like.
+"Ho ho ho...I see...<Delay 10>
+Not exactly a wild
+rampage, was it?<New>
+This is<Delay 10> a memory...<Delay 10>
+Or rather, a record.<New>
+I must regard it as
+a record-retrieving
+phenomenon.<New>
+The results are just as
+Lord Karellen said <-->
+signs of imprinting
+were clear.<New>
+Anyway, it is proven.<Delay 10>
+With that, please
+excuse me. I must
+report the results.<New>
+Oh yes <--><Delay 10> I'll leave
+the girl with you, to
+use as you see fit.<New>
 After all, she is your
 'daughter'..."<Close><End of Block>
 <TextBlock 16 w:26 h:2>
-Ah, a
-aha-a-a-a-a!!<Close><Close><End of Block>
+Emeralda
+"A-<Delay 5>A-<Delay 5>Ahhh!!"<Close><Close><End of Block>

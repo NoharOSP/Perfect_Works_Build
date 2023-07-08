@@ -1,43 +1,46 @@
-<TextBlock 1 w:38 h:4>
-Received a telegram
+<TextBlock 1 w:40 h:3>
+Message received
 from Shevat!<New>
-Due to a weakening
-gate, a city that
+On account of the
+weakened influence
+of the Gates,<New>
+it seems a city that
 may be Solaris has
 been discovered!!<Close><End of Block>
-<TextBlock 2 w:36 h:3>
+<TextBlock 2 w:26 h:3>
 Fei
 "...<Delay 10>
-...<Delay 10>Let's...<Delay 10>see..."<Close><End of Block>
-<TextBlock 3 w:40 h:3>
+...<Delay 10>Uhhmm<Delay 10>..."<Close><End of Block>
+<TextBlock 3 w:40 h:2>
 Fei
-"What the hell is it
-saying?"<Close><End of Block>
+"What is it saying?"<Close><End of Block>
 <TextBlock 4 w:18 h:2>
 Fei
 "Huh...?"<Close><End of Block>
 <TextBlock 5 w:30 h:4>
 Fei
-"H-Hey, you.
+"H-Hey you.
 My name is Fei.
 Not Kim."<Close><End of Block>
-<TextBlock 6 w:38 h:2>
+<TextBlock 6 w:26 h:3>
 Fei
-"...Kim is fine..."<Close><End of Block>
-<TextBlock 7 w:30 h:2>
+"...Kim it
+is, then..."<Close><End of Block>
+<TextBlock 7 w:36 h:2>
 Fei
-"...Father?..."<Close><End of Block>
-<TextBlock 8 w:34 h:2>
+"...'Father'...!?"<Close><End of Block>
+<TextBlock 8 w:34 h:3>
 Fei
-"Huh?...Uh yeah."<Close><End of Block>
-<TextBlock 9 w:16 h:2>
+"Huh?<Delay 10>
+...Yeah, right."<Close><End of Block>
+<TextBlock 9 w:26 h:2>
 Fei
-"Hey..."<Close><End of Block>
-<TextBlock 10 w:40 h:4>
+"Hey, now..."<Close><End of Block>
+<TextBlock 10 w:36 h:4>
 Fei
-"Umm... Oh...
-...By the way,
-do you have a name?"<Close><End of Block>
+"Uhh... Oh man...<Delay 10>
+...By the way, do
+you have a name?"<Close><End of Block>
 <TextBlock 11 w:46 h:3>
 Fei
 "Okay, okay.
@@ -48,191 +51,225 @@ time. I promise!"<Close><End of Block>
 <TextBlock 12 w:10 h:2>
 Elly
 "<Delay 10>...<Delay 10>"<Close><End of Block>
-<TextBlock 13 w:36 h:3>
+<TextBlock 13 w:38 h:4>
 Elly
-"Does Fei resemble
-someone you know?"<Close><End of Block>
-<TextBlock 14 w:48 h:3>
+"Does Fei<--><Delay 20> I mean,
+does this person<Delay 10>
+resemble someone?"<Close><End of Block>
+<TextBlock 14 w:42 h:4>
 Elly
-"Kim? The person
-resembling Fei, right?<New>
-Who is he? Is he the one
-who created you?"<Close><End of Block>
+"Kim? Is that
+someone you know,
+who resembles Fei?<New>
+Who is he? Is he the
+one who created you?"<Close><End of Block>
 <TextBlock 15 w:44 h:4>
 Elly
-"It seems you resemble
-him. Someone important
-to her<Delay 24>...<New>
-probably the person
+"Seems like you
+resemble him. Someone
+important to her...<New>
+Perhaps the person
 who created her..."<Close><End of Block>
-<TextBlock 16 w:18 h:2>
+<TextBlock 16 w:30 h:2>
 Elly
-"Really."<Close><End of Block>
-<TextBlock 17 w:38 h:3>
+"Really truly."<Close><End of Block>
+<TextBlock 17 w:30 h:4>
 Elly
-"Old lady...!<New>
-Maybe I should bury
-her back at the
-ocean floor..."<Close><End of Block>
-<TextBlock 18 w:42 h:3>
+"Old la<--><Delay 10>!?<New>
+Maybe I should
+sink her back
+to the bottom
+of the sea..."<Close><End of Block>
+<TextBlock 18 w:46 h:3>
 Elly
-"Why don't you be her
-Kim? The Fei...Kim!!"<Close><End of Block>
+"Let her have her
+Kim, then,<Delay 10> 'Fei-Kim'!!"<Close><End of Block>
 <TextBlock 19 w:10 h:2>
 Elly
 "<Delay 10>...<Delay 10>"<Close><End of Block>
-<TextBlock 20 w:44 h:4>
+<TextBlock 20 w:38 h:4>
 Elly
-"Fei...?<Delay 24>
-You mean, he resembles
-someone you know?"<Close><End of Block>
-<TextBlock 21 w:48 h:3>
+"Does Fei<--><Delay 20> I mean,
+does this person<Delay 10>
+resemble someone?"<Close><End of Block>
+<TextBlock 21 w:42 h:4>
 Elly
-"Kim? The person
-resembling Fei, right?<New>
-Who is he? Is he the one
-who created you?"<Close><End of Block>
-<TextBlock 22 w:42 h:4>
+"Kim? Is that
+someone you know,
+who resembles Fei?<New>
+Who is he? Is he the
+one who created you?"<Close><End of Block>
+<TextBlock 22 w:44 h:4>
 Elly
-"Sounds like you
+"Seems like you
 resemble him. Someone
 important to her...<New>
-probably the person
+Perhaps the person
 who created her..."<Close><End of Block>
-<TextBlock 23 w:18 h:2>
+<TextBlock 23 w:30 h:2>
 Elly
-"Really."<Close><End of Block>
-<TextBlock 24 w:38 h:3>
+"Really truly."<Close><End of Block>
+<TextBlock 24 w:30 h:4>
 Elly
-"Old lady...!<New>
-Maybe I should bury
-her back at the
-ocean floor..."<Close><End of Block>
-<TextBlock 25 w:42 h:3>
+"Old la<--><Delay 10>!?<New>
+Maybe I should
+sink her back
+to the bottom
+of the sea..."<Close><End of Block>
+<TextBlock 25 w:46 h:3>
 Elly
-"Why don't you be her
-Kim? The Fei...Kim!!"<Close><End of Block>
-<TextBlock 26 w:48 h:3>
-Kim! Kim! Kim! Kim! Kim!
-Kim! Kim! Kim! Kim! Kim!
-Kim! Kim!<Close><End of Block>
-<TextBlock 27 w:46 h:2>
-What do you mean by
-'resemble'? Kim is Kim?<Close><End of Block>
-<TextBlock 28 w:38 h:4>
-What do you mean by
-'creating me'?
-Kim is Kim!
-Don't you see?<Close><End of Block>
-<TextBlock 29 w:50 h:4>
-Kim! Kim! Kim! Kim! Kim!
-Kim! You're really here!
-I thought I was dreaming.
-The person in my dream.<New>
-Yes, Kim! I was dreaming!
-A long long dream.<Close><End of Block>
-<TextBlock 30 w:44 h:3>
-Now I know, Fei's Kim!<New>
-Listen, listen, I was
-dreaming! A long long
-dream!<Close><End of Block>
-<TextBlock 31 w:50 h:3>
-Listen, listen, Kim!
-I was dreaming about
-really old times.<New>
-Kim was much older,
-and I was in some clear
-tube...<New>
-Kim was...putting many
-candles on a white soft
-confection...<New>
-I didn't know why he
-was doing that...<New>
-But I sensed he was
-looking forward to me
-coming out of the tube...<Close><End of Block>
-<TextBlock 32 w:46 h:4>
-<Delay 24>...<Delay 24>
-But...soon everyone...
-was gone...
-My body disappeared...<New>
-Then I was in somewhere
-dark for a long...
-long time...<Close><End of Block>
-<TextBlock 33 w:44 h:2>
-Please! Promise you'll
-stay, Fei's Kim!?<Close><End of Block>
-<TextBlock 34 w:26 h:1>
-Really?<New>
-Really truly?<Close><End of Block>
-<TextBlock 35 w:42 h:2>
-Don't bother me!
-Who is this old lady?<New>
-I'm talking to Kim!<Close><End of Block>
-<TextBlock 36 w:44 h:4>
-Oh no! You're cruel,
-Fei's Kim!<New>
-It's me, Emeralda,
-Emeralda!
-Kim named me because
-I have emerald hair!<New>
-Don't you remember...?<Close><End of Block>
-<TextBlock 37 w:44 h:3>
+"Let her have her
+Kim, then,<Delay 10> 'Fei-Kim'!!"<Close><End of Block>
+<TextBlock 26 w:50 h:4>
 Emeralda
-"Really?<Delay 24> Really truly?<Delay 32>
-Yeah!"<Close><End of Block>
-<TextBlock 38 w:50 h:3>
+"Kim! Kim! Kim! Kim! Kim!
+Kim! Kim! Kim! Kim! Kim!
+Kim! Kim!"<Close><End of Block>
+<TextBlock 27 w:32 h:4>
+Emeralda
+"What do you
+mean 'resemble'?<Delay 10>
+Kim is Kim?"<Close><End of Block>
+<TextBlock 28 w:34 h:3>
+Emeralda
+"What do you mean
+'created me'?<New>
+Kim is Kim!
+Don't you see?"<Close><End of Block>
+<TextBlock 29 w:50 h:3>
+Emeralda
+"Kim! Kim! Kim! Kim! Kim!
+Kim! Kim! You were real!<New>
+I thought it was a dream.
+That you were a person
+in my dream.<New>
+Yes, Kim! Listen!
+I was dreaming!
+A long long dream."<Close><End of Block>
+<TextBlock 30 w:42 h:3>
+Emeralda
+"Okay, I understand,<Delay 20>
+Fei-Kim!<New>
+Listen, listen,
+I was dreaming!
+A long lo~ng dream!"<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Emeralda
+"Hey, Kim! Listen,
+listen! I was dreaming
+about long, long ago.<New>
+Kim is more grown-up,
+and I am in some kind
+of clear tube...<New>
+Kim is...putting many
+candles on a soft,
+white confection...<New>
+I wonder what he is
+doing, but...<New>
+But somehow I know he
+is waiting for me...
+really looking forward to
+me getting out of here..."<Close><End of Block>
+<TextBlock 32 w:44 h:4>
+Emeralda
+"...<Delay 24>...<Delay 24>But...
+before I know it...
+everyone is gone...<New>
+And me, I lose
+my body...<New>
+Then I am alone in
+some dark place for
+a long...long time..."<Close><End of Block>
+<TextBlock 33 w:42 h:3>
+Emeralda
+"You won't disappear?<Delay 10>
+Right, Fei-Kim!?"<Close><End of Block>
+<TextBlock 34 w:28 h:3>
+Emeralda
+"Really?<Delay 20>
+Really truly?"<Close><End of Block>
+<TextBlock 35 w:44 h:4>
+Emeralda
+"Will you be quiet!
+Who are you, old lady?
+I'm talking to Kim!"<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+Emeralda
+"Awwww!
+That's cruel, Fei-Kim!<New>
+It's Emeralda. Emeralda!
+Kim named me that because
+I have emerald hair!<New>
+I guess you forgot..."<Close><End of Block>
+<TextBlock 37 w:28 h:4>
+Emeralda
+"Really?<Delay 24>
+Really truly?<Delay 32>
+Yay!"<Close><End of Block>
+<TextBlock 38 w:46 h:4>
 Citan
-"For her, 'Kim' means
-more than just a name.<New>
-...More like...'father'."<Close><End of Block>
-<TextBlock 39 w:44 h:3>
+"It seems that, to her,
+the word 'Kim' is more
+than just a name.<New>
+...Not unlike 'father',
+for instance."<Close><End of Block>
+<TextBlock 39 w:38 h:4>
 Citan
-"No, no, I mean it has
-general meaning."<Close><End of Block>
-<TextBlock 40 w:52 h:4>
+"Oh,<Delay 5> no,<Delay 5> I just
+mean it has general
+significance."<Close><End of Block>
+<TextBlock 40 w:50 h:4>
 Citan
-"...I doubt Karellen acted
-on his own to use her as a
-disposable soldier.<New>
-Some information existed
-in her which passed over
-to Karellen.<New>
+"...I doubt that
+Karellen personally
+went to all that trouble<New>
+just to use her once
+as a common soldier.<New>
+It would be safe to
+assume that he now has
+his hands on some kind
+of key information.<New>
 Who knows what he will
-do next.
-We must find Solaris
-before that happens..."<Close><End of Block>
+do next...?<Delay 10> We must
+determine the location of
+Solaris before that..."<Close><End of Block>
 <TextBlock 41 w:34 h:2>
 Citan
 "Perfect!!<New>
-Let us go back to
+Let us return to
 Shevat for now!"<Close><End of Block>
-<TextBlock 42 w:50 h:3>
+<TextBlock 42 w:46 h:4>
 Citan
-"For her, 'Kim' means
-more than just a name.<New>
-...More like...'father'."<Close><End of Block>
-<TextBlock 43 w:44 h:3>
+"It seems that, to her,
+the word 'Kim' is more
+than just a name.<New>
+...Not unlike 'father',
+for instance."<Close><End of Block>
+<TextBlock 43 w:38 h:4>
 Citan
-"No, no, I mean it has
-general meaning."<Close><End of Block>
-<TextBlock 44 w:52 h:4>
+"Oh,<Delay 5> no,<Delay 5> I just
+mean it has general
+significance."<Close><End of Block>
+<TextBlock 44 w:50 h:4>
 Citan
-"...I doubt Karellen acted
-on his own to use her as a
-disposable soldier.<New>
-Some information existed
-in her which passed over
-to Karellen.<New>
+"...I doubt that
+Karellen personally
+went to all that trouble<New>
+just to use her once
+as a common soldier.<New>
+It would be safe to
+assume that he now has
+his hands on some kind
+of key information.<New>
 Who knows what he will
-do next.
-We must find Solaris
-before that happens..."<Close><End of Block>
-<TextBlock 45 w:48 h:4>
+do next...?<Delay 10> We must
+determine the location of
+Solaris before that..."<Close><End of Block>
+<TextBlock 45 w:34 h:2>
 Citan
-"Perfect!!
-Let us go back to Shevat
-for now!"<Close><End of Block>
+"Perfect!!<New>
+Let us return to
+Shevat for now!"<Close><End of Block>
 <TextBlock 46 w:36 h:3>
 Bart
 "Thanks for saving

@@ -69,10 +69,10 @@ topography of the world.<New>
 The location of the Gate
 has to be somewhere on
 this map."<Close><End of Block>
-<TextBlock 30 w:68 h:2>
+<TextBlock 30 w:64 h:2>
 Citan
 "Now, the Ignas Gate is<Delay 5>...<Delay 10>here."<Close><End of Block>
-<TextBlock 31 w:40 h:3>
+<TextBlock 31 w:42 h:3>
 Citan
 "The Church HQ in
 Aquvy is here, so..."<Close><End of Block>
@@ -81,10 +81,10 @@ Fei
 "Well, thinking logically,
 the next position could be
 either here..."<Close><End of Block>
-<TextBlock 33 w:32 h:2>
+<TextBlock 33 w:28 h:2>
 Fei
 "...or here."<Close><End of Block>
-<TextBlock 34 w:54 h:3>
+<TextBlock 34 w:38 h:3>
 Elly
 "North or south...<Delay 20>
 It's fifty-fifty."<Close><Close><End of Block>
