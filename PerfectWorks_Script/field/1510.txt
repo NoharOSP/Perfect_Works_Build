@@ -1,31 +1,30 @@
 <TextBlock 1 w:52 h:2>
-Listen, Hyuga.<Delay 20>
+Hey, Hyuga.<Delay 20>
 I'm going to Solaris, too.<Close><End of Block>
 <TextBlock 2 w:38 h:3>
 Fei
 "You...!?<Delay 20>
 Why are you here!?"<Close><End of Block>
-<TextBlock 3 w:42 h:4>
+<TextBlock 3 w:28 h:4>
 Citan
 "Yes...<Delay 20>
-I will be counting on
-that."<Close><End of Block>
+In that event,
+please do."<Close><End of Block>
 <TextBlock 4 w:54 h:4>
 Jessie
-"Don't misunderstand me.<Delay 20>
-It doesn't mean I'll help
-you.<New>
+"Don't misunderstand.<Delay 20> I'm
+not saying I'll help y'all.<New>
 I don't know what you're
-thinking or trying to
-do...<New>
-But, if you take their
-side, I'll kill you without
-a doubt.<Delay 20> Even from the
-back..."<Close><End of Block>
-<TextBlock 5 w:38 h:3>
+thinking, or what you're
+trying to do...<New>
+But if you side with the
+enemy, I won't hesitate
+to shoot you down.<Delay 20> Even
+from the back, you hear?"<Close><End of Block>
+<TextBlock 5 w:30 h:3>
 Jessie
 "Heh...<Delay 20>
-so discouraging..."<Close><End of Block>
+what a bore..."<Close><End of Block>
 <TextBlock 6 w:52 h:3>
 Wiseman
 "Fei,

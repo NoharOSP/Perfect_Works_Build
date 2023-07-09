@@ -80,10 +80,11 @@ Fei
 "Tch, alright...<Delay 20> Don't come
 crying to me when things
 get outta hand."<Close><End of Block>
-<TextBlock 16 w:52 h:3>
+<TextBlock 16 w:42 h:4>
 Fei
-"I'll go too.<Delay 20> I'm a little
-concerned if it's Elly."<Close><End of Block>
+"I'll go too.<Delay 20>
+Otherwise I'd just be
+worrying about Elly."<Close><End of Block>
 <TextBlock 17 w:28 h:3>
 Elly
 "Y-You're...<Delay 20>
@@ -183,15 +184,15 @@ go meet them later?"<Close><End of Block>
 Maria
 "Your Majesty, I will go
 with <Seibzehn>!"<Close><End of Block>
-<TextBlock 32 w:28 h:3>
+<TextBlock 32 w:26 h:3>
 Maria
-"Fine...<Delay 20>
-I understand."<Close><End of Block>
-<TextBlock 33 w:48 h:4>
+"If I must...<Delay 20>
+Understood."<Close><End of Block>
+<TextBlock 33 w:38 h:4>
 Maria
 "Yes!<Delay 20>
-<Seibzehn> is ready to
-go any time!"<Close><End of Block>
+<Seibzehn> is ready
+to go anytime!"<Close><End of Block>
 <TextBlock 34 w:52 h:3>
 Zephyr
 "Break the Gate and open
@@ -418,16 +419,19 @@ Zephyr
 Zephyr
 "Allow me to put it
 on screen."<Close><End of Block>
-<TextBlock 66 w:54 h:4>
-We are finally able to
-locate and see Solaris
-after destroying the 3
-Gates on the surface.<New>
-However, unless we destroy
-the final main generator on
-the Solaris homeland...<New>
-...we cannot completely
-wipeout their Gate.<Close><End of Block>
+<TextBlock 66 w:48 h:4>
+Zephyr
+"With the three Gates on
+the surface destroyed,<New>
+we are finally able
+to detect Solaris
+from down here.<New>
+However, unless we
+destroy the final
+main generator on
+the Solaris homeland,<New>
+the Gate cannot be
+completely wiped out."<Close><End of Block>
 <TextBlock 67 w:52 h:4>
 It seems the intruder has
 escaped to the hangar bay.<Delay 20>
@@ -487,13 +491,13 @@ she somehow tagged along."<Close><End of Block>
 <TextBlock 80 w:38 h:4>
 Elly
 "Yes...<Delay 20>
-I can guide you...
+I will guide you...
 through Solaris..."<Close><End of Block>
 <TextBlock 81 w:44 h:4>
 Elly
-"What are you...?<Delay 20>
-Wait, I didn't mean it
-like..."<Close><End of Block>
+"What was that?<Delay 20>
+Wait a second!
+I don't need you to<-->"<Close><End of Block>
 <TextBlock 82 w:14 h:3>
 Elly
 "...<Delay 30>
@@ -607,38 +611,43 @@ in wait at the rear."<Close><End of Block>
 Citan
 "Maria, this is where you
 and <Seibzehn> come in.<New>
-Now that the Gate is
-weakened, we can use
-<Seibzehn>'s heavy
-particle cannon...<New>
-...to distort space
+Now that the Gate power
+is weakened, we can use
+<Seibzehn>'s Graviton
+Cannon to distort space<New>
 and neutralize the Gate
 for a brief moment!<New>
-Upon penetrating into
-Solaris, it would be best
-to move about...<New>
-...in small groups so that
-we do not attract
-attention.<New>
-Well, if possible I would
-like to..."<Close><End of Block>
+Upon infiltrating Solaris,
+it would be best to move
+in small groups so that we
+do not attract attention.<New>
+And,<Delay 10> if possible<Delay 10>..."<Close><End of Block>
 <TextBlock 98 w:54 h:3>
 Citan
 "Understood!<New>
-Then Elly, Fei, and I will
-move about together.<New>
+Then Elly, Fei, and I
+will move together.<New>
 The rest will form a
 separate group to sneak in.<New>
-Maria, it looks like you
-and <Seibzehn> will wait
-outside on standby."<Close><End of Block>
-<TextBlock 99 w:46 h:3>
+But, Maria, you will have
+to be on standby outside
+with <Seibzehn>."<Close><End of Block>
+<TextBlock 99 w:44 h:3>
 Citan
-"Well, let us break up
-for now.<New>
-Once you are all ready,
-we should all meet here
-before we take off..."<Close><End of Block>
+"Well, let us
+adjourn for now.<New>
+We do not know what
+is coming, or when
+we might see the
+surface again <--><New>
+it may be a good time
+to tie up any loose
+ends out there.<New>
+Once the preparations
+for take-off are made,
+please assemble back
+here.<New>
+Okay, then..."<Close><End of Block>
 <TextBlock 100 w:52 h:3>
 Are you prepped and ready?
     Let's go!
@@ -647,18 +656,16 @@ Are you prepped and ready?
 Citan
 "Good.<Delay 20>
 Then we are off."<Close><End of Block>
-<TextBlock 102 w:50 h:3>
+<TextBlock 102 w:46 h:4>
 Citan
-"We are depending on you,
-Maria.<New>
+"If you would, Maria.<Delay 20>
 Please transport us to
-Solaris on the
-<Seibzehn>."<Close><End of Block>
+Solaris on <Seibzehn>."<Close><End of Block>
 <TextBlock 103 w:44 h:4>
 Citan
-"Please hurry.<Delay 20>
-We are taking off the
-moment you are ready."<Close><End of Block>
+"Please hurry.<Delay 20> We take
+off as soon as prepar-
+ations are complete."<Close><End of Block>
 <TextBlock 104 w:54 h:3>
 Citan
 "I am sorry.<New>

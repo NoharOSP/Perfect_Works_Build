@@ -1,10 +1,10 @@
-<TextBlock 1 w:46 h:4>
+<TextBlock 1 w:44 h:4>
 Maria
 "I'm coming, Solaris!<New>
-<Seibzehn> and I 
-shall be the dark wings
-which carry you all to
-your deaths!!"<Close><End of Block>
+<Seibzehn> and I shall
+be the black wings
+which bring death
+to you all!!"<Close><End of Block>
 <TextBlock 2 w:30 h:3>
 Nikola
 "<Seibzehn>!!<Delay 20>
@@ -82,9 +82,9 @@ Come on, <Seibzehn>!!"<Close><End of Block>
 Maria
 "...<Delay 20>
 Father..."<Close><End of Block>
-<TextBlock 14 w:50 h:5>
+<TextBlock 14 w:46 h:5>
 Maria
 "<Seibzehn> and I shall
-be the dark wings which
-carry you all to your
-'deaths'!!"<Close><Close><End of Block>
+be the black wings
+which bring death
+to you all!!"<Close><Close><End of Block>
