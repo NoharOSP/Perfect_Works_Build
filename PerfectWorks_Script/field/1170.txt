@@ -121,23 +121,23 @@ Elly
 "Let her have her
 Kim, then,<Delay 10> 'Fei-Kim'!!"<Close><End of Block>
 <TextBlock 26 w:50 h:4>
-Emeralda
+Girl
 "Kim! Kim! Kim! Kim! Kim!
 Kim! Kim! Kim! Kim! Kim!
 Kim! Kim!"<Close><End of Block>
 <TextBlock 27 w:32 h:4>
-Emeralda
+Girl
 "What do you
 mean 'resemble'?<Delay 10>
 Kim is Kim?"<Close><End of Block>
 <TextBlock 28 w:34 h:3>
-Emeralda
+Girl
 "What do you mean
 'created me'?<New>
 Kim is Kim!
 Don't you see?"<Close><End of Block>
 <TextBlock 29 w:50 h:3>
-Emeralda
+Girl
 "Kim! Kim! Kim! Kim! Kim!
 Kim! Kim! You were real!<New>
 I thought it was a dream.
@@ -147,14 +147,14 @@ Yes, Kim! Listen!
 I was dreaming!
 A long long dream."<Close><End of Block>
 <TextBlock 30 w:42 h:3>
-Emeralda
+Girl
 "Okay, I understand,<Delay 20>
 Fei-Kim!<New>
 Listen, listen,
 I was dreaming!
 A long lo~ng dream!"<Close><End of Block>
 <TextBlock 31 w:52 h:4>
-Emeralda
+Girl
 "Hey, Kim! Listen,
 listen! I was dreaming
 about long, long ago.<New>
@@ -171,7 +171,7 @@ is waiting for me...
 really looking forward to
 me getting out of here..."<Close><End of Block>
 <TextBlock 32 w:44 h:4>
-Emeralda
+Girl
 "...<Delay 24>...<Delay 24>But...
 before I know it...
 everyone is gone...<New>
@@ -181,20 +181,20 @@ Then I am alone in
 some dark place for
 a long...long time..."<Close><End of Block>
 <TextBlock 33 w:42 h:3>
-Emeralda
+Girl
 "You won't disappear?<Delay 10>
 Right, Fei-Kim!?"<Close><End of Block>
 <TextBlock 34 w:28 h:3>
-Emeralda
+Girl
 "Really?<Delay 20>
 Really truly?"<Close><End of Block>
 <TextBlock 35 w:44 h:4>
-Emeralda
+Girl
 "Will you be quiet!
 Who are you, old lady?
 I'm talking to Kim!"<Close><End of Block>
 <TextBlock 36 w:50 h:4>
-Emeralda
+Girl
 "Awwww!
 That's cruel, Fei-Kim!<New>
 It's Emeralda. Emeralda!
@@ -338,7 +338,7 @@ in that thing.<Close><End of Block>
 By the way, I heard he
 was the personal knight
 and bodyguard of the
-previous King...<Close><End of Block>
+previous king...<Close><End of Block>
 <TextBlock 58 w:0 h:1>
 <End of Block>
 <TextBlock 59 w:32 h:32>

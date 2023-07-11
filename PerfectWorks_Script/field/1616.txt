@@ -1,7 +1,8 @@
-<TextBlock 1 w:36 h:4>
+<TextBlock 1 w:34 h:4>
 Fei
-"Is this...<Delay 20>the
-third Gate<Delay 10>...?"<Close><End of Block>
+"Here it is <--><Delay 5>
+the third Gate...<Delay 20>
+Hmm...!?"<Close><End of Block>
 <TextBlock 2 w:28 h:2>
 Fei
 "Who are you?"<Close><End of Block>
@@ -62,24 +63,24 @@ Achtzehn, only more
 advanced!"<Close><End of Block>
 <TextBlock 12 w:52 h:4>
 Rattan
-"Our current task is
-totally about inspection
-of the evidence.<New>
-It'll ruin everything if
-someone as dead to the
-world as he appeared here.<New>
-A person who's calm and
-cool like myself would be
-perfect for the job.<New>
-Oh, <Delay 10>but don't worry.
-I'll just be inspecting
-here. Emeralda here, will
-take care of you."<Close><End of Block>
+"The current task is
+simply to confirm a
+hypothesis.<New>
+Assigning it to that
+absent-minded man would
+come to nought.<New>
+So, someone calm and
+collected like myself
+is much more suitable.<New>
+Oh,<Delay 10> and don't worry.
+I am only here to observe.<Delay 10>
+Emeralda there will be
+your adversary."<Close><End of Block>
 <TextBlock 13 w:38 h:2>
-Emeralda
+Girl
 "...<Delay 10>...<Delay 20>Kill...<Delay 10>you."<Close><End of Block>
 <TextBlock 14 w:30 h:3>
-Emeralda
+Girl
 "Ki...<Delay 10>...<Delay 10>m<Delay 10>...?<Delay 10>
 I...<Delay 30> I..."<Close><End of Block>
 <TextBlock 15 w:46 h:4>
@@ -106,5 +107,5 @@ use as you see fit.<New>
 After all, she is your
 'daughter'..."<Close><End of Block>
 <TextBlock 16 w:26 h:2>
-Emeralda
+Girl
 "A-<Delay 5>A-<Delay 5>Ahhh!!"<Close><Close><End of Block>
