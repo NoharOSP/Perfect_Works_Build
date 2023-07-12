@@ -321,6 +321,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - Xenocritus
 - cactusmomma
 - krmine
+- ividyon
 - Nohar
 
 ### Character balance:
