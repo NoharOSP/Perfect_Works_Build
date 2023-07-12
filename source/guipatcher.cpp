@@ -283,6 +283,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				p_monsters = true;
 				p_stats = true;
 				p_arena = true;
+				p_portraits = true;
 			}
 			LRESULT easyticked = SendMessage(easy, BM_GETCHECK, NULL, NULL);
 			if (easyticked == BST_CHECKED) {
@@ -295,6 +296,13 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				p_monsters = true;
 				p_stats = true;
 				p_arena = true;
+			}
+			LRESULT portraitsticked = SendMessage(portraits, BM_GETCHECK, NULL, NULL);
+			if (portraitsticked == BST_CHECKED) {
+				p_portraits = true;
+			}
+			else {
+				p_portraits = false;
 			}
 			patchBoxLock();
 		}
@@ -311,7 +319,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				patchPathValid = true;
 			}
 			SetWindowText(hWnd, L"Preparing...");
-			bool scriptExists = false; 
+			bool scriptExists = false;
 			if (pathFound1) {
 				if (pc1.scriptVerify(path1)) {
 					scriptExists = true;
@@ -327,22 +335,10 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					if (!p_items_spells && !p_script) {
 						if (!scriptExists) {
 							if (pathFound1) {
-								if (!pc1.encountersCheck(path1)) {
-									encountersName1 = "cd1_encounters.ppf";
-								}
-								else {
-									MessageBox(hWnd, L"The encounters patch has already been applied.", L"Error", MB_ICONASTERISK);
-									p_encounters = false;
-								}
+								encountersName1 = "cd1_encounters.xdelta";
 							}
 							if (pathFound2) {
-								if (!pc2.encountersCheck(path2)) {
-									encountersName2 = "cd2_encounters.ppf";
-								}
-								else {
-									MessageBox(hWnd, L"The encounters patch has already been applied.", L"Error", MB_ICONASTERISK);
-									p_encounters = false;
-								}
+								encountersName2 = "cd2_encounters.xdelta";
 							}
 						}
 					}
@@ -351,98 +347,52 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					if (!p_script && !p_items_spells) {
 						if (!scriptExists) {
 							if (pathFound1) {
-								if (!pc1.expgoldCheck(path1)) {
-									expgoldName1 = "cd1_exp_gold.ppf";
-								}
-								else {
-									MessageBox(hWnd, L"The exp/gold patch has already been applied.", L"Error", MB_ICONASTERISK);
-									p_exp_gold = false;
-								}
+								expgoldName1 = "cd1_exp_gold.xdelta";
 							}
 							if (pathFound2) {
-								if (!pc2.expgoldCheck(path2)) {
-									expgoldName2 = "cd2_exp_gold.ppf";
-								}
-								else {
-									MessageBox(hWnd, L"The exp/gold patch has already been applied.", L"Error", MB_ICONASTERISK);
-									p_exp_gold = false;
-								}
+								expgoldName2 = "cd2_exp_gold.xdelta";
 							}
 						}
 					}
 				}
 				if (p_fastnew) {
 					if (pathFound1) {
-						if (!pc1.fastTextCheck(path1, "new")) {
-							fastName1 = "cd1_fast_text_new_script.ppf";
-						}
-						else {
-							MessageBox(hWnd, L"The fast text patch has already been applied.", L"Error", MB_ICONASTERISK);
-						}
+						fastName1 = "cd1_fast_text_new_script.xdelta";
 					}
 					if (pathFound2) {
-						if (!pc2.fastTextCheck(path2, "new")) {
-							fastName2 = "cd2_fast_text_new_script.ppf";
-						}
-						else {
-							MessageBox(hWnd, L"The fast text patch has already been applied.", L"Error", MB_ICONASTERISK);
-						}
+						fastName2 = "cd2_fast_text_new_script.xdelta";
 					}
 					
 				}
 				if (p_fastold) {
 					if (pathFound1) {
-						if (!pc1.fastTextCheck(path1, "old")) {
-							fastName1 = "cd1_fast_text_old_script.ppf";
-						}
-						else {
-							MessageBox(hWnd, L"The fast text patch has already been applied.", L"Error", MB_ICONASTERISK);
-						}
+						fastName1 = "cd1_fast_text_old_script.xdelta";
 					}
 					if (pathFound2) {
-						if (!pc2.fastTextCheck(path2, "old")) {
-							fastName2 = "cd2_fast_text_old_script.ppf";
-						}
-						else {
-							MessageBox(hWnd, L"The fast text patch has already been applied.", L"Error", MB_ICONASTERISK);
-						}
+						fastName2 = "cd2_fast_text_old_script.xdelta";
 					}
 				}
 				if (p_items_spells) {
 					if (p_script || scriptExists) {
 						if (pathFound1) {
-							if (!pc1.itemsCheck(path1, "itemsscript")) {
-								itemspellsName1 = "cd1_items_script.ppf";
-							}
-							else {
-								MessageBox(hWnd, L"The items patch has already been applied.", L"Error", MB_ICONASTERISK);
+							itemspellsName1 = "cd1_items_script.xdelta";
+							if (!pc1.undubCheck(path1)) {
+								fmvName1 = "cd1_fmvs.xdelta";
 							}
 						}
 						if (pathFound2) {
-							if (!pc2.itemsCheck(path2, "itemsscript")) {
-								itemspellsName2 = "cd2_items_script.ppf";
-							}
-							else {
-								MessageBox(hWnd, L"The items patch has already been applied.", L"Error", MB_ICONASTERISK);
+							itemspellsName2 = "cd2_items_script.xdelta";
+							if (!pc1.undubCheck(path2)) {
+								fmvName1 = "cd2_fmvs.xdelta";
 							}
 						}
 					}
 					else {
 						if (pathFound1) {
-							if (!pc1.itemsCheck(path1, "itemsspells")) {
-								itemspellsName1 = "cd1_items_spells.ppf";
-							}
-							else {
-								MessageBox(hWnd, L"The items patch has already been applied.", L"Error", MB_ICONASTERISK);
-							}
+							itemspellsName1 = "cd1_items_spells.xdelta";
 						}
 						if (pathFound2) {
-							if (!pc2.itemsCheck(path2, "itemsspells")) {
-								itemspellsName2 = "cd2_items_spells.ppf";
-							}
-							else {
-								MessageBox(hWnd, L"The items patch has already been applied.", L"Error", MB_ICONASTERISK);
-							}
+							itemspellsName2 = "cd2_items_spells.xdelta";
 						}
 					}
 				}
@@ -450,44 +400,26 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					if (!p_script && !p_items_spells) {
 						if (!scriptExists) {
 							if (pathFound1) {
-								if (!pc1.monstersCheck(path1)) {
-									monsterName1 = "cd1_monster_stats.ppf";
-								}
-								else {
-									MessageBox(hWnd, L"The monsters patch has already been applied.", L"Error", MB_ICONASTERISK);
-									p_monsters = false;
-								}
+								monsterName1 = "cd1_monster_stats.xdelta";
 							}
 							if (pathFound2) {
-								if (!pc2.monstersCheck(path2)) {
-									monsterName2 = "cd2_monster_stats.ppf";
-								}
-								else {
-									MessageBox(hWnd, L"The monsters patch has already been applied.", L"Error", MB_ICONASTERISK);
-									p_monsters = false;
-								}
+								monsterName2 = "cd2_monster_stats.xdelta";
 							}
-						}	
+						}
 					}
 				}
 				if (p_script) {
 					if (!p_items_spells) {
 						if (pathFound1) {
-							if (!pc1.scriptCheck(path1)) {
-								scriptName1 = "cd1_script.ppf";
-							}
-							else {
-								MessageBox(hWnd, L"The script patch has already been applied.", L"Error", MB_ICONASTERISK);
-								p_script = false;
+							scriptName1 = "cd1_script.xdelta";
+							if (!pc1.undubCheck(path1)) {
+								fmvName1 = "cd1_fmvs.xdelta";
 							}
 						}
 						if (pathFound2) {
-							if (!pc2.scriptCheck(path2)) {
-								scriptName2 = "cd2_script.ppf";
-							}
-							else {
-								MessageBox(hWnd, L"The script patch has already been applied.", L"Error", MB_ICONASTERISK);
-								p_script = false;
+							scriptName2 = "cd2_script.xdelta";
+							if (!pc1.undubCheck(path2)) {
+								fmvName2 = "cd2_fmvs.xdelta";
 							}
 						}
 					}
@@ -496,93 +428,129 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					if (!p_items_spells && !p_script) {
 						if (!scriptExists) {
 							if (pathFound1) {
-								if (!pc1.statsCheck(path1)) {
-									statName1 = "cd1_statchanges.ppf";
-								}
-								else {
-									MessageBox(hWnd, L"The stats patch has already been applied.", L"Error", MB_ICONASTERISK);
-									p_stats = false;
-								}
+								statName1 = "cd1_statchanges.xdelta";
 							}
 							if (pathFound2) {
-								if (!pc2.statsCheck(path2)) {
-									statName2 = "cd2_statchanges.ppf";
-								}
-								else {
-									MessageBox(hWnd, L"The stats patch has already been applied.", L"Error", MB_ICONASTERISK);
-									p_stats = false;
-								}
+								statName2 = "cd2_statchanges.xdelta";
 							}
 						}
 					}
 				}
 				if (p_arena) {
-					if (pathFound1) {
-						if (!pc1.arenaCheck(path1)) {
-							arenaName1 = "PWA1.ppf";
-						}
-						else {
-							MessageBox(hWnd, L"The arena patch has already been applied.", L"Error", MB_ICONASTERISK);
+					if (!p_script && !p_items_spells) {
+						if (!scriptExists) {
+							if (pathFound1) {
+								arenaName1 = "cd1_battling_arena.xdelta";
+							}
+							if (pathFound2) {
+								arenaName2 = "cd2_battling_arena.xdelta";
+							}
 						}
 					}
+				}
+				if (p_portraits) {
+					if (pathFound1) {
+						portraitsName1 = "cd1_portraits.xdelta";
+					}
 					if (pathFound2) {
-						if (!pc2.arenaCheck(path2)) {
-							arenaName2 = "PWA2.ppf";
-						}
-						else {
-							MessageBox(hWnd, L"The arena patch has already been applied.", L"Error", MB_ICONASTERISK);
-						}
+						portraitsName2 = "cd2_portraits.xdelta";
 					}
 				}
 				initialisePatchLists();
 				SetWindowText(hWnd, L"Patching...");
+				SetCursor(LoadCursor(NULL, IDC_WAIT));
 				if (pathFound1) {
+					bool patched = false;
+					std::filesystem::current_path(home);
+					std::ofstream batch_file;
+					batch_file.open("commands.cmd", std::ios::trunc);
+					const auto filename = std::filesystem::path{ path1 }.filename().string();
+					for (int i = 0; i < patchList1.size(); i++) {
+						if (patchList1[i] != "") {
+							if (patched) {
+								batch_file << "copy \"Xenogears_PW_CD1.bin\" backup.bin \n" << std::endl;
+								batch_file << "del \"Xenogears_PW_CD1.bin\" \n" << std::endl;
+								batch_file << "xdelta.exe -d  -s backup.bin patches\\" + patchList1[i] + " \"Xenogears_PW_CD1.bin\" \n" << std::endl;
+							}
+							else {
+								changed = true;
+								batch_file << "xdelta.exe -d  -s \"" + filename + "\" patches\\" + patchList1[i] + " \"Xenogears_PW_CD1.bin\" \n" << std::endl;
+								patched = true;
+							}
+						}
+					}
+					batch_file.close();
+					int batch_exit_code = system("cmd.exe /c commands.cmd");
+					remove("commands.cmd");
+					remove("backup.bin");
+					disc1_cue.open("Xenogears_PW_CD1.cue", std::ios::out);
+					disc1_cue << "FILE \"Xenogears_PW_CD1.bin\" BINARY" << "\n";
+					disc1_cue << "  TRACK 01 MODE2/2352" << "\n";
+					disc1_cue << "    INDEX 01 00:00:00" << "\n";
+					disc1_cue.close();
+					std::string newName = "Xenogears_PW_CD1.bin";
+					size_t start_pos = path1.find(filename);
+					path1.replace(start_pos, newName.length(), newName);
+					size_t erasePoint = path1.find(".bin");
+					path1.erase(erasePoint + 4, path1.size() - (erasePoint + 4));
 					pc1.markVersion(path1);
 					pc1.markSubVersion(path1);
 				}
 				if (pathFound2) {
-					pc2.markVersion(path2);
-					pc2.markSubVersion(path2);
-				}
-				SetCursor(LoadCursor(NULL, IDC_WAIT));
-				if (pathFound1) {
-					for (int i = 0; i < patchList1.size(); i++) {
-						if (patchList1[i] != "") {
-							changed = true;
-							PatchProcess pp(hWnd, path1, patchList1[i]);
-						}
-					}
-				}
-				if (pathFound2) {
+					bool patched = false;
+					std::filesystem::current_path(home);
+					std::ofstream batch_file;
+					batch_file.open("commands.cmd", std::ios::trunc);
+					const auto filename = std::filesystem::path{ path2 }.filename().string();
 					for (int i = 0; i < patchList2.size(); i++) {
 						if (patchList2[i] != "") {
-							changed = true;
-							PatchProcess pp(hWnd, path2, patchList2[i]);
+							if (patched) {
+								batch_file << "copy \"Xenogears_PW_CD2.bin\" backup.bin \n" << std::endl;
+								batch_file << "del \"Xenogears_PW_CD2.bin\" \n" << std::endl;
+								batch_file << "xdelta.exe -d  -s backup.bin patches\\" + patchList2[i] + " \"Xenogears_PW_CD2.bin\" \n" << std::endl;
+							}
+							else {
+								changed = true;
+								batch_file << "xdelta.exe -d  -s \"" + filename + "\" patches\\" + patchList2[i] + " \"Xenogears_PW_CD2.bin\" \n" << std::endl;
+								patched = true;
+							}
 						}
 					}
+					batch_file.close();
+					int batch_exit_code = system("cmd.exe /c commands.cmd");
+					remove("commands.cmd");
+					disc2_cue.open("Xenogears_PW_CD2.cue", std::ios::out);
+					disc2_cue << "FILE \"Xenogears_PW_CD2.bin\" BINARY" << "\n";
+					disc2_cue << "  TRACK 01 MODE2/2352" << "\n";
+					disc2_cue << "    INDEX 01 00:00:00" << "\n";
+					disc2_cue.close();
+					std::string newName = "Xenogears_PW_CD2.bin";
+					size_t start_pos = path2.find(filename);
+					path2.replace(start_pos, newName.length(), newName);
+					size_t erasePoint = path2.find(".bin");
+					path2.erase(erasePoint + 4, path2.size() - (erasePoint + 4));
+					pc2.markVersion(path2);
+					pc2.markSubVersion(path2);
 				}
 				if (scriptExists) {
 					p_script = true;
 				}
-				if (p_stats || p_exp_gold || p_monsters || p_encounters || p_fastnew) {
+				if (p_stats || p_exp_gold || p_monsters || p_encounters || p_fastnew || p_arena) {
 					if (p_script || p_items_spells) {
 						SetWindowText(hWnd, L"Finishing...");
-						if (changed == false)
-						{
+						if (changed == false) {
 							changed = true;
 						}
 						if (pathFound1) {
-							writeFile wf1(hWnd, home, path1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew);
+							writeFile wf1(hWnd, home, path1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_arena);
 						}
 						if (pathFound2) {
-							writeFile wf2(hWnd, home, path2, 2, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew);
+							writeFile wf2(hWnd, home, path2, 2, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_arena);
 						}
 					}
 				}
 				SetWindowText(hWnd, szTitle);
-				if (changed == true) {
-					MessageBox(hWnd, L"Patch was completed successfully. Use ECCRegen to see if the bin file needs to be regenerated", L"Success", MB_ICONASTERISK);
-				}
+				MessageBox(hWnd, L"Patch was completed successfully. Use ECCRegen to see if the bin file needs to be regenerated", L"Success", MB_ICONASTERISK);
 				relock();
 				reinitialisePatches();
 				clearText();
@@ -699,6 +667,7 @@ void initialiseGlobalButtonList() {
 void initialiseGeneralButtonList() {
 	generalWindList.emplace_back(encounters);
 	generalWindList.emplace_back(fasttext);
+	generalWindList.emplace_back(portraits);
 	generalWindList.emplace_back(arena);
 	generalWindList.emplace_back(expgold);
 	generalWindList.emplace_back(itemspells);
@@ -718,6 +687,10 @@ void initialisePatchLists() {
 	patchList2.emplace_back(encountersName2);
 	patchList1.emplace_back(fastName1);
 	patchList2.emplace_back(fastName2);
+	patchList1.emplace_back(portraitsName1);
+	patchList2.emplace_back(portraitsName2);
+	patchList1.emplace_back(fmvName1);
+	patchList2.emplace_back(fmvName2);
 	patchList1.emplace_back(arenaName1);
 	patchList2.emplace_back(arenaName2);
 	patchList1.emplace_back(expgoldName1);
@@ -793,6 +766,10 @@ void reinitialisePatches () {
 	expgoldName2 = "";
 	fastName1 = "";
 	fastName2 = "";
+	portraitsName1 = "";
+	portraitsName2 = "";
+	fmvName1 = "";
+	fmvName2 = "";
 	itemspellsName1 = "";
 	itemspellsName2 = "";
 	monsterName1 = "";
@@ -852,12 +829,13 @@ HWND toolGenerator(char* text, HWND hWnd, HWND hText) {
 void initialiseGeneralWindows(HWND hWnd) {
 	encounters = CreateWindow(L"BUTTON", L"Half encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	portraits = CreateWindow(L"BUTTON", L"Readjusted portraits", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.61), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	arena = CreateWindow(L"BUTTON", L"Rebalanced battle arena", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.45), 175, 25, hWnd, (HMENU)9002, hInst, NULL);
 	expgold = CreateWindow(L"BUTTON", L"1.5x exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items and spells", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.61), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
 	monsters = CreateWindow(L"BUTTON", L"Rebalanced monsters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.69), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
 	stats = CreateWindow(L"BUTTON", L"Rebalanced party stats", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.77), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
-	script = CreateWindow(L"BUTTON", L"Retranslated script", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.75), (int)(winY * 0.45), 115, 25, hWnd, (HMENU)9002, hInst, NULL);
+	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.75), (int)(winY * 0.45), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
 void initialiseMiscWindows(HWND hWnd) {
@@ -928,6 +906,15 @@ void tooltipTextMaker(HWND hWnd) {
 	    "rebalanced, and several of the bosses\n"
 	    "have received buffs.";
 	HWND tt_hard = toolGenerator(text_hard, hWnd, hard);
+	char text_portraits[] =
+		"Corrects the proportions of all character\n"
+		"portraits when running the game at its\n"
+		"native aspect ratio. If your emulator or\n"
+		"scaler is already applying some kind of\n"
+		"correction to the game's overall aspect\n"
+		"ratio, you may NOT need this fix on top\n"
+		"of that.";
+	HWND tt_portraits = toolGenerator(text_portraits, hWnd, portraits);
 }
 
 HWND CreateTabController(HWND hParent, HINSTANCE hInst, DWORD dwStyle, const RECT& rc, const int id)
@@ -1009,6 +996,7 @@ void miscButtonCustomiser(HWND hWnd) {
 void removeGeneralButtons() {
 	ShowWindow(encounters, SW_HIDE);
 	ShowWindow(fasttext, SW_HIDE);
+	ShowWindow(portraits, SW_HIDE);
 	ShowWindow(arena, SW_HIDE);
 	ShowWindow(expgold, SW_HIDE);
 	ShowWindow(itemspells, SW_HIDE);

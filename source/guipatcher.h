@@ -7,10 +7,11 @@
 #include "romFinder.h"
 #include <winuser.h>
 #include <shobjidl.h> 
-#include "PatchProcess.h"
 #include <commctrl.h>
 #include <vector>
 #include "writeFile.h"
+#include <cstdlib>
+#include <cstdio>
 #include "patchChecker.h"
 
 #define MAX_LOADSTRING 100
@@ -40,6 +41,7 @@ bool p_fastold = false;
 bool p_fastnew = false;
 bool p_items_spells = false;
 bool p_monsters = false;
+bool p_portraits = false;
 bool p_script = false;
 bool p_stats = false;
 bool p_arena = false;
@@ -54,10 +56,14 @@ std::string expgoldName1 = "";
 std::string expgoldName2 = "";
 std::string fastName1 = "";
 std::string fastName2 = "";
+std::string fmvName1 = "";
+std::string fmvName2 = "";
 std::string itemspellsName1 = "";
 std::string itemspellsName2 = "";
 std::string monsterName1 = "";
 std::string monsterName2 = "";
+std::string portraitsName1 = "";
+std::string portraitsName2 = "";
 std::string scriptName1 = "";
 std::string scriptName2 = "";
 std::string statName1 = "";
@@ -81,6 +87,7 @@ HWND arena;
 HWND expgold;
 HWND itemspells;
 HWND monsters;
+HWND portraits;
 HWND stats;
 HWND script;
 HWND all;
@@ -100,6 +107,8 @@ TCHAR storytext[256];
 TCHAR misctext[256];
 TCHAR modetext[256];
 TCHAR dummy[256];
+std::ofstream disc1_cue;
+std::ofstream disc2_cue;
 
 // Global methods
 

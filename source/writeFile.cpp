@@ -3,7 +3,7 @@
 
 
 
-writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats, bool exp_gold, bool monsters, bool encounters, bool fastnew)
+writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats, bool exp_gold, bool monsters, bool encounters, bool fastnew, bool arena)
 {
 	dir = home;
 	discName = cd;
@@ -16,6 +16,7 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	wf_monsters = monsters;
 	wf_encounters = encounters;
 	wf_fast = fastnew;
+	wf_arena = arena;
 	std::filesystem::current_path(dir);
 	if (std::filesystem::exists("\patches")) {
 		std::filesystem::current_path("\patches");
@@ -50,6 +51,9 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	if (fastnew) {
 		doFast();
 	}
+	if (arena) {
+		doArena();
+	}
 }
 
 
@@ -59,6 +63,7 @@ writeFile::~writeFile()
 }
 
 void writeFile::allTrue() {
+	goHome();
 	if (std::filesystem::exists("\items_script_stats")) {
 		std::filesystem::current_path("\items_script_stats");
 	}
@@ -69,6 +74,7 @@ void writeFile::allTrue() {
 }
 
 void writeFile::noScript() {
+	goHome();
 	if (std::filesystem::exists("\items_stats")) {
 		std::filesystem::current_path("\items_stats");
 	}
@@ -79,6 +85,7 @@ void writeFile::noScript() {
 }
 
 void writeFile::noItems() {
+	goHome();
 	if (std::filesystem::exists("\script_stats")) {
 		std::filesystem::current_path("\script_stats");
 	}
@@ -225,6 +232,23 @@ void writeFile::doEncounters() {
 			else {
 				MessageBox(wind, L"Could not find directory for 'encountertwo_script'.", L"Error", MB_ICONERROR);
 			}
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
+	}
+}
+
+void writeFile::doArena() {
+	if (wf_script || wf_itemspells) {
+		goHome();
+		if (std::filesystem::exists("\kislev_battle")) {
+			std::filesystem::current_path("\kislev_battle");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'kislev_battle'.", L"Error", MB_ICONERROR);
 		}
 		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
 			std::string fileName = entry.path().string();

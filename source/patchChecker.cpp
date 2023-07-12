@@ -244,7 +244,7 @@ void patchChecker::markVersion(std::string path)
 		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
 		byte += 1;
 		if (byte == maxByte) {
-			writeByte(2);
+			writeByte(3);
 			break;
 		}
 	}
@@ -260,7 +260,7 @@ void patchChecker::markSubVersion(std::string path)
 		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
 		byte += 1;
 		if (byte == maxByte) {
-			writeByte(1);
+			writeByte(0);
 			break;
 		}
 	}
@@ -278,6 +278,28 @@ bool patchChecker::scriptVerify(std::string path)
 		if (byte == maxByte) {
 			int val = (int)buffer;
 			if (val == 01) {
+				found = true;
+			}
+			else {
+				found = false;
+			}
+			break;
+		}
+	}
+	file.close();
+	return found;
+}
+
+bool patchChecker::undubCheck(std::string path) {
+	initialise();
+	maxByte = 56741;
+	file.open(path, std::ios::in | std::ios::out | std::ios::binary);
+	while (!file.bad()) {
+		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
+		byte += 1;
+		if (byte == maxByte) {
+			int val = (int)buffer;
+			if (val == 207) {
 				found = true;
 			}
 			else {
