@@ -203,7 +203,7 @@ The worrying is often worse
 than the danger itself!"<Close><End of Block>
 <TextBlock 33 w:48 h:3>
 Citan
-"This a sand buggy.<New>
+"This is a sand buggy.<New>
 <Delay 10>...<Delay 10>
 That is it, Fei!<New>
 I have thought of a good
