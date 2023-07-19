@@ -382,8 +382,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 						if (pathFound2) {
 							itemspellsName2 = "cd2_items_script.xdelta";
-							if (!pc1.undubCheck(path2)) {
-								fmvName1 = "cd2_fmvs.xdelta";
+							if (!pc2.undubCheck(path2)) {
+								fmvName2 = "cd2_fmvs.xdelta";
 							}
 						}
 					}
@@ -418,7 +418,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 						if (pathFound2) {
 							scriptName2 = "cd2_script.xdelta";
-							if (!pc1.undubCheck(path2)) {
+							if (!pc2.undubCheck(path2)) {
 								fmvName2 = "cd2_fmvs.xdelta";
 							}
 						}
@@ -437,16 +437,16 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					}
 				}
 				if (p_arena) {
-					if (!p_script && !p_items_spells) {
-						if (!scriptExists) {
-							if (pathFound1) {
+					if (pathFound1) {
+						if (!p_items_spells && !p_script) {
+							if (!scriptExists) {
 								arenaName1 = "cd1_battling_arena.xdelta";
-							}
-							if (pathFound2) {
-								arenaName2 = "cd2_battling_arena.xdelta";
 							}
 						}
 					}
+					if (pathFound2) {
+						arenaName2 = "cd2_battling_arena.xdelta";
+					}	
 				}
 				if (p_portraits) {
 					if (pathFound1) {
@@ -519,6 +519,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					batch_file.close();
 					int batch_exit_code = system("cmd.exe /c commands.cmd");
 					remove("commands.cmd");
+					remove("backup.bin");
 					disc2_cue.open("Xenogears_PW_CD2.cue", std::ios::out);
 					disc2_cue << "FILE \"Xenogears_PW_CD2.bin\" BINARY" << "\n";
 					disc2_cue << "  TRACK 01 MODE2/2352" << "\n";
@@ -760,6 +761,8 @@ void relock() {
 }
 
 void reinitialisePatches () {
+	arenaName1 = "";
+	arenaName2 = "";
 	encountersName1 = "";
 	encountersName2 = "";
 	expgoldName1 = "";

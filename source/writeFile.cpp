@@ -242,18 +242,20 @@ void writeFile::doEncounters() {
 }
 
 void writeFile::doArena() {
-	if (wf_script || wf_itemspells) {
-		goHome();
-		if (std::filesystem::exists("\kislev_battle")) {
-			std::filesystem::current_path("\kislev_battle");
-		}
-		else {
-			MessageBox(wind, L"Could not find directory for 'kislev_battle'.", L"Error", MB_ICONERROR);
-		}
-		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-			std::string fileName = entry.path().string();
-			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-			preprocess(finalName);
+	if (discNum == 1) {
+		if (wf_script || wf_itemspells) {
+			goHome();
+			if (std::filesystem::exists("\kislev_battle")) {
+				std::filesystem::current_path("\kislev_battle");
+			}
+			else {
+				MessageBox(wind, L"Could not find directory for 'kislev_battle'.", L"Error", MB_ICONERROR);
+			}
+			for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+				std::string fileName = entry.path().string();
+				std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+				preprocess(finalName);
+			}
 		}
 	}
 }
