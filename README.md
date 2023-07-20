@@ -271,7 +271,7 @@ https://mega.nz/file/mWYViJTR#_a1CaUwPLeMviQ5ZwTs9kPjYC60c_yOjHd5s68oGbCs
 ### Patching:
 
 - Open the Xenogears: Perfect Works Patcher.
-- Open the ISO file for either or both discs.
+- Open the ISO file for either or both discs. MAKE SURE THEY ARE IN THE SAME FOLDER AS THE PATCHER.
 - Select which patches you wish to apply.
 - Press Patch. Script patches should take around a minute or two due to the FMV changes.
 
