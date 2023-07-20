@@ -1,26 +1,23 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.2.0 here:
+Download version 0.3.0 here:
 
-- Google Drive: https://drive.google.com/file/d/1KVjsnHhdzv94Ooipdecg1aQLq48KdQ57/view?usp=share_link
-- MEGA: https://mega.nz/file/vDhTwTqI#owZnVPHNMrarirfHWlLD3MRl9MTviH9_Tag1BUMyEJE
+- Google Drive: https://drive.google.com/file/d/1SCB0tkTsBNYldXKjNZVEsZVK5zCqscZG/view?usp=sharing
+- MEGA: https://mega.nz/file/iDIWSJLA#SH49iniTRDKQsPyy5vmGpEAGeVCLkCIEhgMFsWYpjjE
 
 ## Completion stats:
 
 - Name/terminology changes: 100%
-- Main script: 50% (up to end of Shevat arc)
+- Main script: 60% (up to the start of the Solaris arc)
 - NPC script: Not done (except for name/terminology changes)
 
 ## Coming soon:
 
 - Name swapper
 - Softsubs
-- Progress bar
 - Online updater
 - Music swap
-- Patch undo
-- Aspect ratio fix for character portraits
 
 ## Introduction:
 
@@ -28,9 +25,52 @@ Hello. My name is Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito. I am a character 
 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
-The project is also largely incompatible with both Undub and Xenogears 2.0.
-
 ## Version history:
+
+### Version 0.3.0:
+
+07/19/2023
+
+- Script up to the Solaris infiltration has been adjusted.
+- Music changes have been removed due to concerns with editing compressed files.
+- Characters with portraits are always named (except the Gazel).
+- "E" has been added to the Omnigear names.
+- Issues with name and stat change compatibility have been fixed.
+- Various sections of the script have been reworded.
+- Some skewed textboxes have been fixed.
+- Accept/Cancel have been changed to Enter/Delete.
+- Deathblows always uses the spelling "Deathblows".
+- The patcher now writes the version number to the ROM.
+- Fixed an error with the patcher where it still said that exp/gold were doubled.
+- The use of "Aveh" has been fixed in the script patch.
+- Fixed instances where "Miang" is used with the script patch.
+- Quotation use is more consistent.
+- Arbot is now Araboth.
+- Various line fixes have been made.
+- Gebler Guard is now Geburah Guard.
+- Battle arena portraits have been fixed.
+- Sufal Mass' ether spells have been buffed while its HP has been nerfed.
+- El Stier's agility will definitely increase to 9.
+- The patcher can now detect if undub is being used.
+- Portraits have had their aspect ratio fixed.
+- xdelta files are now used instead of PPFs, which allows for faster patch implementation.
+- A new copy of the Xenogears ROM is created rather than editing the old ROM, which allows it to be kept as a backup.
+- Errors with Brigandier and Seibzehn's frame HP have been resolved.
+- Myyah's last lines to Ramsus have been restored to the original version.
+- Stray pixel graphic in the gear battle HUD has been removed.
+- Omnigear names are used for later frames and their descriptions.
+- Patcher now specifies that name changes are included with script changes.
+- FMVs now use KayJulers' Xenogears font.
+- Av Castle library graphical glitch has been fixed.
+- Fixed punctuation in various areas.
+- Dialogue speed during Vanderkaum's scenes has been adjusted.
+- Glitch with Breidablik's map has been fixed.
+- Deathblow AP costs have been lowered.
+- Disc 2 now refers to Nortune as Noatun.
+- Dialogue during Chu-Chu's first scene has been fixed.
+- References to Bart and Margie's parents' deaths have been changed from execution to suicide.
+
+
 
 ### Version 0.2.0:
 
@@ -153,6 +193,11 @@ The project is also largely incompatible with both Undub and Xenogears 2.0.
 
 ### Builds:
 
+### Version 0.2:
+
+- Google Drive: https://drive.google.com/file/d/1KVjsnHhdzv94Ooipdecg1aQLq48KdQ57/view?usp=share_link
+- MEGA: https://mega.nz/file/vDhTwTqI#owZnVPHNMrarirfHWlLD3MRl9MTviH9_Tag1BUMyEJE
+
 ### Version 0.1.7:
 
 - Google Drive: https://drive.google.com/file/d/1CCNIUAGvD4dVIigNL0llegOhVK1No8SL/view?usp=share_link
@@ -195,6 +240,10 @@ The project is also largely incompatible with both Undub and Xenogears 2.0.
 
 ### GUI patcher:
 
+### Version 0.5
+
+Included with build 0.2.
+
 ### Version 0.4
 
 Included with builds 0.1.3 - 0.1.7.
@@ -222,9 +271,9 @@ https://mega.nz/file/mWYViJTR#_a1CaUwPLeMviQ5ZwTs9kPjYC60c_yOjHd5s68oGbCs
 ### Patching:
 
 - Open the Xenogears: Perfect Works Patcher.
-- Open the ISO files for both discs.
+- Open the ISO file for either or both discs.
 - Select which patches you wish to apply.
-- Press Patch. Script patches will take over five minutes to apply due to the FMV data associated with them.
+- Press Patch. Script patches should take around a minute or two due to the FMV changes.
 
 ### Regenerating:
 
@@ -255,6 +304,8 @@ For those who want to test a certain section in the game. They use the mcd forma
 ## Patches:
 
 ### [Battle Arena](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Battling-Arena)
+
+### [Character Portraits](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Character-Portraits)
 
 ### [Quality of Life Features](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Extra-QOL-Features)
 
@@ -293,10 +344,6 @@ Patches implemented:
 ### Items/spells:
 - If Divvy Up is used immediately after it's been used, it's effect will stack onto other party members (will not affect the rest of the game).
 
-### Script:
-- Texture issue with Fatima Castle's library (will not affect the rest of the game). To be fixed.
-
-
 ## Links:
 
 Join our discord if you have any issues or you want to communicate with us:
@@ -329,6 +376,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - rafael
 - Will Bill
 - Xenocritus
+- Nohar
 
 ### Battle Arena balance:
 - Streetwize: @StreetwizeJJ2
@@ -357,12 +405,17 @@ DM or tag here if you want immediate feedback on Twitter:
 - Streetwize
 - Nohar
 
+### Graphical fixes:
+- edrovinhaz
+- rufaswan
+
+### FMV font
+- KayJulers
+
 ### Tools:
 - SadNES cITy Translations
+- xdelta
 
 ### Fast text code:
 - FFMaster
 - Nohar
-
-### PPF code:
-- meunierd
