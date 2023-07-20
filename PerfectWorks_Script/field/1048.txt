@@ -913,7 +913,7 @@ in those sewers!
 Show me your true strength!"<Close><End of Block>
 <TextBlock 170 w:50 h:4>
 Hammer
-"Yo, Bro~!<Delay 15>
+"Yo, bro~!<Delay 15>
 You forgot your mechanic!<Delay 15>
 Wait up a little!"<Opcode 2 75><Close><End of Block>
 <TextBlock 171 w:52 h:4>
@@ -1114,7 +1114,7 @@ give us a hand also!"<Close><End of Block>
 <TextBlock 201 w:54 h:3>
 Hammer
 "Worries you a bit!?<New>
-Say it ain't so, Bro!<Delay 15>
+Say it ain't so, bro!<Delay 15>
 This here mechanic is doing
 the best he can, y'know!"<Close><End of Block>
 <TextBlock 202 w:54 h:4>

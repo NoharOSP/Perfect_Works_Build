@@ -130,7 +130,7 @@ indefinitely."<Close><End of Block>
 Informationist
 "For more details, try
 the Tutorial Mode, where
-you'll get an explanation 
+you'll get an explanation
 from a different official."<Close><End of Block>
 <TextBlock 17 w:56 h:6>
 Informationist
@@ -156,7 +156,7 @@ regret it if you use them
 too much! Do be careful!"<Close><End of Block>
 <TextBlock 19 w:56 h:5>
 Informationist
-"For more details, try our 
+"For more details, try our
 Tutorial Mode, where you
 will get an explanation from
 a different official."<Close><End of Block>
@@ -166,7 +166,7 @@ Informationist
 permit you to pause the
 battle.<New>
 At this time, you may select
-the 'GIVE UP' option if you 
+the 'GIVE UP' option if you
 think you won't win."<Close><End of Block>
 <TextBlock 21 w:44 h:4>
 Hammer
@@ -176,8 +176,8 @@ like the w-w-wind!<Opcode 2 90><Close><End of Block>
 <TextBlock 22 w:46 h:4>
 Hammer
 "I don't know anything
-about Bro before he
-arrived here!<New>
+about what bro did
+before he arrived here!<New>
 What is this Av
 tournament?"<Opcode 2 90><Close><End of Block>
 <TextBlock 23 w:40 h:2>

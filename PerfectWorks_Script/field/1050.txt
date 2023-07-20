@@ -1320,147 +1320,147 @@ BP-Exchanger Girl
 to have the right amount of
 points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
 cannot trade this with you!"<Close><End of Block>
-<TextBlock 211 w:50 h:3>
+<TextBlock 211 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 00 G
 <=>Battle Points won: - 45 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 212 w:50 h:3>
+<TextBlock 212 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 00 G
 <=>Battle Points won: - 75 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 213 w:50 h:3>
+<TextBlock 213 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 00 G
 <=>Battle Points won: -300 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 214 w:50 h:3>
+<TextBlock 214 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 10 G
 <=>Battle Points won: +145 P
 <=>Special Bonus    : +210 G<Close><End of Block>
-<TextBlock 215 w:50 h:3>
+<TextBlock 215 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 30 G
 <=>Battle Points won: +175 P
 <=>Special Bonus    : +330 G<Close><End of Block>
-<TextBlock 216 w:50 h:3>
+<TextBlock 216 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 50 G
 <=>Battle Points won: +450 P
 <=>Special Bonus    : +550 G<Close><End of Block>
-<TextBlock 217 w:50 h:3>
+<TextBlock 217 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 00 G
 <=>Battle Points won: +215 P
 <=>Special Bonus    : +500 G<Close><End of Block>
-<TextBlock 218 w:50 h:3>
+<TextBlock 218 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 00 G
 <=>Battle Points won: +300 P
 <=>Special Bonus    : +700 G<Close><End of Block>
-<TextBlock 219 w:52 h:3>
+<TextBlock 219 w:55 h:3>
 <Opcode 1 255><=>Gear repair costs: -  00 G
 <=>Battle Points won: + 900 P
 <=>Special Bonus    : +1000 G<Close><End of Block>
-<TextBlock 220 w:50 h:3>
+<TextBlock 220 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 50 G
 <=>Battle Points won: + 75 P
 <=>Special Bonus    : +150 G<Close><End of Block>
-<TextBlock 221 w:50 h:3>
+<TextBlock 221 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: -100 G
 <=>Battle Points won: +120 P
 <=>Special Bonus    : +300 G<Close><End of Block>
-<TextBlock 222 w:50 h:3>
+<TextBlock 222 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: -150 G
 <=>Battle Points won: +245 P
 <=>Special Bonus    : +450 G<Close><End of Block>
-<TextBlock 223 w:50 h:3>
+<TextBlock 223 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 10 G
 <=>Battle Points won: - 32 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 224 w:50 h:3>
+<TextBlock 224 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 30 G
 <=>Battle Points won: - 48 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 225 w:50 h:3>
+<TextBlock 225 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 50 G
 <=>Battle Points won: -150 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 226 w:50 h:3>
+<TextBlock 226 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: -  5 G
 <=>Battle Points won: - 27 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 227 w:50 h:3>
+<TextBlock 227 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 15 G
 <=>Battle Points won: - 55 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 228 w:50 h:3>
+<TextBlock 228 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 45 G
 <=>Battle Points won: -200 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 229 w:50 h:3>
+<TextBlock 229 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 15 G
 <=>Battle Points won: - 16 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 230 w:50 h:3>
+<TextBlock 230 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 45 G
 <=>Battle Points won: - 32 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 231 w:50 h:3>
+<TextBlock 231 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 75 G
 <=>Battle Points won: -175 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 232 w:50 h:3>
+<TextBlock 232 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 15 G
 <=>Battle Points won: - 15 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 233 w:50 h:3>
+<TextBlock 233 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 45 G
 <=>Battle Points won: - 30 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 234 w:50 h:3>
+<TextBlock 234 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 75 G
 <=>Battle Points won: -125 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 235 w:50 h:3>
+<TextBlock 235 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 30 G
 <=>Battle Points won: - 45 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 236 w:50 h:3>
+<TextBlock 236 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 75 G
 <=>Battle Points won: - 75 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 237 w:50 h:3>
+<TextBlock 237 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: -100 G
 <=>Battle Points won: -155 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 238 w:50 h:3>
+<TextBlock 238 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 50 G
 <=>Battle Points won: -145 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 239 w:50 h:3>
+<TextBlock 239 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: -100 G
 <=>Battle Points won: -175 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 240 w:50 h:3>
+<TextBlock 240 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: -150 G
 <=>Battle Points won: -300 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 241 w:50 h:3>
+<TextBlock 241 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 50 G
 <=>Battle Points won: - 90 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 242 w:50 h:3>
+<TextBlock 242 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: -100 G
 <=>Battle Points won: -120 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 243 w:50 h:3>
+<TextBlock 243 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: -150 G
 <=>Battle Points won: -175 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 244 w:50 h:3>
+<TextBlock 244 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: - 50 G
 <=>Battle Points won: -100 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 245 w:50 h:3>
+<TextBlock 245 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: -100 G
 <=>Battle Points won: -150 P
 <=>Special Bonus    : +000 G<Close><End of Block>
-<TextBlock 246 w:50 h:3>
+<TextBlock 246 w:53 h:3>
 <Opcode 1 255><=>Gear repair costs: -150 G
 <=>Battle Points won: -450 P
 <=>Special Bonus    : +000 G<Close><End of Block>
@@ -1820,7 +1820,7 @@ Change music<Delay 15>
     Requiem
     Emotion
     Cancel<Close><End of Block>
-<TextBlock 293 w:64 h:11>
+<TextBlock 293 w:66 h:11>
 Select track<Delay 15>
 <Opcode 1 255>    Where Dreams Hatch
     Lost... -Screeching Shards-
@@ -1832,90 +1832,89 @@ Select track<Delay 15>
     The Blackmoon Forest
     Grahf -Ruler of Darkness-
     Torn<Close><End of Block>
-<TextBlock 294 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 295 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 296 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 297 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 298 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 299 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 300 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 301 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 302 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 303 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 304 w:38 h:4>
+<TextBlock 294 w:38 h:1>
+Where Dreams Hatch<Close><End of Block>
+<TextBlock 295 w:54 h:1>
+Lost... -Screeching Shards-<Close><End of Block>
+<TextBlock 296 w:44 h:1>
+Bond of Sea and Flame<Close><End of Block>
+<TextBlock 297 w:56 h:1>
+The Sky, the Clouds, and You<Close><End of Block>
+<TextBlock 298 w:52 h:1>
+Gather Up the Night Stars<Close><End of Block>
+<TextBlock 299 w:16 h:1>
+Soaring<Close><End of Block>
+<TextBlock 300 w:32 h:1>
+October Mermaid<Close><End of Block>
+<TextBlock 301 w:42 h:1>
+The Blackmoon Forest<Close><End of Block>
+<TextBlock 302 w:52 h:1>
+Grahf -Ruler of Darkness-<Close><End of Block>
+<TextBlock 303 w:10 h:1>
+Torn<Close><End of Block>
+<TextBlock 304 w:40 h:4>
 Select track<Delay 15>
 <Opcode 1 255>    Deadly Dance
     Blazing Knights
     Steel Giants<Close><End of Block>
-<TextBlock 305 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 306 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 307 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 308 w:66 h:9>
+<TextBlock 305 w:26 h:1>
+Deadly Dance<Close><End of Block>
+<TextBlock 306 w:32 h:1>
+Blazing Knights<Close><End of Block>
+<TextBlock 307 w:26 h:1>
+Steel Giants<Close><End of Block>
+<TextBlock 308 w:66 h:8>
 Select track<Delay 15>
-<Opcode 1 255>    Cavern
-    Waterway
-    Factory 1
-    Factory 2
-    Ruins
+<Opcode 1 255>    Ambience: Cavern
+    Ambience: Waterway
+    Ambience: Factory 1
+    Ambience: Factory 2
+    Ambience: Ruins
     The Blackmoon Forest (no SFX)
-    Foreboding
-    Blackmoon... again<Close><End of Block>
-<TextBlock 309 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 310 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 311 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 312 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 313 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 314 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 315 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 316 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 317 w:48 h:9>
+    Foreboding<Close><End of Block>
+<TextBlock 309 w:34 h:1>
+Ambience: Cavern<Close><End of Block>
+<TextBlock 310 w:38 h:1>
+Ambience: Waterway<Close><End of Block>
+<TextBlock 311 w:40 h:1>
+Ambience: Factory 1<Close><End of Block>
+<TextBlock 312 w:40 h:1>
+Ambience: Factory 2<Close><End of Block>
+<TextBlock 313 w:32 h:1>
+Ambience: Ruins<Close><End of Block>
+<TextBlock 314 w:60 h:1>
+The Blackmoon Forest (no SFX)<Close><End of Block>
+<TextBlock 315 w:22 h:1>
+Foreboding<Close><End of Block>
+<TextBlock 316 w:60 h:1>
+The Blackmoon Forest (no SFX)<Close><End of Block>
+<TextBlock 317 w:56 h:9>
 Select track<Delay 15>
-<Opcode 1 255>    Night
-    Mountain Path
+<Opcode 1 255>    Ambience: Night
+    Ambience: Mountain Path
     The Blackmoon Forest
-    Wind 1
-    Wind 2
-    Wind 3
-    Underwater
-    Vortex<Close><End of Block>
-<TextBlock 318 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 319 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 320 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 321 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 322 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 323 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 324 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 325 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 326 w:48 h:9>
+    Ambience: Wind 1
+    Ambience: Wind 2
+    Ambience: Wind 3
+    Ambience: Underwater
+    Ambience: Vortex<Close><End of Block>
+<TextBlock 318 w:32 h:1>
+Ambience: Night<Close><End of Block>
+<TextBlock 319 w:48 h:1>
+Ambience: Mountain Path<Close><End of Block>
+<TextBlock 320 w:42 h:1>
+The Blackmoon Forest<Close><End of Block>
+<TextBlock 321 w:34 h:1>
+Ambience: Wind 1<Close><End of Block>
+<TextBlock 322 w:34 h:1>
+Ambience: Wind 2<Close><End of Block>
+<TextBlock 323 w:34 h:1>
+Ambience: Wind 3<Close><End of Block>
+<TextBlock 324 w:42 h:1>
+Ambience: Underwater<Close><End of Block>
+<TextBlock 325 w:34 h:1>
+Ambience: Vortex<Close><End of Block>
+<TextBlock 326 w:50 h:9>
 Select track<Delay 15>
 <Opcode 1 255>    Adoration
     Village Pride
@@ -1925,20 +1924,20 @@ Select track<Delay 15>
     Windy Song
     Ancient Dance of Av
     <R>Page 2<Close><End of Block>
-<TextBlock 327 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 328 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 329 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 330 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 331 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 332 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 333 w:14 h:1>
-Playing<Close><End of Block>
+<TextBlock 327 w:20 h:1>
+Adoration<Close><End of Block>
+<TextBlock 328 w:28 h:1>
+Village Pride<Close><End of Block>
+<TextBlock 329 w:42 h:1>
+Wind from the Valley<Close><End of Block>
+<TextBlock 330 w:36 h:1>
+Desert City Dazil<Close><End of Block>
+<TextBlock 331 w:40 h:1>
+Dreams of the Brave<Close><End of Block>
+<TextBlock 332 w:22 h:1>
+Windy Song<Close><End of Block>
+<TextBlock 333 w:40 h:1>
+Ancient Dance of Av<Close><End of Block>
 <TextBlock 334 w:68 h:9>
 Select track<Delay 15>
 <Opcode 1 255>    Dreams of the Brave (no intro)
@@ -1949,21 +1948,21 @@ Select track<Delay 15>
     Cage of Remorse and Relief
     Wings
     <L>Page 1<Close><End of Block>
-<TextBlock 335 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 336 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 337 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 338 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 339 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 340 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 341 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 342 w:62 h:9>
+<TextBlock 335 w:62 h:1>
+Dreams of the Brave (no intro)<Close><End of Block>
+<TextBlock 336 w:26 h:1>
+Infiltration<Close><End of Block>
+<TextBlock 337 w:54 h:1>
+The Tamuz -Men of the Sea-<Close><End of Block>
+<TextBlock 338 w:48 h:1>
+Shevat -The Wind Calls-<Close><End of Block>
+<TextBlock 339 w:56 h:1>
+Solaris -Supernal Paradise-<Close><End of Block>
+<TextBlock 340 w:54 h:1>
+Cage of Remorse and Relief<Close><End of Block>
+<TextBlock 341 w:12 h:1>
+Wings<Close><End of Block>
+<TextBlock 342 w:64 h:9>
 Select track<Delay 15>
 <Opcode 1 255>    Doze (Short Version)
     Doze (Long Version)
@@ -1973,22 +1972,22 @@ Select track<Delay 15>
     A Distant Promise
     Intangible Treasure
     Prayers -The Joy of Hope-<Close><End of Block>
-<TextBlock 343 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 344 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 345 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 346 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 347 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 348 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 349 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 350 w:14 h:1>
-Playing<Close><End of Block>
+<TextBlock 343 w:42 h:1>
+Doze (Short Version)<Close><End of Block>
+<TextBlock 344 w:40 h:1>
+Doze (Long Version)<Close><End of Block>
+<TextBlock 345 w:26 h:1>
+Dark Slumber<Close><End of Block>
+<TextBlock 346 w:56 h:1>
+We Wounded Follow the Light<Close><End of Block>
+<TextBlock 347 w:24 h:1>
+Premonition<Close><End of Block>
+<TextBlock 348 w:36 h:1>
+A Distant Promise<Close><End of Block>
+<TextBlock 349 w:40 h:1>
+Intangible Treasure<Close><End of Block>
+<TextBlock 350 w:52 h:1>
+Prayers -The Joy of Hope-<Close><End of Block>
 <TextBlock 351 w:68 h:6>
 Select track<Delay 15>
 <Opcode 1 255>    Earthly Tears, Mortal Thoughts
@@ -1996,16 +1995,16 @@ Select track<Delay 15>
     Fuse
     Jaws of Ice
     Infiltration<Close><End of Block>
-<TextBlock 352 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 353 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 354 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 355 w:14 h:1>
-Playing<Close><End of Block>
-<TextBlock 356 w:14 h:1>
-Playing<Close><End of Block>
+<TextBlock 352 w:62 h:1>
+Earthly Tears, Mortal Thoughts<Close><End of Block>
+<TextBlock 353 w:28 h:1>
+Blue Traveler<Close><End of Block>
+<TextBlock 354 w:10 h:1>
+Fuse<Close><End of Block>
+<TextBlock 355 w:24 h:1>
+Jaws of Ice<Close><End of Block>
+<TextBlock 356 w:26 h:1>
+Infiltration<Close><End of Block>
 <TextBlock 357 w:56 h:6>
 Diana
 "From that day on, peace

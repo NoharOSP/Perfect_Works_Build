@@ -252,7 +252,7 @@ Leonardo
 <TextBlock 61 w:40 h:3>
 Leonardo
 "Crap...
-This...monster..."<Opcode 2 3><Close><End of Block>
+What a...monster..."<Opcode 2 3><Close><End of Block>
 <TextBlock 62 w:22 h:3>
 Leonardo
 "St-<Delay 5>Stay
