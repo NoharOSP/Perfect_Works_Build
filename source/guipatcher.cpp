@@ -474,7 +474,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 							}
 							else {
 								changed = true;
-								batch_file << "xdelta.exe -d  -s \"" + filename + "\" patches\\" + patchList1[i] + " \"Xenogears_PW_CD1.bin\" \n" << std::endl;
+								batch_file << "xdelta.exe -d  -s \"" + path1 + "\" patches\\" + patchList1[i] + " \"Xenogears_PW_CD1.bin\" \n" << std::endl;
 								patched = true;
 							}
 						}
@@ -489,12 +489,9 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					disc1_cue << "    INDEX 01 00:00:00" << "\n";
 					disc1_cue.close();
 					std::string newName = "Xenogears_PW_CD1.bin";
-					size_t start_pos = path1.find(filename);
-					path1.replace(start_pos, newName.length(), newName);
-					size_t erasePoint = path1.find(".bin");
-					path1.erase(erasePoint + 4, path1.size() - (erasePoint + 4));
-					pc1.markVersion(path1);
-					pc1.markSubVersion(path1);
+					newPath1 = home + "/" + newName;
+					pc1.markVersion(newPath1);
+					pc1.markSubVersion(newPath1);
 				}
 				if (pathFound2) {
 					bool patched = false;
@@ -526,12 +523,9 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					disc2_cue << "    INDEX 01 00:00:00" << "\n";
 					disc2_cue.close();
 					std::string newName = "Xenogears_PW_CD2.bin";
-					size_t start_pos = path2.find(filename);
-					path2.replace(start_pos, newName.length(), newName);
-					size_t erasePoint = path2.find(".bin");
-					path2.erase(erasePoint + 4, path2.size() - (erasePoint + 4));
-					pc2.markVersion(path2);
-					pc2.markSubVersion(path2);
+					newPath2 = home + "/" + newName;
+					pc2.markVersion(newPath2);
+					pc2.markSubVersion(newPath2);
 				}
 				if (scriptExists) {
 					p_script = true;
@@ -543,10 +537,10 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 							changed = true;
 						}
 						if (pathFound1) {
-							writeFile wf1(hWnd, home, path1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_arena);
+							writeFile wf1(hWnd, home, newPath1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_arena);
 						}
 						if (pathFound2) {
-							writeFile wf2(hWnd, home, path2, 2, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_arena);
+							writeFile wf2(hWnd, home, newPath2, 2, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_arena);
 						}
 					}
 				}
