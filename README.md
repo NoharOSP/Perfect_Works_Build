@@ -65,7 +65,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - Fixed punctuation in various areas.
 - Dialogue speed during Vanderkaum's scenes has been adjusted.
 - Glitch with Breidablik's map has been fixed.
-- Deathblow AP costs have been lowered.
+- Combo AP costs have been lowered.
 - Disc 2 now refers to Nortune as Noatun.
 - Dialogue during Chu-Chu's first scene has been fixed.
 - References to Bart and Margie's parents' deaths have been changed from execution to suicide.
