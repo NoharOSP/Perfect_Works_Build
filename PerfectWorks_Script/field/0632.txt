@@ -11,29 +11,28 @@ Fei
 "Yeah, tomorrow, huh?
 Your wedding with Alice!
 Now that's a big day!"<Close><End of Block>
-<TextBlock 3 w:50 h:4>
+<TextBlock 3 w:52 h:4>
 Fei
 "Hey, uh, Timothy.
 I just want to thank
 both you and Alice...<New>
-Three years ago, I woke 
-up here in Lahan without 
+Three years ago, I woke
+up here in Lahan without
 a trace of my memories...<New>
-I didn't know who I was,
-where I had been or what
-I had been doing up until
-that day...<New>
+Who I was, where I had
+been or what I had been
+doing up until that day <--><New>
 I couldn't recall a
 single thing..."<Close><End of Block>
-<TextBlock 4 w:48 h:4>
+<TextBlock 4 w:50 h:4>
 Fei
-"Despite that, you and
-Alice saved me, and 
-helped me to go on.<New>
+"But you and Alice
+motivated and encouraged
+me when I needed it most.<New>
 If the two of you hadn't
 been there for me, I 
 don't know what would
-have happened to me..."<Close><End of Block>
+have happened..."<Close><End of Block>
 <TextBlock 5 w:42 h:4>
 Fei
 "Timothy...<Delay 20>
@@ -66,15 +65,14 @@ It sounds serious!"<Close><End of Block>
 Fei
 "Huh...?<Delay 30> 
 What's up with him?"<Close><End of Block>
-<TextBlock 11 w:54 h:4>
+<TextBlock 11 w:52 h:4>
 Timothy
 "So how was Alice?<Delay 30> I still
 can't believe we're really
 getting married tomorrow!<New>
 It's such a weird feeling.<Delay 30>
-We've always been together,
-since we were just little
-kids..."<Close><End of Block>
+We've been together since
+we were little kids..."<Close><End of Block>
 <TextBlock 12 w:46 h:4>
 Timothy
 "Could you go check up
@@ -168,8 +166,8 @@ Dan
 We gotta talk,<Delay 20> seriously,<Delay 20>
 one-on-one, man-to-man!<New>
 I'll be hanging around
-outside. So I'll see
-ya there later, okay?"<Close><End of Block>
+outside. So I'll catch
+ya later, okay?"<Close><End of Block>
 <TextBlock 26 w:46 h:4>
 Dan
 "Be seein' ya, 'Tim'!<Delay 30>

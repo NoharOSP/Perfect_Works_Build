@@ -1,5 +1,5 @@
-<TextBlock 1 w:24 h:1>
-I'm slippin'<Opcode 2 40><Close><End of Block>
+<TextBlock 1 w:26 h:1>
+I'm slippin'.<Opcode 2 40><Close><End of Block>
 <TextBlock 2 w:48 h:2>
 Hammer
 "Yiiiiiiiiikkkessssss!!"<Close><End of Block>
@@ -134,7 +134,7 @@ Hammer
 "Even Elly..."<Close><End of Block>
 <TextBlock 31 w:54 h:4>
 Hammer
-"Aaaaaaah!
+"Aaaaaaahh!
 Looook ooouut!!<New>
 Master Citan!! It's fine to
 ditch that creep in black,
@@ -197,7 +197,7 @@ Elly
 okay? We're flying in
 such a large ship. <New>
 What if Kislev or Av
-finds us...?"<Close><End of Block>
+find us...?"<Close><End of Block>
 <TextBlock 46 w:52 h:4>
 Citan
 "We are fine. I thought
