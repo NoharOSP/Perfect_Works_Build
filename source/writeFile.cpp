@@ -96,20 +96,6 @@ void writeFile::noItems() {
 }
 
 void writeFile::doExpGold() {
-	if (wf_script) {
-		goHome();
-		if (std::filesystem::exists("\exp_gold_script")) {
-			std::filesystem::current_path("\exp_gold_script");
-		}
-		else {
-			MessageBox(wind, L"Could not find directory for 'exp_gold_script'.", L"Error", MB_ICONERROR);
-		}
-		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-			std::string fileName = entry.path().string();
-			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-			preprocess(finalName);
-		}
-	}
 	if (wf_itemspells) {
 		goHome();
 		if (std::filesystem::exists("\exp_gold_items")) {
@@ -117,6 +103,20 @@ void writeFile::doExpGold() {
 		}
 		else {
 			MessageBox(wind, L"Could not find directory for 'exp_gold_items'.", L"Error", MB_ICONERROR);
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
+	}
+	if (wf_script) {
+		goHome();
+		if (std::filesystem::exists("\exp_gold_script")) {
+			std::filesystem::current_path("\exp_gold_script");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'exp_gold_script'.", L"Error", MB_ICONERROR);
 		}
 		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
 			std::string fileName = entry.path().string();
@@ -141,20 +141,6 @@ void writeFile::doExpGold() {
 }
 
 void writeFile::doMonsters() {
-	if (wf_script) {
-		goHome();
-		if (std::filesystem::exists("\monsters_script")) {
-			std::filesystem::current_path("\monsters_script");
-		}
-		else {
-			MessageBox(wind, L"Could not find directory for 'monsters_script'.", L"Error", MB_ICONERROR);
-		}
-		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-			std::string fileName = entry.path().string();
-			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-			preprocess(finalName);
-		}
-	}
 	if (wf_itemspells) {
 		goHome();
 		if (std::filesystem::exists("\monsters_items")) {
@@ -162,6 +148,20 @@ void writeFile::doMonsters() {
 		}
 		else {
 			MessageBox(wind, L"Could not find directory for 'monsters_items'.", L"Error", MB_ICONERROR);
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
+	}
+	if (wf_script) {
+		goHome();
+		if (std::filesystem::exists("\monsters_script")) {
+			std::filesystem::current_path("\monsters_script");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'monsters_script'.", L"Error", MB_ICONERROR);
 		}
 		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
 			std::string fileName = entry.path().string();

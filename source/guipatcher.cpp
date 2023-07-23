@@ -464,7 +464,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					std::filesystem::current_path(home);
 					std::ofstream batch_file;
 					batch_file.open("commands.cmd", std::ios::trunc);
-					const auto filename = std::filesystem::path{ path1 }.filename().string();
 					for (int i = 0; i < patchList1.size(); i++) {
 						if (patchList1[i] != "") {
 							if (patched) {
@@ -498,7 +497,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					std::filesystem::current_path(home);
 					std::ofstream batch_file;
 					batch_file.open("commands.cmd", std::ios::trunc);
-					const auto filename = std::filesystem::path{ path2 }.filename().string();
 					for (int i = 0; i < patchList2.size(); i++) {
 						if (patchList2[i] != "") {
 							if (patched) {
@@ -508,7 +506,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 							}
 							else {
 								changed = true;
-								batch_file << "xdelta.exe -d  -s \"" + filename + "\" patches\\" + patchList2[i] + " \"Xenogears_PW_CD2.bin\" \n" << std::endl;
+								batch_file << "xdelta.exe -d  -s \"" + path2 + "\" patches\\" + patchList2[i] + " \"Xenogears_PW_CD2.bin\" \n" << std::endl;
 								patched = true;
 							}
 						}
