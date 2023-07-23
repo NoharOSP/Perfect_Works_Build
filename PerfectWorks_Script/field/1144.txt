@@ -25,10 +25,10 @@ Citan
 "Well, everyone, this
 could be dangerous,
 so please be seated."<Close><End of Block>
-<TextBlock 7 w:48 h:3>
+<TextBlock 7 w:38 h:3>
 Citan
-"Call out if you are all
-ready."<Close><End of Block>
+"Call out when you
+are all ready."<Close><End of Block>
 <TextBlock 8 w:38 h:4>
 Citan
 "N-No,<Delay 10> it is okay.<Delay 30>

@@ -238,11 +238,11 @@ I'm not the type to
 dwell on the past."<Close><End of Block>
 <TextBlock 24 w:6 h:1>
 ...<Close><End of Block>
-<TextBlock 25 w:50 h:4>
+<TextBlock 25 w:48 h:4>
 Rico
 "Anyway, I'm more
-interested in those
-two Gears there...<New>
+interested in those two
+Gears over there...<New>
 Who the hell are you
 guys? You tune them
 to run so well!<New>

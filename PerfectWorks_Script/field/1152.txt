@@ -198,9 +198,10 @@ to 500 years ago.<Close><End of Block>
 It is not impossible that
 that man manipulated
 events to this end.<Close><End of Block>
-<TextBlock 37 w:36 h:3>
-The descent point
-is Aquvy<Delay 5>...<Delay 5>
+<TextBlock 37 w:32 h:4>
+The destination
+of the jump
+was Aquvy<Delay 5>...<Delay 5>
 Near the Tamuz.<Close><End of Block>
 <TextBlock 38 w:52 h:3>
 Regarding Aquvy, Karellen
@@ -219,10 +220,12 @@ The legacy<Delay 5>...<Delay 5>
 Meaning, the
 technology he
 spoke of before?<Close><End of Block>
-<TextBlock 42 w:16 h:1>
-Just so.<Close><End of Block>
-<TextBlock 43 w:52 h:4>
-Molecular engineering...<New>
+<TextBlock 42 w:20 h:1>
+Emperor Cain
+"Just so."<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Emperor Cain
+"Molecular engineering...<New>
 The land of nano-
 technology's creation,
 the metropolis of the
@@ -232,7 +235,7 @@ sea floor of Aquvy.<New>
 Though its existence was
 hidden from us by the
 Church of the Ethos for
-over nineteen years.<Close><End of Block>
+over nineteen years."<Close><End of Block>
 <TextBlock 44 w:38 h:2>
 Is that acceptable,
 Cain?<Close><End of Block>

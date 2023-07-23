@@ -25,8 +25,8 @@ Myyah
 "Yes, sir."<Close><End of Block>
 <TextBlock 7 w:58 h:3>
 We have the coordinates
-of those recent
-dimensional vibrations.<New>
+of those dimensional
+vibrations just now.<New>
 N24, E92, Ignas, in the
 Lahan region, the
 northeast ocean.<New>
@@ -63,13 +63,14 @@ Grahf
 <TextBlock 15 w:14 h:2>
 Ramsus
 "What?"<Close><End of Block>
-<TextBlock 16 w:44 h:4>
+<TextBlock 16 w:46 h:4>
 Grahf
-"The one who caused
-you so much pain and 
-grief is on that ship.<New>
-And it's headed for
-Aquvy."<Close><End of Block>
+"The man who caused you
+so much grief and pain<New>
+is on the ship that
+just Gate-jumped.<New>
+The jump destination
+is Aquvy."<Close><End of Block>
 <TextBlock 17 w:54 h:4>
 Ramsus
 "Put all the crew members

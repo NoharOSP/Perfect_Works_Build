@@ -17,8 +17,8 @@ But jumping the gun is a
 bad habit of yours.<Delay 10>
 A king should always keep
 calm and judge carefully!"<Close><End of Block>
-<TextBlock 4 w:62 h:1>
-"(Maison says the same thing.)"<Close><End of Block>
+<TextBlock 4 w:58 h:1>
+(Maison says the same thing.)<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Bart
 "Yeah, I know, I know!<Delay 10>
@@ -52,7 +52,7 @@ It's not our royal crest!<Delay 10>
 Look at this."<Close><End of Block>
 <TextBlock 10 w:24 h:2>
 Citan
-"This is..."<Close><End of Block>
+"My word..."<Close><End of Block>
 <TextBlock 11 w:42 h:3>
 Bart
 "I thought you would
