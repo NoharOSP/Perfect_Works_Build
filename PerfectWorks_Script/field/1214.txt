@@ -2,14 +2,15 @@
 <Chu-Chu>
 "I'm changing, so
 don't chu come in."<Close><End of Block>
-<TextBlock 2 w:50 h:4>
+<TextBlock 2 w:40 h:4>
 Citan
-"This room seems to be
-for ladies' use only.
-Let us excuse ourselves."<Close><End of Block>
-<TextBlock 3 w:38 h:2>
+"This room is for
+the ladies' use, so
+let us refrain."<Close><End of Block>
+<TextBlock 3 w:28 h:3>
 Bart
-"Maybe not here..."<Close><End of Block>
+"I'll stop 
+right here..."<Close><End of Block>
 <TextBlock 4 w:46 h:2>
 Fei isn't here!<Delay 10>
 I wonder where he went?<Close><End of Block>

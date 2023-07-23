@@ -220,10 +220,12 @@ The legacy<Delay 5>...<Delay 5>
 Meaning, the
 technology he
 spoke of before?<Close><End of Block>
-<TextBlock 42 w:16 h:1>
-Just so.<Close><End of Block>
-<TextBlock 43 w:52 h:4>
-Molecular engineering...<New>
+<TextBlock 42 w:20 h:1>
+Emperor Cain
+"Just so."<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Emperor Cain
+"Molecular engineering...<New>
 The land of nano-
 technology's creation,
 the metropolis of the
@@ -233,7 +235,7 @@ sea floor of Aquvy.<New>
 Though its existence was
 hidden from us by the
 Church of the Ethos for
-over nineteen years.<Close><End of Block>
+over nineteen years."<Close><End of Block>
 <TextBlock 44 w:38 h:2>
 Is that acceptable,
 Cain?<Close><End of Block>

@@ -155,7 +155,7 @@ Elly
 <TextBlock 21 w:44 h:4>
 Elly
 "I told you not to eat
-such a gross looking
+such a gross-looking
 creature..."<Close><End of Block>
 <TextBlock 22 w:50 h:4>
 Fei
@@ -189,7 +189,7 @@ What?<Delay 10>
 It's dry and crumbly?"<Close><End of Block>
 <TextBlock 28 w:36 h:4>
 Elly
-"I thought so...
+"As I thought...
 You don't like it,
 do you?"<Close><End of Block>
 <TextBlock 29 w:44 h:4>

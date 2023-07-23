@@ -406,7 +406,7 @@ compete in day two's bouts!"<Close><End of Block>
 Receptionist
 "If you win two matches
 today, the second day of the
-games, you can progress on
+Games, you can progress on
 to the third set of bouts.<New>
 Do you want to enter the
 bouts for day two?"<Delay 15>
@@ -424,7 +424,7 @@ day's final bout?"<Delay 15>
 <TextBlock 98 w:52 h:5>
 Receptionist
 "Today is the third day of
-the games. Win two bouts
+the Games. Win two bouts
 and you qualify for
 tomorrow's semi-finals.<New>
 Do you want to enter day
@@ -470,7 +470,7 @@ day's final bout?"<Delay 15>
 <TextBlock 103 w:56 h:5>
 Receptionist
 "Today's the last day of the
-games <--> the Finals League!
+Games <--> the Finals League!
 You get to challenge...<Delay 5>
 Ricardo Banderas!!!<New>
 Do you desire to enter the
