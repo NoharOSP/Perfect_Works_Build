@@ -18,7 +18,7 @@ Timer: 100.0000
 [V4 Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
 Style: Default,Xenogears Interior,25,16777215,0,0,0,0,0,1,2,2,2,20,20,30,0,0
-Style: Normal,Xenogears Interior,38,16777215,0,0,0,0,0,1,2,2,2,20,20,30,0,0
+Style: Normal,Xeno Standard,25,16777215,0,0,8663870,0,0,1,2,0,2,20,20,30,0,0
 
 [Fonts]
 
@@ -26,7 +26,7 @@ Style: Normal,Xenogears Interior,38,16777215,0,0,0,0,0,1,2,2,2,20,20,30,0,0
 
 [Events]
 Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: Marked=0,0:00:15.85,0:00:17.20,Normal,,0,0,0,,Feeeeeeei!
+Dialogue: Marked=0,0:00:15.85,0:00:17.20,Normal,,0,0,0,,Feeei!
 Dialogue: Marked=0,0:00:20.15,0:00:21.40,Normal,,0,0,0,,What happened?
 Dialogue: Marked=0,0:00:23.80,0:00:27.70,Normal,,0,0,0,,There's a disturbance in the ionosphere due to the explosion. I can't get a reading.
 Dialogue: Marked=0,0:00:28.50,0:00:30.45,Normal,,0,0,0,,They were probably caught in it.
