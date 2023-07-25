@@ -342,10 +342,10 @@ Ramsus
 "H, how the!?<Delay 5>
 What happened!?<Delay 15>
 Why can't I move!?"<Close><End of Block>
-<TextBlock 35 w:14 h:2>
+<TextBlock 35 w:26 h:3>
 Margie
 "Elly, how
-did you?!"<Close><End of Block>
+did you...!?"<Close><End of Block>
 <TextBlock 36 w:32 h:2>
 Rank
 "Are you okay!?"<Close><End of Block>

@@ -1,31 +1,31 @@
 <TextBlock 1 w:40 h:4>
 Pirate
-"Hm. Can't you make
-a better plea for
-your life?<New>
+"Hmph. Can't you
+make a better plea
+for your life?<New>
 You come jumping out
 of an Av ship and
-claim that you are
+claim that you're
 not Av soldiers?<New>
-Stop trying
-to fool me!"<Close><End of Block>
+Yeah, sure!"<Close><End of Block>
 <TextBlock 2 w:44 h:4>
 Pirate
-"Tsk.
-How pathetic are you?!<New>
-Even if you're the
-pettiest of soldiers,
+"Urrgh,<Delay 10> how pathetic
+are you!?<New>
+I don't care if you're
+the lowliest grunt <--><New>
 how's about showing 
-a little spine...<New>
-...and putting up a
-decent fight!?"<Close><End of Block>
+a little spine and
+putting up a decent
+fight!?"<Close><End of Block>
 <TextBlock 3 w:36 h:4>
 Pirate
-"How nauseating!
-Why don't you stop
-grumbling,<New>
-leave the Gear and
-run away?"<Close><End of Block>
+"Unbelievable...
+you're still
+talking?<New>
+Stop grumbling,
+just leave that
+Gear and go home!"<Close><End of Block>
 <TextBlock 4 w:48 h:4>
 Pirate
 "For someone who doesn't
