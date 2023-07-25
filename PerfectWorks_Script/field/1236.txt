@@ -32,11 +32,11 @@ Captain
 "Hey, hurry it up!
 Don't make our
 guests wait."<Close><End of Block>
-<TextBlock 10 w:48 h:4>
+<TextBlock 10 w:42 h:4>
 Captain
 "Sorry...there's not
-really anywhere left to
-sit in this place!"<Close><End of Block>
+much room to sit down
+in this place!"<Close><End of Block>
 <TextBlock 11 w:54 h:4>
 Captain
 "But isn't the view just
@@ -300,7 +300,7 @@ Well, I'll teach you then!!<Close><End of Block>
 Hmmph, don't regret it!<Close><End of Block>
 <TextBlock 73 w:38 h:2>
 Hey, are yush 
-lishenin' t' me...!<Close><End of Block>
+lishenin' t' me...?<Close><End of Block>
 <TextBlock 74 w:42 h:2>
 Hey, yush din't drink
 yous, dat wash mine.<Close><End of Block>
@@ -340,12 +340,12 @@ The best <Delay 30>maste~r<Delay 45>
 Tamuz' <Delay 45>maste~r.<Close><End of Block>
 <TextBlock 84 w:40 h:1>
 Hey, I'm nosh drunk.<Close><End of Block>
-<TextBlock 85 w:50 h:3>
-I've never been on dry
+<TextBlock 85 w:48 h:3>
+I haven't been on dry
 land since I was born.<New>
-Think about it. You have
+Think about it. You get
 dirt on your feet.
-How can you do that?<Close><End of Block>
+How can you stand it?<Close><End of Block>
 <TextBlock 86 w:48 h:3>
 I didn't go ashore this
 time either. Even though

@@ -415,12 +415,12 @@ Hans
 that are too sloppy!"<Close><End of Block>
 <TextBlock 80 w:50 h:2>
 I've held on to this seat
-for 30 years.<New>
+for thirty years.<New>
 I'm not losing it to some
 young upstart.<Close><End of Block>
 <TextBlock 81 w:50 h:2>
 I've held on to this seat
-for 30 years.<New>
+for thirty years.<New>
 But when Wels attacked, I
 thought about running.<Close><End of Block>
 <TextBlock 82 w:46 h:3>

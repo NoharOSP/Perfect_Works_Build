@@ -359,9 +359,9 @@ genesis..."<Close><End of Block>
 <TextBlock 37 w:38 h:3>
 Citan
 "Civilization's 
-eradication?!<New>
+eradication!?<New>
 What do you mean 
-by that?!"<Close><End of Block>
+by that!?"<Close><End of Block>
 <TextBlock 38 w:50 h:4>
 Elly
 "Who knows...?<Delay 20>

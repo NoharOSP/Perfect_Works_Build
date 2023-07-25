@@ -704,16 +704,16 @@ Zephyr
 <TextBlock 78 w:50 h:4>
 Citan
 "Zohar!?<Delay 30>
-Myyah called that the<Delay 10> 
+Myyah called that the<Delay 10>
 power reactor of God...
 <Delay 10>'Deus'...<New>
 <Delay 5>which is also the 
 source of all of our 
 Ether power,<Delay 5><New>
-"the Phenomenon 
-Alteration System", 
+'the Phenomenon 
+Alteration System',
 it isn't the same 
-name is it?!"<Close><End of Block>
+name is it!?"<Close><End of Block>
 <TextBlock 79 w:50 h:4>
 Zephyr
 "It would have to be one

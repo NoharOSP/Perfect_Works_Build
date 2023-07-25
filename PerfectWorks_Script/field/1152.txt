@@ -1411,8 +1411,8 @@ operational, your
 existence has no value.<Delay 15><New>
 I have decided to 
 delete you."<Close><End of Block>
-<TextBlock 272 w:26 h:1>
-What?!<Close><End of Block>
+<TextBlock 272 w:14 h:1>
+What!?<Close><End of Block>
 <TextBlock 273 w:52 h:4>
 Karellen
 "Cain, the only 
