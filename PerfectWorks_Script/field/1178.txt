@@ -139,7 +139,7 @@ closely...<New>
 But it looks pretty bad.
 It may take a while.<Close><End of Block>
 <TextBlock 25 w:48 h:2>
-Whaaat's up? Myrtle? Eh?<Delay 32>
+Whaaat's up, eh, Myrtle?<Delay 32>
 Huh?<Close><End of Block>
 <TextBlock 26 w:46 h:2>
 Hey, miss.<New>

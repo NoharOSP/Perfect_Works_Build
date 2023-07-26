@@ -1,6 +1,6 @@
-<TextBlock 1 w:32 h:2>
+<TextBlock 1 w:28 h:2>
 Fei
-"Hey, that's..."<Close><End of Block>
+"N-<Delay 5>No way..."<Close><End of Block>
 <TextBlock 2 w:48 h:4>
 Rico
 "Whoa, Doc!<New>
