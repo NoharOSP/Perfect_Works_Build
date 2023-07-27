@@ -2,7 +2,7 @@
 Big Joe
 "I lose. 
 Here's your present.
-Adios."<Close><End of Block>
+A~~nd adios."<Close><End of Block>
 <TextBlock 2 w:46 h:2>
  
  Received LongDarkCoat.<Close><End of Block>
@@ -11,24 +11,23 @@ Big Joe
 "Ha, how easy it is
 to beat you, amigo!
 Go away."<Close><End of Block>
-<TextBlock 4 w:36 h:4>
+<TextBlock 4 w:32 h:3>
 Big Joe
 "Ha...a draw.
-Very lucky for you
-senor..."<Close><End of Block>
+You got lucky."<Close><End of Block>
 <TextBlock 5 w:54 h:3>
 Big Joe
-"Hey, hombre. You
+"Hey, hey. You
 disturbin' our amore time?"<New>
     Yes
     No<Close><End of Block>
 <TextBlock 6 w:48 h:3>
 Big Joe
-"Si? Maybe you need some
-manners, muchacho!"<Close><End of Block>
-<TextBlock 7 w:40 h:2>
+"Si? Maybe you need to
+be taught some manners!"<Close><End of Block>
+<TextBlock 7 w:42 h:2>
 Big Joe
-"Well then go away."<Close><End of Block>
+"Well then, go away."<Close><End of Block>
 <TextBlock 8 w:34 h:1>
 Oh Joe, mi amore!<Close><End of Block>
 <TextBlock 9 w:38 h:3>
@@ -70,8 +69,8 @@ Fei
 "?<Delay 20>
 Anyway, I'm glad you're
 okay.<New>
-I always knew that you'd
-be alive."<Close><End of Block>
+I knew all along that
+you'd be alive."<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 Bart
 "Of course.

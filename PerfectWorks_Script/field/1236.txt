@@ -143,7 +143,7 @@ young lady coming
 back...<Close><End of Block>
 <TextBlock 28 w:38 h:3>
 Fei
-"That young Lady<Delay 10>...<Delay 30>
+"That young lady<Delay 10>...<Delay 30>
 Elly!?"<Close><End of Block>
 <TextBlock 29 w:34 h:4>
 Captain

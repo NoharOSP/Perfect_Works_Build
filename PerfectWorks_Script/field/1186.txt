@@ -273,9 +273,9 @@ finally started to realize
 his position as a king."<Close><End of Block>
 <TextBlock 42 w:54 h:4>
 Sigurd
-"Fei, sorry to ask but...<Delay 10>
-Would you mind telling the
-young master to come here?"<Close><End of Block>
+"Sorry to have to ask, Fei,<Delay 10>
+but could you call the
+young master over for me?"<Close><End of Block>
 <TextBlock 43 w:50 h:4>
 Sigurd
 "Young Master...
@@ -283,8 +283,8 @@ You shouldn't play pranks
 in an unknown land!"<Close><End of Block>
 <TextBlock 44 w:52 h:3>
 Sigurd
-"Where one God disdains,
-another God shows mercy.<New>
+"Where one god disdains,
+another god shows mercy.<New>
 We have to appreciate
 people's good intentions."<Close><End of Block>
 <TextBlock 45 w:40 h:4>

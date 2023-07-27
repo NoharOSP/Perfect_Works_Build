@@ -32,12 +32,12 @@ such bad people."<Close><End of Block>
 ...<Opcode 2 100><Close><End of Block>
 <TextBlock 10 w:6 h:1>
 ...<Opcode 2 100><Close><End of Block>
-<TextBlock 11 w:46 h:3>
-This is the underground
+<TextBlock 11 w:40 h:3>
+This is the lower
 dock. Your Gears are
 being repaired here.<Close><End of Block>
-<TextBlock 12 w:58 h:2>
-This is the underground dock.
+<TextBlock 12 w:50 h:2>
+This is the lower dock.
 Your ship is moored here.<Close><End of Block>
 <TextBlock 13 w:58 h:4>
 This is the top of the tower.
@@ -467,8 +467,8 @@ Fei
 "Yeah.<Delay 3>
 So he's still alive!
 Alright!<New>
-We can't just sit here!
-Let's go!"<Close><End of Block>
+We can't just stand
+here! Let's go!"<Close><End of Block>
 <TextBlock 93 w:22 h:2>
 Elly
 "Go where?"<Close><End of Block>
@@ -487,7 +487,7 @@ Captain
 "Ohh, wait a moment."<Close><End of Block>
 <TextBlock 98 w:36 h:4>
 Captain
-"Lower dock, this
+"Lower Dock, this
 is the bridge!<New>
 How are our
 guests' Gears?"<Close><End of Block>
@@ -590,7 +590,7 @@ young lad."<Close><End of Block>
 <TextBlock 116 w:54 h:3>
 Bart
 "The name's Bart.<New>
-You...<Delay 5>*ahem*...<Delay 5>have my most
+You...<Delay 5>ahem...<Delay 5>have my most
 sincere thanks for letting
 us stop off here."<Close><End of Block>
 <TextBlock 117 w:48 h:4>
@@ -692,10 +692,10 @@ Captain
 "Hey, kiddo.
 You supposed to be some
 kinda pirate?"<Close><End of Block>
-<TextBlock 136 w:36 h:5>
+<TextBlock 136 w:36 h:3>
 Bart
 "Oh yeah.
-A man of the sea!
+A man of the sea!<New>
 I was a man of the
 desert, but..."<Close><End of Block>
 <TextBlock 137 w:40 h:4>
@@ -738,7 +738,7 @@ why don't you go rescue
 her?"<Close><End of Block>
 <TextBlock 145 w:40 h:3>
 Margie
-"Just like...<Delay 5>
+"Just like...<Delay 5>how
 Bart helped me out."<Close><End of Block>
 <TextBlock 146 w:16 h:2>
 Fei
@@ -829,6 +829,7 @@ Fei
 "So you appreciate
 Elly's circumstances<-->"<Close><End of Block>
 <TextBlock 166 w:50 h:4>
+Bart
 "So this is no good!<New>
 Things may be okay for
 her, but what about the

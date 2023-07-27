@@ -198,18 +198,18 @@ room created!!"<Close><End of Block>
 (But, because of that,
 I ended up having to
 take a side job...)<Close><End of Block>
-<TextBlock 30 w:52 h:4>
-"How may I be of service?"
+<TextBlock 30 w:50 h:4>
+How may I be of service?
 <Opcode 1 255>    Items
     Weapons/Accessories
     Nothing now, thanks<Close><End of Block>
-<TextBlock 31 w:52 h:4>
-"How may I be of service?"
+<TextBlock 31 w:50 h:4>
+How may I be of service?
 <Opcode 1 255>    Items
     Weapons/Accessories
     Nothing now, thanks<Close><End of Block>
-<TextBlock 32 w:52 h:4>
-"How may I be of service?"
+<TextBlock 32 w:50 h:4>
+How may I be of service?
 <Opcode 1 255>    Items
     Weapons/Accessories
     Nothing now, thanks<Close><End of Block>
@@ -266,15 +266,14 @@ like this...!"<Close><End of Block>
 Citan
 "I would be more than
 happy to come along!!"<Close><End of Block>
-<TextBlock 40 w:52 h:4>
+<TextBlock 40 w:50 h:4>
 Citan
-"Young one,<Delay 10>
-I see you got on well with
-the captain of the Tamuz.<New>
-I guess that was expected.<Delay 10>
-He is a man of the sea,
-the type of person you
-would admire..."<Close><End of Block>
+"I see that the young one
+has hit it off with the
+captain of the Tamuz.<New>
+He is a man of the sea
+for him to look up to,<Delay 10>
+I suppose."<Close><End of Block>
 <TextBlock 41 w:48 h:4>
 Sigurd
 "...<Delay 10>
@@ -450,7 +449,7 @@ The engine's restoration
 is finally finished.<New>
 Why don't you go down
 the stairs to take a look
-at our beautiful engine.<Close><End of Block>
+at our beautiful engine?<Close><End of Block>
 <TextBlock 62 w:50 h:4>
 Billy
 "It was a long journey...<Delay 10>
