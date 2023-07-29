@@ -63,7 +63,7 @@ Oh no<Delay 10>...
 Jesiah!!<Close><End of Block>
 <TextBlock 20 w:38 h:2>
 Damn!
-I'll remember this!<Close><End of Block>
+You'll regret this!<Close><End of Block>
 <TextBlock 21 w:38 h:3>
 Bart
 "H-Hey! What's the
@@ -190,9 +190,9 @@ Doctor
 "...<Delay 10>...<Delay 10>so that's why we
 hoped you could help us
 somehow."<Close><End of Block>
-<TextBlock 45 w:26 h:2>
+<TextBlock 45 w:32 h:2>
 Etone
-"I see<Delay 10>...<Delay 10>..."<Close><End of Block>
+"Is that so<Delay 10>...?"<Close><End of Block>
 <TextBlock 46 w:44 h:3>
 Jessie
 "...Good grief, don't
@@ -402,14 +402,13 @@ we'll really set sail."<Close><End of Block>
 Elly
 "Will you...<Delay 10>
 return to Av?"<Close><End of Block>
-<TextBlock 79 w:50 h:4>
+<TextBlock 79 w:54 h:4>
 Bart
 "Are you kidding?
 We've got to take
 care of Fei first.<New>
 Sorry, but that grouchy
-kid said he'd introduce
-us,<New>
+kid said he'd introduce us,<New>
 so I guess there's no
 choice but to go to
 the Church headquarters."<Close><End of Block>

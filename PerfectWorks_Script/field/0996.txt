@@ -575,8 +575,8 @@ Rico
 "So our destination
 is the Kislev Imperial
 military facility...<New>
-in the 'north lands'
-outside the Capital,
+in the 'north lands' of
+the Capital territory,
 right?<Delay 15> We had better
 make haste!"<Close><End of Block>
 <TextBlock 111 w:54 h:4>

@@ -140,13 +140,14 @@ The lady came back
 unharmed."<Close><End of Block>
 <TextBlock 37 w:56 h:4>
 Captain
-"The Etones?
+"The Etone?
 Oh, that guy who was
 here earlier...<New>
 He left saying he had
-to go investigate something.
-He might be on the deck
-near the supply entrance."<Close><End of Block>
+to go investigate something.<New>
+You might see him at the
+deck plaza or the supply
+entrance."<Close><End of Block>
 <TextBlock 38 w:54 h:4>
 Captain
 "If you're gonna mess with

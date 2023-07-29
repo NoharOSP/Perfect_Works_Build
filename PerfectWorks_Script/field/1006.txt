@@ -126,10 +126,11 @@ Hammer
 Did you forget where the
 base is?<Delay 10>
 *Sigh*,<Delay 15> fine then.<New>
-The military facility is to<Delay 5>
-the north of the Capital,<Delay 10>
-'beyond the carved-out part
-of the mountain range'.<New>
+The military facility is<Delay 5>
+'in the north lands of the
+Imperial Capital territory,<New>
+located beyond a sheer
+mountain range'.<New>
 You're all set, now!"<Close><End of Block>
 <TextBlock 23 w:54 h:4>
 Hammer
@@ -382,13 +383,14 @@ the base?"<Close><End of Block>
 <TextBlock 72 w:26 h:2>
 Elly
 "Yes, Citan."<Close><End of Block>
-<TextBlock 73 w:52 h:4>
+<TextBlock 73 w:48 h:4>
 Elly
-"Way north, beyond the
-Kislev Imperial Capital<Delay 5>...<Delay 5><New>
-beyond the 'carved-out
-part of the mountain
-range'<Delay 30> lies the Imperial
+"In the land far north
+of the Kislev Imperial
+Capital<Delay 5>...<Delay 5><New>
+'located beyond a sheer
+mountain range'...<Delay 30>
+There lies the Imperial
 military facility."<Close><End of Block>
 <TextBlock 74 w:50 h:4>
 Fei
