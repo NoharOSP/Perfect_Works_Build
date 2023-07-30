@@ -8,39 +8,48 @@ Citan
 <TextBlock 3 w:46 h:4>
 Citan
 "Elly, that is not
-true. You cannot resist
-being hypnotized.<New>
-More importantly,
-you saved Fei.<New>
-Fei could not have
-been protected from
-Carl without you.
-Is that not correct?"<Close><End of Block>
-<TextBlock 4 w:50 h:4>
+the case.<New>
+You cannot blame your-
+self for having been
+manipulated by post-
+hypnotic suggestion.<New>
+More importantly, you
+saved Fei. If it
+had not been for your
+efforts back there,<New>
+Fei would not have been
+safeguarded against
+Carl. Is that not
+correct?"<Close><End of Block>
+<TextBlock 4 w:40 h:4>
 Citan
-"Well, we do not want to 
-disturb his recovery.
-So, shall we go now?<New>
-It may take a little 
-longer to finish 
-treating Fei."<Close><End of Block>
+"Well, by being
+here we may disturb
+the examination,<New>
+so let us take our
+leave.<New>
+It looks like Fei's
+treatment is going
+to take a little
+longer."<Close><End of Block>
 <TextBlock 5 w:46 h:4>
 Citan
-"I agree.
-Fei will feel at ease
-that way. Please let us<New>
-know when you finish
-treating Fei.
+"That would be fine.
+It will make Fei feel
+safer.<New>
+Alright, please let
+us know when Fei's
+treatment is finished.<New>
 We will leave the rest
 up to you."<Close><End of Block>
 <TextBlock 6 w:32 h:3>
 Citan
 "Did Fei regain 
 consciousness?"<Close><End of Block>
-<TextBlock 7 w:38 h:3>
+<TextBlock 7 w:30 h:3>
 Citan
-"I am sorry to have
-bothered you."<Close><End of Block>
+"Thank you for
+your trouble."<Close><End of Block>
 <TextBlock 8 w:48 h:3>
 Citan
 "We are in Billy's debt.

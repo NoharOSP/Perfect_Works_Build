@@ -30,32 +30,32 @@ us survivors, but..."<Close><End of Block>
 <TextBlock 7 w:42 h:4>
 Citan
 "Billy, pull yourself
-together.<Delay 10><New>
+together.<New>
 There must still be
 people who could not
 escape. Let us hurry
 to their aid."<Close><End of Block>
-<TextBlock 8 w:40 h:3>
+<TextBlock 8 w:50 h:3>
 Citan
-"Elly, how is Fei's 
-condition?"<Close><End of Block>
-<TextBlock 9 w:36 h:4>
+"Elly, is there news of
+Fei's condition?"<Close><End of Block>
+<TextBlock 9 w:42 h:3>
 Citan
-"I see.
-Then, let us go
-to the infirmary."<Close><End of Block>
-<TextBlock 10 w:54 h:4>
+"I see. Then let us
+go to the infirmary."<Close><End of Block>
+<TextBlock 10 w:52 h:4>
 Citan
-"Are the people from the 
-Church alright? They 
-mentioned survivors but..."<Close><End of Block>
-<TextBlock 11 w:50 h:3>
+"Are the people of the
+Church alright? He called
+us survivors, but..."<Close><End of Block>
+<TextBlock 11 w:42 h:4>
 Citan
-"Billy, pull yourself 
+"Billy, pull yourself
 together.<New>
-There must be people who 
-could not escape.
-Let us go help them."<Close><End of Block>
+There must still be
+people who could not
+escape. Let us hurry
+to their aid."<Close><End of Block>
 <TextBlock 12 w:38 h:3>
 Bart
 "Is Fei's treatment
@@ -139,8 +139,8 @@ Take these steps."<Close><End of Block>
 <TextBlock 30 w:56 h:4>
 Billy
 "That's the confession room.
-If you have a problem, we 
-can discuss it later."<Close><End of Block>
+If you have any troubles, we
+can talk about them later."<Close><End of Block>
 <TextBlock 31 w:48 h:4>
 Billy
 "That's the library.

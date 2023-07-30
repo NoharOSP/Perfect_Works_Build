@@ -1,15 +1,15 @@
 <TextBlock 1 w:52 h:3>
-...wah, wah...<Wait>
+Oh man...<Delay 20>
 Suddenly some men in black
 came and killed everyone.<New>
 I hurried and hid, so they
 didn't find me...<Close><End of Block>
 <TextBlock 2 w:42 h:3>
-...wah, wah...<Wait>
+Oh man...<Delay 20>
 Everyone was killed.
 They killed them all.<Close><End of Block>
 <TextBlock 3 w:50 h:4>
-Ah, busy, busy.<Wait>
+Ah, busy, busy.<Delay 20>
 Many more refugees came.
 We need to feed them well
 to cheer them up!!<Close><Close><End of Block>

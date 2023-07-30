@@ -92,17 +92,17 @@ Let's go."<Close><End of Block>
 Billy
 "We have been waiting
 for you.<New>
-I have received permis-
-sion for Fei to be
-treated at the training
-hall medical facility.<New>
+I have received permission
+for Fei to be treated at
+the training hall medical
+facility.<New>
 Let our Church staff
 take it from here."<Close><End of Block>
 <TextBlock 21 w:34 h:3>
 Elly
 "Please, take
 care of Fei<Delay 10>..."<Close><End of Block>
-<TextBlock 22 w:42 h:4>
+<TextBlock 22 w:46 h:4>
 Billy
 "The brothers from the
 Church are on their way
@@ -164,15 +164,15 @@ This is the training
 hall. The facility was
 built for we Etones.<Close><End of Block>
 <TextBlock 32 w:54 h:5>
-No.
-Only Church members or
-those with known identities
-can enter the cathedral
-and its related facilities.<New>
-The same thing applies to
-this training hall, but the
+No.<Delay 10> Only Church members or
+people who have passed a
+background check can enter
+the cathedral and its
+related facilities.<New>
+The same applies to this
+training hall, but the
 bishop made an exception
-for Brother Billy.<Close><End of Block>
+at Brother Billy's request.<Close><End of Block>
 <TextBlock 33 w:24 h:1>
 B...<Delay 20>Billy<Delay 10>...<Close><End of Block>
 <TextBlock 34 w:64 h:2>
