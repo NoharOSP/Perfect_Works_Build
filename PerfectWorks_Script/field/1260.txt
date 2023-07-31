@@ -183,7 +183,7 @@ see a silver-haired man
 with amber skin, is all.<New>
 Well, well, you guys.
 It's become quite the
-reunion lately! "<Close><End of Block>
+reunion lately!"<Close><End of Block>
 <TextBlock 38 w:54 h:3>
 Citan
 "Well, one thing leads
@@ -368,9 +368,8 @@ Jessie
 have heard a ton of
 good stories.<New>
 Not to mention
-Sigurd's tale of
-woe, that was
-priceless."<Close><End of Block>
+Sigurd's mishap <-->
+that was priceless."<Close><End of Block>
 <TextBlock 74 w:52 h:4>
 Billy
 "You know Siggy can't take

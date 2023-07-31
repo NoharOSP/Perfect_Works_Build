@@ -19,7 +19,7 @@ to Nisan<Close><End of Block>
 Capital of Kislev<Close><End of Block>
 <TextBlock 9 w:30 h:1>
 <Opcode 1 255>Goliath Factory<Close><End of Block>
-<TextBlock 10 w:20 h:1>
+<TextBlock 10 w:22 h:1>
 <Opcode 1 255>Fort Jasper<Close><End of Block>
 <TextBlock 11 w:18 h:1>
 <Opcode 1 255>Orphanage<Close><End of Block>
@@ -31,15 +31,15 @@ Capital of Kislev<Close><End of Block>
 <Opcode 1 255>Lighthouse<Close><End of Block>
 <TextBlock 15 w:22 h:2>
 <Opcode 1 255>The Church
-   H.Q.<Close><End of Block>
+    HQ<Close><End of Block>
 <TextBlock 16 w:14 h:1>
 <Opcode 1 255>Solaris<Close><End of Block>
 <TextBlock 17 w:34 h:1>
 <Opcode 1 255>Snowfield Base<Close><End of Block>
-<TextBlock 18 w:22 h:2>
+<TextBlock 18 w:24 h:2>
 <Opcode 1 255>Anima Vessel
  Dungeon 1<Close><End of Block>
-<TextBlock 19 w:22 h:2>
+<TextBlock 19 w:24 h:2>
 <Opcode 1 255>Anima Vessel
  Dungeon 2<Close><End of Block>
 <TextBlock 20 w:8 h:1>

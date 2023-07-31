@@ -34,13 +34,13 @@ Where is he?<Close><End of Block>
 Rico
 "..."<Close><End of Block>
 <TextBlock 8 w:32 h:3>
-(Oh-no!<Delay 10> 
+(Oh no!<Delay 10> 
 That wasn't...
 his father...!?)<Close><End of Block>
 <TextBlock 9 w:52 h:4>
 Rico
-"Listen son! Your father's
-gone to a faraway place...<Delay 10>
+"Listen, son! Your father
+went to a faraway place...<Delay 10>
 Here, this is his bell!"<Close><End of Block>
 <TextBlock 10 w:48 h:4>
 My father's a liar!!<Delay 10>
@@ -51,7 +51,7 @@ I've waited...<Delay 10>so long...<Delay 10>
 Oh, Daddy...<Delay 10>why?<Delay 10>
 Boo-hoo-hoo!<Close><End of Block>
 <TextBlock 11 w:44 h:3>
-Sob,<Delay 10> sob...<Delay 10>
+*Sob,<Delay 10> sob*...<Delay 10>
 But...<Delay 10>thanks.<New>
 Thanks for bringing<Delay 10>  
 Dad's bell back.<Delay 10>

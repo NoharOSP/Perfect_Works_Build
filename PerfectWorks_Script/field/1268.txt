@@ -1,9 +1,9 @@
 <TextBlock 1 w:40 h:3>
 Hey, you're going
-to the 'hideout for 
+to the 'hideout for
 skinful termites'?<Close><End of Block>
 <TextBlock 2 w:32 h:2>
-Zephyr will eat 
+Zephyr will eat
 you up...!<Close><End of Block>
 <TextBlock 3 w:50 h:3>
 Hey, read me this book...
@@ -15,18 +15,18 @@ Ya~y!!<Close><End of Block>
 <Perso1>
 "Long, long ago there was
 a woman named Zephyr. <New>
-She wanted to be a god
+She wanted to be a god,
 so she built a tower that
 reached up to heaven.<New>
 Then she built a city at
-the top. But god got mad
+the top. But God got mad
 and destroyed her tower.<New>
 So she then had to live
 in a 'hideout for sinful
 hermits'.<New>
 After that she never 
 returned to the earth
-again... The end."<Close><End of Block>
+again... The End."<Close><End of Block>
 <TextBlock 6 w:36 h:4>
 Is there really a
 'hideout for
@@ -81,8 +81,8 @@ This bed's so fluffy!!
 Ya wanna fluff it?
     I wanna fluff
     No thanks<Close><End of Block>
-<TextBlock 24 w:16 h:1>
-Go ahead<Close><End of Block>
+<TextBlock 24 w:18 h:1>
+Go ahead.<Close><End of Block>
 <TextBlock 25 w:32 h:1>
 It's so fluffy!!<Close><End of Block>
 <TextBlock 26 w:28 h:1>

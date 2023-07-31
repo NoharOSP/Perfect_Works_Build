@@ -287,7 +287,7 @@ Jessie
 "Oh god, is it that time
 already?<Delay 10> Well then, before
 we go let's do the usual...<New>
-You know...<Delay 5> the 'paint the
+You know...<Delay 5>the 'paint the
 face on your stomach and
 dance around' trick...?<Delay 5>
 The three of us together!"<Close><End of Block>
@@ -608,7 +608,7 @@ operation went
 pretty well!<New>
 Anyway, after you
 left, that Billy
-cried y'know?"<Close><End of Block>
+cried, y'know?"<Close><End of Block>
 <TextBlock 87 w:22 h:3>
 Sigurd
 "...<Delay 10>

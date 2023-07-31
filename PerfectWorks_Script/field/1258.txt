@@ -283,10 +283,9 @@ Bishop Stone
 most likely Wels again.<New>
 Billy, can I ask you
 to do the usual?"<Close><End of Block>
-<TextBlock 77 w:48 h:4>
+<TextBlock 77 w:48 h:3>
 Billy
-"Right,<Delay 10>
-no problem.<Delay 10>
+"Right,<Delay 10> no problem.<Delay 10>
 Leave it to me, Bishop."<Close><End of Block>
 <TextBlock 78 w:44 h:4>
 Bishop Stone
