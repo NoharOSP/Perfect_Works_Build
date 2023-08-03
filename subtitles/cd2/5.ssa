@@ -18,7 +18,7 @@ Timer: 100.0000
 [V4 Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
 Style: Default,Xenogears Interior,25,16777215,0,0,0,0,0,1,2,2,2,20,20,30,0,0
-Style: Normal,Xeno Standard,25,16777215,0,0,8663870,0,0,1,2,0,2,20,20,30,0,0
+Style: Normal,Xenogears Perfect Words,32.5,16777215,0,0,8663870,0,0,1,2,0,2,20,20,30,0,0
 
 [Fonts]
 
@@ -57,7 +57,7 @@ Dialogue: Marked=0,0:03:05.60,0:03:07.80,Normal,,0,0,0,,I'm sure everyone will u
 Dialogue: Marked=0,0:03:07.85,0:03:12.05,Normal,,0,0,0,,There's plenty of time for you to atone! I believe in you, Karellen!
 Dialogue: Marked=0,0:03:14.15,0:03:17.15,Normal,,0,0,0,,Still as kind as ever, Lacan.
 Dialogue: Marked=0,0:03:18.15,0:03:21.60,Normal,,0,0,0,,I guess that's what it means to be human...
-Dialogue: Marked=0,0:03:24.25,0:03:27.65,Normal,,0,0,0,,But I've already decided.
+Dialogue: Marked=0,0:03:24.25,0:03:27.65,Normal,,0,0,0,,But I've already decided:
 Dialogue: Marked=0,0:03:29.10,0:03:31.08,Normal,,0,0,0,,I will walk with God.
 Dialogue: Marked=0,0:03:31.10,0:03:33.80,Normal,,0,0,0,,Besides, if I turned back now...
 Dialogue: Marked=0,0:03:34.55,0:03:37.75,Normal,,0,0,0,,would there be a place for me...?
