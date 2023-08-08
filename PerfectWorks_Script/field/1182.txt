@@ -88,13 +88,13 @@ atmosphere... That is
 what I offer you...<New>
 A bartender's life isn't
 all that bad, you know!"<Close><End of Block>
-<TextBlock 16 w:52 h:4>
+<TextBlock 16 w:44 h:4>
 Maison
-"For people from a heathen
-nation like us to receive
-such charity...<New>
-My word, God is so very,
-very tolerant...<Close><End of Block>
+"For such charity
+to be imparted to
+we godless folk...<New>
+My word, God is so
+very, very tolerant...<Close><End of Block>
 <TextBlock 17 w:52 h:3>
 Maison
 "Miss Elly...
@@ -662,7 +662,7 @@ Let me give you an
 explanation since we're
 going to be working
 together."<Close><End of Block>
-<TextBlock 97 w:56 h:4>
+<TextBlock 97 w:54 h:4>
 Billy
 "First of all, regarding
 my basic loadout of guns,
@@ -702,7 +702,7 @@ not have such a limit.<Delay 20>
 Well, that's about it...<New>
 Did you understand?"
     <Opcode 1 255>Yes
-    No, please explain again<Delay 10><Close><End of Block>
+    Once more, please<Close><End of Block>
 <TextBlock 98 w:54 h:4>
 Bart
 "I got the gist of it,

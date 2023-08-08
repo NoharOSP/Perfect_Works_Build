@@ -6,4 +6,4 @@ this.)"<Close><End of Block>
 <TextBlock 2 w:38 h:3>
 Mmrrgh<Delay 10>...<Delay 20>
 It's up to you now,<Delay 30>
-big brother...<Opcode 2 20><Close><End of Block>
+big brother...<Opcode 2 40><Close><End of Block>

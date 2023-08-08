@@ -198,7 +198,7 @@ check them out?<New>
 By the way, Jessie
 wanted to speak to
 you about Gears. He's
-in the Gun Room."<Close><End of Block>
+in the gun room."<Close><End of Block>
 <TextBlock 29 w:50 h:4>
 Sigurd
 "We have arrived at the
@@ -208,14 +208,14 @@ Be careful now, Billy..."<Close><End of Block>
 Sigurd
 "Good morning.<Delay 10>
 Billy is waiting
-in the Gun Room."<Close><End of Block>
+in the gun room."<Close><End of Block>
 <TextBlock 31 w:50 h:2>
 (U...ugh...<Delay 10>
 Feels like a hangover...)<Close><End of Block>
 <TextBlock 32 w:34 h:3>
 Sigurd
 "Billy is waiting
-in the Gun Room."<Close><End of Block>
+in the gun room."<Close><End of Block>
 <TextBlock 33 w:54 h:4>
 Sigurd
 "I see. So Fei'll recover
@@ -398,7 +398,7 @@ Bart
 <TextBlock 62 w:38 h:3>
 Bart
 "Sig is drinking in
-the Gun Room."<Close><End of Block>
+the gun room."<Close><End of Block>
 <TextBlock 63 w:38 h:2>
 Bart
 "I can go anytime!"<Close><End of Block>
@@ -1113,7 +1113,7 @@ Jessie
 "Okay, I'll tell you more.<New>
 But I ain't doin' it
 sober, so let's go to
-the Gun Room."<Close><End of Block>
+the gun room."<Close><End of Block>
 <TextBlock 181 w:32 h:2>
 Fei
 "That <Delay 10>can't be!"<Close><End of Block>

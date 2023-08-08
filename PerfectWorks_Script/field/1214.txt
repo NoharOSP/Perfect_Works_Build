@@ -51,9 +51,9 @@ the fact that I broke the
 wall or anything.)<New>
 Oh, and by the way...
 You can go through this
-door to the Gun Room, or
+door to the gun room, or
 go down the stairs to the
-Engine Room.<Close><End of Block>
+engine room.<Close><End of Block>
 <TextBlock 12 w:54 h:3>
 I'll remember to obey
 lights-out from now on...<Delay 10>

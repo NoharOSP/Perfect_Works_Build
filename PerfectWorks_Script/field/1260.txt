@@ -75,13 +75,13 @@ Aw gee...<Delay 10> I wanted to
 hurry up and empty this
 bottle so we could put
 pretty shells in it!<Close><End of Block>
-<TextBlock 16 w:42 h:2>
-By the way...
-don't tell Brother B!<Close><End of Block>
+<TextBlock 16 w:36 h:2>
+By the way, don't
+tell my brother!<Close><End of Block>
 <TextBlock 17 w:40 h:3>
-Ah, you scared me.<Delay 10> 
-I thought you were
-Brother B<--><New>
+Ah, you scared me.<Delay 10>
+I thought it was
+my brother...<New>
 It's a secret, okay?
     Okay
     I don't know<Close><End of Block>
@@ -96,8 +96,8 @@ picture book!<Close><End of Block>
 <TextBlock 20 w:34 h:2>
 You're a meanie! 
 Go away!<Close><End of Block>
-<TextBlock 21 w:38 h:3>
-There's a string...
+<TextBlock 21 w:36 h:3>
+There's a cord...
     Pull it!!
     Don't<Close><End of Block>
 <TextBlock 22 w:46 h:4>

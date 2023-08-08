@@ -36,7 +36,7 @@ won't close up shop!<Close><End of Block>
 Come on in!<Close><End of Block>
 <TextBlock 6 w:30 h:4>
 Looking for...
-    Items
+<Opcode 1 255>    Items
     Accessories
     Nothing<Close><End of Block>
 <TextBlock 7 w:40 h:1>
@@ -47,7 +47,7 @@ Thank you very much.<Close><End of Block>
 Come again!<Close><End of Block>
 <TextBlock 10 w:30 h:5>
 Looking for...
-    Items
+<Opcode 1 255>    Items
     Accessories
     Gear parts
     Nothing<Close><End of Block>
@@ -68,12 +68,12 @@ Let's just leave the
 right amount of money
 here."<Close><End of Block>
 <TextBlock 16 w:30 h:3>
-    Items
+<Opcode 1 255>    Items
     Accessories
     Nothing<Close><End of Block>
 <TextBlock 17 w:50 h:3>
 Young Master, the old man
-from the Gun Room sent me
+from the gun room sent me
 here for supplies.<New>
 If you want, I can also
 get Gear parts you may
@@ -85,7 +85,7 @@ If that's the case, please
 get the parts we need."<Close><End of Block>
 <TextBlock 19 w:46 h:3>
 The old man from the
-Gun Room sent me
+gun room sent me
 here for supplies.<New>
 If you want, I can also
 get Gear parts you may
