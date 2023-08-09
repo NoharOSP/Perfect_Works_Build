@@ -247,14 +247,48 @@ void writeFile::doArena() {
 			goHome();
 			if (std::filesystem::exists("\kislev_battle")) {
 				std::filesystem::current_path("\kislev_battle");
+				if (std::filesystem::exists("\Gear")) {
+					std::filesystem::current_path("\Gear");
+					for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+						std::string fileName = entry.path().string();
+						std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+						preprocess(finalName);
+					}
+				}
+				else {
+					MessageBox(wind, L"Could not find directory for 'Gear'.", L"Error", MB_ICONERROR);
+				}
+				goHome();
+				std::filesystem::current_path("\kislev_battle");
+				if (wf_script) {
+					if (std::filesystem::exists("\Misc_script")) {
+						std::filesystem::current_path("\Misc_script");
+						for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+							std::string fileName = entry.path().string();
+							std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+							preprocess(finalName);
+						}
+					}
+					else {
+						MessageBox(wind, L"Could not find directory for 'Misc_script'.", L"Error", MB_ICONERROR);
+					}
+				}
+				else {
+					if (std::filesystem::exists("\Misc_item")) {
+						std::filesystem::current_path("\Misc_item");
+						for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+							std::string fileName = entry.path().string();
+							std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+							preprocess(finalName);
+						}
+					}
+					else {
+						MessageBox(wind, L"Could not find directory for 'Misc_item'.", L"Error", MB_ICONERROR);
+					}
+				}
 			}
 			else {
 				MessageBox(wind, L"Could not find directory for 'kislev_battle'.", L"Error", MB_ICONERROR);
-			}
-			for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-				std::string fileName = entry.path().string();
-				std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-				preprocess(finalName);
 			}
 		}
 	}

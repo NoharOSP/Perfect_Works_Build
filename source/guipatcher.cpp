@@ -381,7 +381,12 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 							}
 						}
 						if (pathFound2) {
-							itemspellsName2 = "cd2_items_script.xdelta";
+							if (!p_arena) {
+								itemspellsName2 = "cd2_items_script.xdelta";
+							}
+							else {
+								itemspellsName2 = "cd2_script_item_arena.xdelta";
+							}
 							if (!pc2.undubCheck(path2)) {
 								fmvName2 = "cd2_fmvs.xdelta";
 							}
@@ -392,7 +397,13 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 							itemspellsName1 = "cd1_items_spells.xdelta";
 						}
 						if (pathFound2) {
-							itemspellsName2 = "cd2_items_spells.xdelta";
+							if (!p_arena)
+							{
+								itemspellsName2 = "cd2_items_spells.xdelta";
+							}
+							else {
+								itemspellsName2 = "cd2_items_arena.xdelta";
+							}
 						}
 					}
 				}
@@ -409,14 +420,16 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					}
 				}
 				if (p_script) {
-					if (!p_items_spells) {
-						if (pathFound1) {
+					if (pathFound1) {
+						if (!p_items_spells) {
 							scriptName1 = "cd1_script.xdelta";
 							if (!pc1.undubCheck(path1)) {
 								fmvName1 = "cd1_fmvs.xdelta";
 							}
 						}
-						if (pathFound2) {
+					}
+					if (pathFound2) {
+						if (!p_items_spells && !p_arena) {
 							scriptName2 = "cd2_script.xdelta";
 							if (!pc2.undubCheck(path2)) {
 								fmvName2 = "cd2_fmvs.xdelta";
@@ -445,7 +458,17 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 					}
 					if (pathFound2) {
-						arenaName2 = "cd2_battling_arena.xdelta";
+						if (!p_items_spells) {
+							if (!p_script && !scriptExists) {
+								arenaName2 = "cd2_battling_arena.xdelta";
+							}
+							else {
+								arenaName2 = "cd2_script_arena.xdelta";
+								if (!pc2.undubCheck(path2)) {
+									fmvName2 = "cd2_fmvs.xdelta";
+								}
+							}
+						}
 					}	
 				}
 				if (p_portraits) {
