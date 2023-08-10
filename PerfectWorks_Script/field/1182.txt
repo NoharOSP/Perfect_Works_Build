@@ -403,9 +403,9 @@ most expensive booze you
 can buy!<Delay 30> Ha ha ha ha!"<Close><End of Block>
 <TextBlock 53 w:52 h:4>
 Jessie
-"Hah...!<Delay 10> Just goes to show
-the kid needs his parents
-around him all the time!"<Close><End of Block>
+"Just goes to show that
+our parents have got to be
+there for us. Ga, ha, ha!"<Close><End of Block>
 <TextBlock 54 w:52 h:4>
 Jessie
 "Ga, ha, ha!!
@@ -980,7 +980,7 @@ at the top of the tower for
 communicating with the
 Shevat homeland.<Delay 10> If that
 still exists today, then..."<Close><End of Block>
-<TextBlock 144 w:46 h:4>
+<TextBlock 144 w:48 h:4>
 Citan
 "Hmm...<Delay 10> There is a good
 possibility the facility

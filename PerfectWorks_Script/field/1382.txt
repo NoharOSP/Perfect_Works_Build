@@ -108,7 +108,7 @@ the power!"<Close><End of Block>
 Stone
 "All this...<Delay 10>
 observing...<Delay 10>
-Scheming...<New>
+scheming...<New>
 Let's just get
 things done..."<Close><End of Block>
 <TextBlock 22 w:50 h:4>

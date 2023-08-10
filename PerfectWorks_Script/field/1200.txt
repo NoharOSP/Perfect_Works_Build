@@ -47,9 +47,10 @@ your fault..."<Close><End of Block>
 Billy
 "This's the best way
 to see Father off."<Close><End of Block>
-<TextBlock 12 w:30 h:2>
-You're right...<Delay 10>
-Thanks, son.<Close><End of Block>
+<TextBlock 12 w:32 h:3>
+Jessie
+"You're right...<Delay 10>
+Thanks, son."<Close><End of Block>
 <TextBlock 13 w:18 h:2>
 Billy
 "D-<Delay 5>Dad!"<Close><End of Block>

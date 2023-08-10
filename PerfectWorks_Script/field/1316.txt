@@ -9,7 +9,7 @@ Bart
 "An inquisitor?"<Close><End of Block>
 <TextBlock 4 w:54 h:4>
 Billy
-...<Delay 10>...<Delay 10> I...<Delay 10>...<Delay 10>
+"...<Delay 10>...<Delay 10> I...<Delay 10>...<Delay 10>
 still can't believe it.<New>
 That the Church was such a
 suspicious organization<Delay 10>...<Delay 10>

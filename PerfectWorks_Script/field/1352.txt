@@ -57,7 +57,7 @@ status?
 Reset complete.
 Emergency status
 normal at this time.<Close><End of Block>
-<TextBlock 12 w:46 h:4>
+<TextBlock 12 w:48 h:4>
 <Opcode 1 255>Failure to reset the
 emergency status will
 prevent use of the main

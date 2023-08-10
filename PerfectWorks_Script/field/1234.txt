@@ -437,9 +437,11 @@ it, and my eyes are good!<New>
 They say the undead called
 Wels come from there.<Close><End of Block>
 <TextBlock 84 w:44 h:3>
-I was surprised by the
-Wels. They said they
-came from Babel Tower.<Close><End of Block>
+I'm surprised about
+the Wels.<New>
+I guess the rumor that
+they come from Babel
+Tower is false, huh?<Close><End of Block>
 <TextBlock 85 w:32 h:2>
 Huh?<Delay 10> Isn't this
 the beer hall?<Close><End of Block>

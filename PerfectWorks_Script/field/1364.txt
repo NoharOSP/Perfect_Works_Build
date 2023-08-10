@@ -35,7 +35,7 @@ The child's body is most
 likely<-->"<Close><End of Block>
 <TextBlock 6 w:40 h:2>
 Citan
-"Wait right there!!"<Opcode 2 16><Close><End of Block>
+"Stop right there!!"<Opcode 2 20><Close><End of Block>
 <TextBlock 7 w:34 h:4>
 Citan
 "So,<Delay 10> even that

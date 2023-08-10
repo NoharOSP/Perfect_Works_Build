@@ -42,11 +42,10 @@ He's gone."<Close><End of Block>
 Bart
 "Your old man's capable
 of anything."<Close><End of Block>
-<TextBlock 11 w:38 h:4>
+<TextBlock 11 w:46 h:3>
 Billy
-"Th-<Delay 10>This is<Delay 10>...!
-What the<Delay 10>...?
-What is going on?"<Close><End of Block>
+"What the<Delay 10>...!?<Delay 10>
+Just what is going on?"<Close><End of Block>
 <TextBlock 12 w:34 h:3>
 Billy
 "Are you okay!?<Delay 10>
@@ -173,8 +172,8 @@ The same applies to this
 training hall, but the
 bishop made an exception
 at Brother Billy's request.<Close><End of Block>
-<TextBlock 33 w:24 h:1>
-B...<Delay 20>Billy<Delay 10>...<Close><End of Block>
+<TextBlock 33 w:22 h:1>
+B-<Delay 20>Billy<Delay 10>...<Close><End of Block>
 <TextBlock 34 w:64 h:2>
 I<Delay 10>... I don't know<Delay 10>...<Delay 10>...
 Suddenly, <Delay 10>I heard gunshots<Delay 20>...<Delay 30>...<Delay 50><Close><End of Block>

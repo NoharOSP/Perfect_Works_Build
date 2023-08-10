@@ -408,13 +408,12 @@ same meaning.<Close><End of Block>
 That is so.
 Either way it
 is the same<Delay 5>...<Close><End of Block>
-<TextBlock 80 w:26 h:3>
+<TextBlock 80 w:24 h:3>
 So you have
-returned<Delay 5>...
-And<Delay 5>?<New>
-Did you get
-what you were
-after?<Close><End of Block>
+returned<Delay 5>...<New>
+And?<Delay 10> Did you
+get what you
+were after?<Close><End of Block>
 <TextBlock 81 w:38 h:4>
 Karellen
 "Yes.<Delay 10> I have

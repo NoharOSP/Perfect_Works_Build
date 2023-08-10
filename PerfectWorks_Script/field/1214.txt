@@ -9,26 +9,26 @@ the ladies' use, so
 let us refrain."<Close><End of Block>
 <TextBlock 3 w:28 h:3>
 Bart
-"I'll stop 
+"I'll stop
 right here..."<Close><End of Block>
 <TextBlock 4 w:46 h:2>
 Fei isn't here!<Delay 10>
 I wonder where he went?<Close><End of Block>
 <TextBlock 5 w:50 h:4>
-So-o-o-rry.<Delay 10>
+So~rry.<Delay 10>
 The Shevat agent is in
 intensive care...<Delay 5> So...<Delay 10>
-No visitors are allowed!!<Close><End of Block>
-<TextBlock 6 w:54 h:4>
+no visitors are allowed!!<Close><End of Block>
+<TextBlock 6 w:52 h:4>
 (I've always wanted to say
 that...!<Delay 10>
- "No visitors are allowed!"<Delay 10>
-Now I'm so<Delay 5>-o-<Delay 5>o-o<Delay 5> happy!!)<Close><End of Block>
+'No visitors are allowed!'<Delay 10>
+Now I'm so<Delay 5>o<Delay 5>oo<Delay 5> happy!!)<Close><End of Block>
 <TextBlock 7 w:56 h:3>
 Gawd... I've been standing
 here for such a long time...<New>
 Was I of any help to you?
-    Of course
+<Opcode 1 255>    Of course
     Hmmm, I dunno<Close><End of Block>
 <TextBlock 8 w:44 h:3>
 Well I'm happy to hear
@@ -60,7 +60,7 @@ lights-out from now on...<Delay 10>
 So, please come back alive.<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 What?<Delay 10> Can't find Fei?
-N,<Delay 5> no,<Delay 5> I wouldn't know.<Delay 10>
+N-<Delay 5>No,<Delay 5> I wouldn't know.<Delay 10>
 (Not that I was sleeping
 on the job or anything...)<Close><End of Block>
 <TextBlock 14 w:40 h:2>

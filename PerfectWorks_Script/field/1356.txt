@@ -17,12 +17,11 @@ by executing a manual scan.<New>
 reset the emergency status
 at the nearest terminal.<Close><End of Block>
 <TextBlock 3 w:40 h:3>
-Execute manual scan?
+<Opcode 1 255>Execute manual scan?
      Execute
      Cancel<Close><End of Block>
 <TextBlock 4 w:44 h:4>
-<Opcode 1 255>Please wait.<Delay 32>
-..<Delay 32>.<Delay 32>...<Delay 32>..<Delay 32>....<Delay 32>..<Delay 32>..<Delay 32>..<Delay 32><New>
+<Opcode 1 255>Please wait.<Delay 32>..<Delay 32>.<Delay 32>...<Delay 32>..<Delay 32>..<Delay 32>
 Scan complete.
 Nano contamination
 negative at this time.<New>

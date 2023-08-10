@@ -1,6 +1,6 @@
 <TextBlock 1 w:16 h:2>
 Elly
-"Oh!..."<Opcode 2 24><Close><End of Block>
+"Oh...!"<Opcode 2 40><Close><End of Block>
 <TextBlock 2 w:46 h:3>
 Elly
 "Y-Yes...
