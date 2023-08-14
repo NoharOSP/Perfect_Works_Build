@@ -360,7 +360,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						fastName1 = "cd1_fast_text_new_script.xdelta";
 					}
 					if (pathFound2) {
-						fastName2 = "cd2_fast_text_new_script.xdelta";
+						fastName2 = "cd2_fast_text.xdelta";
 					}
 					
 				}
@@ -369,7 +369,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						fastName1 = "cd1_fast_text_old_script.xdelta";
 					}
 					if (pathFound2) {
-						fastName2 = "cd2_fast_text_old_script.xdelta";
+						fastName2 = "cd2_fast_text.xdelta";
 					}
 				}
 				if (p_items_spells) {

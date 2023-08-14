@@ -191,24 +191,15 @@ void writeFile::doFast() {
 			goHome();
 			if (std::filesystem::exists("\speed_one")) {
 				std::filesystem::current_path("\speed_one");
+				for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+					std::string fileName = entry.path().string();
+					std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+					preprocess(finalName);
+				}
 			}
 			else {
 				MessageBox(wind, L"Could not find directory for 'speed_one'.", L"Error", MB_ICONERROR);
 			}
-		}
-		else if (discNum == 2) {
-			goHome();
-			if (std::filesystem::exists("\speed_two")) {
-				std::filesystem::current_path("\speed_two");
-			}
-			else {
-				MessageBox(wind, L"Could not find directory for 'speed_two'.", L"Error", MB_ICONERROR);
-			}
-		}
-		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-			std::string fileName = entry.path().string();
-			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-			preprocess(finalName);
 		}
 	}
 }
