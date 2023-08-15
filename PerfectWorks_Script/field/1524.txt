@@ -14,17 +14,19 @@ years on the Ignas
 continent...<New>
 It was just a farce
 plotted by Solaris!?"<Close><End of Block>
-<TextBlock 4 w:44 h:3>
+<TextBlock 4 w:38 h:4>
 Rico
-"...I see...that's how
-it was."<Close><End of Block>
-<TextBlock 5 w:48 h:3>
+"...<Delay 20>
+I see...
+That's how it was."<Close><End of Block>
+<TextBlock 5 w:34 h:3>
 Billy
 "The Church...
-supervised...?<New>
-The land dwellers...like
-domestic animals...?<Delay 30>
-Then I was..."<Close><End of Block>
+did this to the
+land dwellers...?<New>
+Managed them...
+like cattle...?<New>
+I..."<Close><End of Block>
 <TextBlock 6 w:54 h:3>
 The Limiter constrains the
 Lambs' abilities. But there
@@ -35,19 +37,20 @@ Shevat.<New>
 He must know a way to
 remove the Limiter.<Close><End of Block>
 <TextBlock 7 w:54 h:5>
-The scientists of Solaris
-had bitter experiences in
-the revolt by the Lambs
-500 years ago. <New>
-So they decided to do
-some work on the Lambs.<Delay 20>
-They inserted various
-Limiters so that they would
-never be able to revolt.<New>
+The scientists of Solaris,
+disgusted at the rebellion
+of the land dwellers 500
+years ago, decided to do a
+little work on them.<New>
+They installed various
+seals, called 'Limiters',
+in the people so that they
+would never again be able
+to revolt.<New>
 For the past 500 years,
-Solaris controlled the
-Lambs' consciousness,
-behavior and all.<New>
+Solaris has controlled
+the Lambs' consciousness,
+behavior, everything.<New>
 Naturally, Lambs don't
 know anything about it.<Delay 20>
 That makes it even more
@@ -69,7 +72,7 @@ to be raised for Solaris'
 purposes.<Delay 20>
 The Church was
 established mainly to
-control the Lambs.<Close><End of Block>
+manage the Lambs.<Close><End of Block>
 <TextBlock 9 w:54 h:5>
 It's not a farce.<Delay 20>
 To them, it's an important

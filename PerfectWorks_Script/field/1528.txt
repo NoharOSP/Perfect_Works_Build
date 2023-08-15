@@ -7,26 +7,27 @@ ancestor Roni fought
 alongside Queen Zephyr
 against Solaris...?<New>
 Hmm..."<Close><End of Block>
-<TextBlock 2 w:56 h:3>
-At one point, Solaris and
-its Gazel Ministry made up
-of 12 elders...<New>
-...dominated the world
+<TextBlock 2 w:54 h:3>
+At one point, Solaris
+and its Gazel Ministry
+of twelve elders<New>
+dominated the world
 with more military might
 than they have presently.<New>
 The people on the land were
 treated like slaves...<New>
-If any of them resisted,
+If anyone resisted,
 they were quickly and
 mercilessly dealt with.<New>
 They treated the people as
 if they weren't living
 beings.<New>
-Eventually, people on the
-surface began to rebel from
-all parts and ultimately...<New>
-...led to the Solaris-Shevat
-War of 500 years ago.<Close><End of Block>
+Eventually, people on
+the surface from all
+quarters began to rebel,<New>
+ultimately leading to the
+Solaris-Shevat War of 500
+years ago.<Close><End of Block>
 <TextBlock 3 w:54 h:4>
 The great war that unfolded
 between Solaris and Shevat,
@@ -82,8 +83,7 @@ dreadful days...<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 500 years ago, mankind was
 able to make it through and
-survive certain death,
-<New>
+survive certain death,<New>
 thanks to the power
 of the giants created
 through God's wisdom.<New>
@@ -169,7 +169,7 @@ You're probably already
 aware of this...<New>
 ...but this Shevat is
 protected by a special
-gate made possible by
+Gate, made possible by
 an ancient technology.<New>
 Even Solaris cannot break
 this barrier. Because of
@@ -183,7 +183,7 @@ Basically, we've just been
 glaring at each other.<Close><End of Block>
 <TextBlock 10 w:54 h:5>
 After the war, Solaris
-used a gate, like ours,
+used a Gate like ours
 to separate itself from
 the surface.<New>
 And then, they erased all
