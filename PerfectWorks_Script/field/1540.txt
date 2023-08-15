@@ -103,11 +103,11 @@ criminals in their cells.<Delay 20>
 It's been said that
 soldiers from Solaris were
 locked up in here long ago.<New>
-I've heard we've even done
+I've heard that even we did
 many atrocious things at
-that time.<Delay 20> 
-War is like that. It
-abolishes good and bad.<New>
+that time.<Delay 20>
+War is like that. We forget
+what's good and what's bad.<New>
 One betrays friends,
 neighbors, even his own
 flesh and blood...<Delay 20>
@@ -116,26 +116,25 @@ humans into crazed monsters.<Close><End of Block>
 <TextBlock 15 w:50 h:6>
 This is a Carbonite Cage
 that petrifies humans
-alive.<Delay 20> Regardless of
-whether it was only used
-on criminals, it is still
-heinous.<New>
+alive.<Delay 20> Even if it was
+only used on criminals,
+it is still heinous.<New>
 No matter how you look at
 it, they've sure thought
 of cruel things.<Close><End of Block>
 <TextBlock 16 w:46 h:4>
-By the way, you land
+By the way, d'you land
 dwellers know about the
 Nisan tragedy during
 the great war?<New>
 Did you hear anything
 from the higher ups?
-    Yes
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 17 w:50 h:4>
 I'm surprised they told
-you. So, you know what it
-is, don't you?<New>
+you. In that case, what
+more can I say?<New>
 Don't believe everything
 those old men say.<Delay 20>
 Nothing good will come
@@ -151,7 +150,7 @@ Bunch of fools!<Close><End of Block>
 <TextBlock 19 w:54 h:4>
 Be careful, land dweller.
 You'll have a terrible time
-if you open up your heart 
-to those old men.<New>
-Just like they did in
-Nisan, 500 years ago...<Close><Close><End of Block>
+if you put your trust in
+those old men.<New>
+Just like the people from
+Nisan did, 500 years ago...<Close><Close><End of Block>

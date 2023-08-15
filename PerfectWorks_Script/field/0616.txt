@@ -18,7 +18,7 @@ like to learn about them?<Close><End of Block>
 <TextBlock 3 w:56 h:1>
 What can I do for you today?<Close><End of Block>
 <TextBlock 4 w:56 h:6>
-    <Opcode 1 255>Explain battle commands
+<Opcode 1 255>    Explain battle commands
     Explain 'Defense' option
     Explain Action Points
     Explain 'Attack' option
@@ -217,14 +217,14 @@ I've started to study up
 on them recently...<Close><End of Block>
 <TextBlock 24 w:60 h:6>
 How 'bout it then?
-Wanna hear what I have to say?<Delay 20>
-    <Opcode 1 255>Explain Abilities
+Wanna hear what I have to say?
+<Opcode 1 255>    Explain Abilities
     Explain Deathblow Skills
     Explain Skill Levels
     Forget it!<Close><End of Block>
-<TextBlock 25 w:50 h:3>
+<TextBlock 25 w:48 h:3>
 Hmmm, you're pretty
-studious for a young 'un.
+studious for a young'un.
 Good, now listen up!<Close><End of Block>
 <TextBlock 26 w:54 h:4>
 That 'Guided Shot' ability
@@ -242,9 +242,9 @@ to more powerful abilities.<Close><End of Block>
 <TextBlock 27 w:38 h:2>
 Hmm.<Delay 20> I see a lot of
 potential in you.<Close><End of Block>
-<TextBlock 28 w:40 h:2>
+<TextBlock 28 w:38 h:2>
 Good, good.<Delay 20>
-Ask away, young 'un!<Close><End of Block>
+Ask away, young'un!<Close><End of Block>
 <TextBlock 29 w:60 h:6>
 As you already know, there
 are three strength levels for
@@ -337,11 +337,11 @@ Received 80G!<Close><End of Block>
 Buy some pencils and
 books with that, okay!?<Delay 20>
 Stick with it, kid!<Close><End of Block>
-<TextBlock 37 w:54 h:4>
+<TextBlock 37 w:52 h:4>
 Oh well... You can never
 be too old to study.<Delay 20> There
 are mountains of things to
-learn out there, young 'un!<Close><End of Block>
+learn out there, young'un!<Close><End of Block>
 <TextBlock 38 w:28 h:4>
 Don't tell me!<Delay 20>
 It's about the
@@ -356,8 +356,8 @@ then don't hesitate to ask me.
 No one knows better than I do!<Close><End of Block>
 <TextBlock 40 w:40 h:4>
 How about it, then?
-Want to hear me out?<Delay 20>
-    Yeah, okay!
+Want to hear me out?
+<Opcode 1 255>    Yeah, okay!
     No, not really!<Close><End of Block>
 <TextBlock 41 w:40 h:4>
 Alright! Good show!

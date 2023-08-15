@@ -1,51 +1,51 @@
-<TextBlock 1 w:34 h:2>
+<TextBlock 1 w:36 h:2>
 What am I doing?
-...huff...<Delay 30>puff...<Close><End of Block>
-<TextBlock 2 w:34 h:2>
+*Huff*...<Delay 30>*puff*...<Close><End of Block>
+<TextBlock 2 w:36 h:2>
 Can't you tell!?
-...huff...<Delay 30>puff...<Close><End of Block>
-<TextBlock 3 w:34 h:2>
+*Huff*...<Delay 30>*puff*...<Close><End of Block>
+<TextBlock 3 w:36 h:2>
 I'm working out.
-...huff...<Delay 30>puff...<Close><End of Block>
+*Huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 4 w:50 h:2>
 Gonna kick Solaris' butt.
-...huff...<Delay 30>puff...<Close><End of Block>
+*Huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 5 w:48 h:2>
 I have to get pumped up.
-...huff...<Delay 30>puff...<Close><End of Block>
+*Huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 6 w:46 h:2>
 It's all over for them.
-...huff...<Delay 30>puff...<Close><End of Block>
+*Huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 7 w:50 h:2>
-My last death blow skill.
-...huff...<Delay 30>puff...<Close><End of Block>
-<TextBlock 8 w:34 h:3>
+My last deathblow skill.
+*Huff*...<Delay 30>*puff*...<Close><End of Block>
+<TextBlock 8 w:36 h:3>
 If I only had my
 Cyrus Punch!
-...huff...<Delay 30>puff...<Close><End of Block>
+*Huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 9 w:48 h:2>
 You just leave it to me.
-...huff...<Delay 30>puff...<Close><End of Block>
+*Huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 10 w:48 h:2>
 Take a nap or something.
-...huff...<Delay 30>puff...<Close><End of Block>
+*Huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 11 w:42 h:2>
 Wahahaha...ha...ha...
-...huff...<Delay 30>puff...<Close><End of Block>
+*Huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 12 w:60 h:13>
-"   Down with Solaris!!
-     The world is ours!<Delay 20>
+<Opcode 1 255> Down with Solaris!!
+ The world is ours!
  
- But before all that...<Delay 40><Opcode 1 255>
+ But until then...
    No gambling!
    No heavy drinking!
-   Meet the deadlines
+   Meet deadlines!
    Never give up!
    Take a bath!
-   Don't listen to cry babies!
+   Don't listen to complaints!
    Attend every morning!
    No unplanned trips!
-   Keep the ocean clean!"<Close><End of Block>
+   Keep the ocean clean!<Close><End of Block>
 <TextBlock 13 w:54 h:4>
 Hey, haven't seen you
 before. You new?<Delay 20>
@@ -89,13 +89,13 @@ were all in the same
 situation.<New>
 Everyone's got their unique
 story on how they got
-involved in this fiasco with
-the Geburah and the Church
+involved in this fiasco
+with Geburah and the Church
 and all.<New>
 The usual pattern here is
 that many of the people were
 almost eliminated for some 
-reason they don't know but 
+reason they don't know, but 
 were saved by the people here
 before they were doomed.<Close><End of Block>
 <TextBlock 17 w:48 h:4>
@@ -119,7 +119,7 @@ clumsy...heh.<Close><End of Block>
 <TextBlock 19 w:56 h:6>
 I got desperate and somehow
 managed to escape, and make
-my way to Tamuz - the city
+my way to Tamuz <--> the city
 I had heard stories about.<Delay 20>
 That's where the good people
 here picked me up.<New>
@@ -164,8 +164,8 @@ Solaris 500 years ago.<Close><End of Block>
 Well, if we're not careful
 ourselves, our fates may
 be similar too. Heh.<Close><End of Block>
-<TextBlock 24 w:10 h:1>
-Ha...<Opcode 2 10><Close><End of Block>
+<TextBlock 24 w:18 h:1>
+*Huff*...<Opcode 2 10><Close><End of Block>
 <TextBlock 25 w:60 h:5>
 Yeah, they say this city used
 to be like any other city 

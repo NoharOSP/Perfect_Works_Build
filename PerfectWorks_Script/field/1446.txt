@@ -68,8 +68,8 @@ Maria
 arrival above."<Close><End of Block>
 <TextBlock 16 w:40 h:2>
 Maria
-"Yes, Queen Zephyr."<Opcode 2 40><Close><End of Block>
+"Yes, Queen Zephyr."<Opcode 2 60><Close><End of Block>
 <TextBlock 17 w:28 h:3>
 That's enough,
 Maria. Bring
-them in.<Opcode 2 40><Close><End of Block>
+them in.<Opcode 2 60><Close><End of Block>

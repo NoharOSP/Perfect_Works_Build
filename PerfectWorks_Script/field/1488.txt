@@ -398,8 +398,8 @@ do all that.<New>
 No sweat. If we all work
 together, we can teach
 Solaris a thing or two!<Close><End of Block>
-<TextBlock 59 w:16 h:1>
-...Maybe<Opcode 2 40><Close><End of Block>
+<TextBlock 59 w:18 h:1>
+...Maybe.<Opcode 2 40><Close><End of Block>
 <TextBlock 60 w:50 h:4>
 How could Solaris do such
 a terrible thing...!?<Delay 20>

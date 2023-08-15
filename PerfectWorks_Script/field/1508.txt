@@ -53,7 +53,7 @@ come and go unaccompanied
 beyond this point.<New>
 I am sorry.<Close><End of Block>
 <TextBlock 9 w:54 h:4>
-This is the library where
+This is the library, where
 many books are gathered.<New>
 This place is packed with
 many ancient books that
@@ -61,12 +61,13 @@ you cannot find on the
 surface.<New>
 If you're a book fanatic,
 you'd drool over books
-like our first run prints,
-limited books, autograph...<New>
-...books, banned books, and
-mountains of hard to find
-books, and more mountains
-and mountains of books...!<New>
+like our first run prints,<New>
+limited books, autographed
+books, banned books,
+mountains of hard-to-find
+books,<New>
+and more mountains and
+mountains of books...!<Delay 20>
 Ahhh! It's too much!<Close><End of Block>
 <TextBlock 10 w:54 h:4>
 Well, setting that aside...<New>
@@ -198,15 +199,15 @@ That's unforgivable!!<Close><End of Block>
 That great war 500 years
 ago, I can remember it
 like it was yesterday...<New>
-That's something I can't
+It's something I can't
 get myself to forget.<New>
 Many lives were lost...
 Much love, many dreams,
-friends, those...<New>
-...irreplaceably important
-things in our lives were
-scarred and left to
-bleed...<New>
+friends...<New>
+Those irreplaceably
+important things in
+our lives were hurt
+and left to bleed...<New>
 Are those days going to
 return once again...?<New>
 I don't want my children or
@@ -273,8 +274,8 @@ against Solaris.<New>
 I look forward to working
 with you.<Close><End of Block>
 <TextBlock 28 w:16 h:3>
-Go down?<Delay 20>
-    Yes
+Go down?
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 29 w:54 h:4>
 Oh my, this has gotten

@@ -1,13 +1,13 @@
-<TextBlock 1 w:40 h:3>
+<TextBlock 1 w:42 h:3>
 Self-repairing Robot
-"Bzz...crackle...
-Refuel or repair?"<Close><End of Block>
-<TextBlock 2 w:18 h:2>
-    <Opcode 1 255>Ask
-    Leave<Close><End of Block>
+"*Bzz*...*crackle*...
+Refuel and repair?"<Close><End of Block>
+<TextBlock 2 w:24 h:2>
+    <Opcode 1 255>Please
+    I'm fine<Close><End of Block>
 <TextBlock 3 w:46 h:3>
 Self-repairing Robot
-"Bzz...crackle...
+"*Bzz*...*crackle*...
 Thank you. Come again."<Close><End of Block>
 <TextBlock 4 w:34 h:2>
 You have too many

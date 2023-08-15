@@ -812,13 +812,13 @@ opportunity.<New>
 It would be best for him
 to live in a place that
 is peaceful..."<Close><End of Block>
-<TextBlock 110 w:34 h:2>
+<TextBlock 110 w:38 h:2>
 Jessie
-"Go get'em guys."<Close><End of Block>
+"Go get 'em, guys."<Close><End of Block>
 <TextBlock 111 w:50 h:4>
 Jessie
 "Yeah, right on!
-Go for it, young 'uns!
+Go for it, young'uns!
 We're depending on you.<New>
 Especially since my life
 also depends on it.

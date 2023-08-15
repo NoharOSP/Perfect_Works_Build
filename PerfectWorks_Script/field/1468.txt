@@ -1,16 +1,16 @@
-<TextBlock 1 w:46 h:3>
+<TextBlock 1 w:42 h:3>
 Fei
-"Argh!<Delay 20>
-I'm not gonna lose it."<Close><End of Block>
+"Okay!<Delay 20>
+I'm not gonna lose!"<Close><End of Block>
 <TextBlock 2 w:26 h:3>
 Fei
-"Argh!<Delay 20>
- here we go!"<Close><End of Block>
-<TextBlock 3 w:48 h:4>
+"Okay!<Delay 20>
+Here we go!"<Close><End of Block>
+<TextBlock 3 w:40 h:4>
 Fei
-"Are you sure we can
-catch fish?<Delay 20> Even without
-bait?"<Close><End of Block>
+"Can we really fish
+in such a place?<Delay 20>
+And without bait?"<Close><End of Block>
 <TextBlock 4 w:10 h:2>
 Fei
 "..."<Opcode 2 30><Close><End of Block>
@@ -20,8 +20,8 @@ Fei
 The fish is biting!"<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 What do you want to do?<Delay 20>
-    Reel it in!
-    Check around
+<Opcode 1 255>    Reel it in!
+    Wiggle the line
     Be patient<Close><End of Block>
 <TextBlock 7 w:38 h:2>
 Fei
@@ -29,29 +29,29 @@ Fei
 <TextBlock 8 w:22 h:2>
 Fei
 "I did it!"<Close><End of Block>
-<TextBlock 9 w:34 h:3>
+<TextBlock 9 w:32 h:3>
 Fei
-"Darn it!<Delay 20>
-It cut the line!"<Close><End of Block>
+"Darn it!<Delay 20> It
+broke the line!"<Close><End of Block>
 <TextBlock 10 w:22 h:2>
 Fei
 "I did it!"<Close><End of Block>
-<TextBlock 11 w:28 h:3>
+<TextBlock 11 w:32 h:4>
 Fei
 "Okay, then...
-Like this..."<Close><End of Block>
+Like this, small
+motions..."<Close><End of Block>
 <TextBlock 12 w:50 h:4>
 Fei
-"Yeah...<Delay 20>
+"Hmm...<Delay 20>
 Is it gonna work...?<New>
 The pro's technique is to
 read the opponent's moves
-and make it tired at the
-same time!"<Close><End of Block>
-<TextBlock 13 w:34 h:3>
+and tire it out!"<Close><End of Block>
+<TextBlock 13 w:32 h:3>
 Fei
-"Darn it!<Delay 20>
-It cut the line!"<Close><End of Block>
+"Darn it!<Delay 20> It
+broke the line!"<Close><End of Block>
 <TextBlock 14 w:46 h:3>
 Fei
 "Hmm...<Delay 20>
@@ -59,23 +59,23 @@ Almost...<New>
 I can feel a strong tug
 on the line...<Delay 20>
 It's a big one."<Close><End of Block>
-<TextBlock 15 w:42 h:3>
+<TextBlock 15 w:44 h:3>
 Fei
 "Alright...
-Impatience is taboo."<Close><End of Block>
+Patience is a virtue."<Close><End of Block>
 <TextBlock 16 w:44 h:4>
 Fei
-"Hmm...not yet...?<Delay 20>
-Tenacity makes all the
-difference."<Close><End of Block>
+"Hmm, not yet...?<Delay 20>
+Persistence makes all
+the difference."<Close><End of Block>
 <TextBlock 17 w:26 h:3>
 Fei
 "Huh...!?<Delay 20>
 What the...?"<Close><End of Block>
-<TextBlock 18 w:34 h:3>
+<TextBlock 18 w:32 h:3>
 Fei
-"Darn it!<Delay 20>
-It cut the line!"<Close><End of Block>
+"Darn it!<Delay 20> It
+broke the line!"<Close><End of Block>
 <TextBlock 19 w:26 h:3>
 Fei
 "...<Delay 20>
@@ -87,13 +87,13 @@ Now, open your mouth
 and let me see it...<New>
 I found it!<Delay 20>
 This is it!"<Close><End of Block>
-<TextBlock 21 w:50 h:3>
+<TextBlock 21 w:40 h:3>
 Fei
-"...<Delay 30>Y, you aren't getting
-away that easily...!!"<Close><End of Block>
+"...<Delay 30>I-<Delay 10>I'll get
+you next time...!!"<Close><End of Block>
 <TextBlock 22 w:40 h:3>
 Fei
-"He-he!
+"Hehe!
 A reasonable catch!"<Close><End of Block>
 <TextBlock 23 w:56 h:4>
 Yes, yes...<Delay 50>
@@ -126,5 +126,5 @@ Released the fish that
 was caught.<Close><End of Block>
 <TextBlock 28 w:42 h:3>
 Do you want to go up?<Delay 10>
-    Yes
+<Opcode 1 255>    Yes
     No<Close><Close><End of Block>

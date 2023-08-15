@@ -3,7 +3,7 @@ This store is about to be
 closed.<Delay 20> Gears aren't
 needed in this town except
 the Queen's troops...<New>
-But, please take a look.<Delay 20>
+But please take a look.<Delay 20>
 We no longer have much
 business, but all the items
 are our pride and joy.<Close><End of Block>
@@ -26,20 +26,20 @@ Well, to be honest with
 you, we don't have any
 chance in this fight...<Delay 20>
 Unless a miracle happens.<New>
-The battle was probably
-settled at the point where
-they let her escape in that
-war 500 years ago.<Close><End of Block>
-<TextBlock 5 w:50 h:4>
-We don't have equipment
-or materials like Solaris
+The outcome was probably
+decided at the point where
+they let that woman escape,
+in the war 500 years ago.<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+We don't have the equipment
+or materials that Solaris
 does.<Delay 20> What the hell do
-they want us to do?<New>
-Damn it!<Delay 20> We aren't at a
-disadvantage when it
-comes to technology and
-ideas...<Close><End of Block>
+they expect us to do?<New>
+Damn it!<Delay 20> It's not like
+we're at a disadvantage
+when it comes to technology
+and ideas...<Close><End of Block>
 <TextBlock 6 w:42 h:3>
 Do you want to go up?<Delay 10>
-    Yes
+<Opcode 1 255>    Yes
     No<Close><Close><End of Block>
