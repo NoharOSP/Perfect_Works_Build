@@ -1,5 +1,5 @@
 <TextBlock 1 w:56 h:4>
-Maria's father, Doctor
+Maria's father, Professor
 Nikola, was captured by
 Solaris and nothing has
 been heard from him since.<New>
@@ -14,16 +14,17 @@ Well, to say the least,
 it would be more than we
 could ever handle...<Close><End of Block>
 <TextBlock 2 w:52 h:5>
-Balthasar brought Maria to
-Shevat about 5 years ago,<Delay 20>
-along with that
-<Seibzehn>.<New>
+Balthasar brought Maria
+to Shevat about five
+years ago,<Delay 20> along with
+that <Seibzehn>.<New>
 Balthasar said he sneaked
 into Solaris by himself
 and tried to save
-Dr. Nikola and Maria.<New>
-He laughed as he told me
-that he managed to escape
-with Maria, and take that
-<Seibzehn> as a
+Professor Nikola and
+Maria.<New>
+He laughed as he told
+me that he managed to
+escape with Maria and took
+that <Seibzehn> as a
 souvenir.<Close><Close><End of Block>

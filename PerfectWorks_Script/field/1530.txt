@@ -1,4 +1,4 @@
-<TextBlock 1 w:54 h:4>
+<TextBlock 1 w:52 h:4>
 Oh, and you are...?<Delay 20>
 I feel like I've met you
 before...<New>
@@ -6,13 +6,13 @@ Hmm...you resemble Khan,
 the one who taught us the
 art of fighting.<New>
 Nobody knows his
-whereabouts after he went
+whereabouts since he went
 down to the surface on
 the Queen's mission...<New>
-I doubt something bad
-happened to him considering
+I doubt anything bad has
+befallen him, considering
 his skills.<Delay 20>
-But, I wonder where he is?<Close><End of Block>
+But I wonder where he is?<Close><End of Block>
 <TextBlock 2 w:50 h:4>
 You just arrived from
 the surface, didn't

@@ -1,9 +1,9 @@
 <TextBlock 1 w:46 h:4>
 Bart
-"Roni Fatima?
-Isn't that my ancestor?<New>
+"Roni Fatima?<Delay 10> Isn't he
+an ancestor of mine?<New>
 So you're saying my
-ancestor, Roni, fought
+ancestor Roni fought
 alongside Queen Zephyr
 against Solaris...?<New>
 Hmm..."<Close><End of Block>
@@ -36,29 +36,29 @@ with the freedom and
 independence of the land
 dwellers at stake...<New>
 The rebel army, which
-centered around Shevat...<New>
-...was successful at
-attacking the inner citadel
-of Solaris, but only with
+centered around Shevat,<New>
+was successful in their
+assault on the Solaris
+stronghold, despite
 tremendous sacrifices...<New>
-However, before we almost
-made it, the unthinkable
-happened...<New>
+However, on the very
+edge of victory, the
+unthinkable happened...<New>
 A new enemy appeared that
 even Solaris had not
 anticipated.<New>
 That was when the nightmare
-began. The nightmare never
+began. A nightmare never
 seen before.<New>
 A nightmare that we pray we
-would never have to see
+will never have to see
 again...<Close><End of Block>
 <TextBlock 4 w:56 h:4>
 Diabolos...<New>
-The sudden appearance of the
-mysterious army put a full
-stop to the battle between
-the humans, 500 years ago.<New>
+500 years ago, the sudden
+appearance of the mysterious
+army brought to a halt the
+battle between the humans.<New>
 Those angels of death,
 utterly unrivaled, with no
 fear or mercy...<New>
@@ -66,8 +66,8 @@ Their only intention was to
 eradicate all life on this
 planet.<New>
 Even Solaris' proudest
-Gear battalions were
-mere flies to them.<New>
+Gear battalions were as
+mere insects to them.<New>
 Nothing stopped them as
 they indiscriminately
 slaughtered and trampled
@@ -77,20 +77,22 @@ certain that the end of the
 world was approaching...<New>
 Dominated by feelings of
 constant fear and
-hopelessness, it was a
-dreadful life...<Close><End of Block>
+hopelessness, they were
+dreadful days...<Close><End of Block>
 <TextBlock 5 w:54 h:4>
-The reason mankind was able
-to make it through and
+500 years ago, mankind was
+able to make it through and
 survive certain death,
-500 years ago...<New>
-...was because the power
-of these giants created
-through god's wisdom.<New>
+<New>
+thanks to the power
+of the giants created
+through God's wisdom.<New>
 Roni Fatima and the other
 young fighters piloted
-these giants and destroyed
-the heart of Diabolos.<New>
+these giants,<New>
+and defeated the entity at
+the heart of the mysterious
+Diabolos army.<New>
 Seeing an opportunity to
 counterattack, mankind
 desperately stood up
@@ -99,49 +101,48 @@ against Diabolos...<New>
 annihilated them.<New>
 Roni Fatima, Queen Zephyr
 and the rest of the young
-ones put their lives on the
-line and won back...<New>
-...the future for this
-world.<Close><End of Block>
+ones had put their lives
+on the line,<New>
+and won us back a future
+for this world.<Close><End of Block>
 <TextBlock 6 w:54 h:4>
 Those giants which fought
-long ago to save us. An
-existence which surpasses
+long ago to save us.
+Entities surpassing
 all other Gears.<New>
 They are the legendary
 'Omnigears'.<New>
 One of them is the treasure
-of the Av royal family...<New>
-...which is currently
-resting somewhere within
-the continent of Ignas.<New>
-But, I can't guarantee
-that.<Close><End of Block>
+of the Av royal family, and
+currently rests somewhere
+on the continent of Ignas.<New>
+But we don't know where,
+exactly.<Close><End of Block>
 <TextBlock 7 w:50 h:4>
-After the war and the
-collapse of Diabolos,
-similarly to the land
-dwellers...<New>
-...the heavily beaten
+Just like the land
+dwellers, after the
+war and the Diabolos
+Collapse,<New>
+the heavily beaten
 Solaris forces began to
 pull back and return to
-their home country...<New>
-...taking along with them
-vast numbers of land
-dwellers as slaves.<New>
+their home country,<New>
+taking vast numbers of
+land dwellers along with
+them as slaves.<Delay 20>
 We couldn't stop them.<New>
-The only way for the war
-torned land dwellers to
+The only way for the war-
+weary land dwellers to
 survive was to depend on
 Solaris...<New>
-After the brief moment of
-hope, Solaris once again
-began to reign over our
-lives...<New>
+After a brief moment of
+hope, Solaris had once
+again taken control of
+our lives...<New>
 A cold and harsh era had
 begun.<New>
-500 years have past and
-their reign still
+500 years have passed
+and their reign still
 continues...<New>
 No one knows how long
 this is going to last...<Close><End of Block>

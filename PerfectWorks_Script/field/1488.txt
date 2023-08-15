@@ -405,9 +405,9 @@ How could Solaris do such
 a terrible thing...!?<Delay 20>
 Damn it!<New>
 It's unbearable...to see
-the genius, Dr. Nikola,
-ending his life like
-that...<Close><End of Block>
+the life of the genius,
+Professor Nikola, ending
+in this way...<Close><End of Block>
 <TextBlock 61 w:52 h:4>
 But this is such a
 monster...<Delay 20> Maria's father

@@ -8,11 +8,11 @@ Elly
 Bart
 "What!?<Delay 20>
 Collecting combat data!?<New>
-Then, this war that's
+Then this war that's
 lasted for hundreds of
 years on the Ignas
 continent...<New>
-It was just a farce 
+It was just a farce
 plotted by Solaris!?"<Close><End of Block>
 <TextBlock 4 w:44 h:3>
 Rico
@@ -26,12 +26,12 @@ The land dwellers...like
 domestic animals...?<Delay 30>
 Then I was..."<Close><End of Block>
 <TextBlock 6 w:54 h:3>
-The Limiter restrains the
+The Limiter constrains the
 Lambs' abilities. But there
 may be a way to remove it.<New>
-Torah Melchior, he used
-to be one of the three 
-sages of Shevat.<New>
+Torah Melchior used to be
+one of the three sages of
+Shevat.<New>
 He must know a way to
 remove the Limiter.<Close><End of Block>
 <TextBlock 7 w:54 h:5>
@@ -73,13 +73,13 @@ control the Lambs.<Close><End of Block>
 <TextBlock 9 w:54 h:5>
 It's not a farce.<Delay 20>
 To them, it's an important
-simulation under strict
+simulation under tight
 restrictions.<New>
 Creating appropriate
 organisms that can align
 themselves with the
 Anima Vessels is one of
-their important objectives.<New>
+their primary objectives.<New>
 In any case, the Lambs will
 continue to be Solaris'
 guinea pigs unless someone
@@ -93,7 +93,7 @@ Creating appropriate
 organisms that can align
 themselves with the
 Anima Vessels is one of
-their important objectives.<New>
+their primary objectives.<New>
 In any case, the Lambs will
 continue to be Solaris'
 guinea pigs unless someone
