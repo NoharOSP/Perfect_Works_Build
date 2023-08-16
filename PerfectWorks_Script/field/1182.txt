@@ -338,8 +338,9 @@ Sigurd
 "..."<Close><End of Block>
 <TextBlock 52 w:50 h:4>
 Jessie
-"The keywords are Nikola,<Delay 10>
-Maria, <Delay 10>a huge Gear<Delay 10>...<Delay 5> Eh!?<New>
+"The keywords are
+Nikola,<Delay 10> Maria, <Delay 10>and
+a giant Gear<Delay 10>...<Delay 5> Hmm!<New>
 Hey! Fei, wasn't it?
 I hear from Hyuga you're
 some Gear prodigy. Is
@@ -400,7 +401,7 @@ that I've shared my wisdom
 with the new generation!<New>
 That, or bring me the
 most expensive booze you
-can buy!<Delay 30> Ha ha ha ha!"<Close><End of Block>
+can buy!<Delay 30> Ha, ha, ha, ha!"<Close><End of Block>
 <TextBlock 53 w:52 h:4>
 Jessie
 "Just goes to show that
@@ -429,17 +430,17 @@ Ga, ha, ha!"<Close><End of Block>
 Ha, ha, ha! <Opcode 2 10><Close><End of Block>
 <TextBlock 58 w:24 h:1>
 Ha, ha, ha! <Opcode 2 10><Close><End of Block>
-<TextBlock 59 w:54 h:4>
+<TextBlock 59 w:52 h:4>
 Shevat Agent
 "Originally, Shevat was a
 town situated on top of
-'Babel Tower'...<New>
+Babel Tower...<New>
 They say there was a
-communication facility
-to contact what now is
-Shevat on top of the tower.<New>
-If only it still exists
-and still works now..."<Close><End of Block>
+facility at the top of the
+tower for communicating
+with the Shevat homeland.<New>
+If only it is still there
+now..."<Close><End of Block>
 <TextBlock 60 w:48 h:3>
 Phew! I no longer have
 to listen to the roars

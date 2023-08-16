@@ -28,7 +28,7 @@ Fei
 "..."<Close><End of Block>
 <TextBlock 6 w:20 h:2>
 Fei
-"Huh...!?"<Opcode 2 30><Close><End of Block>
+"Huh...!?"<Opcode 2 40><Close><End of Block>
 <TextBlock 7 w:42 h:3>
 Fei
 "What was that impact
@@ -67,7 +67,7 @@ Fei
 Going chu help...?<New>
 <Chu-Chu>, what're
 you doing here?"<Close><End of Block>
-<TextBlock 14 w:38 h:3>
+<TextBlock 14 w:46 h:4>
 Fei
 "What am I gonna do...?<Delay 20>
 This isn't a game.<New>
@@ -111,7 +111,7 @@ maybe you're no different
 from Solaris?<New>
 Anyway, we're too busy
 trying to take Av back
-from that bastard, Shakhan.<New>
+from that bastard Shakhan.<New>
 Hate to break it to you,
 but we don't have that
 kind of time to spare!"<Close><End of Block>
@@ -204,10 +204,10 @@ Fei."<Close><End of Block>
 Zephyr
 "Now go and
 rest a while."<Close><End of Block>
-<TextBlock 36 w:44 h:4>
+<TextBlock 36 w:42 h:4>
 Zephyr
-"As usual, be careful.<Delay 20>
-And take care of Maria
+"As ever, be careful.<Delay 20>
+And look after Maria
 for us."<Close><End of Block>
 <TextBlock 37 w:52 h:4>
 Zephyr
@@ -215,7 +215,7 @@ Zephyr
     My heart is set!
     Let me think some more<Close><End of Block>
 <TextBlock 38 w:40 h:4>
-Zephyr
+<Opcode 1 3>Zephyr
 "Very well. Then<-->"<Close><End of Block>
 <TextBlock 39 w:50 h:4>
 Zephyr
@@ -305,7 +305,7 @@ the heavens with us.<New>
 Be it the pretexts of
 bygone days, or the
 feuds between nations...<New>
-Why be concerned with
+why be concerned with
 such small things?
 You must look at the
 bigger picture!"<Close><End of Block>
@@ -368,7 +368,7 @@ destroyed...<Delay 20>
 Gate generation is down
 by 30%!<New>
 We're devoting everything
-to fire fighting and
+to firefighting and
 repairs...<Delay 20> It will still
 take some time!<Close><End of Block>
 <TextBlock 55 w:46 h:2>
@@ -442,11 +442,11 @@ Umm, this may be asking for
 too much, but would it be
 possible to have one of you
 stay behind with the Queen?<Close><End of Block>
-<TextBlock 69 w:52 h:4>
-We do not have the combat
-experience and...<Delay 20>if
-something ever happened to
-the Queen...<Close><End of Block>
+<TextBlock 69 w:48 h:4>
+We do not have the
+combat experience...<Delay 20>
+and if anything ever
+happened to the Queen...<Close><End of Block>
 <TextBlock 70 w:32 h:3>
 Maria
 "It can't be
@@ -812,13 +812,13 @@ opportunity.<New>
 It would be best for him
 to live in a place that
 is peaceful..."<Close><End of Block>
-<TextBlock 110 w:34 h:2>
+<TextBlock 110 w:38 h:2>
 Jessie
-"Go get'em guys."<Close><End of Block>
+"Go get 'em, guys."<Close><End of Block>
 <TextBlock 111 w:50 h:4>
 Jessie
 "Yeah, right on!
-Go for it, young 'uns!
+Go for it, young'uns!
 We're depending on you.<New>
 Especially since my life
 also depends on it.

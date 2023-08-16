@@ -61,20 +61,20 @@ talking to the stone.<Delay 20>
 It'll be glad to give
 three of you a ride.<Close><End of Block>
 <TextBlock 8 w:42 h:3>
-<Opcode 1 255>Do you want to go up?<Delay 10>
-    Yes
+Do you want to go up?
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 9 w:46 h:3>
-<Opcode 1 255>Do you want to go down?<Delay 10>
-    Yes
+Do you want to go down?
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 10 w:46 h:3>
-<Opcode 1 255>Do you want to go down?<Delay 10>
-    Yes
+Do you want to go down?
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 11 w:42 h:3>
-<Opcode 1 255>Do you want to go up?<Delay 20>
-    Yes
+Do you want to go up?
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 12 w:54 h:4>
 Oh, are you new?<Delay 20>
@@ -87,7 +87,7 @@ needed in Shevat are grown
 in it.<Close><End of Block>
 <TextBlock 13 w:50 h:4>
 Since we live away from
-the land, we must put
+the land, we must put in
 more effort to get food.<New>
 Right now, it's a dusty
 season so only the staff
@@ -101,12 +101,12 @@ Thunder Strawberries for
 you to eat.<Delay 20> So look
 forward to it.<Close><End of Block>
 <TextBlock 15 w:48 h:4>
-<Opcode 1 255>Hello, what can I do for
-you?<Delay 20>
-    I want thread!
+Hello, what can I do for
+you?
+<Opcode 1 255>    I want thread!
     Hear a story<Close><End of Block>
 <TextBlock 16 w:46 h:3>
-<Opcode 1 255>After all, pain only
+After all, pain only
 causes more pain and
 sadness...<New>
 How come those guys up
@@ -116,32 +116,32 @@ Just relax, have fun
 fishing like that sage
 who disappeared.<Close><End of Block>
 <TextBlock 17 w:40 h:3>
-<Opcode 1 255>Do you like fishing?<Delay 20>
-    Yes
+Do you like fishing?
+<Opcode 1 255>    Yes
     Not really...<Close><End of Block>
 <TextBlock 18 w:50 h:4>
-<Opcode 1 255>I see. Then, do you want
-to try catching some fish
-in the plaza?<Delay 20> Fishing is
-prohibited there though.<Close><End of Block>
+I see. In that case, why
+not try catching a fish
+in the plaza?<Delay 20> Although...
+it's not really allowed.<Close><End of Block>
 <TextBlock 19 w:52 h:4>
-<Opcode 1 255>I see...<Delay 20>
-The sage loved fishing.
+I see...<Delay 20>
+That sage loved fishing.
 He used to go to the plaza
 and catch Leviathans.<New>
-After catching the fish,
-he'd feed it some small
-black stone and let it
+Once, after catching a
+fish, he fed it some small
+black object and let it
 go... <New>
 I wonder if that was 
 just fish food.<Close><End of Block>
 <TextBlock 20 w:48 h:4>
 <Opcode 1 255>I have some good thread.
-Want it for 50G?<Delay 20>
+Want it for 50G?
     I'll buy it!!
     No thanks...<Close><End of Block>
 <TextBlock 21 w:52 h:4>
-<Opcode 1 255>Hey, you already have some
+Hey, you already have some
 good spider thread.<New>
 Try hanging the line in
 the center of the plaza.<Delay 20>
@@ -157,10 +157,10 @@ you're good.<Close><End of Block>
 <TextBlock 23 w:40 h:1>
 Received Spider Web!<Close><End of Block>
 <TextBlock 24 w:44 h:2>
-<Opcode 1 255>You have no money?<Delay 20>
+You have no money?<Delay 20>
 Come back when you do.<Close><End of Block>
 <TextBlock 25 w:38 h:2>
-<Opcode 1 255>Are you sure?
+Are you sure?
 It's good thread...<Close><End of Block>
 <TextBlock 26 w:54 h:4>
 This city has been
@@ -212,7 +212,7 @@ turn back.<Close><End of Block>
 <TextBlock 30 w:44 h:4>
 Oh, so you're waiting
 to meet up with Maria?<Delay 10>
-    Yes, that's right!
+<Opcode 1 255>    Yes, that's right!
     No, we're not<Close><End of Block>
 <TextBlock 31 w:54 h:3>
 If that's the case, then...

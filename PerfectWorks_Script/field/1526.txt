@@ -136,7 +136,7 @@ but, to no avail...<Close><End of Block>
 <TextBlock 19 w:58 h:4>
 The power of the Omnigears
 was so great that they could
-even hold back the Diabolos
+even stave off the Diabolos
 Collapse 500 years ago.<New>
 If any more of these fall
 into the hands of the
@@ -149,7 +149,7 @@ We require your assistance.<New>
 Shevat must collect the
 remaining Anima Vessels,
 by any means necessary...!<Close><End of Block>
-<TextBlock 20 w:48 h:3>
+<TextBlock 20 w:50 h:3>
 Hmhmm...<Delay 20>
 So the Anima Vessels were
 created by God's wisdom.<New>

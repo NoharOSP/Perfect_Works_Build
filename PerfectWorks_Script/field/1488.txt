@@ -398,16 +398,16 @@ do all that.<New>
 No sweat. If we all work
 together, we can teach
 Solaris a thing or two!<Close><End of Block>
-<TextBlock 59 w:16 h:1>
-...Maybe<Opcode 2 40><Close><End of Block>
+<TextBlock 59 w:18 h:1>
+...Maybe.<Opcode 2 40><Close><End of Block>
 <TextBlock 60 w:50 h:4>
 How could Solaris do such
 a terrible thing...!?<Delay 20>
 Damn it!<New>
 It's unbearable...to see
-the genius, Dr. Nikola,
-ending his life like
-that...<Close><End of Block>
+the life of the genius,
+Professor Nikola, ending
+in this way...<Close><End of Block>
 <TextBlock 61 w:52 h:4>
 But this is such a
 monster...<Delay 20> Maria's father

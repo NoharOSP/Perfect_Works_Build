@@ -3,24 +3,22 @@ Ahh...I see,
 so you're the son of Khan.<Delay 20>
 Have you met Queen Zephyr
 yet?<New>
-She still can't forget
-about the tragedy in Nisan
-during the great war, 500
-years ago.<Delay 20> Even though
-it's not her fault...<New>
-I assume she can't forgive
-herself for betraying and
-abandoning her fellow 
-members though she had no
-knowledge of what was
-going on...<Close><End of Block>
-<TextBlock 2 w:50 h:6>
+She can't forget the
+tragedy of Nisan during
+the great war, 500 years
+ago.<Delay 20> Even though it's
+not her fault...<New>
+I don't know,<Delay 10> but her
+comrades were betrayed
+and abandoned...<Delay 10>and I
+guess she cannot forgive
+herself for that.<Close><End of Block>
+<TextBlock 2 w:50 h:5>
 Oh, I may have said too
-much. I'm not supposed to
-know anything.<Delay 20> Anyhow,
-keep up the good work in
-overthrowing Solaris,
-young man!<Close><End of Block>
+much. What do I know?<Delay 20>
+Anyhow, keep up the good
+work in overthrowing
+Solaris, young man!<Close><End of Block>
 <TextBlock 3 w:48 h:3>
 Keep up the good work
 in overthrowing Solaris.<Delay 20>

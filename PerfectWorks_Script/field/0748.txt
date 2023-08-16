@@ -177,7 +177,7 @@ break it down."<Close><End of Block>
 <TextBlock 25 w:50 h:3>
 Ol' Man Bal
 "Hold your horses
-there, young 'uns.<New>
+there, young'uns.<New>
 No matter how good a Gear
 you have, you'll never
 break that wall down.<New>
@@ -465,7 +465,7 @@ a<Close><End of Block>
 <TextBlock 80 w:44 h:4>
 Ol' Man Bal
 "I told you to leave!"
-    Tell us some more
+<Opcode 1 255>    Tell us some more
     Sell us Gear parts<Close><End of Block>
 <TextBlock 81 w:54 h:3>
 Ol' Man Bal
@@ -478,7 +478,7 @@ I'll just get these parts
 back anyway...<New>
 If you don't mind that then
 I'll sell them to you...!"
-    For Gear
+<Opcode 1 255>    For Gear
     For characters<Close><End of Block>
 <TextBlock 83 w:40 h:3>
 Ol' Man Bal
@@ -490,14 +490,14 @@ Ol' Man Bal
 the sand sensors.<New>
 Or do you have something
 else you want to ask?"<New>
-    Where are the sensors?
+<Opcode 1 255>    Where are the sensors?
     About Gear functions
     Got any parts to sell?
     Nothing<Close><End of Block>
 <TextBlock 85 w:50 h:4>
 Ol' Man Bal
 "Hmm, which do you want?"
-    For Gear use
+<Opcode 1 255>    For Gear use
     For character use<Close><End of Block>
 <TextBlock 86 w:52 h:4>
 Ol' Man Bal
@@ -512,13 +512,13 @@ It's on a rock ledge,
 northwest of where my
 repair robot stands.<New>
 Anything else you want?"
-    Explain Gear functions
+<Opcode 1 255>    Explain Gear functions
     Got any parts to sell?
     Nothing<Close><End of Block>
 <TextBlock 87 w:48 h:4>
 Ol' Man Bal
 "Hmm, what do you want?"
-    Parts for Gears
+<Opcode 1 255>    Parts for Gears
     Character items<Close><End of Block>
 <TextBlock 88 w:54 h:4>
 Ol' Man Bal
@@ -530,13 +530,13 @@ above the big boulder in
 the Great Hall. I think
 you've seen it already.<New>
 Anything else?"
-    Explain Gear functions
+<Opcode 1 255>    Explain Gear functions
     Got any parts to sell?
     Nothing<Close><End of Block>
 <TextBlock 89 w:48 h:4>
 Ol' Man Bal
 "Hmm, what do you want?"
-    Parts for Gears
+<Opcode 1 255>    Parts for Gears
     Character items<Close><End of Block>
 <TextBlock 90 w:50 h:4>
 Ol' Man Bal
