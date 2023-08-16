@@ -280,15 +280,15 @@ Go down?
 <TextBlock 29 w:54 h:4>
 Oh my, this has gotten
 serious.<Delay 20> It seems you can't
-get in because of the
-emergency security.<New>
-But you are all lucky.<Delay 20>
-A legendary vendor like
-me happens to be here
-through coincidence.<New>
+get into town because of
+the emergency security.<New>
+But you are all in luck.<Delay 20>
+By coincidence, a
+legendary vendor like
+me happens to be here.<New>
 I've got a line of quality
-goods, sir... So, if you've
-got anything you need,<Delay 20>
+goods, sir... So, if
+there's anything you need,<Delay 20>
 don't hesitate to ask.<Close><End of Block>
 <TextBlock 30 w:36 h:2>
 Alright, then what
