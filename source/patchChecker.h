@@ -9,6 +9,7 @@
 
 class patchChecker
 {
+	// Global methods
 public:
 	patchChecker();
 	virtual ~patchChecker();
@@ -26,6 +27,7 @@ public:
 	void initialise();
 	void markVersion(std::string path);
 	void markSubVersion(std::string path);
+	// Global variables
 public:
 	unsigned char buffer;
 	bool found;

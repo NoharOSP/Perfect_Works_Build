@@ -17,6 +17,7 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	wf_encounters = encounters;
 	wf_fast = fastnew;
 	wf_arena = arena;
+	// Move to the "shared_files" directory
 	std::filesystem::current_path(dir);
 	if (std::filesystem::exists("\patches")) {
 		std::filesystem::current_path("\patches");
@@ -30,27 +31,35 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	else {
 		MessageBox(wind, L"Could not find directory for 'patches'.", L"Error", MB_ICONERROR);
 	}
+	// Determine if the script, stats and items/spells patches have all been ticked
 	if (itemsspells && script && stats) {
 		allTrue();
 	}
+	// Determine if the script patch hasn't been ticked
 	else if (itemsspells && !script && stats) {
 		noScript();
 	}
+	// Determine if the items/spells patch hasn't been ticked
 	else if (!itemsspells && script && stats) {
 		noItems();
 	}
+	// Determine if the exp/gold patch hasn't been ticked
 	if (exp_gold) {
 		doExpGold();
 	}
+	// Determine if the monsters patch has been ticked
 	if (monsters) {
 		doMonsters();
 	}
+	// Determine if the encounters patch has been ticked
 	if (encounters) {
 		doEncounters();
 	}
+	// Determine if the fast text patch has been ticked
 	if (fastnew) {
 		doFast();
 	}
+	// Determine if the arena patch has been ticked
 	if (arena) {
 		doArena();
 	}
@@ -62,6 +71,7 @@ writeFile::~writeFile()
 
 }
 
+// Apply shared files for items/spells, script and stat patches
 void writeFile::allTrue() {
 	goHome();
 	if (std::filesystem::exists("\items_script_stats")) {
@@ -73,6 +83,7 @@ void writeFile::allTrue() {
 	preprocess("2595");
 }
 
+// Apply shared files for the items/spells and stat patches
 void writeFile::noScript() {
 	goHome();
 	if (std::filesystem::exists("\items_stats")) {
@@ -84,6 +95,7 @@ void writeFile::noScript() {
 	preprocess("2595");
 }
 
+// Apply shared files for the script and stat patches
 void writeFile::noItems() {
 	goHome();
 	if (std::filesystem::exists("\script_stats")) {
@@ -96,6 +108,7 @@ void writeFile::noItems() {
 }
 
 void writeFile::doExpGold() {
+	// Find shared files for the items/spells and exp/gold patches
 	if (wf_itemspells) {
 		goHome();
 		if (std::filesystem::exists("\exp_gold_items")) {
@@ -110,6 +123,7 @@ void writeFile::doExpGold() {
 			preprocess(finalName);
 		}
 	}
+	// Find shared files for the script and exp/gold patches
 	if (wf_script) {
 		goHome();
 		if (std::filesystem::exists("\exp_gold_script")) {
@@ -124,6 +138,7 @@ void writeFile::doExpGold() {
 			preprocess(finalName);
 		}
 	}
+	// Find shared files for the script, items/spells and exp/gold patches
 	if (wf_script && wf_itemspells) {
 		goHome();
 		if (std::filesystem::exists("\exp_gold_both")) {
@@ -141,6 +156,7 @@ void writeFile::doExpGold() {
 }
 
 void writeFile::doMonsters() {
+	// Find shared files for the items/spells and monster patches
 	if (wf_itemspells) {
 		goHome();
 		if (std::filesystem::exists("\monsters_items")) {
@@ -155,6 +171,7 @@ void writeFile::doMonsters() {
 			preprocess(finalName);
 		}
 	}
+	// Find shared files for the script and monster patches
 	if (wf_script) {
 		goHome();
 		if (std::filesystem::exists("\monsters_script")) {
@@ -169,6 +186,7 @@ void writeFile::doMonsters() {
 			preprocess(finalName);
 		}
 	}
+	// Find shared files for the script, items/spells and monster patches
 	if (wf_script && wf_itemspells) {
 		goHome();
 		if (std::filesystem::exists("\monsters_both")) {
@@ -186,7 +204,9 @@ void writeFile::doMonsters() {
 }
 
 void writeFile::doFast() {
+	// Check for shared files between the script and fast text patches
 	if (wf_script) {
+		// Mainly applies to disc 1 as disc 2 lacks scenes with auto-advance 
 		if (discNum == 1) {
 			goHome();
 			if (std::filesystem::exists("\speed_one")) {
@@ -205,7 +225,9 @@ void writeFile::doFast() {
 }
 
 void writeFile::doEncounters() {
+	// Check for shared files between the script and encounter rate patches
 	if (wf_script) {
+		// Check disc number
 		if (discNum == 1) {
 			goHome();
 			if (std::filesystem::exists("\encounterone_script")) {
@@ -233,7 +255,9 @@ void writeFile::doEncounters() {
 }
 
 void writeFile::doArena() {
+	// Mainly applies to disc 1. THIS WILL NOT WORK FOR DISC 2
 	if (discNum == 1) {
+		// Apply data for individual gears
 		if (wf_script || wf_itemspells) {
 			goHome();
 			if (std::filesystem::exists("\kislev_battle")) {
@@ -251,6 +275,7 @@ void writeFile::doArena() {
 				}
 				goHome();
 				std::filesystem::current_path("\kislev_battle");
+				// Check for shared files between the script and arena patches
 				if (wf_script) {
 					if (std::filesystem::exists("\Misc_script")) {
 						std::filesystem::current_path("\Misc_script");
@@ -264,6 +289,7 @@ void writeFile::doArena() {
 						MessageBox(wind, L"Could not find directory for 'Misc_script'.", L"Error", MB_ICONERROR);
 					}
 				}
+				// Check for shared files between the items/spells and arena patches
 				else {
 					if (std::filesystem::exists("\Misc_item")) {
 						std::filesystem::current_path("\Misc_item");
@@ -285,6 +311,7 @@ void writeFile::doArena() {
 	}
 }
 
+// Find TOC in the ROM
 bool writeFile::ReadVirtualTOC(CFile* romFile)
 {
 	BYTE pBuffer[2048 * 16];
@@ -311,6 +338,7 @@ bool writeFile::ReadVirtualTOC(CFile* romFile)
 	return true;
 }
 
+// Processes files to read and write their sectors
 bool writeFile::process(CFile *romFile, CFile *statsFile, UINT nPosition) {
 	byte pBuffer[2048 * 16];
 	UINT nNum = 0;
@@ -365,6 +393,7 @@ bool writeFile::WriteSector(CFile *romFile, byte *pBuffer, DWORD dwStart, UINT N
 	return true;
 }
 
+// Validate and prepare file
 void writeFile::preprocess(std::string fileName) {
 	CString iso;
 	CString file;
@@ -389,6 +418,7 @@ void writeFile::preprocess(std::string fileName) {
 	statsFile.Close();
 }
 
+// Return to "shared_files" directory
 void writeFile::goHome() {
 	std::filesystem::current_path(dir);
 	if (std::filesystem::exists("\patches")) {

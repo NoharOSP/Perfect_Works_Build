@@ -15,9 +15,11 @@ void romFinder::searchCD(std::string path) {
 	while (!file.bad()) {
 		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
 		byte += 1;
+		// Check to see if the function has passed the header
 		if (file.eof() || byte > 37704) {
 			break;
 		}
+		// Find "XENOGEARS" in the ROM header
 		if (buffer == 'X') {
 			file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
 			byte += 1;
@@ -49,6 +51,7 @@ void romFinder::searchCD(std::string path) {
 												byte += 1;
 												if (byte == 37736) {
 													int val = (int)buffer;
+													// Determine disc number through the first file difference
 													if (val == 178) {
 														discNum = 1;
 														discFound = true;

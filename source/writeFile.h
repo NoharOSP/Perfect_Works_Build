@@ -15,6 +15,7 @@ typedef CArray<TOCEntry, TOCEntry> CTOCArray;
 
 class writeFile
 {
+	// Global methods
 public:
 	writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats, bool expgold, bool monsters, bool encounters, bool fastnew, bool arena);
 	virtual ~writeFile();
@@ -33,6 +34,7 @@ public:
 	bool ReadSector(CFile *romFile, byte *pBuffer, DWORD dwStart, UINT NumOfSectors);
 	bool WriteSector(CFile *romFile, byte *pBuffer, DWORD dwStart, UINT NumOfSectors);
 	bool ReadVirtualTOC(CFile* romFile);
+	// Global variables
 public:
 	std::string dir;
 	std::string discName;

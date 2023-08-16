@@ -111,6 +111,8 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 		return FALSE;
 	}
 
+	// Create tabs
+
 	rc = { 0, 0, 0, 0 };
 	StartCommonControls(ICC_TAB_CLASSES);
 	tc = CreateTabController(hWnd, hInst, TCS_FIXEDWIDTH, rc, IDC_TAB);
@@ -142,6 +144,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	{
 	case WM_CREATE:
 	{
+		// Create home directory, font and buttons
 		home = std::filesystem::current_path().string();
 		initialiseGlobalWindows(hWnd);
 		initialiseGlobalButtonList();
@@ -151,6 +154,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	}
 	case WM_SIZE:
 	{
+		// Change window position and dimensions
 		HWND tc = reinterpret_cast<HWND>(static_cast<LONG_PTR>(GetWindowLongPtr(hWnd, GWLP_USERDATA)));
 		MoveWindow(tc, 2, 2, LOWORD(lParam) - 4, LOWORD(lParam) - 4, TRUE);
 	}
@@ -163,6 +167,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		{
 		case IDM_OPEN:
 		{
+			// Open file browser
 			OPENFILENAMEA ofn;
 			ZeroMemory(&ofn, sizeof(ofn));
 			ofn.lStructSize = sizeof(ofn);
@@ -177,6 +182,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			if (GetOpenFileNameA(&ofn)) {
 				std::string path = ofn.lpstrFile;
 				romFinder rf;
+				// Check for Xenogears bin files
 				rf.searchCD(path);
 				if (rf.getFound()) {
 					discNum = rf.getDisc();
@@ -207,6 +213,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 
 		case IDM_CHOOSE_PATCH:
 		{
+			// Check for ticked boxes
 			LRESULT scriptticked = SendMessage(script, BM_GETCHECK, NULL, NULL);
 			if (scriptticked == BST_CHECKED) {
 				p_script = true;
@@ -227,6 +234,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			}
 			LRESULT fastticked = SendMessage(fasttext, BM_GETCHECK, NULL, NULL);
 			if (fastticked == BST_CHECKED) {
+				// Check if the fast text patch should support the new translation
 				if (p_script == false) {
 					p_fastold = true;
 				}
@@ -304,6 +312,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			else {
 				p_portraits = false;
 			}
+			// Unlock patch button
 			patchBoxLock();
 		}
 		    break;
@@ -313,12 +322,15 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			patchChecker pc1;
 			patchChecker pc2;
 			bool changed = false;
+			// Return to home directory
 			std::filesystem::current_path(home);
+			// Access directory for patches
 			if (std::filesystem::exists(patchPath)) {
 				std::filesystem::current_path(patchPath);
 				patchPathValid = true;
 			}
 			SetWindowText(hWnd, L"Preparing...");
+			// Check for previous script edits
 			bool scriptExists = false;
 			if (pathFound1) {
 				if (pc1.scriptVerify(path1)) {
@@ -330,6 +342,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					scriptExists = true;
 				}
 			}
+			// Check for ticked boxes
 			if (patchPathValid) {
 				if (p_encounters) {
 					if (!p_items_spells && !p_script) {
@@ -373,6 +386,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					}
 				}
 				if (p_items_spells) {
+					// Check if the items/script hybrid patch needs to be applied
 					if (p_script || scriptExists) {
 						if (pathFound1) {
 							itemspellsName1 = "cd1_items_script.xdelta";
@@ -381,6 +395,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 							}
 						}
 						if (pathFound2) {
+							// Check if the item/script/arena hybrid patch exclusive to disc 2 needs to be added
 							if (!p_arena) {
 								itemspellsName2 = "cd2_items_script.xdelta";
 							}
@@ -397,6 +412,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 							itemspellsName1 = "cd1_items_spells.xdelta";
 						}
 						if (pathFound2) {
+							// Check if items/arena hybrid patch exclusive to disc 2 needs to be added
 							if (!p_arena)
 							{
 								itemspellsName2 = "cd2_items_spells.xdelta";
@@ -459,6 +475,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					}
 					if (pathFound2) {
 						if (!p_items_spells) {
+							// Check if arena/script hybrid patch needs to be added
 							if (!p_script && !scriptExists) {
 								arenaName2 = "cd2_battling_arena.xdelta";
 							}
@@ -482,19 +499,25 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				initialisePatchLists();
 				SetWindowText(hWnd, L"Patching...");
 				SetCursor(LoadCursor(NULL, IDC_WAIT));
+				// Apply disc 1 patches
+				// TODO: Create function for patch application
 				if (pathFound1) {
 					bool patched = false;
+					// Return to home directory
 					std::filesystem::current_path(home);
+					// Create batch file for xdelta commands
 					std::ofstream batch_file;
 					batch_file.open("commands.cmd", std::ios::trunc);
 					for (int i = 0; i < patchList1.size(); i++) {
 						if (patchList1[i] != "") {
+							// Create copy of bin file to stack patches
 							if (patched) {
 								batch_file << "copy \"Xenogears_PW_CD1.bin\" backup.bin \n" << std::endl;
 								batch_file << "del \"Xenogears_PW_CD1.bin\" \n" << std::endl;
 								batch_file << "xdelta.exe -d  -s backup.bin patches\\" + patchList1[i] + " \"Xenogears_PW_CD1.bin\" \n" << std::endl;
 							}
 							else {
+								// Apply patches
 								changed = true;
 								batch_file << "xdelta.exe -d  -s \"" + path1 + "\" patches\\" + patchList1[i] + " \"Xenogears_PW_CD1.bin\" \n" << std::endl;
 								patched = true;
@@ -502,9 +525,12 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 					}
 					batch_file.close();
+					// Execute patch file
 					int batch_exit_code = system("cmd.exe /c commands.cmd");
+					// Remove batch and backup bin
 					remove("commands.cmd");
 					remove("backup.bin");
+					// Create cue file
 					disc1_cue.open("Xenogears_PW_CD1.cue", std::ios::out);
 					disc1_cue << "FILE \"Xenogears_PW_CD1.bin\" BINARY" << "\n";
 					disc1_cue << "  TRACK 01 MODE2/2352" << "\n";
@@ -512,22 +538,28 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					disc1_cue.close();
 					std::string newName = "Xenogears_PW_CD1.bin";
 					newPath1 = home + "/" + newName;
+					// Mark version at the start of the bin
 					pc1.markVersion(newPath1);
 					pc1.markSubVersion(newPath1);
 				}
+				// Apply disc 2 patches
 				if (pathFound2) {
 					bool patched = false;
+					// Return to home directory
 					std::filesystem::current_path(home);
+					// Create batch file for xdelta commands
 					std::ofstream batch_file;
 					batch_file.open("commands.cmd", std::ios::trunc);
 					for (int i = 0; i < patchList2.size(); i++) {
 						if (patchList2[i] != "") {
+							// Create copy of bin file to stack patches
 							if (patched) {
 								batch_file << "copy \"Xenogears_PW_CD2.bin\" backup.bin \n" << std::endl;
 								batch_file << "del \"Xenogears_PW_CD2.bin\" \n" << std::endl;
 								batch_file << "xdelta.exe -d  -s backup.bin patches\\" + patchList2[i] + " \"Xenogears_PW_CD2.bin\" \n" << std::endl;
 							}
 							else {
+								// Apply patches
 								changed = true;
 								batch_file << "xdelta.exe -d  -s \"" + path2 + "\" patches\\" + patchList2[i] + " \"Xenogears_PW_CD2.bin\" \n" << std::endl;
 								patched = true;
@@ -535,9 +567,12 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 					}
 					batch_file.close();
+					// Execute patch file
 					int batch_exit_code = system("cmd.exe /c commands.cmd");
+					// Remove batch and backup bin
 					remove("commands.cmd");
 					remove("backup.bin");
+					// Create cue file
 					disc2_cue.open("Xenogears_PW_CD2.cue", std::ios::out);
 					disc2_cue << "FILE \"Xenogears_PW_CD2.bin\" BINARY" << "\n";
 					disc2_cue << "  TRACK 01 MODE2/2352" << "\n";
@@ -545,9 +580,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					disc2_cue.close();
 					std::string newName = "Xenogears_PW_CD2.bin";
 					newPath2 = home + "/" + newName;
+					// Mark version at the start of the bin
 					pc2.markVersion(newPath2);
 					pc2.markSubVersion(newPath2);
 				}
+				// Check if the script patch has been applied and what patches require direct file inserts for compatibility
 				if (scriptExists) {
 					p_script = true;
 				}
@@ -567,6 +604,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 				SetWindowText(hWnd, szTitle);
 				MessageBox(hWnd, L"Patch was completed successfully. Use ECCRegen to see if the bin file needs to be regenerated", L"Success", MB_ICONASTERISK);
+				// Restore defaults
 				relock();
 				reinitialisePatches();
 				clearText();
@@ -577,9 +615,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		}
 		    break;
 		case IDM_ABOUT:
+			// Create "About" dialog
 			DialogBox(hInst, MAKEINTRESOURCE(IDD_ABOUTBOX), hWnd, About);
 			break;
 		case IDM_EXIT:
+			// Close patcher
 			DestroyWindow(hWnd);
 			break;
 		default:
@@ -614,10 +654,12 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	}
 	break;
 	case WM_DESTROY:
+		// Close tabs
 		DestroyTabs(hWnd);
 		PostQuitMessage(0);
 		break;
 	case WM_NOTIFY:
+		// Manage tabs
 		if (((LPNMHDR)lParam)->code == TCN_SELCHANGE)
 		{
 			int tabID = TabCtrl_GetCurSel(tc);
@@ -638,6 +680,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			}
 		}
 	case WM_CTLCOLORSTATIC:
+		// Colour tab windows
 		if (std::find(generalWindList.begin(), generalWindList.end(), (HWND)lParam) != generalWindList.end()) {
 			return (LONG)GetStockObject(WHITE_BRUSH);
 		}
@@ -671,6 +714,7 @@ INT_PTR CALLBACK About(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 	return (INT_PTR)FALSE;
 }
 
+// Initialise global button list
 void initialiseGlobalButtonList() {
 	globalWindList.emplace_back(cd1path);
 	globalWindList.emplace_back(cd2path);
@@ -680,6 +724,7 @@ void initialiseGlobalButtonList() {
 	globalWindList.emplace_back(patchbutton);
 }
 
+//  Initialise general button list
 void initialiseGeneralButtonList() {
 	generalWindList.emplace_back(encounters);
 	generalWindList.emplace_back(fasttext);
@@ -692,12 +737,14 @@ void initialiseGeneralButtonList() {
 	generalWindList.emplace_back(script);
 }
 
+// Initialise misc button list
 void initialiseMiscButtonList() {
 	miscWindList.emplace_back(all);
 	miscWindList.emplace_back(easy);
 	miscWindList.emplace_back(hard);
 }
 
+// Initialise patch list
 void initialisePatchLists() {
 	patchList1.emplace_back(encountersName1);
 	patchList2.emplace_back(encountersName2);
@@ -721,6 +768,7 @@ void initialisePatchLists() {
 	patchList2.emplace_back(scriptName2);
 }
 
+// Lock checkboxes until a bin file has been found
 void checkboxLock() {
 	bool found;
 	if (pathFound1 || pathFound2) {
@@ -743,6 +791,7 @@ void checkboxLock() {
 	}
 }
 
+// Lock patch button until a box has been ticked
 void patchBoxLock() {
 	bool checkfound = false;
 	for (int i = 0; i < generalWindList.size(); i++) {
@@ -766,6 +815,7 @@ void patchBoxLock() {
 	}
 }
 
+// Locks both patches and buttons
 void relock() {
 	path1 = "";
 	path2 = "";
@@ -775,6 +825,7 @@ void relock() {
 	patchBoxLock();
 }
 
+// Removes patch names
 void reinitialisePatches () {
 	arenaName1 = "";
 	arenaName2 = "";
@@ -800,11 +851,14 @@ void reinitialisePatches () {
 	patchList2.clear();
 }
 
+// Removes file paths for bins
 void clearText() {
 	SetWindowText(cd1path, L"");
 	SetWindowText(cd2path, L"");
 }
 
+
+// Create tool tip
 HWND CreateToolTip(HWND hParent, HWND hText, HINSTANCE hInst, PTSTR pszText)
 {
 	if (!hParent || !hText || !pszText)
@@ -836,6 +890,7 @@ HWND CreateToolTip(HWND hParent, HWND hText, HINSTANCE hInst, PTSTR pszText)
 	return hwndTip;
 }
 
+// Generate tool tip
 HWND toolGenerator(char* text, HWND hWnd, HWND hText) {	
 	wchar_t wtext[256];
 	mbstowcs(wtext, text, strlen(text) + 1);
@@ -844,6 +899,7 @@ HWND toolGenerator(char* text, HWND hWnd, HWND hText) {
 	return hWndTT;
 }
 
+// Define text boxes for the general tab
 void initialiseGeneralWindows(HWND hWnd) {
 	encounters = CreateWindow(L"BUTTON", L"Half encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
@@ -856,12 +912,14 @@ void initialiseGeneralWindows(HWND hWnd) {
 	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.75), (int)(winY * 0.45), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
+// Define text boxes for the misc tab
 void initialiseMiscWindows(HWND hWnd) {
 	all = CreateWindow(L"BUTTON", L"All patches", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	easy = CreateWindow(L"BUTTON", L"Easy mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	hard = CreateWindow(L"BUTTON", L"Hard mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.35), (int)(winY * 0.53), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
+// Define tool tips for each checkbox
 void tooltipTextMaker(HWND hWnd) {
 	char text_encounters[] =
 		"Lowers encounter rate for all areas except\n"
@@ -935,6 +993,7 @@ void tooltipTextMaker(HWND hWnd) {
 	HWND tt_portraits = toolGenerator(text_portraits, hWnd, portraits);
 }
 
+
 HWND CreateTabController(HWND hParent, HINSTANCE hInst, DWORD dwStyle, const RECT& rc, const int id)
 {
 	dwStyle |= WS_CHILD | WS_VISIBLE | WS_CLIPSIBLINGS;
@@ -942,6 +1001,7 @@ HWND CreateTabController(HWND hParent, HINSTANCE hInst, DWORD dwStyle, const REC
 		reinterpret_cast<HMENU>(static_cast<INT_PTR>(id)), hInst, 0);
 }
 
+// Initialise common controls for parsing large files
 void StartCommonControls(DWORD flags) {
 	INITCOMMONCONTROLSEX iccx;
 	iccx.dwSize = sizeof(INITCOMMONCONTROLSEX);
@@ -966,6 +1026,7 @@ void DestroyTabs(const HWND hWnd) {
 	ImageList_Destroy(hImages);
 }
 
+// Define global windows
 void initialiseGlobalWindows(HWND hWnd) {
 	cd1path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.10), 400, 25, hWnd, NULL, hInst, NULL);
 	cd2path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.20), 400, 25, hWnd, NULL, hInst, NULL);
@@ -975,24 +1036,28 @@ void initialiseGlobalWindows(HWND hWnd) {
 	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.838), (int)(winY * 0.30), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
 }
 
+// Define font for global windows
 void initialiseGlobalFont() {
 	for (int i = 0; i < globalWindList.size(); i++) {
 		SendMessage(globalWindList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
 	}
 }
 
+// Define font for general windows
 void initialiseGeneralFont() {
 	for (int i = 0; i < generalWindList.size(); i++) {
 		SendMessage(generalWindList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
 	}
 }
 
+// Define font for misc windows
 void initialiseMiscFont() {
 	for (int i = 0; i < miscWindList.size(); i++) {
 		SendMessage(miscWindList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
 	}
 }
 
+// Initialise settings for general tab
 void generalButtonCustomiser(HWND hWnd) {
 	initialiseGeneralWindows(hWnd);
 	initialiseGeneralButtonList();
@@ -1002,6 +1067,7 @@ void generalButtonCustomiser(HWND hWnd) {
 	tooltipTextMaker(hWnd);
 }
 
+// Initialise settings for misc tab
 void miscButtonCustomiser(HWND hWnd) {
 	initialiseMiscWindows(hWnd);
 	initialiseMiscButtonList();
@@ -1011,6 +1077,7 @@ void miscButtonCustomiser(HWND hWnd) {
 	tooltipTextMaker(hWnd);
 }
 
+// Hide general buttons
 void removeGeneralButtons() {
 	ShowWindow(encounters, SW_HIDE);
 	ShowWindow(fasttext, SW_HIDE);
@@ -1023,6 +1090,7 @@ void removeGeneralButtons() {
 	ShowWindow(script, SW_HIDE);
 }
 
+// Hide misc buttons
 void removeMiscButtons() {
 	ShowWindow(all, SW_HIDE);
 	ShowWindow(easy, SW_HIDE);
@@ -1033,6 +1101,7 @@ void drawGUIText() {
 	hdc = GetDC(tc);
 	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
 	SelectObject(hdc, hFont);
+	// Draw text for general tab
 	if (tabNo == 1) {
 		swprintf_s(qoltext, 256, L"QoL:      ");
 		swprintf_s(balancetext, 256, L"Balance:  ");
@@ -1041,6 +1110,7 @@ void drawGUIText() {
 		TextOut(hdc, winX * 0.35, winY * 0.4, balancetext, wcslen(balancetext));
 		TextOut(hdc, winX * 0.75, winY * 0.4, storytext, wcslen(storytext));
 	}
+	// Draw text for misc tab
 	if (tabNo == 2) {
 		swprintf_s(misctext, 256, L"Misc:     ");
 		swprintf_s(modetext, 256, L"Mode:     ");
@@ -1062,59 +1132,4 @@ void drawGlobalText() {
 	TextOut(hdc, winX * 0.0325, winY * 0.20, cd2text, wcslen(cd2text));
 	ReleaseDC(tc, hdc);
 }
-
-BOOL ParseALargeFile(HWND hWnd, LPTSTR lpszFileName)
-{
-	RECT rcClient;  
-	int cyVScroll;  
-	HWND hwndPB;    
-	HANDLE hFile;   
-	DWORD cb;       
-	LPCH pch;       
-	LPCH pchTmp;    
-
-
-	InitCommonControls();
-
-	GetClientRect(hWnd, &rcClient);
-
-	cyVScroll = GetSystemMetrics(SM_CYVSCROLL);
-
-	hwndPB = CreateWindowEx(0, PROGRESS_CLASS, (LPTSTR)NULL,
-		WS_CHILD | WS_VISIBLE, rcClient.left,
-		rcClient.bottom - cyVScroll,
-		rcClient.right, cyVScroll,
-		hWnd, (HMENU)0, hInst, NULL);
-
-	hFile = CreateFile(lpszFileName, GENERIC_READ, FILE_SHARE_READ,
-		(LPSECURITY_ATTRIBUTES)NULL, OPEN_EXISTING,
-		FILE_ATTRIBUTE_NORMAL, (HANDLE)NULL);
-
-	if (hFile == (HANDLE)INVALID_HANDLE_VALUE)
-		return FALSE;
-
-	cb = GetFileSize(hFile, (LPDWORD)NULL);
-
-	SendMessage(hwndPB, PBM_SETRANGE, 0, MAKELPARAM(0, cb / 2048));
-
-	SendMessage(hwndPB, PBM_SETSTEP, (WPARAM)1, 0);
-
-	pch = (LPCH)LocalAlloc(LPTR, sizeof(char) * 2048);
-
-	pchTmp = pch;
-
-	do {
-		ReadFile(hFile, pchTmp, sizeof(char) * 2048, &cb, (LPOVERLAPPED)NULL);
-
-		SendMessage(hwndPB, PBM_STEPIT, 0, 0);
-
-	} while (cb);
-
-	CloseHandle((HANDLE)hFile);
-
-	DestroyWindow(hwndPB);
-
-	return TRUE;
-}
-
 

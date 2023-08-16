@@ -1,16 +1,15 @@
 #include "pch.h"
 #include "patchChecker.h"
 
-
 patchChecker::patchChecker()
 {
 }
-
 
 patchChecker::~patchChecker()
 {
 }
 
+// Check if the encounters patch has been applied
 bool patchChecker::encountersCheck(std::string path)
 {
 	initialise();
@@ -34,6 +33,7 @@ bool patchChecker::encountersCheck(std::string path)
 	return found;
 }
 
+// Check if the exp/gold patch has been applied
 bool patchChecker::expgoldCheck(std::string path)
 {
 	initialise();
@@ -57,6 +57,7 @@ bool patchChecker::expgoldCheck(std::string path)
 	return found;
 }
 
+// Check if the fast text patch has been applied
 bool patchChecker::fastTextCheck(std::string path, std::string version)
 {
 	initialise();
@@ -67,6 +68,7 @@ bool patchChecker::fastTextCheck(std::string path, std::string version)
 		byte += 1;
 		if (byte == maxByte) {
 			int val = (int)buffer;
+			// Check if the script patch has been applied as well
 			if (version == "new") {
 				if (val == 01) {
 					found = true;
@@ -75,6 +77,7 @@ bool patchChecker::fastTextCheck(std::string path, std::string version)
 					writeByte(1);
 				}
 			}
+			// Check if a version without the script patch has been applied
 			else if (version == "old") {
 				if (val == 02) {
 					found = true;
@@ -90,6 +93,7 @@ bool patchChecker::fastTextCheck(std::string path, std::string version)
 	return found;
 }
 
+// Check if the items/spells patch has been applied
 bool patchChecker::itemsCheck(std::string path, std::string version)
 {
 	initialise();
@@ -123,6 +127,7 @@ bool patchChecker::itemsCheck(std::string path, std::string version)
 	return found;
 }
 
+// Check if the monsters patch has been applied
 bool patchChecker::monstersCheck(std::string path)
 {
 	initialise();
@@ -146,6 +151,7 @@ bool patchChecker::monstersCheck(std::string path)
 	return found;
 }
 
+// Check if the script patch has been applied
 bool patchChecker::scriptCheck(std::string path)
 {
 	initialise();
@@ -169,6 +175,7 @@ bool patchChecker::scriptCheck(std::string path)
 	return found;
 }
 
+// Check if the stats patch has been applied
 bool patchChecker::statsCheck(std::string path)
 {
 	initialise();
@@ -192,6 +199,7 @@ bool patchChecker::statsCheck(std::string path)
 	return found;
 }
 
+// Check if the arena patch has been applied
 bool patchChecker::arenaCheck(std::string path)
 {
 	initialise();
@@ -215,6 +223,8 @@ bool patchChecker::arenaCheck(std::string path)
 	return found;
 }
 
+// TODO: Add function which checks for the portraits patch
+
 void patchChecker::writeByte(int num)
 {
 	uint64_t marker = 0;
@@ -228,6 +238,7 @@ void patchChecker::writeByte(int num)
 	file.write(reinterpret_cast<char*>(&marker), sizeof(marker));
 }
 
+// Initialise settings and empty buffer
 void patchChecker::initialise()
 {
 	found = false;
@@ -267,6 +278,7 @@ void patchChecker::markSubVersion(std::string path)
 	file.close();
 }
 
+// Check if the script patch has been applied beforehand
 bool patchChecker::scriptVerify(std::string path)
 {
 	initialise();
@@ -290,6 +302,7 @@ bool patchChecker::scriptVerify(std::string path)
 	return found;
 }
 
+// Check if the bin used has applied the undub patch
 bool patchChecker::undubCheck(std::string path) {
 	initialise();
 	maxByte = 56741;

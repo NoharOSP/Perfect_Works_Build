@@ -142,4 +142,3 @@ HWND CreateToolTip(HWND hParent, HWND hText, HINSTANCE hInst, PTSTR pszText);
 HWND toolGenerator(char* text, HWND hWnd, HWND hText);
 HWND CreateTabController(HWND hParent, HINSTANCE hInst, DWORD dwStyle, const RECT& rc, const int id);
 int InsertTab(HWND TabController, const ustring& txt, int item_index, int image_index, UINT mask);
-BOOL ParseALargeFile(HWND hWnd, LPTSTR lpszFileName);

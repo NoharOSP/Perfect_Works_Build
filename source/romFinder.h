@@ -10,14 +10,17 @@
 
 class romFinder
 {
+	// Global methods
 public:
 	romFinder();
 	~romFinder();
 	void searchCD(std::string path);
 	bool getFound();
 	int getDisc();
+	// Private variables
 private:
 	std::string name;
+	// Global variables
 public:
 	OPENFILENAMEA ofn;
 	bool xenoFound = false;
