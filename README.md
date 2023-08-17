@@ -1,10 +1,10 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.3.1 here:
+Download version 0.3.2 here:
 
-- Google Drive: https://drive.google.com/file/d/1YxyJKP7-oJ9yvZPeG7hxhuhP1AxY87Kg/view?usp=sharing
-- MEGA: https://mega.nz/file/fa4jnSha#OY7e7N7hvRed139o5e8aUXsHv3d3jT5Ec5W47jRgOaI
+- Google Drive: https://drive.google.com/file/d/1icaoTZNLwWmmr3aS6aMbkLS8TJP8kNFe/view?usp=sharing
+- MEGA: https://mega.nz/file/PDAAgBAK#rMOaZJ7n1iN1PF0wnk9Plbt9NLMY5rS9jta83OrZXcI
 
 ## Completion stats:
 
@@ -26,6 +26,23 @@ Hello. My name is Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito. I am a character 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.3.2:
+
+08/16/2023
+
+- Subtitles now use linnaealyn's "Xenogears Perfect Words" font and feature the same outline as the original game.
+- Minor adjustments have been made to the opening FMV's subtitles.
+- Disc 2 can now be patched in any directory.
+- Aveh error when the exp_gold patch is applied has been fixed.
+- English credits are now used.
+- Silver Ar is available in Shevat.
+- Dashes have been added to the Omnigear frame descriptions.
+- Fixed "equip" text glitch in Gear menu.
+- Myyah's gear is now known as Type-1 Vierge.
+- Spacing issue has been fixed in the Kislev capital.
+- Gear and enemy name corrections now apply for the script patch rather than the arena patch.
+- Fast text is less rough and glitches with it have been resolved.
 
 ### Version 0.3.1:
 
@@ -201,6 +218,11 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 ## Archive:
 
 ### Builds:
+
+## Version 0.3.1:
+
+- Google Drive: https://drive.google.com/file/d/1YxyJKP7-oJ9yvZPeG7hxhuhP1AxY87Kg/view?usp=sharing
+- MEGA: https://mega.nz/file/fa4jnSha#OY7e7N7hvRed139o5e8aUXsHv3d3jT5Ec5W47jRgOaI
 
 ### Version 0.3.0:
 
@@ -384,6 +406,8 @@ DM or tag here if you want immediate feedback on Twitter:
 - cactusmomma
 - krmine
 - ividyon
+- Siris
+- ChrisGLink
 - Nohar
 
 ### Character balance:
@@ -418,6 +442,10 @@ DM or tag here if you want immediate feedback on Twitter:
 - Kiahnte
 - edrovinhaz
 - Streetwize
+- wowbobwow
+- Siris
+- linnaealyn
+- FAY!!
 - Nohar
 
 ### Graphical fixes:
@@ -425,7 +453,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - rufaswan
 
 ### FMV font
-- KayJulers
+- linnaealyn
 
 ### Tools:
 - SadNES cITy Translations
