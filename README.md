@@ -6,6 +6,27 @@ Download version 0.3.2 here:
 - Google Drive: https://drive.google.com/file/d/1icaoTZNLwWmmr3aS6aMbkLS8TJP8kNFe/view?usp=sharing
 - MEGA: https://mega.nz/file/PDAAgBAK#rMOaZJ7n1iN1PF0wnk9Plbt9NLMY5rS9jta83OrZXcI
 
+## Instructions:
+
+### Patching:
+
+- Open the Xenogears: Perfect Works Patcher.
+- Open the ISO file for either or both discs. 
+- Select which patches you wish to apply.
+- Press Patch. Script patches should take around a minute or two due to the FMV changes.
+
+### Regenerating:
+
+This step applies if you're playing the game using Beetle PSX HW and multiple patches have been applied.
+
+- [Download ECCRegen](https://www.romhacking.net/utilities/1550/).
+- Click the folder icon to select the Xenogears ISO.
+- Click Scan.
+- Wait for the unregenerated files to load.
+- Right click Check all.
+- Click Regenerate.
+- Wait for the regeneration to finish.
+
 ## Completion stats:
 
 - Name/terminology changes: 100%
@@ -302,27 +323,6 @@ https://mega.nz/file/XSI32A4S#U1gV_X7pE8KjTZ0NY7Tb4oEZelk-OtKqzizgrUWk_PU
 DISCLAIMER: Only x64 is supported.
 
 https://mega.nz/file/mWYViJTR#_a1CaUwPLeMviQ5ZwTs9kPjYC60c_yOjHd5s68oGbCs
-
-## Instructions:
-
-### Patching:
-
-- Open the Xenogears: Perfect Works Patcher.
-- Open the ISO file for either or both discs. MAKE SURE THEY ARE IN THE SAME FOLDER AS THE PATCHER.
-- Select which patches you wish to apply.
-- Press Patch. Script patches should take around a minute or two due to the FMV changes.
-
-### Regenerating:
-
-This step applies if you're playing the game using Beetle PSX HW and multiple patches have been applied.
-
-- [Download ECCRegen](https://www.romhacking.net/utilities/1550/).
-- Click the folder icon to select the Xenogears ISO.
-- Click Scan.
-- Wait for the unregenerated files to load.
-- Right click Check all.
-- Click Regenerate.
-- Wait for the regeneration to finish.
 
 ## Saves:
 
