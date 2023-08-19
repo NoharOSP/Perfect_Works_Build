@@ -18,13 +18,13 @@ years ago?"<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Margie
 "So, what do you need?"<Delay 20>
-    Change party
+<Opcode 1 255>    Change party
     Nothing<Close><End of Block>
 <TextBlock 4 w:36 h:3>
 Margie
-"O.K.<Delay 20>
+"Okay.<Delay 20>
 Well, be careful!"<Close><End of Block>
 <TextBlock 5 w:48 h:3>
 Want to rest in the bed?<Delay 20>
-    Sure!
+<Opcode 1 255>    Sure!
     No thanks<Close><Close><End of Block>

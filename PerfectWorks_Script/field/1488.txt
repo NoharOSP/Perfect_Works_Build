@@ -7,23 +7,23 @@ Maria
 "<Seibzehn>,
 away!!"<Opcode 2 50><Close><End of Block>
 <TextBlock 3 w:36 h:3>
-<Opcode 1 3>Hmph, look who it
+Hmph, look who it
 is...<Delay 20> You again?
 That's all I need.<Close><End of Block>
 <TextBlock 4 w:28 h:3>
-<Opcode 1 2>Elly
+Elly
 "Dominia...!<Delay 20>
 Is that you!?"<Close><End of Block>
 <TextBlock 5 w:20 h:2>
-<Opcode 1 2>Fei
+Fei
 "Dominia!"<Close><End of Block>
 <TextBlock 6 w:32 h:4>
-<Opcode 1 2>Elly
+Elly
 "Dominia!<Delay 20>
 I can't let you
 have the Gear!"<Close><End of Block>
 <TextBlock 7 w:32 h:3>
-<Opcode 1 2>Fei
+Fei
 "I can't let you
 have the Gear!"<Close><End of Block>
 <TextBlock 8 w:36 h:3>
@@ -31,12 +31,12 @@ have the Gear!"<Close><End of Block>
 "...!?<Delay 20>
 What do you mean?"<Close><End of Block>
 <TextBlock 9 w:50 h:4>
-<Opcode 1 2>Dominia
+Dominia
 "What do I mean?<Delay 20>
 You'll understand it
 when you hear the story."<Close><End of Block>
 <TextBlock 10 w:46 h:3>
-<Opcode 1 2>Dominia
+Dominia
 "I don't lie, Maria.<Delay 20>
 This is the truth.<New>
 Your splendid father
@@ -45,10 +45,10 @@ man and machine.<New>
 And he opened the gates
 to hell for the Lambs."<Close><End of Block>
 <TextBlock 11 w:44 h:2>
-<Opcode 1 2>Don't you think you've
+Don't you think you've
 said enough, Dominia?<Close><End of Block>
 <TextBlock 12 w:42 h:3>
-<Opcode 1 2>Jessie
+Jessie
 "Why are women
 so gossipy?<New>
 Jabbering on and on
@@ -75,27 +75,27 @@ she told you..."<Close><End of Block>
 Fei
 "Stop!<Delay 20>
 Dominia!"<Close><End of Block>
-<TextBlock 17 w:28 h:3>
+<TextBlock 17 w:26 h:3>
 Fei
 "...!?<Delay 20>
-This...is...?"<Close><End of Block>
+What the...?"<Close><End of Block>
 <TextBlock 18 w:28 h:3>
-<Opcode 1 2>Maria
+Maria
 "Where is the
 intruder...!?"<Close><End of Block>
 <TextBlock 19 w:44 h:4>
-<Opcode 1 2>Maria
+Maria
 "Undoubtedly, I am the
 daughter of Nikola,
 Maria Balthasar!<New>
 What of it...?"<Close><End of Block>
 <TextBlock 20 w:48 h:4>
-<Opcode 1 2>Maria
+Maria
 "That's a lie!!<Delay 20>
 My father wouldn't do
 such a horrible thing!!"<Close><End of Block>
 <TextBlock 21 w:14 h:2>
-<Opcode 1 2>Maria
+Maria
 "...!!"<Close><End of Block>
 <TextBlock 22 w:20 h:3>
 Maria
@@ -247,7 +247,7 @@ I must go now.<New>
 Enjoy the party.<Delay 20>
 Hah hah hah...!"<Close><End of Block>
 <TextBlock 40 w:26 h:2>
-<Opcode 1 2>Dominia
+Dominia
 "Who is it!?"<Opcode 2 50><Close><End of Block>
 <TextBlock 41 w:44 h:4>
 Jessie
@@ -364,7 +364,7 @@ We restored the Yggdrasil
 to perfection.
 It can fly anytime.<Close><End of Block>
 <TextBlock 54 w:56 h:4>
-<Opcode 1 2>Well, talking about
+Well, talking about
 servicing, it's not like
 we know everything about
 <Seibzehn>.<New>
@@ -372,11 +372,11 @@ Realistically, all we can do
 is check for abnormalities
 and do simple repairs.<Close><End of Block>
 <TextBlock 55 w:48 h:3>
-<Opcode 1 2>Don't worry,
+Don't worry,
 I'll also take a look at
 your Gears later.<Close><End of Block>
 <TextBlock 56 w:50 h:5>
-<Opcode 1 2>It was amazing, I was so
+It was amazing, I was so
 impressed!<Delay 20> As long as
 Maria and you're with us,
 we have the power of 1000
@@ -388,7 +388,7 @@ Solaris in one shot!<Close><End of Block>
 <TextBlock 57 w:18 h:1>
 ...Maybe.<Opcode 2 40><Close><End of Block>
 <TextBlock 58 w:52 h:4>
-<Opcode 1 2>They say the fight between
+They say the fight between
 you and <Seibzehn>
 was well matched?<New>
 Amazing...<Delay 20>

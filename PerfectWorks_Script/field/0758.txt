@@ -140,6 +140,6 @@ Five Geburah Special
 Forces Gears, and one
 unidentifed large Gear.<New>
 All pilots report to
-the Gear Hangar!<Close><End of Block>
+the Gear hangar!<Close><End of Block>
 <TextBlock 42 w:0 h:1>
 <Close><End of Block>

@@ -115,9 +115,9 @@ astronomically
 unintellectual-<New>
 looking inferior
 lifeform...?"<Close><End of Block>
-<TextBlock 17 w:54 h:3>
+<TextBlock 17 w:48 h:3>
 <Chu-Chu>
-"Leave it up chu me, Maria.<Delay 20>
+"Leave it chu me, Maria.<Delay 20>
 No sweat!"<Close><End of Block>
 <TextBlock 18 w:52 h:4>
 <Chu-Chu>

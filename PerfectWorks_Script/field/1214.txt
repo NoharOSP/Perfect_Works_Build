@@ -27,7 +27,7 @@ Now I'm so<Delay 5>o<Delay 5>oo<Delay 5> happy!!)<Close><End of Block>
 <TextBlock 7 w:56 h:3>
 Gawd... I've been standing
 here for such a long time...<New>
-Was I of any help to you?
+Was I of any help to you?<Delay 10>
 <Opcode 1 255>    Of course
     Hmmm, I dunno<Close><End of Block>
 <TextBlock 8 w:44 h:3>
@@ -74,9 +74,9 @@ to stand here as punishment
 for not obeying lights-out,
 or anything like that, is it?<New>
 Beyond this door is the
-Gear Hangar.<Delay 10>
+Gear hangar.<Delay 10>
 The Gear Shop is located
-in the Gear Hangar too!<New>
+in the Gear hangar too!<New>
 Now be careful...!<Delay 10>
 The Gears are so big that
 you'll look very small and

@@ -13,14 +13,14 @@ If you need anything,
 please stop by again.<Delay 20>
 We'll try to help you
 as much as we can.<Close><End of Block>
-<TextBlock 3 w:50 h:4>
-What's the use of having
-a Gear if there's no one
-to ride on it?<New>
-The only Gear that needs
-maintenance is Maria's
-Gear which is hardly ever
-used.<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+What's the use in having
+Gears if there's no one
+to ride them?<New>
+The only Gear we need
+to maintain is Maria's
+Gear, and that's hardly
+ever used.<Close><End of Block>
 <TextBlock 4 w:54 h:4>
 Well, to be honest with
 you, we don't have any

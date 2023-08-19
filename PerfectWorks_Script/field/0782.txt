@@ -451,7 +451,7 @@ reverse the situation..."<Close><End of Block>
 Bart
 "Sister, I assume the
 people remaining in the
-town went to<Delay 20>...?"<Close><End of Block>
+town went to<Delay 20>..."<Close><End of Block>
 <TextBlock 84 w:48 h:3>
 Sister Agnes
 "Yes.<Delay 30> They evacuated
@@ -658,7 +658,7 @@ Sounds good.<New>
 We can pay everything
 back in one shot!"<Close><End of Block>
 <TextBlock 118 w:22 h:6>
-    Elly
+<Opcode 1 255>    Elly
     Citan
     Billy
     Rico
@@ -690,7 +690,7 @@ help out."<Close><End of Block>
 "I just have chu go
 along for this one!"<Close><End of Block>
 <TextBlock 125 w:22 h:5>
-    Elly
+<Opcode 1 255>    Elly
     Billy
     Rico
     Maria

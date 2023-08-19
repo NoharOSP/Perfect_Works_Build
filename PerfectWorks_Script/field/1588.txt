@@ -234,8 +234,8 @@ It sure does, now
 that you mention it...<New>
 Well,<Delay 30> if you trace my
 <Brigandier>'s history, it
-was a Gear originaly made
-in Av, that I customized.<New>
+was a Gear originally made
+in Av, which I customized.<New>
 It wouldn't surprise me if
 there was some connection."<Close><End of Block>
 <TextBlock 58 w:54 h:3>
@@ -521,12 +521,11 @@ Let us hope you use it
 for the right reasons."<Close><End of Block>
 <TextBlock 114 w:60 h:7>
  
-     "Peace to all those
-        who come here.<Delay 30>
+    "May the children who
+    visit here be blessed.<Delay 30>
    Fearing great calamity,
-    we sealed this legacy,
- entrusting its fate to you." 
- <Close><End of Block>
+  we sealed away our legacy,
+ entrusting its fate to you."<Close><End of Block>
 <TextBlock 115 w:12 h:2>
 Bart
 "...?"<Close><End of Block>

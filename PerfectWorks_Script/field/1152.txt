@@ -578,10 +578,12 @@ earlier battle are not yet
 fully healed! Commander!"<Close><End of Block>
 <TextBlock 113 w:20 h:1>
 No matter.<Close><End of Block>
-<TextBlock 114 w:46 h:3>
-The Lambs are likely
-on their way to destroy
-the Gates. THIS time<Delay 5>...<Close><End of Block>
+<TextBlock 114 w:32 h:4>
+The Lambs are
+likely on their
+way to destroy
+the Gates.<New>
+THIS time<Delay 5>...<Close><End of Block>
 <TextBlock 115 w:44 h:3>
 We would have you show
 us that 'latent power'

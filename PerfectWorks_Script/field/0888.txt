@@ -14,7 +14,7 @@ Maison
 <TextBlock 4 w:48 h:2>
 Bart
 "Where was Sigurd born?"<Close><End of Block>
-<TextBlock 5 w:46 h:2>
+<TextBlock 5 w:50 h:2>
 Maison
 "Young Master, that is<-->"<Close><End of Block>
 <TextBlock 6 w:48 h:3>

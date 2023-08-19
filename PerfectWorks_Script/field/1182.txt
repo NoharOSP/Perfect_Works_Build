@@ -199,17 +199,17 @@ room created!!"<Close><End of Block>
 I ended up having to
 take a side job...)<Close><End of Block>
 <TextBlock 30 w:50 h:4>
-How may I be of service?
+How may I be of service?<Delay 20>
 <Opcode 1 255>    Items
     Weapons/Accessories
     Nothing now, thanks<Close><End of Block>
 <TextBlock 31 w:50 h:4>
-How may I be of service?
+How may I be of service?<Delay 20>
 <Opcode 1 255>    Items
     Weapons/Accessories
     Nothing now, thanks<Close><End of Block>
 <TextBlock 32 w:50 h:4>
-How may I be of service?
+How may I be of service?<Delay 20>
 <Opcode 1 255>    Items
     Weapons/Accessories
     Nothing now, thanks<Close><End of Block>
@@ -701,7 +701,7 @@ But, having said that,
 note that Ether Guns do
 not have such a limit.<Delay 20>
 Well, that's about it...<New>
-Did you understand?"
+Did you understand?"<Delay 20>
     <Opcode 1 255>Yes
     Once more, please<Close><End of Block>
 <TextBlock 98 w:54 h:4>

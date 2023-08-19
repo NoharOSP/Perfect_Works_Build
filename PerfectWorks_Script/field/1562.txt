@@ -6,13 +6,13 @@ Laddie!?<Close><End of Block>
 ...!<Close><End of Block>
 <TextBlock 4 w:30 h:1>
 Yes, somehow...<Close><End of Block>
-<TextBlock 5 w:50 h:4>
+<TextBlock 5 w:54 h:4>
 Oh, Shakhan?<Delay 30>
 No, I haven't seen him...<New>
 The only people that came
 here were those soldiers
-who threatened me to
-stay quiet...<Delay 30><New>
+just now who threatened to
+kill us if we called out...<Delay 30><New>
 I'm sorry, laddie.<Delay 30>
 If only I'd been braver.<Close><End of Block>
 <TextBlock 6 w:40 h:2>

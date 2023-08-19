@@ -125,7 +125,7 @@ talented doctor like myself
 is here?<New>
 Maybe I should operate on
 fish instead.
-Sob...<Close><End of Block>
+*Sob*...<Close><End of Block>
 <TextBlock 30 w:48 h:4>
 When you get hurt, don't
 soak yourself in sea
@@ -184,8 +184,8 @@ So come by sometime!!<Close><End of Block>
 (Heh, hee, hee. My first
 impression was excellent!)<Close><End of Block>
 <TextBlock 39 w:50 h:5>
-<Opcode 1 255>Who do you want to weigh?
-    <Perso1>
+Who do you want to weigh?<Delay 20>
+<Opcode 1 255>    <Perso1>
     <Perso2>
     <Perso3>
     No one<Close><End of Block>
@@ -194,7 +194,7 @@ No one is there.<Close><End of Block>
 <TextBlock 41 w:52 h:1>
 Oh please, no one's there.<Close><End of Block>
 <TextBlock 42 w:48 h:2>
-Hum...you're too skinny.<Delay 10>
+Hmm...you're too skinny.<Delay 10>
 You need more nutrition.<Close><End of Block>
 <TextBlock 43 w:30 h:2>
 Good!!<Delay 10>

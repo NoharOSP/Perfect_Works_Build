@@ -1,7 +1,7 @@
 <TextBlock 1 w:32 h:4>
 Bart
-"How about now?"
-    I guess so
+"How about now?"<Delay 20>
+<Opcode 1 255>    I guess so
     Later<Close><End of Block>
 <TextBlock 2 w:34 h:3>
 Bart
@@ -9,8 +9,8 @@ Bart
 later, then."<Close><End of Block>
 <TextBlock 3 w:44 h:4>
 Bart
-"Can I have a second?"
-    Sure
+"Can I have a second?"<Delay 20>
+<Opcode 1 255>    Sure
     Maybe later<Close><End of Block>
 <TextBlock 4 w:34 h:3>
 Bart
@@ -29,7 +29,7 @@ before Yggdrasil can leave.<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Oh, Fei!<Delay 10>
 You can take this elevator
-down to the Gear Hangar.<New>
+down to the Gear hangar.<New>
 Why don't you check on
 <Weltall> and do
 whatever maintenance
@@ -46,8 +46,8 @@ you back!<Opcode 2 40><Close><End of Block>
 <TextBlock 11 w:16 h:1>
 Yessir!!<Opcode 2 30><Close><End of Block>
 <TextBlock 12 w:52 h:3>
-Oh...did you hear that?
-    Yep
+Oh...did you hear that?<Delay 20>
+<Opcode 1 255>    Yep
     No, hear what?<Close><End of Block>
 <TextBlock 13 w:36 h:2>
 Oh no.
@@ -482,12 +482,12 @@ Let me say my goodbyes to
 the old women before we
 go."<Close><End of Block>
 <TextBlock 87 w:62 h:3>
-<Opcode 1 255>Go up to the residential area?
-    Go up
+Go up to the residential area?<Delay 20>
+<Opcode 1 255>    Go up
     No<Close><End of Block>
 <TextBlock 88 w:56 h:3>
-<Opcode 1 255>Go down to the Gear Hangar?
-    Go down
+Go down to the Gear hangar?<Delay 20>
+<Opcode 1 255>    Go down
     No<Close><End of Block>
 <TextBlock 89 w:42 h:2>
 Current supply status

@@ -66,9 +66,9 @@ Nikola
 "<Seibzehn>...<Delay 20>
 What? You dare stand 
 against me, your creator?"<Close><End of Block>
-<TextBlock 11 w:34 h:3>
+<TextBlock 11 w:26 h:3>
 Maria
-"Th-This is...!!<Delay 20>
+"Wh-Whoa...!!<Delay 20>
 <Seibzehn>!?"<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Nikola

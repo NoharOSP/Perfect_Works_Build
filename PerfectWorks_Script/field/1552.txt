@@ -115,12 +115,12 @@ all be done for."<Close><End of Block>
 <TextBlock 25 w:42 h:4>
 <Chu-Chu>
 "No sweat!<Delay 20>
-The guardian spirits
+The guardian god
 will look out for me.<New>
 <Chu-Chu> will go."<Close><End of Block>
-<TextBlock 26 w:32 h:2>
+<TextBlock 26 w:36 h:2>
 Maria
-"Th-<Delay 10>This is..."<Close><End of Block>
+"I-<Delay 10>It can't be..."<Close><End of Block>
 <TextBlock 27 w:30 h:2>
 Maria
 "Achtzehn...!?"<Close><End of Block>
@@ -470,16 +470,18 @@ next move!"<Close><End of Block>
 Citan
 "We must repel the Gear
 forces and protect the
-generator."<Close><End of Block>
-<TextBlock 86 w:56 h:4>
+generators."<Close><End of Block>
+<TextBlock 86 w:54 h:4>
 Citan
-"To do that let us split
+"To do that, let us split
 into four teams and
 intercept the enemy.<New>
-The four of us will attack
-independently and defend
-each generator to the death.<Delay 20>
-The other two, wait here.<New>
+Four from among us will
+sortie, each assigned a
+generator to defend to
+the death single-handedly!<New>
+The remaining two will
+be on standby here.<New>
 It is dangerous...but we
 cannot turn back now.<Delay 20>
 If even one generator falls
@@ -807,7 +809,7 @@ Generator 4
    Billy<Close><End of Block>
 <TextBlock 149 w:54 h:4>
 Citan
-"Are the assignments okay?"
+"Are the assignments okay?"<Delay 20>
 <Opcode 1 255>    Looks good!
     No, I wanna change 'em!<Close><End of Block>
 <TextBlock 150 w:44 h:4>
@@ -930,7 +932,7 @@ Generator 4
    Billy<Close><End of Block>
 <TextBlock 181 w:54 h:4>
 Citan
-"Are the assignments okay?"
+"Are the assignments okay?"<Delay 20>
 <Opcode 1 255>    Looks good!
     No, I wanna change 'em!<Close><End of Block>
 <TextBlock 182 w:40 h:2>

@@ -148,7 +148,7 @@ Fort Jasper?"<Close><End of Block>
 Elly
 "It's impossible.
 Something that heavy..."<Close><End of Block>
-<TextBlock 27 w:3 h:1>
+<TextBlock 27 w:2 h:1>
 !<Opcode 2 30><Close><End of Block>
 <TextBlock 28 w:48 h:4>
 Fei
@@ -174,7 +174,7 @@ Let's go check it out."<Close><End of Block>
 <TextBlock 32 w:24 h:2>
 Bart
 "Alright..."<Close><End of Block>
-<TextBlock 33 w:3 h:1>
+<TextBlock 33 w:2 h:1>
 !<Opcode 2 30><Close><End of Block>
 <TextBlock 34 w:52 h:4>
 Citan
@@ -297,7 +297,7 @@ at the mirror.<New>
 The mirror will reflect
 the beam to strike the
 Gate."<Close><End of Block>
-<TextBlock 55 w:3 h:1>
+<TextBlock 55 w:2 h:1>
 !<Opcode 2 30><Close><End of Block>
 <TextBlock 56 w:42 h:3>
 Maria
@@ -375,7 +375,7 @@ Sigurd
 "Alright, you three take
 Babel.<Delay 20> Now, what about
 the cannon?"<Close><End of Block>
-<TextBlock 67 w:50 h:4>
+<TextBlock 67 w:40 h:4>
 Billy
 "I'll do it.<Delay 20>
 This one seems like
@@ -389,7 +389,7 @@ Bart
 go to Jasper too."<Close><End of Block>
 <TextBlock 69 w:38 h:3>
 <Chu-Chu>
-"Me chu! <Chu-Chu> 
+"Me chu! <Chu-Chu>
 wants to go chu!"<Close><End of Block>
 <TextBlock 70 w:48 h:4>
 Bart

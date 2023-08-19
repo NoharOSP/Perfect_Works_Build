@@ -11,11 +11,11 @@ us won't change?"<Close><End of Block>
 Maison
 "What is the matter,
 Young Master...?"<Close><End of Block>
-<TextBlock 4 w:42 h:4>
+<TextBlock 4 w:44 h:4>
 Bart
 "It's nothing...<Delay 10>
-I guess I have to
-do what I was asked."<Close><End of Block>
+I guess I have to do
+what was asked of me."<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Bart
 "My good people of Av...<New>
@@ -64,17 +64,17 @@ Sigurd
 Maison
 "What in Av 
 are you doing...?"<Close><End of Block>
-<TextBlock 9 w:56 h:4>
+<TextBlock 9 w:54 h:4>
 Bart
 "This is my father's wish.<New>
 I am sorry. You both have
 worked so hard for many
 long years to restore me
 to the throne.<New>
-Now I'm no longer in line to
-be king, nor anything else
-for that matter, the two of
-you are free to go."<Close><End of Block>
+Now I'm no longer in line
+to be king, nor anything
+else for that matter, the
+two of you are free to go."<Close><End of Block>
 <TextBlock 10 w:50 h:2>
 Maison
 "What are you saying...?"<Close><End of Block>
@@ -109,6 +109,6 @@ yourselves hired."<Close><End of Block>
 <TextBlock 19 w:42 h:1>
 We will protect Av.<Close><End of Block>
 <TextBlock 20 w:48 h:3>
-This is the former 
-Geburah base. It's under 
-inspection, no entry.<Close><Close><End of Block>
+This is the former
+Geburah base. It's under
+inspection <--> no entry.<Close><Close><End of Block>

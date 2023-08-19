@@ -147,7 +147,7 @@ Oh no, I've come this
 far, I'm not going back!<New>
 I'm gonna stay and help you.<Close><End of Block>
 <TextBlock 34 w:30 h:3>
-    Items
+<Opcode 1 255>    Items
     Accessories
     Never mind<Close><End of Block>
 <TextBlock 35 w:54 h:2>

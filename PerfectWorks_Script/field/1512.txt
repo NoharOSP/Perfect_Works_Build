@@ -149,7 +149,7 @@ the Queen...?"<Close><End of Block>
 going chu help too!"<Close><End of Block>
 <TextBlock 26 w:52 h:4>
 <Chu-Chu>
-"Uh hmm... <Chu-Chu>'s not
+"Nuh-uh... <Chu-Chu>'s not
 a good girl.<Delay 20> I'm at that
 dangerous age right now."<Close><End of Block>
 <TextBlock 27 w:30 h:3>
@@ -193,13 +193,14 @@ Maria
 "Yes!<Delay 20>
 <Seibzehn> is ready
 to go anytime!"<Close><End of Block>
-<TextBlock 34 w:52 h:3>
+<TextBlock 34 w:50 h:4>
 Zephyr
-"Break the Gate and open
-the path to Solaris.<New>
-That will lead to the land
-dweller's freedom.<Delay 20> Please,
-Fei."<Close><End of Block>
+"Disrupt the Gate and
+open the path to Solaris.<New>
+That is what will lead
+to the freedom of the
+surface dwellers.<Delay 20>
+Please, Fei."<Close><End of Block>
 <TextBlock 35 w:28 h:3>
 Zephyr
 "Now go and
@@ -212,7 +213,7 @@ for us."<Close><End of Block>
 <TextBlock 37 w:52 h:4>
 Zephyr
 "Have you decided?"<Delay 10>
-    My heart is set!
+<Opcode 1 255>    My heart is set!
     Let me think some more<Close><End of Block>
 <TextBlock 38 w:40 h:4>
 <Opcode 1 3>Zephyr
@@ -408,7 +409,7 @@ Please look out for Maria.<Delay 20>
 And be careful out there."<Close><End of Block>
 <TextBlock 62 w:48 h:3>
 Who will you leave here?<Delay 20>
-    Leave <Perso2>
+<Opcode 1 255>    Leave <Perso2>
     Leave <Perso3><Close><End of Block>
 <TextBlock 63 w:54 h:1>
 Maria has joined the party!<Close><End of Block>
@@ -475,7 +476,7 @@ everyone."<Close><End of Block>
 <TextBlock 76 w:42 h:4>
 Elly
 "Shall I come along?"<Delay 20>
-    Change
+<Opcode 1 255>    Change
     Don't change<Close><End of Block>
 <TextBlock 77 w:52 h:1>
 Elly has joined the party!<Close><End of Block>
@@ -505,7 +506,7 @@ Yes..."<Close><End of Block>
 <TextBlock 83 w:44 h:4>
 Bart
 "You want me to come?"<Delay 20>
-    Change
+<Opcode 1 255>    Change
     Don't change<Close><End of Block>
 <TextBlock 84 w:52 h:1>
 Bart has joined the party!<Close><End of Block>
@@ -524,7 +525,7 @@ take 'em all down in my
 <TextBlock 86 w:44 h:4>
 Billy
 "Should I come along?"<Delay 20>
-    Change
+<Opcode 1 255>    Change
     Don't change<Close><End of Block>
 <TextBlock 87 w:54 h:1>
 Billy has joined the party!<Close><End of Block>
@@ -545,7 +546,7 @@ not say anything!?"<Close><End of Block>
 <TextBlock 90 w:40 h:4>
 Rico
 "You want me to go?"<Delay 20>
-    Change
+<Opcode 1 255>    Change
     Don't change<Close><End of Block>
 <TextBlock 91 w:52 h:1>
 Rico has joined the party!<Close><End of Block>
@@ -563,7 +564,7 @@ Rico off."<Close><End of Block>
 <TextBlock 93 w:44 h:4>
 Citan
 "Should I come along?"<Delay 20>
-    Change
+<Opcode 1 255>    Change
     Don't change<Close><End of Block>
 <TextBlock 94 w:54 h:1>
 Citan has joined the party!<Close><End of Block>
@@ -649,8 +650,8 @@ please assemble back
 here.<New>
 Okay, then..."<Close><End of Block>
 <TextBlock 100 w:52 h:3>
-Are you prepped and ready?
-    Let's go!
+Are you prepped and ready?<Delay 20>
+<Opcode 1 255>    Let's go!
     Not yet<Close><End of Block>
 <TextBlock 101 w:34 h:3>
 Citan

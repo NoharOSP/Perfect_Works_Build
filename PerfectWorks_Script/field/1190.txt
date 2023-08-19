@@ -176,15 +176,15 @@ be upset if we don't try
 to put another Gear unit
 together.<Close><End of Block>
 <TextBlock 35 w:48 h:4>
-Hey, you haven't seen
-Maria's Gear, have you?<New>
+Oh, you don't see
+Maria's Gear, huh?<New>
 It's too big to fit in
 this hangar, so it's on
 the deck.<New>
 Speaking of which...<New>
-Do you wanna change the 
-name of <Seibzehn>?
-    <Opcode 1 255>Yeah, why not!?
+Do you wanna change the
+name of <Seibzehn>?<Delay 20>
+<Opcode 1 255>    Yeah, why not!?
     No, not now...<Close><End of Block>
 <TextBlock 36 w:36 h:4>
 General Maitreya,
