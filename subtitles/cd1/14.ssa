@@ -20,7 +20,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour
 Style: Default,Xenogears Interior,25,16777215,0,0,0,0,0,1,2,2,2,20,20,30,0,0
 Style: Alfa e Omega,Xenogears Interior,38,16777215,0,0,0,0,-1,1,2,2,2,20,20,30,0,0
 Style: Red,Xenogears Interior,38,208,160,0,0,-1,0,1,3,3,2,20,20,30,0,0
-Style: Normal,Xenogears Perfect Words,32.5,16777215,0,0,8663870,0,0,1,2,0,2,20,20,30,0,0
+Style: Normal,XG PWB,32.5,16777215,0,0,8663870,0,0,1,2,0,2,20,20,30,0,0
 
 [Fonts]
 
