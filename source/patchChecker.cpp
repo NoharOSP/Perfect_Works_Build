@@ -223,7 +223,29 @@ bool patchChecker::arenaCheck(std::string path)
 	return found;
 }
 
-// TODO: Add function which checks for the portraits patch
+// Check if the portraits patch has been applied
+bool patchChecker::portraitsCheck(std::string path)
+{
+	initialise();
+	maxByte = 40;
+	file.open(path, std::ios::in | std::ios::out | std::ios::binary);
+	while (!file.bad()) {
+		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
+		byte += 1;
+		if (byte == maxByte) {
+			int val = (int)buffer;
+			if (val == 01) {
+				found = true;
+			}
+			else {
+				writeByte(1);
+			}
+			break;
+		}
+	}
+	file.close();
+	return found;
+}
 
 void patchChecker::writeByte(int num)
 {
@@ -249,7 +271,7 @@ void patchChecker::initialise()
 void patchChecker::markVersion(std::string path)
 {
 	initialise();
-	maxByte = 40;
+	maxByte = 41;
 	file.open(path, std::ios::in | std::ios::out | std::ios::binary);
 	while (!file.bad()) {
 		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
@@ -265,13 +287,13 @@ void patchChecker::markVersion(std::string path)
 void patchChecker::markSubVersion(std::string path)
 {
 	initialise();
-	maxByte = 41;
+	maxByte = 42;
 	file.open(path, std::ios::in | std::ios::out | std::ios::binary);
 	while (!file.bad()) {
 		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
 		byte += 1;
 		if (byte == maxByte) {
-			writeByte(2);
+			writeByte(3);
 			break;
 		}
 	}

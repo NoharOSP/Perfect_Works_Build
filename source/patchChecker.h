@@ -23,6 +23,7 @@ public:
 	bool arenaCheck(std::string path);
 	bool scriptVerify(std::string path);
 	bool undubCheck(std::string path);
+	bool portraitsCheck(std::string path);
 	void writeByte(int num);
 	void initialise();
 	void markVersion(std::string path);

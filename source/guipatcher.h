@@ -46,6 +46,7 @@ bool p_script = false;
 bool p_stats = false;
 bool p_arena = false;
 bool patchPathValid = false;
+bool changed;
 std::string home = "";
 std::string path1 = "";
 std::string path2 = "";
@@ -109,8 +110,9 @@ TCHAR storytext[256];
 TCHAR misctext[256];
 TCHAR modetext[256];
 TCHAR dummy[256];
-std::ofstream disc1_cue;
-std::ofstream disc2_cue;
+std::ofstream cue_stream;
+patchChecker pc1;
+patchChecker pc2;
 
 // Global methods
 
@@ -138,6 +140,7 @@ void generalButtonCustomiser(HWND hWnd);
 void miscButtonCustomiser(HWND hWnd);
 void drawGUIText();
 void drawGlobalText();
+void applyPatch(int discNum);
 HWND CreateToolTip(HWND hParent, HWND hText, HINSTANCE hInst, PTSTR pszText);
 HWND toolGenerator(char* text, HWND hWnd, HWND hText);
 HWND CreateTabController(HWND hParent, HINSTANCE hInst, DWORD dwStyle, const RECT& rc, const int id);

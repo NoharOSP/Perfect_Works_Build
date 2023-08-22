@@ -319,9 +319,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 
 		case IDM_APPLY_PATCH:
 		{
-			patchChecker pc1;
-			patchChecker pc2;
-			bool changed = false;
+			changed = false;
 			// Return to home directory
 			std::filesystem::current_path(home);
 			// Access directory for patches
@@ -500,89 +498,12 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				SetWindowText(hWnd, L"Patching...");
 				SetCursor(LoadCursor(NULL, IDC_WAIT));
 				// Apply disc 1 patches
-				// TODO: Create function for patch application
 				if (pathFound1) {
-					bool patched = false;
-					// Return to home directory
-					std::filesystem::current_path(home);
-					// Create batch file for xdelta commands
-					std::ofstream batch_file;
-					batch_file.open("commands.cmd", std::ios::trunc);
-					for (int i = 0; i < patchList1.size(); i++) {
-						if (patchList1[i] != "") {
-							// Create copy of bin file to stack patches
-							if (patched) {
-								batch_file << "copy \"Xenogears_PW_CD1.bin\" backup.bin \n" << std::endl;
-								batch_file << "del \"Xenogears_PW_CD1.bin\" \n" << std::endl;
-								batch_file << "xdelta.exe -d  -s backup.bin patches\\" + patchList1[i] + " \"Xenogears_PW_CD1.bin\" \n" << std::endl;
-							}
-							else {
-								// Apply patches
-								changed = true;
-								batch_file << "xdelta.exe -d  -s \"" + path1 + "\" patches\\" + patchList1[i] + " \"Xenogears_PW_CD1.bin\" \n" << std::endl;
-								patched = true;
-							}
-						}
-					}
-					batch_file.close();
-					// Execute patch file
-					int batch_exit_code = system("cmd.exe /c commands.cmd");
-					// Remove batch and backup bin
-					remove("commands.cmd");
-					remove("backup.bin");
-					// Create cue file
-					disc1_cue.open("Xenogears_PW_CD1.cue", std::ios::out);
-					disc1_cue << "FILE \"Xenogears_PW_CD1.bin\" BINARY" << "\n";
-					disc1_cue << "  TRACK 01 MODE2/2352" << "\n";
-					disc1_cue << "    INDEX 01 00:00:00" << "\n";
-					disc1_cue.close();
-					std::string newName = "Xenogears_PW_CD1.bin";
-					newPath1 = home + "/" + newName;
-					// Mark version at the start of the bin
-					pc1.markVersion(newPath1);
-					pc1.markSubVersion(newPath1);
+					applyPatch(1);
 				}
 				// Apply disc 2 patches
 				if (pathFound2) {
-					bool patched = false;
-					// Return to home directory
-					std::filesystem::current_path(home);
-					// Create batch file for xdelta commands
-					std::ofstream batch_file;
-					batch_file.open("commands.cmd", std::ios::trunc);
-					for (int i = 0; i < patchList2.size(); i++) {
-						if (patchList2[i] != "") {
-							// Create copy of bin file to stack patches
-							if (patched) {
-								batch_file << "copy \"Xenogears_PW_CD2.bin\" backup.bin \n" << std::endl;
-								batch_file << "del \"Xenogears_PW_CD2.bin\" \n" << std::endl;
-								batch_file << "xdelta.exe -d  -s backup.bin patches\\" + patchList2[i] + " \"Xenogears_PW_CD2.bin\" \n" << std::endl;
-							}
-							else {
-								// Apply patches
-								changed = true;
-								batch_file << "xdelta.exe -d  -s \"" + path2 + "\" patches\\" + patchList2[i] + " \"Xenogears_PW_CD2.bin\" \n" << std::endl;
-								patched = true;
-							}
-						}
-					}
-					batch_file.close();
-					// Execute patch file
-					int batch_exit_code = system("cmd.exe /c commands.cmd");
-					// Remove batch and backup bin
-					remove("commands.cmd");
-					remove("backup.bin");
-					// Create cue file
-					disc2_cue.open("Xenogears_PW_CD2.cue", std::ios::out);
-					disc2_cue << "FILE \"Xenogears_PW_CD2.bin\" BINARY" << "\n";
-					disc2_cue << "  TRACK 01 MODE2/2352" << "\n";
-					disc2_cue << "    INDEX 01 00:00:00" << "\n";
-					disc2_cue.close();
-					std::string newName = "Xenogears_PW_CD2.bin";
-					newPath2 = home + "/" + newName;
-					// Mark version at the start of the bin
-					pc2.markVersion(newPath2);
-					pc2.markSubVersion(newPath2);
+					applyPatch(2);
 				}
 				// Check if the script patch has been applied and what patches require direct file inserts for compatibility
 				if (scriptExists) {
@@ -1132,4 +1053,71 @@ void drawGlobalText() {
 	TextOut(hdc, winX * 0.0325, winY * 0.20, cd2text, wcslen(cd2text));
 	ReleaseDC(tc, hdc);
 }
+
+void applyPatch(int discNum) {
+	std::vector<std::string> patchList;
+	std::string fileName;
+	std::string oldPath;
+	std::string cueName;
+	// Disc 1 data
+	if (discNum == 1) {
+		fileName = "Xenogears_PW_CD1.bin";
+		cueName = "Xenogears_PW_CD1.cue";
+		patchList = patchList1;
+		oldPath = path1;
+	}
+	// Disc 2 data
+	if (discNum == 2) {
+		fileName = "Xenogears_PW_CD2.bin";
+		cueName = "Xenogears_PW_CD2.cue";
+	    patchList = patchList2;
+		oldPath = path2;
+	}
+	bool patched = false;
+	// Return to home directory
+	std::filesystem::current_path(home);
+	// Create batch file for xdelta commands
+	std::ofstream batch_file;
+	batch_file.open("commands.cmd", std::ios::trunc);
+	for (int i = 0; i < patchList.size(); i++) {
+		if (patchList[i] != "") {
+			// Create copy of bin file to stack patches
+			if (patched) {
+				batch_file << "copy \"" + fileName + "\" backup.bin \n" << std::endl;
+				batch_file << "del \"" + fileName + "\" \n" << std::endl;
+				batch_file << "xdelta.exe -d  -s backup.bin patches\\" + patchList[i] + " \"" + fileName + "\" \n" << std::endl;
+			}
+			else {
+				// Apply patches
+				changed = true;
+				batch_file << "xdelta.exe -d  -s \"" + oldPath + "\" patches\\" + patchList[i] + " \"" + fileName + "\" \n" << std::endl;
+				patched = true;
+			}
+		}
+	}
+	batch_file.close();
+	// Execute patch file
+	int batch_exit_code = system("cmd.exe /c commands.cmd");
+	// Remove batch and backup bin
+	remove("commands.cmd");
+	remove("backup.bin");
+	// Create cue file
+	cue_stream.open(cueName, std::ios::out);
+	cue_stream << "FILE \"" + fileName + "\" BINARY" << "\n";
+	cue_stream << "  TRACK 01 MODE2/2352" << "\n";
+	cue_stream << "    INDEX 01 00:00:00" << "\n";
+	cue_stream.close();
+	if (discNum == 1) {
+		newPath1 = home + "/" + fileName;
+		// Mark version at the start of the bin
+		pc1.markVersion(newPath1);
+		pc1.markSubVersion(newPath1);
+	}
+	if (discNum == 2) {
+		newPath2 = home + "/" + fileName;
+		pc2.markVersion(newPath2);
+		pc2.markSubVersion(newPath2);
+	}
+}
+
 
