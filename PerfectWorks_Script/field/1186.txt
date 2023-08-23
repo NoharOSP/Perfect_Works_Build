@@ -171,8 +171,8 @@ left.<Delay 10> Let's go, to win
 ourselves true freedom!!"<Close><End of Block>
 <TextBlock 24 w:52 h:4>
 Sigurd
-"Ready to go to Sargasso?"
-    Sure!
+"Ready to go to Sargasso?"<Delay 10>
+<Opcode 1 255>    Sure!
     Wait a minute!<Close><End of Block>
 <TextBlock 25 w:42 h:3>
 Sigurd
@@ -423,7 +423,7 @@ The operations have
 changed a little so
 I've gotta study
 them all over again.<New>
-Wanna see my notes?
+Wanna see my notes?<Delay 10>
     <Opcode 1 255>Let me see them
     Not right now<Close><End of Block>
 <TextBlock 70 w:52 h:4>
@@ -612,12 +612,12 @@ Vance
 I didn't realize that you
 were there! <New>
 Wanna hear some hot sounds
-that I have recorded?"
+that I have recorded?"<Delay 10>
     <Opcode 1 255>Sure
     No thanks<Close><End of Block>
 <TextBlock 94 w:46 h:4>
 Vance
-"Wanna hear some more?"
+"Wanna hear some more?"<Delay 10>
     <Opcode 1 255>Yeah, this is cool!
     No, enough already!<Close><End of Block>
 <TextBlock 95 w:42 h:3>
@@ -748,7 +748,7 @@ complicated and expensive,
 now that we can fly!<Close><End of Block>
 <TextBlock 119 w:44 h:2>
 Laser communication...<Delay 10>
-I, <Delay 5>I want it so bad...<Close><End of Block>
+I-<Delay 5>I want it so bad...<Close><End of Block>
 <TextBlock 120 w:52 h:3>
 We had a lot of trouble
 with static electricity in
@@ -804,7 +804,7 @@ Where the heck are we?<Close><End of Block>
 I got a new map!<Close><End of Block>
 <TextBlock 132 w:36 h:4>
 Do you want to see
-the ship's chart?
+the ship's chart?<Delay 10>
     <Opcode 1 255>Yeah, show me!
     No thanks<Close><End of Block>
 <TextBlock 133 w:52 h:4>
