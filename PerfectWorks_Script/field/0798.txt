@@ -175,8 +175,8 @@ N-No problems, sir!!<Close><End of Block>
 <TextBlock 36 w:36 h:1>
 No problems, sir!!<Close><End of Block>
 <TextBlock 37 w:30 h:3>
-Board the ship?
-    Yes
+Board the ship?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 38 w:52 h:3>
 Preparations for the
@@ -203,5 +203,5 @@ Welcome back.<Close><End of Block>
 <TextBlock 46 w:26 h:1>
 Welcome back.<Close><End of Block>
 <TextBlock 47 w:36 h:2>
-    Leave port now
+<Opcode 1 255>    Leave port now
     To the bridge<Close><Close><End of Block>

@@ -5,7 +5,7 @@ order permanently.<Delay 15>
 Someone to fix it?<Delay 15> I wish.<Close><End of Block>
 <TextBlock 2 w:52 h:6>
 A-Ton Weight Scale
-"Who are you gonna weigh?"
+"Who are you gonna weigh?"<Delay 10>
 <Opcode 1 255>    <Perso1>
     <Perso2>
     <Perso3>

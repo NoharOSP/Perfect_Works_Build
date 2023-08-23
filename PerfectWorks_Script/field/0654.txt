@@ -1,6 +1,6 @@
 <TextBlock 1 w:16 h:2>
-<Opcode 1 255>Fei
-"Elly!!"<Close><End of Block>
+Fei
+<Opcode 1 255>"Elly!!"<Close><End of Block>
 <TextBlock 2 w:40 h:2>
 Fei
 "Yeah...I guess so."<Close><End of Block>
@@ -154,7 +154,7 @@ Elly
 that's right...
 I am a coward..."<Close><End of Block>
 <TextBlock 28 w:4 h:1>
-<Opcode 1 255>!?<Opcode 2 20><Close><End of Block>
+!?<Opcode 2 20><Close><End of Block>
 <TextBlock 29 w:34 h:3>
 Citan
 "Fei!

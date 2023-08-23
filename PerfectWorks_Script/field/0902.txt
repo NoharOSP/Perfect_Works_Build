@@ -1,7 +1,7 @@
 <TextBlock 1 w:40 h:4>
 Do you think women
-are weaker than men?
-    I think so
+are weaker than men?<Delay 10>
+<Opcode 1 255>    I think so
     Not really<Close><End of Block>
 <TextBlock 2 w:44 h:2>
 What? Don't you under-
@@ -22,7 +22,7 @@ I am strong...<Close><End of Block>
 <TextBlock 6 w:40 h:3>
 Competitor
 "Hey, kid...<New>
-D'you know my name?"
+D'you know my name?"<Delay 10>
 <Opcode 1 255>    Yes I do
     Nope<Close><End of Block>
 <TextBlock 7 w:34 h:4>
@@ -51,7 +51,7 @@ me strength."<Close><End of Block>
 Big Joe
 "Hey, boy.<New>
 Do you have anyone
-cheering for you?"
+cheering for you?"<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 11 w:38 h:3>

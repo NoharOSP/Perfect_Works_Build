@@ -125,9 +125,9 @@ BP-Exchanger Girl
 <TextBlock 12 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Sorry, my mistake!
+<Opcode 1 255>    Sorry, my mistake!
     Yeah, exchange it!
-<Opcode 1 255>  <=>#00: Anoret Seed
+  <=>#00: Anoret Seed
   <=>CURRENT BP -250<Close><End of Block>
 <TextBlock 13 w:50 h:5>
 BP-Exchanger Girl
@@ -146,9 +146,9 @@ No can do!"<Close><End of Block>
 <TextBlock 16 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Oops, wrong choice!
+<Opcode 1 255>    Oops, wrong choice!
     Yep, I'll trade you!
-<Opcode 1 255>  <=>#01: Bulimy Seed
+  <=>#01: Bulimy Seed
   <=>CURRENT BP -250<Close><End of Block>
 <TextBlock 17 w:56 h:5>
 BP-Exchanger Girl
@@ -167,9 +167,9 @@ I'm afraid it's a no-go!"<Close><End of Block>
 <TextBlock 20 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    No, my error!
+<Opcode 1 255>    No, my error!
     Yes, let's exchange!
-<Opcode 1 255>  <=>#02: Samson's Hair
+  <=>#02: Samson's Hair
   <=>CURRENT BP -800<Close><End of Block>
 <TextBlock 21 w:54 h:5>
 BP-Exchanger Girl
@@ -188,9 +188,9 @@ I can't exchange with you!"<Close><End of Block>
 <TextBlock 24 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    No it isn't, sorry!
+<Opcode 1 255>    No it isn't, sorry!
     Yes, so let's trade!
-<Opcode 1 255>  <=>#03: Anoret Fruit
+  <=>#03: Anoret Fruit
   <=>CURRENT BP -750<Close><End of Block>
 <TextBlock 25 w:56 h:5>
 BP-Exchanger Girl
@@ -209,9 +209,9 @@ No points, no trade!"<Close><End of Block>
 <TextBlock 28 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Oh no, my mistake!
+<Opcode 1 255>    Oh no, my mistake!
     Yes, it's a deal!
-<Opcode 1 255>  <=>#04: Bulimy Fruit
+  <=>#04: Bulimy Fruit
   <=>CURRENT BP -750<Close><End of Block>
 <TextBlock 29 w:54 h:5>
 BP-Exchanger Girl
@@ -230,9 +230,9 @@ but, sorry, no exchange!"<Close><End of Block>
 <TextBlock 32 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Oops, my boo-boo!
+<Opcode 1 255>    Oops, my boo-boo!
     OK, it's a trade!
-<Opcode 1 255>  <=>#05: Lite Armor+1
+  <=>#05: Lite Armor+1
   <=>CURRENT BP -750<Close><End of Block>
 <TextBlock 33 w:56 h:5>
 BP-Exchanger Girl
@@ -251,9 +251,9 @@ you'll have to try later!"<Close><End of Block>
 <TextBlock 36 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    No, changed my mind!
+<Opcode 1 255>    No, changed my mind!
     Yes, let's exchange!
-<Opcode 1 255>  <=>#06: Lite Armor+2
+  <=>#06: Lite Armor+2
   <=>CURRENT BP -1000<Close><End of Block>
 <TextBlock 37 w:58 h:4>
 BP-Exchanger Girl
@@ -285,9 +285,9 @@ BP-Exchanger Girl
 <TextBlock 41 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Sorry, my mistake!
+<Opcode 1 255>    Sorry, my mistake!
     Yeah, exchange it!
-<Opcode 1 255>  <=>#07: Lite Armor+3
+  <=>#07: Lite Armor+3
   <=>CURRENT BP -1250<Close><End of Block>
 <TextBlock 42 w:50 h:5>
 BP-Exchanger Girl
@@ -306,9 +306,9 @@ No can do!"<Close><End of Block>
 <TextBlock 45 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Oops, wrong choice!
+<Opcode 1 255>    Oops, wrong choice!
     Yep, I'll trade you!
-<Opcode 1 255>  <=>#08: Mirror Armor
+  <=>#08: Mirror Armor
   <=>CURRENT BP -1500<Close><End of Block>
 <TextBlock 46 w:56 h:5>
 BP-Exchanger Girl
@@ -327,9 +327,9 @@ I'm afraid it's a no-go!"<Close><End of Block>
 <TextBlock 49 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    No, my error!
+<Opcode 1 255>    No, my error!
     Yes, let's exchange!
-<Opcode 1 255>  <=>#09: Wind Ring
+  <=>#09: Wind Ring
   <=>CURRENT BP -2000<Close><End of Block>
 <TextBlock 50 w:54 h:5>
 BP-Exchanger Girl
@@ -348,9 +348,9 @@ I can't exchange with you!"<Close><End of Block>
 <TextBlock 53 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    No it isn't, sorry!
+<Opcode 1 255>    No it isn't, sorry!
     Yes, so let's trade!
-<Opcode 1 255>  <=>#10: Earth Ring
+  <=>#10: Earth Ring
   <=>CURRENT BP -2000<Close><End of Block>
 <TextBlock 54 w:56 h:5>
 BP-Exchanger Girl
@@ -369,9 +369,9 @@ No points, no trade!"<Close><End of Block>
 <TextBlock 57 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Oh no, my mistake!
+<Opcode 1 255>    Oh no, my mistake!
     Yes, it's a deal!
-<Opcode 1 255>  <=>#11: Fire Ring
+  <=>#11: Fire Ring
   <=>CURRENT BP -2000<Close><End of Block>
 <TextBlock 58 w:54 h:5>
 BP-Exchanger Girl
@@ -390,9 +390,9 @@ but, sorry, no exchange!"<Close><End of Block>
 <TextBlock 61 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Oops, my miss!
+<Opcode 1 255>    Oops, my miss!
     OK, it's a trade!
-<Opcode 1 255>  <=>#12: Water Ring
+  <=>#12: Water Ring
   <=>CURRENT BP -2000<Close><End of Block>
 <TextBlock 62 w:56 h:5>
 BP-Exchanger Girl
@@ -425,9 +425,9 @@ BP-Exchanger Girl
 <TextBlock 66 w:48 h:6>
 BP-Exchanger Girl
 "Is this prize alright?"<Delay 30>
-    No, changed my mind!
+<Opcode 1 255>    No, changed my mind!
     Yes, let's exchange!
-<Opcode 1 255>  <=>#13: Wind Veil Armor
+  <=>#13: Wind Veil Armor
   <=>CURRENT BP -3500<Close><End of Block>
 <TextBlock 67 w:58 h:5>
 BP-Exchanger Girl
@@ -446,9 +446,9 @@ points!<Delay 5> No deal!"<Close><End of Block>
 <TextBlock 70 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Sorry, my mistake!
+<Opcode 1 255>    Sorry, my mistake!
     Yeah, exchange it!
-<Opcode 1 255>  <=>#14: Earth Veil Armor
+  <=>#14: Earth Veil Armor
   <=>CURRENT BP -3500<Close><End of Block>
 <TextBlock 71 w:50 h:5>
 BP-Exchanger Girl
@@ -467,9 +467,9 @@ No can do!"<Close><End of Block>
 <TextBlock 74 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Oops, wrong choice!
+<Opcode 1 255>    Oops, wrong choice!
     Yep, I'll trade you!
-<Opcode 1 255>  <=>#15: Fire Veil Armor
+  <=>#15: Fire Veil Armor
   <=>CURRENT BP -3500<Close><End of Block>
 <TextBlock 75 w:56 h:5>
 BP-Exchanger Girl
@@ -488,9 +488,9 @@ I'm afraid it's a no-go!"<Close><End of Block>
 <TextBlock 78 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    No, my error!
+<Opcode 1 255>    No, my error!
     Yes, let's exchange!
-<Opcode 1 255>  <=>#16: Water Veil Armor
+  <=>#16: Water Veil Armor
   <=>CURRENT BP -3500<Close><End of Block>
 <TextBlock 79 w:54 h:5>
 BP-Exchanger Girl
@@ -509,9 +509,9 @@ I can't exchange with you!"<Close><End of Block>
 <TextBlock 82 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    No it isn't, sorry!
+<Opcode 1 255>    No it isn't, sorry!
     Yes, so let's trade!
-<Opcode 1 255>  <=>#17: ElementAero
+  <=>#17: ElementAero
   <=>CURRENT BP -4500<Close><End of Block>
 <TextBlock 83 w:56 h:5>
 BP-Exchanger Girl
@@ -530,9 +530,9 @@ No points, no trade!"<Close><End of Block>
 <TextBlock 86 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Oh no, my mistake!
+<Opcode 1 255>    Oh no, my mistake!
     Yes, it's a deal!
-<Opcode 1 255>  <=>#18: ElementTerra
+  <=>#18: ElementTerra
   <=>CURRENT BP -4500<Close><End of Block>
 <TextBlock 87 w:54 h:5>
 BP-Exchanger Girl
@@ -563,9 +563,9 @@ BP-Exchanger Girl
 <TextBlock 91 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Oops, my boo-boo!
+<Opcode 1 255>    Oops, my boo-boo!
     OK, it's a trade!
-<Opcode 1 255>  <=>#19: ElementPyro
+  <=>#19: ElementPyro
   <=>CURRENT BP -4500<Close><End of Block>
 <TextBlock 92 w:54 h:5>
 BP-Exchanger Girl
@@ -584,9 +584,9 @@ you'll have to try later!"<Close><End of Block>
 <TextBlock 95 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    No, changed my mind!
+<Opcode 1 255>    No, changed my mind!
     Yes, let's exchange!
-<Opcode 1 255>  <=>#20: ElementHydro
+  <=>#20: ElementHydro
   <=>CURRENT BP -4500<Close><End of Block>
 <TextBlock 96 w:56 h:5>
 BP-Exchanger Girl
@@ -605,9 +605,9 @@ points!<Delay 5> No deal!"<Close><End of Block>
 <TextBlock 99 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Sorry, my mistake!
+<Opcode 1 255>    Sorry, my mistake!
     Yeah, exchange it!
-<Opcode 1 255>  <=>#21: EtherStoneLg
+  <=>#21: EtherStoneLg
   <=>CURRENT BP -7500<Close><End of Block>
 <TextBlock 100 w:50 h:5>
 BP-Exchanger Girl
@@ -626,9 +626,9 @@ No can do!"<Close><End of Block>
 <TextBlock 103 w:52 h:6>
 BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
-    Oops, wrong choice!
+<Opcode 1 255>    Oops, wrong choice!
     Yep, I'll trade you!
-<Opcode 1 255>  <=>#22: AntiEthRockL
+  <=>#22: AntiEthRockL
   <=>CURRENT BP -8000<Close><End of Block>
 <TextBlock 104 w:56 h:5>
 BP-Exchanger Girl
@@ -661,9 +661,9 @@ BP-Exchanger Girl
 <TextBlock 108 w:54 h:7>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    No sorry, my mistake!
+<Opcode 1 255>    No sorry, my mistake!
     Yes, trade me for it!
-<Opcode 1 255>  <=>#00: M Disk
+  <=>#00: M Disk
   <=>CURRENT BP : -3500
   <=>TOTAL   BP : -4000<Close><End of Block>
 <TextBlock 109 w:56 h:6>
@@ -699,9 +699,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 114 w:54 h:6>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    No thanks, I don't!
+<Opcode 1 255>    No thanks, I don't!
     Yes, let's trade!
-<Opcode 1 255>  <=>#01: Power Ring S
+  <=>#01: Power Ring S
   <=>TOTAL BP : 2000<Close><End of Block>
 <TextBlock 115 w:56 h:6>
 BP-Exchanger Girl
@@ -730,9 +730,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 119 w:54 h:6>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    Sorry, no deal!
+<Opcode 1 255>    Sorry, no deal!
     I want it, so trade me!
-<Opcode 1 255>  <=>#02: Stamina Ring S
+  <=>#02: Stamina Ring S
   <=>TOTAL BP : 3000<Close><End of Block>
 <TextBlock 120 w:56 h:6>
 BP-Exchanger Girl
@@ -761,9 +761,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 124 w:54 h:6>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    No thank you, not now!
+<Opcode 1 255>    No thank you, not now!
     OK, it's a deal!
-<Opcode 1 255>  <=>#03: Speed Ring S
+  <=>#03: Speed Ring S
   <=>TOTAL BP : 4500<Close><End of Block>
 <TextBlock 125 w:56 h:6>
 BP-Exchanger Girl
@@ -792,9 +792,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 129 w:54 h:6>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    Thanks, but no thanks!
+<Opcode 1 255>    Thanks, but no thanks!
     Yes please!
-<Opcode 1 255>  <=>#04: Gallant Belt
+  <=>#04: Gallant Belt
   <=>TOTAL BP : 6000<Close><End of Block>
 <TextBlock 130 w:56 h:6>
 BP-Exchanger Girl
@@ -823,9 +823,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 134 w:54 h:7>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    Not really, no!
+<Opcode 1 255>    Not really, no!
     Yeah, I want it bad!
-<Opcode 1 255>  <=>#05: Fei Jr. Doll
+  <=>#05: Fei Jr. Doll
   <=>CURRENT BP : - 500
   <=>TOTAL   BP : -3000<Close><End of Block>
 <TextBlock 135 w:56 h:6>
@@ -861,9 +861,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 140 w:54 h:7>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    No I don't want it!
+<Opcode 1 255>    No I don't want it!
     Yes I'll exchange you!
-<Opcode 1 255>  <=>#06: Bart Jr. Doll
+  <=>#06: Bart Jr. Doll
   <=>CURRENT BP : - 500
   <=>TOTAL   BP : -3000<Close><End of Block>
 <TextBlock 141 w:56 h:6>
@@ -913,9 +913,9 @@ BP-Exchanger Girl
 <TextBlock 147 w:56 h:7>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    On second thoughts, no!
+<Opcode 1 255>    On second thoughts, no!
     Yes I'll trade with you!
-<Opcode 1 255>  <=>#07: Billy Jr. Doll
+  <=>#07: Billy Jr. Doll
   <=>CURRENT BP : - 500
   <=>TOTAL   BP : -3000<Close><End of Block>
 <TextBlock 148 w:56 h:6>
@@ -951,9 +951,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 153 w:54 h:7>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    Oops sorry, my miss!
+<Opcode 1 255>    Oops sorry, my miss!
     Alright, it's a deal!
-<Opcode 1 255>  <=>#08: Body Guard
+  <=>#08: Body Guard
   <=>CURRENT BP : - 500
   <=>TOTAL   BP : -4000<Close><End of Block>
 <TextBlock 154 w:56 h:6>
@@ -989,9 +989,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 159 w:54 h:7>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    No sorry, my mistake!
+<Opcode 1 255>    No sorry, my mistake!
     Yes, trade me for it!
-<Opcode 1 255>  <=>#09: Mind Guard
+  <=>#09: Mind Guard
   <=>CURRENT BP : - 750
   <=>TOTAL   BP : -4500<Close><End of Block>
 <TextBlock 160 w:56 h:6>
@@ -1027,9 +1027,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 165 w:54 h:6>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    No thanks, I don't!
+<Opcode 1 255>    No thanks, I don't!
     Yes, let's trade!
-<Opcode 1 255>  <=>#10: Ether Doubler
+  <=>#10: Ether Doubler
   <=>TOTAL BP : 8000<Close><End of Block>
 <TextBlock 166 w:56 h:6>
 BP-Exchanger Girl
@@ -1058,9 +1058,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 170 w:54 h:6>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    Sorry, no deal!
+<Opcode 1 255>    Sorry, no deal!
     I want it, so trade me!
-<Opcode 1 255>  <=>#11: Ether Guard
+  <=>#11: Ether Guard
   <=>TOTAL BP : 8500<Close><End of Block>
 <TextBlock 171 w:56 h:6>
 BP-Exchanger Girl
@@ -1089,9 +1089,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 175 w:54 h:6>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    No thank you, not now!
+<Opcode 1 255>    No thank you, not now!
     OK, it's a deal!
-<Opcode 1 255>  <=>#12: Life Stone
+  <=>#12: Life Stone
   <=>TOTAL BP : 9000<Close><End of Block>
 <TextBlock 176 w:56 h:6>
 BP-Exchanger Girl
@@ -1133,9 +1133,9 @@ BP-Exchanger Girl
 <TextBlock 181 w:54 h:7>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    Thanks, but no thanks!
+<Opcode 1 255>    Thanks, but no thanks!
     Yes please!
-<Opcode 1 255>  <=>#13: S Charger
+  <=>#13: S Charger
   <=>CURRENT BP : - 2500
   <=>TOTAL   BP : -10000<Close><End of Block>
 <TextBlock 182 w:56 h:6>
@@ -1171,9 +1171,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 187 w:54 h:7>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    Not really, no!
+<Opcode 1 255>    Not really, no!
     Yeah, I want to trade!
-<Opcode 1 255>  <=>#14: X Charger
+  <=>#14: X Charger
   <=>CURRENT BP : - 3000
   <=>TOTAL   BP : -12500<Close><End of Block>
 <TextBlock 188 w:56 h:6>
@@ -1209,9 +1209,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 193 w:54 h:7>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    No I don't want it!
+<Opcode 1 255>    No I don't want it!
     Yes I'll exchange you!
-<Opcode 1 255>  <=>#15: GNRS50
+  <=>#15: GNRS50
   <=>CURRENT BP : - 5000
   <=>TOTAL   BP : -15000<Close><End of Block>
 <TextBlock 194 w:56 h:6>
@@ -1247,9 +1247,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 199 w:56 h:7>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    On second thoughts, no!
+<Opcode 1 255>    On second thoughts, no!
     Yes I'll trade with you!
-<Opcode 1 255>  <=>#16: Deathblower3
+  <=>#16: Deathblower3
   <=>CURRENT BP : - 7500
   <=>TOTAL   BP : -18000<Close><End of Block>
 <TextBlock 200 w:56 h:6>
@@ -1285,9 +1285,9 @@ cannot trade this with you!"<Close><End of Block>
 <TextBlock 205 w:54 h:7>
 BP-Exchanger Girl
 "You want the prize below?"<Delay 30>
-    Sorry, just looking!
+<Opcode 1 255>    Sorry, just looking!
     Alright, it's a deal!
-<Opcode 1 255>  <=>#17: Speed Shoes
+  <=>#17: Speed Shoes
   <=>CURRENT BP : - 4500
   <=>TOTAL   BP : -30000<Close><End of Block>
 <TextBlock 206 w:56 h:6>
@@ -1466,9 +1466,9 @@ cannot trade this with you!"<Close><End of Block>
 <=>Special Bonus    : +000 G<Close><End of Block>
 <TextBlock 247 w:56 h:4>
 "What would you like to do
-about the in-battle music ?"
-    The usual please!
-    It's O.K. as is.<Close><End of Block>
+about the in-battle music?"<Delay 10>
+<Opcode 1 255>    The usual, please!
+    It's okay as is<Close><End of Block>
 <TextBlock 248 w:54 h:4>
 Receptionist
 "I have confirmed the entry
@@ -1791,13 +1791,13 @@ Receptionist
     <Weltall><Close><End of Block>
 <TextBlock 287 w:56 h:5>
 Receptionist
-"Choose pilot's Gear level:"
+"Choose pilot's Gear level:"<Delay 20>
 <Opcode 1 255>    GEAR-LEVEL-0
     GEAR-LEVEL-1
     GEAR-LEVEL-2<Close><End of Block>
 <TextBlock 288 w:56 h:4>
 Receptionist
-"Choose pilot's Gear level:"
+"Choose pilot's Gear level:"<Delay 20>
 <Opcode 1 255>    GEAR-LEVEL-0
     GEAR-LEVEL-1<Close><End of Block>
 <TextBlock 289 w:48 h:3>

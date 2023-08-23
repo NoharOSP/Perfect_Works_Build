@@ -6,8 +6,8 @@ skinful termites'?<Close><End of Block>
 Zephyr will eat
 you up...!<Close><End of Block>
 <TextBlock 3 w:50 h:3>
-Hey, read me this book...
-    Alright!
+Hey, read me this book...<Delay 10>
+<Opcode 1 255>    Alright!
     Maybe next time!<Close><End of Block>
 <TextBlock 4 w:13 h:1>
 Ya~y!!<Close><End of Block>
@@ -78,8 +78,8 @@ everyday...<Close><End of Block>
 Don't listen!!<Close><End of Block>
 <TextBlock 23 w:46 h:4>
 This bed's so fluffy!! 
-Ya wanna fluff it?
-    I wanna fluff
+Ya wanna fluff it?<Delay 10>
+<Opcode 1 255>    I wanna fluff
     No thanks<Close><End of Block>
 <TextBlock 24 w:18 h:1>
 Go ahead.<Close><End of Block>

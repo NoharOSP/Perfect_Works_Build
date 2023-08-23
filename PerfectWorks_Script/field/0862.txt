@@ -1,7 +1,7 @@
-<TextBlock 1 w:36 h:4>
+<TextBlock 1 w:38 h:4>
  
  Welcome to...
- 'Whose Balloons' 
+ 'Whose Balloons?'
                <Close><End of Block>
 <TextBlock 2 w:50 h:3>
 Here are the rules.<New>
@@ -18,21 +18,22 @@ as possible within the
 time limit.<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Next I'll explain 
-the 'Bingo' bonus.
-None of the 16 'Bingo'
-panels are lit now.<New>
+the 'Bingo' bonus.<New>
+None of the sixteen
+'Bingo' panels are
+lit now.<New>
 Whenever you return a
-balloon to a child a
+balloon to a child, a
 panel will either light
 up or go out.<New>
 When you get four lit
 panels in a row, it's
 a 'Bingo'!<New>
 Each 'Bingo' returns
-5 times the prizes!<Close><End of Block>
+five times the prizes!<Close><End of Block>
 <TextBlock 4 w:30 h:4>
-Choose a level.
-    Easy
+Choose a level.<Delay 10>
+<Opcode 1 255>    Easy
     Hard
     Explanation<Close><End of Block>
 <TextBlock 5 w:32 h:3>

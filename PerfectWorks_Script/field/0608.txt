@@ -37,32 +37,32 @@ I guess I'll just go and
 sweep Alice away into the
 sunset!"<Close><End of Block>
 <TextBlock 6 w:48 h:3>
-"Timothy is a bald-
+<Opcode 1 255>'Timothy is a bald-
 headed fool! And his dad
-is bald and stupid too!"<Close><End of Block>
+is bald and stupid too!'<Close><End of Block>
 <TextBlock 7 w:54 h:4>
-"Mountain path ahead!
+<Opcode 1 255>Mountain path ahead!
 Beware of the HP-
 gobbling Hobgobs!!<New>
 Those wishing to see the
 doctor on the mountain top
 should proceed with courage
-and conviction."<Close><End of Block>
+and conviction.<Close><End of Block>
 <TextBlock 8 w:32 h:2>
-"Alice and Fei
-are in looove!!"<Close><End of Block>
+<Opcode 1 255>'Alice and Fei
+are in looove!!'<Close><End of Block>
 <TextBlock 9 w:36 h:3>
-"From all the cool
+<Opcode 1 255>From all the cool
 people of Lahan...
-  buon giorno!"<Close><End of Block>
+  buon giorno!<Close><End of Block>
 <TextBlock 10 w:42 h:3>
-"- The Laughing Fox  
+<Opcode 1 255> - The Laughing Fox  
    & Piglet Tavern - 
-   Drunks welcome!  "<Close><End of Block>
+   Drunks welcome!  <Close><End of Block>
 <TextBlock 11 w:58 h:3>
-" - Lahan's General Store - 
+<Opcode 1 255>  - Lahan's General Store - 
     You want it?
-    We've got it...(maybe)! "<Close><End of Block>
+    We've got it...(maybe)!  <Close><End of Block>
 <TextBlock 12 w:50 h:3>
 Received a chill from the
 depths of the cistern!
@@ -144,7 +144,7 @@ Alice's happiness!"<Close><End of Block>
 Dan
 "So, Fei, you up to it?<New>
 C'mon, let's do it!"<Delay 20>
-    Let's do it!!
+<Opcode 1 255>    Let's do it!!
     That's crazy <Close><End of Block>
 <TextBlock 32 w:36 h:3>
 Dan
@@ -183,8 +183,8 @@ well endowed too!<Delay 20>
 Heh heh heh.)"<Close><End of Block>
 <TextBlock 37 w:44 h:4>
 Dan
-"So c'mon! Go for it!"
-    Let's do it!!
+"So c'mon! Go for it!"<Delay 20>
+<Opcode 1 255>    Let's do it!!
     That's crazy <Close><End of Block>
 <TextBlock 38 w:48 h:4>
 Dan
@@ -268,7 +268,7 @@ travel the world and live
 an ever-changing life...<Close><End of Block>
 <TextBlock 51 w:56 h:3>
 Heh... It's weird, isn't it?<Delay 12>
-    Yeah, that is weird!
+<Opcode 1 255>    Yeah, that is weird!
     No, of course not! <Close><End of Block>
 <TextBlock 52 w:46 h:3>
 Ooooooh! You think so?<Delay 20>

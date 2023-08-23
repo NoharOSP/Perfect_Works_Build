@@ -1,6 +1,6 @@
 <TextBlock 1 w:52 h:5>
 Which mission will you do?<Delay 20>
-    Generator 1
+<Opcode 1 255>    Generator 1
     Generator 2
     Generator 3
     Generator 4 <Close><End of Block>
@@ -27,22 +27,22 @@ generator.<Close><End of Block>
 <TextBlock 6 w:36 h:4>
 Want to check your
 equipment?<Delay 20>
-    Yes
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 7 w:36 h:4>
 Want to check your
 equipment?<Delay 20>
-    Yes
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 8 w:36 h:4>
 Want to check your
 equipment?<Delay 20>
-    Yes
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 9 w:36 h:4>
 Want to check your
 equipment?<Delay 20>
-    Yes
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 10 w:44 h:3>
 Fei

@@ -255,16 +255,17 @@ were placed."<Close><End of Block>
 Bart
 "Why don't we just
 check out both?"<Close><End of Block>
-<TextBlock 50 w:52 h:4>
+<TextBlock 50 w:50 h:4>
 Sigurd
 "That could be
 complicated.<New>
-I doubt they expected the
-second Gate to be destroy-
-ed. So I'm sure they'll
-get serious next time.<New>
-We'd better plan it
-carefully, but quickly."<Close><End of Block>
+I doubt they were
+expecting the second
+Gate to be destroyed.<New>
+So I'm sure they'll
+get serious next time.<Delay 10>
+We should plan carefully,
+but quickly."<Close><End of Block>
 <TextBlock 51 w:42 h:3>
 Citan
 "In any case,<New>

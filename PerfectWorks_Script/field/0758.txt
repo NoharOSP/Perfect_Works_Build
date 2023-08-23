@@ -21,14 +21,14 @@ This is Bart's police.<Close><End of Block>
 Damn it!! Geburah!!<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 We'll leave first thing
-tomorrow. Are you ready?
+tomorrow. Are you ready?<Delay 10>
     <Opcode 1 255>Wait
     Alright<Close><End of Block>
 <TextBlock 7 w:34 h:2>
 Let me know when 
 you're ready.<Close><End of Block>
 <TextBlock 8 w:48 h:3>
-Did you forget anything?
+Did you forget anything?<Delay 10>
     <Opcode 1 255>Wait a sec
     I'm okay<Close><End of Block>
 <TextBlock 9 w:34 h:2>

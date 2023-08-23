@@ -27,7 +27,7 @@ Anyway, let's ask
 Margie to get rid
 of it."<Close><End of Block>
 <TextBlock 7 w:52 h:3>
-Get on the transport ship?
+Get on the transport ship?<Delay 10>
 <Opcode 1 255>    Yes
     Wait a minute<Close><End of Block>
 <TextBlock 8 w:42 h:3>

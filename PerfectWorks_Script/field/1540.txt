@@ -128,7 +128,7 @@ dwellers know about the
 Nisan tragedy during
 the great war?<New>
 Did you hear anything
-from the higher ups?
+from the higher ups?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 17 w:50 h:4>

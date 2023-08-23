@@ -1,6 +1,6 @@
 <TextBlock 1 w:50 h:8>
-<Opcode 1 255>Where are you going?
-    4F (Bridge)
+Where are you going?
+<Opcode 1 255>    4F (Bridge)
     3F (Beer Hall)
     2F (Sick Bay)
     1F (Deck)

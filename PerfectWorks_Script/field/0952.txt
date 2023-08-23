@@ -8,7 +8,7 @@ flying around above here.<New>
 By the way, I found these
 things during my travels.
 See anything you like?"<New>
-    Gear parts
+<Opcode 1 255>    Gear parts
     Character items
     Can't trust you
     Ignore<Close><End of Block>

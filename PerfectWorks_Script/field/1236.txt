@@ -279,16 +279,16 @@ Hey let's take it
 easy today.<Close><End of Block>
 <TextBlock 66 w:42 h:4>
 You're new!
-Want me to teach you?
-    Yeah
+Want me to teach you?<Delay 10>
+<Opcode 1 255>    Yeah
     No thanks<Close><End of Block>
 <TextBlock 67 w:20 h:3>
-<Delay 10>...<Delay 10>Really?
-    Yes
+<Delay 10>...<Delay 10>Really?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 68 w:18 h:3>
-<Delay 10>...<Delay 10>Do it?
-    Yes
+<Delay 10>...<Delay 10>Do it?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 69 w:30 h:1>
 Hmmph, beat it.<Close><End of Block>

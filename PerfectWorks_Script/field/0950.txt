@@ -9,7 +9,7 @@ You're very powerful!<New>
 I've only got the
 same items as before.
 Anything you'd like?"<New>
-    Gear parts
+<Opcode 1 255>    Gear parts
     Character items
     Can't trust you
     Ignore<Close><End of Block>

@@ -61,19 +61,19 @@ talking to the stone.<Delay 20>
 It'll be glad to give
 three of you a ride.<Close><End of Block>
 <TextBlock 8 w:42 h:3>
-Do you want to go up?
+Do you want to go up?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 9 w:46 h:3>
-Do you want to go down?
+Do you want to go down?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 10 w:46 h:3>
-Do you want to go down?
+Do you want to go down?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 11 w:42 h:3>
-Do you want to go up?
+Do you want to go up?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 12 w:54 h:4>
@@ -102,7 +102,7 @@ you to eat.<Delay 20> So look
 forward to it.<Close><End of Block>
 <TextBlock 15 w:48 h:4>
 Hello, what can I do for
-you?
+you?<Delay 10>
 <Opcode 1 255>    I want thread!
     Hear a story<Close><End of Block>
 <TextBlock 16 w:46 h:3>
@@ -116,7 +116,7 @@ Just relax, have fun
 fishing like that sage
 who disappeared.<Close><End of Block>
 <TextBlock 17 w:40 h:3>
-Do you like fishing?
+Do you like fishing?<Delay 10>
 <Opcode 1 255>    Yes
     Not really...<Close><End of Block>
 <TextBlock 18 w:50 h:4>

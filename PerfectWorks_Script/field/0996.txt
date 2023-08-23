@@ -97,8 +97,8 @@ much further in from there.
 <TextBlock 24 w:54 h:4>
 Big Joe
 "Did you change your mind?"<Delay 15>
-    No way!
-    Well, alright.<Close><End of Block>
+<Opcode 1 255>    No way!
+    Well, alright<Close><End of Block>
 <TextBlock 25 w:56 h:4>
 Big Joe
 "<Delay 5>...<Delay 5>C'mon, stop the joshing.
@@ -117,7 +117,7 @@ around, sucker! Adios!<Opcode 2 60><Close><End of Block>
 <TextBlock 28 w:50 h:4>
 Big Joe
 "Only 5000G! Cheap, huh?"<Delay 15>
-    No deal!
+<Opcode 1 255>    No deal!
     It's a deal!<Close><End of Block>
 <TextBlock 29 w:54 h:3>
 Big Joe
@@ -386,8 +386,8 @@ Hammer
 Where are you going?<Delay 15>
 Hey, are you listening?"<Opcode 2 90><Close><End of Block>
 <TextBlock 74 w:30 h:2>
-<Opcode 1 255>Fei
-"Whoa! Hey<Delay 5>...!"<Opcode 2 30><Close><End of Block>
+Fei
+<Opcode 1 255>"Whoa! Hey<Delay 5>...!"<Opcode 2 30><Close><End of Block>
 <TextBlock 75 w:36 h:4>
 Weapon Lady
 "Whoooo iiis iiit?<Delay 15>
@@ -470,18 +470,18 @@ just pretend that we haven't
 seen him, okay?"<Close><End of Block>
 <TextBlock 90 w:50 h:5>
 Imperial City Guard
-<Opcode 1 255>"Hey, that guy! He's the
+<Opcode 1 3>"Hey, that guy! He's the
 ex-Champ who broke into
 the arena with his Gear
 and is now wanted!"<Close><End of Block>
 <TextBlock 91 w:38 h:3>
 Imperial City Guard
-<Opcode 1 255>"Gah!
+"Gah!
 Are you stupid!?"<Close><End of Block>
 <TextBlock 92 w:50 h:4>
 Fei
 "Are we busted?<Delay 5> Damn!"<Delay 15>
-    Run away for now
+<Opcode 1 255>    Run away for now
     Try to break through!<Close><End of Block>
 <TextBlock 93 w:56 h:4>
 Fei
@@ -511,7 +511,7 @@ Imperial City Guard
 beat the Champion!!!"<Opcode 2 30><Close><End of Block>
 <TextBlock 99 w:42 h:3>
 Imperial City Guard
-<Opcode 1 255>"Hahaa!
+"Hahaa!
 I'll get a medal!"<Opcode 2 30><Close><End of Block>
 <TextBlock 100 w:30 h:3>
 Fei
@@ -581,8 +581,8 @@ right?<Delay 15> We had better
 make haste!"<Close><End of Block>
 <TextBlock 111 w:54 h:4>
 Fei
-"Something interesting...?"
-    No thanks, I'll pass
+"Something interesting...?"<Delay 10>
+<Opcode 1 255>    No thanks, I'll pass
     I want to take a look!<Close><End of Block>
 <TextBlock 112 w:44 h:2>
 Big Joe
@@ -609,8 +609,8 @@ It's a fair trade, is it
 not, friend?"<Close><End of Block>
 <TextBlock 114 w:52 h:4>
 Big Joe
-"It's a bargain at 5000G!"
-    No deal!
+"It's a bargain at 5000G!"<Delay 10>
+<Opcode 1 255>    No deal!
     It's a deal!<Close><End of Block>
 <TextBlock 115 w:48 h:4>
 Big Joe
@@ -744,6 +744,6 @@ Citan
 to D Block for the
 time being?"<Close><End of Block>
 <TextBlock 139 w:54 h:3>
-        - WILDCAT -
+<Opcode 1 255>        - WILDCAT -
   The official bar of the
   Imperial Capital Noatun<Close><Close><End of Block>

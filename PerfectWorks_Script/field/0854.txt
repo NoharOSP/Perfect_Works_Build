@@ -23,8 +23,8 @@ They aren't coming back.<Close><End of Block>
 <TextBlock 6 w:10 h:1>
 Woof <Opcode 2 30><Close><End of Block>
 <TextBlock 7 w:46 h:3>
-Will this war ever end?
-    It will
+Will this war ever end?<Delay 10>
+<Opcode 1 255>    It will
     No, it won't<Close><End of Block>
 <TextBlock 8 w:28 h:3>
 Of course. 
@@ -34,8 +34,8 @@ end sometime.<Close><End of Block>
 Oh...
 He's not coming back.<Close><End of Block>
 <TextBlock 10 w:54 h:3>
-Will my happiness ever end?
-    It will
+Will my happiness ever end?<Delay 10>
+<Opcode 1 255>    It will
     No, it won't<Close><End of Block>
 <TextBlock 11 w:38 h:1>
 No, I won't let it.<Close><End of Block>
@@ -47,8 +47,8 @@ I get nervous.<Close><End of Block>
 Finally I'm back 
 with my girl.<Close><End of Block>
 <TextBlock 14 w:46 h:3>
-You say the dog talked?
-    Yes
+You say the dog talked?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 15 w:40 h:1>
 Wow, that's amazing.<Close><End of Block>

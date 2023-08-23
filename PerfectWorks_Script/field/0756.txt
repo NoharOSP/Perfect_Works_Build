@@ -76,7 +76,7 @@ the detail work<Delay 5>...<Close><End of Block>
 <TextBlock 16 w:42 h:4>
 Hey, Fei!! Don't you
 think this is great?<Delay 10>
-    It's pretty cool!
+<Opcode 1 255>    It's pretty cool!
     No big deal<Close><End of Block>
 <TextBlock 17 w:58 h:4>
 It is pretty cool, isn't it?<Delay 10>
@@ -182,7 +182,7 @@ to charge them!)<Close><End of Block>
 If you want anything
 just let me know.<Close><End of Block>
 <TextBlock 35 w:34 h:5>
-What do you want?
+What do you want?<Delay 10>
 <Opcode 1 255>    Items
     Accessories
     Gear parts
@@ -229,7 +229,7 @@ Dear Bart said he made a
 <TextBlock 45 w:48 h:4>
 Be friends with Bart.
 He's such a sweet child.<Delay 10>
-    Ahh, sure
+<Opcode 1 255>    Ahh, sure
     Not interested<Close><End of Block>
 <TextBlock 46 w:18 h:2>
 Fei

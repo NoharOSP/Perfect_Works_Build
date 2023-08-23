@@ -62,8 +62,8 @@ Later!!<Opcode 2 20><Close><End of Block>
 Hey,<Delay 10> you didn't
 find me, that's no fun!<Close><End of Block>
 <TextBlock 13 w:40 h:3>
-You want some candy?
-    Yah, gimme some
+You want some candy?<Delay 10>
+<Opcode 1 255>    Yah, gimme some
     Nah<Close><End of Block>
 <TextBlock 14 w:46 h:4>
 Ya~ay!<Delay 10>
@@ -82,8 +82,8 @@ tell my brother!<Close><End of Block>
 Ah, you scared me.<Delay 10>
 I thought it was
 my brother...<New>
-It's a secret, okay?
-    Okay
+It's a secret, okay?<Delay 10>
+<Opcode 1 255>    Okay
     I don't know<Close><End of Block>
 <TextBlock 18 w:48 h:4>
 Ya~ay! Thanks.<Delay 10> 
@@ -97,8 +97,8 @@ picture book!<Close><End of Block>
 You're a meanie! 
 Go away!<Close><End of Block>
 <TextBlock 21 w:36 h:3>
-There's a cord...
-    Pull it!!
+There's a cord...<Delay 10>
+<Opcode 1 255>    Pull it!!
     Don't<Close><End of Block>
 <TextBlock 22 w:46 h:4>
 Sigurd

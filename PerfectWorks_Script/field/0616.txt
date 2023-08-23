@@ -217,7 +217,7 @@ I've started to study up
 on them recently...<Close><End of Block>
 <TextBlock 24 w:60 h:6>
 How 'bout it then?
-Wanna hear what I have to say?
+Wanna hear what I have to say?<Delay 10>
 <Opcode 1 255>    Explain Abilities
     Explain Deathblow Skills
     Explain Skill Levels
@@ -356,7 +356,7 @@ then don't hesitate to ask me.
 No one knows better than I do!<Close><End of Block>
 <TextBlock 40 w:40 h:4>
 How about it, then?
-Want to hear me out?
+Want to hear me out?<Delay 10>
 <Opcode 1 255>    Yeah, okay!
     No, not really!<Close><End of Block>
 <TextBlock 41 w:40 h:4>

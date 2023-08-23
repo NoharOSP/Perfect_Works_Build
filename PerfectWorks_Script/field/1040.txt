@@ -21,7 +21,7 @@ you could find elsewhere,
 but can't find here?<New>
 Yeah, yeah?
 Don't you think so, bro?"<Delay 20>
-    ...No, not really
+<Opcode 1 255>    ...No, not really
     Come to think of it...<Close><End of Block>
 <TextBlock 6 w:32 h:4>
 Hammer
@@ -36,7 +36,7 @@ forget the weapon shops..."<Close><End of Block>
 <TextBlock 8 w:48 h:4>
 Hammer
 "Ya need anything, bro?"<Delay 15>
-    Hammer's items
+<Opcode 1 255>    Hammer's items
     Hammer's accessories<Close><End of Block>
 <TextBlock 9 w:44 h:3>
 Hammer
@@ -113,8 +113,8 @@ You have that look in your
 eyes as if you're looking
 for something, right?<New>
 I knew it, bro! You're
-looking to buy some items.
-    Not now
+looking to buy some items.<Delay 10>
+<Opcode 1 255>    Not now
     Whatcha got?<Close><End of Block>
 <TextBlock 19 w:52 h:4>
 Hammer
@@ -129,7 +129,7 @@ as a hawk's, heh!"<Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Hammer
 "So whatcha need, bro?"<Delay 15>
-    Hammer's items
+<Opcode 1 255>    Hammer's items
     Hammer's accessories<Close><End of Block>
 <TextBlock 22 w:44 h:3>
 Hammer

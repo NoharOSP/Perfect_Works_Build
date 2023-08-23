@@ -674,7 +674,7 @@ Generator 4
    two White Knights<Close><End of Block>
 <TextBlock 114 w:50 h:4>
 Citan
-"Change the assignments?"
+"Change the assignments?"<Delay 10>
 <Opcode 1 255>   No, this is fine
    Yes, start again<Close><End of Block>
 <TextBlock 115 w:40 h:11>
@@ -727,7 +727,7 @@ Generator 4
    two White Knights<Close><End of Block>
 <TextBlock 123 w:50 h:4>
 Citan
-"Change the assignments?"
+"Change the assignments?"<Delay 10>
 <Opcode 1 255>   No, this is fine
    Yes, start again<Close><End of Block>
 <TextBlock 124 w:44 h:4>

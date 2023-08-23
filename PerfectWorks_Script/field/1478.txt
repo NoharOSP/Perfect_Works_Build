@@ -1,6 +1,6 @@
 <TextBlock 1 w:54 h:4>
 This store is about to be
-closed.<Delay 20> Gears aren't
+closed down.<Delay 20> Gears aren't
 needed in this town except
 the Queen's troops...<New>
 But please take a look.<Delay 20>

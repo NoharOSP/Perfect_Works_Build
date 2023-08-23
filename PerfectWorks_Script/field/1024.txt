@@ -530,7 +530,7 @@ items, as follows<Delay 5>..."<Delay 30>
 Informer
 "Also, there are the
 following Rare Items<Delay 5>..."<Delay 30>
-  <=>Hob-Meat  : 200G
+<Opcode 1 255>  <=>Hob-Meat  : 200G
   <=>Hob-Steak : 450G
   <=>Ivory     :2000G<New>
 Informer

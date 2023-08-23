@@ -4,7 +4,7 @@ Big Joe
 Pretty good, huh?"<Close><End of Block>
 <TextBlock 2 w:52 h:4>
 It's Joe's shop, so of 
-course it's all Joe brand.
+course it's all Joe brand.<Delay 10>
      <Opcode 1 255>Items
      Gear parts<Close><End of Block>
 <TextBlock 3 w:46 h:3>

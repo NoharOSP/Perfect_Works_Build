@@ -16,7 +16,7 @@ Fei
 By the time you return,
 I'll reset it."<Close><End of Block>
 <TextBlock 6 w:26 h:2>
-    Switch on
+<Opcode 1 255>    Switch on
     Forget it<Close><End of Block>
 <TextBlock 7 w:50 h:3>
 Damn, why isn't it
@@ -58,17 +58,17 @@ go down to the Gear dock!<New>
 How that supply train
 shakes! Just thinking about
 it makes me<Delay 40>...<Delay 30>
-...ulp!<Close><End of Block>
+...uurrgh!<Close><End of Block>
 <TextBlock 15 w:54 h:3>
 Hey, I'll give you that
 stuff over there if you
 don't tell anyone I'm here.<Close><End of Block>
-<TextBlock 16 w:38 h:1>
-"Nothing useful..."<Close><End of Block>
-<TextBlock 17 w:36 h:1>
-"Wow! Hey this..."<Close><End of Block>
-<TextBlock 18 w:18 h:1>
-"Darn..."<Close><End of Block>
+<TextBlock 16 w:34 h:1>
+Nothing useful...<Close><End of Block>
+<TextBlock 17 w:26 h:1>
+Hey, wow...!<Close><End of Block>
+<TextBlock 18 w:14 h:1>
+Darn...<Close><End of Block>
 <TextBlock 19 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

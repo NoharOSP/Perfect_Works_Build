@@ -151,8 +151,8 @@ Shakhan
 Good luck tomorrow.<Close><End of Block>
 <TextBlock 23 w:48 h:4>
 This is the Tournament
-Registration Booth.
-    Enter the Tournament
+Registration Booth.<Delay 10>
+<Opcode 1 255>    Enter the Tournament
     Don't enter<Close><End of Block>
 <TextBlock 24 w:40 h:1>
 Please sign in here.<Close><End of Block>
@@ -218,12 +218,12 @@ Squire, right?<Close><End of Block>
 You're the Beloved
 Slacker, right?<Close><End of Block>
 <TextBlock 44 w:26 h:4>
-   ...Boxer
+<Opcode 1 255>   ...Boxer
    ...Youth
    ...Squire
    ...Slacker<Close><End of Block>
 <TextBlock 45 w:42 h:4>
-    Dragon-Slaying...
+<Opcode 1 255>    Dragon-Slaying...
     Ponytailed...
     Wandering...
     Beloved...<Close><End of Block>

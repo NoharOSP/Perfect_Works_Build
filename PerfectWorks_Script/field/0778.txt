@@ -124,8 +124,8 @@ what the Gate is
 with my own eyes."<Close><End of Block>
 <TextBlock 25 w:36 h:4>
 Elly
-"Let me come too?"
-    Okay
+"Let me come too?"<Delay 10>
+<Opcode 1 255>    Okay
     Sorry!<Close><End of Block>
 <TextBlock 26 w:40 h:4>
 Citan
@@ -137,8 +137,8 @@ I promise not to get
 in the way."<Close><End of Block>
 <TextBlock 27 w:38 h:4>
 Citan
-"Exchange with me?"
-    Sure
+"Exchange with me?"<Delay 10>
+<Opcode 1 255>    Sure
     No way<Close><End of Block>
 <TextBlock 28 w:52 h:3>
 Rico
@@ -150,18 +150,18 @@ should calm down a little.<New>
 Everything'll be normal."<Close><End of Block>
 <TextBlock 29 w:46 h:4>
 Rico
-"I'm coming too, okay?"
-    Great!
+"I'm coming too, okay?"<Delay 10>
+<Opcode 1 255>    Great!
     Well...<Close><End of Block>
 <TextBlock 30 w:36 h:4>
 Billy
 "The Church was
 managing two of
 the three Gates!"<Close><End of Block>
-<TextBlock 31 w:34 h:4>
+<TextBlock 31 w:40 h:4>
 Billy
-"Take me along too?"
-    Alright!
+"Take me along too?"<Delay 10>
+<Opcode 1 255>    Alright!
     Sorry, but...<Close><End of Block>
 <TextBlock 32 w:42 h:4>
 Maria
@@ -170,8 +170,8 @@ determine the nature
 of these Gates."<Close><End of Block>
 <TextBlock 33 w:48 h:4>
 Maria
-"Do you want to change?"
-    Please
+"Do you want to change?"<Delay 10>
+<Opcode 1 255>    Please
     That's okay<Close><End of Block>
 <TextBlock 34 w:50 h:4>
 <Chu-Chu>
@@ -183,8 +183,8 @@ of a fire or even under
 the sea!"<Close><End of Block>
 <TextBlock 35 w:42 h:4>
 <Chu-Chu>
-"So I wanna go chu!"
-    I guess it's okay
+"So I wanna go chu!"<Delay 10>
+<Opcode 1 255>    I guess it's okay
     Sorry!<Close><End of Block>
 <TextBlock 36 w:52 h:3>
 Traveling?
@@ -343,12 +343,12 @@ Bart
 But can you elaborate
 a little more?"<Close><End of Block>
 <TextBlock 64 w:44 h:4>
-    Where is Solaris?
+<Opcode 1 255>    Where is Solaris?
     What are Lambs?
     Who is that man?
     Why did you leave?<Close><End of Block>
 <TextBlock 65 w:32 h:2>
-    Ask again
+<Opcode 1 255>    Ask again
     I understand<Close><End of Block>
 <TextBlock 66 w:42 h:4>
 Bart
@@ -763,7 +763,7 @@ Sigurd
 "About that,<Delay 30>
 going by info from
 the Capital...<New>
-There may be a Gate
+there may be a Gate
 in this vicinity."<Close><End of Block>
 <TextBlock 138 w:22 h:2>
 Fei
@@ -832,5 +832,5 @@ Bart
 "Got it.<Delay 30>
 I leave the rest to you!"<Close><End of Block>
 <TextBlock 151 w:24 h:2>
-    All set!
+<Opcode 1 255>    All set!
     Not yet<Close><Close><End of Block>

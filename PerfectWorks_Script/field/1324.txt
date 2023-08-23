@@ -15,7 +15,7 @@ such advanced equipment
 could be made."<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 Elly
-"<Opcode 1 255>Look, here!<Opcode 1 0><New>
+"Look, here!<New>
 The destinations of all
 resources collected by
 the Church through

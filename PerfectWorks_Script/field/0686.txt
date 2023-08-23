@@ -136,14 +136,14 @@ He's lookin' wild...<Close><End of Block>
 Bah!<Close><End of Block>
 <TextBlock 33 w:28 h:4>
 10G a night...
-Wanna stay?
-    Yes
+Wanna stay?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 34 w:42 h:2>
 You don't have enough
 money. Get out!<Close><End of Block>
 <TextBlock 35 w:30 h:6>
-  - Menu -
+<Opcode 1 255>  - Menu -
  
   Breida Beer
   Av Ale

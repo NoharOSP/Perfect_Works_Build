@@ -83,9 +83,9 @@ What the...?"<Close><End of Block>
 Maria
 "Where is the
 intruder...!?"<Close><End of Block>
-<TextBlock 19 w:44 h:4>
+<TextBlock 19 w:38 h:4>
 Maria
-"Undoubtedly, I am the
+"Verily, I am the
 daughter of Nikola,
 Maria Balthasar!<New>
 What of it...?"<Close><End of Block>

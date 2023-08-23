@@ -143,14 +143,14 @@ Maria
 "(Uhh...<Delay 30> Not as
 reliable as he looks.)"<Close><End of Block>
 <TextBlock 37 w:48 h:2>
-Margie
+<Opcode 1 3>Margie
 "Ya want me to open it?"<Close><End of Block>
 <TextBlock 38 w:36 h:2>
 There's what looks
 like a panel.<Close><End of Block>
 <TextBlock 39 w:26 h:3>
-Move it?
-    Move it
+Move it?<Delay 10>
+<Opcode 1 255>    Move it
     Forget it<Close><End of Block>
 <TextBlock 40 w:24 h:3>
 Bart
@@ -173,7 +173,7 @@ so what do you expect?<New>
 ...<Delay 30>Crap,
 I really did forget."<Close><End of Block>
 <TextBlock 45 w:54 h:2>
-    NO! I'm gonna remember!
+<Opcode 1 255>    NO! I'm gonna remember!
     ...P-Please...<Close><End of Block>
 <TextBlock 46 w:44 h:4>
 Bart

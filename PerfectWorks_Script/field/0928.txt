@@ -1,5 +1,5 @@
 <TextBlock 1 w:44 h:4>
-<Opcode 1 255>Ramsus
+Ramsus
 "He's out of control!<Delay 30>
 Stop him!<Delay 30> I don't care
 how,<Delay 10> just stop him!"<Delay 60><Close><End of Block>

@@ -18,8 +18,8 @@ barrier wall. Thank you.<Close><End of Block>
 Disengaged!<Close><End of Block>
 <TextBlock 4 w:54 h:4>
 -  Av excavation site #8  -
--       Gear No. 3        -
-    Current situation
+-       Gear No.3         -<Delay 10>
+<Opcode 1 255>    Current situation
     Surrounding area info<Close><End of Block>
 <TextBlock 5 w:52 h:2>
 Sand barrier being opened

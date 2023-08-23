@@ -49,8 +49,8 @@ But I can explain the basic
 controls if you like<Delay 5>...?<Close><End of Block>
 <TextBlock 9 w:52 h:4>
 Fei
-"Battling control method?"<Delay 5>
-    Please explain
+"Battling control method?"<Delay 10>
+<Opcode 1 255>    Please explain
     No thank you<Close><End of Block>
 <TextBlock 10 w:36 h:4>
 Informationist
@@ -749,7 +749,7 @@ controls if you like...?"<Close><End of Block>
 <TextBlock 137 w:52 h:4>
 Fei
 "Battling control method?"<Delay 5>
-    Please explain
+<Opcode 1 255>    Please explain
     No need, thanks<Close><End of Block>
 <TextBlock 138 w:52 h:4>
 Informationist
@@ -1027,7 +1027,7 @@ Battling safely, hey, bro?<New>
 Why not return to your
 quarters and rest up a bit?<New>
 Or you could buy something!"<Delay 15>
-    Hammer's items
+<Opcode 1 255>    Hammer's items
     Hammer's Gear parts
     I'm alright for now!<Close><End of Block>
 <TextBlock 191 w:56 h:4>

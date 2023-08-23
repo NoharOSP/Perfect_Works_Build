@@ -1,10 +1,10 @@
 <TextBlock 1 w:46 h:3>
-Do you want to go down?
-    Yes
+Do you want to go down?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 2 w:46 h:3>
-Do you want to go down?
-    Yes
+Do you want to go down?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 3 w:34 h:2>
 You have too many
@@ -20,10 +20,10 @@ shaft interior.<New>
 Please use it on the
 lower floor, a few
 levels below here."<Close><End of Block>
-<TextBlock 6 w:44 h:4>
+<TextBlock 6 w:42 h:4>
 This is a map of the
 lower level emergency
 shaft interior.<New>
 Please use it on the
 lower floor, a few
-levels below this one.<Close><Close><End of Block>
+levels below here.<Close><Close><End of Block>

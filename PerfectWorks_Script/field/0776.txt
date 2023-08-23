@@ -35,7 +35,7 @@ won't close up shop!<Close><End of Block>
 <TextBlock 5 w:22 h:1>
 Come on in!<Close><End of Block>
 <TextBlock 6 w:30 h:4>
-Looking for...
+Looking for...<Delay 10>
 <Opcode 1 255>    Items
     Accessories
     Nothing<Close><End of Block>
@@ -46,7 +46,7 @@ Thank you very much.<Close><End of Block>
 <TextBlock 9 w:22 h:1>
 Come again!<Close><End of Block>
 <TextBlock 10 w:30 h:5>
-Looking for...
+Looking for...<Delay 10>
 <Opcode 1 255>    Items
     Accessories
     Gear parts

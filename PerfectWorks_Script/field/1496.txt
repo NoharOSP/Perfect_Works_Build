@@ -50,8 +50,8 @@ Maria
 "It won't open.<Delay 20>
 It must be locked."<Close><End of Block>
 <TextBlock 14 w:42 h:3>
-Do you want to go up?
-    Yes
+Do you want to go up?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 15 w:54 h:3>
 Big Joe

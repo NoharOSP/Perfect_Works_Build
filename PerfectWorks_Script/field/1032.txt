@@ -1,21 +1,21 @@
 <TextBlock 1 w:56 h:4>
 Fei
 "I guess I can rest here<Delay 5>..."<Delay 15>
-    Rest up!
+<Opcode 1 255>    Rest up!
     Not yet<Close><End of Block>
 <TextBlock 2 w:54 h:4>
 Fei
 "...Hey, and rank doesn't
 matter anymore!
 So, which bed shall I use?"<New>
-    Rank A bed
+<Opcode 1 255>    Rank A bed
     Rank B bed
     Rank C bed
     Rank D bed<Close><End of Block>
 <TextBlock 3 w:56 h:4>
 Fei
 "I guess I can rest here<Delay 5>..."<Delay 15>
-    Rest up!
+<Opcode 1 255>    Rest up!
     Not yet<Close><End of Block>
 <TextBlock 4 w:46 h:2>
 Fei
@@ -57,7 +57,7 @@ All this running backwards
 and forwards is killing me!<New>
 I know it's a bit sudden but
 how about buying something?"<Delay 15>
-    Not now, Hammer!
+<Opcode 1 255>    Not now, Hammer!
     I guess I'll have to!<Close><End of Block>
 <TextBlock 14 w:56 h:4>
 Hammer
@@ -72,7 +72,7 @@ Much appreciated!"<Close><End of Block>
 <TextBlock 16 w:48 h:4>
 Hammer
 "What do you need, bro?"<Delay 15>
-    Hammer's items
+<Opcode 1 255>    Hammer's items
     Hammer's accessories<Close><End of Block>
 <TextBlock 17 w:54 h:4>
 Hammer
@@ -137,8 +137,8 @@ plenty of work to do is what
 brings the most happiness!<New>
 I'll keep doing my best, so
 you too keep up the fight!
-As I promised at Noatun<Delay 5>...<Delay 5>
-that's what I will do!"<Close><End of Block>
+It's my Noatun promise<Delay 5>...<Delay 5>
+so I will see it through!"<Close><End of Block>
 <TextBlock 27 w:56 h:5>
 Suzanne
 "Oh look, what good timing!
@@ -554,8 +554,8 @@ prepared now?<Delay 15> There is no
 turning back after this!"<Close><End of Block>
 <TextBlock 97 w:52 h:4>
 Fei
-"Well,  I errh..."
-    Still got stuff to do!
+"Well,  I errh..."<Delay 10>
+<Opcode 1 255>    Still got stuff to do!
     I am totally prepared!<Close><End of Block>
 <TextBlock 98 w:48 h:4>
 Citan
@@ -1109,9 +1109,9 @@ we give it a try?"<Close><End of Block>
 <TextBlock 185 w:44 h:3>
 Fei
 "So, let's<Delay 5>..."<New>
-    take a rest first!
-    do it now, Doc!
-    forget about it!<Close><End of Block>
+<Opcode 1 255>    Take a rest first!
+    Do it now, Doc!
+    Forget about it!<Close><End of Block>
 <TextBlock 186 w:50 h:4>
 Citan
 "Yes, let us rest up a
@@ -1144,9 +1144,9 @@ your mind yet?"<Close><End of Block>
 <TextBlock 191 w:54 h:3>
 Fei
 "Yes, well, errh, let's<Delay 5>..."<New>
-    wait a bit longer!
-    do it now, Doc!
-    not do this, Doc!<Close><End of Block>
+<Opcode 1 255>    Wait a bit longer!
+    Do it now, Doc!
+    Forget about it!<Close><End of Block>
 <TextBlock 192 w:54 h:4>
 Citan
 "<Delay 5>...<Delay 5>Well then, when you

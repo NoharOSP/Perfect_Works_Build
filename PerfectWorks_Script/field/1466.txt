@@ -91,7 +91,7 @@ It's a deal you can't
 refuse!<Close><End of Block>
 <TextBlock 18 w:36 h:3>
 Do you wanna know?<Delay 20>
-    Sure
+<Opcode 1 255>    Sure
     No thanks<Close><End of Block>
 <TextBlock 19 w:48 h:4>
 Hmm...
@@ -197,7 +197,7 @@ It's a deal, yes it is.<Close><End of Block>
 <TextBlock 31 w:46 h:4>
 Exchange for the
 <Chu-Chu>s' treasure?<Delay 20>
-    Sure!
+<Opcode 1 255>    Sure!
     No way<Close><End of Block>
 <TextBlock 32 w:40 h:2>
 Let's exchange them.
@@ -264,7 +264,7 @@ each other...<Close><End of Block>
 <TextBlock 43 w:54 h:4>
 I am wrong, right? They
 are all nice people, right?<Delay 20>
-    Everyone's nice
+<Opcode 1 255>    Everyone's nice
     Not necessarily...<Close><End of Block>
 <TextBlock 44 w:48 h:4>
 I knew it!<Delay 20>
@@ -300,5 +300,5 @@ land and live in the
 woods again...?<Close><End of Block>
 <TextBlock 51 w:46 h:3>
 Do you want to go down?<Delay 10>
-    Yes
+<Opcode 1 255>    Yes
     No<Close><Close><End of Block>

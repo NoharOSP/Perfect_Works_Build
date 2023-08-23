@@ -5,15 +5,15 @@ can change the direction
 the windmill is spinning."<Close><End of Block>
 <TextBlock 2 w:42 h:3>
 Do you want to go up?<Delay 10>
-    Yes
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 3 w:42 h:3>
 Do you want to go up?<Delay 10>
-    Yes
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 4 w:46 h:3>
 Do you want to go down?<Delay 10>
-    Yes
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 5 w:34 h:2>
 You have too many

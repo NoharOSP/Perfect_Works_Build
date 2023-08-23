@@ -139,10 +139,10 @@ gimme some money and I'll
 let you.<Close><End of Block>
 <TextBlock 28 w:46 h:3>
 How about just 100G?<Delay 15>
-     I'll pass
+<Opcode 1 255>     I'll pass
      Guess I have to...<Close><End of Block>
 <TextBlock 29 w:46 h:2>
-Wha! <Delay 5>I see.<Delay 15>
+Wha? <Delay 5>I see.<Delay 15>
 Well fine, <Delay 5>be that way!<Close><End of Block>
 <TextBlock 30 w:34 h:1>
 Handed over 100G.<Close><End of Block>
@@ -471,7 +471,7 @@ can't stand it.<New>
 Wanna buy some dog food?<New>
 Give it to him and he'll
 be quiet."<Delay 20>
-    Don't need it
+<Opcode 1 255>    Don't need it
     I'll take it<Close><End of Block>
 <TextBlock 87 w:44 h:5>
 Guard
@@ -651,7 +651,7 @@ Fei
 "<Delay 5>...<Delay 5>Huh?<Delay 15>
 What does that say<Delay 5>...<Delay 5>?"<Opcode 2 60><Close><End of Block>
 <TextBlock 122 w:50 h:3>
-We are closed for today.
+<Opcode 1 255>We are closed for today.
 Until tomorrow, booty!
                  B-Info<Close><End of Block>
 <TextBlock 123 w:46 h:4>
@@ -733,11 +733,11 @@ supplier to mechanic<Delay 5>...)"<Close><End of Block>
 Fei
 "<Delay 5>...<Delay 30>
 What's this<Delay 5>...<Delay 5>?"<Close><End of Block>
-<TextBlock 135 w:54 h:4>
-<Opcode 1 255>'Power is explosive beauty!
- Power is overflowing love!
- Venture forth, young ones!
- Glorious Battling Arena!'<Close><End of Block>
+<TextBlock 135 w:52 h:4>
+<Opcode 1 255>Power is explosive beauty!
+Power is overflowing love!
+Venture forth, young ones!
+Glorious Battling Arena!<Close><End of Block>
 <TextBlock 136 w:32 h:3>
 Fei
 "<Delay 5>...<Delay 30>
@@ -865,7 +865,7 @@ Fei
 anywhere<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 148 w:46 h:3>
 Old Man
-"<Delay 5>...<Delay 15><Opcode 1 255>Even so,
+"<Delay 5>...<Delay 15>Even so,
 that's the way it is!!"<Close><End of Block>
 <TextBlock 149 w:52 h:4>
 Fei

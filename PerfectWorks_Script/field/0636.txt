@@ -10,8 +10,8 @@ The cliff's edge collapsed from
 the heavy rain we had recently.<Delay 30>
 You're alright, Fei, you can do
 a big jump to get across it...<New>
-But I'm too scared...<Delay 30>
-    Hey, what's a big jump?
+But I'm too scared...<Delay 20>
+<Opcode 1 255>    Hey, what's a big jump?
     It's easy, watch me!!<Close><End of Block>
 <TextBlock 4 w:50 h:5>
 How could you forget...?<Delay 30>
@@ -34,7 +34,7 @@ Village Jumping Tournament!<Close><End of Block>
 <TextBlock 7 w:42 h:1>
 Found a bird's nest!!<Close><End of Block>
 <TextBlock 8 w:42 h:3>
-Take the egg?
+Take the egg?<Delay 10>
 <Opcode 1 255>    Of course!!
     No, that's cruel!<Close><End of Block>
 <TextBlock 9 w:42 h:2>
@@ -42,8 +42,8 @@ Take the egg?
      Bird Egg!!<Opcode 2 90><Close><End of Block>
 <TextBlock 10 w:52 h:4>
 <Opcode 1 255>*Cheep, cheep*!!!
-(Return the egg!!)
-<Opcode 1 255>    Okay, I give it back!!
+(Return the egg!!)<Delay 10>
+    Okay, I give it back!!
     No way, never!!<Close><End of Block>
 <TextBlock 11 w:28 h:4>
 Fei

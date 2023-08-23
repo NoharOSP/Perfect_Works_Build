@@ -15,6 +15,6 @@ Are they going the same
 direction the saucer went?<New>
 I'd better follow them!"<Close><End of Block>
 <TextBlock 4 w:34 h:3>
-Leave the desert?
-    Yes
+Leave the desert?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>

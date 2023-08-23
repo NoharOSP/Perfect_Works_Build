@@ -3,8 +3,8 @@ Citan
 "Good work. Get plenty
 of rest for tomorrow.<Close><End of Block>
 <TextBlock 2 w:34 h:3>
-Going out again?"
-    Yes
+Going out again?"<Delay 10>
+<Opcode 1 255>    Yes
     Get some rest<Close><End of Block>
 <TextBlock 3 w:38 h:4>
 Citan
@@ -49,8 +49,8 @@ as long as possible.<New>
 During that time, you can
 rescue Margie.<Close><End of Block>
 <TextBlock 8 w:42 h:3>
-Any questions?"
-    Got it
+Any questions?"<Delay 10>
+<Opcode 1 255>    Got it
     Once more, please<Close><End of Block>
 <TextBlock 9 w:46 h:3>
 Citan
@@ -67,8 +67,8 @@ I'm gonna get some sleep.
 Man, I'm beat.<Close><End of Block>
 <TextBlock 12 w:34 h:4>
 More sightseeing
-in Av?"
-    Yes
+in Av?"<Delay 10>
+<Opcode 1 255>    Yes
     Rest<Close><End of Block>
 <TextBlock 13 w:46 h:3>
 Bart

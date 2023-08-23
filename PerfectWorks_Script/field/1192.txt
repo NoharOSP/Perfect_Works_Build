@@ -17,7 +17,7 @@ to be alone.
 It's already been fixed, 
 so please don't worry.<Close><End of Block>
 <TextBlock 4 w:48 h:5>
-What do you want to do?
+What do you want to do?<Delay 10>
 <Opcode 1 255>    View Gear from here
     View Gear from front
     Hear lowdown on Gear
@@ -196,7 +196,7 @@ the sword...which seems
 to be the doctor's weapon
 of choice.<Close><End of Block>
 <TextBlock 14 w:50 h:3>
-Want to rename this Gear?
+Want to rename this Gear?<Delay 10>
 <Opcode 1 255>    Yes, I'd like to!
     No, not now thanks!<Close><End of Block>
 <TextBlock 15 w:50 h:3>

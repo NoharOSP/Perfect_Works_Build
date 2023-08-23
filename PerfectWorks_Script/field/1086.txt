@@ -69,8 +69,8 @@ Fei
 "...!<Delay 40>
 Whew. Open!"<Close><End of Block>
 <TextBlock 21 w:28 h:3>
-<Opcode 1 255>Fei
-    Of course
+Fei
+<Opcode 1 255>    Of course
     Wait a sec<Close><End of Block>
 <TextBlock 22 w:34 h:2>
 Fei
@@ -95,11 +95,11 @@ Fei
 Fei
 "Whoa!"<Opcode 2 10><Close><End of Block>
 <TextBlock 29 w:14 h:2>
-<Opcode 1 255>Fei
-"...!!"<Opcode 2 20><Close><End of Block>
+Fei
+<Opcode 1 255>"...!!"<Opcode 2 20><Close><End of Block>
 <TextBlock 30 w:28 h:2>
-<Opcode 1 255>Fei
-"Behind us!!"<Opcode 2 20><Close><End of Block>
+Fei
+<Opcode 1 255>"Behind us!!"<Opcode 2 20><Close><End of Block>
 <TextBlock 31 w:32 h:3>
 Fei
 "Why did it...<Delay 30>
@@ -178,8 +178,8 @@ Citan
 drain that has slime but
 no murder site nearby."<Close><End of Block>
 <TextBlock 48 w:24 h:3>
-<Opcode 1 255>Citan
-"Here it
+Citan
+<Opcode 1 255>"Here it
 comes!<Opcode 2 20><Close><End of Block>
 <TextBlock 49 w:54 h:3>
 Citan
@@ -289,11 +289,11 @@ Rico
 too... And no murder
 spot nearby...?"<Close><End of Block>
 <TextBlock 73 w:30 h:2>
-<Opcode 1 255>Rico
-"Wh-Where!?"<Opcode 2 15><Close><End of Block>
+Rico
+<Opcode 1 255>"Wh-Where!?"<Opcode 2 15><Close><End of Block>
 <TextBlock 74 w:16 h:2>
-<Opcode 1 255>Rico
-"What!?"<Opcode 2 10><Close><End of Block>
+Rico
+<Opcode 1 255>"What!?"<Opcode 2 10><Close><End of Block>
 <TextBlock 75 w:52 h:4>
 Rico
 "This area should connect

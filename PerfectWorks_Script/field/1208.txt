@@ -254,8 +254,8 @@ Let me know when you want
 to change party members!"<Close><End of Block>
 <TextBlock 51 w:46 h:4>
 Margie
-"Change party members?"
-    Yes
+"Change party members?"<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 52 w:44 h:3>
 Margie
@@ -417,7 +417,7 @@ ask me chu do
 that...?"<Close><End of Block>
 <TextBlock 85 w:46 h:4>
 She's holding a note...
-Read it?
+Read it?<Delay 10>
 <Opcode 1 255>    Read it
     No, better not!<Close><End of Block>
 <TextBlock 86 w:32 h:3>

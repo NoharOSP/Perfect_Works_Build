@@ -14,26 +14,26 @@ This is...<Delay 10> is...<Close><End of Block>
 Stop it!<Delay 10>
 Let go!<Close><End of Block>
 <TextBlock 5 w:36 h:3>
-<Opcode 1 255> Return to 14-1-6?
-    Yes
+ Return to 14-1-6?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 6 w:52 h:1>
 Block under maintenance...<Close><End of Block>
 <TextBlock 7 w:36 h:3>
-<Opcode 1 255> Return to 13-6-1?
-    Yes
+ Return to 13-6-1?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 8 w:36 h:3>
-<Opcode 1 255> Return to 12-3-6?
-    Yes
+ Return to 12-3-6?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 9 w:36 h:3>
-<Opcode 1 255> Return to 11-1-1?
-    Yes
+ Return to 11-1-1?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 10 w:36 h:3>
-<Opcode 1 255> Return to 10-4-1?
-    Yes
+ Return to 10-4-1?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 11 w:46 h:4>
 What a fool... <Delay 10>

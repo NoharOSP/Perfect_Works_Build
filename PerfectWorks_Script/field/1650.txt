@@ -18,7 +18,7 @@ problems.<New>
 Well, I'll be at the
 tower entrance."<Close><End of Block>
 <TextBlock 4 w:46 h:1>
-<Opcode 1 255>Received a work permit.<Opcode 2 60><Close><End of Block>
+Received a work permit.<Opcode 2 60><Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Samson
 "Your friend ought to be
@@ -49,7 +49,7 @@ problems.<New>
 Well, I'll be at the
 tower entrance."<Close><End of Block>
 <TextBlock 10 w:46 h:1>
-<Opcode 1 255>Received a work permit.<Opcode 2 60><Close><End of Block>
+Received a work permit.<Opcode 2 60><Close><End of Block>
 <TextBlock 11 w:52 h:3>
 Samson
 "Right, that's the spirit!<New>
@@ -159,7 +159,7 @@ problems.<New>
 Well, I'll be at the
 tower entrance."<Close><End of Block>
 <TextBlock 28 w:46 h:1>
-<Opcode 1 255>Received a work permit.<Opcode 2 60><Close><End of Block>
+Received a work permit.<Opcode 2 60><Close><End of Block>
 <TextBlock 29 w:52 h:3>
 Samson
 "Right, that's the spirit!<New>

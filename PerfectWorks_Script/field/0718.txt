@@ -70,7 +70,7 @@ mind at ease."<New>
 <TextBlock 11 w:44 h:3>
 Citan
 "Fei...<New>
-Let us rest a little."
+Let us rest a little."<Delay 10>
 <Opcode 1 255>     Good idea
      Let's talk more<Close><End of Block>
 <TextBlock 12 w:10 h:2>
@@ -79,7 +79,7 @@ Citan
 <TextBlock 13 w:44 h:3>
 Citan
 "Fei...<New>
-Let us rest a little."
+Let us rest a little."<Delay 10>
 <Opcode 1 255>     Good idea
      Let's talk more<Close><End of Block>
 <TextBlock 14 w:40 h:3>

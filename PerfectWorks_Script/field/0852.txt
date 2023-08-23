@@ -1,7 +1,7 @@
 <TextBlock 1 w:38 h:5>
 Welcome!
-What can I get you?
-    Bartweiser
+What can I get you?<Delay 10>
+<Opcode 1 255>    Bartweiser
     Marguerita
     Nothing<Close><End of Block>
 <TextBlock 2 w:30 h:1>
@@ -60,8 +60,8 @@ we're not in the army
 anymore.<Close><End of Block>
 <TextBlock 18 w:50 h:4>
 Fish are so pretty. I
-could watch them all day.
-    You said it
+could watch them all day.<Delay 10>
+<Opcode 1 255>    You said it
     I'd like to eat 'em<Close><End of Block>
 <TextBlock 19 w:50 h:3>
 The guy that used to
@@ -76,8 +76,8 @@ He also said we could see
 lots of pretty fish.
 I can't wait to go...<Close><End of Block>
 <TextBlock 20 w:46 h:4>
-Your order?
-    Something delicious
+Your order?<Delay 10>
+<Opcode 1 255>    Something delicious
     Something cheap
     Something fast<Close><End of Block>
 <TextBlock 21 w:26 h:1>
@@ -110,7 +110,7 @@ happens.<Close><End of Block>
 <TextBlock 29 w:48 h:3>
 ...Well, you don't have
 anything that's worth
-the piece of the meal.<New>
+the price of the meal.<New>
 Just bring some money
 the next time.<Close><End of Block>
 <TextBlock 30 w:28 h:1>

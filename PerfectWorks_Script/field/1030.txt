@@ -3,6 +3,6 @@ Wh-Who're you!? Don't get
 in the w-way of my job. I
 k-keep this room o-orderly.<Close><End of Block>
 <TextBlock 2 w:58 h:3>
-'Please put all items back in
-their proper place after use'
+<Opcode 1 255>Please put all items back in
+their proper place after use.
            - The Committee -<Close><Close><End of Block>

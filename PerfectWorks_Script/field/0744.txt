@@ -3,8 +3,8 @@
 -  Av excavation site  -
 - Main power generator -<New>
 Currently, the main power
-is on.
-    Turn off the power
+is on.<Delay 10>
+<Opcode 1 255>    Turn off the power
     Leave it alone<Close><End of Block>
 <TextBlock 2 w:52 h:1>
 Main power was turned off.<Close><End of Block>
@@ -13,8 +13,8 @@ Main power was turned off.<Close><End of Block>
 -  Av excavation site  -
 - Main power generator -<New>
 Currently, the main power
-is off.
-    Turn on main power
+is off.<Delay 10>
+<Opcode 1 255>    Turn on main power
     Leave it alone<Close><End of Block>
 <TextBlock 4 w:48 h:3>
 Starting main generator.
@@ -28,11 +28,11 @@ Currently, the main power
 is off.<Close><End of Block>
 <TextBlock 7 w:28 h:4>
 Want to get on
-the gondola?
-    Yes
+the gondola?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 8 w:28 h:4>
 Want to get on
-the gondola?
-    Yes
+the gondola?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><Close><End of Block>

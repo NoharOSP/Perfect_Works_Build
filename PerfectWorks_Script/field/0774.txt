@@ -1,7 +1,7 @@
 <TextBlock 1 w:50 h:3>
-Ah, Bartholomew. <Delay 10>
-"The Gear are all aboard
-the Yggdrasil."<Close><End of Block>
+Ah, Bartholomew.<Delay 10>
+The Gears are all aboard
+the Yggdrasil.<Close><End of Block>
 <TextBlock 2 w:52 h:4>
 Good work. <Delay 10>
 Without your backup, this
@@ -218,8 +218,8 @@ are doing to others."<Close><End of Block>
 Sigurd
 "Thanks, Fei."<Close><End of Block>
 <TextBlock 43 w:36 h:3>
-<Opcode 1 255>Go up to the dock?
-    Go up
+Go up to the dock?<Delay 10>
+<Opcode 1 255>    Go up
     No<Close><End of Block>
 <TextBlock 44 w:0 h:1>
 <Close><End of Block>

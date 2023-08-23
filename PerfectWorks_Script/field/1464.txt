@@ -73,7 +73,7 @@ just that we aren't doing
 any business right now.<Close><End of Block>
 <TextBlock 13 w:22 h:3>
 Insert 20G.<Delay 20>
-    Okay
+<Opcode 1 255>    Okay
     Don't<Close><End of Block>
 <TextBlock 14 w:34 h:1>
 Not enough money.<Close><End of Block>

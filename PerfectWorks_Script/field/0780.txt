@@ -29,8 +29,8 @@ accept this...<Close><End of Block>
 Come again!<Close><End of Block>
 <TextBlock 9 w:44 h:4>
 We are providing you
-with a vacant house.
-    Okay, understood!
+with a vacant house.<Delay 10>
+<Opcode 1 255>    Okay, understood!
     What's that there?<Close><End of Block>
 <TextBlock 10 w:48 h:2>
 Huh?
@@ -50,8 +50,8 @@ Since you're the ones who
 saved our town we'll let
 you stay for free.<Close><End of Block>
 <TextBlock 14 w:20 h:3>
-Stay here?
-    Yes
+Stay here?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 15 w:20 h:2>
 Thank you!

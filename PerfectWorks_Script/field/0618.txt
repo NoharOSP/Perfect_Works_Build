@@ -27,7 +27,7 @@ Fwei, when I get bwigger,
 I'll be your bwide.<Close><End of Block>
 <TextBlock 5 w:42 h:3>
 Will you wait for me?<Delay 20>
-    Sure, I'll wait!
+<Opcode 1 255>    Sure, I'll wait!
     Sorry, I can't!<Close><End of Block>
 <TextBlock 6 w:56 h:3>
 Weally, you mean it!?<Delay 20>

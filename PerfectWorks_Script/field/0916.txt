@@ -5,7 +5,7 @@ talked that much.<New>
 He can handle women as
 well as they say."<Close><End of Block>
 <TextBlock 2 w:44 h:6>
-    Cancel
+<Opcode 1 255>    Cancel
     East tower
     Entrance
     Front courtyard

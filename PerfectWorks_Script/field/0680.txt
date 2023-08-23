@@ -42,7 +42,7 @@ a map, analyzing our next
 step. I sure depend on my
 pal.<Close><End of Block>
 <TextBlock 7 w:52 h:8>
-   - Come to Dazil! -
+<Opcode 1 255>   - Come to Dazil! -
  
  If you dig in the ruins, 
    you too can be rich!

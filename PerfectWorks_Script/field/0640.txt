@@ -86,9 +86,9 @@ Found Midori's Ring!<Close><End of Block>
 <TextBlock 19 w:38 h:2>
 <Perso1> put the
 ring away secretly.<Close><End of Block>
-<TextBlock 20 w:34 h:2>
-Found some hidden
-    pin money!<New>
+<TextBlock 20 w:30 h:3>
+Found a
+secret stash!<Delay 10>
 Received 120G!<Close><End of Block>
 <TextBlock 21 w:42 h:1>
 Found some bird seed!<Close><End of Block>
@@ -103,19 +103,19 @@ Tried it again,<Delay 20>
 but the flavor
 hasn't improved...<Close><End of Block>
 <TextBlock 25 w:50 h:3>
-"The shiny farhead is the
+<Opcode 1 255>'The shiny farhead is the
 pruf of justis! Stop the
-njections, yew quack."<Close><End of Block>
-<TextBlock 26 w:48 h:3>
-"Injured, sick, all
+njections, yew quack.'<Close><End of Block>
+<TextBlock 26 w:46 h:3>
+<Opcode 1 255>Injured, sick, all
 accepted. Come on in!
-But no deceased please."<Close><End of Block>
+But no deceased please.<Close><End of Block>
 <TextBlock 27 w:28 h:3>
 Go back down? <Delay 20>
-    Yes
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 28 w:44 h:4>
 Do you want to look
 through the telescope?<Delay 20>
-    Sure
+<Opcode 1 255>    Sure
     No<Close><Close><End of Block>

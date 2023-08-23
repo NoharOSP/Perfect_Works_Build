@@ -48,6 +48,6 @@ You may be the new hope
 for those who're against
 Solaris...<Close><End of Block>
 <TextBlock 6 w:46 h:3>
-Do you want to go down?
+Do you want to go down?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><Close><End of Block>

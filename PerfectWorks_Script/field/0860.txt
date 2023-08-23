@@ -1,7 +1,7 @@
 <TextBlock 1 w:32 h:4>
  
  Welcome to 
- 'Merry Go Pop' 
+ 'Merry-Go-Pop' 
            <Close><End of Block>
 <TextBlock 2 w:52 h:5>
 Let me explain the rules.<New>
@@ -11,17 +11,17 @@ holes. <New>
 You must pop them. Each
 color is worth different
 points.<New>
-    Blue    10 points
+<Opcode 1 255>    Blue    10 points
     Green   20 points
     Yellow  40 points
     Red     80 points
     White  -100 points<New>
-The prize will depend on 
+<Opcode 1 0>The prize will depend on 
 how many points you get 
 within the time limit.<Close><End of Block>
 <TextBlock 3 w:34 h:4>
-Choose the level
-    Easy
+Choose the level<Delay 10>
+<Opcode 1 255>    Easy
     Hard
     Explain rules<Close><End of Block>
 <TextBlock 4 w:32 h:3>

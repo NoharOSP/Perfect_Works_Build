@@ -1,30 +1,30 @@
 <TextBlock 1 w:46 h:3>
-Ya know, awhile ago,
+Ya know, a while ago,
 I found treasure that's
-thi<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 20>s<Delay 30> big.<Close><End of Block>
+thi<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 20>s<Delay 30> big.<Close><End of Block>
 <TextBlock 2 w:50 h:3>
 What're you talkin'
 about? I found one that's
-thi<Delay 3>-<Delay 3>-<Delay 3><Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 20>s<Delay 30> big!<Close><End of Block>
+thi<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 20>s<Delay 30> big!<Close><End of Block>
 <TextBlock 3 w:38 h:2>
 I found one that's <Delay 30>
-thi<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 100><Close><End of Block>
+thi<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 100><Close><End of Block>
 <TextBlock 4 w:42 h:2>
-...-<Delay 3>-<Delay 3>-<Delay 3>s...<Delay 20>pant...<Delay 20>pant<Delay 20>
-...big.<Close><End of Block>
+~<Delay 3>~<Delay 3>~<Delay 3>s...<Delay 20>*pant*...<Delay 20>
+*pant*<Delay 20>...big.<Close><End of Block>
 <TextBlock 5 w:30 h:3>
 Well I got one <Delay 30>
-thi-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>
--<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 100><Close><End of Block>
+thi~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>
+~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 100><Close><End of Block>
 <TextBlock 6 w:50 h:3>
-...-<Delay 3>-<Delay 3>-<Delay 3>s...<Delay 30>pant...<Delay 30>pant...<Delay 30>
-pant<Delay 30>...<Delay 60>? Huh?<Delay 30>
+~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>s...<Delay 30>*pant*...<Delay 30>
+*pant*...<Delay 30>*pant*<Delay 30>...<Delay 60>? Huh?<Delay 30>
 What was I talkin' about?<Close><End of Block>
 <TextBlock 7 w:10 h:1>
 HEY!!<Delay 100><Close><End of Block>
 <TextBlock 8 w:22 h:2>
 Oh noooooo!
-B...boss!!<Opcode 2 80><Close><End of Block>
+B-<Delay 10>Boss!!<Opcode 2 80><Close><End of Block>
 <TextBlock 9 w:34 h:2>
 You have too many
 Micas.<Close><End of Block>
@@ -67,7 +67,7 @@ awesome! You're probably
 the best salvager in the
 world...<Close><End of Block>
 <TextBlock 22 w:50 h:4>
-R...really?
+R-Really?
 Looks like you're finally
 beginning to appreciate
 my greatness.<Close><End of Block>
@@ -86,8 +86,8 @@ Cranes...<Delay 30>
 are cool!<Close><End of Block>
 <TextBlock 26 w:44 h:4>
 Hey pal, will ya
-listen to my problems?
-    Sure
+listen to my problems?<Delay 10>
+<Opcode 1 255>    Sure
     Nah<Close><End of Block>
 <TextBlock 27 w:54 h:4>
 Until recently, I've always
@@ -102,8 +102,8 @@ become a master crane
 operator so I could control
 that machine at my will...<Close><End of Block>
 <TextBlock 28 w:52 h:4>
-What'ya think I should do?
-    Become a crane master
+What'ya think I should do?<Delay 10>
+<Opcode 1 255>    Become a crane master
     Be a seaman
     I don't know<Close><End of Block>
 <TextBlock 29 w:42 h:2>
@@ -203,8 +203,8 @@ the supplies that pass
 through here. I check
 everything.<New>
 Isn't it an important
-job?
-    Yes
+job?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 49 w:34 h:3>
 Really? Then
@@ -242,16 +242,16 @@ Hmph, you've
 had enough for today.<Close><End of Block>
 <TextBlock 56 w:46 h:4>
 Wait a minute, you want
-me to show you?
-    Yes
+me to show you?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 57 w:18 h:3>
-For real?
-    Yes
+For real?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 58 w:28 h:3>
-Really really?
-    Yes
+Really really?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 59 w:36 h:2>
 Hmph, go away.
@@ -267,7 +267,7 @@ Well then,
 en garde!!<Close><End of Block>
 <TextBlock 63 w:52 h:3>
 This supply
-entrance has 4
-treasure boxes. <New>
+entrance has four
+treasure boxes.<New>
 They're in plain view, but
 can you get them all?<Close><Close><End of Block>

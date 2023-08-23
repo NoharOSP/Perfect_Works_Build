@@ -176,9 +176,10 @@ ready yet.<Close><End of Block>
 Hmm, you're not
 ready yet.<Close><End of Block>
 <TextBlock 52 w:36 h:3>
-Hey you look good.<New>
-Wanna play?
-    Okay
+Hey, you look like
+you're good.<New>
+Wanna play?<Delay 10>
+<Opcode 1 255>    Okay
     Nope<Close><End of Block>
 <TextBlock 53 w:32 h:2>
 *Sigh*,

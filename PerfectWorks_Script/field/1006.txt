@@ -52,7 +52,7 @@ So many people.
 It must be hard
 for you to get around.<New>
 Do you want to change here?<Delay 15>
-    No
+<Opcode 1 255>     No
     Change party<Close><End of Block>
 <TextBlock 12 w:48 h:3>
 <Delay 5>...<Delay 5>...Okay.<Delay 15>
@@ -256,8 +256,8 @@ Hammer
 Citan
 "<Delay 5>...<Delay 5>Alright?"<Close><End of Block>
 <TextBlock 47 w:30 h:2>
-<Opcode 1 255>Hammer
-"Uh, nothing!!"<Close><End of Block>
+Hammer
+<Opcode 1 255>"Uh, nothing!!"<Close><End of Block>
 <TextBlock 48 w:46 h:4>
 Hammer
 "Good luck breaking

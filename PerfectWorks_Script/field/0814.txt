@@ -52,32 +52,32 @@ you a room until evening.<Close><End of Block>
 Welcome.<Close><End of Block>
 <TextBlock 13 w:40 h:4>
 I'll mark it down to
-40G per person.
-    Thanks
+40G per person.<Delay 10>
+<Opcode 1 255>    Thanks
     No way<Close><End of Block>
 <TextBlock 14 w:54 h:4>
-How about 50G per person?
-    Okay
+How about 50G per person?<Delay 10>
+<Opcode 1 255>    Okay
     No way
     I have a recommendation<Close><End of Block>
 <TextBlock 15 w:50 h:3>
-How about 50G per person?
-    Okay
+How about 50G per person?<Delay 10>
+<Opcode 1 255>    Okay
     No way<Close><End of Block>
 <TextBlock 16 w:32 h:4>
-Who sent you?
-    Ari
+Who sent you?<Delay 10>
+<Opcode 1 255>    Ari
     Shiffer
     I don't know<Close><End of Block>
 <TextBlock 17 w:72 h:4>
 Aw, she never gives her name. But...
-okay, I'll mark it down to 40G each.
-    Thanks
+okay, I'll mark it down to 40G each.<Delay 10>
+<Opcode 1 255>    Thanks
     No way<Close><End of Block>
 <TextBlock 18 w:36 h:4>
 I don't know her!
-50G per person.
-    Okay
+50G per person.<Delay 10>
+<Opcode 1 255>    Okay
     No way<Close><End of Block>
 <TextBlock 19 w:36 h:2>
 Alright,

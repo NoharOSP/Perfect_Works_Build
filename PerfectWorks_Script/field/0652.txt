@@ -1,6 +1,6 @@
 <TextBlock 1 w:16 h:4>
-<Opcode 1 255>Fei
-"Them!<Delay 60>
+Fei
+<Opcode 1 255>"Them!<Delay 60>
 Them!!<Delay 60>
 Them!!!"<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:8 h:1>
@@ -295,10 +295,10 @@ Elly
 <TextBlock 42 w:2 h:1>
 !<Close><End of Block>
 <TextBlock 43 w:34 h:2>
-<L> Path up.
+<Opcode 1 255><L> Path up.
 Watch the cliffs!<Close><End of Block>
 <TextBlock 44 w:42 h:3>
-<L> Lahan village
+<Opcode 1 255><L> Lahan village
              Av <R>
 Beware of landslides!<Close><End of Block>
 <TextBlock 45 w:34 h:2>

@@ -53,11 +53,11 @@ away with it!<New>
 We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 11 w:50 h:3>
-   -This month's goal-   
+<Opcode 1 255>   -This month's goal-   
  
     Search for parts!<Close><End of Block>
 <TextBlock 12 w:52 h:7>
-   -This month's goal-
+<Opcode 1 255>   -This month's goals-
  
    Don't let the parts
  in the warehouse run out.

@@ -274,7 +274,7 @@ against Solaris.<New>
 I look forward to working
 with you.<Close><End of Block>
 <TextBlock 28 w:16 h:3>
-Go down?
+Go down?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 29 w:54 h:4>

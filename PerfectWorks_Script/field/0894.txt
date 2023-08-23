@@ -8,8 +8,8 @@ in politics, right?<Close><End of Block>
 Yep<Close><End of Block>
 <TextBlock 4 w:40 h:4>
 What do you think of
-those two in front?
-    Kinda strange
+those two in front?<Delay 10>
+<Opcode 1 255>    Kinda strange
     Nothing<Close><End of Block>
 <TextBlock 5 w:46 h:4>
 Actually those two 
@@ -87,7 +87,7 @@ The castle cook makes
 excellent food.<Close><End of Block>
 <TextBlock 27 w:46 h:2>
 Of course! He cooks for
-the king, don't he?<Close><End of Block>
+the King, don't he?<Close><End of Block>
 <TextBlock 28 w:38 h:2>
 I wish my wife's 
 food was this good.<Close><End of Block>

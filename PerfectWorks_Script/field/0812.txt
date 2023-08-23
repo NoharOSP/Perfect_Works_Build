@@ -36,8 +36,8 @@ for ending the war.<New>
 My son should be
 back any day now.<Close><End of Block>
 <TextBlock 10 w:64 h:3>
-Are you here for the Tournament?
-    Yes
+Are you here for the Tournament?<Delay 10>
+<Opcode 1 255>    Yes
     What's that?<Close><End of Block>
 <TextBlock 11 w:42 h:2>
 Too bad, it's already
@@ -84,20 +84,20 @@ Hey buddy, you gotta
 eat lotsa me~at!<Close><End of Block>
 <TextBlock 20 w:52 h:6>
 Hey buddy, want some meat?
-Everything is 70G.
-    Hob-Jerky
+Everything is 70G.<Delay 10>
+<Opcode 1 255>    Hob-Jerky
     Hob-Meat
     Hob-Steak
     No thanks <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 21 w:34 h:5>
-How about 65G...?
-    Hob-Jerky
+How about 65G...?<Delay 10>
+<Opcode 1 255>    Hob-Jerky
     Hob-Meat
     Hob-Steak
     No thanks <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 22 w:34 h:5>
-How about 60G...?
-    Hob-Jerky
+How about 60G...?<Delay 10>
+<Opcode 1 255>    Hob-Jerky
     Hob-Meat
     Hob-Steak
     No thanks<Opcode 13 255><Opcode 2 1><Close><End of Block>
@@ -152,8 +152,8 @@ Any monster eyeballs? <Delay 15>
 Any monster scales? <Delay 15>
 I pay the most!<Opcode 2 60><Close><End of Block>
 <TextBlock 37 w:46 h:5>
-What do you wanna sell?
-    Fang    150G
+What do you wanna sell?<Delay 10>
+<Opcode 1 255>    Fang    150G
     Eyeball 300G
     Scale   600G
     No way<Close><End of Block>
@@ -182,18 +182,18 @@ But when I got out of the
 army, Lahan was gone.<New>
 So now I sell Bizfruit.<Close><End of Block>
 <TextBlock 45 w:36 h:3>
-One for 10G.
-    Buy one
+One for 10G.<Delay 10>
+<Opcode 1 255>    Buy one
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 46 w:36 h:4>
 Alright,
-how about 9G?
-    Buy one
+how about 9G?<Delay 10>
+<Opcode 1 255>    Buy one
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 47 w:36 h:4>
 Come on.
-How about 8G?
-    Buy one
+How about 8G?<Delay 10>
+<Opcode 1 255>    Buy one
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 48 w:30 h:2>
 Hey, you can't
@@ -215,8 +215,8 @@ long bananas! <Delay 20>
 Good for body and soul!<Delay 20>
 Buy some bananas today!<Opcode 2 60><Close><End of Block>
 <TextBlock 54 w:40 h:3>
-Did you bring money?
-    Yes
+Did you bring money?<Delay 10>
+<Opcode 1 255>    Yes
     No <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 55 w:36 h:1>
 Bring some money. <Close><Opcode 2 80><Close><End of Block>
@@ -229,19 +229,19 @@ Can't find better bananas
 than these!<Close><End of Block>
 <TextBlock 57 w:36 h:4>
 You're a nice guy,
-so, only 10G!
-    Buy some
+so, only 10G!<Delay 10>
+<Opcode 1 255>    Buy some
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 58 w:36 h:4>
 They're delicious!
-9G?
-    Buy some
+9G?<Delay 10>
+<Opcode 1 255>    Buy some
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
-<TextBlock 59 w:44 h:5>
+<TextBlock 59 w:46 h:5>
 Okay, on special!
 Two bunches for 16G.
-How about it handsome?
-    Buy some
+How about it, handsome?<Delay 10>
+<Opcode 1 255>    Buy some
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 60 w:46 h:2>
 Hey, you have too much
@@ -276,18 +276,18 @@ like these anywhere else.
 Grown with Av spring
 water, deep red berries.<Close><End of Block>
 <TextBlock 68 w:36 h:3>
-One box, for 10G?
-    Buy some
+One box, for 10G?<Delay 10>
+<Opcode 1 255>    Buy some
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 69 w:36 h:4>
 Alright,
-I'll go 9G.
-    Buy some
+I'll go 9G.<Delay 10>
+<Opcode 1 255>    Buy some
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 70 w:36 h:4>
 Well, 8G.
-That's my lowest.
-    Buy some
+That's my lowest.<Delay 10>
+<Opcode 1 255>    Buy some
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 71 w:46 h:2>
 Hey, you've got too
@@ -437,8 +437,8 @@ something else to play.<Close><End of Block>
 I wonder...<Delay 30>
 where's he hiding?<Close><End of Block>
 <TextBlock 109 w:40 h:3>
-Can you help me too?
-    Okay
+Can you help me too?<Delay 10>
+<Opcode 1 255>    Okay
     I'm busy<Close><End of Block>
 <TextBlock 110 w:48 h:4>
 Thanks
@@ -458,8 +458,8 @@ hide somewhere.<Close><End of Block>
 Ah, you found me.<Close><End of Block>
 <TextBlock 115 w:52 h:4>
 I'm playing hide-and-seek.
-You wanna play too?
-    Play
+You wanna play too?<Delay 10>
+<Opcode 1 255>    Play
     No thanks<Close><End of Block>
 <TextBlock 116 w:42 h:3>
 When you leave I'll
@@ -658,98 +658,98 @@ autograph?<Close><End of Block>
 <TextBlock 156 w:52 h:5>
 Hey, who's stronger?
 The Dragon-Slaying Boxer
-or Prince Bartholomew?
-    Dragon-Slaying Boxer
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Dragon-Slaying Boxer
     Prince Bartholomew<Close><End of Block>
 <TextBlock 157 w:52 h:5>
 Hey, who's stronger?
 The Dragon-Slaying Youth
-or Prince Bartholomew?
-    Dragon-Slaying Youth
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Dragon-Slaying Youth
     Prince Bartholomew<Close><End of Block>
 <TextBlock 158 w:54 h:5>
 Hey, who's stronger?
 The Dragon-Slaying Squire
-or Prince Bartholomew?
-    Dragon-Slaying Squire
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Dragon-Slaying Squire
     Prince Bartholomew<Close><End of Block>
 <TextBlock 159 w:56 h:5>
 Hey, who's stronger?
 The Dragon-Slaying Slacker
-or Prince Bartholomew?
-    Dragon-Slaying Slacker
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Dragon-Slaying Slacker
     Prince Bartholomew<Close><End of Block>
 <TextBlock 160 w:44 h:5>
 Hey, who's stronger?
 The Ponytailed Boxer
-or Prince Bartholomew?
-    Ponytailed Boxer
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Ponytailed Boxer
     Prince Bartholomew<Close><End of Block>
 <TextBlock 161 w:44 h:5>
 Hey, who's stronger?
 The Ponytailed Youth
-or Prince Bartholomew?
-    Ponytailed Youth
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Ponytailed Youth
     Prince Bartholomew<Close><End of Block>
 <TextBlock 162 w:46 h:5>
 Hey, who's stronger?
 The Ponytailed Squire
-or Prince Bartholomew?
-    Ponytailed Squire
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Ponytailed Squire
     Prince Bartholomew<Close><End of Block>
 <TextBlock 163 w:48 h:5>
 Hey, who's stronger?
 The Ponytailed Slacker
-or Prince Bartholomew?
-    Ponytailed Slacker
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Ponytailed Slacker
     Prince Bartholomew<Close><End of Block>
 <TextBlock 164 w:44 h:5>
 Hey, who's stronger?
 The Wandering Boxer
-or Prince Bartholomew?
-    Wandering Boxer
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Wandering Boxer
     Prince Bartholomew<Close><End of Block>
 <TextBlock 165 w:44 h:5>
 Hey, who's stronger?
 The Wandering Youth
-or Prince Bartholomew?
-    Wandering Youth
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Wandering Youth
     Prince Bartholomew<Close><End of Block>
 <TextBlock 166 w:44 h:5>
 Hey, who's stronger?
 The Wandering Squire
-or Prince Bartholomew?
-    Wandering Squire
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Wandering Squire
     Prince Bartholomew<Close><End of Block>
 <TextBlock 167 w:46 h:5>
 Hey, who's stronger?
 The Wandering Slacker
-or Prince Bartholomew?
-    Wandering Slacker
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Wandering Slacker
     Prince Bartholomew<Close><End of Block>
 <TextBlock 168 w:44 h:5>
 Hey, who's stronger?
 The Beloved Boxer
-or Prince Bartholomew?
-    Beloved Boxer
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Beloved Boxer
     Prince Bartholomew<Close><End of Block>
 <TextBlock 169 w:44 h:5>
 Hey, who's stronger?
 The Beloved Youth
-or Prince Bartholomew?
-    Beloved Youth
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Beloved Youth
     Prince Bartholomew<Close><End of Block>
 <TextBlock 170 w:44 h:5>
 Hey, who's stronger?
 The Beloved Squire
-or Prince Bartholomew?
-    Beloved Squire
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Beloved Squire
     Prince Bartholomew<Close><End of Block>
 <TextBlock 171 w:44 h:5>
 Hey, who's stronger?
 The Beloved Slacker
-or Prince Bartholomew?
-    Beloved Slacker
+or Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Beloved Slacker
     Prince Bartholomew<Close><End of Block>
 <TextBlock 172 w:42 h:1>
 Yeah, I think so too.<Close><End of Block>

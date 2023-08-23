@@ -64,8 +64,8 @@ that hangs around the Champ?<Close><End of Block>
 I'm glad you spoke to me!
 See I'm nice to new inmates.
 So ask anything you want to!<New>
-What's bothering you?
-    Where's the 'supplier'?
+What's bothering you?<Delay 10>
+<Opcode 1 255>    Where's the 'supplier'?
     What's with the sewers?
     Nothing's bothering me!<Close><End of Block>
 <TextBlock 11 w:52 h:5>
@@ -95,8 +95,8 @@ entrance. That's his job!<Close><End of Block>
 <TextBlock 14 w:60 h:1>
 If you get stuck, just ask me!<Close><End of Block>
 <TextBlock 15 w:48 h:3>
-Hey, what's the trouble?
-    Any new information?
+Hey, what's the trouble?<Delay 10>
+<Opcode 1 255>    Any new information?
     Not troubled at all!<Close><End of Block>
 <TextBlock 16 w:56 h:4>
 The lady doctor of the dorm!
@@ -115,8 +115,8 @@ us in D Block!<Close><End of Block>
 <TextBlock 18 w:60 h:1>
 If you get stuck, just ask me!<Close><End of Block>
 <TextBlock 19 w:48 h:3>
-Hey, what's the trouble?
-    Any new information?
+Hey, what's the trouble?<Delay 10>
+<Opcode 1 255>    Any new information?
     Not troubled at all!<Close><End of Block>
 <TextBlock 20 w:54 h:3>
 The new medical doctor who
@@ -197,7 +197,7 @@ it look like an accident<Delay 5>...<Close><End of Block>
 <TextBlock 34 w:4 h:1>
 !?<Opcode 2 30><Close><End of Block>
 <TextBlock 35 w:56 h:1>
-<Opcode 1 255>What's with you!? Get lost!!<Close><End of Block>
+What's with you!? Get lost!!<Close><End of Block>
 <TextBlock 36 w:54 h:4>
 Due to the sewer monster
 commotion, they made it off-
@@ -236,8 +236,8 @@ To think <--> both killed!<Delay 15>
 Must've been some creature!<Delay 15>
 Ohh, heaven forbid!<Close><End of Block>
 <TextBlock 41 w:56 h:3>
-What, you want the rundown?
-    Nah, not interested.
+What, you want the rundown?<Delay 10>
+<Opcode 1 255>    Nah, not interested.
     Yeah, spare no details!<Close><End of Block>
 <TextBlock 42 w:34 h:1>
 <Delay 5>...<Delay 5>Suit yourself!<Close><End of Block>
@@ -488,8 +488,8 @@ Nutritionists recommend you
 to always eat in moderation!<Close><End of Block>
 <TextBlock 86 w:54 h:4>
 Has Monsieur decided what
-he wants from 'ze menu yet?
-    ...What menu?
+he wants from 'ze menu yet?<Delay 10>
+<Opcode 1 255>    ...What menu?
     Yep, I've decided!<Close><End of Block>
 <TextBlock 87 w:52 h:4>
 'Ze menu is on ze pillar
@@ -497,13 +497,13 @@ to your right. We 'ave two
 coursez: ze daily specialz
 and ze dishez a la rank!<Close><End of Block>
 <TextBlock 88 w:52 h:4>
-Which would Monsieur like?
-    Dishes a la rank
+Which would Monsieur like?<Delay 10>
+<Opcode 1 255>    Dishes a la rank
     The daily special
     Nothing now, I'm full!<Close><End of Block>
 <TextBlock 89 w:54 h:6>
-Choose 'ze rank you want...
-    Rank A
+Choose 'ze rank you want...<Delay 10>
+<Opcode 1 255>    Rank A
     Rank B
     Rank C1
     Rank C2
@@ -651,7 +651,7 @@ This door is under repair.<Delay 15>
 Sorry, but would you mind
 using the door to the west?<Close><End of Block>
 <TextBlock 131 w:56 h:7>
-Today's 'Dishes a la Rank':
+<Opcode 1 255>Today's 'Dishes a la Rank':
   Rank A - Battlin Steak
   Rank B - HeavyWeighter
   Rank C - Stamina Uppen
@@ -659,7 +659,7 @@ Today's 'Dishes a la Rank':
   Special of the Day:
   Mightymite<Close><End of Block>
 <TextBlock 132 w:56 h:7>
-Today's 'Dishes a la Rank':
+<Opcode 1 255>Today's 'Dishes a la Rank':
   Rank A - Boosta Limit
   Rank B - Noatuna Fish
   Rank C - Ether Omega

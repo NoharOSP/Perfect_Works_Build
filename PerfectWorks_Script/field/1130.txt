@@ -3,8 +3,8 @@ Hammer
 "Looks like some bad
 guys are comin' out.
 I'll try to help too.<New>
-What do you want?"
-    Party change
+What do you want?"<Delay 10>
+<Opcode 1 255>    Party change
     Shop
     Nothing<Close><End of Block>
 <TextBlock 2 w:50 h:3>
@@ -28,8 +28,8 @@ Something's suspicious.<New>
 Oh yeah, you can
 change your party and
 even shop.<New>
-Need anything?"
-    Party change
+Need anything?"<Delay 10>
+<Opcode 1 255>    Party change
     Shop
     Nothing<Close><End of Block>
 <TextBlock 4 w:46 h:3>

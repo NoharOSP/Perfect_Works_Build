@@ -79,7 +79,7 @@ Door lock A opened.<Close><End of Block>
 Billy
 "Shall we return
 to Yggdrasil?"<New>
-    Go back
+<Opcode 1 255>    Go back
     Stay<Close><End of Block>
 <TextBlock 23 w:16 h:2>
 Lock A

@@ -486,18 +486,18 @@ have to master merging
 with the Gear mentally<New>
 to gain its true power.<Delay 10>
 Just then, when Marguerite
-aboard it alone, she was
-desperate to help you.<New>
+was aboard it alone, she
+was desperate to help you.<New>
 It was her strength of
 emotion that got it
 moving."<Close><End of Block>
-<TextBlock 110 w:50 h:3>
+<TextBlock 110 w:52 h:3>
 Bart
-"Meaning, I just have to
-get used to riding it?"<Close><End of Block>
-<TextBlock 111 w:50 h:2>
+"Meaning, I'll just have
+to get used to riding it?"<Close><End of Block>
+<TextBlock 111 w:32 h:2>
 Citan
-"That would be the case."<Close><End of Block>
+"That you will."<Close><End of Block>
 <TextBlock 112 w:42 h:4>
 Bart
 "Tch.<Delay 30> I already
@@ -508,8 +508,8 @@ Citan
 "Do not be discouraged.
 There was a time when the
 surface and Solaris were<New>
-at war over the 'Vessels
-of Anima' these Gears
+at war over the Vessels
+of Anima that these Gears
 derive from.<New>
 Even now, Solaris and the
 Church are seeking them.
@@ -521,11 +521,11 @@ Let us hope you use it
 for the right reasons."<Close><End of Block>
 <TextBlock 114 w:60 h:7>
  
-    "May the children who
+    'May the children who
     visit here be blessed.<Delay 30>
    Fearing great calamity,
   we sealed away our legacy,
- entrusting its fate to you."<Close><End of Block>
+ entrusting its fate to you.'<Close><End of Block>
 <TextBlock 115 w:12 h:2>
 Bart
 "...?"<Close><End of Block>
@@ -547,8 +547,8 @@ Margie
 "What does it say?"<Close><End of Block>
 <TextBlock 120 w:60 h:7>
  
-    "May the children who
+    'May the children who
     visit here be blessed.<Delay 30>
    Fearing great calamity,
   we sealed away our legacy,
- entrusting its fate to you."<Close><Close><End of Block>
+ entrusting its fate to you.'<Close><Close><End of Block>

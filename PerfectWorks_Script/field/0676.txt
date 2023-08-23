@@ -461,17 +461,17 @@ wide get together to seek
 out the resources buried
 in the ruins."<Close><End of Block>
 <TextBlock 71 w:44 h:2>
-Treasure Hunter Assoc.
+<Opcode 1 255>Treasure Hunter Assoc.
   Dazil Chapter <Close><End of Block>
 <TextBlock 72 w:36 h:2>
-  -Lucky Avenue-  
+<Opcode 1 255>  -Lucky Avenue-  
  'A relaxing bar' <Close><End of Block>
 <TextBlock 73 w:34 h:1>
  Workshop Admin. <Close><End of Block>
 <TextBlock 74 w:20 h:1>
  Workshop <Close><End of Block>
 <TextBlock 75 w:54 h:7>
-      Extra, extra!
+<Opcode 1 255>      Extra, extra!
  War in the desert again?
  
   A new unit appears to

@@ -16,8 +16,8 @@ Yeah!!!<Close><End of Block>
 <TextBlock 6 w:18 h:1>
 Let's go!<Close><End of Block>
 <TextBlock 7 w:42 h:3>
-<Opcode 1 255>Go down to the docks?
-    Go down
+Go down to the docks?<Delay 10>
+<Opcode 1 255>    Go down
     Not now<Close><End of Block>
 <TextBlock 8 w:46 h:3>
 Bart

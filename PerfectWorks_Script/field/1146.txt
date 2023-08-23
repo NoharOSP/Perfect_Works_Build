@@ -87,8 +87,8 @@ Fire!!<Opcode 2 60><Close><End of Block>
 Rico
 "..."<Close><End of Block>
 <TextBlock 20 w:24 h:2>
-<Opcode 1 255>Rico
-"Shut up!!!"<Delay 120><Close><End of Block>
+Rico
+<Opcode 1 255>"Shut up!!!"<Delay 120><Close><End of Block>
 <TextBlock 21 w:40 h:4>
 Elly
 "That person...<Delay 30>

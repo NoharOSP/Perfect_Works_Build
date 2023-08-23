@@ -1,16 +1,16 @@
 <TextBlock 1 w:24 h:3>
-Take a peek?
-    Yes
+Take a peek?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 2 w:24 h:3>
-Take a peek?
-    Yes
+Take a peek?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 3 w:24 h:3>
-Take a peek?
-    Yes
+Take a peek?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 4 w:24 h:3>
-Take a peek?
-    Yes
+Take a peek?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>

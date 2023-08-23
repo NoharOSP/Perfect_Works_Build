@@ -1,12 +1,12 @@
 <TextBlock 1 w:51 h:3>
-      No.2 Elevator
+<Opcode 1 255>      No.2 Elevator
    (<D> To Control Room,
        Power Block)<Close><End of Block>
 <TextBlock 2 w:32 h:1>
-To Energy Blocks<Close><End of Block>
+<Opcode 1 255>To Energy Blocks<Close><End of Block>
 <TextBlock 3 w:32 h:1>
-To Energy Blocks<Close><End of Block>
+<Opcode 1 255>To Energy Blocks<Close><End of Block>
 <TextBlock 4 w:44 h:1>
- No.2 Elevator Block <Close><End of Block>
+<Opcode 1 255> No.2 Elevator Block <Close><End of Block>
 <TextBlock 5 w:44 h:1>
- No.2 Elevator Block <Close><Close><End of Block>
+<Opcode 1 255> No.2 Elevator Block <Close><Close><End of Block>

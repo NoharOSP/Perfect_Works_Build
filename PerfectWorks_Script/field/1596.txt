@@ -129,8 +129,8 @@ Mother of Destruction!"<Close><End of Block>
 <TextBlock 29 w:46 h:4>
 Grahf
 "I am Grahf, the seeker
-of power.<Delay 32> Dost
-thou desire the power?"<Close><End of Block>
+of power.<Delay 32> Dost thou
+desire the power?"<Close><End of Block>
 <TextBlock 30 w:48 h:4>
 Grahf
 "In the end, that is
@@ -149,10 +149,11 @@ true power."<Close><End of Block>
 Grahf
 "I shall endow you
 with my true power!"<Close><End of Block>
-<TextBlock 33 w:38 h:3>
+<TextBlock 33 w:26 h:4>
 Fei
 "Whoa...<Delay 30>
-A Gate generator!?"<Close><End of Block>
+The Gate
+generator!?"<Close><End of Block>
 <TextBlock 34 w:46 h:3>
 Bart
 "That punk...<New>
@@ -204,23 +205,21 @@ cavern to escape!<New>
 He wanted the Gate
 generator's energy
 from the start!"<Close><End of Block>
-<TextBlock 43 w:50 h:4>
+<TextBlock 43 w:50 h:3>
 Shakhan
-"This can't be!?<New>
-This is ridiculous!?<New>
-This thing should be able
-to pull an adequate
-amount of energy from the
-gate!"<Close><End of Block>
-<TextBlock 44 w:44 h:4>
+"Stupid thing!<Delay 20>
+Seriously!?<New>
+This special Gear can
+exceed standard output
+using the Gate's energy!"<Close><End of Block>
+<TextBlock 44 w:46 h:4>
 Shakhan
-"There shouldn't
-have been any problems
-in the design!<New>
-Why?"<Close><End of Block>
-<TextBlock 45 w:44 h:2>
+"There shouldn't be any
+problems in the design.
+So why!?"<Close><End of Block>
+<TextBlock 45 w:46 h:2>
 Shakhan
-"Why doesn't it move?"<Close><End of Block>
+"Why doesn't it move!?"<Close><End of Block>
 <TextBlock 46 w:48 h:3>
 Bart
 "What, did you mess up?<New>

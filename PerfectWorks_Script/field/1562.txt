@@ -81,7 +81,7 @@ the town now!?<Close><End of Block>
 <TextBlock 25 w:16 h:1>
 Truly!?<Close><End of Block>
 <TextBlock 26 w:20 h:2>
-    Go up
+<Opcode 1 255>    Go up
     Cancel<Close><End of Block>
 <TextBlock 27 w:6 h:1>
  ! <Close><End of Block>

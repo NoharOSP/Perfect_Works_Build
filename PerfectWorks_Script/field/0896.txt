@@ -17,8 +17,8 @@ from Shakhan.<New>
 I was told to burn them,
 but I hid them instead.<Close><End of Block>
 <TextBlock 4 w:72 h:3>
-Do you know Breidablik's history?
-    Yes, I do
+Do you know Breidablik's history?<Delay 10>
+<Opcode 1 255>    Yes, I do
     No, I don't<Close><End of Block>
 <TextBlock 5 w:40 h:1>
 Wow, you know a lot.<Close><End of Block>
@@ -71,11 +71,10 @@ a massive power struggle.<New>
 Almost all the records from
 that time have been lost, and
 what little remains is doubted
-as being historically correct.<New>
+to be historically correct.<New>
 But then Roni Fatima could have
 been behind altering things.<Close><End of Block>
 <TextBlock 9 w:70 h:3>
 <Opcode 1 255>There's probably a guard outside...
     Open the door
-    Just take a peek<Close>
-   Just take a peek<Close><Close><End of Block>
+    Just take a peek<Close><Close><End of Block>

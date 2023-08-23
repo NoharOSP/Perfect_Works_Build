@@ -176,7 +176,7 @@ that's an impossibility."<Close><End of Block>
 <TextBlock 33 w:42 h:4>
 Suzanne
 "Hey, are you ready?"<Delay 15>
-    Hang on
+<Opcode 1 255>    Hang on
     Let's rock<Close><End of Block>
 <TextBlock 34 w:44 h:3>
 Suzanne

@@ -1,6 +1,6 @@
 <TextBlock 1 w:30 h:3>
-Draw the sword?
-    Yes
+Draw the sword?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 2 w:48 h:2>
  

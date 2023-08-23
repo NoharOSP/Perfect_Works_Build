@@ -6,12 +6,12 @@ Want something to eat?
 Then go wait at those
 tables up there.<Close><End of Block>
 <TextBlock 3 w:44 h:3>
-You're strangers, huh?
-    Yeah
+You're strangers, huh?<Delay 10>
+<Opcode 1 255>    Yeah
     No<Close><End of Block>
 <TextBlock 4 w:46 h:3>
-You aren't from Kislev.
-    No we're not!
+You aren't from Kislev.<Delay 10>
+<Opcode 1 255>    No, we're not!
     Why, yes we are!<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 5 w:48 h:3>
 Yeah, I suppose...
@@ -68,8 +68,8 @@ Let's go home.<Close><End of Block>
 !!<Opcode 2 30><Close><End of Block>
 <TextBlock 16 w:50 h:4>
 Fish are pretty. I
-could watch them all day.
-    You said it!
+could watch them all day.<Delay 10>
+<Opcode 1 255>    You said it!
     I'd like to eat!<Close><End of Block>
 <TextBlock 17 w:48 h:4>
 I thought I'd go to the
@@ -81,8 +81,8 @@ forever like a desert...
 A sea of water full of
 pretty fish.<Close><End of Block>
 <TextBlock 18 w:46 h:4>
-Your order?
-    Something delicious
+Your order?<Delay 10>
+<Opcode 1 255>    Something delicious
     Something cheap
     Something fast<Close><End of Block>
 <TextBlock 19 w:26 h:1>
@@ -136,5 +136,5 @@ You have too many
  
  Received <Opcode 4 20><Close><End of Block>
 <TextBlock 36 w:44 h:2>
-    Do nothing
+<Opcode 1 255>    Do nothing
     Return to waterway<Close><Close><End of Block>

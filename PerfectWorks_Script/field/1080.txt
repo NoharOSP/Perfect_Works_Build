@@ -239,7 +239,7 @@ a row to win even more.<Close><End of Block>
 <TextBlock 49 w:46 h:1>
 0G left. Unable to pay.<Close><End of Block>
 <TextBlock 50 w:26 h:2>
-    Try it
+<Opcode 1 255>    Try it
     Forget it<Close><End of Block>
 <TextBlock 51 w:24 h:1>
 Received 1G.<Close><End of Block>

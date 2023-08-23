@@ -50,5 +50,5 @@ I'm going away.<Delay 20>
 I've had enough of it...!'<Close><End of Block>
 <TextBlock 8 w:42 h:3>
 Do you want to go up?<Delay 10>
-    Yes
+<Opcode 1 255>    Yes
     No<Close><Close><End of Block>

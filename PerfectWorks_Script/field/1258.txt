@@ -37,7 +37,7 @@ Can't see the flying
 saucer today.<Delay 10> Aa~h!<Close><End of Block>
 <TextBlock 14 w:54 h:4>
 Wanna know about the flying
-saucer? Then just ask me!
+saucer? Then just ask me!<Delay 10>
 <Opcode 1 255>    Tell me
     Never mind<Close><End of Block>
 <TextBlock 15 w:56 h:29>

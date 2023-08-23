@@ -57,8 +57,8 @@ It's almost time for
 the festival. I wonder
 if it'll be crowded?<Close><End of Block>
 <TextBlock 17 w:64 h:3>
-Are you here for the Tournament?
-    Yes
+Are you here for the Tournament?<Delay 10>
+<Opcode 1 255>    Yes
     Huh?<Close><End of Block>
 <TextBlock 18 w:50 h:4>
 Yeah, well I'm glad. The
@@ -101,8 +101,8 @@ who was that?<New>
 Oh yeah!
 I remember!<Opcode 2 100><Close><End of Block>
 <TextBlock 25 w:38 h:3>
-Prince Bartholomew?
-    Yes!
+Prince Bartholomew?<Delay 10>
+<Opcode 1 255>    Yes!
     Don't know him!<Close><End of Block>
 <TextBlock 26 w:46 h:4>
 Hmm...<Delay 60>
@@ -137,8 +137,8 @@ It's been a while since
 we have had so many
 visitors.<Close><End of Block>
 <TextBlock 30 w:56 h:3>
-Do you already have a hotel?
-    Yes
+Do you already have a hotel?<Delay 10>
+<Opcode 1 255>    Yes
     Not yet<Close><End of Block>
 <TextBlock 31 w:40 h:2>
 Really? Too bad.
@@ -163,8 +163,8 @@ short supply.<Close><End of Block>
 <TextBlock 36 w:38 h:5>
 Welcome!<Delay 20>
 Are you going to
-the festival plaza?
-    Yes
+the festival plaza?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 37 w:50 h:4>
 Just between you n' me...<New>
@@ -226,12 +226,12 @@ You're buggin' me,
 get outta here!<Close><End of Block>
 <TextBlock 53 w:34 h:4>
 Hey! Hey, man!
-Will you feed us?
-    Sure
+Will you feed us?<Delay 10>
+<Opcode 1 255>    Sure
     Well...<Close><End of Block>
-<TextBlock 54 w:36 h:3>
-Then lend me 1000G
-    Sure
+<TextBlock 54 w:38 h:3>
+Then lend me 1000G.<Delay 10>
+<Opcode 1 255>    Sure
     No way<Close><End of Block>
 <TextBlock 55 w:6 h:1>
 !!<Opcode 2 30><Close><End of Block>
@@ -263,10 +263,10 @@ Any monster fangs? <Delay 15>
 Any monster eyeballs? <Delay 15>
 Any monster scales? <Delay 15><New>
 We'll buy 'em all for
-a good price. <Opcode 2 60><Close><End of Block>
+a good price.<Opcode 2 60><Close><End of Block>
 <TextBlock 64 w:46 h:5>
-What do you wanna sell?
-    Fang     150G
+What do you wanna sell?<Delay 10>
+<Opcode 1 255>    Fang     150G
     Eyeball  300G
     Scale    600G
     No way<Close><End of Block>
@@ -292,18 +292,18 @@ hottest you can find.<New>
 You'll be spitting fire.
 Try one.<Close><End of Block>
 <TextBlock 72 w:36 h:3>
-10G for one.
-    Buy one
+10G for one.<Delay 10>
+<Opcode 1 255>    Buy one
     Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 73 w:36 h:4>
 Alright.
-How about 9G?
-    Buy one
+How about 9G?<Delay 10>
+<Opcode 1 255>    Buy one
     Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 74 w:36 h:4>
 Just try one.
-8G?
-    Buy one
+8G?<Delay 10>
+<Opcode 1 255>    Buy one
     Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 75 w:54 h:3>
 Hey, you can't carry any
@@ -331,8 +331,8 @@ Long bananas!<Delay 20>
 Good for body and soul!<Delay 20>
 Buy some bananas!<Opcode 2 60><Close><End of Block>
 <TextBlock 81 w:40 h:3>
-Did you bring money?
-    Yes
+Did you bring money?<Delay 10>
+<Opcode 1 255>    Yes
     No<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 82 w:36 h:1>
 Bring some money. <Close><Opcode 2 80><Close><End of Block>
@@ -345,19 +345,19 @@ You can't find better
 bananas than these.<Close><End of Block>
 <TextBlock 84 w:50 h:4>
 You seem like a nice guy,
-so only 10G for a bunch!
-    Buy some
+so only 10G for a bunch!<Delay 10>
+<Opcode 1 255>    Buy some
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 85 w:36 h:4>
 They're delicious!<Delay 50>
-How about 9G?
-    Buy some
+How about 9G?<Delay 10>
+<Opcode 1 255>    Buy some
     Don't buy any <Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 86 w:46 h:5>
 Okay, a special!
 Two bunches, 16G.
-How about it, handsome?
-    Buy some
+How about it, handsome?<Delay 10>
+<Opcode 1 255>    Buy some
     Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 87 w:46 h:2>
 Hey, you have too much
@@ -393,18 +393,18 @@ like these anywhere else.<New>
 Deep red berries grown
 with Av spring water.<Close><End of Block>
 <TextBlock 95 w:36 h:3>
-One box 10G.
-    Buy some
+One box 10G.<Delay 10>
+<Opcode 1 255>    Buy some
     Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 96 w:36 h:4>
 Alright,
-I can go 9G.
-    Buy some
+I can go 9G.<Delay 10>
+<Opcode 1 255>    Buy some
     Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 97 w:42 h:4>
 Okay then, 8G.
-I can't go any lower.
-    Buy some
+I can't go any lower.<Delay 10>
+<Opcode 1 255>    Buy some
     Don't buy any<Opcode 13 255><Opcode 2 1><Close><End of Block>
 <TextBlock 98 w:46 h:2>
 Hey, you've got too
@@ -510,8 +510,8 @@ If we don't they'll take
 over and kill or make
 slaves of everyone.<Close><End of Block>
 <TextBlock 131 w:28 h:3>
-Right?
-    Yep
+Right?<Delay 10>
+<Opcode 1 255>    Yep
     Not really<Close><End of Block>
 <TextBlock 132 w:30 h:2>
 I'm gonna be a
@@ -529,8 +529,8 @@ around, here.<Close><End of Block>
 <TextBlock 135 w:46 h:5>
 If you use this box you
 can climb up fast.
-Use it?
-    Use it
+Use it?<Delay 10>
+<Opcode 1 255>    Use it
     Don't need it<Close><End of Block>
 <TextBlock 136 w:24 h:1>
 It'll be 5G.<Close><End of Block>
@@ -550,8 +550,8 @@ to do?<Close><End of Block>
 I wonder...<Delay 30>
 where's he hiding?<Close><End of Block>
 <TextBlock 141 w:40 h:3>
-Can you help me too?
-    Okay
+Can you help me too?<Delay 10>
+<Opcode 1 255>    Okay
     I'm busy<Close><End of Block>
 <TextBlock 142 w:48 h:4>
 Thanks.
@@ -572,8 +572,8 @@ I'll hide somewhere.<Close><End of Block>
 Ah, you found me.<Close><End of Block>
 <TextBlock 147 w:46 h:4>
 We're playing hide-and-
-seek. You wanna play?
-    Play
+seek. You wanna play?<Delay 10>
+<Opcode 1 255>    Play
     No thanks<Close><End of Block>
 <TextBlock 148 w:42 h:3>
 When you leave I'll
@@ -659,8 +659,8 @@ I've got it.
 I'm in charge of the
 Waterworks Association.<Close><End of Block>
 <TextBlock 159 w:60 h:4>
-What will you do with the key?
-    Search underground
+What will you do with the key?<Delay 10>
+<Opcode 1 255>    Search underground
     Rescue Margie
     Steal from the castle<Close><End of Block>
 <TextBlock 160 w:42 h:2>

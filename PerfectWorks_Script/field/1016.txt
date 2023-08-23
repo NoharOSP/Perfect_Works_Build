@@ -5,7 +5,7 @@ is as good as new. All we<New>
 need is a new disk so we
 can listen to it<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 2 w:40 h:1>
-Pfh, <Delay 5>ah hah hah hah!<Opcode 2 45><Close><End of Block>
+Pff, <Delay 5>ah hah hah hah!<Opcode 2 45><Close><End of Block>
 <TextBlock 3 w:48 h:3>
 That's the new waitress
 that's supposed to start
@@ -62,7 +62,7 @@ I'm not used to this<Delay 5>...<Delay 5>
 *sob*...<Close><End of Block>
 <TextBlock 13 w:42 h:3>
 Um<Delay 5>...<Delay 5> Change members?<Delay 15>
-    No
+<Opcode 1 255>    No
     Change party<Close><End of Block>
 <TextBlock 14 w:44 h:4>
 No way<Delay 5>...<Delay 5> *Sniffle*<Delay 5>...<Delay 5>
@@ -88,10 +88,10 @@ It seems I arrived after
 the infamous Champ was 
 already taken down<Delay 15>
 ...<Delay 5>oouuhh.<Close><End of Block>
-<TextBlock 18 w:48 h:3>
-So<Delay 5>...<Delay 5>cute.<Delay 30>
-Kniqupnii.<Delay 5> It's too much
-for me!<Close><End of Block>
+<TextBlock 18 w:46 h:3>
+So<Delay 5>...<Delay 5>cute.<Delay 30> Those paw
+pads are soooo soft.<Delay 5>
+It's too much for me!<Close><End of Block>
 <TextBlock 19 w:38 h:1>
 Don't you think so?<Close><End of Block>
 <TextBlock 20 w:36 h:1>
@@ -169,21 +169,21 @@ And<Delay 5> leave the cat alone!<Close><End of Block>
 Maybe with this we can
 listen to it?<Close><End of Block>
 <TextBlock 37 w:32 h:3>
-See if it works?
-    Don't
+See if it works?<Delay 10>
+<Opcode 1 255>    Don't
     Listen<Close><End of Block>
 <TextBlock 38 w:42 h:2>
 <Delay 5>...<Delay 5>A jukebox. There's
 only one disk<Delay 5>...<Close><End of Block>
 <TextBlock 39 w:32 h:3>
-See if it works?
-    Don't
+See if it works?<Delay 10>
+<Opcode 1 255>    Don't
     Listen<Close><End of Block>
 <TextBlock 40 w:42 h:1>
 The disk seems broken<Close><End of Block>
 <TextBlock 41 w:26 h:9>
-<Opcode 1 255>Change music
-    Themes
+Change music
+<Opcode 1 255>    Themes
     Battle
     Dungeons
     Nature

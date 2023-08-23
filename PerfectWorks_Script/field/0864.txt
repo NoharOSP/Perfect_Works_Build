@@ -10,8 +10,8 @@ I'll show you the truth.<Close><End of Block>
 This is great. <Delay 30>
 The three fat stooges!<Close><End of Block>
 <TextBlock 3 w:22 h:3>
-Finished?
-    Yes
+Finished?<Delay 10>
+<Opcode 1 255>    Yes
     Not Yet<Close><End of Block>
 <TextBlock 4 w:40 h:1>
 The exit's that way.<Close><Close><End of Block>

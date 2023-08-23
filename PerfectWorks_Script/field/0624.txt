@@ -91,7 +91,7 @@ you make of it.<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 But, do you want to hear
 my prediction again? Eh?<Delay 20>
-    Yeah, from the top!
+<Opcode 1 255>    Yeah, from the top!
     No, enough already!<Close><End of Block>
 <TextBlock 14 w:36 h:4>
 Oh good!
@@ -205,7 +205,7 @@ You idiots...<Delay 20>
 *Hic*...<Close><End of Block>
 <TextBlock 24 w:64 h:4>
 You got a problem, boy?<Delay 20>
-    No... Go, go, go for it!!
+<Opcode 1 255>    No... Go, go, go for it!!
     Yeah... I hate drunks!
     Drinking won't help matters!<Close><End of Block>
 <TextBlock 25 w:48 h:3>

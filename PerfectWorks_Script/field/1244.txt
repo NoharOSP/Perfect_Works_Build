@@ -7,8 +7,8 @@
 <TextBlock 4 w:44 h:5>
 What're you runnin'
 around for? Don't know
-where to go, eh?
-    That's right
+where to go, eh?<Delay 10>
+<Opcode 1 255>    That's right
     No, I'm fine<Close><End of Block>
 <TextBlock 5 w:40 h:3>
 Hmph!

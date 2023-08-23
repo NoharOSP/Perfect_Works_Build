@@ -54,7 +54,7 @@ Hah hah.<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 By the way, Fei. What
 do you think of Lahan?<Delay 20>
-    I like it
+<Opcode 1 255>    I like it
     I don't dislike it...<Close><End of Block>
 <TextBlock 10 w:48 h:2>
 Ah, yes.<Delay 20> It makes me

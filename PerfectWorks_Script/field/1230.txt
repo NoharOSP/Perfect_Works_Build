@@ -19,7 +19,7 @@ You got lucky."<Close><End of Block>
 Big Joe
 "Hey, hey. You
 disturbin' our amore time?"<New>
-    Yes
+<Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 6 w:48 h:3>
 Big Joe

@@ -68,6 +68,6 @@ Maria
 We can go down by entering
 the shaft from here."<Close><End of Block>
 <TextBlock 15 w:42 h:3>
-Do you want to go up?
-    Yes
+Do you want to go up?<Delay 10>
+<Opcode 1 255>    Yes
     No<Close><Close><End of Block>

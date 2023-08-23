@@ -47,7 +47,7 @@ Margie seemed worried."<Close><End of Block>
 "Okay.
 I'll come chu!"<Close><End of Block>
 <TextBlock 8 w:48 h:5>
-What do you want to do?
+What do you want to do?<Delay 10>
 <Opcode 1 255>    View Gear from here
     View Gear from front
     Hear lowdown on Gear
@@ -208,8 +208,8 @@ Go eat some food
 and take a nap or
 sumthin'!<Close><End of Block>
 <TextBlock 17 w:48 h:3>
-Change this Gear's name?
-    Yes
+Change this Gear's name?<Delay 10>
+<Opcode 1 255>    Yes
     Not now<Close><End of Block>
 <TextBlock 18 w:42 h:4>
 Hmm, <Chu-Chu> isn't

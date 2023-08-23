@@ -135,17 +135,17 @@ Elly
 "Fei..."<Close><End of Block>
 <TextBlock 25 w:30 h:3>
 Save your data?<Delay 30>
-    Save
+<Opcode 1 255>    Save
     Don't save<Close><End of Block>
 <TextBlock 26 w:22 h:3>
 Resume?<Delay 30>
-    Wait
+<Opcode 1 255>    Wait
     Resume <Delay 15><Close><End of Block>
 <TextBlock 27 w:38 h:3>
-    Go to the menu?
+<Opcode 1 255>    Go to the menu
     Member change
     Resume <Delay 15><Close><End of Block>
 <TextBlock 28 w:22 h:3>
 Resume?<Delay 30>
-    Wait
+<Opcode 1 255>    Wait
     Resume <Delay 15><Close><Close><End of Block>
