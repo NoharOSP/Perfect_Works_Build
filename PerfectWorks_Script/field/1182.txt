@@ -336,72 +336,11 @@ tomorrow..."<Close><End of Block>
 <TextBlock 51 w:12 h:2>
 Sigurd
 "..."<Close><End of Block>
-<TextBlock 52 w:50 h:4>
+<TextBlock 52 w:42 h:4>
 Jessie
 "The keywords are
 Nikola,<Delay 10> Maria, <Delay 10>and
-a giant Gear<Delay 10>...<Delay 5> Hmm!<New>
-Hey! Fei, wasn't it?
-I hear from Hyuga you're
-some Gear prodigy. Is
-that right?<New>
-Well, I bet four-eyes
-never told you all there
-is to know about
-'Hyper Mode', huh?<New>
-I knew it! I can tell
-from that puzzled look!
-Hyuga always was weak in
-the piloting department.<New>
-Could talk all day about
-how they're made, but
-never about how to use
-'em!<New>
-Basically, when you get
-comfortable fighting in
-the flesh,<New>
-you can then take those
-techniques and apply them
-to Gears.<New>
-This lets you reach higher
-Attack Levels with the
-Gears.<New>
-Attack Level can normally
-go up to 3, though I bet
-you're already aware of
-this, kid.<New>
-But if you sit on Level
-3, you have a chance to
-reach even higher.
-That's Hyper Mode.<New>
-You get immense power at
-your fingertips, letting
-you rip 'em a new one or
-charge fuel faster.<New>
-It doesn't last forever <-->
-it's usually a short
-burst of power.<New>
-Yet the effect seemed to
-last twice as long for
-Billy when I taught him...<New>
-No one really gets exactly
-what makes Hyper Mode
-happen, though.<New>
-Some people say it's
-desperation <--> the will
-to live kickin' in.<New>
-If things are getting
-tough, you might wanna
-try your luck with it.<New>
-Reckon it might just
-save your life.<New>
-Thank me? Ha!<Delay 30> You can
-thank me by not dying, now
-that I've shared my wisdom
-with the new generation!<New>
-That, or bring me the
-most expensive booze you
-can buy!<Delay 30> Ha, ha, ha, ha!"<Close><End of Block>
+a giant Gear<Delay 10>...<Delay 5> Hmm!"<Close><End of Block>
 <TextBlock 53 w:52 h:4>
 Jessie
 "Just goes to show that
