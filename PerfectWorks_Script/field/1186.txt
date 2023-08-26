@@ -173,7 +173,7 @@ ourselves true freedom!!"<Close><End of Block>
 Sigurd
 "Ready to go to Sargasso?"<Delay 10>
 <Opcode 1 255>    Sure!
-    Wait a minute!<Close><End of Block>
+    Not yet<Close><End of Block>
 <TextBlock 25 w:42 h:3>
 Sigurd
 "It seems Fei isn't

@@ -257,7 +257,7 @@ anything about it?"<Close><End of Block>
 <TextBlock 53 w:42 h:3>
 Hans
 "We do indeed <-->
-it's Sargasso point."<Close><End of Block>
+it's Sargasso Point."<Close><End of Block>
 <TextBlock 54 w:32 h:3>
 Captain
 "What?<Delay 10> It's
@@ -393,7 +393,7 @@ there but a small mine."<Close><End of Block>
 <TextBlock 76 w:52 h:4>
 Hans
 "Since our work with the
-Church has deep sixed
+Church has deep-sixed
 we've lost our 'porpoise'!<New>
 Guess we'll just have to
 stick with wandering the

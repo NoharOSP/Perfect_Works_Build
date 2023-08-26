@@ -1,26 +1,28 @@
-<TextBlock 1 w:34 h:1>
-...sniff...sniff.<Close><End of Block>
+<TextBlock 1 w:40 h:1>
+...*Sniff, sniff*...<Close><End of Block>
 <TextBlock 2 w:50 h:3>
 Don't tell anyone I'm
 keeping a pet down here.<New>
 I found him on the
 outskirts of Lahan on the
 verge of death.<New>
-But, look at him now.<Close><End of Block>
-<TextBlock 3 w:34 h:2>
-He is gone now...<Delay 40>
-and...left this.<Close><End of Block>
-<TextBlock 4 w:54 h:4>
-...This guy,<Delay 30> no matter
-how much I tell him, he
-won't understand...Hey! He,<Delay 30>
-he's...Damn...<Delay 30>sob...<Close><End of Block>
+But look at him now.<Close><End of Block>
+<TextBlock 3 w:38 h:2>
+That guy's gone
+now...<Delay 20>and left him.<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+...This dog,<Delay 30> no matter
+how often I tell him that
+guy's not here anymore,
+he won't understand...<New>
+Hey, you! He's...<Delay 30> He's...<Delay 30>
+Damn...<Delay 30> *Sob*...<Close><End of Block>
 <TextBlock 5 w:46 h:3>
 He's gone...<New>
 The dog he owned keeps
-waiting for him to come
-home at the entrance,<New>
-always waiting for him
-...always.<Close><End of Block>
-<TextBlock 6 w:42 h:1>
-"Hey it's...dog food"<Close><Close><End of Block>
+waiting at the entrance
+for him to come home.<New>
+Always waiting for
+him...<Delay 40> Always.<Close><End of Block>
+<TextBlock 6 w:46 h:1>
+"Hey, it's...<Delay 10>dog food."<Close><Close><End of Block>
