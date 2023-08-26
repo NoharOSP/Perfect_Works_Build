@@ -137,10 +137,10 @@ His owner died recently.
 ...He still doesn't know,
 so he always waits for his
 master's return..."<Close><End of Block>
-<TextBlock 29 w:36 h:1>
-"...*Whimper*..."<Close><End of Block>
-<TextBlock 30 w:32 h:1>
-"...*Whimper*."<Opcode 2 30><Close><End of Block>
+<TextBlock 29 w:30 h:1>
+...*Whimper*...<Close><End of Block>
+<TextBlock 30 w:26 h:1>
+...*Whimper*.<Opcode 2 30><Close><End of Block>
 <TextBlock 31 w:32 h:2>
 Initiating
 decontamination.<Opcode 2 30><Close><End of Block>

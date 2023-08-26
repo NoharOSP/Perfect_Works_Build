@@ -11,10 +11,11 @@ Fei
 <TextBlock 4 w:28 h:2>
 Fei
 "Scared me..."<Close><End of Block>
-<TextBlock 5 w:46 h:3>
-"Go out once.
-By the time you return,
-I'll reset it."<Close><End of Block>
+<TextBlock 5 w:38 h:4>
+Step outside for a
+moment.<Delay 10> By the time
+you get back, I'll
+have reset it.<Close><End of Block>
 <TextBlock 6 w:26 h:2>
 <Opcode 1 255>    Switch on
     Forget it<Close><End of Block>

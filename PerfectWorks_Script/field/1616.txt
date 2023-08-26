@@ -108,4 +108,4 @@ After all, she is your
 'daughter'..."<Close><End of Block>
 <TextBlock 16 w:26 h:2>
 Girl
-"A-<Delay 5>A-<Delay 5>Ahhh!!"<Close><Close><End of Block>
+"A-<Delay 5>A-<Delay 5>Aagh!!"<Close><Close><End of Block>
