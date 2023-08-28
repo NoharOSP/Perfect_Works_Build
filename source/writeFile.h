@@ -17,7 +17,7 @@ class writeFile
 {
 	// Global methods
 public:
-	writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats, bool expgold, bool monsters, bool encounters, bool fastnew, bool arena);
+	writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats, bool expgold, bool monsters, bool encounters, bool fastnew, bool arena, bool portraits);
 	virtual ~writeFile();
 	CTOCArray arTOC;
 	void allTrue();
@@ -28,6 +28,7 @@ public:
 	void doEncounters();
 	void doFast();
 	void doArena();
+	void doPortraits();
 	void preprocess(std::string fileName);
 	void goHome();
 	bool process(CFile *romFile, CFile *statsFile, UINT nPosition);
@@ -48,5 +49,6 @@ public:
 	bool wf_encounters;
 	bool wf_fast;
 	bool wf_arena;
+	bool wf_portraits;
 };
 

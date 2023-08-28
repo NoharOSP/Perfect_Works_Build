@@ -343,6 +343,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			// Check for ticked boxes
 			if (patchPathValid) {
 				if (p_encounters) {
+					// Check if items/spells and script patches aren't selected to avoid compatibility issues. Otherwise, writeFile will apply encounter files
 					if (!p_items_spells && !p_script) {
 						if (!scriptExists) {
 							if (pathFound1) {
@@ -355,6 +356,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					}
 				}
 				if (p_exp_gold) {
+					// Check if items/spells and script patches aren't selected to avoid compatibility issues. Otherwise, writeFile will apply exp/gold files
 					if (!p_script && !p_items_spells) {
 						if (!scriptExists) {
 							if (pathFound1) {
@@ -371,6 +373,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						fastName1 = "cd1_fast_text_new_script.xdelta";
 					}
 					if (pathFound2) {
+						// Disc 2 will use the same patch regardless of whether the script patch has been applied as it has no cutscenes with auto-advance
 						fastName2 = "cd2_fast_text.xdelta";
 					}
 					
@@ -422,6 +425,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					}
 				}
 				if (p_monsters) {
+					// Check if items/spells and script patches aren't selected to avoid compatibility issues. Otherwise, writeFile will apply monster files
 					if (!p_script && !p_items_spells) {
 						if (!scriptExists) {
 							if (pathFound1) {
@@ -435,6 +439,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 				if (p_script) {
 					if (pathFound1) {
+						// Check if items/spells and script hybrid patch won't be applied
 						if (!p_items_spells) {
 							scriptName1 = "cd1_script.xdelta";
 							if (!pc1.undubCheck(path1)) {
@@ -443,6 +448,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 					}
 					if (pathFound2) {
+						// Check if script hybrid patches with items/spells and/or arena won't be applied
 						if (!p_items_spells && !p_arena) {
 							scriptName2 = "cd2_script.xdelta";
 							if (!pc2.undubCheck(path2)) {
@@ -452,6 +458,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					}
 				}
 				if (p_stats) {
+					// Check if items/spells and script patches aren't selected to avoid compatibility issues. Otherwise, writeFile will apply stat files
 					if (!p_items_spells && !p_script) {
 						if (!scriptExists) {
 							if (pathFound1) {
@@ -465,6 +472,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 				if (p_arena) {
 					if (pathFound1) {
+						// Check if items/spells and script patches aren't selected to avoid compatibility issues. Otherwise, writeFile will apply arena files
 						if (!p_items_spells && !p_script) {
 							if (!scriptExists) {
 								arenaName1 = "cd1_battling_arena.xdelta";
@@ -488,7 +496,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 				if (p_portraits) {
 					if (pathFound1) {
-						portraitsName1 = "cd1_portraits.xdelta";
+						/* Check if script patches aren't selected to avoid compatibility issues. Otherwise, writeFile will apply portrait files. 
+						This mainly applies to disc 1 due to an error with the Solaris emergence cutscene*/
+						if (!p_script) {
+							portraitsName1 = "cd1_portraits.xdelta";
+						}
 					}
 					if (pathFound2) {
 						portraitsName2 = "cd2_portraits.xdelta";
@@ -509,17 +521,17 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				if (scriptExists) {
 					p_script = true;
 				}
-				if (p_stats || p_exp_gold || p_monsters || p_encounters || p_fastnew || p_arena) {
+				if (p_stats || p_exp_gold || p_monsters || p_encounters || p_fastnew || p_arena || p_portraits) {
 					if (p_script || p_items_spells) {
 						SetWindowText(hWnd, L"Finishing...");
 						if (changed == false) {
 							changed = true;
 						}
 						if (pathFound1) {
-							writeFile wf1(hWnd, home, newPath1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_arena);
+							writeFile wf1(hWnd, home, newPath1, 1, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_arena, p_portraits);
 						}
 						if (pathFound2) {
-							writeFile wf2(hWnd, home, newPath2, 2, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_arena);
+							writeFile wf2(hWnd, home, newPath2, 2, p_items_spells, p_script, p_stats, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_arena, p_portraits);
 						}
 					}
 				}
@@ -531,7 +543,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				clearText();
 			}
 			else {
-				MessageBox(hWnd, L"Could not find directory for 'patches'.", L"Error", MB_ICONERROR);
+				MessageBox(hWnd, L"Could not find directory for 'patches'. Check repo for latest version.", L"Error", MB_ICONERROR);
 			}
 		}
 		    break;

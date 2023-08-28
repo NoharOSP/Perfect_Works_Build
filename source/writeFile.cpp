@@ -3,7 +3,7 @@
 
 
 
-writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats, bool exp_gold, bool monsters, bool encounters, bool fastnew, bool arena)
+writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats, bool exp_gold, bool monsters, bool encounters, bool fastnew, bool arena, bool portraits)
 {
 	dir = home;
 	discName = cd;
@@ -17,6 +17,7 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	wf_encounters = encounters;
 	wf_fast = fastnew;
 	wf_arena = arena;
+	wf_portraits = portraits;
 	// Move to the "shared_files" directory
 	std::filesystem::current_path(dir);
 	if (std::filesystem::exists("\patches")) {
@@ -25,11 +26,11 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 			std::filesystem::current_path("\shared_files");
 		}
 		else {
-			MessageBox(wind, L"Could not find directory for 'shared_files'.", L"Error", MB_ICONERROR);
+			MessageBox(wind, L"Could not find directory for 'shared_files'. Check repo for latest version.", L"Error", MB_ICONERROR);
 		}
 	}
 	else {
-		MessageBox(wind, L"Could not find directory for 'patches'.", L"Error", MB_ICONERROR);
+		MessageBox(wind, L"Could not find directory for 'patches'. Check repo for latest version.", L"Error", MB_ICONERROR);
 	}
 	// Determine if the script, stats and items/spells patches have all been ticked
 	if (itemsspells && script && stats) {
@@ -63,6 +64,10 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	if (arena) {
 		doArena();
 	}
+	// Determine if the portraits patch has been ticked
+	if (portraits) {
+		doPortraits();
+	}
 }
 
 
@@ -78,7 +83,7 @@ void writeFile::allTrue() {
 		std::filesystem::current_path("\items_script_stats");
 	}
 	else {
-		MessageBox(wind, L"Could not find directory for 'items_script_stats'.", L"Error", MB_ICONERROR);
+		MessageBox(wind, L"Could not find directory for 'items_script_stats'. Check repo for latest version.", L"Error", MB_ICONERROR);
 	}
 	preprocess("2595");
 }
@@ -90,7 +95,7 @@ void writeFile::noScript() {
 		std::filesystem::current_path("\items_stats");
 	}
 	else {
-		MessageBox(wind, L"Could not find directory for 'items_stats'.", L"Error", MB_ICONERROR);
+		MessageBox(wind, L"Could not find directory for 'items_stats'. Check repo for latest version.", L"Error", MB_ICONERROR);
 	}
 	preprocess("2595");
 }
@@ -102,7 +107,7 @@ void writeFile::noItems() {
 		std::filesystem::current_path("\script_stats");
 	}
 	else {
-		MessageBox(wind, L"Could not find directory for 'script_stats'.", L"Error", MB_ICONERROR);
+		MessageBox(wind, L"Could not find directory for 'script_stats'. Check repo for latest version.", L"Error", MB_ICONERROR);
 	}
 	preprocess("2595");
 }
@@ -115,7 +120,7 @@ void writeFile::doExpGold() {
 			std::filesystem::current_path("\exp_gold_items");
 		}
 		else {
-			MessageBox(wind, L"Could not find directory for 'exp_gold_items'.", L"Error", MB_ICONERROR);
+			MessageBox(wind, L"Could not find directory for 'exp_gold_items'. Check repo for latest version.", L"Error", MB_ICONERROR);
 		}
 		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
 			std::string fileName = entry.path().string();
@@ -130,7 +135,7 @@ void writeFile::doExpGold() {
 			std::filesystem::current_path("\exp_gold_script");
 		}
 		else {
-			MessageBox(wind, L"Could not find directory for 'exp_gold_script'.", L"Error", MB_ICONERROR);
+			MessageBox(wind, L"Could not find directory for 'exp_gold_script'. Check repo for latest version.", L"Error", MB_ICONERROR);
 		}
 		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
 			std::string fileName = entry.path().string();
@@ -145,7 +150,7 @@ void writeFile::doExpGold() {
 			std::filesystem::current_path("\exp_gold_both");
 		}
 		else {
-			MessageBox(wind, L"Could not find directory for 'exp_gold_both'.", L"Error", MB_ICONERROR);
+			MessageBox(wind, L"Could not find directory for 'exp_gold_both'. Check repo for latest version.", L"Error", MB_ICONERROR);
 		}
 		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
 			std::string fileName = entry.path().string();
@@ -163,7 +168,7 @@ void writeFile::doMonsters() {
 			std::filesystem::current_path("\monsters_items");
 		}
 		else {
-			MessageBox(wind, L"Could not find directory for 'monsters_items'.", L"Error", MB_ICONERROR);
+			MessageBox(wind, L"Could not find directory for 'monsters_items'. Check repo for latest version.", L"Error", MB_ICONERROR);
 		}
 		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
 			std::string fileName = entry.path().string();
@@ -178,7 +183,7 @@ void writeFile::doMonsters() {
 			std::filesystem::current_path("\monsters_script");
 		}
 		else {
-			MessageBox(wind, L"Could not find directory for 'monsters_script'.", L"Error", MB_ICONERROR);
+			MessageBox(wind, L"Could not find directory for 'monsters_script'. Check repo for latest version.", L"Error", MB_ICONERROR);
 		}
 		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
 			std::string fileName = entry.path().string();
@@ -193,7 +198,7 @@ void writeFile::doMonsters() {
 			std::filesystem::current_path("\monsters_both");
 		}
 		else {
-			MessageBox(wind, L"Could not find directory for 'monsters_both'.", L"Error", MB_ICONERROR);
+			MessageBox(wind, L"Could not find directory for 'monsters_both'. Check repo for latest version.", L"Error", MB_ICONERROR);
 		}
 		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
 			std::string fileName = entry.path().string();
@@ -218,7 +223,7 @@ void writeFile::doFast() {
 				}
 			}
 			else {
-				MessageBox(wind, L"Could not find directory for 'speed_one'.", L"Error", MB_ICONERROR);
+				MessageBox(wind, L"Could not find directory for 'speed_one'. Check repo for latest version.", L"Error", MB_ICONERROR);
 			}
 		}
 	}
@@ -234,7 +239,7 @@ void writeFile::doEncounters() {
 				std::filesystem::current_path("\encounterone_script");
 			}
 			else {
-				MessageBox(wind, L"Could not find directory for 'encounterone_script'.", L"Error", MB_ICONERROR);
+				MessageBox(wind, L"Could not find directory for 'encounterone_script'. Check repo for latest version.", L"Error", MB_ICONERROR);
 			}
 		}
 		else if (discNum == 2) {
@@ -243,7 +248,7 @@ void writeFile::doEncounters() {
 				std::filesystem::current_path("\encountertwo_script");
 			}
 			else {
-				MessageBox(wind, L"Could not find directory for 'encountertwo_script'.", L"Error", MB_ICONERROR);
+				MessageBox(wind, L"Could not find directory for 'encountertwo_script'. Check repo for latest version.", L"Error", MB_ICONERROR);
 			}
 		}
 		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
@@ -271,7 +276,7 @@ void writeFile::doArena() {
 					}
 				}
 				else {
-					MessageBox(wind, L"Could not find directory for 'Gear'.", L"Error", MB_ICONERROR);
+					MessageBox(wind, L"Could not find directory for 'Gear'. Check repo for latest version.", L"Error", MB_ICONERROR);
 				}
 				goHome();
 				std::filesystem::current_path("\kislev_battle");
@@ -286,7 +291,7 @@ void writeFile::doArena() {
 						}
 					}
 					else {
-						MessageBox(wind, L"Could not find directory for 'Misc_script'.", L"Error", MB_ICONERROR);
+						MessageBox(wind, L"Could not find directory for 'Misc_script'. Check repo for latest version.", L"Error", MB_ICONERROR);
 					}
 				}
 				// Check for shared files between the items/spells and arena patches
@@ -300,12 +305,33 @@ void writeFile::doArena() {
 						}
 					}
 					else {
-						MessageBox(wind, L"Could not find directory for 'Misc_item'.", L"Error", MB_ICONERROR);
+						MessageBox(wind, L"Could not find directory for 'Misc_item'. Check repo for latest version.", L"Error", MB_ICONERROR);
 					}
 				}
 			}
 			else {
-				MessageBox(wind, L"Could not find directory for 'kislev_battle'.", L"Error", MB_ICONERROR);
+				MessageBox(wind, L"Could not find directory for 'kislev_battle'. Check repo for latest version.", L"Error", MB_ICONERROR);
+			}
+		}
+	}
+}
+
+void writeFile::doPortraits() {
+	// Check for shared files between the script and portrait patches
+	if (wf_script) {
+		// Check disc number
+		if (discNum == 1) {
+			goHome();
+			if (std::filesystem::exists("\portraits")) {
+				std::filesystem::current_path("\portraits");
+				for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+					std::string fileName = entry.path().string();
+					std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+					preprocess(finalName);
+				}
+			}
+			else {
+				MessageBox(wind, L"Could not find directory for 'portraits'. Check repo for latest version.", L"Error", MB_ICONERROR);
 			}
 		}
 	}
@@ -427,7 +453,7 @@ void writeFile::goHome() {
 			std::filesystem::current_path("\shared_files");
 		}
 		else {
-			MessageBox(wind, L"Could not find directory for 'shared_files'.", L"Error", MB_ICONERROR);
+			MessageBox(wind, L"Could not find directory for 'shared_files'. Check repo for latest version.", L"Error", MB_ICONERROR);
 		}
 	}
 }
