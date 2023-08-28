@@ -3,7 +3,7 @@ Fei
 "Huh?
 This one won't
 open either."<Close><End of Block>
-<TextBlock 2 w:54 h:2>
+<TextBlock 2 w:54 h:3>
 Fei
 "What in the world 
 IS this facility?"<Close><End of Block>
@@ -22,7 +22,7 @@ those old Gazel fogies?"<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Fei
 "You mean the 
-demi-humans getting 
+demi-humans getting<New>
 cannibalized at the 
 factory were too?"<Close><End of Block>
 <TextBlock 7 w:36 h:3>
@@ -58,7 +58,7 @@ Fei
 "Doc... Citan!"<Opcode 2 40><Close><End of Block>
 <TextBlock 16 w:16 h:3>
 Fei
-"Damn!
+"Damn!<New>
 They got 
 us!"<Close><End of Block>
 <TextBlock 17 w:30 h:3>
@@ -76,15 +76,16 @@ door lock's release
 code?)<Opcode 2 5><Close><End of Block>
 <TextBlock 20 w:44 h:3>
 Elly
-"But that's...How 
-could humans live 
-for 10,000 years?"<Close><End of Block>
+"But that's...<New>
+How could humans 
+live for 10,000 
+years?"<Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Elly
 "Individual bio-data 
 is transmitted via the 
-memory cubes every time 
-a record is taken,<New>
+memory cubes every time<New> 
+a record is taken,
 to be put to use for the 
 Ministry's physical 
 resurrection!?"<Close><End of Block>
@@ -165,17 +166,17 @@ Citan
 Citan
 "Originally this was 
 a facility used in part 
-for the Gazel Ministry's 
-longevity research.<New>
+for the Gazel Ministry's<New>
+longevity research.
 The Emperor, who reigns 
 over them, is one who 
-has lived on since 
+has lived on since<New> 
 primordial times and 
 cannot be allowed 
 to die."<Close><End of Block>
 <TextBlock 33 w:52 h:4>
 Citan
-"Yes...<Delay 30>10,000 years ago.
+"Yes...<Delay 30>10,000 years ago.<New>
 Creatures called humans 
 were born upon this 
 earth.<New>
@@ -187,14 +188,15 @@ Gazel Ministry.<Close><End of Block>
 Citan
 "Naturally, that was 
 only one person, the 
-Emperor. He is a human 
+Emperor.<New> 
+He is a human 
 whose destiny is to 
 never die.<New>
 But the Gazel's destiny 
 was different.<New>
 Due to the war with 
 the former 
-surface-dwellers... 
+surface-dwellers...<New>
 or, rather, because of 
 the Diabolos' invasion,<Delay 30>
 the old men of Gazel lost 
@@ -248,12 +250,12 @@ Citan
 <TextBlock 38 w:12 h:2>
 Citan
 "Yes."<Close><End of Block>
-<TextBlock 39 w:50 h:3>
+<TextBlock 39 w:50 h:4>
 Citan
 "I suppose it's like 
 reusing the unusable 
 dregs."<Close><End of Block>
-<TextBlock 40 w:28 h:2>
+<TextBlock 40 w:28 h:3>
 Fei
 "Hold up,
 Doc."<Close><End of Block>
