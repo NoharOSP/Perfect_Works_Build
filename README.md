@@ -1,10 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.3.2 here:
-
-- Google Drive: https://drive.google.com/file/d/1icaoTZNLwWmmr3aS6aMbkLS8TJP8kNFe/view?usp=sharing
-- MEGA: https://mega.nz/file/PDAAgBAK#rMOaZJ7n1iN1PF0wnk9Plbt9NLMY5rS9jta83OrZXcI
+Download version 0.3.3 here:
+- Google Drive: https://drive.google.com/file/d/1MBauh9qvMsosWNvczd5wav2wWI1teWEd/view?usp=sharing
+- MEGA: https://mega.nz/file/ufIjVCYY#TxnCyJUwUm-kv6G72C3uEGxm4TdaxggIVM7uPHLNBYk
 
 ## Instructions:
 
@@ -47,6 +46,22 @@ Hello. My name is Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito. I am a character 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.3.3:
+
+09/03/2023
+
+- Heimdall and Siebzehn use their corrected names in the frame descriptions.
+- "El" prefix is now used for Andvari and Fenrir in the frame descriptions.
+- Users are now notified to download the latest release when an error occurs.
+- Citan conversation to Fei and Elly about the Gazel Ministry doesn't advance as quickly.
+- Tear/Neo Tears' tech description now states that they are more powerful when they are alone.
+- Wind Shaver name glitch in the arena gear select has been fixed.
+- Dedicated Perfect Works Build font is now used for FMVs.
+- Hyper Mode tutorial has been moved to after Shevat.
+- Delay in the opening crawler is less severe when the fast text patch is used.
+- Updates to Billy and Rico's gears in the battle arena.
+- Fixed game freeze when Solaris emerges which occurs when played on consoles with both script and portrait patches applied.
 
 ### Version 0.3.2:
 
@@ -239,6 +254,11 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 ## Archive:
 
 ### Builds:
+
+## Version 0.3.2:
+
+- Google Drive: https://drive.google.com/file/d/1icaoTZNLwWmmr3aS6aMbkLS8TJP8kNFe/view?usp=sharing
+- MEGA: https://mega.nz/file/PDAAgBAK#rMOaZJ7n1iN1PF0wnk9Plbt9NLMY5rS9jta83OrZXcI
 
 ## Version 0.3.1:
 
