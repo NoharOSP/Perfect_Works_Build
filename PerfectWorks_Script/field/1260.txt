@@ -59,8 +59,8 @@ sometimes."<Close><End of Block>
 <TextBlock 11 w:14 h:1>
 Later!!<Opcode 2 20><Close><End of Block>
 <TextBlock 12 w:46 h:2>
-Hey,<Delay 10> you didn't
-find me, that's no fun!<Close><End of Block>
+I'm bored,<Delay 10> 'cause my
+brother can't find me!<Close><End of Block>
 <TextBlock 13 w:40 h:3>
 You want some candy?<Delay 10>
 <Opcode 1 255>    Yah, gimme some

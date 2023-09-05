@@ -114,14 +114,14 @@ Where is everyone hiding?<Close><End of Block>
 I wonder if Uncle Stone
 will come back and play? <Close><End of Block>
 <TextBlock 28 w:48 h:1>
-You won't find me again!<Close><End of Block>
+I still can't find them!<Close><End of Block>
 <TextBlock 29 w:42 h:2>
 Billy plays hide-and-
 seek sometimes too.<Close><End of Block>
-<TextBlock 30 w:46 h:3>
-Hey, where is everyone?
-Whisper to me where
-they're hiding.<Close><End of Block>
+<TextBlock 30 w:44 h:3>
+Hey, where is everyone
+hiding? You could just
+tell me secretly.<Close><End of Block>
 <TextBlock 31 w:26 h:2>
 Good children
 "Yes!!"<Opcode 2 60><Close><End of Block>
