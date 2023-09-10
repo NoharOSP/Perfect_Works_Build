@@ -14,9 +14,10 @@ a problem<Delay 5>..."<Close><End of Block>
 Roni
 "Look, I'll watch over her,
 so you go sleep.<New>
-What will we do if you also
-fall ill?<Delay 15> Do not forget you
-are the head of the sect's
+What're we gonna do if you 
+also fall ill?<New>
+<Delay 15>Don't forget you're
+the head of the sect's
 military forces."<Close><End of Block>
 <TextBlock 4 w:50 h:3>
 Karellen
