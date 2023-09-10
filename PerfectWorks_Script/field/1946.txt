@@ -85,7 +85,7 @@ and you'll be much
 more safe."<Close><End of Block>
 <TextBlock 19 w:48 h:6>
 I lied...<Delay 30>
-I wasn't out of paint.<Delay 15>
+I wasn't out of paint--<Delay 15>
 I just feared I would
 finish the portrait.<Delay 15>
 I wanted to keep on
