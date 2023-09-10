@@ -81,7 +81,7 @@ So, do you still want to go
 now!?"<Close><End of Block>
 <TextBlock 14 w:24 h:2>
 Elly
-"W,<Delay 10> well<Delay 5>..."<Close><End of Block>
+"W-<Delay 10> well<Delay 5>..."<Close><End of Block>
 <TextBlock 15 w:54 h:3>
 Fei
 "You can't even kill one
@@ -175,7 +175,7 @@ Margie
 Bart
 "Um<Delay 10>...<Delay 5>no...<Delay 10>
 I<Delay 10> mean<Delay 5>...
-errh..."<Close><End of Block>
+uh..."<Close><End of Block>
 <TextBlock 34 w:46 h:3>
 Maison
 "Young Master, don't
