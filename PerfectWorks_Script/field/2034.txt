@@ -43,7 +43,7 @@ Fei
 <TextBlock 11 w:46 h:4>
 Bart
 "What are you babbling
-on about!?<Delay 20>
+about!?<Delay 20>
 Snap out of it, Elly!!"<Close><End of Block>
 <TextBlock 12 w:46 h:4>
 Elly
@@ -68,14 +68,14 @@ its own will to take control
 of a targeted planet.<Delay 20> But you
 should've known this much from
 looking at the Raziel records.<New>
-Anyway, during a test run,
+During a test run,
 Deus became uncontrollable.
 It released its power and
 annihilated a whole planet.<New>
 The creators of 'Deus' found
 its immeasurable power to be
-too much of a threat and hence
-forcibly shut it down.<New>
+too much of a threat, and 
+hence forcibly shut it down.<New>
 In order to analyze the cause
 of the problem, its core was
 dismantled and placed on an
@@ -253,8 +253,8 @@ people are destined to
 become parts for Deus.<New>
 But you people gathered
 here are all different.<New>
-You could say...you
-escaped that destiny by
+You could say you...
+'escaped' that destiny by
 existing through multiple
 generations...<New>
 In actuality, there wasn't
