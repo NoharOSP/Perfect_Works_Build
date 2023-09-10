@@ -380,7 +380,7 @@ Roni
 empty.<Delay 15> Then why do you
 come along with us?<New>
 What we've been doing
-up till now,<Delay 5> are not
+up till now,<Delay 5> ain't
 just acts of mercy<Delay 5>...<Delay 15>
 It's a fight for freedom.<New>
 Time and again you've
@@ -419,7 +419,7 @@ Lacan
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 68 w:54 h:4>
 Roni
-"It is just that you're not
+"It's just that you're not
 good at expressing your own
 feelings.<New>
 You're not empty.<Delay 15>
@@ -470,8 +470,9 @@ Karellen
 "That's ridiculous!"<Close><End of Block>
 <TextBlock 78 w:54 h:4>
 Karellen
-"The refugees are still
-increasing! <Delay 5>We can't afford
+"The number of refugees is
+still increasing!<New> 
+<Delay 5>We can't afford
 to have Sophia leave Nisan!<New>
 And <Delay 5>going to Soylent!<Delay 5>
 That's plain foolish!<Delay 10>
