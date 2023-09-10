@@ -119,7 +119,7 @@ are weaklings."<Close><End of Block>
 Margie
 "Although, it is true
 I can't help Bart and
-friends much anymore<Delay 5>..."<Close><End of Block>
+friends much more<Delay 5>..."<Close><End of Block>
 <TextBlock 20 w:50 h:4>
 Elly
 "That's not true.<Delay 15>
