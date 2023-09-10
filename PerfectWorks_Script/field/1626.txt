@@ -4,12 +4,15 @@ Elly
 <TextBlock 2 w:46 h:3>
 Fei
 "Yeah.<Delay 10>
-It was just so sudden."<Close><End of Block>
+Close shave,<New>
+but we made it."<Close><End of Block>
 <TextBlock 3 w:42 h:2>
 Fei
-"We gotta get moving!<New>
-Those weird robots
-are coming after us!"<Close><End of Block>
+"What?<New>
+I thought we were
+done with this!<New>
+Those robots are
+still coming!"<Close><End of Block>
 <TextBlock 4 w:40 h:3>
 Fei
 "...?<Delay 10>
