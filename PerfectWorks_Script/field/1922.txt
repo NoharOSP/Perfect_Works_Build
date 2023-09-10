@@ -113,7 +113,7 @@ since then...<New>
 That is what you are now!<Close><End of Block>
 <TextBlock 30 w:32 h:2>
 Him? 
-You mean father?<Close><End of Block>
+You mean Father?<Close><End of Block>
 <TextBlock 31 w:40 h:2>
 You call him father?<New>
 He who never did
