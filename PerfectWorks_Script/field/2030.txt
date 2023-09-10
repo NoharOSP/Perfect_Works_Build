@@ -10,8 +10,8 @@ the system!!"<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Bart
 "Citan, wait!!<New>
-We are only endangering
-ourselves!<Delay 20>
+We are only putting
+ourselves in danger!<Delay 20>
 Let's get outta here
 for now!!"<Close><End of Block>
 <TextBlock 4 w:50 h:3>
