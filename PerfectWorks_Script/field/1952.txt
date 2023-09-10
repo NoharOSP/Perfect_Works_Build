@@ -135,15 +135,16 @@ under control."<Close><End of Block>
 <TextBlock 28 w:54 h:4>
 Karellen
 "In the event of the
-explosion in the capital
-of Solaris earlier...<New>
+explosion in the Capital
+of Solaris actually<New>
+happening earlier...
 ...I had set up a nano-
 machine virus to diffuse
 into the atmosphere.<New>
 I knew they were eventually
 going to break the seal<Delay 5>...<Delay 15>
 But the timing was a little
-close for comfort<Delay 5>...<New>
+too close for comfort<Delay 5>...<New>
 The current mutations of
 the humans are an initial
 response to the virus<Delay 5>...<New>
@@ -178,5 +179,6 @@ Myyah
 "<Delay 5>...<Delay 5>Either way is fine by
 me.<New>
 I will just side with
-whichever is the more
-certain one anyway<Delay 5>...<Delay 5>"<Close><Close><End of Block>
+whichever is the more<New>
+certain victor 
+anyway<Delay 5>...<Delay 5>"<Close><Close><End of Block>
