@@ -24,7 +24,7 @@ Fei
 happened<Delay 5>...<Delay 10> Forgive me...<Delay 10>
 But,<Delay 5> I want to explain...<New>
 Now<Delay 10> for the first time,<Delay 10>
-people, on both earth and
+people, on both Earth and
 Solaris, are becoming one.<New>
 But then,<Delay 10> not all of them<Delay 10>
 are strong like the crew
@@ -190,7 +190,7 @@ it, it was morning..."<Close><End of Block>
 <Delay 2>.<Delay 2>.<Delay 2>.<Close><End of Block>
 <TextBlock 25 w:38 h:2>
 Fei
-"W,<Delay 5> well,<Delay 10> I'm off."<Close><End of Block>
+"W-<Delay 5> well,<Delay 10> I'm off."<Close><End of Block>
 <TextBlock 26 w:34 h:3>
 Elly
 "Alright then<Delay 5>...<Delay 10>
