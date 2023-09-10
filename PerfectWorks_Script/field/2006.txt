@@ -108,5 +108,6 @@ Zephyr
 May I ask you something?<New>
 About Elly...<Delay 20>
 What if, even if we break
-Zohar's spell, she doesn't
+the Zohar's spell,<New> 
+she doesn't
 return to normal..."<Close><Close><End of Block>
