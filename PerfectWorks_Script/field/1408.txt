@@ -37,8 +37,9 @@ reason for that child,
 or those dead people?<New>
 It wasn't much of an
 operation. It was
-difficult but there was
-enough chance to win...<New>
+difficult<New> 
+but there was enough 
+of a chance to win...<New>
 We'd have won if we had 
 better equipment...<New>
 That child would have
@@ -52,9 +53,9 @@ hospital.
 The ICU didn't function..."<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Kim
-"Stupid. Just fools.
-Humans, creatures are
-meant to live.<New>
+"Stupid. Just fools.<New>
+Humans and creatures 
+are meant to live.<New>
 Why do they want to
 die out?
 Why do they strangle
