@@ -136,7 +136,7 @@ yet?<New>
 You're a piece of trash.
 And being the reject that
 you are, why don't you just
-leave? <Delay 20>Hah hah hah."<Close><End of Block>
+leave? <Delay 20>Hah!"<Close><End of Block>
 <TextBlock 21 w:54 h:4>
 Myyah
 "Now, what to do with the
