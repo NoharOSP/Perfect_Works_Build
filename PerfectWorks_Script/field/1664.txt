@@ -35,7 +35,7 @@ Elly
 Shall I translate?"<Close><End of Block>
 <TextBlock 9 w:30 h:2>
 Fei
-"Yeah, please."<Close><End of Block>
+"Please do."<Close><End of Block>
 <TextBlock 10 w:4 h:1>
 !?<Opcode 2 20><Close><End of Block>
 <TextBlock 11 w:60 h:4>
