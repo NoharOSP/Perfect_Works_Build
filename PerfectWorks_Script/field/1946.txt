@@ -6,48 +6,49 @@
 "Lacan?"<Close><End of Block>
 <TextBlock 4 w:56 h:4>
 In that dream,
-I was called 'Lacan'<Delay 5>...<Delay 15>
+I was called Lacan<Delay 5>...<Delay 15>
  
 I was an artist<Delay 5>...<New>
-I had become recognized as a
-talented artist and now was
+I was known to be very
+talented, and I was
 painting the portrait of the
-Nisan Mother, 'Sophia'<Delay 5>...<Close><End of Block>
+Nisan Mother, Sophia.<Delay 5><Close><End of Block>
 <TextBlock 5 w:30 h:3>
 Lacan
-"Huh<Delay 5>...<Delay 5>no,<Delay 10>
-it is nothing."<Close><End of Block>
+"Oh, uh<Delay 5>...<Delay 5>no,<Delay 10>
+it's nothing."<Close><End of Block>
 <TextBlock 6 w:56 h:3>
-"<Delay 5>...<Delay 5>Let us finish for today.<Delay 30>
+"<Delay 5>...<Delay 5>Let's stop for today.<Delay 30>
 You look rather tired.<Delay 15>
 <Delay 5>...<Delay 5>Are you alright?"<Close><End of Block>
 <TextBlock 7 w:50 h:4>
 Lacan
-"I am fine,<Delay 5> thank you<Delay 5>...<Delay 15>
+"I am fine,<Delay 5> thank you.<Delay 15>
 But,<Delay 5> now that you mention
 it<Delay 5>..."<Close><End of Block>
 <TextBlock 8 w:54 h:4>
 Lacan
-"Shall we stop for the day?<Delay 20>
+"let's stop for the day.<Delay 20>
 You must be the one who is
-tired,<Delay 5> 'Mother Sophia'?"<Close><End of Block>
+tired,<Delay 5> 'Mother Sophia'."<Close><End of Block>
 <TextBlock 9 w:44 h:2>
 Sophia
-"Enough of that, now."<Close><End of Block>
+"Oh,<New>
+for goodness sake..."<Close><End of Block>
 <TextBlock 10 w:54 h:4>
 Sophia
-"When it is just the two of
-us, would you stop calling
-me that.<New>
+"Would you stop calling me
+that when it's just the two
+of us?<New>
 Just call me 'Elly'<Delay 5>...<Delay 15> As
 you used to do in the old
-days<Delay 5>...<Delay 30> And you don't have
+days.<Delay 30> And you don't have
 to be so stiff and formal."<Close><End of Block>
 <TextBlock 11 w:54 h:4>
 Lacan
-"Oh, <Delay 5>errh, <Delay 10>alright.<Delay 15>
-Very wel<Delay 5>...<Delay 5>no, I mean<Delay 5>...<Delay 5>
-Yes,<Delay 5> let's do that<Delay 5> 'Elly'!"<Close><End of Block>
+"Oh, <Delay 5>um, <Delay 10>alright.<Delay 15>
+Very well<Delay 5>...<Delay 5>er, I mean<Delay 5>...<Delay 5>
+Sure,<Delay 5> 'Elly'..."<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Lacan
 "I think I might go back
@@ -56,7 +57,7 @@ only for a week or so."<Close><End of Block>
 <TextBlock 13 w:40 h:3>
 Elly
 "Oh,<Delay 5> really?<Delay 5>
-What is the matter?"<Close><End of Block>
+What's the matter?"<Close><End of Block>
 <TextBlock 14 w:42 h:4>
 Lacan
 "I ran out of paint.<Delay 15>
@@ -68,7 +69,8 @@ Elly
 way<Delay 5>...<Delay 5>just to do that?"<Close><End of Block>
 <TextBlock 16 w:44 h:4>
 Lacan
-"If I don't go there,<Delay 5>
+"If I don't go back
+home,<Delay 5><New>
 I won't be able to get
 the right pigments."<Close><End of Block>
 <TextBlock 17 w:42 h:4>
@@ -84,21 +86,23 @@ Elly
 and you'll be much
 more safe."<Close><End of Block>
 <TextBlock 19 w:48 h:6>
-I lied...<Delay 30>
+I lied to her<Delay 30>
 I wasn't out of paint--<Delay 15>
 I just feared I would
-finish the portrait.<Delay 15>
+finish the portrait.<Delay 15><New>
 I wanted to keep on
-painting<Delay 5>...<Delay 5>forever.<New>
+painting her<Delay 5>...<Delay 5>
+forever.<New>
 So I wanted to buy
 time<Delay 5>...<Delay 15>
 She'd probably despise
 me for that<Delay 5>...<New>
 No,<Delay 5>
+who am I kidding...
 she'd probably just
 give me her usual smile.<Delay 15>
-She was that kind of
-woman<Delay 5>...<Close><End of Block>
+She was just that kind 
+of woman<Delay 5>...<Close><End of Block>
 <TextBlock 20 w:28 h:1>
 <Delay 5>...<Delay 5>La<Delay 5>...<Delay 5>can<Delay 5>...<Close><End of Block>
 <TextBlock 21 w:46 h:1>
@@ -107,49 +111,51 @@ woman<Delay 5>...<Close><End of Block>
 "Lacan?"<Close><End of Block>
 <TextBlock 23 w:58 h:4>
 In that dream,<Delay 5>
-I was called 'Sophia'<Delay 5>...<Delay 15>
+I was called Sophia.<Delay 15>
  
-Mother Sophia<Delay 5>...<New>
-A symbolic name<Delay 5>...<Delay 15>
-Crowned upon the person who
-would be the people's hope<Delay 5>...<New>
+Mother Sophia.<New>
+A symbolic name<Delay 15>
+crowned upon the person who
+would be the hope of the
+people.<Delay 5><New>
 A name I was destined to have<Delay 5>
-Whether I wanted it or not<Delay 5>...<Close><End of Block>
+whether I wished for it or not.<Close><End of Block>
 <TextBlock 24 w:30 h:3>
 Lacan
-"Huh<Delay 5>...<Delay 5>no,<Delay 10>
-it is nothing."<Close><End of Block>
+"Oh, uh<Delay 5>...<Delay 5>no,<Delay 10>
+it's nothing."<Close><End of Block>
 <TextBlock 25 w:56 h:3>
-"<Delay 5>...<Delay 5>Let us finish for today.<Delay 30>
+"<Delay 5>...<Delay 5>Let's stop for today.<Delay 30>
 You look rather tired.<Delay 15>
 <Delay 5>...<Delay 5>Are you alright?"<Close><End of Block>
 <TextBlock 26 w:50 h:4>
 Lacan
-"I am fine,<Delay 5> thank you<Delay 5>...<Delay 15>
+"I am fine,<Delay 5> thank you.<Delay 15>
 But,<Delay 5> now that you mention
 it<Delay 5>..."<Close><End of Block>
 <TextBlock 27 w:54 h:4>
 Lacan
-"Shall we stop for the day?<Delay 20>
+"let's stop for the day.<Delay 20>
 You must be the one who is
-tired,<Delay 5> 'Mother Sophia'?"<Close><End of Block>
+tired,<Delay 5> 'Mother Sophia'."<Close><End of Block>
 <TextBlock 28 w:44 h:2>
 Sophia
-"Enough of that, now."<Close><End of Block>
+"Oh,<New>
+for goodness sake..."<Close><End of Block>
 <TextBlock 29 w:54 h:4>
 Sophia
-"When it is just the two of
-us, would you stop calling
-me that.<New>
+"Would you stop calling me
+that when it's just the two
+of us?<New>
 Just call me 'Elly'<Delay 5>...<Delay 15> As
 you used to do in the old
-days<Delay 5>...<Delay 30> And you don't have
+days.<Delay 30> And you don't have
 to be so stiff and formal."<Close><End of Block>
 <TextBlock 30 w:54 h:4>
 Lacan
-"Oh, <Delay 5>errh, <Delay 10>alright.<Delay 15>
-Very wel<Delay 5>...<Delay 5>no, I mean<Delay 5>...<Delay 5>
-Yes,<Delay 5> let's do that<Delay 5> 'Elly'!"<Close><End of Block>
+"Oh, <Delay 5>um, <Delay 10>alright.<Delay 15>
+Very well<Delay 5>...<Delay 5>er, I mean<Delay 5>...<Delay 5>
+Sure,<Delay 5> 'Elly'..."<Close><End of Block>
 <TextBlock 31 w:48 h:4>
 Lacan
 "I think I might go back
@@ -170,7 +176,8 @@ Elly
 way<Delay 5>...<Delay 5>just to do that?"<Close><End of Block>
 <TextBlock 35 w:44 h:4>
 Lacan
-"If I don't go there,<Delay 5>
+"If I don't go back
+home,<Delay 5><New>
 I won't be able to get
 the right pigments."<Close><End of Block>
 <TextBlock 36 w:42 h:4>
@@ -188,21 +195,21 @@ more safe."<Close><End of Block>
 <TextBlock 38 w:64 h:9>
 I wonder when it started<Delay 5>...<Delay 30>
  
-That he started refusing me<Delay 5>...<Delay 15>
+Him rejecting me<Delay 5>...<Delay 15>
 The walls between us<Delay 5>...<Delay 30>
-Our 'positions'<Delay 5>...<Delay 5>
-Our 'circumstances'<Delay 5>...<Delay 15>
+Our positions<Delay 5>...<Delay 5>
+Our circumstances<Delay 5>...<Delay 15>
 He refused to recognize these<Delay 5>...<Delay 45>
  
-No<Delay 5>...<Delay 5>maybe it was me<Delay 5>...<Close><End of Block>
+No<Delay 5>...<Delay 5>maybe it was me.<Close><End of Block>
 <TextBlock 39 w:56 h:11>
-Therefore<Delay 5>...<Delay 5>
-I didn't want them<Delay 5>...<Delay 30>
+Those walls<Delay 5>...<Delay 5>
+I didn't want them.<Delay 30>
  
 I wanted the two of us
 to be ourselves<Delay 5>...<Delay 45>
  
-That is what I wished for<Delay 5>...<Delay 15>
+That is what I wished for.<Delay 15>
 So,<Delay 5>
 I had him paint me<Delay 5>...<Delay 30>
  
