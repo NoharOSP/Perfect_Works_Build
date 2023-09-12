@@ -194,7 +194,7 @@ Torah
 "Well, I suppose
 rather difficult for
 you to understand...<New>
-But in short, it means
+In short, it means
 that the manifestation of
 your second personality,
 'Id', can be suppressed."<Close><End of Block>
@@ -204,25 +204,24 @@ Fei
 mean Id's..."<Close><End of Block>
 <TextBlock 40 w:16 h:4>
 Elly
-"There had
-to be a 
-way..."<Close><End of Block>
+"That's..."<Close><End of Block>
 <TextBlock 41 w:54 h:4>
 Torah
-"Well, it's all theoretical
-though...<Delay 10> Oh, and I did one
-more thing as well...!<New>
-I installed the same
-control device in your
-Gear..."<Close><End of Block>
+"Well, it's all only 
+theoretical.<Delay 10><New> 
+Oh, and I did one
+more thing as well!<New>
+I went ahead and installed 
+the same control device 
+in your Gear."<Close><End of Block>
 <TextBlock 42 w:46 h:3>
 Citan
 "You mean, it can
-release Id at will...?"<Close><End of Block>
+summon Id at will...?"<Close><End of Block>
 <TextBlock 43 w:48 h:4>
 Torah
 "Yes.<Delay 10>
-I called it 'System Id'.<New>
+I call it 'System Id'.<New>
 But of course, such an
 extreme manipulation of
 your psyche will take a
@@ -238,15 +237,17 @@ I..."<Close><End of Block>
 <TextBlock 45 w:52 h:4>
 Citan
 "Fei,<Delay 10> there was nothing
-you could do...<New>
-It will never happen again
-with Torah's technology
-though. He is one of the
+you could've done...<New>
+And now, it will never happen 
+again with Torah's technology.<New> 
+He is one of the
 three Shevat sages."<Close><End of Block>
 <TextBlock 46 w:48 h:3>
 Torah
-"Whether you believe it
-or not, it's up to you."<Close><End of Block>
+"Regardless,<New> 
+it's your choice 
+whether or not to
+use it."<Close><End of Block>
 <TextBlock 47 w:10 h:2>
 Fei
 "..."<Close><End of Block>
@@ -262,14 +263,14 @@ Torah
 "I thought so..."<Close><End of Block>
 <TextBlock 51 w:54 h:4>
 Torah
-"So, you were the one who
-brought Fei and his girl
-to me...<New>
+"You were the one who
+brought Fei and the girl
+to me.<New>
 I realized it the minute
 I saw the two of them.<Delay 10>
-Why, how could I help but
-notice...<New>
-They looked the spitting
+Why, how could I not
+notice...?<New>
+They are the spitting
 image of you and<Delay 5> her.<Delay 10>
 Yes, just as you yourselves
 looked way back then<Delay 5>..."<Close><End of Block>
