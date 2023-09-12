@@ -3,12 +3,12 @@ Fei
 "I knew it was you..."<Close><End of Block>
 <TextBlock 2 w:18 h:2>
 Elly
-"Fei...?"<Close><End of Block>
+"Huh?"<Close><End of Block>
 <TextBlock 3 w:50 h:3>
 Fei
 "When you came in the
 room just then...<New>
-I was afraid you may have
+I was afraid you might've
 forgotten about me and
 everything else..."<Close><End of Block>
 <TextBlock 4 w:44 h:2>
@@ -17,27 +17,27 @@ Elly
 <TextBlock 5 w:50 h:4>
 Fei
 "I mean...because...
-Elly, you seemed a little
+Elly, you seemed...
 different than before..."<Close><End of Block>
 <TextBlock 6 w:48 h:2>
 Elly
-"Has my face<Delay 10>...changed?"<Close><End of Block>
+"Do I<Delay 10>... look different?"<Close><End of Block>
 <TextBlock 7 w:42 h:3>
 Fei
 "No, that's not it...
 It's more like..."<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Fei
-"I mean your atmosphere or
-impression is different...<Delay 30>
-just a little..."<Close><End of Block>
+"the aura you give off is
+different...<Delay 30>
+Just a little..."<Close><End of Block>
 <TextBlock 9 w:48 h:3>
 Fei
-"But, I felt something
-familiar...<New>
+"But.. I've felt like that
+before...<New>
 I felt the same way when
 I met you for the first
-time...<New>
+time.<New>
 Some peculiar feeling
 like we've met before,
 somewhere..."<Close><End of Block>
@@ -46,7 +46,7 @@ Elly
 "Fei..."<Close><End of Block>
 <TextBlock 11 w:12 h:2>
 Fei
-"Yes?"<Close><End of Block>
+"Yeah?"<Close><End of Block>
 <TextBlock 12 w:44 h:4>
 Elly
 "I don't remember much
@@ -59,8 +59,8 @@ Fei
 Elly
 "But I heard someone
 calling my name...<New>
-I felt I was covered with<Delay 10>
-something very warm...<New>
+and I felt like I was covered 
+with<Delay 10> something very warm...<New>
 I remember that clearly..."<Close><End of Block>
 <TextBlock 15 w:10 h:2>
 Fei
@@ -73,19 +73,19 @@ Fei
 "Elly..."<Close><End of Block>
 <TextBlock 18 w:16 h:2>
 Elly
-"..."<Close><End of Block>
+"Fei..."<Close><End of Block>
 <TextBlock 19 w:44 h:3>
 Torah
-"Hey, it's almost time
-for you to come back.<New>
+"Hey! Time for you
+young'uns to come back!<New>
 There's something
-important we need to
+important I need to
 talk to you about."<Close><End of Block>
 <TextBlock 20 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 21 w:28 h:3>
 Fei
-"A-<Delay 5>alright,<Delay 5>
+"A-<Delay 5>Alright,<Delay 5>
 we're coming!"<Close><End of Block>
 <TextBlock 22 w:30 h:4>
 Fei
@@ -94,7 +94,7 @@ shall we go
 see what's up?"<Close><End of Block>
 <TextBlock 23 w:24 h:2>
 Elly
-"S-<Delay 5>sure..."<Close><End of Block>
+"S-<Delay 5>Sure..."<Close><End of Block>
 <TextBlock 24 w:52 h:3>
 Citan
 "Are you sure you want to
