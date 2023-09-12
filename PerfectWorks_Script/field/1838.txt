@@ -109,81 +109,89 @@ we...?"<Close><End of Block>
 <TextBlock 26 w:42 h:3>
 Torah
 "How do you feel now?<New>
-The fresh forest air
-should have refreshed
-you somewhat, heh?"<Close><End of Block>
+The fresh forest air's
+nice and rejuvenating,
+eh?"<Close><End of Block>
 <TextBlock 27 w:44 h:4>
 Torah
-"Anyway...
-It's about the removal
-of the seal...<New>
+"Now, let's get right
+to it.<New>
+I called you back to
+talk about the
+potential of
+removing the seal...<New>
 I found out it can be
-released by using the
-Nanotechnology that
-regenerated you two."<Close><End of Block>
+released by using the<New>
+same nanotechnology 
+that regenerated you 
+two."<Close><End of Block>
 <TextBlock 28 w:46 h:3>
 Torah
-"The Nanoassemblers are
+"The nanoassemblers are
 enclosed in this pod."<Close><End of Block>
 <TextBlock 29 w:54 h:3>
 Citan
-"If only we could scatter
-them all over the world..."<Close><End of Block>
+"We would like to scatter
+them all over the world,<New>
+but doing so may prove
+difficult..."<Close><End of Block>
 <TextBlock 30 w:54 h:4>
 Torah
 "There's an ancient
 military installation
-nearby...<New>
+nearby.<New>
 We might be able to use the
-'Mass-driver' located in
+'Mass Driver' located in
 there to launch this pod
 into the upper atmosphere.<New>
-Once the Nanoassemblers
+Once the nanoassemblers
 are released up there, the
 convection currents should
-spread 'em over the world!"<Close><End of Block>
+spread them over the world."<Close><End of Block>
 <TextBlock 31 w:54 h:4>
 Torah
 "I wish I could go do it...
-but I am getting much too
+but I'm getting much too
 old for that type of thing.<New>
 Then again, it's for your
-future.<Delay 10> An old man should
-not butt in. You young ones
-must do it for yourselves!"<Close><End of Block>
+future--<Delay 10> an old man
+like myself shouldn't butt in.<New> 
+You young'uns
+must do it yourselves!"<Close><End of Block>
 <TextBlock 32 w:14 h:2>
 Torah
 "Here."<Close><End of Block>
 <TextBlock 33 w:38 h:4>
 Torah
-"And, of course,
+"And of course,
 I'm not asking you
 to do it for free.<New>
 Try this wrist band
 on."<Close><End of Block>
-<TextBlock 34 w:3 h:1>
-?<Close><End of Block>
+<TextBlock 34 w:10 h:1>
+...?<Close><End of Block>
 <TextBlock 35 w:30 h:2>
 Citan
 "What is that?"<Close><End of Block>
 <TextBlock 36 w:54 h:4>
 Torah
 "This is an 'Emotion
-Control Device' in which
-nanotechnology is applied.<New>
-From this machine shaped as
-a wrist band, nanomachines
-are infused through your
-epidermis into your brain.<New>
-There they refine the SSRI
+Regulation Device',<New> 
+a piece of tech that uses 
+nanotechnology.<New>
+Shaped like a wristband,
+the device infuses
+nanomachines into the brain
+through the epidermis.<New>
+There, they regulate the SSRI
 intracerebral substances,
 such as Serotonin, that
 control emotions."<Close><End of Block>
-<TextBlock 37 w:4 h:1>
-?<Delay 5>?<Opcode 2 15><Close><End of Block>
+<TextBlock 37 w:10 h:1>
+Uh<Delay 5>...?<Opcode 2 15><Close><End of Block>
 <TextBlock 38 w:50 h:4>
 Torah
-"Well, I suppose it's
+"Well, I suppose
 rather difficult for
 you to understand...<New>
 But in short, it means
