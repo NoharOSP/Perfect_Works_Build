@@ -2,8 +2,8 @@
 Dreaming<Delay 5>...<Delay 45>
  
 I was dreaming<Delay 5>...<Delay 15>
-Perhaps it may have been
-but a long forgotten memory<Delay 5>...<Delay 30>
+Or perhaps it was a 
+long-forgotten memory<Delay 5>...<Delay 30>
  
 A dream<Delay 5>...<Delay 15>
 A memory<Delay 5>...<Close><End of Block>
@@ -37,7 +37,7 @@ To my own existence<Delay 5>...<Delay 45>
 I dreamt such a dream<Delay 5>...<Delay 30>
  
 A long<Delay 5>...<Delay 15>
-Never-ending<Delay 15>
+long<Delay 15>
 dream<Delay 5>...<Close><End of Block>
 <TextBlock 4 w:50 h:8>
 'Elly'<Delay 5>...<Delay 45>
@@ -45,16 +45,16 @@ dream<Delay 5>...<Close><End of Block>
 It was a time when she
 went by such a name.<Delay 15>
 A time when we had met
-up with one another<Delay 5>...<Delay 15>
+up with one another.<Delay 15>
 A time when nothing
-mattered between us<Delay 5>...<New>
+mattered between us.<New>
  
 It was better that way<Delay 5>...<Delay 15>
 Just two people,<Delay 5>
 together<Delay 5>...<Delay 45>
  
-It was better to have
-left it that way<Delay 5>...<Close><End of Block>
+And that was all
+we needed.<Close><End of Block>
 <TextBlock 5 w:52 h:8>
 Dreams<Delay 5>...<Delay 45>
  
@@ -65,8 +65,8 @@ other men<Delay 5>...<Delay 30>
  
 All but dreams<Delay 5>...<Close><End of Block>
 <TextBlock 6 w:52 h:8>
-Now that I am awake,<Delay 5>
-those countless numbers of
+Now that I'm awake,<Delay 5>
+those countless
 long,<Delay 5> heartrending<Delay 5> dreams
 are almost impossible to
 remember at all<Delay 5>...<New>
@@ -74,14 +74,14 @@ remember at all<Delay 5>...<New>
 In those dreams,<Delay 5>
 I loved one woman<Delay 5>...<Delay 15>
 No matter the day,<Delay 15>
-No matter the era<Delay 5>...<Delay 15>
+no matter the era<Delay 5>...<Delay 15>
 That did not change<Delay 5>...<Delay 45>
  
 Nor did her name<Delay 5>...<Close><End of Block>
 <TextBlock 7 w:54 h:12>
 That dream<Delay 5> changed me<Delay 5>...<Delay 30>
 That dream was the catalyst
-for me to resolve what my
+for me to learn what my
 purpose was.<Delay 30>
  
 I think I know now<Delay 5>...<Delay 15>
@@ -96,7 +96,7 @@ A dream<Delay 5>...<Delay 45>
  
 I was dreaming a dream<Delay 5>...<Delay 15>
 Or perhaps it was a memory
-From a distant past<Delay 5>...<Delay 30>
+from a distant past<Delay 5>...<Delay 30>
  
 A dream<Delay 5>...<Delay 15>
 A memory<Delay 5>...<Close><End of Block>
@@ -115,16 +115,16 @@ the two<Delay 5>...<Delay 45>
 Without words,<Delay 5>
 Thoughts cannot be conveyed<Delay 5>...<Delay 10>
 Without thoughts,<Delay 5>
-There are no words<Delay 5>...<Delay 15>
-They are both as vital
-as each other<Delay 5>...<New>
+there are no words<Delay 5>...<Delay 15>
+They both are vital
+to each other<Delay 5>...<New>
 They can never be
 divided<Delay 5>...<Delay 10>
 Like the wings of angels<Delay 5>...<Delay 10>
 Like a man and a woman<Delay 5>...<Close><End of Block>
 <TextBlock 10 w:58 h:13>
 An unchangeable destiny<Delay 5>...<Delay 15>
-Feelings one wishes
+Desires one wishes
 one could change<Delay 5>...<Delay 30>
  
 Meeting with the person
@@ -134,28 +134,29 @@ And watching myself change<Delay 5>...<Delay 45>
 I dreamt such a dream<Delay 5>...<Delay 30>
  
 A long<Delay 5>...<Delay 15>
-Never-ending,<Delay 15>
-Dream<Delay 5>...<Close><End of Block>
+long,<Delay 15>
+dream<Delay 5>...<Close><End of Block>
 <TextBlock 11 w:60 h:7>
-'Elehayym'<Delay 5>...<Delay 45>
+Elehayym<Delay 5>...<Delay 45>
  
-I've always liked that name<Delay 5>...<Delay 15>
-Because, when I first met him,
-that is what he called me<Delay 5>...<Delay 30>
+I liked that name.<Delay 15><New>
+I like it because... when I first 
+met him, that is what he called 
+me<Delay 5>...<Delay 30>
  
-That is my true name<Delay 5>...<Delay 5><Close><End of Block>
+It is my real name.<Delay 5><Close><End of Block>
 <TextBlock 12 w:52 h:8>
 Dreams<Delay 5>...<Delay 45>
  
-A life of a woman named
+The life of a woman named
 Sophia<Delay 5>...<Delay 15>
 And the lives of countless
 other women<Delay 5>...<Delay 30>
  
 All but dreams<Delay 5>...<Close><End of Block>
 <TextBlock 13 w:52 h:8>
-Now that I am awake,<Delay 5>
-those countless numbers of
+Now that I'm awake,<Delay 5>
+those countless
 long,<Delay 5> heartrending<Delay 5> dreams
 are almost impossible to
 remember at all<Delay 5>...<New>
@@ -163,14 +164,14 @@ remember at all<Delay 5>...<New>
 In those dreams,
 I loved one man<Delay 5>...<Delay 15>
 No matter the day,<Delay 15>
-No matter the era<Delay 5>...<Delay 15>
+no matter the era<Delay 5>...<Delay 15>
 That did not change<Delay 5>...<Delay 45>
  
 Only his name<Delay 5>...<Close><End of Block>
 <TextBlock 14 w:54 h:12>
 That dream<Delay 5> changed me<Delay 5>...<Delay 30>
 That dream was the catalyst
-for me to resolve what my
+for me to learn what my
 purpose was.<Delay 30>
  
 I think I know now<Delay 5>...<Delay 15>
@@ -178,7 +179,7 @@ What I have to do<Delay 5>...<Delay 30>
  
 That long, long memory
 of a dream<Delay 5>...<Delay 30>
-That perhaps was
+Perhaps it was
 the memory of my soul<Delay 5>...<Close><End of Block>
 <TextBlock 15 w:62 h:5>
 In order to disperse the nano-
