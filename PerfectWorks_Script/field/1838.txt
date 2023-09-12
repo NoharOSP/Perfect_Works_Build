@@ -44,8 +44,9 @@ Torah
 I heard?"<Close><End of Block>
 <TextBlock 10 w:36 h:3>
 Mysterious old man
-"Hmm...<Delay 10> He's
-finally awake..."<Close><End of Block>
+"Hmm...<Delay 10><New>
+It seems the boy
+is finally awake..."<Close><End of Block>
 <TextBlock 11 w:28 h:1>
 Here you go...<Close><End of Block>
 <TextBlock 12 w:12 h:1>
@@ -62,28 +63,30 @@ in this Nanoreactor
 for three weeks."<Close><End of Block>
 <TextBlock 16 w:32 h:3>
 Fei
-"Nanoreactor?<Delay 10>
-Who are you...?"<Close><End of Block>
+"Nanoreactor...?<Delay 10><New>
+Wait,
+who are you...?"<Close><End of Block>
 <TextBlock 17 w:36 h:2>
 Mysterious old man
-"Me...?"<Close><End of Block>
+"Me?"<Close><End of Block>
 <TextBlock 18 w:40 h:4>
 Mysterious old man
-"I forgot my name...<Delay 10>
+"I've long since 
+forgotten my name...<Delay 10><New>
 Some people call me
-Torah..."<Close><End of Block>
+Torah."<Close><End of Block>
 <TextBlock 19 w:54 h:3>
 Torah
-"You seemed to have
+"You seem to have
 recovered completely.<Delay 10><New>
 Those were terrible wounds,
-but maybe your youth and
-strength helped..."<Close><End of Block>
+but perhaps your youth and
+strength aided you."<Close><End of Block>
 <TextBlock 20 w:50 h:4>
 Torah
 "But your friend's wounds
-are more serious and may
-take a while longer..."<Close><End of Block>
+are more serious. They may
+take a while to heal."<Close><End of Block>
 <TextBlock 21 w:30 h:2>
 Fei
 "My friend...?"<Opcode 2 30><Close><End of Block>
@@ -94,12 +97,13 @@ Fei
 "Elly..."<Close><End of Block>
 <TextBlock 24 w:50 h:4>
 Torah
-"Hey!
+"Young man!
 Quit staring at the naked
 girl and come over here!"<Close><End of Block>
 <TextBlock 25 w:20 h:2>
 Fei
-"Elly...<New>
+"...!<New>
+Elly...<New>
 How did 
 we...?"<Close><End of Block>
 <TextBlock 26 w:42 h:3>
