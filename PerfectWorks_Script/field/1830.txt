@@ -23,25 +23,25 @@ Ol' Man Bal
 <TextBlock 6 w:52 h:3>
 Ol' Man Bal
 "The host for the spirit
-of the slayer of god...<New>
+of the slayer of God...<New>
 I didn't think I would
-ever work on it again...!"<Close><End of Block>
+ever get to work on it 
+again..."<Close><End of Block>
 <TextBlock 7 w:42 h:3>
 Fei
 "But why are you both
-helping me...?"<Close><End of Block>
+helping me?"<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Torah
-"There are some things you
-just can't explain with
-the word<Delay 5>...<Delay 10>fate.<New>
+"You could call it fate...
+but that doesn't quite 
+cover it.<Delay 10><New>
 You're just going to have
-to see it with your own
-eyes."<Close><End of Block>
+to see it for yourself."<Close><End of Block>
 <TextBlock 9 w:16 h:3>
 Emeralda
 "Fei<Delay 5>...<Delay 10>
-Going?"<Close><End of Block>
+going?"<Close><End of Block>
 <TextBlock 10 w:50 h:2>
 Fei
 "Yeah, I'd better hurry!"<Close><End of Block>
@@ -52,9 +52,9 @@ you going?"<Close><End of Block>
 <TextBlock 12 w:30 h:3>
 Shevat Emissary
 "Fei,<Delay 10>
-please hurry!!"<Close><End of Block>
+please hurry!"<Close><End of Block>
 <TextBlock 13 w:26 h:2>
 Fei
-"A,<Delay 10> alright."<Close><End of Block>
+"O-<Delay 10>Okay!"<Close><End of Block>
 <TextBlock 14 w:3 h:1>
  <Close><Close><End of Block>
