@@ -2,55 +2,63 @@
 Torah...<Opcode 2 30><Close><End of Block>
 <TextBlock 2 w:14 h:2>
 Citan
-"Fei!!"<Close><End of Block>
+"Fei!"<Close><End of Block>
 <TextBlock 3 w:14 h:2>
 Fei
-"Doc!!"<Delay 30><Close><End of Block>
+"Doc!"<Delay 30><Close><End of Block>
 <TextBlock 4 w:52 h:4>
 Citan
 "I heard from Torah and
-hurried right over here!<New>
-Boy, was that lucky.<Delay 10>
-You were fortunate to have
-come down near Torah's
+hurried straight here!<New>
+Boy, are you a lucky
+young man...<Delay 10><New>
+You were very fortunate to 
+have landed near Torah's
 research facility<Delay 5>..."<Close><End of Block>
 <TextBlock 5 w:52 h:4>
 Torah
-"Hm...<Delay 5> This is no
-research facility. <Delay 10>
-It is 'a man's hideaway'!"<Close><End of Block>
+"Hmph...<Delay 5> This is no
+research facility-- <Delay 10>
+this is my man cave!"<Close><End of Block>
 <TextBlock 6 w:50 h:3>
 Torah
-"Citan told me about you.<New>
-I was shocked to see a
-couple lying down with
-blood all over them."<Close><End of Block>
+"Citan told me about you,
+young man.<New>
+Imagine my shock...
+stumbling upon a couple
+lying on the ground,<New>
+covered in blood..."<Close><End of Block>
 <TextBlock 7 w:22 h:1>
 A couple...<Close><End of Block>
 <TextBlock 8 w:34 h:4>
 Citan
-"At any rate,
-you had a narrow
-escape.<New>
-Fei, make sure
-you thank Torah!"<Close><End of Block>
+"At any rate,<New>
+you made a very
+narrow escape,
+dear boy.<New>
+Make sure you 
+thank the
+gentleman who
+saved you!"<Close><End of Block>
 <TextBlock 9 w:44 h:4>
 Fei
 "Torah,<Delay 10>
-thank you very much<Delay 5>...<Delay 10>
+thank you so much<Delay 5>...<Delay 10>
 for helping Elly<Delay 5>..."<Close><End of Block>
 <TextBlock 10 w:50 h:4>
 Fei
 "Both Elly and I were
-hurt so badly...<Delay 30>
-What is that machine...?"<Close><End of Block>
+hurt so badly...<Delay 30><New>
+What is that machine,
+anyway?"<Close><End of Block>
 <TextBlock 11 w:54 h:4>
 Torah
-"It's called a nanoreactor.<New>
-It is a device that can
+"It's called a nanoreactor,
+sonny.<New>
+It's a device that can
 rebuild substances at
 the molecular level.<New>
-Not only can it just heal
+And not only can it heal
 humans, but theoretically
 it should also be able to
 create many substances."<Close><End of Block>
@@ -58,8 +66,8 @@ create many substances."<Close><End of Block>
 Fei
 "Is that the same thing
 that guy in Solaris...<New>
-I mean...
-Is that the same thing
+I mean,
+is that the same thing
 Karellen is studying?"<Close><End of Block>
 <TextBlock 13 w:40 h:2>
 Torah
@@ -67,10 +75,10 @@ Torah
 <TextBlock 14 w:50 h:3>
 Torah
 "I<Delay 10> was the one who taught
-Nanotechnology to him..."<Close><End of Block>
+him about nanotechnology."<Close><End of Block>
 <TextBlock 15 w:20 h:2>
 Fei
-"You did?"<Close><End of Block>
+"You were?"<Close><End of Block>
 <TextBlock 16 w:48 h:4>
 Torah
 "We shouldn't waste time
@@ -81,7 +89,8 @@ is done."<Close><End of Block>
 <TextBlock 17 w:34 h:4>
 Torah
 "Oh, you don't
-need to come.<Delay 10>
+need to come,
+sonny.<Delay 10><New>
 Just wait there."<Close><End of Block>
 <TextBlock 18 w:10 h:2>
 Fei
@@ -93,9 +102,7 @@ She will
 be fine."<Close><End of Block>
 <TextBlock 20 w:16 h:2>
 Fei
-"Elly!!<New>
-You're
-okay?"<Close><End of Block>
+"Elly!!"<Close><End of Block>
 <TextBlock 21 w:14 h:3>
 Elly
 "Fei...<Delay 20>
@@ -103,8 +110,8 @@ I..."<Close><End of Block>
 <TextBlock 22 w:50 h:4>
 Torah
 "Ahem! Now, why don't you
-two go get some fresh air
-outside?<New>
+two young'uns go get some 
+fresh air outside?<New>
 It ought to ease the
 shock of the change."<Close><End of Block>
 <TextBlock 23 w:42 h:3>
