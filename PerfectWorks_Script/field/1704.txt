@@ -3,34 +3,41 @@ Fei
 "There's something written
 on the wall..."<Close><End of Block>
 <TextBlock 2 w:34 h:5>
-<Opcode 1 255>View which data?
-    Lock off-code
-    How to input
-    Code specs
-    Nothing<Close><End of Block>
-<TextBlock 3 w:46 h:3>
-Foreign object detector
-lock off-code
-'0101'<New>
-Item 1 lock-off code
-'1001'<New>
-Item 2 lock off-code
-'1111'<Close><End of Block>
-<TextBlock 4 w:52 h:2>
-Input upper row code only.
-Select from 1 to 4.<Close><End of Block>
-<TextBlock 5 w:44 h:3>
+View which data?
+<Opcode 1 255>    Unlock codes
+    Input process
+    Code schema
+    Don't view<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Foreign object scanner
+    unlock code
+      '0101'<New>
+Item 1 unlock code
+      '1001'<New>
+Item 2 unlock code
+      '1111'<Close><End of Block>
+<TextBlock 4 w:46 h:2>
+Toggle the codes 1 to 4
+on the upper row only.<Close><End of Block>
+<TextBlock 5 w:54 h:5>
+A calculation will be made
+based on the values entered
+in the upper row and the
+values of the lower row
+at that time.<Close><End of Block>
+<TextBlock 6 w:46 h:3>
 Select 'End input' to
-see calculation result
-in the lower row.<Close><End of Block>
-<TextBlock 6 w:56 h:4>
-When inputing the upper row,
-according to the value of
-the lower row, the value of
-the lower row is determined.<Close><End of Block>
-<TextBlock 7 w:42 h:2>
-When light is on, 1.
-When light is off, 0.<Close><End of Block>
+show calculation result
+in the lower row.<New>
+The new lower row will
+be used in the next
+calculation, and so on.<New>
+Aim for a calculation
+result that matches the
+desired unlock code.<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+Code value is 1 when
+lit, 0 when unlit.<Close><End of Block>
 <TextBlock 8 w:11 h:4>
 0<=>0=1
 1<=>1=0
