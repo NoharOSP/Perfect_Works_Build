@@ -933,8 +933,8 @@ Very well then,<Delay 15> we
 shall leave it at 
 that.<Close><End of Block>
 <TextBlock 181 w:42 h:2>
-What do you mean...
-he's still alive<Delay 5>...!?<Close><End of Block>
+What!?
+Then he is alive<Delay 5>...<Close><End of Block>
 <TextBlock 182 w:14 h:2>
 Karellen
 "Yes."<Close><End of Block>
@@ -944,18 +944,19 @@ Didn't Ramsus shoot
 him down?<Close><End of Block>
 <TextBlock 184 w:50 h:4>
 Karellen
-"She was riding in the 
+"He did. And
+she was riding in the 
 Gear that he shot down.<New>
 <Delay 10>Her death would be 
 unfortunate."<Close><End of Block>
 <TextBlock 185 w:52 h:3>
 We already have a 
 'mother', do we 
-not<Delay 5>...?<New>
+not?<Delay 5><New>
 Even if she is the
-'Antitype',<Delay 5> as long as we
+Antitype,<Delay 5> as long as we
 have the present 
-'mother'<Delay 5>...<Close><End of Block>
+mother<Delay 5>...<Close><End of Block>
 <TextBlock 186 w:44 h:3>
 Karellen
 "I cannot call 
@@ -963,8 +964,8 @@ that<Delay 5> completion."<Close><End of Block>
 <TextBlock 187 w:52 h:3>
 You are quite concerned 
 with this<Delay 5>...<Delay 5>
-Didn't you cast off your
-<Delay 5>human emotions?<Close><End of Block>
+Did you not cast off 
+your <Delay 5>human emotions?<Close><End of Block>
 <TextBlock 188 w:54 h:4>
 Karellen
 "This is pointless<Delay 5>...<New>
@@ -984,14 +985,14 @@ individuals.<Close><End of Block>
 <TextBlock 190 w:42 h:4>
 Wait a moment<Delay 5>...<Delay 5>
 He has left the 
-crash site,<New>
+crash site<New>
 and is en route 
 to Ignas.<Close><End of Block>
 <TextBlock 191 w:52 h:4>
 Karellen
 "I see.<Delay 10>
-He has left that 
-place.<Delay 5>...<New>
+He has departed from 
+it.<Delay 5>...<New>
 (Which means<Delay 5>...<Delay 5>
 it is only a matter of
 time until the seal 
@@ -1009,17 +1010,17 @@ the girl?<New>
 <Delay 15>The Key is
 beginning to 
 resonate.<New>
-The time of god's 
+The time of God's 
 revival is drawing 
 near.<Close><End of Block>
 <TextBlock 195 w:30 h:4>
 Karellen
 "We can retrieve
-the girl at 
-any time.<New>
+the girl at any 
+time.<New>
 Even if it 
 is not now<Delay 5>...<New>
-<Delay 5>She will come
+<Delay 5>she will come
 to us sooner 
 or later<Delay 5>..."<Close><End of Block>
 <TextBlock 196 w:46 h:4>
