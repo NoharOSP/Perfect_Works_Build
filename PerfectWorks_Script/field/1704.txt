@@ -16,8 +16,8 @@ Item 1 unlock code
       '1001'<New>
 Item 2 unlock code
       '1111'<Close><End of Block>
-<TextBlock 4 w:46 h:2>
-Toggle the codes 1 to 4
+<TextBlock 4 w:44 h:2>
+Toggle values 1 to 4
 on the upper row only.<Close><End of Block>
 <TextBlock 5 w:54 h:5>
 A calculation will be made
@@ -41,8 +41,8 @@ lit, 0 when unlit.<Close><End of Block>
 <TextBlock 8 w:11 h:4>
 0<=>0=1
 1<=>1=0
-1<=>0=0
-0<=>1=0<Close><End of Block>
+1<=>0=1
+0<=>1=1<Close><End of Block>
 <TextBlock 9 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
