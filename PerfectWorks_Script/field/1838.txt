@@ -50,9 +50,10 @@ is finally awake..."<Close><End of Block>
 <TextBlock 11 w:28 h:1>
 Here you go...<Close><End of Block>
 <TextBlock 12 w:12 h:1>
-Mmm...<Close><End of Block>
+Hrrngh...<Close><End of Block>
 <TextBlock 13 w:24 h:1>
-Hmm...hmm...<Close><End of Block>
+What to do...<New>
+Hmm...<Close><End of Block>
 <TextBlock 14 w:34 h:2>
 Fei
 "I'm...healed..."<Opcode 2 20><Close><End of Block>
