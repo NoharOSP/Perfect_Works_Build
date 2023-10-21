@@ -1,0 +1,2325 @@
+<TextBlock 1 w:56 h:4>
+Gate Keeper
+"Beyond here is the 
+competitors' Gear storage 
+paddock.<New>
+Sorry, but to prevent pilots
+cheating, unauthorized entry
+is not permitted."<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Informationist
+"Nothing learned nothing 
+gained. Ask and you shall
+receive<Delay 5>...<Delay 5>perhaps.<New>
+Anyway, 'Battler', what do
+you need to know about the
+Battling Contest?"<Close><End of Block>
+<TextBlock 3 w:50 h:5>
+Informationist
+"What shall I explain?"<Delay 15>
+<Opcode 1 255>    What's Battling?
+    Basic control method?
+    I'm alright thanks!<Close><End of Block>
+<TextBlock 4 w:54 h:6>
+BP-Exchanger Girl
+"What can I do for you?"
+<Opcode 1 255>    Current Battle Points
+    What are Battle Points?
+    Item Exchange
+    Nothing thanks!<Close><End of Block>
+<TextBlock 5 w:46 h:2>
+<Opcode 1 255>CURRENT BP:<Opcode 10 0>
+TOTAL   BP:<Opcode 10 1><Close><End of Block>
+<TextBlock 6 w:58 h:6>
+BP-Exchanger Girl
+"Battle Points are what you
+earn each time you win a
+battle.<Delay 15> 
+There are two types of
+records kept.<New>
+First, 
+'Current BP'<Delay 30>
+This represents the current 
+number of Battle Points you 
+have obtained.<New>
+You are able to exchange
+'Current BP' for prizes
+such as items. <Delay 30>
+When you make an exchange,
+the appropriate number of
+points will be deducted.<New>
+Second,
+'Total BP'<Delay 30>
+This represents the total
+amount of battle points you
+have collected up to now.<New>
+'Total BP' aren't normally
+affected when you exchange
+items.<Delay 30> Also when your 'Total
+BP' reach set values you can
+exchange them for a variety
+of 'Rare Items'.<New>
+But remember: caveat emptor!
+Not everything is so simple!
+There are also prizes that
+reduce your "Total BP" too!
+So pay attention when making 
+exchanges!<New>
+In those cases, it might be
+better to choose prizes that
+don't reduce your Total BP.
+<Delay 15>...<Delay 5>But then again, if you 
+want something really bad<Delay 5>...<Delay 15>
+well anyway, it's up to you!<Close><End of Block>
+<TextBlock 7 w:54 h:6>
+"Here's the 'Item Exchange
+Menu'<Delay 5>...<Delay 5> Make your choice!"<Delay 30>
+<Opcode 1 255>    About Item Exchanges...
+    Normal Item Exchange
+    Rare Item Exchange
+    I've changed my mind!<Close><End of Block>
+<TextBlock 8 w:56 h:6>
+BP-Exchanger Girl
+"During Normal Item Exchange
+you can exchange the Battle
+Points you earned from
+Battling for a variety of
+items, Gear parts, etc.<New>
+It is an 'exchange', so when
+you do trade-in your points,
+naturally those points will
+be deducted!"<Close><End of Block>
+<TextBlock 9 w:54 h:6>
+BP-Exchanger Girl
+"Once you select the item 
+you want to exchange points
+for, apart from defective 
+items, we offer no refunds!
+So take care in choosing!"<Close><End of Block>
+<TextBlock 10 w:56 h:6>
+BP-Exchanger Girl
+"The other exchange is for
+rare items. When your total
+points reach a certain level
+you are presented with these
+items.<New>
+The items prepared for you
+cannot be found anywhere
+else, so are quite valuable.
+That is also why you can 
+only acquire one of each!"<Close><End of Block>
+<TextBlock 11 w:56 h:13>
+BP-Exchanger Girl
+"Trade BP for which item: ?"<Delay 30>
+<Opcode 1 255>    #00: Anoret Seed
+    #01: Bulimy Seed
+    #02: Samson's Hair
+    #03: Anoret Fruit
+    #04: Bulimy Fruit
+    #05: Lite Armor+1
+    #06: Lite Armor+2
+    <=>PAGE 2
+    Not now, thanks.
+ 
+   CURRENT BP:<Opcode 10 0><Close><End of Block>
+<TextBlock 12 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Sorry, my mistake!
+    Yeah, exchange it!
+  <=>#00: Anoret Seed
+  <=>CURRENT BP -250<Close><End of Block>
+<TextBlock 13 w:50 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Is that so?<Delay 15>
+Well, which prize do you 
+want to exchange GP for?<Delay 30>
+Next time, get it right!"<Close><End of Block>
+<TextBlock 14 w:42 h:1>
+Received Anoret Seed!<Close><End of Block>
+<TextBlock 15 w:56 h:5>
+BP-Exchanger Girl
+"Sorry buster,<Delay 5> but you don't
+seem to have the prescribed
+amount of points! <Delay 5>...<Delay 15>
+No can do!"<Close><End of Block>
+<TextBlock 16 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Oops, wrong choice!
+    Yep, I'll trade you!
+  <=>#01: Bulimy Seed
+  <=>CURRENT BP -250<Close><End of Block>
+<TextBlock 17 w:56 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Is that the case?<Delay 15>
+Well then, which item do you
+want to exchange GP for?<Delay 30>
+This time, get it right!"<Close><End of Block>
+<TextBlock 18 w:42 h:1>
+Received Bulimy Seed!<Close><End of Block>
+<TextBlock 19 w:62 h:5>
+BP-Exchanger Girl
+"Excuse me,<Delay 5> but you don't
+seem to have the set number of 
+points for the exchange! <Delay 5>...<Delay 15>
+I'm afraid it's a no-go!"<Close><End of Block>
+<TextBlock 20 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    No, my error!
+    Yes, let's exchange!
+  <=>#02: Samson's Hair
+  <=>CURRENT BP -800<Close><End of Block>
+<TextBlock 21 w:54 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5> Oh really?<Delay 15>
+So then, which item do you 
+want to trade me GP for?<Delay 30>
+This time, choose better!"<Close><End of Block>
+<TextBlock 22 w:46 h:1>
+Received Samson's Hair!<Close><End of Block>
+<TextBlock 23 w:54 h:5>
+BP-Exchanger Girl
+"Sorry-dorry,<Delay 5> but you don't
+have the right amount of 
+points! So<Delay 5>...<Delay 15>
+I can't exchange with you!"<Close><End of Block>
+<TextBlock 24 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    No it isn't, sorry!
+    Yes, so let's trade!
+  <=>#03: Anoret Fruit
+  <=>CURRENT BP -750<Close><End of Block>
+<TextBlock 25 w:56 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Well don't blame me!<Delay 15>
+So, buster, what item do you
+want to exchange us GP for?<Delay 30>
+Get it right this time, OK!"<Close><End of Block>
+<TextBlock 26 w:44 h:1>
+Received Anoret Fruit!<Close><End of Block>
+<TextBlock 27 w:58 h:5>
+BP-Exchanger Girl
+"Are you trying to be funny?<Delay 5> 
+Cause you sure don't seem to
+have enough points<Delay 5>...!<Delay 15>
+No points, no trade!"<Close><End of Block>
+<TextBlock 28 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Oh no, my mistake!
+    Yes, it's a deal!
+  <=>#04: Bulimy Fruit
+  <=>CURRENT BP -750<Close><End of Block>
+<TextBlock 29 w:54 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Your mistake, huh?<Delay 15>
+Alright, which item do you 
+want to exchange GP for?<Delay 30>
+Show more consideration!"<Close><End of Block>
+<TextBlock 30 w:44 h:1>
+Received Bulimy Fruit!<Close><End of Block>
+<TextBlock 31 w:56 h:5>
+BP-Exchanger Girl
+"Oh no,<Delay 5> you don't seem to
+have enough points<Delay 5>...!<Delay 15>
+I'm sure it's only a mistake
+but, sorry, no exchange!"<Close><End of Block>
+<TextBlock 32 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Oops, my boo-boo!
+    OK, it's a trade!
+  <=>#05: Lite Armor+1
+  <=>CURRENT BP -750<Close><End of Block>
+<TextBlock 33 w:56 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>'Oops, my boo-boo'...!?<Delay 15>
+Well, boo-boo's, what item
+do you want to trade GP for?<Delay 30>
+Choose carefully please!"<Close><End of Block>
+<TextBlock 34 w:44 h:1>
+Received Lite Armor+1!<Close><End of Block>
+<TextBlock 35 w:54 h:5>
+BP-Exchanger Girl
+"I'd like to trade you,<Delay 5> but
+you don't quite have enough
+points! Sorry<Delay 5>...<Delay 15>
+you'll have to try later!"<Close><End of Block>
+<TextBlock 36 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    No, changed my mind!
+    Yes, let's exchange!
+  <=>#06: Lite Armor+2
+  <=>CURRENT BP -1000<Close><End of Block>
+<TextBlock 37 w:58 h:4>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Changed your mind?<Delay 15>
+Well, Mr. Fickle, which item 
+do you want to trade GP for?<Delay 30><Close><End of Block>
+<TextBlock 38 w:44 h:1>
+Received Lite Armor+2!<Close><End of Block>
+<TextBlock 39 w:48 h:5>
+BP-Exchanger Girl
+"What,<Delay 5> you thought I was
+born yesterday!?<Delay 15>
+You don't have enough 
+points!<Delay 5> No deal!"<Close><End of Block>
+<TextBlock 40 w:56 h:13>
+BP-Exchanger Girl
+"Trade BP for which item: ?"<Delay 30>
+<Opcode 1 255>    #07: Lite Armor+3
+    #08: Mirror Armor
+    #09: Wind Ring
+    #10: Earth Ring
+    #11: Fire Ring
+    #12: Water Ring
+    <=>PAGE 1
+    <=>PAGE 3
+    Don't want to trade!
+ 
+   CURRENT BP:<Opcode 10 0><Close><End of Block>
+<TextBlock 41 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Sorry, my mistake!
+    Yeah, exchange it!
+  <=>#07: Lite Armor+3
+  <=>CURRENT BP -1250<Close><End of Block>
+<TextBlock 42 w:50 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Is that so?<Delay 15>
+Well, which item do you
+want to exchange GP for?<Delay 30>
+Next time, get it right!"<Close><End of Block>
+<TextBlock 43 w:44 h:1>
+Received Lite Armor+3!<Close><End of Block>
+<TextBlock 44 w:56 h:5>
+BP-Exchanger Girl
+"Sorry buster,<Delay 5> but you don't
+seem to have the prescribed
+amount of points<Delay 5>...!<Delay 15>
+No can do!"<Close><End of Block>
+<TextBlock 45 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Oops, wrong choice!
+    Yep, I'll trade you!
+  <=>#08: Mirror Armor
+  <=>CURRENT BP -1500<Close><End of Block>
+<TextBlock 46 w:56 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Is that the case?<Delay 15>
+Well then, which item do you
+want to exchange GP for?<Delay 30>
+This time, get it right!"<Close><End of Block>
+<TextBlock 47 w:44 h:1>
+Received Mirror Armor!<Close><End of Block>
+<TextBlock 48 w:60 h:5>
+BP-Exchanger Girl
+"Excuse me,<Delay 5> but you don't
+seem to have the set number of
+points for the exchange<Delay 5>...!<Delay 15>
+I'm afraid it's a no-go!"<Close><End of Block>
+<TextBlock 49 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    No, my error!
+    Yes, let's exchange!
+  <=>#09: Wind Ring
+  <=>CURRENT BP -2000<Close><End of Block>
+<TextBlock 50 w:54 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Oh really?<Delay 15>
+So then, which item do you 
+want to trade me GP for?<Delay 30>
+This time, choose better!"<Close><End of Block>
+<TextBlock 51 w:38 h:1>
+Received Wind Ring!<Close><End of Block>
+<TextBlock 52 w:54 h:5>
+BP-Exchanger Girl
+"Sorry-dorry,<Delay 5> but you don't
+have the right amount of
+points! So<Delay 5>...<Delay 15>
+I can't exchange with you!"<Close><End of Block>
+<TextBlock 53 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    No it isn't, sorry!
+    Yes, so let's trade!
+  <=>#10: Earth Ring
+  <=>CURRENT BP -2000<Close><End of Block>
+<TextBlock 54 w:56 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Well don't blame me!<Delay 15>
+So, buster, what item do you
+want to exchange us GP for?<Delay 30>
+Get it right this time, OK!"<Close><End of Block>
+<TextBlock 55 w:40 h:1>
+Received Earth Ring!<Close><End of Block>
+<TextBlock 56 w:58 h:5>
+BP-Exchanger Girl
+"Are you trying to be funny?<Delay 5> 
+Cause you sure don't seem to
+have enough points<Delay 5>...!<Delay 15>
+No points, no trade!"<Close><End of Block>
+<TextBlock 57 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Oh no, my mistake!
+    Yes, it's a deal!
+  <=>#11: Fire Ring
+  <=>CURRENT BP -2000<Close><End of Block>
+<TextBlock 58 w:54 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Your mistake, huh?<Delay 15>
+Alright, which item do you 
+want to exchange GP for?<Delay 30>
+Show more consideration!"<Close><End of Block>
+<TextBlock 59 w:38 h:1>
+Received Fire Ring!<Close><End of Block>
+<TextBlock 60 w:56 h:5>
+BP-Exchanger Girl
+"Oh no,<Delay 5> you don't seem to
+have enough points<Delay 5>...!<Delay 15>
+I'm sure it's only a mistake
+but, sorry, no exchange!"<Close><End of Block>
+<TextBlock 61 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Oops, my miss!
+    OK, it's a trade!
+  <=>#12: Water Ring
+  <=>CURRENT BP -2000<Close><End of Block>
+<TextBlock 62 w:56 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>'Oops, my miss'...!?<Delay 15>
+Well, 'miss', what item
+do you want to trade GP for?<Delay 30>
+Choose carefully please!"<Close><End of Block>
+<TextBlock 63 w:40 h:1>
+Received Water Ring!<Close><End of Block>
+<TextBlock 64 w:54 h:5>
+BP-Exchanger Girl
+"I'd like to trade you,<Delay 5> but
+you don't quite have enough
+points! Sorry<Delay 5>...<Delay 15>
+you'll have to try later!"<Close><End of Block>
+<TextBlock 65 w:56 h:13>
+BP-Exchanger Girl
+"Trade BP for which item: ?"<Delay 30>
+<Opcode 1 255>    #13: Wind Veil Armor
+    #14: Earth Veil Armor
+    #15: Fire Veil Armor
+    #16: Water Veil Armor
+    #17: ElementAero
+    #18: ElementTerra
+    <=>PAGE 2
+    <=>PAGE 4
+    Decided against it!
+ 
+   CURRENT BP:<Opcode 10 0><Close><End of Block>
+<TextBlock 66 w:48 h:6>
+BP-Exchanger Girl
+"Is this prize alright?"<Delay 30>
+<Opcode 1 255>    No, changed my mind!
+    Yes, let's exchange!
+  <=>#13: Wind Veil Armor
+  <=>CURRENT BP -3500<Close><End of Block>
+<TextBlock 67 w:58 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Changed your mind?<Delay 15>
+Well, Mr. Fickle, which item 
+do you want to trade GP for?<Delay 30>
+Please make up your mind!"<Close><End of Block>
+<TextBlock 68 w:50 h:1>
+Received Wind Veil Armor!<Close><End of Block>
+<TextBlock 69 w:48 h:5>
+BP-Exchanger Girl
+"What,<Delay 5> you thought I was
+born yesterday!?<Delay 15>
+You don't have enough 
+points!<Delay 5> No deal!"<Close><End of Block>
+<TextBlock 70 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Sorry, my mistake!
+    Yeah, exchange it!
+  <=>#14: Earth Veil Armor
+  <=>CURRENT BP -3500<Close><End of Block>
+<TextBlock 71 w:50 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Is that so?<Delay 15>
+Well, which item do you 
+want to exchange GP for?<Delay 30>
+Next time, get it right!"<Close><End of Block>
+<TextBlock 72 w:52 h:1>
+Received Earth Veil Armor!<Close><End of Block>
+<TextBlock 73 w:56 h:5>
+BP-Exchanger Girl
+"Sorry buster,<Delay 5> but you don't
+seem to have the prescribed
+amount of points<Delay 5>...!<Delay 15>
+No can do!"<Close><End of Block>
+<TextBlock 74 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Oops, wrong choice!
+    Yep, I'll trade you!
+  <=>#15: Fire Veil Armor
+  <=>CURRENT BP -3500<Close><End of Block>
+<TextBlock 75 w:56 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Is that the case?<Delay 15>
+Well then, which item do you
+want to exchange GP for?<Delay 30>
+This time, get it right!"<Close><End of Block>
+<TextBlock 76 w:50 h:1>
+Received Fire Veil Armor!<Close><End of Block>
+<TextBlock 77 w:62 h:5>
+BP-Exchanger Girl
+"Excuse me,<Delay 5> but you don't
+seem to have the set number of 
+points for the exchange<Delay 5>...!<Delay 15>
+I'm afraid it's a no-go!"<Close><End of Block>
+<TextBlock 78 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    No, my error!
+    Yes, let's exchange!
+  <=>#16: Water Veil Armor
+  <=>CURRENT BP -3500<Close><End of Block>
+<TextBlock 79 w:54 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Oh really?<Delay 15>
+So then, which item do you 
+want to trade me GP for?<Delay 30>
+This time, choose better!"<Close><End of Block>
+<TextBlock 80 w:52 h:1>
+Received Water Veil Armor!<Close><End of Block>
+<TextBlock 81 w:54 h:5>
+BP-Exchanger Girl
+"Sorry-dorry,<Delay 5> but you don't
+have the right amount of 
+points! So<Delay 5>...<Delay 15>
+I can't exchange with you!"<Close><End of Block>
+<TextBlock 82 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    No it isn't, sorry!
+    Yes, so let's trade!
+  <=>#17: ElementAero
+  <=>CURRENT BP -4500<Close><End of Block>
+<TextBlock 83 w:56 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Well don't blame me!<Delay 15>
+So, buster, what item do you
+want to exchange us GP for?<Delay 30>
+Get it right this time, OK!"<Close><End of Block>
+<TextBlock 84 w:42 h:1>
+Received ElementAero!<Close><End of Block>
+<TextBlock 85 w:58 h:5>
+BP-Exchanger Girl
+"Are you trying to be funny?<Delay 5> 
+Cause you sure don't seem to
+have enough points<Delay 5>...!<Delay 15>
+No points, no trade!"<Close><End of Block>
+<TextBlock 86 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Oh no, my mistake!
+    Yes, it's a deal!
+  <=>#18: ElementTerra
+  <=>CURRENT BP -4500<Close><End of Block>
+<TextBlock 87 w:54 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Your mistake, huh?<Delay 15>
+Alright, which item do you 
+want to exchange GP for?<Delay 30>
+Show more consideration!"<Close><End of Block>
+<TextBlock 88 w:44 h:1>
+Received ElementTerra!<Close><End of Block>
+<TextBlock 89 w:56 h:5>
+BP-Exchanger Girl
+"Oh no,<Delay 5> you don't seem to
+have enough points<Delay 5>...!<Delay 15>
+I'm sure it's only a mistake
+but, sorry, no exchange!"<Close><End of Block>
+<TextBlock 90 w:56 h:11>
+BP-Exchanger Girl
+"Trade BP for which item: ?"<Delay 30>
+<Opcode 1 255>    #19: ElementPyro
+    #20: ElementHydro
+    #21: EtherStoneLg
+    #22: AntiEthRockL
+    <=>PAGE 3
+    <=>PAGE 1
+    Sorry, nothing I want!
+ 
+   CURRENT BP:<Opcode 10 0><Close><End of Block>
+<TextBlock 91 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Oops, my boo-boo!
+    OK, it's a trade!
+  <=>#19: ElementPyro
+  <=>CURRENT BP -4500<Close><End of Block>
+<TextBlock 92 w:54 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>'Oops, my boo-boo'...!?<Delay 15>
+Well, boo-boo, what item do
+you want to trade GP for?<Delay 30>
+Choose carefully please!"<Close><End of Block>
+<TextBlock 93 w:42 h:1>
+Received ElementPyro!<Close><End of Block>
+<TextBlock 94 w:54 h:5>
+BP-Exchanger Girl
+"I'd like to trade you,<Delay 5> but
+you don't quite have enough
+points! Sorry<Delay 5>...<Delay 15>
+you'll have to try later!"<Close><End of Block>
+<TextBlock 95 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    No, changed my mind!
+    Yes, let's exchange!
+  <=>#20: ElementHydro
+  <=>CURRENT BP -4500<Close><End of Block>
+<TextBlock 96 w:56 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Changed your mind?<Delay 15>
+Well, Mr. Moody, which item 
+do you want to trade GP for?<Delay 30>
+Please make up your mind!"<Close><End of Block>
+<TextBlock 97 w:44 h:1>
+Received ElementHydro!<Close><End of Block>
+<TextBlock 98 w:48 h:5>
+BP-Exchanger Girl
+"What,<Delay 5> you thought I was
+born yesterday!?<Delay 15>
+You don't have enough 
+points!<Delay 5> No deal!"<Close><End of Block>
+<TextBlock 99 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Sorry, my mistake!
+    Yeah, exchange it!
+  <=>#21: EtherStoneLg
+  <=>CURRENT BP -7500<Close><End of Block>
+<TextBlock 100 w:50 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Is that so?<Delay 15>
+Well, which item do you 
+want to exchange GP for?<Delay 30>
+Next time, get it right!"<Close><End of Block>
+<TextBlock 101 w:44 h:1>
+Received EtherStoneLg!<Close><End of Block>
+<TextBlock 102 w:56 h:5>
+BP-Exchanger Girl
+"Sorry buster,<Delay 5> but you don't
+seem to have the prescribed
+amount of points<Delay 5>...!<Delay 15>
+No can do!"<Close><End of Block>
+<TextBlock 103 w:52 h:6>
+BP-Exchanger Girl
+"Is this the right prize?"<Delay 30>
+<Opcode 1 255>    Oops, wrong choice!
+    Yep, I'll trade you!
+  <=>#22: AntiEthRockL
+  <=>CURRENT BP -8000<Close><End of Block>
+<TextBlock 104 w:56 h:5>
+BP-Exchanger Girl
+"<Delay 5>...<Delay 5>Is that the case?<Delay 15>
+Well then, which item do you
+want to exchange GP for?<Delay 30>
+This time, get it right!"<Close><End of Block>
+<TextBlock 105 w:44 h:1>
+Received AntiEthRockL!<Close><End of Block>
+<TextBlock 106 w:62 h:5>
+BP-Exchanger Girl
+"Excuse me,<Delay 5> but you don't
+seem to have the set number of 
+points for the exchange<Delay 5>...!<Delay 15>
+I'm afraid it's a no-go!"<Close><End of Block>
+<TextBlock 107 w:52 h:13>
+BP-Exchanger Girl
+"Trade for which item ?"<Delay 30>
+<Opcode 1 255>    #00: M Disk
+    #01: Power Ring S
+    #02: Stamina Ring S
+    #03: Speed Ring S
+    #04: Gallant Belt
+    #05: Fei  Jr. Doll
+    #06: Bart Jr. Doll
+    <=>PAGE 2
+    Don't wanna trade now!
+ 
+   TOTAL BP:<Opcode 10 0><Close><End of Block>
+<TextBlock 108 w:54 h:7>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    No sorry, my mistake!
+    Yes, trade me for it!
+  <=>#00: M Disk
+  <=>CURRENT BP : -3500
+  <=>TOTAL   BP : -4000<Close><End of Block>
+<TextBlock 109 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 110 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 111 w:32 h:1>
+Received M Disk!<Close><End of Block>
+<TextBlock 112 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points<Delay 5>...!<Delay 15> Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 113 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points<Delay 5>...!<Delay 15> Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 114 w:54 h:6>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    No thanks, I don't!
+    Yes, let's trade!
+  <=>#01: Power Ring S
+  <=>TOTAL BP : 2000<Close><End of Block>
+<TextBlock 115 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 116 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 117 w:44 h:1>
+Received Power Ring S!<Close><End of Block>
+<TextBlock 118 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points<Delay 5>...!<Delay 15> Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 119 w:54 h:6>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    Sorry, no deal!
+    I want it, so trade me!
+  <=>#02: Stamina Ring S
+  <=>TOTAL BP : 3000<Close><End of Block>
+<TextBlock 120 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 121 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 122 w:48 h:1>
+Received Stamina Ring S!<Close><End of Block>
+<TextBlock 123 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 124 w:54 h:6>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    No thank you, not now!
+    OK, it's a deal!
+  <=>#03: Speed Ring S
+  <=>TOTAL BP : 4500<Close><End of Block>
+<TextBlock 125 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 126 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 127 w:44 h:1>
+Received Speed Ring S!<Close><End of Block>
+<TextBlock 128 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 129 w:54 h:6>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    Thanks, but no thanks!
+    Yes please!
+  <=>#04: Gallant Belt
+  <=>TOTAL BP : 6000<Close><End of Block>
+<TextBlock 130 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 131 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 132 w:44 h:1>
+Received Gallant Belt!<Close><End of Block>
+<TextBlock 133 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 134 w:54 h:7>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    Not really, no!
+    Yeah, I want it bad!
+  <=>#05: Fei Jr. Doll
+  <=>CURRENT BP : - 500
+  <=>TOTAL   BP : -3000<Close><End of Block>
+<TextBlock 135 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 136 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 137 w:44 h:1>
+Received Fei Jr. Doll!<Close><End of Block>
+<TextBlock 138 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 139 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points<Delay 5>...!<Delay 15> Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 140 w:54 h:7>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    No I don't want it!
+    Yes I'll exchange you!
+  <=>#06: Bart Jr. Doll
+  <=>CURRENT BP : - 500
+  <=>TOTAL   BP : -3000<Close><End of Block>
+<TextBlock 141 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 142 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 143 w:46 h:1>
+Received Bart Jr. Doll!<Close><End of Block>
+<TextBlock 144 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points<Delay 5>...!<Delay 15> Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 145 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 146 w:48 h:13>
+BP-Exchanger Girl
+"Trade for which item ?"<Delay 30>
+<Opcode 1 255>    #07: Billy Jr. Doll
+    #08: Body Guard
+    #09: Mind Guard
+    #10: Ether Doubler
+    #11: Ether Guard
+    #12: Life Stone
+    <=>PAGE 1
+    <=>PAGE 3
+    I think I'll pass!
+ 
+   TOTAL BP:<Opcode 10 0><Close><End of Block>
+<TextBlock 147 w:56 h:7>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    On second thoughts, no!
+    Yes I'll trade with you!
+  <=>#07: Billy Jr. Doll
+  <=>CURRENT BP : - 500
+  <=>TOTAL   BP : -3000<Close><End of Block>
+<TextBlock 148 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 149 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 150 w:48 h:1>
+Received Billy Jr. Doll!<Close><End of Block>
+<TextBlock 151 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 152 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 153 w:54 h:7>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    Oops sorry, my miss!
+    Alright, it's a deal!
+  <=>#08: Body Guard
+  <=>CURRENT BP : - 500
+  <=>TOTAL   BP : -4000<Close><End of Block>
+<TextBlock 154 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 155 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 156 w:40 h:1>
+Received Body Guard!<Close><End of Block>
+<TextBlock 157 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points<Delay 5>...!<Delay 15> Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 158 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points<Delay 5>...!<Delay 15> Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 159 w:54 h:7>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    No sorry, my mistake!
+    Yes, trade me for it!
+  <=>#09: Mind Guard
+  <=>CURRENT BP : - 750
+  <=>TOTAL   BP : -4500<Close><End of Block>
+<TextBlock 160 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 161 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 162 w:40 h:1>
+Received Mind Guard!<Close><End of Block>
+<TextBlock 163 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 164 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 165 w:54 h:6>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    No thanks, I don't!
+    Yes, let's trade!
+  <=>#10: Ether Doubler
+  <=>TOTAL BP : 8000<Close><End of Block>
+<TextBlock 166 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 167 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 168 w:46 h:1>
+Received Ether Doubler!<Close><End of Block>
+<TextBlock 169 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 170 w:54 h:6>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    Sorry, no deal!
+    I want it, so trade me!
+  <=>#11: Ether Guard
+  <=>TOTAL BP : 8500<Close><End of Block>
+<TextBlock 171 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 172 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 173 w:42 h:1>
+Received Ether Guard!<Close><End of Block>
+<TextBlock 174 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 175 w:54 h:6>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    No thank you, not now!
+    OK, it's a deal!
+  <=>#12: Life Stone
+  <=>TOTAL BP : 9000<Close><End of Block>
+<TextBlock 176 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 177 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 178 w:40 h:1>
+Received Life Stone!<Close><End of Block>
+<TextBlock 179 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points<Delay 5>...!<Delay 15> Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 180 w:48 h:12>
+BP-Exchanger Girl
+"Trade for which item ?"<Delay 30>
+<Opcode 1 255>    #13: S Charger
+    #14: X Charger
+    #15: GNRS50
+    #16: Deathblower3
+    #17: Speed Shoes
+    <=>PAGE 2
+    <=>PAGE 1
+    Not now thank you!
+ 
+   TOTAL BP:<Opcode 10 0><Close><End of Block>
+<TextBlock 181 w:54 h:7>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    Thanks, but no thanks!
+    Yes please!
+  <=>#13: S Charger
+  <=>CURRENT BP : - 2500
+  <=>TOTAL   BP : -10000<Close><End of Block>
+<TextBlock 182 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 183 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 184 w:38 h:1>
+Received S Charger!<Close><End of Block>
+<TextBlock 185 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 186 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 187 w:54 h:7>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    Not really, no!
+    Yeah, I want to trade!
+  <=>#14: X Charger
+  <=>CURRENT BP : - 3000
+  <=>TOTAL   BP : -12500<Close><End of Block>
+<TextBlock 188 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 189 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 190 w:38 h:1>
+Received X Charger!<Close><End of Block>
+<TextBlock 191 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points<Delay 5>...!<Delay 15> Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 192 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points<Delay 5>...!<Delay 15> Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 193 w:54 h:7>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    No I don't want it!
+    Yes I'll exchange you!
+  <=>#15: GNRS50
+  <=>CURRENT BP : - 5000
+  <=>TOTAL   BP : -15000<Close><End of Block>
+<TextBlock 194 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 195 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 196 w:32 h:1>
+Received GNRS50!<Close><End of Block>
+<TextBlock 197 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points<Delay 5>...!<Delay 15> Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 198 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 199 w:56 h:7>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    On second thoughts, no!
+    Yes I'll trade with you!
+  <=>#16: Deathblower3
+  <=>CURRENT BP : - 7500
+  <=>TOTAL   BP : -18000<Close><End of Block>
+<TextBlock 200 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 201 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 202 w:44 h:1>
+Received Deathblower3!<Close><End of Block>
+<TextBlock 203 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 204 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 205 w:54 h:7>
+BP-Exchanger Girl
+"You want the prize below?"<Delay 30>
+<Opcode 1 255>    Sorry, just looking!
+    Alright, it's a deal!
+  <=>#17: Speed Shoes
+  <=>CURRENT BP : - 4500
+  <=>TOTAL   BP : -30000<Close><End of Block>
+<TextBlock 206 w:56 h:6>
+BP-Exchanger Girl
+"<Delay 5>...Oh,<Delay 5> is that so? <Delay 15>
+Well then, which prize do
+you want to trade me for?<Delay 30>
+And would you choose more
+carefully next time please!"<Close><End of Block>
+<TextBlock 207 w:56 h:4>
+BP-Exchanger Girl
+"Hey,<Delay 5> hang on a second!<Delay 15>
+Don't you already have one
+of these?<New>
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"<Close><End of Block>
+<TextBlock 208 w:42 h:1>
+Received Speed Shoes!<Close><End of Block>
+<TextBlock 209 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 210 w:56 h:5>
+BP-Exchanger Girl
+"Sorry,<Delay 5> but you don't seem
+to have the right amount of
+points!<Delay 5> ...<Delay 15>Too bad,<Delay 5> but I
+cannot trade this with you!"<Close><End of Block>
+<TextBlock 211 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 00 G
+<=>Battle Points won: - 45 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 212 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 00 G
+<=>Battle Points won: - 75 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 213 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 00 G
+<=>Battle Points won: -300 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 214 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 10 G
+<=>Battle Points won: +145 P
+<=>Special Bonus    : +210 G<Close><End of Block>
+<TextBlock 215 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 30 G
+<=>Battle Points won: +175 P
+<=>Special Bonus    : +330 G<Close><End of Block>
+<TextBlock 216 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 50 G
+<=>Battle Points won: +450 P
+<=>Special Bonus    : +550 G<Close><End of Block>
+<TextBlock 217 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 00 G
+<=>Battle Points won: +215 P
+<=>Special Bonus    : +500 G<Close><End of Block>
+<TextBlock 218 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 00 G
+<=>Battle Points won: +300 P
+<=>Special Bonus    : +700 G<Close><End of Block>
+<TextBlock 219 w:55 h:3>
+<Opcode 1 255><=>Gear repair costs: -  00 G
+<=>Battle Points won: + 900 P
+<=>Special Bonus    : +1000 G<Close><End of Block>
+<TextBlock 220 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 50 G
+<=>Battle Points won: + 75 P
+<=>Special Bonus    : +150 G<Close><End of Block>
+<TextBlock 221 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: -100 G
+<=>Battle Points won: +120 P
+<=>Special Bonus    : +300 G<Close><End of Block>
+<TextBlock 222 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: -150 G
+<=>Battle Points won: +245 P
+<=>Special Bonus    : +450 G<Close><End of Block>
+<TextBlock 223 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 10 G
+<=>Battle Points won: - 32 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 224 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 30 G
+<=>Battle Points won: - 48 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 225 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 50 G
+<=>Battle Points won: -150 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 226 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: -  5 G
+<=>Battle Points won: - 27 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 227 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 15 G
+<=>Battle Points won: - 55 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 228 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 45 G
+<=>Battle Points won: -200 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 229 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 15 G
+<=>Battle Points won: - 16 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 230 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 45 G
+<=>Battle Points won: - 32 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 231 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 75 G
+<=>Battle Points won: -175 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 232 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 15 G
+<=>Battle Points won: - 15 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 233 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 45 G
+<=>Battle Points won: - 30 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 234 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 75 G
+<=>Battle Points won: -125 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 235 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 30 G
+<=>Battle Points won: - 45 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 236 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 75 G
+<=>Battle Points won: - 75 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 237 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: -100 G
+<=>Battle Points won: -155 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 238 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 50 G
+<=>Battle Points won: -145 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 239 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: -100 G
+<=>Battle Points won: -175 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 240 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: -150 G
+<=>Battle Points won: -300 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 241 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 50 G
+<=>Battle Points won: - 90 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 242 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: -100 G
+<=>Battle Points won: -120 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 243 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: -150 G
+<=>Battle Points won: -175 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 244 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: - 50 G
+<=>Battle Points won: -100 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 245 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: -100 G
+<=>Battle Points won: -150 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 246 w:53 h:3>
+<Opcode 1 255><=>Gear repair costs: -150 G
+<=>Battle Points won: -450 P
+<=>Special Bonus    : +000 G<Close><End of Block>
+<TextBlock 247 w:56 h:4>
+"What would you like to do
+about the in-battle music?"<Delay 10>
+<Opcode 1 255>    The usual, please!
+    It's okay as is<Close><End of Block>
+<TextBlock 248 w:54 h:4>
+Receptionist
+"I have confirmed the entry
+of pilot Fei. <Delay 15>
+One moment please<Delay 5>..."<Close><End of Block>
+<TextBlock 249 w:56 h:3>
+<Weltall> has been sent
+to the competitors' paddock.
+Stand by for boarding!<Close><End of Block>
+<TextBlock 250 w:56 h:3>
+<Weltall-2> has been sent 
+to the competitors' paddock.
+Stand by for boarding!<Close><End of Block>
+<TextBlock 251 w:56 h:3>
+<Xenogears> has been sent
+to the competitors' paddock.
+Stand by for boarding!<Close><End of Block>
+<TextBlock 252 w:44 h:3>
+Pilot Fei!
+Please proceed to the
+competitor's paddock!<Opcode 2 60><Close><End of Block>
+<TextBlock 253 w:54 h:4>
+Informationist
+"Okeydokey!<Delay 15>
+Well then,<Delay 5> I'll now explain
+a bit about 'Battling'."<Close><End of Block>
+<TextBlock 254 w:56 h:5>
+Informationist
+"Battling is the sport of
+fighting one-on-one with
+Gears and is held at the
+Imperial Capital's arena.<New>
+The format of the sport is
+simple - fight until one or
+the other breaks down.<Delay 10> 
+In other words, just bash
+your rival to pieces!<New>
+But you don't have to fight
+till you trash your Gear.<Delay 5>
+You are allowed to give up
+during a match...so if you
+can't win<Delay 10>...<Delay 5>well, you know!<New>
+Finally, the armor values
+of Gears during the battling
+bouts are made uniform, so
+that competitors can fight
+on equal terms.<New>
+In other words, competitors
+must rely fully on the
+fundamental properties
+of the Gears they pilot."<Close><End of Block>
+<TextBlock 255 w:44 h:4>
+Informationist
+"Well that's the quick
+rundown<Delay 5>...I think.<Delay 30>
+Did you get the drift?<Close><End of Block>
+<TextBlock 256 w:50 h:4>
+<Perso1>
+"Well, errh<Delay 5>..."<Delay 15>
+<Opcode 1 255>    Sure, no problem!
+    Sorry I don't get it!<Close><End of Block>
+<TextBlock 257 w:56 h:5>
+Informationist
+"The next thing to do is to
+gain experience by actually
+Battling. <Delay 15>The key is to
+get used to the controls!<New>
+But<Delay 5> perhaps jumping straight
+into an actual battle is too
+much for you?<Delay 15> Well then,<Delay 5> why
+not try our 'practice mode'
+for help with the controls?<New>
+This is a simulation mode
+where you can practice the
+basic control methods.<Delay 15>
+We recommend that beginners
+should train here first!<New>
+Also, there is a 'tutorial
+mode' that provides easy 
+lessons, from the basic 
+controls through to an 
+explanation of the screen."<Close><End of Block>
+<TextBlock 258 w:54 h:3>
+Informationist
+"Is there anything else you
+want to ask about?"<Close><End of Block>
+<TextBlock 259 w:58 h:4>
+Informationist
+"Huh?<Delay 5> You didn't understand?<Delay 10>
+That's strange! Well, once
+again from the beginning...<New>
+(Gee and I thought this guy
+had it in him?<Delay 5> ...Obviously I
+was wrong...<Delay 5> Is his head OK?)<Delay 10>
+Anyway, listen closely now!"<Close><End of Block>
+<TextBlock 260 w:58 h:7>
+Informationist
+"Right, the basic controls!
+Well<Delay 5> what do you want to do?<Delay 15>
+<Opcode 1 255>    Ask about button controls
+    Tutorial Mode
+    Practice Mode
+    Ask about something else<Close><End of Block>
+<TextBlock 261 w:56 h:4>
+Informationist
+"Right, the button controls.
+I'll explain each button's
+function accordingly...<Close><End of Block>
+<TextBlock 262 w:54 h:4>
+Informationist
+"Well, I'll now explain the
+basic control methods using
+the actual screen."<Close><End of Block>
+<TextBlock 263 w:56 h:3>
+Informationist
+"So, <Delay 10>you want to try out the
+actual controls, huh..."<Close><End of Block>
+<TextBlock 264 w:58 h:4>
+Informationist
+"Oh,<Delay 5> well<Delay 5>...have it your way!<Delay 15>
+What else do you want to
+enquire about?"<Close><End of Block>
+<TextBlock 265 w:50 h:8>
+"Which button do you need
+an explanation of?<Delay 15>
+<Opcode 1 255>    Directional button
+    <X> button
+    <S> button
+    <T> button
+    <C> button
+    Next page<Close><End of Block>
+<TextBlock 266 w:50 h:7>
+"Which shall I explain to
+you about?"<Delay 15>
+<Opcode 1 255>    L1 button
+    R1 button
+    Start button
+    Back to first page
+    End explanation<Close><End of Block>
+<TextBlock 267 w:52 h:4>
+Informationist
+"Oh<Delay 5>...had enough already?
+Anything else you need to
+know?<Delay 15> Don't be afraid now!<Close><End of Block>
+<TextBlock 268 w:56 h:5>
+Informationist
+"Okay,<Delay 5> about the directional
+button...<Delay 15> Assuming that your
+opponent is on your right
+(from your viewpoint) then:<New>
+<=> Up moves your Gear out
+  away from the screen.<Delay 45>
+<=> Down moves your Gear in
+  towards the screen.<New>
+<=> Right moves your Gear
+  towards your opponent.<Delay 45>
+<=> Left moves your Gear
+  away from your opponent."<Close><End of Block>
+<TextBlock 269 w:56 h:5>
+Informationist
+"Lastly, when you're close
+to your opponent, pressing
+left invokes a special move:
+swift backward acceleration!<New>
+This instantly distances
+you from your opponent (or
+allows you to 'run away'!)<New>
+Just remember: move in the
+direction opposite your
+opponent."<Close><End of Block>
+<TextBlock 270 w:54 h:5>
+Informationist
+"That's it in a nutshell!<Delay 30>
+It's probably easier to get
+the idea by actually trying
+your hand at the controls!"<Close><End of Block>
+<TextBlock 271 w:56 h:4>
+Informationist
+"The <X> button is Attack.<Delay 15>
+(There are three attack but-
+tons and <X> is one of them.)<New>
+It changes from Gear to Gear
+but is mainly meant for
+close combat.<Delay 15> And you're not
+limited to just one blow.<New>
+By combining the <X> and <S>
+buttons you are able to make
+a chain of attacks up to
+three in length!<New>
+In all, there are eight
+Strings, for a total of four-
+teen attacks! Not every Gear
+has that many, though."<Close><End of Block>
+<TextBlock 272 w:56 h:4>
+Informationist
+"The <S> button is Attack.<Delay 15>
+(There are three attack but-
+tons and <S> is one of them.)<New>
+It differs from Gear to Gear
+but is mainly utilized for
+close combat.<Delay 15> And you're not
+limited to just one blow.<New>
+By combining the <X> and <S>
+buttons you are able to make
+a chain of attacks up to
+three in length!<New>
+In all, there are eight
+Strings, for a total of four-
+teen attacks! Not every Gear
+has that many, though."<Close><End of Block>
+<TextBlock 273 w:56 h:4>
+Informationist
+"The <T> button is for Jump!<Delay 5>
+The slope and your speed
+affect how you jump.<New>
+Oh, and it's alright to use
+the R1 button to fire Ether
+Bullets, too!"<Close><End of Block>
+<TextBlock 274 w:52 h:4>
+Informationist
+"The <C> button is for Dash.<Delay 10>
+Your movement controls are
+the same as usual.<New>
+The only thing is that you
+cannot continue running
+indefinitely."<Close><End of Block>
+<TextBlock 275 w:54 h:5>
+Informationist
+"Like with Ether bullets,
+your Gear will break down
+if you overheat. Watch for
+the red bar on the side."<Close><End of Block>
+<TextBlock 276 w:56 h:6>
+Informationist
+"Attacking isn't everything!<Delay 10>
+Although it is said that
+'offense is the best form
+of defense', at times it is
+important to defend oneself.<New>
+That's why we have the L1
+button to 'Guard' you!<Delay 15> But<Delay 5>
+it doesn't mitigate all of
+the damage, so be careful!"<Close><End of Block>
+<TextBlock 277 w:58 h:5>
+Informationist
+"The R1 button launches a
+special attack called 'Ether
+Bullet'.<Delay 15> It's good for long-
+range attacks on your foe!<New>
+Ether Bullets have homing
+ability, so you may tend to
+rely on them, but you might
+regret it if you use them
+too much! Do be careful!"<Close><End of Block>
+<TextBlock 278 w:56 h:5>
+Informationist
+"For more details, try our
+Tutorial Mode, where you
+will get an explanation from
+a different official."<Close><End of Block>
+<TextBlock 279 w:56 h:4>
+Informationist
+"The Start button will
+permit you to pause the
+battle.<New>
+At this time, you may select
+the 'GIVE UP' option if you 
+think you won't win."<Close><End of Block>
+<TextBlock 280 w:56 h:4>
+Informationist
+"Yes,<Delay 5> I thought you wouldn't
+have any problems! <Delay 10>Anyway,<Delay 5>
+give it your best shot now!"<Close><End of Block>
+<TextBlock 281 w:46 h:5>
+Informationist
+"What shall I explain?"<Delay 15>
+<Opcode 1 255>    Battling
+    Basic controls
+    I'm alright thanks!<Close><End of Block>
+<TextBlock 282 w:54 h:3>
+Receptionist
+"Welcome to the Imperial
+Capital's 'Battling Arena'!<New>
+Enter a Battling match?"
+<Opcode 1 255>    Don't want to enter
+    Yes, let me enter!<Close><End of Block>
+<TextBlock 283 w:50 h:3>
+Receptionist
+"We are open for Battling
+entries at any time!"<Close><End of Block>
+<TextBlock 284 w:52 h:5>
+Receptionist
+"Choose your game mode..."<Delay 30>
+<Opcode 1 255>    What's a game mode?
+    Special Mode 1
+    Special Mode 2<Close><End of Block>
+<TextBlock 285 w:56 h:6>
+Receptionist
+"The Imperial Games Battling
+Contest event has been
+changed to a regular sport.<Delay 30>
+There are now two modes.<New>
+'Special Mode 1' is the 
+same as ordinary matches 
+except for<Delay 5>...<Delay 5>woo-hoo-hoo
+<Delay 5>...<Delay 5>well,<Delay 5> see for yourself!<Delay 15>
+It's faster to try it out
+than hear me explain it!<New>
+'Special Mode 2' differs
+from ordinary matches in
+that upon winning a bout you
+receive Battle Points, which
+you can collect and exchange
+for prizes!<Close><End of Block>
+<TextBlock 286 w:56 h:5>
+Receptionist
+"Select your Gear to pilot:"<Delay 30>
+<Opcode 1 255>    <Xenogears>
+    <Weltall-2>
+    <Weltall><Close><End of Block>
+<TextBlock 287 w:56 h:5>
+Receptionist
+"Choose pilot's Gear level:"<Delay 20>
+<Opcode 1 255>    GEAR-LEVEL-0
+    GEAR-LEVEL-1
+    GEAR-LEVEL-2<Close><End of Block>
+<TextBlock 288 w:56 h:4>
+Receptionist
+"Choose pilot's Gear level:"<Delay 20>
+<Opcode 1 255>    GEAR-LEVEL-0
+    GEAR-LEVEL-1<Close><End of Block>
+<TextBlock 289 w:48 h:3>
+Listen for a bit of fun?<Delay 15>
+<Opcode 1 255>    Don't listen
+    Listen<Close><End of Block>
+<TextBlock 290 w:48 h:3>
+Listen for a bit of fun?<Delay 15>
+<Opcode 1 255>    Don't listen
+    Listen<Close><End of Block>
+<TextBlock 291 w:68 h:1>
+Don't have the corresponding disk.<Close><End of Block>
+<TextBlock 292 w:26 h:9>
+Change music<Delay 15>
+<Opcode 1 255>    Themes
+    Battle
+    Dungeons
+    Nature
+    The World
+    Requiem
+    Emotion
+    Cancel<Close><End of Block>
+<TextBlock 293 w:66 h:11>
+Select track<Delay 15>
+<Opcode 1 255>    Where Dreams Hatch
+    Lost... -Screeching Shards-
+    Bond of Sea and Flame
+    The Sky, the Clouds, and You
+    Gather Up the Night Stars
+    Soaring
+    October Mermaid
+    The Blackmoon Forest
+    Grahf -Ruler of Darkness-
+    Torn<Close><End of Block>
+<TextBlock 294 w:38 h:1>
+Where Dreams Hatch<Close><End of Block>
+<TextBlock 295 w:54 h:1>
+Lost... -Screeching Shards-<Close><End of Block>
+<TextBlock 296 w:44 h:1>
+Bond of Sea and Flame<Close><End of Block>
+<TextBlock 297 w:56 h:1>
+The Sky, the Clouds, and You<Close><End of Block>
+<TextBlock 298 w:52 h:1>
+Gather Up the Night Stars<Close><End of Block>
+<TextBlock 299 w:16 h:1>
+Soaring<Close><End of Block>
+<TextBlock 300 w:32 h:1>
+October Mermaid<Close><End of Block>
+<TextBlock 301 w:42 h:1>
+The Blackmoon Forest<Close><End of Block>
+<TextBlock 302 w:52 h:1>
+Grahf -Ruler of Darkness-<Close><End of Block>
+<TextBlock 303 w:10 h:1>
+Torn<Close><End of Block>
+<TextBlock 304 w:40 h:4>
+Select track<Delay 15>
+<Opcode 1 255>    Deadly Dance
+    Blazing Knights
+    Steel Giants<Close><End of Block>
+<TextBlock 305 w:26 h:1>
+Deadly Dance<Close><End of Block>
+<TextBlock 306 w:32 h:1>
+Blazing Knights<Close><End of Block>
+<TextBlock 307 w:26 h:1>
+Steel Giants<Close><End of Block>
+<TextBlock 308 w:66 h:8>
+Select track<Delay 15>
+<Opcode 1 255>    Ambience: Cavern
+    Ambience: Waterway
+    Ambience: Factory 1
+    Ambience: Factory 2
+    Ambience: Ruins
+    The Blackmoon Forest (no SFX)
+    Foreboding<Close><End of Block>
+<TextBlock 309 w:34 h:1>
+Ambience: Cavern<Close><End of Block>
+<TextBlock 310 w:38 h:1>
+Ambience: Waterway<Close><End of Block>
+<TextBlock 311 w:40 h:1>
+Ambience: Factory 1<Close><End of Block>
+<TextBlock 312 w:40 h:1>
+Ambience: Factory 2<Close><End of Block>
+<TextBlock 313 w:32 h:1>
+Ambience: Ruins<Close><End of Block>
+<TextBlock 314 w:60 h:1>
+The Blackmoon Forest (no SFX)<Close><End of Block>
+<TextBlock 315 w:22 h:1>
+Foreboding<Close><End of Block>
+<TextBlock 316 w:60 h:1>
+The Blackmoon Forest (no SFX)<Close><End of Block>
+<TextBlock 317 w:56 h:9>
+Select track<Delay 15>
+<Opcode 1 255>    Ambience: Night
+    Ambience: Mountain Path
+    The Blackmoon Forest
+    Ambience: Wind 1
+    Ambience: Wind 2
+    Ambience: Wind 3
+    Ambience: Underwater
+    Ambience: Vortex<Close><End of Block>
+<TextBlock 318 w:32 h:1>
+Ambience: Night<Close><End of Block>
+<TextBlock 319 w:48 h:1>
+Ambience: Mountain Path<Close><End of Block>
+<TextBlock 320 w:42 h:1>
+The Blackmoon Forest<Close><End of Block>
+<TextBlock 321 w:34 h:1>
+Ambience: Wind 1<Close><End of Block>
+<TextBlock 322 w:34 h:1>
+Ambience: Wind 2<Close><End of Block>
+<TextBlock 323 w:34 h:1>
+Ambience: Wind 3<Close><End of Block>
+<TextBlock 324 w:42 h:1>
+Ambience: Underwater<Close><End of Block>
+<TextBlock 325 w:34 h:1>
+Ambience: Vortex<Close><End of Block>
+<TextBlock 326 w:50 h:9>
+Select track<Delay 15>
+<Opcode 1 255>    Adoration
+    Village Pride
+    Wind from the Valley
+    Desert City Dazil
+    Dreams of the Brave
+    Windy Song
+    Ancient Dance of Av
+    <R>Page 2<Close><End of Block>
+<TextBlock 327 w:20 h:1>
+Adoration<Close><End of Block>
+<TextBlock 328 w:28 h:1>
+Village Pride<Close><End of Block>
+<TextBlock 329 w:42 h:1>
+Wind from the Valley<Close><End of Block>
+<TextBlock 330 w:36 h:1>
+Desert City Dazil<Close><End of Block>
+<TextBlock 331 w:40 h:1>
+Dreams of the Brave<Close><End of Block>
+<TextBlock 332 w:22 h:1>
+Windy Song<Close><End of Block>
+<TextBlock 333 w:40 h:1>
+Ancient Dance of Av<Close><End of Block>
+<TextBlock 334 w:68 h:9>
+Select track<Delay 15>
+<Opcode 1 255>    Dreams of the Brave (no intro)
+    Infiltration
+    The Tamuz -Men of the Sea-
+    Shevat -The Wind Calls-
+    Solaris -Supernal Paradise-
+    Cage of Remorse and Relief
+    Wings
+    <L>Page 1<Close><End of Block>
+<TextBlock 335 w:62 h:1>
+Dreams of the Brave (no intro)<Close><End of Block>
+<TextBlock 336 w:26 h:1>
+Infiltration<Close><End of Block>
+<TextBlock 337 w:54 h:1>
+The Tamuz -Men of the Sea-<Close><End of Block>
+<TextBlock 338 w:48 h:1>
+Shevat -The Wind Calls-<Close><End of Block>
+<TextBlock 339 w:56 h:1>
+Solaris -Supernal Paradise-<Close><End of Block>
+<TextBlock 340 w:54 h:1>
+Cage of Remorse and Relief<Close><End of Block>
+<TextBlock 341 w:12 h:1>
+Wings<Close><End of Block>
+<TextBlock 342 w:64 h:9>
+Select track<Delay 15>
+<Opcode 1 255>    Doze (Short Version)
+    Doze (Long Version)
+    Dark Slumber
+    We Wounded Follow the Light
+    Premonition
+    A Distant Promise
+    Intangible Treasure
+    Prayers -The Joy of Hope-<Close><End of Block>
+<TextBlock 343 w:42 h:1>
+Doze (Short Version)<Close><End of Block>
+<TextBlock 344 w:40 h:1>
+Doze (Long Version)<Close><End of Block>
+<TextBlock 345 w:26 h:1>
+Dark Slumber<Close><End of Block>
+<TextBlock 346 w:56 h:1>
+We Wounded Follow the Light<Close><End of Block>
+<TextBlock 347 w:24 h:1>
+Premonition<Close><End of Block>
+<TextBlock 348 w:36 h:1>
+A Distant Promise<Close><End of Block>
+<TextBlock 349 w:40 h:1>
+Intangible Treasure<Close><End of Block>
+<TextBlock 350 w:52 h:1>
+Prayers -The Joy of Hope-<Close><End of Block>
+<TextBlock 351 w:68 h:6>
+Select track<Delay 15>
+<Opcode 1 255>    Earthly Tears, Mortal Thoughts
+    Blue Traveler
+    Fuse
+    Jaws of Ice
+    Infiltration<Close><End of Block>
+<TextBlock 352 w:62 h:1>
+Earthly Tears, Mortal Thoughts<Close><End of Block>
+<TextBlock 353 w:28 h:1>
+Blue Traveler<Close><End of Block>
+<TextBlock 354 w:10 h:1>
+Fuse<Close><End of Block>
+<TextBlock 355 w:24 h:1>
+Jaws of Ice<Close><End of Block>
+<TextBlock 356 w:26 h:1>
+Infiltration<Close><End of Block>
+<TextBlock 357 w:56 h:6>
+Diana
+"From that day on, peace
+has disintegrated.<Delay 45>
+But,<Delay 5> we are alive<Delay 5>...<Delay 5>
+That's a truth that can't
+be changed.<New>
+It's not that everything
+has ended.<Delay 15>
+Our planet has just returned
+to its original state<Delay 5>...<Delay 5>
+And we are still alive.<Delay 15>
+All has not been lost<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 358 w:54 h:7>
+Diana
+"Looking at your eyes,<Delay 5> I
+know you too haven't lost
+your hope<Delay 5>...<Delay 20>      
+Hehe<Delay 5>...<Delay 5>
+I remember the day you came
+to the Imperial Capital."<Close><End of Block>
+<TextBlock 359 w:56 h:5>
+Battler
+"Oh, so you too heard the 
+rumors and came to try out
+Battling, here, at this 
+place once known as Kislev?<New>
+The world has been shattered
+by angels of death but we
+still live on like this.<Delay 15>
+This is not the end for us!"<Close><End of Block>
+<TextBlock 360 w:56 h:5>
+Battler
+"I'm a 'Battler',<Delay 5> a warrior!<Delay 15>
+I'll fight,<Delay 5> fight,<Delay 5> fight on
+to the end,<Delay 5> unto death do
+me part!"<Close><End of Block>
+<TextBlock 361 w:56 h:6>
+Amazoness
+"The continent of Ignas
+and its countries...
+the Empire of Kislev and
+the Kingdom of Av...
+these all no longer exist.<New>
+Our world lost such names
+on that day<Delay 5>...<Delay 5> The survivors
+have gathered in the snow
+field far to the south<Delay 5>...<Delay 5>
+It's 'the last stand of the
+living'!"<Close><End of Block>
+<TextBlock 362 w:52 h:6>
+Amazoness
+"I abandoned this place
+once, but it's the city
+in which I was born!<Delay 15>
+I can't turn my back on
+it that easily!<New>
+That's why I came back<Delay 5>...
+Back to what was once the
+Imperial Capital.<Delay 15>
+Even if destruction was to
+come on this world, I'd go
+on protecting it!<Close><End of Block>
+<TextBlock 363 w:58 h:6>
+Former Imperial City Guard
+"What inhumed our world that
+day was<Delay 5>...<Delay 5>an angel<Delay 5>...<Delay 5>a,<Delay 5> a
+so-called messenger of god ?<Delay 30>
+My sister,<Delay 5> my mother,<Delay 5> my 
+father<Delay 5>...<Delay 5>they are all dead!<New>
+I,<Delay 5> I am a soldier of the 
+military empire of Kislev!<Delay 15>
+And yet,<Delay 5> ...<Delay 5>and yet,<Delay 5> ...<Delay 5>and
+yet,<Delay 5> I could do nothing!!!<Delay 15>
+Damn it!<Delay 5> ...<Delay 10>Damn everything!"<Close><End of Block>
+<TextBlock 364 w:54 h:4>
+Big Joe
+"Destruction was poured out
+onto our entire world<Delay 5>...<New>
+Death poured down on all 
+the living<Delay 5>...<Delay 5>
+It was fate,<Delay 5>
+unavoidable fate!<Close><End of Block>
+<TextBlock 365 w:56 h:4>
+Big Joe
+Allow me to show my 
+appreciations for all 
+you have done fellas.<New>
+I brought this here from the
+Wildcat bar in what was the
+Imperial capital Noatun.<Delay 5>
+I also fixed it up a little.<New>
+It should be a lot more
+friendlier now.<Delay 5> But you'll
+never know unless you try,<Delay 5>
+so give it a listen, huh!<New>
+It was hard to get rid of
+the elegant old grain look
+it had when placed in the
+Wildcat, but<Delay 5>...<New>
+well, anyway, don't you
+think the new faux marble
+design is kinda groovy?"<Close><End of Block>
+<TextBlock 366 w:56 h:4>
+Big Joe
+"Brought this from the empty
+remains of the bar in the 
+Imperial Capital Noatun.<New>
+The outside was damaged, 
+so I had to change it<Delay 5>...<Delay 15>
+It was hard to get rid of
+the elegant old grain look.<New>
+But, anyway, don't you
+think the new faux marble
+design is kinda groovy? <Delay 15>Now,
+if only I had an 'M disk'!<New>
+You can listen to 'M disks'
+with this,<Delay 5> but I gave my
+'M disk' to the girlies in
+the old Imperial Capital.<New>
+It was a valuable premium
+disk refined with Ether
+logic too!<Delay 5>
+If only I had known<Delay 5>... !"<Close><End of Block>
+<TextBlock 367 w:36 h:2>
+Receptionist
+"Match forfeited!"<Close><End of Block>
+<TextBlock 368 w:46 h:3>
+Receptionist
+"Hmm, not a bad battle!
+Keep it up!"<Close><End of Block>
+<TextBlock 369 w:56 h:5>
+Receptionist
+"Wow, you're sooo strooong!
+Boy, was he ever outmatched!
+Ooh, I get goose bumps
+at your overwhelming power!"<Close><End of Block>
+<TextBlock 370 w:52 h:4>
+Receptionist
+"So this is what they mean
+by 'taking great risks'?
+Well done on a close win!"<Close><End of Block>
+<TextBlock 371 w:56 h:4>
+Receptionist
+"Too bad, you lose! It was
+not due to any obvious flaw,
+so you might win next time.<Close><End of Block>
+<TextBlock 372 w:56 h:5>
+Receptionist
+"I'll give you some advice!<Delay 15>
+You're not limited to just
+the <X> and <S> button's
+physical attacks!<New>
+There is another attack form
+called 'Ether Bullets' that
+are useful on distant foes.<Delay 15>
+They are simple to use,<Delay 5> just
+press the 'R1 button',<Delay 5> OK!"<Close><End of Block>
+<TextBlock 373 w:54 h:4>
+Receptionist
+"Right, just remember to
+press the 'R1 button' to
+shoot 'Ether Bullets'!<New>
+This will increase your
+chances of winning for 
+sure!<Delay 30> (...or so we hope!?)"<Close><End of Block>
+<TextBlock 374 w:48 h:3>
+Receptionist
+"Attacking while jumping
+is awesome! Master it!"<Close><End of Block>
+<TextBlock 375 w:56 h:5>
+Receptionist
+"One weakness that I can see
+from watching your bout is 
+that you seem to use your 
+'Ether Bullets' too much.<New>
+You should better understand
+the nature of the attack...
+'Ether Bullets' raise your
+'Heat Gauge (H.G.)' by quite
+a large percentage.<New>
+Three shots will easily send
+your H.G. to the MAX 
+condition. If you continue 
+to attack in that condition,
+your machine overheats.<New>
+The excess heat begins to
+cause damage, so if you
+don't take care, your HP
+will fall to zero before
+you realize it!"<Close><End of Block>
+<TextBlock 376 w:50 h:4>
+Receptionist
+"The heat accumulated by
+your Gear is shown in the
+on-screen H.G..<New>
+Manage your heat during
+battle with the aid of 
+this H.G.. Oh, and don't
+forget to stay cool now!"<Close><End of Block>
+<TextBlock 377 w:56 h:6>
+Receptionist
+"The main cause of your loss
+is this: your over-reliance
+on 'Dash' movement! Simply
+put, you run round too much!<New>
+Dashing about may be a good
+strategy but you'll notice
+that the 'Heat Gauge (H.G.)'
+which shows your Gear's heat
+level, climbs much faster!<New>
+You can continue to DASH
+even after your H.G. reaches
+the MAX condition, but as 
+your Gear overheats more and
+more, it will cause damage!<Close>
+If you don't take care, then
+your H.P. will fall to zero,
+and before you know it, you
+will lose the use of both
+'Dash' and 'Ether Bullets'!"<Close><End of Block>
+<TextBlock 378 w:50 h:4>
+Receptionist
+"The heat accumulated by
+your Gear is shown in the
+on-screen H.G..<New>
+Manage your heat during
+battle with the aid of 
+this H.G.. Oh, and don't
+forget to keep cool now!"<Close><End of Block>
+<TextBlock 379 w:54 h:4>
+Receptionist
+"<Delay 5>...<Delay 5>You do realize why you
+lost don't you?<Delay 15> If not then
+I'll tell you if you want!"<Close><End of Block>
+<TextBlock 380 w:56 h:4>
+Receptionist
+"Want to know why you lost?"<Delay 15>
+<Opcode 1 255>    No, I don't!
+    Of course I do!<Close><End of Block>
+<TextBlock 381 w:56 h:5>
+Receptionist
+"There are two reasons for
+your loss. First, your over-
+reliance on the 'R1 button'
+to shoot 'Ether bullets'.<New>
+'Ether Bullets' are useful
+when your foe is far away,
+but using them too much will
+cause problems with your own
+Gear's heat level!<New>
+Second is your over-use of
+'Dash movement'. The use of
+either of these when your
+'Heat Gauge' is at MAX will
+cause your Gear to overheat!<New>
+Whilever your overheating,
+you will be taking damage,
+so if you're not careful,
+before you know it, your 
+H.P. will fall to zero!"<Close><End of Block>
+<TextBlock 382 w:52 h:4>
+Receptionist
+"The point is the over-use
+of either ability is bad 
+for your Gear!<New>
+The heat accumulated by
+your Gear is shown in the
+on-screen 'Heat Gauge'.<New>
+Refer to this Heat Gauge
+(H.G.) to help you manage
+your heat during battle.
+'Keep your cool'!"<Close><End of Block>
+<TextBlock 383 w:56 h:4>
+Receptionist
+"<Delay 5>...<Delay 5>knowing the reasons for
+your defeat will help you to
+fight better next time!"<Close><End of Block>
+<TextBlock 384 w:52 h:4>
+Receptionist
+"Obviously the Gears were
+unevenly matched...!
+Or was it the pilots?<New>
+Sorry to say this to you, 
+but either-way, your not 
+much of an opponent!"<Close><End of Block>
+<TextBlock 385 w:56 h:4>
+Receptionist
+"Practice makes perfect! 
+We recommend our 'Practice 
+Mode' to you. Try it today!"<Close><End of Block>
+<TextBlock 386 w:42 h:4>
+Receptionist
+"So near yet so far! 
+Too bad!
+You almost had him!"<Close><End of Block>
+<TextBlock 387 w:54 h:5>
+Receptionist
+"That was a good match! 
+Either of you could have 
+easily won! Now try harder 
+to win on the rebound!"<Close><End of Block>
+<TextBlock 388 w:56 h:5>
+Receptionist
+"<Delay 5>...<Delay 5>Are you a pacifist?
+<Delay 5>...<Delay 5>Or don't you know how to 
+control a Gear?<New>
+You need to know the basic
+controls, so perhaps you 
+should try out our Practice 
+Mode! Speak to the girl at 
+the counter next to me."<Close><End of Block>
+<TextBlock 389 w:54 h:5>
+Receptionist
+"You can't just do nothing
+and expect to win!
+You need to practice first 
+to get the hang of it!"<Close><Close><End of Block>

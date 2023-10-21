@@ -615,7 +615,7 @@ Informationist
 button...<Delay 15> Assuming that your
 opponent is on your right
 (from your viewpoint) then:<New>
-<=> Up moves your Gear back
+<=> Up moves your Gear out
   away from the screen.<Delay 45>
 <=> Down moves your Gear in
   towards the screen.<New>
@@ -632,7 +632,7 @@ swift backward acceleration!<New>
 This instantly distances
 you from your opponent (or
 allows you to 'run away'!)<New>
-Just remember, move in the
+Just remember: move in the
 direction opposite your
 opponent."<Close><End of Block>
 <TextBlock 125 w:54 h:5>
@@ -653,10 +653,11 @@ limited to just one blow.<New>
 By combining the <X> and <S>
 buttons you are able to make
 a chain of attacks up to
-three long!<New>
-Altogether there are
-fourteen such combinations
-that you can use!"<Close><End of Block>
+three in length!<New>
+In all, there are eight
+Strings, for a total of four-
+teen attacks! Not every Gear
+has that many, though."<Close><End of Block>
 <TextBlock 127 w:56 h:4>
 Informationist
 "The <S> button is Attack.<Delay 15>
@@ -670,20 +671,18 @@ By combining the <X> and <S>
 buttons you are able to make
 a chain of attacks up to
 three in length!<New>
-Altogether there are
-fourteen such combinations
-that you can try out!"<Close><End of Block>
+In all, there are eight
+Strings, for a total of four-
+teen attacks! Not every Gear
+has that many, though."<Close><End of Block>
 <TextBlock 128 w:56 h:4>
 Informationist
 "The <T> button is for Jump!<Delay 5>
-Your movement controls are
-the same during Jumps.<New>
-Also, you are able to attack
-with the <X> and <S> buttons
-during Jumps!<New>
+The slope and your speed
+affect how you jump.<New>
 Oh, and it's alright to use
-the R1 button to make Ether
-Bullet attacks, too!"<Close><End of Block>
+the R1 button to fire Ether
+Bullets, too!"<Close><End of Block>
 <TextBlock 129 w:53 h:4>
 Informationist
 "The <C> button is for Dash.<Delay 10>
@@ -694,10 +693,10 @@ cannot continue running
 indefinitely."<Close><End of Block>
 <TextBlock 130 w:54 h:5>
 Informationist
-"For more details, try
-the Tutorial Mode, where
-you'll get an explanation
-from a different official."<Close><End of Block>
+"Like with Ether bullets,
+your Gear will break down
+if you overheat. Watch for
+the red bar on the side."<Close><End of Block>
 <TextBlock 131 w:56 h:6>
 Informationist
 "Attacking isn't everything!<Delay 10>
@@ -728,7 +727,7 @@ will get an explanation from
 a different official."<Close><End of Block>
 <TextBlock 134 w:56 h:4>
 Informationist
-"The START button will
+"The Start button will
 permit you to pause the
 battle.<New>
 At this time, you may select
