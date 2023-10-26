@@ -18,7 +18,7 @@ Timer: 100.0000
 [V4 Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
 Style: Default,Xenogears Interior,25,16777215,0,0,0,0,0,1,2,2,2,20,20,30,0,0
-Style: Normal,XG PWB,32.5,16777215,0,0,8663870,0,0,1,2,0,2,20,20,30,0,0
+Style: Normal,XG PWB 1.1,32.5,16777215,0,0,8663870,0,0,1,2,0,2,20,20,30,0,0
 
 [Fonts]
 
