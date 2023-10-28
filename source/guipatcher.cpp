@@ -600,12 +600,12 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			{
 			case 0:
 				removeMiscButtons();
-				generalButtonCustomiser(hWnd);
+				//generalButtonCustomiser(hWnd);
 				tabNo = 1;
 				break;
 			case 1:
 				removeGeneralButtons();
-				miscButtonCustomiser(hWnd);
+				//miscButtonCustomiser(hWnd);
 				tabNo = 2;
 				break;
 			default:
@@ -921,8 +921,7 @@ void tooltipTextMaker(HWND hWnd) {
 		"native aspect ratio. If your emulator or\n"
 		"scaler is already applying some kind of\n"
 		"correction to the game's overall aspect\n"
-		"ratio, you may NOT need this fix on top\n"
-		"of that.";
+		"ratio or PAW, you may NOT need this fix.\n";
 	HWND tt_portraits = toolGenerator(text_portraits, hWnd, portraits);
 }
 
