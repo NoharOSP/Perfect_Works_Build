@@ -73,6 +73,8 @@ std::string statName1 = "";
 std::string statName2 = "";
 std::string arenaName1 = "";
 std::string arenaName2 = "";
+std::string graphicsName1 = "";
+std::string graphicsName2 = "";
 std::vector<HWND> globalWindList;
 std::vector<HWND> generalWindList;
 std::vector<HWND> miscWindList;

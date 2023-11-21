@@ -506,6 +506,15 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						portraitsName2 = "cd2_portraits.xdelta";
 					}
 				}
+				// Graphics edits are not applied to the items/spells, stats or script patch as they already have it applied.
+				if ((!p_items_spells && !p_script) && !p_stats) {
+					if (pathFound1) {
+						graphicsName1 = "cd1_graphics.xdelta";
+					}
+					if (pathFound2) {
+						graphicsName2 = "cd2_graphics.xdelta";
+					}
+				}
 				initialisePatchLists();
 				SetWindowText(hWnd, L"Patching...");
 				SetCursor(LoadCursor(NULL, IDC_WAIT));
@@ -600,12 +609,12 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			{
 			case 0:
 				removeMiscButtons();
-				//generalButtonCustomiser(hWnd);
+				generalButtonCustomiser(hWnd);
 				tabNo = 1;
 				break;
 			case 1:
 				removeGeneralButtons();
-				//miscButtonCustomiser(hWnd);
+				miscButtonCustomiser(hWnd);
 				tabNo = 2;
 				break;
 			default:
@@ -699,6 +708,8 @@ void initialisePatchLists() {
 	patchList2.emplace_back(statName2);
 	patchList1.emplace_back(scriptName1);
 	patchList2.emplace_back(scriptName2);
+	patchList1.emplace_back(graphicsName1);
+	patchList2.emplace_back(graphicsName2);
 }
 
 // Lock checkboxes until a bin file has been found
@@ -780,6 +791,8 @@ void reinitialisePatches () {
 	scriptName2 = "";
 	statName1 = "";
 	statName2 = "";
+	graphicsName1 = "";
+	graphicsName2 = "";
 	patchList1.clear();
 	patchList2.clear();
 }
@@ -909,11 +922,11 @@ void tooltipTextMaker(HWND hWnd) {
 		"experience the story.";
 	HWND tt_easy = toolGenerator(text_easy, hWnd, easy);
 	char text_hard[] =
-		"Allows for a harder playthrough. Specific\n"
+		"A mode dedicated to veterans. Specific\n"
 		"items and equipment have been readjusted,\n"
 		"character spells and stats have been\n"
-	    "rebalanced, and several of the bosses\n"
-	    "have received buffs.";
+		"rebalanced, and several of the bosses\n"
+		"have received buffs.";
 	HWND tt_hard = toolGenerator(text_hard, hWnd, hard);
 	char text_portraits[] =
 		"Corrects the proportions of all character\n"
