@@ -1,9 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.3.4 here:
-- Google Drive: https://drive.google.com/file/d/1nEBChEIVwdC7O9ZqyrwvBFZLO-2K34NP/view?usp=sharing
-- MEGA: https://mega.nz/file/WXIHhDoJ#T-eZDz6zXZa4aeRiolz6EgEFNGB8LogDC_RzUGprO7U
+Download version 0.3.5 here:
+- Google Drive: https://drive.google.com/file/d/1usYZrjKIU0Nw98e4uxNs2evatSEhcvzH/view?usp=sharing
+- MEGA: https://mega.nz/file/XHoSFYrZ#uAXPDMUUJ2tafYA0OEero7BDg0DAbP7SF25CeB2e01M
 
 ## Instructions:
 
@@ -34,10 +34,12 @@ This step applies if you're playing the game using Beetle PSX HW and multiple pa
 
 ## Coming soon:
 
-- Name swapper
-- Softsubs
-- Online updater
 - Music swap
+- Basic and expert modes for the Battling arena
+- Definitive fix to Billy's Ether ammo glitch
+- Combined item/spells and stat Patches
+- Heimdall/Fenrir can now heal
+- Defend boosts AP
 
 ## Introduction:
 
@@ -46,6 +48,17 @@ Hello. My name is Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito. I am a character 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.3.5:
+
+11/22/2023
+
+- Fix to fatal glitch with the patcher where options won't load if the Modes tab is selected.
+- Hard mode is outrighted stated to be intended for veterans in the tooltip.
+- Graphical fix to the gear UI in battle is no longer exclusive to the items/spells and story script.
+- Omnigears have been buffed so that their attacks use 50% less fuel, while their Special Options use 20% less fuel.
+- Elly's agility has been increased to 9.
+- Xenogears' attacks cost no fuel.
 
 ### Version 0.3.4:
 
@@ -267,6 +280,11 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 ## Archive:
 
 ### Builds:
+
+## Version 0.3.4:
+
+- Google Drive: https://drive.google.com/file/d/1nEBChEIVwdC7O9ZqyrwvBFZLO-2K34NP/view?usp=sharing
+- MEGA: https://mega.nz/file/WXIHhDoJ#T-eZDz6zXZa4aeRiolz6EgEFNGB8LogDC_RzUGprO7U
 
 ## Version 0.3.3:
 
