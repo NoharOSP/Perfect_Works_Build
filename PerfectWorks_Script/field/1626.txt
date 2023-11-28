@@ -1,31 +1,30 @@
 <TextBlock 1 w:46 h:2>
 Elly
 "Fei, are you alright?"<Close><End of Block>
-<TextBlock 2 w:46 h:3>
+<TextBlock 2 w:38 h:3>
 Fei
-"Yeah.<Delay 10>
-Close shave,<New>
+"Yeah.<Delay 10> Close shave,
 but we made it."<Close><End of Block>
-<TextBlock 3 w:42 h:2>
+<TextBlock 3 w:36 h:4>
 Fei
 "What?<New>
 I thought we were
-done with this!<New>
-Those robots are
-still coming!"<Close><End of Block>
-<TextBlock 4 w:40 h:3>
+done with this!
+Those weird robots
+are still coming!"<Close><End of Block>
+<TextBlock 4 w:34 h:3>
 Fei
 "...?<Delay 10>
-What's wrong, Elly?"<Close><End of Block>
-<TextBlock 5 w:48 h:4>
+What's up, Elly?"<Close><End of Block>
+<TextBlock 5 w:38 h:4>
 Elly
-"...<Delay 10>So, this is the
-place...<Delay 20> I might be
-able to do something.<New>
-Anyway, let's try to run
-through here!!"<Close><End of Block>
-<TextBlock 6 w:12 h:1>
-Yeah!!<Close><End of Block>
+"...<Delay 10>I see, this
+place is<--><Delay 20> We might
+have a chance.<New>
+In any case, let's
+run through here!!"<Close><End of Block>
+<TextBlock 6 w:14 h:1>
+Right!!<Close><End of Block>
 <TextBlock 7 w:3 h:1>
  <Close><End of Block>
 <TextBlock 8 w:34 h:2>

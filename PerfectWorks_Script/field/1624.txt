@@ -5,15 +5,15 @@ Araboth Plaza's ahead.<Delay 10>
 No one is being allowed
 through without business!<Close><End of Block>
 <TextBlock 3 w:50 h:4>
-You have a ticket.<Delay 10> 
-Alright, go on through.<Delay 10> 
+You have tickets.<Delay 10>
+Alright, go on through.<Delay 10>
 Better hurry or you won't
-make it in time.<Close><End of Block>
-<TextBlock 4 w:48 h:4>
-These are special seats 
-for the Dedication.<Delay 10> 
-Huh?<Delay 10> No ticket?<Delay 10>
-You can't go in...<Close><End of Block>
+make it in time!!<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Up ahead are the VIP seats
+for the fleet review.<Delay 10>
+Huh?<Delay 10> No tickets?<Delay 10> Then
+you can't go through...<Close><End of Block>
 <TextBlock 5 w:52 h:3>
 Huh?<Delay 10> What kind of person?<Delay 10> 
 Why, a Solaris beauty,
@@ -24,18 +24,18 @@ we now are accepting data
 for the marriage service.<New>
 The Central Control Bureau
 will pick the very best
-match for you. <New>
+match for you.<New>
 Our motto is 'Good matches
 make good descendants'.<New>
 We are the seed that came
-from it, so of course we 
+from it, so of course we
 are the best.<Close><End of Block>
-<TextBlock 7 w:48 h:2>
-The Dedication Ceremony 
+<TextBlock 7 w:34 h:2>
+The fleet review
 was amazing!!<Close><End of Block>
 <TextBlock 8 w:46 h:4>
 Whaddya think of these
-Pogoshoes?<Delay 10> 
+pogoshoes?<Delay 10>
 They were made from
 the newest technology.<New>
 They don't put stress
@@ -45,16 +45,16 @@ The Imperial model is a
 super cool ultra rare
 item.<Close><End of Block>
 <TextBlock 9 w:44 h:3>
-'The dedication ends 
-with huge fanfare'...<Delay 10> 
+'The fleet review ends
+with huge fanfare'...<Delay 10>
 It was great.<Close><End of Block>
-<TextBlock 10 w:36 h:2>
-The Dedication is 
-starting soon.<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+The fleet review
+is starting soon.<Close><End of Block>
 <TextBlock 11 w:48 h:4>
 'Success of the Imperial
 Gate Removal Plan'...<Delay 10>
-It was the will of 
+It was the will of
 the Emperor.<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 'Solaris Defense Field
@@ -62,26 +62,26 @@ Destroyed'...<Delay 10>
 Those savages are really
 in trouble now.<Close><End of Block>
 <TextBlock 13 w:50 h:4>
-Hmm, the newest model 
-anti-grav car, 'Roach'.<Delay 10> 
+Hmm, the newest model
+anti-grav car, 'Roach'.<Delay 10>
 The design needs a little
 work.<Close><End of Block>
 <TextBlock 14 w:52 h:4>
 Did you hear the Emperor
-and Karellen's broadcast?<Delay 10> 
-It was magnificent...<Delay 10><New>
-But that Ramsus is 
-unforgiveable.<Delay 10>
+and Karellen's broadcast?<Delay 10>
+It was magnificent...<New>
+But that Ramsus is
+unforgivable.<Delay 10>
 Always at the Emperor's
 feet!<Close><End of Block>
 <TextBlock 15 w:50 h:3>
-There seems to be a big 
+There seems to be a big
 struggle on the surface.<New>
-But it has absolutely 
+But it has absolutely
 nothing to do with us.<New>
 As long as the Emperor is
 with us, we can live in
-peace. <New>
+peace.<New>
 Jumping out of a frying
 pan just might land you
 in the fire...<New>
@@ -94,11 +94,11 @@ You can get whatever
 you want here.<New>
 Look, I should have lost
 this arm in an accident,
-but with Solaris' biosampling
-Look, no scar.<New>
-There are none of the 
+but thanks to Solaris'
+biosampling, look <--> no scar.<New>
+There are none of the
 crimes, disasters or wars
-like on earth.<New>
+like on the surface.<New>
 Science makes everything
 possible for us.<Close><End of Block>
 <TextBlock 18 w:48 h:4>
@@ -107,28 +107,28 @@ Solaris' battleships...<Delay 10>
 It makes me feel safe
 just seeing them.<Close><End of Block>
 <TextBlock 19 w:54 h:4>
-Just looking down and
-seeing the earth I think...<Delay 10>
-Those poor souls can't
+Looking down and seeing
+the surface, I think...<Delay 10>
+those poor souls can't
 live in this fine city.<New>
 Even if they destroy the
-gate, it's all a waste
+Gate, it's all a waste
 of effort...<New>
-Futile resistance from 
+Futile resistance from
 those who will never
 reach our paradise.<Close><End of Block>
 <TextBlock 20 w:54 h:3>
-Did you hear the Emperor's 
+Did you hear the Emperor's
 magnificent speech?<New>
-It brings me to tears just 
+It brings me to tears just
 hearing his deep baritone.<Delay 10> 
 You too?<Close><End of Block>
 <TextBlock 21 w:52 h:4>
 The Emperor will give 
 the speech himself.<New>
-He can't stand to see our 
-confusion anymore so he 
-went out of the way to 
+He can't stand to see our
+confusion anymore so he
+went out of the way to
 make an appearance.<New>
 We should be thankful.<Close><End of Block>
 <TextBlock 22 w:46 h:2>
@@ -137,7 +137,7 @@ but this is the DK1200!<Close><End of Block>
 <TextBlock 23 w:36 h:1>
 Yaay! The Emperor!<Close><End of Block>
 <TextBlock 24 w:48 h:4>
-The Dk1200 is so cool!
+The DK1200 is so cool!
 They improved it, so it
 dances and sings
 perfectly.<Delay 10><New>
@@ -145,42 +145,42 @@ I can't wait to download
 the newest songs.<Close><End of Block>
 <TextBlock 25 w:52 h:3>
 Two strange people were
-just being chased by 
+just being chased by
 Security Cubes...<New>
 I wonder if they were the
 ones Karellen mentioned?<New>
-You're a 3rd Class citizen
-but you wouldn't do that,
-right?<Close><End of Block>
+You're a Third-Class
+citizen, but you wouldn't
+do that, right?<Close><End of Block>
 <TextBlock 26 w:44 h:3>
-You have a ticket? <Delay 10>
-You'd better hurry to 
+You have tickets?<Delay 10>
+You'd better hurry to
 make it on time!<Close><End of Block>
 <TextBlock 27 w:52 h:4>
 Up ahead is Araboth Plaza.<Delay 10>
-The Dedication ceremony
-is about to start but you
-don't have a ticket, so...<Close><End of Block>
-<TextBlock 28 w:50 h:2>
+The fleet review is about
+to start but you don't
+have a ticket, so...<Close><End of Block>
+<TextBlock 28 w:54 h:2>
 ...<Delay 10>
 You look rather odd.<New>
-3rd Class citizens should
-dress more appropriate.<Close><End of Block>
-<TextBlock 29 w:40 h:4>
-The Dedication is
-starting.<Delay 10>
+Third-Class citizens should
+dress more appropriately.<Close><End of Block>
+<TextBlock 29 w:38 h:4>
+The fleet review
+is starting.<Delay 10>
 The whole city will
 be lively.<Close><End of Block>
-<TextBlock 30 w:50 h:2>
+<TextBlock 30 w:54 h:2>
 ...<Delay 10>
 You look rather odd.<New>
-3rd Class citizens should
-dress more appropriate.<Close><End of Block>
+Third-Class citizens should
+dress more appropriately.<Close><End of Block>
 <TextBlock 31 w:26 h:1>
 Danger ahead.<Close><End of Block>
-<TextBlock 32 w:44 h:2>
+<TextBlock 32 w:48 h:2>
 There will be traffic
-during the Dedication.<Close><End of Block>
+during the fleet review.<Close><End of Block>
 <TextBlock 33 w:26 h:1>
 Danger ahead.<Close><End of Block>
 <TextBlock 34 w:44 h:4>
@@ -196,105 +196,115 @@ has fun things.<Delay 10>
 It's their job to keep
 the citizens happy.<Close><End of Block>
 <TextBlock 35 w:31 h:3>
-<]><Delay 5><]><Delay 5><]><Delay 5>ID check.  
+<]><Delay 5><]><Delay 5><]><Delay 5>ID check.
 !%#?&+!<Delay 10>
- ...Check OK.<Close><End of Block>
+ ...Cleared.<Close><End of Block>
 <TextBlock 36 w:33 h:3>
-<]><Delay 5><]><Delay 5><]><Delay 5>ID check.   
+<]><Delay 5><]><Delay 5><]><Delay 5>ID check.
 !%#?&+!<Delay 10>
-...Check OK.<Close><End of Block>
+...Cleared.<Close><End of Block>
 <TextBlock 37 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
-<TextBlock 38 w:49 h:3>
+<TextBlock 38 w:40 h:3>
 Etemen News Flash.
-<]><Delay 5><]><Delay 5><]><Delay 5>The Dedication will 
-start shortly.<Close><End of Block>
+<]><Delay 5><]><Delay 5><]><Delay 5>The fleet review
+will start shortly.<Close><End of Block>
 <TextBlock 39 w:50 h:3>
-Solaris Sound Service: 
+Solaris Sound Service:
 The top new songs...<New>
-<=>DK1200/Anti-g-Love car
+<=>DK1200/Anti-G-Love Car
 <=>Skyhook/Elevator Song
-<=>Remi/Solaris sunset<New>
+<=>Remi/Solaris Sunset<New>
 Download these new songs
 at the nearest terminal.<New>
-We recommend DK 950 users
-upgrade to the DK 1200.<Close><End of Block>
-<TextBlock 40 w:32 h:3>
-...You two...<Delay 10>
-Please stop all 
-action...<Close><End of Block>
-<TextBlock 41 w:50 h:3>
-...Suspicious persons...
-sighted in Araboth
-Plaza... Investigating...<Close><End of Block>
-<TextBlock 42 w:28 h:3>
+We recommend DK950 users
+upgrade to the DK1200.<Close><End of Block>
+<TextBlock 40 w:46 h:3>
+You two, there...<New>
+You are requested to
+desist from walking and
+all other movement.<Close><End of Block>
+<TextBlock 41 w:36 h:3>
+You are under
+investigation<New>
+due to reports of
+suspicious persons
+in Araboth Plaza!<Close><End of Block>
+<TextBlock 42 w:34 h:3>
 Fei
-"Elly, 
-they're here!"<Close><End of Block>
+"Elly, it's those
+annoying things!"<Close><End of Block>
 <TextBlock 43 w:48 h:4>
 Elly
-"If those Security Cubes
-catch us, we're in big
-trouble!<Delay 10> Fei, this way!"<Close><End of Block>
+"If the Security Cubes
+catch us, it's all over!<Delay 10>
+Fei, this way!"<Close><End of Block>
 <TextBlock 44 w:12 h:1>
 Elly!!<Opcode 2 20><Close><End of Block>
 <TextBlock 45 w:56 h:1>
-...Stop! Desist from moving!<Close><End of Block>
+Please desist from movement.<Close><End of Block>
 <TextBlock 46 w:6 h:1>
 ...<Opcode 2 30><Close><End of Block>
-<TextBlock 47 w:42 h:2>
+<TextBlock 47 w:30 h:3>
 Fei
-"I'll have to jump!!"<Close><End of Block>
+"I guess I'll
+have to jump!!"<Close><End of Block>
 <TextBlock 48 w:4 h:1>
 !!<Opcode 2 15><Close><End of Block>
-<TextBlock 49 w:38 h:1>
-...They...<Delay 20>escaped!?<Close><End of Block>
-<TextBlock 50 w:34 h:1>
-...Affirmative...<Close><End of Block>
-<TextBlock 51 w:16 h:1>
-Attack!!<Opcode 2 30><Close><End of Block>
-<TextBlock 52 w:26 h:1>
-...This way!?<Opcode 2 30><Close><End of Block>
-<TextBlock 53 w:44 h:2>
-...Suspects, escaped!!
-...Emergency response!<Close><End of Block>
-<TextBlock 54 w:48 h:4>
+<TextBlock 49 w:30 h:1>
+They...<Delay 20>escaped?<Close><End of Block>
+<TextBlock 50 w:28 h:1>
+Affirmative...<Close><End of Block>
+<TextBlock 51 w:22 h:2>
+Attack mode
+enabled!!<Opcode 2 30><Close><End of Block>
+<TextBlock 52 w:20 h:1>
+This way!?<Opcode 2 30><Close><End of Block>
+<TextBlock 53 w:40 h:2>
+Suspicious persons,
+escaped!!<New>
+Requesting immediate
+backup!!<Close><End of Block>
+<TextBlock 54 w:46 h:3>
 Elly
-"Dedication ceremony...<Delay 10>
-Solaris is probably not 
-doing so well now."<Close><End of Block>
-<TextBlock 55 w:46 h:4>
+"A fleet review...<New>
+Maybe we could get some
+insight into Solaris'
+current circumstances."<Close><End of Block>
+<TextBlock 55 w:40 h:3>
 Fei
-"Huh? <Delay 10>
-Why do we have to watch
-this? <New>
-We decided to meet
-everyone. We don't have
-time to go this
-festival."<Close><End of Block>
-<TextBlock 56 w:52 h:3>
+"Huh?<Delay 10> Why do we have
+to watch that?<New>
+Isn't our first
+priority to regroup
+with the others?<New>
+We surely don't
+have time to go
+this festival."<Close><End of Block>
+<TextBlock 56 w:50 h:3>
 Elly
-"This is no ordinary 
+"This is no ordinary
 festival.<New>
-The people are disturbed
-by the gate's
+The citizens are clearly
+disturbed by the Gate's
 disappearance.<New>
-The dedication is probably
-to quell the masses.<New>
-We must check Solaris'
-stance against land 
-dwellers.<New>
-Fei,<Delay 10> 
-we need to get tickets."<Close><End of Block>
-<TextBlock 57 w:52 h:4>
+The review is probably
+something to quell the
+unrest of the masses.<New>
+We have to confirm
+Solaris' stance regarding
+the land dwellers.<New>
+Fei,<Delay 10> let's get
+tickets somehow."<Close><End of Block>
+<TextBlock 57 w:46 h:4>
 Fei
-"Yeah?<Delay 10> 
-I guess we have to get 
-some info on the enemy..."<Close><End of Block>
-<TextBlock 58 w:44 h:4>
+"Yeah?<Delay 10> Well, we do need
+to get a handle on the
+enemy's situation..."<Close><End of Block>
+<TextBlock 58 w:42 h:4>
 Elly
-"Hurry up.<Delay 10> 
-There's not much time 
-till the Dedication."<Close><End of Block>
+"Let's hurry.<Delay 10>
+There's not much time
+till the review."<Close><End of Block>
 <TextBlock 59 w:0 h:1>
 <Close><End of Block>

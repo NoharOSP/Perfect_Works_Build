@@ -1,7 +1,7 @@
-<TextBlock 1 w:48 h:3>
+<TextBlock 1 w:44 h:3>
 Fei
-"Let's take care of this
-and move on!"<Close><End of Block>
+"Let's move on and be
+done with this place!"<Close><End of Block>
 <TextBlock 2 w:40 h:3>
 What are you doing!?<Delay 10>
 You are ordered to

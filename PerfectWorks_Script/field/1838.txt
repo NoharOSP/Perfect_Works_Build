@@ -278,16 +278,18 @@ looked way back then<Delay 5>..."<Close><End of Block>
 <TextBlock 52 w:36 h:2>
 Torah
 "Right, Lacan...?"<Close><End of Block>
-<TextBlock 53 w:46 h:3>
+<TextBlock 53 w:32 h:4>
 Karellen
-"Lacan, look at this.<Delay 10>
-I finally completed it.<Delay 10><New>
-This will save people's
-lives."<Close><End of Block>
-<TextBlock 54 w:48 h:4>
+"Behold, Lacan.<Delay 10>
+We finally made
+it a reality.<New>
+With this, the
+people will be
+saved."<Close><End of Block>
+<TextBlock 54 w:40 h:4>
 Karellen
 "Isn't that right,<Delay 10>
-Melchior?<Delay 10> With this even
-Sophia will..."<Close><End of Block>
+Melchior?<Delay 10> With this,
+Sophia, too, will<-->"<Close><End of Block>
 <TextBlock 55 w:3 h:1>
  <Close><Close><End of Block>

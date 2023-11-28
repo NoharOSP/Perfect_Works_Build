@@ -1,66 +1,66 @@
 <TextBlock 1 w:48 h:3>
 Lacan
 "<Delay 5>...<Delay 5>What did you say?<Delay 15><New>
-What's the name of the 
-teacher you're studying 
-under?"<Close><End of Block>
-<TextBlock 2 w:20 h:2>
+What's the name of the
+teacher you're studying
+under now?"<Close><End of Block>
+<TextBlock 2 w:22 h:2>
 Karellen
-"Melchior"<Close><End of Block>
-<TextBlock 3 w:44 h:3>
+"Melchior."<Close><End of Block>
+<TextBlock 3 w:34 h:3>
 Lacan
-"But still,
-why are you studying?"<Close><End of Block>
+"At a time like
+this, why study?"<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Karellen
-"Sophia told me the best 
-way to calm the heart is
-to read a book<Delay 5>...<Delay 5><New>
-It's a good opportunity.
-And it has sparked my
+"Sophia teaches that the
+best way to calm the
+spirit is to read a book.<New>
+That's what got me
+started.<Delay 10> It sparked my
 interest in studying."<Close><End of Block>
-<TextBlock 5 w:40 h:4>
+<TextBlock 5 w:40 h:3>
 Karellen
-"<Delay 5>...<Delay 5>Now,<Delay 15>
-I'm reading 3 books 
-a day."<Close><End of Block>
-<TextBlock 6 w:36 h:3>
+"<Delay 5>...<Delay 5>Now,<Delay 15> I'm reading
+three books a day."<Close><End of Block>
+<TextBlock 6 w:48 h:2>
 Lacan
-"If it can change,
-it will."<Close><End of Block>
-<TextBlock 7 w:42 h:4>
+"What a transformation."<Close><End of Block>
+<TextBlock 7 w:38 h:4>
 Lacan
-"<Delay 5>...<Delay 5>The art of war,<Delay 15>
-that's all you think 
-about<Delay 5>...<Delay 5>..."<Close><End of Block>
-<TextBlock 8 w:50 h:4>
+"<Delay 5>...<Delay 5>You<Delay 15> who thought
+about nothing but
+martial arts<Delay 5>...<Delay 5>..."<Close><End of Block>
+<TextBlock 8 w:46 h:3>
 Karellen
-"Hey, <Delay 5>that's mean.<Delay 15>
-You know, I'm the best of
-all of his students."<Close><End of Block>
-<TextBlock 9 w:50 h:4>
+"Hey, <Delay 5>that's mean.<New>
+Despite appearances,
+I'm the best of all
+the master's students."<Close><End of Block>
+<TextBlock 9 w:38 h:4>
 Lacan
-"I see<Delay 5>...<Delay 5>...<Delay 15><New>
-That's great,<Delay 5>
-it sounds like you found 
-something to put your 
-heart into<Delay 5>...<Delay 5>..."<Close><End of Block>
+"Is that so<Delay 5>...?<New>
+That's great,<Delay 5> to
+have something to
+put your heart into
+like that<Delay 5>...<Delay 5>..."<Close><End of Block>
 <TextBlock 10 w:38 h:2>
 Karellen
 "What do you mean?"<Close><End of Block>
-<TextBlock 11 w:40 h:4>
+<TextBlock 11 w:38 h:4>
 Karellen
-"You have something.<New>
-Your pictures are 
-splendid.<Delay 15>
-You should be 
-thankful<Delay 5>...<Delay 5>..."<Close><End of Block>
-<TextBlock 12 w:48 h:4>
+"Don't you have
+something?<New>
+A splendid thing <-->
+a certain<Delay 10> painting?<Delay 15>
+Not all of us are
+so lucky<Delay 5>..."<Close><End of Block>
+<TextBlock 12 w:46 h:4>
 Karellen
 "Sophia first showed me
 that books are the best
-way to calm the heart<Delay 5>...<New>
-...<Delay 5>and now I'm hooked on
+way to calm the spirit,<New>
+and now I'm hooked on
 reading."<Close><End of Block>
 <TextBlock 13 w:54 h:4>
 Karellen
@@ -74,7 +74,7 @@ Lacan
 "What is it?"<Close><End of Block>
 <TextBlock 15 w:54 h:4>
 Karellen
-"Something I borrowed 
+"Something I borrowed
 from Melchior.<New>
 It's about a form of
 molecular engineering<Delay 5>...<Delay 5>

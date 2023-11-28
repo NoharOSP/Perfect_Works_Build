@@ -1,20 +1,20 @@
 <TextBlock 1 w:12 h:1>
 !%#?&!<Close><End of Block>
-<TextBlock 2 w:50 h:3>
- One,<Delay 5> two,<Delay 5> one,<Delay 5> two !!<Delay 15>
-...I'm practicing dancing
-don't bug me!!<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+One,<Delay 5> two,<Delay 5> one,<Delay 5> two!!<Delay 15>
+...I'm practicing
+dancing, don't bug me!!<Close><End of Block>
 <TextBlock 3 w:12 h:1>
 !%#?&!<Close><End of Block>
-<TextBlock 4 w:44 h:1>
- One,<Delay 5> two,<Delay 5> one,<Delay 5> two !!<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:40 h:1>
+One,<Delay 5> two,<Delay 5> one,<Delay 5> two!!<Opcode 2 30><Close><End of Block>
 <TextBlock 5 w:14 h:1>
 !%#?&+!<Close><End of Block>
-<TextBlock 6 w:44 h:1>
- One,<Delay 5> two,<Delay 5> one,<Delay 5> two !!<Opcode 2 30><Close><End of Block>
-<TextBlock 7 w:50 h:1>
- One,<Delay 5> two,<Delay 5> three,<Delay 5> four !!<Opcode 2 30><Close><End of Block>
-<TextBlock 8 w:50 h:1>
- One,<Delay 5> two,<Delay 5> three,<Delay 5> four !!<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:40 h:1>
+One,<Delay 5> two,<Delay 5> one,<Delay 5> two!!<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:46 h:1>
+One,<Delay 5> two,<Delay 5> three,<Delay 5> four!!<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:46 h:1>
+One,<Delay 5> two,<Delay 5> three,<Delay 5> four!!<Opcode 2 30><Close><End of Block>
 <TextBlock 9 w:0 h:1>
 <Close><End of Block>

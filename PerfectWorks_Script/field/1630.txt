@@ -1,15 +1,15 @@
-<TextBlock 1 w:54 h:4>
+<TextBlock 1 w:48 h:4>
 Samson
-"From here on, it'll
-be better if we split up.
-It's a maze so be careful."<Close><End of Block>
+"From here, we'd better
+split up.<Delay 10> It's a bit of
+a maze, so be careful."<Close><End of Block>
 <TextBlock 2 w:36 h:2>
 Fei
 "Yeah, you too..."<Close><End of Block>
-<TextBlock 3 w:46 h:3>
+<TextBlock 3 w:36 h:3>
 Elly
-"Are we really going to
-be okay?"<Close><End of Block>
+"I wonder if this
+is really okay..."<Close><End of Block>
 <TextBlock 4 w:3 h:1>
  <Close><End of Block>
 <TextBlock 5 w:34 h:2>

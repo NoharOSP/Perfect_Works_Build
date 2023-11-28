@@ -4,170 +4,189 @@ Fei
 Hey, Elly!"<Close><End of Block>
 <TextBlock 2 w:46 h:3>
 Elly
-"Sorry...
+"Huh?<Delay 10>
 Did you say something?"<Close><End of Block>
 <TextBlock 3 w:48 h:4>
 Fei
-"'Did I say something?'?<Delay 10>
-Are you okay?<Delay 10>
-You're zoning. <New>
-Your mind's not here."<Close><End of Block>
-<TextBlock 4 w:48 h:4>
+"Did I 'say something'!?<Delay 10>
+What's wrong?<Delay 10>
+You look dazed. <New>
+It was like your mind
+was somewhere else,
+you know?"<Close><End of Block>
+<TextBlock 4 w:52 h:4>
 Elly
-"S,<Delay 5>sorry.<Delay 5>
-I was just thinking.<Delay 5>
-And this crowd's noisy."<Close><End of Block>
+"R-<Delay 5>Really?<Delay 5> I...<Delay 10> I was just
+thinking.<Delay 5> And it's pretty
+noisy around here..."<Close><End of Block>
 <TextBlock 5 w:4 h:1>
 ??<Opcode 2 20><Close><End of Block>
 <TextBlock 6 w:46 h:3>
 Elly
-"...Fei,<Delay 20> Fei?<Delay 10>
+"...Fei?<Delay 20> Fei?<Delay 10>
 What's wrong with you?"<Close><End of Block>
 <TextBlock 7 w:50 h:3>
 Fei
 "Uh, it's...<Delay 10>nothing...<Delay 10>
-But that guy, Karellen...<Delay 10><New>
-I feel like...<Delay 10>
+But that guy, Karellen...<New>
+Somehow I feel like...<Delay 10>
 I've met him before..."<Close><End of Block>
-<TextBlock 8 w:38 h:3>
+<TextBlock 8 w:38 h:4>
 Elly
-"Do you understand?<Delay 10>
+"Do you understand
+what he's saying?<Delay 10>
 Shall I translate?"<Close><End of Block>
-<TextBlock 9 w:30 h:2>
+<TextBlock 9 w:26 h:2>
 Fei
 "Please do."<Close><End of Block>
 <TextBlock 10 w:4 h:1>
 !?<Opcode 2 20><Close><End of Block>
-<TextBlock 11 w:60 h:4>
-<Opcode 1 255>                              
- 
-           B, Bart !          
- <Opcode 2 20><Close><End of Block>
-<TextBlock 12 w:10 h:1>
-Ughh!<Close><End of Block>
-<TextBlock 13 w:46 h:2>
+<TextBlock 11 w:10 h:1>
+<Opcode 1 255>BART!<Opcode 2 20><Close><End of Block>
+<TextBlock 12 w:16 h:1>
+...Ughh!<Close><End of Block>
+<TextBlock 13 w:50 h:3>
 Elly
-(Don't yell!<New>
+"(Enough!<New>
+Shouting like that...
 What if they find out
-you're a land dweller?)<Close><End of Block>
-<TextBlock 14 w:50 h:4>
+you're a land dweller!?)"<Close><End of Block>
+<TextBlock 14 w:40 h:4>
 Fei
-(Sorry,
-couldn't help it.<Delay 10>
-They've been caught!<New>
+"(It doesn't matter
+anyway.<Delay 10> They've been
+caught!<New>
 Damn...<Delay 10>
 Let's go!<Delay 10>
-We gotta help them...<Delay 5>...<Delay 5>)<Close><End of Block>
-<TextBlock 15 w:44 h:3>
+We gotta rescue<-->)"<Close><End of Block>
+<TextBlock 15 w:46 h:3>
 Elly
-(Wait!<Delay 10>
-He's still talking...)<Close><End of Block>
+"(Wait!<Delay 10>
+He's still talking...)"<Close><End of Block>
 <TextBlock 16 w:48 h:4>
 Elly
-('<Opcode 14 1>To revive
-our progenitors,
-the Gazel of old...<New>
-The day after tomorrow, <Delay 10>
-these land dwellers<Delay 10>
-will be disposed of in
-the Soylent System'.)<Close><End of Block>
-<TextBlock 17 w:30 h:4>
+"('<Opcode 14 1>That we may resurrect
+our progenitors, the
+Gazel of old...<New>
+the day after tomorrow,<Delay 10>
+these land dwellers will
+be processed at the
+Soylent System'...)"<Close><End of Block>
+<TextBlock 17 w:44 h:4>
 Fei
-(Revive Gazel?<Delay 10>
+"(Resurrect the Gazel?<Delay 10>
 Soylent System?<Delay 10>
-What's that?)<Close><End of Block>
+What's that?)"<Close><End of Block>
 <TextBlock 18 w:54 h:4>
 Elly
-('Gazel' are purebreed
-Solaris people...<Delay 10> the word
-means 1st Class citizens.<New>
-...But, in this case,
-it probably means 
-'the Gazel Ministry'.<New>
-Long ago the members of the
-Gazel Ministry lost their
+"('Gazel' is a word refer-
+ring to pure Solarians...
+First-Class citizens,<Delay 10><New>
+but...in this case, I
+wonder if he's talking
+about the 'Gazel Ministry'.<Delay 20>
+It's said that, long ago,<New>
+the members of the Gazel
+Ministry lost their own
 fleshly bodies in order to
 protect the Solaris people.<New>
-I've heard the Soylent
-System is an important
-support system for Solaris,
-but I don't know much else.<New>
-Anyway, it's probably a
-cover for some kind of
-experiment...)<Close><End of Block>
-<TextBlock 19 w:52 h:4>
+As for the 'Soylent
+System', I've heard
+it's a crucial support
+system for Solaris,<New>
+but I don't know the
+specifics.<Delay 20> Whatever it is,<New>
+Bart and the others are
+no doubt going to be
+subjected to some kind
+of experiment...)"<Close><End of Block>
+<TextBlock 19 w:50 h:4>
 Fei
-"Don't tell me what to do!<Delay 10>
-I'm going!<Delay 10> 
-Those guys won't stop me."<Close><End of Block>
-<TextBlock 20 w:52 h:4>
+"Talk all you want <--><Delay 10>
+I'm going!<Delay 10> This time
+they're really in trou<-->"<Close><End of Block>
+<TextBlock 20 w:50 h:4>
 Elly
-"That's why I said wait!
-We don't know what's
-going on over there.<New>
-If we just run out there
-brazenly, we might just
-fall into the same trap!<New>
-The palace is on alert so
-we need to investigate...<Delay 10> 
-We don't even know where
-they were taken prisoners.<New>
-We still have 2 days,
-I'm sure there's a way
-to help them.<Delay 10> 
-We must find it."<Close><End of Block>
-<TextBlock 21 w:44 h:3>
+"That's why I'm telling
+you to wait!<New>
+If we just wander out now
+without knowing what's
+going on, we'll end up
+the same as the others!<New>
+We need to investigate
+the security status of
+the palace...<New>
+And we don't even know
+where they're being
+held captive.<New>
+We still have two more
+days, and there must
+surely be some way of
+getting them out of this.<New>
+We just have to find it."<Close><End of Block>
+<TextBlock 21 w:42 h:3>
 Fei
-"How do you know we
-have two whole days?<New>
-What if they change 
-their mind and then
-tomorrow...<New>
-I mean, it is possible
+"Easy for you to say,<New>
+but how do we know
+it'll actually be two
+days like they said?<New>
+What if they change
+their minds and then
+tomorrow they<-->?<New>
+I mean, it's possible
 isn't it?"<Close><End of Block>
-<TextBlock 22 w:50 h:4>
+<TextBlock 22 w:52 h:4>
 Elly
-"Maybe...<Delay 10>But there's
-nothing we can do, right?<New>
-Citan wasn't there,<Delay 10> which
-means he's probably
-watching the broadcast
-somewhere right now.<New>
-First we must find him.
-He knows the layout of
-the central core of the
-city better than I do.<New>
-So let's not do anything
-careless, <Delay 10>okay?"<Close><End of Block>
-<TextBlock 23 w:26 h:3>
+"That's<--><Delay 10> Well, maybe,
+but we can't do anything
+right now, can we?<New>
+Also, Citan wasn't among<Delay 10>
+them. Which means he's
+surely watching the broad-
+cast somewhere right now.<New>
+We have to look for him,
+first of all.<Delay 10> He knows
+the layout of the Solaris
+core better than I do,<New>
+so I think that's a
+better option than
+recklessly causing
+a scene.<Delay 10> No?"<Close><End of Block>
+<TextBlock 23 w:26 h:4>
 Fei
-"Where is he?<Delay 10>
-We need him!"<Close><End of Block>
-<TextBlock 24 w:40 h:2>
+"Where IS our
+all-important
+Doc, then?"<Close><End of Block>
+<TextBlock 24 w:38 h:3>
 Elly
-"How should I know?"<Close><End of Block>
-<TextBlock 25 w:42 h:4>
+"That's<--><Delay 10> Well, how
+should I know?"<Close><End of Block>
+<TextBlock 25 w:40 h:4>
 Fei
-"Don't be a snot.<Delay 10>
-You haven't thought
-anything out at all!"<Close><End of Block>
-<TextBlock 26 w:46 h:3>
+"And yet you can
+talk like you've got
+it all figured out.<New>
+The truth is you
+have no idea!"<Close><End of Block>
+<TextBlock 26 w:48 h:4>
 Elly
-"I'm just saying, 
-we have to be careful!"<Close><End of Block>
-<TextBlock 27 w:8 h:1>
-But!<Opcode 2 20><Close><End of Block>
-<TextBlock 28 w:10 h:1>
-What!<Opcode 2 20><Close><End of Block>
-<TextBlock 29 w:42 h:1>
-Hey, what's going on?<Close><End of Block>
-<TextBlock 30 w:46 h:3>
+"I'm just saying I'm not
+so sure about proceeding
+recklessly!"<Close><End of Block>
+<TextBlock 27 w:12 h:1>
+But<-->!<Opcode 2 20><Close><End of Block>
+<TextBlock 28 w:20 h:1>
+But what!?<Opcode 2 20><Close><End of Block>
+<TextBlock 29 w:30 h:2>
+You two, what
+are you doing!?<Close><End of Block>
+<TextBlock 30 w:36 h:3>
 Fei
-"Look!<Delay 10>
-We've been discovered!"<Close><End of Block>
-<TextBlock 31 w:46 h:3>
+"Now look!<Delay 10>
+We're discovered!"<Close><End of Block>
+<TextBlock 31 w:40 h:3>
 Elly
-"It's because you keep 
+"Because you keep 
 raising your voice!"<Close><End of Block>
 <TextBlock 32 w:24 h:2>
 Elly
@@ -175,10 +194,10 @@ Elly
 <TextBlock 33 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
 <TextBlock 34 w:50 h:4>
-...city alert!!<Delay 10> 
-...two suspects located!<Delay 10> 
-...Send the Security
-Cubes immediately!!<Opcode 2 30><Close><End of Block>
+City alert!!<Delay 10> Spotted two
+suspicious individuals!<Delay 10> 
+Security Cubes dispatched
+immediately!!<Opcode 2 30><Close><End of Block>
 <TextBlock 35 w:0 h:1>
 <End of Block>
 <TextBlock 36 w:0 h:0>

@@ -7,75 +7,84 @@ Fei
 <TextBlock 3 w:50 h:3>
 Elly
 "Fei, you're so careless.<New>
-If you're trying to
-infiltrate the base,
-you have to be subtle.<Close><End of Block>
-<TextBlock 4 w:40 h:3>
+We're infiltrating enemy
+territory, you have to be
+more cautious..."<Close><End of Block>
+<TextBlock 4 w:26 h:4>
 Fei
 "Sorry...<Delay 10>
-Well, where are we?"<Close><End of Block>
-<TextBlock 5 w:54 h:3>
+So, what is
+this place?"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
 Elly
-"We're in the 'Solaris 3rd
-Class F block'.<New>
-There's around 20 blocks
-each with land dwellers
-living in them.<New>
-We Solarians are privy
-to all personal info...<New>
-Everyone's DNA structure
-is inscribed on a molecular
-level.<New>
-And even their class...<Delay 10>
-You know what these
-citizens are called?"<Close><End of Block>
+"'Solaris Third-Class
+citizen level F block'.<New>
+There're around twenty
+blocks in total, each with
+land dwellers segregated
+within them.<New>
+We Solarians have a
+molecular-scale tag
+that contains all our
+personal info,<New>
+right down to our DNA
+structure.<Delay 10> Our citizen
+class is on there, too...<New>
+Do you know what the people
+living here are called?"<Close><End of Block>
 <TextBlock 6 w:10 h:1>
 No...<Close><End of Block>
-<TextBlock 7 w:52 h:4>
+<TextBlock 7 w:54 h:4>
 Elly
-"'Worker Bees'.<Delay 10>
-It came from the shape of
-their housing blocks.<New>
-These people provide the
-manual labor vital to the
-support of Solaris' core.<New>
-I took a field trip here
-once long ago. I remember
-thinking that their lives
-had nothing to do with me.<New>
-I never thought I would
-end up here like this..."<Close><End of Block>
-<TextBlock 8 w:52 h:4>
+"'Worker bees'.<Delay 10> The name
+came from the shape of
+these housing compartments.<New>
+These people form the
+vital workforce that
+supports the very
+foundations of Solaris.<New>
+When I came here on a field
+trip long ago, I thought
+that their lives had
+nothing to do with me...<New>
+I never imagined I'd
+be breaking in here
+like this..."<Close><End of Block>
+<TextBlock 8 w:48 h:3>
 Fei
-"Which means, you should
-know your way around here,
-Elly."<Close><End of Block>
-<TextBlock 9 w:54 h:3>
+"So you know whereabouts
+we are?"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
 Elly
-"Vaguely.<Delay 10>
-We need to escape first..."<Close><End of Block>
-<TextBlock 10 w:46 h:2>
+"Sort of, yes.<Delay 10>
+First, we need to get
+out of here somehow..."<Close><End of Block>
+<TextBlock 10 w:32 h:3>
 Fei
-"Oh yeah, where's Doc?"<Close><End of Block>
-<TextBlock 11 w:50 h:3>
+"Oh yeah,
+what about Doc?"<Close><End of Block>
+<TextBlock 11 w:44 h:3>
 Elly
-"He took a different pod
-looking for you...<New>
-He may have ended
-up in a different block."<Close><End of Block>
+"He got in a different
+pod to follow you...<New>
+He may have ended up
+in some other block."<Close><End of Block>
 <TextBlock 12 w:44 h:3>
 Fei
 "Damn...<Delay 10>
 We're all spread out."<Close><End of Block>
-<TextBlock 13 w:46 h:4>
+<TextBlock 13 w:38 h:3>
 Elly
-"I wouldn't worry about
-Citan.<Delay 10> He knows this
-city better than I do."<Close><End of Block>
-<TextBlock 14 w:42 h:3>
+"I wouldn't worry
+about Citan.<New>
+He must know the
+layout of this city
+better than I do."<Close><End of Block>
+<TextBlock 14 w:42 h:4>
 Fei
 "I wonder if Bart and
-them made it OK?"<Close><End of Block>
+the others were able
+to sneak in safely?"<Close><End of Block>
 <TextBlock 15 w:46 h:3>
 Elly
 "Jessie's with them, so
@@ -83,8 +92,8 @@ they should be fine."<Close><End of Block>
 <TextBlock 16 w:28 h:2>
 Fei
 "I hope so..."<Close><End of Block>
-<TextBlock 17 w:48 h:2>
+<TextBlock 17 w:52 h:2>
 Elly
-"Anyway, let's move on."<Close><End of Block>
+"Anyway, let's get going."<Close><End of Block>
 <TextBlock 18 w:0 h:1>
 <Close><End of Block>

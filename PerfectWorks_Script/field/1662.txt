@@ -1,34 +1,33 @@
 <TextBlock 1 w:46 h:3>
 Hey, you!! <Delay 10>
-Aren't you the one 
+Aren't you the one
 from the dedication...?<Close><End of Block>
 <TextBlock 2 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 3 w:40 h:2>
 You're under arrest!<Delay 10>
 Get in that door!!<Close><End of Block>
-<TextBlock 4 w:48 h:3>
-Hey!<Delay 10> Why are you coming
-out of there!?<Delay 10> Come over
-here!<Close><End of Block>
+<TextBlock 4 w:46 h:3>
+Hey!<Delay 10> What are you doing
+leaving this area!?<Delay 10>
+Come over here!<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Elly
 "I'm an Imperial Special
 Forces lieutenant,<Delay 10>
 Elehayym Van Houten.<New>
-I have just completed
-the collection of the
-special levy of the 3rd
-Class level.<New>
-I am now in the process
-of taking this surface
+Having completed a
+special requisition on
+the Third Class level,<New>
+I am in the process of
+taking this surface
 dweller back to HQ.<Delay 10>
 Any problems with that?"<Close><End of Block>
 <TextBlock 6 w:26 h:1>
-(G, Geburah!?)<Close><End of Block>
-<TextBlock 7 w:42 h:2>
-N,<Delay 5> no,<Delay 5> no problems...<Delay 10>
-Please, go on.<Close><End of Block>
+(G-<Delay 10>Geburah!?)<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+N-<Delay 5>No,<Delay 5> no problems...<Delay 10>
+Please, go through.<Close><End of Block>
 <TextBlock 8 w:28 h:1>
 Please, go on.<Close><End of Block>
 <TextBlock 9 w:10 h:1>
@@ -45,7 +44,7 @@ WOMAN5<Close><End of Block>
 !%#?&+!<Close><End of Block>
 <TextBlock 15 w:44 h:2>
 Returning to the
-3rd class level?<Delay 10> <New>
+Third Class level?<Delay 10> <New>
 Good job.<Delay 10> 
 It must be hard work."<Close><End of Block>
 <TextBlock 16 w:26 h:1>
@@ -54,7 +53,7 @@ Working hard?<Close><End of Block>
 You've got a lot of guts
 going into an area full
 of those barbarians...<Delay 10> <New>
-Only a Geburah could 
+Only Geburah could
 do that.<Close><End of Block>
 <TextBlock 18 w:46 h:3>
 Yes, yes...<Delay 10> Oh, there's
@@ -66,24 +65,24 @@ I hate government
 offices...<Opcode 2 60><Close><End of Block>
 <TextBlock 20 w:14 h:1>
 !%#?&+!<Close><End of Block>
-<TextBlock 21 w:46 h:3>
+<TextBlock 21 w:48 h:3>
 This is the problem
 with government offices
-...grumble...grumble...<Close><End of Block>
+...*grumble, grumble*...<Close><End of Block>
 <TextBlock 22 w:14 h:1>
 !%#?&+!<Close><End of Block>
 <TextBlock 23 w:42 h:4>
 So the destruction of
-the gate was the
-Emperor's will.<Delay 10> 
+the Gate was the
+Emperor's will.<Delay 10>
 I'm relieved.<Close><End of Block>
 <TextBlock 24 w:26 h:1>
 Working hard?<Close><End of Block>
 <TextBlock 25 w:54 h:4>
 The one behind you 
-is the Geburah?<Delay 10> 
+is from Geburah?<Delay 10>
 I heard the Lambs destroyed
-the gate...<New>
+the Gate...<New>
 Is everything okay?
     It's okay
     It's questionable<Close><End of Block>
@@ -91,7 +90,7 @@ Is everything okay?
 Whew, what a relief.<Close><End of Block>
 <TextBlock 27 w:36 h:3>
 Wha?<Delay 10> Now now,
-quit jokin'.<Delay 10> 
+quit jokin'.<Delay 10>
 That's impossible!<Close><End of Block>
 <TextBlock 28 w:0 h:1>
 <Close><End of Block>
