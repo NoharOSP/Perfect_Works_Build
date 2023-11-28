@@ -477,7 +477,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - Streetwize: @StreetwizeJJ2
 
 ### Programming:
-- rufaswan
+- rufuswan
 - rulv
 - Will Bill
 - Xenocritus
@@ -502,11 +502,12 @@ DM or tag here if you want immediate feedback on Twitter:
 - Siris
 - linnaealyn
 - FAY!!
+- Ali
 - Nohar
 
 ### Graphical fixes:
 - edrovinhaz
-- rufaswan
+- rufuswan
 
 ### FMV font
 - linnaealyn
@@ -514,7 +515,13 @@ DM or tag here if you want immediate feedback on Twitter:
 ### Tools:
 - SadNES cITy Translations
 - xdelta
+- rufuswan
 
 ### Fast text code:
 - FFMaster
+- Streetwize
 - Nohar
+
+### Deus hex data:
+- RyleFury
+- Sephiroth1311
