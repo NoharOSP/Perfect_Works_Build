@@ -1,119 +1,125 @@
-<TextBlock 1 w:48 h:3>
+<TextBlock 1 w:36 h:3>
 Fei
-"What're you going to do
-to me...?"<Close><End of Block>
-<TextBlock 2 w:40 h:2>
-As I suspected.
-You know nothing...!<Close><End of Block>
-<TextBlock 3 w:38 h:3>
+"What're you going
+to do with me...?"<Close><End of Block>
+<TextBlock 2 w:36 h:2>
+I see you have not
+caught on yet...!<Close><End of Block>
+<TextBlock 3 w:34 h:3>
 Fei
-"Doc!! <Delay 10>Citan,
-why are you here!?"<Close><End of Block>
-<TextBlock 4 w:44 h:4>
+"Doc!!<Delay 10> What are
+you doing here!?"<Close><End of Block>
+<TextBlock 4 w:34 h:4>
 Citan
-"I saw Bart's image on
-the Birdvision in the
-dedication."<Close><End of Block>
+"I saw the
+fleet review,<New>
+and the images of
+the young one and
+the others being
+held captive,<New>
+via Birdvision on
+Level 3 Block E."<Close><End of Block>
 <TextBlock 5 w:48 h:2>
 Fei
 "You saw that too, Doc?"<Close><End of Block>
 <TextBlock 6 w:46 h:4>
 Citan
-"Yes.<Delay 10> But I did not
-see either of you.<New>
+"Yes.<Delay 10> But there was
+no sign of either
+of you there.<New>
 Soon after, I heard
-there were intruders
-on level 2 of
-Araboth Plaza.<New>
-I suspected
-it was probably you
+about a disturbance <-->
+intruders on the second
+level of Araboth Plaza.<New>
+I suspected that
+was probably you,
 so I waited here.<New>
-After that,
-I did not hear anything
-about the capture of
-any intruders."<Close><End of Block>
-<TextBlock 7 w:46 h:3>
+There was no news
+after that about the
+intruders having
+been captured."<Close><End of Block>
+<TextBlock 7 w:38 h:3>
 Fei
-"How did you know I was
-going to be here?"<Close><End of Block>
-<TextBlock 8 w:52 h:4>
+"How did you know I
+would come here?"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
 Citan
-"The best possible way to
-sneak into the Palace
-is through the dust chute.<New>
+"To sneak into the
+sacred palace,<New>
+entering through the
+underground trash chute
+on Level 3 would be best.<New>
 And to get back to
-the 3rd floor, one must
-pass through this
+Level 3, you would have
+to pass through this
 observation tower.<New>
-I have always
-been thinking<Delay 5>...<Delay 5><New>
-Do you think you could
-possibly be a little more
-subtle?<New>
-When infiltrating
-enemy ground, the most
-basic thing to do is to
-be stealthy.<New>
-With the amount of
-activity you have stirred
-up, you could even wake
-up the dead."<Close><End of Block>
+At any rate...I know I
+say this every time, but<Delay 10>
+do you think you could
+be a little more subtle?<New>
+When infiltrating enemy
+territory, stealth is
+fundamental.<New>
+Honestly, if you make
+this much of a scene
+you will wake the dead."<Close><End of Block>
 <TextBlock 9 w:46 h:3>
 Fei
 "Well, I was actually
 trying to be subtle..."<Close><End of Block>
-<TextBlock 10 w:44 h:4>
+<TextBlock 10 w:42 h:4>
 Citan
 "By the way, what
 happened to Elly?<Delay 10>
-Was she not with you?"<Close><End of Block>
-<TextBlock 11 w:50 h:3>
+She is not with you?"<Close><End of Block>
+<TextBlock 11 w:44 h:4>
 Fei
-"Elly...<Delay 10> She went back
-home.<New>
-She really shouldn't have
-any relation with us land
-dwellers.<New>
-She already has such
+"Elly has...<Delay 10>
+returned to her home.<New>
+She really shouldn't
+associate with we land
+dwellers.<Delay 10> She has such
 wonderful parents..."<Close><End of Block>
 <TextBlock 12 w:42 h:4>
 Citan
-"I see...<Delay 10><New>
-Yes. It may have been
-better for her that
-way. Let us head for
-the dust chute then."<Close><End of Block>
+"I see...<Delay 10>
+Yes. Maybe that would
+be better for her.<New>
+Well then, let us
+make haste and head
+for the trash chute."<Close><End of Block>
 <TextBlock 13 w:10 h:1>
 Yeah!<Opcode 2 30><Close><End of Block>
-<TextBlock 14 w:50 h:3>
+<TextBlock 14 w:44 h:3>
 Citan
-"Now Fei,<Delay 10> stay very close
-to me.<New>
-That way it does not pick
-up on your presence."<Close><End of Block>
+"Now Fei,<Delay 10> stick close
+to me.<Delay 10> That way you
+will not be detected."<Close><End of Block>
 <TextBlock 15 w:4 h:1>
 ?<Delay 5>?<Close><End of Block>
 <TextBlock 16 w:46 h:4>
 Fei
-"Doc, hold on. 
-How can you get 
+"Wait a minute, Doc.<Delay 10>
+How come you can get
 past here?<New>
 According to Elly, only
-1st Class citizens
+First-Class citizens
 and military personnel
-can pass through...?"<Close><End of Block>
+can pass through..."<Close><End of Block>
 <TextBlock 17 w:54 h:3>
 Citan
-"Uh!?<Delay 20> Well<Delay 10>...<Delay 10>that is...<New>
-P,<Delay 10> probably they have not
+"Huh!?<Delay 20> Um<Delay 10>...<Delay 10>well...<New>
+Th-<Delay 10>They probably have not
 deleted my ID from the days
-I was in the military <New>
-and it is still stored
-in the data bank."<Close><End of Block>
-<TextBlock 18 w:44 h:3>
-My, how the Solaris
-monitors are sloppy...<Delay 10>
-Hahaha...<Close><End of Block>
+I was in the military,<New>
+so it is still stored
+in the administration
+center's data bank."<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Citan
+"My, management is
+careless in Solaris
+too, eh...?<Delay 10> Hahaha..."<Close><End of Block>
 <TextBlock 19 w:14 h:2>
 Fei
 "<Delay 5>...<Delay 5>??"<Close><End of Block>

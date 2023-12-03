@@ -1,14 +1,15 @@
-<TextBlock 1 w:46 h:3>
+<TextBlock 1 w:34 h:4>
 Citan
-"We can probably get in
-with this switch..."<Close><End of Block>
-<TextBlock 2 w:46 h:3>
-Card needed to activate
+"We can probably
+sneak in using
+this switch..."<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Card needed to operate
 the Vac-Sys...<Delay 10>
 Please insert card.<Close><End of Block>
 <TextBlock 3 w:42 h:3>
 Citan
-"...<Delay 5>...No go.<Delay 10>
+"...<Delay 5>...No use.<Delay 10>
 What shall we do...?"<Close><End of Block>
 <TextBlock 4 w:48 h:3>
 Fei
@@ -17,8 +18,8 @@ Didn't you have a plan?"<Close><End of Block>
 <TextBlock 5 w:46 h:4>
 Citan
 "No, I am afraid not...<Delay 10>
-I assumed we would just
-figure something out."<Close><End of Block>
+I assumed things would
+just work out somehow."<Close><End of Block>
 <TextBlock 6 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 7 w:12 h:1>
@@ -32,75 +33,81 @@ Fei
 What're you doing here?"<Close><End of Block>
 <TextBlock 10 w:52 h:4>
 Elly
-"Well...<Delay 10>after that, when I
-was crying, my mother came
-to me and said...<New>
-'go with them'..."<Close><End of Block>
+"Well...<Delay 10>I was crying after
+what happened, and my
+mother told me...<Delay 20> 'Go'..."<Close><End of Block>
 <TextBlock 11 w:20 h:3>
 Elly
 "Father,<Delay 10>
-mother..."<Close><End of Block>
+Mother..."<Close><End of Block>
 <TextBlock 12 w:18 h:2>
 Fei
 "Elly..."<Close><End of Block>
-<TextBlock 13 w:42 h:3>
+<TextBlock 13 w:34 h:2>
 Citan
-"...The 'Ministry'...<Delay 5>
-...<Delay 5>"<Close><End of Block>
-<TextBlock 14 w:48 h:4>
+"The Ministry<Delay 5>..."<Close><End of Block>
+<TextBlock 14 w:34 h:4>
 Elly
-"'Ministry'!?<Delay 10>
-Father said that too!!<Delay 10>
-What is the 'Ministry'?"<Close><End of Block>
-<TextBlock 15 w:24 h:3>
+"The Ministry!?<Delay 10>
+Father mentioned
+that, too!!<New>
+Just what IS the
+Ministry?"<Close><End of Block>
+<TextBlock 15 w:32 h:4>
 Citan
-"...<Delay 5>You will
+"...<Delay 5>That is what
+we are going to
 find out."<Close><End of Block>
-<TextBlock 16 w:38 h:3>
+<TextBlock 16 w:30 h:4>
 Fei
 "Let's go back!<Delay 10>
-We gotta save him!"<Close><End of Block>
-<TextBlock 17 w:50 h:4>
+We have to help
+your father!"<Close><End of Block>
+<TextBlock 17 w:48 h:4>
 Elly
 "We can't!<Delay 10>
-If you go now, they'll
-catch you too.<New>
+Going now will only
+get you arrested.<New>
 My parents will be fine.
-Their military record
-should protect them.<New>
-...If necessary I'll turn
-myself in after everyone
-is rescued and that will
-settle it."<Close><End of Block>
-<TextBlock 18 w:16 h:2>
+They both have countless
+military honors with
+the secret service.<New>
+If it comes to it, after
+everyone is rescued I'll
+turn myself in and that
+will settle it..."<Close><End of Block>
+<TextBlock 18 w:14 h:2>
 Fei
-"But..."<Close><End of Block>
-<TextBlock 19 w:44 h:3>
+"But<-->"<Close><End of Block>
+<TextBlock 19 w:46 h:4>
 Elly
 "Let's go.<New>
-Something might happen
-to them while we're
-just talking here."<Close><End of Block>
-<TextBlock 20 w:50 h:3>
+If something were to
+happen to the others
+now, this will all
+have been for nothing."<Close><End of Block>
+<TextBlock 20 w:46 h:4>
 Citan
-"I am worried for Elly's
-family, but...<New>
-Her father risked his
-life to get us this card.
+"I am worried for
+Elly's family, but...<New>
+Her father has put
+his life on the line
+to get this card to us.
 We must go on!"<Close><End of Block>
 <TextBlock 21 w:10 h:1>
 Yeah!<Close><End of Block>
-<TextBlock 22 w:52 h:3>
+<TextBlock 22 w:52 h:4>
 Citan
-"But in this filthy place?
-Spare me.<New>
-What I would not give
-for my old bath-tub now!
+"But I hope we will
+be spared filthy
+places like this.<New>
+Ahh, what I would not give
+for my old bathtub now!<Delay 10>
 Do you not agree, Fei?"<Close><End of Block>
 <TextBlock 23 w:2 h:1>
 ?<Opcode 2 30><Close><End of Block>
-<TextBlock 24 w:30 h:2>
+<TextBlock 24 w:34 h:2>
 Fei
-"OK, let's go!"<Close><End of Block>
+"Okay, let's go!"<Close><End of Block>
 <TextBlock 25 w:0 h:1>
 <Close><End of Block>

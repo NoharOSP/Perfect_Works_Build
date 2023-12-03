@@ -29,15 +29,15 @@ I'm on your side."<Close><End of Block>
 <TextBlock 7 w:50 h:2>
 Hammer
 "I'll be supporting you."<Close><End of Block>
-<TextBlock 8 w:36 h:3>
+<TextBlock 8 w:34 h:3>
 Hammer
-"G, ghost ship...?<Delay 10>
+"G-<Delay 10>Ghost ship...?<Delay 10>
 I'll stay here!"<Close><End of Block>
 <TextBlock 9 w:40 h:4>
 Hammer
 "Kinda strange for a
 village to only have
-kids, isn't it? "<Close><End of Block>
+kids, isn't it?"<Close><End of Block>
 <TextBlock 10 w:42 h:3>
 Hammer
 "Oh, feeling better!?<Delay 10>
@@ -62,7 +62,7 @@ if you ever say that
 again!!"<Close><End of Block>
 <TextBlock 14 w:46 h:3>
 Hammer
-"S, s, sorry!!<Delay 10>
+"S-S-Sorry!!<Delay 10>
 Pleeze forgive me...!!"<Close><End of Block>
 <TextBlock 15 w:42 h:4>
 Hammer

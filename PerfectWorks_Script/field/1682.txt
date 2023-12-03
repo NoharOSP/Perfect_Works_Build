@@ -5,65 +5,70 @@ Elly!?<Delay 10>
 Elly, is that you?<Close><End of Block>
 <TextBlock 3 w:14 h:1>
 Mother!<Close><End of Block>
-<TextBlock 4 w:40 h:4>
-Elly's mother Medena
-"You...<Delay 10>
-I'm glad...<Delay 10>
-you're okay..."<Close><End of Block>
-<TextBlock 5 w:52 h:3>
+<TextBlock 4 w:36 h:4>
 Medena
-"The military told me you 
-were missing in action..."<Close><End of Block>
-<TextBlock 6 w:32 h:4>
+"You<--><Delay 10>
+So, you're safe...<Delay 10>
+What a relief..."<Close><End of Block>
+<TextBlock 5 w:44 h:4>
+Medena
+"The message from the
+military said you were
+missing in action..."<Close><End of Block>
+<TextBlock 6 w:32 h:3>
 Elly
-"No, mother,
-that's not true.<Delay 10>
-See, I'm alive!"<Close><End of Block>
+"No, Mother,
+that's not true.<New>
+As you can see,
+I'm alive and
+well!"<Close><End of Block>
 <TextBlock 7 w:34 h:3>
 Elly
 "Mother,<Delay 10>
-where is father?"<Close><End of Block>
+where is Father?"<Close><End of Block>
 <TextBlock 8 w:44 h:4>
 Medena
 "He's still at the 
-palace. I think he'll 
-be back soon..."<Close><End of Block>
+palace. I expect he'll
+be home shortly..."<Close><End of Block>
 <TextBlock 9 w:20 h:2>
 Elly
 "I see..."<Close><End of Block>
 <TextBlock 10 w:38 h:2>
 Medena
 "Elly, who's this?"<Close><End of Block>
-<TextBlock 11 w:46 h:4>
+<TextBlock 11 w:48 h:4>
 Elly
-"What?<Delay 10> Ah<Delay 5>...<Delay 10>
-Um, <Delay 10>he's from the
-Special Forces,<New>
-the same as me.
-He was only recently
-promoted from 3rd Class
-citizen.<New>
-It's because of him
-I was able to return."<Close><End of Block>
+"Hmm?<Delay 10> Ah<Delay 5>...<Delay 10>h-<Delay 10>he's from 
+the Special Forces,
+the same as me.<New>
+He was specially
+requisitioned from the
+Third-Class citizen
+level only recently,<New>
+but it's because he
+helped me that I've
+been able to come home."<Close><End of Block>
 <TextBlock 12 w:22 h:1>
 Right, Fei?<Close><End of Block>
-<TextBlock 13 w:54 h:2>
+<TextBlock 13 w:48 h:3>
 Fei
-"What?<Delay 10> Um...<Delay 10>no...<Delay 10>I mean..."<Close><End of Block>
-<TextBlock 14 w:48 h:4>
+"Huh?<Delay 10>
+Yeah, <Delay 10>well...<Delay 10> I mean..."<Close><End of Block>
+<TextBlock 14 w:46 h:4>
 Medena
-"I see. That must be why
-he's dressed like a land
-dweller.<New>
-But, <Delay 10>why isn't
-he wearing a Special
-Forces uniform
-like you, Elly?"<Close><End of Block>
-<TextBlock 15 w:52 h:4>
+"I see. That must be
+why he's dressed like
+a land dweller.<New>
+Oh,<Delay 10> but if he's Special
+Forces like you, I
+wonder what happened
+to his uniform..."<Close><End of Block>
+<TextBlock 15 w:50 h:4>
 Elly
-"S, sorry mother.<Delay 5> There's 
-a report I must turn in 
-right away, <Delay 10>so..."<Close><End of Block>
+"S-Sorry, Mother.<Delay 5> There's
+a report I have to finish
+up right away, <Delay 10>so..."<Close><End of Block>
 <TextBlock 16 w:40 h:2>
 Elly
 "Fei, come with me."<Close><End of Block>
@@ -76,24 +81,23 @@ Take this..."<Close><End of Block>
 <TextBlock 19 w:24 h:2>
 Elly
 "...Father?"<Close><End of Block>
-<TextBlock 20 w:44 h:4>
+<TextBlock 20 w:42 h:4>
 Erich
-"To be human is to be 
-able to pick your own 
-path in life..."<Close><End of Block>
+"To be human is to
+walk the path of
+your own choosing..."<Close><End of Block>
 <TextBlock 21 w:24 h:2>
 Elly
 "...Father."<Close><End of Block>
-<TextBlock 22 w:38 h:4>
+<TextBlock 22 w:38 h:3>
 Erich
 "It looks like the
-military police are
-here..."<Close><End of Block>
-<TextBlock 23 w:54 h:4>
+police are here..."<Close><End of Block>
+<TextBlock 23 w:48 h:4>
 Erich
-"The Imperial Guard?<Delay 10>
-Why are you here instead
-of the military police...?"<Close><End of Block>
+"An Imperial escort!?<Delay 10>
+Why are you here and not
+the military police...?"<Close><End of Block>
 <TextBlock 24 w:10 h:1>
 What?<Close><End of Block>
 <TextBlock 25 w:46 h:3>
@@ -102,17 +106,20 @@ Erich
 The intruder fled.<New>
 My daughter has nothing
 to do with this!"<Close><End of Block>
-<TextBlock 26 w:46 h:4>
-I can't, Lord Erich.<Delay 10>
-Turn your daughter 
+<TextBlock 26 w:36 h:4>
+We're not so sure,
+Lord Erich.<New>
+Turn your daughter
 over to us.<Delay 10>
-Lord Karellen's orders.<Close><End of Block>
-<TextBlock 27 w:54 h:4>
+His Excellency
+Karellen's orders.<Close><End of Block>
+<TextBlock 27 w:40 h:4>
 Erich
-"Lord Karellen?<Delay 10> What does
-he want with my daughter...<Delay 30>
-What?<New>
-You mean...<Delay 10>Gazel's...!"<Close><End of Block>
+"His Excellency?<Delay 10>
+What does he want
+with my daughter...?<New>
+Huh?<Delay 20> Surely not
+the Ministry...!?"<Close><End of Block>
 <TextBlock 28 w:48 h:1>
 You do not need to know.<Close><End of Block>
 <TextBlock 29 w:18 h:1>
@@ -124,49 +131,52 @@ Or else!"<Close><End of Block>
 <TextBlock 31 w:20 h:2>
 Elly
 "Father!?"<Delay 10><Close><End of Block>
-<TextBlock 32 w:52 h:3>
-W, <Delay 10>what!?<Delay 10>
-Lord Erich!<Delay 10> Have you lost 
-your mind?<Close><End of Block>
-<TextBlock 33 w:40 h:3>
+<TextBlock 32 w:48 h:3>
+Wh-<Delay 10>What!?<Delay 10>
+Lord Erich!<Delay 10>
+Have you lost your mind?<Close><End of Block>
+<TextBlock 33 w:34 h:3>
 Erich
-"I'm perfectly fine!<Delay 10>
+"I'm quite sane!<Delay 10>
 Leave her alone!"<Close><End of Block>
-<TextBlock 34 w:52 h:3>
-Lord Karellen's orders are
-the Emperor's orders.<New>
-You realize what'll
-happen to your rank
-if you disobey this order?<New>
+<TextBlock 34 w:50 h:3>
+His Excellency's orders
+are the Emperor's orders.<New>
+You do realize what'll
+happen to your rank if
+you disobey this order?<New>
 You'll be demoted to
-3rd Class citizen!<Close><End of Block>
+Third-Class citizen,
+no question!<Close><End of Block>
 <TextBlock 35 w:48 h:4>
 Erich
-"I know.<New>
-But even if it's Lord
-Karellen's order I will
-not allow my daughter to
-be Gazel's test subject.<New>
-Elly,<Delay 10> go!
+"I know.<Delay 10>
+But even if it is
+on Karellen's order,<New>
+I will not hand my
+daughter over to be
+a Gazel test subject.<New>
+Now, Elly,<Delay 10> go!
 I'll take care of this!"<Close><End of Block>
-<TextBlock 36 w:16 h:2>
+<TextBlock 36 w:14 h:2>
 Elly
-"But..."<Close><End of Block>
-<TextBlock 37 w:44 h:3>
+"But<-->"<Close><End of Block>
+<TextBlock 37 w:34 h:4>
 Erich
-"Don't worry about me.<Delay 10>
-Go help Fei."<Close><End of Block>
+"Your mother and
+I will be fine.<Delay 10>
+Go, help Fei."<Close><End of Block>
 <TextBlock 38 w:22 h:2>
 Elly
 "Father..."<Close><End of Block>
-<TextBlock 39 w:46 h:4>
+<TextBlock 39 w:44 h:4>
 Medena
 "Oh, Elly...<Delay 10>
-What are you doing 
-in your father's room?<New>
-Don't you remember how 
-mad he got last time?
+What do you want in
+your father's room?<New>
+Don't you remember how
+mad he got last time?<Delay 10>
 What am I going to do
-with you..."<Close><End of Block>
+with you...?"<Close><End of Block>
 <TextBlock 40 w:0 h:1>
 <Close><End of Block>
