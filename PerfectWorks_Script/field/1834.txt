@@ -33,8 +33,8 @@ different...<Delay 30>
 Just a little..."<Close><End of Block>
 <TextBlock 9 w:48 h:3>
 Fei
-"But.. I've felt like that
-before...<New>
+"But.. I've felt like 
+that before...<New>
 I felt the same way when
 I met you for the first
 time.<New>
@@ -59,8 +59,9 @@ Fei
 Elly
 "But I heard someone
 calling my name...<New>
-and I felt like I was covered 
-with<Delay 10> something very warm...<New>
+and I felt like I was 
+covered with<Delay 10> 
+something very warm...<New>
 I remember that clearly..."<Close><End of Block>
 <TextBlock 15 w:10 h:2>
 Fei
@@ -138,8 +139,8 @@ ourselves again...<New>
 together."<Close><End of Block>
 <TextBlock 28 w:42 h:3>
 Elly
-"I want to see<Delay 5>...<Delay 10>
-how we really feel<Delay 5>..."<Close><End of Block>
+"I want to see<Delay 5>...<Delay 10> how 
+we really feel<Delay 5>..."<Close><End of Block>
 <TextBlock 29 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 30 w:50 h:3>
