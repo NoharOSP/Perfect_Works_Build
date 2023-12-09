@@ -110,9 +110,9 @@ we...?"<Close><End of Block>
 <TextBlock 26 w:42 h:3>
 Torah
 "How do you feel now?<New>
-The fresh forest air's
-nice and rejuvenating,
-eh?"<Close><End of Block>
+The fresh forest 
+air's nice and 
+rejuvenating, eh?"<Close><End of Block>
 <TextBlock 27 w:44 h:4>
 Torah
 "Now, let's get right
@@ -156,7 +156,8 @@ but I'm getting much too
 old for that type of thing.<New>
 Then again, it's for your
 future--<Delay 10> an old man
-like myself shouldn't butt in.<New> 
+like myself shouldn't 
+butt in.<New> 
 You young'uns
 must do it yourselves!"<Close><End of Block>
 <TextBlock 32 w:14 h:2>
@@ -184,10 +185,11 @@ Shaped like a wristband,
 the device infuses
 nanomachines into the brain
 through the epidermis.<New>
-There, they regulate the SSRI
-intracerebral substances,
-such as Serotonin, that
-control emotions."<Close><End of Block>
+There, they regulate the 
+SSRI intracerebral 
+substances,<New> 
+such as Serotonin, 
+that control emotions."<Close><End of Block>
 <TextBlock 37 w:10 h:1>
 Uh<Delay 5>...?<Opcode 2 15><Close><End of Block>
 <TextBlock 38 w:50 h:4>
@@ -239,8 +241,9 @@ I..."<Close><End of Block>
 Citan
 "Fei,<Delay 10> there was nothing
 you could've done...<New>
-And now, it will never happen 
-again with Torah's technology.<New> 
+And now, it will never 
+happen again with Torah's 
+technology.<New> 
 He is one of the
 three Shevat sages."<Close><End of Block>
 <TextBlock 46 w:48 h:3>
