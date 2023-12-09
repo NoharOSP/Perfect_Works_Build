@@ -138,12 +138,10 @@ long,<Delay 15>
 dream<Delay 5>...<Close><End of Block>
 <TextBlock 11 w:60 h:7>
 Elehayym<Delay 5>...<Delay 45>
- 
 I liked that name.<Delay 15><New>
-I like it because... when I first 
-met him, that is what he called 
-me<Delay 5>...<Delay 30>
- 
+I like it because... when I 
+first met him, that is what 
+he called me<Delay 5>...<Delay 30>
 It is my real name.<Delay 5><Close><End of Block>
 <TextBlock 12 w:52 h:8>
 Dreams<Delay 5>...<Delay 45>
