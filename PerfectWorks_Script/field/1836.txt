@@ -147,7 +147,8 @@ out that Id is
 now controllable...<New>
 Aren't you ashamed? You
 fools haven't changed 
-at all since those times...<New> 
+at all since those 
+times...<New> 
 You only care
 about yourselves."<Close><End of Block>
 <TextBlock 28 w:50 h:4>
@@ -200,7 +201,8 @@ I'll manage somehow."<Close><End of Block>
 <TextBlock 37 w:50 h:2>
 Fei
 "But,<New>
-you'll be all by yourself..."<Close><End of Block>
+you'll be all by 
+yourself..."<Close><End of Block>
 <TextBlock 38 w:50 h:3>
 Citan
 "I will accompany Elly.<Delay 10>
