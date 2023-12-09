@@ -1015,9 +1015,10 @@ revival is drawing
 near.<Close><End of Block>
 <TextBlock 195 w:30 h:4>
 Karellen
-"We can retrieve
-the girl at any 
-time.<New>
+"We can 
+retrieve the 
+girl<New> 
+at any time.
 Even if it 
 is not now<Delay 5>...<New>
 <Delay 5>she will come
