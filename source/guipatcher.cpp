@@ -515,6 +515,15 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						graphicsName2 = "cd2_graphics.xdelta";
 					}
 				}
+				// Bug patch is not applied to the items/spells and script patches as it already has it applied.
+				if (!p_items_spells && !p_script) {
+					if (pathFound1) {
+						bugName1 = "cd1_bug_fixes.xdelta";
+					}
+					if (pathFound2) {
+						bugName2 = "cd2_bug_fixes.xdelta";
+					}
+				}
 				initialisePatchLists();
 				SetWindowText(hWnd, L"Patching...");
 				SetCursor(LoadCursor(NULL, IDC_WAIT));
@@ -710,6 +719,8 @@ void initialisePatchLists() {
 	patchList2.emplace_back(scriptName2);
 	patchList1.emplace_back(graphicsName1);
 	patchList2.emplace_back(graphicsName2);
+	patchList1.emplace_back(bugName1);
+	patchList2.emplace_back(bugName2);
 }
 
 // Lock checkboxes until a bin file has been found
@@ -793,6 +804,8 @@ void reinitialisePatches () {
 	statName2 = "";
 	graphicsName1 = "";
 	graphicsName2 = "";
+	bugName1 = "";
+	bugName2 = "";
 	patchList1.clear();
 	patchList2.clear();
 }

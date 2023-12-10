@@ -293,7 +293,7 @@ void patchChecker::markSubVersion(std::string path)
 		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
 		byte += 1;
 		if (byte == maxByte) {
-			writeByte(5);
+			writeByte(6);
 			break;
 		}
 	}

@@ -85,10 +85,15 @@ void writeFile::allTrue() {
 	else {
 		MessageBox(wind, L"Could not find directory for 'items_script_stats'. Check repo for latest version.", L"Error", MB_ICONERROR);
 	}
-	for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-		std::string fileName = entry.path().string();
-		std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-		preprocess(finalName);
+	if (discNum == 1) {
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
+	}
+	else if (discNum == 2) {
+		preprocess("2595");
 	}
 }
 
