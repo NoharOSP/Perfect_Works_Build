@@ -1,9 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.3.5 here:
-- Google Drive: https://drive.google.com/file/d/1usYZrjKIU0Nw98e4uxNs2evatSEhcvzH/view?usp=sharing
-- MEGA: https://mega.nz/file/XHoSFYrZ#uAXPDMUUJ2tafYA0OEero7BDg0DAbP7SF25CeB2e01M
+Download version 0.3.6 here:
+- Google Drive: https://drive.google.com/file/d/14PaMoch2tefSRpGpRKCL8oHmGVJhztv9/view?usp=sharing
+- MEGA: https://mega.nz/file/LapgUIQI#atgciVE14IV7zOVENEll5UwJVUyd19yKfVDEsHoH1sQ
 
 ## Instructions:
 
@@ -16,7 +16,7 @@ Download version 0.3.5 here:
 
 ### Regenerating:
 
-This step applies if you're playing the game using Beetle PSX HW and multiple patches have been applied.
+This step applies if multiple patches have been applied.
 
 - [Download ECCRegen](https://www.romhacking.net/utilities/1550/).
 - Click the folder icon to select the Xenogears ISO.
@@ -29,25 +29,60 @@ This step applies if you're playing the game using Beetle PSX HW and multiple pa
 ## Completion stats:
 
 - Name/terminology changes: 100%
-- Main script: 60% (up to the start of the Solaris arc)
+- Main script: 60% (up to Elly's house)
 - NPC script: Not done (except for name/terminology changes)
 
 ## Coming soon:
 
 - Music swap
 - Basic and expert modes for the Battling arena
-- Definitive fix to Billy's Ether ammo glitch
 - Combined item/spells and stat Patches
 - Heimdall/Fenrir can now heal
 - Defend boosts AP
+- New Drive items
+- Increased experience share for benched party members
+- Speed increase for Citan's sword animations
 
 ## Introduction:
 
-Hello. My name is Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito. I am a character writer and handler for game balance on the Xenogears Perfect Works mod. Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a more complete experience. This does contain unmarked but mild spoilers, so readers are advised and warned not to scroll through this if they’re looking to use this mod to enjoy the game for the first time, or you simply never got to into it for various reasons we hope to address. These spoilers are primarily for certain story events in the story bits and lines are relegated to story specific changes and certain boss fights dungeons and all moves party members and availability are mentioned in the gameplay focused changes. 
+Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a more complete experience. This does contain unmarked but mild spoilers, so readers are advised and warned not to scroll through this if they’re looking to use this mod to enjoy the game for the first time, or you simply never got to into it for various reasons we hope to address. These spoilers are primarily for certain story events in the story bits and lines are relegated to story specific changes and certain boss fights dungeons and all moves party members and availability are mentioned in the gameplay focused changes. 
+
+- Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito, character writer and handler for game balance on the Xenogears Perfect Works mod.
 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.3.6:
+
+12/11/2023
+
+- The Deus bug has been fixed.
+- Formatting issues with the early disc 2 scenes have been fixed.
+- Giant Wels has been nerfed. Its HP has been lowered from 14000 to 10000, its attack has been lowered from 350 to 325 and its ether defense has been lowered from 250 to 100.
+- Battles no longer freeze in disc 2 if the items, stats and script patches have been applied together.
+- Billy's Ether ammo now works as intended.
+- Bloody's attack has been buffed from 100 to 125.
+- EtherMaxer is now available at Solaris.
+- EtherReversa is now available at Tamuz and Shevat.
+- All scenes that use both the script and encounters patch have been updated to use the new translation.
+- Big Joe no longer OHKOs the player when the stats patch has been applied.
+- Xenogears' hanger description is now consistent with its buff.
+- Dominia has been nerfed. Her HP went from 20000 to 12000.
+- Throne has been nerfed. Her HP went from 18000 to 10000.
+- Seraphita has been nerfed. Her HP went from 17000 to 9700.
+- Cherubina has been nerfed. Her HP went from 15000 to 8500.
+- Xenogears Id has been nerfed. His HP went from 60000 to 50000.
+- True Weltall has been nerfed. His HP went from 30000 to 22000.
+- Ouroboros has been nerfed. Her HP went from 75000 to 60000.
+- Billy's Ether elemental ammo is now available at Tamuz.
+- Billy now learns the elemental shields at level 40 rather than 55.
+- Combo tracker for the Arena fixed, with the limit being raised to 5 hits for melee attacks for multi-hits.
+- Overheat penalty in the Arena slightly lowered, and the AI heat management has been adjusted slightly to let them take more risks.
+- Xenogears is now the most heat-efficient Gear in the Arena to reflect its changes in the prior patch.
+- Stier and El-Stier no longer get a full combo from Ether Bullets, while Bladegash and Hatamoto now can.
+- Additional Arena tweaks for: Vierge, Heimdall, Renmazuo, Stier, Crescens, Xenogears, El-Regulus, El-Fenrir, El-Renmazuo, El-Stier, Edin.
+
 
 ### Version 0.3.5:
 
@@ -281,6 +316,12 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ### Builds:
 
+## Version 0.3.5:
+
+- Google Drive: https://drive.google.com/file/d/1usYZrjKIU0Nw98e4uxNs2evatSEhcvzH/view?usp=sharing
+- MEGA: https://mega.nz/file/XHoSFYrZ#uAXPDMUUJ2tafYA0OEero7BDg0DAbP7SF25CeB2e01M
+
+
 ## Version 0.3.4:
 
 - Google Drive: https://drive.google.com/file/d/1nEBChEIVwdC7O9ZqyrwvBFZLO-2K34NP/view?usp=sharing
@@ -430,6 +471,14 @@ Patches implemented:
 - Rebalanced items/spells.
 - Rebalanced monsters.
 - Rebalanced character stats.
+
+
+## Bug fixes:
+
+These are applied if any option is selected.
+
+- A bug with Deus' first fight which can freeze the game if he tries to use his HP halve move from a side angle.
+- A bug which prevents Billy's Ether elemental ammo from being changed.
 
 
 ## Glitches:
