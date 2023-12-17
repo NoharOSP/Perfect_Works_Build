@@ -7,7 +7,7 @@ Here, take this."<Close><End of Block>
 ...What's this?<Close><End of Block>
 <TextBlock 3 w:52 h:3>
 Samson
-"A Second-Class citizen
+"A Second-Class-citizen
 work permit, same as mine.<New>
 With that, you can move
 about more freely without
@@ -39,7 +39,7 @@ spirit!<Delay 10> Here, take this."<Close><End of Block>
 ...What's this?<Close><End of Block>
 <TextBlock 9 w:52 h:3>
 Samson
-"A Second-Class citizen
+"A Second-Class-citizen
 work permit, same as mine.<New>
 With that, you can move
 about more freely without
@@ -159,7 +159,7 @@ spirit!<Delay 10> Here, take this."<Close><End of Block>
 ...What's this?<Close><End of Block>
 <TextBlock 27 w:52 h:3>
 Samson
-"A Second-Class citizen
+"A Second-Class-citizen
 work permit, same as mine.<New>
 With that, you can move
 about more freely without

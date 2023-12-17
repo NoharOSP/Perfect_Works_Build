@@ -115,13 +115,13 @@ The amount of detailed
 information about races and
 their biological data is
 worrying, though..."<Close><End of Block>
-<TextBlock 10 w:54 h:4>
+<TextBlock 10 w:50 h:4>
 Elly
 "There are certainly
 facilities in Solaris for<New>
 accommodating surface
-dwellers...<Delay 10>
-That's it! The Third-Class
+dwellers...<Delay 10> That's it!
+The Third-Class-
 citizen level.<New>
 People of various races
 from the surface are
@@ -701,13 +701,13 @@ The amount of detailed
 information about races and
 their biological data is
 worrying, though..."<Close><End of Block>
-<TextBlock 87 w:54 h:4>
+<TextBlock 87 w:50 h:4>
 Elly
 "There are certainly
 facilities in Solaris for<New>
 accommodating surface
-dwellers...<Delay 10>
-That's it! The Third-Class
+dwellers...<Delay 10> That's it!
+The Third-Class-
 citizen level.<New>
 People of various races
 from the surface are
@@ -1111,7 +1111,7 @@ down 30%...<Opcode 2 40><Close><End of Block>
 <Opcode 14 2><Delay 5>...<Delay 5>Completed investigation of
 the Zeboim city which sank to the
 bottom of the sea approximately
-4000 years ago<Delay 5>...<Delay 5><Wait>
+4000 years ago<Delay 5>...<Delay 5>
 After one hundred test digs, the
 city center has been identified<Delay 5>...<Delay 5>
 Excavation scheduled to begin<Delay 5>...<Close><End of Block>

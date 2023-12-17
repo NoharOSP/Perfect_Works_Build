@@ -15,26 +15,26 @@ This is...<Delay 10> It's...<Close><End of Block>
 <TextBlock 4 w:16 h:2>
 Stop it!<Delay 10>
 Let go!<Close><End of Block>
-<TextBlock 5 w:36 h:3>
- Return to 14-1-6?<Delay 10>
+<TextBlock 5 w:34 h:3>
+Return to 14-1-6?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 6 w:52 h:1>
 Block under maintenance...<Close><End of Block>
-<TextBlock 7 w:36 h:3>
- Return to 13-6-1?<Delay 10>
+<TextBlock 7 w:34 h:3>
+Return to 13-6-1?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
-<TextBlock 8 w:36 h:3>
- Return to 12-3-6?<Delay 10>
+<TextBlock 8 w:34 h:3>
+Return to 12-3-6?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
-<TextBlock 9 w:36 h:3>
- Return to 11-1-1?<Delay 10>
+<TextBlock 9 w:34 h:3>
+Return to 11-1-1?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
-<TextBlock 10 w:36 h:3>
- Return to 10-4-1?<Delay 10>
+<TextBlock 10 w:34 h:3>
+Return to 10-4-1?<Delay 10>
 <Opcode 1 255>    Yes
     No<Close><End of Block>
 <TextBlock 11 w:46 h:4>
@@ -63,7 +63,7 @@ to Second-Class citizen.<Delay 10>
 Then I can finally live with
 the Second Class.<Close><End of Block>
 <TextBlock 15 w:40 h:3>
-K block...<Delay 10>
+K Block...<Delay 10>
 They're all bein'
 'rearranged'.<New>
 Poor guys...and they

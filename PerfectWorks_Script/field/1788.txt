@@ -1,12 +1,12 @@
 <TextBlock 1 w:38 h:1>
 Fei, hang in there!<Opcode 2 60><Close><End of Block>
-<TextBlock 2 w:36 h:3>
+<TextBlock 2 w:32 h:3>
 Fei
 "...<Delay 20>...<Delay 20>...<Delay 20>...<Delay 20>
-Y...you traitor!!"<Close><End of Block>
+Y-<Delay 10>You traitor!!"<Close><End of Block>
 <TextBlock 3 w:50 h:4>
 Fei
-"Don't stop, Bart!!
+"Let go, Bart, dammit!!
 He betrayed us!
 He betrayed us and Elly!"<Close><End of Block>
 <TextBlock 4 w:20 h:3>
@@ -63,14 +63,13 @@ mischievous, Doc..."<Close><End of Block>
 Bart
 "Fei, you're conscious?
 Now! Let's go!"<Close><End of Block>
-<TextBlock 19 w:32 h:2>
+<TextBlock 19 w:28 h:2>
 Bart
-"S, stop!  Fei!"<Close><End of Block>
-<TextBlock 20 w:38 h:3>
+"S-<Delay 5>Stop! Fei!"<Close><End of Block>
+<TextBlock 20 w:42 h:2>
 Bart
-"Stop! Fei!
-You're making a 
-mistake!"<Close><End of Block>
+"Stop, Fei!
+You've got it wrong!"<Close><End of Block>
 <TextBlock 21 w:42 h:4>
 Bart
 "Hmph...<Delay 32>

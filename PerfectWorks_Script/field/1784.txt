@@ -1,13 +1,15 @@
-<TextBlock 1 w:40 h:2>
+<TextBlock 1 w:30 h:3>
 Fei
-"What's that sound?"<Close><End of Block>
-<TextBlock 2 w:24 h:2>
+"What are these
+sounds?"<Close><End of Block>
+<TextBlock 2 w:20 h:2>
 Citan
-"That is..."<Close><End of Block>
-<TextBlock 3 w:48 h:3>
+"Ah-ha..."<Close><End of Block>
+<TextBlock 3 w:40 h:4>
 Citan
-"It is probably an audio
-signal password."<Close><End of Block>
+"Most likely it is
+an audio signal used
+as a password."<Close><End of Block>
 <TextBlock 4 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

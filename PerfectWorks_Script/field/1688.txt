@@ -54,7 +54,7 @@ Elly
 able to get to where
 everyone is<New>
 via a trash chute
-in the Third-Class
+in the Third-Class-
 citizen level!"<Close><End of Block>
 <TextBlock 9 w:44 h:3>
 Fei
@@ -132,12 +132,12 @@ Elly
 Erich
 "Do you have any idea how
 traitors are dealt with<New>
-even if they are 
+even if they are
 First-Class citizens?<New>
 If I kill this intruder,
 who knows about you,<Delay 10>
-you'll be safe.<Delay 10>
-I'm doing this for you<-->"<Close><End of Block>
+you'll be safe.<Delay 10> I'm
+doing this for you..."<Close><End of Block>
 <TextBlock 26 w:50 h:4>
 Elly
 "That's a lie!<New>

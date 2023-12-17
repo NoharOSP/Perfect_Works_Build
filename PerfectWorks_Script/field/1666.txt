@@ -8,7 +8,7 @@ I don't know what to buy.<Delay 10>
 Don't bother me.<Close><End of Block>
 <TextBlock 4 w:50 h:3>
 What? They don't have any
-Imperial model pogoshoes?
+Imperial-model pogoshoes?
 I want them so badly too!<Close><End of Block>
 <TextBlock 5 w:48 h:2>
 I'm sorry, miss. We just
@@ -36,11 +36,12 @@ Elly
 Huh?<Delay 10>
 Wow, it does!
 It must be a fake!<Close><End of Block>
-<TextBlock 13 w:48 h:4>
-There's so many Imperial
-models out now.<Delay 10>
-It's a limited edition,
-so I gotta buy it!<Close><End of Block>
+<TextBlock 13 w:38 h:3>
+It's crazy all the
+Imperial memorial
+models out now.<New>
+Limited editions,
+so I gotta buy 'em!<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Wow, I got 'em to buy
 me the hybrid alloy!!<Delay 10>
@@ -87,25 +88,25 @@ What are you looking for?
     <Opcode 1 255>Tickets
     Classifieds
     Nothing<Close><End of Block>
-<TextBlock 24 w:42 h:3>
+<TextBlock 24 w:46 h:3>
 A DK1200 encore
-performance!<Delay 10>
-At the Imperial Hall.<Close><End of Block>
+performance!<Delay 10> At the
+Imperial Memorial Hall.<Close><End of Block>
 <TextBlock 25 w:44 h:4>
 VIP seating for the
 fleet review is all
 sold out.<Delay 10> Please enjoy
-it on Birdvision.<Close><End of Block>
-<TextBlock 26 w:56 h:4>
-I want to buy Imperial model
-pogoshoes, and I'm willing
-to pay up to five times
-their ordinary price!<Close><End of Block>
+it on Homevision.<Close><End of Block>
+<TextBlock 26 w:46 h:4>
+'Want to buy Imperial-
+model pogoshoes.
+Will pay up to five
+times the usual price.'<Close><End of Block>
 <TextBlock 27 w:46 h:4>
 'Fleet Review VIP
 Tickets Giveaway'<Delay 10>
-Please inquire at room
-2F1, Etemen Apartments<Close><End of Block>
+Please inquire at Room
+2F1, Etemen Apartments.<Close><End of Block>
 <TextBlock 28 w:38 h:3>
 ...<Delay 10>
 I've seen that

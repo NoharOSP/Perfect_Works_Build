@@ -1,26 +1,27 @@
 <TextBlock 1 w:50 h:3>
 Ya know, that disk is
 broken.<Delay 15> The box itself
-is as good as new. All we<New>
-need is a new disk so we
-can listen to it<Delay 5>...<Delay 5><Close><End of Block>
+is as good as new.<New>
+All we need is a new disk
+so we can listen to it<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 2 w:40 h:1>
 Pff, <Delay 5>ah hah hah hah!<Opcode 2 45><Close><End of Block>
 <TextBlock 3 w:48 h:3>
 That's the new waitress
 that's supposed to start
-today. She still<New>
-needs a lot of training,
-so go easy on her today!<Close><End of Block>
+today.<New>
+She still needs a lot of
+training, so go easy on
+her today!<Close><End of Block>
 <TextBlock 4 w:40 h:2>
 Yeah,<Delay 5> that's how you
 do it.<Delay 5> Good.<Close><End of Block>
-<TextBlock 5 w:48 h:3>
+<TextBlock 5 w:44 h:3>
 I'm trying to work,<Delay 5>
-could you get out of the
-way? By the way,<Delay 5> <New>
-I'm tired of that kind
-of stuff.<Close><End of Block>
+could you get out of
+the way?<New>
+By the way,<Delay 5> I'm tired
+of that kind of stuff.<Close><End of Block>
 <TextBlock 6 w:30 h:1>
 Out of the way!<Opcode 2 45><Close><End of Block>
 <TextBlock 7 w:46 h:3>
@@ -31,15 +32,16 @@ in the waaaay.<Opcode 2 60><Close><End of Block>
 Hey you,<Delay 5> you've got an
 interesting disk.<Delay 15> Lemme
 see.<Delay 5> Lemme see.<Close><End of Block>
-<TextBlock 9 w:50 h:4>
+<TextBlock 9 w:48 h:4>
 This<Delay 15>...<Delay 15>is a really
-special type. You won't
-be able to use it on any
-other box<Delay 5> except for this<New>
-one<Delay 5>...<Delay 5>In addition, I'm
+special type.<New>
+You won't be able
+to use it in any box<Delay 5>
+except for this one<Delay 5>...<New>
+In addition, I'm
 getting some kind of
 Ether response<Delay 15>...<Delay 5><New>
-You think it's an Ether
+You think it's an Ether-
 coated premium disk?<Close><End of Block>
 <TextBlock 10 w:44 h:4>
 Hunh?<Delay 5> Who are youuu?<Delay 15>
@@ -50,7 +52,7 @@ get older, you become
 something incredible!<Close><End of Block>
 <TextBlock 11 w:36 h:2>
 Of course you know
-that though!<Close><End of Block>
+that, though!<Close><End of Block>
 <TextBlock 12 w:50 h:4>
 G-<Delay 5>Good afternoon.<Delay 10>
 W-<Delay 5>Welcome to the Wildcat.
@@ -140,34 +142,35 @@ I was surprised by the
 Av attack,<Delay 5> but I was
 lucky my comrade was
 from the mole tribe.<Close><End of Block>
-<TextBlock 31 w:34 h:2>
-I'm embarrased<Delay 5>...<Delay 5>
-boss.<Close><End of Block>
+<TextBlock 31 w:34 h:1>
+Aw shucks<Delay 5>...<Delay 5>boss.<Close><End of Block>
 <TextBlock 32 w:30 h:2>
 Well, what ever
 happens<Delay 5>...<Close><End of Block>
 <TextBlock 33 w:50 h:4>
-Hmmm, from the looks
-of it, you look like Gear
-pilots. Did you hear
-about some Battling done<New>
-around here from
-somewhere?<Close><End of Block>
-<TextBlock 34 w:50 h:4>
-I'm not too sure of
-the details, but this
-time it seems like they
-are going run with some<New>
-kind of 'point' system. I
-wonder if you can win
-prizes with that?<Close><End of Block>
+Hmmm, judging by your
+appearance, looks like
+you're Gear pilots, too.<New>
+You here because you
+heard the rumors about
+the Battling starting up
+around here again?<Close><End of Block>
+<TextBlock 34 w:40 h:4>
+I'm not too sure
+of the details,<New>
+but this time it
+seems like they
+introduced some kind
+of 'points system'.<New>
+Can we get prizes
+and stuff?<Close><End of Block>
 <TextBlock 35 w:50 h:3>
 Welcome to the Wildcat.
 Make yerself comfortable.<Delay 15>
 And<Delay 5> leave the cat alone!<Close><End of Block>
-<TextBlock 36 w:44 h:2>
-Maybe with this we can
-listen to it?<Close><End of Block>
+<TextBlock 36 w:38 h:2>
+Maybe we can listen
+now we've got this?<Close><End of Block>
 <TextBlock 37 w:32 h:3>
 See if it works?<Delay 10>
 <Opcode 1 255>    Don't
@@ -179,8 +182,8 @@ only one disk<Delay 5>...<Close><End of Block>
 See if it works?<Delay 10>
 <Opcode 1 255>    Don't
     Listen<Close><End of Block>
-<TextBlock 40 w:42 h:1>
-The disk seems broken<Close><End of Block>
+<TextBlock 40 w:44 h:1>
+The disk seems broken.<Close><End of Block>
 <TextBlock 41 w:26 h:9>
 Change music
 <Opcode 1 255>    Themes
@@ -319,11 +322,11 @@ I've said too much<Delay 5>...<Close><End of Block>
 B-Boss...<Delay 5> I...<Delay 5>
 My heart<Delay 5>...<Delay 10>
 P-<Delay 15>Please listen.<Close><End of Block>
-<TextBlock 103 w:50 h:4>
+<TextBlock 103 w:44 h:4>
 I see,<Delay 5> this is a
-surprise<Delay 5>...<Delay 5>It's that<Delay 5>...
-You've fallen in love
-with someone haven't you?<Close><End of Block>
+surprise<Delay 5>...<Delay 5> You've<Delay 5>...
+fallen in love with
+someone, haven't you?<Close><End of Block>
 <TextBlock 104 w:50 h:3>
 I-<Delay 5>I'm<Delay 5> from mole tribe,
 but<Delay 5> I've fallen for that

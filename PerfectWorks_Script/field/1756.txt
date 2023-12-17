@@ -3,7 +3,7 @@ Security system is
 deactivated.<Close><End of Block>
 <TextBlock 2 w:30 h:2>
 Security system
-lock OFF<Close><End of Block>
+lock: OFF<Close><End of Block>
 <TextBlock 3 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

@@ -1,42 +1,45 @@
 <TextBlock 1 w:42 h:2>
 Must be controlled by
-that adjacent panel<Close><End of Block>
+that adjacent panel.<Close><End of Block>
 <TextBlock 2 w:14 h:2>
     Up?
     No<Close><End of Block>
 <TextBlock 3 w:46 h:1>
 The elevator is locked.<Close><End of Block>
-<TextBlock 4 w:42 h:1>
-G, goo...<Delay 20> Good day...<Opcode 2 30><Close><End of Block>
-<TextBlock 5 w:34 h:2>
-He...<Delay 30>help<Delay 30>...me...<Delay 20>
-My body...<Opcode 2 30><Close><End of Block>
-<TextBlock 6 w:40 h:2>
-Uh... my mind...min?<Delay 20>
-M, min mi mi m...<Opcode 2 30><Close><End of Block>
-<TextBlock 7 w:44 h:2>
-Mi...<Delay 30>my dog, please...
-take care of him...<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:40 h:1>
+G-Goo...<Delay 20> Good day...<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:28 h:2>
+H-<Delay 30>Help<Delay 30>...me...<Delay 20>
+My body's...<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:44 h:2>
+Uh...can't control...
+my...<Delay 20> M-My...s-self...<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:42 h:2>
+M-<Delay 10>My dog...<Delay 30> Please...
+look after him...<Opcode 2 30><Close><End of Block>
 <TextBlock 8 w:20 h:2>
 Yo!
 Long time.<Opcode 2 40><Close><End of Block>
-<TextBlock 9 w:44 h:3>
-It's me.
-The one who owned that
-dog in Kislev...<Close><End of Block>
-<TextBlock 10 w:54 h:2>
-...I may look like this, 
-but the dog's doing fine...<Close><End of Block>
-<TextBlock 11 w:50 h:3>
-...Please, don't think
-about letting me out...<New>
-...even though I'm still
-conscious...eventually...
+<TextBlock 9 w:38 h:4>
+It's me, it's me.
+I kept that dog,
+back in Noatun's
+Central District...<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+...I've ended up like
+this, but I guess he'll
+be doing just fine...<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+...Please, don't even
+think about letting me
+out...<New>
+...I'm still conscious,
+but...sooner or later...
 I'll...<Close><End of Block>
-<TextBlock 12 w:40 h:3>
-Y...you opened it...<Delay 30>
-I told...<Delay 40>
-you not to open it!!<Opcode 2 20><Close><End of Block>
+<TextBlock 12 w:36 h:3>
+Y-You opened it...<Delay 30>
+I told you...<Delay 40>
+not to open it!!<Opcode 2 20><Close><End of Block>
 <TextBlock 13 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
