@@ -1,9 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.3.6 here:
-- Google Drive: https://drive.google.com/file/d/14PaMoch2tefSRpGpRKCL8oHmGVJhztv9/view?usp=sharing
-- MEGA: https://mega.nz/file/LapgUIQI#atgciVE14IV7zOVENEll5UwJVUyd19yKfVDEsHoH1sQ
+Download version 0.3.7 here:
+- Google Drive: https://drive.google.com/file/d/1QfYEqd5dC8huPhPSxOvDeGWNqysoWf7S/view?usp=sharing
+- MEGA: https://mega.nz/file/qPY1kZAa#TZkfRyuHDH6DAJGnEGlQGPmC0ZJGbF_egfVqHK3qWGg
 
 ## Instructions:
 
@@ -42,6 +42,7 @@ This step applies if multiple patches have been applied.
 - New Drive items
 - Increased experience share for benched party members
 - Speed increase for Citan's sword animations
+- Updated title screen
 
 ## Introduction:
 
@@ -52,6 +53,13 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.3.7:
+
+12/16/2023
+
+- Sufal Mass FMV now plays in disc 2 instead of the "you're a coward" one.
+- Alpha Weltall now drops a Power Crisis when defeated in Machanon.
 
 ### Version 0.3.6:
 
@@ -316,94 +324,91 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ### Builds:
 
-## Version 0.3.5:
+#### Version 0.3.6:
+
+- Google Drive: https://drive.google.com/file/d/14PaMoch2tefSRpGpRKCL8oHmGVJhztv9/view?usp=sharing
+- MEGA: https://mega.nz/file/LapgUIQI#atgciVE14IV7zOVENEll5UwJVUyd19yKfVDEsHoH1sQ
+
+
+#### Version 0.3.5:
 
 - Google Drive: https://drive.google.com/file/d/1usYZrjKIU0Nw98e4uxNs2evatSEhcvzH/view?usp=sharing
 - MEGA: https://mega.nz/file/XHoSFYrZ#uAXPDMUUJ2tafYA0OEero7BDg0DAbP7SF25CeB2e01M
 
 
-## Version 0.3.4:
+#### Version 0.3.4:
 
 - Google Drive: https://drive.google.com/file/d/1nEBChEIVwdC7O9ZqyrwvBFZLO-2K34NP/view?usp=sharing
 - MEGA: https://mega.nz/file/WXIHhDoJ#T-eZDz6zXZa4aeRiolz6EgEFNGB8LogDC_RzUGprO7U
 
-## Version 0.3.3:
+#### Version 0.3.3:
 
 - Google Drive: https://drive.google.com/file/d/1MBauh9qvMsosWNvczd5wav2wWI1teWEd/view?usp=sharing
 - MEGA: https://mega.nz/file/ufIjVCYY#TxnCyJUwUm-kv6G72C3uEGxm4TdaxggIVM7uPHLNBYk
 
-## Version 0.3.2:
+#### Version 0.3.2:
 
 - Google Drive: https://drive.google.com/file/d/1icaoTZNLwWmmr3aS6aMbkLS8TJP8kNFe/view?usp=sharing
 - MEGA: https://mega.nz/file/PDAAgBAK#rMOaZJ7n1iN1PF0wnk9Plbt9NLMY5rS9jta83OrZXcI
 
-## Version 0.3.1:
+#### Version 0.3.1:
 
 - Google Drive: https://drive.google.com/file/d/1YxyJKP7-oJ9yvZPeG7hxhuhP1AxY87Kg/view?usp=sharing
 - MEGA: https://mega.nz/file/fa4jnSha#OY7e7N7hvRed139o5e8aUXsHv3d3jT5Ec5W47jRgOaI
 
-### Version 0.3.0:
+#### Version 0.3.0:
 
 - Google Drive: https://drive.google.com/file/d/1SCB0tkTsBNYldXKjNZVEsZVK5zCqscZG/view?usp=sharing
 - MEGA: https://mega.nz/file/iDIWSJLA#SH49iniTRDKQsPyy5vmGpEAGeVCLkCIEhgMFsWYpjjE
 
 
-### Version 0.2:
+#### Version 0.2:
 
 - Google Drive: https://drive.google.com/file/d/1KVjsnHhdzv94Ooipdecg1aQLq48KdQ57/view?usp=share_link
 - MEGA: https://mega.nz/file/vDhTwTqI#owZnVPHNMrarirfHWlLD3MRl9MTviH9_Tag1BUMyEJE
 
-### Version 0.1.7:
+#### Version 0.1.7:
 
 - Google Drive: https://drive.google.com/file/d/1CCNIUAGvD4dVIigNL0llegOhVK1No8SL/view?usp=share_link
 - MEGA: https://mega.nz/file/aTwGQJaZ#IUrqM_spP1tQHDUnsXLqrA3D9yp1_97A4fXFnyJexSI
 
-### Version 0.1.6:
+#### Version 0.1.6:
 
 - MEGA: https://mega.nz/file/HK5C2bTa#ki8lbMjSH_eAuCIuuL9Po6NWXnkNr_0Zg0H2_bpjE3Y
-- Google Drive: https://drive.google.com/file/d/1gM2Fr1EHI8VsUKeCyc99pNIrxOYOwudy/view?usp=share_link
-
-### Version 0.1.5:
+#### Version 0.1.5:
 
 - Mega: https://mega.nz/file/jao1XILS#CQe4_4JBrzzztb6GUNMgLystvc8GM7lNPuZYJ0roddY
-- Google Drive: https://drive.google.com/file/d/1a3JIEe3szTkPE5croBS3Pxv1rto3xt2o/view?usp=share_link
 
-### Version 0.1.4:
+#### Version 0.1.4:
 
 - Mega: https://mega.nz/file/Gbw21KhJ#zzOR5K74gXH7ETsXmMvNiU7Mc1OPA-bPfRk8x5Y6ZSs
-- Google Drive: https://drive.google.com/file/d/1v6bjQZDpx5v7pJm8o4ped8QjuNxP8vBE/view?usp=share_link
 
-### Version 0.1.3:
+#### Version 0.1.3:
 
 - Mega: https://mega.nz/file/jbJmBIIS#z8ysRWLVsw8QJdBKA30oux7XW5dEkNI0LPDevD7Jg2Y
-- Google Drive: https://drive.google.com/file/d/11L1rSRPaOjz2VzAE7FJYvdARBOwqgAhv/view?usp=share_link
 
-### Version 0.1.2:
+#### Version 0.1.2:
 
 - Mega: https://mega.nz/file/OG5RBJ4Q#jARzVJaRI1mhaYFWj9fMc2-TfDL5yl6abiJIdXY5lSU
-- Google Drive: https://drive.google.com/file/d/1bGlPBH7_1J-61nnAsWWU9viVBNsFmNKo/view?usp=sharing
 
-### Version 0.1.1:
+#### Version 0.1.1:
 
 - Mega: https://mega.nz/file/2WQHXawQ#k5b3S744oIhHs8bFU_eMs04-nKwWj4C-7tXgazW31tU
-- Google Drive: https://drive.google.com/file/d/1zv56pPSHruN_KnOQ4pVHlJHMwSOn4ni1/view?usp=share_link
 
-### Version 0.1.0:
+#### Version 0.1.0:
 
 - Mega: https://mega.nz/file/aehiRaaS#8kgPnxVlYEI8AZL9KebwT2SQal1h_6UuRpmnw55LDfk
-- Google Drive: https://drive.google.com/file/d/1tVlHEiu3dpkdchUqC3Xhz-Zbr0kmo36M/view?usp=share_link
-
 ### GUI patcher:
 
-### Version 0.5
+#### Version 0.5
 
 Included with build 0.2.
 
-### Version 0.4
+#### Version 0.4
 
 Included with builds 0.1.3 - 0.1.7.
 
-### Version 0.3.0
+#### Version 0.3.0
 
 Included with builds 0.1.0 - 0.1.2.
 
