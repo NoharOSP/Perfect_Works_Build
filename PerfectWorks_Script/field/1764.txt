@@ -182,8 +182,8 @@ understand that?"<Close><End of Block>
 <TextBlock 37 w:52 h:4>
 Citan
 "Such childish idealism
-is meangingless when
-faced with reality.<New>
+is meaningless when faced
+with reality.<New>
 In truth, are many people
 not satisfied with being
 given their place?<New>
@@ -414,7 +414,7 @@ We are alien beings
 who came to this world
 from another celestial
 body long ago."<Close><End of Block>
-<TextBlock 72 w:38 h:4>
+<TextBlock 72 w:42 h:4>
 Elder
 "It is no lie.<New>
 Even you have seen
@@ -422,8 +422,7 @@ the entirety of the
 surface, correct?<New>
 Why did people not
 exist here prior to
-ten thousand years
-ago...?"<Close><End of Block>
+10,000 years ago...?"<Close><End of Block>
 <TextBlock 73 w:50 h:3>
 Elder
 "This is the will of God.<New>
@@ -498,7 +497,7 @@ Wh-What...!?"<Close><End of Block>
 <TextBlock 86 w:32 h:3>
 Fei
 "That's not true
-belongi<-->! "<Close><End of Block>
+belongi<-->!"<Close><End of Block>
 <TextBlock 87 w:32 h:2>
 Fei
 "Just...<Delay 30>stop..."<Close><End of Block>

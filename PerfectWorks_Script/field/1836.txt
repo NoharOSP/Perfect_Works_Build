@@ -12,7 +12,7 @@ Citan
 hurried straight here!<New>
 Boy, are you a lucky
 young man...<Delay 10><New>
-You were very fortunate to 
+You were very fortunate to
 have landed near Torah's
 research facility<Delay 5>..."<Close><End of Block>
 <TextBlock 5 w:52 h:4>
@@ -36,7 +36,7 @@ Citan
 you made a very
 narrow escape,
 dear boy.<New>
-Make sure you 
+Make sure you
 thank the
 gentleman who
 saved you!"<Close><End of Block>
@@ -110,7 +110,7 @@ I..."<Close><End of Block>
 <TextBlock 22 w:50 h:4>
 Torah
 "Ahem! Now, why don't you
-two young'uns go get some 
+two young'uns go get some
 fresh air outside?<New>
 It ought to ease the
 shock of the change."<Close><End of Block>
@@ -139,16 +139,16 @@ Shevat Emissary
 Torah
 "How dare you be so
 selfish!?<New>
-Citan told me all about 
+Citan told me all about
 you, and now you show
 up<New> 
-only after finding 
+only after finding
 out that Id is
 now controllable...<New>
 Aren't you ashamed? You
-fools haven't changed 
-at all since those 
-times...<New> 
+fools haven't changed
+at all since those
+times...<New>
 You only care
 about yourselves."<Close><End of Block>
 <TextBlock 28 w:50 h:4>
@@ -201,7 +201,7 @@ I'll manage somehow."<Close><End of Block>
 <TextBlock 37 w:50 h:2>
 Fei
 "But,<New>
-you'll be all by 
+you'll be all by
 yourself..."<Close><End of Block>
 <TextBlock 38 w:50 h:3>
 Citan
@@ -212,14 +212,13 @@ own Omnigear."<Close><End of Block>
 <TextBlock 39 w:46 h:2>
 Fei
 "You have an Omnigear?"<Close><End of Block>
-<TextBlock 40 w:48 h:4>
+<TextBlock 40 w:42 h:4>
 Citan
-"Yes. It's name is
-'<Fenrir>'.<New>
+"I do.<Delay 20>
 It is the same one I
-brought from Solaris--<New>
-I simply left it with 
-Gaspar in case of 
+brought from Solaris<--><New>
+I simply left it with
+Gaspar in case of
 emergencies."<Close><End of Block>
 <TextBlock 41 w:40 h:4>
 Fei
@@ -240,9 +239,9 @@ for your kindness,<Delay 10> Fei!"<Close><End of Block>
 Torah
 "Hmph!<Delay 10>
 Suit yourselves."<Close><End of Block>
-<TextBlock 46 w:30 h:2>
+<TextBlock 46 w:30 h:3>
 Fei
-"They're targeting<New> 
+"They're targeting
 Ignas, right?"<Close><End of Block>
 <TextBlock 47 w:56 h:4>
 Shevat Emissary
@@ -251,7 +250,7 @@ The goal of the enemy is to
 destroy the cities in Ignas.<New>
 They have already destroyed
 half of Breidablik and will
-probably reach Nisan in 
+probably reach Nisan in
 about four hours.<New>
 Shevat will try to drive
 them back with all the
@@ -272,7 +271,7 @@ in half the time."<Close><End of Block>
 <TextBlock 50 w:42 h:3>
 Fei
 "What?<Delay 10>
-Is old man Bal here?"<Close><End of Block>
+Is Ol' Man Bal here?"<Close><End of Block>
 <TextBlock 51 w:54 h:2>
 Citan
 "That he is.<New>

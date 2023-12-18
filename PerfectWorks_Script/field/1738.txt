@@ -153,7 +153,7 @@ Elly
 with my father.<New>
 Sure, maybe you were
 in Solaris in those
-days, CItan."<Close><End of Block>
+days, Citan."<Close><End of Block>
 <TextBlock 28 w:48 h:4>
 Elly
 "But even Jessie, who
@@ -209,7 +209,7 @@ to be unable to die.<New>
 But the fate of the Gazel
 was different.<New>
 Due to the war with the
-former surface-dwellers...<Delay 20>
+former surface dwellers...<Delay 20>
 or, rather, because of
 the Diabolos invasion,<New>
 the elders of the Gazel
@@ -255,9 +255,9 @@ the will of the people.<New>
 Even the memory cubes,
 which you all use
 quite innocently <--><New>
-They are devices that were
+they are devices that were
 installed to collect
-surface-dwellers' bio-data.<New>
+surface dwellers' bio-data.<New>
 Of course, help also came
 in the form of the variety
 of data sent by the Church

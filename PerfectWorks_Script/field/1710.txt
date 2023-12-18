@@ -6,7 +6,7 @@ c-can't be..."<Opcode 2 20><Close><End of Block>
 Fei
 "Wh-<Delay 10>What is this...?<Delay 40>
 Wh-What<Delay 20> the hell
-is this...!?<Opcode 2 40><Close><End of Block>
+is this...!?"<Opcode 2 40><Close><End of Block>
 <TextBlock 3 w:20 h:2>
 Fei
 "Waaaagh!"<Opcode 2 50><Close><End of Block>
