@@ -1,73 +1,78 @@
-<TextBlock 1 w:48 h:3>
+<TextBlock 1 w:42 h:3>
 Fei
-"Is this...
-what we ate earlier...?"<Close><End of Block>
+"Huh...?<Delay 10> It's what
+we ate back there..."<Close><End of Block>
 <TextBlock 2 w:40 h:4>
 Fei
-"Yak...<Delay 30>
-I don't want to see
-where they make it."<Close><End of Block>
-<TextBlock 3 w:48 h:4>
+"Eww...<Delay 30> I'm not sure
+I want to see where
+it gets made."<Close><End of Block>
+<TextBlock 3 w:30 h:4>
 Fei
-"What is it...?<Delay 30>
-What's supposed to be...
-there, exactly?"<Close><End of Block>
+"What...<Delay 30>
+What exactly...
+is in there?"<Close><End of Block>
 <TextBlock 4 w:42 h:3>
 Fei
-"Damn, 
-we can't go forward."<Close><End of Block>
+"Damn that thing, we
+can't go further on."<Close><End of Block>
 <TextBlock 5 w:42 h:3>
 Fei
-"Damn, 
-we can't go forward."<Close><End of Block>
+"Damn that thing, we
+can't go further on."<Close><End of Block>
 <TextBlock 6 w:42 h:3>
 Fei
-"Damn, 
-we can't go forward."<Close><End of Block>
-<TextBlock 7 w:48 h:4>
+"Damn that thing, we
+can't go further on."<Close><End of Block>
+<TextBlock 7 w:44 h:3>
 Elly
-"I see...<Delay 30>
-The medicine we normally
-use is made here..."<Close><End of Block>
+"Hmm...<New>
+Normally, the various
+pharmaceuticals we use
+are all made here..."<Close><End of Block>
 <TextBlock 8 w:34 h:4>
 Elly
 "I wonder...<Delay 30>
 what kind of meat
 this is...?"<Close><End of Block>
-<TextBlock 9 w:32 h:3>
+<TextBlock 9 w:30 h:3>
 Elly
-"What about that
+"Is something
+wrong with that
 canned food?"<Close><End of Block>
 <TextBlock 10 w:24 h:2>
 Citan
 "Wait, Fei."<Close><End of Block>
-<TextBlock 11 w:46 h:4>
+<TextBlock 11 w:32 h:3>
 Citan
-"You ate that food.<Delay 30>
-Consider that fact when
-you open that door."<Close><End of Block>
+"The two of you
+ate that food.<New>
+Please keep that
+in mind as you
+open that door."<Close><End of Block>
 <TextBlock 12 w:42 h:2>
 Citan
 "See for yourselves."<Close><End of Block>
-<TextBlock 13 w:48 h:3>
+<TextBlock 13 w:48 h:4>
 Citan
 "The sensor control room
-should have been there."<Close><End of Block>
-<TextBlock 14 w:48 h:3>
+should be over there on
+the opposite side."<Close><End of Block>
+<TextBlock 14 w:46 h:3>
 Citan
-"If you turn off the
-foreign object detector,<New>
-you will be able to move
-forward."<Close><End of Block>
-<TextBlock 15 w:48 h:2>
-Foreign object detected,
-discharging object.<Close><End of Block>
-<TextBlock 16 w:48 h:2>
-Foreign object detected,
-discharging object.<Close><End of Block>
-<TextBlock 17 w:48 h:2>
-Foreign object detected,
-discharging object.<Close><End of Block>
+"If we turn off the
+foreign object scanner,<New>
+we will be able to
+proceed."<Close><End of Block>
+<TextBlock 15 w:46 h:2>
+Foreign object
+identified <--> ejecting.<Close><End of Block>
+<TextBlock 16 w:46 h:2>
+Foreign object
+identified <--> ejecting.<Close><End of Block>
+<TextBlock 17 w:46 h:2>
+Foreign object
+identified <--> ejecting.<Close><End of Block>
 <TextBlock 18 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

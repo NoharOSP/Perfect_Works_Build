@@ -3,266 +3,284 @@ Fei
 "Huh?
 This one won't
 open either."<Close><End of Block>
-<TextBlock 2 w:54 h:3>
+<TextBlock 2 w:52 h:3>
 Fei
-"What in the world 
-IS this facility?"<Close><End of Block>
+"Just what in the world is
+this facility all about?"<Close><End of Block>
 <TextBlock 3 w:42 h:2>
 Fei
-"Primordial times?"<Close><End of Block>
-<TextBlock 4 w:42 h:3>
+"The time of origin?"<Close><End of Block>
+<TextBlock 4 w:30 h:3>
 Fei
-"Data on memory 
+"Data in memory
 banks?"<Close><End of Block>
-<TextBlock 5 w:48 h:4>
+<TextBlock 5 w:42 h:4>
 Fei
-"So, we were living day 
-in and day out, all for 
-those old Gazel fogies?"<Close><End of Block>
-<TextBlock 6 w:46 h:4>
+"So, you're telling
+me we've been living
+from day to day<New>
+for the sake of these
+Gazel elders!?"<Close><End of Block>
+<TextBlock 6 w:50 h:4>
 Fei
-"You mean the 
-demi-humans getting<New>
-cannibalized at the 
-factory were too?"<Close><End of Block>
-<TextBlock 7 w:36 h:3>
+"And the demihumans
+getting taken apart at
+the factory back there!?"<Close><End of Block>
+<TextBlock 7 w:38 h:3>
 Fei
 "That's horrid...<Delay 40>
-How could they..."<Close><End of Block>
+How could they...?"<Close><End of Block>
 <TextBlock 8 w:14 h:2>
 Fei
 "What?"<Close><End of Block>
-<TextBlock 9 w:42 h:3>
+<TextBlock 9 w:36 h:3>
 Fei
-"Doc, didn't you also
-find out..."<Close><End of Block>
-<TextBlock 10 w:46 h:3>
+"Couldn't Doc also
+have checked<-->?"<Close><End of Block>
+<TextBlock 10 w:40 h:4>
 Fei
-"Hey wait a minute.
-It could've been luck."<Close><End of Block>
-<TextBlock 11 w:38 h:2>
+"Just wait a minute.
+Maybe he happened to
+get lucky..."<Close><End of Block>
+<TextBlock 11 w:30 h:2>
 Fei
-"Elly, uh, uhmm..."<Close><End of Block>
+"U-<Delay 10>Uhh, Elly<-->"<Close><End of Block>
 <TextBlock 12 w:28 h:2>
 Fei
-"Wh, what...!"<Close><End of Block>
+"Wh-What...!?"<Close><End of Block>
 <TextBlock 13 w:30 h:3>
 Fei
-"Hey, you okay?
-Elly. Elly...?"<Opcode 2 40><Close><End of Block>
+"Hey, you okay,
+Elly?<Delay 10> Elly...?"<Opcode 2 40><Close><End of Block>
 <TextBlock 14 w:14 h:2>
 Fei
 "Elly!"<Opcode 2 40><Close><End of Block>
 <TextBlock 15 w:30 h:2>
 Fei
-"Doc... Citan!"<Opcode 2 40><Close><End of Block>
-<TextBlock 16 w:16 h:3>
+"Doc...<Delay 10> Citan!"<Opcode 2 40><Close><End of Block>
+<TextBlock 16 w:22 h:3>
 Fei
-"Damn!<New>
-They got 
-us!"<Close><End of Block>
-<TextBlock 17 w:30 h:3>
+"Damn!<Delay 10> They
+got us!"<Close><End of Block>
+<TextBlock 17 w:26 h:4>
 Fei
 "Elly!<Delay 30> Citan!<Delay 30>
-Where are you!"<Close><End of Block>
+Where are
+you!?"<Close><End of Block>
 <TextBlock 18 w:30 h:3>
 Fei
 "Damn! No good!
 It won't open."<Close><End of Block>
-<TextBlock 19 w:50 h:4>
+<TextBlock 19 w:36 h:4>
 Elly
-(How does he know the 
-door lock's release 
-code?)<Opcode 2 5><Close><End of Block>
-<TextBlock 20 w:44 h:3>
+"(How...does he
+know the door lock
+release code?)"<Opcode 2 20><Close><End of Block>
+<TextBlock 20 w:40 h:3>
 Elly
-"But that's...<New>
-How could humans 
-live for 10,000 
-years?"<Close><End of Block>
-<TextBlock 21 w:48 h:4>
+"How can that be...?<Delay 10>
+People living for
+10,000 years..."<Close><End of Block>
+<TextBlock 21 w:50 h:4>
 Elly
-"Individual bio-data 
-is transmitted via the 
-memory cubes every time<New> 
-a record is taken,
-to be put to use for the 
-Ministry's physical 
+"Whenever a recording
+is made by a memory cube,
+the individual bio-data<New>
+is transmitted in order
+to be used for the
+Ministry's physical
 resurrection!?"<Close><End of Block>
 <TextBlock 22 w:48 h:3>
 Elly
-"Citan, 
-how would you know that?<New>
-Not even the government
-or the army know such
-things!"<Close><End of Block>
-<TextBlock 23 w:54 h:4>
+"Citan, how would you
+know such things?<New>
+Not even the higher-ups
+in the government or the
+army know about them!"<Close><End of Block>
+<TextBlock 23 w:46 h:4>
 Elly
-"Come to think of it, it
-seems like we took the long
-way here on purpose.<New>
-There must've been a faster
-way to Bart and them.<New>
-Also, the route to get to
-this block can't even be
-downloaded on the map.<New>
-So how did we know what
-streets we were on?"<Close><End of Block>
-<TextBlock 24 w:48 h:3>
+"Come to think of it,<New>
+it feels like we
+deliberately took
+a roundabout way
+of getting here.<New>
+There must've been a
+faster way to get to
+Bart and the others.<New>
+Also, the route to get
+to this section doesn't
+even appear on the map
+we downloaded.<New>
+I wonder how he knows
+the exact way despite
+that."<Close><End of Block>
+<TextBlock 24 w:44 h:4>
 Elly
 "That's impossible.<New>
-First of all, that
-partition we took to get
-into this block.<New>
-That panel was displayed
-to be a P4 facility.<New>
-Even a high ranking
-officer of Solaris
-can't get in here.<New>
-You think they'd
-leave a facility like
-that unlocked and open?"<Close><End of Block>
-<TextBlock 25 w:46 h:3>
+First of all, the
+bulkhead we passed
+through to get into
+this section <--><New>
+its panel showed that
+this is a P4 facility.<New>
+Even senior officers
+of Solaris can't just
+walk on through that.<New>
+Do you think such a
+thing would be left
+unlocked and open?"<Close><End of Block>
+<TextBlock 25 w:36 h:4>
 Elly
-"And you could open it?
-Who exactly are you?"<Close><End of Block>
+"Just who are you,
+Citan, to be able
+to open that?"<Close><End of Block>
 <TextBlock 26 w:52 h:4>
 Elly
-"Something's wrong!<Delay 40>
-You were able to get into
-Solaris under martial law,<New>
-sneak into the palace, get
-through a P4 level door,<New>
-and even learn the purpose
-of the P4 facility...<Delay 30>
+"There's simply no way!<New>
+To luckily sneak into
+Solaris while its on
+high alert,<New>
+infiltrate the palace
+interior without incident,<Delay 10>
+more luckily still open
+a P4-level door,<New>
+and even know the purpose
+of the facility...<Delay 30>
 How is that possible?"<Close><End of Block>
-<TextBlock 27 w:50 h:4>
+<TextBlock 27 w:40 h:3>
 Elly
-"Even father. I'm sure it
-was possible you were in
-Solaris then."<Close><End of Block>
-<TextBlock 28 w:52 h:4>
+"It's just like
+with my father.<New>
+Sure, maybe you were
+in Solaris in those
+days, Citan."<Close><End of Block>
+<TextBlock 28 w:48 h:4>
 Elly
-"Even Jessie, who was also
-in Solaris then,<New>
-didn't know the motive
-behind the M Project.<New>
-So Citan, why do you know?
-You know even more details
-than Maria...something's
-not right...I know it."<Close><End of Block>
-<TextBlock 29 w:30 h:2>
+"But even Jessie, who
+was also in Solaris
+around the same time,<New>
+didn't know the truth
+behind the M Project.<Delay 20>
+So how is it that
+you know?<New>
+And you're better-
+informed than Maria,
+for that matter...<New>
+Something's not right...
+I know it."<Close><End of Block>
+<TextBlock 29 w:16 h:2>
 Elly
-"I'm not done!"<Close><End of Block>
+"Quiet!"<Close><End of Block>
 <TextBlock 30 w:40 h:4>
 Elly
 "I should've noticed
-sooner. Citan...<Delay 40>
+sooner.<Delay 20> Citan...<Delay 40>
 Who are you?"<Close><End of Block>
-<TextBlock 31 w:22 h:2>
+<TextBlock 31 w:20 h:3>
 Citan
-"This way."<Close><End of Block>
+"Well,<Delay 10>
+this way."<Close><End of Block>
 <TextBlock 32 w:50 h:4>
 Citan
-"Originally this was 
-a facility used in part 
-for the Gazel Ministry's<New>
-longevity research.
-The Emperor, who reigns 
-over them, is one who 
-has lived on since<New> 
-primordial times and 
-cannot be allowed 
-to die."<Close><End of Block>
-<TextBlock 33 w:52 h:4>
+"At first, this place was
+a facility devoted to the
+life-extension research<New>
+of the Gazel Ministry <-->
+and the Emperor, above
+all.<New>
+He who has lived on since
+the time of origin, and
+is not to pass away."<Close><End of Block>
+<TextBlock 33 w:50 h:4>
 Citan
-"Yes...<Delay 30>10,000 years ago.<New>
-Creatures called humans 
-were born upon this 
-earth.<New>
-Those first humans were 
-Emperor Cain and the 
-elders comprising the 
-Gazel Ministry.<Close><End of Block>
-<TextBlock 34 w:54 h:4>
+"Yes...<Delay 30>10,000 years ago.<Delay 30>
+Creatures called humans
+were born upon this land.<New>
+Those first humans were
+Emperor Cain and the
+elders comprising the
+Gazel Ministry."<Close><End of Block>
+<TextBlock 34 w:52 h:4>
 Citan
-"Naturally, that was 
-only one person, the 
-Emperor.<New> 
-He is a human 
-whose destiny is to 
-never die.<New>
-But the Gazel's destiny 
+"Of course, that goes
+for the Emperor alone.<New>
+For he is a human fated
+to be unable to die.<New>
+But the fate of the Gazel
 was different.<New>
-Due to the war with 
-the former 
-surface-dwellers...<New>
-or, rather, because of 
-the Diabolos' invasion,<Delay 30>
-the old men of Gazel lost 
-their bodies altogether.<New>
-Now the Solaris-governing 
-Gazel Ministry exists 
-on memory banks,<New>
-each of their respective 
-personalities mere data."<Close><End of Block>
-<TextBlock 35 w:52 h:4>
+Due to the war with the
+former surface dwellers...<Delay 20>
+or, rather, because of
+the Diabolos invasion,<New>
+the elders of the Gazel
+lost their fleshly bodies
+altogether.<New>
+Now the Solaris-governing
+Gazel Ministry exist in
+memory banks,<New>
+their respective
+personalities nothing
+more than data."<Close><End of Block>
+<TextBlock 35 w:46 h:4>
 Citan
-"They are but numeric 
-strings, having neither 
-flesh nor soul.<New>
-Immaterial existences..."<Close><End of Block>
+"Yes.<Delay 10> They are but
+numeric strings, having
+neither flesh nor soul.<New>
+Existence without
+substance..."<Close><End of Block>
 <TextBlock 36 w:54 h:4>
 Citan
 "After the Day of Collapse,
-they became fixated upon
-their corporeality.<New>
-Desiring resurrection,
-they transferred one of
-the Soylent Systems from
-the surface to Etemenanki<New>
-so that it might produce
-suitable bodies.<New>
-Eventually the institution,
-no longer limited to
-researching only the
-Emperor's longevity<New>
-treatments and Ministry's
-corporeal resurrection,
-came to double as a
-facility researching<New>
-organic weapons, along with
-special food and drug
-additives that would
-regulate public opinion.<New>
-The memory cubes, too,
-which Fei and the others
-used without concern...<New>
-They are devices that were
+insisting on corporeality,
+they desired resurrection<New>
+and transferred one of
+the Soylent Systems that
+had been on the surface
+here to Etemenanki<New>
+as a research facility to
+produce suitable bodies.<New>
+Before long, no longer
+limited to researching
+only the Emperor's
+longevity treatments<New>
+and the Ministry's
+bodily resurrection,<New>
+it came to double as a
+facility researching
+biological weapons,<New>
+as well as pharmaceuticals
+and food containing
+additives for controlling
+the will of the people.<New>
+Even the memory cubes,
+which you all use
+quite innocently <--><New>
+they are devices that were
 installed to collect
-surface-dwellers' bio-data.<New>
-Of course, various data was
-also sent by the Church
-of the Ethos to help."<Close><End of Block>
-<TextBlock 37 w:12 h:2>
+surface dwellers' bio-data.<New>
+Of course, help also came
+in the form of the variety
+of data sent by the Church
+of the Ethos."<Close><End of Block>
+<TextBlock 37 w:20 h:2>
 Citan
 "Correct."<Close><End of Block>
 <TextBlock 38 w:12 h:2>
 Citan
 "Yes."<Close><End of Block>
-<TextBlock 39 w:50 h:4>
+<TextBlock 39 w:44 h:4>
 Citan
-"I suppose it's like 
-reusing the unusable 
-dregs."<Close><End of Block>
-<TextBlock 40 w:28 h:3>
+"You could say...<Delay 10>
+it is like repurposing
+the used-up husks."<Close><End of Block>
+<TextBlock 40 w:30 h:2>
 Fei
-"Hold up,
-Doc."<Close><End of Block>
-<TextBlock 41 w:46 h:3>
+"Hold up, Doc."<Close><End of Block>
+<TextBlock 41 w:46 h:4>
 Elly
-"Hold on, Fei!
-Something's not right!"<Close><End of Block>
+"Hold on, Fei!<Delay 10>
+It's weird!<Delay 10> Something's
+off about this!"<Close><End of Block>
 <TextBlock 42 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

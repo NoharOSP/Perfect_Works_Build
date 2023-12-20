@@ -379,7 +379,7 @@ It'll pay to remember this!<Close><End of Block>
 Maybe they went to the bar?
 But isn't it unusual for the
 Imperial Capital's bigwigs
-to come to D block!?<Close><End of Block>
+to come to D Block!?<Close><End of Block>
 <TextBlock 65 w:58 h:3>
 <Delay 5>...<Delay 5>The Imperial Capital's
 Battling Committee members?

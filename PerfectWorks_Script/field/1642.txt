@@ -24,7 +24,7 @@ leader of Solaris...<New>
 What<Delay 5>...?<Delay 10>
 What is this<Delay 5>...<Delay 5>
 nostalgic feeling...?"<Close><End of Block>
-<TextBlock 6 w:48 h:4>
+<TextBlock 6 w:50 h:4>
 Karellen
 "It is by the will of His
 Majesty that the Gate we

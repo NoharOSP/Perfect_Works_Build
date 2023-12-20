@@ -78,7 +78,7 @@ She was so nice to me.<New>
 But she was a land dweller.<Delay 10>
 First-Class citizens
 rarely have land dwellers
-serve hem directly.<New>
+serve them directly.<New>
 But this person lived in
 our house and took care
 of me.<New>
@@ -100,7 +100,7 @@ it would look...<New>
 He had a good reason
 to worry about it...
 She was probably my
-real<Delay 5>..."<Close><End of Block>
+real<-->"<Close><End of Block>
 <TextBlock 21 w:18 h:2>
 Fei
 "Elly..."<Close><End of Block>

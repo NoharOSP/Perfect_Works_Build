@@ -49,10 +49,10 @@ You're<Delay 5> all just
 like my daughter.
 She just won't give up.<New>
 So many people.
-It must be hard
-for you to get around.<New>
+It must be hard for
+you to get around.<New>
 Do you want to change here?<Delay 15>
-<Opcode 1 255>     No
+<Opcode 1 255>    No
     Change party<Close><End of Block>
 <TextBlock 12 w:48 h:3>
 <Delay 5>...<Delay 5>...Okay.<Delay 15>

@@ -1,97 +1,105 @@
-<TextBlock 1 w:26 h:3>
+<TextBlock 1 w:28 h:3>
 Fei
-"Th...this...
-can't be..."<Opcode 2 20><Close><End of Block>
-<TextBlock 2 w:56 h:3>
+"Th-This...
+c-can't be..."<Opcode 2 20><Close><End of Block>
+<TextBlock 2 w:42 h:4>
 Fei
-"What...is this...<Delay 40>
-What...<Delay 20>the hell is this...!!<Opcode 2 40><Close><End of Block>
-<TextBlock 3 w:28 h:2>
+"Wh-<Delay 10>What is this...?<Delay 40>
+Wh-What<Delay 20> the hell
+is this...!?"<Opcode 2 40><Close><End of Block>
+<TextBlock 3 w:20 h:2>
 Fei
-"Wo-o-o-o-o-!"<Opcode 2 50><Close><End of Block>
-<TextBlock 4 w:54 h:3>
+"Waaaagh!"<Opcode 2 50><Close><End of Block>
+<TextBlock 4 w:40 h:2>
 Fei
-"Could...this be...true...?
-Doc..."<Close><End of Block>
-<TextBlock 5 w:46 h:3>
+"Doc...<Delay 30> All this..."<Close><End of Block>
+<TextBlock 5 w:36 h:3>
 Elly
 "No...
-You must be kidding..."<Opcode 2 20><Close><End of Block>
-<TextBlock 6 w:14 h:2>
+There's no way..."<Opcode 2 20><Close><End of Block>
+<TextBlock 6 w:18 h:2>
 Elly
-"Uh..."<Opcode 2 20><Close><End of Block>
-<TextBlock 7 w:44 h:2>
+"Urgh..."<Opcode 2 20><Close><End of Block>
+<TextBlock 7 w:34 h:3>
 Elly
-"Don't be ridiculous!<New>
-My father'd never take
-part in such a thing!"<Close><End of Block>
-<TextBlock 8 w:48 h:4>
+"D-<Delay 10>Don't be
+ridiculous!<New>
+My father would
+never be a part
+of such a thing!"<Close><End of Block>
+<TextBlock 8 w:40 h:3>
 Elly
-My father...<Delay 40>
-did that...<Delay 30>
-No, it can't be true..."<Close><End of Block>
-<TextBlock 9 w:46 h:3>
+"No...<Delay 20> Father...<Delay 40>
+It can't be true..."<Close><End of Block>
+<TextBlock 9 w:44 h:3>
 Citan
-"Soylent System.<New>
-The organism experiment
-lab and its disposal
-facility in Solaris."<Close><End of Block>
-<TextBlock 10 w:56 h:4>
+"The Soylent System.<New>
+The biological testing
+lab and processing
+facility of Solaris."<Close><End of Block>
+<TextBlock 10 w:44 h:3>
 Citan
-"And the production facility
-for food and medicine to
-maintain the Limiter seal.<New>
-Aquvy's Wels were also made
-here."<Close><End of Block>
-<TextBlock 11 w:52 h:4>
+"And also the
+manufacturing plant<New>
+for the food and
+pharmaceuticals that
+maintain the Limiters.<New>
+Aquvy's Wels, too,
+were created here."<Close><End of Block>
+<TextBlock 11 w:50 h:4>
 Citan
-"Elly, do you remember
-Dominia's words during our
-infiltration of Shevat?<New>
+"Elly, have you ever
+wondered why Dominia
+harbors such hatred<New>
+towards you <--> or
+rather, towards your
+father, the Lord Erich?<Delay 30>
 Here is the answer.<New>
-People of her native
-country served as one of
-the origins for Wels...
-the M plan.<New>
-They were used that
-way because of their
-peculiar abilites.<New>
+Because of their unique
+abilities, the people of
+her native country were<New>
+one of the species that
+served as the basis
+of the M Project...<Delay 10>
+of the Wels.<New>
 She is the last survivor.<New>
-Elly, your father, Erich
-used to be the
-superintendent of this
-facility.<New>
-He was involved
-in the research with
-Maria's father.<Close><End of Block>
+Lord Erich used to be
+the superintendent of
+this facility.<New>
+He was involved in the
+research along with
+Maria's father."<Close><End of Block>
 <TextBlock 12 w:52 h:4>
 Citan
-"Naturally, Erich always
-had pangs of guilt.<New>
+"Of course, Lord Erich was
+constantly tormented by
+a crisis of conscience.<New>
 So he kept as many land
 dwellers as possible under
-his protection as 3rd
+his protection as Third-
 Class citizens.<New>
-Then he resigned.
-That's why he is on the
+Then he resigned. That is
+why he ended up on the
 administrative staff of
-the Special Forces now."<Close><End of Block>
-<TextBlock 13 w:54 h:3>
+the secret service."<Close><End of Block>
+<TextBlock 13 w:40 h:4>
 Citan
-"Now, get up, Fei.<Delay 30>
-Get up and look it over..."<Close><End of Block>
-<TextBlock 14 w:40 h:2>
+"Now, stand up, Fei.<Delay 30>
+Stand and look upon
+it once more..."<Close><End of Block>
+<TextBlock 14 w:42 h:2>
 Citan
-"..This is reality."<Close><End of Block>
-<TextBlock 15 w:22 h:2>
+"...This is reality."<Close><End of Block>
+<TextBlock 15 w:34 h:2>
 Citan
-"Let's go."<Close><End of Block>
+"Now, let us go."<Close><End of Block>
 <TextBlock 16 w:50 h:4>
 Citan
-"To end a person's life,<Delay 30>
-and then consume their
-flesh.<New>
-Is that, <Delay 20>permissible...?"<Close><End of Block>
+"Let us see what awaits
+those who would take the
+lives of their own people<New>
+and treat their flesh
+as food..."<Close><End of Block>
 <TextBlock 17 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

@@ -1,56 +1,51 @@
-<TextBlock 1 w:26 h:4>
+<TextBlock 1 w:24 h:3>
 Fei
-"Ugh,
-what's going 
-on......"<Opcode 2 30><Close><End of Block>
-<TextBlock 2 w:18 h:3>
+"Uh,
+wh-what...?"<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:24 h:2>
 Fei
-"Th, this
-is..."<Opcode 2 30><Close><End of Block>
-<TextBlock 3 w:14 h:2>
+"Wh-Whoa..."<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:22 h:2>
 Fei
-"Uwah!"<Opcode 2 50><Close><End of Block>
-<TextBlock 4 w:14 h:2>
+"Aaaghh..."<Opcode 2 50><Close><End of Block>
+<TextBlock 4 w:18 h:2>
 Fei
-"Un..."<Opcode 2 30><Close><End of Block>
-<TextBlock 5 w:22 h:3>
+"Ungh..."<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:18 h:3>
 Fei
-"Huh!?
-This is..."<Opcode 2 30><Close><End of Block>
-<TextBlock 6 w:16 h:2>
+"Huh!?<Delay 10>
+Oh no..."<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:20 h:2>
 Fei
-"Urg..."<Opcode 2 30><Close><End of Block>
-<TextBlock 7 w:20 h:4>
+"Hrrgh..."<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:22 h:4>
 Fei
-"No use, 
-I can't 
-break it."<Opcode 2 40><Close><End of Block>
-<TextBlock 8 w:22 h:3>
+"No use...
+I can't get
+it off."<Opcode 2 40><Close><End of Block>
+<TextBlock 8 w:18 h:3>
 Fei
-"Ah...<Delay 30>
-This is..."<Close><End of Block>
-<TextBlock 9 w:40 h:4>
+"Uh...<Delay 30>
+What...?"<Close><End of Block>
+<TextBlock 9 w:38 h:4>
 Fei
 "What is this!?<Delay 20>
-Why are you showing 
+Why are you showing
 me these things!?<New>
 Who are you!?
-Who's behind this!?<New>
+Who's doing this!?<New>
 Elly!
 Doc!<New>
 Where are you!?
-Where did 
-they......"<Close><End of Block>
+Where<-->?"<Close><End of Block>
 <TextBlock 10 w:16 h:2>
 Fei
-"Wh...?"<Close><End of Block>
-<TextBlock 11 w:26 h:4>
+"Wha<-->?"<Close><End of Block>
+<TextBlock 11 w:36 h:2>
 Fei
 "Doc!?<New>
-Wh, who are 
-these people?
-What's going 
-on!?"<Close><End of Block>
+Wh-Who are they?<Delay 10>
+What's going on!?"<Close><End of Block>
 <TextBlock 12 w:16 h:2>
 Fei
 "Bart!?"<Opcode 2 40><Close><End of Block>
@@ -60,469 +55,457 @@ Fei
 <TextBlock 14 w:34 h:4>
 Fei
 "Doc!!<Delay 20>
-Wh, what is the 
+Wh-What is the
 meaning of this!?<New>
-What's happening 
-to them......?<Delay 30>
+What's happening
+to them...?<Delay 30>
 Answer me, Doc!"<Close><End of Block>
 <TextBlock 15 w:48 h:3>
 Fei
 "Solaris Guardian Angel?<Delay 30>
 Monitoring me?"<Close><End of Block>
-<TextBlock 16 w:50 h:3>
+<TextBlock 16 w:40 h:3>
 Fei
-"Bart and the others are 
-your bodies......!?<New>
+"Bart and the others
+are your flesh...!?<New>
 Is this true!?
-Doc!<New>
-Is what they're saying 
-true......?"<Close><End of Block>
-<TextBlock 17 w:6 h:2>
+Doc! Is what they're
+saying true...?"<Close><End of Block>
+<TextBlock 17 w:12 h:2>
 Fei
-"?"<Close><End of Block>
-<TextBlock 18 w:18 h:3>
+"...?"<Close><End of Block>
+<TextBlock 18 w:28 h:2>
 Fei
-"...Your 
-enemy?"<Close><End of Block>
-<TextBlock 19 w:46 h:3>
+"...An enemy?"<Close><End of Block>
+<TextBlock 19 w:38 h:2>
 Fei
-"It's true......<Delay 20> isn't 
-it......?<New>
-You were in with them 
-and we......<New>
-For that, the 
-others are......"<Close><End of Block>
-<TextBlock 20 w:52 h:3>
+"So...<Delay 20>it's true...?<New>
+You're in with them
+and were just<--><New>
+And now the
+others are<-->"<Close><End of Block>
+<TextBlock 20 w:42 h:3>
 Fei
 "Why!?<New>
-You control us surface 
-dwellers however you 
-want!<New>
-You already own the world!<New>
-What could you be after 
-beyond that!?"<Close><End of Block>
-<TextBlock 21 w:44 h:3>
+You've manipulated we
+surface dwellers to
+suit yourselves!<New>
+You already own the
+world anyway!<New>
+What more could you
+be after!?"<Close><End of Block>
+<TextBlock 21 w:48 h:4>
 Fei
-"The paradise in the 
-heavens, Machanon?<Delay 30><New>
-The one said to have 
-fallen to earth......"<Close><End of Block>
+"Machanon,<Delay 5> the paradise
+in the sky?<Delay 30> Said to have
+fallen to earth..."<Close><End of Block>
 <TextBlock 22 w:16 h:2>
 Fei
 "What!?"<Close><End of Block>
-<TextBlock 23 w:42 h:2>
+<TextBlock 23 w:40 h:2>
 Fei
-"That's ridiculous!?"<Close><End of Block>
+"That's ridiculous!"<Close><End of Block>
 <TextBlock 24 w:14 h:2>
 Fei
 "...!?"<Close><End of Block>
-<TextBlock 25 w:38 h:4>
+<TextBlock 25 w:42 h:4>
 Fei
-"......so your 
-goal isn't to rule 
-the world<New>
-with Solaris' 
-power?"<Close><End of Block>
-<TextBlock 26 w:16 h:2>
+"...Your goal isn't
+to rule the world
+with Solaris' power?"<Close><End of Block>
+<TextBlock 26 w:18 h:2>
 Fei
-"Ugh..."<Close><End of Block>
-<TextBlock 27 w:48 h:4>
+"Ungh..."<Close><End of Block>
+<TextBlock 27 w:46 h:4>
 Fei
-"What're you gonna do to
-me? To Bart and them?
-Where is Elly?"<Close><End of Block>
-<TextBlock 28 w:28 h:4>
+"What're you gonna do
+to me? To Bart and the
+others? Where is Elly?"<Close><End of Block>
+<TextBlock 28 w:32 h:4>
 Fei
-"Damnit...<Delay 30>
-This...<Delay 30>
-What was I..."<Close><End of Block>
+"Dammit...<Delay 30>
+All this time...<Delay 30>
+What have I<-->"<Close><End of Block>
 <TextBlock 29 w:52 h:4>
 Fei
-"Godammit!
-We weren't born to be used
-by them!<New>
-We didn't come all the way
-to Solaris for that!<New>
-I, we, everyone...we just
-want to make a place where
-we can belong...<New>
-That's what we were
-fighting for...
+"Don't give me that!<New>
+We don't live for their
+benefit!<Delay 10> We didn't come
+all the way to Solaris
+for that!<New>
+It was to create a place
+where everyone could truly
+belong...<Delay 10> That's what we
+were fighting for...<New>
 But now..."<Close><End of Block>
 <TextBlock 30 w:22 h:2>
 Fei
 "I...<Delay 40> I..."<Close><End of Block>
-<TextBlock 31 w:30 h:2>
+<TextBlock 31 w:28 h:3>
 Fei
-"Stop! Please!"<Close><End of Block>
-<TextBlock 32 w:40 h:2>
+"Stop!<Delay 10>
+Just stop it!"<Close><End of Block>
+<TextBlock 32 w:28 h:3>
 Citan
-"Are you conscious?"<Close><End of Block>
-<TextBlock 33 w:54 h:4>
+"Have you come
+around?"<Close><End of Block>
+<TextBlock 33 w:50 h:4>
 Citan
-"It is impossible to move.
-This machine has physically
-cut your nerve signals.<New>
-You will not be able to
-lift a finger regardless
-of what your minds says."<Close><End of Block>
+"It is no use even
+trying to move.<New>
+That is a device that
+physically cuts the
+communication between
+the nerves and the body.<New>
+No matter what your mind
+commands, you will not be
+able to lift a finger."<Close><End of Block>
 <TextBlock 34 w:48 h:4>
 Citan
-"Do not worry...
+"No need to worry...
 They have their roles...<Delay 30>
-you have yours.<New>
-I simply investigate."<Close><End of Block>
-<TextBlock 35 w:52 h:3>
+and you have yours.<New>
+I am simply checking
+up on things."<Close><End of Block>
+<TextBlock 35 w:42 h:2>
 Citan
-"So the battle has been
-fought...you say?<New>
-That was discussed earlier
-by the Ministry..."<Close><End of Block>
+"<-->been fighting for?<New>
+It is as the Ministry
+said earlier<-->"<Close><End of Block>
 <TextBlock 36 w:52 h:4>
 Citan
 "It is much easier to be
 given a place to belong
 than to make one yourself.<New>
-You do not even
-understand a simple
-concept like that?"<Close><End of Block>
-<TextBlock 37 w:54 h:4>
+Do you not even
+understand that?"<Close><End of Block>
+<TextBlock 37 w:52 h:4>
 Citan
-"Childish ideals pale when
-placed before reality.<New>
-But actually many are
-satisfied with that.<New>
-Being given one's place,
-frees one from any risks.<New>
-Misfortunes may be blamed
-on others.<New>
-Do you know why people can
-not exist alone but only
-under some bigger concept
-such as a group or country?<New>
-People need a place to go
-to be themselves...<New>
-The more stable it is the
-more effective it is."<Close><End of Block>
-<TextBlock 38 w:54 h:4>
+"Such childish idealism
+is meaningless when faced
+with reality.<New>
+In truth, are many people
+not satisfied with being
+given their place?<New>
+It means not needing
+to take on the risks
+personally.<New>
+Even if things go wrong,
+you can shift the blame.<New>
+Do you know why people
+rely not on individuals
+but on larger entities
+such as groups or nations?<New>
+It is because people
+need a haven. Somewhere
+they can be themselves...<New>
+The more stable it is,
+the better."<Close><End of Block>
+<TextBlock 38 w:52 h:4>
 Citan
-"The Ministry gives them
-such a place.<New>
-Under total surveilance,
-there is no need to bear
-the risk of maintaining 
-one's own individuality.<New>
-They simply live under the
-delusion of being an
-'individual'. What could
-be easier?<New>
-Facts are facts so let's
-just accept them. It will
-be easier for all of us.<New>
-Resistance is futile. It
-only makes things painful."<Close><End of Block>
+"The Ministry gives
+them that haven.<Delay 10>
+Under absolute management,<New>
+there is no need for
+a person the bear the
+risk of trying to remain
+an individual.<New>
+They live life holding on
+to the illusion that they
+are 'their own person'.<Delay 20>
+How easy it would be, no?<New>
+The facts are the facts.
+Let us just accept them.
+It is easier that way.<New>
+Resistance is futile.
+It only makes things
+painful."<Close><End of Block>
 <TextBlock 39 w:54 h:4>
 Citan
-"Do you still intend to
-do something about it?<New>
-Look at yourself...<New>
+"Or do you still mean
+to try to do something
+about it?<New>
+Look at yourself...<Delay 20>
 What do you think you could
-possibly do at this stage?
-You cannot move.<New>
-You could not even protect
-your friends who fought
-with you, when they needed
+possibly do at this stage?<Delay 10>
+You are utterly helpless.<New>
+You cannot even protect
+your friends, who fought
+alongside you, who needed
 you.<New>
-You could not even protect
-the most important person
-in your life, Elly."<Close><End of Block>
-<TextBlock 40 w:42 h:2>
+You cannot even protect
+Elly, the one most
+important to you."<Close><End of Block>
+<TextBlock 40 w:34 h:3>
 Citan
-"You can do nothing."<Close><End of Block>
+"There is nothing
+you can do."<Close><End of Block>
 <TextBlock 41 w:18 h:2>
 Fei
 "Elly..."<Close><End of Block>
-<TextBlock 42 w:14 h:4>
+<TextBlock 42 w:22 h:3>
 Fei
-"Doc...
-Are you
-here?"<Close><End of Block>
-<TextBlock 43 w:44 h:2>
-You brought about this
-spectacle.<Close><End of Block>
+"Doc... Are
+you there?"<Close><End of Block>
+<TextBlock 43 w:50 h:2>
+These are scenes of what
+you have brought about...<Close><End of Block>
 <TextBlock 44 w:42 h:2>
 That voice is the one
-which haunts you...<Close><End of Block>
-<TextBlock 45 w:52 h:1>
-Cursed, untouchable one...<Close><End of Block>
-<TextBlock 46 w:46 h:4>
-The sound that hinders 
-the greatest wish of 
-God's beloved 
-children, us...<Close><End of Block>
-<TextBlock 47 w:12 h:1>
-Get...<Close><End of Block>
+that haunts you...<Close><End of Block>
+<TextBlock 45 w:36 h:2>
+Abominable,
+untouchable one...<Close><End of Block>
+<TextBlock 46 w:52 h:3>
+The one who hinders the
+greatest wish of we
+beloved children of God...<Close><End of Block>
+<TextBlock 47 w:20 h:1>
+Capture...<Close><End of Block>
 <TextBlock 48 w:20 h:1>
 Destroy...<Close><End of Block>
-<TextBlock 49 w:46 h:1>
-Burn with god's fire...<Close><End of Block>
-<TextBlock 50 w:40 h:4>
+<TextBlock 49 w:48 h:1>
+Brand with God's fire...<Close><End of Block>
+<TextBlock 50 w:46 h:4>
 Elder
-"This is one of 
+"This is one of
 the Solaris Guardian
-Angels,<New>
-Hyuga Rikudou.<Close><End of Block>
-<TextBlock 51 w:42 h:4>
+Angels,<Delay 10> Hyuga Rikudou."<Close><End of Block>
+<TextBlock 51 w:46 h:4>
 Elder
 "Under the orders of 
-Cain...<Delay 30><New>
-he whom you call the 
-Emperor,<New>
-this man proceeded 
-to that place to 
-continue monitoring 
-you......"<Close><End of Block>
-<TextBlock 52 w:48 h:4>
+Cain<Delay 20> <--> he whom you
+all call the Emperor <--><New>
+this man went forth to
+that land and continued
+to monitor you..."<Close><End of Block>
+<TextBlock 52 w:44 h:4>
 Elder
-"Just so.<New>
-As well as leading you 
-here to Solaris, he has 
-brought those who have 
-gathered to you<New>
-whom we have selected 
-to become "Animus"."<Close><End of Block>
-<TextBlock 53 w:54 h:4>
+"Just so.<Delay 20>
+And he has brought
+those drawn to you <--><New>
+the chosen few who can
+become our Animus <-->
+here to Solaris."<Close><End of Block>
+<TextBlock 53 w:50 h:4>
 Elder
-"The "Animus" are required 
-for the revival of we who 
-are disembodied...<New>
+"The Animus are vital for
+the resurrection of we
+who are without form...<New>
 They are our flesh...
-They are vessels."<Close><End of Block>
-<TextBlock 54 w:44 h:3>
+Our hosts."<Close><End of Block>
+<TextBlock 54 w:38 h:3>
 Elder
-"Yes, they exist only 
-for that......"<Close><End of Block>
-<TextBlock 55 w:46 h:3>
+"Yes, they exist
+solely for that..."<Close><End of Block>
+<TextBlock 55 w:44 h:3>
 Elder
-"What upsets you so?<New>
-Is it because you have 
-been betrayed by one 
+"What agitates you so?<New>
+Is it that you have
+been betrayed by one
 you trusted?"<Close><End of Block>
-<TextBlock 56 w:40 h:4>
+<TextBlock 56 w:32 h:4>
 Fei
-"I'm not asking any 
-of you!<Delay 30>
+"I'm not asking
+you people!<Delay 30>
 Answer me, Doc!"<Close><End of Block>
-<TextBlock 57 w:18 h:3>
+<TextBlock 57 w:32 h:2>
 Citan
-"Three 
-years..."<Close><End of Block>
-<TextBlock 58 w:54 h:3>
+"Three years..."<Close><End of Block>
+<TextBlock 58 w:52 h:3>
 Citan
-"These three years I 
+"These three years I
 have been at your side.<New>
-I had to ascertain whether 
-you would become our enemy 
-or not......"<Close><End of Block>
+I had to ascertain whether
+you would become an enemy
+to us or not..."<Close><End of Block>
 <TextBlock 59 w:44 h:4>
 Elder
-"Yes, an enemy.
+"Yes, an enemy.<Delay 10>
 To us, you are a 
 dangerous presence..."<Close><End of Block>
-<TextBlock 60 w:48 h:3>
+<TextBlock 60 w:46 h:3>
 Elder
-"Thus, it was necessary 
+"Thus, it was necessary
 to watch you."<Close><End of Block>
-<TextBlock 61 w:48 h:4>
+<TextBlock 61 w:42 h:4>
 Elder
-"Though it was Cain who 
-gave the order to 
-observe you......"<Close><End of Block>
-<TextBlock 62 w:54 h:4>
+"It was Cain who gave
+the order that you be
+monitored,<Delay 10> but..."<Close><End of Block>
+<TextBlock 62 w:38 h:4>
 Elder
-"We planned the selection 
-of those "Animus"<New>
-and the elimination of 
-you who would become our 
-enemy.<New>
-We then sent Hyuga to you."<Close><End of Block>
+"We planned the
+selection of
+those Animus<New>
+and the elimination
+of you who would
+become our enemy.<New>
+We then sent forth
+Hyuga to you."<Close><End of Block>
 <TextBlock 63 w:54 h:3>
 Elder
 "However, every attempt to
 eliminate you has failed...<New>
-Thanks to that good for
+Thanks to that good-for-
 nothing trash..."<Close><End of Block>
-<TextBlock 64 w:44 h:3>
+<TextBlock 64 w:48 h:4>
 Elder
-"Nonetheless, we have 
-obtained "Animus".<New>
-Hyuga has done his 
-job well."<Close><End of Block>
-<TextBlock 65 w:52 h:4>
+"Still, we have obtained
+the Animus.<Delay 10> Hyuga has
+done his job well."<Close><End of Block>
+<TextBlock 65 w:42 h:4>
 Elder
-"You should know. Our goal
-is the resurrection 
-of god."<Close><End of Block>
+"You know full well.<Delay 20>
+Our goal is the
+resurrection of God."<Close><End of Block>
 <TextBlock 66 w:52 h:3>
 Elder
-"When our people fill the 
-earth,<New>
-god will awaken 
-from his long 
-slumber......<New>
-At that time, Machanon 
-too will awaken......"<Close><End of Block>
-<TextBlock 67 w:46 h:4>
+"When humans have filled
+the earth, God will awaken
+from his long slumber...<New>
+At that time, Machanon
+too will awaken..."<Close><End of Block>
+<TextBlock 67 w:50 h:4>
 Elder
-"Paradise......
-Hah hah hah.<New>
-That may be a 
-fitting view 
-of it...... 
-Our ark......<New>
-the central 
-block "Machanon" 
-in which god is sealed.<New>
-It is the source of 
-god's wisdom...... 
+"Paradise... Hah hah hah.
+Maybe that is the right
+way to look at it...<New>
+Our ark... The central 
+block 'Machanon' in
+which God is sealed.<New>
+It is the source of
+God's wisdom...
 A paradise of 
-knowledge......"<Close><End of Block>
-<TextBlock 68 w:50 h:4>
+knowledge..."<Close><End of Block>
+<TextBlock 68 w:38 h:4>
 Elder
-"Using that wisdom, we 
-will revive the awakened 
-god, and build the "ark"<New>
-that calls us both 
+"Using that wisdom,
+we will revive the
+awakened God,<New>
+and build the 'ark'
+that will carry God
+and ourselves out
 into the universe."<Close><End of Block>
-<TextBlock 69 w:42 h:4>
+<TextBlock 69 w:46 h:4>
 Elder
-"The construction of
-our ark...<New>
-And the creation 
-of the Malahk......<New>
-a divine army to 
-reign over the 
-universe.<New>
-The M Project serves 
-this purpose......"<Close><End of Block>
-<TextBlock 70 w:46 h:3>
+"The construction
+of our ark...<New>
+and the creation of the
+angels, the Malakhim...
+a divine army to reign
+over the universe.<New>
+The very purpose of
+the M Project..."<Close><End of Block>
+<TextBlock 70 w:36 h:4>
 Elder
-"We are orphans of the
-universe.<New>
-We were abandoned in 
-isolation on this 
-planet along with god."<Close><End of Block>
-<TextBlock 71 w:54 h:4>
+"We are orphans
+of the universe.<New>
+Together with God,
+we were cast down
+into isolation
+on this planet."<Close><End of Block>
+<TextBlock 71 w:44 h:4>
 Elder
-"Our people are not 
-life forms native to 
+"We humans are not 
+lifeforms native to 
 this planet.<New>
-We came to this world from 
-another heavenly body in 
-the distant past. We are 
-alien beings."<Close><End of Block>
-<TextBlock 72 w:52 h:4>
+We are alien beings
+who came to this world
+from another celestial
+body long ago."<Close><End of Block>
+<TextBlock 72 w:42 h:4>
 Elder
-"It is not a lie.<New>
-You yourself have seen 
-the whole of the surface, 
-correct?<New>
-And that there is no 
-human presence prior 
-to ten thousand years 
-ago......"<Close><End of Block>
+"It is no lie.<New>
+Even you have seen
+the entirety of the
+surface, correct?<New>
+Why did people not
+exist here prior to
+10,000 years ago...?"<Close><End of Block>
 <TextBlock 73 w:50 h:3>
 Elder
-"This is the will of God,<New>
-whose revival has been 
-destined since our 
-genesis of old......"<Close><End of Block>
-<TextBlock 74 w:52 h:4>
+"This is the will of God.<New>
+God's resurrection was
+destined at our genesis
+in ancient times..."<Close><End of Block>
+<TextBlock 74 w:48 h:3>
 Elder
-"And we will become one 
-with god.<New>
-We shall obtain the new 
-"Animus"...... and return 
-to the heavens once 
-again......"<Close><End of Block>
-<TextBlock 75 w:42 h:3>
+"And so we will become
+one with God.<New>
+Gaining new Animus...
+we shall return to
+the stars once again..."<Close><End of Block>
+<TextBlock 75 w:38 h:3>
 Elder
-"That is our purpose 
-in existence."<Close><End of Block>
-<TextBlock 76 w:40 h:3>
+"That is our reason
+for being."<Close><End of Block>
+<TextBlock 76 w:28 h:3>
 Elder
-"That is our supreme
-objective."<Close><End of Block>
-<TextBlock 77 w:48 h:4>
+"That is our
+primary goal."<Close><End of Block>
+<TextBlock 77 w:42 h:4>
 Elder
 "Of course not.<New>
-What meaning is there in
-possessing one 
-insignificant planet 
-such as this......<New>
-God has given us the 
-right to reign over 
+What meaning is there
+in possessing one
+insignificant planet
+such as this...?<New>
+God has given us the
+right to reign over
 the universe."<Close><End of Block>
-<TextBlock 78 w:54 h:4>
+<TextBlock 78 w:46 h:4>
 Elder
-"Yes.
-Only we with no impurities 
-of blood<New>
-will be granted 
-that indulgence......"<Close><End of Block>
-<TextBlock 79 w:38 h:3>
+"Yes.<Delay 10> Only we of blood
+unsullied shall receive
+that absolution..."<Close><End of Block>
+<TextBlock 79 w:30 h:3>
 Elder
-"For that, we will 
-revive god."<Close><End of Block>
-<TextBlock 80 w:44 h:4>
+"Thus, we will 
+resurrect God."<Close><End of Block>
+<TextBlock 80 w:46 h:4>
 Elder
-"An eternity has 
-passed<New>
-since our 
-banishment from 
-paradise.<New>
-Should the revival of 
-god not be complete 
-by the Time of 
-the Gospel,<New>
-we will have to 
-follow the path 
-of destruction. 
-But......"<Close><End of Block>
+"Should the revival of
+God not be complete by
+the Time of the Gospel,<New>
+we will have to follow
+the path to ruin.<Delay 10>
+An eternity in exile
+from paradise.<New>
+But..."<Close><End of Block>
 <TextBlock 81 w:50 h:4>
 Elder
-"As we now have "Animus" 
-our revival is 
-assured......<Delay 30><New>
-Next is god's revival, 
-then......"<Close><End of Block>
+"Now that we have
+attained the Animus,
+our revival is assured...<New>
+And God's revival
+will follow..."<Close><End of Block>
 <TextBlock 82 w:24 h:2>
 Fei
 "Karellen!?"<Close><End of Block>
-<TextBlock 83 w:32 h:4>
+<TextBlock 83 w:50 h:3>
 Karellen
-"We only wait 
-for this one's 
-awakening......"<Close><End of Block>
+"We wait only for the
+awakening of this one..."<Close><End of Block>
 <TextBlock 84 w:18 h:2>
 Fei
 "Elly!!?"<Close><End of Block>
-<TextBlock 85 w:28 h:2>
+<TextBlock 85 w:26 h:2>
 Fei
-"Doc...<Close>
-Th, this...!?"<Close><End of Block>
-<TextBlock 86 w:30 h:4>
+"Doc...<Delay 20>
+Wh-What...!?"<Close><End of Block>
+<TextBlock 86 w:32 h:3>
 Fei
-"Is that even 
-living at that 
-point...!? "<Close><End of Block>
-<TextBlock 87 w:30 h:2>
+"That's not true
+belongi<-->!"<Close><End of Block>
+<TextBlock 87 w:32 h:2>
 Fei
-"Quit...<Delay 30> it..."<Close><End of Block>
-<TextBlock 88 w:46 h:3>
+"Just...<Delay 30>stop..."<Close><End of Block>
+<TextBlock 88 w:34 h:4>
 Citan
-"Now, we may take our
-time and talk...<Delay 30> Id..."<Opcode 2 60><Close><End of Block>
+"Now, we can take
+our time and have
+a talk...<Delay 30> Id..."<Opcode 2 60><Close><End of Block>
 <TextBlock 89 w:40 h:3>
 Citan
 "...There is nothing

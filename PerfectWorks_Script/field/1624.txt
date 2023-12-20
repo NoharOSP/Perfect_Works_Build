@@ -20,13 +20,14 @@ Why, a Solaris beauty,
 of course.<Close><End of Block>
 <TextBlock 6 w:52 h:3>
 As a service to citizens,
-we now are accepting data
-for the marriage service.<New>
+we are now accepting
+marriage-partner data.<New>
 The Central Control Bureau
 will pick the very best
 match for you.<New>
-Our motto is 'Good matches
-make good descendants'.<New>
+'Good matches make for
+good descendants', that's
+our motto.<New>
 We are the seed that came
 from it, so of course we
 are the best.<Close><End of Block>
@@ -66,14 +67,14 @@ Hmm, the newest model
 anti-grav car, 'Roach'.<Delay 10>
 The design needs a little
 work.<Close><End of Block>
-<TextBlock 14 w:52 h:4>
+<TextBlock 14 w:50 h:4>
 Did you hear the Emperor
 and Karellen's broadcast?<Delay 10>
 It was magnificent...<New>
-But that Ramsus is
-unforgivable.<Delay 10>
-Always at the Emperor's
-feet!<Close><End of Block>
+But those Lambs are
+unforgivable.<Delay 10> Wandering
+around at His Majesty's
+feet and what not!<Close><End of Block>
 <TextBlock 15 w:50 h:3>
 There seems to be a big
 struggle on the surface.<New>
@@ -85,8 +86,8 @@ peace.<New>
 Jumping out of a frying
 pan just might land you
 in the fire...<New>
-That stupid Ramsus hasn't
-learned that yet.<Close><End of Block>
+Those stupid Lambs
+haven't learned that yet.<Close><End of Block>
 <TextBlock 16 w:46 h:1>
 Long live the Emperor!!<Close><End of Block>
 <TextBlock 17 w:58 h:4>
@@ -186,7 +187,7 @@ Danger ahead.<Close><End of Block>
 <TextBlock 34 w:44 h:4>
 Are you ESing, too?<Delay 10>
 Huh?<Delay 10> ESing means
-Etemenanki strolling.<New>
+Etemenanki-strolling.<New>
 'Etemen Walker' is a
 must-have for ESing.
 Feel free to download
@@ -195,13 +196,13 @@ Central Control always
 has fun things.<Delay 10>
 It's their job to keep
 the citizens happy.<Close><End of Block>
-<TextBlock 35 w:31 h:3>
+<TextBlock 35 w:30 h:3>
 <]><Delay 5><]><Delay 5><]><Delay 5>ID check.
-!%#?&+!<Delay 10>
- ...Cleared.<Close><End of Block>
-<TextBlock 36 w:33 h:3>
+?#%!?<Delay 10>
+...Cleared.<Close><End of Block>
+<TextBlock 36 w:30 h:3>
 <]><Delay 5><]><Delay 5><]><Delay 5>ID check.
-!%#?&+!<Delay 10>
+?#%!?<Delay 10>
 ...Cleared.<Close><End of Block>
 <TextBlock 37 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>

@@ -1,43 +1,43 @@
 <TextBlock 1 w:38 h:2>
-Hey, could you open
-the door?<Close><End of Block>
+Hey, you! Could you
+open this door?<Close><End of Block>
 <TextBlock 2 w:36 h:3>
-What, it's easy.
+What? It's easy.
 Just press on that
 panel over there.<Close><End of Block>
 <TextBlock 3 w:54 h:2>
-Thanks...<Delay 30>
-In return I'll...<Delay 40> Eat you!!<Opcode 2 20><Close><End of Block>
+Thanks...<Delay 30> In return...<Delay 40>
+I'm gonna have to eat you!!<Opcode 2 20><Close><End of Block>
 <TextBlock 4 w:28 h:1>
-K, kill meeeee<Opcode 2 30><Close><End of Block>
-<TextBlock 5 w:42 h:3>
-Help...<Delay 20> I can't
-control...<Delay 30> Don't kill
-me...<Opcode 2 30><Close><End of Block>
-<TextBlock 6 w:38 h:4>
-We were turned into
-the Wels as an
-experimenPO... Huh?
-PAPOPREPAMO...<Opcode 2 40><Close><End of Block>
-<TextBlock 7 w:30 h:2>
-Ouch, it hurts,
-it hurts...<Opcode 2 30><Close><End of Block>
-<TextBlock 8 w:40 h:1>
-Y, you look tasty...<Opcode 2 30><Close><End of Block>
-<TextBlock 9 w:40 h:2>
-A mutant in addition
-to a Wels...<Opcode 2 30><Close><End of Block>
+K-Kill meee...<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:36 h:3>
+Help...<Delay 20> I'm not in
+control...<Delay 30> Please
+don't kill me...<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:34 h:4>
+We were turned
+into Wels as an
+experiment-<Delay 5>t-<Delay 5>t...<Delay 10>
+Huh?<Delay 10> *Gurgle*...<Opcode 2 40><Close><End of Block>
+<TextBlock 7 w:36 h:2>
+It hurts, it
+hurts, it hurts...<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:38 h:1>
+Y-You<Delay 10> look tasty...<Opcode 2 30><Close><End of Block>
+<TextBlock 9 w:34 h:2>
+First demihumans,
+and now Wels...<Opcode 2 30><Close><End of Block>
 <TextBlock 10 w:50 h:2>
-W, Wels are pretty
-good...<Delay 30> H, how 'bout you?<Opcode 2 30><Close><End of Block>
+W-Wels are pretty good...<Delay 30>
+H-How 'bout you?<Opcode 2 30><Close><End of Block>
 <TextBlock 11 w:34 h:2>
-I, I'm a human...<Delay 30>
-Used to be...<Opcode 2 30><Close><End of Block>
-<TextBlock 12 w:48 h:4>
-I, in the sewers...<Delay 30>
-You seemed to have taken
-good care of...<Delay 30> my
-brother...<Opcode 2 40><Close><End of Block>
+I-I...was once...<Delay 30>
+a h-human...<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:40 h:4>
+Y-You took good care
+of...<Delay 30>m-my buddy...<Delay 30>
+i-in the sewers...<Delay 30>
+didn't you...?<Opcode 2 40><Close><End of Block>
 <TextBlock 13 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

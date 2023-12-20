@@ -1,98 +1,100 @@
-<TextBlock 1 w:42 h:2>
+<TextBlock 1 w:28 h:3>
 Fei
-"What is this place?"<Close><End of Block>
-<TextBlock 2 w:52 h:3>
+"Huh!?<Delay 10> What is
+this place?"<Close><End of Block>
+<TextBlock 2 w:42 h:4>
 Fei
-"Why are there holograms
-of us in a Solaris place?"<Close><End of Block>
-<TextBlock 3 w:50 h:2>
+"Why are there
+holograms of us in a
+Solaris facility...?"<Close><End of Block>
+<TextBlock 3 w:48 h:2>
 Elly
-"H, holograms of us...!?"<Close><End of Block>
-<TextBlock 4 w:56 h:8>
+"H-<Delay 5>Holograms of us...!?"<Close><End of Block>
+<TextBlock 4 w:60 h:8>
 <Opcode 1 255><S> Fei
- Lambs Number 001589750
- Fei Fong Wong
- Ether Response...Infinite
- Anima Alignment...Infinite
- Comments
- Contact.
- Immediate disposal desired.<Close><End of Block>
-<TextBlock 5 w:56 h:9>
+<_> Lambs number 001589750
+<_> Fei Fong Wong
+<_> Ether response...infinite
+<_> Anima alignment...infinite
+<_> Comments:
+<_> The Contact.
+<_> Immediate disposal desired.<Close><End of Block>
+<TextBlock 5 w:58 h:9>
 <Opcode 1 255><S> Elly
- Minister Number 6920188-2
- Elehayym Van Houten
- Ether Response...Infinite
- Anima Alignment...Infinite
- Comments
- Possible Antitype.
- Approval for retrieval and
- necessary analysis granted.<Close><End of Block>
-<TextBlock 6 w:46 h:7>
+<_> Gazel number 6920188-2
+<_> Elehayym Van Houten
+<_> Ether response...infinite
+<_> Anima alignment...infinite
+<_> Comments:
+<_> Possible Antitype.
+<_> Need for retrieval and
+<_> analysis acknowledged.<Close><End of Block>
+<TextBlock 6 w:50 h:7>
 <Opcode 1 255><S> Citan
- Lambs Number 584921547
- Hyuga Rikudou
- Ether Response...240
- Anima Alignment...98
- Comments
- None.<Close><End of Block>
-<TextBlock 7 w:48 h:9>
+<_> Lambs number 584921547
+<_> Hyuga Rikudou
+<_> Ether response...240
+<_> Anima alignment...98
+<_> Comments:
+<_> None.<Close><End of Block>
+<TextBlock 7 w:52 h:9>
 <Opcode 1 255><S> Bart
- Lambs Number 221589542
- Bartholomew Fatima
- Ether Response...210
- Anima Alignment...90
- Comments
- Upon 'Dan' Anima's
- retrieval, schedule for
- Animus adjustment.<Close><End of Block>
+<_> Lambs number 221589542
+<_> Bartholomew Fatima
+<_> Ether response...210
+<_> Anima alignment...90
+<_> Comments:
+<_> Upon 'Dan' Anima's
+<_> retrieval, schedule for
+<_> adjustment as Animus.<Close><End of Block>
 <TextBlock 8 w:52 h:8>
 <Opcode 1 255><S> Billy
- Minister Number 321658-11
- Billy Black
- Ether Response...290
- Anima Alignment...92
- Comments
- Schedule for Animus
- adjustment.<Close><End of Block>
-<TextBlock 9 w:62 h:13>
+<_> Gazel number 321658-11
+<_> Billy Black
+<_> Ether response...290
+<_> Anima alignment...92
+<_> Comments:
+<_> Schedule for adjustment
+<_> as Animus.<Close><End of Block>
+<TextBlock 9 w:66 h:13>
 <Opcode 1 255><S> Rico
- Test Mixture Number 000-215914
- Ricardo Banderas
- Ether Response...160
- Anima Alignment...85
- Comments
- Created by the Church of 
- the Ethos as an a 
- experimental mixture.
- Used by the Kislev Battling
- Assoc. to measure battle
- potential. The data has
- been transferred. Schedule
- for Animus adjustment.<Close><End of Block>
-<TextBlock 10 w:58 h:7>
+<_> Test mixture number 000-215914
+<_> Ricardo Banderas
+<_> Ether response...160
+<_> Anima alignment...85
+<_> Comments:
+<_> Created by the Church as
+<_> an experimental mixture.
+<_> Used by the Kislev Battling
+<_> Committee to measure battle
+<_> potential. The data has
+<_> been transferred. Schedule
+<_> for adjustment as Animus.<Close><End of Block>
+<TextBlock 10 w:64 h:8>
 <Opcode 1 255><S> Emeralda
- Codename Emeralda
- Ether Response...N/A
- Anima Alignment...None
- Comments Nanomachine Colony.
- Data analysis complete.
- Annul and dispose.<Close><End of Block>
-<TextBlock 11 w:44 h:7>
+<_> Codename: Emeralda
+<_> Ether response...unmeasurable
+<_> Anima alignment...none
+<_> Comments:
+<_> Nanomachine colony.
+<_> Data analysis complete.
+<_> Dissolution to follow.<Close><End of Block>
+<TextBlock 11 w:50 h:7>
 <Opcode 1 255><S> <Chu-Chu>
- Primitive Animal
- Ether Response...N/A
- Anima Alignment...N/A
- Comments
- Unusable.
- Annul and dispose.<Close><End of Block>
-<TextBlock 12 w:44 h:7>
+<_> Primitive lifeform
+<_> Ether response...N/A
+<_> Anima alignment...N/A
+<_> Comments:
+<_> Unusable.
+<_> Dissolution to follow.<Close><End of Block>
+<TextBlock 12 w:48 h:7>
 <Opcode 1 255><S> Maria
- Lambs Number 54109854
- Maria Balthasar
- Ether Response...170
- Anima Alignment...74
- Comments
- Unusable.<Close><End of Block>
+<_> Lambs number 54109854
+<_> Maria Balthasar
+<_> Ether response...170
+<_> Anima alignment...74
+<_> Comments:
+<_> Unusable.<Close><End of Block>
 <TextBlock 13 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
