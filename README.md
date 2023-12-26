@@ -48,7 +48,7 @@ This step applies if multiple patches have been applied.
 
 Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a more complete experience. This does contain unmarked but mild spoilers, so readers are advised and warned not to scroll through this if they’re looking to use this mod to enjoy the game for the first time, or you simply never got to into it for various reasons we hope to address. These spoilers are primarily for certain story events in the story bits and lines are relegated to story specific changes and certain boss fights dungeons and all moves party members and availability are mentioned in the gameplay focused changes. 
 
-- Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito, character writer and handler for game balance on the Xenogears Perfect Works mod.
+~ Ryan (↙ ➡ ↘ ⬇ ↙ ⬅ ↘) Piccuito, character writer and handler for game balance on the Xenogears Perfect Works mod.
 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
