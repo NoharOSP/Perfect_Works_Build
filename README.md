@@ -531,7 +531,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - Streetwize: @StreetwizeJJ2
 
 ### Programming:
-- rufuswan
+- Rufas
 - rulv
 - Will Bill
 - Xenocritus
@@ -561,7 +561,8 @@ DM or tag here if you want immediate feedback on Twitter:
 
 ### Graphical fixes:
 - edrovinhaz
-- rufuswan
+- Rufas
+- Nohar
 
 ### FMV font
 - linnaealyn
@@ -569,7 +570,7 @@ DM or tag here if you want immediate feedback on Twitter:
 ### Tools:
 - SadNES cITy Translations
 - xdelta
-- rufuswan
+- Rufas
 
 ### Fast text code:
 - FFMaster
