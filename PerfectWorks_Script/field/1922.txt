@@ -102,7 +102,7 @@ the very meaning of
 my existence<Delay 5>...<New>
 my drive<Delay 5>...<Delay 10>
 my motivation<Delay 5>...<Delay 10>
-my subconscious<Delay 5> -Id-.<New>
+my subconscious<Delay 5> Id.<New>
 Because of that,
 I became a basic,
 blank persona.<New>
