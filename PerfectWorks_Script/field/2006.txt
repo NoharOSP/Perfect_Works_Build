@@ -93,9 +93,10 @@ been pursuing...<Delay 20>
 for these past 500 years?"<Close><End of Block>
 <TextBlock 10 w:42 h:4>
 Zephyr
-"By the way...<Delay 20>
-How is the person you
-rescued from Merkabah?<New>
+"By the way...<Delay 20><New>
+How is the person 
+you rescued from 
+Merkabah?<New>
 I heard he recovered
 consciousness..."<Close><End of Block>
 <TextBlock 11 w:40 h:3>
