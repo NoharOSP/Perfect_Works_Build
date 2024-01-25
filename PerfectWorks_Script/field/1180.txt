@@ -76,14 +76,14 @@ Close the vents!<New>
 Blow the main tank!<Delay 32>
 Prepare for anti-aircraft
 battle upon surfacing!"<Close><End of Block>
-<TextBlock 19 w:42 h:4>
+<TextBlock 19 w:46 h:4>
 Bart
 "Surface Combat!
 Stand by with the
 anti-aircraft guns!<New>
 Gunner!
 Give me the trigger
-for the Bart Bomb!"<Close><End of Block>
+for the Bart Missile!"<Close><End of Block>
 <TextBlock 20 w:44 h:4>
 Pirate
 "Awww yeah!<New>
@@ -253,9 +253,9 @@ Turrets Anton and Bertha,<Delay 16>
 twenty seconds between
 opening the hatches and
 activating azimuth controls!<Close><End of Block>
-<TextBlock 51 w:52 h:3>
+<TextBlock 51 w:50 h:3>
 Gungn<--> I mean, Bart
-Bomb, fueling!<New>
+Missile, now fueling!<New>
 Fifteen seconds between
 opening the hatch and
 engaging the illuminator!<Close><End of Block>

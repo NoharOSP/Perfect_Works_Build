@@ -25,19 +25,20 @@ through that air duct up
 there."<Close><End of Block>
 <TextBlock 7 w:50 h:4>
 Soldier
-"The attack on Av upset
-the military balance.<New>
+"Breidablik's attack on
+the Imperial Capital has
+upset the balance.<New>
 Now only army personnel
 can enter the Central
 District.<Delay 15> I'm sorry,<Delay 5> but
 you will have to leave."<Close><End of Block>
 <TextBlock 8 w:56 h:4>
 Imperial Guard
-"With the attack on Av,
-the entire area is under
-martial law.<New>
-Only army personnel may pass
-through the Central
+"Due to Av's attack on the
+Imperial Capital, the entire
+area is under martial law.<New>
+Only army personnel may
+pass through the Central
 District.<Delay 15> I'm sorry,<Delay 5>
 but you must leave."<Close><End of Block>
 <TextBlock 9 w:36 h:2>
@@ -85,19 +86,20 @@ Soldier
 "Please, come this way."<Close><End of Block>
 <TextBlock 19 w:50 h:4>
 Soldier
-"The attack on Av upset
-the military balance.<New>
+"Breidablik's attack on
+the Imperial Capital has
+upset the balance.<New>
 Now only army personnel
 can enter the Central
 District.<Delay 15> I'm sorry,<Delay 5> but
 you will have to leave."<Close><End of Block>
 <TextBlock 20 w:56 h:4>
 Imperial Guard
-"With the attack on Av,
-the entire area is under
-martial law.<New>
-Only army personnel may pass
-through the Central
+"Due to Av's attack on the
+Imperial Capital, the entire
+area is under martial law.<New>
+Only army personnel may
+pass through the Central
 District.<Delay 15> I'm sorry,<Delay 5>
 but you must leave."<Close><End of Block>
 <TextBlock 21 w:54 h:3>
@@ -106,7 +108,7 @@ Soldier
 anytime. We'll be waiting."<Close><End of Block>
 <TextBlock 22 w:48 h:2>
 Soldier
-"Oh! Fei, heading home?"<Close><End of Block>
+"Oh! Heading home, Fei?"<Close><End of Block>
 <TextBlock 23 w:46 h:3>
 Soldier
 "Stop on by anytime you

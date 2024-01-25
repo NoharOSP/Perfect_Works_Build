@@ -9,145 +9,151 @@ Elly
 Mother!"<Close><End of Block>
 <TextBlock 3 w:46 h:2>
 Elly
-"T, thank you, Hammer."<Close><End of Block>
+"Th-Thank you, Hammer."<Close><End of Block>
 <TextBlock 4 w:22 h:2>
 Elly
 "Father..."<Close><End of Block>
-<TextBlock 5 w:40 h:4>
+<TextBlock 5 w:40 h:3>
 Citan
-"Fei, let us hurry!!
-They will find us
-here easily!"<Close><End of Block>
+"Fei, let us hurry!!<New>
+In this place they
+will find us in
+no time!"<Close><End of Block>
 <TextBlock 6 w:52 h:3>
 Citan
-"Listen everyone, we have 
+"Listen, everyone, we have
 no time to waste."<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Citan
 "So that we do not stand
 out, we should split up
 into two groups.<New>
-Fei, you have done a lot,
-but I would like to have
-you move on ahead and take
-two more members with you.<New>
-Move along southwest of
-here and cross two mobile
-contact bridges.<New>
-There you will find a
-hangar that will lead to
-the outside.<New>
-We will meet at the
+Fei, you have been through
+a lot, but I would like
+you to go on ahead and
+take two of us with you.<New>
+Proceed southwest from
+here, and once you have
+crossed two moving
+connecting bridges<New>
+you will reach a hangar
+that leads to the outside.
+Let us meet around the
 footbridge near there.<New>
-If you talk to the blue
-memory cubes you will be
-able to make contact with
-the other party members.<New>
-You can thus change which
-members you wish to have
-in your current party."<Close><End of Block>
-<TextBlock 8 w:50 h:3>
+If you interact with
+the blue Memory Cubes,<New>
+you can contact the other
+party members and change
+who accompanies you."<Close><End of Block>
+<TextBlock 8 w:36 h:4>
 Citan
-"...Okay.
-Please do not overdo it."<Close><End of Block>
+"...Very well.
+Please do not put
+yourself at risk."<Close><End of Block>
 <TextBlock 9 w:34 h:3>
 Bart
 "Let's bail while
-we can!"<Close><End of Block>
+we still can!"<Close><End of Block>
 <TextBlock 10 w:44 h:4>
 Billy
 "Don't let down your
-guard until it's over.
-We must get back!!"<Close><End of Block>
-<TextBlock 11 w:54 h:4>
+guard until this is
+all over.<New>
+We must return home!!"<Close><End of Block>
+<TextBlock 11 w:48 h:4>
 Rico
-"Those morons in Solaris...
-Hope they've learned 
-their lesson."<Close><End of Block>
-<TextBlock 12 w:50 h:3>
+"Those Solaris morons...<New>
+This'll have given 'em
+a little something to
+think about."<Close><End of Block>
+<TextBlock 12 w:48 h:4>
 Rico
-"You should thank Hammer!<New>
-Hammer got your parents
-at the right time.
-Right, Hammer!?"<Close><End of Block>
-<TextBlock 13 w:36 h:4>
+"You have Hammer
+to thank for that!<New>
+This sneaky rascal used
+his ways to get your
+parents here. Ain't that
+right, Hammer!?"<Close><End of Block>
+<TextBlock 13 w:38 h:4>
 Emeralda
-"Fei's Kim,
-let's go together!
-Let's go!"<Close><End of Block>
-<TextBlock 14 w:40 h:3>
+"Fei-Kim!
+Let's go together!
+Let's go together!"<Close><End of Block>
+<TextBlock 14 w:36 h:3>
 Emeralda
-"Oh, that's Fei!!
-Fei's Kim is here!!"<Close><End of Block>
-<TextBlock 15 w:46 h:4>
+"Oh! It's Fei!!
+Fei-Kim is here!!"<Close><End of Block>
+<TextBlock 15 w:44 h:4>
 <Chu-Chu>
-"I'm not in giant form
-so it leaves something 
-chu be desired."<Close><End of Block>
+"I'm not in giant
+form <--> it's like
+something is missing."<Close><End of Block>
 <TextBlock 16 w:40 h:3>
 Erich
 "Fei, now we're the 
 same as you."<Close><End of Block>
-<TextBlock 17 w:50 h:4>
+<TextBlock 17 w:52 h:4>
 Erich
 "We'd like to thank you,
-too. I never thought I'd 
-see my daughter again...<New>
+too. We thought we'd never
+see our daughter again...<New>
 Thank you, Hammer."<Close><End of Block>
-<TextBlock 18 w:48 h:4>
+<TextBlock 18 w:44 h:4>
 Erich
-"I'll go to the hangar
-beforehand, and arrange
-a ride for us.<New>
-Solaris is in confusion
-now, so if I go alone I 
-can pull some strings."<Close><End of Block>
+"I'll go ahead to the
+hangar and arrange a
+ride for us.<New>
+Solaris is in chaos
+right now, so if I go
+alone I might be able
+to pull some strings."<Close><End of Block>
 <TextBlock 19 w:30 h:2>
 Erich
 "Yeah, I know."<Close><End of Block>
-<TextBlock 20 w:32 h:3>
+<TextBlock 20 w:38 h:3>
 Erich
 "Elly, Medena...
-See you again."<Close><End of Block>
-<TextBlock 21 w:42 h:4>
+I'll see you soon."<Close><End of Block>
+<TextBlock 21 w:36 h:4>
 Medena
-"Fei,
-now we're in the same
-boat as you."<Close><End of Block>
+"Fei, we're in the
+same boat as you
+now, eh?"<Close><End of Block>
 <TextBlock 22 w:16 h:2>
 Medena
 "Elly!!"<Close><End of Block>
 <TextBlock 23 w:42 h:3>
 Medena
-"Dear...
+"My dear...
 Please be careful..."<Close><End of Block>
 <TextBlock 24 w:50 h:3>
 Hammer
-"H, h, hurry, run away...
+"R-R-Run away, quickly...
 Yeah, run away.<New>
-Yeah, that's right!"<Close><End of Block>
-<TextBlock 25 w:46 h:4>
-Better make proper
+Oh, that's right!"<Close><End of Block>
+<TextBlock 25 w:48 h:4>
+Hammer
+"Better make proper
 preparations before
-you flee, so...<New>
+you escape, so...<New>
 Consider this Hammer's
-last closing down sale!
+last closing-down sale!"
      <Opcode 1 255>Items!
      Accessories!<Close><End of Block>
-<TextBlock 26 w:34 h:3>
+<TextBlock 26 w:36 h:3>
 Hammer
-"Y, yes...<Delay 32>
-Yes...exactly..."<Close><End of Block>
-<TextBlock 27 w:54 h:3>
+"Huh?<Delay 32> Yeah...
+Yeah...exactly..."<Close><End of Block>
+<TextBlock 27 w:52 h:3>
 Jessie
-"This country wasn't like 
-this long ago...I think...<New>
-Well, maybe I was just too 
-young."<Close><End of Block>
+"I feel like this country
+wasn't always like this...<New>
+Well, maybe I was just too
+young..."<Close><End of Block>
 <TextBlock 28 w:50 h:4>
 Jessie
-"I shut down alarms here
-and there when I was 
-breaking gates.<New>
-But it's still dangerous.
+"We silenced the alarms
+here and there when we
+destroyed the Gate,<New>
+but it's still dangerous.
 Be careful!"<Close><Close><End of Block>

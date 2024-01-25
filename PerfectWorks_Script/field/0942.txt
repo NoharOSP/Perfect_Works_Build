@@ -133,14 +133,14 @@ Strachey
 "What kind of machine is
 this? I've never seen it
 before."<Close><End of Block>
-<TextBlock 31 w:54 h:4>
+<TextBlock 31 w:50 h:4>
 Rank
 "It's a new model Gear,
 called '<Vierge>', for
 officers' use only.<New>
 Apparently, what that
 really means is average
-Ether ability isn't enough
+mental power isn't enough
 to even get it running."<Close><End of Block>
 <TextBlock 32 w:44 h:4>
 Strachey

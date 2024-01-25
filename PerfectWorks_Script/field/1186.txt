@@ -178,8 +178,8 @@ Sigurd
 Sigurd
 "It seems Fei isn't
 in the infirmary...<New>
-But he must be
-onboard somewhere..."<Close><End of Block>
+But he must be on
+board somewhere..."<Close><End of Block>
 <TextBlock 26 w:36 h:3>
 Sigurd
 "Let's head to the
@@ -206,8 +206,8 @@ Sigurd
 Billy is waiting
 in the gun room."<Close><End of Block>
 <TextBlock 31 w:50 h:2>
-(U...ugh...<Delay 10>
-Feels like a hangover...)<Close><End of Block>
+(H-Hmm...<Delay 10>
+Looks like a hangover...)<Close><End of Block>
 <TextBlock 32 w:34 h:3>
 Sigurd
 "Billy is waiting
@@ -512,7 +512,7 @@ This is difficult...<Close><End of Block>
 Exchange all the torpedo
 tubes to missile launchers.
 We can shoot Gungn<--> I mean,
-Bart Bombs, too!<Close><End of Block>
+Bart Missiles, too!<Close><End of Block>
 <TextBlock 77 w:40 h:2>
 By the way, how do
 you shoot downwards?<Close><End of Block>
@@ -967,15 +967,15 @@ Actually our Yggdrasil II
 did a good job shooting
 down that monster of an
 airplane!!<Delay 5> It was great!"<Close><End of Block>
-<TextBlock 160 w:46 h:3>
+<TextBlock 160 w:44 h:3>
 You should've seen it!<Delay 10>
-Wow!<Delay 10> My Bart Bombs sure
-were awesome...!!<Close><End of Block>
-<TextBlock 161 w:32 h:4>
+Wow!<Delay 10> My Bart Missile
+sure was awesome...!!<Close><End of Block>
+<TextBlock 161 w:30 h:4>
 Rico
-"AAAARRRGGHHH!!<Delay 10>
-I won't forgive
-you so easily!!"<Opcode 2 60><Close><End of Block>
+"RRRAAAAGGHHH!!<Delay 10>
+You'll pay for
+that!!"<Opcode 2 60><Close><End of Block>
 <TextBlock 162 w:46 h:4>
 Sigurd
 "Fei, the young master

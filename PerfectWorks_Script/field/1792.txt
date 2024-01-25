@@ -1,103 +1,111 @@
-<TextBlock 1 w:48 h:4>
+<TextBlock 1 w:40 h:4>
 Jessie
-"What took you so long!?
-I've only got so many
-bullets!<New>
-Hurry up and
-blow them away!"<Close><End of Block>
+"What took you so
+long!?<Delay 5> I've only got
+so many bullets.<New>
+Hurry up and bomb
+this thing!"<Close><End of Block>
 <TextBlock 2 w:34 h:4>
 Jessie
 "...<Delay 32>
-What the hell are
-you doing?"<Close><End of Block>
-<TextBlock 3 w:50 h:3>
+So, what the hell
+were you doing?"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
 Jessie
-"You mean the Emperor...?
-Are you sure, Hyuga...?<Close><End of Block>
+"To the Emperor, huh...?
+You sure about all this,
+Hyuga...?"<Close><End of Block>
 <TextBlock 4 w:36 h:4>
 Jessie
 "...Yeessss!
 We're outta here!!<Delay 35>
 ...Huh!?"<Close><End of Block>
-<TextBlock 5 w:44 h:4>
+<TextBlock 5 w:52 h:4>
 Jessie
-"Carl, you're an enemy
-but why are you so 
-attached to one kid!?<New>
-You weren't like that 
-before!"<Close><End of Block>
+"Carl, you may be enemies,
+but why're you this
+obsessed with one kid!?<New>
+The old you wasn't
+like this!"<Close><End of Block>
 <TextBlock 6 w:52 h:3>
 Jessie
-"Hey, we're going!<New>
-I don't know what went on,
-but I don't have time to 
-deal with him now!"<Close><End of Block>
+"H-Hey. Let's move!<New>
+I don't know what that was
+all about, but we don't
+have time to stand around
+listening to him!"<Close><End of Block>
 <TextBlock 7 w:18 h:2>
 Jessie
 "Hyuga!!"<Close><End of Block>
-<TextBlock 8 w:40 h:4>
+<TextBlock 8 w:30 h:4>
 Citan
-"I am sorry.
-I have other matters
-to attend to."<Close><End of Block>
-<TextBlock 9 w:42 h:2>
+"My apologies.
+I had a small
+errand to run."<Close><End of Block>
+<TextBlock 9 w:30 h:3>
 Citan
-"To His Majesty's..."<Close><End of Block>
-<TextBlock 10 w:52 h:3>
+"I went to
+His Majesty..."<Close><End of Block>
+<TextBlock 10 w:34 h:3>
 Citan
 "Yes. His Majesty
-understands the situation.<New>
-...He says to leave it up
+has understood.<New>
+...From now on,
+we leave it up
 to 'them'..."<Close><End of Block>
-<TextBlock 11 w:40 h:3>
+<TextBlock 11 w:30 h:3>
 Citan
-"There! It is done!!
-Sir!!"<Close><End of Block>
+"There! It is
+done, Jesiah!!"<Close><End of Block>
 <TextBlock 12 w:26 h:2>
 Citan
 "...Carl...?"<Close><End of Block>
-<TextBlock 13 w:42 h:4>
+<TextBlock 13 w:44 h:4>
 Citan
-"Carl, we are just in
-different situations.<New>
-I did not mean to
-betray you.
-I decided to stick
-with Fei's group."<Close><End of Block>
-<TextBlock 14 w:24 h:2>
+"Carl, we just have
+different standpoints,
+you and I.<New>
+It is not that I
+have betrayed you.<New>
+I will stay with Fei
+and the others...
+That is what I have
+decided."<Close><End of Block>
+<TextBlock 14 w:22 h:2>
 Citan
-"C, Carl..."<Close><End of Block>
-<TextBlock 15 w:16 h:2>
+"C-<Delay 5>Carl..."<Close><End of Block>
+<TextBlock 15 w:14 h:2>
 Citan
-"But..."<Close><End of Block>
-<TextBlock 16 w:26 h:2>
+"But<-->"<Close><End of Block>
+<TextBlock 16 w:36 h:2>
 Citan
-"...<Delay 45>I see..."<Close><End of Block>
+"...<Delay 45>Understood..."<Close><End of Block>
 <TextBlock 17 w:32 h:3>
 Ramsus
-"Where is he...?
+"Where is he...?<Delay 10>
 Hyuga..."<Close><End of Block>
-<TextBlock 18 w:32 h:4>
+<TextBlock 18 w:32 h:3>
 Ramsus
-"So...you too<Delay 32>...
-you are also
-betraying me."<Close><End of Block>
-<TextBlock 19 w:50 h:3>
+"You, too...<Delay 32>
+Betraying me..."<Close><End of Block>
+<TextBlock 19 w:40 h:3>
 Ramsus
-"Did you say 'Fei'!?<New>
-You too...are on his
-side...I'll never forgive
-you! NEVER!"<Close><End of Block>
+"Fei!?<Delay 10>
+Y-<Delay 5>You<Delay 5> and Fei!?<New>
+He... Both of you...
+will pay for this!
+You'll pay!"<Close><End of Block>
 <TextBlock 20 w:48 h:4>
 Ramsus
-"Shut up!
-I've got to get him with
-my own hands...<New>
-And all of you working
-with him are my enemies!<New>
-Enemies stealing 'my 
-things'! Enemies!
-Enemies, Enemies!!"<Close><End of Block>
-<TextBlock 21 w:34 h:2>
+"Silence!
+Just him...
+If I could only...<New>
+...All of you working
+with him are my enemies!
+Enemies stealing 'what
+is mine'!<New>
+Enemies!! Enemies!!
+Enemies!!"<Close><End of Block>
+<TextBlock 21 w:32 h:2>
 Ramsus
-"You, traitors!!"<Close><Close><End of Block>
+"You traitors!!"<Close><Close><End of Block>

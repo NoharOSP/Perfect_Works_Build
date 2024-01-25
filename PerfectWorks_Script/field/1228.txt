@@ -90,22 +90,21 @@ Their captain can help us."<Close><End of Block>
 Rico
 "That's<Delay 10>...<Delay 10>...<Delay 10>
 the Tamuz...?"<Close><End of Block>
-<TextBlock 18 w:28 h:2>
+<TextBlock 18 w:26 h:2>
 Dominia
 "Just you..."<Close><End of Block>
-<TextBlock 19 w:26 h:2>
+<TextBlock 19 w:22 h:2>
 Dominia
 "I must..."<Close><End of Block>
-<TextBlock 20 w:24 h:3>
+<TextBlock 20 w:32 h:2>
 Dominia
-"This..."<Close><End of Block>
-<TextBlock 21 w:22 h:3>
+"...get even..."<Close><End of Block>
+<TextBlock 21 w:16 h:2>
 Dominia
-"I'll never
-forgive..."<Close><End of Block>
-<TextBlock 22 w:22 h:2>
+"You..."<Close><End of Block>
+<TextBlock 22 w:28 h:2>
 Dominia
-"TRAITOR!!"<Close><End of Block>
+"...TRAITOR!!"<Close><End of Block>
 <TextBlock 23 w:24 h:2>
 Bart
 "Incoming!"<Close><End of Block>

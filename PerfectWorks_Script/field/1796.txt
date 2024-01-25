@@ -3,17 +3,16 @@ Fei
 "Elly!!<Delay 45>
 ...<Delay 32>...
 You okay?"<Close><End of Block>
-<TextBlock 2 w:48 h:3>
+<TextBlock 2 w:30 h:4>
 Elly
 "Fei...
-...Yes...<Delay 23>yes, I'm fine."<Close><End of Block>
-<TextBlock 3 w:46 h:3>
+...Yes...<Delay 23>
+Yes, I'm fine."<Close><End of Block>
+<TextBlock 3 w:50 h:4>
 Bart
-"Sorry to interrupt you
-two,<New>
-but this is not the
-time for a heartfelt
-reunion."<Close><End of Block>
+"Sorry, you two, but
+there's not really time
+for a heartfelt reunion."<Close><End of Block>
 <TextBlock 4 w:40 h:2>
 Billy
 "Quickly, this way."<Close><Close><End of Block>

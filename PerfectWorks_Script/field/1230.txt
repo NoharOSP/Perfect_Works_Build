@@ -3,9 +3,8 @@ Big Joe
 "I lose. 
 Here's your present.
 A~~nd adios."<Close><End of Block>
-<TextBlock 2 w:46 h:2>
- 
- Received LongDarkCoat.<Close><End of Block>
+<TextBlock 2 w:44 h:1>
+Received LongDarkCoat.<Close><End of Block>
 <TextBlock 3 w:38 h:4>
 Big Joe
 "Ha, how easy it is
@@ -41,7 +40,7 @@ as bad.<New>
 We hadn't seen each other
 in ages, and the first
 thing we do is..."<Close><End of Block>
-<TextBlock 11 w:50 h:4>
+<TextBlock 11 w:48 h:4>
 Bart
 "Heh,<Delay 5> yeah...<New>
 The Yggdrasil II was put
@@ -53,12 +52,12 @@ was my fault that prep
 of the depth charges
 got delayed,<New>
 because I prioritized
-equipping the Bart Bombs
-over...<Delay 10>
+equipping the Bart
+Missiles over...<Delay 10>
 ...everything else."<Close><End of Block>
-<TextBlock 12 w:28 h:2>
+<TextBlock 12 w:32 h:2>
 Fei
-"Bart Bombs?"<Close><End of Block>
+"Bart<Delay 10> Missiles?"<Close><End of Block>
 <TextBlock 13 w:36 h:4>
 Bart
 "Oh, uh...

@@ -142,7 +142,8 @@ Oh, Bart!
 Thank you for letting me
 ride on your Yggdrasil!<New>
 I've always wanted to ride
-it... It's OK. The children
+it...<New>
+It's okay, the children
 are safe in Nisan's care!<Close><End of Block>
 <TextBlock 28 w:48 h:3>
 I heard there was a
