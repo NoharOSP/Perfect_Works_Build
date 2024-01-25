@@ -65,7 +65,7 @@ talking about Fei?"<Close><End of Block>
 <TextBlock 16 w:50 h:3>
 Elly
 "R-<Delay 5>Ramsus...<Delay 20> That pill...<Delay 30>
-An Ether stabilizer...?<New>
+A mental stabilizer...?<New>
 How has it come to that?<New>
 What happened between
 you and Fei...?"<Close><End of Block>
@@ -85,7 +85,7 @@ one year ago...<New>
 Case 102, a release
 of intrinsic powers<New>
 due to administration of
-overprescribed Ether-
+overprescribed mental-
 enhancement narcotics.<New>
 Ether-response value
 exceeded 400 at that time.<New>
@@ -99,7 +99,7 @@ Karellen
 "But this record is wrong.<New>
 This wasn't just some wild
 burst of power on account
-of Ether-enhancing drugs."<Close><End of Block>
+of mind-enhancing drugs."<Close><End of Block>
 <TextBlock 21 w:50 h:3>
 Karellen
 "This was caused by...<New>
@@ -138,10 +138,9 @@ inhumane deeds,<New>
 manipulating organic
 lifeforms and obtaining
 results by mere chance.<New>
-That is not my
-jurisdiction.<New>
-I specialize in
-molecular engineering...
+That is not my domain.<Delay 10>
+I specialize in molecular
+engineering...<Delay 10>
 Nanotechnology."<Close><End of Block>
 <TextBlock 24 w:52 h:4>
 Karellen

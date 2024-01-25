@@ -210,9 +210,9 @@ who helped us activate
 the Mass Driver.<Delay 45>
  
 We succeeded in launching
-the capsule containing the
-nanomachines which would
-release the seal Limiter.<Close><End of Block>
+the capsule containing
+the Limiter-reversing
+nanomachines.<Close><End of Block>
 <TextBlock 19 w:56 h:10>
 The nanomachines that were
 scattered into the upper

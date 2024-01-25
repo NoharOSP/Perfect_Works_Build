@@ -1,7 +1,7 @@
 <TextBlock 1 w:28 h:1>
 Hee hee hee...<Opcode 2 45><Close><End of Block>
-<TextBlock 2 w:44 h:1>
-...Just keep sleeping.<Opcode 2 45><Close><End of Block>
+<TextBlock 2 w:48 h:1>
+...You just go to sleep.<Opcode 2 45><Close><End of Block>
 <TextBlock 3 w:28 h:1>
 Hee hee hee...<Opcode 2 45><Close><End of Block>
 <TextBlock 4 w:28 h:2>

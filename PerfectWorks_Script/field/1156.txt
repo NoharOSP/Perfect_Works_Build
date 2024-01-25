@@ -17,8 +17,8 @@ been destroyed!!<New>
 We can't stop the sand
 from flowing in!<Close><End of Block>
 <TextBlock 4 w:46 h:3>
-Sir!!<Delay 45>
-The Gear's moving by
+Sigurd, sir!!<Delay 45>
+A Gear's m-moving by
 itself in the hangar...<Close><End of Block>
 <TextBlock 5 w:56 h:5>
 Main engine, support engine,
@@ -73,10 +73,10 @@ pay 'em back for me."<Close><End of Block>
 Sigurd
 "Maison...
 Please show him the way."<Close><End of Block>
-<TextBlock 14 w:28 h:3>
+<TextBlock 14 w:26 h:3>
 Sigurd
 "What?
-More details!"<Close><End of Block>
+Full report!"<Close><End of Block>
 <TextBlock 15 w:38 h:3>
 Citan
 "I cannot leave you
@@ -165,7 +165,7 @@ all like this...!"<Close><End of Block>
 <TextBlock 25 w:54 h:4>
 <Opcode 1 255><Extra1 37><Extra1 10><Extra1 30><Extra1 17><Extra1 56><Extra1 23><Extra1 60><Opcode 10 2><UNKNOWN CHUNK 178><UNKNOWN CHUNK 191><?>
 <Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 152><UNKNOWN CHUNK 229>
-<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 148><`><UNKNOWN CHUNK 208><UNKNOWN CHUNK 179><UNKNOWN CHUNK 158><UNKNOWN CHUNK 154><UNKNOWN CHUNK 179><UNKNOWN CHUNK 213><UNKNOWN CHUNK 181><UNKNOWN CHUNK 177>
+<Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 148><'><UNKNOWN CHUNK 208><UNKNOWN CHUNK 179><UNKNOWN CHUNK 158><UNKNOWN CHUNK 154><UNKNOWN CHUNK 179><UNKNOWN CHUNK 213><UNKNOWN CHUNK 181><UNKNOWN CHUNK 177>
 <Extra2 255><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 214><UNKNOWN CHUNK 181><UNKNOWN CHUNK 195><UNKNOWN CHUNK 220><UNKNOWN CHUNK 214><UNKNOWN CHUNK 211><UNKNOWN CHUNK 218><UNKNOWN CHUNK 152><UNKNOWN CHUNK 157><UNKNOWN CHUNK 188><Close><End of Block>
 <TextBlock 26 w:39 h:8>
 <Opcode 1 255><Extra1 37><Extra1 10><Extra1 30><Extra1 24><Extra1 48><Extra1 40><Extra1 60><Extra1 6><Extra2 255><Extra2 255><UNKNOWN CHUNK 193>(0)

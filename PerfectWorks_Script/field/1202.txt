@@ -17,10 +17,11 @@ let him die like this!"<Close><End of Block>
 Rico
 "Do what you need to do.<Delay 10>
 It's none of my business."<Close><End of Block>
-<TextBlock 5 w:40 h:3>
+<TextBlock 5 w:38 h:4>
 Rico
-"That girl<Delay 5> had the
-eyes of a prisoner."<Close><End of Block>
+"That girl<Delay 5> had kind
+of a prisoner-like
+look in her eyes."<Close><End of Block>
 <TextBlock 6 w:40 h:4>
 Rico
 "Don't get me wrong.<Delay 10>
@@ -69,7 +70,7 @@ Hammer
 "Where is this place?<Delay 10>
 Never heard of the
 'Tamuz' before."<Close><End of Block>
-<TextBlock 16 w:50 h:4>
+<TextBlock 16 w:52 h:4>
 Hammer
 "So you're Bart, the
 'pirate', huh...<New>
@@ -79,7 +80,7 @@ you...<Delay 10> Shakhan still
 controls Av...<New>
 He's planning military
 intervention in Nisan.<Delay 10>
-But for some reason,
+But for some reason
 Geburah is stopping him...<New>
 ...Oh,<Delay 5> so you already
 knew that?"<Close><End of Block>

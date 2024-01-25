@@ -8,7 +8,7 @@ Fei
 talking about!?"<Close><End of Block>
 <TextBlock 3 w:30 h:2>
 Fei
-"Uuaaaaahhhhh!"<Opcode 2 30><Close><End of Block>
+"Aaaagghh!"<Opcode 2 30><Close><End of Block>
 <TextBlock 4 w:14 h:2>
 Elly
 "Fei!!"<Opcode 2 30><Close><End of Block>
@@ -60,7 +60,7 @@ Who the...!?"<Close><End of Block>
 <TextBlock 14 w:24 h:3>
 Ramsus
 "!!
-Uuuooohhhh!"<Close><End of Block>
+Gaaahhhh!"<Close><End of Block>
 <TextBlock 15 w:34 h:4>
 Ramsus
 "Tch!

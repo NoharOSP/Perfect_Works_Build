@@ -243,13 +243,13 @@ Fei
 What's up?"<Close><End of Block>
 <TextBlock 35 w:54 h:4>
 Elly
-"Hmmm. Nothing. It just
+"Hmm. Nothing. It just
 felt as though I'd told you
 the same thing long ago...<New>
 It must be my imagination.
-I couldn't have said it to
-you before, because we've
-only just met, haven't we?"<Close><End of Block>
+It couldn't have been you
+I said it to <--> we only
+met a little while ago."<Close><End of Block>
 <TextBlock 36 w:46 h:3>
 Elly
 "Yes, it's probably

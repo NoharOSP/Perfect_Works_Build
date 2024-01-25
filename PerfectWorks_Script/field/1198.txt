@@ -335,13 +335,12 @@ Elly
 "I'm so scared...<Delay 20>
 That's why...<Delay 10> I'll
 never want to do it!!"<Close><End of Block>
-<TextBlock 44 w:44 h:2>
+<TextBlock 44 w:44 h:3>
 Citan
-"This is a problem...
-...alright,<New> 
-why don't you ride
-in Weltall with Fei,
-then?"<Close><End of Block>
+"This is a problem...<New>
+Alright, why don't
+you ride in <Weltall>
+with Fei, then?"<Close><End of Block>
 <TextBlock 45 w:28 h:2>
 How about if I
 ride with you?<Close><End of Block>

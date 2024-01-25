@@ -4,11 +4,11 @@
 Ouch<Delay 5>...<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Bart
-"I guess the Bart Bombs
-weren't such a good idea,
+"I guess the Bart Missile
+wasn't such a good idea,
 huh...?<New>
-We were able to save you
-and your friends, Citan<Delay 5>...<Delay 10>
+We were able to save Citan
+and those other guys<Delay 5>...<Delay 10>
 But I wonder what happened
 to Fei and Elly<Delay 5>..."<Close><End of Block>
 <TextBlock 4 w:50 h:4>

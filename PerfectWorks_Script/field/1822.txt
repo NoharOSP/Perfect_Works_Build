@@ -1,90 +1,91 @@
-<TextBlock 1 w:34 h:2>
+<TextBlock 1 w:40 h:2>
 Fei
-"...Stop! Stop!!"<Close><End of Block>
-<TextBlock 2 w:52 h:2>
+"...Stop! Stop it!!"<Close><End of Block>
+<TextBlock 2 w:34 h:2>
 Fei
-"Wa-a-a-a-a-a-a-a-a-a-a!!"<Close><End of Block>
-<TextBlock 3 w:44 h:3>
+"Wraaaaaaaagh!!!"<Close><End of Block>
+<TextBlock 3 w:36 h:3>
 Executioner
-"Yes, it's clear.<New>
-It's nothing like the
-half-assed stuff we've
-dealt with before."<Close><End of Block>
-<TextBlock 4 w:40 h:4>
+"Yes.
+And quite clearly.<New>
+No half measures
+like before."<Close><End of Block>
+<TextBlock 4 w:44 h:4>
 Myyah
 "I don't think he'll
 get off the stage
 easily this time.<New>
 Fei's mental energy
-seems to have been
-weakened and...<New>
-it's similar to 
-'the old days'
-now..."<Close><End of Block>
-<TextBlock 5 w:22 h:2>
+seems to have become
+weaker, so...<New>
+he's looking more like
+'his old self'..."<Close><End of Block>
+<TextBlock 5 w:32 h:2>
 Myyah
-"Ha, ha..."<Close><End of Block>
-<TextBlock 6 w:46 h:3>
+"Heh heh heh..."<Close><End of Block>
+<TextBlock 6 w:40 h:4>
 Myyah
-"His feelings haven't
-changed over the years.<New>
-Maybe you have mixed
-feelings?"<Close><End of Block>
-<TextBlock 7 w:46 h:4>
+"Though time passes,
+the feelings we have
+don't change.<New>
+Even you must have
+mixed feelings?"<Close><End of Block>
+<TextBlock 7 w:44 h:3>
 Myyah
-"You want him to bring
-her back? Too late.
-Carl has left already."<Close><End of Block>
+"You would have him
+bring her back?<New>
+It's a little late.
+Carl already set out."<Close><End of Block>
 <TextBlock 8 w:14 h:2>
 Myyah
 "What?"<Close><End of Block>
-<TextBlock 9 w:52 h:4>
+<TextBlock 9 w:54 h:4>
 Myyah
-"Wasn't that your 
-objective? Though it 
-seemed I have had a 
-hand in persuading 
-you...<New>
-But, we're almost there.
-Our only actual example
-of success. Let's take
-good care of him."<Close><End of Block>
-<TextBlock 10 w:44 h:4>
+"That was the plan, wasn't
+it? Though it was me who
+put you up to it...<New>
+Nevertheless, almost there.
+Our one success story.
+Let's treasure it."<Close><End of Block>
+<TextBlock 10 w:34 h:3>
 Myyah
-"I agree. We should do
-Carl a favor and save
-him... shouldn't we?"<Close><End of Block>
-<TextBlock 11 w:34 h:2>
+"Indeed.<New>
+We must give Carl
+'a little help',
+too...no?"<Close><End of Block>
+<TextBlock 11 w:30 h:3>
 Karellen
-"There he was..."<Close><End of Block>
+"So he made his
+appearance..."<Close><End of Block>
 <TextBlock 12 w:40 h:2>
 Karellen
 "What's so amusing?"<Close><End of Block>
-<TextBlock 13 w:46 h:2>
+<TextBlock 13 w:42 h:2>
 Karellen
-"Hmph, <Delay 32>don't be stupid.<New>
-By the way...
-what about Ramsus?"<Close><End of Block>
-<TextBlock 14 w:52 h:4>
+"Hmph,<Delay 32> that's absurd.<New>
+By the way, what
+happened to Ramsus?"<Close><End of Block>
+<TextBlock 14 w:50 h:4>
 Karellen
-"I would say it's a 
-waste of time, but 
-it's fine, I guess.<New>
-On top of that, 
-it became more
-controlled.<New>
-Nevertheless..."<Close><End of Block>
-<TextBlock 15 w:50 h:4>
+"I want to say he's more
+hassle than he's worth...<Delay 10>
+but I suppose it's fine.<New>
+If you think this way
+we can be certain of
+more control...<New>
+But still..."<Close><End of Block>
+<TextBlock 15 w:42 h:4>
 Karellen
-"A losing battle... how 
-can you even think of 
-continuing with it..."<Close><End of Block>
-<TextBlock 16 w:50 h:3>
+"How can he just keep
+on fighting a battle
+he won't win...?"<Close><End of Block>
+<TextBlock 16 w:42 h:4>
 Karellen
-"What her true intentions
-are...I don't even know."<Close><End of Block>
-<TextBlock 17 w:30 h:4>
+"You're a woman whose
+true intentions I
+cannot fathom."<Close><End of Block>
+<TextBlock 17 w:38 h:4>
 Karellen
-"We're going.
-This place will
-soon be gone."<Close><Close><End of Block>
+"Let's go.
+This place is about
+to fall apart."<Close><Close><End of Block>

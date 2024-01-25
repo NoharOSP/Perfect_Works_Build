@@ -143,7 +143,7 @@ Citan
 I will be there shortly."<Close><End of Block>
 <TextBlock 30 w:44 h:3>
 Hey, you in the white
-with the sun tan.<Delay 10>
+with the suntan.<Delay 10>
 Is that you, Sigurd!?<Close><End of Block>
 <TextBlock 31 w:52 h:4>
 Sigurd
@@ -165,9 +165,9 @@ be able to tell at
 first glance, Sigurd,<New>
 but this man was at one
 time our mentor..."<Close><End of Block>
-<TextBlock 34 w:20 h:3>
+<TextBlock 34 w:22 h:3>
 Sigurd
-"M-Mentor?<Delay 10>
+"M-Mentor!?<Delay 10>
 Jessie!?"<Close><End of Block>
 <TextBlock 35 w:22 h:2>
 Billy
@@ -203,11 +203,11 @@ over some drinks.<New>
 Still<Delay 5>...<Delay 5>gotta wonder why
 we're together like this
 after so long."<Close><End of Block>
-<TextBlock 42 w:54 h:4>
+<TextBlock 42 w:52 h:4>
 Billy
 "Siggy,
 it's been a long time...<Delay 20>
-What's with the eye patch?"<Close><End of Block>
+What's with the eyepatch?"<Close><End of Block>
 <TextBlock 43 w:50 h:3>
 Sigurd
 "Billy...<Delay 20>
