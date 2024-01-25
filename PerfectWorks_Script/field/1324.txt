@@ -329,7 +329,7 @@ number of test digs and
 obtained a vast quantity of
 resources from the ruins.<New>
 Biological weapons<Delay 5>...<Delay 5>
-reactive weapons<Delay 5>...<Delay 5>
+nuclear weapons<Delay 5>...<Delay 5>
 Hmm<Delay 5>...<Delay 5>I see, so this must
 be their intention<Delay 5>...<New>
 My assessment of the
@@ -923,7 +923,7 @@ number of test digs and
 obtained a vast quantity of
 resources from the ruins.<New>
 Biological weapons<Delay 5>...<Delay 5>
-reactive weapons<Delay 5>...<Delay 5>
+nuclear weapons<Delay 5>...<Delay 5>
 Hmm<Delay 5>...<Delay 5>I see, so this must
 be their intention<Delay 5>...<New>
 My assessment of the

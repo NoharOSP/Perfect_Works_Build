@@ -1,7 +1,8 @@
-<TextBlock 1 w:48 h:3>
+<TextBlock 1 w:44 h:4>
 Fei
-"Don't be silly!
-What happened? Hammer!?"<Close><End of Block>
+"Stop this nonsense!
+What's this all about,
+Hammer!?"<Close><End of Block>
 <TextBlock 2 w:54 h:3>
 Fei
 "Grahf!
@@ -11,19 +12,19 @@ Fei
 "...Everybody, get ready!"<Close><End of Block>
 <TextBlock 4 w:24 h:4>
 Fei
-"Ggh...!
+"Ungh...!
 Elly...
-everyone..."<Close><End of Block>
-<TextBlock 5 w:50 h:2>
+Everyone..."<Close><End of Block>
+<TextBlock 5 w:30 h:2>
 Fei
-"Wa-a-a-a-a-a-a-a-a-!!!!"<Close><End of Block>
-<TextBlock 6 w:48 h:3>
+"Waaaaaagh!!!!"<Close><End of Block>
+<TextBlock 6 w:46 h:3>
 Elly
-"W...what are you doing?
+"Wh-What are you doing?
 Hammer?"<Close><End of Block>
-<TextBlock 7 w:30 h:2>
+<TextBlock 7 w:26 h:2>
 Elly
-"M...mother..."<Close><End of Block>
+"M-<Delay 5>Mother..."<Close><End of Block>
 <TextBlock 8 w:12 h:2>
 Elly
 "Fei!"<Close><End of Block>
@@ -33,41 +34,41 @@ Elly
 <TextBlock 10 w:18 h:2>
 Elly
 "Mother?"<Close><End of Block>
-<TextBlock 11 w:38 h:3>
+<TextBlock 11 w:26 h:3>
 Elly
 "...Mother...<Delay 50>
-...mo...th...er..."<Close><End of Block>
+Mo...ther..."<Close><End of Block>
 <TextBlock 12 w:28 h:2>
 Elly
-"M...mother...<Opcode 2 50><Close><End of Block>
+"MOTHE~~R!!"<Opcode 2 50><Close><End of Block>
 <TextBlock 13 w:18 h:2>
 Elly
 "Father!"<Close><End of Block>
-<TextBlock 14 w:20 h:2>
+<TextBlock 14 w:22 h:2>
 Elly
-"Father!!"<Close><End of Block>
+"Father!!!"<Close><End of Block>
 <TextBlock 15 w:48 h:4>
 Elly
 "...<Delay 24>...<Delay 24>...<Delay 24>
 How could you do that...
 ...to my father!"<Close><End of Block>
-<TextBlock 16 w:38 h:2>
+<TextBlock 16 w:24 h:2>
 Elly
-"Ah-h-h-h-h-h-h-!!"<Opcode 2 24><Close><End of Block>
+"Aghhhhhh!!"<Opcode 2 24><Close><End of Block>
 <TextBlock 17 w:18 h:2>
 Elly
 "Father!"<Close><End of Block>
 <TextBlock 18 w:22 h:2>
 Elly
 "Father!!!"<Close><End of Block>
-<TextBlock 19 w:48 h:4>
+<TextBlock 19 w:36 h:4>
 Elly
 "...<Delay 24>...<Delay 24>...<Delay 24>
-How could you do that...
-...to my father!"<Close><End of Block>
-<TextBlock 20 w:38 h:2>
+H-How could you...
+do that to him!?"<Close><End of Block>
+<TextBlock 20 w:24 h:2>
 Elly
-"Ah-h-h-h-h-h-h-!!"<Opcode 2 24><Close><End of Block>
+"Aghhhhhh!!"<Opcode 2 24><Close><End of Block>
 <TextBlock 21 w:44 h:2>
 Rico
 "Hammer!! Damn you!!!"<Close><End of Block>
@@ -77,123 +78,131 @@ Rico
 <TextBlock 23 w:14 h:2>
 Rico
 "Gha!!"<Opcode 2 24><Close><End of Block>
-<TextBlock 24 w:54 h:4>
+<TextBlock 24 w:40 h:4>
 Medena
-"I won't stop.
-Ever.
-...My child is in danger...<New>
-and I'm her mother!!"<Close><End of Block>
+"No. I won't stop.
+...Because our child
+is in danger...<New>
+and I'm a perfectly
+'ordinary' mother!!"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Medena
-"I was born and raised in
-a normal family.<New>
+"I was born and raised
+in an ordinary family.<New>
 I'm not a soldier like my
-husband and daughter.
-I never touched a gun
-before,<New>
-much less have one
-pointed at me...<Delay 45>
-That's why I'm shaking...
-But I can't stop it.<New>
-I'm a 'normal' mother.<Delay 45>
-So there are things I must
-protect..."<Close><End of Block>
-<TextBlock 26 w:50 h:3>
+husband and daughter.<New>
+I've never touched a gun
+before, much less had one
+pointed at me...<Delay 45> It's why
+I'm shaking right now...<New>
+But no, I will not stop.<New>
+I'm a quite 'ordinary'
+mother.<Delay 45> And it's because
+I'm 'ordinary' that I have
+things I must protect..."<Close><End of Block>
+<TextBlock 26 w:32 h:3>
 Medena
 "Elly, slowly
-come here.<New>
-Don't worry. I'll protect
-you no matter what."<Close><End of Block>
-<TextBlock 27 w:50 h:3>
+come this way.<New>
+It's alright.
+I'll protect you
+no matter what."<Close><End of Block>
+<TextBlock 27 w:36 h:3>
 Medena
-"Elly,
-come here. It's alright."<Close><End of Block>
+"Come here, Elly.
+It'll be alright."<Close><End of Block>
 <TextBlock 28 w:42 h:2>
 Medena
 "It's alright, Elly."<Close><End of Block>
-<TextBlock 29 w:28 h:2>
+<TextBlock 29 w:22 h:2>
 Hammer
-"St...stop!!!"<Close><End of Block>
+"S-<Delay 10>Stop!!!"<Close><End of Block>
 <TextBlock 30 w:42 h:3>
 Hammer
-"I'm asking Miss Elly
-to return with me!!"<Close><End of Block>
+"M-<Delay 10>Miss Elly will be
+going back with me!!"<Close><End of Block>
 <TextBlock 31 w:28 h:3>
 Hammer
 "Don't move!
 I'm serious!!"<Close><End of Block>
-<TextBlock 32 w:52 h:3>
+<TextBlock 32 w:50 h:3>
 Hammer
-"I promised to a man named
-K...Karellen.<New>
-He won't 'change it' if
-Miss Elly is returned..."<Close><End of Block>
-<TextBlock 33 w:52 h:3>
+"I-<Delay 5>I made a promise to
+someone called Karellen.<New>
+He said that he<Delay 10> 'wouldn't
+change me' if I brought
+Miss Elly back..."<Close><End of Block>
+<TextBlock 33 w:50 h:4>
 Hammer
-"I really don't want to do
-this to Miss Elly either.<New>
-Really, I like her very
-much.
-But, but I...<New>
-I...
-have no other choice!
+"I-<Delay 5>I really don't
+want to do this to
+Miss Elly either.<New>
+I-<Delay 5>I like her very much.<New>
+But I have to... I...
+I have no other choice!
 Because I'm no good...<New>
-I don't have the strength
-like bro, or the smarts
-like the doc!"<Close><End of Block>
-<TextBlock 34 w:42 h:4>
+I don't have physical
+strength like bro, or
+the smarts like the doc!"<Close><End of Block>
+<TextBlock 34 w:40 h:4>
 Hammer
-"I, I know...everyone
-thinks of me as some
-annoying handyman<New>
-who talks too much...<Delay 32>
-I know that..."<Close><End of Block>
-<TextBlock 35 w:56 h:3>
+"You all know what
+I'm talking about...<New>
+You all think of me
+as a huckster...<New>
+a handyman who gets
+in the way, and
+that's all...
+Nothing more..."<Close><End of Block>
+<TextBlock 35 w:52 h:4>
 Hammer
-"I'm different from you all!
-I'm not special like you!<New>
-A 'normal' guy like me has
-no choice but to do this!!"<Close><End of Block>
-<TextBlock 36 w:34 h:3>
+"I'm different from
+you all! I'm not 'special'
+like you!<New>
+An 'ordinary' guy like
+me has no choice but to
+do this!!"<Close><End of Block>
+<TextBlock 36 w:30 h:3>
 Hammer
-"D...don't move!!
+"D-Don't move!!
 Stop! Stop!<Close><End of Block>
 <TextBlock 37 w:22 h:2>
 Hammer
-"...Hya<Delay 32>..."<Close><End of Block>
+"...<Delay 32>Eep..."<Close><End of Block>
 <TextBlock 38 w:40 h:3>
 Hammer
 "...No!
 Don't move! No! No!"<Close><End of Block>
-<TextBlock 39 w:44 h:3>
+<TextBlock 39 w:36 h:3>
 Hammer
-"...No!!
-Don't go! No...no...!"<Close><End of Block>
-<TextBlock 40 w:40 h:3>
+"...No!! Don't go!
+No! N-<Delay 5>No..."<Close><End of Block>
+<TextBlock 40 w:30 h:3>
 Hammer
-"...Don't...
-Don't go...don't..."<Close><End of Block>
-<TextBlock 41 w:50 h:3>
+"...N-<Delay 5>NO...!
+DON'T...GO...!"<Close><End of Block>
+<TextBlock 41 w:36 h:2>
 Hammer
-"...Hya...<Delay 32>hya...<Delay 32>
-Hya-a-a-a-a-a...<Delay 32>a...<Delay 32>a..."<Close><End of Block>
-<TextBlock 42 w:56 h:2>
+"A-<Delay 32>A-<Delay 32>Aieeeeee...!"<Close><End of Block>
+<TextBlock 42 w:30 h:2>
 Hammer
-"...Wa-a-a-a-a-a-a-a-a-a..."<Close><End of Block>
+"Waaaaaaah...!"<Close><End of Block>
 <TextBlock 43 w:22 h:2>
 Executioner
 "Oh...?"<Close><End of Block>
-<TextBlock 44 w:42 h:4>
+<TextBlock 44 w:48 h:4>
 Executioner
 "Hahaha...
-You both dote on your
-child..."<Close><End of Block>
-<TextBlock 45 w:54 h:4>
+Man and wife, both
+such adoring parents..."<Close><End of Block>
+<TextBlock 45 w:48 h:4>
 Executioner
-"Oh, have I over done it?<New>
-You had no time to say
-good bye. But, don't worry.
-I'll let you meet again on
+"Oh, was I a little too
+enthusiastic? You had no
+time to say goodbye.<New>
+But that's alright.
+I'll let you see each
+other again soon on
 the other side..."<Close><End of Block>
 <TextBlock 46 w:54 h:4>
 Executioner
@@ -201,47 +210,50 @@ Executioner
 control in a non-awakened
 state. Impressive.<New>
 However..."<Close><End of Block>
-<TextBlock 47 w:44 h:2>
+<TextBlock 47 w:38 h:3>
 Grahf
-"Leave the girl here."<Close><End of Block>
-<TextBlock 48 w:44 h:3>
+"You will leave the
+girl here."<Close><End of Block>
+<TextBlock 48 w:42 h:4>
 Grahf
-"You've gotten better.
+"You've gotten pretty
+good at this, I see.<Delay 20>
 ...However!!"<Close><End of Block>
-<TextBlock 49 w:48 h:3>
+<TextBlock 49 w:50 h:3>
 Erich
-"I'll take care of this.
-Everyone, escape now!"<Close><End of Block>
-<TextBlock 50 w:18 h:2>
+"I'll handle things here!
+Run, quickly, everyone!"<Close><End of Block>
+<TextBlock 50 w:16 h:2>
 Erich
-"G, gha!"<Close><End of Block>
-<TextBlock 51 w:50 h:4>
+"G-Gah!"<Close><End of Block>
+<TextBlock 51 w:52 h:4>
 Erich
-"E...Elly...<Delay 45>
-Go...now...<New>
-Elly, no matter what
-happens, believe in
-yourself and go on.<New>
-We'll be happy to help
-anyway we can.
-That's the least I can do
-to make it up to you...<New>
-Elly...
-You're Medena's daughter,
-my daughter, no matter
-what. So..."<Close><End of Block>
-<TextBlock 52 w:20 h:2>
+"E-<Delay 10>Elly...<Delay 45>
+Go...quickly...<New>
+Elly, whatever happens,
+if you have reason enough
+to believe in something,
+go and don't look back.<New>
+For that, we'll gladly
+be your foundation stones.<Delay 10>
+It's the least I can do
+to atone...<New>
+Elly...no matter what
+anybody says, you're the
+daughter born to Medena
+and I...<Delay 10> So..."<Close><End of Block>
+<TextBlock 52 w:16 h:2>
 Bart
-"Gha-a-a!"<Opcode 2 24><Close><End of Block>
-<TextBlock 53 w:10 h:2>
+"Gaah!!"<Opcode 2 24><Close><End of Block>
+<TextBlock 53 w:18 h:2>
 Billy
-"Wa!"<Opcode 2 24><Close><End of Block>
-<TextBlock 54 w:26 h:2>
+"Waagh!!"<Opcode 2 24><Close><End of Block>
+<TextBlock 54 w:20 h:2>
 Emeralda
-"Wa-a-a-a-!!"<Opcode 2 24><Close><End of Block>
-<TextBlock 55 w:32 h:2>
+"Waaagh!!"<Opcode 2 24><Close><End of Block>
+<TextBlock 55 w:22 h:2>
 <Chu-Chu>
-"Ouchuwowowhoa!"<Opcode 2 24><Close><End of Block>
+"Ouchuuuu!"<Opcode 2 24><Close><End of Block>
 <TextBlock 56 w:14 h:2>
 Rico
-"Gha!!"<Opcode 2 24><Close><End of Block>
+"Gah!!"<Opcode 2 24><Close><End of Block>

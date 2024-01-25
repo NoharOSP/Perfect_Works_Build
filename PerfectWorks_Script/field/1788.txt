@@ -4,65 +4,68 @@ Fei, hang in there!<Opcode 2 60><Close><End of Block>
 Fei
 "...<Delay 20>...<Delay 20>...<Delay 20>...<Delay 20>
 Y-<Delay 10>You traitor!!"<Close><End of Block>
-<TextBlock 3 w:50 h:4>
+<TextBlock 3 w:44 h:3>
 Fei
-"Let go, Bart, dammit!!
-He betrayed us!
-He betrayed us and Elly!"<Close><End of Block>
+"Don't stop me, Bart,
+dammit!!<New>
+He betrayed us! He
+betrayed us and Elly!"<Close><End of Block>
 <TextBlock 4 w:20 h:3>
 Fei
 "Let go!
 Lemme go!"<Close><End of Block>
 <TextBlock 5 w:24 h:2>
 Fei
-"Billy!?..."<Close><End of Block>
-<TextBlock 6 w:38 h:4>
+"Billy...!?"<Close><End of Block>
+<TextBlock 6 w:32 h:3>
 Fei
-"What...
-But Doc was just...
-Is that true?"<Close><End of Block>
+"But...<Delay 10> But just
+now Doc was...<New>
+Really?"<Close><End of Block>
 <TextBlock 7 w:12 h:2>
 Fei
 "Doc?"<Close><End of Block>
-<TextBlock 8 w:40 h:2>
+<TextBlock 8 w:30 h:3>
 Fei
-"I see how it is..."<Close><End of Block>
-<TextBlock 9 w:22 h:2>
+"So that's how
+it was..."<Close><End of Block>
+<TextBlock 9 w:20 h:2>
 Fei
-"For sure?"<Close><End of Block>
+"Confirm?"<Close><End of Block>
 <TextBlock 10 w:12 h:2>
 Fei
 "...?"<Close><End of Block>
-<TextBlock 11 w:44 h:4>
+<TextBlock 11 w:42 h:4>
 Fei
-"Wait!
-What happened to Elly?
-Weren't you with her?"<Close><End of Block>
+"Wait!<Delay 10>
+What about Elly?
+Wasn't she with you?"<Close><End of Block>
 <TextBlock 12 w:38 h:2>
 Fei
 "Why only Elly...?"<Close><End of Block>
-<TextBlock 13 w:48 h:2>
+<TextBlock 13 w:38 h:2>
 Fei
-"Is that why...Elly...?"<Close><End of Block>
-<TextBlock 14 w:40 h:2>
+"So...did Elly...?"<Close><End of Block>
+<TextBlock 14 w:26 h:3>
 Fei
-"What about Doc...?"<Close><End of Block>
+"What about
+you, Doc...?"<Close><End of Block>
 <TextBlock 15 w:24 h:3>
 Fei
 "Doc!
 A sword...?"<Close><End of Block>
 <TextBlock 16 w:24 h:3>
 Fei
-"...I see...
-...But..."<Close><End of Block>
-<TextBlock 17 w:40 h:3>
+"...I see...<Delay 10>
+...Still..."<Close><End of Block>
+<TextBlock 17 w:32 h:3>
 Fei
-"You're always so
-mischievous, Doc..."<Close><End of Block>
-<TextBlock 18 w:46 h:3>
+"Mischievous as
+always, Doc..."<Close><End of Block>
+<TextBlock 18 w:46 h:2>
 Bart
-"Fei, you're conscious?
-Now! Let's go!"<Close><End of Block>
+"You back with us, Fei?<New>
+Okay! Let's go!"<Close><End of Block>
 <TextBlock 19 w:28 h:2>
 Bart
 "S-<Delay 5>Stop! Fei!"<Close><End of Block>
@@ -70,211 +73,222 @@ Bart
 Bart
 "Stop, Fei!
 You've got it wrong!"<Close><End of Block>
-<TextBlock 21 w:42 h:4>
+<TextBlock 21 w:36 h:4>
 Bart
 "Hmph...<Delay 32>
-If Billy says it you 
-listen..."<Close><End of Block>
+So you listen if
+Billy says it..."<Close><End of Block>
 <TextBlock 22 w:52 h:4>
 Bart
-"Listen very carefully!<New>
-That Limiter is implanted
-in our bodies.<New>
-Right now,
-this research facility
-is the only place where
-we can get them removed!<New>
+"Okay?<Delay 20> Now listen up!<New>
+The Limiters that are
+coded into our bodies <--><New>
+right now, the research
+facility here is the only
+place where we can get
+them undone!<New>
 Citan misled Karellen and
 the other guys and brought
-us in here to remove the
-Limiter!"<Close><End of Block>
+us here to do the Limiter-
+reversal treatment!"<Close><End of Block>
 <TextBlock 23 w:14 h:2>
 Bart
 "Yeah!"<Close><End of Block>
-<TextBlock 24 w:42 h:4>
+<TextBlock 24 w:40 h:3>
 Bart
-"By the way, Citan.
-You did remove Fei's
-Limiter, didn't you?"<Close><End of Block>
-<TextBlock 25 w:46 h:3>
+"By the way, Citan.<New>
+You did make sure to
+undo Fei's Limiter
+too, right?"<Close><End of Block>
+<TextBlock 25 w:48 h:3>
 Bart
-"Alright then. 
-Let's get out of here!"<Close><End of Block>
+"Alright <--> in that case
+let's get out of here!"<Close><End of Block>
 <TextBlock 26 w:44 h:3>
 Bart
-"I don't care what the
-reason is! For now,<New>
-let's help Elly and
-get out of here fast!"<Close><End of Block>
-<TextBlock 27 w:48 h:4>
+"Who cares what the
+reason is!?<New>
+For now, let's just
+rescue Elly and get
+the hell out of here!"<Close><End of Block>
+<TextBlock 27 w:46 h:4>
 Bart
-"Yo! Citan!
-Let me handle Fei and
-Elly's situation!<New>
-Now that the Limiter is
-removed, Solaris doesn't
-stand a chance!"<Close><End of Block>
-<TextBlock 28 w:50 h:2>
+"You got it, Citan!
+Let me handle things
+with Fei and Elly!<New>
+With the Limiters gone,
+Solaris is gonna be
+sorry!"<Close><End of Block>
+<TextBlock 28 w:46 h:2>
 Bart
-"A...are you serious...?"<Close><End of Block>
-<TextBlock 29 w:34 h:3>
+"A-Are you serious...?"<Close><End of Block>
+<TextBlock 29 w:38 h:3>
 Billy
 "Calm down, Fei! <New>
-Bart isn't lying,
+Bart isn't lying <-->
 Citan is the one
-who helped us!"<Close><End of Block>
-<TextBlock 30 w:54 h:4>
+who rescued us!"<Close><End of Block>
+<TextBlock 30 w:40 h:4>
 Billy
-"There's no Limiter?
-Isn't that because Elly is 
-from Solaris?"<Close><End of Block>
+"No Limiter?<Delay 10>
+Isn't that because
+Elly is a Solarian?"<Close><End of Block>
 <TextBlock 31 w:50 h:4>
 Billy
-"You're right.<New>
-If we mess up here,
-I put those guys who went
-to help Elly's parents in
-danger."<Close><End of Block>
-<TextBlock 32 w:48 h:4>
+"Yes.<New>
+If we are delayed here,
+it will get dangerous for
+the group who went ahead
+to help Elly's parents."<Close><End of Block>
+<TextBlock 32 w:44 h:4>
 Billy
-"Citan, we're going to
+"Citan, we'll go to
 Karellen's private
-research lab as planned.<New>
-We'll meet up at
-the rendezvous point."<Close><End of Block>
-<TextBlock 33 w:54 h:4>
+laboratory as planned.<New>
+Let's rendezvous
+afterwards at the
+place we agreed."<Close><End of Block>
+<TextBlock 33 w:48 h:4>
 Citan
 "That is not the only
-reason why I brought
-you here.<New>
-Those who want to
-become independent
-from Solaris<New>
-must know the actual
-situation and
-its true form.<New>
-Who is doing what and why."<Close><End of Block>
+reason I brought you
+all here.<New>
+Those who would strive
+for independence from
+Solaris must know the
+country's situation,<New>
+know its true form.<Delay 10>
+Who it is that is
+trying to do this,
+plotting that, and why."<Close><End of Block>
 <TextBlock 34 w:52 h:4>
 Citan
-"Ostensibly,<New>
-I received a covert
-order from the Emperor
-to get in contact<New>
-with the one who 
-possesses the fleshly 
-body the Council so 
-desires.... <New>
-and if possible bring
-the body back.<New>
-That was my duty.
-As a result, I had no
-choice but to deceive you.
+"Ostensibly, on the secret
+orders of the Emperor,<New>
+I was to make contact
+with those who possessed
+the fleshly bodies
+wanted by the Ministry,<New>
+transfer the data, and
+if possible bring those
+bodies back.<Delay 10> That is the
+duty I had been assigned.<New>
+As a consequence, I had
+no choice but to keep up
+the appearance that I
+was deceiving you all.<New>
 Please forgive me."<Close><End of Block>
-<TextBlock 35 w:40 h:4>
+<TextBlock 35 w:38 h:4>
 Citan
-"Besides,<New>
-I myself had
-a matter that had be
-verified in this
-facility..."<Close><End of Block>
-<TextBlock 36 w:50 h:3>
+"Moreover, I needed
+to use the facility
+here, myself...<New>
+There was something
+I had to confirm
+at all costs."<Close><End of Block>
+<TextBlock 36 w:42 h:2>
 Citan
-"I'll tell you that after
-we escape from here.<New>
-It is something you must
-know."<Close><End of Block>
-<TextBlock 37 w:42 h:4>
+"I will tell you that
+once we have safely
+escaped from here.<New>
+For it is something
+you need to know."<Close><End of Block>
+<TextBlock 37 w:32 h:4>
 Citan
-"...What?"<Delay 32>
-Y...yes, of course...
-That is..."<Close><End of Block>
-<TextBlock 38 w:48 h:4>
+"...Hm?<Delay 32>
+Y-Yes...<Delay 32>I did...<Delay 32>
+Of course..."<Close><End of Block>
+<TextBlock 38 w:48 h:3>
 Citan
 "Elly was taken to
-Karellen's research lab.
-It could not be stopped.<New>
+Karellen's research lab.<New>
+I was not in a position
+to be able to stop that.
 I am sorry."<Close><End of Block>
-<TextBlock 39 w:52 h:4>
+<TextBlock 39 w:48 h:4>
 Citan
-"I do not know...<New>
-But one thing bothers
-me...<New>
-When Karellen took Elly,
-I had a chance to acquire
-Elly's cellular
-information.<New>
-I analyzed it and found
-something very interesting
-...Excuse me, I mean...
-unusual.<New>
-There is no 
-Limiter implanted in her."<Close><End of Block>
-<TextBlock 40 w:52 h:4>
+"I do not know...<Delay 20>
+But one thing
+bothers me...<New>
+When Karellen took
+Elly, I had a chance
+to acquire her bio-data.<New>
+I analyzed it and
+found something very
+interesting...<Delay 10>
+Or, rather...unusual.<New>
+There is no Limiter
+coded in her."<Close><End of Block>
+<TextBlock 40 w:48 h:4>
 Citan
-"Even Solaris citizens
-have a Limiter implanted
-when they are born.<New>
-There are exceptions for
-certain people like myself
-and Ramsus,<New>
-whose Limiters can be
-removed later on through
-the treatment such as the
-one I did for Bart.<New>
-But you must
-have permission from the
-Ministry to do so."<Close><End of Block>
-<TextBlock 41 w:50 h:4>
+"Even Solarians are
+born with Limiters
+written in.<New>
+In special cases <-->
+particular people only,
+such as Ramsus and I <--><New>
+the Limiters are undone
+much later, via the same
+treatment I administered
+to Bart and the others.<New>
+But permission from the
+Ministry is required for
+that."<Close><End of Block>
+<TextBlock 41 w:44 h:3>
 Citan
-"There must be more to it
-than that. I don't know
-the reason,<New>
-but Karellen is so
-absorbed by her data."<Close><End of Block>
+"There must be more
+to it than that.<New>
+The reason is unclear,
+but Karellen is quite
+fixated on her data."<Close><End of Block>
 <TextBlock 42 w:52 h:4>
 Citan
-"There is still something
-left to be done. I will go
-destroy the last gate."<Close><End of Block>
-<TextBlock 43 w:54 h:4>
+"I still have something
+left to do.<Delay 10> I will destroy
+the last of the Gates."<Close><End of Block>
+<TextBlock 43 w:52 h:4>
 Citan
-"Oh, yes! By the way, young
-one, about the effects of
-removing the Limiter...<New>
-The results will not show
-up that quickly. Already
-your physical Limiters have
-been removed naturally.<New>
-The part I have removed is
-the psychological section.<New>
-That is...the subconscious
-fear and veneration for the
-Ministry and the emperor
-have been removed.<New>
-Basically, you will be able
-to battle against them
-without any fears or
-hesitations.<New>
+"Oh!<Delay 10> I meant to
+tell you, young one <--><New>
+the effects of the Limiter
+reversal will not be so
+readily apparent.<New>
+The physical Limiters
+you all have were
+already naturally
+quite ineffective.<New>
+What I have counteracted
+is the mental side of
+things <--><New>
+that is, the unconscious
+fear of the Ministry and
+the Emperor, the reverence
+for them.<New>
+Basically, you can now
+battle against them
+without restraint.<New>
 It is not that you have
 suddenly become more
 powerful."<Close><End of Block>
-<TextBlock 44 w:52 h:4>
+<TextBlock 44 w:48 h:4>
 Citan
-"...Yes.
-Yui gave it to me as
-I was leaving.<New>
-I used to use it before
-I met her.<Delay 10> For a long time
-I vowed not to use it for
-killing though.<New>
-But now is not the time to
-contemplate morals. It is
-not fair for me to be the
-only 'innocent' one."<Close><End of Block>
+"...Yes.<Delay 20> Something
+Yui handed to me as
+we were setting off.<New>
+I had used it before
+I met her.<New>
+Since it is a technique
+that takes lives, I have
+kept it to myself for
+a long time.<New>
+But we have reached the
+point where we cannot
+just 'talk the talk',
+have we not"<Close><End of Block>
 <TextBlock 45 w:12 h:2>
 Citan
 "Yes?"<Close><End of Block>
-<TextBlock 46 w:48 h:3>
+<TextBlock 46 w:42 h:3>
 Citan
-"It is in my nature.
-I am sorry, forgive me."<Close><Close><End of Block>
+"It is my nature, you
+know?<Delay 10> My apologies."<Close><Close><End of Block>

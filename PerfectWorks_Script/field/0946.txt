@@ -7,7 +7,7 @@ Strachey
 "There's only one
 control ship...<New>
 The other seven are
-all Ether guided.<New>
+all Ether-guided.<New>
 Just who the hell is
 controlling them all?"<Close><End of Block>
 <TextBlock 3 w:48 h:2>

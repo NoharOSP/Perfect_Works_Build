@@ -2,9 +2,9 @@
 Fei
 "Elly, I didn't realize
 you were awake."<Close><End of Block>
-<TextBlock 2 w:30 h:2>
+<TextBlock 2 w:22 h:2>
 Elly
-"Ah, uurrgh..."<Close><End of Block>
+"U-Uhhh..."<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Elly
 "Where am I...?<New>
@@ -146,8 +146,7 @@ Fei
 "What're you talking
 about? It's still
 there<Delay 10>...<New>
-What the<Delay 10>...<Delay 10>!?
-<Delay 10>...<Delay 10>That's...!"<Close><End of Block>
+What the<Delay 10>...<Delay 10>!?"<Close><End of Block>
 <TextBlock 32 w:52 h:4>
 Fei
 "That's...that thing I saw

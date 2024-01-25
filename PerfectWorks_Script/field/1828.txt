@@ -25,14 +25,15 @@ What should we do?"<Close><End of Block>
 <TextBlock 6 w:16 h:2>
 Bart
 "What!?"<Close><End of Block>
-<TextBlock 7 w:50 h:4>
+<TextBlock 7 w:44 h:4>
 Citan
-"Quick!
-Take cover!<New>
-The Solarian based energy
-descending from the upper
-atmosphere is equivalent
-to a reactive weapon!"<Close><End of Block>
+"Quickly withdraw from
+here, please!<New>
+The energy of Solaris
+crashing down from
+stratospheric height<New>
+will be the equivalent
+of a nuclear weapon!"<Close><End of Block>
 <TextBlock 8 w:18 h:3>
 Citan
 "...Elly?<Delay 45>

@@ -55,10 +55,10 @@ the globe began to mutate
 into abnormal forms.<Close><End of Block>
 <TextBlock 7 w:56 h:8>
 It seemed to be triggered
-when the nanomachines
-removed the Limiter seal
-that was placed on humankind
-by Karellen in the past...<Delay 30>
+when the Limiters applied
+by Karellen long ago
+were undone by the
+nanomachines...<Delay 30>
  
 ...<Delay 5>The 'human' form with its
 innate abilities released.<Close><End of Block>
@@ -68,8 +68,8 @@ what Hammer had said back
 in Solaris.<Delay 30>
  
 His words were<Delay 5>...<Delay 5>
- "A<Delay 0> "normal"<Delay 0> guy<Delay 0> like<Delay 0>
- me<Delay 0> has<Delay 0> no<Delay 0> choice...<Delay 5>?"<Close><End of Block>
+  "An 'ordinary' guy
+      like me..."<Close><End of Block>
 <TextBlock 9 w:60 h:10>
 After that, we went from place
 to place, destroying all the
@@ -153,10 +153,10 @@ of Solaris, the surface
 dwellers began to unite
 in one place.<Close><End of Block>
 <TextBlock 16 w:56 h:10>
-Although the initial impact
-of being released from the
-Limiter seal caused some
-momentary chaos, everything
+Although the land dwellers
+fell into momentary chaos
+due to being free of
+the Limiters, everything
 slowly began to settle down.<New>
 We then began to search for
 the Anima Vessels<Delay 5>...<Delay 5>

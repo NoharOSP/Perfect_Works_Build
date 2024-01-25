@@ -1,4 +1,4 @@
-<TextBlock 1 w:44 h:3>
-"During the alarm, the
-maintenance hatch will
-be closed."<Close><Close><End of Block>
+<TextBlock 1 w:36 h:3>
+Maintenance hatch
+locked down during
+alert conditions.<Close><Close><End of Block>

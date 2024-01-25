@@ -380,10 +380,10 @@ tower for communicating
 with the Shevat homeland.<New>
 If only it is still there
 now..."<Close><End of Block>
-<TextBlock 60 w:48 h:3>
-Phew! I no longer have
-to listen to the roars
-of the old man any more.<Close><End of Block>
+<TextBlock 60 w:50 h:3>
+Phew! At last, I no
+longer have to listen to
+the roars of the old man.<Close><End of Block>
 <TextBlock 61 w:50 h:3>
 The engine's restoration
 is finally finished.<New>

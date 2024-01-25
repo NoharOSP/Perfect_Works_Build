@@ -1,12 +1,13 @@
-<TextBlock 1 w:52 h:4>
+<TextBlock 1 w:50 h:4>
 Ramsus
-Come on, come on, come on!
-You devil...<Delay 45>I'll be sure
-to kill you this time!!<Close><End of Block>
-<TextBlock 2 w:46 h:3>
+"Come on, come on, come
+on, blasted Demon...<Delay 45> This
+time you're finished!!"<Close><End of Block>
+<TextBlock 2 w:48 h:3>
 Ramsus
-That's it, that's it...
+"That's it, that's it...
 Heh heh...<Delay 12><New>
-He came all this way,
+You came all this way,
 just to be killed...
-<Delay 12>ugha-a-a-a-a-a-!!<Close><Close><End of Block>
+Heh heh heh...<New>
+...<Delay 12>...A-<Delay 12>Aaaagh!!"<Close><Close><End of Block>

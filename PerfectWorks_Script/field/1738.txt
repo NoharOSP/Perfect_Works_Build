@@ -147,13 +147,13 @@ a P4-level door,<New>
 and even know the purpose
 of the facility...<Delay 30>
 How is that possible?"<Close><End of Block>
-<TextBlock 27 w:40 h:3>
+<TextBlock 27 w:48 h:3>
 Elly
-"It's just like
-with my father.<New>
-Sure, maybe you were
-in Solaris in those
-days, Citan."<Close><End of Block>
+"The same goes for
+knowing about my father.<New>
+Sure, maybe you were in
+Solaris in those days,
+Citan."<Close><End of Block>
 <TextBlock 28 w:48 h:4>
 Elly
 "But even Jessie, who

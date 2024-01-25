@@ -1,82 +1,82 @@
-<TextBlock 1 w:50 h:4>
+<TextBlock 1 w:40 h:4>
 Bart
-"Yeah, we were saved when
-we were thrown out into
-the sky.<New>
-The rest of my crew were
-aleady picked up and
-they're in the Yggdrasil
-right now."<Close><End of Block>
+"Maria saved those
+of us who got thrown
+out into the sky.<New>
+The rest of the gang
+were also picked up
+earlier and they're
+on the Yggdrasil."<Close><End of Block>
 <TextBlock 2 w:46 h:3>
 Bart
-"I'm not lying...<New>
-We saw it with our own
-eyes. The very sight of
+"No mistake...<New>
+We witnessed the scene
+with our own eyes <-->
 him turning into Id..."<Close><End of Block>
-<TextBlock 3 w:42 h:2>
+<TextBlock 3 w:26 h:2>
 Elly
 "...<New>
-...Citan...Maria...?"<Close><End of Block>
-<TextBlock 4 w:44 h:3>
+...Citan...<Delay 20>
+...Maria...?"<Close><End of Block>
+<TextBlock 4 w:30 h:2>
 Elly
 "Oh...<New>
-...
 ...Fei...?
 What about Fei?<New>
-...
-Is he on the Yggdrasil
-too?"<Close><End of Block>
-<TextBlock 5 w:48 h:3>
+Is he on the
+Yggdrasil too?"<Close><End of Block>
+<TextBlock 5 w:42 h:3>
 Elly
 "Solaris!!
-...That red Gear!?<New>
-What is going on,
-Citan?
-What's happened to Fei?"<Close><End of Block>
+...That red Gear...!<New>
+What the hell is
+happening, Citan!?<Delay 10>
+Citan!! Where's Fei?"<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 Elly
 "We'd better help him!!
 Fei's still there, isn't
 he!? We must hurry!!"<Close><End of Block>
-<TextBlock 7 w:46 h:4>
+<TextBlock 7 w:36 h:4>
 Elly
-"So he's already in the
-Yggdrasil, right...
-Maria?"<Close><End of Block>
+"So he is already
+on the Yggdrasil?"<Close><End of Block>
 <TextBlock 8 w:16 h:2>
 Elly
-"What!!"<Close><End of Block>
-<TextBlock 9 w:44 h:4>
+"What!?"<Close><End of Block>
+<TextBlock 9 w:50 h:4>
 Elly
 "!?
-You're kidding!?
-I don't believe that!"<Close><End of Block>
-<TextBlock 10 w:42 h:3>
+It's got to be a mistake!
+I can't believe that!"<Close><End of Block>
+<TextBlock 10 w:34 h:3>
 Elly
 "Fei...is...Id...<Delay 45>
-Don't be ridiculous!"<Close><End of Block>
-<TextBlock 11 w:34 h:2>
+No..."<Close><End of Block>
+<TextBlock 11 w:32 h:3>
 Elly!<Delay 24>
-Are you OK? Elly!<Close><End of Block>
-<TextBlock 12 w:34 h:4>
+Are you alright?<Delay 24>
+Elly!<Close><End of Block>
+<TextBlock 12 w:44 h:3>
 Citan
 "Elly?
-Have you come to
-your senses yet?"<Close><End of Block>
-<TextBlock 13 w:36 h:3>
+Have you come around?"<Close><End of Block>
+<TextBlock 13 w:34 h:3>
 Citan
 "Calm down, Elly.
-Fei...is alright."<Close><End of Block>
-<TextBlock 14 w:54 h:3>
+Fei...is safe."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
 Citan
-"Calm down, Elly. Listen!
-Fei is riding in that Gear.<New>
-That Gear is actually
-<Weltall> in its true
-form after transformation."<Close><End of Block>
-<TextBlock 15 w:46 h:3>
+"Please calm down and
+listen, Elly.<New>
+Fei is the one aboard that
+Gear.<Delay 20> That is the true,
+transfigured form of
+<Weltall>."<Close><End of Block>
+<TextBlock 15 w:36 h:4>
 Citan
-"Another Fei within him
+"Another Fei who
+sleeps within him
 has awakened.<New>
 Fei and Id are the
 same person..."<Close><Close><End of Block>

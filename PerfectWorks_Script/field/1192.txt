@@ -287,7 +287,7 @@ Don't pull my ears!"<Opcode 2 15><Close><End of Block>
 Citan
 "Let us go and wait in our
 cabin until we arrive...<New>
-It is well-made and
+It is well made and
 comfortable."<Close><End of Block>
 <TextBlock 29 w:10 h:2>
 Fei
