@@ -17,10 +17,10 @@ Let go of me!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 Stop!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <TextBlock 7 w:72 h:13>
 No recollection at all, you say?<Delay 45>
-         There were no records of
-         mental enhancement drug
-         use until now.<Delay 45>
-Then it was sudden.<Delay 45>
+         There are no records of
+         mental-enhancement drug
+         use before now.<Delay 45>
+No wonder it was sudden.<Delay 45>
          She's probably a type that
          can't handle Drive.<Delay 45>
 That probably caused her
@@ -35,7 +35,7 @@ ability is so high?<Delay 45>
        Yes... What did the commander
        call those girls again?
        Elements?
-       It's higher than that?<Delay 45>
+       It's higher than theirs?<Delay 45>
 That is so, looking at the
 numbers from the event.<Delay 45>
        But we can't use her as

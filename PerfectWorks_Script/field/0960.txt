@@ -44,16 +44,16 @@ use...<Delay 20>the Drive."<Close><End of Block>
 Fei
 "...Elly, you're
 the same as me."<Close><End of Block>
-<TextBlock 9 w:52 h:4>
+<TextBlock 9 w:50 h:4>
 Elly
 "The same?
 ...Yeah. Maybe that's it.<New>
 When I first met you, it
 was like...you weren't
 just some stranger.<New>
-I felt that way, maybe
-because our problems were
-so similar..."<Close><End of Block>
+Maybe I felt that way
+because our problems
+were so similar..."<Close><End of Block>
 <TextBlock 10 w:44 h:4>
 Fei
 "I can help if you'll

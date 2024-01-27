@@ -22,12 +22,12 @@ A Gear's m-moving by
 itself in the hangar...<Close><End of Block>
 <TextBlock 5 w:56 h:5>
 Main engine, support engine,
-engage the auto scram.
+auto-scram engaged.
 Switch power to batteries.
 Output ratio 0.5,
 operating time...500!!<Close><End of Block>
-<TextBlock 6 w:52 h:3>
-The sand pump, effect-fins
+<TextBlock 6 w:54 h:3>
+The sand pump, control fins
 and propulsion drills are
 all out of commission!!<Close><End of Block>
 <TextBlock 7 w:38 h:2>

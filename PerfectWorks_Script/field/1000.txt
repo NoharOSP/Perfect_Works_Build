@@ -85,9 +85,9 @@ There it goes...<Opcode 2 90><Close><End of Block>
 <TextBlock 20 w:32 h:1>
 There it goes...<Opcode 2 90><Close><End of Block>
 <TextBlock 21 w:36 h:4>
-Uuuaaaaaaaaaaaaaa<Delay 10>
+Aaaaaaaaaaaaaaaaa<Delay 10>
    aaaaaaaaaaaa<Delay 10>
-     aaaaaaaa<Delay 10>
-       aah!<Opcode 2 30><Close><End of Block>
+     gggggggg<Delay 10>
+       hhh!<Opcode 2 30><Close><End of Block>
 <TextBlock 22 w:0 h:1>
 <Close><End of Block>

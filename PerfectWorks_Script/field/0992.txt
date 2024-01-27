@@ -51,9 +51,9 @@ Open the fleet's flank
 and bait those Gears to
 within range of the
 Kefeinzel's main gun."<Close><End of Block>
-<TextBlock 13 w:52 h:4>
+<TextBlock 13 w:48 h:4>
 Vanderkaum
-"Firing control!
+"Firing Control!
 Gunnery Chief!
 Ready the Type 3 shells.<New>
 Prepare to fire the main
@@ -88,7 +88,7 @@ not playing with them!<New>
 A dog could do better!"<Close><End of Block>
 <TextBlock 17 w:50 h:4>
 Vanderkaum
-"Firing control! Gunnery
+"Firing Control! Gunnery
 Chief! Not one shot from
 the main gun yet!?<New>
 Effective range for Type
@@ -110,7 +110,7 @@ Ramsus will have
 my hide!"<Close><End of Block>
 <TextBlock 21 w:52 h:4>
 Vanderkaum
-"Firing control!
+"Firing Control!
 Gunnery Chief!
 What are you doing!?<New>
 You're not even close!!!!

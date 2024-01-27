@@ -78,12 +78,12 @@ I'm alright!"<Close><End of Block>
   the land by dimensional
   distortion fields known
   as 'Gates'.<New>
-  Travel to and from the
-  surface is impossible
-  without the use of
+  Without the use of
   transport such as an
   airship,<Delay 30> outfitted with
-  particular equipment..."<Close><End of Block>
+  particular equipment,<New>
+  travel to and from the
+  surface is impossible."<Close><End of Block>
 <TextBlock 12 w:58 h:4>
   Sigurd
   "We were placed in key
@@ -223,9 +223,9 @@ Bart
 "Well...I mean...
 it was just so sudden.<New>
 I kind of expected to hear
-something different...
-like that we were childhood
-rivals or something...<New>
+something different...like
+that they were rivals since
+childhood or something...<New>
 But that's nothing compared
 to the story he just told
 us, is it?"<Close><End of Block>
@@ -255,7 +255,7 @@ why he could not talk about
 this with you till now."<Close><End of Block>
 <TextBlock 41 w:54 h:4>
 Citan
-"Looking at the activities
+"Looking at the conduct
 of Solaris towards other
 countries up until now...<New>
 ...it has never gone
@@ -263,13 +263,11 @@ beyond simply maintaining
 their own empire, or
 'self-preservation'.<New>
 And as you have seen, their
-military power is immense.
-So Sigurd was probably
-thinking ahead...<New>
-First he was probably
-concentrating on taking
-care of the problems here
-on the continent of Ignas.<New>
+military power is immense.<New>
+Perhaps Sigurd thought to
+take care of the problems
+here on the continent of
+Ignas first of all.<New>
 Once things were settled
 here, it would give him
 a stronger foundation to
@@ -287,7 +285,7 @@ Citan
 "Well it is not like we are
 newly acquainted, is it?<New>
 And we had talked about
-many things in the lead
+many things in the lead-
 up to our decision to
 escape from Solaris."<Close><End of Block>
 <TextBlock 44 w:44 h:4>

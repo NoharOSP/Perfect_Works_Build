@@ -1,9 +1,9 @@
 <TextBlock 1 w:54 h:4>
 Ramsus
-"Once their effect-fins are
-destroyed they will remain
+"With their control fins
+destroyed they will be
 buried and unable to move.<New>
-Surfacing was a smart move.
+Surfacing was a smart play.
 Sand-Torpedo Chief! Well
 done on lowering their
 fighting power. Brilliant!"<Close><End of Block>
@@ -22,7 +22,7 @@ Ramsus
 "An old...friend<Delay 32>..."<Close><End of Block>
 <TextBlock 5 w:52 h:4>
 Ramsus
-"Comms officer!<New>
+"Comms Officer!<New>
 Use my name and urge them
 to yield. Tell them to
 surrender if they desire
@@ -45,13 +45,13 @@ pattern cancelled!<Delay 16>
 ...Resume attack!"<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Ramsus
-"Th-that Gear! No mistake!
+"Th-That Gear! No mistake!
 It's him! Demon of Elul...!<Delay 50>
 Myyah! Let's go!"<Close><End of Block>
-<TextBlock 10 w:26 h:3>
+<TextBlock 10 w:24 h:3>
 Ramsus
-"Ah...<Delay 16>
-That is...!!"<Close><End of Block>
+"*Gasp*...<Delay 16>
+That's...!!"<Close><End of Block>
 <TextBlock 11 w:40 h:4>
 Myyah
 "Oh?<Delay 24>
@@ -63,8 +63,8 @@ Myyah
 ...Ha, ha, ha."<Close><End of Block>
 <TextBlock 13 w:56 h:3>
 Myyah
-"Calm down. <Delay 32>Put the analyzed
-picture on the monitor."<Close><End of Block>
+"Calm down. <Delay 32>Put the analysis
+video on the monitor."<Close><End of Block>
 <TextBlock 14 w:48 h:3>
 Myyah
 "Commander! Please wait!
@@ -109,7 +109,7 @@ vessel is decreasing.
 Sand maneuverability of
 enemy vessel down 60%.<New>
 ...Looks like the main
-engine and effect-fins
+engine and control fins
 have been disabled.<Close><End of Block>
 <TextBlock 21 w:28 h:1>
 Th-Thank you!<Close><End of Block>

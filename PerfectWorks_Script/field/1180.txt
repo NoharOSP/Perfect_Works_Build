@@ -286,7 +286,7 @@ Noisemaker, tubes 2
 and 4<Delay 16>...stand by!<Close><End of Block>
 <TextBlock 56 w:56 h:5>
 But, First Mate!
-Now with the effect-fins out
+With the control fins out
 of order, if you run at full
 speed, the ship wouldn't be
 able to stand the friction!!<Close><End of Block>
@@ -377,11 +377,11 @@ Sigurd
 "Engine, ready for full
 power!! Jerico! Give me
 the helm over here!"<Close><End of Block>
-<TextBlock 76 w:52 h:4>
+<TextBlock 76 w:48 h:4>
 Sigurd
-"It can 'jump' due to the
-Bernoulli effect on the
-wings' surfaces instead!!"<Close><End of Block>
+"We can use the wing-
+surface effect to 'jump'
+instead!!"<Close><End of Block>
 <TextBlock 77 w:50 h:4>
 Sigurd
 "Never mind that!

@@ -382,7 +382,7 @@ Bart
 What am I gonna do?"<Close><End of Block>
 <TextBlock 90 w:28 h:2>
 Bart
-"Uuuaaaaahh!"<Close><End of Block>
+"Aaaaaagghh!"<Close><End of Block>
 <TextBlock 91 w:40 h:3>
 Shakhan
 "Urgh, you obstinate

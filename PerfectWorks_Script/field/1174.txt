@@ -57,7 +57,7 @@ Maitreya
 Maitreya
 "Well, Young Master...we
 promise to make something
-out of this battle!"<Close><End of Block>
+of this battle!"<Close><End of Block>
 <TextBlock 12 w:10 h:1>
 Okay!<Opcode 2 32><Close><End of Block>
 <TextBlock 13 w:22 h:1>
