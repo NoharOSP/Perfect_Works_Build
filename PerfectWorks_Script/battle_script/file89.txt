@@ -6,4 +6,4 @@ Ramsus
 "(Ugh! H-Help...)"<Close><End of Block>
 <TextBlock 3 w:38 h:2>
 Ramsus
-"(Uaaaaaaahhhhh!!)"<Opcode 2 120><Close><End of Block>
+"(Aaaaagggghhhh!!)"<Opcode 2 120><Close><End of Block>

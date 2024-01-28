@@ -10,15 +10,16 @@ Save current data?<Delay 30>
 Continue the game?<Delay 30>
 <Opcode 1 255>    Wait
     Continue<Delay 15><Close><End of Block>
-<TextBlock 4 w:52 h:4>
+<TextBlock 4 w:44 h:4>
 Citan
-"That is...the...Dora.
+"That is...the Dora...<New>
 It was stationed here?
-That was careless...<New>
+I had not considered
+that...<New>
 But <Delay 32>its condition...<Delay 32>
 ...<Delay 32>...<Delay 32>...<Delay 32>
-As I thought, it is just
-like the others..."<Close><End of Block>
+Yes, it is just like
+the others..."<Close><End of Block>
 <TextBlock 5 w:39 h:1>
 <End of Block>
 <TextBlock 6 w:18 h:1>

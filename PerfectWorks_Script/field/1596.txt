@@ -119,8 +119,8 @@ breath!"<Close><End of Block>
 <TextBlock 27 w:48 h:4>
 Grahf
 "Blossom, o fallen seed,
-and draw upon thy hidden
-powers!!"<Close><End of Block>
+as I bring forth thy
+hidden power!!"<Close><End of Block>
 <TextBlock 28 w:46 h:4>
 Grahf
 "I grant unto thee the
@@ -259,9 +259,9 @@ of all!
 It's a tough racket!<New>
 Something you'd never
 understand, punk!!"<Close><End of Block>
-<TextBlock 52 w:36 h:2>
+<TextBlock 52 w:32 h:2>
 Shakhan
-"Uwwaaaaaaaahhh!!"<Close><End of Block>
+"Gaaaaaaaahhh!!"<Close><End of Block>
 <TextBlock 53 w:48 h:2>
 Fei
 "The Gate's on fire...!"<Close><End of Block>

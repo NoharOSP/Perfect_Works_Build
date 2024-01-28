@@ -5,7 +5,7 @@ This old man will follow
 you to the pits of hell!"<Close><End of Block>
 <TextBlock 2 w:56 h:4>
 Engineer
-"The main engine and effect-
+"The main engine and control
 fins' oscillators are mostly
 unharmed...<New>
 ...but the electrical
@@ -22,8 +22,8 @@ The propulsion drills are
 not damaged, but if the
 sand can't be granulated
 they might as well be.<New>
-We'll make battle speed 3
-...only barely."<Close><End of Block>
+We'll make battle speed 3...
+just barely."<Close><End of Block>
 <TextBlock 3 w:52 h:3>
 Sigurd
 "He's been quiet since the
@@ -103,5 +103,5 @@ Bart
 "Is it heading...<Delay 16>here?"<Close><End of Block>
 <TextBlock 17 w:30 h:1>
 Are you strong?<Close><End of Block>
-<TextBlock 18 w:54 h:1>
-I asked, 'Are you strong!?'<Close><Close><End of Block>
+<TextBlock 18 w:52 h:1>
+I asked, 'Are you strong?'<Close><Close><End of Block>

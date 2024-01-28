@@ -79,11 +79,9 @@ Don't let go of your
 true self!"<Close><End of Block>
 <TextBlock 13 w:42 h:3>
 Elly
-"It has nothing to do
-with you.<New>
-And would you quit
-trying to be so
-friendly!"<Close><End of Block>
+"It doesn't concern
+you.<New>
+You're nothing!"<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Elly
 "Why? It's obvious.
@@ -93,14 +91,14 @@ the Abelites...<New>
 The purpose of our
 existence is to
 subordinate the
-earth-dwelling Lambs.<New>
+land-dwelling Lambs.<New>
 ...Those who stand
 in our way must be
 eliminated!"<Close><End of Block>
 <TextBlock 15 w:48 h:3>
 Elly
 "This is my true nature!
-There is no other!"<Close><End of Block>
+There is nothing else!"<Close><End of Block>
 <TextBlock 16 w:38 h:4>
 Elly
 "You talk as if you
@@ -149,13 +147,13 @@ Aagh<Delay 10>...<Delay 20> Ah...<Delay 10>
 M-<Delay 10>My head..."<Close><End of Block>
 <TextBlock 24 w:34 h:3>
 Elly
-"Ugh!...<Delay 30> Silence!
+"Ugh...!<Delay 30> Silence!
 Impertinent fool!<New>
 I will not listen
 to a Lamb..."<Close><End of Block>
 <TextBlock 25 w:16 h:2>
 Elly
-"Uuahh!"<Close><End of Block>
+"Agghh!"<Close><End of Block>
 <TextBlock 26 w:38 h:3>
 Elly
 "Sh-<Delay 10>Shut up!<New>
@@ -198,7 +196,7 @@ right...?"<Close><End of Block>
 <TextBlock 32 w:44 h:5>
 Rank
 "...No. Drive can
-only draw upon the
+only draw out the
 potential that already
 exists in her.<New>
 You're looking at

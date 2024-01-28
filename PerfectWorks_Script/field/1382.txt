@@ -1,6 +1,5 @@
-<TextBlock 1 w:44 h:2>
-Dost thou<Delay 50>
-desire the power?<Opcode 2 84><Close><End of Block>
+<TextBlock 1 w:54 h:1>
+Dost thou<Delay 16> desire the power?<Opcode 2 84><Close><End of Block>
 <TextBlock 2 w:38 h:4>
 Elly
 "N-No good <--> we're
@@ -74,11 +73,11 @@ of his!!"<Close><End of Block>
 Grahf
 "My fist is the divine
 breath!"<Close><End of Block>
-<TextBlock 15 w:50 h:4>
+<TextBlock 15 w:48 h:4>
 Grahf
 "Blossom, o fallen seed,
-and draw upon thy hidden
-powers!!"<Close><End of Block>
+as I bring forth thy
+hidden power!!"<Close><End of Block>
 <TextBlock 16 w:46 h:4>
 Grahf
 "I grant unto thee the
