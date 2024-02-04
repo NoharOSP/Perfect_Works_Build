@@ -1,7 +1,7 @@
-<TextBlock 1 w:44 h:3>
+<TextBlock 1 w:42 h:3>
 Fei
-"Where the hell
-are we?"<Close><End of Block>
+"So where the hell
+would this thing be?"<Close><End of Block>
 <TextBlock 2 w:50 h:2>
 Fei
 "Do you really doubt me?"<Close><End of Block>
@@ -36,10 +36,11 @@ Fei
 "!?
 What's this
 slimy stuff?"<Close><End of Block>
-<TextBlock 11 w:28 h:3>
+<TextBlock 11 w:26 h:4>
 Fei
-"Something the
-monster left?"<Close><End of Block>
+"Is it left
+behind by the
+monster?"<Close><End of Block>
 <TextBlock 12 w:20 h:2>
 Fei
 "Here...?"<Close><End of Block>
@@ -47,10 +48,11 @@ Fei
 Fei
 "What's this
 slimy stuff?"<Close><End of Block>
-<TextBlock 14 w:28 h:3>
+<TextBlock 14 w:26 h:4>
 Fei
-"Something the
-monster left?"<Close><End of Block>
+"Is it left
+behind by the
+monster?"<Close><End of Block>
 <TextBlock 15 w:42 h:4>
 Fei
 "It sure isn't human!
@@ -66,7 +68,7 @@ It's unlocked, but the
 door won't open..."<Close><End of Block>
 <TextBlock 18 w:52 h:3>
 Fei
-"Hey...<Delay 30>your left arm!<Delay 40>
+"Hey...<Delay 30>your right arm!<Delay 40>
 In that fight, you got<-->"<Close><End of Block>
 <TextBlock 19 w:8 h:3>
 Fei
@@ -91,7 +93,7 @@ Citan
 Well...<Delay 20>let us look around."<Close><End of Block>
 <TextBlock 25 w:52 h:3>
 Citan
-"...Something is <Delay 20>written <Delay 10>
+"...Something is <Delay 20>written<Delay 10>
 on the wall...<New>
 'Re...<Delay 60>
 Red...<Delay 30>monster...'"<Close><End of Block>
@@ -108,11 +110,11 @@ Citan
 <TextBlock 29 w:26 h:2>
 Citan
 "Look, here!"<Close><End of Block>
-<TextBlock 30 w:46 h:4>
+<TextBlock 30 w:40 h:4>
 Citan
-"Still...
-we cannot be sure...<Delay 30>
-but it is very likely."<Close><End of Block>
+"We cannot be sure,
+yet...<Delay 30>but it is very
+likely."<Close><End of Block>
 <TextBlock 31 w:30 h:3>
 Citan
 "How did it go?<Delay 30>
@@ -127,13 +129,12 @@ Citan
 "Hmm.
 I guess this
 is not it."<Close><End of Block>
-<TextBlock 34 w:40 h:4>
+<TextBlock 34 w:38 h:3>
 Rico
-"Let's look for this
-thing.<New>
-If there really is
-such a monster, then
-we'll talk."<Close><End of Block>
+"Let's look for it.<New>
+That is, if there
+even IS such a
+monster."<Close><End of Block>
 <TextBlock 35 w:36 h:2>
 Rico
 "What's wrong...?"<Close><End of Block>
@@ -259,7 +260,7 @@ Leonardo
 away..."<Opcode 2 2><Close><End of Block>
 <TextBlock 63 w:22 h:2>
 <Opcode 1 255>Leonardo
-"Uwaahhhh!"<Opcode 2 20><Close><End of Block>
+"Aaaagghh!"<Opcode 2 20><Close><End of Block>
 <TextBlock 64 w:44 h:4>
 Heinrich
 "Wasn't that a bit too
@@ -271,15 +272,15 @@ Heinrich
 like you...<New>
 Alright, you take
 that side."<Close><End of Block>
-<TextBlock 66 w:18 h:2>
+<TextBlock 66 w:16 h:2>
 Heinrich
-"Umph..."<Close><End of Block>
+"Hmm..."<Close><End of Block>
 <TextBlock 67 w:20 h:2>
 Heinrich
 "...Huh?" <Close><End of Block>
 <TextBlock 68 w:38 h:3>
 Heinrich
-"Hmm...<Delay 40>must just
+"Heh...<Delay 40>must just
 be my imagination."<Close><End of Block>
 <TextBlock 69 w:16 h:2>
 <Opcode 1 255>Heinrich

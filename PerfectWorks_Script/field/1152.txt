@@ -56,10 +56,9 @@ fortunate.<Close><End of Block>
 From the Church 
 of the Ethos?<Delay 10>
 Or perhaps<Delay 5>...<Close><End of Block>
-<TextBlock 10 w:36 h:3>
+<TextBlock 10 w:36 h:2>
 It does not matter
-which.<Delay 10>
-However<Delay 5>...<Close><End of Block>
+who.<Delay 10> However<Delay 5>...<Close><End of Block>
 <TextBlock 11 w:36 h:4>
 You mean...Ignas'
 equilibrium must
