@@ -155,9 +155,9 @@ Rico
 "From here, it's through
 the northeast door and
 near the east waterfall."<Close><End of Block>
-<TextBlock 38 w:54 h:2>
+<TextBlock 38 w:30 h:2>
 Rico
-"Yeah, it should be there."<Close><End of Block>
+"Yeah, surely."<Close><End of Block>
 <TextBlock 39 w:30 h:2>
 Rico
 "Move, dammit!"<Close><End of Block>

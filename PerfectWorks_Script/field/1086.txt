@@ -24,9 +24,10 @@ scene..."<Close><End of Block>
 <TextBlock 7 w:20 h:2>
 Fei
 "Here...?"<Close><End of Block>
-<TextBlock 8 w:26 h:2>
+<TextBlock 8 w:24 h:3>
 Fei
-"Is it here?"<Close><End of Block>
+"What's this
+place?"<Close><End of Block>
 <TextBlock 9 w:18 h:2>
 Fei
 "Umph<Delay 20>...<Opcode 2 30><Close><End of Block>
@@ -50,9 +51,9 @@ fell somewhere?"<Close><End of Block>
 Fei
 "It must have fallen
 somewhere."<Close><End of Block>
-<TextBlock 16 w:36 h:2>
+<TextBlock 16 w:40 h:2>
 Fei
-"Hmmm, this is..."<Close><End of Block>
+"Hmmm, this one...?"<Close><End of Block>
 <TextBlock 17 w:46 h:3>
 Fei
 "...Damn! No...<Delay 30>
@@ -88,12 +89,13 @@ Fei
 Fei
 "...!<Delay 20>
 Here!!"<Close><End of Block>
-<TextBlock 27 w:36 h:2>
+<TextBlock 27 w:30 h:3>
 Fei
-"Alright. Got it!"<Close><End of Block>
-<TextBlock 28 w:14 h:2>
+"Alright.
+Let's ring it!"<Close><End of Block>
+<TextBlock 28 w:10 h:2>
 Fei
-"Whoa!"<Opcode 2 10><Close><End of Block>
+"Oh!"<Opcode 2 10><Close><End of Block>
 <TextBlock 29 w:14 h:2>
 Fei
 <Opcode 1 255>"...!!"<Opcode 2 20><Close><End of Block>
@@ -152,9 +154,9 @@ know where it is?"<Close><End of Block>
 Citan
 "There is always slime
 near the murder scene.<New>
-And it only happens
-once at each scene,
-it seems."<Close><End of Block>
+What is more...
+it seems to be found at
+murder scenes only."<Close><End of Block>
 <TextBlock 43 w:54 h:4>
 Citan
 "Does this mean...<Delay 40>it will
@@ -164,10 +166,11 @@ place again?"<Close><End of Block>
 Citan
 "A bell...!?<Delay 30>
 A bell rang inside."<Close><End of Block>
-<TextBlock 45 w:44 h:3>
+<TextBlock 45 w:36 h:4>
 Citan
-"Anyhow, we must
-search for it now."<Close><End of Block>
+"In any case, we
+have no choice but
+to search."<Close><End of Block>
 <TextBlock 46 w:38 h:3>
 Citan
 "That certainly is
@@ -205,9 +208,10 @@ Among them, there
 must be one drain by
 which the monster
 comes and goes."<Close><End of Block>
-<TextBlock 54 w:40 h:2>
+<TextBlock 54 w:28 h:3>
 Citan
-"This is strange..."<Close><End of Block>
+"This place is
+suspicious..."<Close><End of Block>
 <TextBlock 55 w:28 h:3>
 Rico
 "What the hell
@@ -267,11 +271,11 @@ got it..."<Close><End of Block>
 <TextBlock 67 w:48 h:2>
 Rico
 "Whaddya talkin' about?"<Close><End of Block>
-<TextBlock 68 w:44 h:4>
+<TextBlock 68 w:38 h:4>
 Rico
-"If it was dropped we
-should've been able to
-find it."<Close><End of Block>
+"If it was dropped,
+it should be easy
+to find..."<Close><End of Block>
 <TextBlock 69 w:32 h:2>
 Rico
 "Are you ready?"<Close><End of Block>
@@ -294,9 +298,9 @@ Rico
 <TextBlock 74 w:16 h:2>
 Rico
 <Opcode 1 255>"What!?"<Opcode 2 10><Close><End of Block>
-<TextBlock 75 w:52 h:4>
+<TextBlock 75 w:48 h:4>
 Rico
-"This area should connect
+"This should be the door
 to the sewage treatment
 plant."<Close><End of Block>
 <TextBlock 76 w:42 h:3>
@@ -370,10 +374,11 @@ him for me?<New>
 If you need to know
 anything, ask me.<New>
 I'll help you."<Close><End of Block>
-<TextBlock 91 w:48 h:3>
+<TextBlock 91 w:44 h:3>
 Gramps
-"It's dangerous inside.
-You better not go in."<Close><End of Block>
+"It's dangerous
+further on in.<New>
+You should stay away."<Close><End of Block>
 <TextBlock 92 w:42 h:3>
 Gramps
 "The place where all

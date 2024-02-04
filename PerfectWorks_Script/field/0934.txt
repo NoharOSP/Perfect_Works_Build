@@ -12,28 +12,28 @@ Rank
 "What's wrong?
 Something
 bugging you?"<Close><End of Block>
-<TextBlock 5 w:52 h:4>
+<TextBlock 5 w:50 h:4>
 Elly
 "Sorry I'm so on edge.<New>
-Those self-detonating
-bombs are just air units
-with Keh-class bombs
-on board.<New>
+But those self-propelled
+bombs are just nav units
+attached to Keh-class
+aerial rounds.<New>
 I don't see why they
-need to use them all of
-a sudden...<New>
-There are just too many.
-One of those alone would
-have enough firepower, but
-eight of them is overkill.<New>
-They haven't told us our
-target yet, and we're not
-just going to drop them
-for fun.<New>
+need to use them all
+of a sudden... Or maybe
+I see it all too clearly.<New>
+As many as eight of
+those massive bombs?
+It's overkill.<New>
+The fact they aren't
+telling us the target
+means there's more
+to this.<New>
 You bet it's bugging me."<Close><End of Block>
-<TextBlock 6 w:32 h:3>
+<TextBlock 6 w:34 h:3>
 Helmholtz
-"Maybe a purge
+"Isn't it a purge
 of the Lambs?"<Close><End of Block>
 <TextBlock 7 w:48 h:4>
 Elly
@@ -77,14 +77,14 @@ with my father or
 family name."<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Rank
-"Well, if you ask me,
-a First-Class citizen
-thinking like this is...<New>
-a little unusual."<Close><End of Block>
-<TextBlock 14 w:40 h:3>
+"Well, well.<New>
+A First-Class citizen
+thinking like this is...
+surprising to me."<Close><End of Block>
+<TextBlock 14 w:36 h:3>
 Elly
-"Not really...
-It's quite natural."<Close><End of Block>
+"It's...not really
+that unusual."<Close><End of Block>
 <TextBlock 15 w:42 h:3>
 Helmholtz
 "...So, how about it?

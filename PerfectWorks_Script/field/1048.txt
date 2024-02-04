@@ -4,7 +4,7 @@ Fei
 Battling Arena."<Close><End of Block>
 <TextBlock 2 w:20 h:2>
 Fei
-"<Delay 5>...<Delay 5>Hmn!?"<Close><End of Block>
+"<Delay 5>...<Delay 5>Huh!?"<Close><End of Block>
 <TextBlock 3 w:56 h:4>
 Gate Keeper
 "Beyond here is the
@@ -57,10 +57,10 @@ Informationist
 "<Delay 5>...<Delay 5>Oh<Delay 5>...<Delay 5>well<Delay 5>...<Delay 15>
 Anything else you
 want to know?"<Close><End of Block>
-<TextBlock 11 w:52 h:4>
+<TextBlock 11 w:50 h:4>
 Receptionist
 "Today's Battling matches
-have all finished. <Delay 15> Please
+have all finished. <Delay 15>Please
 come again."<Close><End of Block>
 <TextBlock 12 w:60 h:1>
 Received 2500G in prize money!<Close><End of Block>
@@ -915,14 +915,13 @@ Hammer
 "Yo, bro~!<Delay 15>
 You forgot your mechanic!<Delay 15>
 Wait up a little!"<Opcode 2 75><Close><End of Block>
-<TextBlock 171 w:52 h:4>
+<TextBlock 171 w:50 h:4>
 Rue
 "Welcome to the Battling
-Arena<Delay 5>...<Delay 5>
-Fei, sir<Delay 5>...<New>
-Several days ago you were
-adamant about not piloting
-Gears<Delay 5>...<New>
+Arena, <Delay 5>Fei, sir.<New>
+But a few days ago you
+were adamant about not
+piloting Gears<Delay 5>...<New>
 Has something happened in
 the last few days to make
 you change your mind in
@@ -996,9 +995,9 @@ a machine for you<Delay 5>...<Delay 15><New>
 What, did you forget?"<Close><End of Block>
 <TextBlock 185 w:54 h:4>
 Fei
-"Oh, <Delay 5>err<Delay 5>...<Delay 15>
+"Ah, <Delay 5>no<Delay 5>...<Delay 15>
 The Gear I'm going to pilot
-will be, <Delay 5>err<Delay 5>..."<Close><End of Block>
+will be, <Delay 5>uhh<Delay 5>..."<Close><End of Block>
 <TextBlock 186 w:38 h:3>
 Rue
 "Well, come on now.
@@ -1147,7 +1146,7 @@ Keep up the good work!"<Close><End of Block>
 <TextBlock 208 w:56 h:5>
 Receptionist
 "Wow, you're sooo strooong!
-Boy, was he ever outmatched!
+Boy, were they outmatched!
 Ooh, I'm dumbfounded by your
 overwhelming power!"<Close><End of Block>
 <TextBlock 209 w:52 h:4>

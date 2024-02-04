@@ -93,11 +93,11 @@ Citan
 "Well,<Delay 5> if everything is
 ready,<Delay 5> then why not
 take a light nap?"<Close><End of Block>
-<TextBlock 19 w:48 h:4>
+<TextBlock 19 w:38 h:4>
 Citan
-"So, you are now free in
-both name<Delay 15>...<Delay 5>and reality,<Delay 5>
-right?"<Close><End of Block>
+"So, you are<Delay 15> well
+and truly a free
+man...are you not?"<Close><End of Block>
 <TextBlock 20 w:36 h:4>
 Hammer
 "So, <Delay 5>what are you

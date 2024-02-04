@@ -310,7 +310,7 @@ it out through experience."<Close><End of Block>
 Fei
 "Wait!<Delay 15> Why is it that you
 have the same fighting
-style as I!?<New>
+style as me!?<New>
 And how do you know my
 name!?<Delay 15> Tell me!"<Close><End of Block>
 <TextBlock 47 w:24 h:3>
@@ -362,9 +362,9 @@ Wiseman
 "I see<Delay 5>...<Delay 30> Given your
 injured state, it would
 not be surprising<Delay 5>..."<Close><End of Block>
-<TextBlock 57 w:20 h:2>
+<TextBlock 57 w:24 h:2>
 Fei
-"Wiseman?"<Close><End of Block>
+"Wiseman..."<Close><End of Block>
 <TextBlock 58 w:50 h:4>
 Wiseman
 "<Delay 5>...<Delay 5>Khan Wong.<New>
@@ -500,7 +500,7 @@ care for his son.<New>
 I provided you with the
 necessary first aid and
 left you in the custody
-of those village people.<New>
+of the nearby villagers.<New>
 Then I followed after
 Khan."<Close><End of Block>
 <TextBlock 79 w:40 h:4>
@@ -704,12 +704,11 @@ that thing and I<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 114 w:38 h:2>
 Citan
 "I would not know."<Close><End of Block>
-<TextBlock 115 w:48 h:4>
+<TextBlock 115 w:44 h:4>
 Citan
-"But I can assure you
-that this has something
-to do with that incident<New>
-with Av<Delay 5>...<Delay 5>"<Close><End of Block>
+"But it no doubt has
+something to do with
+the incident in Av<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 116 w:50 h:4>
 Citan
 "Well, regardless of what

@@ -49,9 +49,9 @@ This will be a
 good fight."<Close><End of Block>
 <TextBlock 10 w:46 h:4>
 Elly
-"Wait! Tell me what our
-target is!
-Surely you know."<Close><End of Block>
+"Wait! What is the
+target of this mission?
+Surely you know?"<Close><End of Block>
 <TextBlock 11 w:52 h:3>
 Dominia
 "That's restricted...<Delay 30>

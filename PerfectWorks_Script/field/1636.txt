@@ -51,10 +51,10 @@ Karellen
 Citan
 "If it does not
 come to pass...?"<Close><End of Block>
-<TextBlock 9 w:34 h:4>
+<TextBlock 9 w:38 h:4>
 Citan
-"Yes.<Delay 10> Twice<Delay 5>...<Delay 5>or
-more accurately,
+"Yes.<Delay 10> Twice<Delay 5>...<Delay 5>
+Or more accurately,
 three times."<Close><End of Block>
 <TextBlock 10 w:50 h:3>
 Citan

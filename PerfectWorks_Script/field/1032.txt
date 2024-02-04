@@ -210,7 +210,7 @@ see, huh, Kid?"<Close><End of Block>
 <TextBlock 38 w:48 h:4>
 Rico
 "For the sake of my men,
-I am about to check out
+I'm about to check out
 the sewers.<New>
 I've said what I
 wanted to say<Delay 5>..."<Close><End of Block>
@@ -301,10 +301,10 @@ Fei
 "Doc<Delay 5>...<Delay 15>
 What happened to me<Delay 5>...?<Delay 15>
 How did I get here<Delay 5>...?"<Close><End of Block>
-<TextBlock 58 w:52 h:4>
+<TextBlock 58 w:50 h:4>
 Citan
-"During the Battling match
-<Delay 5>...<Delay 5>there was a sudden
+"During the Battling
+match,<Delay 10> there was a sudden
 explosion<Delay 5>...<Delay 5>remember?"<Close><End of Block>
 <TextBlock 59 w:46 h:4>
 Fei
@@ -457,8 +457,8 @@ an accident, but it really
 was meant to kill Fei<Delay 5>...<New>
 But why tell us now?<Delay 15>
 Did they come clean and
-confess the crimes they
-committed?"<Close><End of Block>
+confess the crime they
+had committed?"<Close><End of Block>
 <TextBlock 86 w:56 h:4>
 Rico
 "...They're no
@@ -518,12 +518,11 @@ If you become weak, you
 die<Delay 5>...<Delay 5> That's providence!<New>
 But five Battlers were
 killed in a row!<Delay 15>
-It's unprecedented and that
-alone casts doubt on you.<New>
-To say that I don't doubt
-you would be lying, but
-I don't think you are
-guilty, either.<New>
+It's unprecedented.<New>
+Based on that alone, I'd be
+lying if I said I don't
+doubt you, but I don't
+think you're guilty either.<New>
 The only thing that can
 prove your innocence is
 if there is any truth in
@@ -1171,7 +1170,7 @@ Citan
 What is wrong!?"<Close><End of Block>
 <TextBlock 196 w:52 h:4>
 Fei
-"Errh,<Delay 10> arrh<Delay 5>...<Delay 5> Doc?<Delay 15>
+"Uh...<Delay 10> Umm<Delay 5>...<Delay 5> Doc?<Delay 15>
 Wh-<Delay 5>Wh-<Delay 5>What just happened?<Delay 10>
 Wh-<Delay 5>What<Delay 10> was that?"<Close><End of Block>
 <TextBlock 197 w:54 h:4>
