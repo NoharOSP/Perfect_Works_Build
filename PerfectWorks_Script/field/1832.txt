@@ -1,169 +1,180 @@
-<TextBlock 1 w:50 h:3>
+<TextBlock 1 w:28 h:3>
 Elly
-"They're catching up with
-us!!"<Opcode 2 30><Close><End of Block>
+"It's catching
+up with us!!"<Opcode 2 30><Close><End of Block>
 <TextBlock 2 w:8 h:2>
 Elly
 "!!"<Opcode 2 30><Close><End of Block>
-<TextBlock 3 w:34 h:2>
+<TextBlock 3 w:34 h:3>
 Ramsus
-"Slow, too slow!"<Opcode 2 30><Close><End of Block>
-<TextBlock 4 w:52 h:2>
+"Slow!<Delay 10>
+You're too slow!"<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:46 h:3>
 Ramsus
-"Your performance is sad!"<Opcode 2 30><Close><End of Block>
-<TextBlock 5 w:24 h:2>
+"The performance really
+is different!"<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:40 h:2>
 Ramsus
-"Elehayym<Delay 5>?"<Close><End of Block>
-<TextBlock 6 w:50 h:4>
+"Elehayym, you say?"<Close><End of Block>
+<TextBlock 6 w:40 h:4>
 Karellen
-"Yes.<Delay 10> This is the place.<Delay 10>
-I want you to
-bring her here.<New>
-She is an important woman
-to me."<Close><End of Block>
-<TextBlock 7 w:42 h:4>
+"Yes.<Delay 10> This is her
+location.<Delay 10> I want you
+to bring her back.<New>
+She is an important
+woman to me."<Close><End of Block>
+<TextBlock 7 w:44 h:4>
 Ramsus
-"Don't be ridiculous.<Delay 10>
-Why do I have to
-listen to you?<New>
-If you need her,
-go get her yourself!"<Close><End of Block>
-<TextBlock 8 w:46 h:5>
+"You can't be serious.<Delay 10>
+Why should I be your
+errand boy?<New>
+If the woman is so
+vital, go out there
+yourself."<Close><End of Block>
+<TextBlock 8 w:30 h:4>
 Karellen
-"You're quite right.<Delay 10>
-But, can you say
-the same thing
-after looking at this?"<Close><End of Block>
+"A perfectly
+understandable
+response.<New>
+But can you say
+the same after
+seeing this?"<Close><End of Block>
 <TextBlock 9 w:32 h:2>
 Ramsus
-"Th,<Delay 10> this is<Delay 5>..."<Close><End of Block>
-<TextBlock 10 w:42 h:4>
+"Wh-<Delay 10>What is<Delay 5>...?"<Close><End of Block>
+<TextBlock 10 w:36 h:5>
 Karellen
-"Your Gear and the
-Vessel of Anima have 
-been aligned<Delay 5>...<Delay 10><New>
-This is the Omnigear.<Delay 10>
-Now, she is
-with Fei now."<Close><End of Block>
+"I had your Gear
+aligned with a
+Vessel of Anima...<Delay 10>
+It's an Omnigear.<New>
+Also,<Delay 10> she is
+currently with
+Fei."<Close><End of Block>
 <TextBlock 11 w:16 h:2>
 Ramsus
 "What!?"<Close><End of Block>
-<TextBlock 12 w:52 h:4>
+<TextBlock 12 w:54 h:4>
 Karellen
-"Losing those battles
-against Fei again and
-again<Delay 5>...<Delay 10><New>
-I believe<Delay 10> it's because of
-the difference<Delay 5>
-in the performance
-of the Gears.<New>
-I think<Delay 5> you'll be
-able to use 100% of it's
-abilities.<New>
-So how about it?<Delay 10>
-However, if you still fail
-with this,
-you are truly 'trash'."<Close><End of Block>
+"Defeat after defeat
+against Fei...<New>
+It's entirely down to
+the difference in the
+performance of the Gears...
+That's what I think.<New>
+So how about it?
+Will you draw forth this
+power to its fullest?<New>
+Of course,<Delay 10> if you don't
+win with this, then you
+truly are 'trash'."<Close><End of Block>
 <TextBlock 13 w:12 h:2>
 Ramsus
 "<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 14 w:44 h:2>
+<TextBlock 14 w:34 h:3>
 Karellen
-"Ramsus,<Delay 10> will you go?"<Close><End of Block>
-<TextBlock 15 w:44 h:2>
+"Will you do this
+for me, Ramsus?"<Close><End of Block>
+<TextBlock 15 w:40 h:2>
 Myyah
-"Carl,<Delay 10> are you going?"<Close><End of Block>
-<TextBlock 16 w:42 h:4>
+"Will you go, Carl?"<Close><End of Block>
+<TextBlock 16 w:38 h:5>
 Ramsus
 "Yes.<Delay 10>
-I must get rid of him
-with my own hands."<Close><End of Block>
+All I need is to
+get rid of him with
+my own hands."<Close><End of Block>
 <TextBlock 17 w:54 h:4>
 Myyah
 "Be careful.<Delay 10>
-I believe in you
-no matter what others say."<Close><End of Block>
+No matter what anyone says,
+I believe in your power."<Close><End of Block>
 <TextBlock 18 w:50 h:4>
-'Fei'!<Delay 20>
-What a loathsome name.<Delay 20>
-I worked my way up on
-my own.<New>
-But he ruined it again<Delay 5>...<Close><End of Block>
-<TextBlock 19 w:40 h:3>
+         'Fei'!<Delay 20>
+ How I loathe that name.<Delay 20>
+  The name that spurns
+   my very existence.<New>
+    I made it to the
+     top on my own.<Delay 20>
+   But because of him,
+     once again I...<Close><End of Block>
+<TextBlock 19 w:38 h:3>
 Ramsus
 "!?<Delay 10>
-That signal...!<New>
+That Gear shape...!<New>
 It's him!<Delay 10>
 I'm not trash!
-I'm not worthless!!"<Close><End of Block>
-<TextBlock 20 w:44 h:3>
+I'm not!"<Close><End of Block>
+<TextBlock 20 w:30 h:4>
 Fei
-"What kinda...<Delay 5><Delay 10>Gear is 
-that<Delay 5>...?"<Close><End of Block>
+"Huh...<Delay 10>
+What kinda Gear
+is that...?"<Close><End of Block>
 <TextBlock 21 w:4 h:1>
 !!<Close><End of Block>
-<TextBlock 22 w:56 h:4>
+<TextBlock 22 w:44 h:4>
 Elly
-"Omnigear!!
-And according to the
-readings<Delay 5>...<New>
-It's clearly different from 
-the one Bart's using or
-the one in Shevat<Delay 5>...<New>
-<Delay 5>...You think it's the!?<Delay 10>
-Perfect Gear!?"<Close><End of Block>
+"An Omnigear!!<New>
+And according to
+these readings...<New>
+it's very different
+from the one that's
+paired to Bart or
+the one in Shevat...<New>
+...Can it be!?<Delay 10> Is this
+a perfect link!?"<Close><End of Block>
 <TextBlock 23 w:32 h:1>
-Perfect Gear<Delay 5>...?<Close><End of Block>
-<TextBlock 24 w:56 h:3>
+Perfect link<Delay 5>...?<Close><End of Block>
+<TextBlock 24 w:54 h:3>
 Elly
-"Remember what Citan said?<New>
-He said that
-the Omnigears are controlled
-by mental waves.<New>
-The power...the potential
-varies depending on the
-rate of synchronism.<New>
-The numbers indicate
-complete synchronization."<Close><End of Block>
-<TextBlock 25 w:46 h:3>
+"Remember what Citan
+was saying?<New>
+An Omnigear is controlled
+by a person's mental waves.<New>
+That strength...
+Its potential varies in
+proportion to attunement.<New>
+From the readings,
+it's like this one is
+synchronized perfectly."<Close><End of Block>
+<TextBlock 25 w:36 h:3>
 Ramsus
-"Hmph<Delay 5>...<Delay 10>
-I knew you'd be there."<Close><End of Block>
+"I've been looking
+for you, Fei!"<Close><End of Block>
 <TextBlock 26 w:20 h:2>
 Fei
 "Ramsus!?"<Close><End of Block>
-<TextBlock 27 w:36 h:3>
+<TextBlock 27 w:42 h:3>
 Ramsus
-"Turn Lt. Elehayym<Delay 10>
-over to me,<Delay 10> Fei!"<Close><End of Block>
-<TextBlock 28 w:52 h:4>
+"You will hand Lt.
+Elehayym over to me!"<Close><End of Block>
+<TextBlock 28 w:48 h:3>
 Fei
-"What!? Why do we have to
-turn Elly over to you...!?<New>
-Oh, I get it, it's
-Karellen's idea, isn't it?<New>
-I don't think so!
-You can't expect me
-to comply!"<Close><End of Block>
-<TextBlock 29 w:50 h:4>
+"What!? Why would we<-->?<New>
+!?
+Oh, I get it <-->
+this is Karellen's idea?<New>
+Get serious!<Delay 10> Like hell
+can I agree to that!"<Close><End of Block>
+<TextBlock 29 w:46 h:4>
 Ramsus
-"I can take her by force,
-if you wish.<New>
-But<Delay 5> then,<Delay 5>
-don't ever expect to be
-able to hold her in your
-arms<Delay 10> ever again!"<Close><End of Block>
-<TextBlock 30 w:10 h:2>
-Stop this,
-Commander!!<Close><End of Block>
+"So you'd rather I take
+her away by force?<New>
+Well,<Delay 5> when I do,<Delay 5>
+don't expect to be
+able to hold her in
+your arms ever again!"<Close><End of Block>
+<TextBlock 30 w:14 h:2>
+Elly
+"Fei!!"<Close><End of Block>
 <TextBlock 31 w:36 h:3>
 Fei
-"Don't worry.<Delay 10>
+"It's okay.<Delay 10>
 I'll protect you."<Close><End of Block>
 <TextBlock 32 w:40 h:3>
 Ramsus
 "Impressive words.<New>
-Fei, I intend to
+Fei, I'm going to
 take everything away
 from you!!"<Close><End of Block>
 <TextBlock 33 w:0 h:1>

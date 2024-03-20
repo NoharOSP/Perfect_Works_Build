@@ -270,28 +270,27 @@ join you,<Delay 5> pirate boss."<Close><End of Block>
 Bart
 "Ah, I guess that'd be
 alright..."<Close><End of Block>
-<TextBlock 29 w:46 h:2>
-I thought it was about
-time for you to come...<Close><End of Block>
-<TextBlock 30 w:42 h:4>
+<TextBlock 29 w:50 h:2>
+I had a feeling you would
+be along any time now...<Close><End of Block>
+<TextBlock 30 w:38 h:3>
 Elly
 "It's no use trying
-to stop me.<New>
-Even if it is you,
-if you get in my way,
-I have no choice but
-to...!!"<Close><End of Block>
-<TextBlock 31 w:52 h:4>
+to stop us.<New>
+Even you...<Delay 5>
+If you get in our
+way, I'll<-->!!"<Close><End of Block>
+<TextBlock 31 w:42 h:4>
 Citan
-"That is no way for a lady
-to speak.<Delay 10> I just came here
-to see you off."<Close><End of Block>
+"That is no way for a
+lady to speak.<Delay 10> I only
+came to see you off."<Close><End of Block>
 <TextBlock 32 w:2 h:1>
 ?<Opcode 2 20><Close><End of Block>
-<TextBlock 33 w:50 h:4>
+<TextBlock 33 w:46 h:4>
 Citan
 "I refueled <Weltall>.<Delay 10>
-We are ready to go
+It is ready to go
 anytime."<Close><End of Block>
 <TextBlock 34 w:22 h:2>
 Elly
@@ -299,84 +298,95 @@ Elly
 <TextBlock 35 w:50 h:4>
 Citan
 "...But,<Delay 10> Elly,<Delay 10> you cannot
-use your Gear while it is
-under repairs."<Close><End of Block>
-<TextBlock 36 w:52 h:2>
+use your Gear since it
+is under repair."<Close><End of Block>
+<TextBlock 36 w:42 h:3>
 Elly
-"What?<Delay 10> Then<Delay 10> what am I...?"<Close><End of Block>
-<TextBlock 37 w:52 h:3>
+"Oh...<Delay 10>
+Then<Delay 10> what will I...?"<Close><End of Block>
+<TextBlock 37 w:52 h:4>
 Citan
-"You know that Omnigear...<Delay 10>
-What if you borrow it..."<Close><End of Block>
-<TextBlock 38 w:44 h:4>
+"There is that Omnigear...<Delay 10>
+If you were to borrow
+that..."<Close><End of Block>
+<TextBlock 38 w:40 h:4>
 Fei
-"No way.<Delay 10> I can't take
-Shevat's property
-without permission..."<Close><End of Block>
-<TextBlock 39 w:36 h:4>
+"No way.<New>
+We couldn't possibly
+take something of
+Shevat's without
+permission..."<Close><End of Block>
+<TextBlock 39 w:38 h:4>
 Citan
 "Elly is the only
-appropriate person
-for the Gear.<New>
-Nobody else can
-operate it."<Close><End of Block>
+one compatible with
+that machine.<New>
+In any case, nobody
+else can pilot it,
+so it makes no
+difference."<Close><End of Block>
 <TextBlock 40 w:10 h:1>
 No...<Close><End of Block>
-<TextBlock 41 w:48 h:3>
+<TextBlock 41 w:34 h:4>
 Elly
-"Never!!
-I won't ride it, ever!!"<Close><End of Block>
+"No!!
+I don't want to
+pilot it, ever!!"<Close><End of Block>
 <TextBlock 42 w:28 h:3>
 Fei
 "Elly...?<Delay 10>
 What's wrong?"<Close><End of Block>
-<TextBlock 43 w:44 h:4>
+<TextBlock 43 w:44 h:3>
 Elly
-"I'm so scared...<Delay 20>
-That's why...<Delay 10> I'll
-never want to do it!!"<Close><End of Block>
-<TextBlock 44 w:44 h:3>
+"For some reason
+I'm really afraid...<New>
+So...<Delay 10>
+So I'll never do it!!"<Close><End of Block>
+<TextBlock 44 w:30 h:3>
 Citan
-"This is a problem...<New>
-Alright, why don't
-you ride in <Weltall>
-with Fei, then?"<Close><End of Block>
-<TextBlock 45 w:28 h:2>
-How about if I
-ride with you?<Close><End of Block>
+"Well this is
+quite a fix..."<Close><End of Block>
+<TextBlock 45 w:40 h:2>
+How about you two
+just share the ride?<Close><End of Block>
 <TextBlock 46 w:28 h:2>
 Fei
 "Everyone...?"<Close><End of Block>
-<TextBlock 47 w:28 h:2>
+<TextBlock 47 w:22 h:3>
 Bart
-"Sorry...<Delay 10>Fei."<Close><End of Block>
-<TextBlock 48 w:28 h:2>
+"Fei...<Delay 10>
+I'm sorry."<Close><End of Block>
+<TextBlock 48 w:32 h:2>
 Billy
-"I'm sorry..."<Close><End of Block>
+"I apologize..."<Close><End of Block>
 <TextBlock 49 w:20 h:2>
 Margie
 "Sorry..."<Close><End of Block>
 <TextBlock 50 w:36 h:3>
 Fei
-"No...<Delay 10>
+"It's alright...<Delay 10>
 Thanks, everyone."<Close><End of Block>
-<TextBlock 51 w:48 h:4>
+<TextBlock 51 w:42 h:4>
 Citan
-"Now, I know you hate to
-leave, but we should get
-going before dawn.<New>
-I did some work on the
-radar, so it
-should work fine!"<Close><End of Block>
-<TextBlock 52 w:44 h:2>
+"Now, I know going
+our separate ways
+is difficult,<New>
+but dawn is almost
+upon us.<New>
+I did some work on
+the radar, so I think
+you will be fine!"<Close><End of Block>
+<TextBlock 52 w:28 h:3>
 Citan
-"...They have left..."<Close><End of Block>
-<TextBlock 53 w:32 h:2>
+"...Well, they
+are gone..."<Close><End of Block>
+<TextBlock 53 w:36 h:2>
 Emeralda
-"Fei<Delay 5>...<Delay 10>where<Delay 5>..."<Close><End of Block>
-<TextBlock 54 w:42 h:2>
+"Fei<Delay 5>...<Delay 10> Where<Delay 5>...?"<Close><End of Block>
+<TextBlock 54 w:30 h:3>
 Citan
-"They went far away."<Close><End of Block>
+"They have gone
+far away."<Close><End of Block>
 <TextBlock 55 w:22 h:2>
 Emeralda
 "I<Delay 5>...<Delay 10>go<Delay 5>..."<Close><End of Block>

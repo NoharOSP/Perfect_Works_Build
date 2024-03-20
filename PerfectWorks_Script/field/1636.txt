@@ -91,21 +91,22 @@ Citan
 order...?"<Close><End of Block>
 <TextBlock 17 w:38 h:4>
 Citan
-"Yes, your Majesty.
+"Yes, Your Majesty.
 This is the answer
-I was led to."<Close><End of Block>
-<TextBlock 18 w:34 h:4>
+I have arrived at."<Close><End of Block>
+<TextBlock 18 w:36 h:4>
 Citan
 "Yes.<New>
-Humans have that
-potential. There
-is no need for
-stewards now."<Close><End of Block>
-<TextBlock 19 w:42 h:4>
+Humans have
+the potential.<Delay 10>
+Overseers are no
+longer necessary."<Close><End of Block>
+<TextBlock 19 w:30 h:3>
 Citan
-"That is correct. It
-is as Your Majesty
-says, if Fei..."<Close><End of Block>
+"No.<New>
+Not if, as Your
+Majesty says,
+Fei is he..."<Close><End of Block>
 <TextBlock 20 w:56 h:4>
 Emperor
 "Yes,<Delay 64> the Gospel.<New>
@@ -172,24 +173,25 @@ Emperor
 Emperor
 "Their decision...<Delay 23>
 has been handed down..."<Close><End of Block>
-<TextBlock 32 w:32 h:4>
+<TextBlock 32 w:32 h:3>
 Emperor
 "So this is your
 conclusion...?"<Close><End of Block>
-<TextBlock 33 w:48 h:3>
+<TextBlock 33 w:34 h:4>
 Emperor
-"Ahnenerbe...
-You say it is possible?"<Close><End of Block>
-<TextBlock 34 w:38 h:3>
+"Ahnenerbe...<Delay 10>
+You are saying it
+is possible?"<Close><End of Block>
+<TextBlock 34 w:42 h:3>
 Emperor
-"The Contact is not
-our enemy?"<Close><End of Block>
-<TextBlock 35 w:40 h:4>
+"And the Contact will
+not be our enemy?"<Close><End of Block>
+<TextBlock 35 w:36 h:3>
 Emperor
-"If he is, I shall
-entrust them to him.<New>
-That is all I can do 
-to atone..."<Close><End of Block>
+"Then I will put
+my trust in him...<New>
+That is all I can
+do to atone..."<Close><End of Block>
 <TextBlock 36 w:30 h:3>
 Emperor Cain
 "Ramsus......

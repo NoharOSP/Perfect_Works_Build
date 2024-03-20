@@ -389,9 +389,9 @@ The Yggdrasil is nothing
 without the young master!<New>
 Full power!!
 Maximum speed!!"<Close><End of Block>
-<TextBlock 78 w:46 h:3>
+<TextBlock 78 w:32 h:3>
 Sigurd
-"Eeeeeaaaaarrrrgghh!!!!
+"Rrraaaagghh!!!!
 Come on, GO!!!"<Opcode 2 64><Close><End of Block>
 <TextBlock 79 w:38 h:3>
 Sigurd

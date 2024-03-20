@@ -117,12 +117,12 @@ Sigurd
 <TextBlock 23 w:40 h:4>
 Maison
 "Master Sigurd!<Delay 10>
-But, for a gent like
+B-But...a gent like
 the good Doctor...?"<Close><End of Block>
 <TextBlock 24 w:36 h:3>
 Sigurd
-"It's fine.<Delay 10>
-He'll be okay.<New>
+"It's alright.<Delay 10>
+He'll be fine.<New>
 It may not even be
 enough for him."<Close><End of Block>
 <TextBlock 25 w:34 h:1>

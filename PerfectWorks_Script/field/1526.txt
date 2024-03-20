@@ -1,119 +1,129 @@
-<TextBlock 1 w:50 h:3>
-That is Lacan...
-No, the dark one.
-Grahf's second advent!<New>
-We must restrain and seal
-him up otherwise we don't
-know what may occur!<Close><End of Block>
-<TextBlock 2 w:50 h:3>
+<TextBlock 1 w:48 h:3>
+He is the second advent
+of Lacan<--> No, of Grahf,
+the man in black!<New>
+We must imprison
+him immediately,<New>
+or there's no telling
+what kind of situation
+he'll bring about!
+<Close><End of Block>
+<TextBlock 2 w:42 h:4>
 Zephyr
 "Cease this at once!<New>
-May we at least wait for
-Wiseman to return before
-we make any resolutions?"<Close><End of Block>
-<TextBlock 3 w:54 h:4>
-Although a tactician, why
-do you place so much
-importance on him?<New>
-I have been silent all this
-time since Khan's death,
-since he was directly
-recruited by the Queen.<New>
-However, I question why you
-would use such a person
-whose principles lack any
-understanding of sacrifice?<Close><End of Block>
-<TextBlock 4 w:36 h:2>
+Can we not at least
+wait for Wiseman to
+return before we make
+a decision?"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+A tactician he may be, but
+why so concerned with him?<New>
+I remained silent when I
+heard that he had been
+appointed after the late
+Khan at your insistence,<New>
+but why choose someone
+we know basically nothing
+about?<Close><End of Block>
+<TextBlock 4 w:34 h:2>
 Zephyr
-"Well, that is..."<Close><End of Block>
-<TextBlock 5 w:50 h:3>
-You must look at reality!
-The existence of that
+"Well, that is<-->"<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+We must face up to reality!
+To the existence of that
 power!<Close><End of Block>
-<TextBlock 6 w:38 h:4>
+<TextBlock 6 w:36 h:3>
 Bart
-"Hold on, hold on.
-What's this Grahf's
-second advent?"<Close><End of Block>
-<TextBlock 7 w:54 h:4>
-The Day of the Collapse
-was brought upon by Grahf.
-Grahf manipulated Diabolos
-into destroying this world.<New>
-And that power within Id is
-far too similar to Grahf's.
+"Hold on, hold on.<New>
+What's all this
+about a second
+advent of Grahf?"<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+The Day of Collapse was
+Grahf's doing.<New>
+It was Grahf who commanded
+the Diabolos and had them
+destroy this world.<New>
+And Id's power is all
+too similar to Grahf's.
 We cannot allow such a
-hazard to be set free.<New>
-We ought to immediately
-freeze him in carbonite.
-Otherwise, expect the
-worst at any moment...<Close><End of Block>
-<TextBlock 8 w:42 h:4>
+threat to roam free.<New>
+We must freeze him in
+carbonite immediately.
+Otherwise, he could<--><Close><End of Block>
+<TextBlock 8 w:38 h:4>
 Elly
-"No...!
-But isn't the present
-Fei the real Fei?<New>
+"No...!<Delay 10>
+At the moment, Fei
+is Fei, right?<New>
 If that's the case,
-then why..."<Close><End of Block>
-<TextBlock 9 w:52 h:3>
-But he is still far too
-dangerous! Think about it.<New>
-He single-handedly
-annihilated the Solaris
-capital!<New>
-We can't set him free!<Close><End of Block>
-<TextBlock 10 w:54 h:4>
+then<-->"<Close><End of Block>
+<TextBlock 9 w:48 h:3>
+But he is far
+too dangerous!<New>
+Think about it <-->
+he destroyed the Solaris
+Capital single-handedly!<New>
+We cannot let him
+remain at large!<Close><End of Block>
+<TextBlock 10 w:48 h:4>
 Jessie
 "Not only that.<New>
-In the past, there were
-countless other cities
-that were destroyed by Id.<New>
-I don't know their
-intentions, but Grahf
-and Karellen were always
-involved somehow.<New>
-And one of those incidents
-was Elul.<New>
-It was Dominia's homeland.<New>
-Solaris' purging of the
-rebelling city of Elul was
-done through the use of Id.
-To test his capabilities.<New>
-As a result, not only was
-Elul taken down, all the
-Solaris units present
-were wiped out..."<Close><End of Block>
+In the past, countless
+cities have been crushed
+by this Id.<New>
+Though I don't know
+their intentions,
+Grahf and Karellen were
+always involved.<New>
+Once such place is Elul.
+Homeland of Dominia from
+the Elements.<New>
+The purge of Elul,
+which had rebelled
+against Solaris, was
+carried out by Id.<New>
+To determine his
+abilities.<New>
+In the end, it wasn't
+just Elul <--><New>
+the Solaris unit that
+happened to be present
+was completely wiped
+out too..."<Close><End of Block>
 <TextBlock 11 w:46 h:3>
 Bart
-"He's responsible for
-the Ygg's...and our..."<Close><End of Block>
-<TextBlock 12 w:44 h:4>
+"He attacked the Ygg...<Delay 10>
+attacked us..."<Close><End of Block>
+<TextBlock 12 w:42 h:4>
 Rico
-"So he was the one who
-killed my subordinates
-in the sewers..."<Close><End of Block>
-<TextBlock 13 w:54 h:4>
+"And my henchmen
+who got killed in
+the sewers...<New>
+I knew it was him..."<Close><End of Block>
+<TextBlock 13 w:40 h:4>
 Elly
-"What's wrong with you all?
-Aren't we supposed to be
-his friends!?"<Close><End of Block>
-<TextBlock 14 w:52 h:4>
+"What's wrong with
+you all!? Aren't you
+his comrades!?"<Close><End of Block>
+<TextBlock 14 w:50 h:4>
 Citan
-"It appears everyone else
-is in agreement... The
-risks are far too great."<Close><End of Block>
-<TextBlock 15 w:36 h:4>
+"It appears they are all
+in agreement...
+The risks are too great."<Close><End of Block>
+<TextBlock 15 w:32 h:4>
 Elly
 "Citan!?
 No...
-That is terrible!"<Close><End of Block>
+It's too cruel!"<Close><End of Block>
 <TextBlock 16 w:12 h:2>
 Zephyr
 "..."<Close><End of Block>
-<TextBlock 17 w:52 h:3>
-It's decided then.
-He will be scheduled for
-carbon freezing, tomorrow.<Close><End of Block>
+<TextBlock 17 w:44 h:4>
+It is decided.<Delay 10>
+In which case, he
+will undergo carbonite
+freezing tomorrow!!<Close><End of Block>
 <TextBlock 18 w:62 h:4>
 That which the Gazel Ministry
 of Solaris desperately seeks...

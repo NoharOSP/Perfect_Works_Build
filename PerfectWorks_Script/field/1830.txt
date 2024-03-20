@@ -1,18 +1,19 @@
-<TextBlock 1 w:52 h:3>
+<TextBlock 1 w:52 h:6>
 Fei
 "Damn<Delay 5>...<Delay 5> <Delay 10>The bleeding...
-The bleeding won't stop<Delay 5>...<New>
-If<Delay 10> things don't change<Delay 5>...<Delay 5>
+The bleeding won't stop<Delay 5>...<Delay 5>
+At this rate<Delay 5>...<Delay 5>
 At this rate Elly's not
 gonna make it<Delay 5>...<Delay 5>!"<Close><End of Block>
-<TextBlock 2 w:20 h:2>
+<TextBlock 2 w:22 h:2>
 Elly
-"<Delay 5>...<Delay 5>Uh<Delay 5>..."<Close><End of Block>
-<TextBlock 3 w:42 h:4>
+"<Delay 5>...<Delay 5>Ugh<Delay 5>..."<Close><End of Block>
+<TextBlock 3 w:42 h:6>
 Fei
 "Elly!<Delay 10> Hang in there!<Delay 10>
 Elly!<Delay 10> I'll save you,<Delay 10>
-I promise!<New>
+I'll save you no
+matter what!<Delay 10>
 Elly<Delay 5>...!!"<Close><End of Block>
 <TextBlock 4 w:42 h:2>
 Fei

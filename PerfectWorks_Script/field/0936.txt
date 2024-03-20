@@ -7,7 +7,7 @@ in the base!<Opcode 2 20><Close><End of Block>
 <Opcode 14 1>...presently heading<Delay 10>
 for the dock area.<Opcode 2 20><Close><End of Block>
 <TextBlock 4 w:56 h:1>
-<Opcode 14 1>The two men may be killed...<Opcode 2 30><Close><End of Block>
+<Opcode 14 1>Kill the two men on sight...<Opcode 2 30><Close><End of Block>
 <TextBlock 5 w:56 h:1>
 <Opcode 14 1>...but do not harm the girl.<Opcode 2 30><Close><End of Block>
 <TextBlock 6 w:32 h:3>
@@ -140,10 +140,10 @@ Can't you see...
 she's in Geburah!?
 Don't be so damn
 trusting!"<Close><End of Block>
-<TextBlock 29 w:38 h:3>
+<TextBlock 29 w:36 h:3>
 Margie
-"That's not true...
-is it, Elly?"<Close><End of Block>
+"It's not like you
+say.<Delay 10> Right, Elly?"<Close><End of Block>
 <TextBlock 30 w:46 h:4>
 Bart
 "Oh yeah? Look where

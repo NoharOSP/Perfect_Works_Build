@@ -5,9 +5,10 @@ wild stallion...<New>
 Just the thing for a
 warm-up, eh?
 I am pleased!"<Close><End of Block>
-<TextBlock 2 w:36 h:2>
+<TextBlock 2 w:36 h:3>
 Citan
-"Reinforcements!?"<Opcode 2 40><Close><End of Block>
+"A new contender,
+eh!?"<Opcode 2 40><Close><End of Block>
 <TextBlock 3 w:44 h:4>
 Citan
 "Compared to the pain
@@ -24,13 +25,13 @@ their stead.<Delay 20>
 Come on!"<Close><End of Block>
 <TextBlock 4 w:30 h:2>
 Breuer
-"Eeeaaarrrgh!!"<Close><End of Block>
+"Whooooaaa!!"<Close><End of Block>
 <TextBlock 5 w:26 h:3>
 Breuer
 "H-Hey,
-that hurts!!"<Close><End of Block>
+that hurt!!"<Close><End of Block>
 <TextBlock 6 w:32 h:4>
 Breuer
-"Huh?<Delay 20> What are
-you saying,
-geezer!?"<Close><Close><Close><Close><Close><UNKNOWN CHUNK 208><Close><End of Block>
+"??<Delay 20> What are
+you going on
+about!?"<Close><Close><Close><Close><Close><Close><End of Block>

@@ -1,98 +1,108 @@
 <TextBlock 1 w:46 h:4>
 Fei
-"I heard about it from
-Doc.
-Id...<New>
-...Who would've ever
-thought that within me, 
-lies another me..."<Close><End of Block>
-<TextBlock 2 w:50 h:3>
+"I just heard about
+it from Doc.<Delay 10>
+Id, huh...?<New>
+...Who would've thought
+that within me there's
+another me...?"<Close><End of Block>
+<TextBlock 2 w:46 h:3>
 Fei
-"They say I'm the second
-advent of Grahf.<New>
-The one who destroyed all
-of this world...<New>
-It seems Grahf was once
-a land dweller named
-Lacan..."<Close><End of Block>
-<TextBlock 3 w:48 h:4>
+"They say I'm the
+second advent of Grahf,<New>
+who at one time laid
+waste to the whole
+world...<New>
+Apparently Grahf was
+once a land dweller
+named Lacan..."<Close><End of Block>
+<TextBlock 3 w:46 h:4>
 Fei
-"Grahf called me the one
-who would destroy God<New>
-In a way, I can
-understand what he means
-now.<New>
-Though my Id power isn't
-good enough, if it has
-the same quality as
-Grahf's...I..."<Close><End of Block>
-<TextBlock 4 w:36 h:3>
+"A while back, Grahf
+called me the Slayer
+of God.<New>
+And now...
+I have a feeling I know
+what those words meant.<New>
+If Id's power is in
+any way comparable to
+Grahf's, then...<Delay 10>I..."<Close><End of Block>
+<TextBlock 4 w:32 h:3>
 Fei
-"If you did that, 
-you'd be..."<Close><End of Block>
-<TextBlock 5 w:46 h:4>
+"If we did that,
+you'd be<-->"<Close><End of Block>
+<TextBlock 5 w:44 h:4>
 Fei
-"Thanks Elly, but no.<New>
-Even if I left the
-battle field, there's
-no guarantee that Id'll
-never appear again.<New>
+"Thank you, Elly.<Delay 10>
+But no.<New>
+There's no guarantee
+Id won't appear just
+because I leave the
+battlefield.<New>
 Besides...
 I tried to kill you...
-You're still okay with
-that?"<Close><End of Block>
+You're quite calm,
+even despite that?"<Close><End of Block>
 <TextBlock 6 w:18 h:2>
 Fei
-"Elly...
-Thank you."<Close><End of Block>
-<TextBlock 7 w:48 h:3>
+"Elly..."<Close><End of Block>
+<TextBlock 7 w:42 h:4>
 Elly
-"But you're the same Fei
+"But the Fei in front
+of me is the same Fei
 I've always known.<New>
-You've returned to your 
-old self. Please don't 
-be obsessed with it."<Close><End of Block>
-<TextBlock 8 w:48 h:4>
+You're back to the
+way you should be.
+Don't worry too much
+about it."<Close><End of Block>
+<TextBlock 8 w:42 h:4>
 Elly
-"They're not thinking
-about what they're
-saying!<New>
-They're just confused by
-your powers!"<Close><End of Block>
-<TextBlock 9 w:40 h:4>
+"They don't know what
+they're saying!<New>
+With your power right
+before their eyes,
+those people are
+just in a panic!"<Close><End of Block>
+<TextBlock 9 w:38 h:3>
 Elly
-"Let's escape.<New>
-If Grahf, or the war
-brings out Id, let's
-go to a place where
-no wars exist."<Close><End of Block>
-<TextBlock 10 w:46 h:4>
+"Shall we escape?<New>
+If it's Grahf or
+the battlefield
+that draw Id out,<New>
+shall we both go to
+a place where there
+are no wars?"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
 Elly
 "That's alright...<Delay 20>
-I don't have a place to
-go back, either..."<Close><End of Block>
+I already have nowhere
+to go back to..."<Close><End of Block>
 <TextBlock 11 w:50 h:4>
 Elly
-"Then you could've killed
-me if you really wanted
-to, right?<New>
-The other you, Id's power
-is nothing like that.<Delay 20>
-But you still didn't go
-through with it.<New>
-You knew when it was
-enough. Isn't that
-because your will was in
-effect?"<Close><End of Block>
+"If you'd been seriously
+trying to kill me,<New>
+you surely would've
+succeeded, right?<New>
+The power of Id, the
+other you, is on a whole
+other level, after all.<New>
+And yet you didn't
+go through with it.
+You avoided me at
+the last second.<New>
+Couldn't it have been the
+will of the current you
+that made you miss?"<Close><End of Block>
 <TextBlock 12 w:54 h:4>
 Elly
-"If you're to be controlled
-by Id and all those around
-you became your enemies...<New>
-I'd still be by your side.
+"And...even if you do
+get taken over by Id<New>
+and make enemies of all
+those around you...<New>
+I'll still be by your side.
 ...Because...<Delay 30>
-Because...<Delay 20>I know it's
-lonely to be by yourself."<Close><End of Block>
+Because...<Delay 20>it's lonely to
+be on your own."<Close><End of Block>
 <TextBlock 13 w:36 h:3>
 Elly
 "I'll open it now.<Delay 20>

@@ -27,11 +27,11 @@ Come with us!"<Close><End of Block>
 <TextBlock 7 w:8 h:2>
 Elly
 "!?"<Close><End of Block>
-<TextBlock 8 w:40 h:4>
+<TextBlock 8 w:34 h:4>
 Fei
-"You're not the type
-of person suited to
-a place like this!"<Close><End of Block>
+"This is no place
+for someone like
+you!"<Close><End of Block>
 <TextBlock 9 w:16 h:2>
 Elly
 "Fei..."<Close><End of Block>

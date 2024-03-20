@@ -510,21 +510,27 @@ a talk...<Delay 30> Id..."<Opcode 2 60><Close><End of Block>
 Citan
 "...There is nothing
 you can do."<Close><End of Block>
-<TextBlock 90 w:52 h:4>
+<TextBlock 90 w:46 h:3>
 Id
-"You understand well.
-Just as I expected, Citan.
-...Or was it 'Doc'?"<Close><End of Block>
-<TextBlock 91 w:54 h:4>
+"Figured it all out,
+have you?<New>
+I'd expect no less
+of you, Citan...
+Or should I say 'Doc'?"<Close><End of Block>
+<TextBlock 91 w:50 h:4>
 Citan
-"I have been wanting to
-meet you, Id. I wanted to
-talk with you.<New>
-I guess it is all due to
-this machine which cuts the
-nerve connections.<New>
-Anyway, what is Fei doing
-as of now?"<Close><End of Block>
+"We meet at last, Id.
+I wanted to meet you
+and talk with you.<New>
+I suppose I have these
+restraints to thank for
+that, too <--><New>
+they physically block
+the communication between
+the body and the cranial
+nerves.<New>
+By the way, how is Fei
+doing right now?"<Close><End of Block>
 <TextBlock 92 w:46 h:3>
 Id
 "Fei?
@@ -538,111 +544,124 @@ Id
 <TextBlock 95 w:10 h:2>
 Citan
 "Id?"<Close><End of Block>
-<TextBlock 96 w:48 h:3>
+<TextBlock 96 w:42 h:3>
 Id
-"The one you call Fei is
-asleep."<Close><End of Block>
-<TextBlock 97 w:22 h:2>
+"The one you all call
+Fei is asleep."<Close><End of Block>
+<TextBlock 97 w:18 h:2>
 Citan
-"Sleeping?"<Close><End of Block>
-<TextBlock 98 w:56 h:2>
+"Asleep?"<Close><End of Block>
+<TextBlock 98 w:54 h:2>
 Id
-"When I am awake, he sleeps.<New>
-That is why he has no
-memory of what I do."<Close><End of Block>
-<TextBlock 99 w:46 h:2>
+"When I'm awake, he sleeps.<New>
+That's why he's completely
+unaware of what I do."<Close><End of Block>
+<TextBlock 99 w:44 h:2>
 Citan
-"Why does he not know?"<Close><End of Block>
-<TextBlock 100 w:50 h:3>
+"How can he not know?"<Close><End of Block>
+<TextBlock 100 w:44 h:4>
 Id
-"It's obvious.
-He is my subordinate.<New>
+"That's how it works.
+Because he's under my
+authority.<New>
 He cannot peer into my
-memories. He should not,
-in actuality, even exist.<New>
-That man forcibly created
-his personality.<New>
-Fei is a tenant in the
-room of cowardice..."<Close><End of Block>
-<TextBlock 101 w:22 h:2>
+memories. He is a Fei
+who should not exist
+in the first place.<New>
+A personality created
+by that man against
+my will.<New>
+A tenant in the room
+of the coward..."<Close><End of Block>
+<TextBlock 101 w:26 h:2>
 Citan
-"That man?"<Close><End of Block>
-<TextBlock 102 w:54 h:3>
+"'That man'?"<Close><End of Block>
+<TextBlock 102 w:40 h:4>
 Id
-"Our father, Khan.<New>
-He sealed up my personality
-in the deepest recesses of
-my consciousness.<New>
-Through some inexplicable
-reason, that is when the
-present Fei was born."<Close><End of Block>
-<TextBlock 103 w:50 h:3>
+"Our father.<Delay 10> Khan.<New>
+That man sealed my
+very personality
+away in the depths
+of consciousness.<New>
+I don't know how he
+did it. But that was
+when the current Fei
+was born."<Close><End of Block>
+<TextBlock 103 w:44 h:3>
 Citan
-"When you said cowardice,
-what did you mean?"<Close><End of Block>
-<TextBlock 104 w:40 h:3>
+"And who is the coward
+you are referring to?"<Close><End of Block>
+<TextBlock 104 w:34 h:3>
 Id
-"...
-Why ask about him?<New>
-You think you can do
-something?"<Close><End of Block>
-<TextBlock 105 w:56 h:4>
+"...<New>
+What do you hope
+to gain by asking
+about him?<New>
+You think you can
+do something?"<Close><End of Block>
+<TextBlock 105 w:50 h:4>
 Citan
 "It is rare to be able to
 talk to a real alternate
-personality.<New>
-As a scholar, I am extremely
-intrigued."<Close><End of Block>
-<TextBlock 106 w:52 h:4>
+personality like you.<New>
+As a scholar, it is an
+extremely interesting
+case."<Close><End of Block>
+<TextBlock 106 w:50 h:4>
 Id
-"With friends like you...
-eh, Doctor?<New>
+"Some friends Fei has.<New>
 I like you, Citan.
-But he is insignificant.<New>
-After all, he is just a
-failure. A coward like
-him does not deserve to
-be 'Fei's existence'.<New>
-A pathetic one who has
-always fled from reality.<New>
-He never did one thing
-against me when I control
-him.<New>
-A coward who refused to
-live.<New>
-He should've been erased.
-But he continues to exist!
-Why won't he disappear?<New>
-Dammit...it makes my skin
-crawl just being in the
-same body as him."<Close><End of Block>
+But that guy is of no
+importance. In the end,
+he's a lost cause.<New>
+A coward unworthy of
+'the being known as Fei'.<New>
+A wretch who has fled
+from reality completely.<New>
+A loser who doesn't say
+a single word in protest,
+even when I'm in control.<New>
+A coward who has refused
+to live.<New>
+It'd be better if he just
+disappeared!
+So why does he exist!?
+Why won't he disappear!?<New>
+Dammit... It makes my
+skin crawl just knowing
+he exists in the same
+body as me."<Close><End of Block>
 <TextBlock 107 w:54 h:3>
 Citan
 "Let us change the subject.<New>
-I would like to know how
-and why your personalities
-were split.<New>
-Since you are the one in
-control, I would assume
-you would know the story.<New>
-Normally, personalities do
-not split as they did with
-you.<New>
-Unless there was some sort
-of past trauma."<Close><End of Block>
+I would like you to tell me
+how and why your mind came
+to be divided.<New>
+Since it is you who is
+in charge at the moment,
+I assume you would know?<New>
+A person's mind
+dissociating so completely
+is normally not possible.<New>
+Not unless there is some
+major traumatic event
+in their past."<Close><End of Block>
 <TextBlock 108 w:52 h:4>
 Id
-"You want me to talk about
-my memories? Don't 
-misunderstand.<New>
-I haven't given you the
-right to question me.<New>
-Just because I'm held down
-by this machine, don't
-push your luck.<New>
-If I really wanted to, I
-could break the restraints
-and crush you.<New>
+"Do you insist that I
+reminisce?<New>
+Don't get the wrong
+idea here.<Delay 10> I haven't
+given you the right to
+question me.<New>
+Don't get too
+comfortable just
+because I'm restrained
+by this device.<New>
+If I really wanted to,
+I could break restraints
+like these in a heartbeat
+and strangle you to death.<New>
 Don't you forget it."<Close><End of Block>
 <TextBlock 109 w:42 h:2>
 Citan
@@ -650,62 +669,79 @@ Citan
 <TextBlock 110 w:10 h:2>
 Id
 "..."<Close><End of Block>
-<TextBlock 111 w:54 h:4>
+<TextBlock 111 w:50 h:4>
 Citan
-"Shall I tell you why?<New>
-You do not have complete
-control over Fei do you?<New>
-Your control of him is
-incomplete.<New>
-To break those bonds would
-require a tremendous amount
-of mental energy.<New>
-Having used up your energy,
-Fei would return again.<New>
-Basically, you would have
-to leave the stage.<New>
-Obviously, the day you
-would be able to return
-is indeterminate.
-Hence, you will not do it.<New>
+"Shall I answer
+that for you?<New>
+Might it be that you
+cannot regulate your
+control of Fei?<New>
+You are not capable
+of complete dominion
+over him.<New>
+Even if you were to
+break those restraints
+right here and now,<New>
+you would expend a
+tremendous amount of
+mental energy.<New>
+Having used up that
+mental energy, you would
+be unable to manage
+the Fei personality,<New>
+and once again you would
+have to leave the stage
+and be replaced by him.<New>
+And of course, there is
+no telling when you would
+next be able to manifest.<New>
+That is why you
+will not do it.<Delay 10>
 Am I mistaken?"<Close><End of Block>
-<TextBlock 112 w:50 h:3>
+<TextBlock 112 w:46 h:3>
 Id
-"So you know me too well.
-I don't have complete..."<Close><End of Block>
-<TextBlock 113 w:40 h:2>
+"You really have got it
+all figured out, huh?<New>
+No, indeed I don't
+have complete<Delay 5>--"<Close><End of Block>
+<TextBlock 113 w:24 h:3>
 Citan
-"What is wrong, Id?"<Close><End of Block>
-<TextBlock 114 w:50 h:3>
+"What is the
+matter, Id?"<Close><End of Block>
+<TextBlock 114 w:48 h:4>
 Id
-"You forced me on stage.<New>
-He's waking. Under normal
-circumstances, I would've
-been able to hold on.<New>
-But I can't. This is all
-that woman's fault.<New>
-Her existence makes Fei
-resistant."<Close><End of Block>
-<TextBlock 115 w:32 h:2>
+"It's because you forced
+me on to the stage.<Delay 10>
+He has awakened.<New>
+Hmm, I should have been
+able to take the stage
+at will by now.<Delay 5>
+But I still can't do it.<New>
+This is all that woman's
+fault.<Delay 10> Her presence
+makes Fei stubborn."<Close><End of Block>
+<TextBlock 115 w:38 h:2>
 Citan
-"You mean Elly?"<Close><End of Block>
-<TextBlock 116 w:46 h:4>
+"Do you mean Elly?"<Close><End of Block>
+<TextBlock 116 w:44 h:4>
 Id
-"That woman...the same.
-Everyone. Must...
-eliminate..."<Close><End of Block>
+"That woman is...<Delay 5>just
+like...<Delay 5>all the others.<Delay 10>
+Must...<Delay 5>eliminate..."<Close><End of Block>
 <TextBlock 117 w:50 h:3>
 Citan
 "I do not understand.
 I do not understand, Id."<Close><End of Block>
-<TextBlock 118 w:50 h:3>
+<TextBlock 118 w:42 h:4>
 Id
-"You don't need to
-understand.<New>
-But when the time comes,
-just take it as it comes.
+"You don't need
+to understand.<New>
+When the time comes,
+just accept things
+for what they are.<Delay 10>
 Reality and death..."<Close><End of Block>
-<TextBlock 119 w:46 h:3>
+<TextBlock 119 w:32 h:4>
 Id
-"I'll eventually get to
-you...Be seein' ya."<Close><Close><End of Block>
+"Be seein' you.<Delay 10>
+I'll get you too
+eventually..."<Close><Close><End of Block>

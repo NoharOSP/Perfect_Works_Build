@@ -778,159 +778,156 @@ obstacle whatsoever
 to the plan.<New>
 Data collection is
 already complete."<Close><End of Block>
-<TextBlock 153 w:38 h:3>
-Cursed Cain<Delay 5>...<Delay 5><New>
-Planning this
-pointless farce
-with the likes of
-Hyuga<Delay 5>...<Close><End of Block>
-<TextBlock 154 w:48 h:3>
-He clearly differs from
-we who have attained
-advanced logical 
-faculties<New>
-from being converted
-into data<Delay 5>...<Close><End of Block>
-<TextBlock 155 w:46 h:2>
-Cain is too caught up
-in his human form.<Close><End of Block>
-<TextBlock 156 w:46 h:3>
-Be that as it may<Delay 5>...
-<Delay 5>To destroy
-Etemenanki with a 
-single machine<Delay 5>...<New>
-His power cannot be
-made light of<Delay 5>...<Close><End of Block>
-<TextBlock 157 w:44 h:3>
-Already, we are out of
-time.<Delay 10> The Key,
-use the Key<Delay 5>...<Close><End of Block>
-<TextBlock 158 w:46 h:3>
+<TextBlock 153 w:40 h:4>
+Damn Cain<Delay 5>...<Delay 5>
+Planning a pointless
+farce with the likes
+of Hyuga<Delay 5>...<Close><End of Block>
+<TextBlock 154 w:44 h:4>
+I suppose he is
+different from we who
+have attained advanced
+logical thinking<New>
+on account of our
+conversion to data...<Close><End of Block>
+<TextBlock 155 w:40 h:2>
+Cain is too attached
+to his human form.<Close><End of Block>
+<TextBlock 156 w:42 h:3>
+That aside...<New>
+To destroy Etemenanki
+with but a single
+machine...<New>
+His power is not to
+be taken lightly...<Close><End of Block>
+<TextBlock 157 w:46 h:3>
+We no longer have time.<Delay 10>
+The Key...
+We will use the Key...<Close><End of Block>
+<TextBlock 158 w:36 h:4>
 Karellen
-"Naturally, you are a
-bit terrified, 
-aren't you?"<Close><End of Block>
-<TextBlock 159 w:40 h:2>
-Karellen<Delay 5>...<Delay 5> What
-is Cain's condition?<Close><End of Block>
-<TextBlock 160 w:50 h:4>
+"As one would
+expect,<Delay 5> you're a
+little terrified?"<Close><End of Block>
+<TextBlock 159 w:42 h:3>
+Karellen<Delay 5>...<Delay 5>
+What is the situation
+with Cain?<Close><End of Block>
+<TextBlock 160 w:46 h:4>
 Karellen
-"Undergoing the usual 
-life extension treatment.<New>
-It should maintain him<Delay 5>...<Delay 5>
-for a little longer<Delay 5>...<New>
-I had to use more than
-I expected thanks to his
-insistence to use his body
-in my experiments<Delay 5>..."<Close><End of Block>
-<TextBlock 161 w:46 h:2>
-So there is a 
-possibility that 
-we will not be in
-time<Delay 5>...<Close><End of Block>
-<TextBlock 162 w:54 h:3>
+"He's undergoing the
+usual life-extension
+treatment.<New>
+How ironic that he
+probably wouldn't need
+these treatments at all<New>
+if he hadn't consented
+to being put through
+my experiments for
+all these years...<New>
+Anyway, I guess it'll
+keep him going...
+a little longer..."<Close><End of Block>
+<TextBlock 161 w:34 h:3>
+There is a chance
+we will not make
+it in time<Delay 5>...?<Close><End of Block>
+<TextBlock 162 w:44 h:3>
 Karellen
 "Who can say<Delay 5>...?<New>
-At any rate, did you speak
-of using the Key?<Delay 15>
-Is there any guarantee 
-Lacan can be removed?"<Close><End of Block>
-<TextBlock 163 w:42 h:2>
-We do not know.<Delay 20>
-You know who the 
-opponent is<Delay 5>...<Close><End of Block>
-<TextBlock 164 w:48 h:3>
-If he is<Delay 5> the 'Contact'<Delay 5>
-there is a possibility
-he will not mutate.<Close><End of Block>
+Now, you spoke of
+using the Key?<Delay 15>
+Is there any guarantee
+it can eliminate<Delay 10> him?"<Close><End of Block>
+<TextBlock 163 w:40 h:3>
+That we do not know.<Delay 20>
+Keep in mind who we
+are up against<Delay 5>...<Close><End of Block>
+<TextBlock 164 w:44 h:3>
+There is a possibility
+he will not mutate,<Delay 10>
+if he is the Contact.<Close><End of Block>
 <TextBlock 165 w:44 h:4>
-He is a lifeform
-that recurs through
-the ages.<New>
-<Delay 5>It is 
-a matter of 
-probability.<Close><End of Block>
-<TextBlock 166 w:42 h:2>
-For that reason we
-cannot remove 
-ourselves
-from this.<Close><End of Block>
-<TextBlock 167 w:52 h:4>
-Correct.<New>
-<Delay 5>At this rate it
-will be a repetition of 
-our past failure.<New>
-We will not be 
-allowed another 
-mistake.<Close><End of Block>
-<TextBlock 168 w:48 h:4>
+A lifeform that has
+recurred through the
+generations.<Delay 10> It is a
+matter of probability.<Close><End of Block>
+<TextBlock 166 w:32 h:3>
+Nevertheless, we
+cannot afford to
+stand idly by.<Close><End of Block>
+<TextBlock 167 w:42 h:4>
+Indeed.<Delay 10>
+At this rate it will
+be a repetition of
+past failure.<New>
+It is unacceptable to
+falter a second time.<Close><End of Block>
+<TextBlock 168 w:44 h:4>
 Karellen
-"Come now, don't be so 
-impatient.<Delay 5> I have 
-sent Ramsus after him."<Close><End of Block>
+"Come now, don't fret.<Delay 5>
+I've sent Ramsus after
+him."<Close><End of Block>
 <TextBlock 169 w:36 h:2>
 What can that 
 failure do?<Close><End of Block>
-<TextBlock 170 w:46 h:4>
-We can expect nothing
-more from the 'trash'<New>
-that could not 
-acceptably defend 
-Etemenanki's airspace, 
-can we not?<Close><End of Block>
-<TextBlock 171 w:38 h:3>
+<TextBlock 170 w:40 h:3>
+Surely we can expect
+nothing from 'trash'<New>
+who cannot even
+adequately defend
+Etemenanki airspace?<Close><End of Block>
+<TextBlock 171 w:28 h:4>
 Karellen
 "Even if he is
-given an 'Anima 
-Vessel'?"<Close><End of Block>
-<TextBlock 172 w:30 h:1>
-A 'Vessel',<Delay 5>
+given a Vessel
+of Anima?"<Close><End of Block>
+<TextBlock 172 w:22 h:2>
+A Vessel,<Delay 5>
 you say<Delay 5>...?<Close><End of Block>
 <TextBlock 173 w:46 h:4>
 Karellen
-"I aligned his gear 
-with one of the Vessels<New>
-that was recovered 
-previously.
-Now there will be no
-reason for complaint.<New>
-He should be able to
-demonstrate his true
-power."<Close><End of Block>
-<TextBlock 174 w:52 h:3>
-You mean that you will
-do this yourself?<Delay 20><New>
-Transmigrated though he
-may be, Lacan was once
-your ally, was he not?<Delay 10>
-You are incomprehensible.<Close><End of Block>
-<TextBlock 175 w:52 h:4>
+"I had his Gear aligned
+with one of the Vessels
+recovered previously.<New>
+Now you will have no
+complaints.<Delay 10> He should
+be able to demonstrate
+his true power."<Close><End of Block>
+<TextBlock 174 w:46 h:3>
+You mean you will
+be seeing to this
+personally?<New>
+Although reincarnated,
+is that not your former
+comrade?<New>
+You are a strange one.<Close><End of Block>
+<TextBlock 175 w:50 h:4>
 Karellen
-"I long ago abandoned these
-emotions known as the human
-heart.<New>
-<Delay 10>All I require now<Delay 5> 
-is 'her'."<Close><End of Block>
-<TextBlock 176 w:32 h:2>
-That too is 
-called emotion, 
-is it not?<Close><End of Block>
-<TextBlock 177 w:30 h:2>
+"I abandoned the feelings
+known as human emotions
+a long time ago.<New>
+All I need now<Delay 5> is 'her'."<Close><End of Block>
+<TextBlock 176 w:32 h:3>
+Even that is not
+emotion, you
+would say?<Close><End of Block>
+<TextBlock 177 w:26 h:2>
 Karellen
-"<Delay 5>...<Delay 5>Of course."<Close><End of Block>
-<TextBlock 178 w:20 h:2>
-Is that a
-bluff,<Delay 5>
-then...?<Close><End of Block>
-<TextBlock 179 w:50 h:4>
+"<Delay 5>...<Delay 5>I would."<Close><End of Block>
+<TextBlock 178 w:26 h:3>
+You are
+not just
+posturing...?<Close><End of Block>
+<TextBlock 179 w:48 h:4>
 Karellen
-"You are irritating...<Delay 25>
+"You are persistent...<Delay 25>
 Do you want to be erased
-here and now?"<Close><End of Block>
-<TextBlock 180 w:40 h:2>
-Very well then,<Delay 15> we
-shall leave it at 
-that.<Close><End of Block>
+right here and now?"<Close><End of Block>
+<TextBlock 180 w:28 h:3>
+Very well.<Delay 15>
+We shall leave
+it at that.<Close><End of Block>
 <TextBlock 181 w:42 h:2>
 What!?
 Then he is alive<Delay 5>...<Close><End of Block>

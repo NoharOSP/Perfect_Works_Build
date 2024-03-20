@@ -1,7 +1,6 @@
-<TextBlock 1 w:12 h:3>
+<TextBlock 1 w:14 h:3>
 Margie
-"Bart!
-Look!"<Close><End of Block>
+"Bart!"<Close><End of Block>
 <TextBlock 2 w:16 h:3>
 Bart
 "Crap!

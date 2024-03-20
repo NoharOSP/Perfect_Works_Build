@@ -17,11 +17,10 @@ Heh! It's not such a bad
 feeling having your name
 known by someone as
 beautiful as you."<Close><End of Block>
-<TextBlock 5 w:44 h:4>
+<TextBlock 5 w:44 h:3>
 Bart
-"Well, that's good to
-know,<Delay 10> but I won't hear
-of it.<New>
+"It's a nice offer,
+but no can do.<New>
 See, for me, 'neither
 way' is much good."<Close><End of Block>
 <TextBlock 6 w:32 h:4>
@@ -33,10 +32,11 @@ there!"<Close><End of Block>
 Bart
 "Listen, just
 stay there!"<Close><End of Block>
-<TextBlock 8 w:26 h:3>
+<TextBlock 8 w:26 h:4>
 Ramsus
-"...Then it's
-decided."<Close><End of Block>
+"Then without
+any further
+ado..."<Close><End of Block>
 <TextBlock 9 w:42 h:4>
 Myyah
 "If you truly want to

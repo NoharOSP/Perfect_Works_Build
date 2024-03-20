@@ -4,19 +4,19 @@ Bart
 caught up in it!?<New>
 Yggdrasil!!
 Get moving!!"<Close><End of Block>
-<TextBlock 2 w:32 h:3>
+<TextBlock 2 w:26 h:3>
 Bart
 "...<Delay 32>...<Delay 32>...<Delay 32>...<Delay 32>
 ...<Delay 32>Phew...!<New>
 We made it...<Delay 10>
-...somehow...!?"<Close><End of Block>
-<TextBlock 3 w:32 h:2>
+somehow..."<Close><End of Block>
+<TextBlock 3 w:28 h:2>
 Bart
-"Wha, what the?"<Close><End of Block>
-<TextBlock 4 w:32 h:2>
+"Wh-What the?"<Close><End of Block>
+<TextBlock 4 w:42 h:2>
 Bart
-"Damn!<New>
-We're spotted!!"<Close><End of Block>
+"Oh man!<New>
+He's noticed us...!!"<Close><End of Block>
 <TextBlock 5 w:38 h:4>
 Bart
 "Citan!
@@ -38,17 +38,16 @@ of a nuclear weapon!"<Close><End of Block>
 Citan
 "...Elly?<Delay 45>
 ...!"<Close><End of Block>
-<TextBlock 9 w:44 h:4>
+<TextBlock 9 w:40 h:3>
 Citan
-"Huh?<Delay 24>
-What... You are asking
-me what to do?"<Close><End of Block>
+"Hm?<Delay 24>
+Um...do not ask me!"<Close><End of Block>
 <TextBlock 10 w:50 h:3>
 Vance
-"It's that red Gear...!!
+"Th-<Delay 5>That red Gear...!!
 It's coming this way!!!!"<Close><End of Block>
 <TextBlock 11 w:32 h:4>
 Vance
 "There's someone
 on the deck...
-It's... Elly!?"<Close><Close><End of Block>
+It's...Elly!?"<Close><Close><End of Block>

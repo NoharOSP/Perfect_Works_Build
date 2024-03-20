@@ -439,17 +439,17 @@ It is far more effective
 to plunder from the
 shadows, than to excavate
 the technology oneself."<Close><End of Block>
-<TextBlock 92 w:50 h:4>
+<TextBlock 92 w:46 h:3>
 Maison
 "Of course pillaging is
 an unpardonable act.<New>
-However<Delay 5>...<Delay 5>
-for Av,<Delay 5>
-for Ignas, <Delay 5>
-to continue like this<Delay 5>..."<Close><End of Block>
-<TextBlock 93 w:46 h:2>
-"I'm sorry if it sounds
-rather self-righteous."<Close><End of Block>
+But<Delay 10> we cannot simply
+leave Av,<Delay 5> leave Ignas,<Delay 5>
+as it is<Delay 5>..."<Close><End of Block>
+<TextBlock 93 w:48 h:3>
+Maison
+"I suppose it all sounds
+rather self-righteous?"<Close><End of Block>
 <TextBlock 94 w:52 h:4>
 Citan
 "That is something which
@@ -562,7 +562,7 @@ have her locked up.<New>
 My guess is that when
 they do find out, her
 chances of living are
-not<Delay 5>..."<Close><End of Block>
+not<-->"<Close><End of Block>
 <TextBlock 113 w:42 h:4>
 Citan
 "Ah, I apologize.<Delay 10>

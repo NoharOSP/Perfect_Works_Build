@@ -157,9 +157,9 @@ now? I see... That is so
 That's good. At least your
 basic nature remains
 unchanged."<Close><End of Block>
-<TextBlock 28 w:42 h:4>
+<TextBlock 28 w:30 h:4>
 Grahf
-"You know very well.<Delay 10>
+"You know what.<Delay 10>
 To destroy...<Delay 30>
 Mother <Delay 10>God<Delay 10>..."<Close><End of Block>
 <TextBlock 29 w:52 h:4>
@@ -215,8 +215,8 @@ Only then, in exchange for
 a scream of death, will you
 regain all that was lost!!<Delay 15>
 Hahahaha!!"<Close><End of Block>
-<TextBlock 35 w:28 h:1>
-MWAHAHAHAHAHA!<Close><End of Block>
+<TextBlock 35 w:32 h:1>
+Mwahahahahahaha!<Close><End of Block>
 <TextBlock 36 w:26 h:4>
 Fei
 "!!

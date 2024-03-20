@@ -4,12 +4,12 @@ Elly
 Ugh..."<Close><End of Block>
 <TextBlock 2 w:30 h:4>
 Elly
-"Guh...Fei...
-I, I won't ever
+"Guh... Fei...
+I-<Delay 10>I won't ever
 let go!"<Close><End of Block>
 <TextBlock 3 w:24 h:2>
 Elly
-"Uuaaahhh...<New>
+"Aaagghh...<New>
 Fei!
 Please!!"<Close><End of Block>
 <TextBlock 4 w:18 h:2>
@@ -17,15 +17,15 @@ Elly
 "...<Delay 30>Fei."<Close><End of Block>
 <TextBlock 5 w:44 h:3>
 Elly
-"...Yes.<Delay 60><New>
-If that is what will
+"...Yes.<New>
+If that's what will
 satisfy you, then kill
-me.<Delay 30> Now..."<Close><End of Block>
+me.<Delay 30> Go ahead..."<Close><End of Block>
 <TextBlock 6 w:34 h:4>
 Elly
-"Fei...
-Please, return to
-the real Fei!!"<Close><End of Block>
+"Fei... Please go
+back to the way
+you were!!"<Close><End of Block>
 <TextBlock 7 w:28 h:4>
 Id
 "Heh... You.
@@ -35,26 +35,26 @@ die, eh?"<Close><End of Block>
 Id
 "Hmph...<Delay 30>
 Good girl...<Delay 30>
-Now, die!"<Close><End of Block>
+Then die!"<Close><End of Block>
 <TextBlock 9 w:20 h:3>
 Id
 "!?<Delay 30>
 Let go..."<Close><End of Block>
 <TextBlock 10 w:20 h:3>
 Id
-"Errgaah!!<Delay 30>
-W, what!?"<Close><End of Block>
+"Urrgh!!<Delay 30>
+Wh-What!?"<Close><End of Block>
 <TextBlock 11 w:32 h:4>
 Id
 "Tch...<Delay 60>
 ...<Delay 30>This woman<Delay 30>...
-I knew it<Delay 30>..."<Close><End of Block>
+Of course<Delay 30>..."<Close><End of Block>
 <TextBlock 12 w:36 h:4>
 Id
-"...<Delay 30> Damn... it...<Delay 30>
+"...<Delay 30>Damn it...<Delay 30>
 He's<Delay 30>...<Delay 30>
-awake<Delay 30>...ning<Delay 30>..."<Close><End of Block>
+waking<Delay 30>...up<Delay 30>..."<Close><End of Block>
 <TextBlock 13 w:28 h:3>
 Fei
-"...<Delay 30> Uuuhhh<Delay 30>...<Delay 30>
-El<Delay 30>...<Delay 30>ly<Delay 30>..."<Close><Close><Close><7><Wait><Close><Close><End of Block>
+"...<Delay 30>Urrhh<Delay 30>...<Delay 30>
+El<Delay 30>...<Delay 30>ly<Delay 30>..."<Close><Close><Close><Close><Close><End of Block>

@@ -92,10 +92,11 @@ old legends and myths."<Close><End of Block>
 Fei
 "Legends?
 Myths?"<Close><End of Block>
-<TextBlock 16 w:36 h:3>
+<TextBlock 16 w:32 h:4>
 Ol' Man Bal
-"Haven't you heard
-of this story...?"<Close><End of Block>
+"You don't know?<Delay 10>
+Here's one such
+story."<Close><End of Block>
 <TextBlock 17 w:54 h:4>
 Ol' Man Bal
 "They say that humans and
@@ -137,14 +138,13 @@ be...<Delay 30>our ancestors."<Close><End of Block>
 Ol' Man Bal
 "Well, anyway, I'll
 stop my rambling now."<Close><End of Block>
-<TextBlock 19 w:36 h:3>
+<TextBlock 19 w:34 h:3>
 Fei
-"Uh, yeah.<New>
-By the way, does 
+"By the way, does 
 this cave have<-->"<Close><End of Block>
 <TextBlock 20 w:52 h:4>
 Ol' Man Bal
-"An exit?<New>
+"<-->an exit?<New>
 There is an exit in the
 excavation site beyond the
 sand barrier. You can get

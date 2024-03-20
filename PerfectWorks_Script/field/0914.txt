@@ -83,20 +83,19 @@ Girl
 <TextBlock 13 w:14 h:2>
 Margie
 "Bart!"<Close><End of Block>
-<TextBlock 14 w:30 h:3>
+<TextBlock 14 w:28 h:3>
 Bart
-"I'm sorry for
-taking so long.<New>
-Let's go home,
-Margie!"<Close><End of Block>
-<TextBlock 15 w:38 h:3>
+"Time to go
+home, Margie!"<Close><End of Block>
+<TextBlock 15 w:24 h:3>
 Margie
-"I just knew you'd 
-come for me!"<Close><End of Block>
-<TextBlock 16 w:36 h:4>
+"I just knew
+you'd come!"<Close><End of Block>
+<TextBlock 16 w:42 h:4>
 Bart
-"I'm getting
-you outta here!
+"See the trouble I
+go to for you!?<New>
+Let's get outta here!
 C'mon, follow me!"<Close><End of Block>
 <TextBlock 17 w:14 h:2>
 Margie

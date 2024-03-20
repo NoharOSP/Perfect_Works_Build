@@ -337,11 +337,12 @@ just sit back and do
 nothing.<New>
 If need be, I will give
 my life to stop them."<Close><End of Block>
-<TextBlock 63 w:46 h:4>
+<TextBlock 63 w:46 h:3>
 Bart
-"Alright, I understand.<Delay 10>
-But can you elaborate
-a little more?"<Close><End of Block>
+"Alright, I understand.<New>
+But I'm gonna need you
+to go into a little
+more detail."<Close><End of Block>
 <TextBlock 64 w:44 h:4>
 <Opcode 1 255>    Where is Solaris?
     What are Lambs?
@@ -562,9 +563,7 @@ personalities, to make them
 more aggressive and to draw
 out their latent abilities.<New>
 They were using us as human
-guinea pigs to test their
-psychological alteration
-drugs!"<Close><End of Block>
+guinea pigs."<Close><End of Block>
 <TextBlock 97 w:50 h:3>
 Bart
 "Human guinea pigs...!?

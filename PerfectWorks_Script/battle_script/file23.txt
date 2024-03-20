@@ -33,12 +33,9 @@ Dominia
 "Hah! What insolence!
 But what do I expect,
 coming from Lambs...?"<Close><End of Block>
-<TextBlock 6 w:44 h:4>
+<TextBlock 6 w:44 h:3>
 Dominia
-"Eeeaaaahh! <Delay 20> ...<Delay 20>Guh<Delay 20>...<Delay 20>
-Why, you<Delay 20>...
-Remember this<Delay 20>...<New>
-One day I'll pay
-you back for this...<Delay 20>
-I promise!!"<Close><Close><UNKNOWN CHUNK 245>
-<Close><Close>)<Close><End of Block>
+"Argh!<Delay 20> Why, you...<New>
+One day I'll get
+you for this!<Delay 20>
+You'll pay!!"<Close><Close><Close><Close><Close><End of Block>

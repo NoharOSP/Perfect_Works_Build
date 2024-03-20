@@ -9,7 +9,7 @@ Fei
 "Doc, you can
 operate it!?"<Close><End of Block>
 <TextBlock 3 w:14 h:1>
-Errr...<Close><End of Block>
+Uhhh...<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 Citan
 "A little patience,

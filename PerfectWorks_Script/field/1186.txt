@@ -1221,144 +1221,143 @@ thanking you all,<New>
 so let's head
 for the Church
 headquarters."<Close><End of Block>
-<TextBlock 197 w:52 h:4>
+<TextBlock 197 w:54 h:4>
 Citan
 "'Ahnenerbe'...<New>
-The long awaited man of
-god, who will take the
-people born in this world
-with him to a new horizon.<New>
-Such is the destiny of
-the 'Contact'.<Delay 10>
-That is what the emperor
-called Fei...<New>
+The inevitable man of God,
+who will walk together with
+the people born in this
+world, on to a new horizon.<New>
+That is the destiny
+of 'the Contact',<Delay 10>
+which is what the
+Emperor called Fei.<New>
 He did not tell me why he
-called Fei that though..."<Close><End of Block>
-<TextBlock 198 w:52 h:2>
+calls him that, though..."<Close><End of Block>
+<TextBlock 198 w:42 h:2>
 Sigurd
-"Who the heck is he then?"<Close><End of Block>
-<TextBlock 199 w:54 h:4>
+"So just what is he?"<Close><End of Block>
+<TextBlock 199 w:52 h:3>
 Citan
-"He is Fei.<Delay 30>
+"He is Fei.<New>
 But he is also the one
-who...<New>
-destroyed Elul,<Delay 10> caused Carl
-serious injury,<Delay 10> sank the
-Yggdrasil,<Delay 10> killed Rico's
-subordinate's in Kislev...<New>
-...<Delay 10>
-Need I continue further?<Delay 10>
-He is<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 10>Id.<Close><End of Block>
-<TextBlock 200 w:38 h:3>
+who destroyed Elul,<Delay 10> caused
+Carl serious injury,<New>
+sank the Yggdrasil,<Delay 10>
+killed Rico's subordinates
+in Kislev...<New>
+Need I go on?<Delay 10>
+He is<Delay 5>...<Delay 5>Id.<Close><End of Block>
+<TextBlock 200 w:26 h:2>
 Sigurd
-"What did you say!?<Delay 10>
-Id!?"<Close><End of Block>
-<TextBlock 201 w:38 h:2>
+"What!?<Delay 10> Id!?"<Close><End of Block>
+<TextBlock 201 w:32 h:3>
 Jessie
-"What do you mean?"<Close><End of Block>
-<TextBlock 202 w:54 h:4>
+"What the hell
+are you sayin'?"<Close><End of Block>
+<TextBlock 202 w:52 h:4>
 Citan
-"He<Delay 5>...<Delay 10> Fei that is,<Delay 10> has
-Dissociative Identity
-Disorder...<New>
-Also known more commonly as
-Multiple Personality
-Disorder."<Close><End of Block>
-<TextBlock 203 w:30 h:2>
+"He<Delay 10> <--> Fei, that is <--><Delay 10> has
+dissociative identity
+disorder.<New>
+Also more commonly known
+as multiple personality
+disorder."<Close><End of Block>
+<TextBlock 203 w:36 h:2>
 Jessie
-"D...<Delay 5>disas...?"<Close><End of Block>
-<TextBlock 204 w:48 h:3>
+"Dis...<Delay 5> Disas...?"<Close><End of Block>
+<TextBlock 204 w:50 h:3>
 Citan
-"Dissociative Identity
-Disorder...<Delay 10><New>
-is a mental disorder
-in which someone has
-multiple personalities."<Close><End of Block>
-<TextBlock 205 w:46 h:2>
+"Dissociative identity
+disorder, or multiple
+personality disorder.<New>
+It is a type of mental
+disorder where one person
+has several personalities
+at the same time."<Close><End of Block>
+<TextBlock 205 w:36 h:3>
 Sigurd
-"That can't be real..."<Close><End of Block>
+"Come on, is there
+really such a<-->?"<Close><End of Block>
 <TextBlock 206 w:52 h:4>
 Citan
-"Oh but it is very real!<Delay 10>
+"Oh but there is.<Delay 10>
 Fei is living proof of it.<New>
-I have been watching over
-Fei, who has a 'destroyer'
-personality within him
-named 'Id'."<Close><End of Block>
-<TextBlock 207 w:54 h:4>
+I have been constantly
+watching over Fei, who has
+a destroyer personality
+within him named 'Id'."<Close><End of Block>
+<TextBlock 207 w:52 h:4>
 Citan
-"In the beginning he was
-stable...<New>
-His disassociation did not
+"At first, Fei was stable.<New>
+His dissociation did not
 occur at all while he
 lived in Lahan for those
 three years.<New>
 But then, after Lahan was
 attacked, things changed.<New>
 Little by little, the
-number of incidences of his
-disassociation and their
-length began to increase.<New>
+number of instances of his
+dissociation increased,
+as did their duration.<New>
 And then at Solaris, a
 complete manifestation
 of Id occurred."<Close><End of Block>
-<TextBlock 208 w:46 h:4>
+<TextBlock 208 w:44 h:4>
 Sigurd
-"What brought it about?<Delay 10>
+"What did that happen?<Delay 10>
 He was fine when he
 was in Lahan, right?"<Close><End of Block>
 <TextBlock 209 w:54 h:4>
 Citan
-"My guess is that<Delay 5>...<Delay 10>
-the appearance of Grahf
-affected Fei somehow.<New>
-You probably know that Fei
-worked with Grahf as the
-assasin 'Id' before he was
-brought to live in Lahan.<New>
-It was then that Elul,<Delay 5>
-the homeland of Dominia,<Delay 5>
-was utterly obliterated.<New>
+"My guess<Delay 5>...<Delay 10>is that the
+appearance of Grahf had
+an influence on Fei.<New>
+Before he lived in Lahan,
+Fei had worked with Grahf
+as the assassin Id <--> a
+duo you may recall, Jesiah.<New>
+It was at that time that
+Elul,<Delay 5> the homeland of
+Dominia,<Delay 5> was utterly
+obliterated.<New>
 Grahf was intentionally
-provoking the manifestation
-of Id<Delay 10> 'within'<Delay 5>...<Delay 5>for want
-of a better word<Delay 5>...<Delay 10>Fei."<Close><End of Block>
-<TextBlock 210 w:38 h:2>
+invoking the manifestation
+of Id, who is<Delay 10> <--> loosely
+speaking <--><Delay 10> 'within' Fei."<Close><End of Block>
+<TextBlock 210 w:22 h:2>
 Jessie
-"For what purpose?"<Close><End of Block>
-<TextBlock 211 w:54 h:4>
+"What for?"<Close><End of Block>
+<TextBlock 211 w:50 h:4>
 Citan
 "To destroy God<Delay 5>...<Delay 10>
-That is what Grahf
-was saying...<New>
-That is all I know...
-Although there might be
-more to it...<Delay 10>
-But one thing is certain...<New>
+So Grahf said. I do not
+know any more than that.<New>
+But what I can say for
+certain is that, although
 Grahf was encouraging the
-manifestation of Id, but
-did not have adequate
-control over him."<Close><End of Block>
-<TextBlock 212 w:40 h:4>
+manifestation of Id,<New>
+he did not have control
+over him."<Close><End of Block>
+<TextBlock 212 w:32 h:4>
 Sigurd
-"In other words, it
-was too much for him
+"In other words,
+he was too much
 to handle?"<Close><End of Block>
 <TextBlock 213 w:12 h:2>
 Citan
 "Yes."<Close><End of Block>
 <TextBlock 214 w:54 h:4>
 Jessie
-"You said, 'That's all you
-know, although there might
-be more to it.'...<New>
+"You said you kept this
+under wraps 'until you
+knew for certain'?<New>
 What did you mean by that?"<Close><End of Block>
 <TextBlock 215 w:54 h:4>
 Citan
-"I shall go on to explain
-that now.<Delay 10> Actually, that is
-the most important point."<Close><End of Block>
+"I will speak of that next.<Delay 10>
+Actually, it is the most
+important point."<Close><End of Block>
 <TextBlock 216 w:34 h:4>
 Billy
 "Well then...
