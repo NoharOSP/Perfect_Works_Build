@@ -36,6 +36,6 @@ weapon.<Delay 15> His journey may
 never end.<Close><End of Block>
 <TextBlock 8 w:50 h:4>
 We've traveled through
-most of Ignas...<Delay 5> When
+most of Ignis...<Delay 5> When
 will he ever look at me,
 and not these weapons...?<Close><Close><End of Block>

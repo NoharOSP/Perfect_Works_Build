@@ -24,11 +24,11 @@ the Mobile Weapon.<Close><End of Block>
 The Solaris Mobile Weapon
 was destroyed<Delay 5>...<Delay 5>which
 brought a sigh of relief
-to the continent of Ignas.<Delay 45>
+to the continent of Ignis.<Delay 45>
  
 Peace was signed and after
 some 500 years of division,
-the land of Ignas once
+the land of Ignis once
 again became united.<Close><End of Block>
 <TextBlock 3 w:60 h:2>
 Excitement spread throughout
@@ -268,7 +268,7 @@ When I saw her like that,
 I couldn't help thinking<Delay 5>...<Delay 15>
 I can no longer allow her
 to fight like this<Delay 5>...<New>
-We returned to Ignas<Delay 5>...<Delay 5>
+We returned to Ignis<Delay 5>...<Delay 5>
 feeling that this had
 become much more than
 we could bear<Delay 5>...<Close><End of Block>

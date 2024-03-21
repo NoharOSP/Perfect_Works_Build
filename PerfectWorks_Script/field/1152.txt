@@ -60,7 +60,7 @@ Or perhaps<Delay 5>...<Close><End of Block>
 It does not matter
 who.<Delay 10> However<Delay 5>...<Close><End of Block>
 <TextBlock 11 w:36 h:4>
-You mean...Ignas'
+You mean...Ignis'
 equilibrium must
 not be broken.<Close><End of Block>
 <TextBlock 12 w:36 h:3>
@@ -145,7 +145,7 @@ Disobedience<Delay 5>...<New>
 Ramsus' duty is meant
 to be the excavation of
 the Vessels of Anima
-sleeping in Ignas<New>
+sleeping in Ignis<New>
 and supervision of
 the Lambs. But this<Delay 5>...<Close><End of Block>
 <TextBlock 27 w:44 h:4>
@@ -200,10 +200,10 @@ events to this end.<Close><End of Block>
 <TextBlock 37 w:32 h:4>
 The destination
 of the jump
-was Aquvy<Delay 5>...<Delay 5>
+was Aqvi<Delay 5>...<Delay 5>
 Near the Tamuz.<Close><End of Block>
-<TextBlock 38 w:52 h:3>
-Regarding Aquvy, Karellen
+<TextBlock 38 w:48 h:3>
+Regarding Aqvi, Karellen
 is en route, I believe.<Close><End of Block>
 <TextBlock 39 w:22 h:3>
 Karellen?<Delay 10>
@@ -230,7 +230,7 @@ technology's creation,
 the metropolis of the
 Zeboim civilization,<New>
 sleeps beneath the
-sea floor of Aquvy.<New>
+sea floor of Aqvi.<New>
 Though its existence was
 hidden from us by the
 Church of the Ethos for
@@ -247,7 +247,7 @@ Nineteen years<Delay 5>...<Delay 5><New>
 Coinciding exactly
 with the year of the 
 major seismic shift
-in Aquvy<Delay 5>...<Close><End of Block>
+in Aqvi<Delay 5>...<Close><End of Block>
 <TextBlock 47 w:14 h:1>
 Indeed.<Close><End of Block>
 <TextBlock 48 w:44 h:4>
@@ -281,7 +281,7 @@ was pure
 accident.<Close><End of Block>
 <TextBlock 53 w:36 h:4>
 The location was
-Ignas.<Delay 10> It was a
+Ignis.<Delay 10> It was a
 matter of
 probability.<Close><End of Block>
 <TextBlock 54 w:42 h:4>
@@ -381,7 +381,7 @@ is in progress in
 many regions'.<Close><End of Block>
 <TextBlock 74 w:44 h:2>
 Stein is directing the
-cleanup in Aquvy.<Close><End of Block>
+cleanup in Aqvi.<Close><End of Block>
 <TextBlock 75 w:34 h:4>
 Including<Delay 10>
 'acquiring that
@@ -533,7 +533,7 @@ To allow contact
 with Shevat<Delay 5>...<Close><End of Block>
 <TextBlock 103 w:36 h:4>
 Not only that.<Delay 20>
-The loss of Ignas.<Delay 20>
+The loss of Ignis.<Delay 20>
 The defeat at the
 Tamuz.<New>
 Oh, and Elul also.
@@ -983,7 +983,7 @@ Wait a moment<Delay 5>...<Delay 5>
 He has left the 
 crash site<New>
 and is en route 
-to Ignas.<Close><End of Block>
+to Ignis.<Close><End of Block>
 <TextBlock 191 w:52 h:4>
 Karellen
 "I see.<Delay 10>

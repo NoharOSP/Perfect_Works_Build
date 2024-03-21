@@ -1,5 +1,5 @@
 <TextBlock 1 w:48 h:4>
-On my way to Ignas,
+On my way to Ignis,
    I encountered him
        again.
 <Delay 30><New>

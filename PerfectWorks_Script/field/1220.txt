@@ -13,7 +13,7 @@ to Nisan<Close><End of Block>
 <TextBlock 6 w:26 h:1>
 <Opcode 1 255>Hermit's Hole<Close><End of Block>
 <TextBlock 7 w:38 h:1>
-<Opcode 1 255>Ignas Gate Cave<Close><End of Block>
+<Opcode 1 255>Ignis Gate Cave<Close><End of Block>
 <TextBlock 8 w:34 h:2>
 <Opcode 1 255>   - Noatun -
 Capital of Kislev<Close><End of Block>
@@ -71,11 +71,11 @@ has to be somewhere on
 this map."<Close><End of Block>
 <TextBlock 30 w:64 h:2>
 Citan
-"Now, the Ignas Gate is<Delay 5>...<Delay 10>here."<Close><End of Block>
+"Now, the Ignis Gate is<Delay 5>...<Delay 10>here."<Close><End of Block>
 <TextBlock 31 w:42 h:3>
 Citan
 "The Church HQ in
-Aquvy is here, so..."<Close><End of Block>
+Aqvi is here, so..."<Close><End of Block>
 <TextBlock 32 w:52 h:4>
 Fei
 "Well, thinking logically,

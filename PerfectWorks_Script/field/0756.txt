@@ -444,7 +444,7 @@ Maison
 "Of course pillaging is
 an unpardonable act.<New>
 But<Delay 10> we cannot simply
-leave Av,<Delay 5> leave Ignas,<Delay 5>
+leave Av,<Delay 5> leave Ignis,<Delay 5>
 as it is<Delay 5>..."<Close><End of Block>
 <TextBlock 93 w:48 h:3>
 Maison

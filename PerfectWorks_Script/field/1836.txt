@@ -242,12 +242,12 @@ Suit yourselves."<Close><End of Block>
 <TextBlock 46 w:30 h:3>
 Fei
 "They're targeting
-Ignas, right?"<Close><End of Block>
+Ignis, right?"<Close><End of Block>
 <TextBlock 47 w:56 h:4>
 Shevat Emissary
 "Yes.<Delay 10>
 The goal of the enemy is to
-destroy the cities in Ignas.<New>
+destroy the cities in Ignis.<New>
 They have already destroyed
 half of Breidablik and will
 probably reach Nisan in

@@ -82,7 +82,7 @@ joke.<Close><End of Block>
 So where did you fellas
 come from? From the looks
 of it, I'd guess you're
-from the Ignas continent.<New>
+from the Ignis continent.<New>
 Were you saved by the people
 here too?<Delay 20> I understand. We 
 were all in the same

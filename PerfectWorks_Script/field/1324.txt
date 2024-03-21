@@ -48,8 +48,8 @@ re-education<Delay 5>...<New>
 <Delay 5>...<Delay 5>based on<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>schedule for building
 Gate foundations<Delay 5>...<New>
-Lambs<Delay 5>...<Delay 5>02-04 to Ignas
-<Delay 5>...<Delay 5>05-08 to Aquvy<Delay 5>...<Delay 5>
+Lambs<Delay 5>...<Delay 5>02-04 to Ignis
+<Delay 5>...<Delay 5>05-08 to Aqvi<Delay 5>...<Delay 5>
 11-16<Delay 5> to be uniformly
 distributed<Delay 5>...<New>
 Carry out<Delay 5>...<Delay 5>establishment
@@ -322,7 +322,7 @@ the data..."<Close><End of Block>
 <TextBlock 33 w:54 h:4>
 Citan
 "So, from this, it appears
-that under Aquvy lies an
+that under Aqvi lies an
 ultra-ancient civilization.<New>
 They have been doing a huge
 number of test digs and
@@ -634,8 +634,8 @@ re-education<Delay 5>...<New>
 <Delay 5>...<Delay 5>based on<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>schedule for building
 Gate foundations<Delay 5>...<New>
-Lambs<Delay 5>...<Delay 5>02-04 to Ignas
-<Delay 5>...<Delay 5>05-08 to Aquvy<Delay 5>...<Delay 5>
+Lambs<Delay 5>...<Delay 5>02-04 to Ignis
+<Delay 5>...<Delay 5>05-08 to Aqvi<Delay 5>...<Delay 5>
 11-16<Delay 5> to be uniformly
 distributed<Delay 5>...<New>
 Carry out<Delay 5>...<Delay 5>establishment
@@ -916,7 +916,7 @@ the data..."<Close><End of Block>
 <TextBlock 111 w:54 h:4>
 Citan
 "So, from this, it appears
-that under Aquvy lies an
+that under Aqvi lies an
 ultra-ancient civilization.<New>
 They have been doing a huge
 number of test digs and
@@ -1096,13 +1096,13 @@ Rico
 those people you've seen
 coming here for help?"<Close><End of Block>
 <TextBlock 141 w:68 h:11>
-<Opcode 14 2>      IGNAS CONFLICT STATUS:
+<Opcode 14 2>      IGNIS CONFLICT STATUS:
 37th Arms Provision. Upgrading
 Av's Gears from level D2 to D3.
 Maintain Kislev Gears at level D2.
 Current balance = 4:6...
      REPORT BY BISHOP SHAKHAN
-       OF THE IGNAS DIOCESE:
+       OF THE IGNIS DIOCESE:
 Due to intervention by an
 unpredictable factor, correction
 is needed. Operation progress rate

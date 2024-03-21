@@ -5,7 +5,7 @@ near the border with Kislev.<Opcode 2 160><Close><End of Block>
 <TextBlock 2 w:56 h:1>
 This is where it all begins.<Opcode 2 150><Close><End of Block>
 <TextBlock 3 w:68 h:12>
-Ignas, the largest continent in
+Ignis, the largest continent in
 the world, sits in the northern
 hemisphere.<Delay 30> Here, a war has been
 raging between two countries for
@@ -49,7 +49,7 @@ greater wealth of resources buried
 within their ruins.<Delay 30>
 But suddenly, a mysterious military
 force appeared on the continent of
-Ignas.<Delay 20> Called 'Geburah', this
+Ignis.<Delay 20> Called 'Geburah', this
 force decided to make contact
 with Av.<Delay 200><Delay 200><Delay 200><Close><End of Block>
 <TextBlock 7 w:72 h:11>
