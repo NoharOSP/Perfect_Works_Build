@@ -9,7 +9,7 @@ is it for...?"<Close><End of Block>
 <TextBlock 3 w:38 h:3>
 Elly
 "What's this!?
-Memory cube data!?"<Close><End of Block>
+Memory Cube data!?"<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 Elly
 "You mean<Delay 10> this facility
@@ -21,7 +21,7 @@ Citan
 sent here...<New>
 The data of the people
 who have accessed the
-memory cubes scattered
+Memory Cubes scattered
 throughout the world..."<Close><End of Block>
 <TextBlock 6 w:34 h:2>
 You have too many

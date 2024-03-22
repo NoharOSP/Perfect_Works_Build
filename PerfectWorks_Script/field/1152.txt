@@ -4,15 +4,13 @@ we predicted<Delay 5>...<Close><End of Block>
 <TextBlock 2 w:40 h:2>
 The awakening of the
 untouchable one<Delay 5>...<Close><End of Block>
-<TextBlock 3 w:48 h:4>
+<TextBlock 3 w:50 h:4>
 It has been three years
-since news of him
-ceased.<New>
-According to the reports
-from the memory cubes,<New>
-he is currently in the
-Kislev Imperial Capital,
-Noatun.<Close><End of Block>
+since news of him ceased.<New>
+According to the Memory
+Cube logs, currently he
+is in the Kislev Imperial
+Capital, Noatun.<Close><End of Block>
 <TextBlock 4 w:26 h:3>
 Abominable<Delay 5>...<Delay 5>
 Abominable<Delay 5>...<Delay 5>
@@ -166,15 +164,13 @@ More precisely,<Delay 5> in
 this case, the
 negative trauma
 of his neglect.<Close><End of Block>
-<TextBlock 30 w:40 h:4>
+<TextBlock 30 w:36 h:4>
 According to the
-reports from the
-memory cubes...
-there are several<New>
-subjects surrounding
-'him' that have the
-potential to become
-Animus.<Close><End of Block>
+Memory Cube logs,<New>
+it seems there are
+many surrounding
+'him' who possess
+the Animus factor.<Close><End of Block>
 <TextBlock 31 w:28 h:4>
 M Project
 subjects,
@@ -699,10 +695,10 @@ is breached, things won't
 go the same way they did
 before.<New>
 More importantly<Delay 5>...<New>
-There was something
+there was something
 extraordinarily
-interesting in the report
-from the memory cubes."<Close><End of Block>
+interesting in the
+Memory Cube logs."<Close><End of Block>
 <TextBlock 141 w:24 h:2>
 And what was
 that?<Close><End of Block>
@@ -973,7 +969,7 @@ current location?"<Close><End of Block>
 <TextBlock 189 w:46 h:3>
 Though Etemenanki is 
 destroyed, part of the 
-memory cube's functions 
+Memory Cubes' functions 
 are still active.<New>
 It can still specify 
 the locations of 
