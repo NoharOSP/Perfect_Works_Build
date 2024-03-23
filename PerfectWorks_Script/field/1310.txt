@@ -59,7 +59,7 @@ Citan
 "First of all, let us move
 Fei to the Yggdrasil.<New>
 It will not be too late to
-go see Billy afterwards."<Close><End of Block>
+go see Billy afterward."<Close><End of Block>
 <TextBlock 10 w:18 h:2>
 Citan
 "Then..."<Close><End of Block>
@@ -117,7 +117,7 @@ Citan
 "First of all, let us move
 Fei to the Yggdrasil.<New>
 It will not be too late to
-go see Billy afterwards."<Close><End of Block>
+go see Billy afterward."<Close><End of Block>
 <TextBlock 18 w:26 h:3>
 Bart
 "So you're
@@ -173,7 +173,7 @@ something."<Close><End of Block>
 Bart
 "First, let's take Fei to 
 the Yggdrasil. We can go 
-thank Billy afterwards."<Close><End of Block>
+thank Billy afterward."<Close><End of Block>
 <TextBlock 26 w:26 h:2>
 Rico
 "Hmm, so..."<Close><End of Block>

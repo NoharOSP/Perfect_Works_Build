@@ -8,7 +8,7 @@ Ramsus
 "Do you really
 refuse?<New>
 If you regret it
-afterwards it'll
+afterward it'll
 be too late!!"<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Ramsus

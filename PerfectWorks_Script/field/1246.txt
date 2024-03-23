@@ -297,7 +297,7 @@ part of the sisterhood
 in Nisan?"<Close><End of Block>
 <TextBlock 61 w:52 h:3>
 Margie
-"Yep. I'm Marguerite. 
+"Yep. I'm Marguerite.
 Nice to meet you, Father."<Close><End of Block>
 <TextBlock 62 w:52 h:4>
 Billy
@@ -307,7 +307,7 @@ I've always wanted to have
 the chance to talk with
 those of other faiths.<New>
 Perhaps we could meet
-afterwards?"<Close><End of Block>
+afterward?"<Close><End of Block>
 <TextBlock 63 w:46 h:4>
 Margie
 "Sure, I'd like that.<New>
@@ -318,7 +318,7 @@ happening right now."<Close><End of Block>
 <TextBlock 64 w:46 h:3>
 Billy
 "Thank you.<New>
-Hmm... Marguerite? 
+Hmm... Marguerite?
 Where have I heard that
 name before?"<Close><End of Block>
 <TextBlock 65 w:42 h:4>
