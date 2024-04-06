@@ -9,10 +9,10 @@
 #include <shobjidl.h> 
 #include <commctrl.h>
 #include <vector>
-#include "writeFile.h"
 #include <cstdlib>
 #include <cstdio>
 #include "patchChecker.h"
+#include "writeFile.h"
 
 #define MAX_LOADSTRING 100
 #define BUF_SIZE 300
@@ -33,6 +33,7 @@ int winX = 640;
 int winY = 380;
 int id;
 int tabNo;
+int workingDisc;
 bool pathFound1 = false;
 bool pathFound2 = false;
 bool p_encounters = false;
@@ -43,8 +44,10 @@ bool p_items_spells = false;
 bool p_monsters = false;
 bool p_portraits = false;
 bool p_script = false;
-bool p_stats = false;
-bool p_arena = false;
+bool p_barena = false;
+bool p_earena = false;
+bool p_music = false;
+bool p_fmv = false;
 bool patchPathValid = false;
 bool changed;
 std::string home = "";
@@ -69,14 +72,16 @@ std::string portraitsName1 = "";
 std::string portraitsName2 = "";
 std::string scriptName1 = "";
 std::string scriptName2 = "";
-std::string statName1 = "";
-std::string statName2 = "";
 std::string arenaName1 = "";
 std::string arenaName2 = "";
+std::string musicName1 = "";
+std::string musicName2 = "";
 std::string graphicsName1 = "";
 std::string graphicsName2 = "";
 std::string bugName1 = "";
 std::string bugName2 = "";
+std::string titleName1 = "";
+std::string titleName2 = "";
 std::vector<HWND> globalWindList;
 std::vector<HWND> generalWindList;
 std::vector<HWND> miscWindList;
@@ -90,16 +95,18 @@ HWND aboutbutton;
 HWND patchbutton;
 HWND encounters;
 HWND fasttext;
-HWND arena;
+HWND basicarena;
+HWND expertarena;
 HWND expgold;
 HWND itemspells;
 HWND monsters;
 HWND portraits;
-HWND stats;
 HWND script;
 HWND all;
 HWND easy;
 HWND hard;
+HWND music;
+HWND fmvs;
 HWND tc;
 HWND hwndPB;
 RECT rcWindow;
@@ -113,6 +120,7 @@ TCHAR balancetext[256];
 TCHAR storytext[256];
 TCHAR misctext[256];
 TCHAR modetext[256];
+TCHAR arenatext[256];
 TCHAR dummy[256];
 std::ofstream cue_stream;
 patchChecker pc1;

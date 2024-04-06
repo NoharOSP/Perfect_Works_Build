@@ -19,10 +19,8 @@ public:
 	bool itemsCheck(std::string path, std::string version);
 	bool monstersCheck(std::string path);
 	bool scriptCheck(std::string path);
-	bool statsCheck(std::string path);
 	bool arenaCheck(std::string path);
 	bool scriptVerify(std::string path);
-	bool undubCheck(std::string path);
 	bool portraitsCheck(std::string path);
 	void writeByte(int num);
 	void initialise();

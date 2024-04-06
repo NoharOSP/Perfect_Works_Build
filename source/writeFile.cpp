@@ -3,7 +3,7 @@
 
 
 
-writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool stats, bool exp_gold, bool monsters, bool encounters, bool fastnew, bool arena, bool portraits)
+writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool exp_gold, bool monsters, bool encounters, bool fastnew, bool barena, bool earena, bool portraits, bool music, bool fastold)
 {
 	dir = home;
 	discName = cd;
@@ -11,13 +11,15 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	wind = hWnd;
 	wf_itemspells = itemsspells;
 	wf_script = script;
-	wf_stats = stats;
 	wf_expgold = exp_gold;
 	wf_monsters = monsters;
 	wf_encounters = encounters;
 	wf_fast = fastnew;
-	wf_arena = arena;
+	wf_barena = barena;
+	wf_earena = earena;
 	wf_portraits = portraits;
+	wf_music = music;
+	wf_fastold = fastold;
 	// Move to the "shared_files" directory
 	std::filesystem::current_path(dir);
 	if (std::filesystem::exists("\patches")) {
@@ -32,41 +34,33 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	else {
 		MessageBox(wind, L"Could not find directory for 'patches'. Check repo for latest version.", L"Error", MB_ICONERROR);
 	}
-	// Determine if the script, stats and items/spells patches have all been ticked
-	if (itemsspells && script && stats) {
-		allTrue();
-	}
-	// Determine if the script patch hasn't been ticked
-	else if (itemsspells && !script && stats) {
-		noScript();
-	}
-	// Determine if the items/spells patch hasn't been ticked
-	else if (!itemsspells && script && stats) {
-		noItems();
-	}
 	// Determine if the exp/gold patch hasn't been ticked
-	if (exp_gold) {
+	if (wf_expgold) {
 		doExpGold();
 	}
 	// Determine if the monsters patch has been ticked
-	if (monsters) {
+	if (wf_monsters) {
 		doMonsters();
 	}
 	// Determine if the encounters patch has been ticked
-	if (encounters) {
+	if (wf_encounters) {
 		doEncounters();
 	}
 	// Determine if the fast text patch has been ticked
-	if (fastnew) {
+	if (wf_fast) {
 		doFast();
 	}
 	// Determine if the arena patch has been ticked
-	if (arena) {
+	if (wf_barena || wf_earena) {
 		doArena();
 	}
 	// Determine if the portraits patch has been ticked
-	if (portraits) {
+	if (wf_portraits) {
 		doPortraits();
+	}
+	// Determine if the music patch has been ticked
+	if (wf_music) {
+		doMusic();
 	}
 }
 
@@ -74,51 +68,6 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 writeFile::~writeFile()
 {
 
-}
-
-// Apply shared files for items/spells, script and stat patches
-void writeFile::allTrue() {
-	goHome();
-	if (std::filesystem::exists("\items_script_stats")) {
-		std::filesystem::current_path("\items_script_stats");
-	}
-	else {
-		MessageBox(wind, L"Could not find directory for 'items_script_stats'. Check repo for latest version.", L"Error", MB_ICONERROR);
-	}
-	if (discNum == 1) {
-		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-			std::string fileName = entry.path().string();
-			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-			preprocess(finalName);
-		}
-	}
-	else if (discNum == 2) {
-		preprocess("2595");
-	}
-}
-
-// Apply shared files for the items/spells and stat patches
-void writeFile::noScript() {
-	goHome();
-	if (std::filesystem::exists("\items_stats")) {
-		std::filesystem::current_path("\items_stats");
-	}
-	else {
-		MessageBox(wind, L"Could not find directory for 'items_stats'. Check repo for latest version.", L"Error", MB_ICONERROR);
-	}
-	preprocess("2595");
-}
-
-// Apply shared files for the script and stat patches
-void writeFile::noItems() {
-	goHome();
-	if (std::filesystem::exists("\script_stats")) {
-		std::filesystem::current_path("\script_stats");
-	}
-	else {
-		MessageBox(wind, L"Could not find directory for 'script_stats'. Check repo for latest version.", L"Error", MB_ICONERROR);
-	}
-	preprocess("2595");
 }
 
 void writeFile::doExpGold() {
@@ -276,23 +225,10 @@ void writeFile::doArena() {
 			goHome();
 			if (std::filesystem::exists("\kislev_battle")) {
 				std::filesystem::current_path("\kislev_battle");
-				if (std::filesystem::exists("\Gear")) {
-					std::filesystem::current_path("\Gear");
-					for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-						std::string fileName = entry.path().string();
-						std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-						preprocess(finalName);
-					}
-				}
-				else {
-					MessageBox(wind, L"Could not find directory for 'Gear'. Check repo for latest version.", L"Error", MB_ICONERROR);
-				}
-				goHome();
-				std::filesystem::current_path("\kislev_battle");
 				// Check for shared files between the script and arena patches
 				if (wf_script) {
-					if (std::filesystem::exists("\Misc_script")) {
-						std::filesystem::current_path("\Misc_script");
+					if (std::filesystem::exists("\Script_gear")) {
+						std::filesystem::current_path("\Script_gear");
 						for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
 							std::string fileName = entry.path().string();
 							std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
@@ -300,13 +236,41 @@ void writeFile::doArena() {
 						}
 					}
 					else {
-						MessageBox(wind, L"Could not find directory for 'Misc_script'. Check repo for latest version.", L"Error", MB_ICONERROR);
+						MessageBox(wind, L"Could not find directory for 'Script_gear'. Check repo for latest version.", L"Error", MB_ICONERROR);
+					}
+					goHome();
+					std::filesystem::current_path("\kislev_battle");
+					if (wf_barena) {
+						if (std::filesystem::exists("\Misc_script_basic")) {
+							std::filesystem::current_path("\Misc_script_basic");
+							for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+								std::string fileName = entry.path().string();
+								std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+								preprocess(finalName);
+							}
+						}
+						else {
+							MessageBox(wind, L"Could not find directory for 'Misc_script_basic'. Check repo for latest version.", L"Error", MB_ICONERROR);
+						}
+					}
+					else {
+						if (std::filesystem::exists("\Misc_script_expert")) {
+							std::filesystem::current_path("\Misc_script_expert");
+							for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+								std::string fileName = entry.path().string();
+								std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+								preprocess(finalName);
+							}
+						}
+						else {
+							MessageBox(wind, L"Could not find directory for 'Misc_script_expert'. Check repo for latest version.", L"Error", MB_ICONERROR);
+						}
 					}
 				}
 				// Check for shared files between the items/spells and arena patches
 				else {
-					if (std::filesystem::exists("\Misc_item")) {
-						std::filesystem::current_path("\Misc_item");
+					if (std::filesystem::exists("\Item_gear")) {
+						std::filesystem::current_path("\Item_gear");
 						for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
 							std::string fileName = entry.path().string();
 							std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
@@ -314,7 +278,35 @@ void writeFile::doArena() {
 						}
 					}
 					else {
-						MessageBox(wind, L"Could not find directory for 'Misc_item'. Check repo for latest version.", L"Error", MB_ICONERROR);
+						MessageBox(wind, L"Could not find directory for 'Item_gear'. Check repo for latest version.", L"Error", MB_ICONERROR);
+					}
+					goHome();
+					std::filesystem::current_path("\kislev_battle");
+					if (wf_barena) {
+						if (std::filesystem::exists("\Misc_item_basic")) {
+							std::filesystem::current_path("\Misc_item_basic");
+							for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+								std::string fileName = entry.path().string();
+								std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+								preprocess(finalName);
+							}
+						}
+						else {
+							MessageBox(wind, L"Could not find directory for 'Misc_item_basic'. Check repo for latest version.", L"Error", MB_ICONERROR);
+						}
+					}
+					else {
+						if (std::filesystem::exists("\Misc_item_expert")) {
+							std::filesystem::current_path("\Misc_item_expert");
+							for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+								std::string fileName = entry.path().string();
+								std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+								preprocess(finalName);
+							}
+						}
+						else {
+							MessageBox(wind, L"Could not find directory for 'Misc_item_expert'. Check repo for latest version.", L"Error", MB_ICONERROR);
+						}
 					}
 				}
 			}
@@ -342,6 +334,123 @@ void writeFile::doPortraits() {
 			else {
 				MessageBox(wind, L"Could not find directory for 'portraits'. Check repo for latest version.", L"Error", MB_ICONERROR);
 			}
+		}
+	}
+}
+
+void writeFile::doMusic() {
+	// Check for shared files between the music and original script fast text patches
+	if (wf_fastold) {
+		// Check disc number
+		if (discNum == 1) {
+			goHome();
+			if (std::filesystem::exists("\music_fastold")) {
+				std::filesystem::current_path("\music_fastold");
+				for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+					std::string fileName = entry.path().string();
+					std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+					preprocess(finalName);
+				}
+			}
+			else {
+				MessageBox(wind, L"Could not find directory for 'music_fastold'. Check repo for latest version.", L"Error", MB_ICONERROR);
+			}
+		}
+	}
+	// Check for shared files between the music and script patches
+	if (wf_script) {
+		if (discNum == 1) {
+			goHome();
+			if (std::filesystem::exists("\music_script1")) {
+				std::filesystem::current_path("\music_script1");
+				for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+					std::string fileName = entry.path().string();
+					std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+					preprocess(finalName);
+				}
+			}
+			else {
+				MessageBox(wind, L"Could not find directory for 'music_script1'. Check repo for latest version.", L"Error", MB_ICONERROR);
+			}
+		}
+		if (discNum == 2) {
+			goHome();
+			if (std::filesystem::exists("\music_script2")) {
+				std::filesystem::current_path("\music_script2");
+				for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+					std::string fileName = entry.path().string();
+					std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+					preprocess(finalName);
+				}
+			}
+			else {
+				MessageBox(wind, L"Could not find directory for 'music_script2'. Check repo for latest version.", L"Error", MB_ICONERROR);
+			}
+		}
+	}
+	// Implement music files directly if items are applied.
+	if (wf_itemspells && !wf_script) {
+		if (discNum == 1) {
+			goHome();
+			if (std::filesystem::exists("\music_items")) {
+				std::filesystem::current_path("\music_items");
+				for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+					std::string fileName = entry.path().string();
+					std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+					preprocess(finalName);
+				}
+			}
+			else {
+				MessageBox(wind, L"Could not find directory for 'music_items'. Check repo for latest version.", L"Error", MB_ICONERROR);
+			}
+		}
+	}
+}
+
+void writeFile::doExpGoldMonsters() {
+	// Find shared files for the exp/gold, monster and item patches
+	if (wf_itemspells) {
+		goHome();
+		if (std::filesystem::exists("\exp_monster_items")) {
+			std::filesystem::current_path("\exp_monster_items");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'exp_monster_items'. Check repo for latest version.", L"Error", MB_ICONERROR);
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
+	}
+	// Find shared files for the script, monster and exp/gold patches
+	if (wf_script) {
+		goHome();
+		if (std::filesystem::exists("\exp_monster_script")) {
+			std::filesystem::current_path("\exp_monster_script");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'exp_monster_script'. Check repo for latest version.", L"Error", MB_ICONERROR);
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
+	}
+	// Find shared files for the script, items/spells, monster and exp/gold patches
+	if (wf_script && wf_itemspells) {
+		goHome();
+		if (std::filesystem::exists("\exp_monster_both")) {
+			std::filesystem::current_path("\exp_monster_both");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'exp_monster_both'. Check repo for latest version.", L"Error", MB_ICONERROR);
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
 		}
 	}
 }
@@ -377,13 +486,16 @@ bool writeFile::ReadVirtualTOC(CFile* romFile)
 bool writeFile::process(CFile *romFile, CFile *statsFile, UINT nPosition) {
 	byte pBuffer[2048 * 16];
 	UINT nNum = 0;
+	// Write the index
 	ReadSector(romFile, pBuffer, 24, 16);
 	DWORD fileLength = statsFile->GetLength();
 	memcpy(pBuffer + (7 * nPosition) + 3, &fileLength, 4);
 	WriteSector(romFile, pBuffer, 24, 16);
+	// Write the index into the exe
 	ReadSector(romFile, pBuffer, 108607, 16);
 	memcpy(pBuffer + 4 + (7 * nPosition) + 3, &fileLength, 4);
 	WriteSector(romFile, pBuffer, 108607, 16);
+	// Write the file
 	byte FileBuff[32 * 2048];
 	UINT i = 0;
 	DWORD LastOff = 0;
@@ -395,6 +507,7 @@ bool writeFile::process(CFile *romFile, CFile *statsFile, UINT nPosition) {
 	}
 	LastOff = statsFile->GetPosition();
 	if (LastOff < fileLength) {
+		// Write the last section of the file
 		memset(FileBuff, 0, 32 * 2048);
 		statsFile->Read(FileBuff, fileLength - LastOff);
 
@@ -408,6 +521,7 @@ bool writeFile::process(CFile *romFile, CFile *statsFile, UINT nPosition) {
 }
 
 bool writeFile::ReadSector(CFile *romFile, byte *pBuffer, DWORD dwStart, UINT NumOfSectors) {
+	// Puts sectors from dwStart to NumOfSectors into pBuffer
 	byte bySector[2048];
 	UINT i = 0;
 

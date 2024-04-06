@@ -175,30 +175,6 @@ bool patchChecker::scriptCheck(std::string path)
 	return found;
 }
 
-// Check if the stats patch has been applied
-bool patchChecker::statsCheck(std::string path)
-{
-	initialise();
-	maxByte = 38;
-	file.open(path, std::ios::in | std::ios::out | std::ios::binary);
-	while (!file.bad()) {
-		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
-		byte += 1;
-		if (byte == maxByte) {
-			int val = (int)buffer;
-			if (val == 01) {
-				found = true;
-			}
-			else {
-				writeByte(1);
-			}
-			break;
-		}
-	}
-	file.close();
-	return found;
-}
-
 // Check if the arena patch has been applied
 bool patchChecker::arenaCheck(std::string path)
 {
@@ -277,7 +253,7 @@ void patchChecker::markVersion(std::string path)
 		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
 		byte += 1;
 		if (byte == maxByte) {
-			writeByte(3);
+			writeByte(4);
 			break;
 		}
 	}
@@ -293,7 +269,7 @@ void patchChecker::markSubVersion(std::string path)
 		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
 		byte += 1;
 		if (byte == maxByte) {
-			writeByte(7);
+			writeByte(0);
 			break;
 		}
 	}
@@ -324,25 +300,3 @@ bool patchChecker::scriptVerify(std::string path)
 	return found;
 }
 
-// Check if the bin used has applied the undub patch
-bool patchChecker::undubCheck(std::string path) {
-	initialise();
-	maxByte = 56741;
-	file.open(path, std::ios::in | std::ios::out | std::ios::binary);
-	while (!file.bad()) {
-		file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
-		byte += 1;
-		if (byte == maxByte) {
-			int val = (int)buffer;
-			if (val == 207) {
-				found = true;
-			}
-			else {
-				found = false;
-			}
-			break;
-		}
-	}
-	file.close();
-	return found;
-}
