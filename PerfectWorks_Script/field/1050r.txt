@@ -415,8 +415,8 @@ BP-Exchanger Girl
     #14: Earth Veil Armor
     #15: Fire Veil Armor
     #16: Water Veil Armor
-    #17: ElementAero
-    #18: ElementTerra
+    #17: ElemAeris
+    #18: ElemTerrane
     <=>PAGE 2
     <=>PAGE 4
     Decided against it!
@@ -511,7 +511,7 @@ BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
 <Opcode 1 255>    No it isn't, sorry!
     Yes, so let's trade!
-  <=>#17: ElementAero
+  <=>#17: ElemAeris
   <=>CURRENT BP -4500<Close><End of Block>
 <TextBlock 83 w:56 h:5>
 BP-Exchanger Girl
@@ -520,7 +520,7 @@ So, buster, what item do you
 want to exchange us GP for?<Delay 30>
 Get it right this time, OK!"<Close><End of Block>
 <TextBlock 84 w:42 h:1>
-Received ElementAero!<Close><End of Block>
+Received ElemAeris!<Close><End of Block>
 <TextBlock 85 w:58 h:5>
 BP-Exchanger Girl
 "Are you trying to be funny?<Delay 5> 
@@ -532,7 +532,7 @@ BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
 <Opcode 1 255>    Oh no, my mistake!
     Yes, it's a deal!
-  <=>#18: ElementTerra
+  <=>#18: ElemTerrane
   <=>CURRENT BP -4500<Close><End of Block>
 <TextBlock 87 w:54 h:5>
 BP-Exchanger Girl
@@ -541,7 +541,7 @@ Alright, which item do you
 want to exchange GP for?<Delay 30>
 Show more consideration!"<Close><End of Block>
 <TextBlock 88 w:44 h:1>
-Received ElementTerra!<Close><End of Block>
+Received ElemTerrane!<Close><End of Block>
 <TextBlock 89 w:56 h:5>
 BP-Exchanger Girl
 "Oh no,<Delay 5> you don't seem to
@@ -551,8 +551,8 @@ but, sorry, no exchange!"<Close><End of Block>
 <TextBlock 90 w:56 h:11>
 BP-Exchanger Girl
 "Trade BP for which item: ?"<Delay 30>
-<Opcode 1 255>    #19: ElementPyro
-    #20: ElementHydro
+<Opcode 1 255>    #19: ElemIgnis
+    #20: ElemAqvi
     #21: EtherStoneLg
     #22: AntiEthRockL
     <=>PAGE 3
@@ -565,7 +565,7 @@ BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
 <Opcode 1 255>    Oops, my boo-boo!
     OK, it's a trade!
-  <=>#19: ElementPyro
+  <=>#19: ElemIgnis
   <=>CURRENT BP -4500<Close><End of Block>
 <TextBlock 92 w:54 h:5>
 BP-Exchanger Girl
@@ -574,7 +574,7 @@ Well, boo-boo, what item do
 you want to trade GP for?<Delay 30>
 Choose carefully please!"<Close><End of Block>
 <TextBlock 93 w:42 h:1>
-Received ElementPyro!<Close><End of Block>
+Received ElemIgnis!<Close><End of Block>
 <TextBlock 94 w:54 h:5>
 BP-Exchanger Girl
 "I'd like to trade you,<Delay 5> but
@@ -586,7 +586,7 @@ BP-Exchanger Girl
 "Is this the right prize?"<Delay 30>
 <Opcode 1 255>    No, changed my mind!
     Yes, let's exchange!
-  <=>#20: ElementHydro
+  <=>#20: ElemAqvi
   <=>CURRENT BP -4500<Close><End of Block>
 <TextBlock 96 w:56 h:5>
 BP-Exchanger Girl
@@ -595,7 +595,7 @@ Well, Mr. Moody, which item
 do you want to trade GP for?<Delay 30>
 Please make up your mind!"<Close><End of Block>
 <TextBlock 97 w:44 h:1>
-Received ElementHydro!<Close><End of Block>
+Received ElemAqvi!<Close><End of Block>
 <TextBlock 98 w:48 h:5>
 BP-Exchanger Girl
 "What,<Delay 5> you thought I was
