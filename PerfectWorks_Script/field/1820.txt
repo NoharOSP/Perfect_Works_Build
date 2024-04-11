@@ -165,7 +165,7 @@ do this!!"<Close><End of Block>
 <TextBlock 36 w:30 h:3>
 Hammer
 "D-Don't move!!
-Stop! Stop!<Close><End of Block>
+Stop! Stop!"<Close><End of Block>
 <TextBlock 37 w:22 h:2>
 Hammer
 "...<Delay 32>Eep..."<Close><End of Block>

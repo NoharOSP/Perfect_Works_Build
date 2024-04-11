@@ -6,7 +6,7 @@ we ate back there..."<Close><End of Block>
 Fei
 "Eww...<Delay 30> I'm not sure
 I want to see where
-it gets made."<Close><End of Block>
+it gets made..."<Close><End of Block>
 <TextBlock 3 w:30 h:4>
 Fei
 "What...<Delay 30>
@@ -24,12 +24,11 @@ can't go further on."<Close><End of Block>
 Fei
 "Damn that thing, we
 can't go further on."<Close><End of Block>
-<TextBlock 7 w:44 h:3>
+<TextBlock 7 w:44 h:4>
 Elly
-"Hmm...<New>
-Normally, the various
-pharmaceuticals we use
-are all made here..."<Close><End of Block>
+"Hmm...<Delay 10> Normally, all
+the pharmaceuticals we
+use are made here..."<Close><End of Block>
 <TextBlock 8 w:34 h:4>
 Elly
 "I wonder...<Delay 30>

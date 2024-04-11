@@ -779,13 +779,13 @@ Damn Cain<Delay 5>...<Delay 5>
 Planning a pointless
 farce with the likes
 of Hyuga<Delay 5>...<Close><End of Block>
-<TextBlock 154 w:44 h:4>
+<TextBlock 154 w:46 h:4>
 I suppose he is
 different from we who
 have attained advanced
 logical thinking<New>
 on account of our
-conversion to data...<Close><End of Block>
+conversion into data...<Close><End of Block>
 <TextBlock 155 w:40 h:2>
 Cain is too attached
 to his human form.<Close><End of Block>

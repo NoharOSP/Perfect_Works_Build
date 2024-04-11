@@ -1,6 +1,6 @@
 <TextBlock 1 w:38 h:1>
 The door is locked.<Close><End of Block>
 <TextBlock 2 w:46 h:3>
-Please unlock this door
-at the southwestern
-briefing room.<Close><Close><End of Block>
+Please release the door
+lock from the briefing
+room to the southwest.<Close><Close><End of Block>

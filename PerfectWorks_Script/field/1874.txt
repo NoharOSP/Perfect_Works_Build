@@ -1,8 +1,8 @@
 <TextBlock 1 w:14 h:2>
-    UP?
+    UP
     NO<Close><End of Block>
 <TextBlock 2 w:18 h:2>
-    DOWN?
+    DOWN
     NO<Close><End of Block>
 <TextBlock 3 w:32 h:2>
 Door Lock System

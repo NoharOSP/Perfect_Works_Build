@@ -1,7 +1,7 @@
 <TextBlock 1 w:42 h:3>
 Fei
-"The thing we usually
-use to save?"<Close><End of Block>
+"Those things we
+usually use to save?"<Close><End of Block>
 <TextBlock 2 w:28 h:3>
 Fei
 "What on earth

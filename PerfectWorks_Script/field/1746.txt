@@ -2,7 +2,7 @@
 Must be controlled by
 that adjacent panel.<Close><End of Block>
 <TextBlock 2 w:14 h:2>
-    Up?
+    Up
     No<Close><End of Block>
 <TextBlock 3 w:46 h:1>
 The elevator is locked.<Close><End of Block>

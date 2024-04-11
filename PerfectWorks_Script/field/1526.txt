@@ -6,8 +6,7 @@ We must imprison
 him immediately,<New>
 or there's no telling
 what kind of situation
-he'll bring about!
-<Close><End of Block>
+he'll bring about!<Close><End of Block>
 <TextBlock 2 w:42 h:4>
 Zephyr
 "Cease this at once!<New>

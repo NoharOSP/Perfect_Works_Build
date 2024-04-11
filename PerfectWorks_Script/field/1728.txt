@@ -5,8 +5,8 @@ by that adjacent panel.<Close><End of Block>
 It's probably controlled
 by that adjacent panel.<Close><End of Block>
 <TextBlock 3 w:18 h:2>
-    Down?
+    Down
     No<Close><End of Block>
 <TextBlock 4 w:18 h:2>
-    Down?
+    Down
     No<Close><Close><End of Block>

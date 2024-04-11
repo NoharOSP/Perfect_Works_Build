@@ -88,8 +88,8 @@ others are<-->"<Close><End of Block>
 Fei
 "Why!?<New>
 You've manipulated we
-surface dwellers to
-suit yourselves!<New>
+surface dwellers for
+your own ends!<New>
 You already own the
 world anyway!<New>
 What more could you
@@ -102,9 +102,10 @@ fallen to earth..."<Close><End of Block>
 <TextBlock 22 w:16 h:2>
 Fei
 "What!?"<Close><End of Block>
-<TextBlock 23 w:40 h:2>
+<TextBlock 23 w:26 h:3>
 Fei
-"That's ridiculous!"<Close><End of Block>
+"What is this
+nonsense!?"<Close><End of Block>
 <TextBlock 24 w:14 h:2>
 Fei
 "...!?"<Close><End of Block>
@@ -207,7 +208,7 @@ Citan
 them that haven.<Delay 10>
 Under absolute management,<New>
 there is no need for
-a person the bear the
+a person to bear the
 risk of trying to remain
 an individual.<New>
 They live life holding on
@@ -505,7 +506,7 @@ Fei
 Citan
 "Now, we can take
 our time and have
-a talk...<Delay 30> Id..."<Opcode 2 60><Close><End of Block>
+a talk...<Delay 30>Id..."<Opcode 2 60><Close><End of Block>
 <TextBlock 89 w:40 h:3>
 Citan
 "...There is nothing
@@ -703,7 +704,7 @@ Id
 "You really have got it
 all figured out, huh?<New>
 No, indeed I don't
-have complete<Delay 5>--"<Close><End of Block>
+have complete<Delay 10><-->"<Close><End of Block>
 <TextBlock 113 w:24 h:3>
 Citan
 "What is the
