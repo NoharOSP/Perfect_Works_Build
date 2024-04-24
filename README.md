@@ -1,9 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.3.7 here:
-- Google Drive: https://drive.google.com/file/d/1QfYEqd5dC8huPhPSxOvDeGWNqysoWf7S/view?usp=sharing
-- MEGA: https://mega.nz/file/qPY1kZAa#TZkfRyuHDH6DAJGnEGlQGPmC0ZJGbF_egfVqHK3qWGg
+Download version 0.4.0 here:
+- Google Drive: https://drive.google.com/file/d/15_IQOQ71faBgKGTCxIJkHBOvAhkstI_w/view?usp=sharing
+- MEGA: https://mega.nz/file/zfRijDhQ#ziM2LLfuApQHThCLQyo2c6AHuZHbO_yc9P81d2ckoB4
 
 ## Instructions:
 
@@ -29,20 +29,8 @@ This step applies if multiple patches have been applied.
 ## Completion stats:
 
 - Name/terminology changes: 100%
-- Main script: 60% (up to Elly's house)
+- Main script: 70% (finished disc 1)
 - NPC script: Not done (except for name/terminology changes)
-
-## Coming soon:
-
-- Music swap
-- Basic and expert modes for the Battling arena
-- Combined item/spells and stat Patches
-- Heimdall/Fenrir can now heal
-- Defend boosts AP
-- New Drive items
-- Increased experience share for benched party members
-- Speed increase for Citan's sword animations
-- Updated title screen
 
 ## Introduction:
 
@@ -53,6 +41,73 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.4.0:
+
+04/23/2024
+
+- Desert and Grahf FMVs have had their subtitles adjusted.
+- Glitch with the Karellen FMV has been adjusted.
+- Sufal Mass FMV uses higher quality audio.
+- Title screen now reflects the version used.
+- Basic and expert arena modes have been added.
+- Frame HPs have revamped weights. Details in the wiki.
+- Deathblowers provide an attack boost.
+- Tank Guard and Ar Repairer have been merged into Ar Guard.
+- Several gear equips have had their weights revamped. Details in the wiki.
+- Gear armor has been revamped. Details in the wiki.
+- Light Ether bullets are now Billy's initial equip.
+- Learning levels for spells have been revamped for Elly, Billy, Rico and Chu-Chu. Details in the wiki.
+- Several shops have been revamped. Details in the wiki.
+- Chimera drops Gold Bullions in both pools.
+- Citan's Yamato Sword now inflicts instant death instead of vanish.
+- All patches now use the Citan sword animation increase.
+- Vierge now comes with Mirror Ar instead of a Beam Jammer.
+- E Circuit has been renamed to Ether Circuit.
+- Swordsman now drops Beam Jammer.
+- DivvyUp now has 3 EP.
+- Billy's Holy Light now heals by 8 instead of 10.
+- DivvyUp now works as intended.
+- Heimdall/Fenrir's Sazanami now heals gears by 50. Renki has been replaced with Kataku which has Sazanami's old effect.
+- Defend now boosts AP.
+- The item/spells patch now adjusts stats as well.
+- Every character's deathblow learning rate has been revamped so that it is their original values + 2.
+- Weapon effect percentages have been revamped. Details are in the wiki.
+- Steel Body has been restored on Rico, with its effect working as intended.
+- Chu-Chu's prayers have been combined into one move, with a slow debuff filling in the void.
+- Every character's (asides Fei) AP costs have been changed to (3,3,4,4,5,5,6).
+- Changes in the battle system are reflected in the tutorial house.
+- Queen's Rod now inflicts resist down.
+- The order Bart learns his deathblows has been rearranged. Details in the wiki.
+- New Drives have been added and old ones have been improved. Details in the wiki.
+- Fei/Weltall and Citan/Heimdall's stat boosting spells have been restored. Details in the wiki.
+- Descriptions are clearer that Fei and Citan's stat boosting spells affect both physical and Ether.
+- Several new gear equips have been added which replace redundant ones. Details in the wiki.
+- Deathblows now have effects. Details in the wiki.
+- Deathblower X has been added which allows X attacks of all levels to be used.
+- B Circuit has been renames to Heater.
+- Element names now refer to the continents as in the Japanese version. Details in the wiki.
+- Stat growths have been revamped. Details in the wiki.
+- Deathblow experience has been revamped. Details in the wiki.
+- Damage formula has been reworked. Details in the wiki.
+- Exp/gold hybrid files have a 1.5x boost rather than a 2x boost.
+- Glitchy undub detection has been removed.
+- Subbed FMVs are now optional.
+- Exp/gold edits are no longer overwritten.
+- Fast text now accomodates for Maison's rant in the gun room.
+- Charger values are now static rather than based on the Triangle modifier.
+- Wels have been buffed. Details in the wiki.
+- Security Cubes have had their defences changes. Details in the wiki.
+- Music swap has been implemented. Details about song changes are in the wiki.
+- Enemy names have been harmonised between the game, arena selection and the arena itself.
+- Continent names have been changed. Details in the wiki.
+- Elemental Stones now have Elemental Mode effects.
+- Formatting in late-game cutscenes has been fixed.
+- Ar Guard has been renamed to Body Guard.
+- All instances of Myyah's Gear have been changed to Type 1 Vierge.
+- Benched party members receive more experience.
+- Blessed Habit has been made one word to avoid overflow.
+
 
 ### Version 0.3.7:
 
@@ -324,6 +379,10 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ### Builds:
 
+#### Version 0.3.7 here:
+- Google Drive: https://drive.google.com/file/d/1QfYEqd5dC8huPhPSxOvDeGWNqysoWf7S/view?usp=sharing
+- MEGA: https://mega.nz/file/qPY1kZAa#TZkfRyuHDH6DAJGnEGlQGPmC0ZJGbF_egfVqHK3qWGg
+
 #### Version 0.3.6:
 
 - Google Drive: https://drive.google.com/file/d/14PaMoch2tefSRpGpRKCL8oHmGVJhztv9/view?usp=sharing
@@ -398,7 +457,12 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 #### Version 0.1.0:
 
 - Mega: https://mega.nz/file/aehiRaaS#8kgPnxVlYEI8AZL9KebwT2SQal1h_6UuRpmnw55LDfk
+
 ### GUI patcher:
+
+#### Version 0.6
+
+Included with build 0.3.
 
 #### Version 0.5
 
@@ -450,6 +514,8 @@ For those who want to test a certain section in the game. They use the mcd forma
 
 ### [Items/spells](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Items-&-Spells)
 
+### [Music changes](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Music-changes)
+
 ### [Monster stats](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Enemy-Stats)
 
 ### [Script](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Script-Changes)
@@ -475,7 +541,7 @@ Patches implemented:
 
 - Rebalanced items/spells.
 - Rebalanced monsters.
-- Rebalanced character stats.
+- Expert mode for the battle arena.
 
 
 ## Bug fixes:
@@ -484,12 +550,6 @@ These are applied if any option is selected.
 
 - A bug with Deus' first fight which can freeze the game if he tries to use his HP halve move from a side angle.
 - A bug which prevents Billy's Ether elemental ammo from being changed.
-
-
-## Glitches:
-
-### Items/spells:
-- If Divvy Up is used immediately after it's been used, it's effect will stack onto other party members (will not affect the rest of the game).
 
 ## Links:
 
@@ -526,9 +586,10 @@ DM or tag here if you want immediate feedback on Twitter:
 - Will Bill
 - Xenocritus
 - Nohar
+- Streetwize: @StreetwizeJJ2
 
 ### Battle Arena balance:
-- Streetwize: @StreetwizeJJ2
+- Streetwize
 
 ### Programming:
 - Rufas
