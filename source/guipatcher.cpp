@@ -274,13 +274,13 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			else {
 				p_barena = false;
 			}
-			LRESULT expertarenaticked = SendMessage(expertarena, BM_GETCHECK, NULL, NULL);
+			/*LRESULT expertarenaticked = SendMessage(expertarena, BM_GETCHECK, NULL, NULL);
 			if (expertarenaticked == BST_CHECKED) {
 				p_earena = true;
 			}
 			else {
 				p_earena = false;
-			}
+			}*/
 			LRESULT allticked = SendMessage(all, BM_GETCHECK, NULL, NULL);
 			if (allticked == BST_CHECKED) {
 				p_script = true;
@@ -728,7 +728,7 @@ void initialiseGeneralButtonList() {
 	generalWindList.emplace_back(fasttext);
 	generalWindList.emplace_back(portraits);
 	generalWindList.emplace_back(basicarena);
-	generalWindList.emplace_back(expertarena);
+	//generalWindList.emplace_back(expertarena);
 	generalWindList.emplace_back(expgold);
 	generalWindList.emplace_back(itemspells);
 	generalWindList.emplace_back(monsters);
@@ -917,7 +917,7 @@ void initialiseGeneralWindows(HWND hWnd) {
 	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	portraits = CreateWindow(L"BUTTON", L"Readjusted portraits", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.61), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	basicarena = CreateWindow(L"BUTTON", L"Basic rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * 0.50), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	expertarena = CreateWindow(L"BUTTON", L"Expert rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * 0.50), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	//expertarena = CreateWindow(L"BUTTON", L"Expert rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * 0.50), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	expgold = CreateWindow(L"BUTTON", L"1.5x exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.25), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items/characters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.25), (int)(winY * 0.53), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
 	monsters = CreateWindow(L"BUTTON", L"Rebalanced monsters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.25), (int)(winY * 0.61), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
@@ -973,16 +973,15 @@ void tooltipTextMaker(HWND hWnd) {
 	HWND tt_script = toolGenerator(text_script, hWnd, script);
 	char text_barena[] =
 		"Only the essentials of the rebalance\n"
-		"for casual play and fighting the CPU.\n";
+		"for casual play and fighting the CPU.\n"
+		"Expert arena is undergoing development.";
 	HWND tt_barena = toolGenerator(text_barena, hWnd, basicarena);
-	char text_earena[] =
-		"Additional tweaks tailored to \n"
-		"improve the PVP experience in 2P mode.\n";
-	HWND tt_earena = toolGenerator(text_earena, hWnd, expertarena);
+	//char text_earena[] =
+	//	"Additional tweaks tailored to \n"
+	//	"improve the PVP experience in 2P mode.\n";
+	//HWND tt_earena = toolGenerator(text_earena, hWnd, expertarena);
 	char text_all[] =
-		"Selects all patches except for expert arena.\n"
-		"Basic has been chosen as expert is intended\n"
-		"for PVP battles.";
+		"Selects all patches.";
 	HWND tt_all = toolGenerator(text_all, hWnd, all);
 	char text_easy[] =
 		"Allows for an easier playthrough. The encounter\n"
@@ -1111,7 +1110,7 @@ void removeGeneralButtons() {
 	ShowWindow(fasttext, SW_HIDE);
 	ShowWindow(portraits, SW_HIDE);
 	ShowWindow(basicarena, SW_HIDE);
-	ShowWindow(expertarena, SW_HIDE);
+	//ShowWindow(expertarena, SW_HIDE);
 	ShowWindow(expgold, SW_HIDE);
 	ShowWindow(itemspells, SW_HIDE);
 	ShowWindow(monsters, SW_HIDE);
