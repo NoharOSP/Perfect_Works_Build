@@ -1,9 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.4.0 here:
-- Google Drive: https://drive.google.com/file/d/15_IQOQ71faBgKGTCxIJkHBOvAhkstI_w/view?usp=sharing
-- MEGA: https://mega.nz/file/zfRijDhQ#ziM2LLfuApQHThCLQyo2c6AHuZHbO_yc9P81d2ckoB4
+Download version 0.4.1 here:
+- MEGA: https://mega.nz/file/raxznKwL#9Qk5Yzix2xDJ3z66M_tRjPuSVkS0WyueIWkkn1KnCv4
+- Google Drive: https://drive.google.com/file/d/1mlC2bicU7mhcMBGD_0R2UtwYNpYDE5Yf/view?usp=sharing
 
 ## Instructions:
 
@@ -41,6 +41,18 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.4.1:
+
+04/28/2024
+
+- The version of xdelta used is now compatible with 32-bit architecture.
+- SpellAmp, Ether Shield, ShockSprings, AutoAim Cam and Overclocker now have prices. Details are in the wiki.
+- Rico's Deathblows now have their correct effects.
+- Damage fixes have been applied to the both arena modes.
+- Fixed game freeze that occurs at Golgotha when the script and music patches are used together.
+- Fixed underflow glitch with Fei, Elly and Citan's Deathblows.
+- Fixed fatal bug that occurs when fighting Vierge.
 
 ### Version 0.4.0:
 
@@ -379,7 +391,11 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ### Builds:
 
-#### Version 0.3.7 here:
+#### Version 0.4.0:
+- Google Drive: https://drive.google.com/file/d/15_IQOQ71faBgKGTCxIJkHBOvAhkstI_w/view?usp=sharing
+- MEGA: https://mega.nz/file/zfRijDhQ#ziM2LLfuApQHThCLQyo2c6AHuZHbO_yc9P81d2ckoB4
+
+#### Version 0.3.7:
 - Google Drive: https://drive.google.com/file/d/1QfYEqd5dC8huPhPSxOvDeGWNqysoWf7S/view?usp=sharing
 - MEGA: https://mega.nz/file/qPY1kZAa#TZkfRyuHDH6DAJGnEGlQGPmC0ZJGbF_egfVqHK3qWGg
 
