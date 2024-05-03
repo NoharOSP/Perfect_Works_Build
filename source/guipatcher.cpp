@@ -951,7 +951,7 @@ void tooltipTextMaker(HWND hWnd) {
 		"the game.";
 	HWND tt_expgold = toolGenerator(text_expgold, hWnd, expgold);
 	char text_itemspells[] =
-		"WARNING: Incompatible with pre-patched saves.\n"
+		"WARNING: Incompatible with pre-0.4 saves.\n"
 		"Spells changed to rebalance the party as well\n"
 		"as item uses/stats and shop inventories. The\n" 
 		"party's base stats have also been altered to\n"
