@@ -973,8 +973,7 @@ void tooltipTextMaker(HWND hWnd) {
 	HWND tt_script = toolGenerator(text_script, hWnd, script);
 	char text_barena[] =
 		"Only the essentials of the rebalance\n"
-		"for casual play and fighting the CPU.\n"
-		"Expert arena is undergoing development.";
+		"for casual play and fighting the CPU.";
 	HWND tt_barena = toolGenerator(text_barena, hWnd, basicarena);
 	char text_earena[] =
 		"Additional tweaks tailored to \n"
