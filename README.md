@@ -1,9 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.4.1 here:
-- MEGA: https://mega.nz/file/raxznKwL#9Qk5Yzix2xDJ3z66M_tRjPuSVkS0WyueIWkkn1KnCv4
-- Google Drive: https://drive.google.com/file/d/1mlC2bicU7mhcMBGD_0R2UtwYNpYDE5Yf/view?usp=sharing
+Download version 0.4.2 here:
+- MEGA: https://mega.nz/file/DeQTCB6Q#1vDhAWx6TrgTqjIECvMSykQqWX2RU-dStQxRTWKy-7g
+- Google Drive: https://drive.google.com/file/d/14JLEKC-AhANEODlHg7Z3F3GOPGUyVvMV/view?usp=sharing
 
 ## Instructions:
 
@@ -41,6 +41,17 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.4.2:
+
+05/04/2024
+
+- Spell descriptions for Rico reflect Steel Body changes.
+- Fixed glitchy text with the Ramsus vs Id scene in the desert.
+- Fei and Citan's spells have been restored.
+- Tooltip now specifies that item/spell edits don't work with pre-0.4 saves.
+- Lite Ar has been rebalanced. Details are in the wiki.
+- Fixed a bug which caused Ether to heal gears.
 
 ### Version 0.4.1:
 
@@ -390,6 +401,11 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 ## Archive:
 
 ### Builds:
+
+#### Version 0.4.1:
+- Google Drive: https://drive.google.com/file/d/1mlC2bicU7mhcMBGD_0R2UtwYNpYDE5Yf/view?usp=sharing
+- MEGA: https://mega.nz/file/raxznKwL#9Qk5Yzix2xDJ3z66M_tRjPuSVkS0WyueIWkkn1KnCv4
+
 
 #### Version 0.4.0:
 - Google Drive: https://drive.google.com/file/d/15_IQOQ71faBgKGTCxIJkHBOvAhkstI_w/view?usp=sharing
