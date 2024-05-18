@@ -9,10 +9,12 @@ Download version 0.4.2 here:
 
 ### Patching:
 
+- Unzip the 7z file.
 - Open the Xenogears: Perfect Works Patcher.
 - Open the ISO file for either or both discs. 
 - Select which patches you wish to apply.
 - Press Patch. Script patches should take around a minute or two due to the FMV changes.
+- The output will be a new ROM with the name "Xenogears_PW_CD1" or "Xenogears_PW_CD2" along with the associated .CUE files.
 
 ### Regenerating:
 
