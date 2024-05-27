@@ -1,20 +1,18 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.4.2 here:
-- MEGA: https://mega.nz/file/DeQTCB6Q#1vDhAWx6TrgTqjIECvMSykQqWX2RU-dStQxRTWKy-7g
-- Google Drive: https://drive.google.com/file/d/14JLEKC-AhANEODlHg7Z3F3GOPGUyVvMV/view?usp=sharing
-
+Download version 0.4.3 here:
+- MEGA: https://mega.nz/file/SKgTRKwa#hvj58ksWpoJGRnwNAtz9kpt3ZG5gp-PlP6_iTEu0Lqk
+- Google Drive: https://drive.google.com/file/d/1o0BH_hl9n20vUC99fbCeIdVg3ZMg_GmW/view?usp=sharing
+  
 ## Instructions:
 
 ### Patching:
 
-- Unzip the 7z file.
 - Open the Xenogears: Perfect Works Patcher.
 - Open the ISO file for either or both discs. 
 - Select which patches you wish to apply.
 - Press Patch. Script patches should take around a minute or two due to the FMV changes.
-- The output will be a new ROM with the name "Xenogears_PW_CD1" or "Xenogears_PW_CD2" along with the associated .CUE files.
 
 ### Regenerating:
 
@@ -43,6 +41,23 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.4.3:
+
+05/27/2024
+
+- Auto and Turbo Boosters no longer reduce fuel.
+- Several gear accessories have had their prices and weights swapped.
+- Steel Body description has been corrected.
+- Gear accessory descriptions have been updated.
+- AutoAim Cam, Ether Shield, Element Coat and Body Guard now have prices. Details are in the wiki.
+- AutoAim Cam, Ether Shield, Overclocker, SpellAmp and ShockSprings now have weights. Details are in the wiki.
+- A/C and O2 Cylinder prices now match C and D Circuit prices.
+- Citan's Shinrai now adds Earth over Fire.
+- Billy's elemental shield names are now in the correct order.
+- Game no longer freezes when viewing Chu-Chu's spells.
+- Chu-Chu's spell descriptions have been updated.
+- Crimson Knights now plays when Shakhan invades Ft Jasper so that Fuse will play when Margie uses Andvari.
 
 ### Version 0.4.2:
 
@@ -403,6 +418,10 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 ## Archive:
 
 ### Builds:
+
+#### Version 0.4.2:
+- MEGA: https://mega.nz/file/DeQTCB6Q#1vDhAWx6TrgTqjIECvMSykQqWX2RU-dStQxRTWKy-7g
+- Google Drive: https://drive.google.com/file/d/14JLEKC-AhANEODlHg7Z3F3GOPGUyVvMV/view?usp=sharing
 
 #### Version 0.4.1:
 - Google Drive: https://drive.google.com/file/d/1mlC2bicU7mhcMBGD_0R2UtwYNpYDE5Yf/view?usp=sharing
