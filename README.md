@@ -1,10 +1,10 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.4.3 here:
-- MEGA: https://mega.nz/file/SKgTRKwa#hvj58ksWpoJGRnwNAtz9kpt3ZG5gp-PlP6_iTEu0Lqk
-- Google Drive: https://drive.google.com/file/d/1o0BH_hl9n20vUC99fbCeIdVg3ZMg_GmW/view?usp=sharing
-  
+Download version 0.4.4 here:
+- MEGA: https://mega.nz/file/PbJRCYCS#KVigJL6eEvb-2JM_5AiDANSnigjse4FS7zasAu1rRH8
+- Google Drive: https://drive.google.com/file/d/15v1d6Gij8hBOQ_onBRdQBSQWWLPjR096/view?usp=sharing
+- 
 ## Instructions:
 
 ### Patching:
@@ -41,6 +41,14 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.4.4:
+
+06/03/2024
+
+- All item patch combinations support Shinrai changes.
+- Forest Dance now heals all party members in a gear.
+- Add Earth no longer drains EP.
 
 ### Version 0.4.3:
 
@@ -418,6 +426,10 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 ## Archive:
 
 ### Builds:
+
+#### Version 0.4.3:
+- MEGA: https://mega.nz/file/SKgTRKwa#hvj58ksWpoJGRnwNAtz9kpt3ZG5gp-PlP6_iTEu0Lqk
+- Google Drive: https://drive.google.com/file/d/1o0BH_hl9n20vUC99fbCeIdVg3ZMg_GmW/view?usp=sharing
 
 #### Version 0.4.2:
 - MEGA: https://mega.nz/file/DeQTCB6Q#1vDhAWx6TrgTqjIECvMSykQqWX2RU-dStQxRTWKy-7g
