@@ -353,13 +353,13 @@ Ether Bullets
 Defense
 End Tutorial<Close><End of Block>
 <TextBlock 68 w:54 h:102>
-Leonard
+Leonardo
 "Hm! Not bad.<New>
 Have it your way then...
 Playtime is now over!<New>
 Let's get serious..."<Close><End of Block>
 <TextBlock 69 w:57 h:105>
-Leonard
+Leonardo
 "Hmph! That was nothing.<New>
 Enough messing around, already!
 Let's get serious..."<Close><End of Block>
