@@ -14,7 +14,7 @@ are you talking
 about, Hammer?"<Close><End of Block>
 <TextBlock 4 w:27 h:2>
 Fei
-"Hamme<~>r...!"<Close><End of Block>
+"Hamme~r...!"<Close><End of Block>
 <TextBlock 5 w:36 h:2>
 Rico
 "Stop it, Hammer!"<Close><End of Block>
@@ -80,34 +80,44 @@ Even for me...
 Just when I thought I
 finally got powerful
 enough to beat you too!"<Close><End of Block>
-<TextBlock 18 w:58 h:4>
+<TextBlock 18 w:50 h:4>
 Hammer
-"Champ...
-Promise me you'll go back
-to Noatun one day...<New>
+"Champ...<New>
+Promise me you'll 
+go back to Noatun
+one day...<New>
 You are...
 the next in line...
 to be the Kaiser...<New>
 The scanner for the 
-Kaiser's...r-room... 
-The son of the Kaiser 
-suddenly dying along...<New>
-with the Kaiser's...wife 
-around when you were born... 
-Don't you remember anything 
-bro?<New>
-The Church... They...in a 
-fit of vengeance against 
-the Kaiser pushing them out 
-of power...<New>
-raised racial tensions with 
+Kaiser's...r-room...<New>
+
+The son of the 
+Kaiser suddenly 
+dying along...<New>
+with the Kaiser's...
+wife around when you 
+were born...<New>
+
+Don't you remember 
+anything bro?<New>
+The Church... They...
+in a fit of vengeance 
+against the Kaiser 
+pushing them out<New>
+
+of power... raised 
+racial tensions with 
 the demihumans... They 
 altered your genes...<New>
-made your demihuman genes 
-more dominant...and kicked 
-you out of the Central 
-District when the Kaiser 
-was off at the frontlines...<New>
+made your demihuman 
+genes more dominant...
+and kicked you out of 
+the Central District<New>
+
+when the Kaiser was 
+off at the 
+frontlines...<New>
 Lied to the Kaiser... 
 Said you died... "<Close><End of Block>
 <TextBlock 19 w:44 h:4>
