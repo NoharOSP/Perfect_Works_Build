@@ -194,13 +194,13 @@ Durability (H.P.) to spare.<Close><End of Block>
 <TextBlock 57 w:60 h:16>
 To approach your opponent,
 press the Directional Button
-towards him/her.<New>
+toward him/her.<New>
 To retreat from your opponent,
 press the Directional Button
 away from him/her.<New>
 Pressing Up / Down on the
 Directional Button will move
-you away from / towards the
+you away from / toward the
 screen respectively.<New>
 Push the <T> Button to jump.<Close><End of Block>
 <TextBlock 58 w:63 h:10>
@@ -365,6 +365,6 @@ Enough messing around, already!
 Let's get serious..."<Close><End of Block>
 <TextBlock 70 w:10 h:110>
 Fei
-"????<Delay 90>... What's going on?"<New>
+"????<Delay 90> ...What's going on?"<New>
 Fei
 "What the...!? <Delay 90> My Gear's...!?"<Close><Close><:><:><:><End of Block>
