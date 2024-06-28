@@ -63,14 +63,14 @@ get away from reality and
 forget the cares of the
 world...yes it is.<Close><End of Block>
 <TextBlock 14 w:16 h:2>
-*Zzz*...
-*Zzz*...<Close><End of Block>
+*zzz*...
+*zzz*...<Close><End of Block>
 <TextBlock 15 w:42 h:5>
 Thank you, thank you!
 Come again, will ya?<Delay 20>
 I'll give you a
 discount!!
-*Zzz*...*zzz*...<Close><End of Block>
+*zzz*...*zzz*...<Close><End of Block>
 <TextBlock 16 w:58 h:6>
 The great angel watched over
 the distant dawn, while dusk

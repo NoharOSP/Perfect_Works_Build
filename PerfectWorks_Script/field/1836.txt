@@ -8,98 +8,92 @@ Fei
 "Doc!"<Delay 30><Close><End of Block>
 <TextBlock 4 w:52 h:4>
 Citan
-"I heard from Torah and
-hurried straight here!<New>
-Boy, are you a lucky
-young man...<Delay 10><New>
+"I got a message from
+Torah and hurried
+straight here!<New>
+Oh, I am so glad...<Delay 10>
 You were very fortunate to
 have landed near Torah's
-research facility<Delay 5>..."<Close><End of Block>
-<TextBlock 5 w:52 h:4>
+laboratory<Delay 5>..."<Close><End of Block>
+<TextBlock 5 w:42 h:4>
 Torah
-"Hmph...<Delay 5> This is no
-research facility-- <Delay 10>
-this is my man cave!"<Close><End of Block>
-<TextBlock 6 w:50 h:3>
+"Hmph,<Delay 5> this is no
+laboratory.<Delay 10> More like
+a man's hideout!"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
 Torah
-"Citan told me about you,
-young man.<New>
-Imagine my shock...
-stumbling upon a couple
-lying on the ground,<New>
-covered in blood..."<Close><End of Block>
+"Mr. Citan has brought
+me up to date about you
+folks.<New>
+Imagine my shock <-->
+a couple, collapsed and
+all bloody like that."<Close><End of Block>
 <TextBlock 7 w:22 h:1>
 A couple...<Close><End of Block>
-<TextBlock 8 w:34 h:4>
+<TextBlock 8 w:32 h:4>
 Citan
-"At any rate,<New>
-you made a very
-narrow escape,
-dear boy.<New>
-Make sure you
-thank the
-gentleman who
-saved you!"<Close><End of Block>
-<TextBlock 9 w:44 h:4>
+"At any rate,
+it was a narrow
+escape.<New>
+You owe this man
+many thanks!"<Close><End of Block>
+<TextBlock 9 w:38 h:4>
 Fei
-"Torah,<Delay 10>
-thank you so much<Delay 5>...<Delay 10>
-for helping Elly<Delay 5>..."<Close><End of Block>
-<TextBlock 10 w:50 h:4>
+"Torah,<Delay 10> I really
+appreciate it<Delay 5>...<Delay 10>
+You saving Elly<Delay 5>..."<Close><End of Block>
+<TextBlock 10 w:36 h:4>
 Fei
-"Both Elly and I were
-hurt so badly...<Delay 30><New>
-What is that machine,
-anyway?"<Close><End of Block>
+"But both Elly and
+I were in such bad
+shape...<New>
+Just what is that
+machine...?"<Close><End of Block>
 <TextBlock 11 w:54 h:4>
 Torah
-"It's called a nanoreactor,
-sonny.<New>
+"It's called a nanoreactor.<New>
 It's a device that can
-rebuild substances at
+reconstruct matter at
 the molecular level.<New>
-And not only can it heal
-humans, but theoretically
-it should also be able to
-create many substances."<Close><End of Block>
-<TextBlock 12 w:48 h:3>
+The nanotechnology can not
+only heal people, but in
+theory it can produce any
+kind of substance."<Close><End of Block>
+<TextBlock 12 w:40 h:3>
 Fei
-"Is that the same thing
-that guy in Solaris...<New>
-I mean,
-is that the same thing
-Karellen is studying?"<Close><End of Block>
-<TextBlock 13 w:40 h:2>
+"That guy in
+Solaris... Karellen.<New>
+Isn't this the
+same thing he's
+researching...?"<Close><End of Block>
+<TextBlock 13 w:20 h:2>
 Torah
-"Yes, that's right."<Close><End of Block>
-<TextBlock 14 w:50 h:3>
+"Yes."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
 Torah
-"I<Delay 10> was the one who taught
-him about nanotechnology."<Close><End of Block>
+"The one who taught him
+about nanotechnology was<Delay 10>
+none other than myself..."<Close><End of Block>
 <TextBlock 15 w:20 h:2>
 Fei
-"You were?"<Close><End of Block>
-<TextBlock 16 w:48 h:4>
+"You?"<Close><End of Block>
+<TextBlock 16 w:48 h:3>
 Torah
-"We shouldn't waste time
-talking about such an<Delay 10>
-unimportant subject.<New>
-Looks like her treatment
-is done."<Close><End of Block>
+"Well,<Delay 10> that's enough
+idle chitchat.<New>
+It looks like the lady's
+treatment is done, too."<Close><End of Block>
 <TextBlock 17 w:34 h:4>
 Torah
-"Oh, you don't
-need to come,
-sonny.<Delay 10><New>
+"Ohh, no need
+for you to come.<Delay 10>
 Just wait there."<Close><End of Block>
 <TextBlock 18 w:10 h:2>
 Fei
 "..."<Close><End of Block>
 <TextBlock 19 w:16 h:2>
 Citan
-"Fei...<New>
-She will
-be fine."<Close><End of Block>
+"Fei..."<Close><End of Block>
 <TextBlock 20 w:16 h:2>
 Fei
 "Elly!!"<Close><End of Block>
@@ -107,55 +101,55 @@ Fei
 Elly
 "Fei...<Delay 20>
 I..."<Close><End of Block>
-<TextBlock 22 w:50 h:4>
+<TextBlock 22 w:48 h:4>
 Torah
-"Ahem! Now, why don't you
-two young'uns go get some
-fresh air outside?<New>
-It ought to ease the
-shock of the change."<Close><End of Block>
-<TextBlock 23 w:42 h:3>
+"Ahem, well, why don't
+you both go out and get
+some fresh air?<New>
+It ought to soothe your
+bodies after all those
+sudden changes."<Close><End of Block>
+<TextBlock 23 w:46 h:3>
 Shevat Emissary
-"Fei...!<Delay 10><New>
-We've got a
-situation!"<Close><End of Block>
-<TextBlock 24 w:52 h:4>
+"Fei, sir...<Delay 10>
+We've got a situation!"<Close><End of Block>
+<TextBlock 24 w:58 h:4>
 Shevat Emissary
-"Today, a peace settlement
-between Av and Kislev
-is being held at Shevat...<New>
-but, Solaris' mobile
-weapons are approaching
-Shevat as we speak!<Delay 10>
-Please, help us!"<Close><End of Block>
-<TextBlock 25 w:46 h:3>
+"The peace signing between
+Av and Kislev was due to
+take place in Shevat today...<New>
+But a Solaris mobile weapon
+is fast approaching Shevat!<Delay 10>
+You must please lend us
+your strength!"<Close><End of Block>
+<TextBlock 25 w:38 h:4>
 Torah
-"That has nothing to do
-with this young man!!"<Close><End of Block>
-<TextBlock 26 w:30 h:2>
+"Such things have
+nothing to do with
+this young'un!!"<Close><End of Block>
+<TextBlock 26 w:32 h:2>
 Shevat Emissary
-"Torah!?"<Close><End of Block>
-<TextBlock 27 w:48 h:4>
+"Master Torah!!"<Close><End of Block>
+<TextBlock 27 w:46 h:4>
 Torah
-"How dare you be so
-selfish!?<New>
-Citan told me all about
-you, and now you show
-up<New> 
-only after finding
-out that Id is
-now controllable...<New>
-Aren't you ashamed? You
-fools haven't changed
-at all since those
-times...<New>
-You only care
-about yourselves."<Close><End of Block>
-<TextBlock 28 w:50 h:4>
+"What selfishness.<Delay 10>
+I've heard about you
+from Mr. Citan.<New>
+To have the audacity
+to show up now you've
+heard that Id is
+controllable...<New>
+Aren't you ashamed?
+You haven't changed one
+bit since back then...<New>
+All you care about is
+preserving your own
+positions."<Close><End of Block>
+<TextBlock 28 w:54 h:4>
 Torah
-"Fei! You don't need to
-listen to the men who
-once tried to kill you!"<Close><End of Block>
+"Fei, you don't need to
+listen to this lot who once
+turned their backs on you!"<Close><End of Block>
 <TextBlock 29 w:16 h:2>
 Fei
 "But..."<Close><End of Block>
@@ -164,7 +158,7 @@ Citan
 "..."<Close><End of Block>
 <TextBlock 31 w:30 h:4>
 Elly
-"Go, Fei.
+"Go help them.<Delay 10>
 I'll go to the
 Mass Driver..."<Close><End of Block>
 <TextBlock 32 w:14 h:2>
@@ -172,109 +166,111 @@ Fei
 "Elly?"<Close><End of Block>
 <TextBlock 33 w:52 h:4>
 Elly
-"No matter what happened
-before, Shevat needs your
-help now.<New>
-Although you may be saving
-some selfish people...<New>
-there is still the world
-itself to save,<New>
-and its countries with
-many more innocent people
-in them.<New>
-Please,
-don't forget that."<Close><End of Block>
+"Whatever happened before,
+Shevat needs your strength
+now.<New>
+Maybe that would be
+convenient for certain
+special individuals.<New>
+But it's the lives of many
+ordinary people that make
+up a country, a world.<Delay 10>
+Don't forget that."<Close><End of Block>
 <TextBlock 34 w:50 h:4>
 Elly
-"Bart and his people are
+"Bart and the others are
 fighting to protect those
-same lives, aren't they?<New>
+lives, aren't they?<New>
 So please, go help them!"<Close><End of Block>
-<TextBlock 35 w:32 h:3>
+<TextBlock 35 w:36 h:4>
 Fei
 "Are you sure?<Delay 10>
-What about you?"<Close><End of Block>
-<TextBlock 36 w:44 h:3>
+What about you and
+that Mass Driver?"<Close><End of Block>
+<TextBlock 36 w:36 h:4>
 Elly
-"Don't worry about me.<Delay 10>
-I'll manage somehow."<Close><End of Block>
-<TextBlock 37 w:50 h:2>
+"Don't worry about
+that.<Delay 10> I'll figure
+something out."<Close><End of Block>
+<TextBlock 37 w:40 h:2>
 Fei
-"But,<New>
-you'll be all by
-yourself..."<Close><End of Block>
-<TextBlock 38 w:50 h:3>
+"But<Delay 15> on your own..."<Close><End of Block>
+<TextBlock 38 w:38 h:4>
 Citan
-"I will accompany Elly.<Delay 10>
-You do not need to worry.<New>
-I have brought along my
-own Omnigear."<Close><End of Block>
-<TextBlock 39 w:46 h:2>
+"I will accompany
+Elly.<Delay 10> There is no
+need to worry.<New>
+I will be bringing
+my own Omnigear."<Close><End of Block>
+<TextBlock 39 w:36 h:2>
 Fei
-"You have an Omnigear?"<Close><End of Block>
+"Your...Omnigear?"<Close><End of Block>
 <TextBlock 40 w:42 h:4>
 Citan
-"I do.<Delay 20>
-It is the same one I
-brought from Solaris<--><New>
-I simply left it with
+"That is right.<New>
+Something I took from
+the homeland back in
+my Solaris Guardian
+Angel days.<New>
+I left it with Master
 Gaspar in case of
 emergencies."<Close><End of Block>
-<TextBlock 41 w:40 h:4>
+<TextBlock 41 w:38 h:4>
 Fei
-"...<Delay 30>
-Alright.<Delay 10> Please keep
-her safe."<Close><End of Block>
+"Alright.<Delay 30>
+Do everything you
+can for Elly, Doc."<Close><End of Block>
 <TextBlock 42 w:38 h:2>
 Fei
 "Elly,<Delay 10> be careful."<Close><End of Block>
 <TextBlock 43 w:18 h:2>
 Elly
 "I will."<Close><End of Block>
-<TextBlock 44 w:50 h:3>
+<TextBlock 44 w:34 h:3>
 Shevat Emissary
-"We are truly grateful
-for your kindness,<Delay 10> Fei!"<Close><End of Block>
-<TextBlock 45 w:34 h:3>
+"We are in your
+debt,<Delay 10> Fei, sir!!"<Close><End of Block>
+<TextBlock 45 w:36 h:3>
 Torah
 "Hmph!<Delay 10>
-Suit yourselves."<Close><End of Block>
+Do what you like."<Close><End of Block>
 <TextBlock 46 w:30 h:3>
 Fei
-"They're targeting
+"The location's
 Ignis, right?"<Close><End of Block>
-<TextBlock 47 w:56 h:4>
+<TextBlock 47 w:48 h:4>
 Shevat Emissary
-"Yes.<Delay 10>
-The goal of the enemy is to
-destroy the cities in Ignis.<New>
-They have already destroyed
-half of Breidablik and will
-probably reach Nisan in
-about four hours.<New>
-Shevat will try to drive
-them back with all the
-power it has!"<Close><End of Block>
-<TextBlock 48 w:50 h:3>
+"Yes.<New>
+The enemy aiming to wipe
+out the cities in Ignis
+has already partially
+destroyed Breidablik<New>
+and will reach Nisan
+airspace in about
+four hours.<New>
+Shevat is ready to
+retaliate with all
+our might!"<Close><End of Block>
+<TextBlock 48 w:42 h:3>
 Fei
-"Four hours!?<Delay 10>
-That's cutting it close!"<Close><End of Block>
-<TextBlock 49 w:54 h:4>
+"Four hours...<Delay 10> We'll
+be cutting it close!"<Close><End of Block>
+<TextBlock 49 w:50 h:4>
 Torah
-"No need to worry.
-Balthasar and I fixed your
-Gear with the nanomachines.<New>
-It's much more powerful
-than it ever was before.
+"No need to worry.<New>
+Balthasar and I have
+repaired your Gear
+with nanomachines.<New>
+It's far more powerful
+than it was before.
 Why, you should get there
 in half the time."<Close><End of Block>
 <TextBlock 50 w:42 h:3>
 Fei
-"What?<Delay 10>
-Is Ol' Man Bal here?"<Close><End of Block>
-<TextBlock 51 w:54 h:2>
+"Huh?<Delay 10>
+Ol' Man Bal is here?"<Close><End of Block>
+<TextBlock 51 w:38 h:2>
 Citan
-"That he is.<New>
-Emeralda is here as well."<Close><End of Block>
+"And Emeralda too."<Close><End of Block>
 <TextBlock 52 w:0 h:1>
 <Close><End of Block>

@@ -1,37 +1,37 @@
 <TextBlock 1 w:36 h:2>
 What am I doing?
-*Huff*...<Delay 30>*puff*...<Close><End of Block>
+*huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 2 w:36 h:2>
 Can't you tell!?
-*Huff*...<Delay 30>*puff*...<Close><End of Block>
+*huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 3 w:36 h:2>
 I'm working out.
-*Huff*...<Delay 30>*puff*...<Close><End of Block>
+*huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 4 w:50 h:2>
 Gonna kick Solaris' butt.
-*Huff*...<Delay 30>*puff*...<Close><End of Block>
+*huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 5 w:48 h:2>
 I have to get pumped up.
-*Huff*...<Delay 30>*puff*...<Close><End of Block>
+*huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 6 w:46 h:2>
 It's all over for them.
-*Huff*...<Delay 30>*puff*...<Close><End of Block>
+*huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 7 w:50 h:2>
 My last deathblow skill.
-*Huff*...<Delay 30>*puff*...<Close><End of Block>
+*huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 8 w:36 h:3>
 If I only had my
 Cyrus Punch!
-*Huff*...<Delay 30>*puff*...<Close><End of Block>
+*huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 9 w:48 h:2>
 You just leave it to me.
-*Huff*...<Delay 30>*puff*...<Close><End of Block>
+*huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 10 w:48 h:2>
 Take a nap or something.
-*Huff*...<Delay 30>*puff*...<Close><End of Block>
+*huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 11 w:42 h:2>
 Wahahaha...ha...ha...
-*Huff*...<Delay 30>*puff*...<Close><End of Block>
+*huff*...<Delay 30>*puff*...<Close><End of Block>
 <TextBlock 12 w:60 h:13>
 <Opcode 1 255> Down with Solaris!!
  The world is ours!
@@ -165,7 +165,7 @@ Well, if we're not careful
 ourselves, our fates may
 be similar too. Heh.<Close><End of Block>
 <TextBlock 24 w:18 h:1>
-*Huff*...<Opcode 2 10><Close><End of Block>
+*huff*...<Opcode 2 10><Close><End of Block>
 <TextBlock 25 w:60 h:5>
 Yeah, they say this city used
 to be like any other city 

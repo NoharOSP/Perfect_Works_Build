@@ -20,6 +20,6 @@ Even under fire, his heart
 is on Gears, Gears,<Delay 5> Gears.<Delay 5>
 Nothing but Gears<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 5 w:52 h:3>
-*Sigh*<Delay 5>...<Delay 30> Maybe I should
+*sigh*<Delay 5>...<Delay 30> Maybe I should
 look for another man.<Delay 15>
 I've had it with Battlers.<Delay 5><Close><Close><End of Block>

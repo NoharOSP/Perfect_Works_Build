@@ -466,7 +466,7 @@ When you leave I'll
 hide, then you gotta
 find me.<Close><End of Block>
 <TextBlock 117 w:32 h:2>
-*Sigh*, I have
+*sigh* I have
 no confidence.<Close><End of Block>
 <TextBlock 118 w:40 h:3>
 Good job. 

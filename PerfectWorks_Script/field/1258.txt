@@ -97,10 +97,10 @@ Billy
 <TextBlock 22 w:46 h:3>
 It's like something's
 in there, but you can't
-go inside.<Delay 10><New>
+go inside.<New>
 Some kind of haunted
 house?<Delay 10>
-...*Shiver*...<Close><End of Block>
+...*shiver*...<Close><End of Block>
 <TextBlock 23 w:42 h:2>
 Billy says don't talk
 to strangers...<Close><End of Block>
@@ -112,7 +112,7 @@ Yeah!!<Opcode 2 30><Close><End of Block>
 Where is everyone hiding?<Close><End of Block>
 <TextBlock 27 w:50 h:2>
 I wonder if Uncle Stone
-will come back and play? <Close><End of Block>
+will come back and play?<Close><End of Block>
 <TextBlock 28 w:48 h:1>
 I still can't find them!<Close><End of Block>
 <TextBlock 29 w:42 h:2>

@@ -1,184 +1,177 @@
 <TextBlock 1 w:60 h:8>
-Dreaming<Delay 5>...<Delay 45>
+A dream<Delay 5>...<Delay 45>
  
-I was dreaming<Delay 5>...<Delay 15>
-Or perhaps it was a 
+I had a dream<Delay 5>...<Delay 15>
+Or perhaps it was a
 long-forgotten memory<Delay 5>...<Delay 30>
  
 A dream<Delay 5>...<Delay 15>
 A memory<Delay 5>...<Close><End of Block>
 <TextBlock 2 w:50 h:10>
  
-Things remembered
-when one is asleep<Delay 5>...<Delay 30>
-Things forgotten
-when one is awake<Delay 5>...<Delay 45>
+Something remembered
+when you're asleep<Delay 5>...<Delay 30>
+Something forgotten
+when you're awake<Delay 5>...<Delay 45>
  
-Where the deepest layers
-of memories<Delay 15>
-Become the outmost layers
-of one's dreams<Delay 5>...<New>
+The depths of the memory<Delay 15>
+are the surface of
+the dream<Delay 5>...<New>
  
-Which are reality?<Delay 10>
-Which are illusions?<Delay 10>
-One cannot tell until
-one awakes<Delay 5>...<Delay 30>
+Which is truth<Delay 10>
+and which is fiction...<Delay 10>
+you cannot tell until
+you wake up<Delay 5>...<Delay 30>
  
-Or perhaps they are,<Delay 5>
-At the same time, both<Delay 5>
-Truth and fiction<Delay 5>...<Close><End of Block>
-<TextBlock 3 w:48 h:11>
-A vast nebula<Delay 5>...<Delay 15>
-With no boundaries<Delay 5>...<Delay 30>
+Or perhaps<Delay 5> it is both
+truth and fiction<Delay 5>...<Close><End of Block>
+<TextBlock 3 w:50 h:12>
+Something nebulous<Delay 5>...<Delay 15>
+with no boundaries<Delay 5>...<Delay 30>
  
-An emptiness equivalent
-To my own existence<Delay 5>...<Delay 45>
+As indistinct as that
+thing we call the self<Delay 5>...<Delay 45>
  
 I dreamt such a dream<Delay 5>...<Delay 30>
  
-A long<Delay 5>...<Delay 15>
-long<Delay 15>
-dream<Delay 5>...<Close><End of Block>
-<TextBlock 4 w:50 h:8>
+Long<Delay 5>...<Delay 15> Longer than
+words can express...<Delay 15>
+A long, long dream<Delay 5>...<Close><End of Block>
+<TextBlock 4 w:48 h:8>
 'Elly'<Delay 5>...<Delay 45>
  
-It was a time when she
-went by such a name.<Delay 15>
-A time when we had met
-up with one another.<Delay 15>
-A time when nothing
-mattered between us.<New>
+We'd met back when
+she went by that name...<Delay 15>
+A time when our
+respective positions
+didn't matter to us...<New>
  
-It was better that way<Delay 5>...<Delay 15>
+It was fine that way<Delay 5>...<Delay 15>
 Just two people,<Delay 5>
-together<Delay 5>...<Delay 45>
+in that place<Delay 5>...<Delay 45>
  
-And that was all
-we needed.<Close><End of Block>
+That was enough...<Close><End of Block>
 <TextBlock 5 w:52 h:8>
-Dreams<Delay 5>...<Delay 45>
+A dream<Delay 5>...<Delay 45>
  
-A life of a man named
-Lacan<Delay 5>...<Delay 15>
-And the lives of countless
-other men<Delay 5>...<Delay 30>
+The life of a man
+named Lacan<Delay 5>...<Delay 15>
+And the lives of
+several other men<Delay 5>...<Delay 30>
  
 All but dreams<Delay 5>...<Close><End of Block>
-<TextBlock 6 w:52 h:8>
+<TextBlock 6 w:46 h:7>
 Now that I'm awake,<Delay 5>
-those countless
-long,<Delay 5> heartrending<Delay 5> dreams
-are almost impossible to
-remember at all<Delay 5>...<New>
- 
+those many long,<Delay 5>
+heartrending<Delay 5> dreams
+are almost utterly
+beyond recall<Delay 5>...<New>
 In those dreams,<Delay 5>
 I loved one woman<Delay 5>...<Delay 15>
 No matter the day,<Delay 15>
-no matter the era<Delay 5>...<Delay 15>
-That did not change<Delay 5>...<Delay 45>
+no matter the era,<Delay 15>
+that did not change<Delay 5>...<Delay 45>
  
-Nor did her name<Delay 5>...<Close><End of Block>
-<TextBlock 7 w:54 h:12>
-That dream<Delay 5> changed me<Delay 5>...<Delay 30>
-That dream was the catalyst
-for me to learn what my
-purpose was.<Delay 30>
+As for her name<Delay 5>...<Close><End of Block>
+<TextBlock 7 w:52 h:12>
+Those dreams<Delay 5> changed me<Delay 5>...<Delay 30>
+Those dreams have become
+a catalyst, and I feel
+like I know now what
+I should do<Delay 5>...<Delay 15>
+What I must accomplish<Delay 5>...<Delay 30>
  
-I think I know now<Delay 5>...<Delay 15>
-What I have to do<Delay 5>...<Delay 30>
- 
-That long, long memory
-of a dream<Delay 5>...<Delay 30>
-Perhaps it was
-the memory of my soul<Delay 5>...<Close><End of Block>
-<TextBlock 8 w:52 h:8>
+That long, long
+dream-memory<Delay 5>...<Delay 30>
+Perhaps that's the
+memory of my soul<Delay 5>...<Close><End of Block>
+<TextBlock 8 w:46 h:10>
 A dream<Delay 5>...<Delay 45>
  
-I was dreaming a dream<Delay 5>...<Delay 15>
-Or perhaps it was a memory
-from a distant past<Delay 5>...<Delay 30>
+I had a dream<Delay 5>...<Delay 15>
+Or perhaps it was the
+memory of someone from
+a faraway time<Delay 5>...<Delay 30>
  
 A dream<Delay 5>...<Delay 15>
 A memory<Delay 5>...<Close><End of Block>
-<TextBlock 9 w:60 h:10>
-Those words I was
-unable to convey<Delay 5>...<Delay 15>
+<TextBlock 9 w:54 h:10>
 That day<Delay 5>...<Delay 5>
 That time<Delay 5>...<Delay 30>
+Words that couldn't
+be conveyed<Delay 5>...<Delay 15>
+Thoughts that couldn't
+come to fruition<Delay 5>...<Delay 15>
  
-Those thoughts I was
-unable to carry out<Delay 5>...<New>
 Words and thoughts<Delay 5>...<Delay 5>
-The connection between
-the two<Delay 5>...<Delay 45>
- 
+The relationship
+between the two<Delay 5>...<New>
 Without words,<Delay 5>
-Thoughts cannot be conveyed<Delay 5>...<Delay 10>
+thoughts aren't conveyed<Delay 5>...<Delay 10>
 Without thoughts,<Delay 5>
-there are no words<Delay 5>...<Delay 15>
-They both are vital
-to each other<Delay 5>...<New>
-They can never be
-divided<Delay 5>...<Delay 10>
-Like the wings of angels<Delay 5>...<Delay 10>
-Like a man and a woman<Delay 5>...<Close><End of Block>
-<TextBlock 10 w:58 h:13>
-An unchangeable destiny<Delay 5>...<Delay 15>
-Desires one wishes
-one could change<Delay 5>...<Delay 30>
+words would disappear<Delay 5>...<Delay 15>
+Both are precious<Delay 5>...
  
-Meeting with the person
+Things that can never
+be divided<Delay 5>...<Delay 10>
+The wings of an angel<Delay 5>...<Delay 10>
+A man and a woman<Delay 5>...<Close><End of Block>
+<TextBlock 10 w:54 h:13>
+An unchangeable destiny<Delay 5>...<Delay 15>
+Feelings I wish
+I could change<Delay 5>...<Delay 30>
+ 
+Meeting the one
 who would change me<Delay 5>...<Delay 5>
-And watching myself change<Delay 5>...<Delay 45>
+And then me changing<Delay 5>...<Delay 45>
  
 I dreamt such a dream<Delay 5>...<Delay 30>
  
-A long<Delay 5>...<Delay 15>
-long,<Delay 15>
-dream<Delay 5>...<Close><End of Block>
-<TextBlock 11 w:60 h:7>
-Elehayym<Delay 5>...<Delay 45>
-I liked that name.<Delay 15><New>
-I like it because... when I 
-first met him, that is what 
-he called me<Delay 5>...<Delay 30>
-It is my real name.<Delay 5><Close><End of Block>
-<TextBlock 12 w:52 h:8>
-Dreams<Delay 5>...<Delay 45>
+Long<Delay 5>...<Delay 15> Longer than
+words can express...<Delay 15>
+A long, long dream<Delay 5>...<Close><End of Block>
+<TextBlock 11 w:58 h:7>
+'Elehayym'<Delay 5>...<Delay 45>
  
-The life of a woman named
-Sophia<Delay 5>...<Delay 15>
-And the lives of countless
-other women<Delay 5>...<Delay 30>
+I liked that name...<Delay 15>
+Because it's the name I went
+by when I first met him<Delay 5>...<Delay 30>
+ 
+Because it's my real name...<Delay 5><Close><End of Block>
+<TextBlock 12 w:52 h:8>
+A dream<Delay 5>...<Delay 45>
+ 
+The life of a woman
+named Sophia<Delay 5>...<Delay 15>
+And the lives of
+several other women<Delay 5>...<Delay 30>
  
 All but dreams<Delay 5>...<Close><End of Block>
-<TextBlock 13 w:52 h:8>
+<TextBlock 13 w:46 h:7>
 Now that I'm awake,<Delay 5>
-those countless
-long,<Delay 5> heartrending<Delay 5> dreams
-are almost impossible to
-remember at all<Delay 5>...<New>
- 
-In those dreams,
+those many long,<Delay 5>
+heartrending<Delay 5> dreams
+are almost utterly
+beyond recall<Delay 5>...<New>
+In those dreams,<Delay 5>
 I loved one man<Delay 5>...<Delay 15>
 No matter the day,<Delay 15>
-no matter the era<Delay 5>...<Delay 15>
-That did not change<Delay 5>...<Delay 45>
+no matter the era,<Delay 15>
+that did not change<Delay 5>...<Delay 45>
  
-Only his name<Delay 5>...<Close><End of Block>
-<TextBlock 14 w:54 h:12>
-That dream<Delay 5> changed me<Delay 5>...<Delay 30>
-That dream was the catalyst
-for me to learn what my
-purpose was.<Delay 30>
+As for his name<Delay 5>...<Close><End of Block>
+<TextBlock 14 w:52 h:12>
+Those dreams<Delay 5> changed me<Delay 5>...<Delay 30>
+Those dreams have become
+a catalyst, and I feel
+like I know now what
+I should do<Delay 5>...<Delay 15>
+What I must accomplish<Delay 5>...<Delay 30>
  
-I think I know now<Delay 5>...<Delay 15>
-What I have to do<Delay 5>...<Delay 30>
- 
-That long, long memory
-of a dream<Delay 5>...<Delay 30>
-Perhaps it was
-the memory of my soul<Delay 5>...<Close><End of Block>
+That long, long
+dream-memory<Delay 5>...<Delay 30>
+Perhaps that's the
+memory of my soul<Delay 5>...<Close><End of Block>
 <TextBlock 15 w:62 h:5>
 In order to disperse the nano-
 machines, Emeralda and I headed

@@ -152,11 +152,11 @@ Bart
 "First...<Delay 30>
 Geburah is the
 big problem."<Close><End of Block>
-<TextBlock 32 w:46 h:4>
+<TextBlock 32 w:44 h:4>
 Citan
-"Yes, Ramsus is headed
-towards achieving his
-goals.<New>
+"Yes, Ramsus is well
+on the way toward
+achieving his goals.<New>
 That he is now the
 commander of Geburah
 is proof of that.<New>

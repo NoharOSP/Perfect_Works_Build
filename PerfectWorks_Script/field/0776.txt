@@ -97,7 +97,7 @@ This isn't a
 tourist attraction?<Delay 30>
 I guess not.<Close><End of Block>
 <TextBlock 21 w:50 h:3>
-*Sigh*...
+*sigh*...
 That guy there...<New>
 Once in a while we get
 those ignorant types

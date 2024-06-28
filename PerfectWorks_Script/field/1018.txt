@@ -18,7 +18,7 @@ none that fit me.<Delay 30> Guns are
 too dangerous,<Delay 5> and swords
 are heavy and bulky<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 5 w:50 h:3>
-*Sigh*<Delay 5>...<Delay 5>isn't there a
+*sigh*<Delay 5>...<Delay 5> Isn't there a
 weapon that's safe, light
 and easy to use?<Close><End of Block>
 <TextBlock 6 w:34 h:2>

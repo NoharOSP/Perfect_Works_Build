@@ -6,7 +6,7 @@ Elly
 This way!"<Close><End of Block>
 <TextBlock 3 w:22 h:2>
 Elly
-"*Sigh*..."<Close><End of Block>
+"*sigh*..."<Close><End of Block>
 <TextBlock 4 w:28 h:4>
 Rank
 "What's wrong?

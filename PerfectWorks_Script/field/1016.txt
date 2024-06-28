@@ -67,7 +67,7 @@ Um<Delay 5>...<Delay 5> Change members?<Delay 15>
 <Opcode 1 255>    No
     Change party<Close><End of Block>
 <TextBlock 14 w:44 h:4>
-No way<Delay 5>...<Delay 5> *Sniffle*<Delay 5>...<Delay 5>
+No way<Delay 5>...<Delay 5> *sniffle*<Delay 5>...<Delay 5>
 So<Delay 15>...<Delay 5>please come
 again. Um<Delay 5>...<Delay 5>next time,
 please reorganize.<Close><End of Block>

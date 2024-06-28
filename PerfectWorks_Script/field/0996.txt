@@ -3,14 +3,14 @@ Fei
 "I don't have a permission
 slip.<Delay 15> But I'm the Battling
 Champion. Does that help?"<Close><End of Block>
-<TextBlock 2 w:48 h:4>
+<TextBlock 2 w:38 h:4>
 Fei
-"*Huff, puff*! <Delay 5>...<Delay 5>Damn!<Delay 15>
-Boy, that guy runs away
-fast!"<Opcode 2 90><Close><End of Block>
+"*huff, puff*
+<Delay 5>...<Delay 5>Damn!!<Delay 15>
+What a speedy guy."<Opcode 2 90><Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Fei
-"*Huff,<Delay 5> puff*<Delay 5>...<Delay 15>
+"*huff,<Delay 5> puff*<Delay 5>...<Delay 15>
 Around here should be 
 far enough, I guess<Delay 5>..."<Close><End of Block>
 <TextBlock 4 w:54 h:4>

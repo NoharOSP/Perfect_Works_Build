@@ -1,5 +1,5 @@
 <TextBlock 1 w:40 h:1>
-...*Sniff, sniff*...<Close><End of Block>
+...*sniff, sniff*...<Close><End of Block>
 <TextBlock 2 w:50 h:3>
 Don't tell anyone I'm
 keeping a pet down here.<New>
@@ -16,7 +16,7 @@ how often I tell him that
 guy's not here anymore,
 he won't understand...<New>
 Hey, you! He's...<Delay 30> He's...<Delay 30>
-Damn...<Delay 30> *Sob*...<Close><End of Block>
+Damn...<Delay 30> *sob*...<Close><End of Block>
 <TextBlock 5 w:46 h:3>
 He's gone...<New>
 The dog he owned keeps

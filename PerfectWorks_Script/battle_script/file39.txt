@@ -1,34 +1,36 @@
 <TextBlock 1 w:48 h:4>
-On my way to Ignis,
-   I encountered him
-       again.
-<Delay 30><New>
-       Carlin Ramsus...<New>
-Ramsus once again
-   stood in my way,
-      in his Omnigear
-         'Vendetta'...<Close><End of Block>
+On my way toward Ignis,
+I encountered him again.
+<Delay 30> 
+      Carlin Ramsus...<New>
+Riding the Omnigear
+   Vendetta, once more
+      Ramsus stood
+           in my way.<Close><End of Block>
 <TextBlock 2 w:44 h:5>
-It was an unavoidable
-battle.<Delay 60> I unleashed the
-new function that was
-added to my Mark II
-Gear<Delay 10>...<Delay 30> 'System Id'!<Close><End of Block>
+It was an
+ unavoidable
+     battle.<New>
+I unleashed System Id,
+  the new function
+    that had been
+      installed in my
+         Mark II Gear.<Close><End of Block>
 <TextBlock 3 w:46 h:5>
-Ramsus'
-   absolute confidence
-      was shattered...<New>
+Ramsus' absolute
+   self-confidence
+       was shattered.<New>
 Leaving only his
-   cry of disbelief
-      and resentment,<New>
-Ramsus' machine
-   disappeared into
-      a sea of foliage.<New>
+   cries of disbelief
+        and resentment,<New>
+ Ramsus' machine
+    vanished into
+      the sea of trees.<New>
 Why he was so
-   fixated on me...
-      I know not why.
-         But he did say
-            this...<Close><End of Block>
+  relentless with me,
+    I don't know.
+<Delay 30> 
+     All he said was...<Close><End of Block>
 <TextBlock 4 w:36 h:2>
-If only you
-   didn't exist<Delay 30>...<Opcode 2 60><Close><Close>0<UNKNOWN CHUNK 4><Close><End of Block>
+'If it wasn't
+     for you<Delay 30>...'<Opcode 2 90><Close><Close>0<UNKNOWN CHUNK 4><Close><End of Block>

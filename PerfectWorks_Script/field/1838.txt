@@ -1,14 +1,15 @@
 <TextBlock 1 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
-<TextBlock 2 w:42 h:2>
+<TextBlock 2 w:26 h:3>
 Citan
-"Fei, it is alright."<Close><End of Block>
+"Fei, it will
+be alright!"<Close><End of Block>
 <TextBlock 3 w:50 h:4>
 Torah
 "The fate of the world is
 in your hands.<Delay 10>
 We're counting on you...!<New>
-In the mean time, I will
+In the meantime, I will
 just watch from here..."<Close><End of Block>
 <TextBlock 4 w:54 h:4>
 Torah
@@ -21,7 +22,7 @@ unless it breathes the air
 here...<New>
 Looks like I'm just about
 ready to meet my maker,
-huh...<Delay 5>
+huh...?<Delay 5>
 Ho, hoh, hoh!"<Close><End of Block>
 <TextBlock 5 w:24 h:1>
 Oh, Torah...<Close><End of Block>
@@ -38,249 +39,243 @@ nice present for you."<Close><End of Block>
  
  <Opcode 1 255>Received Goddess Robe!!<Opcode 2 60>
  <Close><End of Block>
-<TextBlock 9 w:38 h:3>
+<TextBlock 9 w:24 h:3>
 Torah
-"Was that a visitor
-I heard?"<Close><End of Block>
-<TextBlock 10 w:36 h:3>
-Mysterious old man
-"Hmm...<Delay 10><New>
-It seems the boy
-is finally awake..."<Close><End of Block>
+"Do we have
+a guest?"<Close><End of Block>
+<TextBlock 10 w:36 h:4>
+Mysterious Old Man
+"Hmm...<Delay 10>
+It seems he's
+finally awake..."<Close><End of Block>
 <TextBlock 11 w:28 h:1>
-Here you go...<Close><End of Block>
-<TextBlock 12 w:12 h:1>
-Hrrngh...<Close><End of Block>
-<TextBlock 13 w:24 h:1>
-What to do...<New>
-Hmm...<Close><End of Block>
-<TextBlock 14 w:34 h:2>
+There we go...<Close><End of Block>
+<TextBlock 12 w:14 h:1>
+Hmph...<Close><End of Block>
+<TextBlock 13 w:22 h:1>
+Hmm, hmm...<Close><End of Block>
+<TextBlock 14 w:28 h:3>
 Fei
-"I'm...healed..."<Opcode 2 20><Close><End of Block>
+"My body has
+healed..."<Opcode 2 60><Close><End of Block>
 <TextBlock 15 w:42 h:4>
-Mysterious old man
+Mysterious Old Man
 "You've been sleeping
-in this Nanoreactor
+in this nanoreactor
 for three weeks."<Close><End of Block>
-<TextBlock 16 w:32 h:3>
+<TextBlock 16 w:26 h:4>
 Fei
-"Nanoreactor...?<Delay 10><New>
-Wait,
-who are you...?"<Close><End of Block>
+"Nanoreactor?<Delay 10>
+Who on earth
+are you...?"<Close><End of Block>
 <TextBlock 17 w:36 h:2>
-Mysterious old man
-"Me?"<Close><End of Block>
+Mysterious Old Man
+"Me...?"<Close><End of Block>
 <TextBlock 18 w:40 h:4>
-Mysterious old man
+Mysterious Old Man
 "I've long since 
 forgotten my name...<Delay 10><New>
-Some people call me
-Torah."<Close><End of Block>
+But some people call
+me Torah."<Close><End of Block>
 <TextBlock 19 w:54 h:3>
 Torah
-"You seem to have
-recovered completely.<Delay 10><New>
-Those were terrible wounds,
+"You seem to have made
+a complete recovery.<New>
+They were terrible wounds,
 but perhaps your youth and
-strength aided you."<Close><End of Block>
-<TextBlock 20 w:50 h:4>
+strength aided you..."<Close><End of Block>
+<TextBlock 20 w:40 h:4>
 Torah
-"But your friend's wounds
-are more serious. They may
-take a while to heal."<Close><End of Block>
-<TextBlock 21 w:30 h:2>
+"Your companion's
+wounds, however,
+were more serious<New>
+and may take a while
+longer to heal..."<Close><End of Block>
+<TextBlock 21 w:24 h:3>
 Fei
-"My friend...?"<Opcode 2 30><Close><End of Block>
+"There was
+another...?"<Opcode 2 60><Close><End of Block>
 <TextBlock 22 w:12 h:1>
 Elly!!<Opcode 2 20><Close><End of Block>
 <TextBlock 23 w:18 h:2>
 Fei
 "Elly..."<Close><End of Block>
-<TextBlock 24 w:50 h:4>
+<TextBlock 24 w:42 h:4>
 Torah
-"Young man!
-Quit staring at the naked
-girl and come over here!"<Close><End of Block>
+"Hey! You can't just
+stare at naked women
+all day!<New>
+Come over here!"<Close><End of Block>
 <TextBlock 25 w:20 h:2>
 Fei
-"...!<New>
-Elly...<New>
-How did 
-we...?"<Close><End of Block>
-<TextBlock 26 w:42 h:3>
+"Elly...?"<Close><End of Block>
+<TextBlock 26 w:36 h:3>
 Torah
-"How do you feel now?<New>
-The fresh forest 
-air's nice and 
-rejuvenating, eh?"<Close><End of Block>
-<TextBlock 27 w:44 h:4>
+"How're you doing?<New>
+I bet it felt good
+to take in the
+forest air, eh?"<Close><End of Block>
+<TextBlock 27 w:48 h:4>
 Torah
-"Now, let's get right
-to it.<New>
-I called you back to
-talk about the
-potential of
-removing the seal...<New>
-I found out it can be
-released by using the<New>
-same nanotechnology 
-that regenerated you 
-two."<Close><End of Block>
-<TextBlock 28 w:46 h:3>
+"So, it's about the
+undoing of those
+Limiters...<New>
+I found out that we can
+be set free using the
+same nanotechnology that
+regenerated you two."<Close><End of Block>
+<TextBlock 28 w:50 h:3>
 Torah
-"The nanoassemblers are
+"There are nanoassemblers
 enclosed in this pod."<Close><End of Block>
-<TextBlock 29 w:54 h:3>
+<TextBlock 29 w:50 h:3>
 Citan
-"We would like to scatter
-them all over the world,<New>
-but doing so may prove
-difficult..."<Close><End of Block>
-<TextBlock 30 w:54 h:4>
+"If only we could scatter
+them across the world..."<Close><End of Block>
+<TextBlock 30 w:50 h:4>
 Torah
 "There's an ancient
 military installation
-nearby.<New>
-We might be able to use the
-'Mass Driver' located in
-there to launch this pod
-into the upper atmosphere.<New>
-Once the nanoassemblers
-are released up there, the
-convection currents should
-spread them over the world."<Close><End of Block>
-<TextBlock 31 w:54 h:4>
+near here...<New>
+If we launch this pod
+using the Mass Driver
+that's there,<New>
+then we might be able to
+spread the nanoassemblers
+all over the world via
+atmospheric convection."<Close><End of Block>
+<TextBlock 31 w:48 h:4>
 Torah
-"I wish I could go do it...
-but I'm getting much too
-old for that type of thing.<New>
-Then again, it's for your
-future--<Delay 10> an old man
-like myself shouldn't 
-butt in.<New> 
-You young'uns
-must do it yourselves!"<Close><End of Block>
-<TextBlock 32 w:14 h:2>
+"It's a place I'd like
+to see for myself,<New>
+but sadly at this age
+I'm just not up to it...<New>
+Ah, it's for the future
+of you folks, anyway.<New>
+I say it's better for
+young'uns to forge their
+own way, without old
+timers butting in!"<Close><End of Block>
+<TextBlock 32 w:24 h:2>
 Torah
-"Here."<Close><End of Block>
-<TextBlock 33 w:38 h:4>
+"Look here."<Close><End of Block>
+<TextBlock 33 w:40 h:4>
 Torah
-"And of course,
-I'm not asking you
-to do it for free.<New>
-Try this wrist band
+"Now, of course I'm
+not asking you to do
+anything for free.<New>
+Try this wristband
 on."<Close><End of Block>
-<TextBlock 34 w:10 h:1>
-...?<Close><End of Block>
-<TextBlock 35 w:30 h:2>
+<TextBlock 34 w:3 h:1>
+?<Close><End of Block>
+<TextBlock 35 w:52 h:4>
 Citan
-"What is that?"<Close><End of Block>
-<TextBlock 36 w:54 h:4>
+"Is that what you spoke of
+in your correspondence
+the other day?"<Close><End of Block>
+<TextBlock 36 w:48 h:4>
 Torah
-"This is an 'Emotion
-Regulation Device',<New> 
-a piece of tech that uses 
+"Yep.<New>
+This is an 'emotion
+suppression device',
+an application of
 nanotechnology.<New>
-Shaped like a wristband,
-the device infuses
-nanomachines into the brain
-through the epidermis.<New>
-There, they regulate the 
-SSRI intracerebral 
-substances,<New> 
-such as Serotonin, 
-that control emotions."<Close><End of Block>
-<TextBlock 37 w:10 h:1>
-Uh<Delay 5>...?<Opcode 2 15><Close><End of Block>
-<TextBlock 38 w:50 h:4>
+From this wristband-like
+gadget, nanomachines are
+injected under the skin<New>
+and make their way into
+the cranial nerves soon
+after.<New>
+There, they refine
+intracerebral substances
+such as serotonin, and
+regulate emotion."<Close><End of Block>
+<TextBlock 37 w:4 h:1>
+?<Delay 5>?<Opcode 2 15><Close><End of Block>
+<TextBlock 38 w:52 h:4>
 Torah
-"Well, I suppose
-that might not make
-much sense to you...<New>
-In short, it means
-that the manifestation of
-your second personality,
-'Id', can be suppressed."<Close><End of Block>
-<TextBlock 39 w:14 h:4>
+"Well, I suppose that
+was a bit of a mouthful...<Delay 10>
+But in short, it means<New>
+that the manifestation
+of 'Id', your second
+personality, can be
+physically suppressed."<Close><End of Block>
+<TextBlock 39 w:14 h:2>
 Fei
-"Does this
-mean Id's..."<Close><End of Block>
-<TextBlock 40 w:16 h:4>
+"Id..."<Close><End of Block>
+<TextBlock 40 w:16 h:2>
 Elly
-"That's..."<Close><End of Block>
-<TextBlock 41 w:54 h:4>
+"Fei..."<Close><End of Block>
+<TextBlock 41 w:44 h:4>
 Torah
-"Well, it's all only 
-theoretical.<Delay 10><New> 
-Oh, and I did one
-more thing as well!<New>
-I went ahead and installed 
-the same control device 
-in your Gear."<Close><End of Block>
-<TextBlock 42 w:46 h:3>
+"Well,
+theoretically, anyway.<Delay 10>
+Plus, there's a bonus.<New>
+I went ahead and
+also added a similar
+suppression mechanism
+to your Gear..."<Close><End of Block>
+<TextBlock 42 w:48 h:4>
 Citan
-"You mean, it can
-summon Id at will...?"<Close><End of Block>
-<TextBlock 43 w:48 h:4>
+"The aforementioned Id,
+who sleeps within Fei...<New>
+This mechanism will
+unleash his power <-->
+and only his power <-->
+at will?"<Close><End of Block>
+<TextBlock 43 w:44 h:4>
 Torah
-"Yes.<Delay 10>
-I call it 'System Id'.<New>
-But of course, such an
-extreme manipulation of
-your psyche will take a
-toll on you<New>
-and tire you out quickly.<Delay 10>
-It may be safest to use 
-it only as a last
-resort."<Close><End of Block>
+"That's right.<Delay 10> I've
+dubbed it 'System Id'.<New>
+Of course, frequent
+use of it wouldn't be
+advised.<Delay 10> Use it only
+as a last resort."<Close><End of Block>
 <TextBlock 44 w:22 h:3>
 Fei
 "Elly,<Delay 10> Doc,<Delay 10>
 I..."<Close><End of Block>
-<TextBlock 45 w:52 h:4>
+<TextBlock 45 w:48 h:4>
 Citan
-"Fei,<Delay 10> there was nothing
-you could've done...<New>
-And now, it will never 
-happen again with Torah's 
-technology.<New> 
-He is one of the
-three Shevat sages."<Close><End of Block>
-<TextBlock 46 w:48 h:3>
+"Do not fret, Fei...<New>
+Right now you are the
+Fei we all know so well,
+are you not?<New>
+Have confidence in
+yourself... Alright?"<Close><End of Block>
+<TextBlock 46 w:52 h:4>
 Torah
-"Regardless,<New> 
-it's your choice 
-whether or not to
-use it."<Close><End of Block>
+"Well, whether you believe
+in yourself or not,<Delay 10> we're
+depending on you."<Close><End of Block>
 <TextBlock 47 w:10 h:2>
 Fei
 "..."<Close><End of Block>
-<TextBlock 48 w:34 h:4>
+<TextBlock 48 w:22 h:4>
 Torah
-"Oh?<Delay 10>
-It sounds like
-we have a guest!"<Close><End of Block>
+"Hm?<Delay 10>
+Do we have
+a guest?"<Close><End of Block>
 <TextBlock 49 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
 <TextBlock 50 w:34 h:2>
 Torah
-"I thought so..."<Close><End of Block>
+"As I thought..."<Close><End of Block>
 <TextBlock 51 w:54 h:4>
 Torah
-"You were the one who
-brought Fei and the girl
-to me.<New>
-I realized it the minute
+"It was you who brought
+Fei and the girl to me...<New>
+I noticed it the minute
 I saw the two of them.<Delay 10>
-Why, how could I not
-notice...?<New>
-They are the spitting
-image of you and<Delay 5> her.<Delay 10>
-Yes, just as you yourselves
-looked way back then<Delay 5>..."<Close><End of Block>
-<TextBlock 52 w:36 h:2>
+Why, how could I not...?<New>
+They're the spitting image
+of you two back then.<Delay 10>
+You and...<Delay 10>her."<Close><End of Block>
+<TextBlock 52 w:30 h:3>
 Torah
-"Right, Lacan...?"<Close><End of Block>
+"Isn't that so,<Delay 10>
+Lacan...?"<Close><End of Block>
 <TextBlock 53 w:32 h:4>
 Karellen
 "Behold, Lacan.<Delay 10>

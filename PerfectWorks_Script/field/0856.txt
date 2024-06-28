@@ -166,13 +166,13 @@ Do your homework!'<New>
 I have to play as much as I
 can on festival days.<Close><End of Block>
 <TextBlock 33 w:40 h:5>
-*Hic*!
+*hic*!
 Drinkin' Bartweiser
 in broad daylight...
 Thash my favorite
 part of feshtivals!<Close><End of Block>
 <TextBlock 34 w:46 h:3>
-...*Hic*...
+...*hic*...
 It's been a while since
 I last drank outside.<Close><End of Block>
 <TextBlock 35 w:26 h:2>

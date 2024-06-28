@@ -5,7 +5,7 @@ likes to make his
 presence felt!"<Close><End of Block>
 <TextBlock 2 w:48 h:3>
 Big Joe
-"<Delay 10>...<Delay 10>*Hic*<Delay 30>...<Delay 10>
+"<Delay 10>...<Delay 10>*hic*<Delay 30>...<Delay 10>
 Where's your friend?<New>
 There's a war on in the
 desert and he just goes
@@ -18,7 +18,7 @@ lady friend...
 Gahahaha!"<Close><End of Block>
 <TextBlock 3 w:54 h:3>
 Big Joe
-"<Delay 10>...<Delay 10>*Hic*<Delay 10>...<Delay 30>
+"<Delay 10>...<Delay 10>*hic*<Delay 10>...<Delay 30>
 <Delay 30>You drinkin' too?<New>
 Booze is my life companion!<Delay 30>
 Especially in a sucky
@@ -41,7 +41,7 @@ right now, and by tomorrow
 be a different person.<New>
 If you didn't understand
 that, I'll repeat...<Delay 30>
-...*Hic*!<Delay 30><New>
+...*hic*!<New>
 Don't count your chickens
 before they hatch."<Close><End of Block>
 <TextBlock 6 w:22 h:2>
@@ -49,14 +49,14 @@ Man at Bar
 "Shaddap!!"<Close><End of Block>
 <TextBlock 7 w:26 h:2>
 Man at Bar
-"...*Hic*..."<Close><End of Block>
+"...*hic*..."<Close><End of Block>
 <TextBlock 8 w:50 h:4>
 Man at Bar
 "Why're you all yappin'
 when Big Joe is here
 trying to drink in peace?<New>
 Can't y'all shuddup...?<Delay 10>
-...<Delay 10>*Hic*!"<Close><End of Block>
+...<Delay 10>*hic*!"<Close><End of Block>
 <TextBlock 9 w:30 h:2>
 Big Joe
 "Gahahahahaha!"<Close><End of Block>

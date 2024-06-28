@@ -85,7 +85,7 @@ Citan
 Go right ahead.<New>
 But I will not be
 responsible if you get a
-stomach ache from Yui's 
+stomachache from Yui's 
 cooking."<Close><End of Block>
 <TextBlock 16 w:50 h:4>
 Citan
@@ -136,11 +136,11 @@ Fei
 Alice asked me to borrow
 some camera equipment
 from you."<Close><End of Block>
-<TextBlock 26 w:30 h:4>
+<TextBlock 26 w:28 h:4>
 Fei
 "Would I ever!<Delay 30>
 I was hoping
-you would ask."<Close><End of Block>
+you'd ask."<Close><End of Block>
 <TextBlock 27 w:44 h:3>
 Fei
 "Okay.

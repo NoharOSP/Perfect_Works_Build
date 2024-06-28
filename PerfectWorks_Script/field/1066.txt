@@ -140,9 +140,9 @@ His owner died recently.
 so he always waits for his
 master's return..."<Close><End of Block>
 <TextBlock 29 w:30 h:1>
-...*Whimper*...<Close><End of Block>
-<TextBlock 30 w:26 h:1>
-...*Whimper*.<Opcode 2 30><Close><End of Block>
+...*whimper*...<Close><End of Block>
+<TextBlock 30 w:24 h:1>
+...*whimper*<Opcode 2 30><Close><End of Block>
 <TextBlock 31 w:32 h:2>
 Initiating
 decontamination.<Opcode 2 30><Close><End of Block>

@@ -154,7 +154,7 @@ Captain
 them, we'll help however we
 can.<New>
 If you wanna know about the
-fishbowl headed towards the
+fishbowl headed toward the
 excavation site, ask Hans."<Close><End of Block>
 <TextBlock 39 w:36 h:4>
 Captain

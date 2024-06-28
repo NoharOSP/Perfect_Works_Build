@@ -51,7 +51,7 @@ I've waited...<Delay 10>so long...<Delay 10>
 Oh, Daddy...<Delay 10>why?<Delay 10>
 Boo-hoo-hoo!<Close><End of Block>
 <TextBlock 11 w:44 h:3>
-*Sob,<Delay 10> sob*...<Delay 10>
+*sob,<Delay 10> sob*...<Delay 10>
 But...<Delay 10>thanks.<New>
 Thanks for bringing<Delay 10>  
 Dad's bell back.<Delay 10>

@@ -56,7 +56,7 @@ Huh?<Delay 30>
 I thought it was our
 snoring.<Close><End of Block>
 <TextBlock 16 w:36 h:2>
-*Sniff, sniff*...<Delay 10>
+*sniff, sniff*...<Delay 10>
 Poor Helen...<Close><End of Block>
 <TextBlock 17 w:4 h:1>
 !!<Opcode 2 10><Close><End of Block>
@@ -92,7 +92,7 @@ He makes my blood boil!<Close><End of Block>
 Almost all the Gears
 are under repair!!<Close><End of Block>
 <TextBlock 27 w:46 h:4>
-*Sigh*... This injury
+*sigh*... This injury
 is so pathetic...<Delay 30>
 I can't let the master
 see me like this.<Close><End of Block>

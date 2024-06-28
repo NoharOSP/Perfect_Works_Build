@@ -1,7 +1,7 @@
-<TextBlock 1 w:30 h:3>
+<TextBlock 1 w:26 h:3>
 Fei
-"Mmmm!<Delay 30>
-That was good!"<Close><End of Block>
+"Whew!<Delay 30>
+I'm stuffed!"<Close><End of Block>
 <TextBlock 2 w:40 h:4>
 Fei
 "Your cooking never
@@ -95,7 +95,7 @@ Yui
 "I see...<Delay 20>
 Well, anyway, please
 make yourself at home."<Close><End of Block>
-<TextBlock 19 w:36 h:2>
+<TextBlock 19 w:38 h:2>
 Yui
 "Oh, welcome, Fei."<Close><End of Block>
 <TextBlock 20 w:54 h:4>

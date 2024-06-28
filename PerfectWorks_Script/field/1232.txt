@@ -28,11 +28,11 @@ fishbowl thing."<Close><End of Block>
 <TextBlock 7 w:38 h:3>
 The wind...
 is calling my name.<Delay 10>
-...<Delay 10>*Sigh*<Delay 10>...<Close><End of Block>
+...<Delay 10>*sigh*<Delay 10>...<Close><End of Block>
 <TextBlock 8 w:22 h:3>
 The sea...
 is weeping.<Delay 10>
-*Sigh*<Delay 10>...<Close><End of Block>
+*sigh*<Delay 10>...<Close><End of Block>
 <TextBlock 9 w:52 h:2>
 Only I...<Delay 10>...<Delay 10>survived.<New>
 My comrades were taken off

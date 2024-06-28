@@ -18,27 +18,27 @@ Elly<Delay 5>...!!"<Close><End of Block>
 <TextBlock 4 w:42 h:2>
 Fei
 "This is incredible!"<Close><End of Block>
-<TextBlock 5 w:32 h:2>
+<TextBlock 5 w:42 h:2>
 Ol' Man Bal
-"We meet again!"<Close><End of Block>
-<TextBlock 6 w:52 h:3>
+"Long time no see..."<Close><End of Block>
+<TextBlock 6 w:50 h:3>
 Ol' Man Bal
 "The host for the spirit
-of the slayer of God...<New>
-I didn't think I would
-ever get to work on it 
-again..."<Close><End of Block>
-<TextBlock 7 w:42 h:3>
+of the Slayer of God...<New>
+To think I'd be tinkering
+with it once again..."<Close><End of Block>
+<TextBlock 7 w:34 h:3>
 Fei
-"But why are you both
-helping me?"<Close><End of Block>
-<TextBlock 8 w:52 h:4>
+"Why are you both
+helping us...?"<Close><End of Block>
+<TextBlock 8 w:46 h:4>
 Torah
-"You could call it fate...
-but that doesn't quite 
-cover it.<Delay 10><New>
-You're just going to have
-to see it for yourself."<Close><End of Block>
+"There are some things
+you can't explain away
+with the word<Delay 5>...<Delay 10>'fate'.<New>
+It'd be better for you
+to witness those things
+with your own eyes."<Close><End of Block>
 <TextBlock 9 w:16 h:3>
 Emeralda
 "Fei<Delay 5>...<Delay 10>
@@ -48,14 +48,14 @@ Fei
 "Yeah, I'd better hurry!"<Close><End of Block>
 <TextBlock 11 w:30 h:3>
 Fei
-"Hey! Where are
+"Hey, where are
 you going?"<Close><End of Block>
 <TextBlock 12 w:30 h:3>
 Shevat Emissary
-"Fei,<Delay 10>
+"Fei, sir,<Delay 10>
 please hurry!"<Close><End of Block>
-<TextBlock 13 w:26 h:2>
+<TextBlock 13 w:18 h:2>
 Fei
-"O-<Delay 10>Okay!"<Close><End of Block>
+"O-<Delay 10>Okay."<Close><End of Block>
 <TextBlock 14 w:3 h:1>
  <Close><Close><End of Block>

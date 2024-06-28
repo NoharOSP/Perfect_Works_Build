@@ -18,7 +18,7 @@ don't kill me...<Opcode 2 30><Close><End of Block>
 We were turned
 into Wels as an
 experiment-<Delay 5>t-<Delay 5>t...<Delay 10>
-Huh?<Delay 10> *Gurgle*...<Opcode 2 40><Close><End of Block>
+Huh?<Delay 10> *gurgle*...<Opcode 2 40><Close><End of Block>
 <TextBlock 7 w:36 h:2>
 It hurts, it
 hurts, it hurts...<Opcode 2 30><Close><End of Block>

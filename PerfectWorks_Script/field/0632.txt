@@ -50,7 +50,7 @@ Fei
 "Yeah, sure!
 I'll do that...<Delay 20> Anyway,
 I'll see you later.<New>
-Oh, and I am really
+Oh, and I'm really
 looking forward to the
 ceremony tomorrow."<Close><End of Block>
 <TextBlock 8 w:46 h:4>
@@ -104,7 +104,7 @@ like we've been friends
 since we were kids."<Close><End of Block>
 <TextBlock 16 w:48 h:3>
 Timothy
-"And we will go on being
+"And we'll go on being
 friends forever, right?"<Close><End of Block>
 <TextBlock 17 w:46 h:4>
 Timothy
@@ -232,7 +232,7 @@ I knew this day would come!<Delay 20>
 ...This is the worst part of
 bringing up a little girl!"<Close><End of Block>
 <TextBlock 34 w:18 h:1>
-*Sigh*...<Opcode 2 20><Close><End of Block>
+*sigh*...<Opcode 2 20><Close><End of Block>
 <TextBlock 35 w:56 h:3>
 Y'know, Fei, I am sure that
 our village chief thinks of

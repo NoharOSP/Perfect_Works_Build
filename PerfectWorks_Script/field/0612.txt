@@ -14,11 +14,11 @@ What happened...?<New>
 Where's Chief Lee,
 Timothy, Alice...?<Delay 20>
 What did I...?"<Close><End of Block>
-<TextBlock 5 w:42 h:4>
+<TextBlock 5 w:32 h:4>
 Fei
 "...!?<Delay 20>
-Dan,
-what do you mean...?"<Close><End of Block>
+Dan, what are
+you saying...?"<Close><End of Block>
 <TextBlock 6 w:14 h:2>
 Fei
 "...!?"<Opcode 2 30><Close><End of Block>

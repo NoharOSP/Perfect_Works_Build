@@ -287,7 +287,7 @@ up now because of that
 experiment!<New>
 And the fine detail is
 all gone<Delay 5>...<Delay 30>
-*Sigh*<Delay 5>...<Delay 15>
+*sigh*<Delay 5>...<Delay 15>
 It was better before!<Close><End of Block>
 <TextBlock 62 w:56 h:4>
 There are rails here.<Delay 15>
@@ -523,7 +523,7 @@ But it's impossible for me.
 I'm not that type<Delay 5>...<Delay 15>*sigh*."<Close><End of Block>
 <TextBlock 95 w:56 h:4>
 Guard
-"<Delay 5>...<Delay 5>*Sigh*...<Delay 10>
+"<Delay 5>...<Delay 5>*sigh*...<Delay 10>
 I've had enough of D Block.<New>
 I wanna be transferred to
 the main city.<New>
@@ -541,7 +541,7 @@ became captain<Delay 5>..."<Close><End of Block>
 <TextBlock 97 w:44 h:3>
 Guard
 "Reality, <Delay 5>it's a pain.<Delay 15>
-...<Delay 5>*Sigh*<Delay 5>..."<Close><End of Block>
+...<Delay 5>*sigh*<Delay 5>..."<Close><End of Block>
 <TextBlock 98 w:20 h:3>
 Fei
 "Whoa!!

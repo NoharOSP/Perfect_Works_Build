@@ -30,8 +30,8 @@ have mercy on this
 child...<Opcode 2 60><Close><End of Block>
 <TextBlock 10 w:20 h:1>
 Uuuuhhh...<Opcode 2 60><Close><End of Block>
-<TextBlock 11 w:38 h:1>
-*Cough*...<Delay 30>*cough*.<Opcode 2 40><Close><End of Block>
+<TextBlock 11 w:36 h:1>
+*cough*...<Delay 30>*cough*<Opcode 2 40><Close><End of Block>
 <TextBlock 12 w:48 h:4>
 (Now...listen...<Delay 30>very...
 carefully...<Delay 30> From now

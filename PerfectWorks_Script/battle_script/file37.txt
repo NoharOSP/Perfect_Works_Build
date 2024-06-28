@@ -54,7 +54,7 @@ Ramsus
 "Muahahaha!
 I'm not trash!<Delay 40>
 Heehee!<Delay 30> Heehahaha...<New>
-*Huff, huff*...<New>
+*huff, huff*...<New>
 ...Huh?"<Close><End of Block>
 <TextBlock 11 w:42 h:4>
 Ramsus

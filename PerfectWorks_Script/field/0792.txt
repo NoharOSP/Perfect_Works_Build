@@ -14,7 +14,7 @@ Bart
 Old Maison?"<Close><End of Block>
 <TextBlock 4 w:50 h:3>
 Maison
-"*Sniff*...
+"*sniff*...
 Goodness gracious me...!<New>
 To think that little Miss
 Marguerite was finally
@@ -254,7 +254,7 @@ this with you till now."<Close><End of Block>
 <TextBlock 41 w:54 h:4>
 Citan
 "Looking at the conduct
-of Solaris towards other
+of Solaris toward other
 countries up until now...<New>
 ...it has never gone
 beyond simply maintaining

@@ -139,12 +139,14 @@ I'll keep doing my best, so
 you too keep up the fight!
 It's my Noatun promise<Delay 5>...<Delay 5>
 so I will see it through!"<Close><End of Block>
-<TextBlock 27 w:56 h:5>
+<TextBlock 27 w:46 h:4>
 Suzanne
-"Oh look, what good timing!
-Prince Charming has woke up!<Delay 30>
-This may be sudden, but you
-have to come along with us!"<Close><End of Block>
+"Oh look, what good
+timing! Prince Charming
+has woken up!<New>
+This may be sudden,
+but you have to come
+along with us!"<Close><End of Block>
 <TextBlock 28 w:60 h:4>
 Suzanne
 "You don't have any choice,
@@ -291,7 +293,7 @@ I thought!"<Close><End of Block>
 <TextBlock 55 w:36 h:3>
 Fei
 "Uuuh<Delay 5>...<Delay 10> Aaah<Delay 5>...<Delay 10>
-*Gasp*<Delay 5>...<Delay 10> Urgh<Delay 5>..."<Opcode 2 240><Close><End of Block>
+*gasp*<Delay 5>...<Delay 10> Urgh<Delay 5>..."<Opcode 2 240><Close><End of Block>
 <TextBlock 56 w:38 h:4>
 Fei
 "Wh-Where am I<Delay 5>...?<Delay 15>

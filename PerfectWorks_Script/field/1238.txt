@@ -182,8 +182,8 @@ Wanna play?<Delay 10>
 <Opcode 1 255>    Okay
     Nope<Close><End of Block>
 <TextBlock 53 w:32 h:2>
-*Sigh*,
-you'll be sorry.<Close><End of Block>
+*sigh*
+You'll be sorry.<Close><End of Block>
 <TextBlock 54 w:34 h:2>
 I see, it must be
 for your health.<Close><End of Block>

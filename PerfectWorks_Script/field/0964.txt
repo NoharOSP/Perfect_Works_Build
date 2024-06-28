@@ -50,7 +50,7 @@ It's him! Demon of Elul...!<Delay 50>
 Myyah! Let's go!"<Close><End of Block>
 <TextBlock 10 w:24 h:3>
 Ramsus
-"*Gasp*...<Delay 16>
+"*gasp*...<Delay 16>
 That's...!!"<Close><End of Block>
 <TextBlock 11 w:40 h:4>
 Myyah

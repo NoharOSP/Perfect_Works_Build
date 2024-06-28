@@ -13,7 +13,7 @@ for the rear block...<Delay 20>
 Fei...!
 Where are you, Fei?"<Close><End of Block>
 <TextBlock 4 w:32 h:1>
-*Rattle, rattle*<Opcode 2 60><Close><End of Block>
+*rattle, rattle*<Opcode 2 60><Close><End of Block>
 <TextBlock 5 w:44 h:3>
 Elly
 "Didn't...realize I

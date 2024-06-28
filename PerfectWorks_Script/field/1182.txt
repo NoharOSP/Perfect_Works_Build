@@ -1,6 +1,6 @@
 <TextBlock 1 w:54 h:4>
 Maison
-"...*Sob*...*sob*...
+"...*sob*...*sob*...
 Oh to think that Marguerite
 has now returned...<New>
 Come to think of it, this
@@ -114,7 +114,7 @@ International amity
 with the Tamuz!?<Delay 10>
 Indeed..."<Close><End of Block>
 <TextBlock 20 w:44 h:3>
-(...*Sob*...*sob*...<Delay 10>
+(...*sob*...*sob*...<Delay 10>
 This old man's efforts
 weren't all wasted!)<Close><End of Block>
 <TextBlock 21 w:52 h:4>

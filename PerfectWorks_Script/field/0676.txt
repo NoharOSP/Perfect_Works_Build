@@ -336,7 +336,7 @@ There are bandits out
 looking for treasure
 in the desert ruins!<New>
 <Delay 5>...<Delay 5>Brrr<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>*Shivers*<Delay 5>...!<Delay 5>
+<Delay 5>...<Delay 5>*shivers*<Delay 5>...!<Delay 5>
 Oh,<Delay 5> I just wet my pants.<New>
 You better be careful,
 too.<Close><End of Block>
@@ -345,7 +345,7 @@ There's a lotta people
 who get lost in the desert
 and die of starvation!<New>
 <Delay 5>...<Delay 5>Brrr<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>*Shivers*<Delay 5>...!<Delay 5>
+<Delay 5>...<Delay 5>*shivers*<Delay 5>...!<Delay 5>
 Oh,<Delay 5> I just pooed my pants.<New>
 You better be careful,
 too.<Close><End of Block>

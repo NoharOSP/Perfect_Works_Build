@@ -212,9 +212,9 @@ to miss this chance..."<Close><End of Block>
 <TextBlock 42 w:20 h:1>
 Excuse me!<Opcode 2 40><Close><End of Block>
 <TextBlock 43 w:12 h:1>
-*Hiss*<Close><End of Block>
+*hiss*<Close><End of Block>
 <TextBlock 44 w:12 h:1>
-*Hiss*<Close><End of Block>
+*hiss*<Close><End of Block>
 <TextBlock 45 w:54 h:4>
 Elder
 "Sigmund made it this

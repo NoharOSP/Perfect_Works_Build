@@ -19,15 +19,16 @@ Fei
 <TextBlock 5 w:20 h:2>
 Fei
 "I see..."<Close><End of Block>
-<TextBlock 6 w:44 h:3>
+<TextBlock 6 w:44 h:4>
 Fei
-"Yeah, he's outside...
-bragging as always."<Close><End of Block>
-<TextBlock 7 w:44 h:4>
+"Yeah, he was outside,
+tearing around as
+always!"<Close><End of Block>
+<TextBlock 7 w:38 h:4>
 Fei
-"Knowing him, he's
-most probably outside
-gasbagging right now."<Close><End of Block>
+"Knowing him, he'll
+be tearing around
+somewhere!"<Close><End of Block>
 <TextBlock 8 w:42 h:3>
 Fei
 "Oh yeah?
@@ -106,7 +107,7 @@ Alice
 have you seen Dan?"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Alice
-"Ugh, that brat!<Delay 20>
+"Honestly, that kid!<Delay 20>
 I just told him that I had
 an errand for him to run!"<Close><End of Block>
 <TextBlock 26 w:50 h:4>
@@ -124,7 +125,7 @@ Oh, but I couldn't
 possibly..."<Close><End of Block>
 <TextBlock 28 w:30 h:3>
 Alice
-"Hee-hee...<Delay 20>
+"Heehee...<Delay 20>
 That's my Fei!"<Close><End of Block>
 <TextBlock 29 w:22 h:3>
 Alice

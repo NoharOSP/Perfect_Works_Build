@@ -182,7 +182,7 @@ Yes.<Close><End of Block>
 A coincidence?<Close><End of Block>
 <TextBlock 34 w:48 h:3>
 Nay, there are too many.<Delay 5>
-They gravitated towards<Delay 5>
+They gravitated toward<Delay 5>
 'him'<Delay 5>...<Close><End of Block>
 <TextBlock 35 w:38 h:4>
 Unexpectedly, the
@@ -924,98 +924,87 @@ right here and now?"<Close><End of Block>
 Very well.<Delay 15>
 We shall leave
 it at that.<Close><End of Block>
-<TextBlock 181 w:42 h:2>
+<TextBlock 181 w:36 h:2>
 What!?
-Then he is alive<Delay 5>...<Close><End of Block>
+He still lives<Delay 5>...?<Close><End of Block>
 <TextBlock 182 w:14 h:2>
 Karellen
 "Yes."<Close><End of Block>
-<TextBlock 183 w:38 h:3>
+<TextBlock 183 w:32 h:3>
 Unbelievable.<Delay 10>
-Didn't Ramsus shoot
-him down?<Close><End of Block>
-<TextBlock 184 w:50 h:4>
+Didn't Ramsus
+shoot him down?<Close><End of Block>
+<TextBlock 184 w:46 h:4>
 Karellen
-"He did. And
-she was riding in the 
-Gear that he shot down.<New>
-<Delay 10>Her death would be 
-unfortunate."<Close><End of Block>
-<TextBlock 185 w:52 h:3>
-We already have a 
-'mother', do we 
-not?<Delay 5><New>
-Even if she is the
+"She too was aboard the
+Gear that he shot down.<Delay 10>
+I can't let her die."<Close><End of Block>
+<TextBlock 185 w:50 h:3>
+There is still a Mother,
+is there not?<New>
+Even if that girl is the
 Antitype,<Delay 5> as long as we
-have the present 
-mother<Delay 5>...<Close><End of Block>
-<TextBlock 186 w:44 h:3>
+have the current Mother<--><Close><End of Block>
+<TextBlock 186 w:44 h:4>
 Karellen
-"I cannot call 
-that<Delay 5> completion."<Close><End of Block>
+"As far as I'm
+concerned,<Delay 5> we cannot
+call that completion."<Close><End of Block>
 <TextBlock 187 w:52 h:3>
-You are quite concerned 
-with this<Delay 5>...<Delay 5>
-Did you not cast off 
-your <Delay 5>human emotions?<Close><End of Block>
-<TextBlock 188 w:54 h:4>
+You are fixated on this<Delay 5>...<Delay 5>
+Did you not cast off your<Delay 5>
+human emotions?<Close><End of Block>
+<TextBlock 188 w:52 h:4>
 Karellen
-"This is pointless<Delay 5>...<New>
+"I don't have time for
+this<Delay 5>...<New>
 I will send Ramsus after 
-him.<Delay 10>
-Are there any objections?<New>
-<Delay 10>Do you know his 
-current location?"<Close><End of Block>
-<TextBlock 189 w:46 h:3>
-Though Etemenanki is 
-destroyed, part of the 
-Memory Cubes' functions 
+him once again.<Delay 10>
+Any objections? <Delay 10>Do we know
+his current location?"<Close><End of Block>
+<TextBlock 189 w:46 h:4>
+Though Etemenanki is
+destroyed, parts of the
+Memory Cubes' functions
 are still active.<New>
-It can still specify 
-the locations of 
+We can still identify
+the locations of
 individuals.<Close><End of Block>
-<TextBlock 190 w:42 h:4>
-Wait a moment<Delay 5>...<Delay 5>
-He has left the 
-crash site<New>
-and is en route 
-to Ignis.<Close><End of Block>
-<TextBlock 191 w:52 h:4>
+<TextBlock 190 w:44 h:4>
+One moment<Delay 5>...<Delay 15>
+He has left the crash
+site and appears to be
+heading toward Ignis.<Close><End of Block>
+<TextBlock 191 w:46 h:4>
 Karellen
-"I see.<Delay 10>
-He has departed from 
-it.<Delay 5>...<New>
+"So he has left that
+area<Delay 5>...<New>
 (Which means<Delay 5>...<Delay 5>
-it is only a matter of
-time until the seal 
-is lifted<Delay 5>...)"<Close><End of Block>
+it's only a matter of
+time before the undoing
+of the Limiters<Delay 5>...)"<Close><End of Block>
 <TextBlock 192 w:44 h:1>
 Did you say something?<Close><End of Block>
-<TextBlock 193 w:46 h:4>
+<TextBlock 193 w:38 h:4>
 Karellen
-"Nothing consequential.<Delay 15>
-Just wait there for 
+"Oh, nothing.<Delay 15>
+Just sit tight for
 some good news."<Close><End of Block>
 <TextBlock 194 w:44 h:4>
-What about retrieving
-the girl?<New>
-<Delay 15>The Key is
-beginning to 
-resonate.<New>
-The time of God's 
-revival is drawing 
+So what about the
+retrieval of the girl?<Delay 15>
+The Key is beginning
+to resonate.<New>
+The time of God's
+revival is drawing
 near.<Close><End of Block>
-<TextBlock 195 w:30 h:4>
+<TextBlock 195 w:38 h:3>
 Karellen
-"We can 
-retrieve the 
-girl<New> 
-at any time.
-Even if it 
-is not now<Delay 5>...<New>
-<Delay 5>she will come
-to us sooner 
-or later<Delay 5>..."<Close><End of Block>
+"We can retrieve
+the girl anytime.<New>
+Even if it's
+not right now<Delay 5>...<Delay 5>
+Sooner or later<Delay 10>..."<Close><End of Block>
 <TextBlock 196 w:46 h:4>
 A spontaneous 
 germination<New>

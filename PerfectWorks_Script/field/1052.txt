@@ -52,9 +52,9 @@ opponent is on your right
 <=> Up moves your Gear out
   away from the screen.<Delay 45>
 <=> Down moves your Gear in
-  towards the screen.<New>
+  toward the screen.<New>
 <=> Right moves your Gear
-  towards your opponent.<Delay 45>
+  toward your opponent.<Delay 45>
 <=> Left moves your Gear
   away from your opponent."<Close><End of Block>
 <TextBlock 10 w:56 h:5>

@@ -67,7 +67,7 @@ offices...<Opcode 2 60><Close><End of Block>
 !%#?&+!<Close><End of Block>
 <TextBlock 21 w:48 h:3>
 This is the problem
-with government offices
+with government offices.<Delay 10>
 ...*grumble, grumble*...<Close><End of Block>
 <TextBlock 22 w:14 h:1>
 !%#?&+!<Close><End of Block>

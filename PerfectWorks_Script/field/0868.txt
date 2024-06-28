@@ -505,7 +505,7 @@ If I was only ten years
 younger...
 *cough*...*hack*...<New>
 I'd whip 'em all...
-*cough*.<Close><End of Block>
+*cough*<Close><End of Block>
 <TextBlock 104 w:48 h:3>
 I was born and raised in
 Dazil<Delay 60> but this is my 

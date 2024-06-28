@@ -202,7 +202,7 @@ shed by...<Delay 15>
 a mermaid...<New>
 It's not some dream...
 You idiots...<Delay 20>
-*Hic*...<Close><End of Block>
+*hic*...<Close><End of Block>
 <TextBlock 24 w:64 h:4>
 You got a problem, boy?<Delay 20>
 <Opcode 1 255>    No... Go, go, go for it!!

@@ -96,7 +96,7 @@ pro...gram<Delay 15> engaged."<Close><End of Block>
 Bluecrystal
 "The <Delay 5>amount<Delay 5>...<Delay 5>paid...<Delay 45>
 is: <Opcode 10 0>G <Delay 30>
-...<Delay 5>*Bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
+...<Delay 5>*bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 21 w:54 h:3>
 Bluecrystal
 "C<Delay 5>...<Delay 5>currency exchange<Delay 5>...<Delay 5>
@@ -110,7 +110,7 @@ pro...gram<Delay 15> engaged."<Close><End of Block>
 Bluecrystal
 "The <Delay 5>amount<Delay 5>...<Delay 5>paid...<Delay 45>
 is: <Opcode 10 0>G <Delay 30>
-...<Delay 5>*Bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
+...<Delay 5>*bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 24 w:54 h:3>
 Bluecrystal
 "C<Delay 5>...<Delay 5>currency exchange<Delay 5>...<Delay 5>
@@ -124,7 +124,7 @@ pro...gram<Delay 15> engaged."<Close><End of Block>
 Bluecrystal
 "The <Delay 5>amount<Delay 5>...<Delay 5>paid...<Delay 45>
 is: <Opcode 10 0>G<Delay 30>
-...<Delay 5>*Bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
+...<Delay 5>*bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 27 w:54 h:3>
 Bluecrystal
 "C<Delay 5>...<Delay 5>currency exchange<Delay 5>...<Delay 5>
@@ -138,7 +138,7 @@ pro...gram<Delay 15> engaged."<Close><End of Block>
 Bluecrystal
 "The <Delay 5>amount<Delay 5>...<Delay 5>paid...<Delay 45>
 is: <Opcode 10 0>G <Delay 30>
-...<Delay 5>*Bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
+...<Delay 5>*bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 30 w:54 h:3>
 Bluecrystal
 "C<Delay 5>...<Delay 5>currency exchange<Delay 5>...<Delay 5>
@@ -152,7 +152,7 @@ pro...gram<Delay 15> engaged."<Close><End of Block>
 Bluecrystal
 "The <Delay 5>amount<Delay 5>...<Delay 5>paid...<Delay 45>
 is: <Opcode 10 0>G <Delay 30>
-...<Delay 5>*Bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
+...<Delay 5>*bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 33 w:54 h:3>
 Bluecrystal
 "C<Delay 5>...<Delay 5>currency exchange<Delay 5>...<Delay 5>
@@ -166,7 +166,7 @@ pro...gram<Delay 15> engaged."<Close><End of Block>
 Bluecrystal
 "The <Delay 5>amount<Delay 5>...<Delay 5>paid...<Delay 45>
 is: <Opcode 10 0>G <Delay 30>
-...<Delay 5>*Bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
+...<Delay 5>*bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 36 w:54 h:3>
 Bluecrystal
 "C<Delay 5>...<Delay 5>currency exchange<Delay 5>...<Delay 5>
@@ -180,7 +180,7 @@ pro...gram<Delay 15> engaged."<Close><End of Block>
 Bluecrystal
 "The <Delay 5>amount<Delay 5>...<Delay 5>paid...<Delay 45>
 is: <Opcode 10 0>G <Delay 30>
-...<Delay 5>*Bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
+...<Delay 5>*bzzzz*<Delay 5>...*krkkkrrk*<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 39 w:54 h:3>
 Bluecrystal
 "C<Delay 5>...<Delay 5>currency exchange<Delay 5>...<Delay 5>

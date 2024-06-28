@@ -18,7 +18,7 @@ the way up there?"<Close><End of Block>
 Fei
 "Okay, Doc, I will.
 But please hurry up.<New>
-It will get dark
+It'll get dark
 before you know it."<Close><End of Block>
 <TextBlock 6 w:34 h:3>
 Fei

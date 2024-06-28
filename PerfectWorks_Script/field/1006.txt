@@ -93,7 +93,7 @@ the Av air assault<Delay 5>...<Delay 5>
 <Delay 5>...Wha<Delay 5>...?<Delay 5> Daughter...?<New>
 <Delay 5>...<Delay 5>Diana. In the air
 assault, she<Delay 5>...<Delay 5>
-*Sob, sob*... <Delay 15> She
+*sob, sob*... <Delay 15> She
 shielded us from the<Delay 5>...<Close><End of Block>
 <TextBlock 19 w:50 h:4>
 She <Delay 5>was just starting
@@ -118,14 +118,14 @@ In my house, my sister
 <Delay 5>...<Delay 5>sleeps. She rekindled
 my spirits.<New>
 My sister<Delay 5>...<Delay 5>is home now.
-My sist<--><Delay 5> *Sob*...<Close><End of Block>
+My sist<--><Delay 5> *sob*...<Close><End of Block>
 <TextBlock 22 w:54 h:4>
 Hammer
 "<Delay 5>...<Delay 5>Use the key like<-->
 <Delay 5>Oh!? Wh-What's up,<Delay 5> bro?<New>
 Did you forget where the
 base is?<Delay 10>
-*Sigh*,<Delay 15> fine then.<New>
+*sigh*<Delay 15> Fine, then.<New>
 The military facility is<Delay 5>
 'in the north lands of the
 Imperial Capital territory,<New>
@@ -470,7 +470,7 @@ Citan
 "Huh? Uh, well<Delay 5>...<Delay 5>
 that is<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 92 w:50 h:4>
-*Sigh*,<Delay 5> what's going to
+*sigh*<Delay 5> What's going to
 happen if someone gets
 injured now!? Who's going
 to look at the injury?<New>

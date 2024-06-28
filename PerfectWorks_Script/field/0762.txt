@@ -116,7 +116,7 @@ alright?<Delay 10> I hope she's not
 hurt. We're only operators
 but we still worry.<New>
 We can't do anything.<Delay 10>
-...*Sniff*...<Close><End of Block>
+...*sniff*...<Close><End of Block>
 <TextBlock 21 w:38 h:2>
 Sending the latest
 information!<Close><End of Block>

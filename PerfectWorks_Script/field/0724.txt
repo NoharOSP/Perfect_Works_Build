@@ -26,10 +26,10 @@ Fei
 "...I got you, Doc!
 But when you're done, you
 hurry up there too, okay!?"<Close><End of Block>
-<TextBlock 10 w:54 h:4>
+<TextBlock 10 w:52 h:4>
 Citan
 "Fei! Can you hear me? I
-am moving the crane towards
+am moving the crane toward
 <Weltall>'s cockpit.<New>
 Hurry!
 Go up the crane to

@@ -776,7 +776,7 @@ Fei
 Anyway, let's get going!"<Close><End of Block>
 <TextBlock 159 w:40 h:4>
 Hammer
-"*Huff, huff*<Delay 5>...<Delay 5>
+"*huff, huff*<Delay 5>...<Delay 5>
 I just finished
 signing you up!"<Close><End of Block>
 <TextBlock 160 w:48 h:3>
