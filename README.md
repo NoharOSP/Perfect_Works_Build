@@ -49,7 +49,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 - Text box issue with Hammer's last scene has been fixed.
 - Billy Ether ammo glitch has been fixed.
-- Gear damage calculation has been fixed (esp. X attaks).
+- Gear damage calculation has been fixed (esp. w/X attacks).
 - Pierce Deathblows properly zeroes defense instead of attack
 - Visual glitch with the Karellen FMV has been fixed.
 - GHeater now has a price.
