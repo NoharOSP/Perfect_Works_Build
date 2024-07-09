@@ -1,9 +1,10 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.4.4 here:
-- MEGA: https://mega.nz/file/PbJRCYCS#KVigJL6eEvb-2JM_5AiDANSnigjse4FS7zasAu1rRH8
-- Google Drive: https://drive.google.com/file/d/15v1d6Gij8hBOQ_onBRdQBSQWWLPjR096/view?usp=sharing
+Download version 0.4.5 here:
+
+- MEGA: https://mega.nz/file/OapCAaRQ#0s1H3lyouCbG6SLU0YK4X6rTpVSmJmH5pycdLFiHafw
+- Google Drive: https://drive.google.com/file/d/1tYCj6FZ5heIhymVgD4cM5Fa3YW6Tct5g/view?usp=sharing
   
 ## Instructions:
 
@@ -29,7 +30,7 @@ This step applies if multiple patches have been applied.
 ## Completion stats:
 
 - Name/terminology changes: 100%
-- Main script: 70% (finished disc 1)
+- Main script: 72% (started the Mass Driver sequence)
 - NPC script: Not done (except for name/terminology changes)
 
 ## Introduction:
@@ -41,6 +42,29 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.4.5:
+
+07/01/2024
+
+- Text box issue with Hammer's last scene has been fixed.
+- Billy Ether ammo glitch has been fixed.
+- Gear damage calculation has been fixed (esp. w/X attacks).
+- Pierce Deathblows properly zeroes defense instead of attack
+- Visual glitch with the Karellen FMV has been fixed.
+- GHeater now has a price.
+- Leonardo's name has been corrected in the arena.
+- Both Haishao fights have been nerfed.
+- The Ft Jasper Element fights have been nerfed.
+- Solaris Grahf has been nerfed.
+- Swordknight and Wandknight have been buffed.
+- Rematch fights with the special forces have been buffed.
+- Hecht has been nerfed.
+- Clawknight has been nerfed.
+- Pierce glitch has been fixed.
+- STX and TTSX deathblows now use their intended experience rates.
+- Translation up to the Mass Driver has been polished.
+- Fixed a bug with Blackmoon Forest when fast text is used without the old script.
 
 ### Version 0.4.4:
 
@@ -426,6 +450,10 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 ## Archive:
 
 ### Builds:
+
+#### Version 0.4.4:
+- MEGA: https://mega.nz/file/PbJRCYCS#KVigJL6eEvb-2JM_5AiDANSnigjse4FS7zasAu1rRH8
+- Google Drive: https://drive.google.com/file/d/15v1d6Gij8hBOQ_onBRdQBSQWWLPjR096/view?usp=sharing
 
 #### Version 0.4.3:
 - MEGA: https://mega.nz/file/SKgTRKwa#hvj58ksWpoJGRnwNAtz9kpt3ZG5gp-PlP6_iTEu0Lqk
