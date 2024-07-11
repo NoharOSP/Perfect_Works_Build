@@ -370,7 +370,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 				if (p_exp_gold) {
 					// Check if items/spells and script patches aren't selected to avoid compatibility issues. Otherwise, writeFile will apply exp/gold files
-					if (!p_script && !p_items_spells) {
+					if (!p_script && !p_items_spells && !p_monsters) {
 						if (!scriptExists) {
 							if (pathFound1) {
 								expgoldName1 = "cd1_exp_gold.xdelta";
@@ -443,7 +443,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 				if (p_monsters) {
 					// Check if items/spells and script patches aren't selected to avoid compatibility issues. Otherwise, writeFile will apply monster files
-					if (!p_script && !p_items_spells) {
+					if (!p_script && !p_items_spells && !p_exp_gold) {
 						if (!scriptExists) {
 							if (pathFound1) {
 								monsterName1 = "cd1_monster_stats.xdelta";
@@ -587,7 +587,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					p_script = true;
 				}
 				if (p_exp_gold || p_monsters || p_encounters || p_fastnew || p_barena || p_earena || p_portraits || p_music) {
-					if (p_script || p_items_spells || p_fastold) {
+					if ((p_script || p_items_spells || p_fastold) || (p_exp_gold && p_monsters)) {
 						SetWindowText(hWnd, L"Finishing...");
 						if (changed == false) {
 							changed = true;
@@ -942,7 +942,9 @@ void tooltipTextMaker(HWND hWnd) {
 		"on encounter drops.";
 	HWND tt_encounters = toolGenerator(text_encounters, hWnd, encounters);
 	char text_fast[] =
-		"Text scrolls instantly.";
+		"Text scrolls instantly. There are noticeable\n"
+		"bugs with specific scenes, so the patch is\n"
+		"still a work in progress\n";
 	HWND tt_fast = toolGenerator(text_fast, hWnd, fasttext);
 	char text_expgold[] =
 		"Increases rewards from battle by 50%.\n"
@@ -1000,10 +1002,10 @@ void tooltipTextMaker(HWND hWnd) {
 		"Corrects the proportions of all character\n"
 		"portraits when running the game at its\n"
 		"native aspect ratio. If your emulator or\n"
-		"scaler is already applying some kind of\n"
-		"correction to the game's overall aspect\n"
-		"ratio, you may NOT need this fix on top\n"
-		"of that.";
+		"scaler is already applying a correction\n"
+		"to the game's overall aspect ratio or\n" 
+		"using a texture hack, you may NOT need\n" 
+		"this fix.";
 	HWND tt_portraits = toolGenerator(text_portraits, hWnd, portraits);
 	char text_music[] =
 		"Changes the songs used in specific\n"

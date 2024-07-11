@@ -34,13 +34,19 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	else {
 		MessageBox(wind, L"Could not find directory for 'patches'. Check repo for latest version.", L"Error", MB_ICONERROR);
 	}
-	// Determine if the exp/gold patch hasn't been ticked
-	if (wf_expgold) {
-		doExpGold();
+	// Determine if both exp/gold and monsters have been ticked.
+	if (wf_expgold && wf_monsters) {
+		doExpGoldMonsters();
 	}
-	// Determine if the monsters patch has been ticked
-	if (wf_monsters) {
-		doMonsters();
+	else {
+		// Determine if the exp/gold patch hasn't been ticked
+		if (wf_expgold) {
+			doExpGold();
+		}
+		// Determine if the monsters patch has been ticked
+		if (wf_monsters) {
+			doMonsters();
+		}
 	}
 	// Determine if the encounters patch has been ticked
 	if (wf_encounters) {
@@ -408,6 +414,21 @@ void writeFile::doMusic() {
 }
 
 void writeFile::doExpGoldMonsters() {
+	// Without items or script
+	if (!wf_itemspells && !wf_script) {
+		goHome();
+		if (std::filesystem::exists("\exp_monster")) {
+			std::filesystem::current_path("\exp_monster");
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'exp_monste'. Check repo for latest version.", L"Error", MB_ICONERROR);
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
+	}
 	// Find shared files for the exp/gold, monster and item patches
 	if (wf_itemspells) {
 		goHome();
