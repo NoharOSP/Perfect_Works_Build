@@ -324,22 +324,19 @@ void writeFile::doArena() {
 }
 
 void writeFile::doPortraits() {
-	// Check for shared files between the script and portrait patches
-	if (wf_script) {
-		// Check disc number
-		if (discNum == 1) {
-			goHome();
-			if (std::filesystem::exists("\portraits")) {
-				std::filesystem::current_path("\portraits");
-				for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-					std::string fileName = entry.path().string();
-					std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-					preprocess(finalName);
-				}
+	// Check for shared files between the script, items/spells and portrait patches
+	if (wf_script || wf_itemspells) {
+		goHome();
+		if (std::filesystem::exists("\portraits")) {
+			std::filesystem::current_path("\portraits");
+			for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+				std::string fileName = entry.path().string();
+				std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+				preprocess(finalName);
 			}
-			else {
-				MessageBox(wind, L"Could not find directory for 'portraits'. Check repo for latest version.", L"Error", MB_ICONERROR);
-			}
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'portraits'. Check repo for latest version.", L"Error", MB_ICONERROR);
 		}
 	}
 }

@@ -512,14 +512,14 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 				if (p_portraits) {
 					if (pathFound1) {
-						/* Check if script patches aren't selected to avoid compatibility issues. Otherwise, writeFile will apply portrait files. 
-						This mainly applies to disc 1 due to an error with the Solaris emergence cutscene*/
-						if (!p_script) {
+						if (!p_script && !itemspells) {
 							portraitsName1 = "cd1_portraits.xdelta";
 						}
 					}
 					if (pathFound2) {
-						portraitsName2 = "cd2_portraits.xdelta";
+						if (!p_script && !itemspells) {
+							portraitsName2 = "cd2_portraits.xdelta";
+						}
 					}
 				}
 				if (p_music) {
@@ -545,10 +545,20 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				// Graphics edits are not applied to the items/spells or script patch as they already have it applied.
 				if (!p_items_spells && !p_script) {
 					if (pathFound1) {
-						graphicsName1 = "cd1_graphics.xdelta";
+						if (!portraits) {
+							graphicsName1 = "cd1_graphics.xdelta";
+						}
+						else {
+							graphicsName1 = "cd1_graphics_no_face.xdelta";
+						}
 					}
 					if (pathFound2) {
-						graphicsName2 = "cd2_graphics.xdelta";
+						if (!portraits) {
+							graphicsName2 = "cd2_graphics.xdelta";
+						}
+						else {
+							graphicsName2 = "cd2_graphics_no_face.xdelta";
+						}
 					}
 				}
 				// Bug patch is not applied to the items/spells, arena and script patches as they already have it applied.
