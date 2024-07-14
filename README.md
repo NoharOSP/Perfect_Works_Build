@@ -716,6 +716,7 @@ DM or tag here if you want immediate feedback on Twitter:
 ### Graphical fixes:
 - edrovinhaz
 - Rufas
+- Siris
 - Nohar
 
 ### FMV font
