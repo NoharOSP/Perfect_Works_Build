@@ -1,10 +1,10 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.4.5 here:
+Download version 0.4.6 here:
 
-- MEGA: https://mega.nz/file/OapCAaRQ#0s1H3lyouCbG6SLU0YK4X6rTpVSmJmH5pycdLFiHafw
-- Google Drive: https://drive.google.com/file/d/1tYCj6FZ5heIhymVgD4cM5Fa3YW6Tct5g/view?usp=sharing
+- MEGA: https://mega.nz/file/fTAjiZCL#Qi2ZUqTa2wnk3F_IdzV2hCKFTd5xkZskpAp66hoHLnY
+- Google Drive: https://drive.google.com/file/d/1_K5778rxz_cXmiM7dWXYxBIPmD1RNkPj/view?usp=sharing
   
 ## Instructions:
 
@@ -42,6 +42,15 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.4.6:
+
+07/14/2024
+
+- Monster and exp/gold patches no longer overwrite each other.
+- Giant Wels no longer plays Blue Traveller due to a glitch with Mednafen.
+- Rogue pixels on facesets have been fixed outside of the portrait mod.
+- Changes to the script in the Battle Arena are shared between patches.
 
 ### Version 0.4.5:
 
@@ -451,6 +460,10 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ### Builds:
 
+#### Version 0.4.5:
+- MEGA: https://mega.nz/file/OapCAaRQ#0s1H3lyouCbG6SLU0YK4X6rTpVSmJmH5pycdLFiHafw
+- Google Drive: https://drive.google.com/file/d/1tYCj6FZ5heIhymVgD4cM5Fa3YW6Tct5g/view?usp=sharing
+
 #### Version 0.4.4:
 - MEGA: https://mega.nz/file/PbJRCYCS#KVigJL6eEvb-2JM_5AiDANSnigjse4FS7zasAu1rRH8
 - Google Drive: https://drive.google.com/file/d/15v1d6Gij8hBOQ_onBRdQBSQWWLPjR096/view?usp=sharing
@@ -643,6 +656,26 @@ These are applied if any option is selected.
 
 - A bug with Deus' first fight which can freeze the game if he tries to use his HP halve move from a side angle.
 - A bug which prevents Billy's Ether elemental ammo from being changed.
+
+## Graphical fixes:
+
+Regardless of whether the portrait mod has been selected, character facesets that previous suffered from rogue pixels have been fixed. These include the following:
+- Fei's Sad Portrait - it was missing black pixels on the back of his neck where his hair is
+- Adult Emeralda - missing a few black pixels in her right eyelash
+- Id - missing black pixel from eyelash
+- Miang - 4 stray pixels near the bottom right edge of her portrait. Added 1 pixel to the bottom of her bang on the left side.
+- Karen - an area of brown pixels top left corner outside her apparent outline, removed them and seems to look right.. esp. compared to Khan.
+- Vanderkaum - missing black pixels in his beard/suit
+- Shakhan - missing black pixels on his jawline
+- Renk - had stray pixels with a large gap of empty space in lower right corner, moved them down into bottom and cut extra on top
+- Breur - removed 1 pixel off edge of cheek
+- Stratski - had a hole in shoulder pad I colored in
+- Franz - missing few black pixels in eye, removed couple black pixels on top of nose
+- Yui - colored in 3 missing pixels from right eye
+- Midori - missing 1 black pixel from pupil
+- Chief Lee - missing 1 black pixel from chin
+- Alice - colored in missing pixels around eyes
+- Timothy - missing 1 black pixel on left eye
 
 ## Links:
 
