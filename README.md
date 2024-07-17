@@ -620,7 +620,7 @@ For those who want to test a certain section in the game. They use the mcd forma
 
 ### [Items/spells](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Items-&-Spells)
 
-### [Music changes](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Music-changes)
+### [Music changes](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Music-changes) (WARNING! This feature is incredibly bugged when used outside of Duckstation and will be dropped in the next update).
 
 ### [Monster stats](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Enemy-Stats)
 
