@@ -291,7 +291,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				p_monsters = true;
 				p_barena = true;
 				p_portraits = true;
-				p_music = true;
 			}
 			LRESULT easyticked = SendMessage(easy, BM_GETCHECK, NULL, NULL);
 			if (easyticked == BST_CHECKED) {
@@ -310,13 +309,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			}
 			else {
 				p_portraits = false;
-			}
-			LRESULT musicticked = SendMessage(music, BM_GETCHECK, NULL, NULL);
-			if (musicticked == BST_CHECKED) {
-				p_music = true;
-			}
-			else {
-				p_music = false;
 			}
 			LRESULT fmvticked = SendMessage(fmvs, BM_GETCHECK, NULL, NULL);
 			if (fmvticked == BST_CHECKED) {
@@ -522,18 +514,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 					}
 				}
-				if (p_music) {
-					if (pathFound1) {
-						if (!p_fastold && !p_script && !p_items_spells) {
-							musicName1 = "cd1_music.xdelta";
-						}
-					}
-					if (pathFound2) {
-						if (!p_script) {
-							musicName2 = "cd2_music.xdelta";
-						}
-					}
-				}
 				if (p_fmv) {
 					if (pathFound1) {
 						fmvName1 = "cd1_fmvs.xdelta";
@@ -596,17 +576,17 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				if (scriptExists) {
 					p_script = true;
 				}
-				if (p_exp_gold || p_monsters || p_encounters || p_fastnew || p_barena || p_earena || p_portraits || p_music) {
+				if (p_exp_gold || p_monsters || p_encounters || p_fastnew || p_barena || p_earena || p_portraits) {
 					if ((p_script || p_items_spells || p_fastold) || (p_exp_gold && p_monsters)) {
 						SetWindowText(hWnd, L"Finishing...");
 						if (changed == false) {
 							changed = true;
 						}
 						if (pathFound1) {
-							writeFile wf1(hWnd, home, newPath1, 1, p_items_spells, p_script, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_barena, p_earena, p_portraits, p_music, p_fastold);
+							writeFile wf1(hWnd, home, newPath1, 1, p_items_spells, p_script, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_barena, p_earena, p_portraits, p_fastold);
 						}
 						if (pathFound2) {
-							writeFile wf2(hWnd, home, newPath2, 2, p_items_spells, p_script, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_barena, p_earena, p_portraits, p_music, p_fastold);
+							writeFile wf2(hWnd, home, newPath2, 2, p_items_spells, p_script, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_barena, p_earena, p_portraits, p_fastold);
 						}
 					}
 				}
@@ -743,7 +723,6 @@ void initialiseGeneralButtonList() {
 	generalWindList.emplace_back(itemspells);
 	generalWindList.emplace_back(monsters);
 	generalWindList.emplace_back(script);
-	generalWindList.emplace_back(music);
 	generalWindList.emplace_back(fmvs);
 }
 
@@ -774,8 +753,6 @@ void initialisePatchLists() {
 	patchList2.emplace_back(monsterName2);
 	patchList1.emplace_back(scriptName1);
 	patchList2.emplace_back(scriptName2);
-	patchList1.emplace_back(musicName1);
-	patchList2.emplace_back(musicName2);
 	patchList1.emplace_back(graphicsName1);
 	patchList2.emplace_back(graphicsName2);
 	patchList1.emplace_back(bugName1);
@@ -861,8 +838,6 @@ void reinitialisePatches () {
 	monsterName2 = "";
 	scriptName1 = "";
 	scriptName2 = "";
-	musicName1 = "";
-	musicName2 = "";
 	graphicsName1 = "";
 	graphicsName2 = "";
 	bugName1 = "";
@@ -932,7 +907,6 @@ void initialiseGeneralWindows(HWND hWnd) {
 	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items/characters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.25), (int)(winY * 0.53), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
 	monsters = CreateWindow(L"BUTTON", L"Rebalanced monsters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.25), (int)(winY * 0.61), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
 	fmvs = CreateWindow(L"BUTTON", L"FMV changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.75), (int)(winY * 0.45), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
-	music = CreateWindow(L"BUTTON", L"Music changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.75), (int)(winY * 0.53), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
 	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.75), (int)(winY * 0.61), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
@@ -1017,12 +991,6 @@ void tooltipTextMaker(HWND hWnd) {
 		"using a texture hack, you may NOT need\n" 
 		"this fix.";
 	HWND tt_portraits = toolGenerator(text_portraits, hWnd, portraits);
-	char text_music[] =
-		"Changes the songs used in specific\n"
-		"sequences so that they fit better,\n"
-		"prevent overuse, or allow for leitmotif\n"
-		"consistency.";
-	HWND tt_music = toolGenerator(text_music, hWnd, music);
 	char text_fmvs[] =
 		"Changes the FMVs so that they use\n"
 		"the Japanese audio and subtitles\n"
@@ -1126,7 +1094,6 @@ void removeGeneralButtons() {
 	ShowWindow(itemspells, SW_HIDE);
 	ShowWindow(monsters, SW_HIDE);
 	ShowWindow(script, SW_HIDE);
-	ShowWindow(music, SW_HIDE);
 	ShowWindow(fmvs, SW_HIDE);
 }
 

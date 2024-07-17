@@ -3,7 +3,7 @@
 
 
 
-writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool exp_gold, bool monsters, bool encounters, bool fastnew, bool barena, bool earena, bool portraits, bool music, bool fastold)
+writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool exp_gold, bool monsters, bool encounters, bool fastnew, bool barena, bool earena, bool portraits, bool fastold)
 {
 	dir = home;
 	discName = cd;
@@ -18,7 +18,6 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	wf_barena = barena;
 	wf_earena = earena;
 	wf_portraits = portraits;
-	wf_music = music;
 	wf_fastold = fastold;
 	// Move to the "shared_files" directory
 	std::filesystem::current_path(dir);
@@ -63,10 +62,6 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	// Determine if the portraits patch has been ticked
 	if (wf_portraits) {
 		doPortraits();
-	}
-	// Determine if the music patch has been ticked
-	if (wf_music) {
-		doMusic();
 	}
 }
 
@@ -337,75 +332,6 @@ void writeFile::doPortraits() {
 		}
 		else {
 			MessageBox(wind, L"Could not find directory for 'portraits'. Check repo for latest version.", L"Error", MB_ICONERROR);
-		}
-	}
-}
-
-void writeFile::doMusic() {
-	// Check for shared files between the music and original script fast text patches
-	if (wf_fastold) {
-		// Check disc number
-		if (discNum == 1) {
-			goHome();
-			if (std::filesystem::exists("\music_fastold")) {
-				std::filesystem::current_path("\music_fastold");
-				for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-					std::string fileName = entry.path().string();
-					std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-					preprocess(finalName);
-				}
-			}
-			else {
-				MessageBox(wind, L"Could not find directory for 'music_fastold'. Check repo for latest version.", L"Error", MB_ICONERROR);
-			}
-		}
-	}
-	// Check for shared files between the music and script patches
-	if (wf_script) {
-		if (discNum == 1) {
-			goHome();
-			if (std::filesystem::exists("\music_script1")) {
-				std::filesystem::current_path("\music_script1");
-				for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-					std::string fileName = entry.path().string();
-					std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-					preprocess(finalName);
-				}
-			}
-			else {
-				MessageBox(wind, L"Could not find directory for 'music_script1'. Check repo for latest version.", L"Error", MB_ICONERROR);
-			}
-		}
-		if (discNum == 2) {
-			goHome();
-			if (std::filesystem::exists("\music_script2")) {
-				std::filesystem::current_path("\music_script2");
-				for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-					std::string fileName = entry.path().string();
-					std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-					preprocess(finalName);
-				}
-			}
-			else {
-				MessageBox(wind, L"Could not find directory for 'music_script2'. Check repo for latest version.", L"Error", MB_ICONERROR);
-			}
-		}
-	}
-	// Implement music files directly if items are applied.
-	if (wf_itemspells && !wf_script) {
-		if (discNum == 1) {
-			goHome();
-			if (std::filesystem::exists("\music_items")) {
-				std::filesystem::current_path("\music_items");
-				for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
-					std::string fileName = entry.path().string();
-					std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
-					preprocess(finalName);
-				}
-			}
-			else {
-				MessageBox(wind, L"Could not find directory for 'music_items'. Check repo for latest version.", L"Error", MB_ICONERROR);
-			}
 		}
 	}
 }
