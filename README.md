@@ -659,23 +659,23 @@ These are applied if any option is selected.
 
 ## Graphical fixes:
 
-Regardless of whether the portrait mod has been selected, character facesets that previous suffered from rogue pixels have been fixed. These include the following:
-- Fei's Sad Portrait - it was missing black pixels on the back of his neck where his hair is
-- Adult Emeralda - missing a few black pixels in her right eyelash
-- Id - missing black pixel from eyelash
-- Miang - 4 stray pixels near the bottom right edge of her portrait. Added 1 pixel to the bottom of her bang on the left side.
-- Karen - an area of brown pixels top left corner outside her apparent outline, removed them and seems to look right.. esp. compared to Khan.
-- Vanderkaum - missing black pixels in his beard/suit
-- Shakhan - missing black pixels on his jawline
-- Renk - had stray pixels with a large gap of empty space in lower right corner, moved them down into bottom and cut extra on top
-- Breur - removed 1 pixel off edge of cheek
-- Stratski - had a hole in shoulder pad I colored in
-- Franz - missing few black pixels in eye, removed couple black pixels on top of nose
-- Yui - colored in 3 missing pixels from right eye
-- Midori - missing 1 black pixel from pupil
-- Chief Lee - missing 1 black pixel from chin
-- Alice - colored in missing pixels around eyes
-- Timothy - missing 1 black pixel on left eye
+Regardless of whether the portrait mod has been selected, character facesets that previous suffered from rogue pixels have been fixed. The edited portraits are listed along with the filenames necessary to update them with emulators that support texture replacement:
+- Fei's Sad Portrait - it was missing black pixels on the back of his neck where his hair is. From c44361bb-b2e81840 to f7511ac9-339f07ab.png
+- Adult Emeralda - missing a few black pixels in her right eyelash. From bf58561-84598680 to 13d8bed6-e5bc243c.png
+- Id - missing black pixel from eyelash. From 840eb794-71046228 to ee7899fd-4c2afa5b.png
+- Miang - 4 stray pixels near the bottom right edge of her portrait. Added 1 pixel to the bottom of her bang on the left side. From 6262da3b-148cb3e to 96aae7a8-c0acac2c.png
+- Karen - an area of brown pixels top left corner outside her apparent outline, removed them and seems to look right.. esp. compared to Khan. From 59785951-c65ba831 to 9af6b578-56affa2d.png
+- Vanderkaum - missing black pixels in his beard/suit. From bf418954-18cb0ded to 4e8534c1-695609b8.png
+- Shakhan - missing black pixels on his jawline. From e2784dd7-8878c18d to 8a9bf742-673e8111.png
+- Renk - had stray pixels with a large gap of empty space in lower right corner, moved them down into bottom and cut extra on top. From feb33c34-a11380ee to 1a9dc0f4-b44c4b88.png
+- Breur - removed 1 pixel off edge of cheek. From dae75350-8a549e0c to 7e152c99-3d9bdffc.png
+- Stratski - had a hole in shoulder pad I colored in. From a46f7111-904bb173 to 9e6b9961-cdd20b0b.png
+- Franz - missing few black pixels in eye, removed couple black pixels on top of nose. From a4b08849-727a7d35 to e3b464a6-79c42965.png
+- Yui - colored in 3 missing pixels from right eye. From 52c01ea-982180de to 4ac0ad8e-c42aba50.png
+- Midori - missing 1 black pixel from pupil. From 11c8f769-dc78cd4e to cc676900-66241a89.png
+- Chief Lee - missing 1 black pixel from chin. From d3756da8-29e124d to fffd7062-c3370775.png
+- Alice - colored in missing pixels around eyes. From 9b395356-b020aead to d3a44e6-b746b416.png
+- Timothy - missing 1 black pixel on left eye. From ae68acff-afcd026a to 95d151a0-c02a787c.png
 
 ## Links:
 
