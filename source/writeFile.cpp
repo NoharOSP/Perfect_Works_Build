@@ -3,7 +3,7 @@
 
 
 
-writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool exp_gold, bool monsters, bool encounters, bool fastnew, bool barena, bool earena, bool portraits, bool fastold)
+writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool itemsspells, bool script, bool exp_gold, bool monsters, bool encounters, bool fastnew, bool barena, bool earena, bool portraits, bool fastold, bool graphics)
 {
 	dir = home;
 	discName = cd;
@@ -19,6 +19,7 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	wf_earena = earena;
 	wf_portraits = portraits;
 	wf_fastold = fastold;
+	wf_graphics = graphics;
 	// Move to the "shared_files" directory
 	std::filesystem::current_path(dir);
 	if (std::filesystem::exists("\patches")) {
@@ -62,6 +63,10 @@ writeFile::writeFile(HWND hWnd, std::string home, std::string cd, int num, bool 
 	// Determine if the portraits patch has been ticked
 	if (wf_portraits) {
 		doPortraits();
+	}
+	// Determine if the graphics patch has been ticked
+	if (wf_graphics) {
+		doGraphics();
 	}
 }
 
@@ -395,6 +400,24 @@ void writeFile::doExpGoldMonsters() {
 			std::string fileName = entry.path().string();
 			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
 			preprocess(finalName);
+		}
+	}
+}
+
+void writeFile::doGraphics() {
+	// Check for shared files between the script, items/spells and graphics patches
+	if (wf_script || wf_itemspells) {
+		goHome();
+		if (std::filesystem::exists("\graphics")) {
+			std::filesystem::current_path("\graphics");
+			for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+				std::string fileName = entry.path().string();
+				std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+				preprocess(finalName);
+			}
+		}
+		else {
+			MessageBox(wind, L"Could not find directory for 'graphics'. Check repo for latest version.", L"Error", MB_ICONERROR);
 		}
 	}
 }

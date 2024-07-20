@@ -291,6 +291,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				p_monsters = true;
 				p_barena = true;
 				p_portraits = true;
+				p_graphics = true;
 			}
 			LRESULT easyticked = SendMessage(easy, BM_GETCHECK, NULL, NULL);
 			if (easyticked == BST_CHECKED) {
@@ -316,6 +317,13 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			}
 			else {
 				p_fmv = false;
+			}
+			LRESULT graphicsticked = SendMessage(graphics, BM_GETCHECK, NULL, NULL);
+			if (graphicsticked == BST_CHECKED) {
+				p_graphics = true;
+			}
+			else {
+				p_graphics = false;
 			}
 			// Unlock patch button
 			patchBoxLock();
@@ -522,22 +530,24 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						fmvName2 = "cd2_fmvs.xdelta";
 					}
 				}
-				// Graphics edits are not applied to the items/spells or script patch as they already have it applied.
-				if (!p_items_spells && !p_script) {
-					if (pathFound1) {
-						if (!portraits) {
-							graphicsName1 = "cd1_graphics.xdelta";
+				// Graphics edits are not applied to the items/spells or script patch here as they would cause crashes.
+				if (p_graphics) {
+					if (!p_items_spells && !p_script) {
+						if (pathFound1) {
+							if (!p_portraits) {
+								graphicsName1 = "cd1_graphics.xdelta";
+							}
+							else {
+								graphicsName1 = "cd1_graphics_no_face.xdelta";
+							}
 						}
-						else {
-							graphicsName1 = "cd1_graphics_no_face.xdelta";
-						}
-					}
-					if (pathFound2) {
-						if (!portraits) {
-							graphicsName2 = "cd2_graphics.xdelta";
-						}
-						else {
-							graphicsName2 = "cd2_graphics_no_face.xdelta";
+						if (pathFound2) {
+							if (!p_portraits) {
+								graphicsName2 = "cd2_graphics.xdelta";
+							}
+							else {
+								graphicsName2 = "cd2_graphics_no_face.xdelta";
+							}
 						}
 					}
 				}
@@ -576,17 +586,17 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				if (scriptExists) {
 					p_script = true;
 				}
-				if (p_exp_gold || p_monsters || p_encounters || p_fastnew || p_barena || p_earena || p_portraits) {
+				if (p_exp_gold || p_monsters || p_encounters || p_fastnew || p_barena || p_earena || p_portraits || p_graphics) {
 					if ((p_script || p_items_spells || p_fastold) || (p_exp_gold && p_monsters)) {
 						SetWindowText(hWnd, L"Finishing...");
 						if (changed == false) {
 							changed = true;
 						}
 						if (pathFound1) {
-							writeFile wf1(hWnd, home, newPath1, 1, p_items_spells, p_script, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_barena, p_earena, p_portraits, p_fastold);
+							writeFile wf1(hWnd, home, newPath1, 1, p_items_spells, p_script, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_barena, p_earena, p_portraits, p_fastold, p_graphics);
 						}
 						if (pathFound2) {
-							writeFile wf2(hWnd, home, newPath2, 2, p_items_spells, p_script, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_barena, p_earena, p_portraits, p_fastold);
+							writeFile wf2(hWnd, home, newPath2, 2, p_items_spells, p_script, p_exp_gold, p_monsters, p_encounters, p_fastnew, p_barena, p_earena, p_portraits, p_fastold, p_graphics);
 						}
 					}
 				}
@@ -724,6 +734,7 @@ void initialiseGeneralButtonList() {
 	generalWindList.emplace_back(monsters);
 	generalWindList.emplace_back(script);
 	generalWindList.emplace_back(fmvs);
+	generalWindList.emplace_back(graphics);
 }
 
 // Initialise misc button list
@@ -901,13 +912,14 @@ void initialiseGeneralWindows(HWND hWnd) {
 	encounters = CreateWindow(L"BUTTON", L"Half encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	portraits = CreateWindow(L"BUTTON", L"Readjusted portraits", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.61), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	graphics = CreateWindow(L"BUTTON", L"Graphical fixes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.69), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	basicarena = CreateWindow(L"BUTTON", L"Basic rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * 0.50), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	expertarena = CreateWindow(L"BUTTON", L"Expert rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * 0.50), (int)(winY * 0.53), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	expgold = CreateWindow(L"BUTTON", L"1.5x exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.25), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items/characters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.25), (int)(winY * 0.53), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
 	monsters = CreateWindow(L"BUTTON", L"Rebalanced monsters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.25), (int)(winY * 0.61), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
 	fmvs = CreateWindow(L"BUTTON", L"FMV changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.75), (int)(winY * 0.45), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
-	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.75), (int)(winY * 0.61), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
+	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.75), (int)(winY * 0.53), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
 // Define text boxes for the misc tab
@@ -997,6 +1009,12 @@ void tooltipTextMaker(HWND hWnd) {
 		"which are closer to the original\n"
 		"script.";
 	HWND tt_fmvs = toolGenerator(text_fmvs, hWnd, fmvs);
+	char text_graphics[] =
+		"Fixes graphical bugs from the\n"
+		"original game. If you are using\n"
+		"a texture hack, you may NOT need\n"
+		"this fix.";
+	HWND tt_graphics = toolGenerator(text_graphics, hWnd, graphics);
 }
 
 
