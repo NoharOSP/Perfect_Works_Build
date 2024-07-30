@@ -221,6 +221,33 @@ void writeFile::doEncounters() {
 			preprocess(finalName);
 		}
 	}
+	// Check if the items patch alone has been applied.
+	else if (wf_itemspells) {
+		// Check disc number
+		if (discNum == 1) {
+			goHome();
+			if (std::filesystem::exists("\encounterone_items")) {
+				std::filesystem::current_path("\encounterone_items");
+			}
+			else {
+				MessageBox(wind, L"Could not find directory for 'encounterone_items'. Check repo for latest version.", L"Error", MB_ICONERROR);
+			}
+		}
+		else if (discNum == 2) {
+			goHome();
+			if (std::filesystem::exists("\encountertwo_items")) {
+				std::filesystem::current_path("\encountertwo_items");
+			}
+			else {
+				MessageBox(wind, L"Could not find directory for 'encountertwo_items'. Check repo for latest version.", L"Error", MB_ICONERROR);
+			}
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(std::filesystem::current_path())) {
+			std::string fileName = entry.path().string();
+			std::string finalName = fileName.substr(fileName.find_last_of("/\\") + 1);
+			preprocess(finalName);
+		}
+	}
 }
 
 void writeFile::doArena() {
