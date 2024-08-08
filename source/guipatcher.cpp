@@ -552,7 +552,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					}
 				}
 				// Bug patch is not applied to the items/spells, arena and script patches as they already have it applied.
-				if (!p_items_spells && !p_script && (!p_barena && !p_earena)) {
+				if (!p_exp_gold && !p_monsters && !p_items_spells && !p_script && (!p_barena && !p_earena)) {
 					if (pathFound1) {
 						bugName1 = "cd1_bug_fixes.xdelta";
 						
