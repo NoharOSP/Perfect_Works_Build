@@ -1113,6 +1113,7 @@ void removeGeneralButtons() {
 	ShowWindow(monsters, SW_HIDE);
 	ShowWindow(script, SW_HIDE);
 	ShowWindow(fmvs, SW_HIDE);
+	ShowWindow(graphics, SW_HIDE);
 }
 
 // Hide misc buttons
