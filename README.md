@@ -1,10 +1,10 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.4.6 here:
+Download version 0.4.7 here:
 
-- MEGA: https://mega.nz/file/fTAjiZCL#Qi2ZUqTa2wnk3F_IdzV2hCKFTd5xkZskpAp66hoHLnY
-- Google Drive: https://drive.google.com/file/d/1_K5778rxz_cXmiM7dWXYxBIPmD1RNkPj/view?usp=sharing
+- MEGA: https://mega.nz/file/TOoXQLIb#3qQcHYDzrWmBz5FJ8W2fvnFpTnD9beWC_LrkL9mserQ
+- Google Drive: https://drive.google.com/file/d/1F96OhS74iAFdsmRF6orjqfgrHZA6bvn3/view?usp=sharing
   
 ## Instructions:
 
@@ -42,6 +42,18 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.4.7:
+
+08/12/2024
+
+- Expert arena mode no longer freezes.
+- Music fix has been removed due to compatibility issues with Mednafen.
+- Graphical fixes are now their own option.
+- Items/spells and encounter patches can now merge without the script patch.
+- New Drives are now available in Big Joe's shop.
+- New gear accessories are available outside of disc 1. Details are in the wiki.
+- Deus glitch fix no longer interferes with Ft Hurricane updates.
 
 ### Version 0.4.6:
 
@@ -459,6 +471,10 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 ## Archive:
 
 ### Builds:
+
+#### Version 0.4.6:
+- MEGA: https://mega.nz/file/fTAjiZCL#Qi2ZUqTa2wnk3F_IdzV2hCKFTd5xkZskpAp66hoHLnY
+- Google Drive: https://drive.google.com/file/d/1_K5778rxz_cXmiM7dWXYxBIPmD1RNkPj/view?usp=sharing
 
 #### Version 0.4.5:
 - MEGA: https://mega.nz/file/OapCAaRQ#0s1H3lyouCbG6SLU0YK4X6rTpVSmJmH5pycdLFiHafw
