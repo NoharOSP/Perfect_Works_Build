@@ -761,6 +761,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - FAY!!
 - Ali
 - Nohar
+- Kaizoku85
 
 ### Graphical fixes:
 - edrovinhaz
