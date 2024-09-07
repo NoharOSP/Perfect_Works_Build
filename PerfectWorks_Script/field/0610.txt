@@ -23,7 +23,7 @@ has their attention!"<Close><End of Block>
 Citan
 "Fei is bound...<Delay 20>
 to God's dark,
-cruel dream"<Close><End of Block>
+cruel dream..."<Close><End of Block>
 <TextBlock 7 w:16 h:3>
 Dan
 "...<Delay 20>

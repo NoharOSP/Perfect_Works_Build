@@ -162,6 +162,6 @@ Something is carved
 in small letters in
 the corner...<Close><End of Block>
 <TextBlock 31 w:68 h:3>
- "Celebrating my daughter's birth
+ 'Celebrating my daughter's birth
  ...May all the dreams, courage
- & love in the world be yours..." <Close><Close><End of Block>
+ & love in the world be yours...' <Close><Close><End of Block>
