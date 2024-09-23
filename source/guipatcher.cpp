@@ -355,18 +355,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				std::filesystem::current_path(filePath);
 				filePathValid = true;
 			}
-			// Check for previous script edits
-			bool scriptExists = false;
-			if (pathFound1) {
-				if (pc1.scriptVerify(path1)) {
-					scriptExists = true;
-				}
-			}
-			if (pathFound2) {
-				if (pc2.scriptVerify(path2)) {
-					scriptExists = true;
-				}
-			}
 			// Check for ticked boxes
 			if (filePathValid) {
 				if (p_encounters) {
@@ -655,10 +643,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				// Apply disc 2 patches
 				if (pathFound2) {
 					applyPatch(2);
-				}
-				// Check if the script patch has been applied and what patches require direct file inserts for compatibility
-				if (scriptExists) {
-					p_script = true;
 				}
 				SetWindowText(hWnd, szTitle);
 				MessageBox(hWnd, L"Patch was completed successfully. Use ECCRegen to see if the bin file needs to be regenerated", L"Success", MB_ICONASTERISK);
@@ -1270,15 +1254,4 @@ void applyPatch(int discNum) {
 	cue_stream << "  TRACK 01 MODE2/2352" << "\n";
 	cue_stream << "    INDEX 01 00:00:00" << "\n";
 	cue_stream.close();
-	if (discNum == 1) {
-		newPath1 = home + "/" + fileName;
-		// Mark version at the start of the bin
-		pc1.markVersion(newPath1);
-		pc1.markSubVersion(newPath1);
-	}
-	if (discNum == 2) {
-		newPath2 = home + "/" + fileName;
-		pc2.markVersion(newPath2);
-		pc2.markSubVersion(newPath2);
-	}
 }

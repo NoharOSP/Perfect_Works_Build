@@ -11,8 +11,6 @@
 #include <vector>
 #include <cstdlib>
 #include <cstdio>
-#include "patchChecker.h"
-#include "writeFile.h"
 
 #define MAX_LOADSTRING 100
 #define BUF_SIZE 300
@@ -119,8 +117,6 @@ TCHAR arenatext[256];
 TCHAR exptext[256];
 TCHAR misctext[256];
 std::ofstream cue_stream;
-patchChecker pc1;
-patchChecker pc2;
 
 // Global methods
 
