@@ -13,7 +13,7 @@ kill <Delay 10>you."<Close><End of Block>
 <TextBlock 4 w:54 h:4>
 Mysterious Gear
 "Pleased to meet you.<Delay 10>
-I am Rattan, one of the
+I am Kenren, one of the
 followers of Lord Karellen.<New>
 I would have liked to
 show my face if possible,<New>
@@ -62,7 +62,7 @@ like <Seibzehn> and
 Achtzehn, only more
 advanced!"<Close><End of Block>
 <TextBlock 12 w:52 h:4>
-Rattan
+Kenren
 "The current task is
 simply to confirm a
 hypothesis.<New>
@@ -84,7 +84,7 @@ Girl
 "Ki...<Delay 10>...<Delay 10>m<Delay 10>...?<Delay 10>
 I...<Delay 30> I..."<Close><End of Block>
 <TextBlock 15 w:46 h:4>
-Rattan
+Kenren
 "Ho ho ho...I see...<Delay 10>
 Not exactly a wild
 rampage, was it?<New>

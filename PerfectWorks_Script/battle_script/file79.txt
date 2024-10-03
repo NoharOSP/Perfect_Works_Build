@@ -53,7 +53,7 @@ our power!"<Close><End of Block>
 <TextBlock 12 w:42 h:3>
 "Hmmm, I'm getting no
 results. It can't be
-helped, Mugwort.<New>
+helped, Tenpou.<New>
 It's about time to
 finish the job."<Close><End of Block>
 <TextBlock 13 w:46 h:3>
@@ -73,7 +73,7 @@ There's no way you could
 stand after taking that
 much damage..."<Close><End of Block>
 <TextBlock 15 w:30 h:1>
-"M, Mugwort!!?"<Close><End of Block>
+"T, Tenpou!!?"<Close><End of Block>
 <TextBlock 16 w:46 h:2>
 "Why you! How dare you
 do that to my partner!"<Close><Close><End of Block>
