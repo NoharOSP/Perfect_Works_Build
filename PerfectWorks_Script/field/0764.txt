@@ -447,8 +447,8 @@ kind of <Delay 5>power<Delay 5>..."<Close><End of Block>
 My...<Delay 10> 
 strength...<Opcode 2 90><Close><End of Block>
 <TextBlock 83 w:30 h:2>
-My...<Delay 10>home...
-Their home...<Opcode 2 90><Close><End of Block>
+My...<Delay 10>place...
+to belong...<Opcode 2 90><Close><End of Block>
 <TextBlock 84 w:54 h:4>
 Maison
 "We must infiltrate Av
