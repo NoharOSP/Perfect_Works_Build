@@ -1,10 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.4.7 here:
+Download version 0.5.0 here:
 
-- MEGA: https://mega.nz/file/TOoXQLIb#3qQcHYDzrWmBz5FJ8W2fvnFpTnD9beWC_LrkL9mserQ
-- Google Drive: https://drive.google.com/file/d/1F96OhS74iAFdsmRF6orjqfgrHZA6bvn3/view?usp=sharing
+- MEGA: https://mega.nz/file/LOojBbyT#G9L3hZlvmHt4cZCC9ZeQje7m_z4urEQjuwF8LT0K1hE
   
 ## Instructions:
 
@@ -13,7 +12,7 @@ Download version 0.4.7 here:
 - Open the Xenogears: Perfect Works Patcher.
 - Open the ISO file for either or both discs. 
 - Select which patches you wish to apply.
-- Press Patch. Script patches should take around a minute or two due to the FMV changes.
+- Press Patch. The script edits should take longer to patch as it has the most files to copy.
 
 ### Regenerating:
 
@@ -42,6 +41,40 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.5.0:
+
+10/20/2024
+
+- xenoiso is now used to generate ROMs, which should reduce patch conflicts.
+- Elly's spells and the mechanics behind them have received a major overhaul. Details are in the wiki.
+- Elly now comes with a new item called Lt's Badge. Details are in the wiki.
+- A Bart exclusive accessory called Mariel's Ring is dropped by Shakhan. Details are in the wiki.
+- Bug has been fixed where you cannot enter the Mountain Path with the encounters and script patches together.
+- Option to switch the language of in-game voice acting has been added.
+- Easy and hard mode have been scrapped due to the confusing nature of them.
+- Tabs have been erased from the patcher in favour of an increased window size.
+- Fast text and items/characters have been labelled as experimental.
+- Wiseman now drops a Combo Drive.
+- Id now drops an Omni Drive.
+- Point Bethlehem Alpha Weltall has been nerfed. Details are in the wiki.
+- Full power Deus has been nerfed. Details are in the wiki.
+- Griffons now drop Combo Drives instead of Ether Ar +2.
+- Text formatting when Elly obtains Regulus has been fixed.
+- FAQ has been added to the README.
+- Glitches with sword Citan's Deathblows have been fixed.
+- Rattan and Mugwort now use their original names.
+- Weights for the Deathblowers and GNRS have been rebalanced. Details are in the wiki.
+- Survival Tent has had a price increase. Details are in the wiki.
+- Boss Rico has received an attack boost. Details are in the wiki.
+- Booster accessories now reduce fuel on the ground so that Boost can still reduce fuel in a gear.
+- Formatting in the Defend tutorial has been fixed.
+- Second Wyrm variant can now drop an X Charger instead of an Eyeball. Details are in the wiki.
+- Fei's line about his power in Bart's Lair is closer to the Japanese version.
+- Icon used for the patcher has been changed to use the Perfect Works Build logo.
+- Chapter names now use the changed name for Ignas.
+- Omegasol EP bug has been fixed, though EP Drives will overflow past 99.
+- Issues with Weltall-2's pointer have been fixed. The fix will only show on a new save file.
 
 ### Version 0.4.7:
 
@@ -349,8 +382,6 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - Dialogue during Chu-Chu's first scene has been fixed.
 - References to Bart and Margie's parents' deaths have been changed from execution to suicide.
 
-
-
 ### Version 0.2.0:
 
 04/09/2023
@@ -468,9 +499,34 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 - Initial release
 
+## FAQ:
+
+Q: Can the Xenogears: Perfect Works Build be used with the Undub patch?
+A: It can, but the softsubs used for FMVs overlap with the FMV patch.
+
+Q: Can the Japanese control scheme patch be used?
+A: Yes.
+
+Q: Beetle PSX HW and Mednafen show a bad sector error. Did something go wrong?
+A: Regenerate the ROM using ECCRegen.
+
+Q: Are any of the patches mandatory?
+A: No. You can pick what patches you wish to apply via the patcher. 
+
+Q: Where should I download the Xenogears: Perfect Works Build?
+A: Use the MEGA and Google Drive uploads provided at the top of the README.
+
+Q: The patcher displays an error stating that a directory cannot be found.
+A: Make sure the patcher is in the same directory as gamefiles, patches, xdelta and xenoiso.
+
+
 ## Archive:
 
 ### Builds:
+
+#### Version 0.4.7:
+- MEGA: https://mega.nz/file/TOoXQLIb#3qQcHYDzrWmBz5FJ8W2fvnFpTnD9beWC_LrkL9mserQ
+- Google Drive: https://drive.google.com/file/d/1F96OhS74iAFdsmRF6orjqfgrHZA6bvn3/view?usp=sharing
 
 #### Version 0.4.6:
 - MEGA: https://mega.nz/file/fTAjiZCL#Qi2ZUqTa2wnk3F_IdzV2hCKFTd5xkZskpAp66hoHLnY
@@ -582,6 +638,10 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ### GUI patcher:
 
+#### Version 0.7
+
+Included with build 0.4.
+
 #### Version 0.6
 
 Included with build 0.3.
@@ -616,6 +676,8 @@ https://mega.nz/file/mWYViJTR#_a1CaUwPLeMviQ5ZwTs9kPjYC60c_yOjHd5s68oGbCs
 
 For those who want to test a certain section in the game. They use the mcd format supported by Duckstation.
 
+### Pre-0.1:
+
 - xenomem1: Mountain Path - Operation Av
 - xenomem2: The Tournament - Brave Battlers
 - xenomem3: Brave Battlers - Secret Weapon
@@ -625,6 +687,17 @@ For those who want to test a certain section in the game. They use the mcd forma
 - xenomem7: Shot Down! - Dreams...
 - xenomem8: Fallen Star - First and Last (Merkabah)
 - xenomemdebug: All debug rooms (disc 1 only)
+
+### 0.4+:
+
+- xenomem_4_1: Mountain Path - Pirate's Lair
+- xenomem_4_2: Operation Av - Brave Battlers
+- xenomem_4_3: Brave Battlers - Secret Weapon
+- xenomem_4_4: Secret Weapon - Burning Souls
+- xenomem_4_5: Ocean Floor - Protect Nisan!
+- xenomem_4_6: Protect Nisan! - Karellen's Lab
+- xenomem_4_7: Karellen's Lab - Dreams...
+- xenomem_4_8: Dreams... - First and Last
 
 ## Patches:
 
@@ -643,27 +716,6 @@ For those who want to test a certain section in the game. They use the mcd forma
 ### [Script](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Script-Changes)
 
 ### [Stat changes](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Stat-Changes)
-
-## Modes:
-
-### All patches:
-
-Implements all patches onto the ROM.
-
-### Easy mode:
-
-Patches implemented:
-
-- Half encounters.
-- 50% exp/gold.
-
-### Hard mode:
-
-Patches implemented:
-
-- Rebalanced items/spells.
-- Rebalanced monsters.
-- Expert mode for the battle arena.
 
 
 ## Bug fixes:
@@ -776,6 +828,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - SadNES cITy Translations
 - xdelta
 - Rufas
+- Chop 
 
 ### Fast text code:
 - FFMaster
