@@ -997,7 +997,7 @@ void tooltipTextMaker(HWND hWnd) {
 		"Switches to the Japanese voices\n"
 		"used in battle and the Speed\n"
 		"minigame.";
-	HWND tt_voice = toolGenerator(text_graphics, hWnd, voice);
+	HWND tt_voice = toolGenerator(text_voices, hWnd, voice);
 }
 
 // Initialise common controls for parsing large files
