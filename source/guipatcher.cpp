@@ -323,13 +323,13 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			// Work around path names with whitespace.
 			if (discNum == 1) {
 				if (path1.find(' ') != std::string::npos) {
-					MessageBox(hWnd, L"File path cannot have whitespace.", L"Error", MB_ICONERROR);
+					MessageBox(hWnd, L"File path cannot have spaces.", L"Error", MB_ICONERROR);
 					break;
 				}
 			}
 			if (discNum == 2) {
 				if (path2.find(' ') != std::string::npos) {
-					MessageBox(hWnd, L"File path cannot have whitespace.", L"Error", MB_ICONERROR);
+					MessageBox(hWnd, L"File path cannot have space.", L"Error", MB_ICONERROR);
 					break;
 				}
 			}
