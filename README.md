@@ -503,22 +503,32 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 ## FAQ:
 
 Q: Can the Xenogears: Perfect Works Build be used with the Undub patch?
+
 A: It can, but the softsubs used for FMVs overlap with the FMV patch.
 
 Q: Can the Japanese control scheme patch be used?
+
 A: Yes.
 
 Q: Beetle PSX HW and Mednafen show a bad sector error. Did something go wrong?
+
 A: Regenerate the ROM using ECCRegen.
 
 Q: Are any of the patches mandatory?
+
 A: No. You can pick what patches you wish to apply via the patcher. 
 
 Q: Where should I download the Xenogears: Perfect Works Build?
+
 A: Use the MEGA and Google Drive uploads provided at the top of the README.
 
 Q: The patcher displays an error stating that a directory cannot be found.
+
 A: Make sure the patcher is in the same directory as gamefiles, patches, xdelta and xenoiso.
+
+Q: When patching, I get an error saying that I cannot use spaces in the file path. What should I do?
+
+A: This error occurs because xenoiso is used to create ROMs using the edited files. A side effect the tool has is that file paths for the original ROM cannot have spaces. To resolve this, remove all spaces from the path used for your Xenogears ROM. If the file path contains a user name with spaces that cannot be changed, put your ROM and the patcher inside a new folder in the root directory (C:/). This is an admittedly irritating quirk that will be ironed out in the next major release.
 
 
 ## Archive:
