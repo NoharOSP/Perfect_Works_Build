@@ -319,23 +319,31 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 
 		case IDM_APPLY_PATCH:
 		{
+			SetWindowText(hWnd, L"Preparing...");
 			changed = false;
 			// Work around path names with whitespace.
-			if (discNum == 1) {
+			if (pathFound1) {
 				if (path1.find(' ') != std::string::npos) {
-					MessageBox(hWnd, L"File path cannot have spaces.", L"Error", MB_ICONERROR);
-					break;
+					SetWindowText(hWnd, L"Copying files...");
+					std::filesystem::current_path(home);
+					std::ifstream  src(path1, std::ios::binary);
+					std::ofstream  dst(tempcd1, std::ios::binary);
+					dst << src.rdbuf();
+					space = true;
 				}
 			}
-			if (discNum == 2) {
+			if (pathFound2) {
 				if (path2.find(' ') != std::string::npos) {
-					MessageBox(hWnd, L"File path cannot have space.", L"Error", MB_ICONERROR);
-					break;
+					SetWindowText(hWnd, L"Copying files...");
+					std::filesystem::current_path(home);
+					std::ifstream  src(path2, std::ios::binary);
+					std::ofstream  dst(tempcd2, std::ios::binary);
+					dst << src.rdbuf();
+					space = true;
 				}
 			}
 			// Return to home directory
 			std::filesystem::current_path(home);
-			SetWindowText(hWnd, L"Preparing...");
 			// Access directory for patches if FMVs has been ticked
 			if (std::filesystem::exists(patchPath)) {
 				std::filesystem::current_path(patchPath);
@@ -988,10 +996,10 @@ void tooltipTextMaker(HWND hWnd) {
 		"script.";
 	HWND tt_fmvs = toolGenerator(text_fmvs, hWnd, fmvs);
 	char text_graphics[] =
-		"Fixes graphical bugs from the\n"
-		"original game. If you are using\n"
-		"a texture hack, you may NOT need\n"
-		"this fix.";
+		"Fixes graphical bugs with\n"
+		"portraits and the battle UI. If\n" 
+		"you are using a texture hack, you\n" 
+		"may NOT need this fix.\n";
 	HWND tt_graphics = toolGenerator(text_graphics, hWnd, graphics);
 	char text_voices[] =
 		"Switches to the Japanese voices\n"
@@ -1075,7 +1083,12 @@ void applyPatch(int discNum) {
 		fileName = "Xenogears_PW_CD1.bin";
 		cueName = "Xenogears_PW_CD1.cue";
 		patchList = patchList1;
-		oldPath = path1;
+		if (space) {
+			oldPath = tempcd1;
+		}
+		else {
+			oldPath = path1;
+		}
 		cdName = "cd1";
 	}
 	// Disc 2 data
@@ -1083,7 +1096,12 @@ void applyPatch(int discNum) {
 		fileName = "Xenogears_PW_CD2.bin";
 		cueName = "Xenogears_PW_CD2.cue";
 	    patchList = patchList2;
-		oldPath = path2;
+		if (space) {
+			oldPath = tempcd2;
+		}
+		else {
+			oldPath = path2;
+		}
 		cdName = "cd2fix";
 	}
 	bool patched = false;
@@ -1097,8 +1115,8 @@ void applyPatch(int discNum) {
 	batch_file.open("commands.cmd", std::ios::trunc);
 	if (!patchList.empty()) {
 		// Create ROMs using xenoiso
-		std::filesystem::current_path(filePath);
 		std::string temp = "temp";
+		std::filesystem::current_path(filePath);
 		std::filesystem::create_directory(temp);
 		if (p_script) {
 			if (discNum == 1) {
@@ -1192,7 +1210,6 @@ void applyPatch(int discNum) {
 				std::filesystem::copy(voiceName2, temp, std::filesystem::copy_options::update_existing);
 			}
 		}
-		// Make title screen universal when 0.5 releases.
 		if (discNum == 1) {
 			if (bugName1 != "") {
 				std::filesystem::copy(bugName1, temp, std::filesystem::copy_options::update_existing);
@@ -1248,6 +1265,12 @@ void applyPatch(int discNum) {
 	std::filesystem::current_path(filePath);
 	std::filesystem::remove_all("temp");
 	std::filesystem::current_path(home);
+	if (discNum == 1) {
+		std::filesystem::remove("Xenogears1.bin");
+	}
+	if (discNum == 2) {
+		std::filesystem::remove("Xenogears2.bin");
+	}
 	// Create cue file
 	cue_stream.open(cueName, std::ios::out);
 	cue_stream << "FILE \"" + fileName + "\" BINARY" << "\n";

@@ -11,6 +11,7 @@
 #include <vector>
 #include <cstdlib>
 #include <cstdio>
+#include <direct.h>
 
 #define MAX_LOADSTRING 100
 #define BUF_SIZE 300
@@ -49,6 +50,7 @@ bool p_voice = false;
 bool patchPathValid = false;
 bool filePathValid = false;
 bool changed;
+bool space = false;
 std::string home = "";
 std::string path1 = "";
 std::string path2 = "";
@@ -56,6 +58,10 @@ std::string newPath1 = "";
 std::string newPath2 = "";
 std::string patchPath = "\patches";
 std::string filePath = "\gamefiles";
+std::string spacePath = "\\xenotemp";
+std::string tempcd1 = "Xenogears1.bin";
+std::string tempcd2 = "Xenogears2.bin";
+std::string tempPath;
 std::string encountersName1 = "";
 std::string encountersName2 = "";
 std::string expgoldName1 = "";
