@@ -1,10 +1,10 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.5.0 here:
+Download version 0.5.1 here:
 
-- MEGA: https://mega.nz/file/LOojBbyT#G9L3hZlvmHt4cZCC9ZeQje7m_z4urEQjuwF8LT0K1hE
-- Google Drive: https://drive.google.com/file/d/1bCBZyWkCix-JPdP-ym3mwbEt_zs5Klsi/view?usp=sharing
+- MEGA: https://mega.nz/file/6apU3QQA#pxl_Vb8y4T50N4BD1MqXgZnJMoECI_mTKtB0dAvPHBs
+- Google Drive: Pending
   
 ## Instructions:
 
@@ -42,6 +42,15 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.5.1:
+
+11/05/2024
+
+- Corrected Japanese voices tooltip.
+- The patcher now works around ROM file paths with spaces by copying it into the patcher's directory with a new name. 
+- Andvari and Siebzehn's final frames have been corrected to match their frame names and descriptions.
+- Graphical fix tooltip has been made clearer.
 
 ### Version 0.5.0:
 
@@ -526,14 +535,14 @@ Q: The patcher displays an error stating that a directory cannot be found.
 
 A: Make sure the patcher is in the same directory as gamefiles, patches, xdelta and xenoiso.
 
-Q: When patching, I get an error saying that I cannot use spaces in the file path. What should I do?
-
-A: This error occurs because xenoiso is used to create ROMs using the edited files. A side effect the tool has is that file paths for the original ROM cannot have spaces. To resolve this, remove all spaces from the path used for your Xenogears ROM. If the file path contains a user name with spaces that cannot be changed, put your ROM and the patcher inside a new folder in the root directory (C:/). This is an admittedly irritating quirk that will be ironed out in the next major release.
-
-
 ## Archive:
 
 ### Builds:
+
+#### Version 0.5.0:
+
+- MEGA: https://mega.nz/file/LOojBbyT#G9L3hZlvmHt4cZCC9ZeQje7m_z4urEQjuwF8LT0K1hE
+- Google Drive: https://drive.google.com/file/d/1bCBZyWkCix-JPdP-ym3mwbEt_zs5Klsi/view?usp=sharing
 
 #### Version 0.4.7:
 - MEGA: https://mega.nz/file/TOoXQLIb#3qQcHYDzrWmBz5FJ8W2fvnFpTnD9beWC_LrkL9mserQ
