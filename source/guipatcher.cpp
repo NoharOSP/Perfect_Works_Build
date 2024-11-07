@@ -1228,9 +1228,6 @@ void applyPatch(int discNum) {
 		}
 		std::filesystem::current_path(home);
 		changed = true;
-		list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
-		batch_file << "xenoiso list.txt\n" << std::endl;
-		patched = true;
 		if (p_fmv) {
 			std::filesystem::current_path(home);
 			std::string patchName;
@@ -1252,6 +1249,16 @@ void applyPatch(int discNum) {
 				batch_file << "xdelta3-3.0.11-i686.exe -d  -s \"" + oldPath + "\" patches\\" + patchName + " \"" + fileName + "\" \n" << std::endl;
 				patched = true;
 			}
+		}
+		if (patched == true) {
+			oldPath = "backup.bin";
+			batch_file << "copy \"" + fileName + "\" " + oldPath + "\n" << std::endl;
+			batch_file << "del \"" + fileName + "\" \n" << std::endl;
+		}
+		list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
+		batch_file << "xenoiso list.txt\n" << std::endl;
+		if (patched != true) {
+			patched = true;
 		}
 	}
 	list_file.close();
