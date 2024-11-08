@@ -533,7 +533,7 @@ A) No. Sadly, it's impossible to implement this cut content with the hardware an
 
 Q) Can I use texture replacement with this?
 
-A) Yes! Since this is a direct modification of the gamefile, while the texture replacements are run through emulator, they don't interfere with one another. We recommend checking out Lyn's texture mod, which you can find here[https://godsibb.net/index.php?threads/xenogears-perfect-art-works-paw-retroarch-texture-pack.414/].
+A) Yes! Since this is a direct modification of the gamefile, while the texture replacements are run through emulator, they don't interfere with one another. We recommend checking out Lyn's texture mod, which you can find [here](https://godsibb.net/index.php?threads/xenogears-perfect-art-works-paw-retroarch-texture-pack.414/).
 
 Q) Can the Xenogears: Perfect Works Build be used with the Undub patch?
 
