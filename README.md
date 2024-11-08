@@ -510,30 +510,58 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - Initial release
 
 ## FAQ:
-------------------------------------------------------------------------------------------------------------------------
-Q: Can the Xenogears: Perfect Works Build be used with the Undub patch?
 
-A: It can, but the softsubs used for FMVs overlap with the FMV patch.
-------------------------------------------------------------------------------------------------------------------------
-Q: Can the Japanese control scheme patch be used?
+Q) What is this? 
 
-A: Yes.
-------------------------------------------------------------------------------------------------------------------------
-Q: Beetle PSX HW and Mednafen show a bad sector error. Did something go wrong?
+A) This is a romhack of Xenogears which aims to offer a number of optional patches to improve the game in a number of ways. You will download a patcher which can apply your choice of changes to the game, from a list of Quality of Life options, Rebalancing, Retranslation, and more.
 
-A: Regenerate the ROM using ECCRegen.
-------------------------------------------------------------------------------------------------------------------------
-Q: Are any of the patches mandatory?
+Q) This will be my first time playing Xenogears. Should I use this hack? 
 
-A: No. You can pick what patches you wish to apply via the patcher. 
-------------------------------------------------------------------------------------------------------------------------
-Q: Where should I download the Xenogears: Perfect Works Build?
+A) We are obviously a bit biased, but yes. Even if you're seeking a Xenogears experience that is true to the original, this project offers a number of optional patches, meaning you can apply as many or as few changes as you'd like to tailor the experence to your preferences. 
 
-A: Use the MEGA and Google Drive uploads provided at the top of the README.
-------------------------------------------------------------------------------------------------------------------------
-Q: The patcher displays an error stating that a directory cannot be found.
+Q) If I started playing with an unpatched rom, can I patch my game, but keep my Save File?
 
-A: Make sure the patcher is in the same directory as gamefiles, patches, xdelta and xenoiso.
+A) Yup! The only place it could reasonably cause some issues would be with the party rebalance patch, but even then, it's fully playable. 
+
+Q) What emulator should I use?
+
+A) As long as you regenerate your game after patching, it should run fine on most emulators. That said, we recommend Duckstation.
+
+Q) Does this project restore any of the cut content from Disc 2?
+
+A) No. Sadly, it's impossible to implement this cut content with the hardware and knowledge limitations. The goal of this project is to make the Xenogears we got the best version of itself it can be.
+
+Q) Can I use texture replacement with this?
+
+A) Yes! Since this is a direct modification of the gamefile, while the texture replacements are run through emulator, they don't interfere with one another. We recommend checking out Lyn's texture mod, which you can find here[https://godsibb.net/index.php?threads/xenogears-perfect-art-works-paw-retroarch-texture-pack.414/].
+
+Q) Can the Xenogears: Perfect Works Build be used with the Undub patch?
+
+A) It can, but the softsubs used for FMVs overlap with the FMV patch.
+
+Q) Can the Japanese control scheme patch be used with the Perfect Works Build?
+
+A) Yes it can.
+
+Q) Beetle PSX HW and Mednafen show a bad sector error. Did something go wrong?
+
+A) Regenerate the ROM using ECCRegen.
+
+Q) Are any of the patches mandatory?
+
+A) No. You can pick what patches you wish to apply via the patcher. 
+
+Q) Where should I download the Xenogears: Perfect Works Build?
+
+A) Use the MEGA and Google Drive uploads provided at the top of the README.
+
+Q) The patcher displays an error stating that a directory cannot be found.
+
+A) Make sure the patcher is in the same directory as gamefiles, patches, xdelta and xenoiso.
+
+Q) Is the Perfect Works Build compatible with the No Battle Flashes patch?
+
+A) Yes, but apply the battle flash patch first before using the Perfect Works Build. 
 
 ## Archive:
 
