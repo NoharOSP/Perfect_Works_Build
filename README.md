@@ -510,27 +510,27 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - Initial release
 
 ## FAQ:
-
+------------------------------------------------------------------------------------------------------------------------
 Q: Can the Xenogears: Perfect Works Build be used with the Undub patch?
 
 A: It can, but the softsubs used for FMVs overlap with the FMV patch.
-
+------------------------------------------------------------------------------------------------------------------------
 Q: Can the Japanese control scheme patch be used?
 
 A: Yes.
-
+------------------------------------------------------------------------------------------------------------------------
 Q: Beetle PSX HW and Mednafen show a bad sector error. Did something go wrong?
 
 A: Regenerate the ROM using ECCRegen.
-
+------------------------------------------------------------------------------------------------------------------------
 Q: Are any of the patches mandatory?
 
 A: No. You can pick what patches you wish to apply via the patcher. 
-
+------------------------------------------------------------------------------------------------------------------------
 Q: Where should I download the Xenogears: Perfect Works Build?
 
 A: Use the MEGA and Google Drive uploads provided at the top of the README.
-
+------------------------------------------------------------------------------------------------------------------------
 Q: The patcher displays an error stating that a directory cannot be found.
 
 A: Make sure the patcher is in the same directory as gamefiles, patches, xdelta and xenoiso.
