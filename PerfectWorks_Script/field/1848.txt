@@ -1,12 +1,12 @@
 <TextBlock 1 w:42 h:5>
-The Soylent System...
- <Delay 30>
-A group of facilities
-formerly created by
-Solaris.<Close><End of Block>
+The Soylent System.<Delay 30>
+ 
+Facilities built by
+Solaris long ago.<Close><End of Block>
 <TextBlock 2 w:60 h:5>
-These facilities existed all
-over the earth.
+These facilities could be
+found all over the surface.<New>
 It is said that, originally,
-these were used for biological
-experiments and brainwashing.<Close><Close><End of Block>
+they had been used for
+biological experiments and
+to brainwash people...<Close><Close><End of Block>

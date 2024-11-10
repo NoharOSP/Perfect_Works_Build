@@ -1,66 +1,66 @@
 <TextBlock 1 w:56 h:11>
-Solaris' 'Mobile Surface
-Supremacy Weapon' invaded
-the area with great force<Delay 5>...
+The invasion by Solaris'
+Mobile Surface-Supremacy
+Weapon was fierce,<Delay 5> and
 Shevat and Nisan's standard
 Gear battalions were no
-match against it.<Delay 45>
+match for it.<Delay 45>
  
 It was only a matter of
 time before the Solaris
-Mobile Weapon arrived in
+mobile weapon reached
 Nisan.<New>
-After we pushed back the
-Solarian Gear units, we
-headed for Noatun<Delay 5>...<Delay 5>
-to the Kislev capital's
-administrative district.<Delay 15>
  
-We went there to obtain
-our one and only means
-of standing up against
-the Mobile Weapon.<Close><End of Block>
+While fending off the
+Solarian Gear units, we
+headed for the Central
+District in Noatun,<Delay 15> to
+obtain our one and only
+means of standing against
+the mobile weapon.<Close><End of Block>
 <TextBlock 2 w:54 h:9>
 The Solaris Mobile Weapon
-was destroyed<Delay 5>...<Delay 5>which
-brought a sigh of relief
-to the continent of Ignis.<Delay 45>
+was destroyed<Delay 5>...<Delay 5>
+and a moment's reprieve
+came to Ignis.<Delay 45>
  
-Peace was signed and after
-some 500 years of division,
-the land of Ignis once
-again became united.<Close><End of Block>
-<TextBlock 3 w:60 h:2>
+Peace was signed,
+and after 500 years
+the land of Ignis was
+united once again.<Close><End of Block>
+<TextBlock 3 w:62 h:2>
 Excitement spread throughout
-Av, Nisan, Kislev, Shevat<Delay 5>...<Delay 5><Close><End of Block>
+Av, Nisan, Kislev and Shevat<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 4 w:52 h:6>
-The sky shimmered as if to
-celebrate. By the hands of
-Elly, Citan, Torah and
-Emeralda, the nanomachines
-had been dispersed into
-the atmosphere.<Close><End of Block>
-<TextBlock 5 w:60 h:4>
-That was when disaster struck.
-<Delay 5>...<Delay 5>Our songs of victory were
-replaced by the sounds of
-total pandemonium<Delay 5>...<Delay 5><Close><End of Block>
-<TextBlock 6 w:54 h:7>
-In the beginning we had no
-idea what had transpired.
-We<Delay 5>...<Delay 5>witnessed inexplicable
-phenomena.
-People from all parts of
-the globe began to mutate
+The sky shimmered as if
+to celebrate it.<Delay 10> By the
+hands of Elly's party,
+the nanomachines had been
+scattered into the
+atmosphere.<Close><End of Block>
+<TextBlock 5 w:58 h:4>
+...That was when
+disaster struck.<New>
+Soon, the songs of victory
+that echoed here and there...<Delay 10>
+modulated into the sounds
+of pandemonium<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 6 w:50 h:7>
+At first we had no idea
+what had transpired.<Delay 10>
+We witnessed<Delay 5>...<Delay 5>
+unearthly things.<Delay 10>
+One after the other,
+people were mutating
 into abnormal forms.<Close><End of Block>
 <TextBlock 7 w:56 h:8>
-It seemed to be triggered
+A situation that triggered
 when the Limiters applied
 by Karellen long ago
 were undone by the
 nanomachines...<Delay 30>
  
-...<Delay 5>The 'human' form with its
+The 'human' form<Delay 5>...<Delay 5>with its
 innate abilities released.<Close><End of Block>
 <TextBlock 8 w:50 h:7>
 That's when I remembered
@@ -68,89 +68,86 @@ what Hammer had said back
 in Solaris.<Delay 30>
  
 His words were<Delay 5>...<Delay 5>
-  "An 'ordinary' guy
-      like me..."<Close><End of Block>
-<TextBlock 9 w:60 h:10>
-After that, we went from place
-to place, destroying all the
-Soylent System facilities
-located on the surface of the
-earth and freed the people
-held at each of the locations.<Delay 15>
+  'An "ordinary" guy
+      like me...'<Close><End of Block>
+<TextBlock 9 w:60 h:11>
+After that, we went from
+place to place, destroying
+all the Soylent System
+installations on the surface
+and freeing the people who
+had been held in them.<Delay 15>
  
-All the people that had been
-mutated were taken in by Nisan
-where they received treatment.<Close><End of Block>
+Nisan wholeheartedly took
+in the people who had
+mutated, and there they
+received treatment.<Close><End of Block>
 <TextBlock 10 w:60 h:9>
-Those who had mutated only
-mildly were treated with
-Torah's nanomachines,
-which reconstructed and
-revived them.
+Those in the less advanced
+stages were able to have their
+anatomies restored by Torah's
+nanomachines and return to
+their original form.<Delay 20>
  
-They were able to return
-back to their normal
-bodies.<New>
- 
-Unfortunately, there were some
-that had such accelerated
-symptoms that their treatment
-was not as promising<Delay 5>...<Close><End of Block>
+But for the more heavily
+afflicted, the results were
+not as promising<Delay 5>...<Close><End of Block>
 <TextBlock 11 w:52 h:10>
-Trying to bring them back
-to a form that resembled
-a human was the best that
-could be done.<Delay 45>
+Keeping ther bodies just
+barely human in appearance
+was the best that could
+be done.<Delay 45>
  
-However,<Delay 5> mysteriously,
-they no longer fought each
-other for survival as they
-did when they were held by
-the Soylent System.<Close><End of Block>
+However,<Delay 5> strangely,<Delay 5> they
+no longer competed with
+one another for survival
+as they had when sheltered
+at the Soylent System.<Close><End of Block>
 <TextBlock 12 w:56 h:11>
-Of course, their recovery
-from the physical pain of
-the mutation may have
-played a factor,<Delay 5> but it
+Of course, their physical
+agony had been remedied
+by the treatment,<Delay 5> but it
 wasn't only that<Delay 5>...<Delay 30>
  
-The majority of the people
-received by Nisan were those
-that had been admonished by
-Elly and had regained their
-humanity.<Close><End of Block>
+Most of those received by
+Nisan were the very ones
+who <--> having been
+admonished by Elly <--> had
+realized how people were
+originally meant to be.<Close><End of Block>
 <TextBlock 13 w:60 h:9>
-Between her work in destroying
-the Soylent System facilities,
-Elly also went around and
-nursed the people in Nisan.<Delay 30>
+In between Soylent-destruction
+activities, Elly went around
+nursing the people sheltered
+in Nisan.<Delay 30>
  
-She aided the bodies of the
-mutated and lent an ear to
-those who had no other place
-to go for help<Delay 5>...<Delay 5><Close><End of Block>
-<TextBlock 14 w:58 h:8>
-She was the very image of the
-woman who created Nisan<Delay 5>...<Delay 15>
+She tended to the bodies that
+had mutated and lent an ear to
+the people who had no one else
+to turn to<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 14 w:60 h:9>
+Seeing her like that, Elly was
+the very image of the woman
+who created Nisan itself<Delay 5>...<Delay 15>
  
   'Mother Sophia'<Delay 5>...<Delay 45>
  
-It became rumored that<Delay 5> Elly
-was a reincarnation or a
-second advent of Sophia.<Close><End of Block>
-<TextBlock 15 w:50 h:8>
-Go to Nisan and you will
-receive salvation<Delay 5>...<Delay 30>
+In whispers, it became rumored
+that Elly was a second advent
+of this Sophia.<Close><End of Block>
+<TextBlock 15 w:52 h:8>
+'Go to Nisan and you will
+receive salvation<Delay 5>...'<Delay 30>
  
-The news<Delay 5> seemed to spread
-further about and people
-came from all over to be
-saved, both physically
-and spiritually.<New>
+The news spread, and
+people from all over
+gathered in Nisan
+seeking physical and
+spiritual aid.<New>
  
-Free from the supervision
+Freed from the supervision
 of Solaris, the surface
-dwellers began to unite
+dwellers were assembling
 in one place.<Close><End of Block>
 <TextBlock 16 w:56 h:10>
 Although the land dwellers

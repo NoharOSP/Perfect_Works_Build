@@ -1,5 +1,6 @@
-<TextBlock 1 w:48 h:4>
-A set of facilities that
-recreate a more perfect
-single lifeform to be
-used as<Delay 5>...<Delay 30>a 'weapon'.<Close><Close><End of Block>
+<TextBlock 1 w:50 h:5>
+The Soylent System
+was the equipment that
+reconfigured them as one,
+more perfect lifeform <-->
+as a 'weapon'.<Close><Close><End of Block>

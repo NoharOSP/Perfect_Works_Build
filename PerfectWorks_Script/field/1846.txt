@@ -1,26 +1,26 @@
 <TextBlock 1 w:58 h:4>
-The people who mutated into
-what were called Wels...or
-the true form of humans...
+The people who had mutated
+into what were called Wels...
+the essential human form...
 gathered at these facilities.<Close><End of Block>
-<TextBlock 2 w:54 h:4>
-Some of the humans turned
-Wels were attacking healthy
-humans and devouring their
-flesh and blood.<Close><End of Block>
-<TextBlock 3 w:56 h:7>
-That is because healthy
-human flesh and blood
-eased the pain of their
-sudden molecular changes
-and let them live longer.
- <Delay 30>
+<TextBlock 2 w:56 h:4>
+Among the humans-turned-
+Wels were those who attacked
+the unafflicted and devoured
+their flesh and blood.<Close><End of Block>
+<TextBlock 3 w:58 h:7>
+That was because the flesh
+and blood of the unafflicted
+could ease the agony of the
+sudden molecular changes and
+prolong their lives a little.<Delay 30>
+ 
 Their lives were so short...<Close><End of Block>
 <TextBlock 4 w:56 h:4>
-Soon after, severely mutated
-beings started to seek the
-flesh and blood of the less
-mutated beings.<Close><End of Block>
+Before long, the severely
+mutated ones started to seek
+the flesh and blood of those
+who were less mutated.<Close><End of Block>
 <TextBlock 5 w:0 h:1>
 <End of Block>
 <TextBlock 6 w:0 h:0>

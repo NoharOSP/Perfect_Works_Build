@@ -1,10 +1,10 @@
 <TextBlock 1 w:28 h:4>
 Bart
-"Aaaalriiight!
+"Alriiiight!
 Transformation
-complete!<New>
+complete!!<New>
 C'mon monster,
 let's go!"<Close><End of Block>
 <TextBlock 2 w:46 h:2>
- Super Dimensional Gear
+  Super Dimension Gear
       Yggdrasil IV<Close><Close><UNKNOWN CHUNK 215><Wait><Close><End of Block>

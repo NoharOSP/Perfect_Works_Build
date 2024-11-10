@@ -185,42 +185,46 @@ is: <Opcode 10 0>G <Delay 30>
 Bluecrystal
 "C<Delay 5>...<Delay 5>currency exchange<Delay 5>...<Delay 5>
 <Delay 5>l...<Delay 5>ost.<Delay 5> Co...<Delay 5>de<Delay 5> error<Delay 5>..."<Close><End of Block>
-<TextBlock 40 w:62 h:7>
-The Kislev capital Noatun's
-Central Administrative District
-itself was a secret battleship
-constructed by Bart's ancestor,
-Roni Fatima, after the Great
-War with Solaris many hundreds
-of years ago.<Close><End of Block>
+<TextBlock 40 w:64 h:7>
+Noatun's Central Administrative
+District.<Delay 40>
+ 
+In reality, it was a concealed
+battleship constructed by Bart's
+ancestor, Roni Fatima, after the
+Great War with Solaris long ago.<Close><End of Block>
 <TextBlock 41 w:56 h:6>
-The existence of the secret
-battleship remained hidden.
-Later, the ship was turned
-into a section of the Kislev
-Imperial Capital during the
-founding of the Empire.<Close><End of Block>
+The existence of the
+concealed battleship had
+remained secret, and it was
+later used as a section of
+the Kislev Imperial Capital
+founded in that area.<Close><End of Block>
 <TextBlock 42 w:64 h:5>
-Uncovering this truth from some
-ancient records documented by
-Roni Fatima, Bart activated
-the secret battleship in order
-to fight against the Solarian
-Mobile Surface Supremacy Weapon.<Close><End of Block>
+Discovering this truth from old
+records left by Roni Fatima,
+Bart activated the secret
+battleship and tried to take
+on the Solaris mobile weapon.<Close><End of Block>
 <TextBlock 43 w:60 h:13>
-The 'Sand Cruiser Yggdrasil'
-was actually the center of
-command and also the main
-secret weapon of the craft<Delay 5>...<Delay 5>
+Using the Sand Cruiser
+Yggdrasil as its control
+center and main armament<Delay 5>...<Delay 5>
+the secret battleship
+awakened from a long sleep
+of 500 years, and its true
+form appeared before us.<Delay 40>
  
-Awakening from 500 years
-of dormancy, its true
-form appeared before us.
- 
-Commanded by its 'new master',
-the secret battleship stood
-before the Mobile Weapon with
-all of us inside of it.<Close><End of Block>
+Piloting the secret
+battleship that had taken
+a 'new master', we stood
+before the mobile weapon.<Close><End of Block>
+<TextBlock 44 w:40 h:3>
+Big Joe
+"Hey, brother, you!<Delay 30> <New>
+You wanna listen to
+my super muchacho
+information?"<Close><End of Block>
 <TextBlock 44 w:40 h:3>
 Big Joe
 "Hey, brother! You!<Delay 30> <New>

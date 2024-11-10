@@ -1,154 +1,164 @@
-<TextBlock 1 w:54 h:4>
-There, humans fought
-amongst themselves
-greedily for limited
-pardons to live.<New>
-It was an ugly battle
-to keep on living.
-Or so it may have seemed
-to the casual passerby...<New>
-But to me they were
-desperately trying to live.
-It was each person's
-'natural human form'.<Close><End of Block>
-<TextBlock 2 w:46 h:5>
-There were the 'haves'
-and the 'have-nots'...<Delay 90>
-And...among them...
-were some of my former
-friends from Solaris...<Close><End of Block>
-<TextBlock 3 w:48 h:8>
-They wanted our flesh
-and blood. They told us,
-the 'haves' should share
+<TextBlock 1 w:54 h:5>
+There, the people seeking
+absolution for their
+limited lifespan argued
+amongst themselves over
+who had priority.<New>
+An ugly dispute,
+to cling to life...
+So it may have appeared
+to onlookers...<New>
+But to me, this <-->
+desperately trying to
+survive <--> was the
+'natural human form'
+of every one of us.<Close><End of Block>
+<TextBlock 2 w:50 h:6>
+The 'haves' and the
+'have-nots' were there...<Delay 90>
+ 
+And...<Delay 10>
+my former comrades from
+Solaris were there too...<Close><End of Block>
+<TextBlock 3 w:50 h:9>
+They badly needed our
+flesh and blood.
+They told us that the
+'haves' must share
 with the 'have-nots'.<Delay 60>
  
-They asked if a 'have',
-such as myself could
-understand their pain...<Close><End of Block>
+And they asked if
+'haves' like us could
+understand their agony...<Close><End of Block>
 <TextBlock 4 w:56 h:9>
 I couldn't answer...<Delay 60>
  
-No matter what I said it
-would have sounded like a
-conceited 'have' speaking...<Delay 60>
+No matter what I said, 
+they would have heard it as
+the arrogance of a 'have'...<Delay 60>
  
-Even so, I wanted to
-relieve their anguish...
-And I decided to do so.<Close><End of Block>
+Nevertheless, if their agony
+could be healed...<Delay 10>I was
+determined to do so...<Close><End of Block>
 <TextBlock 5 w:54 h:3>
-Just like the person in the
-memory of my dreams...<Delay 60>
+Just as I had been in
+the dream-memory...<Delay 60>
 in the distant past...<Close><End of Block>
 <TextBlock 6 w:62 h:7>
-Then suddenly the System went
-out of control!
-The 'Sphar Mass', a monstrous
-organism still in the process
-of amalgamation, broke through
-the barrier of the life-support
-facilities and stood before us.<Close><End of Block>
+Then, the System suddenly
+went out of control.
+One giant lifeform in mid-
+amalgamation <--> a 'Meld' <-->
+broke through the barrier
+of the generation equipment
+and appeared before us.<Close><End of Block>
 <TextBlock 7 w:58 h:8>
-No longer of human form...
-that which was once human
-began eating the people
-gathered there seeking
-relief...<New>
-We had to fight it...
-In order to save the people
-and in order to save 'him'...
- 
-The eyes of that which was
-once human looked at me,
-pleading for<Delay 5>...<Delay 5>death<Delay 5>...<Delay 5>
-to take away the agony.<Close><End of Block>
+That thing that was once
+human but had lost its
+human form...<Delay 10>began eating
+the people who happened to
+be there seeking salvation...<New>
+We had no choice but
+to fight...
+To save those people...
+Indeed, to save 'him'...<New>
+Because those eyes <--> the
+eyes of that thing that
+was once human <--> pleaded
+to us...<Delay 10> For death rather
+than agony...<Close><End of Block>
 <TextBlock 8 w:28 h:4>
 Elly
 "Citan...<Delay 20>
 please lend me
 your sword."<Close><End of Block>
-<TextBlock 9 w:54 h:4>
+<TextBlock 9 w:44 h:4>
 Elly
-"Please!<Delay 10> Listen to me!<Delay 10>
-Stop fighting among your-
-selves. We are all humans!"<Close><End of Block>
+"Please!<Delay 10> Listen to
+what I have to say!<New>
+Everyone is on the
+same side, so stop
+this arguing!"<Close><End of Block>
 <TextBlock 10 w:54 h:4>
 Elly
 "This facility was built
-by the Solaris Ministry...<New>
-It was created to implement
-their 'no waste' plan.<New>
-Such facilities were to
-convert mutated humans
-into weapons that serve as
-tools for their ambitions.<New>
-Just one part of their
-overall plan of racial
-purification."<Close><End of Block>
-<TextBlock 11 w:48 h:4>
+for the Solaris Ministry's
+ludicrous plan.<New>
+A facility to turn
+poor mutated people into
+weapons, to be the tools
+of their own ambition.<New>
+One part of their bid
+for racial purification."<Close><End of Block>
+<TextBlock 11 w:50 h:4>
 Sophia
-"Of course, once you
-enter their umbrella
-of protection...<New>
-...you can avoid
-absolute death.
-But is that human life?<New>
-Even if you are the only
-one left, if you're
-devoid of a heart,
-what does it all mean?"<Close><End of Block>
+"Yes, if you go under
+their umbrella of
+protection now,<New>
+maybe you can avoid
+absolute death.<Delay 10>
+But is that any way
+for a person to live?<New>
+What meaning is there in
+living just yourself
+alone, heartless, and
+feeding on other people?"<Close><End of Block>
 <TextBlock 12 w:52 h:4>
 Elly
-"All of you, want to be
-loved...needed by someone,
-so we look to others...<New>
-By ourselves, we are
-lonely, so we cling
-together to live...<New>
-That's what it means to
-be human...
-That's how people live.<New>
-A single hand cannot
-clap."<Close><End of Block>
+"Everyone wants to
+be loved, to be
+needed by someone,<New>
+so we seek other people...<New>
+It's lonely to be on your
+own, so we get close to
+one another to live...<Delay 10>
+That's who we are...<New>
+That's how people
+have survived.<Delay 10> You
+can't clap with only
+one hand, right?"<Close><End of Block>
 <TextBlock 13 w:44 h:4>
 Sophia
-"To relieve your pain,
+"If only to ease
+your agony,<New>
 I'll give however much
-of my flesh you need.<New>
-Therefore...<Delay 30>
-don't throw away your
-dignity as humans...<New>
+of my flesh and blood
+is necessary.<New>
+So...<Delay 30>don't give up
+the dignity of being
+human...<New>
 Don't let go of your
 human heart..."<Close><End of Block>
-<TextBlock 14 w:40 h:4>
+<TextBlock 14 w:32 h:4>
 Fei
 "Elly...!
 Are you okay? <Delay 30>
-What are you doing!?"<Close><End of Block>
-<TextBlock 15 w:42 h:3>
+Why did you<-->?"<Close><End of Block>
+<TextBlock 15 w:44 h:3>
 Elly
-"You think I am doing
-something...foolish?"<Close><End of Block>
-<TextBlock 16 w:14 h:2>
+"You think...I've done
+something foolish?"<Close><End of Block>
+<TextBlock 16 w:14 h:3>
 Fei
-"No..."<Close><End of Block>
+"No...
+But..."<Close><End of Block>
 <TextBlock 17 w:50 h:4>
 Elly
-"I only did what I could.
+"I just did what I could.<New>
 Maybe I'm a hypocrite.
-A well-to-do 'have'.<New>
-Maybe it's only pity for
-the 'have nots'...<New>
-But if I can know the joy
-of giving out a little of
-the life within me...<New>
-Then maybe someday it may
-just be possible that one
-human can truly give love
-to another...<New>
-People can do it...
-I truly believe they can.
-That's why..."<Close><End of Block>
+A privileged 'have'...<New>
+Maybe it's pity for
+the 'have-nots'...<New>
+But if I can know the
+joy of sharing the life
+within me little by
+little like this,<New>
+then someday it'll be
+possible for people to
+truly offer their love
+to others...<New>
+I believe that people
+can do it.<Delay 30> So..."<Close><End of Block>
 <TextBlock 18 w:18 h:2>
 Fei
 "Elly..."<Close><End of Block>

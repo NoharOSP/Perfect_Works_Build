@@ -176,31 +176,31 @@ memory of my soul<Delay 5>...<Close><End of Block>
 In order to disperse the nano-
 machines, Emeralda and I headed
 for one of the ruins of the
-Zeboim civilization...
+Zeboim civilization <-->
 the Mass Driver facility.<Close><End of Block>
 <TextBlock 16 w:58 h:5>
 Fortunately, the facility was
-still active which allowed us
-to proceed on to the central
+still active, which allowed
+us to proceed to the central
 control room with little
 difficulty.<Close><End of Block>
-<TextBlock 17 w:62 h:6>
+<TextBlock 17 w:60 h:6>
 Along the way we saw various
 missiles and giant rockets
 that were created during the
 Zeboim era<Delay 5>...<New>
-They stood like tombstones
+They stood like the tombstones
 of that ancient civilization.<Delay 45>
  
-It was a graveyard for a race
-of people<Delay 5> who destroyed each
-other over pride and arrogance.<Close><End of Block>
+This was a graveyard<Delay 5> for a
+people who had destroyed each
+other out of sheer arrogance.<Close><End of Block>
 <TextBlock 18 w:52 h:10>
-Once arriving at the
+Having arrived at the
 central control room,
 we met up with Citan
-who helped us activate
-the Mass Driver.<Delay 45>
+and worked together to
+activate the Mass Driver.<Delay 45>
  
 We succeeded in launching
 the capsule containing
@@ -209,22 +209,20 @@ nanomachines.<Close><End of Block>
 <TextBlock 19 w:56 h:10>
 The nanomachines that were
 scattered into the upper
-atmosphere began to multiply
-and spread throughout the
-whole of the world.<Delay 30>
+atmosphere began to self-
+replicate, spreading across
+the whole world.<Delay 30>
  
-The nanomachines glittered
-in the sunlight.<Delay 15>
-Flowing like a large river
-in the sky<Delay 5>...<New>
+Nanomachines twinkling,
+catching the sunlight.<Delay 15>
+A great river flowing
+through the skies<Delay 5>...<New>
  
-That glitter<Delay 5> would remove
-the bonds restraining
-everyone.<Delay 30>
- 
-It was to be our light of
-hope for regaining back
-our true freedom<Delay 5>...<Close><End of Block>
+That glitter<Delay 5> would surely
+be the light of hope in
+our bid to regain true
+freedom,<Delay 30> 'unchaining'
+the entire population...<Close><End of Block>
 <TextBlock 20 w:58 h:11>
 While Fei and the others
 searched for the resting

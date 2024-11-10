@@ -120,65 +120,62 @@ for you, no matter how hard
 you try to pursue it."<Close><End of Block>
 <TextBlock 25 w:26 h:1>
 Until then<Delay 5>...<Close><End of Block>
-<TextBlock 26 w:54 h:4>
+<TextBlock 26 w:42 h:4>
 Myyah
-"The chains that restrained
-humankind have been removed
-because of you."<Close><End of Block>
+"So, the restraining
+'chains' are off,
+thanks to you, hmm?"<Close><End of Block>
 <TextBlock 27 w:46 h:4>
 Karellen
-"But that doesn't mean
-there is anything wrong
-with our plan...<New>
-Everything is still
-under control."<Close><End of Block>
+"Not that it really
+disrupts the plan.<Delay 10> It's
+already under control."<Close><End of Block>
 <TextBlock 28 w:54 h:4>
 Karellen
-"In the event of the
-explosion in the Capital
-of Solaris actually<New>
-happening earlier...
-...I had set up a nano-
-machine virus to diffuse
+"At the time of the
+explosion in the Solaris
+Capital earlier,<New>
+I rigged a nanomachine
+virus to be scattered
 into the atmosphere.<New>
-I knew they were eventually
-going to break the seal<Delay 5>...<Delay 15>
+For I knew they would
+reverse the Limiters
+sooner or later<Delay 5>...<New>
 But the timing was a little
 too close for comfort<Delay 5>...<New>
-The current mutations of
-the humans are an initial
-response to the virus<Delay 5>...<New>
-Once the virus we spread
-over the world germinates
-inside of the humans they
-are no longer the same.<New>
-They change into a
-controllable form.<New>
-We need humans that do
-not depend on the Key's
-invocation in order to
-awaken.<New>
-In other words, a being
-to take the place of the
-original body of god<Delay 5>..."<Close><End of Block>
-<TextBlock 29 w:56 h:4>
+The current human
+abnormalization is
+the initial response<Delay 5>...<New>
+The virus that was spread
+across the world<New>
+is changing the germinated
+base forms into something
+we can control, instead of
+the default.<New>
+We need people that will
+awaken without relying on
+the Key's invocation.<New>
+Beings to take the place
+of God's original flesh,
+so to speak<Delay 5>..."<Close><End of Block>
+<TextBlock 29 w:48 h:4>
 Myyah
-"It's like a trojan horse
-released at the time of the
-assimilation with god<Delay 5>...<Delay 5><New>
+"A Trojan horse,
+unleashed at the time of
+assimilation with God<Delay 5>...<Delay 5><New>
 A literal virus<Delay 5>...<Delay 15>
 But<Delay 5>...<Delay 5>isn't it different
-from what they intended<Delay 5>...<Delay 5>?"<Close><End of Block>
-<TextBlock 30 w:52 h:4>
+from what the children
+have in mind<Delay 5>...<Delay 5>?"<Close><End of Block>
+<TextBlock 30 w:48 h:4>
 Karellen
-"Of course.<Delay 15> We can't let
+"Of course.<Delay 15> I won't let
 them have it their way.<Delay 30>
-The 'Ark of god' is mine."<Close><End of Block>
-<TextBlock 31 w:50 h:3>
+The Ark of God is mine."<Close><End of Block>
+<TextBlock 31 w:34 h:3>
 Myyah
-"<Delay 5>...<Delay 5>Either way is fine by
-me.<New>
-I will just side with
-whichever is the more<New>
-certain victor 
-anyway<Delay 5>...<Delay 5>"<Close><Close><End of Block>
+"<Delay 5>...<Delay 5>Either way
+is fine by me.<New>
+I just side with
+whoever gets the
+job done<Delay 5>..."<Close><Close><End of Block>
