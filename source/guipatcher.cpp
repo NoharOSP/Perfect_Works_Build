@@ -131,6 +131,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	{
 	case WM_CREATE:
 	{
+		window = hWnd;
 		// Create home directory, font and buttons
 		home = std::filesystem::current_path().string();
 		initialiseGlobalWindows(hWnd);
@@ -344,7 +345,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			}
 			// Return to home directory
 			std::filesystem::current_path(home);
-			SetWindowText(hWnd, L"Preparing...");
 			// Access directory for patches if FMVs has been ticked
 			if (std::filesystem::exists(patchPath)) {
 				std::filesystem::current_path(patchPath);
@@ -1103,7 +1103,6 @@ void applyPatch(int discNum) {
 		else {
 			oldPath = path2;
 		}
-		oldPath = path2;
 		cdName = "cd2fix";
 	}
 	bool patched = false;
@@ -1230,10 +1229,6 @@ void applyPatch(int discNum) {
 		}
 		std::filesystem::current_path(home);
 		changed = true;
-		list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
-		createROM(discNum, oldPath, fileName, "list.txt");
-		//batch_file << "xenoiso list.txt\n" << std::endl;
-		patched = true;
 		if (p_fmv) {
 			std::filesystem::current_path(home);
 			std::string patchName;
@@ -1256,6 +1251,17 @@ void applyPatch(int discNum) {
 				patched = true;
 			}
 		}
+	}
+	if (patched == true) {
+		oldPath = "backup.bin";
+		batch_file << "copy \"" + fileName + "\" " + oldPath + "\n" << std::endl;
+		batch_file << "del \"" + fileName + "\" \n" << std::endl;
+	}
+	list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
+	createROM(window, discNum, oldPath, fileName, "list.txt");
+	//batch_file << "xenoiso list.txt\n" << std::endl;
+	if (patched != true) {
+		patched = true;
 	}
 	list_file.close();
 	batch_file.close();

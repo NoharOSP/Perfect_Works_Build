@@ -92,6 +92,7 @@ std::string voiceName2 = "";
 std::vector<HWND> globalWindList;
 std::vector<std::string> patchList1;
 std::vector<std::string> patchList2;
+HWND window;
 HWND cd1path;
 HWND cd2path;
 HWND browsebutton1;

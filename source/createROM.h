@@ -9,7 +9,7 @@
 class createROM
 {
 public:
-	createROM(int num, std::string oldPath, std::string newPath, std::string listFile);
+	createROM(HWND hWnd, int num, std::string oldPath, std::string newPath, std::string listFile);
 	int process(commandList cmd, std::string filename);
 	unsigned long FindEndOfIndex(unsigned char* index, unsigned long maxsize);
 	unsigned long SizeToSectors(unsigned long size, int secsize);
@@ -24,5 +24,6 @@ public:
 	int cdnum;
 	std::string discfile;
 	std::string destfile;
+	HWND window;
 };
 

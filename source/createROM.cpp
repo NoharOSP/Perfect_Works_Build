@@ -1,11 +1,12 @@
 #include "pch.h"
 #include "createROM.h"
 
-createROM::createROM(int num, std::string oldPath, std::string newPath, std::string listFile) {
+createROM::createROM(HWND hWnd, int num, std::string oldPath, std::string newPath, std::string listFile) {
 	log = fopen("log.txt", "wt");
 	cdnum = num;
 	discfile = oldPath;
 	destfile = newPath;
+	window = hWnd;
 	commandList cmd;
 	process(cmd, listFile);
 }
@@ -25,10 +26,10 @@ int createROM::process(commandList cmd, std::string listFile) {
 		glb_IndexSector2 = 172919;
 		break;
 	case 0:
-		// Return error window.
+		MessageBox(window, L"Error opening file.", L"Error", MB_ICONERROR);
 		return 0;
 	case -1:
-		// Return error window.
+		MessageBox(window, L"CD type unknown.", L"Error", MB_ICONERROR);
 		return 0;
 	}
 	char* src;
@@ -38,12 +39,12 @@ int createROM::process(commandList cmd, std::string listFile) {
 	isoManager s;
 	isoManager d;
 	if (!s.OpenIso(src)) {
-		std::cout << "Error opening file" << std::endl;
+		MessageBox(window, L"Error opening file.", L"Error", MB_ICONERROR);
 		return 0;
 	}
 	d.CreateIso(dst);
 
-	std::cout << "Reading index\n" << std::endl;
+	// Reading index
 	archiveIndex index;
 	archiveIndex index2;
 	index.SetFileToSkip(glb_VideoFiles);
@@ -53,15 +54,14 @@ int createROM::process(commandList cmd, std::string listFile) {
 	s.Read(indice, 24, 16);
 	unsigned long indexsize = FindEndOfIndex(indice, 32768);
 	if (!index.ReadIndex(indice, indexsize)) {
-		std::cout << "Error reading index\n" << std::endl;
+		MessageBox(window, L"Error reading file.", L"Error", MB_ICONERROR);
 		return 0;
 	}
 	if (!index2.ReadIndex(indice, indexsize)) {
-		std::cout << "Error reading index\n" << std::endl;
+		MessageBox(window, L"Error reading file.", L"Error", MB_ICONERROR);
 		return 0;
 	}
-	std::cout << "Finished\n" << std::endl;
-	std::cout << "Updating index\n" << std::endl;
+	// Updating index
 	int num = 0;
 	char path[100];
 
