@@ -11,6 +11,7 @@
 #include <vector>
 #include <cstdlib>
 #include <cstdio>
+#include "createROM.h"
 #include <direct.h>
 
 #define MAX_LOADSTRING 100

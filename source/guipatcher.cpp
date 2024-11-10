@@ -145,7 +145,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	{
 		// Change window position and dimensions
 		HWND tc = reinterpret_cast<HWND>(static_cast<LONG_PTR>(GetWindowLongPtr(hWnd, GWLP_USERDATA)));
-		MoveWindow(tc, 2, 2, LOWORD(lParam) - 4, LOWORD(lParam) - 4, TRUE);
+		MoveWindow(tc, 2, 2, LOWORD(lParam) - 4, LOWORD(lParam) - 4, true);
 	}
 
 	case WM_COMMAND:
@@ -344,6 +344,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			}
 			// Return to home directory
 			std::filesystem::current_path(home);
+			SetWindowText(hWnd, L"Preparing...");
 			// Access directory for patches if FMVs has been ticked
 			if (std::filesystem::exists(patchPath)) {
 				std::filesystem::current_path(patchPath);
@@ -830,12 +831,12 @@ void patchBoxLock() {
 		LRESULT boxticked = SendMessage(globalWindList[i], BM_GETCHECK, NULL, NULL);
 		if (boxticked == BST_CHECKED) {
 			checkfound = true;
-			EnableWindow(patchbutton, TRUE);
+			EnableWindow(patchbutton, true);
 			break;
 		}
 	}
 	if (!checkfound) {
-		EnableWindow(patchbutton, FALSE);
+		EnableWindow(patchbutton, false);
 	}
 }
 
@@ -997,8 +998,8 @@ void tooltipTextMaker(HWND hWnd) {
 	HWND tt_fmvs = toolGenerator(text_fmvs, hWnd, fmvs);
 	char text_graphics[] =
 		"Fixes graphical bugs with\n"
-		"portraits and the battle UI. If\n" 
-		"you are using a texture hack, you\n" 
+		"portraits and the battle UI. If\n"
+		"you are using a texture hack, you\n"
 		"may NOT need this fix.\n";
 	HWND tt_graphics = toolGenerator(text_graphics, hWnd, graphics);
 	char text_voices[] =
@@ -1102,17 +1103,18 @@ void applyPatch(int discNum) {
 		else {
 			oldPath = path2;
 		}
+		oldPath = path2;
 		cdName = "cd2fix";
 	}
 	bool patched = false;
 	// Return to home directory
 	std::filesystem::current_path(home);
-	// Create text file for xenoiso
+	// Create text file for ROM creator
 	std::ofstream list_file;
 	list_file.open("list.txt", std::ios::trunc);
 	// Create batch file for xdelta commands
 	std::ofstream batch_file;
-	batch_file.open("commands.cmd", std::ios::trunc);
+	//batch_file.open("commands.cmd", std::ios::trunc);
 	if (!patchList.empty()) {
 		// Create ROMs using xenoiso
 		std::string temp = "temp";
@@ -1228,6 +1230,10 @@ void applyPatch(int discNum) {
 		}
 		std::filesystem::current_path(home);
 		changed = true;
+		list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
+		createROM(discNum, oldPath, fileName, "list.txt");
+		//batch_file << "xenoiso list.txt\n" << std::endl;
+		patched = true;
 		if (p_fmv) {
 			std::filesystem::current_path(home);
 			std::string patchName;
@@ -1249,16 +1255,6 @@ void applyPatch(int discNum) {
 				batch_file << "xdelta3-3.0.11-i686.exe -d  -s \"" + oldPath + "\" patches\\" + patchName + " \"" + fileName + "\" \n" << std::endl;
 				patched = true;
 			}
-		}
-		if (patched == true) {
-			oldPath = "backup.bin";
-			batch_file << "copy \"" + fileName + "\" " + oldPath + "\n" << std::endl;
-			batch_file << "del \"" + fileName + "\" \n" << std::endl;
-		}
-		list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
-		batch_file << "xenoiso list.txt\n" << std::endl;
-		if (patched != true) {
-			patched = true;
 		}
 	}
 	list_file.close();
