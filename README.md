@@ -1,10 +1,10 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.5.1 here:
+Download version 0.5.2 here:
 
-- MEGA: https://mega.nz/file/6apU3QQA#pxl_Vb8y4T50N4BD1MqXgZnJMoECI_mTKtB0dAvPHBs
-- Google Drive: https://drive.google.com/file/d/1SHUz8Jmo3GZswyh_uA4jD7D7nZj5SAqr/view?usp=drive_link
+- MEGA: https://mega.nz/file/TTwxGIoQ#hyextkYHqFIdzUvE7ZJMjMAp-U0HvyGvUD_K6oqiEuY
+- Google Drive: https://drive.google.com/file/d/1tmah3yLH4Qma4iXtrvSuitUMEyykqqB6/view?usp=sharing
   
 ## Instructions:
 
@@ -30,7 +30,7 @@ This step applies if multiple patches have been applied.
 ## Completion stats:
 
 - Name/terminology changes: 100%
-- Main script: 72% (started the Mass Driver sequence)
+- Main script: 75% (finished the Soylent System sequence)
 - NPC script: Not done (except for name/terminology changes)
 
 ## Introduction:
@@ -42,6 +42,15 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.5.2:
+
+11/11/2024
+
+- Bug where the opening FMV freezes the game when played on more accurate emulators has been fixed.
+- Weltall's attack is no longer halved. If a save file has experienced the bug already, entering and fleeing from battle will resolve it.
+- Script changes have been implemented up to the Soylent Systems in disc 2.
+- Sufal Mass has been renamed Sphar Meld.
 
 ### Version 0.5.1:
 
@@ -566,6 +575,11 @@ A) Yes, but apply the battle flash patch first before using the Perfect Works Bu
 ## Archive:
 
 ### Builds:
+
+#### Version 0.5.1:
+
+- MEGA: https://mega.nz/file/6apU3QQA#pxl_Vb8y4T50N4BD1MqXgZnJMoECI_mTKtB0dAvPHBs
+- Google Drive: https://drive.google.com/file/d/1SHUz8Jmo3GZswyh_uA4jD7D7nZj5SAqr/view?usp=drive_link
 
 #### Version 0.5.0:
 
