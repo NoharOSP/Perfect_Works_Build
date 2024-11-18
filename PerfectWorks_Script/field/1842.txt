@@ -19,7 +19,7 @@ obtain our one and only
 means of standing against
 the mobile weapon.<Close><End of Block>
 <TextBlock 2 w:54 h:9>
-The Solaris Mobile Weapon
+The Solaris mobile weapon
 was destroyed<Delay 5>...<Delay 5>
 and a moment's reprieve
 came to Ignis.<Delay 45>
