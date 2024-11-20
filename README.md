@@ -572,6 +572,10 @@ Q) Is the Perfect Works Build compatible with the No Battle Flashes patch?
 
 A) Yes, but apply the battle flash patch first before using the Perfect Works Build. 
 
+Q) Is the Perfect Works Build compatible with the undub patch?
+
+A) Unfortunately no. This is due to differences with the file table in the undub patch which is difficult for xenoiso to interpret.
+
 ## Archive:
 
 ### Builds:

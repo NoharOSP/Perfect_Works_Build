@@ -221,12 +221,6 @@ a 'new master', we stood
 before the mobile weapon.<Close><End of Block>
 <TextBlock 44 w:40 h:3>
 Big Joe
-"Hey, brother, you!<Delay 30> <New>
-You wanna listen to
-my super muchacho
-information?"<Close><End of Block>
-<TextBlock 44 w:40 h:3>
-Big Joe
 "Hey, brother! You!<Delay 30> <New>
 You wanna listen to
 my super muchacho
