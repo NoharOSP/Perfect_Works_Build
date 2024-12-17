@@ -1,10 +1,10 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.5.2 here:
+Download version 0.5.3 here:
 
-- MEGA: https://mega.nz/file/TTwxGIoQ#hyextkYHqFIdzUvE7ZJMjMAp-U0HvyGvUD_K6oqiEuY
-- Google Drive: https://drive.google.com/file/d/1tmah3yLH4Qma4iXtrvSuitUMEyykqqB6/view?usp=sharing
+- MEGA: https://mega.nz/file/vCoRyYpb#fGgZHw1CUHgfF0WlCz-_yiyplTdMm5o0nm3W8WJLrVU
+- Google Drive: https://drive.google.com/file/d/1yMAACrDOwI8I1sUsYkk-1IWTOA5w2oJ9/view?usp=sharing
   
 ## Instructions:
 
@@ -14,18 +14,6 @@ Download version 0.5.2 here:
 - Open the ISO file for either or both discs. 
 - Select which patches you wish to apply.
 - Press Patch. The script edits should take longer to patch as it has the most files to copy.
-
-### Regenerating:
-
-This step applies if multiple patches have been applied.
-
-- [Download ECCRegen](https://www.romhacking.net/utilities/1550/).
-- Click the folder icon to select the Xenogears ISO.
-- Click Scan.
-- Wait for the unregenerated files to load.
-- Right click Check all.
-- Click Regenerate.
-- Wait for the regeneration to finish.
 
 ## Completion stats:
 
@@ -42,6 +30,18 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.5.3:
+
+12/09/2024
+
+- ECCRegen is no longer required.
+- Aerods has had its power restored and its fuel cost lowered to 500.
+- Chu-Chu's crit rate has been increased to 25%.
+- The Bart Jr Doll now sets her crit rate to 100% rather than 60%.
+- Cross and NisanCross have been modified. Details are in the wiki.
+- Portrait bug when talking to Big Joe in Kislev has been fixed.
+- Bug where Dan drops a Combo Drive instead of a WeddingDress has been fixed.
 
 ### Version 0.5.2:
 
@@ -552,10 +552,6 @@ Q) Can the Japanese control scheme patch be used with the Perfect Works Build?
 
 A) Yes it can.
 
-Q) Beetle PSX HW and Mednafen show a bad sector error. Did something go wrong?
-
-A) Regenerate the ROM using ECCRegen.
-
 Q) Are any of the patches mandatory?
 
 A) No. You can pick what patches you wish to apply via the patcher. 
@@ -572,13 +568,14 @@ Q) Is the Perfect Works Build compatible with the No Battle Flashes patch?
 
 A) Yes, but apply the battle flash patch first before using the Perfect Works Build. 
 
-Q) Is the Perfect Works Build compatible with the undub patch?
-
-A) Unfortunately no. This is due to differences with the file table in the undub patch which is difficult for xenoiso to interpret.
-
 ## Archive:
 
 ### Builds:
+
+#### Version 0.5.2:
+
+- MEGA: https://mega.nz/file/TTwxGIoQ#hyextkYHqFIdzUvE7ZJMjMAp-U0HvyGvUD_K6oqiEuY
+- Google Drive: https://drive.google.com/file/d/1tmah3yLH4Qma4iXtrvSuitUMEyykqqB6/view?usp=sharing
 
 #### Version 0.5.1:
 
