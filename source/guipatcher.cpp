@@ -653,7 +653,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					applyPatch(2);
 				}
 				SetWindowText(hWnd, szTitle);
-				MessageBox(hWnd, L"Patch was completed successfully. Use ECCRegen to see if the bin file needs to be regenerated", L"Success", MB_ICONASTERISK);
+				MessageBox(hWnd, L"Patch was completed successfully.", L"Success", MB_ICONASTERISK);
 				// Restore defaults
 				relock();
 				reinitialisePatches();
