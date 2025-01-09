@@ -128,6 +128,7 @@ HWND voice;
 HWND noEncounters;
 HWND zeroHP;
 HWND hwndPB;
+HWND normalarena;
 RECT rcWindow;
 TOOLINFO toolInfo;
 HDC hdc;

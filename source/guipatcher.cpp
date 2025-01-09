@@ -257,6 +257,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			else {
 				p_monsters = false;
 			}
+			LRESULT normalarenaticked = SendMessage(normalarena, BM_GETCHECK, NULL, NULL);
+			if (normalarenaticked == BST_CHECKED) {
+				p_barena = false;
+				p_earena = false;
+			}
 			LRESULT basicarenaticked = SendMessage(basicarena, BM_GETCHECK, NULL, NULL);
 			if (basicarenaticked == BST_CHECKED) {
 				p_barena = true;
@@ -845,6 +850,7 @@ void initialiseGlobalButtonList() {
 	globalWindList.emplace_back(noEncounters);
 	globalWindList.emplace_back(zeroHP);
 	globalWindList.emplace_back(all);
+	globalWindList.emplace_back(normalarena);
 }
 
 // Initialise patch list
@@ -1085,6 +1091,10 @@ void tooltipTextMaker(HWND hWnd) {
 		"used in battle and the Speed\n"
 		"minigame.";
 	HWND tt_voice = toolGenerator(text_voices, hWnd, voice);
+	char text_narena[] =
+		"Uses the Battle Arena balancing\n"
+		"from the base game.\n";
+	HWND tt_narena = toolGenerator(text_narena, hWnd, normalarena);
 	char text_no_encounters[] =
 		"Turns off random encounters entirely.";
 	HWND tt_no_encounters = toolGenerator(text_no_encounters, hWnd, noEncounters);
