@@ -299,6 +299,20 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			else {
 				p_voice = false;
 			}
+			LRESULT noencticked = SendMessage(noEncounters, BM_GETCHECK, NULL, NULL);
+			if (noencticked == BST_CHECKED) {
+				p_no_encounters = true;
+			}
+			else {
+				p_no_encounters = false;
+			}
+			LRESULT zeroHPticked = SendMessage(zeroHP, BM_GETCHECK, NULL, NULL);
+			if (zeroHPticked == BST_CHECKED) {
+				p_zero_HP = true;
+			}
+			else {
+				p_zero_HP = false;
+			}
 			LRESULT allticked = SendMessage(all, BM_GETCHECK, NULL, NULL);
 			if (allticked == BST_CHECKED) {
 				p_script = true;
@@ -366,7 +380,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			}
 			// Check for ticked boxes
 			if (filePathValid) {
-				if (p_encounters) {
+				if (p_encounters && !p_no_encounters) {
 					// Check if script patches aren't selected to avoid compatibility issues. Otherwise, a merged folder will be used
 					if (!p_script) {
 						if (pathFound1) {
@@ -382,6 +396,25 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 						if (pathFound2) {
 							encountersName2 = "encountertwo_script";
+						}
+					}
+				}
+				if (p_no_encounters) {
+					// Check if script patches aren't selected to avoid compatibility issues. Otherwise, a merged folder will be used
+					if (!p_script) {
+						if (pathFound1) {
+							noEncountersName1 = "Encounter_zeroed_1";
+						}
+						if (pathFound2) {
+							noEncountersName2 = "Encounter_zeroed_2";
+						}
+					}
+					else {
+						if (pathFound1) {
+							noEncountersName1 = "Encounter_zeroed_script_1";
+						}
+						if (pathFound2) {
+							noEncountersName2 = "Encounter_zeroed_script_2";
 						}
 					}
 				}
@@ -489,7 +522,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						fastName2 = "text_cd2";
 					}
 				}
-				if (p_monsters) {
+				if (p_monsters && !p_zero_HP) {
 					// Check if items/spells and script patches aren't selected to avoid compatibility issues.
 					if (!p_script && !p_items_spells && !p_exp_gold) {
 						if (pathFound1) {
@@ -521,6 +554,41 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 						if (pathFound2) {
 							monsterName2 = "monsters_both";
+						}
+					}
+				}
+				if (p_zero_HP) {
+					// Check if items/spells and script patches aren't selected to avoid compatibility issues.
+					if (!p_script && !p_items_spells && !p_exp_gold) {
+						if (pathFound1) {
+							zeroHPName1 = "zeroHP";
+						}
+						if (pathFound2) {
+							zeroHPName2 = "zeroHP";
+						}
+					}
+					else if (p_items_spells && !p_script) {
+						if (pathFound1) {
+							zeroHPName1 = "zeroHP_items";
+						}
+						if (pathFound2) {
+							zeroHPName2 = "zeroHP_items";
+						}
+					}
+					else if (!p_items_spells && p_script) {
+						if (pathFound1) {
+							zeroHPName1 = "zeroHP_script";
+						}
+						if (pathFound2) {
+							zeroHPName2 = "zeroHP_script";
+						}
+					}
+					else if (p_items_spells && p_script) {
+						if (pathFound1) {
+							zeroHPName1 = "zeroHP_both";
+						}
+						if (pathFound2) {
+							zeroHPName2 = "zeroHP_both";
 						}
 					}
 				}
@@ -654,7 +722,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					applyPatch(2);
 				}
 				SetWindowText(hWnd, szTitle);
-				MessageBox(hWnd, L"Patch was completed successfully. Use ECCRegen to see if the bin file needs to be regenerated", L"Success", MB_ICONASTERISK);
+				MessageBox(hWnd, L"Patch was completed successfully.", L"Success", MB_ICONASTERISK);
 				// Restore defaults
 				relock();
 				reinitialisePatches();
@@ -774,6 +842,8 @@ void initialiseGlobalButtonList() {
 	globalWindList.emplace_back(fmvs);
 	globalWindList.emplace_back(graphics);
 	globalWindList.emplace_back(voice);
+	globalWindList.emplace_back(noEncounters);
+	globalWindList.emplace_back(zeroHP);
 	globalWindList.emplace_back(all);
 }
 
@@ -805,6 +875,10 @@ void initialisePatchLists() {
 	patchList2.emplace_back(titleName2);
 	patchList1.emplace_back(voiceName1);
 	patchList2.emplace_back(voiceName2);
+	patchList1.emplace_back(noEncountersName1);
+	patchList2.emplace_back(noEncountersName2);
+	patchList1.emplace_back(zeroHPName1);
+	patchList2.emplace_back(zeroHPName2);
 }
 
 // Lock checkboxes until a bin file has been found
@@ -878,6 +952,10 @@ void reinitialisePatches () {
 	titleName2 = "";
 	voiceName1 = "";
 	voiceName2 = "";
+	noEncountersName1 = "";
+	noEncountersName2 = "";
+	zeroHPName1 = "";
+	zeroHPName2 = "";
 	patchList1.clear();
 	patchList2.clear();
 }
@@ -1007,6 +1085,13 @@ void tooltipTextMaker(HWND hWnd) {
 		"used in battle and the Speed\n"
 		"minigame.";
 	HWND tt_voice = toolGenerator(text_voices, hWnd, voice);
+	char text_no_encounters[] =
+		"Turns off random encounters entirely.";
+	HWND tt_no_encounters = toolGenerator(text_no_encounters, hWnd, noEncounters);
+	char text_zeroHP[] =
+		"Ensures that all enemies in the game\n"
+		"can be killed in one hit.\n";
+	HWND tt_zeroHP = toolGenerator(text_zeroHP, hWnd, zeroHP);
 }
 
 // Initialise common controls for parsing large files
@@ -1025,19 +1110,21 @@ void initialiseGlobalWindows(HWND hWnd) {
 	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.15), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
 	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.75), 70, 25, hWnd, (HMENU)104, hInst, NULL);
 	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.25), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
-	encounters = CreateWindow(L"BUTTON", L"Half encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	portraits = CreateWindow(L"BUTTON", L"Readjusted portraits", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	graphics = CreateWindow(L"BUTTON", L"Graphical fixes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.54), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	expgold = CreateWindow(L"BUTTON", L"1.5x exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.19), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	monsters = CreateWindow(L"BUTTON", L"Rebalanced monsters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.19), (int)(winY * 0.47), 125, 25, hWnd, (HMENU)9002, hInst, NULL);
-	basicarena = CreateWindow(L"BUTTON", L"Basic rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * 0.35), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	expertarena = CreateWindow(L"BUTTON", L"Expert rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * 0.35), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	fmvs = CreateWindow(L"BUTTON", L"FMV changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.51), (int)(winY * 0.40), 125, 25, hWnd, (HMENU)9002, hInst, NULL);
-	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.51), (int)(winY * 0.47), 125, 25, hWnd, (HMENU)9002, hInst, NULL);
-	voice = CreateWindow(L"BUTTON", L"Japanese voices", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.51), (int)(winY * 0.54), 130, 25, hWnd, (HMENU)9002, hInst, NULL);
-	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.67), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items/characters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.67), (int)(winY * 0.47), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
-	all = CreateWindow(L"BUTTON", L"All patches", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.83), (int)(winY * 0.40), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	encounters = CreateWindow(L"BUTTON", L"1/2 encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX | WS_GROUP, (int)(winX * qolx), (int)(winY * 0.40), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
+	portraits = CreateWindow(L"BUTTON", L"Portrait fix", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * qolx), (int)(winY * 0.47), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
+	graphics = CreateWindow(L"BUTTON", L"Graphical fixes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * qolx), (int)(winY * 0.54), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
+	expgold = CreateWindow(L"BUTTON", L"1.5x exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * balancex), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	monsters = CreateWindow(L"BUTTON", L"Monster changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * balancex), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	basicarena = CreateWindow(L"BUTTON", L"Basic rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON | WS_GROUP, (int)(winX * arenax), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	expertarena = CreateWindow(L"BUTTON", L"Expert rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	fmvs = CreateWindow(L"BUTTON", L"FMV changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.4), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	script = CreateWindow(L"BUTTON", L"Script changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	voice = CreateWindow(L"BUTTON", L"Japanese voices", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.54), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
+	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * expx), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items/characters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * expx), (int)(winY * 0.47), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
+	all = CreateWindow(L"BUTTON", L"All patches", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * miscx), (int)(winY * 0.40), 80, 25, hWnd, (HMENU)9002, hInst, NULL);
+	noEncounters = CreateWindow(L"BUTTON", L"No encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * smx), (int)(winY * 0.40), 85, 25, hWnd, (HMENU)9002, hInst, NULL);
+	zeroHP = CreateWindow(L"BUTTON", L"Instant death", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * smx), (int)(winY * 0.47), 85, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
 // Define font for global windows
@@ -1053,15 +1140,17 @@ void drawGUIText() {
 	swprintf_s(qoltext, 256, L"QoL:      ");
 	swprintf_s(balancetext, 256, L"Balance:  ");
 	swprintf_s(arenatext, 256, L"Arena:  ");
-	swprintf_s(storytext, 256, L"Story:    ");
+	swprintf_s(storytext, 256, L"Script:    ");
 	swprintf_s(exptext, 256, L"Experimental:    ");
 	swprintf_s(misctext, 256, L"Misc:    ");
-	TextOut(hdc, winX * 0.0325, winY * 0.35, qoltext, wcslen(qoltext));
-	TextOut(hdc, winX * 0.19, winY * 0.35, balancetext, wcslen(balancetext));
-	TextOut(hdc, winX * 0.35, winY * 0.35, arenatext, wcslen(arenatext));
-	TextOut(hdc, winX * 0.51, winY * 0.35, storytext, wcslen(storytext));
-	TextOut(hdc, winX * 0.67, winY * 0.35, exptext, wcslen(exptext));
-	TextOut(hdc, winX * 0.83, winY * 0.35, misctext, wcslen(misctext));
+	swprintf_s(smtext, 256, L"Story mode:      ");
+	TextOut(hdc, winX * qolx, winY * 0.35, qoltext, wcslen(qoltext));
+	TextOut(hdc, winX * balancex, winY * 0.35, balancetext, wcslen(balancetext));
+	TextOut(hdc, winX * arenax, winY * 0.35, arenatext, wcslen(arenatext));
+	TextOut(hdc, winX * storyx, winY * 0.35, storytext, wcslen(storytext));
+	TextOut(hdc, winX * expx, winY * 0.35, exptext, wcslen(exptext));
+	TextOut(hdc, winX * miscx, winY * 0.35, misctext, wcslen(misctext));
+	TextOut(hdc, winX * smx, winY * 0.35, smtext, wcslen(smtext));
 }
 
 void drawGlobalText() {
@@ -1137,6 +1226,14 @@ void applyPatch(int discNum) {
 			}
 			if (discNum == 2) {
 				std::filesystem::copy(encountersName2, temp, std::filesystem::copy_options::update_existing);
+			}
+		}
+		if (p_no_encounters) {
+			if (discNum == 1) {
+				std::filesystem::copy(noEncountersName1, temp, std::filesystem::copy_options::update_existing);
+			}
+			if (discNum == 2) {
+				std::filesystem::copy(noEncountersName2, temp, std::filesystem::copy_options::update_existing);
 			}
 		}
 		if (p_fastnew || p_fastold) {
@@ -1258,7 +1355,7 @@ void applyPatch(int discNum) {
 		batch_file << "del \"" + fileName + "\" \n" << std::endl;
 	}
 	list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
-	createROM(window, discNum, oldPath, fileName, "list.txt");
+	createROM cr(window, discNum, oldPath, fileName, "list.txt");
 	//batch_file << "xenoiso list.txt\n" << std::endl;
 	if (patched != true) {
 		patched = true;
