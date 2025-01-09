@@ -256,6 +256,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			else {
 				p_monsters = false;
 			}
+			LRESULT normalarenaticked = SendMessage(normalarena, BM_GETCHECK, NULL, NULL);
+			if (normalarenaticked == BST_CHECKED) {
+				p_barena = false;
+				p_earena = false;
+			}
 			LRESULT basicarenaticked = SendMessage(basicarena, BM_GETCHECK, NULL, NULL);
 			if (basicarenaticked == BST_CHECKED) {
 				p_barena = true;
@@ -774,6 +779,7 @@ void initialiseGlobalButtonList() {
 	globalWindList.emplace_back(graphics);
 	globalWindList.emplace_back(voice);
 	globalWindList.emplace_back(all);
+	globalWindList.emplace_back(normalarena);
 }
 
 // Initialise patch list
@@ -1006,6 +1012,10 @@ void tooltipTextMaker(HWND hWnd) {
 		"used in battle and the Speed\n"
 		"minigame.";
 	HWND tt_voice = toolGenerator(text_voices, hWnd, voice);
+	char text_narena[] =
+		"Uses the Battle Arena balancing\n"
+		"from the base game.\n";
+	HWND tt_narena = toolGenerator(text_narena, hWnd, normalarena);
 }
 
 // Initialise common controls for parsing large files
@@ -1029,8 +1039,9 @@ void initialiseGlobalWindows(HWND hWnd) {
 	graphics = CreateWindow(L"BUTTON", L"Graphical fixes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.0325), (int)(winY * 0.54), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	expgold = CreateWindow(L"BUTTON", L"1.5x exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.19), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	monsters = CreateWindow(L"BUTTON", L"Rebalanced monsters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.19), (int)(winY * 0.47), 125, 25, hWnd, (HMENU)9002, hInst, NULL);
-	basicarena = CreateWindow(L"BUTTON", L"Basic rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * 0.35), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	expertarena = CreateWindow(L"BUTTON", L"Expert rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * 0.35), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	normalarena = CreateWindow(L"BUTTON", L"Normal", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * 0.35), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	basicarena = CreateWindow(L"BUTTON", L"Basic rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * 0.35), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	expertarena = CreateWindow(L"BUTTON", L"Expert rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * 0.35), (int)(winY * 0.54), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	fmvs = CreateWindow(L"BUTTON", L"FMV changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.51), (int)(winY * 0.40), 125, 25, hWnd, (HMENU)9002, hInst, NULL);
 	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.51), (int)(winY * 0.47), 125, 25, hWnd, (HMENU)9002, hInst, NULL);
 	voice = CreateWindow(L"BUTTON", L"Japanese voices", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * 0.51), (int)(winY * 0.54), 130, 25, hWnd, (HMENU)9002, hInst, NULL);

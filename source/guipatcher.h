@@ -111,6 +111,7 @@ HWND fmvs;
 HWND graphics;
 HWND voice;
 HWND hwndPB;
+HWND normalarena;
 RECT rcWindow;
 TOOLINFO toolInfo;
 HDC hdc;
