@@ -11,6 +11,7 @@
 #include <vector>
 #include <cstdlib>
 #include <cstdio>
+#include "createROM.h"
 #include <direct.h>
 
 #define MAX_LOADSTRING 100
@@ -32,6 +33,13 @@ int winX = 800;
 int winY = 600;
 int id;
 int workingDisc;
+float qolx = 0.03;
+float balancex = 0.15;
+float arenax = 0.30;
+float storyx = 0.45;
+float expx = 0.60;
+float miscx = 0.75;
+float smx = 0.85;
 bool pathFound1 = false;
 bool pathFound2 = false;
 bool p_encounters = false;
@@ -47,6 +55,8 @@ bool p_earena = false;
 bool p_fmv = false;
 bool p_graphics = false;
 bool p_voice = false;
+bool p_no_encounters = false;
+bool p_zero_HP = false;
 bool patchPathValid = false;
 bool filePathValid = false;
 bool changed;
@@ -88,9 +98,14 @@ std::string titleName1 = "";
 std::string titleName2 = "";
 std::string voiceName1 = "";
 std::string voiceName2 = "";
+std::string noEncountersName1 = "";
+std::string noEncountersName2 = "";
+std::string zeroHPName1 = "";
+std::string zeroHPName2 = "";
 std::vector<HWND> globalWindList;
 std::vector<std::string> patchList1;
 std::vector<std::string> patchList2;
+HWND window;
 HWND cd1path;
 HWND cd2path;
 HWND browsebutton1;
@@ -110,6 +125,8 @@ HWND all;
 HWND fmvs;
 HWND graphics;
 HWND voice;
+HWND noEncounters;
+HWND zeroHP;
 HWND hwndPB;
 HWND normalarena;
 RECT rcWindow;
@@ -123,6 +140,7 @@ TCHAR storytext[256];
 TCHAR arenatext[256];
 TCHAR exptext[256];
 TCHAR misctext[256];
+TCHAR smtext[256];
 std::ofstream cue_stream;
 
 // Global methods
