@@ -793,7 +793,7 @@ That aside...<New>
 To destroy Etemenanki
 with but a single
 machine...<New>
-His power is not to
+'His' power is not to
 be taken lightly...<Close><End of Block>
 <TextBlock 157 w:46 h:3>
 We no longer have time.<Delay 10>
@@ -827,13 +827,13 @@ a little longer..."<Close><End of Block>
 There is a chance
 we will not make
 it in time<Delay 5>...?<Close><End of Block>
-<TextBlock 162 w:44 h:3>
+<TextBlock 162 w:48 h:4>
 Karellen
 "Who can say<Delay 5>...?<New>
 Now, you spoke of
 using the Key?<Delay 15>
 Is there any guarantee
-it can eliminate<Delay 10> him?"<Close><End of Block>
+it can eliminate<Delay 10> 'him'?"<Close><End of Block>
 <TextBlock 163 w:40 h:3>
 That we do not know.<Delay 20>
 Keep in mind who we
@@ -1089,13 +1089,13 @@ intend to perish along
 with God, Cain<Delay 5>...?<New>
 Instead of achieving
 our goal<Delay 5>...?<Close><End of Block>
-<TextBlock 215 w:52 h:4>
+<TextBlock 215 w:48 h:4>
 Emperor Cain
 "The goal...<Delay 10>
-Verily, the chains of fate
-since the time of origin.<New>
+Verily, the chains of
+fate since the origin.<New>
 Why do you not realize 
-that it is not something 
+that it is not something
 born of your own will?"<Close><End of Block>
 <TextBlock 216 w:44 h:2>
 Our words fall on
@@ -1128,86 +1128,77 @@ The humans must not
 perish<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 223 w:30 h:2>
 He is no longer
-like us<Delay 5>...<Close><End of Block>
-<TextBlock 224 w:52 h:3>
-Indeed.<Delay 10> He opposes 
-our objective.<Delay 10>
-The same as him<Delay 5>...<Close><End of Block>
-<TextBlock 225 w:42 h:2>
-If he was with us<Delay 5>
-we could activate 
-the Key<Delay 5>...<Close><End of Block>
-<TextBlock 226 w:40 h:3>
-We must eliminate 
-those who 
-will become 
-obstacles.<Delay 5>...<New>
-We must eliminate
+one of us<Delay 5>...<Close><End of Block>
+<TextBlock 224 w:42 h:3>
+Indeed.<Delay 10> He is opposed
+to our goal.<Delay 10>
+The same as 'him'<Delay 5>...<Close><End of Block>
+<TextBlock 225 w:38 h:3>
+If it was up to us,<Delay 5>
+the Key could be
+invoked<Delay 5>...<Close><End of Block>
+<TextBlock 226 w:34 h:3>
+We will eliminate
+he who is the
+obstacle<Delay 20>...
 Cain<Delay 5>...<Close><End of Block>
 <TextBlock 227 w:30 h:3>
-But we cannot 
-defy his 
+But we cannot
+simply defy his
 power.<Close><End of Block>
-<TextBlock 228 w:34 h:2>
-The one<Delay 5> who will<Delay 5> 
-destroy 'Cain'<Delay 5> 
-is 'Cain' 
-himself<Delay 5>...<Close><End of Block>
-<TextBlock 229 w:34 h:2>
-......<Delay 5>Will 
-you handle this, 
-'mother'?<Close><End of Block>
-<TextBlock 230 w:52 h:4>
+<TextBlock 228 w:34 h:3>
+The only one to
+destroy 'Cain'...<Delay 20>
+is 'Cain'<Delay 5>...<Close><End of Block>
+<TextBlock 229 w:36 h:2>
+...Will he do that
+for us,<Delay 5> Mother?<Close><End of Block>
+<TextBlock 230 w:50 h:4>
 Myyah
-"Let me see<Delay 5>...<Delay 5>
-Has Karellen been saying 
-anything?"<Close><End of Block>
-<TextBlock 231 w:42 h:4>
-He spoke of the
-possibility of 
-focusing all of 
-his potential...<New>
-as a canceling 
-factor into a 
-single point<Delay 5>...<Close><End of Block>
-<TextBlock 232 w:48 h:3>
+"That is the question<Delay 5>...<Delay 5>
+So Karellen has mentioned
+something?"<Close><End of Block>
+<TextBlock 231 w:38 h:4>
+He said that if
+all the latent
+potential as a
+neutralizing entity<New>
+could be channeled
+to a single point,
+then<Delay 5>...<Close><End of Block>
+<TextBlock 232 w:42 h:4>
 Myyah
-"I see<Delay 5>...<Delay 5><New>
-That last defeat by Fei
-<Delay 5>...<Delay 5>has 
-left Carl quite 
-unstable.<New>
-Just a little longer<Delay 10>
-And we'll be ready<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 233 w:38 h:3>
-In that case we 
-will wait.<Delay 15>
-For that time 
-to come<Delay 5>...<Close><End of Block>
-<TextBlock 234 w:24 h:1>
+"I see<Delay 5>...<New>
+The defeat against
+Fei a few days ago<Delay 5>...<Delay 5>
+It has left Carl
+quite unstable.<New>
+Just...<Delay 10>a little
+longer...<Delay 10>okay?"<Close><End of Block>
+<TextBlock 233 w:32 h:3>
+Then we will
+wait.<Delay 15> Until the
+time is ripe<Delay 5>...<Close><End of Block>
+<TextBlock 234 w:16 h:1>
 Trash<Delay 5>...<Close><End of Block>
 <TextBlock 235 w:16 h:1>
 Trash<Delay 5>...<Close><End of Block>
-<TextBlock 236 w:18 h:1>
+<TextBlock 236 w:16 h:1>
 Trash<Delay 5>...<Close><End of Block>
-<TextBlock 237 w:30 h:2>
-For what 
-purpose 
-do you 
-exist<Delay 5>...?<Close><End of Block>
-<TextBlock 238 w:18 h:1>
+<TextBlock 237 w:26 h:2>
+What do you
+exist for<Delay 5>...?<Close><End of Block>
+<TextBlock 238 w:20 h:1>
 Failure<Delay 5>...<Close><End of Block>
 <TextBlock 239 w:20 h:1>
 Be gone<Delay 5>...<Close><End of Block>
-<TextBlock 240 w:28 h:2>
-Your 
-usefulness 
-has already 
-ended<Delay 5>...<Close><End of Block>
-<TextBlock 241 w:44 h:3>
-Nay. 
-He is trash, incapable 
-of any use.<Delay 5>...<Close><End of Block>
+<TextBlock 240 w:22 h:3>
+You are no
+longer of
+any use<Delay 5>...<Close><End of Block>
+<TextBlock 241 w:32 h:2>
+Indeed.
+Useless trash<Delay 5>...<Close><End of Block>
 <TextBlock 242 w:12 h:2>
 Ramsus
 "<Delay 5>...<Delay 5>"<Close><End of Block>
@@ -1215,59 +1206,51 @@ Ramsus
 Myyah
 "Carl<Delay 5>...<Delay 5>
 Don't worry.<New>
-I will always be with 
-you. I know you better 
-than anyone else.
+I'll always be by
+your side.<Delay 10> I'm the one
+who knows you best...
 So<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 244 w:48 h:4>
+<TextBlock 244 w:42 h:4>
 Ramsus
 "Myyah!<Delay 15>
-Is this, is this<Delay 5>
-...<New>
-<Delay 5>the limit of
-my power?<New>
-Am I capable of nothing 
-more than this amount of 
-power?<New>
-I cannot win against 
-him,<New>
-<Delay 5>and I 
-couldn't do a single 
-thing in the face of 
-that woman<Delay 5>...<New>
-Is this the limit of my
-existence!?<Delay 25>
-My abilities<Delay 5>...<Delay 5>!?"<Close><End of Block>
-<TextBlock 245 w:54 h:4>
+My... <Delay 10>My power...<Delay 5>
+Is this it?<New>
+This is all the
+power I have?<New>
+I couldn't beat him,<Delay 10>
+and even in front of
+that woman I couldn't
+do a thing<Delay 5>...<New>
+Is this all I am!?<Delay 25>
+My abilities<-->"<Close><End of Block>
+<TextBlock 245 w:52 h:4>
 Karellen
-"<Delay 5>...<Delay 5>are identical 
-to Cain's,<New>
-a being of the genesis 
-who transcends all humans.<Delay 5>
-It was in that image that 
-I created you.<New>
-He is the one who is 
-preventing the release of 
-your power.<New>
-Divided power<Delay 5>...<Delay 5>
-That man was your source 
-form,<New>
-<Delay 5>the transcendental 
-being since the time of 
-the genesis<Delay 5>...<New>
-If only you remove him, 
-you will be<Delay 5>..."<Close><End of Block>
-<TextBlock 246 w:52 h:4>
+"<-->are the same as
+those of Cain.<New>
+The archetype that
+transcends all humans.<Delay 5>
+I created you to be
+the same way.<New>
+It is that man who
+prevents the release
+of your power.<New>
+A fragmented power.<Delay 10> The
+man who was the template
+for you.<Delay 10> A superhuman
+ever since the origin...<New>
+If you would but eliminate
+him, then<Delay 5>..."<Close><End of Block>
+<TextBlock 246 w:54 h:4>
 Myyah
 "That's right.<New>
-While you possess superior 
-qualities, you are 
-deprived because of the 
-existence of the original.<New>
-If you remove the division 
-of power, it will all be 
-yours<Delay 5>...<Delay 5>
-Isn't that so, Carl<Delay 5>...?"<Close><End of Block>
+Although you possess the
+superior qualities, as
+long as the 'original'
+exists you will be shunned.<New>
+Eliminate the fragmented
+power, and all will be 
+yours<Delay 5>...<Delay 5> Don't you think
+so, Carl<Delay 5>...?"<Close><End of Block>
 <TextBlock 247 w:26 h:2>
 Cain has
 died<Delay 5>...<Close><End of Block>
@@ -1296,11 +1279,10 @@ none to obstruct the
 accomplishment of our 
 objective.<Close><End of Block>
 <TextBlock 254 w:46 h:4>
-<Delay 5>The 'Anima Vessels' 
+The Vessels of Anima 
 have awakened and have 
-obtained 'Animus'.<New>
-Dan,<Delay 5> Joseph,<Delay 5>and 
-Gad<Delay 5>...<Delay 5>
+obtained the Animus.<New>
+Dan,<Delay 5> Joseph,<Delay 5> and Gad<Delay 5>...<Delay 5>
 which aligned with 
 surface dwellers<Delay 5>...<Close><End of Block>
 <TextBlock 255 w:34 h:4>
@@ -1309,15 +1291,14 @@ Ramsus' Zebulun,<Delay 5>
 Karellen's Judah,<Delay 5>
 Sophia's Dinah<Delay 5>...<Close><End of Block>
 <TextBlock 256 w:50 h:3>
-Reuben<Delay 5>, Simeon<Delay 5>, Levi<Delay 5>,
-and Isachar<Delay 5> which aligned 
+Reuben<Delay 5>, Simeon<Delay 5>, Levi<Delay 5> and
+Issachar<Delay 5> which aligned
 500 years ago<Delay 5>...<Close><End of Block>
-<TextBlock 257 w:50 h:4>
+<TextBlock 257 w:52 h:4>
 And finally<Delay 5>...<Delay 5>
 Grahf's Naphtali<Delay 5>...<Delay 5><New>
-All of the 'Anima 
-Vessels'<Delay 5> have 
-been activated.<Close><End of Block>
+All of the Vessels of
+Anima have been activated.<Close><End of Block>
 <TextBlock 258 w:42 h:4>
 The existence of
 <Delay 5>the mother's<Delay 5>
@@ -1461,25 +1442,25 @@ us<Delay 5>...?<Close><End of Block>
 <TextBlock 279 w:54 h:4>
 Karellen
 "I can.<New>
-Your genes, which were 
-dispersed to sustain 
-the world after the 
+Your genes, which were
+dispersed to sustain
+the world after the
 Day of Collapse,<New>
 live on among the people.
-The Anima Vessels,
+The Vessels of Anima,
 the Animus<Delay 5>...<Delay 5>
-And the persona<Delay 5>...<Delay 5><New>
-Those, combined with my 
-nanomachines, will make 
-the people equivalent to 
+And the Persona<Delay 5>...<Delay 5><New>
+Those, combined with my
+nanomachines, will make
+the people equivalent to
 you.<New>
-No, even further, 
-they will be capable of 
-becoming a proper interface 
-to god.<New>
-Your existence has no value 
-now.<Delay 15> Deus,<Delay 5> 
-god,<Delay 5> only wants results<Delay 5>...<New>
+No, even further,
+they will be capable of
+becoming a proper interface
+to God.<New>
+Your existence has no value
+now.<Delay 15> Deus,<Delay 5>
+God,<Delay 5> only wants results<Delay 5>...<New>
 The means do not matter<Delay 5>...<Delay 15>
 This is my 'Ark Plan'.<Delay 5>...<Delay 10>
 Or in other words, <Delay 5>Project<Delay 5>

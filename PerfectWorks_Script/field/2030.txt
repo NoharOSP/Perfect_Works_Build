@@ -18,24 +18,24 @@ for now!!"<Close><End of Block>
 Myyah
 "Now, the time has come
 for the great awakening!"<Close><End of Block>
-<TextBlock 5 w:56 h:4>
+<TextBlock 5 w:54 h:4>
 Myyah
 "This is the true meaning
-of the Anima Vessels...<New>
+of the Vessels of Anima...<New>
 To attain their respective
 Animus and return to the
 Persona.<New>
-The Anima Vessels are really
-one set of parts that make
-up Deus, the physical
-manifestation of god.<New>
+The Vessels of Anima are
+one set of parts that
+make up Deus, the physical
+manifestation of God.<New>
 They regain their original
 powers or functions by
 aligning themselves with
 their destined partner...<New>
 An Omnigear that has lost
-its respective Anima Vessel,
-is but a puppet.<New>
+its respective Vessel of
+Anima is but a puppet.<New>
 It becomes a mere vessel
 or container in which there
 are no contents."<Close><End of Block>
@@ -102,17 +102,17 @@ Is that<Delay 5>...!?"<Close><End of Block>
 Fei
 "Our Omni<Delay 5>...?<Delay 20>
 No, that's not it!!<New>
-Is that<Delay 5>...<Delay 20>
-our Anima Vessels!?"<Close><End of Block>
+Is that<Delay 5>...<Delay 20>our
+Vessels of Anima!?"<Close><End of Block>
 <TextBlock 15 w:42 h:3>
 Fei
 "Being consumed by...
 Deus...!?"<Close><End of Block>
-<TextBlock 16 w:34 h:4>
+<TextBlock 16 w:38 h:4>
 Fei
 "Deus is...
 swallowing up our
-Anima Vessels!?"<Close><End of Block>
+Vessels of Anima!?"<Close><End of Block>
 <TextBlock 17 w:40 h:3>
 Fei
 "What the hell are
@@ -189,14 +189,14 @@ Omnigears!?"<Close><End of Block>
 <TextBlock 33 w:46 h:4>
 Citan
 "Is it trying to detach
-the Anima Vessels from
-our Omnigears!?"<Close><End of Block>
+the Vessels of Anima
+from our Omnigears!?"<Close><End of Block>
 <TextBlock 34 w:52 h:3>
 Citan
 "...<New>
-It seems the Anima Vessels
-have fallen into the hands
-of the enemy."<Close><End of Block>
+It seems the Vessels of
+Anima have fallen into the
+hands of the enemy."<Close><End of Block>
 <TextBlock 35 w:22 h:2>
 Emeralda
 "Grrr...!!"<Close><End of Block>

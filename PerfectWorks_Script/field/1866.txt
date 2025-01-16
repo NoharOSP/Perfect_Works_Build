@@ -1,32 +1,34 @@
-<TextBlock 1 w:22 h:2>
+<TextBlock 1 w:20 h:2>
 Fei
-"Unnnh...?"<Close><End of Block>
-<TextBlock 2 w:52 h:2>
+"Hmmm...?"<Close><End of Block>
+<TextBlock 2 w:40 h:3>
 Fei
-"Is this the main system?"<Close><End of Block>
-<TextBlock 3 w:24 h:2>
+"Is this the core
+of the main system?"<Close><End of Block>
+<TextBlock 3 w:24 h:3>
 Fei
-"Any hints?"<Close><End of Block>
+"Are there
+any hints?"<Close><End of Block>
 <TextBlock 4 w:12 h:2>
 Fei
 "Huh?"<Close><End of Block>
-<TextBlock 5 w:40 h:3>
+<TextBlock 5 w:30 h:3>
 Fei
-"Is this the one?
-How about that one?"<Close><End of Block>
-<TextBlock 6 w:44 h:1>
-Area B is deactivated.<Close><End of Block>
+"Maybe that one
+over there?"<Close><End of Block>
+<TextBlock 6 w:38 h:1>
+Area B is unlocked.<Close><End of Block>
 <TextBlock 7 w:38 h:2>
-Door Lock System
-is now operational.<Close><End of Block>
+Door lock system
+activated.<Close><End of Block>
 <TextBlock 8 w:32 h:2>
-Door Lock Area B
-deactivated.<Close><End of Block>
+Releasing Area B
+door lock.<Close><End of Block>
 <TextBlock 9 w:10 h:1>
 Done!<Close><End of Block>
 <TextBlock 10 w:32 h:2>
 Please activate
-the main system!<Close><End of Block>
+the main system.<Close><End of Block>
 <TextBlock 11 w:44 h:1>
 Main system is active.<Close><End of Block>
 <TextBlock 12 w:46 h:1>
@@ -34,92 +36,97 @@ Activating main system.<Close><End of Block>
 <TextBlock 13 w:44 h:1>
 Input activation code.<Close><End of Block>
 <TextBlock 14 w:20 h:7>
-<Opcode 1 255> CODE A?
+<Opcode 1 255> Code A?
     1
     2
     3
     4
     0
-    Cancel<Close><End of Block>
+    Abort<Close><End of Block>
 <TextBlock 15 w:16 h:6>
-<Opcode 1 255> CODE B?
+<Opcode 1 255> Code B?
     1
     2
     3
     4
     0<Close><End of Block>
 <TextBlock 16 w:16 h:6>
-<Opcode 1 255> CODE C?
+<Opcode 1 255> Code C?
     1
     2
     3
     4
     0<Close><End of Block>
 <TextBlock 17 w:16 h:6>
-<Opcode 1 255> CODE D?
+<Opcode 1 255> Code D?
     1
     2
     3
     4
     0<Close><End of Block>
 <TextBlock 18 w:36 h:8>
-<Opcode 1 255> Confirm Code... 
+<Opcode 1 255> Confirm code...
     A-<Opcode 10 0>
     B-<Opcode 10 1>
     C-<Opcode 10 2>
     D-<Opcode 10 3>
  
-    OK?
-    RETRY<Close><End of Block>
+    Confirm
+    Retry<Close><End of Block>
 <TextBlock 19 w:46 h:1>
-Activating main system.<Close><End of Block>
+Main system activated.<Close><End of Block>
 <TextBlock 20 w:20 h:1>
-Code Error<Close><End of Block>
+Code error<Close><End of Block>
 <TextBlock 21 w:20 h:1>
-Code Error<Close><End of Block>
+Code error<Close><End of Block>
 <TextBlock 22 w:20 h:1>
-Code Error<Close><End of Block>
+Code error<Close><End of Block>
 <TextBlock 23 w:20 h:1>
-Code Error<Close><End of Block>
-<TextBlock 24 w:48 h:3>
-The position of these
-blocks correspond to the
-activation code numbers!<Close><End of Block>
+Code error<Close><End of Block>
+<TextBlock 24 w:50 h:4>
+The positions of these
+blocks seem to correspond
+to the activation-code
+numbers.<Close><End of Block>
 <TextBlock 25 w:38 h:2>
-Line A's Blocks are
-all closed off.<Close><End of Block>
-<TextBlock 26 w:32 h:2>
-It's incribed as
-the 'A' line.<Close><End of Block>
-<TextBlock 27 w:40 h:1>
-For main system use.<Close><End of Block>
+Column A's blocks
+are all closed off.<Close><End of Block>
+<TextBlock 26 w:22 h:2>
+It's marked
+'Column A'.<Close><End of Block>
+<TextBlock 27 w:24 h:2>
+For use with
+main system.<Close><End of Block>
 <TextBlock 28 w:36 h:2>
 The number 3 block
 is visible.<Close><End of Block>
-<TextBlock 29 w:34 h:2>
-It's inscribed as
-the 'B' line.<Close><End of Block>
-<TextBlock 30 w:40 h:1>
-For the main system.<Close><End of Block>
+<TextBlock 29 w:22 h:2>
+It's marked
+'Column B'.<Close><End of Block>
+<TextBlock 30 w:24 h:2>
+For use with
+main system.<Close><End of Block>
 <TextBlock 31 w:42 h:2>
-It's inscribed as
-'C-2' behind the lid.<Close><End of Block>
+The back of the cover
+is marked 'C-2'.<Close><End of Block>
 <TextBlock 32 w:34 h:2>
-It's inscribed as
-the 'C' line.<Close><End of Block>
-<TextBlock 33 w:34 h:2>
-It's inscribed as
-the 'C' line.<Close><End of Block>
-<TextBlock 34 w:40 h:1>
-For main system use.<Close><End of Block>
+One block has the
+cover open...<Close><End of Block>
+<TextBlock 33 w:22 h:2>
+It's marked
+'Column C'.<Close><End of Block>
+<TextBlock 34 w:24 h:2>
+For use with
+main system.<Close><End of Block>
 <TextBlock 35 w:38 h:2>
-Line D's blocks are
-all closed off.<Close><End of Block>
-<TextBlock 36 w:34 h:2>
-It's inscribed as
-the 'D' line.<Close><End of Block>
-<TextBlock 37 w:40 h:1>
-For main system use.<Close><End of Block>
+Column D's blocks
+are all closed off.<Close><End of Block>
+<TextBlock 36 w:22 h:2>
+It's marked
+'Column D'.<Close><End of Block>
+<TextBlock 37 w:24 h:2>
+For use with
+main system.<Close><End of Block>
 <TextBlock 38 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

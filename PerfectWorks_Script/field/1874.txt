@@ -5,8 +5,8 @@
     DOWN
     NO<Close><End of Block>
 <TextBlock 3 w:32 h:2>
-Door Lock System
-Area B<Close><End of Block>
+Door lock system
+     Area B<Close><End of Block>
 <TextBlock 4 w:32 h:2>
-Door Lock System
-Area B<Close><Close><End of Block>
+Door lock system
+     Area B<Close><Close><End of Block>

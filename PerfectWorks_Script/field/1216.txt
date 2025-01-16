@@ -36,12 +36,12 @@ Capital of Kislev<Close><End of Block>
 <Opcode 1 255>Solaris<Close><End of Block>
 <TextBlock 17 w:34 h:1>
 <Opcode 1 255>Snowfield Base<Close><End of Block>
-<TextBlock 18 w:24 h:2>
-<Opcode 1 255>Anima Vessel
- Dungeon 1<Close><End of Block>
-<TextBlock 19 w:24 h:2>
-<Opcode 1 255>Anima Vessel
- Dungeon 2<Close><End of Block>
+<TextBlock 18 w:30 h:2>
+<Opcode 1 255>Vessel of Anima
+   Dungeon 1<Close><End of Block>
+<TextBlock 19 w:30 h:2>
+<Opcode 1 255>Vessel of Anima
+   Dungeon 2<Close><End of Block>
 <TextBlock 20 w:8 h:1>
 <Opcode 1 255>Deus<Close><End of Block>
 <TextBlock 21 w:18 h:1>

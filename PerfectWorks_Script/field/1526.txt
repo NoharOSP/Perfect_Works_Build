@@ -126,18 +126,18 @@ freezing tomorrow!!<Close><End of Block>
 <TextBlock 18 w:62 h:4>
 That which the Gazel Ministry
 of Solaris desperately seeks...
-is the twelve Anima Vessels
+is the twelve Vessels of Anima
 created by God's wisdom.<New>
-The merging of an Anima Vessel
-and a Gear can produce an 
-Omnigear...<New>
+The merging of a Vessel of
+Anima and a Gear can produce
+an Omnigear...<New>
 But the subjects must be in
 suitable synchronization or
 else the transformation will
 not occur.<New>
-Some of the Anima Vessels have
-been discovered, but there are
-still more left undiscovered,
+Some of the Vessels of Anima
+have been discovered, but there
+are yet more left undiscovered,
 sleeping deep in the earth.<New>
 Even we have been devoting
 much to the search...
@@ -156,12 +156,12 @@ be<-->!!<New>
 I implore you, land dwellers!
 We require your assistance.<New>
 Shevat must collect the
-remaining Anima Vessels,
+remaining Vessels of Anima,
 by any means necessary...!<Close><End of Block>
 <TextBlock 20 w:50 h:3>
-Hmhmm...<Delay 20>
-So the Anima Vessels were
-created by God's wisdom.<New>
+Hmhmm...<Delay 20> So the Vessels
+of Anima were created by
+God's wisdom.<New>
 I wonder if that is
 truly the case...<Close><End of Block>
 <TextBlock 21 w:50 h:3>
@@ -180,4 +180,4 @@ myself.<Delay 20> Pay me no heed.<Close><End of Block>
 <TextBlock 24 w:48 h:3>
 Hmmm...Vessel, Vessel...
 Where did you go chu,
-little Anima Vessel?<Close><Close><End of Block>
+little Vessel of Anima?<Close><Close><End of Block>
