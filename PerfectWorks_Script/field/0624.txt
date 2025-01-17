@@ -287,6 +287,6 @@ sea of sand is...
 It's a vast, swirling,
 bottomless desert.<New>
 More than half the world
-is this sea of sand.<Wait>
+is this sea of sand.<Delay 30>
 I'm surprised you haven't
 heard anything about it.<Close><Close><End of Block>

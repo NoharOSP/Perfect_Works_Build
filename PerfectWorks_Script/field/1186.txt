@@ -924,7 +924,7 @@ They're all hand-made by me!<Close><End of Block>
 <TextBlock 154 w:52 h:4>
 Bart
 "Well if it isn't Doctor
-Citan Uzuki and<Delay 10>...errh,<Delay 10>
+Citan Uzuki and<Delay 10>...uhhh,<Delay 10>
 his very big friend!<New>
 I see you've finally woken
 up.<Delay 10> I am terribly sorry
@@ -962,7 +962,7 @@ down by...?"<Close><End of Block>
 <TextBlock 159 w:52 h:4>
 Bart
 "Yes, you're a bit slow
-there...<Delay 5>errh,<Delay 5> big friend!<New>
+there...<Delay 5>uhhh,<Delay 5> big friend!<New>
 Actually our Yggdrasil II
 did a good job shooting
 down that monster of an

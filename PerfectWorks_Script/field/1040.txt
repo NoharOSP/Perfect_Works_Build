@@ -418,7 +418,7 @@ Fei
 I heard your name from
 the doctor<Delay 5>...<Delay 5>
 But I didn't expect you
-not to be<Delay 5>, errh,<Delay 5> human."<Close><End of Block>
+not to be<Delay 5>, uhhh,<Delay 5> human."<Close><End of Block>
 <TextBlock 65 w:48 h:4>
 Hammer, the Supplier
 "That's cruel.

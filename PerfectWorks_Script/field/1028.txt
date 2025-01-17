@@ -190,7 +190,7 @@ Imperial Battling Games that
 will be watched by the Kaiser
 himself<Delay 5>...<Delay 5> Right then's<Delay 5>...<Close><End of Block>
 <TextBlock 33 w:54 h:4>
-Yeah<Delay 5>...<Delay 5>errh<Delay 5>...<Delay 5>
+Yeah<Delay 5>...<Delay 5>ohhh<Delay 5>...<Delay 5>
 right then's our chance!<Delay 15>
 We'll use a Gear<Delay 5>...<Delay 5>and make
 it look like an accident<Delay 5>...<Close><End of Block>
@@ -423,7 +423,7 @@ Nothing like this has ever
 happened up until now! Hey,
 aren't you THAT guy...?<Close><End of Block>
 <TextBlock 73 w:48 h:1>
-Err, nothing, forget it.<Close><End of Block>
+Uhh, nothing, forget it.<Close><End of Block>
 <TextBlock 74 w:58 h:4>
 Our food is famous throughout
 the Imperial Capital!<New>
@@ -903,7 +903,7 @@ Rico
 You made me wait for ages!"<Close><End of Block>
 <TextBlock 180 w:36 h:2>
 Fei
-"Oh,<Delay 5> errh, sorry!"<Close><End of Block>
+"Oh,<Delay 5> uhhh, sorry!"<Close><End of Block>
 <TextBlock 181 w:52 h:4>
 Fei
 "After you left, Doc said

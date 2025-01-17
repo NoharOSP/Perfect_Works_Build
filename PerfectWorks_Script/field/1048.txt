@@ -518,7 +518,7 @@ explanation<Delay 5>...I guess.<Delay 30>
 Did you get the gist?"<Close><End of Block>
 <TextBlock 110 w:50 h:4>
 Fei
-"Well, errh<Delay 5>..."<Delay 15>
+"Well, ummm<Delay 5>..."<Delay 15>
 <Opcode 1 255>    Sure, no problem!
     Sorry, I don't get it<Close><End of Block>
 <TextBlock 111 w:56 h:5>

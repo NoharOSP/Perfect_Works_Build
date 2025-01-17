@@ -151,7 +151,7 @@ business here with
 my friend Fei!"<Close><End of Block>
 <TextBlock 23 w:50 h:4>
 Dan
-"So anyway Fei, I errh...
+"So anyway Fei, I uhhh...
 I have something to talk
 to ya about later..."<Close><End of Block>
 <TextBlock 24 w:50 h:3>
@@ -198,7 +198,7 @@ Ahem!<Delay 20>
 Ohum!<Opcode 2 40><Close><End of Block>
 <TextBlock 30 w:48 h:4>
 Chief Lee
-"Oh, errh...never mind.<New>
+"Oh, uhhh...never mind.<New>
 Now, we still have
 important things to
 discuss...<Delay 20>so don't

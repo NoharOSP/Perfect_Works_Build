@@ -389,7 +389,7 @@ you going to do?<Delay 45>
 ...<Delay 5>Fei<Delay 5>..."<Close><End of Block>
 <TextBlock 41 w:32 h:3>
 Fei
-"I,<Delay 5> errh<Delay 5>...<Delay 15>
+"I,<Delay 5> uhhh<Delay 5>...<Delay 15>
 I'm going to<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 42 w:56 h:11>
 In order to save Elly,

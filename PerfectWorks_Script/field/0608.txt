@@ -352,7 +352,7 @@ How could Alice go and get
 married...<Delay 30>and to that
 musclehead, Timothy...!?<New>
 I...<Delay 20>I've loved her...<Delay 20>
-since I was a baby...!!<Delay 20><Wait>
+since I was a baby...!!<Delay 20>
 What am I supposed to do?
 How am I supposed to live!?<Close><End of Block>
 <TextBlock 62 w:42 h:1>

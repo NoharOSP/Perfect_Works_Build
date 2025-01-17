@@ -51,10 +51,10 @@ not to forgive you... Well
 It's not like it's gonna
 turn back things the way
 they were...<Delay 20>but...<Delay 20>
-errh, it's just...<New>
+ummm, it's just...<New>
 I don't know how to say it
 properly, but<Delay 20> I'm sorry...<Delay 20>
-I...I, errh...<Delay 20>
+I...I, ummm...<Delay 20>
 I...!"<Close><End of Block>
 <TextBlock 9 w:10 h:2>
 Dan
@@ -67,7 +67,7 @@ Midori
 "Fei...<Delay 20>
 I was scared a little,
 but not really scared.<New>
-Cause I knew that inside
+'Cause I knew that inside
 of that monster, you were
 doing all you could to
 fight it, Fei. I knew it."<Close><End of Block>
