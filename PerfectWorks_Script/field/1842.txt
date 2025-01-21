@@ -149,67 +149,65 @@ Freed from the supervision
 of Solaris, the surface
 dwellers were assembling
 in one place.<Close><End of Block>
-<TextBlock 16 w:56 h:10>
+<TextBlock 16 w:56 h:11>
 Although the land dwellers
 fell into momentary chaos
-due to being free of
-the Limiters, everything
-slowly began to settle down.<New>
-We then began to search for
-the Anima Vessels<Delay 5>...<Delay 5>
-the catalyst to transform
-Gears into Omnigears.<Delay 30>
+due to being free of the
+Limiters, somehow they began
+to recover a state of calm.<New>
+We decided to search for
+the remaining Vessels of
+Anima<Delay 5> <--> <Delay 5>objects that were
+to be elementary parts of
+the Omnigears.<Delay 30>
  
-In the past, ten Vessels had
-been recovered<Delay 5>...<Delay 15>
-It is said that about half
-of those are in the hands
+In the past, ten Vessels
+had been discovered<Delay 5>...<Delay 15>
+Around half of those were
+said to be in the hands
 of the Ministry.<Close><End of Block>
 <TextBlock 17 w:58 h:11>
 According to Zephyr,<Delay 5> there
-should be several more
-Vessels hidden in the land.<Delay 30>
+were still supposed to be a
+few Vessels lying in wait
+on the surface.<Delay 30>
  
-We knew then that Solaris
-would most certainly be
-searching for them.<Delay 5>
+It was a fact that Solaris
+was investigating them.<Delay 30>
  
 There was no way we could
-allow Solaris to have them.<New>
-We visited the place where,<Delay 5>
-using archaic records,<Delay 5> Zephyr
-and her people had been able
-to get clues on the where-
-abouts of the Vessels.<Delay 10>
+let Solaris have them.<New>
+We visited a place where,<Delay 5>
+at one time,<Delay 5> some old records
+had led Zephyr and her allies
+to discover a Vessel.<Delay 10>
  
 Following the information
 we obtained from there,<Delay 5> we
-headed toward the ruins of<Delay 5>
-what seemed to be<Delay 5> an ancient
-civilization.<Close><End of Block>
+headed for a location that
+seemed to be<Delay 5> the ruins of
+an ancient civilization.<Close><End of Block>
 <TextBlock 18 w:62 h:10>
-Having fled from the Elements,
-who tried to take the Vessel to
-be used as a power to fulfill
-Ramsus' desires...<Delay 15>
- 
-we once again intiated our
-search for information...<Delay 30>
- 
-on the whereabouts of the
-last known Vessel<Delay 5>...<Close><End of Block>
+Having dealt with the Elements,
+who had been after a Vessel to
+use as an instrument of Ramsus'
+vision,<Delay 15> once again we set
+about obtaining information on
+another place of interest...<Delay 30>
+in search of the final Vessel.<Close><End of Block>
 <TextBlock 19 w:60 h:9>
 Having completed the alignment
-of the first Anima Vessel with
-Billy, there was a remarkable
-change in the appearance and
-structure of Billy's Gear.<New>
+of the first Vessel of Anima
+with Billy, there was a
+remarkable change in the
+appearance and structure
+of Billy's Gear.<New>
 They were units that merged
 with the inorganic<Delay 5>...<Delay 30>
  
 Of course we had no idea what
-purpose these ancient Anima
-Vessels were created for.<Delay 5>
+purpose these ancient Vessels
+of Anima were created for.<Delay 5>
 But the fact that they played
 some kind of role as weapons
 was blatantly obvious.<Close><End of Block>
@@ -391,7 +389,7 @@ you going to do?<Delay 45>
 ...<Delay 5>Fei<Delay 5>..."<Close><End of Block>
 <TextBlock 41 w:32 h:3>
 Fei
-"I,<Delay 5> errh<Delay 5>...<Delay 15>
+"I,<Delay 5> uhhh<Delay 5>...<Delay 15>
 I'm going to<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 42 w:56 h:11>
 In order to save Elly,
@@ -688,8 +686,8 @@ Zephyr
 'Machanon'<Delay 5>...<Delay 30> the ground 
 where God sleeps...<New>
 the source of wisdom, 
-'Raziel'<Delay 5>...the "Vessels of 
-Anima" that were created 
+'Raziel'<Delay 5>...the 'Vessels of 
+Anima' that were created 
 from God's wisdom<Delay 5>...<New>
 Besides these<Delay 5>...<Delay 15>
 another legend exists."<Close><End of Block>

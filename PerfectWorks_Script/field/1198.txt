@@ -76,8 +76,8 @@ Height 19.2 sharls
 Base Weight 22.2 kahnns
 Full Weight 26.7 kahnns<New>
 Like the other Omnigears,
-it was at one point an Anima
-Vessel absorbed by Deus and
+it was at one point a Vessel
+of Anima absorbed by Deus and
 deactivated...<New>
 However, using the data taken
 from Xenogears as a base, the
@@ -120,7 +120,7 @@ It basically reflects
 that young lady's Ether
 power directly.<Close><End of Block>
 <TextBlock 12 w:46 h:3>
-<Renmazuo>
+<Renmazuo>.
 It is Billy's Gear.<New>
 Height 15.9 sharls
 Base Weight 11.6 kahnns
@@ -129,7 +129,7 @@ It's still under
 investigation so I
 don't know the details.<Close><End of Block>
 <TextBlock 13 w:52 h:5>
-<Renmazuo>
+<Renmazuo>.
 This is Billy's Gear.<New>
 Height 15.9 sharl
 Base Weight 11.6 kahnns
@@ -153,14 +153,14 @@ They are very destructive.<New>
 An average Gear would be
 junk after taking one hit.<Close><End of Block>
 <TextBlock 14 w:60 h:4>
-<Renmazuo2>
+<Renmazuo2>.
 This is Billy's Gear.<New>
 Height 18.8 sharl
 Base Weight 14.9 kahnns
 Full Weight 19.3 kahnns<New>
 Like the other Omnigears it
-was at one point an Anima
-Vessel that was absorbed by
+was at one point a Vessel of
+Anima that was absorbed by
 Deus and thus deactivated.<New>
 However, using the data taken
 from Xenogears as a base, the
@@ -174,7 +174,7 @@ same as before reconstruction.
 Billy's father's Buntline
 Cannon can still be used too.<Close><End of Block>
 <TextBlock 15 w:54 h:5>
-<Crescens>
+<Crescens>.
 It's Emeralda's Gear.<New>
 Height 15.4 sharl
 Base Weight 9.7 kahnns

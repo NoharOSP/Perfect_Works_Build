@@ -134,7 +134,7 @@ evasive action!<New>
 But do not break
 co-op formation!<Close><End of Block>
 <TextBlock 25 w:46 h:3>
-Huh?<Wait>
+Huh?<Delay 30>
 Th-That's absurd!<New>
 There's no way the
 flagship's main gun can

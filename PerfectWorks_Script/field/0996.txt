@@ -312,7 +312,7 @@ Imperial City Guard
 "That's strange<Delay 5>...<Delay 15> Haven't
 I seen you somewhere before?<Delay 30>
 Hmm, I must have the wrong 
-person<Delay 5>...<Delay 5> Errh, sorry."<Close><End of Block>
+person<Delay 5>...<Delay 5> Ahh, sorry."<Close><End of Block>
 <TextBlock 61 w:56 h:6>
 Imperial City Guard
 "Because martial law has

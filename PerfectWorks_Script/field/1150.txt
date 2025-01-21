@@ -181,29 +181,28 @@ Where you're concerned...
 I guess they see me as
 something of a killjoy,<Delay 10>
 right?"<Close><End of Block>
-<TextBlock 35 w:32 h:3>
+<TextBlock 35 w:40 h:3>
 Ramsus
 "Out of the way!<Delay 30>
-Let me through!<New>
-That bastard!<Delay 30>
-I'll hunt him
-out myself...!"<Close><End of Block>
+I'm going!<Delay 10> I am!<New>
+Whatever it takes!<Delay 30>
+I'll track him down,
+and I'll...!"<Close><End of Block>
 <TextBlock 36 w:36 h:3>
 Cherubina
 "Please calm down,
 Commander!"<Close><End of Block>
-<TextBlock 37 w:42 h:3>
+<TextBlock 37 w:36 h:3>
 Throne
-"We'll take care of
-him and his friends!"<Close><End of Block>
-<TextBlock 38 w:50 h:4>
+"We'll handle him
+and his friends!"<Close><End of Block>
+<TextBlock 38 w:52 h:4>
 Ramsus
-"What could you fools do?
-Imbeciles!<Delay 50>
-Only I can beat him!<New>
-Only I, who transcends
-all other humans, can
-possibly take him down!"<Close><End of Block>
+"What do you think you
+could do!? You failures!<Delay 50>
+Only I can take him down!<New>
+Only I who has transcended
+all other humans...!"<Close><End of Block>
 <TextBlock 39 w:16 h:2>
 Ramsus
 "Move!!"<Opcode 2 50><Close><End of Block>

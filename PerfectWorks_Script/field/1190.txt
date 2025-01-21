@@ -7,7 +7,7 @@ talk to me?"<Close><End of Block>
 Bart
 "Um...<Delay 5> About my shooting
 down the Goliath...<Delay 10> I'm,<Delay 5>
-errh,<Delay 5> really,<Delay 5> errh<Delay 5>..."<Close><End of Block>
+uhhh,<Delay 5> really,<Delay 5> uhhh<Delay 5>..."<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Citan
 "Oh, is that it?

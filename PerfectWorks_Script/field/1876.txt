@@ -1,18 +1,18 @@
 <TextBlock 1 w:16 h:2>
 Fei
 "Hmm..."<Close><End of Block>
-<TextBlock 2 w:46 h:4>
+<TextBlock 2 w:48 h:4>
 Fei
 "I think I saw some
-info. about this on the
-terminal above us..."<Close><End of Block>
-<TextBlock 3 w:30 h:2>
-Anima Vessel has
-been released.<Close><End of Block>
-<TextBlock 4 w:30 h:1>
-Enter the code.<Close><End of Block>
+info about this on the
+upper-level terminal..."<Close><End of Block>
+<TextBlock 3 w:36 h:2>
+Vessel of Anima
+has been released.<Close><End of Block>
+<TextBlock 4 w:36 h:1>
+Enter code number.<Close><End of Block>
 <TextBlock 5 w:20 h:11>
-<Opcode 1 255>ADDRESS A
+<Opcode 1 255>Address A
     1
     2
     3
@@ -22,7 +22,7 @@ Enter the code.<Close><End of Block>
     7
     8
     9
-    CANCEL<Close><End of Block>
+    Cancel<Close><End of Block>
 <TextBlock 6 w:50 h:2>
 <Opcode 1 255>That number is locked.
 Enter a different number.<Close><End of Block>
@@ -38,13 +38,13 @@ Enter a different number.<Close><End of Block>
 <TextBlock 10 w:50 h:2>
 <Opcode 1 255>That number is locked.
 Enter a different number.<Close><End of Block>
-<TextBlock 11 w:30 h:2>
-Anima Vessel has
-been released.<Close><End of Block>
-<TextBlock 12 w:30 h:1>
-Enter the code.<Close><End of Block>
+<TextBlock 11 w:36 h:2>
+Vessel of Anima
+has been released.<Close><End of Block>
+<TextBlock 12 w:36 h:1>
+Enter code number.<Close><End of Block>
 <TextBlock 13 w:20 h:11>
-<Opcode 1 255>ADDRESS B
+<Opcode 1 255>Address B
     1
     2
     3
@@ -54,7 +54,7 @@ Enter the code.<Close><End of Block>
     7
     8
     9
-    CANCEL<Close><End of Block>
+    Cancel<Close><End of Block>
 <TextBlock 14 w:50 h:2>
 <Opcode 1 255>That number is locked.
 Enter a different number.<Close><End of Block>
@@ -70,13 +70,13 @@ Enter a different number.<Close><End of Block>
 <TextBlock 18 w:50 h:2>
 <Opcode 1 255>That number is locked.
 Enter a different number.<Close><End of Block>
-<TextBlock 19 w:30 h:2>
-Anima Vessel has
-been released.<Close><End of Block>
-<TextBlock 20 w:30 h:1>
-Enter the code.<Close><End of Block>
+<TextBlock 19 w:36 h:2>
+Vessel of Anima
+has been released.<Close><End of Block>
+<TextBlock 20 w:36 h:1>
+Enter code number.<Close><End of Block>
 <TextBlock 21 w:20 h:11>
-<Opcode 1 255>ADDRESS C
+<Opcode 1 255>Address C
     1
     2
     3
@@ -86,7 +86,7 @@ Enter the code.<Close><End of Block>
     7
     8
     9
-    CANCEL<Close><End of Block>
+    Cancel<Close><End of Block>
 <TextBlock 22 w:50 h:2>
 <Opcode 1 255>That number is locked.
 Enter a different number.<Close><End of Block>
@@ -102,13 +102,13 @@ Enter a different number.<Close><End of Block>
 <TextBlock 26 w:50 h:2>
 <Opcode 1 255>That number is locked.
 Enter a different number.<Close><End of Block>
-<TextBlock 27 w:30 h:2>
-Anima Vessel has
-been released.<Close><End of Block>
-<TextBlock 28 w:30 h:1>
-Enter the code.<Close><End of Block>
+<TextBlock 27 w:36 h:2>
+Vessel of Anima
+has been released.<Close><End of Block>
+<TextBlock 28 w:36 h:1>
+Enter code number.<Close><End of Block>
 <TextBlock 29 w:20 h:11>
-<Opcode 1 255>ADDRESS D
+<Opcode 1 255>Address D
     1
     2
     3
@@ -118,7 +118,7 @@ Enter the code.<Close><End of Block>
     7
     8
     9
-    CANCEL<Close><End of Block>
+    Cancel<Close><End of Block>
 <TextBlock 30 w:50 h:2>
 <Opcode 1 255>That number is locked.
 Enter a different number.<Close><End of Block>
@@ -134,12 +134,12 @@ Enter a different number.<Close><End of Block>
 <TextBlock 34 w:50 h:2>
 <Opcode 1 255>That number is locked.
 Enter a different number.<Close><End of Block>
-<TextBlock 35 w:30 h:2>
-Anima Vessel has
-been released.<Close><End of Block>
+<TextBlock 35 w:36 h:2>
+Vessel of Anima
+has been released.<Close><End of Block>
 <TextBlock 36 w:52 h:3>
-    <Opcode 1 255>Current Code Condition
-    Code Address
+    <Opcode 1 255>Current code entries
+    Code addresses
     Release lock<Close><End of Block>
 <TextBlock 37 w:68 h:5>
 <Opcode 1 255>       <Opcode 10 1>
@@ -153,31 +153,35 @@ been released.<Close><End of Block>
    A 6 7 3 C 
        1
        D<Close><End of Block>
-<TextBlock 39 w:42 h:1>
-Anima Vessel Released!<Close><End of Block>
-<TextBlock 40 w:36 h:2>
-Ride in the center
-of the lift.<Close><End of Block>
-<TextBlock 41 w:42 h:1>
-Anima Vessel Released!<Close><End of Block>
-<TextBlock 42 w:36 h:2>
-Ride in the center
-of the lift.<Close><End of Block>
-<TextBlock 43 w:42 h:1>
-Anima Vessel Released!<Close><End of Block>
-<TextBlock 44 w:36 h:2>
-Ride in the center
-of the lift.<Close><End of Block>
-<TextBlock 45 w:42 h:1>
-Anima Vessel Released!<Close><End of Block>
-<TextBlock 46 w:36 h:2>
-Ride in the center
-of the lift<Close><End of Block>
-<TextBlock 47 w:42 h:1>
-Incorrect code error!<Close><End of Block>
+<TextBlock 39 w:30 h:2>
+Vessel of Anima
+released.<Close><End of Block>
+<TextBlock 40 w:30 h:2>
+Please take the
+central lift.<Close><End of Block>
+<TextBlock 41 w:30 h:2>
+Vessel of Anima
+released.<Close><End of Block>
+<TextBlock 42 w:30 h:2>
+Please take the
+central lift.<Close><End of Block>
+<TextBlock 43 w:30 h:2>
+Vessel of Anima
+released.<Close><End of Block>
+<TextBlock 44 w:30 h:2>
+Please take the
+central lift.<Close><End of Block>
+<TextBlock 45 w:30 h:2>
+Vessel of Anima
+released.<Close><End of Block>
+<TextBlock 46 w:30 h:2>
+Please take the
+central lift.<Close><End of Block>
+<TextBlock 47 w:22 h:1>
+Code error.<Close><End of Block>
 <TextBlock 48 w:16 h:2>
     UP
     DOWN<Close><End of Block>
-<TextBlock 49 w:50 h:2>
-'0' is the default value.
+<TextBlock 49 w:52 h:2>
+A '0' is an initial value.
 Please ignore it.<Close><Close><End of Block>

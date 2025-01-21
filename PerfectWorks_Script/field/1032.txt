@@ -555,7 +555,7 @@ prepared now?<Delay 15> There is no
 turning back after this!"<Close><End of Block>
 <TextBlock 97 w:52 h:4>
 Fei
-"Well,  I errh..."<Delay 10>
+"Well, I..."<Delay 10>
 <Opcode 1 255>    Still got stuff to do!
     I am totally prepared!<Close><End of Block>
 <TextBlock 98 w:48 h:4>
@@ -1144,7 +1144,7 @@ have you made up
 your mind yet?"<Close><End of Block>
 <TextBlock 191 w:54 h:3>
 Fei
-"Yes, well, errh, let's<Delay 5>..."<New>
+"Yes, well, ummm, let's<Delay 5>..."<New>
 <Opcode 1 255>    Wait a bit longer!
     Do it now, Doc!
     Forget about it!<Close><End of Block>
@@ -1223,7 +1223,7 @@ Fei
 behind your back?"<Close><End of Block>
 <TextBlock 206 w:48 h:4>
 Citan
-"Huh? Oh, err<Delay 5>...<Delay 5>
+"Huh? Oh, uhh<Delay 5>...<Delay 5>
 It is nothing, Fei.
 Hahaha, nothing at all!"<Close><End of Block>
 <TextBlock 207 w:52 h:4>
@@ -1244,7 +1244,7 @@ We are going to take the
 whole thing off anyway!"<Close><End of Block>
 <TextBlock 210 w:56 h:4>
 Citan
-"<Delay 5>...<Delay 5>Err, well, Fei<Delay 5>...<Delay 5>
+"<Delay 5>...<Delay 5>Umm, well, Fei<Delay 5>...<Delay 5>
 What I just removed was 
 the bomb's safety device<Delay 5>..."<Close><End of Block>
 <TextBlock 211 w:36 h:3>

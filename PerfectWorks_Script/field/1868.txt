@@ -1,26 +1,27 @@
-<TextBlock 1 w:36 h:2>
-Central elevator's
-lock is released.<Close><End of Block>
-<TextBlock 2 w:36 h:3>
-Booting up the
-central elevator's
-lock system.<Close><End of Block>
-<TextBlock 3 w:42 h:2>
-Releasing the central
-elevator's lock...<Close><End of Block>
+<TextBlock 1 w:32 h:2>
+Central elevator
+is unlocked.<Close><End of Block>
+<TextBlock 2 w:32 h:3>
+Central elevator
+lock system
+activated.<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Releasing central
+elevator lock.<Close><End of Block>
 <TextBlock 4 w:10 h:1>
 Done!<Close><End of Block>
 <TextBlock 5 w:50 h:4>
-To unlock Anima Vessel: <New>
-Lock-off codes must be
-inputted into terminals
-A to D which are situated
-around this area.<New>
-Upon completion, the main
-system will be engaged.<Close><End of Block>
-<TextBlock 6 w:54 h:4>
-Anima Vessel lock off code: <New>
-Input numbers so the
-vertical and horizontal
-sums are equal without
-reusing the same numbers.<Close><Close><End of Block>
+To release the lock on
+the Vessel of Anima,<New>
+input the unlock code's
+numerical values into
+terminals A to D dotted
+around its vicinity,<New>
+after which the main
+system will be activated.<Close><End of Block>
+<TextBlock 6 w:60 h:5>
+Enter the Vessel of Anima's
+unlock code such that the sums
+of the vertical and horizontal
+values are equal, without
+using the same number twice.<Close><Close><End of Block>

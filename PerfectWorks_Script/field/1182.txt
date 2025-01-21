@@ -295,7 +295,7 @@ The three of us together!"<Close><End of Block>
 Citan
 "!!<Delay 10>
 Well, actually, we are
-in a hurry, so, errh...<New>
+in a hurry, so, uhhh...<New>
 We will talk about that
 some other time..."<Close><End of Block>
 <TextBlock 44 w:40 h:3>
@@ -357,7 +357,7 @@ This is a great bar you've
 got here...old codger!"<Close><End of Block>
 <TextBlock 55 w:26 h:4>
 Maison
-"Why, errh...
+"Why, uhhh...
 thank you,
 my good man."<Close><End of Block>
 <TextBlock 56 w:52 h:4>
@@ -788,7 +788,7 @@ come out and say
 'thank you'?<Delay 10> Jeez!"<Close><End of Block>
 <TextBlock 123 w:46 h:4>
 Billy
-"Uh...<Delay 10>errh...<Delay 10>well...<New>
+"Uh...<Delay 10>uhhh...<Delay 10>well...<New>
 it's not like you've
 been a help to us yet,<Delay 10>
 so I won't say it!"<Close><End of Block>
