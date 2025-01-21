@@ -55,10 +55,18 @@ void romFinder::searchCD(std::string path) {
 													if (val == 178) {
 														discNum = 1;
 														discFound = true;
+														fileSize = std::filesystem::file_size(path);
+														if (fileSize != 718738272) {
+															xenoFound = false;
+														}
 													}
 													else if (val == 207) {
 														discNum = 2;
 														discFound = true;
+														fileSize = std::filesystem::file_size(path);
+														if (fileSize != 688700880) {
+															xenoFound = false;
+														}
 													}
 													break;
 												}

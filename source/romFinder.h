@@ -26,6 +26,7 @@ public:
 	bool xenoFound = false;
 	bool discFound = false;
 	int discNum = 0;
+	int fileSize = 0;
 	unsigned char buffer;
 };
 
