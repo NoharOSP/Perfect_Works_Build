@@ -11,7 +11,6 @@
 #include <vector>
 #include <cstdlib>
 #include <cstdio>
-#include "createROM.h"
 #include <direct.h>
 
 #define MAX_LOADSTRING 100
@@ -33,13 +32,14 @@ int winX = 800;
 int winY = 600;
 int id;
 int workingDisc;
-float qolx = 0.03;
-float balancex = 0.15;
-float arenax = 0.30;
-float storyx = 0.45;
-float expx = 0.60;
-float miscx = 0.75;
-float smx = 0.85;
+int InsertTab(HWND TabController, const ustring& txt, int item_index, int image_index, UINT mask);
+int tabNo;
+float graphicsx = 0.03;
+float gameplayx = 0.23;
+float arenax = 0.43;
+float storyx = 0.63;
+float audiox = 0.83;
+float smx = 0.03;
 bool pathFound1 = false;
 bool pathFound2 = false;
 bool p_encounters = false;
@@ -103,6 +103,8 @@ std::string noEncountersName2 = "";
 std::string zeroHPName1 = "";
 std::string zeroHPName2 = "";
 std::vector<HWND> globalWindList;
+std::vector<HWND> generalWindList;
+std::vector<HWND> miscWindList;
 std::vector<std::string> patchList1;
 std::vector<std::string> patchList2;
 HWND window;
@@ -125,23 +127,28 @@ HWND all;
 HWND fmvs;
 HWND graphics;
 HWND voice;
-HWND noEncounters;
-HWND zeroHP;
+HWND storyMode;
 HWND hwndPB;
 HWND normalarena;
+HWND CreateTabController(HWND hParent, HINSTANCE hInst, DWORD dwStyle, const RECT& rc, const int id);
+HWND tc;
 RECT rcWindow;
+RECT rc;
 TOOLINFO toolInfo;
 HDC hdc;
 TCHAR cd1text[256];
 TCHAR cd2text[256];
-TCHAR qoltext[256];
-TCHAR balancetext[256];
+TCHAR graphicstext[256];
+TCHAR gameplaytext[256];
 TCHAR storytext[256];
 TCHAR arenatext[256];
-TCHAR exptext[256];
-TCHAR misctext[256];
-TCHAR smtext[256];
+TCHAR audiotext[256];
 std::ofstream cue_stream;
+void DestroyTabs(const HWND hWnd);
+void removeGeneralButtons();
+void removeMiscButtons();
+void generalButtonCustomiser(HWND hWnd);
+void miscButtonCustomiser(HWND hWnd);
 
 // Global methods
 

@@ -108,6 +108,18 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 	{
 		return FALSE;
 	}
+
+	// Create tabs
+
+	rc = { 0, 0, 0, 0 };
+	StartCommonControls(ICC_TAB_CLASSES);
+	tc = CreateTabController(hWnd, hInst, TCS_FIXEDWIDTH, rc, IDC_TAB);
+	SetWindowLongPtr(hWnd, GWLP_USERDATA, reinterpret_cast<LONG_PTR>(tc));
+	InsertTab(tc, _T("General"), 0, 0, TCIF_TEXT | TCIF_IMAGE);
+	InsertTab(tc, _T("Modes"), 1, 1, TCIF_TEXT | TCIF_IMAGE);
+	SendMessage(tc, WM_SETFONT, reinterpret_cast<WPARAM>(GetStockObject(DEFAULT_GUI_FONT)), 0);
+	tabNo = 1;
+
 	ShowWindow(hWnd, nCmdShow);
 	UpdateWindow(hWnd);
 
@@ -796,11 +808,40 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	}
 	break;
 	case WM_DESTROY:
+		// Close tabs
+		DestroyTabs(hWnd);
 		PostQuitMessage(0);
 		break;
 	case WM_NOTIFY:
-		
+		// Manage tabs
+		if (((LPNMHDR)lParam)->code == TCN_SELCHANGE)
+		{
+			int tabID = TabCtrl_GetCurSel(tc);
+			switch (tabID)
+			{
+			case 0:
+				removeMiscButtons();
+				generalButtonCustomiser(hWnd);
+				tabNo = 1;
+				break;
+			case 1:
+				removeGeneralButtons();
+				miscButtonCustomiser(hWnd);
+				tabNo = 2;
+				break;
+			default:
+				break;
+			}
+		}
 	case WM_CTLCOLORSTATIC:
+		// Colour tab windows
+		if (std::find(generalWindList.begin(), generalWindList.end(), (HWND)lParam) != generalWindList.end()) {
+			return (LONG)GetStockObject(WHITE_BRUSH);
+		}
+		if (std::find(miscWindList.begin(), miscWindList.end(), (HWND)lParam) != miscWindList.end()) {
+			return (LONG)GetStockObject(WHITE_BRUSH);
+		}
+		break;
 	default:
 		return DefWindowProc(hWnd, message, wParam, lParam);
 	}
@@ -1071,7 +1112,7 @@ void tooltipTextMaker(HWND hWnd) {
 		"native aspect ratio. If your emulator or\n"
 		"scaler is already applying a correction\n"
 		"to the game's overall aspect ratio or\n"
-		"using a texture hack, you may NOT need\n"
+		"using a texture hack, you may not need\n"
 		"this fix.";
 	HWND tt_portraits = toolGenerator(text_portraits, hWnd, portraits);
 	char text_fmvs[] =
@@ -1095,13 +1136,11 @@ void tooltipTextMaker(HWND hWnd) {
 		"Uses the Battle Arena balancing\n"
 		"from the base game.\n";
 	HWND tt_narena = toolGenerator(text_narena, hWnd, normalarena);
-	char text_no_encounters[] =
-		"Turns off random encounters entirely.";
-	HWND tt_no_encounters = toolGenerator(text_no_encounters, hWnd, noEncounters);
-	char text_zeroHP[] =
-		"Ensures that all enemies in the game\n"
+	char text_story_mode[] =
+		"Turns off random encounters entirely"
+		"and ensures all enemies in the game\n"
 		"can be killed in one hit.\n";
-	HWND tt_zeroHP = toolGenerator(text_zeroHP, hWnd, zeroHP);
+	HWND tt_story_mode = toolGenerator(text_story_mode, hWnd, storyMode);
 }
 
 // Initialise common controls for parsing large files
@@ -1120,21 +1159,28 @@ void initialiseGlobalWindows(HWND hWnd) {
 	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.15), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
 	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.75), 70, 25, hWnd, (HMENU)104, hInst, NULL);
 	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.25), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
-	encounters = CreateWindow(L"BUTTON", L"1/2 encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX | WS_GROUP, (int)(winX * qolx), (int)(winY * 0.40), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
-	portraits = CreateWindow(L"BUTTON", L"Portrait fix", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * qolx), (int)(winY * 0.47), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
-	graphics = CreateWindow(L"BUTTON", L"Graphical fixes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * qolx), (int)(winY * 0.54), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
-	expgold = CreateWindow(L"BUTTON", L"1.5x exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * balancex), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	monsters = CreateWindow(L"BUTTON", L"Monster changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * balancex), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	basicarena = CreateWindow(L"BUTTON", L"Basic rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON | WS_GROUP, (int)(winX * arenax), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	expertarena = CreateWindow(L"BUTTON", L"Expert rebalance", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	fmvs = CreateWindow(L"BUTTON", L"FMV changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.4), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
-	script = CreateWindow(L"BUTTON", L"Script changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	voice = CreateWindow(L"BUTTON", L"Japanese voices", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.54), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
-	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * expx), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	itemspells = CreateWindow(L"BUTTON", L"Rebalanced items/characters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * expx), (int)(winY * 0.47), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
-	all = CreateWindow(L"BUTTON", L"All patches", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * miscx), (int)(winY * 0.40), 80, 25, hWnd, (HMENU)9002, hInst, NULL);
-	noEncounters = CreateWindow(L"BUTTON", L"No encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * smx), (int)(winY * 0.40), 85, 25, hWnd, (HMENU)9002, hInst, NULL);
-	zeroHP = CreateWindow(L"BUTTON", L"Instant death", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * smx), (int)(winY * 0.47), 85, 25, hWnd, (HMENU)9002, hInst, NULL);
+}
+
+// Define text boxes for the general tab
+void initialiseGeneralWindows(HWND hWnd) {
+	encounters = CreateWindow(L"BUTTON", L"1/2 encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.40), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
+	portraits = CreateWindow(L"BUTTON", L"Resized portraits", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.40), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	graphics = CreateWindow(L"BUTTON", L"Graphical fixes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.47), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	expgold = CreateWindow(L"BUTTON", L"1.5x exp/gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.54), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
+	normalarena = CreateWindow(L"BUTTON", L"Normal", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	basicarena = CreateWindow(L"BUTTON", L"Basic mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	expertarena = CreateWindow(L"BUTTON", L"Expert mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.54), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	fmvs = CreateWindow(L"BUTTON", L"FMV undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.40), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.40), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
+	voice = CreateWindow(L"BUTTON", L"Battle undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.47), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
+	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.61), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
+}
+
+// Define text boxes for the modes tab
+void initialiseMiscWindows(HWND hWnd) {
+	storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * smx), (int)(winY * 0.40), 85, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
 // Define font for global windows
@@ -1147,20 +1193,16 @@ void initialiseGlobalFont() {
 void drawGUIText() {
 	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
 	SelectObject(hdc, hFont);
-	swprintf_s(qoltext, 256, L"QoL:      ");
-	swprintf_s(balancetext, 256, L"Balance:  ");
+	swprintf_s(graphicstext, 256, L"Graphics:      ");
+	swprintf_s(gameplaytext, 256, L"Gameplay:  ");
 	swprintf_s(arenatext, 256, L"Arena:  ");
-	swprintf_s(storytext, 256, L"Script:    ");
-	swprintf_s(exptext, 256, L"Experimental:    ");
-	swprintf_s(misctext, 256, L"Misc:    ");
-	swprintf_s(smtext, 256, L"Story mode:      ");
-	TextOut(hdc, winX * qolx, winY * 0.35, qoltext, wcslen(qoltext));
-	TextOut(hdc, winX * balancex, winY * 0.35, balancetext, wcslen(balancetext));
+	swprintf_s(storytext, 256, L"Story:    ");
+	swprintf_s(audiotext, 256, L"Audio:    ");
+	TextOut(hdc, winX * graphicsx, winY * 0.35, graphicstext, wcslen(graphicstext));
+	TextOut(hdc, winX * gameplayx, winY * 0.35, gameplaytext, wcslen(gameplaytext));
 	TextOut(hdc, winX * arenax, winY * 0.35, arenatext, wcslen(arenatext));
 	TextOut(hdc, winX * storyx, winY * 0.35, storytext, wcslen(storytext));
-	TextOut(hdc, winX * expx, winY * 0.35, exptext, wcslen(exptext));
-	TextOut(hdc, winX * miscx, winY * 0.35, misctext, wcslen(misctext));
-	TextOut(hdc, winX * smx, winY * 0.35, smtext, wcslen(smtext));
+	TextOut(hdc, winX * audiox, winY * 0.35, audiotext, wcslen(audiotext));
 }
 
 void drawGlobalText() {
@@ -1212,7 +1254,7 @@ void applyPatch(int discNum) {
 	list_file.open("list.txt", std::ios::trunc);
 	// Create batch file for xdelta commands
 	std::ofstream batch_file;
-	//batch_file.open("commands.cmd", std::ios::trunc);
+	batch_file.open("commands.cmd", std::ios::trunc);
 	if (!patchList.empty()) {
 		// Create ROMs using xenoiso
 		std::string temp = "temp";
@@ -1365,8 +1407,7 @@ void applyPatch(int discNum) {
 		batch_file << "del \"" + fileName + "\" \n" << std::endl;
 	}
 	list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
-	createROM cr(window, discNum, oldPath, fileName, "list.txt");
-	//batch_file << "xenoiso list.txt\n" << std::endl;
+	batch_file << "xenoiso list.txt\n" << std::endl;
 	if (patched != true) {
 		patched = true;
 	}
