@@ -48,7 +48,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - Purity Light bug has been fixed.
 - Script up to Anima Dungeon 1 has been updated.
 - Myyah's restore status has been fixed.
-- The patcher can now only accept pre-patched files.
+- The patcher can now only accept un-patched files.
 - Yggdrasil's attack modifier has doubled along with the other gears.
 
 ### Version 0.5.3:
