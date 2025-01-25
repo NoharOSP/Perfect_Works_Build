@@ -1,10 +1,11 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.5.3 here:
+Download version 0.5.4 here:
+- MEGA: https://mega.nz/file/fOgHFa4I#GaJxPOARCKcyeNKKLtIevAN2Z03z9fAXEvj5uJrcP20
+- Google Drive: https://drive.google.com/file/d/1GGRIPglhy3FvgBXxtszPCqkP3WvJsyKu/view?usp=sharing
 
-- MEGA: https://mega.nz/file/vCoRyYpb#fGgZHw1CUHgfF0WlCz-_yiyplTdMm5o0nm3W8WJLrVU
-- Google Drive: https://drive.google.com/file/d/1yMAACrDOwI8I1sUsYkk-1IWTOA5w2oJ9/view?usp=sharing
+Disclaimer: The patcher only works with Windows 7 - 10. Ongoing progress is being made towards Windows 11 compatibility.
   
 ## Instructions:
 
@@ -18,7 +19,7 @@ Download version 0.5.3 here:
 ## Completion stats:
 
 - Name/terminology changes: 100%
-- Main script: 75% (finished the Soylent System sequence)
+- Main script: 78% (finished Anima Dungeon 1)
 - NPC script: Not done (except for name/terminology changes)
 
 ## Introduction:
@@ -30,6 +31,25 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.5.4:
+
+01/24/2025
+
+- Weltall and Xenogears have received an attack increase. Details are in the wiki.
+- The halved encounters patch now applies to the world map.
+- Alpha Weltall is now called Original Weltall.
+- Typos in Karellen's conversation with Lacan in the disc 1 flashback have been fixed.
+- Sufal Mass' original power has been restored and its HP has been corrected.
+- Ether Ar +3's weight has been adjusted. Details are in the wiki.
+- The patcher no longer describes ECCRegen as it is no longer needed.
+- Raziel's Tree Original Weltall has had an HP buff. Details are in the wiki.
+- Option to use the vanilla Battle Arena has been added.
+- Purity Light bug has been fixed.
+- Script up to Anima Dungeon 1 has been updated.
+- Myyah's restore status has been fixed.
+- The patcher can now only accept pre-patched files.
+- Yggdrasil's attack modifier has doubled along with the other gears.
 
 ### Version 0.5.3:
 
@@ -572,6 +592,11 @@ A) Yes, but apply the battle flash patch first before using the Perfect Works Bu
 
 ### Builds:
 
+#### Version 0.5.3:
+
+- MEGA: https://mega.nz/file/vCoRyYpb#fGgZHw1CUHgfF0WlCz-_yiyplTdMm5o0nm3W8WJLrVU
+- Google Drive: https://drive.google.com/file/d/1yMAACrDOwI8I1sUsYkk-1IWTOA5w2oJ9/view?usp=sharing
+
 #### Version 0.5.2:
 
 - MEGA: https://mega.nz/file/TTwxGIoQ#hyextkYHqFIdzUvE7ZJMjMAp-U0HvyGvUD_K6oqiEuY
@@ -856,6 +881,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - krmine
 - edrovinhaz
 - Streetwize
+- Siris
 - Nohar
 
 ### Testing:
