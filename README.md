@@ -1,11 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
 
-Download version 0.5.4 here:
-- MEGA: https://mega.nz/file/fOgHFa4I#GaJxPOARCKcyeNKKLtIevAN2Z03z9fAXEvj5uJrcP20
-- Google Drive: https://drive.google.com/file/d/1GGRIPglhy3FvgBXxtszPCqkP3WvJsyKu/view?usp=sharing
-
-Disclaimer: The patcher only works with Windows 7 - 10. Ongoing progress is being made towards Windows 11 compatibility.
+Download version 0.5.5 here:
+- MEGA: https://mega.nz/file/ieg3VLyb#fn2QDO8EFHp6patm0dRSPg_5yFh0JaYR_D6Pl9HEy6A
+- Google Drive: https://drive.google.com/file/d/13FO5xCJ1CaRe96eF3HkAs8NKhsRoRqAo/view?usp=sharing
   
 ## Instructions:
 
@@ -31,6 +29,14 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.5.5:
+
+02/05/2025
+
+- Original Weltall's text box no longer overlaps.
+- Fix bug with Sufal Mass when the exp/gold patch is used where it provides an abnormally large experience yield.
+- Weltall 2's frame descriptions no longer have dashes.
 
 ### Version 0.5.4:
 
@@ -591,6 +597,11 @@ A) Yes, but apply the battle flash patch first before using the Perfect Works Bu
 ## Archive:
 
 ### Builds:
+
+#### Version 0.5.4:
+
+- MEGA: https://mega.nz/file/fOgHFa4I#GaJxPOARCKcyeNKKLtIevAN2Z03z9fAXEvj5uJrcP20
+- Google Drive: https://drive.google.com/file/d/1GGRIPglhy3FvgBXxtszPCqkP3WvJsyKu/view?usp=sharing
 
 #### Version 0.5.3:
 
