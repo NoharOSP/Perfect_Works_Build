@@ -1267,7 +1267,7 @@ void applyPatch(int discNum) {
 			batch_file << "del \"" + fileName + "\" \n" << std::endl;
 		}
 		list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
-		batch_file << "xenoiso list.txt\n" << std::endl;
+		batch_file << "xenoiso list.txt -d\n" << std::endl;
 		if (patched != true) {
 			patched = true;
 		}
