@@ -316,20 +316,20 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			else {
 				p_voice = false;
 			}
-			LRESULT noencticked = SendMessage(noEncounters, BM_GETCHECK, NULL, NULL);
+			/*LRESULT noencticked = SendMessage(noEncounters, BM_GETCHECK, NULL, NULL);
 			if (noencticked == BST_CHECKED) {
 				p_no_encounters = true;
 			}
 			else {
 				p_no_encounters = false;
-			}
-			LRESULT zeroHPticked = SendMessage(zeroHP, BM_GETCHECK, NULL, NULL);
+			}*/
+			/*LRESULT zeroHPticked = SendMessage(zeroHP, BM_GETCHECK, NULL, NULL);
 			if (zeroHPticked == BST_CHECKED) {
 				p_zero_HP = true;
 			}
 			else {
 				p_zero_HP = false;
-			}
+			}*/
 			LRESULT allticked = SendMessage(all, BM_GETCHECK, NULL, NULL);
 			if (allticked == BST_CHECKED) {
 				p_script = true;
@@ -876,6 +876,10 @@ void initialiseGlobalButtonList() {
 	globalWindList.emplace_back(browsebutton2);
 	globalWindList.emplace_back(aboutbutton);
 	globalWindList.emplace_back(patchbutton);
+}
+
+// Initialise general button list
+void initialiseGeneralButtonList() {
 	globalWindList.emplace_back(encounters);
 	globalWindList.emplace_back(fasttext);
 	globalWindList.emplace_back(portraits);
@@ -888,10 +892,13 @@ void initialiseGlobalButtonList() {
 	globalWindList.emplace_back(fmvs);
 	globalWindList.emplace_back(graphics);
 	globalWindList.emplace_back(voice);
-	globalWindList.emplace_back(noEncounters);
-	globalWindList.emplace_back(zeroHP);
 	globalWindList.emplace_back(all);
 	globalWindList.emplace_back(normalarena);
+}
+
+// Initialise mode button list
+void initialiseMiscButtonList() {
+	globalWindList.emplace_back(storyMode);
 }
 
 // Initialise patch list
@@ -922,10 +929,6 @@ void initialisePatchLists() {
 	patchList2.emplace_back(titleName2);
 	patchList1.emplace_back(voiceName1);
 	patchList2.emplace_back(voiceName2);
-	patchList1.emplace_back(noEncountersName1);
-	patchList2.emplace_back(noEncountersName2);
-	patchList1.emplace_back(zeroHPName1);
-	patchList2.emplace_back(zeroHPName2);
 }
 
 // Lock checkboxes until a bin file has been found
@@ -1143,12 +1146,36 @@ void tooltipTextMaker(HWND hWnd) {
 	HWND tt_story_mode = toolGenerator(text_story_mode, hWnd, storyMode);
 }
 
+HWND CreateTabController(HWND hParent, HINSTANCE hInst, DWORD dwStyle, const RECT& rc, const int id)
+{
+	dwStyle |= WS_CHILD | WS_VISIBLE | WS_CLIPSIBLINGS;
+	return CreateWindowEx(0, WC_TABCONTROL, 0, dwStyle, rc.left, rc.top, rc.right, rc.bottom, hParent,
+		reinterpret_cast<HMENU>(static_cast<INT_PTR>(id)), hInst, 0);
+}
+
 // Initialise common controls for parsing large files
 void StartCommonControls(DWORD flags) {
 	INITCOMMONCONTROLSEX iccx;
 	iccx.dwSize = sizeof(INITCOMMONCONTROLSEX);
 	iccx.dwICC = flags;
 	InitCommonControlsEx(&iccx);
+}
+
+int InsertTab(HWND TabController, const ustring& txt, int item_index, int image_index, UINT mask) {
+	std::vector<TCHAR> tmp(txt.begin(), txt.end());
+	tmp.push_back(_T('\0'));
+	TCITEM tabPage = { 0 };
+	tabPage.mask = mask;
+	tabPage.pszText = &tmp[0];
+	tabPage.cchTextMax = static_cast<int>(txt.length());
+	tabPage.iImage = image_index;
+	return static_cast<int>(SendMessage(TabController, TCM_INSERTITEM, item_index, reinterpret_cast<LPARAM>(&tabPage)));
+}
+
+void DestroyTabs(const HWND hWnd) {
+	HWND tc = reinterpret_cast<HWND>(static_cast<LONG_PTR>(GetWindowLongPtr(hWnd, GWLP_USERDATA)));
+	HIMAGELIST hImages = reinterpret_cast<HIMAGELIST>(SendMessage(tc, TCM_GETIMAGELIST, 0, 0));
+	ImageList_Destroy(hImages);
 }
 
 // Define global windows
@@ -1190,19 +1217,85 @@ void initialiseGlobalFont() {
 	}
 }
 
+// Define font for general windows
+void initialiseGeneralFont() {
+	for (int i = 0; i < generalWindList.size(); i++) {
+		SendMessage(generalWindList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
+	}
+}
+
+// Define font for mode windows
+void initialiseMiscFont() {
+	for (int i = 0; i < miscWindList.size(); i++) {
+		SendMessage(miscWindList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
+	}
+}
+
+// Initialise settings for general tab
+void generalButtonCustomiser(HWND hWnd) {
+	initialiseGeneralWindows(hWnd);
+	initialiseGeneralButtonList();
+	initialiseGeneralFont();
+	checkboxLock();
+	patchBoxLock();
+	tooltipTextMaker(hWnd);
+}
+
+// Initialise settings for mode tab
+void miscButtonCustomiser(HWND hWnd) {
+	initialiseMiscWindows(hWnd);
+	initialiseMiscButtonList();
+	initialiseMiscFont();
+	checkboxLock();
+	patchBoxLock();
+	tooltipTextMaker(hWnd);
+}
+
+// Hide general buttons
+void removeGeneralButtons() {
+	ShowWindow(encounters, SW_HIDE);
+	ShowWindow(fasttext, SW_HIDE);
+	ShowWindow(portraits, SW_HIDE);
+	ShowWindow(basicarena, SW_HIDE);
+	ShowWindow(expertarena, SW_HIDE);
+	ShowWindow(expgold, SW_HIDE);
+	ShowWindow(itemspells, SW_HIDE);
+	ShowWindow(monsters, SW_HIDE);
+	ShowWindow(script, SW_HIDE);
+	ShowWindow(fmvs, SW_HIDE);
+	ShowWindow(graphics, SW_HIDE);
+	ShowWindow(normalarena, SW_HIDE);
+	ShowWindow(voice, SW_HIDE);
+}
+
+// Hide misc buttons
+void removeMiscButtons() {
+	ShowWindow(storyMode, SW_HIDE);
+}
+
 void drawGUIText() {
+	hdc = GetDC(tc);
 	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
 	SelectObject(hdc, hFont);
-	swprintf_s(graphicstext, 256, L"Graphics:      ");
-	swprintf_s(gameplaytext, 256, L"Gameplay:  ");
-	swprintf_s(arenatext, 256, L"Arena:  ");
-	swprintf_s(storytext, 256, L"Story:    ");
-	swprintf_s(audiotext, 256, L"Audio:    ");
-	TextOut(hdc, winX * graphicsx, winY * 0.35, graphicstext, wcslen(graphicstext));
-	TextOut(hdc, winX * gameplayx, winY * 0.35, gameplaytext, wcslen(gameplaytext));
-	TextOut(hdc, winX * arenax, winY * 0.35, arenatext, wcslen(arenatext));
-	TextOut(hdc, winX * storyx, winY * 0.35, storytext, wcslen(storytext));
-	TextOut(hdc, winX * audiox, winY * 0.35, audiotext, wcslen(audiotext));
+	// Draw text for general tab
+	if (tabNo == 1) {
+		swprintf_s(graphicstext, 256, L"Graphics:      ");
+		swprintf_s(gameplaytext, 256, L"Gameplay:  ");
+		swprintf_s(arenatext, 256, L"Arena:  ");
+		swprintf_s(storytext, 256, L"Story:    ");
+		swprintf_s(audiotext, 256, L"Audio:    ");
+		TextOut(hdc, winX * graphicsx, winY * 0.35, graphicstext, wcslen(graphicstext));
+		TextOut(hdc, winX * gameplayx, winY * 0.35, gameplaytext, wcslen(gameplaytext));
+		TextOut(hdc, winX * arenax, winY * 0.35, arenatext, wcslen(arenatext));
+		TextOut(hdc, winX * storyx, winY * 0.35, storytext, wcslen(storytext));
+		TextOut(hdc, winX * audiox, winY * 0.35, audiotext, wcslen(audiotext));
+	}
+	// Draw text for modes tab
+	if (tabNo == 2) {
+		swprintf_s(storytext, 256, L"Story:    ");
+		TextOut(hdc, winX * graphicsx, winY * 0.35, storytext, wcslen(storytext));
+	}
+	ReleaseDC(tc, hdc);
 }
 
 void drawGlobalText() {
