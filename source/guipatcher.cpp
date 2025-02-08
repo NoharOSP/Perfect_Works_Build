@@ -1493,17 +1493,16 @@ void applyPatch(int discNum) {
 				patched = true;
 			}
 		}
-	}
-	if (patched == true) {
-		oldPath = "backup.bin";
-		batch_file << "copy \"" + fileName + "\" " + oldPath + "\n" << std::endl;
-		batch_file << "del \"" + fileName + "\" \n" << std::endl;
-	}
-	list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
-	batch_file << "xenoiso list.txt\n" << std::endl;
-	if (patched != true) {
-		patched = true;
-	}
+		if (patched == true) {
+			oldPath = "backup.bin";
+			batch_file << "copy \"" + fileName + "\" " + oldPath + "\n" << std::endl;
+			batch_file << "del \"" + fileName + "\" \n" << std::endl;
+		}
+		list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
+		batch_file << "xenoiso list.txt -d\n" << std::endl;
+		if (patched != true) {
+			patched = true;
+		}
 	list_file.close();
 	batch_file.close();
 	// Execute patch file
