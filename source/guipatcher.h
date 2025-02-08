@@ -143,6 +143,7 @@ TCHAR gameplaytext[256];
 TCHAR storytext[256];
 TCHAR arenatext[256];
 TCHAR audiotext[256];
+TCHAR dummy[256];
 std::ofstream cue_stream;
 void DestroyTabs(const HWND hWnd);
 void removeGeneralButtons();

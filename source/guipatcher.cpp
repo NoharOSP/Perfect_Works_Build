@@ -51,6 +51,8 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 		{
 			TranslateMessage(&msg);
 			DispatchMessage(&msg);
+			drawGlobalText();
+			drawGUIText();
 		}
 	}
 
@@ -149,9 +151,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		initialiseGlobalWindows(hWnd);
 		initialiseGlobalButtonList();
 		initialiseGlobalFont();
-		checkboxLock();
-		patchBoxLock();
-		tooltipTextMaker(hWnd);
+		generalButtonCustomiser(hWnd);
 		break;
 	}
 	case WM_SIZE:
@@ -330,20 +330,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			else {
 				p_zero_HP = false;
 			}*/
-			LRESULT allticked = SendMessage(all, BM_GETCHECK, NULL, NULL);
-			if (allticked == BST_CHECKED) {
-				p_script = true;
-				p_fastnew = true;
-				p_encounters = true;
-				p_exp_gold = true;
-				p_items_spells = true;
-				p_monsters = true;
-				p_barena = true;
-				p_portraits = true;
-				p_graphics = true;
-				p_voice = true;
-				p_fmv = true;
-			}
 			// Unlock patch button
 			patchBoxLock();
 		}
@@ -789,8 +775,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		FillRect(hdc, &rc2, (HBRUSH)(COLOR_WINDOW));
 		FrameRect(hdc, &rc1, CreateSolidBrush(RGB(220, 220, 220)));
 		FrameRect(hdc, &rc2, CreateSolidBrush(RGB(220, 220, 220)));
-		drawGlobalText();
-		drawGUIText();
 		EndPaint(hWnd, &ps);
 	}
 	break;
@@ -880,25 +864,25 @@ void initialiseGlobalButtonList() {
 
 // Initialise general button list
 void initialiseGeneralButtonList() {
-	globalWindList.emplace_back(encounters);
-	globalWindList.emplace_back(fasttext);
-	globalWindList.emplace_back(portraits);
-	globalWindList.emplace_back(basicarena);
-	globalWindList.emplace_back(expertarena);
-	globalWindList.emplace_back(expgold);
-	globalWindList.emplace_back(itemspells);
-	globalWindList.emplace_back(monsters);
-	globalWindList.emplace_back(script);
-	globalWindList.emplace_back(fmvs);
-	globalWindList.emplace_back(graphics);
-	globalWindList.emplace_back(voice);
-	globalWindList.emplace_back(all);
-	globalWindList.emplace_back(normalarena);
+	generalWindList.emplace_back(encounters);
+	generalWindList.emplace_back(fasttext);
+	generalWindList.emplace_back(portraits);
+	generalWindList.emplace_back(basicarena);
+	generalWindList.emplace_back(expertarena);
+	generalWindList.emplace_back(expgold);
+	generalWindList.emplace_back(itemspells);
+	generalWindList.emplace_back(monsters);
+	generalWindList.emplace_back(script);
+	generalWindList.emplace_back(fmvs);
+	generalWindList.emplace_back(graphics);
+	generalWindList.emplace_back(voice);
+	generalWindList.emplace_back(all);
+	generalWindList.emplace_back(normalarena);
 }
 
 // Initialise mode button list
 void initialiseMiscButtonList() {
-	globalWindList.emplace_back(storyMode);
+	miscWindList.emplace_back(storyMode);
 }
 
 // Initialise patch list
@@ -939,28 +923,42 @@ void checkboxLock() {
 	}
 	else {
 		found = FALSE;
-		for (int i = 4; i < globalWindList.size(); i++) {
-			LRESULT untick = SendMessage(globalWindList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
+		for (int i = 0; i < generalWindList.size(); i++) {
+			LRESULT untick = SendMessage(generalWindList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
+		}
+		for (int i = 0; i < miscWindList.size(); i++) {
+			LRESULT untick = SendMessage(miscWindList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
 		}
 	}
-	for (int i = 4; i < globalWindList.size(); i++) {
-		EnableWindow(globalWindList[i], found);
+	for (int i = 0; i < generalWindList.size(); i++) {
+		EnableWindow(generalWindList[i], found);
+	}
+	for (int i = 0; i < miscWindList.size(); i++) {
+		EnableWindow(miscWindList[i], found);
 	}
 }
 
 // Lock patch button until a box has been ticked
 void patchBoxLock() {
 	bool checkfound = false;
-	for (int i = 0; i < globalWindList.size(); i++) {
-		LRESULT boxticked = SendMessage(globalWindList[i], BM_GETCHECK, NULL, NULL);
+	for (int i = 0; i < generalWindList.size(); i++) {
+		LRESULT boxticked = SendMessage(generalWindList[i], BM_GETCHECK, NULL, NULL);
 		if (boxticked == BST_CHECKED) {
 			checkfound = true;
-			EnableWindow(patchbutton, true);
+			EnableWindow(patchbutton, TRUE);
+			break;
+		}
+	}
+	for (int i = 0; i < miscWindList.size(); i++) {
+		LRESULT boxticked = SendMessage(miscWindList[i], BM_GETCHECK, NULL, NULL);
+		if (boxticked == BST_CHECKED) {
+			checkfound = true;
+			EnableWindow(patchbutton, TRUE);
 			break;
 		}
 	}
 	if (!checkfound) {
-		EnableWindow(patchbutton, false);
+		EnableWindow(patchbutton, FALSE);
 	}
 }
 
@@ -1292,19 +1290,26 @@ void drawGUIText() {
 	}
 	// Draw text for modes tab
 	if (tabNo == 2) {
-		swprintf_s(storytext, 256, L"Story:    ");
+		swprintf_s(storytext, 256, L"Story:         ");
+		swprintf_s(dummy, 256, L"                  ");
 		TextOut(hdc, winX * graphicsx, winY * 0.35, storytext, wcslen(storytext));
+		TextOut(hdc, winX * gameplayx, winY * 0.35, dummy, wcslen(dummy));
+		TextOut(hdc, winX * arenax, winY * 0.35, dummy, wcslen(dummy));
+		TextOut(hdc, winX * storyx, winY * 0.35, dummy, wcslen(dummy));
+		TextOut(hdc, winX * audiox, winY * 0.35, dummy, wcslen(dummy));
 	}
 	ReleaseDC(tc, hdc);
 }
 
 void drawGlobalText() {
+	hdc = GetDC(tc);
 	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
 	SelectObject(hdc, hFont);
 	swprintf_s(cd1text, 256, L"CD1 File:");
 	swprintf_s(cd2text, 256, L"CD2 File:");
 	TextOut(hdc, winX * 0.0325, winY * 0.05, cd1text, wcslen(cd1text));
 	TextOut(hdc, winX * 0.0325, winY * 0.15, cd2text, wcslen(cd2text));
+	ReleaseDC(tc, hdc);
 }
 
 void applyPatch(int discNum) {
@@ -1330,7 +1335,7 @@ void applyPatch(int discNum) {
 	if (discNum == 2) {
 		fileName = "Xenogears_PW_CD2.bin";
 		cueName = "Xenogears_PW_CD2.cue";
-	    patchList = patchList2;
+		patchList = patchList2;
 		if (space) {
 			oldPath = tempcd2;
 		}
@@ -1503,27 +1508,28 @@ void applyPatch(int discNum) {
 		if (patched != true) {
 			patched = true;
 		}
-	list_file.close();
-	batch_file.close();
-	// Execute patch file
-	int batch_exit_code = system("cmd.exe /c commands.cmd");
-	// Remove batch and backup bin
-	remove("commands.cmd");
-	remove("backup.bin");
-	remove("list.txt");
-	std::filesystem::current_path(filePath);
-	std::filesystem::remove_all("temp");
-	std::filesystem::current_path(home);
-	if (discNum == 1) {
-		std::filesystem::remove("Xenogears1.bin");
+		list_file.close();
+		batch_file.close();
+		// Execute patch file
+		int batch_exit_code = system("cmd.exe /c commands.cmd");
+		// Remove batch and backup bin
+		remove("commands.cmd");
+		remove("backup.bin");
+		remove("list.txt");
+		std::filesystem::current_path(filePath);
+		std::filesystem::remove_all("temp");
+		std::filesystem::current_path(home);
+		if (discNum == 1) {
+			std::filesystem::remove("Xenogears1.bin");
+		}
+		if (discNum == 2) {
+			std::filesystem::remove("Xenogears2.bin");
+		}
+		// Create cue file
+		cue_stream.open(cueName, std::ios::out);
+		cue_stream << "FILE \"" + fileName + "\" BINARY" << "\n";
+		cue_stream << "  TRACK 01 MODE2/2352" << "\n";
+		cue_stream << "    INDEX 01 00:00:00" << "\n";
+		cue_stream.close();
 	}
-	if (discNum == 2) {
-		std::filesystem::remove("Xenogears2.bin");
-	}
-	// Create cue file
-	cue_stream.open(cueName, std::ios::out);
-	cue_stream << "FILE \"" + fileName + "\" BINARY" << "\n";
-	cue_stream << "  TRACK 01 MODE2/2352" << "\n";
-	cue_stream << "    INDEX 01 00:00:00" << "\n";
-	cue_stream.close();
 }
