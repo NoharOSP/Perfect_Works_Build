@@ -806,13 +806,11 @@ For those who want to test a certain section in the game. They use the mcd forma
 
 ### [Quality of Life Features](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Extra-QOL-Features)
 
-### [Items/spells](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Items-&-Spells)
+### [Items/spells](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Items-and-Characters)
 
 ### [Monster stats](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Enemy-Stats)
 
 ### [Script](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Script-Changes)
-
-### [Stat changes](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Stat-Changes)
 
 
 ## Bug fixes:
