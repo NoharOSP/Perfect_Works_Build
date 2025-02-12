@@ -572,7 +572,7 @@ A) Yes! Since this is a direct modification of the gamefile, while the texture r
 
 Q) Can the Xenogears: Perfect Works Build be used with the Undub patch?
 
-A) It can, but the softsubs used for FMVs overlap with the FMV patch.
+A) Unfortunately, due to an undubbed ROM using an altered TOC, it cannot be used with the Perfect Works Build as xenoiso works off the original TOC.
 
 Q) Can the Japanese control scheme patch be used with the Perfect Works Build?
 
