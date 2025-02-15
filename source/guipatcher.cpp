@@ -663,12 +663,12 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				relock();
 				reinitialisePatches();
 				clearText();
-				}
-				else {
-					MessageBox(hWnd, L"Could not find directory for 'patches'. Check repo for latest version.", L"Error", MB_ICONERROR);
-				}
 			}
-			break;
+			else {
+				MessageBox(hWnd, L"Could not find directory for 'patches'. Check repo for latest version.", L"Error", MB_ICONERROR);
+			}
+		}
+		break;
 		case IDM_ABOUT:
 			// Create "About" dialog
 			DialogBox(hInst, MAKEINTRESOURCE(IDD_ABOUTBOX), hWnd, About);
@@ -680,8 +680,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		default:
 			return DefWindowProc(hWnd, message, wParam, lParam);
 		}
-		}
-		break;
+	}
+	break;
 	case WM_PAINT:
 	{
 		PAINTSTRUCT ps;
@@ -730,13 +730,13 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		PostQuitMessage(0);
 		break;
 	case WM_NOTIFY:
-		
+
 	case WM_CTLCOLORSTATIC:
 	default:
 		return DefWindowProc(hWnd, message, wParam, lParam);
 	}
 	return 0;
-	}
+}
 
 // Message handler for about box.
 INT_PTR CALLBACK About(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
@@ -856,7 +856,7 @@ void relock() {
 }
 
 // Removes patch names
-void reinitialisePatches () {
+void reinitialisePatches() {
 	arenaName1 = "";
 	arenaName2 = "";
 	encountersName1 = "";
@@ -927,7 +927,7 @@ HWND CreateToolTip(HWND hParent, HWND hText, HINSTANCE hInst, PTSTR pszText)
 }
 
 // Generate tool tip
-HWND toolGenerator(char* text, HWND hWnd, HWND hText) {	
+HWND toolGenerator(char* text, HWND hWnd, HWND hText) {
 	wchar_t wtext[256];
 	mbstowcs(wtext, text, strlen(text) + 1);
 	LPWSTR ptr = wtext;
@@ -1003,8 +1003,8 @@ void tooltipTextMaker(HWND hWnd) {
 	HWND tt_fmvs = toolGenerator(text_fmvs, hWnd, fmvs);
 	char text_graphics[] =
 		"Fixes graphical bugs with\n"
-		"portraits and the battle UI. If\n" 
-		"you are using a texture hack, you\n" 
+		"portraits and the battle UI. If\n"
+		"you are using a texture hack, you\n"
 		"may NOT need this fix.\n";
 	HWND tt_graphics = toolGenerator(text_graphics, hWnd, graphics);
 	char text_voices[] =
@@ -1106,7 +1106,7 @@ void applyPatch(int discNum) {
 	if (discNum == 2) {
 		fileName = "Xenogears_PW_CD2.bin";
 		cueName = "Xenogears_PW_CD2.cue";
-	    patchList = patchList2;
+		patchList = patchList2;
 		if (space) {
 			oldPath = tempcd2;
 		}
@@ -1118,6 +1118,10 @@ void applyPatch(int discNum) {
 	bool patched = false;
 	// Return to home directory
 	std::filesystem::current_path(home);
+	// Detect if the patched ROM already exists.
+	if (std::filesystem::exists(fileName)) {
+		remove(fileName.c_str());
+	}
 	// Create text file for xenoiso
 	std::ofstream list_file;
 	list_file.open("list.txt", std::ios::trunc);
