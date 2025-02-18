@@ -51,6 +51,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 		{
 			TranslateMessage(&msg);
 			DispatchMessage(&msg);
+			// Draw text
 			drawGlobalText();
 			drawGUIText();
 		}
@@ -757,8 +758,9 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		SetBkMode(hdc, TRANSPARENT);
 		// TODO: Add any drawing code that uses hdc here...
 		SelectObject(hdc, hFont);
-		FillRect(hdc, &ps.rcPaint, (HBRUSH)(COLOR_WINDOW));
+		//FillRect(hdc, &ps.rcPaint, (HBRUSH)(COLOR_WINDOW));
 		GetClientRect(hWnd, &rcWindow);
+		/*
 		RECT rc1, rc2;
 		rc1, rc2 = rcWindow;
 		rc1.top = winY / 50;
@@ -775,6 +777,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		FillRect(hdc, &rc2, (HBRUSH)(COLOR_WINDOW));
 		FrameRect(hdc, &rc1, CreateSolidBrush(RGB(220, 220, 220)));
 		FrameRect(hdc, &rc2, CreateSolidBrush(RGB(220, 220, 220)));
+		*/
 		EndPaint(hWnd, &ps);
 	}
 	break;
@@ -804,14 +807,22 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			switch (tabID)
 			{
 			case 0:
+				globdrawn = false;
+				guidrawn = false;
 				removeMiscButtons();
 				generalButtonCustomiser(hWnd);
 				tabNo = 1;
+				InvalidateRect(hWnd, NULL, TRUE);
+				UpdateWindow(hWnd);
 				break;
 			case 1:
+				globdrawn = false;
+				guidrawn = false;
 				removeGeneralButtons();
 				miscButtonCustomiser(hWnd);
 				tabNo = 2;
+				InvalidateRect(hWnd, NULL, TRUE);
+				UpdateWindow(hWnd);
 				break;
 			default:
 				break;
@@ -819,13 +830,13 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		}
 	case WM_CTLCOLORSTATIC:
 		// Colour tab windows
-		if (std::find(generalWindList.begin(), generalWindList.end(), (HWND)lParam) != generalWindList.end()) {
+		/*if (std::find(generalWindList.begin(), generalWindList.end(), (HWND)lParam) != generalWindList.end()) {
 			return (LONG)GetStockObject(WHITE_BRUSH);
 		}
 		if (std::find(miscWindList.begin(), miscWindList.end(), (HWND)lParam) != miscWindList.end()) {
 			return (LONG)GetStockObject(WHITE_BRUSH);
 		}
-		break;
+		break;*/
 	default:
 		return DefWindowProc(hWnd, message, wParam, lParam);
 	}
@@ -1273,42 +1284,53 @@ void removeMiscButtons() {
 
 void drawGUIText() {
 	hdc = GetDC(tc);
+	SetBkMode(hdc, TRANSPARENT);
 	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
 	SelectObject(hdc, hFont);
 	// Draw text for general tab
 	if (tabNo == 1) {
-		swprintf_s(graphicstext, 256, L"Graphics:      ");
-		swprintf_s(gameplaytext, 256, L"Gameplay:  ");
-		swprintf_s(arenatext, 256, L"Arena:  ");
-		swprintf_s(storytext, 256, L"Story:    ");
-		swprintf_s(audiotext, 256, L"Audio:    ");
-		TextOut(hdc, winX * graphicsx, winY * 0.35, graphicstext, wcslen(graphicstext));
-		TextOut(hdc, winX * gameplayx, winY * 0.35, gameplaytext, wcslen(gameplaytext));
-		TextOut(hdc, winX * arenax, winY * 0.35, arenatext, wcslen(arenatext));
-		TextOut(hdc, winX * storyx, winY * 0.35, storytext, wcslen(storytext));
-		TextOut(hdc, winX * audiox, winY * 0.35, audiotext, wcslen(audiotext));
+		if (!guidrawn) {
+			swprintf_s(graphicstext, 256, L"Graphics:      ");
+			swprintf_s(gameplaytext, 256, L"Gameplay:  ");
+			swprintf_s(arenatext, 256, L"Arena:  ");
+			swprintf_s(storytext, 256, L"Story:    ");
+			swprintf_s(audiotext, 256, L"Audio:    ");
+			TextOut(hdc, winX * graphicsx, winY * 0.35, graphicstext, wcslen(graphicstext));
+			TextOut(hdc, winX * gameplayx, winY * 0.35, gameplaytext, wcslen(gameplaytext));
+			TextOut(hdc, winX * arenax, winY * 0.35, arenatext, wcslen(arenatext));
+			TextOut(hdc, winX * storyx, winY * 0.35, storytext, wcslen(storytext));
+			TextOut(hdc, winX * audiox, winY * 0.35, audiotext, wcslen(audiotext));
+			guidrawn = true;
+		}
 	}
 	// Draw text for modes tab
 	if (tabNo == 2) {
-		swprintf_s(storytext, 256, L"Story:         ");
-		swprintf_s(dummy, 256, L"                  ");
-		TextOut(hdc, winX * graphicsx, winY * 0.35, storytext, wcslen(storytext));
-		TextOut(hdc, winX * gameplayx, winY * 0.35, dummy, wcslen(dummy));
-		TextOut(hdc, winX * arenax, winY * 0.35, dummy, wcslen(dummy));
-		TextOut(hdc, winX * storyx, winY * 0.35, dummy, wcslen(dummy));
-		TextOut(hdc, winX * audiox, winY * 0.35, dummy, wcslen(dummy));
+		if (!guidrawn) {
+			swprintf_s(storytext, 256, L"Story:         ");
+			swprintf_s(dummy, 256, L"                  ");
+			TextOut(hdc, winX * graphicsx, winY * 0.35, storytext, wcslen(storytext));
+			TextOut(hdc, winX * gameplayx, winY * 0.35, dummy, wcslen(dummy));
+			TextOut(hdc, winX * arenax, winY * 0.35, dummy, wcslen(dummy));
+			TextOut(hdc, winX * storyx, winY * 0.35, dummy, wcslen(dummy));
+			TextOut(hdc, winX * audiox, winY * 0.35, dummy, wcslen(dummy));
+			guidrawn = true;
+		}
 	}
 	ReleaseDC(tc, hdc);
 }
 
 void drawGlobalText() {
 	hdc = GetDC(tc);
+	SetBkMode(hdc, TRANSPARENT);
 	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
 	SelectObject(hdc, hFont);
-	swprintf_s(cd1text, 256, L"CD1 File:");
-	swprintf_s(cd2text, 256, L"CD2 File:");
-	TextOut(hdc, winX * 0.0325, winY * 0.05, cd1text, wcslen(cd1text));
-	TextOut(hdc, winX * 0.0325, winY * 0.15, cd2text, wcslen(cd2text));
+	if (!globdrawn) {
+		swprintf_s(cd1text, 256, L"CD1 File:");
+		swprintf_s(cd2text, 256, L"CD2 File:");
+		TextOut(hdc, winX * 0.0325, winY * 0.05, cd1text, wcslen(cd1text));
+		TextOut(hdc, winX * 0.0325, winY * 0.15, cd2text, wcslen(cd2text));
+		globdrawn = true;
+	}
 	ReleaseDC(tc, hdc);
 }
 

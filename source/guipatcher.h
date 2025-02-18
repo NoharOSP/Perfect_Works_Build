@@ -61,6 +61,8 @@ bool patchPathValid = false;
 bool filePathValid = false;
 bool changed;
 bool space = false;
+bool guidrawn = false;
+bool globdrawn = false;
 std::string home = "";
 std::string path1 = "";
 std::string path2 = "";
