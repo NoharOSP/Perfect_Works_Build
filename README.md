@@ -570,9 +570,9 @@ Q) Can I use texture replacement with this?
 
 A) Yes! Since this is a direct modification of the gamefile, while the texture replacements are run through emulator, they don't interfere with one another. We recommend checking out Lyn's texture mod, which you can find [here](https://godsibb.net/index.php?threads/xenogears-perfect-art-works-paw-retroarch-texture-pack.414/).
 
-Q) Can the Xenogears: Perfect Works Build be used with the Undub patch?
+Q) Is the Perfect Works Build compatible with the undub patch?
 
-A) It can, but the softsubs used for FMVs overlap with the FMV patch.
+A) Unfortunately no. This is due to differences with the file table in the undub patch which is difficult for xenoiso to interpret.
 
 Q) Can the Japanese control scheme patch be used with the Perfect Works Build?
 
@@ -806,13 +806,11 @@ For those who want to test a certain section in the game. They use the mcd forma
 
 ### [Quality of Life Features](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Extra-QOL-Features)
 
-### [Items/spells](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Items-&-Spells)
+### [Items/spells](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Items-and-Characters)
 
 ### [Monster stats](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Enemy-Stats)
 
 ### [Script](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Script-Changes)
-
-### [Stat changes](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Stat-Changes)
 
 
 ## Bug fixes:
