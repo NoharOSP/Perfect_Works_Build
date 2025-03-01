@@ -80,7 +80,7 @@ ATOM MyRegisterClass(HINSTANCE hInstance)
 	wcex.hInstance = hInstance;
 	wcex.hIcon = LoadIcon(hInstance, MAKEINTRESOURCE(IDI_GUIPATCHER));
 	wcex.hCursor = LoadCursor(nullptr, IDC_ARROW);
-	wcex.hbrBackground = (HBRUSH)(COLOR_WINDOW + 1);
+	wcex.hbrBackground = (HBRUSH)(COLOR_WINDOW);
 	wcex.lpszMenuName = MAKEINTRESOURCEW(IDC_GUIPATCHER);
 	wcex.lpszClassName = szWindowClass;
 	wcex.hIconSm = LoadIcon(wcex.hInstance, MAKEINTRESOURCE(IDI_SMALL));
@@ -112,17 +112,6 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 		return FALSE;
 	}
 
-	// Create tabs
-
-	rc = { 0, 0, 0, 0 };
-	StartCommonControls(ICC_TAB_CLASSES);
-	tc = CreateTabController(hWnd, hInst, TCS_FIXEDWIDTH, rc, IDC_TAB);
-	SetWindowLongPtr(hWnd, GWLP_USERDATA, reinterpret_cast<LONG_PTR>(tc));
-	InsertTab(tc, _T("General"), 0, 0, TCIF_TEXT | TCIF_IMAGE);
-	InsertTab(tc, _T("Modes"), 1, 1, TCIF_TEXT | TCIF_IMAGE);
-	SendMessage(tc, WM_SETFONT, reinterpret_cast<WPARAM>(GetStockObject(DEFAULT_GUI_FONT)), 0);
-	tabNo = 1;
-
 	ShowWindow(hWnd, nCmdShow);
 	UpdateWindow(hWnd);
 
@@ -146,13 +135,14 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	{
 	case WM_CREATE:
 	{
-		window = hWnd;
 		// Create home directory, font and buttons
 		home = std::filesystem::current_path().string();
 		initialiseGlobalWindows(hWnd);
 		initialiseGlobalButtonList();
 		initialiseGlobalFont();
-		generalButtonCustomiser(hWnd);
+		checkboxLock();
+		patchBoxLock();
+		tooltipTextMaker(hWnd);
 		break;
 	}
 	case WM_SIZE:
@@ -758,9 +748,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		SetBkMode(hdc, TRANSPARENT);
 		// TODO: Add any drawing code that uses hdc here...
 		SelectObject(hdc, hFont);
-		//FillRect(hdc, &ps.rcPaint, (HBRUSH)(COLOR_WINDOW));
+		FillRect(hdc, &ps.rcPaint, (HBRUSH)(COLOR_WINDOW));
 		GetClientRect(hWnd, &rcWindow);
-		/*
 		RECT rc1, rc2;
 		rc1, rc2 = rcWindow;
 		rc1.top = winY / 50;
@@ -777,7 +766,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		FillRect(hdc, &rc2, (HBRUSH)(COLOR_WINDOW));
 		FrameRect(hdc, &rc1, CreateSolidBrush(RGB(220, 220, 220)));
 		FrameRect(hdc, &rc2, CreateSolidBrush(RGB(220, 220, 220)));
-		*/
+		drawGlobalText();
+		drawGUIText();
 		EndPaint(hWnd, &ps);
 	}
 	break;
@@ -795,48 +785,10 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	}
 	break;
 	case WM_DESTROY:
-		// Close tabs
-		DestroyTabs(hWnd);
 		PostQuitMessage(0);
 		break;
 	case WM_NOTIFY:
-		// Manage tabs
-		if (((LPNMHDR)lParam)->code == TCN_SELCHANGE)
-		{
-			int tabID = TabCtrl_GetCurSel(tc);
-			switch (tabID)
-			{
-			case 0:
-				globdrawn = false;
-				guidrawn = false;
-				removeMiscButtons();
-				generalButtonCustomiser(hWnd);
-				tabNo = 1;
-				InvalidateRect(hWnd, NULL, TRUE);
-				UpdateWindow(hWnd);
-				break;
-			case 1:
-				globdrawn = false;
-				guidrawn = false;
-				removeGeneralButtons();
-				miscButtonCustomiser(hWnd);
-				tabNo = 2;
-				InvalidateRect(hWnd, NULL, TRUE);
-				UpdateWindow(hWnd);
-				break;
-			default:
-				break;
-			}
-		}
 	case WM_CTLCOLORSTATIC:
-		// Colour tab windows
-		/*if (std::find(generalWindList.begin(), generalWindList.end(), (HWND)lParam) != generalWindList.end()) {
-			return (LONG)GetStockObject(WHITE_BRUSH);
-		}
-		if (std::find(miscWindList.begin(), miscWindList.end(), (HWND)lParam) != miscWindList.end()) {
-			return (LONG)GetStockObject(WHITE_BRUSH);
-		}
-		break;*/
 	default:
 		return DefWindowProc(hWnd, message, wParam, lParam);
 	}
@@ -871,29 +823,21 @@ void initialiseGlobalButtonList() {
 	globalWindList.emplace_back(browsebutton2);
 	globalWindList.emplace_back(aboutbutton);
 	globalWindList.emplace_back(patchbutton);
-}
-
-// Initialise general button list
-void initialiseGeneralButtonList() {
-	generalWindList.emplace_back(encounters);
-	generalWindList.emplace_back(fasttext);
-	generalWindList.emplace_back(portraits);
-	generalWindList.emplace_back(basicarena);
-	generalWindList.emplace_back(expertarena);
-	generalWindList.emplace_back(expgold);
-	generalWindList.emplace_back(itemspells);
-	generalWindList.emplace_back(monsters);
-	generalWindList.emplace_back(script);
-	generalWindList.emplace_back(fmvs);
-	generalWindList.emplace_back(graphics);
-	generalWindList.emplace_back(voice);
-	generalWindList.emplace_back(all);
-	generalWindList.emplace_back(normalarena);
-}
-
-// Initialise mode button list
-void initialiseMiscButtonList() {
-	miscWindList.emplace_back(storyMode);
+	globalWindList.emplace_back(encounters);
+	globalWindList.emplace_back(fasttext);
+	globalWindList.emplace_back(portraits);
+	globalWindList.emplace_back(basicarena);
+	globalWindList.emplace_back(expertarena);
+	globalWindList.emplace_back(expgold);
+	globalWindList.emplace_back(itemspells);
+	globalWindList.emplace_back(monsters);
+	globalWindList.emplace_back(script);
+	globalWindList.emplace_back(fmvs);
+	globalWindList.emplace_back(graphics);
+	globalWindList.emplace_back(voice);
+	globalWindList.emplace_back(all);
+	globalWindList.emplace_back(normalarena);
+	globalWindList.emplace_back(storyMode);
 }
 
 // Initialise patch list
@@ -934,34 +878,20 @@ void checkboxLock() {
 	}
 	else {
 		found = FALSE;
-		for (int i = 0; i < generalWindList.size(); i++) {
-			LRESULT untick = SendMessage(generalWindList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
-		}
-		for (int i = 0; i < miscWindList.size(); i++) {
-			LRESULT untick = SendMessage(miscWindList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
+		for (int i = 4; i < globalWindList.size(); i++) {
+			LRESULT untick = SendMessage(globalWindList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
 		}
 	}
-	for (int i = 0; i < generalWindList.size(); i++) {
-		EnableWindow(generalWindList[i], found);
-	}
-	for (int i = 0; i < miscWindList.size(); i++) {
-		EnableWindow(miscWindList[i], found);
+	for (int i = 4; i < globalWindList.size(); i++) {
+		EnableWindow(globalWindList[i], found);
 	}
 }
 
 // Lock patch button until a box has been ticked
 void patchBoxLock() {
 	bool checkfound = false;
-	for (int i = 0; i < generalWindList.size(); i++) {
-		LRESULT boxticked = SendMessage(generalWindList[i], BM_GETCHECK, NULL, NULL);
-		if (boxticked == BST_CHECKED) {
-			checkfound = true;
-			EnableWindow(patchbutton, TRUE);
-			break;
-		}
-	}
-	for (int i = 0; i < miscWindList.size(); i++) {
-		LRESULT boxticked = SendMessage(miscWindList[i], BM_GETCHECK, NULL, NULL);
+	for (int i = 0; i < globalWindList.size(); i++) {
+		LRESULT boxticked = SendMessage(globalWindList[i], BM_GETCHECK, NULL, NULL);
 		if (boxticked == BST_CHECKED) {
 			checkfound = true;
 			EnableWindow(patchbutton, TRUE);
@@ -1155,13 +1085,6 @@ void tooltipTextMaker(HWND hWnd) {
 	HWND tt_story_mode = toolGenerator(text_story_mode, hWnd, storyMode);
 }
 
-HWND CreateTabController(HWND hParent, HINSTANCE hInst, DWORD dwStyle, const RECT& rc, const int id)
-{
-	dwStyle |= WS_CHILD | WS_VISIBLE | WS_CLIPSIBLINGS;
-	return CreateWindowEx(0, WC_TABCONTROL, 0, dwStyle, rc.left, rc.top, rc.right, rc.bottom, hParent,
-		reinterpret_cast<HMENU>(static_cast<INT_PTR>(id)), hInst, 0);
-}
-
 // Initialise common controls for parsing large files
 void StartCommonControls(DWORD flags) {
 	INITCOMMONCONTROLSEX iccx;
@@ -1170,35 +1093,14 @@ void StartCommonControls(DWORD flags) {
 	InitCommonControlsEx(&iccx);
 }
 
-int InsertTab(HWND TabController, const ustring& txt, int item_index, int image_index, UINT mask) {
-	std::vector<TCHAR> tmp(txt.begin(), txt.end());
-	tmp.push_back(_T('\0'));
-	TCITEM tabPage = { 0 };
-	tabPage.mask = mask;
-	tabPage.pszText = &tmp[0];
-	tabPage.cchTextMax = static_cast<int>(txt.length());
-	tabPage.iImage = image_index;
-	return static_cast<int>(SendMessage(TabController, TCM_INSERTITEM, item_index, reinterpret_cast<LPARAM>(&tabPage)));
-}
-
-void DestroyTabs(const HWND hWnd) {
-	HWND tc = reinterpret_cast<HWND>(static_cast<LONG_PTR>(GetWindowLongPtr(hWnd, GWLP_USERDATA)));
-	HIMAGELIST hImages = reinterpret_cast<HIMAGELIST>(SendMessage(tc, TCM_GETIMAGELIST, 0, 0));
-	ImageList_Destroy(hImages);
-}
-
 // Define global windows
 void initialiseGlobalWindows(HWND hWnd) {
 	cd1path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.05), 500, 25, hWnd, NULL, hInst, NULL);
 	cd2path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.15), 500, 25, hWnd, NULL, hInst, NULL);
-	browsebutton1 = CreateWindow(L"BUTTON", L"Browse", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.05), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
-	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.15), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
-	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.75), 70, 25, hWnd, (HMENU)104, hInst, NULL);
-	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_BORDER | WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.25), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
-}
-
-// Define text boxes for the general tab
-void initialiseGeneralWindows(HWND hWnd) {
+	browsebutton1 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.05), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
+	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.15), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
+	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.75), 70, 25, hWnd, (HMENU)104, hInst, NULL);
+	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.25), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
 	encounters = CreateWindow(L"BUTTON", L"1/2 encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.40), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
 	portraits = CreateWindow(L"BUTTON", L"Resized portraits", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.40), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
 	graphics = CreateWindow(L"BUTTON", L"Graphical fixes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.47), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
@@ -1212,10 +1114,6 @@ void initialiseGeneralWindows(HWND hWnd) {
 	voice = CreateWindow(L"BUTTON", L"Battle undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.47), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
 	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
 	itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.61), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
-}
-
-// Define text boxes for the modes tab
-void initialiseMiscWindows(HWND hWnd) {
 	storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * smx), (int)(winY * 0.40), 85, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
@@ -1226,112 +1124,31 @@ void initialiseGlobalFont() {
 	}
 }
 
-// Define font for general windows
-void initialiseGeneralFont() {
-	for (int i = 0; i < generalWindList.size(); i++) {
-		SendMessage(generalWindList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
-	}
-}
-
-// Define font for mode windows
-void initialiseMiscFont() {
-	for (int i = 0; i < miscWindList.size(); i++) {
-		SendMessage(miscWindList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
-	}
-}
-
-// Initialise settings for general tab
-void generalButtonCustomiser(HWND hWnd) {
-	initialiseGeneralWindows(hWnd);
-	initialiseGeneralButtonList();
-	initialiseGeneralFont();
-	checkboxLock();
-	patchBoxLock();
-	tooltipTextMaker(hWnd);
-}
-
-// Initialise settings for mode tab
-void miscButtonCustomiser(HWND hWnd) {
-	initialiseMiscWindows(hWnd);
-	initialiseMiscButtonList();
-	initialiseMiscFont();
-	checkboxLock();
-	patchBoxLock();
-	tooltipTextMaker(hWnd);
-}
-
-// Hide general buttons
-void removeGeneralButtons() {
-	ShowWindow(encounters, SW_HIDE);
-	ShowWindow(fasttext, SW_HIDE);
-	ShowWindow(portraits, SW_HIDE);
-	ShowWindow(basicarena, SW_HIDE);
-	ShowWindow(expertarena, SW_HIDE);
-	ShowWindow(expgold, SW_HIDE);
-	ShowWindow(itemspells, SW_HIDE);
-	ShowWindow(monsters, SW_HIDE);
-	ShowWindow(script, SW_HIDE);
-	ShowWindow(fmvs, SW_HIDE);
-	ShowWindow(graphics, SW_HIDE);
-	ShowWindow(normalarena, SW_HIDE);
-	ShowWindow(voice, SW_HIDE);
-}
-
-// Hide misc buttons
-void removeMiscButtons() {
-	ShowWindow(storyMode, SW_HIDE);
-}
-
 void drawGUIText() {
-	hdc = GetDC(tc);
-	SetBkMode(hdc, TRANSPARENT);
 	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
 	SelectObject(hdc, hFont);
-	// Draw text for general tab
-	if (tabNo == 1) {
-		if (!guidrawn) {
-			swprintf_s(graphicstext, 256, L"Graphics:      ");
-			swprintf_s(gameplaytext, 256, L"Gameplay:  ");
-			swprintf_s(arenatext, 256, L"Arena:  ");
-			swprintf_s(storytext, 256, L"Story:    ");
-			swprintf_s(audiotext, 256, L"Audio:    ");
-			TextOut(hdc, winX * graphicsx, winY * 0.35, graphicstext, wcslen(graphicstext));
-			TextOut(hdc, winX * gameplayx, winY * 0.35, gameplaytext, wcslen(gameplaytext));
-			TextOut(hdc, winX * arenax, winY * 0.35, arenatext, wcslen(arenatext));
-			TextOut(hdc, winX * storyx, winY * 0.35, storytext, wcslen(storytext));
-			TextOut(hdc, winX * audiox, winY * 0.35, audiotext, wcslen(audiotext));
-			guidrawn = true;
-		}
-	}
-	// Draw text for modes tab
-	if (tabNo == 2) {
-		if (!guidrawn) {
-			swprintf_s(storytext, 256, L"Story:         ");
-			swprintf_s(dummy, 256, L"                  ");
-			TextOut(hdc, winX * graphicsx, winY * 0.35, storytext, wcslen(storytext));
-			TextOut(hdc, winX * gameplayx, winY * 0.35, dummy, wcslen(dummy));
-			TextOut(hdc, winX * arenax, winY * 0.35, dummy, wcslen(dummy));
-			TextOut(hdc, winX * storyx, winY * 0.35, dummy, wcslen(dummy));
-			TextOut(hdc, winX * audiox, winY * 0.35, dummy, wcslen(dummy));
-			guidrawn = true;
-		}
-	}
-	ReleaseDC(tc, hdc);
+	swprintf_s(graphicstext, 256, L"Graphics:      ");
+	swprintf_s(gameplaytext, 256, L"Gameplay:  ");
+	swprintf_s(arenatext, 256, L"Arena:  ");
+	swprintf_s(storytext, 256, L"Story:    ");
+	swprintf_s(audiotext, 256, L"Audio:    ");
+	swprintf_s(modestext, 256, L"Modes:    ");
+	TextOut(hdc, winX * graphicsx, winY * 0.35, graphicstext, wcslen(graphicstext));
+	TextOut(hdc, winX * gameplayx, winY * 0.35, gameplaytext, wcslen(gameplaytext));
+	TextOut(hdc, winX * arenax, winY * 0.35, arenatext, wcslen(arenatext));
+	TextOut(hdc, winX * storyx, winY * 0.35, storytext, wcslen(storytext));
+	TextOut(hdc, winX * audiox, winY * 0.35, audiotext, wcslen(audiotext));
+	TextOut(hdc, winX * smx, winY * 0.35, modestext, wcslen(modestext));
+	
 }
 
 void drawGlobalText() {
-	hdc = GetDC(tc);
-	SetBkMode(hdc, TRANSPARENT);
 	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
 	SelectObject(hdc, hFont);
-	if (!globdrawn) {
-		swprintf_s(cd1text, 256, L"CD1 File:");
-		swprintf_s(cd2text, 256, L"CD2 File:");
-		TextOut(hdc, winX * 0.0325, winY * 0.05, cd1text, wcslen(cd1text));
-		TextOut(hdc, winX * 0.0325, winY * 0.15, cd2text, wcslen(cd2text));
-		globdrawn = true;
-	}
-	ReleaseDC(tc, hdc);
+	swprintf_s(cd1text, 256, L"CD1 File:");
+	swprintf_s(cd2text, 256, L"CD2 File:");
+	TextOut(hdc, winX * 0.0325, winY * 0.05, cd1text, wcslen(cd1text));
+	TextOut(hdc, winX * 0.0325, winY * 0.15, cd2text, wcslen(cd2text));
 }
 
 void applyPatch(int discNum) {
@@ -1559,3 +1376,5 @@ void applyPatch(int discNum) {
 		cue_stream.close();
 	}
 }
+
+

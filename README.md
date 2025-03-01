@@ -592,7 +592,7 @@ A) Make sure the patcher is in the same directory as gamefiles, patches, xdelta 
 
 Q) Is the Perfect Works Build compatible with the No Battle Flashes patch?
 
-A) Yes, but apply the battle flash patch first before using the Perfect Works Build. 
+A) Unfortunately, it is not, though there are plans to add a battle flashes option.
 
 ## Archive:
 
