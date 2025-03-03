@@ -1271,7 +1271,6 @@ void applyPatch(int discNum) {
 			batch_file << "del \"" + fileName + "\" \n" << std::endl;
 		}
 		list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
-		batch_file << "xenoiso list.txt -d\n" << std::endl;
 		if (patched != true) {
 			patched = true;
 		}
@@ -1279,7 +1278,10 @@ void applyPatch(int discNum) {
 	list_file.close();
 	batch_file.close();
 	// Execute patch file
-	int batch_exit_code = system("cmd.exe /c commands.cmd");
+	if (p_fmv) {
+		int batch_exit_code = system("cmd.exe /c commands.cmd");
+	}
+	system("cmd.exe /c xenoiso list.txt -d");
 	// Remove batch and backup bin
 	remove("commands.cmd");
 	remove("backup.bin");
