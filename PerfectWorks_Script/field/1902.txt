@@ -1,44 +1,50 @@
-<TextBlock 1 w:56 h:3>
-Writing on the wall.<New>
-"Not too little or too much.
-   Find a happy medium to
-      succeed in life!     "<Close><End of Block>
+<TextBlock 1 w:54 h:3>
+Writing is carved on
+the wall.<New>
+'Neither too much nor too
+little. Find a happy medium
+to succeed in life!'<Close><End of Block>
 <TextBlock 2 w:50 h:2>
-Writing on the wall.<New>
-"Buttons on both sides 
-control the water level."<Close><End of Block>
-<TextBlock 3 w:52 h:1>
-Writing on the wall.<New>
-"The water is full at 10."<Close><End of Block>
+Writing is carved on
+the wall.<New>
+'Buttons on either side
+adjust the water amount.'<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+Writing is carved
+on the wall.<New>
+'The water level is
+full at 10.'<Close><End of Block>
 <TextBlock 4 w:28 h:2>
     Step on it
     Don't<Close><End of Block>
 <TextBlock 5 w:34 h:1>
 Nothing happened.<Close><End of Block>
 <TextBlock 6 w:52 h:2>
-   Looks like the water
-level won't go any higher.<Close><End of Block>
-<TextBlock 7 w:44 h:2>
-Looks like there is a 
+Looks like the water level
+won't go any higher.<Close><End of Block>
+<TextBlock 7 w:42 h:2>
+There's some kind of
 switch on the floor.<Close><End of Block>
 <TextBlock 8 w:28 h:2>
     Step on it
     Don't<Close><End of Block>
 <TextBlock 9 w:50 h:2>
-  Looks like the water
+Looks like the water
 level won't go any lower.<Close><End of Block>
 <TextBlock 10 w:42 h:2>
-Looks like there is a
+There's some kind of
 switch on the floor.<Close><End of Block>
-<TextBlock 11 w:38 h:2>
-There is a button
-with 3 marks on it.<Close><End of Block>
+<TextBlock 11 w:36 h:3>
+There's a kind of
+button, with three
+marks on it.<Close><End of Block>
 <TextBlock 12 w:22 h:2>
     Push it
     Don't<Close><End of Block>
-<TextBlock 13 w:38 h:2>
-There is a button
-with 7 marks on it.<Close><End of Block>
+<TextBlock 13 w:36 h:3>
+There's a kind of
+button, with seven
+marks on it.<Close><End of Block>
 <TextBlock 14 w:22 h:2>
     Push it
     Don't<Close><Close><End of Block>
