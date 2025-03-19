@@ -4,133 +4,121 @@ Fei
 What the...?"<Close><End of Block>
 <TextBlock 2 w:42 h:4>
 Fei
-"Hammer, is that you?
-What are you doing in
-that outfit?"<Close><End of Block>
-<TextBlock 3 w:32 h:3>
+"H-Hammer, i-is that
+you!?<Delay 10> Why do you look
+like that!?"<Close><End of Block>
+<TextBlock 3 w:34 h:3>
 Fei
-"What insanity 
-are you talking
-about, Hammer?"<Close><End of Block>
-<TextBlock 4 w:27 h:2>
+"Hammer, what
+are you saying!?"<Close><End of Block>
+<TextBlock 4 w:30 h:2>
 Fei
-"Hamme~r...!"<Close><End of Block>
+"HAMME~~~R!"<Close><End of Block>
 <TextBlock 5 w:36 h:2>
 Rico
 "Stop it, Hammer!"<Close><End of Block>
-<TextBlock 6 w:24 h:2>
+<TextBlock 6 w:32 h:2>
 Rico
-"Hammer...!"<Close><End of Block>
-<TextBlock 7 w:22 h:2>
+"Hammer, you..."<Close><End of Block>
+<TextBlock 7 w:28 h:2>
 Rico
-"You knew?"<Close><End of Block>
+"You knew...?"<Close><End of Block>
 <TextBlock 8 w:36 h:2>
 Rico
 "Stop it, Hammer!"<Close><End of Block>
-<TextBlock 9 w:24 h:2>
+<TextBlock 9 w:32 h:2>
 Rico
-"Hammer...!!"<Close><End of Block>
-<TextBlock 10 w:32 h:2>
+"Hammer, you..."<Close><End of Block>
+<TextBlock 10 w:28 h:2>
 Rico
-"How do you 
-know all this!?"<Close><End of Block>
+"You knew...?"<Close><End of Block>
 <TextBlock 11 w:26 h:2>
 Hammer
-"Hey, bro..."<Close><End of Block>
+"B-Bro..."<Close><End of Block>
 <TextBlock 12 w:36 h:4>
 Hammer
-"Heh heh heh. 
-It's been a long
-time no see, bro!"<Close><End of Block>
+"Heh heh heh.
+Long time no see,
+eh, b-bro...?"<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 Hammer
-"I was finally able to get
-it... Super-strength...
-Just like you, bro!<New>
-It feels so good...
-being one with your Gear.
-Karellen did this for me.<New>
-Anyway, just leave that
-Gear and Miss Elly for me.<New>
+"I-I got it too.
+Super-strength,
+just like you guys.<New>
+I-It feels good...becoming
+one with your Gear.<Delay 10> All
+courtesy of Mr. Karellen.<New>
+Now, I'll have you leave
+that Gear and Miss Elly
+with me.<New>
 Resistance is useless.
-I'm much too powerful for
-you now..."<Close><End of Block>
+'Cause I'm crazy
+s-strong now..."<Close><End of Block>
 <TextBlock 14 w:42 h:4>
 Hammer
-"What? You're not
-handing them over?
-...I see.<New>
+"Y-You won't hand
+them over?<Delay 10> ...I see.<New>
 Then I'll just have
-to use force and take
-the girl and the Gear
-from you!"<Close><End of Block>
-<TextBlock 15 w:50 h:3>
+to t-take them from
+you by brute force!"<Close><End of Block>
+<TextBlock 15 w:44 h:4>
 Hammer
-"Even you, 'Champ', won't
-win against me now."<Close><End of Block>
-<TextBlock 16 w:28 h:2>
+"E-Even you, 'Champ',
+won't win against me
+now."<Close><End of Block>
+<TextBlock 16 w:30 h:2>
 Hammer
-"Here I come!"<Opcode 2 20><Close><End of Block>
-<TextBlock 17 w:48 h:4>
+"Here we go~!"<Opcode 2 20><Close><End of Block>
+<TextBlock 17 w:50 h:3>
 Hammer
-"Heh heh...
-That's my bro...
-Far too strong...<New>
-Even for me...
-Just when I thought I
-finally got powerful
-enough to beat you too!"<Close><End of Block>
+"Heh heh heh...
+Nah...my bro is strong...<New>
+Despite me going this
+far to get strong too..."<Close><End of Block>
 <TextBlock 18 w:50 h:4>
 Hammer
-"Champ...<New>
-Promise me you'll 
-go back to Noatun
-one day...<New>
+"Champ...
+Promise me you'll go back
+to Kislev one day...<New>
 You are...
-the next in line...
-to be the Kaiser...<New>
+the Kaiser's
+rightful heir...<New>
 The scanner for the 
 Kaiser's...r-room...<New>
-
-The son of the 
-Kaiser suddenly 
-dying along...<New>
-with the Kaiser's...
-wife around when you 
-were born...<New>
-
+The son of the Kaiser
+suddenly dying...
+along with the Kaiser's
+wife...<New>
+Right around when
+you were born...
 Don't you remember 
-anything bro?<New>
-The Church... They...
-in a fit of vengeance 
-against the Kaiser 
-pushing them out<New>
-
-of power... raised 
-racial tensions with 
-the demihumans... They 
-altered your genes...<New>
-made your demihuman 
-genes more dominant...
-and kicked you out of 
-the Central District<New>
-
-when the Kaiser was 
-off at the 
-frontlines...<New>
+anything, Champ?<New>
+The Church... In an act
+of vengeance against the
+Kaiser for pushing them
+out of power...<New>
+They raised racial
+tensions with the
+demihumans...<New>
+They altered your
+genes... M-Made your
+demihuman genes more
+dominant...<New>
+K-Kicked you out of the
+Central District when the
+Kaiser was off at the 
+front lines...<New>
 Lied to the Kaiser... 
 Said you died... "<Close><End of Block>
-<TextBlock 19 w:44 h:4>
+<TextBlock 19 w:40 h:4>
 Hammer
-"Don't underestimate
-the power of my
-information network<Delay 5>...<New>
-I got...the best 
-source in the world...<New>
-But<Delay 5>...<Delay 5>
-it's no use now<Delay 5>...<Delay 5>
-I<Delay 5>...<New>
-For a bit player<Delay 5>...<Delay 30>
-like me<Delay 5>...<Delay 5>this is<Delay 5>
-probably<Delay 5>...<Delay 30>the end<Delay 5>...<Delay 30>
-I deserve<Delay 5>..."<Close><Close><End of Block>
+"Never underestimate
+my information
+network<Delay 5>...<New>
+Well<Delay 5>...<Delay 5>
+I guess<Delay 5>...<Delay 5>
+I've had it<Delay 5>...<New>
+For a bit player
+like me<Delay 5>...<Delay 5>
+maybe it's<Delay 5>...<Delay 5>
+a fitting end<Delay 5>..."<Close><Close><End of Block>

@@ -1,17 +1,19 @@
-<TextBlock 1 w:32 h:4>
+<TextBlock 1 w:34 h:4>
 Fei
-"It's no good...
-That's beyond
-human strength!"<Close><End of Block>
-<TextBlock 2 w:34 h:2>
-It won't move any
-more than this.<Close><End of Block>
-<TextBlock 3 w:32 h:2>
-It might move if
-we push it.<Close><End of Block>
-<TextBlock 4 w:46 h:2>
-It might move if we
-push it with our Gears.<Close><End of Block>
+"Using human
+strength, there's
+just no way."<Close><End of Block>
+<TextBlock 2 w:34 h:3>
+Doesn't look like
+it'll move any
+further.<Close><End of Block>
+<TextBlock 3 w:38 h:2>
+Looks like it'll
+move if we push it.<Close><End of Block>
+<TextBlock 4 w:36 h:3>
+Looks like it'll
+move if we push
+it with our Gears.<Close><End of Block>
 <TextBlock 5 w:46 h:3>
 Shopkeep Johnny
 "Hi there!

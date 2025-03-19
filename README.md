@@ -1,9 +1,9 @@
 # Perfect_Works_Build
-Xenogears Perfect Works Build: Including all official Xenogears information in PSX ROM and other improvements.
+Xenogears Perfect Works Build: Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
 
-Download version 0.5.5 here:
-- MEGA: https://mega.nz/file/ieg3VLyb#fn2QDO8EFHp6patm0dRSPg_5yFh0JaYR_D6Pl9HEy6A
-- Google Drive: https://drive.google.com/file/d/13FO5xCJ1CaRe96eF3HkAs8NKhsRoRqAo/view?usp=sharing
+Download version 0.5.6 here:
+- MEGA: https://mega.nz/file/zTJwgJLK#RsVnueHIcEIhNGtrprGT_PZDkN4q57n0PG6_Bj3N9yQ
+- Google Drive: https://drive.google.com/file/d/1B0N4Q2aaQNlSxz74DBNNnpJtSd228uZg/view?usp=sharing
   
 ## Instructions:
 
@@ -17,7 +17,7 @@ Download version 0.5.5 here:
 ## Completion stats:
 
 - Name/terminology changes: 100%
-- Main script: 78% (finished Anima Dungeon 1)
+- Main script: 80% (finished Anima Dungeon 2)
 - NPC script: Not done (except for name/terminology changes)
 
 ## Introduction:
@@ -29,6 +29,19 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.5.6:
+
+03/12/2025
+
+- EP Drives are now capped at 99 EP.
+- AP costs for Deathblows on specific characters have been adjusted. Details are in the wiki.
+- The patcher deletes an existing PW ROM before a new one is built to avoid bugs with xdelta.
+- The G-Elements have been nerfed. Details are in the wiki.
+- Typo has been fixed during the mutation scene narration.
+- Borders have been removed from the patcher buttons.
+- Patcher no longer uses a cmd file to call xenoiso.
+- Bug has been fixed when the 'Patch' button can be pressed before an option has been ticked.
 
 ### Version 0.5.5:
 
@@ -598,6 +611,11 @@ A) Unfortunately, it is not, though there are plans to add a battle flashes opti
 
 ### Builds:
 
+#### Version 0.5.5:
+
+- MEGA: https://mega.nz/file/ieg3VLyb#fn2QDO8EFHp6patm0dRSPg_5yFh0JaYR_D6Pl9HEy6A
+- Google Drive: https://drive.google.com/file/d/13FO5xCJ1CaRe96eF3HkAs8NKhsRoRqAo/view?usp=sharing
+
 #### Version 0.5.4:
 
 - MEGA: https://mega.nz/file/fOgHFa4I#GaJxPOARCKcyeNKKLtIevAN2Z03z9fAXEvj5uJrcP20
@@ -708,32 +726,7 @@ A) Unfortunately, it is not, though there are plans to add a battle flashes opti
 - Google Drive: https://drive.google.com/file/d/1CCNIUAGvD4dVIigNL0llegOhVK1No8SL/view?usp=share_link
 - MEGA: https://mega.nz/file/aTwGQJaZ#IUrqM_spP1tQHDUnsXLqrA3D9yp1_97A4fXFnyJexSI
 
-#### Version 0.1.6:
-
-- MEGA: https://mega.nz/file/HK5C2bTa#ki8lbMjSH_eAuCIuuL9Po6NWXnkNr_0Zg0H2_bpjE3Y
-#### Version 0.1.5:
-
-- Mega: https://mega.nz/file/jao1XILS#CQe4_4JBrzzztb6GUNMgLystvc8GM7lNPuZYJ0roddY
-
-#### Version 0.1.4:
-
-- Mega: https://mega.nz/file/Gbw21KhJ#zzOR5K74gXH7ETsXmMvNiU7Mc1OPA-bPfRk8x5Y6ZSs
-
-#### Version 0.1.3:
-
-- Mega: https://mega.nz/file/jbJmBIIS#z8ysRWLVsw8QJdBKA30oux7XW5dEkNI0LPDevD7Jg2Y
-
-#### Version 0.1.2:
-
-- Mega: https://mega.nz/file/OG5RBJ4Q#jARzVJaRI1mhaYFWj9fMc2-TfDL5yl6abiJIdXY5lSU
-
-#### Version 0.1.1:
-
-- Mega: https://mega.nz/file/2WQHXawQ#k5b3S744oIhHs8bFU_eMs04-nKwWj4C-7tXgazW31tU
-
-#### Version 0.1.0:
-
-- Mega: https://mega.nz/file/aehiRaaS#8kgPnxVlYEI8AZL9KebwT2SQal1h_6UuRpmnw55LDfk
+Versions 0.1.0 - 0.1.6 are no longer available to download. Use the contact options provided if you are interested in using them.
 
 ### GUI patcher:
 
@@ -819,6 +812,11 @@ These are applied if any option is selected.
 
 - A bug with Deus' first fight which can freeze the game if he tries to use his HP halve move from a side angle.
 - A bug which prevents Billy's Ether elemental ammo from being changed.
+
+If you want to use the bug fixes without any of the other options, xdeltas for both discs are available here:
+
+- [Disc 1](https://mega.nz/file/bCxxEZJD#oFCcGlOsP5L-iQlpqpUlqC7_ZypwcWwSaKdnxMwNaNE)
+- [Disc 2](https://mega.nz/file/WGhCVZKQ#G45_7fjfbirDwYLTRJWel5jUKBR_WMtaH_-K7oDQiQ4)
 
 ## Graphical fixes:
 
@@ -910,6 +908,8 @@ DM or tag here if you want immediate feedback on Twitter:
 - Ali
 - Nohar
 - Kaizoku85
+- Lursga
+- Dead Heart of Africa
 
 ### Graphical fixes:
 - edrovinhaz

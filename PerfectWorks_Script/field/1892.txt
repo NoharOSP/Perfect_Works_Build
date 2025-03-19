@@ -1,42 +1,46 @@
 <TextBlock 1 w:12 h:2>
 Fei
 "Hmm?"<Close><End of Block>
-<TextBlock 2 w:40 h:4>
+<TextBlock 2 w:38 h:4>
 Fei
-"Looks like there's 
+"Looks like there's
 writing carved on 
-the walls..."<Close><End of Block>
+the walls too..."<Close><End of Block>
 <TextBlock 3 w:36 h:3>
-Find the 3 hidden
-stones, then put
-them in the holes.<Close><End of Block>
-<TextBlock 4 w:52 h:1>
-"The truth is back there!"<Close><End of Block>
+Find three hidden
+rocks, and return
+them to the holes.<Close><End of Block>
+<TextBlock 4 w:54 h:1>
+'The truth is on the back.'<Close><End of Block>
 <TextBlock 5 w:36 h:3>
-Find the 3 hidden
-stones, then put
-them in the holes.<Close><End of Block>
+Find three hidden
+rocks, and return
+them to the holes.<Close><End of Block>
 <TextBlock 6 w:50 h:1>
-"Aim your sights higher!"<Close><End of Block>
+'Set your sights higher.'<Close><End of Block>
 <TextBlock 7 w:36 h:3>
-Find the 3 hidden
-stones, then put
-them in the holes.<Close><End of Block>
+Find three hidden
+rocks, and return
+them to the holes.<Close><End of Block>
 <TextBlock 8 w:50 h:1>
-"The unseen is true too!"<Close><End of Block>
-<TextBlock 9 w:40 h:2>
-Writing on the wall.<New>
-"4 steps south, 
-10 steps west."<Close><End of Block>
-<TextBlock 10 w:40 h:2>
-Writing on the wall.<New>
-"Higher than the
-center pillar..."<Close><End of Block>
-<TextBlock 11 w:40 h:2>
-Writing on the wall.<New>
-"Check the back of 
-the stone pillars."<Close><End of Block>
-<TextBlock 12 w:44 h:2>
-Writing on the wall.<New>
-"The center stone will
-be your foothold."<Close><Close><End of Block>
+'The unseen is true too.'<Close><End of Block>
+<TextBlock 9 w:36 h:2>
+Writing is carved
+on the wall.<New>
+'Four steps south,
+Ten steps west.'<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Writing is carved
+on the wall.<New>
+'High above the
+center pillar...'<Close><End of Block>
+<TextBlock 11 w:38 h:2>
+Writing is carved
+on the wall.<New>
+'Check the back of 
+the stone pillars.'<Close><End of Block>
+<TextBlock 12 w:46 h:2>
+Writing is carved on
+the wall.<New>
+'A rock in the center
+will be your foothold.'<Close><Close><End of Block>

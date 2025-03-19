@@ -1,51 +1,54 @@
-<TextBlock 1 w:48 h:3>
+<TextBlock 1 w:40 h:4>
 Elly
-"So there is a Vessel of
-Anima in these ruins."<Close><End of Block>
-<TextBlock 2 w:48 h:3>
+"So there's a Vessel
+of Anima in these
+ruins too."<Close><End of Block>
+<TextBlock 2 w:40 h:4>
 Elly
-"So there is a Vessel of
-Anima in these ruins."<Close><End of Block>
-<TextBlock 3 w:48 h:4>
+"So there's a Vessel
+of Anima in these
+ruins too."<Close><End of Block>
+<TextBlock 3 w:40 h:4>
 Rico
-"Hmph, so ancient people
-worshipped meaningless 
-things too, huh?"<Close><End of Block>
-<TextBlock 4 w:48 h:4>
+"Hmph, ancient folks
+worshipped useless
+stuff too, huh?"<Close><End of Block>
+<TextBlock 4 w:40 h:4>
 Rico
-"Hmph, so ancient people
-worshipped meaningless 
-things too, huh?"<Close><End of Block>
-<TextBlock 5 w:54 h:3>
+"Hmph, ancient folks
+worshipped useless
+stuff too, huh?"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
 Rico
-"Who's that?
-Wha'd you say?<New>
-Say something I understand!
-Who're you!?
-Get outta my head!"<Close><End of Block>
-<TextBlock 6 w:54 h:3>
+"Who's that!?
+What'd you say...?<New>
+Say somethin' I can
+understand!<Delay 5> Who the hell
+are ya!?<Delay 5> Quit gettin'
+in people's heads!"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
 Rico
-"Who's that?
-Wha'd you say?<New>
-Say something I understand!
-Who're you!?
-Get outta my head!"<Close><End of Block>
+"Who's that!?
+What'd you say...?<New>
+Say somethin' I can
+understand!<Delay 5> Who the hell
+are ya!?<Delay 5> Quit gettin'
+in people's heads!"<Close><End of Block>
 <TextBlock 7 w:22 h:3>
 Fei
 "Rico, are 
 you okay?"<Close><End of Block>
-<TextBlock 8 w:44 h:3>
+<TextBlock 8 w:34 h:3>
 Rico
-"I've seen that shape 
-somewhere before."<Close><End of Block>
-<TextBlock 9 w:44 h:3>
+"I've seen that
+shape somewhere."<Close><End of Block>
+<TextBlock 9 w:34 h:3>
 Rico
-"I've seen that shape 
-somewhere before."<Close><End of Block>
+"I've seen that
+shape somewhere."<Close><End of Block>
 <TextBlock 10 w:52 h:4>
 Fei
-"Wasn't that Rico's Gear? 
-So it looks like it was
-your turn, Rico!<New>
-Well anyway, we'll soon
-see when we go outside."<Close><Close><End of Block>
+"So this time it was
+Rico's Gear's turn, huh?<New>
+Well, we'll see when
+we go outside."<Close><Close><End of Block>

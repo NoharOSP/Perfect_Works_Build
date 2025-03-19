@@ -1,7 +1,7 @@
 <TextBlock 1 w:48 h:3>
 Fei
 "If we just stand still,
-we will be okay."<Opcode 2 30><Close><End of Block>
+we'll be okay."<Opcode 2 30><Close><End of Block>
 <TextBlock 2 w:14 h:3>
 Fei
 "What!?
@@ -16,7 +16,7 @@ Fei
 <TextBlock 5 w:20 h:3>
 Fei
 "Look out!
-Jump!"<Opcode 2 30><Close><End of Block>
+Jump off!"<Opcode 2 30><Close><End of Block>
 <TextBlock 6 w:34 h:4>
 Fei
 "Damn!
@@ -27,6 +27,6 @@ Fei
 "Yikes!
 The ceiling!
 It's falling!!"<Opcode 2 40><Close><End of Block>
-<TextBlock 8 w:42 h:2>
-Show some courage and
-  stand your ground!<Close><Close><End of Block>
+<TextBlock 8 w:44 h:2>
+'Show some courage and
+stand your ground.'<Close><Close><End of Block>
