@@ -813,6 +813,11 @@ These are applied if any option is selected.
 - A bug with Deus' first fight which can freeze the game if he tries to use his HP halve move from a side angle.
 - A bug which prevents Billy's Ether elemental ammo from being changed.
 
+If you want to use the bug fixes without any of the other options, xdeltas for both discs are available here:
+
+- [Disc 1](https://mega.nz/file/bCxxEZJD#oFCcGlOsP5L-iQlpqpUlqC7_ZypwcWwSaKdnxMwNaNE)
+- [Disc 2](https://mega.nz/file/WGhCVZKQ#G45_7fjfbirDwYLTRJWel5jUKBR_WMtaH_-K7oDQiQ4)
+
 ## Graphical fixes:
 
 Regardless of whether the portrait mod has been selected, character facesets that previous suffered from rogue pixels have been fixed. The edited portraits are listed along with the filenames necessary to update them with emulators that support texture replacement:
