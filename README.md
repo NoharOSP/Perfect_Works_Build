@@ -607,6 +607,10 @@ Q) Is the Perfect Works Build compatible with the No Battle Flashes patch?
 
 A) Unfortunately, it is not, though there are plans to add a battle flashes option.
 
+Q) Can the patch be played on real PlayStation hardware?
+
+A) Yes. The patch is routinely tested on PS1, PS2, PS3, PSP and PS Vita, and provided you have patched a clean rom, there should be no compatibility issues.
+
 ## Archive:
 
 ### Builds:
