@@ -357,6 +357,15 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				log_file << "No battle flashes unticked." << std::endl;
 				p_flashes = false;
 			}
+			LRESULT storymodeticked = SendMessage(storyMode, BM_GETCHECK, NULL, NULL);
+			if (storymodeticked == BST_CHECKED) {
+				log_file << "Story mode ticked." << std::endl;
+				p_story_mode = true;
+			}
+			else {
+				log_file << "Story mode unticked." << std::endl;
+				p_story_mode = false;
+			}
 			// Unlock patch button
 			patchBoxLock();
 		}
@@ -424,131 +433,140 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			// Check for ticked boxes
 			if (filePathValid) {
 				if (p_encounters) {
-					// Check if script patches aren't selected to avoid compatibility issues. Otherwise, a merged folder will be used
-					if (!p_script) {
-						if (pathFound1) {
-							log_file << "Disc 1 half encounters directory found." << std::endl;
-							encountersName1 = "encounter_rate_1";
+					// Check if story mode hasn't been ticked
+					if (!p_story_mode) {
+						// Check if script patches aren't selected to avoid compatibility issues. Otherwise, a merged folder will be used
+						if (!p_script) {
+							if (pathFound1) {
+								log_file << "Disc 1 half encounters directory found." << std::endl;
+								encountersName1 = "encounter_rate_1";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 half encounters directory found." << std::endl;
+								encountersName2 = "encounter_rate_2";
+							}
 						}
-						if (pathFound2) {
-							log_file << "Disc 2 half encounters directory found." << std::endl;
-							encountersName2 = "encounter_rate_2";
-						}
-					}
-					else {
-						if (pathFound1) {
-							log_file << "Disc 1 half encounters/retranslated script directory found." << std::endl;
-							encountersName1 = "encounterone_script";
-						}
-						if (pathFound2) {
-							log_file << "Disc 2 half encounters/retranslated script directory found." << std::endl;
-							encountersName2 = "encountertwo_script";
+						else {
+							if (pathFound1) {
+								log_file << "Disc 1 half encounters/retranslated script directory found." << std::endl;
+								encountersName1 = "encounterone_script";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 half encounters/retranslated script directory found." << std::endl;
+								encountersName2 = "encountertwo_script";
+							}
 						}
 					}
 				}
 				if (p_items_spells) {
-					// Check if the items/script hybrid patch needs to be applied
-					if (p_script) {
-						if (pathFound1) {
-							log_file << "Disc 1 rebalanced party/retranslated script directory found." << std::endl;
-							itemspellsName1 = "Script_items";
+					// Check if story mode hasn't been ticked
+					if (!p_story_mode) {
+						// Check if the items/script hybrid patch needs to be applied
+						if (p_script) {
+							if (pathFound1) {
+								log_file << "Disc 1 rebalanced party/retranslated script directory found." << std::endl;
+								itemspellsName1 = "Script_items";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 rebalanced party/retranslated script directory found." << std::endl;
+								itemspellsName2 = "Script_items2";
+							}
 						}
-						if (pathFound2) {
-							log_file << "Disc 2 rebalanced party/retranslated script directory found." << std::endl;
-							itemspellsName2 = "Script_items2";
-						}
-					}
-					else {
-						if (pathFound1) {
-							log_file << "Disc 1 rebalanced party directory found." << std::endl;
-							itemspellsName1 = "items1";
-						}
-						if (pathFound2) {
-							log_file << "Disc 1 rebalanced party directory found." << std::endl;
-							itemspellsName2 = "items2";
+						else {
+							if (pathFound1) {
+								log_file << "Disc 1 rebalanced party directory found." << std::endl;
+								itemspellsName1 = "items1";
+							}
+							if (pathFound2) {
+								log_file << "Disc 1 rebalanced party directory found." << std::endl;
+								itemspellsName2 = "items2";
+							}
 						}
 					}
 				}
 				if (p_exp_gold) {
-					// Check if items/spells and script patches aren't selected to avoid compatibility issues.
-					if (!p_script && !p_items_spells && !p_monsters) {
-						if (pathFound1) {
-							log_file << "Disc 1 1.5x exp/gold directory found." << std::endl;
-							expgoldName1 = "boost";
+					// Check if story mode hasn't been ticked
+					if (!p_story_mode) {
+						// Check if items/spells and script patches aren't selected to avoid compatibility issues.
+						if (!p_script && !p_items_spells && !p_monsters) {
+							if (pathFound1) {
+								log_file << "Disc 1 1.5x exp/gold directory found." << std::endl;
+								expgoldName1 = "boost";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 1.5x exp/gold directory found." << std::endl;
+								expgoldName2 = "boost";
+							}
 						}
-						if (pathFound2) {
-							log_file << "Disc 2 1.5x exp/gold directory found." << std::endl;
-							expgoldName2 = "boost";
+						else if (p_items_spells && !p_script && !p_monsters) {
+							if (pathFound1) {
+								log_file << "Disc 1 1.5x exp/gold/rebalanced party directory found." << std::endl;
+								expgoldName1 = "exp_gold_items";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 1.5x exp/gold/rebalanced party directory found." << std::endl;
+								expgoldName2 = "exp_gold_items";
+							}
 						}
-					}
-					else if (p_items_spells && !p_script && !p_monsters) {
-						if (pathFound1) {
-							log_file << "Disc 1 1.5x exp/gold/rebalanced party directory found." << std::endl;
-							expgoldName1 = "exp_gold_items";
+						else if (p_script && !p_items_spells && !p_monsters) {
+							if (pathFound1) {
+								log_file << "Disc 1 1.5x exp/gold/retranslated script directory found." << std::endl;
+								expgoldName1 = "exp_gold_script";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 1.5x exp/gold/retranslated script directory found." << std::endl;
+								expgoldName2 = "exp_gold_script";
+							}
 						}
-						if (pathFound2) {
-							log_file << "Disc 2 1.5x exp/gold/rebalanced party directory found." << std::endl;
-							expgoldName2 = "exp_gold_items";
+						else if (p_items_spells && p_script && !p_monsters) {
+							if (pathFound1) {
+								log_file << "Disc 1 1.5x exp/gold/retranslated script/rebalanced party directory found." << std::endl;
+								expgoldName1 = "exp_gold_both";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 1.5x exp/gold/retranslated script/rebalanced party directory found." << std::endl;
+								expgoldName2 = "exp_gold_both";
+							}
 						}
-					}
-					else if (p_script && !p_items_spells && !p_monsters) {
-						if (pathFound1) {
-							log_file << "Disc 1 1.5x exp/gold/retranslated script directory found." << std::endl;
-							expgoldName1 = "exp_gold_script";
+						else if (p_monsters && !p_items_spells && !p_script) {
+							if (pathFound1) {
+								log_file << "Disc 1 1.5x exp/gold/rebalanced monsters directory found." << std::endl;
+								expgoldName1 = "exp_monster";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 1.5x exp/gold/rebalanced monsters directory found." << std::endl;
+								expgoldName2 = "exp_monster";
+							}
 						}
-						if (pathFound2) {
-							log_file << "Disc 2 1.5x exp/gold/retranslated script directory found." << std::endl;
-							expgoldName2 = "exp_gold_script";
+						else if (p_monsters && p_items_spells && !p_script) {
+							if (pathFound1) {
+								log_file << "Disc 1 1.5x exp/gold/rebalanced monsters and party directory found." << std::endl;
+								expgoldName1 = "exp_monster_items";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 1.5x exp/gold/rebalanced monsters and party directory found." << std::endl;
+								expgoldName2 = "exp_monster_items";
+							}
 						}
-					}
-					else if (p_items_spells && p_script && !p_monsters) {
-						if (pathFound1) {
-							log_file << "Disc 1 1.5x exp/gold/retranslated script/rebalanced party directory found." << std::endl;
-							expgoldName1 = "exp_gold_both";
+						else if (p_monsters && !p_items_spells && p_script) {
+							if (pathFound1) {
+								log_file << "Disc 1 1.5x exp/gold/rebalanced monsters/retranslated script directory found." << std::endl;
+								expgoldName1 = "exp_monster_script";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 1.5x exp/gold/rebalanced monsters/retranslated script directory found." << std::endl;
+								expgoldName2 = "exp_monster_script";
+							}
 						}
-						if (pathFound2) {
-							log_file << "Disc 2 1.5x exp/gold/retranslated script/rebalanced party directory found." << std::endl;
-							expgoldName2 = "exp_gold_both";
-						}
-					}
-					else if (p_monsters && !p_items_spells && !p_script) {
-						if (pathFound1) {
-							log_file << "Disc 1 1.5x exp/gold/rebalanced monsters directory found." << std::endl;
-							expgoldName1 = "exp_monster";
-						}
-						if (pathFound2) {
-							log_file << "Disc 2 1.5x exp/gold/rebalanced monsters directory found." << std::endl;
-							expgoldName2 = "exp_monster";
-						}
-					}
-					else if (p_monsters && p_items_spells && !p_script) {
-						if (pathFound1) {
-							log_file << "Disc 1 1.5x exp/gold/rebalanced monsters and party directory found." << std::endl;
-							expgoldName1 = "exp_monster_items";
-						}
-						if (pathFound2) {
-							log_file << "Disc 2 1.5x exp/gold/rebalanced monsters and party directory found." << std::endl;
-							expgoldName2 = "exp_monster_items";
-						}
-					}
-					else if (p_monsters && !p_items_spells && p_script) {
-						if (pathFound1) {
-							log_file << "Disc 1 1.5x exp/gold/rebalanced monsters/retranslated script directory found." << std::endl;
-							expgoldName1 = "exp_monster_script";
-						}
-						if (pathFound2) {
-							log_file << "Disc 2 1.5x exp/gold/rebalanced monsters/retranslated script directory found." << std::endl;
-							expgoldName2 = "exp_monster_script";
-						}
-					}
-					else {
-						if (pathFound1) {
-							log_file << "Disc 1 1.5x exp/gold/rebalanced monsters and party/retranslated script directory found." << std::endl;
-							expgoldName1 = "exp_monster_both";
-						}
-						if (pathFound2) {
-							log_file << "Disc 2 1.5x exp/gold/rebalanced monsters and party/retranslated script directory found." << std::endl;
-							expgoldName2 = "exp_monster_both";
+						else {
+							if (pathFound1) {
+								log_file << "Disc 1 1.5x exp/gold/rebalanced monsters and party/retranslated script directory found." << std::endl;
+								expgoldName1 = "exp_monster_both";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 1.5x exp/gold/rebalanced monsters and party/retranslated script directory found." << std::endl;
+								expgoldName2 = "exp_monster_both";
+							}
 						}
 					}
 				}
@@ -575,49 +593,53 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					}
 				}
 				if (p_monsters) {
-					// Check if items/spells and script patches aren't selected to avoid compatibility issues.
-					if (!p_script && !p_items_spells && !p_exp_gold) {
-						if (pathFound1) {
-							log_file << "Disc 1 rebalanced monsters directory found." << std::endl;
-							monsterName1 = "Monsters";
+					// Check if story mode hasn't been ticked
+					if (!p_story_mode) {
+						// Check if items/spells and script patches aren't selected to avoid compatibility issues.
+						if (!p_script && !p_items_spells && !p_exp_gold) {
+							if (pathFound1) {
+								log_file << "Disc 1 rebalanced monsters directory found." << std::endl;
+								monsterName1 = "Monsters";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 rebalanced monsters directory found." << std::endl;
+								monsterName2 = "Monsters";
+							}
 						}
-						if (pathFound2) {
-							log_file << "Disc 2 rebalanced monsters directory found." << std::endl;
-							monsterName2 = "Monsters";
+						else if (p_items_spells && !p_script) {
+							if (pathFound1) {
+								log_file << "Disc 1 rebalanced monsters and party directory found." << std::endl;
+								monsterName1 = "monsters_items";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 rebalanced monsters and party directory found." << std::endl;
+								monsterName2 = "monsters_items";
+							}
 						}
-					}
-					else if (p_items_spells && !p_script) {
-						if (pathFound1) {
-							log_file << "Disc 1 rebalanced monsters and party directory found." << std::endl;
-							monsterName1 = "monsters_items";
+						else if (!p_items_spells && p_script) {
+							if (pathFound1) {
+								log_file << "Disc 1 rebalanced monsters/retranslated script directory found." << std::endl;
+								monsterName1 = "monsters_script";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 rebalanced monsters/retranslated script directory found." << std::endl;
+								monsterName2 = "monsters_script";
+							}
 						}
-						if (pathFound2) {
-							log_file << "Disc 2 rebalanced monsters and party directory found." << std::endl;
-							monsterName2 = "monsters_items";
-						}
-					}
-					else if (!p_items_spells && p_script) {
-						if (pathFound1) {
-							log_file << "Disc 1 rebalanced monsters/retranslated script directory found." << std::endl;
-							monsterName1 = "monsters_script";
-						}
-						if (pathFound2) {
-							log_file << "Disc 2 rebalanced monsters/retranslated script directory found." << std::endl;
-							monsterName2 = "monsters_script";
-						}
-					}
-					else if (p_items_spells && p_script) {
-						if (pathFound1) {
-							log_file << "Disc 1 rebalanced monsters and party/retranslated script directory found." << std::endl;
-							monsterName1 = "monsters_both";
-						}
-						if (pathFound2) {
-							log_file << "Disc 2 rebalanced monsters and party/retranslated script directory found." << std::endl;
-							monsterName2 = "monsters_both";
+						else if (p_items_spells && p_script) {
+							if (pathFound1) {
+								log_file << "Disc 1 rebalanced monsters and party/retranslated script directory found." << std::endl;
+								monsterName1 = "monsters_both";
+							}
+							if (pathFound2) {
+								log_file << "Disc 2 rebalanced monsters and party/retranslated script directory found." << std::endl;
+								monsterName2 = "monsters_both";
+							}
 						}
 					}
 				}
 				if (p_script) {
+					// TODO: Merge with story mode
 					if (pathFound1) {
 						// Check if items/spells and script hybrid won't be applied
 						if (!p_items_spells) {
@@ -643,45 +665,53 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 				if (p_barena) {
 					if (pathFound1) {
-						if (!p_script) {
-							log_file << "Disc 1 basic arena directory found." << std::endl;
-							arenaName1 = "filesbasic";
-						}
-						else {
-							log_file << "Disc 1 basic arena/retranslated script directory found." << std::endl;
-							arenaName1 = "filesbasic_script";
+						if (!p_story_mode) {
+							if (!p_script) {
+								log_file << "Disc 1 basic arena directory found." << std::endl;
+								arenaName1 = "filesbasic";
+							}
+							else {
+								log_file << "Disc 1 basic arena/retranslated script directory found." << std::endl;
+								arenaName1 = "filesbasic_script";
+							}
 						}
 					}
 					if (pathFound2) {
-						if (!p_script) {
-							log_file << "Disc 2 basic arena directory found." << std::endl;
-							arenaName2 = "filesbasic";
-						}
-						else {
-							log_file << "Disc 2 basic arena/retranslated script directory found." << std::endl;
-							arenaName2 = "filesbasic_script";
+						if (!p_story_mode) {
+							if (!p_script) {
+								log_file << "Disc 2 basic arena directory found." << std::endl;
+								arenaName2 = "filesbasic";
+							}
+							else {
+								log_file << "Disc 2 basic arena/retranslated script directory found." << std::endl;
+								arenaName2 = "filesbasic_script";
+							}
 						}
 					}
 				}
 				if (p_earena) {
 					if (pathFound1) {
-						if (!p_script) {
-							log_file << "Disc 1 expert arena directory found." << std::endl;
-							arenaName1 = "filesexpert";
-						}
-						else {
-							log_file << "Disc 1 expert arena/retranslated script directory found." << std::endl;
-							arenaName1 = "filesexpert_script";
+						if (!p_story_mode) {
+							if (!p_script) {
+								log_file << "Disc 1 expert arena directory found." << std::endl;
+								arenaName1 = "filesexpert";
+							}
+							else {
+								log_file << "Disc 1 expert arena/retranslated script directory found." << std::endl;
+								arenaName1 = "filesexpert_script";
+							}
 						}
 					}
 					if (pathFound2) {
-						if (!p_script) {
-							log_file << "Disc 2 expert arena directory found." << std::endl;
-							arenaName2 = "filesexpert";
-						}
-						else {
-							log_file << "Disc 2 expert arena/retranslated script directory found." << std::endl;
-							arenaName2 = "filesexpert_script";
+						if (!p_story_mode) {
+							if (!p_script) {
+								log_file << "Disc 2 expert arena directory found." << std::endl;
+								arenaName2 = "filesexpert";
+							}
+							else {
+								log_file << "Disc 2 expert arena/retranslated script directory found." << std::endl;
+								arenaName2 = "filesexpert_script";
+							}
 						}
 					}
 				}
@@ -759,6 +789,28 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						else {
 							log_file << "Disc 2 no battle flashes/rebalanced characters directory found." << std::endl;
 							flashesName2 = "flashes_items";
+						}
+					}
+				}
+				if (p_story_mode) {
+					if (pathFound1) {
+						if (!p_script) {
+							log_file << "Disc 1 story mode directory found." << std::endl;
+							storyModeName1 = "storyfiles_cd1";
+						}
+						else {
+							log_file << "Disc 1 story mode/retranslated script directory found." << std::endl;
+							storyModeName1 = "storyfiles_script_cd1";
+						}
+					}
+					if (pathFound2) {
+						if (!p_script) {
+							log_file << "Disc 2 story mode directory found." << std::endl;
+							storyModeName2 = "storyfiles_cd2";
+						}
+						else {
+							log_file << "Disc 2 story mode/retranslated script directory found." << std::endl;
+							storyModeName2 = "storyfiles_script_cd2";
 						}
 					}
 				}
@@ -1068,6 +1120,8 @@ void reinitialisePatches() {
 	voiceName2 = "";
 	flashesName1 = "";
 	flashesName2 = "";
+	storyModeName1 = "";
+	storyModeName2 = "";
 	log_file << "Clearing patch lists." << std::endl;
 	patchList1.clear();
 	patchList2.clear();
@@ -1356,10 +1410,14 @@ bool applyPatch(int discNum) {
 		}
 		if (p_encounters) {
 			if (discNum == 1) {
-				std::filesystem::copy(encountersName1, temp, std::filesystem::copy_options::update_existing);
+				if (encountersName1 != "") {
+					std::filesystem::copy(encountersName1, temp, std::filesystem::copy_options::update_existing);
+				}
 			}
 			if (discNum == 2) {
-				std::filesystem::copy(encountersName2, temp, std::filesystem::copy_options::update_existing);
+				if (encountersName2 != "") {
+					std::filesystem::copy(encountersName2, temp, std::filesystem::copy_options::update_existing);
+				}
 			}
 		}
 		if (p_fastnew || p_fastold) {
@@ -1392,26 +1450,38 @@ bool applyPatch(int discNum) {
 		}
 		if (p_barena || p_earena) {
 			if (discNum == 1) {
-				std::filesystem::copy(arenaName1, temp, std::filesystem::copy_options::update_existing);
+				if (arenaName1 != "") {
+					std::filesystem::copy(arenaName1, temp, std::filesystem::copy_options::update_existing);
+				}
 			}
 			if (discNum == 2) {
-				std::filesystem::copy(arenaName2, temp, std::filesystem::copy_options::update_existing);
+				if (arenaName2 != "") {
+					std::filesystem::copy(arenaName2, temp, std::filesystem::copy_options::update_existing);
+				}
 			}
 		}
 		if (p_items_spells) {
 			if (discNum == 1) {
-				std::filesystem::copy(itemspellsName1, temp, std::filesystem::copy_options::update_existing);
+				if (itemspellsName1 != "") {
+					std::filesystem::copy(itemspellsName1, temp, std::filesystem::copy_options::update_existing);
+				}
 			}
 			if (discNum == 2) {
-				std::filesystem::copy(itemspellsName2, temp, std::filesystem::copy_options::update_existing);
+				if (itemspellsName2 != "") {
+					std::filesystem::copy(itemspellsName2, temp, std::filesystem::copy_options::update_existing);
+				}
 			}
 		}
 		if (p_exp_gold) {
 			if (discNum == 1) {
-				std::filesystem::copy(expgoldName1, temp, std::filesystem::copy_options::update_existing);
+				if (expgoldName1 != "") {
+					std::filesystem::copy(expgoldName1, temp, std::filesystem::copy_options::update_existing);
+				}
 			}
 			if (discNum == 2) {
-				std::filesystem::copy(expgoldName2, temp, std::filesystem::copy_options::update_existing);
+				if (expgoldName2 != "") {
+					std::filesystem::copy(expgoldName2, temp, std::filesystem::copy_options::update_existing);
+				}
 			}
 		}
 		if (p_monsters) {
@@ -1440,6 +1510,18 @@ bool applyPatch(int discNum) {
 			}
 			if (discNum == 2) {
 				std::filesystem::copy(flashesName2, temp, std::filesystem::copy_options::update_existing);
+			}
+		}
+		if (p_story_mode) {
+			if (discNum == 1) {
+				if (storyModeName1 != "") {
+					std::filesystem::copy(storyModeName1, temp, std::filesystem::copy_options::update_existing);
+				}
+			}
+			if (discNum == 2) {
+				if (storyModeName2 != "") {
+					std::filesystem::copy(storyModeName2, temp, std::filesystem::copy_options::update_existing);
+				}
 			}
 		}
 		if (discNum == 1) {
