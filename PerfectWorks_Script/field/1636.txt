@@ -1,52 +1,43 @@
 <TextBlock 1 w:22 h:1>
 ...<Delay 24>A purge!<Opcode 2 50><Close><End of Block>
-<TextBlock 2 w:48 h:4>
+<TextBlock 2 w:42 h:3>
 Ramsus
 "You<Delay 5>...<Delay 32>
-If only you were gone<Delay 5>...<Delay 5>
-I would<Delay 5>...<New>
-That is why...<Delay 32>
-I will<Delay 5>...<Delay 5>
-remove<Delay 5>...<Delay 5>
+If not for you<Delay 5>...<Delay 5>I<Delay 5>...<New>
+That's why...<Delay 32>
+I will<Delay 5>...<Delay 5>eliminate<Delay 5>...<Delay 5>
 you<Delay 5>...<New>
-In order to defeat
-him once and for
-all<Delay 5>..."<Close><End of Block>
-<TextBlock 3 w:26 h:2>
+In order to beat
+him<Delay 5>..."<Close><End of Block>
+<TextBlock 3 w:32 h:2>
 Ramsus
-"AaaaAAAAH!!"<Close><End of Block>
-<TextBlock 4 w:34 h:3>
+"Rrraaaggghhh!!"<Close><End of Block>
+<TextBlock 4 w:30 h:3>
 Karellen
-"Of course.<Delay 32><New>
-That is the way I
-created him,
-after all"<Close><End of Block>
+"Of course.<Delay 32>
+That is why he
+was created."<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Karellen
-"Surely not.<New>
-Those old men
-who so cling to their lives<New>
-as to willingly be reduced
-to data in the SOL-9000
-matter nothing to me.<Delay 5>...<Delay 5><New>
-You will become an
-obstruction to the
-realization of
-my goal.<New>
-Nothing more.<Delay 5>..."<Close><End of Block>
-<TextBlock 6 w:44 h:4>
+"Oh, please.<New>
+I care nothing for the
+elders, trying to cling to
+life so far as to end up as
+mere data in the SOL-9000.<New>
+Your existence is an
+obstacle to the fulfilment
+of my goal.<Delay 10> That's all."<Close><End of Block>
+<TextBlock 6 w:42 h:4>
 Karellen
-"Yes, that is
-exactly what I
-am working for.<New>
-I am leading the
-people by
-'my own means'.
-That has not changed."<Close><End of Block>
+"Oh, quite so.
+I am trying to guide
+the humans 'my way'.<New>
+This doesn't change
+that."<Close><End of Block>
 <TextBlock 7 w:20 h:3>
 Karellen
 "Kill him,
-'Ramses'!"<Close><End of Block>
+'Ramses'."<Close><End of Block>
 <TextBlock 8 w:38 h:3>
 Citan
 "If it does not
@@ -192,33 +183,31 @@ Emperor
 my trust in him...<New>
 That is all I can
 do to atone..."<Close><End of Block>
-<TextBlock 36 w:30 h:3>
+<TextBlock 36 w:42 h:3>
 Emperor Cain
-"Ramsus......
-What is it...?"<Close><End of Block>
-<TextBlock 37 w:32 h:4>
+"What business have
+you here, Ramsus...?"<Close><End of Block>
+<TextBlock 37 w:36 h:3>
 Emperor Cain
-"What is the
-meaning of this,
-Ramsus......?"<Close><End of Block>
-<TextBlock 38 w:36 h:4>
+"Ramsus...
+What is all this?"<Close><End of Block>
+<TextBlock 38 w:38 h:4>
 Emperor Cain
-"Impossible!
+"Ridiculous!<Delay 10>
 You can counteract
-my power......!?"<Close><End of Block>
-<TextBlock 39 w:28 h:4>
+my power...!?"<Close><End of Block>
+<TextBlock 39 w:40 h:4>
 Emperor Cain
-"Karellen...!?
-You have sided
-with them!?"<Close><End of Block>
-<TextBlock 40 w:52 h:3>
+"Karellen...!?<Delay 10>
+Surely you have not
+sided with them!?"<Close><End of Block>
+<TextBlock 40 w:52 h:4>
 Emperor Cain
 "Were you not working for
-the people's future...<New>
-for the continuation of 
-humanity? That is why
-I supported....."<Close><End of Block>
-<TextBlock 41 w:28 h:3>
+the future of the humans,
+for their survival?<New>
+That is why I supported<-->"<Close><End of Block>
+<TextBlock 41 w:30 h:3>
 Emperor Cain
-"Karellen, are
-you...!?"<Close><Close><End of Block>
+"Karellen, what
+have you<-->!?"<Close><Close><End of Block>

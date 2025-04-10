@@ -307,10 +307,10 @@ yous, dat wash mine.<Close><End of Block>
 <TextBlock 75 w:46 h:2>
 Hey, do something about
 this old drunk.<Close><End of Block>
-<TextBlock 76 w:48 h:3>
+<TextBlock 76 w:50 h:3>
 Hey, do something with
 this old drunk. He's
-worse company than Wels.<Close><End of Block>
+worse company than Verus.<Close><End of Block>
 <TextBlock 77 w:48 h:2>
 Nope.
 I'm not trying to drink.<Close><End of Block>
@@ -332,7 +332,7 @@ with that crap.<Close><End of Block>
 <TextBlock 82 w:50 h:4>
 Men are so weak.
 They try to forget about
-their fear of the Wels
+their fear of the Verus
 with that crap.<Close><End of Block>
 <TextBlock 83 w:33 h:3>
 I am <Delay 30>the maste~r<Delay 45>

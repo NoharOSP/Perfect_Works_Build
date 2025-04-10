@@ -993,7 +993,7 @@ captain of the Tamuz!"<Close><End of Block>
 <TextBlock 164 w:60 h:3>
 I've detected a rescue signal!<Delay 10>
 It seems the Tamuz is being
-attacked by a swarm of Wels!<Close><End of Block>
+attacked by a swarm of Verus!<Close><End of Block>
 <TextBlock 165 w:48 h:4>
 Bart
 "Is this what Stone was
@@ -1008,12 +1008,12 @@ of purge by Solaris!?"<Close><End of Block>
 Citan
 "Let us make haste!<Delay 10>
 Otherwise the Tamuz will
-be destroyed by Wels!"<Close><End of Block>
+be destroyed by Verus!"<Close><End of Block>
 <TextBlock 168 w:50 h:4>
 Citan
 "Let us make haste!<Delay 10>
 Otherwise the Tamuz will
-be destroyed by Wels!"<Close><End of Block>
+be destroyed by Verus!"<Close><End of Block>
 <TextBlock 169 w:44 h:4>
 Jessie
 "Well, the Church is
@@ -1247,7 +1247,7 @@ sank the Yggdrasil,<Delay 10>
 killed Rico's subordinates
 in Kislev...<New>
 Need I go on?<Delay 10>
-He is<Delay 5>...<Delay 5>Id.<Close><End of Block>
+He is<Delay 5>...<Delay 5>Id."<Close><End of Block>
 <TextBlock 200 w:26 h:2>
 Sigurd
 "What!?<Delay 10> Id!?"<Close><End of Block>
@@ -1265,7 +1265,7 @@ as multiple personality
 disorder."<Close><End of Block>
 <TextBlock 203 w:36 h:2>
 Jessie
-"Dis...<Delay 5> Disas...?"<Close><End of Block>
+"Dis...<Delay 5> Disso...?"<Close><End of Block>
 <TextBlock 204 w:50 h:3>
 Citan
 "Dissociative identity

@@ -148,10 +148,10 @@ Just thinking about it
 gives me a rush!<Close><End of Block>
 <TextBlock 38 w:50 h:3>
 That's it! I'm gonna
-be a Wels hunter!
+be a Verus hunter!
 BLAM! <Delay 15>BAM! <Delay 15>KABLAM!<New>
-Wast'em all! Just call me
-the Wels Lady Hunter...<Close><End of Block>
+Waste 'em all! Just call
+me Lady Verus-Hunter...<Close><End of Block>
 <TextBlock 39 w:42 h:2>
 Hmmm...I've got a bad
 feeling about this...<Close><End of Block>

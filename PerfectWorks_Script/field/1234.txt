@@ -46,9 +46,9 @@ The sea!<Delay 10>
 It'll be smooth sailing.<Close><End of Block>
 <TextBlock 14 w:58 h:4>
 This is the top of the tower.
-No Wels.
-No Wels...<Delay 10>
-<Delay 10>...May there not be any Wels.<Close><End of Block>
+No Verus.
+No Verus...<Delay 10>
+<Delay 10>...Please, no Verus.<Close><End of Block>
 <TextBlock 15 w:48 h:3>
 This is the crane room.
 We're not fishing up any
@@ -197,7 +197,7 @@ fishbowl thing?<New>
 It came out of nowhere and
 kicked our butts and, to
 make matters worse, left
-behind Wels.<New>
+behind Verus.<New>
 And then it headed for
 some obscure excavation
 site where there's supposed
@@ -422,8 +422,8 @@ young upstart.<Close><End of Block>
 <TextBlock 81 w:50 h:2>
 I've held on to this seat
 for thirty years.<New>
-But when Wels attacked, I
-thought about running.<Close><End of Block>
+But when Verus attacked,
+I thought about running.<Close><End of Block>
 <TextBlock 82 w:46 h:3>
 You can talk to other
 areas aboard the Tamuz
@@ -435,10 +435,10 @@ was called Babel Tower.<New>
 Even I can't see the top of
 it, and my eyes are good!<New>
 They say the undead called
-Wels come from there.<Close><End of Block>
+Verus come from there.<Close><End of Block>
 <TextBlock 84 w:44 h:3>
 I'm surprised about
-the Wels.<New>
+the Verus.<New>
 I guess the rumor that
 they come from Babel
 Tower is false, huh?<Close><End of Block>
@@ -446,8 +446,8 @@ Tower is false, huh?<Close><End of Block>
 Huh?<Delay 10> Isn't this
 the beer hall?<Close><End of Block>
 <TextBlock 86 w:26 h:2>
-Huh?
-Wels? Where?<Close><End of Block>
+Huh? Verus?
+Where?<Close><End of Block>
 <TextBlock 87 w:6 h:1>
 ...<Opcode 2 100><Close><End of Block>
 <TextBlock 88 w:22 h:3>
@@ -879,10 +879,10 @@ us for? We only came
 to help with the
 excavations..."<Close><End of Block>
 <TextBlock 173 w:46 h:4>
-C-Captain!<Delay 5> Wels!<Delay 5>
-Wels are coming out of
-that fishbowl thing in
-their dozens!<Close><End of Block>
+C-Captain!<Delay 5> Verus!<Delay 5>
+Verus are coming out
+of that fishbowl thing
+in their dozens!<Close><End of Block>
 <TextBlock 174 w:16 h:2>
 Captain
 "What!?"<Close><End of Block>
@@ -905,10 +905,10 @@ We will escape while also
 rescuing as many survivors
 as possible from the other
 ships!<New>
-And shoot down the Wels
+And shoot down the Verus
 with our two cannons!
 Don't let those filthy
-Wels get near our Tamuz!"<Close><End of Block>
+Verus get near our Tamuz!"<Close><End of Block>
 <TextBlock 179 w:48 h:4>
 Captain
 "Hans!

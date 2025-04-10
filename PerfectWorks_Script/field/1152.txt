@@ -1248,82 +1248,80 @@ superior qualities, as
 long as the 'original'
 exists you will be shunned.<New>
 Eliminate the fragmented
-power, and all will be 
+power, and all will be
 yours<Delay 5>...<Delay 5> Don't you think
 so, Carl<Delay 5>...?"<Close><End of Block>
 <TextBlock 247 w:26 h:2>
-Cain has
+So Cain has
 died<Delay 5>...<Close><End of Block>
 <TextBlock 248 w:8 h:1>
 Yes.<Close><End of Block>
-<TextBlock 249 w:40 h:3>
-So this is the fate 
-of one so long 
-confined in 
+<TextBlock 249 w:34 h:3>
+The fate of one
+so long bound by
 flesh<Delay 5>...<Close><End of Block>
-<TextBlock 250 w:40 h:3>
-If only he had 
-logical attributes 
-such as ours<Delay 5>...<Close><End of Block>
-<TextBlock 251 w:50 h:4>
-Because he was dominated 
-by his useless flesh, 
-this was the outcome.<Delay 15>
-Well done,<Delay 5> Karellen.<Close><End of Block>
+<TextBlock 250 w:32 h:3>
+If only he too
+had our logical
+nature<Delay 5>...<Close><End of Block>
+<TextBlock 251 w:50 h:3>
+Ruled by needless flesh,
+yet this was the outcome.<Delay 15>
+You did well,<Delay 5> Karellen.<Close><End of Block>
 <TextBlock 252 w:14 h:2>
 Karellen
 "<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 253 w:46 h:4>
-With this, there are 
-none to obstruct the 
-accomplishment of our 
-objective.<Close><End of Block>
+<TextBlock 253 w:44 h:4>
+With this, there are
+none to hinder the
+accomplishment of our
+goal.<Close><End of Block>
 <TextBlock 254 w:46 h:4>
-The Vessels of Anima 
-have awakened and have 
-obtained the Animus.<New>
-Dan,<Delay 5> Joseph,<Delay 5> and Gad<Delay 5>...<Delay 5>
-which aligned with 
-surface dwellers<Delay 5>...<Close><End of Block>
+The Vessels of Anima
+have awakened, having
+obtained their compan-
+ions, the Animus.<New>
+Dan,<Delay 5> Joseph<Delay 5> and Gad,<Delay 5>
+aligned with surface
+dwellers<Delay 5>...<Close><End of Block>
 <TextBlock 255 w:34 h:4>
 Hyuga's Asher,<Delay 5>
 Ramsus' Zebulun,<Delay 5>
 Karellen's Judah,<Delay 5>
 Sophia's Dinah<Delay 5>...<Close><End of Block>
-<TextBlock 256 w:50 h:3>
-Reuben<Delay 5>, Simeon<Delay 5>, Levi<Delay 5> and
-Issachar<Delay 5> which aligned
-500 years ago<Delay 5>...<Close><End of Block>
+<TextBlock 256 w:52 h:4>
+Reuben<Delay 5>, Simeon<Delay 5>, Levi<Delay 5>
+and Issachar,<Delay 5> their
+alignments already
+performed 500 years ago<Delay 5>...<Close><End of Block>
 <TextBlock 257 w:52 h:4>
-And finally<Delay 5>...<Delay 5>
-Grahf's Naphtali<Delay 5>...<Delay 5><New>
+And finally,<Delay 5>
+Grahf's Naphtali<Delay 5>...<Delay 5>
 All of the Vessels of
 Anima have been activated.<Close><End of Block>
-<TextBlock 258 w:42 h:4>
-The existence of
-<Delay 5>the mother's<Delay 5>
-<Delay 5>persona<Delay 5> too
-has become clear.<Close><End of Block>
+<TextBlock 258 w:40 h:4>
+The presence of the
+Mother's mask,<Delay 5> the
+Persona,<Delay 5> has also
+become clear.<Close><End of Block>
 <TextBlock 259 w:36 h:1>
-The <Delay 5>time<Delay 5> has come.<Close><End of Block>
+The<Delay 5> time<Delay 5> has come.<Close><End of Block>
 <TextBlock 260 w:52 h:4>
-To obtain god's flesh and 
-wisdom, we now open the 
-door to the kingdom of 
-god<Delay 5>...<Close><End of Block>
-<TextBlock 261 w:40 h:4>
-The time of the true
+To obtain God's flesh and
+wisdom, let us now open
+the door to the kingdom
+of God<Delay 5>...<Close><End of Block>
+<TextBlock 261 w:38 h:4>
+The time of true
 awakening<Delay 5>...<Delay 5>
-Carry us to new
-horizons<Delay 5>...<New>
-The time of the
-gospel has come<Delay 5>...<Close><End of Block>
+To a new horizon
+with us<Delay 5>...<New>
+The Time of the
+Gospel has come<Delay 5>...<Close><End of Block>
 <TextBlock 262 w:38 h:3>
-Come, all you 
-people.<Delay 5><New>
-Praise the 
-awakening of 
-god.<Close><End of Block>
+Now, humans.<Delay 5>
+You shall extol the
+awakening of God.<Close><End of Block>
 <TextBlock 263 w:46 h:2>
 The body of God is 
 recovered<Delay 5>...<Close><End of Block>

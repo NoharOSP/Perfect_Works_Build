@@ -16,7 +16,7 @@ control...<Delay 30> Please
 don't kill me...<Opcode 2 30><Close><End of Block>
 <TextBlock 6 w:34 h:4>
 We were turned
-into Wels as an
+into Verus as an
 experiment-<Delay 5>t-<Delay 5>t...<Delay 10>
 Huh?<Delay 10> *gurgle*...<Opcode 2 40><Close><End of Block>
 <TextBlock 7 w:36 h:2>
@@ -26,9 +26,9 @@ hurts, it hurts...<Opcode 2 30><Close><End of Block>
 Y-You<Delay 10> look tasty...<Opcode 2 30><Close><End of Block>
 <TextBlock 9 w:34 h:2>
 First demihumans,
-and now Wels...<Opcode 2 30><Close><End of Block>
-<TextBlock 10 w:50 h:2>
-W-Wels are pretty good...<Delay 30>
+and now Verus...<Opcode 2 30><Close><End of Block>
+<TextBlock 10 w:52 h:2>
+V-Verus are pretty good...<Delay 30>
 H-How 'bout you?<Opcode 2 30><Close><End of Block>
 <TextBlock 11 w:34 h:2>
 I-I...was once...<Delay 30>

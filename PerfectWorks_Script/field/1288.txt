@@ -20,12 +20,12 @@ is not allowed in here.
 Please leave.<Close><End of Block>
 <TextBlock 5 w:50 h:3>
 The bishop's been worried
-about Wels, refugees,
+about Verus, refugees,
 Etones, the faith...<Close><End of Block>
 <TextBlock 6 w:52 h:3>
-(<Delay 10>...Too many Wels are out 
+(<Delay 10>...Too many Verus are out 
 there now. More than we 
-can handle...<Delay 20><New>
+can handle...<New>
 What are 'they' thinking?)<Close><End of Block>
 <TextBlock 7 w:32 h:1>
 Purge! Purge...!<Close><End of Block>

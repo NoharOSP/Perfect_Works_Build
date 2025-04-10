@@ -471,14 +471,15 @@ Ramsus was afraid.<Delay 45>
  
 He craved love more
 than anyone else<Delay 5>...<Close><End of Block>
-<TextBlock 52 w:58 h:8>
-Suddenly the howling erupted.<Delay 30>
-Even the people who had not
-mutated were being turned...
-                   into Wels.<Delay 45>
+<TextBlock 52 w:60 h:9>
+Suddenly, the howling erupted.<Delay 30>
  
-They howled out like war
-cries, as if to call out
+Even the people who had
+avoided abnormalities this
+far mutated...<Delay 20>into Verus.<Delay 45>
+ 
+They raised their war
+cries as if to call out
 to something.<Close><End of Block>
 <TextBlock 53 w:52 h:12>
 That was because Ramsus

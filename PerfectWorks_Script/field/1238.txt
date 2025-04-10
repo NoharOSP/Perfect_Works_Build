@@ -9,7 +9,7 @@ to my stupid son.<Close><End of Block>
 <TextBlock 3 w:50 h:3>
 Hey!<Delay 3>
 I'm not closing down even
-if the Wels show up.<New>
+if the Verus show up.<New>
 If you need something,
 talk to my stupid son.<Close><End of Block>
 <TextBlock 4 w:46 h:4>
@@ -96,7 +96,7 @@ It's over here.
 I still need more
 practice.<Close><End of Block>
 <TextBlock 27 w:48 h:3>
-I'm sure the Wels are
+I'm sure the Verus are
 followin' us 'cause of
 the captain.<Close><End of Block>
 <TextBlock 28 w:8 h:1>
@@ -119,11 +119,12 @@ Come again soon.<Close><End of Block>
 My li'l sister pushed me.
 She always picks on me.
 I'm so scared.<Close><End of Block>
-<TextBlock 35 w:54 h:3>
+<TextBlock 35 w:50S h:3>
 My li'l sister pushed me.
 She always bullies me.
 I'm so scared.<New>
-I'm scared of the Wels too.<Close><End of Block>
+I'm scared of the Verus
+too.<Close><End of Block>
 <TextBlock 36 w:46 h:3>
 My big brother's a real
 wimp <--> he's scared of
@@ -132,18 +133,18 @@ Pathetic.
 Just calm down.<Close><End of Block>
 <TextBlock 37 w:54 h:3>
 My big brother is so scared
-of the Wels he won't go to
-the bathroom alone.<New>
+of the Verus he won't go
+to the bathroom alone.<New>
 Pathetic.
 Just calm down.<Close><End of Block>
 <TextBlock 38 w:28 h:1>
 It's so<Delay 10>...<Delay 10>hot.<Close><End of Block>
-<TextBlock 39 w:42 h:1>
-The Wels<Delay 10>...<Delay 10>are scary.<Close><End of Block>
+<TextBlock 39 w:44 h:1>
+The Verus<Delay 10>...<Delay 10>are scary.<Close><End of Block>
 <TextBlock 40 w:28 h:1>
 It's so<Delay 10>...<Delay 10>hot.<Close><End of Block>
-<TextBlock 41 w:42 h:1>
-The Wels<Delay 10>...<Delay 10>are scary.<Close><End of Block>
+<TextBlock 41 w:44 h:1>
+The Verus<Delay 10>...<Delay 10>are scary.<Close><End of Block>
 <TextBlock 42 w:34 h:3>
 I lost.
 You get this.

@@ -36,7 +36,7 @@ is weeping.<Delay 10>
 <TextBlock 9 w:52 h:2>
 Only I...<Delay 10>...<Delay 10>survived.<New>
 My comrades were taken off
-and eaten by the Wels...<Close><End of Block>
+and eaten by the Verus...<Close><End of Block>
 <TextBlock 10 w:56 h:4>
 Boy was it a shock. We were
 all enthused about being
@@ -58,7 +58,7 @@ any further than this bed.<Close><End of Block>
 <TextBlock 12 w:54 h:5>
 Anna
 "My husband was eaten by
-that Wels thing...
+that Verus thing...
 We three were the only ones
 saved. What do we do now?"<Close><End of Block>
 <TextBlock 13 w:42 h:3>
@@ -152,7 +152,7 @@ deal with these
 Doctor
 "They are people from the
 Church who are appointed
-to purge the 'Wels' <--><New>
+to purge the 'Verus' <--><New>
 terrible revenants that
 appear here in Aqvi."<Close><End of Block>
 <TextBlock 32 w:36 h:3>

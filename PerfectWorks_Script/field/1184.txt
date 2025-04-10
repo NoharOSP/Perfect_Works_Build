@@ -130,8 +130,8 @@ for a while...<Close><End of Block>
 I thought the Gear
 left a while ago...<Delay 10>
 Didn't it...?<Close><End of Block>
-<TextBlock 29 w:50 h:1>
-That was one huuuge Wels!<Close><End of Block>
+<TextBlock 29 w:52 h:1>
+That was one huuuge Verus!<Close><End of Block>
 <TextBlock 30 w:38 h:3>
 Ghost ship!?<Delay 10>
 Yeesh, now I feel

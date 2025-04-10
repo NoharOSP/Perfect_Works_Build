@@ -6,9 +6,9 @@ of the Church's military,
 yet they've been killed
 without signs of struggle."<Close><End of Block>
 <TextBlock 2 w:54 h:3>
-Wels are humans turned into
-things by God to pay for
-their sins.<New>
+Verus are humans turned
+into things by God to pay
+for their sins.<New>
 They're sealed in the
 cursed land of the heavens,
 Shevat.<Close><End of Block>
@@ -32,7 +32,7 @@ connected to Shevat. The
 exit is under close watch
 by our people.<New>
 In spite of that, those
-accursed Wels continue to
+accursed Verus continue to
 appear in this land.<New>
 That's why the Etones are
 here to eliminate them.<Close><End of Block>
@@ -40,8 +40,8 @@ here to eliminate them.<Close><End of Block>
 We, the Etones, are the
 swords and shields of the
 Church, so to speak.<New>
-We fight with enemies
-such as Wels and thieves,<New>
+We battle enemies such
+as Verus and thieves,<New>
 to save people with faith
 in God.<Close><End of Block>
 <TextBlock 7 w:44 h:3>
@@ -62,7 +62,7 @@ Oh, my head hurts.<Close><End of Block>
 <TextBlock 9 w:50 h:6>
 Plundered by war and
 salvagers... Destruction
-by the Wels...<Delay 10>
+by the Verus...<Delay 10>
 We must meet the people's
 expectations toward the
 Church.<Close><End of Block>

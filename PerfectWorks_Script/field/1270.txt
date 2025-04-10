@@ -35,7 +35,7 @@ didn't last long...<Close><End of Block>
 <TextBlock 7 w:50 h:4>
 When I was 12, the house
 was suddenly attacked by
-a group of Wels, and Mom
+a group of Verus, and Mom
 was killed.<New>
 They wanted to know Dad's
 whereabouts, but Mom
@@ -49,7 +49,7 @@ ringing out...<New>
 I even remember the sound
 of the empty shells
 hitting the floor.<New>
-But then the Wels
+But then the Verus
 cried out,<Delay 10> and I
 heard someone fall.<Close><End of Block>
 <TextBlock 9 w:48 h:3>
@@ -61,11 +61,11 @@ that meeting onwards.<Close><End of Block>
 <TextBlock 10 w:46 h:3>
 Bart
 "Hey, hey, wait a sec.<Delay 10> 
-Do Wels talk?"<Close><End of Block>
+Do Verus talk?"<Close><End of Block>
 <TextBlock 11 w:46 h:4>
 Citan
 "Please wait a moment.<Delay 10> 
-Wels can speak in a
+Verus can speak in a
 human language?"<Close><End of Block>
 <TextBlock 12 w:52 h:3>
 Billy
@@ -154,7 +154,7 @@ and your sister<Delay 30>..."<Close><End of Block>
 <TextBlock 27 w:48 h:4>
 Stone
 "Using Karellen's
-remarkable Wels,<Delay 10>
+remarkable Verus,<Delay 10>
 I saved poor Racquel..."<Close><End of Block>
 <TextBlock 28 w:0 h:1>
 <Close><End of Block>

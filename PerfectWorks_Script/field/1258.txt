@@ -277,10 +277,10 @@ is not responding..."<Close><End of Block>
 <TextBlock 75 w:40 h:2>
 Billy
 "Are you saying...?"<Close><End of Block>
-<TextBlock 76 w:46 h:3>
+<TextBlock 76 w:48 h:3>
 Bishop Stone
 "Yes,<Delay 10> I'm afraid it's
-most likely Wels again.<New>
+most likely Verus again.<New>
 Billy, can I ask you
 to do the usual?"<Close><End of Block>
 <TextBlock 77 w:48 h:3>

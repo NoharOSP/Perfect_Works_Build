@@ -9,7 +9,7 @@ Elly
 "Scared?"<Close><End of Block>
 <TextBlock 4 w:48 h:4>
 Elly
-"Wels?
+"Verus?
 By the way Billy, do
 you have any equipment?"<Close><End of Block>
 <TextBlock 5 w:50 h:3>
@@ -29,7 +29,7 @@ Citan
 afraid?"<Close><End of Block>
 <TextBlock 9 w:44 h:4>
 Citan
-"Wels?
+"Verus?
 Billy are you equipped
 for this?"<Close><End of Block>
 <TextBlock 10 w:50 h:3>
@@ -47,7 +47,7 @@ Bart
 "Scared?"<Close><End of Block>
 <TextBlock 14 w:32 h:4>
 Bart
-"Wels?
+"Verus?
 So Billy, do you
 have equipment?"<Close><End of Block>
 <TextBlock 15 w:50 h:3>
@@ -65,7 +65,7 @@ Rico
 "Scared?"<Close><End of Block>
 <TextBlock 19 w:34 h:4>
 Rico
-"Wels?
+"Verus?
 Hey, Billy do you
 have equipment?"<Close><End of Block>
 <TextBlock 20 w:52 h:3>
@@ -87,7 +87,7 @@ engaged.<Close><End of Block>
 <TextBlock 24 w:42 h:3>
 Billy
 "This unusual smell
-is that of the Wels.<New>
+is that of the Verus.<New>
 It seems they did
 attack, just as we
 feared..."<Close><End of Block>

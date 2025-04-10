@@ -21,7 +21,7 @@ Hans
 "Her name is Anna. She's
 my wife. She was saved by
 the Tamuz when the ships
-were attacked by Wels.<New>
+were attacked by Verus.<New>
 Unfortunately, that's when
 she lost her husband<Delay 10>...
 Don't misunderstand me.<New>
@@ -262,7 +262,7 @@ Hans
 "The Tamuz<Delay 10>...<Delay 10>sank.
 The 'Angels' attacked...<New>
 The Tamuz withstood the
-onslaught of Wels, but
+onslaught of Verus, but
 was defenseless against
 those 'Angels'<Delay 10>...<New>
 Hardly anyone got out in

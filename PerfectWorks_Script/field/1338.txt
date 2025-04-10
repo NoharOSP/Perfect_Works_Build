@@ -7,7 +7,7 @@ Other than that,
 eliminate the rest
 of the trash.<New>
 Use the test subjects,
-Wels, for retrieval
+Verus, for retrieval
 and elimination."<Close><End of Block>
 <TextBlock 2 w:42 h:3>
 Karellen
@@ -25,8 +25,8 @@ What should we do?<Close><End of Block>
 Clean up is at 80%.
 Currently, our heading
 is clear.<Close><End of Block>
-<TextBlock 5 w:38 h:1>
-Releasing the Wels.<Close><End of Block>
+<TextBlock 5 w:40 h:1>
+Releasing the Verus.<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 Main gun, 20 until the
 energy is recharged.<New>

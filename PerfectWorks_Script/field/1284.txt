@@ -145,9 +145,9 @@ workers were injured."<Close><End of Block>
 Verlaine
 "My goodness, you're such
 a fine Etone <--> destroying
-Wels and demonstrating<New>
+Verus and demonstrating<New>
 the righteousness of the
-Church to the world.<New>
+Church to the world.<Delay 10>
 But your father<Delay 20>..."<Close><End of Block>
 <TextBlock 30 w:40 h:4>
 Verlaine
@@ -211,7 +211,7 @@ The Church accepted
 me as a believer.
 This is my home now.<Close><End of Block>
 <TextBlock 40 w:46 h:3>
-The Wels destroyed my
+The Verus destroyed my
 village...<New>
 I'll become an Etone
 and create a world with

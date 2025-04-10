@@ -724,7 +724,7 @@ have arrived..."<Close><End of Block>
 Billy
 "It's possible the
 transport ship is<Delay 10> under
-attack by Wels..."<Close><End of Block>
+attack by Verus..."<Close><End of Block>
 <TextBlock 114 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 115 w:6 h:1>
@@ -821,7 +821,7 @@ the plan, many Lambs were
 gathered by the Church
 to become guinea pigs.<New>
 Or I should say, to
-become Wels..."<Close><End of Block>
+become Verus..."<Close><End of Block>
 <TextBlock 129 w:50 h:4>
 Jessie
 "Disgusted with Solaris'

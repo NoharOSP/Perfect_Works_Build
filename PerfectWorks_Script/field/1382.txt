@@ -39,7 +39,7 @@ through at all!!"<Close><End of Block>
 <TextBlock 7 w:44 h:4>
 Billy
 "You son of a<-->!
-You used the Wels...
+You used the Verus...
 against my mother...!"<Close><End of Block>
 <TextBlock 8 w:34 h:3>
 Billy
@@ -159,7 +159,7 @@ Stone
 "Ahh, yes.
 Billy, let me tell
 you something good...<New>
-The Wels you have
+The Verus you have
 been purging this
 whole time...<New>
 They are all ordinary
@@ -200,7 +200,7 @@ to Ether..."<Close><End of Block>
 <TextBlock 33 w:50 h:3>
 Citan
 "Th-That is a Buntline...<New>
-It is an Ether gun Gear
+It is an Ether-gun Gear
 where the pilot rides
 directly in the warhead.<New>
 If we use that we can

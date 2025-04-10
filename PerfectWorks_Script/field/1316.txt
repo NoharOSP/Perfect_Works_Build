@@ -166,7 +166,7 @@ the Etones.<New>
 organization I established
 within the Church.<New>
 Ostensibly, their aim was
-to eliminate the Wels,<Delay 5>
+to eliminate the Verus,<Delay 5>
 the revenants that run
 rampant on the surface.<New>
 But<Delay 10> that was not their
@@ -226,7 +226,8 @@ Billy
 "<Delay 10>..."<Close><End of Block>
 <TextBlock 36 w:54 h:4>
 Stone
-"The purging of the Wels...<New>
+"The purging of the
+Verus...<New>
 You believe that to be the
 salvation of wandering
 souls,<Delay 5> don't you?<New>
