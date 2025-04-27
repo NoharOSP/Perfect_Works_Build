@@ -1593,7 +1593,7 @@ bool applyPatch(int discNum) {
 	system("cmd.exe /c xenoiso list.txt -d");
 	// Copy xenoiso log contents to pw_log
 	std::ifstream xenoisoLog("log.txt");
-	log_file << xenoisoLog.rdbuf() << "/n";
+	log_file << xenoisoLog.rdbuf() << "\n";
 	// Remove batch and backup bin
 	log_file << "Remove command file." << std::endl;
 	remove("commands.cmd");
