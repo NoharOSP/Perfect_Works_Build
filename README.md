@@ -617,7 +617,7 @@ Q) Can the patch be played on real PlayStation hardware?
 
 A) Yes. The patch is routinely tested on PS1, PS2, PS3, PSP and PS Vita, and provided you have patched a clean rom, there should be no compatibility issues.
 
-Q) When I press patch, an empty command prompt briefly shown up, and the file sizes for the ROMs are only 1 KB.
+Q) When I press patch, an empty command prompt briefly shown up, and the file sizes for the ROMs are only 0-1 KB.
 
 A) This is most likely a result of using the patcher inside OneDrive. Move the patcher and its associated files to a directory outside of OneDrive.
 
