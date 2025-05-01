@@ -14,8 +14,6 @@ Download version 0.5.6 here:
 - Select which patches you wish to apply.
 - Press Patch. The script edits should take longer to patch as it has the most files to copy.
 
-WARNING: Do not put the patcher inside OneDrive. If used, xenoiso will not function correctly. A workaround to the issue will be looked into.
-
 ## Completion stats:
 
 - Name/terminology changes: 100%
@@ -619,7 +617,7 @@ A) Yes. The patch is routinely tested on PS1, PS2, PS3, PSP and PS Vita, and pro
 
 Q) When I press patch, an empty command prompt briefly shown up, and the file sizes for the ROMs are only 0-1 KB.
 
-A) This is most likely a result of using the patcher inside OneDrive. Move the patcher and its associated files to a directory outside of OneDrive.
+A) This is most likely a result of using the patcher inside OneDrive. Two ways to go about this are to move the patcher and its associated files to a directory outside of OneDrive, or pause file synching when patching.
 
 ## Archive:
 
