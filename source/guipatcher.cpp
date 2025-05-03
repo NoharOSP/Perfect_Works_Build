@@ -814,8 +814,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 					}
 				}
-				// Bug patch is not applied with items/spells as they already have it applied.
-				if (!p_items_spells) {
+				// Bug patch is not applied with items/spells and battle flashes as they already have it applied.
+				if (!p_items_spells && !p_flashes) {
 					if (pathFound1) {
 						log_file << "Disc 1 bug fix directory found." << std::endl;
 						bugName1 = "bug_fix";
