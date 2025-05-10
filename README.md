@@ -1,9 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
 
-Download version 0.5.6 here:
-- MEGA: https://mega.nz/file/zTJwgJLK#RsVnueHIcEIhNGtrprGT_PZDkN4q57n0PG6_Bj3N9yQ
-- Google Drive: https://drive.google.com/file/d/1B0N4Q2aaQNlSxz74DBNNnpJtSd228uZg/view?usp=sharing
+Download version 0.6.0 here:
+- MEGA: https://mega.nz/file/LbhAUIab#JHgyqrMx7cXMLA06dOM2KeM9k0F-xoSXo8kmCNqGXTE
+- Google Drive: https://drive.google.com/file/d/1QnGP7f5uWaEeIUfYJKSaUibO_U0XrOAY/view?usp=sharing
   
 ## Instructions:
 
@@ -29,6 +29,27 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.6.0:
+
+05/09/2025
+
+- Patcher has been reorganised to better clarify what each option is supposed to do.
+- The patcher now generates an error log.
+- No battle flashes option has been added.
+- Story mode option by Siris has been added.
+- Geburah Special Forces now have their original defences in their fight inside Bart's Lair.
+- It is now clearer that Hammer is the character speaking during your fight against him.
+- Added hyphens to all enemies with "Neo" in their name.
+- Wels have been renamed to Verus.
+- Wild Smile and White Lure are now multi-target abilities.
+- Maiden's Kiss now has 5 EP.
+- Correct the mistake where E-Generators aren't sold in the Anima Dungeons or the first trip to Merkabah.
+- The new Drives now have the correct shop descriptions.
+- Citan's Renki has been replaced with a revival spell called Kaisei. Details are in the wiki. In a gear, Kataku has been renamed Kaisei, though its effect is the same.
+- Citan's attack growth is now 85, while the sword variant's is 95.
+- All documented stat growth changes have been implemented.
+- Fixed an encoding error with some of the early scenes in disc 2.
 
 ### Version 0.5.6:
 
@@ -622,6 +643,11 @@ A) This is most likely a result of using the patcher inside OneDrive. Two ways t
 ## Archive:
 
 ### Builds:
+
+#### Version 0.5.6:
+
+- MEGA: https://mega.nz/file/zTJwgJLK#RsVnueHIcEIhNGtrprGT_PZDkN4q57n0PG6_Bj3N9yQ
+- Google Drive: https://drive.google.com/file/d/1B0N4Q2aaQNlSxz74DBNNnpJtSd228uZg/view?usp=sharing
 
 #### Version 0.5.5:
 
