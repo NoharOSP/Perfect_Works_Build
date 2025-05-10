@@ -1261,7 +1261,7 @@ void tooltipTextMaker(HWND hWnd) {
 		"from the base game.\n";
 	HWND tt_narena = toolGenerator(text_narena, hWnd, normalarena);
 	char text_story_mode[] =
-		"Turns off random encounters entirely"
+		"Turns off random encounters entirely\n"
 		"and ensures all enemies in the game\n"
 		"can be killed in one hit.\n";
 	HWND tt_story_mode = toolGenerator(text_story_mode, hWnd, storyMode);
