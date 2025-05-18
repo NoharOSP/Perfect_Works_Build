@@ -1,9 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
 
-Download version 0.6.0 here:
-- MEGA: https://mega.nz/file/LbhAUIab#JHgyqrMx7cXMLA06dOM2KeM9k0F-xoSXo8kmCNqGXTE
-- Google Drive: https://drive.google.com/file/d/1QnGP7f5uWaEeIUfYJKSaUibO_U0XrOAY/view?usp=sharing
+Download version 0.6.1 here:
+- MEGA: https://mega.nz/file/jThGBKyL#LkUx3dNeeVJJo52wOqHe8IkUUab_HBCVbymaolZumKM
+- Google Drive: https://drive.google.com/file/d/1L-w_zL0MxEEWSuO1mLDPqNiokF6Dihsl/view?usp=sharing
   
 ## Instructions:
 
@@ -29,6 +29,13 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.6.1:
+
+05/17/2025
+
+- Fixed a line break issue with the story mode tooltip.
+- Fixed a rebalanced items/party game freeze that occurs when opening the Gear menu on more accurate emulators and official hardware.
 
 ### Version 0.6.0:
 
@@ -644,6 +651,10 @@ A) This is most likely a result of using the patcher inside OneDrive. Two ways t
 
 ### Builds:
 
+#### Version 0.6.0:
+- MEGA: https://mega.nz/file/LbhAUIab#JHgyqrMx7cXMLA06dOM2KeM9k0F-xoSXo8kmCNqGXTE
+- Google Drive: https://drive.google.com/file/d/1QnGP7f5uWaEeIUfYJKSaUibO_U0XrOAY/view?usp=sharing
+
 #### Version 0.5.6:
 
 - MEGA: https://mega.nz/file/zTJwgJLK#RsVnueHIcEIhNGtrprGT_PZDkN4q57n0PG6_Bj3N9yQ
@@ -767,6 +778,10 @@ A) This is most likely a result of using the patcher inside OneDrive. Two ways t
 Versions 0.1.0 - 0.1.6 are no longer available to download. Use the contact options provided if you are interested in using them.
 
 ### GUI patcher:
+
+#### Version 0.8
+
+Included with build 0.5.
 
 #### Version 0.7
 
