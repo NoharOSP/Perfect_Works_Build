@@ -491,81 +491,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						if (!p_script && !p_items_spells && !p_monsters) {
 							if (pathFound1) {
 								log_file << "Disc 1 1.5x exp/gold directory found." << std::endl;
-								expgoldName1 = "boost";
+								expgoldName1 = "og_monsters";
 							}
 							if (pathFound2) {
 								log_file << "Disc 2 1.5x exp/gold directory found." << std::endl;
-								expgoldName2 = "boost";
-							}
-						}
-						else if (p_items_spells && !p_script && !p_monsters) {
-							if (pathFound1) {
-								log_file << "Disc 1 1.5x exp/gold/rebalanced party directory found." << std::endl;
-								expgoldName1 = "exp_gold_items";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 1.5x exp/gold/rebalanced party directory found." << std::endl;
-								expgoldName2 = "exp_gold_items";
-							}
-						}
-						else if (p_script && !p_items_spells && !p_monsters) {
-							if (pathFound1) {
-								log_file << "Disc 1 1.5x exp/gold/retranslated script directory found." << std::endl;
-								expgoldName1 = "exp_gold_script";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 1.5x exp/gold/retranslated script directory found." << std::endl;
-								expgoldName2 = "exp_gold_script";
-							}
-						}
-						else if (p_items_spells && p_script && !p_monsters) {
-							if (pathFound1) {
-								log_file << "Disc 1 1.5x exp/gold/retranslated script/rebalanced party directory found." << std::endl;
-								expgoldName1 = "exp_gold_both";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 1.5x exp/gold/retranslated script/rebalanced party directory found." << std::endl;
-								expgoldName2 = "exp_gold_both";
-							}
-						}
-						else if (p_monsters && !p_items_spells && !p_script) {
-							if (pathFound1) {
-								log_file << "Disc 1 1.5x exp/gold/rebalanced monsters directory found." << std::endl;
-								expgoldName1 = "exp_monster";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 1.5x exp/gold/rebalanced monsters directory found." << std::endl;
-								expgoldName2 = "exp_monster";
-							}
-						}
-						else if (p_monsters && p_items_spells && !p_script) {
-							if (pathFound1) {
-								log_file << "Disc 1 1.5x exp/gold/rebalanced monsters and party directory found." << std::endl;
-								expgoldName1 = "exp_monster_items";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 1.5x exp/gold/rebalanced monsters and party directory found." << std::endl;
-								expgoldName2 = "exp_monster_items";
-							}
-						}
-						else if (p_monsters && !p_items_spells && p_script) {
-							if (pathFound1) {
-								log_file << "Disc 1 1.5x exp/gold/rebalanced monsters/retranslated script directory found." << std::endl;
-								expgoldName1 = "exp_monster_script";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 1.5x exp/gold/rebalanced monsters/retranslated script directory found." << std::endl;
-								expgoldName2 = "exp_monster_script";
-							}
-						}
-						else {
-							if (pathFound1) {
-								log_file << "Disc 1 1.5x exp/gold/rebalanced monsters and party/retranslated script directory found." << std::endl;
-								expgoldName1 = "exp_monster_both";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 1.5x exp/gold/rebalanced monsters and party/retranslated script directory found." << std::endl;
-								expgoldName2 = "exp_monster_both";
+								expgoldName2 = "og_monsters";
 							}
 						}
 					}
@@ -596,7 +526,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					// Check if story mode hasn't been ticked
 					if (!p_story_mode) {
 						// Check if items/spells and script patches aren't selected to avoid compatibility issues.
-						if (!p_script && !p_items_spells && !p_exp_gold) {
+						if (!p_script && !p_items_spells) {
 							if (pathFound1) {
 								log_file << "Disc 1 rebalanced monsters directory found." << std::endl;
 								monsterName1 = "Monsters";
