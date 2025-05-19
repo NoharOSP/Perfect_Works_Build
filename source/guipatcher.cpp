@@ -836,41 +836,55 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					titleName2 = "title_screen";
 				}
 				initialisePatchLists();
-				log_file << "Starting patch process." << std::endl;
-				SetWindowText(hWnd, L"Patching...");
-				log_file << "Changing cursor to reflect loading." << std::endl;
-				SetCursor(LoadCursor(NULL, IDC_WAIT));
-				// Apply disc 1 patches
-				if (pathFound1) {
-					log_file << "Applying disc 1 patches." << std::endl;
-					if (applyPatch(1)) {
-						log_file << "xenoiso process successful." << std::endl;
-						successMessage = true;
-					}
-					else {
-						log_file << "xenoiso process failed." << std::endl;
-						successMessage = false;
-					}
-				}
-				// Apply disc 2 patches
-				if (pathFound2) {
-					log_file << "Applying disc 2 patches." << std::endl;
-					if (applyPatch(2)) {
-						successMessage = true;
-					}
-					else {
-						log_file << "xenoiso process failed." << std::endl;
-						successMessage = false;
-					}
-				}
-				SetWindowText(hWnd, szTitle);
-				if (successMessage) {
-					log_file << "Show success message." << std::endl;
-					MessageBox(hWnd, L"Patch was completed successfully.", L"Success", MB_ICONASTERISK);
+				log_file << "Check if the patcher is inside OneDrive." << std::endl;
+				if (home.contains("OneDrive")) {
+					log_file << "Display OneDrive error." << std::endl;
+					MessageBox(hWnd, L"The patcher is in the OneDrive. It cannot be used.", L"Error", MB_ICONASTERISK);
+					safeDrive = false;
+					log_file << "Abort patching process." << std::endl;
+					SetWindowText(hWnd, szTitle);
 				}
 				else {
-					log_file << "Show failure message." << std::endl;
-					MessageBox(hWnd, L"An error occurred with xenoiso. View pw_log for details.", L"Error", MB_ICONASTERISK);
+					log_file << "OneDrive is not in use. Resume execution." << std::endl;
+					safeDrive = true;
+				}
+				if (safeDrive) {
+					log_file << "Starting patch process." << std::endl;
+					SetWindowText(hWnd, L"Patching...");
+					log_file << "Changing cursor to reflect loading." << std::endl;
+					SetCursor(LoadCursor(NULL, IDC_WAIT));
+					// Apply disc 1 patches
+					if (pathFound1) {
+						log_file << "Applying disc 1 patches." << std::endl;
+						if (applyPatch(1)) {
+							log_file << "xenoiso process successful." << std::endl;
+							successMessage = true;
+						}
+						else {
+							log_file << "xenoiso process failed." << std::endl;
+							successMessage = false;
+						}
+					}
+					// Apply disc 2 patches
+					if (pathFound2) {
+						log_file << "Applying disc 2 patches." << std::endl;
+						if (applyPatch(2)) {
+							successMessage = true;
+						}
+						else {
+							log_file << "xenoiso process failed." << std::endl;
+							successMessage = false;
+						}
+					}
+					SetWindowText(hWnd, szTitle);
+					if (successMessage) {
+						log_file << "Show success message." << std::endl;
+						MessageBox(hWnd, L"Patch was completed successfully.", L"Success", MB_ICONASTERISK);
+					}
+					else {
+						log_file << "Show failure message." << std::endl;
+						MessageBox(hWnd, L"An error occurred with xenoiso. View pw_log for details.", L"Error", MB_ICONASTERISK);
+					}
 				}
 				// Restore defaults
 				relock();

@@ -62,6 +62,7 @@ bool space = false;
 bool guidrawn = false;
 bool globdrawn = false;
 bool successMessage = false;
+bool safeDrive = false;
 std::string home = "";
 std::string path1 = "";
 std::string path2 = "";
