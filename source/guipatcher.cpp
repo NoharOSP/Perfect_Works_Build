@@ -1283,6 +1283,44 @@ void drawGlobalText() {
 	TextOut(hdc, winX * 0.0325, winY * 0.15, cd2text, wcslen(cd2text));
 }
 
+// Apply 1.5 exp or 1.5 gold changes
+void monsterEdits(std::string file) {
+	int fileNum = std::stoi(file);
+	if (fileNum < 2618 && fileNum > 2768) {
+		return;
+	}
+	else {
+		std::ifstream fileContents;
+		fileContents.open(file, std::ios::binary);
+		int length = std::filesystem::file_size(file);
+		for (int i = 0x7e; i < length; i += 0x170) {
+			char* buffer;
+			fileContents.seekg(i, std::ios_base::beg);
+			fileContents.read(buffer, 2);
+			int hp = atoi(buffer);
+			fileContents.seekg((i + 2), std::ios_base::beg);
+			fileContents.read(buffer, 2);
+			int mhp = atoi(buffer);
+			bool gear = hp || mhp == 0;
+			int data[4];
+			if (gear) {
+				data[0] = 0xb8;
+				data[1] = 0xbc;
+				data[2] = 0x100;
+				data[3] = 0x10a;
+			}
+			else {
+				data[0] = 0;
+				data[1] = 0;
+				data[2] = 0x100;
+				data[3] = 0x10a;
+			}
+			// Continue here
+		}
+	}
+}
+
+
 bool applyPatch(int discNum) {
 	std::vector<std::string> patchList;
 	std::string fileName;
@@ -1340,6 +1378,18 @@ bool applyPatch(int discNum) {
 		std::filesystem::current_path(filePath);
 		std::filesystem::create_directory(temp);
 		log_file << "Copy files from each selected option into the temporary directory." << std::endl;
+		if (p_exp_gold) {
+			if (discNum == 1) {
+				if (expgoldName1 != "") {
+					std::filesystem::copy(expgoldName1, temp, std::filesystem::copy_options::update_existing);
+				}
+			}
+			if (discNum == 2) {
+				if (expgoldName2 != "") {
+					std::filesystem::copy(expgoldName2, temp, std::filesystem::copy_options::update_existing);
+				}
+			}
+		}
 		if (p_script) {
 			if (discNum == 1) {
 				if (scriptName1 != "") {
@@ -1413,18 +1463,6 @@ bool applyPatch(int discNum) {
 			if (discNum == 2) {
 				if (itemspellsName2 != "") {
 					std::filesystem::copy(itemspellsName2, temp, std::filesystem::copy_options::update_existing);
-				}
-			}
-		}
-		if (p_exp_gold) {
-			if (discNum == 1) {
-				if (expgoldName1 != "") {
-					std::filesystem::copy(expgoldName1, temp, std::filesystem::copy_options::update_existing);
-				}
-			}
-			if (discNum == 2) {
-				if (expgoldName2 != "") {
-					std::filesystem::copy(expgoldName2, temp, std::filesystem::copy_options::update_existing);
 				}
 			}
 		}
@@ -1573,5 +1611,3 @@ bool applyPatch(int discNum) {
 		return true;
 	}
 }
-
-

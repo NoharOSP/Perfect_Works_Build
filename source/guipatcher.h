@@ -165,6 +165,7 @@ void initialiseGlobalWindows(HWND hWnd);
 void initialiseGlobalFont();
 void drawGUIText();
 void drawGlobalText();
+void monsterEdits(std::string file);
 bool applyPatch(int discNum);
 HWND CreateToolTip(HWND hParent, HWND hText, HINSTANCE hInst, PTSTR pszText);
 HWND toolGenerator(char* text, HWND hWnd, HWND hText);
