@@ -487,16 +487,13 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				if (p_exp_gold) {
 					// Check if story mode hasn't been ticked
 					if (!p_story_mode) {
-						// Check if items/spells and script patches aren't selected to avoid compatibility issues.
-						if (!p_script && !p_items_spells && !p_monsters) {
-							if (pathFound1) {
-								log_file << "Disc 1 1.5x exp/gold directory found." << std::endl;
-								expgoldName1 = "og_monsters";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 1.5x exp/gold directory found." << std::endl;
-								expgoldName2 = "og_monsters";
-							}
+						if (pathFound1) {
+							log_file << "Disc 1 1.5x exp/gold directory found." << std::endl;
+							expgoldName1 = "og_monsters";
+						}
+						if (pathFound2) {
+							log_file << "Disc 2 1.5x exp/gold directory found." << std::endl;
+							expgoldName2 = "og_monsters";
 						}
 					}
 				}
@@ -1290,8 +1287,8 @@ void monsterEdits(std::string file) {
 		return;
 	}
 	else {
-		std::ifstream fileContents;
-		fileContents.open(file, std::ios::binary);
+		std::fstream fileContents;
+		fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
 		int length = std::filesystem::file_size(file);
 		for (int i = 0x7e; i < length; i += 0x170) {
 			char* buffer;
@@ -1315,7 +1312,23 @@ void monsterEdits(std::string file) {
 				data[2] = 0x100;
 				data[3] = 0x10a;
 			}
-			// Continue here
+			fileContents.seekg((i + data[2]), std::ios_base::beg);
+			fileContents.read(buffer, 4);
+			float exp = atoi(buffer);
+			fileContents.seekg((i + data[3]), std::ios_base::beg);
+			fileContents.read(buffer, 2);
+			float gold = atoi(buffer);
+			exp = exp * 1.5;
+			gold = gold * 1.5;
+			std::string sexp = std::to_string((int)exp);
+			std::string sgold = std::to_string((int)gold);
+			char* cexp = new char[4];
+			strcpy(cexp, sexp.c_str());
+			char* cgold = new char[2];
+			strcpy(cgold, sgold.c_str());
+			fileContents.seekp((i + data[2]), std::ios_base::beg);
+			fileContents.write(cexp, 4);
+			fileContents.write(cgold, 2);
 		}
 	}
 }
@@ -1522,6 +1535,9 @@ bool applyPatch(int discNum) {
 				std::filesystem::copy(titleName2, temp, std::filesystem::copy_options::overwrite_existing);
 			}
 		}
+		if (p_exp_gold) {
+			// Use directory iterator. Possibly consider moving number check here
+		}
 		std::filesystem::current_path(home);
 		changed = true;
 		if (p_fmv) {
@@ -1571,7 +1587,7 @@ bool applyPatch(int discNum) {
 		int batch_exit_code = system("cmd.exe /c commands.cmd");
 	}
 	log_file << "Execute xenoiso." << std::endl;
-	system("cmd.exe /c xenoiso list.txt -d");
+	int batch_exit_code = system("cmd.exe /c xenoiso list.txt -d");
 	// Copy xenoiso log contents to pw_log
 	std::ifstream xenoisoLog("log.txt");
 	log_file << xenoisoLog.rdbuf() << "\n";
