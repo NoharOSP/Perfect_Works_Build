@@ -1603,7 +1603,7 @@ bool applyPatch(int discNum) {
 		int batch_exit_code = system("cmd.exe /c commands.cmd");
 	}
 	log_file << "Execute xenoiso." << std::endl;
-	system("cmd.exe /c xenoiso list.txt -d");
+	int batch_exit_code = system("cmd.exe /c xenoiso list.txt -d");
 	// Copy xenoiso log contents to pw_log
 	std::ifstream xenoisoLog("log.txt");
 	log_file << xenoisoLog.rdbuf() << "\n";
