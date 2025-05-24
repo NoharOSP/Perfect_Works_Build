@@ -1282,7 +1282,15 @@ void drawGlobalText() {
 
 // Apply 1.5 exp or 1.5 gold changes
 void monsterEdits(std::string file) {
-	int fileNum = std::stoi(file);
+	std::string trimfile = file;
+	trimfile.erase(0, 5);
+	int fileNum = 0;
+	if (trimfile[0] == '2') {
+		fileNum = std::stoi(trimfile);
+	}
+	else {
+		return;
+	}
 	if (fileNum < 2618 && fileNum > 2768) {
 		return;
 	}
@@ -1290,15 +1298,24 @@ void monsterEdits(std::string file) {
 		std::fstream fileContents;
 		fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
 		int length = std::filesystem::file_size(file);
-		for (int i = 0x7e; i < length; i += 0x170) {
-			char* buffer;
-			fileContents.seekg(i, std::ios_base::beg);
-			fileContents.read(buffer, 2);
-			int hp = atoi(buffer);
-			fileContents.seekg((i + 2), std::ios_base::beg);
-			fileContents.read(buffer, 2);
-			int mhp = atoi(buffer);
-			bool gear = hp || mhp == 0;
+		// Fix infinite loop
+		for (int i = 0x7e; i < length; i = i + 0x170) {
+			unsigned char buffer;
+			buffer = 0;
+			fileContents.seekp(i, std::ios_base::beg);
+			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
+			int hp = (int)buffer;
+			int nextpos = i + 2;
+			fileContents.seekp(nextpos, std::ios_base::beg);
+			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
+			int mhp = (int)buffer;
+			bool gear;
+			if (hp == 0 || mhp == 0) {
+				gear = true;
+			}
+			else {
+				gear = false;
+			}
 			int data[4];
 			if (gear) {
 				data[0] = 0xb8;
@@ -1308,28 +1325,35 @@ void monsterEdits(std::string file) {
 			}
 			else {
 				data[0] = 0;
-				data[1] = 0;
+				data[1] = 2;
 				data[2] = 0x100;
 				data[3] = 0x10a;
 			}
-			fileContents.seekg((i + data[2]), std::ios_base::beg);
-			fileContents.read(buffer, 4);
-			float exp = atoi(buffer);
-			fileContents.seekg((i + data[3]), std::ios_base::beg);
-			fileContents.read(buffer, 2);
-			float gold = atoi(buffer);
+			nextpos = i + data[2];
+			fileContents.seekp(nextpos, std::ios_base::beg);
+			fileContents.read(reinterpret_cast<char*>(&buffer), 4);
+			int exp = (int)buffer;
+			nextpos = i + data[3];
+			fileContents.seekp(nextpos, std::ios_base::beg);
+			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
+			int gold = (int)buffer;
 			exp = exp * 1.5;
 			gold = gold * 1.5;
-			std::string sexp = std::to_string((int)exp);
-			std::string sgold = std::to_string((int)gold);
+			std::string sexp = std::to_string(exp);
+			std::string sgold = std::to_string(gold);
 			char* cexp = new char[4];
 			strcpy(cexp, sexp.c_str());
 			char* cgold = new char[2];
 			strcpy(cgold, sgold.c_str());
-			fileContents.seekp((i + data[2]), std::ios_base::beg);
+			nextpos = i + data[2];
+			fileContents.seekp(nextpos, std::ios_base::beg);
 			fileContents.write(cexp, 4);
+			nextpos = i + data[3];
+			fileContents.seekp(nextpos, std::ios_base::beg);
 			fileContents.write(cgold, 2);
 		}
+		fileContents.close();
+		return;
 	}
 }
 
@@ -1536,7 +1560,11 @@ bool applyPatch(int discNum) {
 			}
 		}
 		if (p_exp_gold) {
-			// Use directory iterator. Possibly consider moving number check here
+			// Iterate through files exp/gold files
+			log_file << "Applying exp/gold changes." << std::endl;
+			for (const auto & entry : std::filesystem::directory_iterator(temp)) {
+				monsterEdits(entry.path().string());
+			}
 		}
 		std::filesystem::current_path(home);
 		changed = true;
