@@ -647,6 +647,10 @@ Q) When I press patch, an empty command prompt briefly shown up, and the file si
 
 A) This is most likely a result of using the patcher inside OneDrive. Two ways to go about this are to move the patcher and its associated files to a directory outside of OneDrive, or pause file synching when patching.
 
+Q) When I press patch, the patcher crashes entirely.
+
+A) This is most likely a result of using the patcher inside the Public directory. Move the patcher and any Xenogears ROMs to another location.
+
 ## Archive:
 
 ### Builds:
