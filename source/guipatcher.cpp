@@ -1298,7 +1298,7 @@ void monsterEdits(std::string file) {
 		std::fstream fileContents;
 		fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
 		int length = std::filesystem::file_size(file);
-		// Fix infinite loop
+		// Stop overrun
 		for (int i = 0x7e; i < length; i = i + 0x170) {
 			unsigned char buffer;
 			buffer = 0;
@@ -1332,25 +1332,19 @@ void monsterEdits(std::string file) {
 			nextpos = i + data[2];
 			fileContents.seekp(nextpos, std::ios_base::beg);
 			fileContents.read(reinterpret_cast<char*>(&buffer), 4);
-			int exp = (int)buffer;
+			uint64_t exp = buffer;
 			nextpos = i + data[3];
 			fileContents.seekp(nextpos, std::ios_base::beg);
 			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
-			int gold = (int)buffer;
+			uint64_t gold = buffer;
 			exp = exp * 1.5;
 			gold = gold * 1.5;
-			std::string sexp = std::to_string(exp);
-			std::string sgold = std::to_string(gold);
-			char* cexp = new char[4];
-			strcpy(cexp, sexp.c_str());
-			char* cgold = new char[2];
-			strcpy(cgold, sgold.c_str());
 			nextpos = i + data[2];
 			fileContents.seekp(nextpos, std::ios_base::beg);
-			fileContents.write(cexp, 4);
+			fileContents.write(reinterpret_cast<char*>(&exp), 4);
 			nextpos = i + data[3];
 			fileContents.seekp(nextpos, std::ios_base::beg);
-			fileContents.write(cgold, 2);
+			fileContents.write(reinterpret_cast<char*>(&gold), 2);
 		}
 		fileContents.close();
 		return;
