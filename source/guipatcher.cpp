@@ -1282,6 +1282,7 @@ void drawGlobalText() {
 
 // Apply 1.5 exp or 1.5 gold changes
 void monsterEdits(std::string file) {
+	// Check if filename is between 2618 and 2768
 	std::string trimfile = file;
 	trimfile.erase(0, 5);
 	int fileNum = 0;
@@ -1295,27 +1296,35 @@ void monsterEdits(std::string file) {
 		return;
 	}
 	else {
+		// Open file
 		std::fstream fileContents;
 		fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
+		// Set length
 		int length = std::filesystem::file_size(file);
-		// Stop overrun
-		for (int i = 0x7e; i < length; i = i + 0x170) {
-			unsigned char buffer;
+		wchar_t buffer;
+		// Iterate through each monster
+		// TODO: Ensure the footer code of a monster file isn't overwritten
+		for (int i = 126; i < length; i = i + 368) {
+			// Reset buffer
 			buffer = 0;
+			// Read HP
 			fileContents.seekp(i, std::ios_base::beg);
 			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
-			int hp = (int)buffer;
+			uint64_t hp = buffer;
+			// Read max HP
 			int nextpos = i + 2;
 			fileContents.seekp(nextpos, std::ios_base::beg);
 			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
-			int mhp = (int)buffer;
+			uint64_t mhp = buffer;
 			bool gear;
+			// Check if the monster is a gear
 			if (hp == 0 || mhp == 0) {
 				gear = true;
 			}
 			else {
 				gear = false;
 			}
+			// Establish an array which determines the position i jumps to
 			int data[4];
 			if (gear) {
 				data[0] = 0xb8;
@@ -1329,16 +1338,20 @@ void monsterEdits(std::string file) {
 				data[2] = 0x100;
 				data[3] = 0x10a;
 			}
+			// Find experience
 			nextpos = i + data[2];
 			fileContents.seekp(nextpos, std::ios_base::beg);
 			fileContents.read(reinterpret_cast<char*>(&buffer), 4);
 			uint64_t exp = buffer;
+			// Find gold
 			nextpos = i + data[3];
 			fileContents.seekp(nextpos, std::ios_base::beg);
 			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
 			uint64_t gold = buffer;
+			// Apply modifier
 			exp = exp * 1.5;
 			gold = gold * 1.5;
+			// Rewrite experience and gold
 			nextpos = i + data[2];
 			fileContents.seekp(nextpos, std::ios_base::beg);
 			fileContents.write(reinterpret_cast<char*>(&exp), 4);
@@ -1346,8 +1359,8 @@ void monsterEdits(std::string file) {
 			fileContents.seekp(nextpos, std::ios_base::beg);
 			fileContents.write(reinterpret_cast<char*>(&gold), 2);
 		}
+		// Close file
 		fileContents.close();
-		return;
 	}
 }
 
