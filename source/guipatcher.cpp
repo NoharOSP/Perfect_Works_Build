@@ -1299,14 +1299,14 @@ void monsterEdits(std::string file) {
 		// Open file
 		std::fstream fileContents;
 		fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
-		// Set length
-		int length = std::filesystem::file_size(file);
 		wchar_t buffer;
+		buffer = 0;
+		// Set length using first two bytes of a monster file
+		fileContents.seekp(0, std::ios_base::beg);
+		fileContents.read(reinterpret_cast<char*>(&buffer), 2);
+		int length = buffer;
 		// Iterate through each monster
-		// TODO: Ensure the footer code of a monster file isn't overwritten
 		for (int i = 126; i < length; i = i + 368) {
-			// Reset buffer
-			buffer = 0;
 			// Read HP
 			fileContents.seekp(i, std::ios_base::beg);
 			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
