@@ -1,9 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
 
-Download version 0.6.1 here:
-- MEGA: https://mega.nz/file/jThGBKyL#LkUx3dNeeVJJo52wOqHe8IkUUab_HBCVbymaolZumKM
-- Google Drive: https://drive.google.com/file/d/1L-w_zL0MxEEWSuO1mLDPqNiokF6Dihsl/view?usp=sharing
+Download version 0.6.2 here:
+- MEGA: https://mega.nz/file/vaggTBYY#t7MNIsSc1Jw3xCMCGb-rwhzDjP5UMrjJzL_F6rC66_A
+- Google Drive: https://drive.google.com/file/d/134ltA75TUFhBNA_6klXBfJAgYUTLPVDq/view?usp=sharing
   
 ## Instructions:
 
@@ -29,6 +29,19 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.6.2:
+
+06/08/2025
+
+- The patcher now checks to determine if OneDrive is not the directory used.
+- Citan's Ougi/Myogetsu can now inflict Resist Up.
+- The accuracy of deathblow effects has been increased for each character. Details are in the wiki.
+- Icons have been added for the deathblows to indicate their effects.
+- The text for the scene when Elly crash lands into Lahan has been slowed down with fast text.
+- The hob items have been corrected so the amount they heal matches their descriptions. Details are in the wiki.
+- Improved Vierge's starting frame. Details are in the wiki.
+- Patcher has been updated to catch errors with xenoiso.
 
 ### Version 0.6.1:
 
@@ -654,6 +667,10 @@ A) This is most likely a result of using the patcher inside the Public directory
 ## Archive:
 
 ### Builds:
+
+#### Version 0.6.1:
+- MEGA: https://mega.nz/file/jThGBKyL#LkUx3dNeeVJJo52wOqHe8IkUUab_HBCVbymaolZumKM
+- Google Drive: https://drive.google.com/file/d/1L-w_zL0MxEEWSuO1mLDPqNiokF6Dihsl/view?usp=sharing
 
 #### Version 0.6.0:
 - MEGA: https://mega.nz/file/LbhAUIab#JHgyqrMx7cXMLA06dOM2KeM9k0F-xoSXo8kmCNqGXTE
