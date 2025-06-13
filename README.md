@@ -4,6 +4,8 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 Download version 0.6.2 here:
 - MEGA: https://mega.nz/file/vaggTBYY#t7MNIsSc1Jw3xCMCGb-rwhzDjP5UMrjJzL_F6rC66_A
 - Google Drive: https://drive.google.com/file/d/134ltA75TUFhBNA_6klXBfJAgYUTLPVDq/view?usp=sharing
+
+DISCLAIMER: The rebalanced items/characters won't work outside of Duckstation as trying to load a character's Deathblows will crash the game. A search for a fix is underway.
   
 ## Instructions:
 
