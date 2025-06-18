@@ -1,11 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
 
-Download version 0.6.2 here:
-- MEGA: https://mega.nz/file/vaggTBYY#t7MNIsSc1Jw3xCMCGb-rwhzDjP5UMrjJzL_F6rC66_A
-- Google Drive: https://drive.google.com/file/d/134ltA75TUFhBNA_6klXBfJAgYUTLPVDq/view?usp=sharing
-
-DISCLAIMER: The rebalanced items/characters won't work outside of Duckstation as trying to load a character's Deathblows will crash the game. A search for a fix is underway.
+Download version 0.6.3 here:
+- MEGA: https://mega.nz/file/CegF3SRa#3x9Jh6tBW6DcujRk-Lo_vBK3n-Two81n0eiPLnSMB9A
+- Google Drive: https://drive.google.com/file/d/1maM_TXHaBYonJqBm-Ho34p7T-rBAV4Lk/view?usp=sharing
   
 ## Instructions:
 
@@ -31,6 +29,14 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.6.3:
+
+06/16/2025
+
+- Improved El Stier's starting frame. Details are in the wiki.
+- Shakhan's speech now flows as intended with fast text whilst remaining readable.
+- Deathblow icons no long crash the game outside of Duckstation.
 
 ### Version 0.6.2:
 
@@ -670,11 +676,18 @@ A) This is most likely a result of using the patcher inside the Public directory
 
 ### Builds:
 
+#### Version 0.6.2:
+
+- MEGA: https://mega.nz/file/vaggTBYY#t7MNIsSc1Jw3xCMCGb-rwhzDjP5UMrjJzL_F6rC66_A
+- Google Drive: https://drive.google.com/file/d/134ltA75TUFhBNA_6klXBfJAgYUTLPVDq/view?usp=sharing
+
 #### Version 0.6.1:
+
 - MEGA: https://mega.nz/file/jThGBKyL#LkUx3dNeeVJJo52wOqHe8IkUUab_HBCVbymaolZumKM
 - Google Drive: https://drive.google.com/file/d/1L-w_zL0MxEEWSuO1mLDPqNiokF6Dihsl/view?usp=sharing
 
 #### Version 0.6.0:
+
 - MEGA: https://mega.nz/file/LbhAUIab#JHgyqrMx7cXMLA06dOM2KeM9k0F-xoSXo8kmCNqGXTE
 - Google Drive: https://drive.google.com/file/d/1QnGP7f5uWaEeIUfYJKSaUibO_U0XrOAY/view?usp=sharing
 
