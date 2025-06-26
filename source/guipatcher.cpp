@@ -1280,7 +1280,10 @@ void tooltipTextMaker(HWND hWnd) {
 		"can be killed in one hit.\n";
 	HWND tt_story_mode = toolGenerator(text_story_mode, hWnd, storyMode);
 	char text_flashes[] =
-		"Turns off flashes during battle.";
+		"Turns off flashes during battle.\n"
+		"A side effect is that the victory\n"
+		"screen won't dim when experience\n"
+		"and gold are given.";
 	HWND tt_flashes = toolGenerator(text_flashes, hWnd, flashes);
 }
 
