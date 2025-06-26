@@ -1237,7 +1237,10 @@ void tooltipTextMaker(HWND hWnd) {
 		"can be killed in one hit.\n";
 	HWND tt_story_mode = toolGenerator(text_story_mode, hWnd, storyMode);
 	char text_flashes[] =
-		"Turns off flashes during battle.";
+		"Turns off flashes during battle.\n"
+		"A side effect is that the victory\n"
+		"screen won't dim when experience\n"
+		"and gold are given.";
 	HWND tt_flashes = toolGenerator(text_flashes, hWnd, flashes);
 }
 
@@ -1369,26 +1372,28 @@ void monsterEdits(std::string file) {
 				data[2] = 0x100;
 				data[3] = 0x10a;
 			}
-			// Find experience
-			nextpos = i + data[2];
-			fileContents.seekp(nextpos, std::ios_base::beg);
-			fileContents.read(reinterpret_cast<char*>(&buffer), 4);
-			uint64_t exp = buffer;
-			// Find gold
-			nextpos = i + data[3];
-			fileContents.seekp(nextpos, std::ios_base::beg);
-			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
-			uint64_t gold = buffer;
-			// Apply modifier
-			exp = exp * 1.5;
-			gold = gold * 1.5;
-			// Rewrite experience and gold
-			nextpos = i + data[2];
-			fileContents.seekp(nextpos, std::ios_base::beg);
-			fileContents.write(reinterpret_cast<char*>(&exp), 4);
-			nextpos = i + data[3];
-			fileContents.seekp(nextpos, std::ios_base::beg);
-			fileContents.write(reinterpret_cast<char*>(&gold), 2);
+			if (p_exp) {
+				// Find experience
+				nextpos = i + data[2];
+				fileContents.seekp(nextpos, std::ios_base::beg);
+				fileContents.read(reinterpret_cast<char*>(&buffer), 4);
+				uint64_t exp = buffer;
+				exp = exp * 1.5;
+				nextpos = i + data[2];
+				fileContents.seekp(nextpos, std::ios_base::beg);
+				fileContents.write(reinterpret_cast<char*>(&exp), 4);
+			}
+			if (p_gold) {
+				// Find gold
+				nextpos = i + data[3];
+				fileContents.seekp(nextpos, std::ios_base::beg);
+				fileContents.read(reinterpret_cast<char*>(&buffer), 2);
+				uint64_t gold = buffer;
+				gold = gold * 1.5;
+				nextpos = i + data[3];
+				fileContents.seekp(nextpos, std::ios_base::beg);
+				fileContents.write(reinterpret_cast<char*>(&gold), 2);
+			}
 		}
 		// Close file
 		fileContents.close();
