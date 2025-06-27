@@ -1226,11 +1226,11 @@ void tooltipTextMaker(HWND hWnd) {
 		"playthroughs.";
 	HWND tt_monsters = toolGenerator(text_monsters, hWnd, monsters);
 	char text_script[] =
-		"Retranslates names, locations, and key words to\n"
-		"be more accurate to what they should be and\n"
-		"relocalizes the script to have less grammatical\n"
-		"errors, confusing lines, and awkward sentencing\n"
-		"in important scenes.\n"
+		"Retranslates names, locations, and keywords to\n"
+		"better align with the Japanese version and\n"
+		"relocalizes the script to have fewer\n"
+		"grammatical errors, confusing lines, and\n"
+		"less awkward phrasing in important scenes.\n"
 		"This process may take a while.";
 	HWND tt_script = toolGenerator(text_script, hWnd, script);
 	char text_barena[] =
@@ -1247,11 +1247,11 @@ void tooltipTextMaker(HWND hWnd) {
 	char text_portraits[] =
 		"Corrects the proportions of all character\n"
 		"portraits when running the game at its\n"
-		"native aspect ratio (approximately 3:2).\n"
-		"If your emulator or scaler is already\n"
-		"stretching the game's overall aspect\n"
-		"ratio to 4:3, or you're using a texture\n"
-		"hack, you do not need this fix.";
+		"native aspect ratio (approx 3:2).\n"
+		"If your emulator or scaler stretches\n"
+		"the game's overall aspect ratio to 4:3,\n"
+		"or you're using a texture hack, you do\n"
+		"not need this fix.";
 	HWND tt_portraits = toolGenerator(text_portraits, hWnd, portraits);
 	char text_fmvs[] =
 		"Changes the FMVs so that they use\n"
