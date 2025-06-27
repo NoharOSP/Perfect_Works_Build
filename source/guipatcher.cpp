@@ -1247,11 +1247,11 @@ void tooltipTextMaker(HWND hWnd) {
 	char text_portraits[] =
 		"Corrects the proportions of all character\n"
 		"portraits when running the game at its\n"
-		"native aspect ratio. If your emulator or\n"
-		"scaler is already applying a correction\n"
-		"to the game's overall aspect ratio or\n"
-		"using a texture hack, you may not need\n"
-		"this fix.";
+		"native aspect ratio (approximately 3:2).\n"
+		"If your emulator or scaler is already\n"
+		"stretching the game's overall aspect\n"
+		"ratio to 4:3, or you're using a texture\n"
+		"hack, you do not need this fix.";
 	HWND tt_portraits = toolGenerator(text_portraits, hWnd, portraits);
 	char text_fmvs[] =
 		"Changes the FMVs so that they use\n"
