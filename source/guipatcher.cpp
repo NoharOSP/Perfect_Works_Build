@@ -1283,7 +1283,9 @@ void tooltipTextMaker(HWND hWnd) {
 		"Turns off flashes during battle.\n"
 		"A side effect is that the victory\n"
 		"screen won't dim when experience\n"
-		"and gold are given.";
+		"and gold are given. Certain scenes\n"
+		"will also have notable graphical\n"
+		"bugs.";
 	HWND tt_flashes = toolGenerator(text_flashes, hWnd, flashes);
 }
 
