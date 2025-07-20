@@ -89,76 +89,74 @@ I think there were even
 more wonderful things
 written in it, but we'll
 never know now<Delay 5>..."<Close><End of Block>
-<TextBlock 16 w:32 h:4>
+<TextBlock 16 w:34 h:4>
 Margie
-"Elly.<Delay 30>
-Are you okay
-about this?<New>
-Don't you want
-to be with him?"<Close><End of Block>
-<TextBlock 17 w:46 h:4>
+"Are you sure
+about this, Elly?<New>
+Don't you want to
+be by his side,
+really?"<Close><End of Block>
+<TextBlock 17 w:42 h:3>
 Elly
-"Yes<Delay 5>...<Delay 5>
-But, <Delay 10>it's because
-I believe in him.<New>
-Just being close to a
-person is not in itself
-an indication of love,
-is it?"<Close><End of Block>
+"I do<Delay 5>...<Delay 5>
+But <Delay 10>I believe in him.<New>
+Love isn't just about
+being close together
+all the time, is it?"<Close><End of Block>
 <TextBlock 18 w:54 h:4>
 Margie
 "But<Delay 5>...<Delay 5>
-men are selfish<Delay 5>...<New>
-When something big happens,<Delay 10>
-they say<Delay 5>...<Delay 10>
- 'It's too dangerous<Delay 5>...<Delay 5>
-  You can't come!'<New>
-They treat women like we
-are weaklings."<Close><End of Block>
-<TextBlock 19 w:48 h:4>
+Men, they're selfish<Delay 5>...<New>
+When something big happens,
+they say stuff like<Delay 5>
+'it's too dangerous'...<Delay 10>
+'you can't come'...<New>
+and treat women like
+weaklings."<Close><End of Block>
+<TextBlock 19 w:52 h:4>
 Margie
-"Although, it is true
-I can't help Bart and
-friends much more<Delay 5>..."<Close><End of Block>
+"Although, sure, maybe I'm
+not much help to Bart and
+the others right now..."<Close><End of Block>
 <TextBlock 20 w:50 h:4>
 Elly
 "That's not true.<Delay 15>
-Everyone, <Delay 5>wants someone 
+They all want someone 
 special waiting for them.<New>
-Someone who will protect
-a place they can return
+Someone protecting the
+place they must return
 to.<New>
-If you don't have that
-peace of mind, then you
-would not be able to get
-anything done<Delay 5>..."<Close><End of Block>
-<TextBlock 21 w:50 h:4>
+Otherwise, they'd be
+anxious,<Delay 5> restless..."<Close><End of Block>
+<TextBlock 21 w:48 h:4>
 Elly
-"Men try to tough it out
-as much as they can, and
-then some...<New>
-They're cute the way they
-do that, aren't they?"<Close><End of Block>
+"That's why they act as
+tough as they possibly
+can...<New>
+Men,<Delay 5> they're cute huh?"<Close><End of Block>
 <TextBlock 22 w:32 h:3>
 Margie
 "Yeah,<Delay 15>
 you're right<Delay 5>..."<Close><End of Block>
-<TextBlock 23 w:48 h:3>
+<TextBlock 23 w:38 h:4>
 Elly
-"Anyway, we have things
-we have to do too, now.<New>
-And,<Delay 5> while we do them,<Delay 5>
-let's pray that everyone
-comes back safely."<Close><End of Block>
-<TextBlock 24 w:18 h:2>
+"Now, let's do the
+things that we have
+to do.<New>
+And let's pray that
+everyone comes back
+safely."<Close><End of Block>
+<TextBlock 24 w:18 h:3>
 Margie
-"To god?"<Close><End of Block>
-<TextBlock 25 w:44 h:3>
+"Pray...<Delay 10>
+to God?"<Close><End of Block>
+<TextBlock 25 w:40 h:4>
 Elly
-"No<Delay 5>...<New>
-To your own innermost
-feelings that everyone
-believes in<Delay 5>..."<Close><End of Block>
+"...<Delay 5>No.<New>
+To our own innermost
+feelings, where we
+believe in each
+other..."<Close><End of Block>
 <TextBlock 26 w:30 h:2>
 Elly
 "What's wrong?"<Close><End of Block>
@@ -171,57 +169,56 @@ Elly
 "What?"<Close><End of Block>
 <TextBlock 29 w:54 h:4>
 Margie
-"Elly, it's like everyone
-says!<Delay 10> You must be a
-reincarnation of Sophia!<New>
-You have no way of knowing
-the Nisan Sect's teachings,
-but what you say<Delay 5>...<New>
-...<Delay 5>well, it's exactly the
-same as what Sophia always
-said."<Close><End of Block>
+"Elly, you are without a
+doubt Sophia reborn, just
+like everyone's saying!<New>
+You're not supposed to know
+the teachings of Nisan,<New>
+but the things you're
+saying are the very
+words of Sophia that
+were handed down."<Close><End of Block>
 <TextBlock 30 w:36 h:3>
 Elly
 "Yes<Delay 5>...<Delay 30>
-That might be it."<Close><End of Block>
-<TextBlock 31 w:44 h:4>
+Maybe that's it."<Close><End of Block>
+<TextBlock 31 w:44 h:3>
 Elly
-"The first time I
-visited here I had the
-most amazing feeling."<Opcode 2 150><Close><End of Block>
+"When I visited here
+for the first time,<New>
+for some reason I had
+an odd feeling."<Opcode 2 150><Close><End of Block>
 <TextBlock 32 w:54 h:3>
 Elly
-"Familiar<Delay 5>...<Delay 15>
+"Nostalgic<Delay 5>...<Delay 15>
 Sad<Delay 5>...<Delay 15><New>
-Like I had visited here
+As if I had also visited
 many times in my dreams<Delay 5>..."<Close><End of Block>
-<TextBlock 33 w:48 h:3>
+<TextBlock 33 w:52 h:3>
 Elly
-"I know where each room
-is<Delay 10> and what's in them.<New>
-I just know I must have
-been here in the distant
-past<Delay 5>..."<Close><End of Block>
-<TextBlock 34 w:52 h:4>
+"I know what rooms are
+where,<Delay 10> and what's in them.<New>
+I feel like I was here,
+in the distant past<Delay 5>..."<Close><End of Block>
+<TextBlock 34 w:54 h:4>
 Elly
-"Before, if you had spoken
-of this I'd have brushed
-it off with a laugh.<New>
-But now<Delay 5>..."<Close><End of Block>
+"Before, I would've laughed
+it off, saying 'that's not
+possible',<Delay 5> but...<Close><End of Block>
 <TextBlock 35 w:36 h:2>
-Now, I can more or
-less believe it.<Close><End of Block>
+Now, somehow I
+can believe it."<Close><End of Block>
 <TextBlock 36 w:44 h:3>
 Elly
-"The things I couldn't
-do then...<New>
-I'm probably trying to
-do now<Delay 5>..."<Close><End of Block>
+"Maybe the things I
+couldn't achieve then,<New>
+I'm trying to
+achieve now<Delay 5>..."<Close><End of Block>
 <TextBlock 37 w:40 h:3>
 Margie
 "Things you couldn't
-do<Delay 5>...?"<Opcode 2 150><Close><End of Block>
-<TextBlock 38 w:48 h:3>
+achieve<Delay 5>...?"<Opcode 2 150><Close><End of Block>
+<TextBlock 38 w:42 h:3>
 Elly
-"<Delay 5>...<Delay 5>Yes.
-Things I couldn't do<Delay 5>..."<Close><Close><End of Block>
+"...Yes.<Delay 10> Things I
+couldn't achieve<Delay 5>..."<Close><Close><End of Block>

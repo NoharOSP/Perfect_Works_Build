@@ -19,10 +19,8 @@ I'm very sorry but
 we're all full.
 As an apology please
 accept this...<Close><End of Block>
-<TextBlock 6 w:56 h:3>
- 
- Special Herb Tea! 
-                            <Close><End of Block>
+<TextBlock 6 w:56 h:1>
+Received special herbal tea!<Close><End of Block>
 <TextBlock 7 w:44 h:1>
  Reduced weight a bit <Close><End of Block>
 <TextBlock 8 w:22 h:1>
@@ -37,10 +35,8 @@ Huh?
 ...<Delay 30>That?<New>
 I'm so glad you like it!
 Please take it.<Close><End of Block>
-<TextBlock 11 w:56 h:3>
- 
- Special Herb Tea! 
-                            <Close><End of Block>
+<TextBlock 11 w:56 h:1>
+Received special herbal tea!<Close><End of Block>
 <TextBlock 12 w:40 h:2>
 We are providing you
 with a vacant house.<Close><End of Block>

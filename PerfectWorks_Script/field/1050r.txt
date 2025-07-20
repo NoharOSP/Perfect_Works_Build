@@ -19,14 +19,14 @@ Informationist
 "What shall I explain?"<Delay 15>
 <Opcode 1 255>    What's Battling?
     Basic control method?
-    I'm alright thanks!<Close><End of Block>
+    I'm alright, thanks!<Close><End of Block>
 <TextBlock 4 w:54 h:6>
 BP-Exchanger Girl
 "What can I do for you?"
 <Opcode 1 255>    Current Battle Points
     What are Battle Points?
     Item Exchange
-    Nothing thanks!<Close><End of Block>
+    Nothing, thanks!<Close><End of Block>
 <TextBlock 5 w:46 h:2>
 <Opcode 1 255>CURRENT BP:<Opcode 10 0>
 TOTAL   BP:<Opcode 10 1><Close><End of Block>
@@ -62,7 +62,7 @@ of 'Rare Items'.<New>
 However, not all of them are
 the same! There are also 
 prizes that reduce your 
-"Total BP" too! So pay 
+'Total BP' too! So pay 
 attention to see if your 
 points are subtracted.<New>
 In those cases, it might be
@@ -71,22 +71,22 @@ don't reduce your Total BP.
 <Delay 15>...<Delay 5>But then again, if you 
 want something really bad<Delay 5>...<Delay 15>
 well anyway, it's up to you!<Close><End of Block>
-<TextBlock 7 w:54 h:6>
-"Here's the 'Item Exchange
-Menu'<Delay 5>...<Delay 5> Make your choice!"<Delay 30>
+<TextBlock 7 w:58 h:6>
+BP-Exchanger Girl
+"Want to exchange for items?"<Delay 30>
 <Opcode 1 255>    About Item Exchanges...
-    Normal Item Exchange
-    Rare Item Exchange
+    Normal-Item Exchange
+    Rare-Item Exchange
     I've changed my mind!<Close><End of Block>
 <TextBlock 8 w:56 h:6>
 BP-Exchanger Girl
-"During Normal Item Exchange
+"During Normal-Item Exchange
 you can exchange the Battle
 Points you earned from
 Battling for a variety of
 items, Gear parts, etc.<New>
 It is an 'exchange', so when
-you do trade-in your points,
+you do trade in your points,
 naturally those points will
 be deducted!"<Close><End of Block>
 <TextBlock 9 w:54 h:6>
@@ -1489,7 +1489,7 @@ Stand by for boarding!<Close><End of Block>
 <TextBlock 252 w:44 h:3>
 Pilot Fei!
 Please proceed to the
-competitor's paddock!<Opcode 2 60><Close><End of Block>
+competitors' paddock!<Opcode 2 60><Close><End of Block>
 <TextBlock 253 w:54 h:4>
 Informationist
 "Okeydokey!<Delay 15>
@@ -1743,12 +1743,12 @@ Informationist
 "Yes,<Delay 5> I thought you wouldn't
 have any problems! <Delay 10>Anyway,<Delay 5>
 give it your best shot now!"<Close><End of Block>
-<TextBlock 281 w:46 h:5>
+<TextBlock 281 w:48 h:5>
 Informationist
 "What shall I explain?"<Delay 15>
 <Opcode 1 255>    Battling
     Basic controls
-    I'm alright thanks!<Close><End of Block>
+    I'm alright, thanks!<Close><End of Block>
 <TextBlock 282 w:54 h:3>
 Receptionist
 "Welcome to the Imperial

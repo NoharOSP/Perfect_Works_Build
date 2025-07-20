@@ -177,18 +177,20 @@ Fei
 "Elly! What are you
 doing? If you keep
 going, you'll...!"<Close><End of Block>
-<TextBlock 42 w:46 h:3>
+<TextBlock 42 w:50 h:4>
 Elly
-"But...<Delay 10>...<Delay 10>what else
-can we do?<New>
-At least it will reduce
-the damage.
-...<Delay 10>...<Delay 10>Sorry.<New>
-It's better than doing
-nothing."<Close><End of Block>
-<TextBlock 43 w:30 h:2>
+"But...<Delay 10>what other
+choice do I have?<New>
+If I can hold it up, even
+just a little longer,
+then at least the damage
+will be slightly reduced.<New>
+...<Delay 10>...<Delay 10>I'm sorry.<Delay 10>
+But it's better than
+doing nothing, right?"<Close><End of Block>
+<TextBlock 43 w:26 h:2>
 Fei
-"Ellllllllly!!"<Close><End of Block>
+"Ellyyyyyy!!"<Close><End of Block>
 <TextBlock 44 w:40 h:4>
 Elly
 "...<Delay 60>

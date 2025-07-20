@@ -5,9 +5,9 @@ Them!!<Delay 60>
 Them!!!"<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:8 h:1>
 Fei?<Close><End of Block>
-<TextBlock 3 w:38 h:2>
+<TextBlock 3 w:30 h:2>
 Elly
-"...Are you awake?"<Close><End of Block>
+"...You're up?"<Close><End of Block>
 <TextBlock 4 w:44 h:4>
 Elly
 "Hey... Yesterday you

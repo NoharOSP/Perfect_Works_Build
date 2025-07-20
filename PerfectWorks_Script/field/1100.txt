@@ -49,7 +49,7 @@ Take a good long look!<New>
 This is what your forces
 have done! Does the word
 'duty' justify all of
-this? Does it!?<Close><End of Block>
+this? Does it!?"<Close><End of Block>
 <TextBlock 12 w:14 h:2>
 Fei
 "Elly!"<Close><End of Block>
@@ -75,11 +75,11 @@ place to belong..."<Close><End of Block>
 <TextBlock 16 w:10 h:2>
 Elly
 "..."<Close><End of Block>
-<TextBlock 17 w:50 h:4>
+<TextBlock 17 w:52 h:4>
 Fei
-"What was I fighting
-you for just now?
-...<Delay 10>...<Delay 10>You wanted to know?<New>
+"Back there,
+you asked me...<Delay 10>
+what I was fighting for.<New>
 I don't really know. I
 know I was helping Bart
 and the others.<New>
@@ -87,12 +87,13 @@ But I still don't know
 what I should do.
 Maybe I'm just looking
 for a place to fit in.<New>
-But I think it's better
-to fight than to do
-nothing.<New>
+But even so, I think
+maybe it's better to
+fight than to do nothing.<New>
 If fighting helps you or
-your friends even a bit,
-then it's worthwhile.<New>
+the people who need you,
+even a bit, then it's far
+better than doing nothing.<New>
 That's<Delay 10>...<Delay 10>not zero...<Delay 10>
 That's all I'm saying."<Close><End of Block>
 <TextBlock 18 w:12 h:2>

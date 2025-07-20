@@ -23,7 +23,7 @@ tame it.<Close><End of Block>
 <TextBlock 5 w:60 h:2>
 <Brigandier> is a star
 of hope for us pirates.<New>
-The bright red body-color
+The bright-red body color
 represents Bart's ambition.<New>
 But since Bart always overdoes
 things, maintenance is a pain.<Close><End of Block>
@@ -213,7 +213,7 @@ as I help others like you.<New>
 Moreover, I can't turn my
 back and ignore what such
 a terrible group of people
-are doing to others."<Close><End of Block>
+is doing to others."<Close><End of Block>
 <TextBlock 42 w:28 h:2>
 Sigurd
 "Thanks, Fei."<Close><End of Block>

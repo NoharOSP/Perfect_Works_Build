@@ -18,12 +18,12 @@ Fei
 "<Delay 5>...<Delay 5>A fiance?
 With no hair<Delay 5>...?<Delay 5> Hmm.<Delay 15> Where
 have I heard that before?"<Close><End of Block>
-<TextBlock 5 w:52 h:4>
+<TextBlock 5 w:48 h:4>
 Citan
-"The meeting place was the
-Wildcat, a bar in the
-civilian area, was it not?<New>
-Well then, let us go!"<Close><End of Block>
+"The meeting place was
+the Wildcat bar in the
+civilian area, yes?<New>
+Well then, shall we go?"<Close><End of Block>
 <TextBlock 6 w:30 h:1>
 Try knocking<Delay 5>...<Opcode 2 45><Close><End of Block>
 <TextBlock 7 w:46 h:1>
@@ -89,11 +89,11 @@ So why am I outside, then?
 You shouldn't be so picky
 about such little details!
 I have my reasons!<Close><End of Block>
-<TextBlock 23 w:54 h:4>
+<TextBlock 23 w:52 h:4>
 Big Joe
 "What's the problem?<Delay 15> It's
-much further in from there.
-<Delay 5>...<Delay 5>Hurry up, now!"<Close><End of Block>
+up ahead, waaaaaay at the
+back<Delay 5>...<Delay 5> Hurry up, now!"<Close><End of Block>
 <TextBlock 24 w:54 h:4>
 Big Joe
 "Did you change your mind?"<Delay 15>
@@ -103,12 +103,12 @@ Big Joe
 Big Joe
 "<Delay 5>...<Delay 5>C'mon, stop the joshing.
 If you change your mind at
-any time<Delay 5>...<Delay 5> Well, you know!<Close><End of Block>
+any time<Delay 5>...<Delay 5> Well, you know!"<Close><End of Block>
 <TextBlock 26 w:54 h:4>
 Big Joe
-"Heh-heh!<Delay 5> There's something
-really interesting beyond
-here!<Delay 10> Do you want a look?"<Close><End of Block>
+"Heh heh!<Delay 5> There's something
+interesting up ahead!<Delay 10>
+Do you want to go see?"<Close><End of Block>
 <TextBlock 27 w:44 h:4>
 Big Joe
 "I sure swindled you!<Delay 15>
@@ -358,10 +358,9 @@ Imperial City Guard
 I'd like to let you enter,
 but for a while the barracks
 is off-limits!"<Close><End of Block>
-<TextBlock 67 w:52 h:3>
+<TextBlock 67 w:46 h:2>
 Big Joe
-"Wait up already, will ya?<Delay 15>
-Stop the hurrying, okay!?"<Opcode 2 60><Close><End of Block>
+"Hold up!<Delay 15> Not so fast!"<Opcode 2 60><Close><End of Block>
 <TextBlock 68 w:44 h:2>
 Big Joe
 "Oooh,<Delay 5> wait a moment!"<Opcode 2 60><Close><End of Block>
@@ -369,11 +368,11 @@ Big Joe
 Big Joe
 "That's right, 
 straight ahead now."<Opcode 2 45><Close><End of Block>
-<TextBlock 70 w:32 h:4>
+<TextBlock 70 w:30 h:4>
 <Perso1>
 "<Delay 5>...<Delay 5>Huh?<Delay 15>
-Somebody dropped
-something here!"<Close><End of Block>
+Something's on
+the ground."<Close><End of Block>
 <TextBlock 71 w:38 h:1>
 Obtained an M Disk!<Close><End of Block>
 <TextBlock 72 w:46 h:3>
@@ -627,7 +626,7 @@ Never fear, I'll be here!"<Close><End of Block>
 <TextBlock 118 w:54 h:4>
 Big Joe
 "<Delay 5>...<Delay 5>Whaaat!?<Delay 15> I can't do
-any business with guys who
+business with guys who
 haven't got 5000G! So~rry!"<Close><End of Block>
 <TextBlock 119 w:34 h:2>
 Fei
@@ -698,11 +697,13 @@ Arena!<Delay 15> What's the second?"<Close><End of Block>
 Hammer
 "The second way is a little
 dangerous as it involves
-the supply train tunnel.<New>
-You have to get into the
-tunnel's ducts and follow
-them right through till
-they lead to the docks.<New>
+the supply-train tunnel.<New>
+You sneak into the ducts
+that are inside the tunnel.
+Then, if you follow the
+ducts carefully...<New>
+you'll end up at the
+underground dock.<New>
 But I couldn't find out
 the ducts' layout<Delay 5>...<Delay 30>
 Sorry, bro."<Close><End of Block>

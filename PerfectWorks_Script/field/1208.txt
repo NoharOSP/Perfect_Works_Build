@@ -1,14 +1,14 @@
 <TextBlock 1 w:46 h:4>
 Bart
 "Hey, Margie!<New>
-Get rid of that strange
-stuffed animal sitting
-in front of the bridge.<Delay 10>
+Get rid of that freaky
+stuffed toy sitting out
+front of the bridge.<Delay 10>
 It's in our way."<Close><End of Block>
 <TextBlock 2 w:42 h:4>
 Margie
-"She's not a 'strange
-stuffed animal'!<Delay 10>
+"She's not a 'freaky
+stuffed toy'!<Delay 10>
 She has a name!<New>
 Her name is..."<Close><End of Block>
 <TextBlock 3 w:46 h:2>
@@ -31,7 +31,7 @@ go, I shall go chu!"<Close><End of Block>
 Bart
 "What we thought was just
 a stuffed toy is actually
-a living animal! Weird!"<Close><End of Block>
+a living animal! Bizarre!"<Close><End of Block>
 <TextBlock 7 w:40 h:3>
 Margie
 "No wonder she felt
@@ -352,8 +352,8 @@ I'm so bored!"<Close><End of Block>
 <Chu-Chu>
 "Wow!<Delay 10> A delicious
 looking spider..."<Close><End of Block>
-<TextBlock 69 w:26 h:1>
-Munchu munchu<Close><End of Block>
+<TextBlock 69 w:30 h:1>
+*munchu munchu*<Close><End of Block>
 <TextBlock 70 w:40 h:4>
 <Chu-Chu>
 "Presents are a way

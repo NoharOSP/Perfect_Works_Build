@@ -1,9 +1,9 @@
 <TextBlock 1 w:40 h:3>
-Damn!
+D-Damn!
 <Weltall>'s stuck
 in the sand...<Close><End of Block>
-<TextBlock 2 w:22 h:1>
-Waaawwwwww!<Opcode 2 16><Close><End of Block>
+<TextBlock 2 w:16 h:1>
+Waaaaah!<Opcode 2 16><Close><End of Block>
 <TextBlock 3 w:10 h:1>
 Whoa!<Opcode 2 16><Close><End of Block>
 <TextBlock 4 w:10 h:1>

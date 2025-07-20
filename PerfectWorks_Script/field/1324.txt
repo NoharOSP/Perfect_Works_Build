@@ -1117,16 +1117,16 @@ city center has been identified<Delay 5>...<Delay 5>
 Excavation scheduled to begin<Delay 5>...<Close><End of Block>
 <TextBlock 143 w:64 h:6>
 <Opcode 14 2>Report No. 50224 from Noatun's
-D Block Committee.
+D-Block Committee.
 Transferring data for each
 Battler. Biological status of
 A-Class Battler. Adaptation rate
-of the deployment plan's Type-Y
+of the deployment plan's Type Y
 demihuman. Transferring data
 for the above to the homeland...<Opcode 2 30><Close><End of Block>
 <TextBlock 144 w:62 h:6>
 <Opcode 14 1>Report No. 50227 from Noatun's
-D Block Committee.
+D-Block Committee.
 Sigmund's forceful expulsion
 of the Church from the
 Central District has made

@@ -37,10 +37,10 @@ Who's doing this!?<New>
 Elly!
 Doc!<New>
 Where are you!?
-Where<-->?"<Close><End of Block>
+Where<-->"<Close><End of Block>
 <TextBlock 10 w:16 h:2>
 Fei
-"Wha<-->?"<Close><End of Block>
+"Wha<-->"<Close><End of Block>
 <TextBlock 11 w:36 h:2>
 Fei
 "Doc!?<New>

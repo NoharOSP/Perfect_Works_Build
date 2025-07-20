@@ -132,7 +132,7 @@ it'll actually be two
 days like they said?<New>
 What if they change
 their minds and then
-tomorrow they<-->?<New>
+tomorrow they<--><New>
 I mean, it's possible
 isn't it?"<Close><End of Block>
 <TextBlock 22 w:52 h:4>

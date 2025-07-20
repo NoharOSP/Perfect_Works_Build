@@ -1,8 +1,9 @@
-<TextBlock 1 w:46 h:4>
+<TextBlock 1 w:48 h:3>
 Citan
-"These are the Geburah
-units currently in Av,
-correct?"<Close><End of Block>
+"These are the forces
+deployed by Geburah<New>
+and currently stationed
+in Av, correct?"<Close><End of Block>
 <TextBlock 2 w:46 h:2>
 Citan
 "The western guard..."<Close><End of Block>
@@ -10,34 +11,34 @@ Citan
 Citan
 "The Royal Capital
 defense force..."<Close><End of Block>
-<TextBlock 4 w:42 h:4>
+<TextBlock 4 w:44 h:4>
 Citan
-"And...<Delay 30>units along
+"And...<Delay 30>the force along
 the front line at the
 border with Kislev."<Close><End of Block>
 <TextBlock 5 w:44 h:4>
 Citan
-"There are three main
-groups.<New>
+"Broadly speaking,
+these are the three.<New>
 Each is made up of a
 mix of Geburah and Av
 forces. Only two of
 these are very large."<Close><End of Block>
 <TextBlock 6 w:50 h:4>
 Citan
-"The Royal Capital's
-defense units and the
-Kislev border units.<New>
+"The Royal-Capital
+defense force and the
+Kislev-border force.<New>
 The western guard along
 Nisan's border is little
 more than a surveillance
 team."<Close><End of Block>
-<TextBlock 7 w:52 h:3>
+<TextBlock 7 w:48 h:3>
 Sigurd
 "In order to recapture
-the Royal Capital...<New>
-...it will be necessary to
-draw these defense units
+the Royal Capital,<New>
+it will be necessary to
+draw the defense force
 away from Breidablik."<Close><End of Block>
 <TextBlock 8 w:42 h:3>
 Citan
@@ -61,22 +62,22 @@ We'll draw out the central
 forces by making it look
 like Kislev is invading
 Av."<Close><End of Block>
-<TextBlock 12 w:42 h:4>
+<TextBlock 12 w:48 h:4>
 Citan
-"The main strength of
-Av's fleet is the
-battleship Kefeinzel.<New>
-It's been in service
-since the reign of
-the last King.<New>
-Because of its fire-
-power, the whole unit
-is nicknamed 'the
+"In service since
+the reign of the
+last King,<New>
+it is Av's principal
+fleet, with the
+Battleship Kefeinzel
+as the flagship.<New>
+They call it 'the
 invincible fleet'.<New>
-I recall yesterday's
-intelligence report
-said that the ship
-is near the border."<Close><End of Block>
+According to yesterday's
+intelligence report,<New>
+this fleet was deployed
+near the border, was it
+not?"<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Sigurd
 "Well, now that we know
@@ -84,7 +85,7 @@ what we are up against,
 here's what we'll do..."<Close><End of Block>
 <TextBlock 14 w:52 h:3>
 Sigurd
-"Apart from our main unit
+"Apart from our main force
 heading for Breidablik...<New>
 we must keep the fleet
 at the Kislev border from

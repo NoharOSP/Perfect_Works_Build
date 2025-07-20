@@ -49,7 +49,8 @@ Citan
 your real name. Make
 another suitable one."<Close><End of Block>
 <TextBlock 9 w:54 h:34>
-...Brave young men are
+Shakhan
+"...Brave young men are
 spilling their blood on
 the front lines. Our army
 is the best, but the tides
@@ -83,9 +84,10 @@ we live in.<Delay 30>
 Brave ones, warriors, fight
 well and do not shame our
 brothers at the front."<Close><End of Block>
-<TextBlock 10 w:34 h:2>
-Let the 338th
-Tournament begin!<Opcode 2 30><Close><End of Block>
+<TextBlock 10 w:36 h:3>
+Shakhan
+"Let the 338th
+Tournament begin!"<Opcode 2 30><Close><End of Block>
 <TextBlock 11 w:46 h:3>
 Shakhan
 "Hmm...a moving speech

@@ -26,10 +26,10 @@ and go check it out.<Close><End of Block>
 Aw yeah! We need to do
 that <--> we've been
 workin' too much lately.<Close><End of Block>
-<TextBlock 7 w:26 h:1>
-It is locked.<Close><End of Block>
-<TextBlock 8 w:46 h:1>
-It is already unlocked.<Close><End of Block>
+<TextBlock 7 w:24 h:1>
+It's locked.<Close><End of Block>
+<TextBlock 8 w:44 h:1>
+It's already unlocked.<Close><End of Block>
 <TextBlock 9 w:40 h:1>
 Used the Master Key.<Close><End of Block>
 <TextBlock 10 w:32 h:1>

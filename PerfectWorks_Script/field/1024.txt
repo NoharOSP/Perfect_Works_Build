@@ -43,9 +43,9 @@ Today,<Delay 5> fifteen Eyeballs
 and twenty-two Fangs, eh?
 Total reward is<Delay 5>...<Delay 15>ummmh<Delay 5>...<Delay 45>
 3150G.<Delay 5> Not bad<Delay 5>...<Delay 5>perhaps.<Close><End of Block>
-<TextBlock 9 w:56 h:3>
+<TextBlock 9 w:58 h:3>
 You also earned a lot, eh?<Delay 30>
-Oh how the money you risk ya
+Oh how the money you risk yer
 life for warms the heart!<Close><End of Block>
 <TextBlock 10 w:56 h:5>
 Today's earnings are<Delay 5>...<Delay 5>
@@ -55,7 +55,7 @@ Total reward is 2700G<Delay 5>...<Delay 5>
 Not much is it!?<New>
 Hob-Meat is quite rare
 booty around here, but for
-prisoner-clas folks it's
+prisoner-class folks it's
 not registered for exchange
 with the B-Info Center.<Close><End of Block>
 <TextBlock 11 w:28 h:1>

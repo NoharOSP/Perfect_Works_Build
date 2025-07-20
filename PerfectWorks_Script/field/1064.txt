@@ -6,13 +6,14 @@ Rico
 "My childhood memories...
 I'd completely
 forgotten..."<Close><End of Block>
-<TextBlock 3 w:52 h:2>
-...Get out of our town!!<Delay 30>
-Go away, you mutant child!<Opcode 2 60><Close><End of Block>
+<TextBlock 3 w:56 h:3>
+Townsfolk
+"...Get out of our town!!"<Delay 30>
+"Go away, you mutant child!"<Opcode 2 60><Close><End of Block>
 <TextBlock 4 w:38 h:3>
-"Well, that is...<Delay 40>
+Well, that is...<Delay 40>
 Your father is...<Delay 30>
-So...<Delay 20>that's why..."<Opcode 2 20><Close><End of Block>
+So...<Delay 20>that's why...<Opcode 2 20><Close><End of Block>
 <TextBlock 5 w:48 h:2>
 Now listen to me! Your
 father is a great man...<Close><End of Block>
@@ -75,8 +76,8 @@ No, I don't want that...<Close><End of Block>
 Mother is...<Opcode 2 30><Close><End of Block>
 <TextBlock 25 w:24 h:2>
 ...Mother...<Delay 30>
-I'm...<Close><End of Block>
-<TextBlock 26 w:8 h:1>
-I'm?<Close><End of Block>
-<TextBlock 27 w:16 h:2>
-I am...?<Close><Close><End of Block>
+I am...<Close><End of Block>
+<TextBlock 26 w:6 h:1>
+Me?<Close><End of Block>
+<TextBlock 27 w:14 h:1>
+I'm...?<Close><Close><End of Block>

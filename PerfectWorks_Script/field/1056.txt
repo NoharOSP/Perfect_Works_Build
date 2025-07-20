@@ -2,17 +2,17 @@
 Rico
 "<Delay 5>...<Delay 5>Why?<Delay 15>
 Why are you here?"<Close><End of Block>
-<TextBlock 2 w:52 h:4>
+<TextBlock 2 w:54 h:4>
 Fei
 "To get this back.<Delay 15>
 It's not that I came here
 to save you<Delay 5>...<Delay 5> <New>
-The elevator I happened
-to use to escape put me in
-the arena. I saw you were
-getting attacked.<New>
-That's why I saved you<Delay 5>...<Delay 5>
-Nothing more than that."<Close><End of Block>
+The elevator that I used to
+escape led to this arena,
+and I saw you getting
+attacked by the monster.<New>
+So I saved you<Delay 5>...<Delay 5>
+That's it."<Close><End of Block>
 <TextBlock 3 w:38 h:4>
 Rico
 "Your story's a bit
@@ -24,16 +24,16 @@ Fei
 think of it<Delay 5>...<Delay 5><New>
 So,<Delay 30> what're you gonna
 do now?"<Close><End of Block>
-<TextBlock 5 w:26 h:3>
+<TextBlock 5 w:20 h:2>
 Rico
-"...What am I
-gonna...?"<Close><End of Block>
+"...What?"<Close><End of Block>
 <TextBlock 6 w:50 h:4>
 Fei
-"I just barged into the
-arena.<Delay 15> So I'm also a fu-
-gitive from the Empire...<New>
-That's why I must escape.
+"Me and Doc just barged
+into the arena.<New>
+That makes us fugitives
+from the Empire too...
+So we're going to escape.<New>
 If you stick around,
 they'll probably make you
 fight that monster again.<New>

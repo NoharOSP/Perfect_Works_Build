@@ -160,11 +160,12 @@ Be careful on that
 mountain path.<Delay 20>
 And give my regards
 to Doctor Uzuki!"<Close><End of Block>
-<TextBlock 35 w:34 h:3>
+<TextBlock 35 w:30 h:4>
 Alice
 "...<Delay 20>
-Is this fate...?"<Close><End of Block>
-<TextBlock 36 w:42 h:3>
+The threads of
+fate, huh...?"<Close><End of Block>
+<TextBlock 36 w:32 h:3>
 Alice
-"I feel so foolish...<Delay 20>
-Who am I kidding?"<Close><Close><End of Block>
+"I feel...<Delay 20>
+so foolish..."<Close><Close><End of Block>

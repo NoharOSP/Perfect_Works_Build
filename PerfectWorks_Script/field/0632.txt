@@ -42,9 +42,9 @@ heart, I thank you!<New>
 Now, you and Alice
 had better live
 happily ever after!"<Close><End of Block>
-<TextBlock 6 w:24 h:2>
+<TextBlock 6 w:32 h:2>
 Fei
-"Of course!"<Close><End of Block>
+"I hope so too."<Close><End of Block>
 <TextBlock 7 w:46 h:4>
 Fei
 "Yeah, sure!
@@ -102,10 +102,10 @@ get all mushy on me...<New>
 Anyway, to me it feels
 like we've been friends
 since we were kids."<Close><End of Block>
-<TextBlock 16 w:48 h:3>
+<TextBlock 16 w:36 h:3>
 Timothy
-"And we'll go on being
-friends forever, right?"<Close><End of Block>
+"And long may it
+continue, buddy!"<Close><End of Block>
 <TextBlock 17 w:46 h:4>
 Timothy
 "Oh yeah, Fei...
@@ -171,9 +171,9 @@ outside. So I'll catch
 ya later, okay?"<Close><End of Block>
 <TextBlock 26 w:46 h:4>
 Dan
-"Be seein' ya, 'Tim'!<Delay 30>
-Take care of yourself
-until tomorrow..."<Close><End of Block>
+"Be seein' ya,<Delay 5> Brother!<Delay 30>
+Take care till
+tomorrow, won't ya?"<Close><End of Block>
 <TextBlock 27 w:42 h:4>
 Chief Lee
 "Oh, it's you, Fei.<New>
@@ -186,10 +186,10 @@ Chief Lee
 "Hey, why don't you bring
 a girlfriend or two home
 once in a while?<New>
-Just because you live with
-an old man like me doesn't
-mean you have to hold back
-now, you hear!?<New>
+You don't have to hold
+back just because you're
+living here rent-free,
+you hear!?<New>
 Why, when I was as young
 as you are, it seemed like
 every day I would<-->"<Close><End of Block>

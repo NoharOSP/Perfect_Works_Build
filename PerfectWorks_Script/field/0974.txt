@@ -25,9 +25,10 @@ Maitreya
 "Nothing.<New>
 They say no news is
 good news, I guess.<New>
-Our Gears' comms equipment
-is not the best.<Delay 32> But I'm
-sure they'll do fine."<Close><End of Block>
+Besides, our Gears' comms
+equipment is not the best.<Delay 32>
+I'm sure everyone will
+be fine."<Close><End of Block>
 <TextBlock 7 w:30 h:2>
 Maitreya
 "What's wrong?"<Close><Close><End of Block>

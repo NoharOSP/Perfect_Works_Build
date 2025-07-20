@@ -43,14 +43,13 @@ You can get to the bridge
 via the northwest side
 of Terrace Stones.<Close><End of Block>
 <TextBlock 8 w:52 h:4>
-There is a barrier wall in
-the southeast of Terrace
-Stones that was built to
-stop the shifting of sand.<New>
+There is a sand barrier
+in the southeast of
+Terrace Stones.<New>
 Until the barrier reopens,
 please assemble at the
 shelter located to the
-east of the barrier wall.<Close><End of Block>
+east of the barrier.<Close><End of Block>
 <TextBlock 9 w:48 h:3>
 Bart
 "What's with this Gear?<New>

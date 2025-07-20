@@ -63,7 +63,7 @@ Destroyed'...<Delay 10>
 Those savages are really
 in trouble now.<Close><End of Block>
 <TextBlock 13 w:50 h:4>
-Hmm, the newest model
+Hmm, the newest-model
 anti-grav car, 'Roach'.<Delay 10>
 The design needs a little
 work.<Close><End of Block>

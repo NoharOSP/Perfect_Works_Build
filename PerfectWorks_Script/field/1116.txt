@@ -1,4 +1,5 @@
-<TextBlock 1 w:6 h:1>
+<TextBlock 1 w:6 h:2>
+Fei
 "!"<Close><End of Block>
 <TextBlock 2 w:36 h:3>
 Citan
@@ -18,22 +19,22 @@ battle from the 'Special
 Options' menu.<New>
 It is a very useful item,
 but the drawback is that
-it costs fuel, so you must
-use it with caution<-->"<Close><End of Block>
+it costs fuel. If you do
+not use it with caution<-->"<Close><End of Block>
 <TextBlock 5 w:44 h:4>
 Fei
-"That really doesn't
-matter if we don't get
-the Gear back, Doc.<New>
+"If we don't get the
+Gear back, that won't
+mean much, Doc.<New>
 Let's hurry up and get
 out of here while the
 coast is clear."<Close><End of Block>
 <TextBlock 6 w:42 h:3>
 Citan
 "Uh, oh yes. My usual
-habit...<New>
+habit, there...<New>
 Well, we should take
-it anyway since we
+it anyway while we
 have the chance."<Close><End of Block>
 <TextBlock 7 w:44 h:3>
 Hey, make sure you

@@ -91,7 +91,7 @@ Vanderkaum
 "Firing Control! Gunnery
 Chief! Not one shot from
 the main gun yet!?<New>
-Effective range for Type
+Effective range of Type
 3 shells should be 500.
 You can judge it by
 eye <--> just fire!"<Close><End of Block>

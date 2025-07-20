@@ -144,7 +144,7 @@ fall as well..."<Close><End of Block>
 Hammer
 "Trigger<Delay 5>...?<Delay 5>
 You mean this?
-What do I do with<-->?"<Close><End of Block>
+What do I do with<-->"<Close><End of Block>
 <TextBlock 33 w:3 h:1>
 ?<Close><End of Block>
 <TextBlock 34 w:34 h:2>

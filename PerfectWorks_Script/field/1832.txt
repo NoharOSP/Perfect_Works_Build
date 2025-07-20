@@ -150,7 +150,7 @@ Ramsus
 Elehayym over to me!"<Close><End of Block>
 <TextBlock 28 w:48 h:3>
 Fei
-"What!? Why would we<-->?<New>
+"What!? Why would we<--><New>
 !?
 Oh, I get it <-->
 this is Karellen's idea?<New>

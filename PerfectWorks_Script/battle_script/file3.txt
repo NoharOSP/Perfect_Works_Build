@@ -8,8 +8,10 @@ Did I do it!?"<Close><End of Block>
 <TextBlock 3 w:46 h:3>
 Fei
 "Wh-What the hell are
-you made of!?<New>
-Just stay down!"<Close><End of Block>
+these things!?<New>
+No matter how often
+I take them down they
+just get back up!"<Close><End of Block>
 <TextBlock 4 w:24 h:4>
 Fei
 "Guh!

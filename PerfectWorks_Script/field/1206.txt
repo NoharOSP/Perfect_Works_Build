@@ -1,6 +1,6 @@
 <TextBlock 1 w:30 h:2>
 Elly
-"Standby, OK!!"<Close><End of Block>
+"Standing by!!"<Close><End of Block>
 <TextBlock 2 w:36 h:4>
 Maria
 "The bonds between
@@ -20,216 +20,225 @@ Emeralda
 go too<Delay 5>..."<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Fei
-"Ah<Delay 5>...<Delay 10>sorry about what just
-happened<Delay 5>...<Delay 10> Forgive me...<Delay 10>
-But,<Delay 5> I want to explain...<New>
-Now<Delay 10> for the first time,<Delay 10>
-people, on both Earth and
-Solaris, are becoming one.<New>
-But then,<Delay 10> not all of them<Delay 10>
-are strong like the crew
-of this ship, or the
-people in Shevat.<New>
-Even we almost lose sight
-of our future at times...<Delay 10>
-so you can imagine what
-regular people go through.<New>
-That's why people need
-someone like you to
-depend on...<Delay 10>
-As a light to guide us.<New>
-You freed the hearts of the
-people that have been used
-as tools by that Ministry
-for hundreds of years.<New>
-Elly, it was you!<Delay 10>
-And now your body doesn't
-just belong to you alone
-anymore.<New>
-That's why I can't let you
-be in any danger.<Delay 10>
-And that's why I don't want
-you to fight anymore."<Close><End of Block>
-<TextBlock 6 w:48 h:1>
-...<Delay 5>It's funny, isn't it?<Close><End of Block>
+"I<Delay 5>...<Delay 10> I'm sorry about
+what just happened<Delay 5>...<Delay 10>
+Forgive me...<New>
+But<Delay 5> I want to explain.<New>
+Now,<Delay 10> for the first time,<Delay 10>
+be they surface dweller
+or Solarian, the people's
+hearts have been united.<New>
+And yet,<Delay 10> not everyone is
+strong like the crew of
+this ship, or the people
+of Shevat.<New>
+If even we have been on the
+brink of losing sight of
+the future,<Delay 10> what must it
+be like for regular people?<New>
+That's why the people need
+someone like you to turn
+to,<Delay 10> a ray of light.<New>
+The hearts of those who
+had merely been used as
+tools of the Ministry for
+hundreds of years...<New>
+The one who freed them
+from that spell was
+you, Elly.<New>
+Your safety is no longer
+just your own concern.<Delay 10>
+You cannot be put in
+danger.<New>
+I don't want to have
+you fight anymore."<Close><End of Block>
+<TextBlock 6 w:44 h:1>
+...<Delay 5>Strange, isn't it?<Close><End of Block>
 <TextBlock 7 w:8 h:1>
 Huh?<Close><End of Block>
 <TextBlock 8 w:46 h:4>
 Elly
-"We used to be enemies,<Delay 5>
-but now we're together
-like this<Delay 5>..."<Close><End of Block>
+"To think we're
+together like this now,<New>
+even though we were
+supposed to be mutual
+enemies at first..."<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 Elly
-"In the beginning...<Delay 10>
-I think I saw myself
-in you.<New>
-We seemed to overlap...<Delay 10>
-You being in a similar
-situation as I was in.<New>
-When I was with you,<Delay 5>
-I didn't feel alone or
-apprehensive.<Delay 10> That's why
-I thought I liked you...<New>
-But, it wasn't that.<Delay 10>
-I simply didn't have
-the courage to look at
-my true self.<New>
-I turned to you to run
-away from it all...<Delay 10>
-I mistook that for love."<Close><End of Block>
+"In the beginning,<Delay 10>
+I think I had projected
+myself onto you.<New>
+Superimposed myself over
+you,<Delay 10> as you were in a
+similar situation to me.<New>
+It was only when I was
+with you that I didn't
+feel loneliness, or
+anxiety.<New>
+That's why I'd thought...
+I must like you.<Delay 10>
+But that wasn't it.<New>
+I just didn't have the
+courage to look at my
+true self.<New>
+I had simply been
+escaping into you.<Delay 10>
+I had mistaken that
+for love."<Close><End of Block>
 <TextBlock 10 w:54 h:4>
 Elly
-"But,<Delay 10> it's different now.<Delay 10>
-I can face my own problems.<Delay 10>
-I am me<Delay 5>...and you are you.<New>
-It has all become <Delay 5>clear
-to me now.<Delay 10>
-I also learned that I
-really do need you...<New>
-It's not because I need
-you as a sanctuary for
-my problems.<Delay 10> I need you
-because I truly love you."<Close><End of Block>
+"But<Delay 10> it's different now.<Delay 10>
+I can confront my own
+situation head-on.<New>
+I am me<Delay 5>...and you are you.<Delay 10>
+I see that clearly.<New>
+And I've rediscovered
+that I do need you.<New>
+I don't need you because I
+want to be released from
+my worries.<Delay 10> I need you
+because I love you."<Close><End of Block>
 <TextBlock 11 w:14 h:1>
 Elly<Delay 5>...<Close><End of Block>
 <TextBlock 12 w:54 h:4>
 Elly
-"I know what you're saying,<Delay 5>
-Fei.<Delay 10> I know why you're so
-concerned for my safety...<New>
-But you know,<Delay 5> I'm<Delay 5>...<Delay 5>scared.<Delay 10>
-I fear we may never see
-each other again<Delay 5>...<Delay 10>
-I just have this feeling."<Close><End of Block>
-<TextBlock 13 w:26 h:3>
+"I understand what you're
+saying, Fei.<New>
+I know that you're
+concerned for my safety.<New>
+The thing is...<Delay 5>I'm afraid.<Delay 10>
+I have a bad feeling...<Delay 10>
+that after this we'll never
+see each other again..."<Close><End of Block>
+<TextBlock 13 w:38 h:3>
 Fei
-"Don't worry,<Delay 10>
-I won't die."<Close><End of Block>
+"It's alright,<Delay 10>
+I'm not gonna die."<Close><End of Block>
 <TextBlock 14 w:52 h:4>
 Elly
-"No,<Delay 5> it's not that<Delay 5>...<Delay 10>
-It's something completely
+"No, no...<Delay 5>it's not that.<Delay 10>
+It's something very
 different<Delay 5>...<New>
-It's as if I'm being torn
-apart by something I can't
-resist<Delay 5>...<Delay 10>
-That I'm no longer me<Delay 5>...<New>
-Even if you come back
-safely<Delay 5>...<Delay 10> It still<Delay 5>...<Delay 10>
-It just feels so uneasy<Delay 5>...<New>
-That is why I need to go
-with you.<Delay 10>
-I can't bear to be away
-from you."<Close><End of Block>
-<TextBlock 15 w:52 h:4>
+Like I'm being torn
+apart by something
+uncontrollable,<Delay 10> and
+I'm no longer me<Delay 5>...<New>
+Even though you'll be
+coming back,<Delay 10> it's still<Delay 5>...<Delay 10>
+It's unbearably
+unsettling<Delay 5>...<New>
+That's why I want to go
+with you.<Delay 10> I don't want
+to be apart from you
+for even a moment."<Close><End of Block>
+<TextBlock 15 w:50 h:4>
 Fei
-"I feel the same way...<Delay 10>
-Ever since the time I met
-you in that forest<Delay 5>...<New>
-I think it's the same
-feeling that you've been
-having...<Delay 10>
-I was also running to you.<New>
-But I have to solve my own
-problems.<Delay 10>
-I can't throw my problems
-onto you."<Close><End of Block>
-<TextBlock 16 w:50 h:4>
+"It's the same for me.<Delay 10>
+I've felt it ever since I
+met you in the forest<Delay 5>...<New>
+I think it's maybe the
+same thing that you'd
+been feeling.<New>
+I was escaping into you,
+too.<New>
+But I have to solve my
+problems on my own.<Delay 10>
+I can't let them be
+a burden to you."<Close><End of Block>
+<TextBlock 16 w:48 h:4>
 Fei
-"There is another me...<Delay 10>
-'Id' is within me.<New>
-I fear that at any moment
-Id may awaken within me.<New>
-You're the only one that
-has been able to keep me
-from giving in to Id.<New>
-It was because you were
-always by my side that I
-was still able to keep
-from losing myself."<Close><End of Block>
+"Within me, there's
+another me <--> Id.<New>
+I'm almost crushed by
+the fear that I'll be
+completely taken over
+by him someday.<New>
+Unstable as I am, it's
+thanks to you that I can
+be as you see me now.<New>
+Because you're always
+by my side, I can hold
+on to my own self."<Close><End of Block>
 <TextBlock 17 w:52 h:4>
 Fei
-"I promise you that<Delay 5>
-I will return.<New>
-So...<Delay 5>that is...<Delay 5>Elly,<Delay 10>
-I want you to be my reason
-to return...<Delay 10> To be my home
-that I can return to...<New>
-Elly,<Delay 5> if you will wait for
-me to come back...<Delay 10>
-even if we are in totally
-different places...<New>
-As long as you will stay<Delay 5>
-by my side...<Delay 10>
-I know I'll be able
-to do anything..."<Close><End of Block>
-<TextBlock 18 w:20 h:1>
-Oh,<Delay 5> Fei<Delay 5>...<Close><End of Block>
-<TextBlock 19 w:36 h:1>
-Are you going now?<Close><End of Block>
+"I will definitely,<Delay 5>
+without fail,<Delay 5> come back.<New>
+So...<Delay 5> I...<New>
+Elly,<Delay 10> I want you to be the
+reason for me to come back
+no matter what,<Delay 10> the home
+I must return to...<New>
+If you're waiting for my
+return, watching over
+me even though we're in
+different places,<New>
+then I'll be able to
+keep going..."<Close><End of Block>
+<TextBlock 18 w:14 h:1>
+Fei<Delay 5>...<Close><End of Block>
+<TextBlock 19 w:28 h:1>
+You're going?<Close><End of Block>
 <TextBlock 20 w:32 h:3>
 Fei
-"Yeah, sorry.<Delay 10>
+"Oh, sorry.<Delay 10>
 Did I wake you?"<Close><End of Block>
-<TextBlock 21 w:30 h:4>
+<TextBlock 21 w:38 h:4>
 Elly
 "It's okay.<Delay 10>
-I've been awake
-all along<Delay 5>..."<Close><End of Block>
+I've been up for
+quite some time<Delay 5>..."<Close><End of Block>
 <TextBlock 22 w:20 h:1>
-All along?<Close><End of Block>
-<TextBlock 23 w:44 h:4>
+You have?<Close><End of Block>
+<TextBlock 23 w:48 h:4>
 Elly
-"Uh-huh.<Delay 10>
-I was watching over
-you while you slept...<New>
-And before I realized
-it, it was morning..."<Close><End of Block>
+"Uh-huh.<Delay 10> I was gazing
+at your face all morning
+while you slept..."<Close><End of Block>
 <TextBlock 24 w:6 h:1>
 <Delay 2>.<Delay 2>.<Delay 2>.<Close><End of Block>
-<TextBlock 25 w:38 h:2>
+<TextBlock 25 w:42 h:2>
 Fei
-"W-<Delay 5> well,<Delay 10> I'm off."<Close><End of Block>
+"W-<Delay 5>Well,<Delay 10> time to go."<Close><End of Block>
 <TextBlock 26 w:34 h:3>
 Elly
-"Alright then<Delay 5>...<Delay 10>
+"I'll see you.<Delay 10>
 Do be careful<Delay 5>..."<Close><End of Block>
-<TextBlock 27 w:38 h:4>
+<TextBlock 27 w:34 h:4>
 Fei
-"Yeah,<Delay 5> I will...<Delay 20>
-Oh!<Delay 10> Could you hold
-on to this for me?"<Close><End of Block>
+"I will...<New>
+Oh!<Delay 10> That's right.
+Could you hold on
+to this for me?"<Close><End of Block>
 <TextBlock 28 w:42 h:3>
 Elly
-"What is this?<Delay 10>
-Is this a<Delay 5>...<Delay 5>pendant?"<Close><End of Block>
+"What?<Delay 10>
+This is<Delay 5>...<Delay 5>a pendant?"<Close><End of Block>
 <TextBlock 29 w:52 h:4>
 Fei
-"I don't know whose it is.<Delay 10>
-It seems it was on me when
-I was brought into Lahan.<New>
-It may be mine,<Delay 5> or it
-could be<Delay 5>..."<Close><End of Block>
+"I don't know whose it is.<New>
+Apparently it was on me
+when I was carried into
+Lahan.<New>
+Maybe it's mine,<Delay 5>
+or maybe it's<Delay 5>..."<Close><End of Block>
 <TextBlock 30 w:30 h:1>
-It could be<Delay 5>...?<Close><End of Block>
-<TextBlock 31 w:36 h:4>
+Maybe it's<Delay 5>...?<Close><End of Block>
+<TextBlock 31 w:34 h:4>
 Fei
-"Oh, nothing...<Delay 10>
-Will you just hold
-on to it for me?"<Close><End of Block>
-<TextBlock 32 w:30 h:4>
+"No, never mind.<Delay 10>
+Could you look
+after it?"<Close><End of Block>
+<TextBlock 32 w:26 h:4>
 Elly
 "Alright.<Delay 10>
 I'll hold on
-to it for you."<Close><End of Block>
-<TextBlock 33 w:44 h:4>
+to it."<Close><End of Block>
+<TextBlock 33 w:32 h:3>
 Fei
 "Thanks.<Delay 10>
-...<Delay 5>Well,<Delay 5>
-I guess it's goodbye!"<Close><End of Block>
+...<Delay 5>Well, then."<Close><End of Block>
 <TextBlock 34 w:20 h:1>
-Oh<Delay 5>...<Delay 5> Fei.<Close><End of Block>
+Oh<Delay 5>...<Delay 5> Fei?<Close><End of Block>
 <TextBlock 35 w:10 h:1>
 Yeah?<Close><End of Block>
 <TextBlock 36 w:28 h:2>

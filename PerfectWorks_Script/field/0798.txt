@@ -6,11 +6,11 @@ Kislev uniforms<Delay 20> as planned.<New>
 We'll wait for the right
 moment, then head for the
 palace in the Yggdrasil!"<Close><End of Block>
-<TextBlock 2 w:50 h:4>
+<TextBlock 2 w:42 h:4>
 Bart
 "Got it.<Delay 30>
-But avoid any unnecessary
-deaths.<New>
+But I say again:
+no needless killing.<New>
 This goes for the Av
 troops<Delay 30> and the people
 from Geburah, too."<Close><End of Block>
@@ -149,11 +149,14 @@ Bart
 <TextBlock 28 w:36 h:2>
 By the way, how's
 Marguerite...?<Close><End of Block>
-<TextBlock 29 w:48 h:4>
+<TextBlock 29 w:40 h:4>
 Bart
-"Better than we thought.
-But I know she was in a
-lot of grief."<Close><End of Block>
+"Oh, she was in
+better spirits
+than we'd feared.<New>
+But the reality is,
+it must've been
+painful for her."<Close><End of Block>
 <TextBlock 30 w:24 h:3>
 Marguerite!
 I'm so glad

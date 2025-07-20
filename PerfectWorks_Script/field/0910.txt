@@ -16,37 +16,42 @@ Bart
 Hah!<Delay 10> 'Boy'!?<New>
 Let's see you try to
 call me that again!
-Who the hell are you
+Who the hell are you,
 anyway?"<Close><End of Block>
-<TextBlock 5 w:46 h:4>
+<TextBlock 5 w:54 h:4>
 Ramsus
-"You do have spunk. But
-I don't need to give my
-name to rats like you."<Close><End of Block>
-<TextBlock 6 w:14 h:2>
+"Your boldness is laudable.
+But I have no name that I'd
+give to a rat like you."<Close><End of Block>
+<TextBlock 6 w:16 h:2>
 Bart
-"What?"<Close><End of Block>
-<TextBlock 7 w:54 h:4>
+"What!?"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
 Ramsus
 "Now hand over the girl.
 She is a very important
 guest.<New>
-Until she tells us where a
-certain piece of the Fatima
+Until she tells us where
+her half of the Fatima
 Jasper is, we can't allow
 her to be taken away."<Close><End of Block>
-<TextBlock 8 w:50 h:4>
+<TextBlock 8 w:46 h:4>
 Bart
-"Gimme a break! You think
-I'm gonna hand her over
-just 'cause you say to?<New>
+"Hmph!<Delay 5> I hate to
+be predictable,<New>
+but do you think I'm
+gonna say 'yes, sir'
+and hand her over just
+'cause you tell me to?<New>
 Pull your head out, you
 Geburah geek!"<Close><End of Block>
-<TextBlock 9 w:48 h:4>
+<TextBlock 9 w:50 h:4>
 Ramsus
-"Hmm. I assume you know
-where such abusive
-language will lead you."<Close><End of Block>
+"Ahh...<New>
+Then I suppose you know
+what happens to fools
+who are quick to say
+such predictable things."<Close><End of Block>
 <TextBlock 10 w:34 h:2>
 Fei
 "You okay, Bart?"<Close><End of Block>
@@ -64,37 +69,36 @@ I thought this was
 just a simple rescue?"<Close><End of Block>
 <TextBlock 14 w:52 h:3>
 Bart
-"Shut up! This jerk butted
+"Shut up! These two butted
 in and slowed me down!"<Close><End of Block>
-<TextBlock 15 w:48 h:4>
+<TextBlock 15 w:48 h:3>
 Ramsus
-"(The way he attacked...
-It reminds me of someone
-from my past...)"<Close><End of Block>
-<TextBlock 16 w:42 h:4>
+"(That move just now...
+It was exactly like...)"<Close><End of Block>
+<TextBlock 16 w:38 h:4>
 Ramsus
-"Enough talk!
-Battling will reveal
-the truth about you."<Close><End of Block>
+"Very well.<Delay 10>
+If we do battle,
+we shall find out!"<Close><End of Block>
 <TextBlock 17 w:36 h:4>
 Bart
 "Careful, Fei!
-This Geburah jerk's
-pretty strong."<Close><End of Block>
+This jerk's pretty
+strong."<Close><End of Block>
 <TextBlock 18 w:12 h:2>
 Fei
 "Now!"<Opcode 2 30><Close><End of Block>
 <TextBlock 19 w:34 h:4>
 Ramsus
-"(Is it 'him'?
-Or do I only want
-to think so...<New>
-If it is 'him'...
-I...<Delay 10>
-I am...)"<Close><End of Block>
-<TextBlock 20 w:30 h:2>
-...Worthless...
-...A reject...<Close><End of Block>
+"(I'd like to
+think not, but...
+is it 'him'?<New>
+Although,<Delay 10> maybe
+if it really is
+'him'...then I...<Delay 10>
+I could...)"<Close><End of Block>
+<TextBlock 20 w:22 h:1>
+...Trash...<Close><End of Block>
 <TextBlock 21 w:44 h:3>
 Ramsus
 "GUARD! Double the

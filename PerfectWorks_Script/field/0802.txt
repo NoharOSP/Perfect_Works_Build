@@ -1,13 +1,11 @@
-<TextBlock 1 w:54 h:3>
+<TextBlock 1 w:32 h:2>
 Citan
-"Oh my...
-What an exquisite portrait!<New>
-And the beautiful young
-lady portrayed is quite
-beyond comparison, too..."<Close><End of Block>
-<TextBlock 2 w:34 h:4>
+"Oh my...<New>
+What a striking
+young lady."<Close><End of Block>
+<TextBlock 2 w:36 h:4>
 Citan
-"What is more...<Delay 30>
+"Not to mention...<Delay 30>
 there is quite a
 resemblance."<Close><End of Block>
 <TextBlock 3 w:50 h:2>
@@ -43,8 +41,8 @@ Fei
 <TextBlock 9 w:52 h:4>
 Citan
 "Yes, now that you mention
-it...
-She does resemble Elly."<Close><End of Block>
+it... She does indeed
+resemble Elly."<Close><End of Block>
 <TextBlock 10 w:52 h:4>
 Citan
 "But that is not what I

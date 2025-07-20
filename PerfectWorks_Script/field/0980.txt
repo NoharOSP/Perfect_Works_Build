@@ -5,12 +5,12 @@ This old man will follow
 you to the pits of hell!"<Close><End of Block>
 <TextBlock 2 w:56 h:4>
 Engineer
-"The main engine and control
-fins' oscillators are mostly
-unharmed...<New>
-...but the electrical
-connections between them
-are wasted.<New>
+"The main engine and
+control fins' oscillators
+are mostly unharmed,<New>
+but the electrical
+connections between
+them are wasted.<New>
 We are bypassing the main
 connection and trying to
 scrape together all the
@@ -51,11 +51,10 @@ you...?"<Close><End of Block>
 Bart
 "Surrounded, huh?
 How are the repairs?"<Close><End of Block>
-<TextBlock 9 w:40 h:4>
+<TextBlock 9 w:46 h:3>
 Bart
-"Sig! What has that
-Geburah pushover got
-to say?"<Close><End of Block>
+"Sig! What's Geburah's
+Mr. Nice Guy saying?"<Close><End of Block>
 <TextBlock 10 w:46 h:4>
 Bart
 "...<New>
@@ -103,5 +102,5 @@ Bart
 "Is it heading...<Delay 16>here?"<Close><End of Block>
 <TextBlock 17 w:30 h:1>
 Are you strong?<Close><End of Block>
-<TextBlock 18 w:52 h:1>
-I asked, 'Are you strong?'<Close><Close><End of Block>
+<TextBlock 18 w:50 h:1>
+I asked 'are you strong?'<Close><Close><End of Block>

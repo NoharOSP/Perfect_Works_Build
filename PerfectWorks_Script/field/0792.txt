@@ -65,10 +65,9 @@ What is done is done!
 You only did what you
 believed was right...
 Put the past behind you."<Close><End of Block>
-<TextBlock 10 w:26 h:3>
+<TextBlock 10 w:24 h:2>
 Bart
-"Huh...
-I'm alright!"<Close><End of Block>
+"I'm okay."<Close><End of Block>
 <TextBlock 11 w:58 h:6>
   Sigurd
   "Etemenanki, the Capital
@@ -203,7 +202,7 @@ Maison
 you inside, sir..."<Close><End of Block>
 <TextBlock 33 w:10 h:2>
 Bart
-"Ah!"<Close><End of Block>
+"Oh!"<Close><End of Block>
 <TextBlock 34 w:40 h:2>
 Maison
 "Yo~ung ma~ste~r!"<Close><End of Block>
@@ -372,11 +371,10 @@ first gain thy throne!'
 Citan
 "Hmm...
 You could put it that way."<Close><End of Block>
-<TextBlock 54 w:48 h:4>
+<TextBlock 54 w:48 h:3>
 Bart
-"What do you mean,
-'You could put it that
-way'?<New>
+"What do you mean 'you
+could put it that way'?<New>
 But then again, maybe it
 IS time I did something
 about that."<Close><End of Block>
@@ -387,8 +385,8 @@ to the cathedral.<Close><End of Block>
 Oh, Bart!
 I'm glad you're well.<Close><End of Block>
 <TextBlock 57 w:52 h:2>
-I've already contacted the
-monastery.<New>
+I've already let the
+convent know.<New>
 Please take Margie up
 there as soon as possible.<New>
 She'll be so happy...
@@ -398,8 +396,8 @@ Margie
 "I must hurry and
 see the sisters."<Close><End of Block>
 <TextBlock 59 w:50 h:2>
-I've already contacted
-the monastery.<New>
+I've already let the
+convent know.<New>
 Go to them quickly and
 show them you're alright.<New>
 I'm sure they'll be
@@ -446,7 +444,7 @@ there was going to be
 a war, so we should
 move somewhere else.<Close><End of Block>
 <TextBlock 71 w:52 h:1>
-How's my young lord going?<Close><End of Block>
+How's my young lord doing?<Close><End of Block>
 <TextBlock 72 w:28 h:3>
 Bart
 "Don't call me
@@ -467,12 +465,12 @@ I hear you gave them quite
 a show this time!<Close><End of Block>
 <TextBlock 75 w:48 h:4>
 Bart
-(Shhh! Keep it down!
+"(Shhh! Keep it down!
 My true identity is
 supposed to be a secret!<New>
 What if a spy from the
 Royal Capital snuck in
-here and heard you!?)<Close><End of Block>
+here and heard you!?)"<Close><End of Block>
 <TextBlock 76 w:40 h:2>
 (Oh... I hadn't
 thought about that!)<Close><End of Block>
@@ -694,5 +692,5 @@ Outta the way!<Close><End of Block>
 <TextBlock 117 w:48 h:2>
 They're continuing their
 discussion in there.<Close><End of Block>
-<TextBlock 118 w:12 h:1>
-"...?"<Close><Close><End of Block>
+<TextBlock 118 w:8 h:1>
+...?<Close><Close><End of Block>

@@ -83,10 +83,10 @@ Citan
 why is it not moving?"<Close><End of Block>
 <TextBlock 22 w:50 h:2>
 Citan
-"Sewage treatment plant?"<Close><End of Block>
-<TextBlock 23 w:38 h:2>
+"Sewage-treatment plant?"<Close><End of Block>
+<TextBlock 23 w:44 h:2>
 Citan
-"That is strange...<New>
+"That is suspicious...<New>
 Where is it?"<Close><End of Block>
 <TextBlock 24 w:42 h:3>
 Citan
@@ -133,19 +133,19 @@ Why isn't it moving?"<Close><End of Block>
 Rico
 "Let's take a
 closer look."<Close><End of Block>
-<TextBlock 34 w:50 h:4>
+<TextBlock 34 w:54 h:4>
 Rico
 "!!<Delay 20>
-...These are Vargas'
-pass keys to the sewer.<New>
+...These are the shared
+sewer keys that Vargas had!<New>
 They must've gotten
 caught up in this thing.<Delay 20>
 That's why it wasn't
 moving?"<Close><End of Block>
-<TextBlock 35 w:52 h:3>
+<TextBlock 35 w:50 h:3>
 Rico
-"Hmm... Well, there's the
-sewage treatment plant."<Close><End of Block>
+"They're the keys to the
+sewage-treatment plant."<Close><End of Block>
 <TextBlock 36 w:44 h:3>
 Rico
 "That's where all the 

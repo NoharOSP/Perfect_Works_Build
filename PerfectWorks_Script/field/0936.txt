@@ -41,7 +41,7 @@ of the Ignis Army's 3rd
 Assault Division.<New>
 And...while returning from
 a mission to capture the
-newest model Gear from a
+newest-model Gear from a
 Kislev military factory...<New>
 ...I was attacked by
 pursuing Kislev Gears and
@@ -112,17 +112,18 @@ Elly
 "You want to get out of
 the castle, right?<New>
 In this confusion you can
-escape through the Gear
+escape through the Gear-
 launch door."<Close><End of Block>
-<TextBlock 25 w:54 h:4>
+<TextBlock 25 w:52 h:4>
 Bart
-"Great idea! But...
-do we really buy that?<New>
-I don't think so! She talks
-sweet, but she's probably
-planning to turn us over to
-that old bald geezer.<New>
-It's a trick, Fei!"<Close><End of Block>
+"Riiight, great idea!<Delay 10>
+...You think I'm buying
+this? Give me some credit!<New>
+She talks a good game, but
+isn't she just gonna turn
+us in to that old bald
+geezer!?<New>
+Don't be fooled, Fei!"<Close><End of Block>
 <TextBlock 26 w:10 h:2>
 Fei
 "..."<Close><End of Block>
@@ -160,10 +161,8 @@ mind long ago."<Close><End of Block>
 <TextBlock 33 w:16 h:2>
 Elly
 "Fei..."<Close><End of Block>
-<TextBlock 34 w:44 h:3>
+<TextBlock 34 w:24 h:4>
 Bart
-"Gah!
-First you, now her!<New>
-The whole lot of you
-can go jump off a
-cliff for all I care!"<Close><Close><End of Block>
+"Gah!<Delay 5>
+Both of you!<Delay 5>
+I give up!"<Close><Close><End of Block>
