@@ -11,14 +11,13 @@ Pirate
 "Hey!<Delay 30>
 You're<Delay 20> not an
 Av soldier?"<Close><End of Block>
-<TextBlock 4 w:42 h:4>
+<TextBlock 4 w:48 h:4>
 Fei
-"That's what I said
-before over the
-intercom!<New>
-You're the one who
-refused to listen to
-me, right?"<Close><End of Block>
+"That's why I said over
+the intercom before that
+you'd got it wrong.<New>
+Do you just not
+listen to anything?"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Pirate
 "Hah, ha, ha. Sorry, sorry.
@@ -30,20 +29,17 @@ Uhh, ahem...
 My name is Bart.
 I'm a pirate who works
 this territory."<Close><End of Block>
-<TextBlock 6 w:52 h:4>
+<TextBlock 6 w:50 h:4>
 Fei
 "My name is Fei.<New>
-I was arrested for no
-apparent reason, shoved
-into that Av transport
-ship...<New>
-...and was almost on my
-way to a concentration
-camp until you went and
-blew the thing to blazes.<New>
-Anyway...
-I'm just glad to have
-been able to survive."<Close><End of Block>
+For no apparent reason,
+I was shoved onto that
+Av transport ship,<New>
+and about to be sent off
+to a detention center.<Delay 10>
+Then the strife just now.<New>
+Well, I'm rescued
+at any rate."<Close><End of Block>
 <TextBlock 7 w:50 h:4>
 Bart
 "I see...

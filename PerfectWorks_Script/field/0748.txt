@@ -209,7 +209,7 @@ we do about it?"<Close><End of Block>
 Ol' Man Bal
 "It's very simple.
 You just have to turn off
-the sand sensor switches.<New>
+the sand-sensor switches.<New>
 Doing that will keep the
 barrier from closing again.<Delay 30>
 While you two are doing
@@ -591,8 +591,8 @@ Old Man
 That's too bad.<New>
 I can tell from the sound
 that you both ride good
-Gears...<New>
-But the legs seem to be
+Gears, but...<New>
+A leg seems to be
 playing up a bit."<Close><End of Block>
 <TextBlock 96 w:48 h:4>
 Old Man

@@ -8,7 +8,7 @@ Fei
 <TextBlock 3 w:56 h:4>
 Gate Keeper
 "Beyond here is the
-competitors' Gear storage
+competitors' Gear-storage
 paddock.<New>
 Sorry, but to prevent pilots
 from cheating, unauthorized
@@ -16,7 +16,7 @@ entry is not permitted."<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Supervisor
 "<Delay 5>...<Delay 5>Beyond here is the
-competitors' Gear storage
+competitors' Gear-storage
 paddock.<New>
 To prevent cheating,
 unauthorized entry is
@@ -35,12 +35,12 @@ receive<Delay 5>...<Delay 5>perhaps.<New>
 Anyway, Battler, what do
 you need to know about the
 Battling Contest?"<Close><End of Block>
-<TextBlock 7 w:46 h:5>
+<TextBlock 7 w:48 h:5>
 Informationist
 "What shall I explain?"<Delay 15>
 <Opcode 1 255>    What's Battling?
     Basic controls
-    I'm alright thanks!<Close><End of Block>
+    I'm alright, thanks!<Close><End of Block>
 <TextBlock 8 w:54 h:5>
 Informationist
 "...<Delay 5>Fei, sir,<Delay 5> you haven't
@@ -489,7 +489,7 @@ the storage paddock.
 Stand by for boarding!<Close><End of Block>
 <TextBlock 106 w:56 h:2>
 Pilot Fei, please proceed to
-the competitor's paddock!<Close><End of Block>
+the competitors' paddock!<Close><End of Block>
 <TextBlock 107 w:54 h:4>
 Informationist
 "Okeydokey!<Delay 15>
@@ -883,33 +883,33 @@ Hammer
 <Opcode 1 100>"This means I am acquitted!
 Cleared! Oh, how the free
 world outside beckons us!"<Opcode 2 120><Close><End of Block>
-<TextBlock 164 w:46 h:4>
+<TextBlock 164 w:48 h:3>
 Rico
-"<Delay 5>...<Delay 5>Don't give me that!<Delay 15>
-Your strength<Delay 5>...?<Delay 5>
-Is that your attitude?"<Close><End of Block>
+"<Delay 5>...<Delay 5>Stop messing around!<Delay 15>
+Is that all you got?"<Close><End of Block>
 <TextBlock 165 w:24 h:2>
 Fei
 "<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>."<Close><End of Block>
 <TextBlock 166 w:56 h:3>
 Rico
-"C'mon, fight me again!<New>
-You seemed a lot stronger
-in the sewers!
-Show me your true strength!"<Close><End of Block>
-<TextBlock 167 w:48 h:3>
+"C'mon now, fight me again!!<New>
+You were strong enough in
+the sewers <--> you not gonna
+take this seriously!?"<Close><End of Block>
+<TextBlock 167 w:42 h:4>
 Rico
-"<Delay 5>...<Delay 5>Don't give me that!<Delay 15>
-What are you scared of?"<Close><End of Block>
+"<Delay 5>...<Delay 5>Stop messing
+around!<Delay 15> Where's your
+determination?"<Close><End of Block>
 <TextBlock 168 w:24 h:2>
 Fei
 "<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>.<Delay 2>."<Close><End of Block>
 <TextBlock 169 w:56 h:3>
 Rico
-"C'mon, man, fight me again!<New>
-You seemed a lot stronger
-in those sewers!
-Show me your true strength!"<Close><End of Block>
+"C'mon now, fight me again!!<New>
+You were strong enough in
+the sewers <--> you not gonna
+take this seriously!?"<Close><End of Block>
 <TextBlock 170 w:50 h:4>
 Hammer
 "Yo, bro~!<Delay 15>
@@ -982,7 +982,7 @@ Fei
 <TextBlock 183 w:54 h:4>
 Rue
 "What, you're thinking that
-you're going to fight with
+you're going to fight via
 flesh and blood?<New>
 <Delay 5>...<Delay 5>Hahahmm, not that I 
 wouldn't mind seeing it,
@@ -1095,7 +1095,7 @@ Well then,<Delay 5> let's head back
 to our lodgings for now."<Close><End of Block>
 <TextBlock 199 w:56 h:4>
 Hammer
-"I wish I could say, 'Yeah
+"I wish I could say 'yeah
 let's go', but tomorrow's
 Finals League is important!<New>
 Don't you think you should

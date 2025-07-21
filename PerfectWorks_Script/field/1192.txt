@@ -229,17 +229,16 @@ Young Master, did you
 apologize to Master Fei?" <Close><End of Block>
 <TextBlock 20 w:42 h:4>
 Bart
-"What?  Uhh...yeah...<Delay 10>
-I told him I was
-'wrong'...<Delay 10>didn't I?"<Close><End of Block>
+"Huh? Y-<Delay 5>Yeah...<Delay 10>
+I told him it was
+'my bad'...<Delay 10>didn't I?"<Close><End of Block>
 <TextBlock 21 w:6 h:1>
 ...<Close><End of Block>
-<TextBlock 22 w:52 h:3>
+<TextBlock 22 w:46 h:4>
 Sigurd
-"Just telling someone you
-were 'wrong' after the<New>
-event isn't going to solve
-everything, Young Master."<Close><End of Block>
+"A 'my bad' after the
+event isn't going to
+cut it, Young Master."<Close><End of Block>
 <TextBlock 23 w:54 h:4>
 Sigurd
 "I'm sorry I've delayed

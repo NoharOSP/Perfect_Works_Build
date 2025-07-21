@@ -16,10 +16,10 @@ smash it to pieces!<Close><End of Block>
 Fei
 "I guess<Delay 30> we could
 try pushing it..."<Close><End of Block>
-<TextBlock 4 w:40 h:3>
+<TextBlock 4 w:42 h:3>
 Bart
-"Wait, no matter how
-you look at it<-->"<Close><End of Block>
+"Hey now, no matter
+how you look at it<-->"<Close><End of Block>
 <TextBlock 5 w:50 h:4>
 Bart
 "Hey, Fei!<Delay 30>

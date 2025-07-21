@@ -667,7 +667,7 @@ Citan
 Bart
 "It... It couldn't be
 helped. How could I
-have known you were<-->?"<Close><End of Block>
+have known you were<-->"<Close><End of Block>
 <TextBlock 130 w:40 h:4>
 Fei
 "I'm so disgusted I

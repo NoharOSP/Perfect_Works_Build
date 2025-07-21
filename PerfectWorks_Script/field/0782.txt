@@ -110,10 +110,10 @@ Maybe there...<Close><End of Block>
 Sigurd
 "I went to the tool shop
 to borrow a table.<New>
-The owner said, 'If you
+The owner said 'if you
 need anything for the
 young master, just ask
-for it.'"<Close><End of Block>
+for it'."<Close><End of Block>
 <TextBlock 25 w:30 h:2>
 Bart
 "I'm grateful."<Close><End of Block>
@@ -184,11 +184,11 @@ to deal with Geburah."<Close><End of Block>
 <TextBlock 35 w:54 h:4>
 Bart
 "With our present strength
-we should be able to hold
-off the royal guard forces.<New>
+we should be able to over-
+whelm the defense force.<New>
 The problem is how to deal
-with Geburah in the
-meantime...<New>
+with Geburah while we're
+doing that...<New>
 They will most likely move
 at Shakhan's request.
 They're not just gonna sit
@@ -257,25 +257,25 @@ already in the city."<Close><End of Block>
 Citan
 "We are forgetting
 one thing...<New>
-The front line units
+The frontline force
 along Kislev's border."<Close><End of Block>
 <TextBlock 47 w:12 h:2>
 Bart
 "...!"<Close><End of Block>
-<TextBlock 48 w:30 h:4>
+<TextBlock 48 w:34 h:4>
 Bart
-"Damn...<Delay 30>
-That screws the
-entire plan!"<Close><End of Block>
+"Wow...<Delay 30>
+Don't you have
+any better news?"<Close><End of Block>
 <TextBlock 49 w:48 h:4>
 Citan
 "Do not be disheartened.<New>
 I simply wanted you
 to see the current
-distribution of force
+distribution of might
 in the area.<New>
 Even in the worst case
-that they do come, it
+that the fleet comes, it
 will not be such a great
 problem."<Close><End of Block>
 <TextBlock 50 w:38 h:2>
@@ -284,13 +284,13 @@ Bart
 <TextBlock 51 w:50 h:4>
 Citan
 "I have some additional
-information about Av's
-border fleet.<New>
-The former Av supreme
-commander was transferred
-there.<New>
-Not really transferred,<Delay 30>
-more like <Delay 30>demoted...<Delay 30>
+information about that
+frontline fleet.<New>
+A former commanding
+officer of Av was
+transferred to it.<New>
+Not really transferred...<Delay 30>
+More like <Delay 30>demoted.<Delay 30>
 His name is Vanderkaum."<Close><End of Block>
 <TextBlock 52 w:30 h:2>
 Sigurd
@@ -350,7 +350,7 @@ Maison
 Bart
 "I know! I know!<New>
 Anyway, Citan, do you
-think he can strike
+think he could strike
 our Gear forces?"<Close><End of Block>
 <TextBlock 64 w:50 h:3>
 Citan
@@ -633,7 +633,7 @@ disarray with Shakhan
 running amok.<New>
 It should be very easy
 to bring down the center
-with no Geburah units
+with no Geburah forces
 around.<New>
 It'll be the best time to
 make our return to the

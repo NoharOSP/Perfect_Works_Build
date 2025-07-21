@@ -181,7 +181,7 @@ skirmish between Av's
 inspection team and
 Kislev's pursuit force.<New>
 If they find where we left
-<Weltall>, the new model
+<Weltall>, the new-model
 Gear they seek..."<Close><End of Block>
 <TextBlock 31 w:54 h:4>
 Citan

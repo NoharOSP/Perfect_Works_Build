@@ -458,7 +458,7 @@ is deeper than the seas! And
 enticing the partakers of our
 food to the peaks of bliss is
 the job of cooks like us!<Close><End of Block>
-<TextBlock 80 w:22 h:1>
+<TextBlock 80 w:20 h:1>
 Yes, chef!<Opcode 2 30><Close><End of Block>
 <TextBlock 81 w:58 h:5>
 Cooking requires love that is
@@ -466,7 +466,7 @@ higher than the skies! And
 enticing the partakers of our
 food to the peaks of bliss is
 the job of cooks like us!<Close><End of Block>
-<TextBlock 82 w:22 h:1>
+<TextBlock 82 w:20 h:1>
 Yes, chef!<Opcode 2 30><Close><End of Block>
 <TextBlock 83 w:56 h:4>
 Arrgh! Don't talk to me, I'm
@@ -881,8 +881,8 @@ bro?<Delay 15> Of course he has
 everything to do with me!<New>
 If I become chums with him,
 I can expand my connections
-by establishing black market
-medical treatment routes!"<Close><End of Block>
+by establishing black-market
+medical-treatment routes!"<Close><End of Block>
 <TextBlock 176 w:44 h:4>
 Fei
 "...So that's it, huh?
@@ -904,14 +904,13 @@ You made me wait for ages!"<Close><End of Block>
 <TextBlock 180 w:36 h:2>
 Fei
 "Oh,<Delay 5> uhhh, sorry!"<Close><End of Block>
-<TextBlock 181 w:52 h:4>
+<TextBlock 181 w:44 h:4>
 Fei
-"After you left, Doc said
-he wanted to give the mon-
-ster a dignified burial.<New>
-So I waited for him
-outside the sewer
-entrance."<Close><End of Block>
+"After you left,<New>
+Doc said he wanted to
+give the monster a
+dignified burial, so
+I waited outside."<Close><End of Block>
 <TextBlock 182 w:50 h:4>
 Rico
 "<Delay 5>...<Delay 5>Is that so? Oh well,

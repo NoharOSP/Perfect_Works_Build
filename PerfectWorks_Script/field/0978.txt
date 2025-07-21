@@ -16,19 +16,20 @@ Fei
 <TextBlock 5 w:16 h:2>
 Fei
 "Agh..."<Close><End of Block>
-<TextBlock 6 w:52 h:4>
+<TextBlock 6 w:54 h:4>
 Vanderkaum
 "You there...
-What're you doing ignoring
-me and messing around...?"<Close><End of Block>
-<TextBlock 7 w:46 h:2>
+What're you doing messing
+around and ignoring me...?"<Close><End of Block>
+<TextBlock 7 w:34 h:3>
 Vanderkaum
-"I'll kill all of you!"<Opcode 2 35><Close><End of Block>
-<TextBlock 8 w:52 h:4>
+"I'll kill every
+one of you!"<Opcode 2 60><Close><End of Block>
+<TextBlock 8 w:54 h:4>
 Vanderkaum
 "You there...
-What're you doing ignoring
-me and messing around...?"<Close><End of Block>
+What're you doing messing
+around and ignoring me...?"<Close><End of Block>
 <TextBlock 9 w:38 h:3>
 Maitreya
 "Wh-What was that?

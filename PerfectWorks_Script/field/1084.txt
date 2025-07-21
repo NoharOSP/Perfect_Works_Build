@@ -119,11 +119,11 @@ likely."<Close><End of Block>
 Citan
 "How did it go?<Delay 30>
 ...Oh!"<Close><End of Block>
-<TextBlock 32 w:48 h:4>
+<TextBlock 32 w:42 h:4>
 Citan
-"I wonder if he will
-forfeit the Battling
-because of that injury?"<Close><End of Block>
+"With that injury, 
+I wonder if he will
+be up to Battling?"<Close><End of Block>
 <TextBlock 33 w:24 h:4>
 Citan
 "Hmm.
@@ -138,10 +138,11 @@ monster."<Close><End of Block>
 <TextBlock 35 w:36 h:2>
 Rico
 "What's wrong...?"<Close><End of Block>
-<TextBlock 36 w:38 h:3>
+<TextBlock 36 w:36 h:4>
 Rico
-"Well, this is the
-murder spot."<Close><End of Block>
+"Well, seems like
+this is the scene
+of a murder."<Close><End of Block>
 <TextBlock 37 w:32 h:3>
 Rico
 "Leonardo..."<Close><End of Block>
@@ -151,7 +152,7 @@ Rico
 What <Delay 30>a mess..."<Close><End of Block>
 <TextBlock 39 w:32 h:3>
 Rico
-"Looks like he
+"Looks like they
 bought it here."<Close><End of Block>
 <TextBlock 40 w:52 h:3>
 Rico
@@ -163,7 +164,7 @@ Rico
 that's for sure..."<Close><End of Block>
 <TextBlock 42 w:32 h:3>
 Rico
-"Looks like he
+"Looks like they
 bought it here."<Close><End of Block>
 <TextBlock 43 w:38 h:3>
 Rico

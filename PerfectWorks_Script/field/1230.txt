@@ -79,11 +79,12 @@ Bart the Immortal!<New>
 I'd like to say here, but
 just recently things got
 pretty hairy.<New>
-I got totally reamed by
-a red Gear monster."<Close><End of Block>
-<TextBlock 16 w:30 h:2>
+I got totally reamed
+by a crimson monster
+of a Gear."<Close><End of Block>
+<TextBlock 16 w:38 h:2>
 Fei
-"A red Gear..."<Close><End of Block>
+"A crimson Gear..."<Close><End of Block>
 <TextBlock 17 w:54 h:4>
 Bart
 "Yeah. He beat me and then

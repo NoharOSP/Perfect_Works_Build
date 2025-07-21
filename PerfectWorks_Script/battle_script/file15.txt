@@ -168,16 +168,16 @@ Breuer
 Did you see that!?"<Close><End of Block>
 <TextBlock 28 w:40 h:2>
 Rank
-"Those were Aerods!"<Close><End of Block>
+"Those were AERODs!"<Close><End of Block>
 <TextBlock 29 w:18 h:2>
 Franz
-"Aerods?"<Close><End of Block>
+"AERODs?"<Close><End of Block>
 <TextBlock 30 w:46 h:4>
 Helmholtz
-"Animum Ether Response
+"Active Ether-Response
 Offensive Drones...<New>
 Commonly known as
-Aerods...<New>
+AERODs...<New>
 Within Geburah, there
 are only a handful of
 people capable of

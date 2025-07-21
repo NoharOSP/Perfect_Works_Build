@@ -208,7 +208,7 @@ Can you not quiet down<Delay 5>...?"<Close><End of Block>
 <TextBlock 37 w:34 h:3>
 Rico
 "<Delay 5>...<Delay 5>Long time no
-see, huh, Kid?"<Close><End of Block>
+see, huh, kid?"<Close><End of Block>
 <TextBlock 38 w:48 h:4>
 Rico
 "For the sake of my men,
@@ -283,11 +283,11 @@ discussion first before
 you go to bed!"<Close><End of Block>
 <TextBlock 52 w:36 h:1>
 *RATTLE!<Delay 10> RATTLE!*<Opcode 2 30><Close><End of Block>
-<TextBlock 53 w:34 h:4>
+<TextBlock 53 w:38 h:4>
 Citan
-"Mmm<Delay 5>...<Delay 15>This is<Delay 5>...<Delay 20>
-harder than<Delay 5>...<Delay 20>
-I thought!"<Close><End of Block>
+"Hmm<Delay 5>...<Delay 15>
+This is<Delay 5>...<Delay 20>harder<Delay 5>...<Delay 20>
+than I thought!"<Close><End of Block>
 <TextBlock 54 w:62 h:1>
 *CLATTER! CLATTER!*<Delay 5> ...<Delay 5>*CLANG*!<Opcode 2 30><Close><End of Block>
 <TextBlock 55 w:36 h:3>
@@ -705,7 +705,7 @@ Lately I've been getting
 used to this kind of thing.<New>
 ...The last thing I remember
 is those guys talking about
-what 'rank' they think I am
+what 'rank' they think I'm
 worthy of."<Close><End of Block>
 <TextBlock 117 w:42 h:4>
 Doctor
@@ -871,8 +871,8 @@ Fei
 "Too bad he's not here,
 huh, Hammer?<New>
 Looks like you'll have to
-forget about those black
-market medical treatment
+forget about those black-
+market medical-treatment
 routes you were<-->"<Opcode 2 30><Close><End of Block>
 <TextBlock 146 w:4 h:1>
 !!<Opcode 2 15><Close><End of Block>
@@ -946,10 +946,11 @@ But<Delay 5>...<Delay 5>has something
 happened to Bart?"<Close><End of Block>
 <TextBlock 159 w:54 h:4>
 Citan
-"I am afraid so.
-He fought bravely against
-the enemy's new forces...<New>
-But it was in vain!
+"Yes, I am afraid so.<New>
+He fought bravely in the
+face of the enemy's new
+military might, but it was
+in vain.<New>
 The Yggdrasil was badly
 damaged and sank to the
 bottom of the sea of sand.<New>

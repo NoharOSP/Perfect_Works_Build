@@ -240,7 +240,7 @@ or so<Delay 5>...<Delay 5>they say.<Close><End of Block>
 <TextBlock 50 w:58 h:3>
 That's the song I wrote.<Delay 15>
 It's about the B-Info store.<New>
-We sell machine parts for
+They sell machine parts for
 Gears from ruins all over
 the world.<Close><End of Block>
 <TextBlock 51 w:36 h:1>
@@ -345,7 +345,7 @@ Hurry!"<Close><End of Block>
 <TextBlock 71 w:52 h:4>
 Guard
 "This way's the main town.
-D Block prisoners like
+D-Block prisoners like
 yourself can't pass."<Close><End of Block>
 <TextBlock 72 w:54 h:5>
 Guard
@@ -364,7 +364,7 @@ civilian section, okay!?"<Close><End of Block>
 <TextBlock 73 w:54 h:4>
 Guard
 "This way's the main town.
-D Block prisoners like<-->
+D-Block prisoners like<-->
 Huh? Aren't you<Delay 5>...?<New>
 <Delay 5>...<Delay 5>Excuse me!
 Please go on through."<Close><End of Block>
@@ -433,7 +433,7 @@ give it a try<Delay 5>...<Delay 5>..."<Close><End of Block>
 Guard
 "It's unbelievable!<New>
 The Imperial Committee
-is talking to a Rank D
+talking to a Rank D
 prisoner about entering
 the Battling.<New>
 What are they thinking?"<Close><End of Block>
@@ -716,9 +716,9 @@ Fei
 There's something written
 underneath."<Close><End of Block>
 <TextBlock 132 w:60 h:4>
-<Opcode 1 255>From now...
-I will be working out of the
-Battling Arena!<New>
+<Opcode 1 255>    - For my future... -
+I'll be working out of the
+Battling Arena for a while!<New>
 Prisoners needing to contact
 me, address letters or notes
 to: Hammer's Mailbox, D Block.
@@ -783,7 +783,7 @@ The former Champion may be
 <Opcode 1 255>- Mystery Sewer Homicides -
 This morning another
 mysterious homocide victim
-was found in the D Block
+was found in the D-Block
 sewers. It is thought the
 victim entered the sewers
 late at night and fought

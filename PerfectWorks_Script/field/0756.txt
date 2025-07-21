@@ -364,10 +364,11 @@ once-proud Fatima dynasty,<New>
 which was overthrown by
 one Prime Minister
 Shakhan..."<Close><End of Block>
-<TextBlock 80 w:24 h:3>
-Prince <Delay 10>
-Bartholomew <Delay 10>
-Fatima<Close><End of Block>
+<TextBlock 80 w:24 h:4>
+Maison
+"Prince<Delay 10>
+Bartholomew<Delay 10>
+Fatima."<Close><End of Block>
 <TextBlock 81 w:48 h:4>
 Citan
 "Bartholomew?<Delay 10>

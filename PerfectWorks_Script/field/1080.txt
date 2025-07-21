@@ -1,6 +1,6 @@
 <TextBlock 1 w:40 h:3>
 Fei
-"You...?<Delay 20>
+"And you are...?<Delay 20>
 How do you know me?"<Close><End of Block>
 <TextBlock 2 w:28 h:4>
 Fei
@@ -46,12 +46,12 @@ Sigmund
 "Why do you say that?"<Close><End of Block>
 <TextBlock 13 w:28 h:4>
 Sigmund
-"Pirates?
-You mean the
-young Prince?"<Close><End of Block>
-<TextBlock 14 w:22 h:2>
+"Pirate group?<Delay 10>
+That youngster
+again?"<Close><End of Block>
+<TextBlock 14 w:18 h:2>
 Sigmund
-"Uh huh..."<Close><End of Block>
+"Hmm..."<Close><End of Block>
 <TextBlock 15 w:28 h:2>
 Sigmund
 "Black boxes?"<Close><End of Block>
@@ -88,9 +88,10 @@ by doing anything now."<Close><End of Block>
 Sigmund
 "It seems 'they'
 have arrived..."<Close><End of Block>
-<TextBlock 22 w:28 h:2>
+<TextBlock 22 w:28 h:3>
 Sigmund
-"Who are you?"<Close><End of Block>
+"What can I do
+for you two?"<Close><End of Block>
 <TextBlock 23 w:34 h:3>
 Sigmund
 "!!<Delay 30> I see...
@@ -127,7 +128,7 @@ Associate
 Associate
 "We investigated the cause
 of the recent explosion at
-the southern Av border.<New>
+the southern border.<New>
 Our data showed a large
 amount of radiation was
 released at the epicenter.<New>

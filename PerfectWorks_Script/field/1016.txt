@@ -136,16 +136,16 @@ Noatun, would be the
 'Fortress of Steam and Steel'.<Close><End of Block>
 <TextBlock 29 w:40 h:2>
 That sounds<Delay 5>...<Delay 5>pretty
-impressive<Delay 15>...boss.<Close><End of Block>
+impressive<Delay 15>...Boss.<Close><End of Block>
 <TextBlock 30 w:48 h:4>
 I was surprised by the
 Av attack,<Delay 5> but I was
 lucky my comrade was
 from the mole tribe.<Close><End of Block>
 <TextBlock 31 w:34 h:1>
-Aw shucks<Delay 5>...<Delay 5>boss.<Close><End of Block>
+Aw shucks<Delay 5>...<Delay 5>Boss.<Close><End of Block>
 <TextBlock 32 w:30 h:2>
-Well, what ever
+Well, whatever
 happens<Delay 5>...<Close><End of Block>
 <TextBlock 33 w:50 h:4>
 Hmmm, judging by your
@@ -343,8 +343,8 @@ Wh-Whatever<Delay 5>...<Delay 5>I have
 to do? Right now, I don't
 think I could<Delay 5>...<Delay 5><Close><End of Block>
 <TextBlock 108 w:44 h:3>
-<Delay 5>...<Delay 5>Okay, I will.<Delay 15> We'll
-take it long,<Delay 10> slow<Delay 10> and
-imminently<Delay 10>...right?<Close><End of Block>
-<TextBlock 109 w:20 h:1>
-Yes<Delay 5>...<Delay 5>sir.<Close><Close><End of Block>
+<Delay 5>...<Delay 5>Understood.<Delay 15> We'll
+take it slowly,<Delay 10> fully<Delay 10>,
+bit-by-bit<Delay 10>...right?<Close><End of Block>
+<TextBlock 109 w:22 h:1>
+Yes<Delay 5>...<Delay 5>Boss.<Close><Close><End of Block>

@@ -8,7 +8,7 @@ You're...
 a child...?"<Close><End of Block>
 <TextBlock 3 w:28 h:4>
 Fei
-"522...!?<Delay 20>
+"513...!?<Delay 20>
 Is that really
 possible...?"<Close><End of Block>
 <TextBlock 4 w:54 h:4>
@@ -234,7 +234,7 @@ of Shevat, Zephyr."<Close><End of Block>
 Zephyr
 "This is what I look
 like, but I am actually
-522 years old."<Close><End of Block>
+513 years old."<Close><End of Block>
 <TextBlock 42 w:54 h:4>
 Zephyr
 "Yes...<New>

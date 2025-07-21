@@ -23,12 +23,13 @@ No...<Delay 5>it can't be<Delay 5>..."<Close><End of Block>
 Rico
 "That's<Delay 5>...<Delay 15>
 a Rankar!?"<Opcode 2 120><Close><End of Block>
-<TextBlock 6 w:50 h:4>
+<TextBlock 6 w:42 h:4>
 Rico
 "Crap! You gotta be
-kiddin' me!! I'm supposed
-to fight that thing...<New>
-without a Gear!?"<Opcode 2 120><Close><End of Block>
+kiddin' me!!<New>
+I'm supposed to fight
+that thing without a
+Gear!?"<Opcode 2 120><Close><End of Block>
 <TextBlock 7 w:44 h:4>
 Rico
 "Huh?<Delay 15>
@@ -38,22 +39,23 @@ A Gear in flight!?"<Opcode 2 90><Close><End of Block>
 Rico
 "A black Gear<Delay 10>...<Delay 5>
 Him<Delay 5>...!?"<Opcode 2 90><Close><End of Block>
-<TextBlock 9 w:32 h:2>
+<TextBlock 9 w:30 h:2>
 Fei
-"Yaaaaahhhrrr!!"<Opcode 2 90><Close><End of Block>
-<TextBlock 10 w:46 h:3>
+"Raaaaaagggh!!"<Opcode 2 90><Close><End of Block>
+<TextBlock 10 w:46 h:2>
 Rico
-"You! What're you doin'
-here?"<Close><End of Block>
+"You! Why're you here?"<Close><End of Block>
 <TextBlock 11 w:46 h:4>
 Fei
-"To get this back.<Delay 15> I
-didn't come to save
-you<Delay 5>...<Delay 5> The elevator I<New>
-used to escape happened
-to lead me out here. I
-didn't plan on saving
-you<Delay 5>...<Delay 5>but I did."<Close><End of Block>
+"To get this back.<Delay 15>
+It's not that I came
+here to save you...<New>
+The elevator I used to
+escape happened to come
+out at this very arena.
+And there you were.<New>
+So I saved you<Delay 5>...<Delay 5>
+That's all."<Close><End of Block>
 <TextBlock 12 w:38 h:4>
 Rico
 "Your story's a bit
@@ -65,16 +67,16 @@ Fei
 think of it<Delay 5>...<Delay 15><New>
 So, what're you gonna
 do now?"<Close><End of Block>
-<TextBlock 14 w:26 h:3>
+<TextBlock 14 w:20 h:2>
 Rico
-"...What am I
-gonna...?"<Close><End of Block>
+"...What?"<Close><End of Block>
 <TextBlock 15 w:50 h:4>
 Fei
-"I just barged into the
-arena.<Delay 15> So I'm also a fu-
-gitive from the Empire...<New>
-That's why I must escape.
+"Me and Doc just barged
+into the arena.<New>
+That makes us fugitives
+from the Empire too...
+So we're going to escape.<New>
 If you stick around,
 they'll probably make you
 fight that monster again.<New>

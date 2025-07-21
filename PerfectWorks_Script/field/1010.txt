@@ -36,13 +36,13 @@ going to last<Delay 5>...<Close><End of Block>
 During the assault on the
 Empire, it was said that
 the new imperial Gear was
-stolen from the D Block
-area Gear dock<Delay 5>...<New>
-According to the higher
-ups, I accidentally heard
-that it was the same Gear
-that was stolen by that
-commando unit.<Close><End of Block>
+stolen from the D-Block
+area's Gear dock<Delay 5>...<New>
+I happened to hear from
+the higher-ups that it
+was apparently the same
+Gear stolen earlier by an
+Av infiltration squad.<Close><End of Block>
 <TextBlock 6 w:52 h:4>
 Just a while ago I was
 pretty active in the

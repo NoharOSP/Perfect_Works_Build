@@ -81,8 +81,8 @@ The Av military!
 Not now...!"<Close><End of Block>
 <TextBlock 20 w:46 h:4>
 Citan
-"Fei, we should
-probably go quietly<Delay 15>...<Delay 15>
+"Fei, this is the part
+where we go quietly<Delay 15>...<Delay 15>
 <Delay 15>Huh<Delay 40>?"<Close><End of Block>
 <TextBlock 21 w:12 h:2>
 Citan

@@ -40,7 +40,7 @@ Big Joe
 "Hey,<Delay 5> what's up?<Delay 45> Huh? Me?<Delay 15>
 I'm always the cool and
 nice guy!!"<Close><End of Block>
-<TextBlock 7 w:42 h:4>
+<TextBlock 7 w:44 h:4>
 Big Joe
 "The wind, the clouds,
 the world... They are
@@ -52,7 +52,7 @@ Adieu."<Close><End of Block>
 <TextBlock 9 w:18 h:1>
 <Opcode 1 255>World Map<Close><End of Block>
 <TextBlock 10 w:54 h:2>
-<Opcode 1 255>Prisoner Detention Facility
+<Opcode 1 255>Prisoner-Detention Facility
 Imperial Capital D Block<Close><End of Block>
 <TextBlock 11 w:54 h:2>
 <Opcode 1 255>Imperial Capital C Block
@@ -60,18 +60,18 @@ Recreation & Battling Arena<Close><End of Block>
 <TextBlock 12 w:44 h:2>
 <Opcode 1 255>Central Area
 Kislev Admin. District<Close><End of Block>
-<TextBlock 13 w:36 h:2>
+<TextBlock 13 w:38 h:2>
 <Opcode 1 255>Imperial Capital
-A Block North Gate<Close><End of Block>
-<TextBlock 14 w:36 h:2>
+A Block, North Gate<Close><End of Block>
+<TextBlock 14 w:38 h:2>
 <Opcode 1 255>Imperial Capital
-A Block Front Gate<Close><End of Block>
-<TextBlock 15 w:34 h:2>
+A Block, Front Gate<Close><End of Block>
+<TextBlock 15 w:36 h:2>
 <Opcode 1 255>Imperial Capital 
-A Block West Gate<Close><End of Block>
-<TextBlock 16 w:34 h:2>
+A Block, West Gate<Close><End of Block>
+<TextBlock 16 w:36 h:2>
 <Opcode 1 255>Imperial Capital 
-A Block East Gate<Close><End of Block>
+A Block, East Gate<Close><End of Block>
 <TextBlock 17 w:56 h:10>
 Bluecrystal
 "Im<Delay 5>...<Delay 5> Imperial Inf<Delay 5>...<Delay 5>or<Delay 5>..."<Delay 30>

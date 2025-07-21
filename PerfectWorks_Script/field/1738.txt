@@ -36,7 +36,7 @@ Fei
 <TextBlock 9 w:36 h:3>
 Fei
 "Couldn't Doc also
-have checked<-->?"<Close><End of Block>
+have checked<-->"<Close><End of Block>
 <TextBlock 10 w:40 h:4>
 Fei
 "Just wait a minute.

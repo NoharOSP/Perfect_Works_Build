@@ -150,18 +150,18 @@ Citan
 "This place where all the
 drains meet... Do you
 know where it is?"<Close><End of Block>
-<TextBlock 42 w:46 h:3>
+<TextBlock 42 w:44 h:3>
 Citan
 "There is always slime
 near the murder scene.<New>
-What is more...
-it seems to be found at
-murder scenes only."<Close><End of Block>
-<TextBlock 43 w:54 h:4>
+And yet, it seems
+each scene is a
+one-time thing."<Close><End of Block>
+<TextBlock 43 w:52 h:4>
 Citan
-"Does this mean...<Delay 40>it will
-not appear in the same
-place again?"<Close><End of Block>
+"I wonder if this means...<Delay 40>
+it will not appear in the
+same place twice?"<Close><End of Block>
 <TextBlock 44 w:44 h:3>
 Citan
 "A bell...!?<Delay 30>
@@ -206,8 +206,8 @@ Citan
 "Yes.<New>
 Among them, there
 must be one drain by
-which the monster
-comes and goes."<Close><End of Block>
+which the monster is
+coming and going."<Close><End of Block>
 <TextBlock 54 w:28 h:3>
 Citan
 "This place is
@@ -223,12 +223,12 @@ this pipe, too."<Close><End of Block>
 <TextBlock 57 w:44 h:4>
 Rico
 "Everything should
-connect to the sewage
+connect to the sewage-
 treatment plant..."<Close><End of Block>
 <TextBlock 58 w:50 h:3>
 Rico
 "It should connect to the
-sewage treatment plant."<Close><End of Block>
+sewage-treatment plant."<Close><End of Block>
 <TextBlock 59 w:46 h:4>
 Rico
 "That's it! There must
@@ -259,15 +259,16 @@ Rico
 "...God dammit!<Delay 40>
 ...No good...<Delay 30> It won't
 open without the key."<Close><End of Block>
-<TextBlock 66 w:40 h:3>
+<TextBlock 66 w:38 h:3>
 Rico
-"Vargas should have
-had it.<New>
-He must have dropped
-it somewhere when he
-got killed...<New>
-Maybe even the rats
-got it..."<Close><End of Block>
+"Vargas should've
+had keys.<New>
+If he dropped them
+somewhere when
+he got killed...<New>
+...And they got
+picked up by a rat
+or somethin'..."<Close><End of Block>
 <TextBlock 67 w:48 h:2>
 Rico
 "Whaddya talkin' about?"<Close><End of Block>
@@ -301,7 +302,7 @@ Rico
 <TextBlock 75 w:48 h:4>
 Rico
 "This should be the door
-to the sewage treatment
+to the sewage-treatment
 plant."<Close><End of Block>
 <TextBlock 76 w:42 h:3>
 Rico
@@ -352,11 +353,11 @@ a long time."<Close><End of Block>
 Rico
 "All by yourself? In a
 spooky place like this?"<Close><End of Block>
-<TextBlock 87 w:44 h:4>
+<TextBlock 87 w:46 h:4>
 Gramps
 "As you can see, I'm a
-mutant. So the monster
-never bothers me."<Close><End of Block>
+mutant. So the monsters
+never bother me."<Close><End of Block>
 <TextBlock 88 w:52 h:4>
 Gramps
 "But lately, my new
@@ -365,12 +366,12 @@ around bustin' things up."<Close><End of Block>
 <TextBlock 89 w:46 h:3>
 Rico
 "What, really?
-We're looking for him."<Close><End of Block>
+We're looking for it."<Close><End of Block>
 <TextBlock 90 w:40 h:4>
 Gramps
 "Oh!
 Would you get rid of
-him for me?<New>
+it for me?<New>
 If you need to know
 anything, ask me.<New>
 I'll help you."<Close><End of Block>
@@ -442,8 +443,8 @@ find a broken one in
 there."<Close><End of Block>
 <TextBlock 104 w:42 h:3>
 Gramps
-"Ohh, so you'll lure it
-with this bell?"<Close><End of Block>
+"Ohh, so you'll lure
+it with this bell?"<Close><End of Block>
 <TextBlock 105 w:30 h:3>
 Fei
 "Where should
@@ -451,17 +452,18 @@ we ring it?"<Close><End of Block>
 <TextBlock 106 w:38 h:2>
 Gramps
 "Hmmmmm, well..."<Close><End of Block>
-<TextBlock 107 w:50 h:3>
+<TextBlock 107 w:44 h:3>
 Gramps
-"There is always slime
-near the drains it uses.<New>
-And he never returns to
-the same site twice."<Close><End of Block>
-<TextBlock 108 w:42 h:4>
+"The drains it uses
+all have slime on 'em.<New>
+Also, it doesn't go
+near any murder scene
+a second time."<Close><End of Block>
+<TextBlock 108 w:46 h:4>
 Fei
 "So we need a drain
-with slime nearby and
-no murder site."<Close><End of Block>
+with slime on it but
+no murder site nearby."<Close><End of Block>
 <TextBlock 109 w:46 h:5>
 Gramps
 "Right.
@@ -472,7 +474,7 @@ here."<Close><End of Block>
 Gramps
 "What? It was deserted?<New>
 Hmm, there's gotta be a
-way to lure him out."<Close><End of Block>
+way to lure it out."<Close><End of Block>
 <TextBlock 111 w:44 h:3>
 Gramps
 "Wasn't there anything

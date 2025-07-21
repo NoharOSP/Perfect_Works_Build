@@ -150,7 +150,7 @@ stay away."<Close><End of Block>
 <TextBlock 20 w:18 h:1>
 <Opcode 1 255>World Map<Close><End of Block>
 <TextBlock 21 w:54 h:2>
-<Opcode 1 255>Prisoner Detention Facility
+<Opcode 1 255>Prisoner-Detention Facility
 Imperial Capital D Block<Close><End of Block>
 <TextBlock 22 w:54 h:2>
 <Opcode 1 255>Imperial Capital C Block
@@ -158,12 +158,12 @@ Recreation & Battling Arena<Close><End of Block>
 <TextBlock 23 w:44 h:2>
 <Opcode 1 255>Central Area
 Kislev Admin. District<Close><End of Block>
-<TextBlock 24 w:36 h:2>
+<TextBlock 24 w:38 h:2>
 <Opcode 1 255>Imperial Capital
-A Block North Gate<Close><End of Block>
-<TextBlock 25 w:36 h:2>
+A Block, North Gate<Close><End of Block>
+<TextBlock 25 w:38 h:2>
 <Opcode 1 255>Imperial Capital
-A Block Front Gate<Close><End of Block>
-<TextBlock 26 w:34 h:2>
+A Block, Front Gate<Close><End of Block>
+<TextBlock 26 w:36 h:2>
 <Opcode 1 255>Imperial Capital 
-A Block West Gate<Close><End of Block>
+A Block, West Gate<Close><End of Block>

@@ -1,13 +1,13 @@
 <TextBlock 1 w:48 h:4>
 Falkon
-"Aim for the flagship
-heading west!<New>
+"Proceed west and aim
+for the flagship!<New>
 Don't even think about
-engaging the destroyer!
+engaging the destroyers!
 I'll break away shortly
 and come help out!"<Close><End of Block>
 <TextBlock 2 w:46 h:4>
 Falkon
 "Stand clear of the
-destroyer! I'm going
+destroyers! I'm going
 to use nuclear rounds!"<Close><Close><End of Block>

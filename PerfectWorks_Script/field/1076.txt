@@ -8,9 +8,11 @@ the real enemy."<Close><End of Block>
 Captain
 "When will we be able to
 use our real power...?"<Close><End of Block>
-<TextBlock 3 w:52 h:2>
-Why do you think we have a
-bridge here? Hah hah hah?<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Why do you think
+there's a bridge inside
+the Central District?<New>
+Heh heh heh...<Close><End of Block>
 <TextBlock 4 w:48 h:2>
 Many were injured in the
 last Kislev-Av war.<New>
@@ -22,31 +24,31 @@ still exists as strong
 as ever in Kislev...<New>
 But many ordinary citizens
 died trying to oppose the
-influence of the Church
-of the Ethos.<Close><End of Block>
+influence of the Church.<Close><End of Block>
 <TextBlock 6 w:44 h:2>
 A peace treaty has
 been signed with Av.<New>
 Let's hope it lasts...<Close><End of Block>
 <TextBlock 7 w:52 h:2>
 Kislev and Av almost had
-a truce once before. <New>
+a truce once before.<New>
 But the relationship 
 worsened due to Geburah.<Close><End of Block>
 <TextBlock 8 w:54 h:3>
-Ever hear of a red Gear?
-I hear it took out a 
-Geburah unit.<New>
+You hearing the rumours
+about the crimson Gear?<New>
+Apparently it took out an
+entire Geburah unit.<Delay 10>
 If only he'd be our savior.<Close><End of Block>
 <TextBlock 9 w:50 h:3>
 Lately, the Kaiser's been
-shutting himself out from
+shutting himself off from
 the world.<New>
 Imagine how happy he'd be
 if his family returned...<Close><End of Block>
 <TextBlock 10 w:54 h:3>
 The Church has been using
-a human rights movement to
+a human-rights movement to
 usurp political power.<New>
 In a recent parade, there
 was an attempt on the life
@@ -111,15 +113,22 @@ I got bad memories there.<New>
 Anyhow, they'd send me back
 if they found out I made it
 this high up.<Close><End of Block>
-<TextBlock 24 w:50 h:2>
-A Gear decimated an elite
-unit of Gears in Lahan.<Close><End of Block>
-<TextBlock 25 w:50 h:2>
-A Gear decimated an elite
-unit of Gears in Lahan.<Close><End of Block>
-<TextBlock 26 w:54 h:3>
-Actually, there was one
-survivor from Lahan.<New>
-But he seems to be going
-through a mental breakdown.
-What happened there...?<Close><Close><End of Block>
+<TextBlock 24 w:50 h:3>
+I heard that in Lahan
+an elite Gear unit fought
+against just one Gear...<New>
+and they all got
+annihilated.<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+I heard that in Lahan
+an elite Gear unit fought
+against just one Gear...<New>
+and they all got
+annihilated.<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Actually, there was just
+one survivor from the
+battle in Lahan.<New>
+But apparently he's lost
+his mind. What on earth
+happened there...?<Close><Close><End of Block>

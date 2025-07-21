@@ -18,11 +18,11 @@ Stop!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <TextBlock 7 w:72 h:13>
 No recollection at all, you say?<Delay 45>
          There are no records of
-         mental-enhancement drug
+         mental-enhancement-drug
          use before now.<Delay 45>
 No wonder it was sudden.<Delay 45>
-         She's probably a type that
-         can't handle Drive.<Delay 45>
+         She's probably the type
+         that can't handle Drive.<Delay 45>
 That probably caused her
 lapse into delirium.<Delay 45>
      And her loss of self-control?<Delay 45>

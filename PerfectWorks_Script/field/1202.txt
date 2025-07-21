@@ -73,7 +73,7 @@ Never heard of the
 <TextBlock 16 w:52 h:4>
 Hammer
 "So you're Bart, the
-'pirate', huh...<New>
+'pirate', huh...?<New>
 Hammer, the 'supplier',
 has great information for
 you...<Delay 10> Shakhan still

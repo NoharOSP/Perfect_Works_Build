@@ -433,14 +433,14 @@ Sigurd
 <TextBlock 69 w:34 h:3>
 Citan
 "By the way,
-she is still...?"<Close><End of Block>
+is she still<Delay 5>...?"<Close><End of Block>
 <TextBlock 70 w:52 h:4>
 Sigurd
 "According to Fei,
 there was a female aide
 at Carl's side...<New>
 And he said that she had
-indigo blue eyes and
+indigo-blue eyes and
 hair... 
 So it must be her..."<Close><End of Block>
 <TextBlock 71 w:52 h:4>

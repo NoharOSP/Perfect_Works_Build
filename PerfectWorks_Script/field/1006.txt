@@ -157,10 +157,10 @@ Fei
 but they wouldn't let the
 public in 'cause of the
 martial law."<Close><End of Block>
-<TextBlock 26 w:48 h:3>
+<TextBlock 26 w:40 h:3>
 Fei
-"<Delay 5>...<Delay 5>This door was to the
-toilet, right?<New>
+"<Delay 5>...<Delay 5>This was the
+door to the toilet.<New>
 <Delay 5>...<Delay 5>It's okay,<Delay 10> don't
 worry!"<Close><End of Block>
 <TextBlock 27 w:38 h:4>
@@ -190,7 +190,7 @@ Citan
 "I am just kidding."<Close><End of Block>
 <TextBlock 33 w:48 h:4>
 Hammer
-"Oh,<Delay 5> yes!<Delay 15>
+"Oh,<Delay 5> yeah!<Delay 15>
 I forgot to tell you
 about Master Rico, bro."<Close><End of Block>
 <TextBlock 34 w:36 h:2>
@@ -308,23 +308,23 @@ Fei
 <TextBlock 58 w:34 h:3>
 Hammer
 "The Empire's new
-super airship...
+super-airship...
 'Goliath'.<New>
 This is it, bro."<Close><End of Block>
-<TextBlock 59 w:40 h:4>
+<TextBlock 59 w:42 h:4>
 Citan
 "The Empire's new
-creation<Delay 5>...<Delay 5>the super
+creation<Delay 5>...<Delay 5>the super-
 airship Goliath?"<Close><End of Block>
 <TextBlock 60 w:36 h:3>
 Elly
-"<Delay 5>...<Delay 5>Super airship?<Delay 15>
+"<Delay 5>...<Delay 5>Super-airship?<Delay 15>
 Is it that big?"<Close><End of Block>
 <TextBlock 61 w:26 h:4>
 Hammer
 "Tch, it's
-beyond big!
-!?<Delay 5>...<Delay 5>"<Close><End of Block>
+beyond big!<Delay 10>
+...!?"<Close><End of Block>
 <TextBlock 62 w:30 h:2>
 Elly
 "...I'm Elly."<Close><End of Block>
@@ -365,7 +365,7 @@ Capital<Delay 5>..."<Close><End of Block>
 <TextBlock 69 w:42 h:2>
 Fei
 "Elly,<Delay 5> what's wrong?"<Close><End of Block>
-<TextBlock 70 w:56 h:4>
+<TextBlock 70 w:54 h:4>
 Elly
 "I know that facility.
 I've talked to you about
@@ -373,7 +373,7 @@ it before.<New>
 The Imperial facility I
 infiltrated<Delay 5>...<Delay 5> I never knew
 that something like that
-was in the basement<Delay 5>...<Delay 5>"<Close><End of Block>
+was underground there<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 71 w:44 h:3>
 Citan
 "<Delay 5>...<Delay 5>Elly,<Delay 15> do you think
@@ -464,7 +464,7 @@ D Block<Delay 5>...<Delay 5>"<Close><End of Block>
 !?<Opcode 2 15><Close><End of Block>
 <TextBlock 90 w:40 h:2>
 Hold on!! Why is the
-D Block doctor here?<Opcode 2 90><Close><End of Block>
+D-Block doctor here?<Opcode 2 90><Close><End of Block>
 <TextBlock 91 w:34 h:3>
 Citan
 "Huh? Uh, well<Delay 5>...<Delay 5>
@@ -474,12 +474,8 @@ that is<Delay 5>...<Delay 5>"<Close><End of Block>
 happen if someone gets
 injured now!? Who's going
 to look at the injury?<New>
-Don't you feel an
-obligation as a doctor
-to<Delay 5>...?<New>
-Doctor Uzuki, don't you
-have any sense of
-responsibility!?<Close><End of Block>
+Mr. Uzuki... Don't you
+have a duty as a doctor!?<Close><End of Block>
 <TextBlock 93 w:36 h:3>
 Citan
 "I-I am extremely
@@ -603,12 +599,14 @@ Arena!<Delay 15> What's the second?"<Close><End of Block>
 <TextBlock 114 w:54 h:4>
 Hammer
 "The second way is a little
-dangerous as it involves 
-the supply train tunnel.<New>
-You have to get into the
-tunnel's ducts and follow
-them right through till
-they lead to the docks.<New>
+dangerous as it involves
+the supply-train tunnel.<New>
+You sneak into the ducts
+that are inside the tunnel.
+Then, if you follow the
+ducts carefully...<New>
+you'll end up at the
+underground dock.<New>
 But I couldn't find out
 the ducts' layout<Delay 5>...<Delay 30>
 Sorry, bro."<Close><End of Block>

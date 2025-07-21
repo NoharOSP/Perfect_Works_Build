@@ -35,20 +35,20 @@ Rico
 "...<Delay 30>I've seen this..."<Close><End of Block>
 <TextBlock 9 w:44 h:2>
 Rico
-"...When was<Delay 30>...it...?"<Close><End of Block>
+"...When...<Delay 30>was it...?"<Close><End of Block>
 <TextBlock 10 w:34 h:3>
 Rico
 "Huh? What's this
 room...?"<Opcode 2 40><Close><End of Block>
 <TextBlock 11 w:50 h:2>
 Sigmund
-"What're you people...?<New>
-!? <Delay 40>How did you get
+"What're you people<--><New>
+!?<Delay 40> How did you get
 in here?<New>
 So, mutant...
-it was you..."<Close><End of Block>
+you were there..."<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Sigmund
 "Hmph.<Delay 40>
-If you have nothing more
-to say, then leave."<Close><Close><End of Block>
+If you have no business
+here, then leave."<Close><Close><End of Block>

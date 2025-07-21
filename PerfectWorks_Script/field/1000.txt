@@ -42,9 +42,9 @@ Fei
 "What's that sound?"<Close><End of Block>
 <TextBlock 10 w:36 h:4>
 Citan
-"The connector...!<Delay 10>
-Fei, hurry up
-and jump off!!"<Close><End of Block>
+"The coupler...!<Delay 10>
+Fei, quickly, let
+us jump across!!"<Close><End of Block>
 <TextBlock 11 w:56 h:4>
 Citan
 "This train is almost

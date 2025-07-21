@@ -1278,7 +1278,7 @@ at the same time."<Close><End of Block>
 <TextBlock 205 w:36 h:3>
 Sigurd
 "Come on, is there
-really such a<-->?"<Close><End of Block>
+really such a<-->"<Close><End of Block>
 <TextBlock 206 w:52 h:4>
 Citan
 "Oh but there is.<Delay 10>

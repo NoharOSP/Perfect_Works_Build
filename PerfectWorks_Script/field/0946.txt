@@ -52,15 +52,17 @@ Elly
 "Wait! What is the
 target of this mission?
 Surely you know?"<Close><End of Block>
-<TextBlock 11 w:52 h:3>
+<TextBlock 11 w:54 h:4>
 Dominia
-"That's restricted...<Delay 30>
-but I guess I can tell.<New>
+"I want to say that's
+highly classified
+strategic information...<New>
+but I guess I can tell you.<New>
 The power plant in the
 eastern sector of Kislev's
 Imperial Capital.<New>
 The target is a reactor
-left there by an ancient
+left behind by an ancient
 civilization."<Close><End of Block>
 <TextBlock 12 w:44 h:4>
 Elly

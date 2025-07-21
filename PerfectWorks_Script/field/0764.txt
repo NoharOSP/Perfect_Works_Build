@@ -81,7 +81,7 @@ Bart!
 What did you bring us?<Close><End of Block>
 <TextBlock 24 w:50 h:4>
 Bart
-"Well<Delay 5>...<Delay 10>I've got a new
+"Well<Delay 5>...<Delay 10>I've got a new-
 model Gear and two people
 that we helped out."<Close><End of Block>
 <TextBlock 25 w:48 h:4>
@@ -191,12 +191,14 @@ Fei
 reason to fight!<Delay 10>
 I don't want to fight.<New>
 I just want to live
-in peace and quiet.<Close><End of Block>
-<TextBlock 48 w:46 h:4>
-So why do you keep
-hounding me to get into
-a Gear!? Why don't you
-just leave me alone!?"<Close><End of Block>
+in peace and quiet."<Close><End of Block>
+<TextBlock 48 w:38 h:4>
+Fei
+"So why do you keep
+hounding me to get
+into a Gear!?<New>
+Why don't you just
+leave me alone!?"<Close><End of Block>
 <TextBlock 49 w:30 h:4>
 Bart
 "It's because I

@@ -1,6 +1,5 @@
-<TextBlock 1 w:38 h:2>
- 
- Received Minigear.<Close><End of Block>
+<TextBlock 1 w:36 h:1>
+Received Minigear.<Close><End of Block>
 <TextBlock 2 w:50 h:2>
 Security has so much free
 time. You're lucky.<Close><End of Block>
@@ -33,4 +32,4 @@ been doing over there?<Close><End of Block>
 <TextBlock 10 w:40 h:1>
 Oh...well, whatever.<Close><End of Block>
 <TextBlock 11 w:40 h:1>
-There is no one here.<Close><Close><End of Block>
+There's no one here.<Close><Close><End of Block>

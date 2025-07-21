@@ -89,14 +89,14 @@ Owww...<Delay 20>
 Hurts... It hurts...<Close><End of Block>
 <TextBlock 23 w:46 h:4>
 Citan
-"Dan...<Delay 20><New>
+"Dan...<New>
 There is nothing to be
-gained from putting all
-the blame on Fei alone.<New>
-Besides, you know Fei
-had no control over the
-malfunction of that
-Gear.<Close><End of Block>
+gained by putting the
+blame all on Fei alone.<New>
+Besides, there was
+nothing Fei could do
+about the Gear's system
+overload."<Close><End of Block>
 <TextBlock 24 w:44 h:4>
 Citan
 "It might be better if

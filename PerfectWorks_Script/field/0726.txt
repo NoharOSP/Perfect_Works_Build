@@ -26,42 +26,44 @@ Somebody free us!<New>
 Argghh!!"<Close><End of Block>
 <TextBlock 7 w:40 h:2>
 Citan
-"We are too late..."<Opcode 2 46><Close><End of Block>
+"Oh no, too late..."<Opcode 2 46><Close><End of Block>
 <TextBlock 8 w:54 h:4>
 Citan
-"There is a switch for the
-sand barrier door on the
-right hand side wall there!<New>
-But be careful...
-Once it is closed it cannot
-be opened again."<Opcode 2 150><Close><End of Block>
+"The switch for the sand
+barrier is on the right-
+hand side of the bulkhead!<New>
+But be careful <--> once it
+is closed it cannot be
+opened again!"<Opcode 2 150><Close><End of Block>
 <TextBlock 9 w:48 h:4>
 Citan
 "Fei! If you close the
-barrier door now we will
+bulkhead now we will
 be buried alive here!"<Opcode 2 90><Close><End of Block>
-<TextBlock 10 w:32 h:2>
+<TextBlock 10 w:32 h:3>
 Citan
-"Fei! Hurry up!"<Opcode 2 32><Close><End of Block>
+"Fei! Hurry!<Delay 10>
+At this rate..."<Opcode 2 46><Close><End of Block>
 <TextBlock 11 w:40 h:2>
 Citan
 "Oh no, too late..."<Opcode 2 46><Close><End of Block>
 <TextBlock 12 w:54 h:4>
 Citan
-"There is a switch for the
-sand barrier door on the
-right hand side wall there!<New>
-But be careful...
-Once it is closed it cannot
-be opened again."<Opcode 2 150><Close><End of Block>
+"The switch for the sand
+barrier is on the right-
+hand side of the bulkhead!<New>
+But be careful <--> once it
+is closed it cannot be
+opened again!"<Opcode 2 150><Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Citan
 "Fei! If you close the
-barrier door now we will
+bulkhead now we will
 be buried alive here!"<Opcode 2 90><Close><End of Block>
-<TextBlock 14 w:38 h:2>
+<TextBlock 14 w:32 h:3>
 Citan
-"Fei! Hurry up...!"<Opcode 2 32><Close><End of Block>
+"Fei! Hurry!<Delay 10>
+At this rate..."<Opcode 2 46><Close><End of Block>
 <TextBlock 15 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

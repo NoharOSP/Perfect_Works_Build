@@ -142,14 +142,14 @@ Citan
 "Understood.<Delay 10>
 I will be there shortly."<Close><End of Block>
 <TextBlock 30 w:44 h:3>
-Hey, you in the white
-with the suntan.<Delay 10>
+Hey, you with the wig
+and the suntan.<Delay 10>
 Is that you, Sigurd!?<Close><End of Block>
 <TextBlock 31 w:52 h:4>
 Sigurd
-"In the white with 
-the...? Such rudeness
-all of a sudden!<New>
+"With the wig and the<-->?<Delay 10>
+Such rudeness all of a
+sudden!<New>
 Who do you think you are?"<Close><End of Block>
 <TextBlock 32 w:46 h:3>
 Citan

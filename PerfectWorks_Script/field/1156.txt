@@ -2,11 +2,11 @@
 Vance
 "Bridge 3...
 it's ruined!!"<Close><End of Block>
-<TextBlock 2 w:46 h:4>
+<TextBlock 2 w:42 h:4>
 Vance
-"But then the damage
-control team can't
-move!!<New>
+"But then the
+damage-control team
+can't move!!<New>
 They won't be able to
 patch the hole!!"<Close><End of Block>
 <TextBlock 3 w:52 h:4>

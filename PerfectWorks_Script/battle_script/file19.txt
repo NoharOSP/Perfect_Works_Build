@@ -34,30 +34,27 @@ I'm here to avenge
 my sister's death!"<Close><End of Block>
 <TextBlock 8 w:44 h:4>
 Dan
-"Shut ya mouth! I will
+"Shut your mouth! I'll
 never forgive you...<Delay 20>
 You murderer!!"<Close><End of Block>
 <TextBlock 9 w:30 h:4>
 Dan
 "Damn you, Fei!
-Why don't you
+Why won't you
 fight back?<New>
-C'mon,
-I challenged
-you!"<Close><End of Block>
+It's a contest,
+Fei!"<Close><End of Block>
 <TextBlock 10 w:44 h:3>
 Dan
-"...Darn!<New>
-Taking you down so
-easily like this isn't
-going to satisfy<New>
-the souls of my sister
-or Timothy!<New>
+"...Dammit!<New>
+Sis and Timothy won't
+rest in peace if I put
+you down this easily!<New>
 Blast! I'll save this
 duel for later.<New>
 The next time I meet
-you, it's going to be
-your funeral, scum!<New>
+you, it's gonna be
+your funeral!<New>
 Until then,
 hang on to this!<New>
 Every time you look

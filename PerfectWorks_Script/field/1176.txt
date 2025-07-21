@@ -15,13 +15,14 @@ Sigurd
 No, I haven't seen him...<New>
 You don't need to worry
 about him. He'll be fine."<Close><End of Block>
-<TextBlock 4 w:54 h:4>
+<TextBlock 4 w:52 h:4>
 Sigurd
-"Well, Marguerite, now that
-we have saved you, may we
-ask you one thing...?<New>
-Why did you go up against
-the enemy by yourself?"<Close><End of Block>
+"Now, Marguerite,
+may we ask you something?<New>
+You're fortunate to have
+survived <--> why did you
+go behind enemy lines
+on your own?"<Close><End of Block>
 <TextBlock 5 w:52 h:4>
 Sigurd
 "Obviously a groundless
@@ -44,10 +45,11 @@ That was stupid!!"<Close><End of Block>
 <TextBlock 9 w:20 h:2>
 Bart
 "Margie!!"<Close><End of Block>
-<TextBlock 10 w:50 h:3>
+<TextBlock 10 w:44 h:4>
 Bart
-"Next time, let us know!!
-We'll go for you!"<Close><End of Block>
+"Next time, speak up!!
+Then we'll go get the
+job done!"<Close><End of Block>
 <TextBlock 11 w:42 h:4>
 Margie
 "Sorry...but...

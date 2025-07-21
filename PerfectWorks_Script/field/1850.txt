@@ -133,7 +133,7 @@ human heart..."<Close><End of Block>
 Fei
 "Elly...!
 Are you okay? <Delay 30>
-Why did you<-->?"<Close><End of Block>
+Why did you<-->"<Close><End of Block>
 <TextBlock 15 w:44 h:3>
 Elly
 "You think...I've done

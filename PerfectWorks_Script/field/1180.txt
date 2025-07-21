@@ -53,11 +53,11 @@ blown off-balance!<New>
 Jerico!
 Hand the helm
 over to me!"<Close><End of Block>
-<TextBlock 14 w:46 h:4>
+<TextBlock 14 w:36 h:4>
 Bart
-"Either way,<Delay 32> no need to
-let him go so fast...
-right...?"<Close><End of Block>
+"Either way,<Delay 32> can't
+just let 'em slip
+past, right...?"<Close><End of Block>
 <TextBlock 15 w:18 h:2>
 Bart
 "Gunner!"<Close><End of Block>
@@ -100,9 +100,10 @@ Pirate
 Whether it's a warship or
 not, it's carrying a new-
 model Gear!"<Close><End of Block>
-<TextBlock 22 w:34 h:2>
-Gunner!
-Let 'em have it!!<Close><End of Block>
+<TextBlock 22 w:36 h:3>
+Pirate
+"Gunner!
+Let 'em have it!!"<Close><End of Block>
 <TextBlock 23 w:24 h:2>
 Bart
 "What's up?"<Close><End of Block>
@@ -169,9 +170,9 @@ Bart
 to stop the engine!"<Close><End of Block>
 <TextBlock 37 w:50 h:4>
 Bart
-"Helm...<Delay 24> NOW! Steer
-to the opposite direction
-as far as you can!<New>
+"Helm...<Delay 24>NOW! Steer in the
+opposite direction with
+everything you've got!<New>
 Stop the engine!
 Crash alarm!!"<Close><End of Block>
 <TextBlock 38 w:34 h:2>

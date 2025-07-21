@@ -23,14 +23,14 @@ have reset it.<Close><End of Block>
 Damn, why isn't it
 moving?<Delay 30> How am I supposed
 to get the cargo out?<Close><End of Block>
-<TextBlock 8 w:46 h:4>
-If we move the crane
-up here, maybe we could
-use it as a step so we
-can get in further.<Close><End of Block>
+<TextBlock 8 w:42 h:4>
+If you move the crane
+over here, maybe it
+could be a foothold
+to get further in.<Close><End of Block>
 <TextBlock 9 w:48 h:4>
-The crane is out of
-order. Once it starts
+The crane is on the
+fritz. Once it starts
 moving, it won't stop
 until it hits something.<New>
 The panel next to me

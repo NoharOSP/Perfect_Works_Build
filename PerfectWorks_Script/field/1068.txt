@@ -35,13 +35,13 @@ room.<New>
 No one's been allowed in
 since she disappeared.<New>
 Please, leave.<Close><End of Block>
-<TextBlock 11 w:40 h:1>
-What!? Is that true?<Close><End of Block>
+<TextBlock 11 w:28 h:1>
+What!? Really?<Close><End of Block>
 <TextBlock 12 w:48 h:3>
-...Yeah.<New>
+...Yeah<New>
 This door won't open for
 anyone except the Kaiser
-and his wife.<Close><End of Block>
+or his wife anyway.<Close><End of Block>
 <TextBlock 13 w:54 h:4>
 Ridiculous!
 It shouldn't open unless it
@@ -92,14 +92,16 @@ And not for the first time.<New>
 The Imperial Guard are
 looking into the matter
 now.<New>
-Well, I have some sudden
+Well, I have some urgent
 matters to attend to, so
 if you'll excuse me.<New>
-Please tour the district at
-your leisure. Oh, and about
-my proposition...<New>
-I'll be awaiting a positive
-response."<Close><End of Block>
+Please tour the interior
+of the Central District
+at your leisure.<New>
+Oh, and as for my
+earlier proposition...
+I'll be awaiting a
+favorable response."<Close><End of Block>
 <TextBlock 24 w:22 h:2>
 Sigmund
 "Good day."<Close><End of Block>
@@ -123,4 +125,4 @@ Soldier
 District.<New>
 The Kaiser's room is up
 this elevator and up the
-west wing stairs."<Close><Close><End of Block>
+west-wing stairs."<Close><Close><End of Block>
