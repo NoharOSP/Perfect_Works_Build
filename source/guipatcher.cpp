@@ -423,11 +423,13 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				if (p_fmv) {
 					if (pathFound1) {
 						log_file << "Disc 1 FMV patch file found." << std::endl;
-						fmvName1 = "cd1_fmvs.xdelta";
+						fmvPatch1 = "cd1_fmvs.xdelta";
+						fmvName1 = "fmv1";
 					}
 					if (pathFound2) {
 						log_file << "Disc 2 FMV patch file found." << std::endl;
-						fmvName2 = "cd2_fmvs.xdelta";
+						fmvPatch2 = "cd2_fmvs.xdelta";
+						fmvName2 = "fmv2";
 					}
 				}
 			}
@@ -1003,6 +1005,8 @@ void initialisePatchLists() {
 	patchList2.emplace_back(voiceName2);
 	patchList1.emplace_back(flashesName1);
 	patchList2.emplace_back(flashesName2);
+	patchList1.emplace_back(fmvPatch1);
+	patchList2.emplace_back(fmvPatch2);
 }
 
 // Lock checkboxes until a bin file has been found
@@ -1090,6 +1094,8 @@ void reinitialisePatches() {
 	flashesName2 = "";
 	storyModeName1 = "";
 	storyModeName2 = "";
+	fmvPatch1 = "";
+	fmvPatch2 = "";
 	log_file << "Clearing patch lists." << std::endl;
 	patchList1.clear();
 	patchList2.clear();
@@ -1304,7 +1310,7 @@ void drawGUIText() {
 	TextOut(hdc, winX * storyx, winY * 0.35, storytext, wcslen(storytext));
 	TextOut(hdc, winX * audiox, winY * 0.35, audiotext, wcslen(audiotext));
 	TextOut(hdc, winX * smx, winY * 0.35, modestext, wcslen(modestext));
-	
+
 }
 
 void drawGlobalText() {
@@ -1624,8 +1630,16 @@ bool applyPatch(int discNum) {
 			if (p_gold) {
 				log_file << "Applying gold changes." << std::endl;
 			}
-			for (const auto & entry : std::filesystem::directory_iterator(temp)) {
+			for (const auto& entry : std::filesystem::directory_iterator(temp)) {
 				monsterEdits(entry.path().string());
+			}
+		}
+		if (p_fmv) {
+			if (discNum == 1) {
+				std::filesystem::copy(fmvName1, temp, std::filesystem::copy_options::update_existing);
+			}
+			if (discNum == 2) {
+				std::filesystem::copy(fmvName2, temp, std::filesystem::copy_options::update_existing);
 			}
 		}
 		std::filesystem::current_path(home);
@@ -1635,10 +1649,10 @@ bool applyPatch(int discNum) {
 			std::filesystem::current_path(home);
 			std::string patchName;
 			if (discNum == 1) {
-				patchName = fmvName1;
+				patchName = fmvPatch1;
 			}
 			if (discNum == 2) {
-				patchName = fmvName2;
+				patchName = fmvPatch2;
 			}
 			log_file << "Creating batch file commands." << std::endl;
 			if (patched) {
@@ -1648,12 +1662,24 @@ bool applyPatch(int discNum) {
 				batch_file << "del \"" + fileName + "\" \n" << std::endl;
 				log_file << "Write command for xdelta to apply the FMV patches." << std::endl;
 				batch_file << "xdelta3-3.0.11-i686.exe -d  -s backup.bin patches\\" + patchName + " \"" + fileName + "\" \n" << std::endl;
+				if (discNum == 1) {
+					batch_file << "Insert_log_file.exe " + fileName + " xenocd1_softmod_files_extended.txt -new" << std::endl;
+				}
+				if (discNum == 2) {
+					batch_file << "Insert_log_file.exe " + fileName + " xenocd2_softmod_files_extended.txt -new" << std::endl;
+				}
 			}
 			else {
 				// Apply patches
 				log_file << "Write command for xdelta to apply the FMV patches." << std::endl;
 				changed = true;
 				batch_file << "xdelta3-3.0.11-i686.exe -d  -s \"" + oldPath + "\" patches\\" + patchName + " \"" + fileName + "\" \n" << std::endl;
+				if (discNum == 1) {
+					batch_file << "Insert_log_file.exe " + fileName + " xenocd1_softmod_files_extended.txt -new" << std::endl;
+				}
+				if (discNum == 2) {
+					batch_file << "Insert_log_file.exe " + fileName + " xenocd2_softmod_files_extended.txt -new" << std::endl;
+				}
 				patched = true;
 			}
 		}
@@ -1664,6 +1690,7 @@ bool applyPatch(int discNum) {
 			batch_file << "del \"" + fileName + "\" \n" << std::endl;
 		}
 		log_file << "Write list file for xenoiso." << std::endl;
+		log_file << "Check if FMVs have ticked." << std::endl;
 		list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
 		if (patched != true) {
 			patched = true;
@@ -1673,7 +1700,7 @@ bool applyPatch(int discNum) {
 	batch_file.close();
 	// Execute patch file
 	if (p_fmv) {
-		log_file << "Executing batch file. Applying FMV patch." << std::endl;
+		log_file << "Executing batch file. Applying FMV patch and rewriting the file table." << std::endl;
 		int batch_exit_code = system("cmd.exe /c commands.cmd");
 	}
 	log_file << "Execute xenoiso." << std::endl;
@@ -1688,6 +1715,33 @@ bool applyPatch(int discNum) {
 	// Copy xenoiso log contents to pw_log
 	std::ifstream xenoisoLog("log.txt");
 	log_file << xenoisoLog.rdbuf() << "\n";
+	// Insert new SLUS
+	if (p_fmv) {
+		// Create batch file to make a new SLUS
+		std::ofstream batch_file2;
+		log_file << "Creating new SLUS file." << std::endl;
+		batch_file2.open("commands2.cmd", std::ios::trunc);
+		if (discNum == 1) {
+			if (p_fastold || p_fastnew) {
+				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\executable\\fast\\disc1\\SLUS_006.64" << std::endl;
+			}
+			else {
+				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\executable\\non_fast\\disc1\\SLUS_006.64" << std::endl;
+			}
+		}
+		if (discNum == 2) {
+			if (p_fastold || p_fastnew) {
+				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\executable\\fast\\disc2\\SLUS_006.69" << std::endl;
+			}
+			else {
+				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\executable\\non_fast\\disc2\\SLUS_006.69" << std::endl;
+			}
+		}
+		batch_file2.close();
+		int batch_exit_code = system("cmd.exe /c commands2.cmd");
+		log_file << "Remove new SLUS command file." << std::endl;
+		remove("commands2.cmd");
+	}
 	// Remove batch and backup bin
 	log_file << "Remove command file." << std::endl;
 	remove("commands.cmd");
@@ -1723,4 +1777,5 @@ bool applyPatch(int discNum) {
 		log_file << "xenoiso executed successfully. Returning completion message." << std::endl;
 		return true;
 	}
+
 }

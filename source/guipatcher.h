@@ -107,6 +107,8 @@ std::string storyModeName1 = "";
 std::string storyModeName2 = "";
 std::string goldName1 = "";
 std::string goldName2 = "";
+std::string fmvPatch1 = "";
+std::string fmvPatch2 = "";
 std::vector<HWND> globalWindList;
 std::vector<std::string> patchList1;
 std::vector<std::string> patchList2;
