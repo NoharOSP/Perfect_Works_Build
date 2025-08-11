@@ -14,10 +14,10 @@ Grahf
 "I grant unto thee the
 power of the glorious
 Mother of Destruction!"<Close><End of Block>
-<TextBlock 5 w:48 h:4>
+<TextBlock 5 w:46 h:4>
 Grahf
-"I am Grahf, the seeker
-of power. Dost thou
+"I am Grahf. The Seeker
+of Power.<Delay 10> Dost thou
 desire the power?"<Close><End of Block>
 <TextBlock 6 w:34 h:2>
 Grahf

@@ -145,13 +145,13 @@ Hammer
 "Huh?<Delay 32> Yeah...
 Yeah...exactly..."<Close><End of Block>
 <TextBlock 27 w:52 h:3>
-Jessie
+Jesse
 "I feel like this country
 wasn't always like this...<New>
 Well, maybe I was just too
 young..."<Close><End of Block>
 <TextBlock 28 w:50 h:4>
-Jessie
+Jesse
 "We silenced the alarms
 here and there when we
 destroyed the Gate,<New>

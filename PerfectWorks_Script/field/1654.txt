@@ -85,9 +85,9 @@ Fei
 "I wonder if Bart and
 the others were able
 to sneak in safely?"<Close><End of Block>
-<TextBlock 15 w:46 h:3>
+<TextBlock 15 w:44 h:3>
 Elly
-"Jessie's with them, so
+"Jesse's with them, so
 they should be fine."<Close><End of Block>
 <TextBlock 16 w:28 h:2>
 Fei

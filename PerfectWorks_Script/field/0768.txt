@@ -1,5 +1,5 @@
 <TextBlock 1 w:52 h:4>
-Maison
+Mason
 "Both Av and Kislev are
 single-minded in
 excavating the ruins.<New>
@@ -15,14 +15,14 @@ We would certainly be
 suppressed by Shakhan's
 guards in no time at all."<Close><End of Block>
 <TextBlock 2 w:50 h:4>
-Maison
+Mason
 "We needed power.<New>
 We tried excavating the
 ruins using the Yggdrasil
 but it didn't work as
 well as we expected."<Close><End of Block>
 <TextBlock 3 w:50 h:4>
-Maison
+Mason
 "Excavating requires
 tremendous amounts of
 time, labor and capital.<New>

@@ -18,7 +18,7 @@ bad habit of yours.<Delay 10>
 A king should always keep
 calm and judge carefully!"<Close><End of Block>
 <TextBlock 4 w:58 h:1>
-(Maison says the same thing.)<Close><End of Block>
+(Mason says the same thing.)<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Bart
 "Yeah, I know, I know!<Delay 10>
@@ -229,7 +229,7 @@ It says 'hovering is all the
 rage right now'!<New>
 Until a while back, that took
 special equipment that only the
-young master had equipped on
+Young Master had equipped on
 his Gear!<Close><End of Block>
 <TextBlock 43 w:0 h:1>
 <Close><End of Block>

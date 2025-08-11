@@ -48,7 +48,7 @@ Billy
 "This's the best way
 to see Father off."<Close><End of Block>
 <TextBlock 12 w:32 h:3>
-Jessie
+Jesse
 "You're right...<Delay 10>
 Thanks, son."<Close><End of Block>
 <TextBlock 13 w:18 h:2>
@@ -63,7 +63,7 @@ Citan
 "Old friend!<Delay 10>
 Are you alright?"<Close><End of Block>
 <TextBlock 16 w:50 h:4>
-Jessie
+Jesse
 "You'd better believe it!<New>
 As if I'd leave that 
 busted-up, amateur-made 
@@ -72,7 +72,7 @@ state forever!<New>
 I<Delay 10> made a few
 improvements!"<Close><End of Block>
 <TextBlock 17 w:44 h:4>
-Jessie
+Jesse
 "Ouchy-wow-wow!!<Delay 10>
 Even so, I never wanna
 do that again..."<Close><End of Block>
@@ -93,7 +93,7 @@ Jesiah the unbeliever
 acknowledged life after
 death..."<Close><End of Block>
 <TextBlock 20 w:44 h:4>
-Jessie
+Jesse
 "Oh?<Delay 10>
 So you were listening?<New>
 Just a verbal curse.<Delay 10>
@@ -124,7 +124,7 @@ Huh, Prim?"<Close><End of Block>
 Primera
 "Pa...<Delay 5>pa...<Delay 5>"<Close><End of Block>
 <TextBlock 27 w:50 h:4>
-Jessie
+Jesse
 "Haha, did you hear that?<Delay 10>
 Primera's curse seems to
 have been lifted!"<Close><End of Block>

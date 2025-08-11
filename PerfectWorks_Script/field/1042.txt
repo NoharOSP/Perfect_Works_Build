@@ -186,7 +186,7 @@ to him<Delay 5>...?"<Close><End of Block>
 <TextBlock 36 w:56 h:5>
 Rue
 "After the Finals League,
-during the Group-League
+during the Group League
 bouts, his Gear went out
 of control.<New>
 The out-of-control Gear
@@ -207,11 +207,11 @@ so you can rest up a bit.<New>
 The explosive collar has
 been removed.<Delay 15>
 How about taking a walk
-around the A-Block
+around the A Block
 civilian area?"<Close><End of Block>
 <TextBlock 39 w:32 h:3>
 Fei
-"<Delay 5>...<Delay 5>A-Block
+"<Delay 5>...<Delay 5>A Block
 civilian area?"<Close><End of Block>
 <TextBlock 40 w:56 h:5>
 Rue

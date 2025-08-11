@@ -61,15 +61,15 @@ The day will come again.<Close><End of Block>
 Don't you think so?<Delay 15><Close><End of Block>
 <TextBlock 11 w:48 h:5>
 Oh, it's you guys?<Delay 20>
-Sorry, but although the
-Deep Sea Bros is open,
+Sorry, but although
+Deep-Sea Bros is open,
 we aren't doing any
 business for a while.<Close><End of Block>
 <TextBlock 12 w:50 h:5>
 Hello and welcome...<Delay 20>
-As you can see, the Deep
-Sea Bros is open...it's
-just that we aren't doing
+As you can see,
+Deep-Sea Bros is open...
+but we aren't doing
 any business right now.<Close><End of Block>
 <TextBlock 13 w:22 h:3>
 Insert 20G.<Delay 20>

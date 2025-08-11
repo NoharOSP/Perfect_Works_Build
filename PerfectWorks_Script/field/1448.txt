@@ -1,2 +1,2 @@
-<TextBlock 1 w:36 h:1>
-Aerial City Shevat<Opcode 2 180><Close><End of Block>
+<TextBlock 1 w:30 h:1>
+Sky-City Shevat<Opcode 2 180><Close><End of Block>

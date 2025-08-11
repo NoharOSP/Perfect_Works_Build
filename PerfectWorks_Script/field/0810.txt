@@ -68,7 +68,7 @@ Well, have fun.<Close><End of Block>
 <TextBlock 19 w:52 h:4>
 What, you don't know?
 It's only the biggest
-martial arts tournament
+martial-arts tournament
 in the world!<New>
 I came all the way to
 Breidablik just to see it.
@@ -131,7 +131,7 @@ Welcome to Breidablik!
 We're having a festival
 celebrating the founding
 of our country, Av.<New>
-There's a martial arts
+There's a martial-arts
 tournament too.<New>
 It's been a while since
 we have had so many
@@ -626,7 +626,7 @@ there. Actually, I got
 lost. Pretty embarrassing!<New>
 At first, I thought I could
 follow the current out, but
-the grill stopped me.<New>
+the grating stopped me.<New>
 So I swam against the
 current.<New>
 The speed of the current

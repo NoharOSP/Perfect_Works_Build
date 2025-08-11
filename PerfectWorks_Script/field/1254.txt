@@ -61,7 +61,7 @@ permitted.<New>
 The same applies even if
 you are an Element.<New>
 Further<Delay 5>...isn't your atti-
-tude toward the lieutenant
+tude toward the Lieutenant
 nothing more than 'your
 own personal prejudice'?<New>
 ...Or am I mistaken?"<Close><End of Block>
@@ -78,7 +78,7 @@ part or not remains to be
 seen.<New>
 To investigate the truth
 of this matter further, I
-am placing the lieutenant
+am placing the Lieutenant
 under my supervision.<New>
 Is that clear?"<Close><End of Block>
 <TextBlock 12 w:40 h:3>

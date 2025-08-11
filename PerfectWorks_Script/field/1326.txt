@@ -4,7 +4,7 @@ Fei
 That means<Delay 5>..."<Close><End of Block>
 <TextBlock 2 w:52 h:4>
 Fei
-"The captain and his crew
+"The Captain and his crew
 are in danger!<Delay 10> They don't
 know anything about this!"<Close><End of Block>
 <TextBlock 3 w:42 h:3>
@@ -31,7 +31,7 @@ Elly
 That means<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 Elly
-"The captain and the crew
+"The Captain and the crew
 are in danger!<Delay 10> They don't
 know about any of this!"<Close><End of Block>
 <TextBlock 10 w:42 h:3>
@@ -111,7 +111,7 @@ Bart
 That means...!?"<Close><End of Block>
 <TextBlock 26 w:52 h:4>
 Bart
-"The captain and his crew
+"The Captain and his crew
 are in danger!<Delay 10> They don't
 know anything about this!"<Close><End of Block>
 <TextBlock 27 w:48 h:3>
@@ -230,20 +230,20 @@ Maria
 "We must find some other
 way to get to the Gate..."<Close><End of Block>
 <TextBlock 53 w:40 h:4>
-Jessie
+Jesse
 "Looks like we
 just missed him.<Delay 30>
 Our pal Stein is..."<Close><End of Block>
 <TextBlock 54 w:22 h:2>
-Jessie
+Jesse
 "...there!"<Close><End of Block>
 <TextBlock 55 w:50 h:4>
-Jessie
+Jesse
 "The Solaris riot Gear,<Delay 10>
 Arc-en-Ciel.<Delay 10> That was it,
 right, Hyuga?"<Close><End of Block>
 <TextBlock 56 w:52 h:4>
-Jessie
+Jesse
 "The bigger the
 machine, the less
 maneuverable it is,<New>
@@ -259,15 +259,15 @@ BLAM! There'd be no
 contest.<New>
 Ain't that right, Hyuga?"<Close><End of Block>
 <TextBlock 57 w:26 h:3>
-Jessie
+Jesse
 "See what
 I'm sayin'?"<Close><End of Block>
 <TextBlock 58 w:38 h:3>
-Jessie
+Jesse
 "The Solaris riot
 Gear,<Delay 10> Arc-en-Ciel."<Close><End of Block>
 <TextBlock 59 w:54 h:4>
-Jessie
+Jesse
 "The bigger the
 machine, the less
 maneuverable it is,<New>

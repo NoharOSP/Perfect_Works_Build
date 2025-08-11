@@ -158,7 +158,7 @@ I won't give up."<Close><End of Block>
 <TextBlock 22 w:50 h:4>
 Sigurd
 "You volunteered to fight
-for the young master and
+for the Young Master and
 the rest of us.<New>
 So it's our turn to fight
 for you and Elly.
@@ -264,14 +264,14 @@ Sigurd
 "Yes, sir."<Close><End of Block>
 <TextBlock 41 w:52 h:4>
 Sigurd
-"The young master has
+"The Young Master has
 finally started to realize
 his position as a king."<Close><End of Block>
 <TextBlock 42 w:54 h:4>
 Sigurd
 "Sorry to have to ask, Fei,<Delay 10>
 but could you call the
-young master over for me?"<Close><End of Block>
+Young Master over for me?"<Close><End of Block>
 <TextBlock 43 w:50 h:4>
 Sigurd
 "Young Master...
@@ -657,10 +657,10 @@ in the ocean... It was
 covered in shells!<Close><End of Block>
 <TextBlock 103 w:54 h:4>
 I had a competition going
-on with the young master
+on with the Young Master
 the other day to see who
 could tip the boat further.<New>
-Old Maison literally was
+Old Mason was literally
 white as a sheet, saying
 all the teacups were
 destroyed...<Close><End of Block>
@@ -707,7 +707,7 @@ the water, once you know how!<Close><End of Block>
 <TextBlock 112 w:52 h:4>
 It's a lot harder to
 control the ship after the
-young master steered it.
+Young Master steered it.
 He is so reckless...<Close><End of Block>
 <TextBlock 113 w:60 h:3>
 A lot happened this time
@@ -868,7 +868,7 @@ the land, sea and air!!<Close><End of Block>
 A chart! 
 I need to go buy a chart!<Close><End of Block>
 <TextBlock 146 w:44 h:4>
-The captain here is a
+The Captain here is a
 good guy! He taught me
 a lot about the sea.
 But he's a mean drunk!<Close><End of Block>
@@ -978,7 +978,7 @@ You'll pay for
 that!!"<Opcode 2 60><Close><End of Block>
 <TextBlock 162 w:46 h:4>
 Sigurd
-"Fei, the young master
+"Fei, the Young Master
 hasn't come back yet.
 What's he up to?<New>
 Sorry to be a bother,
@@ -989,9 +989,9 @@ Fei
 "No problem!<New>
 He's probably wining
 and dining with the
-captain of the Tamuz!"<Close><End of Block>
+Captain of the Tamuz!"<Close><End of Block>
 <TextBlock 164 w:60 h:3>
-I've detected a rescue signal!<Delay 10>
+We're picking up an SOS!<Delay 10>
 It seems the Tamuz is being
 attacked by a swarm of Verus!<Close><End of Block>
 <TextBlock 165 w:48 h:4>
@@ -1015,7 +1015,7 @@ Citan
 Otherwise the Tamuz will
 be destroyed by Verus!"<Close><End of Block>
 <TextBlock 169 w:44 h:4>
-Jessie
+Jesse
 "Well, the Church is
 totally done for this
 time.<New>
@@ -1057,7 +1057,7 @@ out my feelings about
 getting pushed around
 by my dad."<Close><End of Block>
 <TextBlock 173 w:36 h:2>
-Jessie
+Jesse
 "What do you mean,
 'for now'?"<Close><End of Block>
 <TextBlock 174 w:48 h:4>
@@ -1100,12 +1100,12 @@ For what purpose have
 you been acting alone
 all this time?"<Close><End of Block>
 <TextBlock 179 w:52 h:4>
-Jessie
+Jesse
 "Tch...<Delay 10> Fine. I'm probably
 gonna need your help from
 here on, anyway..."<Close><End of Block>
 <TextBlock 180 w:52 h:4>
-Jessie
+Jesse
 "Okay, I'll tell you more.<New>
 But I ain't doin' it
 sober, so let's go to
@@ -1224,7 +1224,7 @@ headquarters."<Close><End of Block>
 <TextBlock 197 w:54 h:4>
 Citan
 "'Ahnenerbe'...<New>
-The inevitable man of God,
+The inevitable Man of God,
 who will walk together with
 the people born in this
 world, on to a new horizon.<New>
@@ -1252,7 +1252,7 @@ He is<Delay 5>...<Delay 5>Id."<Close><End of Block>
 Sigurd
 "What!?<Delay 10> Id!?"<Close><End of Block>
 <TextBlock 201 w:32 h:3>
-Jessie
+Jesse
 "What the hell
 are you sayin'?"<Close><End of Block>
 <TextBlock 202 w:52 h:4>
@@ -1264,7 +1264,7 @@ Also more commonly known
 as multiple personality
 disorder."<Close><End of Block>
 <TextBlock 203 w:36 h:2>
-Jessie
+Jesse
 "Dis...<Delay 5> Disso...?"<Close><End of Block>
 <TextBlock 204 w:50 h:3>
 Citan
@@ -1326,7 +1326,7 @@ invoking the manifestation
 of Id, who is<Delay 10> <--> loosely
 speaking <--><Delay 10> 'within' Fei."<Close><End of Block>
 <TextBlock 210 w:22 h:2>
-Jessie
+Jesse
 "What for?"<Close><End of Block>
 <TextBlock 211 w:50 h:4>
 Citan
@@ -1348,7 +1348,7 @@ to handle?"<Close><End of Block>
 Citan
 "Yes."<Close><End of Block>
 <TextBlock 214 w:54 h:4>
-Jessie
+Jesse
 "You said you kept this
 under wraps 'until you
 knew for certain'?<New>

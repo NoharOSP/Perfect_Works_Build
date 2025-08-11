@@ -22,7 +22,7 @@ anyway?"<Close><End of Block>
 Ramsus
 "Your boldness is laudable.
 But I have no name that I'd
-give to a rat like you."<Close><End of Block>
+reveal to a rat like you."<Close><End of Block>
 <TextBlock 6 w:16 h:2>
 Bart
 "What!?"<Close><End of Block>

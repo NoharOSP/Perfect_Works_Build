@@ -36,7 +36,7 @@ Sigurd
     Nothing<Close><End of Block>
 <TextBlock 7 w:46 h:4>
 Sigurd
-"Margie is Mother
+"Margie is Holy Mother
 Marguerite of Nisan.<New>
 But Shakhan of Av has
 locked her up and is
@@ -74,7 +74,7 @@ She is called the
 by her followers, the
 Qahal.<New>
 She was also Nisan's 
-first Mother."<Close><End of Block>
+first Holy Mother."<Close><End of Block>
 <TextBlock 11 w:38 h:2>
 Sending the latest
 information!<Close><End of Block>
@@ -88,8 +88,8 @@ in the dock area take
 refuge in the Yggdrasil!<Close><End of Block>
 <TextBlock 14 w:48 h:3>
 Twelve years ago, Sigurd
-fled Av with the young
-master.<New>
+fled Av with the Young
+Master.<New>
 We've been good friends
 ever since.<Close><End of Block>
 <TextBlock 15 w:38 h:2>

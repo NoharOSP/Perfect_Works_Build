@@ -9,7 +9,7 @@ Elly
 Elly
 "Where am I...?<New>
 I was with Fei, heading
-for the rear block...<Delay 20>
+for the tail section...<Delay 20>
 Fei...!
 Where are you, Fei?"<Close><End of Block>
 <TextBlock 4 w:32 h:1>
@@ -57,8 +57,8 @@ Fei
 "They're okay...<Delay 45> Doc,<Delay 30> Rico,<Delay 30>
 Hammer,<Delay 30> everyone...<Delay 45> They're
 all going to be okay."<Close><End of Block>
-<TextBlock 15 w:28 h:1>
-You little...!<Opcode 2 60><Close><End of Block>
+<TextBlock 15 w:26 h:1>
+You little<-->!<Opcode 2 60><Close><End of Block>
 <TextBlock 16 w:16 h:1>
 Hold it!<Opcode 2 60><Close><End of Block>
 <TextBlock 17 w:46 h:4>

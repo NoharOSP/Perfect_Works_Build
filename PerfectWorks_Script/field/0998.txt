@@ -345,7 +345,7 @@ Hurry!"<Close><End of Block>
 <TextBlock 71 w:52 h:4>
 Guard
 "This way's the main town.
-D-Block prisoners like
+D Block prisoners like
 yourself can't pass."<Close><End of Block>
 <TextBlock 72 w:54 h:5>
 Guard
@@ -364,7 +364,7 @@ civilian section, okay!?"<Close><End of Block>
 <TextBlock 73 w:54 h:4>
 Guard
 "This way's the main town.
-D-Block prisoners like<-->
+D Block prisoners like<-->
 Huh? Aren't you<Delay 5>...?<New>
 <Delay 5>...<Delay 5>Excuse me!
 Please go on through."<Close><End of Block>
@@ -534,7 +534,7 @@ impossible.<New>
 That's not too much to ask."<Close><End of Block>
 <TextBlock 96 w:56 h:5>
 Guard
-"Before,<Delay 5>the guy who was
+"The guy who was previously
 the guard captain left to be
 a Battler.<Delay 15> That's how I
 became captain<Delay 5>..."<Close><End of Block>
@@ -783,7 +783,7 @@ The former Champion may be
 <Opcode 1 255>- Mystery Sewer Homicides -
 This morning another
 mysterious homocide victim
-was found in the D-Block
+was found in the D Block
 sewers. It is thought the
 victim entered the sewers
 late at night and fought

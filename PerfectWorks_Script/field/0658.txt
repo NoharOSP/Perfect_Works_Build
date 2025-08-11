@@ -250,17 +250,21 @@ Citan
 Elly
 "No, nothing.
 Never mind..."<Close><End of Block>
-<TextBlock 41 w:54 h:4>
+<TextBlock 41 w:52 h:4>
 Citan
-"Hmm. I think I understand.
+"I see.
+I can understand
+that, somehow...<New>
 I am sorry. After just
-saying we should not pry...<New>
-It is my nature, you know?
-My wife says I am too
-persistent and that I talk
-too much.<New>
+saying we should not pry
+any further.<Delay 5> Ahh, it is
+my nature, I suppose.<New>
+I am often told by my wife
+that I am too persistent.
+'You talk too much', she
+will say.<New>
 But personally, I do not
-think it is that much..."<Close><End of Block>
+think it is that much."<Close><End of Block>
 <TextBlock 42 w:40 h:4>
 Citan
 "Anyway...<New>
@@ -281,9 +285,9 @@ Citan
 <TextBlock 45 w:16 h:2>
 Elly
 "Yes..."<Close><End of Block>
-<TextBlock 46 w:48 h:4>
+<TextBlock 46 w:42 h:4>
 Citan
-"I can understand why.
+"It is only natural.<Delay 10>
  'I, too, was
   like that once'."<Close><End of Block>
 <TextBlock 47 w:28 h:3>

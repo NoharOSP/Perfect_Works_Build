@@ -113,7 +113,7 @@ I...<Delay 10>will protect these
 people, so don't worry.<Close><End of Block>
 <TextBlock 26 w:38 h:2>
 Uh...<Delay 30>I'll play with
-the sister.<Delay 30><Close><End of Block>
+the Sister.<Delay 30><Close><End of Block>
 <TextBlock 27 w:34 h:3>
 I am Yggdrasil X!
 Come on! Catch me

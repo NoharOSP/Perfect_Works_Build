@@ -19,9 +19,9 @@ Fei
 "Alright, then...
 Set those three stones we
 found into here, and<Delay 10>..."<Close><End of Block>
-<TextBlock 3 w:52 h:2>
-The stepping stone has
-been brought back to life.<Close><End of Block>
+<TextBlock 3 w:50 h:2>
+The flying stone has been
+brought back to life.<Close><End of Block>
 <TextBlock 4 w:52 h:3>
 Oh, we rarely have
 visitors from the surface.<New>
@@ -51,15 +51,15 @@ your troubles and sadness.<New>
 But fate can be cruel
 sometimes...<Delay 20>
 Don't forget that.<Close><End of Block>
-<TextBlock 7 w:48 h:4>
+<TextBlock 7 w:54 h:4>
 Also, that stone plate
 floating there is called
-a 'stepping stone'.<Delay 20> It
-moves with people on it.<New>
+a 'flying stone'.<Delay 20> It'll
+move with people on it.<New>
 Try getting on it and
-talking to the stone.<Delay 20>
+interacting with the stone.<Delay 20>
 It'll be glad to give
-three of you a ride.<Close><End of Block>
+the three of you a ride.<Close><End of Block>
 <TextBlock 8 w:42 h:3>
 Do you want to go up?<Delay 10>
 <Opcode 1 255>    Yes

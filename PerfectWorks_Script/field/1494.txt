@@ -12,17 +12,17 @@ You have too many
 <TextBlock 4 w:38 h:2>
  
 Received <Opcode 4 20><Close><End of Block>
-<TextBlock 5 w:42 h:4>
+<TextBlock 5 w:44 h:4>
 Maria
 "This is a map of the
-lower level emergency
+lower-level emergency-
 shaft interior.<New>
 Please use it on the
 lower floor, a few
 levels below here."<Close><End of Block>
-<TextBlock 6 w:42 h:4>
+<TextBlock 6 w:44 h:4>
 This is a map of the
-lower level emergency
+lower-level emergency-
 shaft interior.<New>
 Please use it on the
 lower floor, a few

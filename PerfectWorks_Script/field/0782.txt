@@ -112,7 +112,7 @@ Sigurd
 to borrow a table.<New>
 The owner said 'if you
 need anything for the
-young master, just ask
+Young Master, just ask
 for it'."<Close><End of Block>
 <TextBlock 25 w:30 h:2>
 Bart
@@ -135,12 +135,12 @@ I put fireworks in it and
 let it float on the
 cathedral's lake. I always
 used to play navy."<Close><End of Block>
-<TextBlock 29 w:48 h:4>
+<TextBlock 29 w:44 h:4>
 Bart
 "I'm not sure, but I
 think I pretended the
-lake was the open sea...<New>
-...and I was the fleet
+lake was the open sea,<New>
+and I was the fleet
 commander."<Close><End of Block>
 <TextBlock 30 w:46 h:4>
 Bart
@@ -321,7 +321,7 @@ real military power.
 An excellent target for
 pirates."<Close><End of Block>
 <TextBlock 57 w:42 h:4>
-Maison
+Mason
 "Young Master!<Delay 30>
 This is not going to
 be an act of piracy!"<Close><End of Block>
@@ -344,7 +344,7 @@ Bart
 a musclehead? It'll
 be fun taunting him."<Close><End of Block>
 <TextBlock 62 w:30 h:2>
-Maison
+Mason
 "Young Master!"<Close><End of Block>
 <TextBlock 63 w:42 h:3>
 Bart
@@ -406,7 +406,7 @@ No one wants a
 needless loss of
 life!"<Close><End of Block>
 <TextBlock 75 w:28 h:3>
-Maison
+Mason
 "Well put,
 Young Master!"<Close><End of Block>
 <TextBlock 76 w:50 h:3>
@@ -463,7 +463,7 @@ They evacuated
 into a grave!?"<Close><End of Block>
 <TextBlock 86 w:44 h:4>
 Margie
-"The great mothers and
+"The holy mothers and
 kings of Av of old
 are honored there."<Close><End of Block>
 <TextBlock 87 w:46 h:4>
@@ -519,19 +519,19 @@ Bart
 "But it won't be a
 problem.<Delay 10> Because
 the Jasper is<-->"<Close><End of Block>
-<TextBlock 97 w:54 h:3>
+<TextBlock 97 w:58 h:3>
 Sister Agnes
-"They plan to use the
-former mother's retinas..."<Close><End of Block>
+"They plan to use the retinas
+of the last Holy Mother..."<Close><End of Block>
 <TextBlock 98 w:24 h:2>
 Bart
 "Wh-<Delay 30>What!?"<Close><End of Block>
 <TextBlock 99 w:40 h:4>
 Sister Agnes
 "By removing the
-deceased mother's
-retinas...<New>
-that's how they plan
+deceased Holy
+Mother's retinas...<New>
+That's how they plan
 to break the seal!"<Close><End of Block>
 <TextBlock 100 w:38 h:3>
 Bart

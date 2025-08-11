@@ -35,13 +35,13 @@ away!"<Close><End of Block>
 Bart
 "That punk's not goin'
 anywhere!"<Close><End of Block>
-<TextBlock 10 w:50 h:3>
-Citan
-"Young one, please wait!
-Is Margie alright?"<Close><End of Block>
-<TextBlock 11 w:32 h:2>
+<TextBlock 10 w:46 h:2>
+Young one, please wait!
+Is Margie alright?<Close><End of Block>
+<TextBlock 11 w:30 h:3>
 Bart
-"Uh... Oh yeah!"<Close><End of Block>
+"Citan?
+Ah... Oh yeah!"<Close><End of Block>
 <TextBlock 12 w:38 h:4>
 Bart
 "Hey, Margie...<Delay 30>you

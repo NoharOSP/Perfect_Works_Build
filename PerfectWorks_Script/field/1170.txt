@@ -273,7 +273,7 @@ Shevat for now!"<Close><End of Block>
 <TextBlock 46 w:36 h:3>
 Bart
 "Thanks for saving
-us, Old Maison!"<Close><End of Block>
+us, Old Mason!"<Close><End of Block>
 <TextBlock 47 w:40 h:4>
 Bart
 "I feel bad you had
@@ -283,19 +283,19 @@ I appreciate it.<New>
 you could operate
 such a thing."<Close><End of Block>
 <TextBlock 48 w:46 h:3>
-Maison
+Mason
 "Young Master, let's go
 back to the bridge."<Close><End of Block>
 <TextBlock 49 w:44 h:4>
-Maison
+Mason
 "Please,
 raise your head.<New>
 My duty is to protect
-the young master. I'm
+the Young Master. I'm
 sorry it took me so
 long to help you."<Close><End of Block>
 <TextBlock 50 w:44 h:4>
-Maison
+Mason
 "It's a trick I picked
 up long ago...
 It's nothing special.<New>
@@ -303,10 +303,10 @@ I'm no expert on it.
 I'm actually a bit
 embarrassed about it."<Close><End of Block>
 <TextBlock 51 w:54 h:2>
-Maison
-"The young master's cup..."<Opcode 2 64><Close><End of Block>
+Mason
+"The Young Master's cup..."<Opcode 2 64><Close><End of Block>
 <TextBlock 52 w:34 h:4>
-Maison
+Mason
 "Is something bad
 going to happen
 to him...?"<Close><End of Block>
@@ -330,10 +330,12 @@ He's lost some hair, too.<Close><End of Block>
 Young Master!
 Don't be discouraged
 by this!<Close><End of Block>
-<TextBlock 56 w:32 h:3>
-I was worried
-when Maison came
-in that thing.<Close><End of Block>
+<TextBlock 56 w:34 h:3>
+Man, when Mason
+arrived riding
+that thing,<New>
+I wondered what
+was gonna happen.<Close><End of Block>
 <TextBlock 57 w:46 h:4>
 By the way, I heard he
 was the personal knight

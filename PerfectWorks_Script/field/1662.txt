@@ -73,7 +73,7 @@ with government offices.<Delay 10>
 !%#?&+!<Close><End of Block>
 <TextBlock 23 w:42 h:4>
 So the destruction of
-the Gate was the
+the Gates was the
 Emperor's will.<Delay 10>
 I'm relieved.<Close><End of Block>
 <TextBlock 24 w:26 h:1>
@@ -82,10 +82,10 @@ Working hard?<Close><End of Block>
 The one behind you 
 is from Geburah?<Delay 10>
 I heard the Lambs destroyed
-the Gate...<New>
+the Gates...<New>
 Is everything okay?
     It's okay
-    It's questionable<Close><End of Block>
+    It's uncertain<Close><End of Block>
 <TextBlock 26 w:40 h:1>
 Whew, what a relief.<Close><End of Block>
 <TextBlock 27 w:36 h:3>

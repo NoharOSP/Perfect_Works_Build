@@ -71,8 +71,8 @@ me if this thing doesn't
 actually need fuel anymore!<Close><End of Block>
 <TextBlock 8 w:50 h:5>
 This is <Brigandier>,
-our boss, the young
-master's Gear.<New>
+our boss, the Young
+Master's Gear.<New>
 Height 17.0 sharls
 Base Weight 13.9 kahnns
 Full Weight 18.6 kahnns
@@ -84,8 +84,8 @@ the legs are especially
 worthy of attention...<New>
 Oh, and the eyepatch and
 feather decorations were
-added later at the young
-master's request.<Close><End of Block>
+added later at the Young
+Master's request.<Close><End of Block>
 <TextBlock 9 w:54 h:6>
 We didn't know what to do
 when Young Master said,<Delay 10>
@@ -95,15 +95,15 @@ put an eyepatch over it
 ability to reconnoiter...'!<Close><End of Block>
 <TextBlock 10 w:58 h:4>
 This is <Andvari>,
-the young master's Gear...<New>
+the Young Master's Gear...<New>
 Height 18.3 sharls
 Base Weight 15.2 kahnns
 Full Weight 19.1 kahnns
 when fully equipped.<New>
 This is an Omnigear that
 was left by Roni Fatima,
-the ancestor of our young
-master...<New>
+the ancestor of our Young
+Master...<New>
 They say this Omnigear was
 created by uniting that...
 'Vessel of Anima' or whatever
@@ -125,7 +125,7 @@ may not influence its real
 overall power that much.<Close><End of Block>
 <TextBlock 11 w:56 h:5>
 This is <Andvari>,
-the young master's Gear...<New>
+the Young Master's Gear...<New>
 Height 18.3 sharls
 Base Weight 15.2 kahnns
 Full Weight 19.1 kahnns
@@ -136,7 +136,7 @@ Balthasar and Melchior...<New>
 They made it using the data
 on the Omnigear left by Roni
 Fatima, an ancestor of the
-young master, and the data
+Young Master, and the data
 obtained from <Xenogears>.<New>
 It is a combination of the
 latest Gear technology and
@@ -147,8 +147,8 @@ Even when it was found
 hidden in the underground
 in Nisan, its basic weapon
 equipment was the whip.<New>
-That must mean, the young
-master's ancestors must've
+That must mean, the Young
+Master's ancestors must've
 used whips and rods too...
 I guess it's in the blood,
 huh!?<Close><End of Block>
@@ -161,7 +161,7 @@ Full Weight 18.1 kahnns
 when fully equipped.<New>
 The basic frame was
 excavated at the same time
-as the young master's Gear.<New>
+as the Young Master's Gear.<New>
 But its output was
 proportionately too powerful
 for the body, so it took a
@@ -212,9 +212,9 @@ Old Man
 cruiser 'Yggdrasil'.<New>
 We apologize for that
 earlier incident.<Delay 10>
-My name is Maison."<Close><End of Block>
+My name is Mason."<Close><End of Block>
 <TextBlock 18 w:46 h:4>
-Maison
+Mason
 "I'm sure everyone has
 introduced themselves
 already, but... <New>
@@ -223,7 +223,7 @@ formally introduce the
 sand pirates' leader,
 Master Bartholomew."<Close><End of Block>
 <TextBlock 19 w:52 h:4>
-Maison
+Mason
 "By the way, may I ask,
 Young Master, did you
 apologize to Master Fei?" <Close><End of Block>
@@ -267,7 +267,7 @@ more precise.<New>
 It must be fate that we
 met like this..."<Close><End of Block>
 <TextBlock 24 w:54 h:3>
-Maison
+Mason
 "Well then, please let me
 know if you need anything."<Close><End of Block>
 <TextBlock 25 w:54 h:4>
@@ -314,29 +314,52 @@ Citan
 "You are in no condition
 to participate...<Delay 10>
 Let us take care of this!"<Close><End of Block>
-<TextBlock 36 w:38 h:4>
+<TextBlock 36 w:46 h:4>
 Billy
-"Looks like it's
-time to settle
-the score...<New>
-Fei, please sit
-this one out.
+"It's good to meet you
+properly at last, Fei.<Delay 10>
+I'm Billy.<New>
+I helped arrange your
+treatment after the
+incident underwater,<New>
+and since then have
+joined forces with
+your friends.<New>
+I'm afraid we've met
+with some new problems
+along the way, and
+now...well...<New>
+It looks like it's time
+to settle the score.
+Fei, please sit this
+one out.<New>
 This may prove to
 be my final job..."<Close><End of Block>
-<TextBlock 37 w:38 h:4>
+<TextBlock 37 w:46 h:4>
 Billy
-"Looks like it's
-time to settle
-the score...<New>
-Fei, please sit
-this one out.
+"It's good to meet you
+properly at last, Fei.<Delay 10>
+I'm Billy.<New>
+I helped arrange your
+treatment after the
+incident underwater,<New>
+and since then have
+joined forces with
+your friends.<New>
+I'm afraid we've met
+with some new problems
+along the way, and
+now...well...<New>
+It looks like it's time
+to settle the score.
+Fei, please sit this
+one out.<New>
 This may prove to
 be my final job..."<Close><End of Block>
-<TextBlock 38 w:40 h:4>
+<TextBlock 38 w:42 h:3>
 Citan
-"Yes.<Delay 10>
-I shall take Fei
-to the infirmary.<New>
+"Okay,<Delay 10> I will take
+Fei to the infirmary.<New>
 Billy, I will leave
 the rest to you."<Close><End of Block>
 <TextBlock 39 w:36 h:3>
@@ -357,26 +380,24 @@ Fei
 "Yeah...<Delay 20>
 I guess I'm
 alright..."<Close><End of Block>
-<TextBlock 44 w:52 h:4>
+<TextBlock 44 w:42 h:3>
 Elly
-"I take my eyes off of you
-for a second and this is
-what you go and do...<New>
-What are you doing riding
-a Gear when you're only
-just recovering?"<Close><End of Block>
+"I take my eyes off
+you for a second...<New>
+What are you doing up
+and about when you're
+still in recovery?"<Close><End of Block>
 <TextBlock 45 w:44 h:4>
 Elly
 "What are you doing up
 and about when you're
 still in recovery?"<Close><End of Block>
-<TextBlock 46 w:48 h:4>
+<TextBlock 46 w:44 h:4>
 Billy
 "What are you doing up
-and about? I thought you
-were still in recovery?<New>
-You shouldn't be doing
-that!"<Close><End of Block>
+and about when you're
+still in recovery?<New>
+It's not a good idea."<Close><End of Block>
 <TextBlock 47 w:44 h:4>
 Bart
 "What are you moving

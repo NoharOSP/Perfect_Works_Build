@@ -8,14 +8,12 @@ Fei
 Elly, is that you!?"<Close><End of Block>
 <TextBlock 3 w:46 h:4>
 Fei
-"Elly!?<Delay 20>
-Your face<Delay 20>...!?<Delay 20>
-What's wrong?<New>
-Don't tell me you're
-using that personality-
-changing drug<New>
-that Bart told us
-about!?"<Close><End of Block>
+"Elly!?<Delay 20> You...<Delay 20>
+Your face...!?<Delay 20> D-Don't
+tell me Bart was right<New>
+about you using that
+drug that messes with
+your personality!?"<Close><End of Block>
 <TextBlock 4 w:30 h:4>
 Fei
 "Elly, stop it!
@@ -156,11 +154,10 @@ Elly
 "Agghh!"<Close><End of Block>
 <TextBlock 26 w:38 h:3>
 Elly
-"Sh-<Delay 10>Shut up!<New>
-I've no need for
-outward appearances
-of compassion...<New>
-I<Delay 20>...<Delay 20> Urgh...<Delay 20>
+"Sh-<Delay 10>Shut up!<Delay 10>
+I don't need your
+false sympathy<--><New>
+A-<Delay 5>Agh...<Delay 20>
 F<Delay 20>...<Delay 20>Fei...<Delay 20>"<Close><End of Block>
 <TextBlock 27 w:38 h:3>
 Breuer

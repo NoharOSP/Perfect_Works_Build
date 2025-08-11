@@ -1,6 +1,6 @@
 <TextBlock 1 w:48 h:6>
 .....<Delay 10>XafbEW<Delay 10>fadJZ<Delay 10>.....<Delay 10>
-...<Delay 30>Language Converter
+...<Delay 30>Language converter
        enabled<New>
 <]>Identified:
 <_>Lamb, Ignis dialect<Delay 30>
@@ -16,11 +16,10 @@
 <_>1200 fuel units left<New>
 <]>Use Command Ring in
 <_>upper left of screen
-<_>to select 'Attack'<New>
-<]>then
-<_><T>,<S> and <X> buttons to
-<_>commence auto-attack
-<_>sequence<New>
+<_>to select 'Attack',
+<_>then <T>, <S> or <X> button
+<_>to commence auto-
+<_>attack sequence<New>
 <]>Power and fuel usage
 <_>differs depending on
 <_>attack type:

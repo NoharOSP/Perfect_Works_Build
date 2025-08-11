@@ -464,7 +464,7 @@ D Block<Delay 5>...<Delay 5>"<Close><End of Block>
 !?<Opcode 2 15><Close><End of Block>
 <TextBlock 90 w:40 h:2>
 Hold on!! Why is the
-D-Block doctor here?<Opcode 2 90><Close><End of Block>
+D Block doctor here?<Opcode 2 90><Close><End of Block>
 <TextBlock 91 w:34 h:3>
 Citan
 "Huh? Uh, well<Delay 5>...<Delay 5>

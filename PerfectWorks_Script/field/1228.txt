@@ -85,7 +85,7 @@ us is nearby.<New>
 They call it the Tamuz,
 and it's about the size of
 a small city.
-Their captain can help us."<Close><End of Block>
+Their Captain can help us."<Close><End of Block>
 <TextBlock 17 w:30 h:3>
 Rico
 "That's<Delay 10>...<Delay 10>...<Delay 10>

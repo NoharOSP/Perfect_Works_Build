@@ -1,28 +1,28 @@
 <TextBlock 1 w:36 h:4>
-Maison
+Mason
 "Oh, Young Master.
 You have not
 retired yet?" <Close><End of Block>
-<TextBlock 2 w:42 h:4>
+<TextBlock 2 w:40 h:4>
 Bart
-"Old Maison, there is
+"Old Mason, there is
 one thing I want to
 ask you."<Close><End of Block>
 <TextBlock 3 w:26 h:2>
-Maison
+Mason
 "What is it?"<Close><End of Block>
 <TextBlock 4 w:48 h:2>
 Bart
 "Where was Sigurd born?"<Close><End of Block>
 <TextBlock 5 w:50 h:2>
-Maison
+Mason
 "Young Master, that is<-->"<Close><End of Block>
 <TextBlock 6 w:48 h:3>
 Bart
 "He has blue eyes...
 It's the Fatima Jasper."<Close><End of Block>
 <TextBlock 7 w:52 h:4>
-Maison
+Mason
 "...Well...<Delay 50> It was long
 ago. When His Majesty and
 I were still young...<New>
@@ -45,7 +45,7 @@ Bart
 "She disappeared?
 Did Father abandon her?"<Close><End of Block>
 <TextBlock 9 w:50 h:4>
-Maison
+Mason
 "As far as I know, it was
 the opposite. His Majesty
 was the one abandoned."<Close><End of Block>
@@ -54,7 +54,7 @@ Bart
 "Sig is from Av's
 eastern desert..."<Close><End of Block>
 <TextBlock 11 w:54 h:4>
-Maison
+Mason
 "Indeed. When he was 10, he
 was assigned to His Majesty
 King Edbart, as a squire."<Close><End of Block>
@@ -66,7 +66,7 @@ It's going to be so
 difficult to clean
 with this here.<Close><End of Block>
 <TextBlock 13 w:48 h:4>
-I thought Maison would
+I thought Mason would
 clean that up for me, 
 but instead, when he saw
 it, he got so excited.<New>

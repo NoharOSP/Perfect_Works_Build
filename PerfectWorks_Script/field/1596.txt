@@ -128,8 +128,8 @@ power of the glorious
 Mother of Destruction!"<Close><End of Block>
 <TextBlock 29 w:46 h:4>
 Grahf
-"I am Grahf, the seeker
-of power.<Delay 32> Dost thou
+"I am Grahf. The Seeker
+of Power.<Delay 10> Dost thou
 desire the power?"<Close><End of Block>
 <TextBlock 30 w:48 h:4>
 Grahf
@@ -163,36 +163,36 @@ also controlled this."<Close><End of Block>
 <TextBlock 35 w:20 h:2>
 Shakhan
 "Exactly."<Close><End of Block>
-<TextBlock 36 w:50 h:4>
+<TextBlock 36 w:52 h:4>
 Shakhan
 "To think you knew about
 the existence of the
-Gate... How interesting."<Close><End of Block>
-<TextBlock 37 w:54 h:4>
+Gates... How interesting."<Close><End of Block>
+<TextBlock 37 w:56 h:4>
 Shakhan
-"The Gate which separates
+"The Gates which separate
 Solaris from the surface
-was managed by the Church."<Close><End of Block>
+were managed by the Church."<Close><End of Block>
 <TextBlock 38 w:50 h:4>
 Shakhan
 "At first, we just
 supervised without really
-knowing what it did.<New>
+knowing what they did.<New>
 However, over the years,
 our Church did its own
 experiments to uncover
-its purpose."<Close><End of Block>
+their purpose."<Close><End of Block>
 <TextBlock 39 w:40 h:3>
 Shakhan
-"Methods for its use
-were developed.<New>
+"Methods for their
+use were developed.<New>
 As an aid to gaining
 our independence
 from Solaris."<Close><End of Block>
-<TextBlock 40 w:32 h:3>
+<TextBlock 40 w:34 h:3>
 Shakhan
 "Behold one such
-way to use it!"<Close><End of Block>
+way to use them!"<Close><End of Block>
 <TextBlock 41 w:34 h:4>
 Bart
 "You!<Delay 30>
@@ -220,7 +220,7 @@ So why!?"<Close><End of Block>
 <TextBlock 45 w:46 h:2>
 Shakhan
 "Why doesn't it move!?"<Close><End of Block>
-<TextBlock 46 w:48 h:3>
+<TextBlock 46 w:48 h:4>
 Bart
 "What, did you mess up?<New>
 Jeez, if my father knew

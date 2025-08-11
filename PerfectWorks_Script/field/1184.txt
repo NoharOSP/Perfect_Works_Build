@@ -79,7 +79,7 @@ This sucks!!<Close><End of Block>
 <TextBlock 17 w:50 h:3>
 You were on the Goliath?<Delay 10>
 Hey, I tried stopping the
-young master, ya know.<Close><End of Block>
+Young Master, ya know.<Close><End of Block>
 <TextBlock 18 w:48 h:3>
 Professor, we have a big
 job to do tomorrow! <New>
@@ -94,7 +94,7 @@ Marguerite's become
 stronger since the
 last time I saw her.<New>
 She is indeed the
-true Great Mother
+true Holy Mother
 of Nisan.<Close><End of Block>
 <TextBlock 21 w:32 h:1>
 Here I go again!<Close><End of Block>
@@ -183,7 +183,7 @@ what we're doing is
 right, but someday, I
 know peace will come!<Close><End of Block>
 <TextBlock 39 w:52 h:4>
-When the young master
+When the Young Master
 becomes a king,<Delay 10> I wonder
 if they'll forget about my
 bill at the bar in Av.<Close><End of Block>
@@ -230,7 +230,7 @@ I may not be so handsome,
 but I do have a fiancee
 back home...<New>
 but my hometown is Kislev.<New>
-When the young master becomes
+When the Young Master becomes
 the king of Av, I wonder
 if I'll be able to see her?<Close><End of Block>
 <TextBlock 49 w:50 h:4>

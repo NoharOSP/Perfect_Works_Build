@@ -168,7 +168,7 @@ time our mentor..."<Close><End of Block>
 <TextBlock 34 w:22 h:3>
 Sigurd
 "M-Mentor!?<Delay 10>
-Jessie!?"<Close><End of Block>
+Jesse!?"<Close><End of Block>
 <TextBlock 35 w:22 h:2>
 Billy
 "S-<Delay 5>Siggy!?"<Close><End of Block>
@@ -177,26 +177,27 @@ Bart
 "Did he just say<Delay 10>
 'Siggy'!?"<Close><End of Block>
 <TextBlock 37 w:48 h:4>
-Jessie
+Jesse
 "It's not every day you
 see a silver-haired man
 with amber skin, is all.<New>
 Well, well, you guys.
 It's become quite the
 reunion lately!"<Close><End of Block>
-<TextBlock 38 w:54 h:3>
+<TextBlock 38 w:46 h:3>
 Citan
-"Well, one thing leads
-to another, as they say..."<Close><End of Block>
-<TextBlock 39 w:54 h:3>
+"Well, these things
+happen, as they say..."<Close><End of Block>
+<TextBlock 39 w:46 h:3>
 Citan
-"Well, one thing leads
-to another, as they say..."<Close><End of Block>
-<TextBlock 40 w:42 h:2>
+"Well, these things
+happen, as they say..."<Close><End of Block>
+<TextBlock 40 w:32 h:3>
 Sigurd
-"A lot's happened..."<Close><End of Block>
+"And for various
+reasons..."<Close><End of Block>
 <TextBlock 41 w:48 h:4>
-Jessie
+Jesse
 "Well, you can let me
 hear the whole story
 over some drinks.<New>
@@ -233,7 +234,7 @@ bossy with Siggy?<New>
 Who do you think
 you are?"<Close><End of Block>
 <TextBlock 46 w:40 h:4>
-Jessie
+Jesse
 "Billy.<Delay 10> Don't pick a
 fight with Sigurd's
 people.<New>
@@ -241,14 +242,14 @@ It's bad form, boy."<Close><End of Block>
 <TextBlock 47 w:42 h:4>
 Sigurd
 "Young Master,<New>
-Jessie here was my
+Jesse here was my
 supervisor when I was
 an Elements candidate
 at Solaris Jugend.<New>
 I had even rented a
 room in his house."<Close><End of Block>
 <TextBlock 48 w:36 h:3>
-Jessie
+Jesse
 "Back then, Billy
 wasn't yet out of
 his diapers,<New>
@@ -266,7 +267,7 @@ Bart
 What're you turning
 on me for!?"<Close><End of Block>
 <TextBlock 51 w:46 h:4>
-Jessie
+Jesse
 "Well then<Delay 5>...<Delay 5>shall we
 go straight off and
 drink ourselves under?"<Close><End of Block>
@@ -276,7 +277,7 @@ Sigurd
 drink where,
 exactly...?"<Close><End of Block>
 <TextBlock 53 w:48 h:4>
-Jessie
+Jesse
 "What do you mean?<Delay 10>
 There has to be a bar or
 two on board your sub?"<Close><End of Block>
@@ -286,7 +287,7 @@ Sigurd
 slight headache,
 so..."<Close><End of Block>
 <TextBlock 55 w:42 h:3>
-Jessie
+Jesse
 "What?<Delay 10>
 That's okay.<New>
 We'll get rid of that
@@ -303,7 +304,7 @@ Sigurd
 "We can't just say no
 to him..."<Close><End of Block>
 <TextBlock 59 w:38 h:3>
-Jessie
+Jesse
 "What are you guys
 doin'? Let's go!"<Close><End of Block>
 <TextBlock 60 w:22 h:2>
@@ -349,7 +350,7 @@ Bart
 "Oh well, I'll
 join you."<Close><End of Block>
 <TextBlock 71 w:30 h:3>
-Jessie
+Jesse
 "...*HIC*...!!<Delay 10>
 I'm ba~ck.<New>
 Billy,
@@ -363,7 +364,7 @@ Be quiet when you come
 home, or you will wake
 the children."<Close><End of Block>
 <TextBlock 73 w:40 h:4>
-Jessie
+Jesse
 "If you'd come you'd
 have heard a ton of
 good stories.<New>
@@ -378,7 +379,7 @@ him have that much!?<Delay 10><New>
 To think you're the
 father of a churchman..."<Close><End of Block>
 <TextBlock 75 w:46 h:3>
-Jessie
+Jesse
 "Hey hey, you need to
 open your eyes.<New>
 This priest stuff, you
@@ -391,7 +392,7 @@ have a shred of faith.<Delay 10><New>
 Don't interfere with my
 way of life!"<Close><End of Block>
 <TextBlock 77 w:48 h:3>
-Jessie
+Jesse
 "Interfere?<New>
 You, greenhorn, have no
 idea how vulnerable you
@@ -402,7 +403,7 @@ Billy
 As if you would know
 anything about me."<Close><End of Block>
 <TextBlock 79 w:18 h:3>
-Jessie
+Jesse
 "!?<Delay 10>
 You...!!"<Close><End of Block>
 <TextBlock 80 w:44 h:3>
@@ -413,7 +414,7 @@ I cannot imagine you
 being the same person
 Mother loved!"<Close><End of Block>
 <TextBlock 81 w:42 h:3>
-Jessie
+Jesse
 "You mean...<Delay 20>you think
 I'm an imposter?"<Close><End of Block>
 <TextBlock 82 w:32 h:3>
@@ -423,7 +424,7 @@ honestly?"<Close><End of Block>
 <TextBlock 83 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 84 w:56 h:4>
-Jessie
+Jesse
 "Well there's certainly
 nothing I can do to prove
 who I am...<New>
@@ -436,7 +437,7 @@ Billy
 "Father, what are
 you saying...?"<Close><End of Block>
 <TextBlock 86 w:44 h:3>
-Jessie
+Jesse
 "I'm saying that,<Delay 10> as
 things stand,<Delay 20> Racquel
 died for nothing."<Close><End of Block>
@@ -446,7 +447,7 @@ Billy
 worthy of speaking
 Mother's name!"<Close><End of Block>
 <TextBlock 88 w:48 h:4>
-Jessie
+Jesse
 "...<Delay 10>
 I see. That's the way
 it is. Fine.<New>

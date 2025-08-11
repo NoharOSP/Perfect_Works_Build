@@ -1,9 +1,9 @@
 <TextBlock 1 w:50 h:4>
 Billy
-"('Big brother', is it!?<Delay 10>
+"('Big Brother', is it!?<Delay 10>
 I'll call for help with
 this.)"<Close><End of Block>
 <TextBlock 2 w:38 h:3>
 Mmrrgh<Delay 10>...<Delay 20>
 It's up to you now,<Delay 30>
-big brother...<Opcode 2 40><Close><End of Block>
+Big Brother...<Opcode 2 40><Close><End of Block>

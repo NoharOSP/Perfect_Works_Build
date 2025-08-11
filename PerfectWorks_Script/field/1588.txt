@@ -373,9 +373,8 @@ Bart
 "...<Delay 30>Sig!?
 D'you know how to
 operate this thing?"<Delay 30><Close><End of Block>
-<TextBlock 88 w:46 h:2>
-Sigurd
-"...What do you mean!?"<Close><End of Block>
+<TextBlock 88 w:42 h:1>
+...What do you mean!?<Close><End of Block>
 <TextBlock 89 w:46 h:3>
 Bart
 "There are no controls!

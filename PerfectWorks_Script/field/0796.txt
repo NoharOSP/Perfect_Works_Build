@@ -247,23 +247,23 @@ Citan
 Citan
 "This all reflects the
 teachings of Nisan."<Close><End of Block>
-<TextBlock 49 w:54 h:4>
+<TextBlock 49 w:44 h:4>
 Margie
 "Ha, ha, ha!
-Why, Doctor Citan Uzuki!
-You are an amusing fellow!"<Close><End of Block>
+Why, Citan, you're an
+interesting fellow!"<Close><End of Block>
 <TextBlock 50 w:50 h:3>
 Citan
 "Oh!
 Excuse me.<New>
-It is a habit of mine..."<Close><End of Block>
+My usual habit, there..."<Close><End of Block>
 <TextBlock 51 w:48 h:3>
 Fei
 "The doc knows a lot
 about a lot of things...<New>
-Sometimes I can't even
+Sometimes I don't
 understand what he's
-talking about..."<Close><End of Block>
+talking about, either."<Close><End of Block>
 <TextBlock 52 w:46 h:4>
 Bart
 "...Hah!

@@ -37,8 +37,8 @@ Did he just...!?"<Close><End of Block>
 <TextBlock 10 w:54 h:4>
 Maitreya
 "...Fei, gather the wounded
-up and return to the young
-master. Hurry!<New>
+up and return to the Young
+Master. Hurry!<New>
 My unit will stay behind
 and try to buy some time.<New>
 All operational Gears left
@@ -48,12 +48,12 @@ and retreat in sequence."<Close><End of Block>
 <TextBlock 11 w:50 h:3>
 Maitreya
 "Shut up and listen, boy!<New>
-You're the young master's
+You're the Young Master's
 guest. I can't let you
 die here."<Close><End of Block>
 <TextBlock 12 w:46 h:4>
 Maitreya
-"...The young master...<Delay 24>
+"...The Young Master...<Delay 24>
 What he really needs
 is your strength.<New>
 Please help him.<Delay 16>
@@ -70,7 +70,7 @@ General!
 General Maitreya!!<New>
 We have an R-code message!
 I'm not sure, but it looks
-like the young master is
+like the Young Master is
 in trouble!!<New>
 We don't have time
 for this junker!!<Close><End of Block>

@@ -5,7 +5,7 @@ something...?"<Close><End of Block>
 <TextBlock 2 w:34 h:3>
 Elly
 "Billy, who's
-'big brother'?"<Close><End of Block>
+'Big Brother'?"<Close><End of Block>
 <TextBlock 3 w:50 h:4>
 Elly
 "There's nothing there.
@@ -29,7 +29,7 @@ behind us...?"<Close><End of Block>
 <TextBlock 6 w:34 h:3>
 Citan
 "Billy...who is
-'big brother'?<Close><End of Block>
+'Big Brother'?<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Citan
 "I do not see anything.
@@ -52,7 +52,7 @@ Something..."<Close><End of Block>
 <TextBlock 10 w:40 h:3>
 Bart
 "Yo Billy, what's
-'big brother'?"<Close><End of Block>
+'Big Brother'?"<Close><End of Block>
 <TextBlock 11 w:52 h:4>
 Bart
 "Nothing there.
@@ -77,7 +77,7 @@ something..."<Close><End of Block>
 <TextBlock 14 w:36 h:3>
 Rico
 "Hey Billy, who's
-'big brother'?"<Close><End of Block>
+'Big Brother'?"<Close><End of Block>
 <TextBlock 15 w:48 h:4>
 Rico
 "Huh?

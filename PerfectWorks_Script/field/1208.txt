@@ -208,14 +208,14 @@ Margie
 Margie
 "I'm glad we've met up
 with such nice people.<New>
-Anyway, I'd better hurry
-and get back to my church!"<Close><End of Block>
+Anyway, we'd better hurry
+up and go to the Church!"<Close><End of Block>
 <TextBlock 43 w:48 h:4>
 Margie
 "Fei, go to Elly.
 You should be there for
 her in times like this."<Close><End of Block>
-<TextBlock 44 w:46 h:3>
+<TextBlock 44 w:52 h:3>
 <Chu-Chu>
 "Don't chu want <Chu-Chu>
 to go with you chu?"<Close><End of Block>
@@ -229,7 +229,7 @@ escaped Shakhan's grip by
 fleeing Nisan with Bart...<New>
 I wonder if the sisters
 are all right...<Delay 10>
-The young master will help
+The Young Master will help
 them too, won't he?"<Close><End of Block>
 <TextBlock 47 w:52 h:4>
 Margie
@@ -303,7 +303,7 @@ feel chu good!!"<Close><End of Block>
 <Chu-Chu>
 "It's fun chu see more
 and more people here!!"<Close><End of Block>
-<TextBlock 60 w:50 h:4>
+<TextBlock 60 w:52 h:4>
 <Chu-Chu>
 "<Chu-Chu> can't do muchu
 anything either, so I'll
@@ -365,7 +365,7 @@ Received Ether Veiler!<Close><End of Block>
 <Chu-Chu>
 "My eyes dry out when
 pretending chu be a
-stuffed animal. Ouchu!"<Close><End of Block>
+stuffed toy. Ouchu!"<Close><End of Block>
 <TextBlock 73 w:30 h:3>
 Oh my...<Delay 10>
 I just declared
@@ -420,42 +420,42 @@ She's holding a note...
 Read it?<Delay 10>
 <Opcode 1 255>    Read it
     No, better not!<Close><End of Block>
-<TextBlock 86 w:32 h:3>
-<Opcode 1 255>'PriMemo'
-Big brother,
-hang in there...<Close><End of Block>
+<TextBlock 86 w:28 h:3>
+<Opcode 1 255>-PriMemo-
+You can do it,
+Big Brother...<Close><End of Block>
 <TextBlock 87 w:54 h:4>
-<Opcode 1 255>'PriMemo'
-There are three types of
-guns that are standard
-equipment for you...<New>
- Handgun,
- Ether Gun,
- Big Gun.<New>
-The only gun that can be
-re-equipped is the Handgun.<New>
-You can power up guns by
-upgrading their respective
-'ammo' or 'bullets'.<New>
-Equipping ammo is done by
-pressing the left or right
-directional button at the
-equipment menu screen.<New>
-Doing this will switch the
-equipment window to a sub-
-window where you can change
-the type of ammo you use.<New>
-There is one thing you have
-to be careful of... There
-is a only a finite amount
-of each type of ammo!<New>
-Hence, it is important to
-keep an ample supply of
-ammo in reserve and reload
-as often as possible.<New>
-The only exception to this
-is the Ether Gun, which can
-be shot an unlimited number
-of times.<Close><End of Block>
+<Opcode 1 255>-PriMemo-
+There are three kinds in
+your basic loadout of guns.<New>
+The three are:
+'Handgun',
+'Ether Gun',
+and 'Big Gun'.<New>
+Only the Handgun can be
+swapped out for other
+guns of the same kind.<New>
+Power up a gun's attack
+force by loading more
+powerful ammo.<New>
+To load ammo, press the
+right or left directional
+button at the Equip menu
+screen.<New>
+This will display a sub-
+window in place of the
+main Equip window, where
+you can select the ammo.<New>
+One thing you have to be
+careful of is that the
+number of bullets for
+each gun is limited.<New>
+To successfully manage
+ammo, you must keep an
+ample supply and reload
+frequently.<New>
+But, having said that,
+note that Ether Guns do
+not have such a limit.<Close><End of Block>
 <TextBlock 88 w:0 h:1>
 <Close><End of Block>

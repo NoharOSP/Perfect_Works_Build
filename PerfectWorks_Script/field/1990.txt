@@ -7,7 +7,7 @@ composure!<Close><End of Block>
 <TextBlock 2 w:14 h:1>
 Yahoo!!<Opcode 2 30><Close><End of Block>
 <TextBlock 3 w:44 h:4>
-Oh, brother Billy!<Delay 10>
+Oh, Brother Billy!<Delay 10>
 We barely made it out
 with our lives.<New>
 We hadn't seen Primera

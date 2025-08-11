@@ -1,5 +1,5 @@
 <TextBlock 1 w:54 h:4>
-Maison
+Mason
 "...*sob*...*sob*...
 Oh to think that Marguerite
 has now returned...<New>
@@ -19,14 +19,14 @@ this ship along the way.<New>
 You know this used to be
 the kingdom's flagship?"<Close><End of Block>
 <TextBlock 3 w:54 h:4>
-Maison
+Mason
 "Yes, it was all Sigurd's
 doing.<Delay 10> So courageous of him
 even at such a young age.<New>
 Anyway, this Yggdrasil can
 be considered a keepsake
 of the late King for the
-young master."<Close><End of Block>
+Young Master."<Close><End of Block>
 <TextBlock 4 w:54 h:3>
 Bart
 "It kinda feels like you're
@@ -35,7 +35,7 @@ Even though you used to be
 my personal knight, right?
 Now I'm just a kid pirate!"<Close><End of Block>
 <TextBlock 5 w:48 h:3>
-Maison
+Mason
 "But eventually you will
 become a proud lord."<Close><End of Block>
 <TextBlock 6 w:42 h:4>
@@ -46,68 +46,68 @@ be proud of myself.<New>
 And I won't be able
 to win against him!"<Close><End of Block>
 <TextBlock 7 w:12 h:2>
-Maison
+Mason
 "..."<Close><End of Block>
 <TextBlock 8 w:42 h:3>
-Maison
+Mason
 "Oh, aren't you going
 to rest up a little?"<Close><End of Block>
 <TextBlock 9 w:46 h:3>
-Maison
+Mason
 "It appears the final
 hour is approaching...<New>
-If need be, this Maison
+If need be, this Mason
 will also take up arms
 and come to your aid!!"<Close><End of Block>
 <TextBlock 10 w:54 h:4>
-Maison
+Mason
 "We may not be able to come
 along, but will be praying
 for your safety."<Close><End of Block>
 <TextBlock 11 w:46 h:4>
-Maison
+Mason
 "...
 I have nothing to look
 back on with regret!"<Close><End of Block>
 <TextBlock 12 w:42 h:3>
-Maison
+Mason
 "My, hasn't it gotten
 lively around here!"<Close><End of Block>
 <TextBlock 13 w:44 h:2>
-Maison
+Mason
 "Do be careful now..."<Close><End of Block>
 <TextBlock 14 w:32 h:4>
-Maison
+Mason
 "Master Billy is
 waiting for you
 over there..."<Close><End of Block>
 <TextBlock 15 w:48 h:4>
-Maison
+Mason
 "A mature yet modern
 atmosphere... That is
 what I offer you...<New>
 A bartender's life isn't
 all that bad, you know!"<Close><End of Block>
 <TextBlock 16 w:44 h:4>
-Maison
+Mason
 "For such charity
 to be imparted to
 we godless folk...<New>
 My word, God is so
 very, very tolerant...<Close><End of Block>
 <TextBlock 17 w:52 h:3>
-Maison
+Mason
 "Miss Elly...
 and then Master Fei...<New>
 Why do we continue to have
 misfortunes like this?"<Close><End of Block>
 <TextBlock 18 w:36 h:4>
-Maison
+Mason
 "Miss Elly...<Delay 10>
 What kind of spell
 was used on her?"<Close><End of Block>
 <TextBlock 19 w:42 h:3>
-Maison
+Mason
 "Y-Young Master!<Delay 10>
 I heard all about it.<New>
 International amity
@@ -118,17 +118,17 @@ Indeed..."<Close><End of Block>
 This old man's efforts
 weren't all wasted!)<Close><End of Block>
 <TextBlock 21 w:52 h:4>
-Maison
+Mason
 "I have no idea where we
 are.<Delay 10> It's not on the map,
 either..."<Close><End of Block>
 <TextBlock 22 w:42 h:4>
-Maison
+Mason
 "Oh! Doctor Uzuki.<Delay 10>
 I'm sorry to put you
 out so much...<New>
 We should've stopped
-the young master...<Delay 10>
+the Young Master...<Delay 10>
 I am terribly sorry!"<Close><End of Block>
 <TextBlock 23 w:44 h:4>
 (Uh<Delay 5>...uh<Delay 5>...uh...<Delay 5>...<Delay 5>!<Delay 10>
@@ -136,12 +136,12 @@ My chronic lumbago has
 gotten worse since I
 went all out in Av...)<Close><End of Block>
 <TextBlock 24 w:54 h:4>
-Maison
+Mason
 "At long last we are
 heading to Breidablik
 tomorrow...<New>
 Though he is the Prince,
-our young master doesn't
+our Young Master doesn't
 know the Royal Capital
 very well<Delay 5>...<New>
 I'd always felt that was
@@ -159,7 +159,7 @@ future like his to handle.<New>
 terrible minder ever!"<Close><End of Block>
 <TextBlock 25 w:50 h:4>
 Citan
-"My dear Lord Maison...<Delay 10>
+"My dear Lord Mason...<Delay 10>
 I hardly think that
 is right!<New>
 The young one would have
@@ -175,21 +175,21 @@ the very ones who have
 given him the strength
 to do so."<Close><End of Block>
 <TextBlock 26 w:32 h:3>
-Maison
+Mason
 "Oh my good
 Doctor Uzuki..."<Close><End of Block>
 <TextBlock 27 w:52 h:3>
-Maison
+Mason
 "Let us head for Av.<Delay 10>
 To save Miss Marguerite!!"<Close><End of Block>
 <TextBlock 28 w:52 h:4>
-Maison
+Mason
 "I hope you are not
 too taken aback?<New>
 Lately, there are far too
 many barbaria<--><Delay 10> I mean...<Delay 5>
 highly energetic lads
-around the young master.<New>
+around the Young Master.<New>
 So, yours truly, who is in
 charge of his education,
 demanded to have this
@@ -214,27 +214,27 @@ How may I be of service?<Delay 20>
     Weapons/Accessories
     Nothing now, thanks<Close><End of Block>
 <TextBlock 33 w:40 h:3>
-Maison
+Mason
 "I hope I can be of
 such service again!"<Close><End of Block>
 <TextBlock 34 w:56 h:22>
-Maison
+Mason
 "<Opcode 1 2>Oh, Young Master...!
-If the young master doesn't
+If the Young Master doesn't
 come here more often to
 receive an education fit for
-a prince, then old Maison <-->
+a prince, then old Mason <-->
 who is in charge of his
 upbringing <--> will have
 disgraced the very memory of
 King Edbart IV...
 God bless him.
-Typical of the young master
+Typical of the Young Master
 not to even listen to me!
 The King was peace-loving,
 a very generous person...
 In contrast, not only does
-the young master put his
+the Young Master put his
 own name to a missile, but
 he goes and shoots an
 unknown airplane with it.
@@ -242,7 +242,7 @@ To make matters worse,
 his good friend Fei and
 company were on board..."<Close><End of Block>
 <TextBlock 35 w:54 h:4>
-Maison
+Mason
 "Anyway, one must apologize
 to Doctor Uzuki and his
 friend Master Rico, right!?<New>
@@ -270,7 +270,7 @@ happy to come along!!"<Close><End of Block>
 Citan
 "I see that the young one
 has hit it off with the
-captain of the Tamuz.<New>
+Captain of the Tamuz.<New>
 He is a man of the sea
 for him to look up to,<Delay 10>
 I suppose."<Close><End of Block>
@@ -283,7 +283,7 @@ Thanks for this, Jesiah,
 but I have a job I must
 do..."<Close><End of Block>
 <TextBlock 42 w:54 h:4>
-Jessie
+Jesse
 "Oh god, is it that time
 already?<Delay 10> Well then, before
 we go let's do the usual...<New>
@@ -299,7 +299,7 @@ in a hurry, so, uhhh...<New>
 We will talk about that
 some other time..."<Close><End of Block>
 <TextBlock 44 w:40 h:3>
-Jessie
+Jesse
 "Oh? Is that right?<New>
 Aw well, you guys.
 I oughta get outta
@@ -312,7 +312,7 @@ to ask you, so...<New>
 take it easy in
 the meantime...!"<Close><End of Block>
 <TextBlock 46 w:28 h:4>
-Jessie
+Jesse
 "Yup.<Delay 10>
 If I survive
 till then..."<Close><End of Block>
@@ -337,17 +337,17 @@ tomorrow..."<Close><End of Block>
 Sigurd
 "..."<Close><End of Block>
 <TextBlock 52 w:42 h:4>
-Jessie
+Jesse
 "The keywords are
 Nikola,<Delay 10> Maria, <Delay 10>and
 a giant Gear<Delay 10>...<Delay 5> Hmm!"<Close><End of Block>
 <TextBlock 53 w:52 h:4>
-Jessie
+Jesse
 "Just goes to show that
 our parents have got to be
 there for us. Ga, ha, ha!"<Close><End of Block>
 <TextBlock 54 w:52 h:4>
-Jessie
+Jesse
 "Ga, ha, ha!!
 I haven't hit the booze
 for a long while!<New>
@@ -356,12 +356,12 @@ doesn't let me drink! <Delay 10>
 This is a great bar you've
 got here...old codger!"<Close><End of Block>
 <TextBlock 55 w:26 h:4>
-Maison
+Mason
 "Why, uhhh...
 thank you,
 my good man."<Close><End of Block>
 <TextBlock 56 w:52 h:4>
-Jessie
+Jesse
 "This old codger, he's got
 character!!<Delay 10> I like that!!<Delay 10>
 Ga, ha, ha!"<Close><End of Block>
@@ -523,7 +523,7 @@ Fei
 "(When did Doc
 get back..?)"<Close><End of Block>
 <TextBlock 84 w:52 h:3>
-Jessie
+Jesse
 "I see.<Delay 10> This is the place
 you insisted on returning
 to, eh?"<Close><End of Block>
@@ -531,20 +531,20 @@ to, eh?"<Close><End of Block>
 Sigurd
 "Not quite...<New>
 Once I got back to
-Av, Mimil, Maison
+Av, Mimir, Mason
 and I went to save
-the young master.<New>
+the Young Master.<New>
 This ship just so
 happened to be
 docked in Breida-
 blik at the time."<Close><End of Block>
 <TextBlock 86 w:36 h:4>
-Jessie
-"Mimil...
+Jesse
+"Mimir...
 That's the guy who
 raised you, right?<New>
 I'd say your
-operation went
+plan worked out
 pretty well!<New>
 Anyway, after you
 left, that Billy
@@ -602,7 +602,7 @@ Let me give you an
 explanation since we're
 going to be working
 together."<Close><End of Block>
-<TextBlock 97 w:54 h:4>
+<TextBlock 97 w:52 h:4>
 Billy
 "First of all, regarding
 my basic loadout of guns,
@@ -610,16 +610,17 @@ there're three kinds:<New>
 'Handgun',<Delay 10>
 'Ether Gun',<Delay 10>
 and 'Big Gun'.<New>
-Only the Handgun can be
-swapped out for other guns
-of the same kind.<New>
+Of these, only the
+Handgun can be swapped
+out for other guns of
+the same kind.<New>
 I made the other two kinds
 of guns myself, so there
 are no alternatives for
 them.<New>
-You can power up a gun's
-attack force by loading
-more powerful 'ammo'!<New>
+Power up a gun's attack
+force by loading more
+powerful ammo.<New>
 To load ammo, press the
 right or left directional
 button at the Equip menu
@@ -627,18 +628,18 @@ screen.<New>
 This will display a sub-
 window in place of the
 main Equip window, where
-you can select your ammo.<New>
+you can select the ammo.<New>
 One thing you have to be
 careful of is that the
 number of bullets for
 each gun is limited.<New>
-To successfully manage your
+To successfully manage
 ammo, you must keep an
 ample supply and reload
-frequently!<New>
+frequently.<New>
 But, having said that,
 note that Ether Guns do
-not have such a limit.<Delay 20>
+not have such a limit.<New>
 Well, that's about it...<New>
 Did you understand?"<Delay 20>
     <Opcode 1 255>Yes
@@ -809,7 +810,7 @@ one night..."<Close><End of Block>
 Elly
 "..."<Close><End of Block>
 <TextBlock 128 w:52 h:4>
-Jessie
+Jesse
 "When I was in Solaris,
 I learned of the existence
 of a top-secret plan<New>
@@ -823,7 +824,7 @@ to become guinea pigs.<New>
 Or I should say, to
 become Verus..."<Close><End of Block>
 <TextBlock 129 w:50 h:4>
-Jessie
+Jesse
 "Disgusted with Solaris'
 methods, I decided to
 investigate further.<New>
@@ -838,7 +839,7 @@ But that,<Delay 5> I'm afraid,<Delay 5> was
 the last information that
 I was able to obtain..."<Close><End of Block>
 <TextBlock 130 w:48 h:4>
-Jessie
+Jesse
 "Because of what I found
 out, I came down to the
 surface world...<New>
@@ -849,7 +850,7 @@ I've been looking for
 that Gear and the girl
 ever since."<Close><End of Block>
 <TextBlock 131 w:52 h:4>
-Jessie
+Jesse
 "And so,<Delay 10> I heard that the
 scientist's daughter and
 the Gear may be in Shevat.<New>
@@ -881,7 +882,7 @@ again at last."<Close><End of Block>
 Fei
 "I'm alright, too."<Close><End of Block>
 <TextBlock 136 w:52 h:4>
-Jessie
+Jesse
 "Maria, eh...?<Delay 10> Hmm...<Delay 10>
 If I remember right, her
 father's name was Nikola?"<Close><End of Block>
@@ -891,12 +892,12 @@ Shevat Agent
 But I have heard rumors
 about a girl and a Gear."<Close><End of Block>
 <TextBlock 138 w:38 h:4>
-Jessie
+Jesse
 "Hmm,<Delay 10> it's got to
 be them.<Delay 10> The huge
 Gear is in Shevat!"<Close><End of Block>
 <TextBlock 139 w:52 h:4>
-Jessie
+Jesse
 "So, then,<Delay 10> how can we get
 to this Shevat? Is there a
 way to contact the place?"<Close><End of Block>
@@ -930,7 +931,7 @@ consider the fact
 that the tower was
 sealed by the Church."<Close><End of Block>
 <TextBlock 145 w:42 h:3>
-Jessie
+Jesse
 "You're being
 pessimistic again..."<Close><End of Block>
 <TextBlock 146 w:32 h:3>
@@ -944,7 +945,7 @@ Bart
 "I guess we have no choice
 but try to go there.<New>
 At any rate, as long
-as the Gate exists we
+as the Gates exist we
 can't break free from
 Solaris' influence.<New>
 I mean, even if we get Av
@@ -957,7 +958,7 @@ Billy
 choice but to try
 to go there...<New>
 At any rate, as long
-as the Gate exists we
+as the Gates exist we
 can't break free from
 Solaris' influence..."<Close><End of Block>
 <TextBlock 150 w:44 h:3>

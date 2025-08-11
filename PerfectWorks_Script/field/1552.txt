@@ -118,9 +118,9 @@ all be done for."<Close><End of Block>
 The guardian god
 will look out for me.<New>
 <Chu-Chu> will go."<Close><End of Block>
-<TextBlock 26 w:36 h:2>
+<TextBlock 26 w:28 h:2>
 Maria
-"I-<Delay 10>It can't be..."<Close><End of Block>
+"Th-<Delay 10>That's..."<Close><End of Block>
 <TextBlock 27 w:30 h:2>
 Maria
 "Achtzehn...!?"<Close><End of Block>
@@ -374,35 +374,35 @@ Gaspar, so you should
 seek his knowledge
 before you leave."<Close><End of Block>
 <TextBlock 65 w:40 h:4>
-Jessie
+Jesse
 "Alright! Fine work!<Delay 20>
 So now it's just...
 this thing."<Close><End of Block>
 <TextBlock 66 w:38 h:3>
-Jessie
+Jesse
 "How you gonna play
 it, Achtzehn?"<Close><End of Block>
 <TextBlock 67 w:28 h:3>
-Jessie
+Jesse
 "Shevat's Gear
 forces...!!"<Close><End of Block>
 <TextBlock 68 w:38 h:4>
-Jessie
+Jesse
 "Stand down!<Delay 10>
 You're no match for
 this opponent!!"<Close><End of Block>
 <TextBlock 69 w:46 h:3>
-Jessie
+Jesse
 "Damn it...!<Delay 20>
 I'm gonna mess you up!"<Close><End of Block>
 <TextBlock 70 w:22 h:2>
-Jessie
+Jesse
 "Umph...!!"<Opcode 2 30><Close><End of Block>
 <TextBlock 71 w:42 h:2>
-Jessie
+Jesse
 "This is not good..."<Close><End of Block>
 <TextBlock 72 w:42 h:4>
-Jessie
+Jesse
 "The Gears' response
 circuits are
 acting strange<New>
@@ -411,21 +411,21 @@ psychic waves.<Delay 10>
 Don't worry, it's
 only temporary."<Close><End of Block>
 <TextBlock 73 w:52 h:3>
-Jessie
+Jesse
 "If <Seibzehn> is
 Achtzehn's brother Gear...<New>
 it wouldn't be crazy
 to think it has an
 anti-jamming shield..."<Close><End of Block>
 <TextBlock 74 w:38 h:4>
-Jessie
+Jesse
 "And y'know...<Delay 20>
 I don't wanna say
 it, but...<New>
 your father is no
 longer in there..."<Close><End of Block>
 <TextBlock 75 w:40 h:4>
-Jessie
+Jesse
 "I see...<Delay 20> Well, I
 guess that's it.<Delay 10>
 It's all over."<Close><End of Block>
@@ -508,12 +508,12 @@ They are very fast
 and maneuverable,
 but not particularly
 powerful on their own.<New>
-At Generator 3 there
+At Generator 3, there
 is a large Gear and
 two White Knights.<New>
 Be careful <--> the large
 Gear has a very powerful
-sonic boom attack.<New>
+sonic-boom attack.<New>
 At Generator 4, there
 is a large Gear and
 two White Knights.<New>
@@ -825,6 +825,10 @@ Citan
 "When you are ready,
 we will leave for
 the battle...<New>
+If you need to swap
+party members, you
+can do so back at
+the rest area.<New>
 Please hurry, now!<Delay 20>
 The enemy is almost
 there!"<Close><End of Block>

@@ -185,7 +185,7 @@ Bart
 I mean<Delay 10>...
 uhh..."<Close><End of Block>
 <TextBlock 34 w:40 h:3>
-Maison
+Mason
 "Young Master, don't
 overdo it, now..."<Close><End of Block>
 <TextBlock 35 w:24 h:1>
@@ -435,7 +435,7 @@ That's it!"<Close><End of Block>
 <TextBlock 73 w:46 h:3>
 Bart
 "If we visit the
-captain of the Tamuz,<New>
+Captain of the Tamuz,<New>
 I bet he'll have
 stuff like that
 just lying around!<New>
@@ -488,7 +488,7 @@ Margie
 "Nobody likes
 a meanie!"<Close><End of Block>
 <TextBlock 83 w:38 h:4>
-Maison
+Mason
 "I'm afraid I'm not
 well versed in the
 art of romance."<Close><End of Block>

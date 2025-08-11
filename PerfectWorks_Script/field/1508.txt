@@ -84,13 +84,13 @@ about the past.<Close><End of Block>
 day ever come when we
 can live peacefully
 on the surface?<Close><End of Block>
-<TextBlock 12 w:54 h:3>
-Welcome to Shevat.<Delay 20> We've
-already heard that you are
-our guests.<New>
-Please use this room as you
-please.<Delay 20> You are welcome to
-use the bed to rest.<Close><End of Block>
+<TextBlock 12 w:48 h:3>
+Welcome to Shevat.<Delay 20>
+We've already heard that
+you are our guests.<New>
+Please feel free to use
+this room.<Delay 20> Rest easy on
+the beds and recharge.<Close><End of Block>
 <TextBlock 13 w:50 h:3>
 When Maria leaves, this
 town's going to be just
@@ -150,14 +150,14 @@ does this have to last...?<Close><End of Block>
 <TextBlock 18 w:54 h:4>
 To protect Shevat from the
 outside, the ancient
-technology of the Gate is
-used.<New>
+technology of the Gate
+is used.<New>
 It's fundamentally the same
 thing as the stuff Solaris
 has planted on the surface.<New>
 Even with Solaris'
-technology, the Gate cannot
-be broken through.<New>
+technology, the Gate
+cannot be broken through.<New>
 But at times, I come to
 think about whether this
 Gate is only for protecting
@@ -168,8 +168,9 @@ To isolate us from the rest
 of the world.<New>
 If that was his intention,
 then Karellen is indeed
-dreadful... Does that man's
-resentment run that deep...<Close><End of Block>
+dreadful...<New>
+Does that man's resentment
+run that deep...?<Close><End of Block>
 <TextBlock 19 w:48 h:4>
 Karellen holds the true
 power in Solaris is what

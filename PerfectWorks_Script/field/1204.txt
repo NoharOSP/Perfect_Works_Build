@@ -9,8 +9,8 @@ to...!<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Oh yeaahh!
 We're going to give it all
-we've got for the young
-master!!<Close><End of Block>
+we've got for the Young
+Master!!<Close><End of Block>
 <TextBlock 4 w:10 h:1>
 Whoa!<Opcode 2 15><Close><End of Block>
 <TextBlock 5 w:54 h:4>
@@ -56,7 +56,7 @@ You are the ex-Battling
 Champ?<Delay 10> If I didn't have
 this wound even I...<Close><End of Block>
 <TextBlock 15 w:52 h:4>
-If the young master became
+If the Young Master became
 the king tomorrow<Delay 5>...<Delay 10>what
 would happen to us? I'm
 tired of being a soldier.<New>
@@ -141,16 +141,16 @@ You're an ex-Battling
 Champ, right?<New>
 So, you always have
 fresh wounds, don't
-you? Uh hmm...<Close><End of Block>
+you? Hehehe...<Close><End of Block>
 <TextBlock 33 w:46 h:4>
 Finally, tomorrow is
-the day for the<Delay 5> blood
-blowing,<Delay 5> um,<Delay 5> flesh
+the day for the<Delay 5> blood-
+blowing,<Delay 5> um,<Delay 5> flesh-
 falling<Delay 5>...<New>
 No,<Delay 5> I mean,<Delay 5> the blood-
 boiling,<Delay 5> flesh-dancing
 battle to recapture the
-capital,<Delay 5> right?<Close><End of Block>
+Capital,<Delay 5> right?<Close><End of Block>
 <TextBlock 34 w:50 h:4>
 Yeah!! I can finally get
 supplies in Nisan.<Delay 10> I made
@@ -158,7 +158,7 @@ so many mistakes that I
 ran out of needles...<Close><End of Block>
 <TextBlock 35 w:48 h:3>
 I hear you won at the
-martial arts tournament.<New>
+martial-arts tournament.<New>
 That's great!<Delay 10>
 By the way...<Delay 15>
 did you get hurt?<New>
@@ -211,10 +211,11 @@ Citan
 "We can use this machine
 for now, but it is just
 for temporary use."<Close><End of Block>
-<TextBlock 47 w:34 h:3>
+<TextBlock 47 w:34 h:4>
 Citan
-"She was able to
-get up just now."<Close><End of Block>
+"At last, she was
+able to get up
+just now."<Close><End of Block>
 <TextBlock 48 w:42 h:4>
 Elly
 "I'm a little worried

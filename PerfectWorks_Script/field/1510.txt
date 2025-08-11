@@ -11,7 +11,7 @@ Citan
 In that event,
 please do."<Close><End of Block>
 <TextBlock 4 w:54 h:4>
-Jessie
+Jesse
 "Don't misunderstand.<Delay 20> I'm
 not saying I'll help y'all.<New>
 I don't know what you're
@@ -22,7 +22,7 @@ enemy, I won't hesitate
 to shoot you down.<Delay 20> Even
 from the back, you hear?"<Close><End of Block>
 <TextBlock 5 w:30 h:3>
-Jessie
+Jesse
 "Heh...<Delay 20>
 what a bore..."<Close><End of Block>
 <TextBlock 6 w:52 h:3>
@@ -47,6 +47,5 @@ in Shevat.<New>
 Now, the Queen
 is waiting.
 You can enter."<Close><End of Block>
-<TextBlock 10 w:30 h:2>
-Maria
-"Please go in."<Close><Close><End of Block>
+<TextBlock 10 w:26 h:1>
+Please go in.<Close><Close><End of Block>

@@ -26,12 +26,12 @@ with brainwashing..."<Close><End of Block>
 <TextBlock 7 w:30 h:3>
 Citan
 "Unify with
-the mother...?"<Close><End of Block>
+the Mother...?"<Close><End of Block>
 <TextBlock 8 w:40 h:3>
 Karellen
 "That girl<Delay 5>...<Delay 5>
 Elehayym, is our 
-'mother'."<Close><End of Block>
+'Mother'."<Close><End of Block>
 <TextBlock 9 w:36 h:4>
 Elly
 "Yes.
@@ -372,12 +372,12 @@ That's why they must be
 eradicated.<Delay 20> As for me, 
 I'm simply programmed to 
 act this way..."<Close><End of Block>
-<TextBlock 39 w:38 h:3>
+<TextBlock 39 w:36 h:3>
 Karellen
 "Come...<New>
 It is time for
 the awakening of
-the real 'mother'."<Close><End of Block>
+the real Mother."<Close><End of Block>
 <TextBlock 40 w:20 h:4>
 Fei
 "Please<Delay 5>...<Delay 5>
@@ -400,7 +400,7 @@ body consists of a
 nanomachine colony.<New>
 Not only for longevity
 <Delay 5>...<Delay 5>but also to unify
-with the 'mother'<Delay 5>...<New>
+with the Mother<Delay 5>...<New>
 So don't be surprised.
 This much damage can
 be recovered rather

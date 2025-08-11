@@ -6,12 +6,12 @@ interesting.<Close><End of Block>
 <TextBlock 3 w:44 h:3>
 But dropping a warship
 on me is cheating...
-Take it back!<Close><End of Block>
+Have it back!<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Bart
-"Don't overdo it, Sig...<Delay 31>
-Trying to make our ship
-'fly'...!?<New>
+"D-Don't overdo it,
+Sig...<Delay 31> Trying to make
+our ship 'fly'...!?<New>
 When we get back it'll
 take a month to get this
 heap of junk working 
@@ -25,9 +25,9 @@ monster, anyway?"<Close><End of Block>
 Bart
 "Sig!
 What's going on?"<Close><End of Block>
-<TextBlock 7 w:36 h:3>
+<TextBlock 7 w:34 h:3>
 Bart
-"Sig!! Maison...!!<Delay 32>
+"Sig!! Mason...!!<Delay 32>
 *gulp*..."<Opcode 2 24><Close><End of Block>
 <TextBlock 8 w:30 h:3>
 Sigurd

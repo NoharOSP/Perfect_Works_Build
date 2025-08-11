@@ -11,8 +11,8 @@ be piloted manually.<New>
 After canceling stealth
 mode, you will provide
 direct escort for the Hecht
-inside the enemy defense
-zone. Any questions?<Close><End of Block>
+inside the enemy's air-
+defense zone. Any questions?<Close><End of Block>
 <TextBlock 2 w:18 h:2>
 Elly
 "Well..."<Close><End of Block>

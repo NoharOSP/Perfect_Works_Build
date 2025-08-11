@@ -24,14 +24,14 @@ of will and change it
 to Ether..."<Close><End of Block>
 <TextBlock 5 w:50 h:3>
 Citan
-"Th-That is a Buntline...<New>
-It is an Ether gun Gear
+"Th-That is Buntline...<New>
+It is an Ether-gun Gear
 where the pilot rides
 directly in the warhead.<New>
 If we use that we can
 surely overcome Stone's
 negative hatred power!<New>
-...H-<Delay 10>However...<Close><End of Block>
+...H-<Delay 10>However..."<Close><End of Block>
 <TextBlock 6 w:42 h:3>
 Bart
 "N-No good! Can't get
@@ -63,7 +63,7 @@ You always were a
 narcissistic, self-
 serving fool!!<Close><End of Block>
 <TextBlock 13 w:40 h:4>
-Jessie
+Jesse
 "I got us covered!!<New>
 Use this, Billy!!
 With this you can
@@ -83,13 +83,12 @@ Grahf
 "I grant unto thee the
 power of the glorious
 Mother of Destruction!"<Close><End of Block>
-<TextBlock 17 w:46 h:3>
+<TextBlock 17 w:46 h:4>
 Grahf
-"I am Grahf, the seeker
-of power.<New>
-Dost thou desire the
-power?"<Close><End of Block>
-<TextBlock 18 w:48 h:4>
+"I am Grahf. The Seeker
+of Power.<Delay 10> Dost thou
+desire the power?"<Close><End of Block>
+<TextBlock 18 w:52 h:4>
 Grahf
 "In the end, a fake power.
 Do you really think you
@@ -199,11 +198,11 @@ of will and change it
 to Ether..."<Close><End of Block>
 <TextBlock 33 w:50 h:3>
 Citan
-"Th-That is a Buntline...<New>
+"Th-That is Buntline...<New>
 It is an Ether-gun Gear
 where the pilot rides
 directly in the warhead.<New>
 If we use that we can
 surely overcome Stone's
 negative hatred power!<New>
-...H-<Delay 10>However...<Close><Close><End of Block>
+...H-<Delay 10>However..."<Close><Close><End of Block>

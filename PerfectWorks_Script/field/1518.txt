@@ -108,12 +108,10 @@ Maria
 <TextBlock 15 w:32 h:2>
 Maria
 "<Seibzehn>!!"<Opcode 2 90><Close><End of Block>
-<TextBlock 16 w:34 h:4>
+<TextBlock 16 w:64 h:4>
 Nikola
-"What's with this
-astronomically
-unintellectual-<New>
-looking inferior
+"What's with this astronomically
+unintellectual-looking inferior
 lifeform...?"<Close><End of Block>
 <TextBlock 17 w:48 h:3>
 <Chu-Chu>

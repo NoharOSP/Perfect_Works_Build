@@ -597,12 +597,12 @@ a good idea!?"<Close><End of Block>
 Bart
 "Alright,<Delay 30> let's
 hurry up and get the
-treasure outside."<Close><End of Block>
-<TextBlock 132 w:46 h:2>
-Well done, Prince
-Bartholomew.<New>
-Thank you for unlocking
-the seal.<Close><End of Block>
+treasure out of here."<Close><End of Block>
+<TextBlock 132 w:40 h:2>
+Much appreciated,
+Prince Bartholomew.<New>
+Especially breaking
+the seal for me.<Close><End of Block>
 <TextBlock 133 w:28 h:3>
 Bart
 "That voice...<Delay 30>
@@ -633,8 +633,8 @@ Shakhan
 nature, I knew you would
 come...<New>
 But I never thought you'd
-go so far as to break the
-seal for me."<Close><End of Block>
+go as far as breaking
+the ruins' seal for me."<Close><End of Block>
 <TextBlock 139 w:48 h:3>
 Bart
 "Son of a<--><Delay 30>

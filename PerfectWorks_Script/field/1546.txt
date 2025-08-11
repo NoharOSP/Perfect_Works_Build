@@ -2,7 +2,7 @@
 Fei
 "...!?<Delay 20>
 Yui!?<New>
-Wh... Why are
+Wh<--><Delay 5> Why are
 you here...!?"<Close><End of Block>
 <TextBlock 2 w:20 h:2>
 Fei
@@ -41,14 +41,14 @@ Bart
 "W-Wife!?<Delay 20> Citan's!?"<Close><End of Block>
 <TextBlock 11 w:34 h:3>
 Bart
-"Y... Yes!<Delay 20>
+"Y<--><Delay 10> Yes!<Delay 20>
 H-How d'you do!"<Close><End of Block>
 <TextBlock 12 w:52 h:5>
-We're still running around
-in the sky because of the
-war that broke out 500
-years ago. It doesn't make
-any sense!<New>
+Because of a war 500
+years ago, we have to
+flap around in the sky
+like this even now.
+It doesn't make any sense!<New>
 Why do we have to suffer
 for what our ancestors
 did?<Delay 20> What do you think?<New>
@@ -136,5 +136,5 @@ much stuff we have
 chu talk about.<Close><End of Block>
 <TextBlock 24 w:52 h:3>
 We can have a conversation
-without talking.<Delay 20> Have you
-forgotten already?<Close><Close><End of Block>
+without talking.<Delay 20> People
+have forgotten already?<Close><Close><End of Block>

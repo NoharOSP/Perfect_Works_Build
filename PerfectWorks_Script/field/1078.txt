@@ -40,13 +40,14 @@ Rico
 Rico
 "Huh? What's this
 room...?"<Opcode 2 40><Close><End of Block>
-<TextBlock 11 w:50 h:2>
+<TextBlock 11 w:42 h:4>
 Sigmund
 "What're you people<--><New>
 !?<Delay 40> How did you get
 in here?<New>
-So, mutant...
-you were there..."<Close><End of Block>
+I see...<Delay 5>
+Because you're with
+them, mutant..."<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Sigmund
 "Hmph.<Delay 40>

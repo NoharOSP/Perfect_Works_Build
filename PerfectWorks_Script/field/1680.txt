@@ -43,7 +43,7 @@ subsiding.<Delay 10> Please set down
 the young one's group<New>
 and withdraw from here
 quickly before Solaris'
-enemy detection net starts
+enemy-detection net starts
 to function again.<New>
 We will take care of
 the rest."<Close><End of Block>

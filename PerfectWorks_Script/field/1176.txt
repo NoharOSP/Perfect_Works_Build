@@ -80,7 +80,7 @@ Margie
 "Yeah...<Delay 32>
 I'll do that."<Close><End of Block>
 <TextBlock 16 w:36 h:4>
-Maison
+Mason
 "Please, don't be
 so hard on her...<New>
 The Nisan Sect is
@@ -88,7 +88,7 @@ Marguerite's home.
 It's perfectly
 understandable."<Close><End of Block>
 <TextBlock 17 w:50 h:4>
-Maison
+Mason
 "At any rate, Marguerite
 is here unhurt.
 That's the main thing!<New>

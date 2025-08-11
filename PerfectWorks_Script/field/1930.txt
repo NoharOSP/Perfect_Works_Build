@@ -3,9 +3,9 @@ Mother<Delay 10> was Myyah.<Delay 100><Close><End of Block>
 <TextBlock 2 w:58 h:1>
 <Opcode 14 1>Our's was an ordinary family.<Close><End of Block>
 <TextBlock 3 w:58 h:1>
-<Opcode 14 1>A strict but reliable Father.<Close><End of Block>
+<Opcode 14 1>A strict but reliable father.<Close><End of Block>
 <TextBlock 4 w:50 h:1>
-<Opcode 14 1>A kind and loving Mother.<Close><End of Block>
+<Opcode 14 1>A kind and loving mother.<Close><End of Block>
 <TextBlock 5 w:40 h:2>
 <Opcode 14 1>Up till then, it was<Delay 50>
 complete happiness.<Close><End of Block>

@@ -6,7 +6,7 @@ be the black wings
 which bring death
 to you all!!"<Close><End of Block>
 <TextBlock 2 w:30 h:3>
-Nikola
+Achtzehn
 "<Seibzehn>!!<Delay 20>
 Is that<Delay 30> Maria?"<Close><End of Block>
 <TextBlock 3 w:36 h:4>
@@ -17,7 +17,7 @@ Maria Balthasar.<New>
 But you...<Delay 40>
 who are you...?"<Close><End of Block>
 <TextBlock 4 w:44 h:3>
-Nikola
+Achtzehn
 "Why, it's me, Nikola!<New>
 Look at this, Maria.
 The results of my 

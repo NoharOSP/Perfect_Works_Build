@@ -33,27 +33,27 @@ could at the time.
 The young one will
 understand."<Close><End of Block>
 <TextBlock 7 w:48 h:4>
-Maison
-"I am sure the young
-master would never have
+Mason
+"I am sure the Young
+Master would never have
 dreamed of such a tale."<Close><End of Block>
 <TextBlock 8 w:30 h:3>
 Fei
 "...<Delay 30>I guess you
 already knew?"<Close><End of Block>
 <TextBlock 9 w:54 h:4>
-Maison
+Mason
 "Well, now that you ask...
 yes I did.<New>
 However, when Sigurd was
 telling his story I thought
 it was best to stay quiet.<New>
 Please try to help the
-young master come to terms
+Young Master come to terms
 with all that he has just
 heard."<Close><End of Block>
 <TextBlock 10 w:52 h:3>
-Maison
+Mason
 "I have been waiting for
 this day for a long time."<Close><End of Block>
 <TextBlock 11 w:26 h:2>
@@ -97,7 +97,7 @@ Agnes
 "It's not embarrassing.<New>
 Since long ago, the Nisan
 mothers and the kings of
-Av have always<--><Close><End of Block>
+Av have always<-->"<Close><End of Block>
 <TextBlock 19 w:40 h:3>
 Margie
 "Hey!<Delay 30>
@@ -117,10 +117,10 @@ You're a meanie!"<Close><End of Block>
 Sigurd!<Close><End of Block>
 <TextBlock 23 w:14 h:1>
 Got it!<Close><End of Block>
-<TextBlock 24 w:38 h:4>
+<TextBlock 24 w:40 h:4>
 Elly
 "I also want to see
-what the Gate is
+what these Gates are
 with my own eyes."<Close><End of Block>
 <TextBlock 25 w:36 h:4>
 Elly
@@ -195,9 +195,9 @@ food for you.<Close><End of Block>
 <TextBlock 37 w:48 h:2>
 We work in the cathedral
 over there.<Close><End of Block>
-<TextBlock 38 w:46 h:2>
+<TextBlock 38 w:40 h:2>
 Fei
-"...So you're sisters?"<Close><End of Block>
+"...So you're nuns?"<Close><End of Block>
 <TextBlock 39 w:56 h:3>
 Yes, that is correct.<New>
 We are wandering the land...<New>
@@ -616,7 +616,7 @@ Bart
 get most of it."<Close><End of Block>
 <TextBlock 108 w:42 h:3>
 Bart
-"Old Maison!<New>
+"Old Mason!<New>
 Go reserve the town
 hall for us. We'll
 finish talking there.<New>
@@ -716,7 +716,7 @@ Margie
 <TextBlock 130 w:48 h:2>
 Sigurd
 "...<Delay 30>Alright, I see.<New>
-Please tell Maison we'll
+Please tell Mason we'll
 be here a while longer."<Close><End of Block>
 <TextBlock 131 w:50 h:4>
 Sigurd
@@ -819,7 +819,7 @@ While I think I would
 like to see it with my
 own eyes...<Delay 30>this time I
 will decline.<New>
-There are still
+There will still be
 two remaining...
 And besides...<New>
 Just in case things do not

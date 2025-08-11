@@ -45,11 +45,11 @@ planning on doing?"<Close><End of Block>
 Dominia
 "I'll sink her, of course.
 She will never trouble the
-commander again."<Close><End of Block>
+Commander again."<Close><End of Block>
 <TextBlock 9 w:46 h:4>
 Blue-Haired Girl
 "Wait!<New>
-The commander's orders
+The Commander's orders
 were to investigate the
 disappearance of that
 flying battleship.<New>

@@ -95,27 +95,27 @@ When I grow up,
 I wanna be a pilot...<Close><End of Block>
 <TextBlock 18 w:32 h:3>
 Citan
-"Maison, does
+"Mason, does
 this Gear work?"<Close><End of Block>
 <TextBlock 19 w:32 h:4>
-Maison
+Mason
 "Pardon? <Delay 10>Yes,
 it more or less
 works, but<-->"<Close><End of Block>
 <TextBlock 20 w:16 h:1>
 Alright!<Close><End of Block>
 <TextBlock 21 w:44 h:4>
-Maison
+Mason
 "Out of the question!<Delay 10>
 It is still under
 maintenance.<New>
 The handling setup is
 nowhere near<-->"<Close><End of Block>
-<TextBlock 22 w:46 h:2>
+<TextBlock 22 w:44 h:2>
 Sigurd
-"It's alright, Maison."<Opcode 2 40><Close><End of Block>
+"It's alright, Mason."<Opcode 2 40><Close><End of Block>
 <TextBlock 23 w:40 h:4>
-Maison
+Mason
 "Master Sigurd!<Delay 10>
 B-But...a gent like
 the good Doctor...?"<Close><End of Block>

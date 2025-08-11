@@ -112,17 +112,16 @@ You, Alice and the
 rest of the villagers
 should evacuate to a
 safer location!"<Close><End of Block>
-<TextBlock 26 w:54 h:4>
+<TextBlock 26 w:42 h:4>
 Citan
-"I understand how you feel,
-but leave the rest to Fei
-and I!<New>
-The primary thing you
-should be concerned with
-is your own safety...<New>
-Timothy, it is your
-responsibility to 
-protect Alice!"<Close><End of Block>
+"I understand how you
+feel, but leave it to
+Fei and I!<New>
+Right now, the first
+priority for you both
+is your own safety.<New>
+Timothy, please
+protect Alice."<Close><End of Block>
 <TextBlock 27 w:36 h:3>
 Citan
 "Now, both of you,
@@ -214,7 +213,7 @@ Dan behind!"<Close><End of Block>
 <TextBlock 46 w:14 h:3>
 Timothy
 "...<Delay 20>
-But..."<Close><End of Block>
+But<-->"<Close><End of Block>
 <TextBlock 47 w:48 h:3>
 Timothy
 "...<Delay 30>

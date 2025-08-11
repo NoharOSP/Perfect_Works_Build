@@ -81,7 +81,7 @@ you, the Tamuz'd have gone
 under long ago!"<Close><End of Block>
 <TextBlock 22 w:48 h:4>
 Hey, have you met the
-captain yet? He is sooo
+Captain yet? He is sooo
 cool! I wanna grow up to
 be just like him.<Close><End of Block>
 <TextBlock 23 w:10 h:1>
@@ -89,8 +89,8 @@ I am!<Close><End of Block>
 <TextBlock 24 w:12 h:1>
 A man!<Close><End of Block>
 <TextBlock 25 w:36 h:2>
-of the sea<Delay 10>...<Delay 10>
-...Hey wait? Oops.<Close><End of Block>
+Of the sea<Delay 10>...<Delay 10>
+...Huh? Oops.<Close><End of Block>
 <TextBlock 26 w:34 h:3>
 It's over here.
 I still need more
@@ -98,17 +98,17 @@ practice.<Close><End of Block>
 <TextBlock 27 w:48 h:3>
 I'm sure the Verus are
 followin' us 'cause of
-the captain.<Close><End of Block>
+the Captain.<Close><End of Block>
 <TextBlock 28 w:8 h:1>
 Men!<Close><End of Block>
 <TextBlock 29 w:22 h:1>
 Of the sea!<Close><End of Block>
 <TextBlock 30 w:32 h:2>
-Never lose...<Delay 10>...<Delay 10>
-...Hey!<Close><End of Block>
+Never lose<Delay 10>...<Delay 10>
+...Huh?<Close><End of Block>
 <TextBlock 31 w:48 h:2>
-Ah, here,
-yep, just a little more.<Close><End of Block>
+Ah, here.
+Yep, just a little more.<Close><End of Block>
 <TextBlock 32 w:46 h:3>
 Hey, welcome.
 Rare finds from the sea
@@ -217,11 +217,11 @@ Elly
 You saved us..."<Close><End of Block>
 <TextBlock 60 w:52 h:4>
 You'd better thank the
-captain.<New>
+Captain.<New>
 The one who gave the order
 for us to pull you two
 floaters out was the
-captain o' the Tamuz.<Close><End of Block>
+Captain o' the Tamuz.<Close><End of Block>
 <TextBlock 61 w:24 h:3>
 Fei
 "Tamuz? <Delay 5>
@@ -230,7 +230,7 @@ Captain...?"<Close><End of Block>
 The Tamuz, the city at sea.
 That's the name of the place
 where you are now.<New>
-The captain here is a bit
+The Captain here is a bit
 of a strange old chap.<New>
 You'll see when you meet
 him. That's not to say
@@ -257,14 +257,14 @@ be so nice. I bet that's
 what you're thinking.<New>
 But really, we had no
 choice because it's the
-captain's orders...<Close><End of Block>
+Captain's orders...<Close><End of Block>
 <TextBlock 67 w:52 h:3>
 Well, I have to go now.
 I'm a busy guy, y'know!<New>
 Come to the bridge after
 you've looked around the
 ship a while.<New>
-I'm sure the captain would
+I'm sure the Captain would
 want to meet you.<Close><End of Block>
 <TextBlock 68 w:28 h:3>
 Elly

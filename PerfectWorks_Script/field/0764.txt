@@ -118,12 +118,12 @@ I'm gonna tune up
 my Gear a little...<New>
 Why don't you two go
 have some tea with
-Old Maison?"<Close><End of Block>
-<TextBlock 33 w:42 h:2>
+Old Mason?"<Close><End of Block>
+<TextBlock 33 w:40 h:2>
 Bart
-"Thanks, Old Maison."<Close><End of Block>
+"Thanks, Old Mason."<Close><End of Block>
 <TextBlock 34 w:48 h:2>
-Maison
+Mason
 "Please, walk this way."<Close><End of Block>
 <TextBlock 35 w:50 h:4>
 Bart
@@ -324,12 +324,12 @@ really I'm the one who
 wants to run away...<Close><End of Block>
 <TextBlock 63 w:48 h:4>
 Sigurd
-"The young master asked
+"The Young Master asked
 me to apologize to you.<Delay 10>
 Pretty strange, huh?<New>
 He knows it's best to
 apologize in person...<New>
-But the young master
+But the Young Master
 isn't all that good at
 this sort of thing..."<Close><End of Block>
 <TextBlock 64 w:44 h:4>
@@ -369,7 +369,7 @@ burden.<New>
 This might be a selfish
 request, but...would it
 be possible for you to
-help the young master?<New>
+help the Young Master?<New>
 I'm not asking you to
 burden yourself with
 his problems or
@@ -452,7 +452,7 @@ strength...<Opcode 2 90><Close><End of Block>
 My...<Delay 10>place...
 to belong...<Opcode 2 90><Close><End of Block>
 <TextBlock 84 w:54 h:4>
-Maison
+Mason
 "We must infiltrate Av
 and rescue Margie now!<New>
 Geburah has discovered this
@@ -466,10 +466,10 @@ The crew's preparations are
 complete.<New>
 Whenever you are ready,
 Master Fei and good Doctor,
-please accompany the young
-master to the bridge."<Close><End of Block>
+please accompany the Young
+Master to the bridge."<Close><End of Block>
 <TextBlock 85 w:54 h:4>
-Maison
+Mason
 "Doctor Uzuki,<Delay 10> Master Fei,<Delay 10>
 I thank you from the bottom
 of my heart.<New>

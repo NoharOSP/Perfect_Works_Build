@@ -1,7 +1,7 @@
-<TextBlock 1 w:42 h:3>
+<TextBlock 1 w:40 h:3>
 Margie
-"Then I'll be waiting
-here for you."<Close><End of Block>
+"I'll be waiting
+here for you, then."<Close><End of Block>
 <TextBlock 2 w:42 h:2>
 Bart
 "Thanks for waiting!"<Close><End of Block>

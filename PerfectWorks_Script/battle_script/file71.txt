@@ -24,7 +24,7 @@ Billy
 Father is...<New>
 ...Oh my <Delay 10>god!!"<Close><End of Block>
 <TextBlock 6 w:44 h:4>
-Jessie
+Jesse
 "Billy, with a joint
 attack from my Gear
 and your Gear,<New>
@@ -35,13 +35,13 @@ shoulder for a moment,
 so when you get the
 chance, take aim."<Close><End of Block>
 <TextBlock 7 w:50 h:4>
-Jessie
+Jesse
 "Billy, d'you see now?
 Stein's teachings were
 all a deception.<New>
 It's just a fabricated
 belief system, made to
-compensate for the 
+compensate for the
 fragile human heart.<New>
 But real faith and God
 aren't things that are
@@ -59,7 +59,7 @@ all about? 'Question
 not thy God, for thy
 God doth not answer.'"<Close><End of Block>
 <TextBlock 8 w:50 h:4>
-Jessie
+Jesse
 "I taught you about guns
 when you were so young so
 that you'd help people.<New>
@@ -98,12 +98,12 @@ it possible, is no
 deception...
 God exists within you!"<Close><End of Block>
 <TextBlock 9 w:28 h:4>
-Jessie
+Jesse
 "Alright, now!
 Let's go,
 Billy, go!"<Close><End of Block>
 <TextBlock 10 w:48 h:4>
-Jessie
+Jesse
 "Let's wrap this up once
 and for all, eh Stein?<New>
 But I want you to know

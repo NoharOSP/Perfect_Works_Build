@@ -36,7 +36,7 @@ Maybe<Delay 10> 'Your Majesty'<Delay 10>...?"<Close><End of Block>
 Bart
 "Cut it out.<Delay 15>
 'Bart' will do fine...<Delay 30>
-'Great<Delay 10> Mother<Delay 10> of<Delay 10> Nisan'!"<Close><End of Block>
+'Holy<Delay 10> Mother<Delay 10> of<Delay 10> Nisan'!"<Close><End of Block>
 <TextBlock 8 w:30 h:4>
 Margie
 "Hey...!<Delay 30>
@@ -67,7 +67,7 @@ The royal brothers and their
 wives oversaw many prosperous
 reigns and eras.<New>
 I'm looking forward to the
-day when, as the Great Mother
+day when, as the holy mother
 of the Nisan Sect,<New>
 you will take your place on
 the throne as Bartholomew's
@@ -102,9 +102,9 @@ remaining checks
 on board.<New>
 I'll leave the
 rest up to you,
-Maison."<Close><End of Block>
+Mason."<Close><End of Block>
 <TextBlock 19 w:50 h:4>
-Maison
+Mason
 "As you wish...
 I will have the honor of
 accompanying the others."<Close><End of Block>
@@ -166,7 +166,7 @@ Margie
 "Thanks."<Close><End of Block>
 <TextBlock 32 w:46 h:3>
 All the townspeople are
-overjoyed by the Great
+overjoyed by the Holy
 Mother's return.<Close><End of Block>
 <TextBlock 33 w:20 h:2>
 ...<Delay 30>...<Delay 30>...<Delay 30>
@@ -185,7 +185,7 @@ Board the ship?<Delay 10>
 Preparations for the
 campaign are done <--> just
 finishing one final check.<New>
-The young master is
+The Young Master is
 taking Marguerite to
 Nisan.<Close><End of Block>
 <TextBlock 39 w:40 h:1>

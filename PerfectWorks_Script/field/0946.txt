@@ -79,14 +79,14 @@ for hundreds of years."<Close><End of Block>
 <TextBlock 14 w:50 h:2>
 Elly
 "Why are you doing this?"<Close><End of Block>
-<TextBlock 15 w:52 h:4>
+<TextBlock 15 w:48 h:4>
 Dominia
 "To purge. Why else?<New>
 You, too, must have
 heard... Kislev has a
 Gatekeeper.<New>
 The whole point of the
-Gate is to manage those
+Gates is to manage those
 vulgar Lambs.<New>
 This barrier to the
 surface was made by our
@@ -129,7 +129,7 @@ So why...?"<Close><End of Block>
 <TextBlock 19 w:40 h:3>
 Dominia
 "I was chosen by the
-commander!<New>
+Commander!<New>
 You regard me as the
 same as those stupid
 Lambs!?"<Close><End of Block>

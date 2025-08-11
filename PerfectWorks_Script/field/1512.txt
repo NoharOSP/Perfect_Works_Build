@@ -325,7 +325,7 @@ independence of the land
 dwellers has been won...<New>
 you can consider again
 whether or not to share
-the heavens with us.<Close><End of Block>
+the heavens with us."<Close><End of Block>
 <TextBlock 48 w:54 h:4>
 Zephyr
 "You may want to try to get
@@ -431,8 +431,8 @@ However, unless we
 destroy the final
 main generator on
 the Solaris homeland,<New>
-the Gate cannot be
-completely wiped out."<Close><End of Block>
+their Gate cannot be
+completely eliminated."<Close><End of Block>
 <TextBlock 67 w:52 h:4>
 It seems the intruder has
 escaped to the hangar bay.<Delay 20>
@@ -649,8 +649,10 @@ for take-off are made,
 please assemble back
 here.<New>
 Okay, then..."<Close><End of Block>
-<TextBlock 100 w:52 h:3>
-Are you prepped and ready?<Delay 20>
+<TextBlock 100 w:54 h:3>
+Citan
+"Well, everyone...<New>
+Are you prepped and ready?"<Delay 20>
 <Opcode 1 255>    Let's go!
     Not yet<Close><End of Block>
 <TextBlock 101 w:34 h:3>
@@ -662,11 +664,11 @@ Citan
 "If you would, Maria.<Delay 20>
 Please transport us to
 Solaris on <Seibzehn>."<Close><End of Block>
-<TextBlock 103 w:44 h:4>
+<TextBlock 103 w:52 h:4>
 Citan
-"Please hurry.<Delay 20> We take
-off as soon as prepar-
-ations are complete."<Close><End of Block>
+"Please hurry.<Delay 20> We take off
+as soon as preparations
+are complete."<Close><End of Block>
 <TextBlock 104 w:54 h:3>
 Citan
 "I am sorry.<New>
@@ -809,7 +811,7 @@ It would be best if he
 could live in a peaceful
 place..."<Close><End of Block>
 <TextBlock 110 w:52 h:4>
-Jessie
+Jesse
 "Hey!<Delay 10> Fei, wasn't it?<New>
 I hear from Hyuga you're
 some Gear prodigy.
@@ -873,7 +875,7 @@ most expensive booze you
 can buy!<Delay 30> Ha, ha, ha, ha!<New>
 Go get 'em, guys."<Close><End of Block>
 <TextBlock 111 w:50 h:4>
-Jessie
+Jesse
 "Yeah, right on!
 Go for it, young'uns!
 We're depending on you.<New>
@@ -882,34 +884,34 @@ also depends on it.
 I have no intention of
 kickin' the bucket here."<Close><End of Block>
 <TextBlock 112 w:38 h:3>
-Jessie
+Jesse
 "Alright, alright,
 I know."<Close><End of Block>
-<TextBlock 113 w:32 h:3>
-Jessie
-"(Why can't you
-be more nice?)"<Close><End of Block>
+<TextBlock 113 w:24 h:3>
+Jesse
+"(Tch, not
+very nice.)"<Close><End of Block>
 <TextBlock 114 w:34 h:4>
-Jessie
+Jesse
 "An unidentified
 giant Gear...?<Delay 20>
 It can't be..."<Close><End of Block>
 <TextBlock 115 w:34 h:4>
-Jessie
+Jesse
 "So his present
 personality is
 a temporary one?"<Close><End of Block>
 <TextBlock 116 w:46 h:3>
-Jessie
+Jesse
 "If that's the case,<New>
 might he not eventually
 get completely taken
 over by Id?"<Close><End of Block>
 <TextBlock 117 w:44 h:2>
-Jessie
+Jesse
 "...Which means what?"<Close><End of Block>
 <TextBlock 118 w:44 h:2>
-Jessie
+Jesse
 "You sure about that?"<Close><End of Block>
 <TextBlock 119 w:36 h:2>
 Maria

@@ -114,9 +114,9 @@ My misunderstanding."<Close><End of Block>
 Jesiah
 "Sorry, young lady.
 Stand up, now."<Close><End of Block>
-<TextBlock 32 w:54 h:4>
+<TextBlock 32 w:52 h:4>
 Jesiah
-"Looks like you were 
+"Looks like you were
 just trying to help her.
 That's what she's saying.<New>
 Sorry about the
@@ -126,7 +126,7 @@ My daughter.<New>
 And I'm<--><Delay 10> Well, it's quite
 enough that my smartass
 student here calls me
-Jesiah,<Delay 10> so call me Jessie."<Close><End of Block>
+Jesiah,<Delay 10> so call me Jesse."<Close><End of Block>
 <TextBlock 33 w:14 h:2>
 Primera
 "..."<Close><End of Block>
@@ -134,7 +134,7 @@ Primera
 Elly
 "?"<Close><End of Block>
 <TextBlock 35 w:44 h:3>
-Jessie
+Jesse
 "She says thank you.<New>
 There was a bit of a
 situation, y'see, and
@@ -146,7 +146,7 @@ Citan
 reason you had that
 shotgun wedding?"<Close><End of Block>
 <TextBlock 37 w:50 h:4>
-Jessie
+Jesse
 "That's a damn rude thing
 to ask! Besides, look at
 how old she is!<New>
@@ -159,7 +159,7 @@ Citan
 that.<Delay 10> And how is
 your wife?"<Close><End of Block>
 <TextBlock 39 w:46 h:3>
-Jessie
+Jesse
 "...<Delay 10>She's dead.<New>
 I wasn't even able to
 be there for her in her
@@ -170,7 +170,7 @@ Citan
 So what brings
 you here now?"<Close><End of Block>
 <TextBlock 41 w:48 h:3>
-Jessie
+Jesse
 "Well, I have to go
 shopping once in a
 while, I guess.<New>
@@ -194,7 +194,7 @@ somehow."<Close><End of Block>
 Etone
 "Is that so<Delay 10>...?"<Close><End of Block>
 <TextBlock 46 w:44 h:3>
-Jessie
+Jesse
 "...Good grief, don't
 act all superior.<New>
 Wouldn't it be good
@@ -204,7 +204,7 @@ Etone
 "F-Father?
 And Prim too!?"<Close><End of Block>
 <TextBlock 48 w:36 h:3>
-Jessie
+Jesse
 "Oh, this is my
 son Billy."<Close><End of Block>
 <TextBlock 49 w:52 h:3>
@@ -214,7 +214,7 @@ all this time!?<New>
 Things are getting
 serious at headquarters."<Close><End of Block>
 <TextBlock 50 w:50 h:4>
-Jessie
+Jesse
 "What's serious?<New>
 Nothing wrong with going
 for a walk with my
@@ -232,7 +232,7 @@ Fight? Gamble?
 Make a move on someone's
 wife again!?"<Close><End of Block>
 <TextBlock 52 w:48 h:3>
-Jessie
+Jesse
 "Hmph.<New>
 Such things are false
 rumors made by those
@@ -246,7 +246,7 @@ become such a stiff."<Close><End of Block>
 Billy
 "..."<Close><End of Block>
 <TextBlock 54 w:40 h:4>
-Jessie
+Jesse
 "Anyway, this lady
 and her friends
 saved Primera when<New>
@@ -353,7 +353,7 @@ Bart
 got it. So hurry
 it up already." <Close><End of Block>
 <TextBlock 70 w:48 h:4>
-Jessie
+Jesse
 "Hey, Billy. I have
 some business to take
 care of.<New>
@@ -368,7 +368,7 @@ Billy
 "...<Delay 10>...<Delay 30>Alright.
 Let's go, Prim."<Close><End of Block>
 <TextBlock 72 w:50 h:3>
-Jessie
+Jesse
 "Alright, well, I've got
 to get going too.<New>
 Later, Hyuga.
@@ -379,7 +379,7 @@ Citan
 "Ah, that is
 certain."<Close><End of Block>
 <TextBlock 74 w:44 h:3>
-Jessie
+Jesse
 "Heh, oh well.
 See you ladies later."<Close><End of Block>
 <TextBlock 75 w:42 h:4>

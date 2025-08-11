@@ -41,7 +41,7 @@ Emeralda
 Is something out of the
 ordinary? "<Close><End of Block>
 <TextBlock 10 w:42 h:3>
-Ahhh, a guest!?<Delay 20>
+Ahhh, customers!?<Delay 20>
 It's been a while...!
 Welcome, welcome...!<Close><End of Block>
 <TextBlock 11 w:46 h:3>
@@ -73,11 +73,11 @@ discount!!
 *zzz*...*zzz*...<Close><End of Block>
 <TextBlock 16 w:58 h:6>
 The great angel watched over
-the distant dawn, while dusk
+the distant Dawn, while Dusk
 nodded off in the arms of
 a lost child from 500
 years ago...and the sea
-monster swallowed the dark.<New>
+monster swallowed the Dark.<New>
 An old sage taught me
 that a looooong long time
 ago.<Delay 20> Don't know what

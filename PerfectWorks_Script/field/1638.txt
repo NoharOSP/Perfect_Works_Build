@@ -41,7 +41,7 @@ Hammer
 "Here I am.
 I've come this far..."<Close><End of Block>
 <TextBlock 10 w:40 h:4>
-Jessie
+Jesse
 "This is the end of
 ends. Don't let your
 guard down!"<Close><Close><End of Block>

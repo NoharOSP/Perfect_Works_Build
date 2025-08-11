@@ -390,7 +390,7 @@ Hmm, you look tired.
 You can stay overnight at
 the bar, so why don't you
 rest there a little bit?<New>
-Travelling all worn and
+Traveling all worn and
 tired, might just get you
 killed.<Close><End of Block>
 <TextBlock 61 w:46 h:2>

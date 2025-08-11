@@ -117,7 +117,7 @@ but I wonder if it
 was safe in there?)"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Billy
-"(Margie's the Great
+"(Margie's the Holy
 Mother of this sect,
 isn't she?<New>
 After hearing that Nisan
@@ -149,7 +149,7 @@ it was safe?)"<Close><End of Block>
 Rico
 "(Well, what would you
 do? Whether you're the
-Great Mother or not...<New>
+Holy Mother or not...<New>
 if your own home's
 gettin' trashed, you're
 not gonna just stand by
@@ -414,13 +414,13 @@ doing alright?)"<Close><End of Block>
 <TextBlock 87 w:50 h:3>
 Sigurd
 "(Well, about that...<New>
-The young master is quite
+The Young Master is quite
 worried about Marguerite
 having tagged along.)"<Close><End of Block>
 <TextBlock 88 w:42 h:4>
 Sigurd
 "(Yes, but you know
-what the young master
+what the Young Master
 is like...)"<Close><End of Block>
 <TextBlock 89 w:48 h:4>
 Sigurd
@@ -526,7 +526,7 @@ let's get prepped."<Close><End of Block>
 Fei
 "But by the looks of it
 there's no way we can
-locate the tool shop lady."<Close><End of Block>
+locate the tool-shop lady."<Close><End of Block>
 <TextBlock 106 w:44 h:4>
 Bart
 "No...<Delay 20> For now, why
@@ -534,6 +534,6 @@ don't we just leave
 them the money?<New>
 Since it's me, they'll
 let us off!"<Close><End of Block>
-<TextBlock 107 w:50 h:2>
-"Chasing Shakhan from the
-world map to the Gate."<Close><Close><End of Block>
+<TextBlock 107 w:48 h:2>
+Chasing Shakhan from the
+world map to the Gate.<Close><Close><End of Block>

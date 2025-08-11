@@ -116,8 +116,8 @@ Bart
 What're you doin' here!?"<Close><End of Block>
 <TextBlock 27 w:46 h:3>
 Sigurd
-"I left Maison in
-charge of the Capital.<New>
+"I left Mason in charge
+of the Capital.<New>
 We were worried about
 you and have returned."<Close><End of Block>
 <TextBlock 28 w:46 h:3>

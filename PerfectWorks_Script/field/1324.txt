@@ -6,7 +6,7 @@ Elly
 "<Delay 5>...<Delay 10>On the contrary.<Delay 15>
 This IS Solaris
 equipment!"<Close><End of Block>
-<TextBlock 3 w:48 h:4>
+<TextBlock 3 w:50 h:4>
 Elly
 "Is it such a surprise?<New>
 Solaris is the only place
@@ -70,11 +70,11 @@ land dwellers.<New>
 It's not clear what the
 outcome was, but after the
 war, Solaris feared another
-land dweller revolt<Delay 5>...<New>
-So Solaris built a 'Gate',<Delay 5>
-a barrier that separates
-Solaris from the surface
-world.<New>
+land-dweller revolt<Delay 5>...<New>
+So Solaris built the
+'Gates',<Delay 5> barriers that
+separate Solaris from
+the surface world.<New>
 The land dwellers in that
 Gated-off world were made
 to live as a separate race,
@@ -304,7 +304,7 @@ Citan
 Bart
 "The 44th Salvage Plan?<New>
 Isn't that what the
-captain of the Tamuz
+Captain of the Tamuz
 was talking about?"<Close><End of Block>
 <TextBlock 32 w:50 h:4>
 Citan
@@ -388,9 +388,9 @@ Bart
 "Yeah, but even then<Delay 5>...<Delay 10>
 this place is damn well
 equipped.<Delay 10> Look at it!"<Close><End of Block>
-<TextBlock 42 w:30 h:2>
+<TextBlock 42 w:26 h:2>
 Bart
-"So-<Delay 10>Solaris!?"<Close><End of Block>
+"S-<Delay 10>Solaris!?"<Close><End of Block>
 <TextBlock 43 w:44 h:3>
 Bart
 "What's going on here?
@@ -592,7 +592,7 @@ Elly
 "<Delay 5>...<Delay 10>On the contrary.<Delay 15>
 This IS Solaris
 equipment!"<Close><End of Block>
-<TextBlock 80 w:48 h:4>
+<TextBlock 80 w:50 h:4>
 Elly
 "Is it such a surprise?<New>
 Solaris is the only place
@@ -656,11 +656,11 @@ land dwellers.<New>
 It's not clear what the
 outcome was, but after the
 war, Solaris feared another
-land dweller revolt<Delay 5>...<New>
-So Solaris built a 'Gate',<Delay 5>
-a barrier that separates
-Solaris from the surface
-world.<New>
+land-dweller revolt<Delay 5>...<New>
+So Solaris built the
+'Gates',<Delay 5> barriers that
+separate Solaris from
+the surface world.<New>
 The land dwellers in that
 Gated-off world were made
 to live as a separate race,
@@ -898,7 +898,7 @@ Citan
 Bart
 "The 44th Salvage Plan?<New>
 Isn't that what the
-captain of the Tamuz
+Captain of the Tamuz
 was talking about?"<Close><End of Block>
 <TextBlock 110 w:50 h:4>
 Citan
@@ -982,9 +982,9 @@ Bart
 "Yeah, but even then<Delay 5>...<Delay 10>
 this place is damn well
 equipped.<Delay 10> Look at it!"<Close><End of Block>
-<TextBlock 119 w:30 h:2>
+<TextBlock 119 w:26 h:2>
 Bart
-"So-<Delay 10>Solaris!?"<Close><End of Block>
+"S-<Delay 10>Solaris!?"<Close><End of Block>
 <TextBlock 120 w:44 h:3>
 Bart
 "What's going on here?
@@ -1116,8 +1116,8 @@ After one hundred test digs, the
 city center has been identified<Delay 5>...<Delay 5>
 Excavation scheduled to begin<Delay 5>...<Close><End of Block>
 <TextBlock 143 w:64 h:6>
-<Opcode 14 2>Report No. 50224 from Noatun's
-D-Block Committee.
+<Opcode 14 2>Report No. 50224 from the
+Committee in Noatun's D Block.
 Transferring data for each
 Battler. Biological status of
 A-Class Battler. Adaptation rate
@@ -1125,8 +1125,8 @@ of the deployment plan's Type Y
 demihuman. Transferring data
 for the above to the homeland...<Opcode 2 30><Close><End of Block>
 <TextBlock 144 w:62 h:6>
-<Opcode 14 1>Report No. 50227 from Noatun's
-D-Block Committee.
+<Opcode 14 1>Report No. 50227 from the
+Committee in Noatun's D Block.
 Sigmund's forceful expulsion
 of the Church from the
 Central District has made

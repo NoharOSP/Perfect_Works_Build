@@ -18,8 +18,10 @@ Fei
 Fei
 "Huh!?<Delay 20>
 The fish is biting!"<Close><End of Block>
-<TextBlock 6 w:46 h:4>
-What do you want to do?<Delay 20>
+<TextBlock 6 w:48 h:4>
+Fei
+"Here we go...<New>
+What do you want to do?"<Delay 20>
 <Opcode 1 255>    Reel it in!
     Wiggle the line
     Be patient<Close><End of Block>
@@ -121,9 +123,9 @@ Dark Rock.<Close><End of Block>
 Lost Spider Web...<Close><End of Block>
 <TextBlock 26 w:38 h:1>
 Received Dark Rock!<Close><End of Block>
-<TextBlock 27 w:44 h:2>
-Released the fish that
-was caught.<Close><End of Block>
+<TextBlock 27 w:34 h:2>
+Released the fish
+you caught.<Close><End of Block>
 <TextBlock 28 w:42 h:3>
 Do you want to go up?<Delay 10>
 <Opcode 1 255>    Yes

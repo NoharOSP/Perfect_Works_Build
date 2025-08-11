@@ -28,7 +28,7 @@ Carl...?<Delay 100>
 Myyah
 "I see you are quick
 to catch on.<New>
-The commander should be
+The Commander should be
 taking care of all your
 divided forces out by the
 Nisan border as we speak.<New>
@@ -119,23 +119,23 @@ Prepare to fire...!"<Close><End of Block>
 Shakhan
 "Wha!?"<Close><End of Block>
 <TextBlock 19 w:40 h:4>
-Maison
+Mason
 "You wretched
 traitor, Shakhan!<New>
 Make one move and
 this gatling gun
 shall be spitting
 fire!"<Close><End of Block>
-<TextBlock 20 w:26 h:2>
+<TextBlock 20 w:24 h:2>
 Bart
-"Old Maison!"<Close><End of Block>
+"Old Mason!"<Close><End of Block>
 <TextBlock 21 w:44 h:4>
-Maison
+Mason
 "Reinforcements have
 arrived, Young Master.
 Please come aboard."<Close><End of Block>
 <TextBlock 22 w:36 h:2>
-Maison
+Mason
 "Shall we depart?"<Close><End of Block>
 <TextBlock 23 w:54 h:4>
 Shakhan
@@ -151,22 +151,22 @@ Bart
 "Crap! I guess we're
 gonna get mauled..."<Close><End of Block>
 <TextBlock 25 w:34 h:3>
-Maison
+Mason
 "Everyone...
 please get down."<Close><End of Block>
 <TextBlock 26 w:28 h:3>
 Bart
 "Do you have a
-plan, Maison?"<Close><End of Block>
+plan, Mason?"<Close><End of Block>
 <TextBlock 27 w:34 h:2>
-Maison
+Mason
 "Leave it to me."<Close><End of Block>
 <TextBlock 28 w:40 h:3>
 Bart
-"Maison, you're just
+"Mason, you're just
 walking in circles."<Opcode 2 100><Close><End of Block>
 <TextBlock 29 w:44 h:2>
-Maison
+Mason
 "Just leave it to me."<Opcode 2 60><Close><End of Block>
 <TextBlock 30 w:48 h:4>
 Bart

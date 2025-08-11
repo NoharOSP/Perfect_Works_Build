@@ -92,4 +92,4 @@ Shevat Palace<Close><End of Block>
 Found a Dawn Rock!<Close><End of Block>
 <TextBlock 21 w:42 h:2>
 <Opcode 1 255>  Shevat Lower Level
-Central Dock Entrance<Close><End of Block>
+Central-Dock Entrance<Close><End of Block>

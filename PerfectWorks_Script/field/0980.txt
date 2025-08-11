@@ -1,5 +1,5 @@
 <TextBlock 1 w:50 h:4>
-Maison
+Mason
 "Well said, Young Master!
 This old man will follow
 you to the pits of hell!"<Close><End of Block>
@@ -36,7 +36,7 @@ Sigurd
 "Indeed...<New>
 Perhaps they have political
 motives that involve Margie
-or the young master..."<Close><End of Block>
+or the Young Master..."<Close><End of Block>
 <TextBlock 6 w:56 h:4>
 Engineer
 "Young Master...emergency
@@ -76,7 +76,7 @@ desert means betting on
 hope, even if it's rash!"<Close><End of Block>
 <TextBlock 12 w:54 h:4>
 Bart
-"Sorry, Old Maison,
+"Sorry, Old Mason,
 but I'm not dying today!!<New>
 Besides, they're backing
 off... It looks like they

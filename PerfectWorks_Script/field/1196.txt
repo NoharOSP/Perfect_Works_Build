@@ -144,7 +144,7 @@ rest while you still can!<Close><End of Block>
 <TextBlock 27 w:52 h:3>
 Nobody touches the machine
 here except myself.
-Even the young master!<Close><End of Block>
+Even the Young Master!<Close><End of Block>
 <TextBlock 28 w:44 h:1>
 Uhh... Young Master...<Close><End of Block>
 <TextBlock 29 w:30 h:2>
@@ -224,17 +224,17 @@ He's not a bad person.<Close><End of Block>
 <TextBlock 47 w:50 h:3>
 Once again, final checks!<Delay 10>
 Every second counts!<Delay 5>
-The young master forever!<Close><End of Block>
+The Young Master forever!<Close><End of Block>
 <TextBlock 48 w:54 h:3>
 When we had engine trouble
-a long time ago, the young
-master jumped in to fix it.<New>
+a long time ago, the Young
+Master jumped in to fix it.<New>
 Sigurd tried to help the
-young master and they both
+Young Master and they both
 ended up injuring one eye.<Close><End of Block>
 <TextBlock 49 w:52 h:3>
-We are proud of the young
-master, but<Delay 5>...<Delay 5>he sometimes
+We are proud of the Young
+Master, but<Delay 5>...<Delay 5>he sometimes
 rushes into things.<New>
 The chief thinks it's
 all his own fault.<Close><End of Block>

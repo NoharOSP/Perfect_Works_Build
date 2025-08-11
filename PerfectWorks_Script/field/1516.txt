@@ -16,6 +16,7 @@ Fine-looking parents
 and...<Delay 20>next to the Queen,
 is that her brother...?<Delay 20>
 Everyone is smiling.<New>
-The Queen alone hasn't
-changed...<Delay 20>for 500
-years..."<Close><Close><End of Block>
+But it's only the Queen
+who remains unchanged
+after all this time...<Delay 20>
+500 years..."<Close><Close><End of Block>

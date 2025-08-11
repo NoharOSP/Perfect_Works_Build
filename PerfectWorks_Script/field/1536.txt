@@ -23,10 +23,10 @@ began...<Close><End of Block>
 That was the first part
 of the legend of genesis
 that was passed on from
-long ago.<Delay 20> They say a
-legend such as this
-contains some truth to
-it...<Close><End of Block>
+long ago.<Delay 20>
+It's often said that
+legends such as this
+contain some truth...<Close><End of Block>
 <TextBlock 3 w:50 h:6>
 Humans banished from the
 paradise were foolish
@@ -46,8 +46,8 @@ But human strength was no
 match for God and the
 arrogant humans were
 destroyed by God's anger.
-Only a few righteous men
-were left on the land.<New>
+Only a righteous few
+remained on the surface.<New>
 However, God was also
 tired and wounded.
 He decided to rest in the
@@ -56,8 +56,8 @@ earth.<New>
 God's rest was long.
 But eternity is only
 a moment to God.<New>
-Since then, the righteous
-men who didn't revolt
+Thereafter, the righteous
+ones who hadn't revolted
 against God had to live
 in the harsh wilderness
 by themselves, being in
@@ -65,11 +65,11 @@ constant fear of death...<Close><End of Block>
 <TextBlock 4 w:50 h:7>
 The legend also says the
 following:<Delay 20>
-When the righteous men's
-children are born again,
+When the children of the
+righteous are born again,
 God will awaken from his
 long rest and give them
-a helping hand..<New>
+a helping hand...<New>
 If the legend is true,
 what will the awakening
 God bring to the people?<Delay 20>

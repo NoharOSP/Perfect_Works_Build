@@ -268,10 +268,11 @@ are so far apart, how
 could they be one weapon?"<Close><End of Block>
 <TextBlock 49 w:46 h:3>
 Citan
-"Well, as spread out as
-it may be, is the Gate<New>
-generator system not
-also a single device?"<Close><End of Block>
+"Well, as spread
+out as they are,<New>
+do the Gate-generator
+systems not also amount
+to a single device?"<Close><End of Block>
 <TextBlock 50 w:34 h:3>
 Elly
 "Yes, I see what

@@ -8,7 +8,7 @@ Bart
 do, things between
 us won't change?"<Close><End of Block>
 <TextBlock 3 w:40 h:3>
-Maison
+Mason
 "What is the matter,
 Young Master...?"<Close><End of Block>
 <TextBlock 4 w:44 h:4>
@@ -61,7 +61,7 @@ Av shall be a republic!"<Close><End of Block>
 Sigurd
 "Young Master..."<Close><End of Block>
 <TextBlock 8 w:36 h:3>
-Maison
+Mason
 "What in Av 
 are you doing...?"<Close><End of Block>
 <TextBlock 9 w:54 h:4>
@@ -76,13 +76,13 @@ to be king, nor anything
 else for that matter, the
 two of you are free to go."<Close><End of Block>
 <TextBlock 10 w:50 h:2>
-Maison
+Mason
 "What are you saying...?"<Close><End of Block>
 <TextBlock 11 w:30 h:2>
 Sigurd
 "It won't do."<Close><End of Block>
 <TextBlock 12 w:32 h:2>
-Maison
+Mason
 "Master Sigurd?"<Close><End of Block>
 <TextBlock 13 w:48 h:3>
 Sigurd

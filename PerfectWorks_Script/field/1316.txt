@@ -29,7 +29,7 @@ Billy
 Billy
 "Verlaine and his men,
 an assassination unit
-for the bishop!?<New>
+for the Bishop!?<New>
 How can you even
 say something so
 irresponsible!?"<Close><End of Block>
@@ -79,7 +79,7 @@ Billy
 Verlaine
 "Y-<Delay 10>You<Delay 5>...<Delay 5>..."<Close><End of Block>
 <TextBlock 20 w:48 h:4>
-Jessie
+Jesse
 "What are you getting
 flustered about,<Delay 15> boy?<New>
 It was a stun bullet.<Delay 10>
@@ -91,10 +91,10 @@ Besides,<Delay 10> these guys
 are not really from
 the Church!"<Close><End of Block>
 <TextBlock 21 w:14 h:2>
-Jessie
+Jesse
 "Look!"<Close><End of Block>
 <TextBlock 22 w:54 h:4>
-Jessie
+Jesse
 "Yes, that's right.<Delay 15>
 They're agents of Solaris!<New>
 I dare say an assassination
@@ -108,11 +108,11 @@ have been done in, except
 for those who are out on
 some salvage mission."<Close><End of Block>
 <TextBlock 23 w:42 h:3>
-Jessie
+Jesse
 "I won't let you go
 that easily, Stein!!"<Close><End of Block>
 <TextBlock 24 w:36 h:3>
-Jessie
+Jesse
 "Stein, you aren't
 goin' anywhere!!"<Close><End of Block>
 <TextBlock 25 w:56 h:2>
@@ -238,12 +238,12 @@ Those deeds that you
 believe to be 'salvation'
 are,<Delay 10> in reality<-->"<Close><End of Block>
 <TextBlock 37 w:40 h:4>
-Jessie
+Jesse
 "You've got a nerve,
 calling that other
 guy a chatterbox."<Close><End of Block>
 <TextBlock 38 w:40 h:4>
-Jessie
+Jesse
 "You haven't changed
 at all since then...<Delay 20>
 have you, Stein!?"<Close><End of Block>
@@ -261,7 +261,7 @@ flooding back to me.<New>
 You know what I mean,
 Jesiah?"<Close><End of Block>
 <TextBlock 41 w:40 h:4>
-Jessie
+Jesse
 "Heh, and your brain
 matter is still as
 messed up as ever.<New>
@@ -330,7 +330,7 @@ But fear not, Billy.<Delay 20>
 I shall cleanse you.<Delay 20>
 You'll live on within me.<Delay 20>
 You'll become one with
-me in death<Delay 10>...<Delay 10><Close><End of Block>
+me in death<Delay 10>..."<Delay 10><Close><End of Block>
 <TextBlock 48 w:16 h:2>
 Verlaine
 "What!?"<Close><End of Block>
@@ -338,14 +338,14 @@ Verlaine
 Verlaine
 "That's right<Delay 5>...<Delay 5>
 We are servants
-of the bishop.<New>
+of the Bishop.<New>
 Our mission is to pass
 judgment on fallen
 priests and sinners and
 make them repent."<Close><End of Block>
 <TextBlock 50 w:58 h:5>
 Verlaine
-"The pontiff and his
+"The Pontiff and his
 brethren deserve to die!<New>
 The desire to renounce their
 'duties of the Church' as
@@ -361,7 +361,7 @@ seem like charity.<New>
 But in truth the little boys
 and girls kept here were
 used as a means to satisfy
-the desires of the pontiff
+the desires of the Pontiff
 and bishops.<New>
 Indulging in selfish
 desires...<Delay 20> This is conduct
@@ -371,7 +371,7 @@ fit to be representatives
 of God. That is why we have
 purged them and made them
 atone for their sins.<New>
-These are the bishop's
+These are the Bishop's
 orders!"<Close><End of Block>
 <TextBlock 51 w:56 h:5>
 Verlaine
@@ -393,7 +393,7 @@ The Church used the two
 sweet fruits of 'faith'
 and 'technology' well,<New>
 skillfully manipulating
-surface world affairs
+surface-world affairs
 and the people's zeal.<New>
 Thus, the manipulated
 populace just repeated
@@ -433,7 +433,7 @@ Verlaine
 "That's right.<Delay 20>
 Daily you have been
 dirtying your hands
-as an accomplice<Delay 5>..."<Close><End of Block>
+as an accomplice<-->"<Close><End of Block>
 <TextBlock 53 w:32 h:2>
 Verlaine
 "Bi<Delay 20>...<Delay 5>lly<Delay 20>...<Delay 10>..."<Close><Close><End of Block>

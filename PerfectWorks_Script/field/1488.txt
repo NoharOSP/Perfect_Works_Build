@@ -48,7 +48,7 @@ to hell for the Lambs."<Close><End of Block>
 Don't you think you've
 said enough, Dominia?<Close><End of Block>
 <TextBlock 12 w:42 h:3>
-Jessie
+Jesse
 "Why are women
 so gossipy?<New>
 Jabbering on and on
@@ -144,8 +144,8 @@ Dominia
 "Huh...?"<Opcode 2 20><Close><End of Block>
 <TextBlock 32 w:40 h:3>
 Dominia
-"That child...
-Hey, you...<Delay 20><New>
+"That kid...<New>
+Hey, you...<Delay 20>
 Are you the daughter
 of Nikola...?"<Close><End of Block>
 <TextBlock 33 w:48 h:4>
@@ -157,7 +157,7 @@ he offered to undertake
 that difficult task..."<Close><End of Block>
 <TextBlock 34 w:38 h:4>
 Dominia
-"Hey, young girl.<Delay 20>
+"Hey, little girl.<Delay 20>
 Want to hear an
 interesting story?<New>
 Let's see...<Delay 20>
@@ -179,9 +179,9 @@ and human error when
 interfacing with a
 machine.<New>
 That's when your father,
-Nikola was targeted.<Delay 20>
+Nikola, was targeted.<Delay 20>
 He was a genius in the
-field of cranial nerve
+field of cranial-nerve
 mechanics.<New>
 They made Nikola search
 for a way for humans to
@@ -224,7 +224,7 @@ your father's great
 research.<Delay 20>
 <Seibzehn> is the
 prototype of a
-man-machine fusion Gear.<New>
+man-machine-fusion Gear.<New>
 In other words...
 <Seibzehn> was completed
 at the cost of innumerable
@@ -250,7 +250,7 @@ Hah hah hah...!"<Close><End of Block>
 Dominia
 "Who is it!?"<Opcode 2 50><Close><End of Block>
 <TextBlock 41 w:44 h:4>
-Jessie
+Jesse
 "Don't get so worked
 up.<Delay 30> It's not good for
 your figure, Dominia.<New>
@@ -258,7 +258,7 @@ We adults have our
 reasons.<Delay 20> But you kids
 wouldn't understand."<Close><End of Block>
 <TextBlock 42 w:48 h:4>
-Jessie
+Jesse
 "I think you've played
 with fire enough for
 today.<Delay 20> Just go home.<New>
@@ -268,7 +268,7 @@ one who can operate
 You should be well aware
 of that."<Close><End of Block>
 <TextBlock 43 w:48 h:4>
-Jessie
+Jesse
 "It looks like our
 guests have arrived.<Delay 20>
 Let's go upstairs.<New>
@@ -277,7 +277,7 @@ berthed at the dock.<Delay 20>
 I'm sure the other guys
 are all in a spin, too."<Close><End of Block>
 <TextBlock 44 w:28 h:4>
-Jessie
+Jesse
 "But I have
 a really bad
 feeling...<New>
@@ -378,9 +378,9 @@ your Gears later.<Close><End of Block>
 <TextBlock 56 w:50 h:5>
 It was amazing, I was so
 impressed!<Delay 20> As long as
-Maria and you're with us,
-we have the power of 1000
-Gears.<New>
+Maria and you are with
+us, we have the power of
+a thousand Gears.<New>
 We gave it our all to fix
 the Gears and the Yggdra!<Delay 20>
 At this rate, we can beat

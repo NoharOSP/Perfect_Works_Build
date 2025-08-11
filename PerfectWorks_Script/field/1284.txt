@@ -93,7 +93,7 @@ Billy
 for you.<New>
 I have received permission
 for Fei to be treated at
-the training hall medical
+the training-hall medical
 facility.<New>
 Let our Church staff
 take it from here."<Close><End of Block>
@@ -170,7 +170,7 @@ the cathedral and its
 related facilities.<New>
 The same applies to this
 training hall, but the
-bishop made an exception
+Bishop made an exception
 at Brother Billy's request.<Close><End of Block>
 <TextBlock 33 w:22 h:1>
 B-<Delay 20>Billy<Delay 10>...<Close><End of Block>

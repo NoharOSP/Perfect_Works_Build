@@ -1,14 +1,14 @@
 <TextBlock 1 w:48 h:4>
-Maison
+Mason
 "Thank you, Master Fei!!
 And please take care of
-my young master, Bart."<Close><End of Block>
+my Young Master, Bart."<Close><End of Block>
 <TextBlock 2 w:28 h:3>
-Maison
+Mason
 "Master Fei,
 please relax."<Close><End of Block>
 <TextBlock 3 w:12 h:2>
-Maison
+Mason
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 4 w:44 h:2>
 What?<Delay 10>
@@ -22,7 +22,7 @@ Kislev soldier.<New>
 I didn't like the way
 they did things in the army
 so they kicked me out.<New>
-The young master's got
+The Young Master's got
 lots of power and
 ambition, just like me.<Close><End of Block>
 <TextBlock 6 w:48 h:4>
@@ -308,21 +308,21 @@ a pirate dress-up kit!!<Close><End of Block>
 Wow!<Delay 10>
 Thanks, Dad!!<Close><End of Block>
 <TextBlock 70 w:54 h:3>
-Maison
+Mason
 "This is the dining hall.<Delay 10>
 I'm sorry it is so gauche."<Close><End of Block>
 <TextBlock 71 w:42 h:2>
-Maison
+Mason
 "Please take a seat."<Close><End of Block>
 <TextBlock 72 w:50 h:4>
-Maison
+Mason
 "Perhaps you would like
 some of my famous tea?<Delay 10>
 Master Fei?<Delay 10> Good Doctor?"<Close><End of Block>
 <TextBlock 73 w:50 h:4>
-Maison
+Mason
 "Young visitors are rare
-indeed; the young master
+indeed; the Young Master
 must be very happy.<New>
 If things were normal we
 wouldn't be living in the
@@ -334,10 +334,10 @@ Citan
 that young one is connected
 to the old Fatima dynasty?"<Close><End of Block>
 <TextBlock 75 w:18 h:2>
-Maison
+Mason
 "Pardon?"<Close><End of Block>
 <TextBlock 76 w:52 h:4>
-Maison
+Mason
 "N-<Delay 5>No...<Delay 10>
 I'm just a senile old fool
 who talks too much<Delay 5>...<New>
@@ -350,12 +350,12 @@ Citan
 youth does have a
 certain bearing."<Close><End of Block>
 <TextBlock 78 w:48 h:4>
-Maison
+Mason
 "Oh<Delay 5>...<Delay 5>oh<Delay 5>...<Delay 5>oh<Delay 5>...!<Delay 10>
 Well said, sir! Awfully
 good of you to notice!"<Close><End of Block>
 <TextBlock 79 w:52 h:3>
-Maison
+Mason
 "If I may...
 I would like to tell you.<New>
 The young gent is the last
@@ -365,7 +365,7 @@ which was overthrown by
 one Prime Minister
 Shakhan..."<Close><End of Block>
 <TextBlock 80 w:24 h:4>
-Maison
+Mason
 "Prince<Delay 10>
 Bartholomew<Delay 10>
 Fatima."<Close><End of Block>
@@ -378,7 +378,7 @@ ced that Bartholomew
 died of an illness
 twelve years ago<Delay 5>..."<Close><End of Block>
 <TextBlock 82 w:54 h:3>
-Maison
+Mason
 "Officially, yes.<New>
 However, in reality, we
 rescued the young Prince
@@ -389,14 +389,14 @@ Citan
 the rightful heir, resort
 to piracy?"<Close><End of Block>
 <TextBlock 84 w:12 h:2>
-Maison
+Mason
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 85 w:48 h:4>
-Maison
+Mason
 "Since fleeing to this
 land, we have had only
 one wish:<New>
-that the young master
+that the Young Master
 grow up to be a great
 man<Delay 5>..."<Close><End of Block>
 <TextBlock 86 w:40 h:3>
@@ -404,7 +404,7 @@ Citan
 "Rather than<Delay 10> reclaim
 the throne?"<Close><End of Block>
 <TextBlock 87 w:50 h:4>
-Maison
+Mason
 "That is correct.<New>
 Of course, to say we have
 absolutely no desire to
@@ -417,20 +417,20 @@ Citan
 "And part of those plans
 is piracy...?"<Close><End of Block>
 <TextBlock 89 w:42 h:4>
-Maison
+Mason
 "Well, yes<Delay 5>...<Delay 10> 
 But there is a reason
 for that<Delay 5>..."<Close><End of Block>
 <TextBlock 90 w:50 h:4>
-Maison
+Mason
 "Regardless of who gains
 the ruins' technology,
 one thing is certain...<New>
 Both Kislev and Av will
 simply use that power to
 oppress the other.<New>
-I agreed with the young
-master's idea of creating
+I agreed with the Young
+Master's idea of creating
 a new power to balance
 things out a little."<Close><End of Block>
 <TextBlock 91 w:50 h:4>
@@ -441,14 +441,14 @@ to plunder from the
 shadows, than to excavate
 the technology oneself."<Close><End of Block>
 <TextBlock 92 w:46 h:3>
-Maison
+Mason
 "Of course pillaging is
 an unpardonable act.<New>
 But<Delay 10> we cannot simply
 leave Av,<Delay 5> leave Ignis,<Delay 5>
 as it is<Delay 5>..."<Close><End of Block>
 <TextBlock 93 w:48 h:3>
-Maison
+Mason
 "I suppose it all sounds
 rather self-righteous?"<Close><End of Block>
 <TextBlock 94 w:52 h:4>
@@ -463,11 +463,11 @@ be good.<New>
 Seeing your children here
 tells me that."<Close><End of Block>
 <TextBlock 95 w:40 h:3>
-Maison
+Mason
 "I am much relieved 
 by your words."<Close><End of Block>
 <TextBlock 96 w:42 h:2>
-Maison
+Mason
 "Another cup of tea?"<Close><End of Block>
 <TextBlock 97 w:26 h:3>
 Citan
@@ -479,7 +479,7 @@ Citan
 plans. Why have you not
 put them into action?"<Close><End of Block>
 <TextBlock 99 w:38 h:4>
-Maison
+Mason
 "With Miss Margie
 imprisoned, we dare
 not do anything."<Close><End of Block>
@@ -489,19 +489,19 @@ Citan
 happen to be<Delay 10>
 Nisan's<Delay 5>...?"<Close><End of Block>
 <TextBlock 101 w:46 h:4>
-Maison
+Mason
 "You are well informed,
 my dear Doctor.<New>
-She is the Great Mother
+She is the Holy Mother
 Marguerite of Nisan<Delay 5>...<Delay 10>
-and the young master's
+and the Young Master's
 cousin, as well."<Close><End of Block>
 <TextBlock 102 w:36 h:3>
 Citan
 "Why would Shakhan
 take her captive?"<Close><End of Block>
 <TextBlock 103 w:52 h:2>
-Maison
+Mason
 "For the 'Fatima Jasper'!"<Close><End of Block>
 <TextBlock 104 w:46 h:4>
 Citan
@@ -509,7 +509,7 @@ Citan
 reveal the whereabouts
 of a great treasure?"<Close><End of Block>
 <TextBlock 105 w:50 h:4>
-Maison
+Mason
 "My, good Doctor!<Delay 10>
 You do know an awful lot.<Delay 10>
 I am most impressed."<Close><End of Block>
@@ -518,7 +518,7 @@ Fei
 "No<Delay 5>...<Delay 5>
 It's not that..."<Close><End of Block>
 <TextBlock 107 w:46 h:4>
-Maison
+Mason
 "Well, we have no idea
 what the great treasure
 actually is...<New>
@@ -532,10 +532,10 @@ Citan
 the Jasper that tells
 the location?"<Close><End of Block>
 <TextBlock 109 w:38 h:4>
-Maison
+Mason
 "Only half of it,
 to be precise.<New>
-The young master
+The Young Master
 and Miss Marguerite
 each have half.<New>
 Only by combining
@@ -551,7 +551,7 @@ of the Jasper, I
 imagine some kind
 of necklace<Delay 5>..."<Close><End of Block>
 <TextBlock 111 w:46 h:4>
-Maison
+Mason
 "Only the heirs to Av
 and Nisan know what it
 really looks like."<Close><End of Block>
@@ -574,7 +574,7 @@ the worst case.
 So please do not take
 it to heart<Delay 5>..."<Close><End of Block>
 <TextBlock 114 w:46 h:3>
-Maison
+Mason
 "No, let us face the
 facts."<Close><End of Block>
 <TextBlock 115 w:10 h:2>
@@ -586,7 +586,7 @@ Citan
 Just what is the 'great
 treasure', I wonder...?"<Close><End of Block>
 <TextBlock 117 w:52 h:3>
-Maison
+Mason
 "Well,<Delay 10>
 I haven't the foggiest<Delay 5>..."<Close><End of Block>
 <TextBlock 118 w:38 h:3>
@@ -594,7 +594,7 @@ It's a Gear, I tell
 you! A Gear!<Delay 10>
 It has to be!<Close><End of Block>
 <TextBlock 119 w:40 h:4>
-Maison
+Mason
 "Young Master<Delay 5>...<Delay 10>
 How goes the Gear
 maintenance?"<Close><End of Block>
@@ -650,7 +650,7 @@ interesting."<Close><End of Block>
 <TextBlock 129 w:2 h:1>
 !<Opcode 2 60><Close><End of Block>
 <TextBlock 130 w:48 h:3>
-Maison
+Mason
 "You do not like my tea,<Delay 10>
 Master Fei?"<Close><End of Block>
 <TextBlock 131 w:0 h:1>

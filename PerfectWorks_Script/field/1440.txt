@@ -40,8 +40,8 @@ Citan
 "Oh no..."<Opcode 2 40><Close><End of Block>
 <TextBlock 11 w:28 h:4>
 Citan
-"Fei...Fei! 
-Do you read!? 
+"Fei...Fei!
+Do you read!?
 Get out, now!"<Close><End of Block>
 <TextBlock 12 w:24 h:3>
 Citan
@@ -52,7 +52,7 @@ Citan
 "Whoa...!"<Close><End of Block>
 <TextBlock 14 w:48 h:4>
 Citan
-"Whew... That was close.<Delay 40>
+"Whew... So close.<Delay 40>
 It seems we did not get
 a direct hit."<Close><End of Block>
 <TextBlock 15 w:40 h:4>
@@ -76,13 +76,14 @@ we could think of."<Close><End of Block>
 Citan
 "Whew...
 That helped."<Close><End of Block>
-<TextBlock 19 w:42 h:3>
+<TextBlock 19 w:40 h:4>
 Citan
 "Billy,<Delay 30> we cannot
-hold out much longer.<New>
-If you miss this one,
-it's over. 
-Aim well."<Close><End of Block>
+hold out much longer
+here.<New>
+If you miss the next
+one, it is over.
+Please aim true."<Close><End of Block>
 <TextBlock 20 w:42 h:4>
 Citan
 "Billy, you did it...<Delay 40>

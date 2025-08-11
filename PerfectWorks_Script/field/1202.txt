@@ -103,8 +103,8 @@ Citan
 "We are inside the ship
 of Bart and his crew.<New>
 They rescued us after
-we were shot down in
-the Goliath."<Close><End of Block>
+the Goliath was shot
+down."<Close><End of Block>
 <TextBlock 22 w:42 h:3>
 Rico
 "Who the heck are

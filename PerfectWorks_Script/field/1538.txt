@@ -11,8 +11,8 @@ Margie
 "This country is gentle
 and quiet...<Delay 20>but I can
 sense the sorrow within.<New>
-A sad echo from long ago
-...way out there...<Delay 20>
+A sad echo from long
+ago...way out there...<Delay 20>
 What happened here 500
 years ago?"<Close><End of Block>
 <TextBlock 3 w:46 h:4>
@@ -24,7 +24,7 @@ Margie
 Margie
 "Okay.<Delay 20>
 Well, be careful!"<Close><End of Block>
-<TextBlock 5 w:48 h:3>
-Want to rest in the bed?<Delay 20>
+<TextBlock 5 w:44 h:3>
+Use the beds to rest?<Delay 20>
 <Opcode 1 255>    Sure!
     No thanks<Close><Close><End of Block>

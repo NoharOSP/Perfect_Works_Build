@@ -45,7 +45,7 @@ Bart
 "Heh,<Delay 5> yeah...<New>
 The Yggdrasil II was put
 together in a hurry and
-the depth charge setup
+the depth-charge setup
 isn't exactly great.<New>
 And, well, I guess it
 was my fault that prep
@@ -138,7 +138,7 @@ in the sky..."<Close><End of Block>
 Bart
 "Anyway, moving on,
 we should go say ahoy
-to the captain."<Close><End of Block>
+to the Captain."<Close><End of Block>
 <TextBlock 23 w:20 h:2>
 Fei
 "...Yeah."<Close><Close><End of Block>

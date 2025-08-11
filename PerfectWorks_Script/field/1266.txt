@@ -16,7 +16,7 @@ Elly
 something in
 the toilet.<New>
 (But there's no way
-I'm touching it)"<Close><End of Block>
+I'm touching it.)"<Close><End of Block>
 <TextBlock 6 w:46 h:1>
 Received a dirty prize!<Close><End of Block>
 <TextBlock 7 w:38 h:2>

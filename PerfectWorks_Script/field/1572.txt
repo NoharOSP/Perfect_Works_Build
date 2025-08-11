@@ -69,7 +69,7 @@ to reflect a big laser off
 a mirror...<Delay 10> Pretty stupid."<Close><End of Block>
 <TextBlock 19 w:48 h:4>
 Throne
-"Repetition<Delay 10>...<Delay 10>?
+"Repetition<--><Delay 10>?
 Eh...I think you mean
 the attenuation rate...?<New>
 Yes, within the

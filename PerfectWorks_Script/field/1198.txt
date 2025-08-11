@@ -373,9 +373,10 @@ our separate ways
 is difficult,<New>
 but dawn is almost
 upon us.<New>
-I did some work on
-the radar, so I think
-you will be fine!"<Close><End of Block>
+I have tampered with
+the radar a little,
+so I think you will
+slip away safely!"<Close><End of Block>
 <TextBlock 52 w:28 h:3>
 Citan
 "...Well, they

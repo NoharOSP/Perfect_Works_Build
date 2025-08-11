@@ -7,7 +7,7 @@ quickly.<New>
 The more commotion there
 is at the Tournament, the
 easier it will be for the
-young master to sneak in."<Close><End of Block>
+Young Master to sneak in."<Close><End of Block>
 <TextBlock 2 w:28 h:3>
 Myyah
 "My...what a
@@ -447,7 +447,7 @@ Oh, tourists, huh?
 Well let me tell you about
 the Tournament.<New>
 Every year they hold a big
-martial arts tournament 
+martial-arts tournament 
 here in Av.<New>
 Fighters from all over the
 world gather to see who's
@@ -605,7 +605,7 @@ Recently the fighters have
 been boring. It was better
 when the king was around.<Close><End of Block>
 <TextBlock 127 w:46 h:5>
-These martial arts
+These martial-arts
 tournaments are okay...
 But what if Gears, not
 people, fought it out?

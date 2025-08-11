@@ -19,10 +19,9 @@ Boy, you're
 persistent!"<Close><End of Block>
 <TextBlock 5 w:46 h:4>
 Fei
-"*huff,<Delay 10> huff*<Delay 10>.<Delay 10>.<Delay 10>.<Delay 10>
-Damn it!<New>
-How come...?<Delay 90> Why did it
-have to come to this?"<Close><End of Block>
+"<Opcode 14 1>*huff,<Delay 10> huff*<Delay 10>.<Delay 10>.<Delay 10>.<Delay 10>
+Damn it!<Delay 30> Why<--><Delay 10> How did
+it come to this...?"<Close><End of Block>
 <TextBlock 6 w:24 h:4>
 Citan
 "Fei!<Delay 30> Stop!<Delay 30>

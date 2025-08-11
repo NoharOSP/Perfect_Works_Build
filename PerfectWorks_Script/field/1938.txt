@@ -8,7 +8,7 @@ Fei
 Fei
 "This pendant...<New>
 Is this Sophia's...
-or my Mother's...?"<Close><End of Block>
+or my mother's...?"<Close><End of Block>
 <TextBlock 4 w:44 h:1>
 I'm begging you Fei...<Delay 100><Delay 100><Delay 100><Close><End of Block>
 <TextBlock 5 w:36 h:4>
@@ -251,7 +251,7 @@ Grahf
 Why don't you understand
 that your naivety is what
 killed Sophia, what killed
-your Mother, Karen?<Close><End of Block>
+your mother, Karen?<Close><End of Block>
 <TextBlock 50 w:54 h:4>
 Fei
 "I already know that!
@@ -631,7 +631,7 @@ lives she has lived as
 Myyah, and her substitutes,
 over the centuries.<New>
 And of course, that
-includes your Mother's
+includes your mother's
 memories too."<Close><End of Block>
 <TextBlock 93 w:26 h:3>
 Fei

@@ -129,7 +129,7 @@ hide the ship!"<Close><End of Block>
 <TextBlock 28 w:28 h:3>
 Bart
 "It's alright,
-Old Maison."<Close><End of Block>
+Old Mason."<Close><End of Block>
 <TextBlock 29 w:50 h:2>
 Bart
 "We'll go back to Nisan!"<Close><End of Block>
@@ -303,14 +303,14 @@ all about...?"<Close><End of Block>
 Old Man
 "Y-Young Master!!"<Opcode 2 96><Close><End of Block>
 <TextBlock 60 w:48 h:3>
-Maison
+Mason
 "Y-Young Master!
 The Gungnir missiles...<New>
 You need permission from
 more than half of the
 crew members to<-->"<Opcode 2 120><Close><End of Block>
 <TextBlock 61 w:36 h:3>
-Maison
+Mason
 "Y-Young Master!<Delay 16>
 What is happening?<New>
 What was the alarm
@@ -323,13 +323,13 @@ It may just be a
 requisitioned ship,
 not a warship..."<Close><End of Block>
 <TextBlock 63 w:42 h:3>
-Maison
+Mason
 "Y-Young Master!<New>
 I have an awfully bad
 feeling about this<Delay 5>...<Delay 10>
 Do be very careful!"<Close><End of Block>
 <TextBlock 64 w:52 h:4>
-Maison
+Mason
 "Y-Yes...Young Master...<New>
 I hear when they attacked
 they were routed by
@@ -337,7 +337,7 @@ Geburah, led by Ramsus.<New>
 We'd better withdraw for
 now and reconsider..."<Close><End of Block>
 <TextBlock 65 w:34 h:2>
-Maison
+Mason
 "Young Master..."<Close><End of Block>
 <TextBlock 66 w:36 h:3>
 Silver-Haired Man
@@ -387,7 +387,7 @@ instead!!"<Close><End of Block>
 Sigurd
 "Never mind that!
 The Yggdrasil is nothing
-without the young master!<New>
+without the Young Master!<New>
 Full power!!
 Maximum speed!!"<Close><End of Block>
 <TextBlock 78 w:32 h:3>

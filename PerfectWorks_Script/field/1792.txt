@@ -1,41 +1,41 @@
 <TextBlock 1 w:40 h:4>
-Jessie
+Jesse
 "What took you so
 long!?<Delay 5> I've only got
 so many bullets.<New>
 Hurry up and bomb
 this thing!"<Close><End of Block>
 <TextBlock 2 w:34 h:4>
-Jessie
+Jesse
 "...<Delay 32>
 So, what the hell
 were you doing?"<Close><End of Block>
 <TextBlock 3 w:50 h:4>
-Jessie
+Jesse
 "To the Emperor, huh...?
 You sure about all this,
 Hyuga...?"<Close><End of Block>
 <TextBlock 4 w:36 h:4>
-Jessie
+Jesse
 "...Yeessss!
 We're outta here!!<Delay 35>
 ...Huh!?"<Close><End of Block>
 <TextBlock 5 w:52 h:4>
-Jessie
+Jesse
 "Carl, you may be enemies,
 but why're you this
 obsessed with one kid!?<New>
 The old you wasn't
 like this!"<Close><End of Block>
 <TextBlock 6 w:52 h:3>
-Jessie
+Jesse
 "H-Hey. Let's move!<New>
 I don't know what that was
 all about, but we don't
 have time to stand around
 listening to him!"<Close><End of Block>
 <TextBlock 7 w:18 h:2>
-Jessie
+Jesse
 "Hyuga!!"<Close><End of Block>
 <TextBlock 8 w:30 h:4>
 Citan

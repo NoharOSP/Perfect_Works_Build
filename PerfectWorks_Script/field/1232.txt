@@ -68,11 +68,11 @@ on my mom?"<Close><End of Block>
 <TextBlock 14 w:34 h:2>
 Kanna
 "What about Dad?"<Close><End of Block>
-<TextBlock 15 w:50 h:4>
+<TextBlock 15 w:48 h:4>
 Doctor
 "...<Delay 15>I don't know.<Delay 10>
-But for now, while he's
-on life support<Delay 10>...<Delay 10>..."<Close><End of Block>
+But for now, as long as
+he's on life support<Delay 10>..."<Close><End of Block>
 <TextBlock 16 w:46 h:3>
 Citan
 "...<Delay 20>You mean...<Delay 5>

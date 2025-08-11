@@ -1,6 +1,6 @@
 <TextBlock 1 w:32 h:4>
 Verlaine
-"Hahahm, Billy.
+"Hahaha, Billy.
 How is your
 beloved father?"<Close><End of Block>
 <TextBlock 2 w:54 h:4>
@@ -9,22 +9,22 @@ Verlaine
 people not associated with
 the Church."<Close><End of Block>
 <TextBlock 3 w:48 h:4>
-This is the pontiff's
+This is the Pontiff's
 room. The general public
 is not allowed in here.
 Please leave.<Close><End of Block>
 <TextBlock 4 w:48 h:4>
-This is the pontiff's
+This is the Pontiff's
 room. The general public
 is not allowed in here.
 Please leave.<Close><End of Block>
 <TextBlock 5 w:50 h:3>
-The bishop's been worried
+The Bishop's been worried
 about Verus, refugees,
 Etones, the faith...<Close><End of Block>
 <TextBlock 6 w:52 h:3>
-(<Delay 10>...Too many Verus are out 
-there now. More than we 
+(<Delay 10>...Too many Verus are out
+there now. More than we
 can handle...<New>
 What are 'they' thinking?)<Close><End of Block>
 <TextBlock 7 w:32 h:1>

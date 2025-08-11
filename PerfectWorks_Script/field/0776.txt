@@ -133,7 +133,7 @@ home, propose to my girl
 and start a new job.<Close><End of Block>
 <TextBlock 26 w:38 h:2>
 Hey, aren't you the
-young master?<Close><End of Block>
+Young Master?<Close><End of Block>
 <TextBlock 27 w:8 h:1>
 Hey!<Close><End of Block>
 <TextBlock 28 w:8 h:1>
@@ -156,7 +156,7 @@ Bart
 "Yeah.
 Fei and Citan."<Close><End of Block>
 <TextBlock 34 w:54 h:2>
-Friends of the young master
+Friends of the Young Master
 are friends of ours.<New>
 Take your time and
 look around.<Close><End of Block>

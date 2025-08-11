@@ -11,7 +11,7 @@ Dad's bell makes such
 a pretty sound!<Close><End of Block>
 <TextBlock 5 w:52 h:4>
 Sounds good, huh?<Delay 10>
-My Dad gave me this bell
+My dad gave me this bell
 so I would never get lost.<New>
 But my dad has no sense of
 direction and gets lost a
@@ -33,10 +33,9 @@ Where is he?<Close><End of Block>
 <TextBlock 7 w:10 h:2>
 Rico
 "..."<Close><End of Block>
-<TextBlock 8 w:32 h:3>
-(Oh no!<Delay 10> 
-That wasn't...
-his father...!?)<Close><End of Block>
+<TextBlock 8 w:36 h:2>
+Mister?<Delay 10> 
+Did you meet my...<Close><End of Block>
 <TextBlock 9 w:52 h:4>
 Rico
 "Listen, son! Your father
@@ -48,13 +47,12 @@ He said we would go away
 and live by ourselves...<Delay 10>
 just the two of us...<New>
 I've waited...<Delay 10>so long...<Delay 10>
-Oh, Daddy...<Delay 10>why?<Delay 10>
-Boo-hoo-hoo!<Close><End of Block>
+*sob,<Delay 10> sob*...<Close><End of Block>
 <TextBlock 11 w:44 h:3>
-*sob,<Delay 10> sob*...<Delay 10>
+*sniff,<Delay 10> sniffle*...<Delay 10>
 But...<Delay 10>thanks.<New>
-Thanks for bringing<Delay 10>  
-Dad's bell back.<Delay 10>
+You've<Delay 10> held on to
+Dad's bell for me.<Delay 10>
 It'll cheer me up...!!<Close><End of Block>
 <TextBlock 12 w:46 h:2>
 As thanks I'll give you

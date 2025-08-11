@@ -54,7 +54,7 @@ The fleet review
 is starting soon.<Close><End of Block>
 <TextBlock 11 w:48 h:4>
 'Success of the Imperial
-Gate Removal Plan'...<Delay 10>
+Gate-Removal Plan'...<Delay 10>
 It was the will of
 the Emperor.<Close><End of Block>
 <TextBlock 12 w:48 h:4>
@@ -287,8 +287,8 @@ Elly
 "This is no ordinary
 festival.<New>
 The citizens are clearly
-disturbed by the Gate's
-disappearance.<New>
+disturbed by the Gates
+being wiped out.<New>
 The review is probably
 something to quell the
 unrest of the masses.<New>

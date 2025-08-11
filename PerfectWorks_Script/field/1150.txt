@@ -81,7 +81,7 @@ Myyah
 "We can't, Commander!
 We don't have orders 
 from the Capital yet.<New>
-If we move from here..."<Close><End of Block>
+If we move from here<-->"<Close><End of Block>
 <TextBlock 19 w:36 h:4>
 Ramsus
 "I don't care!
