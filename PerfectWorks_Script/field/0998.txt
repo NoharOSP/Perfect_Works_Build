@@ -782,7 +782,7 @@ The former Champion may be
 <TextBlock 140 w:54 h:14>
 <Opcode 1 255>- Mystery Sewer Homicides -
 This morning another
-mysterious homocide victim
+mysterious homicide victim
 was found in the D Block
 sewers. It is thought the
 victim entered the sewers

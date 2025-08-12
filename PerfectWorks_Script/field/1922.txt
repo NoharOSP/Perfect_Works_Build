@@ -115,7 +115,7 @@ That is what you are now!<Close><End of Block>
 Him? 
 You mean Father?<Close><End of Block>
 <TextBlock 31 w:40 h:2>
-You call him father?<New>
+You call him Father?<New>
 He who never did
 anything for you?<Close><End of Block>
 <TextBlock 32 w:42 h:2>
@@ -125,7 +125,7 @@ If only he had been
 able to protect me<Delay 5>...<Close><End of Block>
 <TextBlock 33 w:56 h:2>
 If he had done that<Delay 5>...<Delay 10>
-mother wouldn't have died<Delay 5>...<Close><End of Block>
+Mother wouldn't have died<Delay 5>...<Close><End of Block>
 <TextBlock 34 w:46 h:2>
 Didn't my mother die
 right after I was born?<New>

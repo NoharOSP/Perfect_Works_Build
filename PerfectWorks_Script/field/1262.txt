@@ -24,7 +24,7 @@ He must have gotten lost
 on the way...<Delay 10>
 He's so silly!<Close><End of Block>
 <TextBlock 6 w:48 h:3>
-What?<Delay 10> 
+What?<Delay 10>
 That bell...<Delay 10>
 How did you get that?<New>
 Hey, you didn't happen
@@ -33,9 +33,9 @@ Where is he?<Close><End of Block>
 <TextBlock 7 w:10 h:2>
 Rico
 "..."<Close><End of Block>
-<TextBlock 8 w:36 h:2>
-Mister?<Delay 10> 
-Did you meet my...<Close><End of Block>
+<TextBlock 8 w:34 h:2>
+Mister?<Delay 10>
+Did you meet my<--><Close><End of Block>
 <TextBlock 9 w:52 h:4>
 Rico
 "Listen, son! Your father

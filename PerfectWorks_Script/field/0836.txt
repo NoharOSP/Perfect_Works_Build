@@ -71,14 +71,14 @@ you two to meet.<Close><End of Block>
 This is my wife.<Close><End of Block>
 <TextBlock 21 w:36 h:2>
 Nice to meet you. <Delay 30>
-Father, mother.<Close><End of Block>
+Father, Mother.<Close><End of Block>
 <TextBlock 22 w:18 h:1>
 My son...<Opcode 2 50><Close><End of Block>
 <TextBlock 23 w:26 h:1>
 And daughter.<Close><End of Block>
 <TextBlock 24 w:36 h:2>
-Hello gran'ma and 
-gran'pa.<Close><End of Block>
+Hello Gran'ma and 
+Gran'pa.<Close><End of Block>
 <TextBlock 25 w:16 h:1>
 Hello...<Close><End of Block>
 <TextBlock 26 w:24 h:2>

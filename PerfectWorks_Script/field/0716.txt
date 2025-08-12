@@ -99,7 +99,7 @@ for battle has not been
 tamed, I see."<Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Man in Black
-"My name is <Delay 10>Grahf.<Delay 10>
+"I am <Delay 10>Grahf.<Delay 10>
 The Seeker of Power.<New>
 You certainly showed how
 much power you had back

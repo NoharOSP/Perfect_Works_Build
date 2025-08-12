@@ -27,7 +27,7 @@ to do her portrait<Delay 5>..."<Close><End of Block>
 Rene
 "Sophia<Delay 5>...<Delay 5> You mean your
 childhood friend who's now
-the Holy Mother of Nisan?"<Close><End of Block>
+Nisan's Sacred Mother?"<Close><End of Block>
 <TextBlock 6 w:50 h:4>
 Lacan
 "She's not really a
@@ -92,7 +92,7 @@ Karellen
 "Ah,<Delay 5> yeah<Delay 5>..."<Close><End of Block>
 <TextBlock 18 w:36 h:4>
 Roni
-"The Holy Mother
+"The Sacred Mother
 of Nisan,<Delay 5> huh?<New>
 What, are you out
 to offend divine
