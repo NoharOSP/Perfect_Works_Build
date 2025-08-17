@@ -1329,83 +1329,91 @@ void monsterEdits(std::string file) {
 	trimfile.erase(0, 5);
 	int fileNum = 0;
 	if (trimfile[0] == '2') {
-		fileNum = std::stoi(trimfile);
-	}
-	else {
-		return;
-	}
-	if (fileNum < 2618 && fileNum > 2768) {
-		return;
-	}
-	else {
-		// Open file
-		std::fstream fileContents;
-		fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
-		wchar_t buffer;
-		buffer = 0;
-		// Set length using first two bytes of a monster file
-		fileContents.seekp(0, std::ios_base::beg);
-		fileContents.read(reinterpret_cast<char*>(&buffer), 2);
-		int length = buffer;
-		// Iterate through each monster
-		for (int i = 126; i < length; i = i + 368) {
-			// Read HP
-			fileContents.seekp(i, std::ios_base::beg);
-			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
-			uint64_t hp = buffer;
-			// Read max HP
-			int nextpos = i + 2;
-			fileContents.seekp(nextpos, std::ios_base::beg);
-			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
-			uint64_t mhp = buffer;
-			bool gear;
-			// Check if the monster is a gear
-			if (hp == 0 || mhp == 0) {
-				gear = true;
+		if (trimfile[1] == '6' || trimfile[1] == '7') {
+			if (trimfile[4] != '.') {
+				fileNum = std::stoi(trimfile);
+				if (fileNum < 2618) {
+					return;
+				}
 			}
 			else {
-				gear = false;
-			}
-			// Establish an array which determines the position i jumps to
-			int data[4];
-			if (gear) {
-				data[0] = 0xb8;
-				data[1] = 0xbc;
-				data[2] = 0x100;
-				data[3] = 0x10a;
-			}
-			else {
-				data[0] = 0;
-				data[1] = 2;
-				data[2] = 0x100;
-				data[3] = 0x10a;
-			}
-			if (p_exp) {
-				// Find experience
-				nextpos = i + data[2];
-				fileContents.seekp(nextpos, std::ios_base::beg);
-				fileContents.read(reinterpret_cast<char*>(&buffer), 4);
-				uint64_t exp = buffer;
-				exp = exp * 1.5;
-				nextpos = i + data[2];
-				fileContents.seekp(nextpos, std::ios_base::beg);
-				fileContents.write(reinterpret_cast<char*>(&exp), 4);
-			}
-			if (p_gold) {
-				// Find gold
-				nextpos = i + data[3];
-				fileContents.seekp(nextpos, std::ios_base::beg);
-				fileContents.read(reinterpret_cast<char*>(&buffer), 2);
-				uint64_t gold = buffer;
-				gold = gold * 1.5;
-				nextpos = i + data[3];
-				fileContents.seekp(nextpos, std::ios_base::beg);
-				fileContents.write(reinterpret_cast<char*>(&gold), 2);
+				return;
 			}
 		}
-		// Close file
-		fileContents.close();
+		else {
+			return;
+		}
 	}
+	else {
+		return;
+	}
+	// Open file
+	std::fstream fileContents;
+	fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
+	wchar_t buffer;
+	buffer = 0;
+	// Set length using first two bytes of a monster file
+	fileContents.seekp(0, std::ios_base::beg);
+	fileContents.read(reinterpret_cast<char*>(&buffer), 2);
+	int length = buffer;
+	// Iterate through each monster
+	for (int i = 126; i < length; i = i + 368) {
+		// Read HP
+		fileContents.seekp(i, std::ios_base::beg);
+		fileContents.read(reinterpret_cast<char*>(&buffer), 2);
+		uint64_t hp = buffer;
+		// Read max HP
+		int nextpos = i + 2;
+		fileContents.seekp(nextpos, std::ios_base::beg);
+		fileContents.read(reinterpret_cast<char*>(&buffer), 2);
+		uint64_t mhp = buffer;
+		bool gear;
+		// Check if the monster is a gear
+		if (hp == 0 || mhp == 0) {
+			gear = true;
+		}
+		else {
+			gear = false;
+		}
+		// Establish an array which determines the position i jumps to
+		int data[4];
+		if (gear) {
+			data[0] = 0xb8;
+			data[1] = 0xbc;
+			data[2] = 0x100;
+			data[3] = 0x10a;
+		}
+		else {
+			data[0] = 0;
+			data[1] = 2;
+			data[2] = 0x100;
+			data[3] = 0x10a;
+		}
+		if (p_exp) {
+			// Find experience
+			nextpos = i + data[2];
+			fileContents.seekp(nextpos, std::ios_base::beg);
+			fileContents.read(reinterpret_cast<char*>(&buffer), 4);
+			uint64_t exp = buffer;
+			exp = exp * 1.5;
+			nextpos = i + data[2];
+			fileContents.seekp(nextpos, std::ios_base::beg);
+			fileContents.write(reinterpret_cast<char*>(&exp), 4);
+		}
+		if (p_gold) {
+			// Find gold
+			nextpos = i + data[3];
+			fileContents.seekp(nextpos, std::ios_base::beg);
+			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
+			uint64_t gold = buffer;
+			gold = gold * 1.5;
+			nextpos = i + data[3];
+			fileContents.seekp(nextpos, std::ios_base::beg);
+			fileContents.write(reinterpret_cast<char*>(&gold), 2);
+		}
+	}
+	// Close file
+	fileContents.close();
 }
 
 
