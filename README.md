@@ -54,7 +54,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - Gear Deathblows have been buffed and granted effects. Details are in the wiki.
 - Softsubs are now supported.
 - Jessie has been renamed to Jesse.
-- Maison has been renamed to Maison.
+- Maison has been renamed to Mason.
 
 [Details about previous releases can be found here.](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Version-History)
 
