@@ -123,7 +123,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - ChrisGLink: Translation
 - linnaealyn: Testing, FMV font
 - [An Eye for the Infinite](http://moonreading.lunarpages.com/xeno/): Translation
-- [Almagest] (http://almagest712.blogspot.com/2017/11/xenogears-my-father-you-mean-my-dad.html): Translation
+- [Almagest](http://almagest712.blogspot.com/2017/11/xenogears-my-father-you-mean-my-dad.html): Translation
 - cactusmomma: Translation
 - ividyon: Translation
 - CosmicFrame: Testing
