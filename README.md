@@ -33,7 +33,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - Gear Deathblows have been buffed and granted effects. Details are in the wiki.
 - Softsubs are now supported.
 - E Circuits have been named Eth Circuits.
-- Shahkan's speech has been reverted back to using <New> tags so the player can advance at their own will.
+- Shakhan's speech has been reverted back to using <New> tags so the player can advance at their own will.
 - Weaken and Wither Deathblows now function correctly.
 - Sky Attack now adds Wind to attacks as intended as opposed to inflicting an Earth weakness.
 - Ukigumo and Amaoto now boost attack as intended.
@@ -46,7 +46,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - Everything up to entering Mahanon has been updated.
 - Escape Ignis' chapter name has been fixed.
 - It is clearer in specific battles who the speaker is.
-- 1.5x experience and 1.5 gold are now separate features.
+- 1.5x experience and 1.5x gold are now separate features.
 - The name "Aerods" has been changed to "AERODs".
 - Throne and Seraphita's dialogue in battle no longer identifies them as the enemy text box already specifies who is speaking.
 - Deathscythe is now one word.
