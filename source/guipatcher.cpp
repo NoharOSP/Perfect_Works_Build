@@ -103,7 +103,7 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 	hInst = hInstance; // Store instance handle in our global variable
 
 	HWND hWnd = CreateWindowW(szWindowClass, szTitle, WS_SYSMENU | WS_MINIMIZEBOX,
-		CW_USEDEFAULT, 0, CW_USEDEFAULT, 0, nullptr, nullptr, hInstance, nullptr);
+		CW_USEDEFAULT, 0, 800, 600, nullptr, nullptr, hInstance, nullptr);
 
 	// Find USEDDEFAULT value
 
@@ -878,14 +878,14 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		GetClientRect(hWnd, &rcWindow);
 		RECT rc1, rc2;
 		rc1, rc2 = rcWindow;
-		rc1.top = winY / 50;
+		rc1.top = winY * 0.025;
 		rc1.left = winX / 50;
 		rc1.right = winX - (rc1.left * 2);
 		rc1.bottom = winY * 0.325;
-		rc2.top = winY * 0.34;
+		rc2.top = winY * 0.375;
 		rc2.left = rc1.left;
 		rc2.right = rc1.right;
-		rc2.bottom = winY * 0.735;
+		rc2.bottom = winY * 0.80;
 		Rectangle(hdc, rc1.left, rc1.top, rc1.right, rc1.bottom);
 		Rectangle(hdc, rc2.left, rc2.top, rc2.right, rc2.bottom);
 		log_file << "Draw upper rectangle." << std::endl;
@@ -1267,24 +1267,24 @@ void initialiseGlobalWindows(HWND hWnd) {
 	cd2path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.15), 500, 25, hWnd, NULL, hInst, NULL);
 	browsebutton1 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.05), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
 	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.15), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
-	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.75), 70, 25, hWnd, (HMENU)104, hInst, NULL);
+	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.85), 70, 25, hWnd, (HMENU)104, hInst, NULL);
 	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.25), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
-	encounters = CreateWindow(L"BUTTON", L"1/2 encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.40), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
-	portraits = CreateWindow(L"BUTTON", L"Resized portraits", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.40), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
-	graphics = CreateWindow(L"BUTTON", L"Graphical fixes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.47), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
-	experience = CreateWindow(L"BUTTON", L"1.5x exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	gold = CreateWindow(L"BUTTON", L"1.5x gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.54), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.61), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
-	normalarena = CreateWindow(L"BUTTON", L"Normal", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.40), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	basicarena = CreateWindow(L"BUTTON", L"Basic mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	expertarena = CreateWindow(L"BUTTON", L"Expert mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.54), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	fmvs = CreateWindow(L"BUTTON", L"FMV undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.40), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
-	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.40), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
-	voice = CreateWindow(L"BUTTON", L"Battle undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.47), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
-	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.47), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.68), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
-	storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * smx), (int)(winY * 0.40), 85, 25, hWnd, (HMENU)9002, hInst, NULL);
-	flashes = CreateWindow(L"BUTTON", L"No battle flashes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.54), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	encounters = CreateWindow(L"BUTTON", L"1/2 encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.45), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
+	portraits = CreateWindow(L"BUTTON", L"Resized portraits", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.45), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	graphics = CreateWindow(L"BUTTON", L"Graphical fixes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.52), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	experience = CreateWindow(L"BUTTON", L"1.5x exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.52), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	gold = CreateWindow(L"BUTTON", L"1.5x gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.59), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.66), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
+	normalarena = CreateWindow(L"BUTTON", L"Normal", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	basicarena = CreateWindow(L"BUTTON", L"Basic mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.52), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	expertarena = CreateWindow(L"BUTTON", L"Expert mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.59), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	fmvs = CreateWindow(L"BUTTON", L"FMV undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.45), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.45), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
+	voice = CreateWindow(L"BUTTON", L"Battle undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.52), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
+	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.52), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.73), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
+	storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * smx), (int)(winY * 0.45), 85, 25, hWnd, (HMENU)9002, hInst, NULL);
+	flashes = CreateWindow(L"BUTTON", L"No battle flashes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.59), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
 // Define font for global windows
@@ -1304,12 +1304,12 @@ void drawGUIText() {
 	swprintf_s(storytext, 256, L"Story:    ");
 	swprintf_s(audiotext, 256, L"Audio:    ");
 	swprintf_s(modestext, 256, L"Modes:    ");
-	TextOut(hdc, winX * graphicsx, winY * 0.35, graphicstext, wcslen(graphicstext));
-	TextOut(hdc, winX * gameplayx, winY * 0.35, gameplaytext, wcslen(gameplaytext));
-	TextOut(hdc, winX * arenax, winY * 0.35, arenatext, wcslen(arenatext));
-	TextOut(hdc, winX * storyx, winY * 0.35, storytext, wcslen(storytext));
-	TextOut(hdc, winX * audiox, winY * 0.35, audiotext, wcslen(audiotext));
-	TextOut(hdc, winX * smx, winY * 0.35, modestext, wcslen(modestext));
+	TextOut(hdc, winX * graphicsx, winY * 0.40, graphicstext, wcslen(graphicstext));
+	TextOut(hdc, winX * gameplayx, winY * 0.40, gameplaytext, wcslen(gameplaytext));
+	TextOut(hdc, winX * arenax, winY * 0.40, arenatext, wcslen(arenatext));
+	TextOut(hdc, winX * storyx, winY * 0.40, storytext, wcslen(storytext));
+	TextOut(hdc, winX * audiox, winY * 0.40, audiotext, wcslen(audiotext));
+	TextOut(hdc, winX * smx, winY * 0.40, modestext, wcslen(modestext));
 
 }
 
@@ -1723,18 +1723,18 @@ bool applyPatch(int discNum) {
 		batch_file2.open("commands2.cmd", std::ios::trunc);
 		if (discNum == 1) {
 			if (p_fastold || p_fastnew) {
-				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\executable\\fast\\disc1\\SLUS_006.64" << std::endl;
+				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\fast\\disc1\\SLUS_006.64" << std::endl;
 			}
 			else {
-				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\executable\\non_fast\\disc1\\SLUS_006.64" << std::endl;
+				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\non_fast\\disc1\\SLUS_006.64" << std::endl;
 			}
 		}
 		if (discNum == 2) {
 			if (p_fastold || p_fastnew) {
-				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\executable\\fast\\disc2\\SLUS_006.69" << std::endl;
+				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\fast\\disc2\\SLUS_006.69" << std::endl;
 			}
 			else {
-				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\executable\\non_fast\\disc2\\SLUS_006.69" << std::endl;
+				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\non_fast\\disc2\\SLUS_006.69" << std::endl;
 			}
 		}
 		batch_file2.close();
