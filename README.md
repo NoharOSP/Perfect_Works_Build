@@ -13,7 +13,7 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 ## Completion stats:
 
 - Name/terminology changes: 100%
-- Main script: 85% (entering Mahanon)
+- Main script: 82% (entering Mahanon)
 - NPC script: Not done (except for name/terminology changes)
 
 ## Introduction:
