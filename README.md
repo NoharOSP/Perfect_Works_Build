@@ -30,6 +30,8 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 08/17/2025
 
+- Gear Deathblows have been buffed and granted effects. Details are in the wiki.
+- Softsubs are now supported.
 - E Circuits have been named Eth Circuits.
 - Shahkan's speech has been reverted back to using <New> tags so the player can advance at their own will.
 - Weaken and Wither Deathblows now function correctly.
@@ -51,8 +53,6 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - Elly's damage drop text has been changed to sound less misleading.
 - Deathblow names have been restored through a fake VWF.
 - Billy's guns have been reformatted in the menu to match the script.
-- Gear Deathblows have been buffed and granted effects. Details are in the wiki.
-- Softsubs are now supported.
 - Jessie has been renamed to Jesse.
 - Maison has been renamed to Mason.
 
