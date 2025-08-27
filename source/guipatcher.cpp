@@ -1669,24 +1669,24 @@ bool applyPatch(int discNum) {
 				batch_file << "copy \"" + fileName + "\" backup.bin \n" << std::endl;
 				batch_file << "del \"" + fileName + "\" \n" << std::endl;
 				log_file << "Write command for xdelta to apply the FMV patches." << std::endl;
-				batch_file << "xdelta3-3.0.11-i686.exe -d  -s backup.bin patches\\" + patchName + " \"" + fileName + "\" \n" << std::endl;
+				batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s backup.bin patches\\" + patchName + " \"" + fileName + "\" \n" << std::endl;
 				if (discNum == 1) {
-					batch_file << "Insert_log_file.exe " + fileName + " xenocd1_softmod_files_extended.txt -new" << std::endl;
+					batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd1_softmod_files_extended.txt -new" << std::endl;
 				}
 				if (discNum == 2) {
-					batch_file << "Insert_log_file.exe " + fileName + " xenocd2_softmod_files_extended.txt -new" << std::endl;
+					batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd2_softmod_files_extended.txt -new" << std::endl;
 				}
 			}
 			else {
 				// Apply patches
 				log_file << "Write command for xdelta to apply the FMV patches." << std::endl;
 				changed = true;
-				batch_file << "xdelta3-3.0.11-i686.exe -d  -s \"" + oldPath + "\" patches\\" + patchName + " \"" + fileName + "\" \n" << std::endl;
+				batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s \"" + oldPath + "\" patches\\" + patchName + " \"" + fileName + "\" \n" << std::endl;
 				if (discNum == 1) {
-					batch_file << "Insert_log_file.exe " + fileName + " xenocd1_softmod_files_extended.txt -new" << std::endl;
+					batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd1_softmod_files_extended.txt -new" << std::endl;
 				}
 				if (discNum == 2) {
-					batch_file << "Insert_log_file.exe " + fileName + " xenocd2_softmod_files_extended.txt -new" << std::endl;
+					batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd2_softmod_files_extended.txt -new" << std::endl;
 				}
 				patched = true;
 			}
@@ -1714,7 +1714,7 @@ bool applyPatch(int discNum) {
 	log_file << "Execute xenoiso." << std::endl;
 	try {
 		// Detect errors with xenoiso
-		int batch_exit_code = system("cmd.exe /c xenoiso list.txt -d");
+		int batch_exit_code = system("cmd.exe /c Tools\\xenoiso list.txt -d");
 	}
 	catch (const std::system_error& error) {
 		// Catch errors when opening xenoiso
@@ -1731,18 +1731,18 @@ bool applyPatch(int discNum) {
 		batch_file2.open("commands2.cmd", std::ios::trunc);
 		if (discNum == 1) {
 			if (p_fastold || p_fastnew) {
-				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\fast\\disc1\\SLUS_006.64" << std::endl;
+				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\fast\\disc1\\SLUS_006.64" << std::endl;
 			}
 			else {
-				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\non_fast\\disc1\\SLUS_006.64" << std::endl;
+				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\non_fast\\disc1\\SLUS_006.64" << std::endl;
 			}
 		}
 		if (discNum == 2) {
 			if (p_fastold || p_fastnew) {
-				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\fast\\disc2\\SLUS_006.69" << std::endl;
+				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\fast\\disc2\\SLUS_006.69" << std::endl;
 			}
 			else {
-				batch_file2 << "Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\non_fast\\disc2\\SLUS_006.69" << std::endl;
+				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\non_fast\\disc2\\SLUS_006.69" << std::endl;
 			}
 		}
 		batch_file2.close();
