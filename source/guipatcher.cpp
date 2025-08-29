@@ -497,7 +497,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 				if (p_exp) {
 					// Check if story mode hasn't been ticked
-					if (!p_story_mode) {
+					if (!p_story_mode && !p_monsters) {
 						if (pathFound1) {
 							log_file << "Disc 1 1.5x exp directory found." << std::endl;
 							expName1 = "og_monsters";
@@ -510,7 +510,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 				if (p_gold) {
 					// Check if story mode hasn't been ticked
-					if (!p_story_mode) {
+					if (!p_story_mode && !p_monsters) {
 						if (pathFound1) {
 							log_file << "Disc 1 1.5x gold directory found." << std::endl;
 							goldName1 = "og_monsters";
