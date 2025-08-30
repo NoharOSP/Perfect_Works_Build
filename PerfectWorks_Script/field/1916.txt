@@ -1,103 +1,114 @@
-<TextBlock 1 w:36 h:3>
+<TextBlock 1 w:32 h:3>
 Bart
-"Damn!
-We were so close!"<Close><End of Block>
-<TextBlock 2 w:42 h:2>
+"Damn! But we're
+so close!"<Close><End of Block>
+<TextBlock 2 w:34 h:3>
 Billy
-"So near and yet...!"<Close><End of Block>
-<TextBlock 3 w:26 h:3>
+"Right when we're
+so close...!"<Close><End of Block>
+<TextBlock 3 w:36 h:3>
 Rico
-"Dammit!
-So close...!"<Close><End of Block>
-<TextBlock 4 w:36 h:2>
+"Dammit! But we're
+so close...!"<Close><End of Block>
+<TextBlock 4 w:40 h:2>
 Emeralda
-"Oh, so close...!"<Close><End of Block>
-<TextBlock 5 w:42 h:3>
+"But...so close...!"<Close><End of Block>
+<TextBlock 5 w:30 h:3>
 <Chu-Chu>
-"Chu bad!
-We were so close...!"<Close><End of Block>
-<TextBlock 6 w:44 h:2>
+"When we're so
+close, chu...!"<Close><End of Block>
+<TextBlock 6 w:48 h:2>
 Maria
-"We were so close...!"<Close><End of Block>
-<TextBlock 7 w:44 h:4>
-We came to an enormous
-cavern that was big
-enough to swallow the
-whole capital of Av.<Close><End of Block>
-<TextBlock 8 w:46 h:2>
-In its center were two
-gently glowing objects.<Close><End of Block>
-<TextBlock 9 w:46 h:3>
-It was the source
-of divine wisdom<Delay 5>...<Delay 5>
-It was <Delay 10>'Raziel's Tree'.<Close><End of Block>
+"But we're so close...!"<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+The place we arrived at
+was a vast cavern <-->
+large enough to contain
+the Royal Capital of Av.<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+In its center was
+a pair of faintly
+shining objects.<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+There could be no
+doubt this was the
+source of God's
+wisdom <--><Delay 10> Raziel's Tree.<Close><End of Block>
 <TextBlock 10 w:42 h:3>
 And the cavern itself
-was a giant computer
+was a mega-computer
 called Raziel.<Close><End of Block>
-<TextBlock 11 w:52 h:4>
-The wisdom of god,<Delay 5>
-hidden within Raziel<Delay 5>...<Delay 5>
-We found the unthinkable
-when we accessed its data.<Close><End of Block>
-<TextBlock 12 w:54 h:7>
-A large unmanned strategic
-weapon and its battalion of
-terminal interface weapons,
-travelling from star system
-to star system.<Delay 5>
-And a gargantuan mothership
-used to carry them<Delay 5>...<Close><End of Block>
-<TextBlock 13 w:50 h:7>
+<TextBlock 11 w:46 h:4>
+The wisdom of God,<Delay 5>
+hidden within Raziel...<New>
+When we accessed its
+data, we learned the
+extraordinary things
+recorded there.<Close><End of Block>
+<TextBlock 12 w:52 h:5>
+Wandering from star system
+to star system, an array
+comprising a large-scale,
+unmanned strategic weapon
+and its terminal weapons.<New>
+And the gargantuan
+mother ship the size
+of a peninsula, used for
+their transportation...<Close><End of Block>
+<TextBlock 13 w:46 h:7>
 The creation of the
--Malakh- angel<Delay 5>...<Delay 5>
-God's army to reign over
-the vast universe with<Delay 5>...<Delay 5>
- <Delay 20>
-And the construction of a
-divine ark<Delay 5>...<Close><End of Block>
-<TextBlock 14 w:56 h:3>
-These weapons were called,<Delay 60>
-'YHWH', <Delay 5>the inter-planetary
-invasion weapon system.<Close><End of Block>
-<TextBlock 15 w:54 h:2>
-What the Gazel Ministry was
-pursuing was right here.<Close><End of Block>
-<TextBlock 16 w:54 h:4>
-According to the data, the
-giant, rotting organism we
-just defeated was in fact
-the nucleus of this system.<Close><End of Block>
-<TextBlock 17 w:58 h:5>
-We were on the verge of
-accessing the data for
-the object called...
+angels, the Malakhim <-->
+a divine army to reign
+over the universe...<Delay 20>
  
-        'Zohar'       <New>
-...the central neural circuit
-and power source controlling
-the entire system, from the
-weapons to the mothership...<Close><End of Block>
-<TextBlock 18 w:28 h:2>
-When suddenly,
-'HE' appeared.<Close><End of Block>
-<TextBlock 19 w:42 h:4>
+The construction of a
+divine ark...<Close><End of Block>
+<TextBlock 14 w:56 h:5>
+The weapons array was called<Delay 60>
+ 
+   the Interstellar
+   Strategic-Integration
+   Weapon System<Delay 10> 'Deus'.<Close><End of Block>
+<TextBlock 15 w:56 h:2>
+What the Gazel Ministry
+searched for was right here.<Close><End of Block>
+<TextBlock 16 w:48 h:5>
+The data indicated that
+the giant decaying being
+we defeated previously
+was in fact the nucleus
+of this system.<Close><End of Block>
+<TextBlock 17 w:56 h:5>
+Then, just as we were about
+to try to access the data
+for the entity that was both
+the power reactor and the
+central neural circuit,<New>
+driving everything from the
+weapons array to the mother
+ship <--> an object called<Delay 10>
+ 
+        'Zohar'...<Close><End of Block><Close><End of Block>
+<TextBlock 18 w:24 h:1>
+HE appeared.<Close><End of Block>
+<TextBlock 19 w:44 h:4>
 Karellen
-"Ah, the hidden data
-from Raziel's Tree...
-Move away from there.<New>
-This matter is far
-too weighty for the
-likes of you."<Close><End of Block>
+"The hidden data in
+Raziel's Tree...<New>
+Might I get you to
+move away from there?<Delay 10>
+For this is something
+far beyond you all..."<Close><End of Block>
 <TextBlock 20 w:54 h:4>
 Fei
-"We must protect it with
-our lives! We can't let
+"We have to protect this
+place at all costs!<New>
+We absolutely cannot let
 them have the Raziel data!"<Close><End of Block>
 <TextBlock 21 w:54 h:4>
 Citan
-"You handle them!
-I will try and extract as
-much data as I am able to!<New>
-If anything goes wrong...
+"Please, everyone!
+I will try to get all
+the data I can!<New>
+In the worst-case scenario,
 I will destroy this place!"<Close><Close><End of Block>

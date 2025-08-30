@@ -40,7 +40,7 @@ go see it!!
     Please
     No thanks<Close><End of Block>
 <TextBlock 8 w:60 h:1>
-<Opcode 1 255>Received fleet review Tickets.<Opcode 2 60><Close><End of Block>
+<Opcode 1 255>Received fleet-review Tickets.<Opcode 2 60><Close><End of Block>
 <TextBlock 9 w:48 h:4>
 No need to pay me. Just
 hurry or you'll miss it.<Delay 10>

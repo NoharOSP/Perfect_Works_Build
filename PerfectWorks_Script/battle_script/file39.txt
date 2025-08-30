@@ -33,4 +33,4 @@ Why he was so
      All he said was...<Close><End of Block>
 <TextBlock 4 w:36 h:2>
 'If it wasn't
-     for you<Delay 30>...'<Opcode 2 90><Close><Close>0<UNKNOWN CHUNK 4><Close><End of Block>
+     for you<Delay 30>...'<Opcode 2 120><Close><Close>0<UNKNOWN CHUNK 4><Close><End of Block>

@@ -17,9 +17,9 @@ Elly
 Ugh, I'm all sweaty
 from running. I'll
 take a quick shower."<Close><End of Block>
-<TextBlock 5 w:44 h:3>
+<TextBlock 5 w:40 h:3>
 Fei
-"Y-<Delay 5>You have a bathroom
+"Y-<Delay 5>You have a shower
 in your room?"<Close><End of Block>
 <TextBlock 6 w:40 h:2>
 Elly
@@ -76,14 +76,14 @@ Elly
 was small, I had a nanny.<Delay 10>
 She was so nice to me.<New>
 But she was a land dweller.<Delay 10>
-First-Class citizens
+First Class citizens
 rarely have land dwellers
 serve them directly.<New>
 But this person lived in
 our house and took care
 of me.<New>
 She lost her child when
-she was in the Third-Class
+she was in the Third Class
 level...<New>
 My dad felt sorry for her
 and kept her under his

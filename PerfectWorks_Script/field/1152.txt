@@ -336,7 +336,7 @@ We are<Delay 30> 'God',
 Cain.<Close><End of Block>
 <TextBlock 66 w:44 h:4>
 Better for them to
-simply fulfil their
+simply fulfill their
 allotted duty<New>
 rather than fomenting
 a needless greed.<Close><End of Block>
@@ -650,7 +650,7 @@ retrieved.<Close><End of Block>
 <TextBlock 131 w:40 h:4>
 Indeed.<Delay 20> Making it
 more likely that the
-proper type will be
+proper types will be
 unobtainable.<Close><End of Block>
 <TextBlock 132 w:32 h:2>
 As it was in the
@@ -970,7 +970,7 @@ We can still identify
 the locations of
 individuals.<Close><End of Block>
 <TextBlock 190 w:44 h:4>
-One moment<Delay 5>...<Delay 15>
+One moment<Delay 30>...<Delay 30>...
 He has left the crash
 site and appears to be
 heading toward Ignis.<Close><End of Block>
@@ -1264,9 +1264,10 @@ flesh<Delay 5>...<Close><End of Block>
 If only he too
 had our logical
 nature<Delay 5>...<Close><End of Block>
-<TextBlock 251 w:50 h:3>
+<TextBlock 251 w:48 h:3>
 Ruled by needless flesh,
-yet this was the outcome.<Delay 15>
+and still this was the
+outcome.<New>
 You did well,<Delay 5> Karellen.<Close><End of Block>
 <TextBlock 252 w:14 h:2>
 Karellen

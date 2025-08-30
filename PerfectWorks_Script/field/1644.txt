@@ -59,7 +59,7 @@ all our work to raise our
 block's rank is ruined.<Close><End of Block>
 <TextBlock 14 w:56 h:4>
 I want to move up a rank
-to Second-Class citizen.<Delay 10>
+to Second Class citizen.<Delay 10>
 Then I can finally live with
 the Second Class.<Close><End of Block>
 <TextBlock 15 w:40 h:3>
@@ -87,7 +87,7 @@ Don't you even think
 of trying to escape.<Close><End of Block>
 <TextBlock 19 w:56 h:4>
 This is the trash chute.<Delay 10>
-Third-Class citizens have
+Third Class citizens have
 no business with this.<Delay 10>
 Go back where you came from.<Close><End of Block>
 <TextBlock 20 w:36 h:2>

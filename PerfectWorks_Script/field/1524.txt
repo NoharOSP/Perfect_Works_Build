@@ -127,8 +127,8 @@ applying Limiters to the
 Lambs.<New>
 He was originally a Lamb.
 He learned molecular
-engineering from the sage,
-Melchior, personally.<New>
+engineering from the sage
+Melchior himself.<New>
 But he misused it for
 such a terrible act!<Delay 20>
 An unbelievable monster!<Close><Close><End of Block>

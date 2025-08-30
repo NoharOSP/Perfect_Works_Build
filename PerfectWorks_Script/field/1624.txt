@@ -129,7 +129,7 @@ The Emperor will give
 the speech himself.<New>
 He can't stand to see our
 confusion anymore so he
-went out of the way to
+went out of his way to
 make an appearance.<New>
 We should be thankful.<Close><End of Block>
 <TextBlock 22 w:46 h:2>
@@ -150,7 +150,7 @@ just being chased by
 Security Cubes...<New>
 I wonder if they were the
 ones Karellen mentioned?<New>
-You're a Third-Class
+You're a Third Class
 citizen, but you wouldn't
 do that, right?<Close><End of Block>
 <TextBlock 26 w:44 h:3>
@@ -165,7 +165,7 @@ have a ticket, so...<Close><End of Block>
 <TextBlock 28 w:54 h:2>
 ...<Delay 10>
 You look rather odd.<New>
-Third-Class citizens should
+Third Class citizens should
 dress more appropriately.<Close><End of Block>
 <TextBlock 29 w:38 h:4>
 The fleet review
@@ -175,7 +175,7 @@ be lively.<Close><End of Block>
 <TextBlock 30 w:54 h:2>
 ...<Delay 10>
 You look rather odd.<New>
-Third-Class citizens should
+Third Class citizens should
 dress more appropriately.<Close><End of Block>
 <TextBlock 31 w:26 h:1>
 Danger ahead.<Close><End of Block>

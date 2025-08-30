@@ -1,7 +1,7 @@
-<TextBlock 1 w:32 h:3>
+<TextBlock 1 w:34 h:3>
 Citan
-"Fei, go for the
-trash chute!"<Close><End of Block>
+"Fei, head for
+the trash chute!"<Close><End of Block>
 <TextBlock 2 w:4 h:1>
 ??<Close><End of Block>
 <TextBlock 3 w:40 h:3>

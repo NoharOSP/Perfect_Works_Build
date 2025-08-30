@@ -60,7 +60,7 @@ the opposite side."<Close><End of Block>
 <TextBlock 14 w:46 h:3>
 Citan
 "If we turn off the
-foreign object scanner,<New>
+foreign-object scanner,<New>
 we will be able to
 proceed."<Close><End of Block>
 <TextBlock 15 w:46 h:2>

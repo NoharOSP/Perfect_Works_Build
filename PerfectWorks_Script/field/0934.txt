@@ -56,7 +56,7 @@ Rank
 Rank
 "Even though we are called
 Solarians,<New>
-we Third-Class citizens, or
+we Third Class citizens, or
 'worker bees', can trace
 our origins back to the
 Lambs.<New>
@@ -64,7 +64,7 @@ So I could understand us
 having doubts about
 such orders...<New>
 But you, you're different.
-You're a pure First-Class
+You're a pure First Class
 citizen and come from a
 respectable family.<New>
 I've heard your father
@@ -78,7 +78,7 @@ family name."<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Rank
 "Well, well.<New>
-A First-Class citizen
+A First Class citizen
 thinking like this is...
 surprising to me."<Close><End of Block>
 <TextBlock 14 w:36 h:3>
@@ -95,7 +95,7 @@ Strachey
 against orders and<New>
 risk being bumped
 back down to mere
-Third-Class citizens!"<Close><End of Block>
+Third Class citizens!"<Close><End of Block>
 <TextBlock 17 w:44 h:4>
 Elly
 "Don't worry. I'll do

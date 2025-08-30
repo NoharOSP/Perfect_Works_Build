@@ -79,7 +79,7 @@ like your attitude!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <TextBlock 15 w:52 h:3>
 <Opcode 14 2>What's with your hair?
 Isn't it awfully red for
-a First-Class citizen?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+a First Class citizen?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <TextBlock 16 w:40 h:2>
 <Opcode 14 2>Are you really a
-First-Class citizen?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+First Class citizen?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>

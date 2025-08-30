@@ -38,14 +38,14 @@ in people's heads!"<Close><End of Block>
 Fei
 "Rico, are 
 you okay?"<Close><End of Block>
-<TextBlock 8 w:34 h:3>
+<TextBlock 8 w:36 h:3>
 Rico
-"I've seen that
-shape somewhere."<Close><End of Block>
-<TextBlock 9 w:34 h:3>
+"That shape looked
+familiar."<Close><End of Block>
+<TextBlock 9 w:36 h:3>
 Rico
-"I've seen that
-shape somewhere."<Close><End of Block>
+"That shape looked
+familiar."<Close><End of Block>
 <TextBlock 10 w:52 h:4>
 Fei
 "So this time it was

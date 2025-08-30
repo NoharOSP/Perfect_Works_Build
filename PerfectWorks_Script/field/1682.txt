@@ -44,7 +44,7 @@ the Special Forces,
 the same as me.<New>
 He was specially
 requisitioned from the
-Third-Class-citizen
+Third Class-citizen
 level only recently,<New>
 but it's because he
 helped me that I've
@@ -146,7 +146,7 @@ You do realize what'll
 happen to your rank if
 you disobey this order?<New>
 You'll be demoted to
-Third-Class citizen,
+Third Class citizen,
 no question!<Close><End of Block>
 <TextBlock 35 w:48 h:4>
 Erich

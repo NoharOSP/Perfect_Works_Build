@@ -1,26 +1,24 @@
-<TextBlock 1 w:44 h:6>
-In the depths we saw
-an alien form. It was
-partially rotted and
-petrified...a giant,
-grotesque being...<New>
-  'It' gave off an
-  inexplicable air
-  of intimidation.
- <Delay 60>
-Perhaps it was more
-than a gut reaction.<New>
-Perhaps it was the
-fear of the 'Absolute'
-that came from the
-very depths of our
-inherited instincts...<Close><End of Block>
-<TextBlock 2 w:48 h:3>
+<TextBlock 1 w:46 h:6>
+In the depths,
+we beheld an
+abnormal<Delay 5> 'thing'.<Delay 10>
+A giant grotesque
+being, rotting and
+partly petrified...<New>
+'It' cast a mysterious
+air of intimidation
+upon us.<New>
+Perhaps that was the
+fear of 'the Absolute',
+etched in the very
+depths of our genes...<Close><End of Block>
+<TextBlock 2 w:40 h:4>
 Fei
-"That<Delay 5>...<Delay 20>
-was the ultimate power?"<Close><End of Block>
+"This<Delay 5>...<Delay 20> This was
+the true form of
+the ultimate power?"<Close><End of Block>
 <TextBlock 3 w:60 h:4>
-The partially rotted thing
-eventually self-disintegrated.
- <Delay 70>
-We proceeded even further...<Close><Close><End of Block>
+In the end, the giant decaying
+being had destroyed itself.<Delay 70>
+ 
+We proceeded even further in.<Close><Close><End of Block>

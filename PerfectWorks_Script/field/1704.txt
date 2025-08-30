@@ -9,7 +9,7 @@ View which data?
     Code schema
     Don't view<Close><End of Block>
 <TextBlock 3 w:44 h:3>
-Foreign object scanner
+Foreign-object scanner
     unlock code
       '0101'<New>
 Item 1 unlock code

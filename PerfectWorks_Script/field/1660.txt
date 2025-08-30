@@ -29,8 +29,8 @@ no sign of either
 of you there.<New>
 Soon after, I heard
 about a disturbance <-->
-intruders on the second
-level of Araboth Plaza.<New>
+intruders in Level 2's
+Araboth Plaza.<New>
 I suspected that
 was probably you,
 so I waited here.<New>
@@ -103,7 +103,7 @@ Fei
 How come you can get
 past here?<New>
 According to Elly, only
-First-Class citizens
+First Class citizens
 and military personnel
 can pass through..."<Close><End of Block>
 <TextBlock 17 w:54 h:3>

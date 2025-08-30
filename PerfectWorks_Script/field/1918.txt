@@ -1,94 +1,93 @@
-<TextBlock 1 w:20 h:2>
+<TextBlock 1 w:22 h:2>
 Fei
-"Uhhhh..."<Close><End of Block>
-<TextBlock 2 w:42 h:4>
+"U-Ungh..."<Close><End of Block>
+<TextBlock 2 w:38 h:4>
 Grahf
-"I guess that's all
-you can take for now.<Delay 30>
-Are you frustrated?<New>
-But that is<Delay 5>...<Delay 5>
-'only natural'.<Delay 10>
-After all, you are
-imperfect."<Close><End of Block>
-<TextBlock 3 w:26 h:2>
+"I guess that's
+all you've got.<Delay 30>
+Is it frustrating?<New>
+But it is<Delay 10> 'only
+natural'.<Delay 10> Because
+you are imperfect."<Close><End of Block>
+<TextBlock 3 w:30 h:2>
 Fei
-"Imperfect!?"<Close><End of Block>
-<TextBlock 4 w:40 h:4>
+"I-<Delay 5>Imperfect!?"<Close><End of Block>
+<TextBlock 4 w:36 h:4>
 Grahf
 "Yes.
-You are lacking now.<New>
-The absence of wrath
-is an impediment to
-you utilizing your
-true strength!"<Close><End of Block>
+Right now, you're
+lacking something.<New>
+Namely, it is lack
+of wrath that is
+holding back your
+inherent power!"<Close><End of Block>
 <TextBlock 5 w:28 h:2>
 Fei
-"W, wrath...?"<Close><End of Block>
+"Wr-Wrath...?"<Close><End of Block>
 <TextBlock 6 w:54 h:4>
 Grahf
-"The drive to massacre and
-annihilate, the compulsion
-to destroy your opponent...<New>
-Such wrath is power for the
-soul! By eliminating your
-foe, you attain your first
+"Wrath is the drive to try
+to eliminate your foe,<New>
+the will to destruction and
+slaughter <--><Delay 5> the power of
+the soul!<New>
+To eliminate your foe
+is to attain the first
 sublimation of that drive.<New>
 It is this very sublimation
-that draws out the hidden
-powers within oneself!<Delay 20>
-But,<Delay 5> clinging to reason<Delay 5>...<New>
-...<Delay 5>suppressing your wrath
-and desire, makes releasing
-your true power a dream
-within a dream for you.<New>
-You already know this...
-When wrath appeared in
-your heart, the machine
-responded, did it not?<New>
-What drew out such power
-from your machine was
-truly the drive of your
-soul<Delay 5>...<Delay 5> It was your 'Id'.<New>
-The sign of the purpose
-you've been seeking<Delay 5>...<Delay 5>
-The mark of a natural
-born assassin!"<Close><End of Block>
-<TextBlock 7 w:34 h:4>
+that draws out one's hidden
+power!<New>
+If we cling to reason,<Delay 5>
+suppressing the wrath, the
+drive <--> however much <--><New>
+any release of true power
+will be but a fantasy.<New>
+You know this.<Delay 10>
+When wrath burgeoned in
+your own heart, did
+the Gear not respond?<New>
+What drew out the power of
+your machine was precisely
+that: the drive of your
+soul <--><Delay 10> it was 'Id'.<New>
+The symbol of desire,<Delay 10>
+the symbol you bear
+as a born assassin!"<Close><End of Block>
+<TextBlock 7 w:30 h:4>
 Fei
 "You're wrong!<Delay 20>
-That's absolutely
-untrue!"<Close><End of Block>
-<TextBlock 8 w:36 h:3>
+So very wrong!"<Close><End of Block>
+<TextBlock 8 w:28 h:4>
 Fei
-"I, I am not 'Id'!
+"I...<Delay 10>
+I am not 'Id'!<Delay 10>
 I..."<Close><End of Block>
-<TextBlock 9 w:42 h:3>
+<TextBlock 9 w:42 h:4>
 Grahf
-"The time has come...<New>
-I'll take your soul,
-and draw its power
-out to the limit!"<Close><End of Block>
+"It is time...<New>
+I will devour your
+soul.<Delay 10> And then draw
+out its power to the
+very limit!"<Close><End of Block>
 <TextBlock 10 w:18 h:2>
 Karellen
 "Enough!"<Close><End of Block>
-<TextBlock 11 w:36 h:4>
+<TextBlock 11 w:42 h:4>
 Grahf
-"Huh?
-What are you
-stopping me for!?"<Close><End of Block>
+"Hm?<Delay 10>
+Why do you stop me!?"<Close><End of Block>
 <TextBlock 12 w:42 h:4>
 Karellen
-"He is bait.<New>
-If you kill the bait,
-the precious bird we
-wish to capture will
-fly away.<New>
-You know<Delay 5>...<Delay 5>a very
-important bird<Delay 5>...<Delay 5>
-'needed to fulfill my
-earnest desire'<Delay 5>...<New>
+"That one is bait.<New>
+Kill the bait, and
+a rare little bird
+will get away.<New>
+You know,<Delay 10> my precious
+little bird,<Delay 10> 'vital
+to the fulfillment
+of my vision'.<New>
 You understand, don't
-you,<Delay 10> Lacan<Delay 10>...?"<Close><End of Block>
+you,<Delay 10> Lacan...?"<Close><End of Block>
 <TextBlock 13 w:30 h:3>
 Grahf
 "...<Delay 30>
@@ -97,6 +96,6 @@ Suit yourself."<Close><End of Block>
 Karellen
 "We shall crucify them.<New>
 In the land of Golgotha,
-to the west of here.
-Collect all the broken
-Gears!"<Close><Close><End of Block>
+to the west of here.<Delay 10>
+Gather up all the
+wrecked Gears!"<Close><Close><End of Block>

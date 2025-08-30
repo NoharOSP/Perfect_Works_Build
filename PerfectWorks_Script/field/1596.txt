@@ -262,9 +262,10 @@ understand, punk!!"<Close><End of Block>
 <TextBlock 52 w:32 h:2>
 Shakhan
 "Gaaaaaaaahhh!!"<Close><End of Block>
-<TextBlock 53 w:48 h:2>
+<TextBlock 53 w:46 h:3>
 Fei
-"The Gate's on fire...!"<Close><End of Block>
+"Isn't the fire awfully
+close to the...!?"<Close><End of Block>
 <TextBlock 54 w:66 h:1>
      Dost thou<Delay 16> desire the power?<Opcode 2 84><Close><End of Block>
 <TextBlock 55 w:26 h:2>

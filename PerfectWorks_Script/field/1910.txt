@@ -1,15 +1,15 @@
-<TextBlock 1 w:50 h:4>
-Driving back the Solarian
-intercepting forces, we
-took to the floating
+<TextBlock 1 w:54 h:4>
+Driving back Solaris'
+intercepting forces, we set
+our sights on the surfaced
 continent, Machanon.<Close><End of Block>
 <TextBlock 2 w:48 h:4>
 It was the central hull
 of a colossal spacecraft
-with a diameter of at
-least 40 kelts.<Close><End of Block>
+that must have been at
+least 40 kelts across.<Close><End of Block>
 <TextBlock 3 w:52 h:4>
-Judging from the condition
-of the hull, we estimated
-the ship was thousands of
+From the condition of the
+hull, we judged this ship
+to be many thousands of
 years old.<Close><Close><End of Block>

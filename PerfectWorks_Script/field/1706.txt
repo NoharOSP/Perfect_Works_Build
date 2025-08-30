@@ -8,9 +8,9 @@
     4
     End input<Close><End of Block>
 <TextBlock 3 w:52 h:1>
-Foreign object scanner: ON<Close><End of Block>
+Foreign-object scanner: ON<Close><End of Block>
 <TextBlock 4 w:54 h:1>
-Foreign object scanner: OFF<Close><End of Block>
+Foreign-object scanner: OFF<Close><End of Block>
 <TextBlock 5 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
@@ -24,10 +24,10 @@ You have too many
  
  Received <Opcode 4 20><Close><End of Block>
 <TextBlock 9 w:44 h:3>
-Foreign object scanner
+Foreign-object scanner
     unlock code
       '0101'<Close><End of Block>
 <TextBlock 10 w:44 h:3>
-Unlock code schema can
+Unlock-code schema can
 be found in the data
 room opposite.<Close><Close><End of Block>
