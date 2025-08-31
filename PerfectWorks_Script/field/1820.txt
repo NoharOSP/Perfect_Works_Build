@@ -78,11 +78,11 @@ Rico
 <TextBlock 23 w:14 h:2>
 Rico
 "Gha!!"<Opcode 2 24><Close><End of Block>
-<TextBlock 24 w:40 h:4>
+<TextBlock 24 w:42 h:4>
 Medena
 "No. I won't stop.
-...Because our child
-is in danger...<New>
+...Because my own
+child is in danger...<New>
 and I'm a perfectly
 'ordinary' mother!!"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
