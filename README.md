@@ -1,9 +1,5 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
-
-Download the latest version here:
-
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.7.0
   
 ## Instructions:
 
@@ -17,7 +13,7 @@ https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.7.0
 ## Completion stats:
 
 - Name/terminology changes: 100%
-- Main script: 82% (entering Mahanon)
+- Main script: 83% (Raziel's Tree)
 - NPC script: Not done (except for name/terminology changes)
 
 ## Introduction:
@@ -29,6 +25,19 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.7.1:
+
+08/31/2025
+
+- Ground Deathblow bug where damage to gears is ignored has been fixed.
+- Wither underflow bug has been fixed.
+- Freeze that occurs when a character buffed by Koga is targetted has been fixed.
+- All tools and their associated files have been moved to a separate directory.
+- Minor corrections have been made to the opening movie subtitles.
+- Exp and gold patches no longer overwrite monster changes.
+- Script changes up to Raziel's Tree have been completed.
+
 
 ### Version 0.7.0:
 
