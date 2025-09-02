@@ -1026,6 +1026,9 @@ void checkboxLock() {
 	}
 	for (int i = 6; i < globalWindList.size(); i++) {
 		EnableWindow(globalWindList[i], found);
+		if (globalWindList[i] == normalarena) {
+			LRESULT tick = SendMessage(globalWindList[i], BM_SETCHECK, BST_CHECKED, NULL);
+		}
 	}
 }
 
