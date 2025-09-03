@@ -136,7 +136,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - edrovinhaz: Translation, programming, graphical fixes, icons
 - cthuljew: Testing
 - Streetwize (@StreetwizeJJ2): Character balance, battle arena, programming, fast text
-- Siris: Translation, programming, graphical fixes, softsubs
+- Siris: Story mode, translation, programming, graphical fixes, softsub text and timings
 - ChrisGLink: Translation
 - linnaealyn: Testing, FMV font
 - [An Eye for the Infinite](http://moonreading.lunarpages.com/xeno/): Translation
