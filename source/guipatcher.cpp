@@ -238,6 +238,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			if (encticked == BST_CHECKED) {
 				log_file << "Half encounters ticked." << std::endl;
 				p_encounters = true;
+				if (p_story_mode == true) {
+					log_file << "Unticking story mode." << std::endl;
+					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+					p_story_mode = false;
+				}
 			}
 			else {
 				log_file << "Half encounters unticked." << std::endl;
@@ -265,6 +270,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			if (expticked == BST_CHECKED) {
 				log_file << "1.5 exp ticked." << std::endl;
 				p_exp = true;
+				if (p_story_mode == true) {
+					log_file << "Unticking story mode." << std::endl;
+					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+					p_story_mode = false;
+				}
 			}
 			else {
 				log_file << "1.5 exp unticked." << std::endl;
@@ -274,6 +284,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			if (goldticked == BST_CHECKED) {
 				log_file << "1.5 gold ticked." << std::endl;
 				p_gold = true;
+				if (p_story_mode == true) {
+					log_file << "Unticking story mode." << std::endl;
+					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+					p_story_mode = false;
+				}
 			}
 			else {
 				log_file << "1.5 gold unticked." << std::endl;
@@ -283,6 +298,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			if (itemspellsticked == BST_CHECKED) {
 				log_file << "Rebalanced party/items ticked." << std::endl;
 				p_items_spells = true;
+				if (p_story_mode == true) {
+					log_file << "Unticking story mode." << std::endl;
+					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+					p_story_mode = false;
+				}
 			}
 			else {
 				log_file << "Rebalanced party/items unticked." << std::endl;
@@ -292,6 +312,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			if (monstersticked == BST_CHECKED) {
 				log_file << "Rebalanced monsters ticked." << std::endl;
 				p_monsters = true;
+				if (p_story_mode == true) {
+					log_file << "Unticking story mode." << std::endl;
+					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+					p_story_mode = false;
+				}
 			}
 			else {
 				log_file << "Rebalanced party/items unticked." << std::endl;
@@ -307,6 +332,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			if (basicarenaticked == BST_CHECKED) {
 				log_file << "Basic arena selected." << std::endl;
 				p_barena = true;
+				if (p_story_mode == true) {
+					log_file << "Unticking story mode." << std::endl;
+					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+					p_story_mode = false;
+				}
 			}
 			else {
 				log_file << "Basic arena deselected." << std::endl;
@@ -316,6 +346,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			if (expertarenaticked == BST_CHECKED) {
 				log_file << "Expert arena selected." << std::endl;
 				p_earena = true;
+				if (p_story_mode == true) {
+					log_file << "Unticking story mode." << std::endl;
+					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+					p_story_mode = false;
+				}
 			}
 			else {
 				log_file << "Expert arena deselected." << std::endl;
@@ -370,6 +405,22 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			if (storymodeticked == BST_CHECKED) {
 				log_file << "Story mode ticked." << std::endl;
 				p_story_mode = true;
+				log_file << "Unticking incompatible patches." << std::endl;
+				p_encounters = false;
+				LRESULT enctick = SendMessage(encounters, BM_SETCHECK, BST_UNCHECKED, NULL);
+				p_exp = false;
+				LRESULT expuntick = SendMessage(experience, BM_SETCHECK, BST_UNCHECKED, NULL);
+				p_gold = false;
+				LRESULT golduntick = SendMessage(gold, BM_SETCHECK, BST_UNCHECKED, NULL);
+				p_monsters = false;
+				LRESULT monuntick = SendMessage(monsters, BM_SETCHECK, BST_UNCHECKED, NULL);
+				p_items_spells = false;
+				LRESULT itemuntick = SendMessage(itemspells, BM_SETCHECK, BST_UNCHECKED, NULL);
+				p_barena = false;
+				p_earena = false;
+				LRESULT normtick = SendMessage(normalarena, BM_SETCHECK, BST_CHECKED, NULL);
+				LRESULT basicuntick = SendMessage(basicarena, BM_SETCHECK, BST_UNCHECKED, NULL);
+				LRESULT expertuntick = SendMessage(expertarena, BM_SETCHECK, BST_UNCHECKED, NULL);
 			}
 			else {
 				log_file << "Story mode unticked." << std::endl;
