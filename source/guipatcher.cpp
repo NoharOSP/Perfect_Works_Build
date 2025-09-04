@@ -1659,12 +1659,12 @@ bool applyPatch(int discNum) {
 		if (p_story_mode) {
 			if (discNum == 1) {
 				if (storyModeName1 != "") {
-					std::filesystem::copy(storyModeName1, temp, std::filesystem::copy_options::update_existing);
+					std::filesystem::copy(storyModeName1, temp, std::filesystem::copy_options::overwrite_existing);
 				}
 			}
 			if (discNum == 2) {
 				if (storyModeName2 != "") {
-					std::filesystem::copy(storyModeName2, temp, std::filesystem::copy_options::update_existing);
+					std::filesystem::copy(storyModeName2, temp, std::filesystem::copy_options::overwrite_existing);
 				}
 			}
 		}
