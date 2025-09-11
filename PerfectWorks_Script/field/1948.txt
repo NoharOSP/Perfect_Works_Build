@@ -2,7 +2,7 @@
 !<Opcode 2 15><Close><End of Block>
 <TextBlock 2 w:58 h:6>
 Sophia
-"Faith<Delay 0> in<Delay 0> god<Delay 0>...<Delay 45>
+"Faith<Delay 0> in<Delay 0> God<Delay 0>...<Delay 45>
 Do<Delay 0> not<Delay 0> look<Delay 0> for<Delay 0> it<Delay 0> on<Delay 0> the<Delay 0>
 outside<Delay 0>...<Delay 30>
 For<Delay 0> it<Delay 0> is<Delay 0> something<Delay 0> one<Delay 0> must<Delay 0>
@@ -22,7 +22,7 @@ back last night.<New>
 You're going home to
 collect pigments for
 your paint, right?<New>
-Sophia told me.<Delay 30>
+Lady Sophia told me.<Delay 30>
 Allow me to accompany
 you."<Close><End of Block>
 <TextBlock 6 w:30 h:2>

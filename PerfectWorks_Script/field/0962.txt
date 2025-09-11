@@ -10,15 +10,16 @@ We do this."<Close><End of Block>
 <TextBlock 3 w:54 h:4>
 Maitreya
 "...<Delay 64>
-He might even be more gung-
+He might be even more gung-
 ho than the Young Master."<Close><End of Block>
-<TextBlock 4 w:52 h:4>
+<TextBlock 4 w:46 h:4>
 Maitreya
-"Falkon! Follow the kid!
-The rest of you, stay with
-your unit but follow me!<New>
-Don't fall behind the kid!
-We're going in, too!"<Close><End of Block>
+"Falkon! Join the kid!
+The rest of you, follow
+me in your squads!<New>
+We're going in, too!
+Don't fall behind the
+kid!"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Maitreya
 "Our job is to slow them

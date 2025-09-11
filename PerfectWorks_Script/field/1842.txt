@@ -130,7 +130,7 @@ Seeing her like that, Elly was
 the very image of the woman
 who created Nisan itself<Delay 5>...<Delay 15>
  
-  'Holy Mother Sophia'<Delay 5>...<Delay 45>
+  'Sacred Mother Sophia'<Delay 5>...<Delay 45>
  
 In whispers, it became rumored
 that Elly was a second advent
@@ -826,17 +826,17 @@ Monolog stage DEBUG-MAP2<Close><End of Block>
     End monolog stage<Close><End of Block>
 <TextBlock 89 w:36 h:3>
 Save current data?<Delay 30>
-    Save
+<Opcode 1 255>    Save
     Don't save<Delay 15><Close><End of Block>
 <TextBlock 90 w:36 h:3>
-Continue the game?<Delay 30>
-    Wait
-    Start<Delay 15><Close><End of Block>
+Resume game?<Delay 30>
+<Opcode 1 255>    Wait a minute
+    Resume game<Delay 15><Close><End of Block>
 <TextBlock 91 w:42 h:3>
-    Open menu
-    Member Change
-    Continue the game<Delay 15><Close><End of Block>
+<Opcode 1 255>    Open menu
+    Change party
+    Resume game<Delay 15><Close><End of Block>
 <TextBlock 92 w:36 h:3>
-Continue the game?<Delay 30>
-    Wait
-    Start<Delay 15><Close><Close><End of Block>
+Resume game?<Delay 30>
+<Opcode 1 255>    Wait a minute
+    Resume game<Delay 15><Close><Close><End of Block>

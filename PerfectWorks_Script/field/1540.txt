@@ -136,7 +136,7 @@ of cruel things.<Close><End of Block>
 By the way, d'you land
 dwellers know about the
 Nisan tragedy during
-the great war?<New>
+the Great War?<New>
 Did you hear anything
 from the higher ups?<Delay 10>
 <Opcode 1 255>    Yes

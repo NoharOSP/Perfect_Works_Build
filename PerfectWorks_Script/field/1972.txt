@@ -38,7 +38,7 @@ and please<Delay 5>...<Delay 30>
 <Opcode 1 255>Lacan! Live!"<Close><End of Block>
 <TextBlock 8 w:19 h:2>
 Lacan
-"Ell<~>y!!"<Opcode 2 180><Close><End of Block>
+"Ell~y!!"<Opcode 2 180><Close><End of Block>
 <TextBlock 9 w:0 h:1>
 <End of Block>
 <TextBlock 10 w:0 h:0>

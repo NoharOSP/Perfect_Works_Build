@@ -285,21 +285,21 @@ be of help to someone
 like that..."<Close><End of Block>
 <TextBlock 55 w:52 h:4>
 Margie
-"Oh, we haven't visited
-the 'Room of Sophia' yet,
-have we?<New>
+"Oh, we didn't go to the
+Room of Lady Sophia yet,
+did we?<New>
 You're really supposed to
 go through some checks
 before you can see it...<New>
 But this time I think it
 will be alright if I make
 a special exception."<Close><End of Block>
-<TextBlock 56 w:18 h:2>
+<TextBlock 56 w:28 h:2>
 Fei
-"Sophia?"<Close><End of Block>
+"Lady Sophia?"<Close><End of Block>
 <TextBlock 57 w:44 h:4>
 Margie
-"Yes, Sophia.<New>
+"Yes, Lady Sophia.<New>
 She is revered as the
 founding Mother of the
 Nisan nation...<New>
@@ -309,7 +309,7 @@ forth its teachings.<New>
 There is a special
 room upstairs that
 has a portrait of
-Mother Sophia in it."<Close><End of Block>
+Lady Sophia in it."<Close><End of Block>
 <TextBlock 58 w:50 h:4>
 Citan
 "I would definitely like

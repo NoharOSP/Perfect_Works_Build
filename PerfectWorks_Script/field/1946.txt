@@ -30,7 +30,7 @@ Lacan
 "But you're right...
 let's stop for today.<New>
 Are you not the one who is
-tired,<Delay 5> 'Mother Sophia'?"<Close><End of Block>
+tired,<Delay 5> 'Lady Sophia'?"<Close><End of Block>
 <TextBlock 9 w:44 h:2>
 Sophia
 "Enough of that, now."<Close><End of Block>
@@ -136,7 +136,7 @@ Lacan
 "But you're right...
 let's stop for today.<New>
 Are you not the one who is
-tired,<Delay 5> 'Mother Sophia'?"<Close><End of Block>
+tired,<Delay 5> 'Lady Sophia'?"<Close><End of Block>
 <TextBlock 28 w:44 h:2>
 Sophia
 "Enough of that, now."<Close><End of Block>
@@ -470,12 +470,12 @@ be coming with us."<Close><End of Block>
 <TextBlock 77 w:40 h:2>
 Karellen
 "That's ridiculous!"<Close><End of Block>
-<TextBlock 78 w:54 h:4>
+<TextBlock 78 w:48 h:4>
 Karellen
-"The number of refugees is
-still increasing!<New> 
-<Delay 5>We can't afford
-to have Sophia leave Nisan!<New>
+"The number of refugees
+is still increasing!<New>
+We can't afford to have
+Lady Sophia leave Nisan!<New>
 And <Delay 5>going to Soylent!<Delay 5>
 That's plain foolish!<Delay 10>
 It's too dangerous!<New>

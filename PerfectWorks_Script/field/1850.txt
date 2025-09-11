@@ -162,19 +162,19 @@ can do it.<Delay 30> So..."<Close><End of Block>
 <TextBlock 18 w:18 h:2>
 Fei
 "Elly..."<Close><End of Block>
-<TextBlock 19 w:30 h:3>
-Save your data?<Delay 30>
-    Save
-    Don't save <Close><End of Block>
+<TextBlock 19 w:36 h:3>
+Save current data?<Delay 30>
+<Opcode 1 255>    Save
+    Don't save<Close><End of Block>
 <TextBlock 20 w:34 h:3>
 Resume game?<Delay 30>
-    Wait a minute
-    Resume game <Close><End of Block>
+<Opcode 1 255>    Wait a minute
+    Resume game<Close><End of Block>
 <TextBlock 21 w:34 h:3>
-    Open menu
-    Member change
-    Resume game <Close><End of Block>
+<Opcode 1 255>    Open menu
+    Change party
+    Resume game<Close><End of Block>
 <TextBlock 22 w:34 h:3>
 Resume game?<Delay 30>
-    Wait a minute
-    Resume game <Close><Close><End of Block>
+<Opcode 1 255>    Wait a minute
+    Resume game<Close><Close><End of Block>

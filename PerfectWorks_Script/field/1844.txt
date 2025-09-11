@@ -435,19 +435,19 @@ And we had to find that out<Delay 5>...<Close><End of Block>
 <End of Block>
 <TextBlock 56 w:36 h:3>
 <End of Block>
-<TextBlock 57 w:42 h:3>
+<TextBlock 57 w:36 h:3>
 Save current data?<Delay 30>
-    Save
+<Opcode 1 255>    Save
     Don't save<Delay 15><Close><End of Block>
-<TextBlock 58 w:36 h:3>
-Continue the game?<Delay 30>
-    Wait
-    Start<Delay 15><Close><End of Block>
-<TextBlock 59 w:42 h:32>
+<TextBlock 58 w:34 h:3>
+Resume game?<Delay 30>
+<Opcode 1 255>    Wait a minute
+    Resume game<Delay 15><Close><End of Block>
+<TextBlock 59 w:34 h:3>
 <Opcode 1 255>    Open menu
-    Member Change
-    Continue the game<Delay 15><Close><End of Block>
-<TextBlock 60 w:71 h:103>
-Continue the game?<Delay 30>
-    Wait
-    Start<Delay 15><Close><Close><End of Block>
+    Change party
+    Resume game<Delay 15><Close><End of Block>
+<TextBlock 60 w:34 h:3>
+Resume game?<Delay 30>
+<Opcode 1 255>    Wait a minute
+    Resume game<Delay 15><Close><Close><End of Block>

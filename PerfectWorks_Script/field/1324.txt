@@ -42,7 +42,7 @@ It's hard to translate
 this stuff!<New>
 Ummm<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>Lambs<Delay 5>...<Delay 5>
-great war<Delay 5>...<Delay 5>collapse<Delay 5>...<Delay 5>
+Great War<Delay 5>...<Delay 5>collapse<Delay 5>...<Delay 5>
 re-education<Delay 5>...<New>
 ...<Delay 5>postwar rehab plan<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>based on<Delay 5>...<Delay 5>
@@ -62,11 +62,10 @@ The Church is<Delay 5>...!?"<Close><End of Block>
 <TextBlock 8 w:54 h:4>
 Elly
 "To summarize,<Delay 5>
-it's like this<Delay 5>...<New>
-500 years ago, there was
-a great war that occurred
-between Solaris and the
-land dwellers.<New>
+it's like this.<New>
+500 years ago, a large-
+scale war between Solaris
+and the surface took place.<New>
 It's not clear what the
 outcome was, but after the
 war, Solaris feared another
@@ -628,7 +627,7 @@ It's hard to translate
 this stuff!<New>
 Ummm<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>Lambs<Delay 5>...<Delay 5>
-great war<Delay 5>...<Delay 5>collapse<Delay 5>...<Delay 5>
+Great War<Delay 5>...<Delay 5>collapse<Delay 5>...<Delay 5>
 re-education<Delay 5>...<New>
 ...<Delay 5>postwar rehab plan<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>based on<Delay 5>...<Delay 5>
@@ -648,11 +647,10 @@ The Church is<Delay 5>...!?"<Close><End of Block>
 <TextBlock 85 w:54 h:4>
 Elly
 "To summarize,<Delay 5>
-it's like this<Delay 5>...<New>
-500 years ago, there was
-a great war that occurred
-between Solaris and the
-land dwellers.<New>
+it's like this.<New>
+500 years ago, a large-
+scale war between Solaris
+and the surface took place.<New>
 It's not clear what the
 outcome was, but after the
 war, Solaris feared another

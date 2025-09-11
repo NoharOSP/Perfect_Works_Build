@@ -8,7 +8,7 @@ Fei
 <TextBlock 3 w:32 h:3>
 Fei
 "Ugh...urgh...
-St-Stop it..."<Close><End of Block>
+S-Stop it..."<Close><End of Block>
 <TextBlock 4 w:28 h:3>
 Fei
 "...St...op...

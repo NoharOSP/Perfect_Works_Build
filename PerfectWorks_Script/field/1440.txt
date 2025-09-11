@@ -69,7 +69,7 @@ Citan
 Do not<Delay 20>...miss..."<Close><End of Block>
 <TextBlock 17 w:52 h:4>
 Citan
-"Our plan failed failed...<Delay 40>
+"Our plan failed...<Delay 40>
 We have tried everything
 we could think of."<Close><End of Block>
 <TextBlock 18 w:26 h:3>

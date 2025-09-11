@@ -3,17 +3,17 @@ Margie
 "The sisters are still
 singing downstairs, so they
 won't be back for a while."<Close><End of Block>
-<TextBlock 2 w:32 h:3>
+<TextBlock 2 w:36 h:3>
 Margie
-"Let's go to the
-painting room.<New>
+"Let's go ahead to
+the mural room.<New>
 The sisters will
 probably be back
-by then."<Close><End of Block>
-<TextBlock 3 w:42 h:3>
+shortly."<Close><End of Block>
+<TextBlock 3 w:46 h:3>
 Margie
-"I wonder what kind
-of person Sophia was.<New>
+"I wonder what kind of
+person Lady Sophia was.<New>
 I would have loved to
 have met her."<Close><End of Block>
 <TextBlock 4 w:48 h:1>
@@ -136,18 +136,19 @@ be just fine.<Close><End of Block>
 <TextBlock 25 w:48 h:4>
 Agnes
 "The one depicted in the
-portrait in the painting
-room is Sophia.<New>
-She was the first Holy
-Mother of Nisan.<New>
+painting in the mural
+room is Lady Sophia.<New>
+She was the founding
+Great Holy Mother of
+Nisan.<New>
 According to legend, the
 portrait was painted
 about 500 years ago."<Close><End of Block>
 <TextBlock 26 w:48 h:3>
 Agnes
-"I understand you were
-shown Sophia's portrait.<New>
-The lady in that picture
+"So you saw the painting
+of Lady Sophia?<New>
+The one in that painting
 is the founding Great
 Holy Mother of Nisan.<New>
 Some say that it was
@@ -166,7 +167,7 @@ Agnes
 "In our hands, there are no
 such records left intact.<New>
 All records and materials
-concerning Sophia have
+concerning Lady Sophia have
 been lost...<New>
 The portrait is the only
 thing left.<New>
@@ -201,8 +202,8 @@ remained, too."<Close><End of Block>
 <TextBlock 33 w:54 h:4>
 Agnes
 "According to tradition,
-Sophia was present about
-500 years ago...<New>
+Lady Sophia was present
+about 500 years ago...<New>
 She sacrificed herself for
 the people and has been
 summoned to be with God.
@@ -267,18 +268,19 @@ that to him, Sister."<Close><End of Block>
 <TextBlock 44 w:48 h:4>
 Agnes
 "The one depicted in the
-portrait in the painting
-room is Sophia.<New>
-She was the first Holy
-Mother of Nisan.<New>
+painting in the mural
+room is Lady Sophia.<New>
+She was the founding
+Great Holy Mother of
+Nisan.<New>
 According to legend, the
 portrait was painted
 about 500 years ago."<Close><End of Block>
 <TextBlock 45 w:48 h:3>
 Agnes
-"I understand you were
-shown Sophia's portrait.<New>
-The lady in that picture
+"So you saw the painting
+of Lady Sophia?<New>
+The one in that painting
 is the founding Great
 Holy Mother of Nisan.<New>
 Some say that it was
@@ -297,7 +299,7 @@ Agnes
 "In our hands, there are no
 such records left intact.<New>
 All records and materials
-concerning Sophia have
+concerning Lady Sophia have
 been lost...<New>
 The portrait is the only
 thing left.<New>
@@ -332,8 +334,8 @@ remained, too."<Close><End of Block>
 <TextBlock 52 w:54 h:4>
 Agnes
 "According to tradition,
-Sophia was present about
-500 years ago...<New>
+Lady Sophia was present
+about 500 years ago...<New>
 She sacrificed herself for
 the people and has been
 summoned to be with God.

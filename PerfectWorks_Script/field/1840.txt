@@ -487,9 +487,9 @@ had been manipulated into
 assassinating the Emperor.<Delay 45>
  
 It was the effect of the
-'Key of Goetia' invoked by
-the Ministry, now free of
-that restraint...<Delay 30>
+'Key of Goetia' invoked
+by the Ministry, their
+restraint now gone...<Delay 30>
  
 The mutagenesis of those
 people destined by God.<Close><End of Block>
@@ -567,168 +567,164 @@ We would make our move
 the following morning.<Delay 10>
 And so, I made a
 decision.<Delay 10> About her...<Close><End of Block>
-<TextBlock 59 w:56 h:9>
-Overcome by indescribable
-fear, I decided ascend to
-Shevat which was stationed
-in the skies above Nisan.<New>
-Awaiting me there was a
-transmission from 
-Karellen...<Delay 45>
+<TextBlock 59 w:56 h:10>
+Struck by indescribable
+worry, I ascended to
+Shevat, which was situated
+in the sky above Nisan.<New>
+Waiting for me there
+was a communication
+from Karellen...<Delay 45>
  
 He told me that if I
 wanted to save Fei and
-the others, I would have
-to come to Golgotha.<Delay 30>
+the others, I was to come
+to 'the land of Golgotha'.<Delay 30>
  
-Karellen wanted me.<Close><End of Block>
+Karellen was after me.<Close><End of Block>
 <TextBlock 60 w:58 h:9>
-In order to save Fei and my
-other friends, I departed
-in the last Omnigear left
-remaining in Shevat.<Delay 45>
+For the sake of rescuing Fei
+and the others, I boarded
+the one Gear remaining in
+Shevat:<Delay 10> the Omnigear.<Delay 45>
  
-My previous fear of riding in
-this machine was surmounted
-by my desire to rescue the
-people dear to me.<Close><End of Block>
+Any fear of this Gear I'd
+felt before was swept away
+by the desire to rescue
+my friends.<Close><End of Block>
 <TextBlock 61 w:44 h:3>
 Rank
-"Are you serious about
-going it alone!?"<Close><End of Block>
+"You seriously intend
+to go alone!?"<Close><End of Block>
 <TextBlock 62 w:38 h:3>
 Elly
 "Karellen told me
 to come by myself."<Close><End of Block>
-<TextBlock 63 w:52 h:3>
+<TextBlock 63 w:46 h:3>
 Elly
-"I can't afford to break
-the agreement.<New>
-So please, stay behind and
-protect everyone here."<Close><End of Block>
-<TextBlock 64 w:38 h:2>
+"I've got no choice but
+to do as he says.<New>
+So please, all of you
+remain in Shevat.<Delay 10>
+Protect everyone here."<Close><End of Block>
+<TextBlock 64 w:36 h:2>
 Helmholtz
-"But,<Delay 5> it's a trap!"<Close><End of Block>
+"But it's a trap!"<Close><End of Block>
 <TextBlock 65 w:18 h:2>
 Elly
 "I know."<Close><End of Block>
 <TextBlock 66 w:24 h:2>
 Strachey
 "Then why!?"<Close><End of Block>
-<TextBlock 67 w:50 h:4>
+<TextBlock 67 w:44 h:4>
 Elly
-"If I do not go, Fei and
-the others will be 
+"If I don't go, Fei
+and the others will be
 executed for sure...<New>
-Karellen isn't concerned
-with anyone else but me."<Close><End of Block>
-<TextBlock 68 w:48 h:4>
+To Karellen, anyone
+besides me is of no
+interest."<Close><End of Block>
+<TextBlock 68 w:38 h:4>
 Rank
-"So what makes you think
-he's going to hold his
-part of the bargain?<New>
-Do you have any way of
-knowing that you will
-definitely save your
-friends by doing this?"<Close><End of Block>
-<TextBlock 69 w:14 h:2>
+"But what guarantee
+is there that he'll
+keep his promise?<New>
+What's he done to
+prove to you that
+they can be saved?"<Close><End of Block>
+<TextBlock 69 w:24 h:2>
 Elly
-"No<Delay 5>..."<Close><End of Block>
+"Nothing..."<Close><End of Block>
 <TextBlock 70 w:40 h:2>
 Franz
 "Then it's suicide!"<Close><End of Block>
 <TextBlock 71 w:28 h:2>
 Elly
-"It might be."<Close><End of Block>
+"Maybe it is."<Close><End of Block>
 <TextBlock 72 w:48 h:4>
 Elly
-"But,<Delay 5> I've made it this
-far because of Fei and
-the others...<New>
-Because they accepted me
-as their friend."<Close><End of Block>
-<TextBlock 73 w:54 h:3>
+"But I wouldn't be here
+right now if it wasn't
+for Fei and the others.<New>
+Because they're comrades
+who accepted me."<Close><End of Block>
+<TextBlock 73 w:52 h:4>
 Rank
-"If you go away...
-what about us...?<New>
-What about all the people
-who have assembled in Nisan
-that you leave behind?<New>
-Everyone's depending on
-you for their spiritual
-support."<Close><End of Block>
+"If you go, what about us?<New>
+Hell, what about the whole
+mob gathered in Nisan that
+you'd be leaving behind?
+What're we supposed to do?<New>
+Aren't you the spiritual
+support for us all?"<Close><End of Block>
 <TextBlock 74 w:54 h:4>
 Elly
-"The people in Nisan will
+"The people of Nisan will
 be fine.<New>
-They can stand on their own
-feet without my support
-<Delay 5>...<Delay 30> This is also
-true of you all,<Delay 5> right?"<Close><End of Block>
+They're all people who can
+walk on their own feet,
+even without that support.<New>
+Of course, that goes for
+you guys, too...<Delay 5>right?"<Close><End of Block>
 <TextBlock 75 w:40 h:3>
 Breuer
-"But why do you do
-so much for him<Delay 5>...?"<Close><End of Block>
-<TextBlock 76 w:50 h:3>
+"Why would you go to
+such lengths<Delay 5>...?"<Close><End of Block>
+<TextBlock 76 w:48 h:4>
 Elly
-"I don't know<Delay 5>...<New>
-I guess it's a woman's
-prerogative to be selfish
-<Delay 5>...<Delay 5>perhaps."<Close><End of Block>
-<TextBlock 77 w:54 h:2>
+"You're right...<Delay 30>
+A woman's selfishness...<Delay 5>
+I guess."<Close><End of Block>
+<TextBlock 77 w:30 h:2>
 Helmholtz
-"A woman's prerogative...?"<Close><End of Block>
-<TextBlock 78 w:50 h:4>
+"A woman's<Delay 5>...?"<Close><End of Block>
+<TextBlock 78 w:46 h:4>
 Elly
-"I'm not a holy woman of
-any sort.
-I'm just a regular woman.<New>
+"I'm no holy woman.<Delay 10> I'm
+really quite ordinary.<New>
 I get angry<Delay 5>...<Delay 5>
 I cry<Delay 5>...<Delay 5>
 I laugh<Delay 5>...<New>
-Although at times I can
-resent others, I also
-know how to love others.<New>
-Loving whole masses of
-people at times<Delay 5>...<Delay 5>and
-loving just one person
-the rest of the time<Delay 5>...<New>
-I am in supreme bliss
-when I am embraced by
+There are times when I
+hate people,<Delay 5> but on the
+other hand I also know
+how to love.<New>
+Be that loving a great
+many people,<Delay 5> or loving
+one man only...<New>
+I feel total bliss when
+I'm in his embrace."<Close><End of Block>
+<TextBlock 79 w:48 h:4>
+Elly
+"Giving what I have, and
+receiving what he gives
+to me, we become one.<New>
+That moment is when I'm
+most at peace."<Close><End of Block>
+<TextBlock 80 w:42 h:4>
+Elly
+"As one woman...
+I simply want to save
 the man that I love."<Close><End of Block>
-<TextBlock 79 w:54 h:4>
-Elly
-"Giving what I have to him,
-and receiving what he gives
-me, we become one flesh<Delay 5>...<New>
-That is the moment when I
-am most at peace."<Close><End of Block>
-<TextBlock 80 w:52 h:4>
-Elly
-"It is my prerogative as
-a woman to simply want to
-save the man that I love!"<Close><End of Block>
 <TextBlock 81 w:18 h:2>
 Franz
 "Boss<Delay 5>..."<Close><End of Block>
-<TextBlock 82 w:46 h:3>
+<TextBlock 82 w:38 h:3>
 Elly
-"I'm sorry<Delay 15>...<Delay 5>for saying
-such selfish things."<Close><End of Block>
-<TextBlock 83 w:50 h:3>
+"Forgive me...<Delay 15>
+For being selfish."<Close><End of Block>
+<TextBlock 83 w:48 h:4>
 Elly
-"I'll go and do all that
-I can do for my friends.<New>
-So I want you all to do
-whatever it is you can do
-for our friends here."<Close><End of Block>
+"I'm going to go do what
+I can.<Delay 10> So I want you all
+to do what YOU can."<Close><End of Block>
 <TextBlock 84 w:10 h:2>
 Rank
 "<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 85 w:38 h:3>
+<TextBlock 85 w:34 h:3>
 Elly
-"Well,<Delay 5> I had better
-get going now..."<Close><End of Block>
+"Well,<Delay 5> I'd better
+get going..."<Close><End of Block>
 <TextBlock 86 w:38 h:1>
 Monolog Debug Map 1<Close><End of Block>
 <TextBlock 87 w:46 h:8>

@@ -1,8 +1,8 @@
-<TextBlock 1 w:46 h:4>
+<TextBlock 1 w:52 h:4>
 Citan
-"This time, when the
-government changes the
-effect will be huge.<New>
+"This time, when Av's
+political situation shifts
+it will have real meaning.<New>
 We must succeed at all
 costs."<Close><End of Block>
 <TextBlock 2 w:48 h:4>
@@ -51,19 +51,19 @@ Av soldiers."<Close><End of Block>
 Bart
 "Alright, let's
 move on out!"<Close><End of Block>
-<TextBlock 8 w:46 h:4>
+<TextBlock 8 w:50 h:4>
 Sigurd
-"Young Master, don't
-try to be a hero...
-just get the job done."<Close><End of Block>
+"Young Master, let's
+do what we usually do
+without going too crazy."<Close><End of Block>
 <TextBlock 9 w:54 h:5>
 Damn Shakhan...
 When I get a hold of him
 I'll swing him around by
 his hair...after I've given
 him a hair implant.<Close><End of Block>
-<TextBlock 10 w:46 h:1>
-Pull yourself together.<Close><End of Block>
+<TextBlock 10 w:36 h:1>
+I'll stay focused.<Close><End of Block>
 <TextBlock 11 w:46 h:3>
 Let's avoid fighting
 our cousins in the Av

@@ -13,8 +13,8 @@ Lacan
 this, why study?"<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Karellen
-"Sophia teaches that the
-best way to calm the
+"Lady Sophia teaches that
+the best way to calm the
 spirit is to read a book.<New>
 That's what got me
 started.<Delay 10> It sparked my
@@ -57,11 +57,13 @@ Not all of us are
 so lucky<Delay 5>..."<Close><End of Block>
 <TextBlock 12 w:46 h:4>
 Karellen
-"Sophia first showed me
-that books are the best
-way to calm the spirit,<New>
-and now I'm hooked on
-reading."<Close><End of Block>
+"The best way to calm
+the spirit is to read
+a book...<New>
+That's what Lady Sophia
+first advised me, and
+now I'm completely
+hooked."<Close><End of Block>
 <TextBlock 13 w:54 h:4>
 Karellen
 "I'm not trying to brag<Delay 5>...<Delay 15>
@@ -170,14 +172,14 @@ Elly
 <TextBlock 29 w:54 h:4>
 Margie
 "Elly, you are without a
-doubt Sophia reborn, just
-like everyone's saying!<New>
+doubt Lady Sophia reborn,
+just as everyone's saying!<New>
 You're not supposed to know
 the teachings of Nisan,<New>
 but the things you're
-saying are the very
-words of Sophia that
-were handed down."<Close><End of Block>
+saying are the very words
+of Lady Sophia that were
+handed down."<Close><End of Block>
 <TextBlock 30 w:36 h:3>
 Elly
 "Yes<Delay 5>...<Delay 30>

@@ -6,8 +6,8 @@ Sis...!!<Opcode 2 30><Close><End of Block>
 Franz
 "Where do you think
 you're going?"<Opcode 2 60><Close><End of Block>
-<TextBlock 4 w:28 h:1>
-St-Stop it...<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:24 h:1>
+S-Stop it...<Opcode 2 30><Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Franz
 "How admirable...<Delay 30>
@@ -20,7 +20,7 @@ Fei
 "Why are you fighting?"<Close><End of Block>
 <TextBlock 8 w:42 h:3>
 Franz
-"You, <Delay 10>
+"You,<Delay 10>
 what are you doing!?"<Close><End of Block>
 <TextBlock 9 w:40 h:3>
 Fei
@@ -31,6 +31,6 @@ Fei
 "What if this was 
 your home!?"<Close><End of Block>
 <TextBlock 11 w:34 h:1>
-Aaaaahhhhhhhh!!!!<Opcode 2 20><Close><End of Block>
+Aaaaahhhhhhhh!!!!<Opcode 2 30><Close><End of Block>
 <TextBlock 12 w:0 h:1>
 <Close><End of Block>

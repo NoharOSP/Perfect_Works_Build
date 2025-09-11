@@ -1032,7 +1032,7 @@ would spurn Him<Delay 5>...<Close><End of Block>
 Let us carry out
 the reactivation of
 Soylent in key
-locations.<Delay 5>...<Close><End of Block>
+locations<Delay 5>...<Close><End of Block>
 <TextBlock 202 w:50 h:4>
 At any rate, those whose
 mutation is incomplete...<Delay 10>

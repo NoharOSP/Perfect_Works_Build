@@ -461,10 +461,10 @@ Maria
 "But...
 We can't just let
 a Solaris spy<-->!"<Close><End of Block>
-<TextBlock 73 w:46 h:3>
+<TextBlock 73 w:40 h:3>
 Maria
 "I'll be fine.<Delay 20>
-I can go it alone...!!"<Close><End of Block>
+I can go alone...!!"<Close><End of Block>
 <TextBlock 74 w:14 h:3>
 Maria
 "...!<Delay 20>
