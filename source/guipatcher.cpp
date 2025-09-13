@@ -1470,6 +1470,47 @@ void monsterEdits(std::string file) {
 	fileContents.close();
 }
 
+// Apply fast text changes
+void exeEdits(std::string file) {
+	std::string trimfile = file;
+	trimfile.erase(0, 5);
+	if (!p_fmv) {
+		// Check if filename is 0022
+		if (trimfile != "0022") {
+			return;
+		}
+	}
+	else {
+		if (discNum == 1) {
+			// Check if filename is SLUS_006.64
+			if (trimfile != "SLUS_006.64") {
+				return;
+			}
+		}
+		if (discNum == 2) {
+			// Check if filename is SLUS_006.69
+			if (trimfile != "SLUS_006.69") {
+				return;
+			}
+		}
+	}
+	// Open file
+	std::fstream fileContents;
+	fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
+	// Find the position of the text speed value
+	fileContents.seekp(151908, std::ios_base::beg);
+	int speed = 0x05;
+	// Apply additional FMV version edits
+	if (p_fmv) {
+		fileContents.seekp(151911, std::ios_base::beg);
+		int nextval = 0x34;
+		fileContents.write(reinterpret_cast <char*>(&nextval), 2);
+	}
+	fileContents.write(reinterpret_cast < char*>(&speed), 2);
+	// Close file
+	fileContents.close();
+}
+
 
 bool applyPatch(int discNum) {
 	std::vector<std::string> patchList;
@@ -1524,7 +1565,6 @@ bool applyPatch(int discNum) {
 	if (!patchList.empty()) {
 		// Create ROMs using xenoiso
 		log_file << "Create temporary directory." << std::endl;
-		std::string temp = "temp";
 		std::filesystem::current_path(filePath);
 		std::filesystem::create_directory(temp);
 		log_file << "Copy files from each selected option into the temporary directory." << std::endl;
@@ -1577,6 +1617,14 @@ bool applyPatch(int discNum) {
 			}
 		}
 		if (p_fastnew || p_fastold) {
+			// Copy executable to temp
+			if (!p_fmv) {
+				std::filesystem::copy(exeName, temp, std::filesystem::copy_options::update_existing);
+				log_file << "Applying text speed change to game's executable." << std::endl;
+				for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+					exeEdits(entry.path().string());
+				}
+			}
 			if (discNum == 1) {
 				std::filesystem::copy(fastName1, temp, std::filesystem::copy_options::update_existing);
 			}
@@ -1779,24 +1827,40 @@ bool applyPatch(int discNum) {
 	log_file << xenoisoLog.rdbuf() << "\n";
 	// Insert new SLUS
 	if (p_fmv) {
+		if (p_fastnew || p_fastold) {
+			// Add fast text to softsubs SLUS
+			std::filesystem::current_path(filePath);
+			if (discNum == 1) {
+				std::filesystem::copy(slusDisc1, temp, std::filesystem::copy_options::update_existing);
+			}
+			if (discNum == 2) {
+				std::filesystem::copy(slusDisc2, temp, std::filesystem::copy_options::update_existing);
+			}
+			log_file << "Applying text speed change to game's executable." << std::endl;
+			// CONTINUE HERE. Resolve bug where the game's text won't appear
+			for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+				exeEdits(entry.path().string());
+			}
+			std::filesystem::current_path(home);
+		}
 		// Create batch file to make a new SLUS
 		std::ofstream batch_file2;
 		log_file << "Creating new SLUS file." << std::endl;
 		batch_file2.open("commands2.cmd", std::ios::trunc);
 		if (discNum == 1) {
 			if (p_fastold || p_fastnew) {
-				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\fast\\disc1\\SLUS_006.64" << std::endl;
+				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\temp\\SLUS_006.64" << std::endl;
 			}
 			else {
-				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\non_fast\\disc1\\SLUS_006.64" << std::endl;
+				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\disc1\\SLUS_006.64" << std::endl;
 			}
 		}
 		if (discNum == 2) {
 			if (p_fastold || p_fastnew) {
-				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\fast\\disc2\\SLUS_006.69" << std::endl;
+				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\temp\\SLUS_006.69" << std::endl;
 			}
 			else {
-				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\non_fast\\disc2\\SLUS_006.69" << std::endl;
+				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\disc2\\SLUS_006.69" << std::endl;
 			}
 		}
 		batch_file2.close();
