@@ -14,7 +14,7 @@ It can't be<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Elly
 "The land of genesis, 
-Kadomoni...<Delay 5>
+Kadmoni...<Delay 5>
 where<Delay 5>...<Delay 5>everything started.<New>
 But why do people have no
 memory of this<Delay 5>..."<Close><End of Block>
@@ -26,7 +26,7 @@ Citan
 "<Delay 5>...<Delay 5>What is this place?"<Close><End of Block>
 <TextBlock 8 w:52 h:3>
 Citan
-"Even so Fei.<New>
+"Even so, Fei.<New>
 Even with your shared fate
 with Deus, why do you have
 such ancient memories<Delay 5>...<Delay 5>?"<Close><End of Block>
@@ -102,7 +102,7 @@ humans, but Fei's is
 churuly amazing!"<Close><End of Block>
 <TextBlock 24 w:48 h:2>
 <Chu-Chu>
-"Wha,<Delay 5> what's this then?"<Close><End of Block>
+"Wh-<Delay 5>What's this then?"<Close><End of Block>
 <TextBlock 25 w:48 h:2>
 Maria
 "<Delay 5>...<Delay 5>What is this place?"<Close><End of Block>
@@ -120,7 +120,7 @@ Citan
 "What is this place<Delay 5>...<Delay 5>!?"<Close><End of Block>
 <TextBlock 29 w:52 h:3>
 Citan
-"Even so Fei...<New>
+"Even so, Fei...<New>
 Even with your shared fate
 with Deus, why do you have
 such ancient memories<Delay 5>...<Delay 5>?"<Close><End of Block>
@@ -203,7 +203,7 @@ from there<Delay 5>..."<Close><End of Block>
 <TextBlock 44 w:42 h:4>
 Fei
 "The land of genesis,<Delay 5>
-'Kadomoni'<Delay 5>...<Delay 5>
+'Kadmoni'<Delay 5>...<Delay 5>
 This is that place."<Close><End of Block>
 <TextBlock 45 w:54 h:4>
 Fei
