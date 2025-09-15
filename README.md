@@ -1,5 +1,8 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
+
+Download the latest release here: 
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.7.2
   
 ## Instructions:
 
