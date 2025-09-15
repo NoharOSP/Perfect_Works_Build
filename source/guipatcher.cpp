@@ -772,28 +772,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						voiceName2 = "voice";
 					}
 				}
-				if (p_flashes) {
-					if (pathFound1) {
-						if (!p_items_spells) {
-							log_file << "Disc 1 no battle flashes directory found." << std::endl;
-							flashesName1 = "flashes";
-						}
-						else {
-							log_file << "Disc 1 no battle flashes/rebalanced characters directory found." << std::endl;
-							flashesName1 = "flashes_items";
-						}
-					}
-					if (pathFound2) {
-						if (!p_items_spells) {
-							log_file << "Disc 2 no battle flashes directory found." << std::endl;
-							flashesName2 = "flashes";
-						}
-						else {
-							log_file << "Disc 2 no battle flashes/rebalanced characters directory found." << std::endl;
-							flashesName2 = "flashes_items";
-						}
-					}
-				}
 				if (p_story_mode) {
 					if (pathFound1) {
 						if (!p_script) {
@@ -816,8 +794,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 					}
 				}
-				// Bug patch is not applied with items/spells, script and battle flashes as they already have it applied.
-				if ((!p_items_spells && !p_flashes) && !p_script) {
+				// Bug patch is not applied with items/spells and script as they already have it applied.
+				if (!p_items_spells && !p_script) {
 					if (pathFound1) {
 						log_file << "Disc 1 bug fix directory found." << std::endl;
 						bugName1 = "bug_fix";
@@ -1054,8 +1032,6 @@ void initialisePatchLists() {
 	patchList2.emplace_back(titleName2);
 	patchList1.emplace_back(voiceName1);
 	patchList2.emplace_back(voiceName2);
-	patchList1.emplace_back(flashesName1);
-	patchList2.emplace_back(flashesName2);
 	patchList1.emplace_back(fmvPatch1);
 	patchList2.emplace_back(fmvPatch2);
 }
@@ -1144,8 +1120,6 @@ void reinitialisePatches() {
 	titleName2 = "";
 	voiceName1 = "";
 	voiceName2 = "";
-	flashesName1 = "";
-	flashesName2 = "";
 	storyModeName1 = "";
 	storyModeName2 = "";
 	fmvPatch1 = "";
@@ -1500,16 +1474,49 @@ void exeEdits(std::string file) {
 	// Find the position of the text speed value
 	fileContents.seekp(151908, std::ios_base::beg);
 	int speed = 0x05;
+	fileContents.write(reinterpret_cast <char*>(&speed), 2);
 	// Apply additional FMV version edits
 	if (p_fmv) {
 		fileContents.seekp(151911, std::ios_base::beg);
 		int nextval = 0x34;
 		fileContents.write(reinterpret_cast <char*>(&nextval), 2);
 	}
-	fileContents.write(reinterpret_cast < char*>(&speed), 2);
 	// Close file
 	fileContents.close();
 }
+
+// Remove battle flashes
+void battleExeEdits(std::string file) {
+	std::string trimfile = file;
+	trimfile.erase(0, 5);
+	// Check if filename is 0038
+	if (trimfile != "0038") {
+		return;
+	}
+	// Decompress file
+	std::filesystem::current_path(home);
+	int batch_decompress = system("Tools\\xenocomp.exe -d gamefiles\\temp\\0038 gamefiles\\temp\\0038.dec");
+	std::filesystem::current_path(filePath);
+	std::filesystem::current_path(temp);
+	std::string decomp = "0038.dec";
+	// Open file
+	std::fstream fileContents;
+	fileContents.open(decomp, std::ios::in | std::ios::out | std::ios::binary);
+	// Find the position of the text speed value
+	fileContents.seekp(278032, std::ios_base::beg);
+	int flash = 0x00;
+	fileContents.write(reinterpret_cast <char*>(&flash), 2);
+	// Close file
+	fileContents.close();
+	// Recompress file
+	std::filesystem::current_path(home);
+	int batch_compress = system("Tools\\xenocomp.exe -c gamefiles\\temp\\0038.dec gamefiles\\temp\\0038");
+	// Remove decompressed file
+	std::filesystem::current_path(filePath);
+	std::filesystem::current_path(temp);
+	remove("0038.dec");
+}
+
 
 
 bool applyPatch(int discNum) {
@@ -1696,14 +1703,6 @@ bool applyPatch(int discNum) {
 				std::filesystem::copy(voiceName2, temp, std::filesystem::copy_options::update_existing);
 			}
 		}
-		if (p_flashes) {
-			if (discNum == 1) {
-				std::filesystem::copy(flashesName1, temp, std::filesystem::copy_options::update_existing);
-			}
-			if (discNum == 2) {
-				std::filesystem::copy(flashesName2, temp, std::filesystem::copy_options::update_existing);
-			}
-		}
 		if (p_story_mode) {
 			if (discNum == 1) {
 				if (storyModeName1 != "") {
@@ -1750,6 +1749,12 @@ bool applyPatch(int discNum) {
 			}
 			if (discNum == 2) {
 				std::filesystem::copy(fmvName2, temp, std::filesystem::copy_options::update_existing);
+			}
+		}
+		if (p_flashes) {
+			log_file << "Applying battle executable changes." << std::endl;
+			for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+				battleExeEdits(entry.path().string());
 			}
 		}
 		std::filesystem::current_path(home);
@@ -1837,7 +1842,6 @@ bool applyPatch(int discNum) {
 				std::filesystem::copy(slusDisc2, temp, std::filesystem::copy_options::update_existing);
 			}
 			log_file << "Applying text speed change to game's executable." << std::endl;
-			// CONTINUE HERE. Resolve bug where the game's text won't appear
 			for (const auto& entry : std::filesystem::directory_iterator(temp)) {
 				exeEdits(entry.path().string());
 			}
