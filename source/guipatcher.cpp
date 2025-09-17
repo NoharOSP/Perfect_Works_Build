@@ -781,25 +781,25 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						voiceName2 = "voice";
 					}
 				}
-				if (p_flashes) {
+				if (p_roni) {
 					if (pathFound1) {
-						if (!p_items_spells) {
-							log_file << "Disc 1 no battle flashes directory found." << std::endl;
-							flashesName1 = "flashes";
+						if (!p_portraits) {
+							log_file << "Disc 1 non-resized Roni directory found." << std::endl;
+							roniName1 = "pw_roni";
 						}
 						else {
-							log_file << "Disc 1 no battle flashes/rebalanced characters directory found." << std::endl;
-							flashesName1 = "flashes_items";
+							log_file << "Disc 1 resized Roni directory found." << std::endl;
+							roniName1 = "resized_roni";
 						}
 					}
 					if (pathFound2) {
-						if (!p_items_spells) {
-							log_file << "Disc 2 no battle flashes directory found." << std::endl;
-							flashesName2 = "flashes";
+						if (!p_portraits) {
+							log_file << "Disc 2 non-resized Roni directory found." << std::endl;
+							roniName2 = "pw_roni";
 						}
 						else {
-							log_file << "Disc 2 no battle flashes/rebalanced characters directory found." << std::endl;
-							flashesName2 = "flashes_items";
+							log_file << "Disc 2 resized Roni directory found." << std::endl;
+							roniName2 = "resized_roni";
 						}
 					}
 				}
@@ -847,8 +847,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 					}
 				}
-				// Bug patch is not applied with items/spells, script and battle flashes as they already have it applied.
-				if ((!p_items_spells && !p_flashes) && !p_script) {
+				// Bug patch is not applied with items/spells and script as they already have it applied.
+				if (!p_items_spells && !p_script) {
 					if (pathFound1) {
 						log_file << "Disc 1 bug fix directory found." << std::endl;
 						bugName1 = "bug_fix";
@@ -1086,8 +1086,6 @@ void initialisePatchLists() {
 	patchList2.emplace_back(titleName2);
 	patchList1.emplace_back(voiceName1);
 	patchList2.emplace_back(voiceName2);
-	patchList1.emplace_back(flashesName1);
-	patchList2.emplace_back(flashesName2);
 	patchList1.emplace_back(fmvPatch1);
 	patchList2.emplace_back(fmvPatch2);
 }
@@ -1176,8 +1174,6 @@ void reinitialisePatches() {
 	titleName2 = "";
 	voiceName1 = "";
 	voiceName2 = "";
-	flashesName1 = "";
-	flashesName2 = "";
 	storyModeName1 = "";
 	storyModeName2 = "";
 	fmvPatch1 = "";
@@ -1511,6 +1507,80 @@ void monsterEdits(std::string file) {
 	fileContents.close();
 }
 
+// Apply fast text changes
+void exeEdits(std::string file) {
+	std::string trimfile = file;
+	trimfile.erase(0, 5);
+	if (!p_fmv) {
+		// Check if filename is 0022
+		if (trimfile != "0022") {
+			return;
+		}
+	}
+	else {
+		if (discNum == 1) {
+			// Check if filename is SLUS_006.64
+			if (trimfile != "SLUS_006.64") {
+				return;
+			}
+		}
+		if (discNum == 2) {
+			// Check if filename is SLUS_006.69
+			if (trimfile != "SLUS_006.69") {
+				return;
+			}
+		}
+	}
+	// Open file
+	std::fstream fileContents;
+	fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
+	// Find the position of the text speed value
+	fileContents.seekp(151908, std::ios_base::beg);
+	int speed = 0x05;
+	fileContents.write(reinterpret_cast <char*>(&speed), 2);
+	// Apply additional FMV version edits
+	if (p_fmv) {
+		fileContents.seekp(151911, std::ios_base::beg);
+		int nextval = 0x34;
+		fileContents.write(reinterpret_cast <char*>(&nextval), 2);
+	}
+	// Close file
+	fileContents.close();
+}
+
+// Remove battle flashes
+void battleExeEdits(std::string file) {
+	std::string trimfile = file;
+	trimfile.erase(0, 5);
+	// Check if filename is 0038
+	if (trimfile != "0038") {
+		return;
+	}
+	// Decompress file
+	std::filesystem::current_path(home);
+	int batch_decompress = system("Tools\\xenocomp.exe -d gamefiles\\temp\\0038 gamefiles\\temp\\0038.dec");
+	std::filesystem::current_path(filePath);
+	std::filesystem::current_path(temp);
+	std::string decomp = "0038.dec";
+	// Open file
+	std::fstream fileContents;
+	fileContents.open(decomp, std::ios::in | std::ios::out | std::ios::binary);
+	// Find the position of the text speed value
+	fileContents.seekp(278032, std::ios_base::beg);
+	int flash = 0x00;
+	fileContents.write(reinterpret_cast <char*>(&flash), 2);
+	// Close file
+	fileContents.close();
+	// Recompress file
+	std::filesystem::current_path(home);
+	int batch_compress = system("Tools\\xenocomp.exe -c gamefiles\\temp\\0038.dec gamefiles\\temp\\0038");
+	// Remove decompressed file
+	std::filesystem::current_path(filePath);
+	std::filesystem::current_path(temp);
+	remove("0038.dec");
+}
+
+
 
 bool applyPatch(int discNum) {
 	std::vector<std::string> patchList;
@@ -1565,7 +1635,6 @@ bool applyPatch(int discNum) {
 	if (!patchList.empty()) {
 		// Create ROMs using xenoiso
 		log_file << "Create temporary directory." << std::endl;
-		std::string temp = "temp";
 		std::filesystem::current_path(filePath);
 		std::filesystem::create_directory(temp);
 		log_file << "Copy files from each selected option into the temporary directory." << std::endl;
@@ -1618,6 +1687,14 @@ bool applyPatch(int discNum) {
 			}
 		}
 		if (p_fastnew || p_fastold) {
+			// Copy executable to temp
+			if (!p_fmv) {
+				std::filesystem::copy(exeName, temp, std::filesystem::copy_options::update_existing);
+				log_file << "Applying text speed change to game's executable." << std::endl;
+				for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+					exeEdits(entry.path().string());
+				}
+			}
 			if (discNum == 1) {
 				std::filesystem::copy(fastName1, temp, std::filesystem::copy_options::update_existing);
 			}
@@ -1689,12 +1766,12 @@ bool applyPatch(int discNum) {
 				std::filesystem::copy(voiceName2, temp, std::filesystem::copy_options::update_existing);
 			}
 		}
-		if (p_flashes) {
+		if (p_roni) {
 			if (discNum == 1) {
-				std::filesystem::copy(flashesName1, temp, std::filesystem::copy_options::update_existing);
+				std::filesystem::copy(roniName1, temp, std::filesystem::copy_options::update_existing);
 			}
 			if (discNum == 2) {
-				std::filesystem::copy(flashesName2, temp, std::filesystem::copy_options::update_existing);
+				std::filesystem::copy(roniName2, temp, std::filesystem::copy_options::update_existing);
 			}
 		}
 		if (p_roni) {
@@ -1751,6 +1828,12 @@ bool applyPatch(int discNum) {
 			}
 			if (discNum == 2) {
 				std::filesystem::copy(fmvName2, temp, std::filesystem::copy_options::update_existing);
+			}
+		}
+		if (p_flashes) {
+			log_file << "Applying battle executable changes." << std::endl;
+			for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+				battleExeEdits(entry.path().string());
 			}
 		}
 		std::filesystem::current_path(home);
@@ -1828,24 +1911,39 @@ bool applyPatch(int discNum) {
 	log_file << xenoisoLog.rdbuf() << "\n";
 	// Insert new SLUS
 	if (p_fmv) {
+		if (p_fastnew || p_fastold) {
+			// Add fast text to softsubs SLUS
+			std::filesystem::current_path(filePath);
+			if (discNum == 1) {
+				std::filesystem::copy(slusDisc1, temp, std::filesystem::copy_options::update_existing);
+			}
+			if (discNum == 2) {
+				std::filesystem::copy(slusDisc2, temp, std::filesystem::copy_options::update_existing);
+			}
+			log_file << "Applying text speed change to game's executable." << std::endl;
+			for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+				exeEdits(entry.path().string());
+			}
+			std::filesystem::current_path(home);
+		}
 		// Create batch file to make a new SLUS
 		std::ofstream batch_file2;
 		log_file << "Creating new SLUS file." << std::endl;
 		batch_file2.open("commands2.cmd", std::ios::trunc);
 		if (discNum == 1) {
 			if (p_fastold || p_fastnew) {
-				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\fast\\disc1\\SLUS_006.64" << std::endl;
+				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\temp\\SLUS_006.64" << std::endl;
 			}
 			else {
-				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\non_fast\\disc1\\SLUS_006.64" << std::endl;
+				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\disc1\\SLUS_006.64" << std::endl;
 			}
 		}
 		if (discNum == 2) {
 			if (p_fastold || p_fastnew) {
-				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\fast\\disc2\\SLUS_006.69" << std::endl;
+				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\temp\\SLUS_006.69" << std::endl;
 			}
 			else {
-				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\non_fast\\disc2\\SLUS_006.69" << std::endl;
+				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\sub_executable\\disc2\\SLUS_006.69" << std::endl;
 			}
 		}
 		batch_file2.close();
