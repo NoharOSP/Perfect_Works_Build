@@ -1,9 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
 
-Download the latest build here:
+Download the latest release here: 
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.7.1
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.7.2
   
 ## Instructions:
 
@@ -29,6 +29,20 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The exp/gold patch was designed to work with the lower encounter rate patch. The monster stats, character stats and items patches all act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.7.2:
+
+09/15/2025
+
+- The term Deathblows replaces Skills in the menu.
+- Weaken no longer lowers the user's attack.
+- New Game is now spaced with all patches.
+- Normal mode is now the default option for the Battle Arena in the patcher.
+- Miang's Gear is now called C1 Vierge.
+- Outdated files when merging the script and items/character rebalance patches have been modified.
+- The patcher now ensures that gameplay and arena changes cannot be ticked alongside story mode.
+- Story mode and script merge no longer uses unmerged script files.
+- Yggdrasil medical bay have now been updated in disc 2.
 
 ### Version 0.7.1:
 
