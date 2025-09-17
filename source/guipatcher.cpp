@@ -401,6 +401,15 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				log_file << "No battle flashes unticked." << std::endl;
 				p_flashes = false;
 			}
+			LRESULT roniticked = SendMessage(roni, BM_GETCHECK, NULL, NULL);
+			if (roniticked == BST_CHECKED) {
+				log_file << "Perfect Works Roni ticked." << std::endl;
+				p_roni = true;
+			}
+			else {
+				log_file << "Perfect Works Roni unticked." << std::endl;
+				p_roni = false;
+			}
 			LRESULT storymodeticked = SendMessage(storyMode, BM_GETCHECK, NULL, NULL);
 			if (storymodeticked == BST_CHECKED) {
 				log_file << "Story mode ticked." << std::endl;
@@ -772,6 +781,28 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						voiceName2 = "voice";
 					}
 				}
+				if (p_roni) {
+					if (pathFound1) {
+						if (!p_portraits) {
+							log_file << "Disc 1 non-resized Roni directory found." << std::endl;
+							roniName1 = "pw_roni";
+						}
+						else {
+							log_file << "Disc 1 resized Roni directory found." << std::endl;
+							roniName1 = "resized_roni";
+						}
+					}
+					if (pathFound2) {
+						if (!p_portraits) {
+							log_file << "Disc 2 non-resized Roni directory found." << std::endl;
+							roniName2 = "pw_roni";
+						}
+						else {
+							log_file << "Disc 2 resized Roni directory found." << std::endl;
+							roniName2 = "resized_roni";
+						}
+					}
+				}
 				if (p_story_mode) {
 					if (pathFound1) {
 						if (!p_script) {
@@ -999,6 +1030,7 @@ void initialiseGlobalButtonList() {
 	globalWindList.emplace_back(normalarena);
 	globalWindList.emplace_back(storyMode);
 	globalWindList.emplace_back(flashes);
+	globalWindList.emplace_back(roni);
 }
 
 // Initialise patch list
@@ -1124,6 +1156,8 @@ void reinitialisePatches() {
 	storyModeName2 = "";
 	fmvPatch1 = "";
 	fmvPatch2 = "";
+	roniName1 = "";
+	roniName2 = "";
 	log_file << "Clearing patch lists." << std::endl;
 	patchList1.clear();
 	patchList2.clear();
@@ -1278,6 +1312,12 @@ void tooltipTextMaker(HWND hWnd) {
 		"will also have notable graphical\n"
 		"bugs.";
 	HWND tt_flashes = toolGenerator(text_flashes, hWnd, flashes);
+	char text_roni[] =
+		"Swaps Roni's portrait for his.\n"
+		"Perfect Works design. Changes will\n"
+		"be applied if resized portraits\n"
+		"is selected.\n";
+	HWND tt_roni = toolGenerator(text_roni, hWnd, roni);
 }
 
 // Initialise common controls for parsing large files
@@ -1313,6 +1353,7 @@ void initialiseGlobalWindows(HWND hWnd) {
 	itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.73), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
 	storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * smx), (int)(winY * 0.45), 85, 25, hWnd, (HMENU)9002, hInst, NULL);
 	flashes = CreateWindow(L"BUTTON", L"No battle flashes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.59), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	roni = CreateWindow(L"BUTTON", L"PW Roni", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.66), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
 // Define font for global windows
@@ -1701,6 +1742,14 @@ bool applyPatch(int discNum) {
 			}
 			if (discNum == 2) {
 				std::filesystem::copy(voiceName2, temp, std::filesystem::copy_options::update_existing);
+			}
+		}
+		if (p_roni) {
+			if (discNum == 1) {
+				std::filesystem::copy(roniName1, temp, std::filesystem::copy_options::update_existing);
+			}
+			if (discNum == 2) {
+				std::filesystem::copy(roniName2, temp, std::filesystem::copy_options::update_existing);
 			}
 		}
 		if (p_story_mode) {
