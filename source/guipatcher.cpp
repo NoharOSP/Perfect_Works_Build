@@ -807,21 +807,21 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					if (pathFound1) {
 						if (!p_portraits) {
 							log_file << "Disc 1 non-resized Roni directory found." << std::endl;
-							roniName1 = "pw_roni";
+							roniName1 = "roni_pw\\default";
 						}
 						else {
 							log_file << "Disc 1 resized Roni directory found." << std::endl;
-							roniName1 = "resized_roni";
+							roniName1 = "roni_pw\\resized";
 						}
 					}
 					if (pathFound2) {
 						if (!p_portraits) {
 							log_file << "Disc 2 non-resized Roni directory found." << std::endl;
-							roniName2 = "pw_roni";
+							roniName2 = "roni_pw\\default";
 						}
 						else {
 							log_file << "Disc 2 resized Roni directory found." << std::endl;
-							roniName2 = "resized_roni";
+							roniName2 = "roni_pw\\resized";
 						}
 					}
 				}
