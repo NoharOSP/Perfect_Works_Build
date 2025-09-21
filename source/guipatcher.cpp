@@ -1643,12 +1643,12 @@ bool applyPatch(int discNum) {
 		if (p_script) {
 			if (discNum == 1) {
 				if (scriptName1 != "") {
-					std::filesystem::copy(scriptName1, temp, std::filesystem::copy_options::update_existing);
+					std::filesystem::copy(scriptName1, temp, std::filesystem::copy_options::overwrite_existing);
 				}
 			}
 			if (discNum == 2) {
 				if (scriptName2 != "") {
-					std::filesystem::copy(scriptName2, temp, std::filesystem::copy_options::update_existing);
+					std::filesystem::copy(scriptName2, temp, std::filesystem::copy_options::overwrite_existing);
 				}
 			}
 		}
