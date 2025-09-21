@@ -1640,6 +1640,14 @@ bool applyPatch(int discNum) {
 				}
 			}
 		}
+		if (p_flashes) {
+			if (discNum == 1) {
+				std::filesystem::copy(flashesName1, temp, std::filesystem::copy_options::update_existing);
+			}
+			if (discNum == 2) {
+				std::filesystem::copy(flashesName2, temp, std::filesystem::copy_options::update_existing);
+			}
+		}
 		if (p_script) {
 			if (discNum == 1) {
 				if (scriptName1 != "") {
