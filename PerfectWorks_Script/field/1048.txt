@@ -14,7 +14,7 @@ Sorry, but to prevent pilots
 from cheating, unauthorized
 entry is not permitted."<Close><End of Block>
 <TextBlock 4 w:50 h:4>
-Supervisor
+Committee Man
 "<Delay 5>...<Delay 5>Beyond here is the
 competitors' Gear-storage
 paddock.<New>
@@ -23,7 +23,7 @@ unauthorized entry is
 prohibited. Please
 keep back<Delay 5>..."<Close><End of Block>
 <TextBlock 5 w:56 h:4>
-Supervisor
+Committee Man
 "The Battling Contest is now
 in recess. I'm afraid I'll 
 have to ask you to leave."<Close><End of Block>
@@ -66,8 +66,8 @@ come again."<Close><End of Block>
 Received 2500G in prize money!<Close><End of Block>
 <TextBlock 13 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 14 w:40 h:1>
 Received 800G bonus!<Close><End of Block>
@@ -75,8 +75,8 @@ Received 800G bonus!<Close><End of Block>
 Received 2000G in prize money!<Close><End of Block>
 <TextBlock 16 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 17 w:40 h:1>
 Received 500G bonus!<Close><End of Block>
@@ -84,8 +84,8 @@ Received 500G bonus!<Close><End of Block>
 Received 1500G in prize money!<Close><End of Block>
 <TextBlock 19 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 20 w:40 h:1>
 Received 400G bonus!<Close><End of Block>
@@ -93,8 +93,8 @@ Received 400G bonus!<Close><End of Block>
 Received 2500G in prize money!<Close><End of Block>
 <TextBlock 22 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 23 w:42 h:1>
 Received 1000G bonus!<Close><End of Block>
@@ -102,8 +102,8 @@ Received 1000G bonus!<Close><End of Block>
 Received 2000G in prize money!<Close><End of Block>
 <TextBlock 25 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 26 w:40 h:1>
 Received 600G bonus!<Close><End of Block>
@@ -111,8 +111,8 @@ Received 600G bonus!<Close><End of Block>
 Received 1500G in prize money!<Close><End of Block>
 <TextBlock 28 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 29 w:40 h:1>
 Received 500G bonus!<Close><End of Block>
@@ -126,8 +126,8 @@ Received 1500G in prize money!<Close><End of Block>
 Received 1000G in prize money!<Close><End of Block>
 <TextBlock 34 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 35 w:40 h:1>
 Received 300G bonus!<Close><End of Block>
@@ -135,8 +135,8 @@ Received 300G bonus!<Close><End of Block>
 Received 750G in prize money!<Close><End of Block>
 <TextBlock 37 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 38 w:40 h:1>
 Received 200G bonus!<Close><End of Block>
@@ -144,8 +144,8 @@ Received 200G bonus!<Close><End of Block>
 Received 1000G in prize money!<Close><End of Block>
 <TextBlock 40 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 41 w:40 h:1>
 Received 400G bonus!<Close><End of Block>
@@ -153,8 +153,8 @@ Received 400G bonus!<Close><End of Block>
 Received 750G in prize money!<Close><End of Block>
 <TextBlock 43 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 44 w:40 h:1>
 Received 300G bonus!<Close><End of Block>
@@ -166,8 +166,8 @@ Received 750G in prize money!<Close><End of Block>
 Received 500G in prize money!<Close><End of Block>
 <TextBlock 48 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 49 w:40 h:1>
 Received 200G bonus!<Close><End of Block>
@@ -175,8 +175,8 @@ Received 200G bonus!<Close><End of Block>
 Received 300G in prize money!<Close><End of Block>
 <TextBlock 51 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 52 w:40 h:1>
 Received 100G bonus!<Close><End of Block>
@@ -184,8 +184,8 @@ Received 100G bonus!<Close><End of Block>
 Received 500G in prize money!<Close><End of Block>
 <TextBlock 54 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 55 w:40 h:1>
 Received 300G bonus!<Close><End of Block>
@@ -193,8 +193,8 @@ Received 300G bonus!<Close><End of Block>
 Received 300G in prize money!<Close><End of Block>
 <TextBlock 57 w:50 h:4>
 Receptionist
-"Oh and Supervisor B will
-pay you a special bonus.
+"Oh, and a special bonus
+is paid by the Committee.
 Keep up the good work!"<Close><End of Block>
 <TextBlock 58 w:40 h:1>
 Received 200G bonus!<Close><End of Block>
@@ -209,8 +209,8 @@ Rue
     You bet!<Close><End of Block>
 <TextBlock 62 w:56 h:3>
 Rue
-"As I said before, there's
-not much time,<Delay 5> so do hurry!"<Close><End of Block>
+"As I said before, we're
+short on time,<Delay 5> so do hurry!"<Close><End of Block>
 <TextBlock 63 w:44 h:3>
 Rue
 "Very well, then<Delay 5>...<Delay 15>
@@ -229,12 +229,11 @@ hurry<Delay 5>..."<Close><End of Block>
 Subordinate
 "If your preparations are
 complete then talk to Rue."<Close><End of Block>
-<TextBlock 67 w:22 h:2>
-Subordinate
-"???"<Opcode 2 45><Close><End of Block>
+<TextBlock 67 w:6 h:1>
+???<Opcode 2 45><Close><End of Block>
 <TextBlock 68 w:62 h:2>
 Subordinate
-"Rue, ma'am, <Delay 5>what shall we do?"<Close><End of Block>
+"Rue, ma'am, <Delay 5>what shall we do?"<Opcode 2 60><Close><End of Block>
 <TextBlock 69 w:26 h:2>
 Subordinate
 "Yes,<Delay 5> ma'am!"<Opcode 2 45><Close><End of Block>
@@ -247,12 +246,11 @@ don't leave the arena."<Opcode 2 60><Close><End of Block>
 Subordinate
 "If your preparations are
 complete then talk to Rue."<Close><End of Block>
-<TextBlock 72 w:22 h:2>
-Subordinate
-"???"<Opcode 2 45><Close><End of Block>
+<TextBlock 72 w:6 h:1>
+???<Opcode 2 45><Close><End of Block>
 <TextBlock 73 w:62 h:2>
 Subordinate
-"Rue, ma'am, <Delay 5>what shall we do?"<Close><End of Block>
+"Rue, ma'am, <Delay 5>what shall we do?"<Opcode 2 60><Close><End of Block>
 <TextBlock 74 w:26 h:2>
 Subordinate
 "Yes,<Delay 5> ma'am!"<Opcode 2 45><Close><End of Block>
@@ -359,10 +357,10 @@ Oh and bro, you haven't
 been allocated a Gear yet.
 <Delay 5>...<Delay 5>I wonder what Gear they
 will provide you with<Delay 5>...<Delay 5>?"<Close><End of Block>
-<TextBlock 91 w:40 h:3>
+<TextBlock 91 w:34 h:3>
 Citan
-"<Delay 5>...<Delay 5>Or the reception
-area to be exact."<Close><End of Block>
+"<Delay 5>...<Delay 5>Its reception
+area, at least."<Close><End of Block>
 <TextBlock 92 w:54 h:5>
 Receptionist
 "This year's Imperial Games
@@ -387,9 +385,9 @@ then for the second bout you
 fight<Delay 5>...<Delay 5>Heinrich Clive."<Close><End of Block>
 <TextBlock 94 w:56 h:5>
 Receptionist
-"Your entry has already been
-made. <Delay 15>Please follow the
-supervisor's instructions to
+"You are already registered.<Delay 15>
+Please follow the Committee
+member's instructions to
 compete in your first bout."<Close><End of Block>
 <TextBlock 95 w:56 h:5>
 Receptionist
@@ -583,8 +581,8 @@ Informationist
 What else do you want to
 inquire about?"<Close><End of Block>
 <TextBlock 119 w:50 h:8>
-"Which button do you need
-an explanation for?"<Delay 15>
+Informationist
+"Which shall I explain?"<Delay 15>
 <Opcode 1 255>    Directional buttons
     <X> button
     <S> button
@@ -592,8 +590,8 @@ an explanation for?"<Delay 15>
     <C> button
     Next page<Close><End of Block>
 <TextBlock 120 w:50 h:7>
-"Which shall I explain to
-you about?"<Delay 15>
+Informationist
+"Which shall I explain?"<Delay 15>
 <Opcode 1 255>    L1 button
     R1 button
     START button
@@ -655,9 +653,9 @@ buttons you are able to make
 a chain of attacks up to
 three in length!<New>
 In all, there are eight
-Strings, for a total of four-
-teen attacks! Not every Gear
-has that many, though."<Close><End of Block>
+combinations, for a total of
+fourteen attacks! Not every
+Gear has that many, though."<Close><End of Block>
 <TextBlock 127 w:56 h:4>
 Informationist
 "The <S> button is Attack.<Delay 15>
@@ -672,9 +670,9 @@ buttons you are able to make
 a chain of attacks up to
 three in length!<New>
 In all, there are eight
-Strings, for a total of four-
-teen attacks! Not every Gear
-has that many, though."<Close><End of Block>
+combinations, for a total of
+fourteen attacks! Not every
+Gear has that many, though."<Close><End of Block>
 <TextBlock 128 w:56 h:4>
 Informationist
 "The <T> button is for Jump!<Delay 5>
@@ -935,89 +933,84 @@ prison life is that easy."<Close><End of Block>
 Fei
 "<Delay 5>...<Delay 5>And then there's the
 matter of personal safety!"<Close><End of Block>
-<TextBlock 174 w:54 h:4>
+<TextBlock 174 w:48 h:4>
 Fei
-"Living the rest of my life
-with sewer monsters is not
-that bad<Delay 5>...<New>
-It's just, <Delay 5>well...<Delay 5>
-there are many factors."<Close><End of Block>
-<TextBlock 175 w:56 h:3>
+"Living the rest of my
+life with sewer monsters
+wouldn't be bad, but<Delay 5>...<New>
+It's complicated."<Close><End of Block>
+<TextBlock 175 w:48 h:4>
 Fei
-"Then there's this collar!<Delay 15>
-It gets in the way so much!"<Close><End of Block>
-<TextBlock 176 w:34 h:2>
+"Ultimately, it's this
+collar.<Delay 15> It's just such
+a nuisance."<Close><End of Block>
+<TextBlock 176 w:32 h:2>
 Rue
-"Your collar<Delay 5>...<Delay 5>?"<Close><End of Block>
-<TextBlock 177 w:56 h:3>
+"The collar<Delay 5>...<Delay 5>?"<Close><End of Block>
+<TextBlock 177 w:58 h:3>
 Rue
-"Hahahmm<Delay 5>...<Delay 5>
-You're amusing!<New>
-Are you intending to aim for
-victory despite it being
-your first try at Battling?"<Close><End of Block>
-<TextBlock 178 w:42 h:2>
+"Hahahmm<Delay 5>...<Delay 5>you're amusing.<New>
+Your first time joining the
+Battling, and you actually
+intend to aim for top place?"<Close><End of Block>
+<TextBlock 178 w:48 h:2>
 Fei
-"<Delay 5>...<Delay 5>Is that strange?"<Close><End of Block>
-<TextBlock 179 w:54 h:4>
+"<Delay 5>...<Delay 5>Is that so strange?"<Close><End of Block>
+<TextBlock 179 w:46 h:4>
 Rue
-"No, no!
-Not in the least...<Delay 15>
-Please excuse me!<New>
-You seem to have quite some
-confidence in fighting with
-Gears...<Delay 5>
-I'm looking forward to<Delay 5><-->"<Close><End of Block>
+"No...<Delay 15> My apologies.<New>
+You have quite a bit of
+confidence in fighting
+using a Gear, hmm...?<Delay 5>
+This should be most<Delay 5><-->"<Close><End of Block>
 <TextBlock 180 w:4 h:1>
 !?<Opcode 2 15><Close><End of Block>
-<TextBlock 181 w:54 h:3>
+<TextBlock 181 w:44 h:3>
 Rue
-"Oops<Delay 15>...<Delay 5>excuse me!<Delay 15><New>
-Well, I guess I'll show you
-the way to the paddocks.
-We don't have much time<Delay 5>..."<Close><End of Block>
-<TextBlock 182 w:36 h:2>
+"Uhh<Delay 15>...<Delay 5> Apologies.<New>
+Well, I'll show you to
+the paddock.<Delay 15> We don't
+have much time<Delay 5>..."<Close><End of Block>
+<TextBlock 182 w:34 h:2>
 Fei
-"The paddocks<Delay 5>...?"<Close><End of Block>
-<TextBlock 183 w:54 h:4>
+"The paddock<Delay 5>...?"<Close><End of Block>
+<TextBlock 183 w:48 h:4>
 Rue
-"What, you're thinking that
-you're going to fight via
+"What, did you think
+you'd be Battling via
 flesh and blood?<New>
-<Delay 5>...<Delay 5>Hahahmm, not that I 
-wouldn't mind seeing it,
-but<Delay 5>..."<Close><End of Block>
+<Delay 5>...<Delay 5>Hahahmm, not that I'd
+mind seeing it, but<Delay 5>..."<Close><End of Block>
 <TextBlock 184 w:54 h:4>
 Rue
 "We told you before that
 the Committee would prepare
 a machine for you<Delay 5>...<Delay 15><New>
-What, did you forget?"<Close><End of Block>
-<TextBlock 185 w:54 h:4>
+Or did you forget?"<Close><End of Block>
+<TextBlock 185 w:38 h:4>
 Fei
 "Ah, <Delay 5>no<Delay 5>...<Delay 15>
-The Gear I'm going to pilot
-will be, <Delay 5>uhh<Delay 5>..."<Close><End of Block>
+I'll be piloting...<Delay 10>
+a Gear, huh?"<Close><End of Block>
 <TextBlock 186 w:38 h:3>
 Rue
 "Well, come on now.
 Walk this way..."<Close><End of Block>
-<TextBlock 187 w:48 h:4>
+<TextBlock 187 w:50 h:4>
 Citan
 "Hold on! We are not
-ready yet<Delay 5>...<Delay 5> Can you
-give us a little time?"<Close><End of Block>
-<TextBlock 188 w:56 h:4>
+quite ready yet<Delay 5>...<Delay 5>
+Could you wait a moment?"<Close><End of Block>
+<TextBlock 188 w:54 h:4>
 Rue
-"<Delay 5>...<Delay 5>Understood. <Delay 15>But we don't
-have much time to spare, so
-please hurry up, now<Delay 5>..."<Close><End of Block>
-<TextBlock 189 w:56 h:5>
+"<Delay 5>...<Delay 5>Understood.<Delay 15>
+But there's not much time,
+so please hurry up, now<Delay 5>..."<Close><End of Block>
+<TextBlock 189 w:58 h:4>
 Rue
-"Report to the officials.<Delay 15>
-Pilot confirmation complete.
-Suggest first bout opponent
-to be the black Gear..."<Close><End of Block>
+"Report to the higher-ups.<Delay 15>
+Confirming pilot, first bout,
+with the black Gear..."<Close><End of Block>
 <TextBlock 190 w:56 h:4>
 Hammer
 "You finished the day's
