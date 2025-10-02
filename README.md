@@ -42,7 +42,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - Outdated files when merging the script and items/character rebalance patches have been modified.
 - The patcher now ensures that gameplay and arena changes cannot be ticked alongside story mode.
 - Story mode and script merge no longer uses unmerged script files.
-- Yggdrasil medical bay have now been updated in disc 2.
+- Yggdrasil medical bay has now been updated in disc 2.
 
 ### Version 0.7.1:
 
