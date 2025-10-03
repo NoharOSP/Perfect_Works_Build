@@ -8,10 +8,10 @@ Maria
 "!!!<Delay 40>
 ...Why did you do such
 a horrid thing!?"<Close><End of Block>
-<TextBlock 3 w:10 h:2>
+<TextBlock 3 w:14 h:2>
 Maria
 "No!"<Close><End of Block>
-<TextBlock 4 w:48 h:4>
+<TextBlock 4 w:40 h:4>
 Maria
 "!?<Delay 60> <Delay 40>...<Delay 40><Seibzehn> is
 trembling.<Delay 60>
@@ -22,7 +22,7 @@ father is already<Delay 40>...<New>
 <Delay 40>...<Delay 40>
 Achtzehn is<Delay 40>...<Delay 90>
 not my father!"<Close><End of Block>
-<TextBlock 5 w:46 h:4>
+<TextBlock 5 w:42 h:4>
 Maria
 "<Delay 40>...<Delay 40>Achtzehn!
 I will defeat you!!<Delay 60>
@@ -121,7 +121,7 @@ activate in <Seibzehn>'s
 presence. My message
 is coming from there.<New>
 And, during the battle,
-my data was transferred 
+my data was transferred
 from Achtzehn to
 <Seibzehn>.<New>
 Though my body is
@@ -129,9 +129,9 @@ lost,<Delay 10> my spirit is
 with <Seibzehn>...<New>
 No,<Delay 10> with you, Maria.<Delay 40>
 Now and forever!"<Close><End of Block>
-<TextBlock 15 w:46 h:4>
+<TextBlock 15 w:38 h:4>
 Nikola
 "Maria<Delay 40>...<Delay 40> We will
-always be with you.<Delay 40><New>
-Claudia and I...
+always be with you.<New>
+Claudia and I...<Delay 40>
 Now and forever<Delay 40>...<Delay 40>"<Close><Close><Close><Close><End of Block>

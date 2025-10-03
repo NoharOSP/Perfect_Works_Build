@@ -184,8 +184,8 @@ It was created by two of
 the sages of Shevat,
 Balthasar and Melchior.<New>
 They used the data from the
-Omnigear, Fenrir, brought
-from Solaris by the doctor,
+Omnigear brought from
+Solaris by the Doc,
 and Fei's <Xenogears>.<New>
 It is a union of Gear and
 nanotechnology. But the
@@ -193,7 +193,7 @@ performance is the same as
 when it was an Omnigear.<New>
 The default equipment is
 the sword...which seems
-to be the doctor's weapon
+to be the Doc's weapon
 of choice.<Close><End of Block>
 <TextBlock 14 w:50 h:3>
 Want to rename this Gear?<Delay 10>

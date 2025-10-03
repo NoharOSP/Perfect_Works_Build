@@ -360,7 +360,7 @@ trying to escape<Delay 5>...!<New>
 If you don't wanna die,
 stay away from the off-
 limit areas, such as the
-civilian section, okay!?"<Close><End of Block>
+civilian sector, okay!?"<Close><End of Block>
 <TextBlock 73 w:54 h:4>
 Guard
 "This way's the main town.

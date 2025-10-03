@@ -36,7 +36,7 @@ all-environment model...
 So that's it, huh?<New>
 Now I want it
 even more!"<Close><End of Block>
-<TextBlock 5 w:38 h:3>
+<TextBlock 5 w:20 h:3>
 Pirate
 "Oh crap!"<Close><End of Block>
 <TextBlock 6 w:46 h:4>
@@ -50,8 +50,8 @@ Me, of all people!"<Close><End of Block>
 Pirate
 "Damn!
 It's all your fault!<New>
-Boy, are you going to
-get it later.
+Boy, are you gonna
+get it later.<Delay 10>
 So be ready!"<Close><End of Block>
 <TextBlock 8 w:34 h:4>
 Fei
@@ -67,11 +67,11 @@ Fei
 "Stop it! I'm telling
 you I'm no soldier! I
 don't want to fight!"<Close><End of Block>
-<TextBlock 11 w:8 h:2>
+<TextBlock 11 w:14 h:2>
 Fei
 "!?"<Close><End of Block>
-<TextBlock 12 w:12 h:2>
+<TextBlock 12 w:14 h:4>
 Fei
-"Why is 
-this my 
+"Why is
+this my
 fault?"<Close><Close><Close><UNKNOWN CHUNK 182><Wait><Close><Close>)<Close><End of Block>

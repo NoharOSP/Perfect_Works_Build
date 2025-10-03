@@ -302,7 +302,7 @@ look it over?" <Close><End of Block>
     Yes
     No<Close><End of Block>
 <TextBlock 78 w:34 h:2>
-Gear restoration
+Gear-restoration
 system engaged...<Close><End of Block>
 <TextBlock 79 w:34 h:2>
 You have too many

@@ -1,26 +1,23 @@
-<TextBlock 1 w:48 h:4>
+<TextBlock 1 w:38 h:4>
 Sigurd
 "Young Master!<Delay 10>
 Depth charges away!
 Please stand back!"<Close><End of Block>
-<TextBlock 2 w:32 h:4>
+<TextBlock 2 w:38 h:4>
 Cherubina
-"Don't be
-reckless,
-Dominia!<New>
-Retreat!"<Close><End of Block>
-<TextBlock 3 w:32 h:4>
+"Don't be reckless,
+Dominia!<Delay 10> Retreat!"<Close><End of Block>
+<TextBlock 3 w:38 h:4>
 Dominia
-"Come on,
-Elehayym!<New>
-Show me your
-true self!!"<Opcode 2 40><Close><End of Block>
-<TextBlock 4 w:36 h:4>
+"Come on, Elehayym!<Delay 10>
+Show me your true
+self!!"<Opcode 2 40><Close><End of Block>
+<TextBlock 4 w:34 h:4>
 Dominia
-"Hyah!
+"Guh!
 That was nothing.
 Bring it on!"<Close><End of Block>
-<TextBlock 5 w:48 h:3>
+<TextBlock 5 w:46 h:3>
 Dominia
 "Tch!
 I was so close.<New>

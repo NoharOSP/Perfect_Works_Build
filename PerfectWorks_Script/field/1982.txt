@@ -36,7 +36,7 @@ then I suppose I don't
 mind.<New>
 The Captain teased me
 mercilessly. He said...<New>
- 'What! A cold guy like
+ 'What, a cold guy like
  you, seducing a widow?
  Just make sure the kid
  doesn't hate you...'<New>
@@ -127,9 +127,9 @@ Captain
 <TextBlock 22 w:32 h:2>
 Captain
 "Never say die!"<Close><End of Block>
-<TextBlock 23 w:50 h:2>
+<TextBlock 23 w:44 h:2>
 Captain
-"Gha, ha, ha, ha-a-a-a!!"<Close><End of Block>
+"Gha, ha, ha, haaaa!!"<Close><End of Block>
 <TextBlock 24 w:26 h:3>
 Hans
 "You...<Delay 10>are...<Delay 10>
@@ -148,7 +148,7 @@ legend has it, his fabled
 sword rests there."<Close><End of Block>
 <TextBlock 26 w:54 h:4>
 Hans
-"What info. do you have...?
+"What info do you have...?
 Do you know where the place
 is? What about a ship?"<Close><End of Block>
 <TextBlock 27 w:50 h:4>
@@ -184,7 +184,7 @@ since my husband died<Delay 10>...<New>
 Please don't think I'm a
 loose woman...<Delay 10> But it's
 because of this man that
-I<Delay 10>...(blush)..."<Close><End of Block>
+I<Delay 10>...*blush*..."<Close><End of Block>
 <TextBlock 31 w:40 h:4>
 Lance
 "He is teaching me
@@ -236,10 +236,12 @@ game.<New>
 Do you wanna play?"
     Yes
     No thanks<Close><End of Block>
-<TextBlock 41 w:44 h:1>
-Then it's a challenge!<Close><End of Block>
-<TextBlock 42 w:16 h:1>
-Chicken.<Close><End of Block>
+<TextBlock 41 w:48 h:2>
+Kanna
+"Then it's a challenge!"<Close><End of Block>
+<TextBlock 42 w:20 h:2>
+Kanna
+"Chicken."<Close><End of Block>
 <TextBlock 43 w:38 h:1>
 You're not my dad!!<Close><End of Block>
 <TextBlock 44 w:14 h:1>
@@ -285,7 +287,7 @@ watch the end of the Tamuz<Delay 10>
 with his own eyes<Delay 10>..."<Close><End of Block>
 <TextBlock 52 w:52 h:4>
 Bart
-"Y, you're kidding, right?
+"Y-You're kidding, right?
 That ol' guy died...
 No way..."<Close><End of Block>
 <TextBlock 53 w:44 h:3>
@@ -312,7 +314,7 @@ Hans, heh!"<Close><End of Block>
 <TextBlock 57 w:44 h:3>
 Everyone's gonna die!!
 Booze!!
-Bring booze-e-e-e-e!!<Close><End of Block>
+Bring booooooze!!<Close><End of Block>
 <TextBlock 58 w:46 h:4>
 Hey you, it's freezing
 in here. Can't you do
@@ -325,7 +327,7 @@ What kind of doctor am I
 if I can't save people dying
 right in front of me!?<New>
 Why should an old man like
-me survive that...<Close><End of Block>
+me survive that...?<Close><End of Block>
 <TextBlock 60 w:42 h:4>
 Everyone's down, and
 they're the only ones

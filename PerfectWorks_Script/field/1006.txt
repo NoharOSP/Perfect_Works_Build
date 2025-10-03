@@ -572,7 +572,7 @@ Yeah,<Delay 5> the Gear.<Delay 15>
 I almost forgot."<Close><End of Block>
 <TextBlock 110 w:54 h:4>
 Hammer
-"As the doc predicted, bro,
+"As the Doc predicted, bro,
 your Gear has been moved to
 another dispatchment dock."<Close><End of Block>
 <TextBlock 111 w:40 h:3>

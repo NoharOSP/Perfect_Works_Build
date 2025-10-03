@@ -1,8 +1,8 @@
 <TextBlock 1 w:30 h:3>
 Myyah
-"...Hehem.<Delay 20>.<Delay 20>.<Delay 20>
+"Hehe.<Delay 20>.<Delay 20>.<Delay 20>
 Adieu, boys..."<Close><End of Block>
 <TextBlock 2 w:28 h:3>
 Myyah
 "My,<Delay 60> aren't we
-powerful<Delay 20>.<Delay 20>.<Delay 20>."<Close><Close><Close><UNKNOWN CHUNK 249><Close><Close><End of Block>
+strong<Delay 20>.<Delay 20>.<Delay 20>."<Close><Close><Close><UNKNOWN CHUNK 249><Close><Close><End of Block>

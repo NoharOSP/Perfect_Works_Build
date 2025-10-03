@@ -4,11 +4,11 @@ Bart
 are there!?<New>
 I think I took out
 most of the small fry,
-but...!"<Close><End of Block>
+but<-->!"<Close><End of Block>
 <TextBlock 2 w:20 h:2>
 Bart
 "Dammit!!"<Close><End of Block>
-<TextBlock 3 w:48 h:4>
+<TextBlock 3 w:42 h:4>
 Bart's Officer
 "There are at least
 four, maybe five of

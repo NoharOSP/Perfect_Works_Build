@@ -1,12 +1,13 @@
-<TextBlock 1 w:44 h:2>
+<TextBlock 1 w:32 h:3>
 Fei
-"This...might open..."<Close><End of Block>
+"Looks like this
+will open..."<Close><End of Block>
 <TextBlock 2 w:58 h:6>
-'Truth reflecting mirror'
+'Truth-reflecting mirror'.
 Which do you wish to view?
     <Perso1>'s reflection
     <Perso2>'s reflection
     <Perso3>'s reflection
     Quit<Close><End of Block>
 <TextBlock 3 w:26 h:1>
-No one there.<Close><Close><End of Block>
+Nobody there!<Close><Close><End of Block>

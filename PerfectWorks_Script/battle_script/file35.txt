@@ -1,4 +1,4 @@
-<TextBlock 1 w:40 h:4>
+<TextBlock 1 w:34 h:4>
 Achtzehn
 "Not bad for
 a low-class,

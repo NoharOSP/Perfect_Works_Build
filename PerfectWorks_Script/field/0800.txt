@@ -260,7 +260,7 @@ Agnes
 "I see, my child.<Delay 30>
 Then please tell him this...<New>
  'We will always be with
- you, Master Bartholomew.' "<Close><End of Block>
+ you, Master Bartholomew'."<Close><End of Block>
 <TextBlock 43 w:44 h:3>
 Fei
 "I'll be sure to relay
@@ -392,7 +392,7 @@ Agnes
 "I see, my child.<Delay 30>
 Then please tell him this...<New>
  'We will always be with
- you, Master Bartholomew.' "<Close><End of Block>
+ you, Master Bartholomew'."<Close><End of Block>
 <TextBlock 62 w:44 h:3>
 Fei
 "I'll be sure to relay

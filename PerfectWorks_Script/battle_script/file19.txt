@@ -1,7 +1,6 @@
-<TextBlock 1 w:38 h:3>
-Took possession of
-  Alice's
-    Wedding Dress!<Close><End of Block>
+<TextBlock 1 w:44 h:2>
+Entrusted with Alice's
+'Wedding Dress'!<Close><End of Block>
 <TextBlock 2 w:38 h:3>
 Fei
 "What are you doing
@@ -10,7 +9,7 @@ here, Dan!?"<Close><End of Block>
 Fei
 "...Please, Dan.
 Stop it!"<Close><End of Block>
-<TextBlock 4 w:32 h:4>
+<TextBlock 4 w:26 h:4>
 Fei
 "Argh<Delay 20>...<Delay 20>!
 What should I

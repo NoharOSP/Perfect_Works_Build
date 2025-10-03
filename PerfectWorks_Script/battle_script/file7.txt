@@ -5,7 +5,7 @@ Fei
 Fei
 "Out of the way,
 you bastards!"<Close><End of Block>
-<TextBlock 3 w:40 h:3>
+<TextBlock 3 w:34 h:3>
 Fei
 "Stop i~t!<Delay 30>
 Sto~p i~~~t!"<Close><Close><End of Block>

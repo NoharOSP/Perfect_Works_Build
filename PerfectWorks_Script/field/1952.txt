@@ -85,9 +85,9 @@ Karellen
 "What's its name?"<Close><End of Block>
 <TextBlock 18 w:34 h:4>
 Karen
-"My child's name
-is<Delay 5>...<Delay 30>
-'Fei'.<New>
+"'Fei'.
+That is my
+child's name.<New>
 So<Delay 5>...<Delay 5>
 you understand
 what this means?"<Close><End of Block>

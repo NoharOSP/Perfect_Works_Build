@@ -1,33 +1,33 @@
 <TextBlock 1 w:60 h:11>
-<Opcode 1 255> "A discussion on the
+<Opcode 1 255>'A discussion on the
 excavated Slave Generators 
-and their special effects"<New>
- Strange engines discovered
+and their special effects'.<New>
+Strange engines discovered
 in structures buried under-
 ground in ancient times, the
-"Sub-" or "Slave Generators"
+'Sub-' or 'Slave' Generators
 (hereafter abbreviated as 
-"S.G."'s) have, after diverse
+'SG') have, after diverse
 study, become widely known to
 have their output divided
-into 3 levels.<New>
+into three levels.<New>
 However, it has been
 ascertained that a higher
 mode exists that far surpasses
 these output levels.
- For convenience's sake we 
-shall call this 'Hypermode'.<New>
-Hypermode is invoked at a
+For convenience's sake we 
+shall call this 'Hyper Mode'.<New>
+Hyper Mode is invoked at a
 certain probability when an
-S.G.'s attack level reaches
-three. The explanation below
+SG's attack level reaches 3.
+The explanation below
 covers the various conditions
 and probabilities for
-invocation, that we have been
+invocation that we have been
 able to ascertain at present,
-assuming that a S.G. has been
+assuming that an SG has been
 installed into a humanoid
-fighting machine (or "Gear").<New>
+fighting machine (or 'Gear').<New>
 In all cases, a basic
 constant exists, which we
 observe to be approximately
@@ -35,17 +35,17 @@ the value of 5.
 The probability is computed
 by multiplying this constant
 by one tenth of the
-percentage that the HP have
+percentage that HP has
 been reduced.<New>
 For example, if a Gear's HP
 has been reduced by 50% of
 its total, then the chance of
 invocation would be
-     5 x 50/10 = 25 (%)
- So in this case, when the
+     5 x 50/10 = 25(%)
+So in this case, when the
 Attack Level reaches 3,
 there is a 25% chance that
-Hypermode will set into
+Hyper Mode will set in
 motion.<New>
 Also, apart from this, there
 are modification values,
@@ -53,26 +53,26 @@ which are added to the basic
 value accordingly with the 
 release of each attack from 
 levels 1 to 3.
- In other words, the chances
-of Hypermode being invoked 
+In other words, the chances
+of Hyper Mode being invoked 
 increases the more a Gear 
 attacks and the more the Gear
 is attacked.<New>
-The S.G.'s Hypermode induced
+The SG's Hyper Mode induced
 by the aforementioned
 probability can emit
 immeasurable amounts of
 energy, so from that aspect
 may appear ideal for use as
-the master-engine of a
+the master engine of a
 fighting machine.<New>
 However, in reality they
 have not yet progressed
-to the level of use as power
-for actual warfare due to
-reasons such as their
+to the point of being used
+as a force for actual warfare,
+for reasons such as their
 unpredictability and
-the fact that no Gear-frame
+the fact that no Gear frame
 exists that is rigid enough
 to possibly endure these
 energy emissions.<Close><Close><End of Block>

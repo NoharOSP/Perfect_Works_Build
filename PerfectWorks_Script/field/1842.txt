@@ -265,130 +265,129 @@ keep fighting<Delay 5>...<New>
 With these unbearable
 feelings,<Delay 10> we returned
 to Ignis<Delay 5>...<Close><End of Block>
-<TextBlock 25 w:50 h:7>
-I was powerless<Delay 5>...<Delay 45>
+<TextBlock 25 w:50 h:8>
+  I was powerless<Delay 5>...<Delay 45>
  
 All I could do was stand
-by and watch as they took
-Elly away from me<Delay 5>...<Delay 60>
+by and watch as Elly was
+taken away<Delay 5>...<Delay 60>
  
-I<Delay 5>...<Delay 15>am powerless<Delay 5>...<Close><End of Block>
-<TextBlock 26 w:26 h:3>
+  I<Delay 5>...<Delay 15>
+    Powerless<Delay 5>, I...<Close><End of Block>
+<TextBlock 26 w:28 h:3>
 Wiseman
 "What are you
-doing there?"<Close><End of Block>
-<TextBlock 27 w:50 h:4>
+doing, there?"<Close><End of Block>
+<TextBlock 27 w:46 h:4>
 Fei
 "Oh, it's you<Delay 5>...<Delay 5>
-I<Delay 5>...<Delay 5>I wasn't able to beat
-Grahf<Delay 5>...<Delay 15><New>
-I didn't stand a chance
-against him<Delay 5>...<Delay 5>
-It was obvious from the
-start."<Close><End of Block>
-<TextBlock 28 w:54 h:4>
+I<Delay 5>...<Delay 5>wasn't able to
+beat Grahf<Delay 5>...<Delay 15><New>
+I didn't even stand
+a chance against him<Delay 5>...<Delay 5>
+It was obvious."<Close><End of Block>
+<TextBlock 28 w:50 h:4>
 Fei
-"It was impossible to try
-to defeat a monster machine
-like that to begin with<Delay 5>...<New>
-And<Delay 5>...<Delay 5>Elly<Delay 5>...<Delay 5>
-Why was she so damn
-foolish<Delay 5>...?"<Close><End of Block>
-<TextBlock 29 w:50 h:4>
+"There was no way I could
+win with him aboard that
+monstrous machine...<New>
+But still, I<Delay 5>...<Delay 5>"<Close><End of Block>
+<TextBlock 29 w:48 h:4>
 Fei
-"I explicitly told her
-not to come<Delay 5>...<Delay 15>
-I told her to run away<Delay 5>...<New>
-She had to have known it
-was a trap."<Close><End of Block>
-<TextBlock 30 w:22 h:2>
+"Elly is such a fool...<New>
+Even though I explicitly
+told her not to come<Delay 5>...<Delay 15>
+Even though I told her
+to run away<Delay 5>...<New>
+Even though she must've
+known it was a trap."<Close><End of Block>
+<TextBlock 30 w:20 h:2>
 Wiseman
-"...<Delay 5>Hmm<Delay 5>..."<Close><End of Block>
-<TextBlock 31 w:52 h:3>
+"...<Delay 5>Hmph."<Close><End of Block>
+<TextBlock 31 w:48 h:3>
 Wiseman
-"Yes, you won't be able to
-defeat him like that<Delay 5>...<New>
-As long as you continue
-fighting with that kind
-of an attitude, that is."<Close><End of Block>
+"You certainly won't be
+able to win like that<Delay 5>...<New>
+Not if you're fighting
+with that kind of
+attitude."<Close><End of Block>
 <TextBlock 32 w:12 h:2>
 Fei
 "<Delay 5>...<Delay 5>?<Delay 5>"<Close><End of Block>
-<TextBlock 33 w:52 h:4>
+<TextBlock 33 w:54 h:4>
 Wiseman
-"The reason you lost and
-that young lady was taken<Delay 5>
-was because of your pride.<New>
-Weren't you depending far
-too much on the power of
-your machine?<New>
-...<Delay 5>Not to mention that new<Delay 5>
-'Id Power'<Delay 5> you're now able
-to control!<New>
-What is Grahf's source of
-power?<Delay 15> His machine?<Delay 15> His
-technique?<Delay 15> His experience?<New>
-I do not think so<Delay 5>...<Delay 45>
-It is his<Delay 5> feelings.<New>
-His heart,<Delay 5> his feelings,<Delay 5>
-are dominated by his
-resentment and his hatred
-of this world.<New>
-That hatred is his source
-of power.<Delay 15> Your feelings
-weren't focused enough to
-fight off Grahf.<New>
-That is why you could not
-win.<Delay 15> Your feelings must be
-in the right place.<Delay 15>
+"It's entirely down to your
+arrogance that you lost to
+him and the girl got taken.<New>
+Were you not depending
+solely on the power of
+your machine,<New>
+on the 'Id power' you
+seem to think you have
+the luxury of being able
+to control?<New>
+What is the source of
+Grahf's power?<Delay 15> His
+machine?<Delay 15> His technique?<Delay 15>
+His experience?<New>
+No <--><Delay 45> it is his emotions.<Delay 15>
+His heart is dominated by
+anger towards this whole
+world.<New>
+That feeling of anger <--><Delay 10>
+THAT is the source of
+his power.<New>
+You did not have enough
+emotion to go up against
+Grahf.<New>
+That is why you couldn't
+beat him.<Delay 15>
 That<Delay 15> is strength."<Close><End of Block>
-<TextBlock 34 w:38 h:4>
+<TextBlock 34 w:46 h:3>
 Wiseman
-"I'm not surprised
-you lost<Delay 5>...<New>
-...<Delay 5>seeing as you do
-not understand the
-true meaning of
-strength<Delay 5>..."<Close><End of Block>
+"It's no wonder you
+fought the way you did,<New>
+when you don't
+understand what true
+strength is<Delay 5>..."<Close><End of Block>
 <TextBlock 35 w:24 h:2>
 Fei
 "Wiseman<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 36 w:54 h:4>
+<TextBlock 36 w:52 h:4>
 Wiseman
-"That young lady<Delay 5>...<Delay 5><New>
-The only thing in her heart
-was her desire to save you
-all.<Delay 10> She set aside her fear
-and piloted that machine."<Close><End of Block>
-<TextBlock 37 w:52 h:4>
+"That girl<Delay 5>...<New>
+By desiring with her whole
+heart to save you all, she
+shook off her fear and got
+aboard that machine."<Close><End of Block>
+<TextBlock 37 w:50 h:4>
 Wiseman
-"It was because she had
-such strong feelings that
-you are all still alive<Delay 5>...<New>
-That is what I think.<Delay 15>
-Of course you have been
-defeated.<Delay 15> However, that
-doesn't mean it's over."<Close><End of Block>
-<TextBlock 38 w:32 h:4>
+"You all survived as a
+direct consequence of her
+having that emotion...<New>
+That's what I think.<New>
+Sure, you were defeated.<Delay 15>
+But that doesn't mean
+it's over."<Close><End of Block>
+<TextBlock 38 w:38 h:3>
 Wiseman
-"How do you plan
-on responding to
-her feelings?<New>
-It is now your
-turn to save her<Delay 45>
-...<Delay 5>is it not?"<Close><End of Block>
+"How will you
+answer her emotion?<New>
+This time it's your
+turn to save her.<Delay 45>
+...<Delay 5>Is it not?"<Close><End of Block>
 <TextBlock 39 w:10 h:2>
 Fei
 "<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 40 w:32 h:4>
+<TextBlock 40 w:38 h:4>
 Wiseman
-"Well, what are
-you going to do?<Delay 45>
-...<Delay 5>Fei<Delay 5>..."<Close><End of Block>
-<TextBlock 41 w:32 h:3>
+"Well, where do
+you go from here...<Delay 10>
+Fei<Delay 5>...?"<Close><End of Block>
+<TextBlock 41 w:18 h:3>
 Fei
-"I,<Delay 5> uhhh<Delay 5>...<Delay 15>
-I'm going to<Delay 5>...<Delay 5>"<Close><End of Block>
+"I<Delay 5>...<Delay 15>
+   I<Delay 5>..."<Close><End of Block>
 <TextBlock 42 w:56 h:11>
 In order to save Elly,
 We began to search

@@ -41,8 +41,8 @@ Elly
 It's hard to translate
 this stuff!<New>
 Ummm<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>Lambs<Delay 5>...<Delay 5>
-Great War<Delay 5>...<Delay 5>collapse<Delay 5>...<Delay 5>
+'<Delay 5>...<Delay 5>Lambs<Delay 5>...<Delay 5>
+Great War<Delay 5>...<Delay 5>Collapse<Delay 5>...<Delay 5>
 re-education<Delay 5>...<New>
 ...<Delay 5>postwar rehab plan<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>based on<Delay 5>...<Delay 5>
@@ -56,9 +56,9 @@ Carry out<Delay 5>...<Delay 5>establishment
 of the Church of the Ethos
 as an organization<Delay 5>...<New>
 <Delay 5>...<Delay 5>Supervision to be...
-by assembly of elders<Delay 5>...<New>
+by assembly of elders<Delay 5>...'<New>
 Supervision by the Gazel!?
-The Church is<Delay 5>...!?"<Close><End of Block>
+The Church is<Delay 5><-->!?"<Close><End of Block>
 <TextBlock 8 w:54 h:4>
 Elly
 "To summarize,<Delay 5>
@@ -626,8 +626,8 @@ Elly
 It's hard to translate
 this stuff!<New>
 Ummm<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>Lambs<Delay 5>...<Delay 5>
-Great War<Delay 5>...<Delay 5>collapse<Delay 5>...<Delay 5>
+'<Delay 5>...<Delay 5>Lambs<Delay 5>...<Delay 5>
+Great War<Delay 5>...<Delay 5>Collapse<Delay 5>...<Delay 5>
 re-education<Delay 5>...<New>
 ...<Delay 5>postwar rehab plan<Delay 5>...<Delay 5>
 <Delay 5>...<Delay 5>based on<Delay 5>...<Delay 5>
@@ -641,9 +641,9 @@ Carry out<Delay 5>...<Delay 5>establishment
 of the Church of the Ethos
 as an organization<Delay 5>...<New>
 <Delay 5>...<Delay 5>Supervision to be...
-by assembly of elders<Delay 5>...<New>
+by assembly of elders<Delay 5>...'<New>
 Supervision by the Gazel!?
-The Church is<Delay 5>...!?"<Close><End of Block>
+The Church is<Delay 5><-->!?"<Close><End of Block>
 <TextBlock 85 w:54 h:4>
 Elly
 "To summarize,<Delay 5>

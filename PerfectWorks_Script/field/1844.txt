@@ -283,154 +283,147 @@ Citan
 Fei
 "You idiot!<Delay 10>
 Why did you come here!?"<Close><End of Block>
-<TextBlock 36 w:48 h:4>
+<TextBlock 36 w:44 h:4>
 Fei
-"Karellen's after you!<Delay 5>
-Forget about us!<Delay 15>
-Run and save yourself!!"<Close><End of Block>
-<TextBlock 37 w:44 h:4>
+"He<--><Delay 5> Karellen's after
+you!<Delay 5> Forget about us!<Delay 15>
+Get away, quickly!!"<Close><End of Block>
+<TextBlock 37 w:42 h:4>
 Elly
-"I came as I was told.<Delay 30>
-I'm the only one you
-need<Delay 5>...<New>
-They have nothing to
-do with this.<Delay 5>
+"I've come like you
+told me to.<Delay 30> It's only
+me you need.<New>
+They have nothing
+to do with this.<Delay 5>
 So let Fei and the
 others go!"<Close><End of Block>
-<TextBlock 38 w:44 h:4>
+<TextBlock 38 w:46 h:4>
 Karellen
-"How gallant you are,<Delay 5>
+"How chivalrous,<Delay 5>
 Elehayym.<New>
-It's as if<Delay 5> 'that scene
-from the past has been
-brought back to life
-in the present'.<New>
-So, you came in an
-Omnigear.<Delay 30>
-That too is<Delay 5>...<Delay 5>
-'her Gear'.<New>
+Why,<Delay 5> it's like 'a scene
+from long ago, recalled
+before my very eyes'.<New>
+I see, you came in
+the Omnigear.<Delay 30>
+That too is<Delay 5> 'her Gear'.<New>
 Hmmm<Delay 5>...<Delay 45>
-Allow me to confirm
-something."<Close><End of Block>
-<TextBlock 39 w:54 h:4>
+In that case, allow me
+to confirm something."<Close><End of Block>
+<TextBlock 39 w:48 h:4>
 Karellen
-"I'll consider what kind of
-treatment your friends will
-receive<Delay 5>...<Delay 5>on one condition.<New>
-...<Delay 5>That you first defeat
-these two men here with
-that Gear you came in<Delay 5>...<Delay 15>
+"If you can defeat
+these two individuals, <New>
+then I'll be willing to
+think over the treatment
+of your friends.<Delay 15>
 How about it,<Delay 15> Elehayym?"<Close><End of Block>
 <TextBlock 40 w:42 h:4>
 Fei
-"Forget it, Elly!<Delay 15>
+"No!<Delay 15>
 He's up to something!<Delay 10>
-Don't accept it!"<Close><End of Block>
-<TextBlock 41 w:46 h:4>
+Don't agree to it!"<Close><End of Block>
+<TextBlock 41 w:44 h:4>
 Citan
-"Fei is right!<Delay 15>
-Karellen is not a man
-of his word...<New>
-And he always has
-ulterior motives when
-he sweet talks someone!<New>
-What is more, those men
-are fighting machines
-created by Karellen.<New>
-Their combat skills are
-immeasurable!<Delay 10> They are
-not opponents you can
-handle by yourself!<New>
-Do not take him up
-on his offer!<Delay 10>
-Escape while you can!!"<Close><End of Block>
-<TextBlock 42 w:54 h:4>
+"That is right!<New>
+This man only turns on
+the charm when he has
+an ulterior motive
+in mind!<New>
+For him to keep his
+word is practically
+unheard of.<New>
+What is more, those
+people are battle
+machines created
+by Karellen.<New>
+Their combat strength
+is immeasurable!<Delay 10>
+You will have no
+chance on your own!<New>
+You must not go along
+with this!<Delay 10> Run!!"<Close><End of Block>
+<TextBlock 42 w:44 h:4>
 Karellen
-"My my<Delay 5>...<Delay 5>
-Such harsh criticism.
-I am not that brutal.<New>
-What will it be, Elehayym?<Delay 15>
-Even if you were to try to
-flee now, it is not likely
-you would be able to<Delay 5>...<New>
-You see<Delay 5>...<Delay 5>
-I have this whole area
-surrounded by my guards!"<Close><End of Block>
+"...My my,<Delay 5>
+such harsh words.
+I'm not that inhuman.<New>
+Well, what will it be,
+Elehayym?<New>
+Even if you were to
+flee now, to escape
+our blockade is quite
+impossible."<Close><End of Block>
 <TextBlock 43 w:54 h:4>
 Karellen
-"Wouldn't it be logical to
-take the choice where you
-may still stand a chance<Delay 5>...<New>
-...<Delay 5>No matter how slight it
-may be?"<Close><End of Block>
-<TextBlock 44 w:40 h:2>
+"Wouldn't it be more
+prudent to try pinning your
+hopes on a slight chance,<New>
+rather than on a miracle?"<Close><End of Block>
+<TextBlock 44 w:24 h:2>
 Fei
-"Don't do it, Elly!"<Close><End of Block>
-<TextBlock 45 w:42 h:3>
+"Stop this!"<Close><End of Block>
+<TextBlock 45 w:28 h:3>
 Elly
-"Alright then<Delay 5>...<Delay 5>
-I'll do what you say"<Close><End of Block>
-<TextBlock 46 w:42 h:4>
+"I know what I
+have to do."<Close><End of Block>
+<TextBlock 46 w:46 h:4>
 Karellen
-"Good.<Delay 5>
-You are indeed my
-precious little bird.<New>
-Now, get on with it!"<Close><End of Block>
-<TextBlock 47 w:22 h:3>
+"Very good.<Delay 5>
+There's my little bird.<Delay 10>
+Get to it!"<Close><End of Block>
+<TextBlock 47 w:20 h:3>
 Fei
-"No way<Delay 5>...!<Delay 30>
-Elly<Delay 5>...!"<Close><End of Block>
+"Elly<Delay 5>...<Delay 30>
+No way<Delay 5>..."<Close><End of Block>
 <TextBlock 48 w:54 h:4>
 Karellen
-"Her true awakening<Delay 5>...?<Delay 15>
-Or just merely<Delay 5>...<Delay 5>
-'protecting her master'<Delay 5>...?<New>
-Either way, it does not
-alter the fact that she is
-the Mother existence that
-I have been searching for!"<Close><End of Block>
-<TextBlock 49 w:44 h:4>
+"A true awakening<Delay 5>...<Delay 15>or<Delay 5>...<Delay 5>
+protecting its master?<New>
+Either way, there can be
+no doubt that she is the
+being <--> the Mother <--> that
+I've been searching for..."<Close><End of Block>
+<TextBlock 49 w:38 h:4>
 Karellen
-"Now men...
-recover that machine.<New>
-Place priority on the
-safety of the pilot.<Delay 15>
-Use whatever it takes
-to preserve her life!"<Close><End of Block>
-<TextBlock 50 w:50 h:4>
+"Alright, recover
+that machine.<New>
+Preservation of the
+pilot is paramount.<Delay 15>
+Get her on life
+support!"<Close><End of Block>
+<TextBlock 50 w:50 h:3>
 Karellen
 "Well then,<Delay 5> I shall be
-taking this girl with me!<Delay 10>
-As for the rest of you<Delay 5>...<New>
-Why don't you just wallow
-there pathetically while
-you meditate on your own
-lack of any real power."<Close><End of Block>
-<TextBlock 51 w:24 h:2>
+taking this girl with me.<New>
+The rest of you can stay
+there and reflect on your
+own powerlessness."<Close><End of Block>
+<TextBlock 51 w:26 h:2>
 Grahf
-"Pitiful<Delay 5>..."<Close><End of Block>
-<TextBlock 52 w:48 h:4>
+"Pathetic<Delay 5>..."<Close><End of Block>
+<TextBlock 52 w:44 h:4>
 Grahf
-"You can't even protect
-a single woman.<New>
-It is not even worth
-the effort of putting a
-spineless wretch like
-you out of your misery!"<Close><End of Block>
-<TextBlock 53 w:52 h:11>
+"You can't protect
+even one woman.<New>
+It's not even worth
+the effort of putting
+a worm like you out of
+your misery."<Close><End of Block>
+<TextBlock 53 w:54 h:11>
 Elly was taken away<Delay 5>...<Delay 15>
-And, as Karellen had told
-her, we were left alive<Delay 5>...<Delay 45>
+And, true to his word,
+Karellen spared us<Delay 5>...<Delay 45>
  
-Was Karellen just keeping
-his promise<Delay 5>...<Delay 15>?
-No, that can't be it<Delay 5>...<Delay 60>
+I wondered if he'd just
+been keeping his promise<Delay 5>...<Delay 15>
+But I was wrong<Delay 5>...<Delay 60>
  
-There had to be another<Delay 5>
-real<Delay 5> reason why he
-allowed us to live<Delay 5>...<Close><End of Block>
-<TextBlock 54 w:60 h:1>
-And we had to find that out<Delay 5>...<Close><End of Block>
+There was a real reason
+he'd allowed us to live
+and not finished us off<Delay 5>...<Close><End of Block>
+<TextBlock 54 w:44 h:1>
+And the reason was<Delay 5>...<Close><End of Block>
 <TextBlock 55 w:36 h:3>
 <End of Block>
 <TextBlock 56 w:36 h:3>

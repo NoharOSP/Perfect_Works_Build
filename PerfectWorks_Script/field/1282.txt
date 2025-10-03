@@ -52,7 +52,7 @@ So Billy, do you
 have equipment?"<Close><End of Block>
 <TextBlock 15 w:50 h:3>
 Bart
-"You don't fight hand to
+"You don't fight hand-to-
 hand? You're a rare one."<Close><End of Block>
 <TextBlock 16 w:28 h:2>
 Rico

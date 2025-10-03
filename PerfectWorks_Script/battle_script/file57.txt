@@ -1,6 +1,5 @@
 <TextBlock 1 w:16 h:2>
-Fei
-"Bart!!"<Opcode 2 60><Close><End of Block>
+Bart!!<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:20 h:2>
 Margie
 "Ba~rty!"<Close><End of Block>

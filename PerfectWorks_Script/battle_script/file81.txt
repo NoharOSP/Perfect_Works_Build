@@ -1,4 +1,4 @@
-<TextBlock 1 w:42 h:3>
+<TextBlock 1 w:40 h:3>
 Citan
 "Oh! Quite the
 wild stallion...<New>
@@ -23,15 +23,14 @@ cannot fight back.<New>
 I will take you on in
 their stead.<Delay 20>
 Come on!"<Close><End of Block>
-<TextBlock 4 w:30 h:2>
+<TextBlock 4 w:26 h:2>
 Breuer
 "Whooooaaa!!"<Close><End of Block>
-<TextBlock 5 w:26 h:3>
+<TextBlock 5 w:24 h:3>
 Breuer
 "H-Hey,
 that hurt!!"<Close><End of Block>
-<TextBlock 6 w:32 h:4>
+<TextBlock 6 w:34 h:4>
 Breuer
-"??<Delay 20> What are
-you going on
-about!?"<Close><Close><Close><Close><Close><Close><End of Block>
+"??<Delay 20> What are you
+going on about!?"<Close><Close><Close><Close><Close><Close><End of Block>

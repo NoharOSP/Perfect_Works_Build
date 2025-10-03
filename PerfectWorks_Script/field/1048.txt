@@ -644,8 +644,8 @@ Informationist
 "The <X> button is Attack.<Delay 15>
 (There are three attack but-
 tons and <X> is one of them.)<New>
-It changes from Gear to Gear
-but is mainly meant for
+It differs from Gear to Gear
+but is mainly utilized for
 close combat.<Delay 15> And you're not
 limited to just one blow.<New>
 By combining the <X> and <S>
@@ -967,7 +967,7 @@ This should be most<Delay 5><-->"<Close><End of Block>
 !?<Opcode 2 15><Close><End of Block>
 <TextBlock 181 w:44 h:3>
 Rue
-"Uhh<Delay 15>...<Delay 5> Apologies.<New>
+"Ahem<Delay 15>...<Delay 5> Apologies.<New>
 Well, I'll show you to
 the paddock.<Delay 15> We don't
 have much time<Delay 5>..."<Close><End of Block>
@@ -1100,7 +1100,7 @@ Fei
 "...Gear servicing, eh?<New>
 Leaving it to just one
 mechanic does worry me a
-bit. I'll ask the doc to
+bit. I'll ask the Doc to
 give us a hand also!"<Close><End of Block>
 <TextBlock 201 w:54 h:3>
 Hammer
@@ -1115,7 +1115,7 @@ so don't get all upset now,
 Hammer!<New>
 Anyway, <Delay 5>let's go back to
 our barracks and call the
-doc, shall we!?"<Close><End of Block>
+Doc, shall we!?"<Close><End of Block>
 <TextBlock 203 w:56 h:4>
 Hammer
 "Wait! <Delay 15>Don't you think you

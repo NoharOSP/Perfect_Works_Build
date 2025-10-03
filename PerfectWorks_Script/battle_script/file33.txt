@@ -1,7 +1,7 @@
 <TextBlock 1 w:50 h:4>
 Spectators
-"Boo~! Boo~!"
-"Booooring!"
+"Booo! Boooo!"
+"Bo~ring!"
 "C'mon, fight properly!!"<Close><End of Block>
 <TextBlock 2 w:52 h:5>
 Spectators
@@ -25,7 +25,7 @@ Tournament's Final Bout<Opcode 2 60><Close><End of Block>
 Fei
 "(This isn't good.<Delay 30>
 At this rate...)"<Close><End of Block>
-<TextBlock 5 w:8 h:2>
+<TextBlock 5 w:14 h:2>
 Fei
 "??"<Close><End of Block>
 <TextBlock 6 w:48 h:4>
@@ -42,7 +42,7 @@ Fei
 "My reasons for
 fighting are none
 of your business!"<Close><End of Block>
-<TextBlock 9 w:48 h:4>
+<TextBlock 9 w:44 h:4>
 Fei
 "Would you shut up!
 I'm working on finding

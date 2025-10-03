@@ -52,7 +52,7 @@ I..."<Close><End of Block>
 <TextBlock 13 w:50 h:3>
 That's alright.<Delay 10>
 Everybody makes mistakes.<New>
-I don't find it a problem
+I don't have a problem
 with young people making
 mistakes!<Close><End of Block>
 <TextBlock 14 w:56 h:2>
@@ -106,8 +106,8 @@ yet.<Close><End of Block>
 A mechanic's greatest
 moment is the night
 before a mission!<New>
-Tomorrow is that once
-in a life time day when
+Tomorrow is that once-
+in-a-lifetime day when
 this ship can show what
 it's really made of...<New>
 I'm gonna make you
@@ -127,7 +127,7 @@ I hear some guy called
 Fei, a martial artist,
 helped us out there.<Close><End of Block>
 <TextBlock 24 w:46 h:4>
-Y, you, quit loafing
+Y-You, quit loafing
 around here and go
 concentrate on training
 like that guy Fei!!<Close><End of Block>
@@ -164,7 +164,7 @@ See you later!<Close><End of Block>
 You're alright, aren't you?<Delay 10>
 You're the normal Elly, right?<Close><End of Block>
 <TextBlock 34 w:46 h:3>
-Awh shoot!!<Delay 10>
+Aw, shoot!!<Delay 10>
 I must restore it again
 because of that girl!!<Close><End of Block>
 <TextBlock 35 w:56 h:3>
@@ -241,8 +241,8 @@ all his own fault.<Close><End of Block>
 <TextBlock 50 w:48 h:2>
 The chief has a weakness
 for young women.<Close><End of Block>
-<TextBlock 51 w:54 h:3>
-W, what! It's expected for
+<TextBlock 51 w:56 h:3>
+Wh-What!? It's expected for
 a man to be kind to women, 
 isn't it!?<Close><End of Block>
 <TextBlock 52 w:36 h:3>
@@ -269,15 +269,15 @@ Be careful!<Close><End of Block>
 !!<Delay 10>
 Please don't break
 it this time.<Close><End of Block>
-<TextBlock 58 w:46 h:3>
-How could he figure out
+<TextBlock 58 w:48 h:3>
+How could she figure out
 this complicated device
 so easily...?<New>
 Generally, more than a
 specified output can't
 be produced.<New>
-What kind of hypnosis
-was he under?<Close><End of Block>
+What the heck kind of
+hypnosis was she under?<Close><End of Block>
 <TextBlock 59 w:44 h:3>
 The Tamuz sounds like
 a fun place to visit.<Delay 10>

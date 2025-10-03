@@ -1,4 +1,4 @@
-<TextBlock 1 w:48 h:4>
+<TextBlock 1 w:42 h:4>
 Rico
 "Is that the best you
 can do? Where's your
@@ -12,7 +12,7 @@ up breakin' yer neck!"<Close><End of Block>
 Rico
 "Hm? What's that?
 I can't hear you!"<Close><End of Block>
-<TextBlock 4 w:34 h:4>
+<TextBlock 4 w:30 h:4>
 Rico
 "Hmph.
 In that case,
@@ -33,12 +33,12 @@ hold back.<Delay 30> Exciting!"<Close><End of Block>
 Fei
 "Guh<Delay 30>...<Delay 30>
 ungh<Delay 30>...<Delay 30>"<Close><End of Block>
-<TextBlock 8 w:26 h:2>
+<TextBlock 8 w:18 h:2>
 Fei
 "N-<Delay 30>No<Delay 30>.<Delay 10>.<Delay 10>.<Delay 10>"<Close><End of Block>
-<TextBlock 9 w:24 h:4>
+<TextBlock 9 w:22 h:4>
 Fei
-"No<Delay 30>...<Delay 30> I<Delay 30>...<Delay 30> 
+"No<Delay 30>...<Delay 30> I<Delay 30>...<Delay 30>
 won't<Delay 30>...<Delay 30>
 fight!"<Close><End of Block>
 <TextBlock 10 w:22 h:3>
@@ -47,6 +47,6 @@ Fei
 urrgh<Delay 30>..."<Close><End of Block>
 <TextBlock 11 w:34 h:1>
 ...Outta the way!<Close><End of Block>
-<TextBlock 12 w:30 h:2>
+<TextBlock 12 w:18 h:2>
 Fei
 "I<Delay 60>...<Delay 60>..."<Close><Close><End of Block>

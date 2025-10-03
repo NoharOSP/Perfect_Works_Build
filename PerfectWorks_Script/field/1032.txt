@@ -225,7 +225,7 @@ But you've got to look
 after your own neck!"<Close><End of Block>
 <TextBlock 40 w:56 h:4>
 Rico
-"<Delay 5>...The doctor, too? I don't
+"<Delay 5>...Doc Citan, too? I don't
 take any responsibility if
 anything happens to you<Delay 5>...!"<Close><End of Block>
 <TextBlock 41 w:56 h:4>
@@ -1011,7 +1011,7 @@ Fei
 Citan
 "Come on now, Fei!
 Nobody is pointing
-their finger at you!<New>
+the finger at you!<New>
 It might have been caused
 by something else!"<Close><End of Block>
 <TextBlock 167 w:52 h:4>
@@ -1076,7 +1076,7 @@ please."<Close><End of Block>
 Citan
 "Let me see<Delay 15>...<Delay 5> Hmmm<Delay 5>...<Delay 15>
 Well, well<Delay 5>...<Delay 10> Ah, ha<Delay 5>...<Delay 20>
-Ohhh<Delay 5>...<Delay 5> Humph<Delay 5>..."<Close><End of Block>
+Ohhh<Delay 5>...<Delay 5> Hmm<Delay 5>..."<Close><End of Block>
 <TextBlock 179 w:52 h:4>
 Citan
 "We might just possibly be
@@ -1203,9 +1203,9 @@ Citan
 "Well then... You are
 sure you want to go
 through with it, so<Delay 5>..."<Close><End of Block>
-<TextBlock 201 w:36 h:2>
+<TextBlock 201 w:34 h:2>
 Hammer
-"<Delay 5>...<Delay 5>Oooh, broooo!"<Close><End of Block>
+"<Delay 5>...<Delay 5>Oooh, bro~!"<Close><End of Block>
 <TextBlock 202 w:26 h:4>
 Citan
 "Well then<Delay 5>...<Delay 15>
@@ -1591,12 +1591,12 @@ all of a sudden!"<Close><End of Block>
 <TextBlock 267 w:54 h:4>
 Citan
 "<Delay 5>...<Delay 5>But are you alright
-about this?
+with this?
 As we spoke about before<Delay 5>...<New>
 Whether you are forced to
 or not<Delay 5>...<Delay 5>you did not
 want to do this, right?<Delay 15>
-Fight with Gears, I mean!?"<Close><End of Block>
+Fight using Gears, I mean."<Close><End of Block>
 <TextBlock 268 w:10 h:2>
 Fei
 "<Delay 5>.<Delay 5>.<Delay 5>."<Close><End of Block>

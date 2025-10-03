@@ -177,7 +177,7 @@ Dan
 "It may be odd for me to say
 this, but my sister's
 beautiful and a good cook...<New>
-(and this is just between
+(And this is just between
 you and me, but she's
 well endowed too!<Delay 20> 
 Heh heh heh.)"<Close><End of Block>
@@ -300,15 +300,15 @@ Hey! Stop pushing!<Delay 30>
 What are you...some
 kind of pervert!?<Opcode 2 60><Close><End of Block>
 <TextBlock 57 w:50 h:4>
-That doctor is weird!<Delay 20>
+That Doc is weird!<Delay 20>
 Why would anyone want to
 live up on that mountain
 peak?<New>
 He should live closer to
 the village...<New>
 Hey, you're good friends
-with the doctor.<Delay 20> Why
-don't you ask him to move
+with the Doc.<Delay 20> Why don't
+you ask him to move
 closer to the village!?<Close><End of Block>
 <TextBlock 58 w:54 h:4>
 Lately, my legs have
@@ -321,17 +321,17 @@ a look and see if he
 can help me...<New>
 But it's a tremendous task
 to go up that mountain path
-to visit the doctor.<Delay 20>
+to visit the Doc.<Delay 20>
 I must be getting old...<Close><End of Block>
 <TextBlock 59 w:48 h:4>
-That doctor's eccentric!<Delay 20>
+That Doc's eccentric!<Delay 20>
 Why else would anyone
 live up on a mountain
 peak like that?<New>
 He should have moved
 closer to the village!<New>
 Fei, you're good friends
-with the doctor...<Delay 20>
+with the Doc...<Delay 20>
 Ask him to move closer
 to our village for us!<Close><End of Block>
 <TextBlock 60 w:56 h:4>
@@ -344,7 +344,7 @@ look at them and tell me
 what's wrong...<New>
 But it's a dreadful chore
 to climb that mountain path
-to visit the doctor.<Delay 20>
+to visit the Doc.<Delay 20>
 It must be a sign of my age.<Close><End of Block>
 <TextBlock 61 w:54 h:4>
 Uuh... *sob*...<Delay 10>
@@ -366,7 +366,7 @@ Woe is me...!<Close><End of Block>
 <TextBlock 65 w:36 h:1>
 *zzzzzz, snore*...<Close><End of Block>
 <TextBlock 66 w:36 h:3>
-Uh, uhn...?<Delay 20>
+Uh, ungh...?<Delay 20>
 Oh, it's you, Fei!
 What do you want?<Close><End of Block>
 <TextBlock 67 w:38 h:3>
@@ -384,10 +384,10 @@ good food like that!<Opcode 2 50><Close><End of Block>
 Fei!!<Delay 10>
 I thought I told you
 not to step on my food!<Opcode 2 60><Close><End of Block>
-<TextBlock 70 w:54 h:3>
+<TextBlock 70 w:58 h:3>
 You know you won't come out
 in one piece if you try and
-pull anything on the bride!<Close><End of Block>
+pull anything with the bride!<Close><End of Block>
 <TextBlock 71 w:30 h:3>
 Hello, Fei!
 Are you here

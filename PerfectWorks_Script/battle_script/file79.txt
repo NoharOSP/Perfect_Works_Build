@@ -1,79 +1,86 @@
-<TextBlock 1 w:46 h:4>
+<TextBlock 1 w:52 h:4>
 Elly
-"If it gives Fei and
-the others<New>
-even the slightest 
-chance of escape...<New>
-Then I will fight!
-I don't care if it even
-costs me my life!!"<Close><End of Block>
-<TextBlock 2 w:40 h:2>
+"If me fighting means
+there'll be even the
+slightest chance of escape<New>
+for Fei and the others...<Delay 10>
+I don't care if it costs
+me my life!!"<Close><End of Block>
+<TextBlock 2 w:38 h:2>
 Elly
-"They're too fast!!"<Close><End of Block>
-<TextBlock 3 w:44 h:3>
+"Th-<Delay 5>They're fast!!"<Close><End of Block>
+<TextBlock 3 w:40 h:4>
 Elly
-"Outmatched...
-Even in my Omnigear...<New>
-But...I can't just...
-No...not like this..."<Close><End of Block>
-<TextBlock 4 w:32 h:2>
+"Such a difference
+in power.<Delay 10> Even in
+my Omnigear...<New>
+But...<Delay 10>
+if this keeps up..."<Close><End of Block>
+<TextBlock 4 w:36 h:2>
 Elly
-"I can't lose!!"<Close><End of Block>
-<TextBlock 5 w:44 h:3>
+"I mustn't lose!!"<Close><End of Block>
+<TextBlock 5 w:46 h:3>
 Elly
-"M, must... somehow...
-stop... movement..."<Close><End of Block>
-<TextBlock 6 w:32 h:4>
+"Somehow...I've got to
+stop their movement..."<Close><End of Block>
+<TextBlock 6 w:36 h:4>
 Elly
-"Stopped!?
-Now's my chance!
-Haaaaaaaaaah!"<Close><End of Block>
+"They've stopped!?<Delay 10>
+Now's my chance!<Delay 10>
+Hya~!"<Close><End of Block>
 <TextBlock 7 w:30 h:2>
 Elly
 "Did I do it!?"<Close><End of Block>
-<TextBlock 8 w:46 h:4>
+<TextBlock 8 w:36 h:4>
 Elly
-"H, how could that...!?
-I thought it had some
-sort of effect..."<Close><End of Block>
-<TextBlock 9 w:18 h:2>
+"Wh-<Delay 5>What the...!?<Delay 10>
+I thought that had
+worked..."<Close><End of Block>
+<TextBlock 9 w:14 h:1>
+Ungh...<Opcode 2 60><Close><End of Block>
+<TextBlock 10 w:38 h:3>
 Elly
-"Gaah..."<Opcode 2 60><Close><End of Block>
-<TextBlock 10 w:22 h:4>
-Elly
-"Guh...!
-... Huff...
-Huff..."<Close><End of Block>
-<TextBlock 11 w:40 h:3>
-"Girl, that hurt!
-I'll get you back!!"<New>
-"It was wrong of you
-to underestimate
-our power!"<Close><End of Block>
+"Guh...!<Delay 10>
+*huff*...*huff*..."<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Kenren
+"Girl, that hurt!<Delay 10>
+No.<Delay 10> More.<Delay 10> Games!!"<New>
+Tenpou
+"Underestimate our
+power at your peril,
+young lady."<Close><End of Block>
 <TextBlock 12 w:42 h:3>
-"Hmmm, I'm getting no
-results. It can't be
-helped, Tenpou.<New>
+Kenren
+"Hmmm, we're really
+getting no results.<New>
+There's nothing else
+for it, Tenpou.<New>
 It's about time to
 finish the job."<Close><End of Block>
-<TextBlock 13 w:46 h:3>
-"Gahahahah! 
-Downed yet!?"<New>
-"It's to be expected.
-Multiple fractures,
-major blood loss...<New>
-I wouldn't be surprised
-if the cockpit is a sea
-of blood."<New>
-"At worst, death!
-Geh hah hah hah!!"<Close><End of Block>
-<TextBlock 14 w:48 h:4>
-"What the... !?
-There's no way you could
-stand after taking that
-much damage..."<Close><End of Block>
-<TextBlock 15 w:30 h:1>
-"T, Tenpou!!?"<Close><End of Block>
-<TextBlock 16 w:46 h:2>
-"Why you! How dare you
-do that to my partner!"<Close><Close><End of Block>
+<TextBlock 13 w:44 h:3>
+Kenren
+"Gehehehe!<Delay 10>
+She's down!?"<New>
+Tenpou
+"No wonder.<New>
+Complex fractures,
+major hemorrhaging...<New>
+I dare say the cockpit
+is a sea of blood."<New>
+Kenren
+"She might even be
+dying!<Delay 10> Gehehehe!!"<Close><End of Block>
+<TextBlock 14 w:50 h:4>
+Tenpou
+"Wh-<Delay 5>What!?<Delay 10> With that much
+damage, there's no way
+she should be able to<-->"<Close><End of Block>
+<TextBlock 15 w:26 h:2>
+Kenren
+"T-Tenpou!!?"<Close><End of Block>
+<TextBlock 16 w:28 h:2>
+Kenren
+"Wh-<Delay 5>Why, you!<New>
+My partner...<Delay 20>
+How dare you!"<Close><Close><End of Block>

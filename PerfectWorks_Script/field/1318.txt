@@ -117,4 +117,4 @@ to save me, eh?
 Well done, well done.<New>
 Someday, you'll brag
 about saving me!<Delay 30>
-Adios amigos!"<Close><Close><End of Block>
+Adios, amigos!"<Close><Close><End of Block>

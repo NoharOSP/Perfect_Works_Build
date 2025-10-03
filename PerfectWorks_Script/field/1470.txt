@@ -1,22 +1,22 @@
-<TextBlock 1 w:42 h:3>
+<TextBlock 1 w:32 h:3>
 Fei
-"Looks like it can be
-opened..."<Close><End of Block>
+"Looks like this
+will open..."<Close><End of Block>
 <TextBlock 2 w:46 h:4>
 Fei
 "Huh...?<Delay 20>
 This doll has something
 in its hand."<Close><End of Block>
 <TextBlock 3 w:58 h:6>
-'Truth reflecting mirror'.
+'Truth-reflecting mirror'.
 Which do you wish to view?<Delay 10>
 <Opcode 1 255>    <Perso1>'s reflection
     <Perso2>'s reflection
     <Perso3>'s reflection
     Quit<Close><End of Block>
-<TextBlock 4 w:30 h:1>
-Nobody is here.<Close><End of Block>
-<TextBlock 5 w:30 h:1>
-Nobody is here.<Close><End of Block>
+<TextBlock 4 w:26 h:1>
+Nobody there!<Close><End of Block>
+<TextBlock 5 w:26 h:1>
+Nobody there!<Close><End of Block>
 <TextBlock 6 w:38 h:1>
 Received Dusk Rock!<Close><Close><End of Block>

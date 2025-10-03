@@ -96,7 +96,7 @@ out of the way...<New>
 don't move I'll
 have no choice but
 to eliminate you!"<Close><End of Block>
-<TextBlock 17 w:10 h:2>
+<TextBlock 17 w:14 h:2>
 Elly
 "..."<Close><End of Block>
 <TextBlock 18 w:32 h:4>
@@ -143,7 +143,7 @@ that's how it is here!"<Close><End of Block>
 Elly
 "...So...please,
 understand..."<Close><End of Block>
-<TextBlock 23 w:12 h:2>
+<TextBlock 23 w:14 h:2>
 Elly
 "Huh?"<Close><End of Block>
 <TextBlock 24 w:34 h:4>
@@ -153,7 +153,7 @@ Then why are you
 fighting now?<New>
 Who are you
 fighting for...?"<Close><End of Block>
-<TextBlock 25 w:10 h:2>
+<TextBlock 25 w:14 h:2>
 Elly
 "?"<Close><End of Block>
 <TextBlock 26 w:42 h:4>

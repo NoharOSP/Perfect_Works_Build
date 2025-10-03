@@ -49,7 +49,7 @@ So, let's keep believing...
 And hope for a miracle..."<Close><End of Block>
 <TextBlock 5 w:52 h:4>
 Fei
-"According to what the doc
+"According to what the Doc
 says, his condition has
 gotten a lot better.<New>
 It seems like Carl has
@@ -109,6 +109,6 @@ Zephyr
 May I ask you something?<New>
 About Elly...<Delay 20>
 What if, even if we break
-the Zohar's spell,<New> 
+the Zohar's spell,<New>
 she doesn't
 return to normal..."<Close><Close><End of Block>

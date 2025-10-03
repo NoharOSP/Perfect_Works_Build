@@ -1,5 +1,5 @@
 <TextBlock 1 w:16 h:1>
-"Fe~i!!"<Close><End of Block>
+Fe~i!!<Close><End of Block>
 <TextBlock 2 w:48 h:4>
 Citan
 "Fei! I have been

@@ -1,12 +1,11 @@
-<TextBlock 1 w:34 h:3>
+<TextBlock 1 w:38 h:3>
 Fei
-"Urgh!
-You again!?"<Close><End of Block>
+"Urgh! You again!?"<Close><End of Block>
 <TextBlock 2 w:32 h:3>
 Fei
 "What are you
 talking about!?"<Close><End of Block>
-<TextBlock 3 w:30 h:2>
+<TextBlock 3 w:22 h:2>
 Fei
 "Aaaagghh!"<Opcode 2 30><Close><End of Block>
 <TextBlock 4 w:14 h:2>
@@ -15,14 +14,14 @@ Elly
 <TextBlock 5 w:14 h:2>
 Elly
 "Fei!!"<Close><End of Block>
-<TextBlock 6 w:26 h:3>
+<TextBlock 6 w:24 h:3>
 Ramsus
 "Over there,
 Myyah?"<Close><End of Block>
-<TextBlock 7 w:28 h:2>
+<TextBlock 7 w:26 h:2>
 Ramsus
 "Roger that!"<Close><End of Block>
-<TextBlock 8 w:32 h:4>
+<TextBlock 8 w:28 h:4>
 Ramsus
 "Oh how I have
 searched!
@@ -48,7 +47,7 @@ you can do!?<New>
 Nevertheless...
 You!
 I can't let you live!"<Close><End of Block>
-<TextBlock 12 w:36 h:3>
+<TextBlock 12 w:32 h:3>
 Ramsus
 "And now for the
 coup de grace!!"<Close><End of Block>
@@ -57,11 +56,11 @@ Ramsus
 "Wh-What!?
 AERODs!?
 Who the...!?"<Close><End of Block>
-<TextBlock 14 w:24 h:3>
+<TextBlock 14 w:20 h:3>
 Ramsus
 "!!
 Gaaahhhh!"<Close><End of Block>
-<TextBlock 15 w:34 h:4>
+<TextBlock 15 w:30 h:4>
 Ramsus
 "Tch!
 My main tank...<New>

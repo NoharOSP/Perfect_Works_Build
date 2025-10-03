@@ -27,17 +27,17 @@ Informationist
 <TextBlock 6 w:36 h:1>
 <Opcode 1 255>- Beginning Bout -<Close><End of Block>
 <TextBlock 7 w:50 h:8>
-"Which button do you need
-an explanation for?<Delay 15>
-<Opcode 1 255>    Directional button
+Informationist
+"Which shall I explain?"<Delay 15>
+<Opcode 1 255>    Directional buttons
     <X> button
     <S> button
     <T> button
     <C> button
     Next page<Close><End of Block>
 <TextBlock 8 w:50 h:7>
-"Which shall I explain to
-you about?"<Delay 15>
+Informationist
+"Which shall I explain?"<Delay 15>
 <Opcode 1 255>    L1 button
     R1 button
     START button
@@ -80,8 +80,8 @@ Informationist
 "The <X> button is Attack.<Delay 15>
 (There are three attack but-
 tons and <X> is one of them.)<New>
-It changes from Gear to Gear
-but is mainly meant for
+It differs from Gear to Gear
+but is mainly utilized for
 close combat.<Delay 15> And you're not
 limited to just one blow.<New>
 By combining the <X> and <S>
@@ -89,9 +89,9 @@ buttons you are able to make
 a chain of attacks up to
 three in length!<New>
 In all, there are eight
-Strings, for a total of four-
-teen attacks! Not every Gear
-has that many, though."<Close><End of Block>
+combinations, for a total of
+fourteen attacks! Not every
+Gear has that many, though."<Close><End of Block>
 <TextBlock 13 w:56 h:4>
 Informationist
 "The <S> button is Attack.<Delay 15>
@@ -106,9 +106,9 @@ buttons you are able to make
 a chain of attacks up to
 three in length!<New>
 In all, there are eight
-Strings, for a total of four-
-teen attacks! Not every Gear
-has that many, though."<Close><End of Block>
+combinations, for a total of
+fourteen attacks! Not every
+Gear has that many, though."<Close><End of Block>
 <TextBlock 14 w:56 h:4>
 Informationist
 "The <T> button is for Jump!<Delay 5>

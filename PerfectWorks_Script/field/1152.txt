@@ -970,7 +970,7 @@ We can still identify
 the locations of
 individuals.<Close><End of Block>
 <TextBlock 190 w:44 h:4>
-One moment<Delay 30>...<Delay 30>...
+One moment<Delay 30>...<Delay 30>...<Delay 30>...
 He has left the crash
 site and appears to be
 heading toward Ignis.<Close><End of Block>
@@ -1324,164 +1324,149 @@ Now, humans.<Delay 5>
 You shall extol the
 awakening of God.<Close><End of Block>
 <TextBlock 263 w:46 h:2>
-The body of God is
-recovered<Delay 5>...<Close><End of Block>
+The fleshly body of God
+has been recovered<Delay 5>...<Close><End of Block>
 <TextBlock 264 w:50 h:2>
 The Anima and the Animus
 have been obtained<Delay 5>...<Close><End of Block>
 <TextBlock 265 w:54 h:4>
-All that remains is to
-supplant ourselves in the
-Animus,<New>
-and merge<Delay 5> with the
-Mother's persona<Delay 5>...<Close><End of Block>
+All that remains is for us
+to take the place of the 
+Animus, and become one<Delay 5> with
+the Persona<Delay 5>...<Close><End of Block>
 <TextBlock 266 w:46 h:2>
 Karellen
-"<Delay 5>...<Delay 5>That is incorrect."<Close><End of Block>
-<TextBlock 267 w:52 h:3>
-What?
-What is the meaning of
-this, Karellen?
-What did you say?<Close><End of Block>
+"<Delay 5>...<Delay 5>That<Delay 10> is incorrect."<Close><End of Block>
+<TextBlock 267 w:44 h:4>
+What?<Delay 10>
+What is the meaning
+of this, Karellen?
+What did you just say?<Close><End of Block>
 <TextBlock 268 w:44 h:3>
-Wh-What are you 
-doing!? Karellen, have
+Wh-What are you
+doing!?<Delay 10> Karellen, have
 you lost your mind!?<Close><End of Block>
-<TextBlock 269 w:42 h:2>
-What are you 
-doing to the 
-memory banks!?<Close><End of Block>
-<TextBlock 270 w:36 h:3>
-Do not touch 
-those!<Delay 10>
-Without them, 
-we will<Delay 5>...<Close><End of Block>
-<TextBlock 271 w:48 h:4>
+<TextBlock 269 w:36 h:3>
+What do you think
+you are doing with
+the memory banks!?<Close><End of Block>
+<TextBlock 270 w:38 h:3>
+Do not touch those!<Delay 10>
+Without them,
+we will<--><Close><End of Block>
+<TextBlock 271 w:46 h:4>
 Karellen
 "The Key couldn't 
-have been operated 
-without you,<New>
-but now that it is 
-operational, your 
-existence has no value.<Delay 15><New>
-I have decided to 
-delete you."<Close><End of Block>
+function without you,
+you see.<New>
+But now that its
+invocation is complete,
+your existence is of
+no value.<New>
+I've decided to have
+you all erased."<Close><End of Block>
 <TextBlock 272 w:14 h:1>
 What!?<Close><End of Block>
-<TextBlock 273 w:52 h:4>
+<TextBlock 273 w:54 h:4>
 Karellen
-"Cain, the only 
-obstruction to the 
-accomplishment of<New>
-'my' goal, is gone. The 
-absolute authority 
-he wielded over we the 
-'people' was my obstacle.<New>
-The only one capable of 
-removing Cain was Cain 
+"Cain, the one obstacle to
+the fulfilment of 'my'
+goal, is no more.<New>
+Possessing the absolute
+authority over we 'humans'
+that he did, he was an
+obstacle to me.<New>
+The only one who could
+get rid of Cain was Cain
 himself.<New>
-Ramsus,<Delay 5>the 'copy 
-of Cain'<Delay 5> that I 
-created for that purpose,<Delay 5><New>
-behaved according to my 
-expectations, and 
-eliminated Cain.
-Now no one can stop me.<Delay 10><New>
-Furthermore, I have no 
-interest in the power 
-to rule which you 
-pursue.<New>
-Did you believe you were
-acting on your own
-free will?<Delay 10> You are things, 
-bound to the system.<New>
-Ultimately, you are 
-nothing more than a 
-terminal interface,<New>
-designed as a weapon 
-of aggression and 
-domination."<Close><End of Block>
+Ramsus,<Delay 5> the 'Cain copy'
+that I developed for
+that purpose,<New>
+behaved according to
+expectations and
+eliminated Cain.<New>
+There's no one who can stop
+'me' now. And I have no
+interest in the dominance
+that you pursue.<New>
+Do you think you decided
+on that by your own will?<Delay 10>
+You are 'things' bound
+by a system.<New>
+In the end, nothing
+more than terminals,
+created as invasion-
+supremacy weapons."<Close><End of Block>
 <TextBlock 274 w:30 h:3>
-We<Delay 5>...<Delay 5>we will...<Delay 5>
-become<Delay 5>...<Delay 5>god!<Delay 10>
-D<Delay 5>...<Delay 5>do not<Delay 5>...<Close><End of Block>
-<TextBlock 275 w:48 h:4>
+W<Delay 5>...<Delay 5> We can...<Delay 5>
+become<Delay 5> God!<Delay 10>
+D<Delay 5>...<Delay 5> Do not<Delay 5>...<Close><End of Block>
+<TextBlock 275 w:54 h:4>
 Karellen
 "God?<Delay 15>
-Who said that you 
-would become god?<New>
-You say such presumptuous 
-things.<Delay 5>
-We are human.<Delay 5><New>
-Even for you, who 
-were created to 
-be the terminal 
-interface of god,<New>
-that is the same.
-'Man cannot become god.'<Delay 5>
-...<Delay 5>All that we can do,<New>
-is entrust ourselves to 
-god."<Close><End of Block>
-<TextBlock 276 w:38 h:3>
+Who said you'd become God?<New>
+Don't be preposterous.<Delay 5>
+We are humans.<Delay 5> Even you,
+generated to be terminals
+of God, are the same.<New>
+'Humans cannot become God'.
+All we can do is devote
+ourselves to God."<Close><End of Block>
+<TextBlock 276 w:36 h:3>
 Ri<Delay 5>...<Delay 5>DI<Delay 5>Cu<Delay 5>lous<Delay 5>...<Delay 10>
-INCON<Delay 5>...<Delay 5>sis<Delay 5>...
-<Delay 5>tent with<Delay 5> the<Delay 5>...<New>
-<Delay 5>mother'S<Delay 5>...<Delay 5>
-wiLL<Close><End of Block>
-<TextBlock 277 w:48 h:4>
+CON<Delay 5>...<Delay 5>traRY<Delay 5> to...
+<Delay 5>MothER'S<Delay 5>...<Delay 5>wiLL...<Close><End of Block>
+<TextBlock 277 w:46 h:4>
 Karellen
-"It isn't inconsistent.
-<Delay 20>It is the will 
-of the other."<Close><End of Block>
-<TextBlock 278 w:44 h:4>
-DO<Delay 5>...<Delay 5>you<Delay 5>...<Delay 5>THINK<Delay 5>...<Delay 5>
-you<Delay 5>...<Delay 5>can<Delay 5>...<Delay 5>revive<Delay 5>...<Delay 5>
-GOD<Delay 5>...<Delay 5>without<Delay 5>...<Delay 5>
-us<Delay 5>...?<Close><End of Block>
+"Oh, it isn't contrary
+to it. <Delay 20>This is also the
+will of<Delay 5> another her."<Close><End of Block>
+<TextBlock 278 w:48 h:4>
+You<Delay 5>...<Delay 5>THINK<Delay 5>...<Delay 5>you can<Delay 5>...
+bring<Delay 5>...<Delay 5>about<Delay 5>...<Delay 5>the
+REsurrec...tion<Delay 5>...<Delay 5>of
+GOD<Delay 5>...<Delay 5>with<Delay 5>...<Delay 5>us<Delay 5>...<Delay 5>gone?<Close><End of Block>
 <TextBlock 279 w:54 h:4>
 Karellen
-"I can.<New>
+"It can be done.<New>
 Your genes, which were
-dispersed to sustain
-the world after the
-Day of Collapse,<New>
-live on among the people.
-The Vessels of Anima,
-the Animus<Delay 5>...<Delay 5>
+released so that the world
+could endure following the
+Days of Collapse,<New>
+live on within the humans.<New>
+The Anima and the Animus<Delay 5>...<Delay 5>
 And the Persona<Delay 5>...<Delay 5><New>
-Those, combined with my
-nanomachines, will make
-the people equivalent to
-you.<New>
-No, even further,
-they will be capable of
-becoming a proper interface
-to God.<New>
-Your existence has no value
-now.<Delay 15> Deus,<Delay 5>
-God,<Delay 5> only wants results<Delay 5>...<New>
-The means do not matter<Delay 5>...<Delay 15>
-This is my 'Ark Plan'.<Delay 5>...<Delay 10>
-Or in other words, <Delay 5>Project<Delay 5>
-Noah<Delay 5>!"<Close><End of Block>
+By having my nanomachines
+combine with those, the
+humans will become beings
+equivalent to you.<New>
+No,<Delay 5> they can become beings
+even more befitting of the
+terminals of God.<New>
+Your existence has no
+value now.<Delay 15> Deus only wants
+results.<Delay 15> The process makes
+no difference.<New>
+This is my 'Ark Plan':<Delay 15>
+Project<Delay 5> Noah."<Close><End of Block>
 <TextBlock 280 w:28 h:1>
-Ka<Delay 5>...<Delay 5>re<Delay 5>...<Delay 5>l<Delay 5>...<Delay 5><Close><End of Block>
-<TextBlock 281 w:50 h:4>
+KA<Delay 5>...<Delay 5>re<Delay 5>...<Delay 5>L<Delay 5>...<Delay 5><Close><End of Block>
+<TextBlock 281 w:48 h:4>
 Karellen
-"With this, all that 
-would afflict you 
-with worry will cease.<New>
-Enoch, Irad, Mehujael, 
-Jabal, Tubal-Cain, 
-Lamech, Jubal, and 
+"With this, may all that
+would afflict you with
+worry be gone.<New>
+Enoch, Irad, Mehujael,
+Jabal, Tubal-Cain,
+Lamech, Jubal, and
 Methushael...<New>
-Join now your 
-brothers lost 500 
-years ago.<New>
-Rest in peace 
-one footstep before us,<Delay 5>
-ancestors of man!"<Close><End of Block>
-<TextBlock 282 w:40 h:3>
+Join now your brothers
+lost 500 years ago.<New>
+Rest in peace one
+footstep before us,<Delay 5>
+ancestors of humankind!"<Close><End of Block>
+<TextBlock 282 w:36 h:4>
 Karellen
-"Now,<Delay 5> it is just<Delay 5>
-you<Delay 5> and<Delay 5> I<Delay 5>...<Delay 15>Sophia!"<Close><Close><End of Block>
+"Now<Delay 5> it's just<Delay 5> you<Delay 5>
+and I<Delay 5>...<Delay 15>Sophia.<Delay 15>
+Now<Delay 5>..."<Close><Close><End of Block>

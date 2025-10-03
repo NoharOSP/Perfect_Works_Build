@@ -49,12 +49,12 @@ Id
 "Tch...<Delay 60>
 ...<Delay 30>This woman<Delay 30>...
 Of course<Delay 30>..."<Close><End of Block>
-<TextBlock 12 w:36 h:4>
+<TextBlock 12 w:30 h:4>
 Id
 "...<Delay 30>Damn it...<Delay 30>
 He's<Delay 30>...<Delay 30>
 waking<Delay 30>...up<Delay 30>..."<Close><End of Block>
-<TextBlock 13 w:28 h:3>
+<TextBlock 13 w:24 h:3>
 Fei
 "...<Delay 30>Urrhh<Delay 30>...<Delay 30>
 El<Delay 30>...<Delay 30>ly<Delay 30>..."<Close><Close><Close><Close><Close><End of Block>

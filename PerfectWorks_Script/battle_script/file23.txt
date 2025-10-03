@@ -21,7 +21,7 @@ Were you expectin' me
 to do all the dirty work
 of clearing away these
 punks on my own?"<Close><End of Block>
-<TextBlock 4 w:46 h:4>
+<TextBlock 4 w:38 h:4>
 Dominia
 "Hmph.<New>
 One more extra runt
@@ -33,7 +33,7 @@ Dominia
 "Hah! What insolence!
 But what do I expect,
 coming from Lambs...?"<Close><End of Block>
-<TextBlock 6 w:44 h:3>
+<TextBlock 6 w:38 h:3>
 Dominia
 "Argh!<Delay 20> Why, you...<New>
 One day I'll get

@@ -36,11 +36,11 @@ Fei
 "No...<Delay 20>
 This is no time to go
 down."<Close><End of Block>
-<TextBlock 8 w:38 h:3>
+<TextBlock 8 w:40 h:3>
 Citan
-"You are right...<New>
-We came this far,
-we cannot turn back
+"Yes...<New>
+We came this far
+and cannot turn back
 now, Fei."<Close><End of Block>
 <TextBlock 9 w:48 h:4>
 Elly

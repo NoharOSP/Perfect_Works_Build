@@ -10,7 +10,7 @@ Ramsus
 "Aaargh!
 This can't be!
 You m-monster..."<Close><End of Block>
-<TextBlock 4 w:44 h:4>
+<TextBlock 4 w:38 h:4>
 Ramsus
 "...Guh!<Delay 30>
 I...<Delay 30> I...<Delay 30> If it

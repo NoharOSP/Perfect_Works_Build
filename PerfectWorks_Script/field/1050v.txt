@@ -1592,20 +1592,20 @@ Informationist
 What else do you want to
 enquire about?"<Close><End of Block>
 <TextBlock 265 w:50 h:8>
-"Which button do you need
-an explanation of?<Delay 15>
-<Opcode 1 255>    Directional button
+Informationist
+"Which shall I explain?"<Delay 15>
+<Opcode 1 255>    Directional buttons
     <X> button
     <S> button
     <T> button
     <C> button
     Next page<Close><End of Block>
 <TextBlock 266 w:50 h:7>
-"Which shall I explain to
-you about?"<Delay 15>
+Informationist
+"Which shall I explain?"<Delay 15>
 <Opcode 1 255>    L1 button
     R1 button
-    Start button
+    START button
     Back to first page
     End explanation<Close><End of Block>
 <TextBlock 267 w:52 h:4>
@@ -1650,8 +1650,8 @@ Informationist
 "The <X> button is Attack.<Delay 15>
 (There are three attack but-
 tons and <X> is one of them.)<New>
-It changes from Gear to Gear
-but is mainly meant for
+It differs from Gear to Gear
+but is mainly utilized for
 close combat.<Delay 15> And you're not
 limited to just one blow.<New>
 By combining the <X> and <S>
@@ -1659,9 +1659,9 @@ buttons you are able to make
 a chain of attacks up to
 three in length!<New>
 In all, there are eight
-Strings, for a total of four-
-teen attacks! Not every Gear
-has that many, though."<Close><End of Block>
+combinations, for a total of
+fourteen attacks! Not every
+Gear has that many, though."<Close><End of Block>
 <TextBlock 272 w:56 h:4>
 Informationist
 "The <S> button is Attack.<Delay 15>
@@ -1676,9 +1676,9 @@ buttons you are able to make
 a chain of attacks up to
 three in length!<New>
 In all, there are eight
-Strings, for a total of four-
-teen attacks! Not every Gear
-has that many, though."<Close><End of Block>
+combinations, for a total of
+fourteen attacks! Not every
+Gear has that many, though."<Close><End of Block>
 <TextBlock 273 w:56 h:4>
 Informationist
 "The <T> button is for Jump!<Delay 5>
@@ -2090,12 +2090,12 @@ It was fate,<Delay 5>
 unavoidable fate!<Close><End of Block>
 <TextBlock 365 w:56 h:4>
 Big Joe
-Allow me to show my 
+"Allow me to show my 
 appreciations for all 
 you have done fellas.<New>
 I brought this here from the
 Wildcat bar in what was the
-Imperial capital Noatun.<Delay 5>
+Imperial Capital Noatun.<Delay 5>
 I also fixed it up a little.<New>
 It should be a lot more
 friendlier now.<Delay 5> But you'll
@@ -2120,10 +2120,10 @@ the elegant old grain look.<New>
 But, anyway, don't you
 think the new faux marble
 design is kinda groovy? <Delay 15>Now,
-if only I had an 'M disk'!<New>
-You can listen to 'M disks'
+if only I had an M Disk!<New>
+You can listen to M Disks
 with this,<Delay 5> but I gave my
-'M disk' to the girlies in
+M Disk to the girlies in
 the old Imperial Capital.<New>
 It was a valuable premium
 disk refined with Ether

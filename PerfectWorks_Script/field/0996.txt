@@ -669,7 +669,7 @@ Now, Hammer,<Delay 5> tell me where
 my Gear is."<Close><End of Block>
 <TextBlock 128 w:54 h:4>
 Hammer
-"As the doc predicted, bro,
+"As the Doc predicted, bro,
 your Gear has been moved to
 another dispatchment dock."<Close><End of Block>
 <TextBlock 129 w:40 h:3>
