@@ -1,12 +1,12 @@
-<TextBlock 1 w:16 h:2>
+<TextBlock 1 w:14 h:2>
 Fei
-"Ghaah!"<Close><End of Block>
-<TextBlock 2 w:52 h:2>
+"Ungh!"<Close><End of Block>
+<TextBlock 2 w:50 h:2>
 Billy
-"Sh, she took my gun...!?"<Close><End of Block>
+"Sh-<Delay 5>She took my gun...!?"<Close><End of Block>
 <TextBlock 3 w:24 h:4>
 Bart
-"W, why did
+"Wh-Why did
 you do that,<Delay 20>
 Elly...?"<Close><End of Block>
 <TextBlock 4 w:44 h:4>
@@ -55,50 +55,57 @@ all of these wonderful
 memories you've shared.<New>
 Regardless, I
 will explain."<Close><End of Block>
-<TextBlock 13 w:60 h:6>
+<TextBlock 13 w:54 h:4>
 Elly
-"This Deus, the one you call
-god, is an 'inter-planetary
-invasion weapon system' that
-was built in ancient times by
-humans from another planet.<New>
-It was created as an automatic
-weapon which could act upon
-its own will to take control
-of a targeted planet.<Delay 20> But you
-should've known this much from
-looking at the Raziel records.<New>
-During a test run,
-Deus became uncontrollable.
+"This Deus,
+the one you call God,<New>
+is an 'inter-planetary
+invasion weapon system'<New>
+that was built in ancient
+times by humans from
+another planet.<New>
+It was created as an
+autonomous weapon which
+could act upon its own will<New>
+to take control of a
+targeted planet.<New>
+But you should've known
+this much from looking at
+the Raziel records.<New>
+During a test run, Deus
+became uncontrollable.
 It released its power and
 annihilated a whole planet.<New>
-The creators of 'Deus' found
-its immeasurable power to be
-too much of a threat, and 
-hence forcibly shut it down.<New>
-In order to analyze the cause
-of the problem, its core was
-dismantled and placed on an
-interplanetary emigrant
-passenger ship to be
-transported to another planet.<New>
+The creators of Deus found
+its immeasurable power to
+be too much of a threat,
+so forcibly shut it down.<New>
+In order to analyze the
+cause of the problem,
+its core was dismantled and<New>
+placed on an interplanetary
+emigrant passenger ship,
+to be transported to
+another planet.<New>
 Becoming aware of this, the
-dissasembled Deus resisted.
+dissasembled Deus resisted.<New>
 It tried to take over the
 passenger ship that was
 transporting it.<New>
-However, as a last line of
-defense against the escape
-of Deus, its creators,
-unexpectedly destroyed the
-whole ship, sending it
-crashing to this planet.<New>
-Deus knew that it would not
-be able to get away from the
-explosion or the imminent
-impact and so it detached its
-core from the 'Zohar' power
-reactor."<Close><End of Block>
+However, as a last line
+of defense against the
+escape of Deus,<New>
+its creators unexpectedly
+destroyed the whole ship,
+sending it crashing to
+this planet.<New>
+Deus knew that it would
+not be able to get away
+from the explosion or the
+imminent impact,<New>
+and so it detached its
+core from the 'Zohar'
+power reactor."<Close><End of Block>
 <TextBlock 14 w:28 h:2>
 Fei
 "Zo...har...?"<Close><End of Block>
@@ -156,46 +163,49 @@ Rico
 "Are you saying the Emperor
 and them Gazel geezers were
 people born from Deus!?"<Close><End of Block>
-<TextBlock 20 w:56 h:6>
+<TextBlock 20 w:54 h:4>
 Elly
 "Do you know why the Gazel
-Ministry desired the Vessels
-of Anima and your bodies?<Delay 10>
-Well, here's the reason...<New>
-Before becoming human, the
-bodies of the Ministry were
-once part of the organic
-elements in the core circuit
-that made up 'Deus'.<New>
+Ministry sought the Vessels
+of Anima and your bodies?<New>
+Well, here's the reason...<Delay 10>
+Before becoming human,
+the bodies of the Ministry<New>
+were once part of the
+organic elements in the
+core circuit that made
+up Deus.<New>
 There were two types of
-organic elements.
+organic elements.<New>
 The female type was called
 'Anima', while the male
 type was called 'Animus'.<New>
-They were also created with
-the added ability to become
-mobile weapons by merging
-with machinery that was
-suited for use as terminal
-interface weapons for Deus.<New>
+They were also created
+with the added ability
+to become mobile weapons<New>
+by merging with machinery
+that was suited for use as
+terminal interface weapons
+for Deus.<New>
 In other words, those
 Omnigears you were using
 were one form of such
 weapons.<New>
-The Ministry, which were
-Animus, were to become one
-again with their separated
-Anima at the time of the
-resurrection of god...<New>
-But, in a war 500 years ago,
-they all lost their physical
-bodies.<New>
+The Ministry, who were
+Animus, were to become
+one again with their
+separated Anima<New>
+at the time of the resurr-
+ection of God.<Delay 10> But in a war
+500 years ago, they all
+lost their physical bodies.<New>
 It was then that they
-decided to extract their own
-genetic factor from certain
-individuals of their human
+decided to extract their
+own genetic factor<New>
+from certain individuals
+among their human
 descendants who carried the
-appropriate sets of D.N.A..<New>
+appropriate sets of DNA.<New>
 All so each of them could
 become one with their
 respective Anima again."<Close><End of Block>
