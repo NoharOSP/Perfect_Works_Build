@@ -13,6 +13,8 @@
 #define IDI_SMALL                       108
 #define IDS_STRING_STORY                108
 #define IDC_GUIPATCHER                  109
+#define IDM_SETTINGS                    110
+#define IDD_SETTINGSBOX                 111
 #define IDR_MAINFRAME                   128
 #define IDCANCEL                        1000
 #define IDM_OPEN                        9001

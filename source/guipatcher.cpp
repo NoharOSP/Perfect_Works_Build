@@ -266,10 +266,15 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				p_fastold = false;
 				p_fastnew = false;
 			}
-			LRESULT expticked = SendMessage(experience, BM_GETCHECK, NULL, NULL);
-			if (expticked == BST_CHECKED) {
-				log_file << "1.5 exp ticked." << std::endl;
-				p_exp = true;
+			LRESULT exponeticked = SendMessage(experience1, BM_GETCHECK, NULL, NULL);
+			if (exponeticked == BST_CHECKED) {
+				log_file << "1.5x exp ticked." << std::endl;
+				p_expone = true;
+				if (p_exptwo == true) {
+					log_file << "Unticking 2x exp." << std::endl;
+					LRESULT exptwountick = SendMessage(experience2, BM_SETCHECK, BST_UNCHECKED, NULL);
+					p_exptwo = false;
+				}
 				if (p_story_mode == true) {
 					log_file << "Unticking story mode." << std::endl;
 					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
@@ -277,13 +282,18 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 			}
 			else {
-				log_file << "1.5 exp unticked." << std::endl;
-				p_exp = false;
+				log_file << "1.5x exp unticked." << std::endl;
+				p_expone = false;
 			}
-			LRESULT goldticked = SendMessage(gold, BM_GETCHECK, NULL, NULL);
-			if (goldticked == BST_CHECKED) {
-				log_file << "1.5 gold ticked." << std::endl;
-				p_gold = true;
+			LRESULT exptwoticked = SendMessage(experience2, BM_GETCHECK, NULL, NULL);
+			if (exptwoticked == BST_CHECKED) {
+				log_file << "2x exp ticked." << std::endl;
+				p_exptwo = true;
+				if (p_expone == true) {
+					log_file << "Unticking 1.5x exp." << std::endl;
+					LRESULT exponeuntick = SendMessage(experience1, BM_SETCHECK, BST_UNCHECKED, NULL);
+					p_expone = false;
+				}
 				if (p_story_mode == true) {
 					log_file << "Unticking story mode." << std::endl;
 					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
@@ -291,8 +301,46 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				}
 			}
 			else {
-				log_file << "1.5 gold unticked." << std::endl;
-				p_gold = false;
+				log_file << "2x exp unticked." << std::endl;
+				p_exptwo = false;
+			}
+			LRESULT goldoneticked = SendMessage(gold1, BM_GETCHECK, NULL, NULL);
+			if (goldoneticked == BST_CHECKED) {
+				log_file << "1.5x gold ticked." << std::endl;
+				p_goldone = true;
+				if (p_goldtwo == true) {
+					log_file << "Unticking 2x gold." << std::endl;
+					LRESULT goldtwountick = SendMessage(gold2, BM_SETCHECK, BST_UNCHECKED, NULL);
+					p_goldtwo = false;
+				}
+				if (p_story_mode == true) {
+					log_file << "Unticking story mode." << std::endl;
+					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+					p_story_mode = false;
+				}
+			}
+			else {
+				log_file << "1.5x gold unticked." << std::endl;
+				p_goldone = false;
+			}
+			LRESULT goldtwoticked = SendMessage(gold2, BM_GETCHECK, NULL, NULL);
+			if (goldtwoticked == BST_CHECKED) {
+				log_file << "2x gold ticked." << std::endl;
+				p_goldtwo = true;
+				if (p_goldone == true) {
+					log_file << "Unticking 1.5x gold." << std::endl;
+					LRESULT goldoneuntick = SendMessage(gold1, BM_SETCHECK, BST_UNCHECKED, NULL);
+					p_goldone = false;
+				}
+				if (p_story_mode == true) {
+					log_file << "Unticking story mode." << std::endl;
+					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+					p_story_mode = false;
+				}
+			}
+			else {
+				log_file << "2x gold unticked." << std::endl;
+				p_goldtwo = false;
 			}
 			LRESULT itemspellsticked = SendMessage(itemspells, BM_GETCHECK, NULL, NULL);
 			if (itemspellsticked == BST_CHECKED) {
@@ -417,10 +465,14 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				log_file << "Unticking incompatible patches." << std::endl;
 				p_encounters = false;
 				LRESULT enctick = SendMessage(encounters, BM_SETCHECK, BST_UNCHECKED, NULL);
-				p_exp = false;
-				LRESULT expuntick = SendMessage(experience, BM_SETCHECK, BST_UNCHECKED, NULL);
-				p_gold = false;
-				LRESULT golduntick = SendMessage(gold, BM_SETCHECK, BST_UNCHECKED, NULL);
+				p_expone = false;
+				LRESULT exponeuntick = SendMessage(experience1, BM_SETCHECK, BST_UNCHECKED, NULL);
+				p_exptwo = false;
+				LRESULT exptwountick = SendMessage(experience2, BM_SETCHECK, BST_UNCHECKED, NULL);
+				p_goldone = false;
+				LRESULT goldoneuntick = SendMessage(gold1, BM_SETCHECK, BST_UNCHECKED, NULL);
+				p_goldtwo = false;
+				LRESULT goldtwountick = SendMessage(gold2, BM_SETCHECK, BST_UNCHECKED, NULL);
 				p_monsters = false;
 				LRESULT monuntick = SendMessage(monsters, BM_SETCHECK, BST_UNCHECKED, NULL);
 				p_items_spells = false;
@@ -555,28 +607,28 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						}
 					}
 				}
-				if (p_exp) {
+				if (p_expone || p_exptwo) {
 					// Check if story mode hasn't been ticked
 					if (!p_story_mode && !p_monsters) {
 						if (pathFound1) {
-							log_file << "Disc 1 1.5x exp directory found." << std::endl;
+							log_file << "Disc 1 exp directory found." << std::endl;
 							expName1 = "og_monsters";
 						}
 						if (pathFound2) {
-							log_file << "Disc 2 1.5x exp directory found." << std::endl;
+							log_file << "Disc 2 exp directory found." << std::endl;
 							expName2 = "og_monsters";
 						}
 					}
 				}
-				if (p_gold) {
+				if (p_goldone || p_goldtwo) {
 					// Check if story mode hasn't been ticked
 					if (!p_story_mode && !p_monsters) {
 						if (pathFound1) {
-							log_file << "Disc 1 1.5x gold directory found." << std::endl;
+							log_file << "Disc 1 gold directory found." << std::endl;
 							goldName1 = "og_monsters";
 						}
 						if (pathFound2) {
-							log_file << "Disc 2 1.5x gold directory found." << std::endl;
+							log_file << "Disc 2 gold directory found." << std::endl;
 							goldName2 = "og_monsters";
 						}
 					}
@@ -650,7 +702,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 					}
 				}
 				if (p_script) {
-					// TODO: Merge with story mode
 					if (pathFound1) {
 						// Check if items/spells and script hybrid won't be applied
 						if (!p_items_spells) {
@@ -930,7 +981,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		hdc = BeginPaint(hWnd, &ps);
 		HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
 		SetBkMode(hdc, TRANSPARENT);
-		// TODO: Add any drawing code that uses hdc here...
 		log_file << "Set font." << std::endl;
 		SelectObject(hdc, hFont);
 		log_file << "Draw window." << std::endl;
@@ -941,11 +991,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		rc1.top = winY * 0.025;
 		rc1.left = winX / 50;
 		rc1.right = winX - (rc1.left * 2);
-		rc1.bottom = winY * 0.325;
-		rc2.top = winY * 0.375;
+		rc1.bottom = winY * 0.27;
+		rc2.top = winY * 0.30;
 		rc2.left = rc1.left;
 		rc2.right = rc1.right;
-		rc2.bottom = winY * 0.80;
+		rc2.bottom = winY * 0.85;
 		Rectangle(hdc, rc1.left, rc1.top, rc1.right, rc1.bottom);
 		Rectangle(hdc, rc2.left, rc2.top, rc2.right, rc2.bottom);
 		log_file << "Draw upper rectangle." << std::endl;
@@ -1018,8 +1068,10 @@ void initialiseGlobalButtonList() {
 	globalWindList.emplace_back(portraits);
 	globalWindList.emplace_back(basicarena);
 	globalWindList.emplace_back(expertarena);
-	globalWindList.emplace_back(experience);
-	globalWindList.emplace_back(gold);
+	globalWindList.emplace_back(experience1);
+	globalWindList.emplace_back(experience2);
+	globalWindList.emplace_back(gold1);
+	globalWindList.emplace_back(gold2);
 	globalWindList.emplace_back(itemspells);
 	globalWindList.emplace_back(monsters);
 	globalWindList.emplace_back(script);
@@ -1228,15 +1280,22 @@ void tooltipTextMaker(HWND hWnd) {
 		"bugs with specific scenes, so the patch is\n"
 		"still a work in progress\n";
 	HWND tt_fast = toolGenerator(text_fast, hWnd, fasttext);
-	char text_exp[] =
-		"Increases experience from battle by 50%.\n"
-		"This is recommended with the half encounter\n"
-		"patch to keep a consistent level curve with\n"
-		"the game.";
-	HWND tt_exp = toolGenerator(text_exp, hWnd, experience);
-	char text_gold[] =
+	char text_expone[] =
+		"Increases experience from battle by 50%.\n";
+	HWND tt_expone = toolGenerator(text_expone, hWnd, experience1);
+	char text_exptwo[] =
+		"Increases experience from battle by 100%.\n"
+		"If half encounters is selected, it is\n"
+		"recommended to choose this setting.";
+	HWND tt_exptwo = toolGenerator(text_exptwo, hWnd, experience2);
+	char text_goldone[] =
 		"Increases money from battle by 50%.\n";
-	HWND tt_gold = toolGenerator(text_gold, hWnd, gold);
+	HWND tt_goldone = toolGenerator(text_goldone, hWnd, gold1);
+	char text_goldtwo[] =
+		"Increases gold from battle by 100%.\n"
+		"If half encounters is selected, it is\n"
+		"recommended to choose this setting.";
+	HWND tt_goldtwo = toolGenerator(text_goldtwo, hWnd, gold2);
 	char text_itemspells[] =
 		"WARNING: Incompatible with pre-0.4 saves.\n"
 		"The game is rebalanced; with items, spells,\n"
@@ -1332,28 +1391,36 @@ void StartCommonControls(DWORD flags) {
 void initialiseGlobalWindows(HWND hWnd) {
 	log_file << "Creating windows." << std::endl;
 	cd1path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.05), 500, 25, hWnd, NULL, hInst, NULL);
-	cd2path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.15), 500, 25, hWnd, NULL, hInst, NULL);
+	cd2path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.12), 500, 25, hWnd, NULL, hInst, NULL);
 	browsebutton1 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.05), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
-	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.15), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
-	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.85), 70, 25, hWnd, (HMENU)104, hInst, NULL);
-	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.25), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
-	encounters = CreateWindow(L"BUTTON", L"1/2 encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.45), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
-	portraits = CreateWindow(L"BUTTON", L"Resized portraits", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.45), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
-	graphics = CreateWindow(L"BUTTON", L"Graphical fixes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.52), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
-	experience = CreateWindow(L"BUTTON", L"1.5x exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.52), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	gold = CreateWindow(L"BUTTON", L"1.5x gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.59), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.66), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
-	normalarena = CreateWindow(L"BUTTON", L"Normal", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.45), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	basicarena = CreateWindow(L"BUTTON", L"Basic mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.52), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	expertarena = CreateWindow(L"BUTTON", L"Expert mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.59), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	fmvs = CreateWindow(L"BUTTON", L"FMV undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.45), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
-	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.45), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
-	voice = CreateWindow(L"BUTTON", L"Battle undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.52), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
-	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.52), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.73), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
-	storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * smx), (int)(winY * 0.45), 85, 25, hWnd, (HMENU)9002, hInst, NULL);
-	flashes = CreateWindow(L"BUTTON", L"No battle flashes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.59), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
-	roni = CreateWindow(L"BUTTON", L"PW Roni", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.66), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.12), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
+	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.87), 70, 25, hWnd, (HMENU)104, hInst, NULL);
+	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.20), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
+	// Graphics
+	portraits = CreateWindow(L"BUTTON", L"Resized portraits", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.36), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	graphics = CreateWindow(L"BUTTON", L"Graphical fixes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.43), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	flashes = CreateWindow(L"BUTTON", L"No battle flashes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.50), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	roni = CreateWindow(L"BUTTON", L"PW Roni", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.57), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	// Gameplay
+	encounters = CreateWindow(L"BUTTON", L"1/2 encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.36), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
+	experience1 = CreateWindow(L"BUTTON", L"1.5x exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.43), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	experience2 = CreateWindow(L"BUTTON", L"2x exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.50), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	gold1 = CreateWindow(L"BUTTON", L"1.5x gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.57), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	gold2 = CreateWindow(L"BUTTON", L"2x gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.64), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.71), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
+	itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.78), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
+	// Arena
+	normalarena = CreateWindow(L"BUTTON", L"Normal", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.36), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	basicarena = CreateWindow(L"BUTTON", L"Basic mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.43), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	expertarena = CreateWindow(L"BUTTON", L"Expert mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.50), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	// Story
+	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.36), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
+	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.43), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	// Audio
+	fmvs = CreateWindow(L"BUTTON", L"FMV undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.36), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	voice = CreateWindow(L"BUTTON", L"Battle undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.43), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
+	// Modes
+	storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * smx), (int)(winY * 0.36), 85, 25, hWnd, (HMENU)9002, hInst, NULL);
 }
 
 // Define font for global windows
@@ -1373,12 +1440,12 @@ void drawGUIText() {
 	swprintf_s(storytext, 256, L"Story:    ");
 	swprintf_s(audiotext, 256, L"Audio:    ");
 	swprintf_s(modestext, 256, L"Modes:    ");
-	TextOut(hdc, winX * graphicsx, winY * 0.40, graphicstext, wcslen(graphicstext));
-	TextOut(hdc, winX * gameplayx, winY * 0.40, gameplaytext, wcslen(gameplaytext));
-	TextOut(hdc, winX * arenax, winY * 0.40, arenatext, wcslen(arenatext));
-	TextOut(hdc, winX * storyx, winY * 0.40, storytext, wcslen(storytext));
-	TextOut(hdc, winX * audiox, winY * 0.40, audiotext, wcslen(audiotext));
-	TextOut(hdc, winX * smx, winY * 0.40, modestext, wcslen(modestext));
+	TextOut(hdc, winX * graphicsx, winY * 0.32, graphicstext, wcslen(graphicstext));
+	TextOut(hdc, winX * gameplayx, winY * 0.32, gameplaytext, wcslen(gameplaytext));
+	TextOut(hdc, winX * arenax, winY * 0.32, arenatext, wcslen(arenatext));
+	TextOut(hdc, winX * storyx, winY * 0.32, storytext, wcslen(storytext));
+	TextOut(hdc, winX * audiox, winY * 0.32, audiotext, wcslen(audiotext));
+	TextOut(hdc, winX * smx, winY * 0.32, modestext, wcslen(modestext));
 
 }
 
@@ -1388,7 +1455,7 @@ void drawGlobalText() {
 	swprintf_s(cd1text, 256, L"CD1 File:");
 	swprintf_s(cd2text, 256, L"CD2 File:");
 	TextOut(hdc, winX * 0.0325, winY * 0.05, cd1text, wcslen(cd1text));
-	TextOut(hdc, winX * 0.0325, winY * 0.15, cd2text, wcslen(cd2text));
+	TextOut(hdc, winX * 0.0325, winY * 0.12, cd2text, wcslen(cd2text));
 }
 
 // Apply 1.5 exp or 1.5 gold changes
@@ -1458,24 +1525,34 @@ void monsterEdits(std::string file) {
 			data[2] = 0x100;
 			data[3] = 0x10a;
 		}
-		if (p_exp) {
+		if (p_expone || p_exptwo) {
 			// Find experience
 			nextpos = i + data[2];
 			fileContents.seekp(nextpos, std::ios_base::beg);
 			fileContents.read(reinterpret_cast<char*>(&buffer), 4);
 			uint64_t exp = buffer;
-			exp = exp * 1.5;
+			if (p_expone) {
+				exp = exp * 1.5;
+			}
+			if (p_exptwo) {
+				exp = exp * 2;
+			}
 			nextpos = i + data[2];
 			fileContents.seekp(nextpos, std::ios_base::beg);
 			fileContents.write(reinterpret_cast<char*>(&exp), 4);
 		}
-		if (p_gold) {
+		if (p_goldone || p_goldtwo) {
 			// Find gold
 			nextpos = i + data[3];
 			fileContents.seekp(nextpos, std::ios_base::beg);
 			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
 			uint64_t gold = buffer;
-			gold = gold * 1.5;
+			if (p_goldone) {
+				gold = gold * 1.5;
+			}
+			if (p_goldtwo) {
+				gold = gold * 2;
+			}
 			nextpos = i + data[3];
 			fileContents.seekp(nextpos, std::ios_base::beg);
 			fileContents.write(reinterpret_cast<char*>(&gold), 2);
@@ -1616,7 +1693,7 @@ bool applyPatch(int discNum) {
 		std::filesystem::current_path(filePath);
 		std::filesystem::create_directory(temp);
 		log_file << "Copy files from each selected option into the temporary directory." << std::endl;
-		if (p_exp) {
+		if (p_expone || p_exptwo) {
 			if (discNum == 1) {
 				if (expName1 != "") {
 					std::filesystem::copy(expName1, temp, std::filesystem::copy_options::update_existing);
@@ -1628,7 +1705,7 @@ bool applyPatch(int discNum) {
 				}
 			}
 		}
-		if (p_gold) {
+		if (p_goldone || p_goldtwo) {
 			if (discNum == 1) {
 				if (goldName1 != "") {
 					std::filesystem::copy(goldName1, temp, std::filesystem::copy_options::update_existing);
@@ -1638,14 +1715,6 @@ bool applyPatch(int discNum) {
 				if (goldName2 != "") {
 					std::filesystem::copy(goldName2, temp, std::filesystem::copy_options::update_existing);
 				}
-			}
-		}
-		if (p_flashes) {
-			if (discNum == 1) {
-				std::filesystem::copy(flashesName1, temp, std::filesystem::copy_options::update_existing);
-			}
-			if (discNum == 2) {
-				std::filesystem::copy(flashesName2, temp, std::filesystem::copy_options::update_existing);
 			}
 		}
 		if (p_script) {
@@ -1788,12 +1857,12 @@ bool applyPatch(int discNum) {
 				std::filesystem::copy(titleName2, temp, std::filesystem::copy_options::overwrite_existing);
 			}
 		}
-		if (p_exp || p_gold) {
+		if ((p_expone || p_exptwo) || (p_goldone || p_goldtwo)) {
 			// Iterate through enemy files to apply exp or gold changes
-			if (p_exp) {
+			if (p_expone || p_exptwo) {
 				log_file << "Applying exp changes." << std::endl;
 			}
-			if (p_gold) {
+			if (p_goldone || p_goldtwo) {
 				log_file << "Applying gold changes." << std::endl;
 			}
 			for (const auto& entry : std::filesystem::directory_iterator(temp)) {
