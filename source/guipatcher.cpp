@@ -1372,10 +1372,8 @@ void tooltipTextMaker(HWND hWnd) {
 		"bugs.";
 	HWND tt_flashes = toolGenerator(text_flashes, hWnd, flashes);
 	char text_roni[] =
-		"Swaps Roni's portrait for his.\n"
-		"Perfect Works design. Changes will\n"
-		"be applied if resized portraits\n"
-		"is selected.\n";
+		"Swaps Roni's portrait for his\n"
+		"Perfect Works design.\n";
 	HWND tt_roni = toolGenerator(text_roni, hWnd, roni);
 }
 
