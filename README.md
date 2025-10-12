@@ -77,7 +77,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ### [Script](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Script-Changes)
 
-### [Shared Changes] (https://github.com/NoharOSP/Perfect_Works_Build/wiki/Shared-Changes)
+### [Shared Changes](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Shared-Changes)
 
 ## Links:
 
