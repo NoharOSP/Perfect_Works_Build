@@ -195,7 +195,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						log_file << "Put disc 1 path in path window." << std::endl;
 						SetWindowText(cd1path, lpath);
 					}
-					if (discNum == 2) {
+					else if (discNum == 2) {
 						log_file << "Disc 2 found." << std::endl;
 						pathFound2 = true;
 						log_file << "Determine disc 2 path." << std::endl;
@@ -204,6 +204,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 						LPCWSTR lpath = wpath.c_str();
 						log_file << "Put disc 2 path in path window." << std::endl;
 						SetWindowText(cd2path, lpath);
+					}
+					else {
+						log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
+						MessageBox(hWnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
+						break;
 					}
 					if (pathFound1 || pathFound2) {
 						checkboxLock();
@@ -1945,7 +1950,7 @@ bool applyPatch(int discNum) {
 	log_file << "Execute xenoiso." << std::endl;
 	try {
 		// Detect errors with xenoiso
-		int batch_exit_code = system("cmd.exe /c Tools\\xenoiso list.txt -d");
+		int batch_exit_code = system("cmd.exe /c Tools\\xenoiso list.txt");
 	}
 	catch (const std::system_error& error) {
 		// Catch errors when opening xenoiso
