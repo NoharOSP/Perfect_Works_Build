@@ -51,7 +51,7 @@ Elly
 Who are you?"<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 Citan
-"I checked the ID tags of
+"I checked the ID tags
 of the soldiers who died
 in the attack on Lahan...<New>
 The design on their tags
