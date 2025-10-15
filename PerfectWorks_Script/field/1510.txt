@@ -47,5 +47,6 @@ in Shevat.<New>
 Now, the Queen
 is waiting.
 You can enter."<Close><End of Block>
-<TextBlock 10 w:26 h:1>
-Please go in.<Close><Close><End of Block>
+<TextBlock 10 w:30 h:2>
+Maria
+"Please go in."<Close><Close><End of Block>
