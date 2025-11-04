@@ -292,8 +292,8 @@ certain Deathblow Skills,
 go to the Menu screen and
 then to the Status screen.<New>
 From the Status screen you
-can select 'Skills' to view
-a list of your Deathblows,
+can select 'Deathblows' to
+view a list of your skills,
 with meters showing the
 percentage learned so far.<New>
 If one of the meters
