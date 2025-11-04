@@ -1,20 +1,21 @@
 <TextBlock 1 w:44 h:1>
-<Opcode 14 2>Wh-What are you doing?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
-<TextBlock 2 w:52 h:2>
+<Opcode 14 2>Wh-What're you doing!?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 2 w:54 h:2>
 <Opcode 14 2>I don't need it!<Delay 20>
-I-I don't want to use it!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
-<TextBlock 3 w:16 h:2>
+  I won't use such a thing!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 3 w:20 h:2>
+<Opcode 14 2>No!
+  Go away!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 4 w:48 h:3>
+<Opcode 14 2>What're you going
+ to do to me?<Delay 20>
+  Don't touch me!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 5 w:30 h:2>
+<Opcode 14 2>I said no!<Delay 90>
+  Let go of me!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 6 w:20 h:2>
 <Opcode 14 2>Please!
-Go away!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
-<TextBlock 4 w:48 h:2>
-<Opcode 14 2>What're you doing to me?<Delay 20>
-Don't touch me!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
-<TextBlock 5 w:26 h:2>
-<Opcode 14 2>No!<Delay 90>
-Let go of me!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
-<TextBlock 6 w:14 h:2>
-<Opcode 14 2>Please!
-Stop!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+  Stop it!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <TextBlock 7 w:72 h:13>
 No recollection at all, you say?<Delay 45>
          There are no records of
@@ -57,29 +58,29 @@ since there is so much potential.<Delay 240><Close><End of Block>
  It's those weak people's
  fault for not being able
  to withstand your powers.<Delay 30><Delay 250><Close><End of Block>
-<TextBlock 10 w:16 h:2>
-<Opcode 14 2>Please!
-<Opcode 14 1>Stop it!<Delay 250><Close><End of Block>
+<TextBlock 10 w:20 h:2>
+<Opcode 14 1>Please!
+  Stop it!<Delay 250><Close><End of Block>
 <TextBlock 11 w:44 h:2>
 <Opcode 14 2>Don't worry.
-It's only Drive.<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+  It's only Drive.<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <TextBlock 12 w:36 h:4>
 <Opcode 14 2>The Drive will
-just readjust your
-balance and make
-you feel good.<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+ just alter your
+  balance and make
+   you feel good.<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <TextBlock 13 w:42 h:4>
-<Opcode 14 2>You think we're going
-to make an exception
-because your father's
-top brass?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
-<TextBlock 14 w:38 h:2>
-<Opcode 14 2>I don't think<Delay 40> I
-like your attitude!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<Opcode 14 2>You think because
+ your father's top
+  brass we'll make
+   an exception?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 14 w:42 h:2>
+<Opcode 14 2>I don't think I
+  like your attitude!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
 <TextBlock 15 w:52 h:3>
 <Opcode 14 2>What's with your hair?
-Isn't it awfully red for
-a First Class citizen?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
-<TextBlock 16 w:40 h:2>
-<Opcode 14 2>Are you really a
-First Class citizen?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+ Isn't it awfully red
+  for one of the Gazel?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 16 w:44 h:2>
+<Opcode 14 2>Are you sure you're a
+  First Class citizen?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
