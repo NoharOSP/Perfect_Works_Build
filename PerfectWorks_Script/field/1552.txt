@@ -35,12 +35,12 @@ move...!?"<Close><End of Block>
 Fei
 "Doc, what's going
 on...!?"<Close><End of Block>
-<TextBlock 10 w:42 h:3>
+<TextBlock 10 w:44 h:3>
 Bart
 "Damn!
 What's going on?<New>
 <Brigandier> is not
-working right at all!<Close><End of Block>
+working right at all!"<Close><End of Block>
 <TextBlock 11 w:38 h:3>
 Billy
 "No good over here
@@ -220,7 +220,7 @@ Maria
 People of Shevat!<Delay 20>
 Hear me!<Close><End of Block>
 <TextBlock 49 w:50 h:4>
-Nikola
+Achtzehn
 "I hear some interesting
 rats have taken refuge
 there...<New>
@@ -231,22 +231,22 @@ out all at once!<New>
 Come now, filthy rats...<Delay 20>
 My lovely guinea pigs!"<Close><End of Block>
 <TextBlock 50 w:38 h:4>
-Nikola
+Achtzehn
 "Next, let's have
 some test subjects
 for THIS..."<Close><End of Block>
 <TextBlock 51 w:44 h:4>
-Nikola
+Achtzehn
 "Achtzehn's new
 weapon...<Delay 20>the anti-Gear
 Psycho Jammer!"<Close><End of Block>
 <TextBlock 52 w:42 h:4>
-Nikola
+Achtzehn
 "Time enough to erase
 you from the face of
 the earth."<Close><End of Block>
 <TextBlock 53 w:50 h:3>
-Nikola
+Achtzehn
 "Humans are imperfect,
 foolish lifeforms...<New>
 I will show the greatness

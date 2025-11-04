@@ -1,100 +1,95 @@
-<TextBlock 1 w:34 h:2>
-I've been waiting
-for you, Fei!!<Close><End of Block>
+<TextBlock 1 w:28 h:2>
+You've kept me
+waiting, Fei!!<Close><End of Block>
 <TextBlock 2 w:36 h:4>
 Ramsus
-"Fei<Delay 5>...<Delay 20>
-If only you hadn't
-have been born<Delay 5>..."<Close><End of Block>
+"Fei<Delay 5>...<Delay 20> If it 
+wasn't for you<Delay 5>..."<Close><End of Block>
 <TextBlock 3 w:36 h:4>
-"I<Delay 5>...<Delay 20>
-I<Delay 5>...<Delay 20>
-We're going to
-settle this now!!"<Close><End of Block>
+Ramsus
+"I<Delay 5>...<Delay 20> I<Delay 5>...!<Delay 20>
+Today's the day
+we settle this!!"<Close><End of Block>
 <TextBlock 4 w:52 h:4>
 Fei
-"Stop it, Ramsus!<Delay 20>
-What reason is there to
-continue fighting me!?<New>
+"Ramsus, stop!<Delay 20>
+What's the point in us
+fighting any more!?<New>
 Who are you fighting for!?<Delay 20>
-Why do you always have a
-bone to pick with me!?<Delay 20>
-Tell me why!"<Close><End of Block>
-<TextBlock 5 w:46 h:3>
+Why are you so fixated
+on me!?<Delay 20> Tell me why!"<Close><End of Block>
+<TextBlock 5 w:48 h:3>
 Ramsus
-"It is all because of
+"It's all because of
 you<Delay 5>...<New>
-If only you hadn't come
-in and destroyed my
-prospects in life<Delay 5>..."<Close><End of Block>
-<TextBlock 6 w:52 h:3>
-My life<Delay 5>...<Delay 5>was given to
-me within a Nanoreactor
-in Karellen's laboratory. <New>
-To be born as the superior
-being, above all humans<Delay 5>...<Delay 30>
+Back then...<Delay 20> I...<Delay 20>
+If it wasn't for you..."<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+I<Delay 5>...<Delay 5>was given life
+inside a reactor in
+Karellen's laboratory. <New>
+To be the one who would
+transcend all humans<Delay 5>...<Delay 30>
+ 
 But then<Delay 5>...<Close><End of Block>
-<TextBlock 7 w:54 h:4>
+<TextBlock 7 w:50 h:4>
 Ramsus
-"Because of your existence,
-I was discarded<Delay 5>...!<New>
-I was destined to be the
-representative of god<Delay 5>...<Delay 5>
-having the might of the
-Emperor.<New>
-I was destined to be the
-ultimate existence, having
-the power to exercise
-absolute control over all!<New>
-But<Delay 5>...<Delay 30>
-I lost it all<Delay 5>...<Delay 5>
-because of you!!"<Close><End of Block>
-<TextBlock 8 w:50 h:4>
+"Because you existed,
+I was regarded as waste
+for disposal<Delay 5>...!<New>
+I was supposed to be born
+possessing the power of
+the Emperor,<New>
+as a being with absolute
+authority,<Delay 10> as the
+representative of God.<New>
+But I'm...<Delay 30>
+It's all your fault!!"<Close><End of Block>
+<TextBlock 8 w:40 h:4>
 Fei
-"M-My mother<Delay 5>...?<Delay 20>
-How<Delay 5>...<Delay 5>do you know her<Delay 5>...?<Delay 20>
-Ramsus<Delay 5>...!"<Close><End of Block>
-<TextBlock 9 w:48 h:4>
+"M-My mother was<Delay 5>...?<Delay 20>
+Why<Delay 5>...<Delay 5>would she<Delay 5>...?<Delay 20>
+Ramsus<Delay 5>..."<Close><End of Block>
+<TextBlock 9 w:50 h:4>
 Dominia
 "Commander!
 Please stop this!<New>
-Commander, if what you
-say is true, then that
-is even more of a reason
-not to fight!<New>
-You were just used by
-Karellen and<Delay 5>..."<Close><End of Block>
-<TextBlock 10 w:50 h:4>
+If what you said is true,
+then you have even less
+of a reason to fight!<New>
+You were being deceived
+by Karellen and<-->"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
 Ramsus
 "Silence!!<Delay 20>
-You<Delay 5>...<Delay 5>even you<Delay 5>...<Delay 5>
-dare to censure me!?<New>
-I saved you from nearly
-becoming a test subject
-and now you turn on me!?"<Close><End of Block>
-<TextBlock 11 w:46 h:4>
+You<Delay 5>...<Delay 5> Even you would
+criticize me!?<New>
+I who saved you when you
+were about to become a
+test subject!"<Close><End of Block>
+<TextBlock 11 w:44 h:4>
 Dominia
-"You are mistaken!<Delay 20>
-We are only thinking of
-your best interests..."<Close><End of Block>
+"That's not how it is!<New>
+It's precisely because
+we're thinking of your
+best interests that<-->"<Close><End of Block>
 <TextBlock 12 w:44 h:4>
 Ramsus
-"Silence!!<New>
-Ultimately, only
-I can help myself!<Delay 20>
-I am the only one that
-can correct this!"<Close><End of Block>
-<TextBlock 13 w:52 h:4>
+"SILENCE!!<New>
+Ultimately, it's up to
+me, and no one but me!<Delay 20>
+Only I can make this
+right!"<Close><End of Block>
+<TextBlock 13 w:52 h:3>
 Ramsus
-"This is the end for you!!<Delay 20>
-En garde!<Delay 20>
-Cause, here I come, Fei!!"<Close><End of Block>
+"En garde, Fei!!<Delay 20>
+This is the end for you!!"<Close><End of Block>
 <TextBlock 14 w:34 h:2>
 Fei
 "What's this<Delay 5>...?"<Close><End of Block>
 <TextBlock 15 w:20 h:2>
 Fei
 "Ramsus!?"<Close><End of Block>
-<TextBlock 16 w:34 h:2>
+<TextBlock 16 w:24 h:2>
 Ramsus
-"Ghuuaaaahh...!!"<Opcode 2 20><Close><End of Block>
+"Gaaaaaah!!"<Opcode 2 20><Close><End of Block>

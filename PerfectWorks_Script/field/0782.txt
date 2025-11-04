@@ -291,14 +291,14 @@ officer of Av was
 transferred to it.<New>
 Not really transferred...<Delay 30>
 More like <Delay 30>demoted.<Delay 30>
-His name is Vanderkaum."<Close><End of Block>
-<TextBlock 52 w:30 h:2>
+His name is Vanderkam."<Close><End of Block>
+<TextBlock 52 w:28 h:2>
 Sigurd
-"Vanderkaum..."<Close><End of Block>
+"Vanderkam..."<Close><End of Block>
 <TextBlock 53 w:38 h:4>
 Sigurd
 "You don't mean the
-Vanderkaum that was
+Vanderkam that was
 in Jugend?"<Close><End of Block>
 <TextBlock 54 w:32 h:2>
 Citan
@@ -355,7 +355,7 @@ our Gear forces?"<Close><End of Block>
 <TextBlock 64 w:50 h:3>
 Citan
 "It is not a problem.<New>
-Even with Vanderkaum, we
+Even with Vanderkam, we
 have enough forces left
 to pull off the feint.<New>
 However, it would not be

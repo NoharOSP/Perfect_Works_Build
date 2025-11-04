@@ -17,16 +17,16 @@ Fei
 Fei
 "Agh..."<Close><End of Block>
 <TextBlock 6 w:54 h:4>
-Vanderkaum
+Vanderkam
 "You there...
 What're you doing messing
 around and ignoring me...?"<Close><End of Block>
 <TextBlock 7 w:34 h:3>
-Vanderkaum
+Vanderkam
 "I'll kill every
 one of you!"<Opcode 2 60><Close><End of Block>
 <TextBlock 8 w:54 h:4>
-Vanderkaum
+Vanderkam
 "You there...
 What're you doing messing
 around and ignoring me...?"<Close><End of Block>

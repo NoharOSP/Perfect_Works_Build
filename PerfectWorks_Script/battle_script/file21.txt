@@ -22,7 +22,7 @@ father is already<Delay 40>...<New>
 <Delay 40>...<Delay 40>
 Achtzehn is<Delay 40>...<Delay 90>
 not my father!"<Close><End of Block>
-<TextBlock 5 w:42 h:4>
+<TextBlock 5 w:46 h:4>
 Maria
 "<Delay 40>...<Delay 40>Achtzehn!
 I will defeat you!!<Delay 60>

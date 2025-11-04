@@ -11,12 +11,12 @@ powers, and the source of
 power for the generators
 that make our Gears work...<New>
 It all comes from the
-'Zohar Modifier' engine
-which can control any
-potential phenomena.<New>
+Phenomena-Alteration Engine
+Zohar, which can control
+any potential phenomena.<New>
 If we destroy it,<Delay 5>
 Deus...<Delay 5>
-and the 'Seraph' angels...<Delay 5>
+and the Aeons...<Delay 5>
 will all be deactivated...<New>
 And then we should also be
 able to free Elly, who has
@@ -39,15 +39,15 @@ use our Gears or our Ether
 powers anymore."<Close><End of Block>
 <TextBlock 6 w:54 h:4>
 Rico
-"What are those 'Seraph'
-angels all about anyway?<New>
+"What are those Aeons all
+about anyway?<New>
 That odd appearance as if
 they lack something...<Delay 5>as if
 they were neither living
 beings nor mere weapons..."<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Citan
-"The 'Seraphs' are 
+"The Aeons are 
 what manifest<New>
 when the Zohar 
 senses human 
@@ -65,7 +65,7 @@ observation by an
 observer that determines 
 actuality.<New>
 In other words, those 
-'Seraphs' may be the 
+Aeons may be the 
 manifested forms<New>
 of spirits of the 
 people that Deus 
@@ -91,15 +91,13 @@ intention.<New>
 Remember the words 
 that Elly spoke after 
 becoming Myyah."<Close><End of Block>
-<TextBlock 13 w:48 h:4>
+<TextBlock 13 w:54 h:4>
 Fei
-" 'Beings capable of 
-   creating God<New>
-   will eventually
-   become a 
-   hindrance.<New>
-   That is why they 
-   are eliminated.'"<Close><End of Block>
+"'Beings who are able to
+create a god will become an
+obstacle sooner or later.<New>
+So they are to be
+eliminated.'"<Close><End of Block>
 <TextBlock 14 w:54 h:4>
 Citan
 "Yes. And that is why the 
@@ -111,8 +109,8 @@ programming and destroying
 the surface<New>
 so that no civilization 
 remains... but it's not.<New>
-Deus's terminals, the 
-'Seraphs', are utilizing 
+Deus' terminals, the 
+Aeons, are utilizing 
 bodies comprised of 
 nanomachine colonies<New>
 and are absorbing a great 
@@ -152,8 +150,8 @@ Citan
 Karellen sees Deus
 as 'Mother'.<New>
 If Deus is Mother, then
-this is the doing of a
-Greater Mother<Delay 5>...<New>
+this is the doing of the
+Great Mother<Delay 5>...<New>
 Preventing the growth of
 her child, <Delay 10>engulfing it,<New>
 and returning it to
@@ -226,9 +224,9 @@ it's meaningless."<Close><End of Block>
 Sigurd
 "To add to that, there
 is the problem of those
-'Seraphs'.<New>
+Aeons.<New>
 ...They function as the
-terminal interfaces weapons
+terminal interface weapons
 for close defense.<New>
 I can easily say that their
 attack power is equivalent
@@ -278,12 +276,12 @@ the nanomachines' restoring
 ability by disengaging
 their repair programs.<New>
 This should be sufficiently
-effective even against the
-Deus' 'Seraphs'."<Close><End of Block>
+effective even against
+Deus' Aeons."<Close><End of Block>
 <TextBlock 30 w:48 h:4>
 Fei
 "Alright, even if we can
-deal with the angels...<New>
+deal with the Aeons...<New>
 ...just how are we gonna
 deal with that Merkabah?
 We can't even get close
@@ -535,8 +533,8 @@ without perimeter
 defenses?<New>
 We won't stand a chance
 if we get engaged by the
-'Seraph' angels on our
-way to Merkabah."<Close><End of Block>
+Aeons on our way to
+Merkabah."<Close><End of Block>
 <TextBlock 62 w:50 h:3>
 Fei
 "We'll hold them off.

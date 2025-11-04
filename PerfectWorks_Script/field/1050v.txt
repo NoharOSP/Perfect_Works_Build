@@ -1,14 +1,14 @@
 <TextBlock 1 w:56 h:4>
 Gatekeeper
 "Beyond here is the
-competitors' Gear storage
+competitors' Gear-storage
 paddock.<New>
 Sorry, but to prevent pilots
-cheating, unauthorized entry
-is not permitted."<Close><End of Block>
+from cheating, unauthorized
+entry is not permitted."<Close><End of Block>
 <TextBlock 2 w:52 h:4>
 Informationist
-"Nothing learned nothing 
+"Nothing learned, nothing 
 gained. Ask and you shall
 receive<Delay 5>...<Delay 5>perhaps.<New>
 Anyway, 'Battler', what do
@@ -18,7 +18,7 @@ Battling Contest?"<Close><End of Block>
 Informationist
 "What shall I explain?"<Delay 15>
 <Opcode 1 255>    What's Battling?
-    Basic control method?
+    Basic controls
     I'm alright, thanks!<Close><End of Block>
 <TextBlock 4 w:54 h:6>
 BP-Exchanger Girl
@@ -1522,9 +1522,9 @@ fundamental properties
 of the Gears they pilot."<Close><End of Block>
 <TextBlock 255 w:44 h:4>
 Informationist
-"Well that's the quick
-rundown<Delay 5>...I think.<Delay 30>
-Did you get the drift?<Close><End of Block>
+"Well that's the rough
+explanation<Delay 5>...I guess.<Delay 30>
+Did you get the gist?"<Close><End of Block>
 <TextBlock 256 w:50 h:4>
 <Perso1>
 "Well, ummm<Delay 5>..."<Delay 15>
@@ -1562,12 +1562,12 @@ That's strange! Well, once
 again from the beginning...<New>
 (Gee and I thought this guy
 had it in him?<Delay 5> ...Obviously I
-was wrong...<Delay 5> Is his head OK?)<Delay 10>
-Anyway, listen closely now!"<Close><End of Block>
+was wrong.<Delay 5> Is his head okay?)<Delay 10>
+Anyway, listen closely, now!"<Close><End of Block>
 <TextBlock 260 w:58 h:7>
 Informationist
 "Right, the basic controls!
-Well<Delay 5> what do you want to do?<Delay 15>
+So what do you want to do?"<Delay 15>
 <Opcode 1 255>    Ask about button controls
     Tutorial Mode
     Practice Mode
@@ -1576,7 +1576,7 @@ Well<Delay 5> what do you want to do?<Delay 15>
 Informationist
 "Right, the button controls.
 I'll explain each button's
-function accordingly...<Close><End of Block>
+function accordingly..."<Close><End of Block>
 <TextBlock 262 w:54 h:4>
 Informationist
 "Well, I'll now explain the
@@ -1585,12 +1585,12 @@ the actual screen."<Close><End of Block>
 <TextBlock 263 w:56 h:3>
 Informationist
 "So, <Delay 10>you want to try out the
-actual controls, huh..."<Close><End of Block>
-<TextBlock 264 w:58 h:4>
+actual controls, huh...?"<Close><End of Block>
+<TextBlock 264 w:52 h:4>
 Informationist
-"Oh,<Delay 5> well<Delay 5>...have it your way!<Delay 15>
+"Oh,<Delay 5> well<Delay 5>...suit yourself!<Delay 15>
 What else do you want to
-enquire about?"<Close><End of Block>
+inquire about?"<Close><End of Block>
 <TextBlock 265 w:50 h:8>
 Informationist
 "Which shall I explain?"<Delay 15>
@@ -1612,7 +1612,7 @@ Informationist
 Informationist
 "Oh<Delay 5>...had enough already?
 Anything else you need to
-know?<Delay 15> Don't be afraid now!<Close><End of Block>
+know?<Delay 15> Don't be shy, now!"<Close><End of Block>
 <TextBlock 268 w:56 h:5>
 Informationist
 "Okay,<Delay 5> about the directional
@@ -1697,7 +1697,7 @@ cannot continue running
 indefinitely."<Close><End of Block>
 <TextBlock 275 w:54 h:5>
 Informationist
-"Like with Ether bullets,
+"Like with Ether Bullets,
 your Gear will break down
 if you overheat. Watch for
 the red bar on the side."<Close><End of Block>
@@ -1741,7 +1741,7 @@ think you won't win."<Close><End of Block>
 Informationist
 "Yes,<Delay 5> I thought you wouldn't
 have any problems! <Delay 10>Anyway,<Delay 5>
-give it your best shot now!"<Close><End of Block>
+give it your best shot!"<Close><End of Block>
 <TextBlock 281 w:48 h:5>
 Informationist
 "What shall I explain?"<Delay 15>
@@ -1782,7 +1782,7 @@ from ordinary matches in
 that upon winning a bout you
 receive Battle Points, which
 you can collect and exchange
-for prizes!<Close><End of Block>
+for prizes!"<Close><End of Block>
 <TextBlock 286 w:56 h:5>
 Receptionist
 "Select your Gear to pilot:"<Delay 30>
@@ -2091,22 +2091,22 @@ unavoidable fate!<Close><End of Block>
 <TextBlock 365 w:56 h:4>
 Big Joe
 "Allow me to show my 
-appreciations for all 
-you have done fellas.<New>
+appreciation for all 
+you've done, folks.<New>
 I brought this here from the
 Wildcat bar in what was the
 Imperial Capital Noatun.<Delay 5>
 I also fixed it up a little.<New>
 It should be a lot more
-friendlier now.<Delay 5> But you'll
+friendly now.<Delay 5> But you'll
 never know unless you try,<Delay 5>
-so give it a listen, huh!<New>
+so give it a listen, huh?<New>
 It was hard to get rid of
-the elegant old grain look
+the elegant old-grain look
 it had when placed in the
 Wildcat, but<Delay 5>...<New>
-well, anyway, don't you
-think the new faux marble
+Well, anyway, don't you
+think the new faux-marble
 design is kinda groovy?"<Close><End of Block>
 <TextBlock 366 w:56 h:4>
 Big Joe
@@ -2116,9 +2116,9 @@ Imperial Capital Noatun.<New>
 The outside was damaged, 
 so I had to change it<Delay 5>...<Delay 15>
 It was hard to get rid of
-the elegant old grain look.<New>
+the elegant old-grain look.<New>
 But, anyway, don't you
-think the new faux marble
+think the new faux-marble
 design is kinda groovy? <Delay 15>Now,
 if only I had an M Disk!<New>
 You can listen to M Disks
@@ -2128,7 +2128,7 @@ the old Imperial Capital.<New>
 It was a valuable premium
 disk refined with Ether
 logic too!<Delay 5>
-If only I had known<Delay 5>... !"<Close><End of Block>
+If only I had known<Delay 5>...!"<Close><End of Block>
 <TextBlock 367 w:36 h:2>
 Receptionist
 "Match forfeited!"<Close><End of Block>

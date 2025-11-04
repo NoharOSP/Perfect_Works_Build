@@ -26,21 +26,21 @@ Grahf
 Grahf
 "So be it!"<Close><End of Block>
 <TextBlock 8 w:22 h:3>
-Vanderkaum
+Vanderkam
 "Ugh...
 I..."<Close><End of Block>
 <TextBlock 9 w:38 h:2>
-Vanderkaum
+Vanderkam
 "Wh-Who <Delay 7>are you!?"<Close><End of Block>
 <TextBlock 10 w:28 h:2>
-Vanderkaum
+Vanderkam
 "The power..."<Close><End of Block>
 <TextBlock 11 w:38 h:3>
-Vanderkaum
+Vanderkam
 "P-Power...
 ...The power...<New>
 I want it...
 I want the POWER!"<Close><End of Block>
 <TextBlock 12 w:30 h:2>
-Vanderkaum
+Vanderkam
 "Urrgghhhhh..."<Opcode 2 50><Close><End of Block>

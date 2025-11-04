@@ -19,22 +19,22 @@ Have you any ideas?<Close><End of Block>
 <TextBlock 4 w:40 h:3>
 General, the problem
 is that pushy Major
-Vanderkaum. He...<Close><End of Block>
+Vanderkam. He...<Close><End of Block>
 <TextBlock 5 w:56 h:5>
 Hold your tongue!<Delay 20>
 I understand your resentment
-toward Major Vanderkaum,
+toward Major Vanderkam,
 but we don't want any bad 
 feelings with Geburah.<Close><End of Block>
 <TextBlock 6 w:48 h:3>
 I'm sorry. <Delay 30>
 What about that new guy,
 Ramsus? What about him?<Close><End of Block>
-<TextBlock 7 w:48 h:4>
+<TextBlock 7 w:46 h:4>
 I've heard he is 
 rather talented...
 He shouldn't trouble
-us like that Vanderkaum.<Close><End of Block>
+us like that Vanderkam.<Close><End of Block>
 <TextBlock 8 w:40 h:2>
 That surprise attack
 was amazing.<Close><End of Block>

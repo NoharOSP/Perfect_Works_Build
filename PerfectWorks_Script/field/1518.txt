@@ -1,5 +1,5 @@
 <TextBlock 1 w:52 h:4>
-Nikola
+Achtzehn
 "I see...<Delay 20>
 You're a giant primitive
 lifeform of this planet...<New>
@@ -109,7 +109,7 @@ Maria
 Maria
 "<Seibzehn>!!"<Opcode 2 90><Close><End of Block>
 <TextBlock 16 w:64 h:4>
-Nikola
+Achtzehn
 "What's with this astronomically
 unintellectual-looking inferior
 lifeform...?"<Close><End of Block>

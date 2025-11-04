@@ -1,85 +1,86 @@
 <TextBlock 1 w:32 h:4>
 Karellen
-"Hmm<Delay 5>...<Delay 15>
+"Ohh<Delay 5>...<Delay 15>
 'This time' your
 body is young."<Close><End of Block>
-<TextBlock 2 w:34 h:2>
-"<Delay 5>...<Delay 5>The previous
-one got too old."<Close><End of Block>
+<TextBlock 2 w:30 h:2>
+<Delay 5>...<Delay 5>The previous
+one got old.<Close><End of Block>
 <TextBlock 3 w:36 h:2>
 Karellen
 "...<Delay 5>And the name?"<Close><End of Block>
-<TextBlock 4 w:46 h:3>
-"Karen<Delay 5>...<Delay 15>
-but individual names
-have no meaning to me."<Close><End of Block>
-<TextBlock 5 w:22 h:4>
+<TextBlock 4 w:44 h:3>
+Karen<Delay 5>...<Delay 15>
+But individual names
+are meaningless to me.<Close><End of Block>
+<TextBlock 5 w:32 h:4>
 Karellen
-"So<Delay 5>...<Delay 5>
-what brings
-you here?"<Close><End of Block>
-<TextBlock 6 w:42 h:4>
+"...<Delay 5>So,<Delay 5> what
+brings you here,
+specifically?"<Close><End of Block>
+<TextBlock 6 w:44 h:3>
 Karen
-"Is that thing inside
-the Nanoreactor there
-<Delay 5>...<Delay 5>the one?"<Close><End of Block>
+"Is the thing inside
+that reactor<Delay 10> the one?"<Close><End of Block>
 <TextBlock 7 w:46 h:4>
 Karellen
-"Huh?<Delay 5> Oh<Delay 5>...<Delay 15>
-Recogniton code
-0808191 - 'Ramses'.<New>
-The Emperor's been told
-it's a prototype for an
-artificial 'Contact'."<Close><End of Block>
+"Hm?<Delay 10> ...Oh.<Delay 15>
+Identification code:
+0808191-'Ramses'.<New>
+I'm telling the Emperor
+that it's the pattern
+for artificial human
+zygotes."<Close><End of Block>
 <TextBlock 8 w:40 h:2>
 Karen
 "What's its status?"<Close><End of Block>
-<TextBlock 9 w:54 h:4>
+<TextBlock 9 w:50 h:4>
 Karellen
-"It has entered the so-
-called first growth stage.<New>
-From now until the binding,
-its growth will be several
+"It's just entered the
+so-called primary growth
+stage.<New>
+Later growth up until it
+attaches will be several
 times faster than that of
 an ordinary human.<New>
-But its psychological
-development will be a
-little difficult to
-control<Delay 5>..."<Close><End of Block>
-<TextBlock 10 w:54 h:3>
+But psychological control
+will be somewhat
+difficult..."<Close><End of Block>
+<TextBlock 10 w:52 h:3>
 Karellen
-"It is a replica<Delay 5>...<Delay 5>
-so that is to be expected."<Close><End of Block>
-<TextBlock 11 w:32 h:3>
+"It's a reproduction<Delay 5>...<Delay 5>
+so that's to be expected."<Close><End of Block>
+<TextBlock 11 w:30 h:4>
 Karen
-"It is moving<Delay 5>...<Delay 15>
-Can it hear us?"<Close><End of Block>
+"It's moving<Delay 5>...<Delay 15>
+Can it hear us,
+I wonder?"<Close><End of Block>
 <TextBlock 12 w:34 h:4>
 Karellen
-"Yes<Delay 5>...<Delay 15>
-It already has a
-will of its own."<Close><End of Block>
-<TextBlock 13 w:44 h:4>
+"...Yes.<Delay 15>
+A will is already
+present here."<Close><End of Block>
+<TextBlock 13 w:42 h:4>
 Karen
-"Then<Delay 5>...<Delay 15>
-I have a better way<Delay 5>...<Delay 15>
-Let us dispose of it."<Close><End of Block>
+"I see<Delay 5>...<Delay 15> Then I
+have a better way.<Delay 15>
+Let's dispose of it."<Close><End of Block>
 <TextBlock 14 w:52 h:4>
 Karen
-"We do not need this<Delay 5>...<Delay 15>
-We have my child.<Delay 15> My child
-will be 4 this year."<Close><End of Block>
-<TextBlock 15 w:26 h:4>
+"We don't need this.<Delay 15>
+Because we have my child.<Delay 15>
+It will turn 4 this year."<Close><End of Block>
+<TextBlock 15 w:44 h:3>
 Karellen
-"Your having
-a child is<Delay 5>...<Delay 30>
-significant?"<Close><End of Block>
-<TextBlock 16 w:40 h:3>
+"You having a child<Delay 5>...<Delay 30>
+It's significant?"<Close><End of Block>
+<TextBlock 16 w:44 h:4>
 Karen
-"Yes<Delay 5>...<New>
-I checked it out...
-There is no mistake,
-it's a 'Contact'."<Close><End of Block>
+"...Yes.<New>
+I investigated to find
+out for sure, and I
+know a Contact when
+I see one."<Close><End of Block>
 <TextBlock 17 w:36 h:2>
 Karellen
 "What's its name?"<Close><End of Block>
@@ -91,33 +92,31 @@ child's name.<New>
 So<Delay 5>...<Delay 5>
 you understand
 what this means?"<Close><End of Block>
-<TextBlock 19 w:34 h:3>
+<TextBlock 19 w:38 h:2>
 Karellen
-"A corresponding
-'Antitype' is<Delay 5>..."<Close><End of Block>
+"An Antitype is<Delay 5>..."<Close><End of Block>
 <TextBlock 20 w:32 h:4>
 Karen
-"Yes<Delay 5>...<Delay 30>
-probably already
+"...Yes.<Delay 30>
+Probably already
 born somewhere."<Close><End of Block>
 <TextBlock 21 w:38 h:2>
 Karen
-"<Delay 5>...<Delay 5>The final one!"<Close><End of Block>
-<TextBlock 22 w:32 h:4>
+"<Delay 5>...<Delay 5>The final one."<Close><End of Block>
+<TextBlock 22 w:42 h:3>
 Karellen
-"Then<Delay 5>...<Delay 15>
-this thing is<Delay 5>...<Delay 5>
-worthless."<Close><End of Block>
-<TextBlock 23 w:46 h:2>
+"In that case<Delay 5>...<Delay 15>
+this thing is<Delay 10> trash."<Close><End of Block>
+<TextBlock 23 w:32 h:2>
 Karen
-"Yes, totally useless."<Close><End of Block>
+"Trash, indeed."<Close><End of Block>
 <TextBlock 24 w:54 h:3>
 Karen
-"Ha-ha<Delay 5>...<Delay 15>
+"Hahaha<Delay 5>...<Delay 15>
 Chase after it, <Delay 5>'boy'.<New>
-A love that's unattainable
-for you, no matter how hard
-you try to pursue it."<Close><End of Block>
+A love that's unattainable,
+no matter how much you
+want it."<Close><End of Block>
 <TextBlock 25 w:26 h:1>
 Until then<Delay 5>...<Close><End of Block>
 <TextBlock 26 w:42 h:4>
@@ -165,7 +164,7 @@ unleashed at the time of
 assimilation with God<Delay 5>...<Delay 5><New>
 A literal virus<Delay 5>...<Delay 15>
 But<Delay 5>...<Delay 5>isn't it different
-from what the children
+from what the Children
 have in mind<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 30 w:48 h:4>
 Karellen

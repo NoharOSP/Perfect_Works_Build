@@ -3,10 +3,10 @@ Ramsus
 "Cancel the alert status.
 Begin repairs and
 resupply immediately."<Close><End of Block>
-<TextBlock 2 w:54 h:4>
+<TextBlock 2 w:52 h:4>
 Myyah
 "The Prime Minister and
-General Vanderkaum are here
+General Vanderkam are here
 to see you, Commander."<Close><End of Block>
 <TextBlock 3 w:32 h:3>
 Ramsus

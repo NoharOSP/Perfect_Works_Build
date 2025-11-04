@@ -37,10 +37,10 @@ All personnel, evacuate!<Delay 16>
 Abandon ship!
 Repeat, evacuate!<Opcode 2 75><Close><End of Block>
 <TextBlock 11 w:50 h:2>
-Vanderkaum
+Vanderkam
 "Aviation Officer, wait!"<Close><End of Block>
 <TextBlock 12 w:50 h:4>
-Vanderkaum
+Vanderkam
 "Comms Officer!
 Change of orders.<New>
 Contact Von Hipper.
@@ -52,7 +52,7 @@ and bait those Gears to
 within range of the
 Kefeinzel's main gun."<Close><End of Block>
 <TextBlock 13 w:48 h:4>
-Vanderkaum
+Vanderkam
 "Firing Control!
 Gunnery Chief!
 Ready the Type 3 shells.<New>
@@ -64,7 +64,7 @@ Insects...
 The main gun will
 pulverize them..."<Close><End of Block>
 <TextBlock 14 w:50 h:3>
-Vanderkaum
+Vanderkam
 "Quiet down,
 Aviation Officer!<New>
 Thanks for your valuable
@@ -74,20 +74,20 @@ What use is a mere 40-sem
 like the Meluru or a pea-
 shooter like the Bofars?"<Close><End of Block>
 <TextBlock 15 w:46 h:3>
-Vanderkaum
+Vanderkam
 "Discussion over.<New>
 Captain! Not too fast!
 We don't want to leave
 the enemy behind."<Close><End of Block>
 <TextBlock 16 w:46 h:4>
-Vanderkaum
+Vanderkam
 "That moron, Hipper!<New>
 He's supposed to be
 cornering the enemy,
 not playing with them!<New>
 A dog could do better!"<Close><End of Block>
 <TextBlock 17 w:50 h:4>
-Vanderkaum
+Vanderkam
 "Firing Control! Gunnery
 Chief! Not one shot from
 the main gun yet!?<New>
@@ -96,32 +96,32 @@ Effective range of Type
 You can judge it by
 eye <--> just fire!"<Close><End of Block>
 <TextBlock 18 w:46 h:3>
-Vanderkaum
+Vanderkam
 "Morons!<Delay 32> Every one of
 you in this fleet!"<Close><End of Block>
 <TextBlock 19 w:44 h:3>
-Vanderkaum
+Vanderkam
 "Idiotic! Idiotic!<Delay 32>
 What is this mess...?"<Close><End of Block>
 <TextBlock 20 w:34 h:4>
-Vanderkaum
+Vanderkam
 "Take him out!<Delay 45>
 Ramsus will have
 my hide!"<Close><End of Block>
 <TextBlock 21 w:52 h:4>
-Vanderkaum
+Vanderkam
 "Firing Control!
 Gunnery Chief!
 What are you doing!?<New>
 You're not even close!!!!
 Are you blind!?"<Close><End of Block>
 <TextBlock 22 w:42 h:4>
-Vanderkaum
+Vanderkam
 "Right...<Delay 64>
 I still have that...
 I still have that..."<Close><End of Block>
 <TextBlock 23 w:44 h:3>
-Vanderkaum
+Vanderkam
 "Yes...
 I still have that...<New>
 I still have that...

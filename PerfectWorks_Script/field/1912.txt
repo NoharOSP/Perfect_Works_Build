@@ -23,17 +23,19 @@ wisdom, 'Raziel's Tree' <-->
 which were said to lie
 in this Machanon,
 we proceeded further in.<Close><End of Block>
-<TextBlock 4 w:40 h:1>
-Do you wish to save?<Delay 30><Close><End of Block>
-<TextBlock 5 w:46 h:3>
-Continue with the game?<Delay 30>
-    Wait
-    Continue<Delay 15><Close><End of Block>
+<TextBlock 4 w:36 h:3>
+Save current data?<Delay 30>
+<Opcode 1 255>    Save
+    Don't save<Delay 15><Close><End of Block>
+<TextBlock 5 w:36 h:3>
+Resume game?<Delay 30>
+<Opcode 1 255>    Wait a minute
+    Resume game<Delay 15><Close><End of Block>
 <TextBlock 6 w:42 h:3>
-<Opcode 1 255>    Open a menu
-    Change members
-    Continue the game<Delay 15><Close><End of Block>
-<TextBlock 7 w:46 h:3>
-Continue with the game?<Delay 30>
-    Wait
-    Continue<Delay 15><Close><Close><End of Block>
+<Opcode 1 255>    Open menu
+    Change party
+    Resume game<Delay 15><Close><End of Block>
+<TextBlock 7 w:36 h:3>
+Resume game?<Delay 30>
+<Opcode 1 255>    Wait a minute
+    Resume game<Delay 15><Close><Close><End of Block>

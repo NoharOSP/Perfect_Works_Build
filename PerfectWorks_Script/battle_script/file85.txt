@@ -1,24 +1,22 @@
 <TextBlock 1 w:42 h:4>
 Myyah
-"Heh...<Delay 60> Well then...
-let's start over from
-the beginning again.<New>
-You think you can
-beat me this time?"<Delay 30><Close><End of Block>
+"Hehe...<Delay 60>
+Now, one more time
+from the beginning.<New>
+Can you beat me this
+time, I wonder?"<Close><End of Block>
 <TextBlock 2 w:36 h:4>
 Fei
 "What the...!?
-I thought I
+But I thought we
 defeated you...!?"<Close><End of Block>
-<TextBlock 3 w:44 h:4>
+<TextBlock 3 w:46 h:4>
 Karellen
-"Unless you can
-decompose her atomic
-structure,<New>
-you don't stand much
-of a chance.<New>
-Normal attacks are
-futile against one who
-has the ability to
-regenerate<New>
-using nanomachines."<Close><Close><Close><Close><.><Close><Close><End of Block>
+"Standard attacks
+mean nothing<New>
+against something that
+has acquired self-
+restoration capability
+via nanomachines.<New>
+Unless you can break it
+down to atoms, then..."<Close><Close><Close><Close><Close><Close><End of Block>

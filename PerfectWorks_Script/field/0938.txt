@@ -18,10 +18,10 @@ repairs are complete.<New>
 I thought we could unveil
 it on the day of the
 naval review..."<Close><End of Block>
-<TextBlock 4 w:46 h:3>
+<TextBlock 4 w:44 h:3>
 Ramsus
 "Toys like that should
-be given to Vanderkaum.<New>
+be given to Vanderkam.<New>
 I'm talking about the
 Fatima Jasper."<Close><End of Block>
 <TextBlock 5 w:48 h:3>
@@ -92,7 +92,7 @@ And you must be aware that
 the Vessels respond only
 to the chosen ones, right?<New>
 This is something even
-the children don't know <-->
+the Children don't know <-->
 such was my design.<New>
 But...<Delay 10>he's necessary,
 for Carl.<Delay 10> He's the very

@@ -140,7 +140,7 @@ Mason
 <TextBlock 23 w:54 h:4>
 Shakhan
 "Is this some kind of joke?<Delay 100>
-Hmm, It seems sandworms
+Hmm, it seems sandworms
 can't fly after all.<New>
 Just surrender.
 Thanks for the laughs...

@@ -565,7 +565,7 @@ So what do you want to do?"<Delay 15>
 Informationist
 "Okay, the button controls.
 I'll explain each button's
-functions accordingly...<Close><End of Block>
+functions accordingly..."<Close><End of Block>
 <TextBlock 116 w:54 h:4>
 Informationist
 "Well, I'll now explain the
@@ -691,7 +691,7 @@ cannot continue running
 indefinitely."<Close><End of Block>
 <TextBlock 130 w:54 h:5>
 Informationist
-"Like with Ether bullets,
+"Like with Ether Bullets,
 your Gear will break down
 if you overheat. Watch for
 the red bar on the side."<Close><End of Block>

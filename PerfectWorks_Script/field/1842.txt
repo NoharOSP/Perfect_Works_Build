@@ -188,13 +188,15 @@ headed for a location that
 seemed to be<Delay 5> the ruins of
 an ancient civilization.<Close><End of Block>
 <TextBlock 18 w:62 h:10>
-Having dealt with the Elements,
-who had been after a Vessel to
-use as an instrument of Ramsus'
-vision,<Delay 15> once again we set
-about obtaining information on
-another place of interest...<Delay 30>
-in search of the final Vessel.<Close><End of Block>
+Having dealt with the Elements,<Delay 5>
+ who had been after a Vessel
+  to use as an instrument
+   of Ramsus' vision,<Delay 15>
+ once again we set about
+  obtaining information on
+   another place of interest...<Delay 30>
+    in search of the
+     final Vessel.<Close><End of Block>
 <TextBlock 19 w:60 h:9>
 The first Vessel of Anima
 performed its alignment with
@@ -389,144 +391,132 @@ Fei
 "I<Delay 5>...<Delay 15>
    I<Delay 5>..."<Close><End of Block>
 <TextBlock 42 w:56 h:11>
-In order to save Elly,
-We began to search
-desperately for her
-whereabouts...<Delay 30>
+In order to rescue Elly,
+  we searched desperately
+    for her whereabouts.<Delay 30>
  
-And<Delay 5> two weeks later,
-we found her.<New>
+And then,<Delay 5> two weeks
+later,<Delay 5> we located her.<New>
 Using the data obtained
 from Raziel and his own
-nanomachine technology,<Delay 5>
-Karellen had begun the
-construction of god's ark,<Delay 5>
-'Merkabah'.
-Its completion was imminent.<Delay 45>
+nanomachines,<Delay 5> Karellen had
+begun the construction of
+God's ark,<Delay 5> 'Merkabah',<Delay 5> and
+its completion was imminent.<Delay 45>
  
-To prevent its activation,<Delay 5>
-and to rescue Elly<Delay 5>...<Delay 5>
-we headed for<Delay 5> Merkabah!<Close><End of Block>
-<TextBlock 43 w:46 h:4>
+  To prevent its launch
+   and rescue Elly,<Delay 5>
+     we headed for Merkabah.<Close><End of Block>
+<TextBlock 43 w:50 h:3>
 Fei
-"You again<Delay 5>...?<Delay 30>
-Are you girls thinking
-of going in there too?"<Close><End of Block>
+"You<Delay 5>...?<Delay 30>
+You all mean to go, too?"<Close><End of Block>
 <TextBlock 44 w:54 h:4>
 Dominia
-"Don't get any wrong
-ideas there.<Delay 10> We are here
-to help our Commander.<New>
-Myyah and Karellen have
-been manipulating his
-emotions<New>
-for the sole purpose of
-eliminating the Emperor.<New>
+"Don't get the wrong
+idea here.<New>
+Our Commander was brought
+into being for the sole
+purpose of eliminating
+the Emperor,<New>
+and his mind is being
+manipulated by Myyah
+and Karellen.<New>
 We simply want to free the
-Commander from those bonds
-so that he may be saved!<New>
-It's neither for the sake
+Commander from their spell!<New>
+It's not for the sake
 of the world<Delay 5>...<Delay 15>
-nor for the sake of your
-girlfriend, Elehayym!"<Close><End of Block>
-<TextBlock 45 w:50 h:4>
+or for Elehayym!"<Close><End of Block>
+<TextBlock 45 w:48 h:4>
 Dominia
-"We have no intentions of
-fighting on the same side
-as you!"<Close><End of Block>
-<TextBlock 46 w:48 h:4>
+"We have no intention of
+forming a united front
+with you or anything!"<Close><End of Block>
+<TextBlock 46 w:52 h:3>
 Fei
 "<Delay 5>...<Delay 5>Fine.<New>
-You have your own
-battles to fight,<Delay 5>
-and we have ours<Delay 5>...<Delay 5>
+You have your battles to
+fight,<Delay 5> and we have ours<Delay 5>...<Delay 5>
 Let's leave it at that."<Close><End of Block>
-<TextBlock 47 w:48 h:4>
+<TextBlock 47 w:52 h:4>
 Fei
-"But<Delay 5>...<Delay 5>if things get out
-of hand, you head back.<Delay 15>
-We'll handle it."<Close><End of Block>
-<TextBlock 48 w:54 h:4>
+"But<Delay 5>...<Delay 5>if things get crazy
+along the way, turn back.<Delay 15>
+We'll take it from there."<Close><End of Block>
+<TextBlock 48 w:36 h:4>
 Dominia
-"Hmph<Delay 5>...<Delay 15>
-We'll make you eat those
-words<Delay 5>...<Delay 5> You wait and see!"<Close><End of Block>
-<TextBlock 49 w:58 h:11>
-We entered inside of Merkabah
-and,<Delay 5> while fighting back
-units of weapons that self-
-regenerated through the use
-of nanomachines,<Delay 5> we headed
-for the central core<Delay 5>...<Delay 5>
+"...Hmph.<Delay 15>
+We'll make you eat
+those words."<Close><End of Block>
+<TextBlock 49 w:54 h:12>
+Having stormed the Merkabah
+interior,<Delay 5> defeating swarms
+of weapons that self-
+regenerated through the
+use of nanomachines,<Delay 5>
+we set our sights on the
+structure's core<Delay 5>...<Delay 5>
  
-And then<Delay 5>...<Delay 5>
+   And then<Delay 5>...<Delay 5>
  
-once again,<Delay 5>
-Ramsus appeared before us.<Close><End of Block>
+Yet again,<Delay 5> Ramsus
+      stood in our way.<Close><End of Block>
 <TextBlock 50 w:50 h:7>
-God<Delay 5>...<Delay 5>the inter-planetary
-invasion weapon 'Deus'<Delay 5>...<Delay 5>
-had awakened and its ark,
- 
-Merkabah
- 
-was activated.<Close><End of Block>
-<TextBlock 51 w:54 h:12>
-Deus began to absorb,<Delay 5>
-one after the other,<Delay 5>
-the mutated people,<Delay 5>
-destined to be its parts<Delay 5>...<Delay 45>
- 
-While the non-mutated,<Delay 5>
-would eventually,<Delay 5>
-only become a threat to it.<Delay 5>
-To exterminate us
-and our civilization<Delay 5>...<Delay 30>
- 
-it set into action.<Close><End of Block>
-<TextBlock 52 w:50 h:8>
-The planet's surface
-was devastated<Delay 5>...<Delay 5>
- 
-<Delay 5>...<Delay 5>by Merkabah<Delay 5>
-and the weapons born
-from out of it,<Delay 5> called<Delay 5>...<Delay 45>
- 
-'the <Delay 5>Seraph<Delay 5> Angels'.<Close><End of Block>
+God<Delay 5>, the interstellar
+invasion weapon Deus,<Delay 5>
+     awakened...<Delay 45>
+and its ark,<Delay 5> Merkabah,<Delay 5>
+    was launched.<Close><End of Block>
+<TextBlock 51 w:54 h:13>
+One after another, Deus
+ absorbed the mutated
+ people destined to be
+    its components,
+and set into action to
+stamp out those who had
+ not mutated <--> we who
+ would someday become
+   a threat to it <-->
+ and our civilization
+    along with us.<Close><End of Block>
+<TextBlock 52 w:52 h:8>
+The earth's surface
+ was overrun,<Delay 20>
+  by Merkabah<Delay 10> and the
+   swarm of weapons
+    born from it <--><Delay 45>
+     angel-like entities
+       called 'Aeons'.<Close><End of Block>
 <TextBlock 53 w:58 h:12>
-While pursuing
-the newly awakened Deus,<Delay 15>
-we chanced upon Fei,<Delay 5>
-whose whereabouts
-had hitherto been lost<Delay 5>...<Delay 45>
+There had been no news
+of Fei,<Delay 5> who had chased
+after the awakened Deus<Delay 5>...<Delay 45>
  
-Along with his Gear,<Delay 5>
-<Weltall><Delay 5>...<Delay 15>
- 
-Discovered together<Delay 5>
-at the place where<Delay 5> 'Merkabah'<Delay 5>
-was originally located<Delay 5>...<Close><End of Block>
+In the place where
+Merkabah had originally
+been,<Delay 5> we found him<Delay 15>
+along with his
+machine, <Weltall-2>.<Close><End of Block>
 <TextBlock 54 w:54 h:10>
-We were overjoyed by
-Fei's return<Delay 5>...<Delay 5>but<Delay 15>
-it was short lived<Delay 5>...<Delay 45>
+We were overjoyed to
+  have Fei back<Delay 5>...<Delay 5>but<Delay 15> it
+    was a fleeting moment.<Delay 45>
  
-For some unknown reason<Delay 5>...<Delay 15>
-Fei was found<Delay 5> in a state of<Delay 10>
-suspended animation.<Delay 60>
+For we had found Fei<Delay 5>...<Delay 15>
+  in a deathlike state
+    of unknown cause.<Delay 60>
  
-He did not regain
-consciousness.<Close><End of Block>
-<TextBlock 55 w:44 h:9>
-The people of Shevat,<Delay 5>
-and we ourselves,<Delay 5>
-feared a relapse of<Delay 5>
-Fei's,<Delay 10> no<Delay 5>...<Delay 10>
-Id's<Delay 5> power<Delay 5>...<Delay 15>
-and had no choice
-but to put Fei into<Delay 5>...<Delay 60>
+He would not
+  regain consciousness.<Close><End of Block>
+<TextBlock 55 w:46 h:9>
+Fearing a reemergence
+ of Fei's<--><Delay 10>
+  No,<Delay 5> of Id's power,<Delay 15>
+   we and Shevat
+    reluctantly decided
+     to put Fei<Delay 5>...<Delay 60>
  
-'Carbonite Freeze'.<Close><End of Block>
+into carbonite freeze.<Close><End of Block>
 <TextBlock 56 w:48 h:4>
 Citan
 "<Delay 5>...<Delay 5>Your Majesty.<Delay 30>

@@ -35,10 +35,10 @@ repairs are complete.<New>
 I thought we could unveil
 it on the day of the
 naval review..."<Close><End of Block>
-<TextBlock 7 w:46 h:3>
+<TextBlock 7 w:44 h:3>
 Ramsus
 "Toys like that should
-be given to Vanderkaum.<New>
+be given to Vanderkam.<New>
 I'm talking about the
 Fatima Jasper."<Close><End of Block>
 <TextBlock 8 w:48 h:3>
@@ -120,7 +120,7 @@ taken up my post
 and already you have
 embarrassed me!"<Close><End of Block>
 <TextBlock 22 w:52 h:4>
-Vanderkaum
+Vanderkam
 "I am sorry, Commander.
 They were more persistent
 than we anticipated.<New>
@@ -142,7 +142,7 @@ with force.<New>
 You are all muscle and
 no brains."<Close><End of Block>
 <TextBlock 24 w:26 h:2>
-Vanderkaum
+Vanderkam
 "Commander!!"<Close><End of Block>
 <TextBlock 25 w:44 h:4>
 Ramsus

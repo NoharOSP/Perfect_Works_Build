@@ -113,10 +113,11 @@ Fei
 Rico
 "My Gear won't
 budge anymore."<Close><End of Block>
-<TextBlock 22 w:46 h:3>
+<TextBlock 22 w:50 h:4>
 Citan
-"The Zohar Modifier
-has ceased functioning.<New>
+"The Phenomena-Alteration
+Engine Zohar has ceased
+functioning.<New>
 That is probably the
 reason why our Gears
 cannot move anymore. <New>
