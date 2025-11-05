@@ -1,5 +1,5 @@
-<TextBlock 1 w:12 h:1>
-...Yo.<Close><End of Block>
+<TextBlock 1 w:22 h:1>
+...<Delay 10>Oh,<Delay 10> hey.<Close><End of Block>
 <TextBlock 2 w:54 h:4>
 Fei
 "Looks like you've come
