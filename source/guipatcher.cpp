@@ -2,33 +2,16 @@
 //
 
 // Includes:
-
 #include "pch.h"
 #include "framework.h"
 #include "guipatcher.h"
 
-// Global Variables:
-HINSTANCE hInst;                                // current instance
-WCHAR szTitle[MAX_LOADSTRING];                  // The title bar text
-WCHAR szWindowClass[MAX_LOADSTRING];            // the main window class name
-
-// Forward declarations of functions included in this code module:
-ATOM                MyRegisterClass(HINSTANCE hInstance);
-BOOL                InitInstance(HINSTANCE, int);
-LRESULT CALLBACK    WndProc(HWND, UINT, WPARAM, LPARAM);
-INT_PTR CALLBACK    About(HWND, UINT, WPARAM, LPARAM);
-
-
+// Entry point function
 int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 	_In_opt_ HINSTANCE hPrevInstance,
 	_In_ LPWSTR    lpCmdLine,
 	_In_ int       nCmdShow)
 {
-	UNREFERENCED_PARAMETER(hPrevInstance);
-	UNREFERENCED_PARAMETER(lpCmdLine);
-
-	// TODO: Place code here.
-
 	// Initialize global strings
 	LoadStringW(hInstance, IDS_APP_TITLE, szTitle, MAX_LOADSTRING);
 	LoadStringW(hInstance, IDC_GUIPATCHER, szWindowClass, MAX_LOADSTRING);
@@ -40,8 +23,10 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 		return FALSE;
 	}
 
+	// Initialise accelerator table
 	HACCEL hAccelTable = LoadAccelerators(hInstance, MAKEINTRESOURCE(IDC_GUIPATCHER));
 
+	// Initialise msg
 	MSG msg;
 
 	// Main message loop:
@@ -51,9 +36,6 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 		{
 			TranslateMessage(&msg);
 			DispatchMessage(&msg);
-			// Draw text
-			drawGlobalText();
-			drawGUIText();
 		}
 	}
 
@@ -103,7 +85,7 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 	hInst = hInstance; // Store instance handle in our global variable
 
 	HWND hWnd = CreateWindowW(szWindowClass, szTitle, WS_SYSMENU | WS_MINIMIZEBOX,
-		CW_USEDEFAULT, 0, 800, 600, nullptr, nullptr, hInstance, nullptr);
+		CW_USEDEFAULT, 0, winX, winY, nullptr, nullptr, hInstance, nullptr);
 
 	// Find USEDDEFAULT value
 
@@ -124,6 +106,7 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 //  PURPOSE: Processes messages for the main window.
 //
 //  WM_COMMAND  - Create main window variables
+//  WM_SIZE     - Adjusts window size and position
 //  WM_COMMAND  - process the application menu
 //  WM_PAINT    - Paint the main window
 //  WM_DESTROY  - post a quit message and return
@@ -137,12 +120,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	{
 		// Create home directory, font and buttons
 		home = std::filesystem::current_path().string();
-		initialiseGlobalWindows(hWnd);
-		initialiseGlobalButtonList();
-		initialiseGlobalFont();
-		checkboxLock();
-		patchBoxLock();
-		tooltipTextMaker(hWnd);
+		initialise(hWnd);
 		// Create log
 		log_file.open("pw_log.txt", std::ios::trunc);
 		break;
@@ -1009,8 +987,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		FillRect(hdc, &rc2, (HBRUSH)(COLOR_WINDOW));
 		FrameRect(hdc, &rc1, CreateSolidBrush(RGB(220, 220, 220)));
 		FrameRect(hdc, &rc2, CreateSolidBrush(RGB(220, 220, 220)));
-		drawGlobalText();
-		drawGUIText();
+		drawText();
 		EndPaint(hWnd, &ps);
 	}
 	break;
@@ -1059,35 +1036,236 @@ INT_PTR CALLBACK About(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 	return (INT_PTR)FALSE;
 }
 
-// Initialise global button list
-void initialiseGlobalButtonList() {
-	log_file << "Initialise buttons." << std::endl;
-	globalWindList.emplace_back(cd1path);
-	globalWindList.emplace_back(cd2path);
-	globalWindList.emplace_back(browsebutton1);
-	globalWindList.emplace_back(browsebutton2);
-	globalWindList.emplace_back(aboutbutton);
-	globalWindList.emplace_back(patchbutton);
-	globalWindList.emplace_back(encounters);
-	globalWindList.emplace_back(fasttext);
-	globalWindList.emplace_back(portraits);
-	globalWindList.emplace_back(basicarena);
-	globalWindList.emplace_back(expertarena);
-	globalWindList.emplace_back(experience1);
-	globalWindList.emplace_back(experience2);
-	globalWindList.emplace_back(gold1);
-	globalWindList.emplace_back(gold2);
-	globalWindList.emplace_back(itemspells);
-	globalWindList.emplace_back(monsters);
-	globalWindList.emplace_back(script);
-	globalWindList.emplace_back(fmvs);
-	globalWindList.emplace_back(graphics);
-	globalWindList.emplace_back(voice);
-	globalWindList.emplace_back(all);
-	globalWindList.emplace_back(normalarena);
-	globalWindList.emplace_back(storyMode);
-	globalWindList.emplace_back(flashes);
-	globalWindList.emplace_back(roni);
+// Initialise variables
+void initialise(HWND hWnd) {
+	// Initialise windows
+	initialiseWindows(hWnd);
+	initialiseFont();
+	checkboxLock();
+	patchBoxLock();
+	tooltipTextMaker(hWnd);
+	drawText();
+}
+
+// Define windows
+void initialiseWindows(HWND hWnd) {
+	log_file << "Creating windows." << std::endl;
+	createPaths(hWnd);
+	createButtons(hWnd);
+	graphicWindows(hWnd);
+	gameplayWindows(hWnd);
+	arenaWindows(hWnd);
+	storyWindows(hWnd);
+	audioWindows(hWnd);
+	modeWindows(hWnd);
+}
+
+// Create paths
+void createPaths(HWND hWnd) {
+	cd1path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.05), 500, 25, hWnd, NULL, hInst, NULL);
+	cd2path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.12), 500, 25, hWnd, NULL, hInst, NULL);
+	// Put in window list
+	pathList.emplace_back(cd1path);
+	pathList.emplace_back(cd2path);
+}
+
+// Create buttons
+void createButtons(HWND hWnd) {
+	browsebutton1 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.05), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
+	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.12), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
+	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.87), 70, 25, hWnd, (HMENU)104, hInst, NULL);
+	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.20), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
+	// Put in window list
+	buttonList.emplace_back(browsebutton1);
+	buttonList.emplace_back(browsebutton2);
+	buttonList.emplace_back(aboutbutton);
+	buttonList.emplace_back(patchbutton);
+}
+
+// Create graphic patch windows
+void graphicWindows(HWND hWnd) {
+	portraits = CreateWindow(L"BUTTON", L"Resized portraits", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.36), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	graphics = CreateWindow(L"BUTTON", L"Graphical fixes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.43), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	flashes = CreateWindow(L"BUTTON", L"No battle flashes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.50), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	roni = CreateWindow(L"BUTTON", L"PW Roni", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.57), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	// Put in window list
+	windList.emplace_back(portraits);
+	windList.emplace_back(graphics);
+	windList.emplace_back(flashes);
+	windList.emplace_back(roni);
+}
+
+// Create gameplay patch windows
+void gameplayWindows(HWND hWnd) {
+	encounters = CreateWindow(L"BUTTON", L"1/2 encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.36), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
+	experience1 = CreateWindow(L"BUTTON", L"1.5x exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.43), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	experience2 = CreateWindow(L"BUTTON", L"2x exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.50), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	gold1 = CreateWindow(L"BUTTON", L"1.5x gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.57), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	gold2 = CreateWindow(L"BUTTON", L"2x gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.64), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.71), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
+	itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.78), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
+	// Put in window list
+	windList.emplace_back(encounters);
+	windList.emplace_back(experience1);
+	windList.emplace_back(experience2);
+	windList.emplace_back(gold1);
+	windList.emplace_back(gold2);
+	windList.emplace_back(itemspells);
+	windList.emplace_back(monsters);
+}
+
+// Create arena patch windows
+void arenaWindows(HWND hWnd) {
+	normalarena = CreateWindow(L"BUTTON", L"Normal", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.36), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	basicarena = CreateWindow(L"BUTTON", L"Basic mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.43), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	expertarena = CreateWindow(L"BUTTON", L"Expert mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.50), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	// Put in window list
+	windList.emplace_back(normalarena);
+	windList.emplace_back(basicarena);
+	windList.emplace_back(expertarena);
+}
+
+// Create story patch windows
+void storyWindows(HWND hWnd) {
+	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.36), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
+	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.43), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
+	// Put in window list
+	windList.emplace_back(fasttext);
+	windList.emplace_back(script);
+}
+
+// Create audio patch windows
+void audioWindows(HWND hWnd) {
+	fmvs = CreateWindow(L"BUTTON", L"FMV undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.36), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
+	voice = CreateWindow(L"BUTTON", L"Battle undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.43), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
+	// Put in window list
+	windList.emplace_back(fmvs);
+	windList.emplace_back(voice);
+}
+
+// Create mode patch windows
+void modeWindows(HWND hWnd) {
+	storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * smx), (int)(winY * 0.36), 85, 25, hWnd, (HMENU)9002, hInst, NULL);
+	// Put in window list
+	windList.emplace_back(storyMode);
+}
+
+// Define font for windows
+void initialiseFont() {
+	log_file << "Applying font to windows." << std::endl;
+	// Apply font to paths
+	for (int i = 0; i < pathList.size(); i++) {
+		SendMessage(pathList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
+	}
+	// Apply font to buttons
+	for (int i = 0; i < buttonList.size(); i++) {
+		SendMessage(buttonList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
+	}
+	// Apply font to each window in windList
+	for (int i = 0; i < windList.size(); i++) {
+		SendMessage(windList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
+	}
+}
+
+// Lock checkboxes until a bin file has been found
+void checkboxLock() {
+	log_file << "Check if ROMs have been found." << std::endl;
+	if (pathFound1 || pathFound2) {
+		log_file << "ROM file has been found. Unlocking checkboxes." << std::endl;
+		found = TRUE;
+	}
+	else {
+		log_file << "ROM file has not been found. Lock checkboxes." << std::endl;
+		found = FALSE;
+		for (int i = 0; i < windList.size(); i++) {
+			LRESULT untick = SendMessage(windList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
+		}
+	}
+	// Enable the patch window if a ROM has been found
+	for (int i = 0; i < windList.size(); i++) {
+		EnableWindow(windList[i], found);
+		if (windList[i] == normalarena) {
+			LRESULT tick = SendMessage(windList[i], BM_SETCHECK, BST_CHECKED, NULL);
+		}
+	}
+}
+
+// Lock patch button until a box has been ticked
+void patchBoxLock() {
+	// Check if a path is available first
+	if (pathFound1 || pathFound2) {
+		log_file << "Checking if an option has been ticked." << std::endl;
+		for (int i = 0; i < windList.size(); i++) {
+			LRESULT boxticked = SendMessage(windList[i], BM_GETCHECK, NULL, NULL);
+			if (boxticked == BST_CHECKED) {
+				log_file << "An option has been ticked. Unlocking patch button." << std::endl;
+				checkfound = true;
+			}
+		}
+		if (!checkfound) {
+			log_file << "No options have been ticked. Locking patch button." << std::endl;
+			checkfound = false;
+		}
+	}
+	else {
+		checkfound = false;
+	}
+	// Enable patch button if an option has been ticked
+	EnableWindow(patchbutton, checkfound);
+}
+
+// Define tool tips for each checkbox
+void tooltipTextMaker(HWND hWnd) {
+	log_file << "Defining tooltip messages." << std::endl;
+	// Graphics
+	HWND tt_portraits = toolGenerator(text_portraits, hWnd, portraits, hInst).hWndTT;
+	HWND tt_graphics = toolGenerator(text_graphics, hWnd, graphics, hInst).hWndTT;
+	HWND tt_flashes = toolGenerator(text_flashes, hWnd, flashes, hInst).hWndTT;
+	HWND tt_roni = toolGenerator(text_roni, hWnd, roni, hInst).hWndTT;
+	// Gameplay
+	HWND tt_encounters = toolGenerator(text_encounters, hWnd, encounters, hInst).hWndTT;
+	HWND tt_expone = toolGenerator(text_expone, hWnd, experience1, hInst).hWndTT;
+	HWND tt_exptwo = toolGenerator(text_exptwo, hWnd, experience2, hInst).hWndTT;
+	HWND tt_goldone = toolGenerator(text_goldone, hWnd, gold1, hInst).hWndTT;
+	HWND tt_goldtwo = toolGenerator(text_goldtwo, hWnd, gold2, hInst).hWndTT;
+	HWND tt_itemspells = toolGenerator(text_itemspells, hWnd, itemspells, hInst).hWndTT;
+	HWND tt_monsters = toolGenerator(text_monsters, hWnd, monsters, hInst).hWndTT;
+	// Arena
+	HWND tt_barena = toolGenerator(text_barena, hWnd, basicarena, hInst).hWndTT;
+	HWND tt_earena = toolGenerator(text_earena, hWnd, expertarena, hInst).hWndTT;
+	HWND tt_narena = toolGenerator(text_narena, hWnd, normalarena, hInst).hWndTT;
+	// Story
+	HWND tt_fast = toolGenerator(text_fast, hWnd, fasttext, hInst).hWndTT;
+	HWND tt_script = toolGenerator(text_script, hWnd, script, hInst).hWndTT;
+	// Audio
+	HWND tt_fmvs = toolGenerator(text_fmvs, hWnd, fmvs, hInst).hWndTT;
+	HWND tt_voice = toolGenerator(text_voices, hWnd, voice, hInst).hWndTT;
+	// Mode
+	HWND tt_story_mode = toolGenerator(text_story_mode, hWnd, storyMode, hInst).hWndTT;
+}
+
+void drawText() {
+	// Set font
+	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
+	SelectObject(hdc, hFont);
+	// Create text
+	swprintf_s(cd1text, 256, L"CD1 File:");
+	swprintf_s(cd2text, 256, L"CD2 File:");
+	swprintf_s(graphicstext, 256, L"Graphics:      ");
+	swprintf_s(gameplaytext, 256, L"Gameplay:  ");
+	swprintf_s(arenatext, 256, L"Arena:  ");
+	swprintf_s(storytext, 256, L"Story:    ");
+	swprintf_s(audiotext, 256, L"Audio:    ");
+	swprintf_s(modestext, 256, L"Modes:    ");
+	// Output text
+	TextOut(hdc, winX * 0.0325, winY * 0.05, cd1text, wcslen(cd1text));
+	TextOut(hdc, winX * 0.0325, winY * 0.12, cd2text, wcslen(cd2text));
+	TextOut(hdc, winX * graphicsx, winY * 0.32, graphicstext, wcslen(graphicstext));
+	TextOut(hdc, winX * gameplayx, winY * 0.32, gameplaytext, wcslen(gameplaytext));
+	TextOut(hdc, winX * arenax, winY * 0.32, arenatext, wcslen(arenatext));
+	TextOut(hdc, winX * storyx, winY * 0.32, storytext, wcslen(storytext));
+	TextOut(hdc, winX * audiox, winY * 0.32, audiotext, wcslen(audiotext));
+	TextOut(hdc, winX * smx, winY * 0.32, modestext, wcslen(modestext));
 }
 
 // Initialise patch list
@@ -1123,48 +1301,6 @@ void initialisePatchLists() {
 	patchList2.emplace_back(voiceName2);
 	patchList1.emplace_back(fmvPatch1);
 	patchList2.emplace_back(fmvPatch2);
-}
-
-// Lock checkboxes until a bin file has been found
-void checkboxLock() {
-	bool found;
-	log_file << "Check if ROMs have been found." << std::endl;
-	if (pathFound1 || pathFound2) {
-		log_file << "ROM file has been found. Unlocking checkboxes." << std::endl;
-		found = TRUE;
-	}
-	else {
-		log_file << "ROM file has not been found. Lock checkboxes." << std::endl;
-		found = FALSE;
-		for (int i = 6; i < globalWindList.size(); i++) {
-			LRESULT untick = SendMessage(globalWindList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
-		}
-	}
-	for (int i = 6; i < globalWindList.size(); i++) {
-		EnableWindow(globalWindList[i], found);
-		if (globalWindList[i] == normalarena) {
-			LRESULT tick = SendMessage(globalWindList[i], BM_SETCHECK, BST_CHECKED, NULL);
-		}
-	}
-}
-
-// Lock patch button until a box has been ticked
-void patchBoxLock() {
-	bool checkfound = false;
-	log_file << "Checking if an option has been ticked." << std::endl;
-	for (int i = 0; i < globalWindList.size(); i++) {
-		LRESULT boxticked = SendMessage(globalWindList[i], BM_GETCHECK, NULL, NULL);
-		if (boxticked == BST_CHECKED) {
-			log_file << "An option has been ticked. Unlocking patch button." << std::endl;
-			checkfound = true;
-			EnableWindow(patchbutton, TRUE);
-			break;
-		}
-	}
-	if (!checkfound) {
-		log_file << "No options have been ticked. Locking patch button." << std::endl;
-		EnableWindow(patchbutton, FALSE);
-	}
 }
 
 // Locks both patches and buttons
@@ -1227,238 +1363,12 @@ void clearText() {
 	SetWindowText(cd2path, L"");
 }
 
-
-// Create tool tip
-HWND CreateToolTip(HWND hParent, HWND hText, HINSTANCE hInst, PTSTR pszText)
-{
-	if (!hParent || !hText || !pszText)
-	{
-		return NULL;
-	}
-
-	HWND hwndTip = CreateWindowEx(NULL, TOOLTIPS_CLASS, NULL,
-		WS_POPUP | TTS_ALWAYSTIP,
-		CW_USEDEFAULT, CW_USEDEFAULT,
-		CW_USEDEFAULT, CW_USEDEFAULT,
-		hParent, NULL,
-		hInst, NULL);
-
-	if (!hwndTip)
-	{
-		return NULL;
-	}
-
-	toolInfo.cbSize = sizeof(toolInfo);
-	toolInfo.hwnd = hParent;
-	toolInfo.hinst = hInst;
-	toolInfo.uFlags = TTF_IDISHWND | TTF_SUBCLASS;
-	toolInfo.uId = (UINT_PTR)hText;
-	toolInfo.lpszText = pszText;
-	log_file << "Creating tooltip rectangle." << std::endl;
-	GetClientRect(hParent, &toolInfo.rect);
-	SendMessage(hwndTip, TTM_ADDTOOL, 0, (LPARAM)&toolInfo);
-	SendMessage(hwndTip, TTM_SETMAXTIPWIDTH, 0, 255);
-	return hwndTip;
-}
-
-// Generate tool tip
-HWND toolGenerator(char* text, HWND hWnd, HWND hText) {
-	wchar_t wtext[256];
-	log_file << "Adding text to tooltip." << std::endl;
-	mbstowcs(wtext, text, strlen(text) + 1);
-	LPWSTR ptr = wtext;
-	HWND hWndTT = CreateToolTip(hWnd, hText, hInst, ptr);
-	return hWndTT;
-}
-
-// Define tool tips for each checkbox
-void tooltipTextMaker(HWND hWnd) {
-	log_file << "Defining tooltip messages." << std::endl;
-	char text_encounters[] =
-		"Lowers encounter rate for all areas except\n"
-		"for the end of disc dungeons, key grinding\n"
-		"spots and places where you'd be dependent\n"
-		"on encounter drops.";
-	HWND tt_encounters = toolGenerator(text_encounters, hWnd, encounters);
-	char text_fast[] =
-		"Text scrolls instantly. There are noticeable\n"
-		"bugs with specific scenes, so the patch is\n"
-		"still a work in progress\n";
-	HWND tt_fast = toolGenerator(text_fast, hWnd, fasttext);
-	char text_expone[] =
-		"Increases experience from battle by 50%.\n";
-	HWND tt_expone = toolGenerator(text_expone, hWnd, experience1);
-	char text_exptwo[] =
-		"Increases experience from battle by 100%.\n"
-		"If half encounters is selected, it is\n"
-		"recommended to choose this setting.";
-	HWND tt_exptwo = toolGenerator(text_exptwo, hWnd, experience2);
-	char text_goldone[] =
-		"Increases money from battle by 50%.\n";
-	HWND tt_goldone = toolGenerator(text_goldone, hWnd, gold1);
-	char text_goldtwo[] =
-		"Increases gold from battle by 100%.\n"
-		"If half encounters is selected, it is\n"
-		"recommended to choose this setting.";
-	HWND tt_goldtwo = toolGenerator(text_goldtwo, hWnd, gold2);
-	char text_itemspells[] =
-		"WARNING: Incompatible with pre-0.4 saves.\n"
-		"The game is rebalanced; with items, spells,\n"
-		"stats and the damage formula receiving\n"
-		"adjustment. Several of these features are\n"
-		"receiving fine tuning, meaning some bugs\n"
-		"are to be expected.";
-	HWND tt_itemspellss = toolGenerator(text_itemspells, hWnd, itemspells);
-	char text_monsters[] =
-		"Enemies and bosses will be altered to give\n"
-		"a bigger challenge. Recommended for second\n"
-		"playthroughs.";
-	HWND tt_monsters = toolGenerator(text_monsters, hWnd, monsters);
-	char text_script[] =
-		"Retranslates names, locations, and keywords to\n"
-		"better align with the Japanese version and\n"
-		"relocalizes the script to have fewer\n"
-		"grammatical errors, confusing lines, and\n"
-		"less awkward phrasing in important scenes.\n"
-		"This process may take a while.";
-	HWND tt_script = toolGenerator(text_script, hWnd, script);
-	char text_barena[] =
-		"Only the essentials of the rebalance\n"
-		"for casual play and fighting the CPU.";
-	HWND tt_barena = toolGenerator(text_barena, hWnd, basicarena);
-	char text_earena[] =
-		"Additional tweaks tailored to \n"
-		"improve the PVP experience in 2P mode.\n";
-	HWND tt_earena = toolGenerator(text_earena, hWnd, expertarena);
-	char text_all[] =
-		"Selects all patches.";
-	HWND tt_all = toolGenerator(text_all, hWnd, all);
-	char text_portraits[] =
-		"Corrects the proportions of all character\n"
-		"portraits when running the game at its\n"
-		"native aspect ratio (approx 3:2).\n"
-		"If your emulator or scaler stretches\n"
-		"the game's overall aspect ratio to 4:3,\n"
-		"or you're using a texture hack, you do\n"
-		"not need this fix.";
-	HWND tt_portraits = toolGenerator(text_portraits, hWnd, portraits);
-	char text_fmvs[] =
-		"Changes the FMVs so that they use\n"
-		"the Japanese audio and subtitles\n"
-		"which are closer to the original\n"
-		"script.";
-	HWND tt_fmvs = toolGenerator(text_fmvs, hWnd, fmvs);
-	char text_graphics[] =
-		"Fixes graphical bugs with\n"
-		"portraits and the battle UI. If\n"
-		"you are using a texture hack, you\n"
-		"may NOT need this fix.\n";
-	HWND tt_graphics = toolGenerator(text_graphics, hWnd, graphics);
-	char text_voices[] =
-		"Switches to the Japanese voices\n"
-		"used in battle and the Speed\n"
-		"minigame.";
-	HWND tt_voice = toolGenerator(text_voices, hWnd, voice);
-	char text_narena[] =
-		"Uses the Battle Arena balancing\n"
-		"from the base game.\n";
-	HWND tt_narena = toolGenerator(text_narena, hWnd, normalarena);
-	char text_story_mode[] =
-		"Turns off random encounters entirely\n"
-		"and ensures all enemies in the game\n"
-		"can be killed in one hit.\n";
-	HWND tt_story_mode = toolGenerator(text_story_mode, hWnd, storyMode);
-	char text_flashes[] =
-		"Turns off flashes during battle.\n"
-		"A side effect is that the victory\n"
-		"screen won't dim when experience\n"
-		"and gold are given. Certain scenes\n"
-		"will also have notable graphical\n"
-		"bugs.";
-	HWND tt_flashes = toolGenerator(text_flashes, hWnd, flashes);
-	char text_roni[] =
-		"Swaps Roni's portrait for his\n"
-		"Perfect Works design.\n";
-	HWND tt_roni = toolGenerator(text_roni, hWnd, roni);
-}
-
 // Initialise common controls for parsing large files
 void StartCommonControls(DWORD flags) {
 	INITCOMMONCONTROLSEX iccx;
 	iccx.dwSize = sizeof(INITCOMMONCONTROLSEX);
 	iccx.dwICC = flags;
 	InitCommonControlsEx(&iccx);
-}
-
-// Define global windows
-void initialiseGlobalWindows(HWND hWnd) {
-	log_file << "Creating windows." << std::endl;
-	cd1path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.05), 500, 25, hWnd, NULL, hInst, NULL);
-	cd2path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.12), 500, 25, hWnd, NULL, hInst, NULL);
-	browsebutton1 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.05), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
-	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.12), 70, 25, hWnd, (HMENU)9001, hInst, NULL);
-	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.87), 70, 25, hWnd, (HMENU)104, hInst, NULL);
-	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.20), 70, 25, hWnd, (HMENU)9003, hInst, NULL);
-	// Graphics
-	portraits = CreateWindow(L"BUTTON", L"Resized portraits", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.36), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
-	graphics = CreateWindow(L"BUTTON", L"Graphical fixes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.43), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
-	flashes = CreateWindow(L"BUTTON", L"No battle flashes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.50), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
-	roni = CreateWindow(L"BUTTON", L"PW Roni", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * graphicsx), (int)(winY * 0.57), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
-	// Gameplay
-	encounters = CreateWindow(L"BUTTON", L"1/2 encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.36), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
-	experience1 = CreateWindow(L"BUTTON", L"1.5x exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.43), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	experience2 = CreateWindow(L"BUTTON", L"2x exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.50), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	gold1 = CreateWindow(L"BUTTON", L"1.5x gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.57), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	gold2 = CreateWindow(L"BUTTON", L"2x gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.64), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.71), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
-	itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * gameplayx), (int)(winY * 0.78), 160, 25, hWnd, (HMENU)9002, hInst, NULL);
-	// Arena
-	normalarena = CreateWindow(L"BUTTON", L"Normal", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.36), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	basicarena = CreateWindow(L"BUTTON", L"Basic mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.43), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	expertarena = CreateWindow(L"BUTTON", L"Expert mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(winX * arenax), (int)(winY * 0.50), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	// Story
-	script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.36), 120, 25, hWnd, (HMENU)9002, hInst, NULL);
-	fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * storyx), (int)(winY * 0.43), 110, 25, hWnd, (HMENU)9002, hInst, NULL);
-	// Audio
-	fmvs = CreateWindow(L"BUTTON", L"FMV undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.36), 100, 25, hWnd, (HMENU)9002, hInst, NULL);
-	voice = CreateWindow(L"BUTTON", L"Battle undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * audiox), (int)(winY * 0.43), 90, 25, hWnd, (HMENU)9002, hInst, NULL);
-	// Modes
-	storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(winX * smx), (int)(winY * 0.36), 85, 25, hWnd, (HMENU)9002, hInst, NULL);
-}
-
-// Define font for global windows
-void initialiseGlobalFont() {
-	log_file << "Applying font to windows." << std::endl;
-	for (int i = 0; i < globalWindList.size(); i++) {
-		SendMessage(globalWindList[i], WM_SETFONT, (LPARAM)GetStockObject(DEFAULT_GUI_FONT), NULL);
-	}
-}
-
-void drawGUIText() {
-	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
-	SelectObject(hdc, hFont);
-	swprintf_s(graphicstext, 256, L"Graphics:      ");
-	swprintf_s(gameplaytext, 256, L"Gameplay:  ");
-	swprintf_s(arenatext, 256, L"Arena:  ");
-	swprintf_s(storytext, 256, L"Story:    ");
-	swprintf_s(audiotext, 256, L"Audio:    ");
-	swprintf_s(modestext, 256, L"Modes:    ");
-	TextOut(hdc, winX * graphicsx, winY * 0.32, graphicstext, wcslen(graphicstext));
-	TextOut(hdc, winX * gameplayx, winY * 0.32, gameplaytext, wcslen(gameplaytext));
-	TextOut(hdc, winX * arenax, winY * 0.32, arenatext, wcslen(arenatext));
-	TextOut(hdc, winX * storyx, winY * 0.32, storytext, wcslen(storytext));
-	TextOut(hdc, winX * audiox, winY * 0.32, audiotext, wcslen(audiotext));
-	TextOut(hdc, winX * smx, winY * 0.32, modestext, wcslen(modestext));
-
-}
-
-void drawGlobalText() {
-	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
-	SelectObject(hdc, hFont);
-	swprintf_s(cd1text, 256, L"CD1 File:");
-	swprintf_s(cd2text, 256, L"CD2 File:");
-	TextOut(hdc, winX * 0.0325, winY * 0.05, cd1text, wcslen(cd1text));
-	TextOut(hdc, winX * 0.0325, winY * 0.12, cd2text, wcslen(cd2text));
 }
 
 // Apply 1.5 exp or 1.5 gold changes
@@ -2036,5 +1946,6 @@ bool applyPatch(int discNum) {
 		log_file << "xenoiso executed successfully. Returning completion message." << std::endl;
 		return true;
 	}
+
 
 }
