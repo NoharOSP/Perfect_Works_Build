@@ -863,12 +863,12 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				if (!p_items_spells && !p_script) {
 					if (pathFound1) {
 						log_file << "Disc 1 bug fix directory found." << std::endl;
-						bugName1 = "bug_fix";
+						bugName1 = "bug_fix1";
 
 					}
 					if (pathFound2) {
 						log_file << "Disc 2 bug fix directory found." << std::endl;
-						bugName2 = "bug_fix";
+						bugName2 = "bug_fix2";
 					}
 				}
 				if (pathFound1) {
