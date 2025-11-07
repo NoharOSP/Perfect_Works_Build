@@ -3,21 +3,30 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 
 Download the latest release here: 
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.8.0
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.8.1
   
 ## Instructions:
 
 ### Patching:
 
+#### Windows
+
+- Download Xenogears_Perfect_Works_Edition.X.X.X.7z. The Xs correspond to the release number.
 - Open the Xenogears: Perfect Works Patcher.
 - Open the ISO file for either or both discs. 
 - Select which patches you wish to apply.
 - Press Patch. The script edits should take longer to patch as it has the most files to copy.
 
+#### macOS/Linux
+
+- Download Xenogears_Perfect_Works_Patches.X.X.X.7z. The Xs correspond to the release number.
+- Apply a patch or the patches using xdelta. Make sure you are applying them to an unpatched ROM of the original game.
+- If there are warnings when applying the patches, turn off checksum validation.
+
 ## Completion stats:
 
 - Name/terminology changes: 100%
-- Main script: 85% (Golgotha)
+- Main script: 87% (end of Merkabah)
 - NPC script: Not done (except for name/terminology changes)
 
 ## Introduction:
@@ -29,6 +38,27 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The 2x exp and gold patches were designed to work with the lower encounter rate patch. The monster stats and party/item patch both act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.8.1:
+
+11/07/2025
+
+- Script changes up to Merkabah have been completed.
+- The shop distribution has been rebalanced. Details are in the wiki.
+- Lasher GWhip has been replaced with DAdder GWhip. Details are in the wiki.
+- El Stier will now have 25000 HP when obtained.
+- xenoiso no longer requires a prompt to start the patching process.
+- Double "of" use is fixed during Elly and Citan's conversation at Blackmoon Forest.
+- Maria now has her portrait before meeting Zephyr.
+- Forbidden in the overworld map no longer have a bugged Gold Nugget drop.
+- The prices of Holy Pendant, elemental rings, Life Stone and elemental stones have been adjusted. Details are in the wiki.
+- Due to bugs with the auto booster accessories, they are temporarily unobtainable until a resolution has been found.
+- Renmazuo now has an Eth Circuit as an initial equip over a TurboBooster.
+- Seraph enemies have now been renamed to Aeons.
+- Vanderkaum has been renamed to Vanderkam.
+- Scrapped dialogue in the Elly corridor chase has been restored.
+- Scrapped dialogue during Fei and Elly's campfire in Blackmoon Forest has been restored.
+- Camera bug at the start of the campfire scene with Lacan has been fixed.
 
 ### Version 0.8.0:
 
@@ -124,6 +154,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - Lursga: Testing
 - Dead Heart of Africa: Testing
 - big4lil: Testing
+- Jerry Rice: Testing
 - SadNES cITy Translations: Xenogears translation tools
 - Joshua MacDonald: xdelta
 - FFMaster: Fast text code
