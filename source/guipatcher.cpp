@@ -105,11 +105,12 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 //
 //  PURPOSE: Processes messages for the main window.
 //
-//  WM_COMMAND  - Create main window variables
-//  WM_SIZE     - Adjusts window size and position
-//  WM_COMMAND  - process the application menu
-//  WM_PAINT    - Paint the main window
-//  WM_DESTROY  - post a quit message and return
+//  WM_CREATE		 - Create main window variables
+//  WM_SIZE			 - Adjusts window size and position
+//  WM_COMMAND		 - process the application menu
+//  WM_PAINT		 - Paint the main window
+//  WM_GETMINMAXINFO - Handle window size and position
+//  WM_DESTROY		 - Destroy window and return
 //
 //
 LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
@@ -142,821 +143,51 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		{
 			// Open file browser
 			log_file << "Open file browser." << std::endl;
-			OPENFILENAMEA ofn;
-			ZeroMemory(&ofn, sizeof(ofn));
-			ofn.lStructSize = sizeof(ofn);
-			ofn.hwndOwner = hWnd;
-			ofn.lpstrFilter = "Bin File (*.bin)\0*.bin\0";
-			ofn.Flags = OFN_DONTADDTORECENT | OFN_ENABLESIZING | OFN_FILEMUSTEXIST | OFN_PATHMUSTEXIST;
-			ofn.nMaxFile = MAX_PATH;
-			char szFile[MAX_PATH];
-			ofn.lpstrFile = szFile;
-			ofn.lpstrFile[0] = '\0';
-			ofn.nFilterIndex = 1;
-			if (GetOpenFileNameA(&ofn)) {
-				log_file << "File selected." << std::endl;
-				std::string path = ofn.lpstrFile;
-				romFinder rf;
-				// Check for Xenogears bin files
-				log_file << "Check if selected bin is Xenogears." << std::endl;
-				rf.searchCD(path);
-				if (rf.getFound()) {
-					log_file << "Xenogears has been found. Determine disc number." << std::endl;
-					discNum = rf.getDisc();
-					if (discNum == 1) {
-						log_file << "Disc 1 found." << std::endl;
-						pathFound1 = true;
-						log_file << "Determine disc 1 path." << std::endl;
-						path1 = path;
-						std::wstring wpath = std::wstring(path1.begin(), path1.end());
-						LPCWSTR lpath = wpath.c_str();
-						log_file << "Put disc 1 path in path window." << std::endl;
-						SetWindowText(cd1path, lpath);
-					}
-					else if (discNum == 2) {
-						log_file << "Disc 2 found." << std::endl;
-						pathFound2 = true;
-						log_file << "Determine disc 2 path." << std::endl;
-						path2 = path;
-						std::wstring wpath = std::wstring(path2.begin(), path2.end());
-						LPCWSTR lpath = wpath.c_str();
-						log_file << "Put disc 2 path in path window." << std::endl;
-						SetWindowText(cd2path, lpath);
-					}
-					else {
-						log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
-						MessageBox(hWnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
-						break;
-					}
-					if (pathFound1 || pathFound2) {
-						checkboxLock();
-					}
-				}
-				else {
-					log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
-					MessageBox(hWnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
-				}
-			}
+			openFile(hWnd);
+			break;
 		}
 		break;
 
 		case IDM_CHOOSE_PATCH:
 		{
 			// Check for ticked boxes
-			LRESULT scriptticked = SendMessage(script, BM_GETCHECK, NULL, NULL);
-			if (scriptticked == BST_CHECKED) {
-				log_file << "Script changes ticked." << std::endl;
-				p_script = true;
-				if (p_fastold) {
-					log_file << "Ensure the version of fast text is used that supports the updated script." << std::endl;
-					p_fastold = false;
-					p_fastnew = true;
-				}
-			}
-			else {
-				log_file << "Script changes unticked." << std::endl;
-				p_script = false;
-			}
-			LRESULT encticked = SendMessage(encounters, BM_GETCHECK, NULL, NULL);
-			if (encticked == BST_CHECKED) {
-				log_file << "Half encounters ticked." << std::endl;
-				p_encounters = true;
-				if (p_story_mode == true) {
-					log_file << "Unticking story mode." << std::endl;
-					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-					p_story_mode = false;
-				}
-			}
-			else {
-				log_file << "Half encounters unticked." << std::endl;
-				p_encounters = false;
-			}
-			LRESULT fastticked = SendMessage(fasttext, BM_GETCHECK, NULL, NULL);
-			if (fastticked == BST_CHECKED) {
-				// Check if the fast text patch should support the new translation
-				log_file << "Fast text ticked." << std::endl;
-				if (p_script == false) {
-					log_file << "Ensure the version of fast text supporting the original translation is used." << std::endl;
-					p_fastold = true;
-				}
-				else {
-					log_file << "Ensure the version of fast text is used that supports the updated script." << std::endl;
-					p_fastnew = true;
-				}
-			}
-			else {
-				log_file << "Fast text unticked." << std::endl;
-				p_fastold = false;
-				p_fastnew = false;
-			}
-			LRESULT exponeticked = SendMessage(experience1, BM_GETCHECK, NULL, NULL);
-			if (exponeticked == BST_CHECKED) {
-				log_file << "1.5x exp ticked." << std::endl;
-				p_expone = true;
-				if (p_exptwo == true) {
-					log_file << "Unticking 2x exp." << std::endl;
-					LRESULT exptwountick = SendMessage(experience2, BM_SETCHECK, BST_UNCHECKED, NULL);
-					p_exptwo = false;
-				}
-				if (p_story_mode == true) {
-					log_file << "Unticking story mode." << std::endl;
-					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-					p_story_mode = false;
-				}
-			}
-			else {
-				log_file << "1.5x exp unticked." << std::endl;
-				p_expone = false;
-			}
-			LRESULT exptwoticked = SendMessage(experience2, BM_GETCHECK, NULL, NULL);
-			if (exptwoticked == BST_CHECKED) {
-				log_file << "2x exp ticked." << std::endl;
-				p_exptwo = true;
-				if (p_expone == true) {
-					log_file << "Unticking 1.5x exp." << std::endl;
-					LRESULT exponeuntick = SendMessage(experience1, BM_SETCHECK, BST_UNCHECKED, NULL);
-					p_expone = false;
-				}
-				if (p_story_mode == true) {
-					log_file << "Unticking story mode." << std::endl;
-					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-					p_story_mode = false;
-				}
-			}
-			else {
-				log_file << "2x exp unticked." << std::endl;
-				p_exptwo = false;
-			}
-			LRESULT goldoneticked = SendMessage(gold1, BM_GETCHECK, NULL, NULL);
-			if (goldoneticked == BST_CHECKED) {
-				log_file << "1.5x gold ticked." << std::endl;
-				p_goldone = true;
-				if (p_goldtwo == true) {
-					log_file << "Unticking 2x gold." << std::endl;
-					LRESULT goldtwountick = SendMessage(gold2, BM_SETCHECK, BST_UNCHECKED, NULL);
-					p_goldtwo = false;
-				}
-				if (p_story_mode == true) {
-					log_file << "Unticking story mode." << std::endl;
-					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-					p_story_mode = false;
-				}
-			}
-			else {
-				log_file << "1.5x gold unticked." << std::endl;
-				p_goldone = false;
-			}
-			LRESULT goldtwoticked = SendMessage(gold2, BM_GETCHECK, NULL, NULL);
-			if (goldtwoticked == BST_CHECKED) {
-				log_file << "2x gold ticked." << std::endl;
-				p_goldtwo = true;
-				if (p_goldone == true) {
-					log_file << "Unticking 1.5x gold." << std::endl;
-					LRESULT goldoneuntick = SendMessage(gold1, BM_SETCHECK, BST_UNCHECKED, NULL);
-					p_goldone = false;
-				}
-				if (p_story_mode == true) {
-					log_file << "Unticking story mode." << std::endl;
-					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-					p_story_mode = false;
-				}
-			}
-			else {
-				log_file << "2x gold unticked." << std::endl;
-				p_goldtwo = false;
-			}
-			LRESULT itemspellsticked = SendMessage(itemspells, BM_GETCHECK, NULL, NULL);
-			if (itemspellsticked == BST_CHECKED) {
-				log_file << "Rebalanced party/items ticked." << std::endl;
-				p_items_spells = true;
-				if (p_story_mode == true) {
-					log_file << "Unticking story mode." << std::endl;
-					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-					p_story_mode = false;
-				}
-			}
-			else {
-				log_file << "Rebalanced party/items unticked." << std::endl;
-				p_items_spells = false;
-			}
-			LRESULT monstersticked = SendMessage(monsters, BM_GETCHECK, NULL, NULL);
-			if (monstersticked == BST_CHECKED) {
-				log_file << "Rebalanced monsters ticked." << std::endl;
-				p_monsters = true;
-				if (p_story_mode == true) {
-					log_file << "Unticking story mode." << std::endl;
-					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-					p_story_mode = false;
-				}
-			}
-			else {
-				log_file << "Rebalanced party/items unticked." << std::endl;
-				p_monsters = false;
-			}
-			LRESULT normalarenaticked = SendMessage(normalarena, BM_GETCHECK, NULL, NULL);
-			if (normalarenaticked == BST_CHECKED) {
-				log_file << "Normal arena selected." << std::endl;
-				p_barena = false;
-				p_earena = false;
-			}
-			LRESULT basicarenaticked = SendMessage(basicarena, BM_GETCHECK, NULL, NULL);
-			if (basicarenaticked == BST_CHECKED) {
-				log_file << "Basic arena selected." << std::endl;
-				p_barena = true;
-				if (p_story_mode == true) {
-					log_file << "Unticking story mode." << std::endl;
-					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-					p_story_mode = false;
-				}
-			}
-			else {
-				log_file << "Basic arena deselected." << std::endl;
-				p_barena = false;
-			}
-			LRESULT expertarenaticked = SendMessage(expertarena, BM_GETCHECK, NULL, NULL);
-			if (expertarenaticked == BST_CHECKED) {
-				log_file << "Expert arena selected." << std::endl;
-				p_earena = true;
-				if (p_story_mode == true) {
-					log_file << "Unticking story mode." << std::endl;
-					LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-					p_story_mode = false;
-				}
-			}
-			else {
-				log_file << "Expert arena deselected." << std::endl;
-				p_earena = false;
-			}
-			LRESULT portraitsticked = SendMessage(portraits, BM_GETCHECK, NULL, NULL);
-			if (portraitsticked == BST_CHECKED) {
-				log_file << "Resized portraits ticked." << std::endl;
-				p_portraits = true;
-			}
-			else {
-				log_file << "Resized portraits unticked." << std::endl;
-				p_portraits = false;
-			}
-			LRESULT fmvticked = SendMessage(fmvs, BM_GETCHECK, NULL, NULL);
-			if (fmvticked == BST_CHECKED) {
-				log_file << "FMV undub ticked." << std::endl;
-				p_fmv = true;
-			}
-			else {
-				log_file << "FMV undub unticked." << std::endl;
-				p_fmv = false;
-			}
-			LRESULT graphicsticked = SendMessage(graphics, BM_GETCHECK, NULL, NULL);
-			if (graphicsticked == BST_CHECKED) {
-				log_file << "Graphical fixes ticked." << std::endl;
-				p_graphics = true;
-			}
-			else {
-				log_file << "Graphical fixes unticked." << std::endl;
-				p_graphics = false;
-			}
-			LRESULT voiceticked = SendMessage(voice, BM_GETCHECK, NULL, NULL);
-			if (voiceticked == BST_CHECKED) {
-				log_file << "Battle undub ticked." << std::endl;
-				p_voice = true;
-			}
-			else {
-				log_file << "Battle undub unticked." << std::endl;
-				p_voice = false;
-			}
-			LRESULT flashesticked = SendMessage(flashes, BM_GETCHECK, NULL, NULL);
-			if (flashesticked == BST_CHECKED) {
-				log_file << "No battle flashes ticked." << std::endl;
-				p_flashes = true;
-			}
-			else {
-				log_file << "No battle flashes unticked." << std::endl;
-				p_flashes = false;
-			}
-			LRESULT roniticked = SendMessage(roni, BM_GETCHECK, NULL, NULL);
-			if (roniticked == BST_CHECKED) {
-				log_file << "Perfect Works Roni ticked." << std::endl;
-				p_roni = true;
-			}
-			else {
-				log_file << "Perfect Works Roni unticked." << std::endl;
-				p_roni = false;
-			}
-			LRESULT storymodeticked = SendMessage(storyMode, BM_GETCHECK, NULL, NULL);
-			if (storymodeticked == BST_CHECKED) {
-				log_file << "Story mode ticked." << std::endl;
-				p_story_mode = true;
-				log_file << "Unticking incompatible patches." << std::endl;
-				p_encounters = false;
-				LRESULT enctick = SendMessage(encounters, BM_SETCHECK, BST_UNCHECKED, NULL);
-				p_expone = false;
-				LRESULT exponeuntick = SendMessage(experience1, BM_SETCHECK, BST_UNCHECKED, NULL);
-				p_exptwo = false;
-				LRESULT exptwountick = SendMessage(experience2, BM_SETCHECK, BST_UNCHECKED, NULL);
-				p_goldone = false;
-				LRESULT goldoneuntick = SendMessage(gold1, BM_SETCHECK, BST_UNCHECKED, NULL);
-				p_goldtwo = false;
-				LRESULT goldtwountick = SendMessage(gold2, BM_SETCHECK, BST_UNCHECKED, NULL);
-				p_monsters = false;
-				LRESULT monuntick = SendMessage(monsters, BM_SETCHECK, BST_UNCHECKED, NULL);
-				p_items_spells = false;
-				LRESULT itemuntick = SendMessage(itemspells, BM_SETCHECK, BST_UNCHECKED, NULL);
-				p_barena = false;
-				p_earena = false;
-				LRESULT normtick = SendMessage(normalarena, BM_SETCHECK, BST_CHECKED, NULL);
-				LRESULT basicuntick = SendMessage(basicarena, BM_SETCHECK, BST_UNCHECKED, NULL);
-				LRESULT expertuntick = SendMessage(expertarena, BM_SETCHECK, BST_UNCHECKED, NULL);
-			}
-			else {
-				log_file << "Story mode unticked." << std::endl;
-				p_story_mode = false;
-			}
-			// Unlock patch button
-			patchBoxLock();
+			windowSelect();
+			break;
 		}
 		break;
 
 		case IDM_APPLY_PATCH:
 		{
 			log_file << "Preparing to patch." << std::endl;
-			SetWindowText(hWnd, L"Preparing...");
-			changed = false;
-			// Work around path names with whitespace.
-			if (pathFound1) {
-				log_file << "Check if disc 1 filename has whitespace characters." << std::endl;
-				if (path1.find(' ') != std::string::npos) {
-					log_file << "Whitespace characters found. Creating a copy of the ROM inside the home directory." << std::endl;
-					SetWindowText(hWnd, L"Copying files...");
-					std::filesystem::current_path(home);
-					std::ifstream  src(path1, std::ios::binary);
-					std::ofstream  dst(tempcd1, std::ios::binary);
-					dst << src.rdbuf();
-					log_file << "Copying completed." << std::endl;
-					space = true;
-				}
-			}
-			if (pathFound2) {
-				log_file << "Check if disc 2 filename has whitespace characters." << std::endl;
-				if (path2.find(' ') != std::string::npos) {
-					log_file << "Whitespace characters found. Creating a copy of the ROM inside the home directory." << std::endl;
-					SetWindowText(hWnd, L"Copying files...");
-					std::filesystem::current_path(home);
-					std::ifstream  src(path2, std::ios::binary);
-					std::ofstream  dst(tempcd2, std::ios::binary);
-					dst << src.rdbuf();
-					log_file << "Copying completed." << std::endl;
-					space = true;
-				}
-			}
-			// Return to home directory
-			std::filesystem::current_path(home);
-			// Access directory for patches if FMVs has been ticked
-			log_file << "Check if 'patches' directory exists." << std::endl;
-			if (std::filesystem::exists(patchPath)) {
-				std::filesystem::current_path(patchPath);
-				log_file << "'patches' directory is valid." << std::endl;
-				patchPathValid = true;
-				if (p_fmv) {
-					if (pathFound1) {
-						log_file << "Disc 1 FMV patch file found." << std::endl;
-						fmvPatch1 = "cd1_fmvs.xdelta";
-						fmvName1 = "fmv1";
-					}
-					if (pathFound2) {
-						log_file << "Disc 2 FMV patch file found." << std::endl;
-						fmvPatch2 = "cd2_fmvs.xdelta";
-						fmvName2 = "fmv2";
-					}
-				}
-			}
-			// Access directory for files
-			std::filesystem::current_path(home);
-			log_file << "Check if 'gamefiles' directory is valid." << std::endl;
-			if (std::filesystem::exists(filePath)) {
-				std::filesystem::current_path(filePath);
-				log_file << "'gamefiles' directory is valid." << std::endl;
-				filePathValid = true;
-			}
-			// Check for ticked boxes
-			if (filePathValid) {
-				if (p_encounters) {
-					// Check if story mode hasn't been ticked
-					if (!p_story_mode) {
-						// Check if script patches aren't selected to avoid compatibility issues. Otherwise, a merged folder will be used
-						if (!p_script) {
-							if (pathFound1) {
-								log_file << "Disc 1 half encounters directory found." << std::endl;
-								encountersName1 = "encounter_rate_1";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 half encounters directory found." << std::endl;
-								encountersName2 = "encounter_rate_2";
-							}
-						}
-						else {
-							if (pathFound1) {
-								log_file << "Disc 1 half encounters/retranslated script directory found." << std::endl;
-								encountersName1 = "encounterone_script";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 half encounters/retranslated script directory found." << std::endl;
-								encountersName2 = "encountertwo_script";
-							}
-						}
-					}
-				}
-				if (p_items_spells) {
-					// Check if story mode hasn't been ticked
-					if (!p_story_mode) {
-						// Check if the items/script hybrid patch needs to be applied
-						if (p_script) {
-							if (pathFound1) {
-								log_file << "Disc 1 rebalanced party/retranslated script directory found." << std::endl;
-								itemspellsName1 = "Script_items";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 rebalanced party/retranslated script directory found." << std::endl;
-								itemspellsName2 = "Script_items2";
-							}
-						}
-						else {
-							if (pathFound1) {
-								log_file << "Disc 1 rebalanced party directory found." << std::endl;
-								itemspellsName1 = "items1";
-							}
-							if (pathFound2) {
-								log_file << "Disc 1 rebalanced party directory found." << std::endl;
-								itemspellsName2 = "items2";
-							}
-						}
-					}
-				}
-				if (p_expone || p_exptwo) {
-					// Check if story mode hasn't been ticked
-					if (!p_story_mode && !p_monsters) {
-						if (pathFound1) {
-							log_file << "Disc 1 exp directory found." << std::endl;
-							expName1 = "og_monsters";
-						}
-						if (pathFound2) {
-							log_file << "Disc 2 exp directory found." << std::endl;
-							expName2 = "og_monsters";
-						}
-					}
-				}
-				if (p_goldone || p_goldtwo) {
-					// Check if story mode hasn't been ticked
-					if (!p_story_mode && !p_monsters) {
-						if (pathFound1) {
-							log_file << "Disc 1 gold directory found." << std::endl;
-							goldName1 = "og_monsters";
-						}
-						if (pathFound2) {
-							log_file << "Disc 2 gold directory found." << std::endl;
-							goldName2 = "og_monsters";
-						}
-					}
-				}
-				if (p_fastnew) {
-					if (pathFound1) {
-						log_file << "Disc 1 retranslated fast text directory found." << std::endl;
-						fastName1 = "text_cd1";
-					}
-					if (pathFound2) {
-						// Disc 2 will use the same patch regardless of whether the script patch has been applied as it has no cutscenes with auto-advance
-						log_file << "Disc 2 retranslated fast text directory found." << std::endl;
-						fastName2 = "text_cd2";
-					}
-
-				}
-				if (p_fastold) {
-					if (pathFound1) {
-						log_file << "Disc 1 fast text directory found." << std::endl;
-						fastName1 = "text_old1";
-					}
-					if (pathFound2) {
-						log_file << "Disc 2 fast text directory found." << std::endl;
-						fastName2 = "text_cd2";
-					}
-				}
-				if (p_monsters) {
-					// Check if story mode hasn't been ticked
-					if (!p_story_mode) {
-						// Check if items/spells and script patches aren't selected to avoid compatibility issues.
-						if (!p_script && !p_items_spells) {
-							if (pathFound1) {
-								log_file << "Disc 1 rebalanced monsters directory found." << std::endl;
-								monsterName1 = "Monsters";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 rebalanced monsters directory found." << std::endl;
-								monsterName2 = "Monsters";
-							}
-						}
-						else if (p_items_spells && !p_script) {
-							if (pathFound1) {
-								log_file << "Disc 1 rebalanced monsters and party directory found." << std::endl;
-								monsterName1 = "monsters_items";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 rebalanced monsters and party directory found." << std::endl;
-								monsterName2 = "monsters_items";
-							}
-						}
-						else if (!p_items_spells && p_script) {
-							if (pathFound1) {
-								log_file << "Disc 1 rebalanced monsters/retranslated script directory found." << std::endl;
-								monsterName1 = "monsters_script";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 rebalanced monsters/retranslated script directory found." << std::endl;
-								monsterName2 = "monsters_script";
-							}
-						}
-						else if (p_items_spells && p_script) {
-							if (pathFound1) {
-								log_file << "Disc 1 rebalanced monsters and party/retranslated script directory found." << std::endl;
-								monsterName1 = "monsters_both";
-							}
-							if (pathFound2) {
-								log_file << "Disc 2 rebalanced monsters and party/retranslated script directory found." << std::endl;
-								monsterName2 = "monsters_both";
-							}
-						}
-					}
-				}
-				if (p_script) {
-					if (pathFound1) {
-						// Check if items/spells and script hybrid won't be applied
-						if (!p_items_spells) {
-							log_file << "Disc 1 retranslated script directory found." << std::endl;
-							scriptName1 = "script1";
-						}
-						else {
-							log_file << "Disc 1 retranslated script/rebalanced party directory found." << std::endl;
-							scriptName1 = "Script_items";
-						}
-					}
-					if (pathFound2) {
-						// Check if script hybrid with items/spells won't be applied
-						if (!p_items_spells) {
-							log_file << "Disc 2 retranslated script directory found." << std::endl;
-							scriptName2 = "script2";
-						}
-						else {
-							log_file << "Disc 2 retranslated script/rebalanced party directory found." << std::endl;
-							scriptName2 = "Script_items2";
-						}
-					}
-				}
-				if (p_barena) {
-					if (pathFound1) {
-						if (!p_story_mode) {
-							if (!p_script) {
-								log_file << "Disc 1 basic arena directory found." << std::endl;
-								arenaName1 = "filesbasic";
-							}
-							else {
-								log_file << "Disc 1 basic arena/retranslated script directory found." << std::endl;
-								arenaName1 = "filesbasic_script";
-							}
-						}
-					}
-					if (pathFound2) {
-						if (!p_story_mode) {
-							if (!p_script) {
-								log_file << "Disc 2 basic arena directory found." << std::endl;
-								arenaName2 = "filesbasic";
-							}
-							else {
-								log_file << "Disc 2 basic arena/retranslated script directory found." << std::endl;
-								arenaName2 = "filesbasic_script";
-							}
-						}
-					}
-				}
-				if (p_earena) {
-					if (pathFound1) {
-						if (!p_story_mode) {
-							if (!p_script) {
-								log_file << "Disc 1 expert arena directory found." << std::endl;
-								arenaName1 = "filesexpert";
-							}
-							else {
-								log_file << "Disc 1 expert arena/retranslated script directory found." << std::endl;
-								arenaName1 = "filesexpert_script";
-							}
-						}
-					}
-					if (pathFound2) {
-						if (!p_story_mode) {
-							if (!p_script) {
-								log_file << "Disc 2 expert arena directory found." << std::endl;
-								arenaName2 = "filesexpert";
-							}
-							else {
-								log_file << "Disc 2 expert arena/retranslated script directory found." << std::endl;
-								arenaName2 = "filesexpert_script";
-							}
-						}
-					}
-				}
-				if (p_portraits) {
-					if (pathFound1) {
-						log_file << "Disc 1 resized portraits directory found." << std::endl;
-						portraitsName1 = "portraits";
-					}
-					if (pathFound2) {
-						log_file << "Disc 2 resized portraits directory found." << std::endl;
-						portraitsName2 = "portraits";
-					}
-				}
-				// Graphics edits outside of portraits are not applied to the items/spells or script patch here as they would cause crashes.
-				if (p_graphics) {
-					if (pathFound1) {
-						if (!p_items_spells && !p_script) {
-							if (!p_portraits) {
-								log_file << "Disc 1 graphical fix directory found." << std::endl;
-								graphicsName1 = "graphics";
-							}
-							else {
-								log_file << "Disc 1 graphical fix without portraits directory found." << std::endl;
-								graphicsName1 = "graphics_no_portraits";
-							}
-						}
-						else if (!p_portraits) {
-							log_file << "Disc 1 fixed portraits directory found." << std::endl;
-							graphicsName1 = "graphics_portraits";
-						}
-					}
-					if (pathFound2) {
-						if (!p_items_spells && !p_script) {
-							if (!p_portraits) {
-								log_file << "Disc 2 graphical fix directory found." << std::endl;
-								graphicsName2 = "graphics";
-							}
-							else {
-								log_file << "Disc 2 graphical fix without portraits directory found." << std::endl;
-								graphicsName2 = "graphics_no_portraits";
-							}
-						}
-						else if (!p_portraits) {
-							log_file << "Disc 2 fixed portraits directory found." << std::endl;
-							graphicsName2 = "graphics_portraits";
-						}
-					}
-				}
-				if (p_voice) {
-					if (pathFound1) {
-						log_file << "Disc 1 undub battle voices directory found." << std::endl;
-						voiceName1 = "voice";
-					}
-					if (pathFound2) {
-						log_file << "Disc 2 undub battle voices directory found." << std::endl;
-						voiceName2 = "voice";
-					}
-				}
-				if (p_roni) {
-					if (pathFound1) {
-						if (!p_portraits) {
-							log_file << "Disc 1 non-resized Roni directory found." << std::endl;
-							roniName1 = "roni_pw\\default";
-						}
-						else {
-							log_file << "Disc 1 resized Roni directory found." << std::endl;
-							roniName1 = "roni_pw\\resized";
-						}
-					}
-					if (pathFound2) {
-						if (!p_portraits) {
-							log_file << "Disc 2 non-resized Roni directory found." << std::endl;
-							roniName2 = "roni_pw\\default";
-						}
-						else {
-							log_file << "Disc 2 resized Roni directory found." << std::endl;
-							roniName2 = "roni_pw\\resized";
-						}
-					}
-				}
-				if (p_story_mode) {
-					if (pathFound1) {
-						if (!p_script) {
-							log_file << "Disc 1 story mode directory found." << std::endl;
-							storyModeName1 = "storyfiles_cd1";
-						}
-						else {
-							log_file << "Disc 1 story mode/retranslated script directory found." << std::endl;
-							storyModeName1 = "storyfiles_script_cd1";
-						}
-					}
-					if (pathFound2) {
-						if (!p_script) {
-							log_file << "Disc 2 story mode directory found." << std::endl;
-							storyModeName2 = "storyfiles_cd2";
-						}
-						else {
-							log_file << "Disc 2 story mode/retranslated script directory found." << std::endl;
-							storyModeName2 = "storyfiles_script_cd2";
-						}
-					}
-				}
-				// Bug patch is not applied with items/spells and script as they already have it applied.
-				if (!p_items_spells && !p_script) {
-					if (pathFound1) {
-						log_file << "Disc 1 bug fix directory found." << std::endl;
-						bugName1 = "bug_fix1";
-
-					}
-					if (pathFound2) {
-						log_file << "Disc 2 bug fix directory found." << std::endl;
-						bugName2 = "bug_fix2";
-					}
-				}
-				if (pathFound1) {
-					log_file << "Disc 1 title screen directory found." << std::endl;
-					titleName1 = "title_screen";
-
-				}
-				if (pathFound2) {
-					log_file << "Disc 2 title screen directory found." << std::endl;
-					titleName2 = "title_screen";
-				}
-				initialisePatchLists();
-				log_file << "Check if the patcher is inside OneDrive." << std::endl;
-				if (home.contains("OneDrive")) {
-					log_file << "Display OneDrive error." << std::endl;
-					MessageBox(hWnd, L"The patcher is in the OneDrive. It cannot be used.", L"Error", MB_ICONASTERISK);
-					safeDrive = false;
-					log_file << "Abort patching process." << std::endl;
-					SetWindowText(hWnd, szTitle);
-				}
-				else {
-					log_file << "OneDrive is not in use. Resume execution." << std::endl;
-					safeDrive = true;
-				}
-				if (safeDrive) {
-					log_file << "Starting patch process." << std::endl;
-					SetWindowText(hWnd, L"Patching...");
-					log_file << "Changing cursor to reflect loading." << std::endl;
-					SetCursor(LoadCursor(NULL, IDC_WAIT));
-					// Apply disc 1 patches
-					if (pathFound1) {
-						log_file << "Applying disc 1 patches." << std::endl;
-						if (applyPatch(1)) {
-							log_file << "xenoiso process successful." << std::endl;
-							successMessage = true;
-						}
-						else {
-							log_file << "xenoiso process failed." << std::endl;
-							successMessage = false;
-						}
-					}
-					// Apply disc 2 patches
-					if (pathFound2) {
-						log_file << "Applying disc 2 patches." << std::endl;
-						if (applyPatch(2)) {
-							successMessage = true;
-						}
-						else {
-							log_file << "xenoiso process failed." << std::endl;
-							successMessage = false;
-						}
-					}
-					SetWindowText(hWnd, szTitle);
-					if (successMessage) {
-						log_file << "Show success message." << std::endl;
-						MessageBox(hWnd, L"Patch was completed successfully.", L"Success", MB_ICONASTERISK);
-					}
-					else {
-						log_file << "Show failure message." << std::endl;
-						MessageBox(hWnd, L"An error occurred with xenoiso. View pw_log for details.", L"Error", MB_ICONASTERISK);
-					}
-				}
-				// Restore defaults
-				relock();
-				reinitialisePatches();
-				clearText();
-			}
-			else {
-				MessageBox(hWnd, L"Could not find directory for 'patches'. Check repo for latest version.", L"Error", MB_ICONERROR);
-			}
+			patchProcess(hWnd);
+			break;
 		}
 		break;
+
 		case IDM_ABOUT:
+		{
 			// Create "About" dialog
 			log_file << "Open 'About' dialog." << std::endl;
 			DialogBox(hInst, MAKEINTRESOURCE(IDD_ABOUTBOX), hWnd, About);
 			break;
+		}
+		break;
+
 		case IDM_EXIT:
+		{
 			// Close patcher
 			log_file << "Closing the patcher." << std::endl;
-			log_file << "Destroy window." << std::endl;
 			DestroyWindow(hWnd);
 			break;
+		}
+		break;
+			
 		default:
 			return DefWindowProc(hWnd, message, wParam, lParam);
 		}
 	}
 	break;
+
 	case WM_PAINT:
 	{
 		PAINTSTRUCT ps;
@@ -991,6 +222,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		EndPaint(hWnd, &ps);
 	}
 	break;
+
 	case WM_GETMINMAXINFO:
 	{
 		LPMINMAXINFO pMMI = (LPMINMAXINFO)lParam;
@@ -999,17 +231,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		break;
 	}
 	break;
-	case TTN_SHOW:
-	{
 
-	}
-	break;
 	case WM_DESTROY:
 		log_file << "Exit program." << std::endl;
 		PostQuitMessage(0);
 		break;
-	case WM_NOTIFY:
-	case WM_CTLCOLORSTATIC:
 	default:
 		return DefWindowProc(hWnd, message, wParam, lParam);
 	}
@@ -1044,7 +270,6 @@ void initialise(HWND hWnd) {
 	checkboxLock();
 	patchBoxLock();
 	tooltipTextMaker(hWnd);
-	drawText();
 }
 
 // Define windows
@@ -1244,6 +469,799 @@ void tooltipTextMaker(HWND hWnd) {
 	HWND tt_story_mode = toolGenerator(text_story_mode, hWnd, storyMode, hInst).hWndTT;
 }
 
+// Open ROM files
+void openFile(HWND hWnd) {
+	OPENFILENAMEA ofn;
+	ZeroMemory(&ofn, sizeof(ofn));
+	ofn.lStructSize = sizeof(ofn);
+	ofn.hwndOwner = hWnd;
+	ofn.lpstrFilter = "Bin File (*.bin)\0*.bin\0";
+	ofn.Flags = OFN_DONTADDTORECENT | OFN_ENABLESIZING | OFN_FILEMUSTEXIST | OFN_PATHMUSTEXIST;
+	ofn.nMaxFile = MAX_PATH;
+	char szFile[MAX_PATH];
+	ofn.lpstrFile = szFile;
+	ofn.lpstrFile[0] = '\0';
+	ofn.nFilterIndex = 1;
+	if (GetOpenFileNameA(&ofn)) {
+		log_file << "File selected." << std::endl;
+		std::string path = ofn.lpstrFile;
+		romFinder rf;
+		// Check for Xenogears bin files
+		log_file << "Check if selected bin is Xenogears." << std::endl;
+		rf.searchCD(path);
+		if (rf.getFound()) {
+			log_file << "Xenogears has been found. Determine disc number." << std::endl;
+			discNum = rf.getDisc();
+			if (discNum == 1) {
+				log_file << "Disc 1 found." << std::endl;
+				pathFound1 = true;
+				log_file << "Determine disc 1 path." << std::endl;
+				path1 = path;
+				std::wstring wpath = std::wstring(path1.begin(), path1.end());
+				LPCWSTR lpath = wpath.c_str();
+				log_file << "Put disc 1 path in path window." << std::endl;
+				SetWindowText(cd1path, lpath);
+			}
+			else if (discNum == 2) {
+				log_file << "Disc 2 found." << std::endl;
+				pathFound2 = true;
+				log_file << "Determine disc 2 path." << std::endl;
+				path2 = path;
+				std::wstring wpath = std::wstring(path2.begin(), path2.end());
+				LPCWSTR lpath = wpath.c_str();
+				log_file << "Put disc 2 path in path window." << std::endl;
+				SetWindowText(cd2path, lpath);
+			}
+			else {
+				log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
+				MessageBox(hWnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
+			}
+			if (pathFound1 || pathFound2) {
+				checkboxLock();
+			}
+		}
+		else {
+			log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
+			MessageBox(hWnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
+		}
+	}
+}
+
+// Handle window selection process
+void windowSelect() {
+	LRESULT scriptticked = SendMessage(script, BM_GETCHECK, NULL, NULL);
+	if (scriptticked == BST_CHECKED) {
+		log_file << "Script changes ticked." << std::endl;
+		p_script = true;
+		if (p_fastold) {
+			log_file << "Ensure the version of fast text is used that supports the updated script." << std::endl;
+			p_fastold = false;
+			p_fastnew = true;
+		}
+	}
+	else {
+		log_file << "Script changes unticked." << std::endl;
+		p_script = false;
+	}
+	LRESULT encticked = SendMessage(encounters, BM_GETCHECK, NULL, NULL);
+	if (encticked == BST_CHECKED) {
+		log_file << "Half encounters ticked." << std::endl;
+		p_encounters = true;
+		if (p_story_mode == true) {
+			log_file << "Unticking story mode." << std::endl;
+			LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+			p_story_mode = false;
+		}
+	}
+	else {
+		log_file << "Half encounters unticked." << std::endl;
+		p_encounters = false;
+	}
+	LRESULT fastticked = SendMessage(fasttext, BM_GETCHECK, NULL, NULL);
+	if (fastticked == BST_CHECKED) {
+		// Check if the fast text patch should support the new translation
+		log_file << "Fast text ticked." << std::endl;
+		if (p_script == false) {
+			log_file << "Ensure the version of fast text supporting the original translation is used." << std::endl;
+			p_fastold = true;
+		}
+		else {
+			log_file << "Ensure the version of fast text is used that supports the updated script." << std::endl;
+			p_fastnew = true;
+		}
+	}
+	else {
+		log_file << "Fast text unticked." << std::endl;
+		p_fastold = false;
+		p_fastnew = false;
+	}
+	LRESULT exponeticked = SendMessage(experience1, BM_GETCHECK, NULL, NULL);
+	if (exponeticked == BST_CHECKED) {
+		log_file << "1.5x exp ticked." << std::endl;
+		p_expone = true;
+		if (p_exptwo == true) {
+			log_file << "Unticking 2x exp." << std::endl;
+			LRESULT exptwountick = SendMessage(experience2, BM_SETCHECK, BST_UNCHECKED, NULL);
+			p_exptwo = false;
+		}
+		if (p_story_mode == true) {
+			log_file << "Unticking story mode." << std::endl;
+			LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+			p_story_mode = false;
+		}
+	}
+	else {
+		log_file << "1.5x exp unticked." << std::endl;
+		p_expone = false;
+	}
+	LRESULT exptwoticked = SendMessage(experience2, BM_GETCHECK, NULL, NULL);
+	if (exptwoticked == BST_CHECKED) {
+		log_file << "2x exp ticked." << std::endl;
+		p_exptwo = true;
+		if (p_expone == true) {
+			log_file << "Unticking 1.5x exp." << std::endl;
+			LRESULT exponeuntick = SendMessage(experience1, BM_SETCHECK, BST_UNCHECKED, NULL);
+			p_expone = false;
+		}
+		if (p_story_mode == true) {
+			log_file << "Unticking story mode." << std::endl;
+			LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+			p_story_mode = false;
+		}
+	}
+	else {
+		log_file << "2x exp unticked." << std::endl;
+		p_exptwo = false;
+	}
+	LRESULT goldoneticked = SendMessage(gold1, BM_GETCHECK, NULL, NULL);
+	if (goldoneticked == BST_CHECKED) {
+		log_file << "1.5x gold ticked." << std::endl;
+		p_goldone = true;
+		if (p_goldtwo == true) {
+			log_file << "Unticking 2x gold." << std::endl;
+			LRESULT goldtwountick = SendMessage(gold2, BM_SETCHECK, BST_UNCHECKED, NULL);
+			p_goldtwo = false;
+		}
+		if (p_story_mode == true) {
+			log_file << "Unticking story mode." << std::endl;
+			LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+			p_story_mode = false;
+		}
+	}
+	else {
+		log_file << "1.5x gold unticked." << std::endl;
+		p_goldone = false;
+	}
+	LRESULT goldtwoticked = SendMessage(gold2, BM_GETCHECK, NULL, NULL);
+	if (goldtwoticked == BST_CHECKED) {
+		log_file << "2x gold ticked." << std::endl;
+		p_goldtwo = true;
+		if (p_goldone == true) {
+			log_file << "Unticking 1.5x gold." << std::endl;
+			LRESULT goldoneuntick = SendMessage(gold1, BM_SETCHECK, BST_UNCHECKED, NULL);
+			p_goldone = false;
+		}
+		if (p_story_mode == true) {
+			log_file << "Unticking story mode." << std::endl;
+			LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+			p_story_mode = false;
+		}
+	}
+	else {
+		log_file << "2x gold unticked." << std::endl;
+		p_goldtwo = false;
+	}
+	LRESULT itemspellsticked = SendMessage(itemspells, BM_GETCHECK, NULL, NULL);
+	if (itemspellsticked == BST_CHECKED) {
+		log_file << "Rebalanced party/items ticked." << std::endl;
+		p_items_spells = true;
+		if (p_story_mode == true) {
+			log_file << "Unticking story mode." << std::endl;
+			LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+			p_story_mode = false;
+		}
+	}
+	else {
+		log_file << "Rebalanced party/items unticked." << std::endl;
+		p_items_spells = false;
+	}
+	LRESULT monstersticked = SendMessage(monsters, BM_GETCHECK, NULL, NULL);
+	if (monstersticked == BST_CHECKED) {
+		log_file << "Rebalanced monsters ticked." << std::endl;
+		p_monsters = true;
+		if (p_story_mode == true) {
+			log_file << "Unticking story mode." << std::endl;
+			LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+			p_story_mode = false;
+		}
+	}
+	else {
+		log_file << "Rebalanced party/items unticked." << std::endl;
+		p_monsters = false;
+	}
+	LRESULT normalarenaticked = SendMessage(normalarena, BM_GETCHECK, NULL, NULL);
+	if (normalarenaticked == BST_CHECKED) {
+		log_file << "Normal arena selected." << std::endl;
+		p_barena = false;
+		p_earena = false;
+	}
+	LRESULT basicarenaticked = SendMessage(basicarena, BM_GETCHECK, NULL, NULL);
+	if (basicarenaticked == BST_CHECKED) {
+		log_file << "Basic arena selected." << std::endl;
+		p_barena = true;
+		if (p_story_mode == true) {
+			log_file << "Unticking story mode." << std::endl;
+			LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+			p_story_mode = false;
+		}
+	}
+	else {
+		log_file << "Basic arena deselected." << std::endl;
+		p_barena = false;
+	}
+	LRESULT expertarenaticked = SendMessage(expertarena, BM_GETCHECK, NULL, NULL);
+	if (expertarenaticked == BST_CHECKED) {
+		log_file << "Expert arena selected." << std::endl;
+		p_earena = true;
+		if (p_story_mode == true) {
+			log_file << "Unticking story mode." << std::endl;
+			LRESULT smuntick = SendMessage(storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+			p_story_mode = false;
+		}
+	}
+	else {
+		log_file << "Expert arena deselected." << std::endl;
+		p_earena = false;
+	}
+	LRESULT portraitsticked = SendMessage(portraits, BM_GETCHECK, NULL, NULL);
+	if (portraitsticked == BST_CHECKED) {
+		log_file << "Resized portraits ticked." << std::endl;
+		p_portraits = true;
+	}
+	else {
+		log_file << "Resized portraits unticked." << std::endl;
+		p_portraits = false;
+	}
+	LRESULT fmvticked = SendMessage(fmvs, BM_GETCHECK, NULL, NULL);
+	if (fmvticked == BST_CHECKED) {
+		log_file << "FMV undub ticked." << std::endl;
+		p_fmv = true;
+	}
+	else {
+		log_file << "FMV undub unticked." << std::endl;
+		p_fmv = false;
+	}
+	LRESULT graphicsticked = SendMessage(graphics, BM_GETCHECK, NULL, NULL);
+	if (graphicsticked == BST_CHECKED) {
+		log_file << "Graphical fixes ticked." << std::endl;
+		p_graphics = true;
+	}
+	else {
+		log_file << "Graphical fixes unticked." << std::endl;
+		p_graphics = false;
+	}
+	LRESULT voiceticked = SendMessage(voice, BM_GETCHECK, NULL, NULL);
+	if (voiceticked == BST_CHECKED) {
+		log_file << "Battle undub ticked." << std::endl;
+		p_voice = true;
+	}
+	else {
+		log_file << "Battle undub unticked." << std::endl;
+		p_voice = false;
+	}
+	LRESULT flashesticked = SendMessage(flashes, BM_GETCHECK, NULL, NULL);
+	if (flashesticked == BST_CHECKED) {
+		log_file << "No battle flashes ticked." << std::endl;
+		p_flashes = true;
+	}
+	else {
+		log_file << "No battle flashes unticked." << std::endl;
+		p_flashes = false;
+	}
+	LRESULT roniticked = SendMessage(roni, BM_GETCHECK, NULL, NULL);
+	if (roniticked == BST_CHECKED) {
+		log_file << "Perfect Works Roni ticked." << std::endl;
+		p_roni = true;
+	}
+	else {
+		log_file << "Perfect Works Roni unticked." << std::endl;
+		p_roni = false;
+	}
+	LRESULT storymodeticked = SendMessage(storyMode, BM_GETCHECK, NULL, NULL);
+	if (storymodeticked == BST_CHECKED) {
+		log_file << "Story mode ticked." << std::endl;
+		p_story_mode = true;
+		log_file << "Unticking incompatible patches." << std::endl;
+		p_encounters = false;
+		LRESULT enctick = SendMessage(encounters, BM_SETCHECK, BST_UNCHECKED, NULL);
+		p_expone = false;
+		LRESULT exponeuntick = SendMessage(experience1, BM_SETCHECK, BST_UNCHECKED, NULL);
+		p_exptwo = false;
+		LRESULT exptwountick = SendMessage(experience2, BM_SETCHECK, BST_UNCHECKED, NULL);
+		p_goldone = false;
+		LRESULT goldoneuntick = SendMessage(gold1, BM_SETCHECK, BST_UNCHECKED, NULL);
+		p_goldtwo = false;
+		LRESULT goldtwountick = SendMessage(gold2, BM_SETCHECK, BST_UNCHECKED, NULL);
+		p_monsters = false;
+		LRESULT monuntick = SendMessage(monsters, BM_SETCHECK, BST_UNCHECKED, NULL);
+		p_items_spells = false;
+		LRESULT itemuntick = SendMessage(itemspells, BM_SETCHECK, BST_UNCHECKED, NULL);
+		p_barena = false;
+		p_earena = false;
+		LRESULT normtick = SendMessage(normalarena, BM_SETCHECK, BST_CHECKED, NULL);
+		LRESULT basicuntick = SendMessage(basicarena, BM_SETCHECK, BST_UNCHECKED, NULL);
+		LRESULT expertuntick = SendMessage(expertarena, BM_SETCHECK, BST_UNCHECKED, NULL);
+	}
+	else {
+		log_file << "Story mode unticked." << std::endl;
+		p_story_mode = false;
+	}
+	// Unlock patch button
+	patchBoxLock();
+}
+
+void patchProcess(HWND hWnd) {
+	SetWindowText(hWnd, L"Preparing...");
+	changed = false;
+	// Work around path names with whitespace.
+	if (pathFound1) {
+		log_file << "Check if disc 1 filename has whitespace characters." << std::endl;
+		if (path1.find(' ') != std::string::npos) {
+			log_file << "Whitespace characters found. Creating a copy of the ROM inside the home directory." << std::endl;
+			SetWindowText(hWnd, L"Copying files...");
+			std::filesystem::current_path(home);
+			std::ifstream  src(path1, std::ios::binary);
+			std::ofstream  dst(tempcd1, std::ios::binary);
+			dst << src.rdbuf();
+			log_file << "Copying completed." << std::endl;
+			space = true;
+		}
+	}
+	if (pathFound2) {
+		log_file << "Check if disc 2 filename has whitespace characters." << std::endl;
+		if (path2.find(' ') != std::string::npos) {
+			log_file << "Whitespace characters found. Creating a copy of the ROM inside the home directory." << std::endl;
+			SetWindowText(hWnd, L"Copying files...");
+			std::filesystem::current_path(home);
+			std::ifstream  src(path2, std::ios::binary);
+			std::ofstream  dst(tempcd2, std::ios::binary);
+			dst << src.rdbuf();
+			log_file << "Copying completed." << std::endl;
+			space = true;
+		}
+	}
+	// Return to home directory
+	std::filesystem::current_path(home);
+	// Access directory for patches if FMVs has been ticked
+	log_file << "Check if 'patches' directory exists." << std::endl;
+	if (std::filesystem::exists(patchPath)) {
+		std::filesystem::current_path(patchPath);
+		log_file << "'patches' directory is valid." << std::endl;
+		patchPathValid = true;
+		if (p_fmv) {
+			if (pathFound1) {
+				log_file << "Disc 1 FMV patch file found." << std::endl;
+				fmvPatch1 = "cd1_fmvs.xdelta";
+				fmvName1 = "fmv1";
+			}
+			if (pathFound2) {
+				log_file << "Disc 2 FMV patch file found." << std::endl;
+				fmvPatch2 = "cd2_fmvs.xdelta";
+				fmvName2 = "fmv2";
+			}
+		}
+	}
+	// Access directory for files
+	std::filesystem::current_path(home);
+	log_file << "Check if 'gamefiles' directory is valid." << std::endl;
+	if (std::filesystem::exists(filePath)) {
+		std::filesystem::current_path(filePath);
+		log_file << "'gamefiles' directory is valid." << std::endl;
+		filePathValid = true;
+	}
+	// Check for ticked boxes
+	if (filePathValid) {
+		if (p_encounters) {
+			// Check if story mode hasn't been ticked
+			if (!p_story_mode) {
+				// Check if script patches aren't selected to avoid compatibility issues. Otherwise, a merged folder will be used
+				if (!p_script) {
+					if (pathFound1) {
+						log_file << "Disc 1 half encounters directory found." << std::endl;
+						encountersName1 = "encounter_rate_1";
+					}
+					if (pathFound2) {
+						log_file << "Disc 2 half encounters directory found." << std::endl;
+						encountersName2 = "encounter_rate_2";
+					}
+				}
+				else {
+					if (pathFound1) {
+						log_file << "Disc 1 half encounters/retranslated script directory found." << std::endl;
+						encountersName1 = "encounterone_script";
+					}
+					if (pathFound2) {
+						log_file << "Disc 2 half encounters/retranslated script directory found." << std::endl;
+						encountersName2 = "encountertwo_script";
+					}
+				}
+			}
+		}
+		if (p_items_spells) {
+			// Check if story mode hasn't been ticked
+			if (!p_story_mode) {
+				// Check if the items/script hybrid patch needs to be applied
+				if (p_script) {
+					if (pathFound1) {
+						log_file << "Disc 1 rebalanced party/retranslated script directory found." << std::endl;
+						itemspellsName1 = "Script_items";
+					}
+					if (pathFound2) {
+						log_file << "Disc 2 rebalanced party/retranslated script directory found." << std::endl;
+						itemspellsName2 = "Script_items2";
+					}
+				}
+				else {
+					if (pathFound1) {
+						log_file << "Disc 1 rebalanced party directory found." << std::endl;
+						itemspellsName1 = "items1";
+					}
+					if (pathFound2) {
+						log_file << "Disc 1 rebalanced party directory found." << std::endl;
+						itemspellsName2 = "items2";
+					}
+				}
+			}
+		}
+		if (p_expone || p_exptwo) {
+			// Check if story mode hasn't been ticked
+			if (!p_story_mode && !p_monsters) {
+				if (pathFound1) {
+					log_file << "Disc 1 exp directory found." << std::endl;
+					expName1 = "og_monsters";
+				}
+				if (pathFound2) {
+					log_file << "Disc 2 exp directory found." << std::endl;
+					expName2 = "og_monsters";
+				}
+			}
+		}
+		if (p_goldone || p_goldtwo) {
+			// Check if story mode hasn't been ticked
+			if (!p_story_mode && !p_monsters) {
+				if (pathFound1) {
+					log_file << "Disc 1 gold directory found." << std::endl;
+					goldName1 = "og_monsters";
+				}
+				if (pathFound2) {
+					log_file << "Disc 2 gold directory found." << std::endl;
+					goldName2 = "og_monsters";
+				}
+			}
+		}
+		if (p_fastnew) {
+			if (pathFound1) {
+				log_file << "Disc 1 retranslated fast text directory found." << std::endl;
+				fastName1 = "text_cd1";
+			}
+			if (pathFound2) {
+				// Disc 2 will use the same patch regardless of whether the script patch has been applied as it has no cutscenes with auto-advance
+				log_file << "Disc 2 retranslated fast text directory found." << std::endl;
+				fastName2 = "text_cd2";
+			}
+
+		}
+		if (p_fastold) {
+			if (pathFound1) {
+				log_file << "Disc 1 fast text directory found." << std::endl;
+				fastName1 = "text_old1";
+			}
+			if (pathFound2) {
+				log_file << "Disc 2 fast text directory found." << std::endl;
+				fastName2 = "text_cd2";
+			}
+		}
+		if (p_monsters) {
+			// Check if story mode hasn't been ticked
+			if (!p_story_mode) {
+				// Check if items/spells and script patches aren't selected to avoid compatibility issues.
+				if (!p_script && !p_items_spells) {
+					if (pathFound1) {
+						log_file << "Disc 1 rebalanced monsters directory found." << std::endl;
+						monsterName1 = "Monsters";
+					}
+					if (pathFound2) {
+						log_file << "Disc 2 rebalanced monsters directory found." << std::endl;
+						monsterName2 = "Monsters";
+					}
+				}
+				else if (p_items_spells && !p_script) {
+					if (pathFound1) {
+						log_file << "Disc 1 rebalanced monsters and party directory found." << std::endl;
+						monsterName1 = "monsters_items";
+					}
+					if (pathFound2) {
+						log_file << "Disc 2 rebalanced monsters and party directory found." << std::endl;
+						monsterName2 = "monsters_items";
+					}
+				}
+				else if (!p_items_spells && p_script) {
+					if (pathFound1) {
+						log_file << "Disc 1 rebalanced monsters/retranslated script directory found." << std::endl;
+						monsterName1 = "monsters_script";
+					}
+					if (pathFound2) {
+						log_file << "Disc 2 rebalanced monsters/retranslated script directory found." << std::endl;
+						monsterName2 = "monsters_script";
+					}
+				}
+				else if (p_items_spells && p_script) {
+					if (pathFound1) {
+						log_file << "Disc 1 rebalanced monsters and party/retranslated script directory found." << std::endl;
+						monsterName1 = "monsters_both";
+					}
+					if (pathFound2) {
+						log_file << "Disc 2 rebalanced monsters and party/retranslated script directory found." << std::endl;
+						monsterName2 = "monsters_both";
+					}
+				}
+			}
+		}
+		if (p_script) {
+			if (pathFound1) {
+				// Check if items/spells and script hybrid won't be applied
+				if (!p_items_spells) {
+					log_file << "Disc 1 retranslated script directory found." << std::endl;
+					scriptName1 = "script1";
+				}
+				else {
+					log_file << "Disc 1 retranslated script/rebalanced party directory found." << std::endl;
+					scriptName1 = "Script_items";
+				}
+			}
+			if (pathFound2) {
+				// Check if script hybrid with items/spells won't be applied
+				if (!p_items_spells) {
+					log_file << "Disc 2 retranslated script directory found." << std::endl;
+					scriptName2 = "script2";
+				}
+				else {
+					log_file << "Disc 2 retranslated script/rebalanced party directory found." << std::endl;
+					scriptName2 = "Script_items2";
+				}
+			}
+		}
+		if (p_barena) {
+			if (pathFound1) {
+				if (!p_story_mode) {
+					if (!p_script) {
+						log_file << "Disc 1 basic arena directory found." << std::endl;
+						arenaName1 = "filesbasic";
+					}
+					else {
+						log_file << "Disc 1 basic arena/retranslated script directory found." << std::endl;
+						arenaName1 = "filesbasic_script";
+					}
+				}
+			}
+			if (pathFound2) {
+				if (!p_story_mode) {
+					if (!p_script) {
+						log_file << "Disc 2 basic arena directory found." << std::endl;
+						arenaName2 = "filesbasic";
+					}
+					else {
+						log_file << "Disc 2 basic arena/retranslated script directory found." << std::endl;
+						arenaName2 = "filesbasic_script";
+					}
+				}
+			}
+		}
+		if (p_earena) {
+			if (pathFound1) {
+				if (!p_story_mode) {
+					if (!p_script) {
+						log_file << "Disc 1 expert arena directory found." << std::endl;
+						arenaName1 = "filesexpert";
+					}
+					else {
+						log_file << "Disc 1 expert arena/retranslated script directory found." << std::endl;
+						arenaName1 = "filesexpert_script";
+					}
+				}
+			}
+			if (pathFound2) {
+				if (!p_story_mode) {
+					if (!p_script) {
+						log_file << "Disc 2 expert arena directory found." << std::endl;
+						arenaName2 = "filesexpert";
+					}
+					else {
+						log_file << "Disc 2 expert arena/retranslated script directory found." << std::endl;
+						arenaName2 = "filesexpert_script";
+					}
+				}
+			}
+		}
+		if (p_portraits) {
+			if (pathFound1) {
+				log_file << "Disc 1 resized portraits directory found." << std::endl;
+				portraitsName1 = "portraits";
+			}
+			if (pathFound2) {
+				log_file << "Disc 2 resized portraits directory found." << std::endl;
+				portraitsName2 = "portraits";
+			}
+		}
+		// Graphics edits outside of portraits are not applied to the items/spells or script patch here as they would cause crashes.
+		if (p_graphics) {
+			if (pathFound1) {
+				if (!p_items_spells && !p_script) {
+					if (!p_portraits) {
+						log_file << "Disc 1 graphical fix directory found." << std::endl;
+						graphicsName1 = "graphics";
+					}
+					else {
+						log_file << "Disc 1 graphical fix without portraits directory found." << std::endl;
+						graphicsName1 = "graphics_no_portraits";
+					}
+				}
+				else if (!p_portraits) {
+					log_file << "Disc 1 fixed portraits directory found." << std::endl;
+					graphicsName1 = "graphics_portraits";
+				}
+			}
+			if (pathFound2) {
+				if (!p_items_spells && !p_script) {
+					if (!p_portraits) {
+						log_file << "Disc 2 graphical fix directory found." << std::endl;
+						graphicsName2 = "graphics";
+					}
+					else {
+						log_file << "Disc 2 graphical fix without portraits directory found." << std::endl;
+						graphicsName2 = "graphics_no_portraits";
+					}
+				}
+				else if (!p_portraits) {
+					log_file << "Disc 2 fixed portraits directory found." << std::endl;
+					graphicsName2 = "graphics_portraits";
+				}
+			}
+		}
+		if (p_voice) {
+			if (pathFound1) {
+				log_file << "Disc 1 undub battle voices directory found." << std::endl;
+				voiceName1 = "voice";
+			}
+			if (pathFound2) {
+				log_file << "Disc 2 undub battle voices directory found." << std::endl;
+				voiceName2 = "voice";
+			}
+		}
+		if (p_roni) {
+			if (pathFound1) {
+				if (!p_portraits) {
+					log_file << "Disc 1 non-resized Roni directory found." << std::endl;
+					roniName1 = "roni_pw\\default";
+				}
+				else {
+					log_file << "Disc 1 resized Roni directory found." << std::endl;
+					roniName1 = "roni_pw\\resized";
+				}
+			}
+			if (pathFound2) {
+				if (!p_portraits) {
+					log_file << "Disc 2 non-resized Roni directory found." << std::endl;
+					roniName2 = "roni_pw\\default";
+				}
+				else {
+					log_file << "Disc 2 resized Roni directory found." << std::endl;
+					roniName2 = "roni_pw\\resized";
+				}
+			}
+		}
+		if (p_story_mode) {
+			if (pathFound1) {
+				if (!p_script) {
+					log_file << "Disc 1 story mode directory found." << std::endl;
+					storyModeName1 = "storyfiles_cd1";
+				}
+				else {
+					log_file << "Disc 1 story mode/retranslated script directory found." << std::endl;
+					storyModeName1 = "storyfiles_script_cd1";
+				}
+			}
+			if (pathFound2) {
+				if (!p_script) {
+					log_file << "Disc 2 story mode directory found." << std::endl;
+					storyModeName2 = "storyfiles_cd2";
+				}
+				else {
+					log_file << "Disc 2 story mode/retranslated script directory found." << std::endl;
+					storyModeName2 = "storyfiles_script_cd2";
+				}
+			}
+		}
+		// Bug patch is not applied with items/spells and script as they already have it applied.
+		if (!p_items_spells && !p_script) {
+			if (pathFound1) {
+				log_file << "Disc 1 bug fix directory found." << std::endl;
+				bugName1 = "bug_fix1";
+
+			}
+			if (pathFound2) {
+				log_file << "Disc 2 bug fix directory found." << std::endl;
+				bugName2 = "bug_fix2";
+			}
+		}
+		if (pathFound1) {
+			log_file << "Disc 1 title screen directory found." << std::endl;
+			titleName1 = "title_screen";
+
+		}
+		if (pathFound2) {
+			log_file << "Disc 2 title screen directory found." << std::endl;
+			titleName2 = "title_screen";
+		}
+		initialisePatchLists();
+		log_file << "Check if the patcher is inside OneDrive." << std::endl;
+		if (home.contains("OneDrive")) {
+			log_file << "Display OneDrive error." << std::endl;
+			MessageBox(hWnd, L"The patcher is in the OneDrive. It cannot be used.", L"Error", MB_ICONASTERISK);
+			safeDrive = false;
+			log_file << "Abort patching process." << std::endl;
+			SetWindowText(hWnd, szTitle);
+		}
+		else {
+			log_file << "OneDrive is not in use. Resume execution." << std::endl;
+			safeDrive = true;
+		}
+		if (safeDrive) {
+			log_file << "Starting patch process." << std::endl;
+			SetWindowText(hWnd, L"Patching...");
+			log_file << "Changing cursor to reflect loading." << std::endl;
+			SetCursor(LoadCursor(NULL, IDC_WAIT));
+			// Apply disc 1 patches
+			if (pathFound1) {
+				log_file << "Applying disc 1 patches." << std::endl;
+				if (applyPatch(1)) {
+					log_file << "xenoiso process successful." << std::endl;
+					successMessage = true;
+				}
+				else {
+					log_file << "xenoiso process failed." << std::endl;
+					successMessage = false;
+				}
+			}
+			// Apply disc 2 patches
+			if (pathFound2) {
+				log_file << "Applying disc 2 patches." << std::endl;
+				if (applyPatch(2)) {
+					successMessage = true;
+				}
+				else {
+					log_file << "xenoiso process failed." << std::endl;
+					successMessage = false;
+				}
+			}
+			SetWindowText(hWnd, szTitle);
+			if (successMessage) {
+				log_file << "Show success message." << std::endl;
+				MessageBox(hWnd, L"Patch was completed successfully.", L"Success", MB_ICONASTERISK);
+			}
+			else {
+				log_file << "Show failure message." << std::endl;
+				MessageBox(hWnd, L"An error occurred with xenoiso. View pw_log for details.", L"Error", MB_ICONASTERISK);
+			}
+		}
+		// Restore defaults
+		restoreDefaults();
+	}
+	else {
+		MessageBox(hWnd, L"Could not find directory for 'patches'. Check repo for latest version.", L"Error", MB_ICONERROR);
+	}
+}
+
 void drawText() {
 	// Set font
 	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
@@ -1271,16 +1289,14 @@ void drawText() {
 // Initialise patch list
 void initialisePatchLists() {
 	log_file << "Initialise patch names." << std::endl;
-	patchList1.emplace_back(encountersName1);
-	patchList2.emplace_back(encountersName2);
-	patchList1.emplace_back(fastName1);
-	patchList2.emplace_back(fastName2);
+	// Graphics
 	patchList1.emplace_back(portraitsName1);
 	patchList2.emplace_back(portraitsName2);
-	patchList1.emplace_back(fmvName1);
-	patchList2.emplace_back(fmvName2);
-	patchList1.emplace_back(arenaName1);
-	patchList2.emplace_back(arenaName2);
+	patchList1.emplace_back(graphicsName1);
+	patchList2.emplace_back(graphicsName2);
+	// Gameplay
+	patchList1.emplace_back(encountersName1);
+	patchList2.emplace_back(encountersName2);
 	patchList1.emplace_back(expName1);
 	patchList2.emplace_back(expName2);
 	patchList1.emplace_back(goldName1);
@@ -1289,18 +1305,37 @@ void initialisePatchLists() {
 	patchList2.emplace_back(itemspellsName2);
 	patchList1.emplace_back(monsterName1);
 	patchList2.emplace_back(monsterName2);
+	// Arena
+	patchList1.emplace_back(arenaName1);
+	patchList2.emplace_back(arenaName2);
+	// Story
+	patchList1.emplace_back(fastName1);
+	patchList2.emplace_back(fastName2);
 	patchList1.emplace_back(scriptName1);
 	patchList2.emplace_back(scriptName2);
-	patchList1.emplace_back(graphicsName1);
-	patchList2.emplace_back(graphicsName2);
-	patchList1.emplace_back(bugName1);
-	patchList2.emplace_back(bugName2);
-	patchList1.emplace_back(titleName1);
-	patchList2.emplace_back(titleName2);
+	// Audio
+	patchList1.emplace_back(fmvName1);
+	patchList2.emplace_back(fmvName2);
 	patchList1.emplace_back(voiceName1);
 	patchList2.emplace_back(voiceName2);
 	patchList1.emplace_back(fmvPatch1);
 	patchList2.emplace_back(fmvPatch2);
+	// Mode
+	patchList1.emplace_back(storyModeName1);
+	patchList2.emplace_back(storyModeName2);
+	// Other
+	patchList1.emplace_back(bugName1);
+	patchList2.emplace_back(bugName2);
+	patchList1.emplace_back(titleName1);
+	patchList2.emplace_back(titleName2);
+}
+
+// Restores default patcher settings
+void restoreDefaults() {
+	relock();
+	reinitialisePatches();
+	clearText();
+	clearPatchLists();
 }
 
 // Locks both patches and buttons
@@ -1317,43 +1352,12 @@ void relock() {
 // Removes patch names
 void reinitialisePatches() {
 	log_file << "Clearing patch names." << std::endl;
-	arenaName1 = "";
-	arenaName2 = "";
-	encountersName1 = "";
-	encountersName2 = "";
-	expName1 = "";
-	expName2 = "";
-	goldName1 = "";
-	goldName2 = "";
-	fastName1 = "";
-	fastName2 = "";
-	portraitsName1 = "";
-	portraitsName2 = "";
-	fmvName1 = "";
-	fmvName2 = "";
-	itemspellsName1 = "";
-	itemspellsName2 = "";
-	monsterName1 = "";
-	monsterName2 = "";
-	scriptName1 = "";
-	scriptName2 = "";
-	graphicsName1 = "";
-	graphicsName2 = "";
-	bugName1 = "";
-	bugName2 = "";
-	titleName1 = "";
-	titleName2 = "";
-	voiceName1 = "";
-	voiceName2 = "";
-	storyModeName1 = "";
-	storyModeName2 = "";
-	fmvPatch1 = "";
-	fmvPatch2 = "";
-	roniName1 = "";
-	roniName2 = "";
-	log_file << "Clearing patch lists." << std::endl;
-	patchList1.clear();
-	patchList2.clear();
+	for (int i = 0; i < patchList1.size(); i = i + 1) {
+		patchList1[i] = "";
+	}
+	for (int i = 0; i < patchList2.size(); i = i + 1) {
+		patchList2[i] = "";
+	}
 }
 
 // Removes file paths for bins
@@ -1363,12 +1367,11 @@ void clearText() {
 	SetWindowText(cd2path, L"");
 }
 
-// Initialise common controls for parsing large files
-void StartCommonControls(DWORD flags) {
-	INITCOMMONCONTROLSEX iccx;
-	iccx.dwSize = sizeof(INITCOMMONCONTROLSEX);
-	iccx.dwICC = flags;
-	InitCommonControlsEx(&iccx);
+// Clear patch lists
+void clearPatchLists() {
+	log_file << "Clearing patch lists." << std::endl;
+	patchList1.clear();
+	patchList2.clear();
 }
 
 // Apply 1.5 exp or 1.5 gold changes
