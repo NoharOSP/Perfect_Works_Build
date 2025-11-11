@@ -3,16 +3,16 @@
 // Used by guipatcher.rc
 //
 #define IDC_MYICON                      2
-#define IDD_GUIPATCHER_DIALOG           102
+#define IDD_XGPW_DIALOG                 102
 #define IDS_APP_TITLE                   103
 #define IDD_ABOUTBOX                    103
 #define IDM_ABOUT                       104
 #define IDM_EXIT                        105
-#define IDI_GUIPATCHER                  107
+#define IDI_XGPW	                    107
 #define IDD_PROPPAGE_LARGE              107
 #define IDI_SMALL                       108
 #define IDS_STRING_STORY                108
-#define IDC_GUIPATCHER                  109
+#define IDC_XGPW	                    109
 #define IDM_SETTINGS                    110
 #define IDD_SETTINGSBOX                 111
 #define IDR_MAINFRAME                   128

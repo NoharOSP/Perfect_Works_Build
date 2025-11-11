@@ -157,15 +157,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="framework.h" />
-    <ClInclude Include="guipatcher.h" />
+    <ClInclude Include="main.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="romFinder.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="toolGenerator.h" />
+    <ClInclude Include="Window.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="guipatcher.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
@@ -174,12 +175,13 @@
     </ClCompile>
     <ClCompile Include="romFinder.cpp" />
     <ClCompile Include="toolGenerator.cpp" />
+    <ClCompile Include="Window.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="guipatcher.rc" />
+    <ResourceCompile Include="main.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="guipatcher.ico" />
+    <Image Include="xgpw.ico" />
     <Image Include="small.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ShowAllFiles>true</ShowAllFiles>
-    <RESOURCE_FILE>guipatcher.rc</RESOURCE_FILE>
+    <RESOURCE_FILE>main.rc</RESOURCE_FILE>
   </PropertyGroup>
 </Project>
