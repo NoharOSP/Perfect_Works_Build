@@ -4,10 +4,11 @@ Citan
 The train will be here
 soon.<Delay 15> Let us hurry, <Delay 5>up to
 the observation tower."<Close><End of Block>
-<TextBlock 2 w:50 h:3>
+<TextBlock 2 w:48 h:4>
 Fei
-"Jump onto the train from
-here when it goes by<Delay 5>..."<Close><End of Block>
+"So we jump down from up
+there just as the train
+goes by<Delay 5>..."<Close><End of Block>
 <TextBlock 3 w:50 h:4>
 Fei
 "<Delay 5>...<Delay 5>That's right.
@@ -26,15 +27,15 @@ Fei
 I'm gonna go now then."<Close><End of Block>
 <TextBlock 6 w:26 h:1>
 <Delay 5>...<Delay 5>It's gone.<Close><End of Block>
-<TextBlock 7 w:32 h:2>
+<TextBlock 7 w:36 h:2>
 Citan
-"<Delay 5>...<Delay 5>It is gone."<Opcode 2 90><Close><End of Block>
+"<Delay 5>...<Delay 5>We missed it."<Opcode 2 90><Close><End of Block>
 <TextBlock 8 w:58 h:2>
-Alarm activated, please leave
-via the upper passage.<Opcode 2 60><Close><End of Block>
-<TextBlock 9 w:56 h:2>
-Upper passage thermal motion
-detector disabled.<Opcode 2 60><Close><End of Block>
+  WARNING, PLEASE PROMPTLY
+    MOVE OFF THE TRACKS.<Opcode 2 60><Close><End of Block>
+<TextBlock 9 w:62 h:2>
+HEAT SOURCE DETECTED ON TRACKS,
+  DRIVE ENGINE SHUTTING DOWN.<Opcode 2 60><Close><End of Block>
 <TextBlock 10 w:42 h:1>
 No good, it's locked.<Opcode 2 30><Close><End of Block>
 <TextBlock 11 w:42 h:1>
@@ -46,67 +47,74 @@ It's locked from the inside.<Opcode 2 30><Close><End of Block>
 <TextBlock 14 w:56 h:2>
 The sun's already gone down.
 Sorry, but...go home!!<Close><End of Block>
-<TextBlock 15 w:56 h:3>
+<TextBlock 15 w:44 h:4>
 Old Man
-"I've some advice for you,
-youngster!<New>
-Jumping from this tower is
-illegal!! Even if I know
-you, I'm gonna fine you!<Delay 15><New>
-Better not <Delay 5>forget it!
-I'm no pushover!"<Close><End of Block>
-<TextBlock 16 w:56 h:4>
-Old Man
-"Hey, today the supply train
-is coming through!<New>
-I've some advice for you,
-youngster, don't try to
-block the tracks!<Delay 15>
-You'll be fined<Delay 5>..."<Close><End of Block>
-<TextBlock 17 w:54 h:4>
-Old Man
-"Beyond those tracks over
-there<Delay 5>...<New>
-There's some special
-equipment in the tunnel.<New>
-There was a group who tried
-to escape and didn't know
-that. That bomb collar
-went BOOM! Yep, see ya<Delay 5>..."<Close><End of Block>
-<TextBlock 18 w:50 h:4>
-Old Man
-"<Delay 5>...<Delay 5>As long as you have
-that bomb collar on, it's
-impossible to escape!"<Close><End of Block>
-<TextBlock 19 w:52 h:4>
-Old Man
-"I've some advice for you,
-youngster!<Delay 30> Jumping from
-this tower is illegal!!<New>
+"One bit of advice for
+you, youngster!<New>
+Jumping down from this
+watchtower is a rule
+violation,<Delay 10> and I mean
+strictly prohibited!!<New>
 Even if I know you,
 I'm gonna fine you!<Delay 15>
-Better not <Delay 5>forget it!
+Better not forget it!<Delay 5>
 I'm no pushover!"<Close><End of Block>
-<TextBlock 20 w:52 h:3>
+<TextBlock 16 w:56 h:3>
 Old Man
-"What?<Delay 5> Youngster!!<New>
+"Hey, today the supply train
+is coming through here!<New>
+My advice to you, youngster,
+is to not block its path!<Delay 15>
+'Cause you'll get fined<Delay 5>..."<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Old Man
+"Up ahead, where the
+supply train goes<Delay 5>...<New>
+Some special equipment is
+set up in the tunnel.<New>
+There was a group who
+tried to break out
+through the tunnel, but
+they didn't know that.<New>
+Bomb collars went BOOM!<Delay 10>
+Yep, see ya<Delay 5>..."<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Old Man
+"<Delay 5>...<Delay 5>As long as you have
+a bomb collar, escape from
+this town is impossible!"<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Old Man
+"One bit of advice for
+you, youngster!<New>
+Jumping down from this
+watchtower is a rule
+violation,<Delay 10> and I mean
+strictly prohibited!!<New>
+Even if I know you,
+I'm gonna fine you!<Delay 15>
+Better not forget it!<Delay 5>
+I'm no pushover!"<Close><End of Block>
+<TextBlock 20 w:54 h:3>
+Old Man
+"What!?<Delay 5> Youngster!!<New>
 Weren't you listening?<Delay 15>
-You can't jump from here! <Delay 20>
-It's illegal!"<Close><End of Block>
-<TextBlock 21 w:50 h:4>
+Jumping down is prohibited!<Delay 20>
+You're fined!"<Close><End of Block>
+<TextBlock 21 w:42 h:4>
 Old Man
-"Hey, <Delay 5>the fine's 50G!<Delay 15>
-You can't jump from here,
-I'll teach you a lesson."<Close><End of Block>
+"Yep, <Delay 5>the fine's 50G!<Delay 15>
+That'll teach you to
+jump from here."<Close><End of Block>
 <TextBlock 22 w:30 h:1>
 Got a 50G fine!<Close><End of Block>
 <TextBlock 23 w:56 h:4>
 Old Man
-"You don't have 50G?<Delay 15>
-Youngster, <Delay 5>having trouble<Delay 5>...<Delay 15>
-Go on! <Delay 5>Get outta here!"<Close><End of Block>
+"You don't even have 50G?<Delay 15>
+Hard times eh, youngster<Delay 5>...?<Delay 15>
+Here,<Delay 5> take this."<Close><End of Block>
 <TextBlock 24 w:34 h:1>
-Anyway, got 30G!!<Close><End of Block>
+Somehow got 30G!!<Close><End of Block>
 <TextBlock 25 w:56 h:4>
 I don't have much strength,<Delay 5>
 but I know I won't lose to
@@ -117,14 +125,14 @@ for me, <Delay 5>fixing the roof.<Delay 15>
 It pays almost as well as
 working the sewers!<Close><End of Block>
 <TextBlock 26 w:48 h:4>
-Hey, hey, I have some
+Hey, hey, a bit of
 advice for you. That old
 guy in the observation
 tower, he's real strict.<New>
-If you look like you're
-gonna jump you're out.
-Don't even try and jump
-from the tower!<Close><End of Block>
+If it even looks like
+you're gonna jump down,
+you're done.<Delay 10> No jumping
+when on the watchtower!<Close><End of Block>
 <TextBlock 27 w:56 h:4>
 By the way, <Delay 5>
 I have a good story.<New>
@@ -223,77 +231,87 @@ and water the plants,
 flowers will bloom.<Close><End of Block>
 <TextBlock 46 w:28 h:1>
 Gave Dog Food!<Close><End of Block>
-<TextBlock 47 w:44 h:1>
-Just a dog house<Delay 5>...<Delay 5>...<Close><End of Block>
-<TextBlock 48 w:50 h:2>
-Fei
-"<Delay 5>...<Delay 5>Getting up's a pain."<Opcode 2 45><Close><End of Block>
-<TextBlock 49 w:66 h:4>
-Above the cross, <Delay 5>a goat's horn, <Delay 5>
-east and west, <Delay 5>
-the ruling god's throne,<Delay 5>
-the one possessing, <Delay 5>the red seal,<New>
-here and there,
-digging up, <Delay 5>
-treasures of the past,
-or so<Delay 5>...<Delay 5>they say.<Close><End of Block>
+<TextBlock 47 w:48 h:1>
+An ordinary dog house<Delay 5>...<Close><End of Block>
+<TextBlock 48 w:40 h:2>
+<Delay 5>...<Delay 5>If he wakes up
+there'll be trouble.<Opcode 2 45><Close><End of Block>
+<TextBlock 49 w:64 h:4>
+Above the cross,<Delay 5> goat's ho~rns.<Delay 5>
+East and west,<Delay 5>
+the ruling God's thro~ne.<Delay 5>
+Bearers<Delay 5> of the red se~al.<New>
+Here, there and everywhe~re.<Delay 5>
+Digging up legacies of the
+past is no big de~al.
+<Delay 5>...<Delay 5>Or so they say.<Close><End of Block>
 <TextBlock 50 w:58 h:3>
-That's the song I wrote.<Delay 15>
-It's about the B-Info store.<New>
-They sell machine parts for
-Gears from ruins all over
-the world.<Close><End of Block>
+That's a song I came up with,
+you know.<Delay 15> I'm singing about
+this store called B-Info.<New>
+They sell parts here for
+machines called Gears,<New>
+parts they got from various
+countries, in places called
+ruins.<Close><End of Block>
 <TextBlock 51 w:36 h:1>
 I know a lot, huh?<Close><End of Block>
 <TextBlock 52 w:42 h:3>
 Hey, gimme an Elix<--><Delay 15>
 !?<Delay 15> ...<Delay 5>Nah.
 Gimme some money!<Close><End of Block>
-<TextBlock 53 w:10 h:1>
-Cool!<Opcode 2 30><Close><End of Block>
-<TextBlock 54 w:54 h:3>
+<TextBlock 53 w:14 h:1>
+Cooool!<Opcode 2 30><Close><End of Block>
+<TextBlock 54 w:50 h:3>
 This is such a dangerous
-town! They'd even steal the
-shirt off your back.<New>
-But since he's my bodyguard
-it's no problem!<Close><End of Block>
-<TextBlock 55 w:52 h:4>
-Wonder if anything's on
-the ground?<Delay 15>
-Yeah, c'mon.
-Wanna help?<Close><End of Block>
-<TextBlock 56 w:20 h:1>
-Whoo whoo.<Opcode 2 30><Close><End of Block>
-<TextBlock 57 w:46 h:4>
-Well<Delay 5>...<Delay 5>the coin
-design disappeared<Delay 5>...<Delay 20>
-But like I thought, the
-coin got bigger.<Close><End of Block>
+town!<New>
+Let your guard down and
+you'll get ambushed and
+left stark naked!<New>
+But I'll make short work
+of those guys using my
+stick-fighting technique!<Close><End of Block>
+<TextBlock 55 w:38 h:4>
+Any stuff lying
+around, I wonder?<Delay 15>
+Yeah, c'mon, search
+with me, old man!<Close><End of Block>
+<TextBlock 56 w:16 h:1>
+Hee hee!<Opcode 2 30><Close><End of Block>
+<TextBlock 57 w:52 h:4>
+Well<Delay 5>...<Delay 5>the coin's design
+was erased<Delay 5>...<Delay 20> But as I
+predicted, the coin itself
+definitely got bigger.<Close><End of Block>
 <TextBlock 58 w:52 h:3>
-See,<Delay 5> isn't this coin
-worthless<Delay 5>...<Delay 5>?<Delay 15>
-Ahhh, <Delay 5>I thought it'd work.<Close><End of Block>
-<TextBlock 59 w:44 h:2>
-You'll ruin the coin,
-don't do it!<Close><End of Block>
+Well,<Delay 5> this coin's
+worthless now, huh<Delay 5>...<Delay 5>?<Delay 15>
+Ahhh,<Delay 5> I thought it'd work.<Close><End of Block>
+<TextBlock 59 w:54 h:2>
+Coins're too good to waste,
+so we won't do it anymore!<Close><End of Block>
 <TextBlock 60 w:50 h:4>
-Hmmm, <Delay 5>according to
+Hehe,<Delay 5> according to
 my theory, the coin
 should get bigger<Delay 5>...<Delay 8>
-So, <Delay 5>it'll be worth more!<Close><End of Block>
-<TextBlock 61 w:48 h:4>
-My Adaman-coin is messed
-up now because of that
-experiment!<New>
-And the fine detail is
-all gone<Delay 5>...<Delay 30>
-*sigh*<Delay 5>...<Delay 15>
-It was better before!<Close><End of Block>
-<TextBlock 62 w:56 h:4>
+So,<Delay 5> it'll be worth more!<Close><End of Block>
+<TextBlock 61 w:44 h:4>
+Our Adaman-coin got
+messed up as a result
+of the experiment!<New>
+The coin's fine detail
+is completely gone<Delay 5>...<Delay 30>
+*sniffle*<Delay 5>...<Delay 15>
+It was better before.<Close><End of Block>
+<TextBlock 62 w:52 h:4>
 There are rails here.<Delay 15>
-Occasionally a train comes
-through here! So<Delay 5>...<Delay 12>
-I put a coin here as a test.<Close><End of Block>
+It's only once in a while,
+but a train passes through
+this place!<New>
+<Delay 5>...So we're doing an
+experiment to leave a 
+coin on there to see
+what happens.<Close><End of Block>
 <TextBlock 63 w:46 h:3>
        -WARNING-
 This is dangerous <--> do
@@ -322,24 +340,27 @@ Guard
 "Hmm, so you're the new guy?<Delay 15>
 The Imperial Committee is
 looking for you<Delay 5>...<New>
-They heard something about
-you and the Champ's men<Delay 5>...<Delay 15>
+Seems they caught wind of
+a recent matter involving
+the Champ.<New>
 They should still be
 somewhere in D Block.<New>
-They decided to visit you<Delay 5>...<Delay 15>
-This is a good chance for a
-prisoner like yourself!"<Close><End of Block>
-<TextBlock 69 w:50 h:4>
+The Committee paying a
+personal visit<Delay 5>...<Delay 15> Could be
+an ideal opportunity for
+a prisoner like yourself!"<Close><End of Block>
+<TextBlock 69 w:40 h:4>
 Guard
-"You again? The Committee
-member is still waiting
-in the dorm or the bar.<New>
-Hurry, now!"<Close><End of Block>
-<TextBlock 70 w:44 h:4>
+"You again?<New>
+The Committee folks
+should still be in
+the dorm or the bar.<Delay 10>
+Hurry, now!!"<Close><End of Block>
+<TextBlock 70 w:48 h:4>
 Guard
-"This is your one-in-
-a-million chance to
-show your stuff!!<New>
+"Are you gonna blow
+your one-in-a-million
+chance, just like that!?<New>
 The dorm or the bar...
 Hurry!"<Close><End of Block>
 <TextBlock 71 w:52 h:4>
@@ -380,32 +401,33 @@ salary...<Delay 5> All of it<Delay 5>...
 Everything<Delay 5>...<Delay 10> So stupid<Delay 5>...<New>
 <Delay 5>...<Delay 5>Guess I'll be working
 in the sewers, too."<Close><End of Block>
-<TextBlock 75 w:54 h:3>
+<TextBlock 75 w:56 h:3>
 Guard
-"We haven't had too many
-Rank A prisoners like you.<New>
-That's why the Committee
-noticed you.<New>
-This year's match<Delay 5>...<Delay 5>
-it's expected the Champ
-will win, though."<Close><End of Block>
-<TextBlock 76 w:54 h:5>
+"We haven't had many Rank A
+prisoners like you recently.<New>
+That must be why the
+Committee have their
+eye on you.<New>
+A bit of drama for this
+year's Imperial Games...<Delay 10>
+Naaah, the Champ will win."<Close><End of Block>
+<TextBlock 76 w:52 h:5>
 Guard
-"<Delay 5>...<Delay 5>You lost to Suzanne and
-you're only Rank B so there
-is no reason for the
-Committee to notice you<Delay 5>..."<Close><End of Block>
+"<Delay 5>...<Delay 5>It's not as if the
+Committee would have their
+eye on a Rank B prisoner
+who lost to Suzanne<Delay 5>..."<Close><End of Block>
 <TextBlock 77 w:56 h:5>
 Guard
-"Next time you'll fight
-while piloting a big machine
+"Well, next time you'll
+fight on board a big machine
 called a Gear. Good luck and
 don't get yourself killed."<Close><End of Block>
 <TextBlock 78 w:48 h:5>
 Guard
 "Are those Imperial
 Capital Committee
-guys losing it?<New>
+folk losing it?<New>
 They're waiting around
 just to talk to a Rank C
 prisoner about entering
@@ -437,26 +459,30 @@ talking to a Rank D
 prisoner about entering
 the Battling.<New>
 What are they thinking?"<Close><End of Block>
-<TextBlock 83 w:54 h:4>
+<TextBlock 83 w:52 h:4>
 Guard
-"There are no prisoners
-locked up in here like you,
-who became a Battler in<New>
-such a short time.
+"It's unheard of...<New>
+A prisoner like you
+who's incarcerated here
+and becomes a Battler in
+such short order.<New>
 Hahaha, won't be able to
 take my eyes off the match
 this year<Delay 5>...<New>
 Well, <Delay 5>good luck.<Delay 15>
 I'll be rooting for you,<Delay 5>
 I guess."<Close><End of Block>
-<TextBlock 84 w:54 h:4>
+<TextBlock 84 w:42 h:4>
 Guard
 "What work?<Delay 20>
-I've only got one job.<New>
-<Delay 5>...<Delay 5>But I know there are
-lots of monsters down in
-Kislev's sewers.<Delay 15>
-Cleaning them up is a job."<Close><End of Block>
+To be frank with you,
+there's only one job.<New>
+<Delay 5>...<Delay 5>For some reason we
+don't know, monsters
+have settled in the
+D Block sewers.<New>
+Exterminating them is
+the job."<Close><End of Block>
 <TextBlock 85 w:54 h:3>
 Guard
 "Hey,<Delay 5> you!<New>
@@ -492,17 +518,17 @@ Received Dog Food!<Close><End of Block>
 Guard
 "You don't have 5G?<Delay 15>
 Are you a pauper<Delay 5>...?"<Close><End of Block>
-<TextBlock 92 w:60 h:4>
+<TextBlock 92 w:62 h:4>
 Guard
 "Hahaha.<Delay 10>
-That kid's at it again.<Delay 15>
-Do you know the kid's story?<New>
-If he squishes that coin
-it'll be worthless.<Delay 15>
+Those kids are at it again.<Delay 15>
+You heard them talking?<New>
+If they squish that coin, any
+value it has'll be gone, but...<Delay 15>
 Well, <Delay 5>ignorance is bliss<Delay 5>...<New>
-Besides, <Delay 5>he's never been
-successful. That old guy
-always gets mad at him.<Delay 15>
+Besides, <Delay 5>they've never been
+successful. The old guy in
+the tower gets mad at them.<Delay 15>
 Happens every time<Delay 5>..."<Close><End of Block>
 <TextBlock 93 w:54 h:4>
 Guard
@@ -526,12 +552,12 @@ Guard
 "<Delay 5>...<Delay 5>*sigh*...<Delay 10>
 I've had enough of D Block.<New>
 I wanna be transferred to
-the main city.<New>
+the ordinary civilian area.<New>
 <Delay 5>...<Delay 5>I mean,<Delay 5> as long as you
 prisoners have those bomb
 collars, <Delay 5>escape is
 impossible.<New>
-That's not too much to ask."<Close><End of Block>
+Best not get my hopes up."<Close><End of Block>
 <TextBlock 96 w:56 h:5>
 Guard
 "The guy who was previously
@@ -626,26 +652,26 @@ Sorry, Doc.<New>
 I completely forgot.<Delay 15>
 I'll have to go back to
 the dorm<Delay 5>..."<Close><End of Block>
-<TextBlock 116 w:28 h:3>
+<TextBlock 116 w:24 h:3>
 Fei
-"S-<Delay 5>Sir!<Delay 15>
-Aww, shoot<Delay 5>..."<Close><End of Block>
+"O-<Delay 5>Old man!?<Delay 15>
+Sheesh<Delay 5>..."<Close><End of Block>
 <TextBlock 117 w:56 h:3>
 Fei
 "<Delay 5>...<Delay 5>Sorry, Doc.<Delay 30>
 This is the sewer entrance."<Close><End of Block>
 <TextBlock 118 w:36 h:3>
 Fei
-"Hey, <Delay 5>Doc<Delay 5>...<Delay 15>
-what should I do?"<Close><End of Block>
+"D-<Delay 5>Doc<Delay 5>...<Delay 15> Now what
+are we gonna do?"<Close><End of Block>
 <TextBlock 119 w:52 h:4>
 Citan
 "The plan was a failure<Delay 5>...<Delay 15>
-I see.<Delay 30> Since we cannot
-turn back time<Delay 5>..."<Close><End of Block>
-<TextBlock 120 w:30 h:2>
+And since we cannot
+exactly turn back time<Delay 5>..."<Close><End of Block>
+<TextBlock 120 w:32 h:2>
 Fei
-"Sorry, <Delay 15>Rico<Delay 5>...<Opcode 2 60><Close><End of Block>
+"Sorry, <Delay 15>Rico<Delay 5>..."<Opcode 2 60><Close><End of Block>
 <TextBlock 121 w:46 h:3>
 Fei
 "<Delay 5>...<Delay 5>Huh?<Delay 15>
@@ -654,45 +680,46 @@ What does that say<Delay 5>...<Delay 5>?"<Opcode 2 60><Close><End of Block>
 <Opcode 1 255>We are closed for today.
 Until tomorrow, booty!
                  B-Info<Close><End of Block>
-<TextBlock 123 w:46 h:4>
+<TextBlock 123 w:44 h:4>
 Fei
 "<Delay 5>...<Delay 15>
-What,<Delay 5> even he sleeps at
-night?<Delay 5> ...Let's see."<Close><End of Block>
-<TextBlock 124 w:52 h:3>
+Huh,<Delay 5> I guess even this
+guy sleeps at night<Delay 5>...<New>
+Let's see, now."<Close><End of Block>
+<TextBlock 124 w:50 h:3>
 Citan
 "<Delay 5>...<Delay 5>Fei.<Delay 15>
 What are you doing?<New>
-Bothering that dog at this
-hour will wake everyone.
-Stop it!"<Close><End of Block>
+If you bother that dog at
+this hour, all hell will
+break loose.<Delay 10> Stop it!"<Close><End of Block>
 <TextBlock 125 w:48 h:3>
 Fei
 "Oh, sorry, Doc.<New>
 He's so noisy during the
-day, I was gonna play a
-trick on him<Delay 5>...<Delay 5>"<Close><End of Block>
+day. I was just gonna
+play a trick on him<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 126 w:54 h:4>
 Citan
 "Honestly, your liking for
 mischief is going to get us
 into trouble<Delay 5>...<New>
-Now, let us hurry.<Delay 5>
-The time is getting closer.<Delay 15>
-We do not have time to
-lollygag around."<Close><End of Block>
+Now, let us hurry.<Delay 10>
+Moment by moment, the hour
+is approaching.<Delay 15> There is
+really no time for idling."<Close><End of Block>
 <TextBlock 127 w:48 h:3>
 Citan
-"<Delay 5>...<Delay 5>Fei<Delay 15>
+"<Delay 5>...<Delay 5>Fei.<Delay 15>
 Where are you going?<New>
 The supply train will be
 here shortly.<Delay 15>
 <Delay 5>...<Delay 5>We must hurry."<Close><End of Block>
-<TextBlock 128 w:42 h:4>
+<TextBlock 128 w:36 h:4>
 Fei
 "Oh, sorry, Doc.
-<Delay 5>...<Delay 5>Let's hurry to the
-observation tower."<Close><End of Block>
+<Delay 5>...<Delay 5>Let's hurry to
+the watchtower."<Close><End of Block>
 <TextBlock 129 w:46 h:4>
 Fei
 "Shoot<Delay 5>...<Delay 5>it won't open.
@@ -879,10 +906,11 @@ Old Man
 "<Delay 5>...<Delay 5>Might as well.<Delay 15>
 It's the observation
 tower."<Close><End of Block>
-<TextBlock 151 w:46 h:3>
+<TextBlock 151 w:38 h:4>
 Fei
 "Observation tower?<Delay 15>
-What are you watching?"<Close><End of Block>
+What is it you're
+observing here?"<Close><End of Block>
 <TextBlock 152 w:44 h:3>
 Old Man
 "Hmph, you'll find out
@@ -925,22 +953,23 @@ over there.<New>
 Hurry, Fei!"<Close><End of Block>
 <TextBlock 159 w:54 h:4>
 Amazoness
-"S-<Delay 5>Sorry.<Delay 15>
-I<Delay 5>...can't go to the arena.<Delay 5><New>
-No matter what you say,
-I can't.
-Well,<Delay 5> it's time<Delay 5>...<New>
-Tonight's train will be
-coming through here<Delay 5>...<Delay 5>
+"I-<Delay 5>I'm sorry.<Delay 15> I<Delay 5>...can't
+go to the arena.<Delay 10> Call me
+hopeless, but I just can't.<New>
+Well,<Delay 5> it's almost time<Delay 5>...
+Tonight's supply train will
+pass through here soon<Delay 5>...<New>
 I wish you success.<Delay 15>
-Maybe<Delay 5>...we can meet again."<Close><End of Block>
+Hopefully we'll get
+through this...<Delay 5>and
+we can meet again."<Close><End of Block>
 <TextBlock 160 w:50 h:3>
 Amazoness
-"Hey, it's almost here.
+"Hey, it's nearly here.
 There's no time to talk."<Close><End of Block>
 <TextBlock 161 w:52 h:4>
 Battler
 "Sorry, <Delay 5>I was so worried
 about the Champ I couldn't
-leave.<Delay 15><New>
+bring myself to leave.<New>
 Rico's counting on you."<Close><Close><End of Block>
