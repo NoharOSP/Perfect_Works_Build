@@ -13,6 +13,7 @@
 #include <direct.h>
 #include "toolGenerator.h"
 #include "Window.h"
+#include "framework.h"
 
 #define MAX_LOADSTRING 100
 #define BUF_SIZE 300

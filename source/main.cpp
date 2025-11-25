@@ -1,9 +1,7 @@
 // main.cpp : Defines the entry point for the application.
-//
 
 // Includes:
 #include "pch.h"
-#include "framework.h"
 #include "main.h"
 
 // Entry point function
@@ -42,9 +40,6 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 	return (int)msg.wParam;
 }
 
-
-
-//
 //  FUNCTION: MyRegisterClass()
 //
 //  PURPOSE: Registers the window class.
@@ -70,15 +65,9 @@ ATOM MyRegisterClass(HINSTANCE hInstance)
 	return RegisterClassExW(&wcex);
 }
 
-//
 //   FUNCTION: InitInstance(HINSTANCE, int)
 //
 //   PURPOSE: Saves instance handle and creates main window
-//
-//   COMMENTS:
-//
-//        In this function, we save the instance handle in a global variable and
-//        create and display the main program window.
 //
 BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 {
@@ -100,7 +89,6 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 	return TRUE;
 }
 
-//
 //  FUNCTION: WndProc(HWND, UINT, WPARAM, LPARAM)
 //
 //  PURPOSE: Processes messages for the main window.
@@ -111,7 +99,6 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 //  WM_PAINT		 - Paint the main window
 //  WM_GETMINMAXINFO - Handle window size and position
 //  WM_DESTROY		 - Destroy window and return
-//
 //
 LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 {
