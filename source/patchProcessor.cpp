@@ -11,7 +11,6 @@ patchProcessor::patchProcessor(Window* win, HWND hWnd, int discNum, std::string 
 }
 
 patchProcessor::~patchProcessor() {
-
 }
 
 void patchProcessor::prepare() {
@@ -23,12 +22,13 @@ void patchProcessor::prepare() {
 		removeWhitespace();
 	}
 	std::filesystem::current_path(pWin->home);
-	if (fmvName1 != "" || fmvName2 != "") {
-		fmvVerify();
+	patchVerifier pv(pWin, this, num);
+	if (pWin->p_fmv) {
+		pv.fmvVerify();
 	}
 	if (gamefileVerify()) {
 		// Check for ticked boxes
-		tickedBoxes();
+		pv.verify();
 	}
 	initialisePatchLists();
 	if (filePathValid) {
@@ -36,10 +36,6 @@ void patchProcessor::prepare() {
 		if (oneDriveCheck()) {
 			start();
 		}
-		// Restore defaults
-		reinitialisePatches();
-		clearPatchLists();
-		pWin->restoreDefaults();
 	}
 	else {
 		MessageBox(patchWnd, L"Could not find directory for 'gamefiles'. Check repo for latest version.", L"Error", MB_ICONERROR);
@@ -63,27 +59,6 @@ void patchProcessor::removeWhitespace() {
 	space = true;
 }
 
-void patchProcessor::fmvVerify() {
-	// Access directory for patches if FMVs has been ticked
-	pWin->log_file << "Check if 'patches' directory exists." << std::endl;
-	if (std::filesystem::exists(patchPath)) {
-		std::filesystem::current_path(patchPath);
-		pWin->log_file << "'patches' directory is valid." << std::endl;
-		patchPathValid = true;
-		if (pWin->p_fmv) {
-			pWin->log_file << "FMV patch file found." << std::endl;
-			if (num == 1) {
-				fmvPatch1 = "cd1_fmvs.xdelta";
-				fmvName1 = "fmv1";
-			}
-			if (num == 2) {
-				fmvPatch2 = "cd2_fmvs.xdelta";
-				fmvName2 = "fmv2";
-			}
-		}
-	}
-}
-
 bool patchProcessor::gamefileVerify() {
 	// Access directory for files
 	pWin->log_file << "Check if 'gamefiles' directory is valid." << std::endl;
@@ -95,339 +70,17 @@ bool patchProcessor::gamefileVerify() {
 	return filePathValid;
 }
 
-void patchProcessor::tickedBoxes() {
-	if (!storyModeVerify()) {
-		if (!monsterVerify()) {
-			expVerify();
-			goldVerify();
-			arenaVerify();
-		}
-		encounterVerify();
-		itemSpellVerify();
-		fastVerify();
-		scriptVerify();
-		portraitsVerify();
-		graphicsVerify();
-		voiceVerify();
-		roniVerify();
-		cafeVerify();
-		bugVerify();
-		titleVerify();
-	}
-}
-
-bool patchProcessor::storyModeVerify() {
-	if (pWin->p_story_mode) {
-		if (!pWin->p_script) {
-			pWin->log_file << "Story mode directory found." << std::endl;
-			if (num == 1) {
-				storyModeName1 = "storyfiles_cd1";
-			}
-			if (num == 2) {
-				storyModeName2 = "storyfiles_cd2";
-			}
-		}
-		else {
-			pWin->log_file << "Story mode/retranslated script directory found." << std::endl;
-			if (num == 1) {
-				storyModeName1 = "storyfiles_script_cd1";
-			}
-			if (num == 2) {
-				storyModeName2 = "storyfiles_script_cd2";
-			}
-		}
-	}
-	return pWin->p_story_mode;
-}
-
-bool patchProcessor::monsterVerify() {
-	if (pWin->p_monsters) {
-		// Check if items/spells and script patches aren't selected to avoid compatibility issues.
-		if (!pWin->p_script && !pWin->p_items_spells) {
-			pWin->log_file << "Rebalanced monsters directory found." << std::endl;
-			monsterName = "Monsters";
-		}
-		else if (pWin->p_items_spells && !pWin->p_script) {
-			pWin->log_file << "Rebalanced monsters and party directory found." << std::endl;
-			monsterName = "monsters_items";
-		}
-		else if (!pWin->p_items_spells && pWin->p_script) {
-			pWin->log_file << "Rebalanced monsters/retranslated script directory found." << std::endl;
-			monsterName = "monsters_script";
-		}
-		else if (pWin->p_items_spells && pWin->p_script) {
-			pWin->log_file << "Rebalanced monsters and party/retranslated script directory found." << std::endl;
-			monsterName = "monsters_both";
-		}
-	}
-	return pWin->p_monsters;
-}
-
-bool patchProcessor::expVerify() {
-	bool exp = false;
-	if (pWin->p_expone || pWin->p_exptwo) {
-		pWin->log_file << "Experience directory found." << std::endl;
-		expName = "og_monsters";
-		exp = true;
-	}
-	return exp;
-}
-
-bool patchProcessor::goldVerify() {
-	bool gold = false;
-	if (pWin->p_goldone || pWin->p_goldtwo) {
-		pWin->log_file << "Gold directory found." << std::endl;
-		goldName = "og_monsters";
-		gold = true;
-	}
-	return gold;
-}
-
-bool patchProcessor::encounterVerify() {
-	if (pWin->p_encounters) {
-		// Check if script patches aren't selected to avoid compatibility issues. Otherwise, a merged folder will be used
-		if (!pWin->p_script) {
-			pWin->log_file << "Half encounters directory found." << std::endl;
-			if (num == 1) {
-				encountersName1 = "encounter_rate_1";
-			}
-			if (num == 2) {
-				encountersName2 = "encounter_rate_2";
-			}
-		}
-		else {
-			pWin->log_file << "Half encounters/retranslated script directory found." << std::endl;
-			if (num == 1) {
-				encountersName1 = "encounterone_script";
-			}
-			if (num == 2) {
-				encountersName2 = "encountertwo_script";
-			}
-		}
-	}
-	return pWin->p_encounters;
-}
-
-bool patchProcessor::itemSpellVerify() {
-	if (pWin->p_items_spells) {
-		// Check if the items/script hybrid patch needs to be applied
-		if (pWin->p_script) {
-			pWin->log_file << "Rebalanced party/retranslated script directory found." << std::endl;
-			if (num == 1) {
-				itemspellsName1 = "Script_items";
-			}
-			if (num == 2) {
-				itemspellsName2 = "Script_items2";
-			}
-		}
-		else {
-			pWin->log_file << "Rebalanced party directory found." << std::endl;
-			if (num == 1) {
-				itemspellsName1 = "items1";
-			}
-			if (num == 2) {
-				itemspellsName2 = "items2";
-			}
-		}
-	}
-	return pWin->p_items_spells;
-}
-
-bool patchProcessor::fastVerify() {
-	bool fast = false;
-	if (pWin->p_fastnew) {
-		pWin->log_file << "Retranslated fast text directory found." << std::endl;
-		if (num == 1) {
-			fastName1 = "text_cd1";
-		}
-		if (num == 2) {
-			// Disc 2 will use the same patch regardless of whether the script patch has been applied as it has no cutscenes with auto-advance
-			fastName2 = "text_cd2";
-		}
-		fast = true;
-
-	}
-	if (pWin -> p_fastold) {
-		pWin->log_file << "Fast text directory found." << std::endl;
-		if (num == 1) {
-			fastName1 = "text_old1";
-		}
-		if (num == 2) {
-			fastName2 = "text_cd2";
-		}
-		fast = true;
-	}
-	return fast;
-}
-
-bool patchProcessor::scriptVerify() {
-	if (pWin->p_script) {
-		// Check if items/spells and script hybrid won't be applied
-		if (!pWin->p_items_spells) {
-			pWin->log_file << "Retranslated script directory found." << std::endl;
-			if (num == 1) {
-				scriptName1 = "script1";
-			}
-			if (num == 2) {
-				scriptName2 = "script2";
-			}
-		}
-		else {
-			pWin->log_file << "Retranslated script/rebalanced party directory found." << std::endl;
-			if (num == 1) {
-				scriptName1 = "Script_items";
-			}
-			else {
-				scriptName2 = "Script_items2";
-			}
-		}
-	}
-	return pWin->p_script;
-}
-
-bool patchProcessor::arenaVerify() {
-	bool arena = false;
-	if (pWin->p_barena) {
-		if (!pWin->p_script) {
-			pWin->log_file << "Basic arena directory found." << std::endl;
-			arenaName = "filesbasic";
-		}
-		else {
-			pWin->log_file << "Basic arena/retranslated script directory found." << std::endl;
-			arenaName = "filesbasic_script";
-		}
-		arena = true;
-	}
-	if (pWin->p_earena) {
-		if (!pWin->p_script) {
-			pWin->log_file << "Expert arena directory found." << std::endl;
-			arenaName = "filesexpert";
-		}
-		else {
-			pWin->log_file << "Expert arena/retranslated script directory found." << std::endl;
-			arenaName = "filesexpert_script";
-		}
-		arena = true;
-	}
-	return arena;
-}
-
-bool patchProcessor::portraitsVerify() {
-	if (pWin->p_portraits) {
-		pWin->log_file << "Resized portraits directory found." << std::endl;
-		portraitsName = "portraits";
-	}
-	return pWin->p_portraits;
-}
-
-bool patchProcessor::graphicsVerify() {
-	bool graphics = false;
-	if (pWin->p_graphics) {
-		// Graphics edits outside of portraits are not applied to the items/spells or script patch here as they would cause crashes.
-		if (!pWin->p_items_spells && !pWin->p_script) {
-			if (!pWin->p_portraits) {
-				pWin->log_file << "Graphical fix directory found." << std::endl;
-				graphicsName = "graphics";
-			}
-			else {
-				pWin->log_file << "Graphical fix without portraits directory found." << std::endl;
-				graphicsName = "graphics_no_portraits";
-			}
-			graphics = true;
-		}
-		else if (!pWin->p_portraits) {
-			pWin->log_file << "Fixed portraits directory found." << std::endl;
-			graphicsName = "graphics_portraits";
-			graphics = true;
-		}
-	}
-	return graphics;
-}
-
-bool patchProcessor::voiceVerify() {
-	if (pWin->p_voice) {
-		pWin->log_file << "Undub in-game voice directory found." << std::endl;
-		voiceName = "voice";
-	}
-	return pWin->p_voice;
-}
-
-bool patchProcessor::roniVerify() {
-	if (pWin->p_roni) {
-		if (!pWin->p_portraits) {
-			pWin->log_file << "Non-resized Roni directory found." << std::endl;
-			roniName = "roni_pw\\default";
-		}
-		else {
-			pWin->log_file << "Resized Roni directory found." << std::endl;
-			roniName = "roni_pw\\resized";
-		}
-	}
-	return pWin->p_roni;
-}
-
-bool patchProcessor::cafeVerify() {
-	bool cafe = false;
-	if (pWin->p_cafe) {
-		if (num == 1) {
-			if (!pWin->p_script) {
-				pWin->log_file << "Original script Emeralda diner fix directory found." << std::endl;
-				cafeName = "emeralda_fix\\og_script";
-			}
-			else {
-				pWin->log_file << "New script Emeralda diner fix directory found." << std::endl;
-				cafeName = "emeralda_fix\\new_script";
-			}
-			cafe = true;
-		}
-	}
-	return cafe;
-}
-
-bool patchProcessor::bugVerify() {
-	bool bug = false;
-	// Bug patch is not applied with items/spells and script as they already have it applied.
-	if (!pWin->p_items_spells && !pWin->p_script) {
-		pWin->log_file << "Bug fix directory found." << std::endl;
-		if (num == 1) {
-			bugName1 = "bug_fix1";
-		}
-		if (num == 2) {
-			bugName2 = "bug_fix2";
-		}
-		bug = true;
-	}
-	return bug;
-}
-
-void patchProcessor::titleVerify() {
-	pWin->log_file << "Title screen directory found." << std::endl;
-	titleName = "title_screen";
-}
-
 // Initialise patch list
 void patchProcessor::initialisePatchLists() {
 	pWin->log_file << "Initialise patch names." << std::endl;
-	if (num == 1) {
-		patchList.emplace_back(encountersName1);
-		patchList.emplace_back(itemspellsName1);
-		patchList.emplace_back(fastName1);
-		patchList.emplace_back(scriptName1);
-		patchList.emplace_back(fmvName1);
-		patchList.emplace_back(fmvPatch1);
-		patchList.emplace_back(storyModeName1);
-		patchList.emplace_back(bugName1);
-	}
-	if (num == 2) {
-		patchList.emplace_back(encountersName2);
-		patchList.emplace_back(itemspellsName2);
-		patchList.emplace_back(fastName2);
-		patchList.emplace_back(scriptName2);
-		patchList.emplace_back(fmvName2);
-		patchList.emplace_back(fmvPatch2);
-		patchList.emplace_back(storyModeName2);
-		patchList.emplace_back(bugName2);
-	}
+	patchList.emplace_back(encountersName);
+	patchList.emplace_back(itemspellsName);
+	patchList.emplace_back(fastName);
+	patchList.emplace_back(scriptName);
+	patchList.emplace_back(fmvName);
+	patchList.emplace_back(fmvPatch);
+	patchList.emplace_back(storyModeName);
+	patchList.emplace_back(bugName);
 	patchList.emplace_back(portraitsName);
 	patchList.emplace_back(graphicsName);
 	patchList.emplace_back(expName);
@@ -535,19 +188,13 @@ bool patchProcessor::applyPatch() {
 		if (goldName != "") {
 			std::filesystem::copy(goldName, temp, std::filesystem::copy_options::update_existing);
 		}
-		if (scriptName1 != "") {
-			std::filesystem::copy(scriptName1, temp, std::filesystem::copy_options::overwrite_existing);
+		if (scriptName != "") {
+			std::filesystem::copy(scriptName, temp, std::filesystem::copy_options::overwrite_existing);
 		}
-		if (scriptName2 != "") {
-			std::filesystem::copy(scriptName2, temp, std::filesystem::copy_options::overwrite_existing);
+		if (encountersName != "") {
+			std::filesystem::copy(encountersName, temp, std::filesystem::copy_options::update_existing);
 		}
-		if (encountersName1 != "") {
-			std::filesystem::copy(encountersName1, temp, std::filesystem::copy_options::update_existing);
-		}
-		if (encountersName2 != "") {
-			std::filesystem::copy(encountersName2, temp, std::filesystem::copy_options::update_existing);
-		}
-		if (fastName1 != "" || fastName2 != "") {
+		if (fastName != "") {
 			// Copy executable to temp
 			if (!pWin->p_fmv) {
 				std::filesystem::copy(exeName, temp, std::filesystem::copy_options::update_existing);
@@ -556,12 +203,7 @@ bool patchProcessor::applyPatch() {
 					exeEdits(entry.path().string());
 				}
 			}
-			if (num == 1) {
-				std::filesystem::copy(fastName1, temp, std::filesystem::copy_options::update_existing);
-			}
-			if (num == 2) {
-				std::filesystem::copy(fastName2, temp, std::filesystem::copy_options::update_existing);
-			}
+			std::filesystem::copy(fastName, temp, std::filesystem::copy_options::update_existing);
 		}
 		if (portraitsName != "") {
 			std::filesystem::copy(portraitsName, temp, std::filesystem::copy_options::update_existing);
@@ -572,11 +214,8 @@ bool patchProcessor::applyPatch() {
 		if (arenaName != "") {
 			std::filesystem::copy(arenaName, temp, std::filesystem::copy_options::update_existing);
 		}
-		if (itemspellsName1 != "") {
-			std::filesystem::copy(itemspellsName1, temp, std::filesystem::copy_options::update_existing);
-		}
-		if (itemspellsName2 != "") {
-			std::filesystem::copy(itemspellsName2, temp, std::filesystem::copy_options::update_existing);
+		if (itemspellsName != "") {
+			std::filesystem::copy(itemspellsName, temp, std::filesystem::copy_options::update_existing);
 		}
 		if (monsterName != "") {
 			std::filesystem::copy(monsterName, temp, std::filesystem::copy_options::update_existing);
@@ -590,17 +229,11 @@ bool patchProcessor::applyPatch() {
 		if (cafeName != "") {
 			std::filesystem::copy(cafeName, temp, std::filesystem::copy_options::update_existing);
 		}
-		if (storyModeName1 != "") {
-			std::filesystem::copy(storyModeName1, temp, std::filesystem::copy_options::overwrite_existing);
+		if (storyModeName != "") {
+			std::filesystem::copy(storyModeName, temp, std::filesystem::copy_options::overwrite_existing);
 		}
-		if (storyModeName2 != "") {
-			std::filesystem::copy(storyModeName2, temp, std::filesystem::copy_options::overwrite_existing);
-		}
-		if (bugName1 != "") {
-			std::filesystem::copy(bugName1, temp, std::filesystem::copy_options::update_existing);
-		}
-		if (bugName2 != "") {
-			std::filesystem::copy(bugName2, temp, std::filesystem::copy_options::overwrite_existing);
+		if (bugName != "") {
+			std::filesystem::copy(bugName, temp, std::filesystem::copy_options::update_existing);
 		}
 		if (titleName != "") {
 			std::filesystem::copy(titleName, temp, std::filesystem::copy_options::update_existing);
@@ -617,11 +250,8 @@ bool patchProcessor::applyPatch() {
 				monsterEdits(entry.path().string());
 			}
 		}
-		if (fmvName1 != "") {
-			std::filesystem::copy(fmvName1, temp, std::filesystem::copy_options::update_existing);
-		}
-		if (fmvName2 != "") {
-			std::filesystem::copy(fmvName2, temp, std::filesystem::copy_options::update_existing);
+		if (fmvName != "") {
+			std::filesystem::copy(fmvName, temp, std::filesystem::copy_options::update_existing);
 		}
 		if (pWin->p_flashes) {
 			pWin->log_file << "Applying battle executable changes." << std::endl;
@@ -631,17 +261,12 @@ bool patchProcessor::applyPatch() {
 		}
 		std::filesystem::current_path(pWin->home);
 		changed = true;
-		if (fmvName1 != "" || fmvName2 != "") {
+		if (fmvName != "") {
 			// TODO: Move to function
 			pWin->log_file << "Applying FMV undub." << std::endl;
 			std::filesystem::current_path(pWin->home);
 			std::string patchName;
-			if (num == 1) {
-				patchName = fmvPatch1;
-			}
-			if (num == 2) {
-				patchName = fmvPatch2;
-			}
+			patchName = fmvPatch;
 			pWin->log_file << "Creating batch file commands." << std::endl;
 			if (patched) {
 				// Create copy of bin file to stack patches
@@ -688,7 +313,7 @@ bool patchProcessor::applyPatch() {
 	list_file.close();
 	batch_file.close();
 	// Execute patch file
-	if (fmvName1 != "" || fmvName2 != "") {
+	if (fmvName != "") {
 		pWin->log_file << "Executing batch file. Applying FMV patch and rewriting the file table." << std::endl;
 		int batch_exit_code = system("cmd.exe /c commands.cmd");
 	}
@@ -703,8 +328,8 @@ bool patchProcessor::applyPatch() {
 	}
 	// TODO: Move to function
 	// Insert new SLUS
-	if (fmvName1 != "" || fmvName2 != "") {
-		if (fastName1 != "" || fastName2 != "") {
+	if (fmvName != "") {
+		if (fastName != "") {
 			// Add fast text to softsubs SLUS
 			std::filesystem::current_path(gamefilePath);
 			if (num == 1) {
@@ -724,7 +349,7 @@ bool patchProcessor::applyPatch() {
 		pWin->log_file << "Creating new SLUS file." << std::endl;
 		batch_file2.open("commands2.cmd", std::ios::trunc);
 		if (num == 1) {
-			if (fastName1 == "") {
+			if (fastName == "") {
 				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\temp\\SLUS_006.64" << std::endl;
 			}
 			else {
@@ -732,7 +357,7 @@ bool patchProcessor::applyPatch() {
 			}
 		}
 		if (num == 2) {
-			if (fastName2 == "") {
+			if (fastName == "") {
 				batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\temp\\SLUS_006.69" << std::endl;
 			}
 			else {
@@ -788,7 +413,7 @@ void patchProcessor::exeEdits(std::string file) {
 	// Apply fast text changes
 	std::string trimfile = file;
 	trimfile.erase(0, 5);
-	if (fmvName1 == "" || fmvName2 == "") {
+	if (fmvName == "") {
 		// Check if filename is 0022
 		if (trimfile != "0022") {
 			return;
@@ -816,7 +441,7 @@ void patchProcessor::exeEdits(std::string file) {
 	int speed = 0x05;
 	fileContents.write(reinterpret_cast <char*>(&speed), 2);
 	// Apply additional FMV version edits
-	if (fmvName1 != "" || fmvName2 != "") {
+	if (fmvName != "") {
 		fileContents.seekp(151911, std::ios_base::beg);
 		int nextval = 0x34;
 		fileContents.write(reinterpret_cast <char*>(&nextval), 2);
@@ -971,6 +596,10 @@ void patchProcessor::finish() {
 		pWin->log_file << "Show failure message." << std::endl;
 		MessageBox(patchWnd, L"An error occurred with xenoiso. View pw_log for details.", L"Error", MB_ICONASTERISK);
 	}
+	// Restore defaults
+	reinitialisePatches();
+	clearPatchLists();
+	pWin->restoreDefaults();
 }
 
 // Removes patch names

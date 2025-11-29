@@ -159,6 +159,7 @@
     <ClInclude Include="framework.h" />
     <ClInclude Include="main.h" />
     <ClInclude Include="patchProcessor.h" />
+    <ClInclude Include="patchVerifier.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="romFinder.h" />
@@ -169,6 +170,7 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="patchProcessor.cpp" />
+    <ClCompile Include="patchVerifier.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

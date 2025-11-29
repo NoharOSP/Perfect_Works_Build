@@ -19,7 +19,6 @@ Window::Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle)
 }
 
 Window::~Window() {
-	log_file << "Closing the patcher." << std::endl;
 }
 
 void Window::initialise() {
