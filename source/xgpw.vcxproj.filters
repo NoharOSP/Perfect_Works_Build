@@ -45,6 +45,9 @@
     <ClInclude Include="patchVerifier.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="applyPatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -66,6 +69,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="patchVerifier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="applyPatch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

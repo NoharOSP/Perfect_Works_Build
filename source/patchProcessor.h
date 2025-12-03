@@ -7,6 +7,7 @@
 #include "Resource.h"
 #include "Window.h"
 #include "patchVerifier.h"
+#include "applyPatch.h"
 
 class Window;
 
@@ -22,19 +23,14 @@ public:
 	void start();
 	void initialisePatchLists();
 	void finish();
-	void exeEdits(std::string file);
-	void monsterEdits(std::string file);
-	void battleExeEdits(std::string file);
 	void reinitialisePatches();
 	void clearPatchLists();
 	bool gamefileVerify();
 	bool oneDriveCheck();
-	bool applyPatch();
 
 	// Global variables
 public:
 	HWND patchWnd;
-	bool changed = false;
 	bool space = false;
 	bool filePathValid = false;
 	bool successMessage = false;
@@ -61,12 +57,10 @@ public:
 	std::string goldName = "";
 	std::string fmvPatch = "";
 	std::string cafeName = "";
-	std::string temp = "temp";
 	std::string exeName = "executable";
 	std::string slusDisc1 = "sub_executable\\disc1";
 	std::string slusDisc2 = "sub_executable\\disc2";
 	Window* pWin;
 	std::vector<std::string> patchList;
-	std::ofstream cue_stream;
 };
 
