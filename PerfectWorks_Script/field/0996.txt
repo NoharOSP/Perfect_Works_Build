@@ -225,31 +225,31 @@ what we are fighting over<Delay 5>...<Delay 5>
 Will there ever be an end
 to all this fighting?<Close><End of Block>
 <TextBlock 46 w:56 h:4>
-Imperial City Guard
+Imperial Guard
 "This is the north gate of A
 Block. The road leads to the
 Central District.<New>
 That is where the Kislev
 Imperial Government is."<Close><End of Block>
 <TextBlock 47 w:54 h:5>
-Imperial City Guard
+Imperial Guard
 "It's after sundown.<Delay 15> Non-
 Imperial Capital personnel
 must show a permission slip
 in order to pass!"<Close><End of Block>
 <TextBlock 48 w:42 h:3>
-Imperial City Guard
+Imperial Guard
 "I'll have to ask you
 to please leave!"<Opcode 2 45><Close><End of Block>
 <TextBlock 49 w:56 h:4>
-Imperial City Guard
+Imperial Guard
 "This is the north gate of A
 Block. The road leads to the
 Central District.<New>
 That is where the Kislev
 Imperial Government is."<Close><End of Block>
 <TextBlock 50 w:54 h:4>
-Imperial City Guard
+Imperial Guard
 "Too bad, but it doesn't
 matter if you're the
 Battling Champion or not.<New>
@@ -258,29 +258,29 @@ permission!
 Sorry but I have to ask you
 to withdraw!"<Close><End of Block>
 <TextBlock 51 w:58 h:2>
-Imperial City Guard
+Imperial Guard
 "Please turn back and leave!"<Opcode 2 45><Close><End of Block>
 <TextBlock 52 w:54 h:4>
-Imperial City Guard
+Imperial Guard
 "Sorry but this is my duty.<Delay 15>
 I have to ask you to turn
 round and go back!"<Opcode 2 60><Close><End of Block>
 <TextBlock 53 w:58 h:6>
-Imperial City Guard
+Imperial Guard
 "It is after sundown already.<Delay 15>
 Journeying outside of the
 Imperial Capital's perimeter
 is dangerous. I can not let
 you leave now!"<Close><End of Block>
-<TextBlock 54 w:38 h:2>
-Imperial City Guard
+<TextBlock 54 w:28 h:2>
+Imperial Guard
 "Egads<Delay 5>...<Delay 5>!"<Opcode 2 45><Close><End of Block>
-<TextBlock 55 w:38 h:3>
-Imperial City Guard
-"D-Didn't I try to
-tell you<Delay 5>...?"<Opcode 2 45><Close><End of Block>
+<TextBlock 55 w:32 h:3>
+<Opcode 1 3>Imperial Guard
+"D-Didn't I try
+to tell you<Delay 5>...?"<Opcode 2 60><Close><End of Block>
 <TextBlock 56 w:56 h:4>
-Imperial City Guard
+Imperial Guard
 "You're the Battling Champ!?<New>
 Beyond here you'll leave the
 safety of the Imperial
@@ -290,17 +290,17 @@ Perhaps you don't need me
 to tell you this, but
 please do take care!"<Close><End of Block>
 <TextBlock 57 w:56 h:3>
-Imperial City Guard
+Imperial Guard
 "<Delay 5>...?<Delay 15> I guess I'm 
 imagining things<Delay 5>...<New>
 Anyway, welcome to Noatun,
 the Kislev Imperial Capital.
 Greetings and salutations!"<Close><End of Block>
-<TextBlock 58 w:42 h:2>
-Imperial City Guard
+<TextBlock 58 w:30 h:2>
+Imperial Guard
 "M-My medal<Delay 5>..."<Opcode 2 45><Close><End of Block>
 <TextBlock 59 w:46 h:4>
-Imperial City Guard
+Imperial Guard
 "Noatun, our Imperial
 Capital, is a powerful
 military state.<New>
@@ -308,13 +308,13 @@ Breidablik, the capital
 of the Kingdom of Av,
 is at war against us."<Close><End of Block>
 <TextBlock 60 w:56 h:5>
-Imperial City Guard
+Imperial Guard
 "That's strange<Delay 5>...<Delay 15> Haven't
 I seen you somewhere before?<Delay 30>
 Hmm, I must have the wrong 
 person<Delay 5>...<Delay 5> Ahh, sorry."<Close><End of Block>
 <TextBlock 61 w:56 h:6>
-Imperial City Guard
+Imperial Guard
 "Because martial law has
 been imposed throughout the
 whole Imperial Capital area,
@@ -327,20 +327,20 @@ of the confusion during
 Av's raid on our Capital,
 hiding out in these parts."<Close><End of Block>
 <TextBlock 62 w:52 h:6>
-Imperial City Guard
+Imperial Guard
 "Hmm<Delay 5>...?<Delay 10> Don't I know you 
 from somewhere<Delay 5>...?<Delay 10>
 Oh well, guess not.<Delay 15>
 Anyway, that's the way it
 is, so please cooperate."<Close><End of Block>
 <TextBlock 63 w:58 h:5>
-Imperial City Guard
+Imperial Guard
 "Sorry, but after sunset
 nobody can pass through here!
 That goes for Battling
 Champions as well!"<Close><End of Block>
 <TextBlock 64 w:56 h:5>
-Imperial City Guard
+Imperial Guard
 "This is the Kislev Imperial
 Capital barracks.
 Entrance without permission
@@ -350,10 +350,10 @@ Champion?<Delay 15> Permission?<Delay 5>
 Why, you don't need that!<Delay 5>
 You're the Champ!"<Close><End of Block>
 <TextBlock 65 w:58 h:2>
-Imperial City Guard
+Imperial Guard
 "Well then,<Delay 5> please do enter."<Close><End of Block>
 <TextBlock 66 w:56 h:5>
-Imperial City Guard
+Imperial Guard
 "The head cook told us off.
 I'd like to let you enter,
 but for a while the barracks
@@ -424,7 +424,7 @@ something! Be warned, now!"<Close><End of Block>
 Tool Guy
 "Alright now,<Delay 5> opening up!"<Close><End of Block>
 <TextBlock 82 w:58 h:4>
-Imperial City Guard
+Imperial Guard
 "Due to the attack on the
 Imperial Capital by our
 enemy, the Kingdom of Av...<New>
@@ -432,7 +432,7 @@ non-army personnel are not
 allowed to pass into the
 Central District!"<Close><End of Block>
 <TextBlock 83 w:52 h:4>
-Imperial City Guard
+Imperial Guard
 "Please keep back!<Delay 30>
 <Delay 5>...<Delay 5>Oh, and by the way, you
 look awfully familiar<Delay 5>..."<Close><End of Block>
@@ -441,40 +441,40 @@ Fei
 "Huh<Delay 15>...?<Delay 5>
 Oops, sorry, my mistake!"<Close><End of Block>
 <TextBlock 85 w:50 h:4>
-Imperial City Guard
+Imperial Guard
 "<Delay 5>...<Delay 5>Hey!<Delay 10> Isn't he the guy
 in the wanted poster<Delay 5>...<Delay 15>
 perhaps?"<Close><End of Block>
 <TextBlock 86 w:54 h:5>
-Imperial City Guard
+Imperial Guard
 "<Delay 5>...<Delay 5>Is it?<Delay 15> They say that
 everyone has two or three
 people that look exactly
 like them in this world<Delay 5>..."<Close><End of Block>
 <TextBlock 87 w:56 h:6>
-Imperial City Guard
+Imperial Guard
 "Besides, even if he was
 that wanted guy, what
 chance would mere guards
 like us have against him?
 He's the ex-Battling Champ!"<Close><End of Block>
 <TextBlock 88 w:58 h:2>
-Imperial City Guard
+Imperial Guard
 "Let sleeping dogs lie, huh?"<Close><End of Block>
 <TextBlock 89 w:56 h:5>
-Imperial City Guard
+Imperial Guard
 "Exactly! So even if we were
 to see him here, then we'd
 just pretend that we haven't
 seen him, okay?"<Close><End of Block>
 <TextBlock 90 w:50 h:5>
-Imperial City Guard
+Imperial Guard
 <Opcode 1 3>"Hey, that guy! He's the
 ex-Champ who broke into
 the arena with his Gear
 and is now wanted!"<Close><End of Block>
 <TextBlock 91 w:38 h:3>
-Imperial City Guard
+Imperial Guard
 "Gah!
 Are you stupid!?"<Close><End of Block>
 <TextBlock 92 w:50 h:4>
@@ -502,16 +502,16 @@ Elly
 We're really doing
 this?"<Close><End of Block>
 <TextBlock 97 w:50 h:2>
-Imperial City Guard
+Imperial Guard
 "Oh no! They're serious!"<Opcode 2 20><Close><End of Block>
 <TextBlock 98 w:44 h:3>
-Imperial City Guard
+Imperial Guard
 "There's no way we can
 beat the Champion!!!"<Opcode 2 30><Close><End of Block>
-<TextBlock 99 w:42 h:3>
-Imperial City Guard
+<TextBlock 99 w:36 h:3>
+<Opcode 1 3>Imperial Guard
 "Hahaa!
-I'll get a medal!"<Opcode 2 30><Close><End of Block>
+I'll get a medal!"<Opcode 2 45><Close><End of Block>
 <TextBlock 100 w:30 h:3>
 Fei
 "You<Delay 5>...<Delay 5> Rico!<Delay 15>
