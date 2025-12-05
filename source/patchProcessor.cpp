@@ -25,6 +25,7 @@ void patchProcessor::prepare() {
 	patchVerifier pv(pWin, this, num);
 	if (pWin->p_fmv) {
 		pv.fmvVerify();
+		std::filesystem::current_path(pWin->home);
 	}
 	if (gamefileVerify()) {
 		// Check for ticked boxes

@@ -111,7 +111,7 @@ void applyPatch::createFiles() {
 void applyPatch::popTemp() {
 	pWin->log_file << "Copy files from each selected option into the temporary directory." << std::endl;
 	for (int i = 0; i < pp->patchList.size(); i++) {
-		if (pp->patchList[i] != "") {
+		if (pp->patchList[i] != "" && pp->patchList[i] != pp->fmvPatch) {
 			if (pp->patchList[i] == pp->fastName) {
 				// Copy executable to temp
 				if (!pWin->p_fmv) {
@@ -318,10 +318,10 @@ void applyPatch::applyFMV() {
 		pWin->log_file << "Write command for xdelta to apply the FMV patches." << std::endl;
 		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s backup.bin patches\\" + patchName + " \"" + fileName + "\" \n" << std::endl;
 		if (num == 1) {
-			batch_file << "Tools\\Insert_pWin->log_file.exe " + fileName + " Tools\\xenocd1_softmod_files_extended.txt -new" << std::endl;
+			batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd1_softmod_files_extended.txt -new" << std::endl;
 		}
 		if (num == 2) {
-			batch_file << "Tools\\Insert_pWin->log_file.exe " + fileName + " Tools\\xenocd2_softmod_files_extended.txt -new" << std::endl;
+			batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd2_softmod_files_extended.txt -new" << std::endl;
 		}
 	}
 	else {
@@ -330,10 +330,10 @@ void applyPatch::applyFMV() {
 		changed = true;
 		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s \"" + oldPath + "\" patches\\" + patchName + " \"" + fileName + "\" \n" << std::endl;
 		if (num == 1) {
-			batch_file << "Tools\\Insert_pWin->log_file.exe " + fileName + " Tools\\xenocd1_softmod_files_extended.txt -new" << std::endl;
+			batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd1_softmod_files_extended.txt -new" << std::endl;
 		}
 		if (num == 2) {
-			batch_file << "Tools\\Insert_pWin->log_file.exe " + fileName + " Tools\\xenocd2_softmod_files_extended.txt -new" << std::endl;
+			batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd2_softmod_files_extended.txt -new" << std::endl;
 		}
 		patched = true;
 	}
@@ -378,7 +378,7 @@ void applyPatch::editSLUS() {
 	pWin->log_file << "Creating new SLUS file." << std::endl;
 	batch_file2.open("commands2.cmd", std::ios::trunc);
 	if (num == 1) {
-		if (pp->fastName == "") {
+		if (pp->fastName != "") {
 			batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\temp\\SLUS_006.64" << std::endl;
 		}
 		else {
