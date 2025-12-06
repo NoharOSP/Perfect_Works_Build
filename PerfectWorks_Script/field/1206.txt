@@ -13,7 +13,7 @@ big, so I'm having it
 kept on the deck.<New>
 If you need <Seibzehn>
 he'll be ready for
-take-off anytime!<Close><End of Block>
+take-off anytime!"<Close><End of Block>
 <TextBlock 4 w:24 h:3>
 Emeralda
 "Emeralda<Delay 5>...<Delay 10>

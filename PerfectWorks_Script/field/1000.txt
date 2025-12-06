@@ -4,11 +4,11 @@ Fei
 punks!!"<Close><End of Block>
 <TextBlock 2 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
-<TextBlock 3 w:22 h:4>
+<TextBlock 3 w:36 h:4>
 Citan
-"Again...!<Delay 10>
-Fei, hurry,
-jump off!!"<Close><End of Block>
+"More bad luck...!<Delay 10>
+Fei, quickly, let
+us jump across!!"<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Citan
 "Whew, that was a close
@@ -30,13 +30,13 @@ loving someone..."<Close><End of Block>
 Fei
 "Huh? You say
 something<Delay 10>?"<Close><End of Block>
-<TextBlock 8 w:46 h:4>
+<TextBlock 8 w:48 h:4>
 Citan
-"Well anyway, we should
-be alright if we take
-this all the way.<New>
-As for the mission...
-So far, so good."<Close><End of Block>
+"Well, anyway,
+we should be fine to
+ride it like this.<New>
+I'd say the operation
+is off to a good start."<Close><End of Block>
 <TextBlock 9 w:40 h:2>
 Fei
 "What's that sound?"<Close><End of Block>
@@ -80,10 +80,10 @@ coming up soon."<Close><End of Block>
 <TextBlock 18 w:28 h:2>
 Citan
 "Here we go!!"<Opcode 2 90><Close><End of Block>
-<TextBlock 19 w:32 h:1>
-There it goes...<Opcode 2 90><Close><End of Block>
-<TextBlock 20 w:32 h:1>
-There it goes...<Opcode 2 90><Close><End of Block>
+<TextBlock 19 w:30 h:1>
+Away it goes...<Opcode 2 90><Close><End of Block>
+<TextBlock 20 w:30 h:1>
+Away it goes...<Opcode 2 90><Close><End of Block>
 <TextBlock 21 w:36 h:4>
 Aaaaaaaaaaaaaaaaa<Delay 10>
    aaaaaaaaaaaa<Delay 10>

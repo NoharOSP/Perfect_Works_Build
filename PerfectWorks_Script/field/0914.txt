@@ -9,9 +9,9 @@ Margie
 Actually it's Marguerite.
 What do you want to know?<New>
 My favorite food? I like
-cake, Chiffon Nisan is my
-favorite. I haven't had
-it in so long..."<Close><End of Block>
+cake <--> Chiffon Nisana
+is my favorite. I haven't
+had it in so long..."<Close><End of Block>
 <TextBlock 3 w:50 h:4>
 Ramsus
 "Marguerite, we want to
@@ -33,7 +33,7 @@ You didn't even give
 me anything for it.<New>
 Hey, the next time you
 come, could you bring
-some Chiffon Nisan?<New>
+some Chiffon Nisana?<New>
 I used to eat it
 every day in Nisan.
 I don't think they

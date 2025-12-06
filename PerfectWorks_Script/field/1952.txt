@@ -10,7 +10,7 @@ one got old.<Close><End of Block>
 Karellen
 "...<Delay 5>And the name?"<Close><End of Block>
 <TextBlock 4 w:44 h:3>
-Karen<Delay 5>...<Delay 15>
+It's Karen<Delay 5>...<Delay 15>
 But individual names
 are meaningless to me.<Close><End of Block>
 <TextBlock 5 w:32 h:4>
@@ -22,15 +22,14 @@ specifically?"<Close><End of Block>
 Karen
 "Is the thing inside
 that reactor<Delay 10> the one?"<Close><End of Block>
-<TextBlock 7 w:46 h:4>
+<TextBlock 7 w:50 h:4>
 Karellen
 "Hm?<Delay 10> ...Oh.<Delay 15>
 Identification code:
 0808191-'Ramses'.<New>
 I'm telling the Emperor
-that it's the pattern
-for artificial human
-zygotes."<Close><End of Block>
+that it's the prototype
+for a man-made symbiote."<Close><End of Block>
 <TextBlock 8 w:40 h:2>
 Karen
 "What's its status?"<Close><End of Block>
