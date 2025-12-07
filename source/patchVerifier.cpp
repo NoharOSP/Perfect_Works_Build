@@ -40,16 +40,16 @@ void patchVerifier::verify() {
 		}
 		encounterVerify();
 		itemSpellVerify();
-		fastVerify();
-		scriptVerify();
-		portraitsVerify();
-		graphicsVerify();
-		voiceVerify();
-		roniVerify();
-		cafeVerify();
-		bugVerify();
-		titleVerify();
 	}
+	fastVerify();
+	scriptVerify();
+	portraitsVerify();
+	graphicsVerify();
+	voiceVerify();
+	roniVerify();
+	cafeVerify();
+	bugVerify();
+	titleVerify();
 }
 
 bool patchVerifier::storyModeVerify() {

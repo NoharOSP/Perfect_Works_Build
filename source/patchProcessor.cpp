@@ -125,7 +125,14 @@ void patchProcessor::start() {
 		pWin->log_file << "xenoiso process failed." << std::endl;
 		successMessage = false;
 	}
-	finish();
+	if (num == 1) {
+		if (!pWin->pathFound2) {
+			finish();
+		}
+	}
+	else {
+		finish();
+	}
 }
 
 void patchProcessor::finish() {
