@@ -386,7 +386,7 @@ void applyPatch::editSLUS() {
 		}
 	}
 	if (num == 2) {
-		if (pp->fastName == "") {
+		if (pp->fastName != "") {
 			batch_file2 << "Tools\\Xeno_slus_ins.exe " + fileName + " gamefiles\\temp\\SLUS_006.69" << std::endl;
 		}
 		else {
