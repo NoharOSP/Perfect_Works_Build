@@ -1,9 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
 
-Download the latest release here: 
+Download the latest release here:
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.8.1
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.8.2
   
 ## Instructions:
 
@@ -38,6 +38,23 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The 2x exp and gold patches were designed to work with the lower encounter rate patch. The monster stats and party/item patch both act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history:
+
+### Version 0.8.2:
+
+12/07/2025
+
+- An option is now available to have Emeralda use a sitting sprite in a diner over her nanoreactor one.
+- eboot themes are now available for players emulating the build via PSP.
+- Deathblows have had their Hyper Mode point distribution increased. Details are in the wiki.
+- Dialogue variations with kids in the D Block slums have been restored.
+- Prison guard messages will close automatically when out of range.
+- Border has been added to the message when inspecting the sleeping dog at D Block.
+- Portrait has been added to Fei when falling off the train in the tunnel.
+- Skull Rod can now only be used by Elly and has actual data assigned to it. Details are in the wiki.
+- Aerods has had its description updated so "Active" replaces "Animum".
+- Ramsus kneeling animation in Merkabah has been fixed.
+- Overlapping windows when Rico defeats the Kislev guards has been fixed.
+- Deus' eyes are now closed before it is awakened.
 
 ### Version 0.8.1:
 
@@ -95,9 +112,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ### [Battle Arena](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Battling-Arena)
 
-### [Character Portraits](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Character-Portraits)
-
-### [Graphical Fixes](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Graphical-Fixes)
+### [Graphic options](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Graphics)
 
 ### [Quality of Life Features](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Extra-QOL-Features)
 
@@ -131,7 +146,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - rulv: Programming
 - Rufas: Programming, graphical fixes, Xenogears and PSX tools
 - krmine: Translation, programming
-- edrovinhaz: Translation, programming, graphical fixes, icons
+- edrovinhaz: Translation, programming, graphical fixes, icons, eboot themes
 - cthuljew: Testing
 - Streetwize (@StreetwizeJJ2): Character balance, battle arena, programming, fast text
 - Siris: Story mode, translation, programming, graphical fixes, softsub text and timings
