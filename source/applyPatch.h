@@ -23,6 +23,7 @@ public:
 	void checkFile();
 	void createFiles();
 	void popTemp();
+	void iterateTemp();
 	void exeEdits(std::string file);
 	void monsterEdits(std::string file);
 	void battleExeEdits(std::string file);
@@ -40,7 +41,6 @@ public:
 	std::string cdName;
 	std::string temp = "temp";
 	bool patched = false;
-	bool changed = false;
 	Window* pWin;
 	int num;
 	patchProcessor* pp;

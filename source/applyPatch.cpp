@@ -45,26 +45,8 @@ bool applyPatch::patch() {
 		std::filesystem::current_path(pp->gamefilePath);
 		std::filesystem::create_directory(temp);
 		popTemp();
-		if (pp->expName != "" || pp->goldName != "") {
-			// Iterate through enemy files to apply exp or gold changes
-			if (pp->expName != "") {
-				pWin->log_file << "Applying exp changes." << std::endl;
-			}
-			if (pp->goldName != "") {
-				pWin->log_file << "Applying gold changes." << std::endl;
-			}
-			for (const auto& entry : std::filesystem::directory_iterator(temp)) {
-				monsterEdits(entry.path().string());
-			}
-		}
-		if (pWin->p_flashes) {
-			pWin->log_file << "Applying battle executable changes." << std::endl;
-			for (const auto& entry : std::filesystem::directory_iterator(temp)) {
-				battleExeEdits(entry.path().string());
-			}
-		}
+		iterateTemp();
 		std::filesystem::current_path(pWin->home);
-		changed = true;
 		if (pp->fmvName != "") {
 			applyFMV();
 		}
@@ -74,12 +56,11 @@ bool applyPatch::patch() {
 			batch_file << "copy \"" + fileName + "\" " + oldPath + "\n" << std::endl;
 			batch_file << "del \"" + fileName + "\" \n" << std::endl;
 		}
+		else {
+			patched == true;
+		}
 		pWin->log_file << "Write list file for xenoiso." << std::endl;
 		list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
-		pWin->log_file << "Check if FMVs have been ticked." << std::endl;
-		if (patched != true) {
-			patched = true;
-		}
 	}
 	list_file.close();
 	batch_file.close();
@@ -123,6 +104,27 @@ void applyPatch::popTemp() {
 				}
 			}
 			std::filesystem::copy(pp->patchList[i], temp, std::filesystem::copy_options::update_existing);
+		}
+	}
+}
+
+void applyPatch::iterateTemp() {
+	if (pp->expName != "" || pp->goldName != "") {
+		// Iterate through enemy files to apply exp or gold changes
+		if (pp->expName != "") {
+			pWin->log_file << "Applying exp changes." << std::endl;
+		}
+		if (pp->goldName != "") {
+			pWin->log_file << "Applying gold changes." << std::endl;
+		}
+		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+			monsterEdits(entry.path().string());
+		}
+	}
+	if (pWin->p_flashes) {
+		pWin->log_file << "Applying battle executable changes." << std::endl;
+		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+			battleExeEdits(entry.path().string());
 		}
 	}
 }
@@ -327,7 +329,6 @@ void applyPatch::applyFMV() {
 	else {
 		// Apply patches
 		pWin->log_file << "Write command for xdelta to apply the FMV patches." << std::endl;
-		changed = true;
 		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s \"" + oldPath + "\" patches\\" + patchName + " \"" + fileName + "\" \n" << std::endl;
 		if (num == 1) {
 			batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd1_softmod_files_extended.txt -new" << std::endl;
