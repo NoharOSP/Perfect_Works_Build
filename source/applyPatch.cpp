@@ -37,33 +37,7 @@ void applyPatch::initialise() {
 }
 
 bool applyPatch::patch() {
-	checkFile();
-	createFiles();
-	if (!pp->patchList.empty()) {
-		// Create ROMs using xenoiso
-		pWin->log_file << "Create temporary directory." << std::endl;
-		std::filesystem::current_path(pp->gamefilePath);
-		std::filesystem::create_directory(temp);
-		popTemp();
-		iterateTemp();
-		std::filesystem::current_path(pWin->home);
-		if (pp->fmvName != "") {
-			applyFMV();
-		}
-		if (patched == true) {
-			pWin->log_file << "Create a backup ROM if the FMV patch has been applied." << std::endl;
-			oldPath = "backup.bin";
-			batch_file << "copy \"" + fileName + "\" " + oldPath + "\n" << std::endl;
-			batch_file << "del \"" + fileName + "\" \n" << std::endl;
-		}
-		else {
-			patched == true;
-		}
-		pWin->log_file << "Write list file for xenoiso." << std::endl;
-		list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
-	}
-	list_file.close();
-	batch_file.close();
+	prepareFiles();
 	executeBat();
 	if (pp->fmvName != "") {
 		editSLUS();
@@ -71,6 +45,28 @@ bool applyPatch::patch() {
 	cleanup();
 	makeCue();
 	return verifyPatch();
+}
+
+void applyPatch::prepareFiles() {
+	checkFile();
+	createFiles();
+	if (!pp->patchList.empty()) {
+		createTemp();
+		std::filesystem::current_path(pWin->home);
+		if (pp->fmvName != "") {
+			applyFMV();
+		}
+		if (patched) {
+			backupROM();
+		}
+		else {
+			patched = true;
+		}
+		pWin->log_file << "Write list file for xenoiso." << std::endl;
+		list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
+	}
+	list_file.close();
+	batch_file.close();
 }
 	
 void applyPatch::checkFile() {
@@ -87,6 +83,15 @@ void applyPatch::createFiles() {
 	list_file.open("list.txt", std::ios::trunc);
 	pWin->log_file << "Creating xdelta command file." << std::endl;
 	batch_file.open("commands.cmd", std::ios::trunc);
+}
+
+void applyPatch::createTemp() {
+	// Create ROMs using xenoiso
+	pWin->log_file << "Create temporary directory." << std::endl;
+	std::filesystem::current_path(pp->gamefilePath);
+	std::filesystem::create_directory(temp);
+	popTemp();
+	iterateTemp();
 }
 
 void applyPatch::popTemp() {
@@ -129,6 +134,7 @@ void applyPatch::iterateTemp() {
 	}
 }
 
+// TODO: Move to class
 void applyPatch::exeEdits(std::string file) {
 	// Apply fast text changes
 	std::string trimfile = file;
@@ -170,6 +176,7 @@ void applyPatch::exeEdits(std::string file) {
 	fileContents.close();
 }
 
+// TODO: Move to class
 void applyPatch::monsterEdits(std::string file) {
 	// Apply 1.5 exp or 1.5 gold changes
 	// Check if filename is between 2618 and 2768
@@ -274,6 +281,7 @@ void applyPatch::monsterEdits(std::string file) {
 	fileContents.close();
 }
 
+// TODO: Move to class
 // Remove battle flashes
 void applyPatch::battleExeEdits(std::string file) {
 	std::string trimfile = file;
@@ -340,6 +348,13 @@ void applyPatch::applyFMV() {
 	}
 }
 
+void applyPatch::backupROM() {
+	pWin->log_file << "Create a backup ROM if the FMV patch has been applied." << std::endl;
+	oldPath = "backup.bin";
+	batch_file << "copy \"" + fileName + "\" " + oldPath + "\n" << std::endl;
+	batch_file << "del \"" + fileName + "\" \n" << std::endl;
+}
+
 void applyPatch::executeBat() {
 	// Execute patch file
 	if (pp->fmvName != "") {
@@ -357,6 +372,7 @@ void applyPatch::executeBat() {
 	}
 }
 
+// TODO: Move to class
 void applyPatch::editSLUS() {
 	// Insert new SLUS
 	if (pp->fastName != "") {
