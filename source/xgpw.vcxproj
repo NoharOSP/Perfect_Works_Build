@@ -157,6 +157,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="applyPatch.h" />
+    <ClInclude Include="fileEditor.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="main.h" />
     <ClInclude Include="patchProcessor.h" />
@@ -170,6 +171,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="applyPatch.cpp" />
+    <ClCompile Include="fileEditor.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="patchProcessor.cpp" />
     <ClCompile Include="patchVerifier.cpp" />

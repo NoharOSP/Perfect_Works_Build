@@ -7,9 +7,11 @@
 #include "Resource.h"
 #include "Window.h"
 #include "patchProcessor.h"
+#include "fileEditor.h"
 
 class Window;
 class patchProcessor;
+class fileEditor;
 
 class applyPatch
 {
@@ -26,13 +28,9 @@ public:
 	void createTemp();
 	void popTemp();
 	void iterateTemp();
-	void exeEdits(std::string file);
-	void monsterEdits(std::string file);
-	void battleExeEdits(std::string file);
 	void applyFMV();
 	void backupROM();
 	void executeBat();
-	void editSLUS();
 	void cleanup();
 	void makeCue();
 
@@ -50,5 +48,6 @@ public:
 	std::ofstream list_file;
 	std::ofstream batch_file;
 	std::ofstream cue_stream;
+	fileEditor* pFE;
 };
 
