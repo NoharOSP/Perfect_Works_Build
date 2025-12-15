@@ -14,40 +14,34 @@ fileEditor::~fileEditor() {
 }
 
 void fileEditor::monsterEdits(std::string file) {
-	// Apply 1.5 exp or 1.5 gold changes
 	// Check if filename is between 2618 and 2768
-	std::string trimfile = file;
-	trimfile.erase(0, 5);
-	int fileNum = 0;
-	if (trimfile[0] == '2') {
-		if (trimfile[1] == '6' || trimfile[1] == '7') {
-			if (trimfile[4] != '.') {
-				fileNum = std::stoi(trimfile);
-				if (fileNum < 2618) {
-					return;
-				}
-			}
-			else {
-				return;
-			}
-		}
-		else {
-			return;
-		}
-	}
-	else {
+	std::string trimfile = fileTrim(file);
+	int fileNum = std::stoi(trimfile);
+	if (fileNum < 2618) {
 		return;
 	}
+	if (fileNum > 2768) {
+		return;
+	}
+	// Iterate through each monster
+	iterateMonster(file);
+}
+
+std::string fileEditor::fileTrim(std::string file) {
+	std::string trimfile = file;
+	trimfile.erase(0, 5);
+	return trimfile;
+}
+
+void fileEditor::iterateMonster(std::string file) {
 	// Open file
 	std::fstream fileContents;
 	fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
-	wchar_t buffer;
-	buffer = 0;
+	wchar_t buffer = 0;
 	// Set length using first two bytes of a monster file
 	fileContents.seekp(0, std::ios_base::beg);
 	fileContents.read(reinterpret_cast<char*>(&buffer), 2);
 	int length = buffer;
-	// Iterate through each monster
 	for (int i = 126; i < length; i = i + 368) {
 		// Read HP
 		fileContents.seekp(i, std::ios_base::beg);
@@ -62,9 +56,6 @@ void fileEditor::monsterEdits(std::string file) {
 		// Check if the monster is a gear
 		if (hp == 0 || mhp == 0) {
 			gear = true;
-		}
-		else {
-			gear = false;
 		}
 		// Establish an array which determines the position i jumps to
 		int data[4];
@@ -118,9 +109,7 @@ void fileEditor::monsterEdits(std::string file) {
 }
 
 void fileEditor::exeEdits(std::string file) {
-	// Apply fast text changes
-	std::string trimfile = file;
-	trimfile.erase(0, 5);
+	std::string trimfile = fileTrim(file);
 	if (pp->fmvName == "") {
 		// Check if filename is 0022
 		if (trimfile != "0022") {
@@ -160,8 +149,7 @@ void fileEditor::exeEdits(std::string file) {
 
 // Remove battle flashes
 void fileEditor::battleExeEdits(std::string file) {
-	std::string trimfile = file;
-	trimfile.erase(0, 5);
+	std::string trimfile = fileTrim(file);
 	// Check if filename is 0038
 	if (trimfile != "0038") {
 		return;

@@ -29,6 +29,7 @@ public:
 	void popTemp();
 	void iterateTemp();
 	void applyFMV();
+	void copyBin();
 	void backupROM();
 	void executeBat();
 	void cleanup();

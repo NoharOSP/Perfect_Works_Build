@@ -138,35 +138,28 @@ void applyPatch::iterateTemp() {
 void applyPatch::applyFMV() {
 	pWin->log_file << "Applying FMV undub." << std::endl;
 	std::filesystem::current_path(pWin->home);
-	std::string patchName;
-	patchName = pp->fmvPatch;
 	pWin->log_file << "Creating batch file commands." << std::endl;
 	if (patched) {
-		// Create copy of bin file to stack patches
-		pWin->log_file << "Make backup of the ROM if it has already been patched." << std::endl;
-		batch_file << "copy \"" + fileName + "\" backup.bin \n" << std::endl;
-		batch_file << "del \"" + fileName + "\" \n" << std::endl;
-		pWin->log_file << "Write command for xdelta to apply the FMV patches." << std::endl;
-		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s backup.bin patches\\" + patchName + " \"" + fileName + "\" \n" << std::endl;
-		if (num == 1) {
-			batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd1_softmod_files_extended.txt -new" << std::endl;
-		}
-		if (num == 2) {
-			batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd2_softmod_files_extended.txt -new" << std::endl;
-		}
+		copyBin();
+		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s backup.bin patches\\" + pp->fmvPatch + " \"" + fileName + "\" \n" << std::endl;
 	}
 	else {
-		// Apply patches
-		pWin->log_file << "Write command for xdelta to apply the FMV patches." << std::endl;
-		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s \"" + oldPath + "\" patches\\" + patchName + " \"" + fileName + "\" \n" << std::endl;
-		if (num == 1) {
-			batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd1_softmod_files_extended.txt -new" << std::endl;
-		}
-		if (num == 2) {
-			batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd2_softmod_files_extended.txt -new" << std::endl;
-		}
+		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s \"" + oldPath + "\" patches\\" + pp->fmvPatch + " \"" + fileName + "\" \n" << std::endl;
 		patched = true;
 	}
+	if (num == 1) {
+		batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd1_softmod_files_extended.txt -new" << std::endl;
+	}
+	if (num == 2) {
+		batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd2_softmod_files_extended.txt -new" << std::endl;
+	}
+}
+
+void applyPatch::copyBin() {
+	// Create copy of bin file to stack patches
+	pWin->log_file << "Make backup of the ROM if it has already been patched." << std::endl;
+	batch_file << "copy \"" + fileName + "\" backup.bin \n" << std::endl;
+	batch_file << "del \"" + fileName + "\" \n" << std::endl;
 }
 
 void applyPatch::backupROM() {
