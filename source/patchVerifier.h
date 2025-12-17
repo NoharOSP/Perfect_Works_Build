@@ -23,6 +23,8 @@ public:
 	bool fastVerify();
 	bool scriptVerify();
 	bool arenaVerify();
+	bool basicVerify();
+	bool expertVerify();
 	bool portraitsVerify();
 	bool graphicsVerify();
 	bool voiceVerify();
@@ -35,6 +37,7 @@ public:
 	Window* pWin;
 	std::string patchPath = "\patches";
 	bool patchPathValid = false;
+	bool item = false;
 	int num;
 	patchProcessor* pp;
 };

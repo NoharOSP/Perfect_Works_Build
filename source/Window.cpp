@@ -106,6 +106,7 @@ void Window::patchBoxLock() {
 	EnableWindow(patchbutton, checkfound);
 }
 
+// TODO: Move to new class?
 void Window::tooltipTextMaker() {
 	// Define tool tips for each checkbox
 	log_file << "Defining tooltip messages." << std::endl;
@@ -230,6 +231,7 @@ void Window::modeWindows() {
 	windList.emplace_back(storyMode);
 }
 
+// TODO: Consider moving to a new class (romFinder?)
 void Window::openFile(HWND hWnd) {
 	// Open ROM files
 	log_file << "Open file browser." << std::endl;
@@ -288,6 +290,7 @@ void Window::openFile(HWND hWnd) {
 	}
 }
 
+// TODO: Move to new class
 // Handle window selection process
 void Window::windowSelect() {
 	LRESULT scriptticked = SendMessage(script, BM_GETCHECK, NULL, NULL);
@@ -605,6 +608,7 @@ void Window::clearText() {
 	SetWindowText(cd2path, L"");
 }
 
+// TODO: Shorten or move to new class
 // Draw window
 void Window::paintProcess(HWND hWnd) {
 	PAINTSTRUCT ps;
