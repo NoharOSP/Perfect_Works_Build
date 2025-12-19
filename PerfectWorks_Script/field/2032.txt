@@ -82,10 +82,20 @@ it ends here<Delay 5>..."<Close><End of Block>
 Karellen
 "Hmph...<Delay 20>
 So it's you..."<Close><End of Block>
-<TextBlock 17 w:50 h:4>
+<TextBlock 17 w:52 h:4>
 Karellen
 "A joke of a life!<Delay 20>
 You're not even a person.<New>
+I wonder what your
+loyal followers would've
+thought if they knew...<New>
+that you're little more
+than a parasite that
+slithered out of the
+garbage dump,<New>
+and that you robbed some
+other poor boy of his life
+to take it as your own!<New>
 Kehehe...<Delay 20>
 Hahahaha...!"<Close><End of Block>
 <TextBlock 18 w:14 h:2>
