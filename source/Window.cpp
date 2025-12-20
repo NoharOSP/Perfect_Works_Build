@@ -231,63 +231,11 @@ void Window::modeWindows() {
 	windList.emplace_back(storyMode);
 }
 
-// TODO: Consider moving to a new class (romFinder?)
 void Window::openFile(HWND hWnd) {
 	// Open ROM files
 	log_file << "Open file browser." << std::endl;
-	OPENFILENAMEA ofn;
-	ZeroMemory(&ofn, sizeof(ofn));
-	ofn.lStructSize = sizeof(ofn);
-	ofn.hwndOwner = hWnd;
-	ofn.lpstrFilter = "Bin File (*.bin)\0*.bin\0";
-	ofn.Flags = OFN_DONTADDTORECENT | OFN_ENABLESIZING | OFN_FILEMUSTEXIST | OFN_PATHMUSTEXIST;
-	ofn.nMaxFile = MAX_PATH;
-	char szFile[MAX_PATH];
-	ofn.lpstrFile = szFile;
-	ofn.lpstrFile[0] = '\0';
-	ofn.nFilterIndex = 1;
-	if (GetOpenFileNameA(&ofn)) {
-		log_file << "File selected." << std::endl;
-		std::string path = ofn.lpstrFile;
-		romFinder rf;
-		// Check for Xenogears bin files
-		rf.searchCD(path);
-		if (rf.getFound()) {
-			log_file << "Xenogears has been found. Determine disc number." << std::endl;
-			discNum = rf.getDisc();
-			if (discNum == 1) {
-				log_file << "Disc 1 found." << std::endl;
-				pathFound1 = true;
-				log_file << "Determine disc 1 path." << std::endl;
-				path1 = path;
-				std::wstring wpath = std::wstring(path1.begin(), path1.end());
-				LPCWSTR lpath = wpath.c_str();
-				log_file << "Put disc 1 path in path window." << std::endl;
-				SetWindowText(cd1path, lpath);
-			}
-			else if (discNum == 2) {
-				log_file << "Disc 2 found." << std::endl;
-				pathFound2 = true;
-				log_file << "Determine disc 2 path." << std::endl;
-				path2 = path;
-				std::wstring wpath = std::wstring(path2.begin(), path2.end());
-				LPCWSTR lpath = wpath.c_str();
-				log_file << "Put disc 2 path in path window." << std::endl;
-				SetWindowText(cd2path, lpath);
-			}
-			else {
-				log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
-				MessageBox(hWnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
-			}
-			if (pathFound1 || pathFound2) {
-				checkboxLock();
-			}
-		}
-		else {
-			log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
-			MessageBox(hWnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
-		}
-	}
+	romFinder rf(this);
+	rf.browseFiles();
 }
 
 // TODO: Move to new class
@@ -304,7 +252,6 @@ void Window::windowSelect() {
 		}
 	}
 	else {
-		log_file << "Script changes unticked." << std::endl;
 		p_script = false;
 	}
 	LRESULT encticked = SendMessage(encounters, BM_GETCHECK, NULL, NULL);
@@ -318,7 +265,6 @@ void Window::windowSelect() {
 		}
 	}
 	else {
-		log_file << "Half encounters unticked." << std::endl;
 		p_encounters = false;
 	}
 	LRESULT fastticked = SendMessage(fasttext, BM_GETCHECK, NULL, NULL);
@@ -335,7 +281,6 @@ void Window::windowSelect() {
 		}
 	}
 	else {
-		log_file << "Fast text unticked." << std::endl;
 		p_fastold = false;
 		p_fastnew = false;
 	}
@@ -355,7 +300,6 @@ void Window::windowSelect() {
 		}
 	}
 	else {
-		log_file << "1.5x exp unticked." << std::endl;
 		p_expone = false;
 	}
 	LRESULT exptwoticked = SendMessage(experience2, BM_GETCHECK, NULL, NULL);
@@ -374,7 +318,6 @@ void Window::windowSelect() {
 		}
 	}
 	else {
-		log_file << "2x exp unticked." << std::endl;
 		p_exptwo = false;
 	}
 	LRESULT goldoneticked = SendMessage(gold1, BM_GETCHECK, NULL, NULL);
@@ -393,7 +336,6 @@ void Window::windowSelect() {
 		}
 	}
 	else {
-		log_file << "1.5x gold unticked." << std::endl;
 		p_goldone = false;
 	}
 	LRESULT goldtwoticked = SendMessage(gold2, BM_GETCHECK, NULL, NULL);
@@ -412,7 +354,6 @@ void Window::windowSelect() {
 		}
 	}
 	else {
-		log_file << "2x gold unticked." << std::endl;
 		p_goldtwo = false;
 	}
 	LRESULT itemspellsticked = SendMessage(itemspells, BM_GETCHECK, NULL, NULL);
@@ -426,7 +367,6 @@ void Window::windowSelect() {
 		}
 	}
 	else {
-		log_file << "Rebalanced party/items unticked." << std::endl;
 		p_items_spells = false;
 	}
 	LRESULT monstersticked = SendMessage(monsters, BM_GETCHECK, NULL, NULL);
@@ -440,7 +380,6 @@ void Window::windowSelect() {
 		}
 	}
 	else {
-		log_file << "Rebalanced party/items unticked." << std::endl;
 		p_monsters = false;
 	}
 	LRESULT normalarenaticked = SendMessage(normalarena, BM_GETCHECK, NULL, NULL);
@@ -460,7 +399,6 @@ void Window::windowSelect() {
 		}
 	}
 	else {
-		log_file << "Basic arena deselected." << std::endl;
 		p_barena = false;
 	}
 	LRESULT expertarenaticked = SendMessage(expertarena, BM_GETCHECK, NULL, NULL);
@@ -474,7 +412,6 @@ void Window::windowSelect() {
 		}
 	}
 	else {
-		log_file << "Expert arena deselected." << std::endl;
 		p_earena = false;
 	}
 	LRESULT portraitsticked = SendMessage(portraits, BM_GETCHECK, NULL, NULL);
@@ -483,7 +420,6 @@ void Window::windowSelect() {
 		p_portraits = true;
 	}
 	else {
-		log_file << "Resized portraits unticked." << std::endl;
 		p_portraits = false;
 	}
 	LRESULT fmvticked = SendMessage(fmvs, BM_GETCHECK, NULL, NULL);
@@ -492,7 +428,6 @@ void Window::windowSelect() {
 		p_fmv = true;
 	}
 	else {
-		log_file << "FMV undub unticked." << std::endl;
 		p_fmv = false;
 	}
 	LRESULT graphicsticked = SendMessage(graphics, BM_GETCHECK, NULL, NULL);
@@ -501,7 +436,6 @@ void Window::windowSelect() {
 		p_graphics = true;
 	}
 	else {
-		log_file << "Graphical fixes unticked." << std::endl;
 		p_graphics = false;
 	}
 	LRESULT voiceticked = SendMessage(voice, BM_GETCHECK, NULL, NULL);
@@ -510,7 +444,6 @@ void Window::windowSelect() {
 		p_voice = true;
 	}
 	else {
-		log_file << "Battle undub unticked." << std::endl;
 		p_voice = false;
 	}
 	LRESULT flashesticked = SendMessage(flashes, BM_GETCHECK, NULL, NULL);
@@ -519,7 +452,6 @@ void Window::windowSelect() {
 		p_flashes = true;
 	}
 	else {
-		log_file << "No battle flashes unticked." << std::endl;
 		p_flashes = false;
 	}
 	LRESULT roniticked = SendMessage(roni, BM_GETCHECK, NULL, NULL);
@@ -528,7 +460,6 @@ void Window::windowSelect() {
 		p_roni = true;
 	}
 	else {
-		log_file << "Perfect Works Roni unticked." << std::endl;
 		p_roni = false;
 	}
 	LRESULT cafeticked = SendMessage(cafe, BM_GETCHECK, NULL, NULL);
@@ -537,7 +468,6 @@ void Window::windowSelect() {
 		p_cafe = true;
 	}
 	else {
-		log_file << "Emeralda diner fix unticked." << std::endl;
 		p_cafe = false;
 	}
 	LRESULT storymodeticked = SendMessage(storyMode, BM_GETCHECK, NULL, NULL);
@@ -566,7 +496,6 @@ void Window::windowSelect() {
 		LRESULT expertuntick = SendMessage(expertarena, BM_SETCHECK, BST_UNCHECKED, NULL);
 	}
 	else {
-		log_file << "Story mode unticked." << std::endl;
 		p_story_mode = false;
 	}
 	// Unlock patch button

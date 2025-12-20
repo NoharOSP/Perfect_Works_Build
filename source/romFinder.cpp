@@ -1,11 +1,67 @@
 #include "pch.h"
 #include "romFinder.h"
 
-romFinder::romFinder() {
+romFinder::romFinder(Window* win) {
+	pWin = win;
 }
 
 romFinder::~romFinder() {
 
+}
+
+void romFinder::browseFiles() {
+	OPENFILENAMEA ofn;
+	ZeroMemory(&ofn, sizeof(ofn));
+	ofn.lStructSize = sizeof(ofn);
+	ofn.hwndOwner = pWin->winHwnd;
+	ofn.lpstrFilter = "Bin File (*.bin)\0*.bin\0";
+	ofn.Flags = OFN_DONTADDTORECENT | OFN_ENABLESIZING | OFN_FILEMUSTEXIST | OFN_PATHMUSTEXIST;
+	ofn.nMaxFile = MAX_PATH;
+	char szFile[MAX_PATH];
+	ofn.lpstrFile = szFile;
+	ofn.lpstrFile[0] = '\0';
+	ofn.nFilterIndex = 1;
+	if (GetOpenFileNameA(&ofn)) {
+		pWin->log_file << "File selected." << std::endl;
+		std::string path = ofn.lpstrFile;
+		// Check for Xenogears bin files
+		searchCD(path);
+		if (getFound()) {
+			pWin->log_file << "Xenogears has been found. Determine disc number." << std::endl;
+			pWin->discNum = getDisc();
+			if (discNum == 1) {
+				pWin->log_file << "Disc 1 found." << std::endl;
+				pWin->pathFound1 = true;
+				pWin->log_file << "Determine disc 1 path." << std::endl;
+				pWin->path1 = path;
+				std::wstring wpath = std::wstring(pWin->path1.begin(), pWin->path1.end());
+				LPCWSTR lpath = wpath.c_str();
+				pWin->log_file << "Put disc 1 path in path window." << std::endl;
+				SetWindowText(pWin->cd1path, lpath);
+			}
+			else if (discNum == 2) {
+				pWin->log_file << "Disc 2 found." << std::endl;
+				pWin->pathFound2 = true;
+				pWin->log_file << "Determine disc 2 path." << std::endl;
+				pWin->path2 = path;
+				std::wstring wpath = std::wstring(pWin->path2.begin(), pWin->path2.end());
+				LPCWSTR lpath = wpath.c_str();
+				pWin->log_file << "Put disc 2 path in path window." << std::endl;
+				SetWindowText(pWin->cd2path, lpath);
+			}
+			else {
+				pWin->log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
+				MessageBox(pWin->winHwnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
+			}
+			if (pWin->pathFound1 || pWin->pathFound2) {
+				pWin->checkboxLock();
+			}
+		}
+		else {
+			pWin->log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
+			MessageBox(pWin->winHwnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
+		}
+	}
 }
 
 void romFinder::searchCD(std::string path) {

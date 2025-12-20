@@ -1,4 +1,5 @@
 #pragma once
+#include "Window.h"
 #include <shellapi.h>
 #include <commdlg.h>
 #include <iostream>
@@ -8,18 +9,23 @@
 #include <string>
 #include <bitset>
 
+class Window;
+
 class romFinder
 {
 	// Global methods
 public:
-	romFinder();
+	romFinder(Window* win);
 	~romFinder();
+	void browseFiles();
 	void searchCD(std::string path);
 	bool getFound();
 	int getDisc();
+
 	// Private variables
 private:
 	std::string name;
+
 	// Global variables
 public:
 	OPENFILENAMEA ofn;
@@ -28,5 +34,6 @@ public:
 	int discNum = 0;
 	int fileSize = 0;
 	unsigned char buffer;
+	Window* pWin;
 };
 
