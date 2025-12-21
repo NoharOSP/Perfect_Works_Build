@@ -537,61 +537,8 @@ void Window::clearText() {
 	SetWindowText(cd2path, L"");
 }
 
-// TODO: Shorten or move to new class
 // Draw window
-void Window::paintProcess(HWND hWnd) {
-	PAINTSTRUCT ps;
-	log_file << "Begin drawing window." << std::endl;
-	hdc = BeginPaint(hWnd, &ps);
-	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
-	SetBkMode(hdc, TRANSPARENT);
-	log_file << "Set font." << std::endl;
-	SelectObject(hdc, hFont);
-	log_file << "Draw window." << std::endl;
-	FillRect(hdc, &ps.rcPaint, (HBRUSH)(COLOR_WINDOW));
-	GetClientRect(hWnd, &rcWindow);
-	RECT rc1, rc2;
-	rc1, rc2 = rcWindow;
-	rc1.top = winY * 0.025;
-	rc1.left = winX / 50;
-	rc1.right = winX - (rc1.left * 2);
-	rc1.bottom = winY * 0.27;
-	rc2.top = winY * 0.30;
-	rc2.left = rc1.left;
-	rc2.right = rc1.right;
-	rc2.bottom = winY * 0.85;
-	Rectangle(hdc, rc1.left, rc1.top, rc1.right, rc1.bottom);
-	Rectangle(hdc, rc2.left, rc2.top, rc2.right, rc2.bottom);
-	log_file << "Draw upper rectangle." << std::endl;
-	FillRect(hdc, &rc1, (HBRUSH)(COLOR_WINDOW));
-	log_file << "Draw lower rectangle." << std::endl;
-	FillRect(hdc, &rc2, (HBRUSH)(COLOR_WINDOW));
-	FrameRect(hdc, &rc1, CreateSolidBrush(RGB(220, 220, 220)));
-	FrameRect(hdc, &rc2, CreateSolidBrush(RGB(220, 220, 220)));
-	drawText();
-	EndPaint(hWnd, &ps);
-}
-
-void Window::drawText() {
-	// Set font
-	HFONT hFont = (HFONT)GetStockObject(DEFAULT_GUI_FONT);
-	SelectObject(hdc, hFont);
-	// Create text
-	swprintf_s(cd1text, 256, L"CD1 File:");
-	swprintf_s(cd2text, 256, L"CD2 File:");
-	swprintf_s(graphicstext, 256, L"Graphics:      ");
-	swprintf_s(gameplaytext, 256, L"Gameplay:  ");
-	swprintf_s(arenatext, 256, L"Arena:  ");
-	swprintf_s(storytext, 256, L"Story:    ");
-	swprintf_s(audiotext, 256, L"Audio:    ");
-	swprintf_s(modestext, 256, L"Modes:    ");
-	// Output text
-	TextOut(hdc, winX * 0.0325, winY * 0.05, cd1text, wcslen(cd1text));
-	TextOut(hdc, winX * 0.0325, winY * 0.12, cd2text, wcslen(cd2text));
-	TextOut(hdc, winX * graphicsx, winY * 0.32, graphicstext, wcslen(graphicstext));
-	TextOut(hdc, winX * gameplayx, winY * 0.32, gameplaytext, wcslen(gameplaytext));
-	TextOut(hdc, winX * arenax, winY * 0.32, arenatext, wcslen(arenatext));
-	TextOut(hdc, winX * storyx, winY * 0.32, storytext, wcslen(storytext));
-	TextOut(hdc, winX * audiox, winY * 0.32, audiotext, wcslen(audiotext));
-	TextOut(hdc, winX * smx, winY * 0.32, modestext, wcslen(modestext));
+void Window::paintProcess() {
+	paintWindow pw(this);
+	pw.paint();
 }

@@ -51,6 +51,9 @@
     <ClInclude Include="fileEditor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="paintWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -78,6 +81,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="fileEditor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="paintWindow.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

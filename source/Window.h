@@ -7,6 +7,7 @@
 #include "Resource.h"
 #include "romFinder.h"
 #include "patchProcessor.h"
+#include "paintWindow.h"
 
 struct tipDesc {
 	char text_encounters[255] =
@@ -126,8 +127,7 @@ public:
 	void restoreDefaults();
 	void relock();
 	void clearText();
-	void paintProcess(HWND hWnd);
-	void drawText();
+	void paintProcess();
 
 	// Global variables
 public:
@@ -200,16 +200,5 @@ public:
 	std::string path2 = "";
 	std::string home;
 	LPWSTR title;
-	TCHAR cd1text[256];
-	TCHAR cd2text[256];
-	TCHAR graphicstext[256];
-	TCHAR gameplaytext[256];
-	TCHAR storytext[256];
-	TCHAR arenatext[256];
-	TCHAR audiotext[256];
-	TCHAR modestext[256];
-	TCHAR dummy[256];
-	HDC hdc;
-	RECT rcWindow;
 };
 
