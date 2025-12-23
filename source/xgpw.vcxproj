@@ -169,6 +169,7 @@
     <ClInclude Include="targetver.h" />
     <ClInclude Include="toolGenerator.h" />
     <ClInclude Include="Window.h" />
+    <ClInclude Include="windowHandler.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="applyPatch.cpp" />
@@ -186,6 +187,7 @@
     <ClCompile Include="romFinder.cpp" />
     <ClCompile Include="toolGenerator.cpp" />
     <ClCompile Include="Window.cpp" />
+    <ClCompile Include="windowHandler.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="main.rc" />
