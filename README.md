@@ -127,7 +127,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 ## Links:
 
 Join our discord if you have any issues or you want to communicate with us:
-https://discord.gg/j4v6yCcWRK
+https://discord.gg/RPMAcmagmC
 
 Provide feedback here:
 https://docs.google.com/forms/d/1KZAwqR70pABGXtuR7l8GVMjY487WKOn6Qrb3fUHHumw/viewform?edit_requested=true
