@@ -51,4 +51,3 @@ public:
 	std::ofstream cue_stream;
 	fileEditor* pFE;
 };
-

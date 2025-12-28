@@ -34,6 +34,6 @@ public:
 	// Global variables
 public:
 	Window* pWin;
-	bool ticked;
+	bool ticked = false;
 };
 

@@ -1,12 +1,11 @@
 #include "pch.h"
 #include "fileEditor.h"
 
-fileEditor::fileEditor(patchProcessor* processor, Window* window, int discNum, std::string temp, std::string fileName) {
+fileEditor::fileEditor(patchProcessor* processor, Window* window, int discNum, std::string temp) {
 	pp = processor;
 	num = discNum;
 	pWin = window;
 	tempDir = temp;
-	file = fileName;
 }
 
 fileEditor::~fileEditor() {
@@ -178,7 +177,7 @@ void fileEditor::battleExeEdits(std::string file) {
 	remove("0038.dec");
 }
 
-void fileEditor::editSLUS() {
+void fileEditor::editSLUS(std::string romFile) {
 	// Insert new SLUS
 	if (pp->fastName != "") {
 		// Add fast text to softsubs SLUS
@@ -201,18 +200,18 @@ void fileEditor::editSLUS() {
 	batch_file2.open("commands2.cmd", std::ios::trunc);
 	if (num == 1) {
 		if (pp->fastName != "") {
-			batch_file2 << "Tools\\Xeno_slus_ins.exe " + file + " gamefiles\\temp\\SLUS_006.64" << std::endl;
+			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\temp\\SLUS_006.64" << std::endl;
 		}
 		else {
-			batch_file2 << "Tools\\Xeno_slus_ins.exe " + file + " gamefiles\\sub_executable\\disc1\\SLUS_006.64" << std::endl;
+			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\sub_executable\\disc1\\SLUS_006.64" << std::endl;
 		}
 	}
 	if (num == 2) {
 		if (pp->fastName != "") {
-			batch_file2 << "Tools\\Xeno_slus_ins.exe " + file + " gamefiles\\temp\\SLUS_006.69" << std::endl;
+			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\temp\\SLUS_006.69" << std::endl;
 		}
 		else {
-			batch_file2 << "Tools\\Xeno_slus_ins.exe " + file + " gamefiles\\sub_executable\\disc2\\SLUS_006.69" << std::endl;
+			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\sub_executable\\disc2\\SLUS_006.69" << std::endl;
 		}
 	}
 	batch_file2.close();

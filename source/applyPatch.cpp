@@ -1,11 +1,13 @@
 #include "pch.h"
 #include "applyPatch.h"
 
+// TODO: Fix FMV bug
+
 applyPatch::applyPatch(Window* win, int discNum, patchProcessor* processor) {
 	pWin = win;
 	num = discNum;
 	pp = processor;
-	pFE = new fileEditor(pp, pWin, num, temp, fileName);
+	pFE = new fileEditor(pp, pWin, num, temp);
 	initialise();
 }
 
@@ -41,16 +43,33 @@ bool applyPatch::patch() {
 	prepareFiles();
 	executeBat();
 	if (pp->fmvName != "") {
-		pFE->editSLUS();
+		pFE->editSLUS(fileName);
 	}
 	cleanup();
 	makeCue();
-	return verifyPatch();
+	pWin->log_file << "Check filesize to determine if xenoiso executed successfully." << std::endl;
+	int fileSize = std::filesystem::file_size(fileName);
+	if (fileSize == 0) {
+		pWin->log_file << "Failure to execute xenoiso. Returning error." << std::endl;
+		return false;
+	}
+	else {
+		pWin->log_file << "xenoiso executed successfully. Returning completion message." << std::endl;
+		return true;
+	}
 }
 
 void applyPatch::prepareFiles() {
-	checkFile();
-	createFiles();
+	// Detect if the patched ROM already exists.
+	pWin->log_file << "Check if a patched ROM already exists." << std::endl;
+	if (std::filesystem::exists(fileName)) {
+		pWin->log_file << "Deleting existing patched ROM." << std::endl;
+		remove(fileName.c_str());
+	}
+	pWin->log_file << "Creating list file for xenoiso." << std::endl;
+	list_file.open("list.txt", std::ios::trunc);
+	pWin->log_file << "Creating xdelta command file." << std::endl;
+	batch_file.open("commands.cmd", std::ios::trunc);
 	if (!pp->patchList.empty()) {
 		createTemp();
 		std::filesystem::current_path(pWin->home);
@@ -69,33 +88,12 @@ void applyPatch::prepareFiles() {
 	list_file.close();
 	batch_file.close();
 }
-	
-void applyPatch::checkFile() {
-	// Detect if the patched ROM already exists.
-	pWin->log_file << "Check if a patched ROM already exists." << std::endl;
-	if (std::filesystem::exists(fileName)) {
-		pWin->log_file << "Deleting existing patched ROM." << std::endl;
-		remove(fileName.c_str());
-	}
-}
-
-void applyPatch::createFiles() {
-	pWin->log_file << "Creating list file for xenoiso." << std::endl;
-	list_file.open("list.txt", std::ios::trunc);
-	pWin->log_file << "Creating xdelta command file." << std::endl;
-	batch_file.open("commands.cmd", std::ios::trunc);
-}
 
 void applyPatch::createTemp() {
 	// Create ROMs using xenoiso
 	pWin->log_file << "Create temporary directory." << std::endl;
 	std::filesystem::current_path(pp->gamefilePath);
 	std::filesystem::create_directory(temp);
-	popTemp();
-	iterateTemp();
-}
-
-void applyPatch::popTemp() {
 	pWin->log_file << "Copy files from each selected option into the temporary directory." << std::endl;
 	for (int i = 0; i < pp->patchList.size(); i++) {
 		if (pp->patchList[i] != "" && pp->patchList[i] != pp->fmvPatch) {
@@ -112,6 +110,7 @@ void applyPatch::popTemp() {
 			std::filesystem::copy(pp->patchList[i], temp, std::filesystem::copy_options::update_existing);
 		}
 	}
+	iterateTemp();
 }
 
 void applyPatch::iterateTemp() {
@@ -140,7 +139,10 @@ void applyPatch::applyFMV() {
 	std::filesystem::current_path(pWin->home);
 	pWin->log_file << "Creating batch file commands." << std::endl;
 	if (patched) {
-		copyBin();
+		// Create copy of bin file to stack patches
+		pWin->log_file << "Make backup of the ROM if it has already been patched." << std::endl;
+		batch_file << "copy \"" + fileName + "\" backup.bin \n" << std::endl;
+		batch_file << "del \"" + fileName + "\" \n" << std::endl;
 		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s backup.bin patches\\" + pp->fmvPatch + " \"" + fileName + "\" \n" << std::endl;
 	}
 	else {
@@ -153,13 +155,6 @@ void applyPatch::applyFMV() {
 	if (num == 2) {
 		batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd2_softmod_files_extended.txt -new" << std::endl;
 	}
-}
-
-void applyPatch::copyBin() {
-	// Create copy of bin file to stack patches
-	pWin->log_file << "Make backup of the ROM if it has already been patched." << std::endl;
-	batch_file << "copy \"" + fileName + "\" backup.bin \n" << std::endl;
-	batch_file << "del \"" + fileName + "\" \n" << std::endl;
 }
 
 void applyPatch::backupROM() {
@@ -215,18 +210,5 @@ void applyPatch::makeCue() {
 	cue_stream << "  TRACK 01 MODE2/2352" << "\n";
 	cue_stream << "    INDEX 01 00:00:00" << "\n";
 	cue_stream.close();
-}
-	
-bool applyPatch::verifyPatch() {
-	pWin->log_file << "Check filesize to determine if xenoiso executed successfully." << std::endl;
-	int fileSize = std::filesystem::file_size(fileName);
-	if (fileSize == 0) {
-		pWin->log_file << "Failure to execute xenoiso. Returning error." << std::endl;
-		return false;
-	}
-	else {
-		pWin->log_file << "xenoiso executed successfully. Returning completion message." << std::endl;
-		return true;
-	}
 }
 	
