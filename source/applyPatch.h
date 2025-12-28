@@ -21,15 +21,10 @@ public:
 	~applyPatch();
 	bool patch();
 	void prepareFiles();
-	bool verifyPatch();
 	void initialise();
-	void checkFile();
-	void createFiles();
 	void createTemp();
-	void popTemp();
 	void iterateTemp();
 	void applyFMV();
-	void copyBin();
 	void backupROM();
 	void executeBat();
 	void cleanup();
