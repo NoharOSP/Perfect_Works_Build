@@ -32,22 +32,25 @@ void patchVerifier::fmvVerify() {
 }
 
 void patchVerifier::verify() {
+	graphicsVerifier grav;
+	gameplayVerifier gamv;
+	storyVerifier sv;
 	if (!storyModeVerify()) {
-		if (!monsterVerify()) {
-			expVerify();
-			goldVerify();
+		if (!gamv.monsterVerify(pWin, pp)) {
+			gamv.expVerify(pWin, pp);
+			gamv.goldVerify(pWin, pp);
 		}
-		arenaVerify();
-		encounterVerify();
-		itemSpellVerify();
+		arenaVerifier av(pWin, pp);
+		gamv.encounterVerify(pWin, pp, num);
+		gamv.itemSpellVerify(pWin, pp, num);
 	}
-	fastVerify();
-	scriptVerify();
-	portraitsVerify();
-	graphicsVerify();
+	sv.fastVerify(pWin, pp, num);
+	sv.scriptVerify(pWin, pp, num);
+	grav.portraitsVerify(pWin, pp);
+	grav.graphicsVerify(pWin, pp);
 	voiceVerify();
-	roniVerify();
-	cafeVerify();
+	grav.roniVerify(pWin, pp);
+	grav.cafeVerify(pWin, pp, num);
 	bugVerify();
 	titleVerify();
 }
@@ -75,242 +78,12 @@ bool patchVerifier::storyModeVerify() {
 	return pWin->p_story_mode;
 }
 
-bool patchVerifier::monsterVerify() {
-	if (pWin->p_monsters) {
-		pWin->log_file << "Rebalanced monsters directory found." << std::endl;
-		// Check if items/spells and script patches aren't selected to avoid compatibility issues.
-		if (!pWin->p_script && !pWin->p_items_spells) {
-			pp->monsterName = "Monsters";
-		}
-		else if (pWin->p_items_spells && !pWin->p_script) {
-			pp->monsterName = "monsters_items";
-		}
-		else if (!pWin->p_items_spells && pWin->p_script) {
-			pp->monsterName = "monsters_script";
-		}
-		else if (pWin->p_items_spells && pWin->p_script) {
-			pp->monsterName = "monsters_both";
-		}
-	}
-	return pWin->p_monsters;
-}
-
-bool patchVerifier::expVerify() {
-	bool exp = false;
-	if (pWin->p_expone || pWin->p_exptwo) {
-		pWin->log_file << "Experience directory found." << std::endl;
-		pp->expName = "og_monsters";
-		exp = true;
-	}
-	return exp;
-}
-
-bool patchVerifier::goldVerify() {
-	bool gold = false;
-	if (pWin->p_goldone || pWin->p_goldtwo) {
-		pWin->log_file << "Gold directory found." << std::endl;
-		pp->goldName = "og_monsters";
-		gold = true;
-	}
-	return gold;
-}
-
-bool patchVerifier::encounterVerify() {
-	if (pWin->p_encounters) {
-		pWin->log_file << "Half encounters directory found." << std::endl;
-		// Check if script patches aren't selected to avoid compatibility issues. Otherwise, a merged folder will be used
-		if (!pWin->p_script) {
-			if (num == 1) {
-				pp->encountersName = "encounter_rate_1";
-			}
-			if (num == 2) {
-				pp->encountersName = "encounter_rate_2";
-			}
-		}
-		else {
-			if (num == 1) {
-				pp->encountersName = "encounterone_script";
-			}
-			if (num == 2) {
-				pp->encountersName = "encountertwo_script";
-			}
-		}
-	}
-	return pWin->p_encounters;
-}
-
-bool patchVerifier::itemSpellVerify() {
-	if (pWin->p_items_spells) {
-		pWin->log_file << "Rebalanced items/party directory found." << std::endl;
-		// Check if the items/script hybrid patch needs to be applied
-		if (pWin->p_script) {
-			if (num == 1) {
-				pp->itemspellsName = "Script_items";
-			}
-			if (num == 2) {
-				pp->itemspellsName = "Script_items2";
-			}
-		}
-		else {
-			if (num == 1) {
-				pp->itemspellsName = "items1";
-			}
-			if (num == 2) {
-				pp->itemspellsName = "items2";
-			}
-		}
-		item = true;
-	}
-	return pWin->p_items_spells;
-}
-
-bool patchVerifier::fastVerify() {
-	bool fast = false;
-	if (pWin->p_fastnew) {
-		pWin->log_file << "Retranslated fast text directory found." << std::endl;
-		if (num == 1) {
-			pp->fastName = "text_cd1";
-		}
-		if (num == 2) {
-			// Disc 2 will use the same patch regardless of whether the script patch has been applied as it has no cutscenes with auto-advance
-			pp->fastName = "text_cd2";
-		}
-		fast = true;
-
-	}
-	if (pWin->p_fastold) {
-		pWin->log_file << "Retranslated fast text directory found." << std::endl;
-		if (num == 1) {
-			pp->fastName = "text_old1";
-		}
-		if (num == 2) {
-			pp->fastName = "text_cd2";
-		}
-		fast = true;
-	}
-	return fast;
-}
-
-bool patchVerifier::scriptVerify() {
-	if (pWin->p_script) {
-		pWin->log_file << "Retranslated script directory found." << std::endl;
-		// Check if items/spells and script hybrid won't be applied
-		if (!item) {
-			if (num == 1) {
-				pp->scriptName = "script1";
-			}
-			if (num == 2) {
-				pp->scriptName = "script2";
-			}
-		}
-	}
-	return pWin->p_script;
-}
-
-bool patchVerifier::arenaVerify() {
-	bool arena = false;
-	if (basicVerify() || expertVerify()) {
-		arena = true;
-	}
-	return arena;
-}
-
-bool patchVerifier::basicVerify() {
-	bool basic = false;
-	if (pWin->p_barena) {
-		pWin->log_file << "Basic arena directory found." << std::endl;
-		if (!pWin->p_script) {
-			pp->arenaName = "filesbasic";
-		}
-		else {
-			pp->arenaName = "filesbasic_script";
-		}
-		basic = true;
-	}
-	return basic;
-}
-
-bool patchVerifier::expertVerify() {
-	bool expert = false;
-	if (pWin->p_earena) {
-		pWin->log_file << "Expert arena directory found." << std::endl;
-		if (!pWin->p_script) {
-			pp->arenaName = "filesexpert";
-		}
-		else {
-			pp->arenaName = "filesexpert_script";
-		}
-		expert = true;
-	}
-	return expert;
-}
-
-bool patchVerifier::portraitsVerify() {
-	if (pWin->p_portraits) {
-		pWin->log_file << "Resized portraits directory found." << std::endl;
-		pp->portraitsName = "portraits";
-	}
-	return pWin->p_portraits;
-}
-
-bool patchVerifier::graphicsVerify() {
-	bool graphics = false;
-	if (pWin->p_graphics) {
-		pWin->log_file << "Graphical fix directory found." << std::endl;
-		// Graphics edits outside of portraits are not applied to the items/spells or script patch here as they would cause crashes.
-		if (!pWin->p_items_spells && !pWin->p_script) {
-			if (!pWin->p_portraits) {
-				pp->graphicsName = "graphics";
-			}
-			else {
-				pp->graphicsName = "graphics_no_portraits";
-			}
-			graphics = true;
-		}
-		else if (!pWin->p_portraits) {
-			pp->graphicsName = "graphics_portraits";
-			graphics = true;
-		}
-	}
-	return graphics;
-}
-
 bool patchVerifier::voiceVerify() {
 	if (pWin->p_voice) {
 		pWin->log_file << "Undub in-game voice directory found." << std::endl;
 		pp->voiceName = "voice";
 	}
 	return pWin->p_voice;
-}
-
-bool patchVerifier::roniVerify() {
-	if (pWin->p_roni) {
-		pWin->log_file << "Roni directory found." << std::endl;
-		if (!pWin->p_portraits) {
-			pp->roniName = "roni_pw\\default";
-		}
-		else {
-			pp->roniName = "roni_pw\\resized";
-		}
-	}
-	return pWin->p_roni;
-}
-
-bool patchVerifier::cafeVerify() {
-	bool cafe = false;
-	if (pWin->p_cafe) {
-		pWin->log_file << "Emeralda diner fix directory found." << std::endl;
-		if (num == 1) {
-			if (!pWin->p_script) {
-				pp->cafeName = "emeralda_fix\\og_script";
-			}
-			else {
-				pp->cafeName = "emeralda_fix\\new_script";
-			}
-			cafe = true;
-		}
-	}
-	return cafe;
 }
 
 bool patchVerifier::bugVerify() {

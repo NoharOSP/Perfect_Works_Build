@@ -1,6 +1,10 @@
 #pragma once
 #include "Window.h"
 #include "patchProcessor.h"
+#include "graphicsVerifier.h"
+#include "gameplayVerifier.h"
+#include "arenaVerifier.h"
+#include "storyVerifier.h"
 
 class Window;
 class patchProcessor;
@@ -15,21 +19,7 @@ public:
 	void verify();
 	void titleVerify();
 	bool storyModeVerify();
-	bool monsterVerify();
-	bool expVerify();
-	bool goldVerify();
-	bool encounterVerify();
-	bool itemSpellVerify();
-	bool fastVerify();
-	bool scriptVerify();
-	bool arenaVerify();
-	bool basicVerify();
-	bool expertVerify();
-	bool portraitsVerify();
-	bool graphicsVerify();
 	bool voiceVerify();
-	bool roniVerify();
-	bool cafeVerify();
 	bool bugVerify();
 
 	// Global variables
