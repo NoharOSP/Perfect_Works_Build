@@ -10,6 +10,13 @@ public:
 	~paintWindow();
 	void paint();
 	void drawText();
+	void graphicWindows();
+	void gameplayWindows();
+	void arenaWindows();
+	void storyWindows();
+	void audioWindows();
+	void modeWindows();
+	void initialiseFont();
 
 	// Global variables
 public:

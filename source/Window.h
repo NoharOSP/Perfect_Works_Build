@@ -111,16 +111,7 @@ public:
 	Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle);
 	~Window();
 	void initialise();
-	void initialiseWindows();
-	void createPaths();
-	void createButtons();
-	void graphicWindows();
-	void gameplayWindows();
-	void arenaWindows();
-	void storyWindows();
-	void audioWindows();
-	void modeWindows();
-	void initialiseFont();
+	void paintProcess();
 	void checkboxLock();
 	void patchBoxLock();
 	void tooltipTextMaker();
@@ -128,9 +119,6 @@ public:
 	void windowSelect();
 	void process();
 	void restoreDefaults();
-	void relock();
-	void clearText();
-	void paintProcess();
 
 	// Global variables
 public:
