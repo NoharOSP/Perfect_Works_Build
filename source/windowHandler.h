@@ -1,5 +1,7 @@
 #pragma once
 #include "Window.h"
+#include "handleScript.h"
+#include "handleGameplay.h"
 
 class Window;
 
@@ -10,15 +12,6 @@ public:
 	windowHandler(Window* win);
 	~windowHandler();
 	bool check();
-	void checkScript();
-	void checkEnc();
-	void checkFast();
-	void checkExpOne();
-	void checkExpTwo();
-	void checkGoldOne();
-	void checkGoldTwo();
-	void checkItemsParty();
-	void checkMonsters();
 	void checkNormArena();
 	void checkBasicArena();
 	void checkExpArena();

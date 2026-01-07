@@ -10,15 +10,18 @@ windowHandler::~windowHandler() {
 }
 
 bool windowHandler::check() {
-	checkScript();
-	checkEnc();
-	checkFast();
-	checkExpOne();
-	checkExpTwo();
-	checkGoldOne();
-	checkGoldTwo();
-	checkItemsParty();
-	checkMonsters();
+	// TODO: Make arena, graphics and audio handlers
+	handleScript hs;
+	handleGameplay hg;
+	hs.checkScript(pWin, this);
+	hg.checkEnc(pWin, this);
+	hs.checkFast(pWin, this);
+	hg.checkExpOne(pWin, this);
+	hg.checkExpTwo(pWin, this);
+	hg.checkGoldOne(pWin, this);
+	hg.checkGoldTwo(pWin, this);
+	hg.checkItemsParty(pWin, this);
+	hg.checkMonsters(pWin, this);
 	checkNormArena();
 	checkBasicArena();
 	checkExpArena();
@@ -31,185 +34,6 @@ bool windowHandler::check() {
 	checkCafe();
 	checkStoryMode();
 	return ticked;
-}
-
-void windowHandler::checkScript() {
-	LRESULT scriptticked = SendMessage(pWin->script, BM_GETCHECK, NULL, NULL);
-	if (scriptticked == BST_CHECKED) {
-		pWin->log_file << "Script changes ticked." << std::endl;
-		pWin->p_script = true;
-		if (pWin->p_fastold) {
-			pWin->log_file << "Ensure the version of fast text is used that supports the updated script." << std::endl;
-			pWin->p_fastold = false;
-			pWin->p_fastnew = true;
-		}
-		ticked = true;
-	}
-	else {
-		pWin->p_script = false;
-	}
-}
-
-void windowHandler::checkEnc() {
-	LRESULT encticked = SendMessage(pWin->encounters, BM_GETCHECK, NULL, NULL);
-	if (encticked == BST_CHECKED) {
-		pWin->log_file << "Half encounters ticked." << std::endl;
-		pWin->p_encounters = true;
-		if (pWin->p_story_mode == true) {
-			pWin->log_file << "Unticking story mode." << std::endl;
-			LRESULT smuntick = SendMessage(pWin->storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_story_mode = false;
-		}
-		else {
-			ticked = true;
-		}
-	}
-	else {
-		pWin->p_encounters = false;
-	}
-}
-
-void windowHandler::checkFast() {
-	LRESULT fastticked = SendMessage(pWin->fasttext, BM_GETCHECK, NULL, NULL);
-	if (fastticked == BST_CHECKED) {
-		// Check if the fast text patch should support the new translation
-		pWin->log_file << "Fast text ticked." << std::endl;
-		if (pWin->p_script == false) {
-			pWin->log_file << "Ensure the version of fast text supporting the original translation is used." << std::endl;
-			pWin->p_fastold = true;
-		}
-		else {
-			pWin->log_file << "Ensure the version of fast text is used that supports the updated script." << std::endl;
-			pWin->p_fastnew = true;
-		}
-		ticked = true;
-	}
-	else {
-		pWin->p_fastold = false;
-		pWin->p_fastnew = false;
-	}
-}
-
-void windowHandler::checkExpOne() {
-	LRESULT exponeticked = SendMessage(pWin->experience1, BM_GETCHECK, NULL, NULL);
-	if (exponeticked == BST_CHECKED) {
-		pWin->log_file << "1.5x exp ticked." << std::endl;
-		pWin->p_expone = true;
-		if (pWin->p_exptwo == true) {
-			pWin->log_file << "Unticking 2x exp." << std::endl;
-			LRESULT exptwountick = SendMessage(pWin->experience2, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_exptwo = false;
-		}
-		if (pWin->p_story_mode == true) {
-			pWin->log_file << "Unticking story mode." << std::endl;
-			LRESULT smuntick = SendMessage(pWin->storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_story_mode = false;
-		}
-		ticked = true;
-	}
-	else {
-		pWin->p_expone = false;
-	}
-}
-
-void windowHandler::checkExpTwo() {
-	LRESULT exptwoticked = SendMessage(pWin->experience2, BM_GETCHECK, NULL, NULL);
-	if (exptwoticked == BST_CHECKED) {
-		pWin->log_file << "2x exp ticked." << std::endl;
-		pWin->p_exptwo = true;
-		if (pWin->p_expone == true) {
-			pWin->log_file << "Unticking 1.5x exp." << std::endl;
-			LRESULT exponeuntick = SendMessage(pWin->experience1, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_expone = false;
-		}
-		if (pWin->p_story_mode == true) {
-			pWin->log_file << "Unticking story mode." << std::endl;
-			LRESULT smuntick = SendMessage(pWin->storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_story_mode = false;
-		}
-		ticked = true;
-	}
-	else {
-		pWin->p_exptwo = false;
-	}
-}
-
-void windowHandler::checkGoldOne() {
-	LRESULT goldoneticked = SendMessage(pWin->gold1, BM_GETCHECK, NULL, NULL);
-	if (goldoneticked == BST_CHECKED) {
-		pWin->log_file << "1.5x gold ticked." << std::endl;
-		pWin->p_goldone = true;
-		if (pWin->p_goldtwo == true) {
-			pWin->log_file << "Unticking 2x gold." << std::endl;
-			LRESULT goldtwountick = SendMessage(pWin->gold2, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_goldtwo = false;
-		}
-		if (pWin->p_story_mode == true) {
-			pWin->log_file << "Unticking story mode." << std::endl;
-			LRESULT smuntick = SendMessage(pWin->storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_story_mode = false;
-		}
-		ticked = true;
-	}
-	else {
-		pWin->p_goldone = false;
-	}
-}
-
-void windowHandler::checkGoldTwo() {
-	LRESULT goldtwoticked = SendMessage(pWin->gold2, BM_GETCHECK, NULL, NULL);
-	if (goldtwoticked == BST_CHECKED) {
-		pWin->log_file << "2x gold ticked." << std::endl;
-		pWin->p_goldtwo = true;
-		if (pWin->p_goldone == true) {
-			pWin->log_file << "Unticking 1.5x gold." << std::endl;
-			LRESULT goldoneuntick = SendMessage(pWin->gold1, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_goldone = false;
-		}
-		if (pWin->p_story_mode == true) {
-			pWin->log_file << "Unticking story mode." << std::endl;
-			LRESULT smuntick = SendMessage(pWin->storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_story_mode = false;
-		}
-		ticked = true;
-	}
-	else {
-		pWin->p_goldtwo = false;
-	}
-}
-
-void windowHandler::checkItemsParty() {
-	LRESULT itemspellsticked = SendMessage(pWin->itemspells, BM_GETCHECK, NULL, NULL);
-	if (itemspellsticked == BST_CHECKED) {
-		pWin->log_file << "Rebalanced party/items ticked." << std::endl;
-		pWin->p_items_spells = true;
-		if (pWin->p_story_mode == true) {
-			pWin->log_file << "Unticking story mode." << std::endl;
-			LRESULT smuntick = SendMessage(pWin->storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_story_mode = false;
-		}
-		ticked = true;
-	}
-	else {
-		pWin->p_items_spells = false;
-	}
-}
-
-void windowHandler::checkMonsters() {
-	LRESULT monstersticked = SendMessage(pWin->monsters, BM_GETCHECK, NULL, NULL);
-	if (monstersticked == BST_CHECKED) {
-		pWin->log_file << "Rebalanced monsters ticked." << std::endl;
-		pWin->p_monsters = true;
-		if (pWin->p_story_mode == true) {
-			pWin->log_file << "Unticking story mode." << std::endl;
-			LRESULT smuntick = SendMessage(pWin->storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_story_mode = false;
-		}
-		ticked = true;
-	}
-	else {
-		pWin->p_monsters = false;
-	}
 }
 
 void windowHandler::checkNormArena() {

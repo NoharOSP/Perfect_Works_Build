@@ -108,6 +108,7 @@
       <LanguageStandard>stdcpplatest</LanguageStandard>
       <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
       <EnablePREfast>false</EnablePREfast>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -145,6 +146,7 @@
       <PrecompiledHeader>Use</PrecompiledHeader>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
       <LanguageStandard>stdcpplatest</LanguageStandard>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -162,6 +164,8 @@
     <ClInclude Include="framework.h" />
     <ClInclude Include="gameplayVerifier.h" />
     <ClInclude Include="graphicsVerifier.h" />
+    <ClInclude Include="handleGameplay.h" />
+    <ClInclude Include="handleScript.h" />
     <ClInclude Include="main.h" />
     <ClInclude Include="paintWindow.h" />
     <ClInclude Include="patchProcessor.h" />
@@ -181,6 +185,8 @@
     <ClCompile Include="fileEditor.cpp" />
     <ClCompile Include="gameplayVerifier.cpp" />
     <ClCompile Include="graphicsVerifier.cpp" />
+    <ClCompile Include="handleGameplay.cpp" />
+    <ClCompile Include="handleScript.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="paintWindow.cpp" />
     <ClCompile Include="patchProcessor.cpp" />
