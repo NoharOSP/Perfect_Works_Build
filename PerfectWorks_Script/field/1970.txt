@@ -1,72 +1,75 @@
 <TextBlock 1 w:16 h:1>
 ...<Delay 5>Live!<Opcode 2 90><Close><End of Block>
-<TextBlock 2 w:50 h:3>
+<TextBlock 2 w:54 h:4>
 Karellen
-"We were sacrificed as
-pawns<Delay 5>...<New>
-In order to protect their
-own authority<Delay 5>...<Delay 5>
-Sophia was<Delay 5>...<New>
-Is this the ideal world
-we've been searching for?<Delay 15>
-What have we been doing?<New>
-Heading toward Sophia's
-ideals<Delay 5>...?<Delay 30>
-Is this our salvation?"<Close><End of Block>
-<TextBlock 3 w:44 h:4>
+"We were pawns<Delay 5>...<New>
+In order to preserve their
+own authority, they allowed
+Sophia to be<--><New>
+This...<Delay 5> This was the world
+of the ideals we've been
+aiming for?<New>
+What the hell have we been
+doing?<Delay 15> Are these the ideals
+Sophia had been aiming for?<New>
+Is this the final chapter
+in our salvation?"<Close><End of Block>
+<TextBlock 3 w:42 h:4>
 Karellen
-"This isn't fair<Delay 5>...<Delay 15>
+"This is too much<Delay 5>...<New>
 Sophia was sacrificed
-for those bastards<Delay 5>..."<Close><End of Block>
-<TextBlock 4 w:54 h:4>
+for the sake of those
+bastards<Delay 5>..."<Close><End of Block>
+<TextBlock 4 w:52 h:4>
 Karellen
-"Sophia said,<Delay 5> if you just
-have faith the path to what
-you hope for will open.<New>
-But look at reality.<Delay 15>
-God didn't answer our
-prayers<Delay 5>...<New>
+"Sophia said that as long
+as we have faith, the path
+we wish for will open.<New>
+But the reality?<Delay 15>
+God didn't answer...<Delay 15>
 Is that because we didn't
 have faith?<New>
 Even if we didn't have
-faith, <Delay 5>Sophia did.<Delay 15>
+faith,<Delay 5> Sophia did.<Delay 15>
 Why did she have to
-be sacrificed?<New>
-Is god dead<Delay 5>...?<Delay 15>
-Is he just not there<Delay 5>...?<Delay 15>
-Maybe god never even
-existed to begin with!"<Close><End of Block>
-<TextBlock 5 w:42 h:4>
+be sacrificed!?<New>
+'Is God dead'<Delay 5>...?<Delay 15>
+Is He not there<Delay 5>...?<Delay 15>
+Or maybe such a thing did
+not exist to begin with!?"<Close><End of Block>
+<TextBlock 5 w:40 h:4>
 Karellen
-"Ha, ha, ha, ha<Delay 5>...<Delay 5>
+"Hahahaha<Delay 5>...<Delay 30>
 I see<Delay 5>...<Delay 30>
-That's it<Delay 5>...<New>
-If god doesn't exist
-in our world, then<Delay 5>...<Delay 5>
-I will create god
+Alright<Delay 5>...<New>
+If He does not exist
+in this world<Delay 5>...<Delay 5>then
+I will create God
 with my own hands!"<Close><End of Block>
 <TextBlock 6 w:26 h:2>
 Lacan
 "Karellen<Delay 5>..."<Close><End of Block>
-<TextBlock 7 w:40 h:3>
+<TextBlock 7 w:46 h:4>
 Karellen
-"Sophia<Delay 5>...<Delay 30>
-Please guide me<Delay 5>...<New>
-I will destroy all
-such false pretenses
-of love,<Delay 5> for you<Delay 5>..."<Close><End of Block>
-<TextBlock 8 w:54 h:3>
+"Sophia<Delay 5>...<Delay 30>guide me<Delay 5>...<Delay 30>
+I will put an end to
+such false idolatry<Delay 5>..."<Close><End of Block>
+<TextBlock 8 w:48 h:4>
 Roni
-"We need to gather all
-our surviving comrades.<New>
-We'll never beat them if we
-fight them individually<Delay 5>...<New>
-So let us create a country
-that can some day stand up
-against them<Delay 5>..."<Close><End of Block>
-<TextBlock 9 w:52 h:3>
+"...<Delay 5>...<Delay 30>
+We will gather our
+surviving comrades.<New>
+It's because we're
+fighting separately
+that we can't beat
+these bastards<Delay 5>...<New>
+So we'll create a nation
+that'll be able to stand
+up to them someday,
+when the time comes<Delay 5>..."<Close><End of Block>
+<TextBlock 9 w:36 h:3>
 Roni
-"What are you going to do,<Delay 30>
+"What will you do,
 Lacan<Delay 5>...?"<Close><End of Block>
 <TextBlock 10 w:12 h:2>
 Lacan
@@ -104,9 +107,9 @@ not come to an end<Delay 5>...<Delay 5>
 I will destroy it
 with my own hands!"<Close><End of Block>
 <TextBlock 18 w:42 h:4>
-If god doesn't exist
-in our world, then<Delay 5>...<Delay 5>
-I will create god
+If He does not exist
+in this world<Delay 5>...<Delay 5>then
+I will create God
 with my own hands!<Opcode 2 180><Close><End of Block>
 <TextBlock 19 w:0 h:1>
 <End of Block>

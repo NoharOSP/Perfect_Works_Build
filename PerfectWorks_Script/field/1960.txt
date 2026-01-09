@@ -1,6 +1,5 @@
-<TextBlock 1 w:36 h:3>
+<TextBlock 1 w:44 h:4>
 Karellen
-"Do you think I'll
-let it end here!?<New>
-We are not their
+"I won't let it end
+here!<Delay 30> We are not their
 possessions!"<Close><Close><End of Block>

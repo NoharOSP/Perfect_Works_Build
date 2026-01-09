@@ -14,67 +14,70 @@ Grahf...<Opcode 2 200><Close><End of Block>
 Wait for me!<Opcode 2 255><Close><End of Block>
 <TextBlock 8 w:16 h:2>
 Where...<Delay 30>
-Am I?<New>
+am I?<New>
 <Delay 30>Who...<Delay 30>
 am I?<Close><End of Block>
 <TextBlock 9 w:20 h:2>
-This is...<Delay 30>
+Is this...<Delay 30>
 my memory?<Close><End of Block>
 <TextBlock 10 w:28 h:2>
 Everyone...<Delay 30>
-My<Delay 20>...<Delay 20>memories.<Close><End of Block>
+My...<Delay 20>memories?<Close><End of Block>
 <TextBlock 11 w:10 h:1>
 Elly?<Close><End of Block>
 <TextBlock 12 w:14 h:1>
 Mother?<Close><End of Block>
 <TextBlock 13 w:24 h:1>
 Who are you?<Close><End of Block>
-<TextBlock 14 w:42 h:2>
+<TextBlock 14 w:32 h:3>
 I'm surprised.
-That's pretty clever.<Close><End of Block>
+That was pretty
+clever of you.<Close><End of Block>
 <TextBlock 15 w:20 h:2>
-You are...
+You...<Delay 10>
 Id?<Close><End of Block>
-<TextBlock 16 w:42 h:5>
-I misjudged you.
-I didn't expect you,
-the fake personality,
-would create a fourth
-persona.<Close><End of Block>
-<TextBlock 17 w:30 h:1>
-Fourth persona?<Close><End of Block>
+<TextBlock 16 w:50 h:5>
+I underestimated you
+a bit.<Delay 10> I'd never have
+thought that you, a mock
+personality, could create
+a fourth persona.<Close><End of Block>
+<TextBlock 17 w:34 h:1>
+A fourth persona?<Close><End of Block>
 <TextBlock 18 w:50 h:4>
-He can't feel anything.
-He's shut up inside your
-ego.<New>
-The pressing facts and
-truths you won't face.<New>
-You're afraid of them, so
-you desired to completely
-shut yourself off from
-the outside world.<Close><End of Block>
+He doesn't feel anything.
+He's shut himself away in
+the shell of the ego.<New>
+The facts that overwhelm
+you and the truths you
+don't want to face.<New>
+Fearing those things,
+you desired complete
+seclusion from the
+outside world.<Close><End of Block>
 <TextBlock 19 w:52 h:4>
-And so you formed
-a fourth persona.
-A fourth 'Fei'.
-The name...doesn't matter.<New>
-He's the one on the stage.
-He's the one who's in
+And so you made up a
+fourth personality.
+A fourth Fei persona.
+His name...doesn't matter.<New>
+He's the one on the stage
+now. He's the one in
 control of our body.<New>
-But it is a useless
-form of resistance.<Close><End of Block>
+But this, too, is a
+futile resistance.<Close><End of Block>
 <TextBlock 20 w:26 h:1>
-Come with me!<Close><End of Block>
-<TextBlock 21 w:20 h:3>
-Wait!
-What are
-you doing?<Close><End of Block>
-<TextBlock 22 w:30 h:3>
-He has the key.
-I merely want
-to borrow it.<New>
-I've got to
-go somewhere.<Close><End of Block>
+Come with me.<Close><End of Block>
+<TextBlock 21 w:22 h:3>
+Wait,
+what are
+you doing!?<Close><End of Block>
+<TextBlock 22 w:34 h:4>
+The key is in
+his possession.
+I just want him
+to let me use it.<New>
+There's somewhere
+I have to go.<Close><End of Block>
 <TextBlock 23 w:22 h:2>
 Are you...
 coming too?<Close><End of Block>

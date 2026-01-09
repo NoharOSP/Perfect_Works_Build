@@ -7,24 +7,25 @@ Karellen
 What are you doing!?"<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Sophia
-"I am ending this<Delay 5>...<Delay 15>
+"...<Delay 5>I'm ending this now.<Delay 15>
 You won't need to fight
 anymore<Delay 5>...<New>
 So, Karellen<Delay 5>...<New>
-Please <Delay 5>open your fist<Delay 5>...<Delay 15>
-and with your open hand
-gently hold the people who
-will continue to live<Delay 5>..."<Close><End of Block>
-<TextBlock 4 w:44 h:4>
+Please open your fists<Delay 5>...<Delay 15>
+And henceforth, with your
+open palms, gently envelop
+those who live<Delay 5>..."<Close><End of Block>
+<TextBlock 4 w:46 h:4>
 Lacan
-"Don't be foolish!<Delay 5>
-We'll help you escape!<Delay 5>
-So please stop<Delay 5>...!"<Close><End of Block>
-<TextBlock 5 w:48 h:4>
+"Stop this foolishness!<Delay 5>
+We'll make sure you
+escape!<Delay 5> So please<Delay 5>...!"<Close><End of Block>
+<TextBlock 5 w:40 h:3>
 Sophia
-"Thank you, <Delay 5>Lacan<Delay 5>...<Delay 15>
-But<Delay 5>...<Delay 5>sorry<Delay 5>...<Delay 15>
-There's no other way<Delay 5>..."<Close><End of Block>
+"Thank you,<Delay 5> Lacan<Delay 5>...<Delay 15>
+But<Delay 5>...<Delay 5>I'm sorry<Delay 5>...<New>
+There's no other way
+for me now<Delay 5>..."<Close><End of Block>
 <TextBlock 6 w:14 h:2>
 Lacan
 "Elly!"<Close><End of Block>
@@ -36,9 +37,9 @@ us happiness<Delay 5>...<New>
 So share that happiness<Delay 5>...<Delay 5>
 and please<Delay 5>...<Delay 30>
 <Opcode 1 255>Lacan! Live!"<Close><End of Block>
-<TextBlock 8 w:19 h:2>
+<TextBlock 8 w:26 h:2>
 Lacan
-"Ell~y!!"<Opcode 2 180><Close><End of Block>
+"Ellyyyyyy!!"<Opcode 2 180><Close><End of Block>
 <TextBlock 9 w:0 h:1>
 <End of Block>
 <TextBlock 10 w:0 h:0>

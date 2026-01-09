@@ -2069,15 +2069,15 @@ Even if destruction was to
 come on this world, I'd go
 on protecting it!<Close><End of Block>
 <TextBlock 363 w:58 h:6>
-Former Imperial City Guard
+Former Imperial Guard
 "What inhumed our world that
-day was<Delay 5>...<Delay 5>an angel<Delay 5>...<Delay 5>a,<Delay 5> a
-so-called messenger of god ?<Delay 30>
-My sister,<Delay 5> my mother,<Delay 5> my 
+day was<Delay 5>...<Delay 5>angels<Delay 5>...<Delay 5>
+So-called messengers of God?<Delay 30>
+My sister,<Delay 5> my mother,<Delay 5> my
 father<Delay 5>...<Delay 5>they are all dead!<New>
-I,<Delay 5> I am a soldier of the 
+I-<Delay 5>I am a soldier of the
 military empire of Kislev!<Delay 15>
-And yet,<Delay 5> ...<Delay 5>and yet,<Delay 5> ...<Delay 5>and
+And yet<Delay 5>...<Delay 5>and yet<Delay 5>...<Delay 5>and
 yet,<Delay 5> I could do nothing!!!<Delay 15>
 Damn it!<Delay 5> ...<Delay 10>Damn everything!"<Close><End of Block>
 <TextBlock 364 w:54 h:4>

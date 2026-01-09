@@ -1,64 +1,63 @@
 <TextBlock 1 w:36 h:2>
 Citan
-"What is that<Delay 10>...?"<Close><End of Block>
+"What is that<Delay 5>...?"<Close><End of Block>
 <TextBlock 2 w:26 h:3>
 Citan
-"This<Delay 5> must be<Delay 5>
-the place<Delay 10>..."<Close><End of Block>
-<TextBlock 3 w:44 h:2>
+"So this is
+the place<Delay 5>..."<Close><End of Block>
+<TextBlock 3 w:28 h:2>
 Bart
-"Hey, what's that<Delay 10>...?"<Close><End of Block>
-<TextBlock 4 w:32 h:3>
+"What's that?"<Close><End of Block>
+<TextBlock 4 w:28 h:3>
 Bart
-"This has gotta<Delay 20>
-be the place<Delay 10>..."<Close><End of Block>
-<TextBlock 5 w:30 h:3>
+"So this is
+the place<Delay 5>...?"<Close><End of Block>
+<TextBlock 5 w:28 h:2>
 Billy
-"What is that<Delay 5>
-over there<Delay 10>...?"<Close><End of Block>
-<TextBlock 6 w:28 h:3>
+"What's that?"<Close><End of Block>
+<TextBlock 6 w:26 h:3>
 Billy
-"This must be<Delay 20>
-the place<Delay 10>...!"<Close><End of Block>
-<TextBlock 7 w:46 h:2>
+"So this is
+the place<Delay 5>..."<Close><End of Block>
+<TextBlock 7 w:28 h:2>
 Rico
-"What's that there<Delay 10>...?"<Close><End of Block>
-<TextBlock 8 w:38 h:3>
+"What's that?"<Close><End of Block>
+<TextBlock 8 w:28 h:3>
 Rico
-"This has to be<Delay 20>
-the right place<Delay 10>...<Delay 10>"<Close><End of Block>
-<TextBlock 9 w:30 h:2>
+"So this is
+the place<Delay 5>...?"<Close><End of Block>
+<TextBlock 9 w:28 h:2>
 Emeralda
-"What that<Delay 10>...?"<Close><End of Block>
-<TextBlock 10 w:34 h:3>
+"What's that?"<Close><End of Block>
+<TextBlock 10 w:26 h:3>
 Emeralda
-"This is<Delay 20>
-right place<Delay 10>...!?"<Close><End of Block>
+"This...<Delay 20>
+the place<Delay 5>..."<Close><End of Block>
 <TextBlock 11 w:48 h:2>
 <Chu-Chu>
 "Whatchu think that is?"<Close><End of Block>
-<TextBlock 12 w:38 h:3>
+<TextBlock 12 w:32 h:3>
 <Chu-Chu>
-"This has chu be<Delay 20>
-the right place<Delay 10>..."<Close><End of Block>
-<TextBlock 13 w:34 h:2>
+"This has chu be
+the place<Delay 5>..."<Close><End of Block>
+<TextBlock 13 w:28 h:2>
 Maria
-"What's that<Delay 10>...?"<Close><End of Block>
+"What's that?"<Close><End of Block>
 <TextBlock 14 w:26 h:3>
 Maria
-"This is<Delay 20>
-the place<Delay 10>..."<Close><End of Block>
+"So this is
+the place<Delay 5>..."<Close><End of Block>
 <TextBlock 15 w:36 h:2>
 Citan
-"What is that<Delay 10>...?"<Close><End of Block>
+"What is that<Delay 5>...?"<Close><End of Block>
 <TextBlock 16 w:26 h:3>
 Citan
-"This<Delay 5> must be
+"So this is
 the place<Delay 5>..."<Close><End of Block>
-<TextBlock 17 w:30 h:2>
+<TextBlock 17 w:28 h:2>
 Emeralda
-"What that<Delay 10>...?"<Close><End of Block>
-<TextBlock 18 w:30 h:3>
+"What's that?"<Close><End of Block>
+<TextBlock 18 w:26 h:3>
 Emeralda
-"This is <Delay 20>
-right place<Delay 10>..."<Close><Close><End of Block>
+"This...<Delay 20>
+the place<Delay 5>..."<Close><Close><End of Block>

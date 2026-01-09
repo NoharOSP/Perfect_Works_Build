@@ -386,7 +386,7 @@ Wiseman
 "Well, where do
 you go from here...<Delay 10>
 Fei<Delay 5>...?"<Close><End of Block>
-<TextBlock 41 w:18 h:3>
+<TextBlock 41 w:16 h:3>
 Fei
 "I<Delay 5>...<Delay 15>
    I<Delay 5>..."<Close><End of Block>
@@ -522,54 +522,52 @@ Citan
 "<Delay 5>...<Delay 5>Your Majesty.<Delay 30>
 Why do the people of
 Shevat fear Fei so much?<New>
-Even if Grahf and Id's
-power are comparable<Delay 5>..."<Close><End of Block>
+Even if the powers of
+Grahf and Id are
+comparable<Delay 5>..."<Close><End of Block>
 <TextBlock 57 w:28 h:4>
 Zephyr
 "<Delay 5>...<Delay 30>
-It is not that
-we fear him."<Close><End of Block>
-<TextBlock 58 w:42 h:3>
+It is not him
+that we fear."<Close><End of Block>
+<TextBlock 58 w:46 h:3>
 Zephyr
-"We fear the error we
-ourselves committed.<New>
-And now we are simply
-trying to put a lid
-on it<Delay 5>..."<Close><End of Block>
-<TextBlock 59 w:44 h:3>
+"We fear the error that
+we ourselves made,<New>
+and are trying our best
+to conceal it<Delay 5>..."<Close><End of Block>
+<TextBlock 59 w:40 h:3>
 Citan
-"The error that you
-yourselves committed?"<Close><End of Block>
-<TextBlock 60 w:54 h:4>
+"The error that your
+people made?"<Close><End of Block>
+<TextBlock 60 w:52 h:4>
 Zephyr
-"Shevat instigated a battle
-500 years ago to gain our
+"500 years ago,<Delay 5> we of
+Shevat went to war to gain
 independence from Solaris.<New>
-However,<Delay 5> we became overcome
-with the lust for power<Delay 5>...<New>
-Fearing the war-torn
-people's will would no
-longer be with Shevat, but
-with the Nisan Mother<Delay 5>...<New>
-and that the people would
-assemble under Sophia<Delay 5>...<New>
-...<Delay 5>the Council of Elders
-of Shevat back then,<Delay 5> made
-a deal with Solaris."<Close><End of Block>
-<TextBlock 61 w:18 h:2>
+But we were possessed by
+the 'lust for power'<Delay 5>...<New>
+At the height of the
+upheaval,<Delay 5> fearing that the
+will of the people would
+consolidate under Nisan's<New>
+Sacred Mother Sophia and
+not Shevat,<Delay 5> our council of
+elders at that time...<Delay 5>
+made a deal with Solaris."<Close><End of Block>
+<TextBlock 61 w:36 h:2>
 Citan
-"A deal?"<Close><End of Block>
-<TextBlock 62 w:16 h:2>
+"A deal, you say?"<Close><End of Block>
+<TextBlock 62 w:18 h:2>
 Zephyr
-"Yes<Delay 5>..."<Close><End of Block>
-<TextBlock 63 w:50 h:4>
+"...<Delay 5>Yes."<Close><End of Block>
+<TextBlock 63 w:46 h:4>
 Zephyr
-"At the time, Solaris<Delay 5>...<Delay 5>
-or the Gazel Ministry to
-be exact<Delay 5>...<New>
-...<Delay 5>were at odds with a
-woman who held the real
-power behind the scenes."<Close><End of Block>
+"In Solaris back then,<New>
+the Gazel Ministry were
+at odds with one woman
+who held the real power
+behind the scenes."<Close><End of Block>
 <TextBlock 64 w:42 h:3>
 Citan
 "<Delay 5>...<Delay 5>Would that happen
@@ -578,190 +576,184 @@ to have been Myyah?"<Close><End of Block>
 Zephyr
 "Most probably it was."<Close><End of Block>
 <TextBlock 66 w:58 h:8>
-Fearing the increasing power
-of the masses assembling in
-Nisan,<Delay 5> the Gazel Ministry
-schemed to hand over to us
-their antagonist,<Delay 5> Myyah,<Delay 5> and
-promised a division of the
-rulership over the earth's
+Dreading that the power of
+the people gathered in Nisan
+would grow any further,<Delay 5>
+the Gazel Ministry schemed
+to turn their antagonist
+Myyah over to us, promising
+a divided rulership of the
 surface.<New>
  
 But in exchange<Delay 5>...<Delay 45>
  
-We had to give them the rebel
-army that had assembled in
-Nisan<Delay 5> and also their patron,<Delay 5>
-Sophia<Delay 5>...<Close><End of Block>
-<TextBlock 67 w:54 h:4>
+we were to offer up the
+rebel militia assembled in
+Nisan, and the one they had
+come to rely on <--><Delay 5> Sophia...<Close><End of Block>
+<TextBlock 67 w:50 h:4>
 Zephyr
 "The leaders of Shevat
-accepted<Delay 5>...<New>
-...<Delay 5>and it was decided that
-Nisan would be the location
-of the final decisive
-battle with Solaris."<Close><End of Block>
+accepted the proposal,<Delay 5>
+and so...<New>
+A location was chosen <-->
+the land where the final
+decisive battle with
+Solaris would be fought."<Close><End of Block>
 <TextBlock 68 w:54 h:4>
 Zephyr
 "Shevat did not participate
 in that battle<Delay 5>...<New>
-Thwarted by the awesome
-numbers of the Solarian
-army,<Delay 5> and with their path
-of retreat cut off<Delay 5>...<New>
-...<Delay 5>the Nisan rebel army
-ran out of options<Delay 5> and
-was destroyed<Delay 5>...<New>
-Caught up in the middle
-of all this was Lacan,<Delay 5>
+Thwarted by the mighty
+armed forces of Solaris,<Delay 5>
+and with their path
+of retreat cut off,<New>
+the Nisan rebel militia
+was massacred<Delay 5>...<New>
+There in the midst of
+it all were Lacan,<Delay 5>
 Bart's ancestor Roni,<Delay 10>
-myself<Delay 10>...<Delay 45> and 'Karellen'."<Close><End of Block>
-<TextBlock 69 w:44 h:2>
+myself<Delay 10>...<Delay 45>and Karellen."<Close><End of Block>
+<TextBlock 69 w:36 h:3>
 Citan
-"You were also there?"<Close><End of Block>
+"Your Highness was
+there also?"<Close><End of Block>
 <TextBlock 70 w:52 h:4>
 Zephyr
-"Yes<Delay 5>...<Delay 30>
-Surrounded on all sides<Delay 5>...<Delay 5>
-we were prepared to die.<New>
-And then,<Delay 5> the rebel
-forces' flagship appeared
-with Sophia on board.<New>
-She sacrificed herself<Delay 5>
-so as to create a path
-for our retreat<Delay 5>...<New>
-Sophia's ship headed
-straight for the enemy's
-main ship on a suicide
-attack."<Close><End of Block>
-<TextBlock 71 w:38 h:4>
+"...<Delay 5>Yes.<New>
+Fenced in by the enemy
+on all sides,<Delay 5> we resigned
+ourselves to our doom.<New>
+That was when Sophia, who
+had taken the helm of the
+rebel army's flagship,<New>
+sacrificed herself to
+secure our escape...<Delay 10>in a
+suicide attack aimed at
+the enemy's main warship."<Close><End of Block>
+<TextBlock 71 w:44 h:4>
 Zephyr
-"Thanks to Sophia's
-sacrifice,<Delay 5> we were
-able to survive.<New>
-However,<Delay 5> her death
-forever changed the
-fate of two men<Delay 5>..."<Close><End of Block>
-<TextBlock 72 w:64 h:11>
-Karellen,<Delay 5> who followed closely
-under her as the leader of the
-Nisan sect's militia,<Delay 5> completely
-lost faith after calling out to
-a god that would not respond.<Delay 30>
+"We survived because
+of Sophia's sacrifice.<New>
+But her death greatly
+changed the fates of
+two men<Delay 5>..."<Close><End of Block>
+<TextBlock 72 w:64 h:12>
+ Karellen,<Delay 5> who had followed her
+closely as the leader of Nisan's
+warrior monks,<Delay 5> despaired of his
+  faith, of a God who did not
+ respond even when called upon.<Delay 30>
  
-    "I will create god
-    with my own hands!"<Delay 60>
+      'I will create God
+      with my own hands!'<Delay 60>
  
-<Delay 5>...<Delay 5>were the last words he
-uttered<Delay 5> before he disappeared.<Close><End of Block>
+  <Delay 5>...<Delay 5>These were the last words
+      he uttered before he
+   disappeared from our sight.<Close><End of Block>
 <TextBlock 73 w:52 h:9>
 And Lacan<Delay 5>...<Delay 30>
  
-He resented himself for
-not having the power
-to do anything while she
-died in front of him<Delay 5>...<Delay 45>
+Lamenting his own lack
+of power,<Delay 5> his inability
+to do anything when faced
+with her death<Delay 5>...<Delay 45>
  
-<Delay 5>...<Delay 5>So he began to search
-for the 'Legendary Power'.<Close><End of Block>
-<TextBlock 74 w:36 h:2>
+    <Delay 5>...<Delay 5>he sought
+    'the legendary power'.<Close><End of Block>
+<TextBlock 74 w:44 h:2>
 Citan
-"Legendary Power?"<Close><End of Block>
-<TextBlock 75 w:54 h:4>
+"The legendary power?"<Close><End of Block>
+<TextBlock 75 w:50 h:4>
 Zephyr
-"God's resting place, 
-'Machanon'<Delay 5>...<Delay 30> the ground 
+"Machanon,<Delay 5> the land
 where God sleeps...<New>
-the source of wisdom, 
-'Raziel'<Delay 5>...the 'Vessels of 
-Anima' that were created 
-from God's wisdom<Delay 5>...<New>
+Raziel,<Delay 5> the source of
+His wisdom...<New>
+The Vessels of Anima,<Delay 5>
+created by that wisdom...<New>
 Besides these<Delay 5>...<Delay 15>
-another legend exists."<Close><End of Block>
+there is another legend."<Close><End of Block>
 <TextBlock 76 w:28 h:2>
 Citan
 "And that is?"<Close><End of Block>
 <TextBlock 77 w:24 h:2>
 Zephyr
 "'Zohar'<Delay 5>..."<Close><End of Block>
-<TextBlock 78 w:50 h:4>
+<TextBlock 78 w:52 h:4>
 Citan
-"Zohar!?<Delay 30>
-Myyah called that the<Delay 10>
-power reactor of God...
-<Delay 10>'Deus'...<New>
-<Delay 5>which is also the 
-source of all of our 
-Ether power,<Delay 5><New>
-'the Phenomenon 
-Alteration System',
-it isn't the same 
-name is it!?"<Close><End of Block>
-<TextBlock 79 w:50 h:4>
+"Zohar!?<New>
+That 'phenomena-alteration
+engine' Myyah spoke of <--><New>
+the power reactor of
+God...<Delay 10>of Deus...<Delay 10>and said
+to be the source of our
+Ether powers...<New>
+Was its name not the
+same!?"<Close><End of Block>
+<TextBlock 79 w:42 h:4>
 Zephyr
-"It would have to be one
-and the same thing<Delay 5>...<New>
-It is the place that
-contains the ultimate
-source of this world's
-power.<New>
-It is said that only he
-who has the correct
-destiny would be able to
-discover its location<Delay 5>..."<Close><End of Block>
-<TextBlock 80 w:52 h:4>
+"That...<Delay 5>is surely one
+and the same thing.<New>
+The place where the
+fundamental power of
+this world exists <--><New>
+the ultimate power,
+which can only be
+found by the one
+destined to do so..."<Close><End of Block>
+<TextBlock 80 w:54 h:4>
 Zephyr
-"Losing all faith in
-humanity,<Delay 5> Lacan sought
-after its power<Delay 5>...<New>
-Lacan became Grahf<Delay 5>...<Delay 15>
-and the world collapsed<Delay 5>...<New>
-This tragedy happened
-because of the people's
-lust for power<Delay 5>...<New>
-I must take part of the
-responsibility for not
-having been able to stop
-it<Delay 5>...<New>
-And now,<Delay 5> Fei<Delay 5>...<Delay 5>
-the one who has the same
-power as Grahf<Delay 5>...<New>
-We just wanted to seal
-up that dreadful power
-that arose from our own
-sinful deeds<Delay 5>..."<Close><End of Block>
-<TextBlock 81 w:52 h:13>
-Grahf,<Delay 5> the man once known
-as Lacan,<Delay 5> sought after
-the 'Power of Zohar'<Delay 5>...<Delay 45>
+"Lacan searched for it,<Delay 5>
+having lost all hope for
+humanity<Delay 5>...<New>
+And so...Lacan became
+Grahf,<Delay 15> and the world
+collapsed<Delay 5>...<New>
+All of this, a tragedy
+brought about by the
+people's lust for power
+back then<Delay 5>...<New>
+Part of the responsibility
+is mine for being unable
+to stop it<Delay 5>...<New>
+Fei, who possesses the
+same kind of power as the
+Grahf we helped create<Delay 5>...<New>
+He is a symbol of our own
+wrongdoing, and so we
+wanted to seal him away<Delay 5>..."<Close><End of Block>
+<TextBlock 81 w:56 h:13>
+The 'power of the Zohar'
+which Grahf <--><Delay 5> the man known
+as Lacan <--><Delay 5> once sought<Delay 5>...<Delay 45>
  
-  The one who has the same
-  power as Grahf<Delay 5>...Fei<Delay 5>...<Delay 60>
+ Fei, who possesses the same
+ kind of power as Grahf<Delay 5>...<Delay 60>
  
-I had this premonition
-that Fei too<Delay 5> would awaken
-and seek out that power.<Delay 60>
+I had a feeling that before
+long Fei would seek out that
+power,<Delay 5> that he might awaken.<Delay 60>
  
-And that presentiment<Delay 5>
+...And that premonition<Delay 5>
 became reality.<Close><End of Block>
-<TextBlock 82 w:52 h:13>
-He broke through his
-carbonite encasing...<Delay 15>
+<TextBlock 82 w:56 h:13>
+   Having broken the
+   carbonite freeze,<Delay 15>
  
-'Id'<Delay 5>...<Delay 30>Fei took his
-Gear <Weltall> and went
-in search of Zohar.<Delay 60>
+'Id'<--><Delay 30> Fei took off
+with <Weltall-2>,
+in search of the Zohar.<Delay 60>
  
-We followed Fei's trail.<Delay 45>
+   We followed after him.<Delay 45>
  
-Eventually, we arrived at
-the location where Zohar
-had fallen to earth<Delay 5>...<Delay 5>
-so very long ago<Delay 5>...<Close><End of Block>
-<TextBlock 83 w:54 h:3>
-Nothing could have prepared
-us for what we were about
-to see there<Delay 5>...<Close><End of Block>
+     And so it was...<Delay 15>that we
+finally arrived at the place
+ where,<Delay 5> in the ancient past,<Delay 5>
+    the Zohar had settled<Delay 5>...<Close><End of Block>
+<TextBlock 83 w:38 h:2>
+As for what we
+witnessed there<Delay 5>...<Close><End of Block>
 <TextBlock 84 w:54 h:8>
 We set out to silence god's
 ark,<Delay 5> Merkabah,<Delay 5> which was

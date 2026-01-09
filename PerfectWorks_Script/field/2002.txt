@@ -1,81 +1,75 @@
-<TextBlock 1 w:36 h:3>
-So this is where
-Fei's being held!?<Delay 20>
-He deserves it!<Close><End of Block>
-<TextBlock 2 w:54 h:4>
+<TextBlock 1 w:52 h:3>
+So this is where that
+damn Fei's being held!?<Delay 20>
+Serves him right, I'd say!<Close><End of Block>
+<TextBlock 2 w:46 h:4>
 Dan
-"Let me pray on his weeping
-face as if it were an idol!
-Heh, heh... As if I would!"<Close><End of Block>
-<TextBlock 3 w:18 h:2>
-...Gah!<Delay 20>
-Argh...!!<Opcode 2 80><Close><End of Block>
-<TextBlock 4 w:24 h:2>
-St...stop...<Delay 20>
-Stop... it!!<Opcode 2 80><Close><End of Block>
-<TextBlock 5 w:24 h:2>
-D a n...<Delay 20>
-Mi do ri...!<Opcode 2 80><Close><End of Block>
-<TextBlock 6 w:26 h:3>
-R...<Delay 20>run...<Delay 30>
-Hurry...<Delay 20>
-Run a...way!!<Opcode 2 30><Close><End of Block>
-<TextBlock 7 w:36 h:4>
+"I think I'll pay my
+respects to his weeping
+face!<Delay 5> Hehe..."<Close><End of Block>
+<TextBlock 3 w:16 h:2>
+...Guh!<Delay 20>
+Ugh...!!<Opcode 2 80><Close><End of Block>
+<TextBlock 4 w:22 h:2>
+S...<Delay 5>Stop...<Delay 20>
+Stop...<Delay 5>it!!<Opcode 2 80><Close><End of Block>
+<TextBlock 5 w:26 h:2>
+<Opcode 14 2>Dan...<Delay 20>
+Mido...ri...!<Opcode 2 80><Close><End of Block>
+<TextBlock 6 w:22 h:3>
+<Opcode 14 2>R...<Delay 5>Run...<Delay 30>
+Hur...<Delay 5>ry...<Delay 20>
+<Opcode 14 0>Hurry!!<Opcode 2 60><Close><End of Block>
+<TextBlock 7 w:34 h:3>
 Dan
-"Yech...!<Delay 20>
-What,
-what is this...!?"<Close><End of Block>
+"*gasp*...!<Delay 20>
+Wh-<Delay 5>What the...!?"<Close><End of Block>
 <TextBlock 8 w:40 h:3>
 Dan
 "...<Delay 20>
-This is terrible..."<Close><End of Block>
-<TextBlock 9 w:34 h:4>
+Th-<Delay 5>This is awful..."<Close><End of Block>
+<TextBlock 9 w:44 h:4>
 Dan
-"No matter what,
-this is going
-way too far...<New>
-He's still...
-alive...?<Delay 20>
-How could you
-possibly be!?<New>
-You're human too,
-aren't you!?
-Darn...!"<Close><End of Block>
-<TextBlock 10 w:26 h:4>
+"No matter what
+he's done, this is
+going way too far...<New>
+He's...alive in there?<Delay 20>
+How can that be!?<New>
+He's still a human
+being, dammit...!"<Close><End of Block>
+<TextBlock 10 w:22 h:4>
 Dan
 "...<Delay 30>
 Fei...<Delay 20>
-Oh, Fei...!?"<Close><End of Block>
+Oh, Fei..."<Close><End of Block>
 <TextBlock 11 w:20 h:2>
 Dan
 "Huh...!?"<Close><End of Block>
-<TextBlock 12 w:52 h:4>
+<TextBlock 12 w:52 h:3>
 Dan
-"Midori, it's you...<Delay 20>
-Phew...
+"O-<Delay 5>Oh...<Delay 5>Midori, it's you.<Delay 20>
 Don't scare me like that!"<Close><End of Block>
 <TextBlock 13 w:26 h:4>
 Dan
-"Crying...?
-Who's crying?<Delay 20>
+"C-<Delay 5>Crying...?<Delay 20>
+Who is?<Delay 20>
 ...!?"<Close><End of Block>
-<TextBlock 14 w:40 h:3>
+<TextBlock 14 w:38 h:2>
 Dan
-"You mean our friend
-Fei is crying?"<Close><End of Block>
-<TextBlock 15 w:40 h:2>
+"Do you mean Fei!?"<Close><End of Block>
+<TextBlock 15 w:16 h:2>
 Dan
-"What do you mean!?"<Close><End of Block>
-<TextBlock 16 w:28 h:3>
+"What!?"<Close><End of Block>
+<TextBlock 16 w:34 h:3>
 Dan
-"Whoa...!
-What the...!?"<Close><End of Block>
+"Whoa...!!
+Wh-<Delay 5>What the...!?"<Close><End of Block>
 <TextBlock 17 w:14 h:2>
 Dan
 "Fei!?"<Close><End of Block>
-<TextBlock 18 w:24 h:2>
+<TextBlock 18 w:18 h:2>
 Dan
-"Yikes...!?"<Opcode 2 20><Close><End of Block>
+"Aaagh!?"<Opcode 2 20><Close><End of Block>
 <TextBlock 19 w:18 h:1>
 Crying...<Close><End of Block>
 <TextBlock 20 w:42 h:3>

@@ -21,11 +21,12 @@
 <_>to commence auto-
 <_>attack sequence<New>
 <]>Power and fuel usage
-<_>differs depending on
+<_>varies depending on
 <_>attack type:
-<_><T>10   <S>20   <X>30<Delay 30>
-<_>('Charge' restores
-<_>30 fuel units)<Close><End of Block>
+<_><T>10   <S>20   <X>30<New>
+<]>Select 'Charge' to
+<_>defend and replenish
+<_>30 fuel units<Close><End of Block>
 <TextBlock 2 w:48 h:4>
 ! WARNING !<Delay 30>
 <]>Enemy Gears now

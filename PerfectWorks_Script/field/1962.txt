@@ -1,24 +1,23 @@
-<TextBlock 1 w:46 h:3>
+<TextBlock 1 w:44 h:3>
 Karellen
-"You're neglecting
-yourself too much!<New>
-Why aren't you kinder
-to yourself, Mistress?"<Close><End of Block>
+"You're too neglectful
+of yourself!<New>
+Why do you not look
+after yourself more!?"<Close><End of Block>
 <TextBlock 2 w:28 h:2>
 Karellen
 "Lady Sophia!"<Close><End of Block>
 <TextBlock 3 w:32 h:2>
 Karellen
 "Lady Sophia<Delay 5>..."<Close><End of Block>
-<TextBlock 4 w:40 h:3>
+<TextBlock 4 w:30 h:3>
 Karellen
-"Lacan!
-What are you doing?"<Close><End of Block>
-<TextBlock 5 w:44 h:4>
+"What are you
+doing, Lacan!?"<Close><End of Block>
+<TextBlock 5 w:40 h:4>
 Karellen
-"You keep back!<Delay 10> I knew
-we couldn't leave Lady
+"That's enough!<Delay 10>
+I can't leave Lady
 Sophia in your care!<New>
-I'll protect her<Delay 5>...<Delay 5>
-even if it costs me
-my life!"<Close><Close><End of Block>
+I will protect her
+with my life!"<Close><Close><End of Block>

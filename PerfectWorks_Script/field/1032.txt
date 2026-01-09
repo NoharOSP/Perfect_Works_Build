@@ -360,13 +360,13 @@ Don't worry about it, Doc."<Close><End of Block>
 <TextBlock 69 w:10 h:2>
 Citan
 "<Delay 5>.<Delay 5>.<Delay 5>."<Close><End of Block>
-<TextBlock 70 w:48 h:3>
+<TextBlock 70 w:42 h:3>
 Fei
 "Doc, I've got to get
 back to the Battling.<New>
 I want to get this
-explosive collar off
-of me as soon as I can."<Close><End of Block>
+bomb collar off me
+as soon as I can."<Close><End of Block>
 <TextBlock 71 w:50 h:4>
 Citan
 "Fei, how is your health
@@ -1060,13 +1060,13 @@ Citan
 <TextBlock 176 w:52 h:3>
 Hammer
 "'Cause of these things!
-They're explosive collars!<New>
+They're bomb collars!<New>
 As long as we are wearing
 these, we'll never be able
 to set foot out of here!"<Close><End of Block>
-<TextBlock 177 w:44 h:4>
+<TextBlock 177 w:36 h:4>
 Citan
-"Explosive collars<Delay 5>...?<Delay 15>
+"Bomb collars<Delay 5>...?<Delay 15>
 That is rather
 disturbing!<New>
 Allow me to have a
@@ -1184,7 +1184,7 @@ that.<Delay 20> Is everything okay?<New>
 Anyway, are you absolutely
 sure now?<Delay 15>
 I will start removing the
-explosive collar, then<Delay 5>..."<Close><End of Block>
+bomb, then<Delay 5>..."<Close><End of Block>
 <TextBlock 198 w:56 h:4>
 Fei
 "Let's not do this!<Delay 15>
@@ -1227,11 +1227,11 @@ Citan
 "Huh? Oh, uhh<Delay 5>...<Delay 5>
 It is nothing, Fei.
 Hahaha, nothing at all!"<Close><End of Block>
-<TextBlock 207 w:52 h:4>
+<TextBlock 207 w:48 h:4>
 Hammer
 "Th-<Delay 10>Th-<Delay 5>That part is<Delay 5>...<Delay 5>
-the explosive collar's
-safety device, isn't it!?"<Close><End of Block>
+the bomb collar's safety
+device, isn't it!?"<Close><End of Block>
 <TextBlock 208 w:32 h:3>
 Citan
 "<Delay 5>...S-<Delay 5>Sorry.
@@ -1355,7 +1355,7 @@ Citan
 with the same problem.<New>
 If only there was a better
 way of getting rid of that
-explosive collar<Delay 5>...<Delay 5>!?"<Close><End of Block>
+bomb collar<Delay 5>...<Delay 5>!?"<Close><End of Block>
 <TextBlock 235 w:20 h:1>
 *CL<Delay 15>...<Delay 5>ANK*<Close><End of Block>
 <TextBlock 236 w:26 h:3>

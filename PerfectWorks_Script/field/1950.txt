@@ -66,9 +66,9 @@ now I'm completely
 hooked."<Close><End of Block>
 <TextBlock 13 w:54 h:4>
 Karellen
-"I'm not trying to brag<Delay 5>...<Delay 15>
-but I've learned a lot of
-things I never knew before.<New>
+"I've become quite the
+scholar these days,<Delay 5> as much
+as I hate to admit it.<New>
 Lately, I've been reading
 this."<Close><End of Block>
 <TextBlock 14 w:26 h:2>
@@ -77,20 +77,19 @@ Lacan
 <TextBlock 15 w:54 h:4>
 Karellen
 "Something I borrowed
-from Melchior.<New>
-It's about a form of
-molecular engineering<Delay 5>...<Delay 5>
+from Master Melchior.<New>
+Molecular engineering<Delay 5>...<Delay 5>
 nanotechnology.<New>
-I believe it's a book found
-in the ancient ruins of the
-Zeboim civilization.<New>
-It's a copy of someone's
-research report,<Delay 5> but it's
-incomplete.<New>
-I think there were even
-more wonderful things
-written in it, but we'll
-never know now<Delay 5>..."<Close><End of Block>
+It's a book found in the
+ruins of a civilization
+called Zeboim, which was
+destroyed in ancient times.<New>
+It seems to be a copy of
+someone's research report,<Delay 5>
+but it's incomplete.<New>
+I imagine even more
+incredible things were
+written in it, but<Delay 5>..."<Close><End of Block>
 <TextBlock 16 w:34 h:4>
 Margie
 "Are you sure

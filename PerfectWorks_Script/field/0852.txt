@@ -112,7 +112,7 @@ happens.<Close><End of Block>
 anything that's worth
 the price of the meal.<New>
 Just bring some money
-the next time.<Close><End of Block>
+next time.<Close><End of Block>
 <TextBlock 30 w:28 h:1>
 This is nice.<Opcode 2 30><Close><End of Block>
 <TextBlock 31 w:40 h:1>

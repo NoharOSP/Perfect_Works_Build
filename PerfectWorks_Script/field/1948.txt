@@ -2,11 +2,11 @@
 !<Opcode 2 15><Close><End of Block>
 <TextBlock 2 w:58 h:6>
 Sophia
-"Faith<Delay 0> in<Delay 0> God<Delay 0>...<Delay 45>
-Do<Delay 0> not<Delay 0> look<Delay 0> for<Delay 0> it<Delay 0> on<Delay 0> the<Delay 0>
-outside<Delay 0>...<Delay 30>
-For<Delay 0> it<Delay 0> is<Delay 0> something<Delay 0> one<Delay 0> must<Delay 0>
-build<Delay 0> from<Delay 0> within<Delay 0> oneself<Delay 0>..."<Opcode 2 120><Close><End of Block>
+"Faith in God...<Delay 45>
+It's not something we
+search for out there,<Delay 30>
+but something we let
+blossom within us<Delay 5>..."<Opcode 2 120><Close><End of Block>
 <TextBlock 3 w:36 h:3>
 Karellen
 "It's been a long

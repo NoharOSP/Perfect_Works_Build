@@ -35,7 +35,7 @@ going to last<Delay 5>...<Close><End of Block>
 <TextBlock 5 w:50 h:5>
 During the assault on the
 Empire, it was said that
-the new imperial Gear was
+the new Imperial Gear was
 stolen from the D Block
 area's Gear dock<Delay 5>...<New>
 I happened to hear from
@@ -117,7 +117,7 @@ to me right now."<Close><End of Block>
 <TextBlock 13 w:50 h:5>
 Battler Soldier
 "The officer's lecture is
-always the same<Delay 5>...<Delay 15>It's
+always the same<Delay 5>...<Delay 15> It's
 hard on us people who
 have to listen to him.<New>
 Not just that,<Delay 5> he keeps
@@ -136,7 +136,7 @@ Amazon Soldier
 "Argh,<Delay 5> this sucks.<Delay 15> He
 thinks it's a lecture<Delay 5> but
 all he does is say the
-same thing everyday.<New>
+same thing every day.<New>
 Compared to this, I was
 fighting a lot more in my
 Battling days.<New>
@@ -149,7 +149,7 @@ Army Cook
 component to drafting many
 young soldiers.<New>
 But because of that, we get
-some young ones that over do
+some young ones that overdo
 it. By the time that happens,
 it's usually too late<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 17 w:48 h:5>
@@ -166,7 +166,7 @@ I thought that I told
 them strictly not to
 allow civilians in.<New>
 Man...what am I going
-to do."<Close><End of Block>
+to do?"<Close><End of Block>
 <TextBlock 18 w:48 h:4>
 Argh!<Delay 5> I failed<Delay 5> again.<Delay 15>
 Hmmm,<Delay 5> there's just
@@ -176,7 +176,7 @@ Ether cuisine has a lot
 of depth to it.<Close><End of Block>
 <TextBlock 19 w:54 h:5>
 Failure is an important
-step to my path to success!<Delay 15>
+step on my path to success!<Delay 15>
 It's my dream to become
 just like that first Ether
 cook over in D Block.<Close><End of Block>

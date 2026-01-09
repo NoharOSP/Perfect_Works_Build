@@ -209,58 +209,65 @@ That's why...<Delay 5>
 I'm having him paint me<Delay 5>...<Delay 30>
  
 Just as I am<Delay 5>...<Close><End of Block>
-<TextBlock 40 w:48 h:3>
+<TextBlock 40 w:42 h:3>
 Elly
 "What's wrong?<Delay 15>
-You don't look so good."<Close><End of Block>
+You don't look well."<Close><End of Block>
 <TextBlock 41 w:54 h:4>
 Elly
-"Lately, you've seemed
-melancholy almost everyday.<Delay 15>
-Has something happened?"<Close><End of Block>
-<TextBlock 42 w:36 h:4>
+"It seems like you're
+depressed every day lately.<Delay 15>
+Did something happen?"<Close><End of Block>
+<TextBlock 42 w:38 h:4>
 Lacan
-"I don't know.<Delay 15>
-I just can't paint
-right now.<New>
-Sorry,<Delay 5> but do you
-mind if we stop
-here for today<Delay 5>..."<Close><End of Block>
+"I don't know what
+it is, myself.<New>
+But for some reason
+my brush just won't
+do what I want it
+to do.<New>
+Sorry,<Delay 5> I think I'm
+done for today<Delay 5>..."<Close><End of Block>
 <TextBlock 43 w:44 h:4>
 Elly
 "I see<Delay 5>...<Delay 5>
-It is not good to push
+It's not good to push
 yourself too hard<Delay 5>...<New>
 Why don't you rest up
 for a little while?<Delay 30>
 I'll have Karellen
 take you<Delay 5>..."<Close><End of Block>
-<TextBlock 44 w:26 h:3>
+<TextBlock 44 w:28 h:3>
 Karellen
 "What are you
-doing<Delay 5> Lacan?"<Close><End of Block>
-<TextBlock 45 w:50 h:4>
+doing, Lacan?"<Close><End of Block>
+<TextBlock 45 w:52 h:3>
 Lacan
-"Oh<Delay 5> it's you,<Delay 5> Karellen<Delay 5>...<Delay 15>
-I was thinking<Delay 5>...<Delay 5>I'd stop
-painting the portrait<Delay 5>..."<Close><End of Block>
-<TextBlock 46 w:36 h:2>
+"Ah,<Delay 5> Karellen<Delay 5>...<New>
+I was thinking I'd stop
+working on the painting...<Delay 10>
+the portrait<Delay 5>..."<Close><End of Block>
+<TextBlock 46 w:30 h:2>
 Karellen
-"Why stop now<Delay 5>...?"<Close><End of Block>
-<TextBlock 47 w:50 h:4>
+"Stop<Delay 5>...?<Delay 5> Why?"<Close><End of Block>
+<TextBlock 47 w:54 h:4>
 Lacan
-"It's the circumstances.<Delay 15>
-I shouldn't be painting
-her at a time like this."<Close><End of Block>
-<TextBlock 48 w:50 h:4>
+"With things the way they
+are, you know?<Delay 10> It's no time
+to be painting pictures.<New>
+I thought it was all over,
+after what she went through
+with Nimrod, but now that
+Solaris has<-->"<Close><End of Block>
+<TextBlock 48 w:46 h:4>
 Lacan
-"Eventually she too must
-stand at the front lines.<Delay 15>
-So<Delay 5>..."<Close><End of Block>
+"Eventually, she too
+will have to stand at
+the front lines.<Delay 15> So<Delay 5>..."<Close><End of Block>
 <TextBlock 49 w:30 h:3>
 Karellen
 "Is that really
-the problem?"<Close><End of Block>
+all it is?"<Close><End of Block>
 <TextBlock 50 w:10 h:2>
 Lacan
 "<Delay 5>...<Delay 5>"<Close><End of Block>
@@ -269,237 +276,235 @@ Karellen
 "Lacan<Delay 5>...?"<Close><End of Block>
 <TextBlock 52 w:52 h:4>
 Lacan
-"<Delay 5>...<Delay 5>
-Her smile<Delay 5>...<Delay 5>
-it's killing me.<New>
-The more she smiles at me,
-the more I<Delay 5>...<Delay 5>I feel my
-very being become
-insignificant.<New>
-Inside my heart there is
-this empty existence.<Delay 15>
-Other than painting,<Delay 5>
-I have no worth<Delay 5>...<New>
-Yet, she continues to
-accept my presence.<Delay 15>
-I feel like I'm getting
+"<Delay 5>...<Delay 15>
+Her smile is killing me.<New>
+The more she smiles at
+me...<Delay 5>the more I can't help
+thinking how insignificant
+I am.<New>
+The inside of my heart is
+this 'hollow' existence.<Delay 15>
+Apart from doing my
+paintings, I'm a nobody<Delay 5>...<New>
+She takes me as I am,
+without discrimination.<Delay 15>
+I feel myself getting
 smaller and smaller."<Close><End of Block>
-<TextBlock 53 w:54 h:4>
+<TextBlock 53 w:50 h:4>
 Lacan
 "I didn't have this
 feeling in the beginning.<New>
-I just wanted to paint her<Delay 5>
-one more minute<Delay 5>...<Delay 5>
-one more second longer<Delay 5>...<New>
-I wanted to keep on
-painting forever.<Delay 15>
-But,<Delay 5> suddenly I couldn't.<New>
-As the picture neared
-completion, the empty part
-of me started to manifest
-itself in my brush strokes.<New>
-I was meant to be painting
+I'd want to paint her
+one minute longer <-->
+one second, even.<New>
+I wanted to keep working
+on this painting forever.<Delay 15>
+But I can't.<New>
+As the painting nears
+completion, the 'hollow'
+part inside me manifests
+in my brushstrokes.<New>
+I'm meant to be painting
 her as she really is<Delay 5>...<Delay 15>
 but<Delay 5>...<Delay 5>this picture is<Delay 5>...<Delay 10>
 my own self<Delay 5>...<New>
-My empty self has begun to
-appear within there.<Delay 15>
+It's my hollow self
+that's there.<Delay 15>
 That's why<Delay 5>...<Delay 5>
-I've got to stop now."<Close><End of Block>
+I'm going to stop."<Close><End of Block>
 <TextBlock 54 w:38 h:2>
 Karellen
 "Your own self<Delay 5>...?"<Close><End of Block>
 <TextBlock 55 w:54 h:4>
 Karellen
 "You're just running away!<Delay 15>
-You can't bear it when
-she smiles at you.<New>
-By painting her portrait,<Delay 5>
-you noticed the gap between
-your own inner emptiness
-and her inner abundance.<New>
-And you could not fill that
-gap<Delay 5>...<Delay 15>
-That's why you are quitting
-your painting.<New>
-You are refusing her!<Delay 15>
-Even so, you still can't
-bring yourself to leave
-her, can you?<New>
-In spite of that<Delay 5>...<Delay 5>
-why is it that she
-continues to smile at you?<New>
-You who can't accept her
-feelings<Delay 5>...<Delay 15>
-You who won't accept her
-feelings<Delay 5>..."<Close><End of Block>
-<TextBlock 56 w:40 h:3>
+You can't bear the sight
+of Lady Sophia smiling.<New>
+By painting her portrait,<New>
+you became aware of the
+gulf between your own
+inner emptiness and
+her inner abundance,<New>
+and you couldn't bridge
+that gulf.<Delay 15> That's why
+you're quitting painting.<Delay 15>
+You are rejecting her!<New>
+And yet you can't bring
+yourself to leave her.<New>
+Why does she smile at you,
+despite that!?<New>
+Even when you can't face
+up to her feelings,<Delay 15> have
+no intention of facing up
+to them<Delay 5>..."<Close><End of Block>
+<TextBlock 56 w:30 h:3>
 Karellen
-"Tell me why!?<New>
+"Why!?<New>
 If it was me<Delay 5>...<Delay 30>
-who was receiving<Delay 5>...<Delay 15>
-such feelings<Delay 5>..."<Close><End of Block>
-<TextBlock 57 w:42 h:3>
+receiving those
+feelings<Delay 5>..."<Close><End of Block>
+<TextBlock 57 w:30 h:4>
 Roni
-"<Delay 5>...<Delay 5>Is this really
-her true expression?"<Close><End of Block>
-<TextBlock 58 w:54 h:4>
+"<Delay 5>...<Delay 5>This is her
+expression,<Delay 5> as
+she really is?"<Close><End of Block>
+<TextBlock 58 w:50 h:4>
 Lacan
 "Yeah<Delay 5>...<Delay 5>
-To people who don't know
-her that well<Delay 5>...<Delay 5>I guess<Delay 5>..."<Close><End of Block>
+To the casual observer...<Delay 5>
+I guess it's<Delay 5>..."<Close><End of Block>
 <TextBlock 59 w:54 h:4>
 Roni
 "Her smile<Delay 5>...<Delay 15>
 I don't know<Delay 5>...<New>
-The smile in this picture
-is somehow different from
-the one she usually shows
-us.<New>
-I realize Lacan's feelings
-are in there, but<Delay 5>...<New>
-I don't think she has ever
-opened herself up and shown
-her inner self to others
-like this before."<Close><End of Block>
-<TextBlock 60 w:54 h:4>
+The smile she usually
+shows us and her smile
+in this painting somehow
+feel different.<New>
+Of course, the feelings
+of a guy like you are
+definitely in there, but<Delay 5>...<New>
+In public, I don't think
+she's shown an expression
+so revealing of her inner
+self."<Close><End of Block>
+<TextBlock 60 w:44 h:3>
 Roni
-"You've been painting such
-a beautiful expression of
-Sophia<Delay 5>...<New>
-I just can't see the reason
-why you want to stop."<Close><End of Block>
-<TextBlock 61 w:34 h:4>
+"How can you even
+think of stopping<New>
+when you're painting
+Sophia with such a
+wonderful expression?"<Close><End of Block>
+<TextBlock 61 w:38 h:3>
 Lacan
-"Beautiful<Delay 5>...?<New>
-Forget it.<Delay 10>
-This picture<Delay 5>...!?<Delay 5>
-It's anything but
-beautiful<Delay 5>..."<Close><End of Block>
-<TextBlock 62 w:50 h:4>
+"Wonderful<Delay 5>...?<New>
+Give me a break.<Delay 10>
+This painting...
+is anything but<Delay 5>..."<Close><End of Block>
+<TextBlock 62 w:54 h:4>
 Roni
 "Lacan,<Delay 5> you say you're
-empty.<Delay 15> Then why do you
-come along with us?<New>
+hollow.<Delay 15> If that's the case,
+why're you working with us?<New>
 What we've been doing
-up till now,<Delay 5> ain't
-just acts of mercy<Delay 5>...<Delay 15>
-It's a fight for freedom.<New>
-Time and again you've
-been through life
-threatening situations
-with us<Delay 5>..."<Close><End of Block>
-<TextBlock 63 w:52 h:4>
+isn't just about helping
+people.<Delay 15> It's a fight to
+win our freedom.<New>
+Time and again, we've
+been in life-threatening
+danger."<Close><End of Block>
+<TextBlock 63 w:46 h:4>
 Roni
-"A man who has nothing in
-his heart couldn't do that
-kind of thing<Delay 30>...<Delay 5>right?"<Close><End of Block>
+"That's not something a
+person with nothing in
+their heart could do.<New>
+...Right?"<Close><End of Block>
 <TextBlock 64 w:50 h:4>
 Lacan
 "Roni, you're giving me
 too much credit.<New>
-As long as you do some-
-thing to keep yourself
-occupied<Delay 5>...<Delay 5>you can ignore
-the hollowness inside."<Close><End of Block>
-<TextBlock 65 w:48 h:4>
+If I'm doing something...
+if I'm physically active,<Delay 5>
+I can forget about that
+emptiness of the self."<Close><End of Block>
+<TextBlock 65 w:42 h:4>
 Lacan
-"From the beginning, my
-very existence itself
-was an emptiness.<New>
-It wouldn't matter if I
-were to die right now<Delay 5>...<Delay 15>
-You live,<Delay 5> you die<Delay 5>...<Delay 5>
-That's all<Delay 5>..."<Close><End of Block>
-<TextBlock 66 w:44 h:4>
+"Existence itself is
+an emptiness from the
+start.<New>
+I don't care if I
+die<Delay 5>...<Delay 15> That's all<Delay 5>..."<Close><End of Block>
+<TextBlock 66 w:38 h:4>
 Roni
-"Pessimistic as usual,<Delay 10>
-Lacan<Delay 5>...<Delay 15>
-And now you're lying."<Close><End of Block>
+"As gloomy as ever,
+Lacan<Delay 5>...<Delay 15> And you're
+telling lies."<Close><End of Block>
 <TextBlock 67 w:10 h:2>
 Lacan
-"<Delay 5>...<Delay 5>"<Close><End of Block>
+"<Delay 5>..."<Close><End of Block>
 <TextBlock 68 w:54 h:4>
 Roni
-"It's just that you're not
+"It's simply that you're no
 good at expressing your own
-feelings.<New>
-You're not empty.<Delay 15>
+emotions.<New>
+You're not hollow.<Delay 15>
 She knows that.<Delay 15>
-That's why she shows only
-you her true smile."<Close><End of Block>
-<TextBlock 69 w:44 h:4>
+That's why she shows her
+true smile only to you."<Close><End of Block>
+<TextBlock 69 w:46 h:4>
 Lacan
-"I don't deserve to
-see her true smile.<New>
+"I'm not worthy of
+her smile.<New>
 She is the hope of the
 people.<Delay 15> Their support.<Delay 15>
-There is so much more
-for her to do."<Close><End of Block>
-<TextBlock 70 w:46 h:4>
+There's so much more
+she has to accomplish."<Close><End of Block>
+<TextBlock 70 w:42 h:4>
 Lacan
-"Why would she open her
-heart to a mere artist
-like me<Delay 5>..."<Close><End of Block>
-<TextBlock 71 w:25 h:2>
+"As if she'd open her
+heart for me alone,<Delay 5>
+a mere artist<Delay 5>..."<Close><End of Block>
+<TextBlock 71 w:26 h:2>
 Rene
-"Bro!<Delay 15> Bro<~>!"<Opcode 2 60><Close><End of Block>
-<TextBlock 72 w:24 h:4>
+"Bro!<Delay 15> Bro~!"<Opcode 2 60><Close><End of Block>
+<TextBlock 72 w:26 h:4>
 Rene
-"Hey, bro<Delay 5>...<Delay 5>
-What are you
-doing here?"<Close><End of Block>
+"Hey bro,<Delay 5> so
+this is where
+you were."<Close><End of Block>
 <TextBlock 73 w:24 h:2>
 Roni
 "What's up?"<Close><End of Block>
-<TextBlock 74 w:50 h:3>
+<TextBlock 74 w:50 h:4>
 Zephyr
-"The Council of Elders of
-Shevat issued a decision.<New>
-Tomorrow we will leave
-for Soylent."<Close><End of Block>
+"The decision of Shevat's
+council of elders was
+announced.<New>
+Tomorrow we depart for
+Soylent."<Close><End of Block>
 <TextBlock 75 w:42 h:3>
 Roni
-"Soylent?<Delay 15>
+"Soylent!?<Delay 15>
 That's in Solaris<Delay 5>..."<Close><End of Block>
-<TextBlock 76 w:38 h:4>
+<TextBlock 76 w:42 h:4>
 Rene
-"Yes.<Delay 15>
-And<Delay 5>...<Delay 5>Sophia will
-be coming with us."<Close><End of Block>
-<TextBlock 77 w:40 h:2>
+"Yep.<Delay 15>
+And<Delay 5>...<Delay 5>Sophia will now
+be accompanying us."<Close><End of Block>
+<TextBlock 77 w:26 h:2>
 Karellen
-"That's ridiculous!"<Close><End of Block>
-<TextBlock 78 w:48 h:4>
+"Ridiculous!"<Close><End of Block>
+<TextBlock 78 w:46 h:4>
 Karellen
-"The number of refugees
-is still increasing!<New>
-We can't afford to have
-Lady Sophia leave Nisan!<New>
-And <Delay 5>going to Soylent!<Delay 5>
-That's plain foolish!<Delay 10>
+"With the refugees
+growing in number
+as they are,<New>
+there's no way Lady
+Sophia can leave Nisan!<New>
+On top of that,<Delay 5> going
+to Soylent is madness!<Delay 10>
 It's too dangerous!<New>
-What are the elders
-thinking?"<Close><End of Block>
-<TextBlock 79 w:32 h:4>
+What is the council of
+elders thinking!?"<Close><End of Block>
+<TextBlock 79 w:32 h:3>
 Zephyr
-"No.<Delay 15>
-It wasn't the
-council's wish."<Close><End of Block>
-<TextBlock 80 w:52 h:4>
+"No,<Delay 5> that is not
+how it is."<Close><End of Block>
+<TextBlock 80 w:54 h:4>
 Zephyr
-"It was Sophia's will. It
-appears that she expressed
-this desire herself."<Close><End of Block>
-<TextBlock 81 w:44 h:3>
+"This is Sophia's own will.<Delay 10>
+Apparently she put forward
+the request herself."<Close><End of Block>
+<TextBlock 81 w:30 h:4>
 Karellen
-"That can't be<Delay 5>...<Delay 5>
-What is she thinking?"<Close><End of Block>
-<TextBlock 82 w:34 h:4>
+"No<Delay 5>...<Delay 15>
+What could she
+have in mind?"<Close><End of Block>
+<TextBlock 82 w:38 h:4>
 Rene
-"Originally, we 
-talked about it
-being just us<Delay 5>..."<Close><End of Block>
+"At first we talked
+about it being just
+us, but<Delay 5>..."<Close><End of Block>
 <TextBlock 83 w:26 h:2>
 Karellen
 "Just us<Delay 5>...?"<Close><End of Block>

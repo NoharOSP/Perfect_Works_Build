@@ -1,13 +1,12 @@
-<TextBlock 1 w:36 h:4>
+<TextBlock 1 w:42 h:3>
 Lacan
-"There<Delay 5>...<Delay 30>
-That's what I have
-sought after<Delay 5>..."<Opcode 2 60><Close><End of Block>
-<TextBlock 2 w:46 h:4>
-But wait!<Delay 15>
-That's not what I want!<Delay 15>
-No!<Delay 5>
-This is my very desire!<Opcode 2 120><Close><End of Block>
+"Over there<Delay 5>...<Delay 30>
+That which I seek<Delay 5>..."<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:60 h:4>
+No!<Delay 15>
+This isn't what I want!<Delay 15>
+Oh but it is<Delay 5>...
+This is exactly what I wanted!<Opcode 2 120><Close><End of Block>
 <TextBlock 3 w:16 h:1>
 .<Delay 1>.<Delay 1>.<Delay 1>L<Delay 1>i<Delay 1>v<Delay 1>e<Delay 1>!<Opcode 2 60><Close><End of Block>
 <TextBlock 4 w:0 h:1>

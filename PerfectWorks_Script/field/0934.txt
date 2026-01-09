@@ -92,8 +92,8 @@ Are you gonna do it?"<Close><End of Block>
 <TextBlock 16 w:44 h:4>
 Strachey
 "I'd rather not go
-against orders and<New>
-risk being bumped
+against orders,<New>
+we risk being bumped
 back down to mere
 Third Class citizens!"<Close><End of Block>
 <TextBlock 17 w:44 h:4>
