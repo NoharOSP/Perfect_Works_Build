@@ -11,7 +11,7 @@ Wiseman...<Delay 255><Close><End of Block>
 <TextBlock 6 w:16 h:1>
 Grahf...<Opcode 2 200><Close><End of Block>
 <TextBlock 7 w:24 h:1>
-Wait for me!<Opcode 2 255><Close><End of Block>
+Wait for me!<Opcode 2 120><Close><End of Block>
 <TextBlock 8 w:16 h:2>
 Where...<Delay 30>
 am I?<New>
@@ -55,13 +55,15 @@ Fearing those things,
 you desired complete
 seclusion from the
 outside world.<Close><End of Block>
-<TextBlock 19 w:52 h:4>
+<TextBlock 19 w:42 h:4>
 And so you made up a
 fourth personality.
-A fourth Fei persona.
-His name...doesn't matter.<New>
-He's the one on the stage
-now. He's the one in
+A fourth Fei persona.<New>
+His name...
+doesn't matter.<New>
+He's the one on
+the stage now.
+He's the one in
 control of our body.<New>
 But this, too, is a
 futile resistance.<Close><End of Block>
@@ -141,7 +143,8 @@ Along with your basic
 persona, the 'coward'.<New>
 I'll rule my being through
 the power of the Existence.<Close><End of Block>
-<TextBlock 36 w:4 h:1>
+<TextBlock 36 w:4 h:2>
+ 
 ??<Close><End of Block>
 <TextBlock 37 w:54 h:3>
 Of course you don't know.
@@ -169,7 +172,7 @@ If your mental
 energy is weakened,<Delay 5>
 I can become free
 to do as I wish.<Close><End of Block>
-<TextBlock 40 w:10 h:1>
+<TextBlock 40 w:30 h:1>
 What?<Close><End of Block>
 <TextBlock 41 w:50 h:3>
 There are still things
@@ -202,9 +205,9 @@ beginning.<Close><End of Block>
 <TextBlock 46 w:32 h:2>
 Wait!
 Wait for me, Id!<Close><End of Block>
-<TextBlock 47 w:34 h:2>
-You just stay
-here and observe!<Close><End of Block>
+<TextBlock 47 w:54 h:2>
+          You just stay
+<Opcode 1 255>          <Opcode 14 0>here and observe!<Close><End of Block>
 <TextBlock 48 w:54 h:3>
 Yes<Delay 10>...<Delay 10>
 This is inside Id.<New>
