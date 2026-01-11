@@ -19,7 +19,7 @@ like to learn about them?<Close><End of Block>
 What can I do for you today?<Close><End of Block>
 <TextBlock 4 w:56 h:6>
 <Opcode 1 255>    Explain battle commands
-    Explain 'Defense' option
+    Explain 'Defend' option
     Explain Action Points
     Explain 'Attack' option
     Explain 'Combo' option
@@ -37,7 +37,7 @@ groups using the left and
 right directional buttons.<New>
 The first Command Ring
 includes the most frequently
-used 'Attack', 'Defense' and
+used 'Attack', 'Defend' and
 'Chi' options.<New>
 The second Command Ring
 contains special commands
@@ -61,10 +61,10 @@ back again whenever you
 need my services.<Close><End of Block>
 <TextBlock 8 w:52 h:3>
 Oh I see, I see. You wish
-to hear about defending?<Delay 20> 
+to hear about defending?<Delay 20>
 Well allow me to begin...<Close><End of Block>
 <TextBlock 9 w:56 h:6>
-By choosing 'Defense', you
+By choosing 'Defend', you
 can halve the damage your
 opponent does to you.<Delay 20>
 Fighting is not just about
