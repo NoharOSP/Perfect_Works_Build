@@ -56,7 +56,7 @@ struct tipDesc {
 	char text_earena[255] =
 		"Additional tweaks tailored to \n"
 		"improve the PVP experience in 2P mode.\n";
-	char text_portraits[255] =
+	char text_resize[255] =
 		"Corrects the proportions of all character\n"
 		"portraits when running the game at its\n"
 		"native aspect ratio (approx 3:2).\n"
@@ -69,11 +69,12 @@ struct tipDesc {
 		"the Japanese audio and subtitles\n"
 		"which are closer to the original\n"
 		"script.";
-	char text_graphics[255] =
+	char text_portraits[255] =
 		"Fixes graphical bugs with\n"
-		"portraits and the battle UI. If\n"
-		"you are using a texture hack, you\n"
-		"may NOT need this fix.\n";
+		"portraits. If you are using\n"
+		"a texture hack, you may NOT\n"
+		"need this fix. These fixes are\n"
+		"also available with resized portraits.\n";
 	char text_voices[255] =
 		"Switches to the Japanese voices\n"
 		"used in battle and the Speed\n"
@@ -129,8 +130,8 @@ public:
 	HWND browsebutton2;
 	HWND aboutbutton;
 	HWND patchbutton;
+	HWND resize;
 	HWND portraits;
-	HWND graphics;
 	HWND flashes;
 	HWND roni;
 	HWND cafe;
@@ -173,12 +174,12 @@ public:
 	bool p_fastnew = false;
 	bool p_items_spells = false;
 	bool p_monsters = false;
-	bool p_portraits = false;
+	bool p_resize = false;
 	bool p_script = false;
 	bool p_barena = false;
 	bool p_earena = false;
 	bool p_fmv = false;
-	bool p_graphics = false;
+	bool p_portraits = false;
 	bool p_voice = false;
 	bool p_flashes = false;
 	bool p_story_mode = false;

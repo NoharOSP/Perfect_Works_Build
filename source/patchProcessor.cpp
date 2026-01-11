@@ -82,8 +82,8 @@ void patchProcessor::initialisePatchLists() {
 	patchList.emplace_back(fmvPatch);
 	patchList.emplace_back(storyModeName);
 	patchList.emplace_back(bugName);
+	patchList.emplace_back(resizeName);
 	patchList.emplace_back(portraitsName);
-	patchList.emplace_back(graphicsName);
 	patchList.emplace_back(expName);
 	patchList.emplace_back(goldName);
 	patchList.emplace_back(monsterName);

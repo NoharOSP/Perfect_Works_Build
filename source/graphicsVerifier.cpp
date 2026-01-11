@@ -9,40 +9,26 @@ graphicsVerifier::~graphicsVerifier() {
 
 }
 
-bool graphicsVerifier::portraitsVerify(Window* pWin, patchProcessor* pp) {
-	if (pWin->p_portraits) {
+bool graphicsVerifier::resizeVerify(Window* pWin, patchProcessor* pp) {
+	if (pWin->p_resize) {
 		pWin->log_file << "Resized portraits directory found." << std::endl;
-		pp->portraitsName = "portraits";
+		pp->resizeName = "resized_portraits";
 	}
-	return pWin->p_portraits;
+	return pWin->p_resize;
 }
 
-bool graphicsVerifier::graphicsVerify(Window* pWin, patchProcessor* pp) {
-	bool graphics = false;
-	if (pWin->p_graphics) {
-		pWin->log_file << "Graphical fix directory found." << std::endl;
-		// Graphics edits outside of portraits are not applied to the items/spells or script patch here as they would cause crashes.
-		if (!pWin->p_items_spells && !pWin->p_script) {
-			if (!pWin->p_portraits) {
-				pp->graphicsName = "graphics";
-			}
-			else {
-				pp->graphicsName = "graphics_no_portraits";
-			}
-			graphics = true;
-		}
-		else if (!pWin->p_portraits) {
-			pp->graphicsName = "graphics_portraits";
-			graphics = true;
-		}
+bool graphicsVerifier::portraitsVerify(Window* pWin, patchProcessor* pp) {
+	if (pWin->p_portraits) {
+		pWin->log_file << "Portrait directory found." << std::endl;
+		pp->portraitsName = "portraits";
 	}
-	return graphics;
+	return pWin->portraits;
 }
 
 bool graphicsVerifier::roniVerify(Window* pWin, patchProcessor* pp) {
 	if (pWin->p_roni) {
 		pWin->log_file << "Roni directory found." << std::endl;
-		if (!pWin->p_portraits) {
+		if (!pWin->p_resize) {
 			pp->roniName = "roni_pw\\default";
 		}
 		else {

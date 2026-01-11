@@ -45,10 +45,10 @@ public:
 	std::string roniName = "";
 	std::string itemspellsName = "";
 	std::string monsterName = "";
-	std::string portraitsName = "";
+	std::string resizeName = "";
 	std::string scriptName = "";
 	std::string arenaName = "";
-	std::string graphicsName = "";
+	std::string portraitsName = "";
 	std::string bugName = "";
 	std::string titleName = "";
 	std::string voiceName = "";

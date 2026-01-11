@@ -25,9 +25,9 @@ bool windowHandler::check() {
 	checkNormArena();
 	checkBasicArena();
 	checkExpArena();
-	checkPortraits();
+	checkResize();
 	checkFMV();
-	checkGraphics();
+	checkPortraits();
 	checkVoice();
 	checkFlash();
 	checkRoni();
@@ -80,15 +80,20 @@ void windowHandler::checkExpArena() {
 	}
 }
 
-void windowHandler::checkPortraits() {
-	LRESULT portraitsticked = SendMessage(pWin->portraits, BM_GETCHECK, NULL, NULL);
-	if (portraitsticked == BST_CHECKED) {
+void windowHandler::checkResize() {
+	LRESULT resizeticked = SendMessage(pWin->resize, BM_GETCHECK, NULL, NULL);
+	if (resizeticked == BST_CHECKED) {
 		pWin->log_file << "Resized portraits ticked." << std::endl;
-		pWin->p_portraits = true;
+		pWin->p_resize = true;
+		if (pWin->p_portraits == true) {
+			pWin->log_file << "Unticking portrait fixes." << std::endl;
+			LRESULT portraituntick = SendMessage(pWin->portraits, BM_SETCHECK, BST_UNCHECKED, NULL);
+			pWin->p_portraits = false;
+		}
 		ticked = true;
 	}
 	else {
-		pWin->p_portraits = false;
+		pWin->p_resize = false;
 	}
 }
 
@@ -104,15 +109,20 @@ void windowHandler::checkFMV() {
 	}
 }
 
-void windowHandler::checkGraphics() {
-	LRESULT graphicsticked = SendMessage(pWin->graphics, BM_GETCHECK, NULL, NULL);
-	if (graphicsticked == BST_CHECKED) {
-		pWin->log_file << "Graphical fixes ticked." << std::endl;
-		pWin->p_graphics = true;
+void windowHandler::checkPortraits() {
+	LRESULT portraitsticked = SendMessage(pWin->portraits, BM_GETCHECK, NULL, NULL);
+	if (portraitsticked == BST_CHECKED) {
+		pWin->log_file << "Portraits ticked." << std::endl;
+		pWin->p_portraits = true;
+		if (pWin->p_resize == true) {
+			pWin->log_file << "Unticking resized portraits." << std::endl;
+			LRESULT resizeuntick = SendMessage(pWin->resize, BM_SETCHECK, BST_UNCHECKED, NULL);
+			pWin->p_resize = false;
+		}
 		ticked = true;
 	}
 	else {
-		pWin->p_graphics = false;
+		pWin->p_portraits = false;
 	}
 }
 

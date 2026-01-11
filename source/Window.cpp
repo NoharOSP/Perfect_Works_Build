@@ -101,8 +101,8 @@ void Window::tooltipTextMaker() {
 	log_file << "Defining tooltip messages." << std::endl;
 	tipDesc tips;
 	// Graphics
-	HWND tt_portraits = toolGenerator(tips.text_portraits, winHwnd, portraits, winInst).hWndTT;
-	HWND tt_graphics = toolGenerator(tips.text_graphics, winHwnd, graphics, winInst).hWndTT;
+	HWND tt_resize = toolGenerator(tips.text_resize, winHwnd, resize, winInst).hWndTT;
+	HWND tt_portaits = toolGenerator(tips.text_portraits, winHwnd, portraits, winInst).hWndTT;
 	HWND tt_flashes = toolGenerator(tips.text_flashes, winHwnd, flashes, winInst).hWndTT;
 	HWND tt_roni = toolGenerator(tips.text_roni, winHwnd, roni, winInst).hWndTT;
 	HWND tt_cafe = toolGenerator(tips.text_cafe, winHwnd, cafe, winInst).hWndTT;

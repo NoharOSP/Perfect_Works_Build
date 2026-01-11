@@ -11,8 +11,8 @@ class graphicsVerifier
 public:
 	graphicsVerifier();
 	~graphicsVerifier();
+	bool resizeVerify(Window* pWin, patchProcessor* pp);
 	bool portraitsVerify(Window* pWin, patchProcessor* pp);
-	bool graphicsVerify(Window* pWin, patchProcessor* pp);
 	bool roniVerify(Window* pWin, patchProcessor* pp);
 	bool cafeVerify(Window* pWin, patchProcessor* pp, int num);
 };

@@ -15,9 +15,9 @@ public:
 	void checkNormArena();
 	void checkBasicArena();
 	void checkExpArena();
-	void checkPortraits();
+	void checkResize();
 	void checkFMV();
-	void checkGraphics();
+	void checkPortraits();
 	void checkVoice();
 	void checkRoni();
 	void checkFlash();

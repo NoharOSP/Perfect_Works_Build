@@ -46,8 +46,8 @@ void patchVerifier::verify() {
 	}
 	sv.fastVerify(pWin, pp, num);
 	sv.scriptVerify(pWin, pp, num);
+	grav.resizeVerify(pWin, pp);
 	grav.portraitsVerify(pWin, pp);
-	grav.graphicsVerify(pWin, pp);
 	voiceVerify();
 	grav.roniVerify(pWin, pp);
 	grav.cafeVerify(pWin, pp, num);
