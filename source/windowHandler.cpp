@@ -13,6 +13,7 @@ bool windowHandler::check() {
 	// TODO: Make arena, graphics and audio handlers
 	handleScript hs;
 	handleGameplay hg;
+	handleGraphics hgr;
 	hs.checkScript(pWin, this);
 	hg.checkEnc(pWin, this);
 	hs.checkFast(pWin, this);
@@ -25,13 +26,13 @@ bool windowHandler::check() {
 	checkNormArena();
 	checkBasicArena();
 	checkExpArena();
-	checkResize();
+	hgr.checkResize(pWin, this);
 	checkFMV();
-	checkPortraits();
+	hgr.checkPortraits(pWin, this);
 	checkVoice();
-	checkFlash();
-	checkRoni();
-	checkCafe();
+	hgr.checkFlash(pWin, this);
+	hgr.checkRoni(pWin, this);
+	hgr.checkCafe(pWin, this);
 	checkStoryMode();
 	return ticked;
 }
@@ -80,23 +81,6 @@ void windowHandler::checkExpArena() {
 	}
 }
 
-void windowHandler::checkResize() {
-	LRESULT resizeticked = SendMessage(pWin->resize, BM_GETCHECK, NULL, NULL);
-	if (resizeticked == BST_CHECKED) {
-		pWin->log_file << "Resized portraits ticked." << std::endl;
-		pWin->p_resize = true;
-		if (pWin->p_portraits == true) {
-			pWin->log_file << "Unticking portrait fixes." << std::endl;
-			LRESULT portraituntick = SendMessage(pWin->portraits, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_portraits = false;
-		}
-		ticked = true;
-	}
-	else {
-		pWin->p_resize = false;
-	}
-}
-
 void windowHandler::checkFMV() {
 	LRESULT fmvticked = SendMessage(pWin->fmvs, BM_GETCHECK, NULL, NULL);
 	if (fmvticked == BST_CHECKED) {
@@ -109,23 +93,6 @@ void windowHandler::checkFMV() {
 	}
 }
 
-void windowHandler::checkPortraits() {
-	LRESULT portraitsticked = SendMessage(pWin->portraits, BM_GETCHECK, NULL, NULL);
-	if (portraitsticked == BST_CHECKED) {
-		pWin->log_file << "Portraits ticked." << std::endl;
-		pWin->p_portraits = true;
-		if (pWin->p_resize == true) {
-			pWin->log_file << "Unticking resized portraits." << std::endl;
-			LRESULT resizeuntick = SendMessage(pWin->resize, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_resize = false;
-		}
-		ticked = true;
-	}
-	else {
-		pWin->p_portraits = false;
-	}
-}
-
 void windowHandler::checkVoice() {
 	LRESULT voiceticked = SendMessage(pWin->voice, BM_GETCHECK, NULL, NULL);
 	if (voiceticked == BST_CHECKED) {
@@ -135,42 +102,6 @@ void windowHandler::checkVoice() {
 	}
 	else {
 		pWin->p_voice = false;
-	}
-}
-
-void windowHandler::checkFlash() {
-	LRESULT flashesticked = SendMessage(pWin->flashes, BM_GETCHECK, NULL, NULL);
-	if (flashesticked == BST_CHECKED) {
-		pWin->log_file << "No battle flashes ticked." << std::endl;
-		pWin->p_flashes = true;
-		ticked = true;
-	}
-	else {
-		pWin->p_flashes = false;
-	}
-}
-
-void windowHandler::checkRoni() {
-	LRESULT roniticked = SendMessage(pWin->roni, BM_GETCHECK, NULL, NULL);
-	if (roniticked == BST_CHECKED) {
-		pWin->log_file << "Perfect Works Roni ticked." << std::endl;
-		pWin->p_roni = true;
-		ticked = true;
-	}
-	else {
-		pWin->p_roni = false;
-	}
-}
-
-void windowHandler::checkCafe() {
-	LRESULT cafeticked = SendMessage(pWin->cafe, BM_GETCHECK, NULL, NULL);
-	if (cafeticked == BST_CHECKED) {
-		pWin->log_file << "Emeralda diner fix ticked." << std::endl;
-		pWin->p_cafe = true;
-		ticked = true;
-	}
-	else {
-		pWin->p_cafe = false;
 	}
 }
 

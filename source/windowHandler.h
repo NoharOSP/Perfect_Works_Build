@@ -2,6 +2,7 @@
 #include "Window.h"
 #include "handleScript.h"
 #include "handleGameplay.h"
+#include "handleGraphics.h"
 
 class Window;
 
@@ -15,13 +16,8 @@ public:
 	void checkNormArena();
 	void checkBasicArena();
 	void checkExpArena();
-	void checkResize();
 	void checkFMV();
-	void checkPortraits();
 	void checkVoice();
-	void checkRoni();
-	void checkFlash();
-	void checkCafe();
 	void checkStoryMode();
 
 	// Global variables

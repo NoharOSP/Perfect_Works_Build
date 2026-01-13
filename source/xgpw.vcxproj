@@ -165,6 +165,7 @@
     <ClInclude Include="gameplayVerifier.h" />
     <ClInclude Include="graphicsVerifier.h" />
     <ClInclude Include="handleGameplay.h" />
+    <ClInclude Include="handleGraphics.h" />
     <ClInclude Include="handleScript.h" />
     <ClInclude Include="main.h" />
     <ClInclude Include="paintWindow.h" />
@@ -186,6 +187,7 @@
     <ClCompile Include="gameplayVerifier.cpp" />
     <ClCompile Include="graphicsVerifier.cpp" />
     <ClCompile Include="handleGameplay.cpp" />
+    <ClCompile Include="handleGraphics.cpp" />
     <ClCompile Include="handleScript.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="paintWindow.cpp" />
