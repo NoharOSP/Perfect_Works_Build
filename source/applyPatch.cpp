@@ -12,7 +12,7 @@ applyPatch::applyPatch(Window* win, int discNum, patchProcessor* processor) {
 }
 
 applyPatch::~applyPatch() {
-
+	pFE->~fileEditor();
 }
 
 void applyPatch::initialise() {

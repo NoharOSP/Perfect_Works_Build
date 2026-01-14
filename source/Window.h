@@ -7,8 +7,8 @@
 #include "Resource.h"
 #include "romFinder.h"
 #include "patchProcessor.h"
-#include "paintWindow.h"
 #include "windowHandler.h"
+#include "paintWindow.h"
 
 struct tipDesc {
 	char text_encounters[255] =
@@ -104,6 +104,7 @@ struct tipDesc {
 };
 
 class windowHandler;
+class paintWindow;
 
 class Window
 {
@@ -193,5 +194,6 @@ public:
 	std::string home;
 	LPWSTR title;
 	windowHandler* pHandle;
+	paintWindow* pPaint;
 };
 

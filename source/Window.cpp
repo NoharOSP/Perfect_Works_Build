@@ -9,6 +9,7 @@ Window::Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle)
 	winY = axisY;
 	title = szTitle;
 	pHandle = new windowHandler(this);
+	pPaint = new paintWindow(this);
 	// Initialise home directory
 	home = std::filesystem::current_path().string();
 	std::filesystem::current_path(home);
@@ -20,6 +21,8 @@ Window::Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle)
 }
 
 Window::~Window() {
+	pHandle->~windowHandler();
+	pPaint->~paintWindow();
 }
 
 void Window::initialise() {
@@ -39,15 +42,24 @@ void Window::initialise() {
 	buttonList.emplace_back(browsebutton2);
 	buttonList.emplace_back(aboutbutton);
 	buttonList.emplace_back(patchbutton);
+	// TODO: Move to function either here or in paintWindow
+	pPaint->graphicWindows();
+	pPaint->gameplayWindows();
+	pPaint->arenaWindows();
+	pPaint->storyWindows();
+	pPaint->audioWindows();
+	pPaint->modeWindows();
+	pPaint->initialiseFont();
+	checkboxLock();
+	patchBoxLock();
+	tooltipTextMaker();
 }
+
 
 // Draw window
 void Window::paintProcess() {
 	paintWindow pw(this);
 	pw.paint();
-	checkboxLock();
-	patchBoxLock();
-	tooltipTextMaker();
 }
 
 void Window::checkboxLock() {
@@ -133,6 +145,7 @@ void Window::openFile(HWND hWnd) {
 	log_file << "Open file browser." << std::endl;
 	romFinder rf(this);
 	rf.browseFiles();
+	rf.~romFinder();
 }
 
 // Handle window selection process
@@ -147,9 +160,11 @@ void Window::process() {
 	log_file << "Preparing to patch." << std::endl;
 	if (pathFound1) {
 		patchProcessor pp1(this, winHwnd, 1, path1);
+		pp1.~patchProcessor();
 	}
 	if (pathFound2) {
 		patchProcessor pp2(this, winHwnd, 2, path2);
+		pp2.~patchProcessor();
 	}
 }
 

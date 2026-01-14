@@ -11,6 +11,7 @@ patchProcessor::patchProcessor(Window* win, HWND hWnd, int discNum, std::string 
 }
 
 patchProcessor::~patchProcessor() {
+	
 }
 
 void patchProcessor::prepare() {
@@ -41,6 +42,7 @@ void patchProcessor::prepare() {
 	else {
 		MessageBox(patchWnd, L"Could not find directory for 'gamefiles'. Check repo for latest version.", L"Error", MB_ICONERROR);
 	}
+	pv.~patchVerifier();
 }
 
 void patchProcessor::removeWhitespace() {

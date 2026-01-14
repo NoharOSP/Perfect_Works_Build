@@ -34,6 +34,9 @@ bool windowHandler::check() {
 	hgr.checkRoni(pWin, this);
 	hgr.checkCafe(pWin, this);
 	checkStoryMode();
+	hs.~handleScript();
+	hg.~handleGameplay();
+	hgr.~handleGraphics();
 	return ticked;
 }
 

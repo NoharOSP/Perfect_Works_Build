@@ -41,6 +41,7 @@ void patchVerifier::verify() {
 			gamv.goldVerify(pWin, pp);
 		}
 		arenaVerifier av(pWin, pp);
+		av.~arenaVerifier();
 		gamv.encounterVerify(pWin, pp, num);
 		gamv.itemSpellVerify(pWin, pp, num);
 	}
@@ -53,6 +54,9 @@ void patchVerifier::verify() {
 	grav.cafeVerify(pWin, pp, num);
 	bugVerify();
 	titleVerify();
+	grav.~graphicsVerifier();
+	gamv.~gameplayVerifier();
+	sv.~storyVerifier();
 }
 
 bool patchVerifier::storyModeVerify() {

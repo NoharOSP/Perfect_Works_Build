@@ -157,6 +157,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		case IDM_EXIT:
 		{
 			// Close patcher
+			pWin->~Window();
 			DestroyWindow(hWnd);
 			break;
 		}

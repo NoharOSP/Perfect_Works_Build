@@ -38,13 +38,6 @@ void paintWindow::paint() {
 	FrameRect(hdc, &rc1, CreateSolidBrush(RGB(220, 220, 220)));
 	FrameRect(hdc, &rc2, CreateSolidBrush(RGB(220, 220, 220)));
 	drawText();
-	graphicWindows();
-	gameplayWindows();
-	arenaWindows();
-	storyWindows();
-	audioWindows();
-	modeWindows();
-	initialiseFont();
 	EndPaint(pWin->winHwnd, &ps);
 }
 
