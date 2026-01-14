@@ -1,13 +1,13 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
 
-Download the latest release here:
+Download the latest release here: 
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.8.2
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.9.0
   
-## Instructions:
+## Instructions
 
-### Patching:
+### Patching
 
 #### Windows
 
@@ -23,13 +23,13 @@ https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.8.2
 - Apply a patch or the patches using xdelta. Make sure you are applying them to an unpatched ROM of the original game.
 - If there are warnings when applying the patches, turn off checksum validation.
 
-## Completion stats:
+## Completion stats
 
 - Name/terminology changes: 100%
-- Main script: 87% (end of Merkabah)
+- Main script: 89% (up to the arrival at Bethlehem)
 - NPC script: Not done (except for name/terminology changes)
 
-## Introduction:
+## Introduction
 
 Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a more complete experience. This does contain unmarked but mild spoilers, so readers are advised and warned not to scroll through this if they’re looking to use this mod to enjoy the game for the first time, or you simply never got to into it for various reasons we hope to address. These spoilers are primarily for certain story events in the story bits and lines are relegated to story specific changes and certain boss fights dungeons and all moves party members and availability are mentioned in the gameplay focused changes. 
 
@@ -37,67 +37,22 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The 2x exp and gold patches were designed to work with the lower encounter rate patch. The monster stats and party/item patch both act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
-## Version history:
+## Version history
 
-### Version 0.8.2:
+### Version 0.9.0
 
-12/07/2025
+01/14/2026
 
-- An option is now available to have Emeralda use a sitting sprite in a diner over her nanoreactor one.
-- eboot themes are now available for players emulating the build via PSP.
-- Deathblows have had their Hyper Mode point distribution increased. Details are in the wiki.
-- Dialogue variations with kids in the D Block slums have been restored.
-- Prison guard messages will close automatically when out of range.
-- Border has been added to the message when inspecting the sleeping dog at D Block.
-- Portrait has been added to Fei when falling off the train in the tunnel.
-- Skull Rod can now only be used by Elly and has actual data assigned to it. Details are in the wiki.
-- Aerods has had its description updated so "Active" replaces "Animum".
-- Ramsus kneeling animation in Merkabah has been fixed.
-- Overlapping windows when Rico defeats the Kislev guards has been fixed.
-- Deus' eyes are now closed before it is awakened.
-
-### Version 0.8.1:
-
-11/07/2025
-
-- Script changes up to Merkabah have been completed.
-- The shop distribution has been rebalanced. Details are in the wiki.
-- Lasher GWhip has been replaced with DAdder GWhip. Details are in the wiki.
-- El Stier will now have 25000 HP when obtained.
-- xenoiso no longer requires a prompt to start the patching process.
-- Double "of" use is fixed during Elly and Citan's conversation at Blackmoon Forest.
-- Maria now has her portrait before meeting Zephyr.
-- Forbidden in the overworld map no longer have a bugged Gold Nugget drop.
-- The prices of Holy Pendant, elemental rings, Life Stone and elemental stones have been adjusted. Details are in the wiki.
-- Due to bugs with the auto booster accessories, they are temporarily unobtainable until a resolution has been found.
-- Renmazuo now has an Eth Circuit as an initial equip over a TurboBooster.
-- Seraph enemies have now been renamed to Aeons.
-- Vanderkaum has been renamed to Vanderkam.
-- Scrapped dialogue in the Elly corridor chase has been restored.
-- Scrapped dialogue during Fei and Elly's campfire in Blackmoon Forest has been restored.
-- Camera bug at the start of the campfire scene with Lacan has been fixed.
-
-### Version 0.8.0:
-
-10/12/2025
-
-- Script changes up to Golgotha have been applied.
-- The patcher now allows users to choose between 1.5x or 2x experience and gold.
-- Roni's portrait can now be chosen. Either the Perfect Works design or release version can be used.
-- Siebzehn's Grav. Cannon has been buffed from 40 to 80 power.
-- Yamoto Sword is now Yamato Sword
-- An Add Water icon has been added to Crystal Water's name.
-- Dan's portrait is no longer missing in a text box during his final scene.
-- Text boxes in the Ethos data bank sequence no longer overlap.
-- Rue Coen grunts now use proper dialogue windows.
-- Mumyo Sword no longer has an extra space between words.
-- Confusion status now functions correctly.
-- The patcher now applies text speed to the game's executable by itself.
-- The patcher now applies battle flash removal by itself.
-- Myyah-Elly now has her portrait when explaining the Deus system, as was the case in the Japanese version.
-- Deus battle messages have been tidied.
-- The shop placements of Zetasols have been reshuffled. Details are in the wiki.
-- The patcher now properly detects if a ROM is missing a disc number.
+- Script has been updated up to the arrival at point Bethlehem.
+- All graphical bugs have been added to the other patches. The "graphical fixes" option has been replaced with a "portrait fixes" one, which is mutually exclusive to the "resized portraits" option.
+- Karellen's dialogue to Ramsus in Merkabah provides more insight into his backstory.
+- Elly's spells have been buffed. Details are in the wiki.
+- Script and spriting issues in Merkabah have been fixed.
+- Merged story mode and script version of the G Elements fight has been fixed.
+- Wither and Weaken are temporarily unavailable until bugs surrounding them have been fixed.
+- A camera bug in the second Roni campfire scene has been fixed.
+- EP is now used in the character selection screen over MP.
+- Defense has been changed to Defend on the command ring during battle.
 
 [Details about previous releases can be found here.](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Version-History)
 
@@ -108,7 +63,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ## [Saves](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Saves)
 
-## Patches:
+## Patches
 
 ### [Battle Arena](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Battling-Arena)
 
@@ -124,10 +79,10 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ### [Shared Changes](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Shared-Changes)
 
-## Links:
+## Links
 
 Join our discord if you have any issues or you want to communicate with us:
-https://discord.gg/RPMAcmagmC
+https://discord.gg/j4v6yCcWRK
 
 Provide feedback here:
 https://docs.google.com/forms/d/1KZAwqR70pABGXtuR7l8GVMjY487WKOn6Qrb3fUHHumw/viewform?edit_requested=true
@@ -135,7 +90,7 @@ https://docs.google.com/forms/d/1KZAwqR70pABGXtuR7l8GVMjY487WKOn6Qrb3fUHHumw/vie
 DM or tag here if you want immediate feedback on Twitter:
 @PWBuildTeam
 
-## Credits:
+## Credits
 
 - Abathor (Xenocritus): Creator, translation, character balance, programming
 - Will Bill: Translation, character balance, programming, icons
