@@ -44,7 +44,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 01/14/2026
 
 - Script has been updated up to the arrival at point Bethlehem.
-- All graphical bugs have been added to the other patches. The "graphical fixes" option has been replaced with a "portrait fixes" one, which is mutually exclusive to the "resized portraits" option.
+- All graphical bug fixes have been added to the other patches. The "graphical fixes" option has been replaced with a "portrait fixes" one, which is mutually exclusive to the "resized portraits" option.
 - Karellen's dialogue to Ramsus in Merkabah provides more insight into his backstory.
 - Elly's spells have been buffed. Details are in the wiki.
 - Script and spriting issues in Merkabah have been fixed.
