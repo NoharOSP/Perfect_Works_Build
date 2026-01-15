@@ -82,6 +82,15 @@ void paintWindow::initialiseFont() {
 
 }
 
+void paintWindow::createWindows() {
+	graphicWindows();
+	gameplayWindows();
+	arenaWindows();
+	storyWindows();
+	audioWindows();
+	modeWindows();
+}
+
 void paintWindow::graphicWindows() {
 	// Create graphic patch windows
 	pWin->resize = CreateWindow(L"BUTTON", L"Resized portraits", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->graphicsx), (int)(pWin->winY * 0.36), 100, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);

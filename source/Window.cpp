@@ -42,13 +42,7 @@ void Window::initialise() {
 	buttonList.emplace_back(browsebutton2);
 	buttonList.emplace_back(aboutbutton);
 	buttonList.emplace_back(patchbutton);
-	// TODO: Move to function either here or in paintWindow
-	pPaint->graphicWindows();
-	pPaint->gameplayWindows();
-	pPaint->arenaWindows();
-	pPaint->storyWindows();
-	pPaint->audioWindows();
-	pPaint->modeWindows();
+	pPaint->createWindows();
 	pPaint->initialiseFont();
 	checkboxLock();
 	patchBoxLock();

@@ -10,6 +10,7 @@ public:
 	~paintWindow();
 	void paint();
 	void drawText();
+	void createWindows();
 	void graphicWindows();
 	void gameplayWindows();
 	void arenaWindows();

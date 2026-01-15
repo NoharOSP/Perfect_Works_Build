@@ -58,53 +58,65 @@ void fileEditor::iterateMonster(std::string file) {
 		}
 		// Establish an array which determines the position i jumps to
 		int data[4];
-		if (gear) {
-			data[0] = 0xb8;
-			data[1] = 0xbc;
-			data[2] = 0x100;
-			data[3] = 0x10a;
-		}
-		else {
-			data[0] = 0;
-			data[1] = 2;
-			data[2] = 0x100;
-			data[3] = 0x10a;
-		}
+		setMonsterData(data, gear);
 		if (pp->expName != "") {
-			// Find experience
-			nextpos = i + data[2];
-			fileContents.seekp(nextpos, std::ios_base::beg);
-			fileContents.read(reinterpret_cast<char*>(&buffer), 4);
-			uint64_t exp = buffer;
-			if (num == 1) {
-				exp = exp * 1.5;
-			}
-			if (num == 2) {
-				exp = exp * 2;
-			}
-			nextpos = i + data[2];
-			fileContents.seekp(nextpos, std::ios_base::beg);
-			fileContents.write(reinterpret_cast<char*>(&exp), 4);
+			editExp(&fileContents, i, nextpos, buffer, data);
 		}
 		if (pp->goldName != "") {
-			// Find gold
-			nextpos = i + data[3];
-			fileContents.seekp(nextpos, std::ios_base::beg);
-			fileContents.read(reinterpret_cast<char*>(&buffer), 2);
-			uint64_t gold = buffer;
-			if (num == 1) {
-				gold = gold * 1.5;
-			}
-			if (num == 2) {
-				gold = gold * 2;
-			}
-			nextpos = i + data[3];
-			fileContents.seekp(nextpos, std::ios_base::beg);
-			fileContents.write(reinterpret_cast<char*>(&gold), 2);
+			editGold(&fileContents, i, nextpos, buffer, data);
 		}
 	}
 	// Close file
 	fileContents.close();
+}
+
+void fileEditor::setMonsterData(int data[], bool gear) {
+	if (gear) {
+		data[0] = 0xb8;
+		data[1] = 0xbc;
+		data[2] = 0x100;
+		data[3] = 0x10a;
+	}
+	else {
+		data[0] = 0;
+		data[1] = 2;
+		data[2] = 0x100;
+		data[3] = 0x10a;
+	}
+}
+
+void fileEditor::editExp(std::fstream* fileContents, int i, int nextpos, wchar_t buffer, int data[]) {
+	// Find experience
+	nextpos = i + data[2];
+	fileContents->seekp(nextpos, std::ios_base::beg);
+	fileContents->read(reinterpret_cast<char*>(&buffer), 4);
+	uint64_t exp = buffer;
+	if (num == 1) {
+		exp = exp * 1.5;
+	}
+	if (num == 2) {
+		exp = exp * 2;
+	}
+	nextpos = i + data[2];
+	fileContents->seekp(nextpos, std::ios_base::beg);
+	fileContents->write(reinterpret_cast<char*>(&exp), 4);
+}
+
+void fileEditor::editGold(std::fstream* fileContents, int i, int nextpos, wchar_t buffer, int data[]) {
+	// Find gold
+	nextpos = i + data[3];
+	fileContents->seekp(nextpos, std::ios_base::beg);
+	fileContents->read(reinterpret_cast<char*>(&buffer), 2);
+	uint64_t gold = buffer;
+	if (num == 1) {
+		gold = gold * 1.5;
+	}
+	if (num == 2) {
+		gold = gold * 2;
+	}
+	nextpos = i + data[3];
+	fileContents->seekp(nextpos, std::ios_base::beg);
+	fileContents->write(reinterpret_cast<char*>(&gold), 2);
 }
 
 void fileEditor::exeEdits(std::string file) {
@@ -195,6 +207,10 @@ void fileEditor::editSLUS(std::string romFile) {
 		std::filesystem::current_path(pWin->home);
 	}
 	// Create batch file to make a new SLUS
+	makeSLUS(romFile);
+}
+
+void fileEditor::makeSLUS(std::string romFile) {
 	std::ofstream batch_file2;
 	pWin->log_file << "Creating new SLUS file." << std::endl;
 	batch_file2.open("commands2.cmd", std::ios::trunc);
