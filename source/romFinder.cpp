@@ -10,7 +10,6 @@ romFinder::~romFinder() {
 }
 
 void romFinder::browseFiles() {
-	OPENFILENAMEA ofn;
 	ZeroMemory(&ofn, sizeof(ofn));
 	ofn.lStructSize = sizeof(ofn);
 	ofn.hwndOwner = pWin->winHwnd;
@@ -29,39 +28,50 @@ void romFinder::browseFiles() {
 		if (getFound()) {
 			pWin->log_file << "Xenogears has been found. Determine disc number." << std::endl;
 			pWin->discNum = getDisc();
-			if (discNum == 1) {
-				pWin->log_file << "Disc 1 found." << std::endl;
-				pWin->pathFound1 = true;
-				pWin->log_file << "Determine disc 1 path." << std::endl;
-				pWin->path1 = path;
-				std::wstring wpath = std::wstring(pWin->path1.begin(), pWin->path1.end());
-				LPCWSTR lpath = wpath.c_str();
-				pWin->log_file << "Put disc 1 path in path window." << std::endl;
-				SetWindowText(pWin->cd1path, lpath);
-			}
-			else if (discNum == 2) {
-				pWin->log_file << "Disc 2 found." << std::endl;
-				pWin->pathFound2 = true;
-				pWin->log_file << "Determine disc 2 path." << std::endl;
-				pWin->path2 = path;
-				std::wstring wpath = std::wstring(pWin->path2.begin(), pWin->path2.end());
-				LPCWSTR lpath = wpath.c_str();
-				pWin->log_file << "Put disc 2 path in path window." << std::endl;
-				SetWindowText(pWin->cd2path, lpath);
+			if (discNum == 1 || discNum == 2) {
+				setPathText(path);
 			}
 			else {
-				pWin->log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
-				MessageBox(pWin->winHwnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
+				romErrorMsg();
 			}
 			if (pWin->pathFound1 || pWin->pathFound2) {
 				pWin->checkboxLock();
 			}
 		}
 		else {
-			pWin->log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
-			MessageBox(pWin->winHwnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
+			romErrorMsg();
 		}
 	}
+}
+
+void romFinder::setPathText(std::string path) {
+	if (discNum == 1) {
+		pWin->log_file << "Disc 1 found." << std::endl;
+		pWin->pathFound1 = true;
+		pWin->log_file << "Determine disc 1 path." << std::endl;
+		pWin->path1 = path;
+	}
+	if (discNum == 2) {
+		pWin->log_file << "Disc 2 found." << std::endl;
+		pWin->pathFound2 = true;
+		pWin->log_file << "Determine disc 2 path." << std::endl;
+		pWin->path2 = path;
+	}
+	std::wstring wpath = std::wstring(path.begin(), path.end());
+	LPCWSTR lpath = wpath.c_str();
+	if (discNum == 1) {
+		pWin->log_file << "Put disc 1 path in path window." << std::endl;
+		SetWindowText(pWin->cd1path, lpath);
+	}
+	if (discNum == 2) {
+		pWin->log_file << "Put disc 2 path in path window." << std::endl;
+		SetWindowText(pWin->cd2path, lpath);
+	}
+}
+
+void romFinder::romErrorMsg() {
+	pWin->log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
+	MessageBox(pWin->winHwnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
 }
 
 void romFinder::searchCD(std::string path) {
@@ -77,69 +87,39 @@ void romFinder::searchCD(std::string path) {
 		}
 		// Find "XENOGEARS" in the ROM header
 		if (buffer == 'X') {
-			file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
-			byte += 1;
-			if (buffer == 'E') {
+			xenoFound = true;
+			while (!discFound) {
 				file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
 				byte += 1;
-				if (buffer == 'N') {
-					file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
-					byte += 1;
-					if (buffer == 'O') {
-						file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
-						byte += 1;
-						if (buffer == 'G') {
-							file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
-							byte += 1;
-							if (buffer == 'E') {
-								file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
-								byte += 1;
-								if (buffer == 'A') {
-									file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
-									byte += 1;
-									if (buffer == 'R') {
-										file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
-										byte += 1;
-										if (buffer == 'S') {
-											xenoFound = true;
-											while (!discFound) {
-												file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
-												byte += 1;
-												if (byte == 37736) {
-													int val = (int)buffer;
-													// Determine disc number through the first file difference
-													if (val == 178) {
-														discNum = 1;
-														discFound = true;
-														fileSize = std::filesystem::file_size(path);
-														if (fileSize != 718738272) {
-															xenoFound = false;
-														}
-													}
-													else if (val == 207) {
-														discNum = 2;
-														discFound = true;
-														fileSize = std::filesystem::file_size(path);
-														if (fileSize != 688700880) {
-															xenoFound = false;
-														}
-													}
-													break;
-												}
-											}
-											break;
-										}
-									}
-								}
-							}
-						}
-					}
+				if (byte == 37736) {
+					findDiscNum(path);
+					break;
 				}
-
 			}
 		}
 	}
 	file.close();
+}
+
+void romFinder::findDiscNum(std::string path) {
+	int val = (int)buffer;
+	// Determine disc number through the first file difference
+	if (val == 178) {
+		discNum = 1;
+		discFound = true;
+		fileSize = std::filesystem::file_size(path);
+		if (fileSize != 718738272) {
+			xenoFound = false;
+		}
+	}
+	else if (val == 207) {
+		discNum = 2;
+		discFound = true;
+		fileSize = std::filesystem::file_size(path);
+		if (fileSize != 688700880) {
+			xenoFound = false;
+		}
+	}
 }
 
 bool romFinder::getFound() {

@@ -18,7 +18,10 @@ public:
 	romFinder(Window* win);
 	~romFinder();
 	void browseFiles();
+	void setPathText(std::string path);
+	void romErrorMsg();
 	void searchCD(std::string path);
+	void findDiscNum(std::string path);
 	bool getFound();
 	int getDisc();
 
