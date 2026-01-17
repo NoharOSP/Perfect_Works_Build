@@ -6,6 +6,7 @@
 #include "Resource.h"
 #include "patchProcessor.h"
 #include "Window.h"
+#include "makeSLUS.h"
 
 class patchProcessor;
 class Window;
@@ -24,7 +25,6 @@ public:
 	void setMonsterData(int data[], bool gear);
 	void editExp(std::fstream* fileContents, int i, int nextpos, wchar_t buffer, int data[]);
 	void editGold(std::fstream* fileContents, int i, int nextpos, wchar_t buffer, int data[]);
-	void makeSLUS(std::string romFile);
 	std::string fileTrim(std::string file);
 
 	// Global variables

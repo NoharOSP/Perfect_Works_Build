@@ -168,6 +168,7 @@
     <ClInclude Include="handleGraphics.h" />
     <ClInclude Include="handleScript.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="makeSLUS.h" />
     <ClInclude Include="paintWindow.h" />
     <ClInclude Include="patchProcessor.h" />
     <ClInclude Include="patchVerifier.h" />
@@ -190,6 +191,7 @@
     <ClCompile Include="handleGraphics.cpp" />
     <ClCompile Include="handleScript.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="makeSLUS.cpp" />
     <ClCompile Include="paintWindow.cpp" />
     <ClCompile Include="patchProcessor.cpp" />
     <ClCompile Include="patchVerifier.cpp" />
