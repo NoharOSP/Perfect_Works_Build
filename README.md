@@ -23,6 +23,8 @@ https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.9.0
 - Apply a patch or the patches using xdelta. Make sure you are applying them to an unpatched ROM of the original game.
 - If there are warnings when applying the patches, turn off checksum validation.
 
+WARNING: When a ROM has been made, do not resume progress by loading a save state. As a different ROM is being used, the game will crash due to the changing of data positions. To resume a playthrough, load a hard save.
+
 ## Completion stats
 
 - Name/terminology changes: 100%
