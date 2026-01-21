@@ -16,20 +16,20 @@ Fei
 <TextBlock 5 w:16 h:2>
 Fei
 "Doc..."<Close><End of Block>
-<TextBlock 6 w:36 h:4>
+<TextBlock 6 w:46 h:4>
 Fei
 "They can't pilot
-military Gears?
-Why is that, Doc?"<Close><End of Block>
+military Gears?<Delay 5> What's
+he talking about, Doc?"<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Fei
-"So you're saying...if you
-aren't trained, you can't
-pilot a military Gear?<New>
-(Wasn't the Gear we found
-a military Gear?
-So how could I get it to
-work then, Doc?)"<Close><End of Block>
+"So you can't operate
+military Gears without
+the right training?<New>
+(Doc, I thought <Weltall>
+was a military Gear?
+How come I could get
+that to work?)"<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Citan
 "A sand buggy is a special
@@ -44,14 +44,13 @@ Citan
 "I see...
 Well then, we will
 come again later."<Close><End of Block>
-<TextBlock 10 w:40 h:4>
+<TextBlock 10 w:46 h:4>
 Citan
-"Yes, that is right.
-Do you have any we
-can rent right now?"<Close><End of Block>
-<TextBlock 11 w:24 h:3>
+"Yes, that is the plan.<Delay 5>
+I can take it?"<Close><End of Block>
+<TextBlock 11 w:22 h:3>
 Citan
-"Well then, 
+"Well then,
 if I may."<Close><End of Block>
 <TextBlock 12 w:52 h:4>
 Citan
@@ -86,32 +85,34 @@ You do not need to worry
 so much. Come on, why not
 go kill some time at the
 bar until I get back?"<Close><End of Block>
-<TextBlock 16 w:44 h:4>
+<TextBlock 16 w:52 h:4>
 Citan
-"Military and civilian
-Gears are different in
+"Military Gears and
+civilian Gears differ in
 their basic structure.<New>
-That is why you need
-special training and
-natural talent to use
-military Gears."<Close><End of Block>
-<TextBlock 17 w:48 h:4>
+Due to their uniqueness,<New>
+one would need a natural
+aptitude as well as
+experience via training to
+operate military Gears."<Close><End of Block>
+<TextBlock 17 w:50 h:4>
 Citan
-"In your case, Fei, it
-is because your natural
-talent is so prevalent."<Close><End of Block>
+"Well, in your case, Fei,<New>
+it must have been because
+your natural aptitude is
+remarkably high."<Close><End of Block>
 <TextBlock 18 w:48 h:2>
 The sand buggy you were
 waiting for is back.<New>
 Do you want to rent it?<Close><End of Block>
-<TextBlock 19 w:46 h:3>
+<TextBlock 19 w:38 h:3>
 Hm? Some new faces.<Delay 10>
-You want to rent out a
-sand buggy too, huh?<Close><End of Block>
+You looking to rent
+the sand buggy?<Close><End of Block>
 <TextBlock 20 w:48 h:3>
 Of course. The keys are
 in the ignition <--> you
-can take it now.<Close><End of Block>
+can use it right away.<Close><End of Block>
 <TextBlock 21 w:48 h:4>
 Hey, are you letting
 him go out there alone?<New>
@@ -128,17 +129,17 @@ himself.<Close><End of Block>
 <TextBlock 22 w:52 h:2>
 Sorry, it's not back yet.
 Please wait a bit longer.<Close><End of Block>
-<TextBlock 23 w:46 h:3>
+<TextBlock 23 w:44 h:3>
 Hm? Some new faces.<Delay 10>
-You want to rent out a
-sand buggy too, huh?<Close><End of Block>
-<TextBlock 24 w:50 h:3>
-Sorry but all our buggies
-are lent out now.<Delay 10> Do you
-want to wait for one?<New>
-Some of those guys
-hunting for parts should
-be back soon.<Close><End of Block>
+You looking to rent
+a sand buggy too, huh?<Close><End of Block>
+<TextBlock 24 w:54 h:3>
+I'm afraid I'm all out of
+sand buggies at the moment.<Delay 10>
+Could you wait a while?<New>
+The one I rented out to
+some hunters should be
+back soon.<Close><End of Block>
 <TextBlock 25 w:46 h:3>
 It's best if you go out
 there and try to find
@@ -150,30 +151,33 @@ possible. Thank you!<Close><End of Block>
 <TextBlock 27 w:40 h:2>
 So when will you be
 returning the buggy?<Close><End of Block>
-<TextBlock 28 w:54 h:4>
-Civilian-worker Gears pale
-in comparison to military-
-worker Gears when it comes
-to excavating.<New>
-But even if we had a
-military Gear, we wouldn't
-be able to operate it...<Close><End of Block>
-<TextBlock 29 w:54 h:4>
-Civilian-worker Gears pale
-in comparison to military-
-worker Gears when it comes
-to excavating.<New>
-But even if we had a
-military Gear, we wouldn't
-be able to operate it...<Close><End of Block>
-<TextBlock 30 w:54 h:4>
-Civilian-worker Gears pale
-in comparison to military-
-worker Gears when it comes
-to excavating.<New>
-But even if we had a
-military Gear, we wouldn't
-be able to operate it...<Close><End of Block>
+<TextBlock 28 w:60 h:4>
+With worker Gears meant for
+civilians, we're no match for
+the army guys excavating using
+military Gears.<New>
+That said, even if we got
+our hands on some military
+Gears, we wouldn't be able
+to operate them...<Close><End of Block>
+<TextBlock 29 w:60 h:4>
+With worker Gears meant for
+civilians, we're no match for
+the army guys excavating using
+military Gears.<New>
+That said, even if we got
+our hands on some military
+Gears, we wouldn't be able
+to operate them...<Close><End of Block>
+<TextBlock 30 w:60 h:4>
+With worker Gears meant for
+civilians, we're no match for
+the army guys excavating using
+military Gears.<New>
+That said, even if we got
+our hands on some military
+Gears, we wouldn't be able
+to operate them...<Close><End of Block>
 <TextBlock 31 w:36 h:8>
  -Items for Rent-
  
