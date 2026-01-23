@@ -1,9 +1,9 @@
 # Perfect_Works_Build
 Xenogears Perfect Works Build: Includes an improved translation, rebalanced gameplay, and other quality of life improvements.
 
-Download the latest release here: 
+Download the latest release here:
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.9.0
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.9.1
   
 ## Instructions
 
@@ -40,6 +40,22 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The 2x exp and gold patches were designed to work with the lower encounter rate patch. The monster stats and party/item patch both act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history
+
+### Version 0.9.1
+
+01/23/2026
+
+- The gears used by the Special Forces have been changed to be more faithful to the Japanese version. Details are in the wiki.
+- Restored a previously inaccessible line in Dazil where Citan discusses Fei's aptitude with Weltall.
+- Game freeze that would occur on more accurate emulators when opening Special Options has been fixed.
+- Bug where Deathblows are unusable in disc 1 has been fixed with items/characters.
+- Bug where damage will drop to 1 after a while in disc 1 has been fixed with items/characters.
+- Camera bug at the start of the Fei carbonite sequence.
+- Graphical artifact during the Vendetta chase sequence has been fixed.
+- Camera bug when Fei sees the coward has been fixed.
+- Elly's dialogue at the church infirmary now prioritises a line where she expresses guilt about the hypnosis.
+- The game now auto-advances when Billy goes through the Church HQ door ahead of the party.
+- A fix has been applied to the scene where Rene arrives at the portrait room.
 
 ### Version 0.9.0
 
