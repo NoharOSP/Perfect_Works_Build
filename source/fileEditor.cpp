@@ -209,3 +209,52 @@ void fileEditor::editSLUS(std::string romFile) {
 	// Create batch file to make a new SLUS
 	makeSLUS ms(romFile, num, pp, pWin);
 }
+
+// TEST
+void fileEditor::expRateEdits(std::string file) {
+	std::string trimfile = fileTrim(file);
+	// Check if filename is 2607
+	if (trimfile != "2607.unk4") {
+		return;
+	}
+	// Decompress file
+	std::filesystem::current_path(pWin->home);
+	int batch_decompress = system("Tools\\xenopack.exe -u gamefiles\\temp\\2607.unk4");
+	std::filesystem::current_path(pp->gamefilePath);
+	std::filesystem::current_path(tempDir);
+	std::string decomp = "file0";
+	// Deathblow level data
+	int dbData[9];
+	dbData[0] = 0x100;
+	dbData[1] = 0x210;
+	dbData[2] = 0x320;
+	dbData[3] = 0x430;
+	dbData[4] = 0x540;
+	dbData[5] = 0x650;
+	dbData[6] = 0x760;
+	dbData[7] = 0xa90;
+	dbData[8] = 0xba0;
+	// Open file
+	std::fstream fileContents;
+	fileContents.open(decomp, std::ios::in | std::ios::out | std::ios::binary);
+	// Edit Deathblow learning level
+	for (int i = 0; i < 9; i++) {
+		fileContents.seekp(dbData[i], std::ios_base::beg);
+		wchar_t dbBuffer = 0x05;
+		while (dbBuffer != 0x00 && dbBuffer != 0xff) {
+			fileContents.write(reinterpret_cast <char*>(0x01), 2);
+			int nextpos = i + 1;
+			fileContents.seekp(nextpos, std::ios_base::beg);
+			fileContents.read(reinterpret_cast<char*>(&dbBuffer), 2);
+		}
+	}
+	// Close file
+	fileContents.close();
+	// Recompress file
+	std::filesystem::current_path(pWin->home);
+	int batch_compress = system("Tools\\xenopack.exe -p gamefiles\\temp\\2607.unk4");
+	// Remove decompressed files
+	std::filesystem::current_path(pp->gamefilePath);
+	std::filesystem::current_path(tempDir);
+	remove("file00"), remove("file01"), remove("file02"), remove("file03");
+}

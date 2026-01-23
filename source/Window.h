@@ -101,6 +101,13 @@ struct tipDesc {
 		"sprite over her nanoreactor\n"
 		"one when eating at the Aveh\n"
 		"cafe.\n";
+	char text_deathblow[255] =
+		"Removes level requirements from\n"
+		"Deathblows. While button combos\n"
+		"are still required to learn the\n"
+		"Deathblow, the player can try to\n"
+		"learn any of them as soon as the\n"
+		"game begins.\n";
 };
 
 class windowHandler;
@@ -143,6 +150,7 @@ public:
 	HWND gold2;
 	HWND itemspells;
 	HWND monsters;
+	HWND deathblows;
 	HWND normalarena;
 	HWND basicarena;
 	HWND expertarena;
@@ -188,6 +196,7 @@ public:
 	bool p_goldtwo = false;
 	bool p_roni = false;
 	bool p_cafe = false;
+	bool p_deathblow = false;
 	std::ofstream log_file;
 	std::string path1 = "";
 	std::string path2 = "";
