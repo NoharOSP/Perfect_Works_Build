@@ -1,8 +1,9 @@
-<TextBlock 1 w:52 h:2>
+<TextBlock 1 w:40 h:3>
 Bart
 "Hey, this is huge.<New>
-What can we do with this?
-I doubt you can break it."<Close><End of Block>
+What can we do about
+this?<Delay 5> We'll never be
+able to break it."<Close><End of Block>
 <TextBlock 2 w:54 h:4>
 Bart
 "My sensors detect what
@@ -10,8 +11,8 @@ appears to be a huge cave
 on the other side of here.<New>
 If we could only do some-
 thing about this boulder...<Delay 30>
-But I doubt we can just
-smash it to pieces!<Close><End of Block>
+Doesn't seem like we'd be
+able to break it though."<Close><End of Block>
 <TextBlock 3 w:36 h:3>
 Fei
 "I guess<Delay 30> we could
@@ -27,21 +28,22 @@ My sensors are responding
 to something.<New>
 There appears to be quite
 a large cavern on the
-other side of here."<Close><End of Block>
-<TextBlock 6 w:52 h:4>
+other side of that."<Close><End of Block>
+<TextBlock 6 w:54 h:3>
 Bart
-"If we can get rid of this
-rock...<Delay 30> But I don't think
-it's possible."<Close><End of Block>
+"If we could only do some-
+thing about that boulder...<New>
+Doesn't seem like we'd be
+able to break it though."<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 Bart
 "The hydromechanical pipe
 for my knee joint is on the
 verge of breaking down.<New>
 It's all because of that
-fall from the ceiling...
-followed by pushing this
-mega-colossal boulder.<New>
+fall from up top, and then
+pushing this mega-colossal
+boulder.<New>
 It won't be funny if my
 Gear malfunctions in a
 huge cavern like this."<Close><End of Block>
@@ -52,20 +54,35 @@ stuck with you...<New>
 Damn it!
 I'll get you when we
 get outta here."<Close><End of Block>
-<TextBlock 9 w:50 h:4>
-Fei
-"Looks like there aren't
-even any gaps a person
-could fit through..."<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Bart
+"We can explore either
+in our Gears or on foot.<New>
+On the Gear screen in the
+menu, use the 'Get ON-OFF'
+option to switch between
+modes.<New>
+And we're not alone down
+here, so be prepared for
+anything!<New>
+If we run into some large
+enemies while out of our
+Gears, you can summon
+them using 'Call Gear'.<New>
+Bear in mind it'll cost
+you a turn, and there's
+no way off 'em again
+until the fight's over.<New>
+Anyway, let's get moving."<Close><End of Block>
 <TextBlock 10 w:50 h:4>
 Fei
 "Looks like there aren't
 even any gaps a person
 could fit through..."<Close><End of Block>
-<TextBlock 11 w:50 h:3>
+<TextBlock 11 w:44 h:3>
 Fei
-"We can get by if we help
-each other.<New>
+"We can make it if we
+help each other.<New>
 Let's keep it up so we
 can get out of here."<Close><End of Block>
 <TextBlock 12 w:38 h:3>
@@ -124,17 +141,18 @@ Fei
 You're the one who blindly
 attacked me. What else was
 I supposed to do?<New>
-I thought I might die if
-I didn't fight you."<Close><End of Block>
+I thought I was done for
+if I didn't fight back."<Close><End of Block>
 <TextBlock 23 w:50 h:4>
 Bart
-"I was taking it easy on
-you. Couldn't you tell?<Delay 10>
-Then you're a bit dense."<Close><End of Block>
-<TextBlock 24 w:50 h:3>
+"Hey, I was holding back!<Delay 5>
+If you didn't get that,
+then you're a bit dense."<Close><End of Block>
+<TextBlock 24 w:34 h:4>
 Fei
-"Don't lie to me.
-I know you were serious."<Close><End of Block>
+"Don't lie to me.<Delay 5>
+You were serious
+back there."<Close><End of Block>
 <TextBlock 25 w:44 h:4>
 Bart
 "What? You want some!?

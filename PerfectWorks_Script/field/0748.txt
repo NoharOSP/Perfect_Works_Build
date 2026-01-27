@@ -16,11 +16,11 @@ like this?"<Close><End of Block>
 Bart
 "A collector, huh?
 Sounds interesting."<Close><End of Block>
-<TextBlock 5 w:52 h:4>
+<TextBlock 5 w:50 h:4>
 Bart
-"The things on this shelf,
-are they some of the stuff
-you have found?"<Close><End of Block>
+"Is the stuff lined up on
+those shelves there some
+of your finds?"<Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Ol' Man Bal
 "You mean the fossils?
@@ -31,11 +31,11 @@ look at them."<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 Ol' Man Bal
 "Around here you can dig up
-ancient machines along with
+ancient machines as well as
 human and animal fossils.<New>
-Notice anything particular
-on these shelves? They go
-from oldest on the left,
+Notice anything when you
+look on these shelves? They
+go from oldest on the left,
 to newest on the right."<Close><End of Block>
 <TextBlock 8 w:50 h:3>
 Bart
@@ -138,10 +138,10 @@ be...<Delay 30>our ancestors."<Close><End of Block>
 Ol' Man Bal
 "Well, anyway, I'll
 stop my rambling now."<Close><End of Block>
-<TextBlock 19 w:34 h:3>
+<TextBlock 19 w:38 h:3>
 Fei
-"By the way, does 
-this cave have<-->"<Close><End of Block>
+"By the way, do
+these caves have<-->"<Close><End of Block>
 <TextBlock 20 w:52 h:4>
 Ol' Man Bal
 "<-->an exit?<New>
@@ -172,7 +172,7 @@ huge thing like that?"<Close><End of Block>
 <TextBlock 24 w:32 h:4>
 Bart
 "If it's a wall,
-you can probably
+we can probably
 break it down."<Close><End of Block>
 <TextBlock 25 w:50 h:3>
 Ol' Man Bal
@@ -211,9 +211,10 @@ Ol' Man Bal
 You just have to turn off
 the sand-sensor switches.<New>
 Doing that will keep the
-barrier from closing again.<Delay 30>
-While you two are doing
-that, I'll open it up."<Close><End of Block>
+barrier from closing again.<New>
+While you're away switching
+them off, I'll prepare to
+open the barrier."<Close><End of Block>
 <TextBlock 30 w:32 h:2>
 Fei
 "Right, got it."<Close><End of Block>
@@ -226,11 +227,13 @@ Well, good luck, then." <Close><End of Block>
 <TextBlock 32 w:34 h:2>
 Fei
 "Let's go, Bart."<Close><End of Block>
-<TextBlock 33 w:54 h:4>
+<TextBlock 33 w:52 h:4>
 Ol' Man Bal
 "Oh, before you go...<New>
-I can share some parts
-and fuel with you.<Delay 20>
+I can share Gear parts
+and fuel, and teach you
+a thing or two about Gear
+combat and maintenance.<New>
 Just talk to me whenever
 you need something, okay?"<Close><End of Block>
 <TextBlock 34 w:50 h:4>
@@ -255,33 +258,33 @@ Ol' Man Bal
 <TextBlock 39 w:44 h:4>
 Bart
 "I've heard tales that
-a Gear surpassing all
+Gears surpassing all
 others,<New>
-a 'God Gear' made in
-ancient times, lies
+divine Gears made in
+ancient times, lie
 dormant somewhere in
 this world.<New>
 Do you know anything
-about it?"<Close><End of Block>
+about them?"<Close><End of Block>
 <TextBlock 40 w:54 h:4>
 Ol' Man Bal
-"A man-made God, created
-with the wisdom of God!<New>
-Such a Gear would have the
-power of a thousand Gears.
-In a wave of its arm, it
-could destroy whole cities.<New>
-Its battle cries would
+"Man-made gods, created
+with the wisdom of God.<New>
+Their power would each be
+that of a thousand Gears.
+With the wave of an arm,
+they could wipe out a city.<New>
+Their battle cries would
 thunder in the heavens.<New>
 You must be speaking of
-the 'Omnigear'."<Close><End of Block>
-<TextBlock 41 w:52 h:4>
+the 'Omnigears'."<Close><End of Block>
+<TextBlock 41 w:48 h:4>
 Bart
-"You know of it? <New>
-Then perhaps it was what
-you were speaking about in
-that tale you told us of
-the battle with God..."<Close><End of Block>
+"You know of them!? <New>
+Could they possibly be
+what you were talking
+about in your tale of
+the battle with God...?"<Close><End of Block>
 <TextBlock 42 w:50 h:4>
 Ol' Man Bal
 "Goodness gracious,
@@ -291,30 +294,37 @@ to inspire man's soul.
 But they're just legends.<New>
 Such things don't really
 exist."<Close><End of Block>
-<TextBlock 43 w:44 h:3>
-Ol' Man Bal
-"Anyway, allow me take
-a look at your Gears.<New>
-It'll only take a
-little while, so
-wait here please."<Close><End of Block>
+<TextBlock 43 w:46 h:4>
+Ol' man Bal
+"Anyway, allow me to
+check the tuning of
+your Gears.<New>
+I should be done in
+about an hour, so just
+sit tight for a bit.<New>
+It's been a while since
+I last serviced a Gear.
+This should be fun."<Close><End of Block>
 <TextBlock 44 w:38 h:3>
 Bart
 "Hey, wait!<Delay 30>
 Argh, he's gone..."<Close><End of Block>
-<TextBlock 45 w:54 h:4>
+<TextBlock 45 w:46 h:4>
 Fei
-"So, Bart. Do you think the
-Gear in that story's buried
-in the ground somewhere?"<Close><End of Block>
+"So, Bart.<New>
+Do you think the divine
+Gears in that story are
+buried in the ground
+somewhere?"<Close><End of Block>
 <TextBlock 46 w:34 h:3>
 Bart
 "I think that's
 what I've heard."<Close><End of Block>
-<TextBlock 47 w:52 h:3>
+<TextBlock 47 w:34 h:4>
 Fei
-"Could one of the Gears we
-are using possibly be it?"<Close><End of Block>
+"Could one of the
+Gears we're using
+be one of them?"<Close><End of Block>
 <TextBlock 48 w:40 h:4>
 Bart
 "Yeah, right!
@@ -323,14 +333,13 @@ of that happening?<Close><End of Block>
 <TextBlock 49 w:6 h:2>
 Fei
 "?"<Close><End of Block>
-<TextBlock 50 w:50 h:4>
+<TextBlock 50 w:54 h:4>
 Bart
-"The Gears being
-excavated lately...<New>
-...are usually only a
-few hundred years old.
+"The Gears being excavated
+are a few hundred years old
+at most.<New>
 Nowhere near as old as
-the Gear in that legend."<Close><End of Block>
+the Gears in that legend."<Close><End of Block>
 <TextBlock 51 w:38 h:3>
 Fei
 "Then why were they
@@ -425,10 +434,10 @@ Ol' Man Bal
 Fei
 "I'm just borrowing it."<Close><End of Block>
 <TextBlock 71 w:20 h:1>
-This is...<Opcode 2 30><Close><End of Block>
+This is...<Opcode 2 60><Close><End of Block>
 <TextBlock 72 w:46 h:2>
-the<Delay 5> host<Delay 5> for<Delay 5> the<Delay 5> spirit<Delay 5>
-of<Delay 5> the<Delay 5> Slayer<Delay 5> of<Delay 30> God<Delay 30>...<Opcode 2 30><Close><End of Block>
+the<Delay 5> host<Delay 5> for<Delay 5> the<Delay 5> spirit<Delay 30>
+of<Delay 5> the<Delay 5> Slayer<Delay 5> of<Delay 5> God...<Opcode 2 90><Close><End of Block>
 <TextBlock 73 w:46 h:3>
 Fei
 "Wait a second!
@@ -451,10 +460,10 @@ You have no more
 business here.<New>
 I don't feel well.
 Be on your way!"<Close><End of Block>
-<TextBlock 77 w:52 h:3>
+<TextBlock 77 w:50 h:3>
 Fei
 "Be on our way...?
-Listen here, old man...!!"<Close><End of Block>
+L-<Delay 5>Listen here, old man!!"<Close><End of Block>
 <TextBlock 78 w:48 h:4>
 Fei
 "You mean you can tell
@@ -465,12 +474,13 @@ a<Close><End of Block>
 <TextBlock 80 w:44 h:4>
 Ol' Man Bal
 "I told you to leave!"<Delay 10>
-<Opcode 1 255>    Tell us some more
+<Opcode 1 255>    Tell us a story
     Sell us Gear parts<Close><End of Block>
-<TextBlock 81 w:54 h:3>
+<TextBlock 81 w:50 h:3>
 Ol' Man Bal
-"I have nothing more to say
-to you, so just leave."<Close><End of Block>
+"I have nothing more to
+say to you. I told you to
+get out of here, now!"<Close><End of Block>
 <TextBlock 82 w:54 h:4>
 Ol' Man Bal
 "When Calamity beats you,
@@ -478,12 +488,12 @@ I'll just get these parts
 back anyway...<New>
 If you don't mind that then
 I'll sell them to you...!"<Delay 10>
-<Opcode 1 255>    For Gear
-    For characters<Close><End of Block>
-<TextBlock 83 w:40 h:3>
+<Opcode 1 255>    For Gear use
+    For character use<Close><End of Block>
+<TextBlock 83 w:48 h:3>
 Ol' Man Bal
-"First, try changing
-the Engine."<Close><End of Block>
+"First off, try swapping
+out the Engine."<Close><End of Block>
 <TextBlock 84 w:52 h:4>
 Ol' Man Bal
 "Now hurry and shut off
@@ -491,7 +501,7 @@ the sand sensors.<New>
 Or do you have something
 else you want to ask?"<New>
 <Opcode 1 255>    Where are the sensors?
-    About Gear functions
+    Explain Gear functions
     Got any parts to sell?
     Nothing<Close><End of Block>
 <TextBlock 85 w:50 h:4>
@@ -515,11 +525,11 @@ Anything else you want?"<Delay 10>
 <Opcode 1 255>    Explain Gear functions
     Got any parts to sell?
     Nothing<Close><End of Block>
-<TextBlock 87 w:48 h:4>
+<TextBlock 87 w:50 h:4>
 Ol' Man Bal
-"Hmm, what do you want?"<Delay 10>
-<Opcode 1 255>    Parts for Gears
-    Character items<Close><End of Block>
+"Hmm, which do you want?"<Delay 10>
+<Opcode 1 255>    For Gear use
+    For character use<Close><End of Block>
 <TextBlock 88 w:54 h:4>
 Ol' Man Bal
 "You seem to have shut
@@ -533,51 +543,97 @@ Anything else?"<Delay 10>
 <Opcode 1 255>    Explain Gear functions
     Got any parts to sell?
     Nothing<Close><End of Block>
-<TextBlock 89 w:48 h:4>
+<TextBlock 89 w:50 h:4>
 Ol' Man Bal
-"Hmm, what do you want?"<Delay 10>
-<Opcode 1 255>    Parts for Gears
-    Character items<Close><End of Block>
+"Hmm, which do you want?"<Delay 10>
+<Opcode 1 255>    For Gear use
+    For character use<Close><End of Block>
 <TextBlock 90 w:50 h:4>
 Ol' Man Bal
 "Oh, good timing.
 I was just about to open
 up the sand barrier now."<Close><End of Block>
-<TextBlock 91 w:48 h:3>
-"It's been a while since
-I last serviced a Gear.
-This should be fun."<Close><End of Block>
+<TextBlock 91 w:48 h:4>
+<End of Block>
 <TextBlock 92 w:54 h:4>
 Ol' Man Bal
-"A Gear's strength changes
-with the parts equipped and
-how the pilot handles it.<New>
-First, let's talk about
-the Engine.<New>
-With a good Engine your
-Attack Power and fuel
-capacity go up.<New>
-HP depends on the Frame
-and Defense Ability on
-the Armor equipped.<New>
+"I guess you know about
+the standard Gear attacks:
+Weak, Strong and Fierce?<New>
+Well, have you noticed that
+after one of these attacks,
+even if you miss, your
+'Attack Level' can rise?<New>
+By building Attack Levels,
+you can enter a sequence of
+two attacks and have your
+Gear perform Deathblows!<New>
+At Attack Level 1, you can
+unleash Deathblows starting
+with a Weak attack (<T>).<New>
+At Attack Level 2,
+you can start with
+a Strong attack (<S>).<New>
+And at Attack Level 3,
+you can start with
+a Fierce attack (<X>).<New>
+(I've heard that to END any
+Deathblow sequence with a
+Fierce attack, you require
+some very rare Gear parts.)<New>
+Anyway, remember that after
+unleashing a Deathblow your
+Attack Level will return to
+0, restarting the process.<New>
+So if you want to build
+Attack Levels, use single
+attacks until you get to
+the level you want.<New>
+It seems that the Attack
+Level you can attain is
+related to your experience
+fighting hand-to-hand <--><New>
+your available AP per turn,
+and the Deathblows you've
+learned.<Delay 10> Your Gear can also
+adopt your Ether abilities.<New>
+So as you unlock stronger
+skills on the ground, check
+what new heights you can
+reach in your Gear!<New>
+A Gear's strength varies
+with the parts equipped
+and with how the pilot
+handles it.<New>
+If we're talking about
+parts, first there's the
+'Engine'.<New>
+Fit a good Engine, and
+your attack power and
+fuel capacity go up.<New>
+Increase your max HP with
+a 'Frame', and your defense
+strength with 'Armor'.<New>
 Here's a tip for when your
 fuel is low: use 'Charge'
-to replenish it a little
-as you defend yourself.<New>
-When you are fighting a
+to both defend yourself and
+replenish a little fuel.<New>
+When you're fighting a
 strong enemy, use 'Booster'
 to increase your mobility
-and power.<New>
-If you use Booster too
-much, though, your fuel
-will run out.<New>
-So think carefully and
+and even the odds.<New>
+Use Booster too much,
+though, and before you know
+it your fuel will run out.<New>
+Well, that's about it.
+Think carefully and
 try to find your own
 style of fighting."<Close><End of Block>
-<TextBlock 93 w:46 h:3>
+<TextBlock 93 w:44 h:4>
 Ol' Man Bal
-"First, changing the
-Engine is a good idea."<Close><End of Block>
+"First off, I guess
+trying to swap out the
+Engine would be good."<Close><End of Block>
 <TextBlock 94 w:44 h:3>
 Old Man
 "It's been a long time
@@ -600,9 +656,9 @@ Old Man
 It's easy to tell what's
 wrong with Gears by the
 sounds they make.<New>
-My guess is that one of
-them has a joint that
-needs a new
+My guess is that one
+of them has a joint
+that needs a new
 hydromechanical pipe.<New>
 It's making a
 nasty sound.
@@ -624,15 +680,13 @@ Bart
 "Hey, Fei! This is a
 surprise! There's someone
 living in this place!"<Close><End of Block>
-<TextBlock 99 w:52 h:4>
+<TextBlock 99 w:54 h:4>
 Old Man
-"Hmm, it's been a while,
-but I thought I could hear
-the sound of Gears.<New>
-I assume they are yours?<Delay 10>
-Well anyway, come on back
-here and make yourself
-at home."<Close><End of Block>
+"Ohh, I was just thinking
+I rarely hear Gear foot-
+steps.<Delay 10> They your Gears?<New>
+Well, come on back here and
+make yourselves at home."<Close><End of Block>
 <TextBlock 100 w:48 h:3>
 Fei
 "I don't know where they
@@ -652,8 +706,8 @@ can see the waterfalls.<New>
 You can get to it by going
 northwest from the place
 where the Gear is standing.
-It is on a rock ledge.<New>
-You can tell that it is a
+It's on a rock ledge.<New>
+You can tell that it's a
 sand sensor by its square
 shape and the flashing red
 lights it emits."<Close><Close><End of Block>
