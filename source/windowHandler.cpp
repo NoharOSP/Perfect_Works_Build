@@ -10,7 +10,6 @@ windowHandler::~windowHandler() {
 }
 
 bool windowHandler::check() {
-	// TODO: Make arena, graphics and audio handlers
 	handleScript hs;
 	handleGameplay hg;
 	handleGraphics hgr;
@@ -23,6 +22,7 @@ bool windowHandler::check() {
 	hg.checkGoldTwo(pWin, this);
 	hg.checkItemsParty(pWin, this);
 	hg.checkMonsters(pWin, this);
+	hg.checkDeathblows(pWin, this);
 	checkNormArena();
 	checkBasicArena();
 	checkExpArena();

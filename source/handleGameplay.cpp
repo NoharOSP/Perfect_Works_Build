@@ -149,3 +149,20 @@ void handleGameplay::checkMonsters(Window* pWin, windowHandler* wh) {
 		pWin->p_monsters = false;
 	}
 }
+
+void handleGameplay::checkDeathblows(Window* pWin, windowHandler* wh) {
+	LRESULT deathblowsticked = SendMessage(pWin->deathblows, BM_GETCHECK, NULL, NULL);
+	if (deathblowsticked == BST_CHECKED) {
+		pWin->log_file << "No Deathblow levels ticked." << std::endl;
+		pWin->p_deathblow = true;
+		if (pWin->p_story_mode == true) {
+			pWin->log_file << "Unticking story mode." << std::endl;
+			LRESULT smuntick = SendMessage(pWin->storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
+			pWin->p_story_mode = false;
+		}
+		wh->ticked = true;
+	}
+	else {
+		pWin->p_deathblow = false;
+	}
+}

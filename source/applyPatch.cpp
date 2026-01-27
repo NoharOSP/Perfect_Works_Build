@@ -132,6 +132,12 @@ void applyPatch::iterateTemp() {
 			pFE->battleExeEdits(entry.path().string());
 		}
 	}
+	if (pWin->p_deathblow) {
+		pWin->log_file << "Applying ability learning level changes." << std::endl;
+		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+			pFE->expRateEdits(entry.path().string());
+		}
+	}
 }
 
 void applyPatch::applyFMV() {

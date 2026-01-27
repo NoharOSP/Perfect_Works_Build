@@ -44,6 +44,7 @@ void patchVerifier::verify() {
 		av.~arenaVerifier();
 		gamv.encounterVerify(pWin, pp, num);
 		gamv.itemSpellVerify(pWin, pp, num);
+		gamv.deathblowVerify(pWin, pp);
 	}
 	sv.fastVerify(pWin, pp, num);
 	sv.scriptVerify(pWin, pp, num);

@@ -16,5 +16,6 @@ public:
 	bool goldVerify(Window* pWin, patchProcessor* pp);
 	bool encounterVerify(Window* pWin, patchProcessor* pp, int num);
 	bool itemSpellVerify(Window* pWin, patchProcessor* pp, int num);
+	bool deathblowVerify(Window* pWin, patchProcessor* pp);
 };
 

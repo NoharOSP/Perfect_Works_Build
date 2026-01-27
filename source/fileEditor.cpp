@@ -210,8 +210,8 @@ void fileEditor::editSLUS(std::string romFile) {
 	makeSLUS ms(romFile, num, pp, pWin);
 }
 
-// TEST
 void fileEditor::expRateEdits(std::string file) {
+	// Pass to party stat editor class
 	std::string trimfile = fileTrim(file);
 	// Check if filename is 2607
 	if (trimfile != "2607.unk4") {
@@ -219,9 +219,9 @@ void fileEditor::expRateEdits(std::string file) {
 	}
 	// Decompress file
 	std::filesystem::current_path(pWin->home);
-	int batch_decompress = system("Tools\\xenopack.exe -u gamefiles\\temp\\2607.unk4");
 	std::filesystem::current_path(pp->gamefilePath);
 	std::filesystem::current_path(tempDir);
+	int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 2607.unk4");
 	std::string decomp = "file0";
 	// Deathblow level data
 	int dbData[9];
@@ -241,20 +241,21 @@ void fileEditor::expRateEdits(std::string file) {
 	for (int i = 0; i < 9; i++) {
 		fileContents.seekp(dbData[i], std::ios_base::beg);
 		wchar_t dbBuffer = 0x05;
+		int iteration = 0;
+		int val = 0x01;
 		while (dbBuffer != 0x00 && dbBuffer != 0xff) {
-			fileContents.write(reinterpret_cast <char*>(0x01), 2);
-			int nextpos = i + 1;
-			fileContents.seekp(nextpos, std::ios_base::beg);
-			fileContents.read(reinterpret_cast<char*>(&dbBuffer), 2);
+			fileContents.seekp(dbData[i] + iteration, std::ios_base::beg);
+			fileContents.write(reinterpret_cast <char*>(&val), 1);
+			iteration = iteration + 1;
+			fileContents.seekp(dbData[i] + iteration, std::ios_base::beg);
+			fileContents.read(reinterpret_cast<char*>(&dbBuffer), 1);
 		}
 	}
 	// Close file
 	fileContents.close();
 	// Recompress file
-	std::filesystem::current_path(pWin->home);
-	int batch_compress = system("Tools\\xenopack.exe -p gamefiles\\temp\\2607.unk4");
+	int batch_compress = system("..\\..\\Tools\\xenopack.exe -p 2607.unk4");
 	// Remove decompressed files
-	std::filesystem::current_path(pp->gamefilePath);
-	std::filesystem::current_path(tempDir);
-	remove("file00"), remove("file01"), remove("file02"), remove("file03");
+	remove("file0"), remove("file1"), remove("file2"), remove("file3");
+	std::filesystem::current_path(pWin->home);
 }
