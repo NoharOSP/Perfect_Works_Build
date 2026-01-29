@@ -7,6 +7,7 @@
 #include "patchProcessor.h"
 #include "Window.h"
 #include "makeSLUS.h"
+#include "partyStatEditor.h"
 
 class patchProcessor;
 class Window;
