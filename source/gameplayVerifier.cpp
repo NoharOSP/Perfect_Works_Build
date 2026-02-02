@@ -96,3 +96,11 @@ bool gameplayVerifier::itemSpellVerify(Window* pWin, patchProcessor* pp, int num
 	}
 	return pWin->p_items_spells;
 }
+
+bool gameplayVerifier::deathblowVerify(Window* pWin, patchProcessor* pp) {
+	if (pWin->p_deathblow) {
+		pWin->log_file << "No Deathblow levels directory found." << std::endl;
+		pp->deathblowName = "exp_data";
+	}
+	return pWin->p_deathblow;
+}

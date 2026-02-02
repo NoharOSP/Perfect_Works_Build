@@ -21,11 +21,11 @@ void paintWindow::paint() {
 	GetClientRect(pWin->winHwnd, &rcWindow);
 	RECT rc1, rc2;
 	rc1, rc2 = rcWindow;
-	rc1.top = pWin->winY * 0.025;
+	rc1.top = pWin->winY * 0.02;
 	rc1.left = pWin->winX / 50;
 	rc1.right = pWin->winX - (rc1.left * 2);
-	rc1.bottom = pWin->winY * 0.27;
-	rc2.top = pWin->winY * 0.30;
+	rc1.bottom = pWin->winY * 0.21;
+	rc2.top = pWin->winY * 0.24;
 	rc2.left = rc1.left;
 	rc2.right = rc1.right;
 	rc2.bottom = pWin->winY * 0.85;
@@ -55,14 +55,14 @@ void paintWindow::drawText() {
 	swprintf_s(audiotext, 256, L"Audio:    ");
 	swprintf_s(modestext, 256, L"Modes:    ");
 	// Output text
-	TextOut(hdc, pWin->winX * 0.0325, pWin->winY * 0.05, cd1text, wcslen(cd1text));
-	TextOut(hdc, pWin->winX * 0.0325, pWin->winY * 0.12, cd2text, wcslen(cd2text));
-	TextOut(hdc, pWin->winX * pWin->graphicsx, pWin->winY * 0.32, graphicstext, wcslen(graphicstext));
-	TextOut(hdc, pWin->winX * pWin->gameplayx, pWin->winY * 0.32, gameplaytext, wcslen(gameplaytext));
-	TextOut(hdc, pWin->winX * pWin->arenax, pWin->winY * 0.32, arenatext, wcslen(arenatext));
-	TextOut(hdc, pWin->winX * pWin->storyx, pWin->winY * 0.32, storytext, wcslen(storytext));
-	TextOut(hdc, pWin->winX * pWin->audiox, pWin->winY * 0.32, audiotext, wcslen(audiotext));
-	TextOut(hdc, pWin->winX * pWin->smx, pWin->winY * 0.32, modestext, wcslen(modestext));
+	TextOut(hdc, pWin->winX * 0.0325, pWin->winY * 0.03, cd1text, wcslen(cd1text));
+	TextOut(hdc, pWin->winX * 0.0325, pWin->winY * 0.09, cd2text, wcslen(cd2text));
+	TextOut(hdc, pWin->winX * pWin->graphicsx, pWin->winY * 0.26, graphicstext, wcslen(graphicstext));
+	TextOut(hdc, pWin->winX * pWin->gameplayx, pWin->winY * 0.26, gameplaytext, wcslen(gameplaytext));
+	TextOut(hdc, pWin->winX * pWin->arenax, pWin->winY * 0.26, arenatext, wcslen(arenatext));
+	TextOut(hdc, pWin->winX * pWin->storyx, pWin->winY * 0.26, storytext, wcslen(storytext));
+	TextOut(hdc, pWin->winX * pWin->audiox, pWin->winY * 0.26, audiotext, wcslen(audiotext));
+	TextOut(hdc, pWin->winX * pWin->smx, pWin->winY * 0.26, modestext, wcslen(modestext));
 }
 
 void paintWindow::initialiseFont() {
@@ -108,13 +108,14 @@ void paintWindow::graphicWindows() {
 
 void paintWindow::gameplayWindows() {
 	// Create gameplay patch windows
-	pWin->encounters = CreateWindow(L"BUTTON", L"1/2 encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.36), 90, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->experience1 = CreateWindow(L"BUTTON", L"1.5x exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.43), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->experience2 = CreateWindow(L"BUTTON", L"2x exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.50), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->gold1 = CreateWindow(L"BUTTON", L"1.5x gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.57), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->gold2 = CreateWindow(L"BUTTON", L"2x gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.64), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.71), 120, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.78), 160, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->encounters = CreateWindow(L"BUTTON", L"1/2 encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.30), 90, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->experience1 = CreateWindow(L"BUTTON", L"1.5x exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.36), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->experience2 = CreateWindow(L"BUTTON", L"2x exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.42), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->gold1 = CreateWindow(L"BUTTON", L"1.5x gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.48), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->gold2 = CreateWindow(L"BUTTON", L"2x gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.54), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.60), 120, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.66), 160, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->deathblows = CreateWindow(L"BUTTON", L"No Deathblow levels", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->gameplayx), (int)(pWin->winY * 0.72), 160, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
 	// Put in window list
 	pWin->windList.emplace_back(pWin->encounters);
 	pWin->windList.emplace_back(pWin->experience1);
@@ -123,13 +124,14 @@ void paintWindow::gameplayWindows() {
 	pWin->windList.emplace_back(pWin->gold2);
 	pWin->windList.emplace_back(pWin->itemspells);
 	pWin->windList.emplace_back(pWin->monsters);
+	pWin->windList.emplace_back(pWin->deathblows);
 }
 
 void paintWindow::arenaWindows() {
 	// Create arena patch windows
-	pWin->normalarena = CreateWindow(L"BUTTON", L"Normal", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(pWin->winX * pWin->arenax), (int)(pWin->winY * 0.36), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->basicarena = CreateWindow(L"BUTTON", L"Basic mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(pWin->winX * pWin->arenax), (int)(pWin->winY * 0.43), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->expertarena = CreateWindow(L"BUTTON", L"Expert mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(pWin->winX * pWin->arenax), (int)(pWin->winY * 0.50), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->normalarena = CreateWindow(L"BUTTON", L"Normal", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(pWin->winX * pWin->arenax), (int)(pWin->winY * 0.30), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->basicarena = CreateWindow(L"BUTTON", L"Basic mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(pWin->winX * pWin->arenax), (int)(pWin->winY * 0.36), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->expertarena = CreateWindow(L"BUTTON", L"Expert mode", WS_CHILD | WS_VISIBLE | BS_AUTORADIOBUTTON, (int)(pWin->winX * pWin->arenax), (int)(pWin->winY * 0.42), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
 	// Put in window list
 	pWin->windList.emplace_back(pWin->normalarena);
 	pWin->windList.emplace_back(pWin->basicarena);
@@ -138,8 +140,8 @@ void paintWindow::arenaWindows() {
 
 void paintWindow::storyWindows() {
 	// Create story patch windows
-	pWin->script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->storyx), (int)(pWin->winY * 0.36), 120, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->storyx), (int)(pWin->winY * 0.43), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->script = CreateWindow(L"BUTTON", L"Script/name changes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->storyx), (int)(pWin->winY * 0.30), 120, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->fasttext = CreateWindow(L"BUTTON", L"Fast text", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->storyx), (int)(pWin->winY * 0.36), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
 	// Put in window list
 	pWin->windList.emplace_back(pWin->fasttext);
 	pWin->windList.emplace_back(pWin->script);
@@ -147,8 +149,8 @@ void paintWindow::storyWindows() {
 
 void paintWindow::audioWindows() {
 	// Create audio patch windows
-	pWin->fmvs = CreateWindow(L"BUTTON", L"FMV undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->audiox), (int)(pWin->winY * 0.36), 100, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->voice = CreateWindow(L"BUTTON", L"Battle undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->audiox), (int)(pWin->winY * 0.43), 90, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->fmvs = CreateWindow(L"BUTTON", L"FMV undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->audiox), (int)(pWin->winY * 0.30), 100, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->voice = CreateWindow(L"BUTTON", L"Battle undub", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->audiox), (int)(pWin->winY * 0.36), 90, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
 	// Put in window list
 	pWin->windList.emplace_back(pWin->fmvs);
 	pWin->windList.emplace_back(pWin->voice);
@@ -156,7 +158,7 @@ void paintWindow::audioWindows() {
 
 void paintWindow::modeWindows() {
 	// Create mode patch windows
-	pWin->storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->smx), (int)(pWin->winY * 0.36), 85, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->smx), (int)(pWin->winY * 0.30), 85, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
 	// Put in window list
 	pWin->windList.emplace_back(pWin->storyMode);
 }

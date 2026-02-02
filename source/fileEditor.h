@@ -7,6 +7,7 @@
 #include "patchProcessor.h"
 #include "Window.h"
 #include "makeSLUS.h"
+#include "partyStatEditor.h"
 
 class patchProcessor;
 class Window;
@@ -25,6 +26,7 @@ public:
 	void setMonsterData(int data[], bool gear);
 	void editExp(std::fstream* fileContents, int i, int nextpos, wchar_t buffer, int data[]);
 	void editGold(std::fstream* fileContents, int i, int nextpos, wchar_t buffer, int data[]);
+	void expRateEdits(std::string file);
 	std::string fileTrim(std::string file);
 
 	// Global variables
