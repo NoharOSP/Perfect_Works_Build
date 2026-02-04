@@ -108,6 +108,8 @@ struct tipDesc {
 		"Deathblow, the player can try to\n"
 		"learn any of them as soon as the\n"
 		"game begins.\n";
+	char text_jpn_control[255] =
+		"To be written.\n";
 };
 
 class windowHandler;
@@ -159,6 +161,7 @@ public:
 	HWND fmvs;
 	HWND voice;
 	HWND storyMode;
+	HWND jpnControls;
 	HINSTANCE winInst;
 	int winX;
 	int winY;
@@ -197,6 +200,7 @@ public:
 	bool p_roni = false;
 	bool p_cafe = false;
 	bool p_deathblow = false;
+	bool p_jpn_controls = false;
 	std::ofstream log_file;
 	std::string path1 = "";
 	std::string path2 = "";

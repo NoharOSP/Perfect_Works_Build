@@ -58,6 +58,7 @@ void patchVerifier::verify() {
 	grav.~graphicsVerifier();
 	gamv.~gameplayVerifier();
 	sv.~storyVerifier();
+	jpnVerify();
 }
 
 bool patchVerifier::storyModeVerify() {
@@ -110,4 +111,9 @@ bool patchVerifier::bugVerify() {
 void patchVerifier::titleVerify() {
 	pWin->log_file << "Title screen directory found." << std::endl;
 	pp->titleName = "title_screen";
+}
+
+void patchVerifier::jpnVerify() {
+	pWin->log_file << "Japanese control directory found." << std::endl;
+	pp->jpnName = "jpn_controls";
 }

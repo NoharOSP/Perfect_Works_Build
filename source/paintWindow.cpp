@@ -93,11 +93,11 @@ void paintWindow::createWindows() {
 
 void paintWindow::graphicWindows() {
 	// Create graphic patch windows
-	pWin->resize = CreateWindow(L"BUTTON", L"Face fixes (resize)", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->graphicsx), (int)(pWin->winY * 0.36), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->portraits = CreateWindow(L"BUTTON", L"Face fixes (normal)", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->graphicsx), (int)(pWin->winY * 0.43), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->flashes = CreateWindow(L"BUTTON", L"No battle flashes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->graphicsx), (int)(pWin->winY * 0.50), 100, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->roni = CreateWindow(L"BUTTON", L"PW Roni", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->graphicsx), (int)(pWin->winY * 0.57), 100, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
-	pWin->cafe = CreateWindow(L"BUTTON", L"Emeralda cafe fix", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->graphicsx), (int)(pWin->winY * 0.64), 100, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->resize = CreateWindow(L"BUTTON", L"Face fixes (resize)", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->graphicsx), (int)(pWin->winY * 0.30), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->portraits = CreateWindow(L"BUTTON", L"Face fixes (normal)", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->graphicsx), (int)(pWin->winY * 0.36), 110, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->flashes = CreateWindow(L"BUTTON", L"No battle flashes", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->graphicsx), (int)(pWin->winY * 0.42), 100, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->roni = CreateWindow(L"BUTTON", L"PW Roni", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->graphicsx), (int)(pWin->winY * 0.48), 100, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->cafe = CreateWindow(L"BUTTON", L"Emeralda cafe fix", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->graphicsx), (int)(pWin->winY * 0.54), 100, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
 	// Put in window list
 	pWin->windList.emplace_back(pWin->resize);
 	pWin->windList.emplace_back(pWin->portraits);
@@ -159,6 +159,8 @@ void paintWindow::audioWindows() {
 void paintWindow::modeWindows() {
 	// Create mode patch windows
 	pWin->storyMode = CreateWindow(L"BUTTON", L"Story mode", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->smx), (int)(pWin->winY * 0.30), 85, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
+	pWin->jpnControls = CreateWindow(L"BUTTON", L"JPN controls", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(pWin->winX * pWin->smx), (int)(pWin->winY * 0.36), 85, 25, pWin->winHwnd, (HMENU)9002, pWin->winInst, NULL);
 	// Put in window list
 	pWin->windList.emplace_back(pWin->storyMode);
+	pWin->windList.emplace_back(pWin->jpnControls);
 }
