@@ -16,6 +16,7 @@ https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.9.1
 - Open the ISO file for either or both discs. 
 - Select which patches you wish to apply.
 - Press Patch. The script edits should take longer to patch as it has the most files to copy.
+- Open the patched ROM on your chosen emulator. The file will be called Xenogears_PW_CDX. X corresponds to the disc number.
 
 #### macOS/Linux
 
