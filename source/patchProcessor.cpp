@@ -141,7 +141,7 @@ void patchProcessor::finish() {
 	SetWindowText(patchWnd, pWin->title);
 	if (successMessage) {
 		pWin->log_file << "Show success message." << std::endl;
-		MessageBox(patchWnd, L"Patch was completed successfully.", L"Success", MB_ICONASTERISK);
+		MessageBox(patchWnd, L"Patch was completed successfully. The completed ROM will be available as Xenogears_PW_CD1 or Xenogears_PW_CD2.", L"Success", MB_ICONASTERISK);
 	}
 	else {
 		pWin->log_file << "Show failure message." << std::endl;
