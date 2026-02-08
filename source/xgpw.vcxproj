@@ -167,6 +167,7 @@
     <ClInclude Include="handleGameplay.h" />
     <ClInclude Include="handleGraphics.h" />
     <ClInclude Include="handleScript.h" />
+    <ClInclude Include="helper\gameFileTools.h" />
     <ClInclude Include="main.h" />
     <ClInclude Include="makeSLUS.h" />
     <ClInclude Include="paintWindow.h" />
@@ -190,6 +191,10 @@
     <ClCompile Include="handleGameplay.cpp" />
     <ClCompile Include="handleGraphics.cpp" />
     <ClCompile Include="handleScript.cpp" />
+    <ClCompile Include="helper\gameFileTools.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">NotUsing</PrecompiledHeader>
+    </ClCompile>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="makeSLUS.cpp" />
     <ClCompile Include="paintWindow.cpp" />

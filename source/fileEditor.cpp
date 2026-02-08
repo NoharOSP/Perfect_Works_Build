@@ -14,7 +14,7 @@ fileEditor::~fileEditor() {
 
 void fileEditor::monsterEdits(std::string file) {
 	// Check if filename is between 2618 and 2768
-	std::string trimfile = fileTrim(file);
+	std::string trimfile = gameFileTools::fileTrim(file);
 	int fileNum = std::stoi(trimfile);
 	if (fileNum < 2618) {
 		return;
@@ -24,12 +24,6 @@ void fileEditor::monsterEdits(std::string file) {
 	}
 	// Iterate through each monster
 	iterateMonster(file);
-}
-
-std::string fileEditor::fileTrim(std::string file) {
-	std::string trimfile = file;
-	trimfile.erase(0, 5);
-	return trimfile;
 }
 
 void fileEditor::iterateMonster(std::string file) {
@@ -120,7 +114,7 @@ void fileEditor::editGold(std::fstream* fileContents, int i, int nextpos, wchar_
 }
 
 void fileEditor::exeEdits(std::string file) {
-	std::string trimfile = fileTrim(file);
+	std::string trimfile = gameFileTools::fileTrim(file);
 	if (pp->fmvName == "") {
 		// Check if filename is 0022
 		if (trimfile != "0022") {
@@ -160,7 +154,7 @@ void fileEditor::exeEdits(std::string file) {
 
 // Remove battle flashes
 void fileEditor::battleExeEdits(std::string file) {
-	std::string trimfile = fileTrim(file);
+	std::string trimfile = gameFileTools::fileTrim(file);
 	// Check if filename is 0038
 	if (trimfile != "0038") {
 		return;
