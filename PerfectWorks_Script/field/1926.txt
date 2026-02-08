@@ -1,27 +1,27 @@
-<TextBlock 1 w:42 h:2>
+<TextBlock 1 w:28 h:2>
 Citan
-"W, what is this...?"<Close><End of Block>
-<TextBlock 2 w:24 h:2>
+"Wh-What is<-->"<Close><End of Block>
+<TextBlock 2 w:36 h:2>
 Bart
-"What the!?"<Close><End of Block>
-<TextBlock 3 w:34 h:2>
+"Wh-What's this!?"<Close><End of Block>
+<TextBlock 3 w:36 h:2>
 Billy
-"W, what's this?"<Close><End of Block>
+"Wh-What's this!?"<Close><End of Block>
 <TextBlock 4 w:44 h:2>
 Rico
-What the hell's this?"<Close><End of Block>
+"Th-The hell's this!?"<Close><End of Block>
 <TextBlock 5 w:30 h:2>
 Emeralda
 "What this...?"<Close><End of Block>
 <TextBlock 6 w:18 h:2>
 <Chu-Chu>
 "!?"<Close><End of Block>
-<TextBlock 7 w:40 h:2>
+<TextBlock 7 w:28 h:2>
 Maria
-"W, what's this...?"<Close><End of Block>
-<TextBlock 8 w:42 h:2>
+"Wh-What is<-->"<Close><End of Block>
+<TextBlock 8 w:28 h:2>
 Citan
-"W, what is this...?"<Close><End of Block>
+"Wh-What is<-->"<Close><End of Block>
 <TextBlock 9 w:30 h:2>
 Emeralda
 "What this...?"<Close><Close><End of Block>

@@ -66,7 +66,7 @@ You want some candy?<Delay 10>
 <Opcode 1 255>    Yah, gimme some
     Nah<Close><End of Block>
 <TextBlock 14 w:46 h:4>
-Ya~ay!<Delay 10>
+Yaaaay!<Delay 10>
 Let's empty this bottle
 quick so we can put 
 pretty shells in it!<Close><End of Block>
@@ -86,7 +86,7 @@ It's a secret, okay?<Delay 10>
 <Opcode 1 255>    Okay
     I don't know<Close><End of Block>
 <TextBlock 18 w:48 h:4>
-Ya~ay! Thanks.<Delay 10> 
+Yaaaay! Thanks.<Delay 10> 
 I'll give you this book
 if you keep it a secret,
 'kay?<Close><End of Block>
@@ -352,7 +352,7 @@ join you."<Close><End of Block>
 <TextBlock 71 w:30 h:3>
 Jesse
 "...*HIC*...!!<Delay 10>
-I'm ba~ck.<New>
+I'm baaack.<New>
 Billy,
 you there?"<Close><End of Block>
 <TextBlock 72 w:44 h:4>

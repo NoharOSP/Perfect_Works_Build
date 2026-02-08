@@ -37,16 +37,16 @@ Fei
 <TextBlock 11 w:16 h:2>
 Fei
 "Hey..."<Close><End of Block>
-<TextBlock 12 w:44 h:2>
+<TextBlock 12 w:54 h:2>
 Fei
-"That bell must be..."<Close><End of Block>
+"!?<Delay 5> So that bell must be<-->"<Close><End of Block>
 <TextBlock 13 w:36 h:2>
 Fei
 "Where's the key?"<Close><End of Block>
-<TextBlock 14 w:40 h:3>
+<TextBlock 14 w:48 h:3>
 Fei
-"Are we sure the key
-fell somewhere?"<Close><End of Block>
+"Are you sure the key's
+lying around somewhere?"<Close><End of Block>
 <TextBlock 15 w:40 h:3>
 Fei
 "It must have fallen
@@ -243,22 +243,22 @@ Rico
 "Hmm. From here, it's next
 to the waterfall, over at
 the far east end."<Close><End of Block>
-<TextBlock 62 w:32 h:2>
+<TextBlock 62 w:36 h:2>
 Rico
-"Hey, watch it!"<Close><End of Block>
+"Hey! Be careful."<Close><End of Block>
 <TextBlock 63 w:26 h:2>
 Rico
 "I'll do it!"<Close><End of Block>
 <TextBlock 64 w:40 h:3>
 Rico
-"Argh...<Delay 20>arrgh...<Delay 20>
+"Hrr<Delay 20>rrgh...<Delay 20>
 Damn! It won't open.<New>
-Damn it!"<Close><End of Block>
+Blasted thing!"<Close><End of Block>
 <TextBlock 65 w:46 h:4>
 Rico
-"...God dammit!<Delay 40>
+"...Dammit!<Delay 40>
 ...No good...<Delay 30> It won't
-open without the key."<Close><End of Block>
+open without a key."<Close><End of Block>
 <TextBlock 66 w:38 h:3>
 Rico
 "Vargas should've
@@ -276,7 +276,7 @@ Rico
 Rico
 "If it was dropped,
 it should be easy
-to find..."<Close><End of Block>
+to find, but..."<Close><End of Block>
 <TextBlock 69 w:32 h:2>
 Rico
 "Are you ready?"<Close><End of Block>

@@ -51,12 +51,12 @@ three times."<Close><End of Block>
 Citan
 "His whereabouts have not
 been verified."<Close><End of Block>
-<TextBlock 11 w:48 h:4>
+<TextBlock 11 w:42 h:4>
 Citan
-"If I may inquire, why
-was he sent to such a
-place as this...?<New>
-Surely the Elders
+"...<Delay 10>
+If I may inquire,<Delay 5> why
+a place like this...?<New>
+Surely the elders
 did not...?"<Close><End of Block>
 <TextBlock 12 w:18 h:2>
 Citan

@@ -38,7 +38,7 @@ Please, leave.<Close><End of Block>
 <TextBlock 11 w:28 h:1>
 What!? Really?<Close><End of Block>
 <TextBlock 12 w:48 h:3>
-...Yeah<New>
+...Yeah.<New>
 This door won't open for
 anyone except the Kaiser
 or his wife anyway.<Close><End of Block>

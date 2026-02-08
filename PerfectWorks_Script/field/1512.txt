@@ -866,13 +866,13 @@ tough, you might wanna
 try your luck with it.<New>
 Reckon it might just
 save your life.<New>
-Thank me? Ha!<Delay 30> You can
+Thank me? Hah!<Delay 30> You can
 thank me by not dying, now
 that I've shared my wisdom
 with the new generation!<New>
 That, or bring me the
 most expensive booze you
-can buy!<Delay 30> Ha, ha, ha, ha!<New>
+can buy!<Delay 30> Ha ha ha ha!<New>
 Go get 'em, guys."<Close><End of Block>
 <TextBlock 111 w:50 h:4>
 Jesse

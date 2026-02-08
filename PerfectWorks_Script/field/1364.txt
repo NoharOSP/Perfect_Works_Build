@@ -330,7 +330,7 @@ folks... It'll help us if
 you'd hurry up and lose."<Close><End of Block>
 <TextBlock 51 w:50 h:4>
 Throne
-"Well, excu~se us!
+"Well, excuuuuse us!
 But we can't let you go
 just yet...<New>
 We really don't care much
@@ -423,6 +423,6 @@ gonna let that
 part slide?"<Close><End of Block>
 <TextBlock 64 w:26 h:4>
 Seraphita
-"A~hh!
+"Aaahh!
 Throne!
 Wait for me!"<Close><Close><End of Block>

@@ -40,7 +40,7 @@ mercilessly. He said...<New>
  you, seducing a widow?
  Just make sure the kid
  doesn't hate you...'<New>
-Ha, ha... I guess the
+Ha ha... I guess the
 Captain was right.
 My stepson doesn't like
 me yet. 
@@ -51,7 +51,7 @@ Fei
 Boy, you've changed!"<Close><End of Block>
 <TextBlock 6 w:50 h:4>
 Hans
-"Ha, ha. You've changed
+"Ha ha. You've changed
 too, Fei. I don't know
 how to explain it, but...<New>
 As for me...well, I don't
@@ -127,9 +127,9 @@ Captain
 <TextBlock 22 w:32 h:2>
 Captain
 "Never say die!"<Close><End of Block>
-<TextBlock 23 w:44 h:2>
+<TextBlock 23 w:30 h:2>
 Captain
-"Gha, ha, ha, haaaa!!"<Close><End of Block>
+"Gahahahaaaa!!"<Close><End of Block>
 <TextBlock 24 w:26 h:3>
 Hans
 "You...<Delay 10>are...<Delay 10>

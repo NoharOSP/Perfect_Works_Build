@@ -444,9 +444,9 @@ Lacan
 "As if she'd open her
 heart for me alone,<Delay 5>
 a mere artist<Delay 5>..."<Close><End of Block>
-<TextBlock 71 w:26 h:2>
+<TextBlock 71 w:28 h:2>
 Rene
-"Bro!<Delay 15> Bro~!"<Opcode 2 60><Close><End of Block>
+"Bro!<Delay 15> Broooo!"<Opcode 2 60><Close><End of Block>
 <TextBlock 72 w:26 h:4>
 Rene
 "Hey bro,<Delay 5> so

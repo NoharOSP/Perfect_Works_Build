@@ -9,8 +9,8 @@ you up...!<Close><End of Block>
 Hey, read me this book...<Delay 10>
 <Opcode 1 255>    Alright!
     Maybe next time!<Close><End of Block>
-<TextBlock 4 w:13 h:1>
-Ya~y!!<Close><End of Block>
+<TextBlock 4 w:14 h:1>
+Yaaay!!<Close><End of Block>
 <TextBlock 5 w:50 h:3>
 <Perso1>
 "Long, long ago there was

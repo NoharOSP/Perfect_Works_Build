@@ -2,7 +2,7 @@
 Big Joe
 "I lose. 
 Here's your present.
-A~~nd adios."<Close><End of Block>
+Aaaand adios."<Close><End of Block>
 <TextBlock 2 w:44 h:1>
 Received LongDarkCoat.<Close><End of Block>
 <TextBlock 3 w:38 h:4>

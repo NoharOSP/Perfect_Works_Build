@@ -2,7 +2,7 @@
 Fei
 "This is...<Delay 10>
 Dazil..."<Close><End of Block>
-<TextBlock 2 w:38 h:2>
+<TextBlock 2 w:44 h:2>
 Fei
 "Repair <Weltall>..."<Close><End of Block>
 <TextBlock 3 w:32 h:4>
@@ -21,8 +21,9 @@ Fei
 Well, Doc, it's about
 <Weltall>...<New>
 We can't find the part
-we need, so is it alright
-if we just don't fix it?"<Close><End of Block>
+we need, so would it be
+alright if we just didn't
+fix it?"<Close><End of Block>
 <TextBlock 6 w:54 h:4>
 Fei
 "Well, we've been able to
@@ -94,17 +95,17 @@ to find out what both Av
 and Kislev are up to.<New>
 And we also have to repair
 <Weltall>."<Close><End of Block>
-<TextBlock 20 w:48 h:4>
+<TextBlock 20 w:52 h:4>
 Citan
 "Yes. We must replace
 the broken part...<New>
 or <Weltall> will not be
 able to function at all!<New>
-If I recall correctly,
-there should be a work-
-shop run by the Church
-of the Ethos in the<New>
-southern part of town.
+If I recall correctly,<New>
+there should be a workshop
+run by the Church of the
+Ethos in the southern
+part of town.<New>
 Let us go there, Fei."<Close><End of Block>
 <TextBlock 21 w:50 h:4>
 Citan
@@ -127,7 +128,7 @@ want to talk to me about?"<Close><End of Block>
 Citan
 "Do not repair it?
 Why ever not?"<Close><End of Block>
-<TextBlock 25 w:50 h:4>
+<TextBlock 25 w:52 h:4>
 Citan
 "...<Delay 10>I see.
 If that is what you want,
@@ -135,14 +136,14 @@ Fei, then very well.<New>
 However, I still think
 <Weltall> should be moved
 away from there."<Close><End of Block>
-<TextBlock 26 w:54 h:4>
+<TextBlock 26 w:56 h:4>
 Citan
-"It is only my speculation,
-but...I suspect the inci-
-dent that evening occurred<New>
-because the Geburah Special
-Forces stole a Kislev
-military Gear."<Close><End of Block>
+"It is only my
+speculation, but...<New>
+I suspect the incident that
+evening occurred because the
+Geburah Special Forces stole
+a Kislev military Gear."<Close><End of Block>
 <TextBlock 27 w:54 h:4>
 Citan
 "Exactly. When I examined
@@ -156,11 +157,11 @@ This Gear comprised newer
 technology than the others
 piloted by the Kislev Army
 pursuit force."<Close><End of Block>
-<TextBlock 28 w:48 h:4>
+<TextBlock 28 w:46 h:3>
 Citan
 "I suspect that the
-Geburah Special Forces
-were out to steal a new<New>
+Geburah Special Forces<New>
+were out to steal a new
 experimental Gear."<Close><End of Block>
 <TextBlock 29 w:52 h:5>
 Citan
@@ -470,15 +471,14 @@ in the ruins."<Close><End of Block>
  Workshop Admin. <Close><End of Block>
 <TextBlock 74 w:20 h:1>
  Workshop <Close><End of Block>
-<TextBlock 75 w:54 h:7>
-<Opcode 1 255>      Extra, extra!
- War in the desert again?
+<TextBlock 75 w:56 h:10>
+<Opcode 1 255>       Extra, extra!
+  War in the desert again?
  
-  A new unit appears to
-  have been assigned to
-  a Kislev base along
-  the border.<New>
-  
+ A new unit appears to have
+ been assigned to a Kislev
+ base along the border.
+ 
  Their insignia indicates
  this assigned unit is
  the Kislev Army elite...<Close><End of Block>

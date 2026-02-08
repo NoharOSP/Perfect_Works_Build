@@ -69,13 +69,13 @@ Elly
 "The reactor!?
 If you attack that,
 then Kislev will<-->"<Close><End of Block>
-<TextBlock 13 w:46 h:3>
+<TextBlock 13 w:40 h:3>
 Dominia
 "Probably most of it
 will be destroyed.<New>
 The rest will be
-uninhabitable
-for hundreds of years."<Close><End of Block>
+uninhabitable for
+hundreds of years."<Close><End of Block>
 <TextBlock 14 w:50 h:2>
 Elly
 "Why are you doing this?"<Close><End of Block>

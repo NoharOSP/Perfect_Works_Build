@@ -345,10 +345,10 @@ a giant Gear<Delay 10>...<Delay 5> Hmm!"<Close><End of Block>
 Jesse
 "Just goes to show that
 our parents have got to be
-there for us. Ga, ha, ha!"<Close><End of Block>
+there for us. Ga ha ha!"<Close><End of Block>
 <TextBlock 54 w:52 h:4>
 Jesse
-"Ga, ha, ha!!
+"Ga ha ha!!
 I haven't hit the booze
 for a long while!<New>
 It's all 'cause my son
@@ -364,11 +364,11 @@ my good man."<Close><End of Block>
 Jesse
 "This old codger, he's got
 character!!<Delay 10> I like that!!<Delay 10>
-Ga, ha, ha!"<Close><End of Block>
-<TextBlock 57 w:24 h:1>
-Ha, ha, ha! <Opcode 2 10><Close><End of Block>
-<TextBlock 58 w:24 h:1>
-Ha, ha, ha! <Opcode 2 10><Close><End of Block>
+Ga ha ha!"<Close><End of Block>
+<TextBlock 57 w:18 h:1>
+Ha ha ha!<Opcode 2 10><Close><End of Block>
+<TextBlock 58 w:18 h:1>
+Ha ha ha!<Opcode 2 10><Close><End of Block>
 <TextBlock 59 w:52 h:4>
 Shevat Agent
 "Originally, Shevat was a

@@ -839,14 +839,14 @@ Fei
 "I won because of luck...
 and because I had a good
 teacher!"<Close><End of Block>
-<TextBlock 155 w:56 h:4>
+<TextBlock 155 w:52 h:4>
 Fei
-"<Delay 5>...Also the wound to your
-arm hasn't completely healed
-yet, has it?<New>
-If it wasn't for that wound
-I am sure you would have
-won instead..."<Close><End of Block>
+"<Delay 5>...Also the wound to
+your arm hasn't completely
+healed yet, has it?<New>
+If it wasn't for that
+wound I'm sure you
+would've won instead..."<Close><End of Block>
 <TextBlock 156 w:56 h:4>
 Rico
 "Defeat is defeat...
@@ -873,9 +873,9 @@ You got that?"<Close><End of Block>
 <TextBlock 161 w:58 h:2>
 Rico's Henchman
 "In your way...? But, Champ!"<Close><End of Block>
-<TextBlock 162 w:34 h:2>
+<TextBlock 162 w:30 h:2>
 Rico's Henchman
-"<Delay 5>...<Delay 5>Ri~co~~!"<Close><End of Block>
+"<Delay 5>...<Delay 5>Riiicoooo!"<Close><End of Block>
 <TextBlock 163 w:54 h:4>
 Hammer
 <Opcode 1 100>"This means I am acquitted!
@@ -910,7 +910,7 @@ the sewers <--> you not gonna
 take this seriously!?"<Close><End of Block>
 <TextBlock 170 w:50 h:4>
 Hammer
-"Yo, bro~!<Delay 15>
+"Yo, broooo!<Delay 15>
 You forgot your mechanic!<Delay 15>
 Wait up a little!"<Opcode 2 75><Close><End of Block>
 <TextBlock 171 w:50 h:4>

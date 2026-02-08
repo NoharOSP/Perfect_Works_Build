@@ -169,9 +169,8 @@ by that pipe, too."<Close><End of Block>
 <Opcode 1 255>
          NO ENTRY!
                            <Close><End of Block>
-<TextBlock 42 w:28 h:3>
-
-Received Keys.<Close><End of Block>
+<TextBlock 42 w:40 h:1>
+Received Sewer Keys.<Close><End of Block>
 <TextBlock 43 w:4 h:1>
 -3<Opcode 2 20><Close><End of Block>
 <TextBlock 44 w:4 h:1>

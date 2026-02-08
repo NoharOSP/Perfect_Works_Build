@@ -331,9 +331,9 @@ Bart
 Stupid!
 <Delay 30>You're the
 biggest fool!"<Close><End of Block>
-<TextBlock 77 w:30 h:2>
+<TextBlock 77 w:28 h:2>
 Margie
-"...<Delay 30>Heh, heh."<Close><End of Block>
+"...<Delay 30>Heh heh."<Close><End of Block>
 <TextBlock 78 w:36 h:2>
 Bart
 "...<Delay 30>Can you move?"<Close><End of Block>

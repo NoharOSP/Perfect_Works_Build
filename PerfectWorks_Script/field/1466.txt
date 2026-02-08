@@ -24,7 +24,7 @@ she'd surely faint
 out of happiness!"<Close><End of Block>
 <TextBlock 6 w:42 h:3>
 Bart
-"Ha, ha!<Delay 20>
+"Ha ha!<Delay 20>
 Who woulda figured!?"<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Rico

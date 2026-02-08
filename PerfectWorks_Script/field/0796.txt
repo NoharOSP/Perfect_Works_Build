@@ -93,7 +93,7 @@ Never stay away so long
 like that again."<Close><End of Block>
 <TextBlock 20 w:44 h:3>
 Margie
-"Ha, ha!
+"Ha ha!
 I knew you'd say that.<New>
 Now that's the Agnes
 I know!"<Close><End of Block>
@@ -115,7 +115,7 @@ It's just..."<Close><End of Block>
 Margie
 "I guess I got a 
 little emotional...
-Heh, heh, heh..."<Close><End of Block>
+Heh heh heh..."<Close><End of Block>
 <TextBlock 26 w:10 h:2>
 Bart
 "..."<Close><End of Block>
@@ -249,7 +249,7 @@ Citan
 teachings of Nisan."<Close><End of Block>
 <TextBlock 49 w:44 h:4>
 Margie
-"Ha, ha, ha!
+"Ha ha ha!
 Why, Citan, you're an
 interesting fellow!"<Close><End of Block>
 <TextBlock 50 w:50 h:3>

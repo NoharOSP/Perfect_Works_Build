@@ -25,7 +25,7 @@ reward money went up, too!<Close><End of Block>
 <TextBlock 5 w:46 h:3>
 It makes me want to try
 harder at sewer monster
-extermination!<Delay 5> Haha~!<Close><End of Block>
+extermination!<Delay 5> Hahaaaa!<Close><End of Block>
 <TextBlock 6 w:56 h:5>
 Today's earnings are forty
 Hob-Jerky and ten Scales.

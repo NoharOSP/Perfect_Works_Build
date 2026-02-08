@@ -87,193 +87,186 @@ coming too?<Close><End of Block>
 This is as far
 as you can come.<Close><End of Block>
 <TextBlock 25 w:50 h:2>
-From here on is my world.
+From here on is my world.<Delay 5>
 You can't enter.<Close><End of Block>
-<TextBlock 26 w:34 h:1>
-What do you mean?<Close><End of Block>
-<TextBlock 27 w:42 h:3>
-You're a subordinate,
-fake persona...
-that's why.<Close><End of Block>
-<TextBlock 28 w:26 h:2>
-A subordinate
-fake persona?<Close><End of Block>
-<TextBlock 29 w:52 h:4>
-Yes<Delay 5>...<Delay 10>
-He has part of my
-memories from back then<Delay 5>...<New>
-He has sealed away
-the very meaning of
-my existence<Delay 5>...<New>
-my drive<Delay 5>...<Delay 10>
-my motivation<Delay 5>...<Delay 10>
-my subconscious<Delay 5> Id.<New>
-Because of that,
-I became a basic,
-blank persona.<New>
-And on top of that, I
-constructed a new persona
-based on my experiences
-since then...<New>
-That is what you are now!<Close><End of Block>
-<TextBlock 30 w:32 h:2>
-Him? 
-You mean Father?<Close><End of Block>
+<TextBlock 26 w:16 h:1>
+Why not?<Close><End of Block>
+<TextBlock 27 w:46 h:3>
+Because you're a lower-
+order, mock persona,<Delay 5>
+subordinate to me.<Close><End of Block>
+<TextBlock 28 w:28 h:2>
+A lower-order,
+mock persona?<Close><End of Block>
+<TextBlock 29 w:54 h:4>
+That's right.<Delay 10>
+...That day, he sealed
+away a part of my memory<Delay 5>...<New>
+The very 'id' that is
+my reason for being.<New>
+Because he sealed that
+away, my base personality
+was reinitialized.<New>
+And the personality on
+top of that, newly formed
+from the experiences since
+then...<New>
+That is what you are now.<Close><End of Block>
+<TextBlock 30 w:42 h:3>
+He!?<Delay 10>
+Is that Father you're
+talking about?<Close><End of Block>
 <TextBlock 31 w:40 h:2>
 You call him Father?<New>
-He who never did
-anything for you?<Close><End of Block>
+He who did nothing
+for me?<Close><End of Block>
 <TextBlock 32 w:42 h:2>
 It was because of his
-cowardly behavior<Delay 5>...<New>
-If only he had been
+incompetence that<--><New>
+If only he'd been
 able to protect me<Delay 5>...<Close><End of Block>
-<TextBlock 33 w:56 h:2>
-If he had done that<Delay 5>...<Delay 10>
-Mother wouldn't have died<Delay 5>...<Close><End of Block>
+<TextBlock 33 w:54 h:2>
+Then<Delay 5>...<Delay 10>
+Mother needn't have died<Delay 5>...<Close><End of Block>
 <TextBlock 34 w:46 h:2>
-Didn't my mother die
-right after I was born?<New>
+Didn't Mom die right
+after I was born!?<New>
 What really happened to
-my mother?<Delay 5> Tell me Id!<Close><End of Block>
-<TextBlock 35 w:54 h:2>
-You don't need to know.
-You'll only disappear soon.<New>
-Along with your basic
-persona, the 'coward'.<New>
-I'll rule my being through
-the power of the Existence.<Close><End of Block>
+Mom!?<Delay 5> Tell me, Id!<Close><End of Block>
+<TextBlock 35 w:58 h:3>
+You don't need to know.<Delay 5>
+It's time for you to
+disappear anyway.<New>
+Along with that 'coward' who
+is your base personality.<New>
+I'll rule myself through
+the power of 'the Existence'.<Close><End of Block>
 <TextBlock 36 w:4 h:2>
  
 ??<Close><End of Block>
-<TextBlock 37 w:54 h:3>
-Of course you don't know.
-But it is etched in my
-metempsychotic memory.<New>
-Your persona is fake, so
-you'll never stand on the
-'stage' of consciousness.<New>
-You'll never be able to
-take charge of the memories
-from our past lives.<Close><End of Block>
-<TextBlock 38 w:42 h:3>
-I know the dreams and
-hallucinations! I've
-seen them many times!<Close><End of Block>
-<TextBlock 39 w:38 h:4>
-Them<Delay 5>...<Delay 5>
-I showed them to
-you on purpose.<New>
-To break the seal,
-I chose to weaken
-the power of your
-existence.<New>
-If your mental
-energy is weakened,<Delay 5>
-I can become free
-to do as I wish.<Close><End of Block>
-<TextBlock 40 w:30 h:1>
-What?<Close><End of Block>
-<TextBlock 41 w:50 h:3>
-There are still things
-inside you which you
-haven't been shown yet<Delay 5>...<Close><End of Block>
+<TextBlock 37 w:52 h:4>
+Of course you would have
+no idea.<Delay 5> For that is
+something etched in my
+own metempsychotic memory.<New>
+Being a mock personality,
+you can't ascend to the
+'stage' where memories
+are managed.<Close><End of Block>
+<TextBlock 38 w:40 h:3>
+I do know about the
+dreams and the
+phantom memories.<New>
+I've seen such
+things many times!<Close><End of Block>
+<TextBlock 39 w:46 h:4>
+Those are the ones
+I showed to you
+intentionally.<New>
+In order to lift the
+seal, I opted to weaken
+your power as an entity
+unto yourself.<New>
+When your mental
+energy is weakened,
+I can act freely.<Close><End of Block>
+<TextBlock 40 w:32 h:1>
+What!?<Close><End of Block>
+<TextBlock 41 w:44 h:3>
+Naturally, there was
+more within me besides
+what I showed you<Delay 5>...<Close><End of Block>
 <TextBlock 42 w:8 h:1>
 Huh?<Close><End of Block>
 <TextBlock 43 w:54 h:3>
-Someone's coming!
+Looks like someone's here.<Delay 5>
 It's probably your friends.
-They must have followed me.<Close><End of Block>
-<TextBlock 44 w:40 h:1>
-Where are you going?<Close><End of Block>
-<TextBlock 45 w:48 h:4>
-I came to reestablish
+They must've followed me.<Close><End of Block>
+<TextBlock 44 w:42 h:1>
+Where are you going!?<Close><End of Block>
+<TextBlock 45 w:54 h:4>
+I came here to make
 contact with the
-Existence.<New>
-To tie together all the
-threads of your memories
-since ancient times<Delay 5>...<Delay 5>
-and then cut them off<Delay 5>...<New>
-That is the fate of the
-Contact<Delay 5>...<Delay 15> All is ready.
-It's time for the true
-awakening!<New>
-I will eliminate all
-those who were full of
-hypocrisy from the very
-beginning.<Close><End of Block>
+Existence once again.<New>
+To become the one who ties
+together all the threads of
+memory that have endured
+since ancient times,<New>
+and then severs them...<Delay 10>
+That is the destiny of
+the Contact.<New>
+The preparations have
+been made.<Delay 5> It's time for
+the true awakening.<New>
+The first thing I'll do
+is have those who are full
+of hypocrisy annihilated.<Close><End of Block>
 <TextBlock 46 w:32 h:2>
 Wait!
 Wait for me, Id!<Close><End of Block>
 <TextBlock 47 w:54 h:2>
-          You just stay
-<Opcode 1 255>          <Opcode 14 0>here and observe!<Close><End of Block>
-<TextBlock 48 w:54 h:3>
-Yes<Delay 10>...<Delay 10>
+         You just stay
+<Opcode 1 255>         <Opcode 14 0>there and observe.<Close><End of Block>
+<TextBlock 48 w:56 h:3>
+I see<Delay 10>...<Delay 10>
 This is inside Id.<New>
 A world filled with
 hatred and sadness.<New>
-That's all that's here<Delay 5>...<Delay 10>
+That's all there is<Delay 5>...<Delay 10>
 Yes<Delay 5>...<Delay 10>
 Now I understand, Id.<New>
-Why you hate the world.<New>
-Why there is nothing
-inside you<Delay 5>...<Delay 10>
-Nothing<Delay 5>...<New>
-Nothing was given to you<Delay 5>...<Delay 10>
-Deprived of<Delay 5>...<Delay 10>
-all the happy memories<Delay 5>...<New>
+Why you hate the world...<New>
+For you there was nothing<Delay 5>...<New>
+Nothing<Delay 5>...<Delay 10>
+All the happy memories are<--><New>
 And yet<Delay 5>...<Delay 10>
-It feels pleasant<Delay 5>...<Delay 10>
-It almost feels good<Delay 5>...<New>
-Now I get it<Delay 5>...!<Delay 10>
-There's no need to resist.<New>
-I was originally just an
-existence that was created
-as a cover to hide Id.<New>
-So it would be better to
-return to that place<Delay 5>...<New>
-Let's come together<Delay 5>...<New>
-To wipe away
-everything<Delay 5>...<Delay 10>
-Including ourselves<Delay 5>...<Close><End of Block>
+it feels somehow alright<Delay 5>...<New>
+It feels good<Delay 5>...<New>
+That's right<Delay 5>...<Delay 10>
+I don't need to fight it.<New>
+All I've ever been is an
+existence to conceal Id.<New>
+So we should return
+to that place<Delay 5>...<New>
+Let's stay together<Delay 5>...<New>
+Erase everything<Delay 5>...<Delay 10>
+including ourselves<Delay 5>...<Close><End of Block>
 <TextBlock 49 w:36 h:3>
 Remember!
 Were you not going
-to help Elly?<Close><End of Block>
-<TextBlock 50 w:32 h:3>
+to rescue Elly?<Close><End of Block>
+<TextBlock 50 w:36 h:3>
 Think!
-Aren't you going
-to help Elly?<Close><End of Block>
-<TextBlock 51 w:40 h:4>
-Remember...!?
-It's for her...Elly!
-Aren't you going to
-help her!?<Close><End of Block>
-<TextBlock 52 w:34 h:3>
-Think kid, think!
-Aren't you going
-to help Elly?<Close><End of Block>
+Are you gonna save
+her, save Elly?<Close><End of Block>
+<TextBlock 51 w:42 h:3>
+Remember!
+Are you going to save
+her, save Elly!?<Close><End of Block>
+<TextBlock 52 w:40 h:3>
+Think, kid, think!
+Aren't you gonna
+save her, save Elly?<Close><End of Block>
 <TextBlock 53 w:38 h:3>
-Remember!?
+Remember!
 Elly still there...
-Still waiting!"<Close><End of Block>
-<TextBlock 54 w:46 h:4>
+Still waiting!<Close><End of Block>
+<TextBlock 54 w:38 h:4>
 You mustn't forget!
-The one you love...
-Elly!
-You've gotchu help her!<Close><End of Block>
+You've gotchu save
+the one you love,
+save Elly!!<Close><End of Block>
 <TextBlock 55 w:22 h:3>
-Remember...
+Remember!
 Elly needs
 you now!<Close><End of Block>
 <TextBlock 56 w:36 h:3>
 Remember!
 Were you not going
-to help Elly?<Close><End of Block>
+to rescue Elly?<Close><End of Block>
 <TextBlock 57 w:32 h:3>
 Elly?<Delay 5>
-That's right<Delay 5>...!<Delay 10>
-Elly<Delay 5>...!<Close><End of Block>
+Elly<Delay 5>...<Delay 10>
+...That's right!<Close><End of Block>
 <TextBlock 58 w:44 h:1>
-I've got to save Elly!<Close><Close><End of Block>
+I've got to save her!<Close><Close><End of Block>

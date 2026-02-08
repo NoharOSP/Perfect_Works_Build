@@ -146,13 +146,13 @@ in my dream.<New>
 Yes, Kim! Listen!
 I was dreaming!
 A long long dream."<Close><End of Block>
-<TextBlock 30 w:42 h:3>
+<TextBlock 30 w:44 h:3>
 Girl
 "Okay, I understand,<Delay 20>
 Fei-Kim!<New>
 Listen, listen,
 I was dreaming!
-A long lo~ng dream!"<Close><End of Block>
+A long loooong dream!"<Close><End of Block>
 <TextBlock 31 w:52 h:4>
 Girl
 "Hey, Kim! Listen,

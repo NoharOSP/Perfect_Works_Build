@@ -62,11 +62,10 @@ Maybe there's nothing
 we can do, but...at
 least I can relate to
 how you feel, Elly."<Close><End of Block>
-<TextBlock 11 w:44 h:4>
+<TextBlock 11 w:50 h:3>
 Elly
-"What?
-Are you saying we lick
-each other's wounds?"<Close><End of Block>
+"...Are you suggesting
+we commiserate together?"<Close><End of Block>
 <TextBlock 12 w:42 h:3>
 Fei
 "I'm not<--><Delay 20>

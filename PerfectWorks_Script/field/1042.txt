@@ -56,8 +56,8 @@ Rico
 Take him outside!"<Close><End of Block>
 <TextBlock 13 w:32 h:3>
 Hammer
-"B-B-<Delay 5>Bro~!!<Delay 15>
-Are you he~re?"<Opcode 2 45><Close><End of Block>
+"B-B-<Delay 5>Broooo!!<Delay 15>
+Are you heeere?"<Opcode 2 45><Close><End of Block>
 <TextBlock 14 w:56 h:4>
 Rue
 "This room is yours to use.<Delay 15>
@@ -85,7 +85,7 @@ Rue
 "Well<Delay 5>...<Delay 5>goodbye."<Close><End of Block>
 <TextBlock 17 w:40 h:4>
 Fei
-"There is still some
+"There's still some
 time until the train
 passes by<Delay 5>..."<Close><End of Block>
 <TextBlock 18 w:46 h:4>
@@ -218,7 +218,7 @@ Rue
 "The southeast part of
 the Imperial Capital...<Delay 15>
 We call that the A Block, or
-ordinary civilian area<Delay 5>..."<Close><End of Block>
+ordinary-civilian area<Delay 5>..."<Close><End of Block>
 <TextBlock 41 w:40 h:3>
 Rue
 "Well then,<Delay 5> we shall
@@ -426,7 +426,7 @@ was one more route?"<Close><End of Block>
 Hammer
 "Huh?<Delay 15> Oh yeah,<Delay 5> you mean via
 the arena,<Delay 5> right<Delay 5>...<Delay 15>? Bro!<Delay 5>
-You're not thinking<Delay 5>...?"<Close><End of Block>
+You're not thinking<-->"<Close><End of Block>
 <TextBlock 78 w:42 h:4>
 Fei
 "Yes, I am thinking

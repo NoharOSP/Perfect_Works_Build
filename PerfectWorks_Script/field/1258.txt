@@ -18,14 +18,14 @@ GO!<Opcode 2 30><Close><End of Block>
 Why doesn't Primera
 play with Uncle Stone?<Delay 10>
 He's sooo interesting...<Close><End of Block>
-<TextBlock 10 w:56 h:3>
-Ehhh, you're going searching
-for the flying saucer?<Delay 10>
-Take me too!!<Close><End of Block>
-<TextBlock 11 w:48 h:3>
+<TextBlock 10 w:48 h:3>
+Whaaat, you're going
+searching for the flying
+saucer?<Delay 10> Take me too!!<Close><End of Block>
+<TextBlock 11 w:44 h:3>
 Billy
-"Davy is watching things
-here.<New>
+"You're keeping an eye
+on things here, Davy.<New>
 If you're a good boy
 you can go sometime."<Close><End of Block>
 <TextBlock 12 w:40 h:3>
@@ -34,7 +34,7 @@ boy I can't go...<Delay 10>
 Waahhh!!<Close><End of Block>
 <TextBlock 13 w:40 h:2>
 Can't see the flying
-saucer today.<Delay 10> Aa~h!<Close><End of Block>
+saucer today.<Delay 10> Baaah!<Close><End of Block>
 <TextBlock 14 w:54 h:4>
 Wanna know about the flying
 saucer? Then just ask me!<Delay 10>

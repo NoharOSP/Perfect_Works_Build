@@ -4,76 +4,77 @@
 <Opcode 1 255>What are you doing!?<Opcode 2 5><Close><End of Block>
 <TextBlock 3 w:6 h:1>
 <Opcode 1 255>No!<Opcode 2 5><Close><End of Block>
-<TextBlock 4 w:10 h:1>
-<Opcode 1 255>Nooo!<Opcode 2 5><Close><End of Block>
-<TextBlock 5 w:34 h:2>
-<Opcode 14 1>It was a scene...<Delay 10>
-    from hell!<Delay 100><Close><End of Block>
-<TextBlock 6 w:50 h:4>
-<Opcode 14 1>When Father was away from
-home, <Delay 5>'Fei' was taken to
-a place with mysterious
-machines.<Close><End of Block>
-<TextBlock 7 w:50 h:2>
-<Opcode 14 1>Inside there were many 
-strangely dressed people.<Close><End of Block>
+<TextBlock 4 w:12 h:1>
+<Opcode 1 255>Noooo!<Opcode 2 5><Close><End of Block>
+<TextBlock 5 w:30 h:2>
+<Opcode 14 1>It was a scene
+from hell.<Delay 100><Close><End of Block>
+<TextBlock 6 w:48 h:4>
+<Opcode 14 1>When Father was away,<Delay 10>
+'Fei' would be taken to
+a place where mysterious
+machines were set up.<Close><End of Block>
+<TextBlock 7 w:42 h:2>
+<Opcode 14 1>There were strangely
+dressed people there.<Close><End of Block>
 <TextBlock 8 w:54 h:4>
-<Opcode 14 1>Many types of probes were
-injected into 'Fei's' body,
-as the start to some kind
-of experiments.<New>
-The tests<Delay 20> caused 'Fei' much
-pain.<Close><End of Block>
-<TextBlock 9 w:52 h:2>
-<Opcode 14 1>Mother <Delay 10>didn't come
-to his assistance.<New>
-Young 'Fei' had no
-way of resisting.<New>
-But he was able to endure.<Close><End of Block>
-<TextBlock 10 w:36 h:3>
+<Opcode 14 1>Scanning devices were
+attached to 'Fei's' body,
+and some kind of experiment
+would begin.<New>
+The experiments<Delay 20> were
+agonizing.<Close><End of Block>
+<TextBlock 9 w:44 h:2>
+<Opcode 14 1>Mother didn't help.<New>
+The young 'Fei' had no
+means of resisting.<New>
+But he was able to
+endure<Delay 10> 'this part'.<Close><End of Block>
+<TextBlock 10 w:38 h:4>
 <Opcode 14 1>Eventually,<Delay 10>
-the experiments 
-became unbearable.<Close><End of Block>
-<TextBlock 11 w:46 h:3>
-<Opcode 14 1>Many people gathered
-around 'Fei'.<New>
-These people had a high
-compatibility with the
-Vessels of Anima.<New>
-This psychic contact
-with 'Fei' was to force
-him to awaken.<Close><End of Block>
-<TextBlock 12 w:50 h:3>
-<Opcode 14 1>But no one could make
+the experiments
+took a turn towards
+'the unbearable'.<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+<Opcode 14 1>Many people were
+brought before 'Fei'.<New>
+These people were those
+who had a high alignment
+ratio with the Vessels
+of Anima.<New>
+This was mental contact
+with 'Fei', to get him
+to awaken.<Close><End of Block>
+<TextBlock 12 w:46 h:3>
+<Opcode 14 1>But not one of them
+could withstand the
 contact with 'Fei'.<New>
-The power drawn out of
-'Fei', regardless of his
-will, destroyed them all.<Close><End of Block>
-<TextBlock 13 w:44 h:3>
-This is unbelieveable!
-Mother allowed this to
-take place...?<New>
-Psychic contact?
-What do you mean by
-'awaken' me?<Close><End of Block>
+The power, drawn out of
+'Fei' against his will,
+destroyed them all.<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+This is unbelievable!<Delay 10>
+Mom allowed<--><New>
+Mental contact?<Delay 10>
+What does getting me
+to awaken mean?<Close><End of Block>
 <TextBlock 14 w:54 h:3>
-<Opcode 14 1>To awaken god, everything
-had to be in perfect order,
-with nothing lacking...<New>
-Things divided in the past
-must become one complete
-whole again...<Close><End of Block>
+<Opcode 14 1>For God's awakening,
+not one thing was allowed
+to be missing...<New>
+That which was divided long
+ago must be made whole...<Close><End of Block>
 <TextBlock 15 w:42 h:2>
 Countless people died
-before 'Fei's' eyes.<Close><End of Block>
+in front of 'Fei'.<Close><End of Block>
 <TextBlock 16 w:44 h:4>
-<Opcode 14 1>Men,<Delay 30> women,<Delay 30>
-the old,<Delay 30> the young,<Delay 30>
+<Opcode 14 1>Men,<Delay 30> women,<Delay 30> the old,<Delay 30>
+little girls,<Delay 30>
 even demihumans...<New>
-Suffering, grief,
-fear, ecstasy...<Delay 10>
-A variety of emotions
-and words lingered...<New>
-And tumbled about 
-'Fei' like broken 
-dolls...<Close><Close><End of Block>
+Pain, sorrow,
+terror, rapture...<Delay 20>
+Leaving all manner of
+words and visages...<New>
+Feebly, and in pieces,
+they lay around 'Fei'
+like broken dolls...<Close><Close><End of Block>

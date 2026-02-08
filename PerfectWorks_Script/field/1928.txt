@@ -1,42 +1,42 @@
 <TextBlock 1 w:50 h:4>
 Citan
-"Th.. this is.. Fei!?<Delay 10> Then... 
-this is <Weltall>'s
+"Fei!?<Delay 10> S-So does this
+mean this is <Weltall>'s
 transformed appearance!?"<Close><End of Block>
-<TextBlock 2 w:38 h:4>
+<TextBlock 2 w:32 h:4>
 Bart
-"Is that Fei!?<Delay 10>
-Hey, you think this
-is <Weltall>?"<Close><End of Block>
-<TextBlock 3 w:40 h:4>
+"Fei!?<Delay 10>
+This can't be...
+<Weltall>!?"<Close><End of Block>
+<TextBlock 3 w:26 h:4>
 Billy
 "Fei!?<Delay 10>
-Then this must be...
+Can this be<Delay 5>
 <Weltall>!?"<Close><End of Block>
-<TextBlock 4 w:46 h:4>
+<TextBlock 4 w:26 h:4>
 Rico
-"Fei!?<Delay 15> I'll be<Delay 5>...!<Delay 5>
-This means that's gotta
-be<Delay 5> <Weltall>!?"<Close><End of Block>
-<TextBlock 5 w:30 h:4>
+"Fei!?<Delay 10>
+Can this be<Delay 5>
+<Weltall>!?"<Close><End of Block>
+<TextBlock 5 w:28 h:4>
 Emeralda
 "Fei!?<Delay 15>
-Then this is<Delay 5>...<Delay 5>
+Then this<Delay 5>...<Delay 5>
 <Weltall>?"<Close><End of Block>
-<TextBlock 6 w:36 h:4>
+<TextBlock 6 w:44 h:4>
 <Chu-Chu>
-"Is thatchu,<Delay 5> Fei!?<Delay 15>
-Hey, then this is
-<Weltall>?"<Close><End of Block>
-<TextBlock 7 w:38 h:4>
+"Fei!?<Delay 10>
+Then this thing having
+a nap is <Weltall>?"<Close><End of Block>
+<TextBlock 7 w:32 h:4>
 Maria
-"Fei!?<Delay 15>
-T, then,<Delay 5> is this<Delay 5>...<Delay 5>
-<Weltall>?"<Close><End of Block>
+"Fei!?<Delay 10>
+This can't be...
+<Weltall>!?"<Close><End of Block>
 <TextBlock 8 w:50 h:4>
 Citan
-"Fei!?<Delay 10> This must mean
-this is <Weltall>'s
+"Fei!?<Delay 10> S-So does this
+mean this is <Weltall>'s
 transformed appearance!?"<Close><End of Block>
 <TextBlock 9 w:28 h:4>
 Emeralda

@@ -1,6 +1,6 @@
-<TextBlock 1 w:16 h:2>
+<TextBlock 1 w:18 h:2>
 Fei
-"Hya~!"<Close><End of Block>
+"Hyaaaa!"<Close><End of Block>
 <TextBlock 2 w:32 h:3>
 Fei
 "*huff,<Delay 8> huff*<Delay 8>.<Delay 2>.<Delay 2>.<Delay 4>

@@ -22,7 +22,7 @@ Just let me borrow this
 for a while!"<Close><End of Block>
 <TextBlock 6 w:2 h:1>
 ?<Opcode 2 100><Close><End of Block>
-<TextBlock 7 w:27 h:1>
- Hey, wa~it! <Close><End of Block>
-<TextBlock 8 w:27 h:1>
- Hey, wa~it! <Close><Close><End of Block>
+<TextBlock 7 w:26 h:1>
+Hey, waiiiit!<Close><End of Block>
+<TextBlock 8 w:26 h:1>
+Hey, waiiiit!<Close><Close><End of Block>

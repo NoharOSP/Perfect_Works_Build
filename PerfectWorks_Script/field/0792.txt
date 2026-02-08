@@ -192,7 +192,7 @@ So where is Sig?"<Close><End of Block>
 <TextBlock 30 w:52 h:3>
 Mason
 "The good Master Sigurd is
- waiting for you inside."<Close><End of Block>
+waiting for you inside."<Close><End of Block>
 <TextBlock 31 w:42 h:2>
 Bart
 "Okay, thanks Mason."<Close><End of Block>
@@ -203,9 +203,9 @@ you inside, sir..."<Close><End of Block>
 <TextBlock 33 w:10 h:2>
 Bart
 "Oh!"<Close><End of Block>
-<TextBlock 34 w:40 h:2>
+<TextBlock 34 w:42 h:2>
 Mason
-"Yo~ung ma~ste~r!"<Close><End of Block>
+"Young Maaasteeerrr!"<Close><End of Block>
 <TextBlock 35 w:38 h:3>
 Bart
 "I had no idea Sig 

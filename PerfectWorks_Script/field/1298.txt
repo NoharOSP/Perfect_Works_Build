@@ -119,10 +119,11 @@ Billy
 Billy
 "The infirmary is this way.
 Let's go."<Close><End of Block>
-<TextBlock 25 w:50 h:3>
+<TextBlock 25 w:36 h:4>
 Billy
-"Let's hurry to the sick 
-bay. This way, please."<Close><End of Block>
+"Let's hurry to
+the infirmary.
+This way, please."<Close><End of Block>
 <TextBlock 26 w:52 h:1>
 There are still survivors?<Close><End of Block>
 <TextBlock 27 w:14 h:1>

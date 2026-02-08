@@ -166,7 +166,7 @@ Suzanne
 "Hurry up, then<Delay 5>..."<Opcode 2 45><Close><End of Block>
 <TextBlock 31 w:40 h:2>
 Suzanne
-"Fo~rwa~rd march!"<Opcode 2 45><Close><End of Block>
+"Fooorwaaard march!"<Opcode 2 45><Close><End of Block>
 <TextBlock 32 w:52 h:4>
 Vargas
 "Now wait just a minute!
@@ -1205,7 +1205,7 @@ sure you want to go
 through with it, so<Delay 5>..."<Close><End of Block>
 <TextBlock 201 w:34 h:2>
 Hammer
-"<Delay 5>...<Delay 5>Oooh, bro~!"<Close><End of Block>
+"<Delay 5>...<Delay 5>Oooh, brooo!"<Close><End of Block>
 <TextBlock 202 w:26 h:4>
 Citan
 "Well then<Delay 5>...<Delay 15>
