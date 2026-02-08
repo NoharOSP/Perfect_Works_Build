@@ -41,7 +41,7 @@ leftover facilites and
 try to help everyone as
 much as we can.<Close><End of Block>
 <TextBlock 7 w:58 h:3>
-You two again?<New>
+Hey, it's you guys.<New>
 As you can see, this facility
 is for the repair of worker
 Gears only.<New>
@@ -59,8 +59,9 @@ the excavation of the ruins.<Close><End of Block>
 <TextBlock 9 w:40 h:2>
 Hmm?
 How can we help you?<Close><End of Block>
-<TextBlock 10 w:42 h:3>
-Tough luck, huh?
+<TextBlock 10 w:40 h:4>
+I see <--> causing you
+some trouble, huh?
 Can you tell me the
 part's model number?<Close><End of Block>
 <TextBlock 11 w:50 h:4>

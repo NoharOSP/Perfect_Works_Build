@@ -1,204 +1,200 @@
-<TextBlock 1 w:42 h:1>
-What's this place...?<Close><End of Block>
-<TextBlock 2 w:48 h:3>
-...What's he done now!?
-He only called you in
-here for his own sake...<Close><End of Block>
-<TextBlock 3 w:50 h:3>
-This is inside the shell
-of your basic character,
-the room of the 'coward'.<New>
-I'm sure you've been here
-many times before.<Close><End of Block>
-<TextBlock 4 w:34 h:3>
-I see... 
-I remember now...
-In my dreams...<Close><End of Block>
-<TextBlock 5 w:54 h:5>
+<TextBlock 1 w:44 h:1>
+What is this place...?<Close><End of Block>
+<TextBlock 2 w:58 h:3>
+...Nowhere that concerns you.<Delay 5>
+Has he only called you in
+here for his own sake...?<Close><End of Block>
+<TextBlock 3 w:42 h:4>
+This is the inside of
+the shell that is our
+base personality,<Delay 5> the
+room of 'the coward'.<New>
+You must've been here
+many times.<Close><End of Block>
+<TextBlock 4 w:42 h:2>
+Yes... 
+I remember...<New>
+I'm pretty sure I was
+here in my dreams...<Close><End of Block>
+<TextBlock 5 w:50 h:5>
 Everything despised and
-unwanted he pushed onto me,
-while he shut himself up
-in his own little shell...
-the 'coward' Fei.<Close><End of Block>
-<TextBlock 6 w:34 h:2>
-The basis for our
-personalities.<Close><End of Block>
-<TextBlock 7 w:38 h:2>
+unwanted, he pushed onto
+me, while he shut himself
+away in his own shell...<Delay 5>
+The coward 'Fei'.<Close><End of Block>
+<TextBlock 6 w:40 h:2>
+The personality that
+was our foundation.<Close><End of Block>
+<TextBlock 7 w:48 h:2>
 Who are you?
-...Ah, you're my...<Close><End of Block>
-<TextBlock 8 w:50 h:3>
-Hey...let's watch this
-together! This is my most
+...Oh yeah. You're my...<Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Hey, let's watch this
+together! It's my most
 treasured possession...<Close><End of Block>
-<TextBlock 9 w:44 h:5>
-Hah...! By repeatedly
-replaying the times he
-was full of happiness
-he lives in his own
-happy little world.<Close><End of Block>
-<TextBlock 10 w:52 h:3>
-While I'm still alive only
-because of what's in those
-left over dregs.<Close><End of Block>
+<TextBlock 9 w:50 h:5>
+Hmph.<Delay 10> This is how, over
+and over again, he plays
+back the time when he was
+full of happiness, and
+exists within that time.<Close><End of Block>
+<TextBlock 10 w:52 h:2>
+While I only get to exist
+within the leftover dregs.<Close><End of Block>
 <TextBlock 11 w:44 h:2>
-Here! I'll show you...
+I'll show it to you...
 'everything' about me.<Close><End of Block>
-<TextBlock 12 w:50 h:5>
+<TextBlock 12 w:54 h:5>
 He pushed all the bad
-things onto me...
-but kept all the memories
-filled with happiness and
-Mother's love to himself.<New>
-And he shut himself away
-with those memories
-inside his own little
-shell<Delay 5>...<Delay 5>forever.<Delay 10>
-This is the place.<New>
-What you see before you,
-is what he made.
-He just keeps hanging on
-to those memories.<Close><End of Block>
-<TextBlock 13 w:44 h:1>
-That's what this is...<Close><End of Block>
-<TextBlock 14 w:30 h:4>
-Stop it!
-Just stop it!
-This...
-These scenes...<New>
-Are these all
+things onto me,<Delay 5> and only
+the memories filled with
+happiness and Mother's love
+did he keep for himself.<New>
+And then he shut himself
+away forever with those
+memories, inside his own
+shell.<Delay 10> That place is here.<New>
+The scene before our
+eyes is what he made.<Delay 10>
+He's just clinging on
+to that memory.<Close><End of Block>
+<TextBlock 13 w:14 h:1>
+This<Delay5>...<Close><End of Block>
+<TextBlock 14 w:32 h:3>
+Stop it!<Delay 5>
+Enough already!<New>
+Is this it,<Delay 5> are
+these scenes all
 there is to us?<Close><End of Block>
-<TextBlock 15 w:48 h:4>
-Enough already!
-There is nothing here!
-Just a world filled with
+<TextBlock 15 w:42 h:4>
+It's too much!<Delay 5>
+There's nothing here!<Delay 5>
+A world full of such
 deception and pain...<Close><End of Block>
-<TextBlock 16 w:46 h:3>
-It can't be helped.
-This is our world...
-This is 'everything'...<Close><End of Block>
-<TextBlock 17 w:40 h:2>
-No!
+<TextBlock 16 w:50 h:2>
+Well, too bad.<Delay 10>
+This is our everything...<Close><End of Block>
+<TextBlock 17 w:36 h:2>
+No!<Delay 5>
 Get out!<New>
 This is my room!<New>
-I thought you would 
+I thought you'd
 always be with me!<Close><End of Block>
-<TextBlock 18 w:54 h:3>
-Why won't you see
-reality? <New>
-Happiness... Sadness...
-Aren't these all parts that
-combined to make the whole?<New>
-Why won't you show him?
-Why don't you also show
-Id what you always watch!<Close><End of Block>
-<TextBlock 19 w:40 h:3>
-No!
+<TextBlock 18 w:58 h:3>
+Why won't you try 
+to see reality!? <New>
+The good things, the bad
+things,<Delay 5> aren't they parts
+that make up the whole!?<New>
+Why won't you show him, too!?<Delay 5>
+Why won't you show Id what
+you're always watching!?<Close><End of Block>
+<TextBlock 19 w:38 h:3>
+No!<Delay 5>
 That's mine!<New>
-I don't want to show
-it to the person who
-killed Mother!!<Close><End of Block>
-<TextBlock 20 w:36 h:3>
-You should talk.
-You're the one who
-killed Mother!<Close><End of Block>
-<TextBlock 21 w:42 h:4>
-No I didn't, you did!
-I did not kill her!<New>
-Mother didn't care
-for you<Delay 5>...<Delay 5>
-Father didn't notice
-either<Delay 5>...<New>
-That's why you
-killed her!<New>
-I didn't kill her!
-I didn't!
-I didn't...!<Close><End of Block>
-<TextBlock 22 w:28 h:1>
-Knock it off!!<Close><End of Block>
+I won't show it to
+the likes of him <-->
+he killed Mom!!<Close><End of Block>
+<TextBlock 20 w:40 h:3>
+Look who's talking.<Delay 5>
+Aren't you the one
+who did the killing?<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+No!<Delay 5> I'm not a killer!<Delay 5>
+It was you who killed
+Mom!<Delay 5> I'd never harm her!<New>
+Mom wouldn't pay
+attention to you,<Delay 5>
+and Dad didn't notice,
+so you<--><New>
+So I'd never harm her!<Delay 5>
+I'd never harm her!<Delay 5>
+I'd never<--><Close><End of Block>
+<TextBlock 22 w:46 h:1>
+This stops right here!!<Close><End of Block>
 <TextBlock 23 w:46 h:4>
-...'We' killed Mother.
-It's no one's fault
-but ours.<New>
+...It was 'us' who
+killed Mom.<Delay 5> No one
+else is to blame.<New>
 It's not because she
 became Myyah or because
-Father didn't notice.<New>
-Don't look outside for
-the reason. Don't blame
+Dad didn't notice.<New>
+Don't look elsewhere
+for a cause.<Delay 5> Don't put
+the responsibility on
 anyone but yourself.<New>
-Yes, Mother was Myyah,
-and I know that you
-suffered. No one could
-have endured it.<New>
-But you can't push it
-onto Id alone.<New>
-We are all one person.
-We must all become one.
-Right? Fei...<Close><End of Block>
-<TextBlock 24 w:54 h:3>
-Walk on your own two feet!
-Face up to the reality that
-you don't want to see!<Close><End of Block>
-<TextBlock 25 w:38 h:3>
-Show them to Id.
-Everything you took
-for yourself...<Close><End of Block>
-<TextBlock 26 w:50 h:3>
-Lies! That woman...
-This scene...
-All illusions he made up!<New>
-I, my consciousness, can
-see through this trick.
-I won't be swayed!<New>
-I...! 
+Sure, maybe Mom was
+Myyah.<Delay 5> I know that
+the days you went
+through were tough.<New>
+It'd be unbearable
+for anyone.<New>
+But that doesn't mean
+you can push it onto
+Id alone!<New>
+We are all one person.<Delay 5>
+We must become one.<Delay 5>
+Right, Fei...?<Close><End of Block>
+<TextBlock 24 w:50 h:3>
+Now, walk on your own two
+feet.<Delay 5> Face the reality
+you don't want to see.<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Show them to Id.<Delay 5>
+The things you've been
+keeping for yourself...<Close><End of Block>
+<TextBlock 26 w:46 h:3>
+It's a lie!<Delay 5> That woman!<Delay 5>
+This scene,<Delay 5> it's an
+illusion he's made up!<New>
+I,<Delay 5> my reason for being,<Delay 5>
+will not be swayed by
+such a trick!<New>
+I...!<Delay 5>
 I...!<Close><End of Block>
-<TextBlock 27 w:44 h:4>
-Id...that's enough!
-Doing that isn't going
-to solve anything.<New>
-Mother saved us at
-the last moment.
-That is the truth.
+<TextBlock 27 w:36 h:4>
+Id<Delay 5>...<Delay 5>enough.<Delay 5>
+We wouldn't solve
+anything by trying
+to trick you.<New>
+Mom saved us
+in the end.<Delay 5>
+That's the truth.<Delay 5>
 Right?<New>
 The reality isn't
 all grim, Id...<Close><End of Block>
-<TextBlock 28 w:44 h:4>
-My power...
-couldn't save anyone.
+<TextBlock 28 w:48 h:4>
+My...<Delay 5> My power
+couldn't save anyone.<Delay 5>
 It only destroyed.<New>
-I thought that I could
-only make a connection
-with others through
-destruction.<New>
-So I had to destroy
-it all. People...
-The world...<Delay 20>
+I believed that I would
+only be able to identify
+with others by bringing
+destruction upon them.<New>
+So I had no choice but
+to destroy it all...<Delay 10>
+People...<Delay 5> The world...<Delay 20>
 Even Elly...<Close><End of Block>
-<TextBlock 29 w:40 h:4>
-No...
-That's not the case.<New>
-We can save others
-just as our mother,
-despite being Myyah,
-saved us.<New>
-Our power...
-can save people<Delay 10>...<Delay 10>
-We can save Elly!<Close><End of Block>
-<TextBlock 30 w:46 h:3>
-...That's a first. 
-Mother being so warm...<New>
-To me...
-she almost seems...
+<TextBlock 29 w:48 h:4>
+But that's not the case.<New>
+Just as Mom, despite
+being Myyah, saved us...<New>
+our power can save
+people...<Delay 5>save Elly.<Close><End of Block>
+<TextBlock 30 w:40 h:3>
+...That's a first.<Delay 10>
+To think that Mother
+could be so warm...<New>
+To me...<Delay 5>
+she almost seems...<Delay 5>
 too warm...<Close><End of Block>
-<TextBlock 31 w:40 h:6>
-Fei.
-Take the memories
-I have within me.
-You must know what
-it used to be like
-up until now.<New>
-Know our identity...
-about who we are.
-Then figure out what
-ought to be done.<New>
-Our integration is
-not yet complete.<Close><Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Fei.<Delay 5>
+I will give you the
+memories that I have.<New>
+Thus, you will know.<Delay 5>
+How we've lived until now.<Delay 5>
+What we are.<Delay 5>
+And what we must become.<New>
+Our true unification
+is not yet complete.<Close><Close><End of Block>

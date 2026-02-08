@@ -2,8 +2,8 @@
 ...We...won't just...
 hand her over...to
 them...<Delay 10>alright...?<Opcode 2 150><Close><End of Block>
-<TextBlock 2 w:22 h:1>
-...Live...!<Opcode 2 150><Close><End of Block>
+<TextBlock 2 w:26 h:1>
+...L-<Delay 5>Live...!<Opcode 2 150><Close><End of Block>
 <TextBlock 3 w:50 h:2>
 ...An accursed existence,<Delay 5>
 bound to the earth...<Opcode 2 84><Close><End of Block>

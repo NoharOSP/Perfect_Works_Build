@@ -279,7 +279,7 @@ Thanks, come again.<Close><End of Block>
 You don't have any!<Close><End of Block>
 <TextBlock 68 w:32 h:1>
 Alright, got it!<Close><End of Block>
-<TextBlock 69 w:22 h:1>
+<TextBlock 69 w:46 h:1>
 Received <Opcode 10 0>G.<Close><End of Block>
 <TextBlock 70 w:48 h:3>
 Radishes! Get 'em here!
@@ -539,8 +539,8 @@ What, you're poor too?<Delay 30>
 Well, I'll just tell you.
 If you move back and jump
 you don't need the box.<Close><End of Block>
-<TextBlock 138 w:14 h:1>
-O~kay.<Close><End of Block>
+<TextBlock 138 w:16 h:1>
+Okayyyy.<Close><End of Block>
 <TextBlock 139 w:48 h:4>
 He said he doesn't play
 hide-and-seek anymore.
@@ -596,13 +596,13 @@ when you were a kid.<New>
 But you won't find me
 next time.<Close><End of Block>
 <TextBlock 153 w:48 h:3>
-A~w, ge~e!
+Awwww, geeee!
 You found me here, too? <New>
 Okay, time for my secret
 weapon! You'll never
 find me there!!<Close><End of Block>
 <TextBlock 154 w:36 h:3>
-GE~EZ!
+GEEEEZ!
 How'd you find me?<New>
 Forget it!
 I'm quitting

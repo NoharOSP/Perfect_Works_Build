@@ -552,7 +552,7 @@ Guard
 "<Delay 5>...<Delay 5>*sigh*...<Delay 10>
 I've had enough of D Block.<New>
 I wanna be transferred to
-the ordinary civilian area.<New>
+the civilian area.<New>
 <Delay 5>...<Delay 5>I mean,<Delay 5> as long as you
 prisoners have those bomb
 collars, <Delay 5>escape is

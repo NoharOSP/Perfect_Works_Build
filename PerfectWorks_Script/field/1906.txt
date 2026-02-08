@@ -11,9 +11,9 @@ like that!?"<Close><End of Block>
 Fei
 "Hammer, what
 are you saying!?"<Close><End of Block>
-<TextBlock 4 w:30 h:2>
+<TextBlock 4 w:26 h:2>
 Fei
-"HAMME~~~R!"<Close><End of Block>
+"HAMMEEERRR!"<Close><End of Block>
 <TextBlock 5 w:36 h:2>
 Rico
 "Stop it, Hammer!"<Close><End of Block>
@@ -66,9 +66,9 @@ Hammer
 "E-Even you, 'Champ',
 won't win against me
 now."<Close><End of Block>
-<TextBlock 16 w:30 h:2>
+<TextBlock 16 w:32 h:2>
 Hammer
-"Here we go~!"<Opcode 2 20><Close><End of Block>
+"Here we goooo!"<Opcode 2 20><Close><End of Block>
 <TextBlock 17 w:50 h:3>
 Hammer
 "Heh heh heh...

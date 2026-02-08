@@ -182,11 +182,7 @@ Dan
 that monster...!!<Close><End of Block>
 <TextBlock 38 w:48 h:5>
 <Opcode 1 1>Murderer!!<Delay 20> My sister...<Delay 20>
-Give me back my sister!!<Close>
-<Opcode 1 1>Now, Fei, allow me to
-spill the blood out of
-love...<Delay 20>Like the sea of
-hell, <Delay 10>red, deep...!<Close><End of Block>
+Give me back my sister!!<Close><End of Block>
 <TextBlock 39 w:42 h:2>
 Dan
 "Waaaaaaahhhhh...!!"<Opcode 2 30><Close><End of Block>

@@ -1,23 +1,22 @@
 <TextBlock 1 w:46 h:3>
 Ya know, a while ago,
 I found treasure that's
-thi<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 20>s<Delay 30> big.<Close><End of Block>
+thi<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 20>s<Delay 30> big.<Close><End of Block>
 <TextBlock 2 w:50 h:3>
 What're you talkin'
 about? I found one that's
-thi<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 20>s<Delay 30> big!<Close><End of Block>
-<TextBlock 3 w:38 h:2>
-I found one that's <Delay 30>
-thi<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 100><Close><End of Block>
-<TextBlock 4 w:42 h:2>
-~<Delay 3>~<Delay 3>~<Delay 3>s...<Delay 20>*pant*...<Delay 20>
+thi<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 20>s<Delay 30> big!<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+I found one
+that's<Delay 30> thi<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 100><Close><End of Block>
+<TextBlock 4 w:32 h:2>
+i<Delay 3>i<Delay 3>i<Delay 3>s...<Delay 20>*pant*...<Delay 20>
 *pant*<Delay 20>...big.<Close><End of Block>
-<TextBlock 5 w:30 h:3>
-Well I got one <Delay 30>
-thi~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>
-~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 100><Close><End of Block>
+<TextBlock 5 w:30 h:2>
+Well I got one<Delay 30>
+thi<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 100><Close><End of Block>
 <TextBlock 6 w:50 h:3>
-~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>~<Delay 3>s...<Delay 30>*pant*...<Delay 30>
+i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>i<Delay 3>s...<Delay 30>*pant*...<Delay 30>
 *pant*...<Delay 30>*pant*<Delay 30>...<Delay 60>? Huh?<Delay 30>
 What was I talkin' about?<Close><End of Block>
 <TextBlock 7 w:10 h:1>

@@ -59,7 +59,7 @@ Fei
 Whatever!"<Close><End of Block>
 <TextBlock 14 w:44 h:3>
 Bart
-"Ha, ha, ha!<New>
+"Ha ha ha!<New>
 Well, I don't want
 to interrupt you two,
 so I'll wait outside!"<Close><End of Block>
@@ -199,7 +199,7 @@ Bart
 stop talking about that!"<Close><End of Block>
 <TextBlock 40 w:34 h:3>
 Margie
-"Heh, heh, heh!<Delay 10>
+"Heh heh heh!<Delay 10>
 If you insist..."<Close><End of Block>
 <TextBlock 41 w:32 h:2>
 Margie

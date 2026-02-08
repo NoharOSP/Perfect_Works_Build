@@ -20,7 +20,7 @@ Do you just not
 listen to anything?"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Pirate
-"Hah, ha, ha. Sorry, sorry.
+"Ha ha haaa. Sorry, sorry.
 Yes, I remember you were
 saying something like that.<New>
 I went off half-cocked and
@@ -50,7 +50,7 @@ civilian like you would
 be riding in a military
 Gear.<New>
 Besides, this Gear is a
-brand new model.
+brand-new model.
 I've never seen this type
 before."<Close><End of Block>
 <TextBlock 8 w:40 h:4>

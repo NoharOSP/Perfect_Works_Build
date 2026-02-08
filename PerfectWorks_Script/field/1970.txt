@@ -74,29 +74,28 @@ Lacan<Delay 5>...?"<Close><End of Block>
 <TextBlock 10 w:12 h:2>
 Lacan
 "I<Delay 5>..."<Close><End of Block>
-<TextBlock 11 w:64 h:3>
+<TextBlock 11 w:66 h:3>
 Lacan
-"<Delay 5>...<Delay 5>What...<Delay 5>is...this...<Delay 5>place<Delay 5>...?<Delay 15>
-<Delay 5>...<Delay 5>An execution site<Delay 5>...?"<Close><End of Block>
-<TextBlock 12 w:54 h:3>
+"<Delay 5>...<Delay 5>What<Delay 5> is this place<Delay 5>...?<Delay 15>
+<Delay 5>...<Delay 5>Is this<Delay 5> an execution site<Delay 5>...?"<Close><End of Block>
+<TextBlock 12 w:44 h:3>
 Lacan
-"<Delay 5>...<Delay 5>Why do you turn on me?<Delay 15>
-I thought we were friends!"<Close><End of Block>
-<TextBlock 13 w:20 h:3>
+"<Delay 5>...<Delay 5>Why do you flee?<Delay 15>
+Were we not comrades?"<Close><End of Block>
+<TextBlock 13 w:40 h:3>
 Lacan
-"Who<Delay 5>...<Delay 15>
-is it<Delay 5>...?"<Close><End of Block>
-<TextBlock 14 w:56 h:4>
+"...Who's there?<Delay 15>
+What is this thing?"<Close><End of Block>
+<TextBlock 14 w:52 h:3>
 Lacan
-"Did I<Delay 5>...<Delay 5>
-cause this<Delay 5>...?<Delay 15>
-What has happened to me<Delay 5>...?"<Close><End of Block>
-<TextBlock 15 w:28 h:2>
-What<Delay 5>...<Delay 5>have<Delay 5>...<Delay 5>
-I<Delay 5>...<Delay 5>become<Delay 5>...?<Close><End of Block>
-<TextBlock 16 w:40 h:2>
+"Is this<Delay 5>...<Delay 5>my doing?<Delay 15>
+What's happened to me<Delay 5>...?"<Close><End of Block>
+<TextBlock 15 w:32 h:2>
+What on earth...<Delay 5>
+am I...?<Close><End of Block>
+<TextBlock 16 w:38 h:2>
 Lacan
-"...<Delay 5>I will<Delay 5> live<Delay 5>...!"<Close><End of Block>
+"...<Delay 5>I will<Delay 5> live<Delay 5>..."<Close><End of Block>
 <TextBlock 17 w:44 h:4>
 Lacan
 "Even if I go to hell,<Delay 15>

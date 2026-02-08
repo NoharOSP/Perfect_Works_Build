@@ -10,21 +10,21 @@ forgotten..."<Close><End of Block>
 Townsfolk
 "...Get out of our town!!"<Delay 30>
 "Go away, you mutant child!"<Opcode 2 60><Close><End of Block>
-<TextBlock 4 w:38 h:3>
-Well, that is...<Delay 40>
-Your father is...<Delay 30>
-So...<Delay 20>that's why...<Opcode 2 20><Close><End of Block>
-<TextBlock 5 w:48 h:2>
+<TextBlock 4 w:34 h:3>
+Well, you see,<Delay 40>
+your father<--><Delay 30>
+So...<Delay 20>that's why<--><Opcode 2 20><Close><End of Block>
+<TextBlock 5 w:46 h:2>
 Now listen to me! Your
-father is a great man...<Close><End of Block>
+father is a great man<--><Close><End of Block>
 <TextBlock 6 w:44 h:2>
 Someday, you'll follow
-in his footsteps...<Close><End of Block>
+in his footsteps<--><Close><End of Block>
 <TextBlock 7 w:40 h:1>
 ...*cough, cough*...<Opcode 2 40><Close><End of Block>
-<TextBlock 8 w:48 h:2>
+<TextBlock 8 w:50 h:2>
 ...!!<Delay 40> ...No, no...
-It's not...<Delay 30>like that...<Close><End of Block>
+I-It's not...<Delay 30>like that...<Close><End of Block>
 <TextBlock 9 w:38 h:3>
 Oh, God...<Delay 30>please...
 have mercy on this
@@ -38,23 +38,23 @@ Uuuuhhh...<Opcode 2 60><Close><End of Block>
 carefully...<Delay 30> From now
 on...<Delay 30>you're going to be
 by yourself...)<Opcode 2 40><Close><End of Block>
-<TextBlock 13 w:16 h:1>
-...ther.<Opcode 2 60><Close><End of Block>
-<TextBlock 14 w:18 h:1>
-...other.<Opcode 2 60><Close><End of Block>
+<TextBlock 13 w:14 h:1>
+<-->ther.<Opcode 2 60><Close><End of Block>
+<TextBlock 14 w:16 h:1>
+<-->other.<Opcode 2 60><Close><End of Block>
 <TextBlock 15 w:52 h:2>
 Mother,<Delay 30> why does Jenny
 have a father but I don't?<Close><End of Block>
-<TextBlock 16 w:40 h:2>
-...other.
-...You have to rest.<Opcode 2 60><Close><End of Block>
+<TextBlock 16 w:38 h:2>
+<-->other.
+<-->you have to rest.<Opcode 2 60><Close><End of Block>
 <TextBlock 17 w:20 h:2>
 !!<Delay 30> Mother,
 Mother...<Opcode 2 60><Close><End of Block>
-<TextBlock 18 w:16 h:1>
-...ther.<Opcode 2 60><Close><End of Block>
-<TextBlock 19 w:38 h:1>
-...other. Mother...<Opcode 2 60><Close><End of Block>
+<TextBlock 18 w:14 h:1>
+<-->ther.<Opcode 2 60><Close><End of Block>
+<TextBlock 19 w:36 h:1>
+<-->other. Mother...<Opcode 2 60><Close><End of Block>
 <TextBlock 20 w:44 h:2>
 ...I'm different from
 the other kids.<Opcode 2 60><Close><End of Block>
@@ -73,7 +73,7 @@ mother...?<New>
 No, I don't want that...<Close><End of Block>
 <TextBlock 24 w:40 h:2>
 !!<Delay 30> Waaaaahh! Mother!
-Mother is...<Opcode 2 30><Close><End of Block>
+Mother, you<--><Opcode 2 30><Close><End of Block>
 <TextBlock 25 w:24 h:2>
 ...Mother...<Delay 30>
 I am...<Close><End of Block>

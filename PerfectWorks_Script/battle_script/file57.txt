@@ -2,7 +2,7 @@
 Bart!!<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:20 h:2>
 Margie
-"Ba~rty!"<Close><End of Block>
+"Baaarty!"<Close><End of Block>
 <TextBlock 3 w:32 h:3>
 Margie
 "No!

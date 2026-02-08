@@ -54,26 +54,26 @@ you to get around.<New>
 Do you want to change here?<Delay 15>
 <Opcode 1 255>    No
     Change party<Close><End of Block>
-<TextBlock 12 w:48 h:3>
+<TextBlock 12 w:48 h:4>
 <Delay 5>...<Delay 5>...Okay.<Delay 15>
 By the way,<Delay 5> did you go
-meet my daughter working<New>
-in D Block?<Delay 5> If you
-haven't, by all means,
-please go see her.<Close><End of Block>
+meet my daughter working
+in D Block?<New>
+If you haven't, by all
+means please go see her.<Close><End of Block>
 <TextBlock 13 w:54 h:3>
 I see, a lot has
 happened. No wonder they
-imposed martial law.<Delay 15><New>
+imposed martial law.<New>
 Please tell her<Delay 15> good luck.
 And the same to you.<Close><End of Block>
-<TextBlock 14 w:48 h:4>
+<TextBlock 14 w:46 h:3>
 You know, she's keeping
 that promise she made
-with you<Delay 5>...<Delay 5>...<Delay 15> She's in
-D Block, so don't forget<New>
-to go see her once in a
-while.<Close><End of Block>
+with you<Delay 5>...<Delay 5>...<New>
+She's in D Block, so
+don't forget to go see
+her once in a while.<Close><End of Block>
 <TextBlock 15 w:28 h:1>
 Hang in there.<Close><End of Block>
 <TextBlock 16 w:46 h:3>
@@ -232,7 +232,7 @@ Leave it to me,<Delay 15> bro.<Delay 15>
 And put up a good fight!"<Close><End of Block>
 <TextBlock 41 w:50 h:3>
 Fei
-"Doc, Elly.<Delay 5><New>
+"Doc, Elly.<New>
 Let's go. Our destination
 is the Imperial military
 facility up north."<Close><End of Block>
@@ -267,17 +267,17 @@ bro! And you, Doc!"<Close><End of Block>
 Fei
 "<Delay 5>...<Delay 5>First we save the
 Empire, now we're being
-chased by them."<Close><End of Block>
+pursued by them."<Close><End of Block>
 <TextBlock 50 w:46 h:4>
 Citan
 "We cannot make a wrong
 move with security
 this tight<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 51 w:48 h:4>
+<TextBlock 51 w:44 h:4>
 Fei
 "Hammer's our only
-hope<Delay 15>...<Delay 5> He's awfully
-late, though."<Close><End of Block>
+hope<Delay 5>...<Delay 15> Sure is taking
+his time, though."<Close><End of Block>
 <TextBlock 52 w:50 h:2>
 Elly
 "...There's<Delay 15> no one here."<Close><End of Block>
@@ -289,7 +289,7 @@ locking up the place?"<Close><End of Block>
 <TextBlock 54 w:46 h:4>
 Citan
 "The furnishings are
-untouched<Delay 5>...<Delay 5><New>
+untouched<Delay 5>...<New>
 They probably abandoned
 the house when Av
 attacked."<Close><End of Block>
@@ -298,7 +298,7 @@ Elly
 "<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 56 w:48 h:3>
 Hammer
-"Bro, Citan!<Delay 15><New>
+"Bro, Citan!<New>
 I got the key info that
 should help us get outta
 the Capital!"<Close><End of Block>
@@ -335,26 +335,27 @@ beyond big, Elly!"<Close><End of Block>
 <TextBlock 64 w:48 h:4>
 Hammer
 "The Goliath is of
-extraordinary magnitude!<Delay 15><New>
+extraordinary magnitude!<New>
 It's said that the
 Goliath makes a Gear
 look like a pea.<New>
 It's rumored that it
-could even destroy the
+could even level the
 Av capital, Breidablik,
 all by itself."<Close><End of Block>
-<TextBlock 65 w:44 h:4>
+<TextBlock 65 w:46 h:4>
 Fei
-"By itself? Annihilate
-Av!? It must be a
-monstrous battleship."<Close><End of Block>
-<TextBlock 66 w:50 h:4>
+"By itself? Destroy
+Breidablik!? That's one
+hell of a battleship."<Close><End of Block>
+<TextBlock 66 w:48 h:4>
 Hammer
-"According to my reliable
-sources, it's located
-north of Kislev<Delay 10> in an<New>
-underground dock at some
-military facility<Delay 5>...<Delay 5>"<Close><End of Block>
+"According to my
+reliable sources,<New>
+it's located north of
+Kislev in an underground
+dock at some military
+facility<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 67 w:4 h:1>
 !?<Opcode 2 15><Close><End of Block>
 <TextBlock 68 w:48 h:4>
@@ -374,12 +375,11 @@ The Imperial facility I
 infiltrated<Delay 5>...<Delay 5> I never knew
 that something like that
 was underground there<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 71 w:44 h:3>
+<TextBlock 71 w:40 h:4>
 Citan
-"<Delay 5>...<Delay 5>Elly,<Delay 15> do you think
-you still remember<Delay 5>...<Delay 5><New>
-how you infiltrated
-the base?"<Close><End of Block>
+"<Delay 5>...<Delay 5>Elly,<Delay 15> do you
+still remember your
+infiltration route?"<Close><End of Block>
 <TextBlock 72 w:26 h:2>
 Elly
 "Yes, Citan."<Close><End of Block>
@@ -387,20 +387,18 @@ Elly
 Elly
 "In the land far north
 of the Kislev Imperial
-Capital<Delay 5>...<Delay 5><New>
+Capital<Delay 5>...<New>
 'located beyond a sheer
 mountain range'...<Delay 30>
 There lies the Imperial
 military facility."<Close><End of Block>
-<TextBlock 74 w:50 h:4>
+<TextBlock 74 w:50 h:3>
 Fei
 "Good <--><Delay 5> let's take that
-ship and flee the
-Capital<Delay 5>...<New>
-...<Delay 5>before the Empire
-decides to launch a
-counterattack against
-Av."<Close><End of Block>
+ship and flee the Capital<New>
+before the Empire decides
+to launch a counterattack
+against Av."<Close><End of Block>
 <TextBlock 75 w:30 h:3>
 Fei
 "<Delay 5>...?<Delay 15>
@@ -436,11 +434,11 @@ you got that collar off?<Close><End of Block>
 <TextBlock 83 w:38 h:3>
 Citan
 "Yes, he became the
-Battling Champ.<Delay 15><New>
+Battling Champ.<New>
 He is no longer a
 prisoner."<Close><End of Block>
 <TextBlock 84 w:50 h:3>
-Then you're the Battling
+So, you're the Battling
 Champ?<Delay 15> Wow!<Delay 5> That's great!
 I knew you were strong.<Close><End of Block>
 <TextBlock 85 w:34 h:1>
@@ -448,7 +446,7 @@ And you might be?<Close><End of Block>
 <TextBlock 86 w:46 h:3>
 Citan
 "Oh, excuse me,<Delay 5> we have
-never met. <New>
+never met.<New>
 I am Citan Uzuki.<Delay 15>
 You could say that I 
 am his guardian."<Close><End of Block>
@@ -486,34 +484,33 @@ Fei
 interrupt?"<Close><End of Block>
 <TextBlock 95 w:10 h:1>
 What?<Close><End of Block>
-<TextBlock 96 w:48 h:3>
+<TextBlock 96 w:46 h:4>
 Fei
-"You're the doctor in
-charge here?<Delay 15><New>
-That's what I heard from
-Hammer."<Close><End of Block>
+"So you're the doctor
+here now?<Delay 10> That's what I
+heard from Hammer."<Close><End of Block>
 <TextBlock 97 w:50 h:4>
-Aaahh, that.
-Following the request of
+Ah, well there's a story.<New>
+Following a request from
 the Empire, I agreed to
-be in charge of this part<New>
-of the city, but now
-they're telling me they
-already have enough
-doctors<Delay 5>...<Delay 5><Close><End of Block>
+be in charge of the
+civilian sector,<New>
+but now they're telling
+me they already have
+enough doctors<Delay 5>...<Close><End of Block>
 <TextBlock 98 w:48 h:4>
 Who do they think they
-are?<Delay 15> So, for now, I'm
-just on standby.<Delay 30> As long
-as nothing really big<New>
-happens, I think I'm
+are?<Delay 15> Anyway, for now I'm
+just on standby.<New>
+Unless something really
+big happens, I think I'm
 going to be here for
-quite a while<Delay 5>...<Delay 5><Close><End of Block>
-<TextBlock 99 w:48 h:4>
+quiiiite a while<Delay 5>...<Close><End of Block>
+<TextBlock 99 w:54 h:4>
 Fei
 "<Delay 5>...<Delay 5>I know I'm in no
-position to ask you, but
-do you think you could<New>
+position to ask you, but...<New>
+do you think you could
 return to D Block?"<Close><End of Block>
 <TextBlock 100 w:42 h:3>
 Isn't Doctor Uzuki
@@ -529,11 +526,11 @@ Doc will be with us.<New>
 So...it would be good if
 you could take care of
 D Block."<Close><End of Block>
-<TextBlock 102 w:48 h:4>
+<TextBlock 102 w:46 h:4>
 I see you've got your
 own problems<Delay 5>...<Delay 15> Okay,
-leave D Block to me. And
-also, if you have any<New>
+leave D Block to me.<New>
+And if you have any
 other problems, come to
 me. I'll try to help in
 any way I can."<Close><End of Block>
@@ -590,7 +587,7 @@ two routes we can use to
 sneak inside.<New>
 The first one requires us
 to enter via the Battling
-Arena grounds.<Close><End of Block>
+Arena grounds."<Close><End of Block>
 <TextBlock 113 w:54 h:4>
 Fei
 "Well there's no way we can

@@ -1,55 +1,52 @@
 <TextBlock 1 w:30 h:2>
 Wiseman
 "Are you okay?"<Close><End of Block>
-<TextBlock 2 w:40 h:3>
+<TextBlock 2 w:30 h:3>
 Wiseman
-"It's already
+"I'm already
 too late!<New>
-Assist me!
-For I am about to...<Delay 20>
-exterminate Id."<Close><End of Block>
-<TextBlock 3 w:48 h:4>
+Assist me!<Delay 20>
+Id...<Delay 5> We will
+eliminate him!"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
 Wiseman
-"Zohar is Deus' core.<New>
-The slave generators
-and ether<Delay 20>...<Delay 20>
-it's the source of
-all their energy.<New>
-After attaining its
-power, the freshly
-awakened Id intends to
+"The Zohar is Deus' core.<New>
+Slave generators, Ether<Delay 10>...<Delay 10>
+It's the source of all
+their energy.<New>
+Having attained its power,
+the awakened Id wants to
 annihilate this world!<New>
-The contact with Zohar
-was meant to have been
-done after the unifying
-Fei's true personality!"<Close><End of Block>
+His contact with the Zohar,<New>
+it was imperative that
+it only take place after
+properly unifying Fei's
+personalities!!"<Close><End of Block>
 <TextBlock 4 w:22 h:3>
 Wiseman
-"Hah!?
+"Huh!?
 Keep back!"<Close><End of Block>
 <TextBlock 5 w:14 h:2>
 Wiseman
 "..."<Close><End of Block>
-<TextBlock 6 w:56 h:4>
+<TextBlock 6 w:50 h:4>
 Id
-"Hmm, you again?
-You are always getting
-in my way.<New>
-But I cannot be stopped
-by you. You who couldn't
-even protect his own
+"Hmph. You again?<Delay 10>
+Always getting in my way.<New>
+But you cannot stop me.<Delay 10>
+You who couldn't even
+protect his own
 wife and son!<New>
-You can not even bear
+Do you wear that mask
+because you can't bear
 to show your face to
-your son.<New>
-That's why you wear
-a mask,<Delay 5> isn't it<Delay 5>...<Delay 30> Khan!?!"<Close><End of Block>
+your son?<Delay 20> Well, Khan!?"<Close><End of Block>
 <TextBlock 7 w:40 h:3>
 Id
 "That's right!<New>
-This man is Fei's<Delay 5>...<Delay 20>
-no,<Delay 5> I mean,<Delay 5> my
-father,<Delay 30> Khan Wong!!"<Close><End of Block>
+This man is Fei's<--><Delay 20>
+No,<Delay 10> my father,<Delay 30>
+Khan Wong!!"<Close><End of Block>
 <TextBlock 8 w:24 h:2>
 <Perso1>
 "Wiseman!?"<Close><End of Block>

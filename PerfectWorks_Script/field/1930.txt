@@ -1,93 +1,102 @@
 <TextBlock 1 w:34 h:1>
 Mother<Delay 10> was Myyah.<Delay 100><Close><End of Block>
 <TextBlock 2 w:58 h:1>
-<Opcode 14 1>Our's was an ordinary family.<Close><End of Block>
+<Opcode 14 1>Ours was an ordinary family.<Close><End of Block>
 <TextBlock 3 w:58 h:1>
 <Opcode 14 1>A strict but reliable father.<Close><End of Block>
 <TextBlock 4 w:50 h:1>
 <Opcode 14 1>A kind and loving mother.<Close><End of Block>
-<TextBlock 5 w:40 h:2>
-<Opcode 14 1>Up till then, it was<Delay 50>
-complete happiness.<Close><End of Block>
+<TextBlock 5 w:44 h:2>
+<Opcode 14 1>The days until that
+point were happy ones.<Close><End of Block>
 <TextBlock 6 w:28 h:1>
 <Opcode 14 1>But one day...<Close><End of Block>
-<TextBlock 7 w:48 h:1>
-<Opcode 14 1>Mother suddenly changed.<Close><End of Block>
-<TextBlock 8 w:40 h:3>
+<TextBlock 7 w:50 h:1>
+<Opcode 14 1>Suddenly, Mother changed.<Close><End of Block>
+<TextBlock 8 w:42 h:3>
 <Opcode 14 1>She was like a<Delay 10>
 totally different
 person.<New>
-<Delay 50>From that day on...<Delay 10>
-'Fei' lost his home.<Close><End of Block>
-<TextBlock 9 w:54 h:1>
-<Opcode 14 1>Father<Delay 10> was away often.<New>
-He had some important work.<Close><End of Block>
-<TextBlock 10 w:38 h:2>
-<Opcode 14 1>In front of Father
-she acted normally.<Close><End of Block>
-<TextBlock 11 w:60 h:5>
-<Opcode 14 1>When Fei tried to tell Father
-about Mother's strange conduct
-and the experiments, Father's
-mind was taken up by his work
-and he didn't really listen.<Close><End of Block>
-<TextBlock 12 w:44 h:2>
-<Opcode 14 1>He thought it was just
-childhood fantasies.<Close><End of Block>
-<TextBlock 13 w:36 h:3>
-<Opcode 14 1>But he didn't have
-to endure the pain
-much longer...<Close><End of Block>
-<TextBlock 14 w:46 h:3>
-<Opcode 14 1>'Fei's' subconscious
-discovered a way to
-escape from the trauma.<Close><End of Block>
-<TextBlock 15 w:42 h:4>
-<Opcode 14 1>He formed a separate
-persona to deal with
-things he didn't like
-or couldn't bear.<Close><End of Block>
-<TextBlock 16 w:54 h:3>
-<Opcode 14 1>He removed himself 
-from harm's way.<New>
-My role was to have all the
-things he hated forced upon
-me, the moment they arose.<Close><End of Block>
-<TextBlock 17 w:48 h:3>
-<Opcode 14 1>From the time of my
-division from him, I
-was dominated by hatred.<New>
-That hatred naturally
-turned into destructive
-impulses.<Close><End of Block>
+<Delay 50>As of that day,<Delay 10>
+the place where 'Fei'
+belonged was no more.<Close><End of Block>
+<TextBlock 9 w:40 h:2>
+<Opcode 14 1>Father was away
+from home often.<New>
+He seemed to have
+some important work.<Close><End of Block>
+<TextBlock 10 w:38 h:3>
+<Opcode 14 1>In front of Father,
+Mother would act
+normally.<Close><End of Block>
+<TextBlock 11 w:60 h:4>
+<Opcode 14 1>Tied up with his work, Father
+paid no heed if 'Fei' spoke of
+Mother's odd behaviour and
+what he had been through.<Close><End of Block>
+<TextBlock 12 w:52 h:2>
+<Opcode 14 1>He thought it nothing
+but a child's imagination.<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+<Opcode 14 1>But he didn't have to
+endure any of this
+for much longer...<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+<Opcode 14 1>Unconsciously, 'Fei' came
+up with a way he could
+escape the mental agony.<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+<Opcode 14 1>He made up a personality
+to deal with anything
+difficult, anything he
+didn't like,<New>
+dissociated from his
+original personality.<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+<Opcode 14 1>He took himself 
+out of the loop.<New>
+From the first moment I
+appeared, it was my role
+to have everything he
+hated pushed onto me.<Close><End of Block>
+<TextBlock 17 w:54 h:3>
+<Opcode 14 1>Ever since I dissociated
+from him, I've been
+dominated by hatred.<New>
+Hatred naturally turned
+into a destructive impulse.<Close><End of Block>
 <TextBlock 18 w:38 h:2>
 <Opcode 14 1>I wanted to destroy
 everything.<Close><End of Block>
-<TextBlock 19 w:38 h:2>
-<Opcode 14 1>Mother, <Delay 20>Father, <Delay 20>
-the entire world<Delay 10>...<Close><End of Block>
-<TextBlock 20 w:52 h:3>
-<Opcode 14 1>Finally Father noticed
-Mother's odd behavior, but
-it was already too late.<New>
-I had completely separated
-from that coward...
-my original self.<Close><End of Block>
-<TextBlock 21 w:48 h:2>
-The puppets were broken
-<Delay 10>...<Delay 10>and<Delay 10>...<New>
-'Fei's' heart was too<Delay 10>...<Close><End of Block>
-<TextBlock 22 w:44 h:2>
-What would make Mother
-do such a thing...?<Close><End of Block>
-<TextBlock 23 w:40 h:4>
-Mother repeated the
-experiments to study
-the power she knew
-existed within me.<New>
-Yes,<Delay 10> that woman<Delay 10>...<Delay 10>
+<TextBlock 19 w:30 h:2>
+<Opcode 14 1>Mother, <Delay 20>Father,<Delay 20>
+the world<Delay 10>...<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+<Opcode 14 1>Eventually, Father did
+take notice of Mother's
+odd behavior,<New>
+but it was already
+too late.<New>
+I had completely
+dissociated from that
+coward, my original self.<Close><End of Block>
+<TextBlock 21 w:54 h:2>
+The puppets were broken<Delay 5>...<Delay 10>
+and<Delay 5>...<New>
+so too was 'Fei's' heart<Delay 5>...<Close><End of Block>
+<TextBlock 22 w:26 h:2>
+Why would Mom
+do such a<Delay 5>...?<Close><End of Block>
+<TextBlock 23 w:48 h:3>
+Mother knew of the
+existence of that power,
+the one within me,<New>
+and did the experiments
+repeatedly to study the
+truth about it.<New>
+Yes,<Delay 5> that woman<--><Delay 10>
 Mother,<Delay 20> was Myyah.<Close><End of Block>
 <TextBlock 24 w:26 h:1>
 <Opcode 1 255>That's a lie!<Close><End of Block>
-<TextBlock 25 w:28 h:1>
-No, it's true.<Close><Close><End of Block>
+<TextBlock 25 w:24 h:1>
+It's no lie.<Close><Close><End of Block>

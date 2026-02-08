@@ -146,7 +146,7 @@ I see, I see,<Delay 10>
 so you're alright...<New>
 But I wouldn't depend
 on the nurse.<Delay 10>
-Ha, ha, ha!!<Close><End of Block>
+Ha ha ha!!<Close><End of Block>
 <TextBlock 33 w:42 h:3>
 What? First the girl,
 and now Fei...!?<Delay 10>

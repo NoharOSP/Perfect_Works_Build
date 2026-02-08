@@ -15,109 +15,107 @@ I'm begging you Fei...<Delay 100><Delay 100><Delay 100><Close><End of Block>
 Citan
 "Fei!!
 Where did the real
-you go?<New>
+you go!?<New>
 Remember!
 Were you not going
-to help Elly?"<Close><End of Block>
+to rescue Elly?"<Close><End of Block>
 <TextBlock 6 w:42 h:4>
 Bart
 "Fei!!
 Do you want it to end
-like this?<New>
+like this!?<New>
 Think!
-Aren't you going
-to help Elly?"<Close><End of Block>
-<TextBlock 7 w:52 h:4>
+Are you gonna save
+her, save Elly?"<Close><End of Block>
+<TextBlock 7 w:46 h:4>
 Billy
 "Fei!!
 What have you been
-fighting for up until now?<New>
-Remember...!?
-It's for her...Elly!
-Aren't you going to help
-her!?"<Close><End of Block>
-<TextBlock 8 w:38 h:4>
+fighting for until now?<New>
+Remember!
+Are you going to save
+her, save Elly!?"<Close><End of Block>
+<TextBlock 8 w:42 h:4>
 Rico
 "Fei!
-How long are you
-gonna be like this?<New>
-Think kid, think!
-Aren't you going
-to help Elly?"<Close><End of Block>
+How long you plannin'
+to zone out for!?<New>
+Think, kid, think!
+Aren't you gonna
+save her, save Elly?"<Close><End of Block>
 <TextBlock 9 w:38 h:3>
 Emeralda
 "Fei!
 Elly waiting!<New>
-Remember!?
+Remember!
 Elly still there...
 Still waiting!"<Close><End of Block>
-<TextBlock 10 w:48 h:4>
+<TextBlock 10 w:52 h:4>
 <Chu-Chu>
 "Fei!
-Wake up!<New>
+Wake up!!<New>
 You mustn't forget!
-The one you love...
-Elly!
-You've gotchu help her!"<Close><End of Block>
-<TextBlock 11 w:22 h:3>
+You've gotchu save the
+one you love, save Elly!!"<Close><End of Block>
+<TextBlock 11 w:22 h:4>
 Maria
 "Fei!
-Be strong!<New>
-Remember...
+Please snap
+out of it!<New>
+Remember!
 Elly needs
 you now!"<Close><End of Block>
-<TextBlock 12 w:46 h:2>
+<TextBlock 12 w:40 h:2>
 Citan
-"What is that you say?"<Close><End of Block>
-<TextBlock 13 w:28 h:2>
+"What did you say!?"<Close><End of Block>
+<TextBlock 13 w:24 h:2>
 Bart
-"What the...?"<Close><End of Block>
-<TextBlock 14 w:14 h:2>
+"Say what!?"<Close><End of Block>
+<TextBlock 14 w:16 h:2>
 Billy
-"What?"<Close><End of Block>
-<TextBlock 15 w:22 h:3>
+"What!?"<Close><End of Block>
+<TextBlock 15 w:22 h:2>
 Rico
-"No way...
-Get real!?"<Close><End of Block>
+"Wh-What!?"<Close><End of Block>
 <TextBlock 16 w:16 h:2>
 Emeralda
 "!?"<Close><End of Block>
 <TextBlock 17 w:30 h:2>
 <Chu-Chu>
-"Whatchu mean?"<Close><End of Block>
-<TextBlock 18 w:14 h:2>
+"Whatchu say!?"<Close><End of Block>
+<TextBlock 18 w:40 h:2>
 Maria
-"What?"<Close><End of Block>
-<TextBlock 19 w:22 h:2>
+"What did you say!?"<Close><End of Block>
+<TextBlock 19 w:30 h:2>
 Citan
-"Contact!?"<Close><End of Block>
-<TextBlock 20 w:22 h:2>
+"The Contact!?"<Close><End of Block>
+<TextBlock 20 w:30 h:2>
 Bart
-"Contact!?"<Close><End of Block>
-<TextBlock 21 w:20 h:2>
+"The Contact!?"<Close><End of Block>
+<TextBlock 21 w:30 h:2>
 Billy
-"Contact?"<Close><End of Block>
-<TextBlock 22 w:20 h:2>
+"The Contact!?"<Close><End of Block>
+<TextBlock 22 w:30 h:2>
 Rico
-"Contact?"<Close><End of Block>
-<TextBlock 23 w:20 h:2>
+"The Contact!?"<Close><End of Block>
+<TextBlock 23 w:30 h:2>
 Emeralda
-"Contact?"<Close><End of Block>
-<TextBlock 24 w:22 h:2>
+"The Contact!?"<Close><End of Block>
+<TextBlock 24 w:30 h:2>
 <Chu-Chu>
-"Contact!?"<Close><End of Block>
-<TextBlock 25 w:20 h:2>
+"The Contact!?"<Close><End of Block>
+<TextBlock 25 w:30 h:2>
 Maria
-"Contact?"<Close><End of Block>
-<TextBlock 26 w:22 h:2>
+"The Contact!?"<Close><End of Block>
+<TextBlock 26 w:30 h:2>
 Citan
-"Contact!?"<Close><End of Block>
-<TextBlock 27 w:20 h:2>
+"The Contact!?"<Close><End of Block>
+<TextBlock 27 w:30 h:2>
 Emeralda
-"Contact?"<Close><End of Block>
-<TextBlock 28 w:22 h:2>
+"The Contact!?"<Close><End of Block>
+<TextBlock 28 w:30 h:2>
 Citan
-"Contact!?"<Close><End of Block>
+"The Contact!?"<Close><End of Block>
 <TextBlock 29 w:10 h:1>
 Dad!!<Close><End of Block>
 <TextBlock 30 w:48 h:3>
@@ -356,162 +354,150 @@ no choice...!"<Close><End of Block>
 <TextBlock 62 w:40 h:2>
 <Opcode 14 1>The time has come<Delay 10>
 to truly become one!<Close><End of Block>
-<TextBlock 63 w:28 h:4>
+<TextBlock 63 w:34 h:3>
 Khan
-"What happened
-to Fei<Delay 10>...<Delay 30>
-Id!?"<Close><End of Block>
-<TextBlock 64 w:52 h:4>
+"...What happened
+to Fei, Id!?"<Close><End of Block>
+<TextBlock 64 w:48 h:4>
 Id
-"Too bad.
-The new personality of Fei
-that you gave birth to...<New>
-...and all that work that
-your persona did to make
-him one, perfect, unified
-whole has been wasted.<New>
-He will be swallowed up
-by me!"<Close><End of Block>
+"What a shame.<Delay 5>
+The new Fei personality
+brought forth by you...<New>
+Time and again you
+seemed to be guiding
+the way to make us one
+complete personality,<New>
+but that too will end in
+vain.<Delay 10> He's about to be
+swallowed up by me!"<Close><End of Block>
 <TextBlock 65 w:52 h:3>
 Khan
 "I won't permit it! 
 I will destroy you first!"<Close><End of Block>
 <TextBlock 66 w:50 h:4>
 Id
-"As if you could...sissy!
-Mother died because of
-your cowardly behavior.<New>
-And as a result, he ran
-away from that reality
-by entering into his
-memories!<New>
-And now I continue my
-existence bearing all
-that hatred.<New>
-You wouldn't be able to
-imagine what it's like!"<Close><End of Block>
+"As if you could,<Delay 5> craven!
+Mother is dead because of
+your incompetence!<New>
+And HE took refuge inside
+his memories!<New>
+While I carried on
+existing, burdened
+with all the bad stuff!<New>
+Do you know what that
+was like!?"<Close><End of Block>
 <TextBlock 67 w:54 h:4>
 Khan
-"I wasn't simply working
-to unify Fei's personality,
-you know!?<New>
-All that you and I feel<Delay 5>...<Delay 5>
-the sadness,<Delay 5> the hatred<Delay 5>...<Delay 5>
-Even though he also
-experienced such things<Delay 5>...<New>
-Fei needed to be encouraged
-to build himself up in
-order to be able to
-comprehend all of this.<New>
-Fei should be able to
-understand all of your
-feelings now!<New>
-But now you want to erase
-the one who understands you<Delay 5>
-...<Delay 5>to kill Fei!<Delay 15> What is it
-that you want?"<Close><End of Block>
-<TextBlock 68 w:50 h:3>
+"I wasn't merely guiding
+the way!<New>
+The feelings you and I had,<Delay 5>
+the sadness,<Delay 5> the hatred...<New>
+Although he experienced
+those things, Fei was
+trying to build himself up.<New>
+As he is now, Fei will
+surely be able to
+comprehend your feelings!<New>
+To erase Fei, the one who
+will understand you...<Delay 10>
+Is that what you want!?"<Close><End of Block>
+<TextBlock 68 w:44 h:4>
 Id
-"Why ask me such a thing
-now?<New>
-My purpose is the same as
-his<Delay 5>...<Delay 10>total destruction!<Delay 10>
+"You ask me that now!?<New>
+My aim is the absolute
+destruction of all,
+same as 'him'!<Delay 10>
 That and that alone!"<Close><End of Block>
-<TextBlock 69 w:52 h:4>
+<TextBlock 69 w:48 h:4>
 Khan
-"Is this world so bad a
-place<Delay 5>...<Delay 5>that there is only
-hatred inside of you?"<Close><End of Block>
-<TextBlock 70 w:50 h:4>
+"Is this world so bad<Delay 5>...<Delay 5>
+that there is nothing
+but hatred inside you!?"<Close><End of Block>
+<TextBlock 70 w:52 h:4>
 Id
-"You're the ones who made
-me this way<Delay 5>...<Delay 5> You and
-that woman!<Delay 10> Admit it!"<Close><End of Block>
+"It was you and that woman
+who made me this way!!<Delay 5>
+You hypocrite!!"<Close><End of Block>
 <TextBlock 71 w:44 h:4>
 Khan
-"C<Delay 5>...<Delay 30>
-Can you hear me,<Delay 10>
-Fei?<New>
-Please receive my 
-will by my fist.<New>
-And become<Delay 5>
-one!<Close>
-Only you can stop Id!!<Delay 5>
-Fei, please!!"<Close><End of Block>
+"...Guh!<Delay 30>
+Can you hear me, Fei!?<New>
+Receive this,
+the driving fist
+of my emotion!<Delay 10>
+And become one!"<Close><End of Block>
 <TextBlock 72 w:48 h:3>
 Khan
-"That's right...
+"...That's right.<Delay 5>
 Karen had become Myyah."<Close><End of Block>
-<TextBlock 73 w:48 h:4>
+<TextBlock 73 w:54 h:4>
 Khan
-"It's nothing special.
-Myyah does not have
-only one host body.<New>
-Myyah's roots are sealed
-in the genes of all
-women. Any one of them
-could become Myyah."<Close><End of Block>
-<TextBlock 74 w:46 h:3>
+"It's not all that strange.<Delay 5>
+The Myyah complement
+is not a single person.<New>
+Her factor is sealed
+within the genes of
+almost all women.<New>
+Every one of them has the
+potential to become Myyah."<Close><End of Block>
+<TextBlock 74 w:40 h:3>
 Id
-"It just happened to be
-Mother's turn.<New>
-Only Elly was 'special'
-originally!!"<Close><End of Block>
-<TextBlock 75 w:26 h:2>
+"It just happened to
+Mother by chance.<New>
+Of course, only Elly
+is 'special'!!"<Close><End of Block>
+<TextBlock 75 w:14 h:2>
 Khan
-"Nooooooooo!"<Close><End of Block>
-<TextBlock 76 w:54 h:4>
+"Whoa!"<Close><End of Block>
+<TextBlock 76 w:44 h:4>
 Khan
-"Karen, Myyah, noticed
-that Fei's memory time axis
-had increased 2 or 3 fold.<New>
-She then became convinced
-that Fei was the
-'Contact'!"<Close><End of Block>
-<TextBlock 77 w:56 h:4>
-<Opcode 14 1>
-...Yes, I was the Contact.
-That's why HE called out
-to me...<New>
-And why the time had come...<Close><End of Block>
-<TextBlock 78 w:42 h:4>
+"Realizing that Fei's
+memory-time axis had
+doubled and redoubled,<New>
+Myyah was sure.<Delay 10>
+Sure that Fei was
+'the Contact'!"<Close><End of Block>
+<TextBlock 77 w:52 h:4>
+<Opcode 14 1>...Yes, I was the Contact.<Delay 10>
+For this reason, that man
+was summoned...<New>
+and the time had come...<Close><End of Block>
+<TextBlock 78 w:46 h:4>
 Khan
-"I was a fool.
-It was all my fault.<New>
+"I was a fool.<Delay 5>
+It's all my fault.<New>
 I was so busy with my
-duties in Shevat that
-I didn't notice Karen
-had changed.<New>
-I couldn't save you
-when you needed my
-help."<Close><End of Block>
+duties for Shevat that
+I didn't notice Karen's
+transformation.<New>
+You needed my help, and
+I couldn't save you."<Close><End of Block>
 <TextBlock 79 w:36 h:4>
 Id
-"Save me? ...Hah!
-Why bother saying
-such nonsense now?<New>
-It's not going to
+"Save me!?<Delay 5>
+What's this now!?<New>
+It's too late to
 change anything!<New>
-The only thing you
-can do now is die
-by my hand!"<Close><End of Block>
-<TextBlock 80 w:52 h:3>
+All you can do now
+is be sent to
+oblivion by me!"<Close><End of Block>
+<TextBlock 80 w:36 h:4>
 Khan
-"Urrrggh!!<New>
-Even still<Delay 5>...<Delay 10>
-I'll show<Delay 5>...<Delay 5>you<Delay 5>...<Delay 10>
-that I can<Delay 5>...<Delay 5>save you<Delay 5>...!"<Close><End of Block>
-<TextBlock 81 w:10 h:1>
-Dad!!<Close><End of Block>
-<TextBlock 82 w:30 h:3>
-Stop it! Id!
-Father has done
-nothing wrong!<Close><End of Block>
-<TextBlock 83 w:38 h:2>
-I know. This one is
-the real culprit.<New>
-Mother and Father
-had no choice.<Close><End of Block>
+"Urrrggh!!<Delay 20>
+Even so<Delay 5>...<Delay 10>
+save you I shall."<Close><End of Block>
+<TextBlock 81 w:16 h:1>
+Father!!<Close><End of Block>
+<TextBlock 82 w:36 h:3>
+Stop it, Id!<Delay 5>
+Father is innocent
+in all this!<Close><End of Block>
+<TextBlock 83 w:40 h:2>
+I know.<New>
+It's this one who's
+really in the wrong.<New>
+Father and Mother
+were just catalysts.<Close><End of Block>
 <TextBlock 84 w:32 h:4>
 Grahf
 "Why don't you

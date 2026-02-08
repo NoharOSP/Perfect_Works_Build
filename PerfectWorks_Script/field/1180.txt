@@ -183,11 +183,11 @@ I don't hear anything other
 than the flowing sound of
 the sand... No suspicious
 radar activity detected!<Close><End of Block>
-<TextBlock 40 w:52 h:4>
+<TextBlock 40 w:54 h:4>
 Vance
 "I don't hear anything
-other than the surface
-wind waves and our engine.<New>
+other than wind on water
+and the roar of the engine.<New>
 Threat is minimal,
 looking at the radar
 and sonar."<Close><End of Block>

@@ -1,7 +1,7 @@
 <TextBlock 1 w:50 h:4>
 Spectators
 "Booo! Boooo!"
-"Bo~ring!"
+"Booooring!"
 "C'mon, fight properly!!"<Close><End of Block>
 <TextBlock 2 w:52 h:5>
 Spectators

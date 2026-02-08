@@ -27,7 +27,7 @@ stop their movement..."<Close><End of Block>
 Elly
 "They've stopped!?<Delay 10>
 Now's my chance!<Delay 10>
-Hya~!"<Close><End of Block>
+Hyaaaa!"<Close><End of Block>
 <TextBlock 7 w:30 h:2>
 Elly
 "Did I do it!?"<Close><End of Block>

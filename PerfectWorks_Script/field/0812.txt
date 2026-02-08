@@ -78,10 +78,10 @@ thing?<Close><End of Block>
 Peace at last! Now we
 can live without fear.<Close><End of Block>
 <TextBlock 19 w:41 h:4>
-Meat, meat, me~at!
-Get ya meat, me~at!<Delay 30>
+Meat, meat, meeeeat!
+Get ya meat, meeeeat!<Delay 30>
 Hey buddy, you gotta
-eat lotsa me~at!<Close><End of Block>
+eat lotsa meeeeat!<Close><End of Block>
 <TextBlock 20 w:52 h:6>
 Hey buddy, want some meat?
 Everything is 70G.<Delay 10>

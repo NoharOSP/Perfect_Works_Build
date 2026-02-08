@@ -381,7 +381,7 @@ Fei
 It's just a dead end!?"<Opcode 2 60><Close><End of Block>
 <TextBlock 73 w:56 h:4>
 Hammer
-"Wait, bro~! D-Doc Cita~n?
+"Wait, brooo! D-Doc Citaaan?
 Where are you going?<Delay 15>
 Hey, are you listening?"<Opcode 2 90><Close><End of Block>
 <TextBlock 74 w:30 h:2>
@@ -400,7 +400,7 @@ So, come on now, open up!"<Close><End of Block>
 <TextBlock 77 w:54 h:4>
 Weapon Lady
 "Ohhh, aaalriight!<Delay 15>
-Ooonly caaause yooou said
+Ooonly 'caaause yooou said
 yooou'd buuy soomethiing!"<Close><End of Block>
 <TextBlock 78 w:56 h:5>
 Tool Guy
@@ -543,7 +543,7 @@ on my own<Delay 5>...!<New>
 Once we leave the Imperial
 Capital's precincts, you
 can drop me off anywhere
-that is convenient, okay?"<Close><End of Block>
+that's convenient, okay?"<Close><End of Block>
 <TextBlock 105 w:22 h:2>
 Fei
 "<Delay 5>...<Delay 5>...<Delay 5>..."<Close><End of Block>
@@ -576,7 +576,7 @@ is the Kislev Imperial
 military facility...<New>
 in the 'north lands' of
 the Capital territory,
-right?<Delay 15> We had better
+right?<Delay 15> We'd better
 make haste!"<Close><End of Block>
 <TextBlock 111 w:54 h:4>
 Fei
@@ -623,17 +623,17 @@ Big Joe
 "<Delay 5>...<Delay 5>Transaction approved!
 The fun starts from here!
 Never fear, I'll be here!"<Close><End of Block>
-<TextBlock 118 w:54 h:4>
+<TextBlock 118 w:52 h:4>
 Big Joe
 "<Delay 5>...<Delay 5>Whaaat!?<Delay 15> I can't do
 business with guys who
-haven't got 5000G! So~rry!"<Close><End of Block>
+haven't got 5000G! Sorry!"<Close><End of Block>
 <TextBlock 119 w:34 h:2>
 Fei
 "Ah! Hey, wait!!"<Opcode 2 45><Close><End of Block>
 <TextBlock 120 w:52 h:4>
 Hammer
-"Bro~!<Delay 15> With these ears,
+"Broooo!<Delay 15> With these ears,
 I've picked up the latest
 information on your Gear!"<Opcode 2 90><Close><End of Block>
 <TextBlock 121 w:50 h:3>

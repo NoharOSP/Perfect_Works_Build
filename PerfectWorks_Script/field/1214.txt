@@ -15,7 +15,7 @@ right here..."<Close><End of Block>
 Fei isn't here!<Delay 10>
 I wonder where he went?<Close><End of Block>
 <TextBlock 5 w:50 h:4>
-So~rry.<Delay 10>
+Sorryyyy.<Delay 10>
 The Shevat agent is in
 intensive care...<Delay 5> So...<Delay 10>
 no visitors are allowed!!<Close><End of Block>

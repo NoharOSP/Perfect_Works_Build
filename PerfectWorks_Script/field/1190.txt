@@ -97,27 +97,26 @@ Bart
 What did you say?"<Close><End of Block>
 <TextBlock 18 w:42 h:4>
 Citan
-"Nothing... I was
-just wondering if Fei
-and Elly are okay."<Close><End of Block>
-<TextBlock 19 w:44 h:3>
+"Oh, uh, I was just
+wondering if Fei and
+Elly are alright."<Close><End of Block>
+<TextBlock 19 w:52 h:3>
 Bart
 "...<Delay 10>
-Sorry, it's my fault."<Close><End of Block>
-<TextBlock 20 w:50 h:3>
+Sorry, it's all my fault."<Close><End of Block>
+<TextBlock 20 w:42 h:3>
 Citan
 "N-No,<Delay 10>
-I did not mean to...<New>
-I am sure<Delay 10> they are fine."<Close><End of Block>
-<TextBlock 21 w:54 h:4>
+I did not mean...<New>
+It is okay,<Delay 10> I am sure
+they are quite safe."<Close><End of Block>
+<TextBlock 21 w:52 h:3>
 Bart
-"Though there's no proof to
-back it up, I feel better
-now that you said that...<New>
-Even though I know you're
-probably lying through your
-teeth to make me feel less
-worried..."<Close><End of Block>
+"There doesn't seem to be
+any basis for that at all,<New>
+but even if it's a lie
+it helps that you're
+saying it!"<Close><End of Block>
 <TextBlock 22 w:54 h:4>
 Citan
 "No, it was nothing...<Delay 10>

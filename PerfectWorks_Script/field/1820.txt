@@ -40,7 +40,7 @@ Elly
 Mo...ther..."<Close><End of Block>
 <TextBlock 12 w:28 h:2>
 Elly
-"MOTHE~~R!!"<Opcode 2 50><Close><End of Block>
+"MOTHEEERRR!!"<Opcode 2 50><Close><End of Block>
 <TextBlock 13 w:18 h:2>
 Elly
 "Father!"<Close><End of Block>

@@ -450,13 +450,12 @@ Wiseman
 still in one piece."<Close><End of Block>
 <TextBlock 74 w:44 h:4>
 Fei
-"It seemed to Grahf
-that I was still not
-powerful enough to<New>
-achieve his ultimate
-goal<Delay 5>...<Delay 5> Anyway,<Delay 15> let me
-hear more about this
-story."<Close><End of Block>
+"Apparently I'm not
+yet suitable for Grahf
+to achieve his goal.<New>
+<Delay 5>...<Delay 5>Anyway,<Delay 15> let me
+hear the next part
+of the story."<Close><End of Block>
 <TextBlock 75 w:50 h:4>
 Wiseman
 "Khan wished to go find
@@ -589,13 +588,13 @@ have to take care of<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 94 w:14 h:2>
 Wiseman
 "Yes."<Close><End of Block>
-<TextBlock 95 w:50 h:4>
+<TextBlock 95 w:40 h:4>
 Wiseman
-"The floating land
-which tries to hide
-behind a wall, protected,<New>
-as if to conceal their
-failure. That is Shevat."<Close><End of Block>
+"The floating land,
+protected by a wall,<New>
+as if to conceal
+their own misdeeds.<Delay 5>
+That is Shevat."<Close><End of Block>
 <TextBlock 96 w:44 h:3>
 Wiseman
 "That is your father's
@@ -638,14 +637,14 @@ parts is not going to
 influence the outcome...<New>
 ...Well, not as much as I
 thought before."<Close><End of Block>
-<TextBlock 103 w:48 h:4>
+<TextBlock 103 w:42 h:4>
 Citan
-"You may get a rude
-awakening if you think
-you can just win by<New>
-getting a grasp of the
-concept.<Delay 30> Do not let your
-guard down."<Close><End of Block>
+"If you think you can
+win just by having a
+grasp of the concept,<New>
+you may get a rude
+awakening.<Delay 30> Do not let
+your guard down."<Close><End of Block>
 <TextBlock 104 w:28 h:2>
 Fei
 "I know,<Delay 5> Doc."<Close><End of Block>
@@ -677,7 +676,7 @@ Fei
 Citan
 "<Delay 5>...<Delay 5>Hmmm. I do not think
 this is coincidental<Delay 5>...<Delay 5>
-<Delay 5>...<Delay 5>I am simply assuming,<Delay 5><New>
+<Delay 5>...<Delay 5>I am simply assuming,<New>
 but it is probable they
 intentionally furnished
 you with <Weltall> to
@@ -685,17 +684,17 @@ collect some data."<Close><End of Block>
 <TextBlock 111 w:32 h:2>
 Fei
 "Intentionally?"<Close><End of Block>
-<TextBlock 112 w:50 h:4>
+<TextBlock 112 w:46 h:4>
 Citan
 "Battling itself serves
 as one of Kislev's
 military plans.<New>
-From Battling, they can
-obtain various combat
-data...<New>
-...and talented Battlers
-who can be used for the
-army."<Close><End of Block>
+From Battling, they
+can obtain all manner
+of combat data,<New>
+and it seems talented
+Battlers are actually
+used for the army."<Close><End of Block>
 <TextBlock 113 w:50 h:4>
 Fei
 "Exactly what kind of
