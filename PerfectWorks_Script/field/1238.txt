@@ -169,7 +169,7 @@ Let's play again.<Close><End of Block>
  Received an Aquasol S.<Close><End of Block>
 <TextBlock 49 w:48 h:2>
  
-Received a Deathblower1.<Close><End of Block>
+Received an Atk Lv1 Max.<Close><End of Block>
 <TextBlock 50 w:30 h:2>
 Hmm, you're not
 ready yet.<Close><End of Block>
