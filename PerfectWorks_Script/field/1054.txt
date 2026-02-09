@@ -23,13 +23,11 @@ No...<Delay 5>it can't be<Delay 5>..."<Close><End of Block>
 Rico
 "That's<Delay 5>...<Delay 15>
 a Rankar!?"<Opcode 2 120><Close><End of Block>
-<TextBlock 6 w:42 h:4>
+<TextBlock 6 w:46 h:4>
 Rico
-"Crap! You gotta be
-kiddin' me!!<New>
-I'm supposed to fight
-that thing without a
-Gear!?"<Opcode 2 120><Close><End of Block>
+"Crap, you kiddin' me!?
+I'm meant to fight this
+guy without a Gear!?"<Opcode 2 100><Close><End of Block>
 <TextBlock 7 w:44 h:4>
 Rico
 "Huh?<Delay 15>
