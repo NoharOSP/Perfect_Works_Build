@@ -18,5 +18,6 @@ public:
 	void checkGoldTwo(Window* pWin, windowHandler* wh);
 	void checkItemsParty(Window* pWin, windowHandler* wh);
 	void checkMonsters(Window* pWin, windowHandler* wh);
+	void checkDeathblows(Window* pWin, windowHandler* wh);
 };
 

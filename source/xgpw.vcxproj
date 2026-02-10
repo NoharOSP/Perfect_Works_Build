@@ -160,8 +160,10 @@
   <ItemGroup>
     <ClInclude Include="applyPatch.h" />
     <ClInclude Include="arenaVerifier.h" />
+    <ClInclude Include="controlEditor.h" />
     <ClInclude Include="fileEditor.h" />
     <ClInclude Include="framework.h" />
+    <ClInclude Include="helper\gameFileTools.h" />
     <ClInclude Include="gameplayVerifier.h" />
     <ClInclude Include="graphicsVerifier.h" />
     <ClInclude Include="handleGameplay.h" />
@@ -171,6 +173,7 @@
     <ClInclude Include="main.h" />
     <ClInclude Include="makeSLUS.h" />
     <ClInclude Include="paintWindow.h" />
+    <ClInclude Include="partyStatEditor.h" />
     <ClInclude Include="patchProcessor.h" />
     <ClInclude Include="patchVerifier.h" />
     <ClInclude Include="pch.h" />
@@ -185,7 +188,12 @@
   <ItemGroup>
     <ClCompile Include="applyPatch.cpp" />
     <ClCompile Include="arenaVerifier.cpp" />
+    <ClCompile Include="controlEditor.cpp" />
     <ClCompile Include="fileEditor.cpp" />
+    <ClCompile Include="helper\gameFileTools.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">NotUsing</PrecompiledHeader>
+    </ClCompile>
     <ClCompile Include="gameplayVerifier.cpp" />
     <ClCompile Include="graphicsVerifier.cpp" />
     <ClCompile Include="handleGameplay.cpp" />
@@ -198,6 +206,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="makeSLUS.cpp" />
     <ClCompile Include="paintWindow.cpp" />
+    <ClCompile Include="partyStatEditor.cpp" />
     <ClCompile Include="patchProcessor.cpp" />
     <ClCompile Include="patchVerifier.cpp" />
     <ClCompile Include="pch.cpp">

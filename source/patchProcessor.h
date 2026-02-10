@@ -57,6 +57,8 @@ public:
 	std::string goldName = "";
 	std::string fmvPatch = "";
 	std::string cafeName = "";
+	std::string deathblowName = "";
+	std::string jpnName = "";
 	std::string exeName = "executable";
 	std::string slusDisc1 = "sub_executable\\disc1";
 	std::string slusDisc2 = "sub_executable\\disc2";

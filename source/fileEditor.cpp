@@ -203,3 +203,17 @@ void fileEditor::editSLUS(std::string romFile) {
 	// Create batch file to make a new SLUS
 	makeSLUS ms(romFile, num, pp, pWin);
 }
+
+void fileEditor::expRateEdits(std::string file) {
+	std::string trimfile = gameFileTools::fileTrim(file);
+	// Check if filename is 2607
+	if (trimfile != "2607.unk4") {
+		return;
+	}
+	std::filesystem::current_path(pWin->home);
+	std::filesystem::current_path(pp->gamefilePath);
+	std::filesystem::current_path(tempDir);
+	partyStatEditor pse;
+	pse.deathblowLevels();
+	std::filesystem::current_path(pWin->home);
+}
