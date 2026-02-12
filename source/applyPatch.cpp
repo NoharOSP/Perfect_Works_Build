@@ -138,6 +138,12 @@ void applyPatch::iterateTemp() {
 			pFE->expRateEdits(entry.path().string());
 		}
 	}
+	if (pWin->p_jpn_controls) {
+		pWin->log_file << "Applying Japanese control changes." << std::endl;
+		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+			controlEditor::battleFile(entry.path().string());
+		}
+	}
 }
 
 void applyPatch::applyFMV() {

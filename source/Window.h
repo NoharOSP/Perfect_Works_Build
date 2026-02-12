@@ -204,7 +204,7 @@ public:
 	std::ofstream log_file;
 	std::string path1 = "";
 	std::string path2 = "";
-	std::string home;
+	inline static std::string home = std::filesystem::current_path().string();
 	LPWSTR title;
 	windowHandler* pHandle;
 	paintWindow* pPaint;

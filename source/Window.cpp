@@ -10,8 +10,6 @@ Window::Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle)
 	title = szTitle;
 	pHandle = new windowHandler(this);
 	pPaint = new paintWindow(this);
-	// Initialise home directory
-	home = std::filesystem::current_path().string();
 	std::filesystem::current_path(home);
 	// Create log
 	log_file.open("pw_log.txt", std::ios::trunc);
