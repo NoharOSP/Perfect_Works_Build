@@ -11,6 +11,8 @@ class controlEditor
 {
 	// Global methods
 public:
-	static void battleFile(std::string file);
+	static void addImage(std::string file);
+	static void editData(std::string trimfile);
+	static void editBattleFile(std::string trimfile);
 };
 
