@@ -85,10 +85,10 @@ void fileEditor::editExp(std::fstream* fileContents, int i, int nextpos, wchar_t
 	fileContents->seekp(nextpos, std::ios_base::beg);
 	fileContents->read(reinterpret_cast<char*>(&buffer), 4);
 	uint64_t exp = buffer;
-	if (num == 1) {
+	if (pWin->p_expone) {
 		exp = exp * 1.5;
 	}
-	if (num == 2) {
+	if (pWin->p_exptwo) {
 		exp = exp * 2;
 	}
 	nextpos = i + data[2];
@@ -102,10 +102,10 @@ void fileEditor::editGold(std::fstream* fileContents, int i, int nextpos, wchar_
 	fileContents->seekp(nextpos, std::ios_base::beg);
 	fileContents->read(reinterpret_cast<char*>(&buffer), 2);
 	uint64_t gold = buffer;
-	if (num == 1) {
+	if (pWin->p_goldone) {
 		gold = gold * 1.5;
 	}
-	if (num == 2) {
+	if (pWin->p_goldtwo) {
 		gold = gold * 2;
 	}
 	nextpos = i + data[3];
