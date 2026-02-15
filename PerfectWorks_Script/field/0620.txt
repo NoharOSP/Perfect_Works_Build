@@ -6,38 +6,38 @@ Scissors!!<Close><End of Block>
 Paper!!<Close><End of Block>
 <TextBlock 4 w:62 h:3>
 I see you've beaten my husband!<Delay 20>
-Well, this should stifle some
-of his manic love for the game.<New>
-But now I see you've come to
-have a passion for RPS too!<Close><End of Block>
-<TextBlock 5 w:54 h:4>
-*sigh*...<Delay 20> 
+His manic love for RPS should
+die down a bit now!<New>
+But it looks like you've caught
+the RPS bug yourself!<Close><End of Block>
+<TextBlock 5 w:56 h:4>
+*sigh*...<Delay 20>
 My husband's love for the
 rock-paper-scissors, or
-'RPS' game is ruining us...<New>
-Just recently, he even said
-he had a dream of receiving
-the hero title from the
-'RPS King'...<New>
+'RPS', game is ruining us...<New>
+Just recently, he even
+said he had a dream about
+receiving the hero title
+from the 'RPS King'...<New>
 If only someone could
-utterly defeat him to
-make him see reality...<Delay 25>
+utterly defeat him, maybe
+he'll snap out of it...<Delay 25>
 But he's just so good...<Close><End of Block>
 <TextBlock 6 w:50 h:2>
-I give up.<Delay 20> I completely
-lost to you, Fei.<New>
+I give up, I give up.<Delay 20>
+I lost to you, Fei.<New>
 It just goes to show that
 I need more training.<Close><End of Block>
 <TextBlock 7 w:38 h:4>
-Uuuhh... I give up!
-It's my loss, Fei.<Delay 20>
+Urrgh... I give up!
+I lose, Fei.<Delay 20>
 Here, as promised
 I'll give you this!<Close><End of Block>
-<TextBlock 8 w:48 h:2>
+<TextBlock 8 w:40 h:2>
 Fei received the
 mythical RPS Badge!!<New>
-Although, no one has any
-idea what use it has...<Close><End of Block>
+But had no idea what
+it's useful for...<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 What the...?
 Ya don't even have 50G!<Delay 20>
@@ -49,7 +49,7 @@ to lose the next turn.<Delay 20>
 This time I'm getting
 serious... Ready?<Close><End of Block>
 <TextBlock 11 w:48 h:3>
-Tsk... Lost three times
+Tch... Lost three times
 in a row! Not bad, Fei.<Delay 20>
 But it's not over yet.<Close><End of Block>
 <TextBlock 12 w:54 h:2>
@@ -105,16 +105,16 @@ You did rock?<Close><End of Block>
 <TextBlock 26 w:32 h:3>
 Haha, seriously?
 Yesss! I win!!
-Ah-hahaha...!!<Close><End of Block>
+Ah hahaha...!!<Close><End of Block>
 <TextBlock 27 w:12 h:1>
 Rock!!<Close><End of Block>
 <TextBlock 28 w:36 h:2>
 Scissors!
 You did scissors!?<Close><End of Block>
-<TextBlock 29 w:40 h:3>
-Yesss! I win!<Delay 20> 
-I did it baby! 
-You can kiss my...!!<Close><End of Block>
+<TextBlock 29 w:38 h:3>
+Yesss! I win!<Delay 20>
+I did it, baby!
+You can kiss my<-->!!<Close><End of Block>
 <TextBlock 30 w:20 h:1>
 Scissors!!<Close><End of Block>
 <TextBlock 31 w:65 h:3>
@@ -146,7 +146,7 @@ M-Me...!? MEEEEEEEE...!!<Close><End of Block>
 <TextBlock 39 w:26 h:1>
 Received 50G.<Close><End of Block>
 <TextBlock 40 w:54 h:4>
-Guh!?
+Gah!?
 I lost four in a row!?
 How could I...!?<Delay 10> Not good!!
 If I lose the next one...!!<Close><End of Block>
@@ -159,10 +159,9 @@ Scissors!!<Close><End of Block>
 <TextBlock 43 w:30 h:2>
 Oh, paper!<Delay 20>
 You did paper!?<Close><End of Block>
-<TextBlock 44 w:48 h:3>
+<TextBlock 44 w:48 h:2>
 Yesss! I win, so pay up!<Delay 20>
-Hallebalooyah! Boy...
-that was too easy!!<Close><End of Block>
+Piece of cake, mwahaha!!<Close><End of Block>
 <TextBlock 45 w:54 h:3>
 Gyahahahaha!! Too bad, Fei!<Delay 20>
 You're a hundred years away
@@ -186,7 +185,7 @@ C'mon, cough up!<Close><End of Block>
 Lost 15G.<Close><End of Block>
 <TextBlock 51 w:56 h:2>
 Tch! Ya don't even have 15G!<Delay 20>
-What are ya, a pauper?<Delay 20> Boy!<Close><End of Block>
+What are ya, a pauper?<Close><End of Block>
 <TextBlock 52 w:48 h:2>
-Humph. 
+Hmph. 
 Well, see ya later then.<Close><Close><End of Block>
