@@ -32,7 +32,7 @@ You know I can't do that!"<Close><End of Block>
 <TextBlock 5 w:52 h:3>
 Fei
 "Alright, Dan.
-You've got it...<New>
+You got it...<New>
 I guess I'll just go and
 sweep Alice away into the
 sunset!"<Close><End of Block>
@@ -45,7 +45,7 @@ is bald and stupid too!'<Close><End of Block>
 Beware of the HP-
 gobbling Hobgobs!!<New>
 Those wishing to see the
-doctor on the mountain top
+doctor on the mountaintop
 should proceed with courage
 and conviction.<Close><End of Block>
 <TextBlock 8 w:32 h:2>
@@ -85,11 +85,11 @@ great kingdom of Av?<New>
 It's got a big capital
 city with lots of people
 living there.<New>
-My father is working
+My father's working
 somewhere in Av.<Close><End of Block>
 <TextBlock 17 w:48 h:4>
-Soon, my father is going
-to come pick mother and
+Soon, my father's going
+to come pick Mother and
 me up so that we can all
 live together in Av.<Close><End of Block>
 <TextBlock 18 w:48 h:2>
@@ -128,7 +128,7 @@ they want to...<Close><End of Block>
 <TextBlock 28 w:40 h:4>
 You know Fei...<Delay 20> Mom
 was saying that you
-might have come from
+might've come from
 a far away place...<Close><End of Block>
 <TextBlock 29 w:38 h:4>
 If you were a bird,
@@ -163,7 +163,7 @@ Dan
 "Fei, to be perfectly
 honest with you...<New>
 I've always wished
-you could have been
+you could've been
 my brother."<Close><End of Block>
 <TextBlock 35 w:50 h:4>
 Dan
@@ -250,7 +250,7 @@ Alice and Timothy's
 wedding tomorrow is
 the talk of the town.<New>
 I guess it's to be
-expected though...<Delay 20>
+expected, though...<Delay 20>
 It is one of life's
 biggest events.<Close><End of Block>
 <TextBlock 50 w:50 h:4>
@@ -262,7 +262,7 @@ There must be some
 happiness in that, but...<Delay 24>
 it gets me thinking from
 time to time.<New>
-Sometimes I wish I were
+Sometimes I wish I'd been
 born a man so I could
 travel the world and live
 an ever-changing life...<Close><End of Block>
@@ -315,7 +315,7 @@ Lately, my legs have
 gotten weaker...<Delay 20>
 It's causing me a great
 deal of trouble.<New>
-I would like to go and
+I'd like to go and
 have Doctor Uzuki take
 a look and see if he
 can help me...<New>
@@ -328,7 +328,7 @@ That Doc's eccentric!<Delay 20>
 Why else would anyone
 live up on a mountain
 peak like that?<New>
-He should have moved
+He should've moved
 closer to the village!<New>
 Fei, you're good friends
 with the Doc...<Delay 20>
@@ -338,7 +338,7 @@ to our village for us!<Close><End of Block>
 Lately, my legs have been
 giving me trouble.<Delay 20>
 It's really getting to me!<New>
-I would like to go and have
+I'd like to go and have
 Doctor Citan Uzuki take a
 look at them and tell me
 what's wrong...<New>
@@ -355,8 +355,8 @@ I...<Delay 20>I've loved her...<Delay 20>
 since I was a baby...!!<Delay 20>
 What am I supposed to do?
 How am I supposed to live!?<Close><End of Block>
-<TextBlock 62 w:42 h:1>
-<Opcode 14 2>AAAAAARRRRRGGGGHHH!!<Opcode 1 0> <Opcode 2 120><Close><End of Block>
+<TextBlock 62 w:40 h:1>
+<Opcode 14 2>AAAAAARRRRRGGGGHHH!!<Opcode 1 0><Opcode 2 120><Close><End of Block>
 <TextBlock 63 w:38 h:2>
 *sob*...<Delay 30> Life...
 can be so unfair...<Close><End of Block>
@@ -386,7 +386,7 @@ I thought I told you
 not to step on my food!<Opcode 2 60><Close><End of Block>
 <TextBlock 70 w:58 h:3>
 You know you won't come out
-in one piece if you try and
+in one piece if you try to
 pull anything with the bride!<Close><End of Block>
 <TextBlock 71 w:30 h:3>
 Hello, Fei!
@@ -431,8 +431,8 @@ gotten pretty, huh?<New>
 Come to think of it...
 Alice, Timothy and you
 were always together.<New>
-I bet you also had a
-crush on Alice too, eh?<Delay 20>
+I bet you had a crush
+on Alice too, eh?<Delay 20>
 Am I right? Hahahaha!<Close><End of Block>
 <TextBlock 77 w:46 h:4>
 Oh, hello there, Fei.<New>
@@ -443,7 +443,7 @@ came to our village...<New>
 I take it you still
 don't remember anything
 prior to your coming
-here though?<New>
+here, though?<New>
 It must be terrible
 not knowing your true
 identity and all...<New>
@@ -470,7 +470,7 @@ homemade Aquasol!<New>
 I used my special
 fertilizer in it so
 it should work real
-well! Haw-haw-haw!<Close><End of Block>
+well! Haw haw haw!<Close><End of Block>
 <TextBlock 82 w:34 h:1>
 Received Aquasol.<Close><End of Block>
 <TextBlock 83 w:40 h:3>
@@ -490,7 +490,7 @@ It's just the land,
 rain, and sun combining
 together to nurture
 these striving new lives.<New>
-We're just helping
+We're only helping
 them out.<Close><End of Block>
 <TextBlock 85 w:44 h:4>
 Pumpkinberry...

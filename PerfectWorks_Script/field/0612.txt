@@ -149,14 +149,14 @@ Dan
 <TextBlock 30 w:16 h:2>
 Dan
 "Fei..."<Opcode 2 30><Close><End of Block>
-<TextBlock 31 w:42 h:4>
+<TextBlock 31 w:40 h:4>
 Dan
-"It...<Delay 10>was because you
-just had to get in
-that monster...<New>
+"It was because...<Delay 10>
+you just had to get
+in that monster...<New>
 Alice and Timothy...<Delay 20>
 The people of the
-village are all...!!"<Close><End of Block>
+village are all<-->!!"<Close><End of Block>
 <TextBlock 32 w:48 h:3>
 Dan
 "You killed everyone

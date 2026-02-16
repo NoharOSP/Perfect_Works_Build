@@ -13,12 +13,12 @@ Well, whatever."<Close><End of Block>
 Fei
 "Well then,
 thanks for this."<Close><End of Block>
-<TextBlock 5 w:48 h:5>
+<TextBlock 5 w:42 h:5>
 Barkeep
-"Aaarh, Fei!
+"Hey, Fei!
 That's the back door!<Delay 20>
 Go around and come in
-through the front door!"<Close><End of Block>
+through the front!"<Close><End of Block>
 <TextBlock 6 w:44 h:4>
 Barkeep
 "Hey, it's Fei.
@@ -26,7 +26,7 @@ How's it going?<New>
 I ain't got any drinks
 for kids, ya know!<Delay 20> 
 Come back when you're
-older, alright!!?"<Close><End of Block>
+older, alright?"<Close><End of Block>
 <TextBlock 7 w:48 h:4>
 Barkeep
 "Here's a tip, Fei.
@@ -36,14 +36,14 @@ Behind those sweet and
 beautiful appearances
 lies a deep, dark swamp.<New>
 Before you realize it,
-you are trapped, and
+you're trapped, and
 lose your freedom.<New>
-They are the most
+They're the most
 fearsome demons
 in this world."<Close><End of Block>
-<TextBlock 8 w:32 h:4>
+<TextBlock 8 w:38 h:4>
 Barkeep
-"Hey, Ellen!<Delay 20>
+"C'mon now, Elaine!<Delay 20>
 Quit teasing the
 innocent kid!"<Close><End of Block>
 <TextBlock 9 w:44 h:5>
@@ -64,22 +64,22 @@ But you, and only you,
 must eventually face
 up to that dark wind!<Close><End of Block>
 <TextBlock 10 w:38 h:3>
-... Just kidding!<Delay 20>
+...Just kidding!<Delay 20>
 I've always wanted
 to try saying that!<New>
 Did I scare you?<Delay 10>
 I'm really sorry!
 Wahaha...<Close><End of Block>
 <TextBlock 11 w:52 h:4>
-But in reality, these
-premonitions of misfortune
-tend to take on their own
-shape once uttered.<New>
+But you know, these
+sinister premonitions
+can start to take shape
+for real once uttered.<New>
 You ought to be
 prepared...<New>
-... Hah hah! Just kidding!<Delay 20>
-It's also a joke!<Delay 20>
-Don't let it get to you.<Close><End of Block>
+...Naaaah!<Delay 20>
+Haha, that was a joke too!<Delay 20>
+Take no notice of me.<Close><End of Block>
 <TextBlock 12 w:40 h:4>
 Instead of believing
 what others say, you
@@ -89,7 +89,7 @@ After all, your
 fate will be what
 you make of it.<Close><End of Block>
 <TextBlock 13 w:48 h:4>
-But, do you want to hear
+But do you want to hear
 my prediction again? Eh?<Delay 20>
 <Opcode 1 255>    Yeah, from the top!
     No, enough already!<Close><End of Block>
@@ -103,10 +103,9 @@ How boring.<Delay 20>
 A guy like you will
 never be popular.<Close><End of Block>
 <TextBlock 16 w:38 h:4>
-Gramps always makes
-things out to be
-easier than they
-really are!<New>
+The old guy always
+talks about it like
+it was nothing.<New>
 It's actually quite
 a tremendous feat
 to get through that
@@ -123,40 +122,37 @@ South of here is the
 'Blackmoon Forest'.
 If you can make it through
 there, you'll come to Av,
-the great land of fire!<New>
+the great land of fire.<New>
 I shouldn't be wasting my
 time here in this little
 country village.
 Why, I oughta go to Av
-and work there...!<New>
+and work there...<New>
 Beautiful women and good
 liquor...<Delay 15>
 And if I work hard enough,
-I'll be rich in no time!<New>
-Hehehe...
-Wouldn't that be good!<Close><End of Block>
+I'll be rich in no time.<Delay 15>
+Hehehe...maybe I'm crazy.<Close><End of Block>
 <TextBlock 18 w:44 h:4>
-Pay no attention to
-the fool!
-He's always saying all
-this carefree stuff.<New>
-In reality, it's an
+This guy's always 
+talking about it
+so casually.<New>
+Truth is, it's an
 incredibly hard task
 to get through the
 Blackmoon Forest...<New>
 Lots of dangerous
 beasts and fearsome
 fire-eating lizards
-make their home there!<New>
+make their home there.<New>
 It'd be better for
-you to stay away
-from there!<Close><End of Block>
+you to stay away!<Close><End of Block>
 <TextBlock 19 w:52 h:5>
 If you get through the
 'Blackmoon Forest' to
-the south of here, you
-will find the kingdom of
-fire, 'Av'.<New>
+the south of here,
+you'll find the kingdom
+of fire, 'Av'.<New>
 Instead of just wasting
 away here in this little
 mountain village, I should
@@ -164,35 +160,36 @@ go have some fun in Av!<New>
 Beautiful girls, tasty
 liquor...<Delay 15>
 Why, a gentleman like
-myself is bound to draw
+myself is bound to draw in
 the babes wherever I go!<New>
-Haw-haw-haw...
-Wouldn't that be good!<Close><End of Block>
-<TextBlock 20 w:48 h:4>
+Maybe I'm crazy,
+oh ho ho...<Close><End of Block>
+<TextBlock 20 w:46 h:4>
 Have you heard the
 latest rumors!?<New>
-It's said that, in the
+It's said that in the
 southern desert of Av
-there is buried treasure
+there's buried treasure
 all over the place!<New>
 There's hundreds of
-people who are trying
-to strike it rich by
-digging everywhere!<New>
-A single strike could 
+people trying to strike
+it rich by digging
+everywhere!<New>
+A single find could 
 make you totally rich.<Close><End of Block>
-<TextBlock 21 w:42 h:3>
+<TextBlock 21 w:42 h:4>
 But then again, you
-never can tell how
-much is the truth...<New>
-In life, if it sounds
-too good to be true,
-it usually is. Bah.<Close><End of Block>
-<TextBlock 22 w:48 h:4>
-You gotta problem with
-me<Delay 5>, *hic*,<Delay 5> drinkin' at
-midday?<Delay 20> How can I not be
-drinkin'<Delay 5>...? Damn it...<Close><End of Block>
+never know how much
+to believe.<New>
+In this world, if it
+sounds too good to be
+true, it usually is.
+Bah!<Close><End of Block>
+<TextBlock 22 w:52 h:4>
+What's wrong with drinkin'
+in the daytime? *hic*<Delay 20>
+How can I not be
+drinkin'?<Delay 5> Damn it...<Close><End of Block>
 <TextBlock 23 w:44 h:6>
 Nobody knows...<Delay 10>
 In the depths...<Delay 10>
@@ -212,19 +209,19 @@ You got a problem, boy?<Delay 20>
 Hya hah hah...
 I like you, boy!<Delay 20> Now go
 away and leave me alone.<Close><End of Block>
-<TextBlock 26 w:50 h:4>
+<TextBlock 26 w:50 h:3>
 Hah!
-The feeling's mutual...<New>
-I hate nosy people!
-Since we both hate each
+The feeling's mutual...
+I hate nosy people!<New>
+Well since we hate each
 other, why don't you just
 leave me alone then, eh?<Close><End of Block>
-<TextBlock 27 w:46 h:3>
-Shut up! 
+<TextBlock 27 w:44 h:3>
+Shut up!
 What would you know!?<New>
-You don't know how I
-feel.<Delay 20> I wouldn't want
-you to know.<Delay 20> Damn it...<Close><End of Block>
+The likes of you could
+never understand how I
+feel!<Delay 20> Damn you...<Close><End of Block>
 <TextBlock 28 w:26 h:2>
 No...<Delay 15>
 Wait up, boy!<Close><End of Block>
@@ -239,7 +236,7 @@ Just take it.<Close><End of Block>
 Nobody knows...<Delay 20>
 In the depths...<Delay 15>
 of the sea...<Delay 15>
-a tear...drop...<Delay 25>
+A tear...drop...<Delay 25>
 shed by...<Delay 15>
 a mermaid...<Close><End of Block>
 <TextBlock 32 w:48 h:1>
@@ -253,19 +250,20 @@ I wonder what it was?<Close><End of Block>
 Welcome, Fei.
 You wanna have some fun?<Delay 20>
 I give the best service
-in Lahan, you know!?<Close><End of Block>
+in Lahan, you know!<Close><End of Block>
 <TextBlock 35 w:48 h:4>
-Oh my! Welcome Fei...
-You wanna have some fun?
+Oh my, welcome, Fei!
+You wanna have some fun?<Delay 20>
 I give the best service
-in Lahan, you know!?<Close><End of Block>
+in Lahan, you know!<Close><End of Block>
 <TextBlock 36 w:38 h:3>
 Yeah, yeah! I know!<Delay 20>
 It's just a joke...
 you blockhead!<Close><End of Block>
-<TextBlock 37 w:48 h:3>
+<TextBlock 37 w:48 h:4>
 Gee, he's got sharp
-hearing!<Delay 20> Anyway...<New>
+hearing!<New>
+Anyway...<Delay 20>
 (Maybe next time, okay,
 Fei!?<Delay 20> I'll be waiting...<Delay 14>
 Rowrrr!)<Close><End of Block>
@@ -276,17 +274,16 @@ Rowrrr...)<Close><End of Block>
 <TextBlock 39 w:44 h:4>
 There he goes again...<Delay 20>
 How could there be a
-mermaid in the middle
-of the sea of sand?<Close><End of Block>
+mermaid at the bottom
+of a sea of sand?<Close><End of Block>
 <TextBlock 40 w:50 h:4>
-What's this, Fei?
+Huh, Fei?
 You've never seen
 the sea of sand?<New>
-This is what the
-sea of sand is...
-It's a vast, swirling,
+The sea of sand...
+it's a vast, swirling,
 bottomless desert.<New>
 More than half the world
-is this sea of sand.<Delay 30>
+is the sea of sand.<Delay 30>
 I'm surprised you haven't
 heard anything about it.<Close><Close><End of Block>

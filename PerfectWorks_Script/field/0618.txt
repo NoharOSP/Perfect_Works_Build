@@ -1,5 +1,5 @@
-<TextBlock 1 w:44 h:4>
-Oh, hi Fei!
+<TextBlock 1 w:46 h:4>
+Oh hi, Fei!
 Welcome!<New>
 The big day's finally
 approaching, huh...?<Delay 20>
@@ -7,12 +7,12 @@ Alice and Timothy's
 wedding is tomorrow!<New>
 Hey, how about gettin'
 them a stamina drink
-of courage and love...<Delay 10>
+of courage and love...?<Delay 10>
 What do you think?<New>
 C'mon, you've gotta
-get'em a present here!<Delay 30>
+get 'em a present here!<Delay 30>
 We're the only shop
-in town, you know!?<Close><End of Block>
+in town, you know!<Close><End of Block>
 <TextBlock 2 w:48 h:2>
 Hello and welcome again!<Delay 20>
 Was there anything else?<Close><End of Block>

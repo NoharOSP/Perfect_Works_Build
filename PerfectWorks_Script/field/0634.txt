@@ -32,8 +32,8 @@ Maid
 You're looking well today."<Close><End of Block>
 <TextBlock 10 w:64 h:4>
 Maid
-"My, how time flies!<Delay 20> Why, it
-has already been three years 
+"My, how time flies!<Delay 20> Why,
+it's already been three years 
 since you came to our village...<New>
 When they first saw you brought
 in all soaked in blood, to

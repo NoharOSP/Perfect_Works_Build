@@ -5,13 +5,13 @@ I'm the village consultant.<Delay 20>
 the village chief knows far
 more than I do...<New>
 However, the chief is an
-awfully busy person, so I
-have been placed in charge
+awfully busy person, so
+I've been placed in charge
 of answering some of the
 more mundane questions.)<Close><End of Block>
 <TextBlock 2 w:54 h:5>
 As a special for this week,
-we are lecturing on our
+we're lecturing on our
 super-duper self-defense
 techniques.<Delay 20> Wouldn't you
 like to learn about them?<Close><End of Block>
@@ -97,7 +97,7 @@ When all your Action Points
 are used up, your turn will
 end. Conversely, as long as
 you have Action Points left,
-you may continue to attack.<New>
+you can continue to attack.<New>
 In other words, Action
 Points represent how many
 attacks you can perform in
@@ -124,8 +124,8 @@ Okay then, allow me to
 explain to you a little
 about attacking.<Close><End of Block>
 <TextBlock 15 w:58 h:6>
-I am sure that you already
-know that there are three
+I'm sure you already know
+that there are three
 types of attack <--> Weak,
 Strong and Fierce <--> each of
 which uses up a different
@@ -146,8 +146,8 @@ So, if you've got 3 Attack
 Points, you can combine one
 Strong attack with one Weak
 attack to total 3 points.<New>
-It is possible to keep
-pressing the <X> button to try
+It's possible to just keep
+using the <X> button to try
 obliterating enemies in one
 Fierce blow, but you may find
 that relying on this alone
@@ -165,20 +165,20 @@ allow me to explain the
 art of the combo.<Close><End of Block>
 <TextBlock 18 w:56 h:6>
 When you use the 'Attack'
-option, there are times
-when you do not use up
+option, there'll be times
+when you don't use up
 all your Action Points.<New>
 Such is the case when
 you eliminate an enemy
-by using only a portion
-of your total points, or
+using only a portion of
+your total points, or
 when you cancel midway
 through an attack turn.<New>
 Action Points that don't
 get used are stored in an
 'AP Counter'. When this AP
 Counter stores up a certain
-amount of points, you will
+amount of points, you'll
 be able to use 'Combo'.<New>
 A combo is a rapid series of
 Deathblows let loose all in
@@ -189,7 +189,7 @@ of a combo will likely die.<New>
 At low experience levels,
 you probably won't be able
 to do much combo damage.<Delay 20>
-But in time you will be able
+But in time you'll be able
 to unleash devastating
 combo attacks!<Close><End of Block>
 <TextBlock 19 w:38 h:4>
@@ -206,9 +206,9 @@ Ahem!<Delay 10>
 AHEM!<Close><End of Block>
 <TextBlock 22 w:50 h:4>
 So as not to bother other
-clients, please keep all
-personal conversations
-down to a minimum!<Close><End of Block>
+visitors, please keep
+private chitchat to a
+minimum!<Close><End of Block>
 <TextBlock 23 w:50 h:5>
 When it comes to fighting
 techniques, I tend to be
@@ -260,8 +260,8 @@ and then end with a Fierce
 blow to do some major damage!<New>
 But you must first master
 the use of Weak, Strong and
-Fierce attacks before you
-will be able to learn such
+Fierce attacks before you'll
+be able to learn such
 Deathblow Skills.<New>
 To master these attacks, you
 should keep trying to do, say,
@@ -294,8 +294,8 @@ then to the Status screen.<New>
 From the Status screen you
 can select 'Deathblows' to
 view a list of your skills,
-with meters showing the
-percentage learned so far.<New>
+with progress meters for
+those you're learning.<New>
 If one of the meters
 just doesn't seem to be
 rising, then you're
@@ -309,22 +309,22 @@ different attack patterns!<New>
 But remember this...!
 Some Deathblow Skills
 cannot be obtained until
-you have reached a certain
+you've reached a certain
 level of experience!<New>
-If you have not attained
+If you haven't attained
 that experience level, then
 it won't matter even if the
 Deathblow's meter has
 reached 100%...!<New>
-In this case, you will have
-to wait until your level of
-experience increases before
-you will be able to learn
-that Deathblow!<Close><End of Block>
+In this case, you'll have
+to wait until your level
+of experience increases
+before you can learn that
+Deathblow!<Close><End of Block>
 <TextBlock 33 w:46 h:4>
 ...And that's about it.<Delay 20>
-If you keep up in your
-studies, you're bound
+If you keep up the
+studying, you're bound
 to go far!<Close><End of Block>
 <TextBlock 34 w:52 h:4>
 Here you go...<Delay 20>
@@ -337,11 +337,11 @@ Received 80G!<Close><End of Block>
 Buy some pencils and
 books with that, okay!?<Delay 20>
 Stick with it, kid!<Close><End of Block>
-<TextBlock 37 w:52 h:4>
-Oh well... You can never
-be too old to study.<Delay 20> There
-are mountains of things to
-learn out there, young'un!<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Hmm. It's never too late
+to study, young'un!<Delay 20> There
+are mountains of things
+to learn out there.<Close><End of Block>
 <TextBlock 38 w:28 h:4>
 Don't tell me!<Delay 20>
 It's about the
@@ -377,7 +377,7 @@ the <S> button.<Delay 20> From there
 you can select the 'File'
 option, and simply follow
 the directions to save.<New>
-However, when you are in a
+However, when you're in a
 town or a dungeon, you can
 only save at designated
 Memory Cube areas.<Delay 20> Without
@@ -389,7 +389,7 @@ a 'Memory Cube', right!? You
 must be cool, calm and collected
 to superimpose yourself upon it
 and boldly open the Menu screen.
-If you accomplish that you will
+If you accomplish that you'll
 be able to save successfully.
 You should always save without
 hesitation whenever you find
@@ -397,10 +397,10 @@ one of these in the dungeon.
 In life, you can never tell
 what may lie around the corner!<Opcode 2 140><Close><End of Block>
 <TextBlock 44 w:50 h:4>
-So, what do you think?
+So, what d'you think?
 You understood everything
 perfectly, then!?<Delay 20>
-Okay, well I gotta...<New>
+Okay, well I gotta<--><New>
 Wha?
 You didn't understand?<Delay 20>
 Aww gee...<Delay 20> Well alright,
@@ -415,8 +415,8 @@ Fearlessly stand inside of
 the Cube's area then calmly
 and composedly open up the
 Menu screen! From there you
-will be able to save into a
-memory file as per usual.<New>
+can save into a memory file
+as per usual.<New>
 Especially in dungeons and
 similar areas, as soon
 as you see one of these
@@ -439,12 +439,12 @@ Dongarian monkey could
 understand my fantastic
 explanation 120%, right!?<Close><End of Block>
 <TextBlock 47 w:38 h:2>
-Hooh-ho-ho!<Delay 20>
+Hoooh ho ho!<Delay 20>
 I'm such a genius!!<Close><End of Block>
 <TextBlock 48 w:52 h:4>
 And now, about the
 explanation fee...<New>
-Ha-haa! Just kidding...<Delay 20>
+Ha haa! Just kidding...<Delay 20>
 You didn't think the great
 Lucca would be that mean,
 did you?<New>
@@ -462,7 +462,7 @@ It's 28G!<New>
 you were able to receive
 such a perfect explanation
 from the likes of me!!!<New>
-So c'mon, drop the excuses.
+So c'mon, no complaining.
 Be a man and pay up!<Close><End of Block>
 <TextBlock 51 w:46 h:1>
 Had 28G taken from you!<Close><End of Block>
@@ -524,11 +524,11 @@ I'm sure you'll see things
 you weren't able to before!<New>
 Explore the world by using
 your own eyes and ears!<Delay 20>
-That is how you make the
+That's how you make the
 gains in your life truly
 your own!<New>
 If you're lost, then be
-lost!<Delay 20> There is no need to
+lost!<Delay 20> There's no need to
 rush, is there?<Delay 20> Nor do you
 have to explore the world
 using someone else's maps!<Close><End of Block>

@@ -32,8 +32,8 @@ motivated and encouraged
 me when I needed it most.<New>
 If the two of you hadn't
 been there for me, I 
-don't know what would
-have happened..."<Close><End of Block>
+don't know what would've
+happened..."<Close><End of Block>
 <TextBlock 5 w:42 h:4>
 Fei
 "Timothy...<Delay 20>
@@ -72,8 +72,9 @@ Timothy
 can't believe we're really
 getting married tomorrow!<New>
 It's such a weird feeling.<Delay 30>
-We've been together since
-we were little kids..."<Close><End of Block>
+I guess 'cause she and I
+have known each other
+since we were kids..."<Close><End of Block>
 <TextBlock 12 w:46 h:4>
 Timothy
 "Could you go check up
@@ -208,8 +209,8 @@ Chief Lee
 "We still have many
 important things to
 talk about...<New>
-So you had better
-not bother us now."<Close><End of Block>
+So you'd better not
+bother us, now."<Close><End of Block>
 <TextBlock 32 w:46 h:4>
 Timothy's Father
 "Hello there, Fei.<New>
@@ -234,7 +235,7 @@ bringing up a little girl!"<Close><End of Block>
 <TextBlock 34 w:18 h:1>
 *sigh*...<Opcode 2 20><Close><End of Block>
 <TextBlock 35 w:56 h:3>
-Y'know, Fei, I am sure that
+Y'know, Fei, I'm sure that
 our village chief thinks of
 you as his own grandson...<New>
 Not having any family for
