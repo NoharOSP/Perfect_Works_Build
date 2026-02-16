@@ -115,5 +115,13 @@ void patchVerifier::titleVerify() {
 
 void patchVerifier::jpnVerify() {
 	pWin->log_file << "Japanese control directory found." << std::endl;
-	pp->jpnName = "control_files";
+	if (!pWin->p_items_spells && !pWin->p_script) {
+		pp->jpnName = "control_files";
+	}
+	if (!pWin->p_script && pWin->p_items_spells) {
+		pp->jpnName = "jpn_items";
+	}
+	if (pWin->p_script) {
+		pp->jpnName = "jpn_script";
+	}
 }
