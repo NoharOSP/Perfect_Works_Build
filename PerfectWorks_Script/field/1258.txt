@@ -82,7 +82,7 @@ Ahem.<Close><End of Block>
 Saying that makes
 me want to tell you
 even more... Awww.<Close><End of Block>
-<TextBlock 18 w:42 h:3>
+<TextBlock 18 w:44 h:3>
 You want Billy?<Delay 10>
 You should go to the
 Church's headquarters.<Close><End of Block>
@@ -139,7 +139,7 @@ Isn't there any fresh air
 around here?<New>
 If there is I want to
 inhale till I'm full.<Close><End of Block>
-<TextBlock 35 w:42 h:3>
+<TextBlock 35 w:44 h:3>
 You want Billy?<Delay 10>
 You should go to the
 Church's headquarters.<Close><End of Block>
@@ -176,7 +176,7 @@ come when you call them.<Close><End of Block>
 <TextBlock 45 w:36 h:2>
 Hmmphh,<Delay 30> Billy said
 the same thing.<Close><End of Block>
-<TextBlock 46 w:42 h:3>
+<TextBlock 46 w:44 h:3>
 You want Billy?<Delay 10>
 You should go to the
 Church's headquarters.<Close><End of Block>
