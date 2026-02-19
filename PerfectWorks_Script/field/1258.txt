@@ -287,17 +287,16 @@ to do the usual?"<Close><End of Block>
 Billy
 "Right,<Delay 10> no problem.<Delay 10>
 Leave it to me, Bishop."<Close><End of Block>
-<TextBlock 78 w:44 h:4>
+<TextBlock 78 w:52 h:4>
 Bishop Stone
 "Thank you.<New>
 Its position is
 northeast of here.
-But please be careful.
-It's a dangerous part<New>
-of the sea, with fast-
-flowing currents that
-even nearby salvagers
-try to avoid.<New>
+But please be careful.<New>
+It's a dangerous part of
+the sea, with fast-flowing
+currents that even nearby
+salvagers try to avoid.<New>
 If possible you should
 head there in a large
 boat or something..."<Close><End of Block>
@@ -342,7 +341,7 @@ I can handle it alone."<Close><End of Block>
 <TextBlock 84 w:44 h:3>
 Elly
 "But isn't that place
-dangerous? If there is
+dangerous? If there's
 anything we can do..."<Close><End of Block>
 <TextBlock 85 w:40 h:4>
 Billy
