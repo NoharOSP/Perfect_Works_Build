@@ -57,12 +57,12 @@ struct tipDesc {
 		"Additional tweaks tailored to \n"
 		"improve the PVP experience in 2P mode.\n";
 	char text_resize[255] =
-		"Fixes graphical bugs with character portraits\n"
-		"and corrects proportions when running the\n" 
-		"game at its native aspect ratio (approx 3:2).\n" 
-		"If your emulator or scaler stretches the\n" 
-		"aspect ratio to 4:3, or you're using a texture\n" 
-		"hack, you do not need this fix.\n";
+		"Fixes bugs with portraits and corrects\n"
+		"proportions when running the game at its\n" 
+		"native aspect ratio (approx 3:2, letterboxed\n"
+		"within a 10:7 display aspect ratio). Avoid if\n" 
+		"your emulator stretches the aspect ratio\n" 
+		"to 4:3, or you're using a texture hack.\n";
 	char text_fmvs[255] =
 		"Changes the FMVs so that they use\n"
 		"the Japanese audio and subtitles\n"
