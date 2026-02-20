@@ -142,6 +142,7 @@ void applyPatch::iterateTemp() {
 		pWin->log_file << "Applying Japanese control changes." << std::endl;
 		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
 			controlEditor::addImage(entry.path().string());
+			controlEditor::editExecutable(entry.path().string());
 		}
 	}
 }

@@ -59,3 +59,40 @@ void controlEditor::editBattleFile(std::string trimfile) {
 	}
 	std::filesystem::current_path(Window::home);
 }
+
+// TODO: Fix bug where 0022 won't be edited
+void controlEditor::editExecutable(std::string file) {
+	std::string trimfile = gameFileTools::fileTrim(file);
+	// Check if filename is 0022
+	if (trimfile == "0022") {
+		std::filesystem::current_path(Window::home);
+		// Read data documenting control differences and put it into vectors
+		std::vector<int> offsets;
+		std::vector<int> values;
+		std::string line;
+		std::fstream exedata;
+		exedata.open(exediff);
+		while (getline(exedata, line)) {
+			int pos = line.find(",");
+			std::string offset = line.substr(0, pos);
+			offsets.emplace_back(stoi(line));
+			std::string value = line.substr(pos + 1);
+			values.emplace_back(stoi(value));
+		}
+		exedata.close();
+		// Open file
+		std::filesystem::current_path(patchProcessor::gamefilePath);
+		std::filesystem::current_path(applyPatch::temp);
+		std::fstream fileContents;
+		fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
+		// Edit file
+		for (int i = 0; i < offsets.size(); i++) {
+			fileContents.seekp(offsets[i], std::ios_base::beg);
+			fileContents.write(reinterpret_cast <char*>(&values[i]), 2);
+		}
+		std::filesystem::current_path(Window::home);
+	}
+	else {
+		return;
+	}
+}
