@@ -101,6 +101,15 @@ struct tipDesc {
 		"sprite over her nanoreactor\n"
 		"one when eating at the Aveh\n"
 		"cafe.\n";
+	char text_deathblow[255] =
+		"Removes level requirements from\n"
+		"Deathblows. While button combos\n"
+		"are still required to learn the\n"
+		"Deathblow, the player can try to\n"
+		"learn any of them as soon as the\n"
+		"game begins.\n";
+	char text_jpn_control[255] =
+		"To be written.\n";
 };
 
 class windowHandler;
@@ -143,6 +152,7 @@ public:
 	HWND gold2;
 	HWND itemspells;
 	HWND monsters;
+	HWND deathblows;
 	HWND normalarena;
 	HWND basicarena;
 	HWND expertarena;
@@ -151,6 +161,7 @@ public:
 	HWND fmvs;
 	HWND voice;
 	HWND storyMode;
+	HWND jpnControls;
 	HINSTANCE winInst;
 	int winX;
 	int winY;
@@ -188,10 +199,12 @@ public:
 	bool p_goldtwo = false;
 	bool p_roni = false;
 	bool p_cafe = false;
+	bool p_deathblow = false;
+	bool p_jpn_controls = false;
 	std::ofstream log_file;
 	std::string path1 = "";
 	std::string path2 = "";
-	std::string home;
+	inline static std::string home = std::filesystem::current_path().string();
 	LPWSTR title;
 	windowHandler* pHandle;
 	paintWindow* pPaint;

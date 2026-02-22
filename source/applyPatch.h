@@ -8,6 +8,7 @@
 #include "Window.h"
 #include "patchProcessor.h"
 #include "fileEditor.h"
+#include "controlEditor.h"
 
 class Window;
 class patchProcessor;
@@ -36,7 +37,7 @@ public:
 	std::string oldPath;
 	std::string cueName;
 	std::string cdName;
-	std::string temp = "temp";
+	inline static std::string temp = "temp";
 	bool patched = false;
 	Window* pWin;
 	int num;

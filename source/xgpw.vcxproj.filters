@@ -81,6 +81,12 @@
     <ClInclude Include="makeSLUS.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="partyStatEditor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="controlEditor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="helper\gameFileTools.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -141,6 +147,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="makeSLUS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="partyStatEditor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="controlEditor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="helper\gameFileTools.cpp">

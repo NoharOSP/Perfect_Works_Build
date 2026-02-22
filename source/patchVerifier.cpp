@@ -44,6 +44,7 @@ void patchVerifier::verify() {
 		av.~arenaVerifier();
 		gamv.encounterVerify(pWin, pp, num);
 		gamv.itemSpellVerify(pWin, pp, num);
+		gamv.deathblowVerify(pWin, pp);
 	}
 	sv.fastVerify(pWin, pp, num);
 	sv.scriptVerify(pWin, pp, num);
@@ -57,6 +58,7 @@ void patchVerifier::verify() {
 	grav.~graphicsVerifier();
 	gamv.~gameplayVerifier();
 	sv.~storyVerifier();
+	jpnVerify();
 }
 
 bool patchVerifier::storyModeVerify() {
@@ -109,4 +111,17 @@ bool patchVerifier::bugVerify() {
 void patchVerifier::titleVerify() {
 	pWin->log_file << "Title screen directory found." << std::endl;
 	pp->titleName = "title_screen";
+}
+
+void patchVerifier::jpnVerify() {
+	pWin->log_file << "Japanese control directory found." << std::endl;
+	if (!pWin->p_items_spells && !pWin->p_script) {
+		pp->jpnName = "control_files";
+	}
+	if (!pWin->p_script && pWin->p_items_spells) {
+		pp->jpnName = "jpn_items";
+	}
+	if (pWin->p_script) {
+		pp->jpnName = "jpn_script";
+	}
 }

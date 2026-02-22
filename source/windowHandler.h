@@ -19,6 +19,7 @@ public:
 	void checkFMV();
 	void checkVoice();
 	void checkStoryMode();
+	void checkJpnControls();
 
 	// Global variables
 public:
