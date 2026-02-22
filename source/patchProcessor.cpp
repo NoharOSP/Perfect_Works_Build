@@ -78,6 +78,7 @@ void patchProcessor::initialisePatchLists() {
 	pWin->log_file << "Initialise patch names." << std::endl;
 	patchList.emplace_back(encountersName);
 	patchList.emplace_back(itemspellsName);
+	patchList.emplace_back(jpnName);
 	patchList.emplace_back(fastName);
 	patchList.emplace_back(scriptName);
 	patchList.emplace_back(fmvName);
@@ -95,7 +96,6 @@ void patchProcessor::initialisePatchLists() {
 	patchList.emplace_back(roniName);
 	patchList.emplace_back(cafeName);
 	patchList.emplace_back(deathblowName);
-	patchList.emplace_back(jpnName);
 }
 
 bool patchProcessor::oneDriveCheck() {

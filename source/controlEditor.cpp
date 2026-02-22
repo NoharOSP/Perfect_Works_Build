@@ -37,7 +37,7 @@ void controlEditor::editData(std::string trimfile) {
 	}
 	// Remove decompressed files
 	remove("file0"), remove("file1"), remove("file2"), remove("file3"), remove("file4"), remove("file5"), remove("file6"), remove("file7");
-	std::filesystem::current_path(Window::home);
+	std::filesystem::current_path("..\\");
 }
 
 void controlEditor::editBattleFile(std::string trimfile) {
@@ -57,10 +57,10 @@ void controlEditor::editBattleFile(std::string trimfile) {
 		std::string fileName = "file" + num;
 		remove(fileName.c_str());
 	}
-	std::filesystem::current_path(Window::home);
+	std::filesystem::current_path("..\\");
 }
 
-// TODO: Fix bug where 0022 won't be edited
+// TODO: Check changes against FMVs
 void controlEditor::editExecutable(std::string file) {
 	std::string trimfile = gameFileTools::fileTrim(file);
 	// Check if filename is 0022
@@ -77,20 +77,20 @@ void controlEditor::editExecutable(std::string file) {
 			std::string offset = line.substr(0, pos);
 			offsets.emplace_back(stoi(line));
 			std::string value = line.substr(pos + 1);
-			values.emplace_back(stoi(value));
+			values.emplace_back(stoi(value, nullptr, 16));
 		}
 		exedata.close();
 		// Open file
 		std::filesystem::current_path(patchProcessor::gamefilePath);
 		std::filesystem::current_path(applyPatch::temp);
 		std::fstream fileContents;
-		fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
+		fileContents.open(trimfile, std::ios::in | std::ios::out | std::ios::binary);
 		// Edit file
 		for (int i = 0; i < offsets.size(); i++) {
 			fileContents.seekp(offsets[i], std::ios_base::beg);
 			fileContents.write(reinterpret_cast <char*>(&values[i]), 2);
 		}
-		std::filesystem::current_path(Window::home);
+		std::filesystem::current_path("..\\");
 	}
 	else {
 		return;

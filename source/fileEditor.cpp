@@ -142,8 +142,8 @@ void fileEditor::exeEdits(std::string file) {
 	fileContents.seekp(151908, std::ios_base::beg);
 	int speed = 0x05;
 	fileContents.write(reinterpret_cast <char*>(&speed), 2);
-	// Apply additional FMV version edits
-	if (pp->fmvName != "") {
+	// Apply additional FMV or control edits
+	if (pp->jpnName != "" || pp->fmvName != "") {
 		fileContents.seekp(151911, std::ios_base::beg);
 		int nextval = 0x34;
 		fileContents.write(reinterpret_cast <char*>(&nextval), 2);
@@ -181,6 +181,7 @@ void fileEditor::battleExeEdits(std::string file) {
 	std::filesystem::current_path(pp->gamefilePath);
 	std::filesystem::current_path(tempDir);
 	remove("0038.dec");
+	std::filesystem::current_path("..\\");
 }
 
 void fileEditor::editSLUS(std::string romFile) {
@@ -215,5 +216,5 @@ void fileEditor::expRateEdits(std::string file) {
 	std::filesystem::current_path(tempDir);
 	partyStatEditor pse;
 	pse.deathblowLevels();
-	std::filesystem::current_path(pWin->home);
+	std::filesystem::current_path("..\\");
 }

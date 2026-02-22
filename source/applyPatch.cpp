@@ -101,10 +101,6 @@ void applyPatch::createTemp() {
 				// Copy executable to temp
 				if (!pWin->p_fmv) {
 					std::filesystem::copy(pp->exeName, temp, std::filesystem::copy_options::update_existing);
-					pWin->log_file << "Applying text speed change to game's executable." << std::endl;
-					for (const auto& entry : std::filesystem::directory_iterator(temp)) {
-						pFE->exeEdits(entry.path().string());
-					}
 				}
 			}
 			std::filesystem::copy(pp->patchList[i], temp, std::filesystem::copy_options::update_existing);
@@ -143,6 +139,14 @@ void applyPatch::iterateTemp() {
 		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
 			controlEditor::addImage(entry.path().string());
 			controlEditor::editExecutable(entry.path().string());
+		}
+	}
+	if (pWin->p_fastnew || pWin->p_fastold) {
+		if (!pWin->p_fmv) {
+			pWin->log_file << "Applying text speed change to game's executable." << std::endl;
+			for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+				pFE->exeEdits(entry.path().string());
+			}
 		}
 	}
 }
