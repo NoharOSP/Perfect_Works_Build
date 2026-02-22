@@ -3,7 +3,7 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 
 Download the latest release here:
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.9.1
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.9.2
   
 ## Instructions
 
@@ -29,8 +29,8 @@ WARNING: When a ROM has been made, do not resume progress by loading a save stat
 ## Completion stats
 
 - Name/terminology changes: 100%
-- Main script: 89% (up to the arrival at Bethlehem)
-- NPC script: Not done (except for name/terminology changes)
+- Main script: 91% (up to the Wave Existence)
+- NPC script: 5% (plus all name/terminology changes)
 
 ## Introduction
 
@@ -41,6 +41,31 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The 2x exp and gold patches were designed to work with the lower encounter rate patch. The monster stats and party/item patch both act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history
+
+### Version 0.9.2
+
+02/22/2026
+
+- Script edits up to Fei and Id's unification have been completed.
+- 2x exp and gold bug with the patcher where values are still multiplied by 1.5x has been resolved.
+- Tutorials for Gear Deathblow functions have been added.
+- The attack multipliers for the Gears have been rebalanced. Details are in the wiki.
+- Bart's Gear Deathblows have been reorganised. Details are in the wiki.
+- Made the relationship between the portrait options clearer on the patcher.
+- Sword Knight R and Shield Knight R have been abbreviated.
+- Deathblowers have been renamed to Atk LvX Max, with X indicating attack level.
+- DeathblowX has been renamed to UltimaSwitch.
+- Completion message gives an indicator of the file names of the patched ROMs.
+- Added missing portraits during the Rankar encounter.
+- Added missing portraits for Rico and Hammer in the Yggdrasil.
+- Fixed camera bug in the baptism ceremony.
+- Fixed sleep music cut off in the prison dorm.
+- EtherStone and EtherStoneLg have had price and shop placement edits. Details are in the wiki.
+- Position of the coward's dialogue boxes has been fixed.
+- Lahan's NPC script has been checked.
+- Fixed a dialogue box bug in Billy's room.
+- Ravine has been renamed to Lawine.
+- Fixed bugs with dialogue boxes and character orientation at the Orphanage.
 
 ### Version 0.9.1
 
