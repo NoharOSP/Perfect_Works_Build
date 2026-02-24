@@ -186,7 +186,7 @@ void fileEditor::battleExeEdits(std::string file) {
 
 void fileEditor::editSLUS(std::string romFile) {
 	// Insert new SLUS
-	if (pp->fastName != "") {
+	if (pp->fastName != "" || pp->jpnName != "") {
 		// Add fast text to softsubs SLUS
 		std::filesystem::current_path(pp->gamefilePath);
 		if (num == 1) {
@@ -195,9 +195,17 @@ void fileEditor::editSLUS(std::string romFile) {
 		if (num == 2) {
 			std::filesystem::copy(pp->slusDisc2, tempDir, std::filesystem::copy_options::update_existing);
 		}
-		pWin->log_file << "Applying text speed change to game's executable." << std::endl;
-		for (const auto& entry : std::filesystem::directory_iterator(tempDir)) {
-			exeEdits(entry.path().string());
+		if (pp->jpnName != "") {
+			pWin->log_file << "Applying control edits to game's executable." << std::endl;
+			for (const auto& entry : std::filesystem::directory_iterator(tempDir)) {
+				controlEditor::editExecutable(entry.path().string());
+			}
+		}
+		if (pp->fastName != "") {
+			pWin->log_file << "Applying text speed change to game's executable." << std::endl;
+			for (const auto& entry : std::filesystem::directory_iterator(tempDir)) {
+				exeEdits(entry.path().string());
+			}
 		}
 		std::filesystem::current_path(pWin->home);
 	}

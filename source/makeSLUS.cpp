@@ -6,7 +6,7 @@ makeSLUS::makeSLUS(std::string romFile, int num, patchProcessor* pp, Window* pWi
 	pWin->log_file << "Creating new SLUS file." << std::endl;
 	batch_file2.open("commands2.cmd", std::ios::trunc);
 	if (num == 1) {
-		if (pp->fastName != "") {
+		if (pp->fastName != "" || pp->jpnName != "") {
 			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\temp\\SLUS_006.64" << std::endl;
 		}
 		else {

@@ -1,8 +1,6 @@
 #include "pch.h"
 #include "applyPatch.h"
 
-// TODO: Fix FMV bug
-
 applyPatch::applyPatch(Window* win, int discNum, patchProcessor* processor) {
 	pWin = win;
 	num = discNum;
@@ -97,7 +95,7 @@ void applyPatch::createTemp() {
 	pWin->log_file << "Copy files from each selected option into the temporary directory." << std::endl;
 	for (int i = 0; i < pp->patchList.size(); i++) {
 		if (pp->patchList[i] != "" && pp->patchList[i] != pp->fmvPatch) {
-			if (pp->patchList[i] == pp->fastName) {
+			if (pp->patchList[i] == pp->fastName || pp->patchList[i] == pp->jpnName) {
 				// Copy executable to temp
 				if (!pWin->p_fmv) {
 					std::filesystem::copy(pp->exeName, temp, std::filesystem::copy_options::update_existing);
@@ -138,7 +136,9 @@ void applyPatch::iterateTemp() {
 		pWin->log_file << "Applying Japanese control changes." << std::endl;
 		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
 			controlEditor::addImage(entry.path().string());
-			controlEditor::editExecutable(entry.path().string());
+			if (!pWin->p_fmv) {
+				controlEditor::editExecutable(entry.path().string());
+			}
 		}
 	}
 	if (pWin->p_fastnew || pWin->p_fastold) {

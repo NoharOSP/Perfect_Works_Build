@@ -60,11 +60,10 @@ void controlEditor::editBattleFile(std::string trimfile) {
 	std::filesystem::current_path("..\\");
 }
 
-// TODO: Check changes against FMVs
 void controlEditor::editExecutable(std::string file) {
 	std::string trimfile = gameFileTools::fileTrim(file);
-	// Check if filename is 0022
-	if (trimfile == "0022") {
+	// Check if filename is 0022 or uses a SLUS prefix
+	if (trimfile == "0022" || (trimfile == "SLUS_006.64" || trimfile == "SLUS_006.69")) {
 		std::filesystem::current_path(Window::home);
 		// Read data documenting control differences and put it into vectors
 		std::vector<int> offsets;
