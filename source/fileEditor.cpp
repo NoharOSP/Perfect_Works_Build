@@ -116,9 +116,17 @@ void fileEditor::editGold(std::fstream* fileContents, int i, int nextpos, wchar_
 void fileEditor::exeEdits(std::string file) {
 	std::string trimfile = gameFileTools::fileTrim(file);
 	if (pp->fmvName == "") {
-		// Check if filename is 0022
-		if (trimfile != "0022") {
-			return;
+		if (num == 1) {
+			// Check if filename is 0022
+			if (trimfile != "0022") {
+				return;
+			}
+		}
+		if (num == 2) {
+			// Check if filename is 0017
+			if (trimfile != "0017") {
+				return;
+			}
 		}
 	}
 	else {
@@ -135,6 +143,10 @@ void fileEditor::exeEdits(std::string file) {
 			}
 		}
 	}
+	editTextSpeed(file);
+}
+
+void fileEditor::editTextSpeed(std::string file) {
 	// Open file
 	std::fstream fileContents;
 	fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
@@ -142,12 +154,9 @@ void fileEditor::exeEdits(std::string file) {
 	fileContents.seekp(151908, std::ios_base::beg);
 	int speed = 0x05;
 	fileContents.write(reinterpret_cast <char*>(&speed), 2);
-	// Apply additional FMV or control edits
-	if (pp->jpnName != "" || pp->fmvName != "") {
-		fileContents.seekp(151911, std::ios_base::beg);
-		int nextval = 0x34;
-		fileContents.write(reinterpret_cast <char*>(&nextval), 2);
-	}
+	fileContents.seekp(151911, std::ios_base::beg);
+	int nextval = 0x34;
+	fileContents.write(reinterpret_cast <char*>(&nextval), 2);
 	// Close file
 	fileContents.close();
 }

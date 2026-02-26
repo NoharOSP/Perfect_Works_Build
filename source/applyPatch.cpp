@@ -98,7 +98,16 @@ void applyPatch::createTemp() {
 			if (pp->patchList[i] == pp->fastName || pp->patchList[i] == pp->jpnName) {
 				// Copy executable to temp
 				if (!pWin->p_fmv) {
-					std::filesystem::copy(pp->exeName, temp, std::filesystem::copy_options::update_existing);
+					if (num == 1) {
+						std::filesystem::copy(patchProcessor::exeName1, temp, std::filesystem::copy_options::update_existing);
+					}
+					if (num == 2) {
+						std::filesystem::copy(patchProcessor::exeName2, temp, std::filesystem::copy_options::update_existing);
+					}
+					pWin->log_file << "Applying text speed change to game's executable." << std::endl;
+					for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+						pFE->exeEdits(entry.path().string());
+					}
 				}
 			}
 			std::filesystem::copy(pp->patchList[i], temp, std::filesystem::copy_options::update_existing);
