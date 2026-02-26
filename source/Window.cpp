@@ -10,8 +10,6 @@ Window::Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle)
 	title = szTitle;
 	pHandle = new windowHandler(this);
 	pPaint = new paintWindow(this);
-	// Initialise home directory
-	home = std::filesystem::current_path().string();
 	std::filesystem::current_path(home);
 	// Create log
 	log_file.open("pw_log.txt", std::ios::trunc);
@@ -27,16 +25,16 @@ Window::~Window() {
 
 void Window::initialise() {
 	// Create windows for ROM paths
-	cd1path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.05), 500, 25, winHwnd, NULL, winInst, NULL);
-	cd2path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.12), 500, 25, winHwnd, NULL, winInst, NULL);
+	cd1path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.03), 500, 25, winHwnd, NULL, winInst, NULL);
+	cd2path = CreateWindow(L"EDIT", NULL, WS_BORDER | WS_CHILD | WS_VISIBLE | ES_AUTOHSCROLL, (int)(winX * 0.15), (int)(winY * 0.09), 500, 25, winHwnd, NULL, winInst, NULL);
 	// Put in window list
 	pathList.emplace_back(cd1path);
 	pathList.emplace_back(cd2path);
 	// Create buttons
-	browsebutton1 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.05), 70, 25, winHwnd, (HMENU)9001, winInst, NULL);
-	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.12), 70, 25, winHwnd, (HMENU)9001, winInst, NULL);
+	browsebutton1 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.03), 70, 25, winHwnd, (HMENU)9001, winInst, NULL);
+	browsebutton2 = CreateWindow(L"BUTTON", L"Browse", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.09), 70, 25, winHwnd, (HMENU)9001, winInst, NULL);
 	aboutbutton = CreateWindow(L"BUTTON", L"About", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.87), 70, 25, winHwnd, (HMENU)104, winInst, NULL);
-	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.20), 70, 25, winHwnd, (HMENU)9003, winInst, NULL);
+	patchbutton = CreateWindow(L"BUTTON", L"Patch", WS_CHILD | WS_VISIBLE, (int)(winX * 0.85), (int)(winY * 0.15), 70, 25, winHwnd, (HMENU)9003, winInst, NULL);
 	// Put in window list
 	buttonList.emplace_back(browsebutton1);
 	buttonList.emplace_back(browsebutton2);
@@ -120,6 +118,7 @@ void Window::tooltipTextMaker() {
 	HWND tt_goldtwo = toolGenerator(tips.text_goldtwo, winHwnd, gold2, winInst).hWndTT;
 	HWND tt_itemspells = toolGenerator(tips.text_itemspells, winHwnd, itemspells, winInst).hWndTT;
 	HWND tt_monsters = toolGenerator(tips.text_monsters, winHwnd, monsters, winInst).hWndTT;
+	HWND tt_deathblows = toolGenerator(tips.text_deathblow, winHwnd, deathblows, winInst).hWndTT;
 	// Arena
 	HWND tt_barena = toolGenerator(tips.text_barena, winHwnd, basicarena, winInst).hWndTT;
 	HWND tt_earena = toolGenerator(tips.text_earena, winHwnd, expertarena, winInst).hWndTT;
@@ -132,6 +131,7 @@ void Window::tooltipTextMaker() {
 	HWND tt_voice = toolGenerator(tips.text_voices, winHwnd, voice, winInst).hWndTT;
 	// Mode
 	HWND tt_story_mode = toolGenerator(tips.text_story_mode, winHwnd, storyMode, winInst).hWndTT;
+	HWND tt_jpn_controls = toolGenerator(tips.text_jpn_control, winHwnd, jpnControls, winInst).hWndTT;
 }
 
 void Window::openFile(HWND hWnd) {

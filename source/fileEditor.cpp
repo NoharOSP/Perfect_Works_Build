@@ -154,12 +154,9 @@ void fileEditor::editTextSpeed(std::string file) {
 	fileContents.seekp(151908, std::ios_base::beg);
 	int speed = 0x05;
 	fileContents.write(reinterpret_cast <char*>(&speed), 2);
-	// Apply additional FMV version edits
-	if (pp->fmvName != "" || num == 2) {
-		fileContents.seekp(151911, std::ios_base::beg);
-		int nextval = 0x34;
-		fileContents.write(reinterpret_cast <char*>(&nextval), 2);
-	}
+	fileContents.seekp(151911, std::ios_base::beg);
+	int nextval = 0x34;
+	fileContents.write(reinterpret_cast <char*>(&nextval), 2);
 	// Close file
 	fileContents.close();
 }
@@ -193,11 +190,12 @@ void fileEditor::battleExeEdits(std::string file) {
 	std::filesystem::current_path(pp->gamefilePath);
 	std::filesystem::current_path(tempDir);
 	remove("0038.dec");
+	std::filesystem::current_path("..\\");
 }
 
 void fileEditor::editSLUS(std::string romFile) {
 	// Insert new SLUS
-	if (pp->fastName != "") {
+	if (pp->fastName != "" || pp->jpnName != "") {
 		// Add fast text to softsubs SLUS
 		std::filesystem::current_path(pp->gamefilePath);
 		if (num == 1) {
@@ -206,12 +204,34 @@ void fileEditor::editSLUS(std::string romFile) {
 		if (num == 2) {
 			std::filesystem::copy(pp->slusDisc2, tempDir, std::filesystem::copy_options::update_existing);
 		}
-		pWin->log_file << "Applying text speed change to game's executable." << std::endl;
-		for (const auto& entry : std::filesystem::directory_iterator(tempDir)) {
-			exeEdits(entry.path().string());
+		if (pp->jpnName != "") {
+			pWin->log_file << "Applying control edits to game's executable." << std::endl;
+			for (const auto& entry : std::filesystem::directory_iterator(tempDir)) {
+				controlEditor::editExecutable(entry.path().string());
+			}
+		}
+		if (pp->fastName != "") {
+			pWin->log_file << "Applying text speed change to game's executable." << std::endl;
+			for (const auto& entry : std::filesystem::directory_iterator(tempDir)) {
+				exeEdits(entry.path().string());
+			}
 		}
 		std::filesystem::current_path(pWin->home);
 	}
 	// Create batch file to make a new SLUS
 	makeSLUS ms(romFile, num, pp, pWin);
+}
+
+void fileEditor::expRateEdits(std::string file) {
+	std::string trimfile = gameFileTools::fileTrim(file);
+	// Check if filename is 2607
+	if (trimfile != "2607.unk4") {
+		return;
+	}
+	std::filesystem::current_path(pWin->home);
+	std::filesystem::current_path(pp->gamefilePath);
+	std::filesystem::current_path(tempDir);
+	partyStatEditor pse;
+	pse.deathblowLevels();
+	std::filesystem::current_path("..\\");
 }

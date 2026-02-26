@@ -95,7 +95,7 @@ void applyPatch::createTemp() {
 	pWin->log_file << "Copy files from each selected option into the temporary directory." << std::endl;
 	for (int i = 0; i < pp->patchList.size(); i++) {
 		if (pp->patchList[i] != "" && pp->patchList[i] != pp->fmvPatch) {
-			if (pp->patchList[i] == pp->fastName) {
+			if (pp->patchList[i] == pp->fastName || pp->patchList[i] == pp->jpnName) {
 				// Copy executable to temp
 				if (!pWin->p_fmv) {
 					if (num == 1) {
@@ -133,6 +133,29 @@ void applyPatch::iterateTemp() {
 		pWin->log_file << "Applying battle executable changes." << std::endl;
 		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
 			pFE->battleExeEdits(entry.path().string());
+		}
+	}
+	if (pWin->p_deathblow) {
+		pWin->log_file << "Applying ability learning level changes." << std::endl;
+		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+			pFE->expRateEdits(entry.path().string());
+		}
+	}
+	if (pWin->p_jpn_controls) {
+		pWin->log_file << "Applying Japanese control changes." << std::endl;
+		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+			controlEditor::addImage(entry.path().string());
+			if (!pWin->p_fmv) {
+				controlEditor::editExecutable(entry.path().string());
+			}
+		}
+	}
+	if (pWin->p_fastnew || pWin->p_fastold) {
+		if (!pWin->p_fmv) {
+			pWin->log_file << "Applying text speed change to game's executable." << std::endl;
+			for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+				pFE->exeEdits(entry.path().string());
+			}
 		}
 	}
 }

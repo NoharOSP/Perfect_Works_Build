@@ -10,7 +10,6 @@ windowHandler::~windowHandler() {
 }
 
 bool windowHandler::check() {
-	// TODO: Make arena, graphics and audio handlers
 	handleScript hs;
 	handleGameplay hg;
 	handleGraphics hgr;
@@ -23,6 +22,7 @@ bool windowHandler::check() {
 	hg.checkGoldTwo(pWin, this);
 	hg.checkItemsParty(pWin, this);
 	hg.checkMonsters(pWin, this);
+	hg.checkDeathblows(pWin, this);
 	checkNormArena();
 	checkBasicArena();
 	checkExpArena();
@@ -37,6 +37,7 @@ bool windowHandler::check() {
 	hs.~handleScript();
 	hg.~handleGameplay();
 	hgr.~handleGraphics();
+	checkJpnControls();
 	return ticked;
 }
 
@@ -137,5 +138,17 @@ void windowHandler::checkStoryMode() {
 	}
 	else {
 		pWin->p_story_mode = false;
+	}
+}
+
+void windowHandler::checkJpnControls() {
+	LRESULT jpnticked = SendMessage(pWin->jpnControls, BM_GETCHECK, NULL, NULL);
+	if (jpnticked == BST_CHECKED) {
+		pWin->log_file << "Japanese controls ticked." << std::endl;
+		pWin->p_jpn_controls = true;
+		ticked = true;
+	}
+	else {
+		pWin->p_jpn_controls = false;
 	}
 }

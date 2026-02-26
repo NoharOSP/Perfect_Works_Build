@@ -18,6 +18,7 @@ public:
 	void fmvVerify();
 	void verify();
 	void titleVerify();
+	void jpnVerify();
 	bool storyModeVerify();
 	bool voiceVerify();
 	bool bugVerify();
