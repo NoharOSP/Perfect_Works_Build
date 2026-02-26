@@ -57,7 +57,8 @@ public:
 	std::string goldName = "";
 	std::string fmvPatch = "";
 	std::string cafeName = "";
-	std::string exeName = "executable";
+	inline static std::string exeName1 = "executable\\cd1";
+	inline static std::string exeName2 = "executable\\cd2";
 	std::string slusDisc1 = "sub_executable\\disc1";
 	std::string slusDisc2 = "sub_executable\\disc2";
 	Window* pWin;

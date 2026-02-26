@@ -116,9 +116,17 @@ void fileEditor::editGold(std::fstream* fileContents, int i, int nextpos, wchar_
 void fileEditor::exeEdits(std::string file) {
 	std::string trimfile = gameFileTools::fileTrim(file);
 	if (pp->fmvName == "") {
-		// Check if filename is 0022
-		if (trimfile != "0022") {
-			return;
+		if (num == 1) {
+			// Check if filename is 0022
+			if (trimfile != "0022") {
+				return;
+			}
+		}
+		if (num == 2) {
+			// Check if filename is 0017
+			if (trimfile != "0017") {
+				return;
+			}
 		}
 	}
 	else {
@@ -143,7 +151,7 @@ void fileEditor::exeEdits(std::string file) {
 	int speed = 0x05;
 	fileContents.write(reinterpret_cast <char*>(&speed), 2);
 	// Apply additional FMV version edits
-	if (pp->fmvName != "") {
+	if (pp->fmvName != "" || num == 2) {
 		fileContents.seekp(151911, std::ios_base::beg);
 		int nextval = 0x34;
 		fileContents.write(reinterpret_cast <char*>(&nextval), 2);
