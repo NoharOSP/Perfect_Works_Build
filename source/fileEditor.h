@@ -26,6 +26,7 @@ public:
 	void setMonsterData(int data[], bool gear);
 	void editExp(std::fstream* fileContents, int i, int nextpos, wchar_t buffer, int data[]);
 	void editGold(std::fstream* fileContents, int i, int nextpos, wchar_t buffer, int data[]);
+	void editTextSpeed(std::string file);
 
 	// Global variables
 public:

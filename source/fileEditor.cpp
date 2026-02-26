@@ -143,6 +143,10 @@ void fileEditor::exeEdits(std::string file) {
 			}
 		}
 	}
+	editTextSpeed(file);
+}
+
+void fileEditor::editTextSpeed(std::string file) {
 	// Open file
 	std::fstream fileContents;
 	fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
