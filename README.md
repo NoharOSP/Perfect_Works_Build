@@ -3,7 +3,7 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 
 Download the latest release here:
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.9.2
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.9.3
   
 ## Instructions
 
@@ -24,6 +24,16 @@ https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.9.2
 - Apply a patch or the patches using xdelta. Make sure you are applying them to an unpatched ROM of the original game.
 - If there are warnings when applying the patches, turn off checksum validation.
 
+The patches provided are as follows:
+
+- all_50_exp_gold - Applies all patches besides story mode. 1.5x exp and gold are used.
+- all_100_exp_gold - Applies all patches besides story mode. 2x exp and gold are used.
+- all_50_exp_gold_no_gfx - Applies all patches besides story mode and the graphical settings. 1.5x exp and gold are used.
+- all_100_exp_gold_no_gfx - Applies all patches besides story mode and the graphical settings. 2x exp and gold are used.
+- bug_fixes - Only bug fixes are applied.
+- story_mode - Applies story mode.
+- story_mode_script - Applies story mode and the script changes.
+
 WARNING: When a ROM has been made, do not resume progress by loading a save state. As a different ROM is being used, the game will crash due to the changing of data positions. To resume a playthrough, load a hard save.
 
 ## Completion stats
@@ -41,6 +51,13 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The 2x exp and gold patches were designed to work with the lower encounter rate patch. The monster stats and party/item patch both act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history
+
+### Version 0.9.3
+
+02/28/2026
+
+- Failure to boot when fast text is used with disc 2 has been fixed.
+- Siebzhen's frames have had their HP increased by 5000. 
 
 ### Version 0.9.2
 
