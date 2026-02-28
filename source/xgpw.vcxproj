@@ -163,7 +163,6 @@
     <ClInclude Include="controlEditor.h" />
     <ClInclude Include="fileEditor.h" />
     <ClInclude Include="framework.h" />
-    <ClInclude Include="helper\gameFileTools.h" />
     <ClInclude Include="gameplayVerifier.h" />
     <ClInclude Include="graphicsVerifier.h" />
     <ClInclude Include="handleGameplay.h" />
@@ -190,10 +189,6 @@
     <ClCompile Include="arenaVerifier.cpp" />
     <ClCompile Include="controlEditor.cpp" />
     <ClCompile Include="fileEditor.cpp" />
-    <ClCompile Include="helper\gameFileTools.cpp">
-      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
-      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">NotUsing</PrecompiledHeader>
-    </ClCompile>
     <ClCompile Include="gameplayVerifier.cpp" />
     <ClCompile Include="graphicsVerifier.cpp" />
     <ClCompile Include="handleGameplay.cpp" />
