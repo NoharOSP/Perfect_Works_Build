@@ -66,19 +66,8 @@ void controlEditor::editExecutable(std::string file) {
 	if (trimfile == "0022" || (trimfile == "SLUS_006.64" || trimfile == "SLUS_006.69")) {
 		std::filesystem::current_path(Window::home);
 		// Read data documenting control differences and put it into vectors
-		std::vector<int> offsets;
-		std::vector<int> values;
-		std::string line;
-		std::fstream exedata;
-		exedata.open(exediff);
-		while (getline(exedata, line)) {
-			int pos = line.find(",");
-			std::string offset = line.substr(0, pos);
-			offsets.emplace_back(stoi(line));
-			std::string value = line.substr(pos + 1);
-			values.emplace_back(stoi(value, nullptr, 16));
-		}
-		exedata.close();
+		std::vector<int> offsets = popOffset(exediff);
+		std::vector<int> values = popValues(exediff);
 		// Open file
 		std::filesystem::current_path(patchProcessor::gamefilePath);
 		std::filesystem::current_path(applyPatch::temp);
@@ -94,4 +83,68 @@ void controlEditor::editExecutable(std::string file) {
 	else {
 		return;
 	}
+}
+
+// TODO: Test 0038.dec deletion bug
+void controlEditor::editBattleExe(std::string file) {
+	std::string trimfile = gameFileTools::fileTrim(file);
+	// Check if filename is 0038
+	if (trimfile == "0038") {
+		// Decompress file
+		std::filesystem::current_path(Window::home);
+		int batch_decompress = system("Tools\\xenocomp.exe -d gamefiles\\temp\\0038 gamefiles\\temp\\0038.dec");
+		// Read data documenting control differences and put it into vectors
+		std::vector<int> offsets = popOffset(battlediff);
+		std::vector<int> values = popValues(battlediff);
+		// Open file
+		std::string decomp = "0038.dec";
+		std::fstream fileContents;
+		std::filesystem::current_path(patchProcessor::gamefilePath);
+		std::filesystem::current_path(applyPatch::temp);
+		fileContents.open(decomp, std::ios::in | std::ios::out | std::ios::binary);
+		// Edit file
+		for (int i = 0; i < offsets.size(); i++) {
+			fileContents.seekp(offsets[i], std::ios_base::beg);
+			fileContents.write(reinterpret_cast <char*>(&values[i]), 1);
+		}
+		// Recompress file
+		std::filesystem::current_path(Window::home);
+		int batch_compress = system("Tools\\xenocomp.exe -c gamefiles\\temp\\0038.dec gamefiles\\temp\\0038");
+		// Remove decompressed file
+		std::filesystem::current_path(patchProcessor::gamefilePath);
+		std::filesystem::current_path(applyPatch::temp);
+		remove("0038.dec");
+		std::filesystem::current_path("..\\");
+	}
+	else {
+		return;
+	}
+}
+
+std::vector<int> controlEditor::popOffset(std::string dataFile) {
+	std::string line;
+	std::fstream exedata;
+	std::vector<int> offsets;
+	exedata.open(dataFile);
+	while (getline(exedata, line)) {
+		int pos = line.find(",");
+		std::string offset = line.substr(0, pos);
+		offsets.emplace_back(stoi(line));
+	}
+	exedata.close();
+	return offsets;
+}
+
+std::vector<int> controlEditor::popValues(std::string dataFile) {
+	std::string line;
+	std::fstream exedata;
+	std::vector<int> values;
+	exedata.open(dataFile);
+	while (getline(exedata, line)) {
+		int pos = line.find(",");
+		std::string value = line.substr(pos + 1);
+		values.emplace_back(stoi(value, nullptr, 16));
+	}
+	exedata.close();
+	return values;
 }

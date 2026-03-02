@@ -104,9 +104,11 @@ void applyPatch::createTemp() {
 					if (num == 2) {
 						std::filesystem::copy(patchProcessor::exeName2, temp, std::filesystem::copy_options::update_existing);
 					}
-					pWin->log_file << "Applying text speed change to game's executable." << std::endl;
-					for (const auto& entry : std::filesystem::directory_iterator(temp)) {
-						pFE->exeEdits(entry.path().string());
+					if (pWin->p_fastnew || pWin->p_fastold) {
+						pWin->log_file << "Applying text speed change to game's executable." << std::endl;
+						for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+							pFE->exeEdits(entry.path().string());
+						}
 					}
 				}
 			}
@@ -148,6 +150,7 @@ void applyPatch::iterateTemp() {
 			if (!pWin->p_fmv) {
 				controlEditor::editExecutable(entry.path().string());
 			}
+			controlEditor::editBattleExe(entry.path().string());
 		}
 	}
 	if (pWin->p_fastnew || pWin->p_fastold) {
