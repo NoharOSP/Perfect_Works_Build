@@ -62,7 +62,7 @@ public:
 	std::string jpnName = "";
 	std::string slusDisc1 = "sub_executable\\disc1";
 	std::string slusDisc2 = "sub_executable\\disc2";
-	inline static std::string gamefilePath = "\gamefiles";
+	inline static std::string gamefilePath = "gamefiles";
 	Window* pWin;
 	std::vector<std::string> patchList;
 };

@@ -109,7 +109,10 @@ struct tipDesc {
 		"learn any of them as soon as the\n"
 		"game begins.\n";
 	char text_jpn_control[255] =
-		"To be written.\n";
+		"Switch to the Japanese control\n"
+		"scheme. This applies to the\n"
+		"overworld, battles, and the\n"
+		"speed minigame.";
 };
 
 class windowHandler;

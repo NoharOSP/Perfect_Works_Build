@@ -27,7 +27,7 @@ void controlEditor::editData(std::string trimfile) {
 		int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 3958.unk8");
 	}
 	// Copy Japanese control image
-	std::filesystem::copy("..\\jpn_controls\\2593_3958\\file1", "file1", std::filesystem::copy_options::overwrite_existing);
+	std::filesystem::copy("..\\jpn_ctrl_subfiles\\2593_3958\\file1", "file1", std::filesystem::copy_options::overwrite_existing);
 	// Recompress file
 	if (trimfile == "2593.unk8") {
 		int batch_recompress = system("..\\..\\Tools\\xenopack.exe -p 2593.unk8");
@@ -47,8 +47,8 @@ void controlEditor::editBattleFile(std::string trimfile) {
 	// Decompress file
 	int batch_decompress = system("..\\..\\Tools\\xenopack.exe -u 2614");
 	// Copy Japanese control images
-	std::filesystem::copy("..\\jpn_controls\\2614\\file0", "file0", std::filesystem::copy_options::overwrite_existing);
-	std::filesystem::copy("..\\jpn_controls\\2614\\file1", "file1", std::filesystem::copy_options::overwrite_existing);
+	std::filesystem::copy("..\\jpn_ctrl_subfiles\\2614\\file0", "file0", std::filesystem::copy_options::overwrite_existing);
+	std::filesystem::copy("..\\jpn_ctrl_subfiles\\2614\\file1", "file1", std::filesystem::copy_options::overwrite_existing);
 	// Recompress file
 	int batch_recompress = system("..\\..\\Tools\\xenopack.exe -p 2614");
 	// Remove decompressed files
@@ -85,7 +85,6 @@ void controlEditor::editExecutable(std::string file) {
 	}
 }
 
-// TODO: Test 0038.dec deletion bug
 void controlEditor::editBattleExe(std::string file) {
 	std::string trimfile = gameFileTools::fileTrim(file);
 	// Check if filename is 0038
@@ -107,6 +106,7 @@ void controlEditor::editBattleExe(std::string file) {
 			fileContents.seekp(offsets[i], std::ios_base::beg);
 			fileContents.write(reinterpret_cast <char*>(&values[i]), 1);
 		}
+		fileContents.close();
 		// Recompress file
 		std::filesystem::current_path(Window::home);
 		int batch_compress = system("Tools\\xenocomp.exe -c gamefiles\\temp\\0038.dec gamefiles\\temp\\0038");
