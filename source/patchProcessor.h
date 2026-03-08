@@ -38,7 +38,7 @@ public:
 	std::string tempPath;
 	std::string filePath;
 	std::string encountersName = "";
-	std::string expName = "";
+	inline static std::string expName = "";
 	std::string fastName = "";
 	std::string fmvName = "";
 	std::string roniName = "";
@@ -53,7 +53,7 @@ public:
 	std::string voiceName = "";
 	std::string flashesName = "";
 	std::string storyModeName = "";
-	std::string goldName = "";
+	inline static std::string goldName = "";
 	std::string fmvPatch = "";
 	std::string cafeName = "";
 	inline static std::string exeName1 = "executable\\cd1";

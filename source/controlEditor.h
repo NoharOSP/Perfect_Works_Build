@@ -5,7 +5,6 @@
 #include <string>
 #include <filesystem>
 
-class Window;
 
 class controlEditor
 {

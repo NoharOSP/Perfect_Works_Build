@@ -19,7 +19,6 @@ class fileEditor
 public:
 	fileEditor(patchProcessor* processor, Window* window, int discNum, std::string temp);
 	~fileEditor();
-	void monsterEdits(std::string file);
 	void iterateMonster(std::string file);
 	void exeEdits(std::string file);
 	void battleExeEdits(std::string file);

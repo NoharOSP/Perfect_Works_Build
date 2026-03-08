@@ -171,6 +171,7 @@
     <ClInclude Include="helper\gameFileTools.h" />
     <ClInclude Include="main.h" />
     <ClInclude Include="makeSLUS.h" />
+    <ClInclude Include="monsterEditor.h" />
     <ClInclude Include="paintWindow.h" />
     <ClInclude Include="partyStatEditor.h" />
     <ClInclude Include="patchProcessor.h" />
@@ -200,6 +201,7 @@
     </ClCompile>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="makeSLUS.cpp" />
+    <ClCompile Include="monsterEditor.cpp" />
     <ClCompile Include="paintWindow.cpp" />
     <ClCompile Include="partyStatEditor.cpp" />
     <ClCompile Include="patchProcessor.cpp" />

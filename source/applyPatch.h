@@ -9,6 +9,7 @@
 #include "patchProcessor.h"
 #include "fileEditor.h"
 #include "controlEditor.h"
+#include "monsterEditor.h"
 
 class Window;
 class patchProcessor;

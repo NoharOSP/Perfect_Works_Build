@@ -183,8 +183,8 @@ public:
 	bool found = false;
 	bool checkfound = false;
 	bool p_encounters = false;
-	bool p_expone = false;
-	bool p_exptwo = false;
+	inline static bool p_expone = false;
+	inline static bool p_exptwo = false;
 	bool p_fastold = false;
 	bool p_fastnew = false;
 	bool p_items_spells = false;
@@ -198,13 +198,13 @@ public:
 	bool p_voice = false;
 	bool p_flashes = false;
 	bool p_story_mode = false;
-	bool p_goldone = false;
-	bool p_goldtwo = false;
+	inline static bool p_goldone = false;
+	inline static bool p_goldtwo = false;
 	bool p_roni = false;
 	bool p_cafe = false;
 	bool p_deathblow = false;
 	bool p_jpn_controls = false;
-	std::ofstream log_file;
+	inline static std::ofstream log_file;
 	std::string path1 = "";
 	std::string path2 = "";
 	inline static std::string home = std::filesystem::current_path().string();
