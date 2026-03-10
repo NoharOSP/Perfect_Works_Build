@@ -60,38 +60,6 @@ void fileEditor::editTextSpeed(std::string file) {
 	fileContents.close();
 }
 
-// Remove battle flashes
-void fileEditor::battleExeEdits(std::string file) {
-	std::string trimfile = gameFileTools::fileTrim(file);
-	// Check if filename is 0038
-	if (trimfile != "0038") {
-		return;
-	}
-	// Decompress file
-	std::filesystem::current_path(pWin->home);
-	int batch_decompress = system("Tools\\xenocomp.exe -d gamefiles\\temp\\0038 gamefiles\\temp\\0038.dec");
-	std::filesystem::current_path(pp->gamefilePath);
-	std::filesystem::current_path(tempDir);
-	std::string decomp = "0038.dec";
-	// Open file
-	std::fstream fileContents;
-	fileContents.open(decomp, std::ios::in | std::ios::out | std::ios::binary);
-	// Find the position of the text speed value
-	fileContents.seekp(278032, std::ios_base::beg);
-	int flash = 0x00;
-	fileContents.write(reinterpret_cast <char*>(&flash), 2);
-	// Close file
-	fileContents.close();
-	// Recompress file
-	std::filesystem::current_path(pWin->home);
-	int batch_compress = system("Tools\\xenocomp.exe -c gamefiles\\temp\\0038.dec gamefiles\\temp\\0038");
-	// Remove decompressed file
-	std::filesystem::current_path(pp->gamefilePath);
-	std::filesystem::current_path(tempDir);
-	remove("0038.dec");
-	std::filesystem::current_path("..\\");
-}
-
 void fileEditor::editSLUS(std::string romFile) {
 	// Insert new SLUS
 	if (pp->fastName != "" || pp->jpnName != "") {

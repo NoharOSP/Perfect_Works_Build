@@ -164,6 +164,7 @@
     <ClInclude Include="fileEditor.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="gameplayVerifier.h" />
+    <ClInclude Include="graphicalEditor.h" />
     <ClInclude Include="graphicsVerifier.h" />
     <ClInclude Include="handleGameplay.h" />
     <ClInclude Include="handleGraphics.h" />
@@ -191,6 +192,7 @@
     <ClCompile Include="controlEditor.cpp" />
     <ClCompile Include="fileEditor.cpp" />
     <ClCompile Include="gameplayVerifier.cpp" />
+    <ClCompile Include="graphicalEditor.cpp" />
     <ClCompile Include="graphicsVerifier.cpp" />
     <ClCompile Include="handleGameplay.cpp" />
     <ClCompile Include="handleGraphics.cpp" />

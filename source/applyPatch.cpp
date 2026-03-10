@@ -118,17 +118,14 @@ void applyPatch::createTemp() {
 	iterateTemp();
 }
 
-// TODO: Make shorter
 void applyPatch::iterateTemp() {
 	if (patchProcessor::expName != "" || patchProcessor::goldName != "") {
 		// Iterate through enemy files to apply exp or gold changes
 		monsterEditor::verifyFiles();
 	}
 	if (pWin->p_flashes) {
-		Window::log_file << "Applying battle executable changes." << std::endl;
-		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
-			pFE->battleExeEdits(entry.path().string());
-		}
+		// Remove battle flashes
+		graphicalEditor::battleExeEdits();
 	}
 	if (pWin->p_deathblow) {
 		Window::log_file << "Applying ability learning level changes." << std::endl;

@@ -19,13 +19,8 @@ class fileEditor
 public:
 	fileEditor(patchProcessor* processor, Window* window, int discNum, std::string temp);
 	~fileEditor();
-	void iterateMonster(std::string file);
 	void exeEdits(std::string file);
-	void battleExeEdits(std::string file);
 	void editSLUS(std::string romFile);
-	void setMonsterData(int data[], bool gear);
-	void editExp(std::fstream* fileContents, int i, int nextpos, wchar_t buffer, int data[]);
-	void editGold(std::fstream* fileContents, int i, int nextpos, wchar_t buffer, int data[]);
 	void editTextSpeed(std::string file);
 	void expRateEdits(std::string file);
 
