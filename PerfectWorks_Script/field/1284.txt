@@ -141,13 +141,14 @@ Verlaine
 an attack on an excavation
 site and many brothers and
 workers were injured."<Close><End of Block>
-<TextBlock 29 w:52 h:4>
+<TextBlock 29 w:40 h:4>
 Verlaine
-"My goodness, you're such
-a fine Etone <--> destroying
-Verus and demonstrating<New>
-the righteousness of the
-Church to the world.<Delay 10>
+"My goodness, you're
+such a fine Etone <--><New>
+destroying Verus and
+demonstrating the
+righteousness of the
+Church to the world.<New>
 But your father<Delay 20>..."<Close><End of Block>
 <TextBlock 30 w:40 h:4>
 Verlaine

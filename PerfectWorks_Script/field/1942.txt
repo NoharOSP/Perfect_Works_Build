@@ -1,268 +1,258 @@
 <TextBlock 1 w:18 h:2>
-...<Delay 20>Fei<Delay 10>
-...<Delay 20>Fei<Delay 10>...<Close><End of Block>
-<TextBlock 2 w:40 h:2>
-Who is it?<Delay 10>
-Who's calling me<Delay 5>...?<Close><End of Block>
-<TextBlock 3 w:30 h:1>
-I<Delay 10>-<Delay 10>...<Delay 10>har<Delay 10>...<Close><End of Block>
+...<Delay 20>Fei<Delay 10>...
+<Delay 20>Fei<Delay 10>...<Close><End of Block>
+<TextBlock 2 w:46 h:2>
+Who's there?<Delay 10>
+Who's talking to me<Delay 5>...?<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+I<Delay 10> am<Delay 10> th<--><Delay 10>
+within<Delay 10> <-->har<Delay 10>...<Close><End of Block>
 <TextBlock 4 w:44 h:1>
 What is this light...?<Close><End of Block>
-<TextBlock 5 w:46 h:4>
-I am the being<Delay 10>
-that resides inside 
-the Zohar.<New>
-I am the beginning and
-the end.
+<TextBlock 5 w:52 h:4>
+I...<Delay 10> I am that which
+dwells within the Zohar.<Delay 20>
+The beginning and the end.<Delay 10>
 The first and the last.<Close><End of Block>
 <TextBlock 6 w:14 h:1>
 <Delay 5>...<Delay 5>God?<Close><End of Block>
 <TextBlock 7 w:62 h:6>
 God<Delay 10>...<Delay 10>
-Some would refer to me as that.
-From a certain point of view,
-it is right to view me as such.
-But at the same time, I am not.
-I<Delay 10>...<Delay 10>am also a part of you.<Close><End of Block>
-<TextBlock 8 w:26 h:1>
-A part of me?<Close><End of Block>
-<TextBlock 9 w:58 h:6>
-I am defined by how people
-observe me.
-You are actually talking to
-a virtual version of me that
-you yourself create...
-I am 'your perception' of me.<Close><End of Block>
-<TextBlock 10 w:46 h:3>
+There are those who perceive
+me as such.<Delay 10> Certainly, from one
+point of view they are correct.<Delay 10>
+But it could also be said that
+this is not the case.<New>
+I...<Delay 10>am also you yourself.<Close><End of Block>
+<TextBlock 8 w:20 h:1>
+Me myself?<Close><End of Block>
+<TextBlock 9 w:60 h:5>
+It is by the act of people's
+observation that I am defined.<Delay 10>
+The me talking before you now
+is<Delay 5> 'a me conjured up by you,
+so that you may perceive me'.<Close><End of Block>
+<TextBlock 10 w:46 h:2>
 I don't understand what
-you are talking about.
-Who, or what, are you?<Close><End of Block>
-<TextBlock 11 w:28 h:2>
-In one word<Delay 10>...<Delay 10>
-<Delay 10>...<Delay 10>EXISTENCE.<Close><End of Block>
+you're talking about.<New>
+Who or what on
+earth are you?<Close><End of Block>
+<TextBlock 11 w:30 h:2>
+In a word<Delay 10>...<Delay 10>
+Yes:<Delay 10> Existence.<Close><End of Block>
 <TextBlock 12 w:20 h:1>
 Existence?<Close><End of Block>
-<TextBlock 13 w:62 h:8>
-In actuality, I do not have
-a physical form.
-I am an 'Existence' of a
-higher dimension.
-A place you cannot perceive...
-But in terms you understand, it
-is a world where everything
-acts as kinds of waves...<New>
-It is the place that 
-became the origin of your 
-four-dimensional universe<Delay 5>
-which is controlled by 
-space and time.<Delay 5>
-The fluctuating 
-non-existence<Delay 10>...<Delay 10>
-The 'Wave Existence'.<Close><End of Block>
-<TextBlock 14 w:64 h:2>
-What does such an 'Existence'<Delay 10>...<Delay 10>
+<TextBlock 13 w:62 h:4>
+I am, essentially, an
+'existence' of a higher
+dimension, not possessing
+what you would call a body.<New>
+It is a world filled with
+certain things that behave
+like waves,<Delay 5> things your kind
+cannot perceive.<New>
+The place that became the
+source of your four-dimensional
+universe, which is governed by
+space and time.<New>
+Undulations of nothingness...<Delay 10>
+The Wave Existence.<Close><End of Block>
+<TextBlock 14 w:54 h:2>
+What does such an Existence
 have to do with me...?<Close><End of Block>
 <TextBlock 15 w:62 h:7>
-In ancient times, a phenomena-
-alteration engine <--> a semi-
-perpetual infinite-energy
-device <--> was created. It was
-given the name 'Zohar'.<New>
-It was the attempt by ancient
-people from a different planet
-to obtain the highest energy
-imaginable in this
+Long, long ago, a phenomena-
+alteration or semipermanent
+infinite-energy engine was
+created.<Delay 10> The engine was given
+the name 'Zohar'.<New>
+It was created by an ancient
+people from another planet to
+try to obtain the greatest
+energy imaginable in this
 four-dimensional universe.<New>
-It was not long before those
-people made use of this engine
-to create the ultimate
-strategic weapon for
-interplanetary war, 'Deus'.
-Zohar was eventually used
+Before long, those people also
+created the ultimate strategic
+weapon for interplanetary
+warfare, Deus, and arranged
+it so that the Zohar served
 as its main power reactor.<New>
-But the unexpected happened...
-During the connection tests of
-Zohar with the newly completed
-Deus, the engine started to
-examine infinite potential
-phenomena...<New>
-Requiring energy, the engine
-connected this dimension to
-the higher dimensional space.
-As a result, that reactor
-'merged' or 'synchronized'
-with the wave existence in
-that higher dimension<Delay 5>...<Delay 10>ME.<New>
-I 'descended' from the point
-of contact created by the
-engine through the 'Path
-of Sephirot', or the domain
-you are in right now, and
-incarnated in the four-
-dimensional world.<New>
-After I 'advented' to the four-
-dimensional world, in order to
-stabalize myself here, I had
-to exchange, or materialize,
-my form and enter into the
-phenomena-alteration engine...<New>
-In other words, I became bound
-in 'Zohar'...the 'cage of
-fleshly existence'.<New>
-Since the time I was bound in
-Zohar, I have always wanted to
-return to my own dimension...
-And I came to a conclusion.<New>
-I had to reverse the process
-I went through to arrive here.
-I must be released by the one
-who instilled within me a
-special feature of this
-dimension <--> the 'will'...
+But in the middle of a
+connection experiment between
+Zohar and the completed Deus,
+something unexpected happened.<New>
+Seeking energy <--><Delay 5> infinite
+potential phenomena <--><Delay 5> and
+being something quite different
+originally,<Delay 5> the engine created
+a link between this dimension
+and higher-dimensional space,<New>
+and as a result, I <--><Delay 5> a higher-
+dimensional wave that existed
+there <--><Delay 5> synchronized with it.<New>
+Traversing the point of contact
+with the higher dimension that
+the engine had created <--><Delay 5>
+the Path of Sephirot, or
+the domain where you are
+presently <--><Delay 5> I materialized
+in the four-dimensional world.<New>
+Having 'advented' to the four-
+dimensional world,<Delay 5> in exchange
+for being stable here as matter
+I had to be bound by the
+phenomena-alteration engine <--><Delay 5>
+that is, the 'fleshly cage'
+of the Zohar.<New>
+Bound by the Zohar,
+I desired to return to
+my original dimension...<Delay 5>
+and so I made a determination:<New>
+reversal of the process I had
+been through <--><Delay 5> liberation by
+the hand of the one who had
+bestowed upon me a particular
+feature of this dimension,<Delay 5>
+namely 'a will'...<Delay 10>
 That one is you.<Close><End of Block>
-<TextBlock 16 w:38 h:2>
-Decided it was me?
-A special feature??<Close><End of Block>
+<TextBlock 16 w:44 h:2>
+I did that?<Delay 10>
+A particular feature??<Close><End of Block>
 <TextBlock 17 w:62 h:5>
-Yes.
-I was given a special attribute
-of a human by you, the Contact,
-when you observed me...
-I was given<Delay 10>...<Delay 10>a mother's will.<Close><End of Block>
+Yes.<Delay 10>
+Through the act of observation
+by you, the Contact, I came to
+possess a human characteristic:<Delay 5>
+a mother's will.<Close><End of Block>
 <TextBlock 18 w:32 h:1>
 A mother's will?<Close><End of Block>
-<TextBlock 19 w:54 h:4>
-I'm sure you remember.
-After my descent, you had
+<TextBlock 19 w:54 h:5>
+Surely you remember.<Delay 10>
+Immediately following
+my advent, you had
 contact with the Phenomena-
 Alteration Engine, Zohar.<Close><End of Block>
 <TextBlock 20 w:4 h:1>
 !!<Close><End of Block>
-<TextBlock 21 w:62 h:6>
-As a contact, being but only a
-child, you defined my existence
-with your desire to return to
-your mother. Thus I came to
-prepare the mother's will...
+<TextBlock 21 w:62 h:5>
+Defined by your, the Contact's,
+childlike desire to return to
+your mother, I was instilled
+with a motherly will.<Delay 10>
 That will is Elehayym.<Close><End of Block>
-<TextBlock 22 w:44 h:2>
-Elly's disposition was
-influenced by me?<Close><End of Block>
+<TextBlock 22 w:28 h:2>
+Elly?<Delay 10>
+Because of me?<Close><End of Block>
 <TextBlock 23 w:60 h:9>
-Yes.
-My will was incarnated through
-a bio-computer which was vital
-for Deus.
-After combining with me, the
-bio-computer evolved its
-functions, and that bio-plant
-generated a central element.
-That is her.<New>
-I was split by your contact.
-My physical form or flesh
-stayed in Zohar, while my
-will went into Elehayym and
-my power went into you.
-That's why I waited to
-unite with you.
-And now, it is fulfilled.<New>
-My only remaining desire
-is to break this 'cage
-of fleshly existence'...
-In order to do that, I must
-become perfect by combining
-with Elehayym, as well as my
-other split physical form,
-'Deus'.<New>
-The only way to return to
-my original dimension is to
-destroy this physical body.
-In the four-dimensional world,
-Zohar is perfect, so in order
-to destroy Zohar I need the
-strength that was attributed
-to you...<New>
-Zohar can only be destroyed
-by the hands of the 'Contact'.<Close><End of Block>
+Yes.<Delay 10>
+My will materialized through
+the medium of the bio-computer
+that was a key part of Deus.<Delay 10>
+Having combined with me, the
+bio-computer extended its
+function, and used its bio-
+plant to generate a single
+core element.<Delay 10> That is her.<New>
+I was divided by the
+contact with you.<Delay 10>
+The Zohar my flesh;<Delay 5>
+Elehayym my will.<Delay 10>
+And my power,
+which flowed into you.<Delay 10>
+That is why I have awaited
+unification with you.<New>
+And now,
+it has been fulfilled.<Delay 10>
+My remaining wish is to unify
+with Deus <--><Delay 5> the other part
+of my divided body <--><Delay 5> and
+Elehayym along with it.<Delay 10>
+To become whole, and
+'break the fleshly cage'.<New>
+The only way for me to return
+to my original dimension is
+via the destruction of this
+physical body.<New>
+Annihilation of the Zohar,
+which has attained perfection
+in the four-dimensional world,
+requires the power of you
+who determined my qualities.<Delay 10>
+The Zohar cannot be
+destroyed except by
+the hand of the Contact.<Close><End of Block>
 <TextBlock 24 w:52 h:3>
-What about Elly?
-If Zohar is destroyed,
-what will become of Elly!?<Close><End of Block>
-<TextBlock 25 w:56 h:8>
-Zohar and Deus are one.
-She is bound to the system
-by another's will to become
-one with me.
-In order to release her, it
-is necessary to destroy that
-very system that serves as
-the Deus weapon...<New>
-However, having been created
-as a weapon, the Deus system
-seeks to unify itself with
-all of you for a different
-purpose than that of mine.<New>
-Originally, her release
-should have been performed
-by me, the one who desires
-to return back to the higher
-dimension...
-But, I am also bound to the
-system just as she is, so I
-am unable to participate.<New>
-You are the only one who
-can release her from the
-spell.
+What about Elly?<Delay 10>
+If the Zohar is destroyed,
+what happens to Elly!?<Close><End of Block>
+<TextBlock 25 w:60 h:8>
+The Zohar and the Deus system
+are one.<Delay 10> She is bound by the
+will of another who desires
+unification with the system,
+with me.<Delay 10> To release her, it
+is necessary to destroy the
+Deus weapon system itself.<New>
+But, having been created as
+a weapon, it seems the Deus
+system seeks unification
+with all of you for a
+different reason than I do.<New>
+By all rights, her liberation
+is something that I, desiring
+a return to a higher order,
+should carry out.<Delay 10>
+But like her, I too am
+bound to the system.<Delay 10> I am
+unable to get involved.<New>
+Besides, the only one
+who can free her from
+the spell is you.<Delay 10>
 Just as Deus and I are
 inseparable, you and her
 are also inseparable.<Close><End of Block>
 <TextBlock 26 w:42 h:4>
-<Delay 10>...<Delay 10>Alright.<Delay 10>
+...<Delay 5>Alright.<Delay 10>
 I'll destroy Deus
 and the Zohar.<Delay 10>
-And<Delay 10> I'll save Elly.<Close><End of Block>
-<TextBlock 27 w:60 h:5>
-You have experienced much loss
-and deprivation in your life.
-It is very tragic.<New>
-Our contact, and the resulting
-transference of power and will
-between you and I, most likely
-played a factor in splitting
-your personality.<Close><End of Block>
-<TextBlock 28 w:54 h:4>
-I disagree.
-I can't blame anything
-or anyone besides myself.<New>
-Regardless of what may have
-happened in the past, with
-the passing of time the
-cause becomes more remote.<New>
-It is a problem that comes
-from within myself, that I
-myself must deal with...<Close><End of Block>
-<TextBlock 29 w:56 h:6>
-I see...
-You have managed to accept
-those tragedies, to tolerate
-all things, to comprehend
-and find where you stand in
-this world.<New>
-If you have succeeded to
-do all these things, I am
-sure you will succeed in
-what awaits you now.<Close><End of Block>
-<TextBlock 30 w:54 h:3>
-To liberate all of us<Delay 10>...<Delay 10>
-Use<Delay 10>...<Delay 10>the<Delay 10>...<Delay 10>Xe<Delay 10>...<Delay 10>no<Delay 10>...<Delay 10>gears<Delay 10>
-<Delay 10>...<Delay 10>des<Delay 10>...<Delay 10>troy<Delay 10>...<Delay 10>Zohar<Delay 10>...<Delay 10><Close><End of Block>
-<TextBlock 31 w:38 h:3>
-Wait!
-There's more I need
-to ask you...<Close><End of Block>
-<TextBlock 32 w:56 h:2>
-The system<Delay 10>...<Delay 10>is awakening<Delay 10>...<Delay 10>
-Ask<Delay 10>...<Delay 10>her<Delay 10>...<Delay 10>later<Delay 10>...<Close><End of Block>
+And I'll rescue Elly.<Close><End of Block>
+<TextBlock 27 w:58 h:5>
+You have experienced so much
+loss. It was a tragedy.<New>
+And your personality being
+split <--><Delay 5> perhaps the transfer
+of power and will due to 
+contact with me was the
+cause all along.<Close><End of Block>
+<TextBlock 28 w:48 h:4>
+That's not right.<Delay 10>
+It's no use looking
+elsewhere for the cause.<New>
+Even if some things did
+happen in the past, and
+them mounting up was a
+contributing factor,<New>
+they're...all my
+own problems...<Close><End of Block>
+<TextBlock 29 w:48 h:7>
+I see...<Delay 10>
+If you have been able to
+accept those tragedies,
+to tolerate and contain
+them all, and find your
+own place to stand, then
+you are sure to succeed.<Close><End of Block>
+<TextBlock 30 w:50 h:3>
+Bring total liberation<Delay 5>...<Delay 10>
+Use<Delay 5>...<Delay 5>Xeno<Delay 5>...<Delay 5>gears<Delay 5>...<Delay 10>
+...<Delay 5>Destroy<Delay 5>...<Delay 5>Zohar<Delay 5>...<Close><End of Block>
+<TextBlock 31 w:28 h:3>
+Wait!<Delay 10>
+There's more I
+want to ask<--><Close><End of Block>
+<TextBlock 32 w:58 h:2>
+Try to<Delay 5>...<Delay 5>awaken the system<Delay 5>...<Delay 10>
+And then<Delay 5>...<Delay 5>you can ask her<Delay 5>...<Close><End of Block>
 <TextBlock 33 w:30 h:3>
 Save your data?<Delay 30>
     Save

@@ -63,17 +63,17 @@ I'm bored,<Delay 10> 'cause my
 brother can't find me!<Close><End of Block>
 <TextBlock 13 w:40 h:3>
 You want some candy?<Delay 10>
-<Opcode 1 255>    Yah, gimme some
+<Opcode 1 255>    Yeah, gimme some
     Nah<Close><End of Block>
-<TextBlock 14 w:46 h:4>
+<TextBlock 14 w:40 h:4>
 Yaaaay!<Delay 10>
-Let's empty this bottle
+Let's empty this jar
 quick so we can put 
 pretty shells in it!<Close><End of Block>
 <TextBlock 15 w:46 h:4>
 Aw gee...<Delay 10> I wanted to
 hurry up and empty this
-bottle so we could put
+jar so we could put
 pretty shells in it!<Close><End of Block>
 <TextBlock 16 w:36 h:2>
 By the way, don't

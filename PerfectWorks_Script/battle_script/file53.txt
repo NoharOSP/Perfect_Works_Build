@@ -1,5 +1,4 @@
-<TextBlock 1 w:24 h:3>
+<TextBlock 1 w:16 h:3>
 Grahf
-"Nnnuuahh<Delay 30>...<Delay 60>
-Ghaa!"<Opcode 2 60><Close><UNKNOWN CHUNK 4><Wait><Close><Close>)<Close>
-<End of Block>
+"Ungh<Delay 30>...<Delay 60>
+Gah!"<Opcode 2 60><Close><Close><End of Block>

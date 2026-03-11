@@ -162,8 +162,9 @@ The same for all of you!<Close><End of Block>
 <TextBlock 38 w:44 h:2>
 You can't hold anymore
 <Opcode 4 20><Close><End of Block>
-<TextBlock 39 w:38 h:1>
-Received <Opcode 4 20><Close><End of Block>
+<TextBlock 39 w:40 h:2>
+
+ Received <Opcode 4 20><Close><End of Block>
 <TextBlock 40 w:50 h:2>
 Bart
 "How much energy's left?"<Close><End of Block>

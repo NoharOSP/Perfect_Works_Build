@@ -45,9 +45,9 @@ authority,<Delay 10> as the
 representative of God.<New>
 But I'm...<Delay 30>
 It's all your fault!!"<Close><End of Block>
-<TextBlock 8 w:40 h:4>
+<TextBlock 8 w:38 h:4>
 Fei
-"M-My mother was<Delay 5>...?<Delay 20>
+"M-My mom was<Delay 5>...?<Delay 20>
 Why<Delay 5>...<Delay 5>would she<Delay 5>...?<Delay 20>
 Ramsus<Delay 5>..."<Close><End of Block>
 <TextBlock 9 w:50 h:4>
