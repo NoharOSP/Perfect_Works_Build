@@ -1,16 +1,17 @@
-<TextBlock 1 w:28 h:2>
-<Opcode 1 255>You and I must
-become one!!!<Opcode 2 120><Close><End of Block>
-<TextBlock 2 w:34 h:2>
+<TextBlock 1 w:42 h:2>
+<Opcode 1 255>All that's left is to
+become one with you!!<Opcode 2 120><Close><End of Block>
+<TextBlock 2 w:24 h:2>
 Fei
-"What's this...?"<Close><End of Block>
+"What's...?"<Close><End of Block>
 <TextBlock 3 w:38 h:2>
 Fei
 "This pendant...<New>
 Is this Sophia's...
-or my mother's...?"<Close><End of Block>
-<TextBlock 4 w:44 h:1>
-I'm begging you Fei...<Delay 100><Delay 100><Delay 100><Close><End of Block>
+or Mom's...?"<Close><End of Block>
+<TextBlock 4 w:30 h:2>
+I'm counting on
+you, Fei...<Delay 100><Delay 100><Delay 100><Close><End of Block>
 <TextBlock 5 w:36 h:4>
 Citan
 "Fei!!
@@ -118,241 +119,245 @@ Citan
 "The Contact!?"<Close><End of Block>
 <TextBlock 29 w:10 h:1>
 Dad!!<Close><End of Block>
-<TextBlock 30 w:48 h:3>
+<TextBlock 30 w:38 h:3>
 Fei
-"Dad!
+"Dad!<Delay 5>
 Are you okay?<New>
-Dad! 
-I'm sorry...
-this is all my fault..."<Close><End of Block>
-<TextBlock 31 w:42 h:3>
+Dad!<Delay 5>
+I'm sorry...<Delay 5>this is
+all my fault..."<Close><End of Block>
+<TextBlock 31 w:44 h:3>
 Khan
-"Fei<Delay 10>...?<New>
-You've returned to
-your own self...
-You've become one..."<Close><End of Block>
-<TextBlock 32 w:48 h:4>
+"Fei...?<New>
+I see, you were able
+to return to normal...<Delay 5>
+to become whole..."<Close><End of Block>
+<TextBlock 32 w:40 h:3>
 Fei
-"Yes, thanks to you all.
-If all of you hadn't
-called out to me..."<Close><End of Block>
+"Yes, thanks to
+all of you.<New>
+If you and the
+others hadn't called
+out to me, I<-->"<Close><End of Block>
 <TextBlock 33 w:14 h:2>
 Khan
 "Urgh!"<Close><End of Block>
 <TextBlock 34 w:12 h:2>
 Fei
 "Dad!"<Close><End of Block>
-<TextBlock 35 w:52 h:4>
+<TextBlock 35 w:48 h:3>
 Khan
-"Don't worry<Delay 10>...<Delay 10>
-This is good<Delay 10>...<Delay 10>
-This is,<Delay 10> after all...<Delay 10>I..."<Close><End of Block>
+"Don't worry<Delay 5>...<Delay 5>
+It's for the best<Delay 5>...<New>
+Now<Delay 5>...<Delay 5>all that's left<Delay 5>...<Delay 5>
+is for me to<-->"<Close><End of Block>
 <TextBlock 36 w:12 h:2>
 Fei
 "Dad?"<Close><End of Block>
-<TextBlock 37 w:24 h:2>
+<TextBlock 37 w:26 h:2>
 Khan
-"You and<Delay 10>..."<Close><End of Block>
-<TextBlock 38 w:40 h:4>
+"With you<Delay 5>..."<Close><End of Block>
+<TextBlock 38 w:20 h:4>
 Fei
-"Huh!?
-G, Grahf!?
-What's going on...?"<Close><End of Block>
+"Gaah!<Delay 5>
+G-<Delay 5>Grahf!?<Delay 5>
+How the<-->"<Close><End of Block>
 <TextBlock 39 w:52 h:4>
 Grahf
-"Ha ha...<New>
-'I' reached the limit of
-the body I possessed, on
-that day 3 years ago...<New>
-'I' required a body that
-would tide me over until
-your true awakening.<New>
-That is why 'I' acquired
-the body of your father.<New>
-Regardless of your
-awakening, your merging,
-and the inherited memories
-you had acquired...<New>
-...there was no way for
-you to know of this, since
-you had lost your memory
-at that point...<New>
-At the point in which 'I'
-merged with your father."<Close><End of Block>
-<TextBlock 40 w:44 h:4>
+"Ha ha ha...<New>
+On that day three years
+ago, the flesh that 'I'
+possessed had reached
+its limits...<New>
+So 'I' obtained the
+body of your father,<New>
+flesh to serve as the host
+for my spirit until such
+time as you achieved your
+true awakening.<New>
+Even if, prior to the
+fusion of Khan and I,<New>
+you'd had your awakening,
+unified, and gained the
+associated memories,<New>
+being robbed of your
+memory at that point
+you would've had no
+way of knowing."<Close><End of Block>
+<TextBlock 40 w:32 h:4>
 Fei
-"Impossible...!
-What about Wiseman...?
-What about Father...?"<Close><End of Block>
-<TextBlock 41 w:54 h:4>
+"N-<Delay 5>No...<Delay 10>
+So Wiseman is...<Delay 10>
+Dad is..."<Close><End of Block>
+<TextBlock 41 w:48 h:4>
 Grahf
-"Of course, they were just
-parts of me... I couldn't
-hold on to Khan totally.<New>
-His ego was far stronger
-than I imagined. When my
-control weakened he showed
-himself to you as Wiseman."<Close><End of Block>
+"He was a part of
+me, of course,<New>
+but that didn't mean
+I could control Khan
+completely.<New>
+The force of his ego was
+surprisingly strong,<New>
+surfacing whenever my
+hold on him weakened,
+to take the form of
+Wiseman, and guide you."<Close><End of Block>
 <TextBlock 42 w:20 h:2>
 Fei
-"Arggh..."<Close><End of Block>
+"Guhhh..."<Close><End of Block>
 <TextBlock 43 w:46 h:4>
 Grahf
-"You have awakened.
-This body is now
-useless to me.<New>
-Now I must return to
-my original body...
-the reincarnation of my
-body that you inhabit."<Close><End of Block>
-<TextBlock 44 w:24 h:3>
+"You have achieved your
+awakening.<Delay 10> This body is
+now unnecessary too.<New>
+All that remains is
+to return to my
+original body."<Close><End of Block>
+<TextBlock 44 w:20 h:3>
 Fei
-"Stop it...!
-Dad...!"<Close><End of Block>
-<TextBlock 45 w:52 h:4>
+"S-<Delay 5>Stop...<Delay 5>
+Dad..."<Close><End of Block>
+<TextBlock 45 w:48 h:4>
 Grahf
-"I hear you Fei...
-You see, he and I are one.
+"Yes, he hears you, Fei.<Delay 10>
+He and I are two sides
+of the same coin.<New>
 I am Khan, Khan is me.<New>
-He has become one with me,
-so you too should open
-your heart and unite with
-me.<New>
-Then we can go on to
-eliminate everything!"<Close><End of Block>
-<TextBlock 46 w:38 h:4>
+Now, open your mind and
+become one with me.<Delay 10>
+And then we shall
+erase everything."<Close><End of Block>
+<TextBlock 46 w:42 h:4>
 Fei
-"No<Delay 10>...<Delay 10>I<Delay 10>...<Delay 10>can't
-<Delay 10>...<Delay 10>allow<Delay 10>...<Delay 10>you<Delay 10>...<Delay 10>to
-<Delay 10>...<Delay 10>control<Delay 10>...<Delay 10>me!"<Close><End of Block>
-<TextBlock 47 w:48 h:4>
+"N-<Delay 5>No...<Delay 10> No way
+am I...<Delay 5>going to be...<Delay 5>
+controlled...<Delay 5>by you!"<Close><End of Block>
+<TextBlock 47 w:46 h:3>
 Grahf
-"Hmph.
-Protecting your master?
-Then so be it.<New>
-I'll merge with both you
-and your machine then.
-Now come, Fei!
-Fight me!"<Close><End of Block>
-<TextBlock 48 w:50 h:4>
+"Hmph.<Delay 10> Protecting
+its master, eh?<New>
+Very well.<Delay 10>
+I'll merge with that
+machine along with you!<New>
+Now, have at you, Fei!"<Close><End of Block>
+<TextBlock 48 w:52 h:4>
 Fei
-"It's no use!
-I know you're Lacan, and
-that you're a part of me.<New>
-But that doesn't change
-you being my father.
-I could never really
-fight you!<Close><End of Block>
+"Never!<New>
+Sure, maybe you are Lacan,
+a part of me.<Delay 10> But even so,
+it doesn't change the fact
+that you're my dad!<New>
+I could never seriously
+fight you!"<Close><End of Block>
 <TextBlock 49 w:52 h:4>
 Grahf
 "You're so naive!<New>
 Why don't you understand
-that your naivety is what
-killed Sophia, what killed
-your mother, Karen?<Close><End of Block>
-<TextBlock 50 w:54 h:4>
+that such naivety is what
+killed Sophia,<Delay 5> what killed
+Karen?"<Close><End of Block>
+<TextBlock 50 w:50 h:4>
 Fei
-"I already know that!
-That's why I swore never
-to run away again...<New>
-...that I must rescue Elly.
-So don't get in my way!
-Wake up! Open your eyes,
-Father... Lacan!"<Close><End of Block>
-<TextBlock 51 w:38 h:4>
+"I understand!<Delay 10>
+I do understand that!<New>
+That's why I swore.<Delay 10> That
+I won't run away anymore.<Delay 10>
+That I'll save Elly
+no matter what.<New>
+So don't get in my way!<Delay 10>
+Open your eyes, Lacan!"<Close><End of Block>
+<TextBlock 51 w:34 h:4>
 Grahf
-"If that's the case
-..then fight me!
-Fight me!!!"<Close><End of Block>
+"If that's how it
+is, then fight!<Delay 10>
+Fight me, and<-->"<Close><End of Block>
 <TextBlock 52 w:20 h:2>
 Fei
 "I can't!"<Close><End of Block>
-<TextBlock 53 w:24 h:4>
+<TextBlock 53 w:28 h:4>
 Grahf
-"I see...
-Then there's
-no choice."<Close><End of Block>
+"I see...<Delay 10>
+Then you leave
+me no choice."<Close><End of Block>
 <TextBlock 54 w:8 h:2>
 Fei
 "!?"<Close><End of Block>
-<TextBlock 55 w:54 h:4>
+<TextBlock 55 w:54 h:3>
 Grahf
-"Since you are so unwilling
-to fight, I believe I'll
-have to use them as bait."<Close><End of Block>
+"You're not up to the task.<Delay 10>
+So I'll feast on THEM."<Close><End of Block>
 <TextBlock 56 w:6 h:1>
  ! <Close><End of Block>
 <TextBlock 57 w:48 h:4>
 Fei
-"Stop it!<New>
-Don't we have the same
-memories? Can't you also
-remember that sadness
-you felt way back then?<New>
-Why then...why must you
-destroy everything?
-If we stop Deus, won't
-this all be over!?"<Close><End of Block>
+"Stop!<New>
+Our emotions, the sorrow
+we felt back then, must
+surely be the same.<New>
+So why?<Delay 10> Why do you try
+to destroy everything!?<Delay 10>
+Won't it be over if we
+stop Deus!?"<Close><End of Block>
 <TextBlock 58 w:54 h:4>
 Grahf
-"You still don't understand
-...even after your contact
-with the Existence?<New>
-I came to understand after
-my contact with the
-Existence that, even if
-Deus was destroyed...<New>
-...as long as humans still
-inhabit this land, Myyah...
-Elehayym, will be born time
-and again.<New>
-Then all living things may
-as well perish along with
-Deus itself. That's the
-only path to freedom.<New>
-The path to release us from
-the eternal cycles of life,
-the tragedies of history
-and the spell of fate!<New>
-Once I awaken Deus as a
-weapon, I'll obliterate
-all living things...<New>
-Then I'll use your awakened
-self and that machine to
-return everything to
-nothing...<New>
+"Are you still not able to
+comprehend, despite your
+contact with the Existence?<New>
+Through my contact, I knew.<Delay 10>
+I knew that, even if I
+destroyed Deus, as long as
+people lived in this land,<New>
+then Myyah...<Delay 5>Elehayym
+would be born time and
+time again.<New>
+That being the case, I'll
+send people, and all living
+things, to oblivion
+together with Deus.<New>
+It's the only way that
+people,<Delay 5> that we,<Delay 5> will be
+freed from lives that are
+manufactured over and over,<New>
+freed from the tragedies
+of history and the spell
+of fate!<New>
+Once I've awakened
+Deus as a weapon and
+exterminated all life,<New>
+I'll use your awakened self
+and that machine to return
+everything to nothing...<Delay 10>
 That's what I concluded.<New>
-Myyah and Elehayym...are not
-just Deus' mouthpieces.
-That 'woman' is its main
-body!<New>
-Why can't you see that?"<Close><End of Block>
+Neither Myyah nor Elehayym
+are mere representatives
+of Deus!<New>
+That woman is the linchpin.<Delay 10>
+Why don't you see that!?"<Close><End of Block>
 <TextBlock 59 w:52 h:4>
 Fei
-"That's not true.
-She gave her life for me
-by shielding me from harm!<New>
-Her eyes weren't Myyah's!
-Mother came back at the
-last moment!<New>
-Myyah, Mother...even Elly,
-were all humans born on
-this planet!
-Deus doesn't matter!<New>
-You'll see...
-I will bring Elly back!<New>
-Father<Delay 10>...<Delay 10>
-No, Grahf Lacan! 
-If you won't back down..."<Close><End of Block>
-<TextBlock 60 w:16 h:2>
+"It's not true!<Delay 10>
+Mom died to protect
+me that day!<New>
+Her eyes then weren't
+those of Myyah!<Delay 10>
+In that final moment,
+Myyah changed back to Mom!<New>
+Myyah, Mom...<Delay 5>and Elly
+too,<Delay 5> they're humans
+born on this planet!<Delay 10>
+Deus or no Deus!<New>
+You'll see, I'll bring
+Elly back for sure!<New>
+Dad<--><Delay 5> No, Lacan!<Delay 5> If you
+won't back off, then..."<Close><End of Block>
+<TextBlock 60 w:30 h:2>
 Grahf
-"Never!"<Close><End of Block>
-<TextBlock 61 w:28 h:3>
+"Not a chance!"<Close><End of Block>
+<TextBlock 61 w:32 h:2>
 Fei
-"Then I have
-no choice...!"<Close><End of Block>
-<TextBlock 62 w:40 h:2>
-<Opcode 14 1>The time has come<Delay 10>
+"Then so be it!"<Close><End of Block>
+<TextBlock 62 w:42 h:2>
+<Opcode 14 1>It is now time for us
 to truly become one!<Close><End of Block>
 <TextBlock 63 w:34 h:3>
 Khan
@@ -425,7 +430,7 @@ Can you hear me, Fei!?<New>
 Receive this,
 the driving fist
 of my emotion!<Delay 10>
-And become one!"<Close><End of Block>
+And become whole!"<Close><End of Block>
 <TextBlock 72 w:48 h:3>
 Khan
 "...That's right.<Delay 5>
@@ -498,151 +503,143 @@ It's this one who's
 really in the wrong.<New>
 Father and Mother
 were just catalysts.<Close><End of Block>
-<TextBlock 84 w:32 h:4>
+<TextBlock 84 w:34 h:4>
 Grahf
-"Why don't you
-finish me off?<New>
-If you don't get
-rid of me, then
-you cannot get
-what you want."<Close><End of Block>
-<TextBlock 85 w:54 h:4>
+"Why aren't you
+finishing me off?<New>
+Unless you get
+rid of me, your
+wish cannot be
+fulfilled."<Close><End of Block>
+<TextBlock 85 w:48 h:4>
 Fei
-"It's alright...Dad.
-I understand.
-You are not Grahf.<New>
-You are my father.
-You and Grahf are one.
-Your will and purpose
-never change.<New>
-I knew that once we fought.
-But let's stop now.
-Our objectives should be
-the same. <New>
-It is the same as our
-becoming one.
-We don't have to fight."<Close><End of Block>
-<TextBlock 86 w:26 h:4>
+"It's okay now...Dad.<Delay 10>
+I know.<Delay 10>
+You're not like Grahf.<New>
+You're my dad.<Delay 10>
+You and Grahf are one,
+and so are your wills
+and purposes.<New>
+By fighting you,
+I understood that.<Delay 10>
+Let's stop now.<New>
+Our objectives should
+be in accord.<Delay 10> That's the
+same as becoming one.<Delay 10>
+Fighting sure isn't."<Close><End of Block>
+<TextBlock 86 w:24 h:4>
 Fei
-"Arrghh!
-What...!?
-My body...!?"<Close><End of Block>
-<TextBlock 87 w:50 h:4>
+"Argh!<Delay 10>
+Wh-What...!?<Delay 10>
+My body...!"<Close><End of Block>
+<TextBlock 87 w:44 h:4>
 Grahf
-"Zohar is after you!
-The last piece to combine
-with Deus' system.<New>
-It seeks to unify with
-you...the first to have
-been divided from it."<Close><End of Block>
-<TextBlock 88 w:20 h:2>
+"It's searching.<Delay 10>
+The Zohar.<New>
+Deus' system seeks
+the element that is
+its final fragment.<New>
+It seeks unification
+with you who separated
+from it in the very
+beginning."<Close><End of Block>
+<TextBlock 88 w:36 h:2>
 Fei
-"What..!?"<Close><End of Block>
-<TextBlock 89 w:52 h:4>
+"Wh-<Delay 5>What're you<-->"<Close><End of Block>
+<TextBlock 89 w:54 h:4>
 Grahf
-"This is what Lacan wanted
-all along. After all, I'm
+"This is what Lacan
+wanted.<Delay 10> After all, I'm
 an imperfect existence.<New>
 It was inevitable that
-it would come to this...
-considering what had
-happened in the past.<New>
-Lacan's imperfect
-secondary contact with
-the Wave Existence split
-his personality into two.<New>
-Eventually his body died,
-but the original Lacan
-transmigrated...<New>
-Bringing the destiny of
-becoming a Contact with
-him, he was reborn as
-your present body.<New>
-The remaining persona,
-just his desires, lived on
-seperately by possessing
-the bodies of others.<New>
-That is Grahf...that is
-me.<New>
-I may have inherited
-Lacan's will, but I'm not
-the same as the 'Contact
-Lacan'.<New>
-It is impossible for me
-to make real contact.
-There would be no true
-melding and release.<New>
-Even though our bodies
-may be different, I am
-still half of you.
-That fact remains.<New>
-Although I'm imperfect, I
-can merge temporarily with
-Zohar, and thus may be
-able to buy you some time.<New>
-This is the only way I
-can be one with you."<Close><End of Block>
-<TextBlock 90 w:46 h:4>
+it would come to this.<New>
+Long ago, his imperfect
+second contact with the
+Wave Existence split
+Lacan's personality in two.<New>
+In time, his
+flesh perished,<New>
+and having the destiny
+he did as the Contact,
+the real Lacan was
+reincarnated as you.<New>
+But the remaining
+personality, his
+feelings alone, lived
+on by possessing people.<New>
+That is Grahf...<Delay 10> Me.<New>
+However, I may have
+inherited Lacan's will,
+but I'm not the 'Contact
+Lacan' himself.<New>
+I'm not good enough.<Delay 10>
+A true unification and
+liberation wouldn't be
+possible.<New>
+Nevertheless, although my
+body is different, the fact
+remains that I'm the like-
+ness of your divided self.<New>
+Even if I'm imperfect, I
+can unite with the Zohar
+temporarily, at least
+buying you some time.<New>
+Only by doing so can I
+become one with you."<Close><End of Block>
+<TextBlock 90 w:50 h:4>
 Grahf
-"This is all I can do.
-Deus' system will start
-to look for you again.<New>
-Before then, you have
-to destroy the newly
-perfected Deus and
-the Zohar.<New>
-You're the only one
-that can destroy the
-physical barrier that
-encases God's body."<Close><End of Block>
+"This is all I can do.<New>
+At some point, Deus'
+system will search for
+you once again.<New>
+You must destroy the
+perfected Deus and the
+Zohar before then.<New>
+You can destroy the
+barrier surrounding the
+body of God, being a part
+of that body yourself."<Close><End of Block>
 <TextBlock 91 w:12 h:2>
 Fei
 "Dad!"<Close><End of Block>
 <TextBlock 92 w:54 h:4>
 Grahf
-"As you said, that was
-Karen.<New>
-Through many generations
-Myyah is beginning to break
-free from her bounds.<New>
-Now that Elehayym has 
-merged with Deus, she has 
-all of her memories back.<New>
-All the memories from her
-original birth as the
-Contact's complement up to
-her current transmigration.<New>
-That includes all of the
-lives she has lived as
-Myyah, and her substitutes,
-over the centuries.<New>
-And of course, that
-includes your mother's
-memories too."<Close><End of Block>
-<TextBlock 93 w:26 h:3>
+"As you say,
+that was Karen.<New>
+By recurring through
+the generations, Myyah
+is being set free from
+her restraints.<New>
+Having merged with Deus,
+Elehayym now has all the
+memories.<New>
+Including transmigrated
+memories from the beginning
+when she was born as the
+Contact's counterpart,<New>
+as well as the memories
+of every Myyah and those
+she displaced.<New>
+Yes, even your mother's
+memories..."<Close><End of Block>
+<TextBlock 93 w:42 h:2>
 Fei
-"Mother's
-memories...?"<Close><End of Block>
-<TextBlock 94 w:46 h:4>
+"Mom and Myyah's<Delay 5>...?"<Close><End of Block>
+<TextBlock 94 w:36 h:3>
 Grahf
-"Fei, cut away all the
-binds on mankind...<New>
-You should be able to
-do that now. Save her
-and all the other women
-bound with her!"<Close><End of Block>
+"Fei, break all of
+these spells...<New>
+You can surely do
+it now.<Delay 10> Save her,<Delay 5>
+save all of them."<Close><End of Block>
 <TextBlock 95 w:6 h:1>
  ? <Close><End of Block>
-<TextBlock 96 w:48 h:4>
+<TextBlock 96 w:52 h:4>
 Fei
-"It's nothing<Delay 5>...<Delay 5>
-I'm just talking
-to myself.<New>
-I'm sorry, for all the
-trouble I've caused
-everyone.<Delay 15>
-Thank you all so much!<New>
-Anyway, let's get going!<Delay 15>
-There is little time
-left now<Delay 5>...<Delay 5>for me<Delay 5>...<Delay 5>
-and for our planet!"<Close><Close><End of Block>
+"Oh, it's nothing.<Delay 10>
+Everyone...<Delay 5>I'm sorry for
+what I've put you through.<New>
+Let's get going.<Delay 10>
+There's not much time
+left now.<Delay 10> For me,
+or for this planet."<Close><Close><End of Block>

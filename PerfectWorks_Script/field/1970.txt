@@ -20,7 +20,7 @@ Karellen
 Sophia was sacrificed
 for the sake of those
 bastards<Delay 5>..."<Close><End of Block>
-<TextBlock 4 w:52 h:4>
+<TextBlock 4 w:54 h:4>
 Karellen
 "Sophia said that as long
 as we have faith, the path
@@ -33,7 +33,7 @@ Even if we didn't have
 faith,<Delay 5> Sophia did.<Delay 15>
 Why did she have to
 be sacrificed!?<New>
-'Is God dead'<Delay 5>...?<Delay 15>
+'God is dead'...<Delay 5>is that it?<Delay 15>
 Is He not there<Delay 5>...?<Delay 15>
 Or maybe such a thing did
 not exist to begin with!?"<Close><End of Block>

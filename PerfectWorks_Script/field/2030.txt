@@ -1,13 +1,12 @@
 <TextBlock 1 w:16 h:2>
 <Opcode 1 255>Fei
 "Elly!!"<Close><End of Block>
-<TextBlock 2 w:24 h:3>
+<TextBlock 2 w:38 h:3>
 Citan
 "Wait!!<Delay 20>
 Fei!<New>
-You must
-not unleash
-System Id!!"<Close><End of Block>
+We must not let
+the system loose!!"<Close><End of Block>
 <TextBlock 3 w:44 h:4>
 Bart
 "Citan, stop!!<New>

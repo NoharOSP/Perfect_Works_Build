@@ -109,9 +109,9 @@ this machine to move!!"<Close><End of Block>
 Shakhan
 "What are you saying?
 Superficial power?"<Close><End of Block>
-<TextBlock 25 w:44 h:2>
+<TextBlock 25 w:36 h:2>
 Shakhan
-"Ghunnnuuuaaaaaahh..."<Opcode 2 50><Close><End of Block>
+"Grrrraaaagghh..."<Opcode 2 50><Close><End of Block>
 <TextBlock 26 w:44 h:3>
 Grahf
 "My fist is the divine

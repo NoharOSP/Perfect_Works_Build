@@ -30,10 +30,10 @@ The young 'Fei' had no
 means of resisting.<New>
 But he was able to
 endure<Delay 10> 'this part'.<Close><End of Block>
-<TextBlock 10 w:38 h:4>
+<TextBlock 10 w:36 h:4>
 <Opcode 14 1>Eventually,<Delay 10>
 the experiments
-took a turn towards
+took a turn toward
 'the unbearable'.<Close><End of Block>
 <TextBlock 11 w:48 h:4>
 <Opcode 14 1>Many people were

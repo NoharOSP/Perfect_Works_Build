@@ -66,11 +66,11 @@ Enough already!<New>
 Is this it,<Delay 5> are
 these scenes all
 there is to us?<Close><End of Block>
-<TextBlock 15 w:42 h:4>
-It's too much!<Delay 5>
-There's nothing here!<Delay 5>
-A world full of such
-deception and pain...<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+It's so awful!<Delay 5>
+There's nothing here
+but...<Delay 5>a world full of
+this deception and pain!<Close><End of Block>
 <TextBlock 16 w:50 h:2>
 Well, too bad.<Delay 10>
 This is our everything...<Close><End of Block>

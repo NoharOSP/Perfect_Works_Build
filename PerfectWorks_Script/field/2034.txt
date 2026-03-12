@@ -93,8 +93,9 @@ not escape annihilation<New>
 due to the massive damage
 or else the collision with
 the planet's surface,<New>
-Deus detached its core from
-the Zohar power reactor."<Close><End of Block>
+Deus detached the core
+unit from its power
+reactor, Zohar."<Close><End of Block>
 <TextBlock 14 w:28 h:2>
 Fei
 "Zo...har...?"<Close><End of Block>

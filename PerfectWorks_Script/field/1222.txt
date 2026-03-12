@@ -29,11 +29,11 @@ days' worth..."<Close><End of Block>
 <TextBlock 7 w:20 h:2>
 Elly
 "Of what?"<Close><End of Block>
-<TextBlock 8 w:32 h:4>
+<TextBlock 8 w:38 h:4>
 Fei
-"Food.
-We're lucky we
-even found any."<Close><End of Block>
+"Food.<Delay 10>
+We were lucky there
+was even any."<Close><End of Block>
 <TextBlock 9 w:54 h:3>
 Elly
 "But where is everyone!?

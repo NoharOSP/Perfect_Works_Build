@@ -25,8 +25,8 @@ Everyone...<Delay 30>
 My...<Delay 20>memories?<Close><End of Block>
 <TextBlock 11 w:10 h:1>
 Elly?<Close><End of Block>
-<TextBlock 12 w:14 h:1>
-Mother?<Close><End of Block>
+<TextBlock 12 w:8 h:1>
+Mom?<Close><End of Block>
 <TextBlock 13 w:24 h:1>
 Who are you?<Close><End of Block>
 <TextBlock 14 w:32 h:3>

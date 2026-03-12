@@ -21,230 +21,229 @@ memory of this<Delay 5>..."<Close><End of Block>
 <TextBlock 6 w:16 h:2>
 Elly
 "<Delay 5>...<Delay 5>Fei"<Close><End of Block>
-<TextBlock 7 w:48 h:2>
+<TextBlock 7 w:32 h:2>
 Citan
-"<Delay 5>...<Delay 5>What is this place?"<Close><End of Block>
-<TextBlock 8 w:52 h:3>
+"Wh-<Delay 5>What is<-->!?"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
 Citan
-"Even so, Fei.<New>
-Even with your shared fate
-with Deus, why do you have
-such ancient memories<Delay 5>...<Delay 5>?"<Close><End of Block>
-<TextBlock 9 w:32 h:2>
+"But, Fei.<New>
+Even given your connection
+to Deus since ancient
+times, how can you have
+memories of so long ago?"<Close><End of Block>
+<TextBlock 9 w:36 h:2>
 Citan
-"So this <Delay 5>is<Delay 5>...<Delay 5>!"<Close><End of Block>
-<TextBlock 10 w:48 h:2>
+"S-<Delay 5>So this is<-->!?"<Close><End of Block>
+<TextBlock 10 w:36 h:2>
 Bart
-"What is this place...?"<Close><End of Block>
-<TextBlock 11 w:52 h:3>
+"...Where are we?"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
 Bart
-"Yeah, but Fei...<New>
-Even with your shared fate
-with Deus, why do you have
-such ancient memories<Delay 5>...?"<Close><End of Block>
-<TextBlock 12 w:32 h:2>
+"But, Fei...<New>
+Even with your connection
+to Deus since ancient
+times, how can you remember
+stuff from so long ago<Delay 5>...?"<Close><End of Block>
+<TextBlock 12 w:36 h:2>
 Bart
-"So this <Delay 5>is<Delay 5>...<Delay 5>!"<Close><End of Block>
-<TextBlock 13 w:32 h:3>
+"S-<Delay 5>So this is<-->!?"<Close><End of Block>
+<TextBlock 13 w:48 h:2>
 Billy
-"<Delay 5>...<Delay 5>What is this
-divine place?"<Close><End of Block>
-<TextBlock 14 w:52 h:4>
+"...<Delay 5>What is this place?"<Close><End of Block>
+<TextBlock 14 w:54 h:4>
 Billy
-"<Delay 5>...<Delay 5>But Fei.<New>
-Even with an ancient fate,
-there's a limit to what
-normal people can remember
-about the past...<Delay 5>"<Close><End of Block>
-<TextBlock 15 w:36 h:3>
+"...<Delay 5>But still.<Delay 10> Even with
+a connection dating back
+to ancient times,<New>
+can a person really keep
+events of long ago in their
+memory so clearly<Delay 5>...?"<Close><End of Block>
+<TextBlock 15 w:42 h:2>
 Billy
-"<Delay 5>...<Delay 5>So that means
-that this is...!?"<Close><End of Block>
-<TextBlock 16 w:46 h:3>
+"...<Delay 5>Then this is<-->!?"<Close><End of Block>
+<TextBlock 16 w:30 h:3>
 Rico
-"<Delay 5>...<Delay 5>What in god's name
-is this strange place?"<Close><End of Block>
-<TextBlock 17 w:52 h:4>
+"...Umm,<Delay 5> what
+is this place?"<Close><End of Block>
+<TextBlock 17 w:54 h:4>
 Rico
-"Well, I don't understand
-that ancient destiny you
-have with Deus...<New>
-But even then how do you
-remember all these ancient
-memories so well?
-That just ain't human<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 18 w:48 h:4>
+"But, Fei.<New>
+Not that I really get this
+ancient connection you've
+got with Deus or whatever,<New>
+but memories of so long
+ago...<Delay 5>how d'you remember
+so well?<Delay 10> It's beyond normal
+human comprehension<Delay 5>..."<Close><End of Block>
+<TextBlock 18 w:44 h:2>
 Rico
-"So you mean to tell me,
-that the body in there
-is<Delay 5>...<Delay 5>"<Close><End of Block>
+"Wait,<Delay 5> so this is<-->!?"<Close><End of Block>
 <TextBlock 19 w:40 h:2>
 Emeralda
-"<Delay 5>...<Delay 5>What this place?<Close><End of Block>
-<TextBlock 20 w:40 h:4>
+"...<Delay 5>What this place?<Close><End of Block>
+<TextBlock 20 w:52 h:4>
 Emeralda
-"<Delay 5>...<Delay 5>Odd.
-Why you have ancient
-memory<Delay 5>...<Delay 5>?"<Close><End of Block>
-<TextBlock 21 w:32 h:3>
+"...<Delay 5>Strange.<Delay 10>
+Fei, why you have memories
+of long ago<Delay 5>...?"<Close><End of Block>
+<TextBlock 21 w:42 h:2>
 Emeralda
-"Fei...<Delay 5>
-<Delay 5>...<Delay 5>What's this?"<Close><End of Block>
+"...<Delay 5>Fei...<Delay 5>what this?"<Close><End of Block>
 <TextBlock 22 w:42 h:2>
 <Chu-Chu>
 "What is this place?"<Close><End of Block>
-<TextBlock 23 w:46 h:4>
+<TextBlock 23 w:52 h:4>
 <Chu-Chu>
-"<Delay 5>...<Delay 5>Churuly amazing.<New>
-<Chu-Chu>'s tribe have 
-memory as good as any 
-humans, but Fei's is 
-churuly amazing!"<Close><End of Block>
-<TextBlock 24 w:48 h:2>
+"...<Delay 5>Churuly amazing.<New>
+The <Chu-Chu> tribe
+have as good a memory
+as any human, but Fei's
+memory is something else!"<Close><End of Block>
+<TextBlock 24 w:42 h:2>
 <Chu-Chu>
-"Wh-<Delay 5>What's this then?"<Close><End of Block>
+"Th-<Delay 5>Then this is<-->!?"<Close><End of Block>
 <TextBlock 25 w:48 h:2>
 Maria
-"<Delay 5>...<Delay 5>What is this place?"<Close><End of Block>
-<TextBlock 26 w:42 h:3>
+"...<Delay 5>What is this place?"<Close><End of Block>
+<TextBlock 26 w:46 h:4>
 Maria
-"That is incredible.<New>
-That you can clearly 
-remember the past so 
-long ago, I mean<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 27 w:34 h:2>
+"But I'm amazed.<New>
+That someone can recall
+the events of bygone
+days so clearly<Delay 5>..."<Close><End of Block>
+<TextBlock 27 w:36 h:2>
 Maria
-"So this is<Delay 5>...<Delay 5>!?"<Close><End of Block>
-<TextBlock 28 w:50 h:2>
+"S-<Delay 5>So this is<-->!?"<Close><End of Block>
+<TextBlock 28 w:32 h:2>
 Citan
-"What is this place<Delay 5>...<Delay 5>!?"<Close><End of Block>
-<TextBlock 29 w:52 h:3>
+"Wh-<Delay 5>What is<-->!?"<Close><End of Block>
+<TextBlock 29 w:52 h:4>
 Citan
-"Even so, Fei...<New>
-Even with your shared fate
-with Deus, why do you have
-such ancient memories<Delay 5>...<Delay 5>?"<Close><End of Block>
+"But, Fei.<New>
+Even given your connection
+to Deus since ancient
+times, how can you have
+memories of so long ago?"<Close><End of Block>
 <TextBlock 30 w:36 h:2>
 Citan
-"Then this <Delay 5>is<Delay 5>...<Delay 5>!"<Close><End of Block>
+"S-<Delay 5>So this is<-->!?"<Close><End of Block>
 <TextBlock 31 w:40 h:2>
 Emeralda
 "<Delay 5>...<Delay 5>What this place?<Close><End of Block>
-<TextBlock 32 w:40 h:4>
+<TextBlock 32 w:52 h:4>
 Emeralda
-"<Delay 5>...<Delay 5>Amazing.
-Why Fei have ancient
-memory<Delay 5>...<Delay 5>?"<Close><End of Block>
-<TextBlock 33 w:28 h:3>
+"...<Delay 5>Strange.<Delay 10>
+Fei, why you have memories
+of long ago<Delay 5>...?"<Close><End of Block>
+<TextBlock 33 w:42 h:2>
 Emeralda
-"Fei...<Delay 5>
-<Delay 5>...<Delay 5>What this?"<Close><End of Block>
+"...<Delay 5>Fei...<Delay 5>what this?"<Close><End of Block>
 <TextBlock 34 w:26 h:1>
 dummy messege<Close><End of Block>
-<TextBlock 35 w:46 h:4>
+<TextBlock 35 w:50 h:4>
 Fei
-"This is where it all
-started.<Delay 30>
-This is our genesis!<New>
-We<Delay 5>...<Delay 5>no,<Delay 15>
-humans were born here."<Close><End of Block>
-<TextBlock 36 w:54 h:4>
+"The place where it all
+began.<Delay 10> We<--><Delay 5> No, humankind
+was born here."<Close><End of Block>
+<TextBlock 36 w:52 h:4>
 Fei
-"<Delay 5>...<Delay 5>Long ago, <Delay 5>Deus crash-
-landed on this planet in an
-interplanetary colony ship.<New>
-In order to revive itself
-someday, Deus detached
-the Zohar core...<New>
-After this core unit came
-down here, a single woman
-awoke and arose from it."<Close><End of Block>
-<TextBlock 37 w:48 h:3>
+"...<Delay 5>In the distant past,<New>
+having fallen toward
+this planet alongside
+the immigrant ship,<New>
+Deus detached the core
+section of the Zohar
+in order to regenerate
+itself someday.<New>
+...<Delay 5>Not long after, from
+out of this, the core unit
+that had made landfall,<Delay 5>
+a lone woman awakened."<Close><End of Block>
+<TextBlock 37 w:36 h:3>
 Fei
-"She's the mother of all
-humanity<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 38 w:44 h:4>
+"The mother of all
+humankind<Delay 5>..."<Close><End of Block>
+<TextBlock 38 w:52 h:4>
 Fei
-"After she awoke, she
-used all her power to
-bear several beings.<New>
-These would become the
-ancestors of the whole
-of humanity."<Close><End of Block>
+"Having awakened, she used
+her full capabilities<New>
+to give birth to several
+lifeforms who would become
+the progenitors of all
+people."<Close><End of Block>
 <TextBlock 39 w:32 h:4>
 Fei
 "These were the
 Emperor and the
 Gazel Ministry."<Close><End of Block>
-<TextBlock 40 w:52 h:4>
+<TextBlock 40 w:50 h:4>
 Fei
-"Finally, she gave birth
-to replicas of herself to
-be humanity's caretakers."<Close><End of Block>
-<TextBlock 41 w:36 h:4>
+"And finally, she bore
+copies of herself to be
+the people's caretakers."<Close><End of Block>
+<TextBlock 41 w:32 h:4>
 Fei
-"Two selves... 
-The 'human' Mother
-and the weapon...<New>
-The Subject and
-the Complement."<Close><End of Block>
-<TextBlock 42 w:26 h:3>
+"Two selves.<Delay 10>
+The human mother
+and the weapon.<New>
+The subject and
+the complement."<Close><End of Block>
+<TextBlock 42 w:34 h:3>
 Fei
-"That is Elly
-and<Delay 5>...<Delay 5>Myyah."<Close><End of Block>
-<TextBlock 43 w:42 h:4>
+"They are Elly<Delay 5>...<Delay 5>
+and Myyah."<Close><End of Block>
+<TextBlock 43 w:48 h:4>
 Fei
-"I, the sole survivor
-from the colony ship,
-met Elly and<Delay 5>...<New>
+"I,<Delay 5> the sole survivor
+of the crashed immigrant
+ship,<Delay 5> met Elly and<Delay 5>...<New>
 Everything started
-from there<Delay 5>..."<Close><End of Block>
-<TextBlock 44 w:42 h:4>
+from here<Delay 5>..."<Close><End of Block>
+<TextBlock 44 w:46 h:4>
 Fei
-"The land of genesis,<Delay 5>
-'Kadmoni'<Delay 5>...<Delay 5>
+"The land of Kadmoni<Delay 5>...<Delay 5>
 This is that place."<Close><End of Block>
 <TextBlock 45 w:54 h:4>
 Fei
-"Usually, human memories
-cannot be passed down
-through the generations.<New>
-Humans do not normally have
-the ability to compress and
-store memories in their
-introns."<Close><End of Block>
-<TextBlock 46 w:36 h:4>
+"Well..<New>
+Normally, having people's
+memories persist across
+generations in a clear
+form isn't possible.<New>
+Human physiology generally
+doesn't include the ability
+to pack such precise memory
+data into the introns."<Close><End of Block>
+<TextBlock 46 w:34 h:4>
 Fei
-"But Elly and I...<Delay 15>
-and Myyah...<Delay 15>
-are different."<Close><End of Block>
-<TextBlock 47 w:54 h:4>
+"But Elly and I,<Delay 10>
+as well as Myyah,<Delay 10>
+were different."<Close><End of Block>
+<TextBlock 47 w:52 h:4>
 Fei
-"Due to our connection with
-the 'Wave Existence'<Delay 5>...<New>
-That is, due to Zohar's
-ability to change possible
-phenomena, we can clearly
-store data in our introns.<New>
-In other words, we can
-leave behind memories
-to be inherited by our
-descendants."<Close><End of Block>
-<TextBlock 48 w:56 h:4>
+"Through our relationship
+to the Wave Existence...<New>
+in other words, through
+the Zohar's ability to
+shift potential phenomena,<New>
+we can store clearly
+defined data in our
+introns <--><Delay 5> we can store
+memories."<Close><End of Block>
+<TextBlock 48 w:54 h:4>
 Fei
-"The same way the Wave 
-Existence is bound by 
-Zohar,<New>
-this information affixes 
-a part of the Wave 
-Existence's power to me 
-myself, you could say."<Close><End of Block>
-<TextBlock 49 w:46 h:4>
+"Just as the Wave Existence
+is bound by the Zohar,<New>
+you could say this data
+allows a portion of the
+Wave Existence's power
+to bond to me myself."<Close><End of Block>
+<TextBlock 49 w:38 h:4>
 Fei
-"This is the form from
-when Elly and Myyah
-were still one being<Delay 5>...<New>
-This is the first
-woman of our world<Delay 5>..."<Close><End of Block>
+"The form of Elly
+and Myyah when they
+were still one<Delay 5>...<New>
+The first woman
+of this world<Delay 5>..."<Close><End of Block>
 <TextBlock 50 w:32 h:1>
-<Delay 5>...<Delay 5>Our mother<Delay 5>...<Close><Close><End of Block>
+...<Delay 5>Our mother<Delay 5>...<Close><Close><End of Block>

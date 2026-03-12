@@ -59,10 +59,10 @@ Come again!<Close><End of Block>
 Come again!<Close><End of Block>
 <TextBlock 14 w:22 h:1>
 Come again!<Close><End of Block>
-<TextBlock 15 w:48 h:4>
+<TextBlock 15 w:44 h:4>
 Fei
-"Neither the old man or
-woman are around, but it
+"The old man and woman
+aren't around, but it
 can't be helped.<New>
 Let's just leave the
 right amount of money

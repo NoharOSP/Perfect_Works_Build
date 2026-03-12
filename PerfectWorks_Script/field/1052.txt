@@ -404,10 +404,10 @@ Wiseman
 Khan married your mother,
 and I left on a journey
 to strengthen myself."<Close><End of Block>
-<TextBlock 65 w:48 h:3>
+<TextBlock 65 w:50 h:3>
 Fei
-"Then my mother...<Delay 15>
-Where is my mother now?"<Close><End of Block>
+"And Mom?<Delay 15>
+What happened to my mom?"<Close><End of Block>
 <TextBlock 66 w:50 h:3>
 Wiseman
 "You do not remember that
