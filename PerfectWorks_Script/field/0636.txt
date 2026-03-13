@@ -165,16 +165,16 @@ Citan
 <TextBlock 42 w:16 h:2>
 Fei
 "Right!"<Close><End of Block>
-<TextBlock 43 w:42 h:4>
+<TextBlock 43 w:48 h:4>
 Fei
-"Doc Uzuki's house
-is over the bridge
-and up to the north."<Close><End of Block>
-<TextBlock 44 w:42 h:4>
+"Doc Uzuki's house is
+across that bridge up
+there and to the north."<Close><End of Block>
+<TextBlock 44 w:48 h:4>
 Fei
-"Doc Uzuki's house
-is over the bridge
-and up to the north."<Close><End of Block>
+"Doc Uzuki's house is
+across that bridge up
+there and to the north."<Close><End of Block>
 <TextBlock 45 w:3 h:1>
  <Close><End of Block>
 <TextBlock 46 w:34 h:2>
