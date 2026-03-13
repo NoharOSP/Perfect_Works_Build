@@ -3,18 +3,19 @@ Fei
 "Wow...<Delay 10>
 So this is the Church
 workshop, Doc?"<Close><End of Block>
-<TextBlock 2 w:56 h:4>
+<TextBlock 2 w:50 h:4>
 Citan
-"Yes it is. The Church
-workshops are the only
-places that officially<New>
-repair Gears. Let us ask
-about the component we need
+"Yes it is.<New>
+The Church workshops are
+the only places that
+officially repair Gears.<New>
+Let us ask about the
+component we need
 to fix <Weltall>.<New>
 Time is money, as the old
-saying goes!
-Let us do what we need to
-do as quickly as possible."<Close><End of Block>
+saying goes!<Delay 5> Let us do
+what we need to do as
+quickly as possible."<Close><End of Block>
 <TextBlock 3 w:50 h:3>
 Citan
 "Sorry to bother you.<New>

@@ -1,8 +1,8 @@
 <TextBlock 1 w:46 h:3>
 Oh no, my wallet...<New>
-Just when I get enough 
+Just when I get enough
 money to fix my Gear,
-I lose my wallet. <New>
+I lose my wallet.<New>
 What am I gonna do?<Close><End of Block>
 <TextBlock 2 w:50 h:3>
 Bah! Those fools at the
@@ -15,7 +15,6 @@ pay so much?<Close><End of Block>
 <TextBlock 3 w:44 h:2>
 He's always drunk! The
 good-for-nothing slob!<Close><End of Block>
-<TextBlock 4 w:56 h:3>
-I told him not to drown in
-his sorrows, but he wouldn't
-listen, would he...<Close><Close><End of Block>
+<TextBlock 4 w:46 h:2>
+I told him not to drown
+his sorrows, but...<Close><Close><End of Block>

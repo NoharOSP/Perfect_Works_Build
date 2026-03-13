@@ -10,7 +10,7 @@ Elly
 "...You're up?"<Close><End of Block>
 <TextBlock 4 w:44 h:4>
 Elly
-"Hey... Yesterday you
+"Hey...<Delay 20> Yesterday you
 said that your life
 didn't mean anything.<New>
 What was that all
@@ -18,15 +18,16 @@ about?"<Close><End of Block>
 <TextBlock 5 w:42 h:2>
 Fei
 "Why are you asking?"<Close><End of Block>
-<TextBlock 6 w:54 h:4>
+<TextBlock 6 w:52 h:4>
 Elly
-"Why? Yesterday it was like
-you had a death wish.
-D'you think saying such<New>
+"Why?<Delay 20>
+Yesterday it was like
+you had a death wish.<New>
+D'you think saying such
 things wouldn't make me
-curious?<Delay 20> How did you come
-to be wandering in this
-forest?"<Close><End of Block>
+curious?<New>
+How did you come to be
+wandering in this forest?"<Close><End of Block>
 <TextBlock 7 w:38 h:3>
 Fei
 "I should ask you
@@ -64,7 +65,7 @@ of Gears suddenly appeared
 and started fighting right
 in the middle of the place.<New>
 The village was engulfed in
-flames... I couldn't just
+flames...<Delay 10> I couldn't just
 stand there and watch
 Lahan be destroyed...so...<New>
 To try to save the villag-
@@ -72,10 +73,10 @@ ers, I got in an abandoned
 Gear...without even knowing
 how to operate it.<New>
 I just thought maybe I
-could do it... No...it
+could do it...<Delay 20> No...<Delay 5>it
 was more like someone
 whispering to me...<New>
-telling me to do it...
+telling me to do it...<Delay 20>
 But it was a disaster!
 The village..."<Close><End of Block>
 <TextBlock 14 w:40 h:3>
@@ -87,7 +88,7 @@ Elly
 "Fei...?"<Close><End of Block>
 <TextBlock 16 w:44 h:4>
 Fei
-"No... The village was
+"No...<Delay 5> The village was
 destroyed...<Delay 50>by my own
 hand..."<Close><End of Block>
 <TextBlock 17 w:4 h:1>
@@ -106,7 +107,7 @@ trying to help save
 the villagers?"<Close><End of Block>
 <TextBlock 20 w:42 h:4>
 Fei
-"I did try to help.
+"I did try to help.<Delay 10>
 I actually took out
 a few Gears.<New>
 But then I came under
@@ -117,24 +118,24 @@ Timothy...<Delay 10>was hit by
 a hail of bullets..."<Close><End of Block>
 <TextBlock 21 w:52 h:4>
 Fei
-"Then... I don't remember 
+"Then...<Delay 20> I don't remember 
 anything after that.<New>
 The machine went out
-of control...
+of control...<Delay 10>
 Well, that's what Doc
 told me, at least.<New>
-When I came to...
-the village...
-and everyone in it...
+When I came to...<Delay 5>
+the village...<Delay 5>
+and everyone in it...<Delay 5>
 was...<New>
-Alice... She was such a...
-Alice and Timothy...
-Oh god...! Everybody...
+Alice...<Delay 5> She was such a...<Delay 5>
+Alice and Timothy...<Delay 5>
+Oh god...!<Delay 5> Everybody...<Delay 5>
 All such good people..."<Close><End of Block>
 <TextBlock 22 w:48 h:4>
 Elly
 "The machine went out of
-control...? The Gear...?
+control...?<Delay 5> The Gear...?<Delay 5>
 What about the village?"<Close><End of Block>
 <TextBlock 23 w:12 h:2>
 Elly
@@ -146,18 +147,18 @@ those Gears hadn't landed
 in the village...!"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Fei
-"If they had never come
+"If they'd never come
 to the village, never
 started fighting there...<New>
 Then I wouldn't have
 tried to pilot that Gear.<New>
 No one from the village
-would have gotten dragged
-into this. It's all their
+would've gotten dragged
+into this.<Delay 5> It's all their
 fault. Not mine!<New>
-They're the ones to blame.
-If they'd never come...
-none of this would have...
+They're the ones to blame.<Delay 5>
+If they'd never come...<Delay 5>
+none of this would have...<Delay 5>
 If not for them!"<Close><End of Block>
 <TextBlock 26 w:34 h:2>
 Elly
@@ -173,7 +174,7 @@ Fei
 ...Me?"<Close><End of Block>
 <TextBlock 30 w:44 h:4>
 Elly
-"Yes, you're a coward.
+"Yes, you're a coward.<Delay 5>
 All I'm hearing is
 'them, them, them'.<New>
 You talk as if 
@@ -190,12 +191,12 @@ of the battle was those
 Gears making an emergency
 landing.<New>
 But Kislev were only after
-those Gears, right?
+those Gears, right?<Delay 5>
 They weren't out to invade
 Lahan or harm its people.<New>
-No... The villagers...
-They died because you 
-had to pilot the Gear 
+No... The villagers...<Delay 5>
+They died because you
+had to pilot the Gear
 and start fighting!"<Close><End of Block>
 <TextBlock 33 w:10 h:2>
 Fei
@@ -205,7 +206,7 @@ Elly
 "I mean, why would you get
 into a Gear you can't even
 ride!?<New>
-Not just anyone can pilot 
+Not just anyone can pilot
 those machines, you know!<New>
 There is no way an
 untrained civilian could
@@ -219,14 +220,14 @@ downed Gears for it all
 when in the end it was you
 who stirred up the enemy?<New>
 Why won't you take 
-responsibility? Why are 
-you trying to put the 
+responsibility?<Delay 5> Why are
+you trying to put the
 blame on others?<New>
-That's just running away!
+That's just running away!<Delay 5>
 You're a coward!"<Close><End of Block>
-<TextBlock 35 w:52 h:4>
+<TextBlock 35 w:54 h:4>
 Fei
-"Yeah...maybe that...<New>
+"Yeah...<Delay 5>maybe that...<New>
 That's right!
 I'm a coward!<Delay 60>
 I've known it all along.<New>
@@ -234,16 +235,17 @@ I didn't realize my own
 strength and have been
 blaming others for the
 consequences.<New>
-I'm a pitiful excuse for a
-man. But...at the time,
-for some reason, I just
-felt this wild rush of<New>
-blood and I couldn't help
-myself! I didn't know what
+I'm a pitiful excuse
+for a man.<New>
+But...at the time, for some
+reason, I just felt this
+wild rush of blood and I
+couldn't help myself!<New>
+I didn't know what
 else to do..."<Close><End of Block>
 <TextBlock 36 w:34 h:2>
 Elly
-"Fei, I... I'm<-->"<Close><End of Block>
+"Fei, I...<Delay 10> I'm<-->"<Close><End of Block>
 <TextBlock 37 w:50 h:4>
 Fei
 "Shut up!!
@@ -265,9 +267,9 @@ sound of bones shattering
 and the voices cursing
 me...<Close><End of Block>
 <TextBlock 38 w:52 h:4>
-Look! Look at my hands!
+Look!<Delay 5> Look at my hands!<Delay 5>
 Do you know this
-sensation!? Can you hear
+sensation!?<Delay 5> Can you hear
 the voices!?<New>
 This feeling of having
 destroyed my village
@@ -277,13 +279,13 @@ with the kids left behind,
 that there was nothing I
 could do for them...<New>
 I don't even have anywhere
-to go back to...
+to go back to...<Delay 5>
 Or anyone..."<Close><End of Block>
 <TextBlock 39 w:52 h:4>
 Fei
 "I didn't want to get in
 it...<New>
-I couldn't help it...
+I couldn't help it...<Delay 5>
 At the time I just
 couldn't help it..."<Close><End of Block>
 <TextBlock 40 w:24 h:2>
@@ -294,13 +296,14 @@ Elly
 "Fei..."<Close><End of Block>
 <TextBlock 42 w:2 h:1>
 !<Close><End of Block>
-<TextBlock 43 w:34 h:2>
-<Opcode 1 255><L> Path up.
-Watch the cliffs!<Close><End of Block>
-<TextBlock 44 w:42 h:3>
+<TextBlock 43 w:22 h:3>
+<Opcode 1 255><L> Way up.
+Watch out
+for cliffs!<Close><End of Block>
+<TextBlock 44 w:38 h:3>
 <Opcode 1 255><L> Lahan village
              Av <R>
-Beware of landslides!<Close><End of Block>
+Beware of falling!<Close><End of Block>
 <TextBlock 45 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

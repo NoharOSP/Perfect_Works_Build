@@ -50,7 +50,7 @@ Citan
 "Could you wait a
 while?<Delay 20> I am just about
 ready to call it a day.<New>
-Oh, while you wait, there 
+Oh, while you wait, there
 is something interesting
 in the storeroom...<Delay 20>
 Why not check it out?"<Close><End of Block>
@@ -102,10 +102,10 @@ Found some bird seed!<Close><End of Block>
 Tried it again,<Delay 20>
 but the flavor
 hasn't improved...<Close><End of Block>
-<TextBlock 25 w:50 h:3>
-<Opcode 1 255>'The shiny farhead is the
-pruf of justis! Stop the
-njections, yew quack.'<Close><End of Block>
+<TextBlock 25 w:52 h:3>
+<Opcode 1 255>'The shiny farhead proves
+it's the rite move! Stop
+the njections, yew quack.'<Close><End of Block>
 <TextBlock 26 w:46 h:3>
 <Opcode 1 255>Injured, sick, all
 accepted. Come on in!

@@ -27,11 +27,11 @@ Citan
 "Music is a mysterious
 thing...<New>
 Sometimes, it causes people
-to remember the things 
-they would never expect 
+to remember the things
+they would never expect
 to remember.<New>
 Many thoughts,
-feelings, memories... 
+feelings, memories...
 things almost forgotten...<New>
 Regardless of whether
 the listener desires to
@@ -48,17 +48,17 @@ Citan
 "Long ago people would
 listen to this melody,
 just as we are doing now...<New>
-At times they may 
-have been cheered up...
-At other times they
-may have been made to cry."<Close><End of Block>
+At times they may have been
+cheered up...<Delay 10> At other
+times they may have been
+brought to tears."<Close><End of Block>
 <TextBlock 10 w:48 h:3>
 Citan
 "By the way, what brings
 you here today?"<Close><End of Block>
 <TextBlock 11 w:40 h:4>
 Citan
-"Oh, yes. 
+"Oh, yes.
 Her wedding is
 tomorrow, right...?"<Close><End of Block>
 <TextBlock 12 w:42 h:4>
@@ -85,15 +85,15 @@ Citan
 Go right ahead.<New>
 But I will not be
 responsible if you get a
-stomachache from Yui's 
+stomachache from Yui's
 cooking."<Close><End of Block>
 <TextBlock 16 w:50 h:4>
 Citan
-"Perhaps you have 
-heard it sometime in 
+"Perhaps you have
+heard it sometime in
 the past...<New>
-Perhaps a memory 
-buried deep within you 
+Perhaps a memory
+buried deep within you
 wishes to resurface.<Close><End of Block>
 <TextBlock 17 w:48 h:4>
 Citan
@@ -119,7 +119,7 @@ an omen...?"<Close><End of Block>
 <TextBlock 21 w:36 h:4>
 Citan
 "...<Delay 40>
-Now what could 
+Now what could
 it mean...?"<Close><End of Block>
 <TextBlock 22 w:36 h:2>
 What do you think?<Delay 30>

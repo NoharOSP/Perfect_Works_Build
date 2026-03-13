@@ -237,15 +237,15 @@ the desert."<Close><End of Block>
 Citan
 "Well, leave it to me.
 Just you wait and see."<Close><End of Block>
-<TextBlock 37 w:44 h:3>
+<TextBlock 37 w:40 h:3>
 With that truce with
 Kislev, the war is
 basically over.<New>
-Now our job will be to
+Now our job'll be to
 protect the people
 from desert pirates.<Close><End of Block>
 <TextBlock 38 w:46 h:4>
-Three weeks ago Kislev
+Three weeks ago, Kislev
 raided the ruins to the
 north. They're probably
 coming here next.<New>
@@ -285,7 +285,7 @@ All's clear!<Close><End of Block>
 No enemies sighted!<Close><End of Block>
 <TextBlock 45 w:48 h:4>
 Peace...
-The war's not over yet
+The war's not over yet,
 though.<New>
 Still, it's like heaven
 compared to when we were
@@ -293,7 +293,7 @@ always expecting enemy
 attacks.<Close><End of Block>
 <TextBlock 46 w:56 h:3>
 There's a story floating
-around that the Kislev army
+around that the Kislev Army
 is looking for buried Gears.<New>
 Be careful if you go
 digging in the ruins.<Close><End of Block>
@@ -353,19 +353,19 @@ too.<Close><End of Block>
 <TextBlock 53 w:34 h:2>
 Gee, I wanna
 climb up there...<Close><End of Block>
-<TextBlock 54 w:20 h:1>
- Welcome! <Close><End of Block>
-<TextBlock 55 w:54 h:3>
-I counted on the war so I
+<TextBlock 54 w:16 h:1>
+Welcome!<Close><End of Block>
+<TextBlock 55 w:56 h:3>
+I was expecting war, so I
 bought a lot of stuff...<New>
-So what happens to my money
+But what happens to my money
 when we become a republic?
-I'm gonna get wiped out!<Close><End of Block>
+I'm gonna get cleaned out!<Close><End of Block>
 <TextBlock 56 w:50 h:3>
-Lately there's rumors of
-all out war with Kislev.<New>
+Lately there're rumors of
+all-out war with Kislev.<New>
 I'm gonna stock up while
-there're still just small
+they're still just small
 border skirmishes.<Close><End of Block>
 <TextBlock 57 w:48 h:2>
 Hmm, the prices are a
@@ -373,8 +373,8 @@ little high.<New>
 But we need these things
 to cross the desert...<Close><End of Block>
 <TextBlock 58 w:52 h:3>
-Shakhan who had been
-ruling this country
+Shakhan, who had been
+ruling this country,
 has been chased out!<New>
 The war with Kislev might
 end, and life will be easy
@@ -392,7 +392,7 @@ You can stay overnight at
 the bar, so why don't you
 rest there a little bit?<New>
 Traveling all worn and
-tired, might just get you
+tired might just get you
 killed.<Close><End of Block>
 <TextBlock 61 w:46 h:2>
 Hey, why the long face?
@@ -403,7 +403,7 @@ you need a drink...<New>
 <TextBlock 62 w:50 h:3>
 The army's been sending a
 lot of guys down here...<New>
-But surely, there has to
+But surely there has to
 be a more efficient way
 to excavate those ruins!<Close><End of Block>
 <TextBlock 63 w:42 h:3>
@@ -461,14 +461,15 @@ Many people from far and
 wide get together to seek
 out the resources buried
 in the ruins."<Close><End of Block>
-<TextBlock 71 w:44 h:2>
-<Opcode 1 255>Treasure Hunter Assoc.
+<TextBlock 71 w:34 h:3>
+<Opcode 1 255> Treasure-Hunter
+   Association
   Dazil Chapter <Close><End of Block>
 <TextBlock 72 w:36 h:2>
-<Opcode 1 255>  -Lucky Avenue-  
+<Opcode 1 255>  -Lucky Avenue-
  'A relaxing bar' <Close><End of Block>
 <TextBlock 73 w:34 h:1>
- Workshop Admin. <Close><End of Block>
+ Workshop Office <Close><End of Block>
 <TextBlock 74 w:20 h:1>
  Workshop <Close><End of Block>
 <TextBlock 75 w:56 h:10>

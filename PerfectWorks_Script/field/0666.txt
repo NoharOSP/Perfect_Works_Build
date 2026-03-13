@@ -22,9 +22,9 @@ in the warehouse.
 I'm gonna have to order
 more from the Church's
 headquarters.<Close><End of Block>
-<TextBlock 5 w:52 h:3>
-I have finished restocking
-the parts, now maybe I can
+<TextBlock 5 w:54 h:3>
+I've finished restocking
+the parts <--> now maybe I can
 get some rest at last.<Close><End of Block>
 <TextBlock 6 w:40 h:3>
 I'm gonna have to
@@ -35,15 +35,16 @@ I'll have to ask the
 Church's headquarters
 to send a mechanic that
 can repair army Gears.<Close><End of Block>
-<TextBlock 8 w:38 h:2>
-The competition is 
-all gone.<Delay 15> Sigh.<Close><End of Block>
-<TextBlock 9 w:50 h:3>
-The rest of the country 
-has an unusual interest 
-in this area's ruins.<New>
-Large units have come to 
-excavate all the ruins.<Close><End of Block>
+<TextBlock 8 w:44 h:2>
+There's no competition
+anymore.<Delay 15> *sigh*<Close><End of Block>
+<TextBlock 9 w:48 h:3>
+An unusual interest in
+this area's ruins is
+sweeping the country.<New>
+Large-scale forces have
+come to excavate all the
+ruins.<Close><End of Block>
 <TextBlock 10 w:48 h:3>
 Hey, I haven't seen you
 'round here before.<New>
@@ -53,12 +54,12 @@ away with it!<New>
 We're Av Army Guards!
 ...Remember that!<Close><End of Block>
 <TextBlock 11 w:50 h:3>
-<Opcode 1 255>   -This month's goal-   
- 
+<Opcode 1 255>    This month's goal
+           ---
     Search for parts!<Close><End of Block>
 <TextBlock 12 w:52 h:7>
-<Opcode 1 255>   -This month's goals-
- 
+<Opcode 1 255>    This month's goals
+            ---
    Don't let the parts
  in the warehouse run out.
  
