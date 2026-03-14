@@ -109,9 +109,9 @@ Elly
 "Bare fists?"<Close><End of Block>
 <TextBlock 18 w:50 h:4>
 Citan
-"Thanks to the Rankar,
+"Thanks to the Rankar,<New>
 it seems that the thing I
-had brought just in case<New>
+had brought just in case
 did not go to waste..."<Close><End of Block>
 <TextBlock 19 w:8 h:2>
 Elly
@@ -151,7 +151,7 @@ say such things...?"<Opcode 2 60><Close><End of Block>
 <TextBlock 27 w:34 h:4>
 Elly
 "Yes...
-that's right...
+that's right...<Delay 10>
 I am a coward..."<Close><End of Block>
 <TextBlock 28 w:4 h:1>
 !?<Opcode 2 20><Close><End of Block>
@@ -175,23 +175,23 @@ Citan
 "..."<Close><End of Block>
 <TextBlock 34 w:46 h:3>
 Fei
-"So Elly is...
+"So Elly is<--><Delay 10>
 You already suspected?"<Close><End of Block>
 <TextBlock 35 w:28 h:2>
 Citan
 "Fei, she..."<Close><End of Block>
-<TextBlock 36 w:50 h:4>
+<TextBlock 36 w:48 h:4>
 Fei
-"I know. Elly's not to
+"I know.<Delay 5> Elly's not to
 blame for any of this.<New>
 What happened to the
-village is all my fault.
+village is all my fault.<Delay 5>
 I dumped all my feelings
 on Elly...<New>
-No wonder she reacted the
-way she did.
-I'm the one who should
-have apologized."<Close><End of Block>
+No wonder she reacted
+the way she did.<Delay 5>
+I'm the one who
+should've apologized."<Close><End of Block>
 <TextBlock 37 w:46 h:4>
 Citan
 "Fei, do not blame
@@ -201,7 +201,7 @@ You were just trying to
 protect the village."<Close><End of Block>
 <TextBlock 38 w:54 h:4>
 Fei
-"Thanks, Doc...
+"Thanks, Doc...<Delay 10>
 By the way, how is everyone
 from the village doing?"<Close><End of Block>
 <TextBlock 39 w:50 h:4>
@@ -209,7 +209,7 @@ Citan
 "Do not worry, Yui is
 taking care of them.<New>
 I told her to leave soon
-and take them all to... 
+and take them all to...
 a certain place.<New>
 They should be safe there
 for the time being.
@@ -218,7 +218,7 @@ situation now."<Close><End of Block>
 <TextBlock 40 w:24 h:2>
 Fei
 "Okay, Doc."<Close><End of Block>
-<TextBlock 41 w:54 h:4>
+<TextBlock 41 w:52 h:4>
 Citan
 "So...what do we do next?<New>
 First of all, how about we
@@ -228,10 +228,10 @@ Dazil?<New>
 We may learn something
 about what Av and Kislev
 are up to and be able to
-source parts for <Weltall>.<New>
-At any rate, I doubt the Av
-homeland will let the other
-night's fiasco go
+find parts for <Weltall>.<New>
+At any rate, I doubt the
+Av homeland will let the
+other night's fiasco go
 unanswered for long."<Close><End of Block>
 <TextBlock 42 w:36 h:2>
 Fei

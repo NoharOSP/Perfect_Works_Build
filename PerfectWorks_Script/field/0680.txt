@@ -1,8 +1,8 @@
 <TextBlock 1 w:44 h:3>
 Soon this area will be
 totally excavated...<New>
-We'll have to find 
-another place with 
+We'll have to find
+another place with
 buried treasure...<Close><End of Block>
 <TextBlock 2 w:50 h:3>
 Running into those army
@@ -15,7 +15,7 @@ the best place is?<Close><End of Block>
 <TextBlock 3 w:40 h:3>
 Shh!
 I'm trying to think.
-So, keep it down.<Close><End of Block>
+So keep it down.<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Since the army no longer
 controls the dig sites,
@@ -25,28 +25,28 @@ the Church's workshop
 have gone down.
 What should we do?<Close><End of Block>
 <TextBlock 5 w:52 h:4>
-I came here looking for 
+I came here looking for
 fortune...but all the
 good sites are controlled
 by the military.<New>
 I'll have to go home a
 failure. What should I do?<Close><End of Block>
 <TextBlock 6 w:50 h:4>
-I wanted to try my luck 
+I wanted to try my luck
 at treasure hunting.<New>
 I'm pretty successful.
 The reason is I found a
 good partner.<New>
-Even now he's looking at 
+Even now he's looking at
 a map, analyzing our next
 step. I sure depend on my
 pal.<Close><End of Block>
 <TextBlock 7 w:52 h:8>
-<Opcode 1 255>   - Come to Dazil! -
+<Opcode 1 255>    - Come to Dazil! -
  
- If you dig in the ruins, 
+ If you dig in the ruins,
    you too can be rich!
  
           ------
- 
-  Treasure Hunter Assoc. <Close><Close><End of Block>
+     Treasure-Hunter
+       Association<Close><Close><End of Block>

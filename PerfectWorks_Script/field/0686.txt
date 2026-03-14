@@ -24,7 +24,7 @@ Booze is my life companion!<Delay 30>
 Especially in a sucky
 world like this.<New>
 Everyone's searching for
-dough and dynamite... 
+dough and dynamite...
 Ha, how unromantic."<Close><End of Block>
 <TextBlock 4 w:42 h:2>
 Big Joe
@@ -85,8 +85,8 @@ punks!"<Close><End of Block>
 <TextBlock 14 w:46 h:2>
 Lately...<Delay 30>we haven't
 had much luck, have we?<Close><End of Block>
-<TextBlock 15 w:34 h:1>
-Ha-ha! We did it!<Opcode 2 30><Close><End of Block>
+<TextBlock 15 w:32 h:1>
+Haha! We did it!<Opcode 2 30><Close><End of Block>
 <TextBlock 16 w:38 h:2>
 I didn't think it
 would go so well...<Opcode 2 30><Close><End of Block>
@@ -118,7 +118,7 @@ for this!<Close><End of Block>
 <TextBlock 25 w:42 h:3>
 I'm wondering whether
 I should give up this
-job some time soon...<Close><End of Block>
+job sometime soon...<Close><End of Block>
 <TextBlock 26 w:32 h:1>
 Yeah, we did it!<Opcode 2 30><Close><End of Block>
 <TextBlock 27 w:44 h:1>

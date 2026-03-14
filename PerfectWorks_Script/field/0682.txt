@@ -1,7 +1,7 @@
 <TextBlock 1 w:52 h:2>
 You can't let up
 even in peacetime.<New>
-We always have to keep 
+We always have to keep
 working hard just in case.<Close><End of Block>
 <TextBlock 2 w:46 h:3>
 This is the Av Army's
@@ -9,17 +9,18 @@ Dazil Guard Station.
 No civilians allowed.<New>
 If you have no business
 here, please leave.<Close><End of Block>
-<TextBlock 3 w:56 h:4>
+<TextBlock 3 w:54 h:4>
 This town is the center
-of all Gear excavating 
+of all Gear excavating
 in Av.<New>
 They take the generators
-out of excavated Gear to
+out of excavated Gears to
 make new models.<New>
-Protecting this town is
-essential to beating Kislev.<New>
-I left my family at home 
-to come here.<Delay 10> 
+Basically, protecting
+this town is all part of
+crushing those Kislev guys.<New>
+I left my family at home
+to come here.<Delay 10>
 I want to finish my duty
 here and go home.<Close><End of Block>
 <TextBlock 4 w:48 h:3>
@@ -33,13 +34,13 @@ We're Av Army Guards!
 <TextBlock 5 w:56 h:3>
 My friend had family in
 Breidablik, so he went back.<New>
-That's nice. At least he 
+That's nice. At least he
 had someone waiting for him.<Delay 15>
 Me...<Delay 5> I'm all alone...<Delay 5><New>
 I think I'll just cry
 myself to sleep today.<Close><End of Block>
 <TextBlock 6 w:48 h:3>
-The Kislev army is up
+The Kislev Army is up
 to something in the
 land north of here.<New>
 But don't worry...

@@ -37,7 +37,7 @@ Fei
 Where's Doc...?"<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Fei
-"I should have guessed!
+"I should've guessed!
 Doesn't he ever get sick of
 playing with that stuff!?"<Close><End of Block>
 <TextBlock 10 w:52 h:4>
@@ -72,8 +72,8 @@ Well, see you tomorrow, Doc!<Delay 30>
 Good night, Yui, Midori!"<Close><End of Block>
 <TextBlock 15 w:54 h:4>
 Citan
-"I will be bringing the 
-equipment you need to the 
+"I will be bringing the
+equipment you need to the
 village tomorrow morning...<New>
 It does not exactly make me
 feel comfortable to have

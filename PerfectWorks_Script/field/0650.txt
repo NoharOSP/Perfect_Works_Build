@@ -31,13 +31,13 @@ who are after me...<Delay 50>but..."<Opcode 2 100><Close><End of Block>
 <TextBlock 9 w:32 h:2>
 Mysterious Woman
 "Don't move!"<Close><End of Block>
-<TextBlock 10 w:52 h:4>
+<TextBlock 10 w:50 h:4>
 Mysterious Woman
-"I have orders to kill any
+"It's nothing personal.<New>
+I have orders to kill any
 surface-dwelling Lambs I
-come into contact with<New>
-during my mission.
-It's nothing personal."<Close><End of Block>
+come into contact with
+during my mission."<Close><End of Block>
 <TextBlock 11 w:52 h:4>
 Mysterious Woman
 "...I have only one
@@ -83,9 +83,9 @@ me living anyway!"<Close><End of Block>
 Mysterious Woman
 "D-<Delay 10>Don't come
 any closer!"<Opcode 2 60><Close><End of Block>
-<TextBlock 20 w:50 h:4>
+<TextBlock 20 w:46 h:4>
 Fei
-"What are you aiming at?<Delay 30> 
+"What're you aiming at?<Delay 30>
 Here! Shoot me here!<Delay 50>
 C'mon..."<Close><End of Block>
 <TextBlock 21 w:40 h:3>

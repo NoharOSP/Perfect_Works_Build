@@ -4,7 +4,7 @@ Citan
 actuator and bypass
 circuit are both kaput.<New>
 The actuator can be fixed,
-but the circuit needs 
+but the circuit needs
 to be replaced..."<Close><End of Block>
 <TextBlock 2 w:38 h:3>
 Citan
@@ -51,13 +51,12 @@ Elly
 Who are you?"<Close><End of Block>
 <TextBlock 9 w:50 h:4>
 Citan
-"I checked the ID tags
+"I checked the ID tags of
 of the soldiers who died
 in the attack on Lahan...<New>
 The design on their tags
-and the design on your
-uniform there are almost
-the same."<Close><End of Block>
+was similar to the design
+on your uniform there."<Close><End of Block>
 <TextBlock 10 w:2 h:1>
 !<Close><End of Block>
 <TextBlock 11 w:48 h:3>
@@ -112,7 +111,7 @@ Citan
 "If you go straight ahead
 from here you will reach
 the main path.<New>
-Then, just keep going...
+Then, just keep going...<Delay 10>
 Would you please leave us
 while Fei is still asleep?"<Close><End of Block>
 <TextBlock 23 w:4 h:1>
@@ -127,7 +126,7 @@ him if possible... I do
 not want him caught up in
 a needless conflict.<New>
 I am saying this for your
-benefit, too:
+benefit, too:<Delay 5>
 Elly, you do not belong
 in this place.<New>
 Go home to your people."<Close><End of Block>
@@ -154,24 +153,22 @@ sorry."<Close><End of Block>
 <TextBlock 28 w:42 h:2>
 Citan
 "Something terrible?"<Close><End of Block>
-<TextBlock 29 w:44 h:4>
+<TextBlock 29 w:50 h:4>
 Elly
 "Fei told me that us
 showing up ultimately
 got Lahan destroyed.<New>
-He kept saying...
- 'If only they
-  hadn't come...'<Delay 30>
-Because of that,<New>
-I called Fei a coward
-for just wanting to
-escape his own burden
+He said...
+'if they'd never come...'<New>
+So... I called Fei a
+coward for just wanting
+to escape his own burden
 of responsibility."<Close><End of Block>
 <TextBlock 30 w:52 h:4>
 Elly
 "If I hadn't crash-landed
 in that village,<New>
-it would have remained a
+it would've remained a
 peaceful place. All those
 innocent people wouldn't
 have gotten involved.<New>
