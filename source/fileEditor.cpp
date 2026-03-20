@@ -1,27 +1,71 @@
 #include "pch.h"
 #include "fileEditor.h"
 
-fileEditor::fileEditor(patchProcessor* processor, Window* window, int discNum, std::string temp) {
-	pp = processor;
-	num = discNum;
-	pWin = window;
-	tempDir = temp;
+void fileEditor::editSLUS(std::string romFile) {
+	// Insert new SLUS
+	if (patchProcessor::fastName != "" || patchProcessor::jpnName != "") {
+		// Add fast text to softsubs SLUS
+		std::filesystem::current_path(patchProcessor::gamefilePath);
+		if (patchProcessor::num == 1) {
+			std::filesystem::copy(patchProcessor::slusDisc1, applyPatch::temp, std::filesystem::copy_options::update_existing);
+		}
+		if (patchProcessor::num == 2) {
+			std::filesystem::copy(patchProcessor::slusDisc2, applyPatch::temp, std::filesystem::copy_options::update_existing);
+		}
+		if (patchProcessor::jpnName != "") {
+			Window::log_file << "Applying control edits to game's executable." << std::endl;
+			for (const auto& entry : std::filesystem::directory_iterator(applyPatch::temp)) {
+				controlEditor::editExecutable(entry.path().string());
+			}
+		}
+		if (patchProcessor::fastName != "") {
+			Window::log_file << "Applying text speed change to game's executable." << std::endl;
+			for (const auto& entry : std::filesystem::directory_iterator(applyPatch::temp)) {
+				exeEdits(entry.path().string());
+			}
+		}
+		std::filesystem::current_path(Window::home);
+	}
+	// Create batch file to make a new SLUS
+	makeSLUS(romFile);
 }
 
-fileEditor::~fileEditor() {
-
+void fileEditor::makeSLUS(std::string romFile) {
+	std::ofstream batch_file2;
+	Window::log_file << "Creating new SLUS file." << std::endl;
+	batch_file2.open("commands2.cmd", std::ios::trunc);
+	if (patchProcessor::num == 1) {
+		if (patchProcessor::fastName != "" || patchProcessor::jpnName != "") {
+			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\temp\\SLUS_006.64" << std::endl;
+		}
+		else {
+			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\sub_executable\\disc1\\SLUS_006.64" << std::endl;
+		}
+	}
+	if (patchProcessor::num == 2) {
+		if (patchProcessor::fastName != "") {
+			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\temp\\SLUS_006.69" << std::endl;
+		}
+		else {
+			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\sub_executable\\disc2\\SLUS_006.69" << std::endl;
+		}
+	}
+	batch_file2.close();
+	int batch_exit_code = system("cmd.exe /c commands2.cmd");
+	Window::log_file << "Remove new SLUS command file." << std::endl;
+	remove("commands2.cmd");
 }
 
 void fileEditor::exeEdits(std::string file) {
 	std::string trimfile = gameFileTools::fileTrim(file);
-	if (pp->fmvName == "") {
-		if (num == 1) {
+	if (patchProcessor::fmvName == "") {
+		if (patchProcessor::num == 1) {
 			// Check if filename is 0022
 			if (trimfile != "0022") {
 				return;
 			}
 		}
-		if (num == 2) {
+		if (patchProcessor::num == 2) {
 			// Check if filename is 0017
 			if (trimfile != "0017") {
 				return;
@@ -29,13 +73,13 @@ void fileEditor::exeEdits(std::string file) {
 		}
 	}
 	else {
-		if (num == 1) {
+		if (patchProcessor::num == 1) {
 			// Check if filename is SLUS_006.64
 			if (trimfile != "SLUS_006.64") {
 				return;
 			}
 		}
-		if (num == 2) {
+		if (patchProcessor::num == 2) {
 			// Check if filename is SLUS_006.69
 			if (trimfile != "SLUS_006.69") {
 				return;
@@ -60,44 +104,15 @@ void fileEditor::editTextSpeed(std::string file) {
 	fileContents.close();
 }
 
-void fileEditor::editSLUS(std::string romFile) {
-	// Insert new SLUS
-	if (pp->fastName != "" || pp->jpnName != "") {
-		// Add fast text to softsubs SLUS
-		std::filesystem::current_path(pp->gamefilePath);
-		if (num == 1) {
-			std::filesystem::copy(pp->slusDisc1, tempDir, std::filesystem::copy_options::update_existing);
-		}
-		if (num == 2) {
-			std::filesystem::copy(pp->slusDisc2, tempDir, std::filesystem::copy_options::update_existing);
-		}
-		if (pp->jpnName != "") {
-			pWin->log_file << "Applying control edits to game's executable." << std::endl;
-			for (const auto& entry : std::filesystem::directory_iterator(tempDir)) {
-				controlEditor::editExecutable(entry.path().string());
-			}
-		}
-		if (pp->fastName != "") {
-			pWin->log_file << "Applying text speed change to game's executable." << std::endl;
-			for (const auto& entry : std::filesystem::directory_iterator(tempDir)) {
-				exeEdits(entry.path().string());
-			}
-		}
-		std::filesystem::current_path(pWin->home);
-	}
-	// Create batch file to make a new SLUS
-	makeSLUS ms(romFile, num, pp, pWin);
-}
-
 void fileEditor::expRateEdits(std::string file) {
 	std::string trimfile = gameFileTools::fileTrim(file);
 	// Check if filename is 2607
 	if (trimfile != "2607.unk4") {
 		return;
 	}
-	std::filesystem::current_path(pWin->home);
-	std::filesystem::current_path(pp->gamefilePath);
-	std::filesystem::current_path(tempDir);
+	std::filesystem::current_path(Window::home);
+	std::filesystem::current_path(patchProcessor::gamefilePath);
+	std::filesystem::current_path(applyPatch::temp);
 	partyStatEditor pse;
 	pse.deathblowLevels();
 	std::filesystem::current_path("..\\");

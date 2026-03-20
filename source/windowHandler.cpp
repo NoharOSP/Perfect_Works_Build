@@ -1,154 +1,72 @@
 #include "pch.h"
 #include "windowHandler.h"
 
-windowHandler::windowHandler(Window* win) {
-	pWin = win;
-}
-
-windowHandler::~windowHandler() {
-
-}
-
-bool windowHandler::check() {
-	handleScript hs;
-	handleGameplay hg;
-	handleGraphics hgr;
-	hs.checkScript(pWin, this);
-	hg.checkEnc(pWin, this);
-	hs.checkFast(pWin, this);
-	hg.checkExpOne(pWin, this);
-	hg.checkExpTwo(pWin, this);
-	hg.checkGoldOne(pWin, this);
-	hg.checkGoldTwo(pWin, this);
-	hg.checkItemsParty(pWin, this);
-	hg.checkMonsters(pWin, this);
-	hg.checkDeathblows(pWin, this);
-	checkNormArena();
-	checkBasicArena();
-	checkExpArena();
-	hgr.checkResize(pWin, this);
-	checkFMV();
-	hgr.checkPortraits(pWin, this);
-	checkVoice();
-	hgr.checkFlash(pWin, this);
-	hgr.checkRoni(pWin, this);
-	hgr.checkCafe(pWin, this);
-	checkStoryMode();
-	hs.~handleScript();
-	hg.~handleGameplay();
-	hgr.~handleGraphics();
-	checkJpnControls();
-	return ticked;
-}
-
-void windowHandler::checkNormArena() {
-	LRESULT normalarenaticked = SendMessage(pWin->normalarena, BM_GETCHECK, NULL, NULL);
-	if (normalarenaticked == BST_CHECKED) {
-		pWin->log_file << "Normal arena selected." << std::endl;
-		pWin->p_barena = false;
-		pWin->p_earena = false;
-		ticked = true;
+void windowHandler::checkGraphics() {
+	resizeticked = SendMessage(Window::resize, BM_GETCHECK, NULL, NULL);
+	if (resizeticked == BST_CHECKED) {
+		SendMessage(Window::portraits, BM_SETCHECK, BST_UNCHECKED, NULL);
 	}
+	portraitsticked = SendMessage(Window::portraits, BM_GETCHECK, NULL, NULL);
+	if (portraitsticked == BST_CHECKED) {
+		SendMessage(Window::resize, BM_SETCHECK, BST_UNCHECKED, NULL);
+	}
+	flashesticked = SendMessage(Window::flashes, BM_GETCHECK, NULL, NULL);
+	roniticked = SendMessage(Window::roni, BM_GETCHECK, NULL, NULL);
+	cafeticked = SendMessage(Window::cafe, BM_GETCHECK, NULL, NULL);
 }
 
-void windowHandler::checkBasicArena() {
-	LRESULT basicarenaticked = SendMessage(pWin->basicarena, BM_GETCHECK, NULL, NULL);
-	if (basicarenaticked == BST_CHECKED) {
-		pWin->log_file << "Basic arena selected." << std::endl;
-		pWin->p_barena = true;
-		if (pWin->p_story_mode == true) {
-			pWin->log_file << "Unticking story mode." << std::endl;
-			LRESULT smuntick = SendMessage(pWin->storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_story_mode = false;
+void windowHandler::checkGameplay() {
+	encticked = SendMessage(Window::encounters, BM_GETCHECK, NULL, NULL);
+	exponeticked = SendMessage(Window::experience1, BM_GETCHECK, NULL, NULL);
+	if (exponeticked == BST_CHECKED) {
+		SendMessage(Window::experience2, BM_SETCHECK, BST_UNCHECKED, NULL);
+	}
+	exptwoticked = SendMessage(Window::experience2, BM_GETCHECK, NULL, NULL);
+	if (exptwoticked == BST_CHECKED) {
+		SendMessage(Window::experience1, BM_SETCHECK, BST_UNCHECKED, NULL);
+	}
+	goldoneticked = SendMessage(Window::gold1, BM_GETCHECK, NULL, NULL);
+	if (goldoneticked == BST_CHECKED) {
+		SendMessage(Window::gold2, BM_SETCHECK, BST_UNCHECKED, NULL);
+	}
+	goldtwoticked = SendMessage(Window::gold2, BM_GETCHECK, NULL, NULL);
+	if (goldtwoticked == BST_CHECKED) {
+		SendMessage(Window::gold1, BM_SETCHECK, BST_UNCHECKED, NULL);
+	}
+	itemspellsticked = SendMessage(Window::itemspells, BM_GETCHECK, NULL, NULL);
+	monstersticked = SendMessage(Window::monsters, BM_GETCHECK, NULL, NULL);
+	deathblowsticked = SendMessage(Window::deathblows, BM_GETCHECK, NULL, NULL);
+	for (int i = 0; i < Window::gameplayWindList.size(); i++) {
+		LRESULT boxticked = SendMessage(Window::gameplayWindList[i], BM_GETCHECK, NULL, NULL);
+		if (boxticked == BST_CHECKED) {
+			LRESULT smuntick = SendMessage(Window::storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
 		}
-		ticked = true;
-	}
-	else {
-		pWin->p_barena = false;
 	}
 }
 
-void windowHandler::checkExpArena() {
-	LRESULT expertarenaticked = SendMessage(pWin->expertarena, BM_GETCHECK, NULL, NULL);
-	if (expertarenaticked == BST_CHECKED) {
-		pWin->log_file << "Expert arena selected." << std::endl;
-		pWin->p_earena = true;
-		if (pWin->p_story_mode == true) {
-			pWin->log_file << "Unticking story mode." << std::endl;
-			LRESULT smuntick = SendMessage(pWin->storyMode, BM_SETCHECK, BST_UNCHECKED, NULL);
-			pWin->p_story_mode = false;
-		}
-		ticked = true;
-	}
-	else {
-		pWin->p_earena = false;
-	}
+void windowHandler::checkArena() {
+	normalarenaticked = SendMessage(Window::normalarena, BM_GETCHECK, NULL, NULL);
+	basicarenaticked = SendMessage(Window::basicarena, BM_GETCHECK, NULL, NULL);
+	expertarenaticked = SendMessage(Window::expertarena, BM_GETCHECK, NULL, NULL);
 }
 
-void windowHandler::checkFMV() {
-	LRESULT fmvticked = SendMessage(pWin->fmvs, BM_GETCHECK, NULL, NULL);
-	if (fmvticked == BST_CHECKED) {
-		pWin->log_file << "FMV undub ticked." << std::endl;
-		pWin->p_fmv = true;
-		ticked = true;
-	}
-	else {
-		pWin->p_fmv = false;
-	}
+void windowHandler::checkStory() {
+	scriptticked = SendMessage(Window::script, BM_GETCHECK, NULL, NULL);
+	fastticked = SendMessage(Window::fasttext, BM_GETCHECK, NULL, NULL);
 }
 
-void windowHandler::checkVoice() {
-	LRESULT voiceticked = SendMessage(pWin->voice, BM_GETCHECK, NULL, NULL);
-	if (voiceticked == BST_CHECKED) {
-		pWin->log_file << "Battle undub ticked." << std::endl;
-		pWin->p_voice = true;
-		ticked = true;
-	}
-	else {
-		pWin->p_voice = false;
-	}
+void windowHandler::checkAudio() {
+	fmvticked = SendMessage(Window::fmvs, BM_GETCHECK, NULL, NULL);
+	voiceticked = SendMessage(Window::voice, BM_GETCHECK, NULL, NULL);
+	musicticked = SendMessage(Window::music, BM_GETCHECK, NULL, NULL);
 }
 
-void windowHandler::checkStoryMode() {
-	LRESULT storymodeticked = SendMessage(pWin->storyMode, BM_GETCHECK, NULL, NULL);
+void windowHandler::checkModes() {
+	storymodeticked = SendMessage(Window::storyMode, BM_GETCHECK, NULL, NULL);
 	if (storymodeticked == BST_CHECKED) {
-		pWin->log_file << "Story mode ticked." << std::endl;
-		pWin->p_story_mode = true;
-		pWin->log_file << "Unticking incompatible patches." << std::endl;
-		pWin->p_encounters = false;
-		LRESULT enctick = SendMessage(pWin->encounters, BM_SETCHECK, BST_UNCHECKED, NULL);
-		pWin->p_expone = false;
-		LRESULT exponeuntick = SendMessage(pWin->experience1, BM_SETCHECK, BST_UNCHECKED, NULL);
-		pWin->p_exptwo = false;
-		LRESULT exptwountick = SendMessage(pWin->experience2, BM_SETCHECK, BST_UNCHECKED, NULL);
-		pWin->p_goldone = false;
-		LRESULT goldoneuntick = SendMessage(pWin->gold1, BM_SETCHECK, BST_UNCHECKED, NULL);
-		pWin->p_goldtwo = false;
-		LRESULT goldtwountick = SendMessage(pWin->gold2, BM_SETCHECK, BST_UNCHECKED, NULL);
-		pWin->p_monsters = false;
-		LRESULT monuntick = SendMessage(pWin->monsters, BM_SETCHECK, BST_UNCHECKED, NULL);
-		pWin->p_items_spells = false;
-		LRESULT itemuntick = SendMessage(pWin->itemspells, BM_SETCHECK, BST_UNCHECKED, NULL);
-		pWin->p_barena = false;
-		pWin->p_earena = false;
-		LRESULT normtick = SendMessage(pWin->normalarena, BM_SETCHECK, BST_CHECKED, NULL);
-		LRESULT basicuntick = SendMessage(pWin->basicarena, BM_SETCHECK, BST_UNCHECKED, NULL);
-		LRESULT expertuntick = SendMessage(pWin->expertarena, BM_SETCHECK, BST_UNCHECKED, NULL);
-		ticked = true;
+		for (int i = 0; i < Window::gameplayWindList.size(); i++) {
+			LRESULT boxticked = SendMessage(Window::gameplayWindList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
+		}
 	}
-	else {
-		pWin->p_story_mode = false;
-	}
-}
-
-void windowHandler::checkJpnControls() {
-	LRESULT jpnticked = SendMessage(pWin->jpnControls, BM_GETCHECK, NULL, NULL);
-	if (jpnticked == BST_CHECKED) {
-		pWin->log_file << "Japanese controls ticked." << std::endl;
-		pWin->p_jpn_controls = true;
-		ticked = true;
-	}
-	else {
-		pWin->p_jpn_controls = false;
-	}
+	jpnticked = SendMessage(Window::jpnControls, BM_GETCHECK, NULL, NULL);
 }

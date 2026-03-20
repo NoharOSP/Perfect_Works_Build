@@ -12,40 +12,33 @@
 #include "monsterEditor.h"
 #include "graphicalEditor.h"
 
-class Window;
-class patchProcessor;
 class fileEditor;
 
 class applyPatch
 {
 	// Global methods
 public:
-	applyPatch(Window* win, int discNum, patchProcessor* processor);
-	~applyPatch();
-	bool patch();
-	void prepareFiles();
-	void initialise();
-	void createTemp();
-	void iterateTemp();
-	void applyFMV();
-	void backupROM();
-	void executeBat();
-	void cleanup();
-	void makeCue();
+	static bool patch();
+	static void initialise();
+	static void prepareFiles();
+	static void executeBat();
+	static void cleanup();
+    static void makeCue();
+	static void createTemp();
+	static void applyFMV();
+	static void backupROM();
+	static void iterateTemp();
+	
 
 	// Global variables
 public:
-	std::string fileName;
-	std::string oldPath;
-	std::string cueName;
-	std::string cdName;
+	inline static std::string fileName;
+	inline static std::string cueName;
+	inline static std::string cdName;
+	inline static std::string oldPath;
 	inline static std::string temp = "temp";
-	bool patched = false;
-	Window* pWin;
-	int num;
-	patchProcessor* pp;
-	std::ofstream list_file;
-	std::ofstream batch_file;
-	std::ofstream cue_stream;
-	fileEditor* pFE;
+	inline static bool patched = false;
+	inline static std::ofstream list_file;
+	inline static std::ofstream batch_file;
+	inline static std::ofstream cue_stream;
 };

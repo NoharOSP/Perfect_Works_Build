@@ -8,8 +8,6 @@ Window::Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle)
 	winX = axisX;
 	winY = axisY;
 	title = szTitle;
-	pHandle = new windowHandler(this);
-	pPaint = new paintWindow(this);
 	std::filesystem::current_path(home);
 	// Create log
 	log_file.open("pw_log.txt", std::ios::trunc);
@@ -19,8 +17,6 @@ Window::Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle)
 }
 
 Window::~Window() {
-	pHandle->~windowHandler();
-	pPaint->~paintWindow();
 }
 
 void Window::initialise() {
@@ -40,18 +36,11 @@ void Window::initialise() {
 	buttonList.emplace_back(browsebutton2);
 	buttonList.emplace_back(aboutbutton);
 	buttonList.emplace_back(patchbutton);
-	pPaint->createWindows();
-	pPaint->initialiseFont();
+	windowPainter::createWindows(this);
+	windowPainter::initialiseFont();
 	checkboxLock();
 	patchBoxLock();
 	tooltipTextMaker();
-}
-
-
-// Draw window
-void Window::paintProcess() {
-	paintWindow pw(this);
-	pw.paint();
 }
 
 void Window::checkboxLock() {
@@ -129,22 +118,32 @@ void Window::tooltipTextMaker() {
 	// Audio
 	HWND tt_fmvs = toolGenerator(tips.text_fmvs, winHwnd, fmvs, winInst).hWndTT;
 	HWND tt_voice = toolGenerator(tips.text_voices, winHwnd, voice, winInst).hWndTT;
+	HWND tt_music = toolGenerator(tips.text_music, winHwnd, music, winInst).hWndTT;
 	// Mode
 	HWND tt_story_mode = toolGenerator(tips.text_story_mode, winHwnd, storyMode, winInst).hWndTT;
 	HWND tt_jpn_controls = toolGenerator(tips.text_jpn_control, winHwnd, jpnControls, winInst).hWndTT;
 }
 
+// Draw window
+void Window::paintProcess() {
+	windowPainter::paint();
+}
+
 void Window::openFile(HWND hWnd) {
 	// Open ROM files
 	log_file << "Open file browser." << std::endl;
-	romFinder rf(this);
-	rf.browseFiles();
-	rf.~romFinder();
+	romFinder::browseFiles();
 }
 
 // Handle window selection process
 void Window::windowSelect() {
-	if (pHandle->check()) {
+	windowHandler::checkGraphics();
+	windowHandler::checkGameplay();
+	windowHandler::checkArena();
+	windowHandler::checkStory();
+	windowHandler::checkAudio();
+	windowHandler::checkModes();
+	if (!checkfound) {
 		patchBoxLock();
 	}
 }
@@ -153,12 +152,10 @@ void Window::process() {
 	// Check if both discs have paths available
 	log_file << "Preparing to patch." << std::endl;
 	if (pathFound1) {
-		patchProcessor pp1(this, winHwnd, 1, path1);
-		pp1.~patchProcessor();
+		patchProcessor::prepare(1, path1);
 	}
 	if (pathFound2) {
-		patchProcessor pp2(this, winHwnd, 2, path2);
-		pp2.~patchProcessor();
+		patchProcessor::prepare(2, path2);
 	}
 }
 

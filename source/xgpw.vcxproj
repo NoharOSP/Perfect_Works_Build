@@ -159,28 +159,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="applyPatch.h" />
-    <ClInclude Include="arenaVerifier.h" />
     <ClInclude Include="controlEditor.h" />
     <ClInclude Include="fileEditor.h" />
     <ClInclude Include="framework.h" />
-    <ClInclude Include="gameplayVerifier.h" />
     <ClInclude Include="graphicalEditor.h" />
-    <ClInclude Include="graphicsVerifier.h" />
-    <ClInclude Include="handleGameplay.h" />
-    <ClInclude Include="handleGraphics.h" />
-    <ClInclude Include="handleScript.h" />
     <ClInclude Include="helper\gameFileTools.h" />
     <ClInclude Include="main.h" />
-    <ClInclude Include="makeSLUS.h" />
     <ClInclude Include="monsterEditor.h" />
-    <ClInclude Include="paintWindow.h" />
+    <ClInclude Include="windowPainter.h" />
     <ClInclude Include="partyStatEditor.h" />
     <ClInclude Include="patchProcessor.h" />
     <ClInclude Include="patchVerifier.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="romFinder.h" />
-    <ClInclude Include="storyVerifier.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="toolGenerator.h" />
     <ClInclude Include="Window.h" />
@@ -188,23 +180,16 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="applyPatch.cpp" />
-    <ClCompile Include="arenaVerifier.cpp" />
     <ClCompile Include="controlEditor.cpp" />
     <ClCompile Include="fileEditor.cpp" />
-    <ClCompile Include="gameplayVerifier.cpp" />
     <ClCompile Include="graphicalEditor.cpp" />
-    <ClCompile Include="graphicsVerifier.cpp" />
-    <ClCompile Include="handleGameplay.cpp" />
-    <ClCompile Include="handleGraphics.cpp" />
-    <ClCompile Include="handleScript.cpp" />
     <ClCompile Include="helper\gameFileTools.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="makeSLUS.cpp" />
     <ClCompile Include="monsterEditor.cpp" />
-    <ClCompile Include="paintWindow.cpp" />
+    <ClCompile Include="windowPainter.cpp" />
     <ClCompile Include="partyStatEditor.cpp" />
     <ClCompile Include="patchProcessor.cpp" />
     <ClCompile Include="patchVerifier.cpp" />
@@ -215,7 +200,6 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="romFinder.cpp" />
-    <ClCompile Include="storyVerifier.cpp" />
     <ClCompile Include="toolGenerator.cpp" />
     <ClCompile Include="Window.cpp" />
     <ClCompile Include="windowHandler.cpp" />

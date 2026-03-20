@@ -1,47 +1,35 @@
 #include "pch.h"
 #include "applyPatch.h"
 
-applyPatch::applyPatch(Window* win, int discNum, patchProcessor* processor) {
-	pWin = win;
-	num = discNum;
-	pp = processor;
-	pFE = new fileEditor(pp, pWin, num, temp);
-	initialise();
-}
-
-applyPatch::~applyPatch() {
-	pFE->~fileEditor();
-}
-
 void applyPatch::initialise() {
 	Window::log_file << "Initialise patched ROM name and disc number to pass to xenoiso." << std::endl;
 	// Disc 1 data
-	if (num == 1) {
+	if (patchProcessor::num == 1) {
 		fileName = "Xenogears_PW_CD1.bin";
 		cueName = "Xenogears_PW_CD1.cue";
 		cdName = "cd1";
 	}
 	// Disc 2 data
-	if (num == 2) {
+	if (patchProcessor::num == 2) {
 		fileName = "Xenogears_PW_CD2.bin";
 		cueName = "Xenogears_PW_CD2.cue";
 		cdName = "cd2fix";
 	}
-	if (pp->space) {
-		oldPath = pp->tempPath;
+	if (patchProcessor::space) {
+		oldPath = patchProcessor::tempPath;
 	}
 	else {
-		oldPath = pp->filePath;
+		oldPath = patchProcessor::filePath;
 	}
 	// Return to home directory
-	std::filesystem::current_path(pWin->home);
+	std::filesystem::current_path(Window::home);
 }
 
 bool applyPatch::patch() {
 	prepareFiles();
 	executeBat();
-	if (pp->fmvName != "") {
-		pFE->editSLUS(fileName);
+	if (patchProcessor::fmvName != "") {
+		fileEditor::editSLUS(fileName);
 	}
 	cleanup();
 	makeCue();
@@ -68,10 +56,10 @@ void applyPatch::prepareFiles() {
 	list_file.open("list.txt", std::ios::trunc);
 	Window::log_file << "Creating xdelta command file." << std::endl;
 	batch_file.open("commands.cmd", std::ios::trunc);
-	if (!pp->patchList.empty()) {
+	if (!patchProcessor::patchList.empty()) {
 		createTemp();
-		std::filesystem::current_path(pWin->home);
-		if (pp->fmvName != "") {
+		std::filesystem::current_path(Window::home);
+		if (patchProcessor::fmvName != "") {
 			applyFMV();
 		}
 		if (patched) {
@@ -90,29 +78,29 @@ void applyPatch::prepareFiles() {
 void applyPatch::createTemp() {
 	// Create ROMs using xenoiso
 	Window::log_file << "Create temporary directory." << std::endl;
-	std::filesystem::current_path(pp->gamefilePath);
+	std::filesystem::current_path(patchProcessor::gamefilePath);
 	std::filesystem::create_directory(temp);
 	Window::log_file << "Copy files from each selected option into the temporary directory." << std::endl;
-	for (int i = 0; i < pp->patchList.size(); i++) {
-		if (pp->patchList[i] != "" && pp->patchList[i] != pp->fmvPatch) {
-			if (pp->patchList[i] == pp->fastName || pp->patchList[i] == pp->jpnName) {
+	for (int i = 0; i < patchProcessor::patchList.size(); i++) {
+		if (patchProcessor::patchList[i] != "" && patchProcessor::patchList[i] != patchProcessor::fmvPatch) {
+			if (patchProcessor::patchList[i] == patchProcessor::fastName || patchProcessor::patchList[i] == patchProcessor::jpnName) {
 				// Copy executable to temp
-				if (!pWin->p_fmv) {
-					if (num == 1) {
+				if (!windowHandler::fmvticked == BST_CHECKED) {
+					if (patchProcessor::num == 1) {
 						std::filesystem::copy(patchProcessor::exeName1, temp, std::filesystem::copy_options::update_existing);
 					}
-					if (num == 2) {
+					if (patchProcessor::num == 2) {
 						std::filesystem::copy(patchProcessor::exeName2, temp, std::filesystem::copy_options::update_existing);
 					}
-					if (pWin->p_fastnew || pWin->p_fastold) {
+					if (windowHandler::fastticked == BST_CHECKED) {
 						Window::log_file << "Applying text speed change to game's executable." << std::endl;
 						for (const auto& entry : std::filesystem::directory_iterator(temp)) {
-							pFE->exeEdits(entry.path().string());
+							fileEditor::exeEdits(entry.path().string());
 						}
 					}
 				}
 			}
-			std::filesystem::copy(pp->patchList[i], temp, std::filesystem::copy_options::update_existing);
+			std::filesystem::copy(patchProcessor::patchList[i], temp, std::filesystem::copy_options::update_existing);
 		}
 	}
 	iterateTemp();
@@ -123,31 +111,31 @@ void applyPatch::iterateTemp() {
 		// Iterate through enemy files to apply exp or gold changes
 		monsterEditor::verifyFiles();
 	}
-	if (pWin->p_flashes) {
+	if (windowHandler::flashesticked == BST_CHECKED) {
 		// Remove battle flashes
 		graphicalEditor::battleExeEdits();
 	}
-	if (pWin->p_deathblow) {
+	if (windowHandler::deathblowsticked == BST_CHECKED) {
 		Window::log_file << "Applying ability learning level changes." << std::endl;
 		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
-			pFE->expRateEdits(entry.path().string());
+			fileEditor::expRateEdits(entry.path().string());
 		}
 	}
-	if (pWin->p_jpn_controls) {
+	if (windowHandler::jpnticked == BST_CHECKED) {
 		Window::log_file << "Applying Japanese control changes." << std::endl;
 		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
 			controlEditor::addImage(entry.path().string());
-			if (!pWin->p_fmv) {
+			if (!windowHandler::fmvticked == BST_CHECKED) {
 				controlEditor::editExecutable(entry.path().string());
 			}
 			controlEditor::editBattleExe(entry.path().string());
 		}
 	}
-	if (pWin->p_fastnew || pWin->p_fastold) {
-		if (!pWin->p_fmv) {
+	if (windowHandler::fastticked == BST_CHECKED) {
+		if (!windowHandler::fmvticked == BST_CHECKED) {
 			Window::log_file << "Applying text speed change to game's executable." << std::endl;
 			for (const auto& entry : std::filesystem::directory_iterator(temp)) {
-				pFE->exeEdits(entry.path().string());
+				fileEditor::exeEdits(entry.path().string());
 			}
 		}
 	}
@@ -155,23 +143,23 @@ void applyPatch::iterateTemp() {
 
 void applyPatch::applyFMV() {
 	Window::log_file << "Applying FMV undub." << std::endl;
-	std::filesystem::current_path(pWin->home);
+	std::filesystem::current_path(Window::home);
 	Window::log_file << "Creating batch file commands." << std::endl;
 	if (patched) {
 		// Create copy of bin file to stack patches
 		Window::log_file << "Make backup of the ROM if it has already been patched." << std::endl;
 		batch_file << "copy \"" + fileName + "\" backup.bin \n" << std::endl;
 		batch_file << "del \"" + fileName + "\" \n" << std::endl;
-		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s backup.bin patches\\" + pp->fmvPatch + " \"" + fileName + "\" \n" << std::endl;
+		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s backup.bin patches\\" + patchProcessor::fmvPatch + " \"" + fileName + "\" \n" << std::endl;
 	}
 	else {
-		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s \"" + oldPath + "\" patches\\" + pp->fmvPatch + " \"" + fileName + "\" \n" << std::endl;
+		batch_file << "Tools\\xdelta3-3.0.11-i686.exe -d  -s \"" + oldPath + "\" patches\\" + patchProcessor::fmvPatch + " \"" + fileName + "\" \n" << std::endl;
 		patched = true;
 	}
-	if (num == 1) {
+	if (patchProcessor::num == 1) {
 		batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd1_softmod_files_extended.txt -new" << std::endl;
 	}
-	if (num == 2) {
+	if (patchProcessor::num == 2) {
 		batch_file << "Tools\\Insert_log_file.exe " + fileName + " Tools\\xenocd2_softmod_files_extended.txt -new" << std::endl;
 	}
 }
@@ -185,7 +173,7 @@ void applyPatch::backupROM() {
 
 void applyPatch::executeBat() {
 	// Execute patch file
-	if (pp->fmvName != "") {
+	if (patchProcessor::fmvName != "") {
 		Window::log_file << "Executing batch file. Applying FMV patch and rewriting the file table." << std::endl;
 		int batch_exit_code = system("cmd.exe /c commands.cmd");
 	}
@@ -208,15 +196,15 @@ void applyPatch::cleanup() {
 	remove("backup.bin");
 	Window::log_file << "Remove xenoiso list." << std::endl;
 	remove("list.txt");
-	std::filesystem::current_path(pp->gamefilePath);
+	std::filesystem::current_path(patchProcessor::gamefilePath);
 	Window::log_file << "Remove temp directory." << std::endl;
 	std::filesystem::remove_all("temp");
 	Window::log_file << "Remove renamed ROMs." << std::endl;
-	std::filesystem::current_path(pWin->home);
-	if (num == 1) {
+	std::filesystem::current_path(Window::home);
+	if (patchProcessor::num == 1) {
 		std::filesystem::remove("Xenogears1.bin");
 	}
-	if (num == 2) {
+	if (patchProcessor::num == 2) {
 		std::filesystem::remove("Xenogears2.bin");
 	}
 }

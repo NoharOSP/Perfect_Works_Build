@@ -1,53 +1,35 @@
 #include "pch.h"
 #include "patchProcessor.h"
 
-patchProcessor::patchProcessor(Window* win, HWND hWnd, int discNum, std::string path) {
-	// Initialise variables
-	patchWnd = hWnd;
+void patchProcessor::prepare(int discNum, std::string path) {
 	num = discNum;
-	filePath = path;
-	pWin = win;
-	prepare();
-}
-
-patchProcessor::~patchProcessor() {
-	
-}
-
-void patchProcessor::prepare() {
-	SetWindowText(patchWnd, L"Preparing...");
+	SetWindowText(Window::winHwnd, L"Preparing...");
 	// Work around path names with whitespace.
-	pWin->log_file << "Check if disc filename has whitespace characters." << std::endl;
-	if (filePath.find(' ') != std::string::npos) {
-		pWin->log_file << "Whitespace characters found. Creating a copy of the ROM inside the home directory." << std::endl;
+	Window::log_file << "Check if disc filename has whitespace characters." << std::endl;
+	if (path.find(' ') != std::string::npos) {
+		Window::log_file << "Whitespace characters found. Creating a copy of the ROM inside the home directory." << std::endl;
 		removeWhitespace();
 	}
-	std::filesystem::current_path(pWin->home);
-	patchVerifier pv(pWin, this, num);
-	if (pWin->p_fmv) {
-		pv.fmvVerify();
-		std::filesystem::current_path(pWin->home);
-	}
+	std::filesystem::current_path(Window::home);
 	if (gamefileVerify()) {
 		// Check for ticked boxes
-		pv.verify();
+		patchVerifier::verify();
 	}
 	initialisePatchLists();
 	if (filePathValid) {
-		pWin->log_file << "Check if the patcher is inside OneDrive." << std::endl;;
+		Window::log_file << "Check if the patcher is inside OneDrive." << std::endl;;
 		if (oneDriveCheck()) {
 			start();
 		}
 	}
 	else {
-		MessageBox(patchWnd, L"Could not find directory for 'gamefiles'. Check repo for latest version.", L"Error", MB_ICONERROR);
+		MessageBox(Window::winHwnd, L"Could not find directory for 'gamefiles'. Check repo for latest version.", L"Error", MB_ICONERROR);
 	}
-	pv.~patchVerifier();
 }
 
 void patchProcessor::removeWhitespace() {
-	SetWindowText(patchWnd, L"Copying files...");
-	std::filesystem::current_path(pWin->home);
+	SetWindowText(Window::winHwnd, L"Copying files...");
+	std::filesystem::current_path(Window::home);
 	std::string curPath;
 	if (num == 1) {
 		tempPath = "Xenogears1.bin";
@@ -58,15 +40,15 @@ void patchProcessor::removeWhitespace() {
 	std::ifstream src(filePath, std::ios::binary);
 	std::ofstream dst(tempPath, std::ios::binary);
 	dst << src.rdbuf();
-	pWin->log_file << "Copying completed." << std::endl;
+	Window::log_file << "Copying completed." << std::endl;
 	space = true;
 }
 
 bool patchProcessor::gamefileVerify() {
 	// Access directory for files
-	pWin->log_file << "Check if 'gamefiles' directory is valid." << std::endl;
+	Window::log_file << "Check if 'gamefiles' directory is valid." << std::endl;
 	if (std::filesystem::exists(gamefilePath)) {
-		pWin->log_file << "'gamefiles' directory is valid." << std::endl;
+		Window::log_file << "'gamefiles' directory is valid." << std::endl;
 		std::filesystem::current_path(gamefilePath);
 		filePathValid = true;
 	}
@@ -75,7 +57,7 @@ bool patchProcessor::gamefileVerify() {
 
 // Initialise patch list
 void patchProcessor::initialisePatchLists() {
-	pWin->log_file << "Initialise patch names." << std::endl;
+	Window::log_file << "Initialise patch names." << std::endl;
 	patchList.emplace_back(encountersName);
 	patchList.emplace_back(itemspellsName);
 	patchList.emplace_back(jpnName);
@@ -96,41 +78,42 @@ void patchProcessor::initialisePatchLists() {
 	patchList.emplace_back(roniName);
 	patchList.emplace_back(cafeName);
 	patchList.emplace_back(deathblowName);
+	patchList.emplace_back(musicName);
 }
 
 bool patchProcessor::oneDriveCheck() {
 	bool safeDrive = false;
-	if (pWin->home.contains("OneDrive")) {
-		pWin->log_file << "Display OneDrive error." << std::endl;
-		MessageBox(patchWnd, L"The patcher is in the OneDrive. It cannot be used.", L"Error", MB_ICONASTERISK);
-		pWin->log_file << "Abort patching process." << std::endl;
-		SetWindowText(patchWnd, pWin->title);
+	if (Window::home.contains("OneDrive")) {
+		Window::log_file << "Display OneDrive error." << std::endl;
+		MessageBox(Window::winHwnd, L"The patcher is in the OneDrive. It cannot be used.", L"Error", MB_ICONASTERISK);
+		Window::log_file << "Abort patching process." << std::endl;
+		SetWindowText(Window::winHwnd, Window::title);
 	}
 	else {
-		pWin->log_file << "OneDrive is not in use. Resume execution." << std::endl;
+		Window::log_file << "OneDrive is not in use. Resume execution." << std::endl;
 		safeDrive = true;
 	}
 	return safeDrive;
 }
 
 void patchProcessor::start() {
-	pWin->log_file << "Starting patch process." << std::endl;
-	SetWindowText(patchWnd, L"Patching...");
-	pWin->log_file << "Changing cursor to reflect loading." << std::endl;
+	Window::log_file << "Starting patch process." << std::endl;
+	SetWindowText(Window::winHwnd, L"Patching...");
+	Window::log_file << "Changing cursor to reflect loading." << std::endl;
 	SetCursor(LoadCursor(NULL, IDC_WAIT));
 	// Apply patches
-	pWin->log_file << "Applying patches." << std::endl;
-	applyPatch ap(pWin, num, this);
-	if (ap.patch()) {
-		pWin->log_file << "xenoiso process successful." << std::endl;
+	Window::log_file << "Applying patches." << std::endl;
+	applyPatch::initialise();
+	if (applyPatch::patch()) {
+		Window::log_file << "xenoiso process successful." << std::endl;
 		successMessage = true;
 	}
 	else {
-		pWin->log_file << "xenoiso process failed." << std::endl;
+		Window::log_file << "xenoiso process failed." << std::endl;
 		successMessage = false;
 	}
 	if (num == 1) {
-		if (!pWin->pathFound2) {
+		if (!Window::pathFound2) {
 			finish();
 		}
 	}
@@ -140,24 +123,24 @@ void patchProcessor::start() {
 }
 
 void patchProcessor::finish() {
-	SetWindowText(patchWnd, pWin->title);
+	SetWindowText(Window::winHwnd, Window::title);
 	if (successMessage) {
-		pWin->log_file << "Show success message." << std::endl;
-		MessageBox(patchWnd, L"Patch was completed successfully. The completed ROM will be available as Xenogears_PW_CD1 or Xenogears_PW_CD2.", L"Success", MB_ICONASTERISK);
+		Window::log_file << "Show success message." << std::endl;
+		MessageBox(Window::winHwnd, L"Patch was completed successfully. The completed ROM will be available as Xenogears_PW_CD1 or Xenogears_PW_CD2.", L"Success", MB_ICONASTERISK);
 	}
 	else {
-		pWin->log_file << "Show failure message." << std::endl;
-		MessageBox(patchWnd, L"An error occurred with xenoiso. View pw_log for details.", L"Error", MB_ICONASTERISK);
+		Window::log_file << "Show failure message." << std::endl;
+		MessageBox(Window::winHwnd, L"An error occurred with xenoiso. View pw_log for details.", L"Error", MB_ICONASTERISK);
 	}
 	// Restore defaults
 	reinitialisePatches();
 	clearPatchLists();
-	pWin->restoreDefaults();
+	Window::restoreDefaults();
 }
 
 // Removes patch names
 void patchProcessor::reinitialisePatches() {
-	pWin->log_file << "Clearing patch names." << std::endl;
+	Window::log_file << "Clearing patch names." << std::endl;
 	for (int i = 0; i < patchList.size(); i = i + 1) {
 		patchList[i] = "";
 	}
@@ -165,6 +148,6 @@ void patchProcessor::reinitialisePatches() {
 
 // Clear patch lists
 void patchProcessor::clearPatchLists() {
-	pWin->log_file << "Clearing patch lists." << std::endl;
+	Window::log_file << "Clearing patch lists." << std::endl;
 	patchList.clear();
 }
