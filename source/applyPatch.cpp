@@ -107,38 +107,11 @@ void applyPatch::createTemp() {
 }
 
 void applyPatch::iterateTemp() {
-	if (patchProcessor::expName != "" || patchProcessor::goldName != "") {
-		// Iterate through enemy files to apply exp or gold changes
-		monsterEditor::verifyFiles();
-	}
-	if (windowHandler::flashesticked == BST_CHECKED) {
-		// Remove battle flashes
-		graphicalEditor::battleExeEdits();
-	}
-	if (windowHandler::deathblowsticked == BST_CHECKED) {
-		Window::log_file << "Applying ability learning level changes." << std::endl;
-		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
-			fileEditor::expRateEdits(entry.path().string());
-		}
-	}
-	if (windowHandler::jpnticked == BST_CHECKED) {
-		Window::log_file << "Applying Japanese control changes." << std::endl;
-		for (const auto& entry : std::filesystem::directory_iterator(temp)) {
-			controlEditor::addImage(entry.path().string());
-			if (!windowHandler::fmvticked == BST_CHECKED) {
-				controlEditor::editExecutable(entry.path().string());
-			}
-			controlEditor::editBattleExe(entry.path().string());
-		}
-	}
-	if (windowHandler::fastticked == BST_CHECKED) {
-		if (!windowHandler::fmvticked == BST_CHECKED) {
-			Window::log_file << "Applying text speed change to game's executable." << std::endl;
-			for (const auto& entry : std::filesystem::directory_iterator(temp)) {
-				fileEditor::exeEdits(entry.path().string());
-			}
-		}
-	}
+	fileEditor::graphicEdits();
+	fileEditor::gameplayEdits();
+	fileEditor::scriptEdits();
+	fileEditor::audioEdits();
+	fileEditor::modeEdits();
 }
 
 void applyPatch::applyFMV() {

@@ -1,6 +1,54 @@
 #include "pch.h"
 #include "fileEditor.h"
 
+void fileEditor::graphicEdits() {
+	if (windowHandler::flashesticked == BST_CHECKED) {
+		// Remove battle flashes
+		graphicalEditor::battleExeEdits();
+	}
+}
+
+void fileEditor::gameplayEdits() {
+	if (patchProcessor::expName != "" || patchProcessor::goldName != "") {
+		// Iterate through enemy files to apply exp or gold changes
+		monsterEditor::verifyFiles();
+	}
+	if (windowHandler::deathblowsticked == BST_CHECKED) {
+		Window::log_file << "Applying ability learning level changes." << std::endl;
+		for (const auto& entry : std::filesystem::directory_iterator(applyPatch::temp)) {
+			expRateEdits(entry.path().string());
+		}
+	}
+}
+
+void fileEditor::scriptEdits() {
+	if (windowHandler::fastticked == BST_CHECKED) {
+		if (!windowHandler::fmvticked == BST_CHECKED) {
+			Window::log_file << "Applying text speed change to game's executable." << std::endl;
+			for (const auto& entry : std::filesystem::directory_iterator(applyPatch::temp)) {
+				exeEdits(entry.path().string());
+			}
+		}
+	}
+}
+
+void fileEditor::audioEdits() {
+
+}
+
+void fileEditor::modeEdits() {
+	if (windowHandler::jpnticked == BST_CHECKED) {
+		Window::log_file << "Applying Japanese control changes." << std::endl;
+		for (const auto& entry : std::filesystem::directory_iterator(applyPatch::temp)) {
+			controlEditor::addImage(entry.path().string());
+			if (!windowHandler::fmvticked == BST_CHECKED) {
+				controlEditor::editExecutable(entry.path().string());
+			}
+			controlEditor::editBattleExe(entry.path().string());
+		}
+	}
+}
+
 void fileEditor::editSLUS(std::string romFile) {
 	// Insert new SLUS
 	if (patchProcessor::fastName != "" || patchProcessor::jpnName != "") {

@@ -12,6 +12,11 @@ class fileEditor
 {
 	// Global methods
 public:
+	static void graphicEdits();
+	static void gameplayEdits();
+	static void scriptEdits();
+	static void audioEdits();
+	static void modeEdits();
 	static void editSLUS(std::string romFile);
 	static void makeSLUS(std::string romFile);
 	static void exeEdits(std::string file);

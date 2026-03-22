@@ -3,6 +3,7 @@
 
 void patchProcessor::prepare(int discNum, std::string path) {
 	num = discNum;
+	filePath = path;
 	SetWindowText(Window::winHwnd, L"Preparing...");
 	// Work around path names with whitespace.
 	Window::log_file << "Check if disc filename has whitespace characters." << std::endl;
