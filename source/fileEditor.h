@@ -3,36 +3,19 @@
 #include <string>
 #include <iostream>
 #include <fstream>
+#include "applyPatch.h"
 #include "Resource.h"
-#include "patchProcessor.h"
-#include "Window.h"
-#include "makeSLUS.h"
+#include "partyStatEditor.h"
 #include "helper/gameFileTools.h"
-
-class patchProcessor;
-class Window;
 
 class fileEditor
 {
 	// Global methods
 public:
-	fileEditor(patchProcessor* processor, Window* window, int discNum, std::string temp);
-	~fileEditor();
-	void monsterEdits(std::string file);
-	void iterateMonster(std::string file);
-	void exeEdits(std::string file);
-	void battleExeEdits(std::string file);
-	void editSLUS(std::string romFile);
-	void setMonsterData(int data[], bool gear);
-	void editExp(std::fstream* fileContents, int i, int nextpos, wchar_t buffer, int data[]);
-	void editGold(std::fstream* fileContents, int i, int nextpos, wchar_t buffer, int data[]);
-	void editTextSpeed(std::string file);
-
-	// Global variables
-public:
-	patchProcessor* pp;
-	int num;
-	Window* pWin;
-	std::string tempDir;
+	static void editSLUS(std::string romFile);
+	static void makeSLUS(std::string romFile);
+	static void exeEdits(std::string file);
+	static void editTextSpeed(std::string file);
+	static void expRateEdits(std::string file);
 };
 

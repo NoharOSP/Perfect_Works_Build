@@ -51,37 +51,25 @@
     <ClInclude Include="fileEditor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="paintWindow.h">
+    <ClInclude Include="windowPainter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="windowHandler.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="graphicsVerifier.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="gameplayVerifier.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="arenaVerifier.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="storyVerifier.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="handleScript.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="handleGameplay.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="handleGraphics.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="makeSLUS.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="helper\gameFileTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="partyStatEditor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="controlEditor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="monsterEditor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="graphicalEditor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -113,37 +101,25 @@
     <ClCompile Include="fileEditor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="paintWindow.cpp">
+    <ClCompile Include="windowPainter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="windowHandler.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="graphicsVerifier.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="gameplayVerifier.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="arenaVerifier.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="storyVerifier.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="handleScript.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="handleGameplay.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="handleGraphics.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="makeSLUS.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="helper\gameFileTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="partyStatEditor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="controlEditor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="monsterEditor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="graphicalEditor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,18 +1,10 @@
 #include "pch.h"
 #include "romFinder.h"
 
-romFinder::romFinder(Window* win) {
-	pWin = win;
-}
-
-romFinder::~romFinder() {
-
-}
-
 void romFinder::browseFiles() {
 	ZeroMemory(&ofn, sizeof(ofn));
 	ofn.lStructSize = sizeof(ofn);
-	ofn.hwndOwner = pWin->winHwnd;
+	ofn.hwndOwner = Window::winHwnd;
 	ofn.lpstrFilter = "Bin File (*.bin)\0*.bin\0";
 	ofn.Flags = OFN_DONTADDTORECENT | OFN_ENABLESIZING | OFN_FILEMUSTEXIST | OFN_PATHMUSTEXIST;
 	ofn.nMaxFile = MAX_PATH;
@@ -21,21 +13,21 @@ void romFinder::browseFiles() {
 	ofn.lpstrFile[0] = '\0';
 	ofn.nFilterIndex = 1;
 	if (GetOpenFileNameA(&ofn)) {
-		pWin->log_file << "File selected." << std::endl;
+		Window::log_file << "File selected." << std::endl;
 		std::string path = ofn.lpstrFile;
 		// Check for Xenogears bin files
 		searchCD(path);
 		if (getFound()) {
-			pWin->log_file << "Xenogears has been found. Determine disc number." << std::endl;
-			pWin->discNum = getDisc();
+			Window::log_file << "Xenogears has been found. Determine disc number." << std::endl;
+			Window::discNum = getDisc();
 			if (discNum == 1 || discNum == 2) {
 				setPathText(path);
 			}
 			else {
 				romErrorMsg();
 			}
-			if (pWin->pathFound1 || pWin->pathFound2) {
-				pWin->checkboxLock();
+			if (Window::pathFound1 || Window::pathFound2) {
+				Window::checkboxLock();
 			}
 		}
 		else {
@@ -46,32 +38,32 @@ void romFinder::browseFiles() {
 
 void romFinder::setPathText(std::string path) {
 	if (discNum == 1) {
-		pWin->log_file << "Disc 1 found." << std::endl;
-		pWin->pathFound1 = true;
-		pWin->log_file << "Determine disc 1 path." << std::endl;
-		pWin->path1 = path;
+		Window::log_file << "Disc 1 found." << std::endl;
+		Window::pathFound1 = true;
+		Window::log_file << "Determine disc 1 path." << std::endl;
+		Window::path1 = path;
 	}
 	if (discNum == 2) {
-		pWin->log_file << "Disc 2 found." << std::endl;
-		pWin->pathFound2 = true;
-		pWin->log_file << "Determine disc 2 path." << std::endl;
-		pWin->path2 = path;
+		Window::log_file << "Disc 2 found." << std::endl;
+		Window::pathFound2 = true;
+		Window::log_file << "Determine disc 2 path." << std::endl;
+		Window::path2 = path;
 	}
 	std::wstring wpath = std::wstring(path.begin(), path.end());
 	LPCWSTR lpath = wpath.c_str();
 	if (discNum == 1) {
-		pWin->log_file << "Put disc 1 path in path window." << std::endl;
-		SetWindowText(pWin->cd1path, lpath);
+		Window::log_file << "Put disc 1 path in path window." << std::endl;
+		SetWindowText(Window::cd1path, lpath);
 	}
 	if (discNum == 2) {
-		pWin->log_file << "Put disc 2 path in path window." << std::endl;
-		SetWindowText(pWin->cd2path, lpath);
+		Window::log_file << "Put disc 2 path in path window." << std::endl;
+		SetWindowText(Window::cd2path, lpath);
 	}
 }
 
 void romFinder::romErrorMsg() {
-	pWin->log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
-	MessageBox(pWin->winHwnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
+	Window::log_file << "The selected file is not a valid Xenogears ROM." << std::endl;
+	MessageBox(Window::winHwnd, L"The bin is not valid.", L"Error", MB_ICONERROR);
 }
 
 void romFinder::searchCD(std::string path) {

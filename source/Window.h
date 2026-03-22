@@ -3,12 +3,12 @@
 #include <vector>
 #include <string>
 #include <iostream>
+#include "windowHandler.h"
 #include "toolGenerator.h"
 #include "Resource.h"
 #include "romFinder.h"
 #include "patchProcessor.h"
-#include "windowHandler.h"
-#include "paintWindow.h"
+#include "windowPainter.h"
 
 struct tipDesc {
 	char text_encounters[255] =
@@ -101,10 +101,24 @@ struct tipDesc {
 		"sprite over her nanoreactor\n"
 		"one when eating at the Aveh\n"
 		"cafe.\n";
+	char text_deathblow[255] =
+		"Removes level requirements from\n"
+		"Deathblows. While button combos\n"
+		"are still required to learn the\n"
+		"Deathblow, the player can try to\n"
+		"learn any of them as soon as the\n"
+		"game begins.\n";
+	char text_jpn_control[255] =
+		"Switch to the Japanese control\n"
+		"scheme. This applies to the\n"
+		"overworld, battles, and the\n"
+		"speed minigame.";
+	char text_music[255] =
+		"Adjusts the music placement in\n"
+		"specific scenes so that they are\n"
+		"are more appropriate and prevents\n"
+		"some tracks from being overplayed.";
 };
-
-class windowHandler;
-class paintWindow;
 
 class Window
 {
@@ -112,88 +126,70 @@ class Window
 public:
 	Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle);
 	~Window();
+	static void checkboxLock();
+	static void restoreDefaults();
+	static void patchBoxLock();
 	void initialise();
 	void paintProcess();
-	void checkboxLock();
-	void patchBoxLock();
 	void tooltipTextMaker();
 	void openFile(HWND hWnd);
 	void windowSelect();
 	void process();
-	void restoreDefaults();
 
 	// Global variables
 public:
-	HWND winHwnd;
-	HWND cd1path;
-	HWND cd2path;
 	HWND browsebutton1;
 	HWND browsebutton2;
 	HWND aboutbutton;
-	HWND patchbutton;
-	HWND resize;
-	HWND portraits;
-	HWND flashes;
-	HWND roni;
-	HWND cafe;
-	HWND encounters;
-	HWND experience1;
-	HWND experience2;
-	HWND gold1;
-	HWND gold2;
-	HWND itemspells;
-	HWND monsters;
-	HWND normalarena;
-	HWND basicarena;
-	HWND expertarena;
-	HWND fasttext;
-	HWND script;
-	HWND fmvs;
-	HWND voice;
-	HWND storyMode;
-	HINSTANCE winInst;
-	int winX;
-	int winY;
-	int discNum;
-	float graphicsx = 0.03;
-	float gameplayx = 0.18;
-	float arenax = 0.36;
-	float storyx = 0.51;
-	float audiox = 0.69;
-	float smx = 0.84;
-	std::vector<HWND> pathList;
-	std::vector<HWND> buttonList;
-	std::vector<HWND> windList;
-	bool pathFound1 = false;
-	bool pathFound2 = false;
-	bool found = false;
-	bool checkfound = false;
-	bool p_encounters = false;
-	bool p_expone = false;
-	bool p_exptwo = false;
-	bool p_fastold = false;
-	bool p_fastnew = false;
-	bool p_items_spells = false;
-	bool p_monsters = false;
-	bool p_resize = false;
-	bool p_script = false;
-	bool p_barena = false;
-	bool p_earena = false;
-	bool p_fmv = false;
-	bool p_portraits = false;
-	bool p_voice = false;
-	bool p_flashes = false;
-	bool p_story_mode = false;
-	bool p_goldone = false;
-	bool p_goldtwo = false;
-	bool p_roni = false;
-	bool p_cafe = false;
-	std::ofstream log_file;
-	std::string path1 = "";
-	std::string path2 = "";
-	std::string home;
-	LPWSTR title;
-	windowHandler* pHandle;
-	paintWindow* pPaint;
+	inline static HWND patchbutton;
+	inline static HWND cd1path;
+	inline static HWND cd2path;
+	inline static HWND winHwnd;
+	inline static HWND resize;
+	inline static HWND portraits;
+	inline static HWND flashes;
+	inline static HWND roni;
+	inline static HWND cafe;
+	inline static HWND encounters;
+	inline static HWND experience1;
+	inline static HWND experience2;
+	inline static HWND gold1;
+	inline static HWND gold2;
+	inline static HWND itemspells;
+	inline static HWND monsters;
+	inline static HWND deathblows;
+	inline static HWND normalarena;
+	inline static HWND basicarena;
+	inline static HWND expertarena;
+	inline static HWND fasttext;
+	inline static HWND script;
+	inline static HWND fmvs;
+	inline static HWND voice;
+	inline static HWND storyMode;
+	inline static HWND jpnControls;
+	inline static HWND music;
+	inline static HINSTANCE winInst;
+	inline static int winX;
+	inline static int winY;
+	inline static int discNum;
+	inline static float graphicsx = 0.03;
+	inline static float gameplayx = 0.18;
+	inline static float arenax = 0.36;
+	inline static float storyx = 0.51;
+	inline static float audiox = 0.69;
+	inline static float smx = 0.84;
+	inline static std::vector<HWND> windList;
+	inline static std::vector<HWND> gameplayWindList;
+	inline static std::vector<HWND> pathList;
+	inline static std::vector<HWND> buttonList;
+	inline static bool pathFound1 = false;
+	inline static bool pathFound2 = false;
+	inline static bool found = false;
+	inline static bool checkfound = false;
+	inline static std::ofstream log_file;
+	inline static std::string path1 = "";
+	inline static std::string path2 = "";
+	inline static std::string home = std::filesystem::current_path().string();
+	inline static LPWSTR title;
 };
 

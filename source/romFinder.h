@@ -9,21 +9,18 @@
 #include <string>
 #include <bitset>
 
-class Window;
 
 class romFinder
 {
 	// Global methods
 public:
-	romFinder(Window* win);
-	~romFinder();
-	void browseFiles();
-	void setPathText(std::string path);
-	void romErrorMsg();
-	void searchCD(std::string path);
-	void findDiscNum(std::string path);
-	bool getFound();
-	int getDisc();
+	static void browseFiles();
+	static void searchCD(std::string path);
+	static void setPathText(std::string path);
+	static void romErrorMsg();
+	static void findDiscNum(std::string path);
+	static bool getFound();
+	static int getDisc();
 
 	// Private variables
 private:
@@ -31,12 +28,11 @@ private:
 
 	// Global variables
 public:
-	OPENFILENAMEA ofn;
-	bool xenoFound = false;
-	bool discFound = false;
-	int discNum = 0;
-	int fileSize = 0;
-	unsigned char buffer;
-	Window* pWin;
+	inline static OPENFILENAMEA ofn;
+	inline static bool xenoFound = false;
+	inline static bool discFound = false;
+	inline static int discNum = 0;
+	inline static int fileSize = 0;
+	inline static unsigned char buffer;
 };
 
