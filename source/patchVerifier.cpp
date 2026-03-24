@@ -200,7 +200,9 @@ void patchVerifier::audioVerify() {
 	}
 	if (windowHandler::musicticked == BST_CHECKED) {
 		Window::log_file << "Music change directory found." << std::endl;
-		patchProcessor::musicName = "music";
+		if (!windowHandler::scriptticked == BST_CHECKED) {
+			patchProcessor::musicName = "music";
+		}
 	}
 }
 

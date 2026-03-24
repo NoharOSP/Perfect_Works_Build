@@ -159,6 +159,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="applyPatch.h" />
+    <ClInclude Include="audioEditor.h" />
     <ClInclude Include="controlEditor.h" />
     <ClInclude Include="fileEditor.h" />
     <ClInclude Include="framework.h" />
@@ -180,6 +181,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="applyPatch.cpp" />
+    <ClCompile Include="audioEditor.cpp" />
     <ClCompile Include="controlEditor.cpp" />
     <ClCompile Include="fileEditor.cpp" />
     <ClCompile Include="graphicalEditor.cpp" />

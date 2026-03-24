@@ -72,6 +72,9 @@
     <ClInclude Include="graphicalEditor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="audioEditor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -120,6 +123,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="graphicalEditor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="audioEditor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

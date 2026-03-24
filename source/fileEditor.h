@@ -6,6 +6,7 @@
 #include "applyPatch.h"
 #include "Resource.h"
 #include "partyStatEditor.h"
+#include "audioEditor.h"
 #include "helper/gameFileTools.h"
 
 class fileEditor

@@ -62,7 +62,6 @@ void patchProcessor::initialisePatchLists() {
 	patchList.emplace_back(encountersName);
 	patchList.emplace_back(itemspellsName);
 	patchList.emplace_back(jpnName);
-	patchList.emplace_back(fastName);
 	patchList.emplace_back(scriptName);
 	patchList.emplace_back(fmvName);
 	patchList.emplace_back(fmvPatch);
@@ -73,13 +72,14 @@ void patchProcessor::initialisePatchLists() {
 	patchList.emplace_back(expName);
 	patchList.emplace_back(goldName);
 	patchList.emplace_back(monsterName);
+	patchList.emplace_back(musicName);
 	patchList.emplace_back(arenaName);
+	patchList.emplace_back(fastName);
 	patchList.emplace_back(voiceName);
 	patchList.emplace_back(titleName);
 	patchList.emplace_back(roniName);
 	patchList.emplace_back(cafeName);
 	patchList.emplace_back(deathblowName);
-	patchList.emplace_back(musicName);
 }
 
 bool patchProcessor::oneDriveCheck() {
