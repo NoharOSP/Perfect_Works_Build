@@ -23,5 +23,9 @@ public:
 	static void exeEdits(std::string file);
 	static void editTextSpeed(std::string file);
 	static void expRateEdits(std::string file);
+
+	// Global variables
+public:
+	inline static std::string musicpath = "music";
 };
 

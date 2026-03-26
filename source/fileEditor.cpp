@@ -36,8 +36,14 @@ void fileEditor::audioEdits() {
 	if (windowHandler::musicticked == BST_CHECKED) {
 		if (windowHandler::scriptticked == BST_CHECKED || windowHandler::fastticked == BST_CHECKED || (windowHandler::basicarenaticked || windowHandler::expertarenaticked)) {
 			Window::log_file << "Applying music placement edits." << std::endl;
+			std::vector<std::string> musicFileList;
+			for (const auto& entry : std::filesystem::directory_iterator(musicpath)) {
+				musicFileList.emplace_back(entry);
+			}
 			for (const auto& entry : std::filesystem::directory_iterator(applyPatch::temp)) {
-				audioEditor::musicEdits(entry.path().string());
+				if (std::find(musicFileList.begin(), musicFileList.end(), entry) != musicFileList.end()) {
+					audioEditor::musicEdits(entry.path().string());
+				}
 			}
 		}
 	}
