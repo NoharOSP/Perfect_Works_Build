@@ -21,8 +21,9 @@ then we can return Elly <--><Delay 5>
 who became Myyah and was
 bound by the Deus weapon
 system <--><Delay 5> to normal."<Close><End of Block>
-<TextBlock 3 w:22 h:1>
-Right, Fei?<Close><End of Block>
+<TextBlock 3 w:26 h:2>
+Citan
+"Right, Fei?"<Close><End of Block>
 <TextBlock 4 w:32 h:4>
 Fei
 "Yeah.<Delay 10>
@@ -458,8 +459,8 @@ of the Excalibur...<Close><End of Block>
 <TextBlock 55 w:52 h:6>
 Using cannon fire from the
 Excalibur to destroy the
-Ygg IV's slave generator
-in the process, we silence
+Ygg IV <--><Delay 5> slave generator
+and all <--><Delay 5> we silence
 the Merkabah and create
 an entry point."<Close><End of Block>
 <TextBlock 56 w:54 h:4>
@@ -516,8 +517,8 @@ on Merkabah, we won't
 stand a chance."<Close><End of Block>
 <TextBlock 62 w:50 h:3>
 Fei
-"We'll make sure to
-prevent that.<New>
+"The rest of us'll make
+sure to prevent that.<New>
 You guys just worry about
 silencing Merkabah's
 main cannon."<Close><End of Block>
@@ -529,7 +530,7 @@ We'll be counting on you."<Close><End of Block>
 Fei
 "This is already the only
 place left on the surface
-that hasn't been wiped out.<New>
+that hasn't been mopped up.<New>
 This'll truly be the
 final decisive battle."<Close><End of Block>
 <TextBlock 65 w:3 h:1>
