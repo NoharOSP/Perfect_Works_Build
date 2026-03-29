@@ -1110,55 +1110,51 @@ Jesse
 But I ain't doin' it
 sober, so let's go to
 the gun room."<Close><End of Block>
-<TextBlock 181 w:32 h:2>
+<TextBlock 181 w:22 h:2>
 Fei
-"That <Delay 10>can't be!"<Close><End of Block>
-<TextBlock 182 w:30 h:3>
+"N-<Delay 5>No way!"<Close><End of Block>
+<TextBlock 182 w:40 h:2>
 Billy
-"A secondary
-explosion...!?"<Close><End of Block>
-<TextBlock 183 w:54 h:4>
+"A chain reaction!?"<Close><End of Block>
+<TextBlock 183 w:56 h:4>
 Citan
-"Oh no!<Delay 10>
-I should have known better.
-What a miscalculation!!<New>
-The explosion was too big.<Delay 10>
-It reacted with the main
-condenser right under
-the main cannon...<New>
-...and induced a
-secondary explosion...<Delay 10>
-How could I have been
-so stupid!?"<Close><End of Block>
-<TextBlock 184 w:32 h:3>
+"Oh no!<Delay 10> How could I
+of all people have made
+such a miscalculation!?<New>
+The scale of the explosion
+was too great.<New>
+To think it would react with
+the main condenser directly
+beneath the cannon and cause
+a secondary explosion..."<Close><End of Block>
+<TextBlock 184 w:28 h:3>
 Bart
-"You mean,<Delay 10>
-we overdid it!?"<Close><End of Block>
-<TextBlock 185 w:38 h:3>
+"Y-<Delay 5>You mean we
+overdid it!?"<Close><End of Block>
+<TextBlock 185 w:32 h:3>
 Citan
 "Why did I not
-realize it sooner!?<New>
-This means...<Delay 10>
-We might have...
-Oh no, Elly...!"<Close><End of Block>
-<TextBlock 186 w:38 h:3>
+realize sooner!?<New>
+This...<Delay 10>
+This could mean
+Elly was<-->"<Close><End of Block>
+<TextBlock 186 w:38 h:2>
 Fei
-"Oh...<Delay 10>oh my god...<Delay 10>
-Elly...!!"<Close><End of Block>
-<TextBlock 187 w:28 h:3>
+"N-<Delay 5>No...<Delay 10> Elly...!!"<Close><End of Block>
+<TextBlock 187 w:28 h:2>
 Billy
-"Wh-What is it<Delay 10>
-this time?"<Close><End of Block>
-<TextBlock 188 w:36 h:4>
+"Wh-<Delay 5>What now?"<Close><End of Block>
+<TextBlock 188 w:38 h:4>
 Bart
-"Hey, <Delay 10>Citan!
-What else is going
-to happen!?"<Close><End of Block>
-<TextBlock 189 w:52 h:4>
+"What the hell else
+is gonna happen!?<Delay 10>
+Yo, Doc!"<Close><End of Block>
+<TextBlock 189 w:50 h:4>
 Citan
-"Something is happening in
-the center of Merkabah...<Delay 10>
-What could it be...!?"<Close><End of Block>
+"S-<Delay 5>Some kind of transfor-
+mation is taking place in
+the center of Merkabah...<New>
+Wh-<Delay 5>What is...!?"<Close><End of Block>
 <TextBlock 190 w:46 h:4>
 Billy
 "Thank you for helping

@@ -1,95 +1,88 @@
-<TextBlock 1 w:50 h:4>
+<TextBlock 1 w:48 h:4>
 Bart
-"...So if we destroy that
-Zohar thing, everything
-will be over, right?"<Close><End of Block>
+"...So basically,<Delay 5> if we
+destroy that Zohar thing
+it'll all be over?"<Close><End of Block>
 <TextBlock 2 w:54 h:4>
 Citan
 "Yes.<New>
 The source of our Ether
-powers, and the source of
-power for the generators
-that make our Gears work...<New>
+powers, and the generators
+that allow Gears to
+function...<New>
 It all comes from the
 Phenomena-Alteration Engine
 Zohar, which can control
-any potential phenomena.<New>
-If we destroy it,<Delay 5>
-Deus...<Delay 5>
-and the Aeons...<Delay 5>
-will all be deactivated...<New>
-And then we should also be
-able to free Elly, who has
-become bound to the Deus
-weapon system as 'Myyah'."<Close><End of Block>
+potential phenomena freely.<New>
+If we destroy it,
+halting the actions of
+Deus and the Aeons...<New>
+then we can return Elly <--><Delay 5>
+who became Myyah and was
+bound by the Deus weapon
+system <--><Delay 5> to normal."<Close><End of Block>
 <TextBlock 3 w:22 h:1>
 Right, Fei?<Close><End of Block>
-<TextBlock 4 w:42 h:4>
+<TextBlock 4 w:32 h:4>
 Fei
-"Yeah.
-That's what the 'Wave
-Existence' said."<Close><End of Block>
-<TextBlock 5 w:52 h:4>
+"Yeah.<Delay 10>
+So the Wave
+Existence said."<Close><End of Block>
+<TextBlock 5 w:48 h:4>
 Citan
-"But then there is the
-downside...<New>
-It will also mean that we
-will no longer be able to
-use our Gears or our Ether
-powers anymore."<Close><End of Block>
-<TextBlock 6 w:54 h:4>
+"But on the other hand,<New>
+we will no longer be
+able to use our Gears
+or our Ether abilities."<Close><End of Block>
+<TextBlock 6 w:48 h:4>
 Rico
-"What are those Aeons all
-about anyway?<New>
-That odd appearance as if
-they lack something...<Delay 5>as if
-they were neither living
-beings nor mere weapons..."<Close><End of Block>
-<TextBlock 7 w:52 h:4>
+"Why do those Aeons look
+like that, anyway?<New>
+Those vague shapes
+that're neither weapons
+nor lifeforms..."<Close><End of Block>
+<TextBlock 7 w:56 h:4>
 Citan
-"The Aeons are 
-what manifest<New>
-when the Zohar 
-senses human 
-consciousness."<Close><End of Block>
+"The Aeon forces are what
+materialize when the Zohar
+senses human consciousness."<Close><End of Block>
 <TextBlock 8 w:50 h:2>
 Billy
 "Human consciousness...?"<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Citan
-"The Zohar in and of 
-itself contains the 
-Uncertainty Principle.<New>
-It is the very act of 
-observation by an 
-observer that determines 
-actuality.<New>
-In other words, those 
-Aeons may be the 
-manifested forms<New>
-of spirits of the 
-people that Deus 
-ingested as parts."<Close><End of Block>
-<TextBlock 10 w:54 h:4>
+"The Zohar in itself
+entails uncertainty.<New>
+It is the very act
+of observation by
+an observer that
+determines form.<New>
+Which is to say,<New>
+those angels may be
+manifestations of the minds
+of the people assimilated
+by Deus as components."<Close><End of Block>
+<TextBlock 10 w:44 h:4>
 Bart
-"What the hell's the point 
-of those things wiping 
-out all civilization?"<Close><End of Block>
-<TextBlock 11 w:52 h:4>
+"Those guys, wiping
+out civilization
+on the surface,<New>
+what the hell kinda
+sense does that make?"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
 Maria
-"Do they resent those 
-that survived?"<Close><End of Block>
-<TextBlock 12 w:50 h:4>
+"Is it a grudge against
+those who have survived
+as humans?"<Close><End of Block>
+<TextBlock 12 w:54 h:4>
 Citan
-"Not at all.<New>
-Humans that were 
-created for the purpose 
-of being ingested<New>
-and becoming parts of 
-Deus have no such 
-intention.<New>
-Remember the words 
-that Elly spoke after 
+"Surely not.<New>
+The people who were created
+to be components of Deus
+and got assimilated would
+have no such intention.<New>
+Think back to the words
+that Elly spoke after
 becoming Myyah."<Close><End of Block>
 <TextBlock 13 w:54 h:4>
 Fei
@@ -100,459 +93,444 @@ So they are to be
 eliminated.'"<Close><End of Block>
 <TextBlock 14 w:54 h:4>
 Citan
-"Yes. And that is why the 
-Merkabah is being used 
-to begin the destruction.<New>
-However... Deus should 
-be following its 
-programming and destroying 
-the surface<New>
-so that no civilization 
-remains... but it's not.<New>
-Deus' terminals, the 
-Aeons, are utilizing 
-bodies comprised of 
+"Right.<Delay 10> That is why it has
+commenced destruction using
+the Merkabah.<New>
+However...<Delay 10>
+Deus is meant to be
+following its programming<New>
+and destroying the surface
+so that no civilization
+remains...<New>
+But Deus' terminals,
+the Aeons, are using
+their bodies composed of
 nanomachine colonies<New>
-and are absorbing a great 
-many people regardless if 
-they're alive or dead.<New>
-Regardless if they're 
-mutant or not. This is 
-strange...<New>
-Ingesting humans that 
-should be destroyed and 
-eliminated<New>
-is an act that is contrary 
-to its original purpose."<Close><End of Block>
-<TextBlock 15 w:38 h:3>
+to absorb a great many
+people, regardless of
+whether they are alive
+or dead.<New>
+And regardless of whether
+they have mutated or not.<Delay 10>
+This is most peculiar...<New>
+Essentially,
+in assimilating the humans
+they are supposed to
+destroy and annihilate,<New>
+there lies a contradictory
+action."<Close><End of Block>
+<TextBlock 15 w:48 h:3>
 Fei
-"Maybe there aren't
-enough parts?"<Close><End of Block>
-<TextBlock 16 w:56 h:4>
+"Is it that there aren't
+enough components?"<Close><End of Block>
+<TextBlock 16 w:54 h:4>
 Citan
-"That's impossible.<New>
-Now that Deus has 
-acquired the ability 
-of nanomachines,<New>
-any kind of material 
-is acceptable for 
-constructing its body, 
-not just those people,<New>
-whose bodies were destined 
-to become its parts.<New>
-Clearly, there is no reason 
-to think it is anything but 
-an action with a different 
-purpose."<Close><End of Block>
-<TextBlock 17 w:54 h:4>
+"That is unlikely.<New>
+Now that Deus possesses the
+nanomachines' capabilities,<New>
+the material making up its
+main body can surely be of
+any origin.<New>
+It does not have to be
+people who, by destiny of
+the flesh, had no choice
+but to become components.<New>
+No, we can only view
+this behavior as having a
+plainly different purpose."<Close><End of Block>
+<TextBlock 17 w:50 h:4>
 Citan
-"This behavior...<Delay 5>hmm.<Delay 10>
-Karellen sees Deus
-as 'Mother'.<New>
-If Deus is Mother, then
-this is the doing of the
-Great Mother<Delay 5>...<New>
-Preventing the growth of
-her child, <Delay 10>engulfing it,<New>
-and returning it to
-the womb as a part of
-herself.<New>
+"This behavior...<Delay 10>
+Karellen saw Deus
+as a mother.<New>
+If we take Deus to be
+the mother,<Delay 5> then these
+are the actions of the
+Great Mother...<New>
+Actions to prevent the
+growth of her young,<Delay 5>
+engulf them,<New>
+and return them to the
+womb as parts of herself.<New>
 Such a program does not
-exist in Deus's design.<New>
-Perhaps this new trait has
-sprouted according to
-someone's will.<New>
-Either it's from Elly who
-has synchronized with
-Deus...or<Delay 10> it's..."<Close><End of Block>
+exist in Deus' design.<New>
+Perhaps it is a trait
+newly grown in accordance
+with someone's will.<New>
+Is it that of Elly, who
+has aligned with Deus...?<Delay 10>
+Or...?"<Close><End of Block>
 <TextBlock 18 w:54 h:4>
 Fei
-"Either way, it doesn't
-change the fact that we
-have to fight.<New>
-Regardless of what their
-intentions are.
-The problem is how we're
-supposed to deal with them.<New>
-You think we can do it
-in our current state?"<Close><End of Block>
-<TextBlock 19 w:52 h:4>
+"In any case,
+the fact remains that
+we have to fight.<New>
+Whatever their intentions
+are.<New>
+The problem is HOW to fight
+such an unimaginable enemy.<Delay 10>
+Will our current military
+strength be enough?"<Close><End of Block>
+<TextBlock 19 w:48 h:4>
 Zephyr
-"This secret battleship,
-Excalibur, will also take
-part in the final battle.<New>
-Additionally, the military
-potential of all the
-surface forces will
-assemble here."<Close><End of Block>
-<TextBlock 20 w:54 h:3>
+"For the final battle,<New>
+this secret battleship,
+Excalibur, will also
+join the front line.<New>
+All the rest of the
+surface's military might
+is assembling here."<Close><End of Block>
+<TextBlock 20 w:50 h:4>
 Bart
 "Even if we can put
-together a massive force...<New>
-...we still have the
-problem with the main
-armament of the Merkabah.<New>
-We need to know how to take
-that out. As long as we
-don't do that..."<Close><End of Block>
+together the numbers,<New>
+the pressing problem is
+Merkabah's main armament.<Delay 10>
+How do we take that out?
+'Cause if we can't<Delay 5>..."<Close><End of Block>
 <TextBlock 21 w:54 h:4>
 Citan
 "Merkabah's ultra-long-
-range cannon can vaporize 
-any substance.<New>
-On top of that, they have a
-barrier around their
-perimeter that nullifies
-all attacks."<Close><End of Block>
-<TextBlock 22 w:54 h:4>
+range main cannon vaporizes
+everything in its path.<New>
+And a shield spans its
+perimeter, repelling any
+and all forms of attack."<Close><End of Block>
+<TextBlock 22 w:48 h:4>
 Zephyr
-"We've fought against the
-Merkabah many times to try
-to stop its onslaught.<New>
-However, we cannot even
-get close. Hence we have
-had to withdraw everytime."<Close><End of Block>
-<TextBlock 23 w:42 h:4>
+"We have already fought
+many times to stop the
+Merkabah's onslaught.<New>
+But we cannot even get
+close, and all have been
+forced to withdraw."<Close><End of Block>
+<TextBlock 23 w:52 h:4>
 Fei
-"Dammit!
-No matter how much we
-want to save Elly...<New>
-...if we can't get
-inside the Merkabah,
-it's meaningless."<Close><End of Block>
+"Dammit!<New>
+There's no point trying
+to rescue Elly if we can't
+breach the Merkabah's
+interior."<Close><End of Block>
 <TextBlock 24 w:54 h:4>
 Sigurd
-"To add to that, there
-is the problem of those
-Aeons.<New>
-...They function as the
-terminal interface weapons
-for close defense.<New>
-I can easily say that their
-attack power is equivalent
-to the Omnigear class."<Close><End of Block>
-<TextBlock 25 w:48 h:4>
+"And then there's the
+problem of the Aeons,<New>
+which function as close-
+quarters-defense terminals.<New>
+It's no exaggeration to
+say that their attack power
+is Omnigear class."<Close><End of Block>
+<TextBlock 25 w:50 h:4>
 Bart
-"They even have the
-regenerative ability due
-to the nanomachines."<Close><End of Block>
-<TextBlock 26 w:38 h:3>
+"And they have self-
+restoration capability
+due to the nanomachines."<Close><End of Block>
+<TextBlock 26 w:34 h:3>
 Torah
-"Don't be concerned
+"No need to worry
 about that."<Close><End of Block>
 <TextBlock 27 w:54 h:4>
 Torah
-"I was able to obtain some
-data from Xenogears...<New>
-You see, Xenogears has
-mutagenically evolved due
-to its contact with Zohar.<New>
-Using that data, all of
-your new Gears ought to
-be completed soon.<New>
-Basically, think of it 
-like Lacan's 'Power'.<New>
-I simply used Xenogears 
-to instill your gears 
-with their Omnigear 
-upgrades all by itself.<New>
-Additionally, all the other
-weapons and armaments are
-being modified to implement
-the 'Disassembler-Device'."<Close><End of Block>
-<TextBlock 28 w:44 h:2>
+"We have the data obtained
+from Xenogears,<New>
+which evolved due to
+its contact with Zohar.<New>
+Your new Gears, which have
+made use of that data,
+will be completed shortly.<New>
+The rest of our weapons and
+so forth are being swapped
+out for ones that use
+disassembling devices."<Close><End of Block>
+<TextBlock 28 w:48 h:2>
 Billy
-"Disassembler-Device?"<Close><End of Block>
-<TextBlock 29 w:54 h:4>
+"Disassembling devices?"<Close><End of Block>
+<TextBlock 29 w:52 h:4>
 Torah
-"In contrast to the Nano-
-assemblers, which create
-matter to repair with...<New>
-...the Disassembers have
-the ability to dismantle
-or destroy matter.<New>
-They can even deactivate
-the nanomachines' restoring
-ability by disengaging
-their repair programs.<New>
-This should be sufficiently
+"In contrast to
+nanoassemblers,<New>
+which are generators and
+repairers of matter,<Delay 5>
+disassemblers take it
+apart.<New>
+Nanomachine-based
+reconstruction abilities
+will be useless too<New>
+because their restoration
+programs will be cancelled
+by the disassemblers.<New>
+This should be highly
 effective even against
 Deus' Aeons."<Close><End of Block>
-<TextBlock 30 w:48 h:4>
+<TextBlock 30 w:44 h:4>
 Fei
-"Alright, even if we can
-deal with the Aeons...<New>
-...just how are we gonna
-deal with that Merkabah?
-We can't even get close
-to the thing..."<Close><End of Block>
-<TextBlock 31 w:46 h:4>
+"But,<Delay 5> even supposing
+that does take care
+of the Aeons,<New>
+what the hell do we do
+about the Merkabah?
+We can't even get
+close to it..."<Close><End of Block>
+<TextBlock 31 w:36 h:4>
 Citan
-"There is no such thing
-as a perfect defense.
+"Nothing in this
+world is flawless.<Delay 10>
 There is a way."<Close><End of Block>
-<TextBlock 32 w:34 h:2>
+<TextBlock 32 w:38 h:2>
 Citan
-"Look over here."<Close><End of Block>
-<TextBlock 33 w:56 h:5>
-Merkabah's main gun requires
-a 1.2 second interval to
-reload because of its
+"Please look here."<Close><End of Block>
+<TextBlock 33 w:60 h:5>
+Citan
+"Merkabah's main cannon
+requires a 1.2-second interval
+between volleys because of its
 tremendous output.<New>
-Upon firing, although it
-is only sectional, there
-will be a portion of the
-barrier that will be opened.<New>
-There is a 1.87 second
-delay before the barrier
-reforms in that area.<New>
-If we can use this window of
-time to target and destroy
-that cannon, it will be
-possible to close in on it.<New>
-If we can get close enough,
-we can break through with
-gravitational-spatial
-correction.<Close><End of Block>
+And when firing,<Delay 5>
+partial though it may be,<Delay 5>
+a section of the shield
+does go down.<New>
+It takes 1.87 seconds for
+that shield to re-establish.<New>
+If we can time it
+right and destroy the
+main cannon, it will
+be possible to close in.<New>
+And if we can get close,
+we can then break through
+via gravitational-spatial
+correction."<Close><End of Block>
 <TextBlock 34 w:36 h:3>
 Citan
-"Well, this is the
-rough idea."<Close><End of Block>
-<TextBlock 35 w:46 h:4>
+"Well, that is the
+gist of it."<Close><End of Block>
+<TextBlock 35 w:54 h:4>
 Sigurd
-"Unfortunately we don't
-have such a long range
-cannon...<New>
-...that could acquire
-a target in such
-a brief time frame."<Close><End of Block>
-<TextBlock 36 w:54 h:4>
+"To destroy the main cannon
+from a great distance in
+such a short time frame<Delay 5>...<New>
+We don't have any weapons
+that could do it."<Close><End of Block>
+<TextBlock 36 w:48 h:4>
 Bart
-"So what you're sayin' is
-we just need to shut that
-annoying cannon up, right?"<Close><End of Block>
-<TextBlock 37 w:30 h:4>
+"Basically, we need to
+get that annoying cannon
+to shut up, right?"<Close><End of Block>
+<TextBlock 37 w:34 h:4>
 Fei
 "...You want to
-go head on into
-Merkabah!?"<Close><End of Block>
-<TextBlock 38 w:52 h:3>
+ram straight into
+the Merkabah!?"<Close><End of Block>
+<TextBlock 38 w:46 h:4>
 Billy
-"Now you're being reckless
-again...<Delay 10> That's suicide."<Close><End of Block>
+"Again, so reckless...<Delay 10>
+That would mean certain
+death."<Close><End of Block>
 <TextBlock 39 w:52 h:4>
 Bart
-"No, listen. We're not
-going to just rush in.<New>
-The Yggdrasil IV and
-this Excalibur are also
-equipped with barriers.
-That's what we'll use.<New>
-Although only for a short
-time, we can withstand a
-direct hit from Merkabah's
+"C'mon, just listen.<Delay 10>
+It wouldn't be just
+rushing in.<New>
+My Yggdrasil IV and this
+Excalibur are equipped
+with shields too.<Delay 10>
+We'll use those.<New>
+For a short time, we
+could withstand a direct
+blast from Merkabah's
 main cannon.<New>
-Then we can close in and
-watch for that part of the
-barrier to go down and
-then destroy the cannon."<Close><End of Block>
-<TextBlock 40 w:36 h:3>
+And then we would close
+in,<Delay 5> pinpointing the moment
+the shield drops so we can
+destroy the thing."<Close><End of Block>
+<TextBlock 40 w:32 h:3>
 Fei
-"How long will our
-barrier last?"<Close><End of Block>
-<TextBlock 41 w:50 h:2>
+"How long do our
+shields last?"<Close><End of Block>
+<TextBlock 41 w:28 h:3>
 Bart
-"About 20 or so seconds."<Close><End of Block>
+"About twenty
+seconds each."<Close><End of Block>
 <TextBlock 42 w:54 h:4>
 Fei
-"That's all? It wouldn't
-matter how fast we fly.<New>
-In that amount of time,
-we'll be without a barrier
-before we can get within
-firing range.<New>
-And those numbers are valid
-only if the generator is at
-full drive, right?<New>
-You can only get those
-numbers if we sacrifice
-all other output and
-propulsion."<Close><End of Block>
-<TextBlock 43 w:50 h:4>
+"That's all?<Delay 10> With such
+a short time frame,<New>
+even if we flew at full
+speed our shields would
+cut out before we reached
+effective range for sure.<New>
+Besides, those are the
+numbers with the generators
+at full operating power,
+right?<New>
+Wouldn't that be at the
+expense of other output
+and propulsion?"<Close><End of Block>
+<TextBlock 43 w:52 h:4>
 Bart
-"I'm not suggesting we go
-in with guns blazing
-knowing we're gonna lose.<New>
-We're going to physically
-put a lid on it,
-directly!!"<Close><End of Block>
+"I'm not saying we take it
+on all guns blazing and
+just hope for the best!<New>
+Nah, we're gonna put a
+cork in it, directly!!"<Close><End of Block>
 <TextBlock 44 w:6 h:1>
  ? <Close><End of Block>
-<TextBlock 45 w:54 h:4>
+<TextBlock 45 w:56 h:4>
 Bart
-"As you've said...<New>
-The Yggdrasil IV or
-Excaliber's barrier can't
-sufficiently defend against
+"Like you say,<New>
+the shields of the Yggdrasil
+IV or the Excalibur wouldn't
+be able to completely block
 Merkabah's attack.<New>
-At least with one
-generator that is..."<Close><End of Block>
-<TextBlock 46 w:26 h:2>
+At least, not with one
+generator..."<Close><End of Block>
+<TextBlock 46 w:28 h:2>
 Billy
-"Meaning...?"<Close><End of Block>
-<TextBlock 47 w:54 h:4>
+"You mean...?"<Close><End of Block>
+<TextBlock 47 w:50 h:4>
 Bart
-"Meaning, we can defend
-against the Merkabah with
-twice the amount of time...<New>
-...40 seconds, if we couple
-the 2 generators together.<New>
-This way, we can make 
-it into the heart of 
-Merkabah."<Close><End of Block>
-<TextBlock 48 w:42 h:3>
+"Yep.<New>
+If we connected the two
+generators, we'd be able
+to hold out for twice
+as long <--> forty seconds.<New>
+This way we can creep
+right up to the heart
+of the Merkabah."<Close><End of Block>
+<TextBlock 48 w:32 h:3>
 Mason
-"Then, what about the
-propulsion...?"<Close><End of Block>
-<TextBlock 49 w:38 h:2>
+"But then thrust
+would be<-->"<Close><End of Block>
+<TextBlock 49 w:28 h:2>
 Bart
-"Just hear me out."<Close><End of Block>
-<TextBlock 50 w:62 h:5>
-This is what we do...
-First we transform my Yggdrasil
-into heavy assault mode and
-load it onto the Excalibur so
-we can couple the generators.<Close><End of Block>
-<TextBlock 51 w:52 h:5>
-By doing that, we can
-reduce the energy usage
-down to just supporting
-the hull of the ship and
-generating the barrier.<New>
-This will allow most of
-the energy to be devoted
-to generating the barrier.<New>
-Next, shift the barrier to
-full front and focus it to
-a single point where their
-main cannon will make its
-strike.<Close><End of Block>
-<TextBlock 52 w:54 h:5>
-Now for movement.
-First off, we develop
-a barrier by engaging
-Excalibur's generator
-to maximum power.<New>
-For propulsion during that
-time, we'll install on the
-Yggdrasil those large solid
-rockets we got from the
-ruins of the Mass Driver.<Close><End of Block>
-<TextBlock 53 w:48 h:4>
-When Excalibur's barrier
-expires, we'll use the
-Yggdrasil IV's generator
-to develop a barrier.<New>
-Then we'll also detach
-the solid rockets and
-shift the Excalibur into
-conventional flight.<Close><End of Block>
-<TextBlock 54 w:50 h:4>
-Using this method, we can
-get right in Merkabah's
-face. After it fires,
-it'll be defenseless.<New>
-During this time, we'll
-block the muzzle of
-Merkabah's cannon with
-Excalibur's bow ram.<New>
-Upon which, we should
-have 0.67 seconds...<Close><End of Block>
-<TextBlock 55 w:56 h:6>
-With the cannon fire of the
-Excalibur, we'll destroy the
-Yggdrasil IV's slave
-generator and incapacitate
-the Merkabah along the way,
-and then...we breakthrough!<Close><End of Block>
-<TextBlock 56 w:50 h:4>
+"Hear me out."<Close><End of Block>
+<TextBlock 50 w:58 h:6>
 Bart
-"...That's what the plan
-is all about.<New>
-The combination of the
-barriers of both ships...
-Storming the Merkabah...<New>
-The timing of the cannon
-fire of the Excalibur...
-These are all going to
-be crucial.<New>
-Mess up any one of these
-and the consequences are
-going to be severe.<New>
-Hence, it'll be necessary
-to have both crews in
-synch with each other.<New>
-That's why I'd like to
-place Sig in command of
-the Excalibur."<Close><End of Block>
-<TextBlock 57 w:34 h:3>
+"So,<Delay 5> first we transform my
+Yggdrasil into heavy-assault
+mode and mount it on the
+Excalibur, letting us connect
+the two ships' generators.<Close><End of Block>
+<TextBlock 51 w:54 h:5>
+Here, the only energy we
+use other than for shield
+deployment is whatever's
+needed to support the
+weight of the ship's hull.<New>
+This way no surplus energy
+is consumed and nearly all
+of it can be used for the
+shield.<New>
+And the shield will be
+deployed full to the front,
+concentrated at the exact
+point their main cannon
+will strike.<Close><End of Block>
+<TextBlock 52 w:62 h:5>
+Now for movement.<Delay 10>
+First off, we raise the
+shield with the Excalibur's
+generator operating at maximum.<New>
+For propulsion at this
+stage, we use the large
+solid rockets we borrowed
+from the Mass Driver ruins
+and equipped on the Ygg.<Close><End of Block>
+<TextBlock 53 w:58 h:4>
+Right when the Excalibur's
+shield cuts out, we raise
+another shield, this time
+using the Ygg IV's generator.<New>
+We let go of the solid
+rockets and switch the
+Excalibur over to normal
+flight.<Close><End of Block>
+<TextBlock 54 w:52 h:4>
+This is how we get right
+in Merkabah's face.<New>
+After its main cannon has
+fired, and within the 0.67
+seconds it takes for its
+shield to go up,<New>
+we block up the now-
+defenseless Merkabah's
+muzzle with the ram bow
+of the Excalibur...<Close><End of Block>
+<TextBlock 55 w:52 h:6>
+Using cannon fire from the
+Excalibur to destroy the
+Ygg IV's slave generator
+in the process, we silence
+the Merkabah and create
+an entry point."<Close><End of Block>
+<TextBlock 56 w:54 h:4>
+Bart
+"...Anyway, that's
+more or less it.<New>
+The combination of both
+ships' shields,<Delay 5> storming
+the Merkabah,<Delay 5> the timing of
+Excalibur's main cannon...<New>
+It's gonna be pretty
+tough on every count.<New>
+I need a helmsman I'll be
+in sync with.<Delay 10> Therefore,
+I'd like Sig to fly the
+Excalibur."<Close><End of Block>
+<TextBlock 57 w:32 h:3>
 Sigurd
-"I have no qualms
-with that..."<Close><End of Block>
-<TextBlock 58 w:52 h:4>
+"That'd be fine
+with me,<Delay 5> but<Delay 5>..."<Close><End of Block>
+<TextBlock 58 w:44 h:4>
 Bart
-"What do you think, Queen?
-Will you lend us your
-battleship?"<Close><End of Block>
-<TextBlock 59 w:48 h:4>
+"How about it, Your
+Majesty?<Delay 10> Will you lend
+us your battleship?"<Close><End of Block>
+<TextBlock 59 w:54 h:4>
 Zephyr
-"Since there appears to
-be no other alternative,
-let us go with that.<New>
-Please use it as you
-see fit."<Close><End of Block>
-<TextBlock 60 w:52 h:4>
+"Since there's no other
+way,<Delay 5> it seems we have no
+choice but to go with that.<New>
+Please use it however
+you see fit."<Close><End of Block>
+<TextBlock 60 w:54 h:4>
 Citan
-"But are we not cutting it
-uncomfortably close...?<New>
-...When you calculate the
-arrival time and the
-barrier generation time,
-you will see what I mean!<New>
-One minor mishap will put
-us in a situation where we
-could run out of barrier
-power before our arrival."<Close><End of Block>
+"But this...<New>
+Taking into account the
+approach time and the
+shield-deployment time, it
+is a rather risky strategy.<New>
+If something goes awry,
+our shield may drop before
+we reach the target."<Close><End of Block>
 <TextBlock 61 w:52 h:4>
 Sigurd
-"Also, we will be devoting
-both generators to keeping
-the barriers up...<New>
-Won't that leave us
-without perimeter
-defenses?<New>
-We won't stand a chance
-if we get engaged by the
-Aeons on our way to
-Merkabah."<Close><End of Block>
+"Also, if we're devoting
+both ships' generators to
+maintaining the shield,<New>
+won't that leave us
+completely without close-
+quarters defense?<New>
+If we're beset by Aeons
+while we're closing in
+on Merkabah, we won't
+stand a chance."<Close><End of Block>
 <TextBlock 62 w:50 h:3>
 Fei
-"We'll hold them off.
-You can count on us!<New>
-You guys just concentrate
-on taking out that main
-cannon."<Close><End of Block>
-<TextBlock 63 w:48 h:3>
+"We'll make sure to
+prevent that.<New>
+You guys just worry about
+silencing Merkabah's
+main cannon."<Close><End of Block>
+<TextBlock 63 w:52 h:3>
 Bart
 "Thanks.<Delay 10>
-We're depending on you."<Close><End of Block>
-<TextBlock 64 w:48 h:4>
+We'll be counting on you."<Close><End of Block>
+<TextBlock 64 w:54 h:4>
 Fei
-"Already, everywhere
-else has been taken out.<New>
-This is the only place
-that's left. This is
-going to be the true
-'final battle'."<Close><End of Block>
+"This is already the only
+place left on the surface
+that hasn't been wiped out.<New>
+This'll truly be the
+final decisive battle."<Close><End of Block>
 <TextBlock 65 w:3 h:1>
  <Close><Close><End of Block>
