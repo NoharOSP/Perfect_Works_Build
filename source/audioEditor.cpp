@@ -1,7 +1,6 @@
 #include "pch.h"
 #include "audioEditor.h"
 
-// TODO: Split into methods
 void audioEditor::musicEdits(std::string file) {
 	// Get file name without path info
 	std::string trimfile = gameFileTools::fileTrim(file);
@@ -29,6 +28,10 @@ void audioEditor::musicEdits(std::string file) {
 	}
 	// Close subfile
 	subFileContents.close();
+	writeEdits(file, subLength, contents);
+}
+
+void audioEditor::writeEdits(std::string file, int subLength, std::vector<char> contents) {
 	// Open room
 	char32_t offbuffer = 0;
 	std::fstream room;
