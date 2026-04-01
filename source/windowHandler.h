@@ -11,6 +11,9 @@ public:
 	static void checkStory();
 	static void checkAudio();
 	static void checkModes();
+
+	// Public variables
+public:
 	inline static LRESULT resizeticked;
 	inline static LRESULT portraitsticked;
 	inline static LRESULT flashesticked;
