@@ -1126,7 +1126,7 @@ was too great.<New>
 To think it would react with
 the main condenser directly
 beneath the cannon and cause
-a secondary explosion..."<Close><End of Block>
+secondary explosions..."<Close><End of Block>
 <TextBlock 184 w:28 h:3>
 Bart
 "Y-<Delay 5>You mean we

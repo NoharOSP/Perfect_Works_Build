@@ -849,7 +849,7 @@ wife, Racquel.<New>
 I've been looking for
 that Gear and the girl
 ever since."<Close><End of Block>
-<TextBlock 131 w:52 h:4>
+<TextBlock 131 w:54 h:4>
 Jesse
 "And so,<Delay 10> I heard that the
 scientist's daughter and
@@ -859,7 +859,7 @@ don't know how in blazes
 to get to this Shevat, or
 how to make contact.<New>
 The place is protected by
-a strong barrier that even
+a powerful shield that even
 Solaris can't do anything
 about, so...<New>
 Just my luck..."<Close><End of Block>

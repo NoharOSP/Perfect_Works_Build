@@ -47,12 +47,14 @@ Elly
 "Shevat...<Delay 20> The only
 organization that stands
 against Solaris..."<Close><End of Block>
-<TextBlock 10 w:50 h:3>
+<TextBlock 10 w:44 h:4>
 Bart
-"If only so we can take
-home twenty or thirty<New>
-Gears like the one shorty
-was riding just then!"<Close><End of Block>
+"Well, we came all
+this way, so...<New>
+I'm gonna take home
+twenty or thirty Gears
+like the one shorty
+there was riding!"<Close><End of Block>
 <TextBlock 11 w:48 h:4>
 Bart
 "Hey, Fei, isn't that

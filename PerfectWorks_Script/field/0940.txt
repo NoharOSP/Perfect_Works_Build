@@ -32,7 +32,7 @@ I'm talking about the
 Fatima Jasper."<Close><End of Block>
 <TextBlock 7 w:48 h:3>
 Shakhan
-"I already have obtained
+"I have already obtained
 one half of the crest.<New>
 But I haven't been able
 to get her to tell me
@@ -62,12 +62,12 @@ Ramsus
 "Myyah, could
 it possibly be
 a 'Vessel'?"<Close><End of Block>
-<TextBlock 13 w:54 h:4>
+<TextBlock 13 w:52 h:4>
 Myyah
-"Yes. But there is still no
-response.<New>
-There seems to be some kind
-of strong barrier.<New>
+"Yes.<New>
+There's been no response
+as of yet.<Delay 10> It seems to
+have some solid shielding.<New>
 However, we do know from
 the 500-year-old records
 that one certainly exists

@@ -526,11 +526,11 @@ main cannon."<Close><End of Block>
 Bart
 "Thanks.<Delay 10>
 We'll be counting on you."<Close><End of Block>
-<TextBlock 64 w:54 h:4>
+<TextBlock 64 w:50 h:4>
 Fei
 "This is already the only
-place left on the surface
-that hasn't been mopped up.<New>
+place on the surface left
+unconquered.<New>
 This'll truly be the
 final decisive battle."<Close><End of Block>
 <TextBlock 65 w:3 h:1>
