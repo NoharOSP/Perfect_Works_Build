@@ -65,9 +65,6 @@ void applyPatch::prepareFiles() {
 		if (patched) {
 			backupROM();
 		}
-		else {
-			patched = true;
-		}
 		Window::log_file << "Write list file for xenoiso." << std::endl;
 		list_file << cdName << "\n" << oldPath << "\n" << fileName << "\n" << "-1,.\\gamefiles\\temp" << std::flush;
 	}

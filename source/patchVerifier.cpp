@@ -179,6 +179,7 @@ void patchVerifier::audioVerify() {
 	if (windowHandler::fmvticked == BST_CHECKED) {
 		// Access directory for patches if FMVs has been ticked
 		Window::log_file << "Check if 'patches' directory exists." << std::endl;
+		std::filesystem::current_path(Window::home);
 		if (std::filesystem::exists(patchPath)) {
 			std::filesystem::current_path(patchPath);
 			Window::log_file << "'patches' directory is valid." << std::endl;
@@ -193,6 +194,8 @@ void patchVerifier::audioVerify() {
 				patchProcessor::fmvName = "fmv2";
 			}
 		}
+		std::filesystem::current_path(Window::home);
+		std::filesystem::current_path(patchProcessor::gamefilePath);
 	}
 	if (windowHandler::voiceticked == BST_CHECKED) {
 		Window::log_file << "Undub in-game voice directory found." << std::endl;

@@ -65,8 +65,7 @@ void windowPainter::arenaWindows() {
 	Window::windList.emplace_back(Window::normalarena);
 	Window::windList.emplace_back(Window::basicarena);
 	Window::windList.emplace_back(Window::expertarena);
-	// Put in windows gameplay list
-	Window::gameplayWindList.emplace_back(Window::normalarena);
+	// Put in gameplay window list
 	Window::gameplayWindList.emplace_back(Window::basicarena);
 	Window::gameplayWindList.emplace_back(Window::expertarena);
 }
