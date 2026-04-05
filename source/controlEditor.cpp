@@ -4,7 +4,7 @@
 void controlEditor::addImage(std::string file) {
 	std::string trimfile = gameFileTools::fileTrim(file);
 	// Check if filename is 2593 or 3958
-	if ((trimfile == "2593.unk8") && (trimfile == "3958.unk8")) {
+	if ((trimfile == "2593.unk8") || (trimfile == "3958.unk8")) {
 		editData(trimfile);
 	}
 	else if (trimfile == "2614") {

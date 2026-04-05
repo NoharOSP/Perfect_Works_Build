@@ -21,7 +21,7 @@ void romFinder::browseFiles() {
 			Window::log_file << "Xenogears has been found. Determine disc number." << std::endl;
 			Window::discNum = getDisc();
 			if (discNum == 1 || discNum == 2) {
-				setPathText(path);
+				setPathText(path, discNum);
 			}
 			else {
 				romErrorMsg();
@@ -36,14 +36,14 @@ void romFinder::browseFiles() {
 	}
 }
 
-void romFinder::setPathText(std::string path) {
-	if (discNum == 1) {
+void romFinder::setPathText(std::string path, int num) {
+	if (num == 1) {
 		Window::log_file << "Disc 1 found." << std::endl;
 		Window::pathFound1 = true;
 		Window::log_file << "Determine disc 1 path." << std::endl;
 		Window::path1 = path;
 	}
-	if (discNum == 2) {
+	else if (num == 2) {
 		Window::log_file << "Disc 2 found." << std::endl;
 		Window::pathFound2 = true;
 		Window::log_file << "Determine disc 2 path." << std::endl;
@@ -55,7 +55,7 @@ void romFinder::setPathText(std::string path) {
 		Window::log_file << "Put disc 1 path in path window." << std::endl;
 		SetWindowText(Window::cd1path, lpath);
 	}
-	if (discNum == 2) {
+	else if (discNum == 2) {
 		Window::log_file << "Put disc 2 path in path window." << std::endl;
 		SetWindowText(Window::cd2path, lpath);
 	}
@@ -80,7 +80,7 @@ void romFinder::searchCD(std::string path) {
 		// Find "XENOGEARS" in the ROM header
 		if (buffer == 'X') {
 			xenoFound = true;
-			while (!discFound) {
+			while (!discFound1 || !discFound2) {
 				file.read(reinterpret_cast<char*>(&buffer), sizeof(buffer));
 				byte += 1;
 				if (byte == 37736) {
@@ -98,7 +98,7 @@ void romFinder::findDiscNum(std::string path) {
 	// Determine disc number through the first file difference
 	if (val == 178) {
 		discNum = 1;
-		discFound = true;
+		discFound1 = true;
 		fileSize = std::filesystem::file_size(path);
 		if (fileSize != 718738272) {
 			xenoFound = false;
@@ -106,7 +106,7 @@ void romFinder::findDiscNum(std::string path) {
 	}
 	else if (val == 207) {
 		discNum = 2;
-		discFound = true;
+		discFound2 = true;
 		fileSize = std::filesystem::file_size(path);
 		if (fileSize != 688700880) {
 			xenoFound = false;

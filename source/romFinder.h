@@ -16,7 +16,7 @@ class romFinder
 public:
 	static void browseFiles();
 	static void searchCD(std::string path);
-	static void setPathText(std::string path);
+	static void setPathText(std::string path, int num);
 	static void romErrorMsg();
 	static void findDiscNum(std::string path);
 	static bool getFound();
@@ -30,7 +30,8 @@ private:
 public:
 	inline static OPENFILENAMEA ofn;
 	inline static bool xenoFound = false;
-	inline static bool discFound = false;
+	inline static bool discFound1 = false;
+	inline static bool discFound2 = false;
 	inline static int discNum = 0;
 	inline static int fileSize = 0;
 	inline static unsigned char buffer;

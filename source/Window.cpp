@@ -166,6 +166,8 @@ void Window::restoreDefaults() {
 	path2 = "";
 	pathFound1 = false;
 	pathFound2 = false;
+	romFinder::discFound1 = false;
+	romFinder::discFound2 = false;
 	checkboxLock();
 	patchBoxLock();
 	log_file << "Removing paths from windows." << std::endl;
