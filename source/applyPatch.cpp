@@ -159,6 +159,8 @@ void applyPatch::executeBat() {
 }
 
 void applyPatch::cleanup() {
+	// Reinitialise variables
+	patched = false;
 	// Remove batch and backup bin
 	Window::log_file << "Remove command file." << std::endl;
 	remove("commands.cmd");

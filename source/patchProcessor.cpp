@@ -113,6 +113,7 @@ void patchProcessor::start() {
 		Window::log_file << "xenoiso process failed." << std::endl;
 		successMessage = false;
 	}
+	clearPatchLists();
 	if (num == 1) {
 		if (!Window::pathFound2) {
 			finish();
@@ -135,7 +136,6 @@ void patchProcessor::finish() {
 	}
 	// Restore defaults
 	reinitialisePatches();
-	clearPatchLists();
 	Window::restoreDefaults();
 }
 

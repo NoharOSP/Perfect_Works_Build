@@ -37,7 +37,14 @@ void fileEditor::audioEdits() {
 		if (windowHandler::scriptticked == BST_CHECKED || windowHandler::fastticked == BST_CHECKED || (windowHandler::basicarenaticked || windowHandler::expertarenaticked)) {
 			Window::log_file << "Applying music placement edits." << std::endl;
 			std::vector<std::string> musicFileList;
-			for (const auto& musicentry : std::filesystem::directory_iterator(musicpath)) {
+			std::string musicdir = "";
+			if (patchProcessor::num == 1) {
+				musicdir = "music_1";
+			}
+			if (patchProcessor::num == 2) {
+				musicdir = "music_2";
+			}
+			for (const auto& musicentry : std::filesystem::directory_iterator(musicdir)) {
 				std::string trimfile = gameFileTools::musicfileTrim(musicentry.path().string());
 				musicFileList.emplace_back(trimfile);
 			}

@@ -204,11 +204,17 @@ void patchVerifier::audioVerify() {
 	if (windowHandler::musicticked == BST_CHECKED) {
 		Window::log_file << "Music change directory found." << std::endl;
 		if (!windowHandler::scriptticked == BST_CHECKED) {
-			patchProcessor::musicName = "music";
+			if (patchProcessor::num == 1) {
+				patchProcessor::musicName = "music_1";
+			}
+			if (patchProcessor::num == 2) {
+				patchProcessor::musicName = "music_2";
+			}
 		}
 	}
 }
 
+// TODO: Split into methods
 void patchVerifier::modeVerify() {
 	if (windowHandler::storymodeticked == BST_CHECKED) {
 		Window::log_file << "Story mode directory found." << std::endl;
@@ -232,13 +238,28 @@ void patchVerifier::modeVerify() {
 	if (windowHandler::jpnticked == BST_CHECKED) {
 		Window::log_file << "Japanese control directory found." << std::endl;
 		if (!windowHandler::itemspellsticked == BST_CHECKED && !windowHandler::scriptticked == BST_CHECKED) {
-			patchProcessor::jpnName = "control_files";
+			if (patchProcessor::num == 1) {
+				patchProcessor::jpnName = "control_files_1";
+			}
+			if (patchProcessor::num == 2) {
+				patchProcessor::jpnName = "control_files_2";
+			}
 		}
 		if (!windowHandler::scriptticked == BST_CHECKED && windowHandler::itemspellsticked == BST_CHECKED) {
-			patchProcessor::jpnName = "jpn_items";
+			if (patchProcessor::num == 1) {
+				patchProcessor::jpnName = "jpn_items_1";
+			}
+			if (patchProcessor::num == 2) {
+				patchProcessor::jpnName = "jpn_items_2";
+			}
 		}
 		if (windowHandler::scriptticked == BST_CHECKED) {
-			patchProcessor::jpnName = "jpn_script";
+			if (patchProcessor::num == 1) {
+				patchProcessor::jpnName = "jpn_script_1";
+			}
+			if (patchProcessor::num == 2) {
+				patchProcessor::jpnName = "jpn_script_2";
+			}
 		}
 	}
 }
