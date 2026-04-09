@@ -3,7 +3,7 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 
 Download the latest release here:
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.9.3
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.10.0
   
 ## Instructions
 
@@ -39,8 +39,8 @@ WARNING: When a ROM has been made, do not resume progress by loading a save stat
 ## Completion stats
 
 - Name/terminology changes: 100%
-- Main script: 91% (up to the Wave Existence)
-- NPC script: 5% (plus all name/terminology changes)
+- Main script: 94% (up to Snowfield Hideout)
+- NPC script: 10% (plus all name/terminology changes)
 
 ## Introduction
 
@@ -52,68 +52,22 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ## Version history
 
-### Version 0.9.3
+### Version 0.10.0
 
-02/28/2026
+04/09/2026
 
-- Failure to boot when fast text is used with disc 2 has been fixed.
-- Siebzhen's frames have had their HP increased by 5000. 
-
-### Version 0.9.2
-
-02/22/2026
-
-- Script edits up to Fei and Id's unification have been completed.
-- 2x exp and gold bug with the patcher where values are still multiplied by 1.5x has been resolved.
-- Tutorials for Gear Deathblow functions have been added.
-- The attack multipliers for the Gears have been rebalanced. Details are in the wiki.
-- Bart's Gear Deathblows have been reorganised. Details are in the wiki.
-- Made the relationship between the portrait options clearer on the patcher.
-- Sword Knight R and Shield Knight R have been abbreviated.
-- Deathblowers have been renamed to Atk LvX Max, with X indicating attack level.
-- DeathblowX has been renamed to UltimaSwitch.
-- Completion message gives an indicator of the file names of the patched ROMs.
-- Added missing portraits during the Rankar encounter.
-- Added missing portraits for Rico and Hammer in the Yggdrasil.
-- Fixed camera bug in the baptism ceremony.
-- Fixed sleep music cut off in the prison dorm.
-- EtherStone and EtherStoneLg have had price and shop placement edits. Details are in the wiki.
-- Position of the coward's dialogue boxes has been fixed.
-- Lahan's NPC script has been checked.
-- Fixed a dialogue box bug in Billy's room.
-- Ravine has been renamed to Lawine.
-- Fixed bugs with dialogue boxes and character orientation at the Orphanage.
-
-### Version 0.9.1
-
-01/23/2026
-
-- The gears used by the Special Forces have been changed to be more faithful to the Japanese version. Details are in the wiki.
-- Restored a previously inaccessible line in Dazil where Citan discusses Fei's aptitude with Weltall.
-- Game freeze that would occur on more accurate emulators when opening Special Options has been fixed.
-- Bug where Deathblows are unusable in disc 1 has been fixed with items/characters.
-- Bug where damage will drop to 1 after a while in disc 1 has been fixed with items/characters.
-- Camera bug at the start of the Fei carbonite sequence.
-- Graphical artifact during the Vendetta chase sequence has been fixed.
-- Camera bug when Fei sees the coward has been fixed.
-- Elly's dialogue at the church infirmary now prioritises a line where she expresses guilt about the hypnosis.
-- The game now auto-advances when Billy goes through the Church HQ door ahead of the party.
-- A fix has been applied to the scene where Rene arrives at the portrait room.
-
-### Version 0.9.0
-
-01/14/2026
-
-- Script has been updated up to the arrival at point Bethlehem.
-- All graphical bug fixes have been added to the other patches. The "graphical fixes" option has been replaced with a "portrait fixes" one, which is mutually exclusive to the "resized portraits" option.
-- Karellen's dialogue to Ramsus in Merkabah provides more insight into his backstory.
-- Elly's spells have been buffed. Details are in the wiki.
-- Script and spriting issues in Merkabah have been fixed.
-- Merged story mode and script version of the G Elements fight has been fixed.
-- Wither and Weaken are temporarily unavailable until bugs surrounding them have been fixed.
-- A camera bug in the second Roni campfire scene has been fixed.
-- EP is now used in the character selection screen over MP.
-- Defense has been changed to Defend on the command ring during battle.
+- The music change patch has returned.
+- The option to switch to Japanese controls is now available.
+- An option is available to turn off level requirements for Deathblows.
+- Script up to the Snowfield Hideout been updated.
+- NPC script up to Dazil has been updated.
+- Blackmoon Forest and the Av Desert have their original encounter rates when the script patch is applied without half encounters.
+- The room in Solaris where Elly is captured has had its encounter rate halved with the half encounters patch.
+- Timing of the dialogue at the Khan-Grahf reveal has been improved.
+- Fei now uses his sad portrait when he converses with Wiseman in disc 2.
+- Sprite fixes have been made to the Excalibur briefing scene.
+- Abelites has been changed to Abal.
+- Game freeze at the Stalactite Cave when the script and story mode patches are used has been fixed.
 
 [Details about previous releases can be found here.](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Version-History)
 
@@ -168,7 +122,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - Siris: Story mode, translation, programming, graphical fixes, softsub text and timings
 - ChrisGLink: Translation
 - linnaealyn: Testing, FMV font
-- [An Eye for the Infinite](http://moonreading.lunarpages.com/xeno/): Translation
+- [An Eye for the Infinite](https://web.archive.org/web/20101225035716/http://moonreading.lunarpages.com/xeno/): Translation
 - [Almagest](http://almagest712.blogspot.com/2017/11/xenogears-my-father-you-mean-my-dad.html): Translation
 - cactusmomma: Translation
 - ividyon: Translation
