@@ -63,7 +63,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - NPC script up to Dazil has been updated.
 - Blackmoon Forest and the Av Desert have their original encounter rates when the script patch is applied without half encounters.
 - The room in Solaris where Elly is captured has had its encounter rate halved with the half encounters patch.
-- Timing of the dialogue at the Khan-Grahf reveal has been improved.
+- Timing of the dialogue at Grahf's appearance at Point Bethlehem has been improved.
 - Fei now uses his sad portrait when he converses with Wiseman in disc 2.
 - Sprite fixes have been made to the Excalibur briefing scene.
 - Abelites has been changed to Abal.
