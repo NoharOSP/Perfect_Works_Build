@@ -214,7 +214,6 @@ void patchVerifier::audioVerify() {
 	}
 }
 
-// TODO: Split into methods
 void patchVerifier::modeVerify() {
 	if (windowHandler::storymodeticked == BST_CHECKED) {
 		Window::log_file << "Story mode directory found." << std::endl;
