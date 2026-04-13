@@ -101,10 +101,8 @@ void Window::tooltipTextMaker() {
 	HWND tt_cafe = toolGenerator(tips.text_cafe, winHwnd, cafe, winInst).hWndTT;
 	// Gameplay
 	HWND tt_encounters = toolGenerator(tips.text_encounters, winHwnd, encounters, winInst).hWndTT;
-	HWND tt_expone = toolGenerator(tips.text_expone, winHwnd, experience1, winInst).hWndTT;
-	HWND tt_exptwo = toolGenerator(tips.text_exptwo, winHwnd, experience2, winInst).hWndTT;
-	HWND tt_goldone = toolGenerator(tips.text_goldone, winHwnd, gold1, winInst).hWndTT;
-	HWND tt_goldtwo = toolGenerator(tips.text_goldtwo, winHwnd, gold2, winInst).hWndTT;
+	HWND tt_exp = toolGenerator(tips.text_exp, winHwnd, experience, winInst).hWndTT;
+	HWND tt_gold = toolGenerator(tips.text_gold, winHwnd, gold, winInst).hWndTT;
 	HWND tt_itemspells = toolGenerator(tips.text_itemspells, winHwnd, itemspells, winInst).hWndTT;
 	HWND tt_monsters = toolGenerator(tips.text_monsters, winHwnd, monsters, winInst).hWndTT;
 	HWND tt_deathblows = toolGenerator(tips.text_deathblow, winHwnd, deathblows, winInst).hWndTT;

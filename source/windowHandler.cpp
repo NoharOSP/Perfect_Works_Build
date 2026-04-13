@@ -17,22 +17,8 @@ void windowHandler::checkGraphics() {
 
 void windowHandler::checkGameplay() {
 	encticked = SendMessage(Window::encounters, BM_GETCHECK, NULL, NULL);
-	exponeticked = SendMessage(Window::experience1, BM_GETCHECK, NULL, NULL);
-	if (exponeticked == BST_CHECKED && exptwoticked == BST_CHECKED) {
-		SendMessage(Window::experience2, BM_SETCHECK, BST_UNCHECKED, NULL);
-	}
-	exptwoticked = SendMessage(Window::experience2, BM_GETCHECK, NULL, NULL);
-	if (exponeticked == BST_CHECKED && exptwoticked == BST_CHECKED) {
-		SendMessage(Window::experience1, BM_SETCHECK, BST_UNCHECKED, NULL);
-	}
-	goldoneticked = SendMessage(Window::gold1, BM_GETCHECK, NULL, NULL);
-	if (goldoneticked == BST_CHECKED && goldtwoticked == BST_CHECKED) {
-		SendMessage(Window::gold2, BM_SETCHECK, BST_UNCHECKED, NULL);
-	}
-	goldtwoticked = SendMessage(Window::gold2, BM_GETCHECK, NULL, NULL);
-	if (goldoneticked == BST_CHECKED && goldtwoticked == BST_CHECKED) {
-		SendMessage(Window::gold1, BM_SETCHECK, BST_UNCHECKED, NULL);
-	}
+	expticked = SendMessage(Window::experience, BM_GETCHECK, NULL, NULL);
+	goldticked = SendMessage(Window::gold, BM_GETCHECK, NULL, NULL);
 	itemspellsticked = SendMessage(Window::itemspells, BM_GETCHECK, NULL, NULL);
 	monstersticked = SendMessage(Window::monsters, BM_GETCHECK, NULL, NULL);
 	deathblowsticked = SendMessage(Window::deathblows, BM_GETCHECK, NULL, NULL);

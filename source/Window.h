@@ -20,18 +20,12 @@ struct tipDesc {
 		"Text scrolls instantly. There are noticeable\n"
 		"bugs with specific scenes, so the patch is\n"
 		"still a work in progress\n";
-	char text_expone[255] =
-		"Increases experience from battle by 50%.\n";
-	char text_exptwo[255] =
-		"Increases experience from battle by 100%.\n"
-		"If half encounters is selected, it is\n"
-		"recommended to choose this setting.";
-	char text_goldone[255] =
-		"Increases money from battle by 50%.\n";
-	char text_goldtwo[255] =
-		"Increases gold from battle by 100%.\n"
-		"If half encounters is selected, it is\n"
-		"recommended to choose this setting.";
+	char text_exp[255] =
+		"Increases experience from battle. Choose\n"
+		"the modifier in the menu below.\n";
+	char text_gold[255] =
+		"Increases gold from battle. Choose\n"
+		"the modifier in the menu below.\n";
 	char text_itemspells[255] =
 		"WARNING: Incompatible with pre-0.4 saves.\n"
 		"The game is rebalanced; with items,\n" 
@@ -151,10 +145,8 @@ public:
 	inline static HWND roni;
 	inline static HWND cafe;
 	inline static HWND encounters;
-	inline static HWND experience1;
-	inline static HWND experience2;
-	inline static HWND gold1;
-	inline static HWND gold2;
+	inline static HWND experience;
+	inline static HWND gold;
 	inline static HWND itemspells;
 	inline static HWND monsters;
 	inline static HWND deathblows;

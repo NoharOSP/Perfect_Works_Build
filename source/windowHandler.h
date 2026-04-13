@@ -20,10 +20,8 @@ public:
 	inline static LRESULT roniticked;
 	inline static LRESULT cafeticked;
 	inline static LRESULT encticked;
-	inline static LRESULT exponeticked;
-	inline static LRESULT exptwoticked;
-	inline static LRESULT goldoneticked;
-	inline static LRESULT goldtwoticked;
+	inline static LRESULT expticked;
+	inline static LRESULT goldticked;
 	inline static LRESULT itemspellsticked;
 	inline static LRESULT monstersticked;
 	inline static LRESULT deathblowsticked;
