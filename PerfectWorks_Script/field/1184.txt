@@ -221,10 +221,11 @@ Oh! Are you Rico, the
 Battling Champ? I'm
 originally from Kislev.
 It's great to meet you!!<Close><End of Block>
-<TextBlock 47 w:46 h:3>
-Well, I'm no longer the
+<TextBlock 47 w:48 h:4>
+Rico
+"Well, I'm no longer the
 Champ.<Delay 10> So there's no
-need to get so excited.<Close><End of Block>
+need to get so excited."<Close><End of Block>
 <TextBlock 48 w:58 h:3>
 I may not be so handsome,
 but I do have a fiancee
