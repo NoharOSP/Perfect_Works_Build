@@ -18,7 +18,19 @@ void windowHandler::checkGraphics() {
 void windowHandler::checkGameplay() {
 	encticked = SendMessage(Window::encounters, BM_GETCHECK, NULL, NULL);
 	expticked = SendMessage(Window::experience, BM_GETCHECK, NULL, NULL);
+	if (expticked) {
+		EnableWindow(Window::expList, true);
+	}
+	else {
+		EnableWindow(Window::expList, false);
+	}
 	goldticked = SendMessage(Window::gold, BM_GETCHECK, NULL, NULL);
+	if (goldticked) {
+		EnableWindow(Window::goldList, true);
+	}
+	else {
+		EnableWindow(Window::goldList, false);
+	}
 	itemspellsticked = SendMessage(Window::itemspells, BM_GETCHECK, NULL, NULL);
 	monstersticked = SendMessage(Window::monsters, BM_GETCHECK, NULL, NULL);
 	deathblowsticked = SendMessage(Window::deathblows, BM_GETCHECK, NULL, NULL);

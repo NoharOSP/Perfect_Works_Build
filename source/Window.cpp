@@ -1,13 +1,14 @@
 #include "pch.h"
 #include "Window.h"
 
-Window::Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle) {
+Window::Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle, LPARAM lParam) {
 	// Initialise variables
 	winHwnd = hWnd;
 	winInst = hInst;
 	winX = axisX;
 	winY = axisY;
 	title = szTitle;
+	param = lParam;
 	std::filesystem::current_path(home);
 	// Create log
 	log_file.open("pw_log.txt", std::ios::trunc);
@@ -58,7 +59,19 @@ void Window::checkboxLock() {
 	}
 	// Enable the patch window if a ROM has been found
 	for (int i = 0; i < windList.size(); i++) {
-		EnableWindow(windList[i], found);
+		if (windList[i] == expList) {
+			if (!windowHandler::expticked) {
+				EnableWindow(windList[i], false);
+			}
+		}
+		else if (windList[i] == goldList) {
+			if (!windowHandler::goldticked) {
+				EnableWindow(windList[i], false);
+			}
+		}
+		else {
+			EnableWindow(windList[i], found);
+		}
 		if (windList[i] == normalarena) {
 			LRESULT tick = SendMessage(windList[i], BM_SETCHECK, BST_CHECKED, NULL);
 		}
@@ -102,7 +115,9 @@ void Window::tooltipTextMaker() {
 	// Gameplay
 	HWND tt_encounters = toolGenerator(tips.text_encounters, winHwnd, encounters, winInst).hWndTT;
 	HWND tt_exp = toolGenerator(tips.text_exp, winHwnd, experience, winInst).hWndTT;
+	HWND tt_expList = toolGenerator(tips.text_expList, winHwnd, expList, winInst).hWndTT;
 	HWND tt_gold = toolGenerator(tips.text_gold, winHwnd, gold, winInst).hWndTT;
+	HWND tt_goldList = toolGenerator(tips.text_goldList, winHwnd, goldList, winInst).hWndTT;
 	HWND tt_itemspells = toolGenerator(tips.text_itemspells, winHwnd, itemspells, winInst).hWndTT;
 	HWND tt_monsters = toolGenerator(tips.text_monsters, winHwnd, monsters, winInst).hWndTT;
 	HWND tt_deathblows = toolGenerator(tips.text_deathblow, winHwnd, deathblows, winInst).hWndTT;
@@ -171,4 +186,27 @@ void Window::restoreDefaults() {
 	log_file << "Removing paths from windows." << std::endl;
 	SetWindowText(cd1path, L"");
 	SetWindowText(cd2path, L"");
+}
+
+void Window::dropdown() {
+	// Create dropdown menu
+	pDropDown = (NMBCDROPDOWN*)param;
+	if (pDropDown->hdr.hwndFrom == GetDlgItem(winHwnd, 9004) || pDropDown->hdr.hwndFrom == GetDlgItem(winHwnd, 9005))
+	{
+		POINT pt;
+		pt.x = pDropDown->rcButton.left;
+		pt.y = pDropDown->rcButton.bottom;
+		ClientToScreen(pDropDown->hdr.hwndFrom, &pt);
+
+		HMENU hSplitMenu = CreatePopupMenu();
+		AppendMenu(hSplitMenu, MF_BYPOSITION, (UINT_PTR)IDM_NORMAL, L"0x");
+		AppendMenu(hSplitMenu, MF_BYPOSITION, (UINT_PTR)IDM_HALF, L"1.5x");
+		AppendMenu(hSplitMenu, MF_BYPOSITION, (UINT_PTR)IDM_DOUBLE, L"2x");
+
+		TrackPopupMenu(hSplitMenu, TPM_LEFTALIGN | TPM_TOPALIGN, pt.x, pt.y, 0, winHwnd, NULL);
+	}
+}
+
+void Window::paintDropdown(std::string option) {
+	windowPainter::drawDropdown(option);
 }

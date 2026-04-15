@@ -30,14 +30,18 @@ void windowPainter::gameplayWindows() {
 	// Create gameplay patch windows
 	pWin->encounters = CreateWindow(L"BUTTON", L"1/2 encounters", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.30), 90, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->experience = CreateWindow(L"BUTTON", L"Modify exp", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.36), 110, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	pWin->expList = CreateWindow(L"BUTTON", L"Modifier", WS_CHILD | WS_VISIBLE | BS_SPLITBUTTON, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.42), 110, 25, Window::winHwnd, (HMENU)9004, Window::winInst, NULL);
 	pWin->gold = CreateWindow(L"BUTTON", L"Modify gold", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.48), 110, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	pWin->goldList = CreateWindow(L"BUTTON", L"Modifier", WS_CHILD | WS_VISIBLE | BS_SPLITBUTTON, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.54), 110, 25, Window::winHwnd, (HMENU)9005, Window::winInst, NULL);
 	pWin->monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.60), 120, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.66), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->deathblows = CreateWindow(L"BUTTON", L"No Deathblow levels", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.72), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	// Put in window list
 	Window::windList.emplace_back(Window::encounters);
 	Window::windList.emplace_back(Window::experience);
+	Window::windList.emplace_back(Window::expList);
 	Window::windList.emplace_back(Window::gold);
+	Window::windList.emplace_back(Window::goldList);
 	Window::windList.emplace_back(Window::itemspells);
 	Window::windList.emplace_back(Window::monsters);
 	Window::windList.emplace_back(Window::deathblows);
@@ -165,5 +169,32 @@ void windowPainter::drawText() {
 	TextOut(hdc, Window::winX * Window::storyx, Window::winY * 0.26, storytext, wcslen(storytext));
 	TextOut(hdc, Window::winX * Window::audiox, Window::winY * 0.26, audiotext, wcslen(audiotext));
 	TextOut(hdc, Window::winX * Window::smx, Window::winY * 0.26, modestext, wcslen(modestext));
+}
+
+void windowPainter::drawDropdown(std::string option) {
+	if (option == "normal") {
+		if (Window::pDropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9004)) {
+			SetWindowText(Window::expList, L"0");
+		}
+		if (Window::pDropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9005)) {
+			SetWindowText(Window::goldList, L"0");
+		}
+	}
+	if (option == "half") {
+		if (Window::pDropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9004)) {
+			SetWindowText(Window::expList, L"1.5x");
+		}
+		if (Window::pDropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9005)) {
+			SetWindowText(Window::goldList, L"1.5x");
+		}
+	}
+	if (option == "double") {
+		if (Window::pDropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9004)) {
+			SetWindowText(Window::expList, L"2x");
+		}
+		if (Window::pDropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9005)) {
+			SetWindowText(Window::goldList, L"2x");
+		}
+	}
 }
 

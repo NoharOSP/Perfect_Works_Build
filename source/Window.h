@@ -112,13 +112,19 @@ struct tipDesc {
 		"specific scenes so that they are\n"
 		"are more appropriate and prevents\n"
 		"some tracks from being overplayed.";
+	char text_expList[255] =
+		"Select which value enemy experience\n"
+		"should be multiplied by.\n";
+	char text_goldList[255] =
+		"Select which value enemy gold\n"
+		"should be multiplied by.\n";
 };
 
 class Window
 {
 	// Global mathods
 public:
-	Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle);
+	Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle, LPARAM lParam);
 	~Window();
 	static void checkboxLock();
 	static void restoreDefaults();
@@ -129,6 +135,8 @@ public:
 	void openFile(HWND hWnd);
 	void windowSelect();
 	void process();
+	void dropdown();
+	void paintDropdown(std::string option);
 
 	// Global variables
 public:
@@ -146,7 +154,9 @@ public:
 	inline static HWND cafe;
 	inline static HWND encounters;
 	inline static HWND experience;
+	inline static HWND expList;
 	inline static HWND gold;
+	inline static HWND goldList;
 	inline static HWND itemspells;
 	inline static HWND monsters;
 	inline static HWND deathblows;
@@ -183,5 +193,7 @@ public:
 	inline static std::string path2 = "";
 	inline static std::string home = std::filesystem::current_path().string();
 	inline static LPWSTR title;
+	LPARAM param;
+	inline static NMBCDROPDOWN* pDropDown;
 };
 

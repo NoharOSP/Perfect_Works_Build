@@ -107,7 +107,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	case WM_CREATE:
 	{
 		// Create window variable
-		pWin = new Window(hWnd, hInst, winX, winY, szTitle);
+		pWin = new Window(hWnd, hInst, winX, winY, szTitle, lParam);
 		break;
 	}
 	case WM_SIZE:
@@ -146,6 +146,27 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		}
 		break;
 
+		case IDM_NORMAL:
+		{
+			pWin->paintDropdown("normal");
+			break;
+		}
+		break;
+
+		case IDM_HALF:
+		{
+			pWin->paintDropdown("half");
+			break;
+		}
+		break;
+
+		case IDM_DOUBLE:
+		{
+			pWin->paintDropdown("double");
+			break;
+		}
+		break;
+
 		case IDM_ABOUT:
 		{
 			// Create "About" dialog
@@ -168,6 +189,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		}
 	}
 	break;
+
+	// Use WM_NOTIFY to respond to dropdown menu call
 
 	case WM_PAINT:
 	{
