@@ -1,14 +1,13 @@
 #include "pch.h"
 #include "Window.h"
 
-Window::Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle, LPARAM lParam) {
+Window::Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle) {
 	// Initialise variables
 	winHwnd = hWnd;
 	winInst = hInst;
 	winX = axisX;
 	winY = axisY;
 	title = szTitle;
-	param = lParam;
 	std::filesystem::current_path(home);
 	// Create log
 	log_file.open("pw_log.txt", std::ios::trunc);
@@ -56,6 +55,7 @@ void Window::checkboxLock() {
 		for (int i = 0; i < windList.size(); i++) {
 			LRESULT untick = SendMessage(windList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
 		}
+		windowSelect();
 	}
 	// Enable the patch window if a ROM has been found
 	for (int i = 0; i < windList.size(); i++) {
@@ -181,6 +181,7 @@ void Window::restoreDefaults() {
 	pathFound2 = false;
 	romFinder::discFound1 = false;
 	romFinder::discFound2 = false;
+	windowPainter::drawDropdown("reset");
 	checkboxLock();
 	patchBoxLock();
 	log_file << "Removing paths from windows." << std::endl;
@@ -188,25 +189,8 @@ void Window::restoreDefaults() {
 	SetWindowText(cd2path, L"");
 }
 
-void Window::dropdown() {
+void Window::dropdown(NMBCDROPDOWN* pDropDown, std::string option) {
 	// Create dropdown menu
-	pDropDown = (NMBCDROPDOWN*)param;
-	if (pDropDown->hdr.hwndFrom == GetDlgItem(winHwnd, 9004) || pDropDown->hdr.hwndFrom == GetDlgItem(winHwnd, 9005))
-	{
-		POINT pt;
-		pt.x = pDropDown->rcButton.left;
-		pt.y = pDropDown->rcButton.bottom;
-		ClientToScreen(pDropDown->hdr.hwndFrom, &pt);
-
-		HMENU hSplitMenu = CreatePopupMenu();
-		AppendMenu(hSplitMenu, MF_BYPOSITION, (UINT_PTR)IDM_NORMAL, L"0x");
-		AppendMenu(hSplitMenu, MF_BYPOSITION, (UINT_PTR)IDM_HALF, L"1.5x");
-		AppendMenu(hSplitMenu, MF_BYPOSITION, (UINT_PTR)IDM_DOUBLE, L"2x");
-
-		TrackPopupMenu(hSplitMenu, TPM_LEFTALIGN | TPM_TOPALIGN, pt.x, pt.y, 0, winHwnd, NULL);
-	}
-}
-
-void Window::paintDropdown(std::string option) {
-	windowPainter::drawDropdown(option);
+	dropDown = pDropDown;
+	windowPainter::drawDropdown(option);	
 }

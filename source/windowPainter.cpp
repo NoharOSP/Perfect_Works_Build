@@ -172,29 +172,42 @@ void windowPainter::drawText() {
 }
 
 void windowPainter::drawDropdown(std::string option) {
+	// Set drop down menu window text
 	if (option == "normal") {
-		if (Window::pDropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9004)) {
-			SetWindowText(Window::expList, L"0");
+		if (Window::dropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9004)) {
+			SetWindowText(Window::expList, L"0x");
+			Window::expModifier = option;
 		}
-		if (Window::pDropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9005)) {
-			SetWindowText(Window::goldList, L"0");
+		if (Window::dropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9005)) {
+			SetWindowText(Window::goldList, L"0x");
+			Window::goldModifier = option;
 		}
 	}
 	if (option == "half") {
-		if (Window::pDropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9004)) {
+		if (Window::dropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9004)) {
 			SetWindowText(Window::expList, L"1.5x");
+			Window::expModifier = option;
 		}
-		if (Window::pDropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9005)) {
+		if (Window::dropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9005)) {
 			SetWindowText(Window::goldList, L"1.5x");
+			Window::goldModifier = option;
 		}
 	}
 	if (option == "double") {
-		if (Window::pDropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9004)) {
+		if (Window::dropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9004)) {
 			SetWindowText(Window::expList, L"2x");
+			Window::expModifier = option;
 		}
-		if (Window::pDropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9005)) {
+		if (Window::dropDown->hdr.hwndFrom == GetDlgItem(Window::winHwnd, 9005)) {
 			SetWindowText(Window::goldList, L"2x");
+			Window::goldModifier = option;
 		}
+	}
+	if (option == "reset") {
+		SetWindowText(Window::expList, L"Modifier");
+		Window::expModifier = "";
+		SetWindowText(Window::goldList, L"Modifier");
+		Window::goldModifier = "";
 	}
 }
 

@@ -124,7 +124,7 @@ class Window
 {
 	// Global mathods
 public:
-	Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle, LPARAM lParam);
+	Window(HWND hWnd, HINSTANCE hInst, int axisX, int axisY, LPWSTR szTitle);
 	~Window();
 	static void checkboxLock();
 	static void restoreDefaults();
@@ -133,10 +133,9 @@ public:
 	void paintProcess();
 	void tooltipTextMaker();
 	void openFile(HWND hWnd);
-	void windowSelect();
+	static void windowSelect();
 	void process();
-	void dropdown();
-	void paintDropdown(std::string option);
+	void dropdown(NMBCDROPDOWN* pDropDown, std::string option);
 
 	// Global variables
 public:
@@ -192,8 +191,9 @@ public:
 	inline static std::string path1 = "";
 	inline static std::string path2 = "";
 	inline static std::string home = std::filesystem::current_path().string();
+	inline static std::string expModifier = "";
+	inline static std::string goldModifier = "";
 	inline static LPWSTR title;
-	LPARAM param;
-	inline static NMBCDROPDOWN* pDropDown;
+	inline static NMBCDROPDOWN* dropDown;
 };
 

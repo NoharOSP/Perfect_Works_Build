@@ -27,6 +27,7 @@ WCHAR szWindowClass[MAX_LOADSTRING];            // the main window class name
 Window* pWin;
 int winX = 800;
 int winY = 600;
+NMBCDROPDOWN* pDropDown;
 
 // Global methods
 ATOM                MyRegisterClass(HINSTANCE hInstance);

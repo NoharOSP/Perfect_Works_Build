@@ -82,10 +82,10 @@ void monsterEditor::editExp(std::fstream* fileContents, int i, int nextpos, wcha
 	fileContents->seekp(nextpos, std::ios_base::beg);
 	fileContents->read(reinterpret_cast<char*>(&buffer), 4);
 	uint64_t exp = buffer;
-	if (windowHandler::expticked == BST_CHECKED) {
+	if (Window::expModifier == "half") {
 		exp = exp * 1.5;
 	}
-	if (windowHandler::expticked == BST_CHECKED) {
+	if (Window::expModifier == "double") {
 		exp = exp * 2;
 	}
 	nextpos = i + data[2];
@@ -99,10 +99,10 @@ void monsterEditor::editGold(std::fstream* fileContents, int i, int nextpos, wch
 	fileContents->seekp(nextpos, std::ios_base::beg);
 	fileContents->read(reinterpret_cast<char*>(&buffer), 2);
 	uint64_t gold = buffer;
-	if (windowHandler::goldticked == BST_CHECKED) {
+	if (Window::goldModifier == "half") {
 		gold = gold * 1.5;
 	}
-	if (windowHandler::goldticked == BST_CHECKED) {
+	if (Window::goldModifier == "double") {
 		gold = gold * 2;
 	}
 	nextpos = i + data[3];

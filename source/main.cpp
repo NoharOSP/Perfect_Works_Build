@@ -107,7 +107,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	case WM_CREATE:
 	{
 		// Create window variable
-		pWin = new Window(hWnd, hInst, winX, winY, szTitle, lParam);
+		pWin = new Window(hWnd, hInst, winX, winY, szTitle);
 		break;
 	}
 	case WM_SIZE:
@@ -148,21 +148,21 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 
 		case IDM_NORMAL:
 		{
-			pWin->paintDropdown("normal");
+			pWin->dropdown(pDropDown, "normal");
 			break;
 		}
 		break;
 
 		case IDM_HALF:
 		{
-			pWin->paintDropdown("half");
+			pWin->dropdown(pDropDown, "half");
 			break;
 		}
 		break;
 
 		case IDM_DOUBLE:
 		{
-			pWin->paintDropdown("double");
+			pWin->dropdown(pDropDown, "double");
 			break;
 		}
 		break;
@@ -190,7 +190,29 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	}
 	break;
 
-	// Use WM_NOTIFY to respond to dropdown menu call
+	// Dropdown menu
+	case WM_NOTIFY:
+		switch (((LPNMHDR)lParam)->code) 
+		{
+			case BCN_DROPDOWN:
+				pDropDown = (NMBCDROPDOWN*)lParam;
+				if (pDropDown->hdr.hwndFrom == GetDlgItem(hWnd, 9004) || pDropDown->hdr.hwndFrom == GetDlgItem(hWnd, 9005))
+				{
+					POINT pt;
+					pt.x = pDropDown->rcButton.left;
+					pt.y = pDropDown->rcButton.bottom;
+					ClientToScreen(pDropDown->hdr.hwndFrom, &pt);
+
+					HMENU hSplitMenu = CreatePopupMenu();
+					AppendMenu(hSplitMenu, MF_BYPOSITION, (UINT_PTR)IDM_NORMAL, L"0x");
+					AppendMenu(hSplitMenu, MF_BYPOSITION, (UINT_PTR)IDM_HALF, L"1.5x");
+					AppendMenu(hSplitMenu, MF_BYPOSITION, (UINT_PTR)IDM_DOUBLE, L"2x");
+
+					TrackPopupMenu(hSplitMenu, TPM_LEFTALIGN | TPM_TOPALIGN, pt.x, pt.y, 0, hWnd, NULL);
+				}
+				break;
+		}
+	break;
 
 	case WM_PAINT:
 	{
