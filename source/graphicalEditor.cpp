@@ -19,8 +19,8 @@ void graphicalEditor::battleExeEdits() {
 		// Open file
 		std::fstream fileContents;
 		fileContents.open(decomp, std::ios::in | std::ios::out | std::ios::binary);
-		// Find the position of the text speed value
-		fileContents.seekp(278032, std::ios_base::beg);
+		// Find the position of the flash timer
+		fileContents.seekp(334032, std::ios_base::beg);
 		int flash = 0x00;
 		fileContents.write(reinterpret_cast <char*>(&flash), 2);
 		// Close file
