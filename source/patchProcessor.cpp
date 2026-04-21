@@ -113,7 +113,7 @@ void patchProcessor::start() {
 		Window::log_file << "xenoiso process failed." << std::endl;
 		successMessage = false;
 	}
-	clearPatchLists();
+	reinitialisePatches();
 	if (num == 1) {
 		if (!Window::pathFound2) {
 			finish();
@@ -135,7 +135,7 @@ void patchProcessor::finish() {
 		MessageBox(Window::winHwnd, L"An error occurred with xenoiso. View pw_log for details.", L"Error", MB_ICONASTERISK);
 	}
 	// Restore defaults
-	reinitialisePatches();
+	clearPatchLists();
 	Window::restoreDefaults();
 }
 

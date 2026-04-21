@@ -1,8 +1,6 @@
 #include "pch.h"
 #include "applyPatch.h"
 
-// TODO: Look into bugs with continued exp/gold use
-
 void applyPatch::initialise() {
 	Window::log_file << "Initialise patched ROM name and disc number to pass to xenoiso." << std::endl;
 	// Disc 1 data
