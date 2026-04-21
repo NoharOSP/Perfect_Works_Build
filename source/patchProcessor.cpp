@@ -113,7 +113,7 @@ void patchProcessor::start() {
 		Window::log_file << "xenoiso process failed." << std::endl;
 		successMessage = false;
 	}
-	clearPatchLists();
+	reinitialisePatches();
 	if (num == 1) {
 		if (!Window::pathFound2) {
 			finish();
@@ -134,17 +134,39 @@ void patchProcessor::finish() {
 		Window::log_file << "Show failure message." << std::endl;
 		MessageBox(Window::winHwnd, L"An error occurred with xenoiso. View pw_log for details.", L"Error", MB_ICONASTERISK);
 	}
+	for (int i = 0; i < patchList.size(); i++) {
+		Window::log_file << patchList[i] << std::endl;
+	}
 	// Restore defaults
-	reinitialisePatches();
+	clearPatchLists();
 	Window::restoreDefaults();
 }
 
 // Removes patch names
 void patchProcessor::reinitialisePatches() {
 	Window::log_file << "Clearing patch names." << std::endl;
-	for (int i = 0; i < patchList.size(); i = i + 1) {
-		patchList[i] = "";
-	}
+	encountersName = "";
+	expName = "";
+	fastName = "";
+	fmvName = "";
+	roniName = "";
+	itemspellsName = "";
+	monsterName = "";
+	resizeName = "";
+	scriptName = "";
+	arenaName = "";
+	portraitsName = "";
+	bugName = "";
+	titleName = "";
+	voiceName = "";
+	flashesName = "";
+	storyModeName = "";
+	goldName = "";
+	fmvPatch = "";
+	cafeName = "";
+	deathblowName = "";
+	jpnName = "";
+	musicName = "";
 }
 
 // Clear patch lists
