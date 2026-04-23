@@ -114,6 +114,7 @@ void patchProcessor::start() {
 		successMessage = false;
 	}
 	reinitialisePatches();
+	clearPatchLists();
 	if (num == 1) {
 		if (!Window::pathFound2) {
 			finish();
@@ -138,7 +139,6 @@ void patchProcessor::finish() {
 		Window::log_file << patchList[i] << std::endl;
 	}
 	// Restore defaults
-	clearPatchLists();
 	Window::restoreDefaults();
 }
 
