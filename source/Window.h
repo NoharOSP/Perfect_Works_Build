@@ -87,12 +87,7 @@ struct tipDesc {
 		"and ensures all enemies in the game\n"
 		"can be killed in one hit.\n";
 	char text_flashes[255] =
-		"Turns off flashes during battle.\n"
-		"A side effect is that the victory\n"
-		"screen won't dim when experience\n"
-		"and gold are given. Certain scenes\n"
-		"will also have notable graphical\n"
-		"bugs.";
+		"Turns off flashes during battle.";
 	char text_roni[255] =
 		"Swaps Roni's portrait for his\n"
 		"Perfect Works design.\n";
