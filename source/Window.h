@@ -17,7 +17,7 @@ struct tipDesc {
 		"spots and places where you'd be dependent\n"
 		"on encounter drops.";
 	char text_fast[255] =
-		"Text scrolls instantly. There are noticeable\n"
+		"Allows a faster text scroll. There are noticeable\n"
 		"bugs with specific scenes, so the patch is\n"
 		"still a work in progress\n";
 	char text_exp[255] =
@@ -113,6 +113,11 @@ struct tipDesc {
 	char text_goldList[255] =
 		"Select which value enemy gold\n"
 		"should be multiplied by.\n";
+	char text_instantText[255] =
+		"Allows instant text. As with the original\n"
+		"patch by FFMaster, there are bugs with\n"
+		"specific scenes if the player mashes too\n"
+		"quickly.\n";
 };
 
 class Window
@@ -164,6 +169,7 @@ public:
 	inline static HWND storyMode;
 	inline static HWND jpnControls;
 	inline static HWND music;
+	inline static HWND instant;
 	inline static HINSTANCE winInst;
 	inline static int winX;
 	inline static int winY;

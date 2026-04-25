@@ -35,5 +35,6 @@ public:
 	inline static LRESULT musicticked;
 	inline static LRESULT storymodeticked;
 	inline static LRESULT jpnticked;
+	inline static LRESULT instantticked;
 };
 

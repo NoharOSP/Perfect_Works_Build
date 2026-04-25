@@ -128,6 +128,7 @@ void Window::tooltipTextMaker() {
 	// Story
 	HWND tt_fast = toolGenerator(tips.text_fast, winHwnd, fasttext, winInst).hWndTT;
 	HWND tt_script = toolGenerator(tips.text_script, winHwnd, script, winInst).hWndTT;
+	HWND tt_instant = toolGenerator(tips.text_instantText, winHwnd, instant, winInst).hWndTT;
 	// Audio
 	HWND tt_fmvs = toolGenerator(tips.text_fmvs, winHwnd, fmvs, winInst).hWndTT;
 	HWND tt_voice = toolGenerator(tips.text_voices, winHwnd, voice, winInst).hWndTT;

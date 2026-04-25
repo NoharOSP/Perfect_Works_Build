@@ -51,6 +51,13 @@ void windowHandler::checkArena() {
 void windowHandler::checkStory() {
 	scriptticked = SendMessage(Window::script, BM_GETCHECK, NULL, NULL);
 	fastticked = SendMessage(Window::fasttext, BM_GETCHECK, NULL, NULL);
+	if (fastticked == BST_CHECKED && instantticked == BST_CHECKED) {
+		SendMessage(Window::instant, BM_SETCHECK, BST_UNCHECKED, NULL);
+	}
+	instantticked = SendMessage(Window::instant, BM_GETCHECK, NULL, NULL);
+	if (fastticked == BST_CHECKED && instantticked == BST_CHECKED) {
+		SendMessage(Window::fasttext, BM_SETCHECK, BST_UNCHECKED, NULL);
+	}
 }
 
 void windowHandler::checkAudio() {

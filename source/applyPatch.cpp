@@ -80,7 +80,7 @@ void applyPatch::createTemp() {
 	Window::log_file << "Copy files from each selected option into the temporary directory." << std::endl;
 	for (int i = 0; i < patchProcessor::patchList.size(); i++) {
 		if (patchProcessor::patchList[i] != "" && patchProcessor::patchList[i] != patchProcessor::fmvPatch) {
-			if (patchProcessor::patchList[i] == patchProcessor::fastName || patchProcessor::patchList[i] == patchProcessor::jpnName) {
+			if ((windowHandler::fastticked == BST_CHECKED|| windowHandler::instantticked == BST_CHECKED) || patchProcessor::patchList[i] == patchProcessor::jpnName) {
 				// Copy executable to temp
 				if (!windowHandler::fmvticked == BST_CHECKED) {
 					if (patchProcessor::num == 1) {

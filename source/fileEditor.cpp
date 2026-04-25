@@ -22,7 +22,7 @@ void fileEditor::gameplayEdits() {
 }
 
 void fileEditor::scriptEdits() {
-	if (windowHandler::fastticked == BST_CHECKED) {
+	if (windowHandler::fastticked == BST_CHECKED || windowHandler::instantticked == BST_CHECKED) {
 		if (!windowHandler::fmvticked == BST_CHECKED) {
 			Window::log_file << "Applying text speed change to game's executable." << std::endl;
 			for (const auto& entry : std::filesystem::directory_iterator(applyPatch::temp)) {
@@ -73,7 +73,7 @@ void fileEditor::modeEdits() {
 
 void fileEditor::editSLUS(std::string romFile) {
 	// Insert new SLUS
-	if (patchProcessor::fastName != "" || patchProcessor::jpnName != "") {
+	if ((windowHandler::fastticked == BST_CHECKED || windowHandler::instantticked == BST_CHECKED) || patchProcessor::jpnName != "") {
 		// Add fast text to softsubs SLUS
 		std::filesystem::current_path(patchProcessor::gamefilePath);
 		if (patchProcessor::num == 1) {
@@ -88,7 +88,7 @@ void fileEditor::editSLUS(std::string romFile) {
 				controlEditor::editExecutable(entry.path().string());
 			}
 		}
-		if (patchProcessor::fastName != "") {
+		if (windowHandler::fastticked == BST_CHECKED || windowHandler::instantticked == BST_CHECKED) {
 			Window::log_file << "Applying text speed change to game's executable." << std::endl;
 			for (const auto& entry : std::filesystem::directory_iterator(applyPatch::temp)) {
 				exeEdits(entry.path().string());
@@ -105,7 +105,7 @@ void fileEditor::makeSLUS(std::string romFile) {
 	Window::log_file << "Creating new SLUS file." << std::endl;
 	batch_file2.open("commands2.cmd", std::ios::trunc);
 	if (patchProcessor::num == 1) {
-		if (patchProcessor::fastName != "" || patchProcessor::jpnName != "") {
+		if ((windowHandler::fastticked == BST_CHECKED || windowHandler::instantticked == BST_CHECKED) || patchProcessor::jpnName != "") {
 			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\temp\\SLUS_006.64" << std::endl;
 		}
 		else {
@@ -113,7 +113,7 @@ void fileEditor::makeSLUS(std::string romFile) {
 		}
 	}
 	if (patchProcessor::num == 2) {
-		if (patchProcessor::fastName != "") {
+		if ((windowHandler::fastticked == BST_CHECKED || windowHandler::instantticked == BST_CHECKED) || patchProcessor::jpnName != "") {
 			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\temp\\SLUS_006.69" << std::endl;
 		}
 		else {
@@ -165,7 +165,13 @@ void fileEditor::editTextSpeed(std::string file) {
 	fileContents.open(file, std::ios::in | std::ios::out | std::ios::binary);
 	// Find the position of the text speed value
 	fileContents.seekp(151908, std::ios_base::beg);
-	int speed = 0x05;
+	int speed;
+	if (windowHandler::fastticked == BST_CHECKED) {
+		speed = 0x05;
+	}
+	if (windowHandler::instantticked == BST_CHECKED) {
+		speed = 0xFF;
+	}
 	fileContents.write(reinterpret_cast <char*>(&speed), 2);
 	fileContents.seekp(151911, std::ios_base::beg);
 	int nextval = 0x34;
