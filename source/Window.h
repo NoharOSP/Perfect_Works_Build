@@ -17,21 +17,15 @@ struct tipDesc {
 		"spots and places where you'd be dependent\n"
 		"on encounter drops.";
 	char text_fast[255] =
-		"Text scrolls instantly. There are noticeable\n"
+		"Allows a faster text scroll. There are noticeable\n"
 		"bugs with specific scenes, so the patch is\n"
 		"still a work in progress\n";
-	char text_expone[255] =
-		"Increases experience from battle by 50%.\n";
-	char text_exptwo[255] =
-		"Increases experience from battle by 100%.\n"
-		"If half encounters is selected, it is\n"
-		"recommended to choose this setting.";
-	char text_goldone[255] =
-		"Increases money from battle by 50%.\n";
-	char text_goldtwo[255] =
-		"Increases gold from battle by 100%.\n"
-		"If half encounters is selected, it is\n"
-		"recommended to choose this setting.";
+	char text_exp[255] =
+		"Increases experience from battle. Choose\n"
+		"the modifier in the menu below.\n";
+	char text_gold[255] =
+		"Increases gold from battle. Choose\n"
+		"the modifier in the menu below.\n";
 	char text_itemspells[255] =
 		"WARNING: Incompatible with pre-0.4 saves.\n"
 		"The game is rebalanced; with items,\n" 
@@ -113,6 +107,17 @@ struct tipDesc {
 		"specific scenes so that they are\n"
 		"are more appropriate and prevents\n"
 		"some tracks from being overplayed.";
+	char text_expList[255] =
+		"Select which value enemy experience\n"
+		"should be multiplied by.\n";
+	char text_goldList[255] =
+		"Select which value enemy gold\n"
+		"should be multiplied by.\n";
+	char text_instantText[255] =
+		"Allows instant text. As with the original\n"
+		"patch by FFMaster, there are bugs with\n"
+		"specific scenes if the player mashes too\n"
+		"quickly.\n";
 };
 
 class Window
@@ -128,8 +133,9 @@ public:
 	void paintProcess();
 	void tooltipTextMaker();
 	void openFile(HWND hWnd);
-	void windowSelect();
+	static void windowSelect();
 	void process();
+	void dropdown(NMBCDROPDOWN* pDropDown, std::string option);
 
 	// Global variables
 public:
@@ -146,10 +152,10 @@ public:
 	inline static HWND roni;
 	inline static HWND cafe;
 	inline static HWND encounters;
-	inline static HWND experience1;
-	inline static HWND experience2;
-	inline static HWND gold1;
-	inline static HWND gold2;
+	inline static HWND experience;
+	inline static HWND expList;
+	inline static HWND gold;
+	inline static HWND goldList;
 	inline static HWND itemspells;
 	inline static HWND monsters;
 	inline static HWND deathblows;
@@ -163,6 +169,7 @@ public:
 	inline static HWND storyMode;
 	inline static HWND jpnControls;
 	inline static HWND music;
+	inline static HWND instant;
 	inline static HINSTANCE winInst;
 	inline static int winX;
 	inline static int winY;
@@ -185,6 +192,9 @@ public:
 	inline static std::string path1 = "";
 	inline static std::string path2 = "";
 	inline static std::string home = std::filesystem::current_path().string();
+	inline static std::string expModifier = "";
+	inline static std::string goldModifier = "";
 	inline static LPWSTR title;
+	inline static NMBCDROPDOWN* dropDown;
 };
 

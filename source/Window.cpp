@@ -55,10 +55,23 @@ void Window::checkboxLock() {
 		for (int i = 0; i < windList.size(); i++) {
 			LRESULT untick = SendMessage(windList[i], BM_SETCHECK, BST_UNCHECKED, NULL);
 		}
+		windowSelect();
 	}
 	// Enable the patch window if a ROM has been found
 	for (int i = 0; i < windList.size(); i++) {
-		EnableWindow(windList[i], found);
+		if (windList[i] == expList) {
+			if (!windowHandler::expticked) {
+				EnableWindow(windList[i], false);
+			}
+		}
+		else if (windList[i] == goldList) {
+			if (!windowHandler::goldticked) {
+				EnableWindow(windList[i], false);
+			}
+		}
+		else {
+			EnableWindow(windList[i], found);
+		}
 		if (windList[i] == normalarena) {
 			LRESULT tick = SendMessage(windList[i], BM_SETCHECK, BST_CHECKED, NULL);
 		}
@@ -101,10 +114,10 @@ void Window::tooltipTextMaker() {
 	HWND tt_cafe = toolGenerator(tips.text_cafe, winHwnd, cafe, winInst).hWndTT;
 	// Gameplay
 	HWND tt_encounters = toolGenerator(tips.text_encounters, winHwnd, encounters, winInst).hWndTT;
-	HWND tt_expone = toolGenerator(tips.text_expone, winHwnd, experience1, winInst).hWndTT;
-	HWND tt_exptwo = toolGenerator(tips.text_exptwo, winHwnd, experience2, winInst).hWndTT;
-	HWND tt_goldone = toolGenerator(tips.text_goldone, winHwnd, gold1, winInst).hWndTT;
-	HWND tt_goldtwo = toolGenerator(tips.text_goldtwo, winHwnd, gold2, winInst).hWndTT;
+	HWND tt_exp = toolGenerator(tips.text_exp, winHwnd, experience, winInst).hWndTT;
+	HWND tt_expList = toolGenerator(tips.text_expList, winHwnd, expList, winInst).hWndTT;
+	HWND tt_gold = toolGenerator(tips.text_gold, winHwnd, gold, winInst).hWndTT;
+	HWND tt_goldList = toolGenerator(tips.text_goldList, winHwnd, goldList, winInst).hWndTT;
 	HWND tt_itemspells = toolGenerator(tips.text_itemspells, winHwnd, itemspells, winInst).hWndTT;
 	HWND tt_monsters = toolGenerator(tips.text_monsters, winHwnd, monsters, winInst).hWndTT;
 	HWND tt_deathblows = toolGenerator(tips.text_deathblow, winHwnd, deathblows, winInst).hWndTT;
@@ -115,6 +128,7 @@ void Window::tooltipTextMaker() {
 	// Story
 	HWND tt_fast = toolGenerator(tips.text_fast, winHwnd, fasttext, winInst).hWndTT;
 	HWND tt_script = toolGenerator(tips.text_script, winHwnd, script, winInst).hWndTT;
+	HWND tt_instant = toolGenerator(tips.text_instantText, winHwnd, instant, winInst).hWndTT;
 	// Audio
 	HWND tt_fmvs = toolGenerator(tips.text_fmvs, winHwnd, fmvs, winInst).hWndTT;
 	HWND tt_voice = toolGenerator(tips.text_voices, winHwnd, voice, winInst).hWndTT;
@@ -168,9 +182,16 @@ void Window::restoreDefaults() {
 	pathFound2 = false;
 	romFinder::discFound1 = false;
 	romFinder::discFound2 = false;
+	windowPainter::drawDropdown("reset");
 	checkboxLock();
 	patchBoxLock();
 	log_file << "Removing paths from windows." << std::endl;
 	SetWindowText(cd1path, L"");
 	SetWindowText(cd2path, L"");
+}
+
+void Window::dropdown(NMBCDROPDOWN* pDropDown, std::string option) {
+	// Create dropdown menu
+	dropDown = pDropDown;
+	windowPainter::drawDropdown(option);	
 }

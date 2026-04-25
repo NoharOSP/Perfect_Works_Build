@@ -17,21 +17,19 @@ void windowHandler::checkGraphics() {
 
 void windowHandler::checkGameplay() {
 	encticked = SendMessage(Window::encounters, BM_GETCHECK, NULL, NULL);
-	exponeticked = SendMessage(Window::experience1, BM_GETCHECK, NULL, NULL);
-	if (exponeticked == BST_CHECKED && exptwoticked == BST_CHECKED) {
-		SendMessage(Window::experience2, BM_SETCHECK, BST_UNCHECKED, NULL);
+	expticked = SendMessage(Window::experience, BM_GETCHECK, NULL, NULL);
+	if (expticked) {
+		EnableWindow(Window::expList, true);
 	}
-	exptwoticked = SendMessage(Window::experience2, BM_GETCHECK, NULL, NULL);
-	if (exponeticked == BST_CHECKED && exptwoticked == BST_CHECKED) {
-		SendMessage(Window::experience1, BM_SETCHECK, BST_UNCHECKED, NULL);
+	else {
+		EnableWindow(Window::expList, false);
 	}
-	goldoneticked = SendMessage(Window::gold1, BM_GETCHECK, NULL, NULL);
-	if (goldoneticked == BST_CHECKED && goldtwoticked == BST_CHECKED) {
-		SendMessage(Window::gold2, BM_SETCHECK, BST_UNCHECKED, NULL);
+	goldticked = SendMessage(Window::gold, BM_GETCHECK, NULL, NULL);
+	if (goldticked) {
+		EnableWindow(Window::goldList, true);
 	}
-	goldtwoticked = SendMessage(Window::gold2, BM_GETCHECK, NULL, NULL);
-	if (goldoneticked == BST_CHECKED && goldtwoticked == BST_CHECKED) {
-		SendMessage(Window::gold1, BM_SETCHECK, BST_UNCHECKED, NULL);
+	else {
+		EnableWindow(Window::goldList, false);
 	}
 	itemspellsticked = SendMessage(Window::itemspells, BM_GETCHECK, NULL, NULL);
 	monstersticked = SendMessage(Window::monsters, BM_GETCHECK, NULL, NULL);
@@ -53,6 +51,13 @@ void windowHandler::checkArena() {
 void windowHandler::checkStory() {
 	scriptticked = SendMessage(Window::script, BM_GETCHECK, NULL, NULL);
 	fastticked = SendMessage(Window::fasttext, BM_GETCHECK, NULL, NULL);
+	if (fastticked == BST_CHECKED && instantticked == BST_CHECKED) {
+		SendMessage(Window::instant, BM_SETCHECK, BST_UNCHECKED, NULL);
+	}
+	instantticked = SendMessage(Window::instant, BM_GETCHECK, NULL, NULL);
+	if (fastticked == BST_CHECKED && instantticked == BST_CHECKED) {
+		SendMessage(Window::fasttext, BM_SETCHECK, BST_UNCHECKED, NULL);
+	}
 }
 
 void windowHandler::checkAudio() {

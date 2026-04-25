@@ -108,11 +108,11 @@ void patchVerifier::monsterFileVerify() {
 			patchProcessor::monsterName = "monsters_both";
 		}
 	}
-	if (windowHandler::exponeticked == BST_CHECKED || windowHandler::exptwoticked == BST_CHECKED) {
+	if (windowHandler::expticked == BST_CHECKED) {
 		Window::log_file << "Experience directory found." << std::endl;
 		patchProcessor::expName = "og_monsters";
 	}
-	if (windowHandler::goldoneticked == BST_CHECKED || windowHandler::goldtwoticked == BST_CHECKED) {
+	if (windowHandler::goldticked == BST_CHECKED) {
 		Window::log_file << "Gold directory found." << std::endl;
 		patchProcessor::goldName = "og_monsters";
 	}
