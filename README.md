@@ -3,7 +3,7 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 
 Download the latest release here:
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.10.0
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.10.1
   
 ## Instructions
 
@@ -52,6 +52,18 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ## Version history
 
+### Version 0.10.1
+
+04/23/2026
+
+- October Mermaid now plays during Emeralda's scene in the Yggdrasil as was originally intended.
+- Battle flashes patch no longer turns off battle fades.
+- A bug has been fixed with the patcher where patch folder list names are not cleared at the end of the process.
+- The party is healed before the Reapers Ship
+- Fei sprite fade-in during Citan's chair monologue has been restored.
+- Rico uses his portrait during a conversation in his Yggdrasil dorm.
+- Amphisbaena sound effects have been refactored.
+
 ### Version 0.10.0
 
 04/09/2026
@@ -63,7 +75,7 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 - NPC script up to Dazil has been updated.
 - Blackmoon Forest and the Av Desert have their original encounter rates when the script patch is applied without half encounters.
 - The room in Solaris where Elly is captured has had its encounter rate halved with the half encounters patch.
-- Timing of the dialogue at Grahf's appearance at Point Bethlehem has been improved.
+- Timing of the dialogue at the Khan-Grahf reveal has been improved.
 - Fei now uses his sad portrait when he converses with Wiseman in disc 2.
 - Sprite fixes have been made to the Excalibur briefing scene.
 - Abelites has been changed to Abal.
