@@ -113,7 +113,7 @@ void fileEditor::makeSLUS(std::string romFile) {
 		}
 	}
 	if (patchProcessor::num == 2) {
-		if (patchProcessor::fastName != "") {
+		if (windowHandler::fastticked == BST_CHECKED || patchProcessor::jpnName != "") {
 			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\temp\\SLUS_006.69" << std::endl;
 		}
 		else {
