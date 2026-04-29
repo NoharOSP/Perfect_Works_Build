@@ -36,6 +36,7 @@ void windowPainter::gameplayWindows() {
 	pWin->monsters = CreateWindow(L"BUTTON", L"Rebalanced enemies", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.60), 120, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->itemspells = CreateWindow(L"BUTTON", L"Rebalanced party/items", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.66), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	pWin->deathblows = CreateWindow(L"BUTTON", L"No Deathblow levels", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.72), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
+	pWin->cap = CreateWindow(L"BUTTON", L"No damage cap", WS_CHILD | WS_VISIBLE | BS_AUTOCHECKBOX, (int)(Window::winX * Window::gameplayx), (int)(Window::winY * 0.78), 160, 25, Window::winHwnd, (HMENU)9002, Window::winInst, NULL);
 	// Put in window list
 	Window::windList.emplace_back(Window::encounters);
 	Window::windList.emplace_back(Window::experience);
@@ -45,6 +46,7 @@ void windowPainter::gameplayWindows() {
 	Window::windList.emplace_back(Window::itemspells);
 	Window::windList.emplace_back(Window::monsters);
 	Window::windList.emplace_back(Window::deathblows);
+	Window::windList.emplace_back(Window::cap);
 	// Put in gameplay window list
 	Window::gameplayWindList.emplace_back(Window::encounters);
 	Window::gameplayWindList.emplace_back(Window::experience);
@@ -52,6 +54,7 @@ void windowPainter::gameplayWindows() {
 	Window::gameplayWindList.emplace_back(Window::itemspells);
 	Window::gameplayWindList.emplace_back(Window::monsters);
 	Window::gameplayWindList.emplace_back(Window::deathblows);
+	Window::gameplayWindList.emplace_back(Window::cap);
 }
 
 void windowPainter::arenaWindows() {

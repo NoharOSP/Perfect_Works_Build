@@ -89,6 +89,9 @@ void patchVerifier::gameplayVerify() {
 		Window::log_file << "No Deathblow levels directory found." << std::endl;
 		patchProcessor::deathblowName = "exp_data";
 	}
+	if (windowHandler::capticked == BST_CHECKED) {
+		patchProcessor::editExe = true;
+	}
 }
 
 void patchVerifier::monsterFileVerify() {
@@ -160,6 +163,7 @@ void patchVerifier::storyVerify() {
 				patchProcessor::fastName = "text_cd2";
 			}
 		}
+		patchProcessor::editExe = true;
 	}
 	if (windowHandler::scriptticked == BST_CHECKED) {
 		Window::log_file << "Retranslated script directory found." << std::endl;
@@ -172,6 +176,9 @@ void patchVerifier::storyVerify() {
 				patchProcessor::scriptName = "script2";
 			}
 		}
+	}
+	if (windowHandler::instantticked == BST_CHECKED) {
+		patchProcessor::editExe = true;
 	}
 }
 
@@ -260,6 +267,7 @@ void patchVerifier::modeVerify() {
 				patchProcessor::jpnName = "jpn_script_2";
 			}
 		}
+		patchProcessor::editExe = true;
 	}
 }
 

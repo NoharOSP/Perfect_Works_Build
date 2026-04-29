@@ -19,6 +19,12 @@ void fileEditor::gameplayEdits() {
 			expRateEdits(entry.path().string());
 		}
 	}
+	if (windowHandler::capticked == BST_CHECKED) {
+		Window::log_file << "Removing damage cap." << std::endl;
+		for (const auto& entry : std::filesystem::directory_iterator(applyPatch::temp)) {
+			removeCap(entry.path().string());
+		}
+	}
 }
 
 void fileEditor::scriptEdits() {
@@ -192,4 +198,8 @@ void fileEditor::expRateEdits(std::string file) {
 	partyStatEditor pse;
 	pse.deathblowLevels();
 	std::filesystem::current_path("..\\");
+}
+
+void fileEditor::removeCap(std::string) {
+
 }

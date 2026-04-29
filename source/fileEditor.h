@@ -23,5 +23,6 @@ public:
 	static void exeEdits(std::string file);
 	static void editTextSpeed(std::string file);
 	static void expRateEdits(std::string file);
+	static void removeCap(std::string file);
 };
 

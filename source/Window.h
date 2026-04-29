@@ -118,6 +118,9 @@ struct tipDesc {
 		"patch by FFMaster, there are bugs with\n"
 		"specific scenes if the player mashes too\n"
 		"quickly.\n";
+	char text_cap[255] =
+		"Turns off the 9999 damage cap. Works for\n"
+		"both character and Gear battles.\n";
 };
 
 class Window
@@ -170,6 +173,7 @@ public:
 	inline static HWND jpnControls;
 	inline static HWND music;
 	inline static HWND instant;
+	inline static HWND cap;
 	inline static HINSTANCE winInst;
 	inline static int winX;
 	inline static int winY;

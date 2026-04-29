@@ -36,5 +36,6 @@ public:
 	inline static LRESULT storymodeticked;
 	inline static LRESULT jpnticked;
 	inline static LRESULT instantticked;
+	inline static LRESULT capticked;
 };
 

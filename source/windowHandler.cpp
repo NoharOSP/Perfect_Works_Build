@@ -34,6 +34,7 @@ void windowHandler::checkGameplay() {
 	itemspellsticked = SendMessage(Window::itemspells, BM_GETCHECK, NULL, NULL);
 	monstersticked = SendMessage(Window::monsters, BM_GETCHECK, NULL, NULL);
 	deathblowsticked = SendMessage(Window::deathblows, BM_GETCHECK, NULL, NULL);
+	capticked = SendMessage(Window::cap, BM_GETCHECK, NULL, NULL);
 }
 
 void windowHandler::checkArena() {
