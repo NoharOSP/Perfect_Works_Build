@@ -92,12 +92,6 @@ void applyPatch::createTemp() {
 			if (patchProcessor::num == 2) {
 				std::filesystem::copy(patchProcessor::exeName2, temp, std::filesystem::copy_options::update_existing);
 			}
-			if (windowHandler::fastticked == BST_CHECKED) {
-				Window::log_file << "Applying text speed change to game's executable." << std::endl;
-				for (const auto& entry : std::filesystem::directory_iterator(temp)) {
-					fileEditor::exeEdits(entry.path().string());
-				}
-			}
 		}
 	}
 	iterateTemp();

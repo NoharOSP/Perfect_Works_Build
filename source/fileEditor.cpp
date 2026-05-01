@@ -16,13 +16,13 @@ void fileEditor::gameplayEdits() {
 	if (windowHandler::deathblowsticked == BST_CHECKED) {
 		Window::log_file << "Applying ability learning level changes." << std::endl;
 		for (const auto& entry : std::filesystem::directory_iterator(applyPatch::temp)) {
-			expRateEdits(entry.path().string());
+			gameplayFileEditor::expRateEdits(entry.path().string());
 		}
 	}
 	if (windowHandler::capticked == BST_CHECKED) {
 		Window::log_file << "Removing damage cap." << std::endl;
 		for (const auto& entry : std::filesystem::directory_iterator(applyPatch::temp)) {
-			removeCap(entry.path().string());
+			gameplayFileEditor::removeCap(entry.path().string());
 		}
 	}
 }
@@ -79,7 +79,7 @@ void fileEditor::modeEdits() {
 
 void fileEditor::editSLUS(std::string romFile) {
 	// Insert new SLUS
-	if ((windowHandler::fastticked == BST_CHECKED || windowHandler::instantticked == BST_CHECKED) || patchProcessor::jpnName != "") {
+	if (patchProcessor::editExe) {
 		// Add fast text to softsubs SLUS
 		std::filesystem::current_path(patchProcessor::gamefilePath);
 		if (patchProcessor::num == 1) {
@@ -100,6 +100,12 @@ void fileEditor::editSLUS(std::string romFile) {
 				exeEdits(entry.path().string());
 			}
 		}
+		if (windowHandler::capticked == BST_CHECKED) {
+			Window::log_file << "Removing damage cap." << std::endl;
+			for (const auto& entry : std::filesystem::directory_iterator(applyPatch::temp)) {
+				gameplayFileEditor::removeCap(entry.path().string());
+			}
+		}
 		std::filesystem::current_path(Window::home);
 	}
 	// Create batch file to make a new SLUS
@@ -111,7 +117,7 @@ void fileEditor::makeSLUS(std::string romFile) {
 	Window::log_file << "Creating new SLUS file." << std::endl;
 	batch_file2.open("commands2.cmd", std::ios::trunc);
 	if (patchProcessor::num == 1) {
-		if ((windowHandler::fastticked == BST_CHECKED || windowHandler::instantticked == BST_CHECKED) || patchProcessor::jpnName != "") {
+		if (patchProcessor::editExe) {
 			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\temp\\SLUS_006.64" << std::endl;
 		}
 		else {
@@ -119,7 +125,7 @@ void fileEditor::makeSLUS(std::string romFile) {
 		}
 	}
 	if (patchProcessor::num == 2) {
-		if ((windowHandler::fastticked == BST_CHECKED || windowHandler::instantticked == BST_CHECKED) || patchProcessor::jpnName != "") {
+		if (patchProcessor::editExe) {
 			batch_file2 << "Tools\\Xeno_slus_ins.exe " + romFile + " gamefiles\\temp\\SLUS_006.69" << std::endl;
 		}
 		else {
@@ -186,20 +192,3 @@ void fileEditor::editTextSpeed(std::string file) {
 	fileContents.close();
 }
 
-void fileEditor::expRateEdits(std::string file) {
-	std::string trimfile = gameFileTools::fileTrim(file);
-	// Check if filename is 2607
-	if (trimfile != "2607.unk4") {
-		return;
-	}
-	std::filesystem::current_path(Window::home);
-	std::filesystem::current_path(patchProcessor::gamefilePath);
-	std::filesystem::current_path(applyPatch::temp);
-	partyStatEditor pse;
-	pse.deathblowLevels();
-	std::filesystem::current_path("..\\");
-}
-
-void fileEditor::removeCap(std::string) {
-
-}
