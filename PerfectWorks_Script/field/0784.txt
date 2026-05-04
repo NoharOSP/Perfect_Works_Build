@@ -81,7 +81,7 @@ not?"<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Sigurd
 "Well, now that we know
-what we are up against,
+what we're up against,
 here's what we'll do..."<Close><End of Block>
 <TextBlock 14 w:52 h:3>
 Sigurd

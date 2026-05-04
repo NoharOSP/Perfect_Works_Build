@@ -7,9 +7,9 @@ sort of..."<Close><End of Block>
 Fei
 "No...<Delay 32>
 It's just..."<Close><End of Block>
-<TextBlock 3 w:28 h:3>
+<TextBlock 3 w:26 h:3>
 Fei
-"There is that
+"There's that
 too, but..."<Close><End of Block>
 <TextBlock 4 w:50 h:4>
 Fei

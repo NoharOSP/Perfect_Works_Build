@@ -92,7 +92,7 @@ my fault?<New>
 ...<Delay 30>I<Delay 10>...<Delay 10>"<Close><End of Block>
 <TextBlock 20 w:52 h:3>
 Doctor
-"...with their help, maybe
+"...With their help, maybe
 he'd pull through..."<Close><End of Block>
 <TextBlock 21 w:3 h:1>
 !<Close><End of Block>
@@ -112,8 +112,7 @@ Elly
 him, right?"<Close><End of Block>
 <TextBlock 25 w:54 h:4>
 Doctor
-"I think that he
-would most probably
+"I think he'd most probably
 pull through...<New>
 But unfortunately, ordinary
 citizens are not allowed

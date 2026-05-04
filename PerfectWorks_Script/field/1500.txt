@@ -9,12 +9,12 @@ Do you want to go down?<Delay 10>
 <TextBlock 3 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 4 w:38 h:2>
+<TextBlock 4 w:40 h:2>
  
-Received <Opcode 4 20><Close><End of Block>
+ Received <Opcode 4 20><Close><End of Block>
 <TextBlock 5 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 6 w:38 h:2>
+<TextBlock 6 w:40 h:2>
  
-Received <Opcode 4 20><Close><Close><End of Block>
+ Received <Opcode 4 20><Close><Close><End of Block>

@@ -151,11 +151,11 @@ with you..."<Close><End of Block>
 <TextBlock 31 w:22 h:2>
 Fei
 "Oh, okay!"<Close><End of Block>
-<TextBlock 32 w:26 h:4>
+<TextBlock 32 w:22 h:4>
 Bart
 "...<Delay 10>
 Th<Delay 10>... Th<Delay 10>...
-Thank<Delay 10>...<Close><End of Block>
+Thank<Delay 10>..."<Close><End of Block>
 <TextBlock 33 w:20 h:3>
 Bart
 "Thanks...<Delay 10>
@@ -193,7 +193,7 @@ Sigurd
 "..."<Close><End of Block>
 <TextBlock 40 w:48 h:4>
 Fei
-"I had been feeling that
+"I'd been feeling that
 there was no path laid
 out...<New>
 No path that was meant

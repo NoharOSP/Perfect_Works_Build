@@ -43,32 +43,31 @@ Sigurd
 "There's no need to worry
 about Hyu<--><Delay 10> I mean, Doc.
 He'll join us soon."<Close><End of Block>
-<TextBlock 9 w:54 h:4>
+<TextBlock 9 w:52 h:4>
 Sigurd
-"Deus integrated with
-Zohar and awoke...<New>
-But we've found out Deus
-is in the center of the
-giant structure created
-out of the fallen Merkabah.<New>
-The only way we can think
-of to destroy Deus is to
-penetrate into there and
-make our way to the center.<New>
-That structure used to be
-Merkabah itself, but we
-must assume the inside has
-changed significantly.<New>
-We don't know what dangers
-await inside of there.<Delay 10>
-Please be very careful.<Close><End of Block>
+"Deus has become one with
+Zohar and awakened...<New>
+But we've found out that
+it lies at the heart of
+the giant structure born
+from the fallen Merkabah.<New>
+There's no way to destroy
+Deus except to storm the
+interior directly and get
+to that place.<New>
+The structure was Merkabah
+originally, but you should
+assume the interior is
+significantly altered.<New>
+We don't know what kind
+of dangers await you.<Delay 10>
+Exercise due caution."<Close><End of Block>
 <TextBlock 10 w:46 h:3>
 Fei
-"Yeah, thanks Sigurd.
-Let me take care of it.<New>
-I will destroy Deus.<Delay 30>
-Even if it costs me
-everything I have..."<Close><End of Block>
+"Okay, leave it to us.<New>
+I'll make sure Deus is
+destroyed. Even if it
+costs me everything..."<Close><End of Block>
 <TextBlock 11 w:24 h:4>
 Bart
 "Fei...<Delay 30>
@@ -80,16 +79,15 @@ Fei
 <TextBlock 13 w:54 h:4>
 Bart
 "I know what you must be
-thinking now.
-If you destroy Deus...<New>
-...the proliferation of the
-nanomachines that are out
-to turn this planet itself
-into a weapon will stop...<New>
-But, if you end up losing
-Elly who was united with
-Deus for that very purpose,
-then what good will it be?"<Close><End of Block>
+thinking at this point.<New>
+If we destroy Deus then we
+stop the propagation of the
+nanomachines that're about
+to weaponize the planet...<New>
+But if we lose Elly in the
+process, since she's merged
+with Deus, won't it all be
+for nothing?"<Close><End of Block>
 <TextBlock 14 w:24 h:4>
 Bart
 "Fei...<Delay 30>
@@ -101,74 +99,77 @@ Fei
 <TextBlock 16 w:54 h:4>
 Bart
 "I know what you must be
-thinking now.
-If you destroy Deus...<New>
-...the proliferation of the
-nanomachines that are out
-to turn this planet itself
-into a weapon will stop...<New>
-But, if you end up losing
-Elly who was united with
-Deus for that very purpose,
-then what good will it be?"<Close><End of Block>
+thinking at this point.<New>
+If we destroy Deus then we
+stop the propagation of the
+nanomachines that're about
+to weaponize the planet...<New>
+But if we lose Elly in the
+process, since she's merged
+with Deus, won't it all be
+for nothing?"<Close><End of Block>
 <TextBlock 17 w:16 h:2>
 Fei
 "But..."<Close><End of Block>
-<TextBlock 18 w:54 h:4>
+<TextBlock 18 w:52 h:4>
 Sigurd
 "That's right, Fei.<Delay 20>
-She's our friend who's been
-through a lot with us too.<New>
-I think that saving a dear
-friend is just as important
-as protecting our planet or
-saving the world...<New>
-What better reason is there
-to fight? If you can't even
-save your friends, then how
-could you save the world?<New>
-Don't you agree?"<Close><End of Block>
-<TextBlock 19 w:46 h:4>
+She's a comrade we've
+been through a lot with.<New>
+Protecting the planet,
+saving the world...<Delay 5> It's
+not about duty, it's about
+rescuing dear friends...<New>
+Isn't that the reason we
+fight now?<New>
+There's no saving the
+world if we can't save
+our friends first and
+foremost.<New>
+Don't you think?"<Close><End of Block>
+<TextBlock 19 w:40 h:4>
 Bart
-"Yeah, Sig's right!<Delay 20>
-Don't you ever give up,
+"Yeah, I'm with Sig!<Delay 20>
+Don't ever give up,
 Fei, no matter what!<New>
 You're the only one
 who can release Elly
 from Deus' spell.<New>
-But, we'll give you as
-much backup as we can.<Delay 10>
+And we'll give you
+our full backup to
+make it happen!<Delay 10>
 So..."<Close><End of Block>
-<TextBlock 20 w:46 h:4>
+<TextBlock 20 w:40 h:4>
 Bart
-"Yeah, Sig's right!<Delay 20>
-Don't you ever give up,
+"Yeah, I'm with Sig!<Delay 20>
+Don't ever give up,
 Fei, no matter what!<New>
 You're the only one
 who can release Elly
 from Deus' spell.<New>
-But, we'll give you as
-much backup as we can.<Delay 10>
+And we'll give you
+our full backup to
+make it happen!<Delay 10>
 So..."<Close><End of Block>
-<TextBlock 21 w:34 h:4>
+<TextBlock 21 w:46 h:4>
 Fei
-"Thanks a lot.<Delay 20>
+"Thank you.<Delay 20>
 Bart, Sigurd...<Delay 10>
-I won't give up."<Close><End of Block>
-<TextBlock 22 w:50 h:4>
+No way will I give up."<Close><End of Block>
+<TextBlock 22 w:46 h:4>
 Sigurd
-"You volunteered to fight
-for the Young Master and
-the rest of us.<New>
-So it's our turn to fight
-for you and Elly.
-Let's go, Fei...<Delay 10>
+"You risked your life
+to fight for us and the
+Young Master.<New>
+Now it's our turn to
+fight for you and Elly.
+Let's go, Fei!!<Delay 10>
+To gain true freedom!!"<Close><End of Block>
+<TextBlock 23 w:46 h:4>
+Sigurd
+"We don't have much
+time left.<Delay 10> Let's go,
 to gain true freedom!!"<Close><End of Block>
-<TextBlock 23 w:50 h:4>
-Sigurd
-"We don't have much time
-left.<Delay 10> Let's go, to win
-ourselves true freedom!!"<Close><End of Block>
 <TextBlock 24 w:52 h:4>
 Sigurd
 "Ready to go to Sargasso?"<Delay 10>
@@ -192,7 +193,7 @@ the Tamuz!!"<Close><End of Block>
 Sigurd
 "Some new parts were
 brought into our Gear
-Shop down below.<New>
+shop down below.<New>
 Why don't you go and
 check them out?"<Close><End of Block>
 <TextBlock 29 w:50 h:4>
@@ -205,9 +206,9 @@ Sigurd
 "Good morning.<Delay 10>
 Billy is waiting
 in the gun room."<Close><End of Block>
-<TextBlock 31 w:50 h:2>
-(H-Hmm...<Delay 10>
-Looks like a hangover...)<Close><End of Block>
+<TextBlock 31 w:48 h:2>
+(U-Ungh...<Delay 10> Looks like
+I do have a hangover...)<Close><End of Block>
 <TextBlock 32 w:34 h:3>
 Sigurd
 "Billy is waiting
@@ -1056,9 +1057,9 @@ I'm still trying to sort
 out my feelings about
 getting pushed around
 by my dad."<Close><End of Block>
-<TextBlock 173 w:36 h:2>
+<TextBlock 173 w:34 h:2>
 Jesse
-"What do you mean,
+"What d'you mean,
 'for now'?"<Close><End of Block>
 <TextBlock 174 w:48 h:4>
 Billy

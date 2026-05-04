@@ -41,8 +41,9 @@ from?"<Close><End of Block>
 <TextBlock 14 w:44 h:2>
 You can't hold anymore
 <Opcode 4 20><Close><End of Block>
-<TextBlock 15 w:38 h:1>
-Received <Opcode 4 20><Close><End of Block>
+<TextBlock 15 w:40 h:1>
+ 
+ Received <Opcode 4 20><Close><End of Block>
 <TextBlock 16 w:46 h:4>
 Bart
 "One after the other...<Delay 30>

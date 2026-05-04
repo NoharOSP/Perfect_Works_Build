@@ -145,7 +145,7 @@ these caves have<-->"<Close><End of Block>
 <TextBlock 20 w:52 h:4>
 Ol' Man Bal
 "<-->an exit?<New>
-There is an exit in the
+There's an exit in the
 excavation site beyond the
 sand barrier. You can get
 outside through there."<Close><End of Block>
@@ -312,7 +312,7 @@ Argh, he's gone..."<Close><End of Block>
 <TextBlock 45 w:46 h:4>
 Fei
 "So, Bart.<New>
-Do you think the divine
+D'you think the divine
 Gears in that story are
 buried in the ground
 somewhere?"<Close><End of Block>
@@ -379,13 +379,13 @@ All we know about our
 history is from the
 little pieces that we
 find for ourselves."<Close><End of Block>
-<TextBlock 57 w:50 h:3>
+<TextBlock 57 w:48 h:3>
 Bart
-"Anyway, Fei, what do you
+"Anyway, Fei, what d'you
 make of the old man?"<Close><End of Block>
-<TextBlock 58 w:44 h:2>
+<TextBlock 58 w:42 h:2>
 Fei
-"What do you mean...?"<Close><End of Block>
+"What d'you mean...?"<Close><End of Block>
 <TextBlock 59 w:46 h:4>
 Bart
 "Why would such an old
@@ -572,10 +572,10 @@ At Attack Level 1, you can
 unleash Deathblows starting
 with a Weak attack (<T>).<New>
 At Attack Level 2,
-you can start with
+you can also start with
 a Strong attack (<S>).<New>
 And at Attack Level 3,
-you can start with
+you can also start with
 a Fierce attack (<X>).<New>
 (I've heard that to END any
 Deathblow sequence with a
@@ -583,8 +583,8 @@ Fierce attack, you require
 some very rare Gear parts.)<New>
 Anyway, remember that after
 unleashing a Deathblow your
-Attack Level will return to
-0, restarting the process.<New>
+Attack Level will decrease
+accordingly next turn.<New>
 So if you want to build
 Attack Levels, use single
 attacks until you get to

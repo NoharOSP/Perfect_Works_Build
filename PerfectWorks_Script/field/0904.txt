@@ -20,15 +20,14 @@ Mystery Man
 <TextBlock 6 w:36 h:2>
 Fei
 "What's so funny?"<Close><End of Block>
-<TextBlock 7 w:38 h:4>
+<TextBlock 7 w:42 h:4>
 Mystery Man
 "Nothing...<New>
 Just wondering what
-kind of fight you
-will have with that
-boy...<New>
+kind of fight you'll
+have with that boy...<New>
 Well, I'm looking
-forward to it,
+forward to it,<Delay 10>
 'Fei'."<Close><End of Block>
 <TextBlock 8 w:14 h:2>
 Fei
@@ -71,7 +70,7 @@ away either!!"<Close><End of Block>
 The human body is weak.
 I'm used to fighting
 against rock and metal!<New>
-There is no way I can
+There's no way I can
 lose.<Close><End of Block>
 <TextBlock 17 w:50 h:4>
 Everyone is so excited...

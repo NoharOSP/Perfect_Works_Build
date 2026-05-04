@@ -53,9 +53,9 @@ your kindness...<Close><End of Block>
 Elly would never do
 anything like that!!<Delay 10>
 I believe in her...<Close><End of Block>
-<TextBlock 14 w:48 h:5>
+<TextBlock 14 w:46 h:5>
 Elly is resting in the
-medical room across from
+infirmary across from
 here.<Delay 10> I bet she can't
 sleep in a shabby place
 like this.<Close><End of Block>

@@ -100,7 +100,7 @@ be a reason or a goal
 for a person to fight?"<Close><End of Block>
 <TextBlock 20 w:32 h:4>
 Wiseman
-"So, you are
+"So you're
 fighting for no
 reason or goal?"<Close><End of Block>
 <TextBlock 21 w:42 h:4>
@@ -108,17 +108,16 @@ Wiseman
 "...Then forget it!
 Finding it within you
 is impossible."<Close><End of Block>
-<TextBlock 22 w:38 h:4>
+<TextBlock 22 w:44 h:4>
 Wiseman
-"You may seem to be
-looking forward...<New>
-...but in reality,
-you are only
-looking downward!<New>
-You're only looking
-at yourself.
-Like that, you will
-find nothing."<Close><End of Block>
+"You may seem to
+be looking ahead,<New>
+but in reality you're
+only looking at your
+feet <--><Delay 10> you're focused
+solely on yourself.<New>
+You'll find nothing
+that way."<Close><End of Block>
 <TextBlock 23 w:48 h:4>
 Wiseman
 "I know... By exchanging

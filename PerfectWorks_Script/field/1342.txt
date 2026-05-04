@@ -40,6 +40,6 @@ but this is even better!"<Close><End of Block>
 <TextBlock 6 w:36 h:2>
 Can't receive <Opcode 4 18>
 you have too many.<Close><End of Block>
-<TextBlock 7 w:18 h:2>
+<TextBlock 7 w:20 h:2>
  
-Received <Opcode 4 20><Close><Close><End of Block>
+ Received <Opcode 4 20><Close><Close><End of Block>

@@ -1,6 +1,6 @@
 <TextBlock 1 w:50 h:4>
 Fei
-"<Delay 5>...<Delay 5>I am Fei Fong Wong.<Delay 15>
+"<Delay 5>...<Delay 5>I'm Fei Fong Wong.<Delay 15>
 And what's your name?<New>
 I'm guessing it's not
 really 'Champ'?
@@ -24,7 +24,7 @@ new inmate<Delay 5>...<New>
 We don't know or care what
 you did to get put in here,
 but welcome to D Block<Delay 5>...<Delay 5>
-So what name do you go by?"<Close><End of Block>
+So what name d'you go by?"<Close><End of Block>
 <TextBlock 6 w:36 h:4>
 Champ
 "Easy, Suzanne.
@@ -100,7 +100,7 @@ and truly a free
 man...are you not?"<Close><End of Block>
 <TextBlock 20 w:36 h:4>
 Hammer
-"So, <Delay 5>what are you
+"So,<Delay 5> what're you
 gonna do now, <Delay 5>bro?<Delay 15>
 Leave Noatun?"<Close><End of Block>
 <TextBlock 21 w:50 h:4>
@@ -223,7 +223,7 @@ ordinary-civilian area<Delay 5>..."<Close><End of Block>
 Rue
 "Well then,<Delay 5> we shall
 take our leave<Delay 5>..."<Close><End of Block>
-<TextBlock 42 w:36 h:3>
+<TextBlock 42 w:32 h:4>
 Fei
 "So<Delay 5>...<Delay 5>what do you
 want with us?"<Close><End of Block>
@@ -234,10 +234,10 @@ Rico needs your help."<Close><End of Block>
 <TextBlock 44 w:46 h:2>
 Citan
 "Help<Delay 5> the Champion<Delay 5>...?"<Close><End of Block>
-<TextBlock 45 w:36 h:3>
+<TextBlock 45 w:34 h:3>
 Fei
 "Hang on,<Delay 15>
-what do you mean?"<Close><End of Block>
+what d'you mean?"<Close><End of Block>
 <TextBlock 46 w:58 h:4>
 Battler
 "Y'know, what just happened.<Delay 15>
@@ -349,7 +349,7 @@ our Champ is<--><Delay 5>"<Opcode 2 60><Close><End of Block>
 <TextBlock 63 w:50 h:4>
 Hammer
 "<Delay 5>...<Delay 5>Wha?<Delay 15>
-Hey bro, <Delay 5>what are you
+Hey bro, <Delay 5>what're you
 doing talking with them?"<Close><End of Block>
 <TextBlock 64 w:44 h:2>
 Fei
@@ -429,7 +429,7 @@ the arena,<Delay 5> right<Delay 5>...<Delay 15>? Bro!<Delay 5>
 You're not thinking<-->"<Close><End of Block>
 <TextBlock 78 w:42 h:4>
 Fei
-"Yes, I am thinking
+"Yes, I'm thinking
 exactly that!<New>
 You said it may be
 possible to get out

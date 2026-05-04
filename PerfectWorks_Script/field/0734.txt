@@ -126,7 +126,7 @@ Bart
 Fei
 "...<Delay 30><New>
 We wouldn't have fallen
-in here if you had only
+in here if only you'd
 listened to me."<Close><End of Block>
 <TextBlock 21 w:52 h:4>
 Bart

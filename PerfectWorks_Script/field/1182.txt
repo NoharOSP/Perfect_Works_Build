@@ -52,22 +52,22 @@ Mason
 Mason
 "Oh, aren't you going
 to rest up a little?"<Close><End of Block>
-<TextBlock 9 w:46 h:3>
+<TextBlock 9 w:44 h:3>
 Mason
-"It appears the final
-hour is approaching...<New>
-If need be, this Mason
-will also take up arms
-and come to your aid!!"<Close><End of Block>
+"At last the final
+hour is upon us...<New>
+If need be, Mason here
+too will come running,
+ready for action!!"<Close><End of Block>
 <TextBlock 10 w:54 h:4>
 Mason
 "We may not be able to come
 along, but will be praying
 for your safety."<Close><End of Block>
-<TextBlock 11 w:46 h:4>
+<TextBlock 11 w:42 h:4>
 Mason
-"...
-I have nothing to look
+"...<Delay 10>
+I have nothing I look
 back on with regret!"<Close><End of Block>
 <TextBlock 12 w:42 h:3>
 Mason
@@ -733,15 +733,15 @@ attack by Verus..."<Close><End of Block>
 <TextBlock 116 w:42 h:2>
 Billy
 "Who will assist me?"<Close><End of Block>
-<TextBlock 117 w:54 h:5>
+<TextBlock 117 w:52 h:4>
 Billy
 "Hah! This is going to
-sound stupid, but...since
-we only had each other for<New>
-so long, in order to
-provide for Prim I went
-so far as to try to sell
-my own body...<New>
+sound stupid, but...<New>
+since we only had each
+other for so long,<New>
+in order to provide for
+Prim I went so far as to
+try to sell my own body...<New>
 Despite that, apparently
 Prim prefers the dad who
 suddenly appeared out of

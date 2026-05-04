@@ -38,7 +38,7 @@ Take the egg?<Delay 10>
 <Opcode 1 255>    Of course!!
     No, that's cruel!<Close><End of Block>
 <TextBlock 9 w:42 h:2>
-<Opcode 1 255>Received a nutritious
+Received a nutritious
      Bird Egg!!<Opcode 2 90><Close><End of Block>
 <TextBlock 10 w:58 h:4>
 <Opcode 1 255>*cheep, cheep*!!!

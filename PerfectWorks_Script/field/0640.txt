@@ -12,7 +12,7 @@ you were!"<Close><End of Block>
 <TextBlock 4 w:44 h:4>
 Fei
 "Are you alright, Doc?<Delay 20>
-What are you doing all
+What're you doing all
 the way up there?"<Close><End of Block>
 <TextBlock 5 w:40 h:3>
 Fei

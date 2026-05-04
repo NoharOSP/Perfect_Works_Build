@@ -239,7 +239,7 @@ was a country that you had
 never even heard of..."<Close><End of Block>
 <TextBlock 39 w:38 h:3>
 Bart
-"Hey, what are you
+"Hey, what're you
 picking on me for?"<Close><End of Block>
 <TextBlock 40 w:54 h:4>
 Citan
@@ -373,7 +373,7 @@ Citan
 You could put it that way."<Close><End of Block>
 <TextBlock 54 w:48 h:3>
 Bart
-"What do you mean 'you
+"What d'you mean 'you
 could put it that way'?<New>
 But then again, maybe it
 IS time I did something

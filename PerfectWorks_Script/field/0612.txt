@@ -1,5 +1,5 @@
-<TextBlock 1 w:26 h:1>
-Uh...<Delay 30> Uhn...?<Close><End of Block>
+<TextBlock 1 w:28 h:1>
+Uh...<Delay 30> Ungh...?<Close><End of Block>
 <TextBlock 2 w:32 h:3>
 Fei
 "Huh...?<Delay 20>
@@ -9,11 +9,11 @@ Fei
 "Doc!!"<Close><End of Block>
 <TextBlock 4 w:36 h:3>
 Fei
-"Doc...
-What happened...?<New>
+"Doc...<Delay 20> What the
+hell happened...?<New>
 Where's Chief Lee,
 Timothy, Alice...?<Delay 20>
-What did I...?"<Close><End of Block>
+How did I get<Delay 5>...?"<Close><End of Block>
 <TextBlock 5 w:32 h:4>
 Fei
 "...!?<Delay 20>

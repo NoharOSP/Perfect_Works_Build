@@ -1,11 +1,11 @@
 <TextBlock 1 w:50 h:3>
 Argh... If only I wasn't
 wounded, I'd also be able
-to...!<Close><End of Block>
+to<-->!<Close><End of Block>
 <TextBlock 2 w:50 h:3>
 Argh... If only I wasn't
 wounded, I'd also be able
-to...!<Close><End of Block>
+to<-->!<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Oh yeaahh!
 We're going to give it all
@@ -25,26 +25,26 @@ I'll be more courageous!<Close><End of Block>
 If I didn't have this
 wound...<Close><End of Block>
 <TextBlock 7 w:44 h:3>
-Ghost ship expedition?<Delay 10>
+Ghost-ship expedition?<Delay 10>
 If I didn't have this
 wound I'd...<Close><End of Block>
 <TextBlock 8 w:48 h:3>
 Fei seems to be alright,
-eh.<Delay 10> If I didn't have
+eh?<Delay 10> If I didn't have
 this wound...<Close><End of Block>
 <TextBlock 9 w:42 h:3>
 Fei looks terrible...<Delay 10>
 If I didn't have
 this wound I'd...<Close><End of Block>
-<TextBlock 10 w:22 h:2>
+<TextBlock 10 w:18 h:2>
 Elly,<Delay 10>
-why did...?<Close><End of Block>
+why did<--><Close><End of Block>
 <TextBlock 11 w:38 h:2>
-There<Delay 10> was something
+There was<Delay 10> something
 wrong with Elly.<Close><End of Block>
 <TextBlock 12 w:50 h:3>
 It looks like a fun place
-to be.<Delay 10> If I only
+to be.<Delay 10> If only I
 didn't have this wound...<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 Oh, Young Master!<Delay 5>
@@ -52,9 +52,9 @@ I'm not trying to hide.<Delay 10>
 If only I didn't have this
 wound...<Close><End of Block>
 <TextBlock 14 w:46 h:3>
-You are the ex-Battling
+You're the ex-Battling
 Champ?<Delay 10> If I didn't have
-this wound even I...<Close><End of Block>
+this wound, even I'd...<Close><End of Block>
 <TextBlock 15 w:52 h:4>
 If the Young Master became
 the king tomorrow<Delay 5>...<Delay 10>what
@@ -62,15 +62,15 @@ would happen to us? I'm
 tired of being a soldier.<New>
 I wanna start a business 
 or something<Delay 5>...<Delay 10> If I
-didn't have this wound<Delay 5>...<Delay 5>"<Close><End of Block>
+didn't have this wound<Delay 5>...<Close><End of Block>
 <TextBlock 16 w:42 h:4>
-Nisan, eh...<Delay 10>
+Nisan, eh...?<Delay 10>
 It's been so long.<Delay 10>
 If I didn't have this
 wound I'd...<Close><End of Block>
-<TextBlock 17 w:44 h:4>
-You won at the martial
-arts tournament?  
+<TextBlock 17 w:46 h:4>
+You won at the martial-
+arts tournament?
 Well done!<Delay 10> If I didn't
 have this wound...<Close><End of Block>
 <TextBlock 18 w:46 h:3>
@@ -131,10 +131,10 @@ When you get hurt, don't
 soak yourself in sea
 water!<Delay 10> Come here right
 away.<Close><End of Block>
-<TextBlock 31 w:44 h:3>
+<TextBlock 31 w:50 h:3>
 Oh, Young Master!<Delay 10>
-Could you increase the
-medical fees, please!?<Close><End of Block>
+Could you please increase
+the medical budget!?<Close><End of Block>
 <TextBlock 32 w:42 h:3>
 Interesting customer!<Delay 10>
 You're an ex-Battling
@@ -166,7 +166,7 @@ Oh, you didn't?<Delay 5>
 Too bad...<Delay 10>
 I mean...<Delay 5> that's good.<Close><End of Block>
 <TextBlock 36 w:52 h:3>
-You did a great job!?
+You did a great job, huh!?
 By the way...<Delay 10>
 did you get hurt?<New>
 Oh, you didn't?<Delay 10>
@@ -175,13 +175,13 @@ I mean<Delay 5>...<Delay 5>that's good.<New>
 But if you do get injured,
 let me know right away.
 I'll heal you!<Close><End of Block>
-<TextBlock 37 w:50 h:2>
+<TextBlock 37 w:46 h:2>
 How do you do! I'm the
-nurse from the Yggdrasil.<New>
+Yggdrasil's nurse.<New>
 I'll do the best I can.
 So come by sometime!!<Close><End of Block>
 <TextBlock 38 w:52 h:2>
-(Heh, hee, hee. My first
+(Heh hee hee. My first
 impression was excellent!)<Close><End of Block>
 <TextBlock 39 w:50 h:5>
 Who do you want to weigh?<Delay 20>
@@ -201,10 +201,10 @@ Good!!<Delay 10>
 Perfect weight.<Close><End of Block>
 <TextBlock 44 w:38 h:2>
 You're too fat.<Delay 10>
-Cut down on sweets!<Close><End of Block>
-<TextBlock 45 w:50 h:3>
+Cut down on treats!<Close><End of Block>
+<TextBlock 45 w:48 h:3>
 Oh my!<Delay 10>
-This is what they call<Delay 10>...
+This is what they call<--><Delay 10>
 You'd better watch it!<Close><End of Block>
 <TextBlock 46 w:48 h:4>
 Citan
@@ -235,8 +235,8 @@ Yes!<Close><End of Block>
 U-<Delay 5>Ungh...<Opcode 2 30><Close><End of Block>
 <TextBlock 53 w:52 h:3>
 Sigurd
-"Young Master, the radar
-has picked up a huge Gear!<New>
+"Young Master, the radar's
+picking up a large Gear!<New>
 It's headed right for us,
 and fast!"<Close><End of Block>
 <TextBlock 54 w:26 h:3>
@@ -323,84 +323,80 @@ Yeah!!<Close><End of Block>
 <TextBlock 74 w:38 h:2>
 Elly
 "Fei, I'm sorry..."<Close><End of Block>
-<TextBlock 75 w:52 h:4>
+<TextBlock 75 w:40 h:4>
 Citan
 "Carl<Delay 5>...<Delay 10>
-Please listen to me!<New>
-Right now, we must forget
-about being friend or foe.
-We all must support one
-another, regardless...<New>
-Right now,
-we need your help!"<Close><End of Block>
-<TextBlock 76 w:44 h:3>
+please listen to me.<New>
+Now is the time when
+we must get past the
+notion of friend-or-
+foe and cooperate.<New>
+And we need your
+strength."<Close><End of Block>
+<TextBlock 76 w:36 h:3>
 Ramsus
-"...
-I...am...just trash...<New>
-...a...reject..."<Close><End of Block>
-<TextBlock 77 w:48 h:4>
+"...<Delay 10>
+I...<Delay 10> I'm trash...<New>
+I can't...go on...<Delay 10>
+I'm...trash..."<Close><End of Block>
+<TextBlock 77 w:52 h:4>
 Citan
-"Stop feeling sorry
-for yourself and pull
-yourself together man!!"<Close><End of Block>
-<TextBlock 78 w:32 h:3>
+"Stop this childishness!!"<Close><End of Block>
+<TextBlock 78 w:16 h:3>
 Sigurd
 "Hyuga!?<Delay 10>
-What are you<Delay 5>..."<Close><End of Block>
-<TextBlock 79 w:54 h:3>
+What<-->"<Close><End of Block>
+<TextBlock 79 w:54 h:4>
 Citan
-"Trash<Delay 5>...
-Reject<Delay 5>...<New>
-You can take pity and call
-yourself that all you want,
-but what about them!?"<Close><End of Block>
+"Trash...<New>
+Maybe you are fine
+with demeaning yourself
+by saying that.<Delay 10>
+But what about them!?"<Close><End of Block>
 <TextBlock 80 w:52 h:4>
 Citan
-"Are these women stupid,
-or trash, or rejects too
-for believing in you?<New>
-The reasons why you helped
-the girls, who had no one
-to turn to, may not have
-been that noble...<New>
-But in spite of that,
-they stuck with you.<Delay 10>
+"Are these women, who have
+assembled out of reverence
+for you, trash also?<New>
+Perhaps your reasons for
+protecting them when they
+had no one to turn to
+were unsound.<New>
+But despite that, they
+never left your command.<Delay 10>
 Do you know why?"<Close><End of Block>
-<TextBlock 81 w:50 h:4>
-They know you better than
-anybody else. They know
-the true kindness that
-exists<Delay 10> inside your heart.<New>
-They know because they
-want to be loved.<Delay 10>
-That is why they won't
-leave you.<New>
-Carl<Delay 5>...<Delay 10>
-Do not make them into the
-trash or rejects that you
-speak of.<Close><End of Block>
+<TextBlock 81 w:52 h:4>
+Citan
+"Those girls know the real
+you more than most do.<New>
+Because they had sought
+love, they know the true
+kindness that flows in
+your heart.<New>
+That is why they do not
+leave you.<Delay 20>
+Carl...<Delay 10> You must not
+make trash of them too."<Close><End of Block>
 <TextBlock 82 w:28 h:2>
 Dominia
 "Commander<Delay 5>..."<Close><End of Block>
-<TextBlock 83 w:30 h:2>
+<TextBlock 83 w:26 h:2>
 Ramsus
-"All of you<Delay 5>..."<Close><End of Block>
-<TextBlock 84 w:38 h:4>
+"Everyone<Delay 5>..."<Close><End of Block>
+<TextBlock 84 w:44 h:4>
 Citan
-"Needless to say, 
-you are not trash
-or a reject...<New>
-We know that better
-than anyone does."<Close><End of Block>
-<TextBlock 85 w:52 h:4>
+"Of course you are not
+trash.<Delay 10> We are the ones
+who know that best."<Close><End of Block>
+<TextBlock 85 w:48 h:4>
 Ramsus
-"I<Delay 5>...<Delay 10>I didn't realize<Delay 5> that
-what I've been looking for<Delay 5>
-...<Delay 5>was so close to me<Delay 5>...<New>
-I'm<Delay 5>...<Delay 5>sorry<Delay 5>...<Delay 10>
-for not<Delay 5> realizing sooner!"<Close><End of Block>
-<TextBlock 86 w:40 h:2>
+"I<Delay 5>...<Delay 10> To think that what
+I'd been looking for was
+so close to me...<New>
+I...<Delay 5>didn't realize...<Delay 10>
+I'm sorry..."<Close><End of Block>
+<TextBlock 86 w:32 h:2>
 Dominia
-"Oh, Commander...!!"<Close><End of Block>
+"Commander...!!"<Close><End of Block>
 <TextBlock 87 w:0 h:1>
 <Close><End of Block>

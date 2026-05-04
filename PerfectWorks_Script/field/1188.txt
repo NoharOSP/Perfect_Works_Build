@@ -19,7 +19,7 @@ lost inside the Yggdrasil!<New>
 All of our guests usually
 get lost around here...<Close><End of Block>
 <TextBlock 6 w:46 h:3>
-This is the Gear Shop!<Delay 10>
+This is the Gear shop!<Delay 10>
 Look inside if you want
 to tune up your Gear.<Close><End of Block>
 <TextBlock 7 w:0 h:1>

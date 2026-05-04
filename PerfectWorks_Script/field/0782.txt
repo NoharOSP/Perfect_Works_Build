@@ -278,9 +278,9 @@ Even in the worst case
 that the fleet comes, it
 will not be such a great
 problem."<Close><End of Block>
-<TextBlock 50 w:38 h:2>
+<TextBlock 50 w:36 h:2>
 Bart
-"What do you mean?"<Close><End of Block>
+"What d'you mean?"<Close><End of Block>
 <TextBlock 51 w:50 h:4>
 Citan
 "I have some additional
@@ -349,7 +349,7 @@ Mason
 <TextBlock 63 w:42 h:3>
 Bart
 "I know! I know!<New>
-Anyway, Citan, do you
+Anyway, Citan, d'you
 think he could strike
 our Gear forces?"<Close><End of Block>
 <TextBlock 64 w:50 h:3>
@@ -390,9 +390,9 @@ soon as possible."<Close><End of Block>
 <TextBlock 71 w:44 h:2>
 Bart
 "Alright <--> tomorrow!"<Close><End of Block>
-<TextBlock 72 w:46 h:4>
+<TextBlock 72 w:44 h:4>
 Sigurd
-"I am truly grateful...<Delay 30>
+"I'm truly grateful...<Delay 30>
 Fei...<Delay 30>
 Citan."<Close><End of Block>
 <TextBlock 73 w:14 h:2>

@@ -21,7 +21,7 @@ Bart
 "Hey, that's pretty
 good, grandpa!"<Close><End of Block>
 <TextBlock 6 w:38 h:2>
-The hotel I am
+The hotel I'm
 talking about is...<Opcode 2 130><Close><End of Block>
 <TextBlock 7 w:18 h:1>
 Hey, you!<Opcode 2 60><Close><End of Block>

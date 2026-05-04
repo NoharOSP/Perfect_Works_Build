@@ -7,14 +7,15 @@ You have too many
 <TextBlock 3 w:48 h:4>
 Fei
 "...It looks like we can
-get out of our Gears and
-go in here on foot."<Close><End of Block>
-<TextBlock 4 w:48 h:3>
+go in there if we get
+out of our Gears."<Close><End of Block>
+<TextBlock 4 w:52 h:4>
 Fei
-"...The city we saw from
+"...It's the city we
+looked down upon from
 Emeralda's ruins...<New>
-...<Delay 32>We've come a
-long way from there..."<Close><End of Block>
+...To think she could've
+come from such a place..."<Close><End of Block>
 <TextBlock 5 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>

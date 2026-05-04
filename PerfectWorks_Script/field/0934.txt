@@ -52,14 +52,14 @@ Elly
 <TextBlock 10 w:24 h:2>
 Rank
 "Nothing..."<Close><End of Block>
-<TextBlock 11 w:54 h:4>
+<TextBlock 11 w:52 h:4>
 Rank
-"Even though we are called
+"Even though we're called
 Solarians,<New>
-we Third Class citizens, or
-'worker bees', can trace
-our origins back to the
-Lambs.<New>
+we Third Class citizens,
+or 'worker bees', can
+trace our origins back
+to the Lambs.<New>
 So I could understand us
 having doubts about
 such orders...<New>

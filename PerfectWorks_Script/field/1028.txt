@@ -810,7 +810,7 @@ seemed a little too happy!<New>
 Is there something strange
 going on behind the scenes
 that I don't know about?"<Close><End of Block>
-<TextBlock 165 w:52 h:4>
+<TextBlock 165 w:48 h:4>
 Hammer
 "<Delay 5>...<Delay 5>Huh?
 N-N-No! N-Nothing! 
@@ -818,14 +818,14 @@ N-N-Nothing at all!<New>
 I, the mechanic of
 champions, have had my
 sins wiped clean!<New>
-So there is nothing to be
+So there's nothing to be
 suspicious about! Heh!"<Close><End of Block>
 <TextBlock 166 w:28 h:2>
 Fei
 "Hmm, really?"<Close><End of Block>
 <TextBlock 167 w:50 h:4>
 Hammer
-"What do you mean?
+"What d'you mean?
 I told you <-->
 nothing at all!<New>
 Oooh!
@@ -852,7 +852,7 @@ You shouldn't worry about
 such little details!<New>
 If you just rely on me, the
 forefront of information,
-then you will know it all!<Delay 15>
+then you'll know it all!<Delay 15>
 So about this doctor<Delay 5>...<Delay 5>"<Close><End of Block>
 <TextBlock 172 w:46 h:2>
 Fei
@@ -876,7 +876,7 @@ new doctor got to do with
 you, the great 'supplier'?"<Close><End of Block>
 <TextBlock 175 w:56 h:4>
 Hammer
-"What are you talking about,
+"What're you talking about,
 bro?<Delay 15> Of course he has
 everything to do with me!<New>
 If I become chums with him,

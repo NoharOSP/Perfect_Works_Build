@@ -16,9 +16,9 @@ to fate..."<Close><End of Block>
 <TextBlock 4 w:50 h:2>
 Bart
 "Alright! Let's go, Fei!"<Close><End of Block>
-<TextBlock 5 w:40 h:3>
+<TextBlock 5 w:38 h:3>
 Bart
-"What are you doing?
+"What're you doing?
 Hurry up!"<Close><End of Block>
 <TextBlock 6 w:28 h:3>
 Fei

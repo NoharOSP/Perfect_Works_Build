@@ -119,17 +119,18 @@ I have only just
 taken up my post
 and already you have
 embarrassed me!"<Close><End of Block>
-<TextBlock 22 w:52 h:4>
+<TextBlock 22 w:50 h:4>
 Vanderkam
 "I am sorry, Commander.
 They were more persistent
 than we anticipated.<New>
 They had a new-model Gear
 that was very mobile.
-I couldn't get a lock on
-it with the main gun...<New>
-Otherwise there would have
-been no way we could have
+We could not acquire a
+lock with the main gun...<New>
+I mean, had we been able
+to acquire a lock there
+is no way we would have
 been beaten by such<-->"<Close><End of Block>
 <TextBlock 23 w:48 h:4>
 Ramsus

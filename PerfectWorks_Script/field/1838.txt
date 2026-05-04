@@ -4,41 +4,37 @@
 Citan
 "Fei, it will
 be alright!"<Close><End of Block>
-<TextBlock 3 w:50 h:4>
+<TextBlock 3 w:46 h:4>
 Torah
-"The fate of the world is
-in your hands.<Delay 10>
-We're counting on you...!<New>
-In the meantime, I will
-just watch from here..."<Close><End of Block>
+"The fate of the world
+is in your hands.<Delay 10> We're
+counting on you...!<New>
+I think I'll watch from
+here..."<Close><End of Block>
 <TextBlock 4 w:54 h:4>
 Torah
-"Thanks for visiting.<Delay 10>
-You're looking mighty
-healthy.<New>
-I want to help you more...<Delay 10>
-but this body can't survive
-unless it breathes the air
-here...<New>
-Looks like I'm just about
-ready to meet my maker,
-huh...?<Delay 5>
-Ho, hoh, hoh!"<Close><End of Block>
-<TextBlock 5 w:24 h:1>
-Oh, Torah...<Close><End of Block>
+"Welcome.<Delay 10> I'm glad to
+see you looking well.<New>
+I want to help you all
+more...<New>
+But it seems this body's
+no good now unless it
+breathes in the air here...<New>
+Looks like my time's just
+about up, ho ho ho!"<Close><End of Block>
+<TextBlock 5 w:16 h:1>
+Torah...<Close><End of Block>
 <TextBlock 6 w:52 h:4>
 Torah
-"Don't worry, I'll stop my
-moaning. Besides, I have a
-nice present for you."<Close><End of Block>
+"Well, putting that aside,<Delay 5>
+I have some wonderful
+presents for you."<Close><End of Block>
 <TextBlock 7 w:48 h:3>
  
- <Opcode 1 255>Received Manly Mantle!!<Opcode 2 60>
- <Close><End of Block>
+ Received Manly Mantle!!<Opcode 2 60><Close><End of Block>
 <TextBlock 8 w:48 h:3>
  
- <Opcode 1 255>Received Goddess Robe!!<Opcode 2 60>
- <Close><End of Block>
+ Received Goddess Robe!!<Opcode 2 60><Close><End of Block>
 <TextBlock 9 w:24 h:3>
 Torah
 "Do we have

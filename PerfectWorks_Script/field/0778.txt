@@ -213,11 +213,11 @@ Sigurd
 "Anyway, Young Master<Delay 5>...<Delay 5>
 I want to work out what our
 plans from here on are."<Close><End of Block>
-<TextBlock 42 w:50 h:3>
+<TextBlock 42 w:48 h:3>
 Bart
 "Alright.<New>
 But before we do that...
-there is something I want
+there's something I want
 to ask you."<Close><End of Block>
 <TextBlock 43 w:16 h:2>
 Sigurd
@@ -257,7 +257,7 @@ Sigurd
 Sigurd
 "Solaris...calls
 foreigners 'Lambs'...<New>
-They are imported
+They're imported
 through kidnapping,
 and then used as
 manual labor.<New>
@@ -310,11 +310,11 @@ time I wouldn't have under-
 stood such a story, but...<New>
 Why didn't you think I
 could deal with it now?
-Surely you could have
-told me about this?<New>
+Surely you could've told
+me about this?<New>
 Especially when you had
 something to do with the
-people who are backing
+people who're backing
 that Shakhan idiot!"<Close><End of Block>
 <TextBlock 60 w:32 h:3>
 Bart
@@ -393,9 +393,9 @@ Citan
 than Sigurd...<New>
 but I also escaped
 in the same way."<Close><End of Block>
-<TextBlock 73 w:54 h:4>
+<TextBlock 73 w:52 h:4>
 Sigurd
-"That is the word Solarians
+"That's the word Solarians
 use to refer to we who
 live on the surface.<New>
 As I said before, they use
@@ -411,7 +411,7 @@ Solaris gathers that
 workforce from among the
 land dwellers.<New>
 Jobs are divided up
-according to who is most
+according to who's most
 suitable. Sometimes people
 are brainwashed."<Close><End of Block>
 <TextBlock 75 w:30 h:2>
@@ -477,8 +477,8 @@ Bart
 <TextBlock 84 w:46 h:3>
 Sigurd
 "We call him Carl.<New>
-In Solaris there is an
-officer training school
+In Solaris there's an
+officer-training school
 called 'Jugend'.<New>
 He became the commander
 after leaving there."<Close><End of Block>
@@ -573,7 +573,7 @@ Sigurd
 "Yes. For example...
 'Drive'.<New>
 That drug, and all others
-like it that are used
+like it that're used
 now, are by-products of
 human experimentation..."<Close><End of Block>
 <TextBlock 99 w:52 h:4>
@@ -693,17 +693,17 @@ Bart
 <TextBlock 125 w:50 h:3>
 Bart
 "Is everyone ready to go?<New>
-I'll be waiting here,
-so let me know when you
-are through preparing."<Close><End of Block>
+I'll be waiting here, so
+let me know when you're
+through preparing."<Close><End of Block>
 <TextBlock 126 w:46 h:4>
 Bart
 "Rest up for a while.<Delay 30>
 Just gotta do as you're
 told sometimes."<Close><End of Block>
-<TextBlock 127 w:34 h:3>
+<TextBlock 127 w:32 h:3>
 Margie
-"What do you mean
+"What d'you mean
 'sometimes'!?"<Close><End of Block>
 <TextBlock 128 w:34 h:4>
 Bart

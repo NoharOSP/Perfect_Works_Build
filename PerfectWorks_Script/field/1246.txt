@@ -40,7 +40,7 @@ What?<Delay 10> Who the
 hell are you?<Close><End of Block>
 <TextBlock 12 w:34 h:3>
 Maybe instead of
-this brat I'll
+this brat we'll
 sell YOU off?<Close><End of Block>
 <TextBlock 13 w:40 h:3>
 Bart
@@ -84,17 +84,16 @@ Elly
 "..."<Close><End of Block>
 <TextBlock 26 w:12 h:1>
 Wait!!<Close><End of Block>
-<TextBlock 27 w:40 h:4>
+<TextBlock 27 w:48 h:4>
 Citan
 "That carbine rifle,
 that skill with the
 gun...<New>
 Can it be you, my
-old mentor,<Delay 10> Jesiah!?<New>
-Jesiah, you have
-got it all wrong.
-Jumping to conclu-
-sions, as ever!<New>
+old mentor,<Delay 5> Jesiah!?<New>
+Jesiah, you have got
+it all wrong.<Delay 5> Jumping
+to conclusions, as ever!<New>
 She was only helping
 that girl."<Close><End of Block>
 <TextBlock 28 w:40 h:4>
@@ -187,7 +186,7 @@ Bart
 "What!? Where?"<Close><End of Block>
 <TextBlock 44 w:50 h:4>
 Doctor
-"...<Delay 10>...<Delay 10>so that's why we
+"...<Delay 10>...<Delay 10>So that's why we
 hoped you could help us
 somehow."<Close><End of Block>
 <TextBlock 45 w:32 h:2>
@@ -245,15 +244,15 @@ become such a stiff."<Close><End of Block>
 <TextBlock 53 w:10 h:2>
 Billy
 "..."<Close><End of Block>
-<TextBlock 54 w:40 h:4>
+<TextBlock 54 w:44 h:4>
 Jesse
 "Anyway, this lady
 and her friends
-saved Primera when<New>
-she was seemingly
-about to be kid-
-napped.<Delay 10> Stop whining
-and help them out."<Close><End of Block>
+saved Primera<New>
+when she was seemingly
+about to be kidnapped.<Delay 10>
+Stop whining and help
+them out."<Close><End of Block>
 <TextBlock 55 w:42 h:4>
 Elly
 "Um...can we get an
@@ -261,7 +260,7 @@ introduction to the
 Church, then?"<Close><End of Block>
 <TextBlock 56 w:54 h:4>
 Billy
-"Ahh, so that's
+"A-<Delay 5>Ahh, so that's
 what happened.<New>
 I'm so sorry for my
 rudeness <--> I didn't

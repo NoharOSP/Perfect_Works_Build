@@ -94,57 +94,55 @@ his back and it looks so
 painful.<New>
 Long ago,<Delay 5> when the two of
 us got caught by Shakhan,
-Bart protected me from
-getting beaten..."<Close><End of Block>
+Bart took the beating
+instead of me..."<Close><End of Block>
 <TextBlock 20 w:48 h:4>
 Margie
 "At that time, I decided
 to be his follower...to
 serve and protect him!<New>
-But he is the one who's
+But he's the one who's
 always protecting me..."<Close><End of Block>
 <TextBlock 21 w:10 h:2>
 Fei
 "..."<Close><End of Block>
 <TextBlock 22 w:40 h:4>
 Margie
-"Uh, oh, so sorry...<Delay 10>
+"Ah, so sorry...<Delay 10>
 Anyway, thanks a lot
 for saving me!"<Close><End of Block>
-<TextBlock 23 w:46 h:4>
+<TextBlock 23 w:34 h:4>
 Margie
-"You're the only ones
-who can save us...<Delay 10>
-We're counting on you!"<Close><End of Block>
+"You guys are all
+we've got!<Delay 10> We're
+counting on you!"<Close><End of Block>
 <TextBlock 24 w:38 h:4>
 Margie
 "Young Master...
 You better not die!<Delay 10>
-Promise me!!"<Close><End of Block>
-<TextBlock 25 w:50 h:4>
+No, sir!!"<Close><End of Block>
+<TextBlock 25 w:46 h:4>
 Bart
-"Of course!<Delay 10> I'm not going
-to die!<Delay 10> Quit sayin'
+"Of course not!<Delay 10> I'm not
+gonna die!<Delay 10> Quit sayin'
 such weird stuff!"<Close><End of Block>
-<TextBlock 26 w:48 h:4>
+<TextBlock 26 w:44 h:4>
 Margie
 "Sorry<Delay 5>...<Delay 10>
 Yeah<Delay 5>...<Delay 10>you're right<Delay 5>...<Delay 10>
 You'll make it back<Delay 5>...<New>
-When you come back, I'm
-going to<Delay 5>...<Delay 10>well<Delay 5>...<Delay 5>
-I just thought...<New>
-...maybe I could be<Delay 5>...<Delay 10>
-closer to you...<Delay 10>
-you know...?"<Close><End of Block>
-<TextBlock 27 w:40 h:4>
+When you do come back,
+I<Delay 5>...<Delay 10> I mean<Delay 5>...<Delay 10>
+I'd like it if I could
+be<Delay 10> closer to you..."<Close><End of Block>
+<TextBlock 27 w:38 h:4>
 Bart
-"Hey, whoa! Quit it.<Delay 10>
-Do you know what
-you're saying!?"<Close><End of Block>
-<TextBlock 28 w:40 h:4>
+"Hey, whoa, what're
+you saying, Margie?<Delay 10>
+Quit it!!"<Close><End of Block>
+<TextBlock 28 w:42 h:4>
 Margie
-"Heh, just kiddin'!!
+"Hehe, just kidding!!<Delay 10>
 Young Master, you're
 all panicked!!"<Close><End of Block>
 <TextBlock 29 w:6 h:1>
@@ -175,7 +173,7 @@ for a while."<Close><End of Block>
 <TextBlock 35 w:50 h:3>
 Margie
 "Fei?<Delay 10>
-No, he hasn't come here!"<Close><End of Block>
+No, he hasn't been here!"<Close><End of Block>
 <TextBlock 36 w:54 h:4>
 Margie
 "...I knew something was
@@ -225,7 +223,7 @@ Margie
 <TextBlock 46 w:52 h:4>
 Margie
 "I was the only one who
-escaped Shakhan's grip by
+escaped Shakhan's grasp by
 fleeing Nisan with Bart...<New>
 I wonder if the sisters
 are all right...<Delay 10>
@@ -266,13 +264,13 @@ Margie
 "Until next time!"<Close><End of Block>
 <TextBlock 54 w:46 h:4>
 <Chu-Chu>
-"I...may have been
+"I...might've been
 getting in everyone's
 way up chu now.<New>
-But, I can't stand chu
-think Fei and all his
-friends may perish away
-like us...<New>
+But I can't bear the
+thought of Fei and all
+his friends dying out
+like we did...<New>
 I'm going chu fight so
 that this kind of thing
 never happens chu
@@ -306,18 +304,18 @@ and more people here!!"<Close><End of Block>
 <TextBlock 60 w:52 h:4>
 <Chu-Chu>
 "<Chu-Chu> can't do muchu
-anything either, so I'll
-just be a dependent chu!"<Close><End of Block>
+either, so I'll just be a
+freeloader chu!"<Close><End of Block>
 <TextBlock 61 w:54 h:4>
 <Chu-Chu>
-"Fei, still sleeping?<New>
+"Fei's still sleeping?<New>
 A maiden's kiss might
 wake him up.<Delay 10>
 Oh, what am I saying!?
 This is chu embarrassing!!"<Close><End of Block>
 <TextBlock 62 w:54 h:4>
 <Chu-Chu>
-"Fei, still sleeping?<New>
+"Fei's still sleeping?<New>
 A maiden's kiss might
 wake you up.<Delay 10>
 Oh, what am I saying!?
@@ -337,8 +335,8 @@ So what should I break?"<Close><End of Block>
 chu familiar.<New>
 But it doesn't matter
 because I didn't know
-muchu about Av in
-the first place chu."<Close><End of Block>
+muchu about Av in the
+first place either."<Close><End of Block>
 <TextBlock 66 w:46 h:3>
 <Chu-Chu>
 "It's chu noisy.<Delay 10> Is it
@@ -350,13 +348,13 @@ there's nothing chu do!
 I'm so bored!"<Close><End of Block>
 <TextBlock 68 w:36 h:3>
 <Chu-Chu>
-"Wow!<Delay 10> A delicious
+"Wow!<Delay 10> A delicious-
 looking spider..."<Close><End of Block>
 <TextBlock 69 w:30 h:1>
 *munchu munchu*<Close><End of Block>
-<TextBlock 70 w:40 h:4>
+<TextBlock 70 w:42 h:4>
 <Chu-Chu>
-"Presents are a way
+"Presents are the way
 chu a woman's heart!<Delay 10>
 Here's your reward!"<Close><End of Block>
 <TextBlock 71 w:44 h:1>

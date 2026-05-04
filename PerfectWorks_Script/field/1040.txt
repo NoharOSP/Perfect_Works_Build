@@ -1,7 +1,7 @@
-<TextBlock 1 w:48 h:3>
+<TextBlock 1 w:46 h:3>
 Fei
 "<Delay 5>...<Delay 5>Not here, either...<Delay 15>
-Must have left already?"<Close><End of Block>
+Must've left already?"<Close><End of Block>
 <TextBlock 2 w:12 h:2>
 Fei
 "Huh?"<Close><End of Block>
@@ -677,10 +677,10 @@ Fei
 Hammer
 "Why did you do that,
 bro?"<Close><End of Block>
-<TextBlock 103 w:30 h:4>
+<TextBlock 103 w:38 h:4>
 Fei
-"Wait, Hammer.
-What are you
+"Slow down, Hammer.
+What're you
 talking about?"<Close><End of Block>
 <TextBlock 104 w:52 h:4>
 Hammer
@@ -717,10 +717,10 @@ So c'mon,<Delay 5> give it a try!"<Close><End of Block>
 Fei
 "<Delay 5>...<Delay 5><New>
 <Delay 5>...<Delay 5>Is that all?"<Close><End of Block>
-<TextBlock 108 w:36 h:3>
+<TextBlock 108 w:34 h:3>
 Hammer
 "Huh?
-What do you mean?"<Close><End of Block>
+What d'you mean?"<Close><End of Block>
 <TextBlock 109 w:36 h:2>
 Fei
 "<Delay 5>...<Delay 5>Are you done?"<Close><End of Block>

@@ -76,11 +76,11 @@ powerful post-hypnotic
 suggestion."<Close><End of Block>
 <TextBlock 17 w:50 h:4>
 Citan
-"It is a special hypnosis
-technique where a certain
-condition serves as a<New>
-trigger for some
-previously imprinted
+"It is a special
+hypnosis technique,<New>
+where a certain condition
+serves as a trigger for
+some previously imprinted
 behavior,<New>
 prior to which no
 abnormalities can
@@ -88,7 +88,7 @@ be detected.<New>
 With things the way they
 are, I thought it was
 suspicious for her to
-leave the medical room,<New>
+leave the infirmary,<New>
 so I followed her..."<Close><End of Block>
 <TextBlock 18 w:50 h:4>
 Citan
@@ -105,9 +105,9 @@ Citan
 fix this..."<Close><End of Block>
 <TextBlock 20 w:54 h:4>
 Citan
-"Anyhow, we will take her
-to the medical room first.<New>
-Fei, go to the medical room
+"In any case, I will move
+her to the infirmary first.<New>
+Fei, go to the infirmary
 when you are done here.<New>
 No need to worry. The
 hypnotist must have been a
@@ -134,16 +134,16 @@ even for Solaris!<Close><End of Block>
 <TextBlock 24 w:48 h:4>
 How badly are the main
 engines damaged? I need
-more time to see them
-closely...<New>
-But it looks pretty bad.
+more time to look at
+them closely...<New>
+But it seems pretty bad.
 It may take a while.<Close><End of Block>
 <TextBlock 25 w:48 h:2>
 Whaaat's up, eh, Myrtle?<Delay 32>
 Huh?<Close><End of Block>
 <TextBlock 26 w:46 h:2>
 Hey, miss.<New>
-I heard you had been
+I heard you'd been
 captured. Are you okay?<Close><End of Block>
 <TextBlock 27 w:44 h:4>
 Easy, Myrtle!

@@ -15,9 +15,9 @@ said that your life
 didn't mean anything.<New>
 What was that all
 about?"<Close><End of Block>
-<TextBlock 5 w:42 h:2>
+<TextBlock 5 w:40 h:2>
 Fei
-"Why are you asking?"<Close><End of Block>
+"Why're you asking?"<Close><End of Block>
 <TextBlock 6 w:52 h:4>
 Elly
 "Why?<Delay 20>
@@ -158,7 +158,7 @@ into this.<Delay 5> It's all their
 fault. Not mine!<New>
 They're the ones to blame.<Delay 5>
 If they'd never come...<Delay 5>
-none of this would have...<Delay 5>
+none of this would've...<Delay 5>
 If not for them!"<Close><End of Block>
 <TextBlock 26 w:34 h:2>
 Elly
@@ -208,7 +208,7 @@ into a Gear you can't even
 ride!?<New>
 Not just anyone can pilot
 those machines, you know!<New>
-There is no way an
+There's no way an
 untrained civilian could
 hope to operate one!<New>
 Not to mention...shouldn't

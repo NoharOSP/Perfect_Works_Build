@@ -11,19 +11,20 @@ are mostly unharmed,<New>
 but the electrical
 connections between
 them are wasted.<New>
-We are bypassing the main
+We're bypassing the main
 connection and trying to
 scrape together all the
 energy we can.<New>
-But it will only give us
+But it'll only give us
 70% of our usual maximum
 power at best.<New>
 The propulsion drills are
-not damaged, but if the
+undamaged, but if the
 sand can't be granulated
 they might as well be.<New>
 We'll make battle speed 3...
 just barely."<Close><End of Block>
+
 <TextBlock 3 w:52 h:3>
 Sigurd
 "He's been quiet since the

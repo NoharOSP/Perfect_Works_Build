@@ -1,7 +1,7 @@
 <TextBlock 1 w:40 h:4>
 Fei
 "Is this a joke?
-What are you doing
+What're you doing
 here, Elly?<New>
 I thought you agreed
 to get out of the
@@ -16,7 +16,7 @@ Fei
 "Are you serious?
 You do know what you're
 doing, don't you!?<New>
-How can you say that
+How can you say that,
 knowing where that ship
 is headed and what the
 outcome may be...?"<Close><End of Block>
@@ -128,14 +128,14 @@ own cause...<New>
 Even if you have
 much more anguish
 to deal with,<New>
-at least you are
+at least you're
 free to choose
 that path!
 Unlike me...!"<Close><End of Block>
 <TextBlock 21 w:46 h:4>
 Elly
-"If I could, I would
-already have done it!
+"If I could, I would've
+already done it!
 But I can't...<New>
 This is my place. And
 that's how it is here!"<Close><End of Block>

@@ -297,9 +297,9 @@ To think they would bring
 in such a large ship...
 It must be to suppress the
 recent border skirmishes."<Close><End of Block>
-<TextBlock 50 w:42 h:3>
+<TextBlock 50 w:40 h:3>
 Fei
-"So they are fighting
+"So they're fighting
 the Kislev Empire?"<Close><End of Block>
 <TextBlock 51 w:48 h:4>
 Citan

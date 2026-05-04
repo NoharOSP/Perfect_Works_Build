@@ -90,8 +90,9 @@ What is this thing?"<Close><End of Block>
 Lacan
 "Is this<Delay 5>...<Delay 5>my doing?<Delay 15>
 What's happened to me<Delay 5>...?"<Close><End of Block>
-<TextBlock 15 w:32 h:2>
-What on earth...<Delay 5>
+<TextBlock 15 w:38 h:3>
+Lacan
+"What...on earth...<Delay 5>
 am I...?<Close><End of Block>
 <TextBlock 16 w:38 h:2>
 Lacan

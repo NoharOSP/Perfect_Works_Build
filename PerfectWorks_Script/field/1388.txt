@@ -1,78 +1,81 @@
-<TextBlock 1 w:60 h:11>
-<Opcode 1 255>'A discussion on the
-excavated Slave Generators 
-and their special effects'.<New>
-Strange engines discovered
-in structures buried under-
-ground in ancient times, the
-'Sub-' or 'Slave' Generators
-(hereafter abbreviated as 
-'SG') have, after diverse
-study, become widely known to
-have their output divided
+<TextBlock 1 w:54 h:11>
+<Opcode 1 255>'About the excavated
+slave generators and
+their special effects'.<New>
+Due to various studies, it
+is a well-known fact that
+the output of the 'slave
+generators' (hereafter
+abbreviated as 'SGs') <-->
+strange engines discovered
+in structures buried
+underground in ancient
+times <--> is divided
 into three levels.<New>
-However, it has been
-ascertained that a higher
-mode exists that far surpasses
-these output levels.
-For convenience's sake we 
-shall call this 'Hyper Mode'.<New>
-Hyper Mode is invoked at a
-certain probability when an
-SG's attack level reaches 3.
-The explanation below
-covers the various conditions
-and probabilities for
-invocation that we have been
-able to ascertain at present,
-assuming that an SG has been
-installed into a humanoid
-fighting machine (or 'Gear').<New>
+However, the existence
+of a superior mode far
+exceeding those has been
+newly identified.
+For convenience, we shall
+refer to it here as
+'Hyper Mode'.<New>
+Hyper Mode is invoked with
+a certain probability once
+an SG's Attack Level has
+reached 3. The currently
+confirmed invocation
+probability and conditions,
+in the case of an SG
+installed in a humanoid
+fighting weapon, are
+explained below.<New>
 In all cases, a basic
-constant exists, which we
-observe to be approximately
-the value of 5. 
-The probability is computed
-by multiplying this constant
-by one tenth of the
-percentage that HP has
-been reduced.<New>
-For example, if a Gear's HP
-has been reduced by 50% of
-its total, then the chance of
-invocation would be
+constant exists, the
+value of which we
+approximate to be 5
+based on our observations.
+The probability is
+calculated by multiplying
+this constant by one tenth
+of the percentage that
+HP has dropped.<New>
+For example, in a case
+where HP has dropped to
+50% of its total, then the
+invocation probability
+would be:
      5 x 50/10 = 25(%)
-So in this case, when the
-Attack Level reaches 3,
-there is a 25% chance that
-Hyper Mode will set in
-motion.<New>
-Also, apart from this, there
-are modification values,
-which are added to the basic
-value accordingly with the 
-release of each attack from 
-levels 1 to 3.
-In other words, the chances
-of Hyper Mode being invoked 
-increases the more a Gear 
-attacks and the more the Gear
-is attacked.<New>
-The SG's Hyper Mode induced
-by the aforementioned
-probability can emit
-immeasurable amounts of
-energy, so from that aspect
-may appear ideal for use as
-the master engine of a
-fighting machine.<New>
-However, in reality they
-have not yet progressed
-to the point of being used
-as a force for actual warfare,
-for reasons such as their
-unpredictability and
-the fact that no Gear frame
-exists that is rigid enough
-to possibly endure these
-energy emissions.<Close><Close><End of Block>
+In other words, once the
+Attack Level has reached 3,
+in this case there will be
+a 25% chance that Hyper
+Mode is invoked.<New>
+Furthermore, there exist
+modifiers besides this,
+and by making attacks at
+levels 1 to 3 respectively
+these modifiers are added
+to the base value.
+In short, the Hyper Mode
+invocation probability
+increases the more you
+are attacked and the more
+you attack.<New>
+The SG Hyper Mode, invoked
+with the aforementioned
+probability and making
+it possible to unleash
+immeasurable, tremendous
+energy for a fixed period,
+is surely ideal for the
+main engine of a fighting
+machine.<New>
+But in reality we have not
+yet reached the point where
+it can be deemed an actual
+military strength,
+for reasons such as its
+unreliability and the fact
+that no chassis exists that
+is tough enough to even
+endure its energy emission.<Close><Close><End of Block>

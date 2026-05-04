@@ -203,11 +203,11 @@ Vance
 "But it's not from the
 surface... It's from
 under the sand!"<Close><End of Block>
-<TextBlock 44 w:54 h:4>
+<TextBlock 44 w:42 h:4>
 Vance
-"...I can't catch it again.
-It could have been a sand
-whale..."<Close><End of Block>
+"...I can't catch it
+again. It could've
+been a sand whale..."<Close><End of Block>
 <TextBlock 45 w:46 h:4>
 Vance
 "There...
