@@ -52,6 +52,6 @@ at this time.<Close><End of Block>
 <TextBlock 11 w:48 h:2>
 Can't receive <Opcode 4 18>
 you have too many.<Close><End of Block>
-<TextBlock 12 w:38 h:2>
+<TextBlock 12 w:40 h:2>
  
-Received <Opcode 4 20><Close><Close><End of Block>
+ Received <Opcode 4 20><Close><Close><End of Block>

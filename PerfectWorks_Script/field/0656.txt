@@ -51,13 +51,13 @@ the upper hand..."<Close><End of Block>
 Fei
 "What are you
 so afraid of?"<Close><End of Block>
-<TextBlock 12 w:52 h:4>
+<TextBlock 12 w:48 h:4>
 Mysterious Woman
-"I-I'm not afraid.
+"I-I'm not afraid.<Delay 5>
 I'm just being cautious.<New>
-It's natural considering 
-that I've met such a 
-suspicious Lamb."<Close><End of Block>
+It's only natural,
+considering I've met
+such a suspicious Lamb."<Close><End of Block>
 <TextBlock 13 w:52 h:3>
 Fei
 "Don't you worry.

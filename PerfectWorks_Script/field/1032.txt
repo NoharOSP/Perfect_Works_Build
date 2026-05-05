@@ -121,12 +121,12 @@ lie down in the next room!"<Close><End of Block>
 Doctor 
 "Not the 'Baptismal Ceremony'!?
 The patient has only just awoken!<New>
-It is unthinkable that you would
+It's unthinkable that you'd
 try to suddenly carry out your
 Baptismal Ceremony on him!!!"<Close><End of Block>
 <TextBlock 25 w:48 h:4>
 Doctor
-"I am so sorry!<Delay 10> I can't
+"I'm so sorry!<Delay 10> I can't
 go against the Battlers!<Delay 5>
 Please forgive me..."<Opcode 2 45><Close><End of Block>
 <TextBlock 26 w:56 h:5>
@@ -397,10 +397,10 @@ Fei
 "You're the doc<Delay 5>...<Delay 5>Doc!<Delay 15>
 I'll try<Delay 5>...<Delay 5>to get<Delay 5>...
 a little more<Delay 5>...<Delay 5>rest<Delay 5>..."<Opcode 2 45><Close><End of Block>
-<TextBlock 76 w:50 h:3>
+<TextBlock 76 w:48 h:3>
 Fei
 "Hey, you're<Delay 5>...<Delay 15>Rico!?<Delay 15>
-What are you doing here?"<Close><End of Block>
+What're you doing here?"<Close><End of Block>
 <TextBlock 77 w:42 h:4>
 Rico
 "Calm down, kid!<Delay 15>
@@ -486,11 +486,11 @@ Rico
 "Kid<--><Delay 5>
 I mean, Fei<Delay 5>...<New>
 They were the very people
-who had set that trap to
+who'd set that trap to
 kill you!"<Close><End of Block>
 <TextBlock 90 w:52 h:4>
 Fei
-"So what are you trying to
+"So what're you trying to
 say? That their deaths are
 connected to me somehow!?"<Close><End of Block>
 <TextBlock 91 w:54 h:4>
@@ -505,10 +505,10 @@ Out of hatred of his would-
 be killers, he plots
 revenge on the Battlers.
 And turns to murder!"<Close><End of Block>
-<TextBlock 92 w:34 h:3>
+<TextBlock 92 w:32 h:3>
 Fei
 "<Delay 5>...<Delay 5>People think
-I am the killer?"<Close><End of Block>
+I'm the killer?"<Close><End of Block>
 <TextBlock 93 w:54 h:4>
 Rico
 "Exactly!<Delay 30> This morning
@@ -530,15 +530,15 @@ prove your innocence is
 if there is any truth in
 that story going around...<New>
 The story of a monster in
-the sewers that is strong
+the sewers that's strong
 enough to kill five
 Battlers!"<Close><End of Block>
-<TextBlock 94 w:54 h:3>
+<TextBlock 94 w:52 h:3>
 Fei
 "Wait up! Let me<Delay 5>...<Delay 5>
 Let me go with you!<New>
-I want to prove to you that
-I am innocent myself!"<Close><End of Block>
+I want to prove to you
+myself that I'm innocent!"<Close><End of Block>
 <TextBlock 95 w:54 h:4>
 Citan
 "It is up to Fei himself
@@ -576,7 +576,7 @@ if you meet with Hammer!<New>
 Hammer is a 'supplier' of
 things and information.
 He might appear strange but
-he is good on the inside.<New>
+he's good on the inside.<New>
 He's probably hanging out
 at the bar, so it might be
 best to check there first.
@@ -639,8 +639,8 @@ at the bar, so it might be
 best to check there first!"<Close><End of Block>
 <TextBlock 105 w:60 h:4>
 Good, you've finally woken up!<Delay 15>
-<Delay 5>...<Delay 5>You have been unconscious
-for four days, so I had begun
+<Delay 5>...<Delay 5>You've been unconscious
+for four days, so I'd begun
 to fear the worst.<Close><End of Block>
 <TextBlock 106 w:46 h:4>
 Fei
@@ -655,7 +655,7 @@ uuuugh<Delay 5>...<Delay 5>!"<Close><End of Block>
 You've only just regained
 consciousness, so don't
 push yourself too much!<New>
-I am a doctor.<Delay 30>
+I'm a doctor.<Delay 30>
 You are in Noatun, the
 Imperial Capital of Kislev.<New>
 This is the detention area
@@ -843,7 +843,7 @@ has to wear them..."<Close><End of Block>
 <TextBlock 140 w:52 h:4>
 Doctor
 "<Delay 5>...<Delay 5>Here in D Block,
-that is the only chain
+that's the only chain
 that binds the prisoners."<Close><End of Block>
 <TextBlock 141 w:52 h:4>
 Fei
@@ -1035,8 +1035,8 @@ able to look Bart in the
 face again<Delay 5>...<New>
 'Cause Bart and the
 others are alive
-somewhere<Delay 5>...<Delay 10> I just know
-that they are!"<Close><End of Block>
+somewhere<Delay 5>...<Delay 10> I just
+know they are!"<Close><End of Block>
 <TextBlock 171 w:36 h:2>
 Citan
 "So that means<Delay 5>..."<Close><End of Block>
@@ -1061,7 +1061,7 @@ Citan
 Hammer
 "'Cause of these things!
 They're bomb collars!<New>
-As long as we are wearing
+As long as we're wearing
 these, we'll never be able
 to set foot out of here!"<Close><End of Block>
 <TextBlock 177 w:36 h:4>
@@ -1241,7 +1241,7 @@ Fei
 "It's alright, Doc.
 It doesn't matter if you
 take off one or two parts<Delay 5>...<New>
-We are going to take the
+We're going to take the
 whole thing off anyway!"<Close><End of Block>
 <TextBlock 210 w:56 h:4>
 Citan
@@ -1395,9 +1395,9 @@ win at the Games, then!
 Do we not, Fei?"<Close><End of Block>
 <TextBlock 242 w:54 h:3>
 Hammer
-"I am telling you it is
+"I'm telling you it's
 hopeless!<New>
-To do that you will have
+To do that you'd have
 to defeat the current
 Champion, Master Rico!<New>
 But our bro here was
@@ -1405,9 +1405,9 @@ totally beaten by that
 very person just days ago!"<Close><End of Block>
 <TextBlock 243 w:50 h:3>
 Hammer
-"I am telling you it is
+"I'm telling you it's
 hopeless!<New>
-To do that you will have
+To do that you'd have
 to defeat the current
 Champion, Master Rico!<New>
 But our bro here was
@@ -1418,9 +1418,9 @@ how strong the Champ
 himself is yet<Delay 5>..."<Close><End of Block>
 <TextBlock 244 w:52 h:4>
 Hammer
-"I am telling you it is
+"I'm telling you it's
 hopeless!<New>
-To do that you will have
+To do that you'd have
 to defeat the current
 Champion, Master Rico!<New>
 The Champ's prison ranking
@@ -1433,9 +1433,9 @@ die if he attempts to
 challenge the Champ!"<Close><End of Block>
 <TextBlock 245 w:52 h:4>
 Hammer
-"I am telling you it is
+"I'm telling you it's
 hopeless!<New>
-To do that you will have
+To do that you'd have
 to defeat the current
 Champion, Master Rico!<New>
 The Champ's prison ranking
@@ -1448,9 +1448,9 @@ die if he attempts to
 challenge the Champ!"<Close><End of Block>
 <TextBlock 246 w:56 h:4>
 Hammer
-"I am telling you it is
+"I'm telling you it's
 hopeless!<New>
-To do that you will have
+To do that you'd have
 to defeat the current
 Champion, Master Rico!<New>
 But our bro here is the
@@ -1481,7 +1481,7 @@ didn't really have the
 desire to fight<Delay 5>...but...<New>
 even if I were to go up
 against him seriously<Delay 5>...<Delay 5>
-I am not sure whether I
+I'm not sure whether I
 could win or not."<Close><End of Block>
 <TextBlock 251 w:54 h:4>
 Fei
@@ -1554,20 +1554,20 @@ prisoner now, then?"<Close><End of Block>
 <TextBlock 260 w:52 h:4>
 Hammer
 "That's the thing!<Delay 20> Master
-Rico could have said good-
-bye to prison life by now!<New>
+Rico could've said goodbye
+to prison life by now!<New>
 But they say he turned
 down his pardon.
 I guess he must like his
 fighting a great deal<Delay 5>...!"<Close><End of Block>
-<TextBlock 261 w:54 h:4>
+<TextBlock 261 w:52 h:4>
 Fei
 "Well, we can't just stand
 around here talking about
 it.<New>
-I don't care whether it is
+I don't care whether it's
 Battling or whatever! If
-there is a chance then I am
+there's a chance then I'm
 going to try to take it!"<Close><End of Block>
 <TextBlock 262 w:36 h:2>
 Hammer
@@ -1575,9 +1575,9 @@ Hammer
 <TextBlock 263 w:24 h:2>
 Fei
 "Yes, I am."<Close><End of Block>
-<TextBlock 264 w:54 h:2>
+<TextBlock 264 w:52 h:2>
 Hammer
-"Do you think you can win?"<Close><End of Block>
+"D'you think you can win?"<Close><End of Block>
 <TextBlock 265 w:40 h:4>
 Fei
 "No, I don't.<Delay 20>

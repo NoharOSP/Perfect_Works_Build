@@ -36,11 +36,11 @@ Fei
 <TextBlock 9 w:26 h:2>
 Fei
 "Hey, now..."<Close><End of Block>
-<TextBlock 10 w:36 h:4>
+<TextBlock 10 w:34 h:4>
 Fei
 "Uhh... Oh man...<Delay 10>
-...By the way, do
-you have a name?"<Close><End of Block>
+...Anyway, do you
+have a name?"<Close><End of Block>
 <TextBlock 11 w:46 h:3>
 Fei
 "Okay, okay.
@@ -319,7 +319,7 @@ WE were the ones who took
 the bait. We must escape
 before we get caught!<New>
 Head for the bridge as
-soon as you are through
+soon as you're through
 with your preparations!"<Close><End of Block>
 <TextBlock 54 w:50 h:4>
 Shakhan...

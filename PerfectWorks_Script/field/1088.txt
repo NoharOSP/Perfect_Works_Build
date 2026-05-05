@@ -104,7 +104,7 @@ A bell..."<Close><End of Block>
 Rico
 "Now that you mention
 it...<New>
-There is a rumor of a
+There's a rumor of a
 strange ringing sound
 down here..."<Close><End of Block>
 <TextBlock 28 w:44 h:3>

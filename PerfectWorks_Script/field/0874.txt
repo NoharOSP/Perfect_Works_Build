@@ -26,7 +26,7 @@ Carl...?<Delay 100>
 ...No!"<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Myyah
-"I see you are quick
+"I see you're quick
 to catch on.<New>
 The Commander should be
 taking care of all your
@@ -38,7 +38,7 @@ as a diversion. How naive!<New>
 Hyuga, have you lived down
 here so long that your
 mind is wasting away?<New>
-And Sigurd, who would have
+And Sigurd, who would've
 thought you would join the
 last survivors of the
 royal dynasty...?"<Close><End of Block>
@@ -74,14 +74,14 @@ Myyah
 "Minister Shakhan, I'll let
 you handle this. You must
 protect your own position.<New>
-We don't care who is
+We don't care who's
 sitting on the throne.
 Any obedient sheep
 will be fine.<New>
 But isn't there
 something that you
 still have to do?<New>
-If you will only do that,
+If you'll only do that,
 then we'll help you as
 much as possible."<Close><End of Block>
 <TextBlock 13 w:44 h:3>

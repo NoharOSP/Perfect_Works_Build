@@ -190,9 +190,9 @@ You just relax, we'll
 find a way to slip into
 the castle."<Close><End of Block>
 <TextBlock 33 w:54 h:3>
-My apologies. If there
-is anything else I can do
-to help just ask...<New>
+My apologies. If there's
+anything else I can do
+to help, just ask...<New>
 Do you have any good leads?<Close><End of Block>
 <TextBlock 34 w:38 h:2>
 Did you find a way
@@ -223,7 +223,7 @@ We'll think about the
 rest later."<Close><End of Block>
 <TextBlock 41 w:50 h:4>
 I see. I'm very relieved
-that you are all here.
+that you're all here.
 Please come see me again
 if you hear anything new.<Close><End of Block>
 <TextBlock 42 w:54 h:4>
@@ -243,7 +243,7 @@ We can get into them from
 the town's well. The water-
 ways should lead right up
 to the castle's reservoir.<New>
-If we are able to get that
+If we're able to get that
 far, we should be able to
 sneak into the other rooms
 of the castle from there."<Close><End of Block>

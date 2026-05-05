@@ -1,114 +1,116 @@
-<TextBlock 1 w:54 h:4>
+<TextBlock 1 w:50 h:4>
 Fei
-"Elly will be back to
-her usual self! I will
-go on believing that.<New>
-But even if that doesn't
-happen...I will still...
-...Well, let's just say
-I'm prepared for that too!"<Close><End of Block>
-<TextBlock 2 w:52 h:4>
+"Elly will be back to the
+way she was, for sure.<Delay 10>
+I believe that.<New>
+But even if it doesn't
+come true...<Delay 5>and Elly is<--><Delay 20>
+I'm ready for that."<Close><End of Block>
+<TextBlock 2 w:48 h:4>
 Zephyr
-"You don't have to do
-this if you don't want
-to, you know.<New>
-Your opponent is the
-person you love...
-If you decide to quit now,
-no one will blame you."<Close><End of Block>
-<TextBlock 3 w:54 h:4>
+"You don't have to force
+yourself to do this.<New>
+Not when your opponent
+is the person you love.<Delay 10>
+Even if you stopped now,
+nobody would blame you."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
 Fei
-"To quit would be
-meaningless.<New>
-All that I have fought for,
-and all that I live for,
-would come to have no
-meaning at all...<New>
-People should be free. With
-no one bound by others, and
-no one binding others...<New>
-Inside of me, there is a
-part of me that desires
-that freedom, and a part
-of me that gives me hope.<New>
-So, I shall fight to
-win true freedom!
-For we are still alive!<New>
-We fight to live.
-That is the reason
-why I fight.
-It's proof I'm human.<New>
-I promised my father, and
-myself too, that I would
-free Elly from Deus' binds,
-that I would save her..."<Close><End of Block>
-<TextBlock 4 w:54 h:4>
+"There'd be no sense
+in that.<New>
+Any point in having
+struggled this far,
+any point in living,
+would be gone.<New>
+People should be free.<Delay 10>
+With no one restrained
+by others, and no one
+restraining others...<New>
+Within me, there is a
+self that wants that
+freedom, and a self
+that offers hope.<New>
+That's why we'll fight
+to win true freedom.<Delay 10>
+Because we're still alive.<New>
+We'll fight to live.<Delay 10>
+That's the reason I fight.<Delay 10>
+It's proof I'm living as
+a human being.<New>
+And I promised my dad and
+myself.<New>
+That I would release
+Elly from Deus' shackles.<Delay 10>
+That I would rescue her
+no matter what..."<Close><End of Block>
+<TextBlock 4 w:52 h:4>
 Zephyr
 "I understand.<Delay 20>
-So, let's keep believing...
-And hope for a miracle..."<Close><End of Block>
-<TextBlock 5 w:52 h:4>
+Then let's believe.<Delay 10> That a
+miracle will happen..."<Close><End of Block>
+<TextBlock 5 w:50 h:4>
 Fei
-"According to what the Doc
-says, his condition has
-gotten a lot better.<New>
-It seems like Carl has
-regained his will to
-live again."<Close><End of Block>
-<TextBlock 6 w:50 h:4>
+"He's already feeling
+much better, according
+to the Doc.<New>
+It seems he's really
+regained whatever meaning
+to his existence he'd
+lost sight of."<Close><End of Block>
+<TextBlock 6 w:48 h:4>
 Fei
 "So much has happened
 between him and I...<New>
-When this battle ends, I
-want to face Ramsus one
-on one in sport, not war,
+When this battle's over,
+I'd like to try having
+a duel with Ramsus,
 as a martial artist."<Close><End of Block>
 <TextBlock 7 w:24 h:2>
 Fei
 "Perhaps..."<Close><End of Block>
 <TextBlock 8 w:50 h:4>
 Citan
-"Yes, well, at first, he
-had lost faith in himself
-but now he is better.<New>
-Carl has revived himself,
-and has found some real
-meaning in his life.<New>
-If he decides to fight on
-our side then our total
-fighting power shall be
-greatly increased."<Close><End of Block>
+"Yes.<Delay 10>
+He had lost himself at
+first, but is fine now.<New>
+Carl is like a new man.<Delay 10>
+He has found the real
+meaning of his existence.<New>
+If he were to fight
+alongside us, our battle
+strength would be greatly
+boosted.."<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Zephyr
-"The snow keeps falling...<Delay 20>
-Softly covering up
-everything in this world...<New>
-Our sorrow, our defilement,
-our mistakes...<Delay 20> If only we
-could wipe away these
-things as easily as that...<New>
-What have we...<Delay 20>have I...<Delay 20>
-been doing...<Delay 20>
-been pursuing...<Delay 20>
-for these past 500 years?"<Close><End of Block>
-<TextBlock 10 w:42 h:4>
+"Snow is falling...<Delay 20>
+Gently shrouding everything
+in this world...<New>
+Our sorrow, our disgrace,
+our mistakes...<New>
+If only we could erase
+them the same way the
+world has been covered
+up by this snow...<New>
+What have we <--><Delay 10> have I <--><Delay 10>
+been doing these past 500
+years?"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
 Zephyr
-"By the way...<Delay 20><New>
-How is the person 
-you rescued from 
-Merkabah?<New>
+"Speaking of which...<New>
+how have things been
+with the person you
+rescued from Merkabah?<New>
 I heard he recovered
 consciousness..."<Close><End of Block>
-<TextBlock 11 w:40 h:3>
+<TextBlock 11 w:38 h:3>
 Zephyr
-"I am sure he wishes
-the same thing too."<Close><End of Block>
-<TextBlock 12 w:52 h:4>
+"I am sure he would
+want that too."<Close><End of Block>
+<TextBlock 12 w:54 h:4>
 Zephyr
 "Fei...
 May I ask you something?<New>
-About Elly...<Delay 20>
-What if, even if we break
-the Zohar's spell,<New>
-she doesn't
-return to normal..."<Close><Close><End of Block>
+Elly...<Delay 20>
+What if, even when we break
+the Zohar's spell, she does
+not return to normal...?"<Close><Close><End of Block>

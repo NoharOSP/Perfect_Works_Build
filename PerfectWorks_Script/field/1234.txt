@@ -5,10 +5,10 @@ were drifting for
 the fun of it..."<Close><End of Block>
 <TextBlock 2 w:6 h:1>
 ...<Opcode 2 100><Close><End of Block>
-<TextBlock 3 w:30 h:3>
+<TextBlock 3 w:26 h:3>
 Fei
-"What the?
-That guy's...?"<Close><End of Block>
+"What's with
+that guy...?"<Close><End of Block>
 <TextBlock 4 w:32 h:3>
 Fei
 "What the hell
@@ -121,7 +121,7 @@ charge."<Close><End of Block>
 Captain
 "Yes, yes, I know...
 But how come it's only
-you that's so calm?"<Close><End of Block>
+you who's so calm?"<Close><End of Block>
 <TextBlock 33 w:30 h:2>
 Captain
 "Hoho, I see."<Close><End of Block>

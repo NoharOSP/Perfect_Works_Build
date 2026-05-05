@@ -7,7 +7,7 @@ ask you some questions."<Close><End of Block>
 Margie
 "I'm Margie.
 Actually it's Marguerite.
-What do you want to know?<New>
+What d'you want to know?<New>
 My favorite food? I like
 cake <--> Chiffon Nisana
 is my favorite. I haven't
@@ -40,11 +40,11 @@ I don't think they
 make it in Av.<New>
 Av used to have such
 good bakers, but I
-guess they must have
+guess they must've
 all died in the war."<Close><End of Block>
 <TextBlock 5 w:46 h:4>
 Ramsus
-"That is too bad.<New>
+"That's too bad.<New>
 I don't know much about
 cake, but I'll see if I
 can find some for you
@@ -141,5 +141,5 @@ Please wait a moment.<Opcode 2 30><Close><End of Block>
 This is the room 
 Mother Marguerite was 
 locked away in.<New>
-She must have been so
+She must've been so
 terrified.<Close><Close><End of Block>

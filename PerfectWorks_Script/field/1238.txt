@@ -154,7 +154,7 @@ Let's play again.<Close><End of Block>
  Received a Zetasol DX.<Close><End of Block>
 <TextBlock 44 w:50 h:2>
  
- Received a Physimentsol.<Close><End of Block>
+ Received Physimentsol.<Close><End of Block>
 <TextBlock 45 w:40 h:2>
  
  Received a Rosesol.<Close><End of Block>
@@ -169,7 +169,7 @@ Let's play again.<Close><End of Block>
  Received an Aquasol S.<Close><End of Block>
 <TextBlock 49 w:48 h:2>
  
-Received an Atk Lv1 Max.<Close><End of Block>
+ Received Atk Lv1 Max.<Close><End of Block>
 <TextBlock 50 w:30 h:2>
 Hmm, you're not
 ready yet.<Close><End of Block>

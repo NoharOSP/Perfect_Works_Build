@@ -24,8 +24,8 @@ Elly
 point of the escort,<New>
 but what's the location
 of the main target?"<Close><End of Block>
-<TextBlock 5 w:38 h:1>
-That is classified.<Close><End of Block>
+<TextBlock 5 w:36 h:1>
+That's classified.<Close><End of Block>
 <TextBlock 6 w:52 h:4>
 Elly 
 "But unless we know the

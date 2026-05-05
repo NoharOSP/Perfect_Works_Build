@@ -796,7 +796,7 @@ Committee on you!"<Close><End of Block>
 Rico's Henchman
 "Yeah, he's definitely had
 his Gear equipped with parts
-that are in violation of the
+that're in violation of the
 rules, or somethin'!"<Close><End of Block>
 <TextBlock 147 w:22 h:2>
 Rico
@@ -864,10 +864,10 @@ now."<Close><End of Block>
 Rico's Henchman
 "Champ! <Delay 5>Wait up!<Delay 15>
 Let us go with you<Delay 5>..."<Close><End of Block>
-<TextBlock 160 w:56 h:4>
+<TextBlock 160 w:52 h:4>
 Rico
-"I am no longer the Champ!
-You guys will just get in my
+"I'm no longer the Champ!<Delay 10>
+You guys'll just get in my
 way,<Delay 15> so don't follow me.<New>
 You got that?"<Close><End of Block>
 <TextBlock 161 w:58 h:2>
@@ -876,9 +876,9 @@ Rico's Henchman
 <TextBlock 162 w:30 h:2>
 Rico's Henchman
 "<Delay 5>...<Delay 5>Riiicoooo!"<Close><End of Block>
-<TextBlock 163 w:54 h:4>
+<TextBlock 163 w:52 h:4>
 Hammer
-<Opcode 1 100>"This means I am acquitted!
+<Opcode 1 100>"This means I'm acquitted!
 Cleared! Oh, how the free
 world outside beckons us!"<Opcode 2 120><Close><End of Block>
 <TextBlock 164 w:48 h:3>

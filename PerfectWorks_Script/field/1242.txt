@@ -41,7 +41,7 @@ You have too many
 SerpentGWhips.<Close><End of Block>
 <TextBlock 14 w:48 h:2>
  
-Received a SerpentGWhip.<Close><End of Block>
+ Received SerpentGWhip.<Close><End of Block>
 <TextBlock 15 w:34 h:2>
 You have too many
 D Circuits.<Close><End of Block>
@@ -232,7 +232,7 @@ But I'll give this to
 you anyway.<Close><End of Block>
 <TextBlock 53 w:48 h:2>
  
- Received Super Goggles.<Close><End of Block>
+ Received SuperGoggles.<Close><End of Block>
 <TextBlock 54 w:24 h:2>
 Huh?
 What a wimp.<Close><End of Block>

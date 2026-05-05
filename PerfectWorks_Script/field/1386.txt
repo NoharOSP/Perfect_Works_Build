@@ -1,27 +1,27 @@
 <TextBlock 1 w:10 h:2>
 Kim
 "..."<Close><End of Block>
-<TextBlock 2 w:52 h:3>
+<TextBlock 2 w:38 h:4>
 Kim
-"...It's no good...
-...It's not gonna work..."<Close><End of Block>
-<TextBlock 3 w:52 h:4>
+"...It's no good.<Delay 10>
+...The way things
+are, it's no good."<Close><End of Block>
+<TextBlock 3 w:50 h:4>
 Kim
-"Somehow we must break the
-spell or the humans on
-this planet will die out.<New>
-No, I don't care about
-humans... Life itself will
-be ruined if we don't do
-something..."<Close><End of Block>
-<TextBlock 4 w:28 h:4>
+"If we don't break the
+spell, the people of this
+planet are done for.<New>
+No, never mind people.<Delay 10>
+If we don't do something,
+life itself will be no
+more..."<Close><End of Block>
+<TextBlock 4 w:54 h:3>
 Kim
-"Some...<Delay 45>
-pure life...<Delay 15>
-not cursed..."<Close><End of Block>
-<TextBlock 5 w:32 h:2>
+"If I could somehow...<Delay 45>
+A pure life...<Delay 15>untainted..."<Close><End of Block>
+<TextBlock 5 w:24 h:2>
 Kim
-"A pure life..."<Close><End of Block>
+"Somehow..."<Close><End of Block>
 <TextBlock 6 w:0 h:1>
 <End of Block>
 <TextBlock 7 w:0 h:0>

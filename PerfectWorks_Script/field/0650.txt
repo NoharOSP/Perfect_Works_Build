@@ -2,7 +2,7 @@
 Fei
 "Stop!
 Keep your hands
-off of 'Elly'!"<Opcode 2 60><Close><End of Block>
+off 'Elly'!"<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:36 h:3>
 Fei
 "Are you alright!?
@@ -27,7 +27,7 @@ Mysterious Woman
 Mysterious Woman
 "...You don't seem to be
 one of the Kislev soldiers
-who are after me...<Delay 50>but..."<Opcode 2 100><Close><End of Block>
+who're after me...<Delay 50>but..."<Opcode 2 100><Close><End of Block>
 <TextBlock 9 w:32 h:2>
 Mysterious Woman
 "Don't move!"<Close><End of Block>

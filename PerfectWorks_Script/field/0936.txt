@@ -87,11 +87,10 @@ Fei
 "Just forget about it.
 You couldn't help it...
 You had your own problems."<Close><End of Block>
-<TextBlock 20 w:24 h:4>
+<TextBlock 20 w:44 h:3>
 Elly
-"But Fei...
-why are you
-with them?"<Close><End of Block>
+"But, Fei...
+why're you with them?"<Close><End of Block>
 <TextBlock 21 w:50 h:3>
 Fei
 "I'm cooperating with
@@ -105,7 +104,7 @@ Elly
 <TextBlock 23 w:40 h:4>
 Bart
 "Hey! Just a minute!
-Where do you think
+Where d'you think
 you're going?"<Close><End of Block>
 <TextBlock 24 w:50 h:3>
 Elly

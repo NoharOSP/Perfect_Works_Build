@@ -1,61 +1,67 @@
-<TextBlock 1 w:42 h:1>
-What's this movie...?<Close><End of Block>
-<TextBlock 2 w:44 h:3>
-A record of the Zeboim
-civilization that died
-out 4000 years ago.<Close><End of Block>
-<TextBlock 3 w:42 h:2>
-Stop!
-Who is this woman...?<Close><End of Block>
-<TextBlock 4 w:46 h:4>
-Myyah, as she appeared
-in the Zeboim era.
-But I don't know who
-her host body was.<New>
-She resided at the side
-of the Prime Minister,
-manipulating the world
-behind the scenes.<Close><End of Block>
-<TextBlock 5 w:36 h:1>
-To resurrect Deus?<Close><End of Block>
-<TextBlock 6 w:54 h:4>
-In the beginning, yes.
-But her goal changed
-later on.<New>
-Many people then couldn't
-have children. They were
-defective humans...<New>
-So...she basically reset
-them.<Close><End of Block>
-<TextBlock 7 w:56 h:4>
-Right before man was about
-to be wiped out by war, a
-new being was born to foster
-the next generation.<New>
-Remember the missiles in
-the Mass Driver facility?
-They are relics from
-the Zeboim people.<New>
-As a result, we now are
-descendants of the few
-strong people who survived.<Close><End of Block>
-<TextBlock 8 w:54 h:4>
+<TextBlock 1 w:40 h:1>
+What's this film...?<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+It's a documentary from
+the Zeboim civilization
+that was destroyed
+4000 years ago.<Close><End of Block>
+<TextBlock 3 w:38 h:2>
+Wait!<Delay 5>
+I-Is that woman<-->!?<Close><End of Block><Close><End of Block>
+<TextBlock 4 w:50 h:4>
+The Myyah of the Zeboim
+era.<Delay 10> But I don't know
+who it was that had
+become the complement.<New>
+As a close aide of the
+nation's leader at that
+time, she manipulated the
+world behind the scenes.<Close><End of Block>
+<TextBlock 5 w:40 h:2>
+For the resurrection
+of Deus?<Close><End of Block>
+<TextBlock 6 w:56 h:4>
+At first, yes.<Delay 10> But in the
+end it was different.<New>
+Many of the people back then
+were biologically unfit to
+bear children.<Delay 10> As humans
+they were damaged goods.<New>
+So...<Delay 5>she started over again.<Close><End of Block>
+<TextBlock 7 w:56 h:5>
+She tried to drive humanity
+to near-extinction by war,
+and then allow the next age
+to be inherited by the new
+lifeforms being born.<New>
+There was a missile array
+in the Mass Driver facility,
+right?<Delay 10> That's the legacy of
+the Zeboim people of that
+time.<New>
+And we are the result,<Delay 5>
+the descendants of the
+few resilient humans
+who survived.<Close><End of Block>
+<TextBlock 8 w:46 h:4>
 Fei
-"A slipping economy...
-Rising crime...
-Urban blight...<New>
-A nation of fanatics
-looking for their own
-living space...<New>
-...believing in religious-
-sect leaders and gathering
-around totalitarian rulers.<New>
-These people were cut off
-from the next generation
-thanks to genetic damage...<New>
-...and would have died out,
-if left to their own
-devices.<New>
-So, Elly and I took the
-hopes of the people and
+"A troubled economy,
+rampant crime...<Delay 10>
+a city in decline.<New>
+A fanatical nation
+looking for something
+to believe in,<New>
+assembling under
+dictators and
+religious leaders.<New>
+People unable to live
+on into the next era
+because of genetic
+defects.<New>
+They were going to die
+out if nothing was done
+about it.<New>
+That's why,<Delay 5> with the
+hope of humanity riding
+on it,<Delay 5> Elly and I
 created Emeralda..."<Close><Close><End of Block>

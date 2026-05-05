@@ -15,15 +15,16 @@ and acting aimlessly.<Close><End of Block>
 <TextBlock 5 w:36 h:4>
 No<Delay 3>...<Delay 3>that's
 not the case.<New>
-In Av,<Delay 3> you helped
-Bart when he
-needed you.<New>
-And in Kislev,<Delay 3>
-you gave your all
-to defend,<Delay 8> to
-save everyone.<New>
+In Av,<Delay 3> didn't
+you work together
+with Bart and his
+people?<New>
+And Kislev,<Delay 3> you
+said you'd give
+your all to defend
+it,<Delay 8> to save it.<New>
 You've even shown
-concern<Delay 3> for me
+concern for me
 many times.<Close><End of Block>
 <TextBlock 6 w:34 h:2>
 No<Delay 3>...<Delay 8>
@@ -42,14 +43,14 @@ Because if I did something
 for them<Delay 3>...<Delay 3>then maybe
 <Delay 3>I'd <Delay 3>have a place to
 belong<Delay 3>...<New>
-There's a side of me that
-is comforted that way.<New>
+There's a side of me
+that's comforted that way.<New>
 Like I said back there in
 Noatun, that's certainly
 not zero.<New>
 But it's not<Delay 5>
 'one' either.<New>
-While I was behaving this
+While I was acting this
 way, drifting,<Delay 8> I met you,
 Elly...<New>
 and now we're stranded
@@ -174,13 +175,15 @@ really done for."<Close><End of Block>
 Elly
 "I guess there's no other
 way. I was hoping to save
-this a little longer..."<Close><End of Block>
-<TextBlock 26 w:54 h:3>
+these a little longer..."<Close><End of Block>
+<TextBlock 26 w:40 h:4>
 Elly
-"This should hold us
-for another day...<New>
-But it's only for emergency
-calories so I can't vouch
+"We should get by
+for another day or
+so with these...<New>
+But they're only for
+emergency calories
+so I can't vouch
 for the taste..."<Close><End of Block>
 <TextBlock 27 w:44 h:4>
 Fei
@@ -206,14 +209,14 @@ Elly
 "You forced yourself to
 eat those rations for me
 earlier, didn't you?<New>
-If I was considering only
-my own survival, it would
-have been better to keep
-them for myself.<New>
+If I was considering
+only my own survival, it
+would've been better to
+keep them for myself.<New>
 But you know, watching you
 doing your best to eat it,
 I too felt comforted.<New>
-I was glad that I had
+I was glad that I'd
 shared them with you...
 It made me feel a little
 better."<Close><End of Block>

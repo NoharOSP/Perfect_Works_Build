@@ -27,9 +27,9 @@ Rico
 Rico
 "Just forget
 about it..."<Close><End of Block>
-<TextBlock 7 w:48 h:2>
+<TextBlock 7 w:50 h:2>
  
-Received Memento Chain.<Close><End of Block>
+ Received Memento Chain.<Close><End of Block>
 <TextBlock 8 w:44 h:2>
 Rico
 "...<Delay 30>I've seen this..."<Close><End of Block>

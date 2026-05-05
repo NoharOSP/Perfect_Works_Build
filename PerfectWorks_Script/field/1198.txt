@@ -2,50 +2,48 @@
 Rico
 "If you're looking for
 Citan, he was at the
-Gear Shop..."<Close><End of Block>
-<TextBlock 2 w:42 h:4>
+Gear shop..."<Close><End of Block>
+<TextBlock 2 w:40 h:4>
 <Chu-Chu>
-"I'm exhauschued chu!<Delay 10>
-Since you're here...<Delay 10>
-I'd like a massage!!<New>
+"I get tired chu, so
+I'd like a massage!!<Delay 20>
 Just kidding..."<Close><End of Block>
-<TextBlock 3 w:52 h:4>
+<TextBlock 3 w:54 h:4>
 <Chu-Chu>
-"Elly, she was so kind...
-I know I'm not the only
-one chu miss her.<New>
-I know Bart, Margie,
-Billy, Citan, Rico,
-Maria, Emeralda, and
-Fei all do chu...<New>
-Although they don't say
-it, I can feel it...
+"Elly, she was so kind...<Delay 10>
+I can't be the only one who
+misses her now she's gone.<New>
+Surely Bart, Margie,
+Billy, Doc, Rico, Maria,
+Emeralda, and of course
+Fei do chu...<New>
+You don't say it out loud,
+but I can tell...<New>
 Standing here, I remember
-her kind and gentle smile.<New>
-Elly will return, won't
-she?"<Close><End of Block>
-<TextBlock 4 w:46 h:4>
+her kind smile...<New>
+Elly will come back,
+won't she?"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
 Fei
-"...
+"...<Delay 20>
 Thanks, <Chu-Chu>...<New>
-Thanks for trying to
-reduce all this tension
-in the air for me.<Delay 5>
-I'll remember this...<New>
-Anyway...<Delay 5>
+Thanks for trying to ease
+the tense atmosphere around
+here. Your feelings...
+I won't forget about them.<New>
 Elly's gotta be alive!
 Right?"<Close><End of Block>
 <TextBlock 5 w:18 h:2>
 <Chu-Chu>
 "Fei..."<Close><End of Block>
-<TextBlock 6 w:54 h:3>
+<TextBlock 6 w:50 h:4>
 Fei
-"Let's go back to the room.
-Margie seemed worried."<Close><End of Block>
-<TextBlock 7 w:30 h:3>
+"Okay, let's get you back
+to your room.<Delay 10> Margie was
+worried about you."<Close><End of Block>
+<TextBlock 7 w:26 h:2>
 <Chu-Chu>
-"Okay.
-I'll come chu!"<Close><End of Block>
+"Chu got it."<Close><End of Block>
 <TextBlock 8 w:48 h:5>
 What do you want to do?<Delay 10>
 <Opcode 1 255>    View Gear from here
@@ -196,17 +194,14 @@ to maintain the Gear.<New>
 The surface hovering and
 flight capabilties are
 quite impressive.<Close><End of Block>
-<TextBlock 16 w:38 h:4>
-This is...
-huh, <Chu-Chu>!?
-What in the world
-are you doing here!<New>
+<TextBlock 16 w:50 h:4>
+This is...<Delay 10>um, <Chu-Chu>!
+What're you doing here!?<Delay 10>
 You don't need any
 maintenance work!!<New>
-You're in the way!
-Go eat some food
-and take a nap or
-sumthin'!<Close><End of Block>
+You're in the way!<Delay 5>
+Go eat something and
+get some sleep already!<Close><End of Block>
 <TextBlock 17 w:48 h:3>
 Change this Gear's name?<Delay 10>
 <Opcode 1 255>    Yes

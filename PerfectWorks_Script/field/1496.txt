@@ -76,6 +76,6 @@ has given up!"<Close><End of Block>
 <TextBlock 19 w:48 h:2>
 Can't receive <Opcode 4 20>
 You have too many.<Close><End of Block>
-<TextBlock 20 w:38 h:2>
+<TextBlock 20 w:40 h:2>
  
-Received <Opcode 4 20><Close><Close><End of Block>
+ Received <Opcode 4 20><Close><Close><End of Block>

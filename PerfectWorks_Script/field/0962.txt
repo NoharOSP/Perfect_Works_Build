@@ -23,7 +23,7 @@ kid!"<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 Maitreya
 "Our job is to slow them
-down.<Delay 32> So how do you want
+down.<Delay 32> So how d'you want
 to do it?"<Close><End of Block>
 <TextBlock 6 w:0 h:1>
 <Close><End of Block>

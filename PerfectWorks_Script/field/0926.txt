@@ -19,9 +19,9 @@ very becoming,
 you know..."<Close><End of Block>
 <TextBlock 5 w:52 h:4>
 Myyah
-"Heh heh... I saw the boy
-that you are after fight
-in the Tournament...<New>
+"Heh heh...
+I saw the boy you're after
+fight in the Tournament...<New>
 I could tell right away.
 He resembles you greatly."<Close><End of Block>
 <TextBlock 6 w:50 h:4>
@@ -29,7 +29,7 @@ Grahf
 "You used the influence
 of the Ministry to set
 you up with that man...<New>
-I don't know what you are
+I don't know what you're
 up to, but don't you dare
 think about plotting
 against me.<New>

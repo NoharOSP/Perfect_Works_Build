@@ -307,12 +307,12 @@ system engaged...<Close><End of Block>
 <TextBlock 79 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 80 w:38 h:2>
+<TextBlock 80 w:40 h:2>
  
-Received <Opcode 4 20><Close><End of Block>
+ Received <Opcode 4 20><Close><End of Block>
 <TextBlock 81 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 82 w:38 h:2>
+<TextBlock 82 w:40 h:2>
  
-Received <Opcode 4 20><Close><Close><End of Block>
+ Received <Opcode 4 20><Close><Close><End of Block>

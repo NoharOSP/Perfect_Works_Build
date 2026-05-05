@@ -1,56 +1,62 @@
-<TextBlock 1 w:56 h:10>
-<Opcode 1 255>...former WWW Heavy
-Weight Champion and 5 time
-hit movie star BIG JOE (Real
-name: Joey Balboa) added
-NBA's player-of-the-match to
-his list of accomplishments
-for the year, which includes
-the Wimbledon Grandslam, a
-baseball triple-crown and 
-the Pulitzer prize.<New>
-But at the awards' ceremony,
-when he went to shake hands,
-he slipped, hit his head
-and went home brain-damaged,
-burnt out and thinking he's 
-Elvis...<Close><End of Block>
-<TextBlock 2 w:60 h:12>
-<Opcode 1 255>The 'ELDRIDGE' was equipped
-with history's first ever
-inexhaustible pseudo-perpetual
-engine. This was not just a
-highly efficient generator,
-but it also made possible
-the production of defense
-fields from its unique 'A.O.
-(Absolute Object) space' and
-the actuation of hyper-light-
-speed 'S.V. (Subject Variable)
-navigation' etc..<New>
- With a design based on the
-Heisenberg proposition's S
-Matrix, which is the solution 
-to the Uncertainty Principle's
-reciprocal relationship of
-particles (or Cosmic Wave),
-it was thus also known as the
-'S Matrix Engine' or 
+<TextBlock 1 w:56 h:11>
+<Opcode 1 255>...Pulitzer Prize-winning
+author and former WCW
+heavyweight champion Big Joe
+(real name Joey Balboa, now
+an NBA coach) has, along
+with his first Grand Slam
+at NASCAR, achieved a
+perfect game and secured
+this year's Triple Crown
+as well as the Shelley
+Memorial Award.<New>
+He fell down while shaking
+hands at an award ceremony.
+Hitting the back of his
+head, he started thinking
+he was Elvis, and is
+believed to have later
+succumbed to his injury
+at home. They say the flame
+that burns twice as bright
+burns half as long...<Close><End of Block>
+<TextBlock 2 w:62 h:12>
+<Opcode 1 255>The inexhaustible pseudo-
+permanent engine that was
+installed for the first time
+ever on the 'Eldridge'.
+Not just a high-efficiency
+generator, it also makes
+possible the ship's unique
+defense field via 'AO
+(absolute-object) space',
+its faster-than-light
+'SV (subject-variable)
+navigation', and so on.<New>
+Since it is designed based
+on the scattering matrix
+proposed by Heisenberg, which
+is a solution to the inter-
+relationship of particles
+under the uncertainty
+principle (the cosmic web),
+it is also known as the
+'S-Matrix Engine' or
 'Heisenberg Engine'.<New>
- In principle, assuming all
+In essence, it regards the
 phenomena of the immediate
 future, including the present,
-are potential phenomena, it
-actualizes the most convenient
-phenomenon amongst these
-active subjects as the actual
-phenomenon and accordingly
-takes advantage of the
-resulting energy potential
-displacements.<Close><End of Block>
+as potential phenomena,
+actualizing as real events
+whichever phenomena among
+these are the most 'convenient'
+to the active subject, and
+proactively making use of the
+resultant energy-potential
+displacement.<Close><End of Block>
 <TextBlock 3 w:34 h:2>
 You have too many
 <Opcode 4 20><Close><End of Block>
-<TextBlock 4 w:38 h:2>
+<TextBlock 4 w:40 h:2>
  
-Received <Opcode 4 20><Close><Close><End of Block>
+ Received <Opcode 4 20><Close><Close><End of Block>

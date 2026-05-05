@@ -39,7 +39,7 @@ bridge.<Close><End of Block>
 <TextBlock 10 w:46 h:3>
 This is the supply
 entrance but it also
-serves as a Gear Shop!!<Close><End of Block>
+serves as a Gear shop!!<Close><End of Block>
 <TextBlock 11 w:42 h:2>
 Now you know. Now get
 out of here!! G'wan!<Close><End of Block>

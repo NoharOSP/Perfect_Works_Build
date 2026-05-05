@@ -13,27 +13,27 @@ well as they say."<Close><End of Block>
     Dining hall<Close><End of Block>
 <TextBlock 3 w:30 h:1>
 Is it alright?<Close><End of Block>
-<TextBlock 4 w:54 h:4>
+<TextBlock 4 w:52 h:4>
 Shakhan
-"I can't prevent them from
-meeting her. Not when it's
-him we are talking about...<New>
+"I can't prevent them
+from meeting her. Not with
+that man on their side.<New>
 In any case, Marguerite
 isn't talking.
-So there is no need to
+So there's no need to
 worry...<New>
 But where did the leak
 about the Jasper come
 from...?<New>
 ...The Church?
-Ridiculous...! Hmmm,
-if this continues my
-plans will be..."<Close><End of Block>
-<TextBlock 5 w:48 h:4>
+Ridiculous...!
+Hmmm, if this continues
+my plans will be<-->"<Close><End of Block>
+<TextBlock 5 w:50 h:4>
 Shakhan
-"We had better find out
-who is leaking out our
-information immediately.<New>
+"We'd better find out
+who's leaking our
+information, immediately.<New>
 In the meantime, we'll
 have to administer some
 truth serum to our
@@ -54,5 +54,5 @@ sent their highest
 commanding officer.<New>
 His country is throwing all
 their weight into this.
-And there is nothing we can
+And there's nothing we can
 do about it!"<Close><Close><End of Block>

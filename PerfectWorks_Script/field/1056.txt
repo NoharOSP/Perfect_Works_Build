@@ -1,7 +1,7 @@
-<TextBlock 1 w:36 h:3>
+<TextBlock 1 w:34 h:3>
 Rico
 "<Delay 5>...<Delay 5>Why?<Delay 15>
-Why are you here?"<Close><End of Block>
+Why're you here?"<Close><End of Block>
 <TextBlock 2 w:54 h:4>
 Fei
 "To get this back.<Delay 15>

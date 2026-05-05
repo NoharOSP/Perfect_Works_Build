@@ -159,7 +159,7 @@ Registration Booth.<Delay 10>
 <TextBlock 24 w:40 h:1>
 Please sign in here.<Close><End of Block>
 <TextBlock 25 w:42 h:4>
-You are signed up.
+You're signed up.
 The Tournament begins
 tomorrow. Please make
 sure to be here.<Close><End of Block>
@@ -467,7 +467,7 @@ For sure. The soldiers
 are crazy about it. If
 Kislev attacked tomorrow
 Av would be dust.<New>
-What are you gonna do?
+What're you gonna do?
 Registration's not over
 yet, but all the strong
 ones have signed up.<New>

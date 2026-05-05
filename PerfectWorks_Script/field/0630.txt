@@ -140,12 +140,12 @@ Alice
 "Fei...<Delay 20>
 Have you ever thought
 about things this way?"<Close><End of Block>
-<TextBlock 32 w:36 h:4>
+<TextBlock 32 w:34 h:4>
 Alice
-"If...<Delay 20> If you had
+"If...<Delay 20> If you'd
 only been born in
 this village...<New>
-And if we had only
+And if we'd only
 known each other
 earlier on..."<Close><End of Block>
 <TextBlock 33 w:34 h:4>

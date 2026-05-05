@@ -20,12 +20,11 @@ you just do?"<Close><End of Block>
 <TextBlock 5 w:14 h:2>
 Bart
 "Hey!!"<Close><End of Block>
-<TextBlock 6 w:46 h:4>
+<TextBlock 6 w:48 h:4>
 Bart
-"What do you mean
-'huh'!? What in blazes
-was that?<New>
-...You don't know?"<Close><End of Block>
+"What d'you mean 'huh'!?<Delay 10>
+What in blazes was that?<Delay 10>
+...Don't you know?"<Close><End of Block>
 <TextBlock 7 w:46 h:4>
 Bart
 "That was incredible!

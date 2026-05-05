@@ -75,7 +75,7 @@ for not obeying lights-out,
 or anything like that, is it?<New>
 Beyond this door is the
 Gear hangar.<Delay 10>
-The Gear Shop is located
+The Gear shop is located
 in the Gear hangar too!<New>
 Now be careful...!<Delay 10>
 The Gears are so big that

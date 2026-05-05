@@ -1,10 +1,10 @@
 <TextBlock 1 w:30 h:2>
 Bart
 "(Behind me!?)"<Close><End of Block>
-<TextBlock 2 w:42 h:4>
+<TextBlock 2 w:40 h:4>
 Bart
 "<Delay 10>.<Delay 10>.<Delay 10>.<Delay 45>
-What are you suddenly
+What're you suddenly
 attacking me for!?"<Close><End of Block>
 <TextBlock 3 w:48 h:3>
 Bart

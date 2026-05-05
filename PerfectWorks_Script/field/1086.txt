@@ -63,7 +63,7 @@ Fei
 "...What?"<Close><End of Block>
 <TextBlock 19 w:28 h:3>
 Fei
-"Why are there
+"Why're there
 so many keys?"<Close><End of Block>
 <TextBlock 20 w:24 h:3>
 Fei
@@ -338,10 +338,10 @@ nicer around here."<Close><End of Block>
 <TextBlock 83 w:18 h:2>
 Gramps
 "Thanks."<Close><End of Block>
-<TextBlock 84 w:48 h:3>
+<TextBlock 84 w:46 h:3>
 Rico
 "Hey, old timer!
-What are you doing here?<New>
+What're you doing here?<New>
 I thought the entrance
 was blocked off."<Close><End of Block>
 <TextBlock 85 w:30 h:4>

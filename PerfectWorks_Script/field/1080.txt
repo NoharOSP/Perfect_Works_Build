@@ -80,9 +80,9 @@ him with another puppet.<New>
 What if we exhausted our
 resources and found our-
 selves under attack?<New>
-And then there is Nisan
+And then there's Nisan
 to consider.
-There is nothing to gain
+There's nothing to gain
 by doing anything now."<Close><End of Block>
 <TextBlock 21 w:32 h:3>
 Sigmund
@@ -92,10 +92,10 @@ have arrived..."<Close><End of Block>
 Sigmund
 "What can I do
 for you two?"<Close><End of Block>
-<TextBlock 23 w:34 h:3>
+<TextBlock 23 w:32 h:3>
 Sigmund
 "!!<Delay 30> I see...
-So you are Fei...<New>
+So you're Fei...<New>
 Welcome."<Close><End of Block>
 <TextBlock 24 w:44 h:4>
 Sigmund

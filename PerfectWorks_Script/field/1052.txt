@@ -444,9 +444,9 @@ Wiseman
 Fei
 "Yeah<Delay 5>...<Delay 5>
 three times."<Close><End of Block>
-<TextBlock 73 w:42 h:3>
+<TextBlock 73 w:40 h:3>
 Wiseman
-"It's amazing you are
+"It's amazing you're
 still in one piece."<Close><End of Block>
 <TextBlock 74 w:44 h:4>
 Fei
@@ -529,14 +529,14 @@ from him since."<Close><End of Block>
 Fei
 "Grahf said that my
 father was<Delay 10> dead<Delay 5>..."<Close><End of Block>
-<TextBlock 83 w:42 h:4>
+<TextBlock 83 w:40 h:4>
 Wiseman
 "Hmmm<Delay 5>...<Delay 5> If Grahf is
 now appearing before 
 you again<Delay 5>...<New>
 then that is a
 possibility<Delay 5>...<Delay 30>
-That is truly
+That would be truly
 unfortunate..."<Close><End of Block>
 <TextBlock 84 w:50 h:4>
 Wiseman
@@ -547,14 +547,14 @@ techniques?"<Close><End of Block>
 Fei
 "Huh?<Delay 15>
 No<Delay 5>...<Delay 5>nothing<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 86 w:50 h:4>
+<TextBlock 86 w:48 h:4>
 Wiseman
 "Hmmm,<Delay 5> your fighting
-skills<Delay 5> were probably
-taught to you by<Delay 5> Khan.<New>
+skills were probably
+taught to you by Khan.<New>
 Khan and I both studied
 under the same master.<Delay 15>
-That is why my techniques
+That's why my techniques
 are similar to yours."<Close><End of Block>
 <TextBlock 87 w:36 h:3>
 Wiseman

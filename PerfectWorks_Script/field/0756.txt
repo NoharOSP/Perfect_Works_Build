@@ -416,10 +416,10 @@ as well."<Close><End of Block>
 Citan
 "And part of those plans
 is piracy...?"<Close><End of Block>
-<TextBlock 89 w:42 h:4>
+<TextBlock 89 w:40 h:4>
 Mason
 "Well, yes<Delay 5>...<Delay 10> 
-But there is a reason
+But there's a reason
 for that<Delay 5>..."<Close><End of Block>
 <TextBlock 90 w:50 h:4>
 Mason

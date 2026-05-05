@@ -1,44 +1,43 @@
-<TextBlock 1 w:46 h:4>
+<TextBlock 1 w:48 h:4>
 Kim
-"This, this is the new
-spirit vessel that will
-break the curse."<Close><End of Block>
+"This is it,<Delay 5> this is the
+vessel for a new soul,<Delay 5>
+to break the spell."<Close><End of Block>
 <TextBlock 2 w:54 h:4>
 Kim
 "It hasn't awakened yet.<New>
-The form was created by
-nanomachines, but neural
-simulation hasn't been done
-by the Assembler Tower yet.<New>
-It's physically stable,
-but still doesn't function
-as a living creature yet."<Close><End of Block>
-<TextBlock 3 w:46 h:4>
+It's been given exterior
+form by the nanomachines,<New>
+but neural simulation by
+the assembler tower is
+still to be done.<New>
+At present, it's physically
+stable but not functioning
+as a lifeform."<Close><End of Block>
+<TextBlock 3 w:54 h:4>
 Kim
-"No matter how many
-times we rewrite the
-heredity codes...<New>
-...the impressions
-embedded in our bodies
-cannot be stopped.<New>
-It was necessary to
-pursue this further.
-We had to recreate
-the molecular...no...<New>
-...actually the atomic
-level, by referring to
-the structural patterns
-of you and I."<Close><End of Block>
-<TextBlock 4 w:38 h:4>
+"Even if we were to
+rewrite the genetic code,<New>
+we can't do anything
+about the limitations
+written into our bodies.<New>
+It was necessary to explore
+more deeply.<Delay 10> We had to
+rebuild at the molecular<-->
+No, at the atomic level.<New>
+...Referring to the body-
+composition patterns of
+you and I."<Close><End of Block>
+<TextBlock 4 w:42 h:4>
 Kim
-"This child...holds
-our futures and
-possibilities..."<Close><End of Block>
+"With this child...<Delay 5>
+lies our future,<Delay 5>
+and our potential..."<Close><End of Block>
 <TextBlock 5 w:50 h:2>
 Elly
 "A nanomachine colony..."<Close><End of Block>
-<TextBlock 6 w:44 h:4>
+<TextBlock 6 w:52 h:4>
 Elly
-"Can this child be the
-angel who can give us
-more time?"<Close><Close><End of Block>
+"Could this child be the
+angel who'll bring time to
+we who rush through life?"<Close><Close><End of Block>

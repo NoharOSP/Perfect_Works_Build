@@ -219,17 +219,17 @@ Bart
 "Yeah,<Delay 10> I know the
 feeling<Delay 10> of just wanting
 to run away from reality.<New>
-But do you think the kids
+But d'you think the kids
 left behind in your
 village would understand?"<Close><End of Block>
 <TextBlock 52 w:6 h:1>
 ...<Close><End of Block>
-<TextBlock 53 w:54 h:4>
+<TextBlock 53 w:52 h:4>
 Bart
 "Citan told me what
 happened in Lahan.<New>
-Would it have been better
-if you had done nothing?<New>
+Would it've been better
+if you'd done nothing?<New>
 Sure, maybe what happened
 was a direct result of you
 getting in the Gear.<New>
@@ -244,15 +244,15 @@ And unless you get rid of
 the cause, nothing will
 change.<Delay 10> I fight to get
 rid of the cause...<New>
-Right now there is no
+Right now there's no
 other way, so I have to
 fight...<Delay 10> But that doesn't
 mean I enjoy it."<Close><End of Block>
 <TextBlock 54 w:50 h:4>
 Bart
-"I understand why you
-would feel guilty about
-the kids in your village.<New>
+"I understand why you'd
+feel guilty about the
+kids in your village.<New>
 And I know why you don't
 want to harm others.<New>
 But if you want to make
@@ -357,7 +357,7 @@ carry so heavy a
 responsibility.<New>
 But he does try to do
 his best, you know?<New>
-That is why we stick
+That's why we stick
 by him... It has
 nothing to do with
 him being the Prince."<Close><End of Block>
@@ -464,7 +464,7 @@ is undamaged, so we are
 able to embark immediately.<New>
 The crew's preparations are
 complete.<New>
-Whenever you are ready,
+Whenever you're ready,
 Master Fei and good Doctor,
 please accompany the Young
 Master to the bridge."<Close><End of Block>

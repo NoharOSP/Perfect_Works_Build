@@ -2,7 +2,7 @@
 Where are you going?
 <Opcode 1 255>    4F (Bridge)
     3F (Beer Hall)
-    2F (Sick Bay)
+    2F (Infirmary)
     1F (Deck)
     B1F (Supply Entrance)
     B2F (Dock)

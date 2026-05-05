@@ -34,17 +34,19 @@ Sigurd
 I'm counting on you."<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 Sigurd
-"He fell into an under-
-ground cave with that
-other guy in a Gear.<New>
-It's near an old excavation
-site, and he is riding in a
-Gear, so he'll probably be
-able to come up somehow...<New>
-We'll try to find him for a
-while, and if that doesn't
-work, then we'll wait for
-him at our meeting point."<Close><End of Block>
+"It seems he got a bit
+too overenthusiastic...<New>
+and fell into an
+underground cave with
+that other Gear pilot.<New>
+It was near an old excava-
+tion site, and they're on
+Gears, so they'll probably
+get out on their own...<New>
+Anyway, once we've searched
+for a while, we'll go to
+our meeting point and wait
+for them."<Close><End of Block>
 <TextBlock 8 w:42 h:4>
 Sigurd
 "Trust him...
@@ -81,7 +83,7 @@ you were saved!<Close><End of Block>
 <TextBlock 15 w:24 h:1>
 Excuse me...<Close><End of Block>
 <TextBlock 16 w:50 h:4>
-Is there anyone who is
+Is there anyone who's
 almost dead, with no arms
 or legs, or in need of
 an abdominal operation!?<Close><End of Block>

@@ -86,7 +86,7 @@ Myyah
 <TextBlock 16 w:40 h:4>
 Bart
 "Hey, Fei!
-Do you know where
+D'you know where
 this elevator goes?"<Close><End of Block>
 <TextBlock 17 w:36 h:3>
 Fei
