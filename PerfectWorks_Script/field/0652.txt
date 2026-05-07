@@ -132,19 +132,21 @@ Alice...<Delay 5> She was such a...<Delay 5>
 Alice and Timothy...<Delay 5>
 Oh god...!<Delay 5> Everybody...<Delay 5>
 All such good people..."<Close><End of Block>
-<TextBlock 22 w:48 h:4>
+<TextBlock 22 w:52 h:4>
 Elly
 "The machine went out of
 control...?<Delay 5> The Gear...?<Delay 5>
-What about the village?"<Close><End of Block>
+That's why the village<-->?"<Close><End of Block>
 <TextBlock 23 w:12 h:2>
 Elly
 "Fei?"<Close><End of Block>
-<TextBlock 24 w:54 h:4>
+<TextBlock 24 w:52 h:4>
 Fei
-"...Yes, the Gear! If only
-those Gears hadn't landed
-in the village...!"<Close><End of Block>
+"...Yes, the Gear!<New>
+If only those Gears hadn't
+landed in the village in
+the first place, none of
+this would've<-->!"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Fei
 "If they'd never come
@@ -177,8 +179,8 @@ Elly
 "Yes, you're a coward.<Delay 5>
 All I'm hearing is
 'them, them, them'.<New>
-You talk as if 
-it's not your 
+You talk as if
+it's not your
 responsibility!"<Close><End of Block>
 <TextBlock 31 w:42 h:2>
 Fei
@@ -265,12 +267,13 @@ blocked out the screams,<New>
 the stench of blood, the
 sound of bones shattering
 and the voices cursing
-me...<Close><End of Block>
+me..."<Close><End of Block>
 <TextBlock 38 w:52 h:4>
-Look!<Delay 5> Look at my hands!<Delay 5>
+Fei
+"Look! Look at my hands!<New>
 Do you know this
-sensation!?<Delay 5> Can you hear
-the voices!?<New>
+sensation!?<Delay 10> Can you
+hear the voices!?<New>
 This feeling of having
 destroyed my village
 with my own hands...<New>
