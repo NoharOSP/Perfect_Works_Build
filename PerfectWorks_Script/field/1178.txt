@@ -90,13 +90,13 @@ are, I thought it was
 suspicious for her to
 leave the infirmary,<New>
 so I followed her..."<Close><End of Block>
-<TextBlock 18 w:50 h:4>
+<TextBlock 18 w:52 h:4>
 Citan
-"Oh no,<Delay 10> if an action is
-forcibly stopped when the<New>
-imprinted behavior is in
-progress, it can destroy
-the mind...<New>
+"Oh no,<Delay 10> if one's actions
+are forcibly stopped<New>
+when the imprinted
+behavior is in progress,
+it can destroy the mind...<New>
 But it is true that I
 was slow to respond..."<Close><End of Block>
 <TextBlock 19 w:46 h:3>
