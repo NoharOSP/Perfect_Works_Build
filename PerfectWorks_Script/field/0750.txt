@@ -1,5 +1,5 @@
-<TextBlock 1 w:10 h:1>
-What?<Opcode 2 60><Close><End of Block>
+<TextBlock 1 w:8 h:1>
+Hm?<Opcode 2 60><Close><End of Block>
 <TextBlock 2 w:50 h:3>
 Pirate
 "Hey, come down here now!<New>
@@ -21,7 +21,7 @@ listen to anything?"<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Pirate
 "Ha ha haaa. Sorry, sorry.
-Yes, I remember you were
+Yeah, I remember you were
 saying something like that.<New>
 I went off half-cocked and
 thought you were the enemy.<New>

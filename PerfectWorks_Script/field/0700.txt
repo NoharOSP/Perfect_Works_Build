@@ -11,8 +11,10 @@ Will you listen to me?<Delay 10>
 <Opcode 1 255>    Alright
     No<Close><End of Block>
 <TextBlock 5 w:54 h:4>
-I'm stuck in the sand.
-Can you push from the back?<Delay 10>
+My tires are just spinning,
+'cause of the sand.<New>
+Would you mind giving me
+a push from the back?<Delay 10>
 <Opcode 1 255>    Sure
     No<Close><End of Block>
 <TextBlock 6 w:56 h:6>
@@ -32,15 +34,17 @@ Are you sure?<Delay 10>
     I'll be fine<Close><End of Block>
 <TextBlock 9 w:32 h:1>
 Alright. Get in.<Close><End of Block>
-<TextBlock 10 w:44 h:2>
-Alright,
-from here you could...<Close><End of Block>
-<TextBlock 11 w:48 h:2>
-...You'll be able to get
-out if you go this way.<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+Okay, well,
+from here...<Close><End of Block>
+<TextBlock 11 w:46 h:3>
+...if you keep walking
+this way you'll be able
+to leave the desert.<Close><End of Block>
 <TextBlock 12 w:22 h:1>
 Take care!!<Close><End of Block>
-<TextBlock 13 w:10 h:1>
+<TextBlock 13 w:10 h:2>
+Wha!?
 Jerk!<Close><End of Block>
 <TextBlock 14 w:36 h:3>
 Thanks.

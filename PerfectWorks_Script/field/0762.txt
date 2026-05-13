@@ -3,16 +3,16 @@ Citan
 "Ah, are you ready?<Delay 10> I
 will be along later, so
 please go on and rest."<Close><End of Block>
-<TextBlock 2 w:50 h:4>
-Citan
-"Fei, there is no need to
-be mad at Bart.<Delay 10>
-Just forgive him."<Close><End of Block>
-<TextBlock 3 w:50 h:4>
+<TextBlock 2 w:54 h:4>
 Citan
 "Fei, there is no reason
 to be mad at Bart.<Delay 10>
-Just forgive him."<Close><End of Block>
+Could you not forgive him?"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Citan
+"Fei, there is no reason
+to be mad at Bart.<Delay 10>
+Could you not forgive him?"<Close><End of Block>
 <TextBlock 4 w:54 h:4>
 Sigurd
 "We set out early tomorrow.<Delay 10><New>
@@ -28,7 +28,7 @@ for reports on
 Av's condition."<Close><End of Block>
 <TextBlock 6 w:54 h:7>
 Sigurd
-"What do you want to know?<Delay 10>
+"What do you want to know?"<Delay 10>
     <Opcode 1 255>Who is Margie?
     Who is Shakhan?
     What's a Fatima Jasper?
@@ -41,7 +41,7 @@ Marguerite of Nisan.<New>
 But Shakhan of Av has
 locked her up and is
 looking for the Fatima
-Jasper now. <New>
+Jasper now.<New>
 Bart may not look it,
 but he's very worried."<Close><End of Block>
 <TextBlock 8 w:50 h:4>
@@ -104,7 +104,7 @@ They've entered gate 4.<Close><End of Block>
 <TextBlock 18 w:44 h:3>
 We have an unidentifed
 heat reading in the
-ventilation shaft.<Delay 10><New>
+ventilation shaft.<New>
 They're Gears! Gate 3
 has been destroyed!<Close><End of Block>
 <TextBlock 19 w:48 h:2>
@@ -140,9 +140,9 @@ Citan
 They probably do not even
 have equipment like this
 in the Capital."<Close><End of Block>
-<TextBlock 26 w:42 h:4>
+<TextBlock 26 w:40 h:4>
 Bart
-"Heh heh. Surprised? <Delay 10>
+"Heh heh. Surprised?<Delay 10>
 All this technology
 is thanks to Sig."<Close><End of Block>
 <TextBlock 27 w:52 h:4>
@@ -190,8 +190,8 @@ Bart
 Bart
 "After founding the
 country, Fatima forced the
-giant into slumber<Delay 5>...<New>
-...<Delay 5>to protect his kingdom's
+giant into slumber,<New>
+to protect his kingdom's
 people if needed in the
 future.<Delay 15> We don't know where
 it's hidden... Although...<New>
@@ -227,7 +227,7 @@ for?"<Close><End of Block>
 <TextBlock 40 w:32 h:4>
 Bart
 "Not just him.<Delay 10>
-Geburah is also
+Geburah are also
 looking for it."<Close><End of Block>
 <TextBlock 41 w:38 h:3>
 Citan
@@ -295,34 +295,34 @@ What's wrong with you
 all of a sudden?"<Close><End of Block>
 <TextBlock 53 w:8 h:1>
 Fei?<Close><End of Block>
-<TextBlock 54 w:54 h:4>
-Fei 
-"I just don't feel like it!
+<TextBlock 54 w:52 h:4>
+Fei
+"I just can't right now!
 'Love to have my power'?<Delay 10>
 I don't have any!<New>
-What's wrong with you,<Delay 5>
-Doc,<Delay 5> everyone<Delay 5>...<Delay 10>?
-You're driving me to the
-brink.<New>
+And yet,<Delay 5> you and the Doc
+and<Delay 5> 'him',<Delay 5> why d'you all<--><Delay 10>
+I have enough on my mind
+as it is!<New>
 Then there's that Gear<Delay 5>...<Delay 5>
-Grahf and my father<Delay 5>...<New>
-I don't have the time to
-help you out with your
-problems when I've got
-enough of my own!!"<Close><End of Block>
-<TextBlock 55 w:34 h:4>
+The stuff with Grahf and
+my father<Delay 5>...<New>
+I don't exactly have the
+spare time to take on
+your problems too!!"<Close><End of Block>
+<TextBlock 55 w:40 h:4>
 Bart
-"What's with him?<Delay 10>
+"Wh-<Delay 5>What's with him?<Delay 10>
 Is he always that
 short-tempered?"<Close><End of Block>
-<TextBlock 56 w:48 h:4>
+<TextBlock 56 w:50 h:4>
 Citan
-"No, that is not it...<Delay 10>
-I am sorry.<New>
+"N-<Delay 5>No, he is never like
+that...<Delay 10> I am sorry.<New>
 Things have happened so
-fast that he has not had
-time to deal with it all
-yet.<Delay 10> Try to understand."<Close><End of Block>
+fast that he has not been
+able to process them yet.<Delay 10>
+Try to understand."<Close><End of Block>
 <TextBlock 57 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 58 w:0 h:1>

@@ -4,8 +4,8 @@
 Bart
 "Boy!<Delay 10> What's up
 with this Fei guy?<New>
-I try to become
-his friend and he
+I try to be his
+friend and he
 suddenly explodes
 in anger..."<Close><End of Block>
 <TextBlock 3 w:52 h:4>
@@ -16,13 +16,13 @@ I don't want to force him.<New>
 But I think he'd make a
 good fighting buddy<Delay 5>...<Delay 20>
 Maybe I'll ask again."<Close><End of Block>
-<TextBlock 4 w:42 h:2>
+<TextBlock 4 w:40 h:2>
 If I lie in wait
-under the elevator...<Close><End of Block>
-<TextBlock 5 w:20 h:3>
+down the elevator...<Close><End of Block>
+<TextBlock 5 w:46 h:3>
 Bart
-"What!?
-Get out!!"<Close><End of Block>
+"Wh-What're you doing!?
+Get out, right now!!"<Close><End of Block>
 <TextBlock 6 w:10 h:2>
 Fei
 "..."<Close><End of Block>
@@ -30,28 +30,28 @@ Fei
 Bart
 "Arrgghh,
 what a pain!"<Opcode 2 60><Close><End of Block>
-<TextBlock 8 w:36 h:3>
+<TextBlock 8 w:40 h:3>
 Fei
-"This is<Delay 5>...
-Bart's eyepatch!?"<Close><End of Block>
-<TextBlock 9 w:50 h:4>
+"These are<Delay 5>...
+Bart's eyepatches!?"<Close><End of Block>
+<TextBlock 9 w:40 h:4>
 Fei
-"Looks like it's Bart in
-the picture, when he was
-a boy...<New>
-The girl next to him...<Delay 10>
-she must be Margie!!"<Close><End of Block>
-<TextBlock 10 w:50 h:4>
+"It looks like this
+picture is of Bart
+when he was a kid...<New>
+The girl next to him
+is...<Delay 10>Margie!!"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
 Fei
-"In both of the pictures,
-it looks like it's Bart
+"It looks like this
+picture is of Bart
 when he was a kid...<New>
 The girl next to him...<Delay 10>
-It must be the girl that
-they were talking about!"<Close><End of Block>
+It must be the girl they
+were talking about."<Close><End of Block>
 <TextBlock 11 w:50 h:3>
 Fei
-"Who is this picture of? <Delay 30>
+"Who's in this photo?<Delay 30>
 A little boy and girl..."<Close><End of Block>
 <TextBlock 12 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>

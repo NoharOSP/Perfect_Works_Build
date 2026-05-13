@@ -2,45 +2,45 @@
 Ah, Bartholomew.<Delay 10>
 The Gears are all aboard
 the Yggdrasil.<Close><End of Block>
-<TextBlock 2 w:52 h:4>
-Good work. <Delay 10>
-Without your backup, this
-base wouldn't be here.
-Let's board the Yggdrasil.<Close><End of Block>
-<TextBlock 3 w:30 h:1>
-Thank you sir!!<Close><End of Block>
+<TextBlock 2 w:56 h:4>
+Good work.<Delay 10> If it hadn't been
+for your backup, this base
+woulda been in real trouble.<Delay 10>
+Hurry aboard the Yggdrasil.<Close><End of Block>
+<TextBlock 3 w:32 h:1>
+Thank you, sir!!<Close><End of Block>
 <TextBlock 4 w:50 h:4>
-This Gear is called
+This Gear's called
 <Heimdal>. It was
 excavated together
 with <Brigandier>.<New>
 But we could never get it
 to run very well. Three
 test pilots were injured
-in trying. <New>
+trying.<New>
 I guess no one can
 tame it.<Close><End of Block>
 <TextBlock 5 w:60 h:2>
 <Brigandier> is a star
-of hope for us pirates.<New>
+of hope for we pirates.<New>
 The bright-red body color
 represents Bart's ambition.<New>
 But since Bart always overdoes
 things, maintenance is a pain.<Close><End of Block>
 <TextBlock 6 w:68 h:3>
-This is a mass produced model
-based on Bart's <Brigandier>,
+This is a mass-produced model
+based on Bart's <Brigandier>
 that's simplified to reduce costs.<New>
 If you tune them up they're
 pretty good.<Delay 10> That's when we
 can really show our skills.<Close><End of Block>
 <TextBlock 7 w:44 h:3>
-No, the specs on this
+Hmm, the specs of this
 Gear are unknown...<New>
-And this kind of stuff
-isn't anything I can
-understand.<Close><End of Block>
-<TextBlock 8 w:54 h:4>
+Something of this 
+calibre's way beyond
+the likes of me.<Close><End of Block>
+<TextBlock 8 w:52 h:4>
 Looks like someone really
 knew how to tune up your
 Gear...<New>
@@ -50,13 +50,13 @@ An exceptionally balanced
 machine.<New>
 But we don't seem to be
 able to dismantle some
-parts to see what they
-do...<New>
+of the parts to see what
+they do...<New>
 I guess you could call
 them<Delay 5>...<Delay 10>black boxes.<New>
 There are quite a number
-of them on this machine<Delay 5>...<Delay 10> 
-Do you have any idea what
+of them on this machine<Delay 5>...<Delay 10>
+D'you have any idea what
 they actually do?<Close><End of Block>
 <TextBlock 9 w:14 h:2>
 Fei
@@ -76,7 +76,7 @@ are on board the
 Yggdrasil.<Delay 10>
 Yours is on board too.<Close><End of Block>
 <TextBlock 12 w:48 h:4>
-Boss, let us mess with
+Boss, let's tinker with
 the Gears a little...
 Craftsmen have to keep
 practicing their skills!<Close><End of Block>
@@ -99,7 +99,7 @@ Citan
 this Gear work?"<Close><End of Block>
 <TextBlock 19 w:32 h:4>
 Mason
-"Pardon? <Delay 10>Yes,
+"Pardon?<Delay 10> Yes,
 it more or less
 works, but<-->"<Close><End of Block>
 <TextBlock 20 w:16 h:1>
@@ -143,14 +143,14 @@ Fei! <Opcode 2 30><Close><End of Block>
 Fei
 "Sigurd, Doc...<Delay 10>
 What's up...?"<Close><End of Block>
-<TextBlock 30 w:28 h:4>
+<TextBlock 30 w:26 h:4>
 Sigurd
-"We would like
-to have a word
+"We'd like to
+have a word
 with you..."<Close><End of Block>
-<TextBlock 31 w:22 h:2>
+<TextBlock 31 w:18 h:2>
 Fei
-"Oh, okay!"<Close><End of Block>
+"O-<Delay 5>Okay."<Close><End of Block>
 <TextBlock 32 w:22 h:4>
 Bart
 "...<Delay 10>
@@ -163,11 +163,11 @@ Fei."<Close><End of Block>
 <TextBlock 34 w:18 h:2>
 Fei
 "Bart..."<Close><End of Block>
-<TextBlock 35 w:52 h:4>
+<TextBlock 35 w:50 h:4>
 Sigurd
-"Thank you, Fei.<Delay 10>
-Don't know how we could
-have done it without you."<Close><End of Block>
+"Thank you, Fei.<Delay 10> I don't
+know how we could've done
+it without you."<Close><End of Block>
 <TextBlock 36 w:30 h:4>
 Fei
 "I...<Delay 10>still
@@ -176,18 +176,18 @@ I should do."<Close><End of Block>
 <TextBlock 37 w:16 h:2>
 Sigurd
 "Fei..."<Close><End of Block>
-<TextBlock 38 w:42 h:4>
+<TextBlock 38 w:40 h:4>
 Fei
 "What Bart's doing
 isn't for his own
 gain.<New>
 He walks the path
 he believes in, one
-step at a time...<New>
-...wishing only for
-the happiness of
-those around him. I,
-on the other hand..."<Close><End of Block>
+step at a time,<New>
+wishing only for the
+happiness of those
+around him. I, on
+the other hand..."<Close><End of Block>
 <TextBlock 39 w:12 h:2>
 Sigurd
 "..."<Close><End of Block>
