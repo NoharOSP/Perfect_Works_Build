@@ -1,7 +1,8 @@
-<TextBlock 1 w:28 h:3>
-O-Oh no!
+<TextBlock 1 w:28 h:4>
+Citan
+"O-Oh no!
 <Weltall> has
-gone under...<Close><End of Block>
+gone under..."<Close><End of Block>
 <TextBlock 2 w:16 h:1>
 Waaaaah!<Opcode 2 16><Close><End of Block>
 <TextBlock 3 w:10 h:1>
