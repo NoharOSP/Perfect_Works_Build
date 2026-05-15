@@ -1,6 +1,7 @@
-<TextBlock 1 w:32 h:2>
-It is no good!
-We are done for!<Close><End of Block>
+<TextBlock 1 w:34 h:3>
+Citan
+"It is no good!
+We are done for!"<Close><End of Block>
 <TextBlock 2 w:30 h:3>
 Fei
 "Minutes...!?<Delay 32>
@@ -24,9 +25,9 @@ Citan
 "It is locked...<Delay 32>
 Somebody free us!<New>
 Argghh!!"<Close><End of Block>
-<TextBlock 7 w:40 h:2>
+<TextBlock 7 w:38 h:2>
 Citan
-"Oh no, too late..."<Opcode 2 46><Close><End of Block>
+"Argh, too late..."<Opcode 2 46><Close><End of Block>
 <TextBlock 8 w:54 h:4>
 Citan
 "The switch for the sand

@@ -21,13 +21,13 @@ Sigurd
 "Fei, get out of here,
 it's dangerous!!"<Close><End of Block>
 <TextBlock 6 w:54 h:3>
-Fei!
-I'm still working on it
-because of those guys.<Delay 10> <New>
-It'll be a little longer
+Hey, Fei!
+Because of those guys,
+prep's still underway.<New>
+It'll be a while longer
 before Yggdrasil can leave.<Close><End of Block>
 <TextBlock 7 w:52 h:4>
-Oh, Fei!<Delay 10>
+Hey, Fei!<Delay 10>
 You can take this elevator
 down to the Gear hangar.<New>
 Why don't you check on
@@ -413,7 +413,7 @@ Wahhh,
 I'm scared!!<Opcode 2 60><Close><End of Block>
 <TextBlock 73 w:10 h:1>
 <Opcode 1 5>Fei!!<Close><End of Block>
-<TextBlock 74 w:42 h:3>
+<TextBlock 74 w:48 h:3>
 <Opcode 1 5>Citan
 "Fei!! Quick!
 Get to <Weltall> now!!"<Close><End of Block>

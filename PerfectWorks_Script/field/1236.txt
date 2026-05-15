@@ -98,8 +98,8 @@ Let's eat."<Close><End of Block>
 Captain
 "Gahahahaaa!"<Opcode 2 80><Close><End of Block>
 <TextBlock 17 w:40 h:2>
-Captain, your first
-mate is calling you.<Close><End of Block>
+Captain, the First
+Mate is calling you.<Close><End of Block>
 <TextBlock 18 w:52 h:4>
 Bart
 "...and they came out...
@@ -127,8 +127,8 @@ Of the men!<Close><End of Block>
 <TextBlock 24 w:24 h:1>
 Of the sea!!<Close><End of Block>
 <TextBlock 25 w:40 h:2>
-Captain, your first
-mate is calling you.<Close><End of Block>
+Captain, the First
+Mate is calling you.<Close><End of Block>
 <TextBlock 26 w:50 h:4>
 Captain
 "Oi, he's interrupting

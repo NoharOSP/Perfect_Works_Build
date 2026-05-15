@@ -8,7 +8,7 @@ greater than the standard safety
 threshold.<New>
 The sand barrier on the south
 wall of the Terrace Stones has
-been sealed to prevent sand from
+been closed to prevent sand from
 penetrating the excavation site.<New>
 Until the barrier is reopened,
 please assemble at the safety
@@ -24,13 +24,15 @@ Disengaged!<Close><End of Block>
 <TextBlock 5 w:52 h:2>
 Sand barrier being opened
 from remote terminal.<Close><End of Block>
-<TextBlock 6 w:54 h:4>
-Sand sensors have detected
-an abnormal amount of sand.<New>
-The sand barrier south of
-Terrace Stones has been
-sealed to prevent sand from
-entering excavation site.<Close><End of Block>
+<TextBlock 6 w:64 h:4>
+Sand sensors have confirmed
+sandfall in quantities greater
+than the standard safety
+threshold.<New>
+The sand barrier on the south
+wall of the Terrace Stones has
+been closed to prevent sand from
+penetrating the excavation site.<Close><End of Block>
 <TextBlock 7 w:54 h:4>
 There are two sand sensors.
 One is on top of the ledge

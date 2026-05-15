@@ -1,36 +1,38 @@
 <TextBlock 1 w:32 h:3>
 Fei
-"I'm<Delay 5>...<Delay 10>so <Delay 10>
+"I'm<Delay 5>...<Delay 10>so...<Delay 10>
 very...<Delay 10>tired<Delay 5>..."<Close><End of Block>
 <TextBlock 2 w:42 h:3>
-They must've followed
-us from the cavern!<Delay 10>
+They must've got here
+through the caves!<Delay 10>
 We screwed up!<Close><End of Block>
-<TextBlock 3 w:46 h:4>
-That look...<Delay 10> 
-You must think we're a 
-bunch of murderers?<Delay 30> 
-Well, we ain't...<New>
+<TextBlock 3 w:44 h:4>
+That look...<New>
+You probably think
+we're a bunch of
+murderers, huh?<Delay 30>
+Well, we ain't!!<New>
 We don't murder.
-Hell, we even save the
-lives of our enemies. 
-This is Bart's police.<Close><End of Block>
-<TextBlock 4 w:40 h:1>
-(I mean, 'policy'??)<Close><End of Block>
+Hell, we even send out
+rescue units for our
+enemies, y'know!?<New>
+This's Bart's police.<Close><End of Block>
+<TextBlock 4 w:50 h:1>
+(Uh,<Delay 5> or was it 'policy'?)<Close><End of Block>
 <TextBlock 5 w:38 h:1>
 Damn it!! Geburah!!<Close><End of Block>
 <TextBlock 6 w:48 h:4>
 We'll leave first thing
 tomorrow. Are you ready?<Delay 10>
-    <Opcode 1 255>Wait
-    Alright<Close><End of Block>
+    <Opcode 1 255>Wait a sec
+    Yep, I'm good<Close><End of Block>
 <TextBlock 7 w:34 h:2>
 Let me know when 
 you're ready.<Close><End of Block>
 <TextBlock 8 w:48 h:3>
 Did you forget anything?<Delay 10>
     <Opcode 1 255>Wait a sec
-    I'm okay<Close><End of Block>
+    No, I'm good<Close><End of Block>
 <TextBlock 9 w:34 h:2>
 Let me know when 
 you're ready.<Close><End of Block>
@@ -43,9 +45,10 @@ You've gotta be
 kidding...<Delay 30>
     <Opcode 1 255>Let me rest
     Maybe later<Close><End of Block>
-<TextBlock 12 w:46 h:2>
-Hey! I know it's a 
-dump, but tough it out.<Close><End of Block>
+<TextBlock 12 w:38 h:3>
+Oof!! Well, okay.
+I know it's a dump,
+but tough it out.<Close><End of Block>
 <TextBlock 13 w:48 h:2>
 Whenever you wanna rest 
 just lemme know.<Close><End of Block>
@@ -62,27 +65,27 @@ Poor Helen...<Close><End of Block>
 !!<Opcode 2 10><Close><End of Block>
 <TextBlock 18 w:42 h:1>
 I'm reading, beat it!<Close><End of Block>
-<TextBlock 19 w:32 h:2>
-This is no time 
+<TextBlock 19 w:30 h:2>
+This's no time 
 for sleeping!!<Close><End of Block>
 <TextBlock 20 w:46 h:3>
 You gotta rest when you
 can so you can act when
-you gotta.<Delay 10><New>
-Knowing when to do what
-is important.<Close><End of Block>
+you gotta.<New>
+It's important to know
+when to do what.<Close><End of Block>
 <TextBlock 21 w:44 h:1>
 Which bed's better...?<Opcode 2 60><Close><End of Block>
-<TextBlock 22 w:34 h:2>
-Oh my god! 
-We've been found!<Close><End of Block>
-<TextBlock 23 w:48 h:3>
-We were just one step
-from peace between Av
-and Kislev.<New>
-Then, it is said, Bart's
-father, Edbart IV, was
-assassinated by Shakhan.<Close><End of Block>
+<TextBlock 22 w:40 h:2>
+I can't believe they
+found this place!<Close><End of Block>
+<TextBlock 23 w:46 h:3>
+They say Bart's father,
+Edbart IV, was betrayed
+by Shakhan.<New>
+Right when we were one
+step away from peace
+between Av and Kislev.<Close><End of Block>
 <TextBlock 24 w:40 h:2>
 You won't get away 
 with this, Shakhan!!<Close><End of Block>
@@ -91,48 +94,50 @@ He makes my blood boil!<Close><End of Block>
 <TextBlock 26 w:40 h:2>
 Almost all the Gears
 are under repair!!<Close><End of Block>
-<TextBlock 27 w:46 h:4>
+<TextBlock 27 w:48 h:4>
 *sigh*... This injury
-is so pathetic...<Delay 30>
-I can't let the master
-see me like this.<Close><End of Block>
+is so shameful...<Delay 30>
+I can't let the Young
+Master see me like this.<Close><End of Block>
 <TextBlock 28 w:46 h:2>
 Owwww!!<Delay 30>
 Please be more careful.<Close><End of Block>
 <TextBlock 29 w:42 h:4>
-Good medicine always
-tastes bad.<Delay 10>
-Everyone knows that.<Delay 10>
+'No pain, no gain'!<Delay 10>
+Good medicine stings,
+everyone knows that.<Delay 10>
 Next is your shot!<Close><End of Block>
 <TextBlock 30 w:44 h:1>
 Yipes, you're glaring!<Close><End of Block>
 <TextBlock 31 w:20 h:1>
 Huh, what?<Close><End of Block>
-<TextBlock 32 w:48 h:4>
-When you are sick, just
-tell me. I'll give you a
-big shot and fix you up
-right away.<Close><End of Block>
+<TextBlock 32 w:46 h:4>
+Whenever you're sick,
+just tell me. I'll give
+you a big shot that'll
+fix you up right away.<Close><End of Block>
 <TextBlock 33 w:32 h:2>
 This is no time
 for games!<Close><End of Block>
 <TextBlock 34 w:34 h:2>
 Hey, do you have
 Margarita's card?<Close><End of Block>
-<TextBlock 35 w:36 h:2>
-Nope, I don't. <Delay 10>
-But I have Beth's.<Close><End of Block>
+<TextBlock 35 w:40 h:2>
+Nope, I don't.<Delay 10>
+But I've got Beth's.<Close><End of Block>
 <TextBlock 36 w:48 h:1>
 Has the base been found?<Close><End of Block>
 <TextBlock 37 w:50 h:2>
 I can't seem to get any.<Delay 30>
 (I mean cards, you fool!)<Close><End of Block>
-<TextBlock 38 w:34 h:1>
-What is it? What?<Close><End of Block>
+<TextBlock 38 w:24 h:2>
+What is it,
+what is it??<Close><End of Block>
 <TextBlock 39 w:32 h:1>
 A little rest...<Close><End of Block>
-<TextBlock 40 w:40 h:1>
-What was that crash?<Close><End of Block>
+<TextBlock 40 w:30 h:2>
+What was that
+crash just now?<Close><End of Block>
 <TextBlock 41 w:46 h:3>
 Gears have entered the
 Yggdrasil's dock!<New>
