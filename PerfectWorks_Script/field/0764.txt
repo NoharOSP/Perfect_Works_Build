@@ -255,7 +255,7 @@ feel guilty about the
 kids in your village.<New>
 And I know why you don't
 want to harm others.<New>
-But if you want to make
+But if you wanna make
 it up to those children,<Delay 10>
 don't you have to fight?"<Close><End of Block>
 <TextBlock 55 w:50 h:4>
@@ -265,7 +265,7 @@ fight.<Delay 10> A reason you MUST
 fight.<New>
 But as long as you ignore
 it and continue to run
-away, those kids will
+away, those kids'll
 never forgive you.<New>
 Just remember that."<Close><End of Block>
 <TextBlock 56 w:48 h:4>
@@ -286,14 +286,15 @@ and make it up to those
 kids.<Delay 10> At least that's
 what I think..."<Close><End of Block>
 <TextBlock 57 w:46 h:3>
-Anyway...
+Bart
+"Anyway...
 sorry to hold you up.<New>
 The mechanic wanted to
 talk to you about your
 Gear.<New>
 You probably don't care
 now, but at least hear
-what he has to say.<Close><End of Block>
+what he has to say."<Close><End of Block>
 <TextBlock 58 w:10 h:2>
 Fei
 "..."<Close><End of Block>
@@ -319,7 +320,7 @@ to carry out your will.<Delay 10>
 Or even rescue Margie...<Close><End of Block>
 <TextBlock 62 w:44 h:4>
 I told him he was only
-running away but<Delay 10>
+running away,<Delay 10> but
 really I'm the one who
 wants to run away...<Close><End of Block>
 <TextBlock 63 w:48 h:4>

@@ -16,9 +16,10 @@ I don't want to force him.<New>
 But I think he'd make a
 good fighting buddy<Delay 5>...<Delay 20>
 Maybe I'll ask again."<Close><End of Block>
-<TextBlock 4 w:40 h:2>
-If I lie in wait
-down the elevator...<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+Bart
+"If I lie in wait
+down the elevator..."<Close><End of Block>
 <TextBlock 5 w:46 h:3>
 Bart
 "Wh-What're you doing!?
