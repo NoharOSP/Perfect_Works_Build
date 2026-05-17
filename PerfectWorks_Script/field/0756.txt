@@ -77,7 +77,7 @@ Hey, Fei!! Don't you
 think this's great?<Delay 10>
 <Opcode 1 255>    It's pretty cool!
     No big deal<Close><End of Block>
-<TextBlock 17 w:56 h:4>
+<TextBlock 17 w:58 h:4>
 It is pretty cool, isn't it?<Delay 10>
 There's a story behind this
 model.
@@ -85,10 +85,10 @@ Let me tell you about it...<New>
 Twelve years ago, Sigurd
 escaped from Av, taking
 the Young Master with him.<New>
-The main warship they stole
-from Av at that time and
-improved is the current
-Yggdrasil.<New>
+It was then that they stole
+the principal warship of the
+Av Army and enhanced it <-->
+that's the current Yggdrasil.<New>
 This here's the Yggdrasil
 before the remodeling.<Delay 10>
 I have it here to remind
@@ -100,7 +100,7 @@ Mate and I put in on it.)<Close><End of Block>
 <TextBlock 19 w:52 h:2>
 Hmph, a minute ago you
 said it wasn't so great<Delay 5>...<Close><End of Block>
-<TextBlock 20 w:56 h:4>
+<TextBlock 20 w:58 h:4>
 No big deal?<Delay 10>
 Well, let me tell you the
 story behind it, 'cause it
@@ -108,10 +108,10 @@ may just change your mind...<New>
 Twelve years ago, Sigurd
 escaped from Av, taking
 the Young Master with him.<New>
-The main warship they stole
-from Av at that time and
-improved is the current
-Yggdrasil.<New>
+It was then that they stole
+the principal warship of the
+Av Army and enhanced it <-->
+that's the current Yggdrasil.<New>
 This here's the Yggdrasil
 before the remodeling.<Delay 10>
 I have it here to remind
@@ -200,20 +200,19 @@ Bart, dear?<Close><End of Block>
 Oh! Fei, dear!
 I believed in you.
 You said you'd help Bart.<Delay 10>
-And thanks from me, too.<Close><End of Block>
+You have my thanks.<Close><End of Block>
 <TextBlock 39 w:50 h:4>
 Bart, dear, you don't
 find many friends like
 this!<Delay 10> So you'd better be
 nice to him, now!<Close><End of Block>
-<TextBlock 40 w:44 h:4>
+<TextBlock 40 w:54 h:4>
 Bart
-"Yeah. The next time I
-come back here, it'll
-be with Margie...<New>
-So I'll be expecting
-you to make something
-good."<Close><End of Block>
+"Yeah.<New>
+Next time I come back it'll
+be Margie that's with me,
+so I'll be expecting you
+to make something good."<Close><End of Block>
 <TextBlock 41 w:44 h:2>
 Alright dear, you just
 leave it to Granny!<Close><End of Block>
@@ -236,9 +235,9 @@ Despite appearances, he's
 a good, honest boy.<Delay 10>
 <Opcode 1 255>    Ahh, sure
     Not interested<Close><End of Block>
-<TextBlock 46 w:18 h:2>
+<TextBlock 46 w:26 h:2>
 Fei
-"I know."<Close><End of Block>
+"You got it."<Close><End of Block>
 <TextBlock 47 w:30 h:2>
 I'm counting on
 you, Fei, dear.<Close><End of Block>
@@ -254,21 +253,21 @@ You two'll do fine.<Close><End of Block>
 <TextBlock 50 w:30 h:2>
 You and Bart'll
 do just fine.<Close><End of Block>
-<TextBlock 51 w:24 h:2>
-Fei, dear...<Delay 10>
+<TextBlock 51 w:14 h:2>
+Fei...<Delay 10>
 Thanks.<Close><End of Block>
 <TextBlock 52 w:12 h:1>
-Whoa!!<Close><End of Block>
+Waah!!<Close><End of Block>
 <TextBlock 53 w:22 h:2>
 Granny!
 I'm scared!<Close><End of Block>
-<TextBlock 54 w:24 h:1>
-Hey, Granny.<Close><End of Block>
+<TextBlock 54 w:26 h:1>
+Grannyyyyy...<Close><End of Block>
 <TextBlock 55 w:38 h:4>
-Oops<Delay 5>...<Delay 5>
+Hehehe<Delay 5>...<Delay 5>
 I'm so embarrassed.<Delay 10>
-But this is how I
-am with children<Delay 5>...<Close><End of Block>
+This's just how I
+am with kids<Delay 5>...<Close><End of Block>
 <TextBlock 56 w:54 h:3>
 Ahh, it's been a long time
 since we had fun like this,<Delay 10>

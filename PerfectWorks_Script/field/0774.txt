@@ -75,11 +75,11 @@ Finally all the Gears
 are on board the
 Yggdrasil.<Delay 10>
 Yours is on board too.<Close><End of Block>
-<TextBlock 12 w:48 h:4>
-Boss, let's tinker with
-the Gears a little...
-Craftsmen have to keep
-practicing their skills!<Close><End of Block>
+<TextBlock 12 w:54 h:4>
+The chief, he never lets us
+tinker with the Gears...<Delay 10>
+Oh well, I guess craftsmen
+have to keep at it.<Close><End of Block>
 <TextBlock 13 w:32 h:2>
 I'm going to the
 next hangar.<Close><End of Block>
@@ -137,8 +137,8 @@ remember..."<Close><End of Block>
 <TextBlock 27 w:10 h:2>
 Fei
 "..."<Close><End of Block>
-<TextBlock 28 w:10 h:1>
-Fei! <Opcode 2 30><Close><End of Block>
+<TextBlock 28 w:8 h:1>
+Fei!<Opcode 2 30><Close><End of Block>
 <TextBlock 29 w:30 h:3>
 Fei
 "Sigurd, Doc...<Delay 10>
