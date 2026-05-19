@@ -97,7 +97,7 @@ void applyPatch::createTemp() {
 					}
 				}
 			}
-			std::filesystem::copy(patchProcessor::patchList[i], temp, std::filesystem::copy_options::update_existing);
+			std::filesystem::copy(patchProcessor::patchList[i], temp, std::filesystem::copy_options::overwrite_existing);
 		}
 	}
 	iterateTemp();
