@@ -29,6 +29,7 @@ public:
 	inline static bool space = false;
 	inline static bool filePathValid = false;
 	inline static bool successMessage = false;
+	inline static bool editExe = false;
 	inline static int num;
 	inline static std::string tempPath;
 	inline static std::string filePath;

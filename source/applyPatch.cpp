@@ -100,6 +100,17 @@ void applyPatch::createTemp() {
 			std::filesystem::copy(patchProcessor::patchList[i], temp, std::filesystem::copy_options::overwrite_existing);
 		}
 	}
+	if (patchProcessor::editExe) {
+		// Copy executable to temp
+		if (!windowHandler::fmvticked == BST_CHECKED) {
+			if (patchProcessor::num == 1) {
+				std::filesystem::copy(patchProcessor::exeName1, temp, std::filesystem::copy_options::update_existing);
+			}
+			if (patchProcessor::num == 2) {
+				std::filesystem::copy(patchProcessor::exeName2, temp, std::filesystem::copy_options::update_existing);
+			}
+		}
+	}
 	iterateTemp();
 }
 
