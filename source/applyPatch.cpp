@@ -80,7 +80,24 @@ void applyPatch::createTemp() {
 	Window::log_file << "Copy files from each selected option into the temporary directory." << std::endl;
 	for (int i = 0; i < patchProcessor::patchList.size(); i++) {
 		if (patchProcessor::patchList[i] != "" && patchProcessor::patchList[i] != patchProcessor::fmvPatch) {
-			std::filesystem::copy(patchProcessor::patchList[i], temp, std::filesystem::copy_options::update_existing);
+			if (patchProcessor::patchList[i] == patchProcessor::fastName || patchProcessor::patchList[i] == patchProcessor::jpnName) {
+				// Copy executable to temp
+				if (!windowHandler::fmvticked == BST_CHECKED) {
+					if (patchProcessor::num == 1) {
+						std::filesystem::copy(patchProcessor::exeName1, temp, std::filesystem::copy_options::update_existing);
+					}
+					if (patchProcessor::num == 2) {
+						std::filesystem::copy(patchProcessor::exeName2, temp, std::filesystem::copy_options::update_existing);
+					}
+					if (windowHandler::fastticked == BST_CHECKED) {
+						Window::log_file << "Applying text speed change to game's executable." << std::endl;
+						for (const auto& entry : std::filesystem::directory_iterator(temp)) {
+							fileEditor::exeEdits(entry.path().string());
+						}
+					}
+				}
+			}
+			std::filesystem::copy(patchProcessor::patchList[i], temp, std::filesystem::copy_options::overwrite_existing);
 		}
 	}
 	if (patchProcessor::editExe) {
