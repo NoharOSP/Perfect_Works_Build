@@ -89,6 +89,9 @@ void patchVerifier::gameplayVerify() {
 		Window::log_file << "No Deathblow levels directory found." << std::endl;
 		patchProcessor::deathblowName = "exp_data";
 	}
+	if (windowHandler::capticked == BST_CHECKED) {
+		patchProcessor::editExe = true;
+	}
 }
 
 void patchVerifier::monsterFileVerify() {
@@ -108,11 +111,11 @@ void patchVerifier::monsterFileVerify() {
 			patchProcessor::monsterName = "monsters_both";
 		}
 	}
-	if (windowHandler::exponeticked == BST_CHECKED || windowHandler::exptwoticked == BST_CHECKED) {
+	if (windowHandler::expticked == BST_CHECKED) {
 		Window::log_file << "Experience directory found." << std::endl;
 		patchProcessor::expName = "og_monsters";
 	}
-	if (windowHandler::goldoneticked == BST_CHECKED || windowHandler::goldtwoticked == BST_CHECKED) {
+	if (windowHandler::goldticked == BST_CHECKED) {
 		Window::log_file << "Gold directory found." << std::endl;
 		patchProcessor::goldName = "og_monsters";
 	}
@@ -160,6 +163,7 @@ void patchVerifier::storyVerify() {
 				patchProcessor::fastName = "text_cd2";
 			}
 		}
+		patchProcessor::editExe = true;
 	}
 	if (windowHandler::scriptticked == BST_CHECKED) {
 		Window::log_file << "Retranslated script directory found." << std::endl;
@@ -172,6 +176,9 @@ void patchVerifier::storyVerify() {
 				patchProcessor::scriptName = "script2";
 			}
 		}
+	}
+	if (windowHandler::instantticked == BST_CHECKED) {
+		patchProcessor::editExe = true;
 	}
 }
 
@@ -260,6 +267,7 @@ void patchVerifier::modeVerify() {
 				patchProcessor::jpnName = "jpn_script_2";
 			}
 		}
+		patchProcessor::editExe = true;
 	}
 }
 

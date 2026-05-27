@@ -17,6 +17,7 @@ public:
 	static void modeWindows();
 	static void paint();
 	static void drawText();
+	static void drawDropdown(std::string option);
 	
 	// Global variables
 public:

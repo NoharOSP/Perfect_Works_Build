@@ -163,6 +163,7 @@
     <ClInclude Include="controlEditor.h" />
     <ClInclude Include="fileEditor.h" />
     <ClInclude Include="framework.h" />
+    <ClInclude Include="gameplayFileEditor.h" />
     <ClInclude Include="graphicalEditor.h" />
     <ClInclude Include="helper\gameFileTools.h" />
     <ClInclude Include="main.h" />
@@ -184,6 +185,7 @@
     <ClCompile Include="audioEditor.cpp" />
     <ClCompile Include="controlEditor.cpp" />
     <ClCompile Include="fileEditor.cpp" />
+    <ClCompile Include="gameplayFileEditor.cpp" />
     <ClCompile Include="graphicalEditor.cpp" />
     <ClCompile Include="helper\gameFileTools.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>

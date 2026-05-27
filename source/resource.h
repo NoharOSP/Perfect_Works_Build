@@ -1,6 +1,6 @@
 //{{NO_DEPENDENCIES}}
 // Microsoft Visual C++ generated include file.
-// Used by guipatcher.rc
+// Used by main.rc
 //
 #define IDC_MYICON                      2
 #define IDD_XGPW_DIALOG                 102
@@ -20,6 +20,11 @@
 #define IDM_OPEN                        9001
 #define IDM_CHOOSE_PATCH                9002
 #define IDM_APPLY_PATCH                 9003
+#define IDM_EXPDROPDOWN                 9004
+#define IDM_GOLDDROPDOWN                9005
+#define IDM_NORMAL						9006
+#define IDM_HALF						9007
+#define IDM_DOUBLE						9008
 #define IDC_STATIC                      -1
 
 // Next default values for new objects
