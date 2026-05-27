@@ -3,7 +3,7 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 
 Download the latest release here:
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.10.1
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.10.2
   
 ## Instructions
 
@@ -26,10 +26,12 @@ https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.10.1
 
 The patches provided are as follows:
 
-- all_50_exp_gold - Applies all patches besides story mode. 1.5x exp and gold are used.
-- all_100_exp_gold - Applies all patches besides story mode. 2x exp and gold are used.
+- all_50_exp_gold_fast_text - Applies all patches besides story mode. 1.5x exp and gold are used.
+- all_100_exp_gold_fast_text - Applies all patches besides story mode. 2x exp and gold are used.
 - all_50_exp_gold_no_gfx - Applies all patches besides story mode and the graphical settings. 1.5x exp and gold are used.
 - all_100_exp_gold_no_gfx - Applies all patches besides story mode and the graphical settings. 2x exp and gold are used.
+- all_50_exp_gold_normal_text - Applies all patches besides story mode and fast text. 1.5x exp and gold are used.
+- all_100_exp_gold_normal_text - Applies all patches besides story mode and fast text. 2x exp and gold are used.
 - bug_fixes - Only bug fixes are applied.
 - story_mode - Applies story mode.
 - story_mode_script - Applies story mode and the script changes.
@@ -39,8 +41,8 @@ WARNING: When a ROM has been made, do not resume progress by loading a save stat
 ## Completion stats
 
 - Name/terminology changes: 100%
-- Main script: 94% (up to Snowfield Hideout)
-- NPC script: 10% (plus all name/terminology changes)
+- Main script: 97% (start of Deus)
+- NPC script: 15% (plus all name/terminology changes)
 
 ## Introduction
 
@@ -51,6 +53,32 @@ Xenogears: Perfect Works is a collaborative project aiming to make Xenogears a m
 DISCLAIMER: Some of the patches were designed to work in tandem with each other. The 2x exp and gold patches were designed to work with the lower encounter rate patch. The monster stats and party/item patch both act as a rebalancing hack. They can be used separately from each other, but they were designed with the mindset of using them together.
 
 ## Version history
+
+### Version 0.10.2
+
+05/25/2026
+
+- Script changes up to Deus have been completed.
+- NPC script changes up to Bart's Hideout have been completed.
+- Wither and Weaken have been restored in ground battles.
+- Bug has been fixed where the patcher does not merge the FMV undub with Japanese controls in disc 2.
+- Fixed portraits when Rico attacks Bart on the Yggdrasil bridge.
+- Fixed timing of the Yggdrasil engine room scene.
+- Fixed bug where Defense is still used instead of Defend with Japanese controls.
+- Blackmoon Forest bugs have been fixed.
+- "Total" is used instead of "Total damage" to avoid confusion for players when healing.
+- Crescens' scrapped final frame has been restored and is available at the Lighthouse.
+- Citan's portrait is used during the Aveh transport timeout.
+- Holy Light's power now matches what is stated in the wiki.
+- Nature's Rhumba now targets a single enemy.
+- Fixed missing portraits in Bart's Hideout.
+- Menu stats for the characters and Gears have been updated to match battle data.
+- Exp and gold patches no longer overwrite other patches where monster data is used.
+- Music adjustments have been made to Nisan for consistency.
+- When the music patch is applied, Nisan will continue to play Wind from the Valley near the end of disc 1 as opposed to a sped up Where Dreams Hatch.
+- Fixed Gear damage reduction bug.
+- Removed the effects from elemental stones and prevented them from being obtained from shops.
+- Fixed Nisan shop bug from the original release.
 
 ### Version 0.10.1
 
@@ -133,6 +161,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - Streetwize (@StreetwizeJJ2): Character balance, battle arena, programming, fast text
 - Siris: Story mode, translation, programming, graphical fixes, softsub text and timings
 - ChrisGLink: Translation
+- einlanzer: Testing
 - linnaealyn: Testing, FMV font
 - [An Eye for the Infinite](https://web.archive.org/web/20101225035716/http://moonreading.lunarpages.com/xeno/): Translation
 - [Almagest](http://almagest712.blogspot.com/2017/11/xenogears-my-father-you-mean-my-dad.html): Translation
@@ -157,4 +186,3 @@ DM or tag here if you want immediate feedback on Twitter:
 - FFMaster: Fast text code
 - RyleFury: Deus bug fix, softsub tools
 - Sephiroth1311: Deus bug fix
-
