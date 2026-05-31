@@ -121,6 +121,9 @@ struct tipDesc {
 	char text_cap[255] =
 		"Turns off the 9999 damage cap. Works for\n"
 		"both character and Gear battles.\n";
+	char text_bug_fix[255] =
+		"Ignores all other patches and just implements\n"
+		"the bug fixes.\n";
 };
 
 class Window
@@ -174,6 +177,7 @@ public:
 	inline static HWND music;
 	inline static HWND instant;
 	inline static HWND cap;
+	inline static HWND bugFix;
 	inline static HINSTANCE winInst;
 	inline static int winX;
 	inline static int winY;

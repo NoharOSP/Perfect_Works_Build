@@ -37,5 +37,6 @@ public:
 	inline static LRESULT jpnticked;
 	inline static LRESULT instantticked;
 	inline static LRESULT capticked;
+	inline static LRESULT bugticked;
 };
 
