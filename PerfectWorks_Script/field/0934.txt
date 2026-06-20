@@ -144,10 +144,10 @@ Fei
 Bart
 "If she's in our way,
 just<-->"<Close><End of Block>
-<TextBlock 28 w:44 h:4>
+<TextBlock 28 w:42 h:4>
 Fei
 "Wait a second, Bart!
-She<--><Delay 10> Elly is not an
+She<--><Delay 10> Elly's not an
 enemy!"<Close><End of Block>
 <TextBlock 29 w:52 h:4>
 Bart

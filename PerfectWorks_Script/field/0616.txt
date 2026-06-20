@@ -157,10 +157,10 @@ presents difficulty later on.<Close><End of Block>
 to say about that, really.<Delay 20>
 Please come by again when
 you're in need of advice.<Close><End of Block>
-<TextBlock 17 w:52 h:5>
+<TextBlock 17 w:54 h:5>
 Ooooh! The 'Combo' option,
-eh?<Delay 20> I didn't expect you to
-ask about it! Well then,
+huh?<Delay 20> I didn't expect you
+to ask about it! Well then,
 allow me to explain the
 art of the combo.<Close><End of Block>
 <TextBlock 18 w:56 h:6>

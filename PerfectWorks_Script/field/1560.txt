@@ -148,9 +148,9 @@ reliable as he looks.)"<Close><End of Block>
 <TextBlock 38 w:36 h:2>
 There's what looks
 like a panel.<Close><End of Block>
-<TextBlock 39 w:26 h:3>
-Move it?<Delay 10>
-<Opcode 1 255>    Move it
+<TextBlock 39 w:34 h:3>
+Try operating it?<Delay 10>
+<Opcode 1 255>    Operate it
     Forget it<Close><End of Block>
 <TextBlock 40 w:24 h:3>
 Bart
@@ -169,7 +169,7 @@ shut up!"<Close><End of Block>
 <TextBlock 44 w:44 h:3>
 Bart
 "...It's been a while,
-so what do you expect?<New>
+so what d'you expect?<New>
 ...<Delay 30>Crap,
 I really did forget."<Close><End of Block>
 <TextBlock 45 w:54 h:2>

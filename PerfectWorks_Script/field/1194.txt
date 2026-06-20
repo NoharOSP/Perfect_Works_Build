@@ -73,7 +73,7 @@ sense does that make?"<Close><End of Block>
 <TextBlock 11 w:46 h:4>
 Maria
 "Is it a grudge against
-those who have survived
+those who've survived
 as humans?"<Close><End of Block>
 <TextBlock 12 w:54 h:4>
 Citan
@@ -87,10 +87,10 @@ that Elly spoke after
 becoming Myyah."<Close><End of Block>
 <TextBlock 13 w:54 h:4>
 Fei
-"'Beings who are able to
+"'Beings who're able to
 create a god will become an
 obstacle sooner or later.<New>
-So they are to be
+So they're to be
 eliminated.'"<Close><End of Block>
 <TextBlock 14 w:54 h:4>
 Citan

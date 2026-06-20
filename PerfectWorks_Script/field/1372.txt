@@ -137,17 +137,17 @@ Haahahahahahaha!!"<Close><End of Block>
 <TextBlock 31 w:30 h:4>
 Red-Haired Man
 "Ha ha...
-That is 'mine'.
+That's 'mine'.
 Give it back!!"<Close><End of Block>
 <TextBlock 32 w:42 h:3>
 Red-Haired Man
 "That toy is too much
 for the likes of you.<New>
 So give it back.
-It is<Delay 10> 'mine'..."<Close><End of Block>
-<TextBlock 33 w:46 h:2>
+It's<Delay 10> 'mine'..."<Close><End of Block>
+<TextBlock 33 w:44 h:2>
 Red-Haired Man
-"Names do not matter...<New>
+"Names don't matter...<New>
 But if you insist...<Delay 50>
 it's...<Delay 30>Id..."<Close><End of Block>
 <TextBlock 34 w:22 h:3>
@@ -158,12 +158,12 @@ Id
 Id
 "Hmph, pretty quick
 weren't you?<New>
-...I see <-->
-that woman, eh...?<New>
+...I see <--><Delay 5>
+that woman, huh...?<New>
 Fine.<Delay 10>
 For today's
 plaything...
-even you will do."<Close><End of Block>
+even you'll do."<Close><End of Block>
 <TextBlock 36 w:32 h:3>
 Id
 "Ha ha...

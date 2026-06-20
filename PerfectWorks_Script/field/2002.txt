@@ -54,9 +54,9 @@ Dan
 "C-<Delay 5>Crying...?<Delay 20>
 Who is?<Delay 20>
 ...!?"<Close><End of Block>
-<TextBlock 14 w:38 h:2>
+<TextBlock 14 w:36 h:2>
 Dan
-"Do you mean Fei!?"<Close><End of Block>
+"D'you mean Fei!?"<Close><End of Block>
 <TextBlock 15 w:16 h:2>
 Dan
 "What!?"<Close><End of Block>

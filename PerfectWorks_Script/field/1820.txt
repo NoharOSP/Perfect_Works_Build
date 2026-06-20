@@ -17,10 +17,10 @@ Elly...
 Everyone..."<Close><End of Block>
 <TextBlock 5 w:30 h:2>
 Fei
-"Waaaaaagh!!!!"<Close><End of Block>
-<TextBlock 6 w:46 h:3>
+"Aaaaaaagh!!!!"<Close><End of Block>
+<TextBlock 6 w:44 h:3>
 Elly
-"Wh-What are you doing?
+"Wh-What're you doing?
 Hammer?"<Close><End of Block>
 <TextBlock 7 w:26 h:2>
 Elly
@@ -247,10 +247,10 @@ Bart
 "Gaah!!"<Opcode 2 24><Close><End of Block>
 <TextBlock 53 w:18 h:2>
 Billy
-"Waagh!!"<Opcode 2 24><Close><End of Block>
+"Aaagh!!"<Opcode 2 24><Close><End of Block>
 <TextBlock 54 w:20 h:2>
 Emeralda
-"Waaagh!!"<Opcode 2 24><Close><End of Block>
+"Aaaagh!!"<Opcode 2 24><Close><End of Block>
 <TextBlock 55 w:22 h:2>
 <Chu-Chu>
 "Ouchuuuu!"<Opcode 2 24><Close><End of Block>

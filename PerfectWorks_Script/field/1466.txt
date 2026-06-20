@@ -276,9 +276,9 @@ I see...<Delay 20> I hope everyone
 understands each other,
 and lives happily together
 someday...yes, I do.<Close><End of Block>
-<TextBlock 46 w:46 h:3>
-You're very straight-
-forward. I like it.<Delay 20>
+<TextBlock 46 w:40 h:3>
+You're very honest.
+I like that.<Delay 20>
 I'll give you this.<Close><End of Block>
 <TextBlock 47 w:38 h:1>
 Received Aquasol S!<Close><End of Block>

@@ -18,7 +18,7 @@ engineering...<New>
 You're one of the
 survivors that had their
 Limiters undone by the
-sages of Shevat, eh?<New>
+sages of Shevat, hmm?<New>
 Intriguing... You'd make
 an excellent guinea pig.
 I'll use you for many
@@ -31,21 +31,21 @@ Don't!"<Close><End of Block>
 Maria
 "Have you finished talking
 with the Queen?<New>
-What do you all plan on
+What d'you all plan on
 doing...?<Delay 20> Are you going to
 fight alongside the people
 of Shevat against Solaris?"<Close><End of Block>
-<TextBlock 4 w:54 h:4>
+<TextBlock 4 w:52 h:4>
 Maria
-"Everyone is searching for
+"Everyone's searching for
 a reason to live, a reason
 to fight.<New>
 To better understand the
 meaning of death...<New>
-However, that is something
+However, that's something
 we must find on our own,
 and make it our own...<New>
-That is what my grandfather
+That's what my grandfather
 said. Though I don't
 understand what he meant
 by it..."<Close><End of Block>
@@ -77,11 +77,11 @@ I can't forgive those
 people who tortured Father,<Delay 20>
 or those who silently
 stand by and watch...!"<Close><End of Block>
-<TextBlock 7 w:42 h:4>
+<TextBlock 7 w:40 h:4>
 Maria
-"Even as we speak, my
-father in Solaris may
-be<Delay 10>..."<Close><End of Block>
+"Even as we speak,
+my father in Solaris
+may be<-->"<Close><End of Block>
 <TextBlock 8 w:10 h:2>
 Maria
 "..."<Close><End of Block>
@@ -119,7 +119,7 @@ lifeform...?"<Close><End of Block>
 No sweat!"<Close><End of Block>
 <TextBlock 18 w:52 h:4>
 <Chu-Chu>
-"Don't chu be rude to me.
+"Don't chu be rude chu me.
 I'm not an inferior
 lifeform.<Delay 20> I'm <Chu-Chu>."<Close><End of Block>
 <TextBlock 19 w:54 h:3>

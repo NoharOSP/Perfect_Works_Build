@@ -14,7 +14,7 @@ I want them so badly too!<Close><End of Block>
 I'm sorry, miss. We just
 sold the last pair.<Delay 10><Close><End of Block>
 <TextBlock 6 w:18 h:1>
-Waagghh!!<Close><End of Block>
+Waaaahh!!<Close><End of Block>
 <TextBlock 7 w:52 h:1>
 Wow, the Imperial model...<Opcode 2 30><Close><End of Block>
 <TextBlock 8 w:40 h:2>

@@ -6,7 +6,7 @@ continent, Machanon.
  
 It was the central hull
 of a colossal spacecraft
-that must have been at
+that must've been at
 least 40 kelts across.
  
 From the condition of the
@@ -173,22 +173,21 @@ Fei
 Grahf
 "I guess that's
 all you've got."<Close><End of Block>
-<TextBlock 17 w:38 h:3>
+<TextBlock 17 w:52 h:2>
 Grahf
 "Is it frustrating?<New>
-But it is<Delay 10> 'only
-natural'.<Delay 10> Because
-you are imperfect."<Close><End of Block>
+But it's<Delay 10> 'only natural'.<Delay 10>
+Because you're imperfect."<Close><End of Block>
 <TextBlock 18 w:30 h:2>
 Fei
 "I-<Delay 5>Imperfect!?"<Close><End of Block>
-<TextBlock 19 w:36 h:4>
+<TextBlock 19 w:38 h:4>
 Grahf
-"Yes.
+"Yes.<Delay 10>
 Right now, you're
 lacking something.<New>
-Namely, it is lack
-of wrath that is
+Namely, it's a lack
+of wrath that's
 holding back your
 inherent power!"<Close><End of Block>
 <TextBlock 20 w:28 h:2>
@@ -204,7 +203,7 @@ the soul!<New>
 To eliminate your foe
 is to attain the first
 sublimation of that drive.<New>
-It is this very sublimation
+It's this very sublimation
 that draws out one's hidden
 power!<New>
 If we cling to reason,<Delay 5>
@@ -343,12 +342,12 @@ You will have no
 chance on your own!<New>
 You must not go along
 with this!<Delay 10> Run!!"<Close><End of Block>
-<TextBlock 42 w:44 h:4>
+<TextBlock 42 w:42 h:4>
 Karellen
 "...My my,<Delay 5>
-such harsh words.
+such harsh words.<Delay 5>
 I'm not that inhuman.<New>
-Well, what will it be,
+Well, what'll it be,
 Elehayym?<New>
 Even if you were to
 flee now, to escape

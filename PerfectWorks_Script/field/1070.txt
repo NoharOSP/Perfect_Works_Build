@@ -11,9 +11,9 @@ could attack any time.<Close><End of Block>
 <TextBlock 3 w:50 h:2>
 ...I wish I could've
 seen Goliath in action...<Close><End of Block>
-<TextBlock 4 w:46 h:3>
-This is the new battle-
-ship, Goliath!<New>
+<TextBlock 4 w:42 h:3>
+This is the new
+battleship, Goliath!<New>
 With its completion,
 Av and Solaris will
 have to submit to us.<Close><End of Block>

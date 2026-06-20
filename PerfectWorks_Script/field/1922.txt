@@ -69,13 +69,12 @@ But this, too, is a
 futile resistance.<Close><End of Block>
 <TextBlock 20 w:26 h:1>
 Come with me.<Close><End of Block>
-<TextBlock 21 w:22 h:3>
-Wait,
-what are
+<TextBlock 21 w:26 h:2>
+Wait, what're
 you doing!?<Close><End of Block>
 <TextBlock 22 w:34 h:4>
-The key is in
-his possession.
+The key's in
+his possession.<Delay 5>
 I just want him
 to let me use it.<New>
 There's somewhere
@@ -145,7 +144,7 @@ the power of 'the Existence'.<Close><End of Block>
  
 ??<Close><End of Block>
 <TextBlock 37 w:52 h:4>
-Of course you would have
+Of course you'd have
 no idea.<Delay 5> For that is
 something etched in my
 own metempsychotic memory.<New>
@@ -199,7 +198,7 @@ The preparations have
 been made.<Delay 5> It's time for
 the true awakening.<New>
 The first thing I'll do
-is have those who are full
+is have those who're full
 of hypocrisy annihilated.<Close><End of Block>
 <TextBlock 46 w:32 h:2>
 Wait!

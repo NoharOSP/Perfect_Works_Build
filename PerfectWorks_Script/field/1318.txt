@@ -113,7 +113,7 @@ buddies!"<Close><End of Block>
 <TextBlock 26 w:44 h:4>
 Big Joe
 "You came all the way
-to save me, eh?
+to save me, huh?<Delay 10>
 Well done, well done.<New>
 Someday, you'll brag
 about saving me!<Delay 30>

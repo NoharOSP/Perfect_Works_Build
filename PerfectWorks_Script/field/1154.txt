@@ -37,14 +37,14 @@ ME! How dare you!"<Close><End of Block>
 <TextBlock 10 w:24 h:2>
 Ramsus
 "G-<Delay 10>Grrgh..."<Close><End of Block>
-<TextBlock 11 w:52 h:4>
+<TextBlock 11 w:50 h:4>
 Myyah
 "Please calm yourself,
 Commander!<New>
-This is not good for you.
+This isn't good for you.<Delay 10>
 Your wounds from the
-earlier battle are not yet
-fully healed! Commander!"<Close><End of Block>
+earlier battle aren't yet
+fully healed!<Delay 10> Commander!"<Close><End of Block>
 <TextBlock 12 w:20 h:1>
 No matter.<Close><End of Block>
 <TextBlock 13 w:32 h:4>
@@ -99,6 +99,6 @@ as possible..."<Close><End of Block>
 Dominia
 "That our ideals
 may be realized."<Close><End of Block>
-<TextBlock 24 w:48 h:2>
+<TextBlock 24 w:46 h:2>
 Cherubina
-"Well then, we are off."<Close><Close><End of Block>
+"Well then, we're off."<Close><Close><End of Block>

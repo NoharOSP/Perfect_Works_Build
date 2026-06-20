@@ -114,7 +114,7 @@ is then I'll just go off
 and register you now!"<Close><End of Block>
 <TextBlock 23 w:54 h:4>
 Doctor
-"How do you feel? If you
+"How d'you feel? If you
 need a rest, you can always
 lie down in the next room!"<Close><End of Block>
 <TextBlock 24 w:66 h:3>
@@ -181,14 +181,14 @@ Heinrich
 "Yeah, that's right!<Delay 15> As long
 as he's come here as a crim,
 he's gotta follow the rules!"<Close><End of Block>
-<TextBlock 34 w:56 h:5>
+<TextBlock 34 w:50 h:5>
 Leonardo
 "<Delay 5>...<Delay 5>That's the way it is!
 So without further ado,
 we'll borrow him for a
 little while.<New>
-Don't worry, we will return
-him to you straight away!
+Don't worry, we'll return
+him to you straight away!<Delay 10>
 Once we're through with
 him, that is!"<Close><End of Block>
 <TextBlock 35 w:54 h:4>
@@ -262,7 +262,7 @@ Citan
 "Well hello, Fei!
 Are you wide awake yet<Delay 5>...<Delay 5>?"<Close><End of Block>
 <TextBlock 47 w:52 h:1>
-WWWAAAAAAAAAARRRGGGHHH!!!<Close><End of Block>
+AAAAAAAAAAAAARRRGGGHHH!!!<Close><End of Block>
 <TextBlock 48 w:10 h:2>
 Citan
 "<Delay 5>.<Delay 5>.<Delay 5>."<Close><End of Block>
@@ -374,8 +374,8 @@ holding up?<Delay 15> I do not want
 you to push yourself<Delay 5>..."<Close><End of Block>
 <TextBlock 72 w:56 h:4>
 Fei
-"There's no use saying that.
-Time is not going to wait!
+"There's no use saying that.<Delay 5>
+Time's not going to wait!<Delay 5>
 I can't just do nothing<Delay 5>..."<Close><End of Block>
 <TextBlock 73 w:56 h:4>
 Citan
@@ -685,7 +685,7 @@ Where am I this time?"<Close><End of Block>
 Doctor
 "...You're in the same place,
 just in a different room!
-You've had a rough day, eh?"<Close><End of Block>
+You've had a rough day, huh?"<Close><End of Block>
 <TextBlock 114 w:54 h:4>
 Fei
 "Ah! <Delay 5>...<Delay 5>Oh, it's you?<Delay 20>
@@ -695,7 +695,7 @@ assistance again, huh<Delay 5>...?"<Close><End of Block>
 Doctor
 "Yes, but don't worry. I
 don't mind <--> it's my job!<Delay 30>
-Anyway, how do you feel?"<Close><End of Block>
+Anyway, how d'you feel?"<Close><End of Block>
 <TextBlock 116 w:56 h:4>
 Fei
 "Hm? <Delay 5>Ahh<Delay 5>...<Delay 20>
@@ -907,8 +907,8 @@ have you taken
 any action yet?"<Close><End of Block>
 <TextBlock 152 w:42 h:4>
 Fei
-"...Taken any action?
-What do you mean by
+"...Taken any action?<Delay 10>
+What d'you mean by
 that, Doc?"<Close><End of Block>
 <TextBlock 153 w:50 h:3>
 Citan
@@ -1608,21 +1608,21 @@ here.<New>
 Fei, I do not want to
 push you into anything
 you do not want to do!"<Close><End of Block>
-<TextBlock 270 w:56 h:4>
+<TextBlock 270 w:54 h:4>
 Fei
 "I know, Doc.
 I still don't like Gears.
 That much hasn't changed.<New>
 When I pilot them, I become
 aware of how unstable my
-very 'self' is<Delay 5>...<Delay 5>even if
-I don't want to think of it!<New>
-But at the same time, it is
+very 'self' is<Delay 5>...<Delay 5>even if I
+don't want to think of it!<New>
+But at the same time, it's
 also a connection with some
 lost 'part' of me.<New>
-With this in mind, recently
-I decided I would see it
-through to the end.<New>
+With this in mind,
+recently I decided I'd
+see it through to the end.<New>
 Elly had also been troubled
 by the same thing. And if I
 just stay depressed about

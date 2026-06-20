@@ -81,16 +81,16 @@ and now I have to do
 everything myself, from<New>
 taking care of the kids
 to running the shop.<Close><End of Block>
-<TextBlock 21 w:52 h:5>
+<TextBlock 21 w:48 h:5>
 Life's been hard since
-the old King died.
+the old King died.<Delay 10>
 Not that an old man like
 me has much longer to
 worry about that...<New>
-But my children and grand-
-children are still young.
-I wonder if it'll ever get
-any better?<Close><End of Block>
+But my children and
+grandchildren are still
+young.<Delay 10> I wonder if it'll
+ever get any better?<Close><End of Block>
 <TextBlock 22 w:10 h:1>
 Huh!?<Opcode 2 20><Close><End of Block>
 <TextBlock 23 w:26 h:2>
@@ -136,8 +136,8 @@ tournament too.<New>
 It's been a while since
 we have had so many
 visitors.<Close><End of Block>
-<TextBlock 30 w:56 h:3>
-Do you already have a hotel?<Delay 10>
+<TextBlock 30 w:54 h:3>
+D'you already have a hotel?<Delay 10>
 <Opcode 1 255>    Yes
     Not yet<Close><End of Block>
 <TextBlock 31 w:40 h:2>

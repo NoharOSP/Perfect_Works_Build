@@ -114,21 +114,20 @@ The amount of detailed
 information about races and
 their biological data is
 worrying, though..."<Close><End of Block>
-<TextBlock 10 w:50 h:4>
+<TextBlock 10 w:46 h:4>
 Elly
-"There are certainly
-facilities in Solaris for<New>
-accommodating surface
-dwellers...<Delay 10> That's it!
-The Third Class-
-citizen level.<New>
+"Solaris certainly has
+accommodation for
+surface dwellers.<New>
+The Third Class-citizen
+level.<New>
 People of various races
 from the surface are
 regularly sent there
 as manual labor."<Close><End of Block>
-<TextBlock 11 w:50 h:4>
+<TextBlock 11 w:48 h:4>
 Elly
-"So, do you think Solaris
+"So, d'you think Solaris
 is responsible for this
 attack on the Church?"<Close><End of Block>
 <TextBlock 12 w:48 h:4>
@@ -699,21 +698,20 @@ The amount of detailed
 information about races and
 their biological data is
 worrying, though..."<Close><End of Block>
-<TextBlock 87 w:50 h:4>
+<TextBlock 87 w:46 h:4>
 Elly
-"There are certainly
-facilities in Solaris for<New>
-accommodating surface
-dwellers...<Delay 10> That's it!
-The Third Class-
-citizen level.<New>
+"Solaris certainly has
+accommodation for
+surface dwellers.<New>
+The Third Class-citizen
+level.<New>
 People of various races
 from the surface are
 regularly sent there
 as manual labor."<Close><End of Block>
-<TextBlock 88 w:50 h:4>
+<TextBlock 88 w:48 h:4>
 Elly
-"So, do you think Solaris
+"So, d'you think Solaris
 is responsible for this
 attack on the Church?"<Close><End of Block>
 <TextBlock 89 w:42 h:4>
@@ -970,10 +968,10 @@ the Church?<New>
 Looks like there's more
 than meets the eye with
 this case."<Close><End of Block>
-<TextBlock 117 w:38 h:4>
+<TextBlock 117 w:36 h:4>
 Bart
 "Yeah, sure seems
-like it... This is
+like it...<Delay 10> This is
 a surprise."<Close><End of Block>
 <TextBlock 118 w:46 h:4>
 Bart

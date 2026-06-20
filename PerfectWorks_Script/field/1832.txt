@@ -21,7 +21,7 @@ Karellen
 "Yes.<Delay 10> This is her
 location.<Delay 10> I want you
 to bring her back.<New>
-She is an important
+She's an important
 woman to me."<Close><End of Block>
 <TextBlock 7 w:44 h:4>
 Ramsus
@@ -48,9 +48,9 @@ Karellen
 aligned with a
 Vessel of Anima...<Delay 10>
 It's an Omnigear.<New>
-Also,<Delay 10> she is
-currently with
-Fei."<Close><End of Block>
+Also,<Delay 10>
+she's currently
+with Fei."<Close><End of Block>
 <TextBlock 11 w:16 h:2>
 Ramsus
 "What!?"<Close><End of Block>

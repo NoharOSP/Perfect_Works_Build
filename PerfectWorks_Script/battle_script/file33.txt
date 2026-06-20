@@ -35,7 +35,7 @@ Come on, now...
 put up a serious fight!"<Close><End of Block>
 <TextBlock 7 w:28 h:3>
 Fei
-"What do you
+"What d'you
 ask that for?"<Close><End of Block>
 <TextBlock 8 w:36 h:4>
 Fei
@@ -142,8 +142,8 @@ Wiseman
 <TextBlock 27 w:40 h:4>
 Wiseman
 "Oh my...<Delay 30>
-Is it already
-that time...?<New>
+Is it that time
+already...?<New>
 ...<Delay 30>I guess it can't
 be helped...<Delay 45>
 I've got to be

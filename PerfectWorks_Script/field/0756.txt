@@ -36,8 +36,8 @@ are, close pals.<Close><End of Block>
 <TextBlock 7 w:36 h:2>
 Speaking of food,
 I'm hungry<Delay 5>...<Delay 5><Close><End of Block>
-<TextBlock 8 w:22 h:1>
-This's bad!<Close><End of Block>
+<TextBlock 8 w:24 h:1>
+This is bad!<Close><End of Block>
 <TextBlock 9 w:56 h:4>
 You from Av? <Delay 10>
 Oh, you're not.
@@ -74,7 +74,7 @@ nice. Such fine detail
 right here<Delay 5>...<Close><End of Block>
 <TextBlock 16 w:42 h:4>
 Hey, Fei!! Don't you
-think this's great?<Delay 10>
+think this is great?<Delay 10>
 <Opcode 1 255>    It's pretty cool!
     No big deal<Close><End of Block>
 <TextBlock 17 w:58 h:4>
@@ -266,7 +266,7 @@ Grannyyyyy...<Close><End of Block>
 <TextBlock 55 w:38 h:4>
 Hehehe<Delay 5>...<Delay 5>
 I'm so embarrassed.<Delay 10>
-This's just how I
+This is just how I
 am with kids<Delay 5>...<Close><End of Block>
 <TextBlock 56 w:54 h:3>
 Ahh, it's been a long time
@@ -375,14 +375,14 @@ Mason
 "Prince<Delay 10>
 Bartholomew<Delay 10>
 Fatima."<Close><End of Block>
-<TextBlock 81 w:48 h:4>
+<TextBlock 81 w:52 h:4>
 Citan
 "Bartholomew?<Delay 10>
 Edbart IV's successor<Delay 5>...<New>
-I am sure it was announ-
-ced that Bartholomew
-died of an illness
-twelve years ago<Delay 5>..."<Close><End of Block>
+I am sure it was announced
+that Bartholomew died of
+an illness twelve years
+ago<Delay 5>..."<Close><End of Block>
 <TextBlock 82 w:54 h:3>
 Mason
 "Officially, yes.<New>

@@ -12,9 +12,9 @@ It was nothing."<Close><End of Block>
 <TextBlock 3 w:18 h:2>
 Myyah
 "Carl..."<Opcode 2 50><Close><End of Block>
-<TextBlock 4 w:30 h:4>
+<TextBlock 4 w:28 h:4>
 Myyah
-"Peeping is not
+"Peeping isn't
 very becoming,
 you know..."<Close><End of Block>
 <TextBlock 5 w:52 h:4>

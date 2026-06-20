@@ -29,8 +29,8 @@ I'm so sick
 of this!"<Close><End of Block>
 <TextBlock 8 w:28 h:3>
 Fei
-"...<Delay 10>Two of
-you next, eh?"<Close><End of Block>
+"...<Delay 10>Two of you
+next, huh?"<Close><End of Block>
 <TextBlock 9 w:48 h:4>
 Rico
 "Hmph, what a joke...
@@ -39,11 +39,11 @@ of guys like these."<Close><End of Block>
 <TextBlock 10 w:16 h:2>
 Fei
 "Rico!?"<Close><End of Block>
-<TextBlock 11 w:50 h:4>
+<TextBlock 11 w:54 h:4>
 Rico
-"I don't need a reason to
-beat the crap out of any-
-one, including this lot.<New>
+"I don't need a reason
+to beat the crap out of
+anyone, including this lot.<New>
 Not if they piss me off."<Close><End of Block>
 <TextBlock 12 w:30 h:3>
 Fei

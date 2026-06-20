@@ -15,7 +15,7 @@ Fei
 "Sorry...<Delay 10>
 So, what is
 this place?"<Close><End of Block>
-<TextBlock 5 w:54 h:4>
+<TextBlock 5 w:52 h:4>
 Elly
 "'Solaris Third Class-
 citizen level F Block'.<New>
@@ -30,7 +30,7 @@ personal info,<New>
 right down to our DNA
 structure.<Delay 10> Our citizen
 class is on there, too...<New>
-Do you know what the people
+D'you know what the people
 living here are called?"<Close><End of Block>
 <TextBlock 6 w:10 h:1>
 No...<Close><End of Block>

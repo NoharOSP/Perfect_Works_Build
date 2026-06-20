@@ -34,8 +34,8 @@ Elly
 see any civilians!)"<Close><End of Block>
 <TextBlock 8 w:54 h:4>
 Elly
-"(I heard there is a hidden
-shelter. But do you think
+"(I heard there's a hidden
+shelter. But d'you think
 they're alright in there?)"<Close><End of Block>
 <TextBlock 9 w:40 h:4>
 Elly
@@ -111,8 +111,8 @@ Billy
 the residents, either.)"<Close><End of Block>
 <TextBlock 24 w:40 h:3>
 Billy
-"(I've heard there
-is a hidden shelter,<New>
+"(I've heard there's
+a hidden shelter,<New>
 but I wonder if it
 was safe in there?)"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
@@ -143,7 +143,7 @@ townsfolk go to?)"<Close><End of Block>
 <TextBlock 30 w:52 h:4>
 Rico
 "(I heard about the hidden
-shelter, but do you think
+shelter, but d'you think
 it was safe?)"<Close><End of Block>
 <TextBlock 31 w:46 h:4>
 Rico
@@ -225,7 +225,7 @@ Maria
 "(I've been informed that
 there was an emergency
 shelter facility.<New>
-Do you suppose they
+D'you suppose they
 took refuge there?)"<Close><End of Block>
 <TextBlock 48 w:52 h:4>
 Maria
@@ -397,10 +397,10 @@ similarly quiet.)"<Close><End of Block>
 Fei
 "(I see.<Delay 30>
 So what now...?)"<Close><End of Block>
-<TextBlock 85 w:54 h:4>
+<TextBlock 85 w:52 h:4>
 Sigurd
-"(Hmm, from the circum-
-stances I can't tell what
+"(Hmm, I can't tell from
+the circumstances what
 their next move might be.<New>
 But we can't just leave...
 considering the residents

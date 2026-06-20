@@ -20,10 +20,10 @@ you go!?<New>
 Remember!
 Were you not going
 to rescue Elly?"<Close><End of Block>
-<TextBlock 6 w:42 h:4>
+<TextBlock 6 w:40 h:4>
 Bart
 "Fei!!
-Do you want it to end
+D'you want it to end
 like this!?<New>
 Think!
 Are you gonna save
@@ -235,7 +235,7 @@ controlled...<Delay 5>by you!"<Close><End of Block>
 <TextBlock 47 w:46 h:3>
 Grahf
 "Hmph.<Delay 10> Protecting
-its master, eh?<New>
+its master, hmm?<New>
 Very well.<Delay 10>
 I'll merge with that
 machine along with you!<New>
@@ -416,7 +416,7 @@ That and that alone!"<Close><End of Block>
 <TextBlock 69 w:48 h:4>
 Khan
 "Is this world so bad<Delay 5>...<Delay 5>
-that there is nothing
+that there's nothing
 but hatred inside you!?"<Close><End of Block>
 <TextBlock 70 w:52 h:4>
 Id
@@ -438,8 +438,8 @@ Karen had become Myyah."<Close><End of Block>
 <TextBlock 73 w:54 h:4>
 Khan
 "It's not all that strange.<Delay 5>
-The Myyah complement
-is not a single person.<New>
+The Myyah complement isn't
+a single person.<New>
 Her factor is sealed
 within the genes of
 almost all women.<New>
@@ -576,10 +576,10 @@ I'm not good enough.<Delay 10>
 A true unification and
 liberation wouldn't be
 possible.<New>
-Nevertheless, although my
-body is different, the fact
-remains that I'm the like-
-ness of your divided self.<New>
+And yet, although my body's
+different, the fact remains
+that I'm the likeness of
+your divided self.<New>
 Even if I'm imperfect, I
 can unite with the Zohar
 temporarily, at least

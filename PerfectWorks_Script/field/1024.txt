@@ -40,11 +40,11 @@ Now I'll work like mad to
 make my fortune!<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Today,<Delay 5> fifteen Eyeballs
-and twenty-two Fangs, eh?
-Total reward is<Delay 5>...<Delay 15>ummmh<Delay 5>...<Delay 45>
+and twenty-two Fangs, huh?
+Total reward is<Delay 5>...<Delay 15>ummm<Delay 5>...<Delay 45>
 3150G.<Delay 5> Not bad<Delay 5>...<Delay 5>perhaps.<Close><End of Block>
 <TextBlock 9 w:58 h:3>
-You also earned a lot, eh?<Delay 30>
+You also earned a lot, huh?<Delay 30>
 Oh how the money you risk yer
 life for warms the heart!<Close><End of Block>
 <TextBlock 10 w:56 h:5>
@@ -511,10 +511,10 @@ Operator
 "Oh?<Delay 5> But you don't have
 any to cash in!<Delay 15> Too bad,
 but no goods, no deal!"<Close><End of Block>
-<TextBlock 95 w:52 h:6>
+<TextBlock 95 w:54 h:6>
 Informer
-"This's the B-Info Center.
-What do you want to know?"<Delay 15>
+"This is the B-Info Center.
+What d'you want to know?"<Delay 15>
 <Opcode 1 255>    Exchangeable items
     How to exchange
     Nothing, thanks<Close><End of Block>

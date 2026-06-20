@@ -75,7 +75,7 @@ Fei
 nonsense!"<Close><End of Block>
 <TextBlock 14 w:44 h:3>
 Fei
-"What are you saying!?
+"What're you saying!?
 If you do that<-->"<Close><End of Block>
 <TextBlock 15 w:24 h:4>
 Fei
@@ -110,8 +110,7 @@ Elly
 "He's lost it, gotten
 carried away by the
 Gear's performance...<New>
-Fei, we had
-better run!"<Close><End of Block>
+Fei, we'd better run!"<Close><End of Block>
 <TextBlock 21 w:36 h:4>
 Fei
 "Gaaahhhhhh!"

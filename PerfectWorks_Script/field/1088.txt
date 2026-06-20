@@ -1,9 +1,9 @@
 <TextBlock 1 w:24 h:2>
 Fei
 "A bell...?"<Close><End of Block>
-<TextBlock 2 w:48 h:2>
+<TextBlock 2 w:46 h:2>
 Fei
-"Do you know something?"<Close><End of Block>
+"D'you know something?"<Close><End of Block>
 <TextBlock 3 w:28 h:2>
 Fei
 "Here, too..."<Close><End of Block>

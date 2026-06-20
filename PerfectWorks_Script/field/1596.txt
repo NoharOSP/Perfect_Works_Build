@@ -105,9 +105,9 @@ What kind of power!?<New>
 I have the power of the
 Gate! If I can only get
 this machine to move!!"<Close><End of Block>
-<TextBlock 24 w:42 h:3>
+<TextBlock 24 w:40 h:3>
 Shakhan
-"What are you saying?
+"What're you saying?<Delay 10>
 Superficial power?"<Close><End of Block>
 <TextBlock 25 w:36 h:2>
 Shakhan
@@ -149,11 +149,10 @@ true power."<Close><End of Block>
 Grahf
 "I shall endow you
 with my true power!"<Close><End of Block>
-<TextBlock 33 w:26 h:4>
+<TextBlock 33 w:42 h:3>
 Fei
 "Whoa...<Delay 30>
-The Gate
-generator!?"<Close><End of Block>
+The Gate generator!?"<Close><End of Block>
 <TextBlock 34 w:46 h:3>
 Bart
 "That punk...<New>

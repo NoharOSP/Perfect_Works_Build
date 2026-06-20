@@ -432,7 +432,7 @@ Come to think of it...
 Alice, Timothy and you
 were always together.<New>
 I bet you had a crush
-on Alice too, eh?<Delay 20>
+on Alice too, huh?<Delay 20>
 Am I right? Hahahaha!<Close><End of Block>
 <TextBlock 77 w:46 h:4>
 Oh, hello there, Fei.<New>

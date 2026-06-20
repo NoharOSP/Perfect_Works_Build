@@ -130,8 +130,8 @@ Karellen
 the research facility.<New>
 Currently, the Solaris
 researchers are mainly
-working on genetic engin-
-eering down there.<New>
+working on genetic
+engineering down there.<New>
 It's a nest for fools
 who take pleasure in
 inhumane deeds,<New>
@@ -171,8 +171,8 @@ ago is quite astonishing.<New>
 Up until we discovered
 it, only unrefined work
 was possible...<New>
-At best, we would re-
-constitute the bodies
+At best, we would
+reconstitute the bodies
 of the injured using
 the amino acids and<New>
 so forth provided from
@@ -191,23 +191,24 @@ created by nature.<New>
 That is, if our primordial
 form is indeed of natural
 origin..."<Close><End of Block>
-<TextBlock 25 w:50 h:4>
+<TextBlock 25 w:52 h:4>
 Karellen
 "With the nanomachines
-up until now, although I
-could restructure genes,<New>
+up until now,<New>
+although I could
+restructure genes,<Delay 5>
 the greater depths were
-beyond my grasp <--> infor-
-mation hidden in the gaps
-of our DNA...the introns.<New>
-But the newer nano-
-machines have quite
-easily found that
-information.<New>
+beyond my grasp <--><New>
+the information hidden in
+the gaps of our DNA...<Delay 5>
+the introns.<New>
+But the newer nanomachines
+have quite easily found
+that information.<New>
 Information that, in
 essence, 'should not
 exist'.<New>
-And we are about
+And we're about
 to see the results."<Close><End of Block>
 <TextBlock 26 w:48 h:4>
 Karellen
@@ -228,15 +229,15 @@ everything."<Close><End of Block>
 Karellen
 "Elehayym... You were
 a Mother, after all..."<Close><End of Block>
-<TextBlock 29 w:52 h:4>
+<TextBlock 29 w:54 h:4>
 Karellen
 "Yes.<New>
 These are the gaps in
 your genes prior to
 exon substitution...<New>
-Basically, it's a concept-
-ualization analyzing the
-intron sections, where
+Basically, it's an analysis
+and conceptualization of
+the intron sections where
 information cannot exist.<New>
 Observe: this circular
 structure.<Delay 10> This is the

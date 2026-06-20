@@ -80,8 +80,8 @@ Verlaine
 "Y-<Delay 10>You<Delay 5>...<Delay 5>..."<Close><End of Block>
 <TextBlock 20 w:48 h:4>
 Jesse
-"What are you getting
-flustered about,<Delay 15> boy?<New>
+"What're you getting
+flustered about, boy?<New>
 It was a stun bullet.<Delay 10>
 He's just taking a nap.<New>
 You should've been
@@ -105,7 +105,7 @@ members, and hurried here.<Delay 10>
 But I was too late...<New>
 Looks like all Church folks
 have been done in, except
-for those who are out on
+for those who're out on
 some salvage mission."<Close><End of Block>
 <TextBlock 23 w:42 h:3>
 Jesse
@@ -171,7 +171,7 @@ the revenants that run
 rampant on the surface.<New>
 But<Delay 10> that was not their
 primary objective.<New>
-Behind the scenes, we had
+Behind the scenes, we'd
 also selected suitable
 candidates like Verlaine
 and the others...<New>
@@ -190,21 +190,23 @@ I wanted you to perform!"<Close><End of Block>
 <TextBlock 31 w:36 h:2>
 Billy
 "Another<Delay 10>...<Delay 10>role!?"<Close><End of Block>
-<TextBlock 32 w:54 h:4>
+<TextBlock 32 w:52 h:4>
 Stone
 "Billy.<Delay 20> There are certain
 things in this world you'd
 be happier not knowing.<New>
-For some people, even lies
-and deceptions can become
-the truth if they don't
-know the inner workings<New>
-of the system, its true
-form.<Delay 10> Indeed, was the
-system of<Delay 5> 'God'<Delay 5> and <Delay 5>'faith'<New>
-set up by the Church not
-held as truth by you and
-other land dwellers?"<Close><End of Block>
+For some people,
+even lies and deceptions
+can become the truth<New>
+if they don't know the
+inner workings of the
+system, its true form.<New>
+Indeed, was the system
+of<Delay 5> 'God'<Delay 5> and <Delay 5>'faith'
+set up by the Church
+not held as truth<New>
+by you and the people
+of the surface?"<Close><End of Block>
 <TextBlock 33 w:44 h:4>
 Billy
 "Tell me!<Delay 15>
@@ -231,7 +233,7 @@ Verus...<New>
 You believe that to be the
 salvation of wandering
 souls,<Delay 5> don't you?<New>
-In truth, it is all just
+In truth, it's all just
 another control system
 put in place by Solaris.<New>
 Those deeds that you
@@ -321,11 +323,11 @@ Church, and by keeping the
 company of those who have
 no faith of any kind at all,<New>
 you became blind to those
-who are truly unclean.<New>
+who're truly unclean.<New>
 I really didn't expect it of
 you... You who once lived
 only for your faith.<Delay 30> You
-should have done as we did.<New>
+should've done as we did.<New>
 But fear not, Billy.<Delay 20>
 I shall cleanse you.<Delay 20>
 You'll live on within me.<Delay 20>
@@ -343,7 +345,7 @@ Our mission is to pass
 judgment on fallen
 priests and sinners and
 make them repent."<Close><End of Block>
-<TextBlock 50 w:58 h:5>
+<TextBlock 50 w:56 h:5>
 Verlaine
 "The Pontiff and his
 brethren deserve to die!<New>
@@ -366,9 +368,9 @@ and bishops.<New>
 Indulging in selfish
 desires...<Delay 20> This is conduct
 'unbecoming of churchmen'!<New>
-Such corrupt wretches are not
+Such corrupt wretches aren't
 fit to be representatives
-of God. That is why we have
+of God. That's why we've
 purged them and made them
 atone for their sins.<New>
 These are the Bishop's
@@ -431,7 +433,7 @@ much as we were!"<Close><End of Block>
 <TextBlock 52 w:40 h:5>
 Verlaine
 "That's right.<Delay 20>
-Daily you have been
+Daily you've been
 dirtying your hands
 as an accomplice<-->"<Close><End of Block>
 <TextBlock 53 w:32 h:2>

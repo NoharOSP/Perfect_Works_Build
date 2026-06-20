@@ -193,7 +193,7 @@ an odd feeling."<Opcode 2 150><Close><End of Block>
 Elly
 "Nostalgic<Delay 5>...<Delay 15>
 Sad<Delay 5>...<Delay 15><New>
-As if I had also visited
+As if I'd also visited
 many times in my dreams<Delay 5>..."<Close><End of Block>
 <TextBlock 33 w:52 h:3>
 Elly

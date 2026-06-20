@@ -168,9 +168,9 @@ Maria
 Maria
 "Why...?<Delay 20>
 Why this...?"<Close><End of Block>
-<TextBlock 37 w:18 h:2>
+<TextBlock 37 w:20 h:2>
 Maria
-"Waghhh!"<Opcode 2 30><Close><End of Block>
+"Aaagghh!"<Opcode 2 30><Close><End of Block>
 <TextBlock 38 w:14 h:2>
 Maria
 "...!!"<Close><End of Block>
@@ -303,15 +303,15 @@ Solaris, who drove the
 professor to such lengths,<New>
 as soon as possible and
 restore freedom, then..."<Close><End of Block>
-<TextBlock 60 w:52 h:4>
+<TextBlock 60 w:54 h:4>
 Zephyr
 "Solaris is hidden from
 human sight by three
 Gates.<New>
 One of the Gates is under
-the Church of the Ethos
-HQ, but...<Delay 20>it is unreach-
-able, even with Gears.<New>
+the Church of the Ethos HQ,
+but...<Delay 20>it is unreachable,
+even with Gears.<New>
 The locations of the other
 two are not yet known.<New>
 There is also one more
@@ -435,11 +435,11 @@ Elly
 <TextBlock 77 w:38 h:2>
 Bart
 "You wanna change?"<Close><End of Block>
-<TextBlock 78 w:40 h:3>
+<TextBlock 78 w:38 h:3>
 Bart
 "What's with that
 creepy Gear...?<New>
-Do you know anything
+D'you know anything
 about it, Maria?"<Close><End of Block>
 <TextBlock 79 w:28 h:3>
 Bart

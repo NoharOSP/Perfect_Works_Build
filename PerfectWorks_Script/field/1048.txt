@@ -642,8 +642,8 @@ your hand at the controls!"<Close><End of Block>
 <TextBlock 126 w:56 h:4>
 Informationist
 "The <X> button is Attack.<Delay 15>
-(There are three attack but-
-tons and <X> is one of them.)<New>
+(There are three attack
+buttons altogether.)<New>
 It differs from Gear to Gear
 but is mainly utilized for
 close combat.<Delay 15> And you're not
@@ -659,8 +659,8 @@ Gear has that many, though."<Close><End of Block>
 <TextBlock 127 w:56 h:4>
 Informationist
 "The <S> button is Attack.<Delay 15>
-(There are three attack but-
-tons and <S> is one of them.)<New>
+(There are three attack
+buttons altogether.)<New>
 It differs from Gear to Gear
 but is mainly utilized for
 close combat.<Delay 15> And you're not
@@ -1097,7 +1097,7 @@ customizing your Gear?
 Our fates depend on it!"<Close><End of Block>
 <TextBlock 200 w:52 h:4>
 Fei
-"...Gear servicing, eh?<New>
+"...Gear servicing, huh?<New>
 Leaving it to just one
 mechanic does worry me a
 bit. I'll ask the Doc to

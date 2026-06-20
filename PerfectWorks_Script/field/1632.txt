@@ -33,8 +33,8 @@ Fei
 I'm gonna bust it up!!"<Close><End of Block>
 <TextBlock 11 w:6 h:1>
 No!<Opcode 2 30><Close><End of Block>
-<TextBlock 12 w:12 h:1>
-Waah!!<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:10 h:1>
+Oof!!<Opcode 2 30><Close><End of Block>
 <TextBlock 13 w:46 h:4>
 Elly
 "That won't work.<New>

@@ -317,10 +317,10 @@ Bart
 "In other words, he's an
 elitist. I don't think
 I like him much either."<Close><End of Block>
-<TextBlock 47 w:36 h:4>
+<TextBlock 47 w:34 h:4>
 Bart
 "So, Citan...<Delay 30>
-Do you think I can
+D'you think I can
 beat Geburah?"<Close><End of Block>
 <TextBlock 48 w:44 h:3>
 Citan

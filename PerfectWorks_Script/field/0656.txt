@@ -9,15 +9,15 @@ that I started to worry..."<Close><End of Block>
 <TextBlock 3 w:32 h:2>
 Mysterious Woman
 "..."<Close><End of Block>
-<TextBlock 4 w:44 h:2>
+<TextBlock 4 w:42 h:2>
 Fei
-"How are you feeling?"<Close><End of Block>
+"How're you feeling?"<Close><End of Block>
 <TextBlock 5 w:32 h:2>
 Mysterious Woman
 "..."<Close><End of Block>
 <TextBlock 6 w:54 h:4>
 Fei
-"Do you still intend to
+"D'you still intend to
 kill me? Then go right
 ahead.<New>
 But you'd better not do it

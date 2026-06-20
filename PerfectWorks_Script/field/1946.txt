@@ -239,7 +239,7 @@ I'll have Karellen
 take you<Delay 5>..."<Close><End of Block>
 <TextBlock 44 w:28 h:3>
 Karellen
-"What are you
+"What're you
 doing, Lacan?"<Close><End of Block>
 <TextBlock 45 w:52 h:3>
 Lacan
@@ -328,7 +328,7 @@ her inner abundance,<New>
 and you couldn't bridge
 that gulf.<Delay 15> That's why
 you're quitting painting.<Delay 15>
-You are rejecting her!<New>
+You're rejecting her!<New>
 And yet you can't bring
 yourself to leave her.<New>
 Why does she smile at you,
@@ -435,7 +435,7 @@ true smile only to you."<Close><End of Block>
 Lacan
 "I'm not worthy of
 her smile.<New>
-She is the hope of the
+She's the hope of the
 people.<Delay 15> Their support.<Delay 15>
 There's so much more
 she has to accomplish."<Close><End of Block>

@@ -54,11 +54,11 @@ Fei
 <TextBlock 14 w:20 h:2>
 Fei
 "Guh...!!"<Close><End of Block>
-<TextBlock 15 w:42 h:4>
+<TextBlock 15 w:46 h:4>
 Citan
 "Oh, you have finally
-regained conscious-
-ness, Fei..."<Close><End of Block>
+regained consciousness,
+Fei..."<Close><End of Block>
 <TextBlock 16 w:32 h:3>
 Citan
 "Yes...<Delay 20>well...

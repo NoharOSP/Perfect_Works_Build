@@ -10,24 +10,24 @@ Any word from them?"<Close><End of Block>
 <TextBlock 3 w:10 h:2>
 Fei
 "..."<Opcode 2 42><Close><End of Block>
-<TextBlock 4 w:50 h:2>
+<TextBlock 4 w:52 h:2>
 Maitreya
-"Yess! One for our side!"<Close><End of Block>
+"Yesss! One for our side!"<Close><End of Block>
 <TextBlock 5 w:53 h:5>
 Maitreya
 "Hold off the border
-fleet? We destroyed them!<New>
-Well, we've done our job!
+fleet?<Delay 10> We destroyed them!<New>
+Well, we've done our job!<Delay 10>
 The rest is up to the
 Young Master..."<Close><End of Block>
-<TextBlock 6 w:52 h:4>
+<TextBlock 6 w:50 h:4>
 Maitreya
 "Nothing.<New>
 They say no news is
 good news, I guess.<New>
 Besides, our Gears' comms
-equipment is not the best.<Delay 32>
-I'm sure everyone will
+equipment isn't the best.<Delay 32>
+I'm sure everyone'll
 be fine."<Close><End of Block>
 <TextBlock 7 w:30 h:2>
 Maitreya

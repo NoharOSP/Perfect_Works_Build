@@ -168,9 +168,9 @@ Maria
 "At last we'll
 determine the nature
 of these Gates."<Close><End of Block>
-<TextBlock 33 w:48 h:4>
+<TextBlock 33 w:46 h:4>
 Maria
-"Do you want to change?"<Delay 10>
+"D'you want to change?"<Delay 10>
 <Opcode 1 255>    Please
     That's okay<Close><End of Block>
 <TextBlock 34 w:50 h:4>
@@ -303,13 +303,13 @@ ever since then...<New>
 So this had to have
 happened even before
 that."<Close><End of Block>
-<TextBlock 59 w:54 h:4>
+<TextBlock 59 w:52 h:4>
 Bart
-"Okay, maybe once upon a
-time I wouldn't have under-
-stood such a story, but...<New>
-Why didn't you think I
-could deal with it now?
+"Okay, maybe once upon
+a time I wouldn't have
+understood such a story...<New>
+But why didn't you think
+I could deal with it now?
 Surely you could've told
 me about this?<New>
 Especially when you had
@@ -396,7 +396,7 @@ in the same way."<Close><End of Block>
 <TextBlock 73 w:52 h:4>
 Sigurd
 "That's the word Solarians
-use to refer to we who
+use to refer to us who
 live on the surface.<New>
 As I said before, they use
 such 'surface dwellers' or
@@ -718,14 +718,14 @@ Sigurd
 "...<Delay 30>Alright, I see.<New>
 Please tell Mason we'll
 be here a while longer."<Close><End of Block>
-<TextBlock 131 w:50 h:4>
+<TextBlock 131 w:48 h:4>
 Sigurd
 "We've heard from our
 units in Breidablik.<New>
 Things are progressing
-smoothly there. They have
+smoothly there. They've
 entered Fatima Castle.<New>
-They are investigating
+They're investigating
 Shakhan's private room
 on the top floor of the
 castle.<New>
@@ -773,9 +773,9 @@ Citan
 <TextBlock 140 w:50 h:2>
 Sigurd
 "Directly west of Nisan."<Close><End of Block>
-<TextBlock 141 w:44 h:4>
+<TextBlock 141 w:42 h:4>
 Sigurd
-"Young Master, do you
+"Young Master, d'you
 know of the big cave
 around there?"<Close><End of Block>
 <TextBlock 142 w:46 h:3>

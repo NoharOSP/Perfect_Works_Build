@@ -502,7 +502,7 @@ Everyone
 "SERIOUSLY!?"<Close><End of Block>
 <TextBlock 117 w:34 h:3>
 Bart
-"Eh?<Delay 30>
+"Huh?<Delay 30>
 What d'you mean?"<Close><End of Block>
 <TextBlock 118 w:42 h:4>
 Fei

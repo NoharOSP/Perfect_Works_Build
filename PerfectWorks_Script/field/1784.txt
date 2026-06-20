@@ -1,6 +1,6 @@
-<TextBlock 1 w:30 h:3>
+<TextBlock 1 w:28 h:3>
 Fei
-"What are these
+"What're these
 sounds?"<Close><End of Block>
 <TextBlock 2 w:20 h:2>
 Citan

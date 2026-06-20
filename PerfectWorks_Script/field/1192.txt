@@ -28,7 +28,7 @@ Height 16.3 sharls
 Base Weight 17.8 kahnns
 Full Weight 22.7 kahnns
 when fully equipped.<New>
-A well balanced Gear in
+A well-balanced Gear in
 offensive, defensive,
 and Ether abilities.<New>
 But it has some parts that
@@ -255,8 +255,8 @@ trouble because we acted
 recklessly.<Delay 10> I sincerely
 apologize to you.<New>
 As recompense, allow us to
-give you a ride to what-
-ever destination you want.<New>
+give you a ride to whatever
+destination you want.<New>
 But please bear with us
 while we make a detour back
 to our base for supplies.<New>
@@ -384,30 +384,30 @@ alright..."<Close><End of Block>
 Elly
 "I take my eyes off
 you for a second...<New>
-What are you doing up
+What're you doing up
 and about when you're
 still in recovery?"<Close><End of Block>
-<TextBlock 45 w:44 h:4>
+<TextBlock 45 w:42 h:4>
 Elly
-"What are you doing up
+"What're you doing up
 and about when you're
 still in recovery?"<Close><End of Block>
-<TextBlock 46 w:44 h:4>
+<TextBlock 46 w:42 h:4>
 Billy
-"What are you doing up
+"What're you doing up
 and about when you're
 still in recovery?<New>
 It's not a good idea."<Close><End of Block>
 <TextBlock 47 w:44 h:4>
 Bart
-"What are you moving
+"What're you moving
 around for when you're
 still recovering?<New>
 The patient should
 be lying low!!"<Close><End of Block>
-<TextBlock 48 w:54 h:4>
+<TextBlock 48 w:52 h:4>
 Rico
-"Why are you moving around?
+"Why're you moving around?
 You're still recovering!<Delay 10>
 Get back to bed!!"<Close><End of Block>
 <TextBlock 49 w:44 h:4>

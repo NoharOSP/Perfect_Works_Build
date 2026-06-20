@@ -78,8 +78,8 @@ your hand at the controls!"<Close><End of Block>
 <TextBlock 12 w:56 h:4>
 Informationist
 "The <X> button is Attack.<Delay 15>
-(There are three attack but-
-tons and <X> is one of them.)<New>
+(There are three attack
+buttons altogether.)<New>
 It differs from Gear to Gear
 but is mainly utilized for
 close combat.<Delay 15> And you're not
@@ -95,8 +95,8 @@ Gear has that many, though."<Close><End of Block>
 <TextBlock 13 w:56 h:4>
 Informationist
 "The <S> button is Attack.<Delay 15>
-(There are three attack but-
-tons and <S> is one of them.)<New>
+(There are three attack
+buttons altogether.)<New>
 It differs from Gear to Gear
 but is mainly utilized for
 close combat.<Delay 15> And you're not
@@ -347,11 +347,11 @@ fellow students."<Close><End of Block>
 Fei
 "<Delay 5>...<Delay 5>Khan?<Delay 30> Is that my
 father's name?"<Close><End of Block>
-<TextBlock 54 w:46 h:4>
+<TextBlock 54 w:42 h:4>
 Wiseman
-"Why do you ask your
+"Why d'you ask your
 father's name?<Delay 20> You
-haven't lost your<Delay 5>...<Delay 5>?"<Close><End of Block>
+haven't lost your<-->?"<Close><End of Block>
 <TextBlock 55 w:46 h:4>
 Fei
 "Yeah<Delay 5>...<Delay 5>
@@ -408,9 +408,9 @@ to strengthen myself."<Close><End of Block>
 Fei
 "And Mom?<Delay 15>
 What happened to my mom?"<Close><End of Block>
-<TextBlock 66 w:50 h:3>
+<TextBlock 66 w:48 h:3>
 Wiseman
-"You do not remember that
+"You don't remember that
 either?<Delay 15> <Delay 5>...<Delay 5>I see.<New>
 <Delay 5>...<Delay 5>According to Khan,<Delay 10>
 when you were but a
@@ -534,13 +534,13 @@ Wiseman
 "Hmmm<Delay 5>...<Delay 5> If Grahf is
 now appearing before 
 you again<Delay 5>...<New>
-then that is a
+then that's a
 possibility<Delay 5>...<Delay 30>
 That would be truly
 unfortunate..."<Close><End of Block>
-<TextBlock 84 w:50 h:4>
+<TextBlock 84 w:48 h:4>
 Wiseman
-"Do you remember anything
+"D'you remember anything
 about your fighting
 techniques?"<Close><End of Block>
 <TextBlock 85 w:32 h:3>
@@ -633,7 +633,7 @@ able to do something in
 tomorrow's final round<Delay 5>...<New>
 The difference in the
 performance of the Gear
-parts is not going to
+parts isn't going to
 influence the outcome...<New>
 ...Well, not as much as I
 thought before."<Close><End of Block>

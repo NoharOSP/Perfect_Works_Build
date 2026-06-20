@@ -598,11 +598,11 @@ For<Delay 15>...<Delay 5>us?"<Close><End of Block>
 Battler
 "Please,<Delay 15>
 come with us<Delay 5>..."<Close><End of Block>
-<TextBlock 105 w:52 h:4>
+<TextBlock 105 w:54 h:4>
 Fei
-"<Delay 5>...<Delay 5>This isn't going to
-be another stupid <Delay 5>Baptis-
-mal Ceremony,<Delay 5> is it?"<Close><End of Block>
+"<Delay 5>...<Delay 5>This isn't going
+to be another stupid<Delay 5>
+Baptismal Ceremony,<Delay 5> is it?"<Close><End of Block>
 <TextBlock 106 w:30 h:3>
 Amazoness
 "Hey,<Delay 5> hey,<Delay 15>

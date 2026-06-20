@@ -44,12 +44,12 @@ last survivors of the
 royal dynasty...?"<Close><End of Block>
 <TextBlock 9 w:46 h:4>
 Sigurd
-"Damn it... Why are you
+"Damn it... Why're you
 still backing Shakhan?<New>
 I suppose as far as you
 people are concerned,
-anyone will do for
-ruler of a kingdom!"<Close><End of Block>
+anyone'll do for ruler
+of a kingdom!"<Close><End of Block>
 <TextBlock 10 w:52 h:4>
 Myyah
 "And...? King Fatima
@@ -154,9 +154,9 @@ gonna get mauled..."<Close><End of Block>
 Mason
 "Everyone...
 please get down."<Close><End of Block>
-<TextBlock 26 w:28 h:3>
+<TextBlock 26 w:26 h:3>
 Bart
-"Do you have a
+"D'you have a
 plan, Mason?"<Close><End of Block>
 <TextBlock 27 w:34 h:2>
 Mason

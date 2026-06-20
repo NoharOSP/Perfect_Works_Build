@@ -1,7 +1,7 @@
 <TextBlock 1 w:26 h:1>
 <Opcode 1 255>Mom, help me!<Opcode 2 5><Close><End of Block>
-<TextBlock 2 w:40 h:1>
-<Opcode 1 255>What are you doing!?<Opcode 2 5><Close><End of Block>
+<TextBlock 2 w:38 h:1>
+<Opcode 1 255>What're you doing!?<Opcode 2 5><Close><End of Block>
 <TextBlock 3 w:6 h:1>
 <Opcode 1 255>No!<Opcode 2 5><Close><End of Block>
 <TextBlock 4 w:12 h:1>

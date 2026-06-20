@@ -1,4 +1,4 @@
-<TextBlock 1 w:44 h:4>
+<TextBlock 1 w:42 h:4>
 Fei
 "Wow...<Delay 10>
 So this is the Church

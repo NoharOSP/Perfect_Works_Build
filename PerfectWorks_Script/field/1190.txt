@@ -66,14 +66,14 @@ it looks like Shevat's."<Close><End of Block>
 Bart
 "Shevat?<Delay 10>
 What the heck?"<Close><End of Block>
-<TextBlock 14 w:50 h:4>
+<TextBlock 14 w:52 h:4>
 Citan
 "This Yggdrasil was
 probably not made by
 your father.<New>
 It has hidden potential
-that would be unfathom-
-able by the technological
+that would be unfathomable
+by the technological
 standards of that time.<New>
 Perhaps your father
 feared that power and

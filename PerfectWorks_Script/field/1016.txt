@@ -53,11 +53,11 @@ something incredible!<Close><End of Block>
 <TextBlock 11 w:36 h:2>
 Of course you know
 that, though!<Close><End of Block>
-<TextBlock 12 w:50 h:4>
+<TextBlock 12 w:52 h:4>
 G-<Delay 5>Good afternoon.<Delay 10>
 W-<Delay 5>Welcome to the Wildcat.
-It must be tough travel-
-ing in such a<Delay 5> big group.<New>
+It must be tough traveling
+in such a<Delay 5> big group.<New>
 W-Would you like to
 change your arrangement?<Delay 15>
 I'm not used to this<Delay 5>...<Delay 5>

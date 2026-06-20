@@ -157,7 +157,7 @@ Latina
 "Youch ouch ouch<Delay 5>...<Delay 15>
 W-<Delay 5>Welcome,<Delay 5> Fei.
 That last fight you had
-with me was<Delay 5> good fun,<Delay 5> eh?
+with me was<Delay 5> good fun,<Delay 5> hmm?
 Huh,<Delay 5> you don't remember<Delay 5>...?<New>
 Aww well<Delay 5>...<Delay 5>
 That last semi-finals bout
@@ -573,7 +573,7 @@ I'm also Rank D!<New>
 But then again, how could
 a supplier like me beat
 Battlers like them? That's
-how it goes, eh, bro!?"<Close><End of Block>
+how it goes, huh, bro!?"<Close><End of Block>
 <TextBlock 89 w:52 h:4>
 Fei
 "What's with this 'bro'?<Delay 15>
@@ -597,10 +597,10 @@ There's nothing I don't
 know about this D Block!
 And I am a supplier, so
 I've got the connections!"<Close><End of Block>
-<TextBlock 93 w:52 h:3>
+<TextBlock 93 w:50 h:3>
 Fei
 "<Delay 5>...<Delay 5>Battling Committee?<Delay 15>
-What do you want with me?"<Close><End of Block>
+What d'you want with me?"<Close><End of Block>
 <TextBlock 94 w:56 h:4>
 Committee Member Rue
 "<Delay 5>...<Delay 5>I'll cut to the chase.
@@ -704,14 +704,14 @@ I don't like fighting.
 Or riding Gears<Delay 5>...<Delay 20>
 So it just makes no
 sense for me to do it."<Close><End of Block>
-<TextBlock 106 w:50 h:4>
+<TextBlock 106 w:52 h:4>
 Hammer
 "If you become a Battler,
 you can leave the prison
 and live in luxury!<New>
 Power is everything here!
-The weak and the power-
-less just get oppressed!!<Delay 20>
+The weak and the powerless
+just get oppressed!!<Delay 20>
 So c'mon,<Delay 5> give it a try!"<Close><End of Block>
 <TextBlock 107 w:32 h:2>
 Fei

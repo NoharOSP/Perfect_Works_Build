@@ -5,8 +5,8 @@ further off.<Close><End of Block>
 <TextBlock 2 w:50 h:2>
 <Delay 3>...<Delay 5>Constantly<Delay 5> drifting<Delay 5>...<Delay 10>
 Sounds like me right now.<Close><End of Block>
-<TextBlock 3 w:34 h:1>
-What do you mean?<Close><End of Block>
+<TextBlock 3 w:32 h:1>
+What d'you mean?<Close><End of Block>
 <TextBlock 4 w:46 h:4>
 In the end, maybe I've
 just been <Delay 3>carried

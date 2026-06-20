@@ -33,7 +33,7 @@ Somehow I feel like...<Delay 10>
 I've met him before..."<Close><End of Block>
 <TextBlock 8 w:38 h:4>
 Elly
-"Do you understand
+"D'you understand
 what he's saying?<Delay 10>
 Shall I translate?"<Close><End of Block>
 <TextBlock 9 w:26 h:2>
@@ -79,8 +79,8 @@ Soylent System?<Delay 10>
 What's that?)"<Close><End of Block>
 <TextBlock 18 w:54 h:4>
 Elly
-"('Gazel' is a word refer-
-ring to pure Solarians...
+"('Gazel' is a word that
+refers to pure Solarians...
 First Class citizens,<New>
 but...in this case, I
 wonder if he's talking
@@ -135,15 +135,15 @@ their minds and then
 tomorrow they<--><New>
 I mean, it's possible
 isn't it?"<Close><End of Block>
-<TextBlock 22 w:52 h:4>
+<TextBlock 22 w:50 h:4>
 Elly
 "That's<--><Delay 10> Well, maybe,
 but we can't do anything
 right now, can we?<New>
 Also, Citan wasn't among<Delay 10>
-them. Which means he's
-surely watching the broad-
-cast somewhere right now.<New>
+them. Which means he must
+be somewhere watching the
+broadcast right now.<New>
 We have to look for him,
 first of all.<Delay 10> He knows
 the layout of the Solaris
@@ -177,9 +177,9 @@ recklessly!"<Close><End of Block>
 But<-->!<Opcode 2 20><Close><End of Block>
 <TextBlock 28 w:20 h:1>
 But what!?<Opcode 2 20><Close><End of Block>
-<TextBlock 29 w:30 h:2>
-You two, what
-are you doing!?<Close><End of Block>
+<TextBlock 29 w:32 h:2>
+You two, what're
+you doing!?<Close><End of Block>
 <TextBlock 30 w:36 h:3>
 Fei
 "Now look!<Delay 10>

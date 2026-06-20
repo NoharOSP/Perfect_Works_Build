@@ -216,12 +216,12 @@ Elly
 Elly...<Close><End of Block>
 <TextBlock 46 w:6 h:1>
 ...<Close><End of Block>
-<TextBlock 47 w:52 h:4>
+<TextBlock 47 w:50 h:4>
 Medena
 "Elly,<Delay 10> I think you
 should live your life
 the way you wish.<New>
-If those who are important
+If those who're important
 to you are in peril, you
 can't just ignore it..."<Close><End of Block>
 <TextBlock 48 w:46 h:3>
@@ -244,7 +244,7 @@ Medena
 <TextBlock 52 w:36 h:3>
 Elly
 "Yes...<Delay 10>
-Take care, mom..."<Close><End of Block>
+Take care, Mom..."<Close><End of Block>
 <TextBlock 53 w:20 h:2>
 Medena
 "Hurry..."<Close><End of Block>

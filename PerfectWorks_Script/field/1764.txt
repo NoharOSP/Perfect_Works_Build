@@ -27,16 +27,16 @@ it off."<Opcode 2 40><Close><End of Block>
 Fei
 "Uh...<Delay 30>
 What...?"<Close><End of Block>
-<TextBlock 9 w:38 h:4>
+<TextBlock 9 w:36 h:4>
 Fei
-"What is this!?<Delay 20>
-Why are you showing
+"What is this!?<Delay 10>
+Why're you showing
 me these things!?<New>
-Who are you!?
+Who are you!?<Delay 10>
 Who's doing this!?<New>
-Elly!
+Elly!<Delay 10>
 Doc!<New>
-Where are you!?
+Where are you!?<Delay 10>
 Where<-->"<Close><End of Block>
 <TextBlock 10 w:16 h:2>
 Fei
@@ -44,7 +44,7 @@ Fei
 <TextBlock 11 w:36 h:2>
 Fei
 "Doc!?<New>
-Wh-Who are they?<Delay 10>
+Wh-Who're they?<Delay 10>
 What's going on!?"<Close><End of Block>
 <TextBlock 12 w:16 h:2>
 Fei
@@ -532,10 +532,10 @@ the body and the cranial
 nerves.<New>
 By the way, how is Fei
 doing right now?"<Close><End of Block>
-<TextBlock 92 w:46 h:3>
+<TextBlock 92 w:44 h:3>
 Id
-"Fei?
-Which Fei do you mean?"<Close><End of Block>
+"Fei?<Delay 10>
+Which Fei d'you mean?"<Close><End of Block>
 <TextBlock 93 w:50 h:2>
 Citan
 "There is more than one?"<Close><End of Block>
@@ -566,8 +566,8 @@ Id
 Because he's under my
 authority.<New>
 He cannot peer into my
-memories. He is a Fei
-who should not exist
+memories. He's a Fei
+who shouldn't exist
 in the first place.<New>
 A personality created
 by that man against
@@ -595,7 +595,7 @@ you are referring to?"<Close><End of Block>
 <TextBlock 104 w:34 h:3>
 Id
 "...<New>
-What do you hope
+What d'you hope
 to gain by asking
 about him?<New>
 You think you can
@@ -649,7 +649,7 @@ major traumatic event
 in their past."<Close><End of Block>
 <TextBlock 108 w:52 h:4>
 Id
-"Do you insist that I
+"D'you insist that I
 reminisce?<New>
 Don't get the wrong
 idea here.<Delay 10> I haven't
@@ -714,7 +714,7 @@ Id
 "It's because you forced
 me on to the stage.<Delay 10>
 He has awakened.<New>
-Hmm, I should have been
+Hmm, I should've been
 able to take the stage
 at will by now.<Delay 5>
 But I still can't do it.<New>

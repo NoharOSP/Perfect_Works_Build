@@ -18,12 +18,12 @@ churansformation!"<Close><End of Block>
 <TextBlock 5 w:42 h:2>
 <Chu-Chu>
 "Ouchu! That hurt..."<Close><End of Block>
-<TextBlock 6 w:48 h:4>
+<TextBlock 6 w:52 h:4>
 <Chu-Chu>
 "I'm not an
 inferior animal.
 I'm <Chu-Chu>.<New>
 Don't be a bad loser!
-If you wanchu apologize,
-you had better do it
-while you still can."<Close><Close><Close><UNKNOWN CHUNK 176><UNKNOWN CHUNK 4><Close><Close><End of Block>
+If you want chu apologize,
+you'd better do it while
+you still can."<Close><Close><Close><Close><Close><End of Block>

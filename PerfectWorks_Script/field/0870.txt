@@ -67,7 +67,7 @@ are you doing...?"<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 Bart
 "This is my father's wish.<New>
-I am sorry. You both have
+I'm sorry. You've both
 worked so hard for many
 long years to restore me
 to the throne.<New>
@@ -88,7 +88,7 @@ Mason
 Sigurd
 "Can't you hear the 
 crowd outside?<New>
-They have chosen you as
+They've chosen you as
 their king. You're going
 to be very busy."<Close><End of Block>
 <TextBlock 14 w:16 h:2>

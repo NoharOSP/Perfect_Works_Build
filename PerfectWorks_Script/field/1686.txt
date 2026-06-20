@@ -4,8 +4,8 @@ Medena
 I'm so happy...<Delay 10>
 Let me see you...<New>
 Your father said you'd
-be back, but I had
-almost given up hope."<Close><End of Block>
+be back, but I'd almost
+given up hope."<Close><End of Block>
 <TextBlock 2 w:24 h:2>
 Elly
 "...Mother."<Close><End of Block>

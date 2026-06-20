@@ -133,7 +133,7 @@ take down Shakhan from
 his seat of power."<Close><End of Block>
 <TextBlock 38 w:50 h:4>
 Bart
-"There is a need to
+"There's a need to
 rebuild this country
 from scratch.<New>
 I've...<Delay 30>
@@ -160,7 +160,7 @@ Damn, that wasn't
 like me..."<Close><End of Block>
 <TextBlock 42 w:46 h:4>
 Margie
-"You could have just
+"You could've just
 told them that you were
 <Delay 30>the Prince."<Close><End of Block>
 <TextBlock 43 w:50 h:2>

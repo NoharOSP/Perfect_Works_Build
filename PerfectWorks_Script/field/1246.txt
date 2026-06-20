@@ -31,13 +31,12 @@ Look!!"<Close><End of Block>
 <TextBlock 9 w:48 h:2>
 I can get more money for
 someone who plays nice!<Close><End of Block>
-<TextBlock 10 w:32 h:2>
+<TextBlock 10 w:42 h:2>
 Elly
-"What are you
-doing!?"<Close><End of Block>
+"What're you doing!?"<Close><End of Block>
 <TextBlock 11 w:26 h:2>
 What?<Delay 10> Who the
-hell are you?<Close><End of Block>
+hell're you?<Close><End of Block>
 <TextBlock 12 w:34 h:3>
 Maybe instead of
 this brat we'll
@@ -202,10 +201,9 @@ to help them out?"<Close><End of Block>
 Etone
 "F-Father?
 And Prim too!?"<Close><End of Block>
-<TextBlock 48 w:36 h:3>
+<TextBlock 48 w:54 h:2>
 Jesse
-"Oh, this is my
-son Billy."<Close><End of Block>
+"Oh, this is my son Billy."<Close><End of Block>
 <TextBlock 49 w:52 h:3>
 Billy
 "Where have you been
@@ -372,7 +370,7 @@ Jesse
 to get going too.<New>
 Later, Hyuga.
 No doubt I'll be seein'
-you again, eh?"<Close><End of Block>
+you again, huh?"<Close><End of Block>
 <TextBlock 73 w:28 h:3>
 Citan
 "Ah, that is
@@ -414,12 +412,11 @@ the Church headquarters."<Close><End of Block>
 <TextBlock 80 w:30 h:2>
 Elly
 "...<Delay 10>Thank you."<Close><End of Block>
-<TextBlock 81 w:42 h:3>
+<TextBlock 81 w:50 h:4>
 Bart
-"Heh...why are you
-the one thanking me?<New>
-Keen to see Fei back
-on his feet...?"<Close><End of Block>
+"Heh...<Delay 5>why're you the one
+thanking me?<Delay 10> Keen to see
+Fei back on his feet...?"<Close><End of Block>
 <TextBlock 82 w:26 h:3>
 Margie
 "Heehee.

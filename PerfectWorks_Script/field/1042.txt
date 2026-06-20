@@ -58,11 +58,11 @@ Take him outside!"<Close><End of Block>
 Hammer
 "B-B-<Delay 5>Broooo!!<Delay 15>
 Are you heeere?"<Opcode 2 45><Close><End of Block>
-<TextBlock 14 w:56 h:4>
+<TextBlock 14 w:54 h:4>
 Rue
 "This room is yours to use.<Delay 15>
 Next door is your bedroom.<New>
-Oh,<Delay 5> and Fei:<Delay 15> you will now be
+Oh,<Delay 5> and Fei:<Delay 15> you'll now be
 given the title of Champion<Delay 5>
 as well as special Rank S
 privileges."<Close><End of Block>

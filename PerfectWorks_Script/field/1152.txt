@@ -218,11 +218,11 @@ spoke of before?<Close><End of Block>
 <TextBlock 42 w:20 h:1>
 Emperor Cain
 "Just so."<Close><End of Block>
-<TextBlock 43 w:50 h:4>
+<TextBlock 43 w:52 h:4>
 Emperor Cain
 "Molecular engineering...<New>
-The land of nano-
-technology's creation,
+The land of
+nanotechnology's creation,
 the metropolis of the
 Zeboim civilization,<New>
 sleeps beneath the
@@ -562,14 +562,14 @@ ME! How dare you!"<Close><End of Block>
 <TextBlock 111 w:24 h:2>
 Ramsus
 "G-<Delay 10>Grrgh..."<Close><End of Block>
-<TextBlock 112 w:52 h:4>
+<TextBlock 112 w:50 h:4>
 Myyah
 "Please calm yourself,
 Commander!<New>
-This is not good for you.
+This isn't good for you.<Delay 10>
 Your wounds from the
-earlier battle are not yet
-fully healed! Commander!"<Close><End of Block>
+earlier battle aren't yet
+fully healed!<Delay 10> Commander!"<Close><End of Block>
 <TextBlock 113 w:20 h:1>
 No matter.<Close><End of Block>
 <TextBlock 114 w:32 h:4>
@@ -624,9 +624,9 @@ as possible..."<Close><End of Block>
 Dominia
 "That our ideals
 may be realized."<Close><End of Block>
-<TextBlock 125 w:48 h:2>
+<TextBlock 125 w:46 h:2>
 Cherubina
-"Well then, we are off."<Close><End of Block>
+"Well then, we're off."<Close><End of Block>
 <TextBlock 126 w:40 h:2>
 So, a single surface
 Gate remains.<Close><End of Block>
@@ -874,7 +874,7 @@ adequately defend
 Etemenanki airspace?<Close><End of Block>
 <TextBlock 171 w:28 h:4>
 Karellen
-"Even if he is
+"Even if he's
 given a Vessel
 of Anima?"<Close><End of Block>
 <TextBlock 172 w:22 h:2>
@@ -1171,7 +1171,7 @@ Myyah
 "I see<Delay 5>...<New>
 The defeat against
 Fei a few days ago<Delay 5>...<Delay 5>
-It has left Carl
+It's left Carl
 quite unstable.<New>
 Just...<Delay 10>a little
 longer...<Delay 10>okay?"<Close><End of Block>
@@ -1240,13 +1240,13 @@ for you.<Delay 10> A superhuman
 ever since the origin...<New>
 If you would but eliminate
 him, then<Delay 5>..."<Close><End of Block>
-<TextBlock 246 w:54 h:4>
+<TextBlock 246 w:50 h:4>
 Myyah
 "That's right.<New>
 Although you possess the
 superior qualities, as
 long as the 'original'
-exists you will be shunned.<New>
+exists you'll be shunned.<New>
 Eliminate the fragmented
 power, and all will be
 yours<Delay 5>...<Delay 5> Don't you think
@@ -1279,9 +1279,9 @@ accomplishment of our
 goal.<Close><End of Block>
 <TextBlock 254 w:46 h:4>
 The Vessels of Anima
-have awakened, having
-obtained their compan-
-ions, the Animus.<New>
+have awakened,
+having obtained their
+companions, the Animus.<New>
 Dan,<Delay 5> Joseph<Delay 5> and Gad,<Delay 5>
 aligned with surface
 dwellers<Delay 5>...<Close><End of Block>
@@ -1406,7 +1406,7 @@ Karellen
 "God?<Delay 15>
 Who said you'd become God?<New>
 Don't be preposterous.<Delay 5>
-We are humans.<Delay 5> Even you,
+We're humans.<Delay 5> Even you,
 generated to be terminals
 of God, are the same.<New>
 'Humans cannot become God'.

@@ -369,17 +369,16 @@ Ga ha ha!"<Close><End of Block>
 Ha ha ha!<Opcode 2 10><Close><End of Block>
 <TextBlock 58 w:18 h:1>
 Ha ha ha!<Opcode 2 10><Close><End of Block>
-<TextBlock 59 w:52 h:4>
+<TextBlock 59 w:56 h:5>
 Shevat Agent
-"Originally, Shevat was a
-town situated on top of
-Babel Tower...<New>
-They say there was a
-facility at the top of the
-tower for communicating
-with the Shevat homeland.<New>
-If only it is still there
-now..."<Close><End of Block>
+"Originally, Shevat was
+situated at the top of
+Babel Tower.<New>
+They say there's a facility
+at the top of the tower for
+communicating with the
+Shevat homeland.<Delay 10> If that
+still exists today, then..."<Close><End of Block>
 <TextBlock 60 w:50 h:3>
 Phew! At last, I no
 longer have to listen to
@@ -526,18 +525,16 @@ get back..?)"<Close><End of Block>
 Jesse
 "I see.<Delay 10> This is the place
 you insisted on returning
-to, eh?"<Close><End of Block>
-<TextBlock 85 w:36 h:4>
+to, huh?"<Close><End of Block>
+<TextBlock 85 w:52 h:3>
 Sigurd
 "Not quite...<New>
-Once I got back to
-Av, Mimir, Mason
-and I went to save
-the Young Master.<New>
-This ship just so
-happened to be
-docked in Breida-
-blik at the time."<Close><End of Block>
+Once I got back to Av,
+Mimir, Mason and I went
+to save the Young Master.<New>
+This ship just so happened
+to be docked in Breidablik
+at the time."<Close><End of Block>
 <TextBlock 86 w:36 h:4>
 Jesse
 "Mimir...
@@ -669,10 +666,10 @@ Billy
 "...<Delay 10>
 Seems too good for you who
 just brandishes a whip..."<Close><End of Block>
-<TextBlock 103 w:38 h:4>
+<TextBlock 103 w:36 h:4>
 Bart
 "Hey!<Delay 10>
-Why are you getting
+Why're you getting
 sharp with me!?"<Close><End of Block>
 <TextBlock 104 w:52 h:4>
 Billy
@@ -883,7 +880,7 @@ Fei
 "I'm alright, too."<Close><End of Block>
 <TextBlock 136 w:52 h:4>
 Jesse
-"Maria, eh...?<Delay 10> Hmm...<Delay 10>
+"Maria, huh...?<Delay 10> Hmm...<Delay 10>
 If I remember right, her
 father's name was Nikola?"<Close><End of Block>
 <TextBlock 137 w:50 h:4>
@@ -910,13 +907,13 @@ of contacting them either."<Close><End of Block>
 I see...<Close><End of Block>
 <TextBlock 142 w:4 h:1>
 !!<Opcode 2 30><Close><End of Block>
-<TextBlock 143 w:58 h:5>
+<TextBlock 143 w:56 h:5>
 Shevat Agent
-"There just may be a way!
+"There may just be a way!
 Originally, Shevat was
 situated at the top of
 Babel Tower.<New>
-They say there is a facility
+They say there's a facility
 at the top of the tower for
 communicating with the
 Shevat homeland.<Delay 10> If that

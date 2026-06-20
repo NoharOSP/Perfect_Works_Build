@@ -81,7 +81,7 @@ Billy says it..."<Close><End of Block>
 <TextBlock 22 w:52 h:4>
 Bart
 "Okay?<Delay 20> Now listen up!<New>
-The Limiters that are
+The Limiters that're
 coded into our bodies <--><New>
 right now, the research
 facility here is the only
@@ -133,11 +133,11 @@ Billy
 "No Limiter?<Delay 10>
 Isn't that because
 Elly is a Solarian?"<Close><End of Block>
-<TextBlock 31 w:50 h:4>
+<TextBlock 31 w:48 h:4>
 Billy
 "Yes.<New>
-If we are delayed here,
-it will get dangerous for
+If we're delayed here,
+it'll get dangerous for
 the group who went ahead
 to help Elly's parents."<Close><End of Block>
 <TextBlock 32 w:44 h:4>

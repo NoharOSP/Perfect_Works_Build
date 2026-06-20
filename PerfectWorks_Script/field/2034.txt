@@ -73,9 +73,9 @@ shut it down.<New>
 In order to analyze the
 cause of the rampage,
 its core was dismantled<New>
-and loaded onto an inter-
-stellar immigrant ship to
-be transported to a planet
+and loaded onto an
+interstellar immigrant ship
+to be moved to a planet
 in another star system.<New>
 The disassembled Deus
 resisted.<Delay 20> Mid-flight,
@@ -234,7 +234,7 @@ components for Deus.<New>
 But all of you are
 different.<New>
 You could say...<Delay 10>
-you are humans who have
+you are humans who've
 been released from your
 original destiny<New>
 by recurring through the
@@ -294,15 +294,15 @@ are one and the same being.<New>
 Components of Deus.<Delay 20>
 Overseers of humanity.<Delay 20>
 Do you see now?"<Close><End of Block>
-<TextBlock 32 w:44 h:4>
+<TextBlock 32 w:50 h:4>
 Elly
 "Let's leave the
 story at that.<Delay 20>
 Deus has awakened.<New>
-I am one of the compo-
-nents that make up the
-system.<Delay 20> Hence, I must
-become one with it."<Close><End of Block>
+I'm one of the components
+that make up the system.<Delay 20>
+Hence, I must become one
+with it."<Close><End of Block>
 <TextBlock 33 w:46 h:4>
 Citan
 "Elly!<Delay 20>
@@ -342,11 +342,11 @@ in such an act!?"<Close><End of Block>
 <TextBlock 38 w:48 h:4>
 Elly
 "Who knows...?<New>
-Beings who are able to
+Beings who're able to
 create a god will become
 an obstacle sooner or
 later.<New>
-So they are to be
+So they're to be
 eliminated.<Delay 20> I'm just
 programmed this way..."<Close><End of Block>
 <TextBlock 39 w:46 h:4>

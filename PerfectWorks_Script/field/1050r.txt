@@ -1649,8 +1649,8 @@ your hand at the controls!"<Close><End of Block>
 <TextBlock 271 w:56 h:4>
 Informationist
 "The <X> button is Attack.<Delay 15>
-(There are three attack but-
-tons and <X> is one of them.)<New>
+(There are three attack
+buttons altogether.)<New>
 It differs from Gear to Gear
 but is mainly utilized for
 close combat.<Delay 15> And you're not
@@ -1666,8 +1666,8 @@ Gear has that many, though."<Close><End of Block>
 <TextBlock 272 w:56 h:4>
 Informationist
 "The <S> button is Attack.<Delay 15>
-(There are three attack but-
-tons and <S> is one of them.)<New>
+(There are three attack
+buttons altogether.)<New>
 It differs from Gear to Gear
 but is mainly utilized for
 close combat.<Delay 15> And you're not

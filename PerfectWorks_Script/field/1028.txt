@@ -209,12 +209,12 @@ The nerve of the bastard!
 Said he wouldn't let me in
 unless I slip him some
 money! That makes me seethe!<Close><End of Block>
-<TextBlock 38 w:56 h:6>
+<TextBlock 38 w:58 h:6>
 I'm a wandering Battler<Delay 5>...!<Delay 5>
 The Battling Games are over,
-so I am thinking of leaving
-in search of newer battle-
-fields.<Delay 15> Oh<Delay 5>...<Delay 5>and don't you
+so I'm thinking of leaving in
+search of newer battlefields.<Delay 15>
+Oh<Delay 5>...<Delay 5>and don't you
 dare ask me how it went!<Close><End of Block>
 <TextBlock 39 w:56 h:4>
 I'm a wandering Battler. <Delay 15>
@@ -282,8 +282,8 @@ There's talk that recently
 the Champ himself conducted
 a Baptismal Ceremony.<New>
 I don't know whether it's
-true, but I feel for which-
-ever prisoner received it!<Close><End of Block>
+true, but I feel for the
+prisoner who received it!<Close><End of Block>
 <TextBlock 49 w:54 h:3>
 Hmm<Delay 5>...<Delay 5>but then again<Delay 5>...<Delay 5>
 it might have been Suzanne.<Delay 15>
@@ -870,7 +870,7 @@ look after D Block.
 They say he just got here!"<Close><End of Block>
 <TextBlock 174 w:54 h:3>
 Fei
-"...The new doctor, eh?<Delay 10><New>
+"...The new doctor, huh?<New>
 So, what on earth has this
 new doctor got to do with
 you, the great 'supplier'?"<Close><End of Block>
@@ -885,8 +885,8 @@ by establishing black-market
 medical-treatment routes!"<Close><End of Block>
 <TextBlock 176 w:44 h:4>
 Fei
-"...So that's it, huh?
-Oh, Hammer, what will
+"...So that's it, huh?<Delay 5>
+Oh, Hammer, what'll
 we ever do with you?"<Close><End of Block>
 <TextBlock 177 w:50 h:4>
 Hammer
@@ -928,10 +928,10 @@ And I guess the
 out-of-bounds order on the
 sewers was lifted straight
 after that, too<Delay 5>...<New>
-Anyway, my allying with you
-ends here<Delay 5>...<Delay 5>
+Anyway, my allying with
+you ends here<Delay 5>...<Delay 5>
 The next time we meet,<Delay 5> Fei,<Delay 5>
-we will be opponents!"<Close><End of Block>
+we'll be opponents!"<Close><End of Block>
 <TextBlock 185 w:56 h:4>
 Rico
 "C'mon, try to beat me!

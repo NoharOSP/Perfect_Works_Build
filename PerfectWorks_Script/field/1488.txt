@@ -47,12 +47,11 @@ to hell for the Lambs."<Close><End of Block>
 <TextBlock 11 w:44 h:2>
 Don't you think you've
 said enough, Dominia?<Close><End of Block>
-<TextBlock 12 w:42 h:3>
+<TextBlock 12 w:50 h:4>
 Jesse
-"Why are women
-so gossipy?<New>
+"Why're women so gossipy?<New>
 Jabbering on and on
-about pointless things.
+about pointless things.<Delay 10>
 I ask you..."<Close><End of Block>
 <TextBlock 13 w:20 h:2>
 Billy
@@ -173,8 +172,8 @@ creation of more
 advanced Gears.<New>
 Regardless of how good
 the pilot is, as long
-as they are human there
-will always be time lag
+as they're human there'll
+always be time lag
 and human error when
 interfacing with a
 machine.<New>
@@ -207,7 +206,7 @@ the war in Ignis, and the
 Battling in Kislev, were
 used as experimental
 materials.<New>
-That is how the special
+That's how the special
 humanoid mutants, Verus,
 were born.<Delay 20> Verus created
 in Solaris were tested
@@ -304,7 +303,7 @@ Maria
 even understand what was
 going on...<New>
 Having taken my mother and
-I hostage, they had forced
+I hostage, they'd forced
 my reluctant father to
 continue the research..."<Close><End of Block>
 <TextBlock 48 w:48 h:4>

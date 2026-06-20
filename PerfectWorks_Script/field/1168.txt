@@ -32,21 +32,22 @@ time, either."<Close><End of Block>
 Sigurd
 "Okay.<Delay 16>
 I'm counting on you."<Close><End of Block>
-<TextBlock 7 w:54 h:4>
+<TextBlock 7 w:50 h:4>
 Sigurd
 "It seems he got a bit
 too overenthusiastic...<New>
 and fell into an
 underground cave with
 that other Gear pilot.<New>
-It was near an old excava-
-tion site, and they're on
-Gears, so they'll probably
+It was near an old
+excavation site,
+and they're on Gears,<New>
+so they'll probably
 get out on their own...<New>
-Anyway, once we've searched
-for a while, we'll go to
-our meeting point and wait
-for them."<Close><End of Block>
+Anyway, once we've
+searched for a while,
+we'll go to our meeting
+point and wait for them."<Close><End of Block>
 <TextBlock 8 w:42 h:4>
 Sigurd
 "Trust him...

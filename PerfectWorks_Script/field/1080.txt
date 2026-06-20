@@ -78,10 +78,10 @@ Sigmund
 Solaris would only replace
 him with another puppet.<New>
 What if we exhausted our
-resources and found our-
-selves under attack?<New>
+resources and found
+ourselves under attack?<New>
 And then there's Nisan
-to consider.
+to consider.<Delay 10>
 There's nothing to gain
 by doing anything now."<Close><End of Block>
 <TextBlock 21 w:32 h:3>
@@ -154,13 +154,13 @@ the area as requested..."<Close><End of Block>
 <TextBlock 32 w:22 h:2>
 Associate
 "Yes, sir."<Close><End of Block>
-<TextBlock 33 w:54 h:4>
+<TextBlock 33 w:54 h:5>
 Associate
 "The Gear we found is
 most certainly the one
-previously stolen<New>
-from the 11th Development
-Base by the Geburah unit
+previously stolen from
+the 11th Development base<New>
+by the Geburah unit
 stationed in Av.<New>
 Furthermore, during the
 investigation of the
@@ -168,9 +168,10 @@ machine, we captured
 the unconscious pilot.<New>
 The seized Gear has been
 transported to the Capital.<New>
-Judging from the circum-
-stances, this matter does
-not constitute a leak of
+Judging from the
+circumstances,
+this matter does not
+constitute a leak of
 our technology to Av."<Close><End of Block>
 <TextBlock 34 w:54 h:4>
 Associate

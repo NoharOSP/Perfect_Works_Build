@@ -18,9 +18,9 @@ Elly
 "Um...<Delay 10>
 Thank you for having
 us rescued."<Close><End of Block>
-<TextBlock 6 w:36 h:3>
+<TextBlock 6 w:34 h:3>
 Elly
-"Why are you being
+"Why're you being
 so kind?"<Close><End of Block>
 <TextBlock 7 w:6 h:1>
 ...<Opcode 2 100><Close><End of Block>
@@ -184,7 +184,7 @@ say...<New>
 ...but the truth is the
 situation was pretty
 serious.<New>
-We've got some that are
+We've got some that're
 injured badly and some
 fatalities.<New>
 But considering what
@@ -202,7 +202,7 @@ And then it headed for
 some obscure excavation
 site where there's supposed
 to be nothing.<New>
-Odd, since we had been told
+Odd, since we'd been told
 to go to a deeper and much
 bigger excavation site."<Close><End of Block>
 <TextBlock 46 w:44 h:2>
@@ -413,7 +413,7 @@ Just don't overdo it."<Close><End of Block>
 <TextBlock 79 w:46 h:3>
 Hans
 "It's the rest of you
-that are too sloppy!"<Close><End of Block>
+that're too sloppy!"<Close><End of Block>
 <TextBlock 80 w:50 h:2>
 I've held on to this seat
 for thirty years.<New>
@@ -521,7 +521,7 @@ buy equipment at the
 supply-entrance shop."<Close><End of Block>
 <TextBlock 105 w:44 h:3>
 Hans
-"What are you saying,
+"What're you saying,
 Captain?<New>
 This is an important
 time for us.<New>
@@ -844,7 +844,7 @@ Can she live with that <-->
 giving up on her family?<New>
 This is where I doubt
 her determination.
-She<--><Delay 10> Elly will struggle
+She<--><Delay 10> Elly'll struggle
 with that, I think.<New>
 We can't involve someone
 who has attachments."<Close><End of Block>
@@ -863,7 +863,7 @@ fishbowl thing!?"<Close><End of Block>
 <TextBlock 170 w:42 h:2>
 Hans
 "I...<Delay 10>have no idea..."<Close><End of Block>
-<TextBlock 171 w:44 h:4>
+<TextBlock 171 w:42 h:4>
 Captain
 "Almost the entire
 salvager fleet, blown
@@ -871,10 +871,10 @@ away by one shot...<New>
 Don't tell me this is
 the way the Church
 greets us!?"<Close><End of Block>
-<TextBlock 172 w:48 h:4>
+<TextBlock 172 w:44 h:4>
 Hans
 "Obviously it is!<New>
-What are they attacking
+What're they attacking
 us for? We only came
 to help with the
 excavations..."<Close><End of Block>
@@ -901,7 +901,7 @@ Hans
 <TextBlock 178 w:52 h:4>
 Captain
 "Alright, y'all!<New>
-We will escape while also
+We'll escape while also
 rescuing as many survivors
 as possible from the other
 ships!<New>

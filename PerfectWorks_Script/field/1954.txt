@@ -67,9 +67,9 @@ Roni
 Roni
 "...<Delay 5>That must mean she
 likes you, this lady<Delay 5>..."<Close><End of Block>
-<TextBlock 12 w:32 h:3>
+<TextBlock 12 w:30 h:3>
 Lacan
-"Wh-<Delay 5>What are you
+"Wh-<Delay 5>What're you
 talking about?"<Close><End of Block>
 <TextBlock 13 w:44 h:4>
 Roni

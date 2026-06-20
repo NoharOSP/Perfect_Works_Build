@@ -4,13 +4,14 @@ Bart
 What can we do about
 this?<Delay 5> We'll never be
 able to break it."<Close><End of Block>
-<TextBlock 2 w:54 h:4>
+<TextBlock 2 w:52 h:4>
 Bart
 "My sensors detect what
 appears to be a huge cave
 on the other side of here.<New>
-If we could only do some-
-thing about this boulder...<Delay 30>
+If we could just do
+something about this
+boulder...<New>
 Doesn't seem like we'd be
 able to break it though."<Close><End of Block>
 <TextBlock 3 w:36 h:3>
@@ -29,10 +30,11 @@ to something.<New>
 There appears to be quite
 a large cavern on the
 other side of that."<Close><End of Block>
-<TextBlock 6 w:54 h:3>
+<TextBlock 6 w:50 h:4>
 Bart
-"If we could only do some-
-thing about that boulder...<New>
+"If we could just do
+something about that
+boulder...<New>
 Doesn't seem like we'd be
 able to break it though."<Close><End of Block>
 <TextBlock 7 w:54 h:4>

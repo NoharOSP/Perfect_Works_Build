@@ -127,7 +127,7 @@ Paper!!<Close><End of Block>
 Doh! Scissors?<Delay 20>
 You did scissors!?<Close><End of Block>
 <TextBlock 34 w:40 h:3>
-Waaahh! I-I lost!<Delay 20>
+Urgh, I-I lost!<Delay 20>
 How could this be!?
 What a snot!<Close><End of Block>
 <TextBlock 35 w:12 h:1>
@@ -135,9 +135,9 @@ Rock!!<Close><End of Block>
 <TextBlock 36 w:36 h:2>
 What the!? Paper!?<Delay 20>
 Paper!?<Close><End of Block>
-<TextBlock 37 w:42 h:3>
+<TextBlock 37 w:44 h:3>
 Me? Lose!?<Delay 20> 
-This's ridiculous...!
+This is ridiculous...!
 Oh-my-gobrino!<Close><End of Block>
 <TextBlock 38 w:48 h:3>
 Grraaaaahhh!!

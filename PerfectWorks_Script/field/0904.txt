@@ -10,9 +10,9 @@ Mystery Man
 "Seems like there's
 some problem between
 you and that boy..."<Close><End of Block>
-<TextBlock 4 w:52 h:3>
+<TextBlock 4 w:50 h:3>
 Fei
-"Who do you think you are?
+"Who d'you think you are?
 Mind your own business!"<Close><End of Block>
 <TextBlock 5 w:26 h:2>
 Mystery Man

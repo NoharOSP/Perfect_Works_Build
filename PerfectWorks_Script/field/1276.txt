@@ -125,9 +125,9 @@ Sorry about that."<Close><End of Block>
 Billy
 "I think<Delay 20> it'll be
 any time now."<Close><End of Block>
-<TextBlock 21 w:48 h:4>
+<TextBlock 21 w:44 h:4>
 Billy
 "That was good timing,
-eh? We owe the kids our
-thanks.<New>
+huh?<Delay 5> We owe the kids
+our thanks.<New>
 Well, here it comes!"<Close><Close><End of Block>

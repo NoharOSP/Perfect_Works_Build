@@ -1,5 +1,5 @@
 <TextBlock 1 w:32 h:1>
-Waaaaaaaaaahhh!!<Opcode 2 30><Close><End of Block>
+Aaaaaaaaggghhh!!<Opcode 2 30><Close><End of Block>
 <TextBlock 2 w:50 h:2>
 N-Noooo!!<Delay 10>
 I can't do this anymore!!<Close><End of Block>

@@ -14,7 +14,7 @@ Ramsus
 dismal welcome."<Close><End of Block>
 <TextBlock 4 w:46 h:3>
 Myyah
-"What do you expect?
+"What d'you expect?
 We're on the surface."<Close><End of Block>
 <TextBlock 5 w:26 h:3>
 Ramsus
@@ -49,11 +49,11 @@ I can't believe that
 the Lambs have a ship
 equipped with a
 Gatekeeper.<Close><End of Block>
-<TextBlock 12 w:50 h:4>
+<TextBlock 12 w:54 h:4>
 Ramsus
-"It is most likely
-Kislev's. The last purge
-was not complete."<Close><End of Block>
+"It's most likely Kislev's.<Delay 10>
+The last purge was not
+complete."<Close><End of Block>
 <TextBlock 13 w:20 h:2>
 Ramsus
 "You..."<Close><End of Block>
@@ -87,8 +87,8 @@ Ramsus
 "I don't care!
 I won't allow them
 to escape!"<Close><End of Block>
-<TextBlock 20 w:50 h:4>
-We will take the shortest
+<TextBlock 20 w:46 h:4>
+We'll take the shortest
 route to Aqvi using the
 boundary between the
 first and second Gates.<Close><End of Block>

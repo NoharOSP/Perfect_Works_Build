@@ -29,17 +29,15 @@ Why bring this, of all
 things, when I never
 wanted to see a Gear
 ever again...?"<Close><End of Block>
-<TextBlock 7 w:38 h:4>
+<TextBlock 7 w:54 h:4>
 Citan
 "I understand how
 you must feel...<New>
-But to protect our-
-selves, to survive,
-we need a certain
-degree of strength.<New>
-For those being
-pursued, it matters
-all the more."<Close><End of Block>
+But to protect ourselves,
+to survive, we need a
+certain degree of strength.<New>
+For those being pursued,
+it matters all the more."<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Fei
 "I agree that some

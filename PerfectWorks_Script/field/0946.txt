@@ -8,7 +8,7 @@ Strachey
 control ship...<New>
 The other seven are
 all Ether-guided.<New>
-Just who the hell is
+Just who the hell's
 controlling them all?"<Close><End of Block>
 <TextBlock 3 w:48 h:2>
 I never thought you'd
@@ -45,7 +45,7 @@ Dominia
 "An escort is hardly
 necessary, but also
 part of the plan.<New>
-This will be a
+This'll be a
 good fight."<Close><End of Block>
 <TextBlock 10 w:46 h:4>
 Elly
@@ -100,14 +100,14 @@ Elly
 "That... That may be
 so...<Delay 30>but do we have the
 right to get involved?"<Close><End of Block>
-<TextBlock 17 w:48 h:4>
+<TextBlock 17 w:52 h:4>
 Dominia
 "Does that bother you?
 Since when did you have
 a conscience?<New>
 War, strife, betrayal,
-and deceit are all that
-are on the Lambs' minds.<New>
+and deceit are all that're
+on the Lambs' minds.<New>
 Surely you should know
 that by looking at the
 fools in this country.<New>

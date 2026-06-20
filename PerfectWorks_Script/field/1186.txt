@@ -412,10 +412,10 @@ I will...!<Close><End of Block>
 Young Master, would
 you let me steer once
 in a while, please!?<Close><End of Block>
-<TextBlock 68 w:42 h:3>
+<TextBlock 68 w:40 h:3>
 Yahoo!!<Delay 10>
 He'll let me be an
-apprentice helmsman!"<Close><End of Block>
+apprentice helmsman!<Close><End of Block>
 <TextBlock 69 w:48 h:4>
 Yggdrasil III can fly
 now, thanks to Shevat's 
@@ -560,7 +560,7 @@ torpedoes. Their normal
 torpedoes are not bad either.<New>
 There're so many of them
 that I can't decide...!<Close><End of Block>
-<TextBlock 86 w:52 h:4>
+<TextBlock 86 w:54 h:4>
 When it comes to cannons,
 you don't know where the
 shells will fly to until
@@ -571,8 +571,8 @@ because they're cheap
 yet intimidating...<New>
 On the other hand though,
 torpedoes blow everything
-to blazes and are down-
-right expensive too...<Close><End of Block>
+to blazes and are downright
+expensive too...<Close><End of Block>
 <TextBlock 87 w:52 h:3>
 It's dry in the desert, so
 gunpowder burns steadily
@@ -928,7 +928,7 @@ Bart
 Citan Uzuki and<Delay 10>...uhhh,<Delay 10>
 his very big friend!<New>
 I see you've finally woken
-up.<Delay 10> I am terribly sorry
+up.<Delay 10> I'm terribly sorry
 about what happened...<Delay 10>
 Please forgive me..."<Close><End of Block>
 <TextBlock 155 w:54 h:4>
@@ -936,15 +936,15 @@ Rico
 "I have a name, you know...<Delay 10>
 It's Ricardo Banderas...<Delay 10>
 But everyone calls me Rico!<New>
-So, what are you
-apologizing to us for?"<Close><End of Block>
-<TextBlock 156 w:54 h:4>
+So, what're you apologizing
+to us for?"<Close><End of Block>
+<TextBlock 156 w:46 h:4>
 Bart
 "...<Delay 10>
-I suppose I had best not
+I suppose I'd best not
 beat around the bush...<New>
-I'm not usually this frank
-or apologetic, but..."<Close><End of Block>
+I'm not usually this
+sincere, but..."<Close><End of Block>
 <TextBlock 157 w:50 h:4>
 Citan
 "What he is trying to
@@ -1058,10 +1058,9 @@ I'm still trying to sort
 out my feelings about
 getting pushed around
 by my dad."<Close><End of Block>
-<TextBlock 173 w:34 h:2>
+<TextBlock 173 w:50 h:2>
 Jesse
-"What d'you mean,
-'for now'?"<Close><End of Block>
+"Whaddya mean 'for now'?"<Close><End of Block>
 <TextBlock 174 w:48 h:4>
 Billy
 "I'm glad Prim can speak
@@ -1151,11 +1150,13 @@ Bart
 "What the hell else
 is gonna happen!?<Delay 10>
 Yo, Doc!"<Close><End of Block>
-<TextBlock 189 w:50 h:4>
+<TextBlock 189 w:32 h:4>
 Citan
-"S-<Delay 5>Some kind of transfor-
-mation is taking place in
-the center of Merkabah...<New>
+"S-<Delay 5>Some kind of
+transformation
+is taking place<New>
+in the center of
+Merkabah...<New>
 Wh-<Delay 5>What is...!?"<Close><End of Block>
 <TextBlock 190 w:46 h:4>
 Billy
@@ -1213,7 +1214,7 @@ Billy
 "That would be great,
 so long as it doesn't
 put you out...<New>
-There is also the
+There's also the
 matter of properly
 thanking you all,<New>
 so let's head
@@ -1393,7 +1394,7 @@ Bart
 "Don't tell me Stone's
 there already!?"<Close><End of Block>
 <TextBlock 225 w:36 h:4>
-No, it is much
+No, it's much
 bigger than that!<Delay 10>
 I estimate it's at
 least 2000 sharls!<Close><End of Block>

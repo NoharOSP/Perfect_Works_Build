@@ -215,7 +215,7 @@ The feeling's mutual...
 I hate nosy people!<New>
 Well since we hate each
 other, why don't you just
-leave me alone then, eh?<Close><End of Block>
+leave me alone then, hmm?<Close><End of Block>
 <TextBlock 27 w:44 h:3>
 Shut up!
 What would you know!?<New>

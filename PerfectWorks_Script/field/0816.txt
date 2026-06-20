@@ -32,9 +32,9 @@ Citan
 prepare for the Tournament
 at the arena.<New>
 When the Tournament starts,
-Bart will enter the water-
-way through the well and
-head for the castle.<New>
+Bart will enter the
+waterway through the well
+and head for the castle.<New>
 If you swim against the
 current you should reach
 the castle.<New>
@@ -111,7 +111,7 @@ No problem."<Close><End of Block>
 I pray so.<Close><End of Block>
 <TextBlock 20 w:34 h:4>
 Bart
-"Well, I'm going.
+"Well, I'm going.<Delay 5>
 Margie's waiting
 in the citadel."<Close><End of Block>
 <TextBlock 21 w:34 h:3>
@@ -165,7 +165,7 @@ Mother Marguerite, I've
 been looking into ways
 to get her back.<New>
 I've been trying to find
-out where she is being
+out where she's being
 held,<New>
 listening to workers
 talk about the comings
@@ -239,10 +239,10 @@ We can sneak into the
 castle by going through
 these underground
 waterways.<New>
-We can get into them from
-the town's well. The water-
-ways should lead right up
-to the castle's reservoir.<New>
+We can access them via the
+town's wells. The waterways
+should lead right to the
+castle's reservoir.<New>
 If we're able to get that
 far, we should be able to
 sneak into the other rooms

@@ -1,17 +1,17 @@
-<TextBlock 1 w:50 h:3>
+<TextBlock 1 w:46 h:3>
 Big Joe
-"How do ya like my shop? 
+"How d'ya like my shop?
 Pretty good, huh?"<Close><End of Block>
 <TextBlock 2 w:46 h:4>
 Big Joe
 "Nothing but Joe brand!<New>
-I mean, this's Joe's
+I mean, this is Joe's
 shop, right!?"<Delay 10>
      <Opcode 1 255>Items
      Gear parts<Close><End of Block>
-<TextBlock 3 w:46 h:3>
+<TextBlock 3 w:44 h:3>
 Big Joe
-"So? How do ya like it?
+"So? How d'ya like it?
 Come again sometime!!"<Close><End of Block>
 <TextBlock 4 w:34 h:2>
 You have too many

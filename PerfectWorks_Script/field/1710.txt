@@ -9,7 +9,7 @@ Wh-What<Delay 20> the hell
 is this...!?"<Opcode 2 40><Close><End of Block>
 <TextBlock 3 w:20 h:2>
 Fei
-"Waaaagh!"<Opcode 2 50><Close><End of Block>
+"Aaaaagh!"<Opcode 2 50><Close><End of Block>
 <TextBlock 4 w:40 h:2>
 Fei
 "Doc...<Delay 30> All this..."<Close><End of Block>
@@ -49,12 +49,13 @@ were created here."<Close><End of Block>
 <TextBlock 11 w:50 h:4>
 Citan
 "Elly, have you ever
-wondered why Dominia
-harbors such hatred<New>
-toward you <--> or
-rather, toward your
+wondered...<New>
+why it is that Dominia
+harbors such hateful
+sentiment toward you <--><New>
+or rather, toward your
 father, the Lord Erich?<Delay 30>
-Here is the answer.<New>
+The answer is here.<New>
 Because of their unique
 abilities, the people of
 her native country were<New>

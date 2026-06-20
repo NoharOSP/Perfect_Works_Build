@@ -170,10 +170,10 @@ match for that Gear."<Close><End of Block>
 Rico
 "So the Gate is under
 the shaft."<Close><End of Block>
-<TextBlock 39 w:46 h:3>
+<TextBlock 39 w:34 h:3>
 Rico
-"...And how do you get
-to the Gate?"<Close><End of Block>
+"...And how d'you
+get to the Gate?"<Close><End of Block>
 <TextBlock 40 w:52 h:3>
 Rico
 "It's impossible. We hafta

@@ -37,7 +37,7 @@ Captain
 "Sorry...there's not
 much room to sit down
 in this place!"<Close><End of Block>
-<TextBlock 11 w:54 h:4>
+<TextBlock 11 w:52 h:4>
 Captain
 "But isn't the view just
 splendid from here? This
@@ -47,14 +47,14 @@ wee bit odd having a beer
 hall next to the bridge,
 but 'tis fine by me.<New>
 If you don't take time in
-life to enjoy a drink, you
-will be swallowed by the
+life to enjoy a drink,
+you'll be swallowed by the
 waves of anxiety<Delay 5>...<New>
 ...<Delay 5>But we don't have that
 problem.<Delay 5> Thanks to this
-beer hall, everyone here is
+beer hall, everyone here's
 too sloshed to worry!"<Close><End of Block>
-<TextBlock 12 w:50 h:4>
+<TextBlock 12 w:52 h:4>
 Captain
 "Well, normally.<Delay 10>
 Y'know that crane
@@ -62,9 +62,8 @@ that fished you out?<New>
 We use that or the Gears
 to pull up treasure from
 the sea. We're salvagers.<New>
-Recently, however, there
-has been no treasure at
-all...<Delay 10>
+Recently, however, there's
+been no treasure at all...<Delay 10>
 Nope, not a thing.<New>
 Started a big job, you
 see. A commission."<Close><End of Block>
@@ -186,7 +185,7 @@ Elly
 Did we just shake?"<Close><End of Block>
 <TextBlock 39 w:38 h:3>
 Fei
-"You must have
+"You must've
 imagined it..."<Close><End of Block>
 <TextBlock 40 w:38 h:2>
 Elly

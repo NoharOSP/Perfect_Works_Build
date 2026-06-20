@@ -75,11 +75,11 @@ After that, we went from
 place to place, destroying
 all the Soylent System
 installations on the surface
-and freeing the people who
-had been held in them.<Delay 15>
+and freeing the people who'd
+been held in them.<Delay 15>
  
-Nisan wholeheartedly took
-in the people who had
+Nisan wholeheartedly
+took in the people who'd
 mutated, and there they
 received treatment.<Close><End of Block>
 <TextBlock 10 w:60 h:9>
@@ -189,7 +189,7 @@ seemed to be<Delay 5> the ruins of
 an ancient civilization.<Close><End of Block>
 <TextBlock 18 w:62 h:10>
 Having dealt with the Elements,<Delay 5>
- who had been after a Vessel
+ who'd been after a Vessel
   to use as an instrument
    of Ramsus' vision,<Delay 15>
  once again we set about
@@ -215,7 +215,7 @@ role as weapons.<Close><End of Block>
 <TextBlock 20 w:54 h:12>
 Sooner or later, that true
 power would be unleashed<Delay 5>...<Delay 15>
-We could not allow it to
+We couldn't allow it to
 fall into their hands.<Delay 30>
  
 In order to obtain the
@@ -278,7 +278,7 @@ taken away<Delay 5>...<Delay 60>
     Powerless<Delay 5>, I...<Close><End of Block>
 <TextBlock 26 w:28 h:3>
 Wiseman
-"What are you
+"What're you
 doing, there?"<Close><End of Block>
 <TextBlock 27 w:46 h:4>
 Fei
@@ -332,14 +332,14 @@ What is the source of
 Grahf's power?<Delay 15> His
 machine?<Delay 15> His technique?<Delay 15>
 His experience?<New>
-No <--><Delay 45> it is his emotions.<Delay 15>
+No <--><Delay 45> it's his emotions.<Delay 15>
 His heart is dominated by
 anger toward this whole
 world.<New>
 That feeling of anger <--><Delay 10>
 THAT is the source of
 his power.<New>
-You did not have enough
+You didn't have enough
 emotion to go up against
 Grahf.<New>
 That is why you couldn't

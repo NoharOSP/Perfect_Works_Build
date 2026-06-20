@@ -146,7 +146,7 @@ ideals...
 Such deeds are<-->"<Close><End of Block>
 <TextBlock 25 w:52 h:4>
 Billy
-"...There is something
+"...There's something
 very wrong with that.<New>
 Everyone should have an
 equal chance of attaining
@@ -158,14 +158,14 @@ Billy
 Billy
 "Be it for salvation
 or otherwise,<New>
-just what are you going
+just what're you going
 to do with this girl!?
-I simply can not believe
+I simply cannot believe
 your deeds are honorable.<New>
 Bishop...
-I am sorry, but...I will
-not be a part of what you
-have set your mind to."<Close><End of Block>
+I'm sorry, but...I will
+not be a part of what
+you've set your mind to."<Close><End of Block>
 <TextBlock 28 w:36 h:4>
 Rico
 "What's with
@@ -210,7 +210,7 @@ Stone
 molecular-scale
 autonomous machines...<New>
 In other words, a colony
-of what are called
+of what're called
 'nanomachines'."<Close><End of Block>
 <TextBlock 36 w:50 h:4>
 Stone
@@ -302,7 +302,7 @@ Stone
 "Actually, Karellen
 hasn't told me very
 much, either.<New>
-Only that it is the
+Only that it's the
 'salvation of humankind'.<New>
 Of course, I wouldn't
 tell you even if I

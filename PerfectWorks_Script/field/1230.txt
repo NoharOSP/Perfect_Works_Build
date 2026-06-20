@@ -86,11 +86,11 @@ of a Gear."<Close><End of Block>
 <TextBlock 16 w:38 h:2>
 Fei
 "A crimson Gear..."<Close><End of Block>
-<TextBlock 17 w:54 h:4>
+<TextBlock 17 w:50 h:4>
 Bart
-"Yeah. He beat me and then
-left us to sink into the
-sand.<New>
+"Yeah. He messed us up
+then left us to sink into
+the sand.<New>
 But this next part sounds
 wild.<Delay 10> The bottom of the
 desert is a huge, open
@@ -99,10 +99,10 @@ Guess what else was sunk
 there!
 A submarine that looked
 just like the Yggdrasil!<New>
-So we transplanted the
-bridge and other service-
-able parts into that and
-remodeled it."<Close><End of Block>
+So we transplanted
+the bridge and other
+serviceable parts into
+that and remodeled it."<Close><End of Block>
 <TextBlock 18 w:52 h:4>
 Citan
 "I found it a truly

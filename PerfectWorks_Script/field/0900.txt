@@ -31,15 +31,15 @@ The keep must fall
 quickly.
 Shakhan should be
 on the top floor."<Close><End of Block>
-<TextBlock 5 w:46 h:4>
+<TextBlock 5 w:52 h:4>
 Sigurd
 "...In the room that
 used to be used by the
 Young Master's father.<New>
 Try not to damage the
-castle, avoid all need-
-less combat, and above
-all, remember: speed!"<Close><End of Block>
+castle, avoid all needless
+combat, and above all,
+remember: speed!"<Close><End of Block>
 <TextBlock 6 w:50 h:3>
 Bart
 "That's why there are so

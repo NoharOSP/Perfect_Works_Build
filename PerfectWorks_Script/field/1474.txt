@@ -57,7 +57,7 @@ what happens?"<Close><End of Block>
 Bart
 "Tch...<Delay 20>
 Unsociable squirt..."<Close><End of Block>
-<TextBlock 15 w:34 h:3>
+<TextBlock 15 w:32 h:3>
 Rico
 "Seriously,<Delay 20> this
 is too much..."<Close><End of Block>
@@ -127,10 +127,10 @@ Maria
 "The Queen told me this
 house was destroyed in the
 Great War, 500 years ago.<New>
-I heard that it is
+I heard that it's
 purposely left to be as
 it was then, so that the
-war is not forgotten."<Close><End of Block>
+war's not forgotten."<Close><End of Block>
 <TextBlock 29 w:50 h:4>
 Maria
 "Thank you for waiting.<Delay 20>

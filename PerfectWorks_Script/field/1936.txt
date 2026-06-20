@@ -26,7 +26,7 @@ The coward 'Fei'.<Close><End of Block>
 The personality that
 was our foundation.<Close><End of Block>
 <TextBlock 7 w:48 h:2>
-Who are you?
+Who're you?<Delay 20>
 ...Oh yeah. You're my...<Close><End of Block>
 <TextBlock 8 w:46 h:3>
 Hey, let's watch this
@@ -132,7 +132,7 @@ for anyone.<New>
 But that doesn't mean
 you can push it onto
 Id alone!<New>
-We are all one person.<Delay 5>
+We're all one person.<Delay 5>
 We must become one.<Delay 5>
 Right, Fei...?<Close><End of Block>
 <TextBlock 24 w:50 h:3>
@@ -190,7 +190,7 @@ she almost seems...<Delay 5>
 too warm...<Close><End of Block>
 <TextBlock 31 w:52 h:4>
 Fei.<Delay 5>
-I will give you the
+I'll give you the
 memories that I have.<New>
 Thus, you will know.<Delay 5>
 How we've lived until now.<Delay 5>

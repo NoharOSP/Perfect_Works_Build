@@ -77,9 +77,9 @@ me rise to the surface.<Close><End of Block>
 Thanks.<Delay 5>
 Pass it back to me.<Delay 5>
 I'm playing with Mom.<Close><End of Block>
-<TextBlock 13 w:26 h:2>
-This<Delay 5>...<Delay 5>is not
-reality!!<Close><End of Block>
+<TextBlock 13 w:30 h:2>
+This<Delay 5>...<Delay 5>
+isn't reality!!<Close><End of Block>
 <TextBlock 14 w:22 h:1>
 <Opcode 1 255>It's a lie!<Opcode 2 10><Close><End of Block>
 <TextBlock 15 w:20 h:1>

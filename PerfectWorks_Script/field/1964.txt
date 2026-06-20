@@ -21,10 +21,10 @@ fighters, too."<Close><End of Block>
 Karellen
 "Okay<Delay 5>...<Delay 5>
 I suppose you're right."<Close><End of Block>
-<TextBlock 5 w:30 h:3>
+<TextBlock 5 w:28 h:3>
 Lacan
 "Elly<Delay 5>...<Delay 10>
-I am so sorry."<Close><End of Block>
+I'm so sorry."<Close><End of Block>
 <TextBlock 6 w:42 h:4>
 Lacan
 "I<Delay 5>...<Delay 15> It was my lapse
@@ -57,7 +57,7 @@ I wouldn't be able to
 convey my own feelings<Delay 5>..."<Close><End of Block>
 <TextBlock 9 w:40 h:3>
 Sophia
-"You are the kindest
+"You're the kindest
 person I know<Delay 5>..."<Close><End of Block>
 <TextBlock 10 w:18 h:2>
 Lacan
@@ -103,8 +103,8 @@ If it's for the sake of
 being true to my nature,
 I think it's ok to cast
 aside my current position.<New>
-I'm only playing the role
-of Sophia.<Delay 15> I am me.<Delay 15>
+I'm only playing the
+role of Sophia.<Delay 15> I'm me.<Delay 15>
 Unchanged since the old
 days.<New>
 A cowardly, selfish,

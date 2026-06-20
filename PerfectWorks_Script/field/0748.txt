@@ -255,16 +255,16 @@ want to ask you."<Close><End of Block>
 <TextBlock 38 w:26 h:2>
 Ol' Man Bal
 "What is it?"<Close><End of Block>
-<TextBlock 39 w:44 h:4>
+<TextBlock 39 w:42 h:4>
 Bart
-"I've heard tales that
-Gears surpassing all
-others,<New>
+"I've heard tales
+that Gears surpassing
+all others,<New>
 divine Gears made in
 ancient times, lie
 dormant somewhere in
 this world.<New>
-Do you know anything
+D'you know anything
 about them?"<Close><End of Block>
 <TextBlock 40 w:54 h:4>
 Ol' Man Bal
@@ -682,9 +682,9 @@ surprise! There's someone
 living in this place!"<Close><End of Block>
 <TextBlock 99 w:54 h:4>
 Old Man
-"Ohh, I was just thinking
-I rarely hear Gear foot-
-steps.<Delay 10> They your Gears?<New>
+"Ohh, I was just thinking I
+rarely hear Gear footsteps.<Delay 10>
+They your Gears?<New>
 Well, come on back here and
 make yourselves at home."<Close><End of Block>
 <TextBlock 100 w:48 h:3>

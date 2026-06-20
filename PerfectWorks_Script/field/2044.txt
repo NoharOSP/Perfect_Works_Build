@@ -1,306 +1,300 @@
-<TextBlock 1 w:30 h:1>
-Where am I...!?<Close><End of Block>
-<TextBlock 2 w:42 h:3>
-That's Elly!
-This must mean that
-I am inside of Deus!?<Close><End of Block>
-<TextBlock 3 w:56 h:6>
-Not exactly.<New>
-Your real body is still 
-physical...<Delay 5> It has
-merely been absorbed into
-Deus' outer-shell.<Delay 5>
-Only your consciousness is
-here.<New>
-Of course, the girl you 
-perceive in front of you 
-is also not truly her.<Delay 5>
-Her consciousness is merely 
-constructing this image.<Close><End of Block>
+<TextBlock 1 w:28 h:1>
+This place...!<Close><End of Block>
+<TextBlock 2 w:30 h:3>
+Elly!<Delay 10>
+So this place
+is inside Deus?<Close><End of Block>
+<TextBlock 3 w:58 h:6>
+Not exactly.<Delay 10>
+Your actual form is merely
+an object...<Delay 5>assimilated into
+Deus' outer shell.<Delay 10>
+It is only your consciousness
+that is here.<New>
+Naturally, nor is the girl
+you see before you truly her.<Delay 10>
+It is consciousness
+constructing her image,
+nothing more.<Close><End of Block>
 <TextBlock 4 w:4 h:1>
 !?<Close><End of Block>
-<TextBlock 5 w:48 h:3>
-The 'Wave Existence'...?<Delay 5>
-No...<Delay 5>that's not you...!!<Delay 5>
-Who are you...?<Close><End of Block>
-<TextBlock 6 w:56 h:5>
+<TextBlock 5 w:44 h:3>
+The Wave Existence...?<Delay 10>
+No, it's not...<Delay 10>
+Then what<--><Close><End of Block>
+<TextBlock 6 w:46 h:5>
 It can't be...!?<Delay 5>
-Is that you, Karellen!?<Delay 5>
-That's right, isn't it...!?<Delay 10>
-Karellen!<Delay 10> It was you who
-did this to Elly!<Close><End of Block>
-<TextBlock 7 w:54 h:4>
-The 'Path of Sephirot' has
-been connected.<Delay 5>
-No one can stop God from
-returning to his world now.<New>
-So what have you come here
-for, Lacan?<Close><End of Block>
-<TextBlock 8 w:54 h:3>
-I came here to take the
-person I love back with me!<Delay 5>
-So set Elly free!<New>
-The Deus' system has been
-destroyed.
-It's all over now!<New>
-So instead I ask you...<Delay 10>
-What are you hoping to
-achieve now!?<Close><End of Block>
-<TextBlock 9 w:54 h:5>
-The time when all things
-started...
-The place where all things
-were one...
-I am going to return there!<Close><End of Block>
+Is that you, Karellen!?<Delay 10>
+I see...<Delay 10>
+Karellen!<Delay 5>
+YOU did this to Elly!<Close><End of Block>
+<TextBlock 7 w:40 h:4>
+The Path of Sephirot
+is connected.<Delay 10>
+No one can stop
+God's journey now.<New>
+What have you come
+here for at this
+late stage, Lacan?<Close><End of Block>
+<TextBlock 8 w:56 h:4>
+I came here to get
+back the one I love!<Delay 10>
+Set Elly free!<New>
+The Deus system has been
+destroyed.<Delay 5> It's all over!<Delay 10>
+What is it you're still
+trying to do, despite that!?<Close><End of Block>
+<TextBlock 9 w:38 h:5>
+The time when all
+things began...<Delay 10>
+I shall return to
+the place where all
+things were one.<Close><End of Block>
 <TextBlock 10 w:22 h:1>
 What place?<Close><End of Block>
-<TextBlock 11 w:60 h:5>
-Before the beginning of the
-universe,<Delay 5> in the undulating
-waves of the higher dimension,<Delay 5>
+<TextBlock 11 w:54 h:5>
+Before the beginning of
+the universe,<Delay 5> in a place of
+higher-dimensional waves,<Delay 5>
 all things were one.<New>
-It was the waves spilling out
-from there that created this
-four-dimensional universe of
-ours.<New>
-'Humankind'<Delay 5> and the 'Souls of
-Humankind' that were born from
-there,<Delay 5> are merely leftovers of
-those spilled waves.<Delay 10>
+Because of the waves
+overflowing from there,<Delay 5>
+this four-dimensional
+universe was created.<New>
+Born out of that,<Delay 5> humankind
+and the souls of humankind
+are the remnants of the
+waves that overflowed.<Delay 10>
 So...<Close><End of Block>
-<TextBlock 12 w:50 h:2>
-You're going back there?
-Is that what you desired?<Close><End of Block>
-<TextBlock 13 w:54 h:7>
+<TextBlock 12 w:48 h:3>
+You're going back there?<Delay 10>
+That's what you've been
+hoping for?<Close><End of Block>
+<TextBlock 13 w:56 h:7>
 Lacan...<Delay 5>
-Why such reluctance to
-become one with God?<Delay 5>
-What attachment could you
-possibly have to this
-wretched old world?<New>
-What meaning can be found
-in living out such a short
-existence...<Delay 5>hurting others,<Delay 5>
-hurting yourself,<Delay 5> grinding
-one another down...<Delay 5>only to
-inevitably die and return
-to dust?<New>
-Why, everything we could
-ever desire is here...<Delay 5>
-No need to be troubled by
-the need for love...<Delay 5>
-For this place is filled
-with the love of God.<Close><End of Block>
-<TextBlock 14 w:54 h:3>
-I have not lost hope in
-humans as much as you have,
-Karellen...<New>
-Someday humankind will come
-to understand one another!
-I sincerely believe that!<Close><End of Block>
-<TextBlock 15 w:58 h:7>
-How can you be so sure?<Delay 5>
-Humans will never come to
+Why do you so stubbornly
+refuse unification with God?<Delay 10>
+What attachment do you have
+to that wretched world?<New>
+What meaning is there in
+living out short lives,<Delay 5>
+hurting others,<Delay 5> hurting
+ourselves,<Delay 5> grinding one
+another down,<Delay 5> and then
+returning to dust?<New>
+Here, we have everything.<Delay 10>
+We would never have to
+worry about love.<Delay 10>
+Here, God's love abounds.<Close><End of Block>
+<TextBlock 14 w:54 h:4>
+I don't despair for people
+as much as you do!<New>
+Someday, the time will come
+when people will be able to
+understand each other!<Delay 10>
+I believe that!<Close><End of Block>
+<TextBlock 15 w:62 h:7>
+How can you be so sure?<Delay 10>
+Humans will never
 understand each other.<New>
-You said that she is the
-person you love.<Delay 5>
-But can you say that you
-even truly understand
-each other?<New>
-All humans do is place
-themselves at a comfortable
-distance from each other
-and call that <Delay 5>'mutual under-
-standing',<Delay 5> 'spiritual unity',<Delay 5>
-or<Delay 5> 'true love'<Delay 5>...<Delay 5>
-but it is all lies!<New>
-Man cannot associate with
-others without first
-deceiving themselves.<Delay 5>
-That is the way that they
-were created.<Close><End of Block>
-<TextBlock 16 w:52 h:4>
-But one being's ego can't
-determine everyone's fate!<New>
+You said that you love her.<Delay 10>
+But can you say that means
+truly understanding each other?<New>
+In the end, all humans do is
+keep a convenient distance
+from one another, pretending
+that fleeting closeness is
+'mutual understanding',<Delay 5>
+'spiritual unity',<Delay 5>
+or 'true love'.<New>
+Humans cannot associate
+with others except by
+deceiving themselves.<Delay 10>
+Because that is the way
+they are created to be...<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Be that as it may,<Delay 5>
+the ego of one person
+alone can't determine
+the fate of everyone!<New>
 People have the right to
-choose their own destiny!<Delay 5>
-That is why humans have
-free will!<Close><End of Block>
-<TextBlock 17 w:58 h:6>
-And what if that 'will'
-itself was predetermined?<Delay 5>
-What then?<New>
-Oh, what folly!!<Delay 5>
-Humans are just primitive
-life forms that have no
-such things as free will...<New>
-Mankind has merely been
-allowed to live in an
-imperfect state...<Delay 5>
-"as is",<Delay 5> "as will be"<Delay 5>...<New>
-It is for this very reason...<Delay 5>
-because humans have this
-wretched 'will' or whatnot...<Delay 5>
-that humans must experience
-sadness and loss.<New>
+choose their own destiny!<Delay 10>
+We have free will!<Close><End of Block>
+<TextBlock 17 w:60 h:6>
+What if even that will is
+something predetermined?<New>
+Being primitive, manufactured
+lifeforms,<Delay 5> for humans there is
+no such thing as free will...<Delay 10>
+They are simply making the
+best of their imperfect state,<Delay 5>
+'as is',<Delay 5> 'as will be'...<New>
+It is because of that,<Delay 5>
+because they have such
+inflexible will,<Delay 5> that
+humans must experience
+sorrow and loss...<New>
 For someone to gain something
-means another must lose it...<Delay 5>
-It is impossible to make
-humankind share limited
-"things" and "affections"...<New>
-So I came to the conclusion
-that everything must be
-reverted back to where it
-all began.<New>
-To go back to when all was
-one...<Delay 5>
-waves, and nothing else...<Delay 5>
-It is not my 'Human's' ego...<Delay 5>
-It is the will of the 'Waves'<Delay 5>
-...the will of <Delay 5>'God'<Delay 5>...<Close><End of Block>
-<TextBlock 18 w:58 h:4>
-Well that's alright, too...<Delay 5>
-We don't have to be perfect.<New>
-Actually, being imperfect
-makes mankind live by
-helping each other...<Delay 5>
-That's what being human is...<New>
-That's mutual understanding!<Delay 5>
-That's 'unity' and 'love'...<Delay 5>
-I'm glad...<Delay 5>no,<Delay 5> I'm proud...<Delay 5>
-to be human!<Close><End of Block>
-<TextBlock 19 w:56 h:5>
-Elly placed the future,<Delay 5>
-'tomorrow',<Delay 5> in our hands,
-based on our choice...<Delay 10>
-And she is working to keep
-Deus far from our planet.<New>
-She is also trying to heal
-your heart...<Delay 10>
-you,<Delay 5> who wants to journey,<Delay 5>
-all alone,<Delay 5> to be with God...<New>
-Can't you understand Elly's
-feelings!?<Delay 10>
+it means someone else will
+lose something...<Delay 10>
+There can be no joint
+ownership of finite
+'things' and 'feelings'...<New>
+So,<Delay 5> I concluded that I
+would return everything
+to the point of origin.<Delay 10>
+To that moment when
+all was one existence <--><Delay 5>
+waves, and nothing else...<New>
+This is not one human's ego.<Delay 10>
+It is the will of God...<Close><End of Block>
+<TextBlock 18 w:58 h:5>
+But it's okay...<Delay 10>
+I don't mind imperfection.<New>
+Why, imperfection is
+precisely the reason we
+live to supplement whatever's
+missing in one another...<Delay 10>
+That is humanity...<New>
+That's what understanding
+each other means!<Delay 10>
+I feel joy in being
+that kind of person!<Close><End of Block>
+<TextBlock 19 w:58 h:5>
+Elly has entrusted the
+future to us who've chosen
+this path,<Delay 5> and that's why
+she's now trying to keep Deus
+far away from our planet.<New>
+And that's also why she's
+trying to ease your heart,<Delay 5>
+you who would journey with
+God all alone...<New>
+Don't you understand
+Elly's feelings!?<Delay 10>
 Do you have to become one
-with God before you are able
-to comprehend all of this?<New>
-I understand...<Delay 5>
-I know her feelings...<Delay 5>
+with God before you'll
+understand them?<New>
+Her feelings...<Delay 10> I know them
 as if they were my own...<New>
-Yes...<Delay 5>she and I are one!<Delay 10>
-We don't need God's help!!<Close><End of Block>
-<TextBlock 20 w:58 h:5>
-Well then, prove it to me...<Delay 10>
-Show me this power of humans!<Delay 10>
-Show me this 'love',
-that you say can make you
-independent of God...<Close><End of Block>
+...Yes, she and I are one!<Delay 10>
+Even without enlisting
+God's power!!<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Well then, show me.<Delay 10>
+Show me this human 'love'
+of yours,<Delay 5> this power to
+try to leave God's side...<Close><End of Block>
 <TextBlock 21 w:18 h:2>
 Fei
 "Elly..."<Close><End of Block>
-<TextBlock 22 w:48 h:2>
+<TextBlock 22 w:38 h:2>
 Elly
 "Fei<Delay 10>...<New>
-It was Karellen...<Delay 10>
-Karellen released me..."<Close><End of Block>
-<TextBlock 23 w:28 h:2>
+It was Karellen
+who released me..."<Close><End of Block>
+<TextBlock 23 w:26 h:2>
 Fei
-"Karellen...?"<Close><End of Block>
+"He did...?"<Close><End of Block>
 <TextBlock 24 w:54 h:4>
 Elly
-"Yes. I came to understand
-after becoming one with
-Karellen...<New>
-His heart was so full of
-sadness.<Delay 5> That is why he
-desired for he and I to
-become one with God...<New>
+"Yes.<Delay 10> By becoming one with
+him, I understood.<Delay 10> His
+heart was full of sadness.<New>
+That's why he longed for
+unification with me,<Delay 5>
+and with God...<New>
+Because that would've been
+a return to the starting
+point of everything...<New>
 Because that would be the
 return to the beginning of
-everything...<Delay 20>
-He told me...<New>
-"You should be with him..."<Delay 10>
-That is what he said...<Delay 5>
-You see...<Delay 5>
-He already knew!<New>
-Yes, he already knew...<Delay 10>
-how I felt,<Delay 5> how you felt...<Delay 10>
-But there was nothing we
-or he could do...<New>
-He had no choice but to go
-forward...<Delay 5> even if it meant
-he lost all feelings,<Delay 5> lost
-everything that was human!<New>
-For all humankind's sake...<Delay 5>
-There was no going back...<Delay 5>
-Even looking back held too
-many memories...<New>
-And he would have<Delay 5>...<Delay 10>
-just wanted to go back<Delay 5>...<Delay 10>
-Even though he couldn't<Delay 5>...<New>
+everything...<New>
+He told me...<Delay 5>I should
+be together with you...<Delay 10>
+That's what he said...<New>
+He did understand...<Delay 5>
+how I felt, how you felt...<Delay 10>
+But there was nothing
+he could do...<New>
+Even if it meant throwing
+away what made him human,<Delay 5>
+throwing away all emotion,<New>
+he had no choice but to
+go forward...<Delay 10> For the
+sake of all humankind...<New>
+There was absolutely no
+turning back...<Delay 10> Because
+when we look back, there's
+a place full of memories...<New>
+Because we would only
+want to go there...<Delay 10>
+back to that place...<New>
 So please forgive him...<Delay 10>
 Karellen loved people more
 than anyone else..."<Close><End of Block>
-<TextBlock 25 w:50 h:4>
+<TextBlock 25 w:40 h:3>
 Fei
-"I<Delay 5>...<Delay 10> 
-I, somehow<Delay 5>...<Delay 10>
-knew it all along...<New>
-I just knew he was really
-that kind of person..."<Close><End of Block>
+"I...<Delay 10> I think I knew
+it from the start.<New>
+I knew he was that
+kind of person..."<Close><End of Block>
 <TextBlock 26 w:54 h:4>
 Elly
-"<Delay 5>...<Delay 10>I am so sorry<Delay 5>...<Delay 10>
-Please forgive me!<Delay 5>
-I was wrong...<New>
-I thought sacrificing
-myself in order to save
-others was the right
-thing to do...<New>
-But my actions only brought
-sadness to all the people
-who I left behind.<New>
-And that sadness gave birth
-to even more sadness.<New>
-As long as 'I' still live
-within you, my life is not
-just mine alone."<Close><End of Block>
+"...I'm so sorry...<Delay 10>
+I had it all wrong...<New>
+Saving others even when it
+meant sacrificing myself...<Delay 5>
+I thought it was the right
+thing to do.<New>
+But my actions only left
+sadness in the hearts of
+all of you I'd left behind.<New>
+That sadness gave rise
+to new sadness.<New>
+Now that my existence
+lives on within each of
+you,<Delay 5> my life isn't just
+mine alone."<Close><End of Block>
 <TextBlock 27 w:54 h:4>
 Fei
-"Elly...
-That isn't wrong.<New>
-To sacrifice yourself for
-others is a noble thing...<Delay 10>
-Even if it were to benefit
-yourself, it's no problem.<New>
-There will always be a
-person healed...<Delay 10>
-One or the other...<New>
-Love gains its original
-shine only when there's an
-interrelationship between
-the giver and the receiver.<New>
-It is incomplete when one
-or the other is missing...<Delay 10>
-The two are one.<New>
-It was you, Elly, who
-taught me that.<Delay 20>
-I believe that is what it
-means to be human...<New>
-I can now understand the
-true importance of it.<Delay 10>
+"Elly...<Delay 10>
+It's not wrong.<New>
+To give your life for
+someone is a noble thing.<Delay 10>
+Even if it was for your own
+sake, that doesn't matter.<New>
+Because,<Delay 5> in the end,<Delay 5>
+there's always one
+person or the other
+being healed...<New>
+Love is something that
+only gains its original
+radiance when there's a
+giver and a receiver,<New>
+a connection between
+the two.<Delay 10> When one or the
+other is missing, it's
+incomplete...<New>
+The two are one.<Delay 10>
+Wasn't it you who
+taught me that?<New>
+I believe that's what
+it means to be human.<Delay 10>
+I can appreciate the
+importance of that now.<New>
 I don't know if it's the
-right answer or not...<New>
+right answer or not...<Delay 10>
 But we have a lot of time
-to think about it...<New>
-What Karellen himself was
-looking for all along...<Delay 10>
-We will find the answer to
-it all...ourselves..."<Close><End of Block>
-<TextBlock 28 w:26 h:3>
+to think about it!<New>
+Whatever Karellen was
+trying to find...<Delay 10>
+The answer...<Delay 10>
+We'll find it..."<Close><End of Block>
+<TextBlock 28 w:22 h:3>
 Elly
-"Thank you...
-Fei!"<Close><End of Block>
+"Fei...
+Thank you."<Close><End of Block>
 <TextBlock 29 w:18 h:2>
 Fei
 "Elly..."<Close><Close><End of Block>

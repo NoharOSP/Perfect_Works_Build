@@ -18,7 +18,7 @@ Elly
 <TextBlock 5 w:44 h:3>
 Elly
 "...Yes.<New>
-If that's what will
+If that's what'll
 satisfy you, then kill
 me.<Delay 30> Go ahead..."<Close><End of Block>
 <TextBlock 6 w:34 h:4>
@@ -28,9 +28,9 @@ back to the way
 you were!!"<Close><End of Block>
 <TextBlock 7 w:28 h:4>
 Id
-"Heh... You.
+"Heh... You.<Delay 20>
 You've come to
-die, eh?"<Close><End of Block>
+die, huh?"<Close><End of Block>
 <TextBlock 8 w:24 h:4>
 Id
 "Hmph...<Delay 30>

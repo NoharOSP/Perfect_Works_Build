@@ -10,10 +10,10 @@ Fei
 "Okay, Doc.<Delay 15>
 Let's check this
 place out."<Close><End of Block>
-<TextBlock 4 w:52 h:4>
+<TextBlock 4 w:50 h:4>
 Fei
 "...<Delay 10>
-Doc, do you have a moment?
+Doc, d'you have a moment?
 I need to talk to you."<Close><End of Block>
 <TextBlock 5 w:50 h:4>
 Fei
@@ -68,9 +68,9 @@ Fei
 on doing, Doc?"<Close><End of Block>
 <TextBlock 14 w:44 h:4>
 Fei
-"So then, Doc, what do
-you plan on doing with
-this sand buggy?"<Close><End of Block>
+"So then, Doc, what
+d'you plan on doing
+with this sand buggy?"<Close><End of Block>
 <TextBlock 15 w:26 h:2>
 Fei
 "Sand buggy?"<Close><End of Block>

@@ -4,7 +4,7 @@ Citan
 <Weltall> has
 gone under..."<Close><End of Block>
 <TextBlock 2 w:16 h:1>
-Waaaaah!<Opcode 2 16><Close><End of Block>
+Aaaaagh!<Opcode 2 16><Close><End of Block>
 <TextBlock 3 w:10 h:1>
 Whoa!<Opcode 2 16><Close><End of Block>
 <TextBlock 4 w:10 h:1>

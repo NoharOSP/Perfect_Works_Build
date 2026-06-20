@@ -15,9 +15,9 @@ Mysterious Gear
 "Pleased to meet you.<Delay 10>
 I am Kenren, one of the
 followers of Lord Karellen.<New>
-I would have liked to
+I would've liked to
 show my face if possible,<New>
-but since I have undergone
+but since I've undergone
 human-machine fusion you'll
 have to excuse me."<Close><End of Block>
 <TextBlock 5 w:50 h:4>
@@ -61,7 +61,7 @@ I see...<Delay 20> That Gear is
 like <Seibzehn> and
 Achtzehn, only more
 advanced!"<Close><End of Block>
-<TextBlock 12 w:52 h:4>
+<TextBlock 12 w:50 h:4>
 Kenren
 "The current task is
 simply to confirm a
@@ -73,7 +73,7 @@ So, someone calm and
 collected like myself
 is much more suitable.<New>
 Oh,<Delay 10> and don't worry.
-I am only here to observe.<Delay 10>
+I'm only here to observe.<Delay 10>
 Emeralda there will be
 your adversary."<Close><End of Block>
 <TextBlock 13 w:38 h:2>

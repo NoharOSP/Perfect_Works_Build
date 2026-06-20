@@ -35,12 +35,12 @@ Maria
 what is it?"<Close><End of Block>
 <TextBlock 10 w:52 h:4>
 Citan
-"The dimensional inter-
-ference <Seibzehn> caused<New>
+"The spatial interference
+caused by <Seibzehn><New>
 when forcing our way
 through the Gate is
-subsiding.<Delay 10> Please set down
-the young one's group<New>
+subsiding.<Delay 10> Please set
+down the young one's group<New>
 and withdraw from here
 quickly before Solaris'
 enemy-detection net starts
@@ -111,7 +111,7 @@ Fei
 checking it out?"<Close><End of Block>
 <TextBlock 20 w:36 h:4>
 Elly
-"What are you
+"What're you
 talking about?<New>
 Now's not the time
 for that, is it?

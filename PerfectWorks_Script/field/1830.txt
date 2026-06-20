@@ -27,9 +27,9 @@ Ol' Man Bal
 of the Slayer of God...<New>
 To think I'd be tinkering
 with it once again..."<Close><End of Block>
-<TextBlock 7 w:34 h:3>
+<TextBlock 7 w:32 h:3>
 Fei
-"Why are you both
+"Why're you both
 helping us...?"<Close><End of Block>
 <TextBlock 8 w:46 h:4>
 Torah

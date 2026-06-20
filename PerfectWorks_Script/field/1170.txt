@@ -39,7 +39,7 @@ Fei
 <TextBlock 10 w:34 h:4>
 Fei
 "Uhh... Oh man...<Delay 10>
-...Anyway, do you
+...Anyway, d'you
 have a name?"<Close><End of Block>
 <TextBlock 11 w:46 h:3>
 Fei
@@ -127,12 +127,12 @@ Kim! Kim! Kim! Kim! Kim!
 Kim! Kim!"<Close><End of Block>
 <TextBlock 27 w:32 h:4>
 Girl
-"What do you
+"What d'you
 mean 'resemble'?<Delay 10>
 Kim is Kim?"<Close><End of Block>
-<TextBlock 28 w:34 h:3>
+<TextBlock 28 w:32 h:3>
 Girl
-"What do you mean
+"What d'you mean
 'created me'?<New>
 Kim is Kim!
 Don't you see?"<Close><End of Block>
@@ -159,15 +159,15 @@ Girl
 listen! I was dreaming
 about long, long ago.<New>
 Kim is more grown-up,
-and I am in some kind
+and I'm in some kind
 of clear tube...<New>
 Kim is...putting many
 candles on a soft,
 white confection...<New>
-I wonder what he is
+I wonder what he's
 doing, but...<New>
-But somehow I know he
-is waiting for me...
+But somehow I know he's
+waiting for me...
 really looking forward to
 me getting out of here..."<Close><End of Block>
 <TextBlock 32 w:44 h:4>
@@ -177,7 +177,7 @@ before I know it...
 everyone is gone...<New>
 And me, I lose
 my body...<New>
-Then I am alone in
+Then I'm alone in
 some dark place for
 a long...long time..."<Close><End of Block>
 <TextBlock 33 w:42 h:3>

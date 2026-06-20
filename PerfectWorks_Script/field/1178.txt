@@ -138,8 +138,8 @@ more time to look at
 them closely...<New>
 But it seems pretty bad.
 It may take a while.<Close><End of Block>
-<TextBlock 25 w:48 h:2>
-Whaaat's up, eh, Myrtle?<Delay 32>
+<TextBlock 25 w:40 h:2>
+Whaaat's up, Myrtle?<Delay 32>
 Huh?<Close><End of Block>
 <TextBlock 26 w:46 h:2>
 Hey, miss.<New>

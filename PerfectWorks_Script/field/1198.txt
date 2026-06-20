@@ -295,10 +295,10 @@ Citan
 "...But,<Delay 10> Elly,<Delay 10> you cannot
 use your Gear since it
 is under repair."<Close><End of Block>
-<TextBlock 36 w:42 h:3>
+<TextBlock 36 w:38 h:3>
 Elly
 "Oh...<Delay 10>
-Then<Delay 10> what will I...?"<Close><End of Block>
+Then<Delay 10> what'll I...?"<Close><End of Block>
 <TextBlock 37 w:52 h:4>
 Citan
 "There is that Omnigear...<Delay 10>

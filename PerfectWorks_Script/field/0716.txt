@@ -28,7 +28,7 @@ Fei
 <TextBlock 8 w:52 h:4>
 Fei
 "You said you need my
-power? Just what do you
+power? Just what d'you
 intend to do with it!?"<Close><End of Block>
 <TextBlock 9 w:44 h:4>
 Fei
@@ -131,7 +131,7 @@ your power."<Close><End of Block>
 <TextBlock 25 w:54 h:4>
 Grahf
 "Who cares why!?
-It does not matter how
+It doesn't matter how
 many of them died...<New>
 They were wretched vermin,
 only living from day to day
@@ -140,11 +140,11 @@ their prescribed destinies!<New>
 And have you forgotten?<Delay 10>
 You were the one who
 destroyed the village.<Delay 10>
-I did not lift a finger."<Close><End of Block>
+I didn't lift a finger."<Close><End of Block>
 <TextBlock 26 w:50 h:4>
 Grahf
 "Is that really so?<Delay 15>
-Surely you have heard it?<New>
+Surely you've heard it?<New>
 It is the very essence of
 you...the voice of desire
 from within you that
@@ -191,12 +191,12 @@ Grahf
 "That power of yours
 is not yet fit for
 purpose.<New>
-It is only reasonable
+It's only reasonable
 to put it to the test
 until it becomes so."<Close><End of Block>
 <TextBlock 34 w:54 h:4>
 Grahf
-"What will you do, Fei?
+"What will you do, Fei?<Delay 10>
 If you fall here, then
 that's it.<New>
 Perhaps, for you,

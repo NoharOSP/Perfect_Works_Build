@@ -1,10 +1,10 @@
 <TextBlock 1 w:28 h:2>
 Sophia
 "Lacan! Live!"<Opcode 2 120><Close><End of Block>
-<TextBlock 2 w:42 h:3>
+<TextBlock 2 w:40 h:3>
 Karellen
 "Sophia!!<Delay 15>
-What are you doing!?"<Close><End of Block>
+What're you doing!?"<Close><End of Block>
 <TextBlock 3 w:52 h:4>
 Sophia
 "...<Delay 5>I'm ending this now.<Delay 15>

@@ -68,10 +68,10 @@ The village was engulfed in
 flames...<Delay 10> I couldn't just
 stand there and watch
 Lahan be destroyed...so...<New>
-To try to save the villag-
-ers, I got in an abandoned
-Gear...without even knowing
-how to operate it.<New>
+To try to save the
+villagers, I got in an
+abandoned Gear.<Delay 5> Despite not
+knowing how to operate it.<New>
 I just thought maybe I
 could do it...<Delay 20> No...<Delay 5>it
 was more like someone
@@ -100,7 +100,7 @@ I destroyed Lahan.
 Almost certainly..."<Close><End of Block>
 <TextBlock 19 w:38 h:3>
 Elly
-"What do you mean
+"What d'you mean
 you destroyed it?<New>
 I thought you were
 trying to help save

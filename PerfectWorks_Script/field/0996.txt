@@ -676,11 +676,12 @@ another dispatchment dock."<Close><End of Block>
 Citan
 "So,<Delay 5> where on earth 
 is <Weltall>?"<Close><End of Block>
-<TextBlock 130 w:56 h:4>
+<TextBlock 130 w:50 h:4>
 Hammer
-"Not 'on earth', but under
-the earth! It's in an under-
-ground dock in D Block!<New>
+"Not 'on earth',
+but under the earth!<New>
+It's in an underground
+dock in D Block!<New>
 I've checked into it and
 found out that there are
 two routes we can use to

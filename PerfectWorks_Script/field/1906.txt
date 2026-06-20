@@ -2,15 +2,15 @@
 Fei
 "Whoa!
 What the...?"<Close><End of Block>
-<TextBlock 2 w:42 h:4>
+<TextBlock 2 w:40 h:4>
 Fei
 "H-Hammer, i-is that
-you!?<Delay 10> Why do you look
+you!?<Delay 10> Why d'you look
 like that!?"<Close><End of Block>
-<TextBlock 3 w:34 h:3>
+<TextBlock 3 w:32 h:3>
 Fei
-"Hammer, what
-are you saying!?"<Close><End of Block>
+"Hammer, what're
+you saying!?"<Close><End of Block>
 <TextBlock 4 w:26 h:2>
 Fei
 "HAMMEEERRR!"<Close><End of Block>
@@ -39,7 +39,7 @@ Hammer
 Hammer
 "Heh heh heh.
 Long time no see,
-eh, b-bro...?"<Close><End of Block>
+huh, b-bro...?"<Close><End of Block>
 <TextBlock 13 w:52 h:4>
 Hammer
 "I-I got it too.

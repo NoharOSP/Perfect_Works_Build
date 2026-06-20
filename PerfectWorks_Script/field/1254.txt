@@ -20,11 +20,11 @@ Stop it at once.<Close><End of Block>
 <TextBlock 5 w:30 h:2>
 Myyah
 "Are you okay?"<Close><End of Block>
-<TextBlock 6 w:40 h:4>
+<TextBlock 6 w:38 h:4>
 Dominia
 "Myyah!
-What are you doing!?
-She is a traitor!"<Close><End of Block>
+What're you doing!?
+She's a traitor!"<Close><End of Block>
 <TextBlock 7 w:52 h:4>
 Myyah
 "Such acts will not be
@@ -51,20 +51,20 @@ this incident?"<Close><End of Block>
 <TextBlock 8 w:14 h:2>
 Dominia
 "..."<Close><End of Block>
-<TextBlock 9 w:52 h:4>
+<TextBlock 9 w:54 h:4>
 Myyah
-"Without the approval of
-your mission commander,<New>
+"Even if you are her
+peer in the Elements,<New>
+without the approval of
+your mission commander,
 prosecution of any soldier
-as a traitor is not
-permitted.<New>
-The same applies even if
-you are an Element.<New>
-Further<Delay 5>...isn't your atti-
-tude toward the Lieutenant
-nothing more than 'your
-own personal prejudice'?<New>
-...Or am I mistaken?"<Close><End of Block>
+as a traitor is prohibited.<New>
+Besides...<Delay 5>
+your harsh scrutiny
+of the Lieutenant <--><New>
+it stems from 'your own
+personal grudge', so to
+speak...<Delay 5>does it not?"<Close><End of Block>
 <TextBlock 10 w:34 h:3>
 Dominia
 "What!?
@@ -77,8 +77,8 @@ act of disloyalty on her
 part or not remains to be
 seen.<New>
 To investigate the truth
-of this matter further, I
-am placing the Lieutenant
+of this matter further,
+I'm placing the Lieutenant
 under my supervision.<New>
 Is that clear?"<Close><End of Block>
 <TextBlock 12 w:40 h:3>

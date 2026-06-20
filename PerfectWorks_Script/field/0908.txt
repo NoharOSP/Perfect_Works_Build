@@ -37,7 +37,7 @@ be buried even deeper
 beneath the earth..."<Close><End of Block>
 <TextBlock 5 w:36 h:3>
 Rico
-"How are we gonna 
+"How're we gonna 
 destroy it then?"<Close><End of Block>
 <TextBlock 6 w:38 h:4>
 <Chu-Chu>
@@ -46,7 +46,7 @@ power of everyone's
 Gears."<Close><End of Block>
 <TextBlock 7 w:44 h:3>
 Rico
-"What are we gonna do 
+"What're we gonna do 
 with everyone's Gears,<New>
 dig a giant hole in
 the ground?"<Close><End of Block>
@@ -74,11 +74,10 @@ Citan
 "So we need firepower
 even greater than
 Shevat's cannon."<Close><End of Block>
-<TextBlock 14 w:42 h:4>
+<TextBlock 14 w:54 h:3>
 Elly
-"Even Geburah battle-
-ships don't have such
-firepower."<Close><End of Block>
+"Even Geburah battleships
+don't have such firepower."<Close><End of Block>
 <TextBlock 15 w:44 h:4>
 Fei
 "Are there any weapons
@@ -133,9 +132,9 @@ put Fort Jasper at the
 top of Babel?"<Close><End of Block>
 <TextBlock 24 w:50 h:4>
 Billy
-"Now that you mention it,
-Babel's summit does over-
-look Church headquarters.<New>
+"Now that you mention
+it, Babel's summit does
+overlook the Church HQ.<New>
 If we shoot from there,
 it might just be possible
 to get through to below
@@ -228,7 +227,7 @@ cannon at Jasper!"<Close><End of Block>
 <TextBlock 41 w:24 h:4>
 Bart
 "And...?<Delay 30>
-What are you
+What're you
 getting at?"<Close><End of Block>
 <TextBlock 42 w:46 h:4>
 Citan
@@ -301,10 +300,9 @@ the beam to strike the
 Gate."<Close><End of Block>
 <TextBlock 55 w:2 h:1>
 !<Opcode 2 30><Close><End of Block>
-<TextBlock 56 w:42 h:3>
+<TextBlock 56 w:50 h:2>
 Maria
-"Do you think it will
-work?"<Close><End of Block>
+"D'you think it'll work?"<Close><End of Block>
 <TextBlock 57 w:40 h:3>
 Citan
 "Theoretically, it 
@@ -370,7 +368,7 @@ Fei
 Doc might need help."<Close><End of Block>
 <TextBlock 65 w:48 h:3>
 Elly
-"I had better go too and
+"I'd better go too and
 keep those two company."<Close><End of Block>
 <TextBlock 66 w:48 h:4>
 Sigurd

@@ -38,7 +38,7 @@ Rico
 "What now?"<Close><End of Block>
 <TextBlock 11 w:36 h:4>
 Rico
-"Hey, what are you
+"Hey, what're you
 saying? Didn't you
 start it up?"<Close><End of Block>
 <TextBlock 12 w:30 h:2>
@@ -70,7 +70,7 @@ a mirror...<Delay 10> Pretty stupid."<Close><End of Block>
 <TextBlock 19 w:48 h:4>
 Throne
 "Repetition<--><Delay 10>?
-Eh...I think you mean
+Uh...I think you mean
 the attenuation rate...?<New>
 Yes, within the
 atmosphere that's going
@@ -154,7 +154,7 @@ Jasmine thing!"<Close><End of Block>
 Maria
 "You don't know
 if you don't try.<New>
-Maybe you are the ones
+Maybe you're the ones
 underestimating the land
 dwellers?"<Close><End of Block>
 <TextBlock 36 w:30 h:3>
@@ -213,9 +213,9 @@ Bart
 <TextBlock 53 w:14 h:2>
 Bart
 "What?"<Close><End of Block>
-<TextBlock 54 w:38 h:3>
+<TextBlock 54 w:40 h:3>
 Bart
-"Eh?<Delay 30> Oh no, it's...<Delay 30>
+"Huh?<Delay 30> Oh no, it's...<Delay 30>
 doing<Delay 30> something..."<Close><End of Block>
 <TextBlock 55 w:32 h:3>
 Bart
@@ -231,7 +231,7 @@ systems on that side.<Close><End of Block>
 Throne
 "Tch!<Delay 30> To think
 the likes of the
-Lambs could...!!"<Close><End of Block>
+Lambs could<-->!!"<Close><End of Block>
 <TextBlock 58 w:28 h:3>
 Seraphita
 "...The likes

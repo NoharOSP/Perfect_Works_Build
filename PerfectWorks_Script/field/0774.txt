@@ -22,7 +22,7 @@ I guess no one can
 tame it.<Close><End of Block>
 <TextBlock 5 w:60 h:2>
 <Brigandier> is a star
-of hope for we pirates.<New>
+of hope for us pirates.<New>
 The bright-red body color
 represents Bart's ambition.<New>
 But since Bart always overdoes
@@ -37,7 +37,7 @@ can really show our skills.<Close><End of Block>
 <TextBlock 7 w:44 h:3>
 Hmm, the specs of this
 Gear are unknown...<New>
-Something of this 
+Something of this
 calibre's way beyond
 the likes of me.<Close><End of Block>
 <TextBlock 8 w:52 h:4>

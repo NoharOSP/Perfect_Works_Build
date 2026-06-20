@@ -23,28 +23,28 @@ Gear to try to
 confirm it."<Close><End of Block>
 <TextBlock 4 w:48 h:3>
 Dominia
-"Then there is a chance
-that it did not sink...<New>
+"Then there's a chance
+that it didn't sink...<New>
 I believe the data shows
 the Yggdrasil was that
 Gear's mother ship?"<Close><End of Block>
-<TextBlock 5 w:44 h:3>
+<TextBlock 5 w:42 h:3>
 Blue-Haired Girl
 "One moment<Delay 30>...<Delay 30>...<Delay 30>
-Yes, that is correct."<Close><End of Block>
+Yes, that's correct."<Close><End of Block>
 <TextBlock 6 w:44 h:3>
 Dominia
 "Excellent.
 Give me the controls."<Close><End of Block>
-<TextBlock 7 w:38 h:4>
+<TextBlock 7 w:40 h:4>
 Blue-Haired Girl
 "Excellent?<Delay 10>
-What are you
-planning on doing?"<Close><End of Block>
+What're you planning
+on doing?"<Close><End of Block>
 <TextBlock 8 w:52 h:4>
 Dominia
 "I'll sink her, of course.
-She will never trouble the
+She'll never trouble the
 Commander again."<Close><End of Block>
 <TextBlock 9 w:46 h:4>
 Blue-Haired Girl
@@ -58,14 +58,14 @@ our mission.<New>
 Besides, it's high time
 we resupply somewhere.
 Fuel is low."<Close><End of Block>
-<TextBlock 10 w:40 h:3>
+<TextBlock 10 w:36 h:3>
 Dominia
-"We have enough.
-I'll take her down."<Close><End of Block>
-<TextBlock 11 w:46 h:4>
+"It'll be enough.<Delay 10>
+We're doing this."<Close><End of Block>
+<TextBlock 11 w:50 h:4>
 Blue-Haired Girl
-"...Urgh...<Delay 10> Once you
-start there is no
+"...Urgh...<Delay 10>
+Once you start there's no
 stopping you, is there?<New>
 I hope you know that
 fighting in water is
@@ -114,23 +114,23 @@ These foolish land-
 dwelling Lambs need
 to be guided by the
 exalted ones."<Close><End of Block>
-<TextBlock 21 w:54 h:4>
+<TextBlock 21 w:52 h:4>
 Elly
-"But why?
-How are they different from
-we Abelite shepherds?"<Close><End of Block>
+"But why?<Delay 10>
+How're they different from
+us, the Abal shepherds?"<Close><End of Block>
 <TextBlock 22 w:50 h:4>
 Dominia
 "To me, it's the same
 whether it be the Lambs
 or the Abal.<New>
-There is only the
+There's only the
 difference in the
 absolute ability of
 each individual.<New>
 The ignorant must
 be lead by the wise.
-That is providence.<New>
+That's providence.<New>
 You too had what it takes
 to become an Element, the
 embodiment of that
@@ -169,7 +169,7 @@ Elly
 Don't say another word!"<Close><End of Block>
 <TextBlock 27 w:50 h:4>
 Dominia
-"Hmph, what are you going
+"Hmph, what're you going
 to do about it, you Lamb
 mongrel!?<New>
 Are you going to use the

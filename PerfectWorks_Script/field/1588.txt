@@ -320,10 +320,10 @@ Bart
 "Stupid!<Delay 30>
 Why'd you put yourself
 in danger like that!?"<Close><End of Block>
-<TextBlock 75 w:52 h:4>
+<TextBlock 75 w:54 h:4>
 Margie
 "I...<Delay 30> It wasn't much,
-I just thought this is the
+I just thought this was the
 least I could do for you."<Close><End of Block>
 <TextBlock 76 w:28 h:3>
 Bart
@@ -373,8 +373,8 @@ Bart
 "...<Delay 30>Sig!?
 D'you know how to
 operate this thing?"<Delay 30><Close><End of Block>
-<TextBlock 88 w:42 h:1>
-...What do you mean!?<Close><End of Block>
+<TextBlock 88 w:40 h:1>
+...What d'you mean!?<Close><End of Block>
 <TextBlock 89 w:46 h:3>
 Bart
 "There are no controls!

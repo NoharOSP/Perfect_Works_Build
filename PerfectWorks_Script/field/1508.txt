@@ -51,7 +51,7 @@ it'd be disastrous.<Close><End of Block>
 We cannot allow you to
 come and go unaccompanied
 beyond this point.<New>
-I am sorry.<Close><End of Block>
+I'm sorry.<Close><End of Block>
 <TextBlock 9 w:54 h:4>
 This is the library, where
 many books are gathered.<New>
@@ -283,7 +283,7 @@ Oh my, this has gotten
 serious.<Delay 20> It seems you can't
 get into town because of
 the emergency security.<New>
-But you are all in luck.<Delay 20>
+But you're all in luck.<Delay 20>
 By coincidence, a
 legendary vendor like
 me happens to be here.<New>

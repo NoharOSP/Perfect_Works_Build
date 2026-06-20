@@ -16,7 +16,7 @@ We don't murder.
 Hell, we even send out
 rescue units for our
 enemies, y'know!?<New>
-This's Bart's police.<Close><End of Block>
+This is Bart's police.<Close><End of Block>
 <TextBlock 4 w:50 h:1>
 (Uh,<Delay 5> or was it 'policy'?)<Close><End of Block>
 <TextBlock 5 w:38 h:1>
@@ -66,7 +66,7 @@ Poor Helen...<Close><End of Block>
 <TextBlock 18 w:42 h:1>
 I'm reading, beat it!<Close><End of Block>
 <TextBlock 19 w:30 h:2>
-This's no time 
+This is no time
 for sleeping!!<Close><End of Block>
 <TextBlock 20 w:46 h:3>
 You gotta rest when you

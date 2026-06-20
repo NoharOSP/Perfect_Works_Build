@@ -30,7 +30,7 @@ If I didn't have this
 wound I'd...<Close><End of Block>
 <TextBlock 8 w:48 h:3>
 Fei seems to be alright,
-eh?<Delay 10> If I didn't have
+huh?<Delay 10> If I didn't have
 this wound...<Close><End of Block>
 <TextBlock 9 w:42 h:3>
 Fei looks terrible...<Delay 10>

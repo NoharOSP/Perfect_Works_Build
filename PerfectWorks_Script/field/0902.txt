@@ -3,9 +3,9 @@ Do you think women
 are weaker than men?<Delay 10>
 <Opcode 1 255>    I think so
     Not really<Close><End of Block>
-<TextBlock 2 w:44 h:2>
-What? Don't you under-
-estimate desert women!<Close><End of Block>
+<TextBlock 2 w:50 h:2>
+What? Don't underestimate
+desert women!<Close><End of Block>
 <TextBlock 3 w:38 h:2>
 You're just saying
 that to impress me.<Close><End of Block>

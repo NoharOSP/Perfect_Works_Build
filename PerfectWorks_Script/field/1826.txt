@@ -29,7 +29,7 @@ Yggdrasil too?"<Close><End of Block>
 Elly
 "Solaris!!
 ...That red Gear...!<New>
-What the hell is
+What the hell's
 happening, Citan!?<Delay 10>
 Citan!! Where's Fei?"<Close><End of Block>
 <TextBlock 6 w:48 h:4>
@@ -39,7 +39,7 @@ Fei's still there, isn't
 he!? We must hurry!!"<Close><End of Block>
 <TextBlock 7 w:36 h:4>
 Elly
-"So he is already
+"So he's already
 on the Yggdrasil?"<Close><End of Block>
 <TextBlock 8 w:16 h:2>
 Elly

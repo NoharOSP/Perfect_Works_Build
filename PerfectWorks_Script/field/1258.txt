@@ -252,9 +252,9 @@ you're so busy."<Close><End of Block>
 <TextBlock 70 w:54 h:2>
 Bishop Stone
 "And who are these people?"<Close><End of Block>
-<TextBlock 71 w:48 h:3>
+<TextBlock 71 w:46 h:3>
 Billy
-"They are travelers from
+"They're travelers from
 another country."<Close><End of Block>
 <TextBlock 72 w:42 h:4>
 Bishop Stone
@@ -267,13 +267,13 @@ correspondence..."<Close><End of Block>
 Billy
 "Yes.<Delay 10> A job,
 wasn't it?"<Close><End of Block>
-<TextBlock 74 w:54 h:4>
+<TextBlock 74 w:50 h:4>
 Bishop Stone
 "That's right.<New>
 The Church transport ship
 that had gone missing has
-finally turned up.<Delay 10> But it
-is not responding..."<Close><End of Block>
+finally turned up.<Delay 10> But
+it's not responding..."<Close><End of Block>
 <TextBlock 75 w:40 h:2>
 Billy
 "Are you saying...?"<Close><End of Block>

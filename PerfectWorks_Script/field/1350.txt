@@ -8,13 +8,13 @@ us take a detour."<Close><End of Block>
 <TextBlock 2 w:44 h:2>
 Elly
 "To<Delay 10> seal something..."<Close><End of Block>
-<TextBlock 3 w:48 h:3>
+<TextBlock 3 w:46 h:4>
 Citan
-"...Generally speaking,
-labyrinths are not made<New>
-to defend against
-invaders, but to
-seal something in."<Close><End of Block>
+"...Generally speaking,<New>
+labyrinths are not
+made to defend against
+invaders, but to seal
+something in."<Close><End of Block>
 <TextBlock 4 w:48 h:3>
 Bart
 "...This is one weird

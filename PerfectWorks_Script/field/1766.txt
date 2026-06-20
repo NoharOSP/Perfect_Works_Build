@@ -2,11 +2,11 @@
 Fei
 "Huh!?<Delay 10> What is
 this place?"<Close><End of Block>
-<TextBlock 2 w:42 h:4>
+<TextBlock 2 w:46 h:4>
 Fei
-"Why are there
-holograms of us in a
-Solaris facility...?"<Close><End of Block>
+"Why're there holograms
+of us in a Solaris
+facility...?"<Close><End of Block>
 <TextBlock 3 w:48 h:2>
 Elly
 "H-<Delay 5>Holograms of us...!?"<Close><End of Block>

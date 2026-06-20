@@ -132,7 +132,7 @@ Elly
 Erich
 "Do you have any idea how
 traitors are dealt with<New>
-even if they are
+even if they're
 First Class citizens?<New>
 If I kill this intruder,
 who knows about you,<Delay 10>
@@ -239,7 +239,7 @@ Elly
 <TextBlock 44 w:44 h:4>
 Fei
 "It's alright.<Delay 10>
-This is a land dweller
+This is a land-dweller
 problem now.<New>
 We won't trouble you
 any further.<Delay 10>

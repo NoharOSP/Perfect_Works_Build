@@ -3,12 +3,12 @@ Elly
 "He called us <Delay 10>survivors,
 didn't he? That means, the
 people of the Church<Delay 10>..."<Close><End of Block>
-<TextBlock 2 w:42 h:4>
+<TextBlock 2 w:38 h:4>
 Elly
 "Get a hold of
 yourself, Billy.<New>
 There have to be
-people who are still
+people who're still
 alive. Let's help
 them."<Close><End of Block>
 <TextBlock 3 w:32 h:2>
@@ -69,12 +69,12 @@ Bart
 "Watch out, Billy.
 These guys are 
 professional assassins."<Close><End of Block>
-<TextBlock 15 w:42 h:4>
+<TextBlock 15 w:40 h:4>
 Bart
 "Hey, Billy, keep it
 together!<New>
-We'll help those who
-are still alive.
+We'll help those
+who're still alive.
 Let's move!"<Close><End of Block>
 <TextBlock 16 w:26 h:3>
 Billy
@@ -104,14 +104,12 @@ Rico
 are pros.<New>
 Experienced
 killers."<Close><End of Block>
-<TextBlock 22 w:38 h:4>
+<TextBlock 22 w:48 h:4>
 Rico
-"Get a hold of
-yourself.<New>
+"Get a hold of yourself.<New>
 With our own hands,
-we'll help those
-who are still
-alive."<Close><End of Block>
+we'll help those who're
+still alive."<Close><End of Block>
 <TextBlock 23 w:22 h:2>
 Billy
 "This way."<Close><End of Block>
@@ -126,8 +124,8 @@ the infirmary.
 This way, please."<Close><End of Block>
 <TextBlock 26 w:52 h:1>
 There are still survivors?<Close><End of Block>
-<TextBlock 27 w:14 h:1>
-Wagggh!<Close><End of Block>
+<TextBlock 27 w:16 h:1>
+Aaagghh!<Close><End of Block>
 <TextBlock 28 w:42 h:4>
 Billy
 "<Perso1>, the infirmary

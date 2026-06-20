@@ -147,10 +147,10 @@ Bart
 "What's the
 deal with these
 'Etones'?"<Close><End of Block>
-<TextBlock 31 w:52 h:4>
+<TextBlock 31 w:48 h:4>
 Doctor
-"They are people from the
-Church who are appointed
+"They're people from the
+Church who're appointed
 to purge the 'Verus' <--><New>
 terrible revenants that
 appear here in Aqvi."<Close><End of Block>
@@ -158,13 +158,14 @@ appear here in Aqvi."<Close><End of Block>
 Elly
 "So why don't we
 ask this Etone?"<Close><End of Block>
-<TextBlock 33 w:54 h:4>
+<TextBlock 33 w:44 h:5>
 Doctor
 "We can ask...<New>
-I don't know whether or not
-they'd help out with intro-
-ducing you, but it's worth
-trying to talk to them."<Close><End of Block>
+I don't know whether
+or not they'd help out
+with introducing you,
+but it's worth trying
+to talk to them."<Close><End of Block>
 <TextBlock 34 w:46 h:3>
 Elly
 "I understand.<Delay 10> Let's go

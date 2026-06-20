@@ -15,11 +15,11 @@ trouble I've caused you."<Close><End of Block>
 Fei
 "Yes...<Delay 20>
 but..."<Close><End of Block>
-<TextBlock 5 w:42 h:4>
+<TextBlock 5 w:40 h:4>
 Fei
 "Oh, you haven't met
-before.<Delay 20> This is Doc's
-wife, Yui."<Close><End of Block>
+before.<Delay 20> This is the
+Doc's wife Yui."<Close><End of Block>
 <TextBlock 6 w:42 h:3>
 Fei
 "Okay!<Delay 20>
@@ -86,7 +86,7 @@ Yui
 "Welcome back."<Close><End of Block>
 <TextBlock 17 w:50 h:3>
 Yui
-"What are you saying?<Delay 20>
+"What're you saying?<Delay 20>
 It's not your fault.<New>
 There's nothing to worry
 about.<New>
@@ -100,9 +100,9 @@ happened, since Solaris
 instigated it."<Close><End of Block>
 <TextBlock 18 w:48 h:4>
 Yui
-"Aha...<Delay 20>I take it you
-are Bart, the Orca of
-the Desert?<New>
+"Aha...<Delay 20>
+I take it you're Bart,
+the Orca of the Desert?<New>
 I've heard a lot about
 you. You've been giving
 it your all!<Delay 20>

@@ -118,7 +118,7 @@ I'll see you soon."<Close><End of Block>
 Medena
 "Fei, we're in the
 same boat as you
-now, eh?"<Close><End of Block>
+now, hmm?"<Close><End of Block>
 <TextBlock 22 w:16 h:2>
 Medena
 "Elly!!"<Close><End of Block>

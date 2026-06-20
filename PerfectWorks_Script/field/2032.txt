@@ -103,7 +103,7 @@ Karellen
 "..."<Close><End of Block>
 <TextBlock 19 w:38 h:3>
 Myyah
-"What are you doing
+"What're you doing
 here,<Delay 20> Carl?"<Close><End of Block>
 <TextBlock 20 w:54 h:4>
 Myyah
@@ -116,7 +116,7 @@ He was too fixated on
 the humans.<New>
 Forgetting his original
 duty, the revival of God.
-That is why we created you.<New>
+That's why we created you.<New>
 You were made only to
 remove Cain, who would
 become an obstacle to us.<New>
@@ -131,13 +131,13 @@ artificial lifeform, you
 were mentally unstable.<New>
 So<Delay 5>...<Delay 5>we made use of
 Fei's existence.<Delay 20>
-Hatred<Delay 5>...<Delay 10> That is the
+Hatred<Delay 5>...<Delay 10> That's the
 source of your power.<New>
 You fulfilled our
 expectations magnificently.<New>
 But<Delay 5>...<Delay 5>you've already served
 your purpose, haven't you?<Delay 10>
-Do you get it?<Delay 10> You have no
+Do you get it?<Delay 10> You've no
 further part to play.<New>
 You're trash.<Delay 20>
 Like the trash you are,
@@ -161,7 +161,7 @@ Myyah
 Myyah
 "Yes<Delay 5>...<Delay 5>
 That's good, Carl<Delay 5>...<New>
-I am fated<Delay 5>...<Delay 5>to be unable
+I'm fated<Delay 5>...<Delay 5>to be unable
 to destroy myself<Delay 5>...<New>
 Now<Delay 5>...<Delay 5>all<Delay 5>...<Delay 5>my<Delay 5>...<Delay 5>wishes<Delay 20>
 will<Delay 5>...<Delay 5>come<Delay 5>...<Delay 5>true.<Delay 30>

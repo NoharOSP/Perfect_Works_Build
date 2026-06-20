@@ -12,10 +12,10 @@ him<Delay 5>..."<Close><End of Block>
 <TextBlock 3 w:32 h:2>
 Ramsus
 "Rrraaaggghhh!!"<Close><End of Block>
-<TextBlock 4 w:30 h:3>
+<TextBlock 4 w:26 h:4>
 Karellen
 "Of course.<Delay 32>
-That is why he
+That's why he
 was created."<Close><End of Block>
 <TextBlock 5 w:54 h:4>
 Karellen
@@ -27,10 +27,10 @@ mere data in the SOL-9000.<New>
 Your existence is an
 obstacle to the fulfillment
 of my goal.<Delay 10> That's all."<Close><End of Block>
-<TextBlock 6 w:42 h:4>
+<TextBlock 6 w:40 h:4>
 Karellen
 "Oh, quite so.
-I am trying to guide
+I'm trying to guide
 the humans 'my way'.<New>
 This doesn't change
 that."<Close><End of Block>

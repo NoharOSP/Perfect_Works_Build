@@ -112,10 +112,10 @@ Nikola
 "It doesn't matter!<Delay 10>
 Fire!<Delay 10>
 Nikola<Delay 5> is no more...<New>
-Before I was brain-
-washed by Solaris, I
-implanted a conscience
-circuit in Achtzehn...<New>
+Before I was brainwashed
+by Solaris, I implanted
+a conscience circuit in
+Achtzehn...<New>
 This would respond and
 activate in <Seibzehn>'s
 presence. My message
@@ -131,7 +131,7 @@ No,<Delay 10> with you, Maria.<Delay 40>
 Now and forever!"<Close><End of Block>
 <TextBlock 15 w:38 h:4>
 Nikola
-"Maria<Delay 40>...<Delay 40> We will
+"Maria<Delay 40>...<Delay 40> We'll
 always be with you.<New>
 Claudia and I...<Delay 40>
 Now and forever<Delay 40>...<Delay 40>"<Close><Close><Close><Close><End of Block>

@@ -22,14 +22,14 @@ Geburah officer?"<Close><End of Block>
 <TextBlock 8 w:18 h:2>
 Fei
 "Well..."<Close><End of Block>
-<TextBlock 9 w:50 h:4>
+<TextBlock 9 w:48 h:4>
 Bart
 "I don't know where you
 met her, but no matter
 how you look at it...<New>
-she's a Geburah officer!
-Not an enemy? Where do
-you get off saying that?"<Close><End of Block>
+she's a Geburah officer!<Delay 5>
+Not an enemy?<Delay 5>
+How can you say that?"<Close><End of Block>
 <TextBlock 10 w:54 h:4>
 Elly
 "Yes.

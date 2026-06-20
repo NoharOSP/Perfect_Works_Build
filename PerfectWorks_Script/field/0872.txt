@@ -19,7 +19,7 @@ Sigurd
 but a child.<Delay 30> Why?"<Close><End of Block>
 <TextBlock 6 w:38 h:3>
 Bart
-"Do you have any
+"D'you have any
 memories of her?<New>
 What kind of person
 was she?"<Close><End of Block>
@@ -29,8 +29,8 @@ Sigurd
 She was very kind...<New>
 But at her birth,
 apparently the doctors
-said she would not
-live a long life.<New>
+said she wouldn't live
+a long life.<New>
 She went on to live in
 constant fear of that.<Delay 20>
 As a result, even when
@@ -39,7 +39,7 @@ her fear of death, of
 separation, seemed to
 hold her back.<New>
 She worried that she
-could not be with me
+couldn't be with me
 to the very end..."<Close><End of Block>
 <TextBlock 8 w:50 h:2>
 Bart
@@ -55,20 +55,20 @@ real son."<Close><End of Block>
 Bart
 "Why didn't you tell
 him you were his son?"<Close><End of Block>
-<TextBlock 11 w:42 h:4>
+<TextBlock 11 w:38 h:4>
 Sigurd
 "Given that my
 mother herself
 wanted to hide it,<New>
-she would have wanted
+she would've wanted
 me to do the same."<Close><End of Block>
 <TextBlock 12 w:48 h:4>
 Bart
-"There is more to my
+"There's more to my
 father's will than what
 I declared today.<New>
 'Share your inheritance
-with your brother,' he
+with your brother', he
 said.<New>
 'Both of you, share
 your inheritance

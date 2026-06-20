@@ -25,7 +25,7 @@ for helping Fei..." <Close><End of Block>
 Billy
 "Don't mention it.<New>
 We cannot turn away
-those who are in need,
+those who're in need,
 no matter their faith."<Close><End of Block>
 <TextBlock 7 w:40 h:3>
 Elly
@@ -37,13 +37,11 @@ your orphanage...?"<Close><End of Block>
 Billy
 "Surprised there are
 only children?"<Close><End of Block>
-<TextBlock 9 w:50 h:4>
+<TextBlock 9 w:54 h:4>
 Billy
-"Actually,<New>
-from a young age my
-sister and I did
-not have our parents
-around either...<New>
+"Actually,<Delay 5> from a young age
+my sister and I didn't have
+our parents around either.<New>
 I opened the orphanage
 so kids without relatives
 wouldn't have to go
@@ -226,13 +224,11 @@ my officer?<New>
 What's all this
 'Siggy' stuff?
 Don't get cute, kid!"<Close><End of Block>
-<TextBlock 45 w:36 h:4>
+<TextBlock 45 w:54 h:4>
 Billy
-"What about you,
-why are you so
-bossy with Siggy?<New>
-Who do you think
-you are?"<Close><End of Block>
+"What about you, why're you
+so bossy with Siggy?<Delay 10> Who do
+you think you are?"<Close><End of Block>
 <TextBlock 46 w:40 h:4>
 Jesse
 "Billy.<Delay 10> Don't pick a
@@ -246,7 +242,7 @@ Jesse here was my
 supervisor when I was
 an Elements candidate
 at Solaris Jugend.<New>
-I had even rented a
+I'd even rented a
 room in his house."<Close><End of Block>
 <TextBlock 48 w:36 h:3>
 Jesse
@@ -278,7 +274,7 @@ drink where,
 exactly...?"<Close><End of Block>
 <TextBlock 53 w:48 h:4>
 Jesse
-"What do you mean?<Delay 10>
+"Whaddya mean?<Delay 10>
 There has to be a bar or
 two on board your sub?"<Close><End of Block>
 <TextBlock 54 w:34 h:4>
@@ -303,9 +299,9 @@ Citan
 Sigurd
 "We can't just say no
 to him..."<Close><End of Block>
-<TextBlock 59 w:38 h:3>
+<TextBlock 59 w:36 h:3>
 Jesse
-"What are you guys
+"What're you guys
 doin'? Let's go!"<Close><End of Block>
 <TextBlock 60 w:22 h:2>
 Sigurd
@@ -361,7 +357,7 @@ Billy
 What time do you think
 it is?<New>
 Be quiet when you come
-home, or you will wake
+home, or you'll wake
 the children."<Close><End of Block>
 <TextBlock 73 w:40 h:4>
 Jesse
@@ -423,15 +419,17 @@ Billy
 honestly?"<Close><End of Block>
 <TextBlock 83 w:6 h:1>
 ...<Close><End of Block>
-<TextBlock 84 w:56 h:4>
+<TextBlock 84 w:50 h:4>
 Jesse
 "Well there's certainly
 nothing I can do to prove
 who I am...<New>
-Fine, you still don't under-
-stand the truth of things.<Delay 10>
-What those guys really are, 
-where you are going..."<Close><End of Block>
+Fine, you still don't
+understand the truth
+of things.<New>
+What those guys really
+are, or where you're
+headed..."<Close><End of Block>
 <TextBlock 85 w:36 h:3>
 Billy
 "Father, what are
@@ -454,7 +452,7 @@ it is. Fine.<New>
 Anyhow, you have to quit
 the work you're doing.<New>
 Consider it a piece of
-advice from a man who is
+advice from a man who's
 but a stranger to you."<Close><End of Block>
 <TextBlock 89 w:6 h:1>
 ...<Close><End of Block>

@@ -7,8 +7,8 @@ Bart
 Geburah!"<Close><End of Block>
 <TextBlock 3 w:50 h:4>
 Ramsus
-"Looks like we have rats.
-Where do you plan on
+"Looks like we have rats.<Delay 10>
+Where d'you plan on
 taking that girl, boy?"<Close><End of Block>
 <TextBlock 4 w:42 h:4>
 Bart

@@ -1,5 +1,5 @@
-<TextBlock 1 w:52 h:5>
-I don't wanchu to think...<Delay 10>
+<TextBlock 1 w:56 h:5>
+I don't want you to think...<Delay 10>
 what am I doing at a time
 like this...<Delay 10> If I don't do
 this, I can't keep my

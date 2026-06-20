@@ -1,8 +1,8 @@
-<TextBlock 1 w:46 h:4>
+<TextBlock 1 w:48 h:4>
 Bart
 "Hah! What an idiot.<Delay 10>
 Appearances really can
-be deceiving, eh, Fei?"<Close><End of Block>
+be deceiving, huh, Fei?"<Close><End of Block>
 <TextBlock 2 w:46 h:3>
 Bart
 "Anyway...looks like
@@ -45,7 +45,7 @@ Bart
 "So, now that we've got
 rid of that nuisance,<New>
 let's get out of here,
-eh, Fei?"<Close><End of Block>
+huh, Fei?"<Close><End of Block>
 <TextBlock 10 w:28 h:3>
 Fei
 "............"<Close><End of Block>

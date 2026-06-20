@@ -43,9 +43,9 @@ a weapon..."<Close><End of Block>
 Billy
 "No, it's not
 your fault..."<Close><End of Block>
-<TextBlock 11 w:40 h:3>
+<TextBlock 11 w:42 h:3>
 Billy
-"This's the best way
+"This is the best way
 to see Father off."<Close><End of Block>
 <TextBlock 12 w:32 h:3>
 Jesse

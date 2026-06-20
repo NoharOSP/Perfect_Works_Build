@@ -23,7 +23,7 @@ and which is fiction...<Delay 10>
 you cannot tell until
 you wake up<Delay 5>...<Delay 30>
  
-Or perhaps<Delay 5> it is both
+Or perhaps<Delay 5> it's both
 truth and fiction<Delay 5>...<Close><End of Block>
 <TextBlock 3 w:50 h:12>
 Something nebulous<Delay 5>...<Delay 15>
@@ -70,7 +70,7 @@ In those dreams,<Delay 5>
 I loved one woman<Delay 5>...<Delay 15>
 No matter the day,<Delay 15>
 no matter the era,<Delay 15>
-that did not change<Delay 5>...<Delay 45>
+that didn't change<Delay 5>...<Delay 45>
  
 As for her name<Delay 5>...<Close><End of Block>
 <TextBlock 7 w:52 h:12>
@@ -157,7 +157,7 @@ In those dreams,<Delay 5>
 I loved one man<Delay 5>...<Delay 15>
 No matter the day,<Delay 15>
 no matter the era,<Delay 15>
-that did not change<Delay 5>...<Delay 45>
+that did'n't change<Delay 5>...<Delay 45>
  
 As for his name<Delay 5>...<Close><End of Block>
 <TextBlock 14 w:52 h:12>
@@ -192,9 +192,9 @@ during the Zeboim era<Delay 5>...<New>
 They stood like the tombstones
 of that ancient civilization.<Delay 45>
  
-  This was a graveyard<Delay 5> for a
- people who had destroyed each
-other out of sheer arrogance.<Close><End of Block>
+    This was a graveyard of
+   people who'd refused each
+ other out of sheer arrogance.<Close><End of Block>
 <TextBlock 18 w:52 h:10>
   Having arrived at the
   central control room,
@@ -294,7 +294,7 @@ he not show himself!?"<Close><End of Block>
 Elly
 "Ramsus!<Delay 15>
 Fei, the one you
-seek, is not here.<New>
+seek, isn't here.<New>
 So it's time to stop
 this nonsense!"<Close><End of Block>
 <TextBlock 26 w:28 h:3>
@@ -318,9 +318,9 @@ Rank
 <TextBlock 31 w:32 h:2>
 Elly
 "K-<Delay 5>Keep back<Delay 5>...<Delay 5>"<Close><End of Block>
-<TextBlock 32 w:46 h:4>
+<TextBlock 32 w:48 h:4>
 Ramsus
-"Won't come out, eh<Delay 5>...?<Delay 5>
+"Won't come out, hmm<Delay 5>...?<Delay 5>
 Have it your way.<New>
 Then from this night
 forward, you can fall
@@ -355,7 +355,7 @@ Elly
 you, Ramsus<Delay 5>...?"<Close><End of Block>
 <TextBlock 40 w:50 h:4>
 Elly
-"Why are you so fixated
+"Why're you so fixated
 on Fei...and on being the
 best at everything?"<Close><End of Block>
 <TextBlock 41 w:52 h:4>
@@ -383,7 +383,7 @@ Ramsus
 "But I crawled out of
 there!<Delay 15> By my own power,
 that I might live!<New>
-To show those who had
+To show those who'd
 forsaken me!<New>
 And I got this far!<Delay 15>
 I myself obtained the
@@ -439,11 +439,11 @@ finally obtained!?"<Close><End of Block>
 <TextBlock 48 w:48 h:3>
 Elly
 "Ramsus<Delay 5>...<Delay 15>
-No one is attacking you.<New>
-No one is trying to take
-away what is precious
+No one's attacking you.<New>
+No one's trying to take
+away what's precious
 to you<Delay 5>...<New>
-Your existence is not
+Your existence isn't
 under threat or anything
 like that..."<Close><End of Block>
 <TextBlock 49 w:36 h:3>
@@ -456,7 +456,7 @@ afraid of love<Delay 5>..."<Close><End of Block>
 <TextBlock 50 w:26 h:4>
 Ramsus
 "Y-You<Delay 5>...<Delay 5>
-You are<Delay 5>...<Delay 15>
+You're<Delay 5>...<Delay 15>
 Aaarrrgghhh!"<Close><End of Block>
 <TextBlock 51 w:52 h:12>
 Ramsus was afraid.<Delay 45>
@@ -474,7 +474,7 @@ than anyone else<Delay 5>...<Close><End of Block>
 <TextBlock 52 w:60 h:9>
 Suddenly, the howling erupted.<Delay 30>
  
-   Even the people who had
+   Even the people who'd
    avoided abnormalities this
    far mutated...<Delay 20>into Verus.<Delay 45>
  
@@ -501,7 +501,7 @@ people destined by God.<Close><End of Block>
   shape one by one<Delay 5>...<Delay 15>
  
 The howling was the voices
-of the people who had filled
+of the people who'd filled
 the land, calling out to God.<New>
 'When humans have filled the
 land, God will awaken from

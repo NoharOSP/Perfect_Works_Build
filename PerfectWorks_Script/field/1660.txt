@@ -7,7 +7,7 @@ I see you have not
 caught on yet...!<Close><End of Block>
 <TextBlock 3 w:34 h:3>
 Fei
-"Doc!!<Delay 10> What are
+"Doc!!<Delay 10> What're
 you doing here!?"<Close><End of Block>
 <TextBlock 4 w:34 h:4>
 Citan

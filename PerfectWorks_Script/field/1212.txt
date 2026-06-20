@@ -243,11 +243,11 @@ Fei
 "Queen Zephyr said three
 were on the surface, and
 one in Solaris..."<Close><End of Block>
-<TextBlock 47 w:46 h:4>
+<TextBlock 47 w:52 h:4>
 Sigurd
 "The Gates are laid out
-so as to form an equi-
-lateral triangle shape,<New>
+so as to form the shape of
+an equilateral triangle,<New>
 in the center of which
 is Solaris.<Delay 20>
 Or so Shakhan's report
