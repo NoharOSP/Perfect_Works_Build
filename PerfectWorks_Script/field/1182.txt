@@ -626,6 +626,18 @@ This will display a sub-
 window in place of the
 main Equip window, where
 you can select the ammo.<New>
+I have a left and a right
+Ether Gun, which means
+I can load two types of
+elemental ammo at once.<New>
+(Which Ether Gun is fired
+when using the <S> button
+in battle depends on the
+sequence of my attacks.<New>
+To simplify things, you
+might want to just equip
+the same elemental ammo
+in both Ether Guns.)<New>
 One thing you have to be
 careful of is that the
 number of bullets for
