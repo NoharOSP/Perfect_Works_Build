@@ -1,5 +1,5 @@
 <TextBlock 1 w:46 h:4>
-Medena
+Medina
 "Elly...<Delay 10>
 I'm so happy...<Delay 10>
 Let me see you...<New>
@@ -10,7 +10,7 @@ given up hope."<Close><End of Block>
 Elly
 "...Mother."<Close><End of Block>
 <TextBlock 3 w:42 h:4>
-Medena
+Medina
 "Are you staying for
 a while?<Delay 10> Please relax
 this time, alright?<New>
@@ -20,7 +20,7 @@ so happy."<Close><End of Block>
 Elly
 "Y-<Delay 5>Yes...<Delay 5>I guess."<Close><End of Block>
 <TextBlock 5 w:44 h:4>
-Medena
+Medina
 "We should have a nice
 meal today.<Delay 10> Fei, would
 you like to join us?<New>
@@ -29,7 +29,7 @@ friends over.<Delay 10> It'd
 be nice if you were
 to get along."<Close><End of Block>
 <TextBlock 6 w:48 h:4>
-Medena
+Medina
 "Well,<Delay 10> I'm going
 shopping, so please keep
 an eye on things here.<New>

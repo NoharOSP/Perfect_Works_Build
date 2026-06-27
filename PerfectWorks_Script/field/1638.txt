@@ -30,7 +30,7 @@ Emeralda
 "Ooh,
 the sky is blue..."<Close><End of Block>
 <TextBlock 8 w:42 h:3>
-Medena
+Medina
 "So this is goodbye,
 Solaris...<New>
 All else aside,

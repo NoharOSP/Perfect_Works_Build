@@ -6,12 +6,12 @@ Elly, is that you?<Close><End of Block>
 <TextBlock 3 w:14 h:1>
 Mother!<Close><End of Block>
 <TextBlock 4 w:36 h:4>
-Medena
+Medina
 "You<--><Delay 10>
 So, you're safe...<Delay 10>
 What a relief..."<Close><End of Block>
 <TextBlock 5 w:44 h:4>
-Medena
+Medina
 "The message from the
 military said you were
 missing in action..."<Close><End of Block>
@@ -27,7 +27,7 @@ Elly
 "Mother,<Delay 10>
 where is Father?"<Close><End of Block>
 <TextBlock 8 w:44 h:4>
-Medena
+Medina
 "He's still at the 
 palace. I expect he'll
 be home shortly..."<Close><End of Block>
@@ -35,7 +35,7 @@ be home shortly..."<Close><End of Block>
 Elly
 "I see..."<Close><End of Block>
 <TextBlock 10 w:38 h:2>
-Medena
+Medina
 "Elly, who's this?"<Close><End of Block>
 <TextBlock 11 w:48 h:4>
 Elly
@@ -56,7 +56,7 @@ Fei
 "Huh?<Delay 10>
 Yeah, <Delay 10>well...<Delay 10> I mean..."<Close><End of Block>
 <TextBlock 14 w:46 h:4>
-Medena
+Medina
 "I see. That must be
 why he's dressed like
 a land dweller.<New>
@@ -170,7 +170,7 @@ Go, help Fei."<Close><End of Block>
 Elly
 "Father..."<Close><End of Block>
 <TextBlock 39 w:44 h:4>
-Medena
+Medina
 "Oh, Elly...<Delay 10>
 What do you want in
 your father's room?<New>

@@ -217,7 +217,7 @@ Elly...<Close><End of Block>
 <TextBlock 46 w:6 h:1>
 ...<Close><End of Block>
 <TextBlock 47 w:50 h:4>
-Medena
+Medina
 "Elly,<Delay 10> I think you
 should live your life
 the way you wish.<New>
@@ -229,7 +229,7 @@ Elly
 "Mother...<Delay 10>I'm sorry for<Delay 10>
 what I said earlier..."<Close><End of Block>
 <TextBlock 49 w:48 h:4>
-Medena
+Medina
 "...I know.<Delay 10> But believe
 me... That you're my
 child is beyond doubt.<New>
@@ -239,14 +239,14 @@ you're my sweet girl..."<Close><End of Block>
 Elly
 "Mom..."<Close><End of Block>
 <TextBlock 51 w:38 h:2>
-Medena
+Medina
 "Now, hurry... Go."<Close><End of Block>
 <TextBlock 52 w:36 h:3>
 Elly
 "Yes...<Delay 10>
 Take care, Mom..."<Close><End of Block>
 <TextBlock 53 w:20 h:2>
-Medena
+Medina
 "Hurry..."<Close><End of Block>
 <TextBlock 54 w:0 h:1>
 <Close><End of Block>

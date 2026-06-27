@@ -112,18 +112,18 @@ Erich
 "Yeah, I know."<Close><End of Block>
 <TextBlock 20 w:38 h:3>
 Erich
-"Elly, Medena...
+"Elly, Medina...
 I'll see you soon."<Close><End of Block>
 <TextBlock 21 w:36 h:4>
-Medena
+Medina
 "Fei, we're in the
 same boat as you
 now, hmm?"<Close><End of Block>
 <TextBlock 22 w:16 h:2>
-Medena
+Medina
 "Elly!!"<Close><End of Block>
 <TextBlock 23 w:42 h:3>
-Medena
+Medina
 "My dear...
 Please be careful..."<Close><End of Block>
 <TextBlock 24 w:50 h:3>
