@@ -82,11 +82,11 @@ Oh, and if you have any
 other questions, please
 feel free to stop by any
 time now, you hear!?<Close><End of Block>
-<TextBlock 11 w:56 h:4>
+<TextBlock 11 w:52 h:4>
 Aha! I knew you were going
-to ask me about them! <Delay 20>
+to ask me about them!<Delay 20>
 Well then, allow me to
-explain about Action Points.<Close><End of Block>
+explain Action Points.<Close><End of Block>
 <TextBlock 12 w:56 h:6>
 There are three kinds of
 attacks <--> Weak, Strong
@@ -152,9 +152,9 @@ obliterating enemies in one
 Fierce blow, but you may find
 that relying on this alone
 presents difficulty later on.<Close><End of Block>
-<TextBlock 16 w:52 h:4>
-...That's about all I have
-to say about that, really.<Delay 20>
+<TextBlock 16 w:50 h:4>
+...That's all there is
+to say about it, really.<Delay 20>
 Please come by again when
 you're in need of advice.<Close><End of Block>
 <TextBlock 17 w:54 h:5>

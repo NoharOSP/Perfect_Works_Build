@@ -125,8 +125,9 @@ Margarita's card?<Close><End of Block>
 <TextBlock 35 w:40 h:2>
 Nope, I don't.<Delay 10>
 But I've got Beth's.<Close><End of Block>
-<TextBlock 36 w:48 h:1>
-Has the base been found?<Close><End of Block>
+<TextBlock 36 w:40 h:2>
+Have they discovered
+our base?<Close><End of Block>
 <TextBlock 37 w:50 h:2>
 I can't seem to get any.<Delay 30>
 (I mean cards, you fool!)<Close><End of Block>

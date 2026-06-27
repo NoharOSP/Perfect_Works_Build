@@ -8,7 +8,7 @@ wedding is tomorrow!<New>
 Hey, how about gettin'
 them a stamina drink
 of courage and love...?<Delay 10>
-What do you think?<New>
+What d'you think?<New>
 C'mon, you've gotta
 get 'em a present here!<Delay 30>
 We're the only shop

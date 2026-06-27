@@ -78,10 +78,9 @@ Fei
 "We did it!<Delay 20>
 All four Gate generators
 are safe!"<Close><End of Block>
-<TextBlock 17 w:42 h:3>
-We're under emergency
-conditions now.<Delay 20>
-You can't go in.<Close><End of Block>
+<TextBlock 17 w:48 h:2>
+Currently on high alert.<Delay 20>
+You cannot enter.<Close><End of Block>
 <TextBlock 18 w:42 h:2>
 <Opcode 1 255>Old Capital of Shevat
     Aphel Aura<Close><End of Block>

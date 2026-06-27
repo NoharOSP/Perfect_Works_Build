@@ -60,9 +60,9 @@ That's nice.
 I did it!
 They made me the pilot
 apprentice!<Close><End of Block>
-<TextBlock 16 w:44 h:2>
-I'd like to try to
-drive this thing once.<Close><End of Block>
+<TextBlock 16 w:46 h:2>
+I wanna try driving
+this thing too someday.<Close><End of Block>
 <TextBlock 17 w:26 h:1>
 Welcome back!<Opcode 2 40><Close><End of Block>
 <TextBlock 18 w:26 h:1>
@@ -98,7 +98,7 @@ Bart
 "Look! This is amber I
 found in a stalactite
 cavern under the desert.<New>
-It's rare to find one
+It's rare to find some
 with a bug in it!"<Close><End of Block>
 <TextBlock 28 w:26 h:2>
 Wow!<Delay 10>
@@ -194,7 +194,7 @@ I just want to live
 in peace and quiet."<Close><End of Block>
 <TextBlock 48 w:38 h:4>
 Fei
-"So why do you keep
+"So why d'you keep
 hounding me to get
 into a Gear!?<New>
 Why don't you just

@@ -32,20 +32,20 @@ Citan
 "I see.
 Sorry for the
 trouble."<Close><End of Block>
-<TextBlock 6 w:52 h:4>
+<TextBlock 6 w:50 h:4>
 These days the Church's
 technology has become
 indispensable in people's
 day-to-day lives.<New>
-We thought we'd use these
-leftover facilites and
-try to help everyone as
-much as we can.<Close><End of Block>
+We thought we'd try to
+serve them as best we
+can using any leftover
+equipment.<Close><End of Block>
 <TextBlock 7 w:58 h:3>
 Hey, it's you guys.<New>
-As you can see, this facility
-is for the repair of worker
-Gears only.<New>
+As you can see, this workshop
+only has equipment for the
+repair of worker Gears.<New>
 We simply can't help you out
 with the new-model military
 Gear that you have.<Close><End of Block>

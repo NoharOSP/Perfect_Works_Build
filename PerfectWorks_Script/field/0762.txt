@@ -48,7 +48,7 @@ but he's very worried."<Close><End of Block>
 Sigurd
 "Shakhan was the Prime
 Minister of Av.<New>
-But he is the de facto
+But he's the de facto
 leader now.<Delay 10>
 His rule is what has
 put our Av in turmoil."<Close><End of Block>
@@ -78,8 +78,8 @@ first Holy Mother."<Close><End of Block>
 <TextBlock 11 w:38 h:2>
 Sending the latest
 information!<Close><End of Block>
-<TextBlock 12 w:40 h:2>
-We are praying for a
+<TextBlock 12 w:38 h:2>
+We're praying for a
 successful rescue!<Close><End of Block>
 <TextBlock 13 w:48 h:4>
 Escape route 4 is for
@@ -101,10 +101,10 @@ info on to the Yggdrasil.
 Good luck rescuing Margie!<Close><End of Block>
 <TextBlock 17 w:46 h:1>
 They've entered gate 4.<Close><End of Block>
-<TextBlock 18 w:44 h:3>
-We have an unidentifed
-heat reading in the
-ventilation shaft.<New>
+<TextBlock 18 w:52 h:3>
+We've got unidentified
+light and heat readings
+in the ventilation shaft!!<New>
 They're Gears! Gate 3
 has been destroyed!<Close><End of Block>
 <TextBlock 19 w:48 h:2>

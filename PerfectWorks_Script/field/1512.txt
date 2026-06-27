@@ -448,10 +448,10 @@ We do not have the
 combat experience...<Delay 20>
 and if anything ever
 happened to the Queen...<Close><End of Block>
-<TextBlock 70 w:32 h:3>
+<TextBlock 70 w:36 h:3>
 Maria
-"It can't be
-the enemy...!?"<Close><End of Block>
+"Don't tell me the
+enemy just<-->!?"<Close><End of Block>
 <TextBlock 71 w:38 h:3>
 Maria
 "Number 17 hangar!?<Delay 20>

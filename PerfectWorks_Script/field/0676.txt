@@ -62,10 +62,10 @@ And it'd be near Lahan."<Close><End of Block>
 Fei
 "But since we can't fix
 it, we can't move it..."<Close><End of Block>
-<TextBlock 13 w:38 h:3>
+<TextBlock 13 w:36 h:3>
 Fei
-"What do you intend
-on doing, Doc?"<Close><End of Block>
+"What d'you intend
+to do, Doc?"<Close><End of Block>
 <TextBlock 14 w:44 h:4>
 Fei
 "So then, Doc, what
@@ -372,12 +372,12 @@ Hmm, the prices are a
 little high.<New>
 But we need these things
 to cross the desert...<Close><End of Block>
-<TextBlock 58 w:52 h:3>
-Shakhan, who had been
+<TextBlock 58 w:50 h:3>
+Shakhan, who'd been
 ruling this country,
 has been chased out!<New>
 The war with Kislev might
-end, and life will be easy
+end, and life'll be easy
 again. I'm so happy.<Close><End of Block>
 <TextBlock 59 w:52 h:3>
 Since those Geburah forces
@@ -448,7 +448,7 @@ better the price!<Delay 20>
 'Dig it'!?<Close><End of Block>
 <TextBlock 68 w:24 h:3>
 So...
-What do you
+What d'you
 want to buy?<Close><End of Block>
 <TextBlock 69 w:42 h:2>
 Fei

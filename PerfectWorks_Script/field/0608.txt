@@ -1,15 +1,13 @@
 <TextBlock 1 w:48 h:4>
 Fei
-"Oh, he's just hanging
-about over there...<New>
+"Oh, he's just wandering
+about the place.<New>
 He's thinking about his
 sister's marriage and
 doesn't seem to be able
 to calm down.<New>
-He likes to talk and act
-big, but he really is
-still just a kid...
-It's kinda cute, huh?"<Close><End of Block>
+Say what you like about
+him, but that's cute!"<Close><End of Block>
 <TextBlock 2 w:52 h:4>
 Fei
 "He's probably around here
@@ -25,7 +23,7 @@ don't go near it again."<Close><End of Block>
 <TextBlock 4 w:52 h:4>
 Fei
 "Hey, now...<Delay 20>
-What are you saying, Dan?<New>
+What're you saying, Dan?<New>
 Both Timothy and Alice are
 my best friends.<Delay 20>
 You know I can't do that!"<Close><End of Block>
@@ -78,9 +76,9 @@ You found an Aquasol S!!<Close><End of Block>
 You found a
 weird item!!<Close><End of Block>
 <TextBlock 16 w:52 h:3>
-'High' there Fei!<New>
+'High' there, Fei!<New>
 Did you know that beyond
-that black forest lies the
+that dark forest lies the
 great kingdom of Av?<New>
 It's got a big capital
 city with lots of people
@@ -223,13 +221,13 @@ When will he ever grow up!?<Close><End of Block>
 Oh, Fei!<Delay 20>
 Maybe you can help...
 Have you seen Dan?<Close><End of Block>
-<TextBlock 45 w:54 h:3>
-Oh really?
-I'm a little suspicious
-though...<New>
+<TextBlock 45 w:54 h:4>
+Really?<Delay 10>
+I think it's weird!<New>
 Alice was saying she needed
 him for something...<Delay 15>
-I bet he's avoiding me...<Close><End of Block>
+Honestly, where is he
+loitering, I wonder...?<Close><End of Block>
 <TextBlock 46 w:54 h:4>
 Alice was saying she needed
 him for something...<New>
@@ -274,13 +272,13 @@ Heh... It's weird, isn't it?<Delay 12>
 Ooooooh! You think so?<Delay 20>
 Maybe I need to rethink
 this...<Close><End of Block>
-<TextBlock 53 w:46 h:4>
-Really? Do you mean it?<Delay 30>
+<TextBlock 53 w:44 h:4>
+Really? D'you mean it?<Delay 30>
 Hah, I knew you'd say
 that for me, Fei.<New>
 Here, this is my very
 own homemade Aquasol.
-Our bearcows love it!<Delay 20> 
+Our bearcows love it!<Delay 20>
 Try it out sometime!<Close><End of Block>
 <TextBlock 54 w:46 h:2>
 Received Aquasol, the
@@ -347,7 +345,7 @@ to climb that mountain path
 to visit the Doc.<Delay 20>
 It must be a sign of my age.<Close><End of Block>
 <TextBlock 61 w:54 h:4>
-Uuh... *sob*...<Delay 10>
+Ugh... *sob*...<Delay 10>
 How could Alice go and get
 married...<Delay 30>and to that
 musclehead, Timothy...!?<New>
@@ -392,10 +390,10 @@ pull anything with the bride!<Close><End of Block>
 Hello, Fei!
 Are you here
 to see Alice?<Close><End of Block>
-<TextBlock 72 w:58 h:4>
+<TextBlock 72 w:56 h:4>
 Actually, it's customary
-that we don't let any men
-in to see the bride today...<Delay 40>
+not to let any men in to
+see the bride today...<Delay 40>
 But you can be an exception.<Close><End of Block>
 <TextBlock 73 w:44 h:3>
 Welcome to the village

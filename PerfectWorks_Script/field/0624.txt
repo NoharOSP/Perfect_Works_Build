@@ -50,15 +50,15 @@ innocent kid!"<Close><End of Block>
 Hmmm...!!<Delay 20>
 Young one, beware!
 I can see it...<New>
-There is a dark and
+There's a dark and
 icy wind that blows
-where you are going.<New>
+where you're going.<New>
 A wind that nurtures
 grief and resentment,
 inviting death from
-which there is no
+which there's no
 salvation...<New>
-No one will be able
+No one'll be able
 to escape from it!
 But you, and only you,
 must eventually face
@@ -89,7 +89,7 @@ After all, your
 fate will be what
 you make of it.<Close><End of Block>
 <TextBlock 13 w:48 h:4>
-But do you want to hear
+But d'you want to hear
 my prediction again? Eh?<Delay 20>
 <Opcode 1 255>    Yeah, from the top!
     No, enough already!<Close><End of Block>
@@ -171,7 +171,7 @@ It's said that in the
 southern desert of Av
 there's buried treasure
 all over the place!<New>
-There's hundreds of
+There're hundreds of
 people trying to strike
 it rich by digging
 everywhere!<New>

@@ -59,4 +59,4 @@ hovering kicked in straight
 away<Delay 5>...<Delay 5>automatically!"<Close><End of Block>
 <TextBlock 12 w:16 h:2>
 Fei
-"!!?..."<Opcode 2 32><Close><End of Block>
+"...!!?"<Opcode 2 32><Close><End of Block>

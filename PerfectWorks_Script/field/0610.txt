@@ -116,7 +116,7 @@ safer location!"<Close><End of Block>
 Citan
 "I understand how you
 feel, but leave it to
-Fei and I!<New>
+Fei and me!<New>
 Right now, the first
 priority for you both
 is your own safety.<New>
@@ -227,7 +227,7 @@ handle it from here!"<Close><End of Block>
 Huh...!?<Opcode 2 20><Close><End of Block>
 <TextBlock 50 w:54 h:4>
 Dan
-"I'm sorry Doctor Uzuki!
+"I'm sorry, Doctor Uzuki!
 I got out of the village
 earlier, but I came back...<New>
 ...I just couldn't bear
