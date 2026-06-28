@@ -7,135 +7,134 @@ Who will play?<Delay 10>
 <Opcode 1 255>    <Perso1>
     <Perso2>
     <Perso3><Close><End of Block>
-<TextBlock 3 w:14 h:1>
-One-two<Close><End of Block>
-<TextBlock 4 w:24 h:3>
-Really quit?<Delay 10>
+<TextBlock 3 w:22 h:1>
+One, two...<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+Do you really mean to quit?<Delay 10>
 <Opcode 1 255>    No
     Yes<Close><End of Block>
-<TextBlock 5 w:14 h:1>
-Ready? <Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:12 h:1>
+Ready?<Opcode 2 30><Close><End of Block>
 <TextBlock 6 w:12 h:1>
 Start!<Close><End of Block>
-<TextBlock 7 w:44 h:6>
-You thought I'd battle
-right off? Get real!
-Only the fast do well
-at this game.
-It's a card game for
-'men of the sea'.<Close><End of Block>
-<TextBlock 8 w:60 h:3>
+<TextBlock 7 w:50 h:6>
+Did you think this was
+a battle all of a sudden?<New>
+Think again <-->
+this here's a card game,<Delay 5>
+a proving ground for
+'men of the sea',<Delay 5>
+where only the fast
+will gain glory.<Close><End of Block>
+<TextBlock 8 w:62 h:3>
 I'll explain the rules to you.
-First I deal you and your
-opponent 26 cards each.<Close><End of Block>
-<TextBlock 9 w:50 h:3>
-Then I will place 4 cards
-in front of each player
-as your current hands.<Close><End of Block>
-<TextBlock 10 w:56 h:3>
-And then, I place another
-card on the left hand side
-looking from your viewpoint.<Close><End of Block>
-<TextBlock 11 w:60 h:5>
-Up to here I do automatically
-for you. But from here on the
-game starts.<New>
-You must take your first 4
-cards and the remaining 21
-cards and place them all on
-top of the two center cards
-faster than your opponent can.<New>
-Of course there are certain
-rules for placing the cards.<Close><End of Block>
-<TextBlock 12 w:50 h:4>
-Place a card on top of
-another card if it is
-numerically in order.
-Like one number higher...<Close><End of Block>
-<TextBlock 13 w:50 h:2>
-In this case, where there
-is a 3 you can play a 4.<Close><End of Block>
-<TextBlock 14 w:44 h:1>
-Or one number lower...<Close><End of Block>
-<TextBlock 15 w:50 h:2>
-In this case, where there
-is a 4 you can play a 3.<Close><End of Block>
-<TextBlock 16 w:36 h:2>
-But if the numbers
-aren't in order...<Close><End of Block>
-<TextBlock 17 w:58 h:3>
-you can't play the card. But,
-if there is a K (13) you can
-play an A (1) and vice versa.<Close><End of Block>
-<TextBlock 18 w:56 h:6>
-Now I'll teach you how
-to control the cards.
-First...<New>
-To move a card from your
-deck into an empty position
-in the hand of 4 cards in
-front of you, use Left and
-Right on the Directional
-button to pick the position.<New>
-Then use either the
-<S> button, <T> button,
-L1 button, or R1 button
-to place the card.<Close><End of Block>
-<TextBlock 19 w:46 h:3>
-And to play a card, 
-move on top of the card
+First, I deal you and your
+opponent twenty-six cards each.<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Next, both players will
+have four cards each
+placed in their hands.<Close><End of Block>
+<TextBlock 10 w:52 h:3>
+Then I place another card
+from each player, on their
+left-hand side.<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Everything so far,
+I'll do automatically.<Delay 5>
+But after this it's
+the start of the game.<New>
+You must play your current
+hand of four cards as well
+as the remaining twenty-one
+faster than your opponent.<New>
+Of course, there're certain
+rules for playing them.<Close><End of Block>
+<TextBlock 12 w:50 h:3>
+If it's an adjacent value
+to a played card, like
+one value higher...<Close><End of Block>
+<TextBlock 13 w:54 h:2>
+In this case, where there's
+a 3 you can play a 4.<Close><End of Block>
+<TextBlock 14 w:28 h:2>
+Or if it's one
+value lower...<Close><End of Block>
+<TextBlock 15 w:54 h:2>
+In this case, where there's
+a 4 you can play a 3.<Close><End of Block>
+<TextBlock 16 w:40 h:2>
+If the values aren't
+adjacent, however...<Close><End of Block>
+<TextBlock 17 w:52 h:2>
+you won't be able to play.<New>
+But if there's a K you can
+play an A, and vice versa.<Close><End of Block>
+<TextBlock 18 w:54 h:5>
+Next I'll teach you how
+to control the cards.<New>
+First off, to put a card in
+your current hand, move to
+the position you want to
+put it using the left and
+right directional buttons,<New>
+then place it by pressing
+any one of the <S>, <T>, L1
+or R1 buttons.<Close><End of Block>
+<TextBlock 19 w:38 h:3>
+And to play a card,
+move on to the card
 you want to play...<Close><End of Block>
 <TextBlock 20 w:46 h:3>
-And press the <T> button
-or R1 button to play on
-the right...<Close><End of Block>
-<TextBlock 21 w:46 h:3>
-Or press the <S> button
-or L1 button to play on
-the left.<Close><End of Block>
+When you want to play
+to the right, press the
+<T> button or R1 button,<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+and when you want to play
+to the left, press the
+<S> button or L1 button.<Close><End of Block>
 <TextBlock 22 w:48 h:2>
-Of course your opponent 
-is also playing cards.<Close><End of Block>
-<TextBlock 23 w:58 h:4>
-What if neither of you
-can play a card, even
-after replacing the set of
-4 cards in front of you?<New>
-In this case there will be a
-call of 'one-two', and a card
-will be played directly from
-your remaining pile of cards.<Close><End of Block>
-<TextBlock 24 w:14 h:1>
-One-two<Close><End of Block>
-<TextBlock 25 w:56 h:2>
-If both players still can't
-play, this will be repeated.<Close><End of Block>
+Of course, your opponent
+will also be playing.<Close><End of Block>
+<TextBlock 23 w:56 h:4>
+In the situation where both
+players have put four cards
+each in their hands but have
+none they can play,<New>
+with a call of 'one, two',
+one card from each of your
+piles will be played.<Close><End of Block>
+<TextBlock 24 w:22 h:1>
+One, two...<Close><End of Block>
+<TextBlock 25 w:40 h:3>
+And if it happens
+to you both again,
+this'll be repeated.<Close><End of Block>
 <TextBlock 26 w:56 h:3>
-If there are no remaining
-cards on your pile to play
-at the 'one-two' call...<New>
-then the left-most card from
-the set of cards in front of
-you will be played directly.<Close><End of Block>
-<TextBlock 27 w:14 h:1>
-One-two<Close><End of Block>
-<TextBlock 28 w:12 h:1>
-And...<Close><End of Block>
+In the situation where
+there're no cards left to
+play at the 'one, two' call,<New>
+then the leftmost card in
+your hand will be played.<Close><End of Block>
+<TextBlock 27 w:22 h:1>
+One, two...<Close><End of Block>
+<TextBlock 28 w:28 h:1>
+And finally...<Close><End of Block>
 <TextBlock 29 w:48 h:3>
 The first player to use
-up all their cards wins.
-In this case you lose.<Close><End of Block>
-<TextBlock 30 w:58 h:4>
-Oh, and one more thing.<New>
-By pushing the Select button,
-you can quit a game midway
-through. But of course this
-will mean you lose.<Close><End of Block>
-<TextBlock 31 w:48 h:4>
-By the way, there are
-lots of good players
-onboard the Tamuz.<New>
+up all their cards wins.<Delay 10>
+In this case, you lose.<Close><End of Block>
+<TextBlock 30 w:54 h:4>
+Oh, I almost forgot.<New>
+If you press the SELECT
+button, you can quit a game
+midway through.<Delay 10> Of course,
+in that case you lose.<Close><End of Block>
+<TextBlock 31 w:44 h:4>
+By the way, there're
+several card players
+on board the Tamuz.<Delay 5>
+Look for them later.<New>
 How about starting off
-by playing my mate here?<Delay 10>
+with this person?<Delay 10>
 <Opcode 1 255>    Sure
     No thanks<Close><End of Block>
