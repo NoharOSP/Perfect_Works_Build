@@ -249,7 +249,7 @@ Now go to bed and rest!)"<Close><End of Block>
 Citan
 "(The Games are not over
 yet, so try to rest up
-before tommorow's bouts.)"<Close><End of Block>
+before tomorrow's bouts.)"<Close><End of Block>
 <TextBlock 45 w:54 h:4>
 Citan
 "<Delay 5>...<New>
@@ -1264,11 +1264,11 @@ explode at any time!"<Close><End of Block>
 <TextBlock 213 w:10 h:2>
 Fei
 "<Delay 5>.<Delay 5>.<Delay 5>."<Opcode 2 45><Close><End of Block>
-<TextBlock 214 w:42 h:4>
+<TextBlock 214 w:48 h:4>
 Fei
-"This is bad!?<Delay 15>
-Hurry up and get this
-thing off of me, Doc!"<Close><End of Block>
+"Well that's no good,
+is it!?<Delay 15> Hurry up and get
+this thing off me, Doc!"<Close><End of Block>
 <TextBlock 215 w:54 h:4>
 Citan
 "Now that it has no
@@ -1302,32 +1302,32 @@ If only there was
 something else we
 could do besides
 risky tinkering!"<Close><End of Block>
-<TextBlock 219 w:54 h:4>
+<TextBlock 219 w:52 h:4>
 Hammer
 "Excuse me, Doctor, but<Delay 5>...<Delay 5>
 would you mind giving
 me that safety device?<New>
-It would fetch a fair price
+It'd fetch a fair price
 if sold to a collector.
-Of course I'd be willing
+Of course, I'm willing
 to pay you for it!"<Close><End of Block>
 <TextBlock 220 w:48 h:4>
 Citan
 "<Delay 5>...<Delay 5>This thing?
 Well I do not mind.<Delay 15>
 What do you think, Fei?"<Close><End of Block>
-<TextBlock 221 w:50 h:4>
+<TextBlock 221 w:52 h:4>
 Fei
-"Well it's of no value to
-us to keep it now, is it?
-<Delay 5>...<Delay 5>He can have it, Doc!"<Close><End of Block>
+"It's not worth anything
+to us...<Delay 5>...<Delay 5>
+I don't mind either, Doc."<Close><End of Block>
 <TextBlock 222 w:30 h:3>
 Citan
 "Well then,
 here you go<Delay 5>..."<Close><End of Block>
 <TextBlock 223 w:50 h:3>
 Hammer
-"Hee-hee. Thank you, man!
+"Hehe, thank you, man!
 Take this as payment..."<Close><End of Block>
 <TextBlock 224 w:30 h:1>
 Received 4000G!<Close><End of Block>

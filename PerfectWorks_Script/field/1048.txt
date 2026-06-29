@@ -1031,19 +1031,19 @@ Hammer
 "Hey hey!<Delay 5> Thanks again, man!<Delay 15>
 That warms me pockets! <Delay 10>So...<Delay 5>
 are you heading back now?"<Close><End of Block>
-<TextBlock 193 w:56 h:3>
+<TextBlock 193 w:50 h:3>
 Hammer
 "Well then, no use
 hanging around.<New>
 We'd better head
-back to our lodgings as
-early as possible.<New>
+back to our lodgings
+as early as possible.<New>
 After all that exercise,
 the best thing for you
 is to go beddy-byes!<New>
-You had better sleep off
+You'd better sleep off
 the day's fatigue, 'cause
-tommorow's a big day!"<Close><End of Block>
+tomorrow's a big day!"<Close><End of Block>
 <TextBlock 194 w:54 h:4>
 Hammer
 "Bro,<Delay 5> you did it! You won!
@@ -1065,7 +1065,7 @@ no easy task<Delay 5>...<New>
 Up till today I've managed
 to win somehow,<Delay 5> but
 tomorrow is another matter!<Delay 5>
-I doubt that I will win."<Close><End of Block>
+I doubt that I'll win."<Close><End of Block>
 <TextBlock 196 w:54 h:4>
 Hammer
 "<Delay 5>...<Delay 5>If that's your attitude
@@ -1086,15 +1086,16 @@ pre-battle blues.<New>
 Thanks, Hammer!<Delay 15>
 Well then,<Delay 5> let's head back
 to our lodgings for now."<Close><End of Block>
-<TextBlock 199 w:56 h:4>
+<TextBlock 199 w:54 h:4>
 Hammer
 "I wish I could say 'yeah
 let's go', but tomorrow's
 Finals League is important!<New>
-Don't you think you should
-take care in servicing and
-customizing your Gear?
-Our fates depend on it!"<Close><End of Block>
+I think you'd better
+service and customize
+your Gear carefully and
+thoroughly.<New>
+You with me, bro?"<Close><End of Block>
 <TextBlock 200 w:52 h:4>
 Fei
 "...Gear servicing, huh?<New>
