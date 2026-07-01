@@ -3,7 +3,11 @@ Xenogears Perfect Works Build: Includes an improved translation, rebalanced game
 
 Download the latest release here:
 
-https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.10.2
+https://github.com/NoharOSP/Perfect_Works_Build/releases/tag/0.11.0
+
+For more in-depth information about the build, visit the wiki:
+
+https://github.com/NoharOSP/Perfect_Works_Build/wiki
   
 ## Instructions
 
@@ -41,7 +45,7 @@ WARNING: When a ROM has been made, do not resume progress by loading a save stat
 ## Completion stats
 
 - Name/terminology changes: 100%
-- Main script: 97% (start of Deus)
+- Main script: 100%
 - NPC script: 15% (plus all name/terminology changes)
 
 ## Introduction
@@ -54,85 +58,28 @@ DISCLAIMER: Some of the patches were designed to work in tandem with each other.
 
 ## Version history
 
-### Version 0.10.2
+### Version 0.11.0
 
-05/25/2026
+06/30/2026
 
-- Script changes up to Deus have been completed.
-- NPC script changes up to Bart's Hideout have been completed.
-- Wither and Weaken have been restored in ground battles.
-- Bug has been fixed where the patcher does not merge the FMV undub with Japanese controls in disc 2.
-- Fixed portraits when Rico attacks Bart on the Yggdrasil bridge.
-- Fixed timing of the Yggdrasil engine room scene.
-- Fixed bug where Defense is still used instead of Defend with Japanese controls.
-- Blackmoon Forest bugs have been fixed.
-- "Total" is used instead of "Total damage" to avoid confusion for players when healing.
-- Crescens' scrapped final frame has been restored and is available at the Lighthouse.
-- Citan's portrait is used during the Aveh transport timeout.
-- Holy Light's power now matches what is stated in the wiki.
-- Nature's Rhumba now targets a single enemy.
-- Fixed missing portraits in Bart's Hideout.
-- Menu stats for the characters and Gears have been updated to match battle data.
-- Exp and gold patches no longer overwrite other patches where monster data is used.
-- Music adjustments have been made to Nisan for consistency.
-- When the music patch is applied, Nisan will continue to play Wind from the Valley near the end of disc 1 as opposed to a sped up Where Dreams Hatch.
-- Fixed Gear damage reduction bug.
-- Removed the effects from elemental stones and prevented them from being obtained from shops.
-- Fixed Nisan shop bug from the original release.
-
-### Version 0.10.1
-
-04/23/2026
-
-- October Mermaid now plays during Emeralda's scene in the Yggdrasil as was originally intended.
-- Battle flashes patch no longer turns off battle fades.
-- A bug has been fixed with the patcher where patch folder list names are not cleared at the end of the process.
-- The party is healed before the Reapers Ship
-- Fei sprite fade-in during Citan's chair monologue has been restored.
-- Rico uses his portrait during a conversation in his Yggdrasil dorm.
-- Amphisbaena sound effects have been refactored.
-
-### Version 0.10.0
-
-04/09/2026
-
-- The music change patch has returned.
-- The option to switch to Japanese controls is now available.
-- An option is available to turn off level requirements for Deathblows.
-- Script up to the Snowfield Hideout been updated.
-- NPC script up to Dazil has been updated.
-- Blackmoon Forest and the Av Desert have their original encounter rates when the script patch is applied without half encounters.
-- The room in Solaris where Elly is captured has had its encounter rate halved with the half encounters patch.
-- Timing of the dialogue at the Khan-Grahf reveal has been improved.
-- Fei now uses his sad portrait when he converses with Wiseman in disc 2.
-- Sprite fixes have been made to the Excalibur briefing scene.
-- Abelites has been changed to Abal.
-- Game freeze at the Stalactite Cave when the script and story mode patches are used has been fixed.
-
-[Details about previous releases can be found here.](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Version-History)
-
-
-## [FAQs](https://github.com/NoharOSP/Perfect_Works_Build/wiki/FAQs)
-
-## [Archive](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Archive)
-
-## [Saves](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Saves)
-
-## Patches
-
-### [Battle Arena](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Battling-Arena)
-
-### [Graphic options](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Graphics)
-
-### [Quality of Life Features](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Extra-QOL-Features)
-
-### [Items/Characters](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Items-and-Characters)
-
-### [Monster stats](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Enemy-Stats)
-
-### [Script](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Script-Changes)
-
-### [Shared Changes](https://github.com/NoharOSP/Perfect_Works_Build/wiki/Shared-Changes)
+- Main script has been completed.
+- 9999 damage cap can be turned off.
+- Instant text option is available.
+- Experience and gold modifiers can now be selected through a dropdown menu.
+- Renmazuo's Holy Light and Healing Light have been modified. Details are in the README.
+- Weltall's attack output is no longer affected by the battle executable in rebalanced items/characters.
+- Nisan shop pointer has been updated so Fei is positioned properly during a cutscene.
+- An option is now available to just apply bug fixes without any additional patches.
+- The crit rate for Elly's Ethers now increases when her Ether stat increases.
+- Translation for Battle Arena monsters has been updated when the basic and expert modes have been applied.
+- The basic and expert arena patches no longer overwrite rebalanced items and characters changes.
+- Elly's critical hit message is now just a critical hit alert.
+- Wither and Weaken have now been restored for Gears.
+- Bracer's effect now works correctly.
+- Buttons have been added to the Billy tutorial.
+- Medena's name has been changed to Medina.
+- Improved the grammar of Dan's battle dialogue.
+- Sword Citan will now use the Japanese voice clips during battle when the battle undub patch is applied.
 
 ## Links
 
@@ -170,7 +117,7 @@ DM or tag here if you want immediate feedback on Twitter:
 - CosmicFrame: Testing
 - The Minester: Testing
 - RayDreamer (@PromisedPain): Testing
-- ChaoticBrave: Testing
+- ChaoticBrave: Testing and dropdown menu code
 - Aero JP: Testing
 - Kiahnte: Testing
 - wowbobwow: Testing
@@ -186,3 +133,5 @@ DM or tag here if you want immediate feedback on Twitter:
 - FFMaster: Fast text code
 - RyleFury: Deus bug fix, softsub tools
 - Sephiroth1311: Deus bug fix
+
+
