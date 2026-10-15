@@ -88,6 +88,19 @@ void fileEditor::audioEdits() {
 			}
 		}
 	}
+	if (windowHandler::voiceticked == BST_CHECKED) {
+		if (windowHandler::scriptticked == BST_CHECKED) {
+			if (windowHandler::jpnticked == BST_CHECKED) {
+				std::filesystem::copy("jpn_undub_script", "temp", std::filesystem::copy_options::overwrite_existing);
+			}
+			else {
+				std::filesystem::copy("undub_script", "temp", std::filesystem::copy_options::overwrite_existing);
+			}
+		}
+		else if (windowHandler::jpnticked == BST_CHECKED) {
+			std::filesystem::copy("jpn_undub", "temp", std::filesystem::copy_options::overwrite_existing);
+		}
+	}
 }
 
 void fileEditor::modeEdits() {
